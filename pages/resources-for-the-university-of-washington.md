@@ -153,7 +153,7 @@ Alex says, in part:
     - Consider going to a Quora meet-up.
 For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/). (This blog is currently closed to the public, but if you contact me and you live in the Seattle area, I can probably get you in.)
 
-    The Seattle Quora group also has its own [Facebook group page](https://www.facebook.com/groups/quoraseattle/).  It's a closed group, but I can let you in.
+        The Seattle Quora group also has its own [Facebook group page](https://www.facebook.com/groups/quoraseattle/).  It's a closed group, but I can let you in.
 
     - [How do I recruit people to join Quora at the University of Washington?](https://www.quora.com/How-do-I-recruit-people-to-join-Quora-at-the-University-of-Washington) (all the answers seem good)
 
