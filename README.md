@@ -8,7 +8,7 @@ Assuming one has the prerequisites to compile the site, just do:
 git clone https://github.com/riceissa/riceissa.com.git
 cd riceissa.com
 ghc --make site.hs
-./site rebuilt
+./site rebuild
 ~~~~
 
 This will generate a folder, `_site`, which will contain all the files that are eventually served on the site.
