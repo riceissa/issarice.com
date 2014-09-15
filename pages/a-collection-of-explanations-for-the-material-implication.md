@@ -9,17 +9,17 @@ tags: math
 
 This document outlines some of the common explanations surrounding the
 material implication connective in propositional logic.  The connective
-is most commondly represented using an arrow such as `\(\to\)` or
-`\(\implies\)` (even `\(\supset\)` in older texts), and when placed
-between two propositions as in “`\(p \to q\)`”, is supposed to mean “if `\(p\)`, then `\(q\)`”. Moreover, this connective is defined as a truth function as follows.
+is most commondly represented using an arrow such as $\to$ or
+$\implies$ (even $\supset$ in older texts), and when placed
+between two propositions as in “$p \to q$”, is supposed to mean “if $p$, then $q$”. Moreover, this connective is defined as a truth function as follows.
 
-- `\(p \to q\)` is true when `\(p\)` is false or when `\(q\)` is true
-- `\(p \to q\)` is false when `\(p\)` is true and `\(q\)` is false
+- $p \to q$ is true when $p$ is false or when $q$ is true
+- $p \to q$ is false when $p$ is true and $q$ is false
 
-In other words, `\(p\to q\)` is equivalent to writing `\(\neg p \vee q\)`.
+In other words, $p\to q$ is equivalent to writing $\neg p \vee q$.
 A problem arises when working off this definition, however, because the
 conditions for truth given above do not correspond to the natural
-language sense of “if `\(p\)`, then `\(q\)`”. The purpose of this
+language sense of “if $p$, then $q$”. The purpose of this
 document then is to explain why the material implication is defined as
 it is, and to aid in an intuitive understanding of the connective.
 
