@@ -7,11 +7,15 @@ math: ""
 ---
 
 
-    fbterm --font-names="Source Code Pro" --font-size=14
+```bash
+fbterm --font-names="Source Code Pro" --font-size=14
+```
 
-    alias fb='fbterm --font-names="Source Code Pro" --font-size=14'
+```bash
+alias fb='fbterm --font-names="Source Code Pro" --font-size=14'
+```
 
-{% highlight bash %}
+```bash
 # For git
 
 alias gstat='git status'
@@ -33,9 +37,9 @@ alias g='surfraw google -browser=elinks '
 
 
 vim .uim.d/customs/custom-anthy-keys1.scm 
+```
 
-See https://github.com/sigurdga/gnome-terminal-colors-solarized
-and http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html
+See <https://github.com/sigurdga/gnome-terminal-colors-solarized>
+and <http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html>
 for getting Solarized to work with Gnome Terminal.
-also cf. http://www.terminally-incoherent.com/blog/2013/12/30/tools-you-need/
-{% endhighlight %}
+also cf. <http://www.terminally-incoherent.com/blog/2013/12/30/tools-you-need/>
