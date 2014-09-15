@@ -9,6 +9,12 @@ license: "CC-BY"
 tags: computing
 ---
 
+``` latex
+\emph{hello} there!
+\( \sin ab \)
+$x$
+\cdos
+```
 
 There are already well-written guides for setting up Jekyll on GitHub Pages, and it would be pointless for me to add another.
 This page is here mostly as a quick reference for myself.
@@ -19,7 +25,7 @@ I think Jekyll is designed to run automatically on GitHub, as long as you are in
 The most important file is called <code>\_config.yml</code>, and must be placed in the main directory.
 If one is using GitHub pages on one’s website repository, it should look like:
 
-```
+```yaml
 markdown: redcarpet
 baseurl: ""
 exclude: ['README.md']
@@ -27,9 +33,11 @@ exclude: ['README.md']
 
 For any other repository, the <code>baseurl</code> must be modified:
 
-    markdown: redcarpet
-    baseurl: /REPONAME
-    exclude: ['README.md']
+`````yaml
+markdown: redcarpet
+baseurl: /REPONAME
+exclude: ['README.md']
+`````
 
 This website itself is created using Jekyll and is hosted on GitHub, so looking at the [source](https://github.com/riceissa/riceissa.github.io) may be useful.
 
@@ -52,15 +60,15 @@ See [here](/math/math-test.html) for an extensive list of what works and what do
 
 Enter
 
-{% highlight tex %}
+```latex
 `\(\int_a^b f(x) \, dx\)`
-{% endhighlight %}
+```
 
-to obtain `\(\int_a^b f(x) \, dx\)`.
+to obtain $\int_a^b f(x) \, dx$.
 
 Enter
 
-{% highlight tex %}
+```latex
 `\[\begin{aligned}
 \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t}
 & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
@@ -70,11 +78,11 @@ Enter
 \, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t}
 & = \vec{\mathbf{0}} \\
 \nabla \cdot \vec{\mathbf{B}} & = 0 \end{aligned}\]`
-{% endhighlight %}
+```
 
 to obtain
 
-`\[\begin{aligned}
+$$\begin{aligned}
 \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t}
 & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
 \nabla \cdot \vec{\mathbf{E}}
@@ -82,7 +90,7 @@ to obtain
 \nabla \times \vec{\mathbf{E}}\, +
 \, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t}
 & = \vec{\mathbf{0}} \\
-\nabla \cdot \vec{\mathbf{B}} & = 0 \end{aligned}\]`
+\nabla \cdot \vec{\mathbf{B}} & = 0 \end{aligned}$$
 
 (modified from Maxwell’s Equations as given [here](http://www.mathjax.org/demos/tex-samples/))
 
