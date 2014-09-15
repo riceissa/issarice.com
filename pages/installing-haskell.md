@@ -49,3 +49,7 @@ tar -zxf cabal-install-1.20.0.3.tar.gz && rm cabal-install-1.20.0.3.tar.gz
 echo "PATH+=':$HOME/.cabal/bin'" >> ~/.bashrc
 cabal update && cabal install cabal cabal-install alex happy
 ```
+
+## Hakyll
+
+did not work when I just did `cabal install hakyll`. I had to force install Pandoc again and then do `cabal install hakyll` once more. Strange...

@@ -13,6 +13,6 @@ license: CC0
 - Site source hosted on GitHub
 - Markdown files compiled to HTML using Hakyll[^hak], a static site generator
 - Website hosted on Linode, using Apache 2 on a 64-bit Debian 7.5 machine
-- Domain names <riceissa.com> and <issarice.com> registered through Hover
+- Domain names <http://riceissa.com> and <http://issarice.com> registered through Hover
 
 [^hak]: I should eventually write out the details of this, and explain what goes into the `site.hs` file.
