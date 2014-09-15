@@ -67,15 +67,14 @@ main = hakyll $ do
         route $ customRoute $ dropExtension . joinPath . tail . splitPath . toFilePath
         -- route $ setExtension ""
         compile $ pandocCompilerWith defaultHakyllReaderOptions pandocOptions
-            >>= loadAndApplyTemplate "templates/tags.html" (pageCtx tags)
-            >>= loadAndApplyTemplate "templates/skeleton.html" (licenseCtx `mappend` mathCtx `mappend` defaultContext)
+            {->>= loadAndApplyTemplate "templates/tags.html" (pageCtx tags)-}
+            >>= loadAndApplyTemplate "templates/skeleton.html" (licenseCtx `mappend` mathCtx `mappend` (checkTags $ tagCtx tags) `mappend` defaultContext)
             >>= relativizeUrls
 
+    -- this makes the separate pages for each tag that go under /tag/*
     tagsRules tags $ \tag pattern -> do
         let title = "Tag: " ++ tag
         route idRoute
-
-        {-compile $ pageOfPages tags title pattern-}
         compile $ do
             pages <- loadAll pattern
             let ctx = constField "title" title <>
@@ -136,11 +135,40 @@ postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
 
+tagCtx :: Tags -> Context String
+tagCtx tags = field "tags" $ \item -> do
+    metadata <- getMetadata $ itemIdentifier item
+    return $ if "tags" `M.member` metadata
+                then "bingo!"
+                else ""
+
+checkTags thing = constField "hello" "hello"
+
+{-eliminate :: Context String -> String-}
+{-eliminate (Context a) = a-}
+
+{-checkTags :: Context String -> Context String-}
+{-checkTags thing = do-}
+        {-if eliminate thing == ""-}
+            {-then constField "hello" "hello"-}
+            {-else thing-}
+
+
 pageCtx :: Tags -> Context String
-pageCtx tags = mconcat
-    [tagsField "tags" tags
-    , defaultContext
-    ]
+pageCtx tags = tagsField "tags" tags <> defaultContext
+
+{-\item -> do-}
+    {-let metadata = getMetadata $ itemIdentifier item-}
+    {-if "tags" `M.member` metadata-}
+        {-then tagsField "tags" tags <> defaultContext-}
+        {-else field "tags" $ return ""-}
+
+{-pageCtx tags = field "tags" $ \item -> do-}
+                    {-metadata <- getMetadata $ itemIdentifier item-}
+    {-[>if "tags" `M.member` metadata<]-}
+                {-[>then<]-}
+                    {-return (tagsField "tags" tags) <> defaultContext-}
+                {-[>else (return "")<]-}
 
 -- from http://qnikst.github.io/posts/2013-02-04-hakyll-latex.html
 mathCtx :: Context a
