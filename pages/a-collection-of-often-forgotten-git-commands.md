@@ -12,17 +12,19 @@ tags: computing
 
 - View all unadded files, including ones in <code>.gitignore</code>.
 
-        git add -Anf
+    ```bash
+    git add -Anf
+    ```
 
-   <code>-A</code>: all; <code>-n</code>: dry run; <code>-f</code>: force files in <code>.gitignore</code>.
+    `-A`: all; `-n`: dry run; `-f`: force files in `.gitignore`.
 
-   See <http://stackoverflow.com/questions/3801321/git-list-only-untracked-files-also-custom-commands>.
+    See <http://stackoverflow.com/questions/3801321/git-list-only-untracked-files-also-custom-commands>.
 
 - Dealing with submodules
 
-{% highlight bash %}
-git submodule update --init 
-git submodule foreach git pull origin master
-{% endhighlight %}
+    ```bash
+    git submodule update --init 
+    git submodule foreach git pull origin master
+    ```
 
- See [here](http://stackoverflow.com/questions/5828324/update-git-submodule) and [here](http://blog.jacius.info/git-submodule-cheat-sheet/).
+    See [here](http://stackoverflow.com/questions/5828324/update-git-submodule) and [here](http://blog.jacius.info/git-submodule-cheat-sheet/).
