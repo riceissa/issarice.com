@@ -5,11 +5,16 @@ body {
     background: #fdf6e3; /*base3*/
     font-size: 14px;
     line-height: 1.5;
+    font-family: Arial, sans-serif;
+}
+
+#content {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    font-family: Arial, sans-serif;
 }
+
+#navigation { }
 
 h1, h2, h3 {
     color: #073642; /*base02*/

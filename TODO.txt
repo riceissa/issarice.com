@@ -4,7 +4,6 @@
 - add update dates to bottom or top of each page
 - clean up site.hs
 - verify that mathjax works -- also make sure the mathjax javascript isn't loaded on pages that don't require math
-- move navbar over to the edge, like the github pages site I had
 - make a page that lists all the tags.
 - import remaining pages from github pages site. & add more notes files.
 - decide what to do about image/pdf hosting (just outsource? .. to WP or flickr)
