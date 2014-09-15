@@ -1,7 +1,6 @@
 ---
 title: Contact
 description: contact information
-author: 
 creation-date: 2014-09-13
 last-major-revision-date: 2014-09-13
 license: CC0
