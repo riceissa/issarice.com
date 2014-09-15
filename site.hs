@@ -1,6 +1,8 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend, mconcat, (<>))
+import Data.Map as M
+import Data.Char
 import           Hakyll
 import Prelude hiding (id)
 import           System.FilePath
@@ -21,11 +23,10 @@ main = hakyll $ do
     {-match (fromList ["about.rst", "contact.markdown"]) $ do-}
         {-route   $ setExtension ""-}
         {-compile $ pandocCompiler-}
-            {->>= loadAndApplyTemplate "templates/default.html" defaultContext-}
+            {->>= loadAndApplyTemplate "templates/skeleton.html" defaultContext-}
             {->>= relativizeUrls-}
 
     -- See http://vapaus.org/text/hakyll-configuration.html#fnref1 .
-    --let pandocOptions = defaultHakyllWriterOptions { writerHTMLMathMethod = MathJax "" }
     --
     -- See all the options for defaultHakyllWriterOptions here:
     -- https://gist.github.com/shirataki/9538344 . To do all this, we
@@ -45,6 +46,7 @@ main = hakyll $ do
                , writerTOCDepth = 3
                , writerStandalone = True
                , writerTemplate = "$toc$\n$body$"
+               , writerHTMLMathMethod = MathJax ""
              }
 
     -- build tags
@@ -66,7 +68,7 @@ main = hakyll $ do
         -- route $ setExtension ""
         compile $ pandocCompilerWith defaultHakyllReaderOptions pandocOptions
             >>= loadAndApplyTemplate "templates/tags.html" (pageCtx tags)
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= loadAndApplyTemplate "templates/skeleton.html" (licenseCtx `mappend` mathCtx `mappend` defaultContext)
             >>= relativizeUrls
 
     tagsRules tags $ \tag pattern -> do
@@ -81,14 +83,14 @@ main = hakyll $ do
                         defaultContext
             makeItem ""
                 >>= loadAndApplyTemplate "templates/page-list.html" ctx
-                >>= loadAndApplyTemplate "templates/default.html" ctx
+                >>= loadAndApplyTemplate "templates/skeleton.html" (ctx)
                 >>= relativizeUrls
 
     {-match "posts/*" $ do-}
         {-route $ setExtension "html"-}
         {-compile $ pandocCompiler-}
             {->>= loadAndApplyTemplate "templates/post.html"    postCtx-}
-            {->>= loadAndApplyTemplate "templates/default.html" postCtx-}
+            {->>= loadAndApplyTemplate "templates/skeleton.html" postCtx-}
             {->>= relativizeUrls-}
 
     -- automatically generate a page containing links to all other pages
@@ -107,7 +109,7 @@ main = hakyll $ do
                     defaultContext
             makeItem ""
                 >>= loadAndApplyTemplate "templates/page-list.html" archiveCtx
-                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/skeleton.html" (archiveCtx)
                 >>= relativizeUrls
 
 
@@ -122,7 +124,7 @@ main = hakyll $ do
 
             {-getResourceBody-}
                 {->>= applyAsTemplate indexCtx-}
-                {->>= loadAndApplyTemplate "templates/default.html" indexCtx-}
+                {->>= loadAndApplyTemplate "templates/skeleton.html" indexCtx-}
                 {->>= relativizeUrls-}
 
     match "templates/*" $ compile templateCompiler
@@ -140,27 +142,27 @@ pageCtx tags = mconcat
     , defaultContext
     ]
 
--- See postList on https://github.com/brianshourd/brianshourd.com/blob/master/hakyll.hs .
-{-pageList :: Tags -> Pattern -> ([Item String] -> Compiler [Item String]) -> Compiler String-}
-{-pageList tags = do-}
-    {-postItemTpl <- loadBody "templates/default.html"-}
-    {-posts <- loadAll-}
-    {-applyTemplateList postItemTpl (pageCtx tags) posts-}
+-- from http://qnikst.github.io/posts/2013-02-04-hakyll-latex.html
+mathCtx :: Context a
+mathCtx = field "math" $ \item -> do
+    metadata <- getMetadata $ itemIdentifier item
+    return $ if "math" `M.member` metadata
+                then "<script type=\"text/javascript\" src=\"https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
+                else ""
 
--- Make a page from a list of pages. See postPage on  https://github.com/brianshourd/brianshourd.com/blob/master/hakyll.hs .
-{-pageOfPages :: Tags -> String -> Pattern -> Compiler (Item String)-}
-{-pageOfPages tags title = do-}
-    {-list <- pageList tags-}
-    {-makeItem ""-}
-        {->>= loadAndApplyTemplate ""-}
-                {-(constField "posts" list <> constField "title" title <>-}
-                    {-defaultContext)-}
-        {->>= finish (titleCtx title)-}
 
-{-titleCtx :: String -> Context String-}
-{-titleCtx title = constField "siteTitle" title-}
+-- See http://qnikst.github.io/posts/2013-08-23-licenses-notes-in-hakyll.html
+licenseCtx :: Context a
+licenseCtx = field "license" $ \item -> do
+    metadata <- getMetadata $ itemIdentifier item
+    return $ case M.lookup "license" metadata of
+                Nothing -> ""
+                Just m -> case M.lookup (trim m) licenses of
+                            Nothing -> "The license of this work is unknown."
+                            Just (lTextUrl, lAltText, lImageUrl, lName) -> "<a rel=\"license\" href=\"" ++ lTextUrl ++ "\"><img alt=\"" ++ lAltText ++ "\" style=\"border-width:0\" src=\"" ++ lImageUrl ++ "\"/></a><br />" ++ "This work is <a rel=\"license\" href=\"" ++ lTextUrl ++ "\">" ++ lName ++ "</a>."
+    where
+        trim = reverse . dropWhile isSpace . reverse . dropWhile isSpace
 
-{-finish :: Context String -> Item String -> Compiler (Item String)-}
-{-finish context item = loadAndApplyTemplate-}
-        {-"templates/default.html" (context <> defaultContext) item-}
-    {->>= relativizeUrls-}
+licenses = M.fromList
+    [ ("CC0", ("https://creativecommons.org/publicdomain/zero/1.0/", "CC0", "https://i.creativecommons.org/p/zero/1.0/88x31.png", "Public Domain (Creative Commons CC0)"))
+    , ("CC BY", ("https://creativecommons.org/licenses/by/4.0/", "Creative Commons License", "https://i.creativecommons.org/l/by/4.0/88x31.png", "licensed under a Creative Commons Attribution 4.0 International License"))]
