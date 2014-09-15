@@ -1,3 +1,6 @@
+-- NOTE: This file is now deprecated. Please use site.lhs instead.
+
+
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend, mconcat, (<>))
