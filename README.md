@@ -7,7 +7,7 @@ Assuming one has the prerequisites to compile the site, just do:
 ~~~~bash
 git clone https://github.com/riceissa/riceissa.com.git
 cd riceissa.com
-ghc --make site.hs
+ghc --make site.lhs
 ./site rebuild
 ~~~~
 
