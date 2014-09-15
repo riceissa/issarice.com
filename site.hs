@@ -46,6 +46,9 @@ main = hakyll $ do
                , writerTemplate = "$toc$\n$body$"
              }
 
+    -- build tags
+    {-tags <- buildTags "pages/*" (fromCapture "tags/*")-}
+
     match "pages/*" $ do
         -- Below, route is adapted from
         -- http://ethanschoonover.com/source/bin/site.hs see the
@@ -71,19 +74,18 @@ main = hakyll $ do
             {->>= loadAndApplyTemplate "templates/default.html" postCtx-}
             {->>= relativizeUrls-}
 
-    {-create ["archive.html"] $ do-}
-        {-route idRoute-}
-        {-compile $ do-}
-            {-posts <- recentFirst =<< loadAll "posts/*"-}
-            {-let archiveCtx =-}
-                    {-listField "posts" postCtx (return posts) `mappend`-}
-                    {-constField "title" "Archives"            `mappend`-}
-                    {-defaultContext-}
-
-            {-makeItem ""-}
-                {->>= loadAndApplyTemplate "templates/archive.html" archiveCtx-}
-                {->>= loadAndApplyTemplate "templates/default.html" archiveCtx-}
-                {->>= relativizeUrls-}
+    create ["archive.html"] $ do
+        route idRoute
+        compile $ do
+            pages <- loadAll "pages/*"
+            let archiveCtx =
+                    listField "pages" defaultContext (return pages) `mappend`
+                    constField "title" "All pages" `mappend`
+                    defaultContext
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/page-list.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= relativizeUrls
 
 
     {-match "index.html" $ do-}
@@ -108,3 +110,4 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
+
