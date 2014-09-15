@@ -1,6 +1,7 @@
 ---
 title: Information regarding website source and page source
 tags: site-info
+license: CC0
 ...
 
 I push changes to GitHub more often than I deploy the site to Linode.
