@@ -1,7 +1,8 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
+import           Data.Monoid (mappend, mconcat, (<>))
 import           Hakyll
+import Prelude hiding (id)
 import           System.FilePath
 import           Text.Pandoc.Options
 
@@ -47,7 +48,7 @@ main = hakyll $ do
              }
 
     -- build tags
-    {-tags <- buildTags "pages/*" (fromCapture "tags/*")-}
+    tags <- buildTags "pages/*" (fromCapture "tags/*")
 
     match "pages/*" $ do
         -- Below, route is adapted from
@@ -64,8 +65,24 @@ main = hakyll $ do
         route $ customRoute $ dropExtension . joinPath . tail . splitPath . toFilePath
         -- route $ setExtension ""
         compile $ pandocCompilerWith defaultHakyllReaderOptions pandocOptions
+            >>= loadAndApplyTemplate "templates/tags.html" (pageCtx tags)
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
             >>= relativizeUrls
+
+    tagsRules tags $ \tag pattern -> do
+        let title = "Tag: " ++ tag
+        route idRoute
+
+        {-compile $ pageOfPages tags title pattern-}
+        compile $ do
+            pages <- loadAll pattern
+            let ctx = constField "title" title <>
+                        listField "pages" (pageCtx tags) (return pages) <>
+                        defaultContext
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/page-list.html" ctx
+                >>= loadAndApplyTemplate "templates/default.html" ctx
+                >>= relativizeUrls
 
     {-match "posts/*" $ do-}
         {-route $ setExtension "html"-}
@@ -74,9 +91,15 @@ main = hakyll $ do
             {->>= loadAndApplyTemplate "templates/default.html" postCtx-}
             {->>= relativizeUrls-}
 
+    -- automatically generate a page containing links to all other pages
     create ["all"] $ do
         route idRoute
         compile $ do
+            {-let alphabetize = sortByM $ itemIdentifier-}
+                                {-where-}
+                                    {-sortByM f xs = liftM (map fst . sortBy (comparing snd)) $-}
+                                                    {-mapM (\x -> liftM (x,) (f x)) xs-}
+            {-pages <- alphabetize =<< loadAll "pages/*"-}
             pages <- loadAll "pages/*"
             let archiveCtx =
                     listField "pages" defaultContext (return pages) `mappend`
@@ -111,3 +134,33 @@ postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
 
+pageCtx :: Tags -> Context String
+pageCtx tags = mconcat
+    [tagsField "tags" tags
+    , defaultContext
+    ]
+
+-- See postList on https://github.com/brianshourd/brianshourd.com/blob/master/hakyll.hs .
+{-pageList :: Tags -> Pattern -> ([Item String] -> Compiler [Item String]) -> Compiler String-}
+{-pageList tags = do-}
+    {-postItemTpl <- loadBody "templates/default.html"-}
+    {-posts <- loadAll-}
+    {-applyTemplateList postItemTpl (pageCtx tags) posts-}
+
+-- Make a page from a list of pages. See postPage on  https://github.com/brianshourd/brianshourd.com/blob/master/hakyll.hs .
+{-pageOfPages :: Tags -> String -> Pattern -> Compiler (Item String)-}
+{-pageOfPages tags title = do-}
+    {-list <- pageList tags-}
+    {-makeItem ""-}
+        {->>= loadAndApplyTemplate ""-}
+                {-(constField "posts" list <> constField "title" title <>-}
+                    {-defaultContext)-}
+        {->>= finish (titleCtx title)-}
+
+{-titleCtx :: String -> Context String-}
+{-titleCtx title = constField "siteTitle" title-}
+
+{-finish :: Context String -> Item String -> Compiler (Item String)-}
+{-finish context item = loadAndApplyTemplate-}
+        {-"templates/default.html" (context <> defaultContext) item-}
+    {->>= relativizeUrls-}
