@@ -2,7 +2,7 @@
 layout: default
 title: Using Hakyll with GitHub Pages
 comments: ""
-disqus-id:
+disqus-id: 
 math: ""
 last-major-revision-date: 2014-08-28
 license: "CC-BY"

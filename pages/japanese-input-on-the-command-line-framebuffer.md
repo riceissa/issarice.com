@@ -2,9 +2,9 @@
 layout: default
 title: Japanese input on the command line (framebuffer)
 comments: ""
-disqus-id:
+disqus-id: 
 math: ""
-last-major-revision-date:
+last-major-revision-date: 
 license: "CC-BY"
 tags: computing
 ---
