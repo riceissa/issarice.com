@@ -298,6 +298,8 @@ By now Quora might be the best source for information, although I'm not really k
 
 - [What's the hardest part of being a PhD student?](https://www.quora.com/Whats-the-hardest-part-of-being-a-PhD-student)
 
+- The [Academia Stack Exchange](http://academia.stackexchange.com/) may also have useful information.
+
 - [The GradCafe Forums](http://forum.thegradcafe.com/)
 
 - [Jean Yang’s page](http://jeanyang.com/) (see “Considering Graduate School?” near the bottom of the page.) See also [this article](https://medium.com/p/c6162458ef83) by her about MIT.
