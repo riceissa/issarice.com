@@ -33,3 +33,19 @@ ExitFailure 1
 
 
 Since I had some really old versions of Pandoc and cabal on my machine (from the Debian repositories), I just redefined my path with `$HOME/.cabal/bin` as the first item, so that the newer programs in there would take priority.
+
+
+## On a new machine
+
+This is how I would do it given a new Debian stable machine with no previous installations of Haskell.
+It's easy to just install `haskell-platform`, but this introduces an older version of cabal, which may or may not be annoying.
+The following is the minimal way to get things installed.
+
+```bash
+sudo aptitude install ghc ghc-haddock zlib1g-dev # or maybe libghc-zlib will work too
+wget https://www.haskell.org/cabal/release/cabal-install-1.20.0.3/cabal-install-1.20.0.3.tar.gz
+tar -zxf cabal-install-1.20.0.3.tar.gz && rm cabal-install-1.20.0.3.tar.gz
+./bootstrap.sh
+echo "PATH+=':$HOME/.cabal/bin'" >> ~/.bashrc
+cabal update && cabal install cabal cabal-install alex happy
+```
