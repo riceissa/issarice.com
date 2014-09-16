@@ -1,19 +1,23 @@
 ---
-title: HTML of <code>site.lhs</code>, the configuration file for this site
+title: Configuration file for this site
 license: CC BY
 ...
+
+Below is the configuration file used to generate this site using Hakyll.
+The source is written in literate Haskell, and is stored in `site.hs`.
 
 Import prerequisites:
 
 \begin{code}
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend, mconcat, (<>))
-import Data.Map as M
-import Data.Char
-import           Hakyll
-import Prelude hiding (id)
-import           System.FilePath
-import           Text.Pandoc.Options
+import          Data.Monoid (mappend, mconcat, (<>))
+import          Data.Map as M
+import          Data.Char
+import          Hakyll
+import          Prelude hiding (id)
+import          System.FilePath
+import          Text.Pandoc.Options
+import          Text.Pandoc (WriterOptions)
 \end{code}
 
 Main:
@@ -54,14 +58,18 @@ main = hakyll $ do
     -- build tags
     tags <- buildTags "pages/*" (fromCapture "tags/*")
 
---hi
+    let myHakyllReaderOptions = defaultHakyllReaderOptions -- {
+                -- readerSmart = False
+                -- }
+
+    -- let lhsWriter = defaultWriterOptions { writerLiterateHaskell = True }
     let lhsWriter = defaultHakyllWriterOptions
 
     match "site.lhs" $ do
         route $ setExtension ""
-        compile $ pandocCompilerWith defaultHakyllReaderOptions lhsWriter
+        compile $ pandocCompilerWith myHakyllReaderOptions lhsWriter
             {->>= loadAndApplyTemplate "templates/tags.html" (pageCtx tags)-}
-            >>= loadAndApplyTemplate "templates/skeleton.html" (licenseCtx `mappend` mathCtx `mappend` (checkTags $ tagCtx tags) `mappend` defaultContext)
+            >>= loadAndApplyTemplate "templates/skeleton.html" (licenseCtx `mappend` mathCtx `mappend` (pageCtx tags) `mappend` defaultContext)
             >>= relativizeUrls
 
 
@@ -72,25 +80,16 @@ main = hakyll $ do
                , writerTemplate = "$toc$\n$body$"
                , writerHTMLMathMethod = MathJax ""
              }
+\end{code}
 
+\begin{code}
 
     match "pages/*" $ do
-        -- Below, route is adapted from
-        -- http://ethanschoonover.com/source/bin/site.hs see the
-        -- function stripTopDir there. Essentially, we want the files in
-        -- pages to *not* clutter up our git repository's root
-        -- directory, but at the same time, when we're serving the
-        -- compiled files, we want them in the root directory of the
-        -- domain. Therefore, we first (from right to left) get the file
-        -- page, break it up into lists split by directories, remove the
-        -- first directory (the "page" directory) with tail, join it
-        -- back together, then drop the .html extension in favor of Cool
-        -- URIs.
-        route $ customRoute $ dropExtension . joinPath . tail . splitPath . toFilePath
+        route $ coolPageRoute
         -- route $ setExtension ""
-        compile $ pandocCompilerWith defaultHakyllReaderOptions pandocOptions
+        compile $ pandocCompilerWith myHakyllReaderOptions pandocOptions
             {->>= loadAndApplyTemplate "templates/tags.html" (pageCtx tags)-}
-            >>= loadAndApplyTemplate "templates/skeleton.html" (licenseCtx `mappend` mathCtx `mappend` (checkTags $ tagCtx tags) `mappend` defaultContext)
+            >>= loadAndApplyTemplate "templates/skeleton.html" (licenseCtx `mappend` mathCtx `mappend` (pageCtx tags) `mappend` defaultContext)
             >>= relativizeUrls
 \end{code}
 
@@ -111,6 +110,7 @@ The following is what actually makes the separate pages for each tag that go und
                 >>= loadAndApplyTemplate "templates/skeleton.html" (ctx)
                 >>= relativizeUrls
 \end{code}
+
 
 \begin{code}
     {-match "posts/*" $ do-}
@@ -162,13 +162,18 @@ postCtx :: Context String
 postCtx =
     dateField "date" "%B %e, %Y" `mappend`
     defaultContext
+\end{code}
 
-tagCtx :: Tags -> Context String
-tagCtx tags = field "tags" $ \item -> do
-    metadata <- getMetadata $ itemIdentifier item
-    return $ if "tags" `M.member` metadata
-                then "bingo!"
-                else ""
+Seriously, the stuff below is *really* messed up at the moment.
+
+\begin{code}
+-- See my StackOverflow question http://stackoverflow.com/questions/25845956/hakyll-how-can-one-delete-a-field-completely-after-checking-for-its-existence
+-- tagCtx :: Tags -> Context String
+-- tagCtx tags = field "tags" $ \item -> do
+--     metadata <- getMetadata $ itemIdentifier item
+--     return $ if "tags" `M.member` metadata
+--                 then "bingo!"
+--                 else ""
 
 checkTags thing = constField "hello" "hello"
 
@@ -181,7 +186,6 @@ checkTags thing = constField "hello" "hello"
             {-then constField "hello" "hello"-}
             {-else thing-}
 
-
 pageCtx :: Tags -> Context String
 pageCtx tags = tagsField "tags" tags <> defaultContext
 
@@ -191,12 +195,12 @@ pageCtx tags = tagsField "tags" tags <> defaultContext
         {-then tagsField "tags" tags <> defaultContext-}
         {-else field "tags" $ return ""-}
 
-{-pageCtx tags = field "tags" $ \item -> do-}
-                    {-metadata <- getMetadata $ itemIdentifier item-}
-    {-[>if "tags" `M.member` metadata<]-}
-                {-[>then<]-}
-                    {-return (tagsField "tags" tags) <> defaultContext-}
-                {-[>else (return "")<]-}
+-- pageCtx tags = field "tags" $ \item -> do
+--                 metadata <- getMetadata $ itemIdentifier item
+--                 if "tags" `M.member` metadata
+--                 then
+--                     return (tagsField "tags" tags) <> defaultContext
+--                 else (return "untagged")
 
 -- from http://qnikst.github.io/posts/2013-02-04-hakyll-latex.html
 mathCtx :: Context a
@@ -209,19 +213,32 @@ mathCtx = field "math" $ \item -> do
 
 We create the `license` field below, which will automatically generate the correct license (currently at the bottom) on each page based on the value given to the YAML keyword `license`.
 See "[Adding license notes to blog pages](http://qnikst.github.io/posts/2013-08-23-licenses-notes-in-hakyll.html)", from which this is adapted.
+
 \begin{code}
 licenseCtx :: Context a
 licenseCtx = field "license" $ \item -> do
+    {-f <- loadBody "templates/CC-BY.html"-}
     metadata <- getMetadata $ itemIdentifier item
     return $ case M.lookup "license" metadata of
                 Nothing -> ""
                 Just m -> case M.lookup (trim m) licenses of
                             Nothing -> "The license of this work is unknown."
                             Just (lTextUrl, lAltText, lImageUrl, lName) -> "<a rel=\"license\" href=\"" ++ lTextUrl ++ "\"><img alt=\"" ++ lAltText ++ "\" style=\"border-width:0\" src=\"" ++ lImageUrl ++ "\"/></a><br />" ++ "This work is <a rel=\"license\" href=\"" ++ lTextUrl ++ "\">" ++ lName ++ "</a>."
+                            -- Just (lTextUrl, lAltText, lImageUrl, lName) -> "there is license."
     where
         trim = reverse . dropWhile isSpace . reverse . dropWhile isSpace
 
 licenses = M.fromList
     [ ("CC0", ("https://creativecommons.org/publicdomain/zero/1.0/", "CC0", "https://i.creativecommons.org/p/zero/1.0/88x31.png", "Public Domain (Creative Commons CC0)"))
     , ("CC BY", ("https://creativecommons.org/licenses/by/4.0/", "Creative Commons License", "https://i.creativecommons.org/l/by/4.0/88x31.png", "licensed under a Creative Commons Attribution 4.0 International License"))]
+\end{code}
+
+We now implement a custom route.
+This is adapted from <http://ethanschoonover.com/source/bin/site.hs>; see the function `stripTopDir` there.
+Essentially, we want the files in pages to *not* clutter up our Git repository's root directory, but at the same time, when we're serving the compiled files, we want them in the root directory of the domain.
+Therefore, we first (from right to left) get the file page, break it up into lists split by directories, remove the first directory (the "page" directory) with tail, join it back together, then drop the `.html` extension in favor of Cool URIs.
+
+\begin{code}
+coolPageRoute :: Routes
+coolPageRoute = customRoute $ dropExtension . joinPath . tail . splitPath . toFilePath
 \end{code}
