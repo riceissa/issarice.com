@@ -4,6 +4,7 @@ description: contact information
 creation-date: 2014-09-13
 last-major-revision-date: 2014-09-13
 license: CC0
+tags: general
 ...
 
 Below are some ways to contact me, as well as the account names I use on various websites.
