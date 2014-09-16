@@ -298,6 +298,8 @@ By now Quora might be the best source for information, although I'm not really k
 
 - [What's the hardest part of being a PhD student?](https://www.quora.com/Whats-the-hardest-part-of-being-a-PhD-student)
 
+- [What are the best forums about graduate school?](https://www.quora.com/What-are-the-best-forums-about-graduate-school)
+
 - The [Academia Stack Exchange](http://academia.stackexchange.com/) may also have useful information.
 
 - [The GradCafe Forums](http://forum.thegradcafe.com/)
