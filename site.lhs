@@ -223,7 +223,7 @@ licenseCtx = field "license" $ \item -> do
                 Nothing -> ""
                 Just m -> case M.lookup (trim m) licenses of
                             Nothing -> "The license of this work is unknown."
-                            Just (lTextUrl, lAltText, lImageUrl, lName) -> "<a rel=\"license\" href=\"" ++ lTextUrl ++ "\"><img alt=\"" ++ lAltText ++ "\" style=\"border-width:0\" src=\"" ++ lImageUrl ++ "\"/></a><br />" ++ "This work is <a rel=\"license\" href=\"" ++ lTextUrl ++ "\">" ++ lName ++ "</a>."
+                            Just (lTextUrl, lAltText, lImageUrl, lName) -> "<a rel=\"license\" href=\"" ++ lTextUrl ++ "\"><img alt=\"" ++ lAltText ++ "\" style=\"border-width:0\" src=\"" ++ lImageUrl ++ "\"/></a><br />" ++ "This page is <a rel=\"license\" href=\"" ++ lTextUrl ++ "\">" ++ lName ++ "</a>."
                             -- Just (lTextUrl, lAltText, lImageUrl, lName) -> "there is license."
     where
         trim = reverse . dropWhile isSpace . reverse . dropWhile isSpace
