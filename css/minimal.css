@@ -9,9 +9,9 @@ body {
 }
 
 div#content {
-    width: 80%;
+    width: 93%;
     max-width: 5.5in;
-    text-align: justify;
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
 }
