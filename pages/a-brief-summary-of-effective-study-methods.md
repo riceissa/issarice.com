@@ -4,6 +4,7 @@ title: A brief summary of effective study methods
 comments: ""
 math: ""
 license: "CC-BY"
+tags: lesswrong, studying, self-improvement
 ---
 
 Note: This is a derivative work of  Arran Stirton’s [post](http://lesswrong.com/lw/k4n/a_brief_summary_of_effective_study_methods/) on Less Wrong.
