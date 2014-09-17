@@ -4,6 +4,7 @@ title: Minimality exercise from Halmos
 comments: "yes"
 math: "yes"
 license: "CC-BY"
+tags: math, halmos, set theory
 ---
 
 The task given in Halmos's *Naive Set Theory* is to show that given some
