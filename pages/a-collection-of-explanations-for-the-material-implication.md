@@ -4,7 +4,7 @@ title: A collection of explanations for the material implication
 comments: "yes"
 math: "yes"
 license: "CC-BY"
-tags: math
+tags: math, logic
 ---
 
 This document outlines some of the common explanations surrounding the
