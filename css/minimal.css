@@ -22,6 +22,7 @@ div#navigation {
 }
 
 h1, h2, h3, h4 {
+    text-align: left;
     color: #073642; /*base02*/
     font-family: Helvetica, sans-serif;
 }
