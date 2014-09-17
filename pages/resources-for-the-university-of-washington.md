@@ -10,11 +10,12 @@ license: CC0
 
 This is a collection of resources for students at the University of Washington and those considering attending there.
 The page also includes some information on college in general.
-Most of resources are answers posted to [Quora](https://www.quora.com/), so having an account on there will allow you to ask for clarification in the respective answers[^anec].
+Most of the resources are answers posted to [Quora](https://www.quora.com/), so having an account on there will allow you to ask for clarification in the respective answers[^anec].
 The collection here may at the moment seem too “insular”, since a majority of the answers have been written by just a few people (e.g. Alex K. Chen and Jennifer Apacible).
 This will hopefully change in the future as more people contribute their knowledge and experiences online (e.g. via Quora).
 
 [^anec]: I have often done this and have gotten a lot of useful information.
+
 Please [let me know](/contact) if there are any other good resources or if there are mistakes (e.g. broken links) here.
 I also have a mirror of this [on Quora](https://riceissa.quora.com/Resources-for-UW), so feel free to suggest edits on there, which can then be transferred to here.
 This page is also hosted on GitHub, so feel free to send corrections using pull requests.
