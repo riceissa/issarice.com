@@ -5,7 +5,7 @@ comments: "yes"
 disqus-id: ee9b153b71076aa4d5c8e683bb33f2adb0b78f0c
 math: "yes"
 license: "CC-BY"
-tags: math
+tags: math, analysis
 ---
 
 **Addition.** Let $E\subset \mathbf{R}$ be a subset of the real
