@@ -15,6 +15,7 @@ The collection here may at the moment seem too “insular”, since a majority o
 This will hopefully change in the future as more people contribute their knowledge and experiences online (e.g. via Quora).
 
 [^anec]: I have often done this and have gotten a lot of useful information.
+
 Please [let me know](/contact) if there are any other good resources or if there are mistakes (e.g. broken links) here.
 I also have a mirror of this [on Quora](https://riceissa.quora.com/Resources-for-UW), so feel free to suggest edits on there, which can then be transferred to here.
 This page is also hosted on GitHub, so feel free to send corrections using pull requests.
