@@ -3,21 +3,23 @@
 body {
     color: #586e75; /*base01*/
     background: #fdf6e3; /*base3*/
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.5;
-    font-family: Arial, sans-serif;
+    font-family: Palatino; serif;
 }
 
 #content {
     width: 80%;
+    max-width: 6.5in;
     margin-left: auto;
     margin-right: auto;
 }
 
 #navigation { }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     color: #073642; /*base02*/
+    font-family: Helvetica; Arial; sans-serif;
 }
 
 a:link {
