@@ -8,7 +8,7 @@ tags: general
 ...
 
 Below are some ways to contact me, as well as the account names I use on various websites.
-Feel free to contact me by emailing or messaging me (on Facebook and Quora—I may not check other sites very often), stalk me online, and ask questions about me on Quora.
+Feel free to contact me by emailing or messaging me (on Facebook and Quora—I may not check other sites very often), stalk me online (e.g. by following me on Quora or friending me on Facebook), and ask questions about me on Quora.
 
 - My email address is [riceissa@gmail.com](mailto:riceissa@gmail.com).
 You can also send me anonymous feedback using [this form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (idea from [lukeprog](http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/) and [Gwern](http://www.gwern.net/About#anonymous-feedback)).
@@ -18,6 +18,7 @@ My Quora profile is [here](https://www.quora.com/Issa-Rice).
 
 - My [Facebook](https://www.facebook.com/) profile is [here](https://www.facebook.com/riceissa).
 I check Facebook regularly throughout the day.
+I generally accept all friend requests that don’t appear to be spam; having a [decent profile photograph](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively#Profile_photograph) will let me know that your profile is genuine.
 
 - My [LinkedIn](https://www.linkedin.com/) profile is [here](https://www.linkedin.com/profile/view?id=352995114).
 I don’t use LinkedIn very much, but feel free to connect with me.
