@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Other command-line notes
-comments: ""
-disqus-id: 
-math: ""
+tags: linux, cs, debian
 ---
 
 
