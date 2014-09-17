@@ -6,7 +6,7 @@ disqus-id:
 math: ""
 last-major-revision-date: 
 license: "CC-BY"
-tags: computing
+tags: cs, japan
 ---
 
 

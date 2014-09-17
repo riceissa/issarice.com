@@ -5,6 +5,7 @@ comments: "yes"
 disqus-id: 25c65bb3f6a6be18ce493ca199a4a3a6620f376b
 math: "yes"
 license: "CC-BY"
+tags: math, logic
 ---
 
 things to talk about eventually:

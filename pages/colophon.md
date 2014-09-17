@@ -1,8 +1,7 @@
 ---
 title: Colophon
 description: tools used to build the site
-tags: meta
-author: 
+tags: site-info
 creation-date: 2014-09-14
 last-major-revision-date: 2014-09-14
 license: CC0

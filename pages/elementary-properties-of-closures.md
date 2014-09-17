@@ -5,7 +5,7 @@ comments: "yes"
 disqus-id: 01645ab99bebdabf308d8cdc05eff0109abec049
 math: "yes"
 license: "CC-BY"
-tags: math
+tags: math, analysis
 ---
 
 From Terence Tao’s *Analysis I*, p213 of the hardcover second edition, Lemma 9.1.11.
