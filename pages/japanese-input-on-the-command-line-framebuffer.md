@@ -6,7 +6,7 @@ disqus-id:
 math: ""
 last-major-revision-date: 
 license: "CC-BY"
-tags: cs, japan
+tags: cs, japan, linux
 ---
 
 
@@ -24,7 +24,7 @@ tags: cs, japan
 
 (at the moment I forgot where I was supposed to place this...)
 
-{% highlight scheme %}
+```scheme
 ;; -*- mode: scheme -*-
 ;; Place this file as ~/.uim.  This file overrides any settings from
 ;; files in ~/.uim.d/customs
@@ -40,7 +40,7 @@ tags: cs, japan
 (define generic-extend-key? '("<Control>k"))
 (define anthy-shrink-segment-key? 'generic-shrink-key?)
 (define anthy-extend-segment-key? 'generic-extend-key?)
-{% endhighlight %}
+```
 
 Run this using `uim-fep -u anthy` or just `uim-fep` if you have `(define default-im-name 'anthy)` in `~/.uim`.
 
@@ -54,7 +54,7 @@ Also run `uim-pref-gtk` to get a graphical settings menu.
 
 I have the following in my `~/.emacs`.
 
-{% highlight lisp %}
+```scheme
 (set-fontset-font "fontset-default"
           'japanese-jisx0208
           '("IPAexGothic" . "iso10646-1"))
@@ -63,7 +63,7 @@ I have the following in my `~/.emacs`.
 ;; This speeds up input?
 (if (>= emacs-major-version 23)
     (setq anthy-accept-timeout 1))
-{% endhighlight %}
+```
 
 Basic usage:
 
