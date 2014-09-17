@@ -4,22 +4,26 @@ body {
     color: #586e75; /*base01*/
     background: #fdf6e3; /*base3*/
     font-size: 16px;
-    line-height: 1.5;
-    font-family: Palatino; serif;
+    line-height: 1.4;
+    font-family: Times, serif;
 }
 
-#content {
+div#content {
     width: 80%;
-    max-width: 6.5in;
+    max-width: 5.5in;
+    text-align: justify;
     margin-left: auto;
     margin-right: auto;
 }
 
-#navigation { }
+div#navigation {
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+}
 
 h1, h2, h3, h4 {
     color: #073642; /*base02*/
-    font-family: Helvetica; Arial; sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 a:link {
@@ -38,7 +42,7 @@ pre code {
 blockquote {
     margin: 0px;
     color: #657b83; /*base00*/
-    padding: 0px 16px; /*top-bottom, right-left*/
+    padding: 0px 0px 0px 16px; /*top right bottom left*/
     border-left: 4px solid #93a1a1; /*base1*/
     /*background-color: #eee8d5; /*base2*/
 }
@@ -53,6 +57,7 @@ code {
     border: 1px solid #93a1a1; /*base1*/
     border-radius: 2px 2px 2px 2px;
     font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
 }
 
 /*For displaying source code. See
@@ -61,16 +66,16 @@ code {
  * http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
  * */
 
-span.kw { color: #859900 } /* Keyword, green*/
-span.dt { color: #2aa198 } /* Data types, cyan */
-span.dv { }
-span.bn { }
-span.fl { }
-span.ch { } /* Character,  */
-span.st { color: #d33682 } /* String, magenta */
-span.co { color: #93a1a1; font-style: italic } /* Comment, base01 */
-span.ot { }
-span.al { color: #dc322f } /* Warning messages, red */
-span.fu { color: #b58900 } /* Function, yellow */
-span.re { }
-span.er { color: #dc322f; font-weight: bold } /* Error, red */
+.sourceCode span.kw { color: #859900 } /* Keyword, green*/
+.sourceCode span.dt { color: #2aa198 } /* Data types, cyan */
+.sourceCode span.dv { }
+.sourceCode span.bn { }
+.sourceCode span.fl { }
+.sourceCode span.ch { } /* Character,  */
+.sourceCode span.st { color: #d33682 } /* String, magenta */
+.sourceCode span.co { color: #93a1a1; font-style: italic } /* Comment, base01 */
+.sourceCode span.ot { }
+.sourceCode span.al { color: #dc322f } /* Warning messages, red */
+.sourceCode span.fu { color: #b58900 } /* Function, yellow */
+.sourceCode span.re { }
+.sourceCode span.er { color: #dc322f; font-weight: bold } /* Error, red */
