@@ -3,6 +3,7 @@ layout: default
 title: Working efficiently
 comments: "yes"
 disqus-id: "1f602497e43af70377102e384c85815e542e2a9f"
+tags: self-improvement, work, lesswrong, links
 ---
 
 - [Goal Setting and Goal Achievement](http://lesswrong.com/lw/iwn/goal_setting_and_goal_achievement/)
