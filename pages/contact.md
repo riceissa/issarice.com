@@ -8,7 +8,7 @@ tags: general
 ...
 
 Below are some ways to contact me, as well as the account names I use on various websites.
-Feel free to contact me, email me, message me (on Facebook and Quora), stalk me online, and ask questions about me on Quora.
+Feel free to contact me by email or message (on Facebook and Quora—I may not check other sites very often), stalk me online, and ask questions about me on Quora.
 
 - My email address is [riceissa@gmail.com](mailto:riceissa@gmail.com).
 You can also send me anonymous feedback using [this form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (idea from [lukeprog](http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/) and [Gwern](http://www.gwern.net/About#anonymous-feedback)).
