@@ -4,7 +4,7 @@ title: Two definitions for the least upper bound
 math: "yes"
 comments: "yes"
 disqus-id: 1596b07fb543d452926cdbe2d4ecc483edcb1c81
-tags: math
+tags: math, analysis
 ---
 
 The definition for the least upper bound seems to be given in two nearly identical ways, and I wanted to show that these definitions are, in fact, equivalent, so here is a little note.
