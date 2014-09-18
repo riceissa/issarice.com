@@ -5,7 +5,7 @@ comments: "yes"
 disqus-id: 6d43002dc29d4a76d90a62c843049fac6f85085b
 math: ""
 last-major-revision-date: 
-license: CC BY
+license: CC0
 tags: cs, linux, debian, wodim
 ---
  (Debian Wheezy)
@@ -167,17 +167,3 @@ The following web pages were especially helpful.
 
 - “Why does my burned Ubuntu DVD have a different hash/checksum than the iso?”
 <http://askubuntu.com/questions/145611/why-does-my-burned-ubuntu-dvd-have-a-different-hash-checksum-than-the-iso/177625#177625>
-
-## License
-
-This document is licensed under the CC0 1.0 Universal license.  That is,
-“You can copy, modify, distribute and perform the work, even for
-commercial purposes, all without asking permission.” See [the license
-page](https://creativecommons.org/publicdomain/zero/1.0/) for more
-information.  Please also note that I have taken certain instructions
-from the referenced pages.  It is hoped that those instructions are
-usable under [fair use](https://en.wikipedia.org/wiki/Fair_use); however
-if not, then those instructions are protected under their respective
-licenses.  In other words, you can use any part of this document that I
-created, but (in the case that fair use doesn't work) you must consult
-the referenced sources if you wish to use any of their work.
