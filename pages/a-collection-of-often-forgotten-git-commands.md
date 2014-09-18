@@ -18,7 +18,7 @@ tags: cs, git
 
     `-A`: all; `-n`: dry run; `-f`: force files in `.gitignore`.
 
-    See <http://stackoverflow.com/questions/3801321/git-list-only-untracked-files-also-custom-commands>.
+    See [this question](http://stackoverflow.com/questions/3801321/git-list-only-untracked-files-also-custom-commands).
 
 - Dealing with submodules
 
