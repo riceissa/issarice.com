@@ -67,15 +67,7 @@ main = hakyll $ do
     tagsRules tags $ \tag pattern -> do
         let title = "Tag: " ++ tag
         route idRoute
-        compile $ do
-            pages <- loadAll pattern
-            let ctx = constField "title" title <>
-                        listField "pages" (pageCtx tags) (return pages) <>
-                        defaultContext
-            makeItem ""
-                >>= loadAndApplyTemplate "templates/page-list.html" ctx
-                >>= loadAndApplyTemplate "templates/skeleton.html" (ctx)
-                >>= relativizeUrls
+        compile $ tagPage tags title pattern
 
     -- Automatically generate a page containing links to all other
     -- pages. See
@@ -159,3 +151,14 @@ licenses = M.fromList
 -- back together, then drop the `.html` extension in favor of Cool URIs.
 coolPageRoute :: Routes
 coolPageRoute = customRoute $ dropExtension . joinPath . tail . splitPath . toFilePath
+
+-- See <https://github.com/jaspervdj/jaspervdj/blob/master/src/Main.hs>, <http://www.gwern.net/hakyll.hs>, and <https://github.com/brianshourd/brianshourd.com/blob/master/hakyll.hs>.
+tagPage tags title pattern = do
+    pages <- loadAll pattern
+    let ctx = constField "title" title <>
+                listField "pages" (pageCtx tags) (return pages) <>
+                defaultContext
+    makeItem ""
+        >>= loadAndApplyTemplate "templates/page-list.html" ctx
+        >>= loadAndApplyTemplate "templates/skeleton.html" (ctx)
+        >>= relativizeUrls
