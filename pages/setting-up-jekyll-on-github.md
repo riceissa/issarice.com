@@ -49,7 +49,7 @@ jekyll serve --watch --baseurl ""
 
 ## Typesetting math
 
-See <http://cwoebker.com/posts/latex-math-magic>, <http://doswa.com/2011/07/20/mathjax-in-markdown.html>, and <http://rangerway.com/way/2013/10/05/latex-note-and-jekyll/> for more (they should be identical).
+See [here](http://cwoebker.com/posts/latex-math-magic), [here](http://doswa.com/2011/07/20/mathjax-in-markdown.html), and [here](http://rangerway.com/way/2013/10/05/latex-note-and-jekyll/) for more (they should be identical).
 
 See [this page](http://stackoverflow.com/a/11093303/3422337) for the “big picture”.
 The idea is that we want the Markdown processor to leave potential LaTeX code untouched so that MathJax can access it.

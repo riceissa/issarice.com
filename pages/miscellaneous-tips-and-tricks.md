@@ -66,7 +66,7 @@ $ sudo reboot # to see if it works
 Running `which rfkill` is important because `rfkill` may be located elsewhere on your system.
 Using the absolute path is recommended to avoid confusion.
 
-Source: <http://unix.stackexchange.com/questions/4761/how-to-ensure-the-bluetooth-is-switched-off-after-boot-up>
+[Source](http://unix.stackexchange.com/questions/4761/how-to-ensure-the-bluetooth-is-switched-off-after-boot-up).
 
 ## Hard Disk Drive Formatting (command line)
 
@@ -200,7 +200,7 @@ Or, more generically:
 
 Try `alsaconf` if you don't know which sound card you have.
 
-Source: <http://alsa.opensrc.org/MultipleCards#The_newer_.22slots.3D.22_method>
+[Source](http://alsa.opensrc.org/MultipleCards#The_newer_.22slots.3D.22_method)
 
 ## `ww.sh`
 

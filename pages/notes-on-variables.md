@@ -49,7 +49,7 @@ Concepts to discuss:
 - undefined constants vs variables
 - declaration of variable type
 - variable assignment
-- here is an example of when variables can lead to confusion: <http://math.stackexchange.com/questions/24284/is-the-variable-in-let-y-fx-free-bound-or-neither>
+- [here](http://math.stackexchange.com/questions/24284/is-the-variable-in-let-y-fx-free-bound-or-neither) is an example of when variables can lead to confusion.
 - temporary (new) constants
 
 
