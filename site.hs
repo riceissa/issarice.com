@@ -22,8 +22,12 @@ main = hakyll $ do
         compile copyFileCompiler
 
     match "css/*" $ do
-        route   idRoute
+        route idRoute
         compile compressCssCompiler
+
+    match "images/favicon.ico" $ do
+        route $ customRoute $ dropOneParentDir
+        compile copyFileCompiler
 
     -- See http://vapaus.org/text/hakyll-configuration.html#fnref1 .
     --
@@ -150,7 +154,9 @@ licenses = M.fromList
 -- remove the first directory (the "page" directory) with tail, join it
 -- back together, then drop the `.html` extension in favor of Cool URIs.
 coolPageRoute :: Routes
-coolPageRoute = customRoute $ dropExtension . joinPath . tail . splitPath . toFilePath
+coolPageRoute = customRoute $ dropExtension . dropOneParentDir
+
+dropOneParentDir = joinPath . tail . splitPath . toFilePath
 
 -- See <https://github.com/jaspervdj/jaspervdj/blob/master/src/Main.hs>, <http://www.gwern.net/hakyll.hs>, and <https://github.com/brianshourd/brianshourd.com/blob/master/hakyll.hs>.
 tagPage tags title pattern = do
