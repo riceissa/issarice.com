@@ -33,7 +33,7 @@ You can find my public repositories [here](https://github.com/riceissa?tab=repos
 - I have a [WordPress.com](https://wordpress.com/) blog [here](https://riceissa.wordpress.com/).
 I might use it in the future for something more, but at the moment it is simply a scratch space for me to quickly post links and ideas.
 
-- I am [Riceissa](http://en.wikipedia.org/wiki/User:Riceissa) on the [English Wikipedia](http://en.wikipedia.org/wiki/Main_Page).
+- I am [Riceissa](http://en.wikipedia.org/wiki/User:Riceissa) on the [English Wikipedia](http://en.wikipedia.org/wiki/Main_Page), but I haven't done anything on there yet.
 
 - I am [riceissa](https://twitter.com/riceissa) on [Twitter](https://twitter.com/).
 I don’t use Twitter very often, and when I do it’s mostly to read what others have tweeted.
