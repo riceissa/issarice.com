@@ -76,15 +76,24 @@ See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Se
 
 ## For prefrosh
 
+Applications for the University of Washington are accepted starting in October and until December 1 (though they may extend it for a day if their servers crash—but don't count on this).
+Then, decisions are mailed starting around March 15 (and you have until around May 1 to decide whether to attend).
+After that, there are several events designed to welcome prospective students and incoming freshmen.
+
 - [How can I get the most out of a single day visit at the University of Washington?](https://www.quora.com/How-can-I-get-the-most-out-of-a-single-day-visit-at-the-University-of-Washington)
 
 - [What are the disadvantages of joining a First-year Interest Group (FIG) at the University of Washington?](https://www.quora.com/What-are-the-disadvantages-of-joining-a-First-year-Interest-Group-FIG-at-the-University-of-Washington)
 
 ### Admitted Student Previews (~April)
 
+This event is hosted before decision day, and designed to let prospective students decide whether they want to attend UW by walking around campus, meeting fellow admitted students, and so on.
+
 - [University of Washington: Is it worthwhile to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worthwhile-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
 
 ### Advising and Orientation session (A&O) (June–August)
+
+This even occurs after decision day, and usually after high school is over.
+It is designed to welcome incoming freshmen by giving tours of the campus, allowing incoming freshmen to interact with each other, having them sign up for their fall-quarter courses, and so on.
 
 - [What is it like to go to the UW A&O (for freshmen)?](https://www.quora.com/What-is-it-like-to-go-to-the-UW-A-O-for-freshmen)
 I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-to-go-to-the-UW-A-O-for-freshmen/answer/Issa-Rice) (currently the question only has my answer, so it is essentially identical to the question link) and [here](https://www.quora.com/What-is-the-dinner-lunch-like-at-the-UW-freshmen-A-O/answer/Issa-Rice) (regarding the meals); see also [What is the dinner/lunch like at the UW freshmen A&O?](https://www.quora.com/What-is-the-dinner-lunch-like-at-the-UW-freshmen-A-O) for the meals.
