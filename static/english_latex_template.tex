@@ -254,10 +254,13 @@
 %\makeatletter
 %\let\oldabs\abs
 %\def\abs{\@ifstar{\oldabs}{\oldabs*}}
-%
+%%
 %\let\oldnorm\norm
 %\def\norm{\@ifstar{\oldnorm}{\oldnorm*}}
 %\makeatother
+
+%% For sections in homework.
+\newcommand{\hwsec}[1]{\section*{Section #1}}
 
 %%%%%%%%%%%%%%%%%%%% Other options
 %% Use the following two with the `setspace` package (but not at the
