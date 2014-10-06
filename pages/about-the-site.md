@@ -1,11 +1,18 @@
 ---
-title: Colophon
-description: tools used to build the site
+title: About the site
+description: site info, tools used to build the site
 tags: site-info
 creation-date: 2014-09-14
 last-major-revision-date: 2014-09-14
 license: CC0
 ...
+
+## Philosophy
+
+This site is my attempt to execute gwern's idea of [Long Content](http://www.gwern.net/About#long-content).
+
+
+## Colophon
 
 For the sake of transparency, we list below the tools used to run this site.
 
