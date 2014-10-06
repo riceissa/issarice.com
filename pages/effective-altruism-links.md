@@ -37,3 +37,9 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 - The most obvious step is to look at all the meetups [here](http://effective-altruism.com/meetups/) and talk to the people that go to them.
 
 - I also asked [how people have gotten started discussing EA in different languages](https://www.facebook.com/groups/effective.altruists/permalink/752043351518691/), on the EA Facebook group
+
+ ## Is EA morally required?
+
+- [Views on supererogatory acts](https://en.wikipedia.org/wiki/Effective_altruism#Views_on_supererogatory_acts) seems to indicate that people like Peter Singer don't view EA as supererogatory.
+
+- From experience though, at least some EAs take the view that "yes, we recognize that we're not perfect people, but at least in the possibly small ways that we want to do good in the world, we're willing to do the things that make the most difference".
