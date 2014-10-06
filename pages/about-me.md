@@ -1,11 +1,13 @@
 ---
-title: Contact
-description: contact information
+title: About me
+description: biography, contact information
 creation-date: 2014-09-13
-last-major-revision-date: 2014-09-13
+last-major-revision-date: 2014-10-05
 license: CC0
 tags: general
 ...
+
+## Contact
 
 Below are some ways to contact me, as well as the account names I use on various websites.
 Feel free to contact me by emailing or messaging me (on Facebook and Quora—I may not check other sites very often), stalk me online (e.g. by following me on Quora or friending me on Facebook), and ask questions about me on Quora.
