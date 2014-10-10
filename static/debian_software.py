@@ -94,11 +94,6 @@ r"g\+\+",
 
 #"bsdgames",
 
-# jsmath; probably unnecessary since many websites now use mathjax.
-#"jsmath",
-#"jsmath-fonts",
-#"ttf-jsmath",
-
 
 # Openbox
 #"xorg",
