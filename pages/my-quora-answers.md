@@ -184,10 +184,10 @@ enter a Markdown document and observe the differing HTML outputs.
 [Mirror](https://www.quora.com/How-can-I-write-messages-in-Gmail-using-Markdown/answer/Issa-Rice)
 
 
-If you are on Linux and use a combination of tools like Vim, `xclip` , and `pandoc` [1], then this can easily be achieved. After composing the email in Vim, simply write the buffer directly into `pandoc` , convert the Markdown to HTML, and send that into the clipboard with 
+If you are on Linux and use a combination of tools like Vim, `xclip` , and `pandoc` [1], then this can easily be achieved. After composing the email in Vim, simply write the buffer directly into `pandoc` , convert the Markdown to HTML, and send that into the clipboard with `xclip`:
 
 ```bash
-xclip`: `:w !pandoc -f markdown -t html | xclip -sel clip
+:w !pandoc -f markdown -t html | xclip -sel clip
 ```
 
 Then just paste the results into Gmail using Control-V (or similar).\
@@ -312,29 +312,24 @@ answer, but here are some thoughts.
     per the Cognito Mentoring plan given above.
 
 =\=\=\=\=\
-[1]: See for example [Education
+[1]\: See for example [Education
 Disruption](http://education-disruption.quora.com). From what
 I've observed, you seem to have similar views.
 
-[2]: On the other hand, Cognito Mentoring, for instance, takes a neutral
+[2]\: On the other hand, Cognito Mentoring, for instance, takes a neutral
 stance regarding [Standardized
 tests](http://info.cognitomentoring.org/wiki/Standardized_tests).
 
-[3]: See for instance [High school
-extracurricular activities: factors to
-consider](http://info.cognitomentoring.org/wiki/High_school_extracurricular_activities:_factors_to_consider)
-and [High school extracurricular
-activities:
-suggestions](http://info.cognitomentoring.org/wiki/High_school_extracurricular_activities:_suggestions).
+[3]\: See for instance [High school extracurricular activities: factors to consider](http://info.cognitomentoring.org/wiki/High_school_extracurricular_activities:_factors_to_consider) and [High school extracurricular activities: suggestions](http://info.cognitomentoring.org/wiki/High_school_extracurricular_activities:_suggestions).
 During my own high school career, I tended to eschew studying for
 standardized tests altogether. Still, one can ask whether, given that
 students shouldn't spend time on test prep, whether one should still
 seek a career in it to "extort money from the oblivious", or similar.
 
-[4]: Though with money, I now just think of it in terms of effective
+[4]\: Though with money, I now just think of it in terms of effective
 altruism and earning-to-give.
 
-[5]: Specifically,
+[5]\: Specifically,
 
 > In  the local area, there are a lot of affluent Asian immigrants with
 > lots  of disposable income. There's also no private/boarding school
@@ -490,10 +485,10 @@ update this answer accordingly.
 
 
 =\=\=\=\=\
-[1]: Although, for myself, I had brought lunch so I ate that instead of
+[1]\: Although, for myself, I had brought lunch so I ate that instead of
 the pizza.
 
-[2]: I did hear someone say that the pizza slices tend to run out fast,
+[2]\: I did hear someone say that the pizza slices tend to run out fast,
 although when I went there seemed to be (just) enough for everyone.
 
 
@@ -512,7 +507,7 @@ recently on the news for it. Observe:
 [The video was made private since I first posted the answer...]
 
 \
-Rough transcript[2]:
+Rough transcript[2]\:
 
 > [Female narrator:] The rainy season has been ending starting in the
 > south, and we are entering the hottest season of the year. What
@@ -538,11 +533,10 @@ The school does seem to be a private school: [埼玉県さいたま市緑区 学
 (Japanese).
 
 =====\
-[1]: I suppose I should also note that most of the hats aren't quite
-regular wide brimmed ones, so [Alex K.
-Chen](https://www.quora.com/Alex-K-Chen) may be disappointed.
+[1]\: I suppose I should also note that most of the hats aren't quite
+regular wide brimmed ones, so [Alex K.  Chen](https://www.quora.com/Alex-K-Chen) may be disappointed.
 
-[2]: By me, so there are possibly errors.
+[2]\: By me, so there are possibly errors.
 
 
 ## What is it like to go to the UW A&O (for freshmen)?
@@ -601,7 +595,7 @@ Some thoughts (from the 2014 A&O):
 
 
 =\=\=\=\=\
-[1]: The schedule pamphlet states "8:00am - Don't be late! Meet your
+[1]\: The schedule pamphlet states "8:00am - Don't be late! Meet your
 Orientation Leader at your group's designated location. Failure to
 arrive on-time and check-in by 8:05am will result in a block on Autumn
 course registration." In reality, they were pretty lax about this
@@ -978,7 +972,8 @@ where he says that
 
 
 > **In  many cases, this tag is just used as one more tool for censoring
-> Quora  to remove thoughts that culturally narrow people don't like.**\
+> Quora  to remove thoughts that culturally narrow people don't like.**
+> 
 > **As soon as the tag is applied, nobody can see the question unless
 > they follow the "Possibly Insincere Question" topic."**
 
@@ -1143,7 +1138,7 @@ assistant"**. See [Alex K. Chen's answer
 to Why are some Quora answers so
 long?](https://www.quora.com/Why-are-some-Quora-answers-so-long/answer/Alex-K-Chen)
 
-Some other posts that elaborate on this:\
+Some other posts that elaborate on this:
 
 -   [Dave Cheng's answer to Why are some
     Quora answers so
