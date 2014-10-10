@@ -51,3 +51,6 @@ TODO:
 - Java?
 - non-free packages
 - evernote?
+- flash?
+- surfraw config
+- tmux config
