@@ -15,10 +15,8 @@ from subprocess import call
 # List of programs to install.
 programs = [
 # "Essential" utilities:
-"sudo", # the minimal install on Debian doesn't come with this
 "vim",
 "vim-gtk", # for gundo, which requires python
-"python",
 "python3",
 "git",
 #"mercurial",
