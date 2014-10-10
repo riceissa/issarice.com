@@ -39,60 +39,13 @@ Vipul's bleg-style posts on Facebook have definitely opened my eyes to what's po
 [Mirror](https://www.quora.com/How-can-I-implement-cool-URIs-with-Hakyll/answer/Issa-Rice)
 
 
-In the Hakyll configuration file, do something like
-<div class="codeblock inline_codeblock">
+In the Hakyll configuration file, do something like `route $ setExtension ""`, which will remove the `.html` extension from the generated file.
+See also the discussion at [Google Groups](https://groups.google.com/forum/#%21msg/hakyll/XewxMLIjRIw/hBDnD3iXLMwJ).
 
-    route $ setExtension ""
-
-</div>
-
-, which will remove the
-<div class="codeblock inline_codeblock">
-
-    .html
-
-</div>
-
-extension from the generated file. See also the discussion at <span
-class="qlink_container">[Google
-Groups](https://groups.google.com/forum/#%21msg/hakyll/XewxMLIjRIw/hBDnD3iXLMwJ)</span>.\
-\
 Really, the main thing is to have the server set the default MIME type
-to
-<div class="codeblock inline_codeblock">
+to `text/html` so that these extensionless files are seen as valid HTML files by browsers.
+Note that if you're hosting on something like GitHub pages, then this is not possible (see [Can MIME types of Github Pages files be configured?](http://stackoverflow.com/questions/15951012/can-mime-types-of-github-pages-files-be-configured)), which is why many people set up Jekyll/Hakyll to make separate directories for each page with an `index.html` in each so that the URLs will still look pretty (so you can go to both `example.com/page-name/` and `example.com/page-name/index.html`).
 
-    text/html
-
-</div>
-
-so that these extensionless files are seen as valid HTML files by
-browsers. Note that if you're hosting on something like GitHub pages,
-then this is not possible (see <span class="qlink_container">[Can MIME
-types of Github Pages files be
-configured?](http://stackoverflow.com/questions/15951012/can-mime-types-of-github-pages-files-be-configured)</span>),
-which is why many people set up Jekyll/Hakyll to make separate
-directories for each page with an
-<div class="codeblock inline_codeblock">
-
-    index.html
-
-</div>
-
-in each so that the URLs will still look pretty (so you can go to both
-<div class="codeblock inline_codeblock">
-
-    example.com/page-name/
-
-</div>
-
-and
-<div class="codeblock inline_codeblock">
-
-    example.com/page-name/index.html
-
-</div>
-
-).
 
 ## What music does Issa Rice listen to?
 
@@ -189,8 +142,7 @@ As for how often this actually happens, I'd guess maybe once or twice a day.
 [Mirror](https://www.quora.com/What-are-the-Dungeons-Dragons-alignment-types-of-prominent-Quora-users/answer/Issa-Rice)
 
 
-I got chaotic neutral.\
-\
+I got chaotic neutral.
 
 > **Detailed Results:**\
 > \
@@ -214,6 +166,7 @@ I got chaotic neutral.\
 > Good ---- XXXXXXXXX (9)\
 > Neutral - XXXXXXXXXXXXX (13)\
 > Evil ---- X (1)
+
 
 ## How does your Quora all time views/upvotes ratio compare to your questions/answers (public) ratio?
 
