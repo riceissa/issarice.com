@@ -18,11 +18,11 @@ programs = [
 "vim",
 "vim-gtk", # for gundo, which requires python
 "python3",
-"git",
-#"mercurial",
 "htop",
 "pandoc",
 "elinks",
+"git",
+#"mercurial",
 
 #"lynx-cur",
 
@@ -36,23 +36,30 @@ programs = [
 "wodim",
 "gparted",
 
-# Screen and tmux ... and byobu
-#"tmux",
+# Tmux and screen ... and byobu
+"tmux",
 #"screen",
 #"byobu",
 
 # Programming-related:
+"build-essential",
 "flex",
 "bison",
 "gcc",
 r"g\+\+",
-"ghc",
-"hugs",
-"haskell-platform", # this can probably replace both "ghc" and "hugs"...
-"build-essential",
 "ruby",
 
-# Music On Console:
+# For Haskell, it's a good idea to get GHC, Haddock, and zlib, but
+# getting the entire Haskell platform is not a good idea since the one
+# in Debian is outdated.  Instead, use the notes provided here:
+# http://riceissa.com/installing-haskell to get an up-to-date version of
+# the Haskell platform.
+"ghc",
+"ghc-haddock",
+"libghc-zlib-dev",
+
+# Music On Console is a lightweight and easy-to-use commandline audio
+# player.
 #"moc", # Run using 'mocp'.
 #"moc-ffmpeg-plugin", # Extra plugins.
 
@@ -66,7 +73,7 @@ r"g\+\+",
 # in order to enable Japanese input.  To switch to Japanese input, hit
 # <Ctrl>-<Space> while in a text-field.
 
-# For Japanese on the commandline, see http://riceissa.github.io/computing/commandline-japanese.html
+# For Japanese on the commandline, see http://riceissa.com/japanese-input-on-the-command-line-framebuffer
 
 # LaTeX (warning: large download):
 #"texlive-full",
