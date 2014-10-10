@@ -86,12 +86,6 @@ r"g\+\+",
 # For the PowerBook Mac
 #"firmware-b43-installer",
 
-# ALSA; possibly outdated packages ...
-#"alsa-base",
-#"alsa-oss",
-#"alsa-tools",
-#"alsa-utils",
-
 # Some media-related tools:
 #"cdparanoia",
 #"flac",
