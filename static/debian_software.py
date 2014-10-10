@@ -1,3 +1,15 @@
+#!/bin/python
+
+
+# This script installs some common tools used on a Debian GNU/Linux
+# system.  Comment or uncomment to select the programs that you want to
+# install.  Since this script needs Python to run, it might be necessary
+# to do (assuming you have sudo) `sudo aptitude install python` or `sudo
+# apt-get install python` first.  In addition, this program uses
+# aptitude to install software instead of apt-get, so if you only have
+# apt-get, either change all instances of "aptitude" to "apt-get" or
+# else do `sudo apt-get install aptitude`.
+
 from subprocess import call
 
 # List of programs to install.
