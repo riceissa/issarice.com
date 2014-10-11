@@ -49,4 +49,7 @@ you more candid responses.
 - static site vs more "advanced" things like WP, mediawiki, etc.
 - blogs???
 - Long Content by gwern
-- 
+- tagging system?
+- searching?
+- how much effort to expend on navigation stuff
+- hosting options
