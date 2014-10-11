@@ -36,3 +36,23 @@ He is also good at picking out useful content on Reddit.
 (Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
 
 
+## Dealing with loneliness
+
+I'm not really an EOTS, but some starting points:
+
+- [Dealing with intellectual isolation](http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation)
+
+- [Methods for treating depression](http://cognitomentoring.org/blog/methods-for-treating-depression/)
+
+- [Things That Sometimes Help If You Have Depression](http://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/)
+
+- [Radicalizing the Romanceless](http://slatestarcodex.com/2014/08/31/radicalizing-the-romanceless/)
+
+## Effective altruism
+
+[to be added later]
+
+
+## how to go about content creation
+
+[maybe this deserves its own page, since it's not restricted to high school students]
