@@ -141,7 +141,7 @@ licenseCtx = field "license" $ \item -> do
         trim = reverse . dropWhile isSpace . reverse . dropWhile isSpace
 
 licenses = M.fromList
-    [ ("CC0", ("https://creativecommons.org/publicdomain/zero/1.0/", "CC0", "https://i.creativecommons.org/p/zero/1.0/88x31.png", "Public Domain (Creative Commons CC0)"))
+    [ ("CC0", ("https://creativecommons.org/publicdomain/zero/1.0/", "CC0", "https://i.creativecommons.org/p/zero/1.0/88x31.png", "released to the public domain according to Creative Commons CC0"))
     , ("CC BY", ("https://creativecommons.org/licenses/by/4.0/", "Creative Commons License", "https://i.creativecommons.org/l/by/4.0/88x31.png", "licensed under a Creative Commons Attribution 4.0 International License"))]
 
 -- We now implement a custom route.  This is adapted from
