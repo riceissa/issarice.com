@@ -6,7 +6,7 @@ license: CC0
 
 The following was inspired by discussions with VN.
 
-## Major considerations
+## Openness/Availability of content
 
 - how open to make content.
 One definitely shouldn't "fetishize openness", and always consider to whom what you write will be useful.
@@ -48,12 +48,44 @@ them, and (2) you will receive better feedback on what you post.
 Restriction of the whole discussion may also mean that people will give
 you more candid responses.
 
+### Licensing
+
+licensing? gwern likes CC0; some others use CC-BY or CC-BY-SA.
+stallman also has some insight on this.
+
+## Choosing a medium (or media)
+
+There are several alternatives for sharing content online, including on a blog, on a static website, on a third-party site like Quora, on a Google group, a mailing list, Facebook statuses, and so on.
 
 
+### Quora
 
-- static site vs more "advanced" things like WP, mediawiki, etc.
-- blogs???
-- Long Content by gwern
+Christopher J. Su [says](https://www.quora.com/How-should-one-balance-the-potential-for-Quora-to-delete-ones-questions-answers-with-the-increased-viewership-one-obtains-compared-to-a-personal-website/answer/Christopher-J-Su):
+
+> I tend to lean towards publishing content on websites where people can
+> actually read it. Apart from exercising writing skills, saving for
+> future reference, or reflecting on something, I find there aren't many
+> other reasons to write content just for myself. Backing up content
+> written on other websites is fairly trivial (especially if they have a
+> public API, which unfortunately, Quora doesn't \[yet\]). Quora keeps a
+> log of all content history, so your content isn't at risk of being
+> lost forever as a result of editing. If Quora goes down, they'll most
+> likely give a month's notice (at least), and in that timeframe before
+> they shutdown for good, you should have enough time to grab your
+> content and save it somewhere (when large content-based websites go
+> down, people usually build export tools for them. For example,
+> Posterous).
+>
+> If you really want to play it safe, you can crosspost your longer
+> Quora answers to your personal website. I've seen a few people do that
+> (some even just post a link to their website/blog as their answer on
+> Quora).
+
+### Blog
+
+Gwern [says](http://www.gwern.net/About#long-content):
+
+> I have read blogs for many years and most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are quickly abandoned - and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible ROI for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts - works in progress. So I did not wish to write a blog.
 
 What you write is essentially useless to your audience if it doesn't last (even though, like a diary, the act of writing something down may have been significant, and if the writing made an immediate impact on the people who read it).
 AS gwern highlights, link rot is a huge problem, and human memory is highly fallible.
@@ -66,28 +98,106 @@ blogs are bad because
 - they send off a bad impression if you haven't written a new post in a while; with static sites, it's harder to tell (nor does it really matter) if you haven't written anything in a while, because the content isn't displayed chronologically.
 Think critically whether chronology is important for something you're writing: unless it's a diary or daily log or something, it's unlikely that organizing something by date will be useful for the reader.
 
-<!-- -->
+### Static sites
 
-- tagging system?
+ Long Content by gwern
+
+> One of my personal interests is applying the idea of the Long Now. What and how do you write a personal site with the long-term in mind?
+
+But also keep [this](https://en.wikipedia.org/wiki/Not_invented_here) in mind.
+
+Consider also that *many many more* websites use things like WordPress instead of static sites like Jekyll or Hakyll.
+So wonder: are you missing something that the "crowd" has?
+
+### More "advanced" content management systems like WordPress and MediaWiki
+
+hmmm not much for now. wordpress is very easy to install and use though.
+
+### Google group
+
+See "[What are the advantages of a blog versus a Google group or email list?](ihttps://www.quora.com/What-are-the-advantages-of-a-blog-versus-a-Google-group-or-email-list)" on Quora.
+I have to investigate this more, though Google groups seem to not be very popular.
+
+### Mailing lists
+
+Insufficient investigation.
+
+
+### Crossposting
+
+ the importance of cross posting 
+
+
+
+## Hosting options
+
+Some media allow the choice of whether to host the content oneself, or to post all content "on the cloud", i.e. on a third-party's servers.
+We discuss the advantages and disadvantages of each.
+
+### Self-hosted
+
+Linode definitely works, but is the cost worth it?
+
+### Third party
+
+AKC likes to emphasize that everything on Quora will last.
+
+Consider the quote from [here](http://whatisresearch.wordpress.com/2007/01/09/wikis/):
+
+> However, I realized that putting up material on Wikipedia has some
+> limitations:
+>
+> * I cannot organize the article content of definition articles the way
+> I want
+> * I have very little control over the global structure, something
+> which is very crucial to effective navigation and exploration.
+> * I cannot put up original work and original ideas
+
+
+## Topic ontology
+
+This concerns things like a tagging system.
 
 I think that tags are best implemented using [DAGs](https://en.wikipedia.org/wiki/Directed_acyclic_graph), but I haven't encountered software that actually does this.
 WordPress, which has both categories and tags, uses a tree structure for its categories and simply has flat tags ([see here](https://wordpress.org/ideas/topic/allow-child-category-to-have-multiple-parents) for why we want something else).
 Other implementations are similar; Hakyll tags are flat, for instance.
 
-- searching? VS hierarchical structure: Google vs DMOZ (VN's comparison)
+
+## Searching
+
+searching? VS hierarchical structure: Google vs DMOZ (VN's comparison)
 
 Is it a good idea to rely on external search (like Google)?
 If all pages are static and can be pulled from GitHub, then it seems that one can (1) just search on GitHub, or (2) search locally using a simple bash script that loops over files using `find` (or something similar).
 
 - how much effort to expend on navigation stuff
 
-- hosting options
-Linode definitely works, but is the cost worth it?
 
-- what to do about style? SSC? AKC? VN?
+
+## Voice
+
+The voice or style of writing isn't specific to sharing content online, but is nonetheless important to think about.
+
+what to do about style? SSC? AKC? VN?
+
+We discuss some alternatives.
+
+### The "non-voice"
+
+It's very boring if the content is just in the form of "he said, she said", since (a) you sound less convincing since you're not saying what *you* think, and (b) since e.g. on Quora, the answers are often opinion, one must in each instance consider how reliable their answers are (and this consideration may be considered rude by some).
+
+- factual
+- neutral tone
+- citing sources?
+
+### Engaging, argumentative voice
+
+- potential to "hook" the readers into reading more of what you write
+
+
+
 - the use of external links: is it a good idea to restrict the use of these so you can keep people on your site, and thus control how they see info?
 
-- licensing? gwern likes CC0; some others use CC-BY or CC-BY-SA.
 anything less free than that is not very useful.
 
 - [this article](http://blog.subwiki.org/2009/02/02/the-goal-of-subject-wikis/) is interesting.
@@ -113,7 +223,9 @@ Is it a good idea to have sections within the root that link out to the children
 An alternative (not mutually exclusive) is to let tagging take care of everything.
 So by tagging all articles above with "effective altruism", we allow the reader to find all relevant information (but there is less structure here; it might be nice to have separate tags for each bigger nodes...).
 
-- VN's two questions: (1) "how specific should the individual leaf node pages be"? (2) "For a particular choice of leaves, how should we trade off the breadth vs depth of the tree?"
+## The tree structure of a website
+
+VN's two questions: (1) "how specific should the individual leaf node pages be"? (2) "For a particular choice of leaves, how should we trade off the breadth vs depth of the tree?"
 For (2): the question is essentially, "how many intermediate levels should we have?"
 
 For (2):
@@ -134,16 +246,20 @@ On the other hand, we can have intermediate pages like "math and LaTeX", "editin
 at the other extreme (i.e. the most depth), we can have something like:
 
 ````
-                      [How  to  use   LaTeX]
-                      /       |          \
-       [math and LaTeX] [editing LaTeX] [LaTeX and languages]
-        /           \          |     \           |          \
-   [math packages] symbols    emacs  vim      Japanese     Spanish
-    /        \
-  thmtools  proof
+                    [How  to  use   LaTeX]
+                    /       |          \
+     [math and LaTeX] [editing LaTeX] [LaTeX and languages]
+      /           \          |     \     /     |          \
+ [math packages] symbols    emacs  vim mix  Japanese     Spanish
+  /        \
+thmtools  proof
 ````
 
 above, the pages with brackets around them are "container pages" that link to the actual leaves. Note how there is a "math packages" node that contains the separate math environments, which creates a new intermediate level.
 
-(1) just asks whether all the bottom-most leaves should remain separate pages, or whether they should be combined into one (at the extreme).
+\(1) just asks whether all the bottom-most leaves should remain separate pages, or whether they should be combined into one (at the extreme).
 "thmtools" and "proof" could be combined into a "math packages" page (which then wouldn't be a container), for instance.
+
+## Thinking about impact
+
+how much impact can writing online make?
