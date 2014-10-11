@@ -3,9 +3,9 @@
 body {
     color: #586e75; /*base01*/
     background: #fdf6e3; /*base3*/
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.4;
-    font-family: Times, serif;
+    font-family: Arial, sans-serif;
 }
 
 div#content {
@@ -29,6 +29,10 @@ h1, h2, h3, h4 {
 
 h2 {
     border-bottom: 1px solid #93a1a1; /* base1 */
+}
+
+a {
+    text-decoration: none;
 }
 
 a:link {

@@ -7,6 +7,11 @@ license: CC0
 tags: general
 ...
 
+I'm currently a freshman at the University of Washington in Seattle, WA, USA.
+My intended major is computer science.
+
+My interests include effective altruism, rationality ([Less Wrong](http://lesswrong.com), [Slate Star Codex](http://slatestarcodex.com/)), Quora (and trying to ask good questions), the unschooling movement, vegetarianism/veganism, pure math (formal logic and set theory, though my knowledge here is not very advanced at this point), the copyleft/creative commons movement, the free software movement, typography (though mostly just with LaTeX), some aspects of Japanese culture (hikikomori, for instance, or Ōe in literature), and the organization and dissemination of knowledge.
+
 ## Contact
 
 Below are some ways to contact me, as well as the account names I use on various websites.
