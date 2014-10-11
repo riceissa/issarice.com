@@ -260,6 +260,8 @@ above, the pages with brackets around them are "container pages" that link to th
 \(1) just asks whether all the bottom-most leaves should remain separate pages, or whether they should be combined into one (at the extreme).
 "thmtools" and "proof" could be combined into a "math packages" page (which then wouldn't be a container), for instance.
 
+talk about top down versus bottom up.
+
 ## Thinking about impact
 
 how much impact can writing online make?
