@@ -43,7 +43,7 @@ See [here](./dealing-with-loneliness)
 
 ## Effective altruism
 
-[to be added later]
+[to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [here](/effective-altruism-links)]
 
 
 ## how to go about content creation
