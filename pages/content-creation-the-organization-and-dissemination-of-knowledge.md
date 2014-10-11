@@ -1,13 +1,17 @@
 ---
 title: Content creation: the organization and dissemination of knowledge
 tags: content creation, information
+license: CC0
 ...
 
 The following was inspired by discussions with VN.
 
 ## Major considerations
 
-- how open to make content. copying what i wrote for CM wiki:
+- how open to make content.
+One definitely shouldn't "fetishize openness", and always consider to whom what you write will be useful.
+Then again, it's sometimes hard to anticipate who will respond positively to what you write (that is one argument *for* openness).
+copying what i wrote for CM wiki:
 
 ### Selecting an appropriate audience
 
@@ -108,3 +112,38 @@ etc.
 Is it a good idea to have sections within the root that link out to the children?
 An alternative (not mutually exclusive) is to let tagging take care of everything.
 So by tagging all articles above with "effective altruism", we allow the reader to find all relevant information (but there is less structure here; it might be nice to have separate tags for each bigger nodes...).
+
+- VN's two questions: (1) "how specific should the individual leaf node pages be"? (2) "For a particular choice of leaves, how should we trade off the breadth vs depth of the tree?"
+For (2): the question is essentially, "how many intermediate levels should we have?"
+
+For (2):
+
+consider that we have the following pages:
+
+- how to use the `proof` environment  in LaTeX
+- how to configure the `thmtools` package on LaTeX
+- a list of math symbols in LaTeX
+- how to set up Vim to work with LaTeX
+- how to use emacs with LaTeX
+- how to insert Japanese text in a LaTeX document
+- how to typeset a Spanish LaTeX document
+- how to mix languages in LaTeX
+
+at one extreme, we could just have a "How to use LaTeX" page that links to all of the above pages. (this would be pushing breadth to the maximum)
+On the other hand, we can have intermediate pages like "math and LaTeX", "editing a LaTeX document", and "using LaTeX in different languages", and then have the relevant pages linked from the intermediate pages (this has more depth than the first example).
+at the other extreme (i.e. the most depth), we can have something like:
+
+````
+                      [How  to  use   LaTeX]
+                      /       |          \
+       [math and LaTeX] [editing LaTeX] [LaTeX and languages]
+        /           \          |     \           |          \
+   [math packages] symbols    emacs  vim      Japanese     Spanish
+    /        \
+  thmtools  proof
+````
+
+above, the pages with brackets around them are "container pages" that link to the actual leaves. Note how there is a "math packages" node that contains the separate math environments, which creates a new intermediate level.
+
+(1) just asks whether all the bottom-most leaves should remain separate pages, or whether they should be combined into one (at the extreme).
+"thmtools" and "proof" could be combined into a "math packages" page (which then wouldn't be a container), for instance.
