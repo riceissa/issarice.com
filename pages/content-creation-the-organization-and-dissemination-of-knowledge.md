@@ -3,6 +3,7 @@ title: Content creation: the organization and dissemination of knowledge
 tags: content creation, information
 ...
 
+The following was inspired by discussions with VN.
 
 ## Major considerations
 
@@ -49,7 +50,61 @@ you more candid responses.
 - static site vs more "advanced" things like WP, mediawiki, etc.
 - blogs???
 - Long Content by gwern
+
+What you write is essentially useless to your audience if it doesn't last (even though, like a diary, the act of writing something down may have been significant, and if the writing made an immediate impact on the people who read it).
+AS gwern highlights, link rot is a huge problem, and human memory is highly fallible.
+Ideally, you want to track each revision of a text so that even if you update it according to criticisms, people can still look back on the original to see the context in which comments were made.
+(suggest git, or WP has version control too now, I guess)
+In general it's best to plan in the *super long term*.
+
+blogs are bad because
+
+- they send off a bad impression if you haven't written a new post in a while; with static sites, it's harder to tell (nor does it really matter) if you haven't written anything in a while, because the content isn't displayed chronologically.
+Think critically whether chronology is important for something you're writing: unless it's a diary or daily log or something, it's unlikely that organizing something by date will be useful for the reader.
+
+<!-- -->
+
 - tagging system?
-- searching?
+
+I think that tags are best implemented using [DAGs](https://en.wikipedia.org/wiki/Directed_acyclic_graph), but I haven't encountered software that actually does this.
+WordPress, which has both categories and tags, uses a tree structure for its categories and simply has flat tags ([see here](https://wordpress.org/ideas/topic/allow-child-category-to-have-multiple-parents) for why we want something else).
+Other implementations are similar; Hakyll tags are flat, for instance.
+
+- searching? VS hierarchical structure: Google vs DMOZ (VN's comparison)
+
+Is it a good idea to rely on external search (like Google)?
+If all pages are static and can be pulled from GitHub, then it seems that one can (1) just search on GitHub, or (2) search locally using a simple bash script that loops over files using `find` (or something similar).
+
 - how much effort to expend on navigation stuff
+
 - hosting options
+Linode definitely works, but is the cost worth it?
+
+- what to do about style? SSC? AKC? VN?
+- the use of external links: is it a good idea to restrict the use of these so you can keep people on your site, and thus control how they see info?
+
+- licensing? gwern likes CC0; some others use CC-BY or CC-BY-SA.
+anything less free than that is not very useful.
+
+- [this article](http://blog.subwiki.org/2009/02/02/the-goal-of-subject-wikis/) is interesting.
+
+- granularity/modularity
+
+- is it a good idea to post things like fiction online?
+
+- one question is, do we want pages to be in a tree-like structure?
+
+consider:
+
+````
+                     effective altruism
+                       /             \
+           earning to give          direct impact
+           /
+        finance
+````
+
+etc.
+Is it a good idea to have sections within the root that link out to the children?
+An alternative (not mutually exclusive) is to let tagging take care of everything.
+So by tagging all articles above with "effective altruism", we allow the reader to find all relevant information (but there is less structure here; it might be nice to have separate tags for each bigger nodes...).
