@@ -5,6 +5,7 @@ tags: school, high school, less wrong
 
 The idea here is to produce a list of resources for high school students who are frustrated with school and want something better, but don't know where to begin to look.
 It may be better thought of as "what I wish I had (known) when I was in high school".
+Therefore this page is unlikely to suit most people (since my target audience is my past self, and I tend to be at odds with the mainstream).
 
 
 ## Rationality resources
@@ -38,6 +39,8 @@ He is also good at picking out useful content on Reddit.
 
 ## Dealing with loneliness
 
+[this section is also relevant outside of HS]
+
 I'm not really an EOTS, but some starting points:
 
 - [Dealing with intellectual isolation](http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation)
@@ -48,6 +51,44 @@ I'm not really an EOTS, but some starting points:
 
 - [Radicalizing the Romanceless](http://slatestarcodex.com/2014/08/31/radicalizing-the-romanceless/)
 
+- Deliberately thinking about the ratio of online:real-life friends is important; see [Transferring connections from online to real-life](http://info.cognitomentoring.org/wiki/Transferring_connections_from_online_to_real-life) for more:
+
+
+After you have some experience interacting within a community online, it
+may be worth investigating whether these connections can be transferred
+to a real life (i.e. non-online) setting. For some, this type of
+transfer may be especially fruitful.
+
+Here are some further considerations:
+
+> -   Obviously personal safety must be taken into account.
+> -   Some of the topics discussed on this wiki, such as
+>     [rationality](Rationality_learning_resources "wikilink"), [effective
+>     altruism](Effective_altruism "wikilink"), and
+>     [Quora](Quora "wikilink"), already have local meetup groups; see
+>     [Less Wrong meetup
+>     groups](http://wiki.lesswrong.com/wiki/Less_Wrong_meetup_groups),
+>     [effective altruism
+>     meetups](http://effective-altruism.com/meetups/), and [Quora
+>     meetups](https://www.quora.com/Quora-Meetups). Other potentially
+>     useful meetups can be found on e.g.
+>     [Meetup.com](http://www.meetup.com/).
+> -   Remember that meeting up in person will become easier once one is
+>     older and can drive to meetups, live on a college campus where these
+>     take place, and so on.
+>     -   A corollary to this is that if you are young, going to meetups
+>         will allow you to interact with older people who share your
+>         interests. This can be useful for both sides; see the questions
+>         ["In what ways do you think older people benefit from
+>         interacting with younger people, besides feeling good about
+>         helping?"](https://www.facebook.com/riceissa/posts/1475882736024012)
+>         (Facebook) and ["For high school and early college (or
+>         equivalent) students, how has regular casual interaction with
+>         people in their mid-to-late 20s influenced
+>         you?"](https://www.quora.com/For-high-school-and-early-college-or-equivalent-students-how-has-regular-casual-interaction-with-people-in-their-mid-to-late-20s-influenced-you)
+>         (Quora).
+
+
 ## Effective altruism
 
 [to be added later]
@@ -55,4 +96,11 @@ I'm not really an EOTS, but some starting points:
 
 ## how to go about content creation
 
-[maybe this deserves its own page, since it's not restricted to high school students]
+[See here](./content-creation-the-organization-and-dissemination-of-knowledge)
+
+See [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence) too.
+
+## thinking about careers
+
+- [80,000 Hours](https://80000hours.org/)
+- Cognito Mentoring
