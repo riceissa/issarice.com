@@ -54,13 +54,13 @@ I'm not really an EOTS, but some starting points:
 - Deliberately thinking about the ratio of online:real-life friends is important; see [Transferring connections from online to real-life](http://info.cognitomentoring.org/wiki/Transferring_connections_from_online_to_real-life) for more:
 
 
-After you have some experience interacting within a community online, it
-may be worth investigating whether these connections can be transferred
-to a real life (i.e. non-online) setting. For some, this type of
-transfer may be especially fruitful.
-
-Here are some further considerations:
-
+> After you have some experience interacting within a community online, it
+> may be worth investigating whether these connections can be transferred
+> to a real life (i.e. non-online) setting. For some, this type of
+> transfer may be especially fruitful.
+> 
+> Here are some further considerations:
+> 
 > -   Obviously personal safety must be taken into account.
 > -   Some of the topics discussed on this wiki, such as
 >     [rationality](Rationality_learning_resources "wikilink"), [effective
