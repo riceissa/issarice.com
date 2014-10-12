@@ -93,10 +93,52 @@ Ideally, you want to track each revision of a text so that even if you update it
 (suggest git, or WP has version control too now, I guess)
 In general it's best to plan in the *super long term*.
 
-blogs are bad because
-
-- they send off a bad impression if you haven't written a new post in a while; with static sites, it's harder to tell (nor does it really matter) if you haven't written anything in a while, because the content isn't displayed chronologically.
+blogs are bad because they send off a bad impression if you haven't written a new post in a while; with static sites, it's harder to tell (nor does it really matter) if you haven't written anything in a while, because the content isn't displayed chronologically.
 Think critically whether chronology is important for something you're writing: unless it's a diary or daily log or something, it's unlikely that organizing something by date will be useful for the reader.
+
+Some good stuff about blogs: since people use RSS (or other notification system) to get content blogs ensure that people who want to read what you write get it when it comes out.
+Also one FB people post articles often, but not many *pages* from static sites (since those mostly go through minor adjustments over a long course).
+On FB, what wins is a coherent message packed into an article, not an exhaustive investigation spanning many many years.
+so blogs might get you more publicity (at least while you have the energy to write continually).
+that said, it *is* possible to set up RSS feeds on Hakyll and other static sites (Hakyll even has a blog option, after all!), but this will usually include minor adjustments or just when a page is first created; i.e. it isn't possible to tell when a page becomes "finished enough" when everything is a perpetual draft (like what gwern does).
+Posting a monthly "what did I do this month" sort of thing would work too ( as gwern does with his website), but then... why not just make that announcement on FB or somewhere?
+
+Dan Dascalescu discusses [here](http://wiki.dandascalescu.com/essays/difference_blog_wiki) the difference between a blog and a wiki.
+
+If you want to convey your thoughts on a topic at a certain point in time, or in response to time-critical material, then a blog might be the best way to produce content[^blog].
+[Timeless](http://timelessrepo.com/timeless) echoes this:
+
+[^blog]:  (but version-controlled pages would work too)
+
+
+
+> A blog is perfect for writing about *changes*: a person’s life, the
+> society in general, the progress of a project, or other events. The
+> readers are encouraged to frequently visit the blog in order to keep up
+> to date, and in some blogs (these days: *most* blogs) they can also post
+> comments and take a part of the discussion.
+>
+> So simple and so effective that it has slowly taken over the internet,
+> which isn’t *only* positive. Useful information is hidden beneath
+> “September 2008”, but is still as relevant today. Posts with glaring
+> mistakes are left online because all blog posts should be immutable.
+> People forget to write down the context (in the technical world: version
+> numbers, operation systems etc), so it’s impossible to know if the post
+> still applies a few years later.
+>
+> The blog has become the norm, even in the places where it doesn’t fit
+> *at all*.
+
+The conclusion is essentially identical to gwern's:
+
+> The goal of Timeless is that every articles should be *timeless*. Well,
+> not timeless in the usual meaning of the word, but timeless as in every
+> article should include enough context to be easily understandable if you
+> discover it a month, a year or maybe even ten years later. The article
+> should be regularly updated as we learn and discover new aspects of the
+> topic.
+
+
 
 ### Static sites
 
