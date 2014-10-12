@@ -18,3 +18,4 @@ Some pages:
 - [Resources for the University of Washington](/resources-for-the-university-of-washington)
 - [Notes on Linux](/tags/linux)
 - [Notes on math](/tags/math)
+- [My Quora answers](/my-quora-answers)
