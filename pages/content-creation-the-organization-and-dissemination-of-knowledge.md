@@ -4,7 +4,7 @@ tags: content creation, information
 license: CC0
 ...
 
-The following was inspired by discussions with VN.
+The following was inspired by discussions with [Vipul Naik](http://vipulnaik.com).
 
 ## Openness/Availability of content
 
@@ -51,7 +51,16 @@ you more candid responses.
 ### Licensing
 
 licensing? gwern likes CC0; some others use CC-BY or CC-BY-SA.
-stallman also has some insight on this.
+Any stricter license prevents remixing.
+
+Richard Stallman [says](https://stallman.org/articles/online-education.html):
+
+> In my view, nonfree licenses that permit sharing are ok for works of
+> art/entertainment, or that present some party's viewpoint (such as this
+> article itself). Those works aren't meant for doing a practical job, so
+> the argument about the users' control does not apply. Thus, I do not
+> object if they are published with the CC-BY-NC-ND license, which allows
+> only noncommercial redistribution of exact copies.
 
 ## Choosing a medium (or media)
 
@@ -167,8 +176,9 @@ Insufficient investigation.
 
 ### Crossposting
 
- the importance of cross posting 
-
+Crossposting content to different sites can be useful because different audiences respond differently to the same content.
+It's possible to just host the content on your website and drop a link for other sites, but keep in mind that people may be too lazy to click on a link if they don't know why it might be relevant for them.
+Including a quote or copy-pasting the whole article may be better.
 
 
 ## Hosting options
@@ -182,7 +192,7 @@ Linode definitely works, but is the cost worth it?
 
 ### Third party
 
-AKC likes to emphasize that everything on Quora will last.
+AKC [likes to emphasize](https://www.quora.com/How-does-Alex-K-Chen-make-backups-of-his-content-on-Quora/answer/Alex-K-Chen) that everything on Quora will last: "I do trust Quora more than I can trust myself".
 
 Consider the quote from [here](http://whatisresearch.wordpress.com/2007/01/09/wikis/):
 
