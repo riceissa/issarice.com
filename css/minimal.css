@@ -19,6 +19,8 @@ div#content {
 div#navigation {
     font-size: 14px;
     font-family: Helvetica, sans-serif;
+    /* See http://stackoverflow.com/a/324553 */
+    overflow: hidden;
 }
 
 h1, h2, h3, h4 {
