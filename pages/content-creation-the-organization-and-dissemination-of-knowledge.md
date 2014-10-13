@@ -6,12 +6,13 @@ license: CC0
 
 The following was inspired by discussions with [Vipul Naik](http://vipulnaik.com).
 
-## Openness/Availability of content
+## Openness and availability of content
 
-- how open to make content.
-One definitely shouldn't "fetishize openness", and always consider to whom what you write will be useful.
-Then again, it's sometimes hard to anticipate who will respond positively to what you write (that is one argument *for* openness).
-copying what i wrote for CM wiki:
+This section considers how open one's content should be.
+One definitely shouldn't “fetishize openness”, and ought to always consider to whom what you write will be useful (since if it's useful to no one, then one shouldn't bother publishing it).
+Then again, it's sometimes hard to anticipate who will respond positively to what you write, which is one argument for greater openness.
+
+Copying what I wrote for the Cognito Mentoring wiki:
 
 ### Selecting an appropriate audience
 
@@ -20,18 +21,18 @@ there is no dichotomy of either complete privacy or complete release of
 information. Consider the gradual increase in visibility in the
 following:
 
-1.  Keeping one's data local (on one's own hard drive)
-2.  Keeping data on a cloud service but available only to oneself (so
+@.  Keeping one's data local (on one's own hard drive)
+@.  Keeping data on a cloud service but available only to oneself (so
     that the service provider, such as Google, can potentially view or
     use the data)
-3.  Keeping data on a cloud service but with the ability to invite other
+@.  Keeping data on a cloud service but with the ability to invite other
     authorized users to view the data (e.g. restricted Facebook posts)
-4.  Making the data public, but not locatable by search engines, so that
+@.  Making the data public, but not locatable by search engines, so that
     effectively only people with the link can view the data (this is,
     for instance, what [GitHub](https://github.com/) does with its
     [secret
     gists](https://help.github.com/articles/about-gists#secret-gists))
-5.  Releasing the data publicly and making it locatable by search
+@.  Releasing the data publicly and making it locatable by search
     engines
 
 Additionally, in each case, one has the option of using one's real name
@@ -50,8 +51,32 @@ you more candid responses.
 
 ### Licensing
 
-licensing? gwern likes CC0; some others use CC-BY or CC-BY-SA.
-Any stricter license prevents remixing.
+This section considers how restrictive one should be about the sharing
+and modification of one's content.
+
+gwern, for instance, likes CC0: “I believe the public domain license
+reduces [FUD](http://en.wikipedia.org/wiki/FUD "Wikipedia: FUD") and
+[dead-weight loss](http://en.wikipedia.org/wiki/dead-weight%20loss "Wikipedia: dead-weight loss"), encourages copying
+([LOCKSS](http://en.wikipedia.org/wiki/LOCKSS "Wikipedia: LOCKSS")),
+gives back (however little) to [Free
+Software](http://en.wikipedia.org/wiki/Free%20Software "Wikipedia: Free
+Software")/[Free Content](http://en.wikipedia.org/wiki/Free%20Content "Wikipedia: Free Content"), and costs me nothing.”
+
+In a footnote he elaborates:
+
+> \[Public domain\] increases economic efficiency through - if nothing else - making
+> works easier to find. [Tim
+> O’Reilly](http://en.wikipedia.org/wiki/Tim%20O%27Reilly "Wikipedia: Tim O’Reilly")
+> says that [“Obscurity is a far greater threat to authors and creative
+> artists than piracy.”](http://openp2p.com/lpt/a/3015) If that is so,
+> then that means that difficulty of finding works reduces the welfare of
+> artists *and* consumers, because both forgo a beneficial trade (the
+> artist loses any revenue and the consumer loses any enjoyment). Even
+> small increases in inconvenience make [big
+> differences](http://www.gwern.net/In%20Defense%20Of%20Inclusionism#new-regimes).
+
+Some sites like the [Subject Wiki](http://subwiki.org/wiki/Main_Page) use CC-BY-SA, and others use CC-BY.
+Any stricter license prevents remixing, not that there is anything wrong with that.
 
 Richard Stallman [says](https://stallman.org/articles/online-education.html):
 
@@ -62,12 +87,19 @@ Richard Stallman [says](https://stallman.org/articles/online-education.html):
 > object if they are published with the CC-BY-NC-ND license, which allows
 > only noncommercial redistribution of exact copies.
 
+
 ## Choosing a medium (or media)
 
 There are several alternatives for sharing content online, including on a blog, on a static website, on a third-party site like Quora, on a Google group, a mailing list, Facebook statuses, and so on.
+We examine several options below.
 
 
 ### Quora
+
+Quora can be good in terms of gaining viewership, since for people who are not established as writers, it is much easier to be read on Quora than to attract readers to one's own site.
+On the other hand, Quora is a third-party site that is not afraid of making radical decisions[^quora], so it is always a good idea to backup one's writings from there.
+
+[^quora]: For instance they recently eliminated private blogs.
 
 Christopher J. Su [says](https://www.quora.com/How-should-one-balance-the-potential-for-Quora-to-delete-ones-questions-answers-with-the-increased-viewership-one-obtains-compared-to-a-personal-website/answer/Christopher-J-Su):
 
@@ -92,34 +124,36 @@ Christopher J. Su [says](https://www.quora.com/How-should-one-balance-the-potent
 
 ### Blog
 
-Gwern [says](http://www.gwern.net/About#long-content):
+gwern [says](http://www.gwern.net/About#long-content):
 
 > I have read blogs for many years and most blog posts are the triumph of the hare over the tortoise. They are meant to be read by a few people on a weekday in 2004 and never again, and are quickly abandoned - and perhaps as Assange says, not a moment too soon. (But isn’t that sad? Isn’t it a terrible ROI for one’s time?) On the other hand, the best blogs always seem to be building something: they are rough drafts - works in progress. So I did not wish to write a blog.
 
-What you write is essentially useless to your audience if it doesn't last (even though, like a diary, the act of writing something down may have been significant, and if the writing made an immediate impact on the people who read it).
-AS gwern highlights, link rot is a huge problem, and human memory is highly fallible.
+What you write is essentially useless if it doesn't last[^last].
+As gwern highlights, [link rot is a huge problem](http://www.gwern.net/Archiving%20URLs), and human memory is highly fallible.
 Ideally, you want to track each revision of a text so that even if you update it according to criticisms, people can still look back on the original to see the context in which comments were made.
-(suggest git, or WP has version control too now, I guess)
+Something like [Git](http://git-scm.com/) is great, although now even WordPress has version control built in (not that users have access to past versions of an entry).
 In general it's best to plan in the *super long term*.
 
-blogs are bad because they send off a bad impression if you haven't written a new post in a while; with static sites, it's harder to tell (nor does it really matter) if you haven't written anything in a while, because the content isn't displayed chronologically.
+[^last]: There are two arguments against this view:
+(1) it is often said that the act of writing something down is significant in itself (think of a diary or a [learning blog](http://qchu.wordpress.com/about/): "They say that the best way to learn is to teach, and I figure blogging is close enough");
+(2) if the writing makes an immediate and lasting impact on the people who read the content, then it might not matter whether the content survives or not.
+
+Blogs are bad because they send off a bad impression if you haven't written a new post in a while; with static sites, it's harder to tell (nor does it really matter) if you haven't written anything in a while, because the content isn't displayed chronologically.
 Think critically whether chronology is important for something you're writing: unless it's a diary or daily log or something, it's unlikely that organizing something by date will be useful for the reader.
 
-Some good stuff about blogs: since people use RSS (or other notification system) to get content blogs ensure that people who want to read what you write get it when it comes out.
-Also one FB people post articles often, but not many *pages* from static sites (since those mostly go through minor adjustments over a long course).
-On FB, what wins is a coherent message packed into an article, not an exhaustive investigation spanning many many years.
-so blogs might get you more publicity (at least while you have the energy to write continually).
-that said, it *is* possible to set up RSS feeds on Hakyll and other static sites (Hakyll even has a blog option, after all!), but this will usually include minor adjustments or just when a page is first created; i.e. it isn't possible to tell when a page becomes "finished enough" when everything is a perpetual draft (like what gwern does).
-Posting a monthly "what did I do this month" sort of thing would work too ( as gwern does with his website), but then... why not just make that announcement on FB or somewhere?
+Blogs can be good since if people use RSS (or another notification system) to get content, blogs ensure that people who want to read what you write get it when it comes out.
+Also on Facebook people post articles often, but not many pages from static sites (since those mostly go through minor adjustments over a long course).
+On Facebook, what wins is a coherent message packed into an article, not an exhaustive investigation spanning many years.
+So blogs might get you more publicity (at least while you have the energy to write continually).
+That said, it *is* possible to set up RSS feeds on Hakyll and using other static site generators (Hakyll even has a blog option, after all!), but this will usually include minor adjustments or just when a page is first created; i.e. it isn't possible to tell when a page becomes "finished enough" when everything is a perpetual draft (like what gwern does).
+Posting a monthly "what I did this month" sort of thing would work too (as again gwern does with his website); but then, it's possible to just make that announcement on Facebook?
 
 Dan Dascalescu discusses [here](http://wiki.dandascalescu.com/essays/difference_blog_wiki) the difference between a blog and a wiki.
 
 If you want to convey your thoughts on a topic at a certain point in time, or in response to time-critical material, then a blog might be the best way to produce content[^blog].
 [Timeless](http://timelessrepo.com/timeless) echoes this:
 
-[^blog]:  (but version-controlled pages would work too)
-
-
+[^blog]:  But version-controlled pages would work too.
 
 > A blog is perfect for writing about *changes*: a person’s life, the
 > society in general, the progress of a project, or other events. The
@@ -151,23 +185,25 @@ The conclusion is essentially identical to gwern's:
 
 ### Static sites
 
- Long Content by gwern
+See [Long Content](http://www.gwern.net/About#long-content) by gwern:
 
 > One of my personal interests is applying the idea of the Long Now. What and how do you write a personal site with the long-term in mind?
 
-But also keep [this](https://en.wikipedia.org/wiki/Not_invented_here) in mind.
+But also keep “[not invented here](https://en.wikipedia.org/wiki/Not_invented_here)” in mind: are you reinventing the wheel?
 
-Consider also that *many many more* websites use things like WordPress instead of static sites like Jekyll or Hakyll.
+Also many more websites use things like WordPress rather than static sites built using things like Jekyll or Hakyll.
 So wonder: are you missing something that the "crowd" has?
+
 
 ### More "advanced" content management systems like WordPress and MediaWiki
 
-hmmm not much for now. wordpress is very easy to install and use though.
+These tend to be very easy to install and use.
+See more at “[Choice of content management system](http://info.cognitomentoring.org/wiki/Creating_your_personal_website#Choice_of_content_management_system)” on the Cognito Mentoring wiki.
 
 ### Google group
 
 See "[What are the advantages of a blog versus a Google group or email list?](ihttps://www.quora.com/What-are-the-advantages-of-a-blog-versus-a-Google-group-or-email-list)" on Quora.
-I have to investigate this more, though Google groups seem to not be very popular.
+<!-- I have to investigate this more, though Google groups seem to not be very popular.-->
 
 ### Mailing lists
 
@@ -183,27 +219,29 @@ Including a quote or copy-pasting the whole article may be better.
 
 ## Hosting options
 
-Some media allow the choice of whether to host the content oneself, or to post all content "on the cloud", i.e. on a third-party's servers.
+Some media (like blogs) allow the choice of whether to host the content oneself (e.g. using WordPress's software on one's own servers), or to post all content "on the cloud", i.e. on a third-party's servers (e.g. on [WordPress.com](https://wordpress.com)).
 We discuss the advantages and disadvantages of each.
 
 ### Self-hosted
 
-Linode definitely works, but is the cost worth it?
+- Depends a lot on how knowledeable one is, although even if one isn't, it's a great learning opportunity.
+- Usually costs money, though there might be special opportunities like the [Student Developer Pack](https://education.github.com/pack).
 
-### Third party
+### Third-party
 
-AKC [likes to emphasize](https://www.quora.com/How-does-Alex-K-Chen-make-backups-of-his-content-on-Quora/answer/Alex-K-Chen) that everything on Quora will last: "I do trust Quora more than I can trust myself".
+- If one isn't good about backing up one's content, then third-parties may do a better job serving your content.
+Alex K. Chen [likes to emphasize](https://www.quora.com/How-does-Alex-K-Chen-make-backups-of-his-content-on-Quora/answer/Alex-K-Chen) that everything on Quora will last: "I do trust Quora more than I can trust myself".
 
-Consider the quote from [here](http://whatisresearch.wordpress.com/2007/01/09/wikis/):
+- Consider the quote from [here](http://whatisresearch.wordpress.com/2007/01/09/wikis/):
 
-> However, I realized that putting up material on Wikipedia has some
-> limitations:
->
-> * I cannot organize the article content of definition articles the way
-> I want
-> * I have very little control over the global structure, something
-> which is very crucial to effective navigation and exploration.
-> * I cannot put up original work and original ideas
+    > However, I realized that putting up material on Wikipedia has some
+    > limitations:
+    >
+    > * I cannot organize the article content of definition articles the way
+    > I want
+    > * I have very little control over the global structure, something
+    > which is very crucial to effective navigation and exploration.
+    > * I cannot put up original work and original ideas
 
 
 ## Topic ontology
@@ -217,40 +255,132 @@ Other implementations are similar; Hakyll tags are flat, for instance.
 
 ## Searching
 
-searching? VS hierarchical structure: Google vs DMOZ (VN's comparison)
+Arguably people find your content most useful when they encounter it through a search; for instance Vipul Naik [writes](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics):
 
-Is it a good idea to rely on external search (like Google)?
-If all pages are static and can be pulled from GitHub, then it seems that one can (1) just search on GitHub, or (2) search locally using a simple bash script that loops over files using `find` (or something similar).
+> I believe that views that are generated by direct search are considerably more valuable than views that are generated by clicking through things in one's feed. Direct search signals a specific desire to learn about the topic, whereas clicking links in one's feed is a quasi-passive activity.
 
-- how much effort to expend on navigation stuff
+Searching also tends to be the greatest source of hits for websites (source?).
 
+As for finding content, Vipul Naik brings up the comparison between Google and DMOZ: almost nobody uses DMOZ's hierarchical system to find content nowadays.
+
+It's unclear whether it's a good idea to rely on an external search (like Google) for one's site.
+If all pages are static and can be pulled from GitHub, then it seems that one can (1) just search on GitHub; (2) search locally using a simple bash script that loops over files using `find` (or something similar).
+
+If one uses WordPress or a third-party site, then one doesn't need to spend any time on navigation, since search is built-in.
+For static sites, people will probably just use Google anyway, so spending time on navigation may not be worthwhile.
 
 
 ## Voice
 
-The voice or style of writing isn't specific to sharing content online, but is nonetheless important to think about.
-
-what to do about style? SSC? AKC? VN?
-
-We discuss some alternatives.
+The voice or style of writing isn't specific to sharing content online, but is nonetheless important to think about; we discuss some alternatives.
 
 ### The "non-voice"
 
-It's very boring if the content is just in the form of "he said, she said", since (a) you sound less convincing since you're not saying what *you* think, and (b) since e.g. on Quora, the answers are often opinion, one must in each instance consider how reliable their answers are (and this consideration may be considered rude by some).
+It's very boring if the content is just in the form of "he said, she said", since (a) you sound less convincing because you're not saying what *you* think; (b) for instance on Quora, the answers are often opinion, so one must in each instance consider how reliable their answers are (and this may be seen as rude by some).
 
-- factual
-- neutral tone
-- citing sources?
+However, it is still possible to write in a deliberate fashion without being emotional.
+See for instance [Academia as a career option](http://info.cognitomentoring.org/wiki/Academia_as_a_career_option).
+This style of writing tends to be factual, but unlike a "he said, she said" form, still includes useful insight from oneself, and has a clear underlying motivation that is not just "let's collect opinions on this topic".
+
+Citing sources is also important.
 
 ### Engaging, argumentative voice
 
-- potential to "hook" the readers into reading more of what you write
+The epitomical example of this style is [Slate Star Codex](http://slatestarcodex.com/).
+If executed well, this style has the potential to "hook" the readers into reading more of what you write.
 
 
+## The tree structure of a website
 
-- the use of external links: is it a good idea to restrict the use of these so you can keep people on your site, and thus control how they see info?
+A website may be thought of as having a rooted [tree structure](ihttp://en.wikipedia.org/wiki/Tree_%28graph_theory%29); we look at this concept more closely here.
 
-anything less free than that is not very useful.
+Vipul Naik considers two questions
+
+1. How specific should the individual leaf node pages be?
+In other words, at the bottommost places of the tree, how much content should be in those pages?
+
+2. For a particular choice of leaves, how should we trade off the breadth versus depth of the tree?
+In other words, how many intermediate levels should the tree have?
+
+To understand the two questions better, consider the following pages that might be on a website:
+
+- How to use the `proof` environment  in LaTeX (called "proof" below)
+- How to configure the `thmtools` package on LaTeX ("thmtools")
+- A list of math symbols in LaTeX ("symbols")
+- How to use Vim with LaTeX ("Vim")
+- How to use Emacs with LaTeX ("Emacs")
+- How to typeset a Japanese LaTeX document ("Japanese")
+- How to typeset a Spanish LaTeX document ("Spanish")
+- How to mix languages in LaTeX ("mix")
+
+Question (1) asks whether all of these deserve a page: is it better to have a single comprehensive page (at one extreme) or be as modular as possible (at the other extreme)?
+Between these extremes, we could combine just some pages; for instance, "proof" and "thmtools" could be combined into a "math packages" page.
+
+For question (2), *given that* each of the above deserve a page, we want to know how to organize the list as a tree.
+At one extreme, we could just have a "How to use LaTeX" container-page that links to all of the above pages.
+This would be pushing *breadth* to the maximum, and would look like the following (any page with brackets around them are container-pages that link to the actual leaves.):
+
+```
+    [       How         to        use        LaTeX       ]
+    /      /         /     |     |      \         \      \
+proof  thmtools  symbols  Vim  Emacs  Japanese  Spanish  mix
+```
+
+On the other hand, we can have intermediate pages like "Math and LaTeX", "Editing LaTeX", and "LaTeX and languages" all under "How to use LaTeX", and then have the relevant pages linked under the intermediate pages.
+This has more depth than the first example, and looks like:
+
+```
+            [     How     to    use    LaTeX    ]
+            /                |                  \
+    [Math and LaTeX]   [Editing LaTeX] [LaTeX and languages]
+    /      |       \       |     |       /         |      \
+proof  thmtools  symbols  Vim  Emacs  Japanese  Spanish  mix
+```
+
+At the other extreme (i.e. the most depth), we can make a "math packages" container-page that creates a new level and have something like:
+
+````
+                    [How   to   use   LaTeX]
+                    /         |            \
+     [Math and LaTeX]     [Editing LaTeX]  [LaTeX and languages]
+      /           \           |      \         |        |     \
+ [Math packages]  symbols    Vim    Emacs   Japanese Spanish mix
+  /        \
+proof  thmtools
+````
+
+
+## Thinking about impact
+
+Here we consider how much impact writing online make on the world.
+
+- See [What's the relative social value of 1 Quora pageview (as measured by Quora stats <http://www.quora.com/stats>) and 1 Wikipedia pageview (as measured at, say, Wikipedia article traffic statistics)?](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics) for a comparison of Quora and Wikipedia.
+
+- Easily-accessible online content can be useful for oneself; Terence Tao [says](http://terrytao.wordpress.com/career-advice/write-down-what-youve-done/):
+
+    > There were many occasions early in my career when I read, heard
+    > about, or stumbled upon some neat mathematical trick or argument,
+    > and thought I understood it well enough that I didn’t need to
+    > write it down; and then, say six months later, when I actually
+    > needed to recall that trick, I couldn’t reconstruct it at all.
+    > Eventually I resolved to write down (preferably on a computer) a
+    > sketch of any interesting argument I came across – not necessarily
+    > at a publication level of quality, but detailed enough that I
+    > could then safely forget about the details, and readily recover
+    > the argument from the sketch whenever the need arises.
+
+- Within mathematics, [Terence Tao argues](http://terrytao.wordpress.com/career-advice/make-your-work-available/) that sharing online helps with networking:
+
+    > In particular, your work will show up in search engine queries in
+    > your topic (I have come across many an interesting paper this
+    > way). This will help spread awareness of you and your work among
+    > your colleagues, and hopefully lead to future collaborations, or
+    > other people building upon (and citing) your papers.
+
+## Some remaining questions
+
+- The use of external links: is it a good idea to restrict the use of these so you can keep people on your site, and thus control how they see info?
+
 
 - [this article](http://blog.subwiki.org/2009/02/02/the-goal-of-subject-wikis/) is interesting.
 
@@ -259,61 +389,4 @@ anything less free than that is not very useful.
 - is it a good idea to post things like fiction online?
 
 - one question is, do we want pages to be in a tree-like structure?
-
-consider:
-
-````
-                     effective altruism
-                       /             \
-           earning to give          direct impact
-           /
-        finance
-````
-
-etc.
-Is it a good idea to have sections within the root that link out to the children?
-An alternative (not mutually exclusive) is to let tagging take care of everything.
-So by tagging all articles above with "effective altruism", we allow the reader to find all relevant information (but there is less structure here; it might be nice to have separate tags for each bigger nodes...).
-
-## The tree structure of a website
-
-VN's two questions: (1) "how specific should the individual leaf node pages be"? (2) "For a particular choice of leaves, how should we trade off the breadth vs depth of the tree?"
-For (2): the question is essentially, "how many intermediate levels should we have?"
-
-For (2):
-
-consider that we have the following pages:
-
-- how to use the `proof` environment  in LaTeX
-- how to configure the `thmtools` package on LaTeX
-- a list of math symbols in LaTeX
-- how to set up Vim to work with LaTeX
-- how to use emacs with LaTeX
-- how to insert Japanese text in a LaTeX document
-- how to typeset a Spanish LaTeX document
-- how to mix languages in LaTeX
-
-at one extreme, we could just have a "How to use LaTeX" page that links to all of the above pages. (this would be pushing breadth to the maximum)
-On the other hand, we can have intermediate pages like "math and LaTeX", "editing a LaTeX document", and "using LaTeX in different languages", and then have the relevant pages linked from the intermediate pages (this has more depth than the first example).
-at the other extreme (i.e. the most depth), we can have something like:
-
-````
-                    [How  to  use   LaTeX]
-                    /       |          \
-     [math and LaTeX] [editing LaTeX] [LaTeX and languages]
-      /           \          |     \     /     |          \
- [math packages] symbols    emacs  vim mix  Japanese     Spanish
-  /        \
-thmtools  proof
-````
-
-above, the pages with brackets around them are "container pages" that link to the actual leaves. Note how there is a "math packages" node that contains the separate math environments, which creates a new intermediate level.
-
-\(1) just asks whether all the bottom-most leaves should remain separate pages, or whether they should be combined into one (at the extreme).
-"thmtools" and "proof" could be combined into a "math packages" page (which then wouldn't be a container), for instance.
-
-talk about top down versus bottom up.
-
-## Thinking about impact
-
-how much impact can writing online make?
+- talk about top down versus bottom up.
