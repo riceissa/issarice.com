@@ -42,6 +42,11 @@ a:visited {
     color: #d33682; /*magenta*/
 }
 
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+
 pre code {
     display: block;
     overflow: auto;
