@@ -354,7 +354,7 @@ proof  thmtools
 
 Here we consider how much impact writing online can make on the world.
 
-- See [What's the relative social value of 1 Quora pageview (as measured by Quora stats <http://www.quora.com/stats>) and 1 Wikipedia pageview (as measured at, say, Wikipedia article traffic statistics)?](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics) for a comparison of Quora and Wikipedia.
+- See [What's the relative social value of 1 Quora pageview (as measured by Quora stats http://www.quora.com/stats) and 1 Wikipedia pageview (as measured at, say, Wikipedia article traffic statistics)?](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics) for a comparison of Quora and Wikipedia.
 
 - Easily-accessible online content can be useful for oneself; Terence Tao [says](http://terrytao.wordpress.com/career-advice/write-down-what-youve-done/):
 
