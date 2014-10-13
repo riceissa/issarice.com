@@ -62,3 +62,6 @@ TODO:
 - flash?
 - surfraw config
 - tmux config
+vim /etc/apt/sources.list
+sudo aptitude install flashplugin-nonfree
+- install duckduckgo plugin
