@@ -382,11 +382,12 @@ Here we consider how much impact writing online can make on the world.
 - The use of external links: is it a good idea to restrict the use of these so you can keep people on your site, and thus control how they see info?
 
 
-- [this article](http://blog.subwiki.org/2009/02/02/the-goal-of-subject-wikis/) is interesting.
+- [This article](http://blog.subwiki.org/2009/02/02/the-goal-of-subject-wikis/) is interesting.
 
-- granularity/modularity
+- Granularity/modularity
 
-- is it a good idea to post things like fiction online?
+- Is it a good idea to post things like fiction online?
 
-- one question is, do we want pages to be in a tree-like structure?
-- talk about top down versus bottom up.
+- Do we want pages to be in a tree-like structure, or just let tags do all the work?
+
+- Talk about top down versus bottom up.
