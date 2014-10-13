@@ -37,6 +37,14 @@ git config --global user.name "First Last"
 git config --global user.email "name@example.com"
 ~~~
 
+### Audio
+
+```
+sudo aptitude install pulseaudio pavucontrol
+```
+
+Just make sure to log out or reboot; then audio should be working.
+
 
 ### Installing Haskell
 
