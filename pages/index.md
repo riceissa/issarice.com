@@ -16,6 +16,7 @@ Some pages:
 - [Contact me](/about-me#contact)
 - [About this site](/about-the-site)
 - [Resources for the University of Washington](/resources-for-the-university-of-washington)
+- [Content creation: the organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge) documents my ongoing research on whether publishing content online impacts the world, and how to do it effectively.
 - [Notes on Linux](/tags/linux)
 - [Notes on math](/tags/math)
 - [My Quora answers](/my-quora-answers)
