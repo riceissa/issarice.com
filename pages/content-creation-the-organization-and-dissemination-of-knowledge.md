@@ -391,3 +391,8 @@ Here we consider how much impact writing online can make on the world.
 - Do we want pages to be in a tree-like structure, or just let tags do all the work?
 
 - Talk about top down versus bottom up.
+
+- Despite my criticisms of blogs, some of the most popular websites currently in existence are blogs.
+Does this mean blogs are superior to e.g. static sites?
+
+- Since I've only begun to write recently, how can I even know these considerations are correct?
