@@ -10,14 +10,18 @@ Therefore this page is unlikely to suit most people (since my target audience is
 
 ## Rationality resources
 
-- Depending on your personality fit with the community, [Less Wrong](http://lesswrong.com/) may be a very good place to check out.
+Depending on your personality fit with the community, [Less Wrong](http://lesswrong.com/) may be a very good place to check out.
 Some posts to check out (FIXME: make this part more fluid later):
 
-    - [Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/) asks the questions "What is disease?" and considers when it is appropriate to sympathize with or prod a victim of a "disease".
+- Some of the best content on Less Wrong might just be pointers to other high quality resources.
+“[The Best Textbooks on Every Subject](http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/)” was the post that first got me excited about Less Wrong.
+Also [References \& Resources for LessWrong](http://lesswrong.com/lw/2un/references_resources_for_lesswrong/) is excellent.
 
-    - [The noncentral fallacy - the worst argument in the world?](http://lesswrong.com/lw/e95/the_noncentral_fallacy_the_worst_argument_in_the/)
+- [Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/) asks the questions "What is disease?" and considers when it is appropriate to sympathize with or prod a victim of a "disease".
 
-    - find more high school-related posts.
+- [The noncentral fallacy - the worst argument in the world?](http://lesswrong.com/lw/e95/the_noncentral_fallacy_the_worst_argument_in_the/)
+
+- find more high school-related posts.
 
 [maybe insert a guide in here of how to effectively use LW]
 
@@ -46,13 +50,18 @@ See [here](./dealing-with-loneliness)
 [to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [here](/effective-altruism-links)]
 
 
-## how to go about content creation
+## How to go about content creation
 
-[See here](./content-creation-the-organization-and-dissemination-of-knowledge)
+My main page on this is [Content creation: the organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge)
 
-See [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence) too.
+See also [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence).
 
-## thinking about careers
+## Thinking about careers
 
 - [80,000 Hours](https://80000hours.org/)
-- Cognito Mentoring
+- [Cognito Mentoring](http://cognitomentoring.org/)
+
+## Books
+
+- Selfish Gene
+- GEB (though I personally don't like it much)
