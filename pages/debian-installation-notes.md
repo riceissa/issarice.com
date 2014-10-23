@@ -67,6 +67,20 @@ sudo aptitude install flashplugin-nonfree
 - install duckduckgo plugin
 - set up MOC config file
 
+- for getting Source Code Pro on LXDE:
+I extracted the archive from [here](https://github.com/adobe-fonts/source-code-pro/releases/latest), then did the following from the directory containing the `.otf` files:
+
+~~~bash
+sudo mkdir /usr/share/fonts/SourceCodePro
+sudo cp * /usr/share/fonts/SourceCodePro/
+mkfontscale
+mkfontdir
+fc-cache
+~~~
+
+(as shown [here](http://forum.lxde.org/viewtopic.php?f=8&t=1914#p5573))
+I'm not exactly sure which steps are required.
+`mkfontdir` seemed to create a `fonts.dir` in the current directory, so perhaps that was unnecessary considering that I had already moved all my fonts to the system directory.)
 
 For finding pages for my website repository:
 
