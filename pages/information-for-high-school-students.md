@@ -54,14 +54,15 @@ See [here](./dealing-with-loneliness)
 
 My main page on this is [Content creation: the organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge)
 
-See also [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence).
+See also [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence) on the Cognito Mentoring wiki.
 
 ## Thinking about careers
 
 - [80,000 Hours](https://80000hours.org/)
 - [Cognito Mentoring](http://cognitomentoring.org/)
+- [Advice for Students on Earning to Give](http://reducing-suffering.org/advice-students-earning-give/) gives a good overview of concrete steps to take in high school and college, with an EA-bent (specifically from the view that earning to give is advisable).
 
 ## Books
 
 - Selfish Gene
-- GEB (though I personally don't like it much)
+- GEB (though I personally don't like it much); Eliezer Yudkowsky, for one, seems to [like the book a lot](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/).
