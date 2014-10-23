@@ -65,6 +65,7 @@ TODO:
 vim /etc/apt/sources.list
 sudo aptitude install flashplugin-nonfree
 - install duckduckgo plugin
+- set up MOC config file
 
 
 For finding pages for my website repository:

@@ -48,6 +48,8 @@ programs = [
 "gcc",
 r"g\+\+",
 "ruby",
+"openjdk-7-jre",
+"openjdk-7-jdk",
 
 # For Haskell, it's a good idea to get GHC, Haddock, and zlib, but
 # getting the entire Haskell platform is not a good idea since the one
