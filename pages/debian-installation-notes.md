@@ -65,3 +65,12 @@ TODO:
 vim /etc/apt/sources.list
 sudo aptitude install flashplugin-nonfree
 - install duckduckgo plugin
+sudo aptitude install openjdk-7-jre openjdk-7-jdk
+
+```bash
+findAllPagesWith() {
+    find ~/projects/riceissa.com/pages -iname "*$1*"
+}
+
+alias fp=findAllPagesWith
+```
