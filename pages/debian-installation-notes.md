@@ -65,7 +65,9 @@ TODO:
 vim /etc/apt/sources.list
 sudo aptitude install flashplugin-nonfree
 - install duckduckgo plugin
-sudo aptitude install openjdk-7-jre openjdk-7-jdk
+
+
+For finding pages for my website repository:
 
 ```bash
 findAllPagesWith() {
