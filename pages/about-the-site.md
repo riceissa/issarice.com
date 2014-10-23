@@ -33,3 +33,9 @@ I have registered the domains [riceissa.com](http://riceissa.com) and [issarice.
 [^hak]: I should eventually write out the details of this, and explain what goes into the `site.hs` file.
 
 [^ssglist]: A list of all static site generators can be found [here](http://staticsitegenerators.net/).
+
+## Getting updates
+
+Since the site's source code is hosted on GitHub, one can simply use GitHub's RSS for the master branch, available [here](https://github.com/riceissa/riceissa.com/commits/master.atom).
+I tend to prefer incremental updates instead of massive updates, so most of the changes in there will be very insignificant (and probably not worth your time).
+When I feel a page is "good enough", I will probably place a link to it on the front page, along with a possible status update on Facebook.
