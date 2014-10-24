@@ -35,9 +35,11 @@ Also [References \& Resources for LessWrong](http://lesswrong.com/lw/2un/referen
 
 ### gwern
 
-- [gwern's site](http://www.gwern.net/) has numerous essays on eveything from nootropics to Wikipedia editing.
+[gwern](http://lesswrong.com/user/gwern/) is probably one of the most well-known users on Less Wrong.
+He also has a [website](http://www.gwern.net/) that has numerous essays on eveything from nootropics to Wikipedia editing.
 His notion of [Long Content](http://www.gwern.net/About) is also especially inspiring: "if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself".
 For high school students especially, the essays [On Stress](http://www.gwern.net/On%20Stress) and [On Disrespect](http://www.gwern.net/On%20Disrespect) may be of interest.
+His [stories](http://www.gwern.net/Notes#stories) also tend to have "lessons" (like Kafka's parables) and are entertaining to read.
 
 
 ### Slate Star Codex
@@ -75,7 +77,8 @@ See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-Univer
 
 - Everyone should read Paul Graham's [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html), especially those who are frustrated by school.
 
-- Paul Graham's essay [Why Nerd are Unpopular](http://www.paulgraham.com/nerds.html) may be of interest.
+- Paul Graham's essay [Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html) may be of interest.
+Below are the parts the most resonated with me.
 
     > At the time I never tried to separate my wants and weigh them against one another. If I had, I would have seen that being smart was more important. If someone had offered me the chance to be the most popular kid in school, but only at the price of being of average intelligence (humor me here), I wouldn't have taken it.
     > 
@@ -94,6 +97,7 @@ See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-Univer
     > A lot of people seem to think it's good for smart kids to be thrown together with "normal" kids at this stage of their lives. Perhaps. But in at least some cases the reason the nerds don't fit in really is that everyone else is crazy. I remember sitting in the audience at a "pep rally" at my high school, watching as the cheerleaders threw an effigy of an opposing player into the audience to be torn to pieces. I felt like an explorer witnessing some bizarre tribal ritual. 
     > 
     > \[...\]
+    > 
     > Nerds still in school should not hold their breath. Maybe one day a heavily armed force of adults will show up in helicopters to rescue you, but they probably won't be coming this month. Any immediate improvement in nerds' lives is probably going to have to come from the nerds themselves.
     > 
     > Merely understanding the situation they're in should make it less painful. Nerds aren't losers. They're just playing a different game, and a game much closer to the one played in the real world. Adults know this. It's hard to find successful adults now who don't claim to have been nerds in high school.
