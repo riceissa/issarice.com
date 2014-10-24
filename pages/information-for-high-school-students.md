@@ -7,11 +7,18 @@ The idea here is to produce a list of resources for high school students who are
 It may be better thought of as "what I wish I had (known) when I was in high school".
 Therefore this page is unlikely to suit most people (since my target audience is my past self, and I tend to be at odds with the mainstream).
 
+Feel free to [connect with me](/about-me#contact) if you have questions or just want to talk to me (if you're in the Seattle area I can even meet up with you).
+
 
 ## Rationality resources
 
+
+### Less Wrong
+
 Depending on your personality fit with the community, [Less Wrong](http://lesswrong.com/) may be a very good place to check out.
 Some posts to check out (FIXME: make this part more fluid later):
+
+Less Wrong is also a good place to find other resources.
 
 - Some of the best content on Less Wrong might just be pointers to other high quality resources.
 “[The Best Textbooks on Every Subject](http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/)” was the post that first got me excited about Less Wrong.
@@ -23,17 +30,27 @@ Also [References \& Resources for LessWrong](http://lesswrong.com/lw/2un/referen
 
 - find more high school-related posts.
 
+- books are declining in importance compared to material one can find on the internet; see “[Yes, a blog.](http://lesswrong.com/lw/33j/yes_a_blog/)”
+
 [maybe insert a guide in here of how to effectively use LW]
+
+### gwern
 
 - [gwern's site](http://www.gwern.net/) has numerous essays on eveything from nootropics to Wikipedia editing.
 His notion of [Long Content](http://www.gwern.net/About) is also especially inspiring: "if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself".
 For high school students especially, the essays [On Stress](http://www.gwern.net/On%20Stress) and [On Disrespect](http://www.gwern.net/On%20Disrespect) may be of interest.
 
 
-- [Slate Star Codex](http://slatestarcodex.com/) is an excellent blog ranging in topics from romance to social justice to reactionary politics.
+### Slate Star Codex
+
+[Slate Star Codex](http://slatestarcodex.com/) is an excellent blog ranging in topics from romance to social justice to reactionary politics.
 See the [top posts](http://slatestarcodex.com/top-posts/) for more.
 He is particularly good at [steelmanning](http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/) opponents' arguments.
 He is also good at picking out useful content on Reddit.
+
+He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
+
+## Other
 
 - [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
 
@@ -43,7 +60,16 @@ He is also good at picking out useful content on Reddit.
 
 ## Dealing with loneliness
 
-See [here](./dealing-with-loneliness)
+See [here](/dealing-with-loneliness)
+
+## Dealing with school
+
+- [Drawbacks to Formal Education](http://briantomasik.com/drawbacks-formal-education/) by Brian Tomasik.
+
+- If you are in Washington state, seriously consider early entrance to the University of Washington.
+See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars) on Quora.
+
+- Looking at the resource on Cognito Mentoring is a good idea.
 
 ## Effective altruism
 
@@ -61,6 +87,7 @@ See also [Maintaining your online presence](http://info.cognitomentoring.org/wik
 - [80,000 Hours](https://80000hours.org/)
 - [Cognito Mentoring](http://cognitomentoring.org/)
 - [Advice for Students on Earning to Give](http://reducing-suffering.org/advice-students-earning-give/) gives a good overview of concrete steps to take in high school and college, with an EA-bent (specifically from the view that earning to give is advisable).
+- See also [Conference Call on Altruistic Career Choice](http://www.givewell.org/altruistic-career-choice) with Holden Karnofsky of GiveWell.
 
 ## Books
 
