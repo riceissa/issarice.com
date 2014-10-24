@@ -271,6 +271,7 @@ The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
 - [What is it like to study Physics at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Physics-at-the-University-of-Washington)
 
 - [What is it like to study Astronomy at the University of Washington?](https://www.quora.com/What-is-it-like-to-study-Astronomy-at-the-University-of-Washington)
+See also Denise Schmitz's answer [here](https://www.quora.com/What-is-it-like-to-major-in-astronomy/answer/Denise-Schmitz) (she was an undergraduate at UW).
 
 - [Alex K. Chen’s answer to What are some good websites and resources to learn about astronomy/astrophysics?](https://www.quora.com/What-are-some-good-websites-and-resources-to-learn-about-astronomy-astrophysics/answers/604575)
 
