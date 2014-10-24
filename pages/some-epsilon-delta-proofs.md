@@ -2,6 +2,7 @@
 title: Some epsilon-delta proofs
 license: CC0
 math: yes
+tags: math
 ...
 
 From Salas's *Calculus*, 10th edition, page 104: Chapter 2 review exercise 45.
