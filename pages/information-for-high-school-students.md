@@ -12,7 +12,6 @@ Feel free to [connect with me](/about-me#contact) if you have questions or just 
 
 ## Rationality resources
 
-
 ### Less Wrong
 
 Depending on your personality fit with the community, [Less Wrong](http://lesswrong.com/) may be a very good place to check out.
@@ -57,12 +56,13 @@ He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which
 - Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
 (Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
 
+## Frustrations
 
-## Dealing with loneliness
+### Dealing with loneliness
 
-See [here](/dealing-with-loneliness)
+Please see [here](/dealing-with-loneliness).
 
-## Dealing with school
+### Dealing with school
 
 - [Drawbacks to Formal Education](http://briantomasik.com/drawbacks-formal-education/) by Brian Tomasik.
 
@@ -70,6 +70,35 @@ See [here](/dealing-with-loneliness)
 See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars) on Quora.
 
 - Looking at the resource on Cognito Mentoring is a good idea.
+
+- In general, it's probably best to [stay mainstream until you have demonstrated success doing unusual stuff](http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff).
+
+- Everyone should read Paul Graham's [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html), especially those who are frustrated by school.
+
+- Paul Graham's essay [Why Nerd are Unpopular](http://www.paulgraham.com/nerds.html) may be of interest.
+
+    > At the time I never tried to separate my wants and weigh them against one another. If I had, I would have seen that being smart was more important. If someone had offered me the chance to be the most popular kid in school, but only at the price of being of average intelligence (humor me here), I wouldn't have taken it.
+    > 
+    > \[...\]
+    > 
+    >I think the important thing about the real world is not that it's populated by adults, but that it's very large, and the things you do have real effects. That's what school, prison, and ladies-who-lunch all lack. The inhabitants of all those worlds are trapped in little bubbles where nothing they do can have more than a local effect. Naturally these societies degenerate into savagery. They have no function for their form to follow.
+    >
+    > \[...\]
+    >
+    >As a thirteen-year-old kid, I didn't have much more experience of the world than what I saw immediately around me. The warped little world we lived in was, I thought, *the world*. The world seemed cruel and boring, and I'm not sure which was worse.
+    > 
+    > Because I didn't fit into this world, I thought that something must be wrong with me. I didn't realize that the reason we nerds didn't fit in was that in some ways we were a step ahead. We were already thinking about the kind of things that matter in the real world, instead of spending all our time playing an exacting but mostly pointless game like the others.
+    > 
+    > We were a bit like an adult would be if he were thrust back into middle school. He wouldn't know the right clothes to wear, the right music to like, the right slang to use. He'd seem to the kids a complete alien. The thing is, he'd know enough not to care what they thought. We had no such confidence.
+    > 
+    > A lot of people seem to think it's good for smart kids to be thrown together with "normal" kids at this stage of their lives. Perhaps. But in at least some cases the reason the nerds don't fit in really is that everyone else is crazy. I remember sitting in the audience at a "pep rally" at my high school, watching as the cheerleaders threw an effigy of an opposing player into the audience to be torn to pieces. I felt like an explorer witnessing some bizarre tribal ritual. 
+    > 
+    > \[...\]
+    > Nerds still in school should not hold their breath. Maybe one day a heavily armed force of adults will show up in helicopters to rescue you, but they probably won't be coming this month. Any immediate improvement in nerds' lives is probably going to have to come from the nerds themselves.
+    > 
+    > Merely understanding the situation they're in should make it less painful. Nerds aren't losers. They're just playing a different game, and a game much closer to the one played in the real world. Adults know this. It's hard to find successful adults now who don't claim to have been nerds in high school.
+    > 
+    > It's important for nerds to realize, too, that school is not life. School is a strange, artificial thing, half sterile and half feral. It's all-encompassing, like life, but it isn't the real thing. It's only temporary, and if you look, you can see beyond it even while you're still in it.
 
 ## Effective altruism
 
