@@ -52,3 +52,4 @@ I'm not really an EOTS, but some starting points:
 >         you?"](https://www.quora.com/For-high-school-and-early-college-or-equivalent-students-how-has-regular-casual-interaction-with-people-in-their-mid-to-late-20s-influenced-you)
 >         (Quora).
 
+- [Good Mood: The New Psychology of Overcoming Depression](http://www.juliansimon.com/writings/Good_Mood/) might be good, but I haven't take a look at it yet.
