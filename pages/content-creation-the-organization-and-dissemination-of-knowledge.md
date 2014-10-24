@@ -289,6 +289,8 @@ Citing sources is also important.
 The epitomical example of this style is [Slate Star Codex](http://slatestarcodex.com/).
 If executed well, this style has the potential to "hook" the readers into reading more of what you write.
 
+Paul Graham's [essays](http://paulgraham.com/essay.html) would probably fit under here as well.
+
 
 ## The tree structure of a website
 
