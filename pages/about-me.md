@@ -15,7 +15,12 @@ My interests include effective altruism, rationality ([Less Wrong](http://lesswr
 ## Contact
 
 Below are some ways to contact me, as well as the account names I use on various websites.
-Feel free to contact me by emailing or messaging me (on Facebook and Quora—I may not check other sites very often), stalk me online (e.g. by following me on Quora or friending me on Facebook), and ask questions about me on Quora.
+Feel free to connect with me through any of the means below.
+I am most responsive via email, Facebook, and Quora though (I may not check other sites very often).
+You can also stalk me online (e.g. by following me on Quora or Facebook, or by reading what I have on this website).
+I also don't mind if you ask questions about me on Quora, though recently Quora has gotten stricter about what sorts of personal questions are allowed[^bnbr].
+
+[^bnbr]: In general, you should be fine as long as you follow Quora's “[Be Nice, Be Respectful](https://www.quora.com/What-is-Quoras-Be-Nice-Be-Respectful-policy)” policy; it matters less whether the person about whom the question is asked is fine with it.
 
 - My email address is [riceissa@gmail.com](mailto:riceissa@gmail.com).
 You can also send me anonymous feedback using [this form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (idea from [lukeprog](http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/) and [Gwern](http://www.gwern.net/About#anonymous-feedback)).
