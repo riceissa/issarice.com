@@ -5,6 +5,8 @@ tags: literary
 
 Here are all the essays I wrote for admission to the University of
 Washington.
+The UW application actually did not allow unicode characters like smart quotes and em-dashes, nor did it accept italics, so the essays as displayed here are in their intended form, not as they were submitted.
+Note that I don't necessarily agree with all of what's said below anymore.
 
 ## General admission essays
 
