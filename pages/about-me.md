@@ -10,7 +10,7 @@ tags: general
 I'm currently a freshman at the University of Washington in Seattle, WA, USA.
 My intended major is computer science.
 
-My interests include [effective altruism](/effective-altruism-links), rationality ([Less Wrong](http://lesswrong.com), [Slate Star Codex](http://slatestarcodex.com/)), Quora (and trying to ask good questions), the unschooling movement, vegetarianism/veganism, pure math (formal logic and set theory, though my knowledge here is not very advanced at this point), the copyleft/creative commons movement, the free software movement, typography (though mostly just with LaTeX), some aspects of Japanese culture[^japan] (hikikomori, for instance, or Ōe in literature), and the [organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge).
+My interests include [effective altruism](/effective-altruism-links), rationality ([Less Wrong](http://lesswrong.com), [Slate Star Codex](http://slatestarcodex.com/)), Quora (and trying to ask good questions), the quantified self movement, the unschooling movement, vegetarianism/veganism, pure math (formal logic and set theory, though my knowledge here is not very advanced at this point), the copyleft/creative commons movement, the free software movement, typography (though mostly just with LaTeX), some aspects of Japanese culture[^japan] (hikikomori, for instance, or Ōe in literature), and the [organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge).
 
 [^japan]: I lived in Japan for six years.
 You can find some locations [here](https://www.quora.com/Issa-Rice/about).
