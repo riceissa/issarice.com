@@ -47,3 +47,29 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 ## EA and animal suffering
 
 \[to be added\]
+
+## EA and anti-aging
+
+\[to be added\]
+
+## Cause prioritization
+
+\[to be added\]
+
+## EA and influencing rich people
+
+\[to be added\]
+
+## EA and depression
+
+\[to be added\]
+
+## EA and social movements
+
+\[to be added\]
+
+## EA and environmental change
+
+\[to be added\]
+
+
