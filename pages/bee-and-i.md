@@ -74,8 +74,6 @@ is constant. “We are almost to the ivy tower.” With this, all the bees
 return to work.
 
 \
-\
-\
 
 I begin to tire of relating this. I could, of course, detail each loop
 through which the bees pass, or all the stripes the good ones rightly
