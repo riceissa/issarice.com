@@ -7,6 +7,25 @@ My main contributions to Quora are through my questions, but I don't think my an
 
 Reverse chronological order
 
+## What was it like to attend the Seattle Quora meetup on October 24, 2014?
+
+[Mirror](https://www.quora.com/What-was-it-like-to-attend-the-Seattle-Quora-meetup-on-October-24-2014)
+
+I think the conversations that happened at
+the meetup this time were a lot like those of past meetups. What made
+this meetup unique was that we couldn't agree on a good place to meet,
+so ended up talking outside of the RAM from 6:00pm to around 7:30(?)pm.
+We ended up waiting in line for the RAM but there was difficulty
+acquiring a table (the restaurant wanted to split the group into two
+tables). I eventually had to leave before the group even got a table.
+
+Some other notable points:
+
+-   Everyone did manage to get the new Quora shirt.
+-   There were several new people attending the meetup.
+-   The group again did seem to mostly be people associated with UW.
+
+
 ## Is anyone interested in a study partner system at the University of Washington?
 
 [Mirror](https://www.quora.com/Is-anyone-interested-in-a-study-partner-system-at-the-University-of-Washington/answer/Issa-Rice)
