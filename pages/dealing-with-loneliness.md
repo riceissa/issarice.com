@@ -3,8 +3,6 @@ title: Dealing with loneliness
 tags: stress, loneliness, isolation
 ...
 
-
-
 I'm not really an EOTS, but some starting points:
 
 - [Dealing with intellectual isolation](http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation)
@@ -52,3 +50,5 @@ I'm not really an EOTS, but some starting points:
     >         (Quora).
 
 - [Good Mood: The New Psychology of Overcoming Depression](http://www.juliansimon.com/writings/Good_Mood/) might be good, but I haven't taken a look at it yet.
+
+- [Evolutionary approaches to depression](https://en.wikipedia.org/wiki/Evolutionary_approaches_to_depression) on Wikipedia
