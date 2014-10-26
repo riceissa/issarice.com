@@ -43,3 +43,7 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 - [Views on supererogatory acts](https://en.wikipedia.org/wiki/Effective_altruism#Views_on_supererogatory_acts) seems to indicate that people like Peter Singer don't view EA as supererogatory.
 
 - From experience though, at least some EAs take the view that "yes, we recognize that we're not perfect people, but at least in the possibly small ways that we want to do good in the world, we're willing to do the things that make the most difference".
+
+## EA and animal suffering
+
+\[to be added\]
