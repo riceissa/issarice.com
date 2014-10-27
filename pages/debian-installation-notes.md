@@ -1,6 +1,6 @@
 ---
 title: Debian installation notes
-title: Installation notes for Debian
+tags: linux, debian, computer science
 ...
 
 We start from a base system.

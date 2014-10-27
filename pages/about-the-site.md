@@ -10,6 +10,7 @@ license: CC0
 ## Philosophy
 
 This site is my attempt to execute gwern's idea of [Long Content](http://www.gwern.net/About#long-content).
+Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](http://riceissa.com/content-creation-the-organization-and-dissemination-of-knowledge#the-tree-structure-of-a-website) of this site.
 
 
 ## Colophon
