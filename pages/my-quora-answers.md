@@ -660,22 +660,18 @@ From 2014:
 [Mirror](https://www.quora.com/What-is-it-like-to-have-Vipul-Naik-as-a-teacher/answer/Issa-Rice)
 
 
-I'm answering because Vipul asked me to, but I don't really consider him
-a teacher. I first contacted him when he began Cognito Mentoring with
+I'm answering because Vipul asked me to, but I don't primarily consider him a teacher.
+I first contacted him when he began Cognito Mentoring with
 Jonah Sinick, so I still think of our relation as being one of
 mentor–mentee.
 
-On Quora, he helpfully answers some of my questions like [What are the common frustrations of Vipul
-Naik?](https://www.quora.com/What-are-the-common-frustrations-of-Vipul-Naik)
+On Quora, he helpfully answers some of my questions like [What are the common frustrations of Vipul Naik?](https://www.quora.com/What-are-the-common-frustrations-of-Vipul-Naik)
 (which I asked because I was feeling curious after I saw one that was
-asked of Alex K. Chen) and [Does Vipul
-Naik cook?](https://www.quora.com/Does-Vipul-Naik-cook) (which I
-asked because I became curious about vegetarianism/veganism). However
-this is rather typical of Quora in general (e.g. I ask more questions
-about Alex K. Chen than about Vipul).
+asked of Alex K. Chen) and [Does Vipul Naik cook?](https://www.quora.com/Does-Vipul-Naik-cook) (which I asked because I became curious about vegetarianism/veganism).
+However this is rather typical of Quora in general (e.g. I ask more questions about Alex K. Chen than about Vipul).
 
 On Facebook, I know him as the most sedulous article collector and
-discussion initiator/manager. I suppose this is somewhat the role
+discussion initiator/moderator. I suppose this is somewhat the role
 teachers usually fill, by introducing material to the class. He seems to
 do this better in some sense, then, by mostly bringing up discussion
 topics that are of interest to me, and also by not forcing people to
@@ -686,13 +682,17 @@ He also personally tells me things e.g. to join LinkedIn or to check out
 Power Smoothies, but again this applies to a greater class of people
 than that of just teachers.
 
----
+\
 
-I was reminded (by Vipul) that I also watched some of his math videos on
-YouTube. I thought these were high quality, and especially interesting
+I was reminded (by Vipul) that I have also watched some of his math videos on YouTube.
+I thought these were high quality, and especially interesting
 since they went into more abstract topics than the typical math videos
 one finds online (e.g. Khan academy).
-
+More recently, I watched his videos on proving limits using the epsilon–delta definition (available as a playlist [here](https://www.youtube.com/watch?v=smP5NIYsvPc&list=PLC0bHnWu122lmEcvTXAnTbb33-faiCY1E)).
+I thought the videos were good, and more detailed than what my math class did in college (at the same level).
+I didn't like that he already had the delta beforehand instead of using "scratch work" like many others do (although the algebraic computations do make it rather obvious what to choose for delta).
+When I asked about this, he was also willing to point out a few more things, like how the choice of delta was related to the derivative of the function.
+I wish he had another video explaining this, though it's understandable that at the introductory stage this sort of thing isn't discussed.
 
 
 ## University of Washington: Why do the computers in the undergrad astro lab only have Scientific Linux with Python 2.4?
