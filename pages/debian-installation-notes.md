@@ -1,6 +1,5 @@
 ---
 title: Debian installation notes
-title: Installation notes for Debian
 ...
 
 We start from a base system.
