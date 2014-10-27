@@ -48,7 +48,7 @@ Feel free to connect with me as friends or romantically (or both).
 - I am [riceissa](https://twitter.com/riceissa) on [Twitter](https://twitter.com/).
 I don’t use Twitter very often, and when I do it’s mostly to read what others have tweeted.
 
-### Rationality
+### Rationality community
 
 - I am [riceissa](http://lesswrong.com/user/riceissa/overview/) on [Less Wrong](http://lesswrong.com/) and [riceissa](http://effective-altruism.com/user/riceissa/) on the [Effective Altruism Forum](http://effective-altruism.com/).
 
