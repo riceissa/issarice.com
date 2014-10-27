@@ -42,7 +42,7 @@ I generally accept all friend requests that don’t appear to be spam; having a 
 - My [LinkedIn](https://www.linkedin.com/) profile is [here](https://www.linkedin.com/profile/view?id=352995114).
 I don’t use LinkedIn very much, but feel free to connect with me.
 
-- I have an OkCupid profile [here](http://www.okcupid.com/profile/riceissa) that has fairly extensive information about me.
+- I have an [OkCupid](http://www.okcupid.com/) profile [here](http://www.okcupid.com/profile/riceissa) that has fairly extensive information about me.
 Feel free to connect with me as friends or romantically (or both).
 
 - I am [riceissa](https://twitter.com/riceissa) on [Twitter](https://twitter.com/).
