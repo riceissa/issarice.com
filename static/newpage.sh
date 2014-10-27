@@ -8,27 +8,28 @@ echo -n "Title: "
 read title
 
 slug="$(echo -n "${title}" | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)"
+pagename="$slug.md"
+pagepath="${sitedir}pages/$slug.md"
 
-pagename="${sitedir}pages/$slug.md"
-
-if [ -f $pagename ];
+if [ -f $pagepath ];
 then
-    echo "File $slug.md exists"
+    echo "File $pagename exists.  Opening..."
+    vim $pagepath
 else
-    echo "Creating $pagename"
-    echo "---" >> $pagename
-    echo "title: $title" >> $pagename
-    echo "description: " >> $pagename
-    echo "author: Issa Rice" >> $pagename
-    echo "creation-date: `date +'%Y-%m-%d'`" >> $pagename
-    echo "last-major-revision-date: `date +'%Y-%m-%d'`" >> $pagename
-    echo "language: English" >> $pagename
+    echo "Creating $pagepath"
+    echo "---" >> $pagepath
+    echo "title: $title" >> $pagepath
+    echo "description: " >> $pagepath
+    echo "author: Issa Rice" >> $pagepath
+    echo "creation-date: `date +'%Y-%m-%d'`" >> $pagepath
+    echo "last-major-revision-date: `date +'%Y-%m-%d'`" >> $pagepath
+    echo "language: English" >> $pagepath
     # accepted: "draft", "public"
-    echo "status: draft" >> $pagename
+    echo "status: draft" >> $pagepath
     # accepted: "CC BY", "CC0"
-    echo "license: CC BY" >> $pagename
-    echo "tags: untagged" >> $pagename
-    echo -e "...\n\n" >> $pagename
+    echo "license: CC BY" >> $pagepath
+    echo "tags: untagged" >> $pagepath
+    echo -e "...\n\n" >> $pagepath
     # open with vim on the last line
-    vim + $pagename
+    vim + $pagepath
 fi
