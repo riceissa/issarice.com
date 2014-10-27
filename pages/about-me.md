@@ -45,6 +45,8 @@ You can find my public repositories [here](https://github.com/riceissa?tab=repos
 
 - I am [riceissa](https://bitbucket.org/riceissa) on [Bitbucket](https://bitbucket.org/); I don’t use it very often, preferring GitHub instead.
 
+- I have an OkCupid profile [here](http://www.okcupid.com/profile/riceissa) that has fairly extensive information about me.
+
 - I have a [WordPress.com](https://wordpress.com/) blog [here](https://riceissa.wordpress.com/).
 I might use it in the future for something more, but at the moment it is simply a scratch space for me to quickly post links and ideas.
 
