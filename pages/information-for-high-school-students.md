@@ -49,6 +49,14 @@ See the [top posts](http://slatestarcodex.com/top-posts/) for more.
 He is particularly good at [steelmanning](http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/) opponents' arguments.
 He is also good at picking out useful content on Reddit.
 
+The "[graduation speech](http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)" Scott gives may be of interest.
+I think it's entertaining to read, and makes some good points, but ultimately doesn't do anything new.
+(In other words, I think Paul Graham's essays already provide a lot of the heuristics of the argument; Scott does do a better job of linking to sources and using numbers though.)
+I get the feeling that my views didn't change after reading this, though perhaps for some, reading the article will give more coherence to your ideas.
+The conclusion is specifically disappointing, since it abruptly ends with "kindness is what's important".
+The essay also doesn't provide much that is actionable; we are left wondering "Okay, so what do *I* do?"
+(In this sense I think Cognito Mentoring does a much better job.)
+
 He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
 
 ## Other
