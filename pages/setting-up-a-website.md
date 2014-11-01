@@ -1,5 +1,5 @@
 ---
-title: Setting up a webserver
+title: Setting up a website
 tags: linux, site-info
 ...
 
