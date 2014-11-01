@@ -224,14 +224,7 @@ header](http://stackoverflow.com/questions/25559469/listing-tags-using-pandoc-an
 
 [Mirror](https://www.quora.com/Is-there-a-service-or-program-that-lets-you-copy-text-from-a-website-directly-into-Markdown-retaining-all-formatting/answer/Issa-Rice)
 
-
-This is possible using a combination of something like xclip and `pandoc`.
-After copying the HTML text from a website, one can do `xclip -t text/html -o | pandoc -f html -t markdown` (or turn on the `-selection clip` flag on `xclip` if that doesn't work).
-
-The other option, which is slighly more tedious, is to use something
-like the online editor on WordPress and to paste in the HTML on the
-"Visual" side and then go to the "Text" side to retrieve the converted
-source for the HTML; then, place the source into a local HTML file (e.g.  `temp.html`) and run `pandoc` on it using something like `pandoc -o temp.md temp.html`.
+See [here](/playing-with-pandoc).
 
 ## Are there translations websites of Quora content?
 
