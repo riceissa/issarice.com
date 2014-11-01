@@ -1,6 +1,6 @@
 ---
 title: Information for high school students
-tags: school, high school, less wrong
+tags: school, lesswrong, self-improvement
 ...
 
 The idea here is to produce a list of resources for high school students who are frustrated with school and want something better, but don't know where to begin to look.

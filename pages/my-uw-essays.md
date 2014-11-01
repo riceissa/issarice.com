@@ -1,6 +1,6 @@
 ---
 title: My UW essays
-tags: literary
+tags: literary, school, university-of-washington
 ...
 
 Here are all the essays I wrote for admission to the University of

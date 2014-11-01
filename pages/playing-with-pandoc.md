@@ -7,7 +7,7 @@ last-major-revision-date: 2014-10-31
 language: English
 status: draft
 license: CC BY
-tags: linux, pandoc, computer science
+tags: linux, pandoc
 ...
 
 ## Going from markdown to HTML

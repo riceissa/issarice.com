@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Other command-line notes
-tags: linux, cs, debian
+tags: linux, debian
 ---
 
 

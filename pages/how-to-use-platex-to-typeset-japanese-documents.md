@@ -6,7 +6,7 @@ disqus-id: 870d28e40a661cde90d2a1f30bb9d18cd987d023
 math: ""
 last-major-revision-date: 
 license: "CC-BY"
-tags: japan, debian, latex, linux, cs
+tags: japan, debian, latex, linux
 ---
 
 

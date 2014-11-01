@@ -1,7 +1,7 @@
 ---
 title: Effective altruism links
 license: CC0
-tags: links, effective altruism, ea
+tags: links, effective-altruism
 ...
 
 Although I haven't spent too much time investigating all resources on effective altruism, it seems that right now, discussions are occurring in disparate places, and that coordination between these places is lacking.

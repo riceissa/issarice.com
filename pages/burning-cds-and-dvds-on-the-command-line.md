@@ -6,7 +6,7 @@ disqus-id: 6d43002dc29d4a76d90a62c843049fac6f85085b
 math: ""
 last-major-revision-date: 
 license: CC0
-tags: cs, linux, debian, wodim
+tags: linux, debian
 ---
  (Debian Wheezy)
 

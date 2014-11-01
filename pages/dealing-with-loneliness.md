@@ -1,6 +1,6 @@
 ---
 title: Dealing with loneliness
-tags: stress, loneliness, isolation
+tags: self-improvement, psychology
 ...
 
 I'm not really an EOTS, but some starting points:

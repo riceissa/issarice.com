@@ -1,6 +1,6 @@
 ---
 title: Setting up a webserver
-tags: computing
+tags: linux, site-info
 ...
 
 More to come.

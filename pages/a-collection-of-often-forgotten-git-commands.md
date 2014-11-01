@@ -6,7 +6,7 @@ disqus-id: 9b9095c5f72440171ea4125a2f1bd22af5eab113
 math: ""
 last-major-revision-date: 
 license: "CC-BY"
-tags: cs, git
+tags: git, linux
 ---
 
 

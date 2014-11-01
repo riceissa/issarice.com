@@ -1,6 +1,6 @@
 ---
 title: Content creation: the organization and dissemination of knowledge
-tags: content creation, information
+tags: content-creation, information
 license: CC0
 ...
 

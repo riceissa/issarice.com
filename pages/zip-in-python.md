@@ -5,7 +5,7 @@ comments: "yes"
 disqus-id: b4fc08b425b94e5e8374199e8d4b6798c3a0a77c
 math: "yes"
 license: "CC-BY"
-tags: math, python, cs
+tags: math, python, computer-science
 ---
 
 In mathematics, one can have a function like $f: X \times Y\to Z$,
