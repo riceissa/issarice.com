@@ -202,27 +202,7 @@ enter a Markdown document and observe the differing HTML outputs.
 
 [Mirror](https://www.quora.com/How-can-I-write-messages-in-Gmail-using-Markdown/answer/Issa-Rice)
 
-
-If you are on Linux and use a combination of tools like Vim, `xclip` , and `pandoc` [1], then this can easily be achieved. After composing the email in Vim, simply write the buffer directly into `pandoc` , convert the Markdown to HTML, and send that into the clipboard with `xclip`:
-
-```bash
-:w !pandoc -f markdown -t html | xclip -sel clip
-```
-
-Then just paste the results into Gmail using Control-V (or similar).\
-
-This procedure can then be bound to a command or a keyboard shortcut for
-repeated use.
-
-If you in addition choose to write the Markdown buffer to a file, the
-message will be locally backed up, as well as being on the Gmail servers
-(which is good).
-
-=\=\=\=\=\
-[1]\: Of course, these can all be replaced in part or entirely with other
-tools, as long as they have the necessary features. The editor must
-either support Markdown–HTML conversion and be able to use the
-clipboard, or else be able to interact with the shell, for instance.
+See [here](/playing-with-pandoc).
 
 ## Why does only the first item of a list show up when using pandoc and YAML headers?
 
