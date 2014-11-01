@@ -76,6 +76,9 @@ Please see [here](/dealing-with-loneliness).
 
 ### Dealing with school
 
+- Sometimes it's good just to know that you are not the only one who is extremely frustrated with high school.
+Even conventionally successful intellectuals like Noam Chomsky hated high school; see [my answer here on Quora](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice), for instance.
+
 - [Drawbacks to Formal Education](http://briantomasik.com/drawbacks-formal-education/) by Brian Tomasik.
 
 - If you are in Washington state, seriously consider early entrance to the University of Washington.
