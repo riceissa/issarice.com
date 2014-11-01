@@ -5,6 +5,13 @@ tags: linux, site-info
 
 More to come.
 
+some things I need to talk about:
+
+- how to set up domains with linode and hover.
+- how to set up hakyll to work.
+- how to set up the apache server on linode.
+- decent workflow for how to go about editing a page, pushing changes, and then deploying. show all automation.
+
 
 ## Setting up a subdomain
 
