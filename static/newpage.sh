@@ -1,7 +1,8 @@
 #!/bin/bash
 
-# this dir must have a slash at the end
-sitedir="/home/issa/projects/riceissa.com/"
+# See http://stackoverflow.com/a/246128/3422337
+scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+sitedir="${scriptdir}/.."
 
 echo -n "Title: "
 
@@ -9,7 +10,7 @@ read title
 
 slug="$(echo -n "${title}" | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)"
 pagename="$slug.md"
-pagepath="${sitedir}pages/$slug.md"
+pagepath="${sitedir}/pages/$slug.md"
 
 if [ -f $pagepath ];
 then
