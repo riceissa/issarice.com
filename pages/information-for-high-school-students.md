@@ -41,6 +41,8 @@ His notion of [Long Content](http://www.gwern.net/About) is also especially insp
 For high school students especially, the essays [On Stress](http://www.gwern.net/On%20Stress) and [On Disrespect](http://www.gwern.net/On%20Disrespect) may be of interest.
 His [stories](http://www.gwern.net/Notes#stories) also tend to have "lessons" (like Kafka's parables) and are entertaining to read.
 
+I think part of the appeal of gwern is that he inspires many people because his website doesn't look like "magic"; one can agree that, given enough time, anyone can attempt what he did.
+
 
 ### Slate Star Codex
 
@@ -123,6 +125,12 @@ My main page on this is [Content creation: the organization and dissemination of
 
 See also [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence) on the Cognito Mentoring wiki.
 
+I think now that content creation may be one of the best ways to produce lasting value.
+It's always best to think in the long term; practicing a sport, for instance, may provide short-term satisfaction, but in the long term (say, after ten years) it is difficult to say what overall effect the sport had.
+(There are obviously creative ways to provide value even with a sport, e.g. by recording it and therefore providing entertainment even after one has stopped playing, or by having instilled in one a sense of discipline in maintaining one's health[^otherways].)
+
+[^otherways]: Though with this, it's always possible *without* spending all the time on a sport.
+
 ## Thinking about careers
 
 - [80,000 Hours](https://80000hours.org/)
@@ -134,3 +142,13 @@ See also [Maintaining your online presence](http://info.cognitomentoring.org/wik
 
 - Selfish Gene
 - GEB (though I personally don't like it much); Eliezer Yudkowsky, for one, seems to [like the book a lot](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/).
+
+
+## Extracurriculars
+
+- It's very difficult to completely ignore the mainstream approach, especially if one lacks imaginative/creative approaches (I think this leads many people to think that doing sports, practicing an instrument, becoming a club leader, etc., are the best use of one's extracurricular time, or even *necessary* to enusre success in college applications, etc.)
+
+- If one wants to attend an elite college (and there are quite a few good reasons for doing so), then following this path may be a good idea (though still, it's always importatn to distinguish oneself)
+
+- If one lives in Washington state, then the early entrace program at UW can be a very good option.
+Even if one does not enroll in this program, UW is generally accepted to be a decent school (though what you do there is most important)
