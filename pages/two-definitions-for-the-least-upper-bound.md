@@ -21,8 +21,8 @@ However, some books e.g. Ross in *Elementary Analysis* (p 21; it’s actually no
 
 Our task, then, is to show that
 
-- (1) and (2) together imply (3), and that
-- (1) and (3) together imply (2).
+- \(1\) and (2) together imply (3), and that
+- \(1\) and (3) together imply (2).
 
 *Proof*.
 To show the first implication, suppose (1) and (2) are true.
