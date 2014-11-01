@@ -12,6 +12,8 @@ tags: linux, pandoc, computer science
 
 ## Going from markdown to HTML
 
+Answering "How can I write messages in Gmail using Markdown?" on Quora.
+
 If you are on Linux and use a combination of tools like Vim, `xclip` , and `pandoc` [1], then this can easily be achieved. After composing the email in Vim, simply write the buffer directly into `pandoc` , convert the Markdown to HTML, and send that into the clipboard with `xclip`:
 
 ```bash
@@ -34,6 +36,8 @@ either support Markdown–HTML conversion and be able to use the
 clipboard, or else be able to interact with the shell, for instance.
 
 ## Going from HTML to markdown
+
+Answering "Is there a service or program that lets you copy text from a website directly into Markdown, retaining all formatting?" on Quora.
 
 This is possible using a combination of something like xclip and `pandoc`.
 After copying the HTML text from a website, one can do `xclip -t text/html -o | pandoc -f html -t markdown` (or turn on the `-selection clip` flag on `xclip` if that doesn't work).
