@@ -1,23 +1,20 @@
 <div id="navigation">
-<!-- See http://stackoverflow.com/questions/37103/css-make-divs-align-horizontally for how the div elements are managed. -->
-  <div style="float:left;width:70%">
+  <!-- See
+       http://stackoverflow.com/questions/37103/css-make-divs-align-horizontally
+       for how the div elements are managed. -->
+  <div style="float:left;">
     <a href="/index">Home</a>
     | <a href="/about-me#contact">Contact</a>
     | View <a href="https://github.com/riceissa/riceissa.com">website source</a> or <a href="https://raw.githubusercontent.com/riceissa/riceissa.com/master/$path$">page source</a> (<a href="/information-regarding-website-source-and-page-source">note</a>)
   </div>
-  <div style="float:left;width:30%">
-    <script>
-      (function() {
-        var cx = '003462416774124900295:n1z--2jnqbo';
-        var gcse = document.createElement('script');
-        gcse.type = 'text/javascript';
-        gcse.async = true;
-        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-            '//www.google.com/cse/cse.js?cx=' + cx;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(gcse, s);
-      })();
-    </script>
-    <gcse:searchbox-only></gcse:searchbox-only>
+  <div style="float:right;">
+    <!-- See http://stackoverflow.com/a/13379065/3422337 and
+         http://kaspars.net/blog/wordpress/how-to-add-google-site-search
+         -->
+    <form name="google-search" action="http://google.com/search" method="get">
+      <input type="hidden" name="sitesearch" value="http://riceissa.com" />
+      <input name="q" type="text" />
+      <input type="submit" name="sa" value="Search site" />
+    </form>
   </div>
 </div>
