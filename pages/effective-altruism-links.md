@@ -4,7 +4,7 @@ license: CC0
 tags: links, effective-altruism
 ...
 
-Although I haven't spent too much time investigating all resources on effective altruism, it seems that right now, discussions are occurring in disparate places, and that coordination between these places is lacking.
+Although I haven't spent too much time investigating all resources on effective altruism (EA), it seems that right now, discussions are occurring in disparate places, and that coordination between these places is lacking.
 It is difficult, for instance, to find all EA discussions that have taken place on giving now or later, or to find all discussions on going into finance.
 The goal of this page is to *slowly* compile all discussions that have taken place about EA on particular topics.
 
@@ -16,7 +16,7 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 
 
 
-## EA and romance
+## Romance
 
 - Vipul Naik asks, ["What are some pros and cons, from the EA perspective, of an EA giving preference to EAs in the dating market?"](https://www.facebook.com/groups/effective.altruists/permalink/749858421737184/) on the EA Facebook group
 
@@ -28,7 +28,7 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 
 - I'm trying to see if one can be started at the University of Washington; see [this Quora question](https://www.quora.com/Who-is-interested-in-an-effective-altruism-group-club-at-the-University-of-Washington) and [this](https://www.facebook.com/john.salvatier/posts/10103444497526248) (private) Facebook post.
 
-## EA and existential risks
+## Existential risks
 
 - The Seattle group recently had a meetup discussion [here (event page)](https://www.facebook.com/events/258088281053725/?ref_newsfeed_story_type=regular) and [here (afterthoughts)](https://www.facebook.com/groups/221612131358071/permalink/279859415533342/)
 
@@ -44,11 +44,11 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 
 - From experience though, at least some EAs take the view that "yes, we recognize that we're not perfect people, but at least in the possibly small ways that we want to do good in the world, we're willing to do the things that make the most difference".
 
-## EA and animal suffering
+## Animal suffering
 
 \[to be added\]
 
-## EA and anti-aging
+## Anti-aging
 
 \[to be added\]
 
@@ -56,20 +56,24 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 
 \[to be added\]
 
-## EA and influencing rich people
+## Influencing rich people
 
 \[to be added\]
 
-## EA and depression
+## Depression
 
 \[to be added\]
 
-## EA and social movements
+## Social movements
 
 \[to be added\]
 
-## EA and environmental change
+## Environmental change
 
 \[to be added\]
 
+## Potentially risky acts
 
+- [How can effective altruists effectively use their own deaths if they are old and have little they can do in life?](https://www.quora.com/How-can-effective-altruists-effectively-use-their-own-deaths-if-they-are-old-and-have-little-they-can-do-in-life)
+
+- Lila Rieber on [paying people to participate in dangerous human trials](https://www.facebook.com/groups/effective.altruists/permalink/768177973238562/)
