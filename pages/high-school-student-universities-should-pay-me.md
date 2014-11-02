@@ -7,7 +7,7 @@ last-major-revision-date: 2014-11-02
 language: English
 status: draft
 license: CC BY
-tags: untagged
+tags: literary, fiction
 math: yes
 ...
 
