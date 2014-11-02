@@ -77,3 +77,12 @@ The goal of this page is to *slowly* compile all discussions that have taken pla
 - [How can effective altruists effectively use their own deaths if they are old and have little they can do in life?](https://www.quora.com/How-can-effective-altruists-effectively-use-their-own-deaths-if-they-are-old-and-have-little-they-can-do-in-life)
 
 - Lila Rieber on [paying people to participate in dangerous human trials](https://www.facebook.com/groups/effective.altruists/permalink/768177973238562/)
+
+
+## EA outreach
+
+- Potential [online course](https://www.facebook.com/groups/effective.altruists/permalink/768223419900684/)?
+
+- [Post](http://roxanneheston.com/2014/09/20/on-turning-down-requests-part-1-of-2/) by Roxanne Heston on turning down requests that are "not effective enough".
+This is related to the problem of trying to attract people who are interested in altruism to become effective altruists.
+[Related discussion](https://www.facebook.com/vipulnaik.r/posts/10204324324964174), though it's not public.
