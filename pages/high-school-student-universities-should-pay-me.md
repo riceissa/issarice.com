@@ -62,4 +62,4 @@ He is quick to point out that there is precedent for effecting social
 change. “I am at the very bottom of a long, long ladder. I am on the
 first rung, and above me are all those who engaged in peaceful protest,
 like Thoreau, Gandhi, King, and so on. We are all on our ascent to
-heaven.”\ $\Diamond$
+heaven.” $\Diamond$
