@@ -8,7 +8,7 @@ echo -n "Title: "
 
 read title
 
-slug="$(echo -n "${title}" | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)"
+slug="$(echo -n "${title}" | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/^\-//' | sed -e 's/\-$//')"
 pagename="$slug.md"
 pagepath="${sitedir}/pages/$slug.md"
 
