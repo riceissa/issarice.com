@@ -3,6 +3,11 @@ title: If
 tags: fiction, literary
 ...
 
+## Information
+
+I think this is poorly written, but interesting nonetheless.
+
+## Story
 
 If nothing else comes from writing this, then let it be known at least
 that I live today with complete fear of myself; it is not the fear like
