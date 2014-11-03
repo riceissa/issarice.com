@@ -107,7 +107,7 @@ This is related to the problem of trying to attract people who are interested in
 
 ## Social movements
 
-\[to be added\]
+- Discussion [here](https://www.facebook.com/groups/effective.altruists/permalink/762885347101158/) about historical social movement leaders like King, Gandhi, and Mandela.
 
 
 ## Supererogation
