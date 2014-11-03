@@ -66,6 +66,16 @@ The list is alphabetized except for the very first item.
 
 - I'm trying to see if one can be started at the University of Washington; see [this Quora question](https://www.quora.com/Who-is-interested-in-an-effective-altruism-group-club-at-the-University-of-Washington) and [this](https://www.facebook.com/john.salvatier/posts/10103444497526248) (private) Facebook post.
 
+## Organizations
+
+There are quite a few organizations that are at least peripherally associated with the effective altruism movement:
+
+- GiveWell
+- The Center for Effective Altruism
+    - Giving What We Can
+- THINK (The High Impact NetworK)
+- The life you can save
+- \[note: add more\]
 
 ## Outreach
 
