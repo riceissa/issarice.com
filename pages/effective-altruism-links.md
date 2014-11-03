@@ -27,7 +27,8 @@ The list is alphabetized except for the very first item.
 
 ## Cause prioritization
 
-\[to be added\]
+I'm currently trying to get into cause prioritization research.
+I'm still at a very early state, but you can find my public announcement ("cause prioritization prioritization") [here](https://www.facebook.com/riceissa/posts/1492279381051014).
 
 ## Depression
 
@@ -62,7 +63,11 @@ The list is alphabetized except for the very first item.
 
 ### EA in universities
 
-- I only know of [Harvard EA](http://harvardea.org/), started by [Ben Kuhn](http://www.benkuhn.net/studentgroup).
+- There is [Harvard EA](http://harvardea.org/), started by [Ben Kuhn](http://www.benkuhn.net/studentgroup).
+
+- Some other universities have a Giving What We Can chapter instead.
+
+- If you're interested in connecting with student EA leaders, see the Google group [here](https://groups.google.com/forum/#!forum/ea-student-leaders).
 
 - I'm trying to see if one can be started at the University of Washington; see [this Quora question](https://www.quora.com/Who-is-interested-in-an-effective-altruism-group-club-at-the-University-of-Washington) and [this](https://www.facebook.com/john.salvatier/posts/10103444497526248) (private) Facebook post.
 
