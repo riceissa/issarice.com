@@ -11,7 +11,7 @@ license: CC0
 This is a collection of resources for students at the University of Washington and those considering attending there.
 The page also includes some information on college in general.
 Most of the resources are answers posted to [Quora](https://www.quora.com/), so having an account on there will allow you to ask for clarification in the respective answers[^anec].
-The collection here may at the moment seem too “insular”, since a majority of the answers have been written by just a few people (e.g. Alex K. Chen and Jennifer Apacible).
+The collection here may at the moment seem too “insular”, since a majority of the answers have been written by just a few people (e.g. Alex K. Chen).
 This will hopefully change in the future as more people contribute their knowledge and experiences online (e.g. via Quora).
 
 [^anec]: I have often done this and have gotten a lot of useful information.
@@ -26,7 +26,6 @@ Note that even if you’re not logged in on Quora, adding `/?share=1` to the end
 
 - The [University of Washington topic on Quora](https://www.quora.com/University-of-Washington) has a lot of information; in fact, most of the content linked to on this page is from here.
 
-- Jennifer Apacible has a [collection of Quora questions about UW](https://www.quora.com/Jennifer-Apacible-1/Posts/University-of-Washington).
 
 - [Anonymous's Answer to University of Washington: What does your "Your Content" page for the University of Washington topic look like?](https://www.quora.com/University-of-Washington/What-does-your-Your-Content-page-for-the-University-of-Washington-topic-look-like/answers/5867915) has a lot of questions and answers.
 
@@ -226,7 +225,6 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 
 - [How hard is it to get into the CSE program at University of Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
 
-- [Jennifer Apacible's answer to University of Washington: What does it take to be a direct admit to the computer science program at the University of Washington?](https://www.quora.com/University-of-Washington/What-does-it-take-to-be-a-direct-admit-to-the-computer-science-program-at-the-University-of-Washington/answer/Jennifer-Apacible-1)
 
 - [What do UW CSE students wish they had known when they were new to the major?](https://www.quora.com/What-do-UW-CSE-students-wish-they-had-known-when-they-were-new-to-the-major)
 
