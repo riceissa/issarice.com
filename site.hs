@@ -25,6 +25,10 @@ main = hakyll $ do
         route idRoute
         compile compressCssCompiler
 
+    match "static/*" $ do
+        route idRoute
+        compile copyFileCompiler
+
     match "images/favicon.ico" $ do
         route $ customRoute $ dropOneParentDir
         compile copyFileCompiler
