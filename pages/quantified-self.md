@@ -1,6 +1,6 @@
 ---
 title: Quantified self
-tags: quantified self
+tags: quantified-self
 ...
 
 to be added later
