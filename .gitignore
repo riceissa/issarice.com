@@ -2,3 +2,4 @@ _site
 _cache
 site
 site.*
+*.swp
