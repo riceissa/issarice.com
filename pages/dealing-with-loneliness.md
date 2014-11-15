@@ -53,23 +53,23 @@ I'm not really an EOTS, but some starting points:
 
     Bryan Caplan [writes](http://econlog.econlib.org/archives/2010/04/the_inner_life.html):
 
-        > There's a lot in *Good Mood* that I'm tempted to criticize.
-        > He barely considers genetic theories of depression, and is
-        > quick to blame childhood experiences for adult unhappiness.
-        > Furthermore, Simon doesn't seem to realize that "sweeping away
-        > the unpleasant thoughts" can be a lot like "trying to not
-        > think about pink elephants." Sometimes the harder you try not
-        > to think about something, the more it keeps popping back into
-        > your head; that's one of the key insights behind [exposure
-        > therapy](http://econlog.econlib.org/archives/2009/11/exposure_therap.html).
+    > There's a lot in *Good Mood* that I'm tempted to criticize.
+    > He barely considers genetic theories of depression, and is
+    > quick to blame childhood experiences for adult unhappiness.
+    > Furthermore, Simon doesn't seem to realize that "sweeping away
+    > the unpleasant thoughts" can be a lot like "trying to not
+    > think about pink elephants." Sometimes the harder you try not
+    > to think about something, the more it keeps popping back into
+    > your head; that's one of the key insights behind [exposure
+    > therapy](http://econlog.econlib.org/archives/2009/11/exposure_therap.html).
 
     However despite this, Caplan seems to have a lot of respect for Simon.
     What Caplan says about Simon is inspiring:
 
-        > Overall, though, Simon's personal odyssey boosts my already
-        > vast admiration for him. Most depressives accomplish little
-        > other than spreading their misery to the people around them.
-        > Simon, in contrast, was an incredibly creative and productive
-        > scholar despite his inner sorrow.
+    > Overall, though, Simon's personal odyssey boosts my already
+    > vast admiration for him. Most depressives accomplish little
+    > other than spreading their misery to the people around them.
+    > Simon, in contrast, was an incredibly creative and productive
+    > scholar despite his inner sorrow.
 
 - [Evolutionary approaches to depression](https://en.wikipedia.org/wiki/Evolutionary_approaches_to_depression) on Wikipedia
