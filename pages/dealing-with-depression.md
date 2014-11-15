@@ -1,5 +1,5 @@
 ---
-title: Dealing with loneliness
+title: Dealing with depression
 tags: self-improvement, psychology
 ...
 
