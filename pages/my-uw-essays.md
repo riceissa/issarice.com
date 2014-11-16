@@ -215,6 +215,8 @@ Words: 290/300.
 
 ## Extracurriculars
 
+I believe these were limited to 100 words each.
+
 1. **Seattle Japanese School and Studying Japanese.**
 I have attended the Seattle Japanese School since fifth grade. I have
 consistently earned good grades, and have also participated in
