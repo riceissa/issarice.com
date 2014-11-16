@@ -6,6 +6,8 @@ tags: fiction, literary
 ## Information
 
 I think this is poorly written, but interesting nonetheless.
+To be more precise, I think the story does a good job of emulating some of the circular thoughts that occur in the minds of the depressed, but the exposition is too verbose (though perhaps rightfully so).
+I still sympathize greatly with the self that wrote this.
 
 ## Story
 
