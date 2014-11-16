@@ -13,7 +13,7 @@ tags: untagged
 It seems rather arbitrary that the people we interact with in school are all similarly-aged.
 What is it like to have more of a balance in the ages of your peers?
 What is it like to have more fundamentally asymmetric friendships (e.g. mentor–mentee, teacher–student) than symmetric ones (e.g. classmates, roommates)?
-In different-aged friendships, we can consider the benefits to (1) the younger person and (2) the older person.
+In differently-aged friendships, we can consider the benefits to (1) the younger person and (2) the older person.
 Usually (but not always), the older person will have more experience and knowledge, so the friendship will be asymmetric in that sense.
 
 ## Benefits for the younger person
