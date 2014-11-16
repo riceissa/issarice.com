@@ -8,6 +8,8 @@ Washington.
 The UW application actually did not allow unicode characters like smart quotes and em-dashes, nor did it accept italics, so the essays as displayed here are in their intended form, not as they were submitted.
 Note that I don't necessarily agree with all of what's said below anymore.
 
+Thanks to KL for the extensive feedback I received while writing these essays.
+
 ## General admission essays
 
 ### Personal Statement
