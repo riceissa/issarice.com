@@ -370,7 +370,7 @@ concisely:
 
 [Mirror](https://www.quora.com/For-high-school-and-early-college-or-equivalent-students-how-has-regular-casual-interaction-with-people-in-their-mid-to-late-20s-influenced-you/answer/Issa-Rice)
 
-My thoughts are [here](/the-importance-of-having-different-aged-peers).
+My thoughts are [here](/the-importance-of-having-differently-aged-peers).
 
 ## Who is interested in an October 2014 Quora meetup in Seattle?
 
