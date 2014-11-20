@@ -1,6 +1,6 @@
 ---
 title: Dealing with depression
-tags: self-improvement, psychology
+tags: self-improvement, psychology, depression
 ...
 
 I'm not really an EOTS, but some starting points:
