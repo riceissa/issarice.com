@@ -10,7 +10,7 @@ license: unlicensed for now
 tags: university-of-washington
 ...
 
-This is my UW honors portfolio index.
+This is my (Issa Rice's) UW honors portfolio index.
 
 ## Portfolio statement
 
