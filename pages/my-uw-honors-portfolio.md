@@ -60,4 +60,18 @@ I am somewhat hopeful that once I begin major-specific coursework, my classes wi
 
 # Honors 100 assignments
 
-- Assignment 1: Who are you? Available [here](http://exp.riceissa.com/pdf/actual.pdf).
+- Assignment 1: Who are you?
+Available [here](http://exp.riceissa.com/pdf/actual.pdf).
+
+- Assignment 2: Curriculum planning.
+Available [here](http://exp.riceissa.com/pdf/riceissa-myplan.pdf).
+
+- Assignment 3: Experiential Learning Interview.
+Available [here](http://exp.riceissa.com/pdf/experiential_learning_interview.pdf).
+
+- Assignment 4: Building your UW Experience.
+Available [here](http://exp.riceissa.com/pdf/building_your_uw_experience.pdf) as a PDF.
+I have however found that the PDF does not render correctly in the built-in PDF viewer for Firefox; since this may be the case for other PDF viewers as well, [here](http://exp.riceissa.com/pdf/building_your_uw_experience.png) is a PNG of the document.
+
+- Assignment 5: Portfolio \& Portfolio Statement---Autumn Quarter reflection.
+This is available as a PDF [here](http://exp.riceissa.com/pdf/portfolio_statement_honors100.pdf); however, the HTML equivalent is available in the previous section.
