@@ -38,7 +38,7 @@ The role of luck was emphasized as well, especially by the professor who taught 
 
 I'm not sure that I learned about too many resources in Honors 100.
 I thought that the scavenger hunt was surprisingly good at helping me discover "hidden" places on campus like the Parnassus café and the math tutoring rooms, for instance.
-However, I thought that I had already gotten extensive information from spending time on Quora, which has a dedicated group of UW students and lots of UW-specific information.
+However, I thought that I had already gotten extensive information from spending time on Quora, which has a [dedicated group of UW students and lots of UW-specific information](/resources-for-the-university-of-washington).
 
 My goals for this year and for my time at the University of Washington have several dimensions.
 
