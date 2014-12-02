@@ -49,7 +49,7 @@ In the long run, I would like to become fairly competent in mathematics and comp
 However I also want to keep in mind that I shouldn't eschew my individual learning projects just to conform to degree requirements.
 
 - In terms of effective altruism, this year I want to focus on building a core group of interested people in order to form a community for effective altruism on campus.
-I would also like to start on my medium-term cause prioritization project (possibly about anti-aging).
+I would also like to start on my medium-term [cause prioritization project](http://causeprioritization.org) (possibly about anti-aging).
 In the long run, I should be able to leave UW with a self-sustaining effective altruism movement (i.e. one that doesn't crumble as soon as I leave).
 I also want to be set on a high-impact or high-earning career so as to finally contribute to the effective altruism movement with my career.
 In terms of personal effective altruism projects, I want my cause prioritization project to have a fairly active community surrounding it.
