@@ -28,8 +28,8 @@ The list is alphabetized except for the very first item.
 
 ## Cause prioritization
 
-I'm currently trying to get into cause prioritization research.
-I'm still at a very early stage, but you can find my public announcement ("cause prioritization prioritization") [here](https://www.facebook.com/riceissa/posts/1492279381051014).
+I'm currently working on cause prioritization research through the [cause prioritization wiki](http://causeprioritization.org), though the project is still at a very early stage.
+You can find my original public announcement about doing cause prioritization research ("cause prioritization prioritization") [here](https://www.facebook.com/riceissa/posts/1492279381051014).
 
 ## Depression
 
