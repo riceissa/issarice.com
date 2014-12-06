@@ -73,3 +73,7 @@ I'm not really an EOTS, but some starting points:
     > scholar despite his inner sorrow.
 
 - [Evolutionary approaches to depression](https://en.wikipedia.org/wiki/Evolutionary_approaches_to_depression) on Wikipedia
+
+- [How to Be Happy](http://lesswrong.com/lw/4su/how_to_be_happy/)
+
+- [Be Happier](http://lesswrong.com/lw/bq0/be_happier/)
