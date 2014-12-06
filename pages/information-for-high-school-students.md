@@ -6,6 +6,7 @@ tags: school, lesswrong, self-improvement
 The idea here is to produce a list of resources for high school students who are frustrated with school and want something better, but don't know where to begin to look.
 It may be better thought of as "what I wish I had (known) when I was in high school".
 Therefore this page is unlikely to suit most people (since my target audience is my past self, and I tend to be at odds with the mainstream).
+Another way to state the purpose of this page is: it's a list of all the things that have influenced and inspired me up to this point (this point = end of high school).
 
 Feel free to [connect with me](/about-me#contact) if you have questions or just want to talk to me (if you're in the Seattle area I can even meet up with you).
 
@@ -181,3 +182,10 @@ And:
 - Cognito Mentoring in general
 
 - Reading what Peter Thiel/Paul Graham/Michael O. Church/Alex K. Chen/Vipul Naik/Brian Farley/Inna Vishik say.
+
+- Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
+How to ignore for example pressure to complete homework assignments?
+
+- Experimenting with homelessness; see gwern
+
+- activism ends after graduation -- sam alexander
