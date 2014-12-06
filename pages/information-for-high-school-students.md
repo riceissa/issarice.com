@@ -161,7 +161,7 @@ Even if one does not enroll in this program, UW is generally accepted to be a de
 ## Doing something important
 
 Richard Hamming's famous talk, "[You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" is *very* inspirational.
-There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw).
+There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) (though I think reading it is better, since I don't particularly like the way he gives the talk).
 
 Some good quotes:
 
@@ -189,3 +189,8 @@ How to ignore for example pressure to complete homework assignments?
 - Experimenting with homelessness; see gwern
 
 - activism ends after graduation -- sam alexander
+
+- in college: how *little* grades matter.
+radical experimentation,
+how *little* people remember from lectures/class,
+opportunity cost of college.
