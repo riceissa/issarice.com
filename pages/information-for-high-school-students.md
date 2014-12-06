@@ -170,6 +170,10 @@ Another:
 
 > Another trait, it took me a while to notice. I noticed the following facts about people who work with the door open or the door closed. I notice that if you have the door to your office closed, you get more work done today and tomorrow, and you are more productive than most. But 10 years later somehow you don't know quite know what problems are worth working on; all the hard work you do is sort of tangential in importance. He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important. Now I cannot prove the cause and effect sequence because you might say, “The closed door is symbolic of a closed mind.” I don't know. But I can say there is a pretty good correlation between those who work with the doors open and those who ultimately do important things, although people who work with doors closed often work harder. Somehow they seem to work on slightly the wrong thing - not much, but enough that they miss fame.
 
+And:
+
+> I started asking, “What are the important problems of your field?” And after a week or so, “What important problems are you working on?” And after some more time I came in one day and said, “If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at Bell Labs working on it?”
+
 ## Expanding your imagination
 
 - Mencious Moldbug/neoreactionaries
