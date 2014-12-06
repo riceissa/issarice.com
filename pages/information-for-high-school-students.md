@@ -155,3 +155,25 @@ It's always best to think in the long term; practicing a sport, for instance, ma
 
 - If one lives in Washington state, then the early entrace program at UW can be a very good option.
 Even if one does not enroll in this program, UW is generally accepted to be a decent school (though what you do there is most important)
+
+
+## Doing something important
+
+Richard Hamming's famous talk, "[You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" is *very* inspirational.
+There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw).
+
+Some good quotes:
+
+> In order to get at you individually, I must talk in the first person. I have to get you to drop modesty and say to yourself, “Yes, I would like to do first-class work.” Our society frowns on people who set out to do really good work. You're not supposed to; luck is supposed to descend on you and you do great things by chance. Well, that's a kind of dumb thing to say. I say, why shouldn't you set out to do something significant. You don't have to tell other people, but shouldn't you say to yourself, “Yes, I would like to do something significant.”
+
+Another:
+
+> Another trait, it took me a while to notice. I noticed the following facts about people who work with the door open or the door closed. I notice that if you have the door to your office closed, you get more work done today and tomorrow, and you are more productive than most. But 10 years later somehow you don't know quite know what problems are worth working on; all the hard work you do is sort of tangential in importance. He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important. Now I cannot prove the cause and effect sequence because you might say, “The closed door is symbolic of a closed mind.” I don't know. But I can say there is a pretty good correlation between those who work with the doors open and those who ultimately do important things, although people who work with doors closed often work harder. Somehow they seem to work on slightly the wrong thing - not much, but enough that they miss fame.
+
+## Expanding your imagination
+
+- Mencious Moldbug/neoreactionaries
+
+- Cognito Mentoring in general
+
+- Reading what Peter Thiel/Paul Graham/Michael O. Church/Alex K. Chen/Vipul Naik/Brian Farley/Inna Vishik say.
