@@ -351,6 +351,9 @@ At the other extreme (i.e. the most depth), we can make a "math packages" contai
 proof  thmtools
 ````
 
+### Content length
+
+See for instance [this post](https://www.facebook.com/vipulnaik.r/posts/10202707831592850) by Vipul on Slate Star Codex being a blog with long posts.
 
 ## Thinking about impact
 
@@ -378,6 +381,10 @@ Here we consider how much impact writing online can make on the world.
     > way). This will help spread awareness of you and your work among
     > your colleagues, and hopefully lead to future collaborations, or
     > other people building upon (and citing) your papers.
+
+- See [this post](https://www.facebook.com/vipulnaik.r/posts/10202840266223633) by Vipul Naik on whether there is low-hanging fruit for encouraging young people to work on side projects, including web content creation.
+
+- See [this post](https://www.facebook.com/vipulnaik.r/posts/10202884940740468) by Vipul Naik on whether academic research or blogging produces more social value.
 
 ## Some remaining questions
 
