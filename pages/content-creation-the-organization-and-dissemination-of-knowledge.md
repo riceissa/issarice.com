@@ -386,7 +386,28 @@ Here we consider how much impact writing online can make on the world.
 
 - [This article](http://blog.subwiki.org/2009/02/02/the-goal-of-subject-wikis/) is interesting.
 
-    > 
+    > Some of the specific principles derived from this include: a high
+    > level of *modularization with articles as the basic units*
+    > combined with *pinpoint referencing*: it is easy and quick to get
+    > an answer to a specific question. Each topic has its separate
+    > article, achieving a high level of granularity and modularity.
+    > Pinpoint referencing is achieved by canonical naming (the name of
+    > a page on a topic is precisely that topic), good redirection and
+    > disambiguation, excellent search features, and good-quality
+    > categorization. Another principle is *strong internal linking*:
+    > pages are linked to closely related pages in a way that symbolizes
+    > and explains the manner of the relationship. This allows for
+    > easier location of new facts, stimulation of curiosity, and
+    > expansion of knowledge. Yet another principle is
+    > *standardization*: standardization of page format for similar
+    > pages, leading to predictability and reliability. A principle that
+    > is important and not obvious is *genericity*: individual subject
+    > wiki pages should largely make sense as independent entry points
+    > into the wiki, so that people coming from outside can go straight
+    > there. While they should link to other subject wiki entries, they
+    > should not be dependent on them in a strong sense.  Most
+    > important, there should be no *forced sequencing* of the entries
+    > as in a textbook, where future entries depend on earlier ones.
 
 - See also [this post](https://www.facebook.com/groups/1520172064903930/permalink/1527384787515991/) by Vipul Naik on Libertarian Effective Altruists.
 
