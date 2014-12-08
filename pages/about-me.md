@@ -82,6 +82,7 @@ I don’t use Twitter very often, and when I do it’s mostly to read what other
 
 - I have a profile on the [Effective Altruism Hub](http://effectivealtruismhub.com/) [here](http://effectivealtruismhub.com/user/riceissa).
 
+- I have a Gratipay profile [here](https://gratipay.com/riceissa/).
 
 ### Programming
 
