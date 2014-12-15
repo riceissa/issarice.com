@@ -11,7 +11,7 @@ tags: untagged
 ...
 
 Why care about reddit?
-See for instance [Alex K. Chen's answer to "What are the most underrated life skills?"](https://www.quora.com/What-are-the-most-underrated-life-skills/answer/Alex-K-Chen): "the ability to find the truly relevant+accurate content from places with low signal to noise ratio".
+See for instance [Alex K. Chen's answer to "What are the most underrated life skills?"](https://www.quora.com/What-are-the-most-underrated-life-skills/answer/Alex-K-Chen): "the ability to find the truly relevant\+accurate content from places with low signal to noise ratio".
 Reddit seems to have a lot of high quality content, but this is swamped by all the low quality content.
 How can we find useful information on reddit?
 
