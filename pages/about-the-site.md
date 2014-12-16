@@ -7,7 +7,7 @@ last-major-revision-date: 2014-09-14
 license: CC0
 ...
 
-## Philosophy
+# Philosophy
 
 This site is my attempt to execute gwern's idea of [Long Content](http://www.gwern.net/About#long-content).
 In particular, I strive to make all the internal files human-readable (by writing it in pandoc markdown), version-controlled (with git), and largely freely-licensed (so it will be copied, making the data safe).
@@ -15,7 +15,7 @@ In particular, I strive to make all the internal files human-readable (by writin
 Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](http://riceissa.com/content-creation-the-organization-and-dissemination-of-knowledge#the-tree-structure-of-a-website) of this site.
 
 
-## Colophon
+# Colophon
 
 For the sake of transparency, we list below the tools used to run this site.
 
@@ -37,7 +37,7 @@ I have registered the domains [riceissa.com](http://riceissa.com) and [issarice.
 
 [^ssglist]: A list of all static site generators can be found [here](http://staticsitegenerators.net/).
 
-## Getting updates
+# Getting updates
 
 Since the site's source code is hosted on GitHub, one can simply use GitHub's RSS for the master branch, available [here](https://github.com/riceissa/riceissa.com/commits/master.atom).
 I tend to prefer incremental updates instead of massive updates, so most of the changes in there will be very insignificant (and probably not worth your time).
