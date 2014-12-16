@@ -3,3 +3,4 @@ _cache
 site
 site.*
 *.swp
+*.pyc
