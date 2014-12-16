@@ -16,7 +16,7 @@ What is it like to have more fundamentally asymmetric friendships (e.g. mentorâ€
 In differently-aged friendships, we can consider the benefits to (1) the younger person and (2) the older person.
 Usually (but not always), the older person will have more experience and knowledge, so the friendship will be asymmetric in that sense.
 
-## Benefits for the younger person
+# Benefits for the younger person
 
 Below are my personal experiences, originally written as an answer to "[For high school and early college (or equivalent) students, how has regular casual interaction with people in their mid-to-late 20s influenced you?](https://www.quora.com/For-high-school-and-early-college-or-equivalent-students-how-has-regular-casual-interaction-with-people-in-their-mid-to-late-20s-influenced-you)" on Quora.
 
@@ -38,6 +38,6 @@ As for influence these people have had on me, I think I may have adopted the wri
 It may be too early to say whether these interactions have
 been significant.
 
-## Benefits for the older person
+# Benefits for the older person
 
 A while ago (2014 September) I [hosted a discussion](https://www.facebook.com/riceissa/posts/1475882736024012) on the benefits for older people of interacting with younger people.
