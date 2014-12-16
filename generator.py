@@ -27,9 +27,11 @@ for page in pages_lst:
     all_tags.extend(tags_lst)
     json_str = json.dumps(file_dict['json'], separators=(',',':'))
     body = c.run_command("pandoc -f json -t html --toc --template=templates/toc.html --mathjax --base-header-level=2", pipe_in=json_str).decode('utf-8')
-    title = to_unicode(meta.get_metadata_field(json_lst, "title"))
-    math = to_unicode(meta.get_metadata_field(json_lst, "math"))
-    license = to_unicode(meta.get_metadata_field(json_lst, "license"))
+    ctx = Metadata(
+        title = meta.get_metadata_field(json_lst, "title"),
+        math = meta.get_metadata_field(json_lst, "math"),
+        license = meta.get_metadata_field(json_lst, "license"),
+    )
 
     env = Environment(loader=FileSystemLoader('.'))
     skeleton = env.get_template('templates/skeleton.html')
@@ -37,10 +39,10 @@ for page in pages_lst:
     for tag in tags_lst:
         tags.append({'name': to_unicode(tag), 'path': to_unicode("tags/" + tag)})
     tags = sorted(tags, key=lambda t: t['name'])
-    final = skeleton.render(body=body, title=title, license=license, math=math, tags=tags)
+    final = skeleton.render(body=body, title=ctx.title, license=ctx.license, math=ctx.math, tags=tags)
     inter = page.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
     write_to = page.route_with(my_route).path
-    page_data.append((title, inter, tags_lst))
+    page_data.append((ctx.title, inter, tags_lst))
 
     with open(write_to, 'w') as f:
         f.write(to_string(final))
