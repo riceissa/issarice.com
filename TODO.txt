@@ -1,4 +1,14 @@
 
+NEW:
+
+- go through generator.py, metadata.py, and commands.py (and maybe also tag_ontology.py) to document code.
+- use classes instead of purely procedural stuff (do this slowly)
+- make links all relative (so they work locally, and on servers even when the pages aren't hosted in the root dir)
+- efficiency?? -- right now, it takes about 9 seconds to process all files, while hakyll takes about 6 (+4 for compiling site.hs). But generator.py does a lot more tag processing, so maybe speed isn't really a concern.
+- actually publish to riceissa.com at some point..
+
+OLD:
+
 - figure out why LaTeX code blocks aren't highlighting
 - fix tags so that pages without tags don't have the "tags: " thing at the end
 - add update dates to bottom or top of each page
