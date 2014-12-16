@@ -118,6 +118,34 @@ class Route(object):
             )
         return result
 
+class Metadata(object):
+    '''
+    Represents the metadata of a file.
+    '''
+    def __init__(
+        self,
+        title = "",
+        authors = [],
+        tags = [],
+        math = "True",
+        license = "CC-BY",
+        **kwargs
+    ):
+        self.title = to_unicode(title)
+        self.authors = [to_unicode(author) for author in authors]
+        self.tags = [to_unicode(tag) for tag in tags]
+        if type(math) is bool:
+            if math:
+                self.math = "True"
+            else:
+                self.math = "False"
+        else:
+            self.math = math
+        self.math = to_unicode(self.math)
+        self.license = to_unicode(license)
+        for key in kwargs:
+            self.__setattr__(key, to_unicode(kwargs[key]))
+
 @Route
 def drop_one_parent_dir_route(filepath):
     return Filepath('/'.join([i for i in split_path(filepath.path)[1:]]))
