@@ -7,7 +7,7 @@ license: CC0
 tags: general
 ...
 
-## Self-introduction
+# Self-introduction
 
 I'm currently a freshman at the University of Washington (UW) in Seattle, WA, USA.
 My intended major is computer science, but I’m also highly interested in mathematics and physics, and am looking into astronomy and the atmospheric sciences as well.
@@ -40,7 +40,7 @@ I do like the language and its literature, and am fascinated by certain aspects 
 You can find some locations [here](https://www.quora.com/Issa-Rice/about).
 
 
-## Contact
+# Contact
 
 Below are some ways to contact me, as well as the account names I use on various websites.
 Feel free to connect with me through any of the means below.
@@ -50,13 +50,13 @@ I also don't mind if you ask questions about me on Quora, though recently Quora 
 
 [^bnbr]: In general, you should be fine as long as you follow Quora's “[Be Nice, Be Respectful](https://www.quora.com/What-is-Quoras-Be-Nice-Be-Respectful-policy)” policy; it matters less whether the person about whom the question is asked is fine with it.
 
-### General
+## General
 
 - My email address is [riceissa@gmail.com](mailto:riceissa@gmail.com).
 
 - You can also send me anonymous feedback using [this form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (idea from [lukeprog](http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/) and [Gwern](http://www.gwern.net/About#anonymous-feedback)).
 
-### Social
+## Social
 
 - I spend much of my time on [Quora](https://quora.com) now.
 My Quora profile is [here](https://www.quora.com/Issa-Rice).
@@ -74,7 +74,7 @@ Feel free to connect with me as friends or romantically (or both).
 - I am [riceissa](https://twitter.com/riceissa) on [Twitter](https://twitter.com/).
 I don’t use Twitter very often, and when I do it’s mostly to read what others have tweeted.
 
-### Rationality/Effective Altruism community
+## Rationality/Effective Altruism community
 
 - I am [riceissa](http://lesswrong.com/user/riceissa/overview/) on [Less Wrong](http://lesswrong.com/).
 
@@ -84,7 +84,7 @@ I don’t use Twitter very often, and when I do it’s mostly to read what other
 
 - I have a Gratipay profile [here](https://gratipay.com/riceissa/).
 
-### Programming
+## Programming
 
 - I am [riceissa](https://github.com/riceissa/) on [GitHub](https://github.com/).
 You can find my public repositories [here](https://github.com/riceissa?tab=repositories), and my public gists [here](https://gist.github.com/riceissa).
@@ -93,7 +93,7 @@ You can find my public repositories [here](https://github.com/riceissa?tab=repos
 
 - I am [riceissa](https://stackoverflow.com/users/3422337/riceissa) on [Stack Overflow](https://stackoverflow.com/).
 
-### Other
+## Other
 
 - I have a [WordPress.com](https://wordpress.com/) blog [here](https://riceissa.wordpress.com/).
 I might use it in the future for something more, but at the moment it is simply a scratch space for me to quickly post links and ideas.
