@@ -1,7 +1,7 @@
 <ul>
-  $for(pages)$
+  {% for page in pages %}
     <li>
-      <a href="$url$">$title$</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
-  $endfor$
+  {% endfor %}
 </ul>
