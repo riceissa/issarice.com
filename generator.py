@@ -9,42 +9,17 @@ import os
 
 import commands as c
 import metadata as meta
+from classes import *
 from tag_ontology import *
 
-def to_unicode(string):
-    if isinstance(string, str):
-        return string.decode('utf-8')
-    if isinstance(string, bool):
-        if string:
-            return "True".decode('utf-8')
-        else:
-            return "False".decode('utf-8')
-    if isinstance(string, unicode):
-        return string
-    else:
-        return "".decode("utf-8")
-
-def to_string(unic):
-    if isinstance(unic, unicode):
-        return unic.encode('utf-8')
-    if isinstance(unic, bool):
-        if unic:
-            return "True"
-        else:
-            return "False"
-    if isinstance(unic, str):
-        return unic
-    else:
-        return ""
-
 pages_pat = "pages/*.md"
-pages_lst = glob.glob(pages_pat)
+pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
 
 all_tags = []
 page_data = []
 for page in pages_lst:
     #print "on page " + page
-    output = c.run_command("pandoc -f markdown -t json {page}".format(page=page))
+    output = c.run_command("pandoc -f markdown -t json {page}".format(page=str(page)))
     json_lst = json.loads(output)
     file_dict = meta.organize_tags(json_lst, tag_synonyms, tag_implications)
     tags_lst = meta.get_tags(file_dict['json'])
@@ -63,8 +38,8 @@ for page in pages_lst:
         tags.append({'name': to_unicode(tag), 'path': to_unicode("tags/" + tag)})
     tags = sorted(tags, key=lambda t: t['name'])
     final = skeleton.render(body=body, title=title, license=license, math=math, tags=tags)
-    inter = os.path.split(os.path.splitext(page)[0])[1]
-    write_to = "_site/" + inter
+    inter = page.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+    write_to = page.route_with(my_route).path
     page_data.append((title, inter, tags_lst))
 
     with open(write_to, 'w') as f:
