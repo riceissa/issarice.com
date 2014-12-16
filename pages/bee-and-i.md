@@ -8,7 +8,7 @@ The following is the final assignment from senior year of high school in
 English class.
 
 
-## The essay
+# The essay
 
 More than anything, the sight of bees signals the arrival of summer. The
 gentle susurrus of the grass is no longer adequate, nor is the basking
@@ -85,7 +85,7 @@ it is summer again.
 
 
 
-## Statement of Intent
+# Statement of Intent
 
 For my You Are Here project, I emulated the essay style of Virginia
 Woolf. I especially considered the discursive narrative style she often

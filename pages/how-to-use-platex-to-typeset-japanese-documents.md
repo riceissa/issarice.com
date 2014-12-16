@@ -10,7 +10,7 @@ tags: japan, debian, latex, linux
 ---
 
 
-## How-to
+# How-to
 
 It easy enough to simply download and install the entire TeXLive 2012 distribution with `sudo aptitude install texlive-full`; however, I am pretty sure only the CJK support is necessary for the following.
 To begin, therefore, install the CJK support package with:
@@ -98,7 +98,7 @@ Therefore, we use:
 
 If the `.map` file is not located in the same place, use `locate filename`.
 
-## References
+# References
 
 Below are sources that were especially helpful in finding out how to use `platex`.
 One thing that will be noticed is that all sources are in Japanese; this is to be expected, as `platex` was designed specifically to deal with Japanese typesetting.
@@ -119,7 +119,7 @@ One goal in writing this article was to provide some of the material available i
 * “ptetex3 のフォントの集中管理”. (Japanese.)
 <http://tutimura.ath.cx/ptetex/?%A5%D5%A5%A9%A5%F3%A5%C8%A4%CE%BD%B8%C3%E6%B4%C9%CD%FD>
 
-## License
+# License
 
 This document is licensed under the CC0 1.0 Universal license.  That is,
 “You can copy, modify, distribute and perform the work, even for

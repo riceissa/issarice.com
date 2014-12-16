@@ -12,7 +12,7 @@ tags: university-of-washington
 
 This is my (Issa Rice's) UW honors portfolio index.
 
-## Portfolio statement
+# Portfolio statement
 
 In many ways, my first quarter at the University of Washington was as expected.
 By this, I mean that my long- and medium-term goals have only shifted negligibly; in other words, I did not have a "college freshman epiphany".
@@ -58,7 +58,7 @@ Overall, although I've gone through a lot this quarter, I'm not sure if I am rea
 In many ways, it seems like the "college experience" is a repetition of high school, contrary to what I've been told.
 I am somewhat hopeful that once I begin major-specific coursework, my classes will become more interesting.
 
-## Honors 100 assignments
+# Honors 100 assignments
 
 - Assignment 1: Who are you?
 Available [here](http://exp.riceissa.com/pdf/actual.pdf).

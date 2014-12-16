@@ -105,7 +105,7 @@ however, simply cements the title for this section.
 
 
 
-## Tarski
+# Tarski
 
 > The divergency between the usage of the phrase “*if…, then…*” in
 > ordinary language and its usage in mathematical logic has been at the
@@ -141,7 +141,7 @@ however, simply cements the title for this section.
 > with this decision, then nobody will be in a position to object, or to
 > argue that his procedure leads to nonsensical results.
 
-## Ramsey
+# Ramsey
 
 
 The following is taken from the Stanford Encyclopedia of Philosophy[^1]
@@ -203,7 +203,7 @@ In fact, something exactly like this happens in fuzzy logic.
 
 [^2]: <https://profiles.google.com/114134834346472219368/buzz/YNHWb5mzEKP>
 
-## Halmos
+# Halmos
 
 
 As Halmos states in his *Naive Set Theory* (page 8),

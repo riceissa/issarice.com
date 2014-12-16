@@ -14,7 +14,7 @@ It is occasionally useful to know how to perform basic tasks on the command line
 Below we present instructions for burning and verifying CDs and DVDs on the command line.
 The following was tested on Debian Wheezy (during testing) using Wodim 1.1.11.
 
-## CD
+# CD
 
 1. Install `wodim` using
 
@@ -112,7 +112,7 @@ eliminates any mysteries regarding the former.
 
 
 
-## DVD
+# DVD
 
 1. Install the relevant package:
 
@@ -149,7 +149,7 @@ Enter this number in the expression below to find the hash value:
 
 1. Compare the hash from the DVD disc image with the hash from the original ISO image (usually available on the website where you downloaded the image; however if not, `md5sum image.iso` will also work).
 
-## References
+# References
 
 The following web pages were especially helpful.
 

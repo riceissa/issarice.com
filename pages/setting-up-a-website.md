@@ -13,7 +13,7 @@ some things I need to talk about:
 - decent workflow for how to go about editing a page, pushing changes, and then deploying. show all automation.
 
 
-## Setting up a subdomain
+# Setting up a subdomain
 
 on *Linode* go to A/AAAA Records, and add the following:
 

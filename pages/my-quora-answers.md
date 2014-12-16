@@ -7,7 +7,7 @@ My main contributions to Quora are through my questions, but I don't think my an
 
 Reverse chronological order
 
-## What was it like to attend the Seattle Quora meetup on October 24, 2014?
+# What was it like to attend the Seattle Quora meetup on October 24, 2014?
 
 [Mirror](https://www.quora.com/What-was-it-like-to-attend-the-Seattle-Quora-meetup-on-October-24-2014)
 
@@ -26,13 +26,13 @@ Some other notable points:
 -   The group again did seem to mostly be people associated with UW.
 
 
-## Is anyone interested in a study partner system at the University of Washington?
+# Is anyone interested in a study partner system at the University of Washington?
 
 [Mirror](https://www.quora.com/Is-anyone-interested-in-a-study-partner-system-at-the-University-of-Washington/answer/Issa-Rice)
 
 As the asker of this question, I am highly interested.
 
-## Who is interested in an effective altruism group/club at the University of Washington?
+# Who is interested in an effective altruism group/club at the University of Washington?
 
 [Mirror](https://www.quora.com/Who-is-interested-in-an-effective-altruism-group-club-at-the-University-of-Washington/answer/Issa-Rice)
 
@@ -45,7 +45,7 @@ own—although I'd definitely be willing to give it a try. (But in any
 case, if very few people are interested, then it might not be worth the
 effort to attempt to start a group).
 
-## How has the way Vipul Naik uses Facebook changed the way you think about social media?
+# How has the way Vipul Naik uses Facebook changed the way you think about social media?
 
 [Mirror](https://www.quora.com/How-has-the-way-Vipul-Naik-uses-Facebook-changed-the-way-you-think-about-social-media/answer/Issa-Rice)
 
@@ -53,7 +53,7 @@ Slightly modified version of what I posted on Facebook:
 
 Vipul's bleg-style posts on Facebook have definitely opened my eyes to what's possible on Facebook. I originally joined Facebook for networking in college (as well as to join a certain discussion group), but honestly wasn't expecting too much out of Facebook (which I had thought of as a place where people post generally inane status updates). Over the six months I've been on Facebook, I've learned that as long as one is willing to curate one's Facebook feed enough, the signal-to-noise ratio can surpass that of Quora, and rival that of sites like Less Wrong. Sebastian Nickel's post praising Vipul comes to mind. To be sure, I realize that Vipul's style of posting isn't unique, but he seems to be one of the better people posting in this style.
 
-## How can I implement cool URIs with Hakyll?
+# How can I implement cool URIs with Hakyll?
 
 [Mirror](https://www.quora.com/How-can-I-implement-cool-URIs-with-Hakyll/answer/Issa-Rice)
 
@@ -66,7 +66,7 @@ to `text/html` so that these extensionless files are seen as valid HTML files by
 Note that if you're hosting on something like GitHub pages, then this is not possible (see [Can MIME types of Github Pages files be configured?](http://stackoverflow.com/questions/15951012/can-mime-types-of-github-pages-files-be-configured)), which is why many people set up Jekyll/Hakyll to make separate directories for each page with an `index.html` in each so that the URLs will still look pretty (so you can go to both `example.com/page-name/` and `example.com/page-name/index.html`).
 
 
-## What music does Issa Rice listen to?
+# What music does Issa Rice listen to?
 
 [Mirror](https://www.quora.com/What-music-does-Issa-Rice-listen-to/answer/Issa-Rice)
 
@@ -105,7 +105,7 @@ listening to any music. It might just be that my collection is so small
 I get bored of it quickly, but can come back to it after some amount of
 time has passed.
 
-## Does Issa Rice watch anime?
+# Does Issa Rice watch anime?
 
 [Mirror](https://www.quora.com/Does-Issa-Rice-watch-anime/answer/Issa-Rice)
 
@@ -135,7 +135,7 @@ I also remember liking [The Girl Who Leapt
 Through Time (2006
 film)](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_%282006_film%29).
 
-## How often do you check the edit history to see the author of a question?
+# How often do you check the edit history to see the author of a question?
 
 [Mirror](https://www.quora.com/How-often-do-you-check-the-edit-history-to-see-the-author-of-a-question/answer/Issa-Rice)
 
@@ -147,7 +147,7 @@ I'm less likely to check when I'm on the mobile app since I have to open an exte
 
 As for how often this actually happens, I'd guess maybe once or twice a day.
 
-## What are the Dungeons & Dragons alignment types of prominent Quora users?
+# What are the Dungeons & Dragons alignment types of prominent Quora users?
 
 [Mirror](https://www.quora.com/What-are-the-Dungeons-Dragons-alignment-types-of-prominent-Quora-users/answer/Issa-Rice)
 
@@ -178,7 +178,7 @@ I got chaotic neutral.
 > Evil ---- X (1)
 
 
-## How does your Quora all time views/upvotes ratio compare to your questions/answers (public) ratio?
+# How does your Quora all time views/upvotes ratio compare to your questions/answers (public) ratio?
 
 [Mirror](https://www.quora.com/How-does-your-Quora-all-time-views-upvotes-ratio-compare-to-your-questions-answers-public-ratio/answer/Issa-Rice)
 
@@ -186,7 +186,7 @@ My all time views:upvotes ratio is 5135, and my questions:answers ratio is 27.
 
 
 
-## What is the difference between the markdown implementations kramdown, maruku, and rdiscount?
+# What is the difference between the markdown implementations kramdown, maruku, and rdiscount?
 
 [Mirror](https://www.quora.com/What-is-the-difference-between-the-markdown-implementations-kramdown-maruku-and-rdiscount/answer/Issa-Rice)
 
@@ -198,13 +198,13 @@ implementations](http://johnmacfarlane.net/babelmark2/); simply
 enter a Markdown document and observe the differing HTML outputs.
 
 
-## How can I write messages in Gmail using Markdown?
+# How can I write messages in Gmail using Markdown?
 
 [Mirror](https://www.quora.com/How-can-I-write-messages-in-Gmail-using-Markdown/answer/Issa-Rice)
 
 See [here](/playing-with-pandoc).
 
-## Why does only the first item of a list show up when using pandoc and YAML headers?
+# Why does only the first item of a list show up when using pandoc and YAML headers?
 
 [Mirror](https://www.quora.com/Why-does-only-the-first-item-of-a-list-show-up-when-using-pandoc-and-YAML-headers/answer/Issa-Rice)
 
@@ -220,13 +220,13 @@ header](http://stackoverflow.com/questions/25559469/listing-tags-using-pandoc-an
 
 
 
-## Is there a service or program that lets you copy text from a website directly into Markdown, retaining all formatting?
+# Is there a service or program that lets you copy text from a website directly into Markdown, retaining all formatting?
 
 [Mirror](https://www.quora.com/Is-there-a-service-or-program-that-lets-you-copy-text-from-a-website-directly-into-Markdown-retaining-all-formatting/answer/Issa-Rice)
 
 See [here](/playing-with-pandoc).
 
-## Are there translations websites of Quora content?
+# Are there translations websites of Quora content?
 
 [Mirror](https://www.quora.com/Are-there-translations-websites-of-Quora-content/answer/Issa-Rice)
 
@@ -248,7 +248,7 @@ Twitter](https://twitter.com/knoh_jp).
 
 
 
-## Has gwern ever considered enrolling in a massive personal genomics project such as the Personal Genome Project or the 100K Wellness Project?
+# Has gwern ever considered enrolling in a massive personal genomics project such as the Personal Genome Project or the 100K Wellness Project?
 
 [Mirror](https://www.quora.com/Has-gwern-ever-considered-enrolling-in-a-massive-personal-genomics-project-such-as-the-Personal-Genome-Project-or-the-100K-Wellness-Project/answer/Issa-Rice)
 
@@ -267,7 +267,7 @@ Here is his response:
 gwern.net](http://www.gwern.net/Links#comment-1562662493))
 
 
-## What does Issa Rice think of Andrew J. Ho's post-graduation plans?
+# What does Issa Rice think of Andrew J. Ho's post-graduation plans?
 
 [Mirror](https://www.quora.com/What-does-Issa-Rice-think-of-Andrew-J-Hos-post-graduation-plans/answer/Issa-Rice)
 
@@ -331,7 +331,7 @@ altruism and earning-to-give.
 
 
 
-## Why has the Cognito Mentoring blog on Quora been dormant recently?
+# Why has the Cognito Mentoring blog on Quora been dormant recently?
 
 [Mirror](https://www.quora.com/Why-has-the-Cognito-Mentoring-blog-on-Quora-been-dormant-recently/answer/Issa-Rice)
 
@@ -366,25 +366,25 @@ concisely:
 
 
 
-## For high school and early college (or equivalent) students, how has regular casual interaction with people in their mid-to-late 20s influenced you?
+# For high school and early college (or equivalent) students, how has regular casual interaction with people in their mid-to-late 20s influenced you?
 
 [Mirror](https://www.quora.com/For-high-school-and-early-college-or-equivalent-students-how-has-regular-casual-interaction-with-people-in-their-mid-to-late-20s-influenced-you/answer/Issa-Rice)
 
 My thoughts are [here](/the-importance-of-having-differently-aged-peers).
 
-## Who is interested in an October 2014 Quora meetup in Seattle?
+# Who is interested in an October 2014 Quora meetup in Seattle?
 
 [Mirror](https://www.quora.com/Who-is-interested-in-an-October-2014-Quora-meetup-in-Seattle/answer/Issa-Rice)
 
 Interested.
 
-## Who is interested in a September 2014 Quora meetup in Seattle?
+# Who is interested in a September 2014 Quora meetup in Seattle?
 
 [Mirror](https://www.quora.com/Who-is-interested-in-a-September-2014-Quora-meetup-in-Seattle/answer/Issa-Rice)
 
 I'm interested.
 
-## How does Quora deal with question URLs if a question is edited but then a new question is added with the exact wording of the old question?
+# How does Quora deal with question URLs if a question is edited but then a new question is added with the exact wording of the old question?
 
 [Mirror](https://www.quora.com/How-does-Quora-deal-with-question-URLs-if-a-question-is-edited-but-then-a-new-question-is-added-with-the-exact-wording-of-the-old-question/answer/Issa-Rice)
 
@@ -402,7 +402,7 @@ URL <https://www.quora.com/What-is-Quoras-policy-on-test-questions-1>.
 Meanwhile, both of the first two links go to the first question.
 
 
-## What are some of the best questions and answers you have come across recently (July 2014) on Quora?
+# What are some of the best questions and answers you have come across recently (July 2014) on Quora?
 
 [Mirror](https://www.quora.com/What-are-some-of-the-best-questions-and-answers-you-have-come-across-recently-July-2014-on-Quora/answer/Issa-Rice)
 
@@ -428,7 +428,7 @@ example:
     field?](https://www.quora.com/How-long-does-it-take-you-to-read-journal-papers-in-your-field)
 
 
-## What is the best way to read library books in bed without any part of the book cover touching the sheets?
+# What is the best way to read library books in bed without any part of the book cover touching the sheets?
 
 [Mirror](https://www.quora.com/What-is-the-best-way-to-read-library-books-in-bed-without-any-part-of-the-book-cover-touching-the-sheets/answer/Issa-Rice)
 
@@ -451,7 +451,7 @@ ridiculous munchkin ideas! - Less
 Wrong](http://lesswrong.com/lw/h9b/post_ridiculous_munchkin_ideas/8yb9).
 
 
-## What is it like to attend the Friday pizza lunch on the astronomy floor at the University of Washington?
+# What is it like to attend the Friday pizza lunch on the astronomy floor at the University of Washington?
 
 [Mirror](https://www.quora.com/What-is-it-like-to-attend-the-Friday-pizza-lunch-on-the-astronomy-floor-at-the-University-of-Washington/answer/Issa-Rice)
 
@@ -483,7 +483,7 @@ although when I went there seemed to be (just) enough for everyone.
 
 
 
-## Is it true that preschoolers in Japan are starting to wear wide brimmed hats and sunglasses to protect from sunlight?
+# Is it true that preschoolers in Japan are starting to wear wide brimmed hats and sunglasses to protect from sunlight?
 
 [Mirror](https://www.quora.com/Is-it-true-that-preschoolers-in-Japan-are-starting-to-wear-wide-brimmed-hats-and-sunglasses-to-protect-from-sunlight/answer/Issa-Rice)
 
@@ -529,7 +529,7 @@ regular wide brimmed ones, so [Alex K.  Chen](https://www.quora.com/Alex-K-Chen)
 [2]\: By me, so there are possibly errors.
 
 
-## What is it like to go to the UW A&O (for freshmen)?
+# What is it like to go to the UW A&O (for freshmen)?
 
 [Mirror](https://www.quora.com/What-is-it-like-to-go-to-the-UW-A-O-for-freshmen/answer/Issa-Rice)
 
@@ -605,7 +605,7 @@ welcomed. I personally did not mind their helpfulness/cheerfulness, and
 thought they did a very good job.
 
 
-## What is the dinner/lunch like at the UW freshmen A&O?
+# What is the dinner/lunch like at the UW freshmen A&O?
 
 [Mirror](https://www.quora.com/What-is-the-dinner-lunch-like-at-the-UW-freshmen-A-O/answer/Issa-Rice)
 
@@ -626,7 +626,7 @@ From 2014:
     food on it.)
 
 
-## What is it like to have Vipul Naik as a teacher?
+# What is it like to have Vipul Naik as a teacher?
 
 [Mirror](https://www.quora.com/What-is-it-like-to-have-Vipul-Naik-as-a-teacher/answer/Issa-Rice)
 
@@ -666,7 +666,7 @@ When I asked about this, he was also willing to point out a few more things, lik
 I wish he had another video explaining this, though it's understandable that at the introductory stage this sort of thing isn't discussed.
 
 
-## University of Washington: Why do the computers in the undergrad astro lab only have Scientific Linux with Python 2.4?
+# University of Washington: Why do the computers in the undergrad astro lab only have Scientific Linux with Python 2.4?
 
 [Mirror](https://www.quora.com/University-of-Washington/Why-do-the-computers-in-the-undergrad-astro-lab-only-have-Scientific-Linux-with-Python-2-4/answer/Issa-Rice)
 
@@ -686,7 +686,7 @@ without having to install them yourself.
 Distribution](https://store.continuum.io/cshop/anaconda/) on the
 servers for you.
 
-## What was it like to attend the Seattle Quora meetup on June 27th, 2014?
+# What was it like to attend the Seattle Quora meetup on June 27th, 2014?
 
 [Mirror](https://www.quora.com/What-was-it-like-to-attend-the-Seattle-Quora-meetup-on-June-27th-2014/answer/Issa-Rice)
 
@@ -715,7 +715,7 @@ Some thoughts:
     for Alex K. Chen before he asked a question).
 
 
-## How can I combine an AND and a NOT in Liquid?
+# How can I combine an AND and a NOT in Liquid?
 
 [Mirror](https://www.quora.com/How-can-I-combine-an-AND-and-a-NOT-in-Liquid/answer/Issa-Rice)
 
@@ -737,7 +737,7 @@ I'm answering my own question because I figured out a hack. I've been looking at
 {% endif %}
 ```
 
-##  What are all of Vipul Naik's acronyms?
+#  What are all of Vipul Naik's acronyms?
 
 [Mirror](https://www.quora.com/What-are-all-of-Vipul-Naiks-acronyms/answer/Issa-Rice)
 
@@ -746,14 +746,14 @@ I've created an Anki
 deck for this for people who want to learn such Vipulous Vipulisms:
 [Vipul Naik's acronyms](https://ankiweb.net/shared/info/1023766037)
 
-## Who is going to the Quora dinner meetup on Friday, June 27th in Seattle?
+# Who is going to the Quora dinner meetup on Friday, June 27th in Seattle?
 
 [Mirror](https://www.quora.com/Who-is-going-to-the-Quora-dinner-meetup-on-Friday-June-27th-in-Seattle/answer/Issa-Rice)
 
 
 I'm interested.
 
-## How long has Issa Rice used Linux for?
+# How long has Issa Rice used Linux for?
 
 [Mirror](https://www.quora.com/How-long-has-Issa-Rice-used-Linux-for/answer/Issa-Rice)
 
@@ -804,7 +804,7 @@ become more open to sacrificing some privacy for the sake of obtaining
 useful information.
 
 
-## How do I paste from the clipboard into vim when I type commands into the vim terminal?
+# How do I paste from the clipboard into vim when I type commands into the vim terminal?
 
 [Mirror](https://www.quora.com/How-do-I-paste-from-the-clipboard-into-vim-when-I-type-commands-into-the-vim-terminal/answer/Issa-Rice)
 
@@ -814,7 +814,7 @@ will use the system's clipboard.
 See [How to copy yanked text to VI command prompt](http://stackoverflow.com/questions/906535/how-to-copy-yanked-text-to-vi-command-prompt) for more.
 
 
-## How can I use Vim UltiSnips to compute the sha1 hash of the current file?
+# How can I use Vim UltiSnips to compute the sha1 hash of the current file?
 
 [Mirror](https://www.quora.com/How-can-I-use-Vim-UltiSnips-to-compute-the-sha1-hash-of-the-current-file/answer/Issa-Rice)
 
@@ -830,7 +830,7 @@ endsnippet
 (Note that the system must have sha1sum as a command, which is true for
 e.g. Debian.)
 
-## How did you discover Quora?
+# How did you discover Quora?
 
 [Mirror](https://www.quora.com/How-did-you-discover-Quora-2/answer/Issa-Rice)
 
@@ -852,7 +852,7 @@ e.g. Debian.)
     convinced me to stay and become active on Quora.
 
 
-## How did you discover LessWrong?
+# How did you discover LessWrong?
 
 [Mirror](https://www.quora.com/How-did-you-discover-LessWrong/answer/Issa-Rice)
 
@@ -868,7 +868,7 @@ e.g. Debian.)
     years now.
 
 
-## Should you use Anki flashcards for memorizing and in what cases?
+# Should you use Anki flashcards for memorizing and in what cases?
 
 [Mirror](https://www.quora.com/Should-you-use-Anki-flashcards-for-memorizing-and-in-what-cases/answer/Issa-Rice)
 
@@ -907,7 +907,7 @@ methods](http://lesswrong.com/lw/k4n/a_brief_summary_of_effective_study_methods/
 for more.
 
 
-## Who is interested in a May 2014 Quora meetup in Seattle?
+# Who is interested in a May 2014 Quora meetup in Seattle?
 
 [Mirror](https://www.quora.com/Who-is-interested-in-a-May-2014-Quora-meetup-in-Seattle/answer/Issa-Rice)
 
@@ -915,7 +915,7 @@ for more.
 Yes I'm
 interested.
 
-## As a high school student, how have you found reading and participating on Quora useful?
+# As a high school student, how have you found reading and participating on Quora useful?
 
 [Mirror](https://www.quora.com/As-a-high-school-student-how-have-you-found-reading-and-participating-on-Quora-useful/answer/Issa-Rice)
 
@@ -952,7 +952,7 @@ Some thoughts:
     Cognito](http://info.cognitomentoring.org/wiki/Join_Quora).
 
 
-## What are some examples of censorship on Quora?
+# What are some examples of censorship on Quora?
 
 [Mirror](https://www.quora.com/What-are-some-examples-of-censorship-on-Quora/answer/Issa-Rice)
 
@@ -970,7 +970,7 @@ where he says that
 (Be sure the read the comments to the answer as well.)
 
 
-## What are good command line alternatives to popular GUI apps?
+# What are good command line alternatives to popular GUI apps?
 
 [Mirror](https://www.quora.com/What-are-good-command-line-alternatives-to-popular-GUI-apps/answer/Issa-Rice)
 
@@ -978,7 +978,7 @@ where he says that
 [Kmandla's page on Software](https://kmandla.wordpress.com/software/) has many good
 ideas.
 
-## How long does it take for DuckDuckGo to process a new bang expression?
+# How long does it take for DuckDuckGo to process a new bang expression?
 
 [Mirror](https://www.quora.com/How-long-does-it-take-for-DuckDuckGo-to-process-a-new-bang-expression/answer/Issa-Rice)
 
@@ -990,7 +990,7 @@ suggestion is correct, though. (I got an email notification when it got
 added, so the latter date should be pretty precise.)
 
 
-## How should I properly pronounce your name?
+# How should I properly pronounce your name?
 
 [Mirror](https://www.quora.com/How-should-I-properly-pronounce-your-name/answer/Issa-Rice)
 
@@ -1024,14 +1024,14 @@ the A2A request because she wanted to know if my name could be
 pronounced eeeeeeeeee-ssa. If this is the case, then yes, I suppose it
 can....)
 
-## Does anyone want a Seattle Quora Meetup for April 2014?
+# Does anyone want a Seattle Quora Meetup for April 2014?
 
 [Mirror](https://www.quora.com/Does-anyone-want-a-Seattle-Quora-Meetup-for-April-2014/answer/Issa-Rice)
 
 
 Interested.
 
-## What is the longest question on Quora?
+# What is the longest question on Quora?
 
 [Mirror](https://www.quora.com/What-is-the-longest-question-on-Quora/answer/Issa-Rice)
 
@@ -1089,7 +1089,7 @@ Admittedly it's not a single question, and I haven't even read the
 entire question. The question details for this question, on the other
 hand, are very short.
 
-## When does the UW CSE direct admit mail go out?
+# When does the UW CSE direct admit mail go out?
 
 [Mirror](https://www.quora.com/When-does-the-UW-CSE-direct-admit-mail-go-out/answer/Issa-Rice)
 
@@ -1118,7 +1118,7 @@ page:
 > enrollment.
 
 
-## What are some creative ways to use Quora?
+# What are some creative ways to use Quora?
 
 [Mirror](https://www.quora.com/What-are-some-creative-ways-to-use-Quora/answer/Issa-Rice)
 
@@ -1138,7 +1138,7 @@ Some other posts that elaborate on this:
     day?](https://www.quora.com/Where-does-Alex-K-Chen-find-time-to-post-hundreds-of-questions-all-day/answer/Alex-K-Chen)
 
 
-## Is LessWrong a cult-like group?
+# Is LessWrong a cult-like group?
 
 [Mirror](https://www.quora.com/Is-LessWrong-a-cult-like-group/answer/Issa-Rice)
 
@@ -1164,7 +1164,7 @@ Here are some resources that might help.
     RationalWiki](http://rationalwiki.org/wiki/LessWrong)
 
 
-## What is the best way to treat or prevent acne?
+# What is the best way to treat or prevent acne?
 
 [Mirror](https://www.quora.com/What-is-the-best-way-to-treat-or-prevent-acne/answer/Issa-Rice)
 
@@ -1179,7 +1179,7 @@ via [phonypapercut comments on Open Thread, August 1-15, 2012 - Less
 Wrong](http://lesswrong.com/lw/dwb/open_thread_august_115_2012/74w4).
 
 
-## Longevity and Life Extension: What can I do to live as long as possible?
+# Longevity and Life Extension: What can I do to live as long as possible?
 [Mirror](https://www.quora.com/Longevity-and-Life-Extension/What-can-I-do-to-live-as-long-as-possible/answer/Issa-Rice)
 
 
@@ -1194,7 +1194,7 @@ The comments discuss sleep apnea: [Yvain comments on Lifestyle interventions to 
 On Quora, there is [What is it like to have sleep apnea?](https://www.quora.com/What-is-it-like-to-have-sleep-apnea)
 
 
-## Why do Quora blogs have URLs that are subdomains and subdirectories?
+# Why do Quora blogs have URLs that are subdomains and subdirectories?
 
 [Mirror](https://www.quora.com/Why-do-Quora-blogs-have-URLs-that-are-subdomains-and-subdirectories/answer/Issa-Rice)
 

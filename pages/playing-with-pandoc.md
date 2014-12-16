@@ -10,7 +10,7 @@ license: CC BY
 tags: linux, pandoc
 ...
 
-## Going from markdown to HTML
+# Going from markdown to HTML
 
 Answering "How can I write messages in Gmail using Markdown?" on Quora.
 
@@ -35,7 +35,7 @@ tools, as long as they have the necessary features. The editor must
 either support Markdown–HTML conversion and be able to use the
 clipboard, or else be able to interact with the shell, for instance.
 
-## Going from HTML to markdown
+# Going from HTML to markdown
 
 Answering "Is there a service or program that lets you copy text from a website directly into Markdown, retaining all formatting?" on Quora.
 

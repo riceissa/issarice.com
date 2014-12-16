@@ -11,9 +11,9 @@ Another way to state the purpose of this page is: it's a list of all the things 
 Feel free to [connect with me](/about-me#contact) if you have questions or just want to talk to me (if you're in the Seattle area I can even meet up with you).
 
 
-## Rationality resources
+# Rationality resources
 
-### Less Wrong
+## Less Wrong
 
 Depending on your personality fit with the community, [Less Wrong](http://lesswrong.com/) may be a very good place to check out.
 Some posts to check out (FIXME: make this part more fluid later):
@@ -34,7 +34,7 @@ Also [References \& Resources for LessWrong](http://lesswrong.com/lw/2un/referen
 
 [maybe insert a guide in here of how to effectively use LW]
 
-### gwern
+## gwern
 
 [gwern](http://lesswrong.com/user/gwern/) is probably one of the most well-known users on Less Wrong.
 He also has a [website](http://www.gwern.net/) that has numerous essays on eveything from nootropics to Wikipedia editing.
@@ -45,7 +45,7 @@ His [stories](http://www.gwern.net/Notes#stories) also tend to have "lessons" (l
 I think part of the appeal of gwern is that he inspires many people because his website doesn't look like "magic"; one can agree that, given enough time, anyone can attempt what he did.
 
 
-### Slate Star Codex
+## Slate Star Codex
 
 [Slate Star Codex](http://slatestarcodex.com/) is an excellent blog ranging in topics from romance to social justice to reactionary politics.
 See the [top posts](http://slatestarcodex.com/top-posts/) for more.
@@ -62,20 +62,20 @@ The essay also doesn't provide much that is actionable; we are left wondering "O
 
 He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
 
-## Other
+# Other
 
 - [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
 
 - Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
 (Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
 
-## Frustrations
+# Frustrations
 
-### Dealing with depression
+## Dealing with depression
 
 Please see [here](/dealing-with-depression).
 
-### Dealing with school
+## Dealing with school
 
 - Sometimes it's good just to know that you are not the only one who is extremely frustrated with high school.
 Even conventionally successful intellectuals like Noam Chomsky hated high school; see [my answer here on Quora](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice), for instance.
@@ -118,12 +118,12 @@ Below are the parts the most resonated with me.
     > 
     > It's important for nerds to realize, too, that school is not life. School is a strange, artificial thing, half sterile and half feral. It's all-encompassing, like life, but it isn't the real thing. It's only temporary, and if you look, you can see beyond it even while you're still in it.
 
-## Effective altruism
+# Effective altruism
 
 [to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [here](/effective-altruism-links)]
 
 
-## How to go about content creation
+# How to go about content creation
 
 My main page on this is [Content creation: the organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge)
 
@@ -135,20 +135,20 @@ It's always best to think in the long term; practicing a sport, for instance, ma
 
 [^otherways]: Though with this, it's always possible *without* spending all the time on a sport.
 
-## Thinking about careers
+# Thinking about careers
 
 - [80,000 Hours](https://80000hours.org/)
 - [Cognito Mentoring](http://cognitomentoring.org/)
 - [Advice for Students on Earning to Give](http://reducing-suffering.org/advice-students-earning-give/) gives a good overview of concrete steps to take in high school and college, with an EA-bent (specifically from the view that earning to give is advisable).
 - See also [Conference Call on Altruistic Career Choice](http://www.givewell.org/altruistic-career-choice) with Holden Karnofsky of GiveWell.
 
-## Books
+# Books
 
 - Selfish Gene
 - GEB (though I personally don't like it much); Eliezer Yudkowsky, for one, seems to [like the book a lot](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/).
 
 
-## Extracurriculars
+# Extracurriculars
 
 - It's very difficult to completely ignore the mainstream approach, especially if one lacks imaginative/creative approaches (I think this leads many people to think that doing sports, practicing an instrument, becoming a club leader, etc., are the best use of one's extracurricular time, or even *necessary* to enusre success in college applications, etc.)
 
@@ -158,7 +158,7 @@ It's always best to think in the long term; practicing a sport, for instance, ma
 Even if one does not enroll in this program, UW is generally accepted to be a decent school (though what you do there is most important)
 
 
-## Doing something important
+# Doing something important
 
 Richard Hamming's famous talk, "[You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" is *very* inspirational.
 There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) (though I think reading it is better, since I don't particularly like the way he gives the talk).
@@ -175,7 +175,7 @@ And:
 
 > I started asking, “What are the important problems of your field?” And after a week or so, “What important problems are you working on?” And after some more time I came in one day and said, “If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at Bell Labs working on it?”
 
-## Expanding your imagination
+# Expanding your imagination
 
 - Mencious Moldbug/neoreactionaries
 

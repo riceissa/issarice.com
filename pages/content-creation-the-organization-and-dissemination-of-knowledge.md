@@ -6,7 +6,7 @@ license: CC0
 
 The following was inspired by discussions with [Vipul Naik](http://vipulnaik.com).
 
-## Openness and availability of content
+# Openness and availability of content
 
 This section considers how open one's content should be.
 One definitely shouldn't “fetishize openness”, and ought to always consider to whom what you write will be useful (since if it's useful to no one, then one shouldn't bother publishing it).
@@ -14,7 +14,7 @@ Then again, it's sometimes hard to anticipate who will respond positively to wha
 
 Copying what I wrote for the Cognito Mentoring wiki:
 
-### Selecting an appropriate audience
+## Selecting an appropriate audience
 
 There exists a spectrum for sharing information about oneself; i.e.
 there is no dichotomy of either complete privacy or complete release of
@@ -49,7 +49,7 @@ them, and (2) you will receive better feedback on what you post.
 Restriction of the whole discussion may also mean that people will give
 you more candid responses.
 
-### Licensing
+## Licensing
 
 This section considers how restrictive one should be about the sharing
 and modification of one's content.
@@ -88,13 +88,13 @@ Richard Stallman [says](https://stallman.org/articles/online-education.html):
 > only noncommercial redistribution of exact copies.
 
 
-## Choosing a medium (or media)
+# Choosing a medium (or media)
 
 There are several alternatives for sharing content online, including on a blog, on a static website, on a third-party site like Quora, on a Google group, a mailing list, Facebook statuses, and so on.
 We examine several options below.
 
 
-### Quora
+## Quora
 
 Quora can be good in terms of gaining viewership, since for people who are not established as writers, it is much easier to be read on Quora than to attract readers to one's own site.
 On the other hand, Quora is a third-party site that is not afraid of making radical decisions[^quora], so it is always a good idea to backup one's writings from there.
@@ -122,7 +122,7 @@ Christopher J. Su [says](https://www.quora.com/How-should-one-balance-the-potent
 > (some even just post a link to their website/blog as their answer on
 > Quora).
 
-### Blog
+## Blog
 
 gwern [says](http://www.gwern.net/About#long-content):
 
@@ -183,7 +183,7 @@ The conclusion is essentially identical to gwern's:
 
 
 
-### Static sites
+## Static sites
 
 See [Long Content](http://www.gwern.net/About#long-content) by gwern:
 
@@ -195,39 +195,39 @@ Also many more websites use things like WordPress rather than static sites built
 So wonder: are you missing something that the "crowd" has?
 
 
-### More "advanced" content management systems like WordPress and MediaWiki
+## More "advanced" content management systems like WordPress and MediaWiki
 
 These tend to be very easy to install and use.
 See more at “[Choice of content management system](http://info.cognitomentoring.org/wiki/Creating_your_personal_website#Choice_of_content_management_system)” on the Cognito Mentoring wiki.
 
-### Google group
+## Google group
 
 See "[What are the advantages of a blog versus a Google group or email list?](ihttps://www.quora.com/What-are-the-advantages-of-a-blog-versus-a-Google-group-or-email-list)" on Quora.
 <!-- I have to investigate this more, though Google groups seem to not be very popular.-->
 
-### Mailing lists
+## Mailing lists
 
 Insufficient investigation.
 
 
-### Crossposting
+## Crossposting
 
 Crossposting content to different sites can be useful because different audiences respond differently to the same content.
 It's possible to just host the content on your website and drop a link for other sites, but keep in mind that people may be too lazy to click on a link if they don't know why it might be relevant for them.
 Including a quote or copy-pasting the whole article may be better.
 
 
-## Hosting options
+# Hosting options
 
 Some media (like blogs) allow the choice of whether to host the content oneself (e.g. using WordPress's software on one's own servers), or to post all content "on the cloud", i.e. on a third-party's servers (e.g. on [WordPress.com](https://wordpress.com)).
 We discuss the advantages and disadvantages of each.
 
-### Self-hosted
+## Self-hosted
 
 - Depends a lot on how knowledeable one is, although even if one isn't, it's a great learning opportunity.
 - Usually costs money, though there might be special opportunities like the [Student Developer Pack](https://education.github.com/pack).
 
-### Third-party
+## Third-party
 
 - If one isn't good about backing up one's content, then third-parties may do a better job serving your content.
 Alex K. Chen [likes to emphasize](https://www.quora.com/How-does-Alex-K-Chen-make-backups-of-his-content-on-Quora/answer/Alex-K-Chen) that everything on Quora will last: "I do trust Quora more than I can trust myself".
@@ -244,7 +244,7 @@ Alex K. Chen [likes to emphasize](https://www.quora.com/How-does-Alex-K-Chen-mak
     > * I cannot put up original work and original ideas
 
 
-## Topic ontology
+# Topic ontology
 
 This concerns things like a tagging system.
 
@@ -253,7 +253,7 @@ WordPress, which has both categories and tags, uses a tree structure for its cat
 Other implementations are similar; Hakyll tags are flat, for instance.
 
 
-## Searching
+# Searching
 
 Arguably people find your content most useful when they encounter it through a search; for instance Vipul Naik [writes](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics):
 
@@ -270,11 +270,11 @@ If one uses WordPress or a third-party site, then one doesn't need to spend any 
 For static sites, people will probably just use Google anyway, so spending time on navigation may not be worthwhile.
 
 
-## Voice
+# Voice
 
 The voice or style of writing isn't specific to sharing content online, but is nonetheless important to think about; we discuss some alternatives.
 
-### The "non-voice"
+## The "non-voice"
 
 It's very boring if the content is just in the form of "he said, she said", since (a) you sound less convincing because you're not saying what *you* think; (b) for instance on Quora, the answers are often opinion, so one must in each instance consider how reliable their answers are (and this may be seen as rude by some).
 
@@ -284,7 +284,7 @@ This style of writing tends to be factual, but unlike a "he said, she said" form
 
 Citing sources is also important.
 
-### Engaging, argumentative voice
+## Engaging, argumentative voice
 
 The epitomical example of this style is [Slate Star Codex](http://slatestarcodex.com/).
 If executed well, this style has the potential to "hook" the readers into reading more of what you write.
@@ -292,7 +292,7 @@ If executed well, this style has the potential to "hook" the readers into readin
 Paul Graham's [essays](http://paulgraham.com/essay.html) would probably fit under here as well.
 
 
-## The tree structure of a website
+# The tree structure of a website
 
 A website may be thought of as having a rooted [tree structure](ihttp://en.wikipedia.org/wiki/Tree_%28graph_theory%29); we look at this concept more closely here.
 
@@ -351,11 +351,11 @@ At the other extreme (i.e. the most depth), we can make a "math packages" contai
 proof  thmtools
 ````
 
-### Content length
+## Content length
 
 See for instance [this post](https://www.facebook.com/vipulnaik.r/posts/10202707831592850) by Vipul on Slate Star Codex being a blog with long posts.
 
-## Thinking about impact
+# Thinking about impact
 
 Here we consider how much impact writing online can make on the world.
 
@@ -386,7 +386,7 @@ Here we consider how much impact writing online can make on the world.
 
 - See [this post](https://www.facebook.com/vipulnaik.r/posts/10202884940740468) by Vipul Naik on whether academic research or blogging produces more social value.
 
-## Some remaining questions
+# Some remaining questions
 
 - The use of external links: is it a good idea to restrict the use of these so you can keep people on your site, and thus control how they see info?
 

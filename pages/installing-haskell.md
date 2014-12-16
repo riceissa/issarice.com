@@ -11,7 +11,7 @@ license: CC0
 - to get cabal, use [this](https://www.haskell.org/cabal/download.html).
 I had an older version of cabal already on my machine (1.20.0.0), so just deleted that from `~/.cabal/lib/i386-linux-ghc-7.4.1/` and then installed the new library. This way, `cabal-install` will use the new library (you can verify this with `cabal --version` once `cabal-install` is installed).
 
-## On a new machine
+# On a new machine
 
 This is how I would do it given a new Debian stable machine with no previous installations of Haskell.
 It's easy to just install `haskell-platform`, but this introduces an older version of cabal, which may or may not be annoying.
@@ -28,7 +28,7 @@ cabal update && cabal install cabal cabal-install alex happy
 
 
 
-## Pandoc
+# Pandoc
 
 Doing
 
@@ -51,7 +51,7 @@ ExitFailure 1
 Since I had some really old versions of Pandoc and cabal on my machine (from the Debian repositories), I just redefined my path with `$HOME/.cabal/bin` as the first item, so that the newer programs in there would take priority.
 
 
-## Hakyll
+# Hakyll
 
 did not work when I just did `cabal install hakyll`. I had to force install Pandoc again and then do `cabal install hakyll` once more. Strange...
 

@@ -10,7 +10,7 @@ tags: linux, openbsd, debian
 ---
 
 
-## Changing the Default Editor
+# Changing the Default Editor
 
 To change the default editor on Debian, run:
 
@@ -26,13 +26,13 @@ On other systems, the `$EDITOR` variable can be set:
     $ echo $EDITOR
     /usr/bin/vim
 
-## Convert from HTML to Plain Text
+# Convert from HTML to Plain Text
 
 To convert from HTML to plain text, just type:
 
     $ cat filename.html | sed 's/<[^>]*>//g' | tr -s '\n'
 
-## Wget (Recursive Download)
+# Wget (Recursive Download)
 
 Recursively download all text files to the current directory:
 
@@ -42,7 +42,7 @@ Or equivalently:
 
     $ wget -nd -nH -r -np -A txt ⟨URL⟩
 
-## Disable Bluetooth
+# Disable Bluetooth
 
 To disable Bluetooth, use [`rfkill`](http://linuxwireless.org/en/users/Documentation/rfkill).
 
@@ -68,7 +68,7 @@ Using the absolute path is recommended to avoid confusion.
 
 [Source](http://unix.stackexchange.com/questions/4761/how-to-ensure-the-bluetooth-is-switched-off-after-boot-up).
 
-## Hard Disk Drive Formatting (command line)
+# Hard Disk Drive Formatting (command line)
 
 Partitioning through the command line is split into two steps:
 
@@ -95,12 +95,12 @@ $ sudo vim /etc/fstab
 
 If you have it, [gparted](http://gparted.sourceforge.net/) also works well.
 
-## Formatting Text
+# Formatting Text
 
 You can use a pager like `less`, but if you want a better output, you can try the following commands.
 (You can even pipe the output to `less`!)
 
-### Using `fold`
+## Using `fold`
 
     $ cat ⟨filename⟩ | fold --spaces --width=72 | sed 's/\(.\)/    \1/' # four spaces
 
@@ -130,7 +130,7 @@ After using the above command (note that words are no longer cut off):
     deserunt mollit anim id est laborum.
 ~~~~
 
-### Using `par`
+## Using `par`
 
 If you have `par` you can use it instead:
 
@@ -150,17 +150,17 @@ After using `par`:
     mollit anim id est laborum.
 ~~~~
 
-## How to Tell If You’re in a Git Directory
+# How to Tell If You’re in a Git Directory
 
     $ git branch >/dev/null 2>/dev/null || echo not git; git branch >/dev/null 2>/dev/null && echo git
 
-## Debian Networking
+# Debian Networking
 
 To start a network in Debian, run:
 
     $ sudo dhclient eth0
 
-## Configure WiFi (command line)
+# Configure WiFi (command line)
 
 For more information, please see the [Arch Linux Wiki](https://wiki.archlinux.org/index.php/Wireless_Setup).
 
@@ -184,11 +184,11 @@ wpa-ssid ⟨NETWORKNAME⟩
 wpa-psk ⟨PASSWORD⟩
 ~~~~
 
-## Scan for WiFi Networks
+# Scan for WiFi Networks
 
     $ iwlist wlan0 scan
 
-## Sound Card Configuration
+# Sound Card Configuration
 
 Here is how to change the default sound card on Debian 6 “Squeeze”:
 
@@ -202,7 +202,7 @@ Try `alsaconf` if you don't know which sound card you have.
 
 [Source](http://alsa.opensrc.org/MultipleCards#The_newer_.22slots.3D.22_method)
 
-## `ww.sh`
+# `ww.sh`
 
 `ww.sh` is a small shell script that can be used to keep a log.
 
@@ -230,7 +230,7 @@ You can also alias the scipt to allow quick access:
 
     $ alias ww='⟨/path/to/ww.sh⟩'
 
-## OpenBSD Configuration Files
+# OpenBSD Configuration Files
 
 `rc.local`:
 
@@ -258,11 +258,11 @@ remove Lock = Caps_Lock
 keysym Caps_Lock = Escape
 ~~~~
 
-## Change urxvt Font
+# Change urxvt Font
 
     $ urxvt -fn "xft:Terminus:pixelsize=15"
 
-## Configure Mutt
+# Configure Mutt
 
 Make sure the file is not readable by anyone except you:
 

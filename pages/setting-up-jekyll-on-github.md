@@ -47,7 +47,7 @@ To generate the Jekyll site locally run:
 jekyll serve --watch --baseurl ""
 ```
 
-## Typesetting math
+# Typesetting math
 
 See [here](http://cwoebker.com/posts/latex-math-magic), [here](http://doswa.com/2011/07/20/mathjax-in-markdown.html), and [here](http://rangerway.com/way/2013/10/05/latex-note-and-jekyll/) for more (they should be identical).
 
@@ -94,7 +94,7 @@ $$\begin{aligned}
 
 (modified from Maxwell’s Equations as given [here](http://www.mathjax.org/demos/tex-samples/))
 
-## References
+# References
 
 - See [Thomas Bradley’s guide](https://github.com/algonquindesign/jekyll) (there are also video tutorials, which can be accessed from that page).
 

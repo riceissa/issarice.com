@@ -13,7 +13,7 @@ hour."
 The phrase "ceaseless interruptions" is also clever, but not very
 profound.
 
-## The essay
+# The essay
 
 During the first week of school, we were told that our bus had too many
 people, and the driver urged our stop to board another bus. She

@@ -12,7 +12,7 @@ tags: untagged
 
 Answering the question "What is it like to take math 134 at the University of Washington?"
 
-## Content
+# Content
 
 - epsilon delta definition of limit
 - hw in two parts

@@ -22,14 +22,14 @@ This page is also hosted on GitHub, so feel free to send corrections using pull 
 
 Note that even if you’re not logged in on Quora, adding `/?share=1` to the end of the URL allows you to view *all* answers, not just the first one.
 
-## Other lists of resources
+# Other lists of resources
 
 - The [University of Washington topic on Quora](https://www.quora.com/University-of-Washington) has a lot of information; in fact, most of the content linked to on this page is from here.
 
 
 - [Anonymous's Answer to University of Washington: What does your "Your Content" page for the University of Washington topic look like?](https://www.quora.com/University-of-Washington/What-does-your-Your-Content-page-for-the-University-of-Washington-topic-look-like/answers/5867915) has a lot of questions and answers.
 
-## General
+# General
 
 - [Alex K. Chen’s review of the University of Washington](https://www.quora.com/Reviews-of-University-of-Washington/review/Alex-K-Chen).
 
@@ -73,7 +73,7 @@ Christopher J. Su and Andrew J. Ho have answers.
 - [College freshmen meme](http://www.quickmeme.com/College-Freshman).
 See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Senior/).
 
-## For prefrosh
+# For prefrosh
 
 Applications for the University of Washington are accepted starting in October and until December 1 (though they may extend it for a day if their servers crash—but don't count on this).
 Then, decisions are mailed starting around March 15 (and you have until around May 1 to decide whether to attend).
@@ -83,13 +83,13 @@ After that, there are several events designed to welcome prospective students an
 
 - [What are the disadvantages of joining a First-year Interest Group (FIG) at the University of Washington?](https://www.quora.com/What-are-the-disadvantages-of-joining-a-First-year-Interest-Group-FIG-at-the-University-of-Washington)
 
-### Admitted Student Previews (~April)
+## Admitted Student Previews (~April)
 
 This event is hosted before decision day, and is designed to let prospective students decide whether they want to attend UW by walking around campus, meeting fellow admitted students, and so on.
 
 - [University of Washington: Is it worthwhile to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worthwhile-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
 
-### Advising and Orientation session (A&O) (June–August)
+## Advising and Orientation session (A&O) (June–August)
 
 This event occurs after decision day, and usually after high school is over.
 It is designed to welcome incoming freshmen (i.e. people who were accepted to UW and chose to attend there) by giving tours of the campus, allowing incoming freshmen to interact with each other, having them sign up for their fall-quarter courses, and so on.
@@ -101,7 +101,7 @@ I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-t
 
 - [University of Washington: How can freshmen make the most out of their advising and orientation sessions at the University of Washington?](https://www.quora.com/University-of-Washington/How-can-freshmen-make-the-most-out-of-their-advising-and-orientation-sessions-at-the-University-of-Washington)
 
-## Doing research
+# Doing research
 
 -   [How can high school students entering the University of Washington
     as freshmen gain experience in
@@ -111,7 +111,7 @@ I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-t
 
 - [What are the current exciting research projects at the University of Washington?](https://www.quora.com/What-are-the-current-exciting-research-projects-at-the-University-of-Washington)
 
-## Getting the most out of UW
+# Getting the most out of UW
 
 - [What do UW students wish they had known when they were freshmen?](https://www.quora.com/What-do-UW-students-wish-they-had-known-when-they-were-freshmen)
 
@@ -131,7 +131,7 @@ I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-t
 
 - [Alex K. Chen’s answer to What subjects should everyone be familiar with?](https://www.quora.com/What-subjects-should-everyone-be-familiar-with/answer/Alex-K-Chen)
 
-## Networking
+# Networking
 
 -   See Jonah and Vipul’s “[Using Facebook effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)” for reasons why Facebook might be useful in college.
 For profile photos, [Don’t Be Ugly By Accident!](http://blog.okcupid.com/index.php/dont-be-ugly-by-accident/) on OkTrends may be of interest.
@@ -169,7 +169,7 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 - The University of Washington does have [its own Facebook app](https://apps.facebook.com/uw_fbapp/) (maybe only for freshmen?), but I haven’t had much success with this yet.
 
-## Housing
+# Housing
 
 Unfortunately most of these questions don't have any answers yet, but they all have the potential to become useful resources in the future, so I will still put them here.
 
@@ -195,7 +195,7 @@ Unfortunately most of these questions don't have any answers yet, but they all h
 
 - [What is it like to live in Stevens Court?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Stevens-Court)
 
-## UW Honors
+# UW Honors
 
 <!-- internal tags: uwhons uw hons -->
 
@@ -209,7 +209,7 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 
 - I also highly recommend contacting one or more [UW Honors peer mentors](http://depts.washington.edu/uwhonors/community/mentors/list/); they were all very responsive to email when I contacted them.
 
-## Early entrance
+# Early entrance
 
 - Currently only Alex K. Chen has posted a review, but for a general overview see [Reviews of: University of Washington Academy for Young Scholars](https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars)
 
@@ -219,7 +219,7 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 
 - [University of Washington: What do other UW students think of UW early entrance students?](https://www.quora.com/University-of-Washington/What-do-other-UW-students-think-of-UW-early-entrance-students)
 
-## Computer science and engineering (CSE)
+# Computer science and engineering (CSE)
 
 - [What's the best path to follow as a freshman to enter the CS major?](https://www.quora.com/Whats-the-best-path-to-follow-as-a-freshman-to-enter-the-CS-major); related: [University of Washington: With four related AP subjects, how can I make sure that I get into UW CSE and also in a timely fashion?](https://www.quora.com/University-of-Washington/With-four-related-AP-subjects-how-can-I-make-sure-that-I-get-into-UW-CSE-and-also-in-a-timely-fashion)
 
@@ -238,7 +238,7 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 [What is it like to take the honors CSE 142/143 seminar (CSE 390) at the University of Washington?](https://www.quora.com/What-is-it-like-to-take-the-honors-CSE-142-143-seminar-CSE-390-at-the-University-of-Washington)
 
 
-## Atmospheric science
+# Atmospheric science
 
 - [What is it like to study Atmospheric Science at the University of Washington?](https://www.quora.com/What-is-it-like-to-study-Atmospheric-Science-at-the-University-of-Washington)
 In particular, Alex K. Chen says:
@@ -264,7 +264,7 @@ The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
 
 - This is slightly unrelated, but: [What are some good resources on astrobiology?](https://www.quora.com/What-are-some-good-resources-on-astrobiology) may be useful for those considering e.g. exoplanetary atmospheres.
 
-## Physics/Astronomy
+# Physics/Astronomy
 
 - [What is it like to study Physics at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Physics-at-the-University-of-Washington)
 
@@ -273,7 +273,7 @@ See also Denise Schmitz's answer [here](https://www.quora.com/What-is-it-like-to
 
 - [Alex K. Chen’s answer to What are some good websites and resources to learn about astronomy/astrophysics?](https://www.quora.com/What-are-some-good-websites-and-resources-to-learn-about-astronomy-astrophysics/answers/604575)
 
-## Math
+# Math
 
 - This question on Quora currently does not have extensive answers, but this may change in the future: [Why is applied math at the University of Washington top 10 in the nation while pure math is not even close to that?](https://www.quora.com/University-of-Washington/Why-is-applied-math-at-the-University-of-Washington-top-10-in-the-nation-while-pure-math-is-not-even-close-to-that)
 
@@ -281,7 +281,7 @@ See also Denise Schmitz's answer [here](https://www.quora.com/What-is-it-like-to
 
 - [How should a student independently studying math get help on exercises?](https://www.quora.com/How-should-a-student-independently-studying-math-get-help-on-exercises)
 
-## Chemistry
+# Chemistry
 
 - [University of Washington: What is it like to study Chemistry at UW?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Chemistry-at-UW)
 
@@ -299,7 +299,7 @@ Andrew J. Ho [has an answer](https://www.quora.com/What-are-the-best-physical-ch
 - [What are the best computational chemistry textbooks?](https://www.quora.com/What-are-the-best-computational-chemistry-textbooks)
 Both Sang Young Noh and Andrew J. Ho have answers.
 
-## Thinking about graduate school
+# Thinking about graduate school
 
 By now Quora might be the best source for information, although I'm not really knowledgeable on the subject.
 

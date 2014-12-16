@@ -10,17 +10,17 @@ tags: japan, linux
 ---
 
 
-## Upshot
+# Upshot
 
 - `uim-fep` seems to be the best option, on Bash.
 - Using Emacs is quite possibly the best way overall, even if you’re a hardcore Vim user (like me)
 
-### Things to add (it has been a while...):
+## Things to add (it has been a while...):
 
 - Where to place the config files?
 - Graphical Emacs has a setup wizard which produces its own config files (even for Japanese input); what did I do with those?
 
-## uim-fep
+# uim-fep
 
 (at the moment I forgot where I was supposed to place this...)
 
@@ -50,7 +50,7 @@ Also run `uim-pref-gtk` to get a graphical settings menu.
 - `Ctrl`-`i` is eaten up by Bash (since it seems to get confused with the tab character), so one cannot set it to use as one of the user-defined keys.
 
 
-## Emacs
+# Emacs
 
 I have the following in my `~/.emacs`.
 
@@ -71,7 +71,7 @@ Basic usage:
 2. Type `Ctrl`-`\` which prompts the user for an input method.
 3. Type `japanese-anthy`.
 
-## Packages to install (Debian)
+# Packages to install (Debian)
 
 - anthy-el, uim-anthy, uim-fep
 

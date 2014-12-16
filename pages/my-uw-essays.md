@@ -10,9 +10,9 @@ Note that I don't necessarily agree with all of what's said below anymore.
 
 Thanks to KL for the extensive feedback I received while writing these essays.
 
-## General admission essays
+# General admission essays
 
-### Personal Statement
+## Personal Statement
 
 **Prompt B. Tell us a story from your life, describing an experience that either demonstrates your character or helped to shape it.**
 
@@ -78,7 +78,7 @@ answer.
 
 Word count: 648/650.
 
-### Short Response
+## Short Response
 
 **Prompt 1. The University of Washington seeks to create a community of
 students richly diverse in cultural backgrounds, experiences, and
@@ -133,9 +133,9 @@ becomes something I want to do in high school, university, and beyond.
 
 Words: 488/500.
 
-## Honors essays
+# Honors essays
 
-### Interdisciplinarity essay
+## Interdisciplinarity essay
 
 **Honors 1. Why do you want to incorporate our interdisciplinary liberal
 arts curriculum into your undergraduate experience? What contributions
@@ -177,7 +177,7 @@ shared.
 
 300/300.
 
-### "Lost its meaning" essay
+## "Lost its meaning" essay
 
 **Honors 2. Identify a word or phrase in common use that you believe
 has, “lost its meaning.” Explain what you think accounts for the loss of
@@ -215,7 +215,7 @@ progress, and repeat *ad infinitum*!
 
 Words: 290/300.
 
-## Extracurriculars
+# Extracurriculars
 
 I believe these were limited to 100 words each.
 

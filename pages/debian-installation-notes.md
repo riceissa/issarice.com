@@ -5,7 +5,7 @@ tags: linux, debian
 
 We start from a base system.
 
-## Basic utilities
+# Basic utilities
 
 ~~~bash
 su
@@ -30,14 +30,14 @@ sudo aptitude install iceweasel-adblock-plus
 
 get vim config from here: https://github.com/riceissa/vim
 
-## Setting your Git info
+# Setting your Git info
 
 ~~~bash
 git config --global user.name "First Last"
 git config --global user.email "name@example.com"
 ~~~
 
-### Audio
+## Audio
 
 ```
 sudo aptitude install pulseaudio pavucontrol
@@ -46,7 +46,7 @@ sudo aptitude install pulseaudio pavucontrol
 Just make sure to log out or reboot; then audio should be working.
 
 
-### Installing Haskell
+## Installing Haskell
 
 See [this page](http://riceissa.com/installing-haskell).
 

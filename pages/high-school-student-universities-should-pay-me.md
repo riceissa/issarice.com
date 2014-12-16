@@ -11,13 +11,13 @@ tags: literary, fiction
 math: yes
 ...
 
-## Information
+# Information
 
 The following is a fake newspaper article I wrote anonymously, which was subsequently posted to the front wall of the IB history room during my senior year of high school.
 
 Thanks to KL, who generously provided feedback.
 
-## High school student: “Universities should pay me.”
+# High school student: “Universities should pay me.”
 
 <span style="font-variant:small-caps;">Kenmore</span>—An area high
 school student, unidentified, has announced to institutions of

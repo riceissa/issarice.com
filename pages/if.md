@@ -3,13 +3,13 @@ title: If
 tags: fiction, literary
 ...
 
-## Information
+# Information
 
 I think this is poorly written, but interesting nonetheless.
 To be more precise, I think the story does a good job of emulating some of the circular thoughts that occur in the minds of the depressed, but the exposition is too verbose (though perhaps rightfully so).
 I still sympathize greatly with the self that wrote this.
 
-## Story
+# Story
 
 If nothing else comes from writing this, then let it be known at least
 that I live today with complete fear of myself; it is not the fear like

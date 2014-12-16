@@ -5,7 +5,7 @@ tags: fiction, literary
 
 I wrote this at the beginning of senior year in English class.
 
-## The monologue
+# The monologue
 
 There he speculates on the footpath, a crude cleavage in the vast
 wilderness: and there he treads this delicate line. His movement is
