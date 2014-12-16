@@ -15,8 +15,15 @@ from tag_ontology import *
 pages_pat = "pages/*.md"
 pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
 
+# Copy css
+with open('css/minimal.css', 'r') as i, open('_site/css/minimal.css', 'w') as o:
+    x = i.read()
+    o.write(x)
+
 all_tags = []
 page_data = []
+
+# Make page for each page
 for page in pages_lst:
     #print "on page " + page
     output = c.run_command("pandoc -f markdown -t json {page}".format(page=str(page)))
@@ -26,11 +33,16 @@ for page in pages_lst:
     all_tags.extend(tags_lst)
     json_str = json.dumps(file_dict['json'], separators=(',',':'))
     body = to_unicode(c.run_command("pandoc -f json -t html --toc --template=templates/toc.html --mathjax --base-header-level=2", pipe_in=json_str))
+
+    inter = page.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+    write_to = page.route_with(my_route)
+
     ctx = Metadata(
         title = meta.get_metadata_field(json_lst, "title"),
         math = meta.get_metadata_field(json_lst, "math"),
         license = meta.get_metadata_field(json_lst, "license"),
         tags = tags_lst,
+        css = Filepath("css/minimal.css").relative_to(write_to).path
     )
 
     env = Environment(loader=FileSystemLoader('.'))
@@ -40,12 +52,10 @@ for page in pages_lst:
         tags.append({'name': tag, 'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir("tags/")).path)})
     print(tags)
     tags = sorted(tags, key=lambda t: t['name'])
-    final = skeleton.render(body=body, title=ctx.title, license=ctx.license, math=ctx.math, tags=ctx.tags)
-    inter = page.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
-    write_to = page.route_with(my_route).path
+    final = skeleton.render(body=body, title=ctx.title, license=ctx.license, math=ctx.math, tags=tags, css=ctx.css)
     page_data.append((ctx.title, inter, tags_lst))
 
-    with open(write_to, 'w') as f:
+    with open(write_to.path, 'w') as f:
         f.write(to_string(final))
 
 all_tags = list(set(all_tags))
