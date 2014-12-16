@@ -1,5 +1,5 @@
 ---
-title: High school student: “Universities should pay me.”
+title: "High school student: “Universities should pay me.”"
 description: 
 author: Issa Rice
 creation-date: 2014-11-02
