@@ -9,6 +9,10 @@ tag_synonyms = {
         ["ea", "effective altruism", "effectivealtruism"],
     "university-of-washington":
         ["uw", "uwashington", "university of washington"],
+    "computing":
+        ["hacking", "computers"],
+    "computer-science":
+        ["cs", "computer science"],
     "set-theory":
         ["set theory"],
     "lesswrong":
@@ -24,8 +28,6 @@ tag_synonyms = {
         ["atmos"],
     "chemistry":
         ["chem"],
-    "computer-science":
-        ["cs", "computer science"],
     "quantified-self":
         ["qs", "quantified self", "life logging", "life-logging",
         "sousveillance"],
@@ -47,16 +49,21 @@ tag_synonyms = {
 # is an OrderedDict so that the above works.)  It is also assumed here
 # that everything in tag_implications is standardized.
 tag_implications = OrderedDict([
+    ("halmos", ["math"]),
     ("hakyll", ["haskell"]),
     ("python", ["programming"]),
-    ("latex", ["linux"]),
+    ("latex", ["computing"]),
+    ("linux", ["computing"]),
+    ("pandoc", ["computing"]),
+    ("openbsd", ["computing"]),
     ("lesswrong", ["rationality"]),
     ("logic", ["math"]),
+    ("analysis", ["math"]),
     ("physics", ["science"]),
     ("atmospheric-sciences", ["science"]),
     ("astronomy", ["science"]),
     ("chemistry", ["science"]),
-    ("analysis", ["math"]),
     ("haskell", ["programming"]),
     ("depression", ["psychology"]),
+    ("programming", ["computing"]),
 ])
