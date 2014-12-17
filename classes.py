@@ -125,8 +125,8 @@ class Metadata(object):
     def __init__(
         self,
         title = "",
-        authors = [],
-        tags = [],
+        authors = ["Issa Rice"],
+        tags = ["untagged"],
         math = "True",
         license = "CC-BY",
         **kwargs
