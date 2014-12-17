@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Overview of Quantified Self
+title: Overview of quantified self
 comments: "yes"
 disqus-id: ed21e4a193dcf60da457f8371c6f8a83c1613fa6
 math: "no"
