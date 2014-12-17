@@ -142,7 +142,14 @@ class Metadata(object):
         else:
             self.math = math
         self.math = to_unicode(self.math)
-        self.license = to_unicode(license)
+        if license.upper() in ["CC0", "CC 0", "CC-0", "PUBLIC DOMAIN", "PD"]:
+            self.license = to_unicode(license)
+        elif license.upper() in ["CC BY", "CC-BY", "CCBY", "ATTRIBUTION"]:
+            self.license = to_unicode("CC-BY")
+        elif license.upper() in ["CC BY SA", "CC SA", "CC-BY-SA", "CC-SA", "SHARE ALIKE", "SHARE-ALIKE", "SHAREALIKE"]:
+            self.license = to_unicode("CC-BY-SA")
+        else:
+            self.license = to_unicode("CC-BY")
         for key in kwargs:
             self.__setattr__(key, to_unicode(kwargs[key]))
 
