@@ -118,6 +118,33 @@ Below are the parts the most resonated with me.
     > 
     > It's important for nerds to realize, too, that school is not life. School is a strange, artificial thing, half sterile and half feral. It's all-encompassing, like life, but it isn't the real thing. It's only temporary, and if you look, you can see beyond it even while you're still in it.
 
+### Peter Thiel
+
+From [this article](http://vator.tv/news/2014-11-22-peter-thiel-education-the-catholic-church-circa-1500) (HT Alex):
+
+> There is something very odd about a society where the most talented
+> people all get tracked towards the same elite colleges, where they end
+> up studying the same small number of subjects, and going to the same
+> small number of careers. And that strikes me as sort of a lack of
+> diversity in our thinking about the kinds of things people should be
+> doing. That's very limiting for our society as well as for those
+> students.
+
+From [this article]() (HT Alex again):
+
+> People thought they could only get saved by going to the Catholic church, just like people today believe that salvation involves getting a college diploma. And if you don’t  get a college diploma that you're going to go to hell.
+> \[...\]
+> The reform will come from outside the system and the question people
+> always have is, 'What does the next education system look like? What
+> will it be?' And I think, like what happened to the Catholic church
+> post 1500,  I think there isn't going to be a single new institution
+> that will replace it. And this, of course, was the disturbing message
+> of the 16th century was, the institution wasn't going to save you. You
+> have to figure out how to save yourself. And in a similar way there's
+> no education institution that will save you. Young people have to
+> figure it out on your own. And that is the last thing anybody wants to
+> hear.
+
 # Effective altruism
 
 [to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [here](/effective-altruism-links)]
