@@ -163,14 +163,21 @@ class Metadata(object):
     Represents the metadata of a file.
     '''
     def __init__(self, **kwargs):
+        seen = {
+            "title": False,
+            "authors": False,
+            "math": False,
+            "tags": False,
+            "license": False,
+        }
+        for k in kwargs.keys():
+            seen[to_string(k)] = False
         if "title" in kwargs.keys():
             self.title = to_unicode(kwargs['title'])
-        else:
-            self.title = ""
+            seen['title'] = True
         if "authors" in kwargs.keys():
             self.authors = [to_unicode(author) for author in kwargs['authors']]
-        else:
-            self.authors = ["Issa Rice"]
+            seen['authors'] = True
         if "math" in kwargs.keys():
             if type(kwargs['math']) is bool:
                 if kwargs['math']:
@@ -180,8 +187,7 @@ class Metadata(object):
             else:
                 self.math = kwargs['math']
             self.math = to_unicode(self.math)
-        else:
-            self.math = to_unicode("False")
+            seen['math'] = True
         if "license" in kwargs.keys():
             license = kwargs['license']
             # clean up license string
@@ -197,18 +203,22 @@ class Metadata(object):
             else:
                 # set default license to CC-BY
                 self.license = to_unicode("CC-BY")
-        else:
-            # set default license to CC-BY
-            self.license = to_unicode("CC-BY")
+            seen['license'] = True
         if "tags" in kwargs.keys():
             self.tags = [to_unicode(tag) for tag in kwargs['tags']]
-        else:
-            self.tags = [to_unicode("untagged")]
+            seen['tags'] = True
         for key in kwargs:
-            self.__setattr__(key, to_unicode(kwargs[key]))
+            if not seen[key]:
+                self.__setattr__(key, to_unicode(kwargs[key]))
 
     def __str__(self):
         return str(self.__dict__)
+
+    def __call__(self, **kwargs):
+        for key in kwargs:
+            self.__setattr__(key, to_unicode(kwargs[key]))
+
+default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[], license="CC-BY")
 
 class Page(object):
     '''
