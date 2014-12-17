@@ -165,15 +165,58 @@ There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 
 Some good quotes:
 
-> In order to get at you individually, I must talk in the first person. I have to get you to drop modesty and say to yourself, “Yes, I would like to do first-class work.” Our society frowns on people who set out to do really good work. You're not supposed to; luck is supposed to descend on you and you do great things by chance. Well, that's a kind of dumb thing to say. I say, why shouldn't you set out to do something significant. You don't have to tell other people, but shouldn't you say to yourself, “Yes, I would like to do something significant.”
+> In order to get at you individually, I must talk in the first person.
+> I have to get you to drop modesty and say to yourself, “Yes, I would
+> like to do first-class work.” Our society frowns on people who set out
+> to do really good work. You're not supposed to; luck is supposed to
+> descend on you and you do great things by chance. Well, that's a kind
+> of dumb thing to say. I say, why shouldn't you set out to do something
+> significant. You don't have to tell other people, but shouldn't you
+> say to yourself, “Yes, I would like to do something significant.”
 
 Another:
 
-> Another trait, it took me a while to notice. I noticed the following facts about people who work with the door open or the door closed. I notice that if you have the door to your office closed, you get more work done today and tomorrow, and you are more productive than most. But 10 years later somehow you don't know quite know what problems are worth working on; all the hard work you do is sort of tangential in importance. He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important. Now I cannot prove the cause and effect sequence because you might say, “The closed door is symbolic of a closed mind.” I don't know. But I can say there is a pretty good correlation between those who work with the doors open and those who ultimately do important things, although people who work with doors closed often work harder. Somehow they seem to work on slightly the wrong thing - not much, but enough that they miss fame.
+> Another trait, it took me a while to notice. I noticed the following
+> facts about people who work with the door open or the door closed. I
+> notice that if you have the door to your office closed, you get more
+> work done today and tomorrow, and you are more productive than most.
+> But 10 years later somehow you don't know quite know what problems are
+> worth working on; all the hard work you do is sort of tangential in
+> importance. He who works with the door open gets all kinds of
+> interruptions, but he also occasionally gets clues as to what the
+> world is and what might be important. Now I cannot prove the cause and
+> effect sequence because you might say, “The closed door is symbolic of
+> a closed mind.” I don't know. But I can say there is a pretty good
+> correlation between those who work with the doors open and those who
+> ultimately do important things, although people who work with doors
+> closed often work harder. Somehow they seem to work on slightly the
+> wrong thing - not much, but enough that they miss fame.
 
 And:
 
-> I started asking, “What are the important problems of your field?” And after a week or so, “What important problems are you working on?” And after some more time I came in one day and said, “If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at Bell Labs working on it?”
+> I started asking, “What are the important problems of your field?” And
+> after a week or so, “What important problems are you working on?” And
+> after some more time I came in one day and said, “If what you are
+> doing is not important, and if you don't think it is going to lead to
+> something important, why are you at Bell Labs working on it?”
+
+[Jeff Meyerson's answer to "How can I overcome the depression from being rejected by all the top tech companies I have applied to?"](https://www.quora.com/How-can-I-overcome-the-depression-from-being-rejected-by-all-the-top-tech-companies-I-have-applied-to/answer/Jeff-Meyerson?share=1) is particularly good:
+
+
+> **You need to build something.**
+>
+> Build a complicated, hulking four-month deliverable that nobody else
+> commissioned and that nobody else will care about. Make a game, or model
+> an elevator system, or an economic phenomenon. Put it on GitHub, but
+> don't expect anyone to look at it.
+>
+> You will learn so much, but that's not where the most value comes from.
+>
+> **Building something big insulates your ego.**
+>
+> If you have built and shipped something cool and unique on your own,
+> nobody can deny your identity as an engineer, even if you sometimes
+> forget how to find all the subsets of an int array that sum to k.
 
 # Expanding your imagination
 
@@ -194,3 +237,5 @@ How to ignore for example pressure to complete homework assignments?
 radical experimentation,
 how *little* people remember from lectures/class,
 opportunity cost of college.
+
+
