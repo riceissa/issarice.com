@@ -39,6 +39,8 @@ from classes import *
 from tag_ontology import *
 
 SITE_DIR = "_site/"
+# relative to SITE_DIR
+TAGS_DIR = "tags/"
 
 pages_pat = "pages/*.md"
 pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
@@ -78,7 +80,7 @@ for page in pages_lst:
     skeleton = env.get_template('templates/skeleton.html')
     tags = []
     for tag in ctx.tags:
-        tags.append({'name': tag, 'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir("tags/")).path)})
+        tags.append({'name': tag, 'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir(TAGS_DIR)).path)})
     tags = sorted(tags, key=lambda t: t['name'])
     final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css)
     page_data.append((ctx.title, inter, tags_lst))
@@ -95,10 +97,10 @@ for tag in all_tags:
         if tag in page_tuple[2]:
             pages.append({'title': to_unicode(page_tuple[0]), 'url': to_unicode("../" + page_tuple[1])})
     pages = sorted(pages, key=lambda t: t['title'])
-    write_to = Filepath(SITE_DIR + "tags/" + to_string(tag))
+    write_to = Filepath(SITE_DIR + TAGS_DIR + to_string(tag))
     ctx = Metadata(
         title = "Tag: " + tag,
-        css = Filepath("css/minimal.css").relative_to(Filepath("tags/" + to_string(tag))).path,
+        css = Filepath("css/minimal.css").relative_to(Filepath(TAGS_DIR + to_string(tag))).path,
         license = "cc0",
     )
     env = Environment(loader=FileSystemLoader('.'))
@@ -120,11 +122,11 @@ body = to_unicode(page_list.render(pages=pages))
 skeleton = env.get_template('templates/skeleton.html')
 ctx = Metadata(
     title = "All tags",
-    css = Filepath("css/minimal.css").relative_to(Filepath("tags/index")).path,
+    css = Filepath("css/minimal.css").relative_to(Filepath(TAGS_DIR + "index")).path,
     license = "cc0",
 )
 final = skeleton.render(page=ctx, body=body, css=ctx.css)
-with open(SITE_DIR + "tags/index", 'w') as f:
+with open(SITE_DIR + TAGS_DIR + "index", 'w') as f:
     f.write(to_string(final))
 
 # Make page with all pages
