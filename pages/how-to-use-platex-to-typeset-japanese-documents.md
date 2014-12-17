@@ -5,7 +5,7 @@ comments: "yes"
 disqus-id: 870d28e40a661cde90d2a1f30bb9d18cd987d023
 math: ""
 last-major-revision-date: 
-license: "CC-BY"
+license: cc0
 tags: japan, debian, latex, linux
 ---
 
@@ -118,11 +118,3 @@ One goal in writing this article was to provide some of the material available i
 
 * “ptetex3 のフォントの集中管理”. (Japanese.)
 <http://tutimura.ath.cx/ptetex/?%A5%D5%A5%A9%A5%F3%A5%C8%A4%CE%BD%B8%C3%E6%B4%C9%CD%FD>
-
-# License
-
-This document is licensed under the CC0 1.0 Universal license.  That is,
-“You can copy, modify, distribute and perform the work, even for
-commercial purposes, all without asking permission.” See [the license
-page](https://creativecommons.org/publicdomain/zero/1.0/) for more
-information.
