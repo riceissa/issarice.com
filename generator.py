@@ -25,7 +25,7 @@ page_data = []
 
 # Make page for each page
 for page in pages_lst:
-    #print "on page " + page
+    print("Processing " + str(page))
     output = c.run_command("pandoc -f markdown -t json {page}".format(page=str(page)))
     json_lst = json.loads(output)
     file_dict = meta.organize_tags(json_lst, tag_synonyms, tag_implications)
@@ -50,9 +50,7 @@ for page in pages_lst:
     tags = []
     for tag in ctx.tags:
         tags.append({'name': tag, 'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir("tags/")).path)})
-    print(tags)
     tags = sorted(tags, key=lambda t: t['name'])
-    print ctx.title
     final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css)
     page_data.append((ctx.title, inter, tags_lst))
 
@@ -62,6 +60,7 @@ for page in pages_lst:
 all_tags = list(set(all_tags))
 
 for tag in all_tags:
+    print("Processing tag page for " + tag)
     pages = []
     for page_tuple in page_data:
         if tag in page_tuple[2]:
@@ -81,6 +80,7 @@ for tag in all_tags:
         f.write(to_string(final))
 
 # Make page with all tags
+print("Creating page with all the tags")
 env = Environment(loader=FileSystemLoader('.'))
 page_list = env.get_template('templates/page-list.html')
 pages = [{'title': to_unicode(tag), 'url': to_unicode(tag)} for tag in all_tags]
@@ -95,6 +95,7 @@ with open("_site/tags/index", 'w') as f:
     f.write(to_string(final))
 
 # Make page with all pages
+print("Creating page with all the pages")
 env = Environment(loader=FileSystemLoader('.'))
 page_list = env.get_template('templates/page-list.html')
 pages = [{'title': to_unicode(page_tup[0]), 'url': to_unicode(page_tup[1])} for page_tup in page_data]
