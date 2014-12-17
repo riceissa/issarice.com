@@ -15,6 +15,7 @@ tag_synonyms = {
     "atmopsheric-sciences": ["atmos"],
     "chemistry": ["chem"],
     "computer-science": ["cs", "computer science"],
+    "quantified-self": ["qs", "quantified self", "life logging", "life-logging", "sousveillance"],
 }
 
 # List of tag implications to be used with imply_tags.  Below, (a, [b])
@@ -34,7 +35,6 @@ tag_implications = OrderedDict([
     ("hakyll", ["haskell"]),
     ("python", ["programming"]),
     ("latex", ["linux"]),
-    ("qs", ["quantified-self"]),
     ("lesswrong", ["rationality"]),
     ("logic", ["math"]),
     ("physics", ["science"]),
