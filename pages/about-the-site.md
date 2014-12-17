@@ -11,6 +11,7 @@ license: CC0
 
 This site is my attempt to execute gwern's idea of [Long Content](http://www.gwern.net/About#long-content).
 In particular, I strive to make all the internal files human-readable (by writing it in pandoc markdown), version-controlled (with git), and largely freely-licensed (so it will be copied, making the data safe).
+I also like to [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often); I actually don't deploy the site as often, but I try to commit to the git repository often---so my site is the result of many incremental updates.
 
 Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](http://riceissa.com/content-creation-the-organization-and-dissemination-of-knowledge#the-tree-structure-of-a-website) of this site.
 
