@@ -16,8 +16,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="{{ css }}" />
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
-  <title>{{ title }}</title>
-  {% if math|lower in ["yes", "true"] %}
+  <title>{{ page.title }}</title>
+  {% if page.math|lower in ["yes", "true"] %}
     <script type="text/javascript"
       src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
@@ -38,7 +38,7 @@
 {% include "templates/navbar.html" %}
 
 <div id="content">
-<h1>{{ title }}</h1>
+<h1>{{ page.title }}</h1>
 
 {{ body }}
 
@@ -54,7 +54,7 @@
 .</p>
 {% endif %}
 
-{% if license|upper in ["CC0", "CC 0"] %}
+{% if page.license|upper in ["CC0", "CC 0"] %}
 <hr />
 <p><a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is public domain.</p>
 {% elif license|upper in ["CC BY", "CC-BY", "CCBY"] %}
