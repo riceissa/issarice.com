@@ -9,9 +9,9 @@
     both Firefox and Chrome on a smartphone and tablet, but no
     extensive testing was involved.  The following links may be of
     use:
-        - http://css-tricks.com/snippets/html/responsive-meta-tag/
-        - http://stackoverflow.com/questions/1230019/how-to-set-viewport-meta-for-iphone-that-handles-rotation-properly
-        - http://blog.javierusobiaga.com/stop-using-the-viewport-tag-until-you-know-ho
+      - http://css-tricks.com/snippets/html/responsive-meta-tag/
+      - http://stackoverflow.com/questions/1230019/how-to-set-viewport-meta-for-iphone-that-handles-rotation-properly
+      - http://blog.javierusobiaga.com/stop-using-the-viewport-tag-until-you-know-ho
   -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="{{ css }}" />
@@ -56,9 +56,11 @@
 
 <hr />
 {% if page.license|upper in ["CC0", "CC 0"] %}
-<p><a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is public domain.</p>
+<p><a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is in the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.</p>
 {% elif page.license|upper in ["CC BY", "CC-BY", "CCBY"] %}
 <p><a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+{% elif page.license == "CC-BY-SA" %}
+<p><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 {% else %}
 <p>The licensing of this page is unknown.</p>
 {% endif %}
