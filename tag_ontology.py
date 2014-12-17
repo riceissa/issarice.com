@@ -5,17 +5,32 @@ from collections import OrderedDict
 # a tag can be spelled in multiple ways or has common abbreviations.
 # This should be used before doing tag implications.
 tag_synonyms = {
-    "effective-altruism": ["ea", "effective altruism", "effectivealtruism"],
-    "university-of-washington": ["uw", "uwashington", "university of washington"],
-    "set-theory": ["set theory"],
-    "lesswrong": ["lw", "less-wrong", "less wrong"],
-    "cognito-mentoring": ["cm", "cognito mentoring", "cognito"],
-    "math": ["maths", "mathematics"],
-    "link-collection": ["link collection", "resources", "links"],
-    "atmopsheric-sciences": ["atmos"],
-    "chemistry": ["chem"],
-    "computer-science": ["cs", "computer science"],
-    "quantified-self": ["qs", "quantified self", "life logging", "life-logging", "sousveillance"],
+    "effective-altruism":
+        ["ea", "effective altruism", "effectivealtruism"],
+    "university-of-washington":
+        ["uw", "uwashington", "university of washington"],
+    "set-theory":
+        ["set theory"],
+    "lesswrong":
+        ["lw", "less-wrong", "less wrong"],
+    "cognito-mentoring":
+        ["cm", "cognito mentoring", "cognito"],
+    "math":
+        ["maths", "mathematics"],
+    "links-collection":
+        ["links collection", "link-collection", "link collection",
+        "resources", "links"],
+    "atmopsheric-sciences":
+        ["atmos"],
+    "chemistry":
+        ["chem"],
+    "computer-science":
+        ["cs", "computer science"],
+    "quantified-self":
+        ["qs", "quantified self", "life logging", "life-logging",
+        "sousveillance"],
+    "psychology":
+        ["psych"],
 }
 
 # List of tag implications to be used with imply_tags.  Below, (a, [b])
