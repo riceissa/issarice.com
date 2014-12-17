@@ -28,6 +28,9 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 import os
+import json
+import metadata as meta
+import commands as c
 
 def to_unicode(string):
     if isinstance(string, str):
@@ -144,48 +147,88 @@ class Route(object):
             )
         return result
 
+class Tag(object):
+    '''
+    Represents a tag
+    '''
+    def __init__(self, name, pages=[]):
+        self.name = name
+        self.pages = pages
+
+    def __str__(self):
+        return self.name
+
 class Metadata(object):
     '''
     Represents the metadata of a file.
     '''
-    def __init__(
-        self,
-        title = "",
-        authors = ["Issa Rice"],
-        tags = ["untagged"],
-        math = "True",
-        license = "CC-BY",
-        **kwargs
-    ):
-        self.title = to_unicode(title)
-        self.authors = [to_unicode(author) for author in authors]
-        self.tags = [to_unicode(tag) for tag in tags]
-        if type(math) is bool:
-            if math:
-                self.math = "True"
-            else:
-                self.math = "False"
+    def __init__(self, **kwargs):
+        if "title" in kwargs.keys():
+            self.title = to_unicode(kwargs['title'])
         else:
-            self.math = math
-        self.math = to_unicode(self.math)
-        # clean up license string
-        for char in ' -':
-            license = license.replace(char, '')
-        license = license.upper()
-        if license in ["CC0", "PUBLICDOMAIN", "PD"]:
-            self.license = to_unicode(license)
-        elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
-            self.license = to_unicode("CC-BY")
-        elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
-            self.license = to_unicode("CC-BY-SA")
+            self.title = ""
+        if "authors" in kwargs.keys():
+            self.authors = [to_unicode(author) for author in kwargs['authors']]
+        else:
+            self.authors = ["Issa Rice"]
+        if "math" in kwargs.keys():
+            if type(kwargs['math']) is bool:
+                if kwargs['math']:
+                    self.math = "True"
+                else:
+                    self.math = "False"
+            else:
+                self.math = kwargs['math']
+            self.math = to_unicode(self.math)
+        else:
+            self.math = to_unicode("False")
+        if "license" in kwargs.keys():
+            license = kwargs['license']
+            # clean up license string
+            for char in ' -':
+                license = license.replace(char, '')
+            license = license.upper()
+            if license in ["CC0", "PUBLICDOMAIN", "PD"]:
+                self.license = to_unicode(license)
+            elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
+                self.license = to_unicode("CC-BY")
+            elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
+                self.license = to_unicode("CC-BY-SA")
+            else:
+                # set default license to CC-BY
+                self.license = to_unicode("CC-BY")
         else:
             # set default license to CC-BY
             self.license = to_unicode("CC-BY")
+        if "tags" in kwargs.keys():
+            self.tags = [to_unicode(tag) for tag in kwargs['tags']]
+        else:
+            self.tags = [to_unicode("untagged")]
         for key in kwargs:
             self.__setattr__(key, to_unicode(kwargs[key]))
 
     def __str__(self):
         return str(self.__dict__)
+
+class Page(object):
+    '''
+    Represents a page
+    '''
+    def __init__(self, origin, json=[], metadata=Metadata()):
+        if type(origin) is Filepath:
+            self.origin = origin
+        else:
+            self.origin = Filepath(origin)
+        self.json = json
+        self.metadata = metadata
+
+    def load(self):
+        '''
+        Load both raw and metadata
+        '''
+        output = c.run_command("pandoc -f markdown -t json {page}".format(page=self.origin.path))
+        self.json = json.loads(output)
+        self.metadata = Metadata(**meta.get_metadata_dict(self.json))
 
 @Route
 def drop_one_parent_dir_route(filepath):
