@@ -130,7 +130,7 @@ From [this article](http://vator.tv/news/2014-11-22-peter-thiel-education-the-ca
 > doing. That's very limiting for our society as well as for those
 > students.
 
-From [this article]() (HT Alex again):
+From [this article](http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-luther-of-education) (HT Alex again):
 
 > People thought they could only get saved by going to the Catholic church, just like people today believe that salvation involves getting a college diploma. And if you don’t  get a college diploma that you're going to go to hell.
 > \[...\]
