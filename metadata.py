@@ -42,6 +42,13 @@ def get_metadata_field(json_lst, field):
     except KeyError:
         return ''
 
+def get_metadata_dict(json_lst):
+    final = {}
+    x = json_lst[0]['unMeta']
+    for k in x.keys():
+        final[k] = get_metadata_field(json_lst, k)
+    return final
+
 def walk_metadata(x):
     '''
     x is a JSON dictionary of pandoc metadata
