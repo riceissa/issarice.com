@@ -42,7 +42,8 @@ for page in pages_lst:
         math = meta.get_metadata_field(json_lst, "math"),
         license = meta.get_metadata_field(json_lst, "license"),
         tags = tags_lst,
-        css = Filepath("css/minimal.css").relative_to(write_to).path
+        css = Filepath("css/minimal.css").relative_to(Filepath(inter)).path,
+        source = page.path,
     )
 
     env = Environment(loader=FileSystemLoader('.'))
@@ -66,17 +67,19 @@ for tag in all_tags:
         if tag in page_tuple[2]:
             pages.append({'title': to_unicode(page_tuple[0]), 'url': to_unicode("../" + page_tuple[1])})
     pages = sorted(pages, key=lambda t: t['title'])
+    write_to = Filepath("_site/tags/" + to_string(tag))
     ctx = Metadata(
         title = "Tag: " + tag,
+        css = Filepath("css/minimal.css").relative_to(Filepath("tags/" + to_string(tag))).path,
+        license = "cc0",
     )
-    write_to = "_site/tags/" + to_string(tag)
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
-    final = skeleton.render(body=body, page=ctx)
+    final = skeleton.render(body=body, page=ctx, css=ctx.css)
 
-    with open(write_to, 'w') as f:
+    with open(write_to.path, 'w') as f:
         f.write(to_string(final))
 
 # Make page with all tags
@@ -89,8 +92,10 @@ body = to_unicode(page_list.render(pages=pages))
 skeleton = env.get_template('templates/skeleton.html')
 ctx = Metadata(
     title = "All tags",
+    css = Filepath("css/minimal.css").relative_to(Filepath("tags/index")).path,
+    license = "cc0",
 )
-final = skeleton.render(page=ctx, body=body)
+final = skeleton.render(page=ctx, body=body, css=ctx.css)
 with open("_site/tags/index", 'w') as f:
     f.write(to_string(final))
 
@@ -104,7 +109,9 @@ body = page_list.render(pages=pages)
 skeleton = env.get_template('templates/skeleton.html')
 ctx = Metadata(
     title = "All pages on the site",
+    css = Filepath("css/minimal.css").relative_to(Filepath("all")).path,
+    license = "cc0",
 )
-final = skeleton.render(page=ctx, body=body)
+final = skeleton.render(page=ctx, body=body, css=ctx.css)
 with open("_site/all", 'w') as f:
     f.write(to_string(final))
