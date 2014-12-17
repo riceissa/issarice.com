@@ -52,7 +52,8 @@ for page in pages_lst:
         tags.append({'name': tag, 'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir("tags/")).path)})
     print(tags)
     tags = sorted(tags, key=lambda t: t['name'])
-    final = skeleton.render(body=body, title=ctx.title, license=ctx.license, math=ctx.math, tags=tags, css=ctx.css)
+    print ctx.title
+    final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css)
     page_data.append((ctx.title, inter, tags_lst))
 
     with open(write_to.path, 'w') as f:
@@ -67,14 +68,14 @@ for tag in all_tags:
             pages.append({'title': to_unicode(page_tuple[0]), 'url': to_unicode("../" + page_tuple[1])})
     pages = sorted(pages, key=lambda t: t['title'])
     ctx = Metadata(
-        title = "Tag page for " + tag,
+        title = "Tag: " + tag,
     )
     write_to = "_site/tags/" + to_string(tag)
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
-    final = skeleton.render(body=body, title=ctx.title)
+    final = skeleton.render(body=body, page=ctx)
 
     with open(write_to, 'w') as f:
         f.write(to_string(final))
@@ -86,7 +87,10 @@ pages = [{'title': to_unicode(tag), 'url': to_unicode(tag)} for tag in all_tags]
 pages = sorted(pages, key=lambda t: t['title'])
 body = to_unicode(page_list.render(pages=pages))
 skeleton = env.get_template('templates/skeleton.html')
-final = skeleton.render(title=to_unicode("All tags"), body=body)
+ctx = Metadata(
+    title = "All tags",
+)
+final = skeleton.render(page=ctx, body=body)
 with open("_site/tags/index", 'w') as f:
     f.write(to_string(final))
 
@@ -97,6 +101,9 @@ pages = [{'title': to_unicode(page_tup[0]), 'url': to_unicode(page_tup[1])} for 
 pages = sorted(pages, key=lambda t: t['title'])
 body = page_list.render(pages=pages)
 skeleton = env.get_template('templates/skeleton.html')
-final = skeleton.render(title=to_unicode("All pages on the site"), body=body)
+ctx = Metadata(
+    title = "All pages on the site",
+)
+final = skeleton.render(page=ctx, body=body)
 with open("_site/all", 'w') as f:
     f.write(to_string(final))
