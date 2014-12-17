@@ -59,11 +59,11 @@ for page_path in pages_lst:
     print("Processing " + str(page.origin))
     page.load()
     print page.metadata
-    json_lst = page.json
-    file_dict = meta.organize_tags(json_lst, tag_synonyms, tag_implications)
-    tags_lst = meta.get_tags(file_dict['json'])
+    page.json = meta.organize_tags(page.json, tag_synonyms, tag_implications)
+    page.metadata.update_with(meta.get_metadata_dict(page.json))
+    tags_lst = page.metadata.tags
     all_tags.extend(tags_lst)
-    json_str = json.dumps(file_dict['json'], separators=(',',':'))
+    json_str = json.dumps(page.json, separators=(',',':'))
     body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --mathjax --base-header-level=2", pipe_in=json_str))
 
     inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
