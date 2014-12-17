@@ -38,11 +38,13 @@ import metadata as meta
 from classes import *
 from tag_ontology import *
 
+SITE_DIR = "_site/"
+
 pages_pat = "pages/*.md"
 pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
 
 # Copy css
-with open('css/minimal.css', 'r') as i, open('_site/css/minimal.css', 'w') as o:
+with open('css/minimal.css', 'r') as i, open(SITE_DIR + 'css/minimal.css', 'w') as o:
     x = i.read()
     o.write(x)
 
@@ -93,7 +95,7 @@ for tag in all_tags:
         if tag in page_tuple[2]:
             pages.append({'title': to_unicode(page_tuple[0]), 'url': to_unicode("../" + page_tuple[1])})
     pages = sorted(pages, key=lambda t: t['title'])
-    write_to = Filepath("_site/tags/" + to_string(tag))
+    write_to = Filepath(SITE_DIR + "tags/" + to_string(tag))
     ctx = Metadata(
         title = "Tag: " + tag,
         css = Filepath("css/minimal.css").relative_to(Filepath("tags/" + to_string(tag))).path,
@@ -122,7 +124,7 @@ ctx = Metadata(
     license = "cc0",
 )
 final = skeleton.render(page=ctx, body=body, css=ctx.css)
-with open("_site/tags/index", 'w') as f:
+with open(SITE_DIR + "tags/index", 'w') as f:
     f.write(to_string(final))
 
 # Make page with all pages
@@ -139,5 +141,5 @@ ctx = Metadata(
     license = "cc0",
 )
 final = skeleton.render(page=ctx, body=body, css=ctx.css)
-with open("_site/all", 'w') as f:
+with open(SITE_DIR + "all", 'w') as f:
     f.write(to_string(final))
