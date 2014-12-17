@@ -142,16 +142,24 @@ class Metadata(object):
         else:
             self.math = math
         self.math = to_unicode(self.math)
-        if license.upper() in ["CC0", "CC 0", "CC-0", "PUBLIC DOMAIN", "PD"]:
+        # clean up license string
+        for char in ' -':
+            license = license.replace(char, '')
+        license = license.upper()
+        if license in ["CC0", "PUBLICDOMAIN", "PD"]:
             self.license = to_unicode(license)
-        elif license.upper() in ["CC BY", "CC-BY", "CCBY", "ATTRIBUTION"]:
+        elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
             self.license = to_unicode("CC-BY")
-        elif license.upper() in ["CC BY SA", "CC SA", "CC-BY-SA", "CC-SA", "SHARE ALIKE", "SHARE-ALIKE", "SHAREALIKE"]:
+        elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
             self.license = to_unicode("CC-BY-SA")
         else:
+            # set default license to CC-BY
             self.license = to_unicode("CC-BY")
         for key in kwargs:
             self.__setattr__(key, to_unicode(kwargs[key]))
+
+    def __str__(self):
+        return str(self.__dict__)
 
 @Route
 def drop_one_parent_dir_route(filepath):
