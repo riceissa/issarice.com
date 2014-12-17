@@ -38,15 +38,6 @@ h2 {
     border-bottom: 1px solid #93a1a1; /* base1 */
 }
 
-/* See http://webtypography.net/2.3.2 */
-p {
-    margin-bottom: 0;
-}
-p + p {
-    text-indent: 1em;
-    margin-top: 0;
-}
-
 hr {
     border: 0 none;
     border-top: 2px solid #93a1a1; /* base1 */
