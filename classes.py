@@ -214,9 +214,19 @@ class Metadata(object):
     def __str__(self):
         return str(self.__dict__)
 
+    def update_with(self, other):
+        if type(other) is not Metadata:
+            raise TypeError("you must update_with another metadata object")
+        self.__init__(**other.__dict__)
+
     def __call__(self, **kwargs):
-        for key in kwargs:
-            self.__setattr__(key, to_unicode(kwargs[key]))
+        self.__init__(**kwargs)
+        #for key in kwargs:
+            #print "setting {key} to {val}".format(key=key, val=kwargs[key])
+            #if key == "tags":
+                #self.__setattr__(key, kwargs[key])
+            #else:
+                #self.__setattr__(key, to_unicode(kwargs[key]))
 
 default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[], license="CC-BY")
 
