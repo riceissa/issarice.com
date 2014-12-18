@@ -21,5 +21,5 @@ I also do work on the [cause prioritization wiki](http://causeprioritization.org
 - [Notes on Linux](./tags/linux)
 - [Notes on math](./tags/math)
 - [My Quora answers](./my-quora-answers)
-- A sample of my literary creations is available [here](./tags/literary); don't take these [too seriously](http://www.gwern.net/Mistakes#fiction)
+- A sample of my literary creations is available [here](./tags/literary); these should not be taken [too seriously](http://www.gwern.net/Mistakes#fiction)
 - One can also view a list of all tags [here](./tags/index) and a list of all pages [here](./all).
