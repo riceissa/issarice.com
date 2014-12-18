@@ -18,7 +18,7 @@ Some pages:
 - “[Content creation: the organization and dissemination of knowledge](./content-creation-the-organization-and-dissemination-of-knowledge)” documents my ongoing research on whether publishing content online impacts the world, and how to do it effectively.
 - I am very slowly trying to catalog broad areas of the effective altruism movement [here](./effective-altruism-links).
 I also do work on the [cause prioritization wiki](http://causeprioritization.org).
-- [Notes on Linux](./tags/linux)
+- [Notes on computing](./tags/computing) (Linux, programming, etc.)
 - [Notes on math](./tags/math)
 - [My Quora answers](./my-quora-answers)
 - A sample of my literary creations is available [here](./tags/literary); these should not be taken [too seriously](http://www.gwern.net/Mistakes#fiction)
