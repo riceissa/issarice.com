@@ -156,7 +156,7 @@ def create_page_with_all_tags():
         css = Filepath("css/minimal.css").relative_to(Filepath(TAGS_DIR + "index")).path,
         license = "cc0",
     )
-    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
+    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
     if not os.path.exists(SITE_DIR + TAGS_DIR):
         os.makedirs(SITE_DIR + TAGS_DIR)
     with open(SITE_DIR + TAGS_DIR + "index", 'w') as f:
