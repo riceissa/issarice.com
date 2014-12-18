@@ -228,34 +228,8 @@ See for instance [this post](https://www.facebook.com/vipulnaik.r/posts/10202707
 
 # Thinking about impact
 
-Here we consider how much impact writing online can make on the world.
-
-- See [What's the relative social value of 1 Quora pageview (as measured by Quora stats http://www.quora.com/stats) and 1 Wikipedia pageview (as measured at, say, Wikipedia article traffic statistics)?](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics) for a comparison of Quora and Wikipedia.
-
-- Easily-accessible online content can be useful for oneself; Terence Tao [says](http://terrytao.wordpress.com/career-advice/write-down-what-youve-done/):
-
-    > There were many occasions early in my career when I read, heard
-    > about, or stumbled upon some neat mathematical trick or argument,
-    > and thought I understood it well enough that I didn’t need to
-    > write it down; and then, say six months later, when I actually
-    > needed to recall that trick, I couldn’t reconstruct it at all.
-    > Eventually I resolved to write down (preferably on a computer) a
-    > sketch of any interesting argument I came across – not necessarily
-    > at a publication level of quality, but detailed enough that I
-    > could then safely forget about the details, and readily recover
-    > the argument from the sketch whenever the need arises.
-
-- Within mathematics, [Terence Tao argues](http://terrytao.wordpress.com/career-advice/make-your-work-available/) that sharing online helps with networking:
-
-    > In particular, your work will show up in search engine queries in
-    > your topic (I have come across many an interesting paper this
-    > way). This will help spread awareness of you and your work among
-    > your colleagues, and hopefully lead to future collaborations, or
-    > other people building upon (and citing) your papers.
-
-- See [this post](https://www.facebook.com/vipulnaik.r/posts/10202840266223633) by Vipul Naik on whether there is low-hanging fruit for encouraging young people to work on side projects, including web content creation.
-
-- See [this post](https://www.facebook.com/vipulnaik.r/posts/10202884940740468) by Vipul Naik on whether academic research or blogging produces more social value.
+One can ask whether content creation has any lasting value---especially when done by people online (i.e. not through a publisher).
+See [The value of content creation](./the-value-of-content-creation) for more.
 
 # Some remaining questions
 
