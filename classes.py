@@ -263,7 +263,7 @@ class Page(object):
         '''
         Load both raw and metadata
         '''
-        output = c.run_command("pandoc -f markdown -t json {page}".format(page=self.origin.path))
+        output = c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path))
         self.json = json.loads(output)
         self.metadata = Metadata(**meta.get_metadata_dict(self.json))
 
