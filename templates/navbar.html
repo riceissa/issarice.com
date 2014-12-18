@@ -5,9 +5,9 @@
     for how the div elements are managed.
   -->
   <div style="float:left;">
-    <a href="/index">Home</a>
-    | <a href="/about-me#contact">Contact</a>
-    | View <a href="https://github.com/riceissa/riceissa.com">website source</a>{% if page.source %} or <a href="https://raw.githubusercontent.com/riceissa/riceissa.com/master/{{ page.source }}">page source</a>{% endif %} (<a href="/information-regarding-website-source-and-page-source">note</a>)
+    <a href="{{ path }}index">Home</a>
+    | <a href="{{ path }}about-me#contact">Contact</a>
+    | View <a href="https://github.com/riceissa/riceissa.com">website source</a>{% if page.source %} or <a href="https://raw.githubusercontent.com/riceissa/riceissa.com/master/{{ page.source }}">page source</a>{% endif %} (<a href="{{ path }}information-regarding-website-source-and-page-source">note</a>)
   </div>
   <div style="float:right;">
     <!--
