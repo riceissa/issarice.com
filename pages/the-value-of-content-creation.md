@@ -12,7 +12,7 @@ tags: untagged
 
 Here we consider how much impact writing online can make on the world.
 
-See [What's the relative social value of 1 Quora pageview (as measured by Quora stats http://www.quora.com/stats) and 1 Wikipedia pageview (as measured at, say, Wikipedia article traffic statistics)?](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics) for a comparison of Quora and Wikipedia.
+# Value for the creator
 
 Easily-accessible online content can be useful for oneself; Terence Tao [says](http://terrytao.wordpress.com/career-advice/write-down-what-youve-done/):
 
@@ -35,6 +35,8 @@ Within mathematics, [Terence Tao argues](http://terrytao.wordpress.com/career-ad
 > your colleagues, and hopefully lead to future collaborations, or
 > other people building upon (and citing) your papers.
 
+# Value for the world
+
 See [this post](https://www.facebook.com/vipulnaik.r/posts/10202840266223633) by Vipul Naik on whether there is low-hanging fruit for encouraging young people to work on side projects, including web content creation.
 
 See [this post](https://www.facebook.com/vipulnaik.r/posts/10202884940740468) by Vipul Naik on whether academic research or blogging produces more social value.
@@ -46,3 +48,6 @@ See also Robert Winslow's answer to the Quora question "[What do effective altru
 > spending that time on a high-impact career, but spending your leisure
 > time on valuable content creation seems like an okay idea, especially
 > if you can provide a unique contribution with your content.
+
+See [What's the relative social value of 1 Quora pageview (as measured by Quora stats http://www.quora.com/stats) and 1 Wikipedia pageview (as measured at, say, Wikipedia article traffic statistics)?](https://www.quora.com/Whats-the-relative-social-value-of-1-Quora-pageview-as-measured-by-Quora-stats-http-www-quora-com-stats-and-1-Wikipedia-pageview-as-measured-at-say-Wikipedia-article-traffic-statistics) for a comparison of Quora and Wikipedia.
+
