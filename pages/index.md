@@ -23,3 +23,4 @@ I also do work on the [cause prioritization wiki](http://causeprioritization.org
 - [Notes on math](./tags/math)
 - [My Quora answers](./my-quora-answers)
 - A sample of my literary creations is available [here](./tags/literary); don't take these [too seriously](http://www.gwern.net/Mistakes#fiction)
+- One can also view a list of all tags [here](./tags) and a list of all pages [here](./all).
