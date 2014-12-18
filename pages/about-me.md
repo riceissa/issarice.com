@@ -24,7 +24,7 @@ the free content movement (so things like copyleft and the [Creative Commons](ht
 the free software movement,
 typography (though mostly just with LaTeX and this website),
 pure math (formal logic and set theory, though my knowledge here is not very advanced at this point),
-and the [organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge).
+and the [organization and dissemination of knowledge](./content-creation-the-organization-and-dissemination-of-knowledge).
 
 I am also passionate about the unschooling movement (see [Education Reform and Disruption](https://www.quora.com/Education-Reform-and-Disruption) and [my answer](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice) to “What would Noam Chomsky think of unschooling?” on Quora for more), and occasionally contribute to the Cognito Mentoring info wiki (a resource designed to help students who are intellectually curious but are frustrated with traditional schooling); see [here](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa) for my contributions.
 
