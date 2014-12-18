@@ -18,13 +18,13 @@ Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the
 
 # Colophon
 
-For the sake of transparency, we list below the tools used to run this site.
+Here are the tools used to build and run this site.
 
 Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdown syntax](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown).
-The source markdown file for each page can be accessed by clicking “page source” at the top of that page.
-The markdown files are then compiled to HTML using [Hakyll](http://jaspervdj.be/hakyll/)[^hak], a static site generator[^ssglist] written in Haskell.
+For each page that was manually written, the source markdown file can be accessed by clicking “page source” at the top of that page.
+The markdown files are then compiled to HTML using a static site generator I wrote, which is stored in [`generator.py`](https://github.com/riceissa/riceissa.com/blob/master/generator.py) in the repository[^ssglist].
 
-The CSS for this site is compressed by Hakyll, but the uncompressed version is available [here](https://github.com/riceissa/riceissa.com/blob/master/css/minimal.css); it uses [Ethan Schoonover](http://ethanschoonover.com/)’s light [solarized theme](http://ethanschoonover.com/solarized), as well as taking hints from various places like [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s documentation pages.
+The CSS for this site uses [Ethan Schoonover](http://ethanschoonover.com/)’s light [solarized theme](http://ethanschoonover.com/solarized) as well as small ideas from various places like [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s (old) documentation pages.
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can visit the repository [here](https://github.com/riceissa/riceissa.com) or by clicking “website source” at the top of any page.
@@ -34,9 +34,8 @@ I currently use the [Linode 1GB \$10 per month plan](https://www.linode.com/pric
 
 I have registered the domains [riceissa.com](http://riceissa.com) and [issarice.com](http://issarice.com) through [Hover](https://www.hover.com/).
 
-[^hak]: I should eventually write out the details of this, and explain what goes into the `site.hs` file.
-
-[^ssglist]: A list of all static site generators can be found [here](http://staticsitegenerators.net/).
+[^ssglist]: Although the static site generator I wrote is freely licensed, I don't recommend that others use it (at least for now); it is somewhat of a hack that I put together to get some features I wanted working (but found lacking in other static site generators).
+Instead, one can find a list of many static site generators [here](http://staticsitegenerators.net/).
 
 # Getting updates
 
