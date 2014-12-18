@@ -153,6 +153,4 @@ def organize_tags(json_lst, tag_synonyms, tag_implications):
     tags_dict = json_lst[0]['unMeta'].get('tags', {})
     tags_dict['t'] = 'MetaList'
     tags_dict['c'] = pack_tags(tags)
-    return {'json': json_lst,
-            'tags': keep_tags}
-
+    return json_lst
