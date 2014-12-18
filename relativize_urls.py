@@ -32,7 +32,8 @@ def relativize_urls_filter(key, value, format, meta):
                 actual_link = "./" + actual_link
             return Link(value[0], [actual_link, value[1][1]])
 
-#def relativize_urls(json_lst, ):
+def relativize_urls(json_lst, link_from):
+    return walk(json_lst, relativize_urls_filter, "", "")
 
 if __name__ == "__main__":
     toJSONFilter(relativize_urls_filter)
