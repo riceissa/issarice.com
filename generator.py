@@ -45,6 +45,8 @@ pages_pat = "pages/*.md"
 pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
 
 # Copy css
+if not os.path.exists(SITE_DIR + "css/"):
+    os.makedirs(SITE_DIR + "css/")
 with open('css/minimal.css', 'r') as i, open(SITE_DIR + 'css/minimal.css', 'w') as o:
     x = i.read()
     o.write(x)
@@ -88,6 +90,9 @@ for page_path in pages_lst:
     final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css, path="./")
     page_data.append((ctx.title, inter, tags_lst)) # to be used later
 
+    if not os.path.exists(SITE_DIR):
+        os.makedirs(SITE_DIR)
+
     with open(write_to.path, 'w') as f:
         f.write(to_string(final))
 
@@ -111,40 +116,52 @@ for tag in all_tags:
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
     final = skeleton.render(body=body, page=ctx, css=ctx.css, path="../")
-
+    if not os.path.exists(SITE_DIR + TAGS_DIR):
+        os.makedirs(SITE_DIR + TAGS_DIR)
     with open(write_to.path, 'w') as f:
         f.write(to_string(final))
 
 # Make page with all tags
-print("Creating page with all the tags")
-env = Environment(loader=FileSystemLoader('.'))
-page_list = env.get_template('templates/page-list.html')
-pages = [{'title': to_unicode(tag), 'url': to_unicode(tag)} for tag in all_tags]
-pages = sorted(pages, key=lambda t: t['title'])
-body = to_unicode(page_list.render(pages=pages))
-skeleton = env.get_template('templates/skeleton.html')
-ctx = Metadata(
-    title = "All tags",
-    css = Filepath("css/minimal.css").relative_to(Filepath(TAGS_DIR + "index")).path,
-    license = "cc0",
-)
-final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
-with open(SITE_DIR + TAGS_DIR + "index", 'w') as f:
-    f.write(to_string(final))
+def create_page_with_all_tags():
+    global all_tags
+    print("Creating page with all the tags")
+    env = Environment(loader=FileSystemLoader('.'))
+    page_list = env.get_template('templates/page-list.html')
+    pages = [{'title': to_unicode(tag), 'url': to_unicode(tag)} for tag in all_tags]
+    pages = sorted(pages, key=lambda t: t['title'])
+    body = to_unicode(page_list.render(pages=pages))
+    skeleton = env.get_template('templates/skeleton.html')
+    ctx = Metadata(
+        title = "All tags",
+        css = Filepath("css/minimal.css").relative_to(Filepath(TAGS_DIR + "index")).path,
+        license = "cc0",
+    )
+    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
+    if not os.path.exists(SITE_DIR + TAGS_DIR):
+        os.makedirs(SITE_DIR + TAGS_DIR)
+    with open(SITE_DIR + TAGS_DIR + "index", 'w') as f:
+        f.write(to_string(final))
+
+create_page_with_all_tags()
 
 # Make page with all pages
-print("Creating page with all the pages")
-env = Environment(loader=FileSystemLoader('.'))
-page_list = env.get_template('templates/page-list.html')
-pages = [{'title': to_unicode(page_tup[0]), 'url': to_unicode(page_tup[1])} for page_tup in page_data]
-pages = sorted(pages, key=lambda t: t['title'])
-body = page_list.render(pages=pages)
-skeleton = env.get_template('templates/skeleton.html')
-ctx = Metadata(
-    title = "All pages on the site",
-    css = Filepath("css/minimal.css").relative_to(Filepath("all")).path,
-    license = "cc0",
-)
-final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
-with open(SITE_DIR + "all", 'w') as f:
-    f.write(to_string(final))
+def create_page_with_all_pages():
+    global page_data
+    print("Creating page with all the pages")
+    env = Environment(loader=FileSystemLoader('.'))
+    page_list = env.get_template('templates/page-list.html')
+    pages = [{'title': to_unicode(page_tup[0]), 'url': to_unicode(page_tup[1])} for page_tup in page_data]
+    pages = sorted(pages, key=lambda t: t['title'])
+    body = page_list.render(pages=pages)
+    skeleton = env.get_template('templates/skeleton.html')
+    ctx = Metadata(
+        title = "All pages on the site",
+        css = Filepath("css/minimal.css").relative_to(Filepath("all")).path,
+        license = "cc0",
+    )
+    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
+    if not os.path.exists(SITE_DIR):
+        os.makedirs(SITE_DIR)
+    with open(SITE_DIR + "all", 'w') as f:
+        f.write(to_string(final))
+create_page_with_all_pages()
