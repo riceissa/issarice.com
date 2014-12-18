@@ -63,8 +63,7 @@ for page_path in pages_lst:
     page.metadata.update_with(meta.get_metadata_dict(page.json))
     tags_lst = page.metadata.tags
     all_tags.extend(tags_lst)
-    json_str = json.dumps(page.json, separators=(',',':'))
-    body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --mathjax --base-header-level=2", pipe_in=json_str))
+    body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --mathjax --base-header-level=2", pipe_in=json.dumps(page.json, separators=(',',':'))))
 
     inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
     write_to = page.origin.route_with(my_route)
@@ -78,10 +77,7 @@ for page_path in pages_lst:
     ctx = Metadata(**default_metadata.__dict__)
     ctx.update_with(page.metadata)
     ctx.update_with(ctxp)
-    #page.metadata(**default_metadata.__dict__)(**ctxp.__dict__)
-    #ctx = page.metadata
     print ctx
-    print default_metadata
 
     env = Environment(loader=FileSystemLoader('.'))
     skeleton = env.get_template('templates/skeleton.html')
@@ -90,7 +86,11 @@ for page_path in pages_lst:
         tags.append({'name': tag, 'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir(TAGS_DIR)).path)})
     tags = sorted(tags, key=lambda t: t['name'])
     final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css)
-    page_data.append((ctx.title, inter, tags_lst))
+    page_data.append((ctx.title, inter, tags_lst)) # to be used later
+    #command = "pandoc -f html -t json | python relativize_urls.py {origin} | pandoc -f json -t html".format(origin=page.origin.route_with(my_route).route_with(drop_one_parent_dir_route))
+    final = c.run_command("pandoc -s --parse-raw -f html -t json", pipe_in=to_string(final))
+    final = c.run_command("python relativize_urls.py index", pipe_in=to_string(final))
+    final = c.run_command("pandoc --parse-raw -f json -t html", pipe_in=to_string(final))
 
     with open(write_to.path, 'w') as f:
         f.write(to_string(final))
