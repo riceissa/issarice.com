@@ -33,6 +33,9 @@ import metadata as meta
 import commands as c
 
 def to_unicode(string):
+    '''
+    Convert a string, bool, or unicode to a unicode object.
+    '''
     if isinstance(string, str):
         return string.decode('utf-8')
     if isinstance(string, bool):
@@ -42,10 +45,15 @@ def to_unicode(string):
             return "False".decode('utf-8')
     if isinstance(string, unicode):
         return string
+    if isinstance(string, type(None)):
+        return "".decode('utf-8')
     else:
-        return "".decode("utf-8")
+        raise TypeError("to_unicode cannot convert something that isn't a string, unicode, or bool; type was {t}".format(t=type(string)))
 
 def to_string(unic):
+    '''
+    Convert a string, bool, or unicode to a string.
+    '''
     if isinstance(unic, unicode):
         return unic.encode('utf-8')
     if isinstance(unic, bool):
@@ -56,9 +64,13 @@ def to_string(unic):
     if isinstance(unic, str):
         return unic
     else:
-        return ""
+        raise TypeError("to_string cannot convert something that isn't a string, unicode, or bool")
 
 def split_path(path):
+    '''
+    Take a path(str) and return a list where each element is one
+    directory.
+    '''
     # See http://stackoverflow.com/a/15050936/3422337
     a, b = os.path.split(path)
     return (split_path(a) if len(a) and len(b) else []) + [b]
@@ -215,9 +227,12 @@ class Metadata(object):
         return str(self.__dict__)
 
     def update_with(self, other):
-        if type(other) is not Metadata:
-            raise TypeError("you must update_with another metadata object")
-        self.__init__(**other.__dict__)
+        if type(other) is Metadata:
+            self.__init__(**other.__dict__)
+        elif type(other) is dict:
+            self.__init__(**other)
+        else:
+            raise TypeError("you must update_with another metadata object or a dict")
 
     def __call__(self, **kwargs):
         self.__init__(**kwargs)
@@ -232,7 +247,9 @@ default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[
 
 class Page(object):
     '''
-    Represents a page
+    Represents a typical page (i.e. those that are read from a file and
+    are to be converted); special pages like the page with all the tags
+    will not be an object of this class.
     '''
     def __init__(self, origin, json=[], metadata=Metadata()):
         if type(origin) is Filepath:
