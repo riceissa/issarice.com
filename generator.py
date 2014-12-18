@@ -46,37 +46,20 @@ pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
 
 def clean():
     print("Cleaning existing files")
-    c.run_command("rm -rf dir".format(dir=SITE_DIR))
+    c.run_command("rm -rf {dir}".format(dir=SITE_DIR))
 clean()
 
-# Copy css
-def copy_css():
-    print("Copying CSS")
-    if not os.path.exists(SITE_DIR + "css/"):
-        os.makedirs(SITE_DIR + "css/")
-    with open('css/minimal.css', 'r') as i, open(SITE_DIR + 'css/minimal.css', 'w') as o:
-        x = i.read()
-        o.write(x)
-copy_css()
+def copy_files(pattern, destination):
+    if not os.path.exists(destination):
+        os.makedirs(destination)
+    for f in glob.glob(pattern):
+        c.run_command("cp {f} {to}".format(f=f, to=destination))
+copy_files("css/*", SITE_DIR + "css/")
+copy_files("images/*", SITE_DIR)
+copy_files("static/*", SITE_DIR + "static/")
 
-# Copy images
-def copy_images():
-    print("Copying images")
-    for f in glob.glob("images/*"):
-        c.run_command("cp {f} {to}".format(f=f, to=SITE_DIR))
-copy_images()
-
-# Copy static files
-def copy_static():
-    print("Copying static files")
-    if not os.path.exists(SITE_DIR + "static/"):
-        os.makedirs(SITE_DIR + "static/")
-    for f in glob.glob("static/*"):
-        c.run_command("cp {f} {to}".format(f=f, to=SITE_DIR + "static/"))
-copy_static()
-
-all_tags = []
-page_data = []
+all_tags = [] # cumulative list of all tags
+page_data = [] # stores (title, destination, tags) for each page
 
 # Make page for each page
 for page_path in pages_lst:
