@@ -7,7 +7,7 @@ last-major-revision-date: 2014-12-09
 language: English
 status: draft
 license: CC BY
-tags: untagged
+tags: uw, math
 ...
 
 Answering the question "What is it like to take math 134 at the University of Washington?"
