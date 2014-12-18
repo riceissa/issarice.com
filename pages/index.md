@@ -9,7 +9,6 @@ license: CC0
 ...
 
 This is the website of Issa Rice (riceissa on various websites).
-I am a student at the University of Washington in Seattle, WA, USA.
 
 Some pages:
 

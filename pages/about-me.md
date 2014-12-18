@@ -9,11 +9,6 @@ tags: general
 
 # Self-introduction
 
-I'm currently a freshman at the University of Washington (UW) in Seattle, WA, USA.
-My intended major is computer science, but I’m also highly interested in mathematics and physics, and am looking into astronomy and the atmospheric sciences as well.
-I am continually conscious that the most important work I can do may not yet exist as a career; as such I want to adopt “a more wary attitude where I try, at each stage, to equip myself best for the present and the immediate future while gathering knowledge and resources that will help me in the farther future” ([source](https://whatisresearch.wordpress.com/2007/08/30/to-be-set-aside/)).
-At the moment I think computer science is the best option for me in terms of being versatile for the future.
-
 I am highly introverted (INTP on the [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator); see “[On Types of Typologies](http://slatestarcodex.com/2014/05/27/on-types-of-typologies/)” for more) and curious about a wide array of things, including [effective altruism](/effective-altruism-links)[^ea]  and rationality ([LessWrong](http://lesswrong.com), [Slate Star Codex](http://slatestarcodex.com/)).
 
 [^ea]: My favorite essays on the movement are: “[On Caring](http://lesswrong.com/lw/l30/on_caring/)”, “[Effective Altruism is a Question (not an ideology)](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/)”, and “[Efficient Charity: Do Unto Others...](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/)”; if you are new to effective altruism I recommend that you start with these.
@@ -38,6 +33,11 @@ I do like the language and its literature, and am fascinated by certain aspects 
 
 [^japan]: I lived in Japan for six years.
 You can find some locations [here](https://www.quora.com/Issa-Rice/about).
+
+I am also currently a freshman at the University of Washington (UW) in Seattle, WA, USA.
+My intended major is computer science, but I’m also highly interested in mathematics and physics, and am looking into astronomy and the atmospheric sciences as well.
+I am continually conscious that the most important work I can do may not yet exist as a career; as such I want to adopt “a more wary attitude where I try, at each stage, to equip myself best for the present and the immediate future while gathering knowledge and resources that will help me in the farther future” ([source](https://whatisresearch.wordpress.com/2007/08/30/to-be-set-aside/)).
+At the moment I think computer science is the best option for me in terms of being versatile for the future.
 
 
 # Contact
