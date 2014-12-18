@@ -29,7 +29,6 @@
 
 import glob
 import json
-from collections import OrderedDict
 from jinja2 import Template, Environment, FileSystemLoader
 import os
 
@@ -49,6 +48,10 @@ pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
 with open('css/minimal.css', 'r') as i, open(SITE_DIR + 'css/minimal.css', 'w') as o:
     x = i.read()
     o.write(x)
+
+# Copy images
+for f in glob.glob("images/*"):
+    c.run_command("cp {f} {to}".format(f=f, to=SITE_DIR))
 
 all_tags = []
 page_data = []
