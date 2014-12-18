@@ -38,13 +38,14 @@ from classes import *
 from tag_ontology import *
 
 def clean():
-    print("Cleaning existing files")
-    c.run_command("rm -rf {dir}".format(dir=SITE_DIR))
+    print("Removing {d}".format(d=SITE_DIR))
+    c.run_command("rm -rf {d}".format(d=SITE_DIR))
 
 def copy_files(pattern, destination):
     if not os.path.exists(destination):
         os.makedirs(destination)
     for f in glob.glob(pattern):
+        print("Copying {f} to {to}".format(f=f, to=destination))
         c.run_command("cp {f} {to}".format(f=f, to=destination))
 
 # Make page for each page
@@ -144,7 +145,12 @@ def create_page_with_all_pages():
     print("Creating page with all the pages")
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
-    pages = [{'title': to_unicode(page_tup[0]), 'url': to_unicode(page_tup[1])} for page_tup in page_data]
+    pages = [
+        {
+            'title': to_unicode(page_tup[0]),
+            'url': to_unicode(page_tup[1])
+        } for page_tup in page_data
+    ]
     pages = sorted(pages, key=lambda t: t['title'])
     body = page_list.render(pages=pages)
     skeleton = env.get_template('templates/skeleton.html')
