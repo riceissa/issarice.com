@@ -12,7 +12,6 @@ NEW:
 OLD:
 
 - figure out why LaTeX code blocks aren't highlighting
-- add update dates to bottom or top of each page -- hmm, but we want to make the site "timeless"
 - import remaining pages from github pages site. & add more notes files.
 - decide what to do about image/pdf hosting (just outsource? .. to WP or
   flickr)
