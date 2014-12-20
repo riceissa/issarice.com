@@ -1,0 +1,135 @@
+/*
+ * This work is released to the public domain according to the CC0
+ * Public Domain Dedication.  Please see
+ * https://creativecommons.org/publicdomain/zero/1.0/ for more.
+ */
+
+/* See http://ethanschoonover.com/solarized for more. */
+$base03: #002b36;
+$base02: #073642;
+$very_dark: $base03;
+$dark: $base02;
+
+$base01: #586e75;
+$base00: #657b83;
+$base0: #839496;
+$base1: #93a1a1;
+$darkest_gray: $base01;
+$dark_gray: $base00;
+$light_gray: $base0;
+$lightest_gray: $base1;
+
+$base2: #eee8d5;
+$base3: #fdf6e3;
+$tan: $base2;
+$cream: $base3;
+
+$yellow: #b58900;
+$orange: #cb4b16;
+$red: #dc322f;
+$magenta: #d33682;
+$violet: #6c71c4;
+$blue: #268bd2;
+$cyan: #2aa198;
+$green: #859900;
+
+body {
+    color: $darkest_gray;
+    background: $cream;
+    font-size: 14px;
+    line-height: 1.6;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div#content {
+    width: 93%;
+    max-width: 5.5in;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#navigation {
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    /* See http://stackoverflow.com/a/324553 */
+    overflow: hidden;
+}
+
+h1, h2, h3, h4 {
+    text-align: left;
+    color: $dark;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    border-bottom: 1px solid $lightest_gray;
+}
+
+hr {
+    border: 0 none;
+    border-top: 2px solid $lightest_gray;
+    border-bottom: 1px solid $lightest_gray;
+    height: 4px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: $blue;
+}
+a:visited {
+    color: $magenta;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+
+pre code {
+    display: block;
+    overflow: auto;
+    padding: 10px;
+    max-height: 500px;
+}
+
+blockquote {
+    margin: 0px;
+    color: $dark_gray;
+    padding: 0px 0px 0px 16px; /*top right bottom left*/
+    border-left: 4px solid $lightest_gray;
+}
+
+code {
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: $tan;
+    border: 1px solid $lightest_gray;
+    border-radius: 2px 2px 2px 2px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+}
+
+/*
+ * For displaying source code. See
+ * https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
+ * and
+ * http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
+ */
+
+.sourceCode span.kw { color: $green } /* Keyword */
+.sourceCode span.dt { color: $cyan } /* Data types */
+.sourceCode span.dv { }
+.sourceCode span.bn { }
+.sourceCode span.fl { }
+.sourceCode span.ch { } /* Character */
+.sourceCode span.st { color: $magenta } /* String */
+.sourceCode span.co { color: $lightest_gray; font-style: italic } /* Comment */
+.sourceCode span.ot { }
+.sourceCode span.al { color: $red } /* Warning messages */
+.sourceCode span.fu { color: $yellow } /* Function */
+.sourceCode span.re { }
+.sourceCode span.er { color: $red; font-weight: bold } /* Error */
