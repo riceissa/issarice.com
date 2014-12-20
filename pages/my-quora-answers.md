@@ -70,40 +70,7 @@ Note that if you're hosting on something like GitHub pages, then this is not pos
 
 [Mirror](https://www.quora.com/What-music-does-Issa-Rice-listen-to/answer/Issa-Rice)
 
-
-Mostly mainstream Western music from a few decades back: Bob Dylan, The
-Beatles, The Kinks, Led Zeppelin, Jimi Hendrix, Pink Floyd, Velvet
-Underground (roughly in that order). I've also fairly recently
-discovered [Sidi
-Touré](https://en.wikipedia.org/wiki/Sidi_Tour%C3%A9), [Detektivbyrån](https://en.wikipedia.org/wiki/Detektivbyr%C3%A5n),
-[Jean Michel
-Jarre](https://en.wikipedia.org/wiki/Jean_Michel_Jarre), [Jean-Luc
-Ponty](https://en.wikipedia.org/wiki/Jean-Luc_Ponty), mostly
-through my father.
-
-I also like some simple Japanese songs like [Aogeba
-Tōtoshi](https://en.wikipedia.org/wiki/Aogeba_T%C5%8Dtoshi) and
-[赤とんぼ (童謡) -
-Wikipedia](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%A8%E3%82%93%E3%81%BC_%28%E7%AB%A5%E8%AC%A1%29)
-(Red Dragonfly). Also João Gilberto's Chega De Saudade (even though I've
-never bothered to look up any of the lyrics) and Antonio Carlos Jobim's
-Stone Flower.
-
-I do sometimes wonder why I don't listen as much to Japanese music. It
-may be that since I've spent all my teenage years (when I first got
-interested in listening to music) in the US, my musical tastes were
-influenced that way.
-
-I'm open to suggestions (e.g. sometimes [Kristin
-Lie](https://www.quora.com/Kristin-Lie) will show me a song), but
-I feel I've mostly discovered what I like, so I don't spend time
-actively searching for new things to listen to. Finding more Japanese
-songs I like would be especially nice though.
-
-I should also mention that I can go for long periods (weeks) without
-listening to any music. It might just be that my collection is so small
-I get bored of it quickly, but can come back to it after some amount of
-time has passed.
+See [Music I like to listen to]().
 
 # Does Issa Rice watch anime?
 

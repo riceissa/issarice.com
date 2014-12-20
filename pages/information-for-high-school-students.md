@@ -73,7 +73,7 @@ He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which
 
 ## Dealing with depression
 
-Please see [here](/dealing-with-depression).
+Please see [Dealing with depression]().
 
 ## Dealing with school
 

@@ -41,6 +41,13 @@ def clean():
     print("Removing {d}".format(d=SITE_DIR))
     c.run_command("rm -rf {d}".format(d=SITE_DIR))
 
+def compile_scss():
+    if not os.path.exists(SITE_DIR + "css/"):
+        os.makedirs(SITE_DIR + "css/")
+    compiled = c.run_command("sass --style compressed css/minimal.scss")
+    with open(SITE_DIR + "css/minimal.css", 'w') as f:
+        f.write(compiled)
+
 def copy_files(pattern, destination):
     if not os.path.exists(destination):
         os.makedirs(destination)
@@ -60,7 +67,7 @@ def create_pages():
         page.metadata.update_with(meta.get_metadata_dict(page.json))
         tags_lst = page.metadata.tags
         all_tags.extend(tags_lst)
-        body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2", pipe_in=json.dumps(page.json, separators=(',',':'))))
+        body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter ./url_filter.py", pipe_in=json.dumps(page.json, separators=(',',':'))))
 
         inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
         write_to = page.origin.route_with(my_route)
@@ -203,7 +210,7 @@ def create_page_with_all_pages():
         css = Filepath("css/minimal.css").relative_to(Filepath("all")).path,
         license = "cc0",
     )
-    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
+    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
     if not os.path.exists(SITE_DIR):
         os.makedirs(SITE_DIR)
     with open(SITE_DIR + "all", 'w') as f:
@@ -229,7 +236,7 @@ if __name__ == '__main__':
     #pages_pat = "pages/*.md"
     #pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
     #clean()
-    #copy_files("css/*", SITE_DIR + "css/")
+    #compile_scss()
     #copy_files("images/*", SITE_DIR)
     #copy_files("static/*", SITE_DIR + "static/")
     #all_tags = [] # cumulative list of all tags
