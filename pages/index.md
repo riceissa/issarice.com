@@ -1,5 +1,5 @@
 ---
-title: Issa Rice (riceissa)
+title: Issa Rice
 description: index
 tags: general
 author: 
@@ -8,7 +8,7 @@ last-major-revision-date: 2014-12-19
 license: CC0
 ...
 
-This is the website of Issa Rice (riceissa on various websites).
+This is the website of Issa Rice.
 
 Some pages:
 
