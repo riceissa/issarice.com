@@ -166,7 +166,7 @@ def create_page_with_all_pages():
         css = Filepath("css/minimal.css").relative_to(Filepath("all")).path,
         license = "cc0",
     )
-    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
+    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
     if not os.path.exists(SITE_DIR):
         os.makedirs(SITE_DIR)
     with open(SITE_DIR + "all", 'w') as f:
