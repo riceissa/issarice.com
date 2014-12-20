@@ -56,92 +56,58 @@ def copy_files(pattern, destination):
         c.run_command("cp {f} {to}".format(f=f, to=destination))
 
 # Make page for each page
+
 def create_pages():
     global all_tags
     global page_data
     for page_path in pages_lst:
-        page = Page(page_path)
-        print("Processing " + str(page.origin))
-        page.load()
-        page.json = meta.organize_tags(page.json, tag_synonyms, tag_implications)
-        page.metadata.update_with(meta.get_metadata_dict(page.json))
-        tags_lst = page.metadata.tags
-        all_tags.extend(tags_lst)
-        body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter ./url_filter.py", pipe_in=json.dumps(page.json, separators=(',',':'))))
-
-        inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
-        write_to = page.origin.route_with(my_route)
-
-        ctxp = Metadata(
-            tags = tags_lst,
-            css = Filepath("css/minimal.css").relative_to(Filepath(inter)).path,
-            source = page.origin.path,
-        )
-        ctx = Metadata(**default_metadata.__dict__)
-        ctx.update_with(page.metadata)
-        ctx.update_with(ctxp)
-
-        env = Environment(loader=FileSystemLoader('.'))
-        skeleton = env.get_template('templates/skeleton.html')
-        tags = []
-        for tag in ctx.tags:
-            tags.append({
-                'name': tag,
-                'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir(TAGS_DIR)).path)
-            })
-        tags = sorted(tags, key=lambda t: t['name'])
-        final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css, path="./")
-        page_data.append((ctx.title, inter, tags_lst)) # to be used later
-
-        if not os.path.exists(SITE_DIR):
-            os.makedirs(SITE_DIR)
-
-        with open(write_to.path, 'w') as f:
-            f.write(to_string(final))
+        create_page(page_path)
 
 def create_page(path):
     '''
     Compile a single file from markdown to HTML.
     '''
     global all_tags
-    print("Processing " + str(page.origin))
+    global page_data
     page = Page(path)
+    print("Processing " + str(page.origin))
     page.load()
     page.json = meta.organize_tags(page.json, tag_synonyms, tag_implications)
     page.metadata.update_with(meta.get_metadata_dict(page.json))
     tags_lst = page.metadata.tags
     all_tags.extend(tags_lst)
-    body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2", pipe_in=json.dumps(page.json, separators=(',',':'))))
-
+    body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter ./url_filter.py", pipe_in=json.dumps(page.json, separators=(',',':'))))
     inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
     write_to = page.origin.route_with(my_route)
 
-        ctxp = Metadata(
-            tags = tags_lst,
-            css = Filepath("css/minimal.css").relative_to(Filepath(inter)).path,
-            source = page.origin.path,
-        )
-        ctx = Metadata(**default_metadata.__dict__)
-        ctx.update_with(page.metadata)
-        ctx.update_with(ctxp)
+    ctxp = Metadata(
+        tags = tags_lst,
+        # Calculate where the css file will be located relative to the
+        # current file's (eventual) location
+        css = Filepath("css/minimal.css").relative_to(Filepath(inter)).path,
+        source = page.origin.path,
+    )
+    ctx = Metadata(**default_metadata.__dict__)
+    ctx.update_with(page.metadata)
+    ctx.update_with(ctxp)
 
-        env = Environment(loader=FileSystemLoader('.'))
-        skeleton = env.get_template('templates/skeleton.html')
-        tags = []
-        for tag in ctx.tags:
-            tags.append({
-                'name': tag,
-                'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir(TAGS_DIR)).path)
-            })
-        tags = sorted(tags, key=lambda t: t['name'])
-        final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css, path="./")
-        page_data.append((ctx.title, inter, tags_lst)) # to be used later
+    env = Environment(loader=FileSystemLoader('.'))
+    skeleton = env.get_template('templates/skeleton.html')
+    tags = []
+    for tag in ctx.tags:
+        tags.append({
+            'name': tag,
+            'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir(TAGS_DIR)).path)
+        })
+    tags = sorted(tags, key=lambda t: t['name'])
+    final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css, path="./")
+    page_data.append((ctx.title, inter, tags_lst)) # to be used later
 
-        if not os.path.exists(SITE_DIR):
-            os.makedirs(SITE_DIR)
+    if not os.path.exists(SITE_DIR):
+        os.makedirs(SITE_DIR)
 
-        with open(write_to.path, 'w') as f:
-            f.write(to_string(final))
+    with open(write_to.path, 'w') as f:
+        f.write(to_string(final))
 
 def create_tag_page():
     global page_data
@@ -218,31 +184,34 @@ def create_page_with_all_pages():
 
 if __name__ == '__main__':
     import argparse
+    SITE_DIR = "_site/"
+    # relative to SITE_DIR
+    TAGS_DIR = "tags/"
+    all_tags = [] # cumulative list of all tags
+    page_data = [] # stores (title, destination, tags) for each page
+
     parser = argparse.ArgumentParser(description='generate a site or just a few files')
     parser.add_argument(
         "--files",
         "-f",
         nargs = '+',
-        metavar='FILE',
-        help = 'the locations of files to compile'
+        metavar = 'FILE',
+        help = 'the locations of files to compile; accepts patterns'
     )
     args = parser.parse_args()
-
-    print(args.files)
-    #link_from = Filepath(args.origin[0])
-    #SITE_DIR = "_site/"
-    ## relative to SITE_DIR
-    #TAGS_DIR = "tags/"
-    #pages_pat = "pages/*.md"
-    #pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
-    #clean()
-    #compile_scss()
-    #copy_files("images/*", SITE_DIR)
-    #copy_files("static/*", SITE_DIR + "static/")
-    #all_tags = [] # cumulative list of all tags
-    #page_data = [] # stores (title, destination, tags) for each page
-    #create_pages()
-    #all_tags = list(set(all_tags))
-    #create_tag_page()
-    #create_page_with_all_tags()
-    #create_page_with_all_pages()
+    if args.files is not None:
+        print(args.files)
+        for p in args.files:
+            create_page(p)
+    else:
+        clean()
+        pages_pat = "pages/*.md"
+        pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
+        compile_scss()
+        copy_files("images/*", SITE_DIR)
+        copy_files("static/*", SITE_DIR + "static/")
+        create_pages()
+        all_tags = list(set(all_tags))
+        create_tag_page()
+        create_page_with_all_tags()
+        create_page_with_all_pages()
