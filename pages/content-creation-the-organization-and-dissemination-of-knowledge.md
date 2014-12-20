@@ -12,7 +12,7 @@ This section considers how open one's content should be.
 One definitely shouldn't “fetishize openness”, and ought to always consider to whom what you write will be useful (since if it's useful to no one, then one shouldn't bother publishing it).
 Then again, it's sometimes hard to anticipate who will respond positively to what you write, which is one argument for greater openness.
 
-See [Openness and availability of content](./openness-and-availability-of-content) for more.
+See [Openness and availability of content]() for more.
 
 # Choosing a medium (or media)
 
@@ -52,7 +52,7 @@ Christopher J. Su [says](https://www.quora.com/How-should-one-balance-the-potent
 ## Blogs
 
 A variety of arguments have been put forth both for and against blogs.
-See [Arguments for and against blogs](./arguments-for-and-against-blogs) for more.
+See [Arguments for and against blogs]() for more.
 
 ## Static sites
 
