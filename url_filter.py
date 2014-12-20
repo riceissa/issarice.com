@@ -28,8 +28,9 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 from pandocfilters import toJSONFilter, stringify, Link
+import commands as c
 
-def duck(key, value, format_, meta):
+def url_filter(key, value, format_, meta):
     '''
     If a link is of the form "!STRING", use the !-expression to search
     DuckDuckGo.  So for instance [Fishmans](!w) would search Wikipedia
@@ -40,6 +41,15 @@ def duck(key, value, format_, meta):
         if url.startswith("!"):
             url = "http://duckduckgo.com/?q=" + url + " " + stringify(txt)
             return Link(txt, [url, attr])
+        if url == '':
+            # So we want to internally link txt
+            url = c.run_command("sed -e 's/[^[:alnum:]]/-/g'", pipe_in=stringify(txt))
+            url = c.run_command("tr -s '-'", pipe_in = url)
+            url = c.run_command("tr A-Z a-z", pipe_in=url)
+            url = c.run_command("sed -e 's/^\-//'", pipe_in=url)
+            url = c.run_command("sed -e 's/\-$//'", pipe_in=url)
+            url = "./" + url
+            return Link(txt, [url, attr])
 
 if __name__ == '__main__':
-    toJSONFilter(duck)
+    toJSONFilter(url_filter)

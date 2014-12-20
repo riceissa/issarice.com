@@ -60,7 +60,7 @@ def create_page():
         page.metadata.update_with(meta.get_metadata_dict(page.json))
         tags_lst = page.metadata.tags
         all_tags.extend(tags_lst)
-        body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter ./duckduckgo.py", pipe_in=json.dumps(page.json, separators=(',',':'))))
+        body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter ./url_filter.py", pipe_in=json.dumps(page.json, separators=(',',':'))))
 
         inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
         write_to = page.origin.route_with(my_route)
