@@ -41,6 +41,13 @@ def clean():
     print("Removing {d}".format(d=SITE_DIR))
     c.run_command("rm -rf {d}".format(d=SITE_DIR))
 
+def compile_scss():
+    if not os.path.exists(SITE_DIR + "css/"):
+        os.makedirs(SITE_DIR + "css/")
+    compiled = c.run_command("sass --style compressed css/minimal.scss")
+    with open(SITE_DIR + "css/minimal.css", 'w') as f:
+        f.write(compiled)
+
 def copy_files(pattern, destination):
     if not os.path.exists(destination):
         os.makedirs(destination)
@@ -172,7 +179,7 @@ if __name__ == '__main__':
     pages_pat = "pages/*.md"
     pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
     clean()
-    copy_files("css/*", SITE_DIR + "css/")
+    compile_scss()
     copy_files("images/*", SITE_DIR)
     copy_files("static/*", SITE_DIR + "static/")
     all_tags = [] # cumulative list of all tags
