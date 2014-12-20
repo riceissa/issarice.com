@@ -4,3 +4,4 @@ site
 site.*
 *.swp
 *.pyc
+.sass-cache
