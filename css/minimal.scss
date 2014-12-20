@@ -120,16 +120,24 @@ code {
  * http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
  */
 
-.sourceCode span.kw { color: $green } /* Keyword */
-.sourceCode span.dt { color: $cyan } /* Data types */
-.sourceCode span.dv { }
-.sourceCode span.bn { }
-.sourceCode span.fl { }
-.sourceCode span.ch { } /* Character */
-.sourceCode span.st { color: $magenta } /* String */
-.sourceCode span.co { color: $lightest_gray; font-style: italic } /* Comment */
-.sourceCode span.ot { }
-.sourceCode span.al { color: $red } /* Warning messages */
-.sourceCode span.fu { color: $yellow } /* Function */
-.sourceCode span.re { }
-.sourceCode span.er { color: $red; font-weight: bold } /* Error */
+/* Keyword */
+.sourceCode span.kw { color: $green; }
+/* Data types */
+.sourceCode span.dt { color: $cyan; }
+.sourceCode span.dv { color: $blue; }
+.sourceCode span.bn { color: $blue; }
+.sourceCode span.fl { color: $blue; }
+/* Character */
+.sourceCode span.ch { color: $red; }
+/* String */
+.sourceCode span.st { color: $magenta; }
+/* Comment */
+.sourceCode span.co { color: $lightest_gray; font-style: italic }
+.sourceCode span.ot { color: $blue; }
+/* Warning messages */
+.sourceCode span.al { color: $red; }
+/* Function */
+.sourceCode span.fu { color: $yellow; }
+.sourceCode span.re { color: $yellow; }
+/* Error */
+.sourceCode span.er { color: $red; font-weight: bold }
