@@ -136,7 +136,6 @@ a:hover, a:active {
     text-decoration: underline;
 }
 
-
 pre code {
     display: block;
     overflow: auto;
@@ -168,24 +167,69 @@ code {
  * http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
  */
 
-/* Keyword */
-.sourceCode span.kw { color: $green; }
+/* Keywords */
+.sourceCode span.kw {
+    color: $green;
+}
+
 /* Data types */
-.sourceCode span.dt { color: $cyan; }
-.sourceCode span.dv { color: $blue; }
-.sourceCode span.bn { color: $blue; }
-.sourceCode span.fl { color: $blue; }
-/* Character */
-.sourceCode span.ch { color: $red; }
-/* String */
-.sourceCode span.st { color: $magenta; }
-/* Comment */
-.sourceCode span.co { color: $lightest_gray; font-style: italic }
-.sourceCode span.ot { color: $blue; }
+.sourceCode span.dt {
+    color: $cyan;
+}
+
+/* Decimal values */
+.sourceCode span.dv {
+    color: $cyan;
+}
+
+/* Values with base other than 10 */
+.sourceCode span.bn {
+    color: $cyan;
+}
+
+/* Float values */
+.sourceCode span.fl {
+    color: $cyan;
+}
+
+/* Characters */
+.sourceCode span.ch {
+    color: $green;
+}
+
+/* Strings */
+.sourceCode span.st {
+    color: $cyan;
+}
+
+/* Comments */
+.sourceCode span.co {
+    color: $lightest_gray;
+    font-style: italic;
+}
+
+/* Other */
+.sourceCode span.ot {
+    color: $yellow;
+}
+
 /* Warning messages */
-.sourceCode span.al { color: $red; }
-/* Function */
-.sourceCode span.fu { color: $yellow; }
-.sourceCode span.re { color: $yellow; }
-/* Error */
-.sourceCode span.er { color: $red; font-weight: bold }
+.sourceCode span.al {
+    color: $red;
+}
+
+/* Functions */
+.sourceCode span.fu {
+    color: $blue;
+}
+
+/* Region markers */
+.sourceCode span.re {
+    color: $yellow;
+}
+
+/* Errors */
+.sourceCode span.er {
+    color: $red;
+    font-weight: bold;
+}
