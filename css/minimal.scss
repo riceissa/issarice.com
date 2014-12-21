@@ -160,6 +160,29 @@ code {
     font-size: 14px;
 }
 
+table {
+    width: 100%;
+    border-style: outset;
+    border-collapse: separate;
+    border-color: $darkest_gray;
+    border-width: 1px;
+    border-spacing: 2px;
+}
+
+table th {
+    border-style: inset;
+    border-color: $darkest_gray;
+    border-width: 1px;
+    padding: 3px;
+}
+
+table td {
+    border-style: inset;
+    border-color: $darkest_gray;
+    border-width: 1px;
+    padding: 3px;
+}
+
 /*
  * For displaying source code. See
  * https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
