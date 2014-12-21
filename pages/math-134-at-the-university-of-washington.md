@@ -11,6 +11,7 @@ tags: uw, math
 ...
 
 This is my course review for math 134 at the University of Washington.
+I took the course in autumn 2014 with [Ebru Bekyel](http://www.math.washington.edu/~ebekyel/).
 
 UW has several tiers of mathematics classes for first-year students, and math 134 is (I think) considered to be the most advanced[^uwmath].
 However, the textbook that was used was [*Calculus* by Salas, Etgen, Hille](!am), which is markedly less rigorous than books like [*Calculus* by Michael Spivak](!am) (used at for example University of Chicago) and [*Calculus* by Tom Apostol](!am)[^apostol] (used at for example Caltech).

@@ -10,11 +10,11 @@ license: CC BY
 tags: uw, cs
 ...
 
-This is my answer to the question "What is it like to take CSE 390 as part of CSE 142 at the University of Washington?"
+This is my course review for CSE 390 at the University of Washington.
+I took the course in autumn 2014 with [Stuart Reges](http://homes.cs.washington.edu/~reges/).
 
 CSE 390 was by far the most enjoyable course of the quarter.
 The university doesn't seem to have strict guidelines for how professors conduct the course, so I suspect the course differs significantly depending on the professor with whom one takes the course.
-I took the course fall 2014 with Stuart Reges.
 
 # Basic structure
 
@@ -33,7 +33,8 @@ Although Reges did say that superintelligence is something we have to be concern
 
 As best as I can remember (I forgot to keep a written list), here are all the topics discussed in the second half of each session, roughly in chronological order.
 
-- what is a meme? robert frost
+- Reges discussed the topic "What is a meme?"
+robert frost
 
 - meta: which of there is more, knowledge or metaknowledge?
     - muddy children

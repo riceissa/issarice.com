@@ -1,0 +1,20 @@
+---
+title: CSE 190 at the University of Washington
+description: 
+author: Issa Rice
+creation-date: 2014-12-20
+last-major-revision-date: 2014-12-20
+language: English
+status: draft
+license: CC BY
+tags: uw, cs
+...
+
+This is my course review for [CSE 190](http://courses.cs.washington.edu/courses/cse142/14au/labs.shtml) (programming lab for CSE 142) at the University of Washington.
+I took the course in autumn 2014.
+
+There isn't a lot to say about this course: it was a 1-credit course where each week one goes to one of the computer labs and works through a slideshow containing programming problems.
+
+I'm not sure I gained much from the course.
+I think it mainly gave me some time each week to practice some of the ideas from class, so I didn't have to work very much on my own time.
+In other words, CSE 190 provided a structure for work that I might have done on my own anyway.

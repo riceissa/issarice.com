@@ -9,9 +9,11 @@ license: CC0
 
 # Philosophy
 
-This site is my attempt to execute gwern's idea of [Long Content](http://www.gwern.net/About#long-content).
-In particular, I strive to make all the internal files human-readable (by writing it in pandoc markdown), version-controlled (with git), and largely freely-licensed (so it will be copied, making the data safe).
+This site is my attempt to realize gwern's idea of [Long Content](http://www.gwern.net/About#long-content).
+In particular, I strive to make all the pages' source human-readable (by writing them in [Pandoc](http://johnmacfarlane.net/pandoc/) markdown), version-controlled (with git), and freely-licensed (all pages are at least CC-BY, with some in the public domain; the [software used to make this site](#colophon) is all free software)[^copy].
 I also like to [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often); I actually don't deploy the site as often, but I try to commit to the git repository often---so my site is the result of many incremental updates.
+
+[^copy]: (so it will be copied, making the data safe).
 
 Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](http://riceissa.com/content-creation-the-organization-and-dissemination-of-knowledge#the-tree-structure-of-a-website) of this site.
 
