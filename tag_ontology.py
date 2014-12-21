@@ -62,6 +62,8 @@ tag_synonyms = {
         "sousveillance"],
     "psychology":
         ["psych"],
+    "university-of-washington-honors-program":
+        ["uw-honors", "uw honors", "honors program", "honors-program"],
 }
 
 # List of tag implications to be used with imply_tags.  Below, (a, [b])
