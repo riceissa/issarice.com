@@ -15,7 +15,7 @@ This was originally written as an answer to the Quora question "[What music does
 I mostly listen to mainstream Western music from a few decades back: Bob Dylan, The Beatles, Pink Floyd, The Kinks, Led Zeppelin, Jimi Hendrix, Velvet Underground (roughly in that order).
 I've also fairly recently discovered [Fishmans](!w), [Sidi Touré](!w), [Detektivbyrån](!w), [Jean Michel Jarre](!w), [Jean-Luc Ponty](!w), mostly through my father.
 
-I also like some simple Japanese songs like [Aogeba Tōtoshi](!w) and [赤とんぼ (童謡)](!wja) (Red Dragonfly).
+I also like some simple Japanese songs like [ゴンドラの唄](!wja) ([Gondola no Uta](!w)), [Aogeba Tōtoshi](!w) and [赤とんぼ (童謡)](!wja) (Red Dragonfly).
 I also like João Gilberto's Chega De Saudade (even though I've never bothered to look up any of the lyrics) and Antonio Carlos Jobim's Stone Flower.
 
 I do sometimes wonder why I don't listen as much to Japanese music.
