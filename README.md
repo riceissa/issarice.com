@@ -22,6 +22,14 @@ served on the site with:
 rsync -r --delete _site/ destination_directory/
 ```
 
+If you only want to compile some of the pages, you can use the `--files` or `-f` flag; for instance, if you only want to compile the pages that contain "at-the-university" in the filename (characteristic of my course review pages, which have the form "subject-number-at-the-university-of-washington.md"), you can do:
+
+```bash
+python generator.py --files pages/*at-the-university*
+```
+
+(Though keep in mind that this will do nothing about CSS, so this option is generally only useful when one is working on a subset of the pages and wants to view changes on them quickly.)
+
 Note that in the interest of
 [Cool URIs](http://www.w3.org/TR/cooluris/), the compiled files have no
 file extensions (which would usually be `.html`).  Therefore simply
