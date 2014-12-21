@@ -200,7 +200,6 @@ if __name__ == '__main__':
     )
     args = parser.parse_args()
     if args.files is not None:
-        print(args.files)
         for p in args.files:
             create_page(p)
     else:
