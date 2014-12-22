@@ -6,6 +6,7 @@ creation-date: 2014-12-22
 last-major-revision-date: 2014-12-22
 language: English
 status: draft
+# testing this
 belief: possible
 license: CC BY
 tags: site-info
@@ -17,11 +18,8 @@ As [Muflax says](http://webcitation.org/6DuYcqyQ3):
 
 In other words, publishing content on one's personal site is not just a statement, but also a meta-statement---that one believes in what is said strongly enough to publish them on one's site.
 However, often I like to publish things not because I feel especially confident about them, but just to externalize some ideas.
-Therefore the idea of a belief tag to denote how strongly one believes about the content on a page seems like a good idea.
+Therefore using the belief tag to denote how strongly one believes the content on a page seems like a good idea.
 I have taken it from gwern, who in turn took it from Muflax.
-
-# gwern
-
 Since gwern's website is CC0 (public domain), I will just quote his whole [section on belief tags](http://www.gwern.net/About#belief-tags):
 
 > Most of the metadata in each page is self-explanatory: the date is the last time the file was modified, the tags are categorization, etc. The "status" tag describes the state of completion: whether it's a pile of links & snippets & "notes", or whether it is a "draft" which at least has some structure and conveys a coherent thesis, or it's a well-developed draft which could be described as "in progress", and finally when a page is done - in lieu of additional material turning up - it is simply "finished".
