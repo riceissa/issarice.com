@@ -27,7 +27,9 @@ else
     echo "language: English" >> $pagepath
     # accepted: "draft", "public"
     echo "status: draft" >> $pagepath
-    # accepted: "CC BY", "CC0"
+    # accepted: certain, highly likely, likely, possible, unlikely, highly unlikely, remote, impossible, log, emotional, fiction
+    echo "belief: possible" >> $pagepath
+    # accepted: CCBY, CC0
     echo "license: CC BY" >> $pagepath
     echo "tags: untagged" >> $pagepath
     echo -e "...\n\n" >> $pagepath
