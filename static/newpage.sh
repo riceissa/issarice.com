@@ -20,19 +20,19 @@ else
     echo "Creating $pagepath"
     echo "---" >> $pagepath
     echo "title: $title" >> $pagepath
-    echo "description: " >> $pagepath
+    echo "description: none" >> $pagepath
     echo "author: Issa Rice" >> $pagepath
     echo "creation-date: `date +'%Y-%m-%d'`" >> $pagepath
     echo "last-major-revision-date: `date +'%Y-%m-%d'`" >> $pagepath
     echo "language: English" >> $pagepath
-    # accepted: "draft", "public"
+    echo '# accepts "draft" or "mostly finished"' >> $pagepath
     echo "status: draft" >> $pagepath
-    # accepted: certain, highly likely, likely, possible, unlikely, highly unlikely, remote, impossible, log, emotional, fiction
+    echo '# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"' >> $pagepath
     echo "belief: possible" >> $pagepath
-    # accepted: CCBY, CC0
+    echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
     echo "license: CC BY" >> $pagepath
     echo "tags: untagged" >> $pagepath
     echo -e "...\n\n" >> $pagepath
     # open with vim on the last line
-    vim + $pagepath
+    gvim + $pagepath
 fi
