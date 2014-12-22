@@ -1,6 +1,11 @@
 ---
 title: Dealing with depression
+author: Issa Rice
 tags: self-improvement, psychology, depression
+language: English
+status: draft
+belief: possible
+license: CC BY
 ...
 
 I'm not really an EOTS, but some starting points:
