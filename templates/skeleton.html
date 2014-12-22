@@ -49,6 +49,14 @@
 <p>
   <em>Note: this is a draft.</em>
 </p>
+<hr />
+{% endif %}
+
+{% if page.belief %}
+<p>
+  <a href="./belief-tags">Belief</a>: {{ page.belief }}
+</p>
+<hr />
 {% endif %}
 
 {{ body }}
