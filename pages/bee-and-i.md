@@ -1,6 +1,7 @@
 ---
 title: Bee and I
 tags: literary, fiction
+belief: fiction
 date: 2014-06-04, 2014-06-10
 ...
 

@@ -6,6 +6,7 @@ creation-date: 2014-12-20
 last-major-revision-date: 2014-12-20
 language: English
 status: draft
+belief: likely
 license: CC BY
 tags: cs, uw
 ...
