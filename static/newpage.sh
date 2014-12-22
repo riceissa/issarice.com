@@ -30,7 +30,7 @@ else
     echo '# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"' >> $pagepath
     echo "belief: possible" >> $pagepath
     echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
-    echo "license: CC BY" >> $pagepath
+    echo "license: CC-BY" >> $pagepath
     echo "tags: untagged" >> $pagepath
     echo -e "...\n\n" >> $pagepath
     # open with vim on the last line
