@@ -8,7 +8,7 @@ language: English
 status: draft
 belief: possible
 license: CC BY
-tags: untagged
+tags: site-info
 ...
 
 As [Muflax says](http://webcitation.org/6DuYcqyQ3):
