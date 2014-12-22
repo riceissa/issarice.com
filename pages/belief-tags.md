@@ -6,7 +6,6 @@ creation-date: 2014-12-22
 last-major-revision-date: 2014-12-22
 language: English
 status: draft
-# testing this
 belief: possible
 license: CC BY
 tags: site-info
