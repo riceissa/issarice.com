@@ -14,7 +14,7 @@ license: CC-BY
 tags: untagged
 ...
 
-> And some books ought to burn, trying for character\
+> "And some books ought to burn, trying for character\
 > but just faking it. More disturbing\
 > than book ashes are whole libraries that no one\
 > got around to writing---desolate\
@@ -22,11 +22,17 @@ tags: untagged
 > and the terrorized countryside where wild dogs\
 > own anything that moves. If a book\
 > isn't written, no one needs to burn it---\
-> ignorance can dance in the absence of fire.[^stafford]
+> ignorance can dance in the absence of fire."
+>
+> ---William Stafford[^stafford]
 
 [^stafford]: William Stafford.
 "Burning a Book".
 [*Ask me: 100 Essential Poems of William Stafford*](https://books.google.com/books?id=AaOxAAAAQBAJ&lpg=PT108&ots=TYENZlX5rT&dq=burning%20a%20book%20stafford&pg=PT108#v=onepage&q=burning%20a%20book%20stafford&f=false).
+
+<!--
+    argue for something like "people should be more boring" in the sense that "in order to do important things, one must become boring (as a side-effect)", per vipul.
+-->
 
 Dullness has possibly already been praised enough times in different forms.
 For instance, take Bertrand Russell's [*In Praise of Dullness*](https://books.google.com/books?id=_qfrAgAAQBAJ&lpg=PA70&ots=-BIIsJkOot&dq=bertrand%20russell%20in%20praise%20of%20dullness&pg=PA70#v=onepage&q&f=false)[^idleness].
@@ -56,3 +62,31 @@ See for instance Qiaochu Yuan in "[Boring Advice Repository](http://lesswrong.co
 
 > It seems plausible that, when giving advice, many people optimize for deepness or punchiness of the advice rather than for actual practical value. There may be good reasons to do this - e.g. advice that sounds deep or punchy might be more likely to be listened to - but as a corollary, there could be valuable advice that people generally don't give because it doesn't sound deep or punchy. Let's call this **boring advice**.
 \[Emphasis in original.\]
+
+In "[Culture is not about esthetics](http://www.gwern.net/Culture%20is%20not%20about%20Esthetics)", gwern argues that we ought to discourage the production of new entertainment content---novels, poems, music, movies, etc.
+But this is but one form of excess, though a particularly notable one.
+We can consider material excess, but, being in the age of the [attention economy](!w), we might look for excess in information.
+Many have argued that [news is a waste of time](http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html), for instance.
+
+but those are on the receiving end; what about content creation?
+Should some things never be said?
+
+There is the difficult [virtue of silence](http://slatestarcodex.com/2013/06/14/the-virtue-of-silence/):
+
+
+> One example of silence I deeply appreciate is *people who don’t talk
+> about the latest viral issue*. I’m trying to think of an example that’s
+> not too destructive to bring up…hmmmm…go for something
+> old…[Elevatorgate](http://en.wikipedia.org/wiki/Elevatorgate#Elevator_incident)!
+> Nearly everyone who talked about Elevatorgate mentioned that it was
+> outrageous that the blogosphere was making such a big deal about it,
+> missing the similarity to the old adage that “you aren’t stuck in
+> traffic, you *are* traffic.” Somewhere there was someone who wanted to
+> write about Elevatorgate, thought about it, and *decided not to*. That
+> person deserves the sincere thanks of a grateful Internet.
+
+And of course, [controversial ideas receive more views](http://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
+
+From <http://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/>:
+
+> Nobody cares about charity. Everybody cares about politics, especially race and gender. Just as televangelists who are obsessed with moving to a sweeter pad may come to think that donating to their building fund is the one true test of a decent human being, so our universal obsession with politics, race, and gender incites people to make convincing arguments that taking and spreading the right position on those issues is the one true test of a decent human being.
