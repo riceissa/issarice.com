@@ -5,7 +5,8 @@ author: Issa Rice
 creation-date: 2014-12-11
 last-major-revision-date: 2014-12-11
 language: English
-status: draft
+status: notes
+belief: possible
 license: CC BY
 tags: untagged
 ...
