@@ -182,6 +182,27 @@ def create_page_with_all_pages():
     with open(SITE_DIR + "all", 'w') as f:
         f.write(to_string(final))
 
+def create_sitemap():
+    global page_data
+    global all_tags
+    print("Generating sitemap")
+
+    env = Environment(loader=FileSystemLoader('.'))
+    sitemap_list = env.get_template('templates/sitemap-list.xml')
+    page_data = sorted(page_data, key=lambda t: t[1])
+    body = u""
+    for p in page_data:
+        # "slug" here is "inter" from earlier
+        x1, slug, x2 = p
+        body += to_unicode(sitemap_list.render(slug=slug))
+    for t in all_tags:
+        body += to_unicode(sitemap_list.render(slug="tags/" + t))
+    sitemap = env.get_template('templates/sitemap.xml')
+    final = sitemap.render(body=body)
+
+    with open(SITE_DIR + "sitemap.xml", "w") as f:
+        f.write(to_string(final))
+
 if __name__ == '__main__':
     import argparse
     SITE_DIR = "_site/"
@@ -214,3 +235,4 @@ if __name__ == '__main__':
         create_tag_page()
         create_page_with_all_tags()
         create_page_with_all_pages()
+        create_sitemap()
