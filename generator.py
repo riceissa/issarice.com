@@ -214,6 +214,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='generate a site or just a few files')
     parser.add_argument(
         "--files",
+        "--file",
         "-f",
         nargs = '+',
         metavar = 'FILE',
