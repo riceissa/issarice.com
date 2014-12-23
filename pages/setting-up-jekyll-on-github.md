@@ -54,7 +54,7 @@ See [here](http://cwoebker.com/posts/latex-math-magic), [here](http://doswa.com/
 See [this page](http://stackoverflow.com/a/11093303/3422337) for the “big picture”.
 The idea is that we want the Markdown processor to leave potential LaTeX code untouched so that MathJax can access it.
 
-See [here](/math/math-test.html) for an extensive list of what works and what doesn’t.
+See [here](https://riceissa.github.io/math/math-test.html) for an extensive list of what works and what doesn’t.
 
 <h3 id="examples">Examples</h3>
 
