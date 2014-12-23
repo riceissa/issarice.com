@@ -29,9 +29,8 @@ I'm not really an EOTS, but some starting points:
     > 
     > -   Obviously personal safety must be taken into account.
     > -   Some of the topics discussed on this wiki, such as
-    >     [rationality](Rationality_learning_resources "wikilink"), [effective
-    >     altruism](Effective_altruism "wikilink"), and
-    >     [Quora](Quora "wikilink"), already have local meetup groups; see
+    >     [rationality](http://info.cognitomentoring.org/wiki/Rationality_learning_resources), [effective altruism](http://info.cognitomentoring.org/wiki/Effective_altruism), and
+    >     [Quora](http://info.cognitomentoring.org/wiki/Quora), already have local meetup groups; see
     >     [Less Wrong meetup
     >     groups](http://wiki.lesswrong.com/wiki/Less_Wrong_meetup_groups),
     >     [effective altruism
