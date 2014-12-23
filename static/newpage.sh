@@ -15,7 +15,7 @@ pagepath="${sitedir}/pages/$slug.md"
 if [ -f $pagepath ];
 then
     echo "File $pagename exists.  Opening..."
-    vim $pagepath
+    gvim --remote-tab-silent $pagepath
 else
     echo "Creating $pagepath"
     echo "---" >> $pagepath
@@ -33,6 +33,6 @@ else
     echo "license: CC-BY" >> $pagepath
     echo "tags: untagged" >> $pagepath
     echo -e "...\n\n" >> $pagepath
-    # open with vim on the last line
-    gvim + $pagepath
+    # open with vim on the last line new a new tab on an existing session (if possible)
+    gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
 fi
