@@ -29,11 +29,12 @@ tags: untagged
 [*Ask me: 100 Essential Poems of William Stafford*](https://books.google.com/books?id=AaOxAAAAQBAJ&lpg=PT108&ots=TYENZlX5rT&dq=burning%20a%20book%20stafford&pg=PT108#v=onepage&q=burning%20a%20book%20stafford&f=false).
 
 Dullness has possibly already been praised enough times in different forms.
-There is, for instance, Bertrand Russell's [*In Praise of Dullness*](https://books.google.com/books?id=_qfrAgAAQBAJ&lpg=PA70&ots=-BIIsJkOot&dq=bertrand%20russell%20in%20praise%20of%20dullness&pg=PA70#v=onepage&q&f=false)[^idleness]
+For instance, take Bertrand Russell's [*In Praise of Dullness*](https://books.google.com/books?id=_qfrAgAAQBAJ&lpg=PA70&ots=-BIIsJkOot&dq=bertrand%20russell%20in%20praise%20of%20dullness&pg=PA70#v=onepage&q&f=false)[^idleness].
 
 [^idleness]: Not to be confused with his [*In Praise of Idleness*](http://www.zpub.com/notes/idle.html).
 
-Then there is David Brooks, writing for the New York Times: "[In Praise of Dullness](http://www.nytimes.com/2009/05/19/opinion/19brooks.html)".
+Then there is David Brooks, writing for the New York Times.
+In "[In Praise of Dullness](http://www.nytimes.com/2009/05/19/opinion/19brooks.html)", he reports that the "traits that correlated most powerfully with success \[for CEOs\] were attention to detail, persistence, efficiency, analytic thoroughness and the ability to work long hours", not "psychological insight, a feel for human relationships, a greater sensitivity toward their own emotional chords"---and thus CEOs need not spend their time reading novels.
 
 
 <https://en.wikipedia.org/wiki/Concision_%28media_studies%29>
