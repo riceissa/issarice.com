@@ -1,10 +1,18 @@
 ---
-layout: default
 title: A collection of explanations for the material implication
+author: Issa Rice
+description: none
 comments: "yes"
 math: "yes"
 license: unknown
 tags: math, logic
+language: English
+# accepts "notes", "draft", "in progress", or "mostly finished"
+status: notes
+# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
+belief: possible
+# accepts "CC0", "CC-BY", or "CC-BY-SA"
+license: CC-BY
 ---
 
 This document outlines some of the common explanations surrounding the
