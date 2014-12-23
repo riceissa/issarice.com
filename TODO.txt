@@ -8,6 +8,7 @@ NEW:
   files, while hakyll takes about 6 (+4 for compiling site.hs). But
   generator.py does a lot more tag processing, so maybe speed isn't
   really a concern.
+- change search bar to use issarice.com
 
 OLD:
 
