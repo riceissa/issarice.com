@@ -1,7 +1,7 @@
-# riceissa.com
+# Source for issarice.com
 
 This repository hosts the files needed to compile my website,
-<http://riceissa.com>.  The website is compiled from a set of (mainly)
+<http://issarice.com>.  The website is compiled from a set of (mainly)
 markdown files using a custom static site generator stored in
 `generator.py` (which needs access to `classes.py`, `commands.py`,
 `metadata.py`, and `tag_ontology.py`).  Assuming one has the
