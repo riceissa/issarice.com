@@ -70,14 +70,14 @@ Alex K. Chen, Andrew J. Ho, and Daniel Fang have answers.
 - [What advice would you give a college freshman?](https://www.quora.com/What-advice-would-you-give-a-college-freshman)
 Christopher J. Su and Andrew J. Ho have answers.
 
-- [College freshmen meme](http://www.quickmeme.com/College-Freshman).
+- [College freshman meme](http://www.quickmeme.com/College-Freshman).
 See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Senior/).
 
-# For prefrosh
+# For pre-first-year students
 
 Applications for the University of Washington are accepted starting in October and until December 1 (though they may extend it for a day if their servers crash—but don't count on this).
 Then, decisions are mailed starting around March 15 (and you have until around May 1 to decide whether to attend).
-After that, there are several events designed to welcome prospective students and incoming freshmen.
+After that, there are several events designed to welcome prospective students and incoming first-year students.
 
 - [How can I get the most out of a single day visit at the University of Washington?](https://www.quora.com/How-can-I-get-the-most-out-of-a-single-day-visit-at-the-University-of-Washington)
 
@@ -92,7 +92,7 @@ This event is hosted before decision day, and is designed to let prospective stu
 ## Advising and Orientation session (A&O) (June–August)
 
 This event occurs after decision day, and usually after high school is over.
-It is designed to welcome incoming freshmen (i.e. people who were accepted to UW and chose to attend there) by giving tours of the campus, allowing incoming freshmen to interact with each other, having them sign up for their fall-quarter courses, and so on.
+It is designed to welcome incoming first-year students (i.e. people who were accepted to UW and chose to attend there) by giving tours of the campus, allowing incoming first-year students to interact with each other, having them sign up for their fall-quarter courses, and so on.
 
 - [What is it like to go to the UW A&O (for freshmen)?](https://www.quora.com/What-is-it-like-to-go-to-the-UW-A-O-for-freshmen)
 I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-to-go-to-the-UW-A-O-for-freshmen/answer/Issa-Rice) (currently the question only has my answer, so it is essentially identical to the question link) and [here](https://www.quora.com/What-is-the-dinner-lunch-like-at-the-UW-freshmen-A-O/answer/Issa-Rice) (regarding the meals); see also [What is the dinner/lunch like at the UW freshmen A&O?](https://www.quora.com/What-is-the-dinner-lunch-like-at-the-UW-freshmen-A-O) for the meals.
@@ -103,9 +103,7 @@ I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-t
 
 # Doing research
 
--   [How can high school students entering the University of Washington
-    as freshmen gain experience in
-    research?](https://www.quora.com/How-can-high-school-students-entering-the-University-of-Washington-as-freshmen-gain-experience-in-research)
+-   [How can high school students entering the University of Washington as freshmen gain experience in research?](https://www.quora.com/How-can-high-school-students-entering-the-University-of-Washington-as-freshmen-gain-experience-in-research)
 
 - [How can an undergraduate at the University of Washington find research?](https://www.quora.com/How-can-an-undergraduate-at-the-University-of-Washington-find-research)
 
@@ -114,6 +112,7 @@ I have documented my own thoughts [here](https://www.quora.com/What-is-it-like-t
 # Getting the most out of UW
 
 - [What do UW students wish they had known when they were freshmen?](https://www.quora.com/What-do-UW-students-wish-they-had-known-when-they-were-freshmen)
+For Alex's answer, I would recommend [looking in the edits log](https://www.quora.com/What-do-UW-students-wish-they-had-known-when-they-were-freshmen/answer/Alex-K-Chen/log) too.
 
 - [How can I make the most of my college years?](https://www.quora.com/How-can-I-make-the-most-of-my-college-years)
 
@@ -167,7 +166,7 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 - [Alex K. Chen's answer to Colleges and Universities: How can you make important connections if you don't attend a top university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
 
-- The University of Washington does have [its own Facebook app](https://apps.facebook.com/uw_fbapp/) (maybe only for freshmen?), but I haven’t had much success with this yet.
+- The University of Washington does have [its own Facebook app](https://apps.facebook.com/uw_fbapp/) (maybe only for first-year students?), but I haven’t had much success with this yet.
 
 # Housing
 
