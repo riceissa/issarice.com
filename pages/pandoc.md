@@ -1,5 +1,5 @@
 ---
-title: Playing with Pandoc
+title: Pandoc
 description: 
 author: Issa Rice
 creation-date: 2014-10-31
