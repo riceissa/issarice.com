@@ -261,37 +261,7 @@ See [The value of content creation](./the-value-of-content-creation) for more.
     > important, there should be no *forced sequencing* of the entries
     > as in a textbook, where future entries depend on earlier ones.
 
-- See also [this post](https://www.facebook.com/groups/1520172064903930/permalink/1527384787515991/) by Vipul Naik on Libertarian Effective Altruists.
-
-    > "Only a crisis-actual or perceived-produces real change. When that
-    > crisis occurs, the actions that are taken depend on the ideas that are
-    > lying around. That, I believe, is our basic function: to develop
-    > alternatives to existing policies, to keep them alive and available
-    > until the politically impossible becomes politically inevitable." --
-    > [Milton Friedman](https://www.facebook.com/FriedmanMilton) (HT [Naomi
-    > Klein](https://www.facebook.com/profile.php?id=634133341)). I think one
-    > of the goals of libertarian(-ish) policy advocacy, such as free trade,
-    > ending the drug war, open borders, deregulation, etc. is to create such
-    > ideas that are lying around, so that followers of more mainstream
-    > political ideologies can pick them up when a crisis (real or perceived)
-    > strikes.
-    > 
-    > cf.
-    > <https://www.facebook.com/groups/1520172064903930/permalink/1526940824227054/>
-    > 
-    > HT
-    > [http://reason.com/archiv…/2008/…/26/defaming-milton-friedman](http://reason.com/archives/2008/09/26/defaming-milton-friedman)
-    > for the quote
-    > 
-    > I think of sites like
-    > [http://openborders.info](http://openborders.info/) (started by me, but
-    > with many other active participants),
-    > [http://www.policemisconduct.net](http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.policemisconduct.net%2F&h=3AQEzYRDh&enc=AZNEb-oI1Mc1n4qiJ1_4ZYyptSn5iY4n9dkawz5WfZPtEKqE9uhcj_UyYrx0V8gYwEFHl_4T5jSd07xixQquSQI36-ivlthqc6kNDITe1qLkSexV2-pQSQiZGTqr72Zk8C9su23hko4cvZEaJrmu_dPg&s=1)
-    > (no involvement from me), and the forthcoming Free Drugs website as
-    > creating that base of "ideas lying around."
-    > 
-    > Thoughts?
-
+- See [Having ideas that are lying around]().
 
 - Granularity/modularity
 
