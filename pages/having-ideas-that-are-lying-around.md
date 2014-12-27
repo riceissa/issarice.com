@@ -19,6 +19,8 @@ Only a crisis---actual or perceived---produces real change.
 When that crisis occurs, the actions that are taken depend on the ideas that are lying around.
 That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes politically inevitable.
 
+([source](https://books.google.com/books?id=zHSv4OyuY1EC&lpg=PR14&ots=nJOtGm0i83&dq=%22When%20that%20crisis%20occurs%2C%20the%20actions%20that%20are%20taken%20depend%20on%20the%20ideas%20that%20are%20lying%20around%22&pg=PR14#v=onepage&q&f=false))
+
 HT Vipul Naik for pointing me to this quote by Milton Friedman.
 
 
