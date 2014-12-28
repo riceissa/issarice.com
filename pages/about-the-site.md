@@ -30,6 +30,7 @@ The CSS for this site uses [Ethan Schoonover](http://ethanschoonover.com/)’s l
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can visit the repository [here](https://github.com/riceissa/riceissa.com) or by clicking “website source” at the top of any page.
+I also have a [mirror on BitBucket](https://bitbucket.org/riceissa/issarice.com/).
 
 The actual site is served via [Linode](https://www.linode.com/), using Apache 2 on a 64-bit Debian 7 (Wheezy) machine.
 I currently use the [Linode 1GB \$10 per month plan](https://www.linode.com/pricing).
