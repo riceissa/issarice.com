@@ -207,7 +207,7 @@ class Metadata(object):
                 license = license.replace(char, '')
             license = license.upper()
             if license in ["CC0", "PUBLICDOMAIN", "PD"]:
-                self.license = to_unicode(license)
+                self.license = to_unicode("CC0")
             elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
                 self.license = to_unicode("CC-BY")
             elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
