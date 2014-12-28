@@ -9,10 +9,9 @@ license: CC0
 ...
 
 This is the website of Issa Rice.
+Below are some pages that may be of interest:
 
-Some pages:
-
-- [About me](./about-me#self-introduction); [contact me](./about-me#contact)
+- [About me](); [contact me](./about-me#contact)
 - [About this site](./about-the-site)
 - [Content creation: the organization and dissemination of knowledge]() documents my ongoing research on how to effectively publish content online, and how much one can impact the world by publishing such content.
 - [Resources for the University of Washington]() might be a good place to look for those who attend or want to attend the University of Washington.
