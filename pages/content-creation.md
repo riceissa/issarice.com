@@ -1,5 +1,6 @@
 ---
-title: "Content creation: the organization and dissemination of knowledge"
+title: Content creation
+description: my research on the organization and dissemination of knowledge, the impact therein
 tags: content-creation, information
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
