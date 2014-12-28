@@ -1,13 +1,13 @@
 ---
 title: My UW honors portfolio
-description: 
 author: Issa Rice
 creation-date: 2014-11-23
 last-major-revision-date: 2014-11-23
 language: English
 status: draft
-license: unlicensed for now
-tags: university-of-washington
+belief: possible
+license: ccby
+tags: university-of-washington, uw honors
 ...
 
 This is my (Issa Rice's) UW honors portfolio index.
