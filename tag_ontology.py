@@ -48,7 +48,7 @@ tag_synonyms = {
         ["content creation"],
     "effective-altruism":
         ["ea", "effective altruism", "effectivealtruism"],
-    "high-school",
+    "high-school":
         ["hs", "high school"],
     "lesswrong":
         ["lw", "less-wrong", "less wrong"],
