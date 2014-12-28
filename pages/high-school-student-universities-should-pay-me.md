@@ -1,11 +1,11 @@
 ---
-title: "High school student: “Universities should pay me.”"
-description: 
+# this is absurd, but the only way I was able to get both the colon and the quotes to show up...
+title: High school student&#58; \“Universities should pay me\”.
 author: Issa Rice
 creation-date: 2014-11-02
 last-major-revision-date: 2014-11-02
 language: English
-status: draft
+status: mostly finished
 license: CC BY
 tags: literary, fiction
 math: yes
@@ -13,7 +13,7 @@ math: yes
 
 # Information
 
-The following is a fake newspaper article I wrote anonymously, which was subsequently posted to the front wall of the IB history room during my senior year of high school.
+The following is a fake newspaper article I wrote anonymously, which was subsequently posted (though not by me) to the front wall of the IB history room during my senior year of high school.
 
 Thanks to KL, who generously provided feedback.
 
