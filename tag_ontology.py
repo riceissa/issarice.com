@@ -42,6 +42,8 @@ tag_synonyms = {
         ["hacking", "computers"],
     "computer-science":
         ["cs", "computer science"],
+    "content-creation":
+        ["content creation"],
     "set-theory":
         ["set theory"],
     "lesswrong":
