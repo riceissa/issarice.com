@@ -83,9 +83,9 @@ $green: #859900;
 
 // See
 // https://github.com/gwern/gwern.net/blob/master/static/css/default.css
-// for the choice of serif fonts.
-$serif_series: "Linux Libertine", "Linux Libertine O", Baskerville, Trebuchet, Georgia, "Lucida Grande", garamond, palatino, serif;
-$sans_series: Helvetica, Arial, sans-serif;
+// for some of the choices of fonts.
+$serif_series: "Linux Libertine", "Linux Libertine O", Baskerville, Georgia, garamond, palatino, serif;
+$sans_series: Helvetica, Arial, Trebuchet, "Lucida Grande", sans-serif;
 $mono_series: 'Source Code Pro', monospace;
 
 body {
