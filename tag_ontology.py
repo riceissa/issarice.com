@@ -34,36 +34,38 @@ from collections import OrderedDict
 # a tag can be spelled in multiple ways or has common abbreviations.
 # This should be used before doing tag implications.
 tag_synonyms = {
-    "effective-altruism":
-        ["ea", "effective altruism", "effectivealtruism"],
-    "university-of-washington":
-        ["uw", "uwashington", "university of washington"],
-    "computing":
-        ["hacking", "computers"],
-    "computer-science":
-        ["cs", "computer science"],
-    "content-creation":
-        ["content creation"],
-    "set-theory":
-        ["set theory"],
-    "lesswrong":
-        ["lw", "less-wrong", "less wrong"],
-    "cognito-mentoring":
-        ["cm", "cognito mentoring", "cognito"],
-    "math":
-        ["maths", "mathematics"],
-    "links-collection":
-        ["links collection", "link-collection", "link collection",
-        "resources", "links"],
     "atmopsheric-sciences":
         ["atmos"],
     "chemistry":
         ["chem"],
+    "cognito-mentoring":
+        ["cm", "cognito mentoring", "cognito"],
+    "computer-science":
+        ["cs", "computer science"],
+    "computing":
+        ["hacking", "computers"],
+    "content-creation":
+        ["content creation"],
+    "effective-altruism":
+        ["ea", "effective altruism", "effectivealtruism"],
+    "high-school",
+        ["hs", "high school"],
+    "lesswrong":
+        ["lw", "less-wrong", "less wrong"],
+    "links-collection":
+        ["links collection", "link-collection", "link collection",
+        "resources", "links"],
+    "math":
+        ["maths", "mathematics"],
+    "psychology":
+        ["psych"],
     "quantified-self":
         ["qs", "quantified self", "life logging", "life-logging",
         "sousveillance"],
-    "psychology":
-        ["psych"],
+    "set-theory":
+        ["set theory"],
+    "university-of-washington":
+        ["uw", "uwashington", "university of washington"],
     "university-of-washington-honors-program":
         ["uw-honors", "uw honors", "honors program", "honors-program"],
 }
