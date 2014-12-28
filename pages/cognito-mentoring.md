@@ -75,4 +75,8 @@ See for instance [their wiki page on EA](http://info.cognitomentoring.org/wiki/E
 
 - I've also made [minor contributions to the CM info wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).
 
-- I've also received emotional support from the mentors of CM, as well as from those I met through CM.
+- I've also received emotional support from one of the mentors of CM, as well as from those I met through CM.
+
+To be sure, I think I am one of the mentees that benefited most from Cognito Mentoring.
+For example, I think that, although my friend who contacted CM along with me benefited from the service, she did not get as much out of it as I did---in other words, I think that she would have pretty much ended up at the same place regardless of the mentoring, whereas in my case, I think that my output and impact on the world would have been much less without CM.
+I'm not sure there is a definite reason for this difference, other than that I "clicked" with the ideals behind CM.
