@@ -54,6 +54,7 @@ I also don't mind if you ask questions about me on Quora, though recently Quora 
 
 - My email address is [riceissa@gmail.com](mailto:riceissa@gmail.com).
 - You can also send me anonymous feedback using [this form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (idea from [lukeprog](http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/) and [Gwern](http://www.gwern.net/About#anonymous-feedback)).
+- I have an [identification photo](./identification-photo.jpg) in case you'd like to know what I look like.
 
 ## Social
 
