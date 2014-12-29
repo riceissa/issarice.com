@@ -27,28 +27,13 @@ Feel free to [connect with me](./about-me#contact) if you have questions or just
 [^uw]: The University of Washington campus (Seattle) would be especially convenient for me.
 
 
-# Rationality resources
+# Rationality community and resources
+
+Since about 2007, there has been a growing community---both online and offline---based around the idea of "rationality", i.e. the idea that [one should (1) have beliefs that correspond to reality, and (2) execute actions in the real world so as to achieve one's goals](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/).
+Learning about rationality is valuable in itself, but there is also an aspect of being in a "rationalist community" that appeals to many.
 
 ## Less Wrong
 
-Depending on your personality fit with the community, [Less Wrong](http://lesswrong.com/) may be a very good place to check out.
-Some posts to check out (FIXME: make this part more fluid later):
-
-Less Wrong is also a good place to find other resources.
-
-- Some of the best content on Less Wrong might just be pointers to other high quality resources.
-“[The Best Textbooks on Every Subject](http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/)” was the post that first got me excited about Less Wrong.
-Also [References \& Resources for LessWrong](http://lesswrong.com/lw/2un/references_resources_for_lesswrong/) is excellent.
-
-- [Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/) asks the questions "What is disease?" and considers when it is appropriate to sympathize with or prod a victim of a "disease".
-
-- [The noncentral fallacy - the worst argument in the world?](http://lesswrong.com/lw/e95/the_noncentral_fallacy_the_worst_argument_in_the/)
-
-- find more high school-related posts.
-
-- books are declining in importance compared to material one can find on the internet; see “[Yes, a blog.](http://lesswrong.com/lw/33j/yes_a_blog/)”
-
-[maybe insert a guide in here of how to effectively use LW]
 
 ## gwern
 
