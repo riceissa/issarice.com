@@ -38,9 +38,9 @@ Even conventionally successful intellectuals like Noam Chomsky hated high school
 - If you are in Washington state, seriously consider early entrance to the University of Washington.
 See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars) on Quora.
 
-- Looking at the resource on Cognito Mentoring is a good idea.
+- Looking at the resources on [Cognito Mentoring]() is a good idea.
 
-- In general, it's probably best to [stay mainstream until you have demonstrated success doing unusual stuff](http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff).
+- In general, however, it's probably best to [stay mainstream until you have demonstrated success doing unusual stuff](http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff).
 
 ## Paul Graham
 
@@ -173,13 +173,6 @@ The essay also doesn't provide much that is actionable; we are left wondering "O
 
 He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
 
-# Other
-
-- [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
-
-- Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
-(Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
-
 
 # Depression
 
@@ -205,6 +198,8 @@ It's always best to think in the long term; practicing a sport, for instance, ma
 (There are obviously creative ways to provide value even with a sport, e.g. by recording it and therefore providing entertainment even after one has stopped playing, or by having instilled in one a sense of discipline in maintaining one's health[^otherways].)
 
 [^otherways]: Though with this, it's always possible *without* spending all the time on a sport.
+
+I'm probably unusual in thinking that *in moderate amounts of each* recreational drug use is probably more useful than sports.
 
 # Thinking about careers
 
@@ -289,7 +284,7 @@ And:
 > nobody can deny your identity as an engineer, even if you sometimes
 > forget how to find all the subsets of an int array that sum to k.
 
-# Expanding your imagination
+# Other/Expanding your imagination
 
 - Mencious Moldbug/neoreactionaries
 
@@ -310,3 +305,13 @@ how *little* people remember from lectures/class,
 opportunity cost of college.
 
 - the importance of *creating things* and *having something to look back on*; take the example of Uber: on bad days, Travis Kalanick can just look at the usage chart of his company.
+
+- [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
+
+- Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
+(Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
+
+- conventional intellectual heroes like Bertrand Russell, Feynman, Chomsky, etc., can be good to a certain extent, in that they show you how to stand up for something, apply critical thinking, etc.
+However, compared to LW and the "new wave" of critical thinking in the 2000s/2010s, they are somewhat outdated.
+
+- beware of "tunnel vision" into mathematics and physics (and other STEM fields too).
