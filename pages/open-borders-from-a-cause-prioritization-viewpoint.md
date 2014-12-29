@@ -16,6 +16,7 @@ tags: untagged
 
 Since the beginning of October 2014, I've been interested in [cause prioritization](https://en.wikipedia.org/wiki/Effective_altruism#Cause_prioritization), the problem of trying to find what the best causes to work on are.
 Superficially, this sounds very similar to what organizations like [GiveWell](http://www.givewell.org/) and [Giving What We Can](https://www.givingwhatwecan.org/) traditionally do regarding charity evaluation.
+However, 
 
 Here, I want to 
 
