@@ -26,57 +26,9 @@ Feel free to [connect with me](./about-me#contact) if you have questions or just
 
 [^uw]: The University of Washington campus (Seattle) would be especially convenient for me.
 
+# Dealing with school
 
-# Rationality community and resources
-
-Since about 2007, there has been a growing community---both online and offline---based around the idea of "rationality", i.e. the idea that [one should (1) have beliefs that correspond to reality, and (2) execute actions in the real world so as to achieve one's goals](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/).
-Learning about rationality is valuable in itself, but there is also an aspect of being in a "rationalist community" that appeals to many.
-
-## Less Wrong
-
-
-## gwern
-
-[gwern](http://lesswrong.com/user/gwern/) is probably one of the most well-known users on Less Wrong.
-He also has a [website](http://www.gwern.net/) that has numerous essays on eveything from nootropics to Wikipedia editing.
-His notion of [Long Content](http://www.gwern.net/About) is also especially inspiring: "if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself".
-For high school students especially, the essays [On Stress](http://www.gwern.net/On%20Stress) and [On Disrespect](http://www.gwern.net/On%20Disrespect) may be of interest.
-His [stories](http://www.gwern.net/Notes#stories) also tend to have "lessons" (like Kafka's parables) and are entertaining to read.
-
-I think part of the appeal of gwern is that he inspires many people because his website doesn't look like "magic"; one can agree that, given enough time, anyone can attempt what he did.
-
-
-## Slate Star Codex
-
-[Slate Star Codex](http://slatestarcodex.com/) is an excellent blog ranging in topics from romance to social justice to reactionary politics.
-See the [top posts](http://slatestarcodex.com/top-posts/) for more.
-He is particularly good at [steelmanning](http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/) opponents' arguments.
-He is also good at picking out useful content on Reddit.
-
-The "[graduation speech](http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)" Scott gives may be of interest.
-I think it's entertaining to read, and makes some good points, but ultimately doesn't do anything new.
-(In other words, I think Paul Graham's essays already provide a lot of the heuristics of the argument; Scott does do a better job of linking to sources and using numbers though.)
-I get the feeling that my views didn't change after reading this, though perhaps for some, reading the article will give more coherence to your ideas.
-The conclusion is specifically disappointing, since it abruptly ends with "kindness is what's important".
-The essay also doesn't provide much that is actionable; we are left wondering "Okay, so what do *I* do?"
-(In this sense I think Cognito Mentoring does a much better job.)
-
-He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
-
-# Other
-
-- [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
-
-- Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
-(Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
-
-# Frustrations
-
-## Dealing with depression
-
-Please see [Dealing with depression]().
-
-## Dealing with school
+## General ideas
 
 - Sometimes it's good just to know that you are not the only one who is extremely frustrated with high school.
 Even conventionally successful intellectuals like Noam Chomsky hated high school; see [my answer here on Quora](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice), for instance.
@@ -90,10 +42,32 @@ See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-Univer
 
 - In general, it's probably best to [stay mainstream until you have demonstrated success doing unusual stuff](http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff).
 
-- Everyone should read Paul Graham's [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html), especially those who are frustrated by school.
+## Paul Graham
 
-Paul Graham's essay [Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html) may be of interest.
-Below are the parts the most resonated with me.
+Entrepreneur Paul Graham writes good essays on various topics, including high school.
+Even [Vipul Naik](http://vipulnaik.com) of [Cognito Mentoring]() [highly respects Paul Graham](http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/):
+
+
+> I’m a great fan of [Paul Graham](http://www.paulgraham.com), essayist,
+> entrepreneur, and co-founder of startup accelerator [Y Combinator](http://www.ycombinator.com) (along with his wife Jessica Livingston, whom I also admire greatly). Through Y Combinator, Graham
+> has changed the startup and tech company landscape and profoundly
+> affected the world. (Some Y Combinator-funded companies you’ve probably
+> heard of are [Reddit](http://www.reddit.com),
+> [Airbnb](http://airbnb.com), [Dropbox](http://www.dropbox.com),
+> [Scribd](http://www.scribd.com), [Disqus](http://www.disqus.com), and
+> [Stripe](http://www.stripe.com)). Graham also started [Hacker
+> News](http://news.ycombinator.com), a Reddit-of-sorts for the
+> programmer/startup crowd. In the world of letters, Graham is better
+> known for his long-form essays that include incisive social commentary.
+> If you haven’t yet read his pieces, I encourage you to [check them all
+> out](http://paulgraham.com/articles.html) (I particularly like [this one](http://paulgraham.com/say.html), that might be somewhat relevant
+> here). He’s done more for the world than most people, including me,
+> could dream of. And he knows a lot more about how the world works than I
+> do.
+
+The primary essay Graham has on frustration with high school is "[What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)".
+His "[Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html)" may also be of interest.
+Below are the parts from "Why Nerds are Unpopular" that most resonated with me:
 
 > At the time I never tried to separate my wants and weigh them against one another. If I had, I would have seen that being smart was more important. If someone had offered me the chance to be the most popular kid in school, but only at the price of being of average intelligence (humor me here), I wouldn't have taken it.
 > 
@@ -119,7 +93,7 @@ Below are the parts the most resonated with me.
 > 
 > It's important for nerds to realize, too, that school is not life. School is a strange, artificial thing, half sterile and half feral. It's all-encompassing, like life, but it isn't the real thing. It's only temporary, and if you look, you can see beyond it even while you're still in it.
 
-### Peter Thiel
+## Peter Thiel
 
 From [this article](http://vator.tv/news/2014-11-22-peter-thiel-education-the-catholic-church-circa-1500) (HT Alex):
 
@@ -148,14 +122,81 @@ From [this article](http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-lu
 > figure it out on your own. And that is the last thing anybody wants to
 > hear.
 
+# Rationality community and resources
+
+Since about 2007, there has been a growing community---both online and offline---based around the idea of "rationality", i.e. the idea that [one should (1) have beliefs that correspond to reality, and (2) execute actions in the real world so as to achieve one's goals](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/).
+Learning about rationality is valuable in itself, but there is also an aspect of being in a "rationalist community" that appeals to many.
+
+I think the best places to look are: LessWrong, gwern's site, and Slate Star Codex (a blog by Scott Alexander).
+In fact, both gwern and Scott Alexander are active users of LW who chose to branch off to their own websites.
+
+In particular, for high school students, 
+
+## Less Wrong
+
+It is however important to emphasize that having a good fit with the community of LW may be important.
+For instance, I know several intelligent people who cannot stand LW.
+
+
+- find more high school-related posts.
+
+Main page: [LessWrong]().
+
+## gwern
+
+[gwern](http://lesswrong.com/user/gwern/) is probably one of the most well-known users on Less Wrong.
+He also has a [website](http://www.gwern.net/) that has numerous essays on eveything from nootropics to Wikipedia editing.
+His notion of [Long Content](http://www.gwern.net/About) is also especially inspiring: "if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself".
+For high school students especially, the essays [On Stress](http://www.gwern.net/On%20Stress) and [On Disrespect](http://www.gwern.net/On%20Disrespect) may be of interest.
+His [stories](http://www.gwern.net/Notes#stories) also tend to have "lessons" (like Kafka's parables) and are entertaining to read.
+
+I think part of the appeal of gwern is that he inspires many people because his website doesn't look like "magic"; one can agree that, given enough time, anyone can attempt what he did.
+
+One thing that gwern does particularly well is emphasizing the importance of planning for the long term.
+He expertly uses free software, URL archival tools, plain texts for his site, etc.
+
+
+## Slate Star Codex
+
+[Slate Star Codex](http://slatestarcodex.com/) is an excellent blog ranging in topics from romance to social justice to reactionary politics.
+See the [top posts](http://slatestarcodex.com/top-posts/) for more.
+He is particularly good at [steelmanning](http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/) opponents' arguments.
+He is also good at picking out useful content on Reddit.
+
+The "[graduation speech](http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)" Scott gives may be of interest.
+I think it's entertaining to read, and makes some good points, but ultimately doesn't do anything new.
+(In other words, I think Paul Graham's essays already provide a lot of the heuristics of the argument; Scott does do a better job of linking to sources and using numbers though.)
+I get the feeling that my views didn't change after reading this, though perhaps for some, reading the article will give more coherence to your ideas.
+The conclusion is specifically disappointing, since it abruptly ends with "kindness is what's important".
+The essay also doesn't provide much that is actionable; we are left wondering "Okay, so what do *I* do?"
+(In this sense I think Cognito Mentoring does a much better job.)
+
+He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
+
+# Other
+
+- [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
+
+- Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
+(Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
+
+
+# Depression
+
+Depression can be a source of *huge* problems in high school.
+I'm not really an expert on the topic, but you can read my page on [Dealing with depression]().
+
+I also do more academic research into depression as an effective altruism cause on the [Depression page on the Cause Prioritization Wiki](http://causeprioritization.org/Depression).
+
+
 # Effective altruism
 
-[to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [here](/effective-altruism-links)]
+[to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [here](./effective-altruism-links)]
 
 
 # How to go about content creation
 
-My main page on this is [Content creation: the organization and dissemination of knowledge](/content-creation-the-organization-and-dissemination-of-knowledge)
+My main page on this is [Content creation: the organization and dissemination of knowledge](./content-creation)
 
 See also [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence) on the Cognito Mentoring wiki.
 
