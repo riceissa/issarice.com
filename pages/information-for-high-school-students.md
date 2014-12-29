@@ -1,14 +1,30 @@
 ---
 title: Information for high school students
-tags: school, lesswrong, self-improvement
+description: what I wish I had known
+author: Issa Rice
+language: English
+# accepts "notes", "draft", "in progress", or "mostly finished"
+status: notes
+# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
+belief: possible
+# accepts "CC0", "CC-BY", or "CC-BY-SA"
+license: public domain
+tags: school, lesswrong, self-improvement, high school
 ...
 
-The idea here is to produce a list of resources for high school students who are frustrated with school and want something better, but don't know where to begin to look.
-It may be better thought of as "what I wish I had (known) when I was in high school".
-Therefore this page is unlikely to suit most people (since my target audience is my past self, and I tend to be at odds with the mainstream).
-Another way to state the purpose of this page is: it's a list of all the things that have influenced and inspired me up to this point (this point = end of high school).
+# Introduction
 
-Feel free to [connect with me](/about-me#contact) if you have questions or just want to talk to me (if you're in the Seattle area I can even meet up with you).
+In high school it is common to feel the frustration described in the introductory paragraph for [Cognito Mentoring]():
+
+> You love learning. You spend a lot of time reading fiction or learning about science or solving math problems or all of the above. School doesn’t meet your intellectual needs. Classes often emphasize rote memorization of disjointed collections of facts. You only know a few people who you can talk about ideas with. You wish you had more, and you wish you had better perspective on what there is to learn and how best to learn it.
+
+While the [Cognito Mentoring info wiki](http://info.cognitomentoring.org/wiki/Main_Page) provides excellent general advice, here I hope to give more specialized advice; in particular, this page is tailored toward my past self, and documents advice that I wish I had gotten while I was in high school.
+Therefore this page is unlikely to suit most people (since the target audience is my past self, and I tend to be unusual by most standards).
+Another way to describe this page is to say it is a list of all the things that have profoundly influenced and inspired me up to this point.
+
+Feel free to [connect with me](./about-me#contact) if you have questions or just want to talk to me; in particular, if you're in the Seattle area I can even meet up with you[^uw].
+
+[^uw]: The University of Washington campus (Seattle) would be especially convenient for me.
 
 
 # Rationality resources
@@ -267,4 +283,4 @@ radical experimentation,
 how *little* people remember from lectures/class,
 opportunity cost of college.
 
-
+- the importance of *creating things* and *having something to look back on*; take the example of Uber: on bad days, Travis Kalanick can just look at the usage chart of his company.
