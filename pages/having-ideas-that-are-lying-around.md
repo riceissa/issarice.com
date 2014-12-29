@@ -8,7 +8,7 @@ language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
+belief: unlikely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: content creation
@@ -45,7 +45,7 @@ As Caplan concludes:
 > The voice of reason \[...\] gets its most sympathetic hearing when things are running smoothly, so the public is calm enough to think rationally about how to improve on the status quo
 
 It would be interesting to ask which of these is right, but we won't do that here.
-Instead, I want to explore whether Friedman's quote has 
+Instead, I want to explore whether Friedman's quote has any merit in the realm of content creation.
 
 
 Some more thoughts:
