@@ -9,6 +9,7 @@ license: CC0
 ...
 
 This is the website of Issa Rice.
+This site stores basic information about myself, but it is also a personal wiki of sorts.
 Below are some pages that may be of interest:
 
 - [About me](); [contact me](./about-me#contact)
