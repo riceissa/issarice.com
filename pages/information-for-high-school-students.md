@@ -49,6 +49,9 @@ See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-Univer
 
 - One can treat the system like a constraint (CM), like a day job (Paul Graham), etc.
 
+- Actively search for alternatives.
+For example, if one lives in Washington state, then the early entrace program at UW can be a very good option.
+Even if one does not enroll in this program, UW is generally accepted to be a decent school (though what you do there is most important)
 
 ## Paul Graham
 
@@ -193,7 +196,7 @@ I also do more academic research into depression as an effective altruism cause 
 
 # Effective altruism
 
-[to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [here](./effective-altruism-links)]
+[to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [Effective altruism]()]
 
 
 # How to go about content creation
@@ -245,12 +248,10 @@ If there is one book that emphasizes the tragedy of Death, it is this book, beca
 
 # Extracurriculars
 
-- It's very difficult to completely ignore the mainstream approach, especially if one lacks imaginative/creative approaches (I think this leads many people to think that doing sports, practicing an instrument, becoming a club leader, etc., are the best use of one's extracurricular time, or even *necessary* to enusre success in college applications, etc.)
+- It's very difficult to completely ignore the mainstream approach, especially if one lacks imaginative/creative approaches (I think this leads many people to think that doing sports, practicing an instrument, becoming a club leader, etc., are the best use of one's extracurricular time, or even *necessary* to ensure success in college applications, etc.)
 
-- If one wants to attend an elite college (and there are quite a few good reasons for doing so), then following this path may be a good idea (though still, it's always importatn to distinguish oneself)
+- If one wants to attend an elite college (and there are quite a few good reasons for doing so), then following this path may be a good idea (though still, it's always important to distinguish oneself)
 
-- If one lives in Washington state, then the early entrace program at UW can be a very good option.
-Even if one does not enroll in this program, UW is generally accepted to be a decent school (though what you do there is most important)
 
 
 # Doing something important
