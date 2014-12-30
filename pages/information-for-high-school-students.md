@@ -6,7 +6,7 @@ language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: possible
+belief: unlikely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
 tags: school, lesswrong, self-improvement, high school
@@ -26,9 +26,14 @@ Feel free to [connect with me](./about-me#contact) if you have questions or just
 
 [^uw]: The University of Washington campus (Seattle) would be especially convenient for me.
 
-# Dealing with school
+# Dealing with high school
 
 ## General ideas
+
+
+> "\[S\]chool \[...\] is a pathological environment. It's pathological, because it sells itself as a "place of learning" while shunning the best learning tool there is \[i.e. failure\]. In school, the worst thing you can do is fail. If you fail seriously enough, you get "held back" or, at the very least, you get branded with an F. School teaches you to loath failing, which is basically teaching you to loath learning."
+>
+> ---[Marcus Geduld](https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld)
 
 - Sometimes it's good just to know that you are not the only one who is extremely frustrated with high school.
 Even conventionally successful intellectuals like Noam Chomsky hated high school; see [my answer here on Quora](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice), for instance.
@@ -41,6 +46,9 @@ See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-Univer
 - Looking at the resources on [Cognito Mentoring]() is a good idea.
 
 - In general, however, it's probably best to [stay mainstream until you have demonstrated success doing unusual stuff](http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff).
+
+- One can treat the system like a constraint (CM), like a day job (Paul Graham), etc.
+
 
 ## Paul Graham
 
@@ -132,7 +140,7 @@ In fact, both gwern and Scott Alexander are active users of LW who chose to bran
 
 In particular, for high school students, 
 
-## Less Wrong
+## LessWrong
 
 It is however important to emphasize that having a good fit with the community of LW may be important.
 For instance, I know several intelligent people who cannot stand LW.
@@ -144,7 +152,7 @@ Main page: [LessWrong]().
 
 ## gwern
 
-[gwern](http://lesswrong.com/user/gwern/) is probably one of the most well-known users on Less Wrong.
+[gwern](http://lesswrong.com/user/gwern/) is probably one of the most well-known users on LessWrong.
 He also has a [website](http://www.gwern.net/) that has numerous essays on eveything from nootropics to Wikipedia editing.
 His notion of [Long Content](http://www.gwern.net/About) is also especially inspiring: "if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself".
 For high school students especially, the essays [On Stress](http://www.gwern.net/On%20Stress) and [On Disrespect](http://www.gwern.net/On%20Disrespect) may be of interest.
@@ -168,15 +176,16 @@ I think it's entertaining to read, and makes some good points, but ultimately do
 (In other words, I think Paul Graham's essays already provide a lot of the heuristics of the argument; Scott does do a better job of linking to sources and using numbers though.)
 I get the feeling that my views didn't change after reading this, though perhaps for some, reading the article will give more coherence to your ideas.
 The conclusion is specifically disappointing, since it abruptly ends with "kindness is what's important".
-The essay also doesn't provide much that is actionable; we are left wondering "Okay, so what do *I* do?"
+The essay also doesn't provide much that is actionable; one is left wondering "Okay, so what do *I* do?"
 (In this sense I think Cognito Mentoring does a much better job.)
 
-He also has a(n older?) website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
+Scott Alexander also has an older website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
 
 
 # Depression
 
-Depression can be a source of *huge* problems in high school.
+High school can be a source of depression, since it is essentially [child abuse](https://www.quora.com/Do-most-intelligent-people-have-trouble-with-the-public-school-system/answer/Marcus-Geduld).
+Depression can in turn cause other problems.
 I'm not really an expert on the topic, but you can read my page on [Dealing with depression]().
 
 I also do more academic research into depression as an effective altruism cause on the [Depression page on the Cause Prioritization Wiki](http://causeprioritization.org/Depression).
@@ -210,8 +219,28 @@ I'm probably unusual in thinking that *in moderate amounts of each* recreational
 
 # Books
 
-- Selfish Gene
-- GEB (though I personally don't like it much); Eliezer Yudkowsky, for one, seems to [like the book a lot](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/).
+Books are declining in relative importance because of the internet and its plethora of blogs.
+Books also tend to be old, and, more detrimentally, have a slow feedback loop (i.e. on a website, errors can be corrected quickly, whereas with books it may take years---and the corrections only appear on the new editions).
+Nevertheless, some books are very much worth reading.
+
+- Start with [Cognito Mentoring's recommendations](http://info.cognitomentoring.org/wiki/Core_reading_recommendations).
+
+Some other books to look into (I haven't read some of these):
+
+- Dawkins's *Selfish Gene*
+- Douglas Hofstadter's *Gödel, Escher, Bach*[^ey]
+- Judith Harris Rich's *The Nurture Assumption* and *No Two Alike*
+- *The App Generation* by Howard Gardner and Katie Davis
+- *Uncharted: Big Data as a Lens on Human Culture* by Erez Aiden and Jean-Baptiste Michel
+- *Hatching Twitter: a true story of money, power, friendship, and betrayal* by Nick Bilton
+- *[The PayPal Wars](!w)* by Eric M. Jackson
+- *[The Facebook Effect](!am)* by David Kirkpatrick
+
+
+[^ey]: I personally don't like this book very much, but it is highly regarded among scientists and mathematicians.
+Eliezer Yudkowsky, for one, seems to [like the book a lot](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/): "\ 'Gödel, Escher, Bach' by Douglas R. Hofstadter is the most awesome book that I have ever read.
+If there is one book that emphasizes the tragedy of Death, it is this book, because it's terrible that so many people have died without reading it."
+(Emphasis removed, since it was over the whole quote.)
 
 
 # Extracurriculars
@@ -232,13 +261,14 @@ There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw)
 Some good quotes:
 
 > In order to get at you individually, I must talk in the first person.
-> I have to get you to drop modesty and say to yourself, “Yes, I would
-> like to do first-class work.” Our society frowns on people who set out
+> I have to get you to drop modesty and say to yourself, “**Yes, I would
+> like to do first-class work.**” Our society frowns on people who set out
 > to do really good work. You're not supposed to; luck is supposed to
 > descend on you and you do great things by chance. Well, that's a kind
-> of dumb thing to say. I say, why shouldn't you set out to do something
+> of dumb thing to say. I say, **why shouldn't you set out to do something
 > significant. You don't have to tell other people, but shouldn't you
-> say to yourself, “Yes, I would like to do something significant.”
+> say to yourself, “Yes, I would like to do something significant.”**
+> \[emphasis mine\]
 
 Another:
 
@@ -284,7 +314,15 @@ And:
 > nobody can deny your identity as an engineer, even if you sometimes
 > forget how to find all the subsets of an int array that sum to k.
 
-# Other/Expanding your imagination
+# Academia
+
+Beware of "tunnel vision" into mathematics and physics (and other STEM fields too).
+In particular, while knowing about the possibilities of academia is important, *going to graduate school shouldn't be one's default route*.
+As [Holden Karnofsky of GiveWell says](https://80000hours.org/2013/04/interview-with-holden-karnofsky-co-founder-of-givewell/), regarding academia, "\[p\]eople usually either completely ignore that possibility or they completely ignore every other possibility".
+Also you always have to remeber quotes like "[I have known more people whose lives have been ruined by getting a Ph.D. in physics than by drugs](http://physics.wustl.edu/katz/scientist.html)".
+Remember that there also exist things like [100 Reasons NOT to Go to Graduate School](http://100rsns.blogspot.com/).
+
+# Other ideas---expanding your imagination
 
 - Mencious Moldbug/neoreactionaries
 
@@ -314,4 +352,7 @@ opportunity cost of college.
 - conventional intellectual heroes like Bertrand Russell, Feynman, Chomsky, etc., can be good to a certain extent, in that they show you how to stand up for something, apply critical thinking, etc.
 However, compared to LW and the "new wave" of critical thinking in the 2000s/2010s, they are somewhat outdated.
 
-- beware of "tunnel vision" into mathematics and physics (and other STEM fields too).
+- Read Roy Baumeister's "[Is There Anything Good About Men?](http://denisdutton.com/baumeister.htm)"
+
+- In general, you should stalk the lives of the most promising entrepreneurs like Mark Zuckerberg, Travis Kalanick (see especially his failcon talk), Jeff Bezos, etc.
+These people are the new wave of "most impressive people", following traditional impressive people like Feynman.
