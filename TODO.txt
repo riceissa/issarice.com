@@ -8,7 +8,6 @@ NEW:
   files, while hakyll takes about 6 (+4 for compiling site.hs). But
   generator.py does a lot more tag processing, so maybe speed isn't
   really a concern.
-- change search bar to use issarice.com
 - fix slugification method... (right now i think it fails for japanese characters, for example, as well as accented latin characters. also consider switching to wikipedia-style Cool URIs.)
 
 OLD:
