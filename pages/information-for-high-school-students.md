@@ -189,7 +189,7 @@ Scott Alexander also has an older website called [Raikoth](http://www.raikoth.ne
 
 High school can be a source of depression, since it is essentially [child abuse](https://www.quora.com/Do-most-intelligent-people-have-trouble-with-the-public-school-system/answer/Marcus-Geduld).
 Depression can in turn cause other problems.
-I'm not really an expert on the topic, but you can read my page on [Dealing with depression]().
+I'm not really an expert on the topic, but you can read my page on [Depression]().
 
 I also do more academic research into depression as an effective altruism cause on the [Depression page on the Cause Prioritization Wiki](http://causeprioritization.org/Depression).
 
