@@ -1,5 +1,5 @@
 ---
-title: Dealing with depression
+title: Depression
 author: Issa Rice
 tags: self-improvement, psychology, depression
 language: English
