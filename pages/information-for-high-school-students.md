@@ -2,6 +2,7 @@
 title: Information for high school students
 description: what I wish I had known
 author: Issa Rice
+last-major-revision-date: 2014-12-29
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
