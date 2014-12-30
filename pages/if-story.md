@@ -1,5 +1,5 @@
 ---
-title: If
+title: If (story)
 tags: fiction, literary
 ...
 
