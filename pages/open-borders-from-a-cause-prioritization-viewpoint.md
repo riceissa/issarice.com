@@ -11,14 +11,45 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: cause prioritization, open borders
 ...
+
+---The headings will probably be removed in the final iteration.
+
+My outline from elsewhere:
+
+well, what do i actually have to say for the OB post about CP???
+
+<ul>
+<li>short description of what the CP wiki is, and what ive accomplished so far</li>
+<li>results so far... (which are unimpressive)</li>
+<li>pointing to vipul's post about his decision to continue ob. and how alexander berger found ob was one of the top causes.</li>
+<li>also something about what cp is, and who all the other ppl working on it are, what their approaches are, what my own approach is (well, what *is* my approach?)</li>
+</ul>
+
+# Introduction/What is CP?
 
 Since the beginning of October 2014, I've been interested in [cause prioritization](https://en.wikipedia.org/wiki/Effective_altruism#Cause_prioritization), the problem of trying to find what the best causes to work on are.
 Superficially, this sounds very similar to what organizations like [GiveWell](http://www.givewell.org/) and [Giving What We Can](https://www.givingwhatwecan.org/) traditionally do regarding charity evaluation.
-However, 
+However, [as explained by GiveWell](FIXME), traditional charity evaluation has been focused on fairly narrow areas: those that FIXME.
+In contrast, cause prioritization does not shy away from more speculative causes.
+Actually GiveWell also has its own project on cause prioritization, known as the [Open Philanthropy Project](FIXME) (formerly GiveWell Labs).
+As GiveWell explains:
+
+> FIXME: put quote about how OPP is different from traditional work.
+
+It may seem fairly obvious which broad causes are the most important, but there are arguments for the case that CP is one of the most neglected and important causes:
+
+> FIXME: quote GW post about how funders practically ignore cause selection
+
+> FIXME: quote 80kH on CP
+
+# What am I doing?/What is CP Wiki?/What has it done so far?
 
 Here, I want to 
+
+
+# How does this all tie into Open Borders?
 
 Vipul Naik, in "[Why I’m sticking with open borders, or, plucking the not-so-low-hanging fruit](http://openborders.info/blog/why-im-sticking-with-open-borders-or-plucking-the-not-so-low-hanging-fruit/)", quotes [Alexander Berger's back-of-the-envelope calculations](https://docs.google.com/document/d/1DTl4TYaTPMAtwQTju9PZmxKhZTCh6nmi-Vh8cnSgYak/edit), which show that labor mobility---i.e. open borders---is remarkably high in terms of returns.
 
