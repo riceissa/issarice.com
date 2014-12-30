@@ -38,6 +38,8 @@ tag_synonyms = {
         ["atmos"],
     "chemistry":
         ["chem"],
+    "cause-prioritization":
+        ["cp", "cause prioritization"],
     "cognito-mentoring":
         ["cm", "cognito mentoring", "cognito"],
     "computer-science":
@@ -57,6 +59,8 @@ tag_synonyms = {
         "resources", "links"],
     "math":
         ["maths", "mathematics"],
+    "open-borders":
+        ["ob", "open borders"],
     "psychology":
         ["psych"],
     "quantified-self":
