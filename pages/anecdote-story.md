@@ -28,6 +28,5 @@ On the cement ground I struggled and repeatedly shouted "Police!" until a woman 
 When the police were about to come, he disappeared.
 I lay there holding my hands, tightly bound, as if in a prayer.
 I was alone on the sidewalk, though people walked by on the opposite side of the street.
-Now *I* look like the man.
 
-It was no use---I acquiesced as the police carried me away.
+It was no use---I acquiesced as the they carried me away.
