@@ -1,6 +1,6 @@
 ---
 title: The Red Leech
-tags: fiction, literary, school
+tags: fiction, literary, school, high school
 date: 2012-09-23
 ...
 
