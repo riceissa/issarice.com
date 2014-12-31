@@ -35,3 +35,13 @@ Since gwern's website is CC0 (public domain), I will just quote his whole [secti
 > 8. "impossible"
 > 
 > These are used to express my feeling about how well-supported the essay is, or how likely it is the overall ideas are right. (Of course, an interesting idea may be worth writing about even if very wrong, and even a long shot may be profitable to examine if the potential payoff is large enough.)
+
+# Frequency
+
+But now, given these belief tags, one might ask what the frequency of each belief on a site such as this one should be.
+Having everything be "certain" to "likely" might be how a typical site or blog operates; i.e. the writer only publishes what they believe.
+But this sounds limiting---and this is exactly why belief tags are useful.
+But what of the other extreme?---In other words, what if one were to only write what one believed to be false?
+A successful such execution would display the writer's creativity, to be sure, but is unlikely to contain much useful information.
+
+One might also ask what the "natural frequency" of each belief might be, if a writer were to log *all* of their thoughts\ ...
