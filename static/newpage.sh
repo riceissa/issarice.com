@@ -8,7 +8,8 @@ echo -n "Title: "
 
 read title
 
-slug="$(echo -n "${title}" | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z | sed -e 's/^\-//' | sed -e 's/\-$//')"
+# You must have slug.py in the same directory as this script
+slug="$(echo -n "${title}" | python ${scriptdir}/slug.py)"
 pagename="$slug.md"
 pagepath="${sitedir}/pages/$slug.md"
 
