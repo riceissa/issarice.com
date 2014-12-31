@@ -28,7 +28,9 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 from pandocfilters import toJSONFilter, stringify, Link
+from slugify import slugify_unicode
 import commands as c
+from classes import to_string
 
 def url_filter(key, value, format_, meta):
     '''
@@ -47,11 +49,7 @@ def url_filter(key, value, format_, meta):
             return Link(txt, [url, attr])
         if url == '':
             # So we want to internally link txt
-            url = c.run_command("sed -e 's/[^[:alnum:]]/-/g'", pipe_in=stringify(txt))
-            url = c.run_command("tr -s '-'", pipe_in = url)
-            url = c.run_command("tr A-Z a-z", pipe_in=url)
-            url = c.run_command("sed -e 's/^\-//'", pipe_in=url)
-            url = c.run_command("sed -e 's/\-$//'", pipe_in=url)
+            url = to_string(slugify_unicode(stringify(txt), to_lower=True))
             url = "./" + url
             return Link(txt, [url, attr])
 
