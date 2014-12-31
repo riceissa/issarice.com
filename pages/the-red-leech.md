@@ -4,14 +4,10 @@ tags: fiction, literary, school
 date: 2012-09-23
 ...
 
-I wrote this at the beginning of junior year. It's quite fascinating to
-read over now, because I find it to be written by someone horribly
-inexperienced.
-My favorite sentence is still "Our bus might well have
-been a tour bus, mindfully stopping only at the desolate patches of the
-hour."
-The phrase "ceaseless interruptions" is also clever, but not very
-profound.
+I wrote this at the beginning of junior year of high school.
+It's quite fascinating to read over now, because I find it to be written by someone horribly inexperienced.
+My favorite sentence is still "Our bus might well have been a tour bus, mindfully stopping only at the desolate patches of the hour."
+The phrase "ceaseless interruptions" is also clever, but not very profound.
 
 # The essay
 
