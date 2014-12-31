@@ -11,7 +11,7 @@ language: English
 #belief: 
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: quora, content-creation
 ...
 
 I have been active on the question-and-answer site [Quora](https://quora.com) since February 2014.
