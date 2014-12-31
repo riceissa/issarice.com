@@ -90,6 +90,8 @@ $serif_series: "Linux Libertine O", "Linux Libertine", Baskerville, Garamond, se
 $sans_series: "Nimbus Sans L", Helvetica, Arial, Trebuchet, "Lucida Grande", sans-serif;
 $mono_series: "Source Code Pro", "Andale Mono", Monaco, Consolas, monospace;
 
+$smaller_text: 87.5%;
+
 body {
     color: $darkest_gray;
     background: $cream;
@@ -106,7 +108,7 @@ div#content {
 }
 
 div#navigation {
-    font-size: 14px;
+    font-size: $smaller_text;
     font-family: $sans_series;
     // See http://stackoverflow.com/a/324553
     overflow: hidden;
@@ -166,7 +168,7 @@ code {
     border: 1px solid $lightest_gray;
     border-radius: 2px 2px 2px 2px;
     font-family: $mono_series;
-    font-size: 14px;
+    font-size: $smaller_text;
 }
 
 table {
