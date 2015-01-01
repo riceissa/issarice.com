@@ -58,6 +58,7 @@ Some ideas for now:\
 
 \
 
+
 # Static page generation
 
 
@@ -160,6 +161,7 @@ The relevant bit on URL shorteners is:\
 > essays, and non-archived tweets lose their meaning. Instantly.
 
 \
+
 
 # Terminally Incoherent
 
