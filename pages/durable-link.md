@@ -14,8 +14,9 @@ license: CC-BY
 tags: untagged
 ...
 
-
-For this website, I've written a custom URL filter that takes links of the form `[test](!STRING)` and converts them into a [DuckDuckgo bang expression](https://duckduckgo.com/bang.html).
+A durable link is one that is not susceptible to [link rot](http://www.gwern.net/Archiving%20URLs#link-rot).
+gwern already does a good job of summarizing the issue, with his corrections.
+But for this website, I've written a custom URL filter that takes links of the form `[test](!STRING)` and converts them into a [DuckDuckGo bang expression](https://duckduckgo.com/bang.html).
 For instance, writing `[Fishmans](!w)` will search take you to the Wikipedia page for the band Fishmans.
 In a sense, I think this will make more of my links robust.
 I have, for instance, the choice to link to a Google query of the coding project's name or to its actual website.
