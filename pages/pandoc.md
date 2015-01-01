@@ -70,12 +70,6 @@ pandoc -o temp.md temp.html
 Using [pandocfilters](https://github.com/jgm/pandocfilters), one can trivially write scripts that modify the JSON representation of Pandoc documents.
 For this website, I've written a custom URL filter that takes links of the form `[test](!STRING)` and converts them into a [DuckDuckgo bang expression](https://duckduckgo.com/bang.html).
 For instance, writing `[Fishmans](!w)` will search take you to the Wikipedia page for the band Fishmans.
-In a sense, I think this will make more of my links robust.
-I have, for instance, the choice to link to a Google query of the coding project's name or to its actual website.
-One may then ask: "Which link would be more robust?"
-Given that many projects suffer from link rot (moving location, being deleted, etc.), I would suppose that a Google query would be much more robust in the long term.
-Even if a project has been taken down, search results would presumably contain hints to that effect.
-Of course, having the actual link will be most useful if one wants to use Archive.org or a similar online archive...
 
 <!-- FIXME: write a more complete guide of how to use pandocfilers -->
 
