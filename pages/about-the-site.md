@@ -9,9 +9,13 @@ license: CC0
 
 # Philosophy
 
-This site is my attempt to realize gwern's idea of [Long Content]().
+This site is my attempt to realize gwern's idea of [Long Content]().[^pess]
 In particular, I strive to make all the pages' source human-readable (by writing pages in [Pandoc](http://johnmacfarlane.net/pandoc/) markdown), version-controlled (with git), and freely-licensed (all pages are at least CC-BY, with some in the public domain[^copy]; the [software used to make this site](#colophon) is all free software).
 I also like to [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often); I actually don't deploy the site as often, but I try to commit to the git repository often---so my site is the result of many incremental updates.
+
+[^pess]: Of course, more pessimistically, [one could quote Scott Alexander](https://web.archive.org/web/20130118212124/http://raikoth.net/) about the reason many people have personal websites:
+
+    > You know how if you're under the age of thirty you have to have a personal webpage with your name, your photo, your resume, and then a link to your blog or something like that?
 
 [^copy]: So content will be copied, making the data safe.
 
