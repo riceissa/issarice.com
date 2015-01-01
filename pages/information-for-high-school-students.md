@@ -358,3 +358,5 @@ However, compared to LW and the "new wave" of critical thinking in the 2000s/201
 
 - In general, you should stalk the lives of the most promising entrepreneurs like Mark Zuckerberg, Travis Kalanick (see especially his failcon talk), Jeff Bezos, etc.
 These people are the new wave of "most impressive people", following traditional impressive people like Feynman.
+
+- experimenting with nootropics might be a good idea
