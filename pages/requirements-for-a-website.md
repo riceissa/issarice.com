@@ -43,9 +43,19 @@ gwern quotes Julian Assange, but it is worth doing so here as well[^assange]:
 > directory, like any directory can be backed up, edited, emailed, zipped,
 > transported, printed, trapped in amber etc.
 
-Regarding his publishing system, he writes, "it's gold until civilization collapses, the neoluddites take control, or both, but then we will have other adventures to please us..."
+Regarding his publishing system, he writes, "it's gold until civilization collapses, the neoluddites take control, or both, but then we will have other adventures to please us...".
 
+Here are some general principles to keep in mind (copied from gwern's list under "Long Site"):
 
+- Use plain text (what are some reasons? gwern links to "[The Importance of Being Textual](http://catb.org/~esr/writings/taoup/html/ch05s01.html)")
+- Use free software
+- Avoid external dependencies
+    - So no URL shorteners, as quoted in the footnotes on gwern's site
+    - What about the DuckDuckGo style links, like [this](!g)?---hmm, this would be fairly simple to fix though, even if DDG went down.---plus, links themselves are an external dependency; trusting DDG is better than trusting any old website. In the end, what will lead to more [durable link]()s?
+    - using awesome-slugify?
+- staticness (are there any good reasons for this? gwern doesn't provide any)
+
+---
 
 -   compatibility with git
 -   ability to use math (LaTeX, mathjax, images if desperate)
