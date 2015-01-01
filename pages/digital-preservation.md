@@ -14,37 +14,14 @@ license: CC-BY
 tags: untagged
 ...
 
-For now, this will be a backup of my [Quora blog on the topic](https://www.quora.com/Issa-Rice/Data-Archiving), which is now not being maintained.
+For now, this will be somewhat of a  backup of my [Quora blog on the topic](https://www.quora.com/Issa-Rice/Data-Archiving), which is now not being maintained.
+(I'm trying to integrate content from here to more fitting pages.)
 
 Thoughts on storing information in a useful/easily-accessible way. Archiving, backups, single-source publishing, source code management, redundancy (local, cloud), link rot, etc. Essentially, how can we best store thoughts so that later (a day? month? years?) we can easily find them again.
 
 # Requirements for good data archiving solutions
 
 
-<span id="__w2_pDnv2Yu_toggle_link"
-href="https://www.quora.com/Issa-Rice/Data-Archiving#"><span
-id="ld_amuxnx_79696"><span id="ld_amuxnx_79697"></span></span></span>
-
--   compatibility with git
--   ability to use math (LaTeX, mathjax, images if desperate)
--   some option for single-source publishing? (to PDF [to print] and
-    HTML would be nice)
--   *not* WYSIWYG (because let's be honest, WYSIWYG isn't very good in
-    terms of producing precise content)\
--   but must have mostly readable syntax (LaTeX is fine, since I'm so
-    used to it, but HTML is ugly); Markdown-type syntax is great
--   content must stay on a local drive, and be "pushed" to a possibly
-    off-site place for hosting (like Github)
--   ability to merge different sources; e.g. one person writes an
-    article, another works on it by adding a few things; but if the
-    first person does not want the changes of the second person, yet the
-    second person wants changes from the first person, then the second
-    must be able to keep pulling changes from the first. <span
-    id="qlink_k0">[How does Git merge
-    work?](http://www.quora.com/How-does-Git-merge-work)</span> may be
-    useful.\
-
-\
 Some ideas for now:\
 
 -   Pandoc-flavored markdown
