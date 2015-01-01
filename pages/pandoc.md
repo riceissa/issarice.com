@@ -69,7 +69,7 @@ pandoc -o temp.md temp.html
 
 Using [pandocfilters](https://github.com/jgm/pandocfilters), one can trivially write scripts that modify the JSON representation of Pandoc documents.
 For this website, I've written a custom URL filter that takes links of the form `[test](!STRING)` and converts them into a [DuckDuckGo bang expression](https://duckduckgo.com/bang.html).
-For instance, writing `[Fishmans](!w)` will search take you to the Wikipedia page for the band Fishmans.
+For instance, writing `[Fishmans](!w)` will search Wikipedia for the string "Fishmans", and will take you to the page for the band Fishmans.
 
 <!-- FIXME: write a more complete guide of how to use pandocfilers -->
 
