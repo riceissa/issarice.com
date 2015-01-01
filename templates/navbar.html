@@ -12,7 +12,12 @@
   <div style="float:left;">
     <a href="{{ path }}index">Home</a>
     | <a href="{{ path }}about-me#contact">Contact</a>
-    | View <a href="https://github.com/riceissa/issarice.com">website source</a>{% if page.source %} or <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ page.source }}">page source</a>{% endif %} (<a href="{{ path }}information-regarding-website-source-and-page-source">note</a>)
+    | View <a href="https://github.com/riceissa/issarice.com">website source</a>
+    {% if page.source %}
+      or <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ page.source }}">page source</a>
+      or <a href="https://github.com/riceissa/issarice.com/edit/master/{{ page.source }}">edit page</a>
+    {% endif %}
+    (<a href="{{ path }}information-regarding-website-source-and-page-source">note</a>)
   </div>
   <div style="float:right;">
     <!--
