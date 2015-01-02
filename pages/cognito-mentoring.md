@@ -55,7 +55,7 @@ In addition to the things listed above, I can attribute various other positive c
 
 
 - Although I did not get direct admission to the computer science department at the University of Washington (as alluded in the review), I still chose to switch my intended major from pure math to computer science.
-I expect this to somewhat of a difference in the long run (regarding financial stability, mostly).
+I expect this to make somewhat of a difference in the long run (regarding financial stability, mostly).
 
 - The review only mentions the information I gained from [Quora]().
 However, since the time when I wrote the review, I have become a contributor to Quora as well, writing [over 60 answers](https://www.quora.com/Issa-Rice/answers) and asking more than 2400 questions[^questions].
