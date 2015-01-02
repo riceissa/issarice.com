@@ -39,7 +39,7 @@ Ever since, I've done my best to attend most Seattle EA meetups.
 I've also gotten more involved in online discussions of EA.
 
 More recently, I've been trying to start an [effective altruism group at the University of Washington](https://www.facebook.com/groups/EffectiveAltruismUW).
-As for January 2015, the group has had one meetup in November 2014.
+As of January 2015, the group has had one meetup in November 2014.
 
 # Links
 
