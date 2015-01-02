@@ -286,9 +286,7 @@ set message_cachedir="~/.mutt/cache/bodies"
 set certificate_file="~/.mutt/certificates"
 ~~~~
 
-# 
-
-
+# Other commandline notes
 
 ```bash
 fbterm --font-names="Source Code Pro" --font-size=14
