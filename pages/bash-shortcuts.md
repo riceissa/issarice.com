@@ -104,7 +104,7 @@ Expand the current line. For example, `~` `Alt`-`Ctrl`-`e` will expand to `/hom
 -  `Ctrl`-`c`:
 Terminate the command.
 -  `Ctrl`-`z`:
-Stop the current process. `bg` will restart it in the background and `fg` will restore it to the foreground.
+Stop the current process. Typing `bg` will restart it in the background and `fg` will restore it to the foreground.
 -  `Ctrl`-`s`:
 Freeze the terminal.
 -  `Ctrl`-`q`:
