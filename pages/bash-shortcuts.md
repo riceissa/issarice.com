@@ -129,6 +129,20 @@ Press `Ctrl`-`g` to break out of the search.
 -  `Alt`-`p`:
 Reverse search the history non-incrementally.
 
+
+The following commands are useful if you want to execute similar commands from your history.
+
+- `!!`: An alias for the previous command. (Useful for `sudo !!`, for example.)
+- `!string`: Execute the most recent command in the history beginning with 'string'.
+- `!string:p`: Print the most recent command in the history beginning with 'string', so you see what *would* have been run if you typed `!string`.
+- `!n`: Execute the *n*th command in the history, where *n* is a positive integer. Type `history` to get a list.
+- `!$`: An alias for the last bigword of the previous command.
+- `!^`: An alias for the first bigword of the previous command.
+- `!*`: An alias for the previous command without the last bigword. (So if the previous command was `ls -A /home/$USER`, then `!*` would give just `ls -A`.)
+- `!n:p`: Print the *n*th command in the history. `!$:p`, `!^:p`, ..., also work.
+- `^string1^string2`: In the previous command, replace the first occurrence of "string1" with "string2", then execute.
+
+
 # Completions
 
 -  `Ctrl`-`x` `~`:
