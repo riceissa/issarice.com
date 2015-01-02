@@ -31,41 +31,66 @@ This is similar to an uppercase 'W' in the Vi editor.
 # Movement
 
 
--  `Ctrl-a` or `[Home]`              Jump to the beginning of the line.
--  `Ctrl-e` or `[End]`               Jump to the end of the line.
--  `Ctrl-xx`                           <span>Jump between saved locations.</span>\
-                                       <span>Pressing this will toggle between the current location and the beginning of the line. If you move the cursor after you have jumped to the beginning, then press this again, Bash will remember the location. Press this again to come back to the location you just saved.</span>
--  `Ctrl-f` or `[Right Arrow Key]`   Go forward one character.
--  `Alt-f`                             Go forward one smallword. This does not work on the Gnome Terminal because Alt-f is bound to the "file" menu. [However, [Esc][f] works.](#esc)
--  `Ctrl-b or [Left Arrow Key]`        Go back one character.
--  `Alt-b`                             Go back one smallword.
--  `Ctrl-] a`                          Move to the next occurrence of 'a'.
+-  `Ctrl`-`a` or `Home`:
+Jump to the beginning of the line.
+-  `Ctrl`-`e` or `End`:
+Jump to the end of the line.
+-  `Ctrl`-`xx`:
+Jump between saved locations.
+Pressing this will toggle between the current location and the beginning of the line. If you move the cursor after you have jumped to the beginning, then press this again, Bash will remember the location. Press this again to come back to the location you just saved.
+-  `Ctrl`-`f` or `Right Arrow Key`   Go forward one character.
+-  `Alt`-`f`                             Go forward one smallword. This does not work on the Gnome Terminal because Alt-f is bound to the "file" menu. [However, [Esc][f] works.](#esc)
+-  `Ctrl`-`b` or `Left Arrow Key`        Go back one character.
+-  `Alt`-`b`                             Go back one smallword.
+-  `Ctrl`-`]` a`                          Move to the next occurrence of 'a'.
 -  `Alt`-`Ctrl`-`]` `a`                      Move to the previous occurrence of 'a'.
 
 # Editing
 
--  `Ctrl`-`x` `Ctrl`-`u` or `Ctrl`-`/` or `Ctrl`-`_`   Undo the last operation.
--  `Alt`-`r`                                            Revert all changes to the current line. For example, if you edited a command from your history, this would revert to the original.
--  `Ctrl`-`h` or `Backspace`                            Delete the character to the left of the cursor.
--  `Alt`-`Backspace`                                    Cut to the beginning of the current smallword. (From left side of the cursor to the beginning of the smallword. Does not cut leading whitespace.)
--  `Ctrl`-`d`                                           Delete the character under the cursor. If the line is empty, exit the terminal. This command fails if the cursor is at the end of a non-empty line.
--  `Alt`-`d`                                            Cut from under the cursor to the end of the current smallword.
--  `Ctrl`-y`                                           Paste the most recently cut text.
--  `Alt`-`y`                                            Rotate between the most recently cut text. (Only works if the last action was either Ctrl-y or Alt-y.)
--  `Ctrl`-`u`                                           Cut from the left side of the cursor to the beginning of the line.
--  `Ctrl`-`k`                                           Cut from under the cursor to the end of the line.
--  `Ctrl`-`l`                                           Clear the screen leaving the current line untouched.
--  `Ctrl`-`w`                                           Cut one bigword to the left.
--  `Ctrl`-`t`                                           Swap the character under the cursor with the character to the left of the cursor. If this is used at the end of the line, swap the last two characters before the cursor.
--  `Alt`-`t`                                            Swap the current smallword with the previous smallword.
--  `Ctrl`-`v`                                           Literally insert the next typed character. For example, [Ctrl-v][Tab] will insert a literal Tab character instead of completing the command.
--  `Ctrl`-`x` `Ctrl`-`e`                                    Open the default editor and execute the edited command. (This can be set with the `$EDITOR` variable, for example entering `EDITOR=vim` on a separate line will set the editor to Vim.)
--  `Alt`-`c`                                            Capitalise the character under the cursor and move to the end of the current smallword.
--  `Alt`-`u`                                            Make the current smallword uppercase. (From under the cursor to the end of the current sequence.)
--  `Alt`-`l`                                            Make the current smallword all lowercase (from under the cursor to the end of the sequence) and move the cursor to the end the sequence.
--  `Alt`-`.` or `Alt`-`_`                                  Paste the last argument of the previous command.
--  `Alt`-`Ctrl`-y`                                       Paste the second bigword of the previous command.
--  `Alt`-`Ctrl`-e`                                       Expand the current line. For example, \~Alt-Ctrl-e will expand to /home/\$USER.
+-  `Ctrl`-`x` `Ctrl`-`u` or `Ctrl`-`/` or `Ctrl`-`_`:
+Undo the last operation.
+-  `Alt`-`r`:
+Revert all changes to the current line. For example, if you edited a command from your history, this would revert to the original.
+-  `Ctrl`-`h` or `Backspace`:
+Delete the character to the left of the cursor.
+-  `Alt`-`Backspace`:
+Cut to the beginning of the current smallword. (From left side of the cursor to the beginning of the smallword. Does not cut leading whitespace.)
+-  `Ctrl`-`d`:
+Delete the character under the cursor. If the line is empty, exit the terminal. This command fails if the cursor is at the end of a non-empty line.
+-  `Alt`-`d`:
+Cut from under the cursor to the end of the current smallword.
+-  `Ctrl`-`y`:
+Paste the most recently cut text.
+-  `Alt`-`y`:
+Rotate between the most recently cut text. (Only works if the last action was either Ctrl-y or Alt-y.)
+-  `Ctrl`-`u`:
+Cut from the left side of the cursor to the beginning of the line.
+-  `Ctrl`-`k`:
+Cut from under the cursor to the end of the line.
+-  `Ctrl`-`l`:
+Clear the screen leaving the current line untouched.
+-  `Ctrl`-`w`:
+Cut one bigword to the left.
+-  `Ctrl`-`t`:
+Swap the character under the cursor with the character to the left of the cursor. If this is used at the end of the line, swap the last two characters before the cursor.
+-  `Alt`-`t`:
+Swap the current smallword with the previous smallword.
+-  `Ctrl`-`v`:
+Literally insert the next typed character. For example, [Ctrl-v][Tab] will insert a literal Tab character instead of completing the command.
+-  `Ctrl`-`x` `Ctrl`-`e`:
+Open the default editor and execute the edited command. (This can be set with the `$EDITOR` variable, for example entering `EDITOR=vim` on a separate line will set the editor to Vim.)
+-  `Alt`-`c`:
+Capitalise the character under the cursor and move to the end of the current smallword.
+-  `Alt`-`u`:
+Make the current smallword uppercase. (From under the cursor to the end of the current sequence.)
+-  `Alt`-`l`:
+Make the current smallword all lowercase (from under the cursor to the end of the sequence) and move the cursor to the end the sequence.
+-  `Alt`-`.` or `Alt`-`_`:
+Paste the last argument of the previous command.
+-  `Alt`-`Ctrl`-`y`:
+Paste the second bigword of the previous command.
+-  `Alt`-`Ctrl`-`e`:
+Expand the current line. For example, `~`\ `Alt`-`Ctrl`-`e` will expand to `/home/$USER`.
 
 # Processes
 
