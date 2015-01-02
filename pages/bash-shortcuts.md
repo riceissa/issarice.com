@@ -7,7 +7,7 @@ creation-date: 2011-08-23
 last-major-revision-date: 2015-01-02
 ...
 
-Here are some useful shortcuts when you're working in the Bash shell.
+Here are some useful shortcuts when you're working in the Bash.
 Shortcuts are categorised by use.
 
 
@@ -74,6 +74,7 @@ Cut from the left side of the cursor to the beginning of the line.
 Cut from under the cursor to the end of the line.
 -  `Ctrl`-`l`:
 Clear the screen leaving the current line untouched.
+Same as the command `clear`, as far as I can tell.
 -  `Ctrl`-`w`:
 Cut one bigword to the left.
 -  `Ctrl`-`t`:
