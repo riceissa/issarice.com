@@ -1,5 +1,6 @@
 ---
-title: Bash Cheat Sheet (Table)
+title: Bash shortcuts
+description: a cheat sheet for Bash
 tags: linux
 # This page is at least as old as the following date.  I don't know if I can find the original date on which I began this document.
 creation-date: 2011-09-17
@@ -7,18 +8,18 @@ last-major-revision-date: 2015-01-02
 ...
 
 Here are some useful shortcuts when you're working in the Bash shell.
-This file is categorised by use.
+Shortcuts are categorised by use.
 
 
 # Conventions
 
 -  `Ctrl`-`a`:
 Hold the Control key and press 'a'.
--  `Alt-a`:
-Hold the Alt key and press 'a'. The Alt key is sometimes called the [Meta key](http://en.wikipedia.org/wiki/Meta_key). If the Alt key doesn't work, try using the Escape key instead. (So **Esc-a** instead. You might need to let go of the Escape key before pressing 'a'.)
+-  `Alt`-`a`:
+Hold the Alt key and press 'a'. The Alt key is sometimes called the [Meta key](http://en.wikipedia.org/wiki/Meta_key). If the Alt key doesn't work, try using the Escape key instead. (So `Esc`-`a` instead. You might need to let go of the Escape key before pressing 'a'.)
 -  This page is [*case sensitive*](http://en.wikipedia.org/wiki/Case_sensitivity) so `a` is different from `A`.
 `A` is the same as `Shift`-`a`.
-- A *smallword* is any string of characters that contain *only* characters from the set {a-z,A-Z,0-9}.
+- A *smallword* is any string of characters that contain *only* characters from the set `{a-z,A-Z,0-9}`.
 Smallwords are delimited by non-alphanumeric characters (whitespace, full stop, caret, etc.).
 This is similar to a lowercase 'w' in the Vi editor.
 - A *bigword* is any string of characters *not containing a whitespace*.
@@ -38,12 +39,13 @@ Pressing this will toggle between the current location and the beginning of the 
 - `Ctrl`-`f` or `Right Arrow Key`:
 Go forward one character.
 -  `Alt`-`f`:
-Go forward one smallword. This does not work on the Gnome Terminal because Alt-f is bound to the "file" menu. [However, [Esc][f] works.](#esc)
+Go forward one smallword. This does not work on the Gnome Terminal because `Alt`-`f` is bound to the "file" menu.
+However, `Esc` `f` works.
 -  `Ctrl`-`b` or `Left Arrow Key`:
 Go back one character.
 -  `Alt`-`b`:
 Go back one smallword.
--  `Ctrl`-`]` a`:
+-  `Ctrl`-`]` `a`:
 Move to the next occurrence of 'a'.
 -  `Alt`-`Ctrl`-`]` `a`:
 Move to the previous occurrence of 'a'.
@@ -65,7 +67,7 @@ Cut from under the cursor to the end of the current smallword.
 -  `Ctrl`-`y`:
 Paste the most recently cut text.
 -  `Alt`-`y`:
-Rotate between the most recently cut text. (Only works if the last action was either Ctrl-y or Alt-y.)
+Rotate between the most recently cut text. (Only works if the last action was either `Ctrl`-`y` or `Alt`-`y`.)
 -  `Ctrl`-`u`:
 Cut from the left side of the cursor to the beginning of the line.
 -  `Ctrl`-`k`:
@@ -79,7 +81,7 @@ Swap the character under the cursor with the character to the left of the cursor
 -  `Alt`-`t`:
 Swap the current smallword with the previous smallword.
 -  `Ctrl`-`v`:
-Literally insert the next typed character. For example, [Ctrl-v][Tab] will insert a literal Tab character instead of completing the command.
+Literally insert the next typed character. For example, `Ctrl`-`v` `Tab` will insert a literal Tab character instead of completing the command.
 -  `Ctrl`-`x` `Ctrl`-`e`:
 Open the default editor and execute the edited command. (This can be set with the `$EDITOR` variable, for example entering `EDITOR=vim` on a separate line will set the editor to Vim.)
 -  `Alt`-`c`:
@@ -108,7 +110,7 @@ Restore a frozen terminal.
 -  `Ctrl`-`m` or `Enter`:
 Enter the command.
 -  `Ctrl`-`o`:
-Accept the current line, then fetch that line and print it on the new line.
+Accept the current line, then fetch the exact same line and print it on the new line.
 
 # History
 
