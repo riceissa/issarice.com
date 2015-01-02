@@ -7,6 +7,8 @@ license: cc0
 tags: japan, debian, latex, linux
 ---
 
+This page describes how to use [pLaTeX](!wja) to typeset Japanese documents.
+I am using Debian Wheezy below.
 
 # How-to
 
