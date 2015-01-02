@@ -42,84 +42,80 @@ This is similar to an uppercase 'W' in the Vi editor.
 -  `Ctrl-] a`                          Move to the next occurrence of 'a'.
 -  `Alt`-`Ctrl`-`]` `a`                      Move to the previous occurrence of 'a'.
 
-Editing
--------
+# Editing
 
-  ------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Ctrl-x Ctrl-u** or **Ctrl-/** or **Ctrl-\_**   Undo the last operation.
-  Alt-r                                            Revert all changes to the current line. For example, if you edited a command from your history, this would revert to the original.
-  Ctrl-h or [Backspace]                            Delete the character to the left of the cursor.
-  Alt-Backspace                                    Cut to the beginning of the current smallword. (From left side of the cursor to the beginning of the smallword. Does not cut leading whitespace.)
-  Ctrl-d                                           Delete the character under the cursor. If the line is empty, exit the terminal. This command fails if the cursor is at the end of a non-empty line.
-  Alt-d                                            Cut from under the cursor to the end of the current smallword.
-  Ctrl-y                                           Paste the most recently cut text.
-  Alt-y                                            Rotate between the most recently cut text. (Only works if the last action was either Ctrl-y or Alt-y.)
-  Ctrl-u                                           Cut from the left side of the cursor to the beginning of the line.
-  Ctrl-k                                           Cut from under the cursor to the end of the line.
-  Ctrl-l                                           Clear the screen leaving the current line untouched.
-  Ctrl-w                                           Cut one bigword to the left.
-  Ctrl-t                                           Swap the character under the cursor with the character to the left of the cursor. If this is used at the end of the line, swap the last two characters before the cursor.
-  Alt-t                                            Swap the current smallword with the previous smallword.
-  Ctrl-v                                           Literally insert the next typed character. For example, [Ctrl-v][Tab] will insert a literal Tab character instead of completing the command.
-  Ctrl-x Ctrl-e                                    Open the default editor and execute the edited command. (This can be set with the `$EDITOR` variable, for example entering `EDITOR=vim` on a separate line will set the editor to Vim.)
-  Alt-c                                            Capitalise the character under the cursor and move to the end of the current smallword.
-  Alt-u                                            Make the current smallword uppercase. (From under the cursor to the end of the current sequence.)
-  Alt-l                                            Make the current smallword all lowercase (from under the cursor to the end of the sequence) and move the cursor to the end the sequence.
-  Alt-. or Alt-\_                                  Paste the last argument of the previous command.
-  Alt-Ctrl-y                                       Paste the second bigword of the previous command.
-  Alt-Ctrl-e                                       Expand the current line. For example, \~Alt-Ctrl-e will expand to /home/\$USER.
-  ------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-  `Ctrl`-`x` `Ctrl`-`u` or `Ctrl`-`/` or `Ctrl`-`_`   Undo the last operation.
+-  `Alt`-`r`                                            Revert all changes to the current line. For example, if you edited a command from your history, this would revert to the original.
+-  `Ctrl`-`h` or `Backspace`                            Delete the character to the left of the cursor.
+-  `Alt`-`Backspace`                                    Cut to the beginning of the current smallword. (From left side of the cursor to the beginning of the smallword. Does not cut leading whitespace.)
+-  `Ctrl`-`d`                                           Delete the character under the cursor. If the line is empty, exit the terminal. This command fails if the cursor is at the end of a non-empty line.
+-  `Alt`-`d`                                            Cut from under the cursor to the end of the current smallword.
+-  `Ctrl`-y`                                           Paste the most recently cut text.
+-  `Alt`-`y`                                            Rotate between the most recently cut text. (Only works if the last action was either Ctrl-y or Alt-y.)
+-  `Ctrl`-`u`                                           Cut from the left side of the cursor to the beginning of the line.
+-  `Ctrl`-`k`                                           Cut from under the cursor to the end of the line.
+-  `Ctrl`-`l`                                           Clear the screen leaving the current line untouched.
+-  `Ctrl`-`w`                                           Cut one bigword to the left.
+-  `Ctrl`-`t`                                           Swap the character under the cursor with the character to the left of the cursor. If this is used at the end of the line, swap the last two characters before the cursor.
+-  `Alt`-`t`                                            Swap the current smallword with the previous smallword.
+-  `Ctrl`-`v`                                           Literally insert the next typed character. For example, [Ctrl-v][Tab] will insert a literal Tab character instead of completing the command.
+-  `Ctrl`-`x` `Ctrl`-`e`                                    Open the default editor and execute the edited command. (This can be set with the `$EDITOR` variable, for example entering `EDITOR=vim` on a separate line will set the editor to Vim.)
+-  `Alt`-`c`                                            Capitalise the character under the cursor and move to the end of the current smallword.
+-  `Alt`-`u`                                            Make the current smallword uppercase. (From under the cursor to the end of the current sequence.)
+-  `Alt`-`l`                                            Make the current smallword all lowercase (from under the cursor to the end of the sequence) and move the cursor to the end the sequence.
+-  `Alt`-`.` or `Alt`-`_`                                  Paste the last argument of the previous command.
+-  `Alt`-`Ctrl`-y`                                       Paste the second bigword of the previous command.
+-  `Alt`-`Ctrl`-e`                                       Expand the current line. For example, \~Alt-Ctrl-e will expand to /home/\$USER.
 
-Processes
----------
+# Processes
 
-  ------------------- --------------------------------------------------------------------------------------------------------------
-  Ctrl-c              Terminate the command.
-  Ctrl-z              Stop the current process. `bg` will restart it in the background and `fg` will restore it to the foreground.
-  Ctrl-s              Freeze the terminal.
-  Ctrl-q              Restore a frozen terminal.
-  Ctrl-m or [Enter]   Enter the command.
-  Ctrl-o              Accept the current line, then fetch that line and print it on the new line.
-  ------------------- --------------------------------------------------------------------------------------------------------------
+-  `Ctrl`-`c`              Terminate the command.
+-  `Ctrl`-`z`              Stop the current process. `bg` will restart it in the background and `fg` will restore it to the foreground.
+-  `Ctrl`-`s`              Freeze the terminal.
+-  `Ctrl`-`q`              Restore a frozen terminal.
+-  `Ctrl`-`m` or `Enter`   Enter the command.
+-  `Ctrl`-`o`              Accept the current line, then fetch that line and print it on the new line.
 
-History
--------
+# History
 
-  ---------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Ctrl-p or [Up Arrow Key]     Show the previous command in the history.
-  Ctrl-n or [Down Arrow Key]   Show the next command in the history.
-  Alt-\<                       Move to the first item in the history.
-  Alt-\>                       Move to the last item in the history (the current command, not the last executed command).
-  Ctrl-r                       Reverse-search the history incrementally. For example, pressing Ctrl-r, then typing 'string', then pressing Ctrl-r, Ctrl-r, ..., will scroll through all commands in the history containing 'string'. Press Ctrl-g to break out of the search.
-  Alt-p                        Reverse search the history non-incrementally.
-  ---------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-  `Ctrl`-`p` or `Up Arrow Key`     Show the previous command in the history.
+-  `Ctrl`-`n` or `Down Arrow Key`   Show the next command in the history.
+-  `Alt`-`<`                       Move to the first item in the history.
+-  `Alt`-`>`                      Move to the last item in the history (the current command, not the last executed command).
+-  `Ctrl`-`r`:
+Reverse-search the history incrementally.
+For example, pressing `Ctrl`-`r`, then typing 'string', then pressing `Ctrl`-`r`, `Ctrl`-`r`, ..., will scroll through all commands in the history containing 'string'.
+Press `Ctrl`-`g` to break out of the search.
+-  `Alt`-`p`                        Reverse search the history non-incrementally.
 
-Completion
-----------
+# Completions
 
-  ----------- ------------------------------------------------
-  Ctrl-x \~   Print username completions.
-  Alt-\~      Attempt username completion.
-  Ctrl-x !    Print command name completions.
-  Alt-!       Attempt command name completion.
-  Ctrl-x /    Print filename completions.
-  Alt-/       Attempt filename completion.
-  Ctrl-x \$   Print shell variable completions.
-  Alt-\$      Attempt shell variable completion.
-  Ctrl-x @    Show host name completions.
-  Alt-@       Attempt hostname completion.
-  Alt-&       Perform tilde expansion.
-  Alt-\*      Insert all possible completions.
-  Alt-?       Show the current completion list.
-  Alt-{       Insert all filename completions within braces.
-  ----------- ------------------------------------------------
+-  `Ctrl`-`x` `~`:
+Print username completions.
+-  `Alt`-`~`:
+Attempt username completion.
+-  `Ctrl`-`x` `!`:
+Print command name completions.
+-  `Alt`-`!`:
+Attempt command name completion.
+-  `Ctrl`-`x` `/`:
+Print filename completions.
+-  `Alt`-`/`:
+Attempt filename completion.
+-  `Ctrl`-`x` `$`:
+Print shell variable completions.
+-  `Alt`-`$`:
+Attempt shell variable completion.
+-  `Ctrl`-`x` `@`:
+Show host name completions.
+-  `Alt`-`@`:
+Attempt hostname completion.
+-  `Alt`-`&`:       Perform tilde expansion.
+-  `Alt`-`*`:      Insert all possible completions.
+-  `Alt`-`?`:       Show the current completion list.
+-  `Alt`-`{`:       Insert all filename completions within braces.
 
-Scrolling
----------
+# Scrolling
 
-  ------------------- -------------------------------------------------------------------------------------------------------
-  Shift-[Page Up]     Scroll up one screen. (This may not work for some terminals. Use your mouse instead if you have one.)
-  Shift-[Page Down]   Scroll down one screen.
-  ------------------- -------------------------------------------------------------------------------------------------------
-
-
+-  `Shift`-`Page Up`:     Scroll up one screen. (This may not work for some terminals. Use your mouse instead if you have one.)
+-  `Shift`-`Page Down`:   Scroll down one screen.
