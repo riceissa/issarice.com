@@ -22,6 +22,8 @@ Possible list of things to write about:
 
 NEW:
 
+- write a redirect feature like https://github.com/jekyll/jekyll-redirect-from .
+    - more generally, write a "plugin feature" so it's easier to add things later.
 - go through generator.py, metadata.py, and commands.py (and maybe also
   tag_ontology.py) to document code.
 - use classes instead of purely procedural stuff (do this slowly)
