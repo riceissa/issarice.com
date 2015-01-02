@@ -17,6 +17,7 @@ Shortcuts are categorised by use.
 Hold the Control key and press 'a'.
 -  `Alt`-`a`:
 Hold the Alt key and press 'a'. The Alt key is sometimes called the [Meta key](http://en.wikipedia.org/wiki/Meta_key). If the Alt key doesn't work, try using the Escape key instead. (So `Esc`-`a` instead. You might need to let go of the Escape key before pressing 'a'.)
+- `key1` `key2`: Press `key1`, let go, then press `key2`.
 -  This page is [*case sensitive*](http://en.wikipedia.org/wiki/Case_sensitivity) so `a` is different from `A`.
 `A` is the same as `Shift`-`a`.
 - A *smallword* is any string of characters that contain *only* characters from the set `{a-z,A-Z,0-9}`.
