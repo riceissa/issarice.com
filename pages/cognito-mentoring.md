@@ -55,8 +55,9 @@ In addition to the things listed above, I can attribute various other positive c
 
 
 - Although I did not get direct admission to the computer science department at the University of Washington (as alluded in the review), I still chose to switch my intended major from pure math to computer science.
+I expect this to somewhat of a difference in the long run (regarding financial stability, mostly).
 
-- The review only mentions the information I gained from Quora.
+- The review only mentions the information I gained from [Quora]().
 However, since the time when I wrote the review, I have become a contributor to Quora as well, writing [over 60 answers](https://www.quora.com/Issa-Rice/answers) and asking more than 2400 questions[^questions].
 If I hadn't been shown the utility of Quora by CM, these contributions would either not have happened, or would have happened at a later point in time.
 
@@ -64,18 +65,22 @@ If I hadn't been shown the utility of Quora by CM, these contributions would eit
 My [questions tab](https://www.quora.com/Issa-Rice/questions) contains both questions I've asked and followed.
 
 - My decision to join Facebook was motivated by CM.
+I have since been rather active on the site, [posting links to various articles](https://www.facebook.com/riceissa) and contributing to groups like the [Effective Altruists Facebook group](https://www.facebook.com/groups/effective.altruists/).
 
-- My continued and increased interest in the effective altruism (EA) movement has been helped by Cognito Mentoring.
+- My continued and increased interest in the [effective altruism]() (EA) movement has been helped by Cognito Mentoring.
 See for instance [their wiki page on EA](http://info.cognitomentoring.org/wiki/Effective_altruism).
-(To be sure, CM wasn't the only influence here; I also became involved with the [Seattle Effective Altruists](https://www.facebook.com/groups/SeattleEffectiveAltruists/) starting in June 2014, which has also helped to increase my interest in EA.)
+(To be sure, CM wasn't the only influence here; I also became involved with the [Seattle Effective Altruists](https://www.facebook.com/groups/SeattleEffectiveAltruists/) starting in July 2014, which has also helped to increase my interest in EA.)
 
     In particular, my decision to work on [cause prioritization]() was precipitated by discussions with [Vipul Naik](http://vipulnaik.com/) of Cognito Mentoring.
 
-- My decision to purchase domain names and get hosting for this site was catalyzed by [Creating your personal website](http://info.cognitomentoring.org/wiki/Creating_your_personal_website) on the CM info wiki (though I already had [a website made with GitHub pages](https://riceissa.github.io/) prior to that, and was already interested in online content creation).
+- My decision to purchase domain names and get hosting for this site was catalyzed by [Creating your personal website](http://info.cognitomentoring.org/wiki/Creating_your_personal_website) on the CM info wiki (though I already had [a website made with GitHub pages](https://riceissa.github.io/) prior to that, and was already interested in online [content creation]()).
 
 - I've also made [minor contributions to the CM info wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).
 
 - I've also received emotional support from one of the mentors of CM, as well as from those I met through CM.
+
+- I think my social life has improved significantly through the connections I have made through CM.
+I elaborated on this to some extent in my [reflection of the autumn 2014 quarter at the University of Washington](my-uw-honors-portfolio#portfolio-statement).
 
 To be sure, I think I am one of the mentees that benefited most from Cognito Mentoring.
 For example, I think that, although my friend who contacted CM along with me benefited from the service, she did not get as much out of it as I did---in other words, I think that she would have pretty much ended up at the same place regardless of the mentoring, whereas in my case, I think that my output and impact on the world would have been much less without CM.
