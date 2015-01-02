@@ -149,18 +149,17 @@ a:hover, a:active {
     text-decoration: underline;
 }
 
-pre code {
-    display: block;
-    overflow: auto;
-    padding: 10px;
-    max-height: 500px;
-}
-
-blockquote {
-    margin: 0px;
-    color: $dark_gray;
-    padding: 0px 0px 0px 16px; /*top right bottom left*/
-    border-left: 4px solid $lightest_gray;
+// See http://code.stephenmorley.org/html-and-css/fixing-browsers-broken-monospace-font-handling/
+// In particular:
+// > Major web browsers automatically reduce the size of monospace text
+// > in a range of situations. They do this due to the greater width of
+// > many monospace typefaces in comparison to other fonts at the same
+// > text height. While well-intentioned, their handling of monospace
+// > fonts is fundamentally broken, and an unusual CSS rule is required to
+// > fix the problem.
+pre, code, kbd, samp, tt {
+    font-family: $mono_series;
+    font-size: 1em;
 }
 
 code {
@@ -169,6 +168,24 @@ code {
     background-color: $tan;
     border: 1px solid $lightest_gray;
     border-radius: 2px 2px 2px 2px;
+    // This is also necessary in "pre code"
+    font-size: $smaller_text;
+}
+
+pre code {
+    display: block;
+    overflow: auto;
+    padding: 10px;
+    max-height: 500px;
+    // This is also necessary in "code"
+    font-size: $smaller_text;
+}
+
+blockquote {
+    margin: 0px;
+    color: $dark_gray;
+    padding: 0px 0px 0px 16px; /*top right bottom left*/
+    border-left: 4px solid $lightest_gray;
 }
 
 table {
