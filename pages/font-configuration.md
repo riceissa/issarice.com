@@ -45,3 +45,12 @@ In fact, Baskerville is not the only font to be helped by this: Computer Modern,
 Even Linux Libertine (which I like very much; I regard it below only Computer Modern and Baskerville) looks much better; the problem I used to have with uneven open- and end-quotes has disappeared.
 
 ---I only wonder, why is this not the default on all Linux machines?
+
+# Setting default font
+
+Some notes:
+
+- Setting on Firefox the default serif and sans fonts is a good idea.
+Now even very plain websites like [WikiWikiWeb](http://c2.com/cgi/wiki?FrontPage) have Baskerville for me.
+- For Japanese, IPAMincho and IPAGothic used to work best for me.
+For some reason IPAexMincho and IPAexGothic used to produce awful thin lines---but following the font config described above, they are even prettier than IPAMincho and IPAGothic.
