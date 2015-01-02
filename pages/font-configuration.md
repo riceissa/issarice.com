@@ -6,12 +6,12 @@ creation-date: 2015-01-01
 last-major-revision-date: 2015-01-01
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
+status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 #belief: 
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: linux, debian, computing, font, tinkering, aesthetics
 math: yes
 ...
 
