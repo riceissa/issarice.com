@@ -6,14 +6,11 @@ creation-date: 2011-09-17
 last-major-revision-date: 2015-01-02
 ...
 
-- `Ctrl`-`a`:
-    This is a test.
-
 Here are some useful shortcuts when you're working in the Bash shell.
 This file is categorised by use.
 
-# Conventions
 
+# Conventions
 
 -  `Ctrl`-`a`:
 Hold the Control key and press 'a'.
@@ -28,22 +25,28 @@ This is similar to a lowercase 'w' in the Vi editor.
 Bigwords are delimited by whitespace characters (space, tab, etc.).
 This is similar to an uppercase 'W' in the Vi editor.
 
+
 # Movement
 
-
--  `Ctrl`-`a` or `Home`:
+- `Ctrl`-`a` or `Home`:
 Jump to the beginning of the line.
--  `Ctrl`-`e` or `End`:
+- `Ctrl`-`e` or `End`:
 Jump to the end of the line.
--  `Ctrl`-`xx`:
+- `Ctrl`-`xx`:
 Jump between saved locations.
 Pressing this will toggle between the current location and the beginning of the line. If you move the cursor after you have jumped to the beginning, then press this again, Bash will remember the location. Press this again to come back to the location you just saved.
--  `Ctrl`-`f` or `Right Arrow Key`   Go forward one character.
--  `Alt`-`f`                             Go forward one smallword. This does not work on the Gnome Terminal because Alt-f is bound to the "file" menu. [However, [Esc][f] works.](#esc)
--  `Ctrl`-`b` or `Left Arrow Key`        Go back one character.
--  `Alt`-`b`                             Go back one smallword.
--  `Ctrl`-`]` a`                          Move to the next occurrence of 'a'.
--  `Alt`-`Ctrl`-`]` `a`                      Move to the previous occurrence of 'a'.
+- `Ctrl`-`f` or `Right Arrow Key`:
+Go forward one character.
+-  `Alt`-`f`:
+Go forward one smallword. This does not work on the Gnome Terminal because Alt-f is bound to the "file" menu. [However, [Esc][f] works.](#esc)
+-  `Ctrl`-`b` or `Left Arrow Key`:
+Go back one character.
+-  `Alt`-`b`:
+Go back one smallword.
+-  `Ctrl`-`]` a`:
+Move to the next occurrence of 'a'.
+-  `Alt`-`Ctrl`-`]` `a`:
+Move to the previous occurrence of 'a'.
 
 # Editing
 
@@ -90,28 +93,39 @@ Paste the last argument of the previous command.
 -  `Alt`-`Ctrl`-`y`:
 Paste the second bigword of the previous command.
 -  `Alt`-`Ctrl`-`e`:
-Expand the current line. For example, `~`\ `Alt`-`Ctrl`-`e` will expand to `/home/$USER`.
+Expand the current line. For example, `~` `Alt`-`Ctrl`-`e` will expand to `/home/$USER`.
 
 # Processes
 
--  `Ctrl`-`c`              Terminate the command.
--  `Ctrl`-`z`              Stop the current process. `bg` will restart it in the background and `fg` will restore it to the foreground.
--  `Ctrl`-`s`              Freeze the terminal.
--  `Ctrl`-`q`              Restore a frozen terminal.
--  `Ctrl`-`m` or `Enter`   Enter the command.
--  `Ctrl`-`o`              Accept the current line, then fetch that line and print it on the new line.
+-  `Ctrl`-`c`:
+Terminate the command.
+-  `Ctrl`-`z`:
+Stop the current process. `bg` will restart it in the background and `fg` will restore it to the foreground.
+-  `Ctrl`-`s`:
+Freeze the terminal.
+-  `Ctrl`-`q`:
+Restore a frozen terminal.
+-  `Ctrl`-`m` or `Enter`:
+Enter the command.
+-  `Ctrl`-`o`:
+Accept the current line, then fetch that line and print it on the new line.
 
 # History
 
--  `Ctrl`-`p` or `Up Arrow Key`     Show the previous command in the history.
--  `Ctrl`-`n` or `Down Arrow Key`   Show the next command in the history.
--  `Alt`-`<`                       Move to the first item in the history.
--  `Alt`-`>`                      Move to the last item in the history (the current command, not the last executed command).
+-  `Ctrl`-`p` or `Up Arrow Key`:
+Show the previous command in the history.
+-  `Ctrl`-`n` or `Down Arrow Key`:
+Show the next command in the history.
+-  `Alt`-`<`:
+Move to the first item in the history.
+-  `Alt`-`>`:
+Move to the last item in the history (the current command, not the last executed command).
 -  `Ctrl`-`r`:
 Reverse-search the history incrementally.
 For example, pressing `Ctrl`-`r`, then typing 'string', then pressing `Ctrl`-`r`, `Ctrl`-`r`, ..., will scroll through all commands in the history containing 'string'.
 Press `Ctrl`-`g` to break out of the search.
--  `Alt`-`p`                        Reverse search the history non-incrementally.
+-  `Alt`-`p`:
+Reverse search the history non-incrementally.
 
 # Completions
 
@@ -135,12 +149,18 @@ Attempt shell variable completion.
 Show host name completions.
 -  `Alt`-`@`:
 Attempt hostname completion.
--  `Alt`-`&`:       Perform tilde expansion.
--  `Alt`-`*`:      Insert all possible completions.
--  `Alt`-`?`:       Show the current completion list.
--  `Alt`-`{`:       Insert all filename completions within braces.
+-  `Alt`-`&`:
+Perform tilde expansion.
+-  `Alt`-`*`:
+Insert all possible completions.
+-  `Alt`-`?`:
+Show the current completion list.
+-  `Alt`-`{`:
+Insert all filename completions within braces.
 
 # Scrolling
 
--  `Shift`-`Page Up`:     Scroll up one screen. (This may not work for some terminals. Use your mouse instead if you have one.)
--  `Shift`-`Page Down`:   Scroll down one screen.
+-  `Shift`-`Page Up`:
+Scroll up one screen. (This may not work for some terminals. Use your mouse instead if you have one.)
+-  `Shift`-`Page Down`:
+Scroll down one screen.
