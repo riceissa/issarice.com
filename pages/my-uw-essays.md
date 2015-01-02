@@ -1,14 +1,23 @@
 ---
 title: My UW essays
+description: college application essays
+language: English
+# accepts "notes", "draft", "in progress", or "mostly finished"
+status: mostly finished
+# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
+belief: unlikely
+# accepts "CC0", "CC-BY", or "CC-BY-SA"
+license: CC-BY
 tags: literary, school, uw, uw-honors
 ...
 
 Here are all the essays I wrote for admission to the University of
 Washington.
 The UW application actually did not allow unicode characters like smart quotes and em-dashes, nor did it accept italics, so the essays as displayed here are in their intended form, not as they were submitted.
-Note that I don't necessarily agree with all of what's said below anymore.
+Note that I don't necessarily agree with all of what's said below anymore (hence the belief tag).
 
 Thanks to KL for the extensive feedback I received while writing these essays.
+I also received minor feedback from others.
 
 # General admission essays
 
