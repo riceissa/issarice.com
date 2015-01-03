@@ -22,3 +22,6 @@ At the moment, I do something like the following.
 - Synchronous: Phone, Skype.
 
 In general I don't like texting because I have to manually backup messages.
+I've also disabled Google hangouts/chat in Gmail, so will only see those messages on my phone.
+
+Also, feel free to ping me---I'm somewhat bad at giving timely responses, and a sense of urgency helps for replying to people.
