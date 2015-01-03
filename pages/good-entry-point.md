@@ -11,7 +11,7 @@ status: notes
 #belief: 
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
-tags: untagged
+tags: content creation
 ...
 
 A **good entry point** to a website or wiki is a page that is understandable and useful to someone coming from outside the site (e.g. from a search engine or external website).
