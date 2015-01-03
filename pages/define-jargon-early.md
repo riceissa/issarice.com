@@ -8,18 +8,24 @@ language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: possible
+belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: writing, content creation
 ...
 
-When writing, it is important to **define jargon** at the beginning so you don't waste readers' time.
+When writing, it is important to **define jargon early** so you don't waste readers' time.
 This page explains why you should do so, and gives examples of what can go wrong if you don't do so.
 
-# Reasons
+# Advantages
 
-# What can go wrong?
+- Mainly, it is tedious to read an article that adds no new insight other than a new phrase coined by an author for the sake of their argument.
+
+# Disadvantages
+
+- Articles may require an elaborate narrative in order to be convincing, something that a wiki does not need.
+
+# Examples of not defining jargon early
 
 Let us take the article "[Digital Sharecropping: The Most Dangerous Threat to Your Online Marketing](http://www.copyblogger.com/digital-sharecropping/)" as an example.
 Since I'm largely in agreement with the content of the article, my criticism of it is mainly with how the content is sequenced.
