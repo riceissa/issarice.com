@@ -11,7 +11,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: content creation
 ...
 
 This page describes my thoughts on having a personal website.
@@ -60,3 +60,16 @@ For instance, I post all of my research relevant to [cause prioritization]() on 
 In addition, there is often information that cannot fit in other places.
 For instance, where does one put information about the account names one uses on various sites, or one's contact information?
 Or if one wanted to write monthly updates on the progress one makes on various projects, like [gwern](FIXME) and [Vipul Naik](FIXME).
+
+
+# Notes on having mine
+
+- I expect to fairly often rename pages when I'm starting out, since I want pages to use [canonical naming]() but sometimes I'm careless or don't know what the standard name of a topic is.
+Fixing is cheap, though.
+For instance, I recently changed the page "Openness and availability of content" to the much simpler "[Content availability]()".
+After the obvious `git mv` and changing of the title in the file itself, I had to look for all the references I made to that page throughout.
+This is achieved by:
+```{.bash}
+egrep -i --color -n "*openness.and.avail*" pages/*
+```
+The periods are helpful because they catch both the hyphenated links (explicit) or the spaces (used for implicit internal linking).
