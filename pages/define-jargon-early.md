@@ -39,6 +39,9 @@ The article begins by talking about how she began watching more movies, for abou
 Only then do we get a hint of the idea conveyed in the title: "After all, I aspire to be obsessed with learning how to think, and all good movie characters are exceptionally obsessive."
 After 630 words, we finally get the main idea: "And regardless of whether or not I or society endorses what different people are obsessed with, the fact is that *everyone is obsessed*."
 
+# Why do people not define their jargon early?
+
+My guess is that writers tend not to define their jargon early due to inertia and concern that readers won't take them seriously if they just [list their main points](http://www.paulgraham.com/nthings.html)---so they resort to trying to "lure" readers in.
 
 # "Examples first" versus "define then discuss"
 
