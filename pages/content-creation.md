@@ -229,3 +229,7 @@ See [The value of content creation](./the-value-of-content-creation) for more.
 Does this mean blogs are superior to e.g. static sites?
 
 - Since I've only begun to write recently, how can I even know these considerations are correct?
+
+# External links
+
+- [Discussion (that never took off) on Vipul Naik's Facebook feed](https://www.facebook.com/vipulnaik.r/posts/10204192033496970)
