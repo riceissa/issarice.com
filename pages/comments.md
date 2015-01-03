@@ -60,3 +60,24 @@ In fact, I get the impression that small personal sites tend to have the highest
 The other issue is with having to moderate the comments.
 Quora and Facebook are convenient because they require real names, and thus are able to keep out non-human spam (for the most part).
 Disqus does seem to have anti-spam measures, but verifying the identities of commenters may be more difficult since people can choose to post anonymously (and also because Disqus isn't as widely-used as Facebook).
+
+It's probably worth thinking about why we have comments in the first place.
+Comments are useful chiefly because they are a means to provide feedback for the author.
+But this can be done via email or messaging (see my [contact information](about-me#contact) for how); better yet, for minor things like pointing out typos, I have an "edit page" link at the top of each page that will allow people with GitHub accounts to fork the site repo and submit a pull request.
+
+One idea in favor of having comments is so criticisms are out in the open.
+But there are other ways to do this[^otherways], and in any case, how can one trust a site owner to be honest about the comments posted on their own site (since they usually have the power to delete any comment, or even edit them in the case of sites using WordPress)?
+
+Another idea is that 
+
+Some convincing ideas for me are:
+
+- Site-native comments are potentially easier to backup than comments posted to Facebook or Quora.
+Even Disqus does not allow the site owner to backup the comments for a site (only their own comments, last time I checked), and [even gwern seems to concede this](http://www.gwern.net/Archiving%20URLs#comment-886147303)[^disquscomments].
+
+[^otherways]: gwern has an "[External links](http://www.gwern.net/On%20Stress#external-links)" section for his page *On Stress* that links to a reddit discussion of the page.
+I can do the same with Facebook discussions or when I crosspost to Quora.
+
+[^disquscomments]: In response to "What about [archiving] the comments here?", gwern writes:
+
+    > Likely to die, I'm afraid. I do back up my Disqus comments on a regular basis, but there's no guarantee that I'll migrate them to the next commenting system. (On the plus side, I try to address any issues comments bring up, quote ones which add to the article, etc, so the losses won't be too great.)
