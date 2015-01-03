@@ -194,7 +194,7 @@ def create_sitemap():
     for p in page_data:
         # "slug" here is "inter" from earlier
         x1, slug, x2 = p
-        body += to_unicode(sitemap_list.render(slug=slug))
+        body += to_unicode(sitemap_list.render(slug=to_unicode(slug)))
     for t in all_tags:
         body += to_unicode(sitemap_list.render(slug="tags/" + t))
     sitemap = env.get_template('templates/sitemap.xml')
