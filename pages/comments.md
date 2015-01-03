@@ -68,16 +68,34 @@ But this can be done via email or messaging (see my [contact information](about-
 One idea in favor of having comments is so criticisms are out in the open.
 But there are other ways to do this[^otherways], and in any case, how can one trust a site owner to be honest about the comments posted on their own site (since they usually have the power to delete any comment, or even edit them in the case of sites using WordPress)?
 
-Another idea is that 
+[^otherways]: gwern has an "[External links](http://www.gwern.net/On%20Stress#external-links)" section for his page *On Stress* that links to a reddit discussion of the page.
+I can do the same with Facebook discussions or when I crosspost to Quora.
+
+
+Another idea is that there is a natural presumption that commenting on a site is enabled.
+This site itself is the most natural place to have a discussion about the content on the site, and also provides an obvious place for readers to interact with each other; who am I to take this zone of exchange away?
+
 
 Some convincing ideas for me are:
 
 - Site-native comments are potentially easier to backup than comments posted to Facebook or Quora.
-Even Disqus does not allow the site owner to backup the comments for a site (only their own comments, last time I checked), and [even gwern seems to concede this](http://www.gwern.net/Archiving%20URLs#comment-886147303)[^disquscomments].
-
-[^otherways]: gwern has an "[External links](http://www.gwern.net/On%20Stress#external-links)" section for his page *On Stress* that links to a reddit discussion of the page.
-I can do the same with Facebook discussions or when I crosspost to Quora.
+Even Disqus does not allow the site owner to backup the comments for a site (only their own comments, last time I checked); [gwern seems to backup Disqus comments though](http://www.gwern.net/Archiving%20URLs#comment-886147303)[^disquscomments].
 
 [^disquscomments]: In response to "What about [archiving] the comments here?", gwern writes:
 
     > Likely to die, I'm afraid. I do back up my Disqus comments on a regular basis, but there's no guarantee that I'll migrate them to the next commenting system. (On the plus side, I try to address any issues comments bring up, quote ones which add to the article, etc, so the losses won't be too great.)
+
+- Some people don't have an account on Facebook or Quora, and even emailing may be inconvenient.
+For this, I do have an [anonymous feedback form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (which works even with text-only browsers like Elinks), as advertised on my contacts section of the about page.
+
+- Having a comments section might be a good idea for an outsider (say, if they want to recruit bloggers).
+Vipul Naik writes in [his answer to "How do you recruit writers for a group blog?"](https://www.quora.com/How-do-you-recruit-writers-for-a-group-blog/answer/Vipul-Naik) that he searched on Bryan Caplan's EconLog when looking for bloggers to recruit to Open Borders:
+
+    > I looked at the comment thread on Bryan's
+    > migration posts on EconLog. I looked carefully for people who wrote
+    > long, detailed comments on migration issues, whose philosophy seemed
+    > broadly similar to what was being conveyed on the site, who were
+    > eloquent, *and* who didn't seem to already have a very active blog
+    > presence of their own.
+
+I also do have a GitHub repository for this site, where anyone can open an issue, which is viewable publicly.
