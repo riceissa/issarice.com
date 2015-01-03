@@ -50,3 +50,9 @@ Richard Stallman [says](https://stallman.org/articles/online-education.html):
 > the argument about the users' control does not apply. Thus, I do not
 > object if they are published with the CC-BY-NC-ND license, which allows
 > only noncommercial redistribution of exact copies.
+
+# CC-BY versus public domain
+
+What is the difference between CC-BY and CC0, in terms of what one should choose?
+One argument that they don't make much difference is that any respectable person would give attribution anyway---so even given the full privilege of public domain works, one would still essentially use it like CC-BY.
+Another idea is that (like myself) most people won't go after others even if their copyright (or copyleft) claims are ignored by other parties.
