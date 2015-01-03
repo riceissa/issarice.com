@@ -7,6 +7,8 @@ last-major-revision-date: 2014-09-14
 license: CC0
 ...
 
+*This page is about this site; for information about myself, see [About me]().*
+
 # Philosophy
 
 This site is my attempt to realize gwern's idea of [Long Content]().[^pess]

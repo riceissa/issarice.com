@@ -7,6 +7,8 @@ license: CC0
 tags: general
 ...
 
+*This page is about myself; for information about this website, see [About the site]().*
+
 # Self-introduction
 
 I am highly introverted (INTP on the [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator); see “[On Types of Typologies](http://slatestarcodex.com/2014/05/27/on-types-of-typologies/)” for more) and curious about a wide array of things, including [effective altruism]()[^ea]  and rationality ([LessWrong](http://lesswrong.com), [Slate Star Codex](http://slatestarcodex.com/)).
