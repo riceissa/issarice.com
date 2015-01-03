@@ -27,10 +27,16 @@ NEW:
 - go through generator.py, metadata.py, and commands.py (and maybe also
   tag_ontology.py) to document code.
 - use classes instead of purely procedural stuff (do this slowly)
-- efficiency?? -- right now, it takes about 9 seconds to process all
-  files, while hakyll takes about 6 (+4 for compiling site.hs). But
-  generator.py does a lot more tag processing, so maybe speed isn't
-  really a concern.
+
+- efficiency?? -- right now, it takes about 30 seconds to process all
+  files. It used to be that generator.py took 9 seconds while hakyll
+  took about 6 (+4 for compiling site.hs). But generator.py does a lot
+  more tag processing, so maybe speed isn't really a concern. Now
+  generator.py makes a sitemap as well.  30 *is* slow, but the --files
+  flag allows for partial compilation (something I didn't see in Jekyll
+  or Hakyll), which means I can quickly check the output of the file I
+  am editing.  I do want to work on this though to make it run faster.
+
 - fix slugification method... (right now i think it fails for japanese characters, for example, as well as accented latin characters. also consider switching to wikipedia-style Cool URIs.)
 
 OLD:
