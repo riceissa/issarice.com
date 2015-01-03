@@ -52,4 +52,4 @@ Some more thoughts:
 
 - I like to keep up a "rolling release" model for this site, so that all my latest ideas are available for people to read
 - Having everything online means I can easily link to some page---say, if a relevant discussion comes up
-- I am always conscious of the [openness and availability](./openness-and-availability-of-content) of what I write.
+- I am always conscious of [content availability](./openness-and-availability-of-content) when I write.

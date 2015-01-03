@@ -14,13 +14,13 @@ status: draft
 
 The following was inspired by discussions with [Vipul Naik](http://vipulnaik.com).
 
-# Openness and availability of content
+# Availability
 
 This section considers how open one's content should be.
 One definitely shouldn't “fetishize openness”, and ought to always consider to whom what you write will be useful (since if it's useful to no one, then one shouldn't bother publishing it).
 Then again, it's sometimes hard to anticipate who will respond positively to what you write, which is one argument for greater openness.
 
-See [Openness and availability of content]() for more.
+See [Content availability]() for more.
 
 # Choosing a medium (or media)
 
