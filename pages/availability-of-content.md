@@ -1,5 +1,5 @@
 ---
-title: Openness and availability of content
+title: Availability of content
 description: 
 author: Issa Rice
 creation-date: 2014-12-18
