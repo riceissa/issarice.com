@@ -29,3 +29,8 @@ Things to talk about:
 - linking in e.g. plaintext email, where *only* exposed links are possible
 - URL shorteners?
 - long exposed links appear poorly on mobile browsers
+- when to use linking style like (1, 2, 3) or (here, here, and here) or (more) (GiveWell does the third.)
+- internal vs external links
+- email obfuscation in links? (what pandoc does)
+- referrer masking
+- when to use footnotes, when to use links, when to use parentheses
