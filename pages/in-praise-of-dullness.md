@@ -90,3 +90,12 @@ And of course, [controversial ideas receive more views](http://slatestarcodex.co
 From <http://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/>:
 
 > Nobody cares about charity. Everybody cares about politics, especially race and gender. Just as televangelists who are obsessed with moving to a sweeter pad may come to think that donating to their building fund is the one true test of a decent human being, so our universal obsession with politics, race, and gender incites people to make convincing arguments that taking and spreading the right position on those issues is the one true test of a decent human being.
+
+
+# Writing
+
+In writing, being dull also implies not having very much of a voice.
+It also favors writing that defines few new terms (something that [LessWrong]() can't stop doing[^lw]), and even when it does have new terms, [defines jargon early](define-jargon-early).
+
+[^lw]: For instance, even when "daydreaming instead of working" suffices, a LessWrong blogger will write "[identity crafting](http://lesswrong.com/r/discussion/lw/lgi/identity_crafting/)".
+
