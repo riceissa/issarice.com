@@ -1,5 +1,5 @@
 ---
-title: Personal transparency
+title: Individual transparency
 #description: none
 author: Issa Rice
 creation-date: 2015-01-02
@@ -14,4 +14,4 @@ license: CC-BY
 tags: untagged
 ...
 
-
+This page considers **individual transparency** (which is distinct from organizational transparency)
