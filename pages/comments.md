@@ -46,7 +46,7 @@ Some questions to ask:
 
 # Comments on this site
 
-On social media like Facebook and Quora, and even on WordPress blogs, it is not necessary to think too much on commenting, since this is all provided by upstream.
+On social media like Facebook and Quora, and even on WordPress blogs, it is not necessary to think too much on commenting, since this is all provided upstream.
 When I first started using a static site generator to make my website, I followed gwern and used [Disqus](!w).
 However, currently this site has no comments.
 My reasoning is that, ever since I've become active on Facebook, I've realized that most of the useful discussions about an article happen there, instead of on the original article's comments section.
@@ -54,6 +54,9 @@ More directly, in his answer to "[Why are people more willing to comment on a Fa
 
 > To answer the question directly, it is because the comments section of the article is full of <u>inane and worthless chatter</u> that has zero intellectual value whatsoever. However, my Facebook friends are mostly fairly intelligent people, so usually they have something insightful to say about the article and/or participating in the discussion that they prompt is enjoyable and interesting.
 
+This obviously does not happen on every site.
+In fact, I get the impression that small personal sites tend to have the highest-quality comments, while large news sites tend to have the worst, with blogs somewhere in the middle.
+
 The other issue is with having to moderate the comments.
-Quora and Facebook are good, for instance, because they require real names, and thus are able to keep out non-human spam (for the most part).
-Disqus does seem to have anti-spam measures, but verifying the identities of commenters may be more difficult since people can choose to post anonymously.
+Quora and Facebook are convenient because they require real names, and thus are able to keep out non-human spam (for the most part).
+Disqus does seem to have anti-spam measures, but verifying the identities of commenters may be more difficult since people can choose to post anonymously (and also because Disqus isn't as widely-used as Facebook).
