@@ -1,5 +1,5 @@
 ---
-title: Availability of content
+title: Content availability
 description: 
 author: Issa Rice
 creation-date: 2014-12-18
