@@ -63,3 +63,7 @@ change. “I am at the very bottom of a long, long ladder. I am on the
 first rung, and above me are all those who engaged in peaceful protest,
 like Thoreau, Gandhi, King, and so on. We are all on our ascent to
 heaven.” $\Diamond$
+
+# External links
+
+- [Private discussion of this piece](https://www.facebook.com/vipulnaik.r/posts/10204702952429624)
