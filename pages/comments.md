@@ -99,3 +99,21 @@ Vipul Naik writes in [his answer to "How do you recruit writers for a group blog
     > presence of their own.
 
 I also do have a GitHub repository for this site, where anyone can open an issue, which is viewable publicly.
+
+# External links
+
+A variety of people have discussed whether to have comments on their site.
+Here are some of the better ones.
+
+- Matt Gemmell has:
+    - [Comments Off](http://mattgemmell.com/comments-off/)<!-- ([Perma.cc](http://perma.cc/AP2L-32XU))-->
+    - [Comments Still Off](http://mattgemmell.com/comments-still-off/)<!-- ([Perma.cc](http://perma.cc/6C7U-GL4W))-->
+    - [Comments Commentary](http://mattgemmell.com/comments-commentary/)<!-- ([Perma.cc](http://perma.cc/D84U-WUX2), [archive.today](https://archive.today/hI4i1))-->, a collation of other writers' take on comments
+
+- [Darren Steadman](http://darrensteadman.com/2012/01/06/re-comments-off)<!--([Internet Archive](https://web.archive.org/web/20140829044846/http://darrensteadman.com/2012/01/06/re-comments-off/))--> (through Gemmell)
+
+- [MG Siegler](http://parislemon.com/post/15288210624/comments-still-off) (also through Gemmell):
+
+    > Let’s be totally honest here: anyone worthwhile leaving a comment should do so on their own blog. Very few read blog comments anyway. I’m sorry, but it’s true. Commenting is a facade. It makes you think you have a voice. You don’t. Get your own blog and write how you really feel on your own site.
+
+- The notorious [John Gruber](http://daringfireball.net/2010/06/whats_fair)
