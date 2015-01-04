@@ -116,6 +116,8 @@ Here are some of the better ones.
 
     > Let’s be totally honest here: anyone worthwhile leaving a comment should do so on their own blog. Very few read blog comments anyway. I’m sorry, but it’s true. Commenting is a facade. It makes you think you have a voice. You don’t. Get your own blog and write how you really feel on your own site.
 
+    This is related to my idea of treating comments as their own post.
+
 - [Copyblogger](http://www.copyblogger.com/removing-blog-comments/):
 
     > If you’re going to put the work in to articulate your thoughts, to make
