@@ -284,4 +284,6 @@ probably already been asked, so.\
 \
 
 
+# External mirroring
 
+The way I see it, external page savers like the Internet Archive and WebCite shouldn't be trusted; rather, they're a convenient way to avoid copyright violations (since they're hosting the files, not you); and they provide a time buffer for you to get local copies.
