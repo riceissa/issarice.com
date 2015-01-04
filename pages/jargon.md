@@ -1,5 +1,5 @@
 ---
-title: Define jargon early
+title: Jargon
 #description: none
 author: Issa Rice
 creation-date: 2015-01-03
