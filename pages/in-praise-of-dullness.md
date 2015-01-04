@@ -99,3 +99,9 @@ It also favors writing that defines few new terms (something that [LessWrong]() 
 
 [^lw]: For instance, even when "daydreaming instead of working" suffices, a LessWrong blogger will write "[identity crafting](http://lesswrong.com/r/discussion/lw/lgi/identity_crafting/)".
 
+
+Bryan Caplan on bubbles:
+
+- <http://econlog.econlib.org/archives/2012/03/my_beautiful_bu.html>
+- <http://econlog.econlib.org/archives/2013/04/immigration_and_4.html>
+- <http://econlog.econlib.org/archives/2013/04/make_your_own_b.html>
