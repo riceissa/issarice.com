@@ -40,7 +40,7 @@ See Andrew J. Ho's answer for chemistry courses.
 
 - [Is it worthwhile to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worthwhile-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
 
-- [Alex K. Chen’s answer to What is the biggest regret of your life?](https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen)
+- [Alex K. Chen’s answer to What is your biggest regret?](https://www.quora.com/What-is-your-biggest-regret/answer/Alex-K-Chen) ([archive.today](https://archive.today/UolS0))
 
 - Alex K. Chen often refers to the Academic program reviews and departmental self-study reports.
 Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html).

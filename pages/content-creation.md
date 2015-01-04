@@ -87,7 +87,7 @@ See more at “[Choice of content management system](http://info.cognitomentorin
 
 ## Google group
 
-See "[What are the advantages of a blog versus a Google group or email list?](ihttps://www.quora.com/What-are-the-advantages-of-a-blog-versus-a-Google-group-or-email-list)" on Quora.
+See "[What are the advantages of a blog versus a Google group or email list?](https://www.quora.com/What-are-the-advantages-of-a-blog-versus-a-Google-group-or-email-list)" on Quora.
 <!-- I have to investigate this more, though Google groups seem to not be very popular.-->
 
 ## Mailing lists

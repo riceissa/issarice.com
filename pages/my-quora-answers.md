@@ -169,7 +169,7 @@ enter a Markdown document and observe the differing HTML outputs.
 
 [Mirror](https://www.quora.com/How-can-I-write-messages-in-Gmail-using-Markdown/answer/Issa-Rice)
 
-See [here](/playing-with-pandoc).
+See my page on [Pandoc]().
 
 # Why does only the first item of a list show up when using pandoc and YAML headers?
 
@@ -191,7 +191,7 @@ header](http://stackoverflow.com/questions/25559469/listing-tags-using-pandoc-an
 
 [Mirror](https://www.quora.com/Is-there-a-service-or-program-that-lets-you-copy-text-from-a-website-directly-into-Markdown-retaining-all-formatting/answer/Issa-Rice)
 
-See [here](/playing-with-pandoc).
+See my page on [Pandoc]().
 
 # Are there translations websites of Quora content?
 
@@ -1126,7 +1126,7 @@ Here are some resources that might help.
     [2013 Survey
     Results](http://lesswrong.com/lw/jj0/2013_survey_results/)
 -   Some relevant articles that aren't strictly from Less Wrong: [The Cult of Bayes'
-    Theorem](http://plover.net/%7Ebonds/cultofbayes.html) and
+    Theorem](https://web.archive.org/web/20131203234424/http://plover.net/~bonds/cultofbayes.html) ([archive.today](https://archive.today/V4xK9)) and
     [LessWrong -
     RationalWiki](http://rationalwiki.org/wiki/LessWrong)
 
