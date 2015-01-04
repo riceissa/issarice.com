@@ -16,4 +16,4 @@ tags: minimalism
 
 See [minimalism (computing)](!w) and [simple living](!w) for definitions provided by Wikipedia.
 
-See also [Efficiency tips](http://vipulnaik.com/efficiency-tips/)<!--https://archive.today/ampm1--> by Vipul Naik.
+See also [Efficiency tips](http://vipulnaik.com/efficiency-tips/)<!--(https://archive.today/ampm1)--> by Vipul Naik.
