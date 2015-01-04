@@ -6,12 +6,12 @@ creation-date: 2015-01-04
 last-major-revision-date: 2015-01-04
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
+status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
+belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: facebook, social
 ...
 
 I use **[Facebook](https://www.facebook.com/)** regularly; [connect with me](about-me#social) on Facebook.
