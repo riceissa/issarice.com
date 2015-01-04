@@ -1112,23 +1112,11 @@ Some other posts that elaborate on this:
 
 Here are some resources that might help.
 
--   To their credit, Less Wrong has discussed its cult impressions in
-    [Cult impressions of Less
-    Wrong/Singularity
-    Institute](http://lesswrong.com/lw/atm/cult_impressions_of_less_wrongsingularity/)
--   There is also the post [You're
-    Calling \*Who\* A Cult
-    Leader?](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/)
-    by Eliezer Yudkowsky.
--   This one is clearly a joke, but there are [Eliezer Yudkowsky
-    Facts](http://lesswrong.com/lw/4g/eliezer_yudkowsky_facts/)
--   Less Wrong also conducts annual surveys; the most recent one is
-    [2013 Survey
-    Results](http://lesswrong.com/lw/jj0/2013_survey_results/)
--   Some relevant articles that aren't strictly from Less Wrong: [The Cult of Bayes'
-    Theorem](https://web.archive.org/web/20131203234424/http://plover.net/~bonds/cultofbayes.html) ([archive.today](https://archive.today/V4xK9)) and
-    [LessWrong -
-    RationalWiki](http://rationalwiki.org/wiki/LessWrong)
+-   To their credit, Less Wrong has discussed its cult impressions in [Cult impressions of Less Wrong/Singularity Institute](http://lesswrong.com/lw/atm/cult_impressions_of_less_wrongsingularity/)
+-   There is also the post [You're Calling \*Who\* A Cult Leader?](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/) by Eliezer Yudkowsky.
+-   This one is clearly a joke, but there are [Eliezer Yudkowsky Facts](http://lesswrong.com/lw/4g/eliezer_yudkowsky_facts/)
+-   Less Wrong also conducts annual surveys; the most recent one is [2013 Survey Results](http://lesswrong.com/lw/jj0/2013_survey_results/)
+-   Some relevant articles that aren't strictly from Less Wrong: [The Cult of Bayes' Theorem](https://web.archive.org/web/20131203234424/http://plover.net/~bonds/cultofbayes.html) ([archive.today](https://archive.today/V4xK9)) and [LessWrong - RationalWiki](http://rationalwiki.org/wiki/LessWrong)
 
 
 # What is the best way to treat or prevent acne?
@@ -1138,12 +1126,10 @@ Here are some resources that might help.
 
 There are some resources on Reddit that seem useful. In particular see
 
-- [The Redditor's Guide to Acne 2013](http://www.reddit.com/r/acne/comments/1bs7nv/the_redditors_guide_to_acne_2013/)
-    (old version: [The Redditor's Guide to Acne, Version 2](http://www.reddit.com/r/acne/comments/nrkg2/the_redditors_guide_to_acne_version_2))
+- [The Redditor's Guide to Acne 2013](http://www.reddit.com/r/acne/comments/1bs7nv/the_redditors_guide_to_acne_2013/) (old version: [The Redditor's Guide to Acne, Version 2](http://www.reddit.com/r/acne/comments/nrkg2/the_redditors_guide_to_acne_version_2))
 - [I've had acne for a long time and finally cured it. Here's a huge post of guidelines to follow that will probably cure yours too.](http://www.reddit.com/r/acne/comments/188mha/ive_had_acne_for_a_long_time_and_finally_cured_it/)
 
-via [phonypapercut comments on Open Thread, August 1-15, 2012 - Less
-Wrong](http://lesswrong.com/lw/dwb/open_thread_august_115_2012/74w4).
+via [phonypapercut comments on Open Thread, August 1-15, 2012 - Less Wrong](http://lesswrong.com/lw/dwb/open_thread_august_115_2012/74w4).
 
 
 # Longevity and Life Extension: What can I do to live as long as possible?
@@ -1154,8 +1140,7 @@ There is a recent (28 Feb. 2014) post on Less Wrong that discusses
 longevity, which is worth checking out.
 
 See [Lifestyle interventions to increase longevity](http://lesswrong.com/lw/jrt/lifestyle_interventions_to_increase_longevity/).
-(The post is licensed CC-BY, so someone may want to attempt to extend
-it.)
+(The post is licensed CC-BY, so someone may want to attempt to extend it.)
 
 The comments discuss sleep apnea: [Yvain comments on Lifestyle interventions to increase longevity - Less Wrong](http://lesswrong.com/lw/jrt/lifestyle_interventions_to_increase_longevity/amp8).
 On Quora, there is [What is it like to have sleep apnea?](https://www.quora.com/What-is-it-like-to-have-sleep-apnea)
