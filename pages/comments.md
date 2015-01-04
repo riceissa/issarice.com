@@ -116,4 +116,10 @@ Here are some of the better ones.
 
     > Let’s be totally honest here: anyone worthwhile leaving a comment should do so on their own blog. Very few read blog comments anyway. I’m sorry, but it’s true. Commenting is a facade. It makes you think you have a voice. You don’t. Get your own blog and write how you really feel on your own site.
 
+- [Copyblogger](http://www.copyblogger.com/removing-blog-comments/):
+
+    > If you’re going to put the work in to articulate your thoughts, to make
+    > an intelligent argument, and to bring something fresh to the
+    > conversation … you should be [putting that work into *your* site](http://www.copyblogger.com/digital-sharecropping/), not ours.
+
 - The notorious [John Gruber](http://daringfireball.net/2010/06/whats_fair)
