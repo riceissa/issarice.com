@@ -105,3 +105,8 @@ Bryan Caplan on bubbles:
 - <http://econlog.econlib.org/archives/2012/03/my_beautiful_bu.html>
 - <http://econlog.econlib.org/archives/2013/04/immigration_and_4.html>
 - <http://econlog.econlib.org/archives/2013/04/make_your_own_b.html>
+
+Thoughts on [gwern's blackmailing page](http://www.gwern.net/Blackmail):
+
+- creates a presumption that gwern will pay attention to it and will post about it on his website.
+Will this increase or decrease the number of such extortions?
