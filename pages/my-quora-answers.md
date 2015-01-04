@@ -49,9 +49,7 @@ effort to attempt to start a group).
 
 [Mirror](https://www.quora.com/How-has-the-way-Vipul-Naik-uses-Facebook-changed-the-way-you-think-about-social-media/answer/Issa-Rice)
 
-Slightly modified version of what I posted on Facebook:
-
-Vipul's bleg-style posts on Facebook have definitely opened my eyes to what's possible on Facebook. I originally joined Facebook for networking in college (as well as to join a certain discussion group), but honestly wasn't expecting too much out of Facebook (which I had thought of as a place where people post generally inane status updates). Over the six months I've been on Facebook, I've learned that as long as one is willing to curate one's Facebook feed enough, the signal-to-noise ratio can surpass that of Quora, and rival that of sites like Less Wrong. Sebastian Nickel's post praising Vipul comes to mind. To be sure, I realize that Vipul's style of posting isn't unique, but he seems to be one of the better people posting in this style.
+Please see [Facebook](), where this answer has been incorporated.
 
 # How can I implement cool URIs with Hakyll?
 
