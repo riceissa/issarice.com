@@ -14,7 +14,7 @@ license: CC-BY
 tags: untagged
 ...
 
-I use **Facebook** regularly; [connect with me](about-me#social) on Facebook.
+I use **[Facebook](https://www.facebook.com/)** regularly; [connect with me](about-me#social) on Facebook.
 See "[Using Facebook effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)" on the Cognito Mentoring wiki.
 
 To add to that, here is what I wrote for the Quora question "[How has the way Vipul Naik uses Facebook changed the way you think about social media?](https://www.quora.com/How-has-the-way-Vipul-Naik-uses-Facebook-changed-the-way-you-think-about-social-media/answer/Issa-Rice)":
