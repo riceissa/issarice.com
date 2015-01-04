@@ -287,3 +287,7 @@ probably already been asked, so.\
 # External mirroring
 
 The way I see it, external page savers like the Internet Archive and WebCite shouldn't be trusted; rather, they're a convenient way to avoid copyright violations (since they're hosting the files, not you); and they provide a time buffer for you to get local copies.
+
+I don't think I should be surprised at all by this, but I was quite impressed with [Perma.cc](http://perma.cc)'s [contingency plan](https://perma.cc/contingency-plan), which seems like an obvious improvement over standard web services that simply shut down and give no notice[^quora].
+
+[^quora]: In the case of Quora, private blogs were almost immediately disabled and deleted after announcement (though archives were emailed out to owners); Google reader gave [under three months](https://en.wikipedia.org/wiki/Google_Reader#Discontinuation) to backup data.
