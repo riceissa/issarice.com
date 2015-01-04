@@ -106,6 +106,22 @@ Bryan Caplan on bubbles:
 - <http://econlog.econlib.org/archives/2013/04/immigration_and_4.html>
 - <http://econlog.econlib.org/archives/2013/04/make_your_own_b.html>
 
+Also from <http://econlog.econlib.org/archives/2015/01/shy_male_nerds.html> ([Internet Archive](https://web.archive.org/web/20150104060638/http://econlog.econlib.org/archives/2015/01/shy_male_nerds.html), [archive.today](https://archive.today/Zwp0P)):
+
+
+> If helping SMNs is the goal, I think I know a better way.  As usual, I
+> recommend self-help.  Specifically: SMNs should exclude hostile
+> feminists from their
+> [Bubble](http://econlog.econlib.org/archives/2013/04/make_your_own_b.html). 
+> ([Further background](http://econlog.econlib.org/archives/2012/03/my_beautiful_bu.html)). 
+> Stop arguing with hostile feminists.  Stop reading them.  If you know
+> any in real life, stop associating with them.  Even if they have halfway
+> decent reasons for berating you, you're clearly not right for each
+> other.  The best response is to [amicably go your separate
+> ways](http://econlog.econlib.org/archives/2014/02/the_futility_of.html). 
+
+(See also the [follow-up by Caplan](http://econlog.econlib.org/archives/2015/01/shy_male_nerds_1.html).)
+
 Thoughts on [gwern's blackmailing page](http://www.gwern.net/Blackmail):
 
 - creates a presumption that gwern will pay attention to it and will post about it on his website.
