@@ -7,7 +7,7 @@ markdown files using a custom static site generator stored in
 `metadata.py`, and `tag_ontology.py`).  Assuming one has the
 prerequisites to compile the site (Python,
 [Jinja2](http://jinja.pocoo.org/),
-[pandocfilers](https://github.com/jgm/pandocfilters/)), just
+[pandocfilers](https://github.com/jgm/pandocfilters/), [SASS](http://sass-lang.com/)), just
 do:
 
 ~~~~bash
