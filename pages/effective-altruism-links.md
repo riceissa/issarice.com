@@ -48,6 +48,12 @@ You can find my original public announcement about doing cause prioritization re
 
 \[to be added\]
 
+# Digital preservation
+
+See [Digital preservation]() and the [digital preservation article on the CP wiki](http://causeprioritization.org/Digital%20preservation).
+(I'm still not entirely sure how I should try to split content between the two.
+I suppose the latter will only contain information about how important it is to do this, how much cost is involved in large-scale efforts, etc., i.e. more "impersonal" stuff, while the former will be more of a "do it yourself" type page.)
+
 # EA in different languages
 
 - The most obvious step is to look at all the meetups [here](http://effective-altruism.com/meetups/) and talk to the people that go to them.
