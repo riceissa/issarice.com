@@ -140,3 +140,15 @@ Forward to *Pedagogy of the Oppressed*:
 > response were practically impossible. And it became clear to him
 > that the whole educational system was one of the major instruments
 > for the maintenance of this culture of silence.
+
+Page 33:
+
+> At first sight, Paulo Freire's method of teaching illiterates in Latin
+> America seems to belong to a different world from that in which we
+> find ourselves in this country. Certainly, it would be absurd to claim
+> that it should be copied here. But there are certain parallels in
+> the two situations that should not be overlooked. Our advanced
+> technological society is rapidly making objects of most of us and
+> subtly programming us into conformity to the logic of its system. To
+> the degree that this happens, we are also becoming submerged in
+> a new "culture of silence."
