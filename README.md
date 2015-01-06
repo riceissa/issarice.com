@@ -7,7 +7,7 @@ markdown files using a custom static site generator stored in
 `metadata.py`, and `tag_ontology.py`).  Assuming one has the
 prerequisites to compile the site (Python,
 [Jinja2](http://jinja.pocoo.org/),
-[pandocfilers](https://github.com/jgm/pandocfilters/), [SASS](http://sass-lang.com/)), just
+[pandocfilers](https://github.com/jgm/pandocfilters/), [SASS](http://sass-lang.com/), [awesome-slugify](https://github.com/dimka665/awesome-slugify)), just
 do:
 
 ~~~~bash
@@ -15,7 +15,7 @@ do:
 python generator.py
 ~~~~
 
-(If you get `Python.h: No such file or directory compilation terminated`, you might need to install `python-dev`; see [the relevant StackOverflow answer](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory) for more.)
+(If you get `Python.h: No such file or directory compilation terminated` when installing awesome-slugify, you might need to install `python-dev`; see [the relevant StackOverflow answer](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory) for more.)
 
 This will generate all resulting files under `_site`, which are eventually
 served on the site with:
