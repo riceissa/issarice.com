@@ -15,6 +15,8 @@ do:
 python generator.py
 ~~~~
 
+(If you get `Python.h: No such file or directory compilation terminated`, you might need to install `python-dev`; see [the relevant StackOverflow answer](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory) for more.)
+
 This will generate all resulting files under `_site`, which are eventually
 served on the site with:
 
