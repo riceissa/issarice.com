@@ -126,3 +126,17 @@ Thoughts on [gwern's blackmailing page](http://www.gwern.net/Blackmail):
 
 - creates a presumption that gwern will pay attention to it and will post about it on his website.
 Will this increase or decrease the number of such extortions?
+
+Forward to *Pedagogy of the Oppressed*:
+
+> His early sharing of the life of the poor also led him to the discov-
+> ery of what he describes as the "culture of silence" of the dispos-
+> sessed. He came to realize that their ignorance and lethargy were
+> the direct product of the whole situation of economic, social, and
+> political domination—and of the paternalism—of which they were
+> victims. Rather than being encouraged and equipped to know and
+> respond to the concrete realities of their world, they were kept
+> "submerged" in a situation in which such critical awareness and
+> response were practically impossible. And it became clear to him
+> that the whole educational system was one of the major instruments
+> for the maintenance of this culture of silence.
