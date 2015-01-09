@@ -23,3 +23,8 @@ This way, for each thing one writes, there will be an equivalent in each of the 
 
 - Another approach is to take the *union* of the same sets of features.
 This way, one has in a sense a "super language" that can deal with a lot more stuff.
+
+Some promising tools:
+
+- Pandoc (used for this site)
+- [Madoko](https://www.madoko.net/)
