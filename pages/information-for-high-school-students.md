@@ -32,7 +32,8 @@ Feel free to [connect with me](./about-me#contact) if you have questions or just
 ## General ideas
 
 
-> "\[S\]chool \[...\] is a pathological environment. It's pathological, because it sells itself as a "place of learning" while shunning the best learning tool there is \[i.e. failure\]. In school, the worst thing you can do is fail. If you fail seriously enough, you get "held back" or, at the very least, you get branded with an F. School teaches you to loath failing, which is basically teaching you to loath learning."
+> “\[S\]chool \[...\] is a pathological environment. It's pathological, because it sells itself as a  “place of learning” while shunning the best learning tool there is \[i.e. failure\].
+> In school, the worst thing you can do is fail. If you fail seriously enough, you get “held back” or, at the very least, you get branded with an F. School teaches you to loath failing, which is basically teaching you to loath learning.”
 >
 > ---[Marcus Geduld](https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld)
 
