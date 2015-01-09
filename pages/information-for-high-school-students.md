@@ -330,6 +330,8 @@ For Cognito Mentoring pages, see:
     - [Leaving academia after graduate school](http://info.cognitomentoring.org/wiki/Leaving_academia_after_graduate_school)
     - [Alternatives to academia](http://info.cognitomentoring.org/wiki/Alternatives_to_academia)
 
+A good thing to remember is that *there are already too many people in academia*.
+
 # Other ideas---expanding your imagination
 
 - Mencious Moldbug/neoreactionaries
