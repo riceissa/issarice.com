@@ -29,6 +29,8 @@ The most obvious way to use LessWrong is as a resource for rationality.
 
 - "[The noncentral fallacy - the worst argument in the world?](http://lesswrong.com/lw/e95/the_noncentral_fallacy_the_worst_argument_in_the/)"
 
+- "[Reason as memetic immune disorder](http://lesswrong.com/lw/18b/reason_as_memetic_immune_disorder/)"
+
 - Books are declining in importance compared to material one can find on the internet; see “[Yes, a blog.](http://lesswrong.com/lw/33j/yes_a_blog/)”
 
 <!-- FIXME: maybe insert a guide in here of how to effectively use LW -->
