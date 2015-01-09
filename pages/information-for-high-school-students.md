@@ -319,10 +319,16 @@ And:
 # Academia
 
 Beware of "tunnel vision" into mathematics and physics (and other STEM fields too).
-In particular, while knowing about the possibilities of academia is important, *going to graduate school shouldn't be one's default route*.
+In particular, while knowing about the possibilities of academia is important, *going to graduate school shouldn't be one's default route (at all)*.
 As [Holden Karnofsky of GiveWell says](https://80000hours.org/2013/04/interview-with-holden-karnofsky-co-founder-of-givewell/), regarding academia, "\[p\]eople usually either completely ignore that possibility or they completely ignore every other possibility".
 Also you always have to remeber quotes like "[I have known more people whose lives have been ruined by getting a Ph.D. in physics than by drugs](http://physics.wustl.edu/katz/scientist.html)".
 Remember that there also exist things like [100 Reasons NOT to Go to Graduate School](http://100rsns.blogspot.com/).
+
+For Cognito Mentoring pages, see:
+
+- [Academia as a career option](http://info.cognitomentoring.org/wiki/Academia_as_a_career_option)
+- [Leaving academia after graduate school](http://info.cognitomentoring.org/wiki/Leaving_academia_after_graduate_school)
+- [Alternatives to academia](http://info.cognitomentoring.org/wiki/Alternatives_to_academia)
 
 # Other ideas---expanding your imagination
 
