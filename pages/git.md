@@ -1,6 +1,6 @@
 ---
-title: Git commands
-description: A collection of often-forgotten git commands
+title: Git
+description: A collection of useful/often-forgotten git commands
 last-major-revision-date: 
 license: "CC-BY"
 tags: git, linux
