@@ -152,3 +152,15 @@ Page 33:
 > subtly programming us into conformity to the logic of its system. To
 > the degree that this happens, we are also becoming submerged in
 > a new "culture of silence."
+
+[Caplan on happiness research](http://econlog.econlib.org/archives/2006/11/does_happiness.html):
+
+> There's a mini-literature on whether the study of economics causes
+> people to become more selfish. Has anything been written on whether [the
+> study of happiness](http://happinesspolicy.com/) causes people to become
+> more happy?
+> 
+> My guess is that studying happiness doesn't cause happiness. Has anyone
+> shown otherwise?
+
+Similarly, does talking about politics/feminism/gender/race actually advance our knowledge of these issues?
