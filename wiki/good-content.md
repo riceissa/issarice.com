@@ -32,6 +32,7 @@ In contast, I tend not to have much respect for the following sources of informa
 
 - [Mainstream news](http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html)
 - Popular content publishers like BuzzFeed, APlus, Addicting Info, etc.
+- Most blogs
 
 What makes the list interesting is that they differ widely in terms of format, length, density, etc.---and yet, I seem to like them all (in different amounts).
 What gives?
