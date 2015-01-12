@@ -32,3 +32,7 @@ I think Peter Thiel nailed it with these quotes:
 > every day is so good that you don’t want it to end.[^telegraph]
 
 [^telegraph]: "[Peter Thiel: the billionaire tech entrepreneur on a mission to cheat death](http://www.telegraph.co.uk/technology/11098971/Peter-Thiel-the-billionaire-tech-entrepreneur-on-a-mission-to-cheat-death.html)"
+
+# See also
+
+- [Long Now Foundation](!w)
