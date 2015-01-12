@@ -29,7 +29,7 @@ else
     echo '# accepts "notes", "draft", "in progress", or "mostly finished"' >> $pagepath
     echo "#status: notes" >> $pagepath
     echo '# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"' >> $pagepath
-    echo "#belief: " >> $pagepath
+    echo "belief: possible" >> $pagepath
     echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
     echo "license: CC-BY" >> $pagepath
     echo "tags: untagged" >> $pagepath
