@@ -11,7 +11,7 @@ read title
 # You must have slug.py in the same directory as this script
 slug="$(echo -n "${title}" | python ${scriptdir}/slug.py)"
 pagename="$slug.md"
-pagepath="${sitedir}/pages/$slug.md"
+pagepath="${sitedir}/wiki/$slug.md"
 
 if [ -f $pagepath ];
 then
