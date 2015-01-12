@@ -30,7 +30,7 @@ Some sites that I think have good information are:
 
 In contast, I tend not to have much respect for the following sources of information:
 
-- [Mainstream news](http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html)
+- [Mainstream news](http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html); see also Chomsky on this
 - Popular content publishers like BuzzFeed, APlus, Addicting Info, etc.
 - Most blogs
 
