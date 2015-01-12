@@ -23,6 +23,7 @@ Below is how I use status tags:
 
 Notes
 :    Same as gwern, i.e. for pages that are just collections of links and quotes.
+I also use this for brief posts in general; one can treat them like Facebook status updates---except, they might eventually build up to something more.
 
 Draft
 :    Same as gwern, i.e. for pages that have a rough direction but aren't solid.
