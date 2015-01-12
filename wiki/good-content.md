@@ -46,6 +46,12 @@ In fact, we should probably examine at least these parameters, to see what we mi
 - Format (blog, forum, static, etc.)
 - Density (signal-to-noise ratio, how quickly we get to the main point)
 
+Here is a possibly useful thought experiment: for most sites, if they are planning to last, *most* of the views might come *after* the creator has stopped adding any new content.
+In fact, this is the case for all books (or in any case for those books that do not have later editions).
+So one useful thing to keep in mind is: how useful will people who "stumble onto" your site find it?
+This is the main argument against blogs, or any format where a timestamp is given importance: it's difficult to find the *ideas* that interest you.
+Sure, while content is being added, it might be nice to have the sense that you're waiting for the next post (like a dime novel); but once all has been done, it's rather cumbersome to navigate everything chronologically (though to be fair, most blogs now have categories/tags).
+
 [^ob]: See especially [this fascinating post by Vipul Naik](https://www.facebook.com/groups/openborders/permalink/714458948650829/):
 
     > When I started the openborders.info website, posts tended to be short,
