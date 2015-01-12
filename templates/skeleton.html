@@ -58,7 +58,7 @@
 
 {% if tags %}
 <hr />
-<p><a href="{{ path }}tags/index">Tags</a>:
+<p><a href="{{ path }}_tags/index">Tags</a>:
   {% for tag in tags %}
     <a href="{{ tag.path }}">{{ tag.name }}</a>
     {%- if not loop.last -%}
