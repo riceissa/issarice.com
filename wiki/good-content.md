@@ -11,7 +11,7 @@ language: English
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: [content-creation, caplan, gwern]
+tags: [content-creation, caplan, gwern, ssc]
 ...
 
 I want to explore a bit what makes certain sites a good source of content, while others seem to have hopelessly low signal-to-noise ratios.

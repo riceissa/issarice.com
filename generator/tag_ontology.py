@@ -36,6 +36,8 @@ from collections import OrderedDict
 tag_synonyms = {
     "atmopsheric-sciences":
         ["atmos"],
+    "bryan-caplan":
+        ["caplan", "bryan caplan"],
     "chemistry":
         ["chem"],
     "cause-prioritization":
@@ -68,6 +70,8 @@ tag_synonyms = {
         "sousveillance"],
     "set-theory":
         ["set theory"],
+    "slate-star-codex":
+        ["ssc", "slate star", "slate-star"],
     "university-of-washington":
         ["uw", "uwashington", "university of washington"],
     "university-of-washington-honors-program":
