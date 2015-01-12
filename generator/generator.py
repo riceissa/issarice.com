@@ -42,10 +42,10 @@ def clean():
     c.run_command("rm -rf {d}".format(d=SITE_DIR))
 
 def compile_scss():
-    if not os.path.exists(SITE_DIR + "css/"):
-        os.makedirs(SITE_DIR + "css/")
+    if not os.path.exists(SITE_DIR + "_css/"):
+        os.makedirs(SITE_DIR + "_css/")
     compiled = c.run_command("sass --style compressed css/minimal.scss")
-    with open(SITE_DIR + "css/minimal.css", 'w') as f:
+    with open(SITE_DIR + "_css/minimal.css", 'w') as f:
         f.write(compiled)
 
 def copy_files(pattern, destination):
@@ -84,7 +84,7 @@ def create_page(path):
         tags = tags_lst,
         # Calculate where the css file will be located relative to the
         # current file's (eventual) location
-        css = Filepath("css/minimal.css").relative_to(Filepath(inter)).path,
+        css = Filepath("_css/minimal.css").relative_to(Filepath(inter)).path,
         source = page.origin.path,
     )
     ctx = Metadata(**default_metadata.__dict__)
@@ -122,7 +122,7 @@ def create_tag_page():
         write_to = Filepath(SITE_DIR + TAGS_DIR + to_string(tag))
         ctx = Metadata(
             title = "Tag: " + tag,
-            css = Filepath("css/minimal.css").relative_to(Filepath(TAGS_DIR + to_string(tag))).path,
+            css = Filepath("_css/minimal.css").relative_to(Filepath(TAGS_DIR + to_string(tag))).path,
             license = "cc0",
         )
         env = Environment(loader=FileSystemLoader('.'))
@@ -147,7 +147,7 @@ def create_page_with_all_tags():
     skeleton = env.get_template('templates/skeleton.html')
     ctx = Metadata(
         title = "All tags",
-        css = Filepath("css/minimal.css").relative_to(Filepath(TAGS_DIR + "index")).path,
+        css = Filepath("_css/minimal.css").relative_to(Filepath(TAGS_DIR + "index")).path,
         license = "cc0",
     )
     final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
@@ -173,13 +173,13 @@ def create_page_with_all_pages():
     skeleton = env.get_template('templates/skeleton.html')
     ctx = Metadata(
         title = "All pages on the site",
-        css = Filepath("css/minimal.css").relative_to(Filepath("all")).path,
+        css = Filepath("_css/minimal.css").relative_to(Filepath("all")).path,
         license = "cc0",
     )
     final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
     if not os.path.exists(SITE_DIR):
         os.makedirs(SITE_DIR)
-    with open(SITE_DIR + "all", 'w') as f:
+    with open(SITE_DIR + "_all", 'w') as f:
         f.write(to_string(final))
 
 def create_sitemap():
@@ -207,7 +207,7 @@ if __name__ == '__main__':
     import argparse
     SITE_DIR = "_site/"
     # relative to SITE_DIR
-    TAGS_DIR = "tags/"
+    TAGS_DIR = "_tags/"
     all_tags = [] # cumulative list of all tags
     page_data = [] # stores (title, destination, tags) for each page
 
@@ -230,7 +230,7 @@ if __name__ == '__main__':
         pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
         compile_scss()
         copy_files("images/*", SITE_DIR)
-        copy_files("static/*", SITE_DIR + "static/")
+        copy_files("static/*", SITE_DIR + "_static/")
         create_pages()
         all_tags = list(set(all_tags))
         create_tag_page()
