@@ -26,3 +26,7 @@ Finding more Japanese songs I like would be especially nice though.
 
 I should also mention that I can go for long periods (weeks) without listening to any music.
 It might just be that my collection is so small I get bored of it quickly, but can come back to it after some amount of time has passed.
+
+Some others:
+
+- "Dream A Little Dream of Me"---Ella Fitzgerald, Doris Day
