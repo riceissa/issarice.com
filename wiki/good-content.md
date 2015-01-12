@@ -52,6 +52,20 @@ So one useful thing to keep in mind is: how useful will people who "stumble onto
 This is the main argument against blogs, or any format where a timestamp is given importance: it's difficult to find the *ideas* that interest you.
 Sure, while content is being added, it might be nice to have the sense that you're waiting for the next post (like a dime novel); but once all has been done, it's rather cumbersome to navigate everything chronologically (though to be fair, most blogs now have categories/tags).
 
+- One thing I find annoying about Caplan's blog is that I can't just find *all* that he has written on, say, twin studies or eduction or creating one's own "bubble"---all things he has written about on more than one occasion.
+He does a good job of linking everything together, but it's still very much a scavenger hunt of sorts.
+I haven't found the tagging to be useful either---for this mixes all the writers of Econlog together.
+
+- One solution is to have everything on one page: this is what Gwern does; so you have one page that is all about spaced repetition.
+
+- But then pages load slowly, and it's hard to get a "big picture" view, and it's also frankly overwhelming.
+What I really like about Caplan's posts is that they are very short.
+One way of describing this is that they are easy to link to from Facebook---it's easy to get a discussion going on Caplan's posts because people are willing to invest a small amount of time into reading the post, then commenting.
+It's hard to do this with Gwern's pages.
+
+- So the compromise could be this: have one or a few "structural pages" where their purpose is to link out to other "content pages"; each "content page" will be rather short, like Caplan's posts.
+The "structural pages" can contain a short summary of each page it links to, so people can get a concise summary.
+
 [^ob]: See especially [this fascinating post by Vipul Naik](https://www.facebook.com/groups/openborders/permalink/714458948650829/):
 
     > When I started the openborders.info website, posts tended to be short,
@@ -77,7 +91,10 @@ Sure, while content is being added, it might be nice to have the sense that you'
     > can afford more and more to write stuff that offers interesting facts
     > and intellectually enriching perspectives while meeting people's need
     > for emotional validation. One post that I think was really far out in
-    > terms of scoring well on both dimensions was [John Lee](https://www.facebook.com/johnleemk)'s Argentina post: [http://openborders.info/…/constitutionally-entrenching-mig…/](http://openborders.info/blog/constitutionally-entrenching-migration-as-a-fundamental-human-right-argentina-and-open-borders/)
+    > terms of scoring well on both dimensions was
+    > [John Lee](https://www.facebook.com/johnleemk)'s
+    > Argentina post:
+    > [http://openborders.info/…/constitutionally-entrenching-mig…/](http://openborders.info/blog/constitutionally-entrenching-migration-as-a-fundamental-human-right-argentina-and-open-borders/)
     > 
     > 2015 is going to be an interesting year for the site because we are
     > planning to try out a number of different post series that explore the
