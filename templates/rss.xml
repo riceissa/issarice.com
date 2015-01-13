@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>issarice.com</title>
+  <description>This is the RSS feed of Issa Rice's website</description>
+  <link>http://issarice.com</link>
+  <lastBuildDate>{{ now }}</lastBuildDate>
+  <pubDate>{{ now }}</pubDate>
+  <ttl>1800</ttl>
+
+  {% for page in pages %}
+  <item>
+    <title>{{ page.title }}</title>
+    {% if page.description %}<description>{{ page.description }}</description>{% endif %}
+    <link>http://issarice.com/{{ page.slug }}</link>
+    <!--<guid isPermaLink="false">7bd204c6-1655-4c27-aeee-53f933c5395f</guid>-->
+    <!--<pubDate>Sun, 06 Sep 2009 16:20:00 +0000</pubDate>-->
+    {% if page.date %}<pubDate>{{ page.date }}</pubDate>{% endif %}
+  </item>
+ {% endfor %}
+</channel>
+</rss>

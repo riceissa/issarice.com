@@ -31,6 +31,7 @@ import glob
 import json
 from jinja2 import Template, Environment, FileSystemLoader
 import os
+from datetime import datetime
 
 import commands as c
 import metadata as meta
@@ -208,11 +209,33 @@ def create_sitemap():
     for page in page_data:
         body += to_unicode(sitemap_list.render(slug=to_unicode(page.base())))
     for t in all_tags:
-        body += to_unicode(sitemap_list.render(slug="tags/" + t))
+        body += to_unicode(sitemap_list.render(slug="_tags/" + t))
     sitemap = env.get_template('templates/sitemap.xml')
     final = sitemap.render(body=body)
 
     with open(SITE_DIR + "sitemap.xml", "w") as f:
+        f.write(to_string(final))
+
+def get_date(page):
+    try:
+        return page.metadata.__getattribute__('last-major-revision-date')
+    except AttributeError:
+        return ''
+
+def create_rss():
+    global page_data
+    print("Generating RSS feed")
+    env = Environment(loader=FileSystemLoader('.'))
+    feed_template = env.get_template('templates/rss.xml')
+    page_data = sorted(page_data, key=lambda t: get_date(t), reverse=True)
+    for page in page_data:
+        page.metadata.slug = to_unicode(page.base())
+        revision_date = get_date(page)
+        if revision_date != '':
+            page.metadata.date = datetime.strptime(revision_date, '%Y-%m-%d').strftime("%a, %d %b %Y %H:%M:%S %z")
+    final = feed_template.render(pages=[page.metadata for page in page_data], now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
+
+    with open(SITE_DIR + "feed.xml", "w") as f:
         f.write(to_string(final))
 
 if __name__ == '__main__':
@@ -238,7 +261,7 @@ if __name__ == '__main__':
             create_page(p)
     else:
         clean()
-        pages_pat = "wiki/*.md"
+        pages_pat = "wiki/a*.md"
         pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
         compile_scss()
         copy_files("images/*", SITE_DIR)
@@ -249,3 +272,4 @@ if __name__ == '__main__':
         create_page_with_all_tags()
         create_page_with_all_pages()
         create_sitemap()
+        create_rss()
