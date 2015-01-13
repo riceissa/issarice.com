@@ -231,7 +231,7 @@ def create_rss():
     page_data = sorted(page_data, key=lambda t: get_date(t), reverse=True)
     for page in page_data:
         page.metadata.slug = to_unicode(page.base())
-        page.metadata.hashval = hashlib.sha1(page.metadata.title).hexdigest()
+        page.metadata.hashval = hashlib.sha1(to_string(page.metadata.title)).hexdigest()
         revision_date = get_date(page)
         if revision_date != '':
             page.metadata.date = datetime.strptime(revision_date, '%Y-%m-%d').strftime("%a, %d %b %Y %H:%M:%S %z")
