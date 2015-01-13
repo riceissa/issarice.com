@@ -72,7 +72,11 @@ def create_page(path):
     page = Page(path)
     print("Processing " + str(page.origin))
     page.load()
-    page.json = meta.organize_tags(page.json, tag_synonyms, tag_implications)
+    page.json = meta.organize_tags(
+        page.json,
+        tag_synonyms,
+        tag_implications
+    )
     page.metadata.update_with(meta.get_metadata_dict(page.json))
     tags_lst = page.metadata.tags
     all_tags.extend(tags_lst)
