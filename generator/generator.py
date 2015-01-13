@@ -263,7 +263,7 @@ if __name__ == '__main__':
             create_page(p)
     else:
         clean()
-        pages_pat = "wiki/a*.md"
+        pages_pat = "wiki/*.md"
         pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
         compile_scss()
         copy_files("images/*", SITE_DIR)
