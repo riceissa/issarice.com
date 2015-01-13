@@ -31,6 +31,7 @@ import os
 import json
 import metadata as meta
 import commands as c
+from tag_ontology import *
 
 def to_unicode(string):
     '''
@@ -264,8 +265,13 @@ class Page(object):
         Load both raw and metadata
         '''
         output = c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path))
-        self.json = json.loads(output)
+        self.json = meta.organize_tags(
+            json.loads(output),
+            tag_synonyms,
+            tag_implications
+        )
         self.metadata = Metadata(**meta.get_metadata_dict(self.json))
+        #page.metadata.update_with(meta.get_metadata_dict(page.json))
 
 @Route
 def drop_one_parent_dir_route(filepath):

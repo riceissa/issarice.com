@@ -63,6 +63,14 @@ def create_pages():
     for page_path in pages_lst:
         create_page(page_path)
 
+def pandoc_compile(json_lst):
+    return to_unicode(
+        c.run_command(
+            "pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py",
+            pipe_in=json.dumps(json_lst, separators=(',',':'))
+        )
+    )
+
 def create_page(path):
     '''
     Compile a single file from markdown to HTML.
@@ -72,40 +80,36 @@ def create_page(path):
     page = Page(path)
     print("Processing " + str(page.origin))
     page.load()
-    page.json = meta.organize_tags(
-        page.json,
-        tag_synonyms,
-        tag_implications
-    )
-    page.metadata.update_with(meta.get_metadata_dict(page.json))
-    tags_lst = page.metadata.tags
-    all_tags.extend(tags_lst)
-    body = to_unicode(c.run_command("pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py", pipe_in=json.dumps(page.json, separators=(',',':'))))
+    all_tags.extend(page.metadata.tags)
+    body = pandoc_compile(page.json)
     inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
     write_to = page.origin.route_with(my_route)
 
-    ctxp = Metadata(
-        tags = tags_lst,
+    env = Environment(loader=FileSystemLoader('.'))
+    skeleton = env.get_template('templates/skeleton.html')
+    final = skeleton.render(
+        body = body,
+        # In templates, we use page.field to access metadata fields
+        page = page.metadata,
+        tags = sorted(
+            [
+                {
+                    'name': tag,
+                    'path': to_unicode(Filepath(to_string(tag))\
+                        .route_with(to_dir(TAGS_DIR)).path),
+                }
+                for tag in page.metadata.tags
+            ],
+            key = lambda t: t['name'],
+        ),
         # Calculate where the css file will be located relative to the
         # current file's (eventual) location
         css = Filepath("_css/minimal.css").relative_to(Filepath(inter)).path,
         source = page.origin.path,
+        path = "./",
     )
-    ctx = Metadata(**default_metadata.__dict__)
-    ctx.update_with(page.metadata)
-    ctx.update_with(ctxp)
-
-    env = Environment(loader=FileSystemLoader('.'))
-    skeleton = env.get_template('templates/skeleton.html')
-    tags = []
-    for tag in ctx.tags:
-        tags.append({
-            'name': tag,
-            'path': to_unicode(Filepath(to_string(tag)).route_with(to_dir(TAGS_DIR)).path)
-        })
-    tags = sorted(tags, key=lambda t: t['name'])
-    final = skeleton.render(body=body, page=ctx, tags=tags, css=ctx.css, path="./")
-    page_data.append((ctx.title, inter, tags_lst)) # to be used later
+    page_data.append((page.metadata.title, inter, page.metadata.tags)) # to be used later
+    #page_data.append(page)
 
     if not os.path.exists(SITE_DIR):
         os.makedirs(SITE_DIR)
