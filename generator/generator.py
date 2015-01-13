@@ -235,6 +235,8 @@ def create_rss():
         revision_date = get_date(page)
         if revision_date != '':
             page.metadata.date = datetime.strptime(revision_date, '%Y-%m-%d').strftime("%a, %d %b %Y %H:%M:%S %z")
+        else:
+            page.metadata.date = datetime.strptime("2010-01-01", '%Y-%m-%d').strftime("%a, %d %b %Y %H:%M:%S %z")
     final = feed_template.render(pages=[page.metadata for page in page_data], now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
 
     with open(SITE_DIR + "feed.xml", "w") as f:
