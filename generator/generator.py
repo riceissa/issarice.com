@@ -82,7 +82,8 @@ def create_page(path):
     page.load()
     all_tags.extend(page.metadata.tags)
     body = pandoc_compile(page.json)
-    inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+    #inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+    inter = page.base()
     write_to = page.origin.route_with(my_route)
 
     env = Environment(loader=FileSystemLoader('.'))
@@ -105,11 +106,12 @@ def create_page(path):
         # Calculate where the css file will be located relative to the
         # current file's (eventual) location
         css = Filepath("_css/minimal.css").relative_to(Filepath(inter)).path,
-        source = page.origin.path,
+        source = to_unicode(page.origin.path),
         path = "./",
     )
-    page_data.append((page.metadata.title, inter, page.metadata.tags)) # to be used later
-    #page_data.append(page)
+    #page_data.append((page.metadata.title, inter, page.metadata.tags)) # to be used later
+    # Keep a cumulative list of pages for later use
+    page_data.append(page)
 
     if not os.path.exists(SITE_DIR):
         os.makedirs(SITE_DIR)
@@ -123,21 +125,25 @@ def create_tag_page():
     for tag in all_tags:
         print("Processing tag page for " + tag)
         pages = []
-        for page_tuple in page_data:
-            if tag in page_tuple[2]:
-                pages.append({'title': to_unicode(page_tuple[0]), 'url': to_unicode("../" + page_tuple[1])})
+        for page in page_data:
+            if tag in page.metadata.tags:
+                pages.append({'title': to_unicode(page.metadata.title), 'url': to_unicode("../" + page.base())})
         pages = sorted(pages, key=lambda t: t['title'])
         write_to = Filepath(SITE_DIR + TAGS_DIR + to_string(tag))
         ctx = Metadata(
             title = "Tag: " + tag,
-            css = Filepath("_css/minimal.css").relative_to(Filepath(TAGS_DIR + to_string(tag))).path,
             license = "cc0",
         )
         env = Environment(loader=FileSystemLoader('.'))
         page_list = env.get_template('templates/page-list.html')
         body = to_unicode(page_list.render(pages=pages))
         skeleton = env.get_template('templates/skeleton.html')
-        final = skeleton.render(body=body, page=ctx, css=ctx.css, path="../")
+        final = skeleton.render(
+            body = body,
+            page = ctx,
+            css = Filepath("_css/minimal.css").relative_to(Filepath(TAGS_DIR + to_string(tag))).path,
+            path = "../",
+        )
         if not os.path.exists(SITE_DIR + TAGS_DIR):
             os.makedirs(SITE_DIR + TAGS_DIR)
         with open(write_to.path, 'w') as f:
@@ -172,9 +178,9 @@ def create_page_with_all_pages():
     page_list = env.get_template('templates/page-list.html')
     pages = [
         {
-            'title': to_unicode(page_tup[0]),
-            'url': to_unicode(page_tup[1])
-        } for page_tup in page_data
+            'title': to_unicode(page.metadata.title),
+            'url': to_unicode(page.base())
+        } for page in page_data
     ]
     pages = sorted(pages, key=lambda t: t['title'])
     body = page_list.render(pages=pages)
@@ -197,12 +203,10 @@ def create_sitemap():
 
     env = Environment(loader=FileSystemLoader('.'))
     sitemap_list = env.get_template('templates/sitemap-list.xml')
-    page_data = sorted(page_data, key=lambda t: t[1])
+    page_data = sorted(page_data, key=lambda t: t.metadata.title)
     body = u""
-    for p in page_data:
-        # "slug" here is "inter" from earlier
-        x1, slug, x2 = p
-        body += to_unicode(sitemap_list.render(slug=to_unicode(slug)))
+    for page in page_data:
+        body += to_unicode(sitemap_list.render(slug=to_unicode(page.base())))
     for t in all_tags:
         body += to_unicode(sitemap_list.render(slug="tags/" + t))
     sitemap = env.get_template('templates/sitemap.xml')
@@ -217,7 +221,7 @@ if __name__ == '__main__':
     # relative to SITE_DIR
     TAGS_DIR = "_tags/"
     all_tags = [] # cumulative list of all tags
-    page_data = [] # stores (title, destination, tags) for each page
+    page_data = [] # stores all pages
 
     parser = argparse.ArgumentParser(description='generate a site or just a few files')
     parser.add_argument(

@@ -273,6 +273,9 @@ class Page(object):
         self.metadata = Metadata(**meta.get_metadata_dict(self.json))
         #page.metadata.update_with(meta.get_metadata_dict(page.json))
 
+    def base(self):
+        return self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+
 @Route
 def drop_one_parent_dir_route(filepath):
     return Filepath('/'.join([i for i in split_path(filepath.path)[1:]]))
