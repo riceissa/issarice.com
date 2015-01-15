@@ -217,27 +217,23 @@ def create_sitemap():
     with open(SITE_DIR + "sitemap.xml", "w") as f:
         f.write(to_string(final))
 
-def get_date(page):
-    try:
-        return page.metadata.__getattribute__('last-major-revision-date')
-    except AttributeError:
-        return ''
-
 def create_rss():
     global page_data
     print("Generating RSS feed")
     env = Environment(loader=FileSystemLoader('.'))
     feed_template = env.get_template('templates/rss.xml')
-    page_data = sorted(page_data, key=lambda t: get_date(t), reverse=True)
-    for page in page_data:
-        page.metadata.slug = to_unicode(page.base())
-        page.metadata.hashval = hashlib.sha1(to_string(page.metadata.title)).hexdigest()
-        revision_date = get_date(page)
-        if revision_date != '':
-            page.metadata.date = datetime.strptime(revision_date, '%Y-%m-%d').strftime("%a, %d %b %Y %H:%M:%S %z")
-        else:
-            page.metadata.date = datetime.strptime("2010-01-01", '%Y-%m-%d').strftime("%a, %d %b %Y %H:%M:%S %z")
-    final = feed_template.render(pages=[page.metadata for page in page_data], now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
+    page_data = sorted(page_data, key=lambda t: t.revision_date(string=False), reverse=True)
+    pages = [
+        {
+            'title': page.metadata.title + " ({})".format(page.revision_date(string=False).strftime("%Y-%m-%d").strip()),
+            'description': page.metadata.description if hasattr(page.metadata, 'description') else "",
+            'slug': to_unicode(page.base()),
+            'hashval': hashlib.sha1(to_string(page.metadata.title) + "|" + page.revision_date()).hexdigest(),
+            'date': page.revision_date(),
+        }
+        for page in page_data
+    ]
+    final = feed_template.render(pages=pages, now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
 
     with open(SITE_DIR + "feed.xml", "w") as f:
         f.write(to_string(final))

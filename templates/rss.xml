@@ -6,7 +6,6 @@
   <link>http://issarice.com</link>
   <lastBuildDate>{{ now }}</lastBuildDate>
   <pubDate>{{ now }}</pubDate>
-  <ttl>1800</ttl>
 
   {% for page in pages %}
   <item>

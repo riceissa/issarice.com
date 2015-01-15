@@ -29,6 +29,7 @@
 
 import os
 import json
+from datetime import datetime
 import metadata as meta
 import commands as c
 from tag_ontology import *
@@ -275,6 +276,27 @@ class Page(object):
 
     def base(self):
         return self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+
+    def revision_date(self, string=True):
+        try:
+            rev_date = self.metadata.__getattribute__(
+                'last-major-revision-date'
+            )
+        except AttributeError:
+            rev_date = ''
+        rev_date = to_string(rev_date) # sanitize
+        if rev_date != '':
+            date_obj = datetime.strptime(rev_date, '%Y-%m-%d')
+            if string:
+                return date_obj.strftime("%a, %d %b %Y %H:%M:%S %z").strip()
+            else:
+                return date_obj
+        else:
+            date_obj = datetime.strptime("2010-01-01", '%Y-%m-%d')
+            if string:
+                return date_obj.strftime("%a, %d %b %Y %H:%M:%S %z").strip()
+            else:
+                return date_obj
 
 @Route
 def drop_one_parent_dir_route(filepath):
