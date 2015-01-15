@@ -6,15 +6,15 @@ creation-date: 2015-01-14
 last-major-revision-date: 2015-01-14
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
-status: notes
+#status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: possible
+#belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
 ...
 
-Have two "About" pages:
+I have two "About" pages:
 
 - "[About me]()" contains information about myself (Issa Rice).
 You will find my [self-introduction](about-me#self-introduction) as well as [contact information](about-me#contact) there.
