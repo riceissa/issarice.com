@@ -49,7 +49,5 @@ Instead, one can find a list of many static site generators [here](http://static
 
 # Getting updates
 
-Probably the best way to get updates for the site is to use the [RSS feed](http://issarice.com/feed.xml), which includes only more important updates to the pages on the site.
-However, since the site's source code is hosted on GitHub, one can also use [GitHub's RSS for the master branch](https://github.com/riceissa/riceissa.com/commits/master.atom), which includes all updates to pages---even very incremental ones.
-
-When I feel a page is "good enough", I will probably place a link to it on the front page, along with a possible status update on Facebook.
+I have an [RSS feed](http://issarice.com/feed.xml) for this site.
+For more ways to get updates, see [Feed]().
