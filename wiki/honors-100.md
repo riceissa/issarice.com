@@ -1,6 +1,6 @@
 ---
-title: Honors 100 at the University of Washington
-description: 
+title: Honors 100
+description: Course review of honors 100 at the University of Washington
 author: Issa Rice
 creation-date: 2014-12-20
 last-major-revision-date: 2014-12-20

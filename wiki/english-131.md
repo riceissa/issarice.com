@@ -1,6 +1,6 @@
 ---
-title: English 131 at the University of Washington
-description: 
+title: English 131
+description: Course review of English 131 at the University of Washington
 author: Issa Rice
 creation-date: 2014-12-20
 last-major-revision-date: 2014-12-20
