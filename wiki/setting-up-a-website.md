@@ -1,6 +1,8 @@
 ---
 title: Setting up a website
 tags: linux, site-info
+status: notes
+belief: possible
 ...
 
 More to come.
