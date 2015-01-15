@@ -3,7 +3,7 @@ title: About the site
 description: site info, tools used to build the site
 tags: site-info, general
 creation-date: 2014-09-14
-last-major-revision-date: 2014-09-14
+last-major-revision-date: 2015-01-14
 license: CC0
 ...
 
@@ -49,6 +49,7 @@ Instead, one can find a list of many static site generators [here](http://static
 
 # Getting updates
 
-Since the site's source code is hosted on GitHub, one can simply use GitHub's RSS for the master branch, available [here](https://github.com/riceissa/riceissa.com/commits/master.atom).
-I tend to prefer incremental updates instead of massive updates, so most of the changes in there will be very insignificant (and probably not worth your time).
+Probably the best way to get updates for the site is to use the [RSS feed](http://issarice.com/feed.xml), which includes only more important updates to the pages on the site.
+However, since the site's source code is hosted on GitHub, one can also use [GitHub's RSS for the master branch](https://github.com/riceissa/riceissa.com/commits/master.atom), which includes all updates to pages---even very incremental ones.
+
 When I feel a page is "good enough", I will probably place a link to it on the front page, along with a possible status update on Facebook.
