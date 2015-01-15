@@ -11,7 +11,7 @@ status: draft
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: site-info
 ...
 
 I am taking the idea of status tags from gwern.
