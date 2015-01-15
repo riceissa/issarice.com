@@ -12,7 +12,7 @@ This is the website of Issa Rice.
 This site stores basic information about myself, but it is also a personal wiki of sorts.
 Below are some pages that may be of interest:
 
-- [About me](); [contact me](./about-me#contact)
+- [About me](); [contact]() me
 - [About this site](./about-the-site)
 - "[Content creation]()" documents my ongoing research on the organization and dissemination of knowledge, how to effectively publish content online, and how much one can impact the world by publishing such content.
 - "[Resources for the University of Washington]()" might be a good place to look for those who attend or want to attend the University of Washington.
