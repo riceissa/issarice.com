@@ -3,7 +3,7 @@ title: CSE 390 at the University of Washington
 description: 
 author: Issa Rice
 creation-date: 2014-12-11
-last-major-revision-date: 2014-12-18
+last-major-revision-date: 2015-01-14
 language: English
 status: draft
 license: CC BY
@@ -20,7 +20,7 @@ The university doesn't seem to have strict guidelines for how professors conduct
 
 As Reges discussed during the first meeting, the course sessions were divided roughly in two parts: the first half would be a discussion based on a book we would read throughout the quarter (for us, it was [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://en.wikipedia.org/wiki/Our_Final_Invention)), while the other half would be a discussion about a topic related to computer science chosen by Reges.
 
-He said to the effect that during his years at Stanford, what he remembered most from his one math class was TA (or professor?) who would talk about all of the ideas that interested him---so this course is an attempt for Reges to "recreate the experience".
+He said to the effect that during his years at Stanford, what he remembered most from his one math class was a TA (or professor?) who would talk about all of the ideas that interested him---so that this course is an attempt for Reges to "recreate the experience".
 
 # The book
 
@@ -34,32 +34,54 @@ Although Reges did say that superintelligence is something we have to be concern
 As best as I can remember (I forgot to keep a written list), here are all the topics discussed in the second half of each session, roughly in chronological order.
 
 - Reges discussed the topic "What is a meme?"
-robert frost
+    - Reference to Richard Dawkins
+    - We also read Robert Frost's "The Road Not Taken", though I forget the reason we did this
 
-- meta: which of there is more, knowledge or metaknowledge?
-    - muddy children
+- Introduction to the idea of meta (Reges' personal obsession)
+    - The question posed was: which of there is more, knowledge or meta-knowledge?
+    - Muddy children or blue eyes puzzle: see [the relevant xkcd page](https://xkcd.com/blue_eyes.html)
 
-- dunbar's number; what makes humans unique?
+- Dunbar's number; what makes humans unique?
+    - I think the question was something like "Why do animals know so much when they're born, but humans don't know anything when they're born?"
+    - The idea that humans have culture
 
-- card trick
-    - the resourceful student who googled "reges card trick"...
+- [Card trick](https://cs4hs.cs.washington.edu/content/Resources/SessionMaterials/bin-o-slides/Stuart_Reges_cryptography.pdf)
+    - Reges gives the anecdote that in one class where he posed the card trick, two students figured it out: one who had solved the puzzle on their own, and one who was resourceful enough to Google "Reges card trick" ...
 
-- modular arithmetic and rsa encryption
+- Modular arithmetic and RSA encryption
 
-- rubics cube
+- [Rubik's cube](!w)
+    - We listed some properties of the Rubik's cube
 
-- automata/turing machine
+- Automata/Turing machine
+    - We used [jflap](http://www.jflap.org/) to make an automaton that figured out if a string was palindromic or not (I think)
 
-- lack of American pride
+- Lack of American pride
+    - This one was not really CS, but was amusing nonetheless.
+    Essentially, Reges brought in a bunch of books published in the year 1900(?---I think, or perhaps it was 1901), and asked us to take a look through them.
+    The thrust was: we found their American exceptionalism, pride, etc., comical; so Reges posed the question: in 100 years, what will people find comical about *us*?
+    He gave the thought-experiment of trying to imagine a poster in a second grade classroom that said "The 20th century was the American century."---and how most people would object to this being placed in the classroom (e.g. "it's propaganda!")---but also that no one could really deny this.
+    His conclusion was that in 100 years, people will find our reluctance to be proud to be comical.
 
-- history of mathematics:
-    - cantor
-    - russell
-    - godel
-    - diagonalization
+- History of mathematics (I think this is basically all covered in Logicomix):
+    - Cantor
+    - Russell
+    - Gödel
+    - Diagonalization (in particular, we prove that the reals are uncountable[^proof] and discuss the [halting problem](!w))
 
-- is human communication digital or analogue?
+[^proof]: Watch out for this proof though; Reges might neglect the fact that some reals can be represented in multiple ways in the decimal system.
+I pointed this out to him, and he admitted that he likes the subset proof better.
+
+- Is human communication digital or analogue?
+    - [Chinese whispers](!w)
+    - His main point was that *language* is digital; i.e. that if one wanted to make an exact copy of a message, one could[^whisper].
+    However, he also argued that prior to language, people communicated in an analogue fashion, using grunts, pointing at things, etc.
+    He said that whenever people way "oh I just can't quite express my feelings" they are essentially saying that on a visceral or analogue sense they understand, but that they can't "encode" the feeling digitally.
+    Another example in this category he gave was when people say "I know *exactly* how you feel".
+
+[^whisper]: For this reason, he argued vehemently that most people get the wrong message from Chinese whispers, namely that humans are bad at copying messages.
+What the message *should* be, according to Reges, is that *in principle*, i.e. given enough motivation to try, humans *can* succeed at the game.
 
 # Other aspects
 
-Perhaps what made the course entertaining was a number of anecdotes Reges told about famous people he had interacted with (including Peter Thiel and Stever Jobs).
+Perhaps what made the course entertaining was a number of anecdotes Reges told about famous people he had interacted with (including Peter Thiel and Steve Jobs).
