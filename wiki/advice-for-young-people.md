@@ -2,12 +2,12 @@
 title: Advice for young people
 description: Meditations on my youth, what I wish I had known, what I would do were I to start over
 author: Issa Rice
-last-major-revision-date: 2014-12-29
+last-major-revision-date: 2015-01-16
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: unlikely
+belief: unlikely, emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
 tags: school, lesswrong, self-improvement, high school
@@ -201,7 +201,7 @@ I also do more academic research into depression as an effective altruism cause 
 [to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [Effective altruism]()]
 
 
-# How to go about content creation
+# Online presence and content creation
 
 My main page on this is [Content creation: the organization and dissemination of knowledge](./content-creation)
 
@@ -388,26 +388,33 @@ These people are the new wave of "most impressive people", following traditional
 
 - experimenting with nootropics might be a good idea
 
-Also see [Katja Grace's post](https://meteuphoric.wordpress.com/2011/04/19/advice-to-aspiring-undergraduates/) on advice to "aspiring undergraduates".
-In particular:
+-
+    Also see [Katja Grace's post](https://meteuphoric.wordpress.com/2011/04/19/advice-to-aspiring-undergraduates/) on advice to "aspiring undergraduates".
+    In particular:
+    
+    > In case you actually want to learn things, it is not clear whether
+    > university will help or hinder this <span class="Apple-style-span"
+    > style="line-height:26px;">on average</span>. There seems to be a lot of
+    > variation between people. If you are unsure whether having someone talk
+    > at you for hours at a time while you struggle to write down what they
+    > said ten seconds previously helps you learn, sit in on some lectures
+    > before you sign up. Doing so is usually free.
+    > 
+    > If you are ambitious and/or idealistic, and like being so, realise that
+    > university seems to often destroy these characteristics. Or perhaps
+    > that’s just the adult world. Anyway, be wary of accidentally picking up
+    > the impression that ambition and idealism are arrogant naivete
+    > inappropriate to the subjective, intellectually impenetrable real world,
+    > in which a person as small as yourself should be eternally grateful if
+    > someone finds them worthy of pushing papers. Unless you see good
+    > evidence for it of course, or would find it useful for enjoying your
+    > career in paper pushing.
 
-> In case you actually want to learn things, it is not clear whether
-> university will help or hinder this <span class="Apple-style-span"
-> style="line-height:26px;">on average</span>. There seems to be a lot of
-> variation between people. If you are unsure whether having someone talk
-> at you for hours at a time while you struggle to write down what they
-> said ten seconds previously helps you learn, sit in on some lectures
-> before you sign up. Doing so is usually free.
-> 
-> If you are ambitious and/or idealistic, and like being so, realise that
-> university seems to often destroy these characteristics. Or perhaps
-> that’s just the adult world. Anyway, be wary of accidentally picking up
-> the impression that ambition and idealism are arrogant naivete
-> inappropriate to the subjective, intellectually impenetrable real world,
-> in which a person as small as yourself should be eternally grateful if
-> someone finds them worthy of pushing papers. Unless you see good
-> evidence for it of course, or would find it useful for enjoying your
-> career in paper pushing.
+- I'm starting to think that colleges really are mostly useless.
+In particular, if you put in effort to strengthen your online presence and find good peers online, then it's *very likely* that the people you can talk to online will be *much* better than the people you can talk to at your university.
+(Though keep in mind potential benefits of talking to people in person.)
+In particular, *don't feel bad if you are lonely all the time*.
+I tend to take the view that socializing with people from whom you will gain little is worse than not socializing at all.
 
-
-
+- Even if you go to an elite school, are you *really* getting much out of the social scene?
+Are the things you're learning in class *really* useful?
