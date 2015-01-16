@@ -1,6 +1,6 @@
 ---
 title: Advice for young people
-description: what I wish I had known
+description: Meditations on my youth, what I wish I had known, what I would do were I to start over
 author: Issa Rice
 last-major-revision-date: 2014-12-29
 language: English
@@ -380,6 +380,11 @@ However, compared to LW and the "new wave" of critical thinking in the 2000s/201
 
 - In general, you should stalk the lives of the most promising entrepreneurs like Mark Zuckerberg, Travis Kalanick (see especially his failcon talk), Jeff Bezos, etc.
 These people are the new wave of "most impressive people", following traditional impressive people like Feynman.
+
+- Some other possible names from [this post](http://lesswrong.com/lw/6he/what_are_lesswrongs_thoughts_on_venkatesh_rao/):
+    - Venkatesh Rao
+    - Gregody Rader
+    - Daniel Lemire
 
 - experimenting with nootropics might be a good idea
 
