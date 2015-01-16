@@ -31,6 +31,7 @@ import os
 import json
 from datetime import datetime
 import yaml
+from yaml import SafeLoader
 import metadata as meta
 import commands as c
 from tag_ontology import *
@@ -51,7 +52,7 @@ def to_unicode(string):
     if isinstance(string, type(None)):
         return "".decode('utf-8')
     else:
-        raise TypeError("to_unicode cannot convert something that isn't a string, unicode, or bool; type was {t}".format(t=type(string)))
+        raise TypeError("to_unicode cannot convert something ({s}) that isn't a string, unicode, or bool; type was {t}".format(s=string, t=type(string)))
 
 def to_string(unic):
     '''
@@ -178,21 +179,15 @@ class Metadata(object):
     Represents the metadata of a file.
     '''
     def __init__(self, **kwargs):
-        seen = {
-            "title": False,
-            "authors": False,
-            "math": False,
-            "tags": False,
-            "license": False,
-        }
-        for k in kwargs.keys():
-            seen[to_string(k)] = False
+        for key in kwargs:
+            if type(kwargs[key]) in [str, bool, unicode]:
+                self.__setattr__(key, to_unicode(kwargs[key]))
+            else:
+                self.__setattr__(key, kwargs[key])
         if "title" in kwargs.keys():
             self.title = to_unicode(kwargs['title'])
-            seen['title'] = True
         if "authors" in kwargs.keys():
             self.authors = [to_unicode(author) for author in kwargs['authors']]
-            seen['authors'] = True
         if "math" in kwargs.keys():
             if type(kwargs['math']) is bool:
                 if kwargs['math']:
@@ -202,7 +197,6 @@ class Metadata(object):
             else:
                 self.math = kwargs['math']
             self.math = to_unicode(self.math)
-            seen['math'] = True
         if "license" in kwargs.keys():
             license = kwargs['license']
             # clean up license string
@@ -216,15 +210,10 @@ class Metadata(object):
             elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
                 self.license = to_unicode("CC-BY-SA")
             else:
-                # set default license to CC-BY
-                self.license = to_unicode("CC-BY")
-            seen['license'] = True
+                # set default license to unknown (i.e., copyrighted)
+                self.license = to_unicode("UNKNOWN")
         if "tags" in kwargs.keys():
             self.tags = [to_unicode(tag) for tag in kwargs['tags']]
-            seen['tags'] = True
-        for key in kwargs:
-            if not seen[key]:
-                self.__setattr__(key, to_unicode(kwargs[key]))
 
     def __str__(self):
         return str(self.__dict__)
@@ -272,7 +261,7 @@ class Page(object):
                     metadata += then
                     then = f.readline()
             print metadata
-            self.metadata = Metadata(yaml.load(metadata))
+            self.metadata = Metadata(**yaml.load(metadata, Loader=SafeLoader))
 
     def load(self):
         '''
