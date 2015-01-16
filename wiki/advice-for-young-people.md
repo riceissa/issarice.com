@@ -1,5 +1,5 @@
 ---
-title: Information for high school students
+title: Advice for young people
 description: what I wish I had known
 author: Issa Rice
 last-major-revision-date: 2014-12-29
@@ -339,7 +339,20 @@ A good thing to remember is that *there are already too many people in academia*
 
 - Cognito Mentoring in general
 
-- Reading what Peter Thiel/Paul Graham/Michael O. Church/Alex K. Chen/Vipul Naik/Brian Farley/Inna Vishik say.
+- Here's a list of people you should look into (and read as much of what they say as you can stand):
+
+    - Peter Thiel
+    - Paul Graham
+    - Michael O. Church
+    - Alex K. Chen
+    - Vipul Naik
+    - Brian Farley
+    - Inna Vishik
+    - Andrew Ho
+    - gwern
+    - Mencius Moldbug
+    - Scott Alexander
+    - Bryan Caplan
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
 How to ignore for example pressure to complete homework assignments?
@@ -369,3 +382,27 @@ However, compared to LW and the "new wave" of critical thinking in the 2000s/201
 These people are the new wave of "most impressive people", following traditional impressive people like Feynman.
 
 - experimenting with nootropics might be a good idea
+
+Also see [Katja Grace's post](https://meteuphoric.wordpress.com/2011/04/19/advice-to-aspiring-undergraduates/) on advice to "aspiring undergraduates".
+In particular:
+
+> In case you actually want to learn things, it is not clear whether
+> university will help or hinder this <span class="Apple-style-span"
+> style="line-height:26px;">on average</span>. There seems to be a lot of
+> variation between people. If you are unsure whether having someone talk
+> at you for hours at a time while you struggle to write down what they
+> said ten seconds previously helps you learn, sit in on some lectures
+> before you sign up. Doing so is usually free.
+> 
+> If you are ambitious and/or idealistic, and like being so, realise that
+> university seems to often destroy these characteristics. Or perhaps
+> that’s just the adult world. Anyway, be wary of accidentally picking up
+> the impression that ambition and idealism are arrogant naivete
+> inappropriate to the subjective, intellectually impenetrable real world,
+> in which a person as small as yourself should be eternally grateful if
+> someone finds them worthy of pushing papers. Unless you see good
+> evidence for it of course, or would find it useful for enjoying your
+> career in paper pushing.
+
+
+
