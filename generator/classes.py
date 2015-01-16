@@ -30,6 +30,7 @@
 import os
 import json
 from datetime import datetime
+import yaml
 import metadata as meta
 import commands as c
 from tag_ontology import *
@@ -261,6 +262,18 @@ class Page(object):
         self.json = json
         self.metadata = metadata
 
+    def load_metadata(self):
+        with open(self.origin.path, 'r') as f:
+            metadata = ""
+            first = f.readline()
+            if first == '---\n':
+                then = f.readline()
+                while then not in ['---\n', '...\n', '']:
+                    metadata += then
+                    then = f.readline()
+            print metadata
+            self.metadata = Metadata(yaml.load(metadata))
+
     def load(self):
         '''
         Load both raw and metadata
@@ -276,6 +289,9 @@ class Page(object):
 
     def base(self):
         return self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+
+    def __repr__(self):
+        return "Page('{}')".format(self.origin.path)
 
     def revision_date(self, string=True):
         try:
