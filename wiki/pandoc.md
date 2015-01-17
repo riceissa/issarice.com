@@ -10,6 +10,7 @@ status: notes
 belief: possible
 license: CC BY
 tags: linux, pandoc
+aliases: playing-with-pandoc
 ...
 
 [Pandoc](http://johnmacfarlane.net/pandoc/index.html) is a convenient tool for converting documents between different formats---for instance to convert a markdown document into a PDF.

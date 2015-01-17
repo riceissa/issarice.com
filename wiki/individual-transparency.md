@@ -12,6 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
+aliases: personal-transparency
 ...
 
 This page considers **individual transparency** (which is distinct from organizational transparency) both online and offline.

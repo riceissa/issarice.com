@@ -12,6 +12,7 @@ belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: writing, content creation
+aliases: define-jargon-early
 ...
 
 When writing, it is important to **define jargon early** so you don't waste readers' time.

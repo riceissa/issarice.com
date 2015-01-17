@@ -8,6 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
+aliases: availability-of-content, openness-and-availability-of-content
 ...
 
 This page considers how open one's content should be.

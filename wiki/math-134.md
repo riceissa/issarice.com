@@ -8,6 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: uw, math
+aliases: math-134-at-the-university-of-washington
 ...
 
 This is my course review for math 134 at the University of Washington.

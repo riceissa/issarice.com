@@ -5,6 +5,7 @@ description: How to use platex to typeset Japanese documents (Debian Wheezy)
 last-major-revision-date: 
 license: cc0
 tags: japan, debian, latex, linux
+aliases: how-to-use-platex-to-typeset-japanese-documents
 ---
 
 This page describes how to use [pLaTeX](!wja) to typeset Japanese documents.

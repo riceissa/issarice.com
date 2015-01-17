@@ -8,6 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: uw, uw-honors
+aliases: honors-100-at-the-university-of-washington
 ...
 
 This is my course review for [honors 100](https://depts.washington.edu/uwhonors/courses/honors100/) (Honors at the UW) at the University of Washington.

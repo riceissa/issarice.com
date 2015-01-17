@@ -5,6 +5,7 @@ description: Miscellaneous tips and tricks for Linux
 #last-major-revision-date: 
 license: "CC-BY"
 tags: linux, openbsd, debian
+aliases: other-command-line-notes, miscellaneous-tips-and-tricks
 ---
 
 

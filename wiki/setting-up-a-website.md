@@ -3,6 +3,7 @@ title: Setting up a website
 tags: linux, site-info
 status: notes
 belief: possible
+aliases: setting-up-a-webserver
 ...
 
 More to come.

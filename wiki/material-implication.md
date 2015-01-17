@@ -14,6 +14,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
+aliases: a-collection-of-explanations-for-the-material-implication
 ---
 
 This document outlines some of the common explanations surrounding the

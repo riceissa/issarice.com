@@ -6,6 +6,7 @@ language: English
 status: draft
 belief: possible
 license: CC BY
+aliases: dealing-with-depression
 ...
 
 I'm not really an EOTS, but some starting points:

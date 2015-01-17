@@ -7,6 +7,7 @@ math: "no"
 last-major-revision-date: 2014-07-26
 license: "CC-BY"
 tags: qs, links, self-improvement
+aliases: overview-of-quantified-self
 ---
 
 - <http://www.fortelabs.co/quantifiedself>

@@ -8,6 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
+aliases: the-importance-of-having-different-aged-peers, the-importance-of-having-older-peers-and-mentors
 ...
 
 It seems rather arbitrary that the people we interact with in school are all similarly-aged.
