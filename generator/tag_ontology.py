@@ -33,7 +33,7 @@ from collections import OrderedDict
 # standardize_tags.  This is mostly useful when
 # a tag can be spelled in multiple ways or has common abbreviations.
 # This should be used before doing tag implications.
-tag_synonyms = {
+TAG_SYNONYMS = {
     "atmopsheric-sciences":
         ["atmos"],
     "bryan-caplan":
@@ -91,7 +91,7 @@ tag_synonyms = {
 # the second will be applied, leaving you with tags a, b, and c. (This
 # is an OrderedDict so that the above works.)  It is also assumed here
 # that everything in tag_implications is standardized.
-tag_implications = OrderedDict([
+TAG_IMPLICATIONS = OrderedDict([
     ("halmos", ["math"]),
     ("hakyll", ["haskell"]),
     ("python", ["programming"]),

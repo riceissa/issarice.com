@@ -31,10 +31,12 @@ import os
 import json
 from datetime import datetime
 import yaml
-from yaml import SafeLoader
+from yaml import SafeLoader, BaseLoader
 import metadata as meta
 import commands as c
 from tag_ontology import *
+
+
 
 def to_unicode(string):
     '''
@@ -69,6 +71,19 @@ def to_string(unic):
         return unic
     else:
         raise TypeError("to_string cannot convert something that isn't a string, unicode, or bool")
+
+def parse_as_list(x, delimiter=','):
+    '''
+    Take a list or string of comma-delimited items, and return a cleaned
+    list.
+    '''
+    if type(x) in [str, unicode]:
+        return [to_unicode(i.strip(" ")) for i in x.split(delimiter)
+            if i != '']
+    elif type(x) is list:
+        return [to_unicode(i) for i in x]
+    else:
+        return []
 
 def split_path(path):
     '''
@@ -174,6 +189,48 @@ class Tag(object):
     def __str__(self):
         return self.name
 
+class TagList(object):
+    def __init__(self, data=[]):
+        self.data = data
+
+    def __repr__(self):
+        return self.data.__repr__()
+
+    def standardize_using(self, tag_synonyms):
+        '''
+        Take a list of tags (tags :: list) along with a dictionary of tag
+        synonyms (tag_synonyms :: dict) and return a new list of tags, where
+        all synonymous tags are standardized according to tag_synonyms.  For
+        instance, if tag_synonyms contains the line
+            "university-of-washington": ["uw", "uwashington"],
+        and if tags contains "uw" or "uwashington", then this will be
+        replaced by "university-of-washington".
+        '''
+        result = []
+        for tag in self.data:
+            canonical = [key for key, value in tag_synonyms.items() if tag in value]
+            if not canonical:
+                # So could not find a match in tag_synonyms
+                canonical = [tag]
+            result.extend(canonical)
+        self.data = result
+
+    def imply_using(self, tag_implications):
+        '''
+        Take an OrderedDict of tag
+        implications (tag_implications :: OrderedDict).  Return a new list
+        of tags that includes all the implications.  Apply this after
+        standardizing tags.
+        '''
+        for key in tag_implications:
+            if key in self.data:
+                self.data.extend(tag_implications.get(key))
+        self.data = list(set(self.data))
+
+    def organize_using(self, tag_synonyms, tag_implications):
+        self.standardize_using(tag_synonyms)
+        self.imply_using(tag_implications)
+
 class Metadata(object):
     '''
     Represents the metadata of a file.
@@ -187,7 +244,7 @@ class Metadata(object):
         if "title" in kwargs.keys():
             self.title = to_unicode(kwargs['title'])
         if "authors" in kwargs.keys():
-            self.authors = [to_unicode(author) for author in kwargs['authors']]
+            self.authors = parse_as_list(kwargs['authors'])
         if "math" in kwargs.keys():
             if type(kwargs['math']) is bool:
                 if kwargs['math']:
@@ -213,7 +270,10 @@ class Metadata(object):
                 # set default license to unknown (i.e., copyrighted)
                 self.license = to_unicode("UNKNOWN")
         if "tags" in kwargs.keys():
-            self.tags = [to_unicode(tag) for tag in kwargs['tags']]
+            tag_list = TagList(parse_as_list(kwargs['tags']))
+            tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
+            print tag_list.data
+            self.tags = tag_list.data
 
     def __str__(self):
         return str(self.__dict__)
@@ -260,8 +320,7 @@ class Page(object):
                 while then not in ['---\n', '...\n', '']:
                     metadata += then
                     then = f.readline()
-            print metadata
-            self.metadata = Metadata(**yaml.load(metadata, Loader=SafeLoader))
+            self.metadata = Metadata(**yaml.load(metadata, Loader=BaseLoader))
 
     def load(self):
         '''
@@ -273,6 +332,8 @@ class Page(object):
             TAG_SYNONYMS,
             TAG_IMPLICATIONS
         )
+        #self.json = json.loads(output)
+        #self.load_metadata()
         self.metadata = Metadata(**meta.get_metadata_dict(self.json))
         #page.metadata.update_with(meta.get_metadata_dict(page.json))
 
@@ -335,15 +396,3 @@ site_dir_route = to_dir(site_dir)
 def my_route(filepath):
     return filepath.route_with(set_extension("")).route_with(drop_one_parent_dir_route).route_with(site_dir_route)
 
-def parse_as_list(x, delimiter=','):
-    '''
-    Take a list or string of comma-delimited items, and return a cleaned
-    list.
-    '''
-    if type(x) in [str, unicode]:
-        return [to_unicode(i.strip(" ")) for i in x.split(delimiter)
-            if i != '']
-    elif type(x) is list:
-        return [to_unicode(i) for i in x]
-    else:
-        return []
