@@ -272,7 +272,6 @@ class Metadata(object):
         if "tags" in kwargs.keys():
             tag_list = TagList(parse_as_list(kwargs['tags']))
             tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
-            print tag_list.data
             self.tags = tag_list.data
 
     def __str__(self):
