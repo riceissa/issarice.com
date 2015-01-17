@@ -1,5 +1,5 @@
 ---
-title: Having \“ideas that are lying around\”
+title: Having “ideas that are lying around”
 #description: none
 author: Issa Rice
 creation-date: 2014-12-27
