@@ -21,7 +21,7 @@ else
     echo "Creating $pagepath"
     echo "---" >> $pagepath
     echo "title: $title" >> $pagepath
-    echo "#description: none" >> $pagepath
+    echo "#description: " >> $pagepath
     echo "author: Issa Rice" >> $pagepath
     echo "creation-date: `date +'%Y-%m-%d'`" >> $pagepath
     echo "last-major-revision-date: `date +'%Y-%m-%d'`" >> $pagepath
@@ -33,6 +33,7 @@ else
     echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
     echo "license: CC-BY" >> $pagepath
     echo "tags: untagged" >> $pagepath
+    echo "#aliases: " >> $pagepath
     echo -e "...\n\n" >> $pagepath
     # open with vim on the last line new a new tab on an existing session (if possible)
     gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
