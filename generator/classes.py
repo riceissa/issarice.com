@@ -32,7 +32,6 @@ import json
 from datetime import datetime
 import yaml
 from yaml import SafeLoader, BaseLoader
-import metadata as meta
 import commands as c
 from tag_ontology import *
 
@@ -319,21 +318,26 @@ class Page(object):
                 while then not in ['---\n', '...\n', '']:
                     metadata += then
                     then = f.readline()
-            self.metadata = Metadata(**yaml.load(metadata, Loader=BaseLoader))
+            self.metadata = Metadata(**yaml.load(metadata,
+                Loader=BaseLoader))
 
-    def load(self):
+    def compiled(self):
         '''
-        Load both raw and metadata
+        Compile page and return the string of the output.
         '''
-        output = c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path))
-        self.json = json.loads(output)
-        self.load_metadata()
+        ast = json.loads(c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path)))
+        return to_unicode(
+            c.run_command(
+                "pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py",
+                pipe_in=json.dumps(ast, separators=(',',':'))
+            )
+        )
 
     def base(self):
         return self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
 
     def __repr__(self):
-        return "Page('{}')".format(self.origin.path)
+        return "Page({})".format(self.origin.path.__repr__())
 
     def revision_date(self, string=True):
         try:

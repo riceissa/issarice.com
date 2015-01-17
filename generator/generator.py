@@ -35,7 +35,6 @@ from datetime import datetime
 import hashlib
 
 import commands as c
-import metadata as meta
 from classes import *
 from tag_ontology import *
 
@@ -65,14 +64,6 @@ def create_pages():
     for page_path in pages_lst:
         create_page(page_path)
 
-def pandoc_compile(json_lst):
-    return to_unicode(
-        c.run_command(
-            "pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py",
-            pipe_in=json.dumps(json_lst, separators=(',',':'))
-        )
-    )
-
 def create_page(path):
     '''
     Compile a single file from markdown to HTML.
@@ -81,16 +72,13 @@ def create_page(path):
     global page_data
     page = Page(path)
     print("Processing " + str(page.origin))
-    page.load()
+    page.load_metadata()
     all_tags.extend(page.metadata.tags)
-    body = pandoc_compile(page.json)
-    inter = page.base()
     write_to = page.origin.route_with(my_route)
-
     env = Environment(loader=FileSystemLoader('.'))
     skeleton = env.get_template('templates/skeleton.html')
     final = skeleton.render(
-        body = body,
+        body = page.compiled(),
         # In templates, we use page.field to access metadata fields
         page = page.metadata,
         tags = sorted(
@@ -106,11 +94,10 @@ def create_page(path):
         ),
         # Calculate where the css file will be located relative to the
         # current file's (eventual) location
-        css = Filepath("_css/minimal.css").relative_to(Filepath(inter)).path,
+        css = Filepath("_css/minimal.css").relative_to(Filepath(page.base())).path,
         source = to_unicode(page.origin.path),
         path = "./",
     )
-    #page_data.append((page.metadata.title, inter, page.metadata.tags)) # to be used later
     # Keep a cumulative list of pages for later use
     page_data.append(page)
 
