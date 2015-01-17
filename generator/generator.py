@@ -242,8 +242,9 @@ def create_aliases():
                     title = page.metadata.title,
                     location = slug(page.metadata.title),
                 )
-                with open(write_to, 'w') as f:
-                    f.write(to_string(final))
+                if not os.path.exists(write_to):
+                    with open(write_to, 'w') as f:
+                        f.write(to_string(final))
         except AttributeError:
             pass
 
