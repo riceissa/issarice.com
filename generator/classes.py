@@ -32,6 +32,7 @@ import json
 from datetime import datetime
 import yaml
 from yaml import SafeLoader, BaseLoader
+from slugify import slugify_unicode
 import commands as c
 from tag_ontology import *
 
@@ -176,6 +177,10 @@ class Tag(object):
     def __str__(self):
         return self.name
 
+    def __eq__(self, other):
+        return slugify_unicode(self.name, to_lower=True) ==
+            slugify_unicode(other.name, to_lower=True)
+
 class TagList(object):
     def __init__(self, data=[]):
         self.data = data
@@ -194,7 +199,8 @@ class TagList(object):
         '''
         result = []
         for tag in self.data:
-            canonical = [key for key, value in tag_synonyms.items() if tag in value]
+            canonical = [key for key, value in tag_synonyms.items()
+                if tag.lower() == key.lower() or tag.lower() in value]
             if not canonical:
                 # So could not find a match in tag_synonyms
                 canonical = [tag]
@@ -208,7 +214,7 @@ class TagList(object):
         this after standardizing tags.
         '''
         for key in tag_implications:
-            if key in self.data:
+            if key.lower() in self.data or key in self.data:
                 self.data.extend(tag_implications.get(key))
         self.data = list(set(self.data))
 

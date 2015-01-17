@@ -34,47 +34,49 @@ from collections import OrderedDict
 # a tag can be spelled in multiple ways or has common abbreviations.
 # This should be used before doing tag implications.
 TAG_SYNONYMS = {
-    "atmopsheric-sciences":
+    "atmopsheric sciences":
         ["atmos"],
-    "bryan-caplan":
-        ["caplan", "bryan caplan"],
+    "Bryan Caplan":
+        ["caplan", "bryan-caplan"],
     "chemistry":
         ["chem"],
-    "cause-prioritization":
-        ["cp", "cause prioritization"],
-    "cognito-mentoring":
-        ["cm", "cognito mentoring", "cognito"],
-    "computer-science":
-        ["cs", "computer science"],
+    "cause prioritization":
+        ["cp", "cause-prioritization"],
+    "Cognito Mentoring":
+        ["cm", "cognito-mentoring", "cognito"],
+    "computer science":
+        ["cs", "computer-science"],
     "computing":
         ["hacking", "computers"],
-    "content-creation":
-        ["content creation"],
-    "effective-altruism":
-        ["ea", "effective altruism", "effectivealtruism"],
-    "high-school":
-        ["hs", "high school"],
-    "lesswrong":
-        ["lw", "less-wrong", "less wrong"],
-    "links-collection":
-        ["links collection", "link-collection", "link collection",
-        "resources", "links"],
+    "content creation":
+        ["content-creation"],
+    "effective altruism":
+        ["ea", "effective-altruism", "effectivealtruism"],
+    "high school":
+        ["hs", "high-school"],
+    "LessWrong":
+        ["lw", "less-wrong"],
+    "links collection":
+        ["link-collection", "link collection",
+        "resources", "links", "links-collection"],
     "math":
         ["maths", "mathematics"],
-    "open-borders":
-        ["ob", "open borders"],
+    "open borders":
+        ["ob", "open-borders"],
+    "OpenBSD":
+        ["openbsd"],
     "psychology":
         ["psych"],
-    "quantified-self":
-        ["qs", "quantified self", "life logging", "life-logging",
+    "quantified self":
+        ["qs", "quantified-self", "life logging", "life-logging",
         "sousveillance"],
-    "set-theory":
-        ["set theory"],
-    "slate-star-codex":
+    "set theory":
+        ["set-theory"],
+    "Slate Star Codex":
         ["ssc", "slate star", "slate-star"],
-    "university-of-washington":
-        ["uw", "uwashington", "university of washington"],
-    "university-of-washington-honors-program":
+    "University of Washington":
+        ["uw", "uwashington", "university-of-washington"],
+    "University of Washington honors program":
         ["uw-honors", "uw honors", "honors program", "honors-program"],
 }
 
@@ -92,21 +94,21 @@ TAG_SYNONYMS = {
 # is an OrderedDict so that the above works.)  It is also assumed here
 # that everything in tag_implications is standardized.
 TAG_IMPLICATIONS = OrderedDict([
-    ("halmos", ["math"]),
-    ("hakyll", ["haskell"]),
-    ("python", ["programming"]),
-    ("latex", ["computing"]),
-    ("linux", ["computing"]),
-    ("pandoc", ["computing"]),
-    ("openbsd", ["computing"]),
-    ("lesswrong", ["rationality"]),
+    ("Halmos", ["math"]),
+    ("Hakyll", ["Haskell"]),
+    ("Python", ["programming"]),
+    ("LaTeX", ["computing"]),
+    ("Linux", ["computing"]),
+    ("Pandoc", ["computing"]),
+    ("OpenBSD", ["computing"]),
+    ("LessWrong", ["rationality"]),
     ("logic", ["math"]),
     ("analysis", ["math"]),
     ("physics", ["science"]),
-    ("atmospheric-sciences", ["science"]),
+    ("atmospheric sciences", ["science"]),
     ("astronomy", ["science"]),
     ("chemistry", ["science"]),
-    ("haskell", ["programming"]),
+    ("Haskell", ["programming"]),
     ("depression", ["psychology"]),
     ("programming", ["computing"]),
 ])

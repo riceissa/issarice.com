@@ -33,6 +33,7 @@ from jinja2 import Template, Environment, FileSystemLoader
 import os
 from datetime import datetime
 import hashlib
+from slugify import slugify_unicode
 
 import commands as c
 from classes import *
@@ -85,12 +86,16 @@ def create_page(path):
             [
                 {
                     'name': tag,
-                    'path': to_unicode(Filepath(to_string(tag))\
-                        .route_with(to_dir(TAGS_DIR)).path),
+                    'path': to_unicode(
+                        Filepath(to_string(slugify_unicode(
+                            tag,
+                            to_lower=True
+                        ))).route_with(to_dir(TAGS_DIR)).path,
+                    ),
                 }
                 for tag in page.metadata.tags
             ],
-            key = lambda t: t['name'],
+            key = lambda t: t['name'].lower(),
         ),
         # Calculate where the css file will be located relative to the
         # current file's (eventual) location
@@ -117,7 +122,8 @@ def create_tag_page():
             if tag in page.metadata.tags:
                 pages.append({'title': to_unicode(page.metadata.title), 'url': to_unicode("../" + page.base())})
         pages = sorted(pages, key=lambda t: t['title'])
-        write_to = Filepath(SITE_DIR + TAGS_DIR + to_string(tag))
+        write_to = Filepath(SITE_DIR + TAGS_DIR +
+            to_string(slugify_unicode(tag, to_lower=True)))
         ctx = Metadata(
             title = "Tag: " + tag,
             license = "cc0",
@@ -143,7 +149,7 @@ def create_page_with_all_tags():
     print("Creating page with all the tags")
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
-    pages = [{'title': to_unicode(tag), 'url': to_unicode(tag)} for tag in all_tags]
+    pages = [{'title': to_unicode(tag), 'url': to_unicode(slugify_unicode(tag, to_lower=True))} for tag in all_tags]
     pages = sorted(pages, key=lambda t: t['title'])
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
