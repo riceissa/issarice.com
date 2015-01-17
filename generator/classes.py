@@ -326,15 +326,8 @@ class Page(object):
         Load both raw and metadata
         '''
         output = c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path))
-        self.json = meta.organize_tags(
-            json.loads(output),
-            TAG_SYNONYMS,
-            TAG_IMPLICATIONS
-        )
-        #self.json = json.loads(output)
-        #self.load_metadata()
-        self.metadata = Metadata(**meta.get_metadata_dict(self.json))
-        #page.metadata.update_with(meta.get_metadata_dict(page.json))
+        self.json = json.loads(output)
+        self.load_metadata()
 
     def base(self):
         return self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
