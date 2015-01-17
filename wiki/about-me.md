@@ -5,6 +5,7 @@ creation-date: 2014-09-13
 last-major-revision-date: 2014-10-05
 license: CC0
 tags: general
+aliases: me
 ...
 
 *This page is about myself; for information about this website, see [About the site]().*
