@@ -4,13 +4,22 @@ import unittest
 
 from classes import *
 
+
+page = Page("generator/test.md")
+page.load_metadata()
+
 class ClassesTests(unittest.TestCase):
-    def testOne(self):
-        page = Page("generator/test.md")
-        page.load_metadata()
-        print page.metadata.tags
+
+    def testTags(self):
+        #print page.metadata.tags
         self.failUnless(set(page.metadata.tags) ==
             set(['Slate Star Codex', 'Python', 'Haskell', 'Debian', 'programming', 'computing']))
+
+    def testTitle(self):
+        self.failUnless(page.metadata.title == 'Test title')
+
+    #def testAuthor(self):
+        #self.failUnless(page.metadata.author == [])
 
 def main():
     unittest.main()

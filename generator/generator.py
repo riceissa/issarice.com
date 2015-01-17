@@ -148,7 +148,7 @@ def create_page_with_all_tags():
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
     pages = [{'title': to_unicode(tag), 'url': to_unicode(slug(tag))} for tag in all_tags]
-    pages = sorted(pages, key=lambda t: t['title'])
+    pages = sorted(pages, key=lambda t: t['title'].lower())
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
     ctx = Metadata(
@@ -251,7 +251,7 @@ if __name__ == '__main__':
             create_page(p)
     else:
         clean()
-        pages_pat = "wiki/a*.md"
+        pages_pat = "wiki/*.md"
         pages_lst = [Filepath(i) for i in glob.glob(pages_pat)]
         compile_scss()
         copy_files("images/*", SITE_DIR)
