@@ -270,8 +270,8 @@ class Page(object):
         output = c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path))
         self.json = meta.organize_tags(
             json.loads(output),
-            tag_synonyms,
-            tag_implications
+            TAG_SYNONYMS,
+            TAG_IMPLICATIONS
         )
         self.metadata = Metadata(**meta.get_metadata_dict(self.json))
         #page.metadata.update_with(meta.get_metadata_dict(page.json))
@@ -334,3 +334,16 @@ site_dir_route = to_dir(site_dir)
 @Route
 def my_route(filepath):
     return filepath.route_with(set_extension("")).route_with(drop_one_parent_dir_route).route_with(site_dir_route)
+
+def parse_as_list(x, delimiter=','):
+    '''
+    Take a list or string of comma-delimited items, and return a cleaned
+    list.
+    '''
+    if type(x) in [str, unicode]:
+        return [to_unicode(i.strip(" ")) for i in x.split(delimiter)
+            if i != '']
+    elif type(x) is list:
+        return [to_unicode(i) for i in x]
+    else:
+        return []
