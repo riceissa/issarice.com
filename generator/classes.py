@@ -205,7 +205,6 @@ class TagList(object):
             for key, value in tag_synonyms.items():
                 slug_value = [slug(i) for i in value]
                 if slug(tag) == slug(key) or slug(tag) in slug_value:
-                    print slug(tag)
                     canonical.append(key)
             if not canonical:
                 # So could not find a match in tag_synonyms
