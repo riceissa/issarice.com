@@ -108,7 +108,7 @@ class Filepath(object):
             )
         self.path = path
 
-    def __str__(self):
+    def __repr__(self):
         return self.path
 
     def filename(self):
@@ -177,7 +177,7 @@ class Tag(object):
         self.name = name
         self.pages = pages
 
-    def __str__(self):
+    def __repr__(self):
         return self.name
 
     def __eq__(self, other):
@@ -270,8 +270,8 @@ class Metadata(object):
             tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
             self.tags = tag_list.data
 
-    def __str__(self):
-        return str(self.__dict__)
+    def __repr__(self):
+        return self.__dict__.__repr__()
 
     def update_with(self, other):
         if type(other) is Metadata:
