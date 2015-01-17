@@ -84,7 +84,6 @@ def create_page(path):
     page.load()
     all_tags.extend(page.metadata.tags)
     body = pandoc_compile(page.json)
-    #inter = page.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
     inter = page.base()
     write_to = page.origin.route_with(my_route)
 
