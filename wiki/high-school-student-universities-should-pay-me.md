@@ -1,6 +1,5 @@
 ---
-# this is absurd, but the only way I was able to get both the colon and the quotes to show up...
-title: High school student&#58; \“Universities should pay me.\”
+title: "High school student: “Universities should pay me.”"
 author: Issa Rice
 creation-date: 2014-11-02
 last-major-revision-date: 2014-11-02
