@@ -119,7 +119,7 @@ def create_tag_page():
         for page in page_data:
             if tag in page.metadata.tags:
                 pages.append({'title': to_unicode(page.metadata.title), 'url': to_unicode("../" + page.base())})
-        pages = sorted(pages, key=lambda t: t['title'])
+        pages = sorted(pages, key=lambda t: t['title'].lower())
         write_to = Filepath(SITE_DIR + TAGS_DIR +
             to_string(slug(tag)))
         ctx = Metadata(
@@ -240,7 +240,7 @@ def create_aliases():
                 skeleton = env.get_template('templates/redirect.html')
                 final = skeleton.render(
                     title = page.metadata.title,
-                    location = slug(page.metadata.title),
+                    location = page.base(),
                 )
                 if not os.path.exists(write_to):
                     with open(write_to, 'w') as f:
