@@ -37,11 +37,11 @@ TAG_SYNONYMS = {
     "atmopsheric sciences":
         ["atmos"],
     "Bryan Caplan":
-        ["caplan", "bryan-caplan"],
+        ["caplan"],
     "chemistry":
         ["chem"],
     "cause prioritization":
-        ["cp", "cause-prioritization"],
+        ["cp"],
     "Cognito Mentoring":
         ["cm", "cognito-mentoring", "cognito"],
     "computer science":
@@ -49,35 +49,65 @@ TAG_SYNONYMS = {
     "computing":
         ["hacking", "computers"],
     "content creation":
-        ["content-creation"],
+        [],
+    "Debian":
+        ["deb"],
     "effective altruism":
         ["ea", "effective-altruism", "effectivealtruism"],
+    "English":
+        [],
+    "Facebook":
+        [],
+    "GitHub":
+        [],
+    "Halmos":
+        [],
+    "Haskell":
+        [],
+    "Hakyll":
+        [],
     "high school":
-        ["hs", "high-school"],
+        ["hs"],
+    "Japan":
+        [],
+    "Jekyll":
+        [],
+    "LaTeX":
+        [],
     "LessWrong":
-        ["lw", "less-wrong"],
+        ["lw", "less wrong"],
     "links collection":
-        ["link-collection", "link collection",
-        "resources", "links", "links-collection"],
+        ["link-collection", "resources", "links"],
+    "Linux":
+        [],
     "math":
         ["maths", "mathematics"],
     "open borders":
-        ["ob", "open-borders"],
+        ["ob"],
     "OpenBSD":
         ["openbsd"],
+    "Pandoc":
+        [],
     "psychology":
         ["psych"],
+    "Python":
+        ["py"],
     "quantified self":
-        ["qs", "quantified-self", "life logging", "life-logging",
-        "sousveillance"],
+        ["qs", "life-logging", "sousveillance"],
+    "Quora":
+        [],
+    "self-improvement":
+        [],
     "set theory":
         ["set-theory"],
+    "site info":
+        [],
     "Slate Star Codex":
-        ["ssc", "slate star", "slate-star"],
+        ["ssc", "slate-star"],
     "University of Washington":
         ["uw", "uwashington", "university-of-washington"],
     "University of Washington honors program":
-        ["uw-honors", "uw honors", "honors program", "honors-program"],
+        ["uw-honors", "uw honors", "honors-program"],
 }
 
 # List of tag implications to be used with imply_tags.  Below, (a, [b])

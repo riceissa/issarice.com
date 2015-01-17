@@ -73,6 +73,9 @@ def parse_as_list(x, delimiter=','):
     else:
         return []
 
+def slug(s):
+    return slugify_unicode(s, to_lower=True)
+
 def split_path(path):
     '''
     Take a path(str) and return a list where each element is one
@@ -178,8 +181,7 @@ class Tag(object):
         return self.name
 
     def __eq__(self, other):
-        return slugify_unicode(self.name, to_lower=True) ==
-            slugify_unicode(other.name, to_lower=True)
+        return (slug(self.name) == slug(other.name))
 
 class TagList(object):
     def __init__(self, data=[]):
@@ -199,8 +201,12 @@ class TagList(object):
         '''
         result = []
         for tag in self.data:
-            canonical = [key for key, value in tag_synonyms.items()
-                if tag.lower() == key.lower() or tag.lower() in value]
+            canonical = []
+            for key, value in tag_synonyms.items():
+                slug_value = [slug(i) for i in value]
+                if slug(tag) == slug(key) or slug(tag) in slug_value:
+                    print slug(tag)
+                    canonical.append(key)
             if not canonical:
                 # So could not find a match in tag_synonyms
                 canonical = [tag]

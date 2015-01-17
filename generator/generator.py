@@ -87,10 +87,8 @@ def create_page(path):
                 {
                     'name': tag,
                     'path': to_unicode(
-                        Filepath(to_string(slugify_unicode(
-                            tag,
-                            to_lower=True
-                        ))).route_with(to_dir(TAGS_DIR)).path,
+                        Filepath(to_string(slug(tag))).\
+                        route_with(to_dir(TAGS_DIR)).path,
                     ),
                 }
                 for tag in page.metadata.tags
@@ -123,7 +121,7 @@ def create_tag_page():
                 pages.append({'title': to_unicode(page.metadata.title), 'url': to_unicode("../" + page.base())})
         pages = sorted(pages, key=lambda t: t['title'])
         write_to = Filepath(SITE_DIR + TAGS_DIR +
-            to_string(slugify_unicode(tag, to_lower=True)))
+            to_string(slug(tag)))
         ctx = Metadata(
             title = "Tag: " + tag,
             license = "cc0",
@@ -149,7 +147,7 @@ def create_page_with_all_tags():
     print("Creating page with all the tags")
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
-    pages = [{'title': to_unicode(tag), 'url': to_unicode(slugify_unicode(tag, to_lower=True))} for tag in all_tags]
+    pages = [{'title': to_unicode(tag), 'url': to_unicode(slug(tag))} for tag in all_tags]
     pages = sorted(pages, key=lambda t: t['title'])
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
