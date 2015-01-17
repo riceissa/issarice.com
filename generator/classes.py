@@ -35,21 +35,14 @@ from yaml import SafeLoader, BaseLoader
 import commands as c
 from tag_ontology import *
 
-
-
 def to_unicode(string):
     '''
-    Convert a string, bool, or unicode to a unicode object.
+    Convert a string, bool, int, float, or unicode to a unicode object.
     '''
-    if isinstance(string, str):
-        return string.decode('utf-8')
-    if isinstance(string, bool):
-        if string:
-            return "True".decode('utf-8')
-        else:
-            return "False".decode('utf-8')
     if isinstance(string, unicode):
         return string
+    if type(string) in [bool, float, int, str]:
+        return str(string).decode('utf-8')
     if isinstance(string, type(None)):
         return "".decode('utf-8')
     else:
@@ -61,13 +54,8 @@ def to_string(unic):
     '''
     if isinstance(unic, unicode):
         return unic.encode('utf-8')
-    if isinstance(unic, bool):
-        if unic:
-            return "True"
-        else:
-            return "False"
-    if isinstance(unic, str):
-        return unic
+    if type(unic) in [str, int, float, bool]:
+        return str(unic)
     else:
         raise TypeError("to_string cannot convert something that isn't a string, unicode, or bool")
 
