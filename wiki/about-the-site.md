@@ -5,6 +5,7 @@ tags: site-info, general
 creation-date: 2014-09-14
 last-major-revision-date: 2015-01-14
 license: CC0
+aliases: about-this-site
 ...
 
 *This page is about this site; for information about myself, see [About me]().*

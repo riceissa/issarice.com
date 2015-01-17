@@ -228,6 +228,25 @@ def create_rss():
     with open(SITE_DIR + "feed.xml", "w") as f:
         f.write(to_string(final))
 
+def create_aliases():
+    global page_data
+    for page in page_data:
+        try:
+            aliases = page.metadata.aliases
+            for alias in aliases:
+                print("Creating alias for " + alias)
+                write_to = Filepath(alias).route_with(site_dir_route).path
+                env = Environment(loader=FileSystemLoader('.'))
+                skeleton = env.get_template('templates/redirect.html')
+                final = skeleton.render(
+                    title = page.metadata.title,
+                    location = slug(page.metadata.title),
+                )
+                with open(write_to, 'w') as f:
+                    f.write(to_string(final))
+        except AttributeError:
+            pass
+
 if __name__ == '__main__':
     import argparse
     SITE_DIR = "_site/"
@@ -261,5 +280,6 @@ if __name__ == '__main__':
         create_tag_page()
         create_page_with_all_tags()
         create_page_with_all_pages()
+        create_aliases()
         create_sitemap()
         create_rss()

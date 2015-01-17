@@ -269,6 +269,8 @@ class Metadata(object):
             tag_list = TagList(parse_as_list(kwargs['tags']))
             tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
             self.tags = tag_list.data
+        if "aliases" in kwargs.keys():
+            self.aliases = parse_as_list(kwargs['aliases'])
 
     def __repr__(self):
         return self.__dict__.__repr__()
@@ -298,12 +300,11 @@ class Page(object):
     are to be converted); special pages like the page with all the tags
     will not be an object of this class.
     '''
-    def __init__(self, origin, json=[], metadata=Metadata()):
+    def __init__(self, origin, metadata=Metadata()):
         if type(origin) is Filepath:
             self.origin = origin
         else:
             self.origin = Filepath(origin)
-        self.json = json
         self.metadata = metadata
 
     def load_metadata(self):
