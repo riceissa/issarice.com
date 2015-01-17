@@ -185,9 +185,8 @@ class TagList(object):
 
     def standardize_using(self, tag_synonyms):
         '''
-        Take a list of tags (tags :: list) along with a dictionary of tag
-        synonyms (tag_synonyms :: dict) and return a new list of tags, where
-        all synonymous tags are standardized according to tag_synonyms.  For
+        Take a dictionary of tag synonyms  and update the TagList
+        instance's list of tags according to the synonyms.  For
         instance, if tag_synonyms contains the line
             "university-of-washington": ["uw", "uwashington"],
         and if tags contains "uw" or "uwashington", then this will be
@@ -204,10 +203,9 @@ class TagList(object):
 
     def imply_using(self, tag_implications):
         '''
-        Take an OrderedDict of tag
-        implications (tag_implications :: OrderedDict).  Return a new list
-        of tags that includes all the implications.  Apply this after
-        standardizing tags.
+        Take an OrderedDict of tag implications and  update the TagList
+        instance's list of tags with the implications applied.  Apply
+        this after standardizing tags.
         '''
         for key in tag_implications:
             if key in self.data:
