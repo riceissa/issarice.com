@@ -16,9 +16,11 @@
     | <a href="{{ path }}当サイトに於けるコメントについて">コメント</a>
     | <a href="https://github.com/riceissa/issarice.com">サイトのソースコード</a>
     {%- if source -%}
-      ・<a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ source }}">このページのソースコード</a>・<a href="https://github.com/riceissa/issarice.com/edit/master/{{ source }}">ページの編集</a>
+      ・<a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ source }}">このページのソースコード</a>（<a href="{{ path }}information-regarding-website-source-and-page-source">詳細</a>）
     {%- endif -%}
-    （<a href="{{ path }}information-regarding-website-source-and-page-source">詳細</a>）
+    {%- if source -%}
+      | <a href="https://github.com/riceissa/issarice.com/edit/master/{{ source }}">ページ編集</a>
+    {%- endif -%}
   </div>
   <div style="float:right;">
     <!--
