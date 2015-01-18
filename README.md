@@ -40,7 +40,7 @@ python generator.py --files pages/index.md
 RSS feed, or alias pages, so this option is generally only useful when
 one is working on a subset of the pages and wants to view changes on
 them quickly.  For instance, I have
-`!python generator/generator.py --files %<CR><CR>`
+`:!python generator/generator.py --files %<CR><CR>`
 bound to a key in Vim so I can edit and preview
 quickly.)
 
