@@ -17,9 +17,11 @@
     | View <a href="https://github.com/riceissa/issarice.com">website source</a>
     {% if source %}
       or <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ source }}">page source</a>
-      or <a href="https://github.com/riceissa/issarice.com/edit/master/{{ source }}">edit page</a>
     {% endif %}
     (<a href="{{ path }}information-regarding-website-source-and-page-source">note</a>)
+    {% if source %}
+      | <a href="https://github.com/riceissa/issarice.com/edit/master/{{ source }}">Edit page</a>
+    {% endif %}
   </div>
   <div style="float:right;">
     <!--
