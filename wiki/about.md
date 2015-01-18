@@ -11,7 +11,7 @@ language: English
 #belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: site-info
+tags: site-info, personal
 ...
 
 I have two "About" pages:
