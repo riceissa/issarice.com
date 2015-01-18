@@ -32,6 +32,7 @@ import json
 from datetime import datetime
 import yaml
 from yaml import SafeLoader, BaseLoader
+from jinja2 import Template, Environment, FileSystemLoader
 from slugify import slugify_unicode
 import commands as c
 from tag_ontology import *
@@ -232,15 +233,21 @@ class Metadata(object):
     Represents the metadata of a file.
     '''
     def __init__(self, **kwargs):
+        self._is_empty = True
         for key in kwargs:
+            self._is_empty = False
             if type(kwargs[key]) in [str, bool, unicode]:
                 self.__setattr__(key, to_unicode(kwargs[key]))
             else:
                 self.__setattr__(key, kwargs[key])
         if "title" in kwargs.keys():
             self.title = to_unicode(kwargs['title'])
+        else:
+            self.title = to_unicode("")
         if "authors" in kwargs.keys():
             self.authors = parse_as_list(kwargs['authors'])
+        else:
+            self.authors = []
         if "math" in kwargs.keys():
             if type(kwargs['math']) is bool:
                 if kwargs['math']:
@@ -250,6 +257,8 @@ class Metadata(object):
             else:
                 self.math = kwargs['math']
             self.math = to_unicode(self.math)
+        else:
+            self.math = "False"
         if "license" in kwargs.keys():
             license = kwargs['license']
             # clean up license string
@@ -265,12 +274,18 @@ class Metadata(object):
             else:
                 # set default license to unknown (i.e., copyrighted)
                 self.license = to_unicode("UNKNOWN")
+        else:
+            self.license = to_unicode("UNKNOWN")
         if "tags" in kwargs.keys():
             tag_list = TagList(parse_as_list(kwargs['tags']))
             tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
             self.tags = tag_list.data
         if "aliases" in kwargs.keys():
             self.aliases = parse_as_list(kwargs['aliases'])
+        if "language" in kwargs.keys():
+            self.language = to_unicode(kwargs['language'])
+        else:
+            self.language = "English"
 
     def __repr__(self):
         return self.__dict__.__repr__()
@@ -292,7 +307,10 @@ class Metadata(object):
             #else:
                 #self.__setattr__(key, to_unicode(kwargs[key]))
 
-default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[], license="CC-BY")
+    def is_empty(self):
+        return self._is_empty
+
+default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[], license="CC-BY", language="English")
 
 class Page(object):
     '''
@@ -319,9 +337,9 @@ class Page(object):
             self.metadata = Metadata(**yaml.load(metadata,
                 Loader=BaseLoader))
 
-    def compiled(self):
+    def pandoc_compiled(self):
         '''
-        Compile page and return the string of the output.
+        Compile page with Pandoc and return the string of the output.
         '''
         ast = json.loads(c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path)))
         return to_unicode(
@@ -330,6 +348,43 @@ class Page(object):
                 pipe_in=json.dumps(ast, separators=(',',':'))
             )
         )
+
+    def compiled(self, tags_dir):
+        '''
+        Compile page all the way and return the string of the output.
+        '''
+        if self.metadata.is_empty():
+            self.load_metadata()
+        env = Environment(loader=FileSystemLoader('.'))
+        if self.metadata.language in [u"ja", u"japanese", u"にほんご",
+            u"日本語"]:
+            skeleton = env.get_template('templates/ja/skeleton.html')
+        else:
+            skeleton = env.get_template('templates/skeleton.html')
+        final = skeleton.render(
+            body = self.pandoc_compiled(),
+            # In templates, we use page.field to access metadata fields
+            page = self.metadata,
+            tags = sorted(
+                [
+                    {
+                        'name': tag,
+                        'path': to_unicode(
+                            Filepath(to_string(slug(tag))).\
+                            route_with(to_dir(tags_dir)).path,
+                        ),
+                    }
+                    for tag in self.metadata.tags
+                ],
+                key = lambda t: t['name'].lower(),
+            ),
+            # Calculate where the css file will be located relative to the
+            # current file's (eventual) location
+            css = Filepath("_css/minimal.css").relative_to(Filepath(self.base())).path,
+            source = to_unicode(self.origin.path),
+            path = "./",
+        )
+        return final
 
     def base(self):
         return self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path

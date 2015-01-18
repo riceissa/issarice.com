@@ -76,31 +76,32 @@ def create_page(path):
     page.load_metadata()
     all_tags.extend(page.metadata.tags)
     write_to = page.origin.route_with(my_route)
-    env = Environment(loader=FileSystemLoader('.'))
-    skeleton = env.get_template('templates/skeleton.html')
-    final = skeleton.render(
-        body = page.compiled(),
-        # In templates, we use page.field to access metadata fields
-        page = page.metadata,
-        tags = sorted(
-            [
-                {
-                    'name': tag,
-                    'path': to_unicode(
-                        Filepath(to_string(slug(tag))).\
-                        route_with(to_dir(TAGS_DIR)).path,
-                    ),
-                }
-                for tag in page.metadata.tags
-            ],
-            key = lambda t: t['name'].lower(),
-        ),
-        # Calculate where the css file will be located relative to the
-        # current file's (eventual) location
-        css = Filepath("_css/minimal.css").relative_to(Filepath(page.base())).path,
-        source = to_unicode(page.origin.path),
-        path = "./",
-    )
+    #env = Environment(loader=FileSystemLoader('.'))
+    #skeleton = env.get_template('templates/skeleton.html')
+    final = page.compiled(tags_dir=TAGS_DIR)
+    #final = skeleton.render(
+        #body = page.pandoc_compiled(),
+        ## In templates, we use page.field to access metadata fields
+        #page = page.metadata,
+        #tags = sorted(
+            #[
+                #{
+                    #'name': tag,
+                    #'path': to_unicode(
+                        #Filepath(to_string(slug(tag))).\
+                        #route_with(to_dir(TAGS_DIR)).path,
+                    #),
+                #}
+                #for tag in page.metadata.tags
+            #],
+            #key = lambda t: t['name'].lower(),
+        #),
+        ## Calculate where the css file will be located relative to the
+        ## current file's (eventual) location
+        #css = Filepath("_css/minimal.css").relative_to(Filepath(page.base())).path,
+        #source = to_unicode(page.origin.path),
+        #path = "./",
+    #)
     # Keep a cumulative list of pages for later use
     page_data.append(page)
 
