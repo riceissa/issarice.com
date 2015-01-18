@@ -356,7 +356,7 @@ class Page(object):
         if self.metadata.is_empty():
             self.load_metadata()
         env = Environment(loader=FileSystemLoader('.'))
-        if self.metadata.language in [u"ja", u"japanese", u"にほんご",
+        if self.metadata.language.lower() in [u"ja", u"japanese", u"にほんご",
             u"日本語"]:
             skeleton = env.get_template('templates/ja/skeleton.html')
         else:
