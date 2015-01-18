@@ -2,7 +2,7 @@
 title: Information regarding source code
 tags: site-info
 license: CC0
-alias: Information regarding website source and page source
+aliases: Information regarding website source and page source
 ...
 
 I push changes to GitHub more often than I deploy the site to Linode.
