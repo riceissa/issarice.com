@@ -1,7 +1,6 @@
 Possible list of things to write about:
 
 - wordpress
-- EA & EA links (make separate pages)
 - high school
 - peter thiel, elon musk, travis kalanick, jeff bezos, mark zuckerberg
 - bertrand russell
@@ -27,8 +26,7 @@ NEW:
   One solution is subdomains, but this is a bit tricky if one wants to have a locally-generated site. We could also do something like issarice.com/wiki/en/pagename1 for the english page, but then this breaks compatibility with what already exists. One solution is to have all the main pages flat (which are english for the time being), but then have a few "blacklisted" pages that cannot be created. This is already the case with "tags", "images" (though this one isn't really true, since images are added to the flat issarice.com/ ), "static".
   We could then add to this blacklist e.g. single alpha characters a..z, which we can use for further things.
   Like 'c' could stand for "content", so we could then just have issarice.com/c/wiki/en/pagename1, for instance. Then still the most obvious place to go (which is issarice.com/pagename1) will work, while the more "logical" placement will also work.
-- write a redirect feature like https://github.com/jekyll/jekyll-redirect-from .
-    - more generally, write a "plugin feature" so it's easier to add things later.
+- write a "plugin feature" so it's easier to add things later??
 - go through generator.py, metadata.py, and commands.py (and maybe also
   tag_ontology.py) to document code.
 - use classes instead of purely procedural stuff (do this slowly)
