@@ -1,0 +1,12 @@
+{#
+  This template is in the public domain according to the Creative
+  Commons CC0 Public Domain Dedication.  Please see
+  https://creativecommons.org/publicdomain/zero/1.0/ for more.
+#}
+<ul>
+  {% for page in pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
