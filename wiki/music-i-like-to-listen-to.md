@@ -7,7 +7,7 @@ last-major-revision-date: 2014-12-20
 language: English
 status: draft
 license: CC BY
-tags: ["music", "personal"]
+tags: ["music", "personal", "japan"]
 ---
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
