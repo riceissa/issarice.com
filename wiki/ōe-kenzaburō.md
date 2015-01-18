@@ -12,6 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
+aliases: oe kenzaburo
 ...
 
 Some things to talk about:
