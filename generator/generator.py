@@ -232,9 +232,9 @@ def create_aliases():
     global page_data
     for page in page_data:
         try:
-            aliases = page.metadata.aliases
+            aliases = [slug(i) for i in page.metadata.aliases]
             for alias in aliases:
-                print("Creating alias for " + alias)
+                print("Creating alias: " + alias)
                 write_to = Filepath(alias).route_with(site_dir_route).path
                 env = Environment(loader=FileSystemLoader('.'))
                 skeleton = env.get_template('templates/redirect.html')
