@@ -9,6 +9,7 @@ status: draft
 belief: possible
 license: CC BY
 tags: site-info
+aliases: belief-tag
 ...
 
 As [Muflax says](http://webcitation.org/6DuYcqyQ3):
