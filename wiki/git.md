@@ -26,3 +26,9 @@ aliases: git-commands, a-collection-of-often-forgotten-git-commands
     ```
 
     See [here](http://stackoverflow.com/questions/5828324/update-git-submodule) and [here](http://blog.jacius.info/git-submodule-cheat-sheet/).
+
+[Getting Japanese to display](https://stackoverflow.com/questions/4144417/how-to-handle-asian-characters-in-file-names-in-git-on-os-x):
+
+```bash
+git config --global core.quotepath false
+```
