@@ -10,16 +10,15 @@
     for how the div elements are managed.
   -->
   <div style="float:left;">
-    <a href="{{ path }}index">Home</a>
-    | <a href="{{ path }}about">About</a>
+    <a href="{{ path }}ホーム">ホーム</a>
+    | <a href="{{ path }}紹介">紹介</a>
     | <a href="{{ path }}feed">RSS</a>
-    | <a href="{{ path }}commenting-on-this-site">Comment</a>
-    | View <a href="https://github.com/riceissa/issarice.com">website source</a>
-    {% if source %}
-      or <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ source }}">page source</a>
-      or <a href="https://github.com/riceissa/issarice.com/edit/master/{{ source }}">edit page</a>
-    {% endif %}
-    (<a href="{{ path }}information-regarding-website-source-and-page-source">note</a>)
+    | <a href="{{ path }}当サイトに於けるコメントについて">コメント</a>
+    | <a href="https://github.com/riceissa/issarice.com">サイトのソースコード</a>
+    {%- if source -%}
+      ・<a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ source }}">このページのソースコード</a>・<a href="https://github.com/riceissa/issarice.com/edit/master/{{ source }}">ページの編集</a>
+    {%- endif -%}
+    （<a href="{{ path }}information-regarding-website-source-and-page-source">詳細</a>）
   </div>
   <div style="float:right;">
     <!--

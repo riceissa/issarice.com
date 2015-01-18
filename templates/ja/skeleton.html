@@ -45,16 +45,16 @@
 </head>
 <body>
 
-{% include "ja/templates/navbar.html" %}
+{% include "templates/ja/navbar.html" %}
 
 <div id="content">
 <h1>{{ page.title }}</h1>
 
 {% if page.status or page.belief %}
   <p>
-    {% if page.status %}<a href="./status-tags">Status</a>: {{ page.status }}{% endif %}
+    {% if page.status %}<a href="./完成度">完成度</a>: {{ page.status }}{% endif %}
     {% if page.status and page.belief %}|{% endif %}
-    {% if page.belief %}<a href="./belief-tags">Belief</a>: {{ page.belief }}{% endif %}
+    {% if page.belief %}<a href="./確信度">確信度</a>: {{ page.belief }}{% endif %}
   </p>
   <hr />
 {% endif %}
@@ -63,23 +63,25 @@
 
 {% if tags %}
 <hr />
-<p><a href="{{ path }}_tags/index">Tags</a>:
-  {% for tag in tags %}
+<p><a href="{{ path }}_tags/index">タグ</a>：
+  {%- for tag in tags -%}
     <a href="{{ tag.path }}">{{ tag.name }}</a>
     {%- if not loop.last -%}
-      ,
+      、
     {% endif %}
   {%- endfor -%}
-.</p>
+。</p>
 {% endif %}
 
 <hr />
 {% if page.license == "CC0" %}
-<p><a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is in the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.</p>
+<p><a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a><br />このページは<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja">公有</a>であるため、誰でも自由に複製・改変・頒布・上演・実演することができる。</p>
 {% elif page.license == "CC-BY" %}
-<p><a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />このページは<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.ja">クリエイティブ・コモンズ「表示 4.0 国際ライセンス」</a>の下に提供されている。
 {% elif page.license == "CC-BY-SA" %}
-<p><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />このページは<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">クリエイティブ・コモンズ「表示・継承 4.0 国際ライセンス」</a>の下に提供されている。
+
 {% else %}
 <p>The licensing of this page is unknown.</p>
 {% endif %}
