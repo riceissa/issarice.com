@@ -239,8 +239,8 @@ def create_aliases():
                 env = Environment(loader=FileSystemLoader('.'))
                 skeleton = env.get_template('templates/redirect.html')
                 final = skeleton.render(
-                    title = page.metadata.title,
-                    location = page.base(),
+                    title = to_unicode(page.metadata.title),
+                    location = to_unicode(page.base()),
                 )
                 if not os.path.exists(write_to):
                     with open(write_to, 'w') as f:
