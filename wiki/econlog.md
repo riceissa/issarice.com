@@ -29,5 +29,6 @@ Note that I don't necessarily agree with what's said in the posts below.
     - [Immigration and Bubbles](http://econlog.econlib.org/archives/2013/04/immigration_and_4.html)
 - [Shy Male Nerds and the Bubble Strategy](http://econlog.econlib.org/archives/2015/01/shy_male_nerds.html) and [Shy Male Nerds and the Bubble Strategy: Reply to Scott Alexander](http://econlog.econlib.org/archives/2015/01/shy_male_nerds_1.html)
 - [The Case Against News](http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html)
+- [My Life of Appeasement](http://econlog.econlib.org/archives/2014/08/my_life_of_appe_1.html)
 - [A Hardy Weed: How Traditionalists Underestimate Western Civ](http://econlog.econlib.org/archives/2014/06/a_hardy_week_ho.html)
 - [In a Perfect World, I'd Call Myself a Sociologist](http://econlog.econlib.org/archives/2009/06/in_a_perfect_wo.html)
