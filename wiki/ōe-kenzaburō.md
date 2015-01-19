@@ -20,3 +20,4 @@ Some things to talk about:
 - John Wallace
 - *A Personal Matter*
 - Early short stories
+- *Hiroshima Note* in contrast to [effective altruism](), e.g. what the doctor says. The problem of scale.
