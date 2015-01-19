@@ -354,6 +354,7 @@ A good thing to remember is that *there are already too many people in academia*
     - Mencius Moldbug
     - Scott Alexander
     - Bryan Caplan: see my page on [EconLog]()
+    - Natalia Nezvanova
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
 How to ignore for example pressure to complete homework assignments?
