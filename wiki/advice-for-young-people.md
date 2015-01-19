@@ -353,14 +353,14 @@ A good thing to remember is that *there are already too many people in academia*
     - gwern
     - Mencius Moldbug
     - Scott Alexander
-    - Bryan Caplan
+    - Bryan Caplan: see my page on [EconLog]()
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
 How to ignore for example pressure to complete homework assignments?
 
 - Experimenting with homelessness; see gwern
 
-- activism ends after graduation -- sam alexander
+- "[Activism Goes Away After Graduation](https://web.archive.org/web/20100223014628/http://www.xamuel.com/activism-goes-away-after-graduation/)<!--(https://archive.today/dgb0a)-->" by Sam Alexander
 
 - in college: how *little* grades matter.
 radical experimentation,
@@ -419,3 +419,5 @@ I tend to take the view that socializing with people from whom you will gain lit
 
 - Even if you go to an elite school, are you *really* getting much out of the social scene?
 Are the things you're learning in class *really* useful?
+
+- "[To Fall in Love With Anyone, Do This](http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html)" and "[The 36 Questions That Lead to Love](http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html)"
