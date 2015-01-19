@@ -2,12 +2,12 @@
 title: Issa Rice
 description: index
 tags: general
-author: 
+#author: 
 creation-date: 2014-09-13
 last-major-revision-date: 2014-12-19
 license: CC0
 aliases: front page
-...
+---
 
 This is the website of Issa Rice.
 This site stores basic information about myself, but it is also a personal wiki of sorts.
