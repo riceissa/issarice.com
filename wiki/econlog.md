@@ -31,4 +31,8 @@ Note that I don't necessarily agree with what's said in the posts below.
 - [The Case Against News](http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html)
 - [My Life of Appeasement](http://econlog.econlib.org/archives/2014/08/my_life_of_appe_1.html)
 - [A Hardy Weed: How Traditionalists Underestimate Western Civ](http://econlog.econlib.org/archives/2014/06/a_hardy_week_ho.html)
+- [Against Recent Events](http://econlog.econlib.org/archives/2015/01/against_recent.html)
 - [In a Perfect World, I'd Call Myself a Sociologist](http://econlog.econlib.org/archives/2009/06/in_a_perfect_wo.html)
+- [Demagoguery Explained](http://econlog.econlib.org/archives/2014/05/demagoguery_exp.html)
+- [Against Winning](http://econlog.econlib.org/archives/2014/09/against_winning.html)
+- [The Common-Sense Case for Pacifism](http://econlog.econlib.org/archives/2010/04/the_common-sens.html)
