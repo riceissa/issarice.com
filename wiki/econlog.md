@@ -3,7 +3,7 @@ title: EconLog
 #description: none
 author: Issa Rice
 creation-date: 2015-01-16
-last-major-revision-date: 2015-01-16
+last-major-revision-date: 2015-01-20
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
@@ -14,8 +14,8 @@ license: CC-BY
 tags: untagged
 ...
 
-Although I don't really pay attention to politics or know much about economics, I still like [EconLog](http://econlog.econlib.org/) a lot, especially the [posts on there by Bryan Caplan](http://econlog.econlib.org/authorbcaplan.html).
-Here I'll maintain a list of posts I really like on the blog[^also].
+I really like [EconLog](http://econlog.econlib.org/) a lot (mostly the [posts on there by Bryan Caplan](http://econlog.econlib.org/authorbcaplan.html)).
+Here I'll maintain a list of posts I especially like on the blog[^also].
 Note that I don't necessarily agree with what's said in the posts below.
 
 [^also]: Most of the posts here are also referenced in other parts of this site.
