@@ -1,5 +1,5 @@
 ---
-title: Hyperlink
+title: Linking effectively
 #description: none
 author: Issa Rice
 creation-date: 2015-01-03
@@ -12,6 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: writing, content creation
+aliases: hyperlink, hyperlinks, hyperlinking effectively
 ...
 
 # Hyperlinking effectiely
@@ -34,3 +35,4 @@ Things to talk about:
 - email obfuscation in links? (what pandoc does)
 - referrer masking
 - when to use footnotes, when to use links, when to use parentheses
+- From LW boring advice: "Never post a web link that requires a reader to click on it to find out if they want to click on it."
