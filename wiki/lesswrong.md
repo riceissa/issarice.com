@@ -31,6 +31,8 @@ The most obvious way to use LessWrong is as a resource for rationality.
 
 - "[Reason as memetic immune disorder](http://lesswrong.com/lw/18b/reason_as_memetic_immune_disorder/)"
 
+- "[Intellectual Hipsters and Meta-Contrarianism](http://lesswrong.com/lw/2pv/intellectual_hipsters_and_metacontrarianism/)"
+
 - Books are declining in importance compared to material one can find on the internet; see “[Yes, a blog.](http://lesswrong.com/lw/33j/yes_a_blog/)”
 
 <!-- FIXME: maybe insert a guide in here of how to effectively use LW -->
