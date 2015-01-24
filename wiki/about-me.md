@@ -6,7 +6,7 @@ last-major-revision-date: 2014-10-05
 license: CC0
 tags: personal
 aliases: me
-...
+---
 
 *This page is about myself; for information about this website, see [About the site]().*
 
