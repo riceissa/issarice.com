@@ -74,3 +74,46 @@ At the other extreme (i.e. the most depth), we can make a "math packages" contai
 proof  thmtools
 ````
 
+
+See also [a comment by Viliam_Bur](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/ax6q) on [LessWrong](), talking about the [Cognito Mentoring wiki](http://info.cognitomentoring.org/wiki/Main_Page):
+
+
+> Seems to me that your current wiki structure uses too much
+> introductions, too much redirection. For example: On the main page, you
+> have a link to "What we offer and why". Why not put that into the main
+> page? The page "What we offer and why" contains a link to "Learning
+> portal"; the page "Learning portal" contains a link to "Our category on
+> the benefits of learning particular subjects" (and also directly to
+> math, algebra and economics; this part well-done!), and the page
+> "Category:Subject learning benefits" contains a link to e.g. "Chemistry
+> learning benefits". And the "Chemistry learning benefits" contains a
+> text "We're still working on this page, so check back later!" (and a
+> hyperlink to a useful topic). -- Uhm, seriously? It takes *four* clicks
+> to discover the page about to chemistry, only to learn that you have
+> almost nothing about chemistry?
+> 
+> On the other hand, I guess I understand how this all happened. This is a
+> "top down" approach: you create a huge abstract structure where you want
+> to fill the details later. This feels very high-status. But it's
+> optimized for how you feel about it, not for the convenience of the
+> reader. -- I suggest the opposite, "bottom up" approach. You have the
+> valuable pieces of information (for example the external link to quora
+> article about learning chemistry). That's the value you provide, and you
+> want to navigate the reader there as easily as possible. So you build
+> the navigation pages around the content you already have, not around the
+> content you wish you had.
+> 
+> For example, one external hyperlink is not enough to make a separate
+> page about chemistry. You probably have more such links for other
+> subjects, so it makes sense to create a page "Advice about specific
+> subjects", divide it to subjects by headers and subheaders, and put the
+> links there. (In future, when you have more than 10 chemistry-related
+> links, or perhaps if you have 5 chemistry-related links but you also
+> provide a short summary below the link, *then* it's the right time to
+> create a separate "Advice about Chemistry" page.) And your *main page*
+> should link directly to the "Advice about specific subjects" page,
+> because that's one of the main things you provide. There: Just two
+> clicks, and the reader is reading the Quora article. There is the same
+> information there as before, it's just easier to find.
+
+
