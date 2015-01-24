@@ -213,6 +213,22 @@ In fact, something exactly like this happens in fuzzy logic.
 
 [^2]: <https://profiles.google.com/114134834346472219368/buzz/YNHWb5mzEKP>
 
+# Subset analogy
+
+It's possible to think of $p\to q$ as $P \subseteq Q$.
+Indeed, we need only define $P = \{1 : p\}, Q = \{1 : q\}$, so that we have the correspondence:
+
+
+
+ $p$   $q$   $p \to q$       $P$          $Q$       $P \subseteq Q$
+----- ----- -----------  -----------  -----------  -----------------
+  T     T        T         $\{1\}$      $\{1\}$         T
+  T     F        F         $\{1\}$    $\emptyset$       F
+  F     T        T       $\emptyset$    $\{1\}$         T
+  F     F        T       $\emptyset$  $\emptyset$       T
+
+In this sense, the vacuous implication $\mathrm{F}\to q$ for any proposition $q$ becomes the similarly vacuous $\emptyset\subseteq Q$ for any set $Q$; see [Halmos's explanation](#halmos) for the latter.
+
 # Halmos
 
 
