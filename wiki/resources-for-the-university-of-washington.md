@@ -6,7 +6,7 @@ author:
 creation-date: 2014-09-13
 last-major-revision-date: 2014-09-13
 license: CC0
-...
+---
 
 This is a collection of resources for students at the University of Washington and those considering attending there.
 The page also includes some information on college in general.

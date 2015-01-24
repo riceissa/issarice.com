@@ -12,7 +12,7 @@ belief: unlikely, emotional
 license: public domain
 tags: school, lesswrong, self-improvement, high school
 aliases: information-for-high-school-students
-...
+---
 
 # Introduction
 

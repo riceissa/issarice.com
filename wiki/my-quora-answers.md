@@ -1,7 +1,7 @@
 ---
 title: My Quora answers
 tags: quora
-...
+---
 
 My main contributions to Quora are through my questions, but I don't think my answers are especially bad, so here they are.
 

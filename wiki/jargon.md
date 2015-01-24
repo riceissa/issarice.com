@@ -13,7 +13,7 @@ belief: emotional
 license: CC-BY
 tags: writing, content creation
 aliases: define-jargon-early
-...
+---
 
 When writing, it is important to **define jargon early** so you don't waste readers' time.
 This page explains why you should do so, and gives examples of what can go wrong if you don't do so.

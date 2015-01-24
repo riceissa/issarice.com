@@ -12,7 +12,7 @@ belief: likely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: cm
-...
+---
 
 This page describes my relation to [Cognito Mentoring](http://cognitomentoring.org/) (CM), which was an "advising service for intellectually curious students".
 I originally saw the [post on Less Wrong that Jonah Sinick made](http://lesswrong.com/lw/jee/cognito_mentoring_an_advising_service_for/), and emailed CM for the first time on January 1, 2014.

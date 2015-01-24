@@ -2,7 +2,7 @@
 title: The Red Leech
 tags: fiction, literary, school, high school
 date: 2012-09-23
-...
+---
 
 I wrote this at the beginning of junior year of high school.
 It's quite fascinating to read over now, because I find it to be written by someone horribly inexperienced.

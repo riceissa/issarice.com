@@ -9,7 +9,7 @@ status: draft
 license: CC BY
 tags: untagged
 aliases: availability-of-content, openness-and-availability-of-content
-...
+---
 
 This page considers how open one's content should be.
 One definitely shouldn't “fetishize openness”, and ought to always consider to whom what you write will be useful (since if it's useful to no one, then one shouldn't bother publishing it).

@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 I have an [RSS feed](http://issarice.com/feed.xml) for this website where you can get updates (this is probably the best way to get updates, since it includes only the more important changes).
 

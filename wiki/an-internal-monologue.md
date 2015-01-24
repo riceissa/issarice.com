@@ -1,7 +1,7 @@
 ---
 title: An internal monologue
 tags: fiction, literary
-...
+---
 
 I wrote this at the beginning of senior year in English class.
 

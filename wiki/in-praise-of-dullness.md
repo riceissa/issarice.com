@@ -12,7 +12,7 @@ belief: emotional, unlikely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 > "And some books ought to burn, trying for character\
 > but just faking it. More disturbing\

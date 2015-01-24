@@ -3,7 +3,7 @@ title: Some epsilon-delta proofs
 license: CC0
 math: yes
 tags: math
-...
+---
 
 From Salas's *Calculus*, 10th edition, page 104: Chapter 2 review exercise 45.
 Below, the important thing to keep in mind is that we want to use the "piecewise function idea": that if a function can be thought of as a piecewise function, we first want to restrict it to where it is essentially nonpiecewise, and then show that the limit exists there.

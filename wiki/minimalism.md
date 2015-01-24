@@ -12,7 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: minimalism
-...
+---
 
 See [minimalism (computing)](!w) and [simple living](!w) for definitions provided by Wikipedia.
 

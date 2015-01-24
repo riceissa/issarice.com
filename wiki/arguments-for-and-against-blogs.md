@@ -8,7 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
-...
+---
 
 This page considers various arguments for and against blogs.
 

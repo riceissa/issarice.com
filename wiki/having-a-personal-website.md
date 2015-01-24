@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: content creation
-...
+---
 
 This page describes my thoughts on having a personal website.
 Having a personal website is part of [maintaining one's online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence).
