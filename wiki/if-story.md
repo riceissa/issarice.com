@@ -2,7 +2,7 @@
 title: If (story)
 tags: fiction, literary
 aliases: if
-...
+---
 
 # Information
 

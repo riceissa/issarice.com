@@ -12,7 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: quora, content-creation
-...
+---
 
 I have been active on the question-and-answer site [Quora](https://quora.com) since February 2014.
 My main contribution to the site is in the form of questions (I've asked about 2500 questions as of December 2014).

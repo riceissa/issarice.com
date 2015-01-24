@@ -12,6 +12,6 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 FIXME: placeholder

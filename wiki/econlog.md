@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 I really like [EconLog](http://econlog.econlib.org/) a lot (mostly the [posts on there by Bryan Caplan](http://econlog.econlib.org/authorbcaplan.html)).
 Here I'll maintain a list of posts I especially like on the blog[^also].

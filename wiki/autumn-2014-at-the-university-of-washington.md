@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: uw
-...
+---
 
 # Courses
 

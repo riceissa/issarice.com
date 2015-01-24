@@ -12,7 +12,7 @@ status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: pd
 tags: content creation
-...
+---
 
 Note
 :    This page is part of my series on [Content creation: the organization and dissemination of knowledge]().

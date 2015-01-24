@@ -8,7 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
-...
+---
 
 Following Ben Kuhn's advice, I figured it would be a good idea to [document how I communicate](http://www.benkuhn.net/comm).
 I think the following quote illustrates why this sort of thing would be a good idea to have:

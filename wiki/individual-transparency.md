@@ -13,7 +13,7 @@ language: English
 license: CC-BY
 tags: untagged
 aliases: personal-transparency
-...
+---
 
 This page considers **individual transparency** (which is distinct from organizational transparency) both online and offline.
 Individual transparency can lead to things like having [stalkers](stalking) (that one can befriend) and [being harassed](harassment).

@@ -8,7 +8,7 @@ status: draft
 belief: possible
 license: ccby
 tags: university-of-washington, uw honors
-...
+---
 
 This is my (Issa Rice's) UW honors portfolio index.
 

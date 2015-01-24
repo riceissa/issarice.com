@@ -13,7 +13,7 @@ language: English
 license: CC-BY
 tags: untagged
 aliases: oe kenzaburo
-...
+---
 
 Some things to talk about:
 

@@ -12,7 +12,7 @@ belief: fiction
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: fiction, literary
-...
+---
 
 # Story
 

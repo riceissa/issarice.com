@@ -12,7 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 
 This page considers how restrictive one should be about the sharing

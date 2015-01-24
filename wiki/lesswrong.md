@@ -12,7 +12,7 @@ status: draft
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: lesswrong
-...
+---
 
 
 Since about 2007, there has been a growing community---both online and offline---based around the idea of "rationality", i.e. the idea that [one should (1) have beliefs that correspond to reality, and (2) execute actions in the real world so as to achieve one's goals](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/).

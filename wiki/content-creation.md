@@ -11,7 +11,7 @@ status: draft
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 #belief: 
 aliases: content-creation-the-organization-and-dissemination-of-knowledge
-...
+---
 
 This page is about **content creation**.
 Narrowly, it is the act of writing online to spread useful information.

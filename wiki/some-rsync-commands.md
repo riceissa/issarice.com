@@ -8,7 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
-...
+---
 
 For syncing a PDF to my site; use with `uppdf FILENAME`:
 

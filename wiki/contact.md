@@ -13,7 +13,7 @@ belief: possible
 license: CC-BY
 tags: untagged
 aliases: connect
-...
+---
 
 Below are some ways to contact me, as well as the account names I use on various websites.
 Feel free to connect with me through any of the means below.

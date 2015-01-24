@@ -9,7 +9,7 @@ belief: unlikely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: literary, school, uw, uw-honors
-...
+---
 
 Here are all the essays I wrote for admission to the University of
 Washington.

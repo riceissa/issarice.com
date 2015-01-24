@@ -13,7 +13,7 @@ language: English
 license: CC-BY
 tags: writing, content creation
 aliases: hyperlink, hyperlinks, hyperlinking effectively
-...
+---
 
 # Hyperlinking effectiely
 

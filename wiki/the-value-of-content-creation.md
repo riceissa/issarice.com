@@ -8,7 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
-...
+---
 
 Here we consider how much impact writing online can make on the world.
 
