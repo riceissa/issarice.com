@@ -33,7 +33,6 @@ from jinja2 import Template, Environment, FileSystemLoader
 import os
 from datetime import datetime
 import hashlib
-from slugify import slugify_unicode
 
 import commands as c
 from classes import *

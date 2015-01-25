@@ -33,7 +33,6 @@ from datetime import datetime
 import yaml
 from yaml import SafeLoader, BaseLoader
 from jinja2 import Template, Environment, FileSystemLoader
-from slugify import slugify_unicode
 import commands as c
 from tag_ontology import *
 from util import *
