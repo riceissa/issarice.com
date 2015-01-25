@@ -41,12 +41,12 @@ from tag_ontology import *
 
 def clean():
     print("Removing {d}".format(d=SITE_DIR))
-    c.run_command("rm -rf {d}".format(d=SITE_DIR))
+    run_command("rm -rf {d}".format(d=SITE_DIR))
 
 def compile_scss():
     if not os.path.exists(SITE_DIR + "_css/"):
         os.makedirs(SITE_DIR + "_css/")
-    compiled = c.run_command("sass --style compressed css/minimal.scss")
+    compiled = run_command("sass --style compressed css/minimal.scss")
     with open(SITE_DIR + "_css/minimal.css", 'w') as f:
         f.write(compiled)
 
@@ -55,7 +55,7 @@ def copy_files(pattern, destination):
         os.makedirs(destination)
     for f in glob.glob(pattern):
         print("Copying {f} to {to}".format(f=f, to=destination))
-        c.run_command("cp {f} {to}".format(f=f, to=destination))
+        run_command("cp {f} {to}".format(f=f, to=destination))
 
 # Make page for each page
 

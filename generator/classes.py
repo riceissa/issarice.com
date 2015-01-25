@@ -36,55 +36,7 @@ from jinja2 import Template, Environment, FileSystemLoader
 from slugify import slugify_unicode
 import commands as c
 from tag_ontology import *
-
-def to_unicode(string):
-    '''
-    Convert a string, bool, int, float, or unicode to a unicode object.
-    '''
-    if isinstance(string, unicode):
-        return string
-    if type(string) in [bool, float, int, str]:
-        return str(string).decode('utf-8')
-    if isinstance(string, type(None)):
-        return "".decode('utf-8')
-    else:
-        raise TypeError("to_unicode cannot convert something ({s}) that isn't a string, unicode, or bool; type was {t}".format(s=string, t=type(string)))
-
-def to_string(unic):
-    '''
-    Convert a string, bool, or unicode to a string.
-    '''
-    if isinstance(unic, unicode):
-        return unic.encode('utf-8')
-    if type(unic) in [str, int, float, bool]:
-        return str(unic)
-    else:
-        raise TypeError("to_string cannot convert something that isn't a string, unicode, or bool")
-
-def parse_as_list(x, delimiter=','):
-    '''
-    Take a list or string of comma-delimited items, and return a cleaned
-    list.
-    '''
-    if type(x) in [str, unicode]:
-        return [to_unicode(i.strip(" ")) for i in x.split(delimiter)
-            if i != '']
-    elif type(x) is list:
-        return [to_unicode(i) for i in x]
-    else:
-        return []
-
-def slug(s):
-    return slugify_unicode(s, to_lower=True)
-
-def split_path(path):
-    '''
-    Take a path(str) and return a list where each element is one
-    directory.
-    '''
-    # See http://stackoverflow.com/a/15050936/3422337
-    a, b = os.path.split(path)
-    return (split_path(a) if len(a) and len(b) else []) + [b]
+from util import *
 
 class AbsolutePathException(Exception):
     pass
@@ -341,9 +293,9 @@ class Page(object):
         '''
         Compile page with Pandoc and return the string of the output.
         '''
-        ast = json.loads(c.run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path)))
+        ast = json.loads(run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path)))
         return to_unicode(
-            c.run_command(
+            run_command(
                 "pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py",
                 pipe_in=json.dumps(ast, separators=(',',':'))
             )
