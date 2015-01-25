@@ -29,6 +29,8 @@
 
 import subprocess
 import shlex
+from slugify import slugify_unicode
+import os
 
 def run_command(command, pipe_in=''):
     '''
