@@ -81,3 +81,13 @@ $$
         + 
     \right)
 $$
+
+links:
+
+- <http://marginalrevolution.com/marginalrevolution/2012/11/a-bet-is-a-tax-on-bullshit.html>
+- <http://mason.gmu.edu/~rhanson/futarchy.html>
+- <https://en.wikipedia.org/wiki/Odds#Gambling_usage>
+- <http://noahpinionblog.blogspot.com/2012/07/dinner-at-zacharys.html>
+- <http://www.texample.net/tikz/examples/probability-tree/>
+- <http://noahpinionblog.blogspot.com/2013/05/bets-do-not-necessarily-reveal-beliefs.html>
+- <http://econlog.econlib.org/archives/2013/05/keynesian_bets_1.html>
