@@ -302,3 +302,9 @@ See [here](https://github.com/sigurdga/gnome-terminal-colors-solarized)
 and [here](http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html)
 for getting Solarized to work with Gnome Terminal.
 also cf. [this post](http://www.terminally-incoherent.com/blog/2013/12/30/tools-you-need/)
+
+Updating Flash player (Debian):
+
+```
+sudo update-flashplugin-nonfree --install
+```
