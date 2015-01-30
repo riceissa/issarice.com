@@ -12,8 +12,8 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: writing, content creation
-aliases: hyperlink, hyperlinks, hyperlinking effectively
-...
+aliases: hyperlink, hyperlinks, hyperlinking effectively, effective linking
+---
 
 # Hyperlinking effectiely
 

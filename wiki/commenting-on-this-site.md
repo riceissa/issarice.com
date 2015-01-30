@@ -12,7 +12,7 @@ status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: site-info
-...
+---
 
 Currently this site does not have native comments.
 If you'd like to give me feedback (which I would really appreciate), just [contact]() me directly.

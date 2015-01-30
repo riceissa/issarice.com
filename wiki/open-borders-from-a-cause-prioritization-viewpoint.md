@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: cause prioritization, open borders
-...
+---
 
 ---The headings will probably be removed in the final iteration.
 

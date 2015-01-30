@@ -12,7 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 I began attending the University of Washington (UW) starting in autumn 2014.
 I intend to major in computer science.

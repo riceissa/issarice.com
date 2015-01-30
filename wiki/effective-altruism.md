@@ -12,7 +12,7 @@ status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: ea
-...
+---
 
 # Introduction
 

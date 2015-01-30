@@ -1,7 +1,7 @@
 ---
 title: Debian installation notes
 tags: linux, debian
-...
+---
 
 We start from a base system.
 

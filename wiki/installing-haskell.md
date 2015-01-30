@@ -5,7 +5,7 @@ tags: debian, haskell, linux
 creation-date: 2014-09-14
 last-major-revision-date: 2014-09-14
 license: CC0
-...
+---
 
 - [Chris Done](http://chrisdone.com/) pointed me to [this page](https://github.com/bitemyapp/learnhaskell#debian)
 - to get cabal, use [this](https://www.haskell.org/cabal/download.html).

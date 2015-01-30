@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: facebook, social
-...
+---
 
 I use **[Facebook](https://www.facebook.com/)** regularly; [connect with me](about-me#social) on Facebook.
 See "[Using Facebook effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)" on the Cognito Mentoring wiki.

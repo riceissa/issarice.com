@@ -12,7 +12,7 @@ status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 Since about the beginning of October 2014, I have been interested in cause prioritization.
 In November 2014 I started the [Cause Prioritization Wiki](http://causeprioritization.org/), an informational site about cause prioritization.

@@ -2,7 +2,7 @@
 title: The spider
 tags: fiction, literary
 date: 2013-02-01
-...
+---
 
 
 The fear of waking in the morning caused the man to sit awake in his

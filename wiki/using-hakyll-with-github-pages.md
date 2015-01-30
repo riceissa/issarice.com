@@ -7,7 +7,7 @@ math: ""
 last-major-revision-date: 2014-08-28
 license: "CC-BY"
 tags: haskell, hakyll, github, linux
-...
+---
 
 - Hakyll doesn't seem to work well with Debian stable (Wheezy) since cabal and everything else (including pandoc) is out of date.  I had success upgrading to Debian unstable (sid).
 - Installed pandoc using Debian repositories, but did `cabal install hakyll` for obtaining Hakyll itself.

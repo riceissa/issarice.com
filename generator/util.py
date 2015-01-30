@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2014, Issa Rice
+# Copyright (c) 2015, Issa Rice
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -29,6 +29,8 @@
 
 import subprocess
 import shlex
+from slugify import slugify_unicode
+import os
 
 def run_command(command, pipe_in=''):
     '''
@@ -71,7 +73,51 @@ def run_command(command, pipe_in=''):
             print(stderr)
         return stdout
 
-def write_to_filepath(contents, filepath):
-    with open(filepath, 'w') as f:
-        f.write(contents)
+def to_unicode(string):
+    '''
+    Convert a string, bool, int, float, or unicode to a unicode object.
+    '''
+    if isinstance(string, unicode):
+        return string
+    if type(string) in [bool, float, int, str]:
+        return str(string).decode('utf-8')
+    if isinstance(string, type(None)):
+        return "".decode('utf-8')
+    else:
+        raise TypeError("to_unicode cannot convert something ({s}) that isn't a string, unicode, or bool; type was {t}".format(s=string, t=type(string)))
 
+def to_string(unic):
+    '''
+    Convert a string, bool, or unicode to a string.
+    '''
+    if isinstance(unic, unicode):
+        return unic.encode('utf-8')
+    if type(unic) in [str, int, float, bool]:
+        return str(unic)
+    else:
+        raise TypeError("to_string cannot convert something that isn't a string, unicode, or bool")
+
+def parse_as_list(x, delimiter=','):
+    '''
+    Take a list or string of comma-delimited items, and return a cleaned
+    list.
+    '''
+    if type(x) in [str, unicode]:
+        return [to_unicode(i.strip(" ")) for i in x.split(delimiter)
+            if i != '']
+    elif type(x) is list:
+        return [to_unicode(i) for i in x]
+    else:
+        return []
+
+def slug(s):
+    return slugify_unicode(s, to_lower=True)
+
+def split_path(path):
+    '''
+    Take a path(str) and return a list where each element is one
+    directory.
+    '''
+    # See http://stackoverflow.com/a/15050936/3422337
+    a, b = os.path.split(path)
+    return (split_path(a) if len(a) and len(b) else []) + [b]

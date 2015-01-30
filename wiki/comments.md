@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: content creation, comments
-...
+---
 
 I've been interested in commenting systems, comment [spam in blogs](!w), and whether it's a good idea to have comments on this site.
 [I once asked on Facebook](https://www.facebook.com/riceissa/posts/1477764832502469):

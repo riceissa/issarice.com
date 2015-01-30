@@ -13,7 +13,7 @@ status: notes
 license: CC-BY
 tags: linux, debian, computing, font, tinkering, aesthetics
 math: yes
-...
+---
 
 This is for Linux.
 (I am using Debian GNU/Linux, but should work on other distros as well.)

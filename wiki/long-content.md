@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 **[Long Content](http://www.gwern.net/About#long-content)** is a style of [content creation]() where one has "perpetual drafts" that one improves over time.
 This is in contrast to a style where one publishes once and in the long term does not come back to edit/maintain the content.

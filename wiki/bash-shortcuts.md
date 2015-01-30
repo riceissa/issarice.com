@@ -5,7 +5,7 @@ tags: linux
 # This page is at least as old as the following date.  I don't know if I can find the original date on which I began this document.
 creation-date: 2011-08-23
 last-major-revision-date: 2015-01-02
-...
+---
 
 Here are some useful shortcuts when you're working in Bash.
 Shortcuts are categorised by use.

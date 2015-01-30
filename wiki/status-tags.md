@@ -13,7 +13,7 @@ belief: possible
 license: CC-BY
 tags: site-info
 aliases: status-tag
-...
+---
 
 I am taking the idea of status tags from gwern.
 Here is his original explanation, though my use (explained below) differs slightly.

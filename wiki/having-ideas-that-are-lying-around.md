@@ -12,7 +12,7 @@ belief: unlikely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: content creation
-...
+---
 
 > There is enormous inertia---a tyranny of the status quo---in private and especially governmental arrangements.
 Only a crisis---actual or perceived---produces real change.

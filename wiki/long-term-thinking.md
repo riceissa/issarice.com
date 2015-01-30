@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-...
+---
 
 I'm a big fan of **long-term thinking**; after all, I'm very interested in anti-aging, [long content](), [durable link]()s, and so on.
 I think Peter Thiel nailed it with these quotes:

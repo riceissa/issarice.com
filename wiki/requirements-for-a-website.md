@@ -12,7 +12,7 @@ language: English
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
 tags: untagged
-...
+---
 
 What makes a good website, especially one that lasts a long time?
 gwern has some ideas, namely his twin ideas of [Long Site](http://www.gwern.net/About#long-site) and [Long Content]().

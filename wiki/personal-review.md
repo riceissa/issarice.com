@@ -12,7 +12,7 @@ status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: introspection, self-improvement, qs
-...
+---
 
 It seems fairly common among the rationalist/effective altruist crowd to post recurring **personal reviews** detailing what they've accomplished since the last review.
 For instance:
