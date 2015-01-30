@@ -10,13 +10,14 @@ status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
+license: public domain
 tags: quora
 #aliases: 
 ---
 
 Quora-style questions (I'm posting here because Quora has become less accepting of certain types of questions).
 In general questions with variables in them or with items delimited by a slash ("/") are supposed to be question schemas; i.e. they are supposed to be separate questions.
+See also [my answer](https://www.quora.com/What-are-some-good-questions-that-could-be-asked-on-Quora-for-any-animal-species/answer/Issa-Rice) to "What are some good questions that could be asked on Quora for any animal species?" for more question schemas.
 
 - What does X think of calorie restriction?
 - What does X think of Roy Baumester's essay "Is there anything good about men?"
@@ -78,3 +79,24 @@ In general questions with variables in them or with items delimited by a slash (
 - What is it like to be a relationship anarchist?
 - What is it like to come to terms with one's own lack of dating prospects?
 - How many total marriages has OKCupid/Coffee Meets Bagel/Tinder/Plenty of Fish/etc. led to (individually)?
+- How true is the quote "Don't stress too much trying to remember a lost thought; if it's really important, you'll think of it again anyway"?
+- What is it like to read a book in class that you've already read?
+- What are the potential negative health effects of almonds?
+- Do college students ever boast about how much/little they spend on textbooks?
+- Does lack of sexual activity in young males lead to increased productivity if they can channel the sexual energy into something more fruitful?
+- How do people choose how round the frames of their glasses are?
+- What surprising things have you noticed while wearing blue-blockers?
+- What surprising things have you noticed while carrying a UV meter?
+- What is it like to be the person everybody rumors about?
+- How rigorous is the idea of the "attention economy/scarcity"?
+- How can medium (10--20 people) in-person discussions be made to be more grounded in verifiable facts?
+- Why has the main [effective altruism website](http://www.effectivealtruism.org/)<!--(https://archive.today/sC5A8)--> chosen to become yet another "flashy" website?
+- How reliable of a world-view can you get *just* by looking at what other people believe, instead of looking at the object-level?
+- Are most people's lives Ponzi schemes?
+- What can you learn by looking at the "like" count of various articles and/or the same article but shared by different people?
+- What are some reasons one becomes very hungry late at night but not at all during the day?
+- Should people living in places with a hotter climate eat more?
+- Why does the mobile GitHub app not support editing of files, and will this feature come in the future?
+- What are some things you can learn by observing sliverfish/ladybugs/spiders?
+- Bestiality: what is it like to have intercourse with/rape/be raped by/engage in sodomy with/have group sex with X? (where X is an animal species)
+- Why does my Quora view count drop significantly if I don't post any questions for that interval? (i.e. the questions seem to be poorly distributed, or Quora isn't really producing "[long content]()")
