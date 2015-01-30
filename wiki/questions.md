@@ -11,9 +11,12 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: quora
 #aliases: 
 ---
+
+Quora-style questions (I'm posting here because Quora has become less accepting of certain types of questions).
+In general questions with variables in them or with items delimited by a slash ("/") are supposed to be question schemas; i.e. they are supposed to be separate questions.
 
 - What does X think of calorie restriction?
 - What does X think of Roy Baumester's essay "Is there anything good about men?"
@@ -21,4 +24,57 @@ tags: untagged
 - What is the relationship between success and dating prospects in the modern world?
 - What is it like to only eat a single meal per day for extended periods of one's life, even though one can afford to eat more?
 - What are some traits that reliably predict whether someone prefers synchronous or asynchronous communication?
-- 
+- What is it like to place a work order in your dorm at the University of Washington?
+- What is it like to take math 135 at the University of Washington?
+- What is it like to take math 136 at the University of Washington?
+- What is it like to prove Abel's theorem for series?
+- What is it like to drive while on marijuana/LSD/psilocybin?
+- What is it like to clean your room while on marijuana/LSD/psilocybin?
+- What is it like to prove theorems while on marijuana/LSD/psilocybin?
+- What is it like to argue with your parents about the use of recreational drugs while on marijuana/LSD/psilocybin?
+- What is it like to undress while on marijuana/LSD/psilocybin?
+- What is it like to redress while on marijuana/LSD/psilocybin?
+- What is it like to engage in a physical fight while on marijuana/LSD/psilocybin?
+- What is it like to eat at a fancy restaurant while on marijuana/LSD/psilocybin?
+- What is it like to post on Facebook/Quora while on marijuana/LSD/psilocybin?
+- What is it like to go running while on marijuana/LSD/psilocybin?
+- What is it like to read Rudin's Principles of Mathematical Analysis for fun?
+- What is it like to read Spivak's Calculus for fun?
+- What does X think of the singularity/Peter Thiel/Elon Musk/Mark Zuckerberg/Jeff Bezos/Python/Haskell/Bryan Caplan/Econlog/programming contests/life extension/the [quote](https://www.quora.com/I-am-already-a-CS-undergrad-but-I-want-to-be-like-Brian-Bi-what-should-I-do-and-how-should-I-study/answer/Brian-Bi?share=1) "Success is like being pregnant; everyone congratulates you but no one knows how many times you got fucked"?
+- What are some mental tricks to get you to viscerally start caring about what's important instead of what seems to be important?
+- What are the main arguments against radical life extension?
+- What is it like to program on a tablet?
+- What is the best way to set up a development environment on a tablet?
+- Why is Amazon known for being such a harsh working environment?
+- What is it like to watch the Superbowl at the University of Washington when the Seahawks are playing?
+- What is the ideal data structure for storing conversations between two individuals/small groups/large groups?
+- Why does it seem like in-person discussions are so inefficient compared to online discussions?
+- What are some tips for getting out of a cycle of checking one's various news feeds?
+- What is it like to be content with idleness?
+- What are some examples of where a documentary is much more useful than a book? (and conversely)
+- How can one set up a caching system to archive the web on one's own web server? (like archive.today)
+- How can I remember better to more frequently drink water?
+- How plausible is the rectangularization of the mortality curve in the near future?
+- What is it like to be called a "rising superstar" in a field?
+- What is it like to *always* run because one believes walking is irrational/inefficient?
+- What are some simple ways to become less dependent on Google/Facebook/Quora?
+- What is it like to have dinner with Scott Alexander of Slate Star Codex?
+- How did Scott Alexander choose "Yvain" for his LessWrong username, and how is it pronounced?
+- Is it better to keep my compost container sealed off or open?
+- Are there any potential problems of breathing while in close proximity to mold?
+- Are there any studies that show the efficacy of to-do lists?
+- What is the final say on whether goal-setting works?
+- What are the most rigorous treatments of yoga/meditation/mindfulness?
+- What is it like to walk around on the University of Washington campus at night?
+- What are the best places to get food with your University of Washington husky card meal plan?
+- What is it like to be extremely thin except for a single part of your body?
+- Does being on good terms with your ex make a breakup easier faster?
+- What are all the publicly available datasets on dating/romance information?
+- What are all the publicly available datasets on SAT/ACT/GRE-type tests?
+- Do exceptional Vim users often edit with the fewest keystrokes possible, or do they use the "most obvious" approach?
+- How are text-editing efficiency and computational efficiency related?
+- What is it like to have a gay father with a vagina?
+- What is it like to have a lesbian mother with a penis?
+- What is it like to be a relationship anarchist?
+- What is it like to come to terms with one's own lack of dating prospects?
+- How many total marriages has OKCupid/Coffee Meets Bagel/Tinder/Plenty of Fish/etc. led to (individually)?
