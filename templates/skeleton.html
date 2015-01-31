@@ -24,7 +24,7 @@
       - http://blog.javierusobiaga.com/stop-using-the-viewport-tag-until-you-know-ho
   -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="{{ css }}" />
+  <link rel="stylesheet" type="text/css" href="{{ path }}_css/minimal.css" />
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
   <title>{{ page.title }} | Issa Rice</title>
   {% if page.math|lower in ["yes", "true"] %}
@@ -75,9 +75,9 @@
 
 <hr />
 {% if page.license == "CC0" %}
-<p><a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is in the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.</p>
+<p><a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="{{ path }}cc_public_domain.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is in the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.</p>
 {% elif page.license == "CC-BY" %}
-<p><a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+<p><a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ path }}cc_by.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 {% elif page.license == "CC-BY-SA" %}
 <p><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 {% else %}

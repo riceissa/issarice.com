@@ -329,9 +329,6 @@ class Page(object):
                 ],
                 key = lambda t: t['name'].lower(),
             ),
-            # Calculate where the css file will be located relative to the
-            # current file's (eventual) location
-            css = Filepath("_css/minimal.css").relative_to(Filepath(self.base())).path,
             source = to_unicode(self.origin.path),
             path = "./",
         )

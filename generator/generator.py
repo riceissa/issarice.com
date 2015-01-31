@@ -242,7 +242,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     if args.files is not None:
         for p in args.files:
-            create_page(p)
+            create_single_page(p)
     else:
         # So build the whole site
         clean()
