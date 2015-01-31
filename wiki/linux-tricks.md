@@ -308,3 +308,8 @@ Updating Flash player (Debian):
 ```
 sudo update-flashplugin-nonfree --install
 ```
+
+# Fixing permissions
+
+- Reinstall packages (e.g. lightdm) to get fresh copies of certain configs
+- see <http://stackoverflow.com/questions/21716426/cant-apt-get-remove-or-apt-get-install-fopen-permission-denied> also
