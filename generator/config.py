@@ -1,6 +1,4 @@
-
-# THIS CONFIG FILE IS CURRENTLY NOT IN USE; IT'S BEING WRITTEN NOW FOR
-# THE FUTURE.
+# PUBLIC DOMAIN
 
 # All the configuration variables for the static site generator.  The
 # idea is that the user need only modify this file to suit their own
@@ -30,6 +28,6 @@ PRE_STATIC_DIRECTORY = "static/"
 SITE_STATIC_DIRECTORY = "_static/"
 
 # Pages that are automatically generated
-ALL_PAGES_PAGE_LOCAtion = "_all"
+ALL_PAGES_PAGE_LOCATION = "_all"
 SITEMAP_LOCATION = "sitemap.xml"
 RSS_FEED_LOCATION = "feed.xml"
