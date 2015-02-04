@@ -1,6 +1,6 @@
 ---
-title: Installing Haskell (on Debian)
-description: steps for installing the lastest version of Haskell on Debian Stable
+title: Installing Haskell
+description: steps for installing the lastest version of Haskell on Debian stable or any compatible system
 tags: debian, haskell, linux
 creation-date: 2014-09-14
 last-major-revision-date: 2014-09-14
@@ -33,7 +33,6 @@ cabal update && cabal install cabal cabal-install alex happy
 Doing
 
 ```bash
-# this is a test
 cabal update
 cabal install --force pandoc pandoc-citeproc
 ```

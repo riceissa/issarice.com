@@ -17,6 +17,10 @@ aliases: playing-with-pandoc
 Another example: I [use Pandoc for this site](http://issarice.com/about-the-site#colophon) to convert from my markdown source documents to the HTML on the actual site.
 With some creativity, one can use Pandoc to do accomplish some neat tasks.
 
+# Installing
+
+See my page on [installing Haskell]() for more information.
+
 # Going from markdown to HTML
 
 To give a concrete example of going from markdown to HTML (besides the case of creating this site, as stated above), one might want to [compose an email in markdown and send it in HTML](https://www.quora.com/How-can-I-write-messages-in-Gmail-using-Markdown); how can this be done efficiently?

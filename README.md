@@ -5,6 +5,7 @@ This repository hosts the files needed to compile my website,
 markdown files using a custom static site generator stored in the
 directory `generator` (`generator.py` is the main file).  Assuming one
 has the prerequisites to compile the site (Python,
+Pandoc 1.13,
 [Jinja2](http://jinja.pocoo.org/),
 [pandocfilers](https://github.com/jgm/pandocfilters/),
 [SASS](http://sass-lang.com/),

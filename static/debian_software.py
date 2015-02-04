@@ -18,6 +18,8 @@ programs = [
 "vim",
 "vim-gtk", # for gundo, which requires python
 "python3",
+"python-pip",
+"python-dev", # for website
 "htop",
 "pandoc",
 "elinks",
@@ -27,6 +29,7 @@ programs = [
 #"lynx-cur",
 
 "python-gpgme", # for Dropbox
+"ruby-sass", # for website
 
 # More advanced utilities:
 "surfraw",
