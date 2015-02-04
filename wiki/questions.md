@@ -107,4 +107,4 @@ See also [my answer](https://www.quora.com/What-are-some-good-questions-that-cou
 - What do Caltech students think of The Tech?
 - What do UChicago students think of the Chicago Maroon?
 - What do University of Washington students think of the The Daily?
-
+- What are the best questions to ask someone who is waiting with you at the bus stop?
