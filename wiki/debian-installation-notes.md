@@ -91,3 +91,18 @@ findAllPagesWith() {
 
 alias fp=findAllPagesWith
 ```
+
+# Website compilation
+
+- get all the prerequisites; just install `python-pip` and then do
+
+```
+pip install --user jinja2
+pip install --user pyyaml
+pip install --user pandocfilters
+pip install --user awesome-slugify
+sudo aptitude install ruby-sass
+```
+
+which should take care of most problems.
+Make sure you have the latest Pandoc version (at least 1.13) though.
