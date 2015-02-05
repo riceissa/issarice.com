@@ -56,6 +56,7 @@ See also [my answer](https://www.quora.com/What-are-some-good-questions-that-cou
 - How can one set up a caching system to archive the web on one's own web server? (like archive.today)
 - How can I remember better to more frequently drink water?
 - How plausible is the rectangularization of the mortality curve in the near future?
+- Does the rectangularization of the mortality curve imply that old people will be less of a burden? (i.e. if the mortality curve just widened, then there would still be many old people to take care of, but a steep curve would mean less time for people to be sick before they die---?)
 - What is it like to be called a "rising superstar" in a field?
 - What is it like to *always* run because one believes walking is irrational/inefficient?
 - What are some simple ways to become less dependent on Google/Facebook/Quora?
