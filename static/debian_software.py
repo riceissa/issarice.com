@@ -101,6 +101,7 @@ r"g\+\+",
 
 #"bsdgames",
 
+# note you might have to install the oxygen theme for this to work
 "okular", # essentially the best PDF viewer, even if it drags in all the KDE dependencies...
 
 
