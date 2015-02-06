@@ -101,6 +101,8 @@ r"g\+\+",
 
 #"bsdgames",
 
+"okular", # essentially the best PDF viewer, even if it drags in all the KDE dependencies...
+
 
 # Openbox
 #"xorg",
