@@ -53,3 +53,7 @@ Some more thoughts:
 - I like to keep up a "rolling release" model for this site, so that all my latest ideas are available for people to read
 - Having everything online means I can easily link to some page---say, if a relevant discussion comes up
 - I am always conscious of [content availability]() when I write.
+
+[This quote](http://openborders.info/blog/skeptics-movement-open-borders-mistrust-authority/) by Fabio Rojas:
+
+> For Open Borders, I suggest the following. There are incidents that can erode the public’s views on migration restrictions and they can be useful, but do not expect them to transform the movement. Instead, use them as short term opportunities to build a movement. Use them to bring people together who might not otherwise interact. They can also be used to gather the resources needed for more systematic action. When incidents occur, Open Borders advocates may provide the intellectual heft that can be used to bolster and support a sustained reform effort in specific places.
