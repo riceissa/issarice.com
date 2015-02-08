@@ -109,3 +109,12 @@ See also [my answer](https://www.quora.com/What-are-some-good-questions-that-cou
 - What do UChicago students think of the Chicago Maroon?
 - What do University of Washington students think of the The Daily?
 - What are the best questions to ask someone who is waiting with you at the bus stop?
+- How often do people mistake the views of Bryan Caplan with those of Paul Graham, and conversely?
+- What does Bryan Caplan think of overpopulation?
+- What are the best sites on anti-aging?
+- Which student webpages on http://students.washington.edu actually have content?
+- What are the best websites of grad students?
+- What are the best websites of undergrad students?
+- Which universities allow students to have their webpages?
+- What are the most creative things to do with your UW student website (on http://students.washington.edu)?
+- Is it less egoistic to write a Quora answer than to write a webpage answering the same question?
