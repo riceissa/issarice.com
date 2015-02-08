@@ -12,13 +12,17 @@ aliases: about-this-site, site
 
 # Philosophy
 
-This site is my attempt to realize gwern's idea of [Long Content]().[^pess]
-In particular, I strive to make all the pages' source human-readable (by writing pages in [Pandoc](http://johnmacfarlane.net/pandoc/) markdown), version-controlled (with git), and freely-licensed (all pages are at least CC-BY, with some in the public domain[^copy]; the [software used to make this site](#colophon) is all free software).
+This site is my attempt to realize [gwern](http://gwern.net)’s idea of [Long Content]()---i.e. the goal is to incrementally update the pages so as to produce useful, lasting content.[^cy]
+In particular, I strive to make all the source files used to produce this site human-readable (by writing pages in [Pandoc](http://johnmacfarlane.net/pandoc/) markdown), version-controlled (with git), and freely-licensed (all pages are at least CC-BY, with some in the public domain[^copy]; the [software used to make this site](#colophon) is all free software).
 I also like to [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often); I actually don't deploy the site as often, but I try to commit to the git repository often---so my site is the result of many incremental updates.
 
-[^pess]: Of course, more pessimistically, [one could quote Scott Alexander](https://web.archive.org/web/20130118212124/http://raikoth.net/) about the reason many people have personal websites:
+[^cy]: Of course, more cynically, [one could quote Scott Alexander](https://web.archive.org/web/20130118212124/http://raikoth.net/) about the reason many people have personal websites:
 
     > You know how if you're under the age of thirty you have to have a personal webpage with your name, your photo, your resume, and then a link to your blog or something like that?
+    >
+    > Well, this is mine. Plus a little extra.
+
+    In this case, this site would just be my attempt to "be cool", instead of serving useful content.
 
 [^copy]: So content will be copied, making the data safe.
 
@@ -33,7 +37,7 @@ Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdo
 For each page that was manually written, the source markdown file can be accessed by clicking “page source” at the top of that page.
 The markdown files are then compiled to HTML using a static site generator I wrote, which is stored in [`generator.py`](https://github.com/riceissa/riceissa.com/blob/master/generator.py) in the repository[^ssglist].
 
-The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/master/css/minimal.scss) is written using [SASS](http://sass-lang.com/), then is compiled to CSS.
+The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/master/css/minimal.scss) is written in [SASS](http://sass-lang.com/) and compiled to CSS.
 It uses [Ethan Schoonover](http://ethanschoonover.com/)’s light [solarized theme](http://ethanschoonover.com/solarized) as well as small ideas from various places like [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s (old) documentation pages.
 
 All of the source files necessary to build this site are hosted on GitHub.
