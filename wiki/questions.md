@@ -118,3 +118,18 @@ See also [my answer](https://www.quora.com/What-are-some-good-questions-that-cou
 - Which universities allow students to have their webpages?
 - What are the most creative things to do with your UW student website (on http://students.washington.edu)?
 - Is it less egoistic to write a Quora answer than to write a webpage answering the same question?
+- Where can I find rigorous research on the potential differences in the cognitive abilities of different ethnicities?
+- Where can I find a comprehensive overview of the sheepskin effect?
+- How can one depend less on cloud computing?
+- What are all the major arguments against life extension?
+- What are all the major arguments for/against seasteading?
+- Why are some ideologies more likely to try to form separate societies (e.g. Mormonism, libertarianism)?
+- What would an effective altruist missionary look like?
+- Does Quora satisfy a real human need?
+- What benefits have you noticed from dressing well?
+- Why do some people not like Michael Ellsberg?
+- What does Michael Ellsberg think of life extension?
+- What does Bryan Caplan think of life extension?
+- Why do many libertarians seem to like Gilmore Girls?
+- What should I do if I feel dizzy from eating too much sugar?
+- What are the ethnicities of the top-achieving people in various fields of academia?
