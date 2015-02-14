@@ -133,3 +133,10 @@ See also [my answer](https://www.quora.com/What-are-some-good-questions-that-cou
 - Why do many libertarians seem to like Gilmore Girls?
 - What should I do if I feel dizzy from eating too much sugar?
 - What are the ethnicities of the top-achieving people in various fields of academia?
+- How common is it to receive The Little Prince as a gift?
+- How common is it for smartphones to have a tracking device?
+- How common is it for now laptops to have a tracking device?
+- How common is it for used laptops to have a tracking device? (e.g. it might be the case that old laptops have fewer, but then the old owners/the used computer store placed these devices)
+- What is the most exciting research going on at Facebook?
+- Will Facebook disrupt academic social science research?
+- Has anyone actually found laptop cameras that record even while the computer is off?
