@@ -48,7 +48,7 @@ I don’t use Twitter very often, and when I do it’s mostly to read what other
 - I am [riceissa](http://lesswrong.com/user/riceissa/overview/) on [Less Wrong](http://lesswrong.com/).
 - I am [riceissa](http://effective-altruism.com/user/riceissa/) on the [Effective Altruism Forum](http://effective-altruism.com/).
 - I have a profile on the [Effective Altruism Hub](http://effectivealtruismhub.com/) [here](http://effectivealtruismhub.com/user/riceissa).
-- I have a Gratipay profile [here](https://gratipay.com/riceissa/).
+- I have a Gratipay profile [here](https://gratipay.com/riceissa/) (which I currently use experimentally, and which is framed in terms of my effective altruism activities, i.e. content creation on this site and on the [Cause Prioritization Wiki](http://causeprioritization.org)).
 
 # Programming
 
