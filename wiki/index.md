@@ -22,5 +22,4 @@ I also maintain the [Cause Prioritization Wiki](http://causeprioritization.org).
 - [Notes on computing](_tags/computing) (Linux, programming, etc.)
 - [Notes on math](_tags/math)
 - [Quora](): [My Quora answers]()
-- I also have [a sample of my literary creations available on here](_tags/literary); these should not be taken [too seriously](http://www.gwern.net/Mistakes#fiction).
 - One can also view a list of [all tags used on this site](_tags/index) and a list of [all pages on this site](_all).
