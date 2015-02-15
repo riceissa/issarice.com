@@ -140,3 +140,4 @@ See also [my answer](https://www.quora.com/What-are-some-good-questions-that-cou
 - What is the most exciting research going on at Facebook?
 - Will Facebook disrupt academic social science research?
 - Has anyone actually found laptop cameras that record even while the computer is off?
+- Why isn't Quora accepting of questions about bestiality?
