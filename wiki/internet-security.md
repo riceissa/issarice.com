@@ -19,3 +19,4 @@ tags: untagged
 - <http://security.stackexchange.com/questions/1525/is-visiting-https-websites-on-a-public-hotspot-secure>
 - <http://security.stackexchange.com/questions/1537/access-to-a-routers-gui>
 - <http://security.stackexchange.com/questions/53596/how-safe-is-ssl>
+- <http://security.stackexchange.com/questions/37768/possible-to-safely-send-money-via-paypal-on-public-wifi-networks>
