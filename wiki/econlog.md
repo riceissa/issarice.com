@@ -36,3 +36,4 @@ Note that I don't necessarily agree with what's said in the posts below.
 - [Demagoguery Explained](http://econlog.econlib.org/archives/2014/05/demagoguery_exp.html)
 - [Against Winning](http://econlog.econlib.org/archives/2014/09/against_winning.html)
 - [The Common-Sense Case for Pacifism](http://econlog.econlib.org/archives/2010/04/the_common-sens.html)
+- [How I Love Education](http://econlog.econlib.org/archives/2012/07/how_i_love_educ.html)
