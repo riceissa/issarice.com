@@ -35,7 +35,7 @@ I also don't mind if you ask questions about me on Quora, though recently Quora 
 My Quora profile is [here](https://www.quora.com/Issa-Rice).
 - My [Facebook]() profile is [here](https://www.facebook.com/riceissa).
 I check Facebook regularly throughout the day.
-I generally accept all friend requests that don’t appear to be spam; having a [decent profile photograph](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively#Profile_photograph) or at least one mutual friend will let me know that your profile is genuine.
+I generally accept all friend requests that don’t appear to be spam; having at least one mutual friend or messaging me simultaneously with your friend request will let me know that your profile is genuine.
 - My [LinkedIn](https://www.linkedin.com/) profile is [here](https://www.linkedin.com/profile/view?id=352995114).
 I don’t use LinkedIn very much, but feel free to connect with me.
 - I have an [OkCupid](http://www.okcupid.com/) profile [here](http://www.okcupid.com/profile/riceissa) that has fairly extensive information about me (though a lot of it is identical to my self-description above).
