@@ -28,6 +28,15 @@
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
   <title>{{ page.title }} | Issa Rice</title>
   {% if page.math|lower in ["yes", "true"] %}
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        "HTML-CSS": {
+          // TeX font has better spacing on Linux browsers
+          availableFonts: ["TeX"],
+          preferredFont: "TeX"
+        }
+      });
+    </script>
     <script type="text/javascript"
       src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
