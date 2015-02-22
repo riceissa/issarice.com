@@ -16,7 +16,8 @@ tags: ea
 
 # Introduction
 
-[Effective altruism](https://en.wikipedia.org/wiki/Effective_altruism) (EA) is "a philosophy and social movement which applies evidence and reason to determining the most effective ways to improve the world".
+[**Effective altruism**](https://en.wikipedia.org/wiki/Effective_altruism) (EA) is "a philosophy and social movement which applies evidence and reason to determining the most effective ways to improve the world".
+My favorite essays on the movement are: “[On Caring](http://lesswrong.com/lw/l30/on_caring/)”, “[Effective Altruism is a Question (not an ideology)](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/)”, and “[Efficient Charity: Do Unto Others...](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/)”; if you are new to effective altruism I recommend that you start with these.
 
 Below, I describe my personal involvement with EA.
 

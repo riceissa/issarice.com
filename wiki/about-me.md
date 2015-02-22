@@ -12,9 +12,12 @@ aliases: me
 
 # Self-introduction
 
-I am highly introverted (INTP on the [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator); see “[On Types of Typologies](http://slatestarcodex.com/2014/05/27/on-types-of-typologies/)” for more) and curious about a wide array of things, including [effective altruism]()[^ea]  and rationality ([LessWrong](http://lesswrong.com), [Slate Star Codex](http://slatestarcodex.com/)).
+I am highly introverted[^mbti] and curious about a wide array of things, including [effective altruism]() and rationality (mostly [LessWrong]()).
 
-[^ea]: My favorite essays on the movement are: “[On Caring](http://lesswrong.com/lw/l30/on_caring/)”, “[Effective Altruism is a Question (not an ideology)](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/)”, and “[Efficient Charity: Do Unto Others...](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/)”; if you are new to effective altruism I recommend that you start with these.
+[^mbti]:
+In case you're curious, I am an INTP on the [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator).
+The MBTI is often mocked as “unscientific”, but I think it can be quite useful; see “[On Types of Typologies](http://slatestarcodex.com/2014/05/27/on-types-of-typologies/)” for more.
+
 
 I’m passionate about spending time on the question-and-answer site [Quora](http://quora.com) mostly by trying to ask the most interesting questions.
 I think question-askers are often ignored because once a good answer to a question is produced, the answer is what gets attention, not the question that led to the answer.
