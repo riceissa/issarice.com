@@ -11,7 +11,7 @@ status: notes
 #belief: 
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: cause prioritization
 ---
 
 Since about the beginning of October 2014, I have been interested in cause prioritization.
