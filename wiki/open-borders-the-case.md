@@ -11,7 +11,7 @@ status: notes
 belief: possible, emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: content creation, open borders
 #aliases: 
 ---
 
