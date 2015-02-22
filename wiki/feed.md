@@ -14,7 +14,7 @@ license: CC-BY
 tags: untagged
 ---
 
-I have an [RSS feed](http://issarice.com/feed.xml) for this website where you can get updates (this is probably the best way to get updates, since it includes only the more important changes).
+I have an [RSS feed](feed.xml) for this website where you can get updates (this is probably the best way to get updates, since it includes only the more important changes).
 
 However, since the site's source code is hosted on GitHub, one can also use [GitHub's atom feed for the master branch](https://github.com/riceissa/riceissa.com/commits/master.atom), which includes all updates to pages---even very incremental ones.
 
