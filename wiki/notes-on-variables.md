@@ -59,6 +59,13 @@ So for instance when using the big-Oh notation, people will write $\mathcal{O}(n
 Similarly, when dealing with Laplace transforms, it seems common to write both $\mathcal{L}\{f(t)\} = F(s)$ and $\mathcal{L}\{f\} = F(s)$; but $s$ is not present on the left hand side of either denotation!
 To be pedantic, we would need to write $\mathcal{L}\{f\} = F$ or $\mathcal{L}\{f\}(s) = F(s)$ or $\mathcal{L}\{\lambda t.f(t)\}(s) = F(s)$.
 
+In differential equations, it also seems common to write something like
+$$y'' + p(t)y' + q(t)y = f(t)$$
+but $y$ is a function depending on $t$, so shouldn't it instead be the following?
+$$y''(t) + p(t)y'(t) + q(t)y(t) = f(t)$$
+Or more simply
+$$y'' + py' + qy = f$$
+
 
 # Questions
 
