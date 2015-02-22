@@ -53,6 +53,13 @@ Concepts to discuss:
 - temporary (new) constants
 
 
+Mathematicians and computer scientists are usually not careful with a function versus the output of a function.
+So for instance when using the big-Oh notation, people will write $\mathcal{O}(n)$ (which is imprecise, because it doesn't specify what the input variable is; is $n$ the parameter or a constant?) instead of “$\mathcal{O}(f)$, where $f(n) = n$” or “$\mathcal{O}(\lambda n.n)$”.
+
+Similarly, when dealing with Laplace transforms, it seems common to write both $\mathcal{L}\{f(t)\} = F(s)$ and $\mathcal{L}\{f\} = F(s)$; but $s$ is not present on the left hand side of either denotation!
+To be pedantic, we would need to write $\mathcal{L}\{f\} = F$ or $\mathcal{L}\{f\}(s) = F(s)$ or $\mathcal{L}\{\lambda t.f(t)\}(s) = F(s)$.
+
+
 # Questions
 
 - What is the difference between a parameter and a variable?
