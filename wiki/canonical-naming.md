@@ -24,4 +24,4 @@ I used to have a page called "Openness and availability of content", but this se
 This process of "distilling" titles until they reach their simplest and precisest form I consider to be part of canonicalizing names.
 
 One problem this leads to of course is frequent renaming.
-Jekyll (which I don't happen to use for this site) has a redirect plugin, which I hope to add to this site at some point as well.
+Jekyll (which I don't happen to use for this site) has a redirect plugin, which I implemented for this site's static site generator as well (see [About the site](about-the-site#colophon) for more); now I simply use the `aliases` keyword in the YAML header of a page to create aliases.
