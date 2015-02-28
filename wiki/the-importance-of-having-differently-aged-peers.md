@@ -1,5 +1,5 @@
 ---
-title: The importance of having differently-aged peers
+title: Importance of having differently-aged peers
 description: 
 author: Issa Rice
 creation-date: 2014-11-11
@@ -8,7 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
-aliases: the-importance-of-having-different-aged-peers, the-importance-of-having-older-peers-and-mentors
+aliases: the-importance-of-having-different-aged-peers, the-importance-of-having-older-peers-and-mentors, the-importance-of-having-differently-aged-peers
 ---
 
 It seems rather arbitrary that the people we interact with in school are all similarly-aged.
