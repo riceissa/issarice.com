@@ -8,7 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: untagged
-aliases: the-importance-of-having-different-aged-peers, the-importance-of-having-older-peers-and-mentors, the-importance-of-having-differently-aged-peers
+aliases: the-importance-of-having-different-aged-peers, the-importance-of-having-older-peers-and-mentors, the-importance-of-having-differently-aged-peers, older peers, younger peers, old peers, young peers
 ---
 
 It seems rather arbitrary that the people we interact with in school are all similarly-aged.
@@ -42,3 +42,7 @@ been significant.
 # Benefits for the older person
 
 A while ago (2014 September) I [hosted a discussion](https://www.facebook.com/riceissa/posts/1475882736024012) on the benefits for older people of interacting with younger people.
+
+# See also
+
+- "[The value for young people of intellectual interaction with older people](http://cognitomentoring.org/blog/the-value-for-young-people-of-intellectual-interaction-with-older-people/)"
