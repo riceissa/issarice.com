@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
-#aliases: 
+aliases: some-rsync-commands
 ---
 
 For deploying my site:
@@ -20,4 +20,13 @@ For deploying my site:
 ```bash
 # run from the root of the git repository
 alias deploy='git push origin master && git push bitbucket master && time python generator/generator.py && rsync -e ssh -r --delete _site/ server:destination/'
+```
+
+
+For syncing a PDF to my site; use with `uppdf FILENAME`:
+
+```bash
+uppdf() {
+    rsync --ignore-existing -vv $1 server:destination/
+}
 ```
