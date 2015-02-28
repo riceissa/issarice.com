@@ -66,6 +66,8 @@ TAG_SYNONYMS = {
         [],
     "Hakyll":
         [],
+    "human biodiversity":
+        ["hbd"],
     "high school":
         ["hs"],
     "Japan":
