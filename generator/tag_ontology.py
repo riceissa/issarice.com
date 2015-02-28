@@ -36,6 +36,8 @@ from collections import OrderedDict
 TAG_SYNONYMS = {
     "atmopsheric sciences":
         ["atmos"],
+    "biology":
+        ["bio"],
     "Bryan Caplan":
         ["caplan"],
     "chemistry":
