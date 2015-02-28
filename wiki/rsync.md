@@ -3,7 +3,7 @@ title: rsync
 #description: 
 author: Issa Rice
 creation-date: 2015-02-04
-last-major-revision-date: 2015-02-04
+last-major-revision-date: 2015-02-28
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
