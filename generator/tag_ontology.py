@@ -52,6 +52,8 @@ TAG_SYNONYMS = {
         [],
     "Debian":
         ["deb"],
+    "economics":
+        ["econ"],
     "effective altruism":
         ["ea", "effective-altruism", "effectivealtruism"],
     "English":
