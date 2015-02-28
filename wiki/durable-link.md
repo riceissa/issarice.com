@@ -12,6 +12,7 @@ status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
+aliases: durable links
 ---
 
 A durable link is one that is not susceptible to [link rot](http://www.gwern.net/Archiving%20URLs#link-rot).
