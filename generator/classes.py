@@ -64,13 +64,17 @@ class Filepath(object):
 
     def filename(self):
         '''
-        >>> Filepath("pages/programming/hello.md")
+        Return the base filename.
+
+        >>> Filepath("pages/programming/hello.md").filename()
         'hello.md'
         '''
         return os.path.split(self.path)[1]
 
     def directory(self):
         '''
+        Return the relative directory name.
+
         >>> Filepath("pages/programming/hello.md").directory()
         'pages/programming/'
         '''
@@ -78,6 +82,8 @@ class Filepath(object):
 
     def path_lst(self):
         '''
+        Return a list of the individual components of the filepath.
+
         >>> Filepath("pages/programming/hello.md").path_lst()
         ['pages', 'programming', 'hello.md']
         '''
@@ -115,8 +121,8 @@ class Route(object):
         result = self.route(filepath)
         if type(result) is not Filepath:
             raise TypeError(
-                "output is not a filepath;\
-                this route object is an invalid route"
+                "output is not a filepath; " +
+                "this route object is an invalid route"
             )
         return result
 
@@ -182,60 +188,7 @@ class Metadata(object):
     '''
     Represents the metadata of a file.
     '''
-    def __init__(self, **kwargs):
-        self._is_empty = True
-        for key in kwargs:
-            self._is_empty = False
-            if type(kwargs[key]) in [str, bool]:
-                self.__setattr__(key, to_unicode(kwargs[key]))
-            else:
-                self.__setattr__(key, kwargs[key])
-        if "title" in kwargs.keys():
-            self.title = to_unicode(kwargs['title'])
-        else:
-            self.title = to_unicode("")
-        if "authors" in kwargs.keys():
-            self.authors = parse_as_list(kwargs['authors'])
-        else:
-            self.authors = []
-        if "math" in kwargs.keys():
-            if type(kwargs['math']) is bool:
-                if kwargs['math']:
-                    self.math = "True"
-                else:
-                    self.math = "False"
-            else:
-                self.math = kwargs['math']
-            self.math = to_unicode(self.math)
-        else:
-            self.math = "False"
-        if "license" in kwargs.keys():
-            license = kwargs['license']
-            # clean up license string
-            for char in ' -':
-                license = license.replace(char, '')
-            license = license.upper()
-            if license in ["CC0", "PUBLICDOMAIN", "PD"]:
-                self.license = to_unicode("CC0")
-            elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
-                self.license = to_unicode("CC-BY")
-            elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
-                self.license = to_unicode("CC-BY-SA")
-            else:
-                # set default license to unknown (i.e., copyrighted)
-                self.license = to_unicode("UNKNOWN")
-        else:
-            self.license = to_unicode("UNKNOWN")
-        if "tags" in kwargs.keys():
-            tag_list = TagList(parse_as_list(kwargs['tags']))
-            tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
-            self.tags = tag_list.data
-        if "aliases" in kwargs.keys():
-            self.aliases = parse_as_list(kwargs['aliases'])
-        if "language" in kwargs.keys():
-            self.language = to_unicode(kwargs['language'])
-        else:
-            self.language = "English"
+    def __init__(self, data, **kwargs):
 
     def __repr__(self):
         return self.__dict__.__repr__()
@@ -262,18 +215,54 @@ class Metadata(object):
 
 default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[], license="CC-BY", language="English")
 
+def process_metadata(metadata, **kwargs):
+    # Combine kwargs; kwargs overrides
+    metadata = dict(metadata.items() + kwargs.items())
+    if "math" in metadata:
+        # Change possible bool to str
+        metadata['math'] = str(metadata['math'])
+    else:
+        metadata['math'] = "False"
+    if "license" in metadata:
+        license = metadata['license']
+        # Clean up license string
+        for char in ' -':
+            license = license.replace(char, '')
+        license = license.upper()
+        if license in ["CC0", "PUBLICDOMAIN", "PD"]:
+            self.license = to_unicode("CC0")
+        elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
+            self.license = to_unicode("CC-BY")
+        elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
+            self.license = to_unicode("CC-BY-SA")
+        else:
+            # set default license to unknown (i.e., copyrighted)
+            self.license = to_unicode("UNKNOWN")
+    else:
+        self.license = to_unicode("UNKNOWN")
+    if "tags" in metadata.keys():
+        tag_list = TagList(parse_as_list(metadata['tags']))
+        tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
+        self.tags = tag_list.data
+    if "aliases" in metadata.keys():
+        self.aliases = parse_as_list(metadata['aliases'])
+    if "language" in metadata.keys():
+        self.language = to_unicode(metadata['language'])
+    else:
+        self.language = "English"
+
 class Page(object):
     '''
     Represents a typical page (i.e. those that are read from a file and
     are to be converted); special pages like the page with all the tags
     will not be an object of this class.
     '''
-    def __init__(self, origin, metadata=Metadata()):
+    def __init__(self, origin, metadata={}):
         if type(origin) is Filepath:
             self.origin = origin
         else:
             self.origin = Filepath(origin)
-        self.metadata = metadata
+        self.metadata = process_metadata(metadata)
 
     def load_metadata(self):
         with open(self.origin.path, 'r') as f:
