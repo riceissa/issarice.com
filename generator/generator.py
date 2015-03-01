@@ -46,8 +46,8 @@ def compile_scss():
         os.makedirs(SITE_DIRECTORY + SITE_CSS_DIRECTORY)
     command = "sass --style compressed " + PRE_CSS_DIRECTORY + "minimal.scss"
     compiled = run_command(command)
-    with open(SITE_DIRECTORY + SITE_CSS_DIRECTORY +
-        "minimal.css", 'w') as f:
+    with open(SITE_DIRECTORY + SITE_CSS_DIRECTORY + "minimal.css",
+        'w', encoding='utf-8') as f:
         f.write(compiled)
 
 def copy_files(pattern, destination):
@@ -64,7 +64,7 @@ def create_pages(list_page):
         final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
         if not os.path.exists(SITE_DIRECTORY):
             os.makedirs(SITE_DIRECTORY)
-        with open(write_to.path, 'w') as f:
+        with open(write_to.path, 'w', encoding='utf-8') as f:
             f.write(to_string(final))
 
 def build_data(list_filepath):
@@ -89,7 +89,7 @@ def create_single_page(filepath):
     final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
     if not os.path.exists(SITE_DIRECTORY):
         os.makedirs(SITE_DIRECTORY)
-    with open(write_to.path, 'w') as f:
+    with open(write_to.path, 'w', encoding='utf-8') as f:
         f.write(to_string(final))
 
 def create_tag_page(list_page, list_tag):
@@ -120,7 +120,7 @@ def create_tag_page(list_page, list_tag):
         )
         if not os.path.exists(SITE_DIRECTORY + SITE_TAGS_DIRECTORY):
             os.makedirs(SITE_DIRECTORY + SITE_TAGS_DIRECTORY)
-        with open(write_to.path, 'w') as f:
+        with open(write_to.path, 'w', encoding='utf-8') as f:
             f.write(to_string(final))
 
 # Make page with all tags
@@ -142,7 +142,7 @@ def create_page_with_all_tags(list_tag):
     final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
     if not os.path.exists(SITE_DIRECTORY + SITE_TAGS_DIRECTORY):
         os.makedirs(SITE_DIRECTORY + SITE_TAGS_DIRECTORY)
-    with open(SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index", 'w') as f:
+    with open(SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index", 'w', encoding='utf-8') as f:
         f.write(to_string(final))
 
 # Make page with all pages
@@ -168,7 +168,7 @@ def create_page_with_all_pages(list_page):
     final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
     if not os.path.exists(SITE_DIRECTORY):
         os.makedirs(SITE_DIRECTORY)
-    with open(SITE_DIRECTORY + "_all", 'w') as f:
+    with open(SITE_DIRECTORY + "_all", 'w', encoding='utf-8') as f:
         f.write(to_string(final))
 
 def create_sitemap(list_page, list_tag):
@@ -185,7 +185,7 @@ def create_sitemap(list_page, list_tag):
     sitemap = env.get_template('templates/sitemap.xml')
     final = sitemap.render(body=body)
 
-    with open(SITE_DIRECTORY + "sitemap.xml", "w") as f:
+    with open(SITE_DIRECTORY + "sitemap.xml", "w", encoding='utf-8') as f:
         f.write(to_string(final))
 
 def create_rss(list_page):
@@ -198,14 +198,14 @@ def create_rss(list_page):
             'title': page.metadata.title + " ({})".format(page.revision_date(string=False).strftime("%Y-%m-%d").strip()),
             'description': page.metadata.description if hasattr(page.metadata, 'description') else "",
             'slug': to_unicode(page.base()),
-            'hashval': hashlib.sha1(to_string(page.metadata.title) + "|" + page.revision_date()).hexdigest(),
+            'hashval': hashlib.sha1(to_string(to_string(page.metadata.title) + "|" + page.revision_date()).encode('utf-8')).hexdigest(),
             'date': page.revision_date(),
         }
         for page in list_page
     ]
     final = feed_template.render(pages=pages, now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
 
-    with open(SITE_DIRECTORY + "feed.xml", "w") as f:
+    with open(SITE_DIRECTORY + "feed.xml", "w", encoding='utf-8') as f:
         f.write(to_string(final))
 
 def create_aliases(list_page):
@@ -222,7 +222,7 @@ def create_aliases(list_page):
                     location = to_unicode(page.base()),
                 )
                 if not os.path.exists(write_to):
-                    with open(write_to, 'w') as f:
+                    with open(write_to, 'w', encoding='utf-8') as f:
                         f.write(to_string(final))
         except AttributeError:
             pass

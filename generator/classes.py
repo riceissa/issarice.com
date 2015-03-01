@@ -33,7 +33,6 @@ from datetime import datetime
 import yaml
 from yaml import SafeLoader, BaseLoader
 from jinja2 import Template, Environment, FileSystemLoader
-import commands as c
 from tag_ontology import *
 from util import *
 
@@ -187,7 +186,7 @@ class Metadata(object):
         self._is_empty = True
         for key in kwargs:
             self._is_empty = False
-            if type(kwargs[key]) in [str, bool, unicode]:
+            if type(kwargs[key]) in [str, bool]:
                 self.__setattr__(key, to_unicode(kwargs[key]))
             else:
                 self.__setattr__(key, kwargs[key])
@@ -292,7 +291,8 @@ class Page(object):
         '''
         Compile page with Pandoc and return the string of the output.
         '''
-        ast = json.loads(run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path)))
+        output = run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path))
+        ast = json.loads(output)
         return to_unicode(
             run_command(
                 "pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py",
