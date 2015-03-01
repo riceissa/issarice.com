@@ -48,16 +48,19 @@ class Filepath(object):
     directory.
     '''
     def __init__(self, path):
-        path = path.strip()
-        if path[0] in ["/", "~"]:
-            raise AbsolutePathException(
-                "path is absolute; must be relative"
-            )
-        elif path[-1] in ["/"] or os.path.isdir(path):
-            raise DirectoryException(
-                "path is a directory; must be a file"
-            )
-        self.path = path
+        if type(path) is Filepath:
+            self.path = path.path
+        else:
+            path = path.strip()
+            if path[0] in ["/", "~"]:
+                raise AbsolutePathException(
+                    "path is absolute; must be relative"
+                )
+            elif path[-1] in ["/"] or os.path.isdir(path):
+                raise DirectoryException(
+                    "path is a directory; must be a file"
+                )
+            self.path = path
 
     def __repr__(self):
         return self.path
@@ -185,13 +188,20 @@ class TagList(object):
         self.imply_using(tag_implications)
 
 def process_metadata(metadata, **kwargs):
+    '''
+    Take a dict and optional keywords, and return a sane dict for use as
+    metadata to a page.
+    '''
     # Combine kwargs; kwargs overrides
     metadata.update(kwargs)
-    math = "False"
-    if "math" in metadata:
-        # Change possible bool to str
-        math = str(metadata['math'])
-    metadata['math'] = math
+    aliases = []
+    if "aliases" in metadata:
+        aliases = parse_as_list(metadata['aliases'])
+    metadata['aliases'] = aliases
+    language = "English"
+    if "language" in metadata:
+        language = metadata['language']
+    metadata['language'] = language
     license = "UNKNOWN"
     if "license" in metadata:
         license = metadata['license']
@@ -209,20 +219,17 @@ def process_metadata(metadata, **kwargs):
             # Set default license to unknown (i.e., copyrighted)
             license = "UNKNOWN"
     metadata['license'] = license
+    math = "False"
+    if "math" in metadata:
+        # Change possible bool to str
+        math = str(metadata['math'])
+    metadata['math'] = math
     tags = ["untagged"]
     if "tags" in metadata:
         tag_list = TagList(parse_as_list(metadata['tags']))
         tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
         tags = tag_list.data
     metadata['tags'] = tags
-    aliases = []
-    if "aliases" in metadata:
-        aliases = parse_as_list(metadata['aliases'])
-    metadata['aliases'] = aliases
-    language = "English"
-    if "language" in metadata:
-        language = metadata['language']
-    metadata['language'] = language
     return metadata
 
 class Page(object):
@@ -232,10 +239,7 @@ class Page(object):
     will not be an object of this class.
     '''
     def __init__(self, origin, metadata={}):
-        if type(origin) is Filepath:
-            self.origin = origin
-        else:
-            self.origin = Filepath(origin)
+        self.origin = Filepath(origin)
         self.metadata = process_metadata(metadata)
 
     def load_metadata(self):

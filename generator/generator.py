@@ -246,7 +246,7 @@ if __name__ == '__main__':
     else:
         # So build the whole site
         clean()
-        pages_pat = PRE_PAGES_DIRECTORY + "a*.md"
+        pages_pat = PRE_PAGES_DIRECTORY + "*.md"
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
         compile_scss()
