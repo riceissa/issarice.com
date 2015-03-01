@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Copyright (c) 2014, Issa Rice
@@ -154,17 +154,20 @@ def create_page_with_all_pages(list_page):
         path="./")
     return Page(data=final, destination=SITE_DIRECTORY + "_all")
 
-def create_sitemap(list_page, list_tag):
+def create_sitemap(list_page=[], list_tag=[]):
+    '''
+    Take a list of pages and a list of tags.  Return a page object for
+    the sitemap.
+    '''
     print("Generating sitemap")
-
     env = Environment(loader=FileSystemLoader('.'))
     sitemap_list = env.get_template('templates/sitemap-list.xml')
     list_page = sorted(list_page, key=lambda t: t.metadata['title'])
-    body = u""
+    body = ""
     for page in list_page:
-        body += to_unicode(sitemap_list.render(slug=to_unicode(page.base())))
+        body += sitemap_list.render(slug=page.base())
     for t in list_tag:
-        body += to_unicode(sitemap_list.render(slug="_tags/" + t))
+        body += sitemap_list.render(slug="_tags/" + t)
     sitemap = env.get_template('templates/sitemap.xml')
     final = sitemap.render(body=body)
     return Page(data=final, destination=SITE_DIRECTORY + "sitemap.xml")
@@ -195,6 +198,9 @@ def create_rss(list_page):
     return Page(data=final, destination=SITE_DIRECTORY + "feed.xml")
 
 def create_aliases(list_page):
+    '''
+    Take a list of pages and yield alias pages for them.
+    '''
     for page in list_page:
         if "aliases" in page.metadata:
             for alias in page.metadata["aliases"]:
@@ -202,10 +208,8 @@ def create_aliases(list_page):
                 write_to = Filepath(alias).route_with(site_dir_route).path
                 env = Environment(loader=FileSystemLoader('.'))
                 skeleton = env.get_template('templates/redirect.html')
-                final = skeleton.render(
-                    title = to_unicode(page.metadata["title"]),
-                    location = to_unicode(page.base()),
-                )
+                final = skeleton.render(title=page.metadata["title"],
+                    location=page.base())
                 yield Page(data=final, destination=write_to)
 
 if __name__ == '__main__':
@@ -232,7 +236,8 @@ if __name__ == '__main__':
         list_page, list_tag = build_data(list_filepath)
         compile_scss()
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
-        copy_files(PRE_STATIC_DIRECTORY + "*", SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
+        copy_files(PRE_STATIC_DIRECTORY + "*",
+            SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
         for page in create_pages(list_page):
             page.write()
         for page in create_tag_pages(list_page, list_tag):
@@ -242,4 +247,4 @@ if __name__ == '__main__':
         for page in create_aliases(list_page):
             page.write()
         create_sitemap(list_page, list_tag).write()
-        create_rss(list_page)
+        create_rss(list_page).write()
