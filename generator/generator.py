@@ -36,6 +36,7 @@ import hashlib
 
 from classes import *
 from tag_ontology import *
+from config import *
 
 def clean():
     print("Removing {d}".format(d=SITE_DIRECTORY))
@@ -105,7 +106,7 @@ def create_tag_pages(list_page, list_tag):
                 })
         pages = sorted(pages, key=lambda t: t['title'].lower())
         write_to = Filepath(SITE_DIRECTORY + SITE_TAGS_DIRECTORY +
-            to_string(slug(tag)))
+            slug(tag)).path
         metadata = {
             "title": "Tag: " + tag,
             "license": "cc0",
@@ -115,7 +116,7 @@ def create_tag_pages(list_page, list_tag):
         body = to_unicode(page_list.render(pages=pages))
         skeleton = env.get_template('templates/skeleton.html')
         final = skeleton.render(body=body, page=metadata, path="../")
-        page = Page(metadata=metadata, data=final)
+        page = Page(metadata=metadata, data=final, destination=write_to)
         yield page
 
 # Make page with all tags
@@ -123,7 +124,7 @@ def create_page_with_all_tags(list_tag):
     print("Creating page with all the tags")
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
-    pages = [{'title': to_unicode(tag), 'url': to_unicode(slug(tag))} for tag in list_tag]
+    pages = [{'title': tag, 'url': slug(tag)} for tag in list_tag]
     pages = sorted(pages, key=lambda t: t['title'].lower())
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
@@ -132,7 +133,8 @@ def create_page_with_all_tags(list_tag):
         "license": "cc0",
     }
     final = skeleton.render(page=metadata, body=body, path="../")
-    return Page(metadata=metadata, data=final)
+    return Page(data=final,
+        destination=SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index")
 
 # Make page with all pages
 def create_page_with_all_pages(list_page):
@@ -156,10 +158,7 @@ def create_page_with_all_pages(list_page):
     }
     final = skeleton.render(page=metadata, body=body, css=metadata["css"],
         path="./")
-    if not os.path.exists(SITE_DIRECTORY):
-        os.makedirs(SITE_DIRECTORY)
-    with open(SITE_DIRECTORY + "_all", 'w', encoding='utf-8') as f:
-        f.write(to_string(final))
+    return Page(data=final, destination=SITE_DIRECTORY + "_all")
 
 def create_sitemap(list_page, list_tag):
     print("Generating sitemap")
@@ -174,9 +173,7 @@ def create_sitemap(list_page, list_tag):
         body += to_unicode(sitemap_list.render(slug="_tags/" + t))
     sitemap = env.get_template('templates/sitemap.xml')
     final = sitemap.render(body=body)
-
-    with open(SITE_DIRECTORY + "sitemap.xml", "w", encoding='utf-8') as f:
-        f.write(to_string(final))
+    return Page(data=final, destination=SITE_DIRECTORY + "sitemap.xml")
 
 def create_rss(list_page):
     print("Generating RSS feed")
@@ -218,7 +215,6 @@ def create_aliases(list_page):
             pass
 
 if __name__ == '__main__':
-    from config import *
     import argparse
     parser = argparse.ArgumentParser(description='generate a site or just a few files')
     parser.add_argument(
@@ -236,17 +232,17 @@ if __name__ == '__main__':
     else:
         # So build the whole site
         clean()
-        pages_pat = PRE_PAGES_DIRECTORY + "*.md"
+        pages_pat = PRE_PAGES_DIRECTORY + "i*.md"
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
         compile_scss()
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
         copy_files(PRE_STATIC_DIRECTORY + "*", SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
         create_pages(list_page)
-        create_tag_pages(list_page, list_tag)
-        create_page_with_all_tags(list_tag)
-        create_page_with_all_pages(list_page).write_to(
-            SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index")
+        for page in create_tag_pages(list_page, list_tag):
+            page.write()
+        create_page_with_all_tags(list_tag).write()
+        create_page_with_all_pages(list_page).write()
         create_aliases(list_page)
-        create_sitemap(list_page, list_tag)
+        create_sitemap(list_page, list_tag).write()
         create_rss(list_page)
