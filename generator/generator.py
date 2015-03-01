@@ -62,12 +62,9 @@ def copy_files(pattern, destination):
 def create_pages(list_page):
     for page in list_page:
         print("Processing " + str(page.origin))
-        write_to = page.origin.route_with(my_route)
+        write_to = page.origin.route_with(my_route).path
         final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
-        if not os.path.exists(SITE_DIRECTORY):
-            os.makedirs(SITE_DIRECTORY)
-        with open(write_to.path, 'w', encoding='utf-8') as f:
-            f.write(to_string(final))
+        yield Page(data=final, destination=write_to)
 
 def build_data(list_filepath):
     list_page = []
@@ -84,15 +81,12 @@ def create_single_page(filepath):
     '''
     For use when one only wants to partially compile.
     '''
-    page = Page(filepath)
+    page = Page(origin=filepath)
     print("Processing " + str(page.origin))
+    page.destination = page.origin.route_with(my_route).path
     page.load_metadata()
-    write_to = page.origin.route_with(my_route)
-    final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
-    if not os.path.exists(SITE_DIRECTORY):
-        os.makedirs(SITE_DIRECTORY)
-    with open(write_to.path, 'w', encoding='utf-8') as f:
-        f.write(to_string(final))
+    page.data = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
+    return page
 
 def create_tag_pages(list_page, list_tag):
     for tag in list_tag:
@@ -179,27 +173,31 @@ def create_rss(list_page):
     print("Generating RSS feed")
     env = Environment(loader=FileSystemLoader('.'))
     feed_template = env.get_template('templates/rss.xml')
-    list_page = sorted(list_page, key=lambda t: t.revision_date(string=False), reverse=True)
-    pages = [
-        {
-            'title': page.metadata["title"] + " ({})".format(page.revision_date(string=False).strftime("%Y-%m-%d").strip()),
-            'description': page.metadata["description"] if "description" in page.metadata else "",
-            'slug': to_unicode(page.base()),
-            'hashval': hashlib.sha1(to_string(to_string(page.metadata["title"]) + "|" + page.revision_date()).encode('utf-8')).hexdigest(),
-            'date': page.revision_date(),
+    list_page = sorted(list_page, key=lambda t: t.revision_date(
+        string=False), reverse=True)
+    pages = []
+    for page in list_page:
+        hashstr = page.metadata["title"] + "|" + page.revision_date()
+        hashval = hashlib.sha1(hashstr.encode('utf-8')).hexdigest()
+        metadata = {
+            "title": page.metadata["title"] + " ({})".format(
+                page.revision_date(string=False).strftime(
+                "%Y-%m-%d").strip()),
+            "description": page.metadata["description"] if
+                "description" in page.metadata else "",
+            "slug": to_unicode(page.base()),
+            "hashval": hashval,
+            "date": page.revision_date(),
         }
-        for page in list_page
-    ]
-    final = feed_template.render(pages=pages, now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
-
-    with open(SITE_DIRECTORY + "feed.xml", "w", encoding='utf-8') as f:
-        f.write(to_string(final))
+        pages.append(metadata)
+    final = feed_template.render(pages=pages,
+        now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
+    return Page(data=final, destination=SITE_DIRECTORY + "feed.xml")
 
 def create_aliases(list_page):
     for page in list_page:
-        try:
-            aliases = [slug(i) for i in page.metadata["aliases"]]
-            for alias in aliases:
+        if "aliases" in page.metadata:
+            for alias in page.metadata["aliases"]:
                 print("Creating alias: " + alias)
                 write_to = Filepath(alias).route_with(site_dir_route).path
                 env = Environment(loader=FileSystemLoader('.'))
@@ -208,15 +206,12 @@ def create_aliases(list_page):
                     title = to_unicode(page.metadata["title"]),
                     location = to_unicode(page.base()),
                 )
-                if not os.path.exists(write_to):
-                    with open(write_to, 'w', encoding='utf-8') as f:
-                        f.write(to_string(final))
-        except AttributeError:
-            pass
+                yield Page(data=final, destination=write_to)
 
 if __name__ == '__main__':
     import argparse
-    parser = argparse.ArgumentParser(description='generate a site or just a few files')
+    parser = argparse.ArgumentParser(
+        description='generate a site or just a few files')
     parser.add_argument(
         "--files",
         "--file",
@@ -228,7 +223,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     if args.files is not None:
         for p in args.files:
-            create_single_page(p)
+            create_single_page(p).write()
     else:
         # So build the whole site
         clean()
@@ -238,11 +233,13 @@ if __name__ == '__main__':
         compile_scss()
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
         copy_files(PRE_STATIC_DIRECTORY + "*", SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
-        create_pages(list_page)
+        for page in create_pages(list_page):
+            page.write()
         for page in create_tag_pages(list_page, list_tag):
             page.write()
         create_page_with_all_tags(list_tag).write()
         create_page_with_all_pages(list_page).write()
-        create_aliases(list_page)
+        for page in create_aliases(list_page):
+            page.write()
         create_sitemap(list_page, list_tag).write()
         create_rss(list_page)
