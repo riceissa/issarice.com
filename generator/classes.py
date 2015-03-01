@@ -190,18 +190,19 @@ class TagList(object):
 def process_metadata(metadata, **kwargs):
     '''
     Take a dict and optional keywords, and return a sane dict for use as
-    metadata to a page.
+    metadata to a page.  The input dict is unmodified.
     '''
+    metadata = dict(metadata)
     # Combine kwargs; kwargs overrides
     metadata.update(kwargs)
-    aliases = []
-    if "aliases" in metadata:
-        aliases = parse_as_list(metadata['aliases'])
-    metadata['aliases'] = aliases
-    language = "English"
-    if "language" in metadata:
-        language = metadata['language']
-    metadata['language'] = language
+    metadata["aliases"] = parse_as_list(metadata["aliases"]) if\
+        "aliases" in metadata else []
+    if "author" not in metadata:
+        metadata["author"] = []
+    if "description" not in metadata:
+        metadata["description"] = ""
+    if "language" not in metadata:
+        metadata["language"] = "English"
     license = "UNKNOWN"
     if "license" in metadata:
         license = metadata['license']
@@ -219,17 +220,17 @@ def process_metadata(metadata, **kwargs):
             # Set default license to unknown (i.e., copyrighted)
             license = "UNKNOWN"
     metadata['license'] = license
-    math = "False"
-    if "math" in metadata:
-        # Change possible bool to str
-        math = str(metadata['math'])
-    metadata['math'] = math
+    # Change possible bool to str
+    metadata["math"] = str(metadata['math']) if "math" in metadata\
+        else "False"
     tags = ["untagged"]
     if "tags" in metadata:
         tag_list = TagList(parse_as_list(metadata['tags']))
         tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
         tags = tag_list.data
     metadata['tags'] = tags
+    if "title" not in metadata:
+        metadata["title"] = ""
     return metadata
 
 class Page(object):
@@ -238,9 +239,10 @@ class Page(object):
     are to be converted); special pages like the page with all the tags
     will not be an object of this class.
     '''
-    def __init__(self, origin, metadata={}):
+    def __init__(self, origin=None, metadata={}, data=""):
         self.origin = Filepath(origin)
         self.metadata = process_metadata(metadata)
+        self.data = data
 
     def load_metadata(self):
         with open(self.origin.path, 'r') as f:
@@ -251,16 +253,23 @@ class Page(object):
                 while then not in ['---\n', '...\n', '']:
                     metadata += then
                     then = f.readline()
-            self.metadata = process_metadata(yaml.load(
-                metadata,
-                Loader = BaseLoader,
-            ))
+            self.metadata = process_metadata(yaml.load(metadata,
+                Loader=BaseLoader))
+
+    def write_to(self, destination=SITE_DIRECTORY):
+        directory = Filepath(destination).directory()
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        with open(destination, "w", encoding="utf-8") as f:
+            f.write(to_string(final))
 
     def pandoc_compiled(self):
         '''
         Compile page with Pandoc and return the string of the output.
         '''
-        output = run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path))
+        output = run_command(
+            "pandoc --smart -f markdown -t json {page}".format(
+            page=self.origin.path))
         ast = json.loads(output)
         return to_unicode(
             run_command(
