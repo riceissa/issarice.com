@@ -184,45 +184,15 @@ class TagList(object):
         self.standardize_using(tag_synonyms)
         self.imply_using(tag_implications)
 
-class Metadata(object):
-    '''
-    Represents the metadata of a file.
-    '''
-    def __init__(self, data, **kwargs):
-
-    def __repr__(self):
-        return self.__dict__.__repr__()
-
-    def update_with(self, other):
-        if type(other) is Metadata:
-            self.__init__(**other.__dict__)
-        elif type(other) is dict:
-            self.__init__(**other)
-        else:
-            raise TypeError("you must update_with another metadata object or a dict")
-
-    def __call__(self, **kwargs):
-        self.__init__(**kwargs)
-        #for key in kwargs:
-            #print "setting {key} to {val}".format(key=key, val=kwargs[key])
-            #if key == "tags":
-                #self.__setattr__(key, kwargs[key])
-            #else:
-                #self.__setattr__(key, to_unicode(kwargs[key]))
-
-    def is_empty(self):
-        return self._is_empty
-
-default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[], license="CC-BY", language="English")
-
 def process_metadata(metadata, **kwargs):
     # Combine kwargs; kwargs overrides
-    metadata = dict(metadata.items() + kwargs.items())
+    metadata.update(kwargs)
+    math = "False"
     if "math" in metadata:
         # Change possible bool to str
-        metadata['math'] = str(metadata['math'])
-    else:
-        metadata['math'] = "False"
+        math = str(metadata['math'])
+    metadata['math'] = math
+    license = "UNKNOWN"
     if "license" in metadata:
         license = metadata['license']
         # Clean up license string
@@ -230,26 +200,30 @@ def process_metadata(metadata, **kwargs):
             license = license.replace(char, '')
         license = license.upper()
         if license in ["CC0", "PUBLICDOMAIN", "PD"]:
-            self.license = to_unicode("CC0")
-        elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
-            self.license = to_unicode("CC-BY")
-        elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
-            self.license = to_unicode("CC-BY-SA")
+            license = "CC0"
+        elif license in ["CCBY", "BY", "ATTRIBUTION"]:
+            license = "CC-BY"
+        elif license in ["CCBYSA", "CCSA", "SHAREALIKE"]:
+            license = "CC-BY-SA"
         else:
-            # set default license to unknown (i.e., copyrighted)
-            self.license = to_unicode("UNKNOWN")
-    else:
-        self.license = to_unicode("UNKNOWN")
-    if "tags" in metadata.keys():
+            # Set default license to unknown (i.e., copyrighted)
+            license = "UNKNOWN"
+    metadata['license'] = license
+    tags = ["untagged"]
+    if "tags" in metadata:
         tag_list = TagList(parse_as_list(metadata['tags']))
         tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
-        self.tags = tag_list.data
-    if "aliases" in metadata.keys():
-        self.aliases = parse_as_list(metadata['aliases'])
-    if "language" in metadata.keys():
-        self.language = to_unicode(metadata['language'])
-    else:
-        self.language = "English"
+        tags = tag_list.data
+    metadata['tags'] = tags
+    aliases = []
+    if "aliases" in metadata:
+        aliases = parse_as_list(metadata['aliases'])
+    metadata['aliases'] = aliases
+    language = "English"
+    if "language" in metadata:
+        language = metadata['language']
+    metadata['language'] = language
+    return metadata
 
 class Page(object):
     '''
@@ -273,8 +247,10 @@ class Page(object):
                 while then not in ['---\n', '...\n', '']:
                     metadata += then
                     then = f.readline()
-            self.metadata = Metadata(**yaml.load(metadata,
-                Loader=BaseLoader))
+            self.metadata = process_metadata(yaml.load(
+                metadata,
+                Loader = BaseLoader,
+            ))
 
     def pandoc_compiled(self):
         '''
@@ -284,7 +260,9 @@ class Page(object):
         ast = json.loads(output)
         return to_unicode(
             run_command(
-                "pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py",
+                "pandoc -f json -t html --toc --toc-depth=4 " +
+                "--template=templates/toc.html --smart --mathjax " +
+                "--base-header-level=2 --filter generator/url_filter.py",
                 pipe_in=json.dumps(ast, separators=(',',':'))
             )
         )
@@ -293,11 +271,11 @@ class Page(object):
         '''
         Compile page all the way and return the string of the output.
         '''
-        if self.metadata.is_empty():
+        if not self.metadata:
             self.load_metadata()
         env = Environment(loader=FileSystemLoader('.'))
-        if self.metadata.language.lower() in [u"ja", u"japanese", u"にほんご",
-            u"日本語"]:
+        if self.metadata['language'].lower() in [u"ja", u"japanese",
+            u"にほんご", u"日本語"]:
             skeleton = env.get_template('templates/ja/skeleton.html')
         else:
             skeleton = env.get_template('templates/skeleton.html')
@@ -314,7 +292,7 @@ class Page(object):
                             route_with(to_dir(tags_dir)).path,
                         ),
                     }
-                    for tag in self.metadata.tags
+                    for tag in self.metadata["tags"]
                 ],
                 key = lambda t: t['name'].lower(),
             ),

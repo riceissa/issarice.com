@@ -32,16 +32,14 @@ import shlex
 from slugify import slugify_unicode
 import os
 
-def run_command(command, pipe_in=''):
+def run_command(command, pipe_in=None):
     '''
-    Run command and return its output by optionally piping in pipe_in.
-    Same as
+    Run command and return its output. Optionally pipe in string using
+    pipe_in.  Same as
         command < pipe_in.txt
-    where pipe_in.txt contains pipe_in.  If no pipe_in is
-    specified, or pipe_in is '', then just run the command
-    and return its output.
+    where pipe_in.txt contains pipe_in.
     '''
-    if pipe_in == '':
+    if pipe_in is None:
         process = subprocess.Popen(
             shlex.split(command),
             stdout=subprocess.PIPE,
@@ -56,14 +54,16 @@ def run_command(command, pipe_in=''):
             stdin=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
-        stdout, stderr = process.communicate(input=bytes(pipe_in, 'utf-8'))
+        stdout, stderr = process.communicate(
+            input = bytes(pipe_in, 'utf-8')
+        )
     if stderr not in ["None", "", None, b'']:
         print("On the command")
         print("    {command}".format(command=command))
         if pipe_in is not '':
-            print("with the input beginning with")
+            print("with the input line(s) beginning with")
             for line in pipe_in.split("\n"):
-                l = min(20, len(line))
+                l = min(75, len(line))
                 print("    " + line[0:l])
         print("there was an error:")
         print(stderr.decode('utf-8'))
