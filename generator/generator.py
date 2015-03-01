@@ -44,7 +44,8 @@ def clean():
 def compile_scss():
     if not os.path.exists(SITE_DIRECTORY + SITE_CSS_DIRECTORY):
         os.makedirs(SITE_DIRECTORY + SITE_CSS_DIRECTORY)
-    command = "sass --style compressed " + PRE_CSS_DIRECTORY + "minimal.scss"
+    command = "sass --style compressed " + PRE_CSS_DIRECTORY +\
+        "minimal.scss"
     compiled = run_command(command)
     with open(SITE_DIRECTORY + SITE_CSS_DIRECTORY + "minimal.css",
         'w', encoding='utf-8') as f:
@@ -92,17 +93,20 @@ def create_single_page(filepath):
     with open(write_to.path, 'w', encoding='utf-8') as f:
         f.write(to_string(final))
 
-def create_tag_page(list_page, list_tag):
+def create_tag_pages(list_page, list_tag):
     for tag in list_tag:
         print("Processing tag page for " + tag)
         pages = []
         for page in list_page:
             if tag in page.metadata["tags"]:
-                pages.append({'title': to_unicode(page.metadata['title']), 'url': to_unicode("../" + page.base())})
+                pages.append({
+                    'title': page.metadata['title'],
+                    'url': "../" + page.base(),
+                })
         pages = sorted(pages, key=lambda t: t['title'].lower())
         write_to = Filepath(SITE_DIRECTORY + SITE_TAGS_DIRECTORY +
             to_string(slug(tag)))
-        ctx = {
+        metadata = {
             "title": "Tag: " + tag,
             "license": "cc0",
         }
@@ -110,18 +114,9 @@ def create_tag_page(list_page, list_tag):
         page_list = env.get_template('templates/page-list.html')
         body = to_unicode(page_list.render(pages=pages))
         skeleton = env.get_template('templates/skeleton.html')
-        final = skeleton.render(
-            body = body,
-            page = ctx,
-            css = Filepath(SITE_CSS_DIRECTORY +
-                "minimal.css").relative_to(Filepath(SITE_TAGS_DIRECTORY +
-                to_string(tag))).path,
-            path = "../",
-        )
-        if not os.path.exists(SITE_DIRECTORY + SITE_TAGS_DIRECTORY):
-            os.makedirs(SITE_DIRECTORY + SITE_TAGS_DIRECTORY)
-        with open(write_to.path, 'w', encoding='utf-8') as f:
-            f.write(to_string(final))
+        final = skeleton.render(body=body, page=metadata, path="../")
+        page = Page(metadata=metadata, data=final)
+        yield page
 
 # Make page with all tags
 def create_page_with_all_tags(list_tag):
@@ -132,18 +127,12 @@ def create_page_with_all_tags(list_tag):
     pages = sorted(pages, key=lambda t: t['title'].lower())
     body = to_unicode(page_list.render(pages=pages))
     skeleton = env.get_template('templates/skeleton.html')
-    ctx = {
+    metadata = {
         "title": "All tags",
-        "css": Filepath(SITE_CSS_DIRECTORY +
-            "minimal.css").relative_to(Filepath(SITE_TAGS_DIRECTORY +
-            "index")).path,
         "license": "cc0",
     }
-    final = skeleton.render(page=ctx, body=body, css=ctx["css"], path="../")
-    if not os.path.exists(SITE_DIRECTORY + SITE_TAGS_DIRECTORY):
-        os.makedirs(SITE_DIRECTORY + SITE_TAGS_DIRECTORY)
-    with open(SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index", 'w', encoding='utf-8') as f:
-        f.write(to_string(final))
+    final = skeleton.render(page=metadata, body=body, path="../")
+    return Page(metadata=metadata, data=final)
 
 # Make page with all pages
 def create_page_with_all_pages(list_page):
@@ -159,13 +148,14 @@ def create_page_with_all_pages(list_page):
     pages = sorted(pages, key=lambda t: t['title'])
     body = page_list.render(pages=pages)
     skeleton = env.get_template('templates/skeleton.html')
-    ctx = {
+    metadata = {
         "title": "All pages on the site",
         "css": Filepath(SITE_CSS_DIRECTORY +
             "minimal.css").relative_to(Filepath("all")).path,
         "license": "cc0",
     }
-    final = skeleton.render(page=ctx, body=body, css=ctx["css"], path="./")
+    final = skeleton.render(page=metadata, body=body, css=metadata["css"],
+        path="./")
     if not os.path.exists(SITE_DIRECTORY):
         os.makedirs(SITE_DIRECTORY)
     with open(SITE_DIRECTORY + "_all", 'w', encoding='utf-8') as f:
@@ -253,9 +243,10 @@ if __name__ == '__main__':
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
         copy_files(PRE_STATIC_DIRECTORY + "*", SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
         create_pages(list_page)
-        create_tag_page(list_page, list_tag)
+        create_tag_pages(list_page, list_tag)
         create_page_with_all_tags(list_tag)
-        create_page_with_all_pages(list_page)
+        create_page_with_all_pages(list_page).write_to(
+            SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index")
         create_aliases(list_page)
         create_sitemap(list_page, list_tag)
         create_rss(list_page)
