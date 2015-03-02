@@ -53,20 +53,21 @@ def compile_scss():
         f.write(compiled)
 
 def copy_files(pattern, destination):
+    '''
+    Copy files matching a pattern to a destination directory.
+    '''
     if not os.path.exists(destination):
         os.makedirs(destination)
     for f in glob.glob(pattern):
         print("Copying {f} to {to}".format(f=f, to=destination))
         run_command("cp {f} {to}".format(f=f, to=destination))
 
-def create_pages(list_page):
-    for page in list_page:
-        print("Processing " + str(page.origin))
-        write_to = page.origin.route_with(my_route).path
-        final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
-        yield Page(data=final, destination=write_to)
-
 def build_data(list_filepath):
+    '''
+    Take a list of Filepaths and return a tuple of two lists: the first
+    is a list of all pages corresponding to the filepaths, and the
+    second is a list of all tags that are in those pages.
+    '''
     list_page = []
     list_tag = []
     for filepath in list_filepath:
@@ -76,6 +77,16 @@ def build_data(list_filepath):
         list_tag.extend(page.metadata["tags"])
     list_tag = list(set(list_tag))
     return (list_page, list_tag)
+
+def create_pages(list_page):
+    '''
+    Take a list of pages and yield new pages with the compiled data.
+    '''
+    for page in list_page:
+        print("Processing " + str(page.origin))
+        write_to = page.origin.route_with(my_route).path
+        final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
+        yield Page(data=final, destination=write_to)
 
 def create_single_page(filepath):
     '''
@@ -107,20 +118,22 @@ def create_tag_pages(list_page, list_tag):
         }
         env = Environment(loader=FileSystemLoader('.'))
         page_list = env.get_template('templates/page-list.html')
-        body = to_unicode(page_list.render(pages=pages))
+        body = page_list.render(pages=pages)
         skeleton = env.get_template('templates/skeleton.html')
         final = skeleton.render(body=body, page=metadata, path="../")
         page = Page(metadata=metadata, data=final, destination=write_to)
         yield page
 
-# Make page with all tags
 def create_page_with_all_tags(list_tag):
+    '''
+    Take a list of tags and return a page that lists all the tags.
+    '''
     print("Creating page with all the tags")
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
     pages = [{'title': tag, 'url': slug(tag)} for tag in list_tag]
     pages = sorted(pages, key=lambda t: t['title'].lower())
-    body = to_unicode(page_list.render(pages=pages))
+    body = page_list.render(pages=pages)
     skeleton = env.get_template('templates/skeleton.html')
     metadata = {
         "title": "All tags",
@@ -137,8 +150,8 @@ def create_page_with_all_pages(list_page):
     page_list = env.get_template('templates/page-list.html')
     pages = [
         {
-            'title': to_unicode(page.metadata['title']),
-            'url': to_unicode(page.base())
+            'title': page.metadata['title'],
+            'url': page.base(),
         } for page in list_page
     ]
     pages = sorted(pages, key=lambda t: t['title'])
@@ -188,7 +201,7 @@ def create_rss(list_page):
                 "%Y-%m-%d").strip()),
             "description": page.metadata["description"] if
                 "description" in page.metadata else "",
-            "slug": to_unicode(page.base()),
+            "slug": page.base(),
             "hashval": hashval,
             "date": page.revision_date(),
         }
@@ -231,7 +244,7 @@ if __name__ == '__main__':
     else:
         # So build the whole site
         clean()
-        pages_pat = PRE_PAGES_DIRECTORY + "i*.md"
+        pages_pat = PRE_PAGES_DIRECTORY + "*.md"
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
         compile_scss()
