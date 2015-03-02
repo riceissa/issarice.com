@@ -54,9 +54,7 @@ def run_command(command, pipe_in=None):
             stdin=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
-        stdout, stderr = process.communicate(
-            input = bytes(pipe_in, 'utf-8')
-        )
+        stdout, stderr = process.communicate(input=bytes(pipe_in, 'utf-8'))
     if stderr not in ["None", "", None, b'']:
         print("On the command")
         print("    {command}".format(command=command))
