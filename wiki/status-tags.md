@@ -15,7 +15,7 @@ tags: site-info
 aliases: status-tag
 ---
 
-I am taking the idea of status tags from gwern.
+I am taking the idea of status tags [from gwern](http://www.gwern.net/About#belief-tags).
 Here is his original explanation, though my use (explained below) differs slightly.
 
 > The "status" tag describes the state of completion: whether it's a
