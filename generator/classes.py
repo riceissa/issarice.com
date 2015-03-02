@@ -356,7 +356,13 @@ class Page(object):
 
 @Route
 def drop_one_parent_dir_route(filepath):
-    return Filepath('/'.join([i for i in split_path(filepath.path)[1:]]))
+    path = filepath.path
+    dirs = split_path(path)
+    if len(dirs) < 2:
+        raise ValueError(
+            "The path {} is too short; cannot drop directory".format(path))
+    dirs = dirs[1:]
+    return Filepath('/'.join(dirs))
 
 def to_dir(dirname):
     '''
