@@ -36,6 +36,12 @@ The essay also contains the anecdote about when Russell "proceeded to dictate th
 "There was a time, in the first years of this century, when I had more florid and rhetorical ambitions."
 
 
+One problem with long content is that people often share links on social media, and if the content on the linked page changes too rapidly or dramatically, then two people who visit the destination may see different things depending on when they visit it.
+In other words, I think people often share with the expectation that what they linked to will be what others will see, which may be true with blogs that don't update their posts (or, if they do, clearly mark what changed since the original publication), journal articles (and in general anything that's published on paper), and sites that haven't been updated in a long time, but isn't necessarily true for sites that strive for long content.
+One solution to this for long content sites is to publish one's site history along with the current version (like Wikipedia) so that it's always possible to go back to how a page was at a certain point in its history.
+With this site, for instance, I keep track of everything using [Git]().
+It's still a bit inconvenient to track down the exact version though, and this version moreover is in its raw markdown format, which may be too much work to parse for some readers.
+
 # See also
 
 - [Long Now on WikiWikiWeb](http://c2.com/cgi/wiki?LongNow), which is arguably a successful form of long content itself.
