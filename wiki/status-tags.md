@@ -41,7 +41,7 @@ Mostly finished
 :    For pages that I consider mostly done, needing only minor corrections.
 
 I prefer to think of my writings as continuously improving drafts, partly because I might obtain better feedback.
-For instance [Gere writes](https://books.google.com/books?id=4NPCUmKBxO8C&lpg=PA75&ots=VBeEGQ5hyM&dq=anne%20ruggles%20gere%20when%20participants%20in%20writing%20groups%20read%20finished%20writing&pg=PA75#v=onepage&q=anne%20ruggles%20gere%20when%20participants%20in%20writing%20groups%20read%20finished%20writing&f=false) (quoted in "[Shutting Down Tolkien](http://rhodesmill.org/brandon/slides/2014-08-pygotham/#anne-ruggles-gere)" by Brandon Rhodes):
+For instance [Anne Ruggles Gere writes](https://books.google.com/books?id=4NPCUmKBxO8C&lpg=PA75&ots=VBeEGQ5hyM&dq=anne%20ruggles%20gere%20when%20participants%20in%20writing%20groups%20read%20finished%20writing&pg=PA75#v=onepage&q=anne%20ruggles%20gere%20when%20participants%20in%20writing%20groups%20read%20finished%20writing&f=false) (quoted in "[Shutting Down Tolkien](http://rhodesmill.org/brandon/slides/2014-08-pygotham/#anne-ruggles-gere)" by Brandon Rhodes):
 
 > [W]hen participants in writing groups read "finished" writing, the
 > language of the group often became acerbic or vacuous because members
