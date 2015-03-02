@@ -19,7 +19,7 @@ For deploying my site:
 
 ```bash
 # run from the root of the git repository
-alias deploy='git push origin master && git push bitbucket master && time python generator/generator.py && rsync -e ssh -r --delete _site/ server:destination/'
+alias deploy='git push origin master && git push bitbucket master && time python3 generator/generator.py && rsync -e ssh -r --delete _site/ server:destination/'
 ```
 
 
