@@ -49,6 +49,7 @@ programs = [
 "flex",
 "bison",
 "gcc",
+"cmake",
 r"g\+\+",
 "ruby",
 "openjdk-7-jre",
