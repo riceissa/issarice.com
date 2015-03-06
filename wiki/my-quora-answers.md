@@ -7,6 +7,272 @@ My main contributions to Quora are through my questions, but I don't think my an
 
 Reverse chronological order
 
+# How do I cope with losing a long-time friend who I love?
+
+[Mirror](https://www.quora.com/How-do-I-cope-with-losing-a-long-time-friend-who-I-love/answer/Issa-Rice)
+
+It's unprofessional of them to refuse communication, but there isn't
+anything you can do about that. Their refusal to communicate is a sign
+that you shouldn't bother with them. In general, I find loneliness
+preferable to interaction with unprofessional, immoral, uninteresting,
+or otherwise unfit people. Finding the right people is difficult, but
+until then, grit your teeth and march on. The sooner your learn this,
+the better.
+
+See also [Raman Shah's answer to What are the most difficult things people have to learn in their 20s?](https://www.quora.com/What-are-the-most-difficult-and-useful-things-people-have-to-learn-in-their-20s/answer/Raman-Shah):
+
+> How little most former friends, significant others, bosses, students,
+> and colleagues care about you once they've gotten what they want.
+> Conversely, how precious the few people are who still care once you
+> can't give them anything.
+
+Also, although the situation here doesn't directly mirror what Caplan
+describes in “[The Futility of Quarreling When There Is No Surplus to Divide](http://econlog.econlib.org/archives/2014/02/the_futility_of.html)”,
+read that post and in particular this quote:
+
+> The only way out is to calm down and admit that bad matches aren't
+> anyone's fault. When two people want incompatible things, they should
+> politely say goodbye and move on with their lives.
+
+
+# One year on, how has Cognito Mentoring benefited you?
+
+[Mirror](https://www.quora.com/One-year-on-how-has-Cognito-Mentoring-benefited-you/answer/Issa-Rice)
+
+[This answer is mostly a quote from my [Cognito Mentoring]() page, so it's easier just to look at that.
+If you're curious about how the page was when I quoted it in the answer, have a look at [the exact commit](https://raw.githubusercontent.com/riceissa/issarice.com/9ff14ea008aa49cba8db6e2459cdf9150fcd2a0c/pages/cognito-mentoring.md).]
+
+# Are the Vipul Naik-related questions on Quora cultish?
+
+[Mirror](https://www.quora.com/Are-the-Vipul-Naik-related-questions-on-Quora-cultish/answer/Issa-Rice)
+
+I don't think so.
+I think I've asked a lot of the questions about Vipul, but I do this for some others like Alex K. Chen and Andrew Ho as well.
+See also [You're Calling \*Who\* A Cult Leader?](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/)
+
+# What are some good questions that could be asked on Quora for any animal species?
+
+[Mirror](https://www.quora.com/What-are-some-good-questions-that-could-be-asked-on-Quora-for-any-animal-species/answer/Issa-Rice)
+
+Some others:
+
+-   What is it like to have sex with X?
+-   What is it like to give X marijuana
+    edibles/MDMA/ketamine/psilocybin/LSD (or any combination thereof)?
+-   What is it like to be on marijuana/MDMA/ketamine/psilocybin/LSD (or
+    any combination thereof) while holding/petting/having sex with/being
+    eaten by/eating X?
+-   What is it like to use X as a verb?
+-   What is it like to watch X mate/reproduce?
+-   What is it like to work with X in a lab environment (as peers)?
+-   What is it like to work with X in a lab environment (where X is the
+    subject)?
+-   What is it like to fall in love with X?
+-   What is it like to marry X?
+-   Do kakapo and X get along?
+-   Can X cry?
+-   What is it like to watch a movie where X is a main character?
+-   Why hasn't [Alex K.  Chen](https://www.quora.com/Alex-K-Chen) asked questions
+    about X yet?
+-   What does it mean if X is your spirit animal?
+-   What is it like to talk to X?
+-   What are the funniest YouTube videos about X?
+-   What does it mean if X is your best friend?
+-   Do stuffed animals of X tend to be cute?
+-   Does X make you go eeeeeee?
+-   What is it like to pet X?
+-   What can X do that humans can't?
+-   What should everybody know about X?
+-   Can I convince X to go vegan and wear sunglasses and a wide-brimmed
+    hat?
+-   What does Alex K. Chen think of X?
+-   What does [Vipul Naik](https://www.quora.com/Vipul-Naik) think of X?
+-   What does [Andrew J.  Ho](https://www.quora.com/Andrew-J-Ho) think of X?
+-   What does X think of [Marc Bodnick](https://www.quora.com/Marc-Bodnick) "always" being
+    on Quora?
+-   What is it like to cuddle with X?
+-   What Disney characters are X?
+-   How many X does it take to screw in a lightbulb?
+-   Why did X cross the road?
+-   My daughter wants X for her Christmas present, but I don't know
+    where to find one. I've also heard things like Y about X, which
+    worries me. I'm also Z years old and feel like I've wasted all my
+    life, and would really just like to give my daughter something she
+    wants. What do I do?
+
+
+# Why has LinkedIn had substantially greater success and impact than OKCupid?
+
+[Mirror](https://www.quora.com/Why-has-LinkedIn-had-substantially-greater-success-and-impact-than-OKCupid/answer/Issa-Rice)
+
+I think it's helpful to consider (1) whether the business-oriented
+nature of LinkedIn has given it an edge over OKCupid, a dating site; and
+(2) if there is anything specifically LinkedIn has been doing right that
+OKCupid hasn't.
+
+It's not too hard to find evidence that online dating has a lot of
+stigma attached to it. Here is just one article on the topic: [Online dating still stigmatized despite popularity, success](http://thegazette.com/2014/03/16/online-dating-still-stigmatized-despite-popularity-sucess/).
+
+Online dating still stigmatized despite popularity, success. In general,
+social networking sites tend to have many more users and much higher
+Alexa rankings than dating sites (see [List of social networking websites](https://en.wikipedia.org/wiki/List_of_social_networking_websites)
+and [Comparison of online dating websites](https://en.wikipedia.org/wiki/Comparison_of_online_dating_websites)).
+If we restrict the social networking sites to just business-oriented
+sites, then we find that LinkedIn has 300 million users (2013), Viadeo
+has 55 million users (2013), and XING about 11 million users. In
+contrast, some of the more popular online dating-focused sites like
+Badoo, Match.com, and Zoosk have as many as 197 million (2013), 96
+million (2010), and 50 million users (2011), respectively. So the
+numbers seem rather comparable, which means LinkedIn may just be
+particularly good, and OKCupid, with only 5.6 million active users
+(2010), may just be particularly bad, in this respect. (Though note here
+that OKCupid is the only site reporting in terms of *active* users, and
+not registered users. I'm also not an expert on the other dating sites
+so I can't say if OKCupid is doing something wrong.)
+
+Other heuristics besides the stigma that one might come up with:
+
+-   After a suitable match has been found on a dating website, the users
+    may delete their profiles. I remember reading about an unfortunate
+    couple who had met on OKCupid, deleted their profiles, and now
+    wished to look at them again, for a sense of nostalgia -- but hadn't
+    made backups of their profiles. Businesses, on the other hand, do
+    not care if you have a LinkedIn profile even while you are working
+    for them. (Thanks to Vipul Naik for clarifying this point with me.)
+-   I get the impression that many people are officially (e.g. schools)
+    or unofficially (e.g. peer pressure) *encouraged* to create LinkedIn
+    profiles, which probably leads to more users, which just doesn't
+    happen for dating sites (although in some social circles, creating
+    online dating profiles may be encouraged somewhat).
+-   The anonymity on OKCupid, in contrast to people using their real
+    names on LinkedIn, could also be a factor: information on LinkedIn
+    has the ability to be reused elsewhere or have a better chance of
+    having an impact in other places (whereas with OKCupid, only your
+    (potential) partners will ever care about the information, and it
+    won't be linked to your real identity). (Thanks to Vipul Naik for
+    this idea.)
+
+
+# How did you discover Cognito Mentoring?
+
+[Mirror](https://www.quora.com/How-did-you-discover-Cognito-Mentoring/answer/Issa-Rice)
+
+I saw Jonah's original post on Less Wrong. I was a bit scared to contact them on my own so I had a friend also contact them.
+
+# Who is interested in a December 2014 Quora meetup in Seattle?
+
+[Mirror](https://www.quora.com/Who-is-interested-in-a-December-2014-Quora-meetup-in-Seattle/answer/Issa-Rice)
+
+Sure, I'd be interested.
+
+# What does Issa Rice think of Andrew J. Ho's recent questions as of 4 November 2014?
+
+[Mirror](https://www.quora.com/What-does-Issa-Rice-think-of-Quora-Users-recent-questions-as-of-4-November-2014/answer/Issa-Rice)
+
+I find them all to be very amusing. [What is it like to secretly mix in small amounts of your own blood with cookie dough that you intend on baking into cookies for your significant other?](https://www.quora.com/What-is-it-like-to-secretly-mix-in-small-amounts-of-your-own-blood-with-cookie-dough-that-you-intend-on-baking-into-cookies-for-your-significant-other)
+in particular seems especially creative, and is giving me ideas about
+other questions I could ask.
+
+I can never tell whether your relationship questions are completely
+serious or a deliberate attempt to be humorous and mocking of similar
+Quora questions.
+
+Your Asian-American questions are also highly relevant to my own
+situation so I appreciate you asking those.
+
+
+# What would Noam Chomsky think of unschooling?
+
+[Mirror](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice)
+
+Chomsky hated high school, so presumably his opinion of unschooling is
+more positive (though it's not quite clear what type of education he
+considers ideal; I suppose that he will in general support any education
+system that promotes creative thinking, which includes the Deweyite
+school he attended, which is mentioned in the quotes below). Some quotes
+will illustrate his thinking (all emphasis mine):
+
+> I had friends but **I hated high school**. [...] My parents worked, so
+> from about 18 months I’ve been in school. But up until 8th  grade I
+> was in an experimental school run by Temple University.  Progressive
+> school, and that was great. But in high school I had to go  to an
+> actual ‘high school’. There was one academic high school were I  was,
+> one for boys, one for girls, and it was very rigid. For the  teachers
+> it was a dream because the kids there wanted to go to college,  so the
+> teachers could sit back and relax. But it was very rigid, you  know,
+> tests, grades. I had never had grades before, never knew I was a  good
+> student, nothing. And it was a bore. **It was a black hole**.
+
+(From [The Secret of Noam: A Chomsky Interview](http://brightestyoungthings.com/articles/the-secret-of-noam-a-chomsky-interview.htm))
+
+> There are huge efforts that do go into making people, to borrow Adam
+> Smith's phrase, "as stupid and ignorant as it is possible for a human
+> being to be." **A lot of the educational system is designed for that,
+> if you think about it, it's designed for obedience and passivity**.
+> From childhood, a lot of it is designed to prevent people from being
+> independent and creative. **If you're independent-minded in school,
+> you're probably going to get into trouble very early on**. That's not
+> the trait that's being preferred or cultivated.
+
+(From [Education is Ignorance](http://www.chomsky.info/books/warfare02.htm))
+
+> For example, it wasn't until I was in high school that I knew I was a
+> good student. The question had never arisen. I was very surprised when
+> I got into high school and discovered that I was getting all A's and
+> that was supposed to be a big deal. That question had never arisen in
+> my entire education. In fact, every student in the school I had
+> previously attended was regarded as somehow being a very successful
+> student. There was no sense of competition, no ranking of students. It
+> was never anything even to think about. It just never came up that
+> there was a question of how you were ranked relative to other
+> students. Well, anyway, at **this particular school, which was
+> essentially a Deweyite school and I think a very good one, judging
+> from my experience, there was a tremendous premium on personal
+> creativity, not in the sense of slapping paints on paper, but doing
+> the kind of work and thinking that you were interested in**. Interests
+> were encouraged and children were encouraged to pursue their
+> interests. They worked jointly with others or by themselves. It was a
+> lively atmosphere, and the sense was that everyone was doing something
+> important.
+> 
+> [...]
+> 
+> Well, then I got to high school, the academic high school in the
+> public school system, which was supposed to be a very good high
+> school, and it was a real shocker. For one thing, as I said, there
+> was  the shock of discovering that I was a good student, which had
+> never occurred to me before. And then there was the whole system of
+> prestige and value that went along with that. And the intense
+> competitiveness and regimentation. In fact, I can remember a lot about
+> elementary school, the work I did, what I studied and so on. **I
+> remember virtually nothing about high school. It's almost an absolute
+> blank in my memory  apart from the emotional tone, which was quite
+> negative**.
+> 
+> If I think back about my experience, there's a dark spot there. 
+> That's what schooling generally is, I suppose. It's a period of 
+> regimentation and control, part of which involves direct
+> indoctrination, providing a system of false beliefs. But more
+> importantly, I think, is the manner and style of **preventing and
+> blocking independent and creative thinking and imposing hierarchies
+> and competitiveness and the need to excel, not in the sense of doing
+> as well as you can, but doing better than the next person**. Schools
+> vary, of course, but I think that those features are commonplace. **I
+> know that they're not necessary, because, for example, the school I
+> went to as a child wasn't like that at all**.
+> 
+> I think schools could be run quite differently. That would be very
+> important, but I really don't think that any society based on
+> authoritarian hierarchic institutions would tolerate such a school
+> system for long. As Sam Bowles and Herb Gintis have pointed out, it 
+> might be tolerated for the elite, because they would have to learn how
+> to think and create and so on, but not for the mass of the
+> population.   There are roles that the public schools play in society
+> that can be very destructive.
+
+(From [Personal influences](http://www.chomsky.info/books/reader01.htm))
+
+
 # What was it like to attend the Seattle Quora meetup on October 24, 2014?
 
 [Mirror](https://www.quora.com/What-was-it-like-to-attend-the-Seattle-Quora-meetup-on-October-24-2014)

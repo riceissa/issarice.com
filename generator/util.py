@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Copyright (c) 2015, Issa Rice
@@ -32,28 +32,20 @@ import shlex
 from slugify import slugify_unicode
 import os
 
-def run_command(command, pipe_in=''):
+def run_command(command, pipe_in=None):
     '''
-    Run command and return its output by optionally piping in pipe_in.
-    Same as
+    Run command and return its output. Optionally pipe in string using
+    pipe_in.  Same as
         command < pipe_in.txt
-    where pipe_in.txt contains pipe_in.  If no pipe_in is
-    specified, or pipe_in is '', then just run the command
-    and return its output.
+    where pipe_in.txt contains pipe_in.
     '''
-    if pipe_in == '':
+    if pipe_in is None:
         process = subprocess.Popen(
             shlex.split(command),
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
         stdout, stderr = process.communicate()
-        if stderr not in ["None", "", None]:
-            print("On the command")
-            print("    {command}".format(command=command))
-            print("there was an error:")
-            print(stderr)
-        return stdout
     else:
         # See http://stackoverflow.com/a/165662/3422337
         process = subprocess.Popen(
@@ -62,47 +54,55 @@ def run_command(command, pipe_in=''):
             stdin=subprocess.PIPE,
             stderr=subprocess.PIPE,
         )
-        stdout, stderr = process.communicate(input=pipe_in)
-        if stderr not in ["None", "", None]:
-            print("On the command")
-            print("    {command}".format(command=command))
-            print("with the input")
+        stdout, stderr = process.communicate(input=bytes(pipe_in, 'utf-8'))
+    if stderr not in ["None", "", None, b'']:
+        print("On the command")
+        print("    {command}".format(command=command))
+        if pipe_in is not '':
+            print("with the input line(s) beginning with")
             for line in pipe_in.split("\n"):
-                print("    " + line)
-            print("there was an error:")
-            print(stderr)
+                l = min(75, len(line))
+                print("    " + line[0:l])
+        print("there was an error:")
+        print(stderr.decode('utf-8'))
+    if isinstance(stdout, bytes):
+        return stdout.decode('utf-8')
+    else:
         return stdout
 
 def to_unicode(string):
     '''
     Convert a string, bool, int, float, or unicode to a unicode object.
     '''
-    if isinstance(string, unicode):
-        return string
-    if type(string) in [bool, float, int, str]:
-        return str(string).decode('utf-8')
+    if type(string) in [bytes, bool, float, int, str]:
+        return str(string)
     if isinstance(string, type(None)):
-        return "".decode('utf-8')
+        return ""
     else:
-        raise TypeError("to_unicode cannot convert something ({s}) that isn't a string, unicode, or bool; type was {t}".format(s=string, t=type(string)))
+        raise TypeError("to_unicode cannot convert something ({s}) that isn't a string, bytes, or bool; type was {t}".format(s=string, t=type(string)))
 
 def to_string(unic):
     '''
     Convert a string, bool, or unicode to a string.
     '''
-    if isinstance(unic, unicode):
-        return unic.encode('utf-8')
+    if type(unic) is bytes:
+        return unic.decode('utf-8')
     if type(unic) in [str, int, float, bool]:
         return str(unic)
     else:
-        raise TypeError("to_string cannot convert something that isn't a string, unicode, or bool")
+        try:
+            return str(unic)
+        except TypeError:
+            raise TypeError("to_string cannot convert something that isn't " +
+            "a string, bytes, or bool. " +
+            "Type was: " + str(type(unic)))
 
 def parse_as_list(x, delimiter=','):
     '''
     Take a list or string of comma-delimited items, and return a cleaned
     list.
     '''
-    if type(x) in [str, unicode]:
+    if type(x) in [str]:
         return [to_unicode(i.strip(" ")) for i in x.split(delimiter)
             if i != '']
     elif type(x) is list:

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Copyright (c) 2014, Issa Rice
@@ -33,7 +33,6 @@ from datetime import datetime
 import yaml
 from yaml import SafeLoader, BaseLoader
 from jinja2 import Template, Environment, FileSystemLoader
-import commands as c
 from tag_ontology import *
 from util import *
 
@@ -49,29 +48,36 @@ class Filepath(object):
     directory.
     '''
     def __init__(self, path):
-        path = path.strip()
-        if path[0] in ["/", "~"]:
-            raise AbsolutePathException(
-                "path is absolute; must be relative"
-            )
-        elif path[-1] in ["/"] or os.path.isdir(path):
-            raise DirectoryException(
-                "path is a directory; must be a file"
-            )
-        self.path = path
+        if type(path) is Filepath:
+            self.path = path.path
+        else:
+            path = path.strip()
+            if path[0] in ["/", "~"]:
+                raise AbsolutePathException(
+                    "path is absolute; must be relative"
+                )
+            elif path[-1] in ["/"] or os.path.isdir(path):
+                raise DirectoryException(
+                    "path is a directory; must be a file"
+                )
+            self.path = path
 
     def __repr__(self):
         return self.path
 
     def filename(self):
         '''
-        >>> Filepath("pages/programming/hello.md")
+        Return the base filename.
+
+        >>> Filepath("pages/programming/hello.md").filename()
         'hello.md'
         '''
         return os.path.split(self.path)[1]
 
     def directory(self):
         '''
+        Return the relative directory name.
+
         >>> Filepath("pages/programming/hello.md").directory()
         'pages/programming/'
         '''
@@ -79,6 +85,8 @@ class Filepath(object):
 
     def path_lst(self):
         '''
+        Return a list of the individual components of the filepath.
+
         >>> Filepath("pages/programming/hello.md").path_lst()
         ['pages', 'programming', 'hello.md']
         '''
@@ -116,8 +124,8 @@ class Route(object):
         result = self.route(filepath)
         if type(result) is not Filepath:
             raise TypeError(
-                "output is not a filepath;\
-                this route object is an invalid route"
+                "output is not a filepath; " +
+                "this route object is an invalid route"
             )
         return result
 
@@ -179,102 +187,71 @@ class TagList(object):
         self.standardize_using(tag_synonyms)
         self.imply_using(tag_implications)
 
-class Metadata(object):
+def process_metadata(metadata, **kwargs):
     '''
-    Represents the metadata of a file.
+    Take a dict and optional keywords, and return a sane dict for use as
+    metadata to a page.  The input dict is unmodified.
     '''
-    def __init__(self, **kwargs):
-        self._is_empty = True
-        for key in kwargs:
-            self._is_empty = False
-            if type(kwargs[key]) in [str, bool, unicode]:
-                self.__setattr__(key, to_unicode(kwargs[key]))
-            else:
-                self.__setattr__(key, kwargs[key])
-        if "title" in kwargs.keys():
-            self.title = to_unicode(kwargs['title'])
+    metadata = dict(metadata)
+    # Combine kwargs; kwargs overrides
+    metadata.update(kwargs)
+    aliases = []
+    if "aliases" in metadata:
+        metadata["aliases"] = list(map(slug,
+            parse_as_list(metadata["aliases"])))
+    else:
+        metadata["aliases"] = []
+    if "author" not in metadata:
+        metadata["author"] = []
+    if "description" not in metadata:
+        metadata["description"] = ""
+    if "language" not in metadata:
+        metadata["language"] = "English"
+    license = "UNKNOWN"
+    if "license" in metadata:
+        license = metadata['license']
+        # Clean up license string
+        for char in ' -':
+            license = license.replace(char, '')
+        license = license.upper()
+        if license in ["CC0", "PUBLICDOMAIN", "PD"]:
+            license = "CC0"
+        elif license in ["CCBY", "BY", "ATTRIBUTION"]:
+            license = "CC-BY"
+        elif license in ["CCBYSA", "CCSA", "SHAREALIKE"]:
+            license = "CC-BY-SA"
         else:
-            self.title = to_unicode("")
-        if "authors" in kwargs.keys():
-            self.authors = parse_as_list(kwargs['authors'])
-        else:
-            self.authors = []
-        if "math" in kwargs.keys():
-            if type(kwargs['math']) is bool:
-                if kwargs['math']:
-                    self.math = "True"
-                else:
-                    self.math = "False"
-            else:
-                self.math = kwargs['math']
-            self.math = to_unicode(self.math)
-        else:
-            self.math = "False"
-        if "license" in kwargs.keys():
-            license = kwargs['license']
-            # clean up license string
-            for char in ' -':
-                license = license.replace(char, '')
-            license = license.upper()
-            if license in ["CC0", "PUBLICDOMAIN", "PD"]:
-                self.license = to_unicode("CC0")
-            elif license.upper() in ["CCBY", "BY", "ATTRIBUTION"]:
-                self.license = to_unicode("CC-BY")
-            elif license.upper() in ["CCBYSA", "CCSA", "SHAREALIKE"]:
-                self.license = to_unicode("CC-BY-SA")
-            else:
-                # set default license to unknown (i.e., copyrighted)
-                self.license = to_unicode("UNKNOWN")
-        else:
-            self.license = to_unicode("UNKNOWN")
-        if "tags" in kwargs.keys():
-            tag_list = TagList(parse_as_list(kwargs['tags']))
-            tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
-            self.tags = tag_list.data
-        if "aliases" in kwargs.keys():
-            self.aliases = parse_as_list(kwargs['aliases'])
-        if "language" in kwargs.keys():
-            self.language = to_unicode(kwargs['language'])
-        else:
-            self.language = "English"
-
-    def __repr__(self):
-        return self.__dict__.__repr__()
-
-    def update_with(self, other):
-        if type(other) is Metadata:
-            self.__init__(**other.__dict__)
-        elif type(other) is dict:
-            self.__init__(**other)
-        else:
-            raise TypeError("you must update_with another metadata object or a dict")
-
-    def __call__(self, **kwargs):
-        self.__init__(**kwargs)
-        #for key in kwargs:
-            #print "setting {key} to {val}".format(key=key, val=kwargs[key])
-            #if key == "tags":
-                #self.__setattr__(key, kwargs[key])
-            #else:
-                #self.__setattr__(key, to_unicode(kwargs[key]))
-
-    def is_empty(self):
-        return self._is_empty
-
-default_metadata = Metadata(title="", tags=["untagged"], math="False", authors=[], license="CC-BY", language="English")
+            # Set default license to unknown (i.e., copyrighted)
+            license = "UNKNOWN"
+    metadata['license'] = license
+    # Change possible bool to str
+    metadata["math"] = str(metadata['math']) if "math" in metadata\
+        else "False"
+    tags = ["untagged"]
+    if "tags" in metadata:
+        tag_list = TagList(parse_as_list(metadata['tags']))
+        tag_list.organize_using(TAG_SYNONYMS, TAG_IMPLICATIONS)
+        tags = tag_list.data
+    metadata['tags'] = tags
+    if "title" not in metadata:
+        metadata["title"] = ""
+    return metadata
 
 class Page(object):
     '''
-    Represents a typical page (i.e. those that are read from a file and
-    are to be converted); special pages like the page with all the tags
-    will not be an object of this class.
+    Represents a page.  Typical pages are initialized with just an
+    origin, and the metadata is read from the file, and the destination
+    is computed using routes.  On the other hand, special pages (i.e.
+    those that are generated by the program, like the page of all tags)
+    are initialized with metadata, data, and a destination.
     '''
-    def __init__(self, origin, metadata=Metadata()):
-        if type(origin) is Filepath:
-            self.origin = origin
-        else:
+    def __init__(self, origin=None, metadata={}, data=None,
+        destination=None):
+        if origin is not None:
             self.origin = Filepath(origin)
-        self.metadata = metadata
+        self.metadata = process_metadata(metadata)
+        self.data = data
+        self.destination = destination
 
     def load_metadata(self):
         with open(self.origin.path, 'r') as f:
@@ -285,17 +262,32 @@ class Page(object):
                 while then not in ['---\n', '...\n', '']:
                     metadata += then
                     then = f.readline()
-            self.metadata = Metadata(**yaml.load(metadata,
+            self.metadata = process_metadata(yaml.load(metadata,
                 Loader=BaseLoader))
+
+    def write(self):
+        if self.destination is None:
+            print("No destination is set; cannot write to file.")
+        else:
+            directory = Filepath(self.destination).directory()
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            with open(self.destination, "w", encoding="utf-8") as f:
+                f.write(self.data)
 
     def pandoc_compiled(self):
         '''
         Compile page with Pandoc and return the string of the output.
         '''
-        ast = json.loads(run_command("pandoc --smart -f markdown -t json {page}".format(page=self.origin.path)))
+        output = run_command(
+            "pandoc --smart -f markdown -t json {page}".format(
+            page=self.origin.path))
+        ast = json.loads(output)
         return to_unicode(
             run_command(
-                "pandoc -f json -t html --toc --toc-depth=4 --template=templates/toc.html --smart --mathjax --base-header-level=2 --filter generator/url_filter.py",
+                "pandoc -f json -t html --toc --toc-depth=4 " +
+                "--template=templates/toc.html --smart --mathjax " +
+                "--base-header-level=2 --filter generator/url_filter.py",
                 pipe_in=json.dumps(ast, separators=(',',':'))
             )
         )
@@ -304,11 +296,11 @@ class Page(object):
         '''
         Compile page all the way and return the string of the output.
         '''
-        if self.metadata.is_empty():
+        if not self.metadata:
             self.load_metadata()
         env = Environment(loader=FileSystemLoader('.'))
-        if self.metadata.language.lower() in [u"ja", u"japanese", u"にほんご",
-            u"日本語"]:
+        if self.metadata['language'].lower() in [u"ja", u"japanese",
+            u"にほんご", u"日本語"]:
             skeleton = env.get_template('templates/ja/skeleton.html')
         else:
             skeleton = env.get_template('templates/skeleton.html')
@@ -325,7 +317,7 @@ class Page(object):
                             route_with(to_dir(tags_dir)).path,
                         ),
                     }
-                    for tag in self.metadata.tags
+                    for tag in self.metadata["tags"]
                 ],
                 key = lambda t: t['name'].lower(),
             ),
@@ -335,7 +327,8 @@ class Page(object):
         return final
 
     def base(self):
-        return self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route).path
+        return self.origin.route_with(set_extension("")).route_with(
+            drop_one_parent_dir_route).path
 
     def __repr__(self):
         return "Page({})".format(self.origin.path.__repr__())
@@ -363,7 +356,13 @@ class Page(object):
 
 @Route
 def drop_one_parent_dir_route(filepath):
-    return Filepath('/'.join([i for i in split_path(filepath.path)[1:]]))
+    path = filepath.path
+    dirs = split_path(path)
+    if len(dirs) < 2:
+        raise ValueError(
+            "The path {} is too short; cannot drop directory".format(path))
+    dirs = dirs[1:]
+    return Filepath('/'.join(dirs))
 
 def to_dir(dirname):
     '''

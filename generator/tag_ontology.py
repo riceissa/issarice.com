@@ -36,6 +36,8 @@ from collections import OrderedDict
 TAG_SYNONYMS = {
     "atmopsheric sciences":
         ["atmos"],
+    "biology":
+        ["bio"],
     "Bryan Caplan":
         ["caplan"],
     "chemistry":
@@ -52,6 +54,8 @@ TAG_SYNONYMS = {
         [],
     "Debian":
         ["deb"],
+    "economics":
+        ["econ"],
     "effective altruism":
         ["ea", "effective-altruism", "effectivealtruism"],
     "English":
@@ -66,6 +70,8 @@ TAG_SYNONYMS = {
         [],
     "Hakyll":
         [],
+    "human biodiversity":
+        ["hbd"],
     "high school":
         ["hs"],
     "Japan":

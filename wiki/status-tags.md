@@ -15,10 +15,15 @@ tags: site-info
 aliases: status-tag
 ---
 
-I am taking the idea of status tags from gwern.
+I am taking the idea of status tags [from gwern](http://www.gwern.net/About#belief-tags).
 Here is his original explanation, though my use (explained below) differs slightly.
 
-> The "status" tag describes the state of completion: whether it's a pile of links & snippets & "notes", or whether it is a "draft" which at least has some structure and conveys a coherent thesis, or it's a well-developed draft which could be described as "in progress", and finally when a page is done - in lieu of additional material turning up - it is simply "finished".
+> The "status" tag describes the state of completion: whether it's a
+> pile of links & snippets & "notes", or whether it is a "draft" which
+> at least has some structure and conveys a coherent thesis, or it's a
+> well-developed draft which could be described as "in progress", and
+> finally when a page is done - in lieu of additional material turning
+> up - it is simply "finished".
 
 Below is how I use status tags:
 
@@ -34,3 +39,10 @@ In progress
 
 Mostly finished
 :    For pages that I consider mostly done, needing only minor corrections.
+
+I prefer to think of my writings as continuously improving drafts, partly because I might obtain better feedback.
+For instance [Anne Ruggles Gere writes](https://books.google.com/books?id=4NPCUmKBxO8C&lpg=PA75&ots=VBeEGQ5hyM&dq=anne%20ruggles%20gere%20when%20participants%20in%20writing%20groups%20read%20finished%20writing&pg=PA75#v=onepage&q=anne%20ruggles%20gere%20when%20participants%20in%20writing%20groups%20read%20finished%20writing&f=false) (quoted in "[Shutting Down Tolkien](http://rhodesmill.org/brandon/slides/2014-08-pygotham/#anne-ruggles-gere)" by Brandon Rhodes):
+
+> [W]hen participants in writing groups read "finished" writing, the
+> language of the group often became acerbic or vacuous because members
+> felt (perhaps unconsciously) that they had no purpose.

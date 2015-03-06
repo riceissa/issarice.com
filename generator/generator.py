@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Copyright (c) 2014, Issa Rice
@@ -36,6 +36,7 @@ import hashlib
 
 from classes import *
 from tag_ontology import *
+from config import *
 
 def clean():
     print("Removing {d}".format(d=SITE_DIRECTORY))
@@ -44,106 +45,103 @@ def clean():
 def compile_scss():
     if not os.path.exists(SITE_DIRECTORY + SITE_CSS_DIRECTORY):
         os.makedirs(SITE_DIRECTORY + SITE_CSS_DIRECTORY)
-    command = "sass --style compressed " + PRE_CSS_DIRECTORY + "minimal.scss"
+    command = "sass --style compressed " + PRE_CSS_DIRECTORY +\
+        "minimal.scss"
     compiled = run_command(command)
-    with open(SITE_DIRECTORY + SITE_CSS_DIRECTORY +
-        "minimal.css", 'w') as f:
+    with open(SITE_DIRECTORY + SITE_CSS_DIRECTORY + "minimal.css",
+        'w', encoding='utf-8') as f:
         f.write(compiled)
 
 def copy_files(pattern, destination):
+    '''
+    Copy files matching a pattern to a destination directory.
+    '''
     if not os.path.exists(destination):
         os.makedirs(destination)
     for f in glob.glob(pattern):
         print("Copying {f} to {to}".format(f=f, to=destination))
         run_command("cp {f} {to}".format(f=f, to=destination))
 
-def create_pages(list_page):
-    for page in list_page:
-        print("Processing " + str(page.origin))
-        write_to = page.origin.route_with(my_route)
-        final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
-        if not os.path.exists(SITE_DIRECTORY):
-            os.makedirs(SITE_DIRECTORY)
-        with open(write_to.path, 'w') as f:
-            f.write(to_string(final))
-
 def build_data(list_filepath):
+    '''
+    Take a list of Filepaths and return a tuple of two lists: the first
+    is a list of all pages corresponding to the filepaths, and the
+    second is a list of all tags that are in those pages.
+    '''
     list_page = []
     list_tag = []
     for filepath in list_filepath:
         page = Page(filepath)
         page.load_metadata()
         list_page.append(page)
-        list_tag.extend(page.metadata.tags)
+        list_tag.extend(page.metadata["tags"])
     list_tag = list(set(list_tag))
     return (list_page, list_tag)
+
+def create_pages(list_page):
+    '''
+    Take a list of pages and yield new pages with the compiled data.
+    '''
+    for page in list_page:
+        print("Processing " + str(page.origin))
+        write_to = page.origin.route_with(my_route).path
+        final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
+        yield Page(data=final, destination=write_to)
 
 def create_single_page(filepath):
     '''
     For use when one only wants to partially compile.
     '''
-    page = Page(filepath)
+    page = Page(origin=filepath)
     print("Processing " + str(page.origin))
+    page.destination = page.origin.route_with(my_route).path
     page.load_metadata()
-    write_to = page.origin.route_with(my_route)
-    final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
-    if not os.path.exists(SITE_DIRECTORY):
-        os.makedirs(SITE_DIRECTORY)
-    with open(write_to.path, 'w') as f:
-        f.write(to_string(final))
+    page.data = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
+    return page
 
-def create_tag_page(list_page, list_tag):
+def create_tag_pages(list_page, list_tag):
     for tag in list_tag:
         print("Processing tag page for " + tag)
         pages = []
         for page in list_page:
-            if tag in page.metadata.tags:
-                pages.append({'title': to_unicode(page.metadata.title), 'url': to_unicode("../" + page.base())})
+            if tag in page.metadata["tags"]:
+                pages.append({
+                    'title': page.metadata['title'],
+                    'url': "../" + page.base(),
+                })
         pages = sorted(pages, key=lambda t: t['title'].lower())
         write_to = Filepath(SITE_DIRECTORY + SITE_TAGS_DIRECTORY +
-            to_string(slug(tag)))
-        ctx = Metadata(
-            title = "Tag: " + tag,
-            license = "cc0",
-        )
+            slug(tag)).path
+        metadata = {
+            "title": "Tag: " + tag,
+            "license": "cc0",
+        }
         env = Environment(loader=FileSystemLoader('.'))
         page_list = env.get_template('templates/page-list.html')
-        body = to_unicode(page_list.render(pages=pages))
+        body = page_list.render(pages=pages)
         skeleton = env.get_template('templates/skeleton.html')
-        final = skeleton.render(
-            body = body,
-            page = ctx,
-            css = Filepath(SITE_CSS_DIRECTORY +
-                "minimal.css").relative_to(Filepath(SITE_TAGS_DIRECTORY +
-                to_string(tag))).path,
-            path = "../",
-        )
-        if not os.path.exists(SITE_DIRECTORY + SITE_TAGS_DIRECTORY):
-            os.makedirs(SITE_DIRECTORY + SITE_TAGS_DIRECTORY)
-        with open(write_to.path, 'w') as f:
-            f.write(to_string(final))
+        final = skeleton.render(body=body, page=metadata, path="../")
+        page = Page(metadata=metadata, data=final, destination=write_to)
+        yield page
 
-# Make page with all tags
 def create_page_with_all_tags(list_tag):
+    '''
+    Take a list of tags and return a page that lists all the tags.
+    '''
     print("Creating page with all the tags")
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
-    pages = [{'title': to_unicode(tag), 'url': to_unicode(slug(tag))} for tag in list_tag]
+    pages = [{'title': tag, 'url': slug(tag)} for tag in list_tag]
     pages = sorted(pages, key=lambda t: t['title'].lower())
-    body = to_unicode(page_list.render(pages=pages))
+    body = page_list.render(pages=pages)
     skeleton = env.get_template('templates/skeleton.html')
-    ctx = Metadata(
-        title = "All tags",
-        css = Filepath(SITE_CSS_DIRECTORY +
-            "minimal.css").relative_to(Filepath(SITE_TAGS_DIRECTORY +
-            "index")).path,
-        license = "cc0",
-    )
-    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="../")
-    if not os.path.exists(SITE_DIRECTORY + SITE_TAGS_DIRECTORY):
-        os.makedirs(SITE_DIRECTORY + SITE_TAGS_DIRECTORY)
-    with open(SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index", 'w') as f:
-        f.write(to_string(final))
+    metadata = {
+        "title": "All tags",
+        "license": "cc0",
+    }
+    final = skeleton.render(page=metadata, body=body, path="../")
+    return Page(data=final,
+        destination=SITE_DIRECTORY + SITE_TAGS_DIRECTORY + "index")
 
 # Make page with all pages
 def create_page_with_all_pages(list_page):
@@ -152,85 +150,85 @@ def create_page_with_all_pages(list_page):
     page_list = env.get_template('templates/page-list.html')
     pages = [
         {
-            'title': to_unicode(page.metadata.title),
-            'url': to_unicode(page.base())
+            'title': page.metadata['title'],
+            'url': page.base(),
         } for page in list_page
     ]
     pages = sorted(pages, key=lambda t: t['title'])
     body = page_list.render(pages=pages)
     skeleton = env.get_template('templates/skeleton.html')
-    ctx = Metadata(
-        title = "All pages on the site",
-        css = Filepath(SITE_CSS_DIRECTORY +
+    metadata = {
+        "title": "All pages on the site",
+        "css": Filepath(SITE_CSS_DIRECTORY +
             "minimal.css").relative_to(Filepath("all")).path,
-        license = "cc0",
-    )
-    final = skeleton.render(page=ctx, body=body, css=ctx.css, path="./")
-    if not os.path.exists(SITE_DIRECTORY):
-        os.makedirs(SITE_DIRECTORY)
-    with open(SITE_DIRECTORY + "_all", 'w') as f:
-        f.write(to_string(final))
+        "license": "cc0",
+    }
+    final = skeleton.render(page=metadata, body=body, css=metadata["css"],
+        path="./")
+    return Page(data=final, destination=SITE_DIRECTORY + "_all")
 
-def create_sitemap(list_page, list_tag):
+def create_sitemap(list_page=[], list_tag=[]):
+    '''
+    Take a list of pages and a list of tags.  Return a page object for
+    the sitemap.
+    '''
     print("Generating sitemap")
-
     env = Environment(loader=FileSystemLoader('.'))
     sitemap_list = env.get_template('templates/sitemap-list.xml')
-    list_page = sorted(list_page, key=lambda t: t.metadata.title)
-    body = u""
+    list_page = sorted(list_page, key=lambda t: t.metadata['title'])
+    body = ""
     for page in list_page:
-        body += to_unicode(sitemap_list.render(slug=to_unicode(page.base())))
+        body += sitemap_list.render(slug=page.base())
     for t in list_tag:
-        body += to_unicode(sitemap_list.render(slug="_tags/" + t))
+        body += sitemap_list.render(slug="_tags/" + t)
     sitemap = env.get_template('templates/sitemap.xml')
     final = sitemap.render(body=body)
-
-    with open(SITE_DIRECTORY + "sitemap.xml", "w") as f:
-        f.write(to_string(final))
+    return Page(data=final, destination=SITE_DIRECTORY + "sitemap.xml")
 
 def create_rss(list_page):
     print("Generating RSS feed")
     env = Environment(loader=FileSystemLoader('.'))
     feed_template = env.get_template('templates/rss.xml')
-    list_page = sorted(list_page, key=lambda t: t.revision_date(string=False), reverse=True)
-    pages = [
-        {
-            'title': page.metadata.title + " ({})".format(page.revision_date(string=False).strftime("%Y-%m-%d").strip()),
-            'description': page.metadata.description if hasattr(page.metadata, 'description') else "",
-            'slug': to_unicode(page.base()),
-            'hashval': hashlib.sha1(to_string(page.metadata.title) + "|" + page.revision_date()).hexdigest(),
-            'date': page.revision_date(),
+    list_page = sorted(list_page, key=lambda t: t.revision_date(
+        string=False), reverse=True)
+    pages = []
+    for page in list_page:
+        hashstr = page.metadata["title"] + "|" + page.revision_date()
+        hashval = hashlib.sha1(hashstr.encode('utf-8')).hexdigest()
+        metadata = {
+            "title": page.metadata["title"] + " ({})".format(
+                page.revision_date(string=False).strftime(
+                "%Y-%m-%d").strip()),
+            "description": page.metadata["description"] if
+                "description" in page.metadata else "",
+            "slug": page.base(),
+            "hashval": hashval,
+            "date": page.revision_date(),
         }
-        for page in list_page
-    ]
-    final = feed_template.render(pages=pages, now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
-
-    with open(SITE_DIRECTORY + "feed.xml", "w") as f:
-        f.write(to_string(final))
+        pages.append(metadata)
+    final = feed_template.render(pages=pages,
+        now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
+    return Page(data=final, destination=SITE_DIRECTORY + "feed.xml")
 
 def create_aliases(list_page):
+    '''
+    Take a list of pages and yield alias pages for them.
+    '''
     for page in list_page:
-        try:
-            aliases = [slug(i) for i in page.metadata.aliases]
-            for alias in aliases:
+        if "aliases" in page.metadata:
+            for alias in page.metadata["aliases"]:
                 print("Creating alias: " + alias)
                 write_to = Filepath(alias).route_with(site_dir_route).path
                 env = Environment(loader=FileSystemLoader('.'))
                 skeleton = env.get_template('templates/redirect.html')
-                final = skeleton.render(
-                    title = to_unicode(page.metadata.title),
-                    location = to_unicode(page.base()),
-                )
-                if not os.path.exists(write_to):
-                    with open(write_to, 'w') as f:
-                        f.write(to_string(final))
-        except AttributeError:
-            pass
+                final = skeleton.render(title=page.metadata["title"],
+                    location=page.base())
+                yield Page(data=final, destination=write_to)
 
 if __name__ == '__main__':
-    from config import *
     import argparse
-    parser = argparse.ArgumentParser(description='generate a site or just a few files')
+    parser = argparse.ArgumentParser(
+        description='generate a site or just a few files')
     parser.add_argument(
         "--files",
         "--file",
@@ -242,7 +240,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     if args.files is not None:
         for p in args.files:
-            create_single_page(p)
+            create_single_page(p).write()
     else:
         # So build the whole site
         clean()
@@ -251,11 +249,15 @@ if __name__ == '__main__':
         list_page, list_tag = build_data(list_filepath)
         compile_scss()
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
-        copy_files(PRE_STATIC_DIRECTORY + "*", SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
-        create_pages(list_page)
-        create_tag_page(list_page, list_tag)
-        create_page_with_all_tags(list_tag)
-        create_page_with_all_pages(list_page)
-        create_aliases(list_page)
-        create_sitemap(list_page, list_tag)
-        create_rss(list_page)
+        copy_files(PRE_STATIC_DIRECTORY + "*",
+            SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
+        for page in create_pages(list_page):
+            page.write()
+        for page in create_tag_pages(list_page, list_tag):
+            page.write()
+        create_page_with_all_tags(list_tag).write()
+        create_page_with_all_pages(list_page).write()
+        for page in create_aliases(list_page):
+            page.write()
+        create_sitemap(list_page, list_tag).write()
+        create_rss(list_page).write()
