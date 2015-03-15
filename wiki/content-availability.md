@@ -55,3 +55,7 @@ you more candid responses.
 # Licensing
 
 See [Content licensing]().
+
+# See also
+
+- <http://reducing-suffering.org/why-i-prefer-public-conversations/>
