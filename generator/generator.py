@@ -33,6 +33,7 @@ from jinja2 import Template, Environment, FileSystemLoader
 import os
 from datetime import datetime
 import hashlib
+import shutil
 
 from classes import *
 from tag_ontology import *
@@ -58,9 +59,10 @@ def copy_files(pattern, destination):
     '''
     if not os.path.exists(destination):
         os.makedirs(destination)
-    for f in glob.glob(pattern):
-        print("Copying {f} to {to}".format(f=f, to=destination))
-        run_command("cp {f} {to}".format(f=f, to=destination))
+    for f in glob.iglob(pattern):
+        if os.path.isfile(f):
+            print("Copying {f} to {to}".format(f=f, to=destination))
+            shutil.copy2(f, destination)
 
 def build_data(list_filepath):
     '''
@@ -244,7 +246,7 @@ if __name__ == '__main__':
     else:
         # So build the whole site
         clean()
-        pages_pat = PRE_PAGES_DIRECTORY + "*.md"
+        pages_pat = PRE_PAGES_DIRECTORY + PRE_PAGES_GLOB
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
         compile_scss()
