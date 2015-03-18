@@ -16,6 +16,7 @@
 SITE_DIRECTORY = "_site/"
 SITE_PAGES_DIRECTORY = "" # "" will make it the same as SITE_DIRECTORY
 PRE_PAGES_DIRECTORY = "wiki/"
+PRE_PAGES_GLOB = "a*.md"
 # Tags are pulled from the pages themselves, so they won't have a "PRE_"
 # equivalent
 SITE_TAGS_DIRECTORY = "_tags/"
