@@ -334,13 +334,7 @@ class Page(object):
         return "Page({})".format(self.origin.path.__repr__())
 
     def revision_date(self, string=True):
-        try:
-            rev_date = self.metadata.__getattribute__(
-                'last-major-revision-date'
-            )
-        except AttributeError:
-            rev_date = ''
-        rev_date = to_string(rev_date) # sanitize
+        rev_date = self.metadata.get('last-major-revision-date', '')
         if rev_date != '':
             date_obj = datetime.strptime(rev_date, '%Y-%m-%d')
             if string:
