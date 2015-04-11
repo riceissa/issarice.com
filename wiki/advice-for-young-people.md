@@ -235,6 +235,7 @@ Some other books to look into (I haven't read some of these):
 
 - Dawkins's *Selfish Gene*
 - Douglas Hofstadter's *Gödel, Escher, Bach*[^ey]
+- Bryan Caplan's *[Selfish Reasons to Have More Kids](!w)*
 - Judith Harris Rich's *The Nurture Assumption* and *No Two Alike*
 - *The App Generation* by Howard Gardner and Katie Davis
 - *Uncharted: Big Data as a Lens on Human Culture* by Erez Aiden and Jean-Baptiste Michel
