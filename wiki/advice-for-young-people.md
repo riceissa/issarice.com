@@ -136,6 +136,13 @@ From [this article](http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-lu
 > figure it out on your own. And that is the last thing anybody wants to
 > hear.
 
+And HT Alex again ([source](https://medium.com/conversations-with-tyler/peter-thiel-on-the-future-of-innovation-77628a43c0dd)):
+
+> We need to ask, what is it about our society where those of us who do
+> not suffer from Asperger’s are at some massive disadvantage because we
+> will be talked out of our interesting, original, creative ideas before
+> they are even fully formed?
+
 # Rationality community and resources
 
 Since about 2007, there has been a growing community---both online and offline---based around the idea of "rationality", i.e. the idea that [one should (1) have beliefs that correspond to reality, and (2) execute actions in the real world so as to achieve one's goals](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/).
