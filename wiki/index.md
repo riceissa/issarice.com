@@ -10,7 +10,7 @@ aliases: front page
 ---
 
 This is the website of Issa Rice.
-This site stores basic information about myself, but it is also a personal wiki of sorts.
+This site stores basic information about myself, but it is also a personal wiki of sorts (in some sense, everything that doesn't belong elsewhere ends up on here, and as a result some of it can be admittedly low-quality).
 Below are some pages that may be of interest:
 
 - [About me](); [contact]() me

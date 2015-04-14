@@ -45,6 +45,8 @@ My intended major is computer science, but I’m also highly interested in mathe
 I am continually conscious that the most important work I can do may not yet exist as a career; as such I want to adopt “a more wary attitude where I try, at each stage, to equip myself best for the present and the immediate future while gathering knowledge and resources that will help me in the farther future” ([source](https://whatisresearch.wordpress.com/2007/08/30/to-be-set-aside/)).
 At the moment I think computer science is the best option for me in terms of being versatile for the future.
 
+Other interests: living for a long time, healthy diet, looking young, castration, eunuchs, gwern, long now, long content, content creation, late-night walks, 
+
 # Contact
 
 My email address is [riceissa@gmail.com](mailto:riceissa@gmail.com).
