@@ -390,7 +390,7 @@ A good thing to remember is that *there are already too many people in academia*
     - Michael O. Church
     - Alex K. Chen
     - Vipul Naik
-    - Brian Farley
+    - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/).
     - Inna Vishik
     - Andrew Ho
     - gwern
