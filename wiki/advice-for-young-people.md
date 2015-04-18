@@ -196,6 +196,32 @@ I'm not really an expert on the topic, but you can read my page on [Depression](
 
 I also do more academic research into depression as an effective altruism cause on the [Depression page on the Cause Prioritization Wiki](http://causeprioritization.org/Depression).
 
+See also pages like "[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx), which has passages like:
+
+> A particular way of breaking through the sense of isolation is through
+> touch. In the same way that infants need to be held and touched, so do
+> persons who are experiencing existential aloneness. Touch seems to be
+> a fundamental and instinctual aspect of existence, as evidenced by
+> mother-infant bonding or "failure to thrive" syndrome. Often, I have
+> "prescribed" daily hugs for a youngster suffering existential
+> depression and have advised parents of reluctant teenagers to say, "I
+> know that you may not want a hug, but I need a hug." A hug, a touch on
+> the arm, playful jostling, or even a "high five" can be very important
+> to such a youngster, because it establishes at least some physical
+> connection.
+>
+> [...]
+>
+> It is such existential issues that lead many of our gifted individuals
+> to bury themselves so intensively in "causes" (whether these causes
+> are academics, political or social causes, or cults). Unfortunately,
+> these existential issues can also prompt periods of depression, often
+> mixed with desperate, thrashing attempts to "belong." Helping these
+> individuals to recognize the basic existential issues may help, but
+> only if done in a kind and accepting way. In addition, these
+> youngsters will need to understand that existential issues are not
+> ones that can be dealt with only once, but rather ones that will need
+> frequent revisiting and reconsideration.
 
 # Effective altruism
 
