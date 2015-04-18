@@ -7,7 +7,7 @@ language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: unlikely, emotional
+belief: unlikely, emotional, deliberately incendiary
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
 tags: school, lesswrong, self-improvement, high school, depression
@@ -23,6 +23,7 @@ In high school it is common to feel the frustration described in the introductor
 While the [Cognito Mentoring info wiki](http://info.cognitomentoring.org/wiki/Main_Page) provides excellent general advice, here I hope to give more specialized advice; in particular, this page is tailored toward my past self, and documents advice that I wish I had gotten while I was in high school.
 Therefore this page is unlikely to suit most people (since the target audience is my past self, and I tend to be unusual by most standards).
 Another way to describe this page is to say it is a list of all the things that have profoundly influenced and inspired me up to this point.
+Yet another description of this page: it's my attempt to counter the farce that is present-day "liberal arts education" (which aims to help people develop "critical thinking"); I want to give my own version of a **true liberal arts education**.
 
 Feel free to [connect with me](./about-me#contact) if you have questions or just want to talk to me; in particular, if you're in the Seattle area I can even meet up with you[^uw].
 
@@ -247,7 +248,46 @@ See also "[Dealing with intellectual isolation](http://info.cognitomentoring.org
 
 # Effective altruism
 
-[to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [Effective altruism]()]
+> Because gifted children are able to consider the possibilities of how
+> things might be, they tend to be idealists. However, they are
+> simultaneously able to see that the world is falling short of how it
+> might be. Because they are intense, gifted children feel keenly the
+> disappointment and frustration which occurs when ideals are not
+> reached. Similarly, these youngsters quickly spot the inconsistencies,
+> arbitrariness and absurdities in society and in the behaviors of those
+> around them. Traditions are questioned or challenged. For example, why
+> do we put such tight sex-role or age-role restrictions on people? Why
+> do people engage in hypocritical behaviors in which they say one thing
+> and then do another? Why do people say things they really do not mean
+> at all? Why are so many people so unthinking and uncaring in their
+> dealings with others? How much difference in the world can one
+> person's life make?
+>
+> [...]
+>
+> In such depression, gifted children typically try to find some sense
+> of meaning, some anchor point which they can grasp to pull themselves
+> out of the mire of "unfairness." Often, though, the more they try to
+> pull themselves out, the more they become acutely aware that their
+> life is finite and brief, that they are alone and are only one very
+> small organism in a quite large world, and that there is a frightening
+> freedom regarding how one chooses to live one's life. It is at this
+> point that they question life's meaning and ask, "Is this all there is
+> to life? Is there not ultimate meaning? Does life only have meaning if
+> I give it meaning? I am a small, insignificant organism who is alone
+> in an absurd, arbitrary and capricious world where my life can have
+> little impact, and then I die. Is this all there is?"
+
+("[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)")
+
+In some sense, effective altruism is an answer to the questions "What should I do with my life?", "Can I do anything meaningful with my life?", etc.
+It says, roughly: do [the most good you can do](!w).
+
+Although effective altruists claim that effective altruism is [a question, not an ideology](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/), if you pay enough attention, each subset of effective altruists clearly have their own agenda.
+So you can't necessarily trust EAs.
+Read posts like "[A critique of effective altruism](http://www.benkuhn.net/ea-critique)".
+
+[for more general resources, see [Effective altruism]()]
 
 
 # Online presence and content creation
@@ -294,6 +334,7 @@ Some other books to look into (I haven't read some of these):
 - *Hatching Twitter: a true story of money, power, friendship, and betrayal* by Nick Bilton
 - *[The PayPal Wars](!w)* by Eric M. Jackson
 - *[The Facebook Effect](!am)* by David Kirkpatrick
+- Vipul also suggested that I read [Charles Murray's](https://en.wikipedia.org/wiki/Charles_Murray_%28political_scientist%29) works.
 
 
 [^ey]: I personally don't like this book very much, but it is highly regarded among scientists and mathematicians.
@@ -385,6 +426,11 @@ For Cognito Mentoring pages, see:
     - [Alternatives to academia](http://info.cognitomentoring.org/wiki/Alternatives_to_academia)
 
 A good thing to remember is that *there are already too many people in academia*.
+Academia is insanely crowded, and institutionally you're very replaceable.
+My personal opinion: just stay away from academia unless you have a *very* good reason.
+In particular, if you're neurotic or mentally unstable *at all*, **just stay away**.
+See also Bryan Caplan's forthcoming book on education.
+See also one of my absolute favorite answers on Quora: "[Vipul Naik's answer to Why did you leave academia?](https://www.quora.com/Why-did-you-leave-academia/answer/Vipul-Naik)"
 
 # Other ideas---expanding your imagination
 
@@ -397,16 +443,20 @@ A good thing to remember is that *there are already too many people in academia*
     - Peter Thiel
     - Paul Graham
     - Michael O. Church
-    - Alex K. Chen
-    - Vipul Naik
+    - **Alex K. Chen**
+    - **Vipul Naik**
     - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/).
     - Inna Vishik
     - Andrew Ho
     - gwern
     - Mencius Moldbug
     - Scott Alexander
-    - Bryan Caplan: see my page on [EconLog]()
+    - **Bryan Caplan**: see my page on [EconLog]()
     - Natalia Nezvanova
+    - Terence Tao
+    - Tim Gowers
+    - Eliezer Yudkowsky
+    - Holden Karnofsky
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
 How to ignore for example pressure to complete homework assignments?
@@ -476,3 +526,16 @@ Are the things you're learning in class *really* useful?
 - "[To Fall in Love With Anyone, Do This](http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html)" and "[The 36 Questions That Lead to Love](http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html)"
 
 - <http://www.nytimes.com/2013/09/17/opinion/let-the-poor-have-fun.html>
+
+- "[BuzzFeed doesn't need 'trust' to win the Internet](http://exp.issarice.com/buzzfeed.html)"
+
+- ‘[“I was a middle-aged virgin”](http://www.salon.com/2003/10/08/virgin_6/)’
+
+    - Quote I really like:
+
+        > “Gentle, nurturing touch is new for most older virgins,” Blanchard
+        > explains. “Many don’t recall ever being touched that way before by
+        > anyone. Imagine what it must feel like never to have known gentle
+        > touch, and then to have someone hold your hand, stroke your arm,
+        > run their fingers through your hair. It’s a profound experience.
+        > Often, clients cry.”
