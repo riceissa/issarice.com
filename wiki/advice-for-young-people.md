@@ -10,7 +10,7 @@ status: notes
 belief: unlikely, emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
-tags: school, lesswrong, self-improvement, high school
+tags: school, lesswrong, self-improvement, high school, depression
 aliases: information-for-high-school-students
 ---
 
@@ -264,6 +264,9 @@ It's always best to think in the long term; practicing a sport, for instance, ma
 
 I'm probably unusual in thinking that *in moderate amounts of each* recreational drug use is probably more useful than sports.
 
+Another point: if you're *extremely unusual* compared to the mainstream/masses, then chances are, you'll have trouble finding appropriate peers in real life.
+This is why it's important to expand your search online, and one of the ways to get people's attention online is by producing great content.
+
 # Thinking about careers
 
 - [80,000 Hours](https://80000hours.org/)
@@ -312,7 +315,7 @@ If there is one book that emphasizes the tragedy of Death, it is this book, beca
 Richard Hamming's famous talk, "[You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" is *very* inspirational.
 There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) (though I think reading it is better, since I don't particularly like the way he gives the talk).
 
-Some good quotes:
+Some good quotes (emphasis mine):
 
 > In order to get at you individually, I must talk in the first person.
 > I have to get you to drop modesty and say to yourself, “**Yes, I would
@@ -322,7 +325,6 @@ Some good quotes:
 > of dumb thing to say. I say, **why shouldn't you set out to do something
 > significant. You don't have to tell other people, but shouldn't you
 > say to yourself, “Yes, I would like to do something significant.”**
-> \[emphasis mine\]
 
 Another:
 
