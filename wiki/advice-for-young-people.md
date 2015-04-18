@@ -223,6 +223,21 @@ See also pages like "[Existential depression in gifted individuals](http://www.d
 > ones that can be dealt with only once, but rather ones that will need
 > frequent revisiting and reconsideration.
 
+Another page, "[Vulnerabilities of highly gifted children](http://www.davidsongifted.org/db/Articles_id_10065.aspx)", which has:
+
+> It is important to remember that a child with an IQ of 164 is as
+> different intellectually from a child with an IQ of 132 as that child
+> is different from the 100 IQ child. Forcing a child with an IQ of 164
+> to learn at the pace of the average child, or even the pace of the
+> moderately gifted, is akin to placing an average child in a special
+> education classroom and asking that his/her learning rate be slowed
+> down to keep pace with the rest of the class. The frustration of
+> highly gifted children forced to stifle their love of learning in
+> inhospitable environments can result in withdrawal, behavior problems,
+> or psychosomatic symptoms.
+
+See also "[Dealing with intellectual isolation](http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation)" on the Cognito Mentoring info wiki.
+
 # Effective altruism
 
 [to be added later; this should be about info specifically relevant for high schoolers. for more general resources, see [Effective altruism]()]
