@@ -457,6 +457,7 @@ See also one of my absolute favorite answers on Quora: "[Vipul Naik's answer to 
     - Tim Gowers
     - Eliezer Yudkowsky
     - Holden Karnofsky
+    - Nick Beckstead; in particular, read his PhD thesis, "On the Overwhelming Importance of Shaping the Far Future", which you can find [here](http://www.nickbeckstead.com/research)
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
 How to ignore for example pressure to complete homework assignments?
