@@ -540,3 +540,8 @@ Are the things you're learning in class *really* useful?
         > touch, and then to have someone hold your hand, stroke your arm,
         > run their fingers through your hair. It’s a profound experience.
         > Often, clients cry.”
+
+some unresolved problems:
+
+- getting paid to do work
+- romance...
