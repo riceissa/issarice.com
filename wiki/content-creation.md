@@ -17,7 +17,7 @@ This page is about **content creation**.
 Narrowly, it is the act of writing online to spread useful information.
 More broadly, it is the act of creating any sort of online content (i.e. in any media: text, image, video, audio) and publishing it online.
 [Wikipedia has an article on content creation](https://en.wikipedia.org/wiki/Content_creation).
-This page documents my thoughts on content creation: how to best organize information, how to effectively publish content, and how to have an impact on the world through content creation.
+This page documents my thoughts on content creation: how to best organize information, how to effectively publish content, and how to have an impact on the world through content creation, among other things.
 
 The following was inspired by discussions with [Vipul Naik](http://vipulnaik.com).
 
