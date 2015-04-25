@@ -28,7 +28,9 @@ else
     echo "language: English" >> $pagepath
     echo '# accepts "notes", "draft", "in progress", or "mostly finished"' >> $pagepath
     echo "status: notes" >> $pagepath
-    echo '# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"' >> $pagepath
+    echo '# accepts "certain", "highly likely", "likely", "possible", "unlikely",' >> $pagepath
+    echo '# "highly unlikely", "remote", "impossible", "log", "emotional", or' >> $pagepath
+    echo '# "fiction"' >> $pagepath
     echo "belief: possible" >> $pagepath
     echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
     echo "license: CC-BY" >> $pagepath
