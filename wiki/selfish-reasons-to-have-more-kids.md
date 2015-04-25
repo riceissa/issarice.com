@@ -1,0 +1,77 @@
+---
+title: Selfish Reasons to Have More Kids
+#rss-description: 
+author: Issa Rice
+creation-date: 2015-04-25
+last-major-revision-date: 2015-04-25
+language: English
+# accepts "notes", "draft", "in progress", or "mostly finished"
+status: notes
+# accepts "certain", "highly likely", "likely", "possible", "unlikely",
+# "highly unlikely", "remote", "impossible", "log", "emotional", or
+# "fiction"
+belief: possible
+# accepts "CC0", "CC-BY", or "CC-BY-SA"
+license: CC-BY
+tags: bryan caplan, kids, family, twin studies
+#aliases: 
+---
+
+***Selfish Reasons to Have More Kids*** is a book by Bryan Caplan.
+
+# Quotes
+
+Here are some passages I particularly enjoyed in the book.
+
+On overpopulation, which mentions [keyhole solutions]():
+
+
+> If the birth of a human being has a lot of positives and a few
+> negatives, the constructive response isn’t to denounce “people.” The
+> constructive response is to *selectively target* the negatives. Name
+> specific problems, and figure out the cheapest way to handle them.
+>
+> Selective targeting requires more imagination than mass sterilization,
+> but it’s worth the extra mental effort. If you want to do something
+> about man-made global warming, you don’t have to reduce the number of
+> human beings on the planet. You just have to get humanity to reduce
+> its carbon emissions. A carbon tax is one simple way to get from here
+> to there. To discourage emissions, make emissions more expensive, then
+> sit back and watch lifestyles and technology adapt. The same principle
+> applies to virtually any population problem you can imagine. Don’t
+> like congestion at rush hour? An electronically collected toll is a
+> straightforward way to get traffic moving again.
+
+On the limitations of twin and adoption studies:
+
+> For policymakers, the restricted range in twin and adoption studies is
+> a major blind spot. But middle-class parents in First World countries
+> needn’t worry. Families like yours have been studied to death. In your
+> corner of the world, you can safely rely on the postcard version of
+> behavioral genetics: The chief cause of family resemblance is
+> heredity, not upbringing—and while the short-run effects of upbringing
+> are self-evident, they leave little lasting impression.
+
+On trait selection:
+
+> trait selection is better for kids, too. Compatibility is a two-way
+> street: When parents get kids they really want, kids get parents who
+> really want them. More important, trait selection reassures
+> parents—which leads them to be more generous with the gift of life.
+> Parents who want this control might seem depraved, but don’t be so
+> quick to condemn them. If it’s okay to rig the genetic lottery by
+> marrying Mr. Right, why is it wrong to rig the genetic lottery by
+> visiting Dr. Know? If it’s okay to refuse to have *any* children, why
+> is it wrong to refuse to have children of a certain kind?
+
+# See also
+
+- [Here](http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/)
+  is a good overview of the main points of the book ([LessWrong]()).
+- [Page about the
+  book](https://thinkingbeyondcompetition.wordpress.com/books/selfish-reasons-to-have-more-kids/)
+  by Vipul.
+- [Archive of book's
+  website](https://web.archive.org/web/20120119123849/http://havemorekidsbook.com/)
+  (has reviews, including those by Judith Rich Harris and Lenore
+  Skenazy).
