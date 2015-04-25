@@ -21,7 +21,7 @@ else
     echo "Creating $pagepath"
     echo "---" >> $pagepath
     echo "title: $title" >> $pagepath
-    echo "#description: " >> $pagepath
+    echo "#rss-description: " >> $pagepath
     echo "author: Issa Rice" >> $pagepath
     echo "creation-date: `date +'%Y-%m-%d'`" >> $pagepath
     echo "last-major-revision-date: `date +'%Y-%m-%d'`" >> $pagepath

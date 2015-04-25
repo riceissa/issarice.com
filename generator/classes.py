@@ -203,8 +203,8 @@ def process_metadata(metadata, **kwargs):
         metadata["aliases"] = []
     if "author" not in metadata:
         metadata["author"] = []
-    if "description" not in metadata:
-        metadata["description"] = ""
+    if "rss-description" not in metadata:
+        metadata["rss-description"] = ""
     if "language" not in metadata:
         metadata["language"] = "English"
     license = "UNKNOWN"

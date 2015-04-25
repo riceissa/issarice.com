@@ -59,3 +59,4 @@ See [Content licensing]().
 # See also
 
 - <http://reducing-suffering.org/why-i-prefer-public-conversations/>
+- Nick Beckstead also [posts conversations](http://www.nickbeckstead.com/conversations) on his website.
