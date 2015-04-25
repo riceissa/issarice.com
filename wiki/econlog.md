@@ -37,3 +37,7 @@ Note that I don't necessarily agree with what's said in the posts below.
 - [Against Winning](http://econlog.econlib.org/archives/2014/09/against_winning.html)
 - [The Common-Sense Case for Pacifism](http://econlog.econlib.org/archives/2010/04/the_common-sens.html)
 - [How I Love Education](http://econlog.econlib.org/archives/2012/07/how_i_love_educ.html)
+- [Where Are the Pro-Life
+  Utilitarians?](http://econlog.econlib.org/archives/2015/04/where_are_the_p.html)
+  is Caplan's take on abortion.
+- <https://href.li/?http://econlog.econlib.org/archives/2010/01/i_loved_free-ra.html>

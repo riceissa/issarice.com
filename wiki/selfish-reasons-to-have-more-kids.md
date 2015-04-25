@@ -19,6 +19,26 @@ tags: bryan caplan, kids, family, twin studies
 
 ***Selfish Reasons to Have More Kids*** is a book by Bryan Caplan.
 
+# My thoughts after reading the book
+
+My views definitely did shift more toward having kids and having more of
+them.  However it isn't clear to me yet whether having kids is better
+than, say, paying people to have more kids.  I think it's quite
+plausible that mentoring a large number of kids leads to greater impact
+than raising a small (in comparison) number of kids.  Of course, there
+are things like [sperm
+donation](http://www.gwern.net/Ethical%20sperm%20donation), but this
+seems quite difficult in the US.
+
+I find Caplan's brand of natalism to be quite appealing, though it's
+quite disconcerting to see how he takes everything he says on the topic
+to be so obvious.  After reading Nick Beckstead's thesis for example, I
+find that even beliefs that might seem obvious might not be so obvious
+upon further consideration, and that it's irresponsible to simply say
+"[life is too
+short](http://econlog.econlib.org/archives/2007/12/my_ideal_foil.html)"
+to investigate more.
+
 # Quotes
 
 Here are some passages I particularly enjoyed in the book.
@@ -68,6 +88,9 @@ On trait selection:
 
 - [Here](http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/)
   is a good overview of the main points of the book ([LessWrong]()).
+- [Wikipedia
+  page](https://en.wikipedia.org/wiki/Selfish_Reasons_to_Have_More_Kids),
+  mostly by Vipul.
 - [Page about the
   book](https://thinkingbeyondcompetition.wordpress.com/books/selfish-reasons-to-have-more-kids/)
   by Vipul.
