@@ -335,6 +335,7 @@ Some other books to look into (I haven't read some of these):
 - *[The PayPal Wars](!w)* by Eric M. Jackson
 - *[The Facebook Effect](!am)* by David Kirkpatrick
 - Vipul also suggested that I read [Charles Murray's](https://en.wikipedia.org/wiki/Charles_Murray_%28political_scientist%29) works.
+- You can see more of Vipul's (old) books [here](https://thinkingbeyondcompetition.wordpress.com/books/).
 
 
 [^ey]: I personally don't like this book very much, but it is highly regarded among scientists and mathematicians.
