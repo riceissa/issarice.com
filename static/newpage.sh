@@ -4,9 +4,16 @@
 scriptdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 sitedir="${scriptdir}/.."
 
+echo "Enter title for entry.  Leave blank to use current date and time."
 echo -n "Title: "
 
 read title
+
+isStatusUpdate=false
+if [ "$title" == '' ]; then
+    title=`date +"%F, %I:%M %p"`
+    isStatusUpdate=true
+fi
 
 # You must have slug.py in the same directory as this script
 slug="$(echo -n "${title}" | python ${scriptdir}/slug.py)"
@@ -34,7 +41,11 @@ else
     echo "belief: possible" >> $pagepath
     echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
     echo "license: CC-BY" >> $pagepath
-    echo "tags: untagged" >> $pagepath
+    if [ "$isStatusUpdate" = true ]; then
+        echo "tags: status update" >> $pagepath
+    else
+        echo "tags: untagged" >> $pagepath
+    fi
     echo "#aliases: " >> $pagepath
     echo -e "---\n\n" >> $pagepath
     # open with vim on the last line new a new tab on an existing session (if possible)
