@@ -1,6 +1,6 @@
 ---
 title: EconLog
-#description: none
+rss-description: some of my favorite Econlog posts
 author: Issa Rice
 creation-date: 2015-01-16
 last-major-revision-date: 2015-01-20
@@ -11,7 +11,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: econlog, bryan caplan
 ---
 
 I really like [EconLog](http://econlog.econlib.org/) a lot (mostly the [posts on there by Bryan Caplan](http://econlog.econlib.org/authorbcaplan.html)).
@@ -37,3 +37,8 @@ Note that I don't necessarily agree with what's said in the posts below.
 - [Against Winning](http://econlog.econlib.org/archives/2014/09/against_winning.html)
 - [The Common-Sense Case for Pacifism](http://econlog.econlib.org/archives/2010/04/the_common-sens.html)
 - [How I Love Education](http://econlog.econlib.org/archives/2012/07/how_i_love_educ.html)
+
+
+I actually keep finding more and more articles from the Econlog archive that I like, so maybe I'll have to group things by category.
+
+- [I Loved *Free-Range Kids*](http://econlog.econlib.org/archives/2010/01/i_loved_free-ra.html)
