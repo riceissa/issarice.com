@@ -95,7 +95,7 @@ $smaller_text: 80%;
 body {
     color: $darkest_gray;
     background: $cream;
-    line-height: 150%;
+    line-height: 135%;
     font-family: $serif_series;
 }
 
@@ -212,16 +212,6 @@ table td {
 
 dt {
     font-weight: bold;
-}
-
-// See http://webtypography.net/2.3.2
-p {
-    margin-bottom: 0;
-}
-
-p + p {
-    text-indent: 2em;
-    margin-top: 0;
 }
 
 /*

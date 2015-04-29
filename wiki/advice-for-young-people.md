@@ -36,8 +36,8 @@ Feel free to [connect with me](./about-me#contact) if you have questions or just
 
 > “\[S\]chool \[...\] is a pathological environment. It's pathological, because it sells itself as a  “place of learning” while shunning the best learning tool there is \[i.e. failure\].
 > In school, the worst thing you can do is fail. If you fail seriously enough, you get “held back” or, at the very least, you get branded with an F. School teaches you to loath failing, which is basically teaching you to loath learning.”
->
-> ---[Marcus Geduld](https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld)
+
+([Marcus Geduld](https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld))
 
 - Sometimes it's good just to know that you are not the only one who is extremely frustrated with high school.
 Even conventionally successful intellectuals like Noam Chomsky hated high school; see [my answer here on Quora](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice), for instance.
@@ -459,6 +459,7 @@ See also [this answer](https://href.li/?https://academia.stackexchange.com/quest
     - Tim Gowers
     - Eliezer Yudkowsky
     - Holden Karnofsky
+    - Nick Beckstead; in particular, read his PhD thesis, "On the Overwhelming Importance of Shaping the Far Future", which you can find [here](http://www.nickbeckstead.com/research)
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
 How to ignore for example pressure to complete homework assignments?
@@ -541,3 +542,8 @@ Are the things you're learning in class *really* useful?
         > touch, and then to have someone hold your hand, stroke your arm,
         > run their fingers through your hair. It’s a profound experience.
         > Often, clients cry.”
+
+some unresolved problems:
+
+- getting paid to do work
+- romance...
