@@ -1,20 +1,22 @@
 ---
 title: Advice for young people
-description: Meditations on my youth, what I wish I had known, what I would do were I to start over
+rss-description: Added a quote by Raman Shah, among numerous other updates
 author: Issa Rice
-last-major-revision-date: 2015-01-16
+last-major-revision-date: 2015-05-02
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: unlikely, emotional, deliberately incendiary
+# accepts "certain", "highly likely", "likely", "possible", "unlikely",
+# "highly unlikely", "remote", "impossible", "log", "emotional", or
+# "fiction"
+belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
 tags: school, lesswrong, self-improvement, high school, depression, Peter Thiel, Paul Graham, gwern, slate star, scott alexander, eliezer yudkowsky
 aliases: information-for-high-school-students
 ---
 
-# Introduction
+# What this page is about
 
 In high school it is common to feel the frustration described in the introductory paragraph for [Cognito Mentoring]():
 
@@ -30,9 +32,6 @@ Feel free to [connect with me](./about-me#contact) if you have questions or just
 [^uw]: The University of Washington campus (Seattle) would be especially convenient for me.
 
 # Dealing with high school
-
-## General ideas
-
 
 > “\[S\]chool \[...\] is a pathological environment. It's pathological, because it sells itself as a  “place of learning” while shunning the best learning tool there is \[i.e. failure\].
 > In school, the worst thing you can do is fail. If you fail seriously enough, you get “held back” or, at the very least, you get branded with an F. School teaches you to loath failing, which is basically teaching you to loath learning.”
@@ -80,9 +79,13 @@ Even [Vipul Naik](http://vipulnaik.com) of [Cognito Mentoring]() [highly respect
 > could dream of. And he knows a lot more about how the world works than I
 > do.
 
-The primary essay Graham has on frustration with high school is "[What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)".
-His "[Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html)" may also be of interest.
-Below are the parts from "Why Nerds are Unpopular" that most resonated with me:
+The primary essay Graham has on frustration with high school is "[What
+You'll Wish You'd Known](http://www.paulgraham.com/hs.html)" (which
+tells students to treat high school like a day job so they can do more
+important things outside of school).  His "[Why Nerds are
+Unpopular](http://www.paulgraham.com/nerds.html)" may also be of
+interest.  Below are the parts from "Why Nerds are Unpopular" that most
+resonated with me:
 
 > At the time I never tried to separate my wants and weigh them against one another. If I had, I would have seen that being smart was more important. If someone had offered me the chance to be the most popular kid in school, but only at the price of being of average intelligence (humor me here), I wouldn't have taken it.
 > 
@@ -166,34 +169,54 @@ Main page: [LessWrong]().
 
 ## gwern
 
-[gwern](http://lesswrong.com/user/gwern/) is probably one of the most well-known users on LessWrong.
-He also has a [website](http://www.gwern.net/) that has numerous essays on eveything from nootropics to Wikipedia editing.
-His notion of [Long Content](http://www.gwern.net/About) is also especially inspiring: "if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself".
-For high school students especially, the essays [On Stress](http://www.gwern.net/On%20Stress) and [On Disrespect](http://www.gwern.net/On%20Disrespect) may be of interest.
-His [stories](http://www.gwern.net/Notes#stories) also tend to have "lessons" (like Kafka's parables) and are entertaining to read.
+[gwern](http://lesswrong.com/user/gwern/) is probably one of the most
+well-known users on LessWrong.  He also has a
+[website](http://www.gwern.net/) that has numerous essays on eveything
+from nootropics to Wikipedia editing.  His notion of [Long
+Content](http://www.gwern.net/About) is also especially inspiring: "if
+one holds onto every glimmer of genius for years, then even the dullest
+person may look a bit like a genius himself".  For high school students
+especially, the essays "[On Stress](http://www.gwern.net/On%20Stress)"
+and "[On Disrespect](http://www.gwern.net/On%20Disrespect)" may be of
+interest.  His [stories](http://www.gwern.net/Notes#stories) also tend
+to have "lessons" (like Kafka's parables) and are entertaining to read.
 
-I think part of the appeal of gwern is that he inspires many people because his website doesn't look like "magic"; one can agree that, given enough time, anyone can attempt what he did.
+I think part of the appeal of gwern is that he inspires many people
+because his website doesn't look like "magic"; one can agree that, given
+enough time, anyone can attempt what he did.
 
-One thing that gwern does particularly well is emphasizing the importance of planning for the long term.
-He expertly uses free software, URL archival tools, plain texts for his site, etc.
+One thing that gwern does particularly well is emphasizing the
+importance of planning for the long term.  For instance he uses free
+software, URL archival tools, plain text for his site, etc.
 
 
 ## Slate Star Codex
 
-[Slate Star Codex](http://slatestarcodex.com/) is an excellent blog ranging in topics from romance to social justice to reactionary politics.
-See the [top posts](http://slatestarcodex.com/top-posts/) for more.
-He is particularly good at [steelmanning](http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/) opponents' arguments.
-He is also good at picking out useful content on Reddit.
+[Slate Star Codex](http://slatestarcodex.com/) is an interesting blog
+ranging in topics from romance to social justice to reactionary
+politics.  See the [top posts](http://slatestarcodex.com/top-posts/) for
+more.  He is particularly good at
+[steelmanning](http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/)
+opponents' arguments.  He is also good at picking out useful content on
+Reddit.
 
-The "[graduation speech](http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)" Scott gives may be of interest.
-I think it's entertaining to read, and makes some good points, but ultimately doesn't do anything new.
-(In other words, I think Paul Graham's essays already provide a lot of the heuristics of the argument; Scott does do a better job of linking to sources and using numbers though.)
-I get the feeling that my views didn't change after reading this, though perhaps for some, reading the article will give more coherence to your ideas.
-The conclusion is specifically disappointing, since it abruptly ends with "kindness is what's important".
-The essay also doesn't provide much that is actionable; one is left wondering "Okay, so what do *I* do?"
-(In this sense I think Cognito Mentoring does a much better job.)
+The "[graduation
+speech](http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)"
+Scott gives may be of interest.  I think it's entertaining to read, and
+makes some good points, but ultimately doesn't do anything new.  (In
+other words, I think Paul Graham's essays already provide a lot of the
+heuristics of the argument; Scott does do a better job of linking to
+sources and using numbers though.) I get the feeling that my views
+didn't change after reading this, though perhaps for some, reading the
+article will give more coherence to their ideas.  The conclusion is
+specifically disappointing, since it abruptly ends with "kindness is
+what's important".  The essay also doesn't provide much that is
+actionable; one is left wondering "Okay, so what do *I* do?" (In this
+sense I think Cognito Mentoring does a much better job.)
 
-Scott Alexander also has an older website called [Raikoth](http://www.raikoth.net/), which has the [The Consequentalism FAQ](http://www.raikoth.net/consequentialism.html).
+Scott Alexander also has an older website called
+[Raikoth](http://www.raikoth.net/), which has the [The Consequentalism
+FAQ](http://www.raikoth.net/consequentialism.html).
 
 
 # Depression
