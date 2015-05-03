@@ -53,6 +53,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
+$black: #000000;
+$white: #ffffff;
+
 $base03: #002b36;
 $base02: #073642;
 $very_dark: $base03;
@@ -86,15 +89,13 @@ $green: #859900;
 // for some of the choices of fonts.  For a review of Linux Libertine,
 // see
 // https://zuttobenkyou.wordpress.com/2010/03/11/the-best-serif-font-in-the-world-linux-libertine/
-$serif_series: "Linux Libertine O", "Linux Libertine", Baskerville, Garamond, serif;
+$serif_series: Baskerville, "Linux Libertine O", "Linux Libertine", Garamond, serif;
 $sans_series: "Nimbus Sans L", Helvetica, Arial, Trebuchet, "Lucida Grande", sans-serif;
 $mono_series: "Source Code Pro", "Andale Mono", Monaco, Consolas, Menlo, monospace;
 
 $smaller_text: 80%;
 
 body {
-    color: $darkest_gray;
-    background: $cream;
     line-height: 140%;
     font-family: $serif_series;
 }
@@ -116,31 +117,33 @@ div#navigation {
 
 h1, h2, h3, h4, h5, h6 {
     text-align: left;
-    color: $dark;
     font-family: $sans_series;
     line-height: 120%;
 }
 
+h1 {
+    font-size: 130%;
+}
+
 h2 {
     border-bottom: 1px solid $lightest_gray;
+    font-size: 120%;
+}
+
+h3, h4, h5, h6 {
+    font-size: 110%;
 }
 
 hr {
     border: 0 none;
-    border-top: 2px solid $lightest_gray;
-    border-bottom: 1px solid $lightest_gray;
+    border-top: 2px solid $black;
+    border-bottom: 1px solid $black;
     height: 4px;
 }
 
 a {
     text-decoration: none;
-}
-
-a:link {
-    color: $blue;
-}
-a:visited {
-    color: $cyan;
+    color: $darkest_gray;
 }
 
 a:hover, a:active {
@@ -163,7 +166,6 @@ pre, code, kbd, samp, tt {
 code {
     padding-left: 4px;
     padding-right: 4px;
-    background-color: $tan;
     border: 1px solid $lightest_gray;
     border-radius: 2px 2px 2px 2px;
     // This is also necessary in "pre code"
@@ -182,7 +184,6 @@ pre code {
 
 blockquote {
     margin: 0px;
-    color: $dark_gray;
     padding: 0px 0px 0px 16px; /*top right bottom left*/
     border-left: 4px solid $lightest_gray;
 }
