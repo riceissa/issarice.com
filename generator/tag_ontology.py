@@ -58,6 +58,8 @@ TAG_SYNONYMS = {
         ["econ"],
     "effective altruism":
         ["ea", "effective-altruism", "effectivealtruism"],
+    "Eliezer Yudkowsky":
+        ["eliezer", "yudkowsky"],
     "English":
         [],
     "Facebook":
@@ -94,6 +96,10 @@ TAG_SYNONYMS = {
         ["openbsd"],
     "Pandoc":
         [],
+    "Paul Graham":
+        [],
+    "Peter Thiel":
+        ["thiel"],
     "psychology":
         ["psych"],
     "Python":
@@ -101,6 +107,8 @@ TAG_SYNONYMS = {
     "quantified self":
         ["qs", "life-logging", "sousveillance"],
     "Quora":
+        [],
+    "Scott Alexander":
         [],
     "self-improvement":
         [],

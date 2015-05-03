@@ -10,7 +10,7 @@ status: notes
 belief: unlikely, emotional, deliberately incendiary
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
-tags: school, lesswrong, self-improvement, high school, depression
+tags: school, lesswrong, self-improvement, high school, depression, Peter Thiel, Paul Graham, gwern, slate star, scott alexander, eliezer yudkowsky
 aliases: information-for-high-school-students
 ---
 
@@ -435,13 +435,31 @@ See also one of my absolute favorite answers on Quora: "[Vipul Naik's answer to 
 
 See also [this answer](https://href.li/?https://academia.stackexchange.com/questions/44122/why-do-undergraduate-admissions-in-the-u-s-take-into-account-nonacademic-criteri) (about undergrad admissions, not grad school)
 
+Raman Shah says that [avoiding a PhD is the best way to prevent your
+twenties from being as bad as
+his](https://www.quora.com/What-can-I-do-to-prevent-my-twenties-from-being-as-bad-as-Raman-Shahs/answer/Raman-Shah):
+
+> If I had to choose one thing, I'd say avoid a Ph.D. Mine is done, and
+> I'm proud of my work and flaunt my credentials whenever I need to, but
+> it really took a lot out of me.
+> 
+> Six years of financial belt-tightening, weekends, nights, and the
+> brutal bumps of a cut-throat business took their toll. Your twenties
+> are typically a time when a lot of tough personal things happen, as you
+> learn to identify bad people by tangling with them and learn how to
+> nurture a relationship by losing some very serious ones. I can attest
+> that the stresses of these difficulties are worse when you're in a weak
+> financial situation, face the drama and life-on-hold suspended animation
+> of grad school, and work too much to have a chance to really stop and
+> think.
+
 # Other ideas---expanding your imagination
 
 - Mencious Moldbug/neoreactionaries
 
 - Cognito Mentoring in general
 
-- Here's a list of people you should look into (and read as much of what they say as you can stand):
+- Here's a list of people you should look into (and read as much of what they say as you can stand); bolding indicates people I particularly recommend:
 
     - Peter Thiel
     - Paul Graham
@@ -449,6 +467,7 @@ See also [this answer](https://href.li/?https://academia.stackexchange.com/quest
     - **Alex K. Chen**
     - **Vipul Naik**
     - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/).
+    - [Raman Shah](https://www.quora.com/Raman-Shah)
     - Inna Vishik
     - Andrew Ho
     - gwern
