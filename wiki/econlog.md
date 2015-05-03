@@ -1,6 +1,6 @@
 ---
 title: EconLog
-#description: none
+rss-description: some of my favorite Econlog posts
 author: Issa Rice
 creation-date: 2015-01-16
 last-major-revision-date: 2015-01-20
@@ -11,7 +11,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: econlog, bryan caplan
 ---
 
 I really like [EconLog](http://econlog.econlib.org/) a lot (mostly the [posts on there by Bryan Caplan](http://econlog.econlib.org/authorbcaplan.html)).
@@ -41,3 +41,7 @@ Note that I don't necessarily agree with what's said in the posts below.
   Utilitarians?](http://econlog.econlib.org/archives/2015/04/where_are_the_p.html)
   is Caplan's take on abortion.
 - <https://href.li/?http://econlog.econlib.org/archives/2010/01/i_loved_free-ra.html>
+
+I actually keep finding more and more articles from the Econlog archive that I like, so maybe I'll have to group things by category.
+
+- [I Loved *Free-Range Kids*](http://econlog.econlib.org/archives/2010/01/i_loved_free-ra.html)

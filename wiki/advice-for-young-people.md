@@ -433,6 +433,8 @@ In particular, if you're neurotic or mentally unstable *at all*, **just stay awa
 See also Bryan Caplan's forthcoming book on education.
 See also one of my absolute favorite answers on Quora: "[Vipul Naik's answer to Why did you leave academia?](https://www.quora.com/Why-did-you-leave-academia/answer/Vipul-Naik)"
 
+See also [this answer](https://href.li/?https://academia.stackexchange.com/questions/44122/why-do-undergraduate-admissions-in-the-u-s-take-into-account-nonacademic-criteri) (about undergrad admissions, not grad school)
+
 # Other ideas---expanding your imagination
 
 - Mencious Moldbug/neoreactionaries
