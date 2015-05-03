@@ -12,7 +12,7 @@ status: notes
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
-tags: school, lesswrong, self-improvement, high school, depression, Peter Thiel, Paul Graham, gwern, slate star, scott alexander, eliezer yudkowsky
+tags: school, lesswrong, self-improvement, high school, depression, Peter Thiel, Paul Graham, gwern, slate star, scott alexander, eliezer yudkowsky, advice
 aliases: information-for-high-school-students
 ---
 
