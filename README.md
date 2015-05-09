@@ -38,7 +38,7 @@ or `-f` flag; for instance, if you only want to compile the index page,
 you can do:
 
 ```bash
-python3 generator.py --files pages/index.md
+python3 generator.py --files wiki/index.md
 ```
 
 (Though keep in mind that this will do nothing about the CSS, sitemap,
