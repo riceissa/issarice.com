@@ -796,7 +796,7 @@ opportunity cost of college.
 
 - "[BuzzFeed doesn't need 'trust' to win the Internet](http://exp.issarice.com/buzzfeed.html)"
 
-- ‘[“I was a middle-aged virgin”](http://www.salon.com/2003/10/08/virgin_6/)’
+- ‘ [“I was a middle-aged virgin”](http://www.salon.com/2003/10/08/virgin_6/) ’
 
     - Quote I really like:
 
