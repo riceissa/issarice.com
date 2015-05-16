@@ -104,25 +104,28 @@ Entrepreneur Paul Graham writes good essays on various topics, including
 high school.  Even [Vipul Naik](http://vipulnaik.com) of [Cognito
 Mentoring]() [highly respects Paul Graham][ob_graham]:
 
-[ob_graham]: (http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/)
+[ob_graham]: http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/
 
 
 > I’m a great fan of [Paul Graham](http://www.paulgraham.com), essayist,
-> entrepreneur, and co-founder of startup accelerator [Y Combinator](http://www.ycombinator.com) (along with his wife Jessica Livingston, whom I also admire greatly). Through Y Combinator, Graham
+> entrepreneur, and co-founder of startup accelerator [Y
+> Combinator](http://www.ycombinator.com) (along with his wife Jessica
+> Livingston, whom I also admire greatly). Through Y Combinator, Graham
 > has changed the startup and tech company landscape and profoundly
-> affected the world. (Some Y Combinator-funded companies you’ve probably
-> heard of are [Reddit](http://www.reddit.com),
+> affected the world. (Some Y Combinator-funded companies you’ve
+> probably heard of are [Reddit](http://www.reddit.com),
 > [Airbnb](http://airbnb.com), [Dropbox](http://www.dropbox.com),
 > [Scribd](http://www.scribd.com), [Disqus](http://www.disqus.com), and
 > [Stripe](http://www.stripe.com)). Graham also started [Hacker
 > News](http://news.ycombinator.com), a Reddit-of-sorts for the
 > programmer/startup crowd. In the world of letters, Graham is better
-> known for his long-form essays that include incisive social commentary.
-> If you haven’t yet read his pieces, I encourage you to [check them all
-> out](http://paulgraham.com/articles.html) (I particularly like [this one](http://paulgraham.com/say.html), that might be somewhat relevant
-> here). He’s done more for the world than most people, including me,
-> could dream of. And he knows a lot more about how the world works than I
-> do.
+> known for his long-form essays that include incisive social
+> commentary.  If you haven’t yet read his pieces, I encourage you to
+> [check them all out](http://paulgraham.com/articles.html) (I
+> particularly like [this one](http://paulgraham.com/say.html), that
+> might be somewhat relevant here). He’s done more for the world than
+> most people, including me, could dream of. And he knows a lot more
+> about how the world works than I do.
 
 The primary essay Graham has on frustration with high school is "[What
 You'll Wish You'd Known](http://www.paulgraham.com/hs.html)" (which
@@ -198,7 +201,9 @@ resonated with me:
 
 ## Peter Thiel
 
-From [this article](http://vator.tv/news/2014-11-22-peter-thiel-education-the-catholic-church-circa-1500) (HT Alex):
+From [this article][vator_pt] (HT Alex):
+
+[vator_pt]: http://vator.tv/news/2014-11-22-peter-thiel-education-the-catholic-church-circa-1500
 
 > There is something very odd about a society where the most talented
 > people all get tracked towards the same elite colleges, where they end
@@ -208,9 +213,14 @@ From [this article](http://vator.tv/news/2014-11-22-peter-thiel-education-the-ca
 > doing. That's very limiting for our society as well as for those
 > students.
 
-From [this article](http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-luther-of-education) (HT Alex again):
+From [this article][vator_pt2] (HT Alex again):
 
-> People thought they could only get saved by going to the Catholic church, just like people today believe that salvation involves getting a college diploma. And if you don’t  get a college diploma that you're going to go to hell.
+[vator_pt2]: http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-luther-of-education
+
+> People thought they could only get saved by going to the Catholic
+> church, just like people today believe that salvation involves getting
+> a college diploma. And if you don’t  get a college diploma that you're
+> going to go to hell.
 >
 > \[...\]
 >
@@ -225,7 +235,9 @@ From [this article](http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-lu
 > figure it out on your own. And that is the last thing anybody wants to
 > hear.
 
-And HT Alex again ([source](https://medium.com/conversations-with-tyler/peter-thiel-on-the-future-of-innovation-77628a43c0dd)):
+And HT Alex again ([source][tcpt]):
+
+[tcpt]: https://medium.com/conversations-with-tyler/peter-thiel-on-the-future-of-innovation-77628a43c0dd
 
 > We need to ask, what is it about our society where those of us who do
 > not suffer from Asperger’s are at some massive disadvantage because we
@@ -234,19 +246,27 @@ And HT Alex again ([source](https://medium.com/conversations-with-tyler/peter-th
 
 # Rationality community and resources
 
-Since about 2007, there has been a growing community---both online and offline---based around the idea of "rationality", i.e. the idea that [one should (1) have beliefs that correspond to reality, and (2) execute actions in the real world so as to achieve one's goals](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/).
-Learning about rationality is valuable in itself, but there is also an aspect of being in a "rationalist community" that appeals to many.
+Since about 2007, there has been a growing community---both online and
+offline---based around the idea of "rationality", i.e. the idea that
+[one should (1) have beliefs that correspond to reality, and (2) execute
+actions in the real world so as to achieve one's goals][rationality].
+Learning about rationality is valuable in itself, but there is also an
+aspect of being in a "rationalist community" that appeals to many.
 
-I think the best places to look are: LessWrong, gwern's site, and Slate Star Codex (a blog by Scott Alexander).
-In fact, both gwern and Scott Alexander are active users of LW who chose to branch off to their own websites.
+[rationality]: http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/
+
+I think the best places to look are: LessWrong, gwern's site, and Slate
+Star Codex (a blog by Scott Alexander).  In fact, both gwern and Scott
+Alexander are active users of LW who chose to branch off to their own
+websites.
 
 In particular, for high school students, 
 
 ## LessWrong
 
-It is however important to emphasize that having a good fit with the community of LW may be important.
-For instance, I know several intelligent people who cannot stand LW.
-
+It is however important to emphasize that having a good fit with the
+community of LW may be important.  For instance, I know several
+intelligent people who cannot stand LW.
 
 - find more high school-related posts.
 
@@ -254,17 +274,22 @@ Main page: [LessWrong]().
 
 ## gwern
 
-[gwern](http://lesswrong.com/user/gwern/) is probably one of the most
-well-known users on LessWrong.  He also has a
-[website](http://www.gwern.net/) that has numerous essays on eveything
-from nootropics to Wikipedia editing.  His notion of [Long
-Content](http://www.gwern.net/About) is also especially inspiring: "if
-one holds onto every glimmer of genius for years, then even the dullest
-person may look a bit like a genius himself".  For high school students
-especially, the essays "[On Stress](http://www.gwern.net/On%20Stress)"
-and "[On Disrespect](http://www.gwern.net/On%20Disrespect)" may be of
-interest.  His [stories](http://www.gwern.net/Notes#stories) also tend
-to have "lessons" (like Kafka's parables) and are entertaining to read.
+[gwern][gwern_lw] is probably one of the most well-known users on
+LessWrong.  He also has a [website][gwern] that has numerous essays on
+eveything from nootropics to Wikipedia editing.  His notion of [Long
+Content][g about] is also especially inspiring: "if one holds onto every
+glimmer of genius for years, then even the dullest person may look a bit
+like a genius himself".  For high school students especially, the essays
+"[On Stress]" and "[On Disrespect]" may be of interest.  His [stories][g
+stories] also tend to have "lessons" (like Kafka's parables) and are
+entertaining to read.
+
+[gwern_lw]: http://lesswrong.com/user/gwern/
+[gwern]: http://www.gwern.net/
+[g about]: http://www.gwern.net/About
+[on stress]: http://www.gwern.net/On%20Stress
+[on disrespect]: http://www.gwern.net/On%20Disrespect
+[g stories]: http://www.gwern.net/Notes#stories
 
 I think part of the appeal of gwern is that he inspires many people
 because his website doesn't look like "magic"; one can agree that, given
@@ -277,31 +302,36 @@ software, URL archival tools, plain text for his site, etc.
 
 ## Slate Star Codex
 
-[Slate Star Codex](http://slatestarcodex.com/) is an interesting blog
-ranging in topics from romance to social justice to reactionary
-politics.  See the [top posts](http://slatestarcodex.com/top-posts/) for
-more.  He is particularly good at
-[steelmanning](http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/)
-opponents' arguments.  He is also good at picking out useful content on
-Reddit.
+[Slate Star Codex] is an interesting blog ranging in topics from romance
+to social justice to reactionary politics.  See the [top posts][ssc top]
+for more.  He is particularly good at [steelmanning] opponents'
+arguments.  He is also good at picking out useful content on the
+internet, especially from Reddit (displayed on his recurring links
+posts).
 
-The "[graduation
-speech](http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)"
-Scott gives may be of interest.  I think it's entertaining to read, and
-makes some good points, but ultimately doesn't do anything new.  (In
-other words, I think Paul Graham's essays already provide a lot of the
-heuristics of the argument; Scott does do a better job of linking to
-sources and using numbers though.) I get the feeling that my views
-didn't change after reading this, though perhaps for some, reading the
-article will give more coherence to their ideas.  The conclusion is
-specifically disappointing, since it abruptly ends with "kindness is
-what's important".  The essay also doesn't provide much that is
-actionable; one is left wondering "Okay, so what do *I* do?" (In this
-sense I think Cognito Mentoring does a much better job.)
+[Slate Star Codex]: http://slatestarcodex.com/
+[ssc top]: http://slatestarcodex.com/top-posts/
+[steelmanning]: http://www.patheos.com/blogs/camelswithhammers/2012/12/the-virtue-of-steelmanning/
 
-Scott Alexander also has an older website called
-[Raikoth](http://www.raikoth.net/), which has the [The Consequentalism
-FAQ](http://www.raikoth.net/consequentialism.html).
+The "[graduation speech]" Scott gives may be of interest.  I think it's
+entertaining to read, and makes some good points, but ultimately doesn't
+do anything new.  (In other words, I think Paul Graham's essays already
+provide a lot of the heuristics of the argument; Scott does do a better
+job of linking to sources and using numbers though.) I get the feeling
+that my views didn't change after reading this, though perhaps for some,
+reading the article will give more coherence to their ideas.  The
+conclusion is specifically disappointing, since it abruptly ends with
+"kindness is what's important".  The essay also doesn't provide much
+that is actionable; one is left wondering "Okay, so what do *I* do?" (In
+this sense I think Cognito Mentoring does a much better job.)
+
+[graduation speech]: http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/
+
+Scott Alexander also has an older website called [Raikoth], which has
+the [The Consequentalism FAQ].
+
+[raikoth]: http://www.raikoth.net/
+[the consequentialism faq]: http://www.raikoth.net/consequentialism.html
 
 
 # Depression
