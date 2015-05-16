@@ -12,54 +12,99 @@ status: notes
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
-tags: school, lesswrong, self-improvement, high school, depression, Peter Thiel, Paul Graham, gwern, slate star, scott alexander, eliezer yudkowsky, advice
+tags: >
+    school, lesswrong, self-improvement, high school, depression, Peter
+    Thiel, Paul Graham, gwern, slate star, scott alexander, eliezer
+    yudkowsky, advice
 aliases: information-for-high-school-students
 ---
 
 # What this page is about
 
-In high school it is common to feel the frustration described in the introductory paragraph for [Cognito Mentoring]():
+In high school it is common to feel the frustration described in the
+introductory paragraph for [Cognito Mentoring]():
 
-> You love learning. You spend a lot of time reading fiction or learning about science or solving math problems or all of the above. School doesn’t meet your intellectual needs. Classes often emphasize rote memorization of disjointed collections of facts. You only know a few people who you can talk about ideas with. You wish you had more, and you wish you had better perspective on what there is to learn and how best to learn it.
+> You love learning. You spend a lot of time reading fiction or learning
+> about science or solving math problems or all of the above. School
+> doesn’t meet your intellectual needs. Classes often emphasize rote
+> memorization of disjointed collections of facts. You only know a few
+> people who you can talk about ideas with. You wish you had more, and
+> you wish you had better perspective on what there is to learn and how
+> best to learn it.
 
-While the [Cognito Mentoring info wiki](http://info.cognitomentoring.org/wiki/Main_Page) provides excellent general advice, here I hope to give more specialized advice; in particular, this page is tailored toward my past self, and documents advice that I wish I had gotten while I was in high school.
-Therefore this page is unlikely to suit most people (since the target audience is my past self, and I tend to be unusual by most standards).
-Another way to describe this page is to say it is a list of all the things that have profoundly influenced and inspired me up to this point.
-Yet another description of this page: it's my attempt to counter the farce that is present-day "liberal arts education" (which aims to help people develop "critical thinking"); I want to give my own version of a **true liberal arts education**.
+While the [Cognito Mentoring info wiki][CM_wiki] provides excellent
+general advice, here I hope to give more specialized advice; in
+particular, this page is tailored toward my past self, and documents
+advice that I wish I had gotten while I was in high school.  Therefore
+this page is unlikely to suit most people (since the target audience is
+my past self, and I tend to be unusual by most standards).  Another way
+to describe this page is to say it is a list of all the things that have
+profoundly influenced and inspired me up to this point.  Yet another
+description of this page: it's my attempt to counter the farce that is
+present-day "liberal arts education" (which aims to help people develop
+"critical thinking"); I want to give my own version of a **true liberal
+arts education**.
 
-Feel free to [connect with me](./about-me#contact) if you have questions or just want to talk to me; in particular, if you're in the Seattle area I can even meet up with you[^uw].
+[CM_wiki]: http://info.cognitomentoring.org/wiki/Main_Page
 
-[^uw]: The University of Washington campus (Seattle) would be especially convenient for me.
+Feel free to [connect with me](./about-me#contact) if you have questions
+or just want to talk to me; in particular, if you're in the Seattle area
+I can even meet up with you[^uw].
+
+[^uw]: The University of Washington campus (Seattle) would be especially
+convenient for me.
 
 # Dealing with high school
 
-> “\[S\]chool \[...\] is a pathological environment. It's pathological, because it sells itself as a  “place of learning” while shunning the best learning tool there is \[i.e. failure\].
-> In school, the worst thing you can do is fail. If you fail seriously enough, you get “held back” or, at the very least, you get branded with an F. School teaches you to loath failing, which is basically teaching you to loath learning.”
+> “\[S\]chool \[...\] is a pathological environment. It's pathological,
+> because it sells itself as a  “place of learning” while shunning the
+> best learning tool there is \[i.e. failure\].  In school, the worst
+> thing you can do is fail. If you fail seriously enough, you get “held
+> back” or, at the very least, you get branded with an F. School teaches
+> you to loath failing, which is basically teaching you to loath
+> learning.”
 
-([Marcus Geduld](https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld))
+([Marcus Geduld][MG_failure])
 
-- Sometimes it's good just to know that you are not the only one who is extremely frustrated with high school.
-Even conventionally successful intellectuals like Noam Chomsky hated high school; see [my answer here on Quora](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice), for instance.
+[MG_failure]: https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld
 
-- [Drawbacks to Formal Education](http://briantomasik.com/drawbacks-formal-education/) by Brian Tomasik.
+- Sometimes it's good just to know that you are not the only one who is
+  extremely frustrated with high school.  Even conventionally successful
+  intellectuals like Noam Chomsky hated high school; see [my answer here
+  on Quora][chomsky], for instance.
 
-- If you are in Washington state, seriously consider early entrance to the University of Washington.
-See for instance [Alex K. Chen's review](https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars) on Quora.
+- [Drawbacks to Formal Education][drawbacks] by Brian Tomasik.
+
+- If you are in Washington state, seriously consider early entrance to
+  the University of Washington.  See for instance [Alex K. Chen's
+  review][acad] on Quora.
 
 - Looking at the resources on [Cognito Mentoring]() is a good idea.
 
-- In general, however, it's probably best to [stay mainstream until you have demonstrated success doing unusual stuff](http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff).
+- In general, however, it's probably best to [stay mainstream until you
+  have demonstrated success doing unusual stuff][mainstream].
 
-- One can treat the system like a constraint (CM), like a day job (Paul Graham), etc.
+- One can treat the system like a constraint (CM), like a day job (Paul
+  Graham), etc.
 
-- Actively search for alternatives.
-For example, if one lives in Washington state, then the early entrace program at UW can be a very good option.
-Even if one does not enroll in this program, UW is generally accepted to be a decent school (though what you do there is most important)
+- Actively search for alternatives.  For example, if one lives in
+  Washington state, then the early entrace program at UW can be a very
+  good option.  Even if one does not enroll in this program, UW is
+  generally accepted to be a decent school (though what you do there is
+  most important)
+
+[chomsky]: https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice
+[drawbacks]: http://briantomasik.com/drawbacks-formal-education/
+[acad]: https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars
+[mainstream]: http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff
 
 ## Paul Graham
 
-Entrepreneur Paul Graham writes good essays on various topics, including high school.
-Even [Vipul Naik](http://vipulnaik.com) of [Cognito Mentoring]() [highly respects Paul Graham](http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/):
+Entrepreneur Paul Graham writes good essays on various topics, including
+high school.  Even [Vipul Naik](http://vipulnaik.com) of [Cognito
+Mentoring]() [highly respects Paul Graham][ob_graham]:
+
+[ob_graham]: (http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/)
 
 
 > I’m a great fan of [Paul Graham](http://www.paulgraham.com), essayist,
@@ -87,29 +132,69 @@ Unpopular](http://www.paulgraham.com/nerds.html)" may also be of
 interest.  Below are the parts from "Why Nerds are Unpopular" that most
 resonated with me:
 
-> At the time I never tried to separate my wants and weigh them against one another. If I had, I would have seen that being smart was more important. If someone had offered me the chance to be the most popular kid in school, but only at the price of being of average intelligence (humor me here), I wouldn't have taken it.
-> 
-> \[...\]
-> 
->I think the important thing about the real world is not that it's populated by adults, but that it's very large, and the things you do have real effects. That's what school, prison, and ladies-who-lunch all lack. The inhabitants of all those worlds are trapped in little bubbles where nothing they do can have more than a local effect. Naturally these societies degenerate into savagery. They have no function for their form to follow.
+> At the time I never tried to separate my wants and weigh them against
+> one another. If I had, I would have seen that being smart was more
+> important. If someone had offered me the chance to be the most popular
+> kid in school, but only at the price of being of average intelligence
+> (humor me here), I wouldn't have taken it.
 >
 > \[...\]
 >
->As a thirteen-year-old kid, I didn't have much more experience of the world than what I saw immediately around me. The warped little world we lived in was, I thought, *the world*. The world seemed cruel and boring, and I'm not sure which was worse.
-> 
-> Because I didn't fit into this world, I thought that something must be wrong with me. I didn't realize that the reason we nerds didn't fit in was that in some ways we were a step ahead. We were already thinking about the kind of things that matter in the real world, instead of spending all our time playing an exacting but mostly pointless game like the others.
-> 
-> We were a bit like an adult would be if he were thrust back into middle school. He wouldn't know the right clothes to wear, the right music to like, the right slang to use. He'd seem to the kids a complete alien. The thing is, he'd know enough not to care what they thought. We had no such confidence.
-> 
-> A lot of people seem to think it's good for smart kids to be thrown together with "normal" kids at this stage of their lives. Perhaps. But in at least some cases the reason the nerds don't fit in really is that everyone else is crazy. I remember sitting in the audience at a "pep rally" at my high school, watching as the cheerleaders threw an effigy of an opposing player into the audience to be torn to pieces. I felt like an explorer witnessing some bizarre tribal ritual. 
-> 
+>I think the important thing about the real world is not that it's
+>populated by adults, but that it's very large, and the things you do
+>have real effects. That's what school, prison, and ladies-who-lunch all
+>lack. The inhabitants of all those worlds are trapped in little bubbles
+>where nothing they do can have more than a local effect. Naturally
+>these societies degenerate into savagery. They have no function for
+>their form to follow.
+>
 > \[...\]
-> 
-> Nerds still in school should not hold their breath. Maybe one day a heavily armed force of adults will show up in helicopters to rescue you, but they probably won't be coming this month. Any immediate improvement in nerds' lives is probably going to have to come from the nerds themselves.
-> 
-> Merely understanding the situation they're in should make it less painful. Nerds aren't losers. They're just playing a different game, and a game much closer to the one played in the real world. Adults know this. It's hard to find successful adults now who don't claim to have been nerds in high school.
-> 
-> It's important for nerds to realize, too, that school is not life. School is a strange, artificial thing, half sterile and half feral. It's all-encompassing, like life, but it isn't the real thing. It's only temporary, and if you look, you can see beyond it even while you're still in it.
+>
+>As a thirteen-year-old kid, I didn't have much more experience of the
+>world than what I saw immediately around me. The warped little world we
+>lived in was, I thought, *the world*. The world seemed cruel and
+>boring, and I'm not sure which was worse.
+>
+> Because I didn't fit into this world, I thought that something must be
+> wrong with me. I didn't realize that the reason we nerds didn't fit in
+> was that in some ways we were a step ahead. We were already thinking
+> about the kind of things that matter in the real world, instead of
+> spending all our time playing an exacting but mostly pointless game
+> like the others.
+>
+> We were a bit like an adult would be if he were thrust back into
+> middle school. He wouldn't know the right clothes to wear, the right
+> music to like, the right slang to use. He'd seem to the kids a
+> complete alien. The thing is, he'd know enough not to care what they
+> thought. We had no such confidence.
+>
+> A lot of people seem to think it's good for smart kids to be thrown
+> together with "normal" kids at this stage of their lives. Perhaps. But
+> in at least some cases the reason the nerds don't fit in really is
+> that everyone else is crazy. I remember sitting in the audience at a
+> "pep rally" at my high school, watching as the cheerleaders threw an
+> effigy of an opposing player into the audience to be torn to pieces. I
+> felt like an explorer witnessing some bizarre tribal ritual.
+>
+> \[...\]
+>
+> Nerds still in school should not hold their breath. Maybe one day a
+> heavily armed force of adults will show up in helicopters to rescue
+> you, but they probably won't be coming this month. Any immediate
+> improvement in nerds' lives is probably going to have to come from the
+> nerds themselves.
+>
+> Merely understanding the situation they're in should make it less
+> painful. Nerds aren't losers. They're just playing a different game,
+> and a game much closer to the one played in the real world. Adults
+> know this. It's hard to find successful adults now who don't claim to
+> have been nerds in high school.
+>
+> It's important for nerds to realize, too, that school is not life.
+> School is a strange, artificial thing, half sterile and half feral.
+> It's all-encompassing, like life, but it isn't the real thing. It's
+> only temporary, and if you look, you can see beyond it even while
+> you're still in it.
 
 ## Peter Thiel
 
