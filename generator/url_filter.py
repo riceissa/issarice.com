@@ -44,6 +44,9 @@ def url_filter(key, value, format_, meta):
     '''
     if key == 'Link':
         [txt, [url, attr]] = value
+        if url == "!w":
+            url = "https://en.wikipedia.org/wiki/" + stringify(txt)
+            return Link(txt, [url, attr])
         if url.startswith("!"):
             url = "http://duckduckgo.com/?q=" + url + " " + stringify(txt)
             return Link(txt, [url, attr])
