@@ -50,8 +50,8 @@ castration and eunuchs, long-term thinking, [Econlog](), and
 [existential risk]: http://www.nickbeckstead.com/research
 
 I am also passionate about the unschooling movement (see the Quora topic
-[Education Reform and Disruption]() and [my answer][chomsky usch] to
-“What would Noam Chomsky think of unschooling?” on Quora for more), and
+[Education Reform and Disruption] and [my answer][chomsky usch] to “What
+would Noam Chomsky think of unschooling?” on Quora for more), and
 occasionally contribute to the Cognito Mentoring info wiki (a resource
 designed to help students who are intellectually curious but are
 frustrated with traditional schooling); you can view [my
