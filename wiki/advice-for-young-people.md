@@ -336,13 +336,23 @@ the [The Consequentalism FAQ].
 
 # Depression
 
-High school can be a source of depression, since it is essentially [child abuse](https://www.quora.com/Do-most-intelligent-people-have-trouble-with-the-public-school-system/answer/Marcus-Geduld).
-Depression can in turn cause other problems.
-I'm not really an expert on the topic, but you can read my page on [Depression]().
+High school can be a source of depression, since it is essentially
+[child abuse].  Depression can in turn cause other problems.  I'm not
+really an expert on the topic, but you can read my page on
+[Depression]().
 
-I also do more academic research into depression as an effective altruism cause on the [Depression page on the Cause Prioritization Wiki](http://causeprioritization.org/Depression).
+[child abuse]: https://www.quora.com/Do-most-intelligent-people-have-trouble-with-the-public-school-system/answer/Marcus-Geduld
 
-See also pages like "[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx), which has passages like:
+I also do more academic research into depression as an effective
+altruism cause on the [Depression page on the Cause Prioritization
+Wiki][cp dep].
+
+[cp dep]: http://causeprioritization.org/Depression
+
+See also pages like "[Existential depression in gifted individuals],
+which has passages like:
+
+[ex dep]: http://www.davidsongifted.org/db/Articles_id_10269.aspx
 
 > A particular way of breaking through the sense of isolation is through
 > touch. In the same way that infants need to be held and touched, so do
@@ -369,7 +379,10 @@ See also pages like "[Existential depression in gifted individuals](http://www.d
 > ones that can be dealt with only once, but rather ones that will need
 > frequent revisiting and reconsideration.
 
-Another page, "[Vulnerabilities of highly gifted children](http://www.davidsongifted.org/db/Articles_id_10065.aspx)", which has:
+Another page, "[Vulnerabilities of highly gifted children][vul gif]",
+which has:
+
+[vul gif]: http://www.davidsongifted.org/db/Articles_id_10065.aspx
 
 > It is important to remember that a child with an IQ of 164 is as
 > different intellectually from a child with an IQ of 132 as that child
@@ -382,7 +395,10 @@ Another page, "[Vulnerabilities of highly gifted children](http://www.davidsongi
 > inhospitable environments can result in withdrawal, behavior problems,
 > or psychosomatic symptoms.
 
-See also "[Dealing with intellectual isolation](http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation)" on the Cognito Mentoring info wiki.
+See also "[Dealing with intellectual isolation][dealing iso]" on the
+Cognito Mentoring info wiki.
+
+[dealing iso]: http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation
 
 # Effective altruism
 
@@ -418,47 +434,79 @@ See also "[Dealing with intellectual isolation](http://info.cognitomentoring.org
 
 ("[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)")
 
-In some sense, effective altruism is an answer to the questions "What should I do with my life?", "Can I do anything meaningful with my life?", etc.
-It says, roughly: do [the most good you can do](!w).
+In some sense, effective altruism is an answer to the questions "What
+should I do with my life?", "Can I do anything meaningful with my
+life?", etc.  It says, roughly: do [the most good you can do](!w).
 
-Although effective altruists claim that effective altruism is [a question, not an ideology](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/), if you pay enough attention, each subset of effective altruists clearly have their own agenda.
-So you can't necessarily trust EAs.
-Read posts like "[A critique of effective altruism](http://www.benkuhn.net/ea-critique)".
+Although effective altruists claim that effective altruism is [a
+question, not an ideology][ideo], if you pay enough attention, each
+subset of effective altruists clearly have their own agenda.  So you
+can't necessarily trust EAs.  Read posts like "[A critique of effective
+altruism][ea crit]".
+
+[ideo]: http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/
+[ea crit]: http://www.benkuhn.net/ea-critique
 
 [for more general resources, see [Effective altruism]()]
 
 
 # Online presence and content creation
 
-My main page on this is [Content creation: the organization and dissemination of knowledge](./content-creation)
+My main page on this is [Content creation: the organization and
+dissemination of knowledge](content-creation)
 
-See also [Maintaining your online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence) on the Cognito Mentoring wiki.
+See also [Maintaining your online presence][online p] on the Cognito
+Mentoring wiki.
 
-I think now that content creation may be one of the best ways to produce lasting value.
-It's always best to think in the long term; practicing a sport, for instance, may provide short-term satisfaction, but in the long term (say, after ten years) it is difficult to say what overall effect the sport had.
-(There are obviously creative ways to provide value even with a sport, e.g. by recording it and therefore providing entertainment even after one has stopped playing, or by having instilled in one a sense of discipline in maintaining one's health[^otherways].)
+[online p]: http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence
 
-[^otherways]: Though with this, it's always possible *without* spending all the time on a sport.
+I think now that content creation may be one of the best ways to produce
+lasting value.  It's always best to think in the long term; practicing a
+sport, for instance, may provide short-term satisfaction, but in the
+long term (say, after ten years) it is difficult to say what overall
+effect the sport had.  (There are obviously creative ways to provide
+value even with a sport, e.g. by recording it and therefore providing
+entertainment even after one has stopped playing, or by having instilled
+in one a sense of discipline in maintaining one's health[^otherways].)
 
-I'm probably unusual in thinking that *in moderate amounts of each* recreational drug use is probably more useful than sports.
+[^otherways]: Though with this, it's always possible *without* spending
+all the time on a sport.
 
-Another point: if you're *extremely unusual* compared to the mainstream/masses, then chances are, you'll have trouble finding appropriate peers in real life.
-This is why it's important to expand your search online, and one of the ways to get people's attention online is by producing great content.
+I'm probably unusual in thinking that *in moderate amounts of each*
+recreational drug use is probably more useful than sports.
+
+Another point: if you're *extremely unusual* compared to the
+mainstream/masses, then chances are, you'll have trouble finding
+appropriate peers in real life.  This is why it's important to expand
+your search online, and one of the ways to get people's attention online
+is by producing great content.
 
 # Thinking about careers
 
 - [80,000 Hours](https://80000hours.org/)
 - [Cognito Mentoring](http://cognitomentoring.org/)
-- [Advice for Students on Earning to Give](http://reducing-suffering.org/advice-students-earning-give/) gives a good overview of concrete steps to take in high school and college, with an EA-bent (specifically from the view that earning to give is advisable).
-- See also [Conference Call on Altruistic Career Choice](http://www.givewell.org/altruistic-career-choice) with Holden Karnofsky of GiveWell.
+- [Advice for Students on Earning to Give][earning to give] gives a good
+  overview of concrete steps to take in high school and college, with an
+  EA-bent (specifically from the view that earning to give is
+  advisable).
+- See also [Conference Call on Altruistic Career Choice][holden career]
+  with Holden Karnofsky of GiveWell.
+
+[earning to give]: http://reducing-suffering.org/advice-students-earning-give/
+[holden career]: http://www.givewell.org/altruistic-career-choice
 
 # Books
 
-Books are declining in relative importance because of the internet and its plethora of blogs.
-Books also tend to be old, and, more detrimentally, have a slow feedback loop (i.e. on a website, errors can be corrected quickly, whereas with books it may take years---and the corrections only appear on the new editions).
-Nevertheless, some books are very much worth reading.
+Books are declining in relative importance because of the internet and
+its plethora of blogs.  Books also tend to be old, and, more
+detrimentally, have a slow feedback loop (i.e. on a website, errors can
+be corrected quickly, whereas with books it may take years---and the
+corrections only appear on the new editions).  Nevertheless, some books
+are very much worth reading.
 
-- Start with [Cognito Mentoring's recommendations](http://info.cognitomentoring.org/wiki/Core_reading_recommendations).
+- Start with [Cognito Mentoring's recommendations][cm books].
+
+[cm books]: http://info.cognitomentoring.org/wiki/Core_reading_recommendations
 
 Some other books to look into (I haven't read some of these):
 
@@ -476,24 +524,41 @@ Some other books to look into (I haven't read some of these):
 - You can see more of Vipul's (old) books [here](https://thinkingbeyondcompetition.wordpress.com/books/)<!--(https://archive.is/hUuVo)-->. (The sidebar has even more than on just the page alone.)
 
 
-[^ey]: I personally don't like this book very much, but it is highly regarded among scientists and mathematicians.
-Eliezer Yudkowsky, for one, seems to [like the book a lot](http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/): "\ 'Gödel, Escher, Bach' by Douglas R. Hofstadter is the most awesome book that I have ever read.
-If there is one book that emphasizes the tragedy of Death, it is this book, because it's terrible that so many people have died without reading it."
-(Emphasis removed, since it was over the whole quote.)
+[^ey]: I personally don't like this book very much, but it is highly
+regarded among scientists and mathematicians.  Eliezer Yudkowsky, for
+one, seems to [like the book a lot][ey geb]: "\ 'Gödel, Escher, Bach' by
+Douglas R. Hofstadter is the most awesome book that I have ever read.
+If there is one book that emphasizes the tragedy of Death, it is this
+book, because it's terrible that so many people have died without
+reading it." (Emphasis removed, since it was over the whole quote.)
+
+[ey geb]: http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/
 
 
 # Extracurriculars
 
-- It's very difficult to completely ignore the mainstream approach, especially if one lacks imaginative/creative approaches (I think this leads many people to think that doing sports, practicing an instrument, becoming a club leader, etc., are the best use of one's extracurricular time, or even *necessary* to ensure success in college applications, etc.)
+- It's very difficult to completely ignore the mainstream approach,
+  especially if one lacks imaginative/creative approaches (I think this
+  leads many people to think that doing sports, practicing an
+  instrument, becoming a club leader, etc., are the best use of one's
+  extracurricular time, or even *necessary* to ensure success in college
+  applications, etc.)
 
-- If one wants to attend an elite college (and there are quite a few good reasons for doing so), then following this path may be a good idea (though still, it's always important to distinguish oneself)
+- If one wants to attend an elite college (and there are quite a few
+  good reasons for doing so), then following this path may be a good
+  idea (though still, it's always important to distinguish oneself)
 
 
 
 # Doing something important
 
-Richard Hamming's famous talk, "[You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" is *very* inspirational.
-There is a video of the talk [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) (though I think reading it is better, since I don't particularly like the way he gives the talk).
+Richard Hamming's famous talk, "[You and Your Research]" is *very*
+inspirational.  There is a video of the talk [here]() (though I think
+reading it is better, since I don't particularly like the way he gives
+the talk).
+
+[you and your research]: http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+[hamming yt]: https://www.youtube.com/watch?v=a1zDuOPkMSw
 
 Some good quotes (emphasis mine):
 
@@ -532,7 +597,11 @@ And:
 > doing is not important, and if you don't think it is going to lead to
 > something important, why are you at Bell Labs working on it?”
 
-[Jeff Meyerson's answer to "How can I overcome the depression from being rejected by all the top tech companies I have applied to?"](https://www.quora.com/How-can-I-overcome-the-depression-from-being-rejected-by-all-the-top-tech-companies-I-have-applied-to/answer/Jeff-Meyerson?share=1) is particularly good:
+[Jeff Meyerson's answer to "How can I overcome the depression from being
+rejected by all the top tech companies I have applied to?"][jm dep] is
+particularly good:
+
+[jm dep]: https://www.quora.com/How-can-I-overcome-the-depression-from-being-rejected-by-all-the-top-tech-companies-I-have-applied-to/answer/Jeff-Meyerson?share=1
 
 
 > **You need to build something.**
@@ -552,11 +621,20 @@ And:
 
 # Academia
 
-Beware of "tunnel vision" into mathematics and physics (and other STEM fields too).
-In particular, while knowing about the possibilities of academia is important, *going to graduate school shouldn't be one's default route (at all)*.
-As [Holden Karnofsky of GiveWell says](https://80000hours.org/2013/04/interview-with-holden-karnofsky-co-founder-of-givewell/), regarding academia, "\[p\]eople usually either completely ignore that possibility or they completely ignore every other possibility".
-Also you always have to remeber quotes like "[I have known more people whose lives have been ruined by getting a Ph.D. in physics than by drugs](http://physics.wustl.edu/katz/scientist.html)".
-Remember that there also exist things like [100 Reasons NOT to Go to Graduate School](http://100rsns.blogspot.com/).
+Beware of "tunnel vision" into mathematics and physics (and other STEM
+fields too).  In particular, while knowing about the possibilities of
+academia is important, *going to graduate school shouldn't be one's
+default route (at all)*.  As [Holden Karnofsky of GiveWell says][holden
+interview], regarding academia, "\[p\]eople usually either completely
+ignore that possibility or they completely ignore every other
+possibility".  Also you always have to remeber quotes like "[I have
+known more people whose lives have been ruined by getting a Ph.D. in
+physics than by drugs][phys drugs]".  Remember that there also exist
+things like [100 Reasons NOT to Go to Graduate School][no grad].
+
+[holden interview]: https://80000hours.org/2013/04/interview-with-holden-karnofsky-co-founder-of-givewell/
+[phys drugs]: http://physics.wustl.edu/katz/scientist.html
+[no grad]: http://100rsns.blogspot.com/
 
 For Cognito Mentoring pages, see:
 
@@ -564,12 +642,16 @@ For Cognito Mentoring pages, see:
     - [Leaving academia after graduate school](http://info.cognitomentoring.org/wiki/Leaving_academia_after_graduate_school)
     - [Alternatives to academia](http://info.cognitomentoring.org/wiki/Alternatives_to_academia)
 
-A good thing to remember is that *there are already too many people in academia*.
-Academia is insanely crowded, and institutionally you're very replaceable.
-My personal opinion: just stay away from academia unless you have a *very* good reason.
-In particular, if you're neurotic or mentally unstable *at all*, **just stay away**.
-See also Bryan Caplan's forthcoming book on education.
-See also one of my absolute favorite answers on Quora: "[Vipul Naik's answer to Why did you leave academia?](https://www.quora.com/Why-did-you-leave-academia/answer/Vipul-Naik)"
+A good thing to remember is that *there are already too many people in
+academia*.  Academia is insanely crowded, and institutionally you're
+very replaceable.  My personal opinion: just stay away from academia
+unless you have a *very* good reason.  In particular, if you're neurotic
+or mentally unstable *at all*, **just stay away**.  See also Bryan
+Caplan's forthcoming book on education.  See also one of my absolute
+favorite answers on Quora: "[Vipul Naik's answer to Why did you leave
+academia?][vipul leave]"
+
+[vipul leave]: https://www.quora.com/Why-did-you-leave-academia/answer/Vipul-Naik
 
 See also [this answer](https://href.li/?https://academia.stackexchange.com/questions/44122/why-do-undergraduate-admissions-in-the-u-s-take-into-account-nonacademic-criteri) (about undergrad admissions, not grad school)
 
@@ -580,7 +662,7 @@ his](https://www.quora.com/What-can-I-do-to-prevent-my-twenties-from-being-as-ba
 > If I had to choose one thing, I'd say avoid a Ph.D. Mine is done, and
 > I'm proud of my work and flaunt my credentials whenever I need to, but
 > it really took a lot out of me.
-> 
+>
 > Six years of financial belt-tightening, weekends, nights, and the
 > brutal bumps of a cut-throat business took their toll. Your twenties
 > are typically a time when a lot of tough personal things happen, as you
@@ -597,7 +679,9 @@ his](https://www.quora.com/What-can-I-do-to-prevent-my-twenties-from-being-as-ba
 
 - Cognito Mentoring in general
 
-- Here's a list of people you should look into (and read as much of what they say as you can stand); bolding indicates people I particularly recommend:
+- Here's a list of people you should look into (and read as much of what
+  they say as you can stand); bolding indicates people I particularly
+  recommend:
 
     - Peter Thiel
     - Paul Graham
@@ -617,10 +701,13 @@ his](https://www.quora.com/What-can-I-do-to-prevent-my-twenties-from-being-as-ba
     - Tim Gowers
     - Eliezer Yudkowsky
     - Holden Karnofsky
-    - Nick Beckstead; in particular, read his PhD thesis, "On the Overwhelming Importance of Shaping the Far Future", which you can find [here](http://www.nickbeckstead.com/research)
+    - Nick Beckstead; in particular, read his PhD thesis, "On the
+      Overwhelming Importance of Shaping the Far Future", which you can
+      find [here](http://www.nickbeckstead.com/research)
 
-- Eschewing the mainstream: how to ignore implicit (and explicit) social pressures?
-How to ignore for example pressure to complete homework assignments?
+- Eschewing the mainstream: how to ignore implicit (and explicit) social
+  pressures?  How to ignore for example pressure to complete homework
+  assignments?
 
 - Experimenting with homelessness; see gwern
 
@@ -631,20 +718,28 @@ radical experimentation,
 how *little* people remember from lectures/class,
 opportunity cost of college.
 
-- the importance of *creating things* and *having something to look back on*; take the example of Uber: on bad days, Travis Kalanick can just look at the usage chart of his company.
+- the importance of *creating things* and *having something to look back
+  on*; take the example of Uber: on bad days, Travis Kalanick can just
+  look at the usage chart of his company.
 
 - [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
 
 - Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
 (Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
 
-- conventional intellectual heroes like Bertrand Russell, Feynman, Chomsky, etc., can be good to a certain extent, in that they show you how to stand up for something, apply critical thinking, etc.
-However, compared to LW and the "new wave" of critical thinking in the 2000s/2010s, they are somewhat outdated.
+- conventional intellectual heroes like Bertrand Russell, Feynman,
+  Chomsky, etc., can be good to a certain extent, in that they show you
+  how to stand up for something, apply critical thinking, etc.  However,
+  compared to LW and the "new wave" of critical thinking in the
+  2000s/2010s, they are somewhat outdated.
 
 - Read Roy Baumeister's "[Is There Anything Good About Men?](http://denisdutton.com/baumeister.htm)"
 
-- In general, you should stalk the lives of the most promising entrepreneurs like Mark Zuckerberg, Travis Kalanick (see especially his failcon talk), Jeff Bezos, etc.
-These people are the new wave of "most impressive people", following traditional impressive people like Feynman.
+- In general, you should stalk the lives of the most promising
+  entrepreneurs like Mark Zuckerberg, Travis Kalanick (see especially
+  his failcon talk), Jeff Bezos, etc.  These people are the new wave of
+  "most impressive people", following traditional impressive people like
+  Feynman.
 
 - Some other possible names from [this post](http://lesswrong.com/lw/6he/what_are_lesswrongs_thoughts_on_venkatesh_rao/):
     - Venkatesh Rao
@@ -653,36 +748,47 @@ These people are the new wave of "most impressive people", following traditional
 
 - experimenting with nootropics might be a good idea
 
--
-    Also see [Katja Grace's post](https://meteuphoric.wordpress.com/2011/04/19/advice-to-aspiring-undergraduates/) on advice to "aspiring undergraduates".
+
+
+- Also see [Katja Grace's post][katja adv] on advice to "aspiring
+  undergraduates".
+
+    [katja adv]: https://meteuphoric.wordpress.com/2011/04/19/advice-to-aspiring-undergraduates/
+
     In particular:
-    
+
     > In case you actually want to learn things, it is not clear whether
-    > university will help or hinder this <span class="Apple-style-span"
-    > style="line-height:26px;">on average</span>. There seems to be a lot of
-    > variation between people. If you are unsure whether having someone talk
-    > at you for hours at a time while you struggle to write down what they
-    > said ten seconds previously helps you learn, sit in on some lectures
-    > before you sign up. Doing so is usually free.
-    > 
-    > If you are ambitious and/or idealistic, and like being so, realise that
-    > university seems to often destroy these characteristics. Or perhaps
-    > that’s just the adult world. Anyway, be wary of accidentally picking up
-    > the impression that ambition and idealism are arrogant naivete
-    > inappropriate to the subjective, intellectually impenetrable real world,
-    > in which a person as small as yourself should be eternally grateful if
-    > someone finds them worthy of pushing papers. Unless you see good
-    > evidence for it of course, or would find it useful for enjoying your
-    > career in paper pushing.
+    > university will help or hinder this on average. There seems to be
+    > a lot of variation between people. If you are unsure whether
+    > having someone talk at you for hours at a time while you struggle
+    > to write down what they said ten seconds previously helps you
+    > learn, sit in on some lectures before you sign up. Doing so is
+    > usually free.
+    >
+    > If you are ambitious and/or idealistic, and like being so, realise
+    > that university seems to often destroy these characteristics. Or
+    > perhaps that’s just the adult world. Anyway, be wary of
+    > accidentally picking up the impression that ambition and idealism
+    > are arrogant naivete inappropriate to the subjective,
+    > intellectually impenetrable real world, in which a person as small
+    > as yourself should be eternally grateful if someone finds them
+    > worthy of pushing papers. Unless you see good evidence for it of
+    > course, or would find it useful for enjoying your career in paper
+    > pushing.
 
-- I'm starting to think that colleges really are mostly useless.
-In particular, if you put in effort to strengthen your online presence and find good peers online, then it's *very likely* that the people you can talk to online will be *much* better than the people you can talk to at your university.
-(Though keep in mind potential benefits of talking to people in person.)
-In particular, *don't feel bad if you are lonely all the time*.
-I tend to take the view that socializing with people from whom you will gain little is worse than not socializing at all.
+- I'm starting to think that colleges really are mostly useless.  In
+  particular, if you put in effort to strengthen your online presence
+  and find good peers online, then it's *very likely* that the people
+  you can talk to online will be *much* better than the people you can
+  talk to at your university.  (Though keep in mind potential benefits
+  of talking to people in person.) In particular, *don't feel bad if you
+  are lonely all the time*.  I tend to take the view that socializing
+  with people from whom you will gain little is worse than not
+  socializing at all.
 
-- Even if you go to an elite school, are you *really* getting much out of the social scene?
-Are the things you're learning in class *really* useful?
+- Even if you go to an elite school, are you *really* getting much out
+  of the social scene?  Are the things you're learning in class *really*
+  useful?
 
 - "[To Fall in Love With Anyone, Do This](http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html)" and "[The 36 Questions That Lead to Love](http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html)"
 
@@ -694,12 +800,12 @@ Are the things you're learning in class *really* useful?
 
     - Quote I really like:
 
-        > “Gentle, nurturing touch is new for most older virgins,” Blanchard
-        > explains. “Many don’t recall ever being touched that way before by
-        > anyone. Imagine what it must feel like never to have known gentle
-        > touch, and then to have someone hold your hand, stroke your arm,
-        > run their fingers through your hair. It’s a profound experience.
-        > Often, clients cry.”
+        > “Gentle, nurturing touch is new for most older virgins,”
+        > Blanchard explains. “Many don’t recall ever being touched that
+        > way before by anyone. Imagine what it must feel like never to
+        > have known gentle touch, and then to have someone hold your
+        > hand, stroke your arm, run their fingers through your hair.
+        > It’s a profound experience.  Often, clients cry.”
 
 some unresolved problems:
 
