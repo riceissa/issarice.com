@@ -1,28 +1,39 @@
 ---
 title: Comments
-#description: none
+rss-description: more thoughts
 author: Issa Rice
 creation-date: 2014-12-30
-last-major-revision-date: 2014-12-30
+last-major-revision-date: 2015-05-16
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
+# accepts "certain", "highly likely", "likely", "possible", "unlikely",
+# "highly unlikely", "remote", "impossible", "log", "emotional",
+# or "fiction"
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: content creation, comments
+tags: content creation, comments, personal sites
 ---
 
 I've been interested in commenting systems, comment [spam in blogs](!w), and whether it's a good idea to have comments on this site.
-[I once asked on Facebook](https://www.facebook.com/riceissa/posts/1477764832502469):
+I [once asked on Facebook](https://www.facebook.com/riceissa/posts/1477764832502469):
 
-> What are the advantages and disadvantages of the various commenting systems used on websites? Some qualities one can pick out: whether to have nested comments, the size of the unit of language on which one can comment (e.g. comments for a whole article versus comments for each paragraph, or even smaller units), voting (and whether to display who voted), displaying who has seen the comments, which markup language to use, and so on.
+> What are the advantages and disadvantages of the various commenting
+> systems used on websites? Some qualities one can pick out: whether to
+> have nested comments, the size of the unit of language on which one
+> can comment (e.g. comments for a whole article versus comments for
+> each paragraph, or even smaller units), voting (and whether to display
+> who voted), displaying who has seen the comments, which markup
+> language to use, and so on.
 
-It's rather interesting how many different commenting systems one can find, and is natural to ask: "Well, which one works best?"
-And if that is an ill-defined question, then one can at least try to ask, "What should I use for *my* site?"
+It's rather interesting how many different commenting systems one can
+find, and is natural to ask: "Well, which one works best?" And if that
+is an ill-defined question, then one can at least try to ask, "What
+should I use for *my* site?"
 
-It might be worthwhile to list all the possible parameters (i.e. to extend the list I came up with).
+It might be worthwhile to list all the possible parameters (i.e. to
+extend the list I came up with).
 
 - Nesting
 - Unit of language relevant for replies
@@ -40,56 +51,111 @@ It might be worthwhile to list all the possible parameters (i.e. to extend the l
 
 Some questions to ask:
 
-- Can a greedy selection (in the sense that, for each bullet point, one chooses the most preferable option) of the features optimize for the "best" commenting system?
-- What patterns might we find if we classify many of the existing commenting systems (e.g. on Facebook, Quora, Wikipedia discussions, reddit, WordPress, Disqus, Discourse, etc.)?
+- Can a greedy selection (in the sense that, for each bullet point, one
+  chooses the most preferable option) of the features optimize for the
+  "best" commenting system?
+- What patterns might we find if we classify many of the existing
+  commenting systems (e.g. on Facebook, Quora, Wikipedia discussions,
+  reddit, WordPress, Disqus, Discourse, etc.)?
 
 
-# Comments on this site
+# Comments for personal sites
 
-On social media like Facebook and Quora, and even on WordPress blogs, it is not necessary to think too much on commenting, since this is all provided upstream.
-When I first started using a static site generator to make my website, I followed gwern and used [Disqus](!w).
-However, currently this site has no comments.
-My reasoning is that, ever since I've become active on Facebook, I've realized that most of the useful discussions about an article happen there, instead of on the original article's comments section.
-More directly, in his answer to "[Why are people more willing to comment on a Facebook post sharing an article rather than in the comments section of the article itself?](https://www.quora.com/Why-are-people-more-willing-to-comment-on-a-Facebook-post-sharing-an-article-rather-than-in-the-comments-section-of-the-article-itself/answer/Andrew-J-Ho)", Andrew Ho writes:
+## Cons
 
-> To answer the question directly, it is because the comments section of the article is full of <u>inane and worthless chatter</u> that has zero intellectual value whatsoever. However, my Facebook friends are mostly fairly intelligent people, so usually they have something insightful to say about the article and/or participating in the discussion that they prompt is enjoyable and interesting.
+On social media like Facebook and Quora, and even on WordPress blogs, it
+is not necessary to think too much on commenting, since this is all
+provided upstream.  When I first started using a static site generator
+to make my website, I followed gwern and used [Disqus](!w).  However,
+currently this site has no comments.  My reasoning is that, ever since
+I've become active on Facebook, I've realized that most of the useful
+discussions about an article happen there, instead of on the original
+article's comments section.  More directly, in his answer to "[Why are
+people more willing to comment on a Facebook post sharing an article
+rather than in the comments section of the article itself?][andrew]",
+Andrew Ho writes:
 
-This obviously does not happen on every site.
-In fact, I get the impression that small personal sites tend to have the highest-quality comments, while large news sites tend to have the worst, with blogs somewhere in the middle.
+[andrew]: https://www.quora.com/Why-are-people-more-willing-to-comment-on-a-Facebook-post-sharing-an-article-rather-than-in-the-comments-section-of-the-article-itself/answer/Andrew-J-Ho
 
-The other issue is with having to moderate the comments.
-Quora and Facebook are convenient because they require real names, and thus are able to keep out non-human spam (for the most part).
-Disqus does seem to have anti-spam measures, but verifying the identities of commenters may be more difficult since people can choose to post anonymously (and also because Disqus isn't as widely-used as Facebook).
+> To answer the question directly, it is because the comments section of
+> the article is full of <u>inane and worthless chatter</u> that has
+> zero intellectual value whatsoever. However, my Facebook friends are
+> mostly fairly intelligent people, so usually they have something
+> insightful to say about the article and/or participating in the
+> discussion that they prompt is enjoyable and interesting.
 
-It's probably worth thinking about why we have comments in the first place.
-Comments are useful chiefly because they are a means to provide feedback for the author.
-But this can be done via email or messaging (see my [contact information](about-me#contact) for how); better yet, for minor things like pointing out typos, I have an "edit page" link at the top of each page that will allow people with GitHub accounts to fork the site repo and submit a pull request.
+This obviously does not happen on every site.  In fact, I get the
+impression that small personal sites tend to have the highest-quality
+comments, while large news sites tend to have the worst, with blogs
+somewhere in the middle.
 
-One idea in favor of having comments is so criticisms are out in the open.
-But there are other ways to do this[^otherways], and in any case, how can one trust a site owner to be honest about the comments posted on their own site (since they usually have the power to delete any comment, or even edit them in the case of sites using WordPress)?
+The other issue is with having to moderate the comments.  Quora and
+Facebook are convenient because they require real names, and thus are
+able to keep out non-human spam (for the most part).  Disqus does seem
+to have anti-spam measures, but verifying the identities of commenters
+may be more difficult since people can choose to post anonymously (and
+also because Disqus isn't as widely-used as Facebook).
 
-[^otherways]: gwern has an "[External links](http://www.gwern.net/On%20Stress#external-links)" section for his page *On Stress* that links to a reddit discussion of the page.
-I can do the same with Facebook discussions or when I crosspost to Quora.
+It's probably worth thinking about why we have comments in the first
+place.  Comments are useful chiefly because they are a means to provide
+feedback for the author.  But this can be done via email or messaging
+(see my [contact information](about-me#contact) for how); better yet,
+for minor things like pointing out typos, I have an "edit page" link at
+the top of each page that will allow people with GitHub accounts to fork
+the site repo and submit a pull request.
+
+## Pros
+
+One idea in favor of having comments is so criticisms are out in the
+open.  But there are other ways to do this[^otherways], and in any case,
+how can one trust a site owner to be honest about the comments posted on
+their own site (since they usually have the power to delete any comment,
+or even edit them in the case of sites using WordPress)?
+
+[^otherways]: gwern has an "[External
+links](http://www.gwern.net/On%20Stress#external-links)" section for his
+page *On Stress* that links to a reddit discussion of the page.  I can
+do the same with Facebook discussions or when I crosspost to Quora.
 
 
-Another idea is that there is a natural presumption that commenting on a site is enabled.
-This site itself is the most natural place to have a discussion about the content on the site, and also provides an obvious place for readers to interact with each other; who am I to take this zone of exchange away?
+Another idea is that there is a natural presumption that commenting on a
+site is enabled.  This site itself is the most natural place to have a
+discussion about the content on the site, and also provides an obvious
+place for readers to interact with each other; who am I to take this
+zone of exchange away?
 
 
 Some convincing ideas for me are:
 
-- Site-native comments are potentially easier to backup than comments posted to Facebook or Quora.
-Even Disqus does not allow the site owner to backup the comments for a site (only their own comments, last time I checked); [gwern seems to backup Disqus comments though](http://www.gwern.net/Archiving%20URLs#comment-886147303)[^disquscomments].
+- Site-native comments are potentially easier to backup than comments
+  posted to Facebook or Quora.  Even Disqus does not allow the site
+  owner to backup the comments for a site (only their own comments, last
+  time I checked); [gwern seems to backup Disqus comments
+  though](http://www.gwern.net/Archiving%20URLs#comment-886147303)[^disquscomments].
 
-[^disquscomments]: In response to "What about [archiving] the comments here?", gwern writes:
+[^disquscomments]: In response to "What about [archiving] the comments
+here?", gwern writes:
 
-    > Likely to die, I'm afraid. I do back up my Disqus comments on a regular basis, but there's no guarantee that I'll migrate them to the next commenting system. (On the plus side, I try to address any issues comments bring up, quote ones which add to the article, etc, so the losses won't be too great.)
+    > Likely to die, I'm afraid. I do back up my Disqus comments on a
+    > regular basis, but there's no guarantee that I'll migrate them to
+    > the next commenting system. (On the plus side, I try to address
+    > any issues comments bring up, quote ones which add to the article,
+    > etc, so the losses won't be too great.)
 
-- Some people don't have an account on Facebook or Quora, and even emailing may be inconvenient.
-For this, I do have an [anonymous feedback form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (which works even with text-only browsers like Elinks), as advertised on my contacts section of the about page.
+- Some people don't have an account on Facebook or Quora, and even
+  emailing may be inconvenient.  For this, I do have an [anonymous
+  feedback form][feedback] (which works even with text-only browsers
+  like Elinks), as advertised on my contacts section of the about page.
 
-- Having a comments section might be a good idea for an outsider (say, if they want to recruit bloggers).
-Vipul Naik writes in [his answer to "How do you recruit writers for a group blog?"](https://www.quora.com/How-do-you-recruit-writers-for-a-group-blog/answer/Vipul-Naik) that he searched on Bryan Caplan's EconLog when looking for bloggers to recruit to Open Borders:
+[feedback]: https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form
+
+- Having a comments section might be a good idea for an outsider (say,
+  if they want to recruit bloggers).  Vipul Naik writes in [his answer
+  to "How do you recruit writers for a group blog?"][recruit] that he
+  searched on Bryan Caplan's EconLog when looking for bloggers to
+  recruit to Open Borders:
+
+    [recruit]: https://www.quora.com/How-do-you-recruit-writers-for-a-group-blog/answer/Vipul-Naik
 
     > I looked at the comment thread on Bryan's
     > migration posts on EconLog. I looked carefully for people who wrote
@@ -98,12 +164,13 @@ Vipul Naik writes in [his answer to "How do you recruit writers for a group blog
     > eloquent, *and* who didn't seem to already have a very active blog
     > presence of their own.
 
-I also do have a GitHub repository for this site, where anyone can open an issue, which is viewable publicly.
+I also do have a GitHub repository for this site, where anyone can open
+an issue, which is viewable publicly.
 
 # External links
 
-A variety of people have discussed whether to have comments on their site.
-Here are some of the better ones.
+A variety of people have discussed whether to have comments on their
+site.  Here are some of the better ones.
 
 - Matt Gemmell has:
     - [Comments Off](http://mattgemmell.com/comments-off/)<!-- ([Perma.cc](http://perma.cc/AP2L-32XU))-->
@@ -114,14 +181,28 @@ Here are some of the better ones.
 
 - [MG Siegler](http://parislemon.com/post/15288210624/comments-still-off) (also through Gemmell):
 
-    > Let’s be totally honest here: anyone worthwhile leaving a comment should do so on their own blog. Very few read blog comments anyway. I’m sorry, but it’s true. Commenting is a facade. It makes you think you have a voice. You don’t. Get your own blog and write how you really feel on your own site.
+    > Let’s be totally honest here: anyone worthwhile leaving a comment
+    > should do so on their own blog. Very few read blog comments
+    > anyway. I’m sorry, but it’s true. Commenting is a facade. It makes
+    > you think you have a voice. You don’t. Get your own blog and write
+    > how you really feel on your own site.
 
     This is related to my idea of treating comments as their own post.
 
+    However, with this, it's important to consider the counterfactual:
+    by removing a place to rapidly provide thoughts, readers may *never*
+    end up providing their thoughts. In other words, I suspect that for
+    many, it's comments or nothing; making one's own site or blog
+    isn't an option (too much activation energy required).
+
 - [Copyblogger](http://www.copyblogger.com/removing-blog-comments/):
 
-    > If you’re going to put the work in to articulate your thoughts, to make
-    > an intelligent argument, and to bring something fresh to the
-    > conversation … you should be [putting that work into *your* site](http://www.copyblogger.com/digital-sharecropping/), not ours.
+    > If you’re going to put the work in to articulate your thoughts, to
+    > make an intelligent argument, and to bring something fresh to the
+    > conversation … you should be [putting that work into *your*
+    > site][sharecrop], not ours.
+
+    [sharecrop]: http://www.copyblogger.com/digital-sharecropping/
+
 
 - The notorious [John Gruber](http://daringfireball.net/2010/06/whats_fair)
