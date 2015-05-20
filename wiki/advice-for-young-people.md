@@ -811,3 +811,5 @@ some unresolved problems:
 
 - getting paid to do work
 - romance...
+
+- <https://www.psychologytoday.com/articles/200703/trashing-teens>
