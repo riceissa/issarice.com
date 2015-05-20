@@ -46,3 +46,17 @@ A while ago (2014 September) I [hosted a discussion](https://www.facebook.com/ri
 # See also
 
 - "[The value for young people of intellectual interaction with older people](http://cognitomentoring.org/blog/the-value-for-young-people-of-intellectual-interaction-with-older-people/)"
+- "[Trashing Teens][marano]":
+
+    > Teens in America are in touch with their peers on average 65 hours
+    > a week, compared to about four hours a week in preindustrial
+    > cultures. In this country, teens learn virtually everything they
+    > know from other teens, who are in turn highly influenced by
+    > certain aggressive industries. This makes no sense. Teens should
+    > be learning from the people they are about to become. When young
+    > people exit the education system and are dumped into the real
+    > world, which is not the world of Britney Spears, they have no idea
+    > what's going on and have to spend considerable time figuring it
+    > out.
+
+[marano]: https://www.psychologytoday.com/articles/200703/trashing-teens
