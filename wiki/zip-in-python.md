@@ -2,19 +2,17 @@
 layout: default
 title: Zip in Python
 comments: "yes"
-disqus-id: b4fc08b425b94e5e8374199e8d4b6798c3a0a77c
 math: "yes"
 license: "CC-BY"
 tags: math, python, computer-science
 ---
 
-In mathematics, one can have a function like $f: X \times Y\to Z$,
-whence one can write for instance $f(x,y) = z$, where $x\in X,
-y\in Y, z\in Z$. Some books take care to remark that since $(x,y)\in
-X\times Y$, one should in fact write $f((x,y))=z$. In Python, this
-distinction is accomplished using the star (`*`) in function calls.  So
-for example if one had the sequence $(a_i)_{i=n_0}^n$, then one can
-write
+In mathematics, one can have a function $f: X \times Y\to Z$ and write
+$f(x,y) = z$, where $x\in X, y\in Y, z\in Z$. Some books take care to
+remark that since $X \times Y$ is the domain $(x,y)\in X\times Y$, one
+should in fact write $f((x,y))=z$. In Python, this distinction is
+accomplished using the star (`*`) in function calls.  So for example if
+one had a sequence of parameters $(a_i)_{i=0}^n$, then one can write
 $$
 f(\star(a_i)_{i=n_0}^n) = f(a_{n_0}, \ldots, a_n)
 $$
