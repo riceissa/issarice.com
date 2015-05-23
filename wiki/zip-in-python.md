@@ -9,7 +9,7 @@ tags: math, python, computer-science
 
 In mathematics, one can have a function $f: X \times Y\to Z$ and write
 $f(x,y) = z$, where $x\in X, y\in Y, z\in Z$. Some books take care to
-remark that since $X \times Y$ is the domain $(x,y)\in X\times Y$, one
+remark that since $X \times Y$ is the domain and $(x,y)\in X\times Y$, one
 should in fact write $f((x,y))=z$. In Python, this distinction is
 accomplished using the star (`*`) in function calls.  So for example if
 one had a sequence of parameters $(a_i)_{i=0}^n$, then one can write
@@ -34,7 +34,7 @@ $$
 Now let us examine what $\mathrm{zip}(\star x)$ means.  The star unpacks
 the first layer of the sequence, leaving us with
 $$
-\mathrm{zip}((x_{0,0}, \ldots, x_{0,m}), \ldots, (x_{n,m}, \ldots,
+\mathrm{zip}((x_{0,0}, \ldots, x_{0,m}), \ldots, (x_{n,0}, \ldots,
 x_{n,m}))
 $$
 Now, $\mathrm{zip}$ will first take the $0$th element from each
@@ -57,8 +57,8 @@ its [transpose] $x^T$ (or, more specifically, $\mathrm{zip}$ maps each
 matrix $x = (w_0, \ldots, w_n)^T$ with row-vectors $w_0, \ldots, w_n$ to
 the matrix $(w_0^T, \ldots, w_n^T)$, and then forms row-vectors in the
 new matrix). If we decide to repeat this operation, we get the original
-matrix-like structure back.  In other words, $x =
-\mathrm{zip}(\star\mathrm{zip}(\star x))$.
+matrix back.  In other words, $x = \mathrm{zip}(\star\mathrm{zip}(\star
+x))$.
 
 [transpose]: https://en.wikipedia.org/wiki/Transpose
 
