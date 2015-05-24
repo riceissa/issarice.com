@@ -18,8 +18,9 @@ aliases: japanese school, hoshuko
 ---
 
 *Below I give my personal experience attending the Seattle Japanese
-School. This was originally a response to [this Quora
-question][q_japan].*
+School. This was originally intended as a response to [this Quora
+question][q_japan], but Quora's browser-based editor was too limiting so
+I've decided to publish it here.*
 
 [q_japan]: https://www.quora.com/What-is-it-like-to-attend-the-Seattle-Japanese-School
 
@@ -96,7 +97,6 @@ house to play video games and socialize. This actually resulted in my
 first all-nighter with friends, and continues to be one of my fondest
 memories.
 
-
 [^sakura]: The Japanese school used to have a system (that it has since
 discontinued) where during
 elementary school, the children would be separated into two groups
@@ -106,3 +106,27 @@ blossoms", or 桜, were the ones with more Japanese fluency, while the
 "rhododendrons" or シャクナゲ, were considered the more "Americanized"
 ones, who were almost tacitly assumed to quit after elementary school …
 
+In many ways, a lot of the later years sort of blur together, because
+everything happened at Sammamish high school (so no locational
+distinction to aid my memory), and my friend group also stayed
+essentially constant.  There are a few memories that stand out though,
+which I suppose I should relate.
+
+- 8th grade geometry
+- math in upper level high school (teacher's attempt at teaching
+  calculus of variations, etc.)
+
+more thoughts:
+
+- a lot of useless work; i actually learned more japanese in my final
+  two years or so of intensely reading japanese literature than from
+  language class.
+- how friend group consisted almost entirely of half-japanese half-white
+  males...
+- not too difficult to be the top of the class, since most ppl don't
+  even do any hw, nor do they pay much attention in class.
+- *extremely* tedious mandatory assemblies that were *much* worse than
+  in US schools
+- especially in high school, it become very obvious that a lot of the
+  kids were just attending the school to socialize+have something they
+  could write on in their college apps.
