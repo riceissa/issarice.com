@@ -8,6 +8,7 @@ language: English
 status: draft
 license: CC BY
 tags: ["music", "personal", "japan"]
+aliases: music, music I listen to, music I like
 ---
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
