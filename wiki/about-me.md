@@ -95,3 +95,12 @@ My email address is [riceissa@gmail.com][email].  See [Contact]() for
 more options and account names I use on various websites.
 
 [email]: mailto:riceissa@gmail.com
+
+# Photo
+
+I look like [this](identification-photo.jpg).
+
+# Name
+
+See [How should I properly pronounce your name?]() for information about
+my name.
