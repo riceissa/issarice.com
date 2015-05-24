@@ -6,11 +6,11 @@ creation-date: 2015-05-23
 last-major-revision-date: 2015-05-23
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
-status: notes
+status: mostly finished
 # accepts "certain", "highly likely", "likely", "possible", "unlikely",
 # "highly unlikely", "remote", "impossible", "log", "emotional", or
 # "fiction"
-belief: possible
+belief: highly likely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: self
