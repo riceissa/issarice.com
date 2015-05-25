@@ -678,7 +678,11 @@ his](https://www.quora.com/What-can-I-do-to-prevent-my-twenties-from-being-as-ba
 Alex K. Chen often talks about the important of [expanding your
 imagination of what's possible][expand].  Here I'll provide some of my
 thoughts on how best to do that, in particular by giving examples of
-things that have expanded my imagination.
+things that have expanded my imagination.  In general, the best way to
+do this is to just *read a lot* of things from a *very diverse set of
+places*, and to interact with a lot of people as well.  It really helps
+if you have a lot of friends who are into the newest things, because you
+can learn a lot about the most exciting things that are happening.
 
 [expand]: https://www.quora.com/What-is-the-best-advice-you-can-give-to-someone-attending-their-first-year-at-a-university/answer/Alex-K-Chen
 
@@ -711,6 +715,19 @@ things that have expanded my imagination.
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
+    - Some more people mentioned by Alex K. Chen:
+
+        > People whose opinions I very highly respect: danah boyd,
+        > Bradley Voytek, [Bryan
+        > Caplan](https://www.quora.com/Bryan-Caplan-2), Robin Hanson,
+        > [Daniel Lemire](https://www.quora.com/Daniel-Lemire), Roy
+        > Baumeister, Edward O. Wilson, Will Wright, Peter Thiel,
+        > [gwern](http://www.gwern.net/About), Michael O. Church,
+        > Francis Crick, Dean Simonton, [Danielle
+        > Fong](http://daniellefong.com/about-the-author/), [Michael
+        > Nielsen](https://www.quora.com/Michael-Nielsen), [Ethan
+        > Perlstein](https://www.quora.com/Ethan-Perlstein), [Robert
+        > Epstein](http://drrobertepstein.com/index.php/adolescence)
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social
   pressures?  How to ignore for example pressure to complete homework
@@ -718,7 +735,13 @@ things that have expanded my imagination.
 
 - Experimenting with homelessness; see gwern
 
-- "[Activism Goes Away After Graduation](https://web.archive.org/web/20100223014628/http://www.xamuel.com/activism-goes-away-after-graduation/)<!--(https://archive.today/dgb0a)-->" by Sam Alexander
+- "[Activism Goes Away After Graduation][activism]" by Sam Alexander.
+  Ōe Kenzaburō has also written a short story ("Human Sheep") that
+  explores this psychology of not wanting to "get justice" after a
+  traumatic event.
+
+    [activism]: https://web.archive.org/web/20100223014628/http://www.xamuel.com/activism-goes-away-after-graduation/
+    <!--(https://archive.today/dgb0a)-->
 
 - in college: how *little* grades matter.
 radical experimentation,
@@ -758,11 +781,9 @@ opportunity cost of college.
 
 
 - Also see [Katja Grace's post][katja adv] on advice to "aspiring
-  undergraduates".
+  undergraduates".  In particular:
 
     [katja adv]: https://meteuphoric.wordpress.com/2011/04/19/advice-to-aspiring-undergraduates/
-
-    In particular:
 
     > In case you actually want to learn things, it is not clear whether
     > university will help or hinder this on average. There seems to be
@@ -814,9 +835,14 @@ opportunity cost of college.
         > hand, stroke your arm, run their fingers through your hair.
         > It’s a profound experience.  Often, clients cry.”
 
-some unresolved problems:
+- some unresolved problems:
 
-- getting paid to do work
-- romance...
+    - getting paid to do work
+    - romance...; I've been doing some work on this [on the CP
+      Wiki][rom], though it's not specifically about getting into
+      relationships, but more about gauging its importance as a cause,
+      and taking a look at possible future developments in this domain.
+
+        [rom]: http://causeprioritization.org/Romance
 
 - <https://www.psychologytoday.com/articles/200703/trashing-teens>
