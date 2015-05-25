@@ -675,6 +675,13 @@ his](https://www.quora.com/What-can-I-do-to-prevent-my-twenties-from-being-as-ba
 
 # Other ideas---expanding your imagination
 
+Alex K. Chen often talks about the important of [expanding your
+imagination of what's possible][expand].  Here I'll provide some of my
+thoughts on how best to do that, in particular by giving examples of
+things that have expanded my imagination.
+
+[expand]: https://www.quora.com/What-is-the-best-advice-you-can-give-to-someone-attending-their-first-year-at-a-university/answer/Alex-K-Chen
+
 - Mencious Moldbug/neoreactionaries
 
 - Cognito Mentoring in general
