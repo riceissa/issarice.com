@@ -440,7 +440,7 @@ life?", etc.  It says, roughly: do [the most good you can do](!w).
 
 Although effective altruists claim that effective altruism is [a
 question, not an ideology][ideo], if you pay enough attention, each
-subset of effective altruists clearly have their own agenda.  So you
+subset of effective altruists clearly has its own agenda.  So you
 can't necessarily trust EAs.  Read posts like "[A critique of effective
 altruism][ea crit]".
 
@@ -621,16 +621,17 @@ particularly good:
 
 # Academia
 
-Beware of "tunnel vision" into mathematics and physics (and other STEM
-fields too).  In particular, while knowing about the possibilities of
-academia is important, *going to graduate school shouldn't be one's
-default route (at all)*.  As [Holden Karnofsky of GiveWell says][holden
-interview], regarding academia, "\[p\]eople usually either completely
-ignore that possibility or they completely ignore every other
-possibility".  Also you always have to remeber quotes like "[I have
-known more people whose lives have been ruined by getting a Ph.D. in
-physics than by drugs][phys drugs]".  Remember that there also exist
-things like [100 Reasons NOT to Go to Graduate School][no grad].
+Beware of the "tunnel vision" of mathematics and physics (and other STEM
+fields too), in which people consider these fields to be their "calling"
+and won't look into anything else.  In particular, while knowing about
+the possibilities of academia is important, *going to graduate school
+should not be one's default path*.  As [Holden Karnofsky of GiveWell
+says][holden interview], regarding academia, "\[p\]eople usually either
+completely ignore that possibility or they completely ignore every other
+possibility".  Also you always have to remember [quotes like][phys
+drugs] "I have known more people whose lives have been ruined by getting
+a Ph.D. in physics than by drugs".  Remember that there also exist
+blogs like [100 Reasons NOT to Go to Graduate School][no grad].
 
 [holden interview]: https://80000hours.org/2013/04/interview-with-holden-karnofsky-co-founder-of-givewell/
 [phys drugs]: http://physics.wustl.edu/katz/scientist.html
