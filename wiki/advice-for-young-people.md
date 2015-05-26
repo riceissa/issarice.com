@@ -349,7 +349,8 @@ Wiki][cp dep].
 
 [cp dep]: http://causeprioritization.org/Depression
 
-See also pages like "[Existential depression in gifted individuals],
+See also pages like "[Existential depression in gifted individuals][ex
+dep],
 which has passages like:
 
 [ex dep]: http://www.davidsongifted.org/db/Articles_id_10269.aspx
