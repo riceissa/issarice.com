@@ -1,6 +1,6 @@
 ---
 title: PHYS 121
-#rss-description: 
+rss-description: rant about the course
 author: Issa Rice
 creation-date: 2015-05-27
 last-major-revision-date: 2015-05-27
@@ -36,18 +36,20 @@ in disbelief.  Indeed, a table that one of my tutorial TAs drew helped
 me understand the components of the course.
 
 - Lecture
-    - Prelecture on Smartphysics (video slides and questions)
+    - Prelecture on SmartPhysics (video slides and questions)
     - Lecture itself (mandatory attendance through clickers)
     - Homework (Webassign)
 - Tutorial
     - Pretutorial (15 minute questions)
-    - Tutorial (working through a workbook with peers at a table)
+    - Tutorial itself (working through a workbook with peers at a table)
     - Tutorial homework (working through the homework workbook, which is
       very similar to the tutorial workbook)
 - Lab
     - Prelab (questions on webassign)
     - Lab itself (working with a partner through the lab notebook)
     - Postlab (questions and manual data entry, calculations, etc.)
+- 3 midterms
+- Final
 
  The course has a shocking *nine* components.  Most
 courses have lecture, quiz section, and homework---three components.  I
@@ -104,7 +106,7 @@ The prospect of attending lecture at 8:30 in the morning just for a few
 clicker questions that may not even happen... was so discouraging that I
 began skipping several lectures toward the end of the course.
 
-The smartphysics: at first I thought I might evade the hefty fee by just
+The SmartPhysics: at first I thought I might evade the hefty fee by just
 doing every prelecture in the one month trial period, and get it out of
 the way. Unfortunatley, they don't even give you access to the
 prelecture until a few days before the corresponding lecture takes
@@ -117,3 +119,45 @@ Moreover people seem to take notes even for extremely basic things. Case
 in point: the first lecture was about reasoning with dimensional
 analysis (the rudiments of it, anyway), and the people around me were
 furiously writing down notes, as if they had never seen this stuff.
+
+One funny anecdote: after each midterm so far I've heard people saying
+stuff like "oh, this is the midterm I'm dropping for sure". Well, the
+first two midterms should be by far the easier two of the three... Good
+luck trying to drop the easier ones!
+
+It is extremely lamentable that some very interesting majors like
+applied math and astronomy require this introductory sequence.  I guess
+now I know which majors I *won't* be doing!
+
+The whole course is farcical... the time commitment required seems to be
+much greater than that of a typical introductory 5 credit course.
+
+By now it's so trite to complain about "weed out courses", but the
+complaints are nonetheless valid.  The professors honestly don't care
+whether you learn or not, nor do the students.  It's all about the race
+to get the good GPA so you get admitted to the competitive engineering
+majors ... or whatever.  At least in high school, the teachers *seemed*
+to care whether you learned or not.  Here the atmosphere is just ...
+one of forced amnesia: pass through, go through the motions, then
+forget.
+
+It's actually shocking how *monumetally the university could fail at
+designing a decent intro physiscs sequence*.  Keep in mind, this is a
+university with [40,000 students], and the physics department, though not
+top-tier, is nonetheless considered *decent*.  It's just sad to think
+about the literally hundreds of students suffering through this sequence
+*each quarter*.  I feel like I'm living in a nightmare universe written
+by Oe.
+
+[40,000 students]: https://www.quora.com/Does-University-of-Washington-actually-have-40-000-students-or-is-this-a-fabrication/answer/Andrew-J-Ho
+
+In fact, I think one of the reasons many students do so poorly in the
+course... it's just so easy to give up, to stop caring about the course,
+and let your grade deteriorate.  I say this because it is happening to
+myself: there is simply not enough intellectual reward to continue
+playing this farcical game of deadline after deadline.  Some of the
+physics in the course actually *is* new to me, and it *is* exciting to
+learn about, but this constant grinding simply breaks one down, making
+one apathetic even to the exciting topics of the course...  In a sense,
+this is probably what happened to others in the course, as well as,
+earlier on, in high school.
