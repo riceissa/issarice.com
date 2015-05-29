@@ -8,7 +8,7 @@ language: English
 status: notes
 license: CC BY
 tags: uw, english
-aliases: english-131-at-the-university-of-washington
+aliases: english-131-at-the-university-of-washington, engl 131
 ---
 
 This is my course review for English 131 (Composition: Exposition) at the University of Washington.
