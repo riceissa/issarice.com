@@ -21,7 +21,12 @@ My response to [this][QQ] Quora question.
 
 [QQ]: https://www.quora.com/Between-mid-June-and-late-September-what-is-the-best-time-to-visit-Tokyo
 
-There are several things you might want to consider. First of all is the
+There are several things you might want to consider, so it's probably
+best to make your own decision after thinking things through.  Note that
+I've mostly been to Japan during the summer (July/August) so I can't
+comment too much on June and September.
+
+First of all is the
 weather.  Tokyo, at least for me, gets intolerably hot during the summer.  If
 you're just visiting, then it's likely you'll be taking a lot of public
 transportation, which will involve walking to and from train stations,
