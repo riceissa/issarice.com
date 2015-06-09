@@ -40,6 +40,18 @@ extend the list I came up with).
     - talk about [Comment Press](http://futureofthebook.org/commentpress/)
     - Medium also has paragraph-level comments
 - Voting
+- Location of downvoted content. John_Maxwell_IV [writes][lw jm]:
+
+    > On reddit, if your submission is downvoted, it's downvoted in to
+    > obscurity. On Less Wrong, downvoted posts remain on the Discussion
+    > page, creating a sort of public humiliation for people who are
+    > downvoted.
+
+    [lw jm]: http://lesswrong.com/lw/mbd/lesswrong_effective_altruism_forum_and_slate_star/cghw
+
+    This is also true of a site like Quora, where heavily downvoted
+    answers are hidden.
+
 - User accounts
     - Anonymity/pseudonymity
 - Markup language
