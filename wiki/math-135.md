@@ -1,5 +1,5 @@
 ---
-title: Math 135
+title: MATH 135
 #description: 
 author: Issa Rice
 creation-date: 2015-03-29
