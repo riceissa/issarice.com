@@ -120,6 +120,8 @@ TAG_SYNONYMS = {
         ["ssc", "slate-star"],
     "University of Washington":
         ["uw", "uwashington", "university-of-washington"],
+    "University of Washington course review":
+        ["uw course", "uw course review"],
     "University of Washington honors program":
         ["uw-honors", "uw honors", "honors-program"],
 }
@@ -155,4 +157,5 @@ TAG_IMPLICATIONS = OrderedDict([
     ("Haskell", ["programming"]),
     ("depression", ["psychology"]),
     ("programming", ["computing"]),
+    ("University of Washington course review", ["University of Washington"]),
 ])
