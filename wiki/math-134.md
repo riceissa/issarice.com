@@ -1,5 +1,5 @@
 ---
-title: Math 134
+title: MATH 134
 description: Course review of math 134 at the University of Washington
 author: Issa Rice
 creation-date: 2014-12-09
