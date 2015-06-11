@@ -44,3 +44,27 @@ and *Calculus* by Salas, Hille, and Etgen (the same book we used in math
 134 and 135) for vector calculus.
 
 [ladw]: http://www.math.brown.edu/~treil/papers/LADW/LADW.html
+
+# Difficulty
+
+I thought the linear algebra part of the course was much more difficult
+than any part of the previous two quarters. In high school, we did some
+calculations involving matrices, but this was at a very basic level, so
+I didn't have too strong of a background in linear algebra[^calc].
+Moreover the abstract nature of linear algebra (at least, compared to
+calculus) made it difficult to "grok" many of the theorems that we
+covered in class.
+
+[^calc]: This is unlike in math 134 when I had already partially
+self-studied proof-based calculus, making the course relatively easier,
+and also unlike the vector calculus part of 136, where everything was
+very visual so it was easy to have good intution when working on
+problems.
+
+# Camaraderie
+
+I only went to two TA office hours this quarter (for the two midterm
+review sessions) and attended one group study session (right before the
+second midterm). Overall, I thought that while people in the class had
+gotten more used to each other, that there was perhaps less group work
+when working on assignments.
