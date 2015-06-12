@@ -61,11 +61,15 @@
 
 {% if page.status or page.belief %}
   <p>
-    {% if page.status %}<a href="./status-tags">Status</a>: {{ page.status }}{% endif %}
-    {% if page.status and page.belief %}|{% endif %}
-    {% if page.belief %}<a href="./belief-tags">Belief</a>: {{ page.belief }}{% endif %}
+    <em>
+      {% if page.status == "draft" %}This page is a draft, so the content on here might be incomplete or otherwise not up to the same level of quality as finished pages.{% endif %}
+      {% if page.belief %}
+        {% if page.belief == "log" %}
+          {% if page.status == "draft" %}Also n{% else %}N{% endif %}ote that this page was created to externalize some ideas; these ideas are in no way endorsed.
+        {% endif %}
+      {% endif %}
+    </em>
   </p>
-  <hr />
 {% endif %}
 
 {{ body }}
