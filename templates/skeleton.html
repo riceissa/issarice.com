@@ -62,12 +62,8 @@
 {% if page.status or page.belief %}
   <p>
     <em>
-      {% if page.status == "draft" %}This page is a draft, so the content on here might be incomplete, unpolished, incorrect, or otherwise not up to the same level of quality as finished pages.{% endif %}
-      {% if page.belief %}
-        {% if page.belief == "log" %}
-          {% if page.status == "draft" %}Also n{% else %}N{% endif %}ote that this page was created to externalize some ideas; these ideas are in no way endorsed.
-        {% endif %}
-      {% endif %}
+      {% if page.status %}Status: {{ page.status }}{% endif -%}
+      {% if page.belief %}{%- if page.status -%}; b{% else %}B{% endif %}elief: {{ page.belief }}{% endif %}
     </em>
   </p>
 {% endif %}
