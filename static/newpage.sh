@@ -33,12 +33,10 @@ else
     echo "creation-date: `date +'%Y-%m-%d'`" >> $pagepath
     echo "last-major-revision-date: `date +'%Y-%m-%d'`" >> $pagepath
     echo "language: English" >> $pagepath
-    echo '# accepts "notes", "draft", "in progress", or "mostly finished"' >> $pagepath
-    echo "status: notes" >> $pagepath
-    echo '# accepts "certain", "highly likely", "likely", "possible", "unlikely",' >> $pagepath
-    echo '# "highly unlikely", "remote", "impossible", "log", "emotional", or' >> $pagepath
-    echo '# "fiction"' >> $pagepath
-    echo "belief: possible" >> $pagepath
+    echo '# accepts "draft" or "finished"' >> $pagepath
+    echo "status: draft" >> $pagepath
+    echo '# accepts "log"' >> $pagepath
+    echo "#belief: log" >> $pagepath
     echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
     echo "license: CC-BY" >> $pagepath
     if [ "$isStatusUpdate" = true ]; then
