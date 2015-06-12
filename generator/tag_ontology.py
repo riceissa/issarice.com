@@ -115,7 +115,7 @@ TAG_SYNONYMS = {
     "set theory":
         ["set-theory"],
     "site info":
-        [],
+        ["site"],
     "Slate Star Codex":
         ["ssc", "slate-star"],
     "University of Washington":
