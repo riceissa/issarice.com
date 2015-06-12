@@ -68,3 +68,5 @@ review sessions) and attended one group study session (right before the
 second midterm). Overall, I thought that while people in the class had
 gotten more used to each other, that there was perhaps less group work
 when working on assignments.
+
+After the last final the class got together to have lunch at the HUB.

@@ -13,7 +13,7 @@ status: notes
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: uw, physics, school
+tags: uw course, physics, school, spring 2015
 aliases: physics 121
 ---
 
