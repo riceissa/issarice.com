@@ -203,6 +203,10 @@ def process_metadata(metadata, **kwargs):
         metadata["aliases"] = []
     if "author" not in metadata:
         metadata["author"] = []
+    if "belief" in metadata:
+        if metadata["belief"] in ["possible", "unlikely",
+            "very unlikely", "remote", "impossible", "emotional"]:
+            metadata["belief"] = "log"
     if "rss-description" not in metadata:
         metadata["rss-description"] = ""
     if "language" not in metadata:
@@ -227,6 +231,13 @@ def process_metadata(metadata, **kwargs):
     # Change possible bool to str
     metadata["math"] = str(metadata['math']) if "math" in metadata\
         else "False"
+    if "status" in metadata:
+        status = metadata["status"]
+        if status in ["notes", "draft", "in progress"]:
+            status = "draft"
+        else:
+            status = "finished"
+        metadata["status"] = status
     tags = ["untagged"]
     if "tags" in metadata:
         tag_list = TagList(parse_as_list(metadata['tags']))
