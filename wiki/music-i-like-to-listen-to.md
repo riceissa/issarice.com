@@ -31,3 +31,4 @@ It might just be that my collection is so small I get bored of it quickly, but c
 Some others:
 
 - "Dream A Little Dream of Me"---Ella Fitzgerald, Doris Day
+- Taylor Swift---"Blank Space", "22", "Back to December"
