@@ -62,8 +62,8 @@
 {% if page.status or page.belief %}
   <p>
     <em>
-      {% if page.status %}Status: {{ page.status }}{% endif -%}
-      {% if page.belief %}{%- if page.status -%}; b{% else %}B{% endif %}elief: {{ page.belief }}{% endif %}
+      {% if page.status %}<a href="./status">Status</a>: {{ page.status }}{% endif -%}
+      {% if page.belief %}{%- if page.status -%}; <a href="./belief">b{% else %}<a href="belief">B{% endif %}elief</a>: {{ page.belief }}{% endif %}
     </em>
   </p>
 {% endif %}
