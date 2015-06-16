@@ -46,3 +46,5 @@ For instance [Anne Ruggles Gere writes](https://books.google.com/books?id=4NPCUm
 > [W]hen participants in writing groups read "finished" writing, the
 > language of the group often became acerbic or vacuous because members
 > felt (perhaps unconsciously) that they had no purpose.
+
+"This page is a draft, so the content on here might be incomplete, unpolished, incorrect, or otherwise not up to the same level of quality as finished pages. Also note that this page was created to externalize some ideas; these ideas are in no way endorsed."
