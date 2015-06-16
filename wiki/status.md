@@ -12,7 +12,7 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: site-info
-aliases: status-tag
+aliases: status-tag, status tags
 ---
 
 I am taking the idea of status tags [from gwern](http://www.gwern.net/About#belief-tags).
