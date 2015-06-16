@@ -84,5 +84,5 @@ about this topic, and haven't really spent much effort working on this
 page, so even though I think it's worth making public, you shouldn't
 take this page very seriously, nor should you think that I believe the
 things I'm writing"---but don't want to keep repeating that all the time
-(so I just tag these pages with "Status: notes | belief: possible" or
+(so I just tag these pages with "*Status: notes; belief: possible*" or
 something).
