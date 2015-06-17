@@ -15,36 +15,68 @@ tags: contact, general, about
 aliases: connect
 ---
 
-Below are some ways to contact me (Issa Rice), as well as the account names I use on various websites.
-Feel free to connect with me through any of the means below.
-I am most responsive via email and Facebook (I may not check other sites very often).
-You can also stalk me online (e.g. by following me on Quora or Facebook, or by reading what I have on this website).
-I also don't mind if you ask questions about me on Quora, though recently Quora has gotten stricter about what sorts of personal questions are allowed[^bnbr].
+Below are some ways to contact me (Issa Rice), as well as the account
+names[^aname] I use on various websites.  Feel free to connect with me
+through any of the means below.  I am most responsive via email and
+Facebook (I may not check other sites very often).  You can also stalk
+me online (e.g. by following me on Quora or Facebook, or by reading what
+I have on this website).  I also don't mind if you ask questions about
+me on Quora, though recently Quora has gotten stricter about what sorts
+of personal questions are allowed[^bnbr].
 
-[^bnbr]: In general, you should be fine as long as you follow Quora's “[Be Nice, Be Respectful](https://www.quora.com/What-is-Quoras-Be-Nice-Be-Respectful-policy)” policy; it matters less whether the person about whom the question is asked is fine with it.
+[^aname]: I usually use "riceissa" on most sites. This is somewhat of a
+historical accident: when I tried signing up for my Gmail address,
+"issarice" was already taken, so I picked "riceissa" instead. Since
+then, I've sort of standardized on "riceissa" for most services.
+
+[^bnbr]: In general, you should be fine as long as you follow Quora's
+“[Be Nice, Be Respectful][bnbr]” policy; it matters less whether the
+person about whom the question is asked is fine with it.
+
+[bnbr]: https://www.quora.com/What-is-Quoras-Be-Nice-Be-Respectful-policy
 
 # General
 
-- My email address is [riceissa@gmail.com](mailto:riceissa@gmail.com).
+- My email address is [riceissa@gmail.com].
 - [My PGP public key][pgp]
-- You can also send me anonymous feedback using [this form](https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form) (idea from [lukeprog](http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/) and [Gwern](http://www.gwern.net/About#anonymous-feedback)).
-- I have an [identification photo](./identification-photo.jpg) in case you'd like to know what I look like.
+- You can also send me anonymous feedback using [this form][feedback]
+  (idea from [lukeprog] and [Gwern]).
+- I have an [identification photo] in case you'd like to know what I
+  look like.
 
+[email]: mailto:riceissa@gmail.com
 [pgp]: http://files.issarice.com/issarice-pubkey.asc
+[feedback]: https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form
+[g feedb]: http://www.gwern.net/About#anonymous-feedback
+[l feedb]: http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/
+[photo]: ./identification-photo.jpg
+
 
 # Social
 
-- My [Facebook]() profile is [here](https://www.facebook.com/riceissa).
-I check Facebook regularly throughout the day.
-I generally accept all friend requests that don’t appear to be spam; having at least one mutual friend or messaging me simultaneously with your friend request will let me know that your profile is genuine.
-- I check [Quora](https://quora.com) a few times a day now.
-My Quora profile is [here](https://www.quora.com/Issa-Rice).
-- My [LinkedIn](https://www.linkedin.com/) profile is [here](https://www.linkedin.com/profile/view?id=352995114).
-I don’t use LinkedIn very much, but feel free to connect with me.
-- I have an [OkCupid](http://www.okcupid.com/) profile [here](http://www.okcupid.com/profile/riceissa) that has fairly extensive information about me (though a lot of it is identical to my [self-description](about-me#self-introduction)).
-Feel free to connect with me as friends or romantically (or both).
-- I am [riceissa](https://twitter.com/riceissa) on [Twitter](https://twitter.com/).
-I don’t use Twitter very often, and when I do it’s mostly to read what others have tweeted.
+- My [Facebook]() profile is [here][fbp].  I check Facebook regularly
+  throughout the day.  I generally accept all friend requests that don’t
+  appear to be spam; having at least one mutual friend or messaging me
+  simultaneously with your friend request will let me know that your
+  profile is genuine.
+- I check [Quora]() a few times a day now.  My Quora profile is
+  [here][qp].
+- My [LinkedIn](https://www.linkedin.com/) profile is [here][lp].  I
+  don’t use LinkedIn very much, but feel free to connect with me.
+- I have an [OkCupid](http://www.okcupid.com/) profile [here][okcp] that
+  has fairly extensive information about me (though a lot of it is
+  identical to my [self-description]).  Feel free to connect with me as
+  friends or romantically (or both).
+- I am [riceissa][tp] on [Twitter](https://twitter.com/).  I don’t use
+  Twitter very often, and when I do it’s mostly to read what others have
+  tweeted.
+
+[fbp]: https://www.facebook.com/riceissa
+[qp]: https://www.quora.com/Issa-Rice
+[lp]: https://www.linkedin.com/in/issarice
+[okcp]: http://www.okcupid.com/profile/riceissa
+[tp]: https://twitter.com/riceissa
+[self-description]: about-me#self-introduction
 
 # Rationality/Effective Altruism community
 
