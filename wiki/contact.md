@@ -25,7 +25,7 @@ me on Quora, though recently Quora has gotten stricter about what sorts
 of personal questions are allowed[^bnbr].
 
 [^aname]: I usually use "riceissa" on most sites. This is somewhat of a
-historical accident: when I tried signing up for my Gmail address,
+historical accident: when I tried signing up for my Gmail account,
 "issarice" was already taken, so I picked "riceissa" instead. Since
 then, I've sort of standardized on "riceissa" for most services.
 
