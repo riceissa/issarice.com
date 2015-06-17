@@ -37,11 +37,11 @@ person about whom the question is asked is fine with it.
 
 # General
 
-- My email address is [riceissa@gmail.com].
+- My email address is [riceissa@gmail.com][email].
 - [My PGP public key][pgp]
 - You can also send me anonymous feedback using [this form][feedback]
-  (idea from [lukeprog] and [Gwern]).
-- I have an [identification photo] in case you'd like to know what I
+  (idea from [lukeprog][l feedb] and [Gwern][g feedb]).
+- I have an [identification photo][photo] in case you'd like to know what I
   look like.
 
 [email]: mailto:riceissa@gmail.com
