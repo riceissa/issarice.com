@@ -161,3 +161,5 @@ learn about, but this constant grinding simply breaks one down, making
 one apathetic even to the exciting topics of the course...  In a sense,
 this is probably what happened to others in the course, as well as,
 earlier on, in high school.
+
+I really agree with all that's said in this thread: <https://www.reddit.com/r/udub/comments/3aaibi/lets_talk_about_phys_12x_discussion_of_teaching/>
