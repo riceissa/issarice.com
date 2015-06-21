@@ -29,9 +29,35 @@ Therefore using the belief tag to denote how strongly one believes the content o
 I have taken it from gwern, who in turn took it from Muflax.
 Since gwern's website is CC0 (public domain), I will just quote his whole [section on belief tags](http://www.gwern.net/About#belief-tags):
 
-> Most of the metadata in each page is self-explanatory: the date is the last time the file was modified, the tags are categorization, etc. The "status" tag describes the state of completion: whether it's a pile of links & snippets & "notes", or whether it is a "draft" which at least has some structure and conveys a coherent thesis, or it's a well-developed draft which could be described as "in progress", and finally when a page is done - in lieu of additional material turning up - it is simply "finished".
-> 
-> The "belief" tag is a little more unusual. I stole the idea from [Muflax's "epistemic state"](http://webcitation.org/6DuYcqyQ3 "'I wanted a way to show whether I still believe something I have written or not, and if so, how strongly.' (original: http://muflax.com/episteme/)") tags; I use the same meaning for "log" for collections of data or links ("log entries that simply describe what happened without any judgment or reflection") personal or reflective writing can be tagged "emotional" ("some cluster of ideas that got itself entangled with a complex emotional state, and I needed to externalize it to even look at it; in no way endorsed, but occasionally necessary (similar to fiction)"), and "fiction" needs no explanation (every author has *some* reason for writing the story or poem they do, but not even they always know whether it is an expression of their deepest fears, desires, history, or simply random thoughts). I drop his other tags in favor of giving my subjective probability using the ["Kesselman List of Estimative Words"](https://web.archive.org/web/20140130132740/http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf "'Verbal probability expressions in National Intelligence Estimates: a comprehensive analysis of trends from the fifties through post 9/11', Kesselman 2008"):
+> Most of the metadata in each page is self-explanatory: the date is the
+> last time the file was modified, the tags are categorization, etc. The
+> "status" tag describes the state of completion: whether it's a pile of
+> links & snippets & "notes", or whether it is a "draft" which at least
+> has some structure and conveys a coherent thesis, or it's a
+> well-developed draft which could be described as "in progress", and
+> finally when a page is done - in lieu of additional material turning
+> up - it is simply "finished".
+>
+> The "belief" tag is a little more unusual. I stole the idea from
+> [Muflax's "epistemic state"](http://webcitation.org/6DuYcqyQ3 "'I
+> wanted a way to show whether I still believe something I have written
+> or not, and if so, how strongly.' (original:
+> http://muflax.com/episteme/)") tags; I use the same meaning for "log"
+> for collections of data or links ("log entries that simply describe
+> what happened without any judgment or reflection") personal or
+> reflective writing can be tagged "emotional" ("some cluster of ideas
+> that got itself entangled with a complex emotional state, and I needed
+> to externalize it to even look at it; in no way endorsed, but
+> occasionally necessary (similar to fiction)"), and "fiction" needs no
+> explanation (every author has *some* reason for writing the story or
+> poem they do, but not even they always know whether it is an
+> expression of their deepest fears, desires, history, or simply random
+> thoughts). I drop his other tags in favor of giving my subjective
+> probability using the ["Kesselman List of Estimative
+> Words"](https://web.archive.org/web/20140130132740/http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf
+> "'Verbal probability expressions in National Intelligence Estimates: a
+> comprehensive analysis of trends from the fifties through post 9/11',
+> Kesselman 2008"):
 > 
 > 1. "certain"
 > 2. "highly likely"
@@ -42,7 +68,11 @@ Since gwern's website is CC0 (public domain), I will just quote his whole [secti
 > 7. "remote"
 > 8. "impossible"
 > 
-> These are used to express my feeling about how well-supported the essay is, or how likely it is the overall ideas are right. (Of course, an interesting idea may be worth writing about even if very wrong, and even a long shot may be profitable to examine if the potential payoff is large enough.)
+> These are used to express my feeling about how well-supported the
+> essay is, or how likely it is the overall ideas are right. (Of course,
+> an interesting idea may be worth writing about even if very wrong, and
+> even a long shot may be profitable to examine if the potential payoff
+> is large enough.)
 
 # Frequency
 
