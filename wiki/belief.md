@@ -1,5 +1,5 @@
 ---
-title: Belief tags
+title: Belief
 description: 
 author: Issa Rice
 creation-date: 2014-12-22
@@ -11,6 +11,13 @@ license: CC BY
 tags: site-info
 aliases: belief-tag, belief tags
 ---
+
+This page is about the belief notices that are displayed at the top of
+pages of this site.  The **belief** or **epistemic status** of a page
+efficiently communicates to the reader my confidence in the veracity of
+the claims made on the page.
+
+Together with the [status]() notice on a page, the belief notice serves 
 
 As [Muflax says](http://webcitation.org/6DuYcqyQ3):
 
