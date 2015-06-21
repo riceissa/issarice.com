@@ -1,5 +1,5 @@
 ---
-title: Status tags
+title: Status
 description: none
 author: Issa Rice
 creation-date: 2014-12-22
@@ -14,6 +14,10 @@ license: CC-BY
 tags: site-info
 aliases: status-tag, status tags
 ---
+
+This page is about the status notices that are displayed at the top of
+pages of this site.  The **status** efficiently communicates to the
+reader at what stage of development a particular page is.
 
 I am taking the idea of status tags [from gwern](http://www.gwern.net/About#belief-tags).
 Here is his original explanation, though my use (explained below) differs slightly.

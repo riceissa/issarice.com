@@ -14,10 +14,35 @@ aliases: belief-tag, belief tags
 
 This page is about the belief notices that are displayed at the top of
 pages of this site.  The **belief** or **epistemic status** of a page
-efficiently communicates to the reader my confidence in the veracity of
-the claims made on the page.
+efficiently communicates to the reader my overall confidence in the
+veracity of the claims made on the page.
+
+The "standard" scale of belief that I use is as follows:
+
+- certain
+- highly likely
+- likely
+- possible
+- unlikely
+- highly unlikely
+- remote
+- impossible
+
+(I think these are self-explanatory; see the [history](#history) section
+for the details.)
+
+In addition to the above possibilities, I also use the following:
+
+- fiction: for fictional work, which may include work that ironically
+  resembles non-fictional work
+- unknown: for things I haven't thought about deeply?
+- emotional: ?
+- \[not displayed\]: for pages where the notion of "belief" does not make
+  sense (e.g. the front page of this site)
 
 Together with the [status]() notice on a page, the belief notice serves 
+
+# History
 
 As [Muflax says](http://webcitation.org/6DuYcqyQ3):
 
@@ -54,11 +79,10 @@ Since gwern's website is CC0 (public domain), I will just quote his whole [secti
 > expression of their deepest fears, desires, history, or simply random
 > thoughts). I drop his other tags in favor of giving my subjective
 > probability using the ["Kesselman List of Estimative
-> Words"](https://web.archive.org/web/20140130132740/http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf
-> "'Verbal probability expressions in National Intelligence Estimates: a
-> comprehensive analysis of trends from the fifties through post 9/11',
-> Kesselman 2008"):
-> 
+> Words"][kesselman]:
+>
+> [kesselman]: https://web.archive.org/web/20140130132740/http://www.scip.org/files/Resources/Kesselman-Verbal-Probability-Expressions.pdf "'Verbal probability expressions in National Intelligence Estimates: a comprehensive analysis of trends from the fifties through post 9/11', Kesselman 2008"
+>
 > 1. "certain"
 > 2. "highly likely"
 > 3. "likely"
