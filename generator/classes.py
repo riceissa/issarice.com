@@ -303,7 +303,7 @@ class Page(object):
             )
         )
 
-    def compiled(self, tags_dir):
+    def compiled(self, tags_dir, commit_ps=""):
         '''
         Compile page all the way and return the string of the output.
         '''
@@ -315,6 +315,7 @@ class Page(object):
             skeleton = env.get_template('templates/ja/skeleton.html')
         else:
             skeleton = env.get_template('templates/skeleton.html')
+        self.metadata["commit_ps"] = commit_ps
         final = skeleton.render(
             body = self.pandoc_compiled(),
             # In templates, we use page.field to access metadata fields

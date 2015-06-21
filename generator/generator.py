@@ -87,7 +87,7 @@ def create_pages(list_page):
     for page in list_page:
         print("Processing " + str(page.origin))
         write_to = page.origin.route_with(my_route).path
-        final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
+        final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY, commit_ps=args.commit_ps)
         yield Page(data=final, destination=write_to)
 
 def create_single_page(filepath):
@@ -98,7 +98,7 @@ def create_single_page(filepath):
     print("Processing " + str(page.origin))
     page.destination = page.origin.route_with(my_route).path
     page.load_metadata()
-    page.data = page.compiled(tags_dir=SITE_TAGS_DIRECTORY)
+    page.data = page.compiled(tags_dir=SITE_TAGS_DIRECTORY, commit_ps=args.commit_ps)
     return page
 
 def create_tag_pages(list_page, list_tag):
@@ -231,15 +231,15 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser(
         description='generate a site or just a few files')
-    parser.add_argument(
-        "--files",
-        "--file",
-        "-f",
-        nargs = '+',
-        metavar = 'FILE',
-        help = 'the locations of files to compile; accepts patterns'
+    parser.add_argument("--files", "--file", "-f", nargs='+',
+        metavar='FILE',
+        help='the locations of files to compile; accepts patterns'
     )
+    parser.add_argument("--commit_ps", action="store_true",
+        help="commit page source; use the current commit's page source link instead of linking to the latest one")
     args = parser.parse_args()
+    if args.commit_ps:
+        args.commit_ps = run_command("git rev-parse --verify HEAD").strip()
     if args.files is not None:
         for p in args.files:
             create_single_page(p).write()

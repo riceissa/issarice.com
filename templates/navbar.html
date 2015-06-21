@@ -16,7 +16,7 @@
     | <a href="{{ path }}commenting-on-this-site">Comment</a>
     | View <a href="https://github.com/riceissa/issarice.com">website source</a>
     {% if source %}
-      or <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/{{ source }}">page source</a>
+      or <a href="https://raw.githubusercontent.com/riceissa/issarice.com/{% if page.commit_ps %}{{ page.commit_ps }}{% else %}master{% endif %}/{{ source }}">page source</a>
     {% endif %}
     (<a href="{{ path }}information-regarding-website-source-and-page-source">note</a>)
     {% if source %}
