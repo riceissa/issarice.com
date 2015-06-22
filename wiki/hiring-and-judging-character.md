@@ -29,3 +29,20 @@ tags: untagged
   someone who is an *extremely* good fit, and someone who is a terrible
   fit.
 - <https://www.quora.com/How-do-you-distinguish-10X-software-engineers-from-the-rest>
+
+    - Yishan Wong:
+
+        > Look to referrals of referrals.  Look for the best person
+        > according to the best person according to the best person you
+        > know (yes, that's two levels).  If there is consensus among
+        > several of your best people, this is a fairly reliable
+        > indicator.  It is difficult to go more than 3x per "link"
+        > though - people are typically unable to discern the difference
+        > between someone 9x as good as they are from someone who is 3x
+        > as good as they are; this is why you have to do the "best
+        > person you know" referral twice.  First, you hire all the best
+        > people you know, work with them for awhile to find the best
+        > amongst them, and then find all the best people *they* know. 
+        > It is a multiple-stage approach; many people don't know this,
+        > and just assume that "refer the best people you know" is the
+        > end of it.
