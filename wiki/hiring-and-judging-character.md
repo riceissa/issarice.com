@@ -28,3 +28,4 @@ tags: untagged
 - sometimes it can be *really hard* to tell the difference between
   someone who is an *extremely* good fit, and someone who is a terrible
   fit.
+- <https://www.quora.com/How-do-you-distinguish-10X-software-engineers-from-the-rest>
