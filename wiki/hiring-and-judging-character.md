@@ -46,3 +46,21 @@ tags: untagged
         > It is a multiple-stage approach; many people don't know this,
         > and just assume that "refer the best people you know" is the
         > end of it.
+
+        Similarly, stalking someone's friends might be useful if you
+        want to determine their character.
+
+- many more Quora questions about judging character (many by Alex):
+
+    - <https://www.quora.com/Judging-Character/How-do-you-evaluate-someones-ability-to-be-an-exceptional-judge-of-character>
+    - <https://www.quora.com/Is-Elon-Musk-an-exceptional-judge-of-character-talent>
+    - <https://www.quora.com/How-can-one-be-a-good-judge-of-character>
+    - <https://www.quora.com/How-do-you-judge-peoples-character>
+    - decent answer: <https://www.quora.com/How-can-you-become-a-good-judge-of-character/answer/Sridatta-Thatipamala>
+    - <https://www.quora.com/How-do-I-judge-the-character-of-a-lady-girl>
+
+        - observing ppl under stress might be important
+
+- one important question: does the person have the same life goals as me?
+
+- "Are you at peace with your past romantic partners? Do you feel at peace with their joys though the joys may be mutually shared no longer?" ([source](https://www.quora.com/What-single-question-would-you-ask-someone-if-you-were-trying-to-find-out-if-they-are-a-good-person/answer/Chantal-Murthy-1))
