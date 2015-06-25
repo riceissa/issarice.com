@@ -70,9 +70,11 @@ posts:
 
 - "[there are too many universities][too many]". this, of course, echoes
   what [gregory clark has been talking about][j u] on Japan Times.
-  anyway, since mojix also has found a few of bryan caplan's posts, im
+  anyway, since mojix also has found a few of bryan caplan's [^bc] posts, im
   inclined to think that they would even agree with caplan's "there's
   too much education" posts, as well as caplan's forthcoming book.
+
+    [^bc]: this is actually how i found mojix's site in the first place.
 
     [too many]: http://mojix.org/2012/07/07/daigaku-oosugi
     [j u]: http://www.japantimes.co.jp/opinion/2012/11/28/commentary/japans-university-education-crisis/
