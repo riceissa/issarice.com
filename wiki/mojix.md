@@ -6,9 +6,9 @@ creation-date: 2015-06-25
 last-major-revision-date: 2015-06-25
 language: English
 # accepts "draft" or "finished"
-status: draft
+status: notes
 # accepts "log"
-#belief: log
+belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: mojix, japan, education, content creation, music
