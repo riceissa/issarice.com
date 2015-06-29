@@ -116,6 +116,15 @@ for minor things like pointing out typos, I have an "edit page" link at
 the top of each page that will allow people with GitHub accounts to fork
 the site repo and submit a pull request.
 
+There is also the problem of security.  Since it's not possible to
+support native comments using purely static HTML, one must rely on
+something like PHP or Javascript.  PHP can be [unsafe to use][php sec],
+and relying on some external Javascript like Disqus means that it won't
+work for people with Javascript disabled and comments might suddenly
+disappear (if Disqus goes away).
+
+[php sec]: http://www.networkworld.com/article/2345518/data-center/firewall-pioneer-wanted-a--super-secure--blogging-service-----so-he-s-built-his-own.html
+
 ## Pros
 
 One idea in favor of having comments is so criticisms are out in the
