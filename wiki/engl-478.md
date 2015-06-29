@@ -7,11 +7,6 @@ last-major-revision-date: 2015-06-11
 language: English
 # accepts "draft" or "finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely",
-# "highly unlikely", "remote", "impossible", "log", "emotional", or
-# "fiction"
-# accepts "log"
-#belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: uw course, spring 2015
