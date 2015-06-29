@@ -67,3 +67,7 @@ For instance [Anne Ruggles Gere writes][arg] (quoted in "[Shutting Down Tolkien]
 > [W]hen participants in writing groups read "finished" writing, the
 > language of the group often became acerbic or vacuous because members
 > felt (perhaps unconsciously) that they had no purpose.
+
+# See also
+
+- [Belief] tags are also used on this site.
