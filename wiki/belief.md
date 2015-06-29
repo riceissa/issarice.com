@@ -1,21 +1,40 @@
 ---
 title: Belief
-description: 
+rss-description: add more of my own explanation
 author: Issa Rice
 creation-date: 2014-12-22
-last-major-revision-date: 2014-12-22
+last-major-revision-date: 2015-06-29
 language: English
-status: draft
-belief: possible
+status: in progress
+belief: likely
 license: CC BY
 tags: site-info
-aliases: belief-tag, belief tags
+aliases: belief-tag, belief tags, belief marker, belief markers
 ---
 
-This page is about the belief notices that are displayed at the top of
-pages of this site.  The **belief** or **epistemic status** of a page
-efficiently communicates to the reader my overall confidence in the
-veracity of the claims made on the page.
+This page is about the belief notices (or tags or markers) that are
+displayed at the top of pages of this site.  The **belief** or
+**epistemic status** of a page efficiently communicates to the reader my
+overall confidence in the veracity of the claims made on the page.
+
+In practice, belief notices are most useful when I want to publish
+something on here that I find interesting but I'm not especially confident
+about.  In other words, it's often a shorthand for something like, "I've
+only briefly thought about this topic, and haven't really spent much
+effort working on this page, so even though I think it's worth making
+public, you shouldn't take this page very seriously, nor should you
+assume that I believe the things I'm writing".
+
+More abstractly, publishing content on one's personal site is not just a statement (i.e. the content on the site), but also a *meta-statement*---that one believes in what is said strongly enough to publish them on one's site.
+I think this probably tends to 
+
+Of course, there is still a meta-statement even with belief tags; one
+can always attempt to pry into the psychology of the writer, e.g.
+speculating along the lines of "Well, the fact that they're willing to
+make this public---even while marking it as 'unlikely'---still shows
+that they're a heretic".  While I recognize that this might be a
+problem, I still think belief notices solve most of the initial problem
+without being much of a burden.
 
 The "standard" scale of belief that I use is as follows:
 
@@ -33,26 +52,35 @@ for the details.)
 
 In addition to the above possibilities, I also use the following:
 
-- fiction: for fictional work, which may include work that ironically
-  resembles non-fictional work
-- unknown: for things I haven't thought about deeply?
-- emotional: ?
-- \[not displayed\]: for pages where the notion of "belief" does not make
-  sense (e.g. the front page of this site)
+fiction
+:   For fictional work, which may include work that ironically resembles
+non-fictional work.
 
-Together with the [status]() notice on a page, the belief notice serves 
+emotional
+:   For rants and other writing that contain strong emotions.  Pages
+tagged with this are probably especially epsitemically unreliable.
+
+\[not displayed\]
+:   For pages where the notion of "belief" does not make sense (e.g. the
+front page of this site). This replaces gwern's and Muflax's "log" (see
+[history](#history)).
 
 # History
 
-As [Muflax says](http://webcitation.org/6DuYcqyQ3):
+I took the idea of belief tags from [gwern], who in turn got it from
+Muflax.
 
-> I didn’t want to throw away old texts just because I changed my mind, but I also couldn’t let them sit around without an annotation or someone might think I still endorsed them.
+[gwern]: http://www.gwern.net/
 
-In other words, publishing content on one's personal site is not just a statement, but also a meta-statement---that one believes in what is said strongly enough to publish them on one's site.
-However, often I like to publish things not because I feel especially confident about them, but just to externalize some ideas.
-Therefore using the belief tag to denote how strongly one believes the content on a page seems like a good idea.
-I have taken it from gwern, who in turn took it from Muflax.
-Since gwern's website is CC0 (public domain), I will just quote his whole [section on belief tags](http://www.gwern.net/About#belief-tags):
+[Muflax explains](http://webcitation.org/6DuYcqyQ3):
+
+> I didn’t want to throw away old texts just because I changed my mind,
+> but I also couldn’t let them sit around without an annotation or
+> someone might think I still endorsed them.
+
+Here is gwern's [section on belief tags][gw bt]:
+
+[gw bt]: http://www.gwern.net/About#belief-tags
 
 > Most of the metadata in each page is self-explanatory: the date is the
 > last time the file was modified, the tags are categorization, etc. The
@@ -91,7 +119,7 @@ Since gwern's website is CC0 (public domain), I will just quote his whole [secti
 > 6. "highly unlikely"
 > 7. "remote"
 > 8. "impossible"
-> 
+>
 > These are used to express my feeling about how well-supported the
 > essay is, or how likely it is the overall ideas are right. (Of course,
 > an interesting idea may be worth writing about even if very wrong, and
@@ -100,10 +128,19 @@ Since gwern's website is CC0 (public domain), I will just quote his whole [secti
 
 # Frequency
 
-But now, given these belief tags, one might ask what the frequency of each belief on a site such as this one should be.
-Having everything be "certain" to "likely" might be how a typical site or blog operates; i.e. the writer only publishes what they believe.
-But this sounds limiting---and this is exactly why belief tags are useful.
-But what of the other extreme?---In other words, what if one were to only write what one believed to be false?
-A successful such execution would display the writer's creativity, to be sure, but is unlikely to contain much useful information.
+But now, given these belief tags, one might ask what the frequency of
+each belief on a site such as this one should be.  Having everything be
+"certain" to "likely" might be how a typical site or blog operates; i.e.
+the writer only publishes what they believe.  But this sounds
+limiting---and this is exactly why belief tags are useful.  But what of
+the other extreme?---In other words, what if one were to only write what
+one believed to be false?  A successful such execution would display the
+writer's creativity, to be sure, but is unlikely to contain much useful
+information.
 
-One might also ask what the "natural frequency" of each belief might be, if a writer were to log *all* of their thoughts\ ...
+One might also ask what the "natural frequency" of each belief might be,
+if a writer were to log *all* of their thoughts\ ...
+
+# See also
+
+- I also use [status]() notices on this site.
