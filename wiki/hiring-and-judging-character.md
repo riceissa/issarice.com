@@ -65,4 +65,18 @@ tags: untagged
 
 - "Are you at peace with your past romantic partners? Do you feel at peace with their joys though the joys may be mutually shared no longer?" ([source](https://www.quora.com/What-single-question-would-you-ask-someone-if-you-were-trying-to-find-out-if-they-are-a-good-person/answer/Chantal-Murthy-1))
 
-- Yishan Wong: "the lesson here is that sometimes "10x people" are so good that they don't really look for jobs in the same way other people do, so you kind of have to find them via unorthodox means" ([source](https://www.quora.com/What-is-the-best-way-to-indicate-in-a-job-posting-that-youre-looking-for-10x-or-ninja-type-people/answer/Yishan-Wong))
+- Yishan Wong([source](https://www.quora.com/What-is-the-best-way-to-indicate-in-a-job-posting-that-youre-looking-for-10x-or-ninja-type-people/answer/Yishan-Wong)):
+
+    > the lesson here is that sometimes "10x people" are so good that
+    > they don't really look for jobs in the same way other people do,
+    > so you kind of have to find them via unorthodox means [...] [Y]ou
+    > often have to make your job posting indicate a bit of quirkiness
+    > in just the right way so that it happens to stick out to them when
+    > they're casual perusing job ads 
+    >
+    > [...]
+    >
+    > the main idea is to visualize the personality and character of the
+    > type of people you want to hire, and then put a message out
+    > publicly that only those types of people will respond to or
+    > provide a correct answer to.
