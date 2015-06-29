@@ -17,9 +17,3 @@ viewed using "website source".
 
 [website source]: https://github.com/riceissa/issarice.com
 [tags index]: _tags/index
-
-I push changes to GitHub more often than I deploy the site.
-Therefore, clicking on "website source" or "page source" at the top of a page may or may not reveal the actual source (markdown) file used to generate the HTML---it may instead give you a newer version.
-Of course, it's possible to hunt inside the git repository and look for the exact source file, but I figure this is unnecessary except in very exceptional cases.
-
-In the future, I might add the option of linking each deployment with the commit from which it is generated.
