@@ -28,17 +28,15 @@ assume that I believe the things I'm writing".
 More abstractly, publishing content on one's personal site is not just a
 statement (i.e. the content on the page), but also a
 *meta-statement*---that one believes in what is said strongly enough to
-publish them on one's site.  I think this probably tends to make people
+publish it on one's site.  I think this probably tends to make people
 more averse to publishing content that might come across as
-unconventional.
-
-Of course, there is still a meta-statement even with belief tags; one
-can always attempt to pry into the psychology of the writer, e.g.
-speculating along the lines of "Well, the fact that they're willing to
-make this public---even while marking it as 'unlikely'---still shows
-that they're a heretic".  While I recognize that this might be a
-problem, I still think belief notices solve most of the initial problem
-without being much of a burden.
+unconventional.  Of course, there is still a meta-statement even with
+belief tags; one can always attempt to pry into the psychology of the
+writer, e.g.  speculating along the lines of "Well, the fact that
+they're willing to make this public---even while marking it as
+'unlikely'---still shows that they're a heretic".  While I recognize
+that this might be a problem, I still think belief notices solve most of
+the initial problem without being much of a burden.
 
 The "standard" scale of belief that I use is as follows:
 
