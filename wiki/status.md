@@ -70,4 +70,4 @@ For instance [Anne Ruggles Gere writes][arg] (quoted in "[Shutting Down Tolkien]
 
 # See also
 
-- [Belief] tags are also used on this site.
+- [Belief]() tags are also used on this site.
