@@ -5,9 +5,7 @@ author: Issa Rice
 creation-date: 2015-06-25
 last-major-revision-date: 2015-06-25
 language: English
-# accepts "draft" or "finished"
 status: notes
-# accepts "log"
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
