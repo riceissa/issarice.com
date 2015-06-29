@@ -34,10 +34,13 @@ author: Issa Rice
 creation-date: `date +'%Y-%m-%d'`
 last-major-revision-date: `date +'%Y-%m-%d'`
 language: English
-# accepts "draft" or "finished"
-status: draft
-# accepts "log"
-#belief: log
+# Possible values are "notes", "draft", "in progress", and
+# "mostly finished"
+status: notes
+# Possible values are "certain", "highly likely", "likely", "possible",
+# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
+# "emotional"
+#belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 EOF
