@@ -120,14 +120,6 @@ h3, h4, h5, h6 {
     font-size: 110%;
 }
 
-// See http://code.stephenmorley.org/html-and-css/fixing-browsers-broken-monospace-font-handling/
-// In particular:
-// > Major web browsers automatically reduce the size of monospace text
-// > in a range of situations. They do this due to the greater width of
-// > many monospace typefaces in comparison to other fonts at the same
-// > text height. While well-intentioned, their handling of monospace
-// > fonts is fundamentally broken, and an unusual CSS rule is required to
-// > fix the problem.
 
 code {
     padding-left: 4px;
