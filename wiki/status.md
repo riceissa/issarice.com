@@ -1,18 +1,21 @@
 ---
 title: Status
-description: none
+rss-description: more polished version
 author: Issa Rice
 creation-date: 2014-12-22
 last-major-revision-date: 2015-06-29
 language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-status: draft
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
+# Possible values are "notes", "draft", "in progress", and
+# "mostly finished"
+status: in progress
+# Possible values are "certain", "highly likely", "likely", "possible",
+# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
+# "emotional"
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: site-info
-aliases: status-tag, status tags
+aliases: status-tag, status tags, status marker, status markers
 ---
 
 This page is about the status notices (or tags) that are displayed at
