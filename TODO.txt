@@ -42,6 +42,24 @@ NEW:
 
 - fix slugification method... (right now i think it fails for japanese characters, for example, as well as accented latin characters. also consider switching to wikipedia-style Cool URIs.)
 
+- add ability to have permalink to the current version of the compiled
+  HTML page. basically, each time i rsync deploy the site, i'll also
+  copy the site (in addition to the usual location) to some place like
+  issarice.com/_archive/<MDA5 SUM>. This way, i can put up a "permalink"
+  or "share" link at the top of the page.  then ppl can use that (if
+  they wish) to make a more "timeless" share. in other words, there are
+  TWO types of sharing: one is when you want to just share a resource
+  for ppl's intellectual deveoplement/benefit. the other is if you want
+  to share the particular "state" of the page; maybe there's some funny
+  mistake on it, or the current version states it perfectly, or
+  something. whatever it is, *change means losing something*, i.e.
+  losing the state. and since everything is in git (and in particular
+  every deployment is preceded by a full commit) so it's not like things
+  are lost forever (except, maybe, the exact commits that correspond to
+  the exact time intervals during which those commits represented
+  issarice.com...). but having an HTML copy is also useful for sharing
+  (i.e. no one wants to link to the markdown source).
+
 OLD:
 
 - figure out why LaTeX code blocks aren't highlighting
