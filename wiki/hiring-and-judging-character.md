@@ -11,7 +11,7 @@ status: notes
 #belief: log
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: judging, character, hiring, Yishan Wong, talent
 #aliases: 
 ---
 
