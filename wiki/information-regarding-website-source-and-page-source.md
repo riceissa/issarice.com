@@ -17,3 +17,7 @@ viewed using "website source".
 
 [website source]: https://github.com/riceissa/issarice.com
 [tags index]: _tags/index
+
+See my [colophon] for more information on how this site is built.
+
+[colophon]: about-the-site#colophon
