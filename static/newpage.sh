@@ -46,7 +46,7 @@ EOF
     else
         echo "tags: untagged" >> $pagepath
     fi
-cat <<EOF >> $pathpath
+    cat <<EOF >> $pagepath
 #aliases: 
 ---
 
