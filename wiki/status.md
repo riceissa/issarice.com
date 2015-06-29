@@ -11,7 +11,7 @@ status: in progress
 # Possible values are "certain", "highly likely", "likely", "possible",
 # "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
 # "emotional"
-belief: possible
+belief: likely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: site-info
