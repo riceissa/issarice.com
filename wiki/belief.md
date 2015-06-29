@@ -25,8 +25,12 @@ effort working on this page, so even though I think it's worth making
 public, you shouldn't take this page very seriously, nor should you
 assume that I believe the things I'm writing".
 
-More abstractly, publishing content on one's personal site is not just a statement (i.e. the content on the site), but also a *meta-statement*---that one believes in what is said strongly enough to publish them on one's site.
-I think this probably tends to 
+More abstractly, publishing content on one's personal site is not just a
+statement (i.e. the content on the page), but also a
+*meta-statement*---that one believes in what is said strongly enough to
+publish them on one's site.  I think this probably tends to make people
+more averse to publishing content that might come across as
+unconventional.
 
 Of course, there is still a meta-statement even with belief tags; one
 can always attempt to pry into the psychology of the writer, e.g.
@@ -58,7 +62,7 @@ non-fictional work.
 
 emotional
 :   For rants and other writing that contain strong emotions.  Pages
-tagged with this are probably especially epsitemically unreliable.
+tagged with this are probably especially epistemically unreliable.
 
 \[not displayed\]
 :   For pages where the notion of "belief" does not make sense (e.g. the
