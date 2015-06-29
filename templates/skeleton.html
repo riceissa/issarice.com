@@ -59,12 +59,30 @@
 <div id="content">
 <h1>{{ page.title }}</h1>
 
-{% if page.status or page.belief %}
+{% if page.status or page.belief or page["creation-date"] or page["last-major-revision-date"] %}
   <p>
-    <em>
-      {% if page.status %}<a href="./status">Status</a>: {{ page.status }}{% endif -%}
-      {% if page.belief %}{%- if page.status -%}; <a href="./belief">b{% else %}<a href="belief">B{% endif %}elief</a>: {{ page.belief }}{% endif %}
-    </em>
+    {% if page["creation-date"] or page["last-major-revision-date"] %}
+      <em>
+        {%- if page["creation-date"] -%}
+          Created: {{ page["creation-date"] }}
+        {%- endif -%}
+        {%- if page["last-major-revision-date"] and (page["last-major-revision-date"] != page["creation-date"]) -%}
+          {%- if page["creation-date"] -%}
+            ; l
+          {%- else -%}
+            L
+          {%- endif -%}
+          ast major update: {{ page["last-major-revision-date"] }}
+        {%- endif -%}
+      </em>
+      {% if page.status or page.belief %}<br />{% endif %}
+    {% endif %}
+    {% if page.status or page.belief %}
+      <em>
+        {% if page.status %}<a href="./status">Status</a>: {{ page.status }}{% endif -%}
+        {% if page.belief %}{%- if page.status -%}; <a href="./belief">b{% else %}<a href="belief">B{% endif %}elief</a>: {{ page.belief }}{% endif %}
+      </em>
+    {% endif %}
   </p>
 {% endif %}
 
