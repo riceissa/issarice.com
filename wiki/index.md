@@ -1,8 +1,9 @@
 ---
 title: Issa Rice
 author: Issa Rice
-creation-date: 2014-09-13
-last-major-revision-date: 2014-12-19
+# Do not show, since this is a "timeless" page
+#creation-date: 2014-09-13
+#last-major-revision-date: 2014-12-19
 license: CC0
 tags: general
 aliases: front page, main
