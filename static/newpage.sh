@@ -26,26 +26,34 @@ then
     gvim --remote-tab-silent $pagepath
 else
     echo "Creating $pagepath"
-    echo "---" >> $pagepath
-    echo "title: $title" >> $pagepath
-    echo "#rss-description: " >> $pagepath
-    echo "author: Issa Rice" >> $pagepath
-    echo "creation-date: `date +'%Y-%m-%d'`" >> $pagepath
-    echo "last-major-revision-date: `date +'%Y-%m-%d'`" >> $pagepath
-    echo "language: English" >> $pagepath
-    echo '# accepts "draft" or "finished"' >> $pagepath
-    echo "status: draft" >> $pagepath
-    echo '# accepts "log"' >> $pagepath
-    echo "#belief: log" >> $pagepath
-    echo '# accepts "CC0", "CC-BY", or "CC-BY-SA"' >> $pagepath
-    echo "license: CC-BY" >> $pagepath
+    cat <<EOF > $pagepath
+---
+title: $title
+#rss-description: 
+author: Issa Rice
+creation-date: `date +'%Y-%m-%d'`
+last-major-revision-date: `date +'%Y-%m-%d'`
+language: English
+# accepts "draft" or "finished"
+status: draft
+# accepts "log"
+#belief: log
+# accepts "CC0", "CC-BY", or "CC-BY-SA"
+license: CC-BY
+EOF
     if [ "$isStatusUpdate" = true ]; then
         echo "tags: status update" >> $pagepath
     else
         echo "tags: untagged" >> $pagepath
     fi
-    echo "#aliases: " >> $pagepath
-    echo -e "---\n\n" >> $pagepath
-    # open with vim on the last line new a new tab on an existing session (if possible)
+cat <<EOF >> $pathpath
+#aliases: 
+---
+
+
+EOF
+    # open with vim on the last line (if there is no existing session)
+    # or in a new tab on an existing session (if possible)
+    # Note that this requires GoToLastLine to be defined in .vimrc
     gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
 fi
