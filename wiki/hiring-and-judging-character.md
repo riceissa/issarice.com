@@ -5,10 +5,7 @@ author: Issa Rice
 creation-date: 2015-06-21
 last-major-revision-date: 2015-06-21
 language: English
-# accepts "draft" or "finished"
 status: notes
-# accepts "log"
-#belief: log
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: judging, character, hiring, Yishan Wong, talent
