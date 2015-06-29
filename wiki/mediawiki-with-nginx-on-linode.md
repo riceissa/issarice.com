@@ -5,10 +5,8 @@ author: Issa Rice
 creation-date: 2015-06-23
 last-major-revision-date: 2015-06-23
 language: English
-# accepts "draft" or "finished"
-status: draft
-# accepts "log"
-#belief: log
+status: notes
+belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: untagged
