@@ -331,7 +331,7 @@ Scott Alexander also has an older website called [Raikoth], which has
 the [The Consequentalism FAQ].
 
 [raikoth]: http://www.raikoth.net/
-[the consequentialism faq]: http://www.raikoth.net/consequentialism.html
+[The Consequentalism FAQ]: http://www.raikoth.net/consequentialism.html
 
 
 # Depression
