@@ -5,7 +5,7 @@ author: Issa Rice
 last-major-revision-date: 2015-05-02
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
-status: notes
+status: draft
 # accepts "certain", "highly likely", "likely", "possible", "unlikely",
 # "highly unlikely", "remote", "impossible", "log", "emotional", or
 # "fiction"
