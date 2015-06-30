@@ -496,6 +496,10 @@ is by producing great content.
 [earning to give]: http://reducing-suffering.org/advice-students-earning-give/
 [holden career]: http://www.givewell.org/altruistic-career-choice
 
+# Finding content online
+
+[my guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
+
 # Books
 
 Books are declining in relative importance because of the internet and
