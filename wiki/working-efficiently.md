@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Working efficiently
-comments: "yes"
-disqus-id: "1f602497e43af70377102e384c85815e542e2a9f"
+status: notes
 tags: self-improvement, work, lesswrong, links
 ---
 
