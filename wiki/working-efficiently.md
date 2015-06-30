@@ -2,6 +2,7 @@
 title: Working efficiently
 status: notes
 tags: self-improvement, work, lesswrong, links
+license: cc0
 ---
 
 - [Goal Setting and Goal Achievement](http://lesswrong.com/lw/iwn/goal_setting_and_goal_achievement/)
