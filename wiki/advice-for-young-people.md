@@ -498,7 +498,9 @@ is by producing great content.
 
 # Finding content online
 
-[my guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
+- [my guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
+- quora/lw/ea/ssc
+- More given in "Other ideas—expanding your imagination" section
 
 # Books
 
