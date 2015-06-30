@@ -116,7 +116,7 @@ def create_tag_pages(list_page, list_tag):
             slug(tag)).path
         metadata = {
             "title": "Tag: " + tag,
-            "license": "cc0",
+            "license": "CC0",
         }
         env = Environment(loader=FileSystemLoader('.'))
         page_list = env.get_template('templates/page-list.html')
@@ -139,7 +139,7 @@ def create_page_with_all_tags(list_tag):
     skeleton = env.get_template('templates/skeleton.html')
     metadata = {
         "title": "All tags",
-        "license": "cc0",
+        "license": "CC0",
     }
     final = skeleton.render(page=metadata, body=body, path="../")
     return Page(data=final,
@@ -163,7 +163,7 @@ def create_page_with_all_pages(list_page):
         "title": "All pages on the site",
         "css": Filepath(SITE_CSS_DIRECTORY +
             "minimal.css").relative_to(Filepath("all")).path,
-        "license": "cc0",
+        "license": "CC0",
     }
     final = skeleton.render(page=metadata, body=body, css=metadata["css"],
         path="./")
