@@ -334,6 +334,7 @@ class Page(object):
                 key = lambda t: t['name'].lower(),
             ),
             source = to_unicode(self.origin.path),
+            base=self.origin.route_with(set_extension("")).route_with(drop_one_parent_dir_route),
             path = "./",
         )
         return final
