@@ -11,7 +11,7 @@ just do:
 
 ```bash
 # cd to the repo directory
-python3 generator/generator.py
+python3 generator/generator.py --commit_ps
 ```
 
 [SASS]: http://sass-lang.com/
@@ -22,9 +22,9 @@ python3 generator/generator.py
 
 (If you get `Python.h: No such file or directory compilation terminated`
 when installing awesome-slugify, you might need to install `python-dev`
-or `python3-dev`; see [the relevant StackOverflow answer] for more.)
+or `python3-dev`; see [the relevant StackOverflow answer][so a] for more.)
 
-[the relevant StackOverflow answer]: http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory
+[so a]: http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory
 
 This will generate all resulting files under `_site`, which can
 eventually be served on the site with:
