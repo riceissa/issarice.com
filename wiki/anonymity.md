@@ -23,3 +23,4 @@ Some thoughts on anonymity... (for now)
 - that 4chan article
 - the other one on anon bbses
 - LONG TERM THINKING
+- also quite useful for some things, like [Belle de Jour](!w Belle_de_Jour_%28writer%29) and activists etc.
