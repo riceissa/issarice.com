@@ -46,15 +46,15 @@ def url_filter(key, value, format_, meta):
         [txt, [url, attr]] = value
         if url == "!w":
             url = "https://en.wikipedia.org/wiki/" + stringify(txt)
-            return Link(txt, [url, attr])
-        if url.startswith("!"):
+        elif url.startswith("!w%20"):
+            url = "https://en.wikipedia.org/wiki/" + url[len("!w%20"):]
+        elif url.startswith("!"):
             url = "http://duckduckgo.com/?q=" + url + " " + stringify(txt)
-            return Link(txt, [url, attr])
-        if url == '':
+        elif url == '':
             # So we want to internally link txt
             url = to_string(slugify_unicode(stringify(txt), to_lower=True))
             url = "./" + url
-            return Link(txt, [url, attr])
+        return Link(txt, [url, attr])
 
 if __name__ == '__main__':
     toJSONFilter(url_filter)
