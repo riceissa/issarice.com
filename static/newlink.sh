@@ -14,12 +14,13 @@ read url
 text=`wget -qO- "$url" | gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'`
 
 pagepath="${sitedir}/wiki/articles-read.md"
-datetime=`date +'%Y-%m-%d at %T'`
+datetime=`date +'%Y-%m-%d at %H:%H %p'`
 
 if [ -f $pagepath ];
 then
     echo "File $pagename exists.  Opening..."
     cat <<EOF >> $pagepath
+
 ---
 
 *$datetime*
