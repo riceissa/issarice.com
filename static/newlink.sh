@@ -14,12 +14,15 @@ read url
 text=`wget -qO- "$url" | gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'`
 
 pagepath="${sitedir}/wiki/articles-read.md"
+datetime=`date +'%Y-%m-%d at %T'`
 
 if [ -f $pagepath ];
 then
     echo "File $pagename exists.  Opening..."
     cat <<EOF >> $pagepath
 ---
+
+*$datetime*
 
 [$text]($url)
 
@@ -33,21 +36,17 @@ else
 title: Articles read
 #rss-description: 
 author: Issa Rice
-creation-date: `date +'%Y-%m-%d'`
-last-major-revision-date: `date +'%Y-%m-%d'`
+#creation-date: `date +'%Y-%m-%d'`
+#last-major-revision-date: `date +'%Y-%m-%d'`
 language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 #status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
-#belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: news, articles, links
 #aliases: 
 ---
+
+*$datetime*
 
 [$text]($url)
 
