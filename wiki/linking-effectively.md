@@ -6,11 +6,11 @@ creation-date: 2015-01-03
 last-major-revision-date: 2015-01-03
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
+status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
+belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
+license: CC0
 tags: writing, content creation
 aliases: hyperlink, hyperlinks, hyperlinking effectively, effective linking
 ---
