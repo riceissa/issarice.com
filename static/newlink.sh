@@ -18,7 +18,7 @@ datetime=`date +'%Y-%m-%d at %H:%H %p'`
 
 if [ -f $pagepath ];
 then
-    echo "File $pagename exists.  Opening..."
+    echo "Articles page exists.  Opening..."
     cat <<EOF >> $pagepath
 
 ---
