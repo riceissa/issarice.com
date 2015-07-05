@@ -30,10 +30,10 @@ then
 
 EOF
     )"
-    echo "$header"
+    #header=`echo $header | sed -r 's///'`
+    #echo "$header"
     # See http://stackoverflow.com/a/13316554
-    match='--- - - - <!-- Do not replicate this line anywhere else in the file. -->'
-    sed -i "s/$match/$match\n/$header" $pagepath
+    sed -i '3i'"$header" $pagepath
     gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
 else
     echo "Creating $pagepath"
