@@ -18,6 +18,25 @@ tags: news, articles, links
 #aliases: 
 ---
 
+*This page records a subset of the articles I've read online. Additions
+to this page are meant to be brief and particularly optimized for speed
+instead of quality of content. Since this page will be updated much
+more frequently than I deploy the site, if you intend to keep up with
+this page, it's likely better to do so directly through GitHub (rather
+than through this site). There is an [atom feed specific to this
+page](https://github.com/riceissa/issarice.com/commits/master/wiki/articles-read.md.atom)
+that can tell you when new additions are made (though unfortunately
+since it only shows the commit messages and doesn't include the changes,
+it's unhelpful on its own). GitHub also makes available the [current
+version of the
+file](https://github.com/riceissa/issarice.com/blob/master/wiki/articles-read.md);
+unfortunately even here there is a problem: the formatting of the page may be imperfect
+because GitHub does not use Pandoc markdown.*
+
+--- - - - <!-- Do not replicate this line anywhere else in the file. -->
+
+*2015-07-05*
+
 [web - How do I get a websites title using command line? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/103252/how-do-i-get-a-websites-title-using-command-line)
 
 so im going to start recording articles i've read using a script i wrote
