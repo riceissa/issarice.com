@@ -91,6 +91,8 @@ I suppose the latter will only contain information about how important it is to 
 
 - I'm trying to see if one can be started at the University of Washington; see [this Quora question](https://www.quora.com/Who-is-interested-in-an-effective-altruism-group-club-at-the-University-of-Washington) and [this](https://www.facebook.com/john.salvatier/posts/10103444497526248) (private) Facebook post.
 
+- [Post about Stanford EA](http://effective-altruism.com/ea/kh/stanford_ea_history_and_lessons_learned/) that has some helpful information.
+
 # Meta
 
 - [Supportive Scepticism](http://effective-altruism.com/ea/7x/supportive_scepticism/) discusses how to strike a balance between not caring about doing the most effective thing (and thus not being an "effective" altruist) and caring too much about doing the most effective thing (and thus getting stuck in "analysis paralysis").
