@@ -2,8 +2,8 @@
 title: Articles read
 #rss-description: 
 author: Issa Rice
-creation-date: 2015-07-05
-last-major-revision-date: 2015-07-05
+#creation-date: 2015-07-05
+#last-major-revision-date: 2015-07-05
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"
