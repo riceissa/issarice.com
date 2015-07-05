@@ -85,10 +85,6 @@ $cyan: #2aa198;
 $green: #859900;
 $smaller_text: 80%;
 
-body {
-    line-height: 150%;
-}
-
 div#content {
     width: 93%;
     max-width: 5.5in;
@@ -104,7 +100,6 @@ div#navigation {
 
 h1, h2, h3, h4, h5, h6 {
     text-align: left;
-    line-height: 120%;
 }
 
 h2 {
@@ -120,7 +115,6 @@ code {
 
 pre code {
     display: block;
-    line-height: 120%;
     overflow: auto;
     padding: 10px;
     max-height: 500px;
