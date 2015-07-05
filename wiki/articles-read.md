@@ -32,3 +32,10 @@ just in "consuming mode", so it's best to juts postprocess things: throw
 everything into this page as i go along, then come back later to
 organize (by removing htings from this page and putting it in other
 page). so this page will probably eternally be "notes".
+---
+
+*2015-07-05 at 12:22:18*
+
+[What has a higher chance of lasting into the 2030s-2040s: LessWrong or gwern.net? - Quora](https://www.quora.com/Less-Wrong/What-has-a-higher-chance-of-lasting-into-the-2030s-2040s-LessWrong-or-gwern-net)
+
+lol
