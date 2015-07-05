@@ -14,12 +14,12 @@ read url
 text=`wget -qO- "$url" | gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'`
 
 pagepath="${sitedir}/wiki/articles-read.md"
-datetime=`date +'%Y-%m-%d at %H:%H %p'`
+datetime=`date +'%Y-%m-%d at %H:%M %p'`
 
 if [ -f $pagepath ];
 then
     echo "Articles page exists.  Opening..."
-    cat <<EOF >> $pagepath
+    header="$(cat <<EOF
 
 ---
 
@@ -29,6 +29,11 @@ then
 
 
 EOF
+    )"
+    echo "$header"
+    # See http://stackoverflow.com/a/13316554
+    match='--- - - - <!-- Do not replicate this line anywhere else in the file. -->'
+    sed -i "s/$match/$match\n/$header" $pagepath
     gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
 else
     echo "Creating $pagepath"
