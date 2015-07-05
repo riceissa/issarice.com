@@ -14,7 +14,7 @@ status: notes
 #belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: internet, anonymity, content creation
 #aliases: 
 ---
 
@@ -24,3 +24,9 @@ Some thoughts on anonymity... (for now)
 - the other one on anon bbses
 - LONG TERM THINKING
 - also quite useful for some things, like [Belle de Jour](!w Belle_de_Jour_%28writer%29) and activists etc.
+- scanning <https://en.wikipedia.org/wiki/Anonymity>:
+    - benefits:
+        - candor
+        - minimizes persecution/humiliation
+    - drawbacks:
+        - promotes short-term thinking
