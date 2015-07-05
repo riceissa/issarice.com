@@ -15,8 +15,6 @@ tags: writing, content creation
 aliases: hyperlink, hyperlinks, hyperlinking effectively, effective linking
 ---
 
-# Hyperlinking effectiely
-
 Some places to look:
 
 - <http://www.catie.ca/sites/default/files/hyperlinking-04.pdf> (seems decent if basic)
@@ -29,6 +27,9 @@ Things to talk about:
 - include examples
 - linking in e.g. plaintext email, where *only* exposed links are possible
 - URL shorteners?
+    - using colon and parentheses effectively. remembering that some
+      software won't be able to tell if adjacent punctuation is part of
+      the link, so adding spaces that might look awkward accordingly
 - long exposed links appear poorly on mobile browsers
 - when to use linking style like (1, 2, 3) or (here, here, and here) or (more) (GiveWell does the third.)
 - internal vs external links
@@ -36,3 +37,26 @@ Things to talk about:
 - referrer masking
 - when to use footnotes, when to use links, when to use parentheses
 - From LW boring advice: "Never post a web link that requires a reader to click on it to find out if they want to click on it."
+- semantic web: links with meanings
+
+Links often emphasize text on a page. So consider the sentence “Stopping
+X shouldn’t be a high priority.” It would be natural to hyperlink this
+to something that argues this point like so: “Stopping X [shouldn’t be a
+high priority].” This gets the emphasis right. But now what if we wanted
+the following nuanced alternative?
+
+“I don’t think stopping X should be a high priority.” Then consider the
+straightforward hyperlink translation:
+
+“I don’t think stopping X [should be a high priority].” Ah, but now
+someone quickly scanning the article might now accidentally interpret
+that stopping X should be a high priority!! Instead we want something
+like:
+
+“I [don’t think stopping X should be a high priority].” Or:
+
+“I don’t think stopping X should be a [high priority].”
+
+A general rule is, you should always image how a page would look if you
+removed all the hyperlinks. So this means using words like “here” for
+linking should be discouraged.
