@@ -56,7 +56,7 @@ class Filepath(object):
                 raise AbsolutePathException(
                     "path is absolute; must be relative"
                 )
-            elif path[-1] in ["/"] or os.path.isdir(path):
+            elif path[-1] in ["/"]:
                 raise DirectoryException(
                     "path is a directory; must be a file"
                 )
