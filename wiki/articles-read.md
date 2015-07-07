@@ -36,7 +36,7 @@ because GitHub does not use Pandoc markdown.*
 
 <!--
     The line below *must* be the third line in this file containing
-    just "---".
+    just three hyphens.
 -->
 
 ---
