@@ -11,6 +11,7 @@ def main():
     open_editor = True
     if url.endswith(" -"):
         open_editor = False
+        url = url[:-2]
     log_if_v("Downloading page ...")
     page = run_command("wget -qO- {}".format(url))
     title = run_command("""gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'""", pipe_in=page).strip()
