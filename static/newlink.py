@@ -7,7 +7,9 @@ import shlex
 from slugify import slugify_unicode
 
 def main():
-    url = input("Enter URL for article: ").strip()
+    url = ""
+    while url.strip() == "":
+        url = input("Enter URL for article: ").strip()
     open_editor = True
     if url.endswith(" -"):
         open_editor = False
@@ -73,6 +75,8 @@ def make_entry(datetime, url, title, body):
 ---
 
 '''
+    if title.strip() == "":
+        title = "Unavailable"
     return (template.format(anchor=anchor, datetime=datetime, title=title,
         url=url, body=body))
 
