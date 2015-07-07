@@ -32,10 +32,10 @@ def main():
         print("Enter body text:")
         body = sys.stdin.read().strip() + "\n"
         with open("wiki/articles-read.md", "w") as w:
-            for line in original[:37]:
+            for line in original[:top_lines]:
                 w.write(line)
             w.write(make_entry(datetime, url, title, body))
-            for line in original[37:]:
+            for line in original[top_lines:]:
                 w.write(line)
         log_if_v("File written.")
 
