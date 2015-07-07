@@ -20,9 +20,13 @@ def main():
     title = run_command("""gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'""", pipe_in=page).strip()
     log_if_v("Page downloaded and title parsed as {}".format(title))
     datetime = run_command("date +'%Y-%m-%d at %I:%M %p'").strip()
+    footer = "---"
     if not os.path.isfile("wiki/articles-read.md"):
         with open("wiki/articles-read.md", "w") as w:
             w.write(original_ar_source)
+        # Since this will be the bottom entry, we don't want an extra
+        # <hr/>
+        footer = ""
     with open("wiki/articles-read.md", "r") as r:
         original = [line for line in r]
     top_lines = find_top_lines(original) + 1
@@ -32,7 +36,7 @@ def main():
         with open("wiki/articles-read.md", "w") as w:
             for line in original[:top_lines]:
                 w.write(line)
-            w.write(make_entry(datetime, url, title, ""))
+            w.write(make_entry(datetime, url, title, "", footer=footer))
             for line in original[top_lines:]:
                 w.write(line)
         subprocess.call(["vim", "+{}".format(top_lines+7), "wiki/articles-read.md"])
@@ -42,7 +46,7 @@ def main():
         with open("wiki/articles-read.md", "w") as w:
             for line in original[:top_lines]:
                 w.write(line)
-            w.write(make_entry(datetime, url, title, body))
+            w.write(make_entry(datetime, url, title, body, footer=footer))
             for line in original[top_lines:]:
                 w.write(line)
         log_if_v("File written.")
@@ -67,7 +71,7 @@ def find_top_lines(lst):
 def slug(s):
     return slugify_unicode(s, to_lower=True)
 
-def make_entry(datetime, url, title, body):
+def make_entry(datetime, url, title, body, footer="---"):
     anchor = slug(datetime)
     template = '''
 
@@ -77,13 +81,13 @@ def make_entry(datetime, url, title, body):
 
 {body}
 
----
+{footer}
 
 '''
     if title.strip() == "":
         title = "Unavailable"
     return (template.format(anchor=anchor, datetime=datetime, title=title,
-        url=url, body=body))
+        url=url, body=body, footer=footer))
 
 def log_if_v(text, log=True):
     if log:
