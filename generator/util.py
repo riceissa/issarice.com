@@ -58,7 +58,7 @@ def run_command(command, pipe_in=None):
     if stderr not in ["None", "", None, b'']:
         print("On the command")
         print("    {command}".format(command=command))
-        if pipe_in is not '':
+        if pipe_in not in ['', None]:
             print("with the input line(s) beginning with")
             for line in pipe_in.split("\n"):
                 l = min(75, len(line))
