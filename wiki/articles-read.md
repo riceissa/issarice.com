@@ -23,16 +23,16 @@ to this page are meant to be brief and particularly optimized for speed
 instead of quality of content. Since this page will be updated much more
 frequently than I deploy the site, if you intend to keep up with this
 page, it's likely better to do so directly through GitHub (rather than
-through this site). There is an [atom feed specific to this page][gh
-atom] that can tell you when new additions are made (though
+through this site). There is an [atom feed specific to this
+page][gh_atom] that can tell you when new additions are made (though
 unfortunately since it only shows the commit messages and doesn't
 include the changes, it's unhelpful on its own). GitHub also makes
-available the [current version of the file][gh curr]; unfortunately even
+available the [current version of the file][gh_curr]; unfortunately even
 here there is a problem: the formatting of the page may be imperfect
 because GitHub does not use Pandoc markdown.*
 
-[gh atom]: https://github.com/riceissa/issarice.com/commits/master/wiki/articles-read.md.atom
-[gh curr]: https://github.com/riceissa/issarice.com/blob/master/wiki/articles-read.md
+[gh_atom]: https://github.com/riceissa/issarice.com/commits/master/wiki/articles-read.md.atom
+[gh_curr]: https://github.com/riceissa/issarice.com/blob/master/wiki/articles-read.md
 
 <!--
     The line below *must* be the third line in this file containing
