@@ -9,29 +9,50 @@ def main():
     url = input("Enter URL for article: ").strip()
     open_editor = False
     if url.endswith(" -"):
-        open_editor = True
+        open_editor = False
+    log_if_v("Downloading page ...")
     page = run_command("wget -qO- {}".format(url))
     title = run_command("""gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'""", pipe_in=page).strip()
-    datetime = run_command("date +'%Y-%m-%d at %H:%M %p'").strip()
+    log_if_v("Page downloaded and title parsed as {}".format(title))
+    datetime = run_command("date +'%Y-%m-%d at %I:%M %p'").strip()
+    with open("wiki/articles-read.md", "r") as r:
+        original = [line for line in r]
+    log_if_v("Contents of wiki/articles-read.md read.")
     if open_editor:
-        pass
+        with open("wiki/articles-read.md", "w") as w:
+            for line in original[:37]:
+                w.write(line)
+            w.write(make_entry(datetime, url, title, ""))
+            for line in original[37:]:
+                w.write(line)
+        run_command("vim +42 wiki/articles-read.md")
     else:
         print("Enter body text:")
         body = sys.stdin.read().strip() + "\n"
-    print(make_entry(datetime, url, title, body))
+        with open("wiki/articles-read.md", "w") as w:
+            for line in original[:37]:
+                w.write(line)
+            w.write(make_entry(datetime, url, title, body))
+            for line in original[37:]:
+                w.write(line)
+        log_if_v("File written.")
 
 def make_entry(datetime, url, title, body):
     template = '''
----
-
 *{datetime}*
 
 [{title}]({url})
 
 {body}
+
+---
 '''
     return (template.format(datetime=datetime, title=title, url=url,
         body=body))
+
+def log_if_v(text, log=True):
+    if log:
+        print(text)
 
 def run_command(command, pipe_in=None):
     '''
