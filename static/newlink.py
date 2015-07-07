@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import os
+import os.path
 import sys
 import subprocess
 import shlex
@@ -19,14 +20,13 @@ def main():
     title = run_command("""gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'""", pipe_in=page).strip()
     log_if_v("Page downloaded and title parsed as {}".format(title))
     datetime = run_command("date +'%Y-%m-%d at %I:%M %p'").strip()
-    try:
-        with open("wiki/articles-read.md", "r") as r:
-            original = [line for line in r]
-    except FileNotFoundError:
+    if not os.path.isfile("wiki/articles-read.md"):
         with open("wiki/articles-read.md", "w") as w:
             w.write(original_ar_source)
-        original = [line for line in original_ar_source]
+    with open("wiki/articles-read.md", "r") as r:
+        original = [line for line in r]
     top_lines = find_top_lines(original) + 1
+    log_if_v(str(top_lines) + " lines later insert")
     log_if_v("Contents of wiki/articles-read.md read.")
     if open_editor:
         with open("wiki/articles-read.md", "w") as w:
