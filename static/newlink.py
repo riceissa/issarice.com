@@ -27,7 +27,7 @@ def main():
             w.write(make_entry(datetime, url, title, ""))
             for line in original[top_lines:]:
                 w.write(line)
-        subprocess.call(["vim", "+42", "wiki/articles-read.md"])
+        subprocess.call(["vim", "+{}".format(top_lines+6), "wiki/articles-read.md"])
     else:
         print("Enter body text:")
         body = sys.stdin.read().strip() + "\n"
@@ -63,7 +63,7 @@ def make_entry(datetime, url, title, body):
     anchor = slug(datetime)
     template = '''
 
-*<a href="{anchor}" id={anchor}>{datetime}</a>*
+*<a href="#{anchor}" id={anchor}>{datetime}</a>*
 
 [{title}]({url})
 
