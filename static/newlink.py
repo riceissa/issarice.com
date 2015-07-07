@@ -25,7 +25,7 @@ def main():
             w.write(make_entry(datetime, url, title, ""))
             for line in original[37:]:
                 w.write(line)
-        run_command("vim +42 wiki/articles-read.md")
+        subprocess.call(["vim", "+42", "wiki/articles-read.md"])
     else:
         print("Enter body text:")
         body = sys.stdin.read().strip() + "\n"
