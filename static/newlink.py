@@ -46,6 +46,7 @@ def make_entry(datetime, url, title, body):
 {body}
 
 ---
+
 '''
     return (template.format(datetime=datetime, title=title, url=url,
         body=body))
