@@ -7,7 +7,7 @@ import shlex
 
 def main():
     url = input("Enter URL for article: ").strip()
-    open_editor = False
+    open_editor = True
     if url.endswith(" -"):
         open_editor = False
     log_if_v("Downloading page ...")
