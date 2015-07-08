@@ -43,14 +43,14 @@ def clean():
     print("Removing {d}".format(d=SITE_DIRECTORY))
     run_command("rm -rf {d}".format(d=SITE_DIRECTORY))
 
-def compile_scss():
+def compile_scss(stylesheet_basename):
     if not os.path.exists(SITE_DIRECTORY + SITE_CSS_DIRECTORY):
         os.makedirs(SITE_DIRECTORY + SITE_CSS_DIRECTORY)
     command = "sass --style compressed " + PRE_CSS_DIRECTORY +\
-        "minimal.scss"
+        stylesheet_basename + ".scss"
     compiled = run_command(command)
-    with open(SITE_DIRECTORY + SITE_CSS_DIRECTORY + "minimal.css",
-        'w', encoding='utf-8') as f:
+    with open(SITE_DIRECTORY + SITE_CSS_DIRECTORY + stylesheet_basename +
+        ".css", "w", encoding="utf-8") as f:
         f.write(compiled)
 
 def copy_files(pattern, destination):
@@ -249,7 +249,10 @@ if __name__ == '__main__':
         pages_pat = PRE_PAGES_DIRECTORY + PRE_PAGES_GLOB
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
-        compile_scss()
+        compile_scss("minimal")
+        compile_scss("fancy")
+        compile_scss("solarized_light")
+        compile_scss("solarized_dark")
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
         copy_files(PRE_STATIC_DIRECTORY + "*",
             SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
