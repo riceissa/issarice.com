@@ -52,6 +52,7 @@ You can find my original public announcement about doing cause prioritization re
     - [followup on LW](http://lesswrong.com/lw/hmj/david_brooks_from_the_ny_times_writes_on/)
     - GiveWell has also mentioned Brooks's article somewhere
 - [Ben Kuhn's "A critique of effective altruism"](http://www.benkuhn.net/ea-critique)
+    - [LW version](http://lesswrong.com/r/lesswrong/lw/j8n/a_critique_of_effective_altruism/)
 - ["The Elitist Philanthropy of So-Called Effective Altruism"](http://www.ssireview.org/blog/entry/the_elitist_philanthropy_of_so_called_effective_altruism) by Charity Navigator people
 - ["The Outside Critics of Effective Altruism"](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/) on EA Forum
 - Boston Globe: "[The Logic of Effective Altruism](https://bostonreview.net/forum/peter-singer-logic-effective-altruism)"
