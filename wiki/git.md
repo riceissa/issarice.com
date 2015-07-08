@@ -32,3 +32,16 @@ aliases: git-commands, a-collection-of-often-forgotten-git-commands
 ```bash
 git config --global core.quotepath false
 ```
+
+# Weird behavior
+
+I'm documenting some weird behavior I've observed.
+
+In `~/.gitconfig`:
+
+```
+[core]
+    pager = less -+S -r
+```
+
+Then running `git diff --color 3cc00f112bf~1 3cc00f112bf` in the [CP Wiki repo](https://github.com/riceissa/causeprioritization). This causes colors to show up, but the header doesn't show up at first. If you hit `G` to go to the bottom, then hit `g` to get back up, you can see the header.  You can do some pretty weird things with this, e.g. `git diff --color 3cc00f112bf~1 3cc00f112bf | fold | less -r` will make the color fade out in some regions, and you can also see strange character marks.
