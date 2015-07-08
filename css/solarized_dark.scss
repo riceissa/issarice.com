@@ -1,0 +1,56 @@
+// This stylesheet is released to the public domain according to the CC0
+// 1.0 Universal (CC0 1.0) Public Domain Dedication. See
+// https://creativecommons.org/publicdomain/zero/1.0/ for more
+// information.
+
+@import "standard_import";
+
+body {
+    color: $base1;
+    background: $base02;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+    color: $dark;
+    font-family: $sans_series;
+    line-height: 120%;
+}
+
+h2 {
+    border-bottom: 1px solid $lightest_gray;
+}
+
+hr {
+    border: 0 none;
+    border-top: 2px solid $lightest_gray;
+    border-bottom: 1px solid $lightest_gray;
+    height: 4px;
+}
+
+code {
+    background-color: $dark;
+    border: 1px solid $darkest_gray;
+}
+
+blockquote {
+    color: $dark_gray;
+    border-left: 4px solid $lightest_gray;
+}
+
+table {
+    border-color: $darkest_gray;
+}
+
+table th {
+    border-color: $darkest_gray;
+}
+
+table td {
+    border-color: $darkest_gray;
+}
+
+dt {
+    font-weight: bold;
+}
