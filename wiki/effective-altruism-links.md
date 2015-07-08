@@ -57,6 +57,7 @@ You can find my original public announcement about doing cause prioritization re
 - ["The Outside Critics of Effective Altruism"](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/) on EA Forum
 - Boston Globe: "[The Logic of Effective Altruism](https://bostonreview.net/forum/peter-singer-logic-effective-altruism)"
     - Overcoming Bias's response (by Robin Hanson): "[Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)"
+    - [reddit thread](https://www.reddit.com/r/philosophy/comments/3cfkc2/peter_singer_on_the_logic_of_effective_altruism/)
 
 # Depression
 
