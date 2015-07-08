@@ -161,8 +161,6 @@ def create_page_with_all_pages(list_page):
     skeleton = env.get_template('templates/skeleton.html')
     metadata = {
         "title": "All pages on the site",
-        "css": Filepath(SITE_CSS_DIRECTORY +
-            "minimal.css").relative_to(Filepath("all")).path,
         "license": "CC0",
     }
     final = skeleton.render(page=metadata, body=body, css=metadata["css"],
@@ -249,8 +247,8 @@ if __name__ == '__main__':
         pages_pat = PRE_PAGES_DIRECTORY + PRE_PAGES_GLOB
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
-        compile_scss("minimal")
-        compile_scss("fancy")
+        compile_scss("common")
+        compile_scss("standard")
         compile_scss("solarized_light")
         compile_scss("solarized_dark")
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
