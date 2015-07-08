@@ -248,6 +248,7 @@ if __name__ == '__main__':
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
         compile_scss("common")
+        compile_scss("minimal")
         compile_scss("standard")
         compile_scss("solarized_light")
         compile_scss("solarized_dark")
