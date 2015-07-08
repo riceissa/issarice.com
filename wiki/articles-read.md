@@ -42,6 +42,26 @@ because GitHub does not use Pandoc markdown.*
 ---
 
 
+*<a href="#2015-07-07-at-07-27-pm" id=2015-07-07-at-07-27-pm>2015-07-07 at 07:27 PM</a>*
+
+[31 Laws of Fun - Less Wrong](http://lesswrong.com/lw/y0/31_laws_of_fun/)
+
+> Brains are some of the most complicated things in the world.  Thus,
+> other humans (other minds) are some of the most complicated things we
+> deal with.  For us, this interaction has a unique character because of
+> the sympathy we feel for others - the way that our brain tends to
+> align with their brain - rather than our brain just treating other
+> brains as big complicated machines with levers to pull.  Reducing the
+> need for people to interact with other people reduces the complexity
+> of human existence; this is a step in the wrong direction.  For
+> example, resist the temptation to simplify people's lives by offering
+> them artificially perfect sexual/romantic partners. (Interpersonal
+> Entanglement.)
+
+---
+
+
+
 *<a href="#2015-07-07-at-07-14-pm" id=2015-07-07-at-07-14-pm>2015-07-07 at 07:14 PM</a>*
 
 [Celebrity Causes - Look to the Stars](https://www.looktothestars.org/cause)
