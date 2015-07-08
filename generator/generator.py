@@ -163,8 +163,7 @@ def create_page_with_all_pages(list_page):
         "title": "All pages on the site",
         "license": "CC0",
     }
-    final = skeleton.render(page=metadata, body=body, css=metadata["css"],
-        path="./")
+    final = skeleton.render(page=metadata, body=body, path="./")
     return Page(data=final, destination=SITE_DIRECTORY + "_all")
 
 def create_sitemap(list_page=[], list_tag=[]):
