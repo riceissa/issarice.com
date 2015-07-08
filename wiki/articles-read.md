@@ -42,6 +42,27 @@ because GitHub does not use Pandoc markdown.*
 ---
 
 
+*<a href="#2015-07-07-at-09-10-pm" id=2015-07-07-at-09-10-pm>2015-07-07 at 09:10 PM</a>*
+
+[Overcoming Bias : Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)
+
+> Imagine someone who said they were in love with you, cared about you,
+> and wanted to live with you to help you, but who didn’t seem very
+> emotionally engaged in this. They instead talked a lot about
+> calculations they’d done on how you two could live your lives together
+> well. You might suspect them of having ulterior motives, such as
+> wanting to gain sex, money, or status from you. Maybe the same sort of
+> thing is going on in charity. We want and expect a certain sort of
+> emotional relation to people who help us, and to people who help the
+> same people we help, and people who say they are trying to help but
+> who won’t join in the usual emotions in the usual way may seem
+> suspect. We’d be more likely to find fault with their approach, and to
+> suspect them of bad ulterior motives.
+
+---
+
+
+
 *<a href="#2015-07-07-at-08-18-pm" id=2015-07-07-at-08-18-pm>2015-07-07 at 08:18 PM</a>*
 
 [George Orwell: Why Socialists Don't Believe In Fun](http://www.orwell.ru/library/articles/socialists/english/e_fun)
