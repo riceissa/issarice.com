@@ -13,8 +13,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
     text-align: left;
     color: $lightest_gray;
-    font-family: $sans_series;
-    line-height: 120%;
 }
 
 h2 {
@@ -22,10 +20,8 @@ h2 {
 }
 
 hr {
-    border: 0 none;
     border-top: 2px solid $lightest_gray;
     border-bottom: 1px solid $lightest_gray;
-    height: 4px;
 }
 
 a:link {
