@@ -6,14 +6,13 @@
 @import "standard_import";
 
 body {
-    color: $base1;
-    background: $base02;
+    color: $lightest_gray;
+    background: $very_dark;
 }
-
 
 h1, h2, h3, h4, h5, h6 {
     text-align: left;
-    color: $dark;
+    color: $lightest_gray;
     font-family: $sans_series;
     line-height: 120%;
 }
@@ -29,14 +28,22 @@ hr {
     height: 4px;
 }
 
+a:link {
+    color: $blue;
+}
+
+a:visited {
+    color: $cyan;
+}
+
 code {
     background-color: $dark;
     border: 1px solid $darkest_gray;
 }
 
 blockquote {
-    color: $dark_gray;
-    border-left: 4px solid $lightest_gray;
+    color: $light_gray;
+    border-left: 4px solid $darkest_gray;
 }
 
 table {

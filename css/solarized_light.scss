@@ -24,6 +24,13 @@ hr {
     border-bottom: 1px solid $lightest_gray;
 }
 
+a:link {
+    color: $blue;
+}
+
+a:visited {
+    color: $cyan;
+}
 
 code {
     background-color: $tan;
