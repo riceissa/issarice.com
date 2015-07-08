@@ -44,6 +44,19 @@ In a sense, it is just a collection of the "effective altruism versions" of vari
 I'm currently working on cause prioritization research through the [cause prioritization wiki](http://causeprioritization.org), though the project is still at a very early stage.
 You can find my original public announcement about doing cause prioritization research ("cause prioritization prioritization") [here](https://www.facebook.com/riceissa/posts/1492279381051014).
 
+# Criticisms of effective altruism
+
+- [Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)
+- [RationalWiki's article on EA](http://rationalwiki.org/wiki/Effective_altruism)
+- [David Brooks's "The Way to Produce a Person"](http://www.nytimes.com/2013/06/04/opinion/brooks-the-way-to-produce-a-person.html?ref=opinion)
+    - [followup on LW](http://lesswrong.com/lw/hmj/david_brooks_from_the_ny_times_writes_on/)
+    - GiveWell has also mentioned Brooks's article somewhere
+- [Ben Kuhn's "A critique of effective altruism"](http://www.benkuhn.net/ea-critique)
+- ["The Elitist Philanthropy of So-Called Effective Altruism"](http://www.ssireview.org/blog/entry/the_elitist_philanthropy_of_so_called_effective_altruism) by Charity Navigator people
+- ["The Outside Critics of Effective Altruism"](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/) on EA Forum
+- Boston Globe: "[The Logic of Effective Altruism](https://bostonreview.net/forum/peter-singer-logic-effective-altruism)"
+    - Overcoming Bias's response (by Robin Hanson): "[Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)"
+
 # Depression
 
 \[to be added\]
