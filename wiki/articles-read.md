@@ -56,6 +56,26 @@ because GitHub does not use Pandoc markdown.*
 > writing on this subject is the famous passage in which Tertullian
 > explains that one of the chief joys of Heaven is watching the tortures
 > of the damned.
+>
+> [...]
+>
+> It is the same with attempted descriptions of perfect happiness which
+> are neither Utopian nor other-worldly, but merely sensual. They always
+> give an impression of emptiness or vulgarity, or both. At the beginning
+> of *La Pucelle Voltaire* describes the life of Charles IX with his
+> mistress, Agnes Sorel. They were ‘always happy’, he says. And what did
+> their happiness consist in? An endless round of feasting, drinking,
+> hunting and love-making. Who would not sicken of such an existence after
+> a few weeks? Rabelais describes the fortunate spirits who have a good
+> time in the next world to console them for having had a bad time in this
+> one. They sing a song which can be roughly translated: ‘*To leap, to
+> dance, to play tricks, to drink the wine both white and red, and to do
+> nothing all day long except count gold crowns*’ how boring it sounds,
+> after all! The emptiness of the whole notion of an everlasting ‘good
+> time’ is shown up in Breughel's picture *The Land of the Sluggard*,
+> where the three great lumps of fat lie asleep, head to head, with the
+> boiled eggs and roast legs of pork coming up to be eaten of their own
+> accord.
 
 ---
 
