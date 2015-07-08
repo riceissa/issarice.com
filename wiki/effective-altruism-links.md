@@ -1,9 +1,9 @@
 ---
 title: Effective altruism links
-#description: none
+rss-description: add criticisms
 author: Issa Rice
 creation-date: 2015-01-02
-last-major-revision-date: 2015-01-02
+last-major-revision-date: 2015-07-07
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes
@@ -17,11 +17,11 @@ tags: ea, links
 Although I haven't spent too much time investigating all resources on [effective altruism]() (EA), it seems that right now, discussions are occurring in disparate places, and that coordination between these places is lacking.
 It is difficult, for instance, to find all EA discussions that have taken place on giving now or later, or to find all discussions on going into finance.
 The goal of this page is to *slowly* compile all discussions that have taken place about EA on particular topics.
-I have also recently started the [cause prioritization wiki](http://causeprioritization.org), which also focuses on information-gathering, but the wiki has the goal of comparing different causes, not just amassing EA discussions of them.
+I have also recently started the [Cause Prioritization Wiki](http://causeprioritization.org), which also focuses on information-gathering, but the wiki has the goal of comparing different causes, not just amassing EA discussions of them.
 
-The list is alphabetized except for the very first item.
+The list is alphabetized except for the very first item ("General/introductory discussions").
 
-I'm uncertain about the utility of this list.
+I'm uncertain of the utility of this list.
 In a sense, it is just a collection of the "effective altruism versions" of various topics that are already discussed elsewhere (though I also think that EAs have probably added a lot to some discussions, like those on animal suffering and existential risks).
 
 # General/introductory discussions
