@@ -1,123 +1,22 @@
-/*
-    Copyright (c) 2014, Issa Rice
-    All rights reserved.
+// This stylesheet is released to the public domain according to the CC0
+// 1.0 Universal (CC0 1.0) Public Domain Dedication. See
+// https://creativecommons.org/publicdomain/zero/1.0/ for more
+// information.
 
-    Redistribution and use in source and binary forms, with or without
-    modification, are permitted provided that the following conditions are
-    met:
-
-    * Redistributions of source code must retain the above copyright
-    notice, this list of conditions and the following disclaimer.
-
-    * Redistributions in binary form must reproduce the above copyright
-    notice, this list of conditions and the following disclaimer in the
-    documentation and/or other materials provided with the distribution.
-
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-    A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-    HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-    SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-    LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-    THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-*/
-
-/*
-    The colors for this stylesheet are taken from Ethan Schoonover's
-    Solarized theme.  See http://ethanschoonover.com/solarized for more.
-    The license for the Solarized GitHub repository
-    (https://github.com/altercation/solarized) is reproduced below
-
-Copyright (c) 2011 Ethan Schoonover
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-*/
-
-$black: #252525;
-$white: #ffffff;
-
-$base03: #002b36;
-$base02: #073642;
-$very_dark: $base03;
-$dark: $base02;
-
-$base01: #586e75;
-$base00: #657b83;
-$base0: #839496;
-$base1: #93a1a1;
-$darkest_gray: $base01;
-$dark_gray: $base00;
-$light_gray: $base0;
-$lightest_gray: $base1;
-
-$base2: #eee8d5;
-$base3: #fdf6e3;
-$tan: $base2;
-$cream: $base3;
-
-$yellow: #b58900;
-$orange: #cb4b16;
-$red: #dc322f;
-$magenta: #d33682;
-$violet: #6c71c4;
-$blue: #268bd2;
-$cyan: #2aa198;
-$green: #859900;
-
-// See
-// https://github.com/gwern/gwern.net/blob/master/static/css/default.css
-// for some of the choices of fonts.  For a review of Linux Libertine,
-// see
-// https://zuttobenkyou.wordpress.com/2010/03/11/the-best-serif-font-in-the-world-linux-libertine/
-$serif_series: "Linux Libertine O", "Linux Libertine", Baskerville, Garamond, serif;
-$sans_series:  "Lato", "Nimbus Sans L", Helvetica, Arial, Trebuchet, "Lucida Grande", sans-serif;
-$mono_series: "Source Code Pro", "Andale Mono", Monaco, Consolas, Menlo, monospace;
-
-$smaller_text: 80%;
+@import "common_import";
 
 body {
-    line-height: 150%;
+    line-height: 140%;
     font-family: $serif_series;
-    color: $black;
-}
-
-div#content {
-    width: 93%;
-    max-width: 5.5in;
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
+    color: $almost_black;
 }
 
 div#navigation {
     font-size: $smaller_text;
     font-family: $sans_series;
-    // See http://stackoverflow.com/a/324553
-    overflow: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    text-align: left;
     font-family: $sans_series;
     line-height: 120%;
 }
@@ -127,7 +26,6 @@ h1 {
 }
 
 h2 {
-    border-bottom: 1px solid $lightest_gray;
     font-size: 120%;
 }
 
@@ -137,8 +35,8 @@ h3, h4, h5, h6 {
 
 hr {
     border: 0 none;
-    border-top: 2px solid $black;
-    border-bottom: 1px solid $black;
+    border-top: 2px solid $almost_black;
+    border-bottom: 1px solid $almost_black;
     height: 4px;
 }
 
@@ -181,118 +79,8 @@ code {
 }
 
 pre code {
-    display: block;
     line-height: 120%;
     overflow: auto;
-    padding: 10px;
-    max-height: 500px;
     // This is also necessary in "code"
     font-size: $smaller_text;
-}
-
-blockquote {
-    margin: 0px;
-    padding: 0px 0px 0px 16px; /*top right bottom left*/
-    border-left: 4px solid $lightest_gray;
-}
-
-table {
-    width: 100%;
-    border-style: outset;
-    border-collapse: separate;
-    border-color: $darkest_gray;
-    border-width: 1px;
-    border-spacing: 2px;
-}
-
-table th {
-    border-style: inset;
-    border-color: $darkest_gray;
-    border-width: 1px;
-    padding: 3px;
-}
-
-table td {
-    border-style: inset;
-    border-color: $darkest_gray;
-    border-width: 1px;
-    padding: 3px;
-}
-
-dt {
-    font-weight: bold;
-}
-
-/*
- * For displaying source code. See
- * https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
- * and
- * http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
- */
-
-// Keywords
-.sourceCode span.kw {
-    color: $green;
-}
-
-// Data types
-.sourceCode span.dt {
-    color: $cyan;
-}
-
-// Decimal values
-.sourceCode span.dv {
-    color: $cyan;
-}
-
-// Values with base other than 10
-.sourceCode span.bn {
-    color: $cyan;
-}
-
-// Float values
-.sourceCode span.fl {
-    color: $cyan;
-}
-
-// Characters
-.sourceCode span.ch {
-    color: $green;
-}
-
-// Strings
-.sourceCode span.st {
-    color: $cyan;
-}
-
-// Comments
-.sourceCode span.co {
-    color: $lightest_gray;
-    font-style: italic;
-}
-
-// Other
-.sourceCode span.ot {
-    color: $yellow;
-}
-
-// Warning messages
-.sourceCode span.al {
-    color: $red;
-}
-
-// Functions
-.sourceCode span.fu {
-    color: $blue;
-}
-
-// Region markers
-.sourceCode span.re {
-    color: $yellow;
-}
-
-// Errors
-.sourceCode span.er {
-    color: $red;
-    font-weight: bold;
 }
