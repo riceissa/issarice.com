@@ -42,6 +42,25 @@ because GitHub does not use Pandoc markdown.*
 ---
 
 
+*<a href="#2015-07-07-at-08-18-pm" id=2015-07-07-at-08-18-pm>2015-07-07 at 08:18 PM</a>*
+
+[George Orwell: Why Socialists Don't Believe In Fun](http://www.orwell.ru/library/articles/socialists/english/e_fun)
+
+
+> Many a revivalist minister, many a Jesuit priest (see, for instance, the
+> terrific sermon in James Joyce's *Portrait of the Artist*) has
+> frightened his congregation almost out of their skins with his
+> word-pictures of Hell. But as soon as it comes to Heaven, there is a
+> prompt falling-back on words like ‘ecstasy’ and ‘bliss’, with little
+> attempt to say what they consist in. Perhaps the most vital bit of
+> writing on this subject is the famous passage in which Tertullian
+> explains that one of the chief joys of Heaven is watching the tortures
+> of the damned.
+
+---
+
+
+
 *<a href="#2015-07-07-at-07-27-pm" id=2015-07-07-at-07-27-pm>2015-07-07 at 07:27 PM</a>*
 
 [31 Laws of Fun - Less Wrong](http://lesswrong.com/lw/y0/31_laws_of_fun/)
