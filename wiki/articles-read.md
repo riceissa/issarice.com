@@ -41,6 +41,32 @@ because GitHub does not use Pandoc markdown.*
 
 ---
 
+
+*<a href="#2015-07-07-at-07-14-pm" id=2015-07-07-at-07-14-pm>2015-07-07 at 07:14 PM</a>*
+
+[Celebrity Causes - Look to the Stars](https://www.looktothestars.org/cause)
+
+i find it intersting how they split all the diseases into separate
+causes.. though i suppose that's just because celebrities probably
+emphasize that. or else that's what ppl care about in general. i mean,
+even GW separates these i suppose (while others tend to view these all
+as "global health"). a flat list probably isn't ideal for this type of
+thing
+
+---
+
+
+
+*<a href="#2015-07-07-at-07-09-pm" id=2015-07-07-at-07-09-pm>2015-07-07 at 07:09 PM</a>*
+
+[Logging | QuantSelfLaFont](http://quantselflafont.com/category/logging/)
+
+something to check for doing research into QS
+
+
+---
+
+
 *2015-07-05*
 
 [web - How do I get a websites title using command line? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/103252/how-do-i-get-a-websites-title-using-command-line)
