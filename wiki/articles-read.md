@@ -42,6 +42,17 @@ because GitHub does not use Pandoc markdown.*
 ---
 
 
+*<a href="#2015-07-08-at-07-12-pm" id=2015-07-08-at-07-12-pm>2015-07-08 at 07:12 PM</a>*
+
+[How the Welfare State Melts Your Conscience, Bryan Caplan | EconLog | Library of Economics and Liberty](http://econlog.econlib.org/archives/2015/07/how_the_welfare_1.html)
+
+
+
+
+---
+
+
+
 *<a href="#2015-07-07-at-09-10-pm" id=2015-07-07-at-09-10-pm>2015-07-07 at 09:10 PM</a>*
 
 [Overcoming Bias : Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)
