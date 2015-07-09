@@ -38,4 +38,4 @@ Some thoughts on anonymity... (for now)
 
     and later (p 202--203):
 
-    > Long-time Facebook programmer Charlie Cheever (now departed from thecompany) is another skeptic: "I feel Mark doesn't believe in privacy that much, or at least believes in privacy as a stepping-stone. Maybe he's right, maybe he's wrong." By "stepping-stone," Cheever means Zucker- berg sees privacy as something Facebook should offer people until they get over their need for it.
+    > Long-time Facebook programmer Charlie Cheever (now departed from thecompany) is another skeptic: "I feel Mark doesn't believe in privacy that much, or at least believes in privacy as a stepping-stone. Maybe he's right, maybe he's wrong." By "stepping-stone," Cheever means Zuckerberg sees privacy as something Facebook should offer people until they get over their need for it.
