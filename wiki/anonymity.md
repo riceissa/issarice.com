@@ -30,3 +30,6 @@ Some thoughts on anonymity... (for now)
         - minimizes persecution/humiliation
     - drawbacks:
         - promotes short-term thinking
+- David Kirkpatrick writes in *The Facebook Effect* (p 199):
+
+    > "Having two identities for yourself is an example of a lack of integrity," Zuckerberg says moralistically. But he also makes a case he sees as pragmatic---that "the level of transparency the world has now won't support having two identities for a person." In other words, even if you want to segregate your personal from your professional information you won't be able to, as information about you proliferates on the Internet and elsewhere. He would say the same about any images one individual seeks to project---for example, a teenager who acts docile at home but is a drug-using reprobate with his friends.
