@@ -19,3 +19,5 @@ If you'd like to give me feedback (which I would really appreciate), just [conta
 In addition, some pages will have a link at the bottom (usually under "External links" or "See also") where I will link to an external (usually Facebook) discussion of the page.
 
 For my thoughts on commenting in general, see my [Comments]() page.
+
+If you'd like to point out corrections, in addition to contacting me, it's also possible to submit a pull request on the [Git repository for this site](https://github.com/riceissa/issarice.com).
