@@ -53,9 +53,13 @@ For each page that was manually written, the source markdown file can be accesse
 The markdown files are then compiled to HTML using a static site generator I wrote, which is stored in [`generator.py`](https://github.com/riceissa/issarice.com/blob/master/generator/generator.py) in the repository[^ssglist].
 
 The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/master/css/minimal.scss) is written in [SASS](http://sass-lang.com/) and compiled to CSS.
-It uses [Ethan Schoonover](http://ethanschoonover.com/)’s light [solarized theme](http://ethanschoonover.com/solarized) (for code colors) as well as small ideas from various places like [Gwern’s site](http://www.gwern.net/About#tools), GitHub’s (old) documentation pages, and the [gitit] CSS.
+There are actually multiple stylesheets available (specified using `rel="alternate stylesheet"` in the HTML):
 
-[gitit]: http://gitit.johnmacfarlane.net/
+- The default theme ("Standard") has colors inspired by [gitit](http://gitit.johnmacfarlane.net/) as well as small ideas from various places like [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s (old) documentation pages. It uses code colors from Solarized (see third bullet).
+- "Minimal" mostly sticks to the browser's default, but has a narrower content column for better reading.
+- The "Solarized" themes (light and dark) use [Ethan Schoonover](http://ethanschoonover.com/)’s [Solarized](http://ethanschoonover.com/solarized) for body text and background.
+
+Readers can select among the themes usually by going to "View" then "Page Style" in their browser (e.g. in Firefox). Chrome actually doesn't offer this feature and requires [a plugin](https://chrome.google.com/webstore/detail/style-chooser/daodklicmmjhcacgkjpianadkdkbkbce?hl=en).
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can [visit the repository](https://github.com/riceissa/riceissa.com) by clicking “website source” at the top of any page.
