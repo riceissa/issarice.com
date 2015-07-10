@@ -18,9 +18,9 @@ This page is my review of my first year at University of Washington
 see separate reviews for each quarter during the year, check out my
 quarterly reviews, which in turn point to my course reviews:
 
-- [Autumn](Autumn 2014 at the University of Washington)
-- [Winder](Winter 2015 at the University of Washington)
-- [Spring] -- FIXME
+- [Autumn](autumn-2014-at-the-university-of-washington)
+- [Winter](winter-2015-at-the-university-of-washington)
+- [Spring](spring-2015-at-the-university-of-washington)
 
 The overall emotional tone for me so far has been extremely negative. No
 doubt this is partly due to some ongoing personal problems, as well as 
