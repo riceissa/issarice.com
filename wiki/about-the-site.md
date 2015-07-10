@@ -50,7 +50,7 @@ Here are the tools used to build and run this site.
 
 Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdown syntax](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown).
 For each page that was manually written, the source markdown file can be accessed by clicking “page source” at the top of that page.
-The markdown files are then compiled to HTML using a static site generator I wrote, which is stored in [`generator.py`](https://github.com/riceissa/riceissa.com/blob/master/generator.py) in the repository[^ssglist].
+The markdown files are then compiled to HTML using a static site generator I wrote, which is stored in [`generator.py`](https://github.com/riceissa/issarice.com/blob/master/generator/generator.py) in the repository[^ssglist].
 
 The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/master/css/minimal.scss) is written in [SASS](http://sass-lang.com/) and compiled to CSS.
 It uses [Ethan Schoonover](http://ethanschoonover.com/)’s light [solarized theme](http://ethanschoonover.com/solarized) (for code colors) as well as small ideas from various places like [Gwern’s site](http://www.gwern.net/About#tools), GitHub’s (old) documentation pages, and the [gitit] CSS.
