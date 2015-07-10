@@ -26,7 +26,7 @@ He said to the effect that during his years at Stanford, what he remembered most
 
 # The book
 
-Barrat's book was a bit basic for me, since I had already been reading [Less Wrong](http://lesswrong.com) for several years prior to the course.
+Barrat's book was a bit basic for me, since I had already been reading [LessWrong]() for several years prior to the course.
 The content seemed a bit repetitive, and often the arguments seemed to be based solely on Barrat's opinion (which seemed dubious, since he is apparently a documentary maker, and not an expert in AI).
 Reges, as well as the class, seemed to find the content repetitive as well.
 Although Reges did say that superintelligence is something we have to be concerned about, I got the impression that the class was unconvinced by the idea of a superintelligence.
