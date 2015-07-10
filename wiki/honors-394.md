@@ -11,7 +11,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: uw, uw honors
+tags: uw course review, uw honors
 #aliases: 
 ---
 

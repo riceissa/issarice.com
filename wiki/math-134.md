@@ -7,7 +7,7 @@ last-major-revision-date: 2014-12-09
 language: English
 status: draft
 license: CC BY
-tags: uw, math
+tags: uw course review, math
 aliases: math-134-at-the-university-of-washington
 ---
 

@@ -7,7 +7,7 @@ last-major-revision-date: 2014-12-20
 language: English
 status: draft
 license: CC BY
-tags: uw, uw-honors
+tags: uw course review, uw-honors
 aliases: honors-100-at-the-university-of-washington
 ---
 

@@ -7,7 +7,7 @@ last-major-revision-date: 2015-03-29
 language: English
 status: notes
 license: CC BY
-tags: uw, english
+tags: uw course review, english
 aliases: english-131-at-the-university-of-washington, english 131
 ---
 
