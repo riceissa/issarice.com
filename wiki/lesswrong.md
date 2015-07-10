@@ -16,7 +16,7 @@ tags: lesswrong
 
 
 Since about 2007, there has been a growing community---both online and offline---based around the idea of "rationality", i.e. the idea that [one should (1) have beliefs that correspond to reality, and (2) execute actions in the real world so as to achieve one's goals](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/).
-[LessWrong](http://lesswrong.com) (LW) is a community blog about rationality that has been the main platform online for discussions about rationality.
+**[LessWrong](http://lesswrong.com)** (**LW**) is a community blog about rationality that has been the main platform online for discussions about rationality.
 Learning about rationality is valuable in itself, but there is also an aspect of being in a "rationalist community" that appeals to many.
 In addition, besides discussions about just rationality, LessWrong is an excellent source of information about STEM fields in general.
 
