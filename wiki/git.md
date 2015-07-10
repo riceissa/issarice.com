@@ -50,8 +50,8 @@ For reference, my `.gitconfig`:
 
 ``` {.bash}
 [user]
-	email = riceissa@gmail.com
-	name = Issa Rice
+    email = riceissa@gmail.com
+    name = Issa Rice
 [core]
     pager = less -+S
 [pager]
