@@ -50,8 +50,8 @@ For reference, my `.gitconfig`:
 
 ``` {.bash}
 [user]
-    email = riceissa@gmail.com
-    name = Issa Rice
+	email = riceissa@gmail.com
+	name = Issa Rice
 [core]
     pager = less -+S
 [pager]
@@ -82,10 +82,16 @@ For reference, my `.gitconfig`:
     # list aliases
     la = "!git config -l | grep alias | cut -c 7-"
     logn = log --name-only
-    pbm = push bitbucket master
-    pghm = push github master
+    pullb = pull bitbucket master
+    pullg = pull github master
+    pullgh = pull github master
     pulll = pull origin master
+    pullo = pull origin master
+    pushb = push bitbucket master
+    pushg = push github master
+    pushgh = push github master
     pushh = push origin master
+    pusho = push origin master
     s = status -s
     st = status
     wd = diff --color-words
