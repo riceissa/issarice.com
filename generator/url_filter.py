@@ -48,6 +48,10 @@ def url_filter(key, value, format_, meta):
             url = "https://en.wikipedia.org/wiki/" + stringify(txt)
         elif url.startswith("!w%20"):
             url = "https://en.wikipedia.org/wiki/" + url[len("!w%20"):]
+        elif url == "!wja":
+            url = "https://ja.wikipedia.org/wiki/" + stringify(txt)
+        elif url.startswith("!wja%20"):
+            url = "https://ja.wikipedia.org/wiki/" + url[len("!wja%20"):]
         elif url.startswith("!"):
             url = "http://duckduckgo.com/?q=" + url + " " + stringify(txt)
         elif url == '':
