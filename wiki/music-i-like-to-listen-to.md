@@ -13,7 +13,7 @@ aliases: music, music I listen to, music I like
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
 
-I mostly listen to mainstream Western music from a few decades back: Bob Dylan, The Beatles, Pink Floyd, The Kinks, Led Zeppelin, Jimi Hendrix, Velvet Underground (roughly in that order).
+I mostly listen to mainstream Western music from a few decades back: Bob Dylan^["Bob Dylan's 115th Dream", "It's Alright, Ma (I'm Only Bleeding)", "Visions of Johanna", "Stuck Inside of Mobile with the Memphis Blues Again", "Just Like a Woman", "Subterranean Homesick Blues", "Mr. Tambourine Man", "It's All Over Now, Baby Blue", "I Want You",  "Highway 61 Revisited", "Ballad of a Thin Man"], The Beatles, Pink Floyd, The Kinks, Led Zeppelin, Jimi Hendrix, Velvet Underground (roughly in that order).
 I've also fairly recently discovered [Fishmans](!w), [Sidi Touré](!w), [Detektivbyrån](!w), [Jean Michel Jarre](!w), [Jean-Luc Ponty](!w), mostly through my father.
 
 I also like some simple Japanese songs like [ゴンドラの唄](!wja) ([Gondola no Uta](!w)), [Aogeba Tōtoshi](!w) and [赤とんぼ (童謡)](!wja) (Red Dragonfly).
