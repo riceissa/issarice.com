@@ -1,12 +1,12 @@
 ---
 title: Music I like to listen to
-description: 
+rss-description: some new names like Taylor Swift
 author: Issa Rice
 creation-date: 2014-12-20
-last-major-revision-date: 2014-12-20
+last-major-revision-date: 2015-07-11
 language: English
-status: draft
-license: CC BY
+status: notes
+license: CC0
 tags: ["music", "personal", "japan"]
 aliases: music, music I listen to, music I like
 ---
