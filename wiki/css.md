@@ -14,7 +14,7 @@ status: notes
 #belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: css, style, aesthetics, web design
 #aliases: 
 ---
 

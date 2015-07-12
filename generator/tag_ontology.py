@@ -58,6 +58,8 @@ TAG_SYNONYMS = {
         [],
     "Debian":
         ["deb"],
+    "digital preservation":
+        ["archival", "archiving", "digital archives", "digital archiving", "digital archival", "data archiving", "data archival"],
     "disadvantages":
         ["con", "cons"],
     "economics":
@@ -155,7 +157,10 @@ TAG_IMPLICATIONS = OrderedDict([
     ("OpenBSD", ["computing"]),
     ("LessWrong", ["rationality"]),
     ("logic", ["math"]),
+    ("real analysis", ["analysis"]),
+    ("complex analysis", ["analysis"]),
     ("analysis", ["math"]),
+    ("probability", ["math"]),
     ("physics", ["science"]),
     ("atmospheric sciences", ["science"]),
     ("astronomy", ["science"]),
@@ -166,4 +171,5 @@ TAG_IMPLICATIONS = OrderedDict([
     ("University of Washington course review", ["University of Washington"]),
     ("advantages", ["advantages and disadvantages"]),
     ("disadvantages", ["advantages and disadvantages"]),
+    ("link rot", ["digital preservation"]),
 ])
