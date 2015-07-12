@@ -23,7 +23,12 @@ pagepath="${sitedir}/wiki/$slug.md"
 if [ -f $pagepath ];
 then
     echo "File $pagename exists.  Opening..."
-    gvim --remote-tab-silent $pagepath
+    if [ "$1" = '-g' ];
+    then
+        gvim --remote-tab-silent $pagepath
+    else
+        vim --remote-tab-silent $pagepath
+    fi
 else
     echo "Creating $pagepath"
     cat <<EOF > $pagepath
@@ -58,5 +63,10 @@ EOF
     # open with vim on the last line (if there is no existing session)
     # or in a new tab on an existing session (if possible)
     # Note that this requires GoToLastLine to be defined in .vimrc
-    gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
+    if [ "$1" = '-g' ];
+    then
+        gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
+    else
+        vim --remote-tab-silent +"call GoToLastLine()" $pagepath
+    fi
 fi
