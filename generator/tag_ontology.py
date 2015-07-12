@@ -34,7 +34,11 @@ from collections import OrderedDict
 # a tag can be spelled in multiple ways or has common abbreviations.
 # This should be used before doing tag implications.
 TAG_SYNONYMS = {
-    "atmopsheric sciences":
+    "advantages":
+        ["pros", "pro"],
+    "advantages and disadvantages":
+        ["procon", "pros and cons"],
+    "atmospheric sciences":
         ["atmos"],
     "biology":
         ["bio"],
@@ -54,6 +58,8 @@ TAG_SYNONYMS = {
         [],
     "Debian":
         ["deb"],
+    "disadvantages":
+        ["con", "cons"],
     "economics":
         ["econ"],
     "effective altruism":
@@ -93,7 +99,7 @@ TAG_SYNONYMS = {
     "open borders":
         ["ob"],
     "OpenBSD":
-        ["openbsd"],
+        [],
     "Pandoc":
         [],
     "Paul Graham":
@@ -158,4 +164,6 @@ TAG_IMPLICATIONS = OrderedDict([
     ("depression", ["psychology"]),
     ("programming", ["computing"]),
     ("University of Washington course review", ["University of Washington"]),
+    ("advantages", ["advantages and disadvantages"]),
+    ("disadvantages", ["advantages and disadvantages"]),
 ])
