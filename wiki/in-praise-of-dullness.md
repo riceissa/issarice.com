@@ -11,7 +11,7 @@ status: notes
 belief: emotional, unlikely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: boringness
 ---
 
 > "And some books ought to burn, trying for character\

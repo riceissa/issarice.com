@@ -8,8 +8,10 @@ language: English
 status: notes
 belief: possible
 license: CC BY
-tags: untagged
+tags: content discovery
 ---
+
+Okay, I ended up writing this on the CM wiki as [Using reddit](http://info.cognitomentoring.org/wiki/Using_reddit).
 
 Why care about reddit?
 See for instance [Alex K. Chen's answer to "What are the most underrated life skills?"](https://www.quora.com/What-are-the-most-underrated-life-skills/answer/Alex-K-Chen): "the ability to find the truly relevant\+accurate content from places with low signal to noise ratio".

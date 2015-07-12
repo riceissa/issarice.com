@@ -7,7 +7,7 @@ last-major-revision-date: 2014-11-11
 language: English
 status: draft
 license: CC BY
-tags: untagged
+tags: age, interpersonal interaction
 aliases: the-importance-of-having-different-aged-peers, the-importance-of-having-older-peers-and-mentors, the-importance-of-having-differently-aged-peers, older peers, younger peers, old peers, young peers
 ---
 
