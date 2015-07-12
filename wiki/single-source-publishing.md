@@ -11,7 +11,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: content creation, digital preservation
 ---
 
 As part of this website, but also with publishing information in general (e.g. with my school projects, for instance), I've been very interested in things like [digital preservation](), [durable link]()s, and [single source publishing](!w) (SSP).

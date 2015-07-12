@@ -11,7 +11,7 @@ language: English
 #belief: 
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: public domain
-tags: untagged
+tags: content creation, archival, plain text
 ---
 
 What makes a good website, especially one that lasts a long time?

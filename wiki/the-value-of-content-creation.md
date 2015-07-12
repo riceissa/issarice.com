@@ -7,7 +7,7 @@ last-major-revision-date: 2014-12-18
 language: English
 status: draft
 license: CC BY
-tags: untagged
+tags: content creation
 ---
 
 Here we consider how much impact writing online can make on the world.

@@ -7,7 +7,7 @@ last-major-revision-date: 2014-12-18
 language: English
 status: draft
 license: CC BY
-tags: untagged
+tags: blog, content creation, procon
 ---
 
 This page considers various arguments for and against blogs.

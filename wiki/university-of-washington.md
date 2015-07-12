@@ -11,7 +11,7 @@ language: English
 #belief: 
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: uw
 ---
 
 I began attending the University of Washington (UW) starting in autumn 2014.
