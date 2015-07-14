@@ -3,11 +3,12 @@ title: ENGL 478
 #rss-description: 
 author: Issa Rice
 creation-date: 2015-06-11
-last-major-revision-date: 2015-06-11
+last-major-revision-date: 2015-07-13
 language: English
 status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
+belief: emotional
 tags: uw course, spring 2015, English
 aliases: english 478
 ---
@@ -32,11 +33,15 @@ obliged.
 # Content
 
 The course was based on a series of readings (from a course packet one
-must purchase at the RAM copy center for around $20).
+must purchase at the [Rams Copy Center](http://www.ramscopy.com/) for around $20).
+
+# Lectures
+
+The lectures in general felt like a huge waste of time. At the beginning of each class, the professor would take attendance, but in doing so, would name each of the absent students; in addition, if a student came to class late, they were interrogated as to where they were, why there were late, and so forth.
 
 # Grading
 
 The grading for the two projects in the course seemed extremely lenient;
-I got a 98(?)/100 (lexical analysis) on one and 100/100 on the other
+I got a 98/100 (lexical analysis) on one and 100/100 on the other
 (article review). The syllabus that we used seems to indicate that there
 also used to be a presentation instead of one of the papers.
