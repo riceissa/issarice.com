@@ -40,8 +40,6 @@ NEW:
   or Hakyll), which means I can quickly check the output of the file I
   am editing.  I do want to work on this though to make it run faster.
 
-- fix slugification method... (right now i think it fails for japanese characters, for example, as well as accented latin characters. also consider switching to wikipedia-style Cool URIs.)
-
 OLD:
 
 - figure out why LaTeX code blocks aren't highlighting; i think this is just because pandoc only highlights comments for LaTeX, for some reason
