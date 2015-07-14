@@ -23,7 +23,7 @@ case of Bosnian, Croatian, Montenegrin, and Serbian".
 [jointly offered]: https://depts.washington.edu/registra/curriculum/jointCourses.php
 
 I took the course because of the new [diversity requirement] at
-UW. I probably would have waited until later to satisfy this
+UW.^[This requirement seems to be yet another disservice to students, forcing them to take even more useless courses than they already have to. The [general education](http://www.benkuhn.net/gened) requirements (which can mostly be fulfilled with AP/IB credits) were already bad enough.] I probably would have waited until later to satisfy this
 requirement, but a friend invited me to take the course with him, so I
 obliged.
 
