@@ -188,8 +188,8 @@ def create_rss(list_page):
     print("Generating RSS feed")
     env = Environment(loader=FileSystemLoader('.'))
     feed_template = env.get_template('templates/rss.xml')
-    list_page = sorted(list_page, key=lambda t: t.revision_date(
-        string=False), reverse=True)
+    list_page = sorted([i for i in list_page if i.revision_date()],
+        key=lambda t: t.revision_date(string=False), reverse=True)
     pages = []
     for page in list_page:
         hashstr = page.metadata["title"] + "|" + page.revision_date()

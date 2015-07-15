@@ -354,12 +354,6 @@ class Page(object):
                 return date_obj.strftime("%a, %d %b %Y %H:%M:%S %z").strip()
             else:
                 return date_obj
-        else:
-            date_obj = datetime.strptime("2010-01-01", '%Y-%m-%d')
-            if string:
-                return date_obj.strftime("%a, %d %b %Y %H:%M:%S %z").strip()
-            else:
-                return date_obj
 
 @Route
 def drop_one_parent_dir_route(filepath):
