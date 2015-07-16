@@ -703,6 +703,7 @@ can learn a lot about the most exciting things that are happening.
   recommend:
 
     - Peter Thiel
+    - **[AARON SWARTZ](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)**; READ ALL OF HIS BLOG
     - Paul Graham
     - Michael O. Church
     - **Alex K. Chen**
@@ -854,3 +855,4 @@ opportunity cost of college.
         [rom]: http://causeprioritization.org/Romance
 
 - <https://www.psychologytoday.com/articles/200703/trashing-teens>
+
