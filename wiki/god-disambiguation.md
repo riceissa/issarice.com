@@ -21,6 +21,7 @@ aliases: god
 **God** may refer to:
 
 - [Bryan Caplan](!w)
+- [Holden Karnofsky](http://blog.givewell.org)
 - [Aaron Swartz](!w)
 - [Peter Thiel](!w)
 - [Paul Graham](!w)
