@@ -97,3 +97,5 @@ For reference, my `.gitconfig`:
     wd = diff --color-words
     wdiff = diff --color-words
 ```
+
+- <https://stackoverflow.com/questions/4144417/how-to-handle-asian-characters-in-file-names-in-git-on-os-x>
