@@ -77,6 +77,11 @@ I suppose the latter will only contain information about how important it is to 
 
 \[to be added\]
 
+# Efficiency
+
+- [Broad Market Efficiency](http://blog.givewell.org/2013/05/02/broad-market-efficiency/) by Holden Karnofsky
+- [Discussion of efficiency in "Why Charities Don't Differ Astronomically in Cost-Effectiveness"](http://reducing-suffering.org/why-charities-dont-differ-astronomically-in-cost-effectiveness/#Engineering_vs_market_efficiency) by Brian Tomasik
+- [It's harder to favor a specific cause in more efficient charitable markets ](http://reflectivedisequilibrium.blogspot.com/2014/01/its-harder-to-favor-specific-cause-in.html) by Carl Shulman
 
 # Environmental change
 
