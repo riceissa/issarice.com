@@ -22,21 +22,26 @@ math: yes
 
 **Taking a bet** from someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if $E$ is false or does not happen, then you collect the $\$n$ stake. If $E$ actually is true or does happen, then you lose and pay $\$\left(\frac{x}{y}\cdot n\right)$.
 
-The above implies the following for the person *betting*: if they believe that the the probability of $E$ being true or happening is $p$, then their expected profit following the bet is:
+The above implies the following for the person *betting*: if they believe that the the probability of $E$ being true or happening is $p$, then their expected profit following the bet is
 
 $$
     p\cdot \frac{x}{y}\cdot n - (1-p) \cdot n
-    = 0
 $$
 
-So if $p = \frac{y}{x+y}$ precisely, then their expected profit following the bet is:
+So if $p = \frac{y}{x+y}$ precisely, then their expected profit following the bet is
 
 $$
     \frac{y}{x+y}\cdot \frac{x}{y}\cdot n - \frac{x}{x+y}\cdot n
     = 0
 $$
 
-Similarly, if the person *taking the bet* believes the probability of $E$ being true or happening is precisely $\frac{y}{x+y}$, then their expected profit following the bet is the same:
+Similarly, for the person *taking the bet*, if they believe the probability of $E$ being true or happening is $q$, then their expected profit following the bet is
+
+$$
+    -q \cdot \frac{x}{y} \cdot n + (1-q) \cdot n
+$$
+
+So if precisely $q = \frac{y}{x+y}$, the expected profit following the bet is the same as when $p = \frac{y}{x+y}$:
 
 $$
     -\frac{y}{x+y}\cdot \frac{x}{y} \cdot n + \frac{x}{x+y}\cdot n = 0
