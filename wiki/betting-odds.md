@@ -18,7 +18,7 @@ math: yes
 
 # Definition
 
-**Betting** someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if you lose ($E$ is false or does not happen), you pay the $\$n$ stake.  If you win ($E$ is true or happens), you keep the stake, and, in addition, win $\$\left(\frac{x}{y}\cdot n\right)$. When $x>y$, . This means you "take the $y$ side", i.e. you .
+**Betting** someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if you lose ($E$ is false or does not happen), you pay the $\$n$ stake.  If you win ($E$ is true or happens), you keep the stake, and, in addition, win $\$\left(\frac{x}{y}\cdot n\right)$.
 
 **Taking a bet** from someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if $E$ is false or does not happen, then you collect the $\$n$ stake. If $E$ actually is true or does happen, then you lose and pay $\$\left(\frac{x}{y}\cdot n\right)$.
 
