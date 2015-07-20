@@ -18,11 +18,18 @@ math: yes
 
 # Definition
 
-**Betting** someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if you lose ($E$ is false or does not happen), you pay the $\$n$ stake.  If you win ($E$ is true or happens), you keep the stake, and, in addition, win $\$\left(\frac{x}{y}\cdot n\right)$.
+**Betting** someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if you lose ($E$ is false or does not happen), you pay the $\$n$ stake.  If you win ($E$ is true or happens), you keep the stake, and, in addition, win $\$\left(\frac{x}{y}\cdot n\right)$. When $x>y$, . This means you "take the $y$ side", i.e. you .
 
 **Taking a bet** from someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if $E$ is false or does not happen, then you collect the $\$n$ stake. If $E$ actually is true or does happen, then you lose and pay $\$\left(\frac{x}{y}\cdot n\right)$.
 
-The above implies the following for the person *betting*: if they believe that the the probability of $E$ being true or happening is precisely $\frac{y}{x+y}$, then their expected profit following the bet is:
+The above implies the following for the person *betting*: if they believe that the the probability of $E$ being true or happening is $p$, then their expected profit following the bet is:
+
+$$
+    p\cdot \frac{x}{y}\cdot n - (1-p) \cdot n
+    = 0
+$$
+
+So if $p = \frac{y}{x+y}$ precisely, then their expected profit following the bet is:
 
 $$
     \frac{y}{x+y}\cdot \frac{x}{y}\cdot n - \frac{x}{x+y}\cdot n
