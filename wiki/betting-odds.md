@@ -91,3 +91,4 @@ links:
 - <http://www.texample.net/tikz/examples/probability-tree/>
 - <http://noahpinionblog.blogspot.com/2013/05/bets-do-not-necessarily-reveal-beliefs.html>
 - <http://econlog.econlib.org/archives/2013/05/keynesian_bets_1.html>
+- <https://www.facebook.com/yudkowsky/posts/10153293565909228>
