@@ -18,13 +18,9 @@ math: yes
 
 # Definition
 
-**Betting** someone that $E$ is true or happens with an odds of
-$x$-to-$y$ and a stake of $\$n$ means that if you lose ($E$ is false or
-does not happen), you pay the $\$n$ stake.  If you win ($E$ is true or
-happens), you keep the stake, and, in addition, win
-$\$\left(\frac{x}{y}\cdot n\right)$.
+**Betting** someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if you lose ($E$ is false or does not happen), you pay the $\$n$ stake.  If you win ($E$ is true or happens), you keep the stake, and, in addition, win $\$\left(\frac{x}{y}\cdot n\right)$.
 
-**Taking a bet** from someone
+**Taking a bet** from someone that $E$ is true or happens with an odds of $x$-to-$y$ and a stake of $\$n$ means that if $E$ is false or does not happen, then you collect the $\$n$ stake. If $E$ actually is true or does happen, then you lose and pay $\$\left(\frac{x}{y}\cdot n\right)$.
 
 The above implies the following for the person *betting*: if they believe that the the probability of $E$ being true or happening is precisely $\frac{y}{x+y}$, then their expected profit following the bet is:
 
@@ -39,13 +35,13 @@ $$
     -\frac{y}{x+y}\cdot \frac{x}{y} \cdot n + \frac{x}{x+y}\cdot n = 0
 $$
 
-In other words, if both sides of the bet believe in $E$ at the neutral probability derived from the betting odds, then neither stands to make a profit (in expectation). This is what Eliezer Yudkowsky means when [he says](https://www.facebook.com/yudkowsky/posts/10153293565909228):
+In other words, if both sides of the bet believe in $E$ at the neutral probability derived from the betting odds (i.e. they're betting at the stated odds), then neither stands to make a profit (in expectation). This is what Eliezer Yudkowsky means when [he says](https://www.facebook.com/yudkowsky/posts/10153293565909228):
 
 > Taking a bet at 99-1 does not mean I think the probability is 1%. It means I think the probability is enough less than 1% that I stand to make a profit even after adverse selection is taken into account. That is how betting is supposed to work.
 >
 > When good rationalists are virtuously betting with each other over a disagreement, neither should feel that they are betting at the true odds. If two people both think they are betting at the true odds, they must agree on the odds, so they must agree on the probability, so they must agree on the credibility, so what on Earth are they betting about?
 
-# Example
+# Example 1
 
 We take an example from Noah Smith's "[Bets do not (necessarily) reveal beliefs](http://noahpinionblog.blogspot.com/2013/05/bets-do-not-necessarily-reveal-beliefs.html)".
 
