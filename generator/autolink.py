@@ -30,6 +30,7 @@
 import argparse
 import sys
 import requests
+import urllib3
 from tld import get_tld
 from bs4 import BeautifulSoup
 
@@ -65,7 +66,7 @@ def try_url(url):
         else:
             result["text"] = get_markdown_link(get_link_text(url, response.headers["content-type"]), url)
         result["exit"] = True
-    except:
+    except (requests.exceptions.MissingSchema, requests.exceptions.ConnectionError, requests.exceptions.InvalidSchema, urllib3.exceptions.LocationParseError):
         result["text"] = "[{url}]({url})".format(url=url)
         result["exit"] = False
     return result
