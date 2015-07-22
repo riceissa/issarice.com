@@ -39,6 +39,21 @@ def main():
     parser.add_argument("url", type=str, help="the URL")
     args = parser.parse_args()
     url = args.url
+    attempt_1 = try_url(url)
+    if attempt_1["exit"]:
+        print(attempt_1["text"], end="")
+    else:
+        attempt_2 = try_url("http://" + url)
+        if attempt_2["exit"]:
+            print(attempt_2["text"], end="")
+        else:
+            print(attempt_1["text"], end="")
+
+def try_url(url):
+    '''
+    Return (Str, True) if succeeded; (Str, False) otherwise.
+    '''
+    result = {}
     try:
         response = requests.get(url, stream=True)
         url = response.url
@@ -46,9 +61,12 @@ def main():
         # <title> is probably in the first around 10MB
         doc = response.iter_content(chunk_size=10000)
         data = next(doc)
-        print(get_markdown_link(get_link_text(url, response.headers["content-type"], data=data), url), end="")
-    except requests.exceptions.MissingSchema:
-        print("[{url}]({url})".format(url=url), end="")
+        result["text"] = get_markdown_link(get_link_text(url, response.headers["content-type"], data=data), url)
+        result["exit"] = True
+    except:
+        result["text"] = "[{url}]({url})".format(url=url)
+        result["exit"] = False
+    return result
 
 def get_link_text(url, mime_type, data=None):
     '''
