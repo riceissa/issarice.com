@@ -57,11 +57,13 @@ def try_url(url):
     try:
         response = requests.get(url, stream=True)
         url = response.url
-
-        # <title> is probably in the first around 10MB
-        doc = response.iter_content(chunk_size=10000)
-        data = next(doc)
-        result["text"] = get_markdown_link(get_link_text(url, response.headers["content-type"], data=data), url)
+        if response.headers["content-type"] == "text/html":
+            # <title> is probably in the first around 10MB
+            doc = response.iter_content(chunk_size=10000)
+            data = next(doc)
+            result["text"] = get_markdown_link(get_link_text(url, response.headers["content-type"], data=data), url)
+        else:
+            result["text"] = get_markdown_link(get_link_text(url, response.headers["content-type"]), url)
         result["exit"] = True
     except:
         result["text"] = "[{url}]({url})".format(url=url)
