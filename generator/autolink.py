@@ -39,13 +39,16 @@ def main():
     parser.add_argument("url", type=str, help="the URL")
     args = parser.parse_args()
     url = args.url
-    response = requests.get(url, stream=True)
-    url = response.url
+    try:
+        response = requests.get(url, stream=True)
+        url = response.url
 
-    # <title> is probably in the first around 10MB
-    doc = response.iter_content(chunk_size=10000)
-    data = next(doc)
-    print(get_markdown_link(get_link_text(url, response.headers["content-type"], data=data), url), end="")
+        # <title> is probably in the first around 10MB
+        doc = response.iter_content(chunk_size=10000)
+        data = next(doc)
+        print(get_markdown_link(get_link_text(url, response.headers["content-type"], data=data), url), end="")
+    except requests.exceptions.MissingSchema:
+        print("[{url}]({url})".format(url=url), end="")
 
 def get_link_text(url, mime_type, data=None):
     '''
