@@ -1,23 +1,25 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+import argparse
+import sys
 import requests
 from tld import get_tld
 from bs4 import BeautifulSoup
 
 def main():
-    #url = "http://gwern.net/Spaced repetition"
-    #url = "http://gwern.net/Spaced%20repetition"
-    #url = "http://issarice.com/anecdote-story"
-    #url = "http://quora.com"
-    #url = "https://stackoverflow.com/questions/1695183/how-to-percent-encode-url-parameters-in-python"
-    url = "http://issarice.com/favicon.ico"
+    # See https://blog.quora.com/Launched-Customizable-Links for Quora's launch post
+    parser = argparse.ArgumentParser(description="Get the linked title of URLs (similar to Quora and Facebook)")
+    parser.add_argument("url", type=str, help="the URL")
+    args = parser.parse_args()
+    url = args.url
     response = requests.get(url, stream=True)
     url = response.url
 
     # <title> is probably in the first around 10MB
     doc = response.iter_content(chunk_size=10000)
-    print(get_markdown_link(get_link_text(url, response.headers["content-type"], data=next(doc)), url), end="")
+    data = next(doc)
+    print(get_markdown_link(get_link_text(url, response.headers["content-type"], data=data), url), end="")
 
 def get_link_text(url, mime_type, data=None):
     '''
