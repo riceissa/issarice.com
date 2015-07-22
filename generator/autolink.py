@@ -7,16 +7,17 @@ from bs4 import BeautifulSoup
 
 def main():
     #url = "http://gwern.net/Spaced repetition"
-    url = "http://quora.com"
+    #url = "http://gwern.net/Spaced%20repetition"
+    #url = "http://issarice.com/anecdote-story"
+    #url = "http://quora.com"
     #url = "https://stackoverflow.com/questions/1695183/how-to-percent-encode-url-parameters-in-python"
-    #url = "http://issarice.com/favicon.ico"
+    url = "http://issarice.com/favicon.ico"
     response = requests.get(url, stream=True)
+    url = response.url
 
-    print(response.headers['content-type'])
-    print(response.headers)
-
+    # <title> is probably in the first around 10MB
     doc = response.iter_content(chunk_size=10000)
-    print(get_markdown_link(get_link_text(url, response.headers["content-type"], data=next(doc)), url))
+    print(get_markdown_link(get_link_text(url, response.headers["content-type"], data=next(doc)), url), end="")
 
 def get_link_text(url, mime_type, data=None):
     '''
@@ -32,7 +33,6 @@ def get_link_text(url, mime_type, data=None):
         soup = BeautifulSoup(data, 'html.parser')
         try:
             if soup.title.string:
-                print("passed here")
                 result = soup.title.string
             else:
                 result = "Page on " + tld
@@ -40,7 +40,6 @@ def get_link_text(url, mime_type, data=None):
             result = "Page on " + tld
     if len(result) > 255:
         result = result[:253] + " …"
-    print(result)
     return result
 
 def get_markdown_link(link_text, url):
@@ -50,7 +49,8 @@ def escape_special_chars(string):
     '''
     Escape special characters for Pandoc markdown.
     '''
-    special_chars = "$\\*_%^#!" # lol incomplete
+    # From http://pandoc.org/README.html#backslash-escapes
+    special_chars = "\\`*_{}[]()>#+-.!"
     result = ""
     for c in string:
         if c in special_chars:
