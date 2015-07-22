@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 
 def main():
     #url = "http://gwern.net/Spaced repetition"
-    #url = "http://quora.com"
-    url = "https://stackoverflow.com/questions/1695183/how-to-percent-encode-url-parameters-in-python"
+    url = "http://quora.com"
+    #url = "https://stackoverflow.com/questions/1695183/how-to-percent-encode-url-parameters-in-python"
     #url = "http://issarice.com/favicon.ico"
     response = requests.get(url, stream=True)
 
@@ -22,21 +22,22 @@ def get_link_text(url, mime_type, data=None):
     '''
     Take URL, MIME type, and optional data to produce the link text.
     '''
-    result = ""
     tld = get_tld(url)
+    result = "File on " + tld
     if mime_type.startswith("image"):
         result = "Image on " + tld
     elif mime_type == "application/pdf":
         result = "PDF on " + tld
     elif "text/html" in mime_type:
         soup = BeautifulSoup(data, 'html.parser')
-        if soup.title.string:
-            print("passed here")
-            result = soup.title.string
-        else:
+        try:
+            if soup.title.string:
+                print("passed here")
+                result = soup.title.string
+            else:
+                result = "Page on " + tld
+        except AttributeError:
             result = "Page on " + tld
-    else:
-        result = "File on " + tld
     if len(result) > 255:
         result = result[:253] + " …"
     print(result)
