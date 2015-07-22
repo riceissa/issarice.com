@@ -57,7 +57,7 @@ def try_url(url):
     try:
         response = requests.get(url, stream=True)
         url = response.url
-        if response.headers["content-type"] == "text/html":
+        if  "text/html" in response.headers["content-type"]:
             # <title> is probably in the first around 10MB
             doc = response.iter_content(chunk_size=10000)
             data = next(doc)
@@ -81,16 +81,17 @@ def get_link_text(url, mime_type, data=None):
     elif mime_type == "application/pdf":
         result = "PDF on " + tld
     elif "text/html" in mime_type:
-        soup = BeautifulSoup(data, 'html.parser')
         try:
+            soup = BeautifulSoup(data, 'html.parser')
             if soup.title.string:
                 result = soup.title.string
             else:
                 result = "Page on " + tld
-        except AttributeError:
+        except:
             result = "Page on " + tld
     if len(result) > 255:
         result = result[:253] + " …"
+
     return result
 
 def get_markdown_link(link_text, url):
