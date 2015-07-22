@@ -75,8 +75,11 @@ def build_data(list_filepath):
     for filepath in list_filepath:
         page = Page(filepath)
         page.load_metadata()
-        list_page.append(page)
-        list_tag.extend(page.metadata["tags"])
+        # just ignore Japanese pages ... for now
+        if page.metadata['language'].lower() not in ["ja", "japanese",
+            "にほんご", "日本語"]:
+            list_page.append(page)
+            list_tag.extend(page.metadata["tags"])
     list_tag = list(set(list_tag))
     return (list_page, list_tag)
 
