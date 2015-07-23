@@ -85,7 +85,7 @@ def get_link_text(url, mime_type, data=None):
         try:
             soup = BeautifulSoup(data, 'html.parser')
             if soup.title.string:
-                result = soup.title.string
+                result = soup.title.string.strip()
             else:
                 result = "Page on " + tld
         except:
