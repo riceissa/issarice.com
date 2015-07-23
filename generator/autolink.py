@@ -93,6 +93,8 @@ def get_link_text(url, mime_type, data=None):
             else:
                 result = "Page on " + tld
         except AttributeError:
+            # Probably just empty title when trying to get
+            # soup.title.string
             result = "Page on " + tld
     if len(result) > 255:
         result = result[:253] + " …"
