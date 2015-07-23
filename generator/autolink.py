@@ -84,8 +84,12 @@ def get_link_text(url, mime_type, data=None):
     elif "text/html" in mime_type:
         try:
             soup = BeautifulSoup(data, 'html.parser')
-            if soup.title.string:
-                result = soup.title.string.strip()
+            meta = soup.find_all("meta")
+            possible = [i.get("content") for i in meta if i.get("property") == "og:title"]
+            if possible:
+                result = possible[0].strip()
+            elif soup.title.string:
+                result = messy_title_parse(soup.title.string)
             else:
                 result = "Page on " + tld
         except:
@@ -93,6 +97,22 @@ def get_link_text(url, mime_type, data=None):
     if len(result) > 255:
         result = result[:253] + " …"
 
+    return result
+
+def messy_title_parse(title):
+    # Even if nothing works, at least we'll have a whitespace-sanitized
+    # title
+    result = title.strip()
+    hyphen_split = result.split(" - ")
+    colon_split = result.split(": ")
+    if len(hyphen_split) > 1:
+        # So there is actually more than one part, so we just take the
+        # first and we're done.  This is for titles like "Post Title -
+        # Site Name"
+        result = hyphen_split[0]
+    elif len(colon_split) > 1:
+        # For titles like "Site Name: Post Title"
+        result = colon_split[-1]
     return result
 
 def get_markdown_link(link_text, url):
