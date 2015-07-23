@@ -16,9 +16,8 @@ def main():
         open_editor = False
         url = url[:-2]
     log_if_v("Downloading page ...")
-    page = run_command("wget -qO- {}".format(url))
-    title = run_command("""gawk -v IGNORECASE=1 -v RS='</title' 'RT{gsub(/.*<title[^>]*>/,"");print;exit}'""", pipe_in=page).strip()
-    log_if_v("Page downloaded and title parsed as {}".format(title))
+    autolink = run_command("autolink.py {}".format(url))
+    log_if_v("Page downloaded and autolinked as {}".format(autolink))
     datetime = run_command("date +'%Y-%m-%d at %I:%M %p'").strip()
     footer = "---"
     if not os.path.isfile("wiki/articles-read.md"):
@@ -36,7 +35,7 @@ def main():
         with open("wiki/articles-read.md", "w") as w:
             for line in original[:top_lines]:
                 w.write(line)
-            w.write(make_entry(datetime, url, title, "", footer=footer))
+            w.write(make_entry(datetime, autolink, "", footer=footer))
             for line in original[top_lines:]:
                 w.write(line)
         subprocess.call(["vim", "+{}".format(top_lines+7), "wiki/articles-read.md"])
@@ -46,7 +45,7 @@ def main():
         with open("wiki/articles-read.md", "w") as w:
             for line in original[:top_lines]:
                 w.write(line)
-            w.write(make_entry(datetime, url, title, body, footer=footer))
+            w.write(make_entry(datetime, autolink, body, footer=footer))
             for line in original[top_lines:]:
                 w.write(line)
         log_if_v("File written.")
@@ -71,23 +70,20 @@ def find_top_lines(lst):
 def slug(s):
     return slugify_unicode(s, to_lower=True)
 
-def make_entry(datetime, url, title, body, footer="---"):
+def make_entry(datetime, autolink, body, footer="---"):
     anchor = slug(datetime)
     template = '''
 
 *<a href="#{anchor}" id={anchor}>{datetime}</a>*
 
-[{title}]({url})
+{autolink}
 
 {body}
 
 {footer}
 
 '''
-    if title.strip() == "":
-        title = "Unavailable"
-    return (template.format(anchor=anchor, datetime=datetime, title=title,
-        url=url, body=body, footer=footer))
+    return (template.format(anchor=anchor, datetime=datetime, autolink=autolink, body=body, footer=footer))
 
 def log_if_v(text, log=True):
     if log:
