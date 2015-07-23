@@ -74,7 +74,7 @@ def make_entry(datetime, autolink, body, footer="---"):
     anchor = slug(datetime)
     template = '''
 
-*<a href="#{anchor}" id={anchor}>{datetime}</a>*
+*<a href="#{anchor}" id="{anchor}">{datetime}</a>*
 
 {autolink}
 
