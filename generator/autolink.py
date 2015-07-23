@@ -104,12 +104,15 @@ def messy_title_parse(title):
     # title
     result = title.strip()
     hyphen_split = result.split(" - ")
+    em_dash_split = result.split(" — ")
     colon_split = result.split(": ")
     if len(hyphen_split) > 1:
         # So there is actually more than one part, so we just take the
         # first and we're done.  This is for titles like "Post Title -
         # Site Name"
         result = hyphen_split[0]
+    elif len(em_dash_split) > 1:
+        result = em_dash_split[0]
     elif len(colon_split) > 1:
         # For titles like "Site Name: Post Title"
         result = colon_split[-1]
