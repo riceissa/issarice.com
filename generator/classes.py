@@ -207,8 +207,8 @@ def process_metadata(metadata, **kwargs):
         #if metadata["belief"] in ["possible", "unlikely",
             #"very unlikely", "remote", "impossible", "emotional"]:
             #metadata["belief"] = "log"
-    if "rss-description" not in metadata:
-        metadata["rss-description"] = ""
+    if "rss_description" not in metadata:
+        metadata["rss_description"] = ""
     if "language" not in metadata:
         metadata["language"] = "English"
     license = "UNKNOWN"
