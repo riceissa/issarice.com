@@ -201,7 +201,7 @@ def create_rss(list_page):
             "title": page.metadata["title"] + " ({})".format(
                 page.revision_date(string=False).strftime(
                 "%Y-%m-%d").strip()),
-            "description": page.metadata["rss_description"] if
+            "rss_description": page.metadata["rss_description"] if
                 "rss_description" in page.metadata else "",
             "slug": page.base(),
             "hashval": hashval,
@@ -211,6 +211,30 @@ def create_rss(list_page):
     final = feed_template.render(pages=pages,
         now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
     return Page(data=final, destination=SITE_DIRECTORY + "feed.xml")
+
+def create_atom(list_page):
+    print("Generating RSS feed")
+    env = Environment(loader=FileSystemLoader("."))
+    feed_template = env.get_template("templates/atom.xml")
+    list_page = sorted([i for i in list_page if i.revision_date()],
+        key=lambda t: t.revision_date(string=False), reverse=True)
+    for page in list_page:
+        hashstr = page.metadata["title"] + "|" + page.revision_date()
+        hashval = hashlib.sha1(hashstr.encode('utf-8')).hexdigest()
+        extra = {
+            "title": page.metadata["title"] + " ({})".format(
+                page.revision_date(string=False).strftime(
+                "%Y-%m-%d").strip()),
+            "slug": page.base(),
+            "hashval": hashval,
+            "date": page.revision_date(),
+        }
+        if page.metadata["_extra"]:
+            print("The '_extra' metadata field is reserved; overwriting")
+        page.metadata["_extra"] = extra
+    final = feed_template.render(pages=list_page,
+        now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
+    return Page(data=final, destination=SITE_DIRECTORY + "atom.xml")
 
 def create_aliases(list_page):
     '''
@@ -254,9 +278,9 @@ if __name__ == '__main__':
         compile_scss("standard")
         compile_scss("solarized_light")
         compile_scss("solarized_dark")
-        copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
-        copy_files(PRE_STATIC_DIRECTORY + "*",
-            SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
+        #copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
+        #copy_files(PRE_STATIC_DIRECTORY + "*",
+            #SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
         for page in create_pages(list_page):
             page.write()
         for page in create_tag_pages(list_page, list_tag):
