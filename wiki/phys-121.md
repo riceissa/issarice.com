@@ -141,8 +141,8 @@ to care whether you learned or not.  Here the atmosphere is just ...
 one of forced amnesia: pass through, go through the motions, then
 forget.
 
-It's actually shocking how *monumetally the university could fail at
-designing a decent intro physiscs sequence*.  Keep in mind, this is a
+It's actually shocking how *monumentally the university could fail at
+designing a decent intro physics sequence*.  Keep in mind, this is a
 university with [40,000 students], and the physics department, though not
 top-tier, is nonetheless considered *decent*.  It's just sad to think
 about the literally hundreds of students suffering through this sequence
