@@ -347,7 +347,7 @@ class Page(object):
         return "Page({})".format(self.origin.path.__repr__())
 
     def revision_date(self, string=True):
-        rev_date = self.metadata.get('last-major-revision-date', '')
+        rev_date = self.metadata.get('last_major_revision_date', '')
         if rev_date != '':
             date_obj = datetime.strptime(rev_date, '%Y-%m-%d')
             if string:
