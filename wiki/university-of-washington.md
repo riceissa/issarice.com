@@ -2,8 +2,8 @@
 title: University of Washington
 #description: none
 author: Issa Rice
-creation-date: 2014-12-29
-last-major-revision-date: 2014-12-29
+creation_date: 2014-12-29
+last_major-revision_date: 2014-12-29
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes

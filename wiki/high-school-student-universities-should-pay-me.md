@@ -1,8 +1,8 @@
 ---
 title: "High school student: “Universities should pay me.”"
 author: Issa Rice
-creation-date: 2014-11-02
-last-major-revision-date: 2014-11-02
+creation_date: 2014-11-02
+last_major-revision_date: 2014-11-02
 language: English
 status: mostly finished
 license: CC BY

@@ -2,8 +2,8 @@
 title: Content availability
 description: 
 author: Issa Rice
-creation-date: 2014-12-18
-last-major-revision-date: 2014-12-18
+creation_date: 2014-12-18
+last_major-revision_date: 2014-12-18
 language: English
 status: draft
 license: CC BY

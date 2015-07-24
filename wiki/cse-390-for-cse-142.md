@@ -2,8 +2,8 @@
 title: CSE 390 (for CSE 142)
 description: Course review of CSE 390 at the University of Washington
 author: Issa Rice
-creation-date: 2014-12-11
-last-major-revision-date: 2015-01-14
+creation_date: 2014-12-11
+last_major-revision_date: 2015-01-14
 language: English
 status: draft
 license: CC BY

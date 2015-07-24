@@ -2,8 +2,8 @@
 title: Cognito Mentoring
 #description: none
 author: Issa Rice
-creation-date: 2014-12-26
-last-major-revision-date: 2015-01-02
+creation_date: 2014-12-26
+last_major-revision_date: 2015-01-02
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: in progress

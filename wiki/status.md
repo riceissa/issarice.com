@@ -2,8 +2,8 @@
 title: Status
 rss_description: more polished version
 author: Issa Rice
-creation-date: 2014-12-22
-last-major-revision-date: 2015-06-29
+creation_date: 2014-12-22
+last_major-revision_date: 2015-06-29
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

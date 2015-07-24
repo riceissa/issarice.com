@@ -2,8 +2,8 @@
 title: God (disambiguation)
 #rss_description: 
 author: Issa Rice
-creation-date: 2015-07-15
-last-major-revision-date: 2015-07-15
+creation_date: 2015-07-15
+last_major-revision_date: 2015-07-15
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

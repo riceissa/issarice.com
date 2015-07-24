@@ -2,8 +2,8 @@
 title: Hiring and judging character
 #rss_description: 
 author: Issa Rice
-creation-date: 2015-06-21
-last-major-revision-date: 2015-06-21
+creation_date: 2015-06-21
+last_major-revision_date: 2015-06-21
 language: English
 status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"

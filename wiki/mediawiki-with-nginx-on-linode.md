@@ -2,8 +2,8 @@
 title: MediaWiki with nginx on Linode
 #rss_description: 
 author: Issa Rice
-creation-date: 2015-06-23
-last-major-revision-date: 2015-06-23
+creation_date: 2015-06-23
+last_major-revision_date: 2015-06-23
 language: English
 status: notes
 belief: possible

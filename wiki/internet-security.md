@@ -2,8 +2,8 @@
 title: Internet security
 #description: 
 author: Issa Rice
-creation-date: 2015-02-13
-last-major-revision-date: 2015-02-13
+creation_date: 2015-02-13
+last_major-revision_date: 2015-02-13
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

@@ -2,8 +2,8 @@
 title: List of analogies
 #description: 
 author: Issa Rice
-creation-date: 2015-02-17
-last-major-revision-date: 2015-02-17
+creation_date: 2015-02-17
+last_major-revision_date: 2015-02-17
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

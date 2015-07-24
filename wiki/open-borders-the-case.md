@@ -2,8 +2,8 @@
 title: "Open Borders: The Case"
 #description: 
 author: Issa Rice
-creation-date: 2015-02-19
-last-major-revision-date: 2015-02-19
+creation_date: 2015-02-19
+last_major-revision_date: 2015-02-19
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

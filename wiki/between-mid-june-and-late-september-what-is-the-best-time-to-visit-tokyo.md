@@ -2,8 +2,8 @@
 title: Between mid-June and late September, what is the best time to visit Tokyo?
 #rss_description: 
 author: Issa Rice
-creation-date: 2015-05-29
-last-major-revision-date: 2015-05-29
+creation_date: 2015-05-29
+last_major-revision_date: 2015-05-29
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

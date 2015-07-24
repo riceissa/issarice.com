@@ -2,8 +2,8 @@
 title: Longevity
 #description: 
 author: Issa Rice
-creation-date: 2015-02-04
-last-major-revision-date: 2015-02-04
+creation_date: 2015-02-04
+last_major-revision_date: 2015-02-04
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

@@ -2,8 +2,8 @@
 title: Open Borders from a cause prioritization viewpoint
 #description: none
 author: Issa Rice
-creation-date: 2014-12-28
-last-major-revision-date: 2014-12-28
+creation_date: 2014-12-28
+last_major-revision_date: 2014-12-28
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

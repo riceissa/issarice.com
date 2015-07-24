@@ -2,8 +2,8 @@
 title: Importance of having differently-aged peers
 description: 
 author: Issa Rice
-creation-date: 2014-11-11
-last-major-revision-date: 2014-11-11
+creation_date: 2014-11-11
+last_major-revision_date: 2014-11-11
 language: English
 status: draft
 license: CC BY

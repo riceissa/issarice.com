@@ -2,8 +2,8 @@
 title: Jargon
 #description: none
 author: Issa Rice
-creation-date: 2015-01-03
-last-major-revision-date: 2015-01-03
+creation_date: 2015-01-03
+last_major-revision_date: 2015-01-03
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

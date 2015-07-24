@@ -1,6 +1,6 @@
 ---
 title: Information regarding website source and page source
-last-major-revision-date: 2015-06-29
+last_major-revision_date: 2015-06-29
 tags: site-info
 license: CC0
 ---

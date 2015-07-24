@@ -2,8 +2,8 @@
 title: Pandoc
 description: 
 author: Issa Rice
-creation-date: 2014-10-31
-last-major-revision-date: 2014-10-31
+creation_date: 2014-10-31
+last_major-revision_date: 2014-10-31
 language: English
 status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"

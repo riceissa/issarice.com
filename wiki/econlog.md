@@ -2,8 +2,8 @@
 title: EconLog
 rss_description: some of my favorite Econlog posts
 author: Issa Rice
-creation-date: 2015-01-16
-last-major-revision-date: 2015-01-20
+creation_date: 2015-01-16
+last_major-revision_date: 2015-01-20
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

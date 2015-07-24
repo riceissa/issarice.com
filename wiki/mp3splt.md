@@ -2,8 +2,8 @@
 title: mp3splt
 #rss_description: 
 author: Issa Rice
-creation-date: 2015-07-22
-last-major-revision-date: 2015-07-22
+creation_date: 2015-07-22
+last_major-revision_date: 2015-07-22
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

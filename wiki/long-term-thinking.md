@@ -2,8 +2,8 @@
 title: Long-term thinking
 #description: none
 author: Issa Rice
-creation-date: 2015-01-12
-last-major-revision-date: 2015-01-12
+creation_date: 2015-01-12
+last_major-revision_date: 2015-01-12
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

@@ -2,7 +2,7 @@
 layout: default
 title: pLaTeX
 description: How to use platex to typeset Japanese documents (Debian Wheezy)
-last-major-revision-date: 
+last_major-revision_date: 
 license: cc0
 tags: japan, debian, latex, linux
 aliases: how-to-use-platex-to-typeset-japanese-documents

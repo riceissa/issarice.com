@@ -2,8 +2,8 @@
 title: Belief
 rss_description: add more of my own explanation
 author: Issa Rice
-creation-date: 2014-12-22
-last-major-revision-date: 2015-06-29
+creation_date: 2014-12-22
+last_major-revision_date: 2015-06-29
 language: English
 status: in progress
 belief: likely

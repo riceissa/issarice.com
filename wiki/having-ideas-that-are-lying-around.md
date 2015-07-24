@@ -2,8 +2,8 @@
 title: Having “ideas that are lying around”
 #description: none
 author: Issa Rice
-creation-date: 2014-12-27
-last-major-revision-date: 2014-12-27
+creation_date: 2014-12-27
+last_major-revision_date: 2014-12-27
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

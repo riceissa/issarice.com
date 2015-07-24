@@ -2,7 +2,7 @@
 title: Advice for young people
 rss_description: Added a quote by Raman Shah, among numerous other updates
 author: Issa Rice
-last-major-revision-date: 2015-05-02
+last_major-revision_date: 2015-05-02
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: draft

@@ -2,8 +2,8 @@
 title: “He said, she said”
 #description: 
 author: Issa Rice
-creation-date: 2015-02-22
-last-major-revision-date: 2015-02-22
+creation_date: 2015-02-22
+last_major-revision_date: 2015-02-22
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
