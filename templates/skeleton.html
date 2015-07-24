@@ -65,20 +65,20 @@
 <div id="content">
 <h1>{{ page.title }}</h1>
 
-{% if page.status or page.belief or page["creation-date"] or page["last_major-revision_date"] %}
+{% if page.status or page.belief or page["creation-date"] or page["last_major_revision_date"] %}
   <p>
-    {% if page["creation-date"] or page["last_major-revision_date"] %}
+    {% if page["creation-date"] or page["last_major_revision_date"] %}
       <em>
         {%- if page["creation-date"] -%}
           Created: {{ page["creation-date"] }}
         {%- endif -%}
-        {%- if page["last_major-revision_date"] and (page["last_major-revision_date"] != page["creation-date"]) -%}
+        {%- if page["last_major_revision_date"] and (page["last_major_revision_date"] != page["creation-date"]) -%}
           {%- if page["creation-date"] -%}
             ; l
           {%- else -%}
             L
           {%- endif -%}
-          ast major update: {{ page["last_major-revision_date"] }}
+          ast major update: {{ page["last_major_revision_date"] }}
         {%- endif -%}
       </em>
       {% if page.status or page.belief %}<br />{% endif %}
