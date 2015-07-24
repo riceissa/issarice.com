@@ -4,7 +4,7 @@ title: Setting up Jekyll on GitHub
 comments: "yes"
 disqus-id: 9dfd2e7767fc36827692b6a194433f1d96fe58d4
 math: "yes"
-last_major-revision_date: 2014-04-15
+last_major_revision_date: 2014-04-15
 license: "CC-BY"
 tags: jekyll, github, linux
 ---

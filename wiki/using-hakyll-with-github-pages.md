@@ -4,7 +4,7 @@ title: Using Hakyll with GitHub Pages
 comments: ""
 disqus-id: 
 math: ""
-last_major-revision_date: 2014-08-28
+last_major_revision_date: 2014-08-28
 license: "CC-BY"
 tags: haskell, hakyll, github, linux
 ---

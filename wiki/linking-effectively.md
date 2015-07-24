@@ -3,7 +3,7 @@ title: Linking effectively
 #description: none
 author: Issa Rice
 creation_date: 2015-01-03
-last_major-revision_date: 2015-07-05
+last_major_revision_date: 2015-07-05
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

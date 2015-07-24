@@ -2,7 +2,7 @@
 layout: default
 title: Linux tricks
 description: Miscellaneous tips and tricks for Linux
-#last_major-revision_date: 
+#last_major_revision_date: 
 license: "CC-BY"
 tags: linux, openbsd, debian
 aliases: other-command-line-notes, miscellaneous-tips-and-tricks

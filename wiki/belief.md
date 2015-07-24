@@ -3,7 +3,7 @@ title: Belief
 rss_description: add more of my own explanation
 author: Issa Rice
 creation_date: 2014-12-22
-last_major-revision_date: 2015-06-29
+last_major_revision_date: 2015-06-29
 language: English
 status: in progress
 belief: likely

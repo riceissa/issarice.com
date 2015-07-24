@@ -3,7 +3,7 @@ title: Good content
 #description: none
 author: Issa Rice
 creation_date: 2015-01-12
-last_major-revision_date: 2015-01-12
+last_major_revision_date: 2015-01-12
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes

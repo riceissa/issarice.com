@@ -3,7 +3,7 @@ title: Some thoughts on college education
 rss_description: new Quora answer
 author: Issa Rice
 creation_date: 2015-04-23
-last_major-revision_date: 2015-04-23
+last_major_revision_date: 2015-04-23
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

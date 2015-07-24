@@ -1,7 +1,7 @@
 ---
 title: Git
 description: A collection of useful/often-forgotten git commands
-last_major-revision_date: 
+last_major_revision_date: 
 license: "CC-BY"
 tags: git, linux
 aliases: git-commands, a-collection-of-often-forgotten-git-commands

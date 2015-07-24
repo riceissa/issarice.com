@@ -3,7 +3,7 @@ title: Music I like to listen to
 rss_description: some new names like Taylor Swift
 author: Issa Rice
 creation_date: 2014-12-20
-last_major-revision_date: 2015-07-11
+last_major_revision_date: 2015-07-11
 language: English
 status: notes
 license: CC0

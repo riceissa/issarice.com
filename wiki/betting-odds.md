@@ -3,7 +3,7 @@ title: Betting odds
 #description: 
 author: Issa Rice
 creation_date: 2015-01-27
-last_major-revision_date: 2015-07-20
+last_major_revision_date: 2015-07-20
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

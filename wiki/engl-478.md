@@ -3,7 +3,7 @@ title: ENGL 478
 #rss_description: 
 author: Issa Rice
 creation_date: 2015-06-11
-last_major-revision_date: 2015-07-13
+last_major_revision_date: 2015-07-13
 language: English
 status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"

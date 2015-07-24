@@ -3,7 +3,7 @@ title: Spring 2015 at the University of Washington
 #rss_description: 
 author: Issa Rice
 creation_date: 2015-07-09
-last_major-revision_date: 2015-07-09
+last_major_revision_date: 2015-07-09
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

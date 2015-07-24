@@ -3,7 +3,7 @@ title: In praise of dullness
 description: none
 author: Issa Rice
 creation_date: 2014-12-22
-last_major-revision_date: 2014-12-22
+last_major_revision_date: 2014-12-22
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

@@ -3,7 +3,7 @@ title: Content availability
 description: 
 author: Issa Rice
 creation_date: 2014-12-18
-last_major-revision_date: 2014-12-18
+last_major_revision_date: 2014-12-18
 language: English
 status: draft
 license: CC BY
