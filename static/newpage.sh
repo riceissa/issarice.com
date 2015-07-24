@@ -35,7 +35,7 @@ else
 ---
 title: $title
 #description: 
-#rss_description: 
+#feed_description: 
 author: Issa Rice
 creation_date: `date +'%Y-%m-%d'`
 last_major_revision_date: `date +'%Y-%m-%d'`
