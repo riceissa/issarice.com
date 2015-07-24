@@ -182,7 +182,7 @@ def create_sitemap(list_page=[], list_tag=[]):
     for page in list_page:
         body += sitemap_list.render(slug=page.base())
     for t in list_tag:
-        body += sitemap_list.render(slug="_tags/" + t)
+        body += sitemap_list.render(slug="_tags/" + slug(t))
     sitemap = env.get_template('templates/sitemap.xml')
     final = sitemap.render(body=body)
     return Page(data=final, destination=SITE_DIRECTORY + "sitemap.xml")
