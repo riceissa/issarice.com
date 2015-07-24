@@ -34,10 +34,11 @@ else
     cat <<EOF > $pagepath
 ---
 title: $title
-#rss-description: 
+#description: 
+#rss_description: 
 author: Issa Rice
-creation-date: `date +'%Y-%m-%d'`
-last-major-revision-date: `date +'%Y-%m-%d'`
+creation_date: `date +'%Y-%m-%d'`
+last_major_revision_date: `date +'%Y-%m-%d'`
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"
