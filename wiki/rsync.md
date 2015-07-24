@@ -34,5 +34,5 @@ uppdf() {
 Backup Linode:
 
 ```bash
-rsync -avz server:/var/www/ var/www/
+rsync -avz server:/var/www/ var/
 ```
