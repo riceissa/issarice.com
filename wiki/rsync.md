@@ -30,3 +30,9 @@ uppdf() {
     rsync --ignore-existing -vv $1 server:destination/
 }
 ```
+
+Backup Linode:
+
+```bash
+rsync -avz server:/var/www/ var/www/
+```
