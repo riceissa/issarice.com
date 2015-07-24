@@ -1,6 +1,6 @@
 ---
 title: EconLog
-rss-description: some of my favorite Econlog posts
+rss_description: some of my favorite Econlog posts
 author: Issa Rice
 creation-date: 2015-01-16
 last-major-revision-date: 2015-01-20

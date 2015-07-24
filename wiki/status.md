@@ -1,6 +1,6 @@
 ---
 title: Status
-rss-description: more polished version
+rss_description: more polished version
 author: Issa Rice
 creation-date: 2014-12-22
 last-major-revision-date: 2015-06-29

@@ -1,6 +1,6 @@
 ---
 title: Music I like to listen to
-rss-description: some new names like Taylor Swift
+rss_description: some new names like Taylor Swift
 author: Issa Rice
 creation-date: 2014-12-20
 last-major-revision-date: 2015-07-11

@@ -1,6 +1,6 @@
 ---
 title: Articles read
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 #creation-date: 2015-07-05
 #last-major-revision-date: 2015-07-05

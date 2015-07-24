@@ -1,6 +1,6 @@
 ---
 title: Some thoughts on college education
-rss-description: new Quora answer
+rss_description: new Quora answer
 author: Issa Rice
 creation-date: 2015-04-23
 last-major-revision-date: 2015-04-23

@@ -1,6 +1,6 @@
 ---
 title: Advice for young people
-rss-description: Added a quote by Raman Shah, among numerous other updates
+rss_description: Added a quote by Raman Shah, among numerous other updates
 author: Issa Rice
 last-major-revision-date: 2015-05-02
 language: English

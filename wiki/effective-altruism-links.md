@@ -1,6 +1,6 @@
 ---
 title: Effective altruism links
-rss-description: add criticisms
+rss_description: add criticisms
 author: Issa Rice
 creation-date: 2015-01-02
 last-major-revision-date: 2015-07-07

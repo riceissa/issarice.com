@@ -1,6 +1,6 @@
 ---
 title: Useful shell commands
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-07-11
 last-major-revision-date: 2015-07-11

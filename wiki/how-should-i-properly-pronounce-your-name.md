@@ -1,6 +1,6 @@
 ---
 title: How should I properly pronounce your name?
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-05-23
 last-major-revision-date: 2015-05-23

@@ -1,6 +1,6 @@
 ---
 title: PHYS 121
-rss-description: rant about the course
+rss_description: rant about the course
 author: Issa Rice
 creation-date: 2015-05-27
 last-major-revision-date: 2015-05-27

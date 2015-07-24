@@ -1,6 +1,6 @@
 ---
 title: God (disambiguation)
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-07-15
 last-major-revision-date: 2015-07-15

@@ -1,6 +1,6 @@
 ---
 title: Spring 2015 at the University of Washington
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-07-09
 last-major-revision-date: 2015-07-09

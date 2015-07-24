@@ -1,6 +1,6 @@
 ---
 title: What is it like to attend the Seattle Japanese School?
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-05-23
 last-major-revision-date: 2015-05-23

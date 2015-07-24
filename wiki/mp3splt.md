@@ -1,6 +1,6 @@
 ---
 title: mp3splt
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-07-22
 last-major-revision-date: 2015-07-22

@@ -1,6 +1,6 @@
 ---
 title: ENGL 478
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-06-11
 last-major-revision-date: 2015-07-13

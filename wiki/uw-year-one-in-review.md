@@ -1,6 +1,6 @@
 ---
 title: "UW: year one in review"
-#rss-description: 
+#rss_description: 
 author: Issa Rice
 creation-date: 2015-06-21
 last-major-revision-date: 2015-06-21
