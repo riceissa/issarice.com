@@ -97,7 +97,7 @@ more options and account names I use on various websites.
 
 # Photo
 
-I look like [this](identification-photo.jpg).
+I have [a photo](identification-photo.jpg) you can use to identify me.
 
 # Name
 
