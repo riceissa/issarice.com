@@ -15,5 +15,5 @@ tags: uw
 ---
 
 I began attending the University of Washington (UW) starting in autumn 2014.
-I intend to major in computer science.
+I am majoring in computer science.
 For all pages on UW, see [the tags page on UW](_tags/university-of-washington).
