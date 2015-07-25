@@ -55,6 +55,7 @@ In addition to the things listed above, I can attribute various other positive c
 
 
 - Although I did not get direct admission to the computer science department at the University of Washington (as alluded in the review), I still chose to switch my intended major from pure math to computer science.
+At the end of my first year at University of Washington, I applied to the computer science major and was admitted.
 I expect this to make somewhat of a difference in the long run (regarding financial stability, mostly).
 
 - The review only mentions the information I gained from [Quora]().
