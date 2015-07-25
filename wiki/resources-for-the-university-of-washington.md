@@ -26,8 +26,9 @@ Note that even if you’re not logged in on Quora, adding `/?share=1` to the end
 
 - The [University of Washington topic on Quora](https://www.quora.com/University-of-Washington) has a lot of information; in fact, most of the content linked to on this page is from here.
 
-
 - [Anonymous's Answer to University of Washington: What does your "Your Content" page for the University of Washington topic look like?](https://www.quora.com/University-of-Washington/What-does-your-Your-Content-page-for-the-University-of-Washington-topic-look-like/answers/5867915) has a lot of questions and answers.
+
+- The UW subreddit, [/r/udub](https://www.reddit.com/r/udub/), has a lot of helpful information. Most of it is just a stream of questions (most of which won't concern you), though; for more "deliberate" content, I recommend checking out the [wiki](https://www.reddit.com/r/udub/wiki/index).
 
 # General
 
