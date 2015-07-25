@@ -75,10 +75,9 @@ education system.
 [^japan]: I lived in Japan for six years.  You can find some locations
 [here](https://www.quora.com/Issa-Rice/about).
 
-I am also currently a first-year student at University of Washington
-(UW) in Seattle, WA, USA.  My intended major is computer science, but
-I’m also highly interested in mathematics, and am looking into physics,
-astronomy, and the atmospheric sciences as well.  I am continually
+I am also currently a second-year student at University of Washington
+(UW) in Seattle, WA, USA.  My major is computer science, but
+I’m also highly interested in mathematics.  I am continually
 conscious that the most important work I can do may not yet exist as a
 career; as such I want to adopt “a more wary attitude where I try, at
 each stage, to equip myself best for the present and the immediate
