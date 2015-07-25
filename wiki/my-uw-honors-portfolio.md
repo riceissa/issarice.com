@@ -21,7 +21,7 @@ This is my (Issa Rice's) UW honors portfolio index.
 
 In many ways, my first quarter at the University of Washington was as expected.
 By this, I mean that my long- and medium-term goals have only shifted negligibly; in other words, I did not have a "college freshman epiphany".
-My intended major of study is still computer science, and my course plan is still very much centered around fulfilling prerequisites to apply for the major.
+My intended major of study is still computer science^[As of summer 2015, I was admitted to the major.], and my course plan is still very much centered around fulfilling prerequisites to apply for the major.
 However, the curriculum planning assignment did get me to look more closely at the available courses, so my plan did become more concrete over a longer period (i.e. prior to the assignment, my curriculum was only concrete for this year, but now I at least have a (crude) "fallback plan" for the following three years as well).
 
 I suppose one thing that is surprising is that although my network of friends has expanded meaningfully and significantly this quarter, this was mostly done through untraditional ways.
