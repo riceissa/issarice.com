@@ -1,6 +1,7 @@
 ---
 title: Resources for the University of Washington
 description: resources that may be of use to present and future students at the University of Washington
+feed_description: "incorporate resources from /r/udub"
 tags: university-of-washington, school, links, computer-science, math, chemistry, physics, astronomy, atmospheric-sciences, networking, research, self-improvement
 author: 
 creation_date: 2014-09-13
