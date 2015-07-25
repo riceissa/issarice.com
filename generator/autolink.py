@@ -56,7 +56,9 @@ def try_url(url):
     '''
     result = {}
     try:
-        response = requests.get(url, stream=True)
+        user_agent = "Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0 Iceweasel/31.5.0"
+        headers = {"User-Agent": user_agent}
+        response = requests.get(url, stream=True, headers=headers)
         url = response.url
         if  "text/html" in response.headers["content-type"]:
             # <title> is probably in the first around 10MB
