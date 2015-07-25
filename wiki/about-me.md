@@ -63,7 +63,7 @@ contributions][cm cont].
 
 Ambivalence about Japan is also an important part of me[^japan]; see
 Nobel laureate [Ōe Kenzaburō’s speech][oe speech] on the topic.  I do
-like the language and its literature, and am fascinated by certain
+like the language and some of its literature and [music](!w Fishmans), and am fascinated by certain
 aspects of Japanese society (like [hikikomori](!w) and the [decline in
 traditional romantic relationships][japan sex]), but cannot stand for
 instance its emphasis on deference to authority, nor can I tolerate its
