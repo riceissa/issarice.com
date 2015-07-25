@@ -276,6 +276,8 @@ See also Denise Schmitz's answer [here](https://www.quora.com/What-is-it-like-to
 
 - [Alex K. Chen’s answer to What are some good websites and resources to learn about astronomy/astrophysics?](https://www.quora.com/What-are-some-good-websites-and-resources-to-learn-about-astronomy-astrophysics/answers/604575)
 
+- [phys\-12x](https://www.reddit.com/r/udub/wiki/phys-12x) on /r/udub
+
 # Math
 
 - This question on Quora currently does not have extensive answers, but this may change in the future: [Why is applied math at the University of Washington top 10 in the nation while pure math is not even close to that?](https://www.quora.com/University-of-Washington/Why-is-applied-math-at-the-University-of-Washington-top-10-in-the-nation-while-pure-math-is-not-even-close-to-that)
