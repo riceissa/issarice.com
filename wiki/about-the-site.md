@@ -17,7 +17,7 @@ Content]()---i.e. the goal is to incrementally update the pages so as to
 produce useful, lasting content.[^cy] In particular, I strive to make
 all the source files used to produce this site human-readable (by
 writing pages in [Pandoc] markdown), version-controlled (with git), and
-freely-licensed (all pages are at least [CC-BY], with some in the public
+freely-licensed (all pages are *at least* [CC-BY], with some in the public
 domain[^copy]; the [software used to make this site](#colophon) is all
 free software).  I also like to [release early, release often][rero]; I
 actually don't deploy the site as often, but I try to commit to the git
@@ -39,7 +39,7 @@ repository often---so my site is the result of many incremental updates.
     In this case, this site would just be my attempt to "be cool",
     instead of serving useful content.
 
-[^copy]: So content will be copied, making the data safe.
+[^copy]: So content will be copied, making the data safe; "lots of copies keep stuff safe", etc.
 
 Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](./using-a-tree-structure-for-websites) of this site.
 
