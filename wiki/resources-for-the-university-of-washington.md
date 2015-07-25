@@ -174,7 +174,7 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 Unfortunately most of these questions don't have any answers yet, but they all have the potential to become useful resources in the future, so I will still put them here.
 
-- Eventually see [What University of Washington dorm is the best to live in, and why?](https://www.quora.com/What-University-of-Washington-dorm-is-the-best-to-live-in-and-why); at the moment there aren't any answers there (2014-05-27); closely related is [Do the University of Washington dorms have personalities associated with them?](https://www.quora.com/University-of-Washington/Do-the-University-of-Washington-dorms-have-personalities-associated-with-them).
+- See [What University of Washington dorm is the best to live in, and why?](https://www.quora.com/What-University-of-Washington-dorm-is-the-best-to-live-in-and-why); closely related is [Do the University of Washington dorms have personalities associated with them?](https://www.quora.com/University-of-Washington/Do-the-University-of-Washington-dorms-have-personalities-associated-with-them).
 
 - [What is it like to live in Alder Hall?](https://www.quora.com/University-of-Washington/What-is-it-like-to-live-in-Alder-Hall)
 
