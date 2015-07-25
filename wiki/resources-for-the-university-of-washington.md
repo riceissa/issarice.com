@@ -18,8 +18,8 @@ This will hopefully change in the future as more people contribute their knowled
 [^anec]: I have often done this and have gotten a lot of useful information.
 
 Please [let me know](contact) if there are any other good resources or if there are mistakes (e.g. broken links) here.
-I also have a mirror of this [on Quora](https://riceissa.quora.com/Resources-for-UW), so feel free to suggest edits on there, which can then be transferred to here.
-This page is also hosted on GitHub, so feel free to send corrections using pull requests.
+I also have a mirror of this page [on Quora](https://riceissa.quora.com/Resources-for-UW) (but I will only update the content here), so feel free to suggest edits on there, which can then be transferred to here.
+This page is also [hosted on GitHub](https://github.com/riceissa/issarice.com/blob/master/wiki/resources-for-the-university-of-washington.md) like the rest of this site, so feel free to send corrections using pull requests.
 
 Note that even if you’re not logged in on Quora, adding `/?share=1` to the end of the URL allows you to view *all* answers, not just the first one.
 
@@ -318,3 +318,7 @@ By now Quora might be the best source for information, although I'm not really k
 
 - Brian Tomasik advises that [in general, one should not get a PhD](http://reducing-suffering.org/advice-students-earning-give/#In_general_Don8217t_get_a_PhD).
 He discusses computer science especially (with links to more blog posts).
+
+# External links
+
+- [Mirror of this page on Quora](https://riceissa.quora.com/Resources-for-UW) (might have comments in the future)
