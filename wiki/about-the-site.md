@@ -14,14 +14,14 @@ aliases: about-this-site, site
 
 This site is my attempt to realize [gwern]’s idea of [Long
 Content]()---i.e. the goal is to incrementally update the pages so as to
-produce useful, lasting content.[^cy] In particular, I strive to make
+produce useful, lasting content.[^cy] It is also an [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts. In particular, I strive to make
 all the source files used to produce this site human-readable (by
 writing pages in [Pandoc] markdown), version-controlled (with git), and
 freely-licensed (all pages are *at least* [CC-BY], with some in the public
 domain[^copy]; the [software used to make this site](#colophon) is all
 free software).  I also like to [release early, release often][rero]; I
 actually don't deploy the site as often, but I try to commit to the git
-repository often---so my site is the result of many incremental updates.
+repository often---so my site is the result of many incremental updates^[talk about Aaron Swarts].
 
 [gwern]: http://gwern.net
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
