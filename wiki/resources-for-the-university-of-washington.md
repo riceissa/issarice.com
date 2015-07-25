@@ -225,6 +225,7 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 
 - [How hard is it to get into the CSE program at University of Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
 
+- See also [UW CSE FAQ](https://www.reddit.com/r/udub/wiki/cse-faq) and [How can I succeed in CSE 142/143?](https://www.reddit.com/r/udub/wiki/cse-14x-faq) on /r/udub.
 
 - [What do UW CSE students wish they had known when they were new to the major?](https://www.quora.com/What-do-UW-CSE-students-wish-they-had-known-when-they-were-new-to-the-major)
 
@@ -235,7 +236,8 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 - For classes, see:
 [What is it like taking CSE 142 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-taking-CSE-142-at-the-University-of-Washington),
 [What is it like to take CSE 143 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-take-CSE-143-at-the-University-of-Washington), and
-[What is it like to take the honors CSE 142/143 seminar (CSE 390) at the University of Washington?](https://www.quora.com/What-is-it-like-to-take-the-honors-CSE-142-143-seminar-CSE-390-at-the-University-of-Washington)
+[What is it like to take the honors CSE 142/143 seminar (CSE 390) at the University of Washington?](https://www.quora.com/What-is-it-like-to-take-the-honors-CSE-142-143-seminar-CSE-390-at-the-University-of-Washington).
+There are also more questions like these on Quora.
 
 
 # Atmospheric science
