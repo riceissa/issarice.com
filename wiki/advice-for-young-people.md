@@ -705,6 +705,7 @@ can learn a lot about the most exciting things that are happening.
     - Peter Thiel
     - **[AARON SWARTZ](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)**; READ ALL OF HIS BLOG
     - Paul Graham
+    - Mark Zuckerberg; e.g. [Mark Zuckerberg at Startup School 2013](https://www.youtube.com/watch?v=MGsalg2f9js) is pretty good.
     - Michael O. Church
     - **Alex K. Chen**
     - **Vipul Naik**
@@ -720,7 +721,9 @@ can learn a lot about the most exciting things that are happening.
     - Terence Tao
     - Tim Gowers
     - Eliezer Yudkowsky
-    - Holden Karnofsky
+    - Holden Karnofsky (see his GiveWell blog posts as well as his Harvard reunion speech in 2013)
+    - Carl Shulman
+    - Brian Tomasik (his essays on reducing suffering and some other stuff)
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
