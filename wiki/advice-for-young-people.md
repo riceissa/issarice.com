@@ -1,5 +1,6 @@
 ---
 title: Advice for young people
+description: 'my attempt at a "true liberal arts education"'
 rss_description: Added a quote by Raman Shah, among numerous other updates
 author: Issa Rice
 last_major_revision_date: 2015-05-02
