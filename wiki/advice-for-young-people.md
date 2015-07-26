@@ -705,7 +705,7 @@ can learn a lot about the most exciting things that are happening.
     - Peter Thiel
     - **[AARON SWARTZ](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)**; READ ALL OF HIS BLOG
     - Paul Graham
-    - Mark Zuckerberg; e.g. [Mark Zuckerberg at Startup School 2013](https://www.youtube.com/watch?v=MGsalg2f9js) is pretty good.
+    - Mark Zuckerberg; e.g. [Mark Zuckerberg at Startup School 2013](https://www.youtube.com/watch?v=MGsalg2f9js) is pretty good. Also read Kirkpatrick's book.
     - Michael O. Church
     - **Alex K. Chen**
     - **Vipul Naik**
