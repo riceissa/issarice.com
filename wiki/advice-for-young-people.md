@@ -551,12 +551,11 @@ reading it." (Emphasis removed, since it was over the whole quote.)
   instrument, becoming a club leader, etc., are the best use of one's
   extracurricular time, or even *necessary* to ensure success in college
   applications, etc.)
-
 - If one wants to attend an elite college (and there are quite a few
   good reasons for doing so), then following this path may be a good
   idea (though still, it's always important to distinguish oneself)
-
-
+- That said, basically most of the extracurriculars people do in high school are essentially useless in terms of building long-term skills and value.
+- It might sound nice to be "the best at something", but really, is all the work really worth it? A top contest math student might well [spend 1000 to 2000 hours](https://www.quora.com/How-much-time-does-the-average-USAMO-qualifier-spend-preparing-specifically-for-math-contests) preparing for contests, but is all the work really worth it in the end? It's always instructive to ask yourself: is there something I can do that is both fulfilling *and* important for the world (actually produces value)? Examples might include: doing research (especially online content creation, e.g. adding to [Wikipedia]()) and programming (especially writing free software).
 
 # Doing something important
 
