@@ -709,7 +709,7 @@ can learn a lot about the most exciting things that are happening.
     - Michael O. Church
     - **Alex K. Chen**
     - **Vipul Naik**
-    - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/).
+    - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/)".
     - [Raman Shah](https://www.quora.com/Raman-Shah)
     - Inna Vishik
     - Andrew Ho
