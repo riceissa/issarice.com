@@ -833,7 +833,7 @@ opportunity cost of college.
 
 - "[To Fall in Love With Anyone, Do This](http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html)" and "[The 36 Questions That Lead to Love](http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html)"
 
-- <http://www.nytimes.com/2013/09/17/opinion/let-the-poor-have-fun.html>
+- [Let the Poor Have Fun](http://www.nytimes.com/2013/09/17/opinion/let-the-poor-have-fun.html?_r=0)
 
 - "[BuzzFeed doesn't need 'trust' to win the Internet](http://exp.issarice.com/buzzfeed.html)"
 
@@ -858,5 +858,5 @@ opportunity cost of college.
 
         [rom]: http://causeprioritization.org/Romance
 
-- <https://www.psychologytoday.com/articles/200703/trashing-teens>
+- [Trashing Teens](https://www.psychologytoday.com/articles/200703/trashing-teens)
 
