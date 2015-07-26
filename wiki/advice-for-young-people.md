@@ -48,7 +48,7 @@ arts education**. As such, you should expect it to take several years to actuall
 
 [CM_wiki]: http://info.cognitomentoring.org/wiki/Main_Page
 
-Feel free to [connect with me](./about-me#contact) if you have questions
+Feel free to [connect with me](contact) if you have questions
 or just want to talk to me; in particular, if you're in the Seattle area
 I can even meet up with you[^uw].
 
