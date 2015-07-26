@@ -712,7 +712,7 @@ can learn a lot about the most exciting things that are happening.
     - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/)".
     - [Raman Shah](https://www.quora.com/Raman-Shah)
     - Inna Vishik
-    - Andrew Ho
+    - [Andrew Ho](http://www.andrewjho.me/blog/)
     - gwern
     - Mencius Moldbug
     - Scott Alexander
