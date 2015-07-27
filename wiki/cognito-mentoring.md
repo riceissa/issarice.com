@@ -1,9 +1,9 @@
 ---
 title: Cognito Mentoring
-#description: none
+description: update CS major and Quora stats
 author: Issa Rice
 creation_date: 2014-12-26
-last_major_revision_date: 2015-01-02
+last_major_revision_date: 2015-07-27
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: in progress
@@ -59,11 +59,8 @@ At the end of my first year at University of Washington, I applied to the comput
 I expect this to make somewhat of a difference in the long run (regarding financial stability, mostly).
 
 - The review only mentions the information I gained from [Quora]().
-However, since the time when I wrote the review, I have become a contributor to Quora as well, writing [over 60 answers](https://www.quora.com/Issa-Rice/answers) and asking more than 2400 questions[^questions].
+However, since the time when I wrote the review, I have become a contributor to Quora as well, writing [over 80 answers](https://www.quora.com/Issa-Rice/answers) and asking [more than 3000 questions](https://www.quora.com/Issa-Rice/questions) (as of July 2015).
 If I hadn't been shown the utility of Quora by CM, these contributions would either not have happened, or would have happened at a later point in time.
-
-[^questions]: Quora introduced their "Want Answers" "feature" a while ago, so now it is impossible to find a list of all my questions.
-My [questions tab](https://www.quora.com/Issa-Rice/questions) contains both questions I've asked and followed.
 
 - My decision to join Facebook was motivated by CM.
 I have since been rather active on the site, [posting links to various articles](https://www.facebook.com/riceissa) and contributing to groups like the [Effective Altruists Facebook group](https://www.facebook.com/groups/effective.altruists/).
