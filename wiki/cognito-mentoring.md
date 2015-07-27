@@ -18,7 +18,7 @@ This page describes my relation to [Cognito Mentoring](http://cognitomentoring.o
 I originally saw the [post on Less Wrong that Jonah Sinick made](http://lesswrong.com/lw/jee/cognito_mentoring_an_advising_service_for/), and emailed CM for the first time on January 1, 2014.
 I was too intimidated to contact them on my own, so I asked a friend to contact them as well; we ended up reviewing each other's emails before sending them off[^ab].
 
-[^ab]: I later found out that Jonah and Vipul thought my friend and I were a single person trying to A/B test CM(!).
+[^ab]: I later found out that Jonah and Vipul thought my friend and I were a single person trying to A/B test CM!
 
 CM and I then exchanged around 20 emails, mostly about college and major selection (since at the time I was in my final year of high school).
 Sometime around the beginning of March 2014, I responded to the survey put out by CM about how well they did in helping me.
