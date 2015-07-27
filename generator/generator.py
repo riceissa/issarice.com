@@ -278,9 +278,9 @@ if __name__ == '__main__':
         compile_scss("standard")
         compile_scss("solarized_light")
         compile_scss("solarized_dark")
-        #copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
-        #copy_files(PRE_STATIC_DIRECTORY + "*",
-            #SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
+        copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
+        copy_files(PRE_STATIC_DIRECTORY + "*",
+            SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
         for page in create_pages(list_page):
             page.write()
         for page in create_tag_pages(list_page, list_tag):
