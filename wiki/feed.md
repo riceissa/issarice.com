@@ -3,7 +3,7 @@ title: Feed
 #description: none
 author: Issa Rice
 creation_date: 2015-01-14
-last_major_revision_date: 2015-01-14
+last_major_revision_date: 2015-07-27
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes
@@ -13,6 +13,9 @@ language: English
 license: CC-BY
 tags: site
 ---
+
+*This page is about the Atom and RSS feeds for this website.
+If you're looking for specific social media feeds, head over to my pages on [Facebook]() or [Quora](); see also my [Contact]() page, where you'll find a list of my various social media accounts.*
 
 I have an [RSS feed](feed.xml) for this website where you can get updates (this is probably the best way to get updates, since it includes only the more important changes).
 
