@@ -1,6 +1,6 @@
 ---
 title: Hiring and judging character
-#rss_description: 
+#feed_description: 
 author: Issa Rice
 creation_date: 2015-06-21
 last_major_revision_date: 2015-06-21

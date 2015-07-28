@@ -1,6 +1,6 @@
 ---
 title: Keyhole solution
-#rss_description: 
+#feed_description: 
 author: Issa Rice
 creation_date: 2015-04-25
 last_major_revision_date: 2015-04-25

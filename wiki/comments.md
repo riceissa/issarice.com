@@ -1,6 +1,6 @@
 ---
 title: Comments
-rss_description: more thoughts
+feed_description: more thoughts
 author: Issa Rice
 creation_date: 2014-12-30
 last_major_revision_date: 2015-05-16
