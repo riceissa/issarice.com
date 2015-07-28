@@ -16,7 +16,7 @@
 SITE_DIRECTORY = "_site/"
 SITE_PAGES_DIRECTORY = "" # "" will make it the same as SITE_DIRECTORY
 PRE_PAGES_DIRECTORY = "wiki/"
-PRE_PAGES_GLOB = "c*.md"
+PRE_PAGES_GLOB = "*.md"
 # Tags are pulled from the pages themselves, so they won't have a "PRE_"
 # equivalent
 SITE_TAGS_DIRECTORY = "_tags/"
@@ -31,4 +31,5 @@ SITE_STATIC_DIRECTORY = "_static/"
 # Pages that are automatically generated
 ALL_PAGES_PAGE_LOCATION = "_all"
 SITEMAP_LOCATION = "sitemap.xml"
-RSS_FEED_LOCATION = "feed.xml"
+RSS_FEED_LOCATION = "rss.xml"
+ATOM_FEED_LOCATION = "atom.xml"

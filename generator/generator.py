@@ -188,7 +188,7 @@ def create_sitemap(list_page=[], list_tag=[]):
     final = sitemap.render(body=body)
     return Page(data=final, destination=SITE_DIRECTORY + "sitemap.xml")
 
-def create_rss(list_page):
+def create_rss(list_page, loc=RSS_FEED_LOCATION):
     print("Generating RSS feed")
     env = Environment(loader=FileSystemLoader('.'))
     feed_template = env.get_template('templates/rss.xml')
@@ -210,7 +210,7 @@ def create_rss(list_page):
         }
         pages.append(metadata)
     final = feed_template.render(pages=pages, now=get_date(datetime.now(), fmt="rfc822"))
-    return Page(data=final, destination=SITE_DIRECTORY + "feed.xml")
+    return Page(data=final, destination=SITE_DIRECTORY + loc)
 
 def create_atom(list_page):
     print("Generating Atom feed")
@@ -276,9 +276,9 @@ if __name__ == '__main__':
         compile_scss("standard")
         compile_scss("solarized_light")
         compile_scss("solarized_dark")
-        #copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
-        #copy_files(PRE_STATIC_DIRECTORY + "*",
-            #SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
+        copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
+        copy_files(PRE_STATIC_DIRECTORY + "*",
+            SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
         for page in create_pages(list_page):
             page.write()
         for page in create_tag_pages(list_page, list_tag):
@@ -289,4 +289,6 @@ if __name__ == '__main__':
             page.write()
         create_sitemap(list_page, list_tag).write()
         create_rss(list_page).write()
+        # For backwards-compatibility
+        create_rss(list_page, "feed.xml").write()
         create_atom(list_page).write()
