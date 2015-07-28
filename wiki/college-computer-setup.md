@@ -19,6 +19,8 @@ tags: uw, computing
 #aliases: 
 ---
 
+<!--- lol, bad writing ahead! proceed with caution -->
+
 Over the course of my first year at [University of Washington](), my computer setup changed a few times, so I thought I'd talk about them here (since it might help others decide on how to approach their own college computer setup).
 
 Before college, I didn't have a fast laptop computer; my main machine actually was an Acer laptop but its screen was broken so in order to use it I had to connect it to an external monitor! I didn't want to take this machine to my dorm room because I knew it would be a pain to setup, and also I still wanted a computer to use at home.
@@ -35,4 +37,12 @@ Due to some complications with building the machine though^[A defective motherbo
 So for the first few weeks (?) I didn't really have a computer in college (this wasn't *really* a problem though, in terms of doing coursework: most of the homework was due each week so I could just e.g. do math problems on paper and LaTeX them over the weekend).
 
 Later, I had begun working with a friend in a UW library each week to do some extra CS learning.
-This, of course, 
+This, of course, required having a device on which I could program that was portable.
+No problem, I decided to buy a Google Nexus 7 tablet, and then connect to a Linode machine in the cloud that had everything already setup.
+I could even buy a Bluetooth keyboard because Vim on a touchscreen didn't sound like fun.
+Well, this worked for a while, except the Bluetooth keyboard wasn't that great to type on, and *constantly* depending on WiFi to connect to Linode wasn't that great either (although UW does provide WiFi everywhere).
+This setup, where I would take the tablet and phone around during the day and then work on my desktop in my dorm room, lasted for most of the year.
+Part of why I didn't change earlier was that most classes continued to not really require a laptop; we never programmed in class or anything and all I needed was a browser, which the tablet adequeately supplied.
+Even when studying with my friend, a lot of the time we'd just be reading an doing problems on paper, so being able to program wasn't *that* important.
+
+In spring quarter though, I finally got a Thinkpad x220^[Two friends independently suggested I get this machine!], which was great timing because having an actual mobile machine to program on was important for [ATM S 559]().
