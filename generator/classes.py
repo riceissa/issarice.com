@@ -346,14 +346,17 @@ class Page(object):
     def __repr__(self):
         return "Page({})".format(self.origin.path.__repr__())
 
-    def revision_date(self, string=True):
+    def revision_date(self, fmt=None):
+        '''
+        Return the last major revision date of the page. Takes format
+        fmt, which accepts None (return as object), "rfc822" (RSS 2.0),
+        "rfc3339" (Atom), or any valid strftime format. Return None if
+        no last major revision date is set.
+        '''
         rev_date = self.metadata.get('last_major_revision_date', '')
-        if rev_date != '':
+        if rev_date:
             date_obj = datetime.strptime(rev_date, '%Y-%m-%d')
-            if string:
-                return date_obj.strftime("%a, %d %b %Y %H:%M:%S %z").strip()
-            else:
-                return date_obj
+            return get_date(date_obj, fmt=fmt)
 
 @Route
 def drop_one_parent_dir_route(filepath):

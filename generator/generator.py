@@ -34,6 +34,7 @@ import os
 from datetime import datetime
 import hashlib
 import shutil
+import time
 
 from classes import *
 from tag_ontology import *
@@ -192,48 +193,45 @@ def create_rss(list_page):
     env = Environment(loader=FileSystemLoader('.'))
     feed_template = env.get_template('templates/rss.xml')
     list_page = sorted([i for i in list_page if i.revision_date()],
-        key=lambda t: t.revision_date(string=False), reverse=True)
+        key=lambda t: t.revision_date(), reverse=True)
     pages = []
     for page in list_page:
-        hashstr = page.metadata["title"] + "|" + page.revision_date()
+        hashstr = page.metadata["title"] + "|" + page.revision_date(fmt="%Y-%m-%d")
         hashval = hashlib.sha1(hashstr.encode('utf-8')).hexdigest()
         metadata = {
             "title": page.metadata["title"] + " ({})".format(
-                page.revision_date(string=False).strftime(
+                page.revision_date().strftime(
                 "%Y-%m-%d").strip()),
             "rss_description": page.metadata["rss_description"] if
                 "rss_description" in page.metadata else "",
             "slug": page.base(),
             "hashval": hashval,
-            "date": page.revision_date(),
+            "date": page.revision_date(fmt="rfc822"),
         }
         pages.append(metadata)
-    final = feed_template.render(pages=pages,
-        now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
+    final = feed_template.render(pages=pages, now=get_date(datetime.now(), fmt="rfc822"))
     return Page(data=final, destination=SITE_DIRECTORY + "feed.xml")
 
 def create_atom(list_page):
-    print("Generating RSS feed")
+    print("Generating Atom feed")
     env = Environment(loader=FileSystemLoader("."))
     feed_template = env.get_template("templates/atom.xml")
     list_page = sorted([i for i in list_page if i.revision_date()],
-        key=lambda t: t.revision_date(string=False), reverse=True)
+        key=lambda t: t.revision_date(), reverse=True)
     for page in list_page:
-        hashstr = page.metadata["title"] + "|" + page.revision_date()
+        hashstr = page.metadata["title"] + "|" + page.revision_date(fmt="%Y-%m-%d")
         hashval = hashlib.sha1(hashstr.encode('utf-8')).hexdigest()
         extra = {
-            "title": page.metadata["title"] + " ({})".format(
-                page.revision_date(string=False).strftime(
-                "%Y-%m-%d").strip()),
+            "title": "{title} ({date})".format(title=page.metadata["title"], date=page.revision_date().strftime("%Y-%m-%d").strip()),
             "slug": page.base(),
             "hashval": hashval,
-            "date": page.revision_date(),
+            "date": page.revision_date("rfc3339"),
         }
-        if page.metadata["_extra"]:
+        if "_extra" in page.metadata:
             print("The '_extra' metadata field is reserved; overwriting")
         page.metadata["_extra"] = extra
-    final = feed_template.render(pages=list_page,
-        now=datetime.now().strftime("%a, %d %b %Y %H:%M:%S %z"))
+    final = feed_template.render(pages=[p.metadata for p in list_page],
+        now=get_date(datetime.now(), fmt="rfc3339"))
     return Page(data=final, destination=SITE_DIRECTORY + "atom.xml")
 
 def create_aliases(list_page):
@@ -278,9 +276,9 @@ if __name__ == '__main__':
         compile_scss("standard")
         compile_scss("solarized_light")
         compile_scss("solarized_dark")
-        copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
-        copy_files(PRE_STATIC_DIRECTORY + "*",
-            SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
+        #copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
+        #copy_files(PRE_STATIC_DIRECTORY + "*",
+            #SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
         for page in create_pages(list_page):
             page.write()
         for page in create_tag_pages(list_page, list_tag):
@@ -291,3 +289,4 @@ if __name__ == '__main__':
             page.write()
         create_sitemap(list_page, list_tag).write()
         create_rss(list_page).write()
+        create_atom(list_page).write()

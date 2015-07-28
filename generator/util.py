@@ -31,6 +31,7 @@ import subprocess
 import shlex
 from slugify import slugify_unicode
 import os
+import time
 
 def run_command(command, pipe_in=None):
     '''
@@ -121,3 +122,23 @@ def split_path(path):
     # See http://stackoverflow.com/a/15050936/3422337
     a, b = os.path.split(path)
     return (split_path(a) if len(a) and len(b) else []) + [b]
+
+def get_date(date_obj, fmt=None):
+    '''
+    Take a datetime object. Format it according to fmt: if None, return
+    the object; if "rfc822" or "rfc3339", return the corresponding date
+    format; else assume it's a valid strftime format string.
+    '''
+    if not fmt:
+        return date_obj
+    # Python isn't good at handling the timezone offset, so we
+    # manually calculate it; see https://stackoverflow.com/a/3168394
+    offset = time.altzone if time.daylight and time.localtime().tm_isdst > 0 else time.timezone
+    sep = ":" if fmt == "rfc3339" else ""
+    offset_str = '{}{:0>2}{}{:0>2}'.format('-' if offset > 0 else '+', abs(offset) // 3600, sep, abs(offset // 60) % 60)
+    if fmt == "rfc822":
+        return (date_obj.strftime("%a, %d %b %Y %H:%M:%S ") + offset_str)
+    if fmt == "rfc3339":
+        return (date_obj.strftime("%Y-%m-%dT%H:%M:%S") + offset_str)
+    else:
+        return (date_obj.strftime(fmt))

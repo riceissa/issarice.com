@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>issarice.com</title>
   <description>This is the RSS feed of Issa Rice's website</description>
   <link>http://issarice.com</link>
+  <atom:link href="http://issarice.com/rss.xml" rel="self" type="application/rss+xml" />
   <lastBuildDate>{{ now }}</lastBuildDate>
   <pubDate>{{ now }}</pubDate>
 

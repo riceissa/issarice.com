@@ -11,10 +11,10 @@
   <generator uri="https://github.com/riceissa/issarice.com/blob/master/generator/generator.py">generator.py</generator>
   {% for page in pages %}
     <entry>
-      <title>{{ page._extra.title }}</title>
-      <link href="http://issarice.com/{{ page.slug }}"/>
-      <id>{{ page.hashval }}</id>
-      {% if page.date %}<updated>{{ page.date }}</updated>{% endif %}
+      <title>{{ page["_extra"]["title"] }}</title>
+      <link href="http://issarice.com/{{ page._extra.slug }}"/>
+      <id>{{ page._extra.hashval }}</id>
+      {% if page._extra.date %}<updated>{{ page._extra.date }}</updated>{% endif %}
       {% if page.rss_description %}<summary>{{ page.rss_description }}</summary>{% endif %}
     </entry>
  {% endfor %}
