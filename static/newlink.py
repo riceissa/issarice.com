@@ -129,7 +129,7 @@ def run_command(command, pipe_in=None):
 
 original_ar_source = '''---
 title: Articles read
-#rss_description: 
+#feed_description: 
 author: Issa Rice
 #creation_date: 2015-07-05
 #last_major_revision_date: 2015-07-05
