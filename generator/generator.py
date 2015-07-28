@@ -202,8 +202,8 @@ def create_rss(list_page, loc=RSS_FEED_LOCATION):
             "title": page.metadata["title"] + " ({})".format(
                 page.revision_date().strftime(
                 "%Y-%m-%d").strip()),
-            "rss_description": page.metadata["rss_description"] if
-                "rss_description" in page.metadata else "",
+            "feed_description": page.metadata["feed_description"] if
+                "feed_description" in page.metadata else "",
             "slug": page.base(),
             "hashval": hashval,
             "date": page.revision_date(fmt="rfc822"),

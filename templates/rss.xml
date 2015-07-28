@@ -11,7 +11,7 @@
   {% for page in pages %}
   <item>
     <title>{{ page.title }}</title>
-    {% if page.rss_description %}<description>{{ page.rss_description }}</description>{% endif %}
+    {% if page.feed_description %}<description>{{ page.feed_description }}</description>{% endif %}
     <link>http://issarice.com/{{ page.slug }}</link>
     <guid isPermaLink="false">{{ page.hashval }}</guid>
     {% if page.date %}<pubDate>{{ page.date }}</pubDate>{% endif %}
