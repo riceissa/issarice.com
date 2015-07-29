@@ -25,5 +25,28 @@ class BasicTags(unittest.TestCase):
         data.add_tag(uw_courses)
         self.assertTrue("uw" in data)
 
+class MoreRealistic(unittest.TestCase):
+    def test_education(self):
+        """TODO: Docstring for test_education.
+        :returns: TODO
+
+        """
+        tag_list = [
+            TagNode("University of Washington", aliases=["uw"]),
+            TagNode("University of Washington course review", aliases=["uw courses"]),
+            TagNode("education"),
+            TagNode("Massachusetts Institute of Technology", aliases=["MIT"]),
+            TagNode("University of California, Berkeley", aliases=["ucb"]),
+        ]
+        dag = TagDag(casing="smart")
+        dag.add_tags(tag_list)
+        dag.add_children("education", ["uw", "mit", "ucb"])
+        dag.add_parent("uw courses", "uw")
+        self.assertTrue(dag.implies("uw", "education"))
+        self.assertTrue(dag.implies("mit", "education"))
+        self.assertTrue(dag.implies("ucb", "education"))
+        self.assertTrue(dag.implies("uw courses", "education"))
+        self.assertFalse(dag.implies("ucb", "mit"))
+
 if __name__ == '__main__':
     unittest.main()
