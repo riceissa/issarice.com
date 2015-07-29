@@ -21,6 +21,7 @@ Possible list of things to write about:
 
 NEW:
 
+- try to UNLICENSE/public domain as much of the content as possible ... there really isn't any reason to continue to add useless restrictions (as long as nobody tries to sue me)
 - doing `import html` or `from html import escape` breaks the compilation process at the step of applying the pandoc filter (see commit `ef8e9b9d1a534150a7146f680a3778eab6f26a6b`)
 - decide what to do about the problem of adding multiple languages/other parameters.
   right now the structure is flat, i.e. everything comes after issarice.com/ . But what if we have another language, and want to have pagename1 for both languages (maybe they are even the exact same word in each language).
