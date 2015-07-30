@@ -48,5 +48,8 @@ class MoreRealistic(unittest.TestCase):
         self.assertTrue(dag.implies("uw courses", "education"))
         self.assertFalse(dag.implies("ucb", "mit"))
 
+    def test_adding_order(unittest.TestCase):
+        pass
+
 if __name__ == '__main__':
     unittest.main()

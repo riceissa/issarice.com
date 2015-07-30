@@ -17,7 +17,7 @@ class TagNode(object):
         self.aliases.extend(aliases)
 
     def __repr__(self):
-        return "Tag({}, [{}])".format(self.canonical_name, self.aliases)
+        return "Tag({}, {})".format(self.canonical_name, self.aliases)
 
 class TagDag(object):
     def __init__(self, casing="smart"):
@@ -60,25 +60,60 @@ class TagDag(object):
         for tag in tags:
             self.add_tag(tag)
 
-    def get_tag(self, tag):
+    def get_tag_entry(self, tag):
         query = get_tag_name(tag)
         if query in self.data:
-            return self.data.get(query)[0]
+            return self.data.get(query)
         else:
             raise ValueError("No such tag in DAG")
 
+    def set_tag_entry(self, tup):
+        if len(tup) != 2 or not isinstance(tup[0], TagNode) or not isinstance(tup[1], list):
+            raise ValueError("Tuple tup is not well-formed")
+        self.data[tup[0].canonical_name] = tup
+
+    def get_tag(self, tag):
+        return self.get_tag_entry(tag)[0]
+
+    def get_parents(self, tag):
+        lst = [t.canonical_name for t in self.get_tag_entry(tag)[1]]
+        lst.sort()
+        return lst
+
     def show_parents(self, tag):
         """
-        Show all parent tags of tag, i.e. all tags that are implied by
-        tag. Return as a list of strings.
+        Show all parent tags of tag in sorted order, i.e. all tags that
+        are implied by tag.
         """
-        pass
+        print(self.show_parents(tag))
+
+    def _get_ancestors(self, tag):
+        lst = []
+        for t in self.parents(tag):
+            lst.append(t)
+            lst.extend(self._get_ancestors(t))
+        return lst
+
+    def get_ancestors(self, tag):
+        return self._get_ancestors(tag).sort()
+
+    def show_ancestors(self, tag):
+        print(self.get_ancestors(tag))
 
     def show_children(self, tag):
         pass
 
     def add_parent(self, tag, parent):
-        pass
+        """
+        Make parent a parent of tag, where both tag and parent are in
+        the DAG.
+        """
+        if self.is_descendant(tag, parent):
+            raise CyclePresenceException("Adding this parent would cause a cycle in the DAG")
+        else:
+            name, parents = self.get_tag_entry(tag)
+            p = self.get_tag(parent)
+            parents.append(p)
 
     def add_child(self, tag, child):
         pass
@@ -89,14 +124,23 @@ class TagDag(object):
     def add_children(self, tag, children):
         pass
 
+    def is_descendant(self, tag_one, tag_two):
+        """
+        (TagNode, TagNode) -> bool
+        """
+        pass
+
     def implies(self, tag_one, tag_two):
         """
         (TagNode, TagNode) -> bool
 
-        Check if tag_one implies tag_two.
+        Check if tag_one implies tag_two. Same as is_descendant.
         """
-        pass
+        return self.is_descendant(tag_one, tag_two)
 
     def write(self):
         pass
+
+    def size(self):
+        return len(self.data)
 
