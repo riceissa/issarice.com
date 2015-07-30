@@ -18,7 +18,9 @@ aliases: connect
 Below are some ways to contact me (Issa Rice), as well as the account
 names[^aname] I use on various websites.  Feel free to connect with me
 through any of the means below.  I am most responsive via email and
-Facebook (I may not check other sites very often).  You can also stalk
+Facebook (I may not check other sites very often).
+I try to respond to everyone who contacts me, but [for various reasons](http://lesswrong.com/lw/eua/reasons_for_someone_to_ignore_you/) I might not; feel free to ping me if I don't respond.
+You can also stalk
 me online (e.g. by following me on Quora or Facebook, or by reading what
 I have on this website).  I also don't mind if you ask questions about
 me on Quora, though recently Quora has gotten stricter about what sorts
