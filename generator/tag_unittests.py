@@ -26,6 +26,7 @@ class BasicTags(unittest.TestCase):
         self.assertTrue("uw" in data)
 
 class MoreRealistic(unittest.TestCase):
+    # this test is deprecated
     def test_education(self):
         """TODO: Docstring for test_education.
         :returns: TODO
@@ -50,6 +51,20 @@ class MoreRealistic(unittest.TestCase):
 
     def test_adding_order(unittest.TestCase):
         pass
+
+    def test_programming(unittest.TestCase):
+        """
+        Test example using onotology of computing/programming related tags.
+        """
+        dag = TagDag()
+        dag.add_tags([
+            TagNode("computing"),
+            TagNode("Linux"),
+            TagNode("Python", aliases=["py"]),
+            TagNode(),
+            TagNode(),
+            TagNode(),
+        ])
 
 if __name__ == '__main__':
     unittest.main()

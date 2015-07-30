@@ -87,14 +87,22 @@ class TagDag(object):
 
     def __init__(self, casing="smart"):
         """
+        Initializes an empty DAG.
         """
         self.data = {}
+        self.casing = casing
 
-    def __contains__(self, item):
-        if isinstance(item, TagNode):
-            return (item.canonical_name in self.data)
+    def __contains__(self, tag):
+        """
+        Check if a tag is in the DAG.
+
+        Args:
+            tag: 
+        """
+        if isinstance(tag, TagNode):
+            return (tag.canonical_name in self.data)
         else:
-            return (item in self.data)
+            return (tag in self.data)
 
     @staticmethod
     def get_tag_name(tag):
