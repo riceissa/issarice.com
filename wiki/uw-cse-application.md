@@ -82,7 +82,17 @@ I listed no work experience (as I had none).
 The CSE application lists "represents recommended courses that this department would like to see", which as far as I can tell are simply courses that aren't a prerequisite that are nonetheless in CSE, ENGL, or MATH.
 
 - [CSE 190](): CR
-- 
+- [CSE 390 (for CSE 142)](): CR
+- [CSE 390 (for CSE 143)](): CR
+- ENGL 193: AP^[Again, from IB English HL.]
+- [ENGL 478](): 4.0
+- [MATH 134](): 4.0
+- PHYS 114: AP^[All physics from IB Physics HL.]
+- PHYS 115: AP
+- PHYS 116: AP
+- PHYS 117: AP
+- PHYS 118: AP
+- PHYS 119: AP
 
 ## Other courses
 
