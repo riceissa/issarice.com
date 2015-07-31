@@ -27,8 +27,11 @@ The main purpose of this page is to be transparent about my academic situation, 
 Before I was admitted, I would often stress out over whether I was good enough to be admitted, and so on.
 Moreover, when people posted their grades online, they would often only list their overall GPA (not very useful, since prerequisite classes matter much more), their prerequisite GPA (more useful, but still doesn't provide a full picture), or even just their CSE 142/3 grades (and my CSE 143 grade wasn't as high as I had hoped it would be, so I was quite worried hearing almost everyone had gotten a 3.9 or 4.0 in that course)!
 In light of this, I'd like to provide my "full stats" so people have more information.
+Note that in many ways, this page is a lot like my UW transcript after the first year (just arranged differently, and with essays).
 
 I'd like to note that while I don't think I was one of the strongest applicants, I certainly don't think I was one of the weakest either (even among those admitted).
+
+One last note: during the new CSE admit orientation, one of the CSE advisors said that this admissions cycle was a "particularly brutal" one.
 
 # General numbers
 
@@ -60,9 +63,15 @@ The CSE application lists "represents recommended courses that this department w
 
 ## Other courses
 
-a
+- [HONORS 100](): 4.0
+- [HONORS 394](): 3.5
+- [ATM S 559](): S^[That's right, I S/NSed a course and still got into CSE!]
 
 # Essays
+
+The following were my essays as submitted.
+Note that the application asked not to use special characters, so I refrained from using smart quotes (i.e. curly quotes) in the submission form, but the essays below use smart quotes (since I think they look better).
+You can check out the page source (see link at the top navigation bar) to see the source form, which still has the straight quotes.
 
 ## Short answer
 
