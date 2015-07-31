@@ -15,15 +15,79 @@ status: notes
 #belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: uw, uw cse
 #aliases: 
 ---
 
 This page contains information about my UW CSE application.
-I applied after one full year at the University of Washington, for the July 2015 deadline.
+I applied after one full year at the University of Washington, for the July 1, 2015 deadline.
 I was admitted to the major (on my first attempt) on July 24.
 
 The main purpose of this page is to be transparent about my academic situation, and also so that people interested in applying to CSE have one more data point they can use.
 Before I was admitted, I would often stress out over whether I was good enough to be admitted, and so on.
 Moreover, when people posted their grades online, they would often only list their overall GPA (not very useful, since prerequisite classes matter much more), their prerequisite GPA (more useful, but still doesn't provide a full picture), or even just their CSE 142/3 grades (and my CSE 143 grade wasn't as high as I had hoped it would be, so I was quite worried hearing almost everyone had gotten a 3.9 or 4.0 in that course)!
 In light of this, I'd like to provide my "full stats" so people have more information.
+
+I'd like to note that while I don't think I was one of the strongest applicants, I certainly don't think I was one of the weakest either (even among those admitted).
+
+# General numbers
+
+- Credits: 111
+- GPA: 3.85
+
+# Employment
+
+I listed no work experience (as I had none).
+
+# Courses
+
+## Prerequisites
+
+- [CSE 142](): 3.9
+- [CSE 143](): 3.7
+- [ENGL 131](): 3.9
+- MATH 124: AP^[The application lists "AP", but I actually took an IB test (IB Math HL, getting a 7/7) to satisfy this requirement.]
+- [MATH 135](): 4.0
+- [MATH 136](): 3.8
+- [PHYS 121](): 3.8
+
+## Recommended courses
+
+The CSE application lists "represents recommended courses that this department would like to see", which as far as I can tell are simply courses that aren't a prerequisite that are nonetheless in CSE, ENGL, or MATH.
+
+- [CSE 190](): CR
+- 
+
+## Other courses
+
+a
+
+# Essays
+
+## Short answer
+
+In terms of diversity, I bring my cosmopolitan views, which can be seen in many different ways.
+
+For instance, I grew up in Japan so have a fair amount of awareness of other cultures. Japan is especially interesting in computing because of its unique writing system that requires three different sets of characters. Being fluent in Japanese gives me sensitivity to the problems one can face in character input, dealing with character sets, translating software and websites, typography, and so on, which are all important considerations in computing.
+
+I also love prying into people's minds in order to understand their psychology. To this end, I ask a lot of questions when I interact with people to understand and clarify their thinking. I have also asked nearly 3,000 questions on the question and answer site Quora about a huge array of topics. Many of them have the form "What is it like to do X?" or "What does X think about Y?", which allows me to consult the "hivemind".
+
+In the past year, I've also become involved with a movement called effective altruism, which attempts to figure out how best to have a positive impact on the world. In particular, the movement is international, both in terms of supporters and those that the movement helps. Interacting with the people in this movement (both online and at local meetups) has allowed me to absorb their styles of thinking, which I can then incorporate into my own worldview.
+
+## Personal statement
+
+For a huge variety of reasons computer science has always intensely fascinated me. Roughly, these can be categorized in terms of impact on the world, the types of problems in the field, and the ethics (or social side) of the field.
+
+In terms of impact on the world, I think computer science currently has the best shot at staying relevant in the coming years. The ongoing growth of technology companies like Google and Facebook means computer science will stay relevant. In addition, the huge applicability of computer science in for instance natural science research means that there is huge potential to apply one's computer science knowledge even in other domains. In other words, computer science allows one to be very versatile for the future. This flexibility is extremely important for me, since one of my goals is have the most positive impact I can have on the world (cf. effective altruism), which requires me to become continually productive.
+
+Even in small ways, my current knowledge of computer science has already helped me in many (sometimes subtle) ways. My knowledge of regular expressions and web scraping, for example, allows me to effortlessly extract relevant information that I need instead of wasting time manually copying data. Or knowing about recursion has allowed me to reason about complicated problems in elegant ways. This relevance of computer science to solving real human needs, I think, is important: it means that what I learn is always connected to something tangible. This also means that when I help others with their computing tasks, the benefits will be visible in clear ways.
+
+Computer science is also intellectually fascinating to me. Its brand of discrete and combinatorial problems are among those in mathematics that I find most satisfying to think about. For instance a while ago I was thinking with a friend about an exercise in an algorithms textbook that asked to devise a method to produce unbiased random numbers given a consistently-biased random number generator. Problems like these pique my interest because they make me think, "Wait, is this even possible?" There is also the eerie feeling that one can prove a fact about random number generation without even knowing that the biased random number generator exists!
+
+I also think computer science has been the scene of some of the most interesting ethical debates. I'm insanely obsessed about free software and the freedom of information in general. My interest in computer science as a field extends into the past: I'm fascinated by the historical development of the free software movement, software patents, copyright law, and so on. Equally, I'm obsessed with how these ethical considerations are relevant today: information freedom, digital surveillance, online anonymity, and so forth. Ideally, I'd like to promote discussions on these topics within the CSE community to stimulate people's thinking.
+
+Thus computer science is an exciting field for me in multiple ways. I've been fortunate to already experience some highly interesting aspects of the field. I only wish to continue this endeavor at UW CSE.
+
+# Additional comments
+
+I entered no additional comments on the application.
