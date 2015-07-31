@@ -37,6 +37,29 @@ One last note: during the new CSE admit orientation, one of the CSE advisors sai
 
 - Credits: 111
 - GPA: 3.85
+- Prerequisite GPA: 3.85 or 3.87, depending on whether you count the MATH 134 grade.[^p_gpa]
+
+[^p_gpa]: Not counting MATH 134, in Python:
+
+    ```python
+    >>> import numpy as np
+    >>> grades = np.matrix("3.9, 3.7, 3.9, 4.0, 3.8, 3.8")
+    >>> credits = np.matrix("4; 5; 5; 5; 5; 5")
+    >>> float(grades*credits)
+    111.6
+    >>> float(grades*credits/sum(credits))
+    3.848275862068965
+    ```
+
+    Counting the 4.0 in MATH 134 (as my MATH 124) grade:
+
+    ```python
+    >>> import numpy as np
+    >>> grades = np.matrix("3.9, 3.7, 3.9, 4.0, 4.0, 3.8, 3.8")
+    >>> credits = np.matrix("4; 5; 5; 5; 5; 5; 5")
+    >>> float(grades*credits/sum(credits))
+    3.8705882352941177
+    ```
 
 # Employment
 
@@ -67,6 +90,10 @@ The CSE application lists "represents recommended courses that this department w
 - [HONORS 394](): 3.5
 - [ATM S 559](): S^[That's right, I S/NSed a course and still got into CSE!]
 
+# Department rank
+
+I put "Computer Science: 1", i.e. I only applied to CSE.
+
 # Essays
 
 The following were my essays as submitted.
@@ -74,6 +101,8 @@ Note that the application asked not to use special characters, so I refrained fr
 You can check out the page source (see link at the top navigation bar) to see the source form, which still has the straight quotes.
 
 ## Short answer
+
+**Prompt**: \[FIXME\]
 
 In terms of diversity, I bring my cosmopolitan views, which can be seen in many different ways.
 
@@ -84,6 +113,8 @@ I also love prying into people's minds in order to understand their psychology. 
 In the past year, I've also become involved with a movement called effective altruism, which attempts to figure out how best to have a positive impact on the world. In particular, the movement is international, both in terms of supporters and those that the movement helps. Interacting with the people in this movement (both online and at local meetups) has allowed me to absorb their styles of thinking, which I can then incorporate into my own worldview.
 
 ## Personal statement
+
+**Prompt**: \[FIXME\]
 
 For a huge variety of reasons computer science has always intensely fascinated me. Roughly, these can be categorized in terms of impact on the world, the types of problems in the field, and the ethics (or social side) of the field.
 
