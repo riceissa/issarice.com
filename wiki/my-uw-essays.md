@@ -280,3 +280,7 @@ enlightening. Moreover the raw physical exhaustion on all three days was
 intoxicating. Philosophically, knowing that all of my accomplishments
 would soon be washed clean by the rain was disconcerting but also oddly
 pleasing.
+
+# See also
+
+- A few people I know have similarly posted their college application essays online, including [Brian Tomasik](http://briantomasik.com/other-writings/#College_essays).
