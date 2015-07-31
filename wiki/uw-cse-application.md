@@ -113,6 +113,8 @@ You can check out the page source (see link at the top navigation bar) to see th
 I don't think my essays are that great.
 I hope the message you get out of them is something like "Oh, I guess you don't need to write a very good essay to get in!"
 
+Also this should go without saying, but my essays are provided as a reference so you know the *level of competence* required for the essay, and is not intended for you to copy!
+
 ## Short answer
 
 **Prompt**: \[FIXME\]
