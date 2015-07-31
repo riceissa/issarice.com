@@ -100,3 +100,4 @@ On trait selection:
   Skenazy).
 - [Jackdaws love my big sphinx of quartz \- The Biodeterminist's Guide to Parenting](https://web.archive.org/web/20140913160733/http://squid314.livejournal.com/346391.html)
 - [Experiences in applying "The Biodeterminist's Guide to Parenting" \- Less Wrong Discussion](http://lesswrong.com/r/discussion/lw/mhk/experiences_in_applying_the_biodeterminists_guide/)
+- [The Cost of Kids | Essays on Reducing Suffering](http://reducing-suffering.org/the-cost-of-kids/)
