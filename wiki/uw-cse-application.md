@@ -110,6 +110,9 @@ The following were my essays as submitted.
 Note that the application asked not to use special characters, so I refrained from using smart quotes (i.e. curly quotes) in the submission form, but the essays below use smart quotes (since I think they look better).
 You can check out the page source (see link at the top navigation bar) to see the source form, which still has the straight quotes.
 
+I don't think my essays are that great.
+I hope the message you get out of them is something like "Oh, I guess you don't need to write a very good essay to get in!"
+
 ## Short answer
 
 **Prompt**: \[FIXME\]
