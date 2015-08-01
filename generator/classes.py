@@ -278,7 +278,7 @@ class Page(object):
 
     def write(self):
         if self.destination is None:
-            print("No destination is set; cannot write to file.")
+            print("No destination is set; cannot write to file.", file=sys.stderr)
         else:
             directory = Filepath(self.destination).directory()
             if not os.path.exists(directory):

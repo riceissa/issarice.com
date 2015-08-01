@@ -28,6 +28,7 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 import subprocess
+import sys
 import shlex
 from slugify import slugify_unicode
 import os
@@ -57,15 +58,15 @@ def run_command(command, pipe_in=None):
         )
         stdout, stderr = process.communicate(input=bytes(pipe_in, 'utf-8'))
     if stderr not in ["None", "", None, b'']:
-        print("On the command")
-        print("    {command}".format(command=command))
+        print("On the command", file=sys.stderr)
+        print("    {command}".format(command=command), file=sys.stderr)
         if pipe_in not in ['', None]:
-            print("with the input line(s) beginning with")
+            print("with the input line(s) beginning with", file=sys.stderr)
             for line in pipe_in.split("\n"):
                 l = min(75, len(line))
-                print("    " + line[0:l])
-        print("there was an error:")
-        print(stderr.decode('utf-8'))
+                print("    " + line[0:l], file=sys.stderr)
+        print("there was an error:", file=sys.stderr)
+        print(stderr.decode('utf-8'), file=sys.stderr)
     if isinstance(stdout, bytes):
         return stdout.decode('utf-8')
     else:

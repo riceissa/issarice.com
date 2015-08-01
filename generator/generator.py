@@ -41,7 +41,7 @@ from tag_ontology import *
 from config import *
 
 def clean():
-    print("Removing {d}".format(d=SITE_DIRECTORY))
+    print("Removing {d}".format(d=SITE_DIRECTORY), file=sys.stderr)
     run_command("rm -rf {d}".format(d=SITE_DIRECTORY))
 
 def compile_scss(stylesheet_basename):
@@ -62,7 +62,7 @@ def copy_files(pattern, destination):
         os.makedirs(destination)
     for f in glob.iglob(pattern):
         if os.path.isfile(f):
-            print("Copying {f} to {to}".format(f=f, to=destination))
+            print("Copying {f} to {to}".format(f=f, to=destination), file=sys.stderr)
             shutil.copy2(f, destination)
 
 def build_data(list_filepath):
@@ -89,7 +89,7 @@ def create_pages(list_page):
     Take a list of pages and yield new pages with the compiled data.
     '''
     for page in list_page:
-        print("Processing " + str(page.origin))
+        print("Processing " + str(page.origin), file=sys.stderr)
         write_to = page.origin.route_with(my_route).path
         final = page.compiled(tags_dir=SITE_TAGS_DIRECTORY, commit_ps=args.commit_ps)
         yield Page(data=final, destination=write_to)
@@ -99,7 +99,7 @@ def create_single_page(filepath):
     For use when one only wants to partially compile.
     '''
     page = Page(origin=filepath)
-    print("Processing " + str(page.origin))
+    print("Processing " + str(page.origin), file=sys.stderr)
     page.destination = page.origin.route_with(my_route).path
     page.load_metadata()
     page.data = page.compiled(tags_dir=SITE_TAGS_DIRECTORY, commit_ps=args.commit_ps)
@@ -107,7 +107,7 @@ def create_single_page(filepath):
 
 def create_tag_pages(list_page, list_tag):
     for tag in list_tag:
-        print("Processing tag page for " + tag)
+        print("Processing tag page for " + tag, file=sys.stderr)
         pages = []
         for page in list_page:
             if tag in page.metadata["tags"]:
@@ -134,7 +134,7 @@ def create_page_with_all_tags(list_tag):
     '''
     Take a list of tags and return a page that lists all the tags.
     '''
-    print("Creating page with all the tags")
+    print("Creating page with all the tags", file=sys.stderr)
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
     pages = [{'title': tag, 'url': slug(tag)} for tag in list_tag]
@@ -151,7 +151,7 @@ def create_page_with_all_tags(list_tag):
 
 # Make page with all pages
 def create_page_with_all_pages(list_page):
-    print("Creating page with all the pages")
+    print("Creating page with all the pages", file=sys.stderr)
     env = Environment(loader=FileSystemLoader('.'))
     page_list = env.get_template('templates/page-list.html')
     pages = [
@@ -175,7 +175,7 @@ def create_sitemap(list_page=[], list_tag=[]):
     Take a list of pages and a list of tags.  Return a page object for
     the sitemap.
     '''
-    print("Generating sitemap")
+    print("Generating sitemap", file=sys.stderr)
     env = Environment(loader=FileSystemLoader('.'))
     sitemap_list = env.get_template('templates/sitemap-list.xml')
     list_page = sorted(list_page, key=lambda t: t.metadata['title'])
@@ -189,7 +189,7 @@ def create_sitemap(list_page=[], list_tag=[]):
     return Page(data=final, destination=SITE_DIRECTORY + "sitemap.xml")
 
 def create_rss(list_page, loc=RSS_FEED_LOCATION):
-    print("Generating RSS feed")
+    print("Generating RSS feed", file=sys.stderr)
     env = Environment(loader=FileSystemLoader('.'))
     feed_template = env.get_template('templates/rss.xml')
     list_page = sorted([i for i in list_page if i.revision_date()],
@@ -213,7 +213,7 @@ def create_rss(list_page, loc=RSS_FEED_LOCATION):
     return Page(data=final, destination=SITE_DIRECTORY + loc)
 
 def create_atom(list_page):
-    print("Generating Atom feed")
+    print("Generating Atom feed", file=sys.stderr)
     env = Environment(loader=FileSystemLoader("."))
     feed_template = env.get_template("templates/atom.xml")
     list_page = sorted([i for i in list_page if i.revision_date()],
@@ -228,7 +228,7 @@ def create_atom(list_page):
             "date": page.revision_date("rfc3339"),
         }
         if "_extra" in page.metadata:
-            print("The '_extra' metadata field is reserved; overwriting")
+            print("The '_extra' metadata field is reserved; overwriting", file=sys.stderr)
         page.metadata["_extra"] = extra
     final = feed_template.render(pages=[p.metadata for p in list_page],
         now=get_date(datetime.now(), fmt="rfc3339"))
@@ -241,7 +241,7 @@ def create_aliases(list_page):
     for page in list_page:
         if "aliases" in page.metadata:
             for alias in page.metadata["aliases"]:
-                print("Creating alias: " + alias)
+                print("Creating alias: " + alias, file=sys.stderr)
                 write_to = Filepath(alias).route_with(site_dir_route).path
                 env = Environment(loader=FileSystemLoader('.'))
                 skeleton = env.get_template('templates/redirect.html')
