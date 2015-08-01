@@ -35,6 +35,7 @@ from yaml import SafeLoader, BaseLoader
 from jinja2 import Template, Environment, FileSystemLoader
 from tag_ontology import *
 from util import *
+import sys
 
 class AbsolutePathException(Exception):
     pass

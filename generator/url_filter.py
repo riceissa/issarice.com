@@ -30,7 +30,6 @@
 from pandocfilters import toJSONFilter, stringify, Link
 from slugify import slugify_unicode
 import commands as c
-from classes import to_string
 
 def url_filter(key, value, format_, meta):
     '''
@@ -56,7 +55,7 @@ def url_filter(key, value, format_, meta):
             url = "http://duckduckgo.com/?q=" + url + " " + stringify(txt)
         elif url == '':
             # So we want to internally link txt
-            url = to_string(slugify_unicode(stringify(txt), to_lower=True))
+            url = slugify_unicode(stringify(txt), to_lower=True)
             url = "./" + url
         return Link(txt, [url, attr])
 
