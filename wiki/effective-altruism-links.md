@@ -59,7 +59,9 @@ You can find my original public announcement about doing cause prioritization re
     - Overcoming Bias's response (by Robin Hanson): "[Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)"
     - [reddit thread](https://www.reddit.com/r/philosophy/comments/3cfkc2/peter_singer_on_the_logic_of_effective_altruism/)
 - Some discussion at [this post by Eliezer](https://www.facebook.com/groups/effective.altruists/permalink/906061206116904)<!--[Effective Altruists](https://archive.is/lGver)-->
-- [Lila comments on The Outside Critics of Effective Altruism](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/26u)
+- [The Outside Critics of Effective Altruism](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/)
+    - [Lila comments on The Outside Critics of Effective Altruism](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/26u)
+- [A Note on Framing Criticisms of Effective Altruism](http://effective-altruism.com/ea/li/a_note_on_framing_criticisms_of_effective_altruism/) and [Facebook post](https://www.facebook.com/groups/effective.altruists/permalink/906412832748408/)
 
 # Depression
 
