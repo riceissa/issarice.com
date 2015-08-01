@@ -36,6 +36,7 @@ from jinja2 import Template, Environment, FileSystemLoader
 from tag_ontology import *
 from util import *
 import sys
+from html import escape
 
 class AbsolutePathException(Exception):
     pass
@@ -310,6 +311,7 @@ class Page(object):
         '''
         if not self.metadata:
             self.load_metadata()
+        self.metadata["description"] = escape(self.metadata["description"])
         env = Environment(loader=FileSystemLoader('.'))
         if self.metadata['language'].lower() in [u"ja", u"japanese",
             u"にほんご", u"日本語"]:
