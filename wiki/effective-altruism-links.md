@@ -1,5 +1,6 @@
 ---
 title: Effective altruism links
+description: List of links to various effective altruism discussions, sorted by topic
 feed_description: add criticisms
 author: Issa Rice
 creation_date: 2015-01-02
