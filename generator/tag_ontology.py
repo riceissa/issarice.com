@@ -128,6 +128,8 @@ TAG_SYNONYMS = {
         ["ssc", "slate-star"],
     "University of Washington":
         ["uw", "uwashington", "university-of-washington"],
+    "University of Washington Computer Science and Engineering":
+        ["uw cse"],
     "University of Washington course review":
         ["uw course", "uw course review"],
     "University of Washington honors program":
