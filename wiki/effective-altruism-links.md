@@ -77,6 +77,10 @@ I suppose the latter will only contain information about how important it is to 
 
 - The most obvious step is to look at all the meetups [here](http://effective-altruism.com/meetups/) and talk to the people that go to them.
 
+# Earning-to-give
+
+- [Talent or Money?](http://www.jefftk.com/p/talent-or-money)
+
 # Education
 
 \[to be added\]
