@@ -29,6 +29,9 @@ In a sense, it is just a collection of the "effective altruism versions" of vari
 
 - [Introduction to Effective Altruism](http://effective-altruism.com/ea/6x/introduction_to_effective_altruism/) on the new EA forum.
 - [Effective altruism learning resources](http://info.cognitomentoring.org/wiki/Effective_altruism_learning_resources) on the Cognito Mentoring wiki.
+- [On Caring](http://lesswrong.com/lw/l30/on_caring/)
+- [Effective Altruism is a Question (not an ideology)](http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/)
+- [Efficient Charity: Do Unto Others...](http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/)
 
 
 # Animal suffering
