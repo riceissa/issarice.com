@@ -12,10 +12,10 @@ status: notes
 # Possible values are "certain", "highly likely", "likely", "possible",
 # "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
 # "emotional"
-#belief: possible
+belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: content creation
 aliases: topic ontology
 math: yes
 ---
@@ -49,3 +49,17 @@ Quora uses DAGs for their topic ontology; see [Adam D'Angelo's answer to Are Quo
 > there will never be a situation where A is a parent of B, and B is also a
 > parent of A (or longer loops). In addition, topics can have multiple parent
 > topics and multiple child topics.
+
+I don't really agree with Quora's ontology system though, or at least I don't think it's suited to this blog
+
+For instance look at the [organization page on David Hume](https://www.quora.com/David-Hume/organize).
+The topic has parents:
+
+- Economists
+- Essayists
+- Historians
+- Philosophers
+
+Moreover it says "A parent topic is a more general topic that fully includes everything in this topic. For example, Food would be a parent topic of French Food."
+But is [What is the significance of Hume's inductive reasoning?](https://www.quora.com/What-is-the-significance-of-Humes-inductive-reasoning) a question that should be in the topic (to take the closest topic) "Philosophers"?
+I think not.
