@@ -38,10 +38,13 @@ Parent/child relationships
 :   If I tag something with "Python" the tagging system should know that this page is related to Python, so it's about programming as well, and tag it accordingly with "programming", for example.
 
 The important consideration with tag implication is the following: if I tag a post with tag $A$, would I, in every case, have tagged it also with $B$?
-If so, then $A\implies B$, so $B$ should be a parent of $A$.
+If so, then $A\to B$, so $B$ should be a parent of $A$.
 Note that *this idea of implication is distinct from a category system*.
 In a category system, we might have "mathematician" be a parent of "Halmos", for instance.
 But it doesn't follow that if a post is tagged "Halmos" it should also be tagged "mathematician"; a post explaining an exercise from one of Halmos's books should be tagged "Halmos" but should not be tagged "mathematician"---it has nothing to do with mathematicians!
+
+In other words, the crucial consideration is: Can we produce a post that is tagged $A$ that should *not* be tagged $B$?
+If "yes", then $A \not\to B$.
 
 Quora uses DAGs for their topic ontology; see [Adam D'Angelo's answer to Are Quora topic hierarchies a directed acyclic graph?](https://www.quora.com/Are-Quora-topic-hierarchies-a-directed-acyclic-graph/answer/Adam-DAngelo):
 
