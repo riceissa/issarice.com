@@ -1,0 +1,156 @@
+{
+    "advantages": {
+        "aliases": ["pros", "pro"]
+    },
+    "advantages and disadvantages": {
+        "aliases": ["procon", "pros and cons"]
+    },
+    "atmospheric sciences": {
+        "aliases": ["atmos"]
+    },
+    "biology": {
+        "aliases": ["bio"]
+    },
+    "Bryan Caplan": {
+        "aliases": ["caplan"]
+    },
+    "chemistry": {
+        "aliases": ["chem"]
+    },
+    "cause prioritization": {
+        "aliases": ["cp"]
+    },
+    "Cognito Mentoring": {
+        "aliases": ["cm", "cognito-mentoring", "cognito"]
+    },
+    "computer science": {
+        "aliases": ["cs", "computer-science"]
+    },
+    "computing": {
+        "aliases": ["hacking", "computers"]
+    },
+    "content creation": {
+        "aliases": []
+    },
+    "Debian": {
+        "aliases": ["deb"]
+    },
+    "digital preservation": {
+        "aliases": ["archival", "archiving", "digital archives", "digital archiving", "digital archival", "data archiving", "data archival"]
+    },
+    "disadvantages": {
+        "aliases": ["con", "cons"]
+    },
+    "economics": {
+        "aliases": ["econ"]
+    },
+    "effective altruism": {
+        "aliases": ["ea", "effective-altruism", "effectivealtruism"]
+    },
+    "Eliezer Yudkowsky": {
+        "aliases": ["eliezer", "yudkowsky"]
+    },
+    "English": {
+        "aliases": []
+    },
+    "Facebook": {
+        "aliases": []
+    },
+    "GitHub": {
+        "aliases": []
+    },
+    "Halmos": {
+        "aliases": [],
+        "parents": ["math"]
+    },
+    "Haskell": {
+        "aliases": []
+    },
+    "Hakyll": {
+        "aliases": [],
+        "parents": ["Haskell"]
+    },
+    "human biodiversity": {
+        "aliases": ["hbd"]
+    },
+    "high school": {
+        "aliases": ["hs"]
+    },
+    "Japan": {
+        "aliases": []
+    },
+    "Jekyll": {
+        "aliases": []
+    },
+    "LaTeX": {
+        "aliases": [],
+        "parents": ["computing"]
+    },
+    "LessWrong": {
+        "aliases": ["lw", "less wrong"]
+    },
+    "links collection": {
+        "aliases": ["link-collection", "resources", "links"]
+    },
+    "Linux": {
+        "aliases": []
+    },
+    "math": {
+        "aliases": ["maths", "mathematics"]
+    },
+    "open borders": {
+        "aliases": ["ob"]
+    },
+    "OpenBSD": {
+        "aliases": []
+    },
+    "Pandoc": {
+        "aliases": []
+    },
+    "Paul Graham": {
+        "aliases": []
+    },
+    "Peter Thiel": {
+        "aliases": ["thiel"]
+    },
+    "psychology": {
+        "aliases": ["psych"]
+    },
+    "Python": {
+        "aliases": ["py"],
+        "parents": ["programming"]
+    },
+    "quantified self": {
+        "aliases": ["qs", "life-logging", "sousveillance"]
+    },
+    "Quora": {
+        "aliases": []
+    },
+    "Scott Alexander": {
+        "aliases": []
+    },
+    "self-improvement": {
+        "aliases": []
+    },
+    "set theory": {
+        "aliases": ["set-theory"]
+    },
+    "site info": {
+        "aliases": ["site"]
+    },
+    "Slate Star Codex": {
+        "aliases": ["ssc", "slate-star"]
+    },
+    "University of Washington": {
+        "aliases": ["uw", "uwashington", "university-of-washington"]
+    },
+    "University of Washington Computer Science and Engineering": {
+        "aliases": ["uw cse"]
+    },
+    "University of Washington course review": {
+        "aliases": ["uw course", "uw course review"]
+    },
+    "University of Washington honors program": {
+        "aliases": ["uw-honors", "uw honors", "honors-program"]
+    }
+}
