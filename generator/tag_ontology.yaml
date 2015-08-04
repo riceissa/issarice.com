@@ -1,139 +1,124 @@
 advantages:
     aliases:
-    - pros
-    - pro
+        - pros
+        - pro
 advantages and disadvantages:
     aliases:
-    - procon
-    - pros and cons
+        - procon
+        - pros and cons
 atmospheric sciences:
     aliases:
-    - atmos
+        - atmos
 biology:
     aliases:
-    - bio
+        - bio
 Bryan Caplan:
     aliases:
-    - caplan
+        - caplan
 cause prioritization:
     aliases:
-    - cp
+        - cp
 chemistry:
     aliases:
-    - chem
+        - chem
 Cognito Mentoring:
     aliases:
-    - cm
-    - cognito-mentoring
-    - cognito
+        - cm
+        - cognito-mentoring
+        - cognito
 computer science:
     aliases:
-    - cs
-    - computer-science
+        - cs
+        - computer-science
 computing:
     aliases:
-    - hacking
-    - computers
+        - hacking
+        - computers
 content creation:
     aliases: []
 Debian:
     aliases:
-    - deb
+        - deb
 digital preservation:
     aliases:
-    - archival
-    - archiving
-    - digital archives
-    - digital archiving
-    - digital archival
-    - data archiving
-    - data archival
+        - archival
+        - archiving
+        - digital archives
+        - digital archiving
+        - digital archival
+        - data archiving
+        - data archival
 disadvantages:
     aliases:
-    - con
-    - cons
+        - con
+        - cons
 economics:
     aliases:
-    - econ
+        - econ
 effective altruism:
     aliases:
-    - ea
-    - effective-altruism
-    - effectivealtruism
+        - ea
+        - effective-altruism
+        - effectivealtruism
 Eliezer Yudkowsky:
     aliases:
-    - eliezer
-    - yudkowsky
-English:
-    aliases: []
-Facebook:
-    aliases: []
-GitHub:
-    aliases: []
+        - eliezer
+        - yudkowsky
+English: []
+Facebook: []
+GitHub: []
 Hakyll:
-    aliases: []
-    parents:
-    - Haskell
-Haskell:
-    aliases: []
+    parents: Haskell
+Haskell: []
 Halmos:
-    aliases: []
-    parents:
-    - math
+    parents: math
 high school:
     aliases:
-    - hs
+        - hs
 human biodiversity:
     aliases:
-    - hbd
-Japan:
-    aliases: []
-Jekyll:
-    aliases: []
+        - hbd
+Japan: []
+Jekyll: []
 LaTeX:
-    aliases: []
     parents:
-    - computing
+        - computing
 LessWrong:
     aliases:
-    - lw
-    - less wrong
+        - lw
+        - less wrong
 links collection:
     aliases:
-    - link-collection
-    - resources
-    - links
-Linux:
-    aliases: []
+        - link-collection
+        - resources
+        - links
+Linux: []
 math:
     aliases:
-    - maths
-    - mathematics
+        - maths
+        - mathematics
 open borders:
-    aliases:
-    - ob
-OpenBSD:
-    aliases: []
+    aliases: ob
+OpenBSD: []
 Pandoc:
     aliases: []
-Paul Graham:
-    aliases: []
+Paul Graham: []
 Peter Thiel:
     aliases:
-    - thiel
+        - thiel
 psychology:
     aliases:
-    - psych
+        - psych
 Python:
     aliases:
-    - py
+        - py
     parents:
-    - programming
+        - programming
 quantified self:
     aliases:
-    - qs
-    - life-logging
-    - sousveillance
+        - qs
+        - life-logging
+        - sousveillance
 Quora:
     aliases: []
 Scott Alexander:
@@ -142,28 +127,27 @@ self-improvement:
     aliases: []
 set theory:
     aliases:
-    - set-theory
+        - set-theory
 site info:
-    aliases:
-    - site
+    aliases: site
 Slate Star Codex:
     aliases:
-    - ssc
-    - slate-star
+        - ssc
+        - slate-star
 University of Washington:
     aliases:
-    - uw
-    - uwashington
-    - university-of-washington
+        - uw
+        - uwashington
+        - university-of-washington
 University of Washington Computer Science and Engineering:
     aliases:
-    - uw cse
+        - uw cse
 University of Washington course review:
     aliases:
-    - uw course
-    - uw course review
+        - uw course
+        - uw course review
 University of Washington honors program:
     aliases:
-    - uw-honors
-    - uw honors
-    - honors-program
+        - uw-honors
+        - uw honors
+        - honors-program
