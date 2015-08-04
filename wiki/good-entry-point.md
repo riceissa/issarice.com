@@ -1,9 +1,10 @@
 ---
 title: Good entry point
-#description: none
+description: Online pages should be useful to people coming from outside the site.
+feed_description: Add new advantages and examples for this site.
 author: Issa Rice
 creation_date: 2015-01-02
-last_major_revision_date: 2015-01-02
+last_major_revision_date: 2015-08-04
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
@@ -61,6 +62,9 @@ Below, we consider the advantages and disadvantages of trying to make many pages
 - Leads to higher quality pages, since one must put more effort into making them comprehensible (?)
 - Easier exporting of the site.
 In other words, in the future I might want to split up the site by e.g. subject[^split], and having roughly independent pages means I don't have to worry about dependency issues.
+- Since a lot of web traffic now comes from social media, it's important to make pages "share-friendly", i.e. be useful to people coming in from e.g. Facebook shares, even if they're not familiar with your site.
+(This is essentially the same point as in the case of search traffic.
+In both cases, you should just assume that most people aren't familiar with your site.^[Though some sites use this "foreignness" well, as in the case of e.g. everything2 or AutoAdmit, which have a different "feel" to the site than most sites, which (for me) makes them more interesting.])
 
 [^split]: This might be the case if my website begins to accumulate *a lot* of content.
 Right now, even fairly large personal websites (like, say, gwern's) can be processed easily with Hakyll and uploaded as a static site.
@@ -76,3 +80,12 @@ I don't imagine this site will ever grow to become something like the size of Wi
 # On this site
 
 I have tried to make pages good entry points on here.
+One specific "technique" here is that I try to add meta-notes in italics at the top for navigation, e.g. see my [About me]() page:
+
+> *This page is about myself (Issa Rice); for information about this
+> website, see [About the site]().*
+
+Another technique: the first paragraph of a page is usually a Wikipedia-style introduction, with bolded keyword and general introduction to the topic.
+This allows readers to quickly tell if the page they're reading is something they want to be reading (sort of like how abstracts function in academic papers).
+
+I also try to avoid [jargon]().
