@@ -35,7 +35,7 @@ import commands as c
 def url_filter(key, value, format_, meta):
     '''
     Filter special links.  If a link is of the form '!STRING', use the
-    !-expression to search DuckDuckGo.  So for instance (with markdown)
+    bang-expression to search DuckDuckGo.  So for instance (with markdown)
     '[Fishmans](!w)' would search Wikipedia for "Fishmans".  If a link
     is empty, like '[About me]()', then automatically link to the
     slug-form of the text; in this case, the link would be transformed
