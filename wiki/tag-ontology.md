@@ -70,3 +70,6 @@ But is [What is the significance of Hume's inductive reasoning?](https://www.quo
 I think not.
 
 see also [Trees, TreeViews, and UI](http://blog.codinghorror.com/trees-treeviews-and-ui/), [Google's War on Hierarchy, and the Death of Hierarchical Folders](https://web.archive.org/web/20060106062021/http://www.microcontentnews.com/articles/deathofhierarchy.htm)
+
+with my tag ontology: *for the end-user*, it's as simple as Gmail's tagging system; there is no hierarchy.
+Really, it's just *a shorthand for manually tagging something with multiple tags*; the system just understands what other tags you *would have applied*.
