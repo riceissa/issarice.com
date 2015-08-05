@@ -58,7 +58,7 @@ extend the list I came up with).
 - Permissions (e.g. ability to edit others' comments)
     - Version control (though I've never seen this before)
 - Timestamp
-- Quotation (as on bulletin boards)
+- Quotation (as on bulletin boards); see [Web Discussions: Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/) again.
 - Independence (i.e., each comment to a post could become a post itself, to which others could comment)
 
 Some questions to ask:
