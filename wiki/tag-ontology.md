@@ -69,4 +69,4 @@ Moreover it says "A parent topic is a more general topic that fully includes eve
 But is [What is the significance of Hume's inductive reasoning?](https://www.quora.com/What-is-the-significance-of-Humes-inductive-reasoning) a question that should be in the topic (to take the closest topic) "Philosophers"?
 I think not.
 
-see also [Trees, TreeViews, and UI](http://blog.codinghorror.com/trees-treeviews-and-ui/)
+see also [Trees, TreeViews, and UI](http://blog.codinghorror.com/trees-treeviews-and-ui/), [Google's War on Hierarchy, and the Death of Hierarchical Folders](https://web.archive.org/web/20060106062021/http://www.microcontentnews.com/articles/deathofhierarchy.htm)
