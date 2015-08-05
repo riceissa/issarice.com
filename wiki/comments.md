@@ -35,7 +35,7 @@ should I use for *my* site?"
 It might be worthwhile to list all the possible parameters (i.e. to
 extend the list I came up with).
 
-- Nesting
+- Nesting/threading: [Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/)
 - Unit of language relevant for replies
     - talk about [Comment Press](http://futureofthebook.org/commentpress/)
     - Medium also has paragraph-level comments
