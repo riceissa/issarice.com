@@ -20,6 +20,21 @@
 #
 # For more information, please refer to <http://unlicense.org/>
 
+import json
+import yaml
+import util
+
+def main():
+    with open("tag_ontology.yaml", "r") as f:
+        data = yaml.load(f)
+    for tag in data:
+        if data[tag]:
+            for k in data[tag]:
+                print(tag)
+                data[tag][k] = util.parse_as_list(data[tag][k])
+    print(data)
+
+
 class CyclePresenceException(Exception):
     """
     A cycle is present in the digraph, when it shouldn't be (for a DAG).
@@ -91,6 +106,22 @@ class TagDag(object):
         """
         self.data = {}
         self.casing = casing
+
+    def import_from_yaml_file(self, filename):
+        """
+        Args:
+            filename: Location of YAML file.
+        """
+        with open(filename, "r") as f:
+            dictionary = yaml.load(f)
+        for tag in dictionary:
+            if dictionary[tag]:
+                for k in dictionary[tag]:
+                    dictionary[tag][k] = util.parse_as_list(dictionary[tag][k])
+        for tag in dictionary:
+            node = TagNode(tag, dictionary[tag].get("aliases", []))
+            self.add_tag(node)
+
 
     def __contains__(self, tag):
         """
@@ -221,3 +252,5 @@ class TagDag(object):
     def size(self):
         return len(self.data)
 
+if __name__ == "__main__":
+    main()

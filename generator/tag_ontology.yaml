@@ -2,16 +2,20 @@ advantages:
     aliases:
         - pros
         - pro
+    parents: [procon]
 advantages and disadvantages:
     aliases:
         - procon
         - pros and cons
+    parents: comparisons
 atmospheric sciences:
     aliases:
         - atmos
+    parents: science
 biology:
     aliases:
         - bio
+    parents: science
 Bryan Caplan:
     aliases:
         - caplan
@@ -21,11 +25,14 @@ cause prioritization:
 chemistry:
     aliases:
         - chem
+    parents: science
 Cognito Mentoring:
     aliases:
         - cm
         - cognito-mentoring
         - cognito
+complex analysis:
+    aliases: analysis
 computer science:
     aliases:
         - cs
@@ -39,27 +46,30 @@ content creation:
 Debian:
     aliases:
         - deb
+    parents: linux
 digital preservation:
     aliases:
         - archival
+        - archives
         - archiving
+        - digital archival
         - digital archives
         - digital archiving
-        - digital archival
-        - data archiving
         - data archival
+        - data archiving
+        - data archiving
 disadvantages:
     aliases:
         - con
         - cons
+    parents:
+        - pros and cons
 economics:
     aliases:
         - econ
 effective altruism:
     aliases:
-        - ea
-        - effective-altruism
-        - effectivealtruism
+        - EA
 Eliezer Yudkowsky:
     aliases:
         - eliezer
@@ -68,13 +78,11 @@ English: []
 Facebook: []
 GitHub: []
 Hakyll:
-    parents: Haskell
-Haskell: []
+    parents: Haskell, static site generators
+Haskell:
+    parents: programming, programming language
 Halmos:
     parents: math
-high school:
-    aliases:
-        - hs
 human biodiversity:
     aliases:
         - hbd
@@ -87,21 +95,25 @@ LessWrong:
     aliases:
         - lw
         - less wrong
+link rot:
+    parents: digital preservation
 links collection:
     aliases:
         - link-collection
         - resources
         - links
-Linux: []
+Linux:
+    aliases: computing
 math:
     aliases:
         - maths
         - mathematics
 open borders:
     aliases: ob
-OpenBSD: []
+OpenBSD:
+    aliases: computing
 Pandoc:
-    aliases: []
+    aliases: [computing]
 Paul Graham: []
 Peter Thiel:
     aliases:
@@ -148,6 +160,5 @@ University of Washington course review:
         - uw course review
 University of Washington honors program:
     aliases:
-        - uw-honors
         - uw honors
         - honors-program
