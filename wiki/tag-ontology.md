@@ -68,3 +68,5 @@ The topic has parents:
 Moreover it says "A parent topic is a more general topic that fully includes everything in this topic. For example, Food would be a parent topic of French Food."
 But is [What is the significance of Hume's inductive reasoning?](https://www.quora.com/What-is-the-significance-of-Humes-inductive-reasoning) a question that should be in the topic (to take the closest topic) "Philosophers"?
 I think not.
+
+see also [Trees, TreeViews, and UI](http://blog.codinghorror.com/trees-treeviews-and-ui/)
