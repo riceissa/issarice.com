@@ -91,6 +91,7 @@ From <http://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-comme
 
 > Nobody cares about charity. Everybody cares about politics, especially race and gender. Just as televangelists who are obsessed with moving to a sweeter pad may come to think that donating to their building fund is the one true test of a decent human being, so our universal obsession with politics, race, and gender incites people to make convincing arguments that taking and spreading the right position on those issues is the one true test of a decent human being.
 
+There's also the quote about regretting not what you do but what you don't do.
 
 # Writing
 
