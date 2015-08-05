@@ -105,10 +105,9 @@ def parse_as_list(x, delimiter=','):
     list.
     '''
     if type(x) in [str]:
-        return [to_unicode(i.strip()) for i in x.split(delimiter)
-            if i != '']
+        return [i.strip() for i in x.split(delimiter) if i != '']
     elif type(x) is list:
-        return [to_unicode(i) for i in x]
+        return [i for i in x]
     else:
         return []
 
