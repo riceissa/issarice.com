@@ -15,12 +15,14 @@ status: notes
 #belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: longnow, long-term thinking, content creation
 #aliases: 
 ---
 
+Some vaguely related threads about perfectionism, short term vs long term, etc.
+
 - math psets: "easy to do, hard to write up"
-- computer security; [solipsist](http://lesswrong.com/user/solipsist/overview/) [comments](http://lesswrong.com/r/discussion/lw/mi3/open_thread_jul_20_jul_26_2015/cljq):
+- computer security; user [solipsist](http://lesswrong.com/user/solipsist/overview/) [comments](http://lesswrong.com/r/discussion/lw/mi3/open_thread_jul_20_jul_26_2015/cljq):
 
     > The market doesn't support secure software. The expensive part
     > isn't writing the software -- it's inspecting for defects
@@ -42,10 +44,35 @@ tags: untagged
     > own
 
 - writing yc post
-- programming
+- programming: "over-engineering" something; and of course Facebook's famous "move fast and break things; if you're not breaking things you're not moving fast enough" etc.^[Though Zuckerberg has shifted Facebook away from that now.]
 - 4chan -- HN's take on php code
+
+    [treehau5](https://news.ycombinator.com/user?id=treehau5):
+
+    > I mean,
+    > 
+    > Yes I hate PHP more than the next guy,
+    > 
+    > Yes this code is terrible,
+    > 
+    > But you know what? I can read it, and follow along. And that's
+    > actually more to say than other "beautiful" code that was
+    > obfuscated behind 3 or 4 levels of unnecessary levels of
+    > abstraction or indirection.
+
+    [dewey](https://news.ycombinator.com/user?id=dewey):
+
+    >  And yet, despite the horrible code, it's still powering an Alexa
+    >  Top 500 page without any huge problems I've heard of. 
+
+    [TheAceOfHearts](https://news.ycombinator.com/user?id=TheAceOfHearts):
+
+    >  I think this just goes to show that you can have a lot of
+    >  popularity even if your code is just sorta glued together.
+
+    - of course, the opposite is [suckless's philosophy](http://suckless.org/philosophy)
+
 - 80-20 rule
 - semantic web; impatience
 - same with semantic web: the market won’t accept it because people don’t wanna put in the work
-
 - same with archiving things

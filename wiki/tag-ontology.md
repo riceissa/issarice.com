@@ -46,6 +46,8 @@ But it doesn't follow that if a post is tagged "Halmos" it should also be tagged
 In other words, the crucial consideration is: Can we produce a post that is tagged $A$ that should *not* be tagged $B$?
 If "yes", then $A \not\to B$.
 
+Another wording: if someone were to look at the [tags page](_tags/index) for $B$, would they be pleased to find *every single page* from $A$ included?
+
 Quora uses DAGs for their topic ontology; see [Adam D'Angelo's answer to Are Quora topic hierarchies a directed acyclic graph?](https://www.quora.com/Are-Quora-topic-hierarchies-a-directed-acyclic-graph/answer/Adam-DAngelo):
 
 > **Yes.** The topic parent/child relationships form a DAG. This means that
