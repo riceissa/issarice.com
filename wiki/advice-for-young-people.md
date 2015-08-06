@@ -144,13 +144,13 @@ resonated with me:
 >
 > \[...\]
 >
->I think the important thing about the real world is not that it's
->populated by adults, but that it's very large, and the things you do
->have real effects. That's what school, prison, and ladies-who-lunch all
->lack. The inhabitants of all those worlds are trapped in little bubbles
->where nothing they do can have more than a local effect. Naturally
->these societies degenerate into savagery. They have no function for
->their form to follow.
+> I think the important thing about the real world is not that it's
+> populated by adults, but that it's very large, and the things you do
+> have real effects. That's what school, prison, and ladies-who-lunch all
+> lack. The inhabitants of all those worlds are trapped in little bubbles
+> where nothing they do can have more than a local effect. Naturally
+> these societies degenerate into savagery. They have no function for
+> their form to follow.
 >
 > \[...\]
 >
