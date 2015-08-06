@@ -557,6 +557,17 @@ reading it." (Emphasis removed, since it was over the whole quote.)
 - That said, basically most of the extracurriculars people do in high school are essentially useless in terms of building long-term skills and value.
 - It might sound nice to be "the best at something", but really, is all the work really worth it? A top contest math student might well [spend 1000 to 2000 hours](https://www.quora.com/How-much-time-does-the-average-USAMO-qualifier-spend-preparing-specifically-for-math-contests) preparing for contests, but is all the work really worth it in the end? It's always instructive to ask yourself: is there something I can do that is both fulfilling *and* important for the world (actually produces value)? Examples might include: doing research (especially online content creation, e.g. adding to [Wikipedia]()) and programming (especially writing free software).
 
+    See also [Chinese loses math face\-off to U\.S\. \- CNN\.com](http://www.cnn.com/2015/08/05/china/us-defeat-china-math-olympiad/):
+
+    > But to some, losing the Olympiad offers hope that painful,
+    > nightmarish years spent studying for the contest could finally be
+    > over.
+    >
+    > "This is just wonderful that China finally lost the contest," one
+    > Chinese Internet user exclaimed on social network Weibo.
+    > "Hopefully the Math Olympiad won't scourge our children anymore!
+    > It has shattered so many kids' dreams!" 
+
 # Doing something important
 
 Richard Hamming's famous talk, "[You and Your Research]" is *very*
