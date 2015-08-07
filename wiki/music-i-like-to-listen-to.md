@@ -17,7 +17,7 @@ I mostly listen to mainstream Western music from a few decades back: Bob Dylan^[
 I've also fairly recently discovered [Fishmans](!w)^["頼りない天使", "バックビートにのっかって", and also their later albums: *空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.], [Sidi Touré](!w), [Detektivbyrån](!w), [Jean Michel Jarre](!w), [Jean-Luc Ponty](!w), mostly through my father.
 
 [^kinks]: I really enjoy Ray Davies' cynical worldview.
-See songs like "Sitting in my Hotel", "Supersonic Rocket Ship" (I read this as an indictment of modernity's populism/PC culture: "Nobody's gonna travel second class / There'll be equality / And no suppression of minorities"), "Waterloo Sunset" (okay, this one is just sweet), "Apeman", "Autumn Almanac", "Little Miss Queen Of Darkness".
+See songs like "Sitting in my Hotel", "Supersonic Rocket Ship" (I read this as an indictment of modernity's populism/PC culture: "Nobody's gonna travel second class / There'll be equality / And no suppression of minorities"), "Waterloo Sunset" (okay, this one is just sweet), "Apeman", "Autumn Almanac", "Little Miss Queen Of Darkness", "People Take Pictures of Each Other".
 
 I also like some simple Japanese songs like [ゴンドラの唄](!wja) ([Gondola no Uta](!w)), [Aogeba Tōtoshi](!w) and [赤とんぼ (童謡)](!wja) (Red Dragonfly).
 I also like João Gilberto's Chega De Saudade (even though I've never bothered to look up any of the lyrics) and Antonio Carlos Jobim's Stone Flower.
