@@ -468,11 +468,7 @@ sport, for instance, may provide short-term satisfaction, but in the
 long term (say, after ten years) it is difficult to say what overall
 effect the sport had.  (There are obviously creative ways to provide
 value even with a sport, e.g. by recording it and therefore providing
-entertainment even after one has stopped playing, or by having instilled
-in one a sense of discipline in maintaining one's health[^otherways].)
-
-[^otherways]: Though with this, it's always possible *without* spending
-all the time on a sport.
+entertainment even after one has stopped playing.)
 
 I'm probably unusual in thinking that *in moderate amounts of each*
 recreational drug use is probably more useful than sports.
