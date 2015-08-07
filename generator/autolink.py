@@ -55,6 +55,9 @@ def try_url(url):
     Return (Str, True) if succeeded; (Str, False) otherwise.
     '''
     result = {}
+    analyte = analyze_url(url)
+    if analyte:
+        return analyte
     try:
         user_agent = "Mozilla/5.0 (X11; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0 Iceweasel/31.5.0"
         headers = {"User-Agent": user_agent}
@@ -73,12 +76,31 @@ def try_url(url):
         result["exit"] = False
     return result
 
+def analyze_url(url):
+    """
+    Look just at the URL to see if a suitable title text can be found.  This
+    method is much faster than actually visiting the URL to find the title
+    element in the downloaded file. We want to do this for special sites like
+    Facebook, which doesn't allow anonymous downloading of certain pages, like
+    group pages.
+
+    Args:
+        url: A string that is a URL
+
+    Returns:
+        A string that is the title text to be used. If no suitable title text
+        can be produced, return the empty string, "".
+    """
+    return ""
+
 def get_link_text(url, mime_type, data=None):
     '''
     Take URL, MIME type, and optional data to produce the link text.
     '''
     tld = get_tld(url)
     result = "File on " + tld
+    if tld == "facebook.com" and "facebook.com/groups/" in url:
+            return "Facebook group page post"
     if mime_type.startswith("image"):
         result = "Image on " + tld
     elif mime_type == "application/pdf":
