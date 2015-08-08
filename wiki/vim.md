@@ -31,3 +31,7 @@ Here's a cool way to navigate a long markdown document, assuming all headers beg
 It's possible to use `:g/pattern` to search for an expression in the current buffer and print the results.
 For markdown files, just type `:g/^#` to see all headers, for instance.
 Then, once one has found the heading one was looking for, note the line number (say, 10) and then type `:10<CR>` to get there.
+
+# Plugins or not?
+
+Lately I've been thinking that it's perhaps more desirable to simply learn Vim well instead of trying to customize Vim "needlessly".
