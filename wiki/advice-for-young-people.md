@@ -277,7 +277,7 @@ Main page: [LessWrong]().
 
 [gwern][gwern_lw] is probably one of the most well-known users on
 LessWrong.  He also has a [website][gwern] that has numerous essays on
-eveything from nootropics to Wikipedia editing.  His notion of [Long
+everything from nootropics to Wikipedia editing.  His notion of [Long
 Content][g about] is also especially inspiring: "if one holds onto every
 glimmer of genius for years, then even the dullest person may look a bit
 like a genius himself".  For high school students especially, the essays
@@ -329,7 +329,7 @@ this sense I think Cognito Mentoring does a much better job.)
 [graduation speech]: http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/
 
 Scott Alexander also has an older website called [Raikoth], which has
-the [The Consequentalism FAQ].
+the [The Consequentialism FAQ].
 
 [raikoth]: http://www.raikoth.net/
 [The Consequentalism FAQ]: http://www.raikoth.net/consequentialism.html
@@ -496,7 +496,7 @@ is by producing great content.
 # Finding content online
 
 - [my guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
-- quora/lw/ea/ssc
+- Quora/LW/EA/SSC
 - More given in "Other ideas—expanding your imagination" section
 
 # Books
@@ -701,7 +701,7 @@ can learn a lot about the most exciting things that are happening.
 
 [expand]: https://www.quora.com/What-is-the-best-advice-you-can-give-to-someone-attending-their-first-year-at-a-university/answer/Alex-K-Chen
 
-- Mencious Moldbug/neoreactionaries
+- Mencius Moldbug/neoreactionaries
 
 - Cognito Mentoring in general
 
@@ -718,15 +718,15 @@ can learn a lot about the most exciting things that are happening.
     - **Vipul Naik**
     - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/)".
     - [Raman Shah](https://www.quora.com/Raman-Shah)
-    - Inna Vishik
+    - [Inna Vishik](https://www.quora.com/Inna-Vishik)
     - [Andrew Ho](http://www.andrewjho.me/blog/)
     - gwern
     - Mencius Moldbug
     - Scott Alexander
     - **Bryan Caplan**: see my page on [EconLog]()
-    - Natalia Nezvanova
+    - [Natalia Nezvanova](https://www.quora.com/Natalia-Nezvanova)
     - Terence Tao
-    - Tim Gowers
+    - [Tim Gowers](http://gowers.wordpress.com/)
     - Eliezer Yudkowsky
     - Holden Karnofsky (see his GiveWell blog posts as well as his Harvard reunion speech in 2013)
     - Carl Shulman
@@ -796,8 +796,6 @@ opportunity cost of college.
     - Daniel Lemire
 
 - experimenting with nootropics might be a good idea
-
-
 
 - Also see [Katja Grace's post][katja adv] on advice to "aspiring
   undergraduates".  In particular:
