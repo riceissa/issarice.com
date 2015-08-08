@@ -470,7 +470,7 @@ effect the sport had.  (There are obviously creative ways to provide
 value even with a sport, e.g. by recording it and therefore providing
 entertainment even after one has stopped playing.)
 
-I'm probably unusual in thinking that *in moderate amounts of each*
+I'm probably unusual in thinking that *in moderate amounts*
 recreational drug use is probably more useful than sports.
 
 Another point: if you're *extremely unusual* compared to the
@@ -865,4 +865,6 @@ opportunity cost of college.
         [rom]: http://causeprioritization.org/Romance
 
 - [Trashing Teens](https://www.psychologytoday.com/articles/200703/trashing-teens)
+
+- [How does one discover their natural talent? How did you discover yours?](https://www.quora.com/How-does-one-discover-their-natural-talent-How-did-you-discover-yours)
 
