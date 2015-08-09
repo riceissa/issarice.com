@@ -662,8 +662,8 @@ very replaceable.  My personal opinion: just stay away from academia
 unless you have a *very* good reason.  In particular, if you're neurotic
 or mentally unstable *at all*, **just stay away**.  See also Bryan
 Caplan's [forthcoming book on education](http://econlog.econlib.org/archives/2012/03/table_of_conten.html).  See also one of my absolute
-favorite answers on Quora: "[Vipul Naik's answer to Why did you leave
-academia?][vipul leave]"
+favorite answers on Quora: [Vipul Naik's answer to Why did you leave
+academia?][vipul leave]
 
 [vipul leave]: https://www.quora.com/Why-did-you-leave-academia/answer/Vipul-Naik
 
