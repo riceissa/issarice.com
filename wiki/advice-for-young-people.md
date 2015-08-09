@@ -870,7 +870,7 @@ opportunity cost of college.
     
     - price elasticity of demand: [Price elasticity of demand](http://market.subwiki.org/wiki/Price_elasticity_of_demand)
     - supply and demand
-    - overtone window (not econ)
+    - Overton window (not econ)
     - broken windows
     - ideological turning tests
     - make-work bias
