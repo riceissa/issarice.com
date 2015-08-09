@@ -20,3 +20,5 @@ tags: untagged
 ---
 
 placeholder for now
+
+- always remember Cognito mentoring's [Stay mainstream until you have demonstrated success doing unusual stuff](http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff)
