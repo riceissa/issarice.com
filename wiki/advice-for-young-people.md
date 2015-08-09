@@ -854,3 +854,4 @@ opportunity cost of college.
     - lesswrong jargon (to some extent)
 - LEARN UNIX TOOLS WELL
 - some math concepts (like countability) *might* be useful as well
+- [P\(HONY\)](http://dmouth.com/writing/2014/8/22/phony)
