@@ -66,6 +66,7 @@ You can find my original public announcement about doing cause prioritization re
 - Some discussion at [this post by Eliezer](https://www.facebook.com/groups/effective.altruists/permalink/906061206116904)<!--[Effective Altruists](https://archive.is/lGver)-->
 - [A Note on Framing Criticisms of Effective Altruism](http://effective-altruism.com/ea/li/a_note_on_framing_criticisms_of_effective_altruism/) and [Facebook post](https://www.facebook.com/groups/effective.altruists/permalink/906412832748408/)
 - [Another Critique of Effective Altruism](http://lesswrong.com/lw/jfm/another_critique_of_effective_altruism/)
+- [Youth Movements](http://www.overcomingbias.com/2015/08/youth-movements.html)
 
 # Depression
 
