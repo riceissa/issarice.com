@@ -567,12 +567,11 @@ reading it." (Emphasis removed, since it was over the whole quote.)
 # Doing something important
 
 Richard Hamming's famous talk, "[You and Your Research]" is *very*
-inspirational.  There is a video of the talk [here]() (though I think
+inspirational.  There is a [video of the talk](https://www.youtube.com/watch?v=a1zDuOPkMSw), though I think
 reading it is better, since I don't particularly like the way he gives
-the talk).
+the talk.
 
 [you and your research]: http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
-[hamming yt]: https://www.youtube.com/watch?v=a1zDuOPkMSw
 
 Some good quotes (emphasis mine):
 
