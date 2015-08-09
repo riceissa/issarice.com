@@ -855,3 +855,4 @@ opportunity cost of college.
 - LEARN UNIX TOOLS WELL
 - some math concepts (like countability) *might* be useful as well
 - [P\(HONY\)](http://dmouth.com/writing/2014/8/22/phony)
+- [Those Whom The Gods Love Grow Young: Some Notes on Wilde, Greece & Youth](http://dmouth.com/writing/2014/4/12/those-whom-the-gods-love-grow-young-some-notes-on-wilde-greece-youth)
