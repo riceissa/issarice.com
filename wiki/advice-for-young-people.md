@@ -667,7 +667,7 @@ academia?][vipul leave]
 
 [vipul leave]: https://www.quora.com/Why-did-you-leave-academia/answer/Vipul-Naik
 
-See also [this answer](https://href.li/?https://academia.stackexchange.com/questions/44122/why-do-undergraduate-admissions-in-the-u-s-take-into-account-nonacademic-criteri) (about undergrad admissions, not grad school)
+See also the question [Why do undergraduate admissions in the U\.S take into account nonacademic criteria?](https://academia.stackexchange.com/questions/44122/why-do-undergraduate-admissions-in-the-u-s-take-into-account-nonacademic-criteri) (about undergrad admissions, not grad school)
 
 Raman Shah says that [avoiding a PhD is the best way to prevent your
 twenties from being as bad as
