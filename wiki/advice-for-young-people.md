@@ -747,9 +747,7 @@ can learn a lot about the most exciting things that are happening.
 - Eschewing the mainstream: how to ignore implicit (and explicit) social
   pressures?  How to ignore for example pressure to complete homework
   assignments?
-
 - Experimenting with homelessness; see gwern
-
 - "[Activism Goes Away After Graduation][activism]" by Sam Alexander.
   Ōe Kenzaburō has also written a short story ("Human Sheep") that
   explores this psychology of not wanting to "get justice" after a
@@ -762,37 +760,28 @@ can learn a lot about the most exciting things that are happening.
 radical experimentation,
 how *little* people remember from lectures/class,
 opportunity cost of college.
-
 - the importance of *creating things* and *having something to look back
   on*; take the example of Uber: on bad days, Travis Kalanick can just
   look at the usage chart of his company.
-
 - [Quora](http://quora.com) has a lot of information on [Education Disruption](https://education-disruption.quora.com/).
-
 - Although [Cognito Mentoring](http://cognitomentoring.org/) is [officially in maintenance mode](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/), there is still a [wiki](http://info.cognitomentoring.org/wiki/Main_Page) with a lot of useful information.
 (Disclosure: I [contribute to the wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).)
-
 - conventional intellectual heroes like Bertrand Russell, Feynman,
   Chomsky, etc., can be good to a certain extent, in that they show you
   how to stand up for something, apply critical thinking, etc.  However,
   compared to LW and the "new wave" of critical thinking in the
   2000s/2010s, they are somewhat outdated.
-
 - Read Roy Baumeister's "[Is There Anything Good About Men?](http://denisdutton.com/baumeister.htm)"
-
 - In general, you should stalk the lives of the most promising
   entrepreneurs like Mark Zuckerberg, Travis Kalanick (see especially
   his failcon talk), Jeff Bezos, etc.  These people are the new wave of
   "most impressive people", following traditional impressive people like
   Feynman.
-
 - Some other possible names from [this post](http://lesswrong.com/lw/6he/what_are_lesswrongs_thoughts_on_venkatesh_rao/):
     - Venkatesh Rao
     - Gregody Rader
     - Daniel Lemire
-
 - experimenting with nootropics might be a good idea
-
 - Also see [Katja Grace's post][katja adv] on advice to "aspiring
   undergraduates".  In particular:
 
@@ -826,17 +815,12 @@ opportunity cost of college.
   are lonely all the time*.  I tend to take the view that socializing
   with people from whom you will gain little is worse than not
   socializing at all.
-
 - Even if you go to an elite school, are you *really* getting much out
   of the social scene?  Are the things you're learning in class *really*
   useful?
-
 - "[To Fall in Love With Anyone, Do This](http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html)" and "[The 36 Questions That Lead to Love](http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html)"
-
 - [Let the Poor Have Fun](http://www.nytimes.com/2013/09/17/opinion/let-the-poor-have-fun.html?_r=0)
-
 - "[BuzzFeed doesn't need 'trust' to win the Internet](http://exp.issarice.com/buzzfeed.html)"
-
 - ‘ [“I was a middle-aged virgin”](http://www.salon.com/2003/10/08/virgin_6/) ’
 
     - Quote I really like:
@@ -849,7 +833,6 @@ opportunity cost of college.
         > It’s a profound experience.  Often, clients cry.”
 
 - some unresolved problems:
-
     - getting paid to do work
     - romance...; I've been doing some work on this [on the CP
       Wiki][rom], though it's not specifically about getting into
@@ -859,11 +842,8 @@ opportunity cost of college.
         [rom]: http://causeprioritization.org/Romance
 
 - [Trashing Teens](https://www.psychologytoday.com/articles/200703/trashing-teens)
-
 - [How does one discover their natural talent? How did you discover yours?](https://www.quora.com/How-does-one-discover-their-natural-talent-How-did-you-discover-yours)
-
 - maybe learning about a lot of econ concepts is a really good idea for young people:
-    
     - price elasticity of demand: [Price elasticity of demand](http://market.subwiki.org/wiki/Price_elasticity_of_demand)
     - supply and demand
     - Overton window (not econ)
@@ -872,6 +852,5 @@ opportunity cost of college.
     - make-work bias
     - ideas from *thinking, fast and slow*
     - lesswrong jargon (to some extent)
-
 - LEARN UNIX TOOLS WELL
 - some math concepts (like countability) *might* be useful as well
