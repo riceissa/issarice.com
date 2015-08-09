@@ -700,10 +700,7 @@ can learn a lot about the most exciting things that are happening.
 
 [expand]: https://www.quora.com/What-is-the-best-advice-you-can-give-to-someone-attending-their-first-year-at-a-university/answer/Alex-K-Chen
 
-- Mencius Moldbug/neoreactionaries
-
 - Cognito Mentoring in general
-
 - Here's a list of people you should look into (and read as much of what
   they say as you can stand); bolding indicates people I particularly
   recommend:
@@ -720,7 +717,7 @@ can learn a lot about the most exciting things that are happening.
     - [Inna Vishik](https://www.quora.com/Inna-Vishik)
     - [Andrew Ho](http://www.andrewjho.me/blog/)
     - gwern
-    - Mencius Moldbug
+    - Mencius Moldbug/neoreactionaries
     - Scott Alexander
     - **Bryan Caplan**: see my page on [EconLog]()
     - [Natalia Nezvanova](https://www.quora.com/Natalia-Nezvanova)
