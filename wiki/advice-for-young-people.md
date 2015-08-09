@@ -866,3 +866,16 @@ opportunity cost of college.
 
 - [How does one discover their natural talent? How did you discover yours?](https://www.quora.com/How-does-one-discover-their-natural-talent-How-did-you-discover-yours)
 
+- maybe learning about a lot of econ concepts is a really good idea for young people:
+    
+    - price elasticity of demand: [Price elasticity of demand](http://market.subwiki.org/wiki/Price_elasticity_of_demand)
+    - supply and demand
+    - overtone window (not econ)
+    - broken windows
+    - ideological turning tests
+    - make-work bias
+    - ideas from *thinking, fast and slow*
+    - lesswrong jargon (to some extent)
+
+- LEARN UNIX TOOLS WELL
+- some math concepts (like countability) *might* be useful as well
