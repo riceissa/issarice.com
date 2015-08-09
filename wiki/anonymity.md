@@ -24,6 +24,7 @@ Some thoughts on anonymity... (for now)
 - the other one on anon bbses
 - LONG TERM THINKING
 - also quite useful for some things, like [Belle de Jour](!w Belle_de_Jour_%28writer%29) and activists etc.
+- [Why I wiped my LinkedIn profile](https://michaelochurch.wordpress.com/2013/01/02/why-i-wiped-my-linkedin-profile/)
 - scanning <https://en.wikipedia.org/wiki/Anonymity>:
     - benefits:
         - candor
