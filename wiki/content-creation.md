@@ -102,6 +102,13 @@ Crossposting content to different sites can be useful because different audience
 It's possible to just host the content on your website and drop a link for other sites, but keep in mind that people may be too lazy to click on a link if they don't know why it might be relevant for them.
 Including a quote or copy-pasting the whole article may be better.
 
+# Contributing to another site
+
+Consider whether publishing something on one's own site is preferable to publishing in a place where others can edit your work (e.g. Wikipedia).
+Brian Tomasik writes in [Is It Better to Blog or Formally Publish? | Essays on Reducing Suffering](http://reducing-suffering.org/is-it-better-to-blog-or-formally-publish/):
+
+> If what you want to write is not original, then consider adding the content to
+> Wikipedia rather than reinventing wheels.
 
 # Hosting options
 
