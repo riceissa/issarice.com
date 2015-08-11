@@ -44,6 +44,16 @@ Some vaguely related threads about perfectionism, short term vs long term, etc.
     > own
 
 - writing yc post
+- Brian Tomasik in [Is It Better to Blog or Formally Publish? | Essays on Reducing Suffering](http://reducing-suffering.org/is-it-better-to-blog-or-formally-publish/):
+
+    > Currently I incline against publishing in academia most of the
+    > time, since I find that it takes a lot of effort to write papers
+    > in the style that a journal demands, while the payoff from having
+    > a journal publication isn't necessarily that big unless you're
+    > trying to get tenure. However, if you can get funding by being a
+    > grad student, the cost-benefit calculation changes and may make
+    > academic publishing a good idea.
+
 - programming: "over-engineering" something; and of course Facebook's famous "move fast and break things; if you're not breaking things you're not moving fast enough" etc.^[Though Zuckerberg has shifted Facebook away from that now.]
 - 4chan -- HN's take on php code
 
