@@ -311,8 +311,6 @@ class Page(object):
         '''
         if not self.metadata:
             self.load_metadata()
-        if "description" in self.metadata:
-            self.metadata["description"] = escape(self.metadata["description"])
         env = Environment(loader=FileSystemLoader('.'))
         if self.metadata['language'].lower() in [u"ja", u"japanese",
             u"にほんご", u"日本語"]:
