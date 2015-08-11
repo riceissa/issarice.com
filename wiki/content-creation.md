@@ -81,6 +81,7 @@ But also keep “[not invented here](https://en.wikipedia.org/wiki/Not_invented_
 Also many more websites use things like WordPress rather than static sites built using things like Jekyll or Hakyll.
 So wonder: are you missing something that the "crowd" has?
 
+See also [Static site generators focus on the wrong thing](https://news.ycombinator.com/item?id=7822233).
 
 ## More "advanced" content management systems like WordPress and MediaWiki
 
