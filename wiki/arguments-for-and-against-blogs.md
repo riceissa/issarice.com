@@ -69,5 +69,7 @@ The conclusion is essentially identical to gwern's:
 > should be regularly updated as we learn and discover new aspects of the
 > topic.
 
+# See also
 
+- [Is It Better to Blog or Formally Publish? | Essays on Reducing Suffering](http://reducing-suffering.org/is-it-better-to-blog-or-formally-publish/)
 
