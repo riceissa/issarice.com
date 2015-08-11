@@ -1,6 +1,8 @@
 ---
 title: Advice for young people
-description: '“A schooling in truth.”'
+description: >-
+    An attempt at a true liberal arts education;
+    “a schooling in truth”.
 feed_description: Added a quote by Raman Shah, among numerous other updates
 author: Issa Rice
 last_major_revision_date: 2015-05-02
