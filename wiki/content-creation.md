@@ -110,6 +110,8 @@ Brian Tomasik writes in [Is It Better to Blog or Formally Publish? | Essays on R
 > If what you want to write is not original, then consider adding the content to
 > Wikipedia rather than reinventing wheels.
 
+See also [Sponsored Wikipedia editing](http://vipulnaik.com/sponsored-wikipedia-editing/) and [The Value of Wikipedia Contributions in Social Sciences | Essays on Reducing Suffering](http://reducing-suffering.org/the-value-of-wikipedia-contributions-in-social-sciences/).
+
 # Hosting options
 
 Some media (like blogs) allow the choice of whether to host the content oneself (e.g. using WordPress's software on one's own servers), or to post all content "on the cloud", i.e. on a third-party's servers (e.g. on [WordPress.com](https://wordpress.com)).
