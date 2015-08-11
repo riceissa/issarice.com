@@ -37,9 +37,17 @@ Within mathematics, [Terence Tao argues](http://terrytao.wordpress.com/career-ad
 
 # Value for the world
 
-See [this post](https://www.facebook.com/vipulnaik.r/posts/10202840266223633) by Vipul Naik on whether there is low-hanging fruit for encouraging young people to work on side projects, including web content creation.
+Vipul Naik [asks](https://www.facebook.com/vipulnaik.r/posts/10202840266223633) whether there is low-hanging fruit for encouraging young people to work on side projects, including web content creation:
 
-See [this post](https://www.facebook.com/vipulnaik.r/posts/10202884940740468) by Vipul Naik on whether academic research or blogging produces more social value.
+> Do you think there's a lot of low-hanging fruit that can be plucked by
+> encouraging more young people to do side projects (particularly things
+> that benefit from scale, such as websites or apps)? What are some
+> pieces of advice you would offer to young people to help them choose
+> side projects that are doable and impactful personally (learning,
+> consumption, and signaling) and socially?
+
+Vipul Naik also [asks](https://www.facebook.com/vipulnaik.r/posts/10202884940740468) whether academic research or blogging produces more social value.
+Brian Tomasik has his take on the issue in [Is It Better to Blog or Formally Publish? | Essays on Reducing Suffering](http://reducing-suffering.org/is-it-better-to-blog-or-formally-publish/).
 
 See also Robert Winslow's answer to the Quora question "[What do effective altruists think of online content creation?](https://www.quora.com/What-do-effective-altruists-think-of-online-content-creation)", which begins:
 
