@@ -33,6 +33,7 @@ See [Content availability]() for more.
 
 There are several alternatives for sharing content online, including on a blog, on a static website, on a third-party site like Quora, on a Google group, a mailing list, Facebook statuses, and so on.
 We examine several options below.
+See also the chart [Where should I publish a given piece?](http://reducing-suffering.org/is-it-better-to-blog-or-formally-publish/#Where_should_I_publish_a_given_piece) by Brian Tomasik.
 
 
 ## Quora
