@@ -65,8 +65,10 @@ See for instance Qiaochu Yuan in "[Boring Advice Repository](http://lesswrong.co
 
 In "[Culture is not about esthetics](http://www.gwern.net/Culture%20is%20not%20about%20Esthetics)", gwern argues that we ought to discourage the production of new entertainment content---novels, poems, music, movies, etc.
 But this is but one form of excess, though a particularly notable one.
+(See also [an appendix on new media](http://foundational-research.org/publications/education-matters-for-altruism/#Appendix_Why_can_you_only_promote_new_media) by Brian Tomasik.)
 We can consider material excess, but, being in the age of the [attention economy](!w), we might look for excess in information.
 Many have argued that [news is a waste of time](http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html), for instance.
+(See also Aaron Swartz and [Brian Tomasik](http://foundational-research.org/publications/education-matters-for-altruism/#Appendix_News_values_are_not_optimal_for_learning) on news.)
 
 but those are on the receiving end; what about content creation?
 Should some things never be said?
