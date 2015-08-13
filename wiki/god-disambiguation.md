@@ -26,5 +26,4 @@ aliases: god
 - [Peter Thiel](!w)
 - [Paul Graham](!w)
 - [Omega](http://wiki.lesswrong.com/wiki/Omega)
-- [Taylor Swift](!w)
 - [Michael O. Church](https://michaelochurch.wordpress.com/)
