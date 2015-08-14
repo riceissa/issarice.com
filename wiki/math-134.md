@@ -95,3 +95,4 @@ My advice for future students is to take the AP Calculus exam, as it offers more
 # See also
 
 - [MATH 134 — anything I should know? • /r/udub](https://www.reddit.com/r/udub/comments/3g2swr/math_134_anything_i_should_know/)
+- [Math 134/5/6](http://davidjekel.com/uw-portfolio/classes/math-13456/)
