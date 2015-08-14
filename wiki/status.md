@@ -68,6 +68,20 @@ For instance [Anne Ruggles Gere writes][arg] (quoted in "[Shutting Down Tolkien]
 > language of the group often became acerbic or vacuous because members
 > felt (perhaps unconsciously) that they had no purpose.
 
+See also [Brian Tomasik's advice on agile projects](http://reducing-suffering.org/random-ideas-and-suggestions/#Agile_projects), which encourages early feedback:
+
+> When it comes to writing a paper or planning a campaign or picking a
+> cause to focus on, a little bit of feedback at the beginning is worth
+> hundreds of micro-edits or small optimizations later on. The topic
+> that you write about can matter more than everything else in your
+> whole article. If you complete a research paper about something
+> unimportant, it doesn't much matter how well written and well
+> researched the piece is (unless your goal is to establish prestige as
+> a writer or build an audience that you can then direct toward your
+> more important essays).
+
+This is why I like to leave even completely empty pages on this site, so people can give me feedback on which pages I should work on more.
+
 # See also
 
 - [Belief]() tags are also used on this site.
