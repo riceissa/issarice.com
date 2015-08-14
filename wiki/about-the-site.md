@@ -19,9 +19,11 @@ all the source files used to produce this site human-readable (by
 writing pages in [Pandoc] markdown and storing them in [plain text](http://wcm1.web.rice.edu/my-academic-book-in-plain-text.html)), version-controlled (with [git](!w Git_\(software\))), and
 freely-licensed (all pages are *at least* [CC-BY], with some in the public
 domain[^copy]; the [software used to make this site](#colophon) is all
-free software).  I also like to [release early, release often][rero]; I
+free software).  I also like to [release early, release often][rero][^agile]; I
 actually don't deploy the site as often, but I try to commit to the git
 repository often---so my site is the result of many incremental updates[^aaron].
+
+[^agile]: See also [Random Ideas and Suggestions | Essays on Reducing Suffering: Agile Projects](http://reducing-suffering.org/random-ideas-and-suggestions/#Agile_projects).
 
 [^aaron]: I realize that [Aaron Swartz](http://www.aaronsw.com/weblog/archive) likes to "[Release Late, Release Rarely](http://www.aaronsw.com/weblog/rlrr)" to the public:
 
