@@ -46,6 +46,4 @@ OLD:
 
 - figure out why LaTeX code blocks aren't highlighting; i think this is just because pandoc only highlights comments for LaTeX, for some reason
 - import remaining pages from github pages site. & add more notes files.
-- decide what to do about image/pdf hosting (just outsource? .. to WP or
-  flickr)
 - on tags, show the number of items in each tag in parentheses
