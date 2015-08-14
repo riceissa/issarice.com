@@ -91,3 +91,7 @@ One had done online courses, which the math department apparently thought was go
 I do understand that making sure each student is qualified is important---for the median scores on the exams are about 50\%---but the process for enrollment seemed particularly bureaucratic.
 
 My advice for future students is to take the AP Calculus exam, as it offers more freedom: one can just take math 126 and clear the mathematics requirements for some majors (like computer science), or one can take math 134 without having to fight one's way in.
+
+# See also
+
+- [MATH 134 — anything I should know? • /r/udub](https://www.reddit.com/r/udub/comments/3g2swr/math_134_anything_i_should_know/)
