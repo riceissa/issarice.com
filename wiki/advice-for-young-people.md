@@ -853,8 +853,18 @@ opportunity cost of college.
     - ideological turning tests
     - make-work bias
     - ideas from *thinking, fast and slow*
-    - lesswrong jargon (to some extent)
+    - LessWrong jargon (to some extent)
 - LEARN UNIX TOOLS WELL
 - some math concepts (like countability) *might* be useful as well
 - [P\(HONY\)](http://dmouth.com/writing/2014/8/22/phony)
 - [Those Whom The Gods Love Grow Young: Some Notes on Wilde, Greece & Youth](http://dmouth.com/writing/2014/4/12/those-whom-the-gods-love-grow-young-some-notes-on-wilde-greece-youth)
+
+- Another thing (HT Alex again): documenting everything can be really important.
+Part of this is to allow yourself to be stalkable (so it can lead to meeting more interesting people, providing value to them, and so forth), but also having access to a lot of the things you've done can remind you of all the *amazing* things you've done.
+
+    Of course, it's very easy [to make fun of](https://en.wikipedia.org/wiki/People_Take_Pictures_of_Each_Other) people who try to record things instead of "experiencing things", e.g. people who just write about people instead of "going out in the real world", or people who travel but only to take a bunch of photos.
+    While this is a valid criticism, I do think that often it's possible to *do both* without much trouble.
+    Participating online, for instance, is one way to "naturally" record things as you do them (this is one reason I like content creation so much).
+
+    Also, it can *seem* embarrassing to have a lot of your "stupid" things you do online to last, but consider that *everyone else* also does a lot of stupid things online.
+    It might be good to use a pseudonym while young, or to post things in places where it's easily privatable, but my suggestion would be to *never* permanently delete things.
