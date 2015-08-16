@@ -440,7 +440,7 @@ Cognito Mentoring info wiki.
 
 In some sense, effective altruism is an answer to the questions "What
 should I do with my life?", "Can I do anything meaningful with my
-life?", etc.  It says, roughly: do [the most good you can do](!w).
+life?", etc.  It says, roughly: do [The Most Good You Can Do](!w).
 
 Although effective altruists claim that effective altruism is [a
 question, not an ideology][ideo], if you pay enough attention, each
