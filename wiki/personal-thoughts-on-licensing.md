@@ -14,7 +14,7 @@ status: notes
 # "emotional"
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
+license: CC0
 tags: [content creation]
 #aliases: 
 ---
