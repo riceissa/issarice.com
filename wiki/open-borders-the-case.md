@@ -15,13 +15,13 @@ tags: content creation, open borders
 #aliases: 
 ---
 
-I haven't really fully considered open borders as a cause yet, but *Open Borders: The Case*, a website advocating for open borders, continually impresses me.
+I haven't really fully considered open borders as a cause yet, but [Open Borders: The Case](http://openborders.info/) (OB: TC), a website advocating for open borders, continually impresses me.
 
-Prima facie Open Borders is a very different thing from a typical collation of views, found on many comparison sites or comparison books that list the pros and cons of an issue. OB is more intelligent and thinks outside of the box. And yet, how do we articulate this difference? When I try to articulate it, I get phrases like ‘OB is run by smarter people’, ‘OB is dynamic, not static’, ‘OB goes a step beyond the typical comparison’, and so on, but I don’t think these are getting at the heart of the matter.
+Prima facie OB: TC is a very different thing from a typical collation of views, found on many comparison sites or comparison books that list the pros and cons of an issue. OB: TC is more intelligent and thinks outside of the box. And yet, how do we articulate this difference? When I try to articulate it, I get phrases like ‘OB: TC is run by smarter people’, ‘OB: TC is dynamic, not static’, ‘OB: TC goes a step beyond the typical comparison’, and so on, but I don’t think these are getting at the heart of the matter.
 
 The real difference, I think—or at least one of them—is that Open Borders brings to the table a stoic & reductionist philosophy. This is, as you will know, the founder’s own predilections channeled into the site. And what you get is something very different from what you find in a typical ‘pros and cons’ compilation. The typical compilation is lip service to the masses, a botched attempt at appeasement—that is, trying to appease both sides of the issue. It confuses the naive reader into thinking that the evidence is even for both sides, and that one might as well flip a coin to decide. It says ‘you should decide for yourself’ and cops out of making an actual choice.
 
- But Open Borders, on the other hand, says ‘the evidence is overwhelmingly in favor of migration liberalization; let us walk you through our thinking’. It is, in an important sense, mature; it doesn’t treat the reader like a clueless child. You often hear of how writers are supposed to assume their readers are intelligent, competent, &c., but you see this very visibly on OB, though they won’t say it explicitly.
+ But Open Borders, on the other hand, says ‘the evidence is overwhelmingly in favor of migration liberalization; let us walk you through our thinking’. It is, in an important sense, mature; it doesn’t treat the reader like a clueless child. You often hear of how writers are supposed to assume their readers are intelligent, competent, &c., but you see this very visibly on OB: TC, though they won’t say it explicitly.
 
  The unfortunate thing about Open Borders, though, is that it really does assume competence on the part of the reader. So the naive reader won’t appreciate its utility, and even the perspicacious reader may need to spend some time with it, take a break, come back to it, and so on.”
 
