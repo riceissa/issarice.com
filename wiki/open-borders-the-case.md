@@ -3,39 +3,44 @@ title: "Open Borders: The Case"
 #description: 
 author: Issa Rice
 creation_date: 2015-02-19
-last_major_revision_date: 2015-02-19
+last_major_revision_date: 2015-08-15
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: possible, emotional
+belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: content creation, open borders
 #aliases: 
 ---
 
-I haven't really fully considered open borders as a cause yet, but [Open Borders: The Case](http://openborders.info/) (OB: TC), a website advocating for open borders, continually impresses me.
+*Disclaimer: [Vipul Naik](http://vipulnaik.com/), the founder of Open Borders: The Case, is a friend of mine.*
 
-Prima facie OB: TC is a very different thing from a typical collation of views, found on many comparison sites or comparison books that list the pros and cons of an issue. OB: TC is more intelligent and thinks outside of the box. And yet, how do we articulate this difference? When I try to articulate it, I get phrases like ‘OB: TC is run by smarter people’, ‘OB: TC is dynamic, not static’, ‘OB: TC goes a step beyond the typical comparison’, and so on, but I don’t think these are getting at the heart of the matter.
+I haven't really fully considered open borders [as a cause](http://causeprioritization.org/) yet, but [Open Borders: The Case](http://openborders.info/) (OB: TC), a website advocating for open borders, continually impresses me.
 
-The real difference, I think—or at least one of them—is that Open Borders brings to the table a stoic & reductionist philosophy. This is, as you will know, the founder’s own predilections channeled into the site. And what you get is something very different from what you find in a typical ‘pros and cons’ compilation. The typical compilation is lip service to the masses, a botched attempt at appeasement—that is, trying to appease both sides of the issue. It confuses the naive reader into thinking that the evidence is even for both sides, and that one might as well flip a coin to decide. It says ‘you should decide for yourself’ and cops out of making an actual choice.
+Prima facie OB: TC is a very different thing from a typical collation of views (found on many comparison sites) or from comparison books that list the pros and cons of an issue. OB: TC is more intelligent and thinks outside of the box. And yet, how do we articulate this difference? When I try to articulate it, I get phrases like "OB: TC is run by smarter people", "OB: TC is dynamic, not static"^[By "dynamic" I mean that it is an informational site that also has an active blog, an associated Facebook discussion group ([Open Borders Action Group](https://www.facebook.com/groups/openborders/)), etc.], "OB: TC goes a step beyond a simple comparison", and so on, but I don't think these are getting at the heart of the matter.
 
- But Open Borders, on the other hand, says ‘the evidence is overwhelmingly in favor of migration liberalization; let us walk you through our thinking’. It is, in an important sense, mature; it doesn’t treat the reader like a clueless child. You often hear of how writers are supposed to assume their readers are intelligent, competent, &c., but you see this very visibly on OB: TC, though they won’t say it explicitly.
+The real difference (or at least one of them), I think, is that OB: TC brings to the table a stoic and reductionist philosophy.
+In some sense, this is the founder's own predilections channeled into the site---and what you get is something very different from what you find in a typical "pros and cons" compilation. The typical compilation is lip service to the masses, a botched attempt at appeasement—that is, trying to appease both sides of the issue without satisfying either. It confuses the naive reader into thinking that the evidence is even for both sides, and that one might as well flip a coin to decide. It says "you should decide for yourself" and cops out of making an actual choice.
 
- The unfortunate thing about Open Borders, though, is that it really does assume competence on the part of the reader. So the naive reader won’t appreciate its utility, and even the perspicacious reader may need to spend some time with it, take a break, come back to it, and so on.”
+OB: TC, on the other hand, says, "The evidence is overwhelmingly in favor of migration liberalization; let us walk you through our thinking". It is, in an important sense, mature: it doesn't treat the reader like a clueless child. One often hears of how writers are supposed to assume their readers are intelligent, competent, and so forth, but one sees this very visibly on OB: TC, though the creators of the site won't say it explicitly.
 
-So take http://immigration.procon.org/ for example.
-I mean, just look at this. Some impressive numbers:
+One downside to this, of course, is that the naive reader won't appreciate its utility, and even the perspicacious reader may need to spend some time with it, take a break, come back to it, and so on.
+I have the same experience when discovering some intelligent but humble people: it sometimes takes me a long time until I realize the importance and diversity of their contributions.
+See [Hiring and judging character]() for more on this topic.
 
-‘2/6/2015 Educators in 5,758 schools have used ProCon.org. Our free resources have been used by teachers, librarians, and administrators in all 50 US states and 73 countries. The breakdown is 1,529 elementary and middle schools (26.6%), 2,911 high schools (50.5%), and 1,318 colleges and universities (22.9%). A big thank you to educators around the world for helping us spread the word about critical thinking!
+To take a more run-of-the-mill comparison site, see [Immigration ProCon.org](http://immigration.procon.org/).
+They have some impressive numbers:
 
-2/3/2015 – Governments That Have Used ProCon.org – ProCon.org research has now been used by 24 international governments, inter-governmental organizations, dependencies, and areas of special sovereignty. Recent additions include Germany, Spain, and the United Nations.’
+> 2/6/2015 Educators in 5,758 schools have used ProCon.org. Our free resources have been used by teachers, librarians, and administrators in all 50 US states and 73 countries. The breakdown is 1,529 elementary and middle schools (26.6%), 2,911 high schools (50.5%), and 1,318 colleges and universities (22.9%). A big thank you to educators around the world for helping us spread the word about critical thinking!
+>
+> 2/3/2015 – Governments That Have Used ProCon.org – ProCon.org research has now been used by 24 international governments, inter-governmental organizations, dependencies, and areas of special sovereignty. Recent additions include Germany, Spain, and the United Nations.
 
----
+And yet, have they really expanded people's minds?
 
-There is this three-layered view of Open Borders:
+To summarize, I think there is this three-layered view of OB: TC:
 
-- at first it seems noticeably better than other comparison type sites
-- but then it just seems the same -- you can't articulate the crucial difference
-- and then you delve deeper
+- At first it seems noticeably better than other comparison type sites.
+- But then it just seems the same---one can't articulate the crucial difference between OB: TC and usual comparison sites.
+- Upon delving deeper, it becomes apparent that OB: TC has been able to do something very unique.
