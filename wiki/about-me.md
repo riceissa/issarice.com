@@ -43,7 +43,7 @@ copyleft and the [Creative Commons](!w)), the free software movement,
 typography (though mostly just with LaTeX and this website), pure math
 (formal logic and set theory, though my knowledge here is not very
 advanced at this point), the [organization and dissemination of
-knowledge](content-creation), longevity, neoteny and looking young, cute things and people,
+knowledge](content-creation), longevity, neoteny and looking young, cute things and people, [androgyny](https://www.quora.com/Are-the-parents-who-raise-their-children-so-gender-neutral-that-they-keep-their-kids-gender-a-secret-harming-them/answer/Eva-Glasrud),
 [castration and eunuchs](http://lesswrong.com/lw/lm4/effects_of_castration_on_the_life_expectancy_of/), pederasty[^pederasty], long-term thinking, [Econlog](), and
 [existential risk].
 
