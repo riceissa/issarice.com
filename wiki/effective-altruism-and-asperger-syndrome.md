@@ -12,11 +12,11 @@ status: notes
 # Possible values are "certain", "highly likely", "likely", "possible",
 # "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
 # "emotional"
-#belief: possible
+belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
-#aliases: 
+tags: effective altruism
+aliases: ["ea and aspergers"]
 ---
 
 *The content on this page is originally from [Issa Rice's answer to What makes so many aspies attracted to effective altruism?](https://www.quora.com/What-makes-so-many-aspies-attracted-to-effective-altruism/answer/Issa-Rice)*
