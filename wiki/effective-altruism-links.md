@@ -90,6 +90,7 @@ I suppose the latter will only contain information about how important it is to 
 
 - [Talent or Money?](http://www.jefftk.com/p/talent-or-money)
 - [Earning to Give vs\. Altruistic Career Choice Revisited](http://lesswrong.com/lw/hjn/earning_to_give_vs_altruistic_career_choice/) (see also [Eliezer's comment](http://lesswrong.com/lw/hjn/earning_to_give_vs_altruistic_career_choice/9284))
+- [Peter Hurford thinks that a large proportion of people should earn to give long term](http://effective-altruism.com/ea/mk/peter_hurford_thinks_that_a_large_proportion_of/)
 
 # Education
 
