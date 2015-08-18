@@ -80,3 +80,5 @@ Another "essence" of Vim, as [Tim Pope says](https://www.reddit.com/r/vim/commen
 Though maybe the most important metric is: if adding a new feature slows down your text editor, you have to think: does having this feature speed me up enough that the slower editor is still better than not having that feature?
 I do think that having some mappings (like `jj` and `kk` to escape from insert mode) really do increase my editing speed.
 The same argument could be made for some plugins like vim-fugitive.
+
+See also the "light" versus "dark" distinction explained in [Sharpen your Vim with snippets](https://medium.com/brigade-engineering/sharpen-your-vim-with-snippets-767b693886db).
