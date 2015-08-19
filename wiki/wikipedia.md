@@ -35,3 +35,7 @@ stronger command of Japanese can come along and do the rest/fix up my
 mistakes).
 
 [ja ea]: https://ja.wikipedia.org/wiki/%E5%8A%B9%E6%9E%9C%E7%9A%84%E5%88%A9%E4%BB%96%E4%B8%BB%E7%BE%A9
+
+# See also
+
+- [The Value of Wikipedia Contributions in Social Sciences](http://reducing-suffering.org/the-value-of-wikipedia-contributions-in-social-sciences/)
