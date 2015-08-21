@@ -36,3 +36,4 @@ I think Peter Thiel nailed it with these quotes:
 # See also
 
 - [Long Now Foundation](!w)
+- [Choose a Spouse Who Would Resemble the Children you Want](http://freenortherner.com/2012/05/25/choose-a-spouse-who-would-resemble-the-children-you-want/)
