@@ -26,5 +26,5 @@ Just some notes for now.
 - [What does "experienced polyamorous folk tend to have a lot more practice with explicit communication than the mainstream" mean?](https://www.quora.com/Polyamory/What-does-experienced-polyamorous-folk-tend-to-have-a-lot-more-practice-with-explicit-communication-than-the-mainstream-mean)
 - [How common is polyamory among Aspies?](https://www.quora.com/How-common-is-polyamory-among-Aspies)
 - [A Nice Thing About Polyamory](http://www.theferrett.com/ferrettworks/2015/01/a-nice-thing-about-polyamory/)
-- [Relationship anarchy](!w), or, as [Kaj Sotala says](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/27gd), "I don't really draw a sharp line between romantic partners and close friends, and find such a division slightly artificial in the first place."
+- [Relationship anarchy](!w), or, as [Kaj Sotala says](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/27gd), the idea of not needing to "draw a sharp line between romantic partners and close friends" by "[finding] such a division slightly artificial in the first place."
 - [Unknown knowns: Why did you choose to be monogamous?](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/)
