@@ -27,7 +27,11 @@ Just some notes for now.
 - [How common is polyamory among Aspies?](https://www.quora.com/How-common-is-polyamory-among-Aspies)
 - [A Nice Thing About Polyamory](http://www.theferrett.com/ferrettworks/2015/01/a-nice-thing-about-polyamory/)
 - [Relationship anarchy](!w), or, as [Kaj Sotala says](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/27gd), the idea of not needing to "draw a sharp line between romantic partners and close friends" by "[finding] such a division slightly artificial in the first place."
+- [Polyhacking](http://lesswrong.com/lw/79x/polyhacking/)
 - [Unknown knowns: Why did you choose to be monogamous?](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/)
+- From [a comment](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/27hz):
+    - [Polyamory FAQ \- More Than Two](https://www.morethantwo.com/polyamory.html)
+    - [alt\.polyamory Frequently Asked Questions \(FAQ\)](http://www.faqs.org/faqs/polyamory/faq/)
 - See also gwern in [The Melancholy of Subculture Society](http://www.gwern.net/The%20Melancholy%20of%20Subculture%20Society#fn18):
 
     > It’s something of a mystery why
