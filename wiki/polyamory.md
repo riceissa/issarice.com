@@ -23,3 +23,4 @@ tags: untagged
     - [File on dropboxusercontent\.com](https://dl.dropboxusercontent.com/u/5317066/2012-gwern-polyamory.txt) (this one talks about Aspergers at the end)
 - [What does "experienced polyamorous folk tend to have a lot more practice with explicit communication than the mainstream" mean?](https://www.quora.com/Polyamory/What-does-experienced-polyamorous-folk-tend-to-have-a-lot-more-practice-with-explicit-communication-than-the-mainstream-mean)
 - [How common is polyamory among Aspies?](https://www.quora.com/How-common-is-polyamory-among-Aspies)
+- [A Nice Thing About Polyamory](http://www.theferrett.com/ferrettworks/2015/01/a-nice-thing-about-polyamory/)
