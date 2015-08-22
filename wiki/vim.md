@@ -82,3 +82,9 @@ I do think that having some mappings (like `jj` and `kk` to escape from insert m
 The same argument could be made for some plugins like vim-fugitive.
 
 See also the "light" versus "dark" distinction explained in [Sharpen your Vim with snippets](https://medium.com/brigade-engineering/sharpen-your-vim-with-snippets-767b693886db).
+
+# Small things
+
+- `:windo diffthis` and then `:windo diffoff` when done
+- `Ctrl`-`f` in command mode to edit using regular Vim options (one can also access this with `q:`)
+- `:only` after `:sp` or `:vsp`
