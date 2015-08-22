@@ -15,7 +15,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: untagged
+tags: polyamory, love, relationships
 #aliases: 
 ---
 
@@ -28,3 +28,25 @@ Just some notes for now.
 - [A Nice Thing About Polyamory](http://www.theferrett.com/ferrettworks/2015/01/a-nice-thing-about-polyamory/)
 - [Relationship anarchy](!w), or, as [Kaj Sotala says](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/27gd), the idea of not needing to "draw a sharp line between romantic partners and close friends" by "[finding] such a division slightly artificial in the first place."
 - [Unknown knowns: Why did you choose to be monogamous?](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/)
+- See also gwern in [The Melancholy of Subculture Society](http://www.gwern.net/The%20Melancholy%20of%20Subculture%20Society#fn18):
+
+    > It’s something of a mystery why
+    > [monogamy](http://en.wikipedia.org/wiki/monogamy "Wikipedia: monogamy")
+    > has thrived over the last millennium - why *not* allow
+    > [polygyny](http://en.wikipedia.org/wiki/polygyny "Wikipedia: polygyny"),
+    > [polyandry](http://en.wikipedia.org/wiki/polyandry "Wikipedia: polyandry"),
+    > both
+    > ([polygamy](http://en.wikipedia.org/wiki/polygamy "Wikipedia: polygamy"))
+    > or even full blown
+    > [polyamory](http://en.wikipedia.org/wiki/polyamory "Wikipedia: polyamory")?
+    > Why restrict freedom in this regard, restrict it so viciously that
+    > society is willing to kill over it? One explanation I find appealing
+    > suggests that marriage - sex - may be an example of societies
+    > encouraging the formation of more-optimal *multiple* hierarchies of
+    > status as opposed to a single one. To very broadly generalize, those
+    > alternatives seem to boil down to polygyny (polyandry being very rare)
+    > and polygyny seems to correlate with societies where there are few ways
+    > to status but violence & hunting, while monogamy encourages males to
+    > engage in economic competition for mates
+
+    Related is [a comment by Wei Dai](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/27d4) and Tertilt's [PDF on berkeley\.edu](http://eml.berkeley.edu/~webfac/bardhan/e271_f05/tertilt.pdf) that is linked.
