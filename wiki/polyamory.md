@@ -25,3 +25,4 @@ tags: untagged
 - [How common is polyamory among Aspies?](https://www.quora.com/How-common-is-polyamory-among-Aspies)
 - [A Nice Thing About Polyamory](http://www.theferrett.com/ferrettworks/2015/01/a-nice-thing-about-polyamory/)
 - [Relationship anarchy](!w)
+- [Unknown knowns: Why did you choose to be monogamous?](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/)
