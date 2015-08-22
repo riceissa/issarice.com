@@ -868,3 +868,5 @@ Part of this is to allow yourself to be stalkable (so it can lead to meeting mor
 
     Also, it can *seem* embarrassing to have a lot of your "stupid" things you do online to last, but consider that *everyone else* also does a lot of stupid things online.
     It might be good to use a pseudonym while young, or to post things in places where it's easily privatable, but my suggestion would be to *never* permanently delete things.
+
+- I like [a comment by pjeby](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/2774) on altruism and comparing one's beliefs and actions with those of people successful in some particular way.
