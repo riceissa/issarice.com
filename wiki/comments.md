@@ -125,6 +125,13 @@ disappear (if Disqus goes away).
 
 [php sec]: http://www.networkworld.com/article/2345518/data-center/firewall-pioneer-wanted-a--super-secure--blogging-service-----so-he-s-built-his-own.html
 
+Another idea: having comments could mean more flame.
+When people on a site see that others are complaining about something, they might jump on that and add more flame^[I wouldn't compare this site to [Slate Star Codex](http://slatestarcodex.com/), but just look at any post there to see the problem of unending arguments.].
+(This, of course, relates to the problem of the burden of moderation.)
+Even seemingly innocuous content on an otherwise unknown site could become the target of a torrent of verbal attacks, and dealing with this seems highly stressful.
+Forcing people to email in their attacks could have a dampening effect.
+Of course, this doesn't prevent public attacks happening on Twitter, Tumblr, and elsewhere.
+
 ## Pros
 
 One idea in favor of having comments is so criticisms are out in the
