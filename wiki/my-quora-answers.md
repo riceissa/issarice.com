@@ -382,34 +382,7 @@ As for how often this actually happens, I'd guess maybe once or twice a day.
 
 [Mirror](https://www.quora.com/What-are-the-Dungeons-Dragons-alignment-types-of-prominent-Quora-users/answer/Issa-Rice)
 
-
-I got chaotic neutral.
-
-> **Detailed Results:**
-> 
-> ```
-> Alignment:
-> Lawful Good ----- XXXXXXXXXXXXXXX (15)
-> Neutral Good ---- XXXXXXXXXXXXXXXX (16)
-> Chaotic Good ---- XXXXXXXXXXXXXXXXXXXX (20)
-> Lawful Neutral -- XXXXXXXXXXXXXXXXXXX (19)
-> True Neutral ---- XXXXXXXXXXXXXXXXXXXX (20)
-> Chaotic Neutral - XXXXXXXXXXXXXXXXXXXXXXXX (24)
-> Lawful Evil ----- XXXXXXX (7)
-> Neutral Evil ---- XXXXXXXX (8)
-> Chaotic Evil ---- XXXXXXXXXXXX (12)
-> 
-> Law & Chaos:
-> Law ----- XXXXXX (6)
-> Neutral - XXXXXXX (7)
-> Chaos --- XXXXXXXXXXX (11)
-> 
-> Good & Evil:
-> Good ---- XXXXXXXXX (9)
-> Neutral - XXXXXXXXXXXXX (13)
-> Evil ---- X (1)
-> ```
-
+See my [profile]() page.
 
 # How does your Quora all time views/upvotes ratio compare to your questions/answers (public) ratio?
 

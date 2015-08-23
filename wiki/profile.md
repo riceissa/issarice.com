@@ -23,7 +23,35 @@ On this page I'll present my results for various personality/morality tests, sor
 
 # Personality
 
-[to be added]
+## Dungeons & Dragons alignment type
+
+I got chaotic neutral when I took [the test](http://easydamus.com/alignmenttest.html) on or around 2014-09-07.
+This was originally for [a Quora answer](https://www.quora.com/What-are-the-Dungeons-Dragons-alignment-types-of-prominent-Quora-users/answer/Issa-Rice).
+
+> **Detailed Results:**
+> 
+> ```
+> Alignment:
+> Lawful Good ----- XXXXXXXXXXXXXXX (15)
+> Neutral Good ---- XXXXXXXXXXXXXXXX (16)
+> Chaotic Good ---- XXXXXXXXXXXXXXXXXXXX (20)
+> Lawful Neutral -- XXXXXXXXXXXXXXXXXXX (19)
+> True Neutral ---- XXXXXXXXXXXXXXXXXXXX (20)
+> Chaotic Neutral - XXXXXXXXXXXXXXXXXXXXXXXX (24)
+> Lawful Evil ----- XXXXXXX (7)
+> Neutral Evil ---- XXXXXXXX (8)
+> Chaotic Evil ---- XXXXXXXXXXXX (12)
+> 
+> Law & Chaos:
+> Law ----- XXXXXX (6)
+> Neutral - XXXXXXX (7)
+> Chaos --- XXXXXXXXXXX (11)
+> 
+> Good & Evil:
+> Good ---- XXXXXXXXX (9)
+> Neutral - XXXXXXXXXXXXX (13)
+> Evil ---- X (1)
+> ```
 
 # Morals
 
