@@ -74,6 +74,13 @@ At the other extreme (i.e. the most depth), we can make a "math packages" contai
 proof  thmtools
 ````
 
+Some points:
+
+- Most users will not care about the tree structure of a page or set of related pages.
+See [Trees, TreeViews, and UI](http://blog.codinghorror.com/trees-treeviews-and-ui/) for more on this.
+If a page has many levels of sections (e.g. chapter, section, subsection, subsubsection, etc.), it becomes very difficult to process where in that tree one is.
+- Besides search, the primary way in which content is now discovered is through sharing on social media.
+I think it's good practice to make one's content [linkable](linkability), which means that each page should be a [good entry point]() and be easy to process.
 
 See also [a comment by Viliam_Bur](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/ax6q) on [LessWrong](), talking about the [Cognito Mentoring wiki](http://info.cognitomentoring.org/wiki/Main_Page):
 
@@ -116,4 +123,6 @@ See also [a comment by Viliam_Bur](http://lesswrong.com/lw/k8q/moving_on_from_co
 > clicks, and the reader is reading the Quora article. There is the same
 > information there as before, it's just easier to find.
 
+# See also
 
+- [Google's War on Hierarchy, and the Death of Hierarchical Folders](https://web.archive.org/web/20060106062021/http://www.microcontentnews.com/articles/deathofhierarchy.htm)
