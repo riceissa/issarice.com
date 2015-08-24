@@ -56,3 +56,13 @@ This was originally for [a Quora answer](https://www.quora.com/What-are-the-Dung
 # Morals
 
 [to be added]
+
+# Politics
+
+According to [The Political Compass](https://www.politicalcompass.org/) I am:
+
+> Economic Left/Right: 1.25 
+> Social Libertarian/Authoritarian: -6.0
+
+Many of the question statements came across as odd to me, because of the way qualifiers were used.
+For instance many statements used "some" to qualify statements, so that even if I believed the stereotypically libertarian position I would give the authoritarian-seeming answer.
