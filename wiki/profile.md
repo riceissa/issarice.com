@@ -59,7 +59,7 @@ This was originally for [a Quora answer](https://www.quora.com/What-are-the-Dung
 
 # Politics
 
-According to [The Political Compass](https://www.politicalcompass.org/) I am:
+According to [The Political Compass](https://www.politicalcompass.org/) (taken 2015-08-24) I am:
 
 > Economic Left/Right: 1.25 
 > Social Libertarian/Authoritarian: -6.0
