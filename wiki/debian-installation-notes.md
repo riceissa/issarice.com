@@ -48,9 +48,8 @@ TODO:
 - evernote?
 - flash?
 - surfraw config
-- tmux config
-vim /etc/apt/sources.list
-sudo aptitude install flashplugin-nonfree
+- vim /etc/apt/sources.list
+- sudo aptitude install flashplugin-nonfree
 - install duckduckgo plugin
 
 - for getting Source Code Pro on LXDE:
