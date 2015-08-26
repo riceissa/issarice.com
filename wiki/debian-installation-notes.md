@@ -17,25 +17,12 @@ visudo # add user
 ~~~
 
 ~~~bash
-sudo aptitude install vim git python htop python3 pandoc elinks
-
-# I did this one first, but then couldn't get the login screen to show up for LXDE (couldn't get X to start up...). I probably could have done it this way though, so that I would have an even more minimal setup.
-sudo aptitude install lxde-core
-# Doing this worked
-sudo aptitude install lxde
 
 sudo aptitude install iceweasel
 sudo aptitude install keepassx
 sudo aptitude install iceweasel-adblock-plus
 ~~~
 
-
-# Setting your Git info
-
-~~~bash
-git config --global user.name "First Last"
-git config --global user.email "name@example.com"
-~~~
 
 ## Audio
 
@@ -65,7 +52,6 @@ TODO:
 vim /etc/apt/sources.list
 sudo aptitude install flashplugin-nonfree
 - install duckduckgo plugin
-- set up MOC config file
 
 - for getting Source Code Pro on LXDE:
 I extracted the archive from [here](https://github.com/adobe-fonts/source-code-pro/releases/latest), then did the following from the directory containing the `.otf` files:
