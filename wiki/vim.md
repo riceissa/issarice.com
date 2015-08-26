@@ -88,3 +88,4 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
 - `:windo diffthis` and then `:windo diffoff` when done
 - `Ctrl`-`f` in command mode to edit using regular Vim options (one can also access this with `q:`)
 - `:only` after `:sp` or `:vsp`
+- Editing with Vim under sudo or su: use `vim -X` to disable X so that there are no strange "No protocol specified" or grabled text/reordered lines.
