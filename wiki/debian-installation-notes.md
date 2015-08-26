@@ -4,6 +4,7 @@ tags: linux, debian
 ---
 
 We start from a base system.
+Most of these steps can actually now be automated using my [dotfiles](https://github.com/riceissa/dotfiles); the software, in particular, can all be found in [`debian_packages.py`](https://github.com/riceissa/dotfiles/blob/master/debian_packages.py).
 
 # Basic utilities
 
@@ -28,7 +29,6 @@ sudo aptitude install keepassx
 sudo aptitude install iceweasel-adblock-plus
 ~~~
 
-get vim config from here: https://github.com/riceissa/vim
 
 # Setting your Git info
 
