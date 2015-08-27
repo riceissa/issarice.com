@@ -21,3 +21,4 @@ Some things to talk about:
 - *A Personal Matter*
 - Early short stories
 - *Hiroshima Note* in contrast to [effective altruism](), e.g. what the doctor says. The problem of scale.
+- [His speech](http://www.nobelprize.org/nobel_prizes/literature/laureates/1994/oe-lecture.html)
