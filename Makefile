@@ -1,31 +1,40 @@
 OUTDIR = _site
 MD_PAGES = $(wildcard wiki/*.md)
 HTML_PAGES = $(patsubst wiki/%.md,_site/%,$(MD_PAGES))
-CSS = $(OUTDIR)/minimal.css $(OUTDIR)/common.css $(OUTDIR)/standard.css $(OUTDIR)/solarized_light.css $(OUTDIR)/solarized_dark.css
+CSS = $(OUTDIR)/_css/minimal.css $(OUTDIR)/_css/common.css $(OUTDIR)/_css/standard.css $(OUTDIR)/_css/solarized_light.css $(OUTDIR)/_css/solarized_dark.css
+CSSDIR = _site/_css
 
-#all:
-#	./generator/generator.py --commit_ps
+# Make only regular pages
+pages: $(HTML_PAGES) $(CSS) $(CSSDIR)
 
-#all: _site/index
+# Make the full site, including pages, images, static content, tags
+# pages, feeds, and sitemap
+fullsite:
+	./generator/generator.py --commit_ps
 
-all: $(HTML_PAGES) $(CSS)
-
-#about-me: wiki/about-me.md
-#	./generator/generator.py --commit_ps --file "$<"
+$(CSSDIR):
+	mkdir -p $(CSSDIR)
 
 _site/%: wiki/%.md
 	./generator/generator.py --commit_ps --file "$<"
 
-$(OUTDIR)/minimal.css: css/minimal.scss
+$(OUTDIR)/_css/minimal.css: css/minimal.scss | $(CSSDIR)
 	sass --style compressed "$<" > "$@"
-$(OUTDIR)/common.css: css/common.scss
+$(OUTDIR)/_css/common.css: css/common.scss | $(CSSDIR)
 	sass --style compressed "$<" > "$@"
-$(OUTDIR)/standard.css: css/standard.scss
+$(OUTDIR)/_css/standard.css: css/standard.scss | $(CSSDIR)
 	sass --style compressed "$<" > "$@"
-$(OUTDIR)/solarized_light.css: css/solarized_light.scss
+$(OUTDIR)/_css/solarized_light.css: css/solarized_light.scss | $(CSSDIR)
 	sass --style compressed "$<" > "$@"
-$(OUTDIR)/solarized_dark.css: css/solarized_dark.scss
+$(OUTDIR)/_css/solarized_dark.css: css/solarized_dark.scss | $(CSSDIR)
 	sass --style compressed "$<" > "$@"
 
 clean:
 	rm -rf _site
+
+# These are things that aren't implemented yet, and I'm not sure I would implement them
+#tags:
+#	# some specialized script here that just generates tags
+
+#feeds:
+#	# feed generation scripts
