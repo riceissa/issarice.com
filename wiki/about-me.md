@@ -14,36 +14,18 @@ website, see [About the site]().*
 
 # Self-introduction
 
-I am highly introverted[^mbti] and curious about a wide array of things.
+I am highly introverted[^pers] and curious about a wide array of things.
+My interests include [cause prioritization](http://causeprioritization.org/), [effective altruism](),
+vegetarianism and veganism, the free content movement (e.g. copyleft and the [Creative Commons](!w)), the free software movement,
+typography (though mostly just with LaTeX and this website), [content creation](content-creation), longevity, neoteny, cute things and people, [androgyny](https://www.quora.com/Are-the-parents-who-raise-their-children-so-gender-neutral-that-they-keep-their-kids-gender-a-secret-harming-them/answer/Eva-Glasrud),
+[castration and eunuchs](http://lesswrong.com/lw/lm4/effects_of_castration_on_the_life_expectancy_of/), pederasty[^pederasty], long-term thinking, the quantified self, [LessWrong]()-style rationality, [Econlog](), [unschooling](), [hikikomori](!w), some kinds of [music](music-i-like-to-listen-to) and
+[existential risk].
 
-
-
-Including [effective altruism]() and rationality (mostly [LessWrong]()).
+[^pers]: See my [profile]() page for more about my personality and views.
 
 I spend a lot of time on various sites online, including [Facebook]() and [Quora]().
 My [contact]() page has a longer list of my online accounts.
 
-Currently I do work on the [Cause Prioritization Wiki](http://causeprioritization.org/).
-
- 
-
-[^mbti]: I am an INTP on the [Myers–Briggs Type
-Indicator](!w).  The MBTI is often mocked as “unscientific”, but I think
-it can be quite useful; see “[On Types of Typologies]” for more.
-See my [profile]() page for more about my personality and views.
-
-[On Types of Typologies]: http://slatestarcodex.com/2014/05/27/on-types-of-typologies/
-
-
-I’m also highly interested in the quantified self movement,
-vegetarianism and veganism, the free content movement (so things like
-copyleft and the [Creative Commons](!w)), the free software movement,
-typography (though mostly just with LaTeX and this website), pure math
-(formal logic and set theory, though my knowledge here is not very
-advanced at this point), the [organization and dissemination of
-knowledge](content-creation), longevity, neoteny and looking young, cute things and people, [androgyny](https://www.quora.com/Are-the-parents-who-raise-their-children-so-gender-neutral-that-they-keep-their-kids-gender-a-secret-harming-them/answer/Eva-Glasrud),
-[castration and eunuchs](http://lesswrong.com/lw/lm4/effects_of_castration_on_the_life_expectancy_of/), pederasty[^pederasty], long-term thinking, [Econlog](), and
-[existential risk].
 
 [^pederasty]: From "[Those Whom The Gods Love Grow Young: Some Notes on Wilde, Greece & Youth](http://dmouth.com/writing/2014/4/12/those-whom-the-gods-love-grow-young-some-notes-on-wilde-greece-youth)":
 
@@ -60,32 +42,6 @@ knowledge](content-creation), longevity, neoteny and looking young, cute things 
     > is heir.
 
 [existential risk]: http://www.nickbeckstead.com/research
-
-I am also passionate about the unschooling movement (see the Quora topic
-[Education Reform and Disruption] and [my answer][chomsky usch] to “What
-would Noam Chomsky think of unschooling?” on Quora for more), and
-occasionally contribute to the Cognito Mentoring info wiki (a resource
-designed to help students who are intellectually curious but are
-frustrated with traditional schooling); you can view [my
-contributions][cm cont].
-
-[Education Reform and Disruption]: https://www.quora.com/Education-Reform-and-Disruption
-[chomsky usch]: https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice
-[cm cont]: http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa
-
-Ambivalence about Japan is also an important part of me[^japan]; see
-Nobel laureate [Ōe Kenzaburō’s speech][oe speech] on the topic.  I do
-like the language and some of its literature and [music](!w Fishmans), and am fascinated by certain
-aspects of Japanese society (like [hikikomori](!w) and the [decline in
-traditional romantic relationships][japan sex]), but cannot stand for
-instance its emphasis on deference to authority, nor can I tolerate its
-education system.
-
-[oe speech]: http://www.nobelprize.org/nobel_prizes/literature/laureates/1994/oe-lecture.html
-[japan sex]: http://www.webcitation.org/query?url=http%3A%2F%2Fwww.theguardian.com%2Fworld%2F2013%2Foct%2F20%2Fyoung-people-japan-stopped-having-sex&date=2014-11-16
-
-[^japan]: I lived in Japan for six years.  You can find some locations
-[here](https://www.quora.com/Issa-Rice/about).
 
 I am also currently a second-year student at University of Washington.
 I am continually
