@@ -23,6 +23,16 @@ On this page I'll present my results for various personality/morality tests, sor
 
 # Personality
 
+## Myers–Briggs Type Indicator
+
+I seem to consistently test out as INPT, though I'm only heavily biased in the "I" part of the personality type and the "NPT" part is more intermediate.
+(TODO: find actual test results.)
+
+The MBTI is often mocked as “unscientific”, but I think
+it can be quite useful; see “[On Types of Typologies]” for more.
+
+[On Types of Typologies]: http://slatestarcodex.com/2014/05/27/on-types-of-typologies/
+
 ## Dungeons & Dragons alignment type
 
 I got chaotic neutral when I took [the test](http://easydamus.com/alignmenttest.html) on or around 2014-09-07.

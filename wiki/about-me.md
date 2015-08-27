@@ -14,28 +14,26 @@ website, see [About the site]().*
 
 # Self-introduction
 
-I am highly introverted[^mbti] and curious about a wide array of things,
-including [effective altruism]() and rationality (mostly [LessWrong]()).
-Currently I am working mainly on the [Cause Prioritization Wiki][cp].
+I am highly introverted[^mbti] and curious about a wide array of things.
 
-[cp]: http://causeprioritization.org/
 
-[^mbti]: In case you're curious, I am an INTP on the [Myers–Briggs Type
+
+Including [effective altruism]() and rationality (mostly [LessWrong]()).
+
+I spend a lot of time on various sites online, including [Facebook]() and [Quora]().
+My [contact]() page has a longer list of my online accounts.
+
+Currently I do work on the [Cause Prioritization Wiki](http://causeprioritization.org/).
+
+ 
+
+[^mbti]: I am an INTP on the [Myers–Briggs Type
 Indicator](!w).  The MBTI is often mocked as “unscientific”, but I think
 it can be quite useful; see “[On Types of Typologies]” for more.
+See my [profile]() page for more about my personality and views.
 
 [On Types of Typologies]: http://slatestarcodex.com/2014/05/27/on-types-of-typologies/
 
-I like spending time on the question-and-answer site [Quora]() mostly by
-trying to ask the most interesting questions.  I think question-askers
-are often ignored because once a good answer to a question is produced,
-the answer is what gets attention, not the question that led to the
-answer.  For my most recent questions, see [my questions page on
-Quora][my qs] (note that as of December 2014, this list contains both
-the questions I've asked as well as questions I've followed;
-unfortunately there isn't a way to see these individually).
-
-[my qs]: https://www.quora.com/Issa-Rice/questions
 
 I’m also highly interested in the quantified self movement,
 vegetarianism and veganism, the free content movement (so things like
@@ -47,7 +45,7 @@ knowledge](content-creation), longevity, neoteny and looking young, cute things 
 [castration and eunuchs](http://lesswrong.com/lw/lm4/effects_of_castration_on_the_life_expectancy_of/), pederasty[^pederasty], long-term thinking, [Econlog](), and
 [existential risk].
 
-[^pederasty]: From [Those Whom The Gods Love Grow Young: Some Notes on Wilde, Greece & Youth](http://dmouth.com/writing/2014/4/12/those-whom-the-gods-love-grow-young-some-notes-on-wilde-greece-youth):
+[^pederasty]: From "[Those Whom The Gods Love Grow Young: Some Notes on Wilde, Greece & Youth](http://dmouth.com/writing/2014/4/12/those-whom-the-gods-love-grow-young-some-notes-on-wilde-greece-youth)":
 
     > But when you subtract all of our warped assumption, you’re left
     > with just youth. Youth is just a quality any human can have,
@@ -89,9 +87,8 @@ education system.
 [^japan]: I lived in Japan for six years.  You can find some locations
 [here](https://www.quora.com/Issa-Rice/about).
 
-I am also currently a second-year student at University of Washington
-(UW) in Seattle, WA, USA.  My major is computer science, but
-I’m also highly interested in mathematics.  I am continually
+I am also currently a second-year student at University of Washington.
+I am continually
 conscious that the most important work I can do may not yet exist as a
 career; as such I want to adopt “a more wary attitude where I try, at
 each stage, to equip myself best for the present and the immediate
