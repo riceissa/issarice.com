@@ -18,7 +18,7 @@ I am highly introverted[^pers] and curious about a wide array of things.
 My interests include [cause prioritization](http://causeprioritization.org/), [effective altruism](),
 vegetarianism and veganism, the free content movement (e.g. copyleft and the [Creative Commons](!w)), the free software movement,
 typography (though mostly just with LaTeX and this website), [content creation](content-creation), longevity, neoteny, cute things and people, [androgyny](https://www.quora.com/Are-the-parents-who-raise-their-children-so-gender-neutral-that-they-keep-their-kids-gender-a-secret-harming-them/answer/Eva-Glasrud),
-[castration and eunuchs](http://lesswrong.com/lw/lm4/effects_of_castration_on_the_life_expectancy_of/), pederasty[^pederasty], long-term thinking, the quantified self, [LessWrong]()-style rationality, [Econlog](), [unschooling](), [hikikomori](!w), some kinds of [music](music-i-like-to-listen-to) and
+[castration and eunuchs](http://lesswrong.com/lw/lm4/effects_of_castration_on_the_life_expectancy_of/), pederasty[^pederasty], long-term thinking, the quantified self, [LessWrong]()-style rationality, [EconLog](), [unschooling](), [hikikomori](!w), some kinds of [music](music-i-like-to-listen-to), and
 [existential risk].
 
 [^pers]: See my [profile]() page for more about my personality and views.
@@ -44,16 +44,6 @@ My [contact]() page has a longer list of my online accounts.
 [existential risk]: http://www.nickbeckstead.com/research
 
 I am also currently a second-year student at University of Washington.
-I am continually
-conscious that the most important work I can do may not yet exist as a
-career; as such I want to adopt “a more wary attitude where I try, at
-each stage, to equip myself best for the present and the immediate
-future while gathering knowledge and resources that will help me in the
-farther future” ([source][vipul future]).  At the moment I think
-computer science is the best option for me in terms of being versatile
-for the future.
-
-[vipul future]: https://whatisresearch.wordpress.com/2007/08/30/to-be-set-aside/
 
 # Contact
 
