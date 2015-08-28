@@ -67,6 +67,17 @@ You can find my original public announcement about doing cause prioritization re
 - [A Note on Framing Criticisms of Effective Altruism](http://effective-altruism.com/ea/li/a_note_on_framing_criticisms_of_effective_altruism/) and [Facebook post](https://www.facebook.com/groups/effective.altruists/permalink/906412832748408/)
 - [Another Critique of Effective Altruism](http://lesswrong.com/lw/jfm/another_critique_of_effective_altruism/)
 - [Youth Movements](http://www.overcomingbias.com/2015/08/youth-movements.html)
+- [I spent a weekend at Google talking with nerds about charity\. I came away … worried\.](http://www.vox.com/2015/8/10/9124145/effective-altruism-global-ai)
+- [Against Charity](https://www.jacobinmag.com/2015/08/peter-singer-charity-effective-altruism/):
+
+    > The core problem is the bourgeois moral philosophy that the
+    > movement rests upon. Effective Altruists abstract from — and
+    > thereby exonerate — the social dynamics constitutive of
+    > capitalism. The result is a simultaneously flawed moral and
+    > structural analysis that aspires to fix the world’s most pressing
+    > problems on capital’s terms.
+
+    The piece also links to [So You Want to be a "Radical" Philanthropist?](http://www.huffingtonpost.com/leah-hunthendrix/so-you-want-to-be-a-radical-philanthropist_b_7181248.html) and [The fallacy of philanthropy](https://www.academia.edu/1817777/The_fallacy_of_philanthropy) (by Paul Gomberg)
 
 # Depression
 
