@@ -2,7 +2,7 @@
 title: About me
 description: biography, contact information
 creation_date: 2014-09-13
-last_major_revision_date: 2015-04-25
+last_major_revision_date: 2015-08-27
 feed_description: include more interests
 license: CC0
 tags: personal
