@@ -16,7 +16,7 @@
 
 // Data types
 .sourceCode span.dt {
-    color: $cyan;
+    color: $yellow;
 }
 
 // Decimal values
@@ -24,7 +24,7 @@
     color: $cyan;
 }
 
-// Values with base other than 10
+// Values with base other than 10 ("base n")
 .sourceCode span.bn {
     color: $cyan;
 }
@@ -52,10 +52,10 @@
 
 // Other
 .sourceCode span.ot {
-    color: $yellow;
+    color: $orange;
 }
 
-// Warning messages
+// Warning messages ("alert")
 .sourceCode span.al {
     color: $red;
 }
@@ -65,13 +65,89 @@
     color: $blue;
 }
 
-// Region markers
-.sourceCode span.re {
-    color: $yellow;
-}
-
 // Errors
 .sourceCode span.er {
     color: $red;
     font-weight: bold;
+}
+
+// Warnings
+.sourceCode span.wa {
+    color: $orange;
+    font-weight: italic;
+}
+
+// Constants
+.sourceCode span.cn {
+    color: $yellow;
+}
+
+// Special characters
+.sourceCode span.sc {
+    color: $yellow;
+}
+
+// Verbatim string
+.sourceCode span.vs {
+}
+
+// Special string
+.sourceCode span.ss {
+}
+
+// Import statements
+.sourceCode span.im {
+    color: $orange;
+}
+
+// Variables
+.sourceCode span.va {
+}
+
+// Control-flow
+.sourceCode span.cf {
+    color: $green;
+}
+
+// Operators
+.sourceCode span.op {
+    color: $green;
+}
+
+// Built-in functions(?)
+.sourceCode span.bu {
+    color: $blue;
+}
+
+// Extension
+.sourceCode span.ex {
+}
+
+// Preprocessor
+.sourceCode span.pp {
+}
+
+// Attributes
+.sourceCode span.at {
+}
+
+// Documentation
+.sourceCode span.do {
+}
+
+// Annotation
+.sourceCode span.an {
+}
+
+// Comment variable -- variables that appear in comments?
+.sourceCode span.cv {
+}
+
+// Information
+.sourceCode span.in {
+}
+
+// Region markers -- do these still exist? Pandoc doesn't define these
+.sourceCode span.re {
+    color: $yellow;
 }
