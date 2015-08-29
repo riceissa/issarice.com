@@ -18,7 +18,11 @@ It's easy to just install `haskell-platform`, but this introduces an older versi
 The following is the minimal way to get things installed.
 
 ```bash
-sudo aptitude install ghc ghc-haddock zlib1g-dev # or maybe libghc-zlib will work too; actually, "libghc-zlib-dev" will pull "zlib1g-dev" so it doesn't really matter
+sudo aptitude install ghc ghc-haddock zlib1g-dev # or maybe libghc-zlib
+                                    # will work too; actually, 
+                                    # "libghc-zlib-dev" will pull
+                                    # "zlib1g-dev" so it doesn't really
+                                    # matter
 wget https://www.haskell.org/cabal/release/cabal-install-1.20.0.3/cabal-install-1.20.0.3.tar.gz
 tar -zxf cabal-install-1.20.0.3.tar.gz && rm cabal-install-1.20.0.3.tar.gz
 # on Linux Mint using cabal-install-1.22.4.0.tar.gz, I also had to install ghc-prof and ghc-dynamic for this to work.
