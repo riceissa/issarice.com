@@ -34,6 +34,7 @@ I think there are many benefits to be had when more people adopt an [abundance m
 I often wonder if there is an important between CC-BY and CC0 (or BSD 2-clause/MIT and the Unlicense).
 One argument that there isn't much difference is that any respectable person would give attribution anyway (e.g. it's simply unthinkable for an academic to reuse a work without citing the source)---so even given the full privilege of public domain works, one would still essentially use it like CC-BY.
 One reason to prefer public domain/Unlicense is that (like myself) most people won't go after others even if their copyright (or copyleft) claims are ignored by other parties: I dislike the threat of most licenses, which says that I can go after you and sue you if you violate the terms of the license.
+Non-public domain licenses are not an enticing invitation for collaboration because they are simultaneously a legal threat
 If I don't intend to go after you, why make the threat in the first place?
 For creative works like fictional writing, there might be an even better case to be made for distinguishing between the two: it's uncomfortable to feel an obligation to cite someone when writing fiction, and as far as I know, authors steal ideas from each other anyway (calling it "allusion" or being "well-read"), so why not remove the burden?
 
