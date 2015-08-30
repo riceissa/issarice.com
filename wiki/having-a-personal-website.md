@@ -3,7 +3,7 @@ title: Having a personal website
 #description: none
 author: Issa Rice
 creation_date: 2014-12-26
-last_major_revision_date: 2014-12-26
+last_major_revision_date: 2015-08-30
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
@@ -34,23 +34,34 @@ Having a personal website is part of [maintaining one's online presence](http://
 - In general it seems like a bad idea to organize content by author than by topic; liking someone's writing about cooking doesn't say much about liking someone's writing about programming, for instance.
 Having, say, one website about cooking (written by various people) and a separate one about programming (written by various people, some of whom may overlap with the cooking website) is much more likely to produce relevant results for everybody.
 
-Compare the following organizations:
+    Compare the following organizations:
 
-````
-       A                B                 C
-      / \              / \                |
-   cook  prog     cook1  cook2           prog
-````
+    ````
+    .
+    ├── A
+    │   ├── cook
+    │   └── prog
+    ├── B
+    │   ├── cook1
+    │   └── cook2
+    └── C
+        └── prog
+    ````
 
-versus
+    versus
 
-````
-      [  cook  ]            [prog]
-      /   |    \            /    \
-    A     B1    B2         A      C
-````
+    ````
+    .
+    ├── cook
+    │   ├── A
+    │   ├── B1
+    │   └── B2
+    └── prog
+        ├── A
+        └── C
+    ````
 
-Ceteris paribus, the second organization is preferable because people are more likely to be interested in a topic than a person (?).
+    Ceteris paribus, the second organization is preferable because people are more likely to be interested in a topic than a person (?).
 
 # Compromise?
 
@@ -73,3 +84,51 @@ This is achieved by:
 egrep -i --color -n "*openness.and.avail*" pages/*
 ```
 The periods are helpful because they catch both the hyphenated links (explicit) or the spaces (used for implicit internal linking).
+
+- What are the "essential" parts of a personal website?
+In terms of topics, it seems that the following are good to have: a short biography, links to one's work, and contact information.
+Indeed, a CV could take care of all three in a sense.
+
+    But what about as a more "functional" site?
+    Here are some ideas that I've thought of an have implemented to some degree on this site:
+
+    Search
+    :   I've outsourced this to Google since I prefer a static site and cannot implement a better search mechanism on my own anyway.
+    By using a plain HTML form, I avoid unnecessary Javascript, which means even people using test-only browsers like ELinks can search directly on this site.
+
+    Feed
+    :   For a site that hopes to continue updating itself over the course of months or years, it seems important to have a standard way to tell people of new content.
+    Of course, now there are other ways besides RSS/Atom feeds, like sharing on Facebook or sending out a monthly newsletter (like what gwern does).
+    I have also considered that, since this site is already version-controlled through git, that I could simply generate a feed through git; in fact, [GitHub already does this](https://github.com/riceissa/issarice.com/commits/master.atom) (although it is somewhat uninformative since it only includes the commit messages).
+    However, it is unclear to me how many people would actually care about the feed; it's not as if they are very useful on a static site like mine anyway.
+    On a blog that puts out full posts it is more important to have a feed, but a static site like mine adds content slowly across many pages.
+    I *could* treat the site like a software project---and to some extent I already do this---with separate "versions" for each page; then I can call the state of a page a "new version" once it crosses some threshold.
+
+    List of pages
+    :   This comes in two forms: for machines, there is a [sitemap.xml](sitemap.xml) that records all the pages on this site.
+    This seems important mostly for search engines.
+    It could also aid people trying to scrape the site for whatever use, but considering that I already publish the source files for everything on GitHub, that would probably be easier to deal with than scraping the HTML and then parsing it.
+
+    Redirection
+    :   This may just be characteristic of how I write, or perhaps indicative of how much I care about long-term content, but I like to aim for [canonical naming]() of pages, which means that pages (especially older ones) are renamed, so implementing redirection is very important.
+    I often get frustrated when links to pages on personal websites don't work just because the page had moved.
+    One question is whether it is better to implement this at the server level or the HTML level.
+    I currently use an HTML redirection, which has the advantage of working even on a local machine (for the moment, this is mostly useful for myself when I use the local version as my personal wiki, since the public version on [issarice.com](http://issarice.com) becomes out-of-date over the course of one month---the usual time interval with which I deploy this site).
+    I do think server-level redirection is more elegant, however, since the user need not see the redirection page.
+    In addition, with server-level redirection even a HEAD request will be able to determine the new location (whereas with HTML redirection a user obtains a 200 response).
+    Perhaps having both is the answer (so it works locally and is elegant once deployed)?
+
+    Tag/category organization
+    :   I have a [tags page](_tags/index), as well as pages for individual tags, on this site.
+    It works reasonably well for organizing all the content here, although I don't get the sense that it's being used.
+    Or to put it another way: since I have to manually tag pages, it isn't clear to me that I'm doing less work by tagging than by creating special "root pages" for certain topics like [computing](_tags/computing) and [math](_tags/math) and [content creation](_tags/content-creation).^[This question also surfaces in redirection: is it better to specify redirection in the pages' metadata (as on this site currently) or have separate pages that contain redirection (as on gitit or MediaWiki)?]
+    With the latter, I would have more freedom to organize the structure of the "root page" and add summaries or order by importance (though I can already change the ordering using tags if I implement an `importance:` metadata tag in the YAML header---but this is more work).
+
+- In terms of generating the site and as part of one's workflow, here are some other points.
+
+    Automatic generation
+    :   Using a static site generator or makefile to generate the site seems essential (if one wants a static site) since it's cumbersome to manually manage everything if the site is larger than a handful of pages.
+
+    Partial generation
+    :   When the site grows, it becomes slow to generate the whole site each time.
+    Either caching results or using a makefile to determine dependencies is important, especially when writing pages (since I often like to view the output as I write so as to ensure there are no syntax errors in the markdown source^[Using a lint program could also be useful here.]).
