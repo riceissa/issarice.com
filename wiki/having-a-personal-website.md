@@ -124,6 +124,10 @@ Indeed, a CV could take care of all three in a sense.
     Or to put it another way: since I have to manually tag pages, it isn't clear to me that I'm doing less work by tagging than by creating special "root pages" for certain topics like [computing](_tags/computing) and [math](_tags/math) and [content creation](_tags/content-creation).^[This question also surfaces in redirection: is it better to specify redirection in the pages' metadata (as on this site currently) or have separate pages that contain redirection (as on gitit or MediaWiki)?]
     With the latter, I would have more freedom to organize the structure of the "root page" and add summaries or order by importance (though I can already change the ordering using tags if I implement an `importance:` metadata tag in the YAML header---but this is more work).
 
+        Another phrasing: the question is whether organization should be internal or external to content pages.
+        Basically for content that a single individual produces for their personal website, things like the semantic web are probably overkill.
+        Categories are also unsatisfying because one always wants to know the most important pages *within* categories.
+
 - In terms of generating the site and as part of one's workflow, here are some other points.
 
     Automatic generation
@@ -131,4 +135,8 @@ Indeed, a CV could take care of all three in a sense.
 
     Partial generation
     :   When the site grows, it becomes slow to generate the whole site each time.
-    Either caching results or using a makefile to determine dependencies is important, especially when writing pages (since I often like to view the output as I write so as to ensure there are no syntax errors in the markdown source^[Using a lint program could also be useful here.]).
+    Either caching results or using a makefile to determine dependencies is important, especially when writing pages (since I often like to view the output as I write so as to ensure there are no syntax errors in the markdown source^[Using a [lint](!w Lint (software)) could also be useful here.]).
+
+    A single layer of processing
+    :   There are static sites that use two layers of processing e.g. writing an m4 file that contains a "body" portion that is written in markdown.
+    This seems unnecessarily complicated and reasoning about two layers of character escapes is painful.
