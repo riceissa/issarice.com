@@ -140,3 +140,7 @@ Indeed, a CV could take care of all three in a sense.
     A single layer of processing
     :   There are static sites that use two layers of processing e.g. writing an m4 file that contains a "body" portion that is written in markdown.
     This seems unnecessarily complicated and reasoning about two layers of character escapes is painful.
+
+    Templating
+    :   Manually writing and looking at HTML is painful, so write in markdown and use templating to convert to HTML.
+    When using templates, having metadata in a YAML header is useful.
