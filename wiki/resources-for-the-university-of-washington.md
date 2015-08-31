@@ -233,6 +233,7 @@ I'm also highly considering doing my honors portfolio on Quora, [since this seem
 - [As a non-major, how can I be a bigger part of the UW CSE community?](https://www.quora.com/As-a-non-major-how-can-I-be-a-bigger-part-of-the-UW-CSE-community)
 
 - [What does Alex K. Chen think of the field of Computer Science?](https://www.quora.com/Alex-K-Chen-topic/What-does-Alex-K-Chen-think-of-the-field-of-Computer-Science)
+- [First Year Plan for Prospective CSE students\. • /r/udub](https://www.reddit.com/r/udub/comments/3ivu73/first_year_plan_for_prospective_cse_students/)
 
 - For classes, see:
 [What is it like taking CSE 142 at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-taking-CSE-142-at-the-University-of-Washington),
