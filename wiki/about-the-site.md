@@ -18,7 +18,7 @@ produce useful, lasting content.[^cy] It is also an [open notebook](http://wcm1.
 all the source files used to produce this site human-readable (by
 writing pages in [Pandoc] markdown and storing them in [plain text](http://wcm1.web.rice.edu/my-academic-book-in-plain-text.html)), version-controlled (with [git](!w Git_\(software\))), and
 freely-licensed (all pages are *at least* [CC-BY], with some in the public
-domain[^copy]; the [software used to make this site](#colophon) is all
+domain[^copy]; the [software used to make this site](colophon) is all
 free software).  I also like to [release early, release often][rero][^agile]; I
 actually don't deploy the site as often, but I try to commit to the git
 repository often---so my site is the result of many incremental updates[^aaron].
