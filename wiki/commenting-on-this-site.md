@@ -20,4 +20,4 @@ In addition, some pages will have a link at the bottom (usually under "External 
 
 For my thoughts on commenting in general, see my [Comments]() page.
 
-If you'd like to point out corrections, in addition to contacting me, it's also possible to submit a pull request on the [Git repository for this site](https://github.com/riceissa/issarice.com).
+If you'd like to point out corrections, instead of contacting me, it's also possible to submit a pull request through the [GitHub repository for this site](https://github.com/riceissa/issarice.com).
