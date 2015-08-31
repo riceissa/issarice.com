@@ -66,8 +66,8 @@ EOF
     # Note that this requires GoToLastLine to be defined in .vimrc
     if [ "$1" = '-g' ];
     then
-        gvim --remote-tab-silent +"call GoToLastLine()" $pagepath
+        gvim --remote-tab-silent +"normal G" $pagepath
     else
-        vim --remote-tab-silent +"call GoToLastLine()" $pagepath
+        vim --remote-tab-silent +"normal G" $pagepath
     fi
 fi
