@@ -19,4 +19,5 @@ I have two "About" pages:
 - "[About me]()" contains information about myself (Issa Rice).
 You will find my [self-introduction](about-me#self-introduction) as well as [contact information](about-me#contact) there.
 
-- "[About the site]()" contains information about this website: its [philosophy](about-the-site#philosophy), [colophon](about-the-site#colophon), and [information on how to get updates](about-the-site#getting-updates).
+- "[About the site]()" contains information about this website: its [philosophy](about-the-site#philosophy), [information on how to get updates](about-the-site#getting-updates), etc.
+See also [Colophon]().
