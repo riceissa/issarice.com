@@ -63,8 +63,8 @@ h3, h4, h5, h6 {
 
 hr {
     border: 0 none;
-    border-top: 2px solid $dark_gray;
-    border-bottom: 1px solid $dark_gray;
+    border-top: 2px solid $lightest_gray;
+    border-bottom: 1px solid $lightest_gray;
     height: 4px;
 }
 
@@ -73,15 +73,52 @@ a {
 }
 
 a:link {
-    color: $wikiblue;
+    color: $blue;
 }
 
 a:visited {
-    color: $taro;
+    color: $cyan;
 }
 
 a:hover, a:active {
     text-decoration: underline;
+}
+
+// The following block must appear before setting the font sizes for
+// 'code' and 'pre code'.
+// See http://code.stephenmorley.org/html-and-css/fixing-browsers-broken-monospace-font-handling/
+// In particular:
+// > Major web browsers automatically reduce the size of monospace text
+// > in a range of situations. They do this due to the greater width of
+// > many monospace typefaces in comparison to other fonts at the same
+// > text height. While well-intentioned, their handling of monospace
+// > fonts is fundamentally broken, and an unusual CSS rule is required to
+// > fix the problem.
+pre, code, kbd, samp, tt {
+    font-family: monospace,monospace;
+    font-size: 1em;
+}
+
+pre, code, kbd, samp, tt {
+    font-family: $mono_series;
+}
+
+code {
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: $tan;
+    // This is also necessary in "pre code"
+    font-size: $smaller_text;
+}
+
+pre code {
+    display: block;
+    overflow: auto;
+    padding: 10px;
+    max-height: 30em;
+    line-height: 120%;
+    // This is also necessary in "code"
+    font-size: $smaller_text;
 }
 
 blockquote {
@@ -116,56 +153,6 @@ table td {
 
 dt {
     font-weight: bold;
-}
-
-// The following block must appear before setting the font sizes for
-// 'code' and 'pre code'.
-// See http://code.stephenmorley.org/html-and-css/fixing-browsers-broken-monospace-font-handling/
-// In particular:
-// > Major web browsers automatically reduce the size of monospace text
-// > in a range of situations. They do this due to the greater width of
-// > many monospace typefaces in comparison to other fonts at the same
-// > text height. While well-intentioned, their handling of monospace
-// > fonts is fundamentally broken, and an unusual CSS rule is required to
-// > fix the problem.
-pre, code, kbd, samp, tt {
-    font-family: monospace,monospace;
-    font-size: 1em;
-}
-
-pre, code, kbd, samp, tt {
-    font-family: $mono_series;
-}
-
-code {
-    padding-left: 4px;
-    padding-right: 4px;
-    background-color: $tan;
-    // This is also necessary in "pre code"
-    font-size: $smaller_text;
-}
-
-pre code {
-    display: block;
-    overflow: auto;
-    padding: 10px;
-    max-height: 500px;
-    line-height: 120%;
-    // This is also necessary in "code"
-    font-size: $smaller_text;
-}
-
-hr {
-    border-top: 2px solid $lightest_gray;
-    border-bottom: 1px solid $lightest_gray;
-}
-
-a:link {
-    color: $blue;
-}
-
-a:visited {
-    color: $cyan;
 }
 
 // Colors for source code listings. See
