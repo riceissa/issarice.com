@@ -48,7 +48,7 @@ status: notes
 # "emotional"
 #belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
+license: CC0
 EOF
     if [ "$isStatusUpdate" = true ]; then
         echo "tags: status update" >> $pagepath
