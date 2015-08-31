@@ -75,14 +75,9 @@ Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdo
 For each page that was manually written, the source markdown file can be accessed by clicking “page source” at the top of that page.
 The markdown files are then compiled to HTML using a static site generator I wrote, which is stored in [`generator.py`](https://github.com/riceissa/issarice.com/blob/master/generator/generator.py) in the repository[^ssglist].
 
-The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/master/css/minimal.scss) is written in [SASS](http://sass-lang.com/) and compiled to CSS.
-There are actually multiple stylesheets available (specified using `rel="alternate stylesheet"` in the HTML):
-
-- The default theme ("Standard") has colors inspired by [gitit](http://gitit.johnmacfarlane.net/) as well as small ideas from various places like [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s (old) documentation pages. It uses code colors from Solarized (see third bullet).
-- "Minimal" mostly sticks to the browser's default, but has a narrower content column for better reading.
-- The "Solarized" themes (light and dark) use [Ethan Schoonover](http://ethanschoonover.com/)’s [Solarized](http://ethanschoonover.com/solarized) for body text and background.
-
-Readers can select among the themes usually by going to "View" then "Page Style" in their browser (e.g. in Firefox). Chrome actually doesn't offer this feature and requires [a plugin](https://chrome.google.com/webstore/detail/style-chooser/daodklicmmjhcacgkjpianadkdkbkbce?hl=en).
+The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/master/css/solarized_light.scss) is written in [SASS](http://sass-lang.com/) and compiled to CSS.
+It uses the [Solarized](http://ethanschoonover.com/solarized) light theme by [Ethan Schoonover](http://ethanschoonover.com/) for body text, background, and colors.
+Other aspects of the style sheet are inspired by [gitit](http://gitit.johnmacfarlane.net/), [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s (old) documentation pages.
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can [visit the repository](https://github.com/riceissa/riceissa.com) by clicking “website source” at the top of any page.
@@ -98,12 +93,12 @@ Instead, one can find a list of many static site generators [here](http://static
 
 # Getting updates
 
-I have an [RSS feed](http://issarice.com/feed.xml) for this site.
+I have an [Atom feed](http://issarice.com/atom.xml) for this site.
 For more ways to get updates, see [Feed]().
 
 # Belief and status tags
 
-I use [status tags]() and [belief tags]() on this site, both of which
+I use [status]() and [belief]() markers on this site, both of which
 are ideas I got from gwern's site. These are both meant to tell the
 reader how the author regards the content on a page. I find that it's
 mostly useful in cases where I want to say "I've only briefly thought
