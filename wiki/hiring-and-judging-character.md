@@ -19,7 +19,7 @@ tags: judging, character, hiring, Yishan Wong, talent
 - both are clearly important: you need to hire people to get tasks done,
   and you want to find good friends/partner(s)
 - both can take quite a bit of commitment to accurately judge
-- both can end disastrously
+- both can end disastrously (due diligence)
 - in both scenarios, there can be multiple people doing the judging, so
   there can be some gossip among those "in the know"
 - sometimes it can be *really hard* to tell the difference between
