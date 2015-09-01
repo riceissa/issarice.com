@@ -61,3 +61,7 @@ beliefs when faced with new evidence). This is also a stereotype of
 people with Asperger syndrome (who are thought to be bad at nonverbal
 communication, are thought to be savants who are good at quantitative
 subjects, and so on).
+
+# See also
+
+- [Effective Altruists: Not As Mentally Ill As You Think](http://slatestarcodex.com/2015/03/06/effective-altruists-not-as-mentally-ill-as-you-think/)
