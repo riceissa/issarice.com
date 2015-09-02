@@ -33,6 +33,13 @@ I think Peter Thiel nailed it with these quotes:
 
 [^telegraph]: "[Peter Thiel: the billionaire tech entrepreneur on a mission to cheat death](http://www.telegraph.co.uk/technology/11098971/Peter-Thiel-the-billionaire-tech-entrepreneur-on-a-mission-to-cheat-death.html)"
 
+From [Rough Consensus and Maximal Interestingness](http://breakingsmart.com/season-1/rough-consensus-and-maximal-interestingness/):
+
+> It is generally smarter to assume that problems that seem difficult
+> and important today might become trivial or be rendered moot in the
+> future. Behaviors that would be short-sighted in the context of
+> scarcity become far-sighted in the context of abundance.
+
 # See also
 
 - [Long Now Foundation](!w)
