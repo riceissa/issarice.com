@@ -9,7 +9,7 @@ Reverse chronological order
 
 # How do I cope with losing a long-time friend who I love?
 
-[Mirror](https://www.quora.com/How-do-I-cope-with-losing-a-long-time-friend-who-I-love/answer/Issa-Rice)
+[Mirror](https://www.quora.com/How-do-I-cope-with-losing-a-long-time-friend-who-I-love/answer/Issa-Rice); the version here has since been edited
 
 It's unprofessional of them to refuse communication, but there isn't
 anything you can do about that. Their refusal to communicate is a sign
@@ -34,6 +34,12 @@ read that post and in particular this quote:
 > anyone's fault. When two people want incompatible things, they should
 > politely say goodbye and move on with their lives.
 
+See also this quote from *[The 7 Habits of Highly Effective People](!w)*, which sin't about romance but is still relevant:
+
+> So let’s work for a Win/Win. Let’s really hammer it out. And if we
+> can’t find it, then let’s agree that we won’t make a deal at all. It
+> would be better not to deal than to live with a decision that wasn’t
+> right for us both.
 
 # One year on, how has Cognito Mentoring benefited you?
 
