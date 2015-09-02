@@ -39,6 +39,17 @@ From [Rough Consensus and Maximal Interestingness](http://breakingsmart.com/seas
 > and important today might become trivial or be rendered moot in the
 > future. Behaviors that would be short-sighted in the context of
 > scarcity become far-sighted in the context of abundance.
+>
+> The original design of the Mosaic browser, for instance, reflected the
+> optimistic assumption that everybody would have high-bandwidth access
+> to the Internet in the future, a statement that was not true at the
+> time, but is now largely true in the developed world. Today, many
+> financial technology entrepreneurs are building products based on the
+> assumption that cryptocurrencies will be widely adopted and accepted.
+> Underlying all such optimism about technology is an optimism about
+> humans: a belief that those who come after us will be better informed
+> and have more capabilities, and therefore able to make more creative
+> decisions.
 
 # See also
 
