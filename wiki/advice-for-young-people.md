@@ -732,6 +732,7 @@ can learn a lot about the most exciting things that are happening.
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
+    - [David Roodman](http://davidroodman.com/)
     - Some more people mentioned by Alex K. Chen:
 
         > People whose opinions I very highly respect: danah boyd,
