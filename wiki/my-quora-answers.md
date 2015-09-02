@@ -34,7 +34,7 @@ read that post and in particular this quote:
 > anyone's fault. When two people want incompatible things, they should
 > politely say goodbye and move on with their lives.
 
-See also this quote from *[The 7 Habits of Highly Effective People](!w)*, which sin't about romance but is still relevant:
+See also this quote from *[The 7 Habits of Highly Effective People](!w)*, which isn't about romance but is still relevant:
 
 > So let’s work for a Win/Win. Let’s really hammer it out. And if we
 > can’t find it, then let’s agree that we won’t make a deal at all. It
