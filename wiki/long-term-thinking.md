@@ -55,3 +55,4 @@ From [Rough Consensus and Maximal Interestingness](http://breakingsmart.com/seas
 
 - [Long Now Foundation](!w)
 - [Choose a Spouse Who Would Resemble the Children you Want](http://freenortherner.com/2012/05/25/choose-a-spouse-who-would-resemble-the-children-you-want/)
+- [On Progress and Prosperity](http://effective-altruism.com/ea/9f/on_progress_and_prosperity/)
