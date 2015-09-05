@@ -98,3 +98,5 @@ Talking about senior hiring, they list some general principles:
     > were making a considered decision to de-prioritize this aspect of
     > the field; (b) didn’t have much experience or knowledge of this
     > area of the field.
+
+    (So the general lesson here might be "do your homework" before trying to hire people.)
