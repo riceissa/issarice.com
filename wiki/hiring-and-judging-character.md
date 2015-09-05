@@ -77,3 +77,5 @@ tags: judging, character, hiring, Yishan Wong, talent
     > type of people you want to hire, and then put a message out
     > publicly that only those types of people will respond to or
     > provide a correct answer to.
+
+- [The process of hiring our first cause-specific Program Officer](http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/)
