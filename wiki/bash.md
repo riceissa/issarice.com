@@ -18,4 +18,5 @@ tags: bash, linux
 #aliases: 
 ---
 
-
+See [Bash aliases]() and [Bash shortcuts]().
+Also [riceissa/dotfiles](https://github.com/riceissa/dotfiles/).
