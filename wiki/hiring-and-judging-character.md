@@ -12,7 +12,7 @@ tags: judging, character, hiring, Yishan Wong, talent
 #aliases: 
 ---
 
-- <http://blog.givewell.org/2013/08/29/we-cant-simply-buy-capacity/>
+- [We Can’t \(Simply\) Buy Capacity](http://blog.givewell.org/2013/08/29/we-cant-simply-buy-capacity/)
 - the connection between hiring people for a job and judging the
   character of people fascinates me (e.g. for finding good friends, or
   for romantic relationships).
@@ -25,7 +25,7 @@ tags: judging, character, hiring, Yishan Wong, talent
 - sometimes it can be *really hard* to tell the difference between
   someone who is an *extremely* good fit, and someone who is a terrible
   fit.
-- <https://www.quora.com/How-do-you-distinguish-10X-software-engineers-from-the-rest>
+- [How do you distinguish 10X software engineers from the rest?](https://www.quora.com/How-do-you-distinguish-10X-software-engineers-from-the-rest)
 
     - Yishan Wong:
 
@@ -49,12 +49,12 @@ tags: judging, character, hiring, Yishan Wong, talent
 
 - many more Quora questions about judging character (many by Alex):
 
-    - <https://www.quora.com/Judging-Character/How-do-you-evaluate-someones-ability-to-be-an-exceptional-judge-of-character>
-    - <https://www.quora.com/Is-Elon-Musk-an-exceptional-judge-of-character-talent>
-    - <https://www.quora.com/How-can-one-be-a-good-judge-of-character>
-    - <https://www.quora.com/How-do-you-judge-peoples-character>
-    - decent answer: <https://www.quora.com/How-can-you-become-a-good-judge-of-character/answer/Sridatta-Thatipamala>
-    - <https://www.quora.com/How-do-I-judge-the-character-of-a-lady-girl>
+    - [How to evaluate someone's ability to be an exceptional judge of character](https://www.quora.com/Judging-Character/How-do-you-evaluate-someones-ability-to-be-an-exceptional-judge-of-character)
+    - [Is Elon Musk an exceptional judge of character/talent?](https://www.quora.com/Is-Elon-Musk-an-exceptional-judge-of-character-talent)
+    - [How can you become a good judge of character?](https://www.quora.com/How-can-you-become-a-good-judge-of-character)
+    - [How do you judge people's character?](https://www.quora.com/How-do-you-judge-peoples-character)
+    - decent answer: [Sridatta Thatipamala's answer to How can you become a good judge of character?](https://www.quora.com/How-can-you-become-a-good-judge-of-character/answer/Sridatta-Thatipamala)
+    - [How do I judge the character of a lady/girl?](https://www.quora.com/How-do-I-judge-the-character-of-a-lady-girl)
 
         - observing ppl under stress might be important
 
