@@ -73,3 +73,6 @@ see also [Trees, TreeViews, and UI](http://blog.codinghorror.com/trees-treeviews
 
 with my tag ontology: *for the end-user*, it's as simple as Gmail's tagging system; there is no hierarchy.
 Really, it's just *a shorthand for manually tagging something with multiple tags*; the system just understands what other tags you *would have applied*.
+
+also tagging should be better than mere search. if one could generate the same list of pages merely by searching for a keyword, why take the time to tag everything?
+e.g. tagging all articles that mention GiveWell with "GiveWell" isn't very helpful, since I can just search for "GiveWell".
