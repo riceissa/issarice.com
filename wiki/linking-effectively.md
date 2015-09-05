@@ -37,6 +37,7 @@ Things to talk about:
 - referrer masking
 - when to use footnotes, when to use links, when to use parentheses
 - From LW boring advice: "Never post a web link that requires a reader to click on it to find out if they want to click on it."
+- including the article. e.g. "\[the job posting\]" is better than "the \[job posting\]" (example from [The process of hiring our first cause-specific Program Officer](http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/), which uses the version I don't like..)
 - semantic web: links with meanings
 
 Links often emphasize text on a page. So consider the sentence “Stopping
