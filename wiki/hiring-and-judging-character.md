@@ -78,4 +78,23 @@ tags: judging, character, hiring, Yishan Wong, talent
     > publicly that only those types of people will respond to or
     > provide a correct answer to.
 
-- [The process of hiring our first cause-specific Program Officer](http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/)
+- GiveWell has [The process of hiring our first cause-specific Program Officer](http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/).
+Talking about senior hiring, they list some general principles:
+
+    > -   The best way to evaluate someone is to work with them. The ideal way
+    >     to make a senior hire would be to have a longstanding relationship
+    >     with someone, perhaps as a part-time consulting arrangement.
+    > -   Interviews are highly unreliable. The evaluation process should be
+    >     designed as much as possible to mimic working together.
+    > -   References are extremely important, and it can be useful to talk to
+    >     many people about the candidate (including people who weren’t
+    >     specifically offered as references).
+
+    Also:
+
+    > When a candidate didn’t mention a major aspect of the criminal
+    > justice reform field, we would ask about it and see whether they
+    > were omitting it because they (a) had strong knowledge of it and
+    > were making a considered decision to de-prioritize this aspect of
+    > the field; (b) didn’t have much experience or knowledge of this
+    > area of the field.
