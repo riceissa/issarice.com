@@ -8,7 +8,7 @@ language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: mostly finished
 # accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: likely
+belief: highly likely
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
 tags: contact, general, about
