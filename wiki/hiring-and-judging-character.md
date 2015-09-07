@@ -100,3 +100,5 @@ Talking about senior hiring, they list some general principles:
     > area of the field.
 
     (So the general lesson here might be "do your homework" before trying to hire people.)
+
+- [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)

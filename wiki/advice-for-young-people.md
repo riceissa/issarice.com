@@ -872,3 +872,5 @@ Part of this is to allow yourself to be stalkable (so it can lead to meeting mor
 
 - I like [a comment by pjeby](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/2774) on altruism and comparing one's beliefs and actions with those of people successful in some particular way.
     - Related: abundance and scarcity mindsets
+
+- [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)
