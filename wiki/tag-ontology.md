@@ -76,3 +76,6 @@ Really, it's just *a shorthand for manually tagging something with multiple tags
 
 also tagging should be better than mere search. if one could generate the same list of pages merely by searching for a keyword, why take the time to tag everything?
 e.g. tagging all articles that mention GiveWell with "GiveWell" isn't very helpful, since I can just search for "GiveWell".
+
+There is also the problem of trust, which appears in both search and in tagging.
+Basically, if a user can't trust that the information they want can be found using a particular method of content discovery, then they will stop using that (e.g. if a site-native search tool can't find any information, then users will start using Google with "site:"; if the site maintainer is lazy and doesn't tag pages systematically, then users will start to distrust it, preferring search instead).
