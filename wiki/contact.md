@@ -101,4 +101,4 @@ You can browse [my public repositories](https://github.com/riceissa?tab=reposito
 - You can see all of [my Stack Exchange accounts](http://stackexchange.com/users/1643345/riceissa?tab=accounts).
 - I am [riceissa](https://www.reddit.com/user/riceissa/) on [Reddit](http://info.cognitomentoring.org/wiki/Using_reddit).
 I occasionally use Reddit to look for information, but don’t really post.
-
+- [My Internet Archive account](https://archive.org/details/@issarice)
