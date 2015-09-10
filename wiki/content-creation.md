@@ -248,7 +248,7 @@ Does this mean blogs are superior to e.g. static sites?
 
 - Since I've only begun to write recently, how can I even know these considerations are correct?
 
-- From [10 Types of Odd Friendships You're Probably Part Of - Wait But Why](http://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html):
+- From [10 Types of Odd Friendships You're Probably Part Of - Wait But Why](http://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html) (italics removed):
 
     > A note about listicles: So we know a lot of people hate listicles
     > and associate them with cheap, low-quality, traffic-driving,
