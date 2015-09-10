@@ -248,6 +248,23 @@ Does this mean blogs are superior to e.g. static sites?
 
 - Since I've only begun to write recently, how can I even know these considerations are correct?
 
+- From [10 Types of Odd Friendships You're Probably Part Of - Wait But Why](http://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html):
+
+    > A note about listicles: So we know a lot of people hate listicles
+    > and associate them with cheap, low-quality, traffic-driving,
+    > link-bait articles. But here’s the thing—a list is a great format
+    > for an article, and a format I was using on my old blog almost 10
+    > years ago. In fact, my first listicle, 19 Things I Don’t
+    > Understand, was published in August of 2005, a year before
+    > Buzzfeed was even founded. Then, over the last few years, I
+    > watched in horror as one of my favorite formats decided to
+    > prostitute itself all over the internet as the default format for
+    > lazy articles. Anyway the point is, A) I was doing listicles
+    > before they were cool, and B) A list headline doesn’t mean it
+    > can’t be a high-quality article, so C) Wait But Why will make a
+    > listicle when it’s the best format for that post, and don’t be mad
+    > at us cause it’s not what it looks like.
+
 # External links
 
 - [Discussion (that never took off) on Vipul Naik's Facebook feed](https://www.facebook.com/vipulnaik.r/posts/10204192033496970)
