@@ -265,6 +265,19 @@ Does this mean blogs are superior to e.g. static sites?
     > listicle when it’s the best format for that post, and don’t be mad
     > at us cause it’s not what it looks like.
 
+- Nick Bostrom in his [preface](http://www.anthropic-principle.com/?q=book/preamble#Pre) to *Anthropic Bias*:
+
+    > One note to the reader before we start. Whether because of an
+    > intrinsic organic quality of the subject matter or because of
+    > defects in my presentation skills, I have found it difficult to
+    > organize the exposition in a completely linear sequence where each
+    > chapter can be fully comprehended without having read what comes
+    > after. Instead, some important themes are revisited many times
+    > over the course of this book, and some essential qualifications
+    > are added in a piecemeal fashion. I would plead that the reader
+    > not rush to a judgement until the last page has been reached and
+    > the idea-complex has been grasped in its entirety.
+
 # External links
 
 - [Discussion (that never took off) on Vipul Naik's Facebook feed](https://www.facebook.com/vipulnaik.r/posts/10204192033496970)
