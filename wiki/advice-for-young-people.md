@@ -713,6 +713,7 @@ can learn a lot about the most exciting things that are happening.
     - Mark Zuckerberg; e.g. [Mark Zuckerberg at Startup School 2013](https://www.youtube.com/watch?v=MGsalg2f9js) is pretty good. Also read Kirkpatrick's book.
     - Michael O. Church ([Quora](https://www.quora.com/Michael-O-Church), [blog](https://michaelochurch.wordpress.com/))
     - **Alex K. Chen**
+        - [Alex K\. Chen's answer to Who are the most interesting people in the world?](https://www.quora.com/Who-are-the-most-interesting-people-in-the-world/answer/Alex-K-Chen)
     - **Vipul Naik**
     - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/)".
     - [Raman Shah](https://www.quora.com/Raman-Shah)
