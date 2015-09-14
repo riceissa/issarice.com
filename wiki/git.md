@@ -36,7 +36,7 @@ Some useful commands:
 
 - Check when the last revision date for a page on this site was last modified:
 
-    ~~~
+    ~~~{.bash}
     git blame -L '/last_major_revision_date: /,+1' wiki/PAGENAME.md
     ~~~
 
@@ -46,7 +46,7 @@ I'm documenting some weird behavior I've observed.
 
 In `~/.gitconfig`:
 
-```
+```{.bash}
 [core]
     pager = less -+S -r
 ```
