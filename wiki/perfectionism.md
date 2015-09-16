@@ -82,6 +82,7 @@ Some vaguely related threads about perfectionism, short term vs long term, etc.
 
     - of course, the opposite is [suckless's philosophy](http://suckless.org/philosophy)
 
+- [Your Coding Philosophies are Irrelevant](http://prog21.dadgum.com/142.html)
 - 80-20 rule
 - semantic web; impatience
 - same with semantic web: the market won’t accept it because people don’t wanna put in the work
