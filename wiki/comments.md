@@ -234,3 +234,15 @@ site.  Here are some of the better ones.
 
 
 - The notorious [John Gruber](http://daringfireball.net/2010/06/whats_fair)
+
+- [No Comment](http://prog21.dadgum.com/57.html) by James Hague:
+
+    > I think that initial knee-jerk "I've been looking at this for ten
+    > seconds and now let me explain the critical flaws" reaction is a
+    > common one among people with engineering mindsets. And that's not
+    > a good thing.  I've seen this repeatedly, from people putting down
+    > programming languages for silly, superficial reasons (Perl's
+    > sigils, Python's enforced indentation), to ridiculous off-the-cuff
+    > put downs of new products (such as the predictions of doom in the
+    > [Slashdot announcement](http://apple.slashdot.org/article.pl?sid=01/10/23/1816257)
+    > of the original iPod in 2001).
