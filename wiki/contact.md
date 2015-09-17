@@ -82,7 +82,7 @@ person about whom the question is asked is fine with it.
 
 - I am [riceissa](http://lesswrong.com/user/riceissa/overview/) on [LessWrong]().
 - I am [riceissa](http://effective-altruism.com/user/riceissa/) on the [Effective Altruism Forum](http://effective-altruism.com/).
-- I have [a profile](http://effectivealtruismhub.com/user/riceissa) on the [Effective Altruism Hub](http://effectivealtruismhub.com/).
+- I have [a profile](http://effectivealtruismhub.com/user/issa-rice) on the [Effective Altruism Hub](http://effectivealtruismhub.com/).
 - I have [a Patreon profile](https://www.patreon.com/issarice) that I use experimentally.
 
 # Programming
