@@ -21,3 +21,4 @@ tags: untagged
 
 - [Protestant work ethic](https://en.wikipedia.org/wiki/Protestant_work_ethic)
 - look at Bastiat and Caplan
+- [PHP Wars: Attack of the Clones](https://philsturgeon.uk/php/2014/10/20/php-wars-attack-of-the-clones/)
