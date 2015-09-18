@@ -24,7 +24,7 @@ tags: untagged
 - Adblock Plus
 - Privacy Badger
 - NoScript
-- Vimperator
+- VimFX
 - It's All Text!
 - HTTPS Everywhere
 - ScrapBook
