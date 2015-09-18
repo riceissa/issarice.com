@@ -23,6 +23,7 @@ aliases: god
 - [Bryan Caplan](!w)
 - [Holden Karnofsky](http://blog.givewell.org)
 - [Aaron Swartz](!w)
+- [Uriel](http://uriel.cat-v.org/)
 - [Peter Thiel](!w)
 - [Paul Graham](!w)
 - [Omega](http://wiki.lesswrong.com/wiki/Omega)
