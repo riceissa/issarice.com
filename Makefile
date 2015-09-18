@@ -1,7 +1,7 @@
 OUTDIR = _site
 MD_PAGES = $(wildcard wiki/*.md)
 HTML_PAGES = $(patsubst wiki/%.md,_site/%,$(MD_PAGES))
-CSS = $(OUTDIR)/_css/minimal.css $(OUTDIR)/_css/common.css $(OUTDIR)/_css/standard.css $(OUTDIR)/_css/solarized_light.css $(OUTDIR)/_css/solarized_dark.css
+CSS = $(OUTDIR)/_css/solarized_light.css
 CSSDIR = _site/_css
 
 # Make only regular pages
@@ -18,15 +18,7 @@ $(CSSDIR):
 _site/%: wiki/%.md
 	./generator/generator.py --commit_ps --file "$<"
 
-$(OUTDIR)/_css/minimal.css: css/minimal.scss | $(CSSDIR)
-	sass --style compressed "$<" > "$@"
-$(OUTDIR)/_css/common.css: css/common.scss | $(CSSDIR)
-	sass --style compressed "$<" > "$@"
-$(OUTDIR)/_css/standard.css: css/standard.scss | $(CSSDIR)
-	sass --style compressed "$<" > "$@"
-$(OUTDIR)/_css/solarized_light.css: css/solarized_light.scss | $(CSSDIR)
-	sass --style compressed "$<" > "$@"
-$(OUTDIR)/_css/solarized_dark.css: css/solarized_dark.scss | $(CSSDIR)
+$(OUTDIR)/_css/solarized_light.css: css/solarized_light.scss css/_colors.scss | $(CSSDIR)
 	sass --style compressed "$<" > "$@"
 
 clean:
