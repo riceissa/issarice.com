@@ -24,6 +24,17 @@ Some thoughts on anonymity... (for now)
 - the other one on anon bbses
 - LONG TERM THINKING
 - also quite useful for some things, like [Belle de Jour](!w Belle_de_Jour_%28writer%29) and activists etc.
+- [Why Did why the lucky stiff Quit?](https://kevinw.github.io/2013/04/30/why-did-why-the-lucky-stiff-quit/)
+
+    > There are lots of convincing arguments for anonymity–e.g.,
+    > political or physical retribution for expressing opinions
+    > unpopular with corporations or organizations. But another
+    > perfectly good one that may apply here is that, for \_why, the
+    > pseudonym was part of the game. He was doing performance art with
+    > a superhero mask on. Part of the fun was the anonymity itself. And
+    > when that was gone, at least some of the magic disappeared with
+    > it.
+
 - [Why I wiped my LinkedIn profile](https://michaelochurch.wordpress.com/2013/01/02/why-i-wiped-my-linkedin-profile/)
 - scanning <https://en.wikipedia.org/wiki/Anonymity>:
     - benefits:
