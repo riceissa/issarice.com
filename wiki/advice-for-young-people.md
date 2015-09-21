@@ -67,7 +67,7 @@ convenient for me.
 > you to loath failing, which is basically teaching you to loath
 > learning.”
 
-([Marcus Geduld][MG_failure])
+--- [Marcus Geduld][MG_failure]
 
 [MG_failure]: https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld
 
@@ -436,7 +436,7 @@ Cognito Mentoring info wiki.
 > in an absurd, arbitrary and capricious world where my life can have
 > little impact, and then I die. Is this all there is?"
 
-("[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)")
+--- from "[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)"
 
 In some sense, effective altruism is an answer to the questions "What
 should I do with my life?", "Can I do anything meaningful with my
