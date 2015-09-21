@@ -331,10 +331,9 @@ this sense I think Cognito Mentoring does a much better job.)
 [graduation speech]: http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/
 
 Scott Alexander also has an older website called [Raikoth], which has
-the [The Consequentialism FAQ].
+the [The Consequentialism FAQ](http://www.raikoth.net/consequentialism.html).
 
 [raikoth]: http://www.raikoth.net/
-[The Consequentalism FAQ]: http://www.raikoth.net/consequentialism.html
 
 
 # Depression
