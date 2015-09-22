@@ -19,6 +19,8 @@ tags: untagged
 #aliases: 
 ---
 
+*Note: this page was originally written for the wikiHow article "[How to Archive Websites on Unix Like Systems](http://www.wikihow.com/Archive-Websites-on-Unix-Like-Systems)".*
+
 Link rot (the phenomenon where old websites and pages disappear, making links useless) is a huge problem on the internet.^[See for instance "Archiving URLs" by gwern, [§ Link rot](http://www.gwern.net/Archiving%20URLs#link-rot).]
 For readers, it is disappointing when old websites no longer exist.
 For writers whose writing on the web is extensively hyperlinked, there is the problem of not being able to verify information when links die.
