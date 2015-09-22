@@ -450,6 +450,8 @@ altruism][ea crit]".
 [ideo]: http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/
 [ea crit]: http://www.benkuhn.net/ea-critique
 
+- [Extreme altruism: should you care for strangers at the expense of your family? | Larissa MacFarquhar](http://www.theguardian.com/world/2015/sep/22/extreme-altruism-should-you-care-for-strangers-as-much-as-family)
+
 [for more general resources, see [Effective altruism]()]
 
 
