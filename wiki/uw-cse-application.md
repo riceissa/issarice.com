@@ -31,7 +31,7 @@ Note that in many ways, this page is a lot like my UW transcript after the first
 
 I'd like to note that while I don't think I was one of the strongest applicants, I certainly don't think I was one of the weakest either (even among those admitted).
 
-One last note: during the new CSE admit orientation, one of the CSE advisors said that this admissions cycle was a "particularly brutal" one.
+One last note: during the new CSE admit orientation, one of the CSE advisors said that this admissions cycle was a "particularly brutal"^["I'm a recent CSE admit, and at orientation the faculty said this was the most brutal admissions process so far" according to [a reddit comment](https://www.reddit.com/r/udub/comments/3m9qfu/quick_question_about_spring_application/cvd8k56); I think it was one of the CSE advisors that said this though, and I trust my quoting to be more accurate :).] one.
 
 # General numbers
 
