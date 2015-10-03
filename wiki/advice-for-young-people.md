@@ -876,7 +876,7 @@ Part of this is to allow yourself to be stalkable (so it can lead to meeting mor
     - Related: abundance and scarcity mindsets
 
 - [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)
-- Learn about [keyhole solutions](keyhole-solution) and [purchasing offsets](http://effective-altruism.com/ea/oh/what_is_the_expected_effect_of_poverty/57x).
+- Learn about [keyhole solutions](keyhole-solution) and [purchasing offsets](http://effective-altruism.com/ea/oh/what_is_the_expected_effect_of_poverty/57x)[^offset].
 Also think about how to get what you want in creative ways; in particular, watch out for situations like the following (by Katja Grace, quoted in Yvain's "[Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/)"):
 
     > ...the situation reminds me of a pattern in similar cases I have
@@ -894,3 +894,16 @@ Also think about how to get what you want in creative ways; in particular, watch
     > right. Solving the problem effectively is an attack on the moral
     > people.
 
+[^offset]: I like this quote from the comment:
+
+    > Cash transfers significantly relieve poverty of humans who are
+    > alive today, and are fairly efficient at doing that. They are far
+    > less efficient at helping or harming non-human animals or
+    > increasing or reducing existential risk. Even if they have some
+    > negative effect here or there (more meat-eating, or habitat
+    > destruction, or carbon emissions) the cost of producing a
+    > comparable benefit to offset it in that dimension will be small
+    > compared to the cash transfer. E.g. an allocation of 90%
+    > GiveDirectly, and 10% to offset charities (carbon reduction, meat
+    > reduction, nuclear arms control, whatever) will wind up positive
+    > on multiple metrics.
