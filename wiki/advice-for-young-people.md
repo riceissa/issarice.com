@@ -876,3 +876,21 @@ Part of this is to allow yourself to be stalkable (so it can lead to meeting mor
     - Related: abundance and scarcity mindsets
 
 - [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)
+- Learn about [keyhole solutions](keyhole-solution) and [purchasing offsets](http://effective-altruism.com/ea/oh/what_is_the_expected_effect_of_poverty/57x).
+Also think about how to get what you want in creative ways; in particular, watch out for situations like the following (by Katja Grace, quoted in Yvain's "[Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/)"):
+
+    > ...the situation reminds me of a pattern in similar cases I have
+    > noticed before. It goes like this. Some people make personal
+    > sacrifices, supposedly toward solving problems that don’t threaten
+    > them personally. They sort recycling, buy free range eggs, buy
+    > fair trade, campaign for wealth redistribution etc. Their actions
+    > are seen as virtuous. They see those who don’t join them as
+    > uncaring and immoral. A more efficient solution to the problem is
+    > suggested. It does not require personal sacrifice. People who have
+    > not previously sacrificed support it. Those who have previously
+    > sacrificed object on grounds that it is an excuse for people to
+    > get out of making the sacrifice. The supposed instrumental action,
+    > as the visible sign of caring, has become virtuous in its own
+    > right. Solving the problem effectively is an attack on the moral
+    > people.
+
