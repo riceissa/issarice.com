@@ -3,7 +3,7 @@ title: About me
 description: biography, contact information
 creation_date: 2014-09-13
 last_major_revision_date: 2015-10-04
-feed_description: include more interests
+feed_description:
 license: CC0
 tags: personal
 aliases: me
