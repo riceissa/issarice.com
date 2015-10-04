@@ -25,7 +25,7 @@ long-term thinking,
 [unschooling](),
 and [hikikomori](!w).
 
-I spend a lot of time on various sites online, including [Facebook]() and [Quora]().
+I spend time on various sites online, including [Facebook]() and [Quora]().
 My [contact]() page has a longer list of my online accounts.
 
 I am also currently a second-year student at University of Washington.
