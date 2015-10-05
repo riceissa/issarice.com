@@ -20,3 +20,4 @@ tags: untagged
 ---
 
 - [大学を卒業するまでに社会へ出なくていい方法を見つけたい](http://hello.2ch.net/test/read.cgi/campus/1439801445/)
+- There used to be an active site called [2ちゃんねるベストヒット](http://yet.s61.xrea.com/mt/).
