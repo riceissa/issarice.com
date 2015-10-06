@@ -60,7 +60,7 @@ You can find my original public announcement about doing cause prioritization re
 - ["The Elitist Philanthropy of So-Called Effective Altruism"](http://www.ssireview.org/blog/entry/the_elitist_philanthropy_of_so_called_effective_altruism) by Charity Navigator people
 - [The Outside Critics of Effective Altruism](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/)
     - [Lila comments on The Outside Critics of Effective Altruism](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/26u)
-- Boston Globe: "[The Logic of Effective Altruism](https://bostonreview.net/forum/peter-singer-logic-effective-altruism)"
+- Boston Globe: "[The Logic of Effective Altruism](https://bostonreview.net/forum/peter-singer-logic-effective-altruism)" (this one has several responses in one)
     - Overcoming Bias's response (by Robin Hanson): "[Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)"
     - [reddit thread](https://www.reddit.com/r/philosophy/comments/3cfkc2/peter_singer_on_the_logic_of_effective_altruism/)
 - Some discussion at [this post by Eliezer](https://www.facebook.com/groups/effective.altruists/permalink/906061206116904)<!--[Effective Altruists](https://archive.is/lGver)-->
@@ -78,6 +78,8 @@ You can find my original public announcement about doing cause prioritization re
     > problems on capital’s terms.
 
     The piece also links to [So You Want to be a "Radical" Philanthropist?](http://www.huffingtonpost.com/leah-hunthendrix/so-you-want-to-be-a-radical-philanthropist_b_7181248.html) and [The fallacy of philanthropy](https://www.academia.edu/1817777/The_fallacy_of_philanthropy) (by Paul Gomberg)
+
+- "[Stop the Robot Apocalypse: The New Utilitarians](http://www.lrb.co.uk/v37/n18/amia-srinivasan/stop-the-robot-apocalypse)" by Amia Srinivasan 
 
 # Depression
 
