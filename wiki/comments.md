@@ -27,10 +27,8 @@ I [once asked on Facebook](https://www.facebook.com/riceissa/posts/1477764832502
 > who voted), displaying who has seen the comments, which markup
 > language to use, and so on.
 
-It's rather interesting how many different commenting systems one can
-find, and is natural to ask: "Well, which one works best?" And if that
-is an ill-defined question, then one can at least try to ask, "What
-should I use for *my* site?"
+It's rather interesting how many different commenting systems one can find, and is natural to ask which one works best.
+And if that is an ill-defined question, then one can at least try to ask what one should use on one's own website.
 
 It might be worthwhile to list all the possible parameters (i.e. to
 extend the list I came up with).
