@@ -48,6 +48,7 @@ extend the list I came up with in the Facebook post).
 
     This is also true of a site like Quora, where heavily downvoted
     answers are hidden.
+    (And in fact, only highly upvoted content is widely circulated through people's feeds.)
 
 - User accounts
     - Anonymity/pseudonymity
