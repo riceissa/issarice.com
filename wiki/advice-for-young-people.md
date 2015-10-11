@@ -91,7 +91,7 @@ convenient for me.
   Graham), etc.
 
 - Actively search for alternatives.  For example, if one lives in
-  Washington state, then the early entrace program at UW can be a very
+  Washington state, then the early entrance program at UW can be a very
   good option.  Even if one does not enroll in this program, UW is
   generally accepted to be a decent school (though what you do there is
   most important)
