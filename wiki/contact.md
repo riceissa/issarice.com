@@ -63,6 +63,7 @@ person about whom the question is asked is fine with it.
   profile is genuine.
 - I check [Quora]() a few times a day now.  My Quora account name is
   [Issa-Rice][qp].
+- I have a [Pinboard account](https://pinboard.in/u:riceissa).
 - I have a [LinkedIn profile][lp].  I
   don’t use LinkedIn very much, but feel free to connect with me.
 - My [OkCupid](http://www.okcupid.com/) account name is [riceissa][okcp].
