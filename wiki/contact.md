@@ -64,6 +64,7 @@ person about whom the question is asked is fine with it.
 - I check [Quora]() a few times a day now.  My Quora account name is
   [Issa-Rice][qp].
 - I have a [Pinboard account](https://pinboard.in/u:riceissa).
+For now, I'm just testing out Pinboard; I'm not sure yet for how long I'll continue using it.
 - I have a [LinkedIn profile][lp].  I
   don’t use LinkedIn very much, but feel free to connect with me.
 - My [OkCupid](http://www.okcupid.com/) account name is [riceissa][okcp].
