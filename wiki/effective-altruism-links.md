@@ -80,6 +80,7 @@ You can find my original public announcement about doing cause prioritization re
     The piece also links to [So You Want to be a "Radical" Philanthropist?](http://www.huffingtonpost.com/leah-hunthendrix/so-you-want-to-be-a-radical-philanthropist_b_7181248.html) and [The fallacy of philanthropy](https://www.academia.edu/1817777/The_fallacy_of_philanthropy) (by Paul Gomberg)
 
 - "[Stop the Robot Apocalypse: The New Utilitarians](http://www.lrb.co.uk/v37/n18/amia-srinivasan/stop-the-robot-apocalypse)" by Amia Srinivasan 
+- "[EA's Image Problem](http://effective-altruism.com/ea/op/eas_image_problem/)"
 
 # Depression
 
