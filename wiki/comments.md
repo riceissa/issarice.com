@@ -246,3 +246,16 @@ site.  Here are some of the better ones.
     > put downs of new products (such as the predictions of doom in the
     > [Slashdot announcement](http://apple.slashdot.org/article.pl?sid=01/10/23/1816257)
     > of the original iPod in 2001).
+
+- From "[A Brief History of the End of the Comments](http://www.wired.com/2015/10/brief-history-of-the-demise-of-the-comments-timeline)":
+
+    > What’s going on here? For years, comment boxes have been a staple
+    > of the online experience. You’ll find them everywhere, from The
+    > New York Times to Fox News to The Economist. But as online
+    > audiences have grown, the pain of moderating conversations on the
+    > web has grown, too. And in many cases, the most vibrant
+    > coversations about a particular article or topic are happening on
+    > sites like Facebook and Twitter. So many media companies are
+    > giving up on comments, at least for now. So far this year,
+    > Bloomberg, The Verge, The Daily Beast and now Motherboard have all
+    > dropped their comments feature.
