@@ -1,9 +1,9 @@
 ---
 title: Comments
-feed_description: more thoughts
+feed_description: Add Wired article
 author: Issa Rice
 creation_date: 2014-12-30
-last_major_revision_date: 2015-05-16
+last_major_revision_date: 2015-10-10
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
