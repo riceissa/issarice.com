@@ -31,7 +31,7 @@ It's rather interesting how many different commenting systems one can find, and 
 And if that is an ill-defined question, then one can at least try to ask what one should use on one's own website.
 
 It might be worthwhile to list all the possible parameters (i.e. to
-extend the list I came up with).
+extend the list I came up with in the Facebook post).
 
 - Nesting/threading: [Web Discussions: Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/)
 - Unit of language relevant for replies
