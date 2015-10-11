@@ -258,3 +258,7 @@ site.  Here are some of the better ones.
     > and Twitter. So many media companies are giving up on comments, at
     > least for now. So far this year, Bloomberg, The Verge, The Daily
     > Beast and now Motherboard have all dropped their comments feature.
+
+    The article links to "[Why we're killing our comments section](http://www.dailydot.com/company/comments-section-dead/)", which has:
+
+    > [W]e suspect that many publishers will soon find that their existing commenting systems do not serve their readers as the conversation continues to move off websites to social media, where most of our content is discovered and consumed.
