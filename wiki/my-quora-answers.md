@@ -371,6 +371,8 @@ I also remember liking [The Girl Who Leapt
 Through Time (2006
 film)](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_%282006_film%29).
 
+Interestingly I never liked reading manga, and only ever watched anime.
+
 # How often do you check the edit history to see the author of a question?
 
 [Mirror](https://www.quora.com/How-often-do-you-check-the-edit-history-to-see-the-author-of-a-question/answer/Issa-Rice)
