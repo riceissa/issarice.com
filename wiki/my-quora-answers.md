@@ -349,17 +349,16 @@ See [Music I like to listen to]().
 
 Not anymore. When I was younger and lived in Japan, I used to watch
 quite a bit (there are usually evening anime around 5pm–7pm in Japan,
-and I used to watch that). I also remember being obsessed about [Digimon](https://en.wikipedia.org/wiki/Digimon),
-which used to (not sure if this is still true) come on around 7am or 8am
-on Saturdays. In fact I was so obsessed that I got my parents to record
+and I used to watch several of those). I also remember being obsessed about [Digimon](https://en.wikipedia.org/wiki/Digimon),
+which used to (not sure if this is still true) come on around 9am 
+on Sundays. In fact I was so obsessed that I got my parents to record
 it onto videotapes every week (might still have those somewhere). I
 remember being very upset once when we forgot to record it.
 
 Other anime I remember watching: [Pokémon](https://en.wikipedia.org/wiki/Pok%C3%A9mon),
-[Yakitate!!
-Japan](http://en.wikipedia.org/wiki/Yakitate%21%21_Japan), [Doraemon](https://en.wikipedia.org/wiki/Doraemon),
-[Chibi
-Maruko-chan](https://en.wikipedia.org/wiki/Chibi_Maruko-chan),
+[Yakitate!! Japan](http://en.wikipedia.org/wiki/Yakitate%21%21_Japan), [Doraemon](https://en.wikipedia.org/wiki/Doraemon),
+[Chibi Maruko-chan](https://en.wikipedia.org/wiki/Chibi_Maruko-chan),
+学校の怪談, 名探偵コナン, あたしンち,
 and [Sazae-san](https://en.wikipedia.org/wiki/Sazae-san).
 (There probably are more.)
 
