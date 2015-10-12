@@ -30,4 +30,5 @@ That isn't to say I didn't learn anything academically: I still learned in math 
 I'd also like to note that during this year I felt increasingly alienated by academic work.
 During high school, although I could not tolerate the tedious work in classes, I still wished to excel academically by self-studying outside of school.
 However, this was the first year where my impatience with academics overwhelmed my curiosity.
-My greater involvement in various online communities, combined with 
+My greater involvement in various online communities, combined with starting the [Cause Prioritization Wiki](http://causeprioritization.org/) (with guidance from [Vipul Naik](http://vipulnaik.com/)) made me realized that I could in fact "learn by doing" to a greater extent than what I had been doing.
+(Until this year I had mostly been trying to "build myself up" by becoming competent academically, putting off actually doing anything until later.)
