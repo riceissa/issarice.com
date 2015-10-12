@@ -29,4 +29,5 @@ Here are the courses I took for autumn 2014 at UW:
 
 # Review
 
-.
+This was the first quarter in which I took 18 credits (I took 17 and 16 credits, respectively, in autumn and winter quarters).
+For this reason, and also because I took ATM S 559, a graduate-level class, I found this quarter to be rather difficult and stressful.
