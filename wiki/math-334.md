@@ -39,3 +39,10 @@ However in math 334, the homework is due on Friday, so how do we use the weekend
 Since there are so many homework problems in comparison to 13X, it's prudent to use the weekend as a "head-start"; yet if we do this, the lecture becomes just a boring reiteration of what the book already covered canonically.
 Indeed, the lecture content seems *way too easy* (and yet many still seem to be asking questions), and *in no way of use in solving the homework problems*.
 Yet another point here: the TA in-class session is on *Friday, after the homework is due*, and we cannot ask questions about the next homework...just...what?---All this to say that the homework routine I had built up last year is of no use this year; I'm actually still not certain how I should approach the structure imposed by 334. 
+
+These concerns are echoed [in a reddit comment](https://www.reddit.com/r/udub/comments/3g2swr/math_134_anything_i_should_know/ctuualb):
+
+> One of my personal gripes with the class is that often, we would have
+> a homework due Thursday on material we'd just covered in class
+> Wednesday, or worse yet not covered at all. The textbook is awful,
+> which makes studying on your own for those homeworks a pain.
