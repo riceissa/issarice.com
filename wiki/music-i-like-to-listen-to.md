@@ -20,7 +20,9 @@ I've also fairly recently discovered [Fishmans](!w)^["頼りない天使", "バ�
 See songs like "Sitting in my Hotel", "Supersonic Rocket Ship" (I read this as an indictment of modernity's populism/PC culture: "Nobody's gonna travel second class / There'll be equality / And no suppression of minorities"), "Celluloid Heroes", "Waterloo Sunset" (okay, this one is just sweet), "Apeman", "Autumn Almanac", "Little Miss Queen Of Darkness", "People Take Pictures of Each Other", "The Hard Way", "Afternoon Tea", "Wonderboy", "I'm On An Island".
 
 I also like some simple Japanese songs like [ゴンドラの唄](!wja) ([Gondola no Uta](!w)), [Aogeba Tōtoshi](!w) and [赤とんぼ (童謡)](!wja) (Red Dragonfly).
-I also like João Gilberto's Chega De Saudade (even though I've never bothered to look up any of the lyrics) and Antonio Carlos Jobim's Stone Flower.
+
+I also like João Gilberto's [*Chega de Saudade* album](https://en.wikipedia.org/wiki/Chega_de_Saudade_(album)) (even though I've never bothered to look up any of the lyrics besides the title track's) and Antonio Carlos Jobim's *Stone Flower*.
+I'm a huge fan of the Bossa Nova Japanification Project ([ボサノヴァ日本語化計画](http://hiyokomame.com/ottnet/bossa/translation.htm)).
 
 I do sometimes wonder why I don't listen as much to Japanese music.
 It may be that since I've spent all my teenage years (when I first got interested in listening to music) in the US, my musical tastes were influenced that way.
