@@ -1,4 +1,4 @@
-A '''person-affecting''' or '''person-based view''' (also called '''person-affecting restriction'''<ref name="arrhenius-2003">Gustaf Arrhenius. "The Person-Affecting Restriction, Comparativism, and the Moral Status of Potential People". 2003. http://www.iffs.se/wp-content/uploads/2014/11/The-Person-Affecting-Restriction-Comparativism-and-the-Moral-Status-of-Potential-People.pdf</ref>) in [[population ethics]] captures the intuition that an act can only be bad if it is bad ''for'' someone.<ref name="sep">Roberts, M. A., "The Nonidentity Problem", The Stanford Encyclopedia of Philosophy (Winter 2015 Edition), Edward N. Zalta (ed.). http://plato.stanford.edu/entries/nonidentity-problem/</ref> Similarly something can be good only if it is good ''for'' someone. Therefore according to standard person-affecting views, there is no moral obligation to create people nor moral good in creating people because nonexistence means "there is never a person who could have benefited from being created". Whether one accepts person-affecting views greatly influences to what extent shaping the far future is important.<ref name="beckstead-thesis">Beckstead, Nick. ''On the Overwhelming Importance of Shaping the Far Future''. 2013. PhD Thesis. Department of Philosophy, Rutgers University.</ref> Person-affecting views are also important in considering [[human population control]]
+A '''person-affecting''' or '''person-based view''' (also called '''person-affecting restriction'''<ref name="arrhenius-2003">Gustaf Arrhenius. "The Person-Affecting Restriction, Comparativism, and the Moral Status of Potential People". 2003. http://www.iffs.se/wp-content/uploads/2014/11/The-Person-Affecting-Restriction-Comparativism-and-the-Moral-Status-of-Potential-People.pdf</ref>) in [[population ethics]] captures the intuition that an act can only be bad if it is bad ''for'' someone.<ref name="sep">Roberts, M. A., "The Nonidentity Problem", ''The Stanford Encyclopedia of Philosophy'' (Winter 2015 Edition), Edward N. Zalta (ed.). http://plato.stanford.edu/entries/nonidentity-problem/</ref> Similarly something can be good only if it is good ''for'' someone. Therefore according to standard person-affecting views, there is no moral obligation to create people nor moral good in creating people because nonexistence means "there is never a person who could have benefited from being created". Whether one accepts person-affecting views greatly influences to what extent shaping the far future is important.<ref name="beckstead-thesis">Beckstead, Nick. ''On the Overwhelming Importance of Shaping the Far Future''. 2013. PhD Thesis. Department of Philosophy, Rutgers University.</ref> Person-affecting views are also important in considering [[human population control]]
 
 A weaker form of person-affecting views states that an act can only be bad if it is bad for some existing or future person.
 
@@ -6,19 +6,19 @@ Person-affecting views can be seen as a revision of [[total utilitarianism]] in 
 
 Some philosophers who have discussed person-affecting views include [[Derek Parfit]], Gustaf Arrhenius, Nick Beckstead, and Hilary Greaves.
 
-==Variations==
+==Variants==
 
 There is no single "person-affecting view" but rather a variety of formulations all involving the idea of something being good or bad ''for'' someone.
 
 * Gustaf Arrhenius formulates the "person-affecting restriction" as saying that moral claims "necessarily involve a reference to humans", so that statements only referencing "the scenery" or "the balance of the ecosystem" (without reference to humans) are excluded from moral consideration.<ref name="arrhenius-2003"/>
-* Nick Beckstead states that the person-affecting view claims the following: "When aggregating the interests of different people to determine the value of an outcome, the interests of 'extra' people count for less or can be ignored."<ref name="beckstead-thesis"/> (Where "extra" can mean different things in different contexts.)
-* Beckstead notes that there are "moderate person-affecting views", which state that while creating new lives that are good is a good thing, this is inferior to improving already-existing lives.<ref name="beckstead-thesis"/>
+* Nick Beckstead states that the person-affecting view claims the following: "When aggregating the interests of different people to determine the value of an outcome, the interests of 'extra' people count for less or can be ignored" (where "extra" can mean different things in different contexts).<ref name="beckstead-thesis"/> Beckstead further distinguishes between ''moderate'' and ''strict'' person-affecting views, where moderate views give less weight to "extra" people (so that while creating new lives that are good is a good thing, this is inferior to improving already-existing lives) while strict views do not consider "extra" people at all.<ref name="beckstead-thesis"/>
+* There are also ''wide'' and ''narrow'' person-affecting views, as well as an ''asymmetric'' view.<ref name="beckstead-thesis"/>
 
 ==See also==
 
 * [[Natalism]]
 * [[Antinatalism]]
-* [[Mere addition paradox]]
+* [[Mere addition paradox]] (also known as the repugnant conclusion)
 
 ==References==
 
