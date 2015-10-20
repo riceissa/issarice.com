@@ -105,3 +105,19 @@ content-relevant places. but also what linus torvalds says about letting other p
 <http://info.cognitomentoring.org/wiki/Creating_your_personal_website#Website_as_personal_identity>
 
 another idea is to put everything online (even notes are more useful in public than on just your harddrive, and even things that don't belong on external sites can be useful to have on one's personal site), but in a separate location on your website, e.g. in a different directory from all your written content/bio data.
+
+the attitude i want to adopt is something more like what [why the lucky stiff](https://en.wikipedia.org/wiki/Why_the_lucky_stiff) said in [his final appearance](https://archive.org/stream/136875051WhySCompletePrinterSpoolAsOneBook/136875051--why-s-complete-printer-spool-as-one-book_djvu.txt):
+
+> Now I want to make it perfectly clear that these papers and all my
+> other works in life belong to the general public. In fact, I also
+> would like to turn myself over to all of you as well. This was
+> actually done several years ago, but in an embarrassingly disorganized
+> manner. I like what you've done with the character, but I'd like to
+> step into his tattered suit for the next hundred pages and a day. And
+> after that, I'm yours again. Do what you must do! I always enjoy
+> seeing what happens to me.
+
+several dangers of adding content to a place you don't control:
+
+- it could be removed ("ruthlessly edited")
+- licensing issues; in particular, the site may have a more restrictive license than what i like (CC0) -- in this case, self-hosting a CC0 copy is desirable.
