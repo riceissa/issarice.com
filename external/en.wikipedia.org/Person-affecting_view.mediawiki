@@ -2,6 +2,8 @@ A '''person-affecting''' or '''person-based view''' (also called '''person-affec
 
 A weaker form of person-affecting views states that an act can only be bad if it is bad for some existing or future person.
 
+Person-affecting views can be seen as a revision of [[total utilitarianism]] in which the "scope of the aggregation" is changed from all individuals who would exist to a subset of those individuals (namely those individuals who already exist).<ref name="beckstead-thesis"/>
+
 Some philosophers who have discussed person-affecting views include [[Derek Parfit]], Gustaf Arrhenius, Nick Beckstead, and Hilary Greaves.
 
 ==Variations==
@@ -9,11 +11,14 @@ Some philosophers who have discussed person-affecting views include [[Derek Parf
 There is no single "person-affecting view" but rather a variety of formulations all involving the idea of something being good or bad ''for'' someone.
 
 * Gustaf Arrhenius formulates the "person-affecting restriction" as saying that moral claims "necessarily involve a reference to humans", so that statements only referencing "the scenery" or the balance of the ecosystem (without reference to humans) are excluded from moral consideration.<ref name="arrhenius-2003"/>
+* Nick Beckstead states that the person-affecting view claims the following: "When aggregating the interests of different people to determine the value of an outcome, the interests of 'extra' people count for less or can be ignored."<ref name="beckstead-thesis"/> (Where "extra" can mean different things in different contexts.)
+* Beckstead notes that there are "moderate person-affecting views", which state that while creating new lives that are good is a good thing, this is inferior to improving already-existing lives.<ref name="beckstead-thesis"/>
 
 ==See also==
 
 * [[Natalism]]
 * [[Antinatalism]]
+* [[Mere addition paradox]]
 
 ==References==
 
