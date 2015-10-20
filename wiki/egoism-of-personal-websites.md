@@ -19,6 +19,18 @@ tags: untagged
 #aliases: 
 ---
 
+If the biggest factor for one in creating online content is that useful information is processed by the greatest number of people, how much content should one's personal site have?
+In other words, given the choice of where to publish among places like one's personal site, Quora, Wikipedia, reddit, and so on, how should one decide where to publish a particular piece of written content? 
+
+Some factors to consider are:
+
+Durability of location
+:   Sure, it is possible to backup content even if external sites go down, but what of the people who actually read your content?
+It would be a nuisance to have links suddenly disappear, and search results take time to update (and who knows if you'll be at the top now). 
+
+Locatability
+:   I think it's probably easier to locate content *by person* than *what they said*.
+
 > This is partly because of my style of contribution. I’ve always
 > preferred to work on existing applications and libraries than to go
 > write my own. I’ve always preferred to take someone else’s work and
@@ -49,3 +61,47 @@ Why are blogs still such a useful source of info?
 Why am I downloading Quora answers only from the same users?
 
 Because in the end (regrettably) the best info still comes from very few of the same people. There is an egoism involved here that I dislike
+
+also another thing: im really trying to “dismantle” my website in the sense that i’d rather not host the things on there under the domain issarice.com, b/c that’s too egoistic. im glad i ported my critiques list to the EA wiki.
+
+reconciling:
+
+- value making snapshots of my thought available
+- it’s a bit of an egoistic thing to be doing (why is writing about yourself more important than writing about something that is more useful to others?)
+- will anyone read it?
+- creating a "resume" of sorts. it might still be nice to link to *everything* you've done.
+
+ publishing something to your personal webstie–and egoistic place in the first place–is a META statement as well, that you think what you write is worth ppls time
+
+
+contributing to content-relevant sites. so e.g my reddit user guide.
+sure, i could have published it on my site (and i still could, since
+it’s public domain), but the *content* is most relevant to CM. i could
+also just do all my CP research on my personal site. maybe gwern would do this (it would be like his SRS review that is on his site). but no, the
+*content-relevant* location would be on a site that addresses CP
+directly, i.e. cp wiki.
+
+in general… if you do it right, then you personal site should end up with:
+
+-   personal information (e.g. contact info,
+    bio, links to ALL YOUR OTHER CONTENT (even if external))
+-   scraps/drafts (that would end up elsewhere when more polished/when
+    the time is right)
+-   stuff that is so random that there isn’t really any place that it
+    belongs to OR the places where it does belong are so unreliable that
+    you have no choice but to put it on your site (this is one reason i
+    keep answers from quora on my site). i mean, also, i did make sure to
+    backup my reddit article on github gist too. maybe my site would be
+    better (theoretically, since my site only compiles md files, i
+    *could* just put it with a different extension and then it
+    wouldn’t compile)
+
+… hmm actually, a personal site might be a
+great place to just store stuff so it doesn’t get lost. it’s more for
+*you* than for others. like, a backup place. but in general the
+content that is to be viewed by *others* should be placed in more
+content-relevant places. but also what linus torvalds says about letting other people keep backups for you.
+
+<http://info.cognitomentoring.org/wiki/Creating_your_personal_website#Website_as_personal_identity>
+
+another idea is to put everything online (even notes are more useful in public than on just your harddrive, and even things that don't belong on external sites can be useful to have on one's personal site), but in a separate location on your website, e.g. in a different directory from all your written content/bio data.
