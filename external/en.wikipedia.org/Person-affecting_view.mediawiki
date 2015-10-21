@@ -4,14 +4,14 @@ A weaker form of person-affecting views states that an act can only be bad if it
 
 Person-affecting views can be seen as a revision of [[total utilitarianism]] in which the "scope of the aggregation" is changed from all individuals who would exist to a subset of those individuals (namely those individuals who already exist).<ref name="beckstead-thesis"/>
 
-Some philosophers who have discussed person-affecting views include [[Derek Parfit]], Gustaf Arrhenius, Nick Beckstead, and Hilary Greaves.
+Some philosophers who have discussed person-affecting views include [[Derek Parfit]], [[John Broome (philosopher)|John Broome]] Gustaf Arrhenius, Nick Beckstead, and Hilary Greaves.
 
 ==Variants==
 
 There is no single "person-affecting view" but rather a variety of formulations all involving the idea of something being good or bad ''for'' someone.
 
 * Gustaf Arrhenius formulates the "person-affecting restriction" as saying that moral claims "necessarily involve a reference to humans", so that statements only referencing "the scenery" or "the balance of the ecosystem" (without reference to humans) are excluded from moral consideration.<ref name="arrhenius-2003"/>
-* Nick Beckstead states that the person-affecting view claims the following: "When aggregating the interests of different people to determine the value of an outcome, the interests of 'extra' people count for less or can be ignored" (where "extra" can mean different things in different contexts).<ref name="beckstead-thesis"/> Beckstead further distinguishes between ''moderate'' and ''strict'' person-affecting views, where moderate views give less weight to "extra" people (so that while creating new lives that are good is a good thing, this is inferior to improving already-existing lives) while strict views do not consider "extra" people at all.<ref name="beckstead-thesis"/>
+* Nick Beckstead states that the person-affecting view claims the following: "When aggregating the interests of different people to determine the value of an outcome, the interests of 'extra' people count for less or can be ignored" (where "extra" can mean different things in different contexts, but in each case actions cannot be good or bad ''for'' "extra" people).<ref name="beckstead-thesis"/> Beckstead further distinguishes between ''moderate'' and ''strict'' person-affecting views, where moderate views give less weight to "extra" people (so that while creating new lives that are good is a good thing, this is inferior to improving already-existing lives) while strict views do not consider "extra" people at all.<ref name="beckstead-thesis"/>
 * There are also ''wide'' and ''narrow'' person-affecting views, as well as an ''asymmetric'' view.<ref name="beckstead-thesis"/>
 
 ==See also==
