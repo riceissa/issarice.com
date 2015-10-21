@@ -135,7 +135,7 @@ You'll Wish You'd Known](http://www.paulgraham.com/hs.html)" (which
 tells students to treat high school like a day job so they can do more
 important things outside of school).  His "[Why Nerds are
 Unpopular](http://www.paulgraham.com/nerds.html)" may also be of
-interest.^[Related is Bryan Caplan's "[Redistribution: Blocking the Revenge of the Nerds?](http://econlog.econlib.org/archives/2007/06/redistribution_1.html)".]  Below are the parts from "Why Nerds are Unpopular" that most
+interest.^[Related are Bryan Caplan's "[Redistribution: Blocking the Revenge of the Nerds?](http://econlog.econlib.org/archives/2007/06/redistribution_1.html)" and [Geoffrey Widdison's answer to Why are people with higher IQ generally not very physically attractive?](https://www.quora.com/Why-are-people-with-higher-IQ-generally-not-very-physically-attractive/answer/Geoffrey-Widdison).]  Below are the parts from "Why Nerds are Unpopular" that most
 resonated with me:
 
 > At the time I never tried to separate my wants and weigh them against
