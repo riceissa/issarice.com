@@ -12,7 +12,7 @@ There is no single "person-affecting view" but rather a variety of formulations 
 
 * Gustaf Arrhenius formulates the "person-affecting restriction" as saying that moral claims "necessarily involve a reference to humans", so that statements only referencing "the scenery" or "the balance of the ecosystem" (without reference to humans) are excluded from moral consideration.<ref name="arrhenius-2003"/>
 * Nick Beckstead states that the person-affecting view claims the following: "When aggregating the interests of different people to determine the value of an outcome, the interests of 'extra' people count for less or can be ignored" (where "extra" can mean different things in different contexts, but in each case actions cannot be good or bad ''for'' "extra" people).<ref name="beckstead-thesis"/> Beckstead further distinguishes between ''moderate'' and ''strict'' person-affecting views, where moderate views give less weight to "extra" people (so that while creating new lives that are good is a good thing, this is inferior to improving already-existing lives) while strict views do not consider "extra" people at all.<ref name="beckstead-thesis"/>
-* There are also ''wide'' and ''narrow'' person-affecting views, as well as an ''asymmetric'' view.<ref name="beckstead-thesis"/>
+* There are also ''wide'' and ''narrow'' person-affecting views, as well as an ''asymmetric'' view (under which it is considered immoral to bring into this world lives that are not worth living, even though it is morally neutral to bring into this world lives that are worth living).<ref name="beckstead-thesis"/>
 
 ==See also==
 
