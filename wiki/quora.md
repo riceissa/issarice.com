@@ -31,3 +31,7 @@ I think Quora has the potential to produce long-lasting content, but [similarly 
 [^vipul]: Quoting Vipul Naik:
 
     > The social value of writing questions and answers on Quora remains unclear to me. However, I do intend to write questions and answers on Quora to the extent that it also meets some other goals of mine (such as helping me learn something I want to know, or helping other people learn something specific that I consider important).
+
+Here is a screenshot of my Quora stats page for my all-time questions (starting in early 2014 and going until 2015-10-20):
+
+<center>[<img src="quora-questions-stats-start-to-2015-10-20.png" alt="Quora question stats" style="width: 400px;"/>](quora-questions-stats-start-to-2015-10-20.png)</center>
