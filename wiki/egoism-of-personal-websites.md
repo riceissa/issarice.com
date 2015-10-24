@@ -19,8 +19,12 @@ tags: untagged
 #aliases: 
 ---
 
+Given identical written content, it can make a big difference where that content is hosted.
+
 If the biggest factor for one in creating online content is that useful information is processed by the greatest number of people, how much content should one's personal site have?
 In other words, given the choice of where to publish among places like one's personal site, Quora, Wikipedia, reddit, and so on, how should one decide where to publish a particular piece of written content? 
+
+In general one should publish content in the canonical location.
 
 Some factors to consider are:
 
