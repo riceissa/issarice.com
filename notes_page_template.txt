@@ -1,0 +1,5 @@
+---
+title: $title
+creation_date: `date +'%Y-%m-%d'`
+last_major_revision_date: `date +'%Y-%m-%d'`
+---
