@@ -16,6 +16,7 @@ belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
 tags: untagged
+math: yes
 #aliases: 
 ---
 
@@ -25,6 +26,7 @@ I took the course in Autumn 2015 with James Morrow and teaching-assistant Will D
 # Content
 
 Just follows Folland's *Advanced Calculus*.
+Morrow also posts various supplementary material, mostly as PDFs, on the [course website](http://www.math.washington.edu/~morrow/334_15/334.html).
 
 # Homework
 
@@ -46,3 +48,18 @@ These concerns are echoed [in a reddit comment](https://www.reddit.com/r/udub/co
 > a homework due Thursday on material we'd just covered in class
 > Wednesday, or worse yet not covered at all. The textbook is awful,
 > which makes studying on your own for those homeworks a pain.
+
+Some interesting things Morrow said today when discussing the multivariable chain rule:
+
+After writing it down as 
+
+$$
+\frac{\partial z}{\partial x_1} = \frac{\partial z}{\partial y_1} \frac{\partial y_1}{\partial x_1} + \cdots + \frac{\partial z}{\partial y_n} \frac{\partial y_n}{\partial x_1}
+$$
+
+he said (paraphrased):
+
+> Writing it down this way is okay, but you have to understand what the symbols mean [...] It's an efficient way to write it down [...] I think you'll get used to it [...] The exercises [in the book] are meant to show you that it's easy to mess it up [...] Chemists don't tell you which variable they're keeping constant [...] There's a lot that's implicit and it's hard to tell what's going on.
+
+I think it has been repeated many times that physicists are somewhat more sloppy with notation than mathematicians, but even then I've always felt that they people around me who do math don't care enough about notation.
+I thought it was nice that Morrow seemed to sympathize with this.
