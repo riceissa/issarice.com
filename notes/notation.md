@@ -1,7 +1,6 @@
 ---
 title: "Mathematics and notation"
-creation_date: "2015-10-29"
-last_major_revision_date: "2015-10-29"
+date: "2015-10-29"
 ---
 
 Despite mathematicians' apparent focus on notation, I've always found it difficult to navigate certain notation in math.

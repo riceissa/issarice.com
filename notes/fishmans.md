@@ -1,7 +1,6 @@
 ---
 title: Fishmans
-creation_date: 2015-10-29
-last_major_revision_date: 2015-10-29
+date: 2015-10-29
 ---
 
 I think it's rare for me to like an artist so much, and hasn't really happened for any Japanese band (indeed, I don't know many Japanese bands I like at all, but that's mostly a fault of my lack of exploration).
