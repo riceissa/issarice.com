@@ -13,3 +13,11 @@ But accomplishing this in lyric form seems especially difficult.
 
 One thing I've always noticed peculiar are the *characters* that keep appearing in Fishmans lyrics.
 Bob Dylan too notably introduces many characters in each of his songs (just listen to "Visions of Johanna" or "Bob Dylan's 115th Dream", to give two examples).
+But in Fishmans (possibly like in Kafka) the characters are never given names, and only referred to in general terms like "子供", "犬", "暇人主", and of course "僕" and "君".
+
+Another thing many have noted is the focus on simple vocabulary (shared by Murakami).
+It *is* indeed remarkable that Fishmans can express so much with such a simple vocabulary (although note too that they get to *sing* the words, as well as add instrumentation, which adds more depth to the feelings expressed, despite the deceptively simple words).
+
+I also particularly like the attention Fishmans once received on a 2channel thread: [フィッシュマンズよりいいバンドって世界にいるの？](http://awabi.2ch.net/test/read.cgi/mesaloon/1151510576/)
+
+- [Fishmans『宇宙 日本 世田谷』 - 私は流行、あなたは世間](http://popscene.hatenablog.com/entry/2015/06/23/174329)
