@@ -21,3 +21,4 @@ It *is* indeed remarkable that Fishmans can express so much with such a simple v
 I also particularly like the attention Fishmans once received on a 2channel thread: [フィッシュマンズよりいいバンドって世界にいるの？](http://awabi.2ch.net/test/read.cgi/mesaloon/1151510576/)
 
 - [Fishmans『宇宙 日本 世田谷』 - 私は流行、あなたは世間](http://popscene.hatenablog.com/entry/2015/06/23/174329)
+- [帰ってきたフィッシュマンズ/Fishmans 37](http://awabi.2ch.net/test/read.cgi/legend/1321794087/), and <http://anchorage.2ch.net/test/read.cgi/musicjg/1216469597/>, <http://anchorage.2ch.net/test/read.cgi/musicjg/1237387501/>, <http://toki.2ch.net/test/read.cgi/musicjg/1255263154/>, <http://toki.2ch.net/test/read.cgi/musicjg/1288995570/>, <http://toki.2ch.net/test/read.cgi/musicjg/1304383206/>, <http://awabi.2ch.net/test/read.cgi/legend/1321794087/>, <http://awabi.2ch.net/test/read.cgi/legend/1334587394/>, <http://awabi.2ch.net/test/read.cgi/legend/1342083671/>, etc.
