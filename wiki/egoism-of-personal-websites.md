@@ -125,3 +125,8 @@ several dangers of adding content to a place you don't control:
 
 - it could be removed ("ruthlessly edited")
 - licensing issues; in particular, the site may have a more restrictive license than what i like (CC0) -- in this case, self-hosting a CC0 copy is desirable.
+- it makes sense to write in a format from which it is easy to escape. I think pandoc markdown is one of the best, because it is both plaintext and benefits from the ability to convert to many different formats (e.g. mediawiki, LaTeX, HTML) so that if one needs to continue work in another format this is possible without too much hassle.
+There is a bit of difficulty with complicated structure when dealing with e.g. math.
+For complicated mathematical texts, it's useful to define macros, which is difficult to do if one wants to write for the web (MathJax is by far the best way to display formulas, but there is no way to define macros).
+In addition in math it's useful to have different environments for e.g. "theorem", "corollary", "proof", and so on, but there is no way for pandoc to detect these.
+The lesson might just be that it's impossible for the moment to "single source publish", so that one must be prepared to spend some time converting between formats as the need arises (this is still better than what was once required---e.g. manually typesetting text, or copying entire books by hand!).
