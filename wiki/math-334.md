@@ -63,3 +63,9 @@ he said (paraphrased):
 
 I think it has been repeated many times that physicists are somewhat more sloppy with notation than mathematicians, but even then I've always felt that they people around me who do math don't care enough about notation.
 I thought it was nice that Morrow seemed to sympathize with this.
+
+---
+
+The "pep talk" after the first midterm was by Matt Junge, a sixth(?) year PhD student here who did poorly in 33X (3.1, 3.4, 3.4 GPA in the sequence, with his midterm scores in 335--6 consistently $\mu - \sigma$)---but who now has five published papers and is good at math.
+His main points were to not give up, continue on doing math (take at least one course in the 400s), lose one's ego (don't be afraid to make mistakes), LaTeX your homework, read the textbook before lecture, and so on.
+The content of the pep talk was not very novel, but I enjoyed hearing from Matt (he seemed like a cool guy).
