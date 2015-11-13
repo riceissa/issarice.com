@@ -19,8 +19,11 @@ tags: untagged
 #aliases: 
 ---
 
-Given identical written content, it can make a big difference where that content is hosted.
+In content creation, one important decision to make is the venue.
+This follows from the observation that given identical written content, it can make a big difference where that content is hosted.
 
+While content creation can provide [value for the creator](http://issarice.com/the-value-of-content-creation#value-for-the-creator), this is unlikely to be as big of a consideration.
+Even if value for the creator is foremost, we can still try to achieve both kinds of value (to the creator, to the world) [separately](http://lesswrong.com/lw/6z/purchase_fuzzies_and_utilons_separately/).
 If the biggest factor for one in creating online content is that useful information is processed by the greatest number of people, how much content should one's personal site have?
 In other words, given the choice of where to publish among places like one's personal site, Quora, Wikipedia, reddit, and so on, how should one decide where to publish a particular piece of written content? 
 
@@ -130,3 +133,8 @@ There is a bit of difficulty with complicated structure when dealing with e.g. m
 For complicated mathematical texts, it's useful to define macros, which is difficult to do if one wants to write for the web (MathJax is by far the best way to display formulas, but there is no way to define macros).
 In addition in math it's useful to have different environments for e.g. "theorem", "corollary", "proof", and so on, but there is no way for pandoc to detect these.
 The lesson might just be that it's impossible for the moment to "single source publish", so that one must be prepared to spend some time converting between formats as the need arises (this is still better than what was once required---e.g. manually typesetting text, or copying entire books by hand!).
+
+In general I prefer openness, and an attitude of having "nothing to hide" rather than a standard of secrecy about one's thoughts.
+
+There are some content that can be justified being sorted chronologically (as in a blog), though I think there should be a presumption in favor of topic-centric organization.
+Likewise I think it can be justified to collect content by author of the piece (as in a personal site or CV), though again by the presumption in favor of topic-centric organization of content, it would be more useful *in a larger number of cases* to have topic-specific sites instead.
