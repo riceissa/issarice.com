@@ -264,3 +264,17 @@ site.  Here are some of the better ones.
     > existing commenting systems do not serve their readers as the
     > conversation continues to move off websites to social media, where
     > most of our content is discovered and consumed.
+
+- "[So that took a while](https://www.peterkrautzberger.org/0181/)":
+
+    > Jekyll can’t provide comments (obviously) and I am not interested in
+    > going back to Disqus (for various reasons). I also had the impression
+    > that comments were not doing it for me anymore. The ratio spam / useful
+    > comment was about 1000 to 1. Sure, Akismet took care of this and Disqus
+    > could, too. In addition, I’d get comments from other places (twitter, g+
+    > or plain email) and since ~~I’m not a cool indieweb dev~~ it’s never
+    > that many, I manually added them to posts.
+    > 
+    > In other words, I started to feel like comments are just not that useful
+    > anymore (caveat lector: see below) and that having a special technology
+    > for it seems overkill.
