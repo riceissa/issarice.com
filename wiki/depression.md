@@ -15,7 +15,7 @@ I'm not really an EOTS, but some starting points:
 
 - [Methods for treating depression](http://cognitomentoring.org/blog/methods-for-treating-depression/)
 
-- [Things That Sometimes Help If You Have Depression](http://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/)
+- Slate Star Codex: "[Things That Sometimes Help If You Have Depression](http://slatestarcodex.com/2014/06/16/things-that-sometimes-help-if-youre-depressed/)", "[Chemical Imbalance](http://slatestarcodex.com/2015/04/05/chemical-imbalance/)", "[SSRIs: Much More Than You Wanted To Know](http://slatestarcodex.com/2014/07/07/ssris-much-more-than-you-wanted-to-know/)", "[Burdens](http://slatestarcodex.com/2014/08/16/burdens/)"
 
 - [Radicalizing the Romanceless](http://slatestarcodex.com/2014/08/31/radicalizing-the-romanceless/)
 
@@ -82,3 +82,5 @@ I'm not really an EOTS, but some starting points:
 - [How to Be Happy](http://lesswrong.com/lw/4su/how_to_be_happy/)
 
 - [Be Happier](http://lesswrong.com/lw/bq0/be_happier/)
+
+- Russell's *The Conquest of Happiness*
