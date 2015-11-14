@@ -84,3 +84,5 @@ I'm not really an EOTS, but some starting points:
 - [Be Happier](http://lesswrong.com/lw/bq0/be_happier/)
 
 - Russell's *The Conquest of Happiness*
+
+- [Learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness)
