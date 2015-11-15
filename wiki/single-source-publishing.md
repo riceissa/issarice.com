@@ -45,6 +45,14 @@ See for instance "[Why markdown, not $\mathrm{\LaTeX}$?](https://www.peterkrautz
 - Another approach is to take the *union* of the same sets of features.
 This way, one has in a sense a "super language" that can deal with a lot more stuff.
 
+Actually the distinction above seems to have been discussed many years ago in "[The Rule of Least Power](http://www.w3.org/2001/tag/doc/leastPower-2006-02-23.html)"!
+It even declares:
+
+> *Good Practice:* Use the least powerful language suitable for expressing
+information, constraints or programs on the World Wide Web.
+
+I think the people on cat-v would agree(?), and would probably go even further.
+
 Some promising tools:
 
 - Pandoc (used for this site)
