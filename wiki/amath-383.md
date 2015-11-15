@@ -30,4 +30,15 @@ The text we used is KK Tung's *Topics in Mathematical Modeling*.
 
 # Homework
 
-.
+The homework assignments are fairly difficult and involve a lot of tedious algebra.
+I do get the feeling that the homework is very different (in terms of content and weight) depending on the instructor.
+Qian doesn't emphasize computer-based modeling very much, so none of the homework assignments require the use of MATLAB, for example (there are a few questions that ask you to graph things).
+On the other hand, looking online at past quarters, other instructors seem to have a lot of assignments that require running computer programs.
+
+I've also noticed that different instructors put different weight to the homework, in terms of grades.
+Qian puts homework at 40% of the grade, but I think I've seen as low as 25% and as high as 50%.
+
+So one idea: consider which instructor you want for the course, because your experience could be very different.
+This is in contrast to CSE 142/3, where I think the experience is more uniform across instructors.
+
+Overall, I somewhat regret taking this course now, because I don't really need it for my degree (I took it for fun), and it didn't turn out to be as fun as I thought (I was interested in playing around with running the models on a computer, but instead the course emphasized tedious algebra which I strongly dislike).
