@@ -167,3 +167,22 @@ Page 33:
 > shown otherwise?
 
 Similarly, does talking about politics/feminism/gender/race actually advance our knowledge of these issues?
+
+"[Jessica Livingston](http://paulgraham.com/jessica.html)":
+
+> If Jessica was so important to YC, why don't more people realize it?
+> Partly because I'm a writer, and writers always get disproportionate
+> attention. YC's brand was initially my brand, and our applicants were
+> people who'd read my essays. But there is another reason: Jessica
+> hates attention. Talking to reporters makes her nervous. The thought
+> of giving a talk paralyzes her. She was even uncomfortable at our
+> wedding, because the bride is always the center of attention.
+>
+> [...]
+> 
+> Another reason attention worries her is that she hates bragging. In
+> anything she does that's publicly visible, her biggest fear (after the
+> obvious fear that it will be bad) is that it will seem ostentatious.
+> She says being too modest is a common problem for women. But in her
+> case it goes beyond that. She has a horror of ostentation so visceral
+> it's almost a phobia.
