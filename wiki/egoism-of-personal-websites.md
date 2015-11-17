@@ -138,3 +138,12 @@ In general I prefer openness, and an attitude of having "nothing to hide" rather
 
 There are some content that can be justified being sorted chronologically (as in a blog), though I think there should be a presumption in favor of topic-centric organization.
 Likewise I think it can be justified to collect content by author of the piece (as in a personal site or CV), though again by the presumption in favor of topic-centric organization of content, it would be more useful *in a larger number of cases* to have topic-specific sites instead.
+
+What are some possible publishing venues?
+
+- Wikipedia, for general overviews of topics
+- wikiHow, for how-to guides
+- LessWrong
+- reddit
+- EA Forum
+- personal site, for everything else
