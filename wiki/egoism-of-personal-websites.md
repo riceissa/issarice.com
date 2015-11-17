@@ -146,4 +146,7 @@ What are some possible publishing venues?
 - LessWrong
 - reddit
 - EA Forum
+- Facebook
+- Quora, Stack Exchange sites
+- Topic-specific sites
 - personal site, for everything else
