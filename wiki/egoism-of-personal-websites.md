@@ -144,9 +144,13 @@ What are some possible publishing venues?
 - Wikipedia, for general overviews of topics
 - wikiHow, for how-to guides
 - LessWrong
-- reddit
+- reddit, which has a wiki feature for some subreddits now
 - EA Forum
 - Facebook
 - Quora, Stack Exchange sites
 - Topic-specific sites
+- discussion forums? -- and more ephemeral forms of communication ...
+- there are some other content creation sites, like erowid and everything2.
 - personal site, for everything else
+
+In some sense, the fact that some personal sites can grow so elaborately is an indictment against the web, since there exist no platforms that can take in content in an organized manner.
