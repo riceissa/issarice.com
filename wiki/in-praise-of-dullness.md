@@ -186,3 +186,5 @@ Similarly, does talking about politics/feminism/gender/race actually advance our
 > She says being too modest is a common problem for women. But in her
 > case it goes beyond that. She has a horror of ostentation so visceral
 > it's almost a phobia.
+
+[What are the benefits of writing web pages that say the obvious things about a topic?](https://www.quora.com/What-are-the-benefits-of-writing-web-pages-that-say-the-obvious-things-about-a-topic)
