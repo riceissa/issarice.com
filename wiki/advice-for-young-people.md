@@ -690,6 +690,15 @@ his](https://www.quora.com/What-can-I-do-to-prevent-my-twenties-from-being-as-ba
 > of grad school, and work too much to have a chance to really stop and
 > think.
 
+See also "[Self-Help: The Obvious Remedy for Academic Malemployment](http://econlog.econlib.org/archives/2014/01/self-help_the_o.html)":
+
+> Loudly identify the risks that many grad students fail to take
+> seriously.  Point out the malcontent of earlier cohorts that took the
+> road the next generation is contemplating.  Remind them that the
+> [economics Ph.D. is an atypically sweet
+> deal](http://econlog.econlib.org/archives/2005/10/is_the_econ_phd.html),
+> even at lower-ranked schools.  Then leave them alone.
+
 # Other ideas---expanding your imagination
 
 Alex K. Chen often talks about the important of [expanding your

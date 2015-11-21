@@ -69,3 +69,13 @@ I thought it was nice that Morrow seemed to sympathize with this.
 The "pep talk" after the first midterm was by Matt Junge, a sixth(?) year PhD student here who did poorly in 33X (3.1, 3.4, 3.4 GPA in the sequence, with his midterm scores in 335--6 consistently $\mu - \sigma$)---but who now has five published papers and is good at math.
 His main points were to not give up, continue on doing math (take at least one course in the 400s), lose one's ego (don't be afraid to make mistakes), LaTeX your homework, read the textbook before lecture, and so on.
 The content of the pep talk was not very novel, but I enjoyed hearing from Matt (he seemed like a cool guy).
+
+---
+
+I'd like to say that this course is not just mathematical (make no mistake that mathematics is at the center of the course) but also very cultural/philosophical/pedagogical.
+I think Morrow does a good job (if you attend lecture!) of explaining the historical developments of concepts, and often likes to quote various mathematicians.
+(I think my younger self would have greatly appreciated that.)
+The course also emphasizes alternative explanations.
+Morrow often presents proofs and definitions sightly differently than in Folland, which makes the course pedagogically interesting.
+(These are also later posted to the course website so you don't have to absorb or write down anything in lecture, really.)
+I will still maintain my general attitude that lectures aren't very useful for learning, but I think Morrow is much better at this than any other lecturer I've seen so far at UW.

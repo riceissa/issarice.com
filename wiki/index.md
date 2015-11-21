@@ -17,7 +17,7 @@ some pages that may be of interest:
 
 - [About me]() (contains a short self-introduction); [contact information and account names I use on various websites](contact)
 - [About this site](./about-the-site)
-- I maintain the [Cause Prioritization Wiki][cpw] (external site).
+- I maintain the [Cause Prioritization Wiki](http://causeprioritization.org) (external site).
 - [Content creation]() documents my ongoing research on the
   organization and dissemination of knowledge, how to effectively
   publish content online, and how much one can impact the world by
@@ -32,5 +32,3 @@ some pages that may be of interest:
 - [Quora](): a mirror of [my Quora answers]()
 - One can also view a list of [all tags used on this site](_tags/index)
   and a list of [all pages on this site](_all).
-
-[cpw]: http://causeprioritization.org
