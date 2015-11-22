@@ -18,8 +18,8 @@ $(CSSDIR):
 _site/%: wiki/%.md
 	./generator/generator.py --commit_ps --file "$<"
 
-$(OUTDIR)/_css/solarized_light.css: css/solarized_light.scss css/_colors.scss | $(CSSDIR)
-	sass --style compressed "$<" > "$@"
+$(OUTDIR)/_css/solarized_light.css: css/solarized_light.css | $(CSSDIR)
+	cp "$<" "$@"
 
 clean:
 	rm -rf _site
