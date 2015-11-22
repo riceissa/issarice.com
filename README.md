@@ -5,16 +5,15 @@ This repository hosts the files needed to compile my website,
 markdown files using a custom static site generator stored in the
 directory `generator` (`generator.py` is the main file).  Assuming one
 has the prerequisites to compile the site (Python 3.3, Pandoc 1.13,
-[SASS], [Jinja2], [pandocfilers], [awesome-slugify], [PyYAML]; oddly I
+[Jinja2], [pandocfilers], [awesome-slugify], [PyYAML]; oddly I
 have to install the Python packages for both Python 2 and Python 3),
 just do:
 
 ```bash
 # cd to the repo directory
-python3 generator/generator.py --commit_ps
+make fullsite
 ```
 
-[SASS]: http://sass-lang.com/
 [Jinja2]: http://jinja.pocoo.org/
 [pandocfilers]: https://github.com/jgm/pandocfilters/
 [awesome-slugify]: https://github.com/dimka665/awesome-slugify
@@ -44,14 +43,15 @@ python3 generator.py --files wiki/index.md
 (Though keep in mind that this will do nothing about the CSS, sitemap,
 RSS feed, or alias pages, so this option is generally only useful when
 one is working on a subset of the pages and wants to view changes on
-them quickly.  For instance, I have
+them quickly.)
 
-```vim
-:!python3 generator/generator.py --files %<CR><CR>
+You can also just type
+
+```bash
+make
 ```
 
-bound to a key in Vim so I can edit and preview
-quickly.)
+which will compile only those pages with new changes.
 
 Note that in the interest of [Cool URIs], the compiled files have no
 file extensions (which would usually be `.html`).  Therefore simply
