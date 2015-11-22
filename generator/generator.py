@@ -271,7 +271,9 @@ if __name__ == '__main__':
         pages_pat = PRE_PAGES_DIRECTORY + PRE_PAGES_GLOB
         list_filepath = [Filepath(i) for i in glob.glob(pages_pat)]
         list_page, list_tag = build_data(list_filepath)
-        compile_scss("solarized_light")
+        #compile_scss("solarized_light")
+        copy_files(PRE_CSS_DIRECTORY + "solarized_light.css",
+                SITE_DIRECTORY + SITE_CSS_DIRECTORY)
         copy_files(PRE_IMAGES_DIRECTORY + "*", SITE_DIRECTORY)
         copy_files(PRE_STATIC_DIRECTORY + "*",
             SITE_DIRECTORY + SITE_STATIC_DIRECTORY)
