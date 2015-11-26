@@ -31,4 +31,4 @@ some pages that may be of interest:
 - [Notes on math](_tags/math)
 - [Quora](): a mirror of [my Quora answers]()
 - One can also view a list of [all tags used on this site](_tags/index)
-  and a list of [all pages on this site](_all).
+  and a list of [all pages on this site](_all), though note that these are bit cumbersome to navigate.
