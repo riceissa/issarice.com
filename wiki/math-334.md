@@ -28,6 +28,11 @@ I took the course in Autumn 2015 with James Morrow and teaching-assistant Will D
 Just follows Folland's *Advanced Calculus*.
 Morrow also posts various supplementary material, mostly as PDFs, on the [course website](http://www.math.washington.edu/~morrow/334_15/334.html).
 
+I'm actually starting to appreciate Folland's text a lot more after having "warmed up" to it.
+I think the Amazon reviews and some remarks elsewhere online put me off the text without having really examined it fully myself.
+I still like Tao's "redundant" writing style, Spivak's charm, etc., but I think Folland is a solid text as well.
+I wouldn't recommend it for self-studying analysis, however; I think I benefit significantly from referencing Tao (*Analysis II*), Pugh (*Real Mathematical Analysis*), and Morrow's lectures/supplementary notes.
+
 # Homework
 
 So far problem sets seem to take even longer than they did in MATH 13X and also seem to require greater sophistication to complete.
