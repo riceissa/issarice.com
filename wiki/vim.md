@@ -15,7 +15,16 @@ tags: vim, computing
 #aliases: 
 ---
 
-I'm still learning more about Vim even today, even though I started using it back in 2011 (or even before that).
+**Vim** is my text editor of choice.
+I started using it in 2011 (or even before that---I can't quite remember).
+It was the first "serious" text editor I tried to learn, and although I've experimented some with a few others (e.g. I downloaded emacs and went through its tutorial, I downloaded and played around with Sublime), I haven't really felt a desire to switch.
+
+This page documents some of my musings from using Vim; most of it has probably already been said elsewhere. 
+
+I probably spend too much time configuring Vim---something I've been trying to cut down on.
+
+# Ex mode
+
 One thing I learned really recently is that Vim has very sophisticated ex mode features.
 I had always been frustrated by the fact that ex mode seemed way too limited, since I couldn't even get bash-style keys like `<C-a>` to go to the beginning of the line to work.
 But it turns out I was wrong; see `:h cmdline.txt` for more, as well as `:h usr_20.txt`, which is referenced in the first help page.
