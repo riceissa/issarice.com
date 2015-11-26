@@ -16,7 +16,7 @@ $(CSSDIR):
 	mkdir -p $(CSSDIR)
 
 _site/%: wiki/%.md
-	./generator/generator.py --commit_ps --file "$<"
+	python3 ./generator/generator.py --commit_ps --file "$<"
 
 $(OUTDIR)/_css/solarized_light.css: css/solarized_light.css | $(CSSDIR)
 	cp "$<" "$@"
