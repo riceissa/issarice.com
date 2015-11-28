@@ -98,3 +98,13 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
 - `Ctrl`-`f` in command mode to edit using regular Vim options (one can also access this with `q:`)
 - `:only` after `:sp` or `:vsp`
 - Editing with Vim under sudo or su: use `vim -X` to disable X so that there are no strange "No protocol specified" or grabled text/reordered lines.
+
+# Moving in long lines
+
+I've always found it frustrating that Vim by default acts on physical lines instead of "display lines".
+Of course, mapping `j` and `k` to `gj` and `gk`, respectively (and conversely; though `Ctrl`-`n` and `Ctrl`-`p` also work for navigating physical lines), partly solves this, but page-wide navigation like `Ctrl`-`f` still act according to physical lines, and it isn't possible to sanely display partial lines (in the way that even simple editors like gedit are able to do).
+One solution, of course, is to force the burden upon the markup language: both LaTeX and Markdown allow for hard linebreaks, which means one can set `:set tw=72` and not have to think about long lines.
+But I don't consider this a very satisfactory solution, especially since I like to have each sentence on its own line in markup, which means there is the occasional long sentence and hence long line.
+Worse yet, Wikipedia source files tend to have entire paragraphs on single lines, so even if I write my markup one way, there is no way to avoid *others* from writing *their* markup a certain way.---Hence, the problem must be solved within Vim.
+
+I think something like `9j`, etc., can work as a replacement for `Ctrl`-`d`.
