@@ -107,3 +107,4 @@ For reference, my `.gitconfig`:
 
 - <https://stackoverflow.com/questions/4144417/how-to-handle-asian-characters-in-file-names-in-git-on-os-x>
 - [How do I change the remote a git branch is tracking?](http://stackoverflow.com/questions/4878249/how-do-i-change-the-remote-a-git-branch-is-tracking)
+- [How to color the Git console in Ubuntu?](http://stackoverflow.com/questions/10998792/how-to-color-the-git-console-in-ubuntu)
