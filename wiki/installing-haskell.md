@@ -53,7 +53,15 @@ ExitFailure 1
 
 
 Since I had some really old versions of Pandoc and cabal on my machine (from the Debian repositories), I just redefined my path with `$HOME/.cabal/bin` as the first item, so that the newer programs in there would take priority.
+See also the article about [avoiding "Cabal hell"](http://softwaresimply.blogspot.com/2014/07/haskell-best-practices-for-avoiding.html).
 
+To update Pandoc to the latest version on Debian, I recently (2015-11-27) did:
+
+```{.bash}
+cabal update
+cabal install cabal
+cabal install --max-backjumps=-1 --reorder-goals --force-reinstalls pandoc
+```
 
 # Hakyll
 

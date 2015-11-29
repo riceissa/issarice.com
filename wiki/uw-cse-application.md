@@ -24,12 +24,12 @@ I applied after one full year at the University of Washington, for the July 1, 2
 I was admitted to the major (on my first attempt) on July 24.
 
 The main purpose of this page is to be transparent about my academic situation, and also so that people interested in applying to CSE have one more data point they can use.
-Before I was admitted, I would often stress out over whether I was good enough to be admitted, and so on.
+Before I was admitted, I would often stress out over whether I was good enough to be admitted, whether my choice of courses was optimal, and so on.
 Moreover, when people posted their grades online, they would often only list their overall GPA (not very useful, since prerequisite classes matter much more), their prerequisite GPA (more useful, but still doesn't provide a full picture), or even just their CSE 142/3 grades (and my CSE 143 grade wasn't as high as I had hoped it would be, so I was quite worried hearing almost everyone had gotten a 3.9 or 4.0 in that course)!
 In light of this, I'd like to provide my "full stats" so people have more information.
 Note that in many ways, this page is a lot like my UW transcript after the first year (just arranged differently, and with essays).
 
-I'd like to note that while I don't think I was one of the strongest applicants, I certainly don't think I was one of the weakest either (even among those admitted).
+I'd like to note that while I don't think I was one of the strongest applicants (e.g. I know people who had much higher GPAs), I certainly don't think I was one of the weakest either (even among those admitted).
 
 One last note: during the new CSE admit orientation, one of the CSE advisors said that this admissions cycle was a "particularly brutal"^["I'm a recent CSE admit, and at orientation the faculty said this was the most brutal admissions process so far" according to [a reddit comment](https://www.reddit.com/r/udub/comments/3m9qfu/quick_question_about_spring_application/cvd8k56); I think it was one of the CSE advisors that said this though, and I trust my quoting to be more accurate :).] one.
 
@@ -110,7 +110,7 @@ The following were my essays as submitted.
 Note that the application asked not to use special characters, so I refrained from using smart quotes (i.e. curly quotes) in the submission form, but the essays below use smart quotes (since I think they look better).
 You can check out the page source (see link at the top navigation bar) to see the source form, which still has the straight quotes.
 
-I don't think my essays are that great.
+I don't think my essays are that great (in fact, I blush reading them now).
 I hope the message you get out of them is something like "Oh, I guess you don't need to write a very good essay to get in!"
 
 Also this should go without saying, but my essays are provided as a reference so you know the *level of competence* required for the essay, and is not intended for you to copy!

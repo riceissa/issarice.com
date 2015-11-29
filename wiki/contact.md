@@ -100,6 +100,7 @@ You can browse [my public repositories](https://github.com/riceissa?tab=reposito
 - I have a [WordPress.com blog](https://riceissa.wordpress.com/) that I used to maintain.
 (Now I just write here instead.)
 - I am [Riceissa](http://en.wikipedia.org/wiki/User:Riceissa) on the [English Wikipedia](http://en.wikipedia.org/wiki/Main_Page).
+- I am [Issa Rice](http://www.wikihow.com/User:Issa-Rice) on [wikiHow]().
 - You can see all of [my Stack Exchange accounts](http://stackexchange.com/users/1643345/riceissa?tab=accounts).
 - I am [riceissa](https://www.reddit.com/user/riceissa/) on [Reddit](http://info.cognitomentoring.org/wiki/Using_reddit).
 I occasionally use Reddit to look for information, but don’t really post.

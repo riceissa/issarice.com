@@ -10,13 +10,13 @@ pages: $(HTML_PAGES) $(CSS) $(CSSDIR)
 # Make the full site, including pages, images, static content, tags
 # pages, feeds, and sitemap
 fullsite:
-	./generator/generator.py --commit_ps
+	python3 ./generator/generator.py --commit_ps
 
 $(CSSDIR):
 	mkdir -p $(CSSDIR)
 
 _site/%: wiki/%.md
-	./generator/generator.py --commit_ps --file "$<"
+	python3 ./generator/generator.py --commit_ps --file "$<"
 
 $(OUTDIR)/_css/solarized_light.css: css/solarized_light.css | $(CSSDIR)
 	cp "$<" "$@"
