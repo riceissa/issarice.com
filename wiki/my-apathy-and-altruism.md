@@ -36,3 +36,5 @@ This generally works out because I don't expect anything from others
 either, so they generally leave me alone.
 
 Keeping in mind all of the above, 
+
+http://www.critical-theory.com/professor-of-the-year-if-you-dont-give-me-any-of-your-shitty-papers-you-get-an-a/
