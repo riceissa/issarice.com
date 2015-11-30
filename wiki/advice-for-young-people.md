@@ -81,6 +81,10 @@ Some other points:
 
 - "[Drawbacks to Formal Education][drawbacks]" by Brian Tomasik
 
+- "[Free the Education
+  Market](http://www.daveshellenberger.com/free-the-education-market)" by
+  David Shellenberger
+
 - If you are in Washington state, seriously consider early entrance to
   the University of Washington.  See for instance [Alex K. Chen's
   review][acad] on Quora.
@@ -477,13 +481,15 @@ is by producing great content.
 
 # Thinking about careers
 
+Just some links for now:
+
 - [80,000 Hours](https://80000hours.org/)
 - [Cognito Mentoring](http://cognitomentoring.org/)
-- [Advice for Students on Earning to Give][earning to give] gives a good
+- "[Advice for Students on Earning to Give][earning to give]" gives a good
   overview of concrete steps to take in high school and college, with an
   EA-bent (specifically from the view that earning to give is
   advisable).
-- See also [Conference Call on Altruistic Career Choice][holden career]
+- See also "[Conference Call on Altruistic Career Choice][holden career]"
   with Holden Karnofsky of GiveWell.
 
 [earning to give]: http://reducing-suffering.org/advice-students-earning-give/
@@ -491,9 +497,13 @@ is by producing great content.
 
 # Finding content online
 
-- [my guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
+One useful skill to have is identifying useful content online (something that
+is not taught in schools).  Here are some places to check out:
+
+- [My guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
 - Quora/LW/EA/SSC
 - More given in "Other ideas—expanding your imagination" section
+- For maximum transparency, I've released [my Atom/RSS subscriptions](https://github.com/riceissa/issarice.com/blob/master/static/urls) (with some confidential URLs removed) publicly.
 
 # Books
 
@@ -504,7 +514,7 @@ be corrected quickly, whereas with books it may take years---and the
 corrections only appear on the new editions).  Nevertheless, some books
 are very much worth reading.
 
-- Start with [Cognito Mentoring's recommendations][cm books].
+Start with [Cognito Mentoring's recommendations][cm books].
 
 [cm books]: http://info.cognitomentoring.org/wiki/Core_reading_recommendations
 
@@ -526,7 +536,7 @@ Some other books to look into (I haven't read some of these):
 
 [^ey]: I personally don't like this book very much, but it is highly
 regarded among scientists and mathematicians.  Eliezer Yudkowsky, for
-one, seems to [like the book a lot][ey geb]: "\ 'Gödel, Escher, Bach' by
+one, seems to [like the book a lot][ey geb]: " 'Gödel, Escher, Bach' by
 Douglas R. Hofstadter is the most awesome book that I have ever read.
 If there is one book that emphasizes the tragedy of Death, it is this
 book, because it's terrible that so many people have died without
@@ -537,28 +547,39 @@ reading it." (Emphasis removed, since it was over the whole quote.)
 
 # Extracurriculars
 
-- It's very difficult to completely ignore the mainstream approach,
-  especially if one lacks imaginative/creative approaches (I think this
-  leads many people to think that doing sports, practicing an
-  instrument, becoming a club leader, etc., are the best use of one's
-  extracurricular time, or even *necessary* to ensure success in college
-  applications, etc.)
-- If one wants to attend an elite college (and there are quite a few
-  good reasons for doing so), then following this path may be a good
-  idea (though still, it's always important to distinguish oneself)
-- That said, basically most of the extracurriculars people do in high school are essentially useless in terms of building long-term skills and value.
-- It might sound nice to be "the best at something", but really, is all the work really worth it? A top contest math student might well [spend 1000 to 2000 hours](https://www.quora.com/How-much-time-does-the-average-USAMO-qualifier-spend-preparing-specifically-for-math-contests) preparing for contests, but is all the work really worth it in the end? It's always instructive to ask yourself: is there something I can do that is both fulfilling *and* important for the world (actually produces value)? Examples might include: doing research (especially online content creation, e.g. adding to [Wikipedia]()) and programming (especially writing free software).
+It's very difficult to completely ignore the mainstream approach, to
+extracurriculars, especially if one lacks imaginative or creative approaches
+(I think this leads many people to think that doing sports, practicing an
+instrument, becoming a club leader, etc., are the best use of one's
+extracurricular time, or even *necessary* to ensure success in college
+applications, etc.)
 
-    See also [Chinese loses math face\-off to U\.S\. \- CNN\.com](http://www.cnn.com/2015/08/05/china/us-defeat-china-math-olympiad/):
+If one wants to attend an elite college (and there are quite a few
+good reasons for doing so), then following this path may be a good
+idea (though still, it's always important to distinguish oneself).
 
-    > But to some, losing the Olympiad offers hope that painful,
-    > nightmarish years spent studying for the contest could finally be
-    > over.
-    >
-    > "This is just wonderful that China finally lost the contest," one
-    > Chinese Internet user exclaimed on social network Weibo.
-    > "Hopefully the Math Olympiad won't scourge our children anymore!
-    > It has shattered so many kids' dreams!" 
+That said, basically most of the extracurriculars people do in high school are
+essentially useless in terms of building long-term skills and value.
+
+It might sound nice to be "the best at something", but really, is all the work
+really worth it? A top contest math student might well [spend 1000 to 2000
+hours](https://www.quora.com/How-much-time-does-the-average-USAMO-qualifier-spend-preparing-specifically-for-math-contests)
+preparing for contests, but is all the work really worth it in the end? It's
+always instructive to ask yourself: is there something I can do that is both
+fulfilling *and* important for the world (actually produces value)? Examples
+might include: doing research (especially online content creation, e.g. adding
+to [Wikipedia]()) and programming (especially writing free software).
+
+See also "[Chinese loses math face\-off to U.S.](http://www.cnn.com/2015/08/05/china/us-defeat-china-math-olympiad/)":
+
+> But to some, losing the Olympiad offers hope that painful, nightmarish years
+> spent studying for the contest could finally be over.
+>
+> "This is just wonderful that China finally lost the contest," one Chinese
+> Internet user exclaimed on social network Weibo.  "Hopefully the Math
+> Olympiad won't scourge our children anymore!  It has shattered so many kids'
+> dreams!"
+
 
 # Doing something important
 
@@ -646,11 +667,12 @@ blogs like [100 Reasons NOT to Go to Graduate School][no grad].
 [phys drugs]: http://physics.wustl.edu/katz/scientist.html
 [no grad]: http://100rsns.blogspot.com/
 
-For Cognito Mentoring pages, see:
-
-- [Academia](http://info.cognitomentoring.org/wiki/Academia), especially:
-    - [Leaving academia after graduate school](http://info.cognitomentoring.org/wiki/Leaving_academia_after_graduate_school)
-    - [Alternatives to academia](http://info.cognitomentoring.org/wiki/Alternatives_to_academia)
+For Cognito Mentoring pages, see
+"[Academia](http://info.cognitomentoring.org/wiki/Academia)", especially
+"[Leaving academia after graduate
+school](http://info.cognitomentoring.org/wiki/Leaving_academia_after_graduate_school)"
+and "[Alternatives to
+academia](http://info.cognitomentoring.org/wiki/Alternatives_to_academia)".
 
 A good thing to remember is that *there are already too many people in
 academia*.  Academia is insanely crowded, and institutionally you're
@@ -658,12 +680,15 @@ very replaceable.  My personal opinion: just stay away from academia
 unless you have a *very* good reason.  In particular, if you're neurotic
 or mentally unstable *at all*, **just stay away**.  See also Bryan
 Caplan's [forthcoming book on education](http://econlog.econlib.org/archives/2012/03/table_of_conten.html).  See also one of my absolute
-favorite answers on Quora: [Vipul Naik's answer to Why did you leave
-academia?][vipul leave]
+favorite answers on Quora: [Vipul Naik's answer to "Why did you leave
+academia?"][vipul leave]
 
 [vipul leave]: https://www.quora.com/Why-did-you-leave-academia/answer/Vipul-Naik
 
-See also the question [Why do undergraduate admissions in the U\.S take into account nonacademic criteria?](https://academia.stackexchange.com/questions/44122/why-do-undergraduate-admissions-in-the-u-s-take-into-account-nonacademic-criteri) (about undergrad admissions, not grad school)
+See also the question "[Why do undergraduate admissions in the U\.S take into
+account nonacademic
+criteria?](https://academia.stackexchange.com/questions/44122/why-do-undergraduate-admissions-in-the-u-s-take-into-account-nonacademic-criteri)"
+(about undergrad admissions, not grad school).
 
 Raman Shah says that [avoiding a PhD is the best way to prevent your
 twenties from being as bad as
@@ -828,20 +853,19 @@ opportunity cost of college.
 - "[To Fall in Love With Anyone, Do This](http://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html)" and "[The 36 Questions That Lead to Love](http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html)"
 - [Let the Poor Have Fun](http://www.nytimes.com/2013/09/17/opinion/let-the-poor-have-fun.html?_r=0)
 - "[BuzzFeed doesn't need 'trust' to win the Internet](http://exp.issarice.com/buzzfeed.html)"
-- ‘ [“I was a middle-aged virgin”](http://www.salon.com/2003/10/08/virgin_6/) ’
+- Quote I really like from ‘ [“I was a middle-aged
+  virgin”](http://www.salon.com/2003/10/08/virgin_6/) ’:
 
-    - Quote I really like:
-
-        > “Gentle, nurturing touch is new for most older virgins,”
-        > Blanchard explains. “Many don’t recall ever being touched that
-        > way before by anyone. Imagine what it must feel like never to
-        > have known gentle touch, and then to have someone hold your
-        > hand, stroke your arm, run their fingers through your hair.
-        > It’s a profound experience.  Often, clients cry.”
+    > “Gentle, nurturing touch is new for most older virgins,”
+    > Blanchard explains. “Many don’t recall ever being touched that
+    > way before by anyone. Imagine what it must feel like never to
+    > have known gentle touch, and then to have someone hold your
+    > hand, stroke your arm, run their fingers through your hair.
+    > It’s a profound experience.  Often, clients cry.”
 
 - some unresolved problems:
     - getting paid to do work
-    - romance...; I've been doing some work on this [on the CP
+    - romance\ ...; I've been doing some work on this [on the CP
       Wiki][rom], though it's not specifically about getting into
       relationships, but more about gauging its importance as a cause,
       and taking a look at possible future developments in this domain.
