@@ -6,6 +6,7 @@ description: >-
 feed_description: Added a quote by Raman Shah, among numerous other updates
 author: Issa Rice
 last_major_revision_date: 2015-05-02
+date: 2015-05-02
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: draft
@@ -59,6 +60,8 @@ convenient for me.
 
 # Dealing with high school
 
+[Marcus Geduld](https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld):
+
 > “\[S\]chool \[...\] is a pathological environment. It's pathological,
 > because it sells itself as a  “place of learning” while shunning the
 > best learning tool there is \[i.e. failure\].  In school, the worst
@@ -67,16 +70,16 @@ convenient for me.
 > you to loath failing, which is basically teaching you to loath
 > learning.”
 
---- [Marcus Geduld][MG_failure]
-
-[MG_failure]: https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld
+Some other points:
 
 - Sometimes it's good just to know that you are not the only one who is
   extremely frustrated with high school.  Even conventionally successful
-  intellectuals like Noam Chomsky hated high school; see [my answer here
-  on Quora][chomsky], for instance.
+  intellectuals like Noam Chomsky hated high school; see [my answer to the
+  Quora question "What would Noam Chomsky think of
+  unschooling?"](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice),
+  for instance.
 
-- [Drawbacks to Formal Education][drawbacks] by Brian Tomasik.
+- "[Drawbacks to Formal Education][drawbacks]" by Brian Tomasik
 
 - If you are in Washington state, seriously consider early entrance to
   the University of Washington.  See for instance [Alex K. Chen's
@@ -96,7 +99,6 @@ convenient for me.
   generally accepted to be a decent school (though what you do there is
   most important)
 
-[chomsky]: https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice
 [drawbacks]: http://briantomasik.com/drawbacks-formal-education/
 [acad]: https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars
 [mainstream]: http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff
@@ -204,9 +206,7 @@ resonated with me:
 
 ## Peter Thiel
 
-From [this article][vator_pt] (HT Alex):
-
-[vator_pt]: http://vator.tv/news/2014-11-22-peter-thiel-education-the-catholic-church-circa-1500
+From "[Peter Thiel: Education = the Catholic Church circa 1500](http://vator.tv/news/2014-11-22-peter-thiel-education-the-catholic-church-circa-1500)" (HT Alex):
 
 > There is something very odd about a society where the most talented
 > people all get tracked towards the same elite colleges, where they end
@@ -216,9 +216,7 @@ From [this article][vator_pt] (HT Alex):
 > doing. That's very limiting for our society as well as for those
 > students.
 
-From [this article][vator_pt2] (HT Alex again):
-
-[vator_pt2]: http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-luther-of-education
+From "[Is Peter Thiel the Martin Luther of Education?](http://vator.tv/news/2014-12-03-is-peter-thiel-the-martin-luther-of-education)" (HT Alex again):
 
 > People thought they could only get saved by going to the Catholic
 > church, just like people today believe that salvation involves getting
@@ -238,9 +236,7 @@ From [this article][vator_pt2] (HT Alex again):
 > figure it out on your own. And that is the last thing anybody wants to
 > hear.
 
-And HT Alex again ([source][tcpt]):
-
-[tcpt]: https://medium.com/conversations-with-tyler/peter-thiel-on-the-future-of-innovation-77628a43c0dd
+And HT Alex again, from "[Peter Thiel -- Conversations with Tyler](https://medium.com/conversations-with-tyler/peter-thiel-on-the-future-of-innovation-77628a43c0dd)":
 
 > We need to ask, what is it about our society where those of us who do
 > not suffer from Asperger’s are at some massive disadvantage because we
@@ -405,6 +401,8 @@ Cognito Mentoring info wiki.
 
 # Effective altruism
 
+From "[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)":
+
 > Because gifted children are able to consider the possibilities of how
 > things might be, they tend to be idealists. However, they are
 > simultaneously able to see that the world is falling short of how it
@@ -435,8 +433,6 @@ Cognito Mentoring info wiki.
 > in an absurd, arbitrary and capricious world where my life can have
 > little impact, and then I die. Is this all there is?"
 
---- from "[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)"
-
 In some sense, effective altruism is an answer to the questions "What
 should I do with my life?", "Can I do anything meaningful with my
 life?", etc.  It says, roughly: do [The Most Good You Can Do](!w).
@@ -445,12 +441,12 @@ Although effective altruists claim that effective altruism is [a
 question, not an ideology][ideo], if you pay enough attention, each
 subset of effective altruists clearly has its own agenda.  So you
 can't necessarily trust EAs.  Read posts like "[A critique of effective
-altruism][ea crit]".
+altruism][ea crit]".  I've been keeping a longer list at "[Criticism of effective altruism](http://wiki.effectivealtruismhub.com/w/index.php?title=Criticism_of_effective_altruism)".
 
 [ideo]: http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/
 [ea crit]: http://www.benkuhn.net/ea-critique
 
-- [Extreme altruism: should you care for strangers at the expense of your family? | Larissa MacFarquhar](http://www.theguardian.com/world/2015/sep/22/extreme-altruism-should-you-care-for-strangers-as-much-as-family)
+I liked this article by Larissa MacFarquhar: "[Extreme altruism: should you care for strangers at the expense of your family?](http://www.theguardian.com/world/2015/sep/22/extreme-altruism-should-you-care-for-strangers-as-much-as-family)"
 
 [for more general resources, see [Effective altruism]()]
 
@@ -458,9 +454,9 @@ altruism][ea crit]".
 # Online presence and content creation
 
 My main page on this is [Content creation: the organization and
-dissemination of knowledge](content-creation)
+dissemination of knowledge](content-creation).
 
-See also [Maintaining your online presence][online p] on the Cognito
+See also "[Maintaining your online presence][online p]" on the Cognito
 Mentoring wiki.
 
 [online p]: http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence
@@ -472,9 +468,6 @@ long term (say, after ten years) it is difficult to say what overall
 effect the sport had.  (There are obviously creative ways to provide
 value even with a sport, e.g. by recording it and therefore providing
 entertainment even after one has stopped playing.)
-
-I'm probably unusual in thinking that *in moderate amounts*
-recreational drug use is probably more useful than sports.
 
 Another point: if you're *extremely unusual* compared to the
 mainstream/masses, then chances are, you'll have trouble finding
