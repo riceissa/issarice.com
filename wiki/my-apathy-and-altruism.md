@@ -2,6 +2,9 @@
 title: My apathy and altruism
 ---
 
+*Note: For now this is just a rant without much substance. Please don't take it
+very seriously.*
+
 I feel I should clarify a certain internal tension people might observe
 in me, namely that on one hand, I participate in seemingly altruistic
 activities, have an interest in altruism, might appear friendly, etc.,
