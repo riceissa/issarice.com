@@ -26,7 +26,8 @@ THE SOFTWARE.
 body {
     background: #fdf6e3;
     color: #586e75;
-    font-family: "Bitstream Charter", Georgia, Times, serif;
+    font-family: "Linux Libertine O", "Linux Libertine", "Bitstream Charter",
+        Georgia, Times, serif;
 }
 
 div#content {
