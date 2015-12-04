@@ -1,21 +1,12 @@
 ---
 title: MATH 334
-#description: 
-#feed_description: 
-author: Issa Rice
 creation_date: 2015-10-11
 last_major_revision_date: 2015-10-11
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
-tags: untagged
+tags: uw, math
 math: yes
 #aliases: 
 ---
@@ -84,3 +75,41 @@ The course also emphasizes alternative explanations.
 Morrow often presents proofs and definitions sightly differently than in Folland, which makes the course pedagogically interesting.
 (These are also later posted to the course website so you don't have to absorb or write down anything in lecture, really.)
 I will still maintain my general attitude that lectures aren't very useful for learning, but I think Morrow is much better at this than any other lecturer I've seen so far at UW.
+
+---
+
+*Some more reflection; somewhat stream-of-consciousness and needs a
+complete rewrite later.*
+
+I've been "philosophizing" more lately about math.  It's true that I
+used to think mathematics is what I wanted to do all my life, and a
+means by which I would make a living.  It's also true that at some point
+in the last two years, I decided this wasn't something I wanted to do,
+after all, and that I would probably work as a programmer (kind of a
+resignation, really, because I still don't think it's too exciting to be
+a programmer).
+
+I've mentioned this elsewhere, but to reiterate: with prodding from a
+few people, I've become much more "real-world oriented" in the past two
+years, to the point where I question the worth of a lot of what I do in
+school (besides classifying it as "signalling").  Even when I learn
+something I find somewhat interesting or useful, I am conscious that
+e.g. the problems I solve on homework assignments are just "toy
+problems" that are *designed* to be solvable with a few hours' thought.
+
+I think MATH 334 is a really interesting class because it induces in me
+a philosophical state of mind, much more so than in any humanities class
+I have taken (though I haven't taken very many at UW) that deliberately
+tries to inculcate a "liberal arts" state of mind.  It sounds a bit
+silly to say, but besides a few exceptions, the people in math 13X/334
+are the people I have most closely interacted with at UW---which isn't
+saying much---and it's where I get a more extended opportunity to
+observe people[^hs], unlike the shallow observations from elsewhere at
+UW.---So that's often what I think about in class, for example.  I've
+found it increasingly difficult to focus on lectures, so these thoughts
+about interpersonal interactions, the progression of an individual's
+life, etc. enter my mind.
+
+[^hs]: This is something I used to be able to do a lot in high school,
+but the quarter system at UW makes is difficult to keep in contact
+with the same people, especially for someone as passive as me.
