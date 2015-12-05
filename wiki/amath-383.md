@@ -42,3 +42,26 @@ So one idea: consider which instructor you want for the course, because your exp
 This is in contrast to CSE 142/3, where I think the experience is more uniform across instructors.
 
 Overall, I somewhat regret taking this course now, because I don't really need it for my degree (I took it for fun), and it didn't turn out to be as fun as I thought (I was interested in playing around with running the models on a computer, but instead the course emphasized tedious algebra which I strongly dislike).
+
+Interesting view [on
+RateMyProfessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1217536):
+
+>  He's a very smart man, but when I go to class, all he does is go on
+>  about his own pet problems. The text book was necessary and
+>  expensive, but he didn't really use it, besides for assigning
+>  homework. Don't take if you're bad at differential equations. Please.
+>  Take the whole MATH 30(7, 8, 9) series first. And, going to class
+>  never really helped.
+
+I'm actually sympathetic to this view.  Even though I covered
+differential equations in [MATH 135](), the class was not just about
+differential equations; as a result, I only spent a few weeks on
+material that others would have spent the entire quarter (or multiple
+quarters) on[^diffeq].  From observing a few of the other students in
+class, it seemed clear that they were more adept at solving differential
+equations and the types of problems given out as homework.
+
+[^diffeq]: On one hand, this put me at a disadvantage in this course.
+On the other hand, I don't expect to solve too many more differential
+equations by hand going forward.  Indeed, as a computer science major, I
+don't really have to take any more math courses at all.
