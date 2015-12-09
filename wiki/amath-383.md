@@ -61,6 +61,10 @@ quarters) on[^diffeq].  From observing a few of the other students in
 class, it seemed clear that they were more adept at solving differential
 equations and the types of problems given out as homework.
 
+In the end, the final project ended up being fairly relaxing and
+enjoyable, compared to the rest of the course.  That's not to say that
+the project is high quality though.
+
 [^diffeq]: On one hand, this put me at a disadvantage in this course.
 On the other hand, I don't expect to solve too many more differential
 equations by hand going forward.  Indeed, as a computer science major, I
