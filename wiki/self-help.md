@@ -3,6 +3,9 @@ title: Self-help
 date: 2015-12-09
 ---
 
+*Just some notes and reflections on what might generally be referred to
+as "self-help".*
+
 [Comment by pjeby](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/277e) on LessWrong:
 
 > The trap that most self-help falls into is that when somebody
