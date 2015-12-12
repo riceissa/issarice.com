@@ -154,3 +154,5 @@ What are some possible publishing venues?
 - personal site, for everything else
 
 In some sense, the fact that some personal sites can grow so elaborately is an indictment against the web, since there exist no platforms that can take in content in an organized manner.
+
+One argument for keeping at least a *copy* of everything on one's own website: it becomes a really useful resource in itself, to the point where googling with the 'site:' prefix becomes a reliably good thing to do. In other words, a 'site:' prefix search can almost replace asking one the direct question!
