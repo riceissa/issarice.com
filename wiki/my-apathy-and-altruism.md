@@ -40,4 +40,6 @@ either, so they generally leave me alone.
 
 Keeping in mind all of the above, 
 
+- also talk about animals \& people's ability to empathize with them
+
 http://www.critical-theory.com/professor-of-the-year-if-you-dont-give-me-any-of-your-shitty-papers-you-get-an-a/
