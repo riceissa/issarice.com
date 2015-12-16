@@ -99,6 +99,11 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
 - `:only` after `:sp` or `:vsp`
 - Editing with Vim under sudo or su: use `vim -X` to disable X so that there are no strange "No protocol specified" or grabled text/reordered lines.
 - Visual selection followed by `:'<,'>normal.` is really powerful (see *Practical Vim*).
+- Also see this enlightening quote by Drew Neil in *Practical Vim*:
+
+    > The start and end of the last visual selection are both recorded
+    > automatically as marks, so we might even consider Visual mode to be a
+    > fancy interface to the underlying marks feature.
 
 # Moving in long lines
 
