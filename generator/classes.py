@@ -209,6 +209,8 @@ def process_metadata(metadata, **kwargs):
         #if metadata["belief"] in ["possible", "unlikely",
             #"very unlikely", "remote", "impossible", "emotional"]:
             #metadata["belief"] = "log"
+    if "date" in metadata:
+        metadata["last_major_revision_date"] = metadata["date"]
     if "feed_description" not in metadata:
         metadata["feed_description"] = ""
     if "language" not in metadata:
