@@ -105,6 +105,12 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
     > automatically as marks, so we might even consider Visual mode to be a
     > fancy interface to the underlying marks feature.
 
+- Modelines: Secure Vim by disabling modelines; see "[Securing
+  Vim](http://usevim.com/2012/03/28/modelines/)" and "[Turn off modeline
+  support in Vim -
+  TechRepublic](http://www.techrepublic.com/blog/it-security/turn-off-modeline-support-in-vim/)"
+  for more information.
+
 # Moving in long lines
 
 I've always found it frustrating that Vim by default acts on physical lines instead of "display lines".
