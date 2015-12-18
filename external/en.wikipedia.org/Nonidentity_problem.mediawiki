@@ -1,0 +1,10 @@
+The '''nonidentity problem''' (also called the '''paradox of future individuals'''<ref name="kavka">{{cite journal| first=Gregory| last=Kavka| title=The Paradox of Future Individuals| url=http://faculty.smu.edu/jkazez/pap/kavka.pdf}}</ref>) in [[population ethics]] is the problem that an act may still be wrong even if it is not wrong ''for'' anyone. More precisely, the nonidentity problem is the inability to simultaneously hold the following beliefs: (1) a [[person-affecting view]]; (2) bringing someone into existence whose life is worth living, albeit flawed, is not "bad for" that person; (3) some acts of bringing someone into existence are wrong even if they are not bad ''for'' someone.<ref name="sep_nonidentity">{{cite web| title=The Nonidentity Problem| first=M. A.| last=Roberts| url=http://plato.stanford.edu/entries/nonidentity-problem| publisher=The Stanford Encyclopedia of Philosophy| access-date=2015-12-17}}</ref>
+
+==See also==
+
+* [[Mere addition paradox]]
+* [[Person-affecting view]]
+
+==References==
+
+{{reflist}}
