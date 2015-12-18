@@ -111,6 +111,11 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
   TechRepublic](http://www.techrepublic.com/blog/it-security/turn-off-modeline-support-in-vim/)"
   for more information.
 
+- Use Python's `ord()` to obtain the integer value of a character. Hit
+  `<C-k>` in insert mode then type the characters following `'dig'` to
+  produce the special character.
+
+
 # Moving in long lines
 
 I've always found it frustrating that Vim by default acts on physical lines instead of "display lines".
