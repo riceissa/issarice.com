@@ -125,3 +125,94 @@ But I don't consider this a very satisfactory solution, especially since I like 
 Worse yet, Wikipedia source files tend to have entire paragraphs on single lines, so even if I write my markup one way, there is no way to avoid *others* from writing *their* markup a certain way.---Hence, the problem must be solved within Vim.
 
 I think something like `9j`, etc., can work as a replacement for `Ctrl`-`d`.
+
+# From my old .vimrc
+
+It's sometimes interesting to read my old .vimrc to note things that I
+used to accomplish in a really convoluted manner (and which sometimes
+Vim did natively!).  Here I want to list some of these.
+
+```vim
+set list listchars=eol:$,extends:>,precedes:<,nbsp:_,tab:>-,trail:@
+```
+
+I used to have `extends` and `precedes`, although I later realized I
+didn't really like them for the following reason: When editing long
+lines, these hide the first character of each visual line, making the
+text difficult to read. I also switched `tab` to `>\ ` (i.e. greater
+than, backslash, space), which, when combined with a `ctermbg` highlight
+color, makes it possible to see the spaces.
+
+Next, I used to have several lines like the following to help automate
+LateX document compilation:
+
+```viml
+autocmd filetype tex nnoremap <buffer> <silent> <localleader><localleader> :!latexmk -pdf %<CR>
+```
+
+But Vim already has `:make`, which is more versatile anyway, and doesn't
+require configuration for each filetype.
+
+I used to set manual abbreviations like the following to help with
+typos:
+
+```vi
+iabbrev adn and
+iabbrev nad and
+iabbrev teh the
+iabbrev het the
+iabbrev ehty they
+iabbrev hety they
+iabbrev tehn then
+iabbrev waht what
+iabbrev THen Then
+```
+
+But Vim has the much more general `<C-x>s`, which, combined with other
+types of autocompletion, becomes incredibly powerful.
+
+Also in general I used to have a lot more lines in my .vimrc, many of
+which I couldn't be bothered to memorize.
+
+I used to also have:
+
+```vim
+nnoremap <silent> <C-n> :tabn<CR>
+nnoremap <silent> <C-p> :tabp<CR>
+```
+
+This is fine, but I mostly needed to quickly switch between tabs because
+I was using them *instead of buffers*.  In other words, I was unable to
+think of editing buffers in a "Vim mindset", which caused me to treat
+tabs in a naive manner.  See [this
+answer](http://stackoverflow.com/a/103590) as well as [this
+question](https://stackoverflow.com/questions/26708822/why-do-vim-experts-prefer-buffers-over-tabs)
+for more.
+
+Also mappings like:
+
+```vim
+nnoremap <silent> <leader>nh :nohlsearch<CR>
+nnoremap <silent> <leader>I :set list!<CR>
+nnoremap <silent> <leader>N :set number!<CR>
+nnoremap <leader>p :set paste! paste?<CR>
+```
+
+These show that I was unaware of
+[unimpaired.vim](https://github.com/tpope/vim-unimpaired).
+
+I also had a habit of adding new plugins almost by whim, which may have
+been a positive thing (in that I was able to experiment with more
+possible editing workflows) but ended up not really being necessary, and
+also *discouraged me from actually learning Vim*---because why read
+through the help pages when a flashy plugin will solve my problem?
+
+Right now my approach consists of (1) not creating new mappings to solve
+problems for me (cf. the Tim Pope quote above); (2) not making any
+changes to my configuration that would require different "muscle memory"
+from the default Vim/Neovim configuration---to quote Tim Pope again, I
+want to keep my changes in configuration to those which are a "[cosmetic
+improvement with no impact on muscle
+memory](https://github.com/tpope/vim-sensible/issues/81)".  In fact both
+(1) and (2) have a lot in common, and (2) might be construed as a more
+general formulation of (1).
