@@ -313,3 +313,18 @@ sudo update-flashplugin-nonfree --install
 
 - Reinstall packages (e.g. lightdm) to get fresh copies of certain configs
 - see <http://stackoverflow.com/questions/21716426/cant-apt-get-remove-or-apt-get-install-fopen-permission-denied> also
+
+# Changing swappiness
+
+On Debian/Ubuntu/Linux Mint:
+
+```bash
+# check swappiness value
+$ cat /proc/sys/vm/swappiness 
+60
+# change to a lower value, which means RAM will more aggressively be
+# used
+$ sudo sysctl vm.swappiness=10
+$ cat /proc/sys/vm/swappiness 
+10
+```
