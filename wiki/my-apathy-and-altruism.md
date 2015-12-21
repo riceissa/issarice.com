@@ -3,7 +3,8 @@ title: My apathy and altruism
 ---
 
 *For now this is just a rant without much substance. Please don't take
-it very seriously.*
+it very seriously. In particular, I think I'm still saying some things
+in a peculiar way that makes it prone to misinterpretation.*
 
 I feel I should clarify a certain internal tension people might observe
 in me, namely that on one hand, I participate in seemingly altruistic
