@@ -24,6 +24,19 @@ conclusion is that politicians go rogue, are selfish, and heed to
 corporations (or whatever the narrative is), then one should lobby for
 good policy.
 
+# Notes
+
+See also Huemer in §9.4.3 of *The Problem of Political Authority*, who
+discusses on the basis of self-interest that for individuals, participating in
+the political process is not worth the cost (of doing research, etc.) whereas
+for special-interest groups there is much to be gained (hence lobbying). He
+concludes the section with:
+
+> This is how modern democracy works. Concentrated, well-organized
+> special-interest groups use the apparatus of the state to extract profit at
+> the expense of the majority of their own society, often in addition to
+> hapless victims in other countries.
+
 <!-- footnotes -->
 
 [^nisk]: See this quote from "[Niskanen Center
