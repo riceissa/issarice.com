@@ -115,6 +115,36 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
   `<C-k>` in insert mode then type the characters following `'dig'` to
   produce the special character.
 
+- Filtering span tags from Quora's HTML, assuming the HTML is in its own
+  buffer; modify as necessary for parts of a buffer:
+
+    ```vim
+    " paste the raw HTML
+    :r !xclip -sel clip -t text/html -o
+    " remove span tags; may need to repeat with @: if these are nested
+    :%!pandoc -f html -t html -F ./despan.py
+    " finally convert to markdown; use gq for further formatting as
+    " necessary
+    :%!pandoc -f html -t markdown
+    ```
+
+    Here `despan.py` is the following:
+
+    ```python
+    #!/usr/bin/python3
+
+    # modified from https://github.com/jgm/pandoc/issues/1893
+
+    from pandocfilters import toJSONFilter, Str
+
+    def despan(key, value, format, meta):
+        if key == 'Span':
+            return value[1]
+
+    if __name__ == "__main__":
+        toJSONFilter(despan)
+    ```
+
 
 # Moving in long lines
 
