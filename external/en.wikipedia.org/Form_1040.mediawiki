@@ -1,7 +1,35 @@
 '''Form 1040''' is one of the [[IRS tax forms]]
-The form is 2 pages without extras<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> and its instructions booklet is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
+The form is 2 pages without attachments<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> and its instructions booklet is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
 It is the centerpiece of most US residents' tax returns
 Altogether, 147,444,789 returns were filed for Form 1040 in the year 2014.<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref>
+
+[[File:Form 1040, 2005.jpg|thumb|upright|First page of Form 1040 for 2005 tax year]]
+
+'''Form 1040''', U.S. Individual Income Tax Return, is one of three forms (1040 [the "Long Form"], 1040A [the "Short Form"] and 1040EZ - see below for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the IRS. The first Form 1040 was published for use for the tax years 1913, 1914, and 1915. For 1916, Form 1040 was converted to an annual form (i.e., updated each year with the new tax year printed on the form).<ref>See Publication 1796-A, ''IRS Historical Tax Products'' (rev. Feb. 2007), Internal Revenue Service, U.S. Dep't of the Treasury.</ref> Initially, the IRS mailed tax booklets (Form 1040, instructions, and most common attachments) to all households. As alternative delivery methods (CPA/Attorneys, Internet forms) increased in popularity, the IRS sent fewer packets via mail. In 2009 this practice was discontinued.
+
+Income tax returns for individual calendar year taxpayers are due by April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until Oct. 15 to file Form 1040 can be obtained by filing Form 4868.
+
+Form 1040 consists of two full pages not counting attachments. The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows you to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund.
+
+Form 1040 has 14 attachments, called "schedules", which may need to be filed depending on the taxpayer. For 2009 and 2010 there was an additional form, {{visible anchor|Schedule M}}, due to the "[[Making Work Pay tax credit|Making Work Pay]]" provision of the [[American Recovery and Reinvestment Act of 2009]] ("the stimulus"):
+
+* Schedule A [[Itemized deduction|itemizes allowable deductions]] against income; instead of filling out Schedule A, taxpayers may choose to take a [[standard deduction]] of between $6,100 and $12,200 (for tax year 2013), depending on age, filing status, and whether the taxpayer and/or spouse is blind.
+* Schedule B enumerates [[interest]] and/or [[dividend]] income, and is required if either interest or dividends received during the tax year exceed $1,500 from all sources or if the filer had certain foreign accounts.
+* {{visible anchor|Schedule C}} lists income and expenses related to self-employment, and is used by sole proprietors.
+* Schedule D is used to compute [[capital gains]] and losses incurred during the tax year.
+* Schedule E is used to report income and expenses arising from the rental of real property, royalties, or from pass-through entities (like trusts, estates, partnerships, or [[S corporations]]).
+* Schedule EIC is used to document a taxpayer's eligibility for the [[Earned Income Credit]].
+* Schedule F is used to report income and expenses related to farming.
+* Schedule H is used to report taxes owed due to the employment of household help.
+* Schedule J is used when averaging farm income over a period of three years.
+* Schedule L (until 2010) was used to figure an increased standard deduction in certain cases.<ref>{{cite web |url=https://origin.bankrate.com/finance/taxes/schedule-l-schedule-m-gone.aspx |title=Schedule L and Schedule M are gone |publisher=Bankrate.com |accessdate=2013-03-10}}</ref>
+* Schedule M (2009 and 2010) was used to claim the [[Making Work Pay tax credit]] (6.2% earned income credit, up to $400).<ref>[http://www.irs.gov/pub/irs-pdf/f1040sm.pdf Schedule M], ([http://www.irs.gov/pub/irs-pdf/i1040sm.pdf Instructions])</ref>
+* Schedule R is used to calculate the Credit for the Elderly or the Disabled.
+* Schedule SE is used to calculate the self-employment tax owed on income from self-employment (such as on a Schedule C or Schedule F, or in a partnership).
+* [http://www.irs.gov/pub/irs-pdf/f1040s8.pdf Schedule 8812] is used to calculate the Child Tax Credit.
+In 2014 there were two additions to Form 1040 due to the implementation of  the [[Affordable Care Act]] – the [[premium tax credit]] and the [[individual mandate]].<ref>http://www.forbes.com/sites/ashleaebeling/2014/11/04/irs-commissioner-predicts-miserable-2015-tax-filing-season/</ref>
+
+In most situations, other [[Internal Revenue Service]] or [[Social Security Administration]] forms such as Form W-2 must be attached to the Form 1040, in addition to the Form 1040 schedules.  There are over 100 other, specialized forms that may need to be completed along with Schedules and the Form 1040.
 
 ==History==
 
