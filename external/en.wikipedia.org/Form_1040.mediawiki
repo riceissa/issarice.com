@@ -11,6 +11,11 @@ Income tax returns for individual calendar year taxpayers are due by April 15 of
 
 Form 1040 consists of two full pages not counting attachments. The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows you to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund.
 
+
+==History==
+
+==Schedules and extra forms==
+
 Form 1040 has 14 attachments, called "schedules", which may need to be filed depending on the taxpayer. For 2009 and 2010 there was an additional form, {{visible anchor|Schedule M}}, due to the "[[Making Work Pay tax credit|Making Work Pay]]" provision of the [[American Recovery and Reinvestment Act of 2009]] ("the stimulus"):
 
 * Schedule A [[Itemized deduction|itemizes allowable deductions]] against income; instead of filling out Schedule A, taxpayers may choose to take a [[standard deduction]] of between $6,100 and $12,200 (for tax year 2013), depending on age, filing status, and whether the taxpayer and/or spouse is blind.
@@ -30,8 +35,6 @@ Form 1040 has 14 attachments, called "schedules", which may need to be filed dep
 In 2014 there were two additions to Form 1040 due to the implementation of  the [[Affordable Care Act]] – the [[premium tax credit]] and the [[individual mandate]].<ref>http://www.forbes.com/sites/ashleaebeling/2014/11/04/irs-commissioner-predicts-miserable-2015-tax-filing-season/</ref>
 
 In most situations, other [[Internal Revenue Service]] or [[Social Security Administration]] forms such as Form W-2 must be attached to the Form 1040, in addition to the Form 1040 schedules.  There are over 100 other, specialized forms that may need to be completed along with Schedules and the Form 1040.
-
-==History==
 
 ==Analogs in other countries==
 
