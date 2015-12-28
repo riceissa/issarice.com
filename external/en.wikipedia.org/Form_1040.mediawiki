@@ -1,5 +1,7 @@
 '''Form 1040''' is one of the [[IRS tax forms]]
+The form is 2 pages without extras<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> and its instructions booklet is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
 It is the centerpiece of most US residents' tax returns
+Altogether, 147,444,789 returns were filed for Form 1040 in the year 2014.<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref>
 
 ==History==
 
@@ -9,3 +11,6 @@ It is the centerpiece of most US residents' tax returns
 
 * [https://www.cs.amherst.edu/~djv/irs.pdf If the IRS had discovered the quadratic formula …]
 * https://www.urbandictionary.com/define.php?term=1040ez+form
+
+==References==
+{{reflist}}
