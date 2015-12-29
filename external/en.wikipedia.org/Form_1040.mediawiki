@@ -3,9 +3,9 @@ The form is 2 pages without attachments<ref name="f1040_2014">{{cite web |url=ht
 It is the centerpiece of most US residents' tax returns
 Altogether, 147,444,789 returns were filed for Form 1040 in the year 2014.<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref>
 
-[[File:Form 1040, 2005.jpg|thumb|upright|First page of Form 1040 for 2005 tax year]]
+[[File:Form 1040, 2011.pdf|thumb|First page of Form 1040 for 2011 tax year]]
 
-'''Form 1040''', U.S. Individual Income Tax Return, is one of three forms (1040 [the "Long Form"], 1040A [the "Short Form"] and 1040EZ—see below for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the IRS. The first Form 1040 was published for use for the tax years 1913, 1914, and 1915. For 1916, Form 1040 was converted to an annual form (i.e., updated each year with the new tax year printed on the form).<ref>See Publication 1796-A, ''IRS Historical Tax Products'' (rev. Feb. 2007), Internal Revenue Service, U.S. Dep't of the Treasury.</ref> Initially, the IRS mailed tax booklets (Form 1040, instructions, and most common attachments) to all households. As alternative delivery methods (CPA/Attorneys, Internet forms) increased in popularity, the IRS sent fewer packets via mail. In 2009 this practice was discontinued.
+'''Form 1040''', U.S. Individual Income Tax Return, is one of three forms (1040 [the "Long Form"], 1040A [the "Short Form"] and 1040EZ—see below for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS). The first Form 1040 was published for use for the tax years 1913, 1914, and 1915. For 1916, Form 1040 was converted to an annual form (i.e., updated each year with the new tax year printed on the form).<ref>See Publication 1796-A, ''IRS Historical Tax Products'' (rev. Feb. 2007), Internal Revenue Service, U.S. Dep't of the Treasury.</ref> Initially, the IRS mailed tax booklets (Form 1040, instructions, and most common attachments) to all households. As alternative delivery methods (CPA/Attorneys, Internet forms) increased in popularity, the IRS sent fewer packets via mail. In 2009 this practice was discontinued.
 
 Income tax returns for individual calendar year taxpayers are due by April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until Oct. 15 to file Form 1040 can be obtained by filing Form 4868.
 
@@ -15,8 +15,7 @@ Form 1040 consists of two full pages not counting attachments. The first page co
 
 ===1040A===
 
-[[Image:Form 1040A, 2005.jpg|thumb|right|Form 1040A, year 2005]]
-[[Image:Form 1040A, 2005, page 2.jpg|thumb|right|Page 2]]
+[[File:Form 1040a, 2011.pdf|thumb|Form 1040A, 2011]]
 
 The '''1040A''' (nicknamed the "short form") is a shorter version of the [[Form 1040]] U.S. individual income tax return. It is limited to taxpayers with taxable income below $100,000 who take the standard deduction instead of itemizing deductions.
 
@@ -34,9 +33,9 @@ Several other restrictions apply as well.
 
 ===1040EZ===
 
-[[Image:Form 1040EZ, 2005.jpg|thumb|right|1040EZ from 2005]]
+[[File:F1040ez 2011.pdf|thumb|Form 1040EZ, 2011]]
 
-The Form '''1040EZ''', Income Tax Return for Single and Joint Filers with No Dependents, (nicknamed the "easy form") is a simplified, six-section Federal income [[tax return (United States)|tax return]], issued by the United States' [[Internal Revenue Service]]. Its use is limited to taxpayers with taxable income below $100,000 ([[As of 2007|as of tax year 2006]]) who take the [[standard deduction]] instead of itemizing deductions.
+The Form 1040EZ (read as "easy"), Income Tax Return for Single and Joint Filers with No Dependents, (nicknamed the "easy form") is a simplified, six-section Federal income [[tax return (United States)|tax return]], issued by the United States' [[Internal Revenue Service]]. Its use is limited to taxpayers with taxable income below $100,000 ([[As of 2007|as of tax year 2006]]) who take the [[standard deduction]] instead of itemizing deductions.
 
 Other restrictions for 2005 include:
 
@@ -55,7 +54,8 @@ For Tax year 2006, there is also the EZ-T variant. It is used to only claim the 
 
 ===1040X===
 
-[[Image:Form_1040X,_2005.png|thumb|right|Form 1040X, 2005]]
+[[File:F1040x 2011.pdf|thumb|Form 1040X, 2011]]
+
 The '''Amended U.S. Individual Tax Return''', commonly known by its number '''(Form 1040X)''', is used to make corrections on [[Form 1040]], [[Form 1040A]], and [[Form 1040EZ]] tax returns that have been previously filed.
 
 Generally for a [[tax refund]], this form must be filed within 3 years after the date that the original version was filed, or within 2 years after the date that the tax was paid, whichever is later. For a 1040X based on a bad debt or worthless security, it must be filed within 7 years after the due date of the original version. A 1040X that is filed immediately before the due date of the original version is considered "on time".
