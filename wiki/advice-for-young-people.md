@@ -762,6 +762,7 @@ can learn a lot about the most exciting things that are happening.
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
     - [David Roodman](http://davidroodman.com/)
+    - [The Last Psychiatrist](http://thelastpsychiatrist.com/)
     - Some more people mentioned by Alex K. Chen:
 
         > People whose opinions I very highly respect: danah boyd,
