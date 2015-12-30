@@ -3,6 +3,9 @@ The form is 2 pages without attachments<ref name="f1040_2014">{{cite web |url=ht
 It is the centerpiece of most US residents' tax returns
 Altogether, 147,444,789 returns were filed for Form 1040 in the year 2014.<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref>
 
+
+80% of Americans file taxes electronically.<ref name="f1040_2014ins"/>{{rp|4}}
+
 [[File:Form 1040, 2011.pdf|thumb|First page of Form 1040 for 2011 tax year]]
 
 '''Form 1040''', U.S. Individual Income Tax Return, is one of three forms (1040 [the "Long Form"], 1040A [the "Short Form"] and 1040EZ—see below for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS). The first Form 1040 was published for use for the tax years 1913, 1914, and 1915. For 1916, Form 1040 was converted to an annual form (i.e., updated each year with the new tax year printed on the form).<ref>See Publication 1796-A, ''IRS Historical Tax Products'' (rev. Feb. 2007), Internal Revenue Service, U.S. Dep't of the Treasury.</ref> Initially, the IRS mailed tax booklets (Form 1040, instructions, and most common attachments) to all households. As alternative delivery methods (CPA/Attorneys, Internet forms) increased in popularity, the IRS sent fewer packets via mail. In 2009 this practice was discontinued.
@@ -11,7 +14,17 @@ Income tax returns for individual calendar year taxpayers are due by April 15 of
 
 Form 1040 consists of two full pages not counting attachments. The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows you to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund.
 
+==Filing requirements==
+
+Filed by individuals as the chief form of the annual tax return (discuss what forms non-individuals file).
+
+"These rules apply to all U.S. citizens, regardless of where they live, and resident aliens."<ref name="f1040_2014ins" />{{rp|6}}
+
+Note that although not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[Earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
+
 ==Variants==
+
+In addition to the standard Form 1040, there are also two variants: the 1040A and 1040EZ ("easy"). There is also the 1040X, which is used to make amendments to the 1040. Form 1040 and 1040A use the same line numbering up to and including line 9; Form 1040EZ uses completely different line numbering.
 
 ===1040A===
 
