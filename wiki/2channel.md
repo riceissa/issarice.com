@@ -4,20 +4,19 @@ title: 2channel
 #feed_description: 
 author: Issa Rice
 creation_date: 2015-09-10
-last_major_revision_date: 2015-09-10
+last_major_revision_date: 2015-12-31
 language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
-#belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
-tags: untagged
+tags: internet
 #aliases: 
 ---
+
+Similarly to sites like
+[reddit](http://info.cognitomentoring.org/wiki/Using_reddit), Quora, and
+4chan, 2channel mostly consists of attention-grabbing but useless
+content.  Here I want to collect the exceptions to this rule, i.e. 2ch
+threads that are actually informative.
 
 - [大学を卒業するまでに社会へ出なくていい方法を見つけたい](http://hello.2ch.net/test/read.cgi/campus/1439801445/)
 - [本の組版やフォントについて語るスレ](http://book3.2ch.net/test/read.cgi/books/1091743113/)
