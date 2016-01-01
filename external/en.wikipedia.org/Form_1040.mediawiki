@@ -18,7 +18,7 @@ Note that even if not required, individuals should still file a return in order 
 
 ==Variants==
 
-In addition to the standard Form 1040, there are also two variants: the 1040A and 1040EZ ("easy"). There is also the 1040X, which is used to make amendments to the 1040. Form 1040 and 1040A use the same line numbering up to and including line 9; Form 1040EZ uses completely different line numbering.
+In addition to the standard Form 1040, there are also two variants: the 1040A and 1040EZ ("easy"). There is also the 1040X, which is used to make amendments to the 1040. Form 1040 and 1040A use the same line numbering up to and including line 9; Form 1040EZ uses completely different line numbering. Line numbering is important to keep in mind since many state income tax returns reference line numbers on the 1040.
 
 ===1040A===
 
