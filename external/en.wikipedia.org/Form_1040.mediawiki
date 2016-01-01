@@ -1,18 +1,12 @@
-'''Form 1040''' is one of the [[IRS tax forms]]
-The form is 2 pages without attachments<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> and its instructions booklet is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
-It is the centerpiece of most US residents' tax returns
-Altogether, 147,444,789 returns were filed for Form 1040 in the year 2014.<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref>
-
-
-80% of Americans file taxes electronically.<ref name="f1040_2014ins"/>{{rp|4}}
-
 [[File:Form 1040, 2011.pdf|thumb|First page of Form 1040 for 2011 tax year]]
 
-'''Form 1040''', (officially, the "U.S. Individual Income Tax Return"), is one of three forms (1040 [the "Long Form"], 1040A [the "Short Form"] and 1040EZ—see below for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS).
+'''Form 1040''' (officially, the "U.S. Individual Income Tax Return") is one of three [[IRS tax forms]] (see [[#Variants|variants section]] for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS) and is the centerpiece of most US residents' tax returns.
 
 Income tax returns for individual calendar year taxpayers are due by April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until Oct. 15 to file Form 1040 can be obtained by filing Form 4868.
 
-Form 1040 consists of two full pages not counting attachments. The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows you to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund.
+Form 1040 consists of two full pages not counting attachments.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows individuals to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund. The instructions booklet for Form 1040 is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
+
+Altogether, over 147 million returns were filed for Form 1040 in the year 2014,<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref> 80% of which were filed electronically.<ref name="f1040_2014ins"/>{{rp|4}}
 
 ==Filing requirements==
 
@@ -48,7 +42,7 @@ Several other restrictions apply as well.
 
 [[File:F1040ez 2011.pdf|thumb|Form 1040EZ, 2011]]
 
-The '''1040EZ''' (officially called Income Tax Return for Single and Joint Filers with No Dependents, but nicknamed the "easy form") is a simplified, six-section version of the 1040. Its use is limited to taxpayers with taxable income below $100,000 who take the [[standard deduction]] instead of itemizing deductions.<ref name="ez_investo">{{cite web |url=http://www.investopedia.com/ask/answers/071514/whats-difference-between-irs-forms-1040ez-and-1040a.asp |accessdate=December 31, 2015 |title=What's the difference between IRS Forms 1040EZ and 1040A? |publisher=Investopedia}}</ref>
+The '''1040EZ''' (officially called "Income Tax Return for Single and Joint Filers with No Dependents", but nicknamed the "easy form") is a simplified, six-section version of the 1040. Its use is limited to taxpayers with taxable income below $100,000 who take the [[standard deduction]] instead of itemizing deductions.<ref name="ez_investo">{{cite web |url=http://www.investopedia.com/ask/answers/071514/whats-difference-between-irs-forms-1040ez-and-1040a.asp |accessdate=December 31, 2015 |title=What's the difference between IRS Forms 1040EZ and 1040A? |publisher=Investopedia}}</ref>
 
 Other restrictions for 2005 include:<ref name="ez_investo" />
 
@@ -57,7 +51,7 @@ Other restrictions for 2005 include:<ref name="ez_investo" />
 * Filers must not claim any dependents (other than themselves).
 * No adjustments to income can be claimed.
 * The only credit that can be claimed is the [[Earned Income Credit]] (EIC).
-* The only income to report for the tax year consisted of wages, salaries, tips, taxable scholarship or fellowship grants, unemployment compensation, or [[Alaska Permanent Fund]] dividends, and filer's taxable interest was not over $1500.  But if the filer earned tips, including allocated tips, that are not included in box 5 and box 7 of your [[Form W-2]], filer may not be able to use Form 1040EZ.
+* The only income to report for the tax year consisted of wages, salaries, tips, taxable scholarship or fellowship grants, unemployment compensation, or [[Alaska Permanent Fund]] dividends, and filer's taxable interest was not over $1500.  But if the filer earned tips, including allocated tips, that are not included in box 5 and box 7 of one's [[Form W-2]], filer may not be able to use Form 1040EZ.
 * Filer did not receive any advanced EIC payments.
 
 For the tax year 2006, there was also the EZ-T variant. It was used to only claim the Phone Long Distance Tax credit, when they otherwise are not required to file.
@@ -66,7 +60,7 @@ For the tax year 2006, there was also the EZ-T variant. It was used to only clai
 
 [[File:F1040x 2011.pdf|thumb|Form 1040X, 2011]]
 
-The '''1040X''' (officially, the Amended U.S. Individual Tax Return) is used to make corrections on Form 1040, Form 1040A, and Form 1040EZ tax returns that have been previously filed.
+The '''1040X''' (officially, the "Amended U.S. Individual Tax Return") is used to make corrections on Form 1040, Form 1040A, and Form 1040EZ tax returns that have been previously filed.
 
 Generally for a [[tax refund]], this form must be filed within 3 years after the date that the original version was filed, or within 2 years after the date that the tax was paid, whichever is later. For a 1040X based on a bad debt or worthless security, it must be filed within 7 years after the due date of the original version. A 1040X that is filed immediately before the due date of the original version is considered "on time".
 
