@@ -138,14 +138,16 @@ Form 1040 was first introduced in 1913.<ref name="historical_highlights">{{cite 
 
 In 1954 the tax return deadline was changed to April 15.<ref name="historical_highlights" />
 
+Form 1040A was introduced in 1941 to simplify the filing process.<ref>{{cite web |url=http://www.taxhistory.org/thp/readings.nsf/ArtWeb/FD4865793851996185257D1B0041C875?OpenDocument |accessdate=December 31, 2015 |publisher=Tax History Project}}</ref>
+
 Form 1040EZ was introduced by the Internal Revenue Service for the 1982 tax year. The title of the 1982 form was "Income Tax Return for Single filers with no dependents."
 
 ==Analogs in other countries==
 
 ==In popular culture==
 
-* [https://www.cs.amherst.edu/~djv/irs.pdf If the IRS had discovered the quadratic formula …]
-* https://www.urbandictionary.com/define.php?term=1040ez+form
+* "[https://www.cs.amherst.edu/~djv/irs.pdf If the IRS had discovered the quadratic formula …]"
+* [https://www.urbandictionary.com/define.php?term=1040ez+form Urban Dictionary entry for the 1040EZ]
 
 ==References==
 {{reflist}}
