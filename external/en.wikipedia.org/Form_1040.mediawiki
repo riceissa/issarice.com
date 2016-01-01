@@ -130,7 +130,19 @@ In most situations, other [[Internal Revenue Service]] or [[Social Security Admi
 
 ==Estimated payments and withholding==
 
+For most individuals, [[Tax withholding in the United States|withholding]] is the main way through which taxes are paid. However, income that is not subject to withholding must be estimated using Form 1040-ES. (It may be possible to avoid filing Form 1040-ES by increasing one's withholding and instead filing a Form W-4.)<ref>{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040es.pdf |title=Form 1040-ES 2015: Estimated Tax for Individuals |publisher=Internal Revenue Service}}</ref>
 
+Estimated payments can be made using the [[Electronic Federal Tax Payment System]].
+
+==Payments, refunds, and penalties==
+
+{{main|IRS penalties}}
+
+There is a three-year limit to when individuals can claim a tax refund. However, payments that are due must be paid immediately.<ref name="efile_penalties">{{cite web |url=http://www.efile.com/what-are-the-penalties-for-not-filing-a-tax-return-or-not-to-pay-taxes-IRS-penalty-list/ |title=IRS Penalties for Not Filing a Tax Return or Not Paying Taxes Owed |publisher=efile.com |accessdate=December 31, 2015}}</ref>
+
+In addition it is possible to apply one's refunds to next year's taxes<ref>{{cite web |url=https://ttlc.intuit.com/questions/1901277-how-do-i-apply-my-refund-to-next-year-s-taxes |title= How do I apply my refund to next year's taxes?  |publisher=TurboTax |accessdate=December 31, 2015}}</ref> and also to change one's mind later.<ref>{{cite web |url=https://ttlc.intuit.com/questions/1901186-what-if-i-chose-to-apply-my-federal-refund-to-next-year-s-taxes-filed-and-later-changed-my-mind |title= What if I chose to apply my federal refund to next year's taxes, filed, and later changed my mind?  |accessdate=December 31, 2015 |publisher=TurboTax}}</ref>
+
+There is a penalty for not filing a tax return by April 15 that depends on whether the individual got a filing extension and the amount of unpaid taxes. However, since the maximum penalty is 25% of unpaid taxes, if an individual has paid all their taxes, there is no penalty for not filing.<ref name="efile_penalties" /><ref name="eight_facts">{{cite web |url=https://www.irs.gov/uac/Newsroom/Eight-Facts-on-Late-Filing-and-Late-Payment-Penalties |title=Eight Facts on Late Filing and Late Payment Penalties |accessdate=December 31, 2015 |date=April 18, 2013 |publisher=Internal Revenue Service}}</ref>
 
 ==History==
 
@@ -138,7 +150,7 @@ Form 1040 was first introduced in 1913.<ref name="historical_highlights">{{cite 
 
 In 1954 the tax return deadline was changed to April 15.<ref name="historical_highlights" />
 
-Form 1040A was introduced in 1941 to simplify the filing process.<ref>{{cite web |url=http://www.taxhistory.org/thp/readings.nsf/ArtWeb/FD4865793851996185257D1B0041C875?OpenDocument |accessdate=December 31, 2015 |publisher=Tax History Project}}</ref>
+Form 1040A was introduced in 1941 to simplify the filing process.<ref>{{cite web |title=Tax History: The Love-Hate Relationship With the Standard Deduction |first=Joseph J. |last=Thorndike |url=http://www.taxhistory.org/thp/readings.nsf/ArtWeb/FD4865793851996185257D1B0041C875?OpenDocument |accessdate=December 31, 2015 |publisher=Tax History Project}}</ref>
 
 Form 1040EZ was introduced by the Internal Revenue Service for the 1982 tax year. The title of the 1982 form was "Income Tax Return for Single filers with no dependents."
 
@@ -147,6 +159,8 @@ Form 1040EZ was introduced by the Internal Revenue Service for the 1982 tax year
 In the [[United Kingdom]], various returns such as the SA100 must be filed (see [[Tax return (United Kingdom)]] for more).
 
 In [[Japan]], most people do not need to file a tax return due to income withholding.<ref>{{cite web |url=http://www.japan-guide.com/e/e2206.html |title=Taxes in Japan|publisher=Japan Guide |accessdate=December 31, 2015}}</ref>
+
+See also [[List of countries by tax rates]].
 
 ==In popular culture==
 
