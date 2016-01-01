@@ -41,3 +41,4 @@ Some others:
 - Neon Genesis Evangelion OST
 - Wings Of Honneamise OST
 - "She's 22" by Norah Jones
+- The Seatbelts and *Cowboy Bebop* OST
