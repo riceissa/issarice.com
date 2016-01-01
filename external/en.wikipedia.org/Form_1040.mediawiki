@@ -60,77 +60,83 @@ Other restrictions for 2005 include:<ref name="ez_investo" />
 * The only income to report for the tax year consisted of wages, salaries, tips, taxable scholarship or fellowship grants, unemployment compensation, or [[Alaska Permanent Fund]] dividends, and filer's taxable interest was not over $1500.  But if the filer earned tips, including allocated tips, that are not included in box 5 and box 7 of your [[Form W-2]], filer may not be able to use Form 1040EZ.
 * Filer did not receive any advanced EIC payments.
 
-Many taxpayers used [[TeleFile]] to file their 1040EZ, however filing by telephone [http://www.irs.gov/efile/article/0,,id=141294,00.html has been discontinued] by the IRS as of August 16th, 2005.
-
-For Tax year 2006, there is also the EZ-T variant. It is used to only claim the Phone Long Distance Tax credit, when they otherwise are not required to file.
+For the tax year 2006, there was also the EZ-T variant. It was used to only claim the Phone Long Distance Tax credit, when they otherwise are not required to file.
 
 ===1040X===
 
 [[File:F1040x 2011.pdf|thumb|Form 1040X, 2011]]
 
-The '''Amended U.S. Individual Tax Return''', commonly known by its number '''(Form 1040X)''', is used to make corrections on [[Form 1040]], [[Form 1040A]], and [[Form 1040EZ]] tax returns that have been previously filed.
+The '''1040X''' (officially, the Amended U.S. Individual Tax Return) is used to make corrections on Form 1040, Form 1040A, and Form 1040EZ tax returns that have been previously filed.
 
 Generally for a [[tax refund]], this form must be filed within 3 years after the date that the original version was filed, or within 2 years after the date that the tax was paid, whichever is later. For a 1040X based on a bad debt or worthless security, it must be filed within 7 years after the due date of the original version. A 1040X that is filed immediately before the due date of the original version is considered "on time".
 
-Form 1040X is similar to Form 1040 except that it has three columns: One column to list the amounts from the original version, one column to list the net increase or decrease for each line being changed, and the last column to list the new amounts.
+Form 1040X is similar to Form 1040 except that it has three columns: one column to list the amounts from the original version, one column to list the net increase or decrease for each line being changed, and the last column to list the new amounts.
 
-Certain "financial timing" type changes cannot simply be made with the 1040X, and must be requested through the much more complicated form 3115 "Change of Accounting Method". The least obvious (and most common!) example of such a restricted change is in correcting past years business or rental depreciation. Beyond that, form 3115 also lists over 50 other specific change types. Many of those include classic bookkeeping concerns, such as when to recognize revenue and expenses.
+Certain "financial timing" type changes cannot simply be made with the 1040X, and must be requested through the much more complicated Form 3115 (Change of Accounting Method). The least obvious (and most common) example of such a restricted change is in correcting past years' business or rental depreciation. Beyond that, Form 3115 also lists over 50 other specific change types. Many of those include classic bookkeeping concerns, such as when to recognize revenue and expenses.
 ==Schedules and extra forms==
 
-Form 1040 has 14 attachments, called "schedules", which may need to be filed depending on the taxpayer. For 2009 and 2010 there was an additional form, {{visible anchor|Schedule M}}, due to the "[[Making Work Pay tax credit|Making Work Pay]]" provision of the [[American Recovery and Reinvestment Act of 2009]] ("the stimulus"):
+Form 1040 has 14 attachments, called "schedules", which may need to be filed depending on the taxpayer. For 2009 and 2010 there was an additional form, {{visible anchor|Schedule M}}, due to the "[[Making Work Pay tax credit|Making Work Pay]]" provision of the [[American Recovery and Reinvestment Act of 2009]] ("the stimulus").
 
 {| class="wikitable"
 |-
-! Type !! Conditions for use
+! Type !! Explanation
 |-
 | Schedule A
-| [[Itemized deduction|itemizes allowable deductions]] against income; instead of filling out Schedule A, taxpayers may choose to take a [[standard deduction]] of between $6,100 and $12,200 (for tax year 2013), depending on age, filing status, and whether the taxpayer and/or spouse is blind.
+| [[Itemized deduction|Itemizes allowable deductions]] against income; instead of filling out Schedule A, taxpayers may choose to take a [[standard deduction]] of between $6,300 and $12,600 (for tax year 2015), depending on age, filing status, and whether the taxpayer and/or spouse is blind.
 |-
 | Schedule B
-| enumerates [[interest]] and/or [[dividend]] income, and is required if either interest or dividends received during the tax year exceed $1,500 from all sources or if the filer had certain foreign accounts.
+| Enumerates [[interest]] and/or [[dividend]] income, and is required if either interest or dividends received during the tax year exceed $1,500 from all sources or if the filer had certain foreign accounts.
 |-
 | {{visible anchor|Schedule C}}
-| lists income and expenses related to self-employment, and is used by sole proprietors.
+| Lists income and expenses related to self-employment, and is used by sole proprietors.
 |-
 | Schedule D
-| is used to compute [[capital gains]] and losses incurred during the tax year.
+| Is used to compute [[capital gains]] and losses incurred during the tax year.
 |-
 | Schedule E
-| is used to report income and expenses arising from the rental of real property, royalties, or from pass-through entities (like trusts, estates, partnerships, or [[S corporations]]).
+| Is used to report income and expenses arising from the rental of real property, royalties, or from pass-through entities (like trusts, estates, partnerships, or [[S corporations]]).
 |-
 | Schedule EIC
-| is used to document a taxpayer's eligibility for the [[Earned Income Credit]].
+| Is used to document a taxpayer's eligibility for the [[Earned Income Credit]].
 |-
 | Schedule F
-| is used to report income and expenses related to farming.
+| Is used to report income and expenses related to farming.
 |-
 | Schedule H
-| is used to report taxes owed due to the employment of household help.
+| Is used to report taxes owed due to the employment of household help.
 |-
 | Schedule J
-| is used when averaging farm income over a period of three years.
+| Is used when averaging farm income over a period of three years.
 |-
 | Schedule L
-| (until 2010) was used to figure an increased standard deduction in certain cases.<ref>{{cite web |url=https://origin.bankrate.com/finance/taxes/schedule-l-schedule-m-gone.aspx |title=Schedule L and Schedule M are gone |publisher=Bankrate.com |accessdate=2013-03-10}}</ref>
+| (Until 2010) was used to figure an increased standard deduction in certain cases.<ref>{{cite web |url=https://origin.bankrate.com/finance/taxes/schedule-l-schedule-m-gone.aspx |title=Schedule L and Schedule M are gone |publisher=Bankrate.com |accessdate=2013-03-10}}</ref>
 |-
 | Schedule M
 | (2009 and 2010) was used to claim the [[Making Work Pay tax credit]] (6.2% earned income credit, up to $400).<ref>[http://www.irs.gov/pub/irs-pdf/f1040sm.pdf Schedule M], ([http://www.irs.gov/pub/irs-pdf/i1040sm.pdf Instructions])</ref>
 |-
 | Schedule R
-| is used to calculate the Credit for the Elderly or the Disabled.
+| Is used to calculate the Credit for the Elderly or the Disabled.
 |-
 | Schedule SE
-| is used to calculate the self-employment tax owed on income from self-employment (such as on a Schedule C or Schedule F, or in a partnership).
+| Is used to calculate the self-employment tax owed on income from self-employment (such as on a Schedule C or Schedule F, or in a partnership).
 |-
 | [http://www.irs.gov/pub/irs-pdf/f1040s8.pdf Schedule 8812]
-| is used to calculate the Child Tax Credit.
+| Is used to calculate the Child Tax Credit.
 |}
 
-In 2014 there were two additions to Form 1040 due to the implementation of  the [[Affordable Care Act]] – the [[premium tax credit]] and the [[individual mandate]].<ref>http://www.forbes.com/sites/ashleaebeling/2014/11/04/irs-commissioner-predicts-miserable-2015-tax-filing-season/</ref>
+In 2014 there were two additions to Form 1040 due to the implementation of  the [[Affordable Care Act]]—the [[premium tax credit]] and the [[individual mandate]].<ref>http://www.forbes.com/sites/ashleaebeling/2014/11/04/irs-commissioner-predicts-miserable-2015-tax-filing-season/</ref>
 
-In most situations, other [[Internal Revenue Service]] or [[Social Security Administration]] forms such as Form W-2 must be attached to the Form 1040, in addition to the Form 1040 schedules.  There are over 100 other, specialized forms that may need to be completed along with Schedules and the Form 1040.
+In most situations, other [[Internal Revenue Service]] or [[Social Security Administration]] forms such as Form W-2 must be attached to the Form 1040, in addition to the Form 1040 schedules.  There are over 100 other specialized forms that may need to be completed along with Schedules and the Form 1040.<ref name="listofforms">{{cite web |url=https://www.irs.gov/pub/irs-utl/taxyr2014_form1040_series_and_attachments.pdf |title=Forms &amp; Attachments Listing 1040/1040SSPR/1040-A/1040-EZ |date=September 5, 2014 |accessdate=December 31, 2015 |publisher=Internal Revenue Service}}</ref>
+
+==Estimated payments and withholding==
+
+
 
 ==History==
+
+Form 1040 was first introduced in 1913.<ref name="historical_highlights">{{cite web |url=https://www.irs.gov/uac/Historical-Highlights-of-the-IRS |title=Historical Highlights of the IRS |accessdate=December 31, 2015 |publisher=Internal Revenue Service}}</ref> With the [[Current Tax Payment Act of 1943]], income tax withholding was introduced. The [[Individual Income Tax Act of 1944]] created standard deductions on the 1040.<ref name="historical_highlights" />
+
+In 1954 the tax return deadline was changed to April 15.<ref name="historical_highlights" />
 
 Form 1040EZ was introduced by the Internal Revenue Service for the 1982 tax year. The title of the 1982 form was "Income Tax Return for Single filers with no dependents."
 
