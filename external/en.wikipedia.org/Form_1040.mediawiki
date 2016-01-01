@@ -2,9 +2,9 @@
 
 '''Form 1040''' (officially, the "U.S. Individual Income Tax Return") is one of three [[IRS tax forms]] (see [[#Variants|variants section]] for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS) and is the centerpiece of most US residents' tax returns.
 
-Income tax returns for individual calendar year taxpayers are due by April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until Oct. 15 to file Form 1040 can be obtained by filing Form 4868.
+Income tax returns for individual calendar year taxpayers are due by [[Tax Day]], which is usually April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until Oct. 15 to file Form 1040 can be obtained by filing Form 4868.
 
-Form 1040 consists of two full pages not counting attachments.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows individuals to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund. The instructions booklet for Form 1040 is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
+Form 1040 consists of two full pages not counting attachments.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. In particular, the taxpayer specifies his/her [[filing status]] and [[personal exemption (United States)|personal exemption]]s on this page. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows individuals to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund. The instructions booklet for Form 1040 is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
 
 Altogether, over 147 million returns were filed for Form 1040 in the year 2014,<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref> 80% of which were filed electronically.<ref name="f1040_2014ins"/>{{rp|4}}
 
@@ -16,9 +16,13 @@ Filed by individuals as the chief form of the annual tax return (discuss what fo
 
 Note that even if not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[Earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
 
+Form 1040 must be signed and dated in order to be considered valid. If filing jointly with a spouse, both must sign and date.<ref>{{cite web |url=https://apps.irs.gov/app/vita/content/31/31_03_005.jsp?level=basic |title=Taxpayer Signature |accessdate=January 1, 2016 |publisher=Internal Revenue Service}}</ref> If a return is submitted electronically, individuals must use either a Self-Select PIN or Practitioner PIN.<ref>{{cite web |url=https://www.irs.gov/uac/Signing-an-Electronic-Tax-Return |title=Signing an Electronic Tax Return |date=November 6, 2014 |accessdate=January 1, 2016 |publisher=Internal Revenue Service}}</ref>
+
 ==Variants==
 
 In addition to the standard Form 1040, there are also two variants: the 1040A and 1040EZ ("easy"). There is also the 1040X, which is used to make amendments to the 1040. Form 1040 and 1040A use the same line numbering up to and including line 9; Form 1040EZ uses completely different line numbering. Line numbering is important to keep in mind since many state income tax returns reference line numbers on the 1040.
+
+Additional restrictions are placed on who can use a form in going from the standard 1040 to the 1040A, and in going from the 1040A to the 1040EZ. A form with less restrictions can always be used in place of one with less restrictions, but no the other way around. [[Tax compliance software]] such as [[TurboTax]] are able to determine which form to file.<ref name="1040a_turbo" />
 
 ===1040A===
 
@@ -76,7 +80,7 @@ Form 1040 has 14 attachments, called "schedules", which may need to be filed dep
 ! Type !! Explanation
 |-
 | Schedule A
-| [[Itemized deduction|Itemizes allowable deductions]] against income; instead of filling out Schedule A, taxpayers may choose to take a [[standard deduction]] of between $6,300 and $12,600 (for tax year 2015), depending on age, filing status, and whether the taxpayer and/or spouse is blind.
+| [[Itemized deduction|Itemizes allowable deductions]] against income; instead of filling out Schedule A, taxpayers may choose to take a [[standard deduction]] of between $6,300 and $12,600 (for tax year 2015), depending on age, [[filing status]], and whether the taxpayer and/or spouse is blind.
 |-
 | Schedule B
 | Enumerates [[interest]] and/or [[dividend]] income, and is required if either interest or dividends received during the tax year exceed $1,500 from all sources or if the filer had certain foreign accounts.
