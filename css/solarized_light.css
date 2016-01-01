@@ -39,7 +39,7 @@ div#content {
 }
 
 div#navigation {
-    font-family: "Lato", Helvetica, sans-serif;
+    font-family: Lato, Helvetica, sans-serif;
     font-size: 80%;
     /* See http://stackoverflow.com/a/324553 ; this ensures that the
      navigation links (left side) and search bar (right side) play
@@ -47,15 +47,8 @@ div#navigation {
     overflow: hidden;
 }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Lato", Helvetica, sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 h2 { border-bottom: 1px solid #93a1a1; }
-
-hr {
-    border: 0 none; /* must be first */
-    border-bottom: 1px solid #93a1a1;
-    border-top: 2px solid #93a1a1;
-    height: 4px;
-}
 
 a { text-decoration: none; }
 a:link { color: #268bd2; }
