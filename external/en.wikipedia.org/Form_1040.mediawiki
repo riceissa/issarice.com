@@ -18,9 +18,9 @@ Form 1040 consists of two full pages not counting attachments. The first page co
 
 Filed by individuals as the chief form of the annual tax return (discuss what forms non-individuals file).
 
-"These rules apply to all U.S. citizens, regardless of where they live, and resident aliens."<ref name="f1040_2014ins" />{{rp|6}}
+"These rules apply to all U.S. citizens, regardless of where they live, and resident aliens."<ref name="f1040_2014ins" />{{rp|6}} Resident aliens must be "resident [aliens] of the United States for tax purposes", which means they must pass either the [[Substantial Presence Test]] or the [[Green Card Test]], although they are not limited to just these cases.<ref name="alien_tax">{{cite web |url=https://www.irs.gov/pub/irs-pdf/p519.pdf |title=U.S. Tax Guide for Aliens For use in preparing 2014 Returns |publisher=Internal Revenue Service}}</ref>{{rp|3}} Resident aliens file Form 1040, 1040A, or 1040EZ like US citizens, but nonresident aliens must file Form 1040NR or 1040NR-EZ.<ref>{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Aliens---Which-Form-to-File |title=Aliens - Which Form to File |publisher=Internal Revenue Service |accessdate=December 31, 2015}}</ref> Note that there is also a "dual status alien" for aliens whose status changed during the year.
 
-Note that although not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[Earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
+Note that even if not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[Earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
 
 ==Variants==
 
@@ -30,7 +30,7 @@ In addition to the standard Form 1040, there are also two variants: the 1040A an
 
 [[File:Form 1040a, 2011.pdf|thumb|Form 1040A, 2011]]
 
-The '''1040A''' (nicknamed the "short form") is a shorter version of the [[Form 1040]] U.S. individual income tax return. It is limited to taxpayers with taxable income below $100,000 who take the standard deduction instead of itemizing deductions.
+The '''1040A''' (nicknamed the "short form") is a shorter version of the standard Form 1040. It is limited to taxpayers with taxable income below $100,000 who take the [[standard deduction]] instead of [[itemized deduction|itemizing deductions]]. The 1040 can always be used instead of the 1040A, but the 1040A can only be used when the restrictions apply.<ref name="1040a_turbo">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/What-is-the-IRS-1040A-Form-/INF14500.html |title=What is the IRS 1040A Form? |publisher=TurboTax |accessdate=December 31, 2015}}</ref>
 
 A taxpayer who uses the 1040A tax return can only have income from the following sources:
 *Wages, salaries, and tips.
@@ -48,14 +48,13 @@ Several other restrictions apply as well.
 
 [[File:F1040ez 2011.pdf|thumb|Form 1040EZ, 2011]]
 
-The Form 1040EZ (read as "easy"), Income Tax Return for Single and Joint Filers with No Dependents, (nicknamed the "easy form") is a simplified, six-section Federal income [[tax return (United States)|tax return]], issued by the United States' [[Internal Revenue Service]]. Its use is limited to taxpayers with taxable income below $100,000 ([[As of 2007|as of tax year 2006]]) who take the [[standard deduction]] instead of itemizing deductions.
+The '''1040EZ''' (officially called Income Tax Return for Single and Joint Filers with No Dependents, but nicknamed the "easy form") is a simplified, six-section version of the 1040. Its use is limited to taxpayers with taxable income below $100,000 who take the [[standard deduction]] instead of itemizing deductions.<ref name="ez_investo">{{cite web |url=http://www.investopedia.com/ask/answers/071514/whats-difference-between-irs-forms-1040ez-and-1040a.asp |accessdate=December 31, 2015 |title=What's the difference between IRS Forms 1040EZ and 1040A? |publisher=Investopedia}}</ref>
 
-Other restrictions for 2005 include:
+Other restrictions for 2005 include:<ref name="ez_investo" />
 
 * Filing status must be single or married filing jointly.
-* Filer must be under age 65 and not blind at the end of 2005.
+* Filer must be under age 65 on January 1 and not blind at the end of the year of the filing.
 * Filers must not claim any dependents (other than themselves).
-* Taxable income must be less than $100,000.
 * No adjustments to income can be claimed.
 * The only credit that can be claimed is the [[Earned Income Credit]] (EIC).
 * The only income to report for the tax year consisted of wages, salaries, tips, taxable scholarship or fellowship grants, unemployment compensation, or [[Alaska Permanent Fund]] dividends, and filer's taxable interest was not over $1500.  But if the filer earned tips, including allocated tips, that are not included in box 5 and box 7 of your [[Form W-2]], filer may not be able to use Form 1040EZ.
