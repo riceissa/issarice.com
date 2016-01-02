@@ -4,9 +4,9 @@
 
 Income tax returns for individual calendar year taxpayers are due by [[Tax Day]], which is usually April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until Oct. 15 to file Form 1040 can be obtained by filing Form 4868.
 
-Form 1040 consists of two full pages not counting attachments.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. In particular, the taxpayer specifies his/her [[filing status]] and [[personal exemption (United States)|personal exemption]]s on this page. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows individuals to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund. The instructions booklet for Form 1040 is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
+Form 1040 consists of two full pages (79 lines in total) not counting attachments.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. In particular, the taxpayer specifies his/her [[filing status]] and [[personal exemption (United States)|personal exemption]]s on this page. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows individuals to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund. The instructions booklet for Form 1040 is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
 
-Altogether, over 147 million returns were filed for Form 1040 in the year 2014,<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref> 80% of which were filed electronically.<ref name="f1040_2014ins"/>{{rp|4}}
+Altogether, over 147 million returns were filed for Form 1040 and its variants in the year 2014,<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref> 80% of which were filed electronically.<ref name="f1040_2014ins"/>{{rp|4}}
 
 ==Filing requirements==
 
@@ -14,15 +14,17 @@ Filed by individuals as the chief form of the annual tax return (discuss what fo
 
 "These rules apply to all U.S. citizens, regardless of where they live, and resident aliens."<ref name="f1040_2014ins" />{{rp|6}} Resident aliens must be "resident [aliens] of the United States for tax purposes", which means they must pass either the [[Substantial Presence Test]] or the [[Green Card Test]], although they are not limited to just these cases.<ref name="alien_tax">{{cite web |url=https://www.irs.gov/pub/irs-pdf/p519.pdf |title=U.S. Tax Guide for Aliens For use in preparing 2014 Returns |publisher=Internal Revenue Service}}</ref>{{rp|3}} Resident aliens file Form 1040, 1040A, or 1040EZ like US citizens, but nonresident aliens must file Form 1040NR or 1040NR-EZ.<ref>{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Aliens---Which-Form-to-File |title=Aliens - Which Form to File |publisher=Internal Revenue Service |accessdate=December 31, 2015}}</ref> Note that there is also a "dual status alien" for aliens whose status changed during the year.
 
-Note that even if not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[Earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
+Note that even if not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
 
 Form 1040 must be signed and dated in order to be considered valid. If filing jointly with a spouse, both must sign and date.<ref>{{cite web |url=https://apps.irs.gov/app/vita/content/31/31_03_005.jsp?level=basic |title=Taxpayer Signature |accessdate=January 1, 2016 |publisher=Internal Revenue Service}}</ref> If a return is submitted electronically, individuals must use either a Self-Select PIN or Practitioner PIN.<ref>{{cite web |url=https://www.irs.gov/uac/Signing-an-Electronic-Tax-Return |title=Signing an Electronic Tax Return |date=November 6, 2014 |accessdate=January 1, 2016 |publisher=Internal Revenue Service}}</ref>
+
+If an individual decides not to file a return, the IRS may (after it has sent several reminders) file a substitute return. This is a "worst case scenario" for the taxpayer, since the substitute return does not consider many types of deductions and exemptions. In other words, it is still advantageous to file—either before the substitute return or in response to it—in order not to pay more than necessary.<ref>{{cite web |url=http://www.nytimes.com/2012/02/12/business/yourtaxes/irs-steps-in-for-nonfilers-at-a-potentially-high-price.html |title=If You Don’t File, Beware the Ghost Return |publisher=The New York Times |first=Charles |last=Delafuente |date=February 11, 2012 |accessdate=January 1, 2016}}</ref>
 
 ==Variants==
 
 In addition to the standard Form 1040, there are also two variants: the 1040A and 1040EZ ("easy"). There is also the 1040X, which is used to make amendments to the 1040. Form 1040 and 1040A use the same line numbering up to and including line 9; Form 1040EZ uses completely different line numbering. Line numbering is important to keep in mind since many state income tax returns reference line numbers on the 1040.
 
-Additional restrictions are placed on who can use a form in going from the standard 1040 to the 1040A, and in going from the 1040A to the 1040EZ. A form with less restrictions can always be used in place of one with less restrictions, but no the other way around. [[Tax compliance software]] such as [[TurboTax]] are able to determine which form to file.<ref name="1040a_turbo" />
+Additional restrictions are placed on who can use a form in going from the standard 1040 to the 1040A, and in going from the 1040A to the 1040EZ. A form with less restrictions can always be used in place of one with more restrictions, but not the other way around. [[Tax compliance software]] such as [[TurboTax]] are able to determine which form to file.<ref name="1040a_turbo" />
 
 ===1040A===
 
@@ -77,54 +79,68 @@ Form 1040 has 14 attachments, called "schedules", which may need to be filed dep
 
 {| class="wikitable"
 |-
-! Type !! Explanation
+! Type !! Explanation !! Lines where schedule is referenced or needed in Form 1040
 |-
 | Schedule A
 | [[Itemized deduction|Itemizes allowable deductions]] against income; instead of filling out Schedule A, taxpayers may choose to take a [[standard deduction]] of between $6,300 and $12,600 (for tax year 2015), depending on age, [[filing status]], and whether the taxpayer and/or spouse is blind.
+| 40
 |-
 | Schedule B
 | Enumerates [[interest]] and/or [[dividend]] income, and is required if either interest or dividends received during the tax year exceed $1,500 from all sources or if the filer had certain foreign accounts.
+| 8a, 9a
 |-
 | {{visible anchor|Schedule C}}
 | Lists income and expenses related to self-employment, and is used by sole proprietors.
+| 12
 |-
 | Schedule D
 | Is used to compute [[capital gains]] and losses incurred during the tax year.
+| 13
 |-
 | Schedule E
 | Is used to report income and expenses arising from the rental of real property, royalties, or from pass-through entities (like trusts, estates, partnerships, or [[S corporations]]).
+| 17
 |-
 | Schedule EIC
 | Is used to document a taxpayer's eligibility for the [[Earned Income Credit]].
+| 66a
 |-
 | Schedule F
 | Is used to report income and expenses related to farming.
+| 18
 |-
 | Schedule H
 | Is used to report taxes owed due to the employment of household help.
+| 60a
 |-
 | Schedule J
 | Is used when averaging farm income over a period of three years.
+| 44
 |-
 | Schedule L
 | (Until 2010) was used to figure an increased standard deduction in certain cases.<ref>{{cite web |url=https://origin.bankrate.com/finance/taxes/schedule-l-schedule-m-gone.aspx |title=Schedule L and Schedule M are gone |publisher=Bankrate.com |accessdate=2013-03-10}}</ref>
+| N/A
 |-
 | Schedule M
 | (2009 and 2010) was used to claim the [[Making Work Pay tax credit]] (6.2% earned income credit, up to $400).<ref>[http://www.irs.gov/pub/irs-pdf/f1040sm.pdf Schedule M], ([http://www.irs.gov/pub/irs-pdf/i1040sm.pdf Instructions])</ref>
+| N/A
 |-
 | Schedule R
 | Is used to calculate the Credit for the Elderly or the Disabled.
+| 54
 |-
 | Schedule SE
 | Is used to calculate the self-employment tax owed on income from self-employment (such as on a Schedule C or Schedule F, or in a partnership).
+| 57
 |-
 | [http://www.irs.gov/pub/irs-pdf/f1040s8.pdf Schedule 8812]
 | Is used to calculate the Child Tax Credit.
+| 52, 67
 |}
 
 In 2014 there were two additions to Form 1040 due to the implementation of  the [[Affordable Care Act]]—the [[premium tax credit]] and the [[individual mandate]].<ref>http://www.forbes.com/sites/ashleaebeling/2014/11/04/irs-commissioner-predicts-miserable-2015-tax-filing-season/</ref>
 
-In most situations, other [[Internal Revenue Service]] or [[Social Security Administration]] forms such as Form W-2 must be attached to the Form 1040, in addition to the Form 1040 schedules.  There are over 100 other specialized forms that may need to be completed along with Schedules and the Form 1040.<ref name="listofforms">{{cite web |url=https://www.irs.gov/pub/irs-utl/taxyr2014_form1040_series_and_attachments.pdf |title=Forms &amp; Attachments Listing 1040/1040SSPR/1040-A/1040-EZ |date=September 5, 2014 |accessdate=December 31, 2015 |publisher=Internal Revenue Service}}</ref>
+In most situations, other [[Internal Revenue Service]] or [[Social Security Administration]] forms such as Form W-2 must be attached to the Form 1040, in addition to the Form 1040 schedules.  There are over 100 other specialized forms that may need to be completed along with Schedules and the Form 1040.<ref name="listofforms">{{cite web |url=https://www.irs.gov/pub/irs-utl/taxyr2014_form1040_series_and_attachments.pdf |title=Forms &amp; Attachments Listing 1040/1040SSPR/1040-A/1040-EZ |date=September 5, 2014 |accessdate=December 31, 2015 |publisher=Internal Revenue Service}}</ref> However, Form 1099 need not be attached if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, employer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
 
 ==Estimated payments and withholding==
 
