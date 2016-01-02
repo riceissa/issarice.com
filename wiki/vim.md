@@ -156,6 +156,12 @@ Worse yet, Wikipedia source files tend to have entire paragraphs on single lines
 
 I think something like `9j`, etc., can work as a replacement for `Ctrl`-`d`.
 
+One hack: use `%s/.\{72}/&^G\r/g` (where `^G` is actually the control character
+for a [bell](https://en.wikipedia.org/wiki/%5EG), so enter it using `Ctrl`-`v`
+`Ctrl`-`g`) to convert a document with long lines, and then use `%s/^G\n//` to
+convert back once done (again, `^G` is a control character). I'm not certain if
+this won't corrupt the file somehow, but it seems to work...
+
 # From my old .vimrc
 
 It's sometimes interesting to read my old .vimrc to note things that I
