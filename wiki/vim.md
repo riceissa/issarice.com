@@ -160,7 +160,16 @@ One hack: use `%s/.\{72}/&^G\r/g` (where `^G` is actually the control character
 for a [bell](https://en.wikipedia.org/wiki/%5EG), so enter it using `Ctrl`-`v`
 `Ctrl`-`g`) to convert a document with long lines, and then use `%s/^G\n//` to
 convert back once done (again, `^G` is a control character). I'm not certain if
-this won't corrupt the file somehow, but it seems to work...
+this won't corrupt the file somehow, but it seems to work... This was inspired
+by the [JpFormat plugin](https://github.com/fuenor/JpFormat.vim), which
+actually probably does something rather different, but I didn't bother using
+it (I only took inspiration from the
+[screenshot](https://cca8f41b-a-62cb3a1a-s-sites.googlegroups.com/site/fudist/Home/jpformat/JpFormat.jpg)).
+Anyway, the file you are editing shouldn't have any bell characters in it (why
+would it?), because those could interfere with the regex replacement, and when
+restoring the file, a newline may be added at the very end, so the file might
+not be identical when restored.  Other than that, I haven't experienced any
+problem.
 
 # From my old .vimrc
 
