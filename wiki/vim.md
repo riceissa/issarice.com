@@ -152,24 +152,43 @@ I've always found it frustrating that Vim by default acts on physical lines inst
 Of course, mapping `j` and `k` to `gj` and `gk`, respectively (and conversely; though `Ctrl`-`n` and `Ctrl`-`p` also work for navigating physical lines), partly solves this, but page-wide navigation like `Ctrl`-`f` still act according to physical lines, and it isn't possible to sanely display partial lines (in the way that even simple editors like gedit are able to do).
 One solution, of course, is to force the burden upon the markup language: both LaTeX and Markdown allow for hard linebreaks, which means one can set `:set tw=72` and not have to think about long lines.
 But I don't consider this a very satisfactory solution, especially since I like to have each sentence on its own line in markup, which means there is the occasional long sentence and hence long line.
-Worse yet, Wikipedia source files tend to have entire paragraphs on single lines, so even if I write my markup one way, there is no way to avoid *others* from writing *their* markup a certain way.---Hence, the problem must be solved within Vim.
+Worse yet, Wikipedia source files tend to have entire paragraphs on single lines, so even if I write my markup one way, there is no way to avoid *others* from writing *their* markup a certain way---hence, the problem must be solved within Vim.
 
 I think something like `9j`, etc., can work as a replacement for `Ctrl`-`d`.
 
-One hack: use `%s/.\{72}/&^G\r/g` (where `^G` is actually the control character
-for a [bell](https://en.wikipedia.org/wiki/%5EG), so enter it using `Ctrl`-`v`
-`Ctrl`-`g`) to convert a document with long lines, and then use `%s/^G\n//` to
-convert back once done (again, `^G` is a control character). I'm not certain if
-this won't corrupt the file somehow, but it seems to work... This was inspired
-by the [JpFormat plugin](https://github.com/fuenor/JpFormat.vim), which
-actually probably does something rather different, but I didn't bother using
-it (I only took inspiration from the
-[screenshot](https://cca8f41b-a-62cb3a1a-s-sites.googlegroups.com/site/fudist/Home/jpformat/JpFormat.jpg)).
-Anyway, the file you are editing shouldn't have any bell characters in it (why
-would it?), because those could interfere with the regex replacement, and when
-restoring the file, a newline may be added at the very end, so the file might
-not be identical when restored.  Other than that, I haven't experienced any
-problem.
+One hack: use the following series of custom commands (optionally
+replacing '↵' with another rare character):
+
+```vim
+command! ShortLines :%s/.\{71}/&↵\r/g | 0
+command! ShortLinesAtSpace :%s/.\{,70} /&↵\r/g | 0
+command! LongLines :%s/↵\n// | 0
+```
+
+Use `:ShortLines` or `:ShortLinesAtSpace` to convert the document to use
+short hard linebreaks, and use `:LongLines` to convert back.  I'm not
+certain if this won't corrupt the file somehow, but it seems to work...
+This was inspired by the [JpFormat plugin](
+https://github.com/fuenor/JpFormat.vim ), which actually probably does
+something rather different, but I didn't bother using it (I only took
+inspiration from the [screenshot](
+https://cca8f41b-a-62cb3a1a-s-sites.googlegroups.com/site/fudist/Home/jpformat/JpFormat.jpg)).
+Anyway, the file you are editing shouldn't have any '↵' characters in
+it, because those could interfere with the regex replacement, and when
+restoring the file, a newline may be added at the very end, so the file
+might not be identical when restored.  Other than that, I haven't
+experienced any problems.
+
+For specific cases, like really long CSS or JSON lines, one can pass it
+through a pretty filter, like ` :%!python -m json.tool` (from [here](
+http://blog.realnitro.be/2010/12/20/format-json-in-vim-using-pythons-jsontool-module/
+)) in the case of JSON.
+
+In any case, it seems that the way Vim treats long lines is
+fundamentally broken, in the sense that the way it thinks of lines is
+stuck in the days of line-based text processing.  I really would like
+display-line versions of `Ctrl`-`e`, `Ctrl`-`d`, and `Ctrl`-`f`, in the
+same way that we have `gj` and `g$`.
 
 # From my old .vimrc
 
@@ -257,7 +276,17 @@ problems for me (cf. the Tim Pope quote above); (2) not making any
 changes to my configuration that would require different "muscle memory"
 from the default Vim/Neovim configuration---to quote Tim Pope again, I
 want to keep my changes in configuration to those which are a "[cosmetic
-improvement with no impact on muscle
-memory](https://github.com/tpope/vim-sensible/issues/81)".  In fact both
-(1) and (2) have a lot in common, and (2) might be construed as a more
+improvement with no impact on muscle memory](
+https://github.com/tpope/vim-sensible/issues/81 )".  In fact both (1)
+and (2) have a lot in common, and (2) might be construed as a more
 general formulation of (1).
+
+I used to do ` gg"+yG`` `, when the ex-mode `:%y +` is much simpler.
+
+# Other problems
+
+Despite using Vim for almost everything, I still have some problems with
+it:
+
+- The way Vim treats long lines (see section above)
+- The fact that I have to press `Enter` twice after compiling something
