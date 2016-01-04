@@ -293,4 +293,4 @@ Despite using Vim for almost everything, I still have some problems with
 it:
 
 - The way Vim treats long lines (see section above)
-- The fact that I have to press `Enter` twice after compiling something
+- The fact that I have to press `Enter` twice after compiling something (note that Neovim fixes this problem).
