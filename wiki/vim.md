@@ -1,6 +1,6 @@
 ---
 title: Vim
-#description: 
+#description:
 author: Issa Rice
 creation_date: 2015-02-28
 last_major_revision_date: 2015-08-10
@@ -12,14 +12,14 @@ belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
 tags: vim, computing
-#aliases: 
+#aliases:
 ---
 
 **Vim** is my text editor of choice.
 I started using it in 2011 (or even before that---I can't quite remember).
 It was the first "serious" text editor I tried to learn, and although I've experimented some with a few others (e.g. I downloaded emacs and went through its tutorial, I downloaded and played around with Sublime), I haven't really felt a desire to switch.
 
-This page documents some of my musings from using Vim; most of it has probably already been said elsewhere. 
+This page documents some of my musings from using Vim; most of it has probably already been said elsewhere.
 
 I probably spend too much time configuring Vim---something I've been trying to cut down on.
 
@@ -75,7 +75,7 @@ Or as [roel\_v points out](https://news.ycombinator.com/item?id=3566062) on Hack
 > disruption to undo any gains from having them in the first place.
 > Nowadays I just type comments / docblocks by hand. It's a few more
 > keystrokes, but a lot more natural and flexible.
-> 
+>
 > Also, staying as close as possible to the default settings makes it a
 > lot easier to move to other environments and/or upgrade. Although now
 > that I have my .vimrc in my Dropbox it doesn't matter as much as it
