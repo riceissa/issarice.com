@@ -184,6 +184,10 @@ through a pretty filter, like ` :%!python -m json.tool` (from [here](
 http://blog.realnitro.be/2010/12/20/format-json-in-vim-using-pythons-jsontool-module/
 )) in the case of JSON.
 
+Another hack: set `:set scrolloff=99999`. This will at least make for
+a somewhat more pleasant scrolling experience when the file is just one
+enormous line; `j` sort of replaces `Ctrl`-`e` and so forth.
+
 In any case, it seems that the way Vim treats long lines is
 fundamentally broken, in the sense that the way it thinks of lines is
 stuck in the days of line-based text processing.  I really would like
