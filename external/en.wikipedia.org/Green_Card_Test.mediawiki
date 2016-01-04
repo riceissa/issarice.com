@@ -1,1 +1,17 @@
-The '''Green Card Test''' ('''GCT''') is 
+The '''Green Card Test''' ('''GCT''') is a criterion used by the [[Internal Revenue Service]] (IRS) in the [[United States]] to determine whether an individual qualifies as a "resident for tax purposes". The GCT is used alongside the [[Substantial Presence Test]]. Specifically, an alien is considered a "resident for tax purposes" if they pass either the GCT or the Substantial Presence Test.<ref>{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/The-Green-Card-Test-and-the-Substantial-Presence-Test |title=The Green Card Test and the Substantial Presence Test |accessdate=January 4, 2016 |publisher=Internal Revenue Service}}</ref>
+
+
+
+<!-- from SPT page-->
+===Residency for tax purposes does not imply permanent residency===
+
+It is possible to be a resident for tax purposes in the United States but to ''not'' be a permanent resident of the United States. A non-citizen can be a permanent resident of the United States only if he/she holds a [[United States Permanent Resident Card|Green Card]]. On the other hand, people on non-immigrant visas may well be treated as residents for tax purposes.
+
+==Similar tests in other countries==
+
+* [[Statutory Residence Test]] in the [[United Kingdom]]
+* [[Physical presence test]], used to determine the tax status of US citizens and permanent residents who lived or earned income abroad.
+
+==References==
+
+{{reflist}}
