@@ -145,6 +145,16 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
         toJSONFilter(despan)
     ```
 
+- [This answer](http://superuser.com/a/716269) for setting the omnifunc even for languages that aren't well-supported by Vim. In particular, `:h ft-syntax-omni` contains a useful snippet:
+
+    ```vim
+    if has("autocmd") && exists("+omnifunc")
+    autocmd Filetype *
+            \    if &omnifunc == "" |
+            \        setlocal omnifunc=syntaxcomplete#Complete |
+            \    endif
+    endif
+    ```
 
 # Moving in long lines
 
