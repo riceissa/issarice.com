@@ -1,4 +1,5 @@
 '''Form 1099''' (officially, the "") is one of the 
+'''Form 1040''' (officially, the "U.S. Individual Income Tax Return") is one of three [[IRS tax forms]] (see [[#Variants|variants section]] for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS) and is the centerpiece of most US residents' tax returns.
 
 
 === 1099 series ===
