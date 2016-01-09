@@ -303,4 +303,12 @@ Despite using Vim for almost everything, I still have some problems with
 it:
 
 - The way Vim treats long lines (see section above)
-- The fact that I have to press `Enter` twice after compiling something (note that Neovim fixes this problem).
+- The fact that I have to press `Enter` twice after compiling something (note
+  that Neovim fixes this problem).
+- Using eclim for Java completion (along with YCM) results in a strange error
+  when running `:make`, even on projects that have nothing to do with Java.
+  Specifically, the first line of the quickfix list is always `error: ...`, and
+  `:cwindow` is populated with the command output. Adding `@` to each line of
+  the makefile gets rid of this error, but that's just a hack. Removing the
+  directory `~/.vim/eclim` gets rid of this issue, but then obviously I can't
+  use eclim for completions.
