@@ -1,35 +1,86 @@
-'''Form 1099''' is one of several [[IRS tax forms]] used to report various types of income other than wages, salaries, and tips (for which [[Form W-2]] is used instead).
+'''Form 1099''' is one of several [[IRS tax forms]] (see the [[#Variants|variants section]]) used to report various types of income other than wages, salaries, and tips (for which [[Form W-2]] is used instead).
 
 Examples of reportable transactions are amounts paid to a non-corporate [[independent contractor]] for services (in IRS terminology, such payments are ''nonemployee compensation''). The ubiquity of the form has also led to use of the phrase "1099 workers" or "the 1099 economy" to refer to the independent contractors themselves.<ref>Forbes, The Rise of The 1099 Economy: More Americans Are Becoming Their Own Bosses, http://www.forbes.com/sites/joelkotkin/2012/07/25/the-rise-of-the-1099-economy-more-americans-are-becoming-their-own-bosses/</ref> In 2011 the requirement has been extended by the [[Small Business Jobs Act of 2010]] to payments made by persons who receive income from rental property.
 
 Each payer must complete a Form 1099 for each covered transaction. Four copies are made: one for the payer, one for the payee, one for the IRS, and one for the State Tax Department, if required.<ref>[http://www.irs.gov/pub/irs-pdf/i1099msc.pdf IRS instructions] for form 1099, including a guide to what payments must be reported.</ref> Payers who file 250 or more Form 1099 reports must file all of them electronically with the IRS.<ref>[http://www.irs.gov/taxtopics/tc801.html Topic 801 - Who Must File Electronically], Internal Revenue Service.</ref> If the fewer than 250 requirement is met, and paper copies are filed, the IRS also requires the payer to submit a copy of Form 1096, which is a summary of information forms being sent to the IRS. The returns must be filed with the IRS by the end of February immediately following the year for which the income items or other proceeds are paid. Copies of the returns must be sent to payees, however, by the end of January. The law provides various dollar amounts under which no Form 1099 reporting requirement is imposed. For some Forms 1099, for example, no filing is required for payees who receive less than $600 from the payer during the applicable year.<ref>[http://www.irs.gov/instructions/i1099msc/ar02.html Instructions for Form 1099-MISC (2012)], Internal Revenue Service.</ref>
 
-'''Variants for Form 1099'''
+==Variants==
 
 {{As of|2011}}, several versions of Form 1099 are used, depending on the nature of the income transaction:
-* 1099-A: Acquisition or Abandonment of Secured Property
-* 1099-B: Proceeds from Broker and Barter Exchange Transactions
-* 1099-C: Cancellation of Debt
-* 1099-CAP: Changes in Corporate Control and Capital Structure
-* 1099-DIV: Dividends and Distributions
-* 1099-G: Government Payments
-* 1099-H: Health Insurance Advance Payments
-* 1099-INT: Interest Income
-* 1099-K: Merchant Card and Third Party Network Payments
-* 1099-LTC: Long-Term Care Benefits
-* 1099-MISC: Miscellaneous Income
-* 1099-OID: Original Issue Discount
-* 1099-PATR: Taxable Distributions Received From Cooperatives
-* 1099-Q: Payment from Qualified Education Programs
-* 1099-R: Distributions from Pensions, Annuities, Retirement Plans, IRAs, or Insurance Contracts
-* 1099-S: Proceeds from Real Estate Transactions
-* 1099-SA: Distributions From an HSA, Archer MSA, or Medicare Advantage MSA
-* 1042-S: Foreign Person's U.S. Source Income
-* SSA-1099: Social Security Benefit Statement
-* SSA-1042S: Social Security Benefit Statement to Nonresident Aliens
-* RRB-1099: Payments by the Railroad Retirement Board
-* RRB-1099R: Pension and Annuity Income by the [[Railroad Retirement Board]]
-* RRB-1042S: Payments by the Railroad Retirement Board to Nonresident Aliens
+
+{| class="wikitable"
+|-
+! Type !! Use
+|-
+| 1099-A
+| Acquisition or Abandonment of Secured Property
+|-
+| 1099-B
+| Proceeds from Broker and Barter Exchange Transactions
+|-
+| 1099-C
+| Cancellation of Debt
+|-
+| 1099-CAP
+| Changes in Corporate Control and Capital Structure
+|-
+| 1099-DIV
+| Dividends and Distributions
+|-
+| 1099-G
+| Government Payments
+|-
+| 1099-H
+| Health Insurance Advance Payments
+|-
+| 1099-INT
+| Interest Income
+|-
+| 1099-K
+| Merchant Card and Third Party Network Payments
+|-
+| 1099-LTC
+| Long-Term Care Benefits
+|-
+| 1099-MISC
+| Miscellaneous Income
+|-
+| 1099-OID
+| Original Issue Discount
+|-
+| 1099-PATR
+| Taxable Distributions Received From Cooperatives
+|-
+| 1099-Q
+| Payment from Qualified Education Programs
+|-
+| 1099-R
+| Distributions from Pensions, Annuities, Retirement Plans, IRAs, or Insurance Contracts
+|-
+| 1099-S
+| Proceeds from Real Estate Transactions
+|-
+| 1099-SA
+| Distributions From an HSA, Archer MSA, or Medicare Advantage MSA
+|-
+| 1042-S
+| Foreign Person's U.S. Source Income
+|-
+| SSA-1099
+| Social Security Benefit Statement
+|-
+| SSA-1042S
+| Social Security Benefit Statement to Nonresident Aliens
+|-
+| RRB-1099
+| Payments by the Railroad Retirement Board
+|-
+| RRB-1099R
+| Pension and Annuity Income by the [[Railroad Retirement Board]]
+|-
+| RRB-1042S
+| Payments by the Railroad Retirement Board to Nonresident Aliens
+|}
 
 ==References==
 {{reflist}}
