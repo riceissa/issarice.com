@@ -6,74 +6,96 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 
 ==Variants==
 
-{{As of|2011}}, several versions of Form 1099 are used, depending on the nature of the income transaction:
+{{As of|2011}}, several versions of Form 1099 are used, depending on the nature of the income transaction:<ref name="efile_1099">{{cite web |url=http://www.efile.com/what-is-form-1099-misc-income-tax-return-requirements/ |title=What Is a Form 1099? |accessdate=January 9, 2016 |publisher=efile.com}}</ref>
 
 {| class="wikitable"
 |-
-! Type !! Use
+! Form !! Use !! Minimum amount at which form is issued !! Who issues the form
 |-
 | 1099-A
 | Acquisition or Abandonment of Secured Property
+| Any amount
+| Lender<ref>{{cite web |url=https://ttlc.intuit.com/questions/1899168-what-do-i-do-with-form-1099-a |title= What do I do with Form 1099-A? |accessdate=January 9, 2016 |publisher=TurboTax}}</ref>
 |-
 | 1099-B
 | Proceeds from Broker and Barter Exchange Transactions
+| Any amount
 |-
 | 1099-C
 | Cancellation of Debt
+| $600
 |-
 | 1099-CAP
 | Changes in Corporate Control and Capital Structure
+| $100 million
 |-
 | 1099-DIV
 | Dividends and Distributions
+| $10 ($600 for liquidations)
 |-
 | 1099-G
 | Government Payments
+| $10
 |-
 | 1099-H
 | Health Insurance Advance Payments
+| Any amount
 |-
 | 1099-INT
 | Interest Income
+| $10 ($600 for some interest)
 |-
 | 1099-K
 | Merchant Card and Third Party Network Payments
+| $20,000
 |-
 | 1099-LTC
 | Long-Term Care Benefits
+| Any amount
 |-
 | 1099-MISC
 | Miscellaneous Income
+| $600 for non-employee compensation ($10 for most others)
+| Employer
 |-
 | 1099-OID
 | Original Issue Discount
+| $10
 |-
 | 1099-PATR
 | Taxable Distributions Received From Cooperatives
+| $10
 |-
 | 1099-Q
 | Payment from Qualified Education Programs
+| Any amount
 |-
 | 1099-R
 | Distributions from Pensions, Annuities, Retirement Plans, IRAs, or Insurance Contracts
+| $10
 |-
 | 1099-S
 | Proceeds from Real Estate Transactions
+| $600
 |-
 | 1099-SA
 | Distributions From an HSA, Archer MSA, or Medicare Advantage MSA
+| Any amount
 |-
 | 1042-S
 | Foreign Person's U.S. Source Income
+| 
 |-
 | SSA-1099
 | Social Security Benefit Statement
+| Any amount
 |-
 | SSA-1042S
 | Social Security Benefit Statement to Nonresident Aliens
 |-
 | RRB-1099
 | Payments by the Railroad Retirement Board
+| Any amount
 |-
 | RRB-1099R
 | Pension and Annuity Income by the [[Railroad Retirement Board]]
@@ -84,3 +106,5 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 
 ==References==
 {{reflist}}
+
+__FORCETOC__
