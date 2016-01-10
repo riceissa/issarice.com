@@ -89,6 +89,7 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 | SSA-1099
 | Social Security Benefit Statement
 | Any amount
+| [[Social Security Administration]]<ref>{{cite web |url=https://faq.ssa.gov/link/portal/34011/34019/Article/3706/How-can-I-get-a-form-SSA-1099-1042S-Social-Security-Benefit-Statement |title=How can I get a form SSA-1099/1042S, Social Security Benefit Statement? |accessdate=January 9, 2016 |publisher=Social Security Administration}}</ref>
 |-
 | SSA-1042S
 | Social Security Benefit Statement to Nonresident Aliens
