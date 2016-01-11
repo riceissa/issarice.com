@@ -38,6 +38,8 @@ you can see it [here](https://ja.wikipedia.org/wiki/%E5%8A%B9%E6%9E%9C%E7%9A%84%
 stronger command of Japanese can come along and do the rest/fix up my
 mistakes).
 - [Timeline of online dating services](https://en.wikipedia.org/wiki/Timeline_of_online_dating_services)
+- Form 1040 and Form 1099
+- See [Pages created by Issa Rice](http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths) and [Pages edited significantly but not created by Issa Rice](http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths) on Wikipedia Views.
 
 # See also
 
