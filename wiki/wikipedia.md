@@ -26,6 +26,9 @@ I've been a reader of Wikipedia for a long time, but only recently started contr
 # Contributions
 
 Here I list my main contributions.
+See also [Pages created by Issa Rice](http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths) and [Pages edited significantly but not created by Issa Rice](http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths) on Wikipedia Views.
+I might not update this page often, but usually either this page or Wikipedia Views should list my major contributions.
+If listed in neither place, then my contributions pages (on Wikipedia itself) are the definitive source.
 
 - [A Plus \(aplus\.com\)](https://en.wikipedia.org/wiki/A_Plus_(aplus.com)).
 This is my biggest contribution so far.
@@ -39,7 +42,6 @@ stronger command of Japanese can come along and do the rest/fix up my
 mistakes).
 - [Timeline of online dating services](https://en.wikipedia.org/wiki/Timeline_of_online_dating_services)
 - Form 1040 and Form 1099
-- See [Pages created by Issa Rice](http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths) and [Pages edited significantly but not created by Issa Rice](http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths) on Wikipedia Views.
 
 # See also
 
