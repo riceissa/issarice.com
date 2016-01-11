@@ -129,7 +129,7 @@ In any case, the payee-taxpayer remains responsible for filing an accurate Feder
 |-
 | RRB-1099-R
 | Pension and Annuity Income by the Railroad Retirement Board
-| Any amount<ref>{{cite web |url=https://www.irs.gov/pub/irs-pdf/p575.pdf |title=Publication 575: Pension and Annuity Income, For use in preparing 2015 Returns |Publication=Internal Revenue Service |accessdate=January 11, 2016}}</ref>{{rp|6}} (no amount listed in Publication 575)
+| Any amount<ref>{{cite web |url=https://www.irs.gov/pub/irs-pdf/p575.pdf |title=Publication 575: Pension and Annuity Income, For use in preparing 2015 Returns |publisher=Internal Revenue Service |accessdate=January 11, 2016}}</ref>{{rp|6}} (no amount listed in Publication 575)
 | Railroad Retirement Board
 |}
 
