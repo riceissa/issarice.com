@@ -48,6 +48,7 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 | 1099-B
 | Proceeds from Broker and Barter Exchange Transactions
 | Any amount
+| Broker or barter exchange<ref>{{cite web |url=https://www.irs.gov/instructions/i1099b/ar02.html |title=Instructions for Form 1099-B - Main Contents |accessdate=January 11, 2016 |publisher=Internal Revenue Service}}</ref>
 |-
 | 1099-C
 | Cancellation of Debt
@@ -76,6 +77,7 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 | 1099-K
 | Merchant Card and Third Party Network Payments
 | $20,000
+| Banks and other payment processors<ref name="wang_2011">{{cite web |url=http://blog.turbotax.intuit.com/income-and-investments/what-are-the-different-1099-forms-7900/ |accessdate=January 11, 2016 |title=What Are the Different 1099 Tax Forms? |date=November 16, 2011 |first=Jim |last=Wang}}</ref>
 |-
 | 1099-LTC
 | Long-Term Care Benefits
