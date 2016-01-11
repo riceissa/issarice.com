@@ -110,11 +110,12 @@ In any case, the payee-taxpayer remains responsible for filing an accurate Feder
 | 1099-S
 | Proceeds from Real Estate Transactions
 | $600
-| The person responsible for closing the transaction; if no one is responsible for closing the transaction, then in order: the mortgage lender, the transferor's broker, the transferee's broker, or the transferee<ref>{{cite web |url=https://www.irs.gov/instructions/i1099s/ar02.html |title=Instructions for Form 1099-S - Main Contents |accessdate=January 11, 2016}}</ref>
+| Person responsible for closing the transaction; if no one is responsible for closing the transaction, then in order: the mortgage lender, the transferor's broker, the transferee's broker, or the transferee<ref>{{cite web |url=https://www.irs.gov/instructions/i1099s/ar02.html |title=Instructions for Form 1099-S - Main Contents |accessdate=January 11, 2016}}</ref>
 |-
 | 1099-SA
 | Distributions From an HSA, Archer MSA, or Medicare Advantage MSA
 | Any amount
+| Institution that administers the HSA or MSA<ref>{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/What-Is-IRS-Form-1099-SA--Distributions-from-an-HSA--Archer-MSA--or-Medicare-Advantage-MSA-/INF19968.html |title=What Is IRS Form 1099-SA: Distributions from an HSA, Archer MSA, or Medicare Advantage MSA? |publisher=TurboTax |accessdate=January 11, 2016 |date=2015}}</ref>
 |-
 | SSA-1099
 | Social Security Benefit Statement
@@ -122,11 +123,14 @@ In any case, the payee-taxpayer remains responsible for filing an accurate Feder
 | [[Social Security Administration]]<ref>{{cite web |url=https://faq.ssa.gov/link/portal/34011/34019/Article/3706/How-can-I-get-a-form-SSA-1099-1042S-Social-Security-Benefit-Statement |title=How can I get a form SSA-1099/1042S, Social Security Benefit Statement? |accessdate=January 9, 2016 |publisher=Social Security Administration}}</ref>
 |-
 | RRB-1099
-| Payments by the Railroad Retirement Board
+| Payments by the [[Railroad Retirement Board]]
 | Any amount
+| Railroad Retirement Board<ref>{{cite web |url=http://www.rrb.gov/forms/PandS/tax/tl1099.asp |title=Form RRB 1099 Tax Statement General Information |accessdate=January 11, 2016 |publisher=U.S. Railroad Retirement Board}}</ref>
 |-
-| RRB-1099R
-| Pension and Annuity Income by the [[Railroad Retirement Board]]
+| RRB-1099-R
+| Pension and Annuity Income by the Railroad Retirement Board
+| Any amount<ref>{{cite web |url=https://www.irs.gov/pub/irs-pdf/p575.pdf |title=Publication 575: Pension and Annuity Income, For use in preparing 2015 Returns |Publication=Internal Revenue Service |accessdate=January 11, 2016}}</ref>{{rp|6}} (no amount listed in Publication 575)
+| Railroad Retirement Board
 |}
 
 ==See also==
