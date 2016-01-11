@@ -1,36 +1,28 @@
-'''Form 1099''' is one of several [[IRS tax forms]] (see the [[#Variants|variants section]]) used to report various types of income other than wages, salaries, and tips (for which [[Form W-2]] is used instead).
-
-'''Form 1099''' is a form promulgated by the [[Internal Revenue Service]] (IRS) and is used in the [[United States]] [[income tax]] system to prepare and file an ''information return'' to report various types of income other than wages, salaries, and tips (for which [[Social Security Administration]] [[Form W-2]] is used instead). The term ''information return'' is used in contrast to the term ''tax return'' although the latter term is sometimes used colloquially to describe both kinds of returns.
-
-Each payer must complete a 1099 for each covered transaction. Three copies are made: one for the payer, one for the payee, and one for the IRS.
+'''Form 1099''' is one of several [[IRS tax forms]] (see the [[#Variants|variants section]]) used to prepare and file an ''information return'' to report various types of income other than wages, salaries, and tips (for which [[Form W-2]] is used instead). The term ''information return'' is used in contrast to the term ''tax return'' although the latter term is sometimes used colloquially to describe both kinds of returns.
 
 ==Examples of uses of Form 1099==
 
-A notable use of Form 1099 is to report amounts paid to [[independent contractor]]s (in IRS terminology, such payments are ''nonemployee compensation''). The ubiquity of the form has also led to use of the phrase "1099" to refer to contractors themselves. U.S. tax law requires businesses to submit a Form 1099 for every contractor paid more than $600 for services during a year. This requirement usually does not apply to corporations receiving payments.
+A notable use of Form 1099 is to report amounts paid to a non-corporate [[independent contractor]] for services (in IRS terminology, such payments are ''nonemployee compensation''). The ubiquity of the form has also led to use of the phrase "1099 workers" or "the 1099 economy" to refer to the independent contractors themselves.<ref>Forbes, The Rise of The 1099 Economy: More Americans Are Becoming Their Own Bosses, http://www.forbes.com/sites/joelkotkin/2012/07/25/the-rise-of-the-1099-economy-more-americans-are-becoming-their-own-bosses/</ref> U.S. tax law requires businesses to submit a Form 1099 for every contractor paid more than $600 for services during a year. This requirement usually does not apply to corporations receiving payments.
 
-Many businesses and organizations must file thousands of 1099s per year. Thus, payers who file 250 or more Form 1099 reports must file all of them electronically or magnetically with the IRS.  For further information refer to Publication 1220, Specifications for Filing Forms 1098, 1099, 5498 and W-2G Magnetically or Electronically or Publication 1187, Specifications for Filing Form 1042-S, Foreign Person's U.S. Source Income Subject to Withholding. (http://www.irs.gov/pub/irs-pdf/p1220.pdf)   Please note, the IRS no longer accepts 3 1/2-inch [[diskettes]] for filing information returns.  For tax year 2008 forms filed in calendar year 2009, IRS will no longer accept [[tape cartridge]]s for the filing of information returns. Electronic filing will be the ONLY acceptable method to file information returns at ECC-MTB.
+In 2011 the requirement has been extended by the [[Small Business Jobs Act of 2010]] to payments made by persons who receive income from rental property.
 
-Form 1099 is also used to report interest (1099-INT), dividends (1099-DIV), sales proceeds (1099-B) and some kinds of miscellaneous income (1099-MISC).  Blank Form 1099s and the related instructions to the forms can be downloaded from the IRS website (http://www.irs.ustreas.gov/formspubs/lists/0,,id=97817,00.html).
+Form 1099 is also used to report interest (1099-INT), dividends (1099-DIV), sales proceeds (1099-B) and some kinds of miscellaneous income (1099-MISC).  Blank Form 1099s and the related instructions to the forms can be downloaded from the IRS website.
 
 Payees use the information provided on the 1099 forms to help them complete their own [[Tax return (United States)|tax returns]]. In order to save paper, payers can give payees one single '''Combined Form 1099''' that lists all of their 1099 transactions for the entire year. Taxpayers are usually not required to attach Form 1099s to their own Federal income tax returns unless the Form 1099 includes a report for Federal income tax withheld by the payer from the related payments.
 
 ==Filing requirements==
 
-The form is used to report income, proceeds, etc., only on a calendar year (January 1 through December 31) basis, regardless of the fiscal year used by the payer or payee for other Federal tax purposes. The returns must be filed with the IRS by the end of February immediately following the year for which the income items or other proceeds are paid. Copies of the returns must be sent to payees, however, by the end of January.
+Each payer must complete a Form 1099 for each covered transaction. Four copies are made: one for the payer, one for the payee, one for the IRS, and one for the State Tax Department, if required.<ref>[http://www.irs.gov/pub/irs-pdf/i1099msc.pdf IRS instructions] for form 1099-MISC, including a guide to what payments must be reported.</ref> Payers who file 250 or more Form 1099 reports must file all of them electronically with the IRS.<ref>[http://www.irs.gov/taxtopics/tc801.html Topic 801 - Who Must File Electronically], Internal Revenue Service.</ref> If the fewer than 250 requirement is met, and paper copies are filed, the IRS also requires the payer to submit a copy of Form 1096, which is a summary of information forms being sent to the IRS. The returns must be filed with the IRS by the end of February immediately following the year for which the income items or other proceeds are paid. Copies of the returns must be sent to payees, however, by the end of January.
 
-The law provides various dollar amounts under which no Form 1099 reporting requirement is imposed. For some Form 1099s, for example, no filing is required for payees who receive less than $600 from the payer during the applicable year.
+The law provides various dollar amounts under which no Form 1099 reporting requirement is imposed. For some variants of Form 1099, for example, no filing is required for payees who receive less than $600 from the payer during the applicable year.<ref>[http://www.irs.gov/instructions/i1099msc/ar02.html Instructions for Form 1099-MISC (2012)], Internal Revenue Service.</ref> See the table in the [[#Variants|variants]] section for specific minimum amounts for each form.
+
+The form is used to report income, proceeds, etc., only on a [[calendar year]] (January 1 through December 31) basis, regardless of the fiscal year used by the payer or payee for other Federal tax purposes.
 
 The issuance or non-issuance of a Form 1099 in a particular case is not determinative of the tax treatment required of the payee. Each payee-taxpayer is legally responsible for reporting the correct amount of total income on his or her own Federal income tax return regardless of whether a Form 1099 was filed.
 
-For a variety of reasons some Form 1099 reports may include amounts that are not actually taxable to the payee. A typical example is Form 1099-S for reporting '''proceeds''' (not gain) from real estate transactions. The Form 1099-S preparer will report the sales proceeds without regard to the amount of the taxpayer's "basis" in the real estate sold. (Basis is usually the amount of cost incurred by the taxpayer when he or she acquired the property, perhaps years before the sale). The taxpayer's basis amount is deducted by the taxpayer (on his or her own tax return) from the proceeds amount to determine the gain (if any) on the sale.
+For a variety of reasons some Form 1099 reports may include amounts that are not actually taxable to the payee. A typical example is Form 1099-S for reporting proceeds (not gain) from real estate transactions. The Form 1099-S preparer will report the sales proceeds without regard to the amount of the taxpayer's "basis" in the real estate sold. (Basis is usually the amount of cost incurred by the taxpayer when he or she acquired the property, perhaps years before the sale.) The taxpayer's basis amount is deducted by the taxpayer (on his or her own tax return) from the proceeds amount to determine the gain (if any) on the sale.
 
 In any case, the payee-taxpayer remains responsible for filing an accurate Federal income tax return.
-
-
-
-Examples of reportable transactions are amounts paid to a non-corporate [[independent contractor]] for services (in IRS terminology, such payments are ''nonemployee compensation''). The ubiquity of the form has also led to use of the phrase "1099 workers" or "the 1099 economy" to refer to the independent contractors themselves.<ref>Forbes, The Rise of The 1099 Economy: More Americans Are Becoming Their Own Bosses, http://www.forbes.com/sites/joelkotkin/2012/07/25/the-rise-of-the-1099-economy-more-americans-are-becoming-their-own-bosses/</ref> In 2011 the requirement has been extended by the [[Small Business Jobs Act of 2010]] to payments made by persons who receive income from rental property.
-
-Each payer must complete a Form 1099 for each covered transaction. Four copies are made: one for the payer, one for the payee, one for the IRS, and one for the State Tax Department, if required.<ref>[http://www.irs.gov/pub/irs-pdf/i1099msc.pdf IRS instructions] for form 1099, including a guide to what payments must be reported.</ref> Payers who file 250 or more Form 1099 reports must file all of them electronically with the IRS.<ref>[http://www.irs.gov/taxtopics/tc801.html Topic 801 - Who Must File Electronically], Internal Revenue Service.</ref> If the fewer than 250 requirement is met, and paper copies are filed, the IRS also requires the payer to submit a copy of Form 1096, which is a summary of information forms being sent to the IRS. The returns must be filed with the IRS by the end of February immediately following the year for which the income items or other proceeds are paid. Copies of the returns must be sent to payees, however, by the end of January. The law provides various dollar amounts under which no Form 1099 reporting requirement is imposed. For some Forms 1099, for example, no filing is required for payees who receive less than $600 from the payer during the applicable year.<ref>[http://www.irs.gov/instructions/i1099msc/ar02.html Instructions for Form 1099-MISC (2012)], Internal Revenue Service.</ref>
 
 ==Variants==
 
@@ -53,26 +45,32 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 | 1099-C
 | Cancellation of Debt
 | $600
+| Lender<ref>{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/When-to-Use-Tax-Form-1099-C-for-Cancellation-of-Debt/INF22442.html |title=When to Use Tax Form 1099-C for Cancellation of Debt |accessdate=January 11, 2016}}</ref>
 |-
 | 1099-CAP
 | Changes in Corporate Control and Capital Structure
 | $100 million
+| Corporation<ref>{{cite web |url=https://www.irs.gov/instructions/i1099cap/ar02.html |title=Instructions for Form 1099-CAP - Main Contents |accessdate=January 11, 2016 |publisher=Internal Revenue Service}}</ref>
 |-
 | 1099-DIV
 | Dividends and Distributions
 | $10 ($600 for liquidations)
+| Investment fund company<ref>{{cite web |url=http://www.investopedia.com/terms/f/form1099div.asp |accessdate=January 11, 2016 |title=Form 1099-DIV |publisher=Investopedia}}</ref>
 |-
 | 1099-G
 | Government Payments
 | $10
+| Government agency<ref>{{cite web|url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/What-Is-a-1099-G-Tax-Form-/INF19724.html |title=What Is a 1099-G Tax Form? |publisher=TurboTax |date=2015 |accessdate=January 11, 2016}}</ref>
 |-
 | 1099-H
 | Health Insurance Advance Payments
 | Any amount
+| Provider of health insurance coverage<ref>{{cite web |url=https://www.irs.gov/instructions/i1099h/ar02.html |title=Instructions for Form 1099-H - Main Contents |accessdate=January 11, 2016 |publisher=Internal Revenue Service}}</ref>
 |-
 | 1099-INT
 | Interest Income
 | $10 ($600 for some interest)
+| Payer of interest income<ref>{{cite web |url=http://www.investopedia.com/terms/f/form-1099-int.asp |title=Form 1099-INT |publisher=Investopedia |accessdate=January 11, 2016}}</ref> (usually a bank, financial institution, or government<ref>{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/Filing-Tax-Form-1099-INT--Interest-Income/INF19489.html |title=Filing Tax Form 1099-INT: Interest Income |publisher=TurboTax |accessdate=January 11, 2016 |date=2015}}</ref>)
 |-
 | 1099-K
 | Merchant Card and Third Party Network Payments
@@ -82,6 +80,7 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 | 1099-LTC
 | Long-Term Care Benefits
 | Any amount
+| Insurance company<ref>{{cite web |url=http://www.aaltci.org/long-term-care-insurance/learning-center/1099-LTC-tax-reporting-long-term-care.php |title=1099 LTC - IRS Form Reporting Long Term Care Insurance Benefit Payments Understanding IRS Form 1099 LTC |publisher=American Association for Long-Term Care Insurance |accessdate=January 11, 2016}}</ref>
 |-
 | 1099-MISC
 | Miscellaneous Income
@@ -91,22 +90,27 @@ Each payer must complete a Form 1099 for each covered transaction. Four copies a
 | 1099-OID
 | Original Issue Discount
 | $10
+| Issuer of the debt instrument or broker<ref>{{cite web |url=https://www.1099fire.com/learning_center/general_instructions/whatis/1099oid.htm |title= What is IRS Form 1099-OID? |accessdate=January 11, 2016 |publisher=1099FIRE}}</ref>
 |-
 | 1099-PATR
 | Taxable Distributions Received From Cooperatives
 | $10
+| Cooperative<ref>{{cite web |url=https://ttlc.intuit.com/questions/1900886-form-1099-patr-taxable-distributions-received-from-cooperatives |title=Form 1099-PATR, Taxable Distributions Received From Cooperatives |accessdate=January 11, 2016}}</ref>
 |-
 | 1099-Q
 | Payment from Qualified Education Programs
 | Any amount
+| Administrator or bank that manages one's [[529 plan]] or [[Coverdell ESA]]<ref>{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/What-Is-IRS-Form-1099-Q-/INF14817.html |title=What Is IRS Form 1099-Q? |date=2015 |accessdate=January 11, 2016 |publisher=TurboTax}}</ref>
 |-
 | 1099-R
 | Distributions from Pensions, Annuities, Retirement Plans, IRAs, or Insurance Contracts
 | $10
+| [[Custodian bank|Custodian]]<ref>{{cite web |url=http://www.investopedia.com/terms/f/form1099r.asp |title=Form 1099-R |accessdate=January 11, 2016 |publisher=Investopedia}}</ref>
 |-
 | 1099-S
 | Proceeds from Real Estate Transactions
 | $600
+| The person responsible for closing the transaction; if no one is responsible for closing the transaction, then in order: the mortgage lender, the transferor's broker, the transferee's broker, or the transferee<ref>{{cite web |url=https://www.irs.gov/instructions/i1099s/ar02.html |title=Instructions for Form 1099-S - Main Contents |accessdate=January 11, 2016}}</ref>
 |-
 | 1099-SA
 | Distributions From an HSA, Archer MSA, or Medicare Advantage MSA
