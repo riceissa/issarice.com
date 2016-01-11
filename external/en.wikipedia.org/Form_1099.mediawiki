@@ -116,17 +116,10 @@ In any case, the payee-taxpayer remains responsible for filing an accurate Feder
 | Distributions From an HSA, Archer MSA, or Medicare Advantage MSA
 | Any amount
 |-
-| 1042-S
-| Foreign Person's U.S. Source Income
-| 
-|-
 | SSA-1099
 | Social Security Benefit Statement
 | Any amount
 | [[Social Security Administration]]<ref>{{cite web |url=https://faq.ssa.gov/link/portal/34011/34019/Article/3706/How-can-I-get-a-form-SSA-1099-1042S-Social-Security-Benefit-Statement |title=How can I get a form SSA-1099/1042S, Social Security Benefit Statement? |accessdate=January 9, 2016 |publisher=Social Security Administration}}</ref>
-|-
-| SSA-1042S
-| Social Security Benefit Statement to Nonresident Aliens
 |-
 | RRB-1099
 | Payments by the Railroad Retirement Board
@@ -134,9 +127,6 @@ In any case, the payee-taxpayer remains responsible for filing an accurate Feder
 |-
 | RRB-1099R
 | Pension and Annuity Income by the [[Railroad Retirement Board]]
-|-
-| RRB-1042S
-| Payments by the Railroad Retirement Board to Nonresident Aliens
 |}
 
 ==See also==
