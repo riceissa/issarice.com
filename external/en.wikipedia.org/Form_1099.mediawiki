@@ -145,5 +145,5 @@ The form is used to report income, proceeds, etc., only on a [[calendar year]] (
 ==References==
 {{reflist|2}}
 
-<pre>[[Category:United States government forms|1099]]
-[[Category:Internal Revenue Service|1099]]</pre>
+[[Category:United States government forms|1099]]
+[[Category:Internal Revenue Service|1099]]
