@@ -26,7 +26,7 @@ In any case, the payee-taxpayer remains responsible for filing an accurate Feder
 
 ==Variants==
 
-{{As of|2011}}, several versions of Form 1099 are used, depending on the nature of the income transaction:<ref name="efile_1099">{{cite web |url=http://www.efile.com/what-is-form-1099-misc-income-tax-return-requirements/ |title=What Is a Form 1099? |accessdate=January 9, 2016 |publisher=efile.com}}</ref>
+{{As of|2015}}, several versions of Form 1099 are used, depending on the nature of the income transaction:<ref name="efile_1099">{{cite web |url=http://www.efile.com/what-is-form-1099-misc-income-tax-return-requirements/ |title=What Is a Form 1099? |accessdate=January 9, 2016 |publisher=efile.com}}</ref>
 
 {| class="wikitable"
 |-
@@ -149,7 +149,7 @@ In any case, the payee-taxpayer remains responsible for filing an accurate Feder
 * [http://www.wisegeek.com/what-is-a-1099-form.htm What is a 1099 Form?]
 
 ==References==
-{{reflist}}
+{{reflist|2}}
 
 <pre>[[Category:United States government forms|1099]]
 [[Category:Internal Revenue Service|1099]]</pre>
