@@ -29,7 +29,7 @@
 | rating         = <!-- for BANKS ONLY -->
 | website        = {{URL|triplebyte.com}}
 
-}}'''Triplebyte''' is a [[Recruitment|recruiting]] company whose focus is on technical recruiting.<ref name="tc">{{cite web |url=http://techcrunch.com/2015/05/07/triplebyte/ |accessdate=January 12, 2016 |publisher=TechCrunch |date=May 7, 2015 |first=Kim-Mai |last=Cutler |title=Former YC Partner Harj Taggar Is Building The New Technical Hiring Pipeline With TripleByte}}</ref> The company tries to reduce reliance on 
+}}'''Triplebyte''' is a [[Recruitment|recruiting]] company whose focus is on technical recruiting.<ref name="tc">{{cite web |url=http://techcrunch.com/2015/05/07/triplebyte/ |accessdate=January 12, 2016 |publisher=TechCrunch |date=May 7, 2015 |first=Kim-Mai |last=Cutler |title=Former YC Partner Harj Taggar Is Building The New Technical Hiring Pipeline With TripleByte}}</ref> The company tries to reduce reliance on whiteboard programming questions and resume screening.
 
 
 ==History==
