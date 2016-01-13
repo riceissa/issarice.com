@@ -1,9 +1,40 @@
-'''Triplebyte''' is a [[Recruitment|recruiting]] company whose focus is on technical recruiting.<ref name="tc">{{cite web |url=http://techcrunch.com/2015/05/07/triplebyte/ |accessdate=January 12, 2016 |publisher=TechCrunch |date=May 7, 2015 |first=Kim-Mai |last=Cutler |title=Former YC Partner Harj Taggar Is Building The New Technical Hiring Pipeline With TripleByte}}</ref>
+{{Infobox company
+| name           = Triplebyte
+| logo           = 
+| logo_size      = 
+| logo_alt       = 
+| logo_caption   = 
+| logo_padding   = 
+| image          = 
+| image_size     = 
+| image_alt      = 
+| image_caption  = 
+| native_name    = 
+| native_name_lang =  <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{lang|[code]|[name]}}. -->
+| former_name    = 
+| type           = 
+| industry       = Tech recruiting
+| founded        =     <!-- if known: {{start date|YYYY|MM|DD}} in [[city]], [[country]] -->
+| founders       =  Harj Taggar (CEO), Ammon Bartram (Chief Data Officer), and Guillaume Luccisano
+| hq_location    = 
+| hq_location_city = [[San Francisco]]<ref>{{cite web |url= https://www.crunchbase.com/organization/triplebyte |title= Triplebyte |publisher=CrunchBase}}</ref>
+| hq_location_country = 
+| area_served    =     <!-- or: | areas_served = -->
+| key_people     = 
+| products       = 
+| brands         = 
+| services       = 
+| owner          =               <!-- or: | owners = -->
+| ratio          = <!-- for BANKS ONLY -->
+| rating         = <!-- for BANKS ONLY -->
+| website        = {{URL|triplebyte.com}}
+
+}}'''Triplebyte''' is a [[Recruitment|recruiting]] company whose focus is on technical recruiting.<ref name="tc">{{cite web |url=http://techcrunch.com/2015/05/07/triplebyte/ |accessdate=January 12, 2016 |publisher=TechCrunch |date=May 7, 2015 |first=Kim-Mai |last=Cutler |title=Former YC Partner Harj Taggar Is Building The New Technical Hiring Pipeline With TripleByte}}</ref> The company tries to reduce reliance on 
 
 
 ==History==
 
-Triplebyte was founded by [[Harj Taggar]] ([[CEO]]), Ammon Bartram (Chief Data Officer), and Guillaume Luccisano ([[chief technology officer]]).<ref name="about_page">{{cite web |url=https://triplebyte.com/about |title=About Triplebyte |accessdate=January 12, 2016}}</ref>
+Triplebyte was founded by [[Harj Taggar]] ([[CEO]]), Ammon Bartram (Chief Data Officer), and Guillaume Luccisano ([[chief technology officer]]).<ref name="about_page">{{cite web |url=https://triplebyte.com/about |title=About Triplebyte |accessdate=January 12, 2016}}</ref><ref name="angellist">{{cite web |url=https://angel.co/triplebyte |title=Triplebyte |accessdate=January 12, 2016 |publisher=AngelList}}</ref>
 
 In September 2015, the company raised $3 million.<ref name="tc_3m">{{cite web |url=http://techcrunch.com/2015/09/28/triplebyte-3m/ |title=Triplebyte, The Technical Recruiting Platform From Former YC Partner Harj Taggar, Raises $3M |first=Kim-Mai |last=Cutler |accessdate=January 12, 2016 |date=September 28, 2015}}</ref>
 
