@@ -1,0 +1,16 @@
+'''Triplebyte''' is a recruiting company whose focus is on technical recruiting.<ref name="tc">{{cite web |url=http://techcrunch.com/2015/05/07/triplebyte/ |accessdate=January 12, 2016 |publisher=TechCrunch |date=May 7, 2015 |first=Kim-Mai |last=Cutler |title=Former YC Partner Harj Taggar Is Building The New Technical Hiring Pipeline With TripleByte}}</ref>
+
+
+==History==
+
+Triplebyte was founded by Harj Tagger ([[CEO]]), Ammon Bartram (Chief Data Officer), and Guillaume Luccisano ([[chief technology officer]]).<ref name="about_page">{{cite web |url=https://triplebyte.com/about |title=About Triplebyte |accessdate=January 12, 2016}}</ref>
+
+==Business model==
+
+Triplebyte takes 25% of the first-year salary of those it helps to hire, with a six-month period for refunds.<ref name=tc" />
+
+==See also==
+
+==References==
+
+{{reflist|2}}
