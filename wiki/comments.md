@@ -278,3 +278,11 @@ site.  Here are some of the better ones.
     > In other words, I started to feel like comments are just not that useful
     > anymore (caveat lector: see below) and that having a special technology
     > for it seems overkill.
+
+- "[The internet has made defensive writers of us all](https://pchiusano.github.io/2014-10-11/defensive-writing.html)":
+
+    > At times I’ve been tempted to just turn off comments entirely on my blog,
+    > and just flat out avoid participating in comment threads on the web, but
+    > this feels like throwing the baby out with the bathwater. Despite the
+    > signal to noise ratio, there are conversations and exchanges that make
+    > talking about things on the web worth it to me.

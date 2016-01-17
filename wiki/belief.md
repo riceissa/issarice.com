@@ -146,3 +146,17 @@ if a writer were to log *all* of their thoughts\ ...
 # See also
 
 - I also use [status]() notices on this site.
+
+# External links
+
+- "[The internet has made defensive writers of us all](https://pchiusano.github.io/2014-10-11/defensive-writing.html)":
+
+    > The defensive writing style also encourages another sort of ugliness,
+    > which is that “avoiding saying something wrong” becomes a primary focus
+    > of the writing, rather than communicating or exploring ideas which the
+    > author might himself be unsure of. It encourages a tendency to be
+    > attached to ideas and defend them against attackers, rather than letting
+    > ideas exist separate from ourselves as they should. I can recall many
+    > occasions where I find myself in a position of defending or arguing for
+    > an idea I don’t necessarily feel strongly about, but feel compelled to
+    > reply to someone giving the idea such dismissive treatment.
