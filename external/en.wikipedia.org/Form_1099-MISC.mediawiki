@@ -86,14 +86,6 @@ People whose income is primarily from Form 1099-MISC therefore need to send esti
 
 Even those who don't need to pay income tax may still owe some SS/Medicare taxes. So very low-income folks who are self-employed may "need" to file returns whereas comparable folks who are other-employed may not.
 
-== Optional ==
-
-* History/origin of the form
-
-* Top users (companies)
-
-* Total annual usage 
-
 ==See also==
 *[[Form 1040]]
 *[[Taxation in the United States]]
