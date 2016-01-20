@@ -6,7 +6,7 @@ The form is issued by the payer (e.g. business) and is due to the recipient (e.g
 
 === Business–contractor arrangement ===
 
-In a business–contractor arrangement, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
+One common use of Form 1099-MISC is to report payments by a business to resident independent contractors. In such a business–contractor arrangement, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
 
 Whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
 
@@ -40,7 +40,7 @@ Because they're covered by Form 1099-K. But Form 1099-MISC may still be issued.
 
 === Nonresident payee ===
 
-Interesting counterpoint: In the case of nonresidents for tax purposes (incl. undocumented aliens) the corresponding form to Form 1099 (Form 1042-S) must be issued even if the payer is a private individual. So e.g. if you hire household help, then if the help is a U.S. citizen or resident for tax purposes then you don't need to issue a Form 1099, but if the payee is an undocumented alien you need to issue a Form 1042-S.
+A major difference exists for personal payments when the payee is a nonresident for tax purposes (including undocumented alien). In this case, Form 1042-S (the corresponding form to Form 1099-MISC) must be issued even if the payer is a private individual (i.e. not a business or other organization). For instance, if one hires household help, then if the help is a US citizen or resident for tax purposes then need not issue a Form 1099, but if the payee is an undocumented alien, then one must issue a Form 1042-S.
 
 == Significance for payer ==
 
