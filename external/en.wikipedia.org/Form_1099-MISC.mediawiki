@@ -4,11 +4,10 @@ The form is issued by the payer (e.g. business) and is due to the recipient (e.g
 
 == Conditions ==
 
-Several conditions apply regarding whether a business or individual must file Form 1099-MISC.
 
-=== Payer must be a business ===
+=== For business–contractor arrangement ===
 
-In general, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
+In a business–contractor arrangement, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
 
 In particular, whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
 
@@ -16,9 +15,7 @@ Rule of thumb: Item must be reportable as a business expense (regardless of whet
 
 Interesting counterpoint: In the case of nonresidents for tax purposes (incl. undocumented aliens) the corresponding form to Form 1099 (Form 1042-S) must be issued even if the payer is a private individual. So e.g. if you hire household help, then if the help is a U.S. citizen or resident for tax purposes then you don't need to issue a Form 1099, but if the payee is an undocumented alien you need to issue a Form 1042-S.
 
-=== Payee must be an individual ===
-
-In particular doesn't include business-to-business payments.
+The payee must also be an individual. In particular doesn't include business-to-business payments.
 
 === Payment must be in exchange for services rendered (?) ===
 
@@ -34,7 +31,7 @@ Though it's possible that the same payee later becomes an employee.
 
 Because they're covered by Form 1099-K. But Form 1099-MISC may still be issued.
 
-=== Form 1099-MISC needs to be issued only for amount &gt;= $600 ===
+=== Form 1099-MISC needs to be issued only for amount ≥ $600 ===
 
 If total amount paid through the year from the one business to the one employee is $600 or more, the form must be issued.
 
