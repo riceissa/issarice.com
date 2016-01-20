@@ -23,9 +23,13 @@ If total amount paid through the year from the one business to the one employee 
 
 Form may still be issued at lower amounts.
 
+===Other use cases===
+
+Other uses of Form 1099-MISC include rental income, royalties, and [[Native American gaming|Indian gaming profits]].<ref name="efile_howto" />
+
 === Payments made through third-party networks ===
 
-When payments are made through third-party networks, filing Form 1099-MISC is not required. Instead, Form 1099-K should be filed. Form 1099-MISC may still be issued.
+When payments are made through third-party networks, filing Form 1099-MISC is not required. Instead, Form 1099-K should be filed. Nevertheless Form 1099-MISC may still be issued.
 
 === Nonresident payee ===
 
