@@ -38,15 +38,11 @@ If the payer does not file Form 1099-MISC, there is a maximum penalty of $250 pe
 
 === Relation with payer's tax filing ===
 
-* No precise match between total of Form 1099-MISC's issued and any line item in profit/loss report, because of constraint of not reporting money paid for &lt; $600.
-
-* However, IRS may get suspicious if profit/loss report suggests huge amount of money paid to independent contractors but few or no Form 1099-MISCs reported.
+There is no precise match between total amount paid from Form 1099-MISCs issued and any line item in the profit/loss report, because of the constraint of not reporting money paid when the amount to an individual is less than $600. However, IRS may get suspicious if the profit/loss report suggests a large amount of money paid to independent contractors but few or no Form 1099-MISCs reported.
 
 == Significance for payee ==
 
-The payee will usually complete a Schedule C while filing their individual return using [[Form 1040]] (amount from Schedule C will go on line 12). For rents and loyalties, Schedule E is required (amount from this will go to line 17 of Form 1040).<ref name="penalties" />
-
-* IRS gets Form 1099-MISCs, so if payee reports a smaller total than sum of Form 1099-MISCs, IRS can get suspicious.
+The payee will usually complete a Schedule C while filing their individual return using [[Form 1040]] (amount from Schedule C will go on line 12). For rents and loyalties, Schedule E is required (amount from this will go to line 17 of Form 1040).<ref name="penalties" /> Since the IRS receives Form 1099-MISCs from the payer, if the payee reports a smaller total than the sum of Form 1099-MISCs, the IRS can get suspicious. However, the sum of Form 1099-MISC amounts may not cover all of the payee's income as an independent contractor (because of payers who don't issue the form because of the $600 threshold or because they are careless). The payee still has a responsibility to pay taxes for the total amount. Another reason the Form 1099-MISCs may not sum up to the total income is if the income comes from individual payers rather than businesses.
 
 === Liability ===
 
@@ -54,7 +50,6 @@ There is a penalty to the payee for not paying income tax for the income referen
 
 === Related forms ===
 
-* However, sum of Form 1099-MISC amounts may not cover all of payee's income as independent contractor (because of people who don't issue the form because of the $600 threshold or because they're careless). Payee still has a responsibility. namely that another reason the Form 1099-MISCs may not sum up to total income is if the income comes from individual payers rather than businesses
 
 * Discuss confusion arising from multiple reporting due to Form 1099-MISC and Form 1099-K.
 
