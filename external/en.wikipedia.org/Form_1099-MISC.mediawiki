@@ -55,7 +55,8 @@ If the payer does not file Form 1099-MISC, there is a maximum penalty of $250 pe
 
 == Significance for payee ==
 
-* What line number in Form 1040? What schedules (SE, C)
+The payee will usually complete a Schedule C while filing their individual return using [[Form 1040]] (amount from Schedule C will go on line 12). For rents and loyalties, Schedule E is required (amount from this will go to line 17 of Form 1040).<ref name="penalties" />
+
 * IRS gets Form 1099-MISCs, so if payee reports a smaller total than sum of Form 1099-MISCs, IRS can get suspicious.
 
 === Liability ===
