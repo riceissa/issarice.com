@@ -72,17 +72,15 @@ There is a penalty to the payee for not paying income tax for the income referen
 
 === Withholding and estimated tax payment ===
 
-Form 1099 need not be attached to the payee's tax return if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, employer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
+Form 1099 need not be attached to the payee's tax return if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, payer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
 
 In almost all cases, income associated with Form 1099-MISC is not subject to withholding. However, income from [[Indian_Gaming_Regulatory_Act#Three_classes|class II or class III gaming]] as an Indian tribal member must be withheld.<ref name=i1099msc />{{rp|4}}
 
-No income withholding at source, for either income tax or social security tax. (really?) (Can you optionally turn on withholding?)
-
 Withholding requirements are different for nonresident payees, in which case [[Form 1042-S]] is used instead.
 
-People whose income is primarily from Form 1099-MISC therefore need to send estimated tax payments through EFTPS or by paper-filing Form 1040-ES with a check.
+Individuals whose income is primarily from Form 1099-MISC therefore need to send estimated tax payments through the [[Electronic Federal Tax Payment System]] (EFTPS) or by paper-filing Form 1040-ES with a check.
 
-Even those who don't need to pay income tax may still owe some SS/Medicare taxes. So very low-income folks who are self-employed may "need" to file returns whereas comparable folks who are other-employed may not.
+Even those who don't need to pay income tax may still owe some [[Social Security (United States)|social security]] or [[Medicare (United States)|Medicare]] taxes. So very low-income individuals who are self-employed may need to file returns whereas comparable individuals who are other-employed may not.
 
 ==See also==
 *[[Form 1040]]
