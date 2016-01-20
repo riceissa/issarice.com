@@ -110,6 +110,23 @@ found it increasingly difficult to focus on lectures, so these thoughts
 about interpersonal interactions, the progression of an individual's
 life, etc. enter my mind.
 
+---
+
+Another thing that just occurred to me: I rarely actually interacted with
+Morrow. Most of my interactions were with my classmates or the TA. In fact, the
+only time I remember talking to Morrow was when I went to pick up my two
+midterms (I missed both of the days when he handed them back). He showed
+another student and me how there are ladybugs that would come into his
+office(?) in the fall/winter, and also seemed surprised that I hadn't even
+picked up my first midterm before the second midterm (his office hours were at
+8:30 so I never managed; this was right after lecture so more manageable).
+
+I guess it's not *too* surprising; I hardly interacted with my math 13X
+instructor either (the only interactions I remember: visiting during office
+hours because I wanted to enroll in the course, picking up exams, asking a few
+question during lecture). I guess the difference is that so far this year I
+haven't had to ask any questions in lecture...
+
 [^hs]: This is something I used to be able to do a lot in high school,
 but the quarter system at UW makes is difficult to keep in contact
 with the same people, especially for someone as passive as me.
