@@ -2,7 +2,9 @@ In the United States, '''Form 1099-MISC''' is a variant of [[Form 1099]] used to
 
 The form is issued by the payer (e.g. business) and is due to the recipient (e.g. contractor) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous tax year.<ref name="penalties">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/Small-Business-Taxes/Penalties-for-Not-Filing-a-1099-Misc-IRS-Form/INF19313.html |title=Penalties for Not Filing a 1099-Misc IRS Form |accessdate=January 19, 2016 |date=2015}}</ref><ref name="efile_howto">{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref> If the payer is registered to file electronically with the IRS the deadline for filing is March 31.<ref name="i1099gi">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099gi.pdf |title=2016 General Instructions for Certain Information Returns |accessdate=January 20, 2016 |date=2016}}</ref>
 
-== Conditions for business–contractor arrangement ==
+== Conditions ==
+
+=== Business–contractor arrangement ===
 
 In a business–contractor arrangement, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
 
@@ -10,25 +12,20 @@ Whether an income is taxable and whether it should be reported on Form 1099-MISC
 
 Rule of thumb: Item must be reportable as a business expense (regardless of whether the business chooses to actually report it that way?)
 
-Interesting counterpoint: In the case of nonresidents for tax purposes (incl. undocumented aliens) the corresponding form to Form 1099 (Form 1042-S) must be issued even if the payer is a private individual. So e.g. if you hire household help, then if the help is a U.S. citizen or resident for tax purposes then you don't need to issue a Form 1099, but if the payee is an undocumented alien you need to issue a Form 1042-S.
 
 The payee must also be an individual. In particular doesn't include business-to-business payments.
 
-=== Payment must be in exchange for services rendered (?) ===
+Payment must be in exchange for services rendered (?)
 
 So e.g. scholarship payments don't count.
 
-=== Payment must be for work not performed as an employee ===
+Payment must be for work not performed as an employee
 
 Employee payments are covered by Form W-2.
 
 Though it's possible that the same payee later becomes an employee.
 
-=== Payments made through third-party networks don't require Form 1099-MISC ===
-
-Because they're covered by Form 1099-K. But Form 1099-MISC may still be issued.
-
-=== Form 1099-MISC needs to be issued only for amount ≥ $600 ===
+Form 1099-MISC needs to be issued only for amount ≥ $600
 
 If total amount paid through the year from the one business to the one employee is $600 or more, the form must be issued.
 
@@ -36,6 +33,14 @@ If total amount paid through the year from the one business to the one employee 
 * Only includes payments made as independent contractor, so e.g. if same person becomes employee later the $600 threshold need be met only for part of work done as independent contractor.
 
 Form may still be issued at lower amounts.
+
+=== Payments made through third-party networks don't require Form 1099-MISC ===
+
+Because they're covered by Form 1099-K. But Form 1099-MISC may still be issued.
+
+=== Nonresident payee ===
+
+Interesting counterpoint: In the case of nonresidents for tax purposes (incl. undocumented aliens) the corresponding form to Form 1099 (Form 1042-S) must be issued even if the payer is a private individual. So e.g. if you hire household help, then if the help is a U.S. citizen or resident for tax purposes then you don't need to issue a Form 1099, but if the payee is an undocumented alien you need to issue a Form 1042-S.
 
 == Significance for payer ==
 
