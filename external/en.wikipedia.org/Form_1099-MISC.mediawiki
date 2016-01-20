@@ -6,21 +6,11 @@ The form is issued by the payer (e.g. business) and is due to the recipient (e.g
 
 === Business–contractor arrangement ===
 
-One common use of Form 1099-MISC is to report payments by a business to resident independent contractors. In such a business–contractor arrangement, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
+One common use of Form 1099-MISC is to report payments by a business to US resident independent (i.e. non-business) contractors (i.e. ''not'' an employee; employee payments are covered by Form W-2). In such a business–contractor arrangement, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
 
 Whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
 
-Rule of thumb: Item must be reportable as a business expense (regardless of whether the business chooses to actually report it that way?)
-
-The payee must also be an individual. In particular doesn't include business-to-business payments.
-
-Payment must be in exchange for services rendered (?)
-
-So e.g. scholarship payments don't count.
-
-Payment must be for work not performed as an employee
-
-Employee payments are covered by Form W-2.
+In general, payment must be in exchange for services rendered, although there are exceptions like oil and gas payments.<ref name="i1099msc" />{{rp|7}}
 
 Though it's possible that the same payee later becomes an employee.
 
@@ -82,6 +72,8 @@ Form 1099 need not be attached to the payee's tax return if no tax was withheld.
 In almost all cases, income associated with Form 1099-MISC is not subject to withholding. However, income from [[Indian_Gaming_Regulatory_Act#Three_classes|class II or class III gaming]] as an Indian tribal member must be withheld.<ref name=i1099msc />{{rp|4}}
 
 No income withholding at source, for either income tax or social security tax. (really?) (Can you optionally turn on withholding?)
+
+Withholding requirements are different for nonresident payees, in which case [[Form 1042-S]] is used instead.
 
 People whose income is primarily from Form 1099-MISC therefore need to send estimated tax payments through EFTPS or by paper-filing Form 1040-ES with a check.
 
