@@ -1,4 +1,4 @@
-Form 1099-MISC is used to report misc. income paid by businesses (incl. nonprofits) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats).
+'''Form 1099-MISC''' is a variant of [[Form 1099]] used to report misc. income paid by businesses (incl. nonprofits) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats).
 
 == Conditions ==
 
@@ -71,3 +71,20 @@ Form may still be issued at lower amounts.
 
 * Payee gets Form 1099-MISC before IRS, so can correct errors before sent to IRS.
 
+* Since no deductions, payee doesn't usually attach Form 1099-MISC in tax return.
+
+== Deductions and estimated tax payment ==
+
+No tax deductions at source, for either income tax or social security tax. (really?) (Can you optionally turn on deductions?)
+
+People whose income is primarily from Form 1099-MISC therefore need to send estimated tax payments through EFTPS or by paper-filing Form 1040-ES with a check.
+
+Even those who don't need to pay income tax may still owe some SS/Medicare taxes. So very low-income folks who are self-employed may "need" to file returns whereas comparable folks who are other-employed may not.
+
+== Optional ==
+
+* History/origin of the form
+
+* Top users (companies)
+
+* Total annual usage 
