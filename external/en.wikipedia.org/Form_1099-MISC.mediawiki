@@ -20,12 +20,9 @@ It is possible for a payee to start as a contractor and later become an employee
 
 Form 1099-MISC needs to be issued only for amount ≥ $600
 
-If total amount paid through the year from the one business to the one employee is $600 or more, the form must be issued.
-
-* This condition is triggered even if individual payment amounts are all &lt; $600.
-* Only includes payments made as independent contractor, so e.g. if same person becomes employee later the $600 threshold need be met only for part of work done as independent contractor.
-
 Form may still be issued at lower amounts.
+
+If total amount paid through the year from the one business to the one contractor is $600 or more, the form must be issued. This is the case even if individual payment amounts are all less than $600. However, since Form 1099-MISC only concerns payments made to an individual as an independent contractor, if an individual becomes employee later the $600 threshold need be met only for part of work done as an independent contractor.
 
 ===Other use cases===
 
