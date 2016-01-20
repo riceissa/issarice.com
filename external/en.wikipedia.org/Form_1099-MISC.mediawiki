@@ -1,0 +1,73 @@
+Form 1099-MISC is used to report misc. income paid by businesses (incl. nonprofits) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats).
+
+== Conditions ==
+
+==== Payer must be a business ===
+
+(details) incl. nonprofits, etc.
+
+Does not include individuals paying in a personal capacity.
+
+Rule of thumb: Item must be reportable as a business expense (regardless of whether the business chooses to actually report it that way?)
+
+Interesting counterpoint: In the case of nonresidents for tax purposes (incl. undocumented aliens) the corresponding form to Form 1099 (Form 1042-S) must be issued even if the payer is a private individual. So e.g. if you hire household help, then if the help is a U.S. citizen or resident for tax purposes then you don't need to issue a Form 1099, but if the payee is an undocumented alien you need to issue a Form 1042-S.
+
+=== Payee must be an individual ===
+
+In particular doesn't include business-to-business payments.
+
+=== Payment must be in exchange for services rendered (?) ===
+
+So e.g. scholarship payments don't count.
+
+=== Payment must be for work not performed as an employee ===
+
+Employee payments are covered by Form W-2.
+
+Though it's possible that the same payee later becomes an employee.
+
+=== Payments made through third-party networks don't require Form 1099-MISC ===
+
+Because they're covered by Form 1099-K. But Form 1099-MISC may still be issued.
+
+=== Form 1099-MISC needs to be issued only for amount >= $600 ===
+
+If total amount paid through the year from the one business to the one employee is $600 or more, the form must be issued.
+
+* This condition is triggered even if individual payment amounts are all < $600.
+* Only includes payments made as independent contractor, so e.g. if same person becomes employee later the $600 threshold need be met only for part of work done as independent contractor.
+
+Form may still be issued at lower amounts.
+
+== Significance for payer ==
+
+=== Liability ===
+
+* What's the liability for not issuing Form 1099-MISC when supposed to?
+
+* Late filing info?
+
+=== Relation with payer's tax filing ===
+
+* No precise match between total of Form 1099-MISC's issued and any line item in profit/loss report, because of constraint of not reporting money paid for < $600.
+
+* However, IRS may get suspicious if profit/loss report suggests huge amount of money paid to independent contractors but few or no Form 1099-MISCs reported.
+
+== Significance for payee ==
+
+(Break into subsections)
+
+* What line number in Form 1040? What schedules (SE, C)
+
+* IRS gets Form 1099-MISCs, so if payee reports a smaller total than sum of Form 1099-MISCs, IRS can get suspicious.
+
+* However, sum of Form 1099-MISC amounts may not cover all of payee's income as independent contractor (because of people who don't issue the form because of the $600 threshold or because they're careless). Payee still has a responsibility.
+
+* Discuss confusion arising from multiple reporting due to Form 1099-MISC and Form 1099-K.
+
+* Best to just track and total payments, and make sure that Form 1099-MISC sum is less than total income reported.
+
+* If not, ask payer to correct record (and send update to IRS as well).
+
+* Payee gets Form 1099-MISC before IRS, so can correct errors before sent to IRS.
+
