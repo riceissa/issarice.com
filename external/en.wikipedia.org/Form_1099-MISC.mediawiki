@@ -1,4 +1,4 @@
-'''Form 1099-MISC''' is a variant of [[Form 1099]] used to report miscellaneous income paid by businesses (including nonprofits<ref name="i1099msc" />{{rp|1}}) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats). The form is issued by the employer and is due to the recipient (the employee) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous tax year.<ref name="penalties">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/Small-Business-Taxes/Penalties-for-Not-Filing-a-1099-Misc-IRS-Form/INF19313.html |title=Penalties for Not Filing a 1099-Misc IRS Form |accessdate=January 19, 2016 |date=2015}}</ref><ref>{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref>
+In the United States, '''Form 1099-MISC''' is a variant of [[Form 1099]] used to report miscellaneous income paid by businesses (including nonprofits<ref name="i1099msc" />{{rp|1}}) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats). The form is issued by the employer and is due to the recipient (the employee) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous tax year.<ref name="penalties">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/Small-Business-Taxes/Penalties-for-Not-Filing-a-1099-Misc-IRS-Form/INF19313.html |title=Penalties for Not Filing a 1099-Misc IRS Form |accessdate=January 19, 2016 |date=2015}}</ref><ref>{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref>
 
 == Conditions ==
 
@@ -61,7 +61,7 @@ If the payer does not file Form 1099-MISC, there is a maximum penalty of $250 pe
 
 * IRS gets Form 1099-MISCs, so if payee reports a smaller total than sum of Form 1099-MISCs, IRS can get suspicious.
 
-* However, sum of Form 1099-MISC amounts may not cover all of payee's income as independent contractor (because of people who don't issue the form because of the $600 threshold or because they're careless). Payee still has a responsibility.
+* However, sum of Form 1099-MISC amounts may not cover all of payee's income as independent contractor (because of people who don't issue the form because of the $600 threshold or because they're careless). Payee still has a responsibility. namely that another reason the Form 1099-MISCs may not sum up to total income is if the income comes from individual payers rather than businesses
 
 * Discuss confusion arising from multiple reporting due to Form 1099-MISC and Form 1099-K.
 
