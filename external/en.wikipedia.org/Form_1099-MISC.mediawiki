@@ -33,7 +33,7 @@ When payments are made through third-party networks, filing Form 1099-MISC is no
 
 === Nonresident payee ===
 
-A major difference exists for personal payments when the payee is a nonresident for tax purposes (including undocumented alien). In this case, Form 1042-S (the corresponding form to Form 1099-MISC) must be issued even if the payer is a private individual (i.e. not a business or other organization). For instance, if one hires household help, then if the help is a US citizen or resident for tax purposes then need not issue a Form 1099, but if the payee is an undocumented alien, then one must issue a Form 1042-S.<ref name="pers_serv">{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Pay-for-Personal-Services-Performed |title=Pay for Personal Services Performed |accessdate=January 20, 2016}}</ref>
+A major difference exists for personal payments when the payee is a nonresident for tax purposes (including undocumented alien). In this case, Form 1042-S (the corresponding form to Form 1099-MISC) must be issued even if the payer is a private individual (i.e. not a business or other organization). For instance, if one hires household help, then if the help is a US citizen or resident for tax purposes one need not issue a Form 1099, but if the payee is an undocumented alien one must issue a Form 1042-S.<ref name="pers_serv">{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Pay-for-Personal-Services-Performed |title=Pay for Personal Services Performed |accessdate=January 20, 2016}}</ref>
 
 == Significance for payer ==
 
