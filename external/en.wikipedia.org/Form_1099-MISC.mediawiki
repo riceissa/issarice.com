@@ -1,6 +1,6 @@
 In the United States, '''Form 1099-MISC''' is a variant of [[Form 1099]] used to report miscellaneous income paid by businesses (including nonprofits<ref name="i1099msc" />{{rp|1}}) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats). The form is issued by the employer and is due to the recipient (the employee) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous tax year.<ref name="penalties">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/Small-Business-Taxes/Penalties-for-Not-Filing-a-1099-Misc-IRS-Form/INF19313.html |title=Penalties for Not Filing a 1099-Misc IRS Form |accessdate=January 19, 2016 |date=2015}}</ref><ref>{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref>
 
-One notable use of Form 1099 is to report amounts paid to a non-corporate [[independent contractor]] for services (in IRS terminology, such payments are ''nonemployee compensation''). The ubiquity of the form has also led to use of the phrase "1099 workers" or "the 1099 economy" to refer to the independent contractors themselves.<ref>Forbes, The Rise of The 1099 Economy: More Americans Are Becoming Their Own Bosses, http://www.forbes.com/sites/joelkotkin/2012/07/25/the-rise-of-the-1099-economy-more-americans-are-becoming-their-own-bosses/</ref>
+One notable use of Form 1099-MISC is to report amounts paid to a non-corporate [[independent contractor]] for services (in IRS terminology, such payments are ''nonemployee compensation''). The ubiquity of the form has also led to use of the phrase "1099 workers" or "the 1099 economy" to refer to the independent contractors themselves.<ref>Forbes, The Rise of The 1099 Economy: More Americans Are Becoming Their Own Bosses, http://www.forbes.com/sites/joelkotkin/2012/07/25/the-rise-of-the-1099-economy-more-americans-are-becoming-their-own-bosses/</ref>
 
 == Conditions ==
 
@@ -75,9 +75,9 @@ There is a penalty to the payee as well for not reporting the income referenced 
 
 * Payee gets Form 1099-MISC before IRS, so can correct errors before sent to IRS.
 
-* Form 1099 need not be attached to the payee's tax return if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, employer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
+=== Withholding and estimated tax payment ===
 
-== Withholding and estimated tax payment ==
+Form 1099 need not be attached to the payee's tax return if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, employer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
 
 No income withholding at source, for either income tax or social security tax. (really?) (Can you optionally turn on withholding?)
 
