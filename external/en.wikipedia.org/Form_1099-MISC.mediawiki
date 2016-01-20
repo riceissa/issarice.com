@@ -4,6 +4,8 @@ The form is issued by the payer (e.g. business) and is due to the recipient (e.g
 
 == Use cases ==
 
+There are several use cases of Form 1099-MISC. Whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
+
 === Business–contractor arrangement ===
 
 One common use of Form 1099-MISC is to report payments by a business to US resident independent contractors. For the purpose of this form, "business" includes nonprofits and other organizations.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
@@ -14,9 +16,7 @@ In a business–contractor arrangement, the following must apply:
 * Payee must not be a business or employee (so must be a contract worker). Employee payments are covered by Form W-2.
 * In general, payment must be in exchange for services rendered, although there are exceptions like oil and gas payments.<ref name="i1099msc" />{{rp|7}}
 
-Whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
-
-Though it's possible that the same payee later becomes an employee.
+It is possible for a payee to start as a contractor and later become an employee. It is also possible for a payee to maintain two jobs, one as a contractor and the other as an employee, under the same payer. In these cases, the payee can receive both Form 1099-MISC and Form W-2.<ref name="chron">{{cite web |url=http://smallbusiness.chron.com/give-1099-w2-same-person-32664.html |title=How to Give a 1099 and W-2 to the Same Person |accessdate=January 20, 2016 |last=Zias |first=Kerry}}</ref><ref name="hrmorning">{{cite web |url=http://www.hrmorning.com/workers-can-be-both-employees-and-ics-irs-rules/ |title=Workers can be both employees and ICs, IRS rules |accessdate=January 20, 2016 |date=May 24, 2013 |last=Gould |first=Tim}}</ref>
 
 Form 1099-MISC needs to be issued only for amount ≥ $600
 
@@ -90,6 +90,7 @@ Even those who don't need to pay income tax may still owe some SS/Medicare taxes
 ==See also==
 *[[Form 1040]]
 *[[Taxation in the United States]]
+*[[Misclassification of employees as independent contractors]]
 
 ==References==
 
