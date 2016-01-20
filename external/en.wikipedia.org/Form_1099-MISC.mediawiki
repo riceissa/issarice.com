@@ -2,7 +2,7 @@ In the United States, '''Form 1099-MISC''' is a variant of [[Form 1099]] used to
 
 The form is issued by the payer (e.g. business) and is due to the recipient (e.g. contractor) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous tax year.<ref name="penalties">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/Small-Business-Taxes/Penalties-for-Not-Filing-a-1099-Misc-IRS-Form/INF19313.html |title=Penalties for Not Filing a 1099-Misc IRS Form |accessdate=January 19, 2016 |date=2015}}</ref><ref name="efile_howto">{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref> If the payer is registered to file electronically with the IRS the deadline for filing is March 31.<ref name="i1099gi">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099gi.pdf |title=2016 General Instructions for Certain Information Returns |accessdate=January 20, 2016 |date=2016}}</ref>
 
-== Conditions ==
+== Use cases ==
 
 === Business–contractor arrangement ===
 
@@ -11,7 +11,6 @@ One common use of Form 1099-MISC is to report payments by a business to resident
 Whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
 
 Rule of thumb: Item must be reportable as a business expense (regardless of whether the business chooses to actually report it that way?)
-
 
 The payee must also be an individual. In particular doesn't include business-to-business payments.
 
@@ -34,9 +33,9 @@ If total amount paid through the year from the one business to the one employee 
 
 Form may still be issued at lower amounts.
 
-=== Payments made through third-party networks don't require Form 1099-MISC ===
+=== Payments made through third-party networks ===
 
-Because they're covered by Form 1099-K. But Form 1099-MISC may still be issued.
+When payments are made through third-party networks, filing Form 1099-MISC is not required. Instead, Form 1099-K should be filed. Form 1099-MISC may still be issued.
 
 === Nonresident payee ===
 
