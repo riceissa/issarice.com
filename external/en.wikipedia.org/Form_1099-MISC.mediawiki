@@ -10,13 +10,11 @@ One common use of Form 1099-MISC is to report payments by a business to US resid
 
 In a business–contractor arrangement, the following must apply:
 
-* Payer must be a business and not a private individual.
+* Payer must be a business and not a private individual; personal payments should not be reported using this form.
 * Payee must not be a business or employee (so must be a contract worker). Employee payments are covered by Form W-2.
-* Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form.
+* In general, payment must be in exchange for services rendered, although there are exceptions like oil and gas payments.<ref name="i1099msc" />{{rp|7}}
 
 Whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
-
-In general, payment must be in exchange for services rendered, although there are exceptions like oil and gas payments.<ref name="i1099msc" />{{rp|7}}
 
 Though it's possible that the same payee later becomes an employee.
 
