@@ -1,4 +1,4 @@
-'''Form 1099-MISC''' is a variant of [[Form 1099]] used to report misc. income paid by businesses (incl. nonprofits) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats).
+'''Form 1099-MISC''' is a variant of [[Form 1099]] used to report miscellaneous income paid by businesses (incl. nonprofits) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats). The form is issued by the employer and is due to the recipient (the employee) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous year.<ref>{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref>
 
 == Conditions ==
 
@@ -30,11 +30,11 @@ Though it's possible that the same payee later becomes an employee.
 
 Because they're covered by Form 1099-K. But Form 1099-MISC may still be issued.
 
-=== Form 1099-MISC needs to be issued only for amount >= $600 ===
+=== Form 1099-MISC needs to be issued only for amount &gt;= $600 ===
 
 If total amount paid through the year from the one business to the one employee is $600 or more, the form must be issued.
 
-* This condition is triggered even if individual payment amounts are all < $600.
+* This condition is triggered even if individual payment amounts are all &lt; $600.
 * Only includes payments made as independent contractor, so e.g. if same person becomes employee later the $600 threshold need be met only for part of work done as independent contractor.
 
 Form may still be issued at lower amounts.
@@ -49,7 +49,7 @@ Form may still be issued at lower amounts.
 
 === Relation with payer's tax filing ===
 
-* No precise match between total of Form 1099-MISC's issued and any line item in profit/loss report, because of constraint of not reporting money paid for < $600.
+* No precise match between total of Form 1099-MISC's issued and any line item in profit/loss report, because of constraint of not reporting money paid for &lt; $600.
 
 * However, IRS may get suspicious if profit/loss report suggests huge amount of money paid to independent contractors but few or no Form 1099-MISCs reported.
 
