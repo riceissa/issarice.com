@@ -61,6 +61,8 @@ If the payer does not file Form 1099-MISC, there is a maximum penalty of $250 pe
 
 * IRS gets Form 1099-MISCs, so if payee reports a smaller total than sum of Form 1099-MISCs, IRS can get suspicious.
 
+There is a penalty to the payee as well for not reporting the income referenced by Form 1099-MISC.<ref name="penalties" />
+
 * However, sum of Form 1099-MISC amounts may not cover all of payee's income as independent contractor (because of people who don't issue the form because of the $600 threshold or because they're careless). Payee still has a responsibility. namely that another reason the Form 1099-MISCs may not sum up to total income is if the income comes from individual payers rather than businesses
 
 * Discuss confusion arising from multiple reporting due to Form 1099-MISC and Form 1099-K.
@@ -71,11 +73,11 @@ If the payer does not file Form 1099-MISC, there is a maximum penalty of $250 pe
 
 * Payee gets Form 1099-MISC before IRS, so can correct errors before sent to IRS.
 
-* Since no deductions, payee doesn't usually attach Form 1099-MISC in tax return.
+* Form 1099 need not be attached to the payee's tax return if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, employer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
 
-== Deductions and estimated tax payment ==
+== Withholding and estimated tax payment ==
 
-No tax deductions at source, for either income tax or social security tax. (really?) (Can you optionally turn on deductions?)
+No income withholding at source, for either income tax or social security tax. (really?) (Can you optionally turn on withholding?)
 
 People whose income is primarily from Form 1099-MISC therefore need to send estimated tax payments through EFTPS or by paper-filing Form 1040-ES with a check.
 
