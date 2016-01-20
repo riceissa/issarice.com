@@ -1,4 +1,4 @@
-'''Form 1099-MISC''' is a variant of [[Form 1099]] used to report miscellaneous income paid by businesses (incl. nonprofits) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats). The form is issued by the employer and is due to the recipient (the employee) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous year.<ref>{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref>
+'''Form 1099-MISC''' is a variant of [[Form 1099]] used to report miscellaneous income paid by businesses (incl. nonprofits) to individual independent contractors (not incorporated) who are U.S. residents but not employed by the business (any other major caveats). The form is issued by the employer and is due to the recipient (the employee) by January 31 and to the [[Internal Revenue Service|IRS]] by February 28 each year for work done during the previous tax year.<ref name="penalties">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/Small-Business-Taxes/Penalties-for-Not-Filing-a-1099-Misc-IRS-Form/INF19313.html |title=Penalties for Not Filing a 1099-Misc IRS Form |accessdate=January 19, 2016 |date=2015}}</ref><ref>{{cite web|url = http://www.efile.com/how-to-file-1099-online-irs-form-1096/|title = What If I Have to Issue a 1099 Form?|publisher = efile.com|accessdate = January 16, 2016}}</ref>
 
 == Conditions ==
 
@@ -45,9 +45,7 @@ Form may still be issued at lower amounts.
 
 === Liability ===
 
-* What's the liability for not issuing Form 1099-MISC when supposed to?
-
-* Late filing info?
+If the payer does not file Form 1099-MISC, there is a maximum penalty of $250 per form not filed, up to $500,000 per year. Otherwise for late filings the penalty varies from $30 to $100, depending on how late the filing was.<ref name="penalties" />
 
 === Relation with payer's tax filing ===
 
