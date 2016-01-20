@@ -57,13 +57,14 @@ If the payer does not file Form 1099-MISC, there is a maximum penalty of $250 pe
 
 == Significance for payee ==
 
-(Break into subsections)
-
 * What line number in Form 1040? What schedules (SE, C)
-
 * IRS gets Form 1099-MISCs, so if payee reports a smaller total than sum of Form 1099-MISCs, IRS can get suspicious.
 
-There is a penalty to the payee as well for not reporting the income referenced by Form 1099-MISC.<ref name="penalties" />
+=== Liability ===
+
+There is a penalty to the payee for not paying income tax for the income referenced by Form 1099-MISC. The penalty is up to 20% of the underpayment.<ref name="penalties" />
+
+=== Related forms ===
 
 * However, sum of Form 1099-MISC amounts may not cover all of payee's income as independent contractor (because of people who don't issue the form because of the $600 threshold or because they're careless). Payee still has a responsibility. namely that another reason the Form 1099-MISCs may not sum up to total income is if the income comes from individual payers rather than businesses
 
@@ -78,6 +79,8 @@ There is a penalty to the payee as well for not reporting the income referenced 
 === Withholding and estimated tax payment ===
 
 Form 1099 need not be attached to the payee's tax return if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, employer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
+
+In almost all cases, income associated with Form 1099-MISC is not subject to withholding. However, income from class II or class III gaming as an Indian tribal member must be withheld.<ref name=i1099msc />{{rp|4}}
 
 No income withholding at source, for either income tax or social security tax. (really?) (Can you optionally turn on withholding?)
 
