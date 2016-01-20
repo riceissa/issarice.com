@@ -6,7 +6,13 @@ The form is issued by the payer (e.g. business) and is due to the recipient (e.g
 
 === Business–contractor arrangement ===
 
-One common use of Form 1099-MISC is to report payments by a business to US resident independent (i.e. non-business) contractors (i.e. ''not'' an employee; employee payments are covered by Form W-2). In such a business–contractor arrangement, Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form. On the other hand, nonprofits and other organizations must file this form.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
+One common use of Form 1099-MISC is to report payments by a business to US resident independent contractors. For the purpose of this form, "business" includes nonprofits and other organizations.<ref name="i1099msc">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099msc.pdf |title=2016 Instructions for Form 1099-MISC |accessdate=January 19, 2016 |publisher=Internal Revenue Service}}</ref>{{rp|1}}
+
+In a business–contractor arrangement, the following must apply:
+
+* Payer must be a business and not a private individual.
+* Payee must not be a business or employee (so must be a contract worker). Employee payments are covered by Form W-2.
+* Form 1099-MISC is used for trade or business reporting. This means personal payments should not be reported using this form.
 
 Whether an income is taxable and whether it should be reported on Form 1099-MISC are distinct questions. There may be other forms, such as Form W-2 (for wages) or Form 1099-K (for payments made with a credit card) that must be filed instead.<ref name="i1099msc" />
 
