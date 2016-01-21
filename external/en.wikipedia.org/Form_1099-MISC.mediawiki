@@ -24,7 +24,7 @@ Other uses of Form 1099-MISC include rental income, royalties, and [[Native Amer
 
 === Payments made through third-party networks ===
 
-When payments are made through third-party networks, filing Form 1099-MISC is not required. Instead, Form 1099-K should be filed. Nevertheless Form 1099-MISC may still be issued.
+When payments are made through third-party networks, filing Form 1099-MISC is not required. Instead, Form 1099-K will be filed by the payment service.<ref name="smallbiz" /> Nevertheless Form 1099-MISC may still be issued.
 
 === Nonresident payee ===
 
@@ -50,14 +50,7 @@ There is a penalty to the payee for not paying income tax for the income referen
 
 === Related forms ===
 
-
-* Discuss confusion arising from multiple reporting due to Form 1099-MISC and Form 1099-K.
-
-* Best to just track and total payments, and make sure that Form 1099-MISC sum is less than total income reported.
-
-* If not, ask payer to correct record (and send update to IRS as well).
-
-* Payee gets Form 1099-MISC before IRS, so can correct errors before sent to IRS.
+If a contractor is paid electronically using a service such as [[PayPal]], then the correct form to use is Form 1099-K, which the payment service will furnish. In other words, even if the payer paid more than $600, filing Form 1099-MISC is not required. However, Form 1099-MISC can still be filed, in which case both forms will be sent to the payee, causing the payment to be possibly over-reported if one simply sums the payments reported on each form. In addition, Form 1099-K is only issued when the payment is more than $20,000 and there were more than 200 transactions, in which case payment calculated from the forms may be under-reported. In such cases, it is necessary to track payments separately.<ref name="smallbiz">{{cite web |url=http://smallbiztrends.com/2015/01/1099-contractors-paypal-credit-card.html |title=Must You Send 1099 Forms to Contractors Paid Via PayPal or Credit Card? |accessdate=January 20, 2016 |date=January 26, 2015 |last=Campbell |first=Anita}}</ref><ref name="forbes_k">{{cite web |url=http://www.forbes.com/sites/kellyphillipserb/2014/08/29/credit-cards-the-irs-form-1099-k-and-the-19399-reporting-hole/ |title=Credit Cards, The IRS, Form 1099-K And The $19,399 Reporting Hole |accessdate=January 20, 2016 |date=August 29, 2014 |last=Phillips |first=Kelly |archiveurl=https://web.archive.org/web/20151214181250/http://www.forbes.com/sites/kellyphillipserb/2014/08/29/credit-cards-the-irs-form-1099-k-and-the-19399-reporting-hole/}}</ref>
 
 === Withholding and estimated tax payment ===
 
