@@ -1,0 +1,13 @@
+[[Image:Form_W-9,_2005.png|right|thumb|Form W-9, 2005]]
+
+'''Form W-9''', '''Request for Taxpayer Identification Number and Certification''', is used in the [[Taxation in the United States|United States]] [[income tax]] system by a third party who must file an information return with the IRS. It requests the taxpayer identification information of a taxpayer (usually in the form of a [[Social Security Number]] or [[Tax Identification Number]]).
+
+The form is never actually sent to the IRS, but is maintained by the person who files the information return for verification purposes.
+
+==External links==
+* [http://www.irs.gov/pub/irs-pdf/fw9.pdf Fillable PDF version of IRS W-9 Form]
+
+[[Category:Internal Revenue Service|W-9]]
+
+
+{{tax-stub}}
