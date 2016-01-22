@@ -30,7 +30,6 @@
 
 from pandocfilters import toJSONFilter, stringify, Link
 from slugify import slugify_unicode
-import commands as c
 
 def url_filter(key, value, format_, meta):
     '''
@@ -43,7 +42,14 @@ def url_filter(key, value, format_, meta):
     format).
     '''
     if key == 'Link':
-        [txt, [url, attr]] = value
+        attr, txt, urllst = value
+        url = urllst[0]
+        # For debugging
+        #with open('log.txt', 'w') as f:
+        #    f.write(str(value) + "\n")
+        #    f.write("txt: " + str(txt) + "\n")
+        #    f.write("url: " + str(url) + "\n")
+        #    f.write("attr: " + str(attr) + "\n")
         if url == "!w":
             url = "https://en.wikipedia.org/wiki/" + stringify(txt)
         elif url.startswith("!w%20"):
@@ -58,7 +64,9 @@ def url_filter(key, value, format_, meta):
             # So we want to internally link txt
             url = slugify_unicode(stringify(txt), to_lower=True)
             url = "./" + url
-        return Link(txt, [url, attr])
+        urllst = [url, urllst[1]]
+        return Link(attr, txt, urllst)
+        #return Link(txt, [url, attr]) # old return, used for pandoc <=1.5
 
 if __name__ == '__main__':
     toJSONFilter(url_filter)
