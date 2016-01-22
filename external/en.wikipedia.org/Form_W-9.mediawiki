@@ -4,9 +4,29 @@
 
 The form is never actually sent to the IRS, but is maintained by the individual who files the information return for verification purposes.
 
+serves two purposes. First, it is used by third parties to collect identifying information to help file information returns with the IRS.<ref name="internal1">Internal Revenue Code § 31.3406(h)-3</ref> It requests the name, address, and taxpayer identification information of a taxpayer (in the form of a [[Social Security Number]] or [[Employer Identification Number]]). The form is never actually sent to the IRS, but is maintained by the person who files the information return for verification purposes. The information on the Form W-9 and the payment made are reported on a Form 1099.<ref>Internal Revenue Code § 1.6041-1</ref> The second purpose is to help the payee avoid [[backup withholding]]. The payer must collect [[withholding tax]]es on certain reportable payments for the IRS. However, if the payee certifies on the W-9 they are not subject to backup withholding they generally receive the full payment due them from the payer.<ref name="internal1"/> This is similar to the withholding exemptions certifications found on Form W-4 for employees.
+
+==Use cases==
+
+===Business–contractor arrangement===
+
+Businesses can use Form W-9 to request information from contractors they hire. When a business pays a contractor at least $600 during a tax year, the business is required to file [[Form 1099-MISC]], a variant of [[Form 1099]]. To fill out Form 1099-MISC, the business may need information (such as address and Tax Identification Number) from the contractor, for which Form W-9 is used. The business does not send Form W-9 to the IRS.<ref name="investopedia_w9">{{cite web |url=http://www.investopedia.com/articles/personal-finance/082714/purpose-w9-form.asp |title= The Purpose Of The W-9 Form |accessdate=January 22, 2016 |date=November 24, 2015 |last=Fontinelle |first=Amy}}</ref>
+
+===Financial institution–customer arrangement===
+
+Financial institutions sometimes send Form W-9 to a customer to request information. However, it is not necessarily required for the customer to fill out the form, since the institution likely already has the requested information (when the customer opened an account).<ref name="investopedia_w9" />
+
+===Employer–employee arrangement===
+
+
+
 ==External links==
 
 * [http://www.irs.gov/pub/irs-pdf/fw9.pdf Fillable PDF version of IRS W-9 Form]
+
+==References==
+
+{{reflist|30em}}
 
 <!--
 [[Category:Internal Revenue Service|W-9]]
