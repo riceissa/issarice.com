@@ -202,7 +202,7 @@ In any case, it seems that the way Vim treats long lines is
 fundamentally broken, in the sense that the way it thinks of lines is
 stuck in the days of line-based text processing.  I really would like
 display-line versions of `Ctrl`-`e`, `Ctrl`-`d`, and `Ctrl`-`f`, in the
-same way that we have `gj` and `g$`.
+same way that we have `gj` and `g$`. It might be worth noting that when using `:vim`, vim uses some pager like `more`, which can display partial lines even when using `j` and `k`.
 
 # From my old .vimrc
 
