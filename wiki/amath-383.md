@@ -15,7 +15,7 @@ status: notes
 #belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
-tags: untagged
+tags: uw, uw course review
 #aliases: 
 ---
 

@@ -6,7 +6,7 @@ status: notes
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC0
-tags: uw, math
+tags: uw, math, uw course review
 math: yes
 #aliases: 
 ---

@@ -1,7 +1,8 @@
 ---
 title: MATH 335
 date: 2016-01-22
-tags: math
+tags: math, uw
+license: CC0
 math: yes
 ---
 
