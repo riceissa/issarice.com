@@ -4,7 +4,7 @@ This repository hosts the files needed to compile my website,
 <http://issarice.com>.  The website is compiled from a set of (mainly)
 markdown files using a custom static site generator stored in the
 directory `generator` (`generator.py` is the main file).  Assuming one
-has the prerequisites to compile the site (Python 3.3, Pandoc 1.13,
+has the prerequisites to compile the site (Python 3.4, Pandoc 1.16,
 [Jinja2], [pandocfilers], [awesome-slugify], [PyYAML]; oddly I
 have to install the Python packages for both Python 2 and Python 3),
 just do:
