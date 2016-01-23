@@ -22,6 +22,14 @@ Financial institutions sometimes send Form W-9 to a customer to request informat
 
 In an employer–employee arrangement, Form W-9 and Form 1099 should not be used. Instead, the corresponding Form W-4 (to provide information) and Form W-2 (to report amount paid) should be filed instead.<ref name="investopedia_w9" />
 
+==Filing method==
+
+Form W-9 can be completed on paper or electronically. For electronic filing, there are several requirements. Namely, a requester who establishes an electronic filing system must ensure that the electronic system provides the same information as on a paper Form W-9, that a hard copy can be supplied to the IRS on demand, that "the information received is the information sent and […] all occasions of user access that result in the submission [are documented]", that the person accessing the system and providing the information is the individual identified on the form, and that an electronic signature is used.<ref name="i1099gi">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1099gi.pdf |title=2016 General Instructions for Certain Information Returns |accessdate=January 20, 2016 |date=2016}}</ref>{{rp|12}}
+
+==Deadline==
+
+Some certified public accountants consider it best practice to ensure the completion of Form W-9 by payees before issuing any payments.<ref name="loggins">{{cite web |url=http://www.logginscpa.com/2011/12/collect-w9/ |title=Collect Form W-9 Now! |accessdate=January 22, 2016 |date=December 28, 2011 |last=Dyes |first=Cindy}}</ref>
+
 ==External links==
 
 * [http://www.irs.gov/pub/irs-pdf/fw9.pdf Fillable PDF version of IRS W-9 Form]
