@@ -20,3 +20,6 @@ Here I'll keep some observations of the course as I go along.
 - I'm getting more and more frustrated that I'm having to spend so much time
   on math, when I consider some of the other activities I do, like [Wikipedia
   editing](wikipedia) to be of higher value.
+- When it comes to the divergence theorem and Stokes's theorem, and other
+  multi-dimensional ideas, I really feel like Folland's book doesn't contain
+  enough illustrations.
