@@ -62,3 +62,7 @@ In addition, math 33X this year has had a lot more opportunities to work with
 classmates on problem sets, and since I typeset most of my homework with
 LaTeX, it's useful to be able to solve a problem and then type it up all while
 working with people in a library.
+
+I actually like my Thinkpad so much now that I just use it at home as well; I
+just take it back each weekend.
+At home I hook it up to an external monitor and enjoy a dual-screen setup.
