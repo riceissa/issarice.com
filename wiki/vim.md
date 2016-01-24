@@ -170,7 +170,7 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
   insert mode and start executing normal mode commands (I now use just `C-r+`
   in insert mode though, or `"+P` in normal mode). `C-l` is actually the
   default escape in evim, so it's somewhat strange that the mapping doesn't
-  also exist in Vim itself (edit: I actually just found out why. Apparently vim can't keep track of separate key mappings for vim and evim, so if one maps `C-l` to `<esc>`, then, since escape is disabled in evim, one can never escape easy mode!). One problem I've had so far though: in linewise
+  also exist in Vim itself (edit: I actually just found out why. Apparently vim can't keep track of separate key mappings for vim and evim, so if one maps `C-l` to `<esc>`, then, since escape is disabled in evim, one can never escape easy mode! Luckily I don't ever use easy mode---I think Neovim removes it, in fact---so I have the luxury of leaving Vim in this broken state). One problem I've had so far though: in linewise
   insert completion mode with `C-x` `C-l`, hitting `C-l` again will just shift
   through the completions instead of escaping. To break out, one must use `C-[`
   or `C-e` as usual.
