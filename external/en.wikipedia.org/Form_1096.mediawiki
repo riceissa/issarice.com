@@ -4,7 +4,7 @@
 
 Form 1096 is only used if one is physically filing the accompanying forms with the IRS. If one files the accompanying forms electronically, then Form 1096 is not required.<ref name="1099fire">{{cite web |url=https://www.1099fire.com/learning_center/general_instructions/whatis/1096.htm |title= What is IRS Form 1096? |accessdate=January 24, 2016 |publisher=1099FIRE}}</ref><ref>{{cite web |url=http://accounting.pettir.com/resources/tax-guide/how-to-prepare-file-form-1096-to-the-irs |title=How to Prepare &amp; File Form 1096 to the IRS |accessdate=January 24, 2016}}</ref>
 
-When more than 250 information returns (e.g. Forms 1042-S, 1098, 1099) are filed for the [[calendar year]], one is required to file electronically with the IRS, in which case Form 1096 is not used.<ref name="tc801">{{cite web |url=https://www.irs.gov/taxtopics/tc801.html |title=Topic 801 - Who Must File Information Returns Electronically |accessdate=January 24, 2016 |publisher=Internal Revenue Service}}</ref>
+When more than 250 information returns (e.g. Forms 1042-S, 1098, 1099) of a single type are filed for the [[calendar year]], one is required to file electronically with the IRS, in which case Form 1096 is not used.<ref name="tc801">{{cite web |url=https://www.irs.gov/taxtopics/tc801.html |title=Topic 801 - Who Must File Information Returns Electronically |accessdate=January 24, 2016 |publisher=Internal Revenue Service}}</ref>
 
 ==Requirements==
 
