@@ -1,10 +1,20 @@
-'''Form W-2''' (officially, the "Wage and Tax Statement") is used to report wages paid to employees and the [[Tax withholding in the United States|taxes withheld]] from them.<ref>See generally {{usc|26|6051}}, 26 C.F.R. sec. 31.6051-1 and sec. 31.6051-2.</ref> Employers must complete a Form W-2 for each employee to whom they pay a salary, wage, or other compensation as part of the employment relationship. An employer must mail out the Form W-2 to employees on or before January 31. This deadline gives these taxpayers about 2 months to prepare their returns before the April 15 income tax due date. The form is also used to report [[Federal Insurance Contributions Act tax|FICA taxes]] to the [[Social Security Administration]]. The Form W-2, along with Form W-3, generally must be filed by the employer with the Social Security Administration by the end of February. Relevant amounts on Form W-2 are reported by the Social Security Administration to the [[Internal Revenue Service]]. In  territories, the W-2 is issued with a two letter code indicating which territory, such as W-2GU for Guam. If corrections are made, it can be done on a W-2c.  
+'''Form W-2''' (officially, the "Wage and Tax Statement") is an [[IRS tax forms|Internal Revenue Service (IRS) tax form]] used in the United States to report wages paid to employees and the [[Tax withholding in the United States|taxes withheld]] from them.<ref>See generally {{usc|26|6051}}, 26 C.F.R. sec. 31.6051-1 and sec. 31.6051-2.</ref> Employers must complete a Form W-2 for each employee to whom they pay a salary, wage, or other compensation as part of the employment relationship. An employer must mail out the Form W-2 to employees on or before January 31. This deadline gives these taxpayers about 2 months to prepare their returns before the April 15 income tax due date. The form is also used to report [[Federal Insurance Contributions Act tax|FICA taxes]] to the [[Social Security Administration]]. The Form W-2, along with Form W-3, generally must be filed by the employer with the Social Security Administration by the end of February. Relevant amounts on Form W-2 are reported by the Social Security Administration to the [[Internal Revenue Service]]. In  territories, the W-2 is issued with a two letter code indicating which territory, such as W-2GU for Guam. If corrections are made, it can be done on a W-2c.
 
 ==Significance for employee's tax return==
+
+Form W-2 includes wage and salary information as well as federal, state, and other taxes that were withheld. This information is used by the employee when they complete their individual tax return using [[Form 1040]].<ref name="turbo_w2">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/What-is-a-W-2-Form-/INF14812.html |title=What is a W-2 Form? |accessdate=January 25, 2016 |date=2015}}</ref>
+
+An employer must mail out the Form W-2 to employees on or before January 31. This deadline gives these taxpayers about 2 months to prepare their returns before the [[Tax Day|April 15 income tax due date]].<ref name="turbo_w2" />
+
+When an employee prepares their individual tax return for a tax year, the withholding amount from Form W-2 is subtracted from the tax due. It is possible to receive a refund from the IRS if more income was withheld than necessary.<ref name="turbo_w2" />
+
+Since the IRS receives a copy of the W-2 from the employer, if the amount reported on the W-2 does not match the amount reported on Form 1040, the IRS may get suspicious. In addition, if an individual does not pay the required amount of taxes, the IRS will also know this.<ref name="turbo_w2" />
 
 ==Filing requirements==
 
 ===Who must file?===
+
+Form W-2 is only used for employees. For independent contractors, [[Form 1099-MISC]] is used to report earnings.<ref name="turbo_w2" />
 
 ===Filing modalities===
 
