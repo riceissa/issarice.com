@@ -14,6 +14,10 @@ The employee receives three copies of Form W-2: one for the record, one for the 
 
 ==Filing requirements==
 
+Form W-2 must be completed by the employers and be in the mail to be sent to employees by January 31. The deadline to the IRS is February 29. For electronic filings, the deadline to the IRS is April 2.<ref name="chron">{{cite web |url=http://smallbusiness.chron.com/penalties-employers-late-w2s-22027.html |title=What Are the Penalties to Employers for Late W-2s? |accessdate=January 25, 2016 |last=Myers |first=Cynthia}}</ref>
+
+If over 250 instances of Form W-2 are being filed for the year, electronic filing is required.<ref name="tc801">{{cite web |url=https://www.irs.gov/taxtopics/tc801.html |title=Topic 801 - Who Must File Information Returns Electronically |accessdate=January 24, 2016 |publisher=Internal Revenue Service}}</ref>
+
 ===Who must file?===
 
 Form W-2 is completed by employers who pay a wage or salary to employees.<ref name=investopedia_w2" /> However, Form W-2 is not used for contract workers. For independent contractors, [[Form 1099-MISC]] is used to report earnings.<ref name="turbo_w2" />
@@ -23,6 +27,10 @@ Form W-2 is completed by employers who pay a wage or salary to employees.<ref na
 Traditionally Form W-2 has been completed by paper. [[Tax compliance software]] such as [[TurboTax]] allow the form to be completed electronically.<ref name="investopedia_w2">{{cite web |url=http://www.investopedia.com/terms/w/w2form.asp |title=W-2 Form |accessdate=January 25, 2016}}</ref>
 
 ==Penalties==
+
+Late filings within 30 days of the due date incur a penalty of $30 per form. After 30 days but before August 1, the penalty increases to $60 per form (capped between $200–$500 depending on size of business). After August 1, the penalty increases to $100 per form (capped between $500–$1500 depending on size of business).<ref name="chron" />
+
+Further penalties exist for incorrect forms, illegible forms, and for filing by paper even past the 250 form limit.<ref name="chron" />
 
 ==History==
 
