@@ -8,9 +8,9 @@ An employer must mail out the Form W-2 to employees on or before January 31. Thi
 
 When an employee prepares their individual tax return for a tax year, the withholding amount from Form W-2 is subtracted from the tax due. It is possible to receive a refund from the IRS if more income was withheld than necessary.<ref name="turbo_w2" />
 
-Since the IRS receives a copy of the W-2 from the employer, if the amount reported on the W-2 does not match the amount reported on Form 1040, the IRS may get suspicious. In addition, if an individual does not pay the required amount of taxes, the IRS will also know this.<ref name="turbo_w2" />
+Since the IRS receives a copy of the W-2 from the employer, if the amount reported on the W-2 does not match the amount reported on Form 1040, the IRS may get suspicious. In addition, if an individual does not pay the required amount of taxes, the IRS will also know this.<ref name="turbo_w2" /> In this way, the IRS uses Form W-2 as a way to track an employee's tax liability, and the form has come to be seen as a formal proof of income. The [[Social Security Administration]], court proceedings, and applications for federal financial aid for college may all use Form W-2 as proof of income.<ref name="ambar" />
 
-Form W-2 must be attached to one's individual tax return.<ref name="turbo_w2" />
+The employee receives three copies of Form W-2: one for the record, one for the federal tax return, and one for the state tax return.<ref name="ambar" /> Form W-2 must be attached to one's individual tax return.<ref name="turbo_w2" />
 
 ==Filing requirements==
 
@@ -25,6 +25,14 @@ Traditionally Form W-2 has been completed by paper. [[Tax compliance software]] 
 ==Penalties==
 
 ==History==
+
+Use of Form W-2 was established by the [[Current Tax Payment Act of 1943]] as part of an effort to withhold income at source. The first Form W-2s were issued to employees in 1044.<ref name="ambar">{{cite web |url=https://www.americanbar.org/publications/insights_on_law_andsociety/15/winter-2015/getting-to-know-irs-w2-form.html |title=Getting to Know the IRS W-2 Form |accessdate=January 25, 2016 |publisher=American Bar Association}}</ref>
+
+In 1965, the form's name was changed from "Withholding Tax Statement" to "Wage and Tax Statement" (current name).<ref name="ambar" />
+
+In 1978, the form's appearance changed to its modern style of numbered boxes.<ref name="ambar" />
+
+As with the US tax code and other forms (such as the [[Form 1040#History|1040]]), Form W-2 has become more complicated over time.<ref name="ambar" />
 
 ==Analogs in other countries==
 
