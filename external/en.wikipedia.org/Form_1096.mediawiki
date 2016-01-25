@@ -1,4 +1,4 @@
-'''Form 1096''' (officially the "Annual Summary and Transmittal of U.S. Information Returns"<ref name="actual_form">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1096.pdf |title=Annual Summary and Transmittal of U.S. Information Returns |accessdate=January 24, 2016 |date=2016}}</ref>) is an [[IRS tax forms|Internal Revenue Service (IRS) tax form]] used in the United States used to summarize other forms being sent to the IRS.
+'''Form 1096''' (officially the "Annual Summary and Transmittal of U.S. Information Returns"<ref name="actual_form">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1096.pdf |title=Annual Summary and Transmittal of U.S. Information Returns |accessdate=January 24, 2016 |date=2016}}</ref>) is an [[IRS tax forms|Internal Revenue Service (IRS) tax form]] used in the United States used to summarize other forms being sent to the IRS. Information returns are sent by the issuer to recipients as well as the IRS, but Form 1096 is not sent to the recipients; rather it is only sent to the IRS.
 
 ==Paper versus electronic filing==
 
