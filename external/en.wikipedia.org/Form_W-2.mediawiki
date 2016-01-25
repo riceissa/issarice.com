@@ -30,7 +30,9 @@ Traditionally Form W-2 has been completed by paper. [[Tax compliance software]] 
 
 Late filings within 30 days of the due date incur a penalty of $30 per form. After 30 days but before August 1, the penalty increases to $60 per form (capped between $200–$500 depending on size of business). After August 1, the penalty increases to $100 per form (capped between $500–$1500 depending on size of business).<ref name="chron" />
 
-Further penalties exist for incorrect forms, illegible forms, and for filing by paper even past the 250 form limit.<ref name="chron" />
+The penalty for a single incorrect Form W-2 is $250 per receiving party (capped anually at $3 million); this means a single incorrect Form W-2 to both the employer and the IRS incurs a penalty of $500. The penalty of intentionally failing to file is $500.<ref name="lexology">{{cite web |url=http://www.lexology.com/library/detail.aspx?g=dab5213a-aca5-4271-98b5-853a4af84e4a |title= Penalties for incorrect W-2, 1099s just doubled |accessdate=January 25, 2016 |date=July 22, 2015 |authors=Sharon B. Bauman, Alan M. Brunswick, Esra Acikalin Hudson, Sandra R. King, Stanley W. Levy and Mandana Massoumi}}</ref>
+
+Further penalties exist for illegible forms and for filing by paper even past the 250 form limit.<ref name="chron" />
 
 ==History==
 
@@ -41,6 +43,8 @@ In 1965, the form's name was changed from "Withholding Tax Statement" to "Wage a
 In 1978, the form's appearance changed to its modern style of numbered boxes.<ref name="ambar" />
 
 As with the US tax code and other forms (such as the [[Form 1040#History|1040]]), Form W-2 has become more complicated over time.<ref name="ambar" />
+
+The penalty for incorrect forms was increased in 2015.<ref name="lexology" />
 
 ==Analogs in other countries==
 
