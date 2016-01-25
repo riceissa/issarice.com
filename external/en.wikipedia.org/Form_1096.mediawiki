@@ -1,0 +1,5 @@
+'''Form 1096''' (officially the "Annual Summary and Transmittal of U.S. Information Returns"<ref name="actual_form">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1096.pdf |title=Annual Summary and Transmittal of U.S. Information Returns |accessdate=January 24, 2016 |date=2016}}</ref>) is an [[IRS tax forms|Internal Revenue Service (IRS) tax form]] used in the United States used to summarize other forms being sent to the IRS.
+
+Form 1096 is only used if one is physically filing with the IRS.<ref name="1099fire">{{cite web |url=https://www.1099fire.com/learning_center/general_instructions/whatis/1096.htm |title= What is IRS Form 1096? |accessdate=January 24, 2016 |publisher=1099FIRE}}</ref>
+
+Each type of form must be sent with a separate Form 1096. For the purpose of filing Form 1096, variants of certain forms are treated as separate types. For instance with [[Form 1099]], each variant (such as [[Form 1099-MISC]] and Form 1099-K) is treated as a different form. In box 6 on Form 1096, only one box should have an "X" mark in it.<ref name="actual_form" />
