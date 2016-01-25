@@ -1,6 +1,10 @@
 '''Form 1096''' (officially the "Annual Summary and Transmittal of U.S. Information Returns"<ref name="actual_form">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1096.pdf |title=Annual Summary and Transmittal of U.S. Information Returns |accessdate=January 24, 2016 |date=2016}}</ref>) is an [[IRS tax forms|Internal Revenue Service (IRS) tax form]] used in the United States used to summarize other forms being sent to the IRS.
 
-Form 1096 is only used if one is physically filing the accompanying forms with the IRS. Form 1096 can be filed by paper or electronically. In other words, it is possible to file an accompanying form (e.g. [[Form 1099-MISC]]) by paper, but to file Form 1096 electronically. In contrast, if one files the accompanying forms electronically, then Form 1096 is not required.<ref name="1099fire">{{cite web |url=https://www.1099fire.com/learning_center/general_instructions/whatis/1096.htm |title= What is IRS Form 1096? |accessdate=January 24, 2016 |publisher=1099FIRE}}</ref>
+==Paper versus electronic filing==
+
+Form 1096 is only used if one is physically filing the accompanying forms with the IRS. If one files the accompanying forms electronically, then Form 1096 is not required.<ref name="1099fire">{{cite web |url=https://www.1099fire.com/learning_center/general_instructions/whatis/1096.htm |title= What is IRS Form 1096? |accessdate=January 24, 2016 |publisher=1099FIRE}}</ref><ref>{{cite web |url=http://accounting.pettir.com/resources/tax-guide/how-to-prepare-file-form-1096-to-the-irs |title=How to Prepare &amp; File Form 1096 to the IRS |accessdate=January 24, 2016}}</ref>
+
+==Requirements==
 
 Each type of form must be sent with a separate Form 1096. For the purpose of filing Form 1096, variants of certain forms are treated as separate types. For instance with [[Form 1099]], each variant (such as [[Form 1099-MISC]] and Form 1099-K) is treated as a different form. In box 6 on Form 1096, only one box should have an "X" mark in it.<ref name="actual_form" /> Even if only one instance of each form was prepared, Form 1096 must be used.<ref name="1099fire" />
 
