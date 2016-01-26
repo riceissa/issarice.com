@@ -1,3 +1,5 @@
+[[File:Form_W-2,_2016.pdf|thumb|right|Form W-2, 2016|page=2]]
+
 '''Form W-2''' (officially, the "Wage and Tax Statement") is an [[IRS tax forms|Internal Revenue Service (IRS) tax form]] used in the United States to report wages paid to employees and the [[Tax withholding in the United States|taxes withheld]] from them.<ref>See generally {{usc|26|6051}}, 26 C.F.R. sec. 31.6051-1 and sec. 31.6051-2.</ref> Employers must complete a Form W-2 for each employee to whom they pay a salary, wage, or other compensation as part of the employment relationship. An employer must mail out the Form W-2 to employees on or before January 31. This deadline gives these taxpayers about 2 months to prepare their returns before the April 15 income tax due date. The form is also used to report [[Federal Insurance Contributions Act tax|FICA taxes]] to the [[Social Security Administration]]. The Form W-2, along with Form W-3, generally must be filed by the employer with the Social Security Administration by the end of February. Relevant amounts on Form W-2 are reported by the Social Security Administration to the [[Internal Revenue Service]]. In  territories, the W-2 is issued with a two letter code indicating which territory, such as W-2GU for Guam. If corrections are made, it can be done on a W-2c.
 
 ==Significance for employee's tax return==
@@ -10,7 +12,9 @@ When an employee prepares their individual tax return for a tax year, the withho
 
 Since the IRS receives a copy of the W-2 from the employer, if the amount reported on the W-2 does not match the amount reported on Form 1040, the IRS may get suspicious. In addition, if an individual does not pay the required amount of taxes, the IRS will also know this.<ref name="turbo_w2" /> In this way, the IRS uses Form W-2 as a way to track an employee's tax liability, and the form has come to be seen as a formal proof of income. The [[Social Security Administration]], court proceedings, and applications for federal financial aid for college may all use Form W-2 as proof of income.<ref name="ambar" />
 
-The employee receives three copies of Form W-2: one for the record, one for the federal tax return, and one for the state tax return.<ref name="ambar" /> Form W-2 must be attached to one's individual tax return.<ref name="turbo_w2" />
+The employee receives three copies of Form W-2: one for the record, one for the federal tax return, and one for the state tax return.<ref name="ambar" /> Form W-2 must be attached to one's individual tax return; this is to substantiate claims of withholding.<ref name="turbo_w2" />
+
+Employees are required to report their wage, salary, and tip income even if they don't receive a Form W-2 for it.
 
 ==Filing requirements==
 
