@@ -30,10 +30,6 @@ If over 250 instances of Form W-2 are being filed for the year, electronic filin
 
 Form W-2 is completed by employers who pay a wage or salary to employees.<ref name=investopedia_w2" /> However, Form W-2 is not used for contract workers. For independent contractors, [[Form 1099-MISC]] is used to report earnings.<ref name="turbo_w2" />
 
-===Nonresident employees===
-
-For nonresident employees, some amount of wages might be exempt under a tax treaty and processed through Forms 1042 and 1042-S.<ref name="aliens_w2">{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Aliens-Employed-in-the-U.S. |title=Aliens Employed in the U.S. |accessdate=January 28, 2016 |publisher=Internal Revenue Service}}</ref>
-
 ===Filing modalities===
 
 Traditionally Form W-2 has been completed by paper. [[Tax compliance software]] such as [[TurboTax]] allow the form to be completed electronically.<ref name="investopedia_w2">{{cite web |url=http://www.investopedia.com/terms/w/w2form.asp |title=W-2 Form |accessdate=January 25, 2016}}</ref> For paper filing, Form W-2 can be ordered from the IRS website.
