@@ -1,0 +1,39 @@
+== Fiduciary reporting ==
+According to section 1223(b) of the [[Pension Protection Act of 2006]], a nonprofit organization that does not file annual returns or notices for three consecutive years will have its tax-exempt status revoked as of the due date of the third return or notice.<ref>{{cite web |title= Pension Protection Act of 2006, Section 1223(b) |date= August 17, 2006 |work= Government Printing Office |url= http://www.gpo.gov/fdsys/pkg/PLAW-109publ280/html/PLAW-109publ280.htm }}</ref> An organization's tax-exempt status may be reinstated if it can show reasonable cause for the years of nonfiling.<ref>{{cite web |title= Notice 2011-43: Transitional Relief Under Internal Revenue Code § 6033(j) for Small Organizations |work= Internal Revenue Bulletin: 2011-25 |publisher= Internal Revenue Service |date= June 20, 2011 |url= http://www.irs.gov/irb/2011-25_IRB/ar09.html }}</ref>
+
+=== 990 ===
+The Form 990 provides the public with financial information about a nonprofit organization, and is often the only source of such information.  It is also used by government agencies to prevent organizations from abusing their tax-exempt status. In June 2007, the IRS released a new Form 990 that requires significant disclosures on [[corporate governance]] and boards of directors. These new disclosures are required for all nonprofit filers for the 2009 tax year, with more significant reporting requirements for nonprofits with over $1 million in revenues or $2.5 million in assets. In addition, certain nonprofits have more comprehensive reporting requirements, such as hospitals and other health care organizations (Schedule H). The Form 990 may be filed with the IRS by mail or electronically with an Authorized [[IRS e-file]] Provider.
+
+The Form 990 disclosures do not require but strongly encourage nonprofit boards to adopt a variety of board policies regarding governance practices. These suggestions go beyond [[Sarbanes-Oxley]] requirements for nonprofits to adopt [[whistleblower]] and document retention policies. The IRS has indicated they will use the Form 990 as an enforcement tool, particularly regarding executive compensation. For example, nonprofits that adopt specific procedures regarding executive compensation are offered [[safe harbor (law)|safe harbor]] from excessive compensation rules under section 4958 of the Internal Revenue Code and Treasury Regulation section 53.4958-6.<ref>{{cite web|last=IRS |url=http://www.irs.gov/pub/irs-tege/governance_practices.pdf |title=Governance and Related Topics - 501(c)(3) Organizations |publisher=Online.irs.gov |date=2008-02-04 |accessdate=2009-06-05}}</ref>
+
+'''Public Inspection'''
+IRC 6104(d) regulations state that an organization must provide copies of its three most recent Forms 990 to anyone who requests them, whether in person, by mail, fax, or e-mail. Additionally, requests may be made via the IRS using Form 4506-A, and PDF copies can often be found online as noted below.
+
+* New IRS Form 990<ref>{{cite web|url=http://2013taxes.org/form-990-redesign-tax-year-2008-filed-2009/ |title=Form 990 Redesign for Tax Year 2008 (Filed in 2009) |publisher=2013taxes.org |date=2014-02-19 |accessdate=2014-03-17}}</ref>
+* Instructions for Form 990 and Form 990-EZ<ref>[http://www.irs.gov/instructions/i990-ez/ ]{{dead link|date=April 2014}}</ref>
+* Due 15th of 5th month after fiscal year, with up to 6 months of extensions.<ref>{{cite web|url=http://www.irs.gov/Charities-&-Non-Profits/Annual-Exempt-Organization-Return:-Due-Date |title=Annual exempt organization return: Due date |publisher=IRS |accessdate=2014-05-17}}</ref> Late penalty for political organizations is $20–$100/day (not clear for other nonprofits),<ref>{{cite web|url=http://www.irs.gov/Charities-&-Non-Profits/Political-Organizations/Political-Organization-Filing-Requirements:-Penalties-for-Failure-to-File-Form-990 |title=Penalties for Not Filing Form 990 |publisher=IRS |accessdate=2014-05-17}}</ref> and penalty for failure to provide to the public is $20 per day.<ref>{{cite web|url=http://www.irs.gov/Charities-&-Non-Profits/Political-Organizations/Political-Organization-Filing-Requirements:-Penalties-for-Failing-to-Make-Forms-990-Publicly-Available |title=Penalties for Failing to Make Forms 990 Publicly Available |publisher=IRS |accessdate=2014-05-17}}</ref>
+* Citizen Audit<ref>{{cite web|url=http://citizenaudit.org |title=Nonprofit Form 990 Search | publisher=Citizen Audit |accessdate=2014-05-18}}</ref> provides PDF copies of annual returns, signatures not blacked out.
+* Economic Research Institute<ref>{{cite web|url=http://www.eri-nonprofit-salaries.com/?FuseAction=NPO.Search |title=Nonprofit Organization Information | publisher=Economic Research Institute|accessdate=2014-05-17}}</ref> provides PDF copies of annual returns, signatures not blacked out.
+* Foundation Center<ref>http://tfcny.fdncenter.org/990s/990search/esearch.php</ref> IRS Form 990 lookup tool; provides PDF copies of annual returns, signatures blacked out.
+* Guidestar<ref>{{cite web|url=http://www.guidestar.org/ |title=guidestar.org | publisher=guidestar.org |date=2014-03-06 |accessdate=2014-04-23}}</ref> IRS Form 990's and other information for selection of nonprofits, free and fee based
+* NCCS<ref>{{cite web|url=http://nccs.urban.org/ |title=nccs.urban.org | publisher=nccs.urban.org |date=2008-07-15 |accessdate=2014-04-23}}</ref> IRS Form 990 search tool and nonprofit organization profiles, signatures blacked out.
+* [[Charity Navigator]] uses IRS Forms 990<ref>{{cite web|url=http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/484.htm#10 |title=FAQ for Donors |publisher=Charity Navigator |date= |accessdate=2014-04-23}}</ref> to rate charities.
+* [[BoardSource]] Governance requirements<ref>{{cite web|url=http://www.boardsource.org/dl.asp?document_id=681 |title=Learning Center and Store |publisher=BoardSource |date= |accessdate=2014-03-17}}</ref> in 990.
+
+In addition to Form 990, tax-exempt organizations are also subject to a variety of disclosure and compliance requirements through various schedules which are attached to Form 990 (and, in some cases, 990-EZ or 990-PF). Filing of schedules by organizations supplements, enhances, and further clarifies disclosures and compliance reporting made in Form 990. Often, filing of schedules is mandatory, but there are situations where organizations not otherwise subject to filing requirements may consider completing certain schedules despite not being technically obligated to. The current{{When|reason=as of when? This parargraph has no citations so no one knows if this list is accurate|date=December 2015}} list of possible schedule filings are:
+* Schedule A - Public Charity Status and Public Support
+* Schedule B - Schedule of Contributors
+* Schedule C - Political Campaign and Lobbying Activities
+* Schedule D - Supplemental Financial Statements
+* Schedule E - Schools
+* Schedule F - Statement of Activities Outside the United States
+* Schedule G - Supplemental Information Regarding Fundraising or Gaming Activities
+* Schedule H - Hospitals
+* Schedule I - Grants and Other Assistance to Organizations, Governments, and Individuals in the United States
+* Schedule J - Compensation Information
+* Schedule K - Supplemental Information on Tax-Exempt Bonds
+* Schedule L - Transactions With Interested Persons
+* Schedule M - Noncash Contributions
+* Schedule N - Liquidation, Termination, Dissolution, or Significant Disposition of Assets
+* Schedule O - Supplemental Information to Form 990
+* Schedule R - Related Organizations and Unrelated Partnerships
