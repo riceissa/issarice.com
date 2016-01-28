@@ -16,6 +16,10 @@ The employee receives three copies of Form W-2: one for the record, one for the 
 
 Employees are required to report their wage, salary, and tip income even if they don't receive a Form W-2 for it.
 
+===Tip income===
+
+Employees are required to report their tip income to their employers (usually using Form 4070). Tips are subject to income withholding. There are various other requirements when handling tips for tax purposes.<ref name="irs_tips">{{cite web |url=https://www.irs.gov/Businesses/Small-Businesses-%26-Self-Employed/Reporting-Tip-Income-Restaurant-Tax-Tips |title=Reporting Tip Income - Restaurant Tax Tips |accessdate=January 28, 2016}}</ref>
+
 ==Filing requirements==
 
 Form W-2 must be completed by the employers and be in the mail to be sent to employees by January 31. The deadline to the IRS is February 29. For electronic filings, the deadline to the IRS is April 2.<ref name="chron">{{cite web |url=http://smallbusiness.chron.com/penalties-employers-late-w2s-22027.html |title=What Are the Penalties to Employers for Late W-2s? |accessdate=January 25, 2016 |last=Myers |first=Cynthia}}</ref>
@@ -26,9 +30,15 @@ If over 250 instances of Form W-2 are being filed for the year, electronic filin
 
 Form W-2 is completed by employers who pay a wage or salary to employees.<ref name=investopedia_w2" /> However, Form W-2 is not used for contract workers. For independent contractors, [[Form 1099-MISC]] is used to report earnings.<ref name="turbo_w2" />
 
+===Nonresident employees===
+
+For nonresident employees, some amount of wages might be exempt under a tax treaty and processed through Forms 1042 and 1042-S.<ref name="aliens_w2">{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Aliens-Employed-in-the-U.S. |title=Aliens Employed in the U.S. |accessdate=January 28, 2016 |publisher=Internal Revenue Service}}</ref>
+
 ===Filing modalities===
 
-Traditionally Form W-2 has been completed by paper. [[Tax compliance software]] such as [[TurboTax]] allow the form to be completed electronically.<ref name="investopedia_w2">{{cite web |url=http://www.investopedia.com/terms/w/w2form.asp |title=W-2 Form |accessdate=January 25, 2016}}</ref>
+Traditionally Form W-2 has been completed by paper. [[Tax compliance software]] such as [[TurboTax]] allow the form to be completed electronically.<ref name="investopedia_w2">{{cite web |url=http://www.investopedia.com/terms/w/w2form.asp |title=W-2 Form |accessdate=January 25, 2016}}</ref> For paper filing, Form W-2 can be ordered from the IRS website.
+
+When filing by paper, Copy A of the form cannot be printed from the IRS website. In other words, the official form ordered from the IRS must be used.<ref name="actual_form_w2">{{cite web |url=https://www.irs.gov/pub/irs-pdf/fw2.pdf |title=Form W-2 |accessdate=January 28, 2016 |publisher=Internal Revenue Service}}</ref>
 
 ==Penalties==
 
