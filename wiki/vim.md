@@ -331,3 +331,11 @@ it:
   the makefile gets rid of this error, but that's just a hack. Removing the
   directory `~/.vim/eclim` gets rid of this issue, but then obviously I can't
   use eclim for completions.
+- Strange "bug" (not sure if intended behavior): with `incsearch` on, searching
+  for text on a long line makes the found search term disappear sometimes, but
+  only on gvim. Take the raw text on [this
+  page](https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit). Then
+  turn `incsearch` on, then type `/incl` to try to search for "including".
+  After the "c" is typed, the match disappears and typing "l" brings it back,
+  and so forth. Hitting enter at any point completes the search, *but not on
+  gvim, where it just fails*.
