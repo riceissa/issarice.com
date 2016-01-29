@@ -16,22 +16,62 @@ IRC 6104(d) regulations state that an organization must provide copies of its th
 * [[BoardSource]] Governance requirements<ref>{{cite web|url=http://www.boardsource.org/dl.asp?document_id=681 |title=Learning Center and Store |publisher=BoardSource |date= |accessdate=2014-03-17}}</ref> in 990.
 
 In addition to Form 990, tax-exempt organizations are also subject to a variety of disclosure and compliance requirements through various schedules which are attached to Form 990 (and, in some cases, 990-EZ or 990-PF). Filing of schedules by organizations supplements, enhances, and further clarifies disclosures and compliance reporting made in Form 990. Often, filing of schedules is mandatory, but there are situations where organizations not otherwise subject to filing requirements may consider completing certain schedules despite not being technically obligated to. The current{{When|reason=as of when? This parargraph has no citations so no one knows if this list is accurate|date=December 2015}} list of possible schedule filings are:
-* Schedule A - Public Charity Status and Public Support
-* Schedule B - Schedule of Contributors
-* Schedule C - Political Campaign and Lobbying Activities
-* Schedule D - Supplemental Financial Statements
-* Schedule E - Schools
-* Schedule F - Statement of Activities Outside the United States
-* Schedule G - Supplemental Information Regarding Fundraising or Gaming Activities
-* Schedule H - Hospitals
-* Schedule I - Grants and Other Assistance to Organizations, Governments, and Individuals in the United States
-* Schedule J - Compensation Information
-* Schedule K - Supplemental Information on Tax-Exempt Bonds
-* Schedule L - Transactions With Interested Persons
-* Schedule M - Noncash Contributions
-* Schedule N - Liquidation, Termination, Dissolution, or Significant Disposition of Assets
-* Schedule O - Supplemental Information to Form 990
-* Schedule R - Related Organizations and Unrelated Partnerships
+
+==Schedules==
+
+{| class="wikitable"
+|-
+! Type !! Name
+|-
+| Schedule A
+| Public Charity Status and Public Support
+|-
+| Schedule B
+| Schedule of Contributors
+|-
+| Schedule C
+| Political Campaign and Lobbying Activities
+|-
+| Schedule D
+| Supplemental Financial Statements
+|-
+| Schedule E
+| Schools
+|-
+| Schedule F
+| Statement of Activities Outside the United States
+|-
+| Schedule G
+| Supplemental Information Regarding Fundraising or Gaming Activities
+|-
+| Schedule H
+| Hospitals
+|-
+| Schedule I
+| Grants and Other Assistance to Organizations, Governments, and Individuals in the United States
+|-
+| Schedule J
+| Compensation Information
+|-
+| Schedule K
+| Supplemental Information on Tax-Exempt Bonds
+|-
+| Schedule L
+| Transactions With Interested Persons
+|-
+| Schedule M
+| Noncash Contributions
+|-
+| Schedule N
+| Liquidation, Termination, Dissolution, or Significant Disposition of Assets
+|-
+| Schedule O
+| Supplemental Information to Form 990
+|-
+| Schedule R
+| Related Organizations and Unrelated Partnerships
+|}
+
 
 ==Filing requirements==
 
@@ -56,6 +96,8 @@ Meanwhile [[Holden Karnofsky]] of the nonprofit charity evaluator [[GiveWell]] h
 According to section 1223(b) of the [[Pension Protection Act of 2006]], a nonprofit organization that does not file annual returns or notices for three consecutive years will have its tax-exempt status revoked as of the due date of the third return or notice.<ref>{{cite web |title= Pension Protection Act of 2006, Section 1223(b) |date= August 17, 2006 |work= Government Printing Office |url= http://www.gpo.gov/fdsys/pkg/PLAW-109publ280/html/PLAW-109publ280.htm }}</ref> An organization's tax-exempt status may be reinstated if it can show reasonable cause for the years of nonfiling.<ref>{{cite web |title= Notice 2011-43: Transitional Relief Under Internal Revenue Code § 6033(j) for Small Organizations |work= Internal Revenue Bulletin: 2011-25 |publisher= Internal Revenue Service |date= June 20, 2011 |url= http://www.irs.gov/irb/2011-25_IRB/ar09.html }}</ref>
 
 ==See also==
+
+* [[United States non-profit laws]]
 
 ==References==
 
