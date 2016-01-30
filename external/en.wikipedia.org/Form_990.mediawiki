@@ -86,7 +86,7 @@ The Form 990 may be filed with the IRS by mail or electronically with an Authori
 
 Form 990 was first used for the [[tax year]] ending in 1941. It started out as a two-page form.<ref name="eotopicg02" />
 
-The form reached four pages in 1947.<ref name="eotopicg02" />
+The form reached four pages (including instructions) in 1947. In 1976 this was increased to 5.5 pages (including instructions), with 8 pages for Schedule A. By 2000 this was 6 pages for Form 990, 42 pages for instructions, 6 pages for Schedule A, and at least 2 pages for Schedule B. This increase is due to use of a larger font and inclusion of sections that are only required for some organizations.<ref name="eotopicg02" />
 
 In June 2007, the IRS released a new Form 990 that requires significant disclosures on [[corporate governance]] and boards of directors. These new disclosures are required for all nonprofit filers for the 2009 tax year, with more significant reporting requirements for nonprofits with over $1 million in revenues or $2.5 million in assets.
 
