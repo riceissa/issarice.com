@@ -72,7 +72,6 @@ In addition to Form 990, tax-exempt organizations are also subject to a variety 
 | Related Organizations and Unrelated Partnerships
 |}
 
-
 ==Filing requirements==
 
 ===Who must file?===
@@ -84,7 +83,14 @@ The Form 990 may be filed with the IRS by mail or electronically with an Authori
 ==Penalties==
 
 ==History==
+
+Form 990 was first used for the [[tax year]] ending in 1941. It started out as a two-page form.<ref name="eotopicg02" />
+
+The form reached four pages in 1947.<ref name="eotopicg02" />
+
 In June 2007, the IRS released a new Form 990 that requires significant disclosures on [[corporate governance]] and boards of directors. These new disclosures are required for all nonprofit filers for the 2009 tax year, with more significant reporting requirements for nonprofits with over $1 million in revenues or $2.5 million in assets.
+
+With the availability of the internet, access to the Form 990 of an organization has also become easier. Originally Form 990 had to be requested through the IRS. This was changed to allow access to the form directly through the organization, although in some cases organizations refused to provide access.<ref name="eotopicg02">{{cite web |url=https://www.irs.gov/pub/irs-tege/eotopicg02.pdf |title=G. Form 990 |accessdate=January 29, 2016 |date=2002 |authors=Cheryl Chasin, Debra Kawecki and David Jones |publisher=Internal Revenue Service}}</ref>
 
 ==Use by charity evaluation organizations==
 
