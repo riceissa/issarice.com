@@ -17,6 +17,16 @@ IRC 6104(d) regulations state that an organization must provide copies of its th
 
 In addition to Form 990, tax-exempt organizations are also subject to a variety of disclosure and compliance requirements through various schedules which are attached to Form 990 (and, in some cases, 990-EZ or 990-PF). Filing of schedules by organizations supplements, enhances, and further clarifies disclosures and compliance reporting made in Form 990. Often, filing of schedules is mandatory, but there are situations where organizations not otherwise subject to filing requirements may consider completing certain schedules despite not being technically obligated to. The current{{When|reason=as of when? This parargraph has no citations so no one knows if this list is accurate|date=December 2015}} list of possible schedule filings are:
 
+==Variants==
+
+===Form 990-EZ===
+
+There is a variant of Form 990 called '''Form 990-EZ''' ("Short Form Return of Organization Exempt From Income Tax").
+
+===Form 990-PF===
+
+for private foundations...
+
 ==Schedules==
 
 {| class="wikitable"
@@ -82,7 +92,9 @@ The Form 990 may be filed with the IRS by mail or electronically with an Authori
 
 ==Penalties==
 
-There is a penalty of $20 per day until the form is filed (capped at the minimum of $1000 and 5% of the gross receipts of the organization for that year).<ref name="eotopicg02" />{{rp|229}} If the gross receipts are more than $1 million, the penalty is increased to $100 per day (capped at $50,000).
+There is a penalty of $20 per day until the form is filed (capped at the minimum of $1000 and 5% of the gross receipts of the organization for that year). If the gross receipts are more than $1 million, the penalty is increased to $100 per day (capped at $50,000). There are other penalties for e.g. omitting information.<ref name="eotopicg02" />{{rp|229}}
+
+In 1998, over $10 million was collected by the IRS for penalties on over 9000 forms.<ref name="eotopicg02" />{{rp|229}}
 
 ==History==
 
