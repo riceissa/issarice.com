@@ -25,7 +25,7 @@ There is a variant of Form 990 called '''Form 990-EZ''' ("Short Form Return of O
 
 ===Form 990-N===
 
-Small organizations whose annual gross receipts are "normally $50,000 or less" must file the electronic Form 990-N (officially, "Electronic Notice (e-Postcard) for Tax-Exempt Organizations Not Required to File Form 990 or Form 990EZ"). There is no paper form for 990-N, but it is possible to file instead Form 990 or Form 990-EZ.<ref name="epost_irs">{{cite web |url=https://www.irs.gov/Charities-%26-Non-Profits/Annual-Electronic-Filing-Requirement-for-Small-Exempt-Organizations-Form-990-N-e-Postcard |title=Annual Electronic Filing Requirement for Small Exempt Organizations — Form 990-N (e-Postcard) |accessdate=February 2, 2016 |publisher=Internal Revenue Service}}</ref>
+Small organizations whose annual gross receipts are "normally $50,000 or less" must file the electronic '''Form 990-N''' (officially, "Electronic Notice (e-Postcard) for Tax-Exempt Organizations Not Required to File Form 990 or Form 990EZ"). There is no paper form for 990-N, but it is possible to file instead Form 990 or Form 990-EZ.<ref name="epost_irs">{{cite web |url=https://www.irs.gov/Charities-%26-Non-Profits/Annual-Electronic-Filing-Requirement-for-Small-Exempt-Organizations-Form-990-N-e-Postcard |title=Annual Electronic Filing Requirement for Small Exempt Organizations — Form 990-N (e-Postcard) |accessdate=February 2, 2016 |publisher=Internal Revenue Service}}</ref>
 
 ===Form 990-PF===
 
@@ -35,60 +35,78 @@ for private foundations...
 
 {| class="wikitable"
 |-
-! Type !! Name
+! Type !! Name !! Can be filed with Form 990-EZ?
 |-
 | Schedule A
 | Public Charity Status and Public Support
+| Yes
 |-
 | Schedule B
 | Schedule of Contributors
+| Yes
 |-
 | Schedule C
 | Political Campaign and Lobbying Activities
+| Yes
 |-
 | Schedule D
 | Supplemental Financial Statements
+| No
 |-
 | Schedule E
 | Schools
+| Yes
 |-
 | Schedule F
 | Statement of Activities Outside the United States
+| No
 |-
 | Schedule G
 | Supplemental Information Regarding Fundraising or Gaming Activities
+| Yes
 |-
 | Schedule H
 | Hospitals
+| No
 |-
 | Schedule I
 | Grants and Other Assistance to Organizations, Governments, and Individuals in the United States
+| No
 |-
 | Schedule J
 | Compensation Information
+| No
 |-
 | Schedule K
 | Supplemental Information on Tax-Exempt Bonds
+| No
 |-
 | Schedule L
 | Transactions With Interested Persons
+| Yes
 |-
 | Schedule M
 | Noncash Contributions
+| No
 |-
 | Schedule N
 | Liquidation, Termination, Dissolution, or Significant Disposition of Assets
+| Yes
 |-
 | Schedule O
 | Supplemental Information to Form 990
+| No
 |-
 | Schedule R
 | Related Organizations and Unrelated Partnerships
+| No
 |}
 
 ==Filing requirements==
 
 ===Who must file?===
+
+Tax-exempt organizations with annual gross receipts of $200,000 or more or assets of $500,000 or more must file Form 990.<ref name="allison">Grace Allison. "The New Form 990 for Tax-Exempt Organizations: Revolution in Progress". 2010. ''Estate planning''. Vol. 37. Issue 3. pg 14–20.</ref>
 
 ===Filing modalities===
 
@@ -109,6 +127,8 @@ The form reached four pages (including instructions) in 1947. In 1976 this was i
 Starting in 2000, political organizations were required to file Form 990.<ref name="eotopicg02" />
 
 In June 2007, the IRS released a new Form 990 that requires significant disclosures on [[corporate governance]] and boards of directors. These new disclosures are required for all nonprofit filers for the 2009 tax year, with more significant reporting requirements for nonprofits with over $1 million in revenues or $2.5 million in assets.
+
+In 2010, the minimum threshold of when an organization is required to file Form 990 was increased: the minimum annual gross receipts was increased from $100,000 to $200,000 and the minimum assets was increased from $250,000 to $500,000.<ref name="allison"/>
 
 With the availability of the internet, access to the Form 990 of an organization has also become easier. Originally Form 990 had to be requested through the IRS. This was changed to allow access to the form directly through the organization, although in some cases organizations refused to provide access.<ref name="eotopicg02">{{cite web |url=https://www.irs.gov/pub/irs-tege/eotopicg02.pdf |title=G. Form 990 |accessdate=January 29, 2016 |date=2002 |authors=Cheryl Chasin, Debra Kawecki and David Jones |publisher=Internal Revenue Service}}</ref>
 
