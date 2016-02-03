@@ -2,21 +2,6 @@
 
 The Form 990 disclosures do not require but strongly encourage nonprofit boards to adopt a variety of board policies regarding governance practices. These suggestions go beyond [[Sarbanes-Oxley]] requirements for nonprofits to adopt [[whistleblower]] and document retention policies. The IRS has indicated they will use the Form 990 as an enforcement tool, particularly regarding executive compensation. For example, nonprofits that adopt specific procedures regarding executive compensation are offered [[safe harbor (law)|safe harbor]] from excessive compensation rules under section 4958 of the Internal Revenue Code and Treasury Regulation section 53.4958-6.<ref>{{cite web|last=IRS |url=http://www.irs.gov/pub/irs-tege/governance_practices.pdf |title=Governance and Related Topics - 501(c)(3) Organizations |publisher=Online.irs.gov |date=2008-02-04 |accessdate=2009-06-05}}</ref>
 
-'''Public Inspection'''
-IRC 6104(d) regulations state that an organization must provide copies of its three most recent Forms 990 to anyone who requests them, whether in person, by mail, fax, or e-mail. Additionally, requests may be made via the IRS using Form 4506-A, and PDF copies can often be found online as noted below.
-
-* New IRS Form 990<ref>{{cite web|url=http://2013taxes.org/form-990-redesign-tax-year-2008-filed-2009/ |title=Form 990 Redesign for Tax Year 2008 (Filed in 2009) |publisher=2013taxes.org |date=2014-02-19 |accessdate=2014-03-17}}</ref>
-* Instructions for Form 990 and Form 990-EZ<ref>[http://www.irs.gov/instructions/i990-ez/ ]{{dead link|date=April 2014}}</ref>
-* Due 15th of 5th month after fiscal year, with up to 6 months of extensions.<ref>{{cite web|url=http://www.irs.gov/Charities-%26-Non-Profits/Annual-Exempt-Organization-Return:-Due-Date |title=Annual exempt organization return: Due date |publisher=IRS |accessdate=2014-05-17}}</ref> Late penalty for political organizations is $20–$100/day (not clear for other nonprofits),<ref>{{cite web|url=http://www.irs.gov/Charities-%26-Non-Profits/Political-Organizations/Political-Organization-Filing-Requirements:-Penalties-for-Failure-to-File-Form-990 |title=Penalties for Not Filing Form 990 |publisher=IRS |accessdate=2014-05-17}}</ref> and penalty for failure to provide to the public is $20 per day.<ref>{{cite web|url=http://www.irs.gov/Charities-%26-Non-Profits/Political-Organizations/Political-Organization-Filing-Requirements:-Penalties-for-Failing-to-Make-Forms-990-Publicly-Available |title=Penalties for Failing to Make Forms 990 Publicly Available |publisher=IRS |accessdate=2014-05-17}}</ref>
-* Citizen Audit<ref>{{cite web|url=http://citizenaudit.org |title=Nonprofit Form 990 Search | publisher=Citizen Audit |accessdate=2014-05-18}}</ref> provides PDF copies of annual returns, signatures not blacked out.
-* Economic Research Institute<ref>{{cite web|url=http://www.eri-nonprofit-salaries.com/?FuseAction=NPO.Search |title=Nonprofit Organization Information | publisher=Economic Research Institute|accessdate=2014-05-17}}</ref> provides PDF copies of annual returns, signatures not blacked out.
-* Foundation Center<ref>http://tfcny.fdncenter.org/990s/990search/esearch.php</ref> IRS Form 990 lookup tool; provides PDF copies of annual returns, signatures blacked out.
-* Guidestar<ref>{{cite web|url=http://www.guidestar.org/ |title=guidestar.org | publisher=guidestar.org |date=2014-03-06 |accessdate=2014-04-23}}</ref> IRS Form 990's and other information for selection of nonprofits, free and fee based
-* NCCS<ref>{{cite web|url=http://nccs.urban.org/ |title=nccs.urban.org | publisher=nccs.urban.org |date=2008-07-15 |accessdate=2014-04-23}}</ref> IRS Form 990 search tool and nonprofit organization profiles, signatures blacked out.
-* [[BoardSource]] Governance requirements<ref>{{cite web|url=http://www.boardsource.org/dl.asp?document_id=681 |title=Learning Center and Store |publisher=BoardSource |date= |accessdate=2014-03-17}}</ref> in 990.
-
-In addition to Form 990, tax-exempt organizations are also subject to a variety of disclosure and compliance requirements through various schedules which are attached to Form 990 (and, in some cases, 990-EZ or 990-PF). Filing of schedules by organizations supplements, enhances, and further clarifies disclosures and compliance reporting made in Form 990. Often, filing of schedules is mandatory, but there are situations where organizations not otherwise subject to filing requirements may consider completing certain schedules despite not being technically obligated to. The current{{When|reason=as of when? This parargraph has no citations so no one knows if this list is accurate|date=December 2015}} list of possible schedule filings are:
-
 ==Variants==
 
 ===Form 990-EZ===
@@ -35,7 +20,7 @@ for private foundations...
 
 {| class="wikitable"
 |-
-! Type !! Name !! Number of pages !! Can be filed with Form 990-EZ?<ref name="allison" />
+! Type !! Name !! Number of pages<ref name="allison" /> !! Can be filed with Form 990-EZ?<ref name="allison" />
 |-
 | Schedule A
 | Public Charity Status and Public Support
@@ -133,6 +118,23 @@ The Form 990 may be filed with the IRS by mail or electronically with an Authori
 There is a penalty of $20 per day until the form is filed (capped at the minimum of $1000 and 5% of the gross receipts of the organization for that year). If the gross receipts are more than $1 million, the penalty is increased to $100 per day (capped at $50,000). There are other penalties for e.g. omitting information.<ref name="eotopicg02" />{{rp|229}}
 
 In 1998, over $10 million was collected by the IRS for penalties on over 9000 forms.<ref name="eotopicg02" />{{rp|229}}
+
+==Public inspection regulations==
+
+'''Public Inspection'''
+IRC 6104(d) regulations state that an organization must provide copies of its three most recent Forms 990 to anyone who requests them, whether in person, by mail, fax, or e-mail. Additionally, requests may be made via the IRS using Form 4506-A, and PDF copies can often be found online as noted below.
+
+* New IRS Form 990<ref>{{cite web|url=http://2013taxes.org/form-990-redesign-tax-year-2008-filed-2009/ |title=Form 990 Redesign for Tax Year 2008 (Filed in 2009) |publisher=2013taxes.org |date=2014-02-19 |accessdate=2014-03-17}}</ref>
+* Instructions for Form 990 and Form 990-EZ<ref>[http://www.irs.gov/instructions/i990-ez/ ]{{dead link|date=April 2014}}</ref>
+* Due 15th of 5th month after fiscal year, with up to 6 months of extensions.<ref>{{cite web|url=http://www.irs.gov/Charities-%26-Non-Profits/Annual-Exempt-Organization-Return:-Due-Date |title=Annual exempt organization return: Due date |publisher=IRS |accessdate=2014-05-17}}</ref> Late penalty for political organizations is $20–$100/day (not clear for other nonprofits),<ref>{{cite web|url=http://www.irs.gov/Charities-%26-Non-Profits/Political-Organizations/Political-Organization-Filing-Requirements:-Penalties-for-Failure-to-File-Form-990 |title=Penalties for Not Filing Form 990 |publisher=IRS |accessdate=2014-05-17}}</ref> and penalty for failure to provide to the public is $20 per day.<ref>{{cite web|url=http://www.irs.gov/Charities-%26-Non-Profits/Political-Organizations/Political-Organization-Filing-Requirements:-Penalties-for-Failing-to-Make-Forms-990-Publicly-Available |title=Penalties for Failing to Make Forms 990 Publicly Available |publisher=IRS |accessdate=2014-05-17}}</ref>
+* Citizen Audit<ref>{{cite web|url=http://citizenaudit.org |title=Nonprofit Form 990 Search | publisher=Citizen Audit |accessdate=2014-05-18}}</ref> provides PDF copies of annual returns, signatures not blacked out.
+* Economic Research Institute<ref>{{cite web|url=http://www.eri-nonprofit-salaries.com/?FuseAction=NPO.Search |title=Nonprofit Organization Information | publisher=Economic Research Institute|accessdate=2014-05-17}}</ref> provides PDF copies of annual returns, signatures not blacked out.
+* Foundation Center<ref>http://tfcny.fdncenter.org/990s/990search/esearch.php</ref> IRS Form 990 lookup tool; provides PDF copies of annual returns, signatures blacked out.
+* Guidestar<ref>{{cite web|url=http://www.guidestar.org/ |title=guidestar.org | publisher=guidestar.org |date=2014-03-06 |accessdate=2014-04-23}}</ref> IRS Form 990's and other information for selection of nonprofits, free and fee based
+* NCCS<ref>{{cite web|url=http://nccs.urban.org/ |title=nccs.urban.org | publisher=nccs.urban.org |date=2008-07-15 |accessdate=2014-04-23}}</ref> IRS Form 990 search tool and nonprofit organization profiles, signatures blacked out.
+* [[BoardSource]] Governance requirements<ref>{{cite web|url=http://www.boardsource.org/dl.asp?document_id=681 |title=Learning Center and Store |publisher=BoardSource |date= |accessdate=2014-03-17}}</ref> in 990.
+
+In addition to Form 990, tax-exempt organizations are also subject to a variety of disclosure and compliance requirements through various schedules which are attached to Form 990 (and, in some cases, 990-EZ or 990-PF). Filing of schedules by organizations supplements, enhances, and further clarifies disclosures and compliance reporting made in Form 990. Often, filing of schedules is mandatory, but there are situations where organizations not otherwise subject to filing requirements may consider completing certain schedules despite not being technically obligated to.
 
 ==History==
 
