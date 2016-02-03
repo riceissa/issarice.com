@@ -115,7 +115,7 @@ According to section 1223(b) of the [[Pension Protection Act of 2006]], a nonpro
 
 ===Who must file?===
 
-Tax-exempt organizations with annual gross receipts of $200,000 or more or assets of $500,000 or more must file Form 990.<ref name="allison">Grace Allison. "The New Form 990 for Tax-Exempt Organizations: Revolution in Progress". 2010. ''Estate planning''. Vol. 37. Issue 3. pg 14–20.</ref>
+Form 990 is to be filed by tax-exempt organizations under section 501(a). This includes organizations in section 501(c)(3) (excluding private foundations) and most organizations in other subsections of 501(c).<ref name="i990">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i990.pdf |title=Instructions for Form 990 Return of Organization Exempt From Income Tax |accessdate=February 3, 2016 |date=2015 |publisher=Internal Revenue Service}}</ref> Tax-exempt organizations with annual gross receipts of $200,000 or more or assets of $500,000 or more must file Form 990.<ref name="allison">Grace Allison. "The New Form 990 for Tax-Exempt Organizations: Revolution in Progress". 2010. ''Estate planning''. Vol. 37. Issue 3. pg 14–20.</ref>
 
 ===Filing modalities===
 
@@ -129,8 +129,7 @@ In 1998, over $10 million was collected by the IRS for penalties on over 9000 fo
 
 ==Public inspection regulations==
 
-'''Public Inspection'''
-IRC 6104(d) regulations state that an organization must provide copies of its three most recent Forms 990 to anyone who requests them, whether in person, by mail, fax, or e-mail. Additionally, requests may be made via the IRS using Form 4506-A, and PDF copies can often be found online as noted below.
+'''Public Inspection''' IRC 6104(d) regulations state that an organization must provide copies of its three most recent Forms 990 to anyone who requests them, whether in person, by mail, fax, or e-mail. Additionally, requests may be made via the IRS using Form 4506-A, and PDF copies can often be found online as noted below.
 
 * New IRS Form 990<ref>{{cite web|url=http://2013taxes.org/form-990-redesign-tax-year-2008-filed-2009/ |title=Form 990 Redesign for Tax Year 2008 (Filed in 2009) |publisher=2013taxes.org |date=2014-02-19 |accessdate=2014-03-17}}</ref>
 * Instructions for Form 990 and Form 990-EZ<ref>[http://www.irs.gov/instructions/i990-ez/ ]{{dead link|date=April 2014}}</ref>
