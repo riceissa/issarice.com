@@ -35,70 +35,86 @@ for private foundations...
 
 {| class="wikitable"
 |-
-! Type !! Name !! Can be filed with Form 990-EZ?
+! Type !! Name !! Number of pages !! Can be filed with Form 990-EZ?<ref name="allison" />
 |-
 | Schedule A
 | Public Charity Status and Public Support
+| 4
 | Yes
 |-
 | Schedule B
 | Schedule of Contributors
+| 8
 | Yes
 |-
 | Schedule C
 | Political Campaign and Lobbying Activities
+| 4
 | Yes
 |-
 | Schedule D
 | Supplemental Financial Statements
+| 5
 | No
 |-
 | Schedule E
 | Schools
+| 1
 | Yes
 |-
 | Schedule F
 | Statement of Activities Outside the United States
+| 4
 | No
 |-
 | Schedule G
 | Supplemental Information Regarding Fundraising or Gaming Activities
+| 3
 | Yes
 |-
 | Schedule H
 | Hospitals
+| 4
 | No
 |-
 | Schedule I
 | Grants and Other Assistance to Organizations, Governments, and Individuals in the United States
+| 2
 | No
 |-
 | Schedule J
 | Compensation Information
+| 3
 | No
 |-
 | Schedule K
 | Supplemental Information on Tax-Exempt Bonds
+| 2
 | No
 |-
 | Schedule L
 | Transactions With Interested Persons
+| 1
 | Yes
 |-
 | Schedule M
 | Noncash Contributions
+| 2
 | No
 |-
 | Schedule N
 | Liquidation, Termination, Dissolution, or Significant Disposition of Assets
+| 3
 | Yes
 |-
 | Schedule O
 | Supplemental Information to Form 990
+| 2
 | No
 |-
 | Schedule R
 | Related Organizations and Unrelated Partnerships
+| 4
 | No
 |}
 
