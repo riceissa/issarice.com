@@ -16,7 +16,7 @@ Small organizations whose annual gross receipts are "normally $50,000 or less" m
 
 ===Form 990-PF===
 
-for private foundations...
+'''Form 990-PF''' is filed by private foundations in the US. It includes fiscal information and a complete list of grants, among other information. The form is due to the IRS 4.5 months after the end of the foundation's [[fiscal year]].<ref name="foundationcenter">{{cite web |url=http://foundationcenter.org/getstarted/tutorials/demystify/ |title=Demystifying the 990-PF |accessdate=February 3, 2016 |publisher=Foundation Center}}</ref>
 
 ==Schedules==
 
