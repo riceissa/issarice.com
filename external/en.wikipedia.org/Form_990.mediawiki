@@ -154,7 +154,7 @@ In June 2007, the IRS released a new Form 990 that requires significant disclosu
 
 In 2010, the minimum threshold of when an organization is required to file Form 990 was increased: the minimum annual gross receipts was increased from $100,000 to $200,000 and the minimum assets was increased from $250,000 to $500,000.<ref name="allison"/>
 
-With the availability of the internet, access to the Form 990 of an organization has also become easier. Originally Form 990 had to be requested through the IRS. This was changed to allow access to the form directly through the organization, although in some cases organizations refused to provide access.<ref name="eotopicg02">{{cite web |url=https://www.irs.gov/pub/irs-tege/eotopicg02.pdf |title=G. Form 990 |accessdate=January 29, 2016 |date=2002 |authors=Cheryl Chasin, Debra Kawecki and David Jones |publisher=Internal Revenue Service}}</ref>
+With the availability of the internet, access to the Form 990 of an organization has also become easier. Originally Form 990 had to be requested through the IRS. This was changed to allow access to the form directly through the organization, although in some cases organizations refused to provide access.<ref name="eotopicg02">{{cite web |url=https://www.irs.gov/pub/irs-tege/eotopicg02.pdf |title=G. Form 990 |accessdate=January 29, 2016 |date=2002 |authors=Cheryl Chasin, Debra Kawecki and David Jones |publisher=Internal Revenue Service |archiveurl=https://web.archive.org/web/20150702072044/http://www.irs.gov/pub/irs-tege/eotopicg02.pdf |archivedate=July 2, 2015}}</ref>
 
 ==Use by charity evaluation organizations==
 
