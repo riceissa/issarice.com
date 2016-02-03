@@ -8,7 +8,7 @@ The Form 990 disclosures do not require but strongly encourage nonprofit boards 
 
 ===Form 990-EZ===
 
-There is a variant of Form 990 called '''Form 990-EZ''' ("Short Form Return of Organization Exempt From Income Tax").
+There is a variant of Form 990 called '''Form 990-EZ''' ("Short Form Return of Organization Exempt From Income Tax"). This form can be used instead of Form 990 for organizations with gross receipts less than $200,000 and total assets less than $500,000 (there are some exceptions).<ref name="i990ez">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i990ez.pdf |title=Instructions for Form 990-EZ |accessdate=February 3, 2016 |date=2015 |publisher=Internal Revenue Service}}</ref>
 
 ===Form 990-N===
 
