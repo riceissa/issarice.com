@@ -1,4 +1,4 @@
-[[File:IRS_Form_990.pdf|thumb|right|Form 990]]
+[[File:IRS_Form_990.pdf|thumb|right|Form 990, 2015]]
 
 '''Form 990''' (officially, the "Return of Organization Exempt From Income Tax"<ref name="actual_990">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f990.pdf |title=Return of Organization Exempt From Income Tax |accessdate=January 28, 2016 |publisher=Internal Revenue Service}}</ref>) provides the public with financial information about a nonprofit organization, and is often the only source of such information.  It is also used by government agencies to prevent organizations from abusing their tax-exempt status. In June 2007, the IRS released a new Form 990 that requires significant disclosures on [[corporate governance]] and boards of directors. These new disclosures are required for all nonprofit filers for the 2009 tax year, with more significant reporting requirements for nonprofits with over $1 million in revenues or $2.5 million in assets. In addition, certain nonprofits have more comprehensive reporting requirements, such as hospitals and other health care organizations (Schedule H).
 
@@ -19,6 +19,8 @@ Small organizations whose annual gross receipts are "normally $50,000 or less" m
 for private foundations...
 
 ==Schedules==
+
+In addition to Form 990, tax-exempt organizations are also subject to a variety of disclosure and compliance requirements through various schedules which are attached to Form 990 (and, in some cases, 990-EZ or 990-PF). Filing of schedules by organizations supplements, enhances, and further clarifies disclosures and compliance reporting made in Form 990. Often, filing of schedules is mandatory, but there are situations where organizations not otherwise subject to filing requirements may consider completing certain schedules despite not being technically obligated to.
 
 {| class="wikitable"
 |-
@@ -135,8 +137,6 @@ IRC 6104(d) regulations state that an organization must provide copies of its th
 * Guidestar<ref>{{cite web|url=http://www.guidestar.org/ |title=guidestar.org | publisher=guidestar.org |date=2014-03-06 |accessdate=2014-04-23}}</ref> IRS Form 990's and other information for selection of nonprofits, free and fee based
 * NCCS<ref>{{cite web|url=http://nccs.urban.org/ |title=nccs.urban.org | publisher=nccs.urban.org |date=2008-07-15 |accessdate=2014-04-23}}</ref> IRS Form 990 search tool and nonprofit organization profiles, signatures blacked out.
 * [[BoardSource]] Governance requirements<ref>{{cite web|url=http://www.boardsource.org/dl.asp?document_id=681 |title=Learning Center and Store |publisher=BoardSource |date= |accessdate=2014-03-17}}</ref> in 990.
-
-In addition to Form 990, tax-exempt organizations are also subject to a variety of disclosure and compliance requirements through various schedules which are attached to Form 990 (and, in some cases, 990-EZ or 990-PF). Filing of schedules by organizations supplements, enhances, and further clarifies disclosures and compliance reporting made in Form 990. Often, filing of schedules is mandatory, but there are situations where organizations not otherwise subject to filing requirements may consider completing certain schedules despite not being technically obligated to.
 
 ==History==
 
