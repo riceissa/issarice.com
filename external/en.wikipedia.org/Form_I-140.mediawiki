@@ -18,6 +18,8 @@ A new Form I-140 is required if the alien's job changes.<ref name="immihelp_140"
 
 Form I-907, Request for Premium Processing Service, is required if the petitioner is requesting premium processing.<ref name="wegreened_140" />
 
+Form I-140 may be filed concurrently with Form I-485.<ref name="wegreened_140" />
+
 ===Filing modalities===
 
 Form I-140 can be filed by paper or electronically. If the form is filed electronically, it will be sent to an appropriate service center.<ref name="wegreened_140" />
