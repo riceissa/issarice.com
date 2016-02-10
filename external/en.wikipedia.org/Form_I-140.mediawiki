@@ -6,7 +6,7 @@ The alien's non-immigrant status does not change as a result of their Form I-140
 
 ==Filing details==
 
-Before Form I-140 can be submitted, a [[labor certification]] must be filed and approved.<ref name="immihelp_140" />
+Before Form I-140 can be submitted, a [[labor certification]] must be filed and approved.<ref name="immihelp_140" /> It is possible to establish a successor-in-interest relationship between the successor employer and predecessor employer, in which case a predecessor's labor certification can be used.<ref name="wegreened_140" />
 
 The priority date of the Form I-140 application depends on whether the application is labor certification-based or not. If it is, the priority date is the date the [[Department of Labor]] receives the application; otherwise it is when the USCIS receives the application.<ref name="immihelp_140" />
 
@@ -31,6 +31,10 @@ The fee for filing Form I-140 is $580.<ref name="wegreened_140" />
 ==Statistics==
 
 ==Adverse decisions==
+
+The petition may be rejected if decision delayed if it lacks correct information or supporting documentation.<ref name="wegreened_140" />
+
+The USCIS may also submit a Request for Additional Evidence if it is not convinced that the applicant qualifies.<ref name="wegreened_140" />
 
 ==Relation with overall immigrant visa process==
 
