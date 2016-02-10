@@ -1,4 +1,4 @@
-'''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref>
+'''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref> The employer who files is called the petitioner, and the alien employee is called the beneficiary; these two can coincide in the case of a self-petitioner.
 
 The alien's non-immigrant status does not change as a result of their Form I-140 being approved.<ref name="immihelp_140" />
 
@@ -10,13 +10,23 @@ Before Form I-140 can be submitted, a [[labor certification]] must be filed and 
 
 The priority date of the Form I-140 application depends on whether the application is labor certification-based or not. If it is, the priority date is the date the [[Department of Labor]] receives the application; otherwise it is when the USCIS receives the application.<ref name="immihelp_140" />
 
+The alien can in addition self-petition in the cases of [[EB-1 visa|EB1-A]] Alien of Extraordinary Ability or [[EB-2 visa|EB-2]] National Interest Waiver.<ref name="wegreened_140">{{cite web |url=http://www.wegreened.com/I-140-and-I-485-concurrent-filing |title=Frequently Asked Questions of Form I-140(Immigrant Petition for Alien Worker) and Concurrent Filing of I-140 and I-485 |accessdate=February 9, 2016 |publisher=North America immigration Law Group}}</ref>
+
 A new Form I-140 is required if the alien's job changes.<ref name="immihelp_140" />
 
 ===Forms submitted alongside===
 
+Form I-907, Request for Premium Processing Service, is required if the petitioner is requesting premium processing.<ref name="wegreened_140" />
+
+===Filing modalities===
+
+Form I-140 can be filed by paper or electronically. If the form is filed electronically, it will be sent to an appropriate service center.<ref name="wegreened_140" />
+
 ===Addresses===
 
 ===Filing fees===
+
+The fee for filing Form I-140 is $580.<ref name="wegreened_140" />
 
 ==Statistics==
 
