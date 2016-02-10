@@ -1,8 +1,16 @@
-'''Form I-140''', '''Immigrant Petition for Alien Worker''' is
+'''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref>
+
+The alien's non-immigrant status does not change as a result of their Form I-140 being approved.<ref name="immihelp_140" />
 
 ==Reasons for filing Form I-140==
 
 ==Filing details==
+
+Before Form I-140 can be submitted, a [[labor certification]] must be filed and approved.<ref name="immihelp_140" />
+
+The priority date of the Form I-140 application depends on whether the application is labor certification-based or not. If it is, the priority date is the date the [[Department of Labor]] receives the application; otherwise it is when the USCIS receives the application.<ref name="immihelp_140" />
+
+A new Form I-140 is required if the alien's job changes.<ref name="immihelp_140" />
 
 ===Forms submitted alongside===
 
