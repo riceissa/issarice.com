@@ -10,6 +10,10 @@ The Form I-140 petition must be accompanied by what is termed "initial evidence"
 
 Before Form I-140 can be submitted, a [[labor certification]] must be filed and approved.<ref name="immihelp_140" /> It is possible to establish a successor-in-interest relationship between the successor employer and predecessor employer, in which case a predecessor's labor certification can be used.<ref name="wegreened_140" />
 
+In the case when a labor certification is used, the Form I-140 must be received by the USCIS before the labor certification expires.<ref name="actual_i140" />
+
+the employer's financial data, proof of the employee's education and work experience, as well as evidence that the employer can pay the proffered wage to the employee.<ref name="greencardapply">{{cite web |url=http://www.greencardapply.com/i140.htm |title=Form I-140 Green Card DIY Package |accessdate=February 14, 2016 |publisher=Green Card Apply Service}}</ref>
+
 The priority date of the Form I-140 application depends on whether the application is labor certification-based or not. If it is, the priority date is the date the [[Department of Labor]] receives the application; otherwise it is when the USCIS receives the application.<ref name="immihelp_140" />
 
 The alien can in addition self-petition in the cases of [[EB-1 visa|EB1-A]] Alien of Extraordinary Ability or [[EB-2 visa|EB-2]] National Interest Waiver.<ref name="wegreened_140">{{cite web |url=http://www.wegreened.com/I-140-and-I-485-concurrent-filing |title=Frequently Asked Questions of Form I-140(Immigrant Petition for Alien Worker) and Concurrent Filing of I-140 and I-485 |accessdate=February 9, 2016 |publisher=North America immigration Law Group}}</ref>
@@ -22,7 +26,6 @@ The form must be signed.<ref name="actual_i140" />
 ===Forms submitted alongside===
 
 
-the employer's financial data, proof of the employee's education and work experience, as well as evidence that the employer can pay the proffered wage to the employee.<ref name="greencardapply">{{cite web |url=http://www.greencardapply.com/i140.htm |title=Form I-140 Green Card DIY Package |accessdate=February 14, 2016 |publisher=Green Card Apply Service}}</ref>
 
 Form I-907, Request for Premium Processing Service, is required if the petitioner is requesting premium processing.<ref name="wegreened_140" />
 
@@ -36,7 +39,7 @@ Form I-140 can be filed by paper or electronically. If the form is filed electro
 
 ===Filing fees===
 
-The fee for filing Form I-140 is $580.<ref name="wegreened_140" />
+The fee for filing Form I-140 is $580, and must be payable in US currency to the US Department of Homeland Security.<ref name="actual_i140"/><ref name="wegreened_140" />
 
 ==Statistics==
 
