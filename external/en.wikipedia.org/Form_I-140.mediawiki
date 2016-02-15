@@ -1,4 +1,4 @@
-'''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref> The employer who files is called the petitioner, and the alien employee is called the beneficiary; these two can coincide in the case of a self-petitioner.
+'''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref> This is done in the case when the worker is deemed extraordinary in some sense or when qualified workers do not exist in the US.<ref name="actual_i140">{{cite web |url=https://www.uscis.gov/sites/default/files/files/form/i-140instr.pdf |title=Instructions for Petition for Alien Worker |accessdate=February 14, 2016 |publisher=Department of Homeland Security}}</ref> The employer who files is called the petitioner, and the alien employee is called the beneficiary; these two can coincide in the case of a self-petitioner.
 
 The alien's non-immigrant status does not change as a result of their Form I-140 being approved.<ref name="immihelp_140" />
 
@@ -6,15 +6,23 @@ The alien's non-immigrant status does not change as a result of their Form I-140
 
 ==Filing details==
 
+The Form I-140 petition must be accompanied by what is termed "initial evidence". This evidence depends on the type of employee being sponsored, but for instance (in some cases) includes an award given to the employee or publication by the employee that certifies they are someone of extraordinary ability. In many cases, part of the initial evidence is a [[labor certification]], which establishes, among other things, that there are insufficient workers in the US to fill the position the alien employee plans to take.<ref name="actual_i140" />
+
 Before Form I-140 can be submitted, a [[labor certification]] must be filed and approved.<ref name="immihelp_140" /> It is possible to establish a successor-in-interest relationship between the successor employer and predecessor employer, in which case a predecessor's labor certification can be used.<ref name="wegreened_140" />
 
 The priority date of the Form I-140 application depends on whether the application is labor certification-based or not. If it is, the priority date is the date the [[Department of Labor]] receives the application; otherwise it is when the USCIS receives the application.<ref name="immihelp_140" />
 
 The alien can in addition self-petition in the cases of [[EB-1 visa|EB1-A]] Alien of Extraordinary Ability or [[EB-2 visa|EB-2]] National Interest Waiver.<ref name="wegreened_140">{{cite web |url=http://www.wegreened.com/I-140-and-I-485-concurrent-filing |title=Frequently Asked Questions of Form I-140(Immigrant Petition for Alien Worker) and Concurrent Filing of I-140 and I-485 |accessdate=February 9, 2016 |publisher=North America immigration Law Group}}</ref>
 
+
 A new Form I-140 is required if the alien's job changes.<ref name="immihelp_140" />
 
+The form must be signed.<ref name="actual_i140" />
+
 ===Forms submitted alongside===
+
+
+the employer's financial data, proof of the employee's education and work experience, as well as evidence that the employer can pay the proffered wage to the employee.<ref name="greencardapply">{{cite web |url=http://www.greencardapply.com/i140.htm |title=Form I-140 Green Card DIY Package |accessdate=February 14, 2016 |publisher=Green Card Apply Service}}</ref>
 
 Form I-907, Request for Premium Processing Service, is required if the petitioner is requesting premium processing.<ref name="wegreened_140" />
 
