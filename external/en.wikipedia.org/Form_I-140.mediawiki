@@ -25,9 +25,7 @@ The form must be signed.<ref name="actual_i140" />
 
 ===Forms submitted alongside===
 
-
-
-Form I-907, Request for Premium Processing Service, is required if the petitioner is requesting premium processing.<ref name="wegreened_140" />
+Form I-907, Request for Premium Processing Service, is required if the petitioner is requesting premium processing.<ref name="actual_i140"/><ref name="wegreened_140" />
 
 Form I-140 may be filed concurrently with Form I-485.<ref name="wegreened_140" />
 
