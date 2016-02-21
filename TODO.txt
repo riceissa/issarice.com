@@ -21,6 +21,53 @@ Possible list of things to write about:
 
 NEW:
 
+- make side bar responsive: as gwern notes, there are TWO kinds of
+  navigational information. one is site-specific, so home, about, feed,
+  comment, and website source. the other is page-specific, so the table
+  of contents, permalink to page, and page source. the site-specific
+  things can stay at the top (where it has always been), but having the
+  TOC and other page-specific stuff in the same place or in the page is
+  less useful. it's hard to find things in the page and easy to get lost
+  from the overall structure of the page when there are many headings.
+  one way is to make each page small and manageable, but as someone who
+  suffers from low working memory, shouldn't i be helping my readers by
+  always presenting the overall structure of the page to the side? I
+  like the design in
+  <http://www.stephendiehl.com/posts/essential_compilers.html>, but
+  unfortunately that page displays the *global* (i.e. site-specific)
+  stuff on the side, not page-specific stuff. also some browsers like
+  elinks and firefox with vimfx can easily go to the top/bottom of
+  pages, but i have to remember that most people aren't as obsessed
+  about customizing browsers, so it would be good to have an easier way
+  to navigate a page.
+
+    The sidebar should also be responsive, in that when the width
+    becomes too small, the display "squishes" into the original (i.e.
+    current) form.
+
+    this is a distinction gwern recently made as well, though i think
+    his solution is suboptimal (since the TOC doesn't stick).
+
+    something like the following works, after some quick hacking. of
+    course, more adjustments will become necessary. note that this is a
+    completely javascript-free solution.
+
+    ```
+    @media (min-width: 48em) {
+        div#TOC {
+            position: fixed;
+            left: 0;
+            top: 10px;
+            bottom: 0;
+            overflow: auto;
+        }
+
+        h2#TOCheading {
+            border-bottom: none;
+        }
+    }
+    ```
+
 - try to UNLICENSE/public domain as much of the content as possible ... there really isn't any reason to continue to add useless restrictions (as long as nobody tries to sue me)
 - doing `import html` or `from html import escape` breaks the compilation process at the step of applying the pandoc filter (see commit `ef8e9b9d1a534150a7146f680a3778eab6f26a6b`)
 - decide what to do about the problem of adding multiple languages/other parameters.
