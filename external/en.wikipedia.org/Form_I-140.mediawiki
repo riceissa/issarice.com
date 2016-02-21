@@ -4,26 +4,42 @@ The alien's non-immigrant status does not change as a result of their Form I-140
 
 ==Reasons for filing Form I-140==
 
-The following is a list of all of the reasons (also known as petition types) for filing Form I-140.<ref name="actual_i140">{{cite web |url=https://www.uscis.gov/sites/default/files/files/form/i-140.pdf |title=Immigrant Petition for Alien Worker |accessdate=February 20, 2016 |publisher=Department of Homeland Security}}</ref>
+The following is a list of all of the reasons (also known as petition types) for filing Form I-140.<ref name="actual_i140">{{cite web |url=https://www.uscis.gov/sites/default/files/files/form/i-140.pdf |title=Immigrant Petition for Alien Worker |accessdate=February 20, 2016 |publisher=Department of Homeland Security}}</ref><ref name="i140_instructions" />
 
 {| class="wikitable"
-! Type !! Visa !! Labor certification-based?
+! Petition type !! Visa !! Labor certification-based?
 |-
 | An alien of extraordinary ability
+| EB-1
+| No
 |-
 | An outstanding professor or researcher
+| EB-1
+| No
 |-
 | A multinational executive or manager
+| EB-1
+| No
 |-
 | A member of the professions holding an advanced degree or an alien of exceptional ability (who is ''not'' seeking a National Interest Waiver)
+| EB-2
+| Yes
 |-
 | A professional (at a minimum, possessing a bachelor's degree or a foreign degree equivalent to a U.S. bachelor's degree)
+| EB-2
+| Yes
 |-
 | A skilled worker (requiring at least 2 years of specialized training or experience)
+| EB-3
+| Yes
 |-
 | Any other worker (requiring less than 2 years of training or experience)
+| EB-3
+| Yes
 |-
 | An alien applying for a National Interest Waiver (who ''is'' a member of the professions holding an advanced degree or an alien of exceptional ability)
+| EB-2
+| No
 |}
 
 ==Filing details==
