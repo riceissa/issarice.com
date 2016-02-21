@@ -35,15 +35,31 @@ NEW:
   like the design in
   <http://www.stephendiehl.com/posts/essential_compilers.html>, but
   unfortunately that page displays the *global* (i.e. site-specific)
-  stuff on the side, not page-specific stuff. also some browsers like
-  elinks and firefox with vimfx can easily go to the top/bottom of
-  pages, but i have to remember that most people aren't as obsessed
-  about customizing browsers, so it would be good to have an easier way
-  to navigate a page.
+  stuff on the side, not page-specific stuff. By the same author:
+  <http://dev.stephendiehl.com/hask/>, which is much nicer (this one is
+  more fancy, and actually expands subsections as the user scrolls; I
+  don't need this. However, one annoying bug is that if the TOC is too
+  long, the user can't even see the whole TOC! There has *got* to be
+  something better). Also some browsers like elinks and firefox with
+  vimfx can easily go to the top/bottom of pages, but i have to remember
+  that most people aren't as obsessed about customizing browsers, so it
+  would be good to have an easier way to navigate a page.
 
     The sidebar should also be responsive, in that when the width
     becomes too small, the display "squishes" into the original (i.e.
     current) form.
+
+    One thing to consider: could people find this annoying to browse? I
+    personally dislike mobile sites that try to show the navigation bar
+    when i scroll up, since it often activates when i don't intend it to
+    (so there could be an analogy here, where a user doesn't expect the
+    sidebar to stick, and gets annoyed when it doesn't behave like they
+    expect it to). also mobile readers probably lack attention span
+    more: but which direction should this make us update in? should we
+    say "give them what they want, by showing them more things to click
+    on"? or "give them the overall structure so they know where they are
+    since they are forgetful"? or "give them a clean column of text
+    without distractions and maybe we can keep them here longer"?
 
     this is a distinction gwern recently made as well, though i think
     his solution is suboptimal (since the TOC doesn't stick).
@@ -67,6 +83,14 @@ NEW:
         }
     }
     ```
+
+- also should i switch to HTML5?
+
+- make mathjax the default math display if javascript is available, but
+  *somehow* detect and switch to image-based math (like wikipedia's
+  default) when javascript isn't available. moreover, somehow just show
+  the raw LaTeX in an unobtrusive way when the user is on a text-only
+  browser.
 
 - try to UNLICENSE/public domain as much of the content as possible ... there really isn't any reason to continue to add useless restrictions (as long as nobody tries to sue me)
 - doing `import html` or `from html import escape` breaks the compilation process at the step of applying the pandoc filter (see commit `ef8e9b9d1a534150a7146f680a3778eab6f26a6b`)
