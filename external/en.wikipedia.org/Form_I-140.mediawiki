@@ -1,6 +1,6 @@
-'''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref> This is done in the case when the worker is deemed extraordinary in some sense or when qualified workers do not exist in the US.<ref name="i140_instructions">{{cite web |url=https://www.uscis.gov/sites/default/files/files/form/i-140instr.pdf |title=Instructions for Petition for Alien Worker |accessdate=February 14, 2016 |publisher=Department of Homeland Security}}</ref> The employer who files is called the petitioner, and the alien employee is called the beneficiary; these two can coincide in the case of a self-petitioner.
+'''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref> This is done in the case when the worker is deemed extraordinary in some sense or when qualified workers do not exist in the US.<ref name="i140_instructions">{{cite web |url=https://www.uscis.gov/sites/default/files/files/form/i-140instr.pdf |title=Instructions for Petition for Alien Worker |accessdate=February 14, 2016 |publisher=Department of Homeland Security}}</ref> The employer who files is called the petitioner, and the alien employee is called the beneficiary; these two can coincide in the case of a self-petitioner. The form is 6 pages long with a separate 10-page instructions document as of 2016.
 
-The alien's non-immigrant status does not change as a result of their Form I-140 being approved.<ref name="immihelp_140" />
+The alien's non-immigrant status does not change directly as a result of their Form I-140 being approved.<ref name="immihelp_140" /> Form I-140 is one step in the overall process to [[Permanent residence (United States)|lawful permanent residency]].
 
 ==Reasons for filing Form I-140==
 
@@ -44,9 +44,11 @@ The following is a list of all of the reasons (also known as petition types) for
 
 ==Filing details==
 
+===Initial evidence===
+
 The Form I-140 petition must be accompanied by what is termed "initial evidence". This evidence depends on the type of employee being sponsored, but for instance (in some cases) includes an award given to the employee or publication by the employee that certifies they are someone of extraordinary ability. In many cases (see table above), part of the initial evidence is a [[labor certification]], which establishes, among other things, that there are insufficient workers in the US to fill the position the alien employee plans to take.<ref name="i140_instructions" /> In cases where a labor certification is required, the petition is said to be labor certification-based.
 
-In labor certification-based petitions, a [[labor certification]] must be filed and approved before Form I-140 can be submitted.<ref name="immihelp_140" /> The labor certification is valid for 180 days, and Form I-140 must be received by the USCIS before the labor certification expires.<ref name="i140_instructions" /><ref name="hooyoulc">{{cite web |url=http://www.hooyou.com/lc/faq.html |title= Frequently Asked Questions: PERM Labor Certification |accessdate=February 20, 2016}}</ref> It is possible to establish a successor-in-interest relationship between the successor employer and predecessor employer, in which case a predecessor's labor certification can be used.<ref name="wegreened_140" />
+In labor certification-based petitions, a [[labor certification]] must be filed and approved by the US Department of Labor before Form I-140 can be submitted.<ref name="immihelp_140" /> The labor certification is valid for 180 days, and Form I-140 must be received by the USCIS before the labor certification expires.<ref name="i140_instructions" /><ref name="hooyoulc">{{cite web |url=http://www.hooyou.com/lc/faq.html |title= Frequently Asked Questions: PERM Labor Certification |accessdate=February 20, 2016}}</ref> It is possible to establish a successor-in-interest relationship between the successor employer and predecessor employer, in which case a predecessor's labor certification can be used.<ref name="wegreened_140" />
 
 Additional evidence that must be provided includes the employer's financial data, proof of the employee's education and work experience, as well as evidence that the employer can pay the proffered wage to the employee.<ref name="greencardapply">{{cite web |url=http://www.greencardapply.com/i140.htm |title=Form I-140 Green Card DIY Package |accessdate=February 14, 2016 |publisher=Green Card Apply Service}}</ref>
 
@@ -75,6 +77,8 @@ The filing address for Form I-140 depends on whether Form I-140 is being siled o
 ===Filing fees===
 
 The fee for filing Form I-140 is $580, and must be payable in US currency to the US Department of Homeland Security.<ref name="i140_instructions"/><ref name="wegreened_140" />
+
+===Premium processing: Form I-907===
 
 ==Statistics==
 
