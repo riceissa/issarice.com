@@ -40,10 +40,12 @@ NEW:
   more fancy, and actually expands subsections as the user scrolls; I
   don't need this. However, one annoying bug is that if the TOC is too
   long, the user can't even see the whole TOC! There has *got* to be
-  something better). Also some browsers like elinks and firefox with
-  vimfx can easily go to the top/bottom of pages, but i have to remember
-  that most people aren't as obsessed about customizing browsers, so it
-  would be good to have an easier way to navigate a page.
+  something better (hmm actually on further experimentation, it appears
+  that something as simple as `overflow: auto` fixes the problem.
+  great!)). Also some browsers like elinks and firefox with vimfx can
+  easily go to the top/bottom of pages, but i have to remember that most
+  people aren't as obsessed about customizing browsers, so it would be
+  good to have an easier way to navigate a page.
 
     The sidebar should also be responsive, in that when the width
     becomes too small, the display "squishes" into the original (i.e.
@@ -83,6 +85,11 @@ NEW:
         }
     }
     ```
+
+    See also
+    <https://stackoverflow.com/questions/21896151/css-and-div-with-header-and-body-with-scrollable-content-and-fixed-sidebar-to-r>
+    for getting the top navbar and sidebar to play nicely. (set width in
+    the sidebar and conditionally set a left-margin in the top bar)
 
 - also should i switch to HTML5?
 
