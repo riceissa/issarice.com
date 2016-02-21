@@ -1,6 +1,6 @@
 ---
 title: MATH 335
-date: 2016-01-22
+date: 2016-02-21
 tags: math, uw, uw course review
 license: CC0
 math: yes
@@ -37,6 +37,7 @@ From 7th week:
   boring, but it was also acceptable to present just scratch work
   instead of coherent thought processes (indeed, homework was always
   completion-based and not actually graded for correctness[^hw]).
+
 - Besides the point-set topology in [334](math-334) and some of the
   basics of analysis (which I had learned on my own in high school),
   there hasn't really been any math in 334/335 that I could call
@@ -49,9 +50,40 @@ From 7th week:
   inherent value, and meant to be solved by "elites"), but rather
   something mass-produced, to be consumed by the "mathematical masses"
   (which are a minority with respect to the general population), or
-  written due to the practical desire to *evalute students*. These
+  written due to the practical desire to *evaluate students*. These
   problems are in fact no different from whiteboard interview question
   in programming, which have been criticized well elsewhere[^whiteboard].
+
+      I will even say that because of this emphasis on cardboard-like
+      problems, I'm not getting any practice in refining my taste in
+      finding problems to work on. Indeed, each week I am thrown a new
+      set of time-consuming but straightforward and unenlightening
+      problems to work on, which certainly gives me practice with some
+      of the standard tools I am expected to know, but also completely
+      drains me of the curiosity to find interesting problems of my own
+      (this might change to some extent in 336, where a term paper on a
+      topic of one's choice is assigned).
+
+      I should also note that my interest in math as a whole has been
+      going down steadily, which could contribute to part of why I find
+      the problems uninteresting.  In fact I am often amazed at how much
+      the other students seem to be working on the problems, and often
+      wonder if it is idiosyncratic to me that I am hopelessly bored by
+      the problems.[^pdfs]
+
+- I've been realizing more and more that Morrow likes to discuss topics
+  differently than in the book (in 334 he gave a different definition of
+  continuity), which makes it difficult to follow sometimes (especially
+  since I tend to skip lecture a lot), although he does post PDFs for
+  these (but with little organization on the course website).
+
+- This quarter in general has been rather stressful for me, and looking
+  at my performance so far and in previous quarters, I can't help but to
+  recall Raman Shah's [quote](
+  https://www.quora.com/If-the-median-GPA-in-the-past-year-was-3-5-why-are-accepted-students-afraid-of-not-being-able-to-survive-at-Caltech/answer/Raman-Shah
+  ) "It is entirely possible for a school to break you and award you
+  decent grades at the same time." (Although UW is nowhere as intense as
+  Caltech is.)
 
 [^hw]: This is something I see in other subjects as well. High school
 tests and projects were graded, but daily/weekly assignments were often
@@ -87,3 +119,37 @@ graduate?"](https://www.quora.com/Im-doing-a-computational-physics-PhD-Is-workin
     > certainly have avoided touching them to this date, and I've yet to
     > be unemployed. I'm not certain if my quirks translate to good
     > general advice; your mileage may vary.
+
+[^pdfs]: I am reminded here of another quote by Raman Shah, from [Raman
+Shah's answer to Why do so many Caltech students
+procrastinate?](https://www.quora.com/Why-do-so-many-Caltech-students-procrastinate/answer/Raman-Shah):
+
+    > It's kind of amazing, really: Caltech manages to severely damage
+    > the mental health of many bright young people every year, and many
+    > people assume it must be brutally competitive or have abusive
+    > instructors or something. But none of those things are true at all
+    > – all it does is just hand them a few dozen pdfs per quarter with
+    > interesting-looking math and science problems and due dates.
+    > That's all it takes.
+
+    However, my experience differs from Raman's in various ways. (1) I
+    am not attending Caltech, so my coursework is (presumably) not even
+    close to the intensity of a typical Caltech course load. (2) The
+    problems in MATH 334/335 (and even [CSE 332]()) do require some
+    amount of creativity, but they are mostly pretty straightforward.
+    There are few problems that are "really easy lay-ups in the homework
+    to buoy your spirits" (to quote Raman in his answer), which is
+    different from high school. However, most of the problems in e.g.
+    335 are in the class of "more complex problems to make sure you
+    grasped the way things fit together at a more sophisticated level,
+    but still a level that was explained to you". So I don't experience
+    the sort of pressure to be creative under a deadline that he
+    mentions. However, I still experience the continual series of
+    deadlines that slowly numbs me each quarter from everything
+    interesting in the world. (3) With the noted caveats, I still relate
+    strongly to the quote, because my intense frustration at UW is
+    really just the result of *apathy* and *lack of awareness* of a
+    system that hands me deadline after deadline after deadline, not
+    something maleficent.---Indeed UW is a very *lonely* place in the
+    same way that doing archival work is lonely, because nobody else
+    seems to care about the things I intensely care about.
