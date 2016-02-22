@@ -94,8 +94,7 @@ Oh, and is there a fee for labor certification? If so include that too
 
 {{further|Premium Processing Service|USCIS processing times}}
 
-
-The USCIS offers a [[Premium Processing Service]] at an additional fee of $1225 for [[Form I-129]] (non-immigrant worker) and [[Form I-140]] (immigrant worker) petitions. The Premium Processing Service has a fee of $1225 and promises an initial review from the USCIS within 15 calendar days of receipt of the form, after which time it may approve, deny, or issue a [[Request For Evidence]] or [[Notice of Intent to Deny]].<ref name=uscis-premium-processing/> For the special case of cap-subject [[H-1B visa]]s where the applications are concentrated in the beginning of April, the start date for the 15-day countdown is generally delayed due to the huge influx of applications.<ref name=uscis-premium-processing>{{cite web|url=http://www.uscis.gov/forms/how-do-i-use-premium-processing-service|title = How Do I Use the Premium Processing Service?|publisher = [[United States Citizenship and Immigration Services]]|accessdate = April 4, 2015}}</ref>
+The USCIS offers a [[Premium Processing Service]] at an additional fee of $1225 for [[Form I-140]]  petitions. Premium processing is only available for this form and for [[Form I-129]] (non-immigrant worker). The Premium Processing Service promises an initial review from the USCIS within 15 calendar days of receipt of the form, after which time it may approve, deny, or issue a [[Request For Evidence]] or [[Notice of Intent to Deny]].<ref name=uscis-premium-processing/> For the special case of cap-subject [[H-1B visa]]s where the applications are concentrated in the beginning of April, the start date for the 15-day countdown is generally delayed due to the huge influx of applications.<ref name=uscis-premium-processing>{{cite web|url=http://www.uscis.gov/forms/how-do-i-use-premium-processing-service|title = How Do I Use the Premium Processing Service?|publisher = [[United States Citizenship and Immigration Services]]|accessdate = April 4, 2015}}</ref> USCIS will refund the Premium Processing Service fee if processing takes longer than 15 days. If the fee is refunded, the relating case will continue to receive expedited processing.<ref name=uscis-premium-processing/> The time begins from the receipt of Form I-907 and the associated fee. Form I-907 may be filed along with Form I-140, or electronically as a standalone form for a previously filed Form I-129.<ref name="uscis-premium-processing" />
 
 The Premium Processing Service was introduced in 2001 for Form I-129<ref name=endelman>{{cite web|url=http://www.ilw.com/articles/2001,0612-Endelman.shtm|title = Be Careful of What You Wish For: The Hidden Meaning of Premium Processing Fees|last = Endelman|first = Gary|publisher = [[Immigration Daily]]|date = June 12, 2001|accessdate = April 5, 2015}}</ref> and extended to Form I-140 in 2006.<ref>{{cite web|url=http://www.visaserve.com/Articles/New-Premium-Process-Rules-are-in-Effect.pdf|title = New Premium Processing Rules are in Effect|date = May 23, 2006|accessdate = April 5, 2015}}</ref>
 
@@ -117,9 +116,17 @@ The approval rate for aliens of extraordinary ability has ranged from 47% to 62%
 
 ==Adverse decisions==
 
+{{further|USCIS immigration forms#Appeal forms}}
+
 The petition may be rejected if decision delayed if it lacks correct information or supporting documentation.<ref name="wegreened_140" />
 
 The USCIS may also submit a Request for Additional Evidence if it is not convinced that the applicant qualifies.<ref name="wegreened_140" />
+
+It is possible to reapply for a Form I-140 petition if the original petition results in denial. When reapplying, all previously-submitted evidence must be resubmitted, and filing fee must be paid again. In addition, the receipt number from the previous I-140 petition must be given.<ref name="alllaw_denied">{{cite web |url=http://www.alllaw.com/articles/nolo/us-immigration/options-i-140-visa-petition-denied.html |title= Options If Your I-140 Visa Petition is Denied |accessdate=February 21, 2016 |last=Kendall |first=Emily}}</ref>
+
+It is also possible to appeal the decision, in which case Form I-290B must be filed within 30 days of the denial to the USCIS Administrative Appeals Office (AAO). Appeals have historically taken up to 35 months to be adjudicated; for this reason it is often easier to reapply.<ref name="alllaw_denied" />
+
+Denial of an I-140 petition does not terminate an alien's nonimmigrant status (e.g. H-1B status).<ref name="alllaw_denied" />
 
 ==Relation with overall immigrant visa process==
 
