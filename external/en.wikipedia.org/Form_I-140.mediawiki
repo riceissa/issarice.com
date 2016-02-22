@@ -84,6 +84,12 @@ The filing address for Form I-140 depends on whether Form I-140 is being siled o
 
 The fee for filing Form I-140 is $580, and must be payable in US currency to the US Department of Homeland Security.<ref name="i140_instructions"/><ref name="wegreened_140" />
 
+TODO combine the ideas from https://en.wikipedia.org/wiki/Form_I-130#Filing_fees and https://en.wikipedia.org/wiki/Form_I-129#Filing_fee
+
+note both the additional fee for Premium Processing and the additional fee for subsequent steps to finally obtain LPR status
+
+Oh, and is there a fee for labor certification? If so include that too
+
 ===Premium processing: Form I-907===
 
 {{further|Premium Processing Service|USCIS processing times}}
@@ -100,6 +106,10 @@ you can apply for Premium Processing on an already submitted application, the cl
 Premium Processing does not guarantee a final adjudication, it only provides a time limit for initial review and for each iteration
 
 i.e., the 15-calendar-day guarantee is only for the initial review of the petition, which may result in approval, denial, or the issuing of a RFE or NOID
+
+==Benefits of having a pending and approved Form I-140 petition==
+
+in terms of H-1B extensions and job portability, as per AC21 and other stuff
 
 ==Statistics==
 
