@@ -1,8 +1,12 @@
+[[File:Form_I-140.pdf|thumb|right|Form I-140]]
+
 '''Form I-140''', '''Immigrant Petition for Alien Worker''' is a form submitted to the [[United States Citizenship and Immigration Services]] (USCIS) by a prospective employer to petition an alien to work in the US on a permanent basis.<ref name="immihelp_140">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-immigrant-worker-petition.html |title=I-140: Immigrant Worker Petition |accessdate=February 9, 2016 |publisher=Immihelp}}</ref> This is done in the case when the worker is deemed extraordinary in some sense or when qualified workers do not exist in the US.<ref name="i140_instructions">{{cite web |url=https://www.uscis.gov/sites/default/files/files/form/i-140instr.pdf |title=Instructions for Petition for Alien Worker |accessdate=February 14, 2016 |publisher=Department of Homeland Security}}</ref> The employer who files is called the petitioner, and the alien employee is called the beneficiary; these two can coincide in the case of a self-petitioner. The form is 6 pages long with a separate 10-page instructions document as of 2016.
 
 The alien's non-immigrant status does not change directly as a result of their Form I-140 being approved.<ref name="immihelp_140" /> Form I-140 is one step in the overall process to [[Permanent residence (United States)|lawful permanent residency]].
 
 ==Reasons for filing Form I-140==
+
+Form I-140 is required for EB categories [[EB-1 visa |EB-1]], [[EB-2 visa|EB-2]], and [[EB-3 visa|EB-3]]. For [[EB-4 visa|EB-4]] and [[EB-5 visa|EB-5]], Forms I-360 and I-526 are used, respectively.
 
 The following is a list of all of the reasons (also known as petition types) for filing Form I-140.<ref name="actual_i140">{{cite web |url=https://www.uscis.gov/sites/default/files/files/form/i-140.pdf |title=Immigrant Petition for Alien Worker |accessdate=February 20, 2016 |publisher=Department of Homeland Security}}</ref><ref name="i140_instructions" />
 
@@ -50,6 +54,8 @@ The Form I-140 petition must be accompanied by what is termed "initial evidence"
 
 In labor certification-based petitions, a [[labor certification]] must be filed and approved by the US Department of Labor before Form I-140 can be submitted.<ref name="immihelp_140" /> The labor certification is valid for 180 days, and Form I-140 must be received by the USCIS before the labor certification expires.<ref name="i140_instructions" /><ref name="hooyoulc">{{cite web |url=http://www.hooyou.com/lc/faq.html |title= Frequently Asked Questions: PERM Labor Certification |accessdate=February 20, 2016}}</ref> It is possible to establish a successor-in-interest relationship between the successor employer and predecessor employer, in which case a predecessor's labor certification can be used.<ref name="wegreened_140" />
 
+===General evidence===
+
 Additional evidence that must be provided includes the employer's financial data, proof of the employee's education and work experience, as well as evidence that the employer can pay the proffered wage to the employee.<ref name="greencardapply">{{cite web |url=http://www.greencardapply.com/i140.htm |title=Form I-140 Green Card DIY Package |accessdate=February 14, 2016 |publisher=Green Card Apply Service}}</ref>
 
 The priority date of the Form I-140 application depends on whether the application is labor certification-based or not. If it is, the priority date is the date the [[Department of Labor]] receives the application; otherwise it is when the USCIS receives the application.<ref name="immihelp_140" />
@@ -79,6 +85,21 @@ The filing address for Form I-140 depends on whether Form I-140 is being siled o
 The fee for filing Form I-140 is $580, and must be payable in US currency to the US Department of Homeland Security.<ref name="i140_instructions"/><ref name="wegreened_140" />
 
 ===Premium processing: Form I-907===
+
+{{further|Premium Processing Service|USCIS processing times}}
+
+
+The USCIS offers a [[Premium Processing Service]] at an additional fee of $1225 for [[Form I-129]] (non-immigrant worker) and [[Form I-140]] (immigrant worker) petitions. The Premium Processing Service has a fee of $1225 and promises an initial review from the USCIS within 15 calendar days of receipt of the form, after which time it may approve, deny, or issue a [[Request For Evidence]] or [[Notice of Intent to Deny]].<ref name=uscis-premium-processing/> For the special case of cap-subject [[H-1B visa]]s where the applications are concentrated in the beginning of April, the start date for the 15-day countdown is generally delayed due to the huge influx of applications.<ref name=uscis-premium-processing>{{cite web|url=http://www.uscis.gov/forms/how-do-i-use-premium-processing-service|title = How Do I Use the Premium Processing Service?|publisher = [[United States Citizenship and Immigration Services]]|accessdate = April 4, 2015}}</ref>
+
+The Premium Processing Service was introduced in 2001 for Form I-129<ref name=endelman>{{cite web|url=http://www.ilw.com/articles/2001,0612-Endelman.shtm|title = Be Careful of What You Wish For: The Hidden Meaning of Premium Processing Fees|last = Endelman|first = Gary|publisher = [[Immigration Daily]]|date = June 12, 2001|accessdate = April 5, 2015}}</ref> and extended to Form I-140 in 2006.<ref>{{cite web|url=http://www.visaserve.com/Articles/New-Premium-Process-Rules-are-in-Effect.pdf|title = New Premium Processing Rules are in Effect|date = May 23, 2006|accessdate = April 5, 2015}}</ref>
+
+The wait time for Form I-140 to be processed is the max of processing time and visa number availability time. Therefore premium processing helps when ... . If there is no visa number availability wait time, either because the category is uncapped or the caps are nowhere near being met, then Premium Processing helps . On the other hand, for an EB-2 application with country of chargeability India, where the current Priority Date is 2008, and Form I-140s rarely take more than two years to process in the worst case, Premium Processing would not help because the priority date overwhelms even the standard processing time.
+
+you can apply for Premium Processing on an already submitted application, the clock for Premium Processing begins when you apply for that
+
+Premium Processing does not guarantee a final adjudication, it only provides a time limit for initial review and for each iteration
+
+i.e., the 15-calendar-day guarantee is only for the initial review of the petition, which may result in approval, denial, or the issuing of a RFE or NOID
 
 ==Statistics==
 
