@@ -39,6 +39,7 @@ div#content {
 }
 
 div#navigation {
+    background-color: #eee8d5;
     font-family: Lato, Helvetica, sans-serif;
     font-size: 80%;
     /* See http://stackoverflow.com/a/324553 ; this ensures that the
@@ -49,6 +50,23 @@ div#navigation {
 
 h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 h2 { border-bottom: 1px solid #93a1a1; }
+
+@media (min-width: 71em) {
+    div#navigation {
+        margin-left: 18em;
+    }
+    div#toc_block {
+        position: fixed;
+        left: 0;
+        top: 10px;
+        bottom: 0;
+        overflow: auto;
+        width: 18em;
+    }
+    h2#toc_h {
+        border-bottom: none;
+    }
+}
 
 a { text-decoration: none; }
 a:link { color: #268bd2; }
