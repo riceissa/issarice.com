@@ -71,6 +71,12 @@ Interesting note on WHO's funding:
 > the beginning of the 1990s, extra-budgetary funding had overtaken the regular
 > budget by $21 million, contributing 54% of WHO’s overall budget.
 
+1990s:
+
+> Best-selling books and news magazines were full of stories about Ebola and
+> West Nile virus, resurgent tuberculosis, and the threat of bioterrorism. The
+> message was clear: there was a palpable global disease threat.
+
 # What does the success of global health tell us about other movements?
 
 Specifically, I'm interested in anti-aging.
