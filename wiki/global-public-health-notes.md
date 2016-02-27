@@ -58,6 +58,19 @@ On potential motivations for countries like the US:
 > assistance fit neatly into US Cold War efforts to promote modernization with
 > limited social reform.
 
+Interesting note on WHO's funding:
+
+> Another symptom of WHO’s problems in the late 1980s was the growth of
+> “extrabudgetary” funding. As Gill Walt of the London School of Hygiene and
+> Tropical Medicine noted, there was a crucial shift from predominant reliance
+> on WHO’s “regular budget”—drawn from member states’ contributions on the
+> basis of population size and gross national product—to greatly increased
+> dependence on extrabudgetary funding coming from donations by multilateral
+> agencies or “donor” nations. By the period 1986–1987, extrabudgetary funds of
+> $437 million had almost caught up with the regular budget of $543 million. By
+> the beginning of the 1990s, extra-budgetary funding had overtaken the regular
+> budget by $21 million, contributing 54% of WHO’s overall budget.
+
 # What does the success of global health tell us about other movements?
 
 Specifically, I'm interested in anti-aging.
