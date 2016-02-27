@@ -95,6 +95,23 @@ From [this chapter](http://www.hks.harvard.edu/fs/phall/Powell%20Essay-Final%20-
     > public and proprietary in 1930 to nonprofit by the 1960s to proprietary
     > by the century’s end with changes in tax and health policy.
 
+- Soon after the US was founded, US federal and state governments tried to stop charities and corporations for fear of losing power to them.
+Also:
+
+    > At the end of the eighteenth century, indigenous philanthropy and
+    > voluntarism were still embryonic. Most philanthropy was devoted to public
+    > institutions—municipal governments, schools and colleges, and religious
+    > congregations (most of which were tax-supported). Voluntary participation
+    > in organizations was restricted to fraternal associations, local social
+    > clubs, a handful of medical societies, and the secretive political
+    > societies that would eventually form the basis for political parties. The
+    > absence of a legal infrastructure to enforce charitable trusts, as well
+    > as broad hostility to ward corporations, discouraged private initiatives
+    > professing to benefit the public.
+
 # What does the success of global health tell us about other movements?
 
 Specifically, I'm interested in anti-aging.
+
+Some parts of early history of philanthropy are less relevant.
+For instance, the way in which nonprofits became codified in US law was important the first time around (i.e. for currently-existing philanthropy), but is less relevant for newer developments like anti-aging, since these laws are already in place.
