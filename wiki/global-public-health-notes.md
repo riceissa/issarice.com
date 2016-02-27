@@ -77,6 +77,9 @@ Interesting note on WHO's funding:
 > West Nile virus, resurgent tuberculosis, and the threat of bioterrorism. The
 > message was clear: there was a palpable global disease threat.
 
+[This Harvard course](https://isites.harvard.edu/fs/docs/icb.topic606990.files/HS%20148%20Syllabus%20History%20of%20Global%20Health.pdf) spends quite a bit of time on the role of missionaries.
+I'm not sure if it's worth looking into.
+
 # What does the success of global health tell us about other movements?
 
 Specifically, I'm interested in anti-aging.
