@@ -80,6 +80,21 @@ Interesting note on WHO's funding:
 [This Harvard course](https://isites.harvard.edu/fs/docs/icb.topic606990.files/HS%20148%20Syllabus%20History%20of%20Global%20Health.pdf) spends quite a bit of time on the role of missionaries.
 I'm not sure if it's worth looking into.
 
+From [this chapter](http://www.hks.harvard.edu/fs/phall/Powell%20Essay-Final%20-%20rev.pdf):
+
+- 501(c)(3) and 501(c)(4) came along in 1954.
+
+- On the role of legislation:
+
+    > It is no accident that the impressive proliferation of registered
+    > tax-exempt nonprofits in the United States from fewer than 13,000 in 1940
+    > to more than 1.5 million at the end of the century coincided with
+    > legislative and regulatory policies that defined and systematically
+    > favored nonprofits and those who contributed to their support. Nor is it
+    > a coincidence that ownership of hospitals shifted from predominantly
+    > public and proprietary in 1930 to nonprofit by the 1960s to proprietary
+    > by the century’s end with changes in tax and health policy.
+
 # What does the success of global health tell us about other movements?
 
 Specifically, I'm interested in anti-aging.
