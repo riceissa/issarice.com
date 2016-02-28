@@ -570,7 +570,7 @@ fulfilling *and* important for the world (actually produces value)? Examples
 might include: doing research (especially online content creation, e.g. adding
 to [Wikipedia]()) and programming (especially writing free software).
 
-See also "[Chinese loses math face\-off to U.S.](http://www.cnn.com/2015/08/05/china/us-defeat-china-math-olympiad/)":
+See also "[Chinese loses math face-off to U.S.](http://www.cnn.com/2015/08/05/china/us-defeat-china-math-olympiad/)":
 
 > But to some, losing the Olympiad offers hope that painful, nightmarish years
 > spent studying for the contest could finally be over.
