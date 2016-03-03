@@ -100,6 +100,8 @@ The Premium Processing Service was introduced in 2001 for Form I-129<ref name=en
 
 Premium Processing does not guarantee a final adjudication; it only provides a time limit for initial review of the petition. In other words, the 15 calendar day guarantee is only for the initial review of the petition, which may result in approval, denial, or the issuing of a Request For Evidence or Notice of Intent to Deny.
 
+Premium processing is advantageous (ignoring the fee) in most cases, but in some cases there may be harmful or have no benefit.<ref name="immihelp_pp">{{cite web |url=http://www.immihelp.com/greencard/employmentbasedimmigration/i-140-premium-processing.html |title=I-140 Premium Processing |publisher=Immihelp |accessdate=March 2, 2016}}</ref>
+
 The wait time for Form I-140 to be processed is the max of processing time and visa number availability time. Therefore premium processing helps when ... . If there is no visa number availability wait time, either because the category is uncapped or the caps are nowhere near being met, then Premium Processing helps . On the other hand, for an EB-2 application with country of chargeability India, where the current Priority Date is 2008, and Form I-140s rarely take more than two years to process in the worst case, Premium Processing would not help because the priority date overwhelms even the standard processing time.
 
 It is possible to apply for Premium Processing on an already-submitted application. In this case, the clock for Premium Processing begins when the Premium Processing is requested.
@@ -107,6 +109,10 @@ It is possible to apply for Premium Processing on an already-submitted applicati
 ==Benefits of having a pending and approved Form I-140 petition==
 
 in terms of H-1B extensions and job portability, as per AC21 and other stuff
+
+Under AC21, once Form I-140 is approved, the alien can change jobs and still continue the green card process.<ref name="immihelp_pp" />
+
+Having Form I-140 allows extensions of the H-1B visa in increments of 3 years (instead of the standard 1 year). This can save money and effort for the employer, among other benefits.<ref name="immihelp_pp" />
 
 ==Statistics==
 
