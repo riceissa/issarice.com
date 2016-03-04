@@ -82,13 +82,13 @@ The filing address for Form I-140 depends on whether Form I-140 is being filed o
 
 ===Filing fees===
 
-The fee for filing Form I-140 is $580, and must be payable in US currency to the US Department of Homeland Security.<ref name="i140_instructions"/><ref name="wegreened_140" />
+The fee for filing Form I-140 is $580, and must be payable in US currency to the US Department of Homeland Security.<ref name="i140_instructions"/><ref name="wegreened_140" /> There is also a $1225 fee for Premium Processing (next section).
 
-TODO combine the ideas from https://en.wikipedia.org/wiki/Form_I-130#Filing_fees and https://en.wikipedia.org/wiki/Form_I-129#Filing_fee
+However, this fee ''does not include'':
 
-note both the additional fee for Premium Processing and the additional fee for subsequent steps to finally obtain LPR status
-
-Oh, and is there a fee for labor certification? If so include that too
+* In the case the beneficiary is already in the United States, the fee for Form I-485 (filed separately by the beneficiary, so not part of the petition), which can range from $635 to $985 depending on the category.<ref name=i-485>{{cite web|url=http://www.uscis.gov/i-485|title = I-485, Application to Register Permanent Residence or Adjust Status|publisher = [[United States Citizenship and Immigration Services]]|accessdate = May 27, 2015}}</ref>
+* In the case the beneficiary is not in the United States, the immigrant visa application processing fee that, as of May 2015, is $325.<ref>{{cite web|url=http://travel.state.gov/content/visas/english/fees/fees-visa-services.html#permanent|title = Fees for Visa Services|accessdate = May 27, 2015|publisher = [[United States Citizenship and Immigration Services]]}}</ref>
+* In the case the beneficiary is not in the United States, the $165 USCIS immigrant fee, which is needed to process the immigrant visa packet and produce and send to the applicant the Green Card.<ref>{{cite web|url=http://www.uscis.gov/forms/uscis-immigrant-fee|title = USCIS Immigrant Fee|publisher = [[United States Citizenship and Immigration Services]]|accessdate = May 27, 2015}}</ref>
 
 ===Premium Processing: Form I-907===
 
