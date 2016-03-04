@@ -126,19 +126,20 @@ The approval rate for aliens of extraordinary ability has ranged from 47% to 62%
 
 {{see also|USCIS processing times}}
 
-USCIS processes Form I-140 on a first-come, first-serve basis, so at any given time, the date received for the forms that have just finished processing provides a good estimate of processing time. USCIS breaks down Form I-140 into seven categories and reports processing times separately for each:<ref name="uscis_aao_proc_times"/>
+USCIS processes Form I-140 on a first-come, first-serve basis, so at any given time, the date received for the forms that have just finished processing provides a good estimate of processing time. USCIS breaks down Form I-140 into eight categories and reports processing times separately for each:<ref name=egov>{{cite web|url = https://egov.uscis.gov/cris/processTimesDisplayInit.do|title = USCIS Processing Time Information|accessdate = March 4, 2016 |publisher = [[United States Citizenship and Immigration Services]]}}</ref>
 
-* Alien with Extraordinary Ability
-* Outstanding Professor or Researcher
-* Multinational Manager or Executive
-* Advanced Degree Professional
-* National Interest Waiver
-* Skilled or Professional Worker
-* Other Worker
+* Extraordinary Ability (EB-1)
+* Outstanding Professor or Researcher (EB-1)
+* Multinational Manager or Executive (EB-1)
+* Advanced Degree Professional (EB-1)
+* Skilled or Professional Worker (EB-2 or EB-3)
+* Unskilled Worker (EB-3)
+* Advanced degree or exceptional ability requesting a National Interest Waiver (EB-2)
+* Schedule A Nurses (EB-2 or EB-3<ref>{{cite web url=http://www.murthy.com/resident/employment-based/perm-labor/schedule-a/ |title=Schedule A |accessdate=March 4, 2016 |publisher=Murthy Law Firm}}</ref>)
 
 The processing time is on average about four months. Historically, adjudications have taken much longer than eight months in some cases.<ref name="nolo_timeline"/>
 
-As of February 1, 2016, the processing times for all categories of Form I-140 is 6 months or less.<ref name="uscis_aao_proc_times">{{cite web |url=https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-processing-times |title=AAO Processing Times |accessdate=March 3, 2016 |publisher=USCIS}}</ref>
+There are separate processing times reported for the appeals processing. As of February 1, 2016, the processing times for administrative appeals for all categories of Form I-140 is 6 months or less.<ref name="uscis_aao_proc_times">{{cite web |url=https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-processing-times |title=AAO Processing Times |accessdate=March 3, 2016 |publisher=USCIS}}</ref>
 
 ==Adverse decisions==
 
