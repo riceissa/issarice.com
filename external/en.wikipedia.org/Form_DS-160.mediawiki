@@ -1,1 +1,5 @@
-Form DS-160, Online Nonimmigrant Visa Application, is an electronic form used to apply for a nonimmigrant visa. The form is sent to the [[United States Department of State|US Department of State]].
+'''Form DS-160''', Online Nonimmigrant Visa Application, is an electronic form used to apply for a nonimmigrant visa. The form is sent to the [[United States Department of State|US Department of State]].<ref name="state_ds160">{{cite web |url=http://travel.state.gov/visa/forms/forms_4230.html |publisher=U.S. State Department |title=DS-160: Online Nonimmigrant Visa Application |archiveurl=https://web.archive.org/web/20120107184845/http://travel.state.gov/visa/forms/forms_4230.html |archivedate=January 7, 2012}}</ref>
+
+==Relation to overall process==
+
+After the individual files Form DS-160, it is processed by consular officers<ref name="state_ds160" />
