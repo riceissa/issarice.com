@@ -86,7 +86,9 @@ From 7th week:
 
 - This is something I've been feeling since I came to UW, but more and more I feel it is simply *impossible* to learn everything that is part of a course such as this one (and even in my other two courses, [CSE 332]() and [CSE 351]()) if one hasn't seen the material previously. This of course assumes that one is spending a reasonable amount of time on the courses (though perhaps less than what if officially expected---which is I think 3 hours per credit?).
 
-- The trend continues in which I become even more disillusioned with UW and academics. It feels incredible to me how everyone else can wake up, attend class each day, dutifully complete homework each week, etc. I suppose it's easier for people who believe more in the human capital narrative of education, but even then, it seems so incredibly exhausting to do this each year.
+- The trend continues in which I become even more disillusioned with UW and academics. It feels incredible to me how everyone else can wake up, attend class each day, dutifully complete homework each week, etc. I suppose it's easier for people who believe more in the human capital narrative of education, but even then, it seems so incredibly exhausting to do this each year. It's difficult for me to explain this precisely, and sometimes I feel that one either intuitively understands the mundaneness, repetitiveness, and stressfulness of being at UW or else one is completely incapable of understanding it[^qs].
+
+[^qs]: For if one feels the need to interrogate me with questions like "What's so bad about it?", "Isn't college the best time of your life?", "Aren't you studying what you've wanted to study?", and so forth, then I *cannot* take the time to answer them. The only correct answer for those capable of understanding---and therefore those who intuitively grasp the suffering at UW---is simply "I understand".
 
 [^hw]: This is something I see in other subjects as well. High school
 tests and projects were graded, but daily/weekly assignments were often
