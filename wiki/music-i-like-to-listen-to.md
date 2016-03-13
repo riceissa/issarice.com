@@ -42,3 +42,6 @@ Some others:
 - Wings Of Honneamise OST
 - "She's 22" by Norah Jones
 - The Seatbelts and *Cowboy Bebop* OST
+- Sunny Day Service (band)
+- RahXephon OST (the classical tracks)
+- [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
