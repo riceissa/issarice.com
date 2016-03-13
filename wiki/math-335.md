@@ -4,6 +4,7 @@ date: 2016-02-21
 tags: math, uw, uw course review
 license: CC0
 math: yes
+belief: emotional
 ---
 
 This is my course review for MATH 335, Advanced Calculus.
@@ -87,6 +88,8 @@ From 7th week:
 - This is something I've been feeling since I came to UW, but more and more I feel it is simply *impossible* to learn everything that is part of a course such as this one (and even in my other two courses, [CSE 332]() and [CSE 351]()) if one hasn't seen the material previously. This of course assumes that one is spending a reasonable amount of time on the courses (though perhaps less than what if officially expected---which is I think 3 hours per credit?).
 
 - The trend continues in which I become even more disillusioned with UW and academics. It feels incredible to me how everyone else can wake up, attend class each day, dutifully complete homework each week, etc. I suppose it's easier for people who believe more in the human capital narrative of education, but even then, it seems so incredibly exhausting to do this each year. It's difficult for me to explain this precisely, and sometimes I feel that one either intuitively understands the mundaneness, repetitiveness, and stressfulness of being at UW or else one is completely incapable of understanding it[^qs]. Indeed, I think UW is no better than being in high school[^highschool]. I am reminded of days in high school when I would search online for reasons others had come up with against school, because it seemed *so obvious and intuitive* to me that I shouldn't be at school, yet difficult to verbalize why exactly that was.
+
+    I suppose one part of my complaint is to ask the question, *Isn't it possible to imagine some other life than to be stuck at school doing this?* There is an eerie lack of creativity across most of the students here, where they cannot---or do not allow themselves to?---imagine a life *significantly better than their current life*.
 
 [^highschool]: See for instance [this thread on /r/udub/](https://web.archive.org/web/20160313071712/https://www.reddit.com/r/udub/comments/4a2f1y/end_of_quarter_rant_thread/d0x02m2) for others who agree.
 
