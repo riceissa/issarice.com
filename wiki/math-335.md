@@ -49,7 +49,7 @@ From 7th week:
   problems that are merely and divinely *present* because of their
   inherent value, and meant to be solved by "elites"), but rather
   something mass-produced, to be consumed by the "mathematical masses"
-  (which are a minority with respect to the general population), or
+  (who are a minority with respect to the general population, but a majority relative to the mathematical elite), or
   written due to the practical desire to *evaluate students*. These
   problems are in fact no different from whiteboard interview question
   in programming, which have been criticized well elsewhere[^whiteboard].
@@ -59,7 +59,7 @@ From 7th week:
       finding problems to work on. Indeed, each week I am thrown a new
       set of time-consuming but straightforward and unenlightening
       problems to work on, which certainly gives me practice with some
-      of the standard tools I am expected to know, but also completely
+      of the standard tools I am expected to know (in a similar way to, but on a more advanced than, doing many long division problems), but also completely
       drains me of the curiosity to find interesting problems of my own
       (this might change to some extent in 336, where a term paper on a
       topic of one's choice is assigned).
@@ -86,7 +86,9 @@ From 7th week:
 
 - This is something I've been feeling since I came to UW, but more and more I feel it is simply *impossible* to learn everything that is part of a course such as this one (and even in my other two courses, [CSE 332]() and [CSE 351]()) if one hasn't seen the material previously. This of course assumes that one is spending a reasonable amount of time on the courses (though perhaps less than what if officially expected---which is I think 3 hours per credit?).
 
-- The trend continues in which I become even more disillusioned with UW and academics. It feels incredible to me how everyone else can wake up, attend class each day, dutifully complete homework each week, etc. I suppose it's easier for people who believe more in the human capital narrative of education, but even then, it seems so incredibly exhausting to do this each year. It's difficult for me to explain this precisely, and sometimes I feel that one either intuitively understands the mundaneness, repetitiveness, and stressfulness of being at UW or else one is completely incapable of understanding it[^qs].
+- The trend continues in which I become even more disillusioned with UW and academics. It feels incredible to me how everyone else can wake up, attend class each day, dutifully complete homework each week, etc. I suppose it's easier for people who believe more in the human capital narrative of education, but even then, it seems so incredibly exhausting to do this each year. It's difficult for me to explain this precisely, and sometimes I feel that one either intuitively understands the mundaneness, repetitiveness, and stressfulness of being at UW or else one is completely incapable of understanding it[^qs]. Indeed, I think UW is no better than being in high school[^highschool]. I am reminded of days in high school when I would search online for reasons others had come up with against school, because it seemed *so obvious and intuitive* to me that I shouldn't be at school, yet difficult to verbalize why exactly that was.
+
+[^highschool]: See for instance [this thread on /r/udub/](https://web.archive.org/web/20160313071712/https://www.reddit.com/r/udub/comments/4a2f1y/end_of_quarter_rant_thread/d0x02m2) for others who agree.
 
 [^qs]: For if one feels the need to interrogate me with questions like "What's so bad about it?", "Isn't college the best time of your life?", "Aren't you studying what you've wanted to study?", and so forth, then I *cannot* take the time to answer them. The only correct answer for those capable of understanding---and therefore those who intuitively grasp the suffering at UW---is simply "I understand".
 
