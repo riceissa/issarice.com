@@ -74,8 +74,7 @@ From 7th week:
 - I've been realizing more and more that Morrow likes to discuss topics
   differently than in the book (in 334 he gave a different definition of
   continuity), which makes it difficult to follow sometimes (especially
-  since I tend to skip lecture a lot), although he does post PDFs for
-  these (but with little organization on the course website).
+  since I tend to skip lecture a lot), although he does post PDFs for (most of?) these (but with little organization on the course website).
 
 - This quarter in general has been rather stressful for me, and looking
   at my performance so far and in previous quarters, I can't help but to
@@ -84,6 +83,8 @@ From 7th week:
   ) "It is entirely possible for a school to break you and award you
   decent grades at the same time." (Although UW is nowhere as intense as
   Caltech is.)
+
+- This is something I've been feeling since I came to UW, but more and more I feel it is simply *impossible* to learn everything that is part of a course such as this one (and even in my other two courses, [CSE 332]() and [CSE 351]()) if one hasn't seen the material previously. This of course assumes that one is spending a reasonable amount of time on the courses (though perhaps less than what if officially expected---which is I think 3 hours per credit?).
 
 [^hw]: This is something I see in other subjects as well. High school
 tests and projects were graded, but daily/weekly assignments were often
