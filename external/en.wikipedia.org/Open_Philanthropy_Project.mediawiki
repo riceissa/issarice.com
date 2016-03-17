@@ -1,8 +1,16 @@
-The '''Open Philanthropy Project''' (often abbreviated as "Open Phil" and formerly GiveWell Labs) is a joint project between [[GiveWell]] and [[Good Ventures]] that tries to identify the most effective ways to give money.<ref name="openphil_formerly_gwl">{{cite web |url=http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/ |title=Open Philanthropy Project (formerly GiveWell Labs) |first=Holden |last=Karnofsky |publisher=GiveWell}}</ref>
+The '''Open Philanthropy Project''' (often abbreviated as '''Open Phil''' and formerly GiveWell Labs) is a joint project between [[GiveWell]] and [[Good Ventures]] that tries to identify the most effective ways to give money.<ref name="openphil_formerly_gwl">{{cite web |url=http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/ |title=Open Philanthropy Project (formerly GiveWell Labs) |first=Holden |last=Karnofsky |publisher=GiveWell}}</ref> As of March 2016, the organization is still not entirely separate from GiveWell<ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
+
+== History ==
+
+The Open Philanthropy Project started out as GiveWell Labs in XXXX.
+
+The name was changed to Open Philanthropy Project to separate it from GiveWell and also to avoid exclusive association to GiveWell because it is a collaboration with Good Ventures.<ref name="openphil_formerly_gwl" />
 
 == Organizational structure ==
 
 Cari Tuna is the organization's president, [[Holden Karnofsky]] is the executive director, and Elie Hassenfeld is the managing director. Open Phil also has several program officers for various focus areas (such as US policy and scientific research), research analysts, and other roles.<ref>{{cite web |url=http://www.openphilanthropy.org/about/team |title=Team |accessdate=March 16, 2016 |publisher=Open Philanthropy Project}}</ref>
+
+The first shallow overview appears to have been published in April 2013.<ref>{{cite web|url=http://www.givewell.org/shallow/migration|title = Seasonal migration within low-income countries|publisher = GiveWell|date = April 2013|accessdate = 2013-09-21}}</ref> but GiveWell appears to have first officially announced shallow overviews in a blog post in May 2013.<ref>{{cite web|url=http://blog.givewell.org/2013/05/30/refining-the-goals-of-givewell-labs/|title = Refining the Goals of GiveWell Labs|date = 2013-05-30|accessdate = 2013-09-21|last = Karnofsky|first = Holden|publisher = GiveWell}}</ref>
 
 == Shallow overviews ==
 
@@ -25,3 +33,7 @@ Some of the grants made by Good Ventures were made as a result of work done on G
 |-
 | July 2014 ||  ImmigrationWorks Foundation, the 501(c)3 sister organization to [[ImmigrationWorks USA]] || $285,000 || The recipient is a group that advocates for freer movement of low-skilled workers for employment to the United States.<ref>{{cite web|url=http://www.goodventures.org/our-portfolio/grants/immigrationworks-foundation-general-support-july-2014|title = ImmigrationWorks Foundation — General Support|accessdate = August 1, 2014|publisher = Good Ventures}}</ref> The grant was recommended by charity evaluator GiveWell.<ref>{{cite web|url=http://www.givewell.org/labs/causes/labor-mobility/ImmigrationWorks|title = ImmigrationWorks grant|accessdate = August 1, 2014|publisher = GiveWell}}</ref>
 |}
+
+==References==
+
+{{reflist|30em}}
