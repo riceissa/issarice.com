@@ -1,10 +1,30 @@
-The '''Open Philanthropy Project''' (often abbreviated as '''Open Phil''' and formerly GiveWell Labs) is a joint project between [[GiveWell]] and [[Good Ventures]] that tries to identify the most effective ways to give money.<ref name="openphil_formerly_gwl">{{cite web |url=http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/ |title=Open Philanthropy Project (formerly GiveWell Labs) |first=Holden |last=Karnofsky |publisher=GiveWell}}</ref> As of March 2016, the organization is still not entirely separate from GiveWell<ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
+The '''Open Philanthropy Project''' (often abbreviated as '''Open Phil''' and formerly GiveWell Labs) is a joint project between [[GiveWell]] and [[Good Ventures]] that tries to identify the most effective ways to give money to a wide variety of causes.<ref name="openphil_formerly_gwl">{{cite web |url=http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/ |title=Open Philanthropy Project (formerly GiveWell Labs) |first=Holden |last=Karnofsky |publisher=GiveWell}}</ref> As of March 2016, the organization is still not entirely separate from GiveWell.<ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
 
 == History ==
 
 The Open Philanthropy Project started out as GiveWell Labs in XXXX.
 
-The name was changed to Open Philanthropy Project to separate it from GiveWell and also to avoid exclusive association to GiveWell because it is a collaboration with Good Ventures.<ref name="openphil_formerly_gwl" />
+The name was changed to Open Philanthropy Project to separate it from GiveWell and also to avoid exclusive association to GiveWell because it is a collaboration with Good Ventures. However even after this initial brand change, updates to Open Phil were still posted to the GiveWell blog.<ref name="openphil_formerly_gwl" />
+
+As of March 2016, the Open Philanthropy Project is not an independent organization i.e. it is still a collaboration between GiveWell and Good Ventures, who share office space and information (to an extent).<ref name="about_page">{{cite web |url=http://www.openphilanthropy.org/about/good-ventures-and-givewell |title=Good Ventures &amp; GiveWell |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref><ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
+
+== Focus areas ==
+
+The Open Philanthropy Project uses the term "cause" to describe a problem or opportunity that requires expertise in order to make good giving decisions. It uses the term "focus area" for causes with the highest level of priority.<ref name="focus_areas">{{cite web |url=http://www.openphilanthropy.org/focus |title=Focus Areas |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref>
+
+{| class="wikitable"
+! Category !! Focus areas
+|-
+| US Policy || Criminal justice reform, farm animal welfare, macroeconomic stabilization policy, immigration policy, and land use reform
+|-
+| Global Catastrophic Risks || Biosecurity and potential risks from advanced artificial intelligence
+|-
+| Scientific Research || None
+|-
+| Global Health & Development || None
+|}
+
+== Evaluation process ==
 
 == Organizational structure ==
 
