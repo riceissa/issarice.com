@@ -328,3 +328,5 @@ $ sudo sysctl vm.swappiness=10
 $ cat /proc/sys/vm/swappiness 
 10
 ```
+
+See also [here](http://unix.stackexchange.com/a/2664) for how to change it permanently by editing `/etc/sysctl.conf` to include the line `vm.swappiness=10`.
