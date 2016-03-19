@@ -47,27 +47,27 @@ The following table lists the grants made by Open Phil as of March 2016, grouped
 |-
 | Biosecurity || $300,000 || [[Blue Ribbon Study Panel on Biodefense]]
 |-
-| Criminal Justice Reform || $6,475,990 || [[Institute of the Black World]], [[The Ordinary People Society]], [[Alliance for Safety and Justice]], [[Voice of the Ex-Offender]], [[JustLeadershipUSA]], [[Human Impact Partners]], [[New York University]], [[FSU Project on Accountable Justice]], [[Pew Charitable Trusts]], [[Washington Office on Latin America]], [[Pepperdine University]]
+| Criminal Justice Reform || $6,475,990 || [[Alliance for Safety and Justice]], [[FSU Project on Accountable Justice]], [[Human Impact Partners]], [[Institute of the Black World]], [[JustLeadershipUSA]], [[New York University]], [[Pepperdine University]], [[Pew Charitable Trusts]], [[The Ordinary People Society]], [[Voice of the Ex-Offender]], [[Washington Office on Latin America]]
 |-
 | Farm Animal Welfare || $2,500,000 || [[Mercy For Animals]], [[The Humane League]], [[The Humane Society of the United States]]
 |-
 | Global Catastrophic Risks || $600,000 || [[Future of Life Institute]], [[Solar Radiation Management Governance Initiative]]
 |-
-| History of Philanthropy || $77,000 || [[ARNOVA]], [[Rockefeller Archive Center]], [[Center for Global Development]]
+| History of Philanthropy || $77,000 || [[ARNOVA]], [[Center for Global Development]], [[Rockefeller Archive Center]]
 |-
-| Immigration Policy || $4,050,220 || [[Protect the People]], [[ImmigrationWorks]], [[Niskanen Center]], [[New York University]], [[U.S. Association for International Migration]], [[ImmigrationWorks Foundation]], [[Center for Global Development]]
+| Immigration Policy || $4,050,220 || Center for Global Development, [[ImmigrationWorks]], [[ImmigrationWorks Foundation]], New York University, [[Niskanen Center]], [[Protect the People]], [[U.S. Association for International Migration]]
 |-
-| Land Use Reform || $772,865 || [[Sightline Institute]], [[Urban Institute]], [[Smart Growth America]]
+| Land Use Reform || $772,865 || [[Sightline Institute]], [[Smart Growth America]], [[Urban Institute]]
 |-
-| Macroeconomic Stabilization Policy || $1,185,000 || [[Center for Popular Democracy]], [[Center on Budget and Policy Priorities]], [[Center for Popular Democracy]]
+| Macroeconomic Stabilization Policy || $1,185,000 || [[Center for Popular Democracy]], [[Center on Budget and Policy Priorities]]
 |-
-| Other areas || $2,600,000 || [[Brookings Institution]], [[Carnegie Endowment for International Peace]], [[Alliance for Open Society International]], [[Cochrane Collaboration]], [[International Development Association]], [[Population Services International]], [[United States Cochrane Center]]
+| Other areas || $2,600,000 || [[Alliance for Open Society International]], [[Brookings Institution]], [[Carnegie Endowment for International Peace]], [[Cochrane Collaboration]], [[International Development Association]], [[Population Services International]], [[United States Cochrane Center]]
 |-
-| Potential Risks from Advanced Artificial Intelligence || $1,186,000 || [[Future of Life Institute]]
+| Potential Risks from Advanced Artificial Intelligence || $1,186,000 || Future of Life Institute
 |-
 | Scientific Research || $299,112 || [[Rescuing Biomedical Research]]
 |-
-| U.S. Policy || $3,903,000 || [[Center for Global Development]], [[WaitList Zero]], [[Georgetown University]], [[Waitlist Zero]], [[RAND Corporation]], [[Center for Global Development]]
+| U.S. Policy || $3,903,000 || Center for Global Development, [[Georgetown University]], [[RAND Corporation]], [[WaitList Zero]]
 |}
 
 ==References==
