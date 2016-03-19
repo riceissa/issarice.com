@@ -2,9 +2,11 @@ The '''Open Philanthropy Project''' (often abbreviated as '''Open Phil''' and fo
 
 == History ==
 
-The Open Philanthropy Project started out as GiveWell Labs in XXXX.
+The Open Philanthropy Project started out as GiveWell Labs in 2013.
 
 The name was changed to Open Philanthropy Project to separate it from GiveWell and also to avoid exclusive association to GiveWell because it is a collaboration with Good Ventures. However even after this initial brand change, updates to Open Phil were still posted to the GiveWell blog.<ref name="openphil_formerly_gwl" />
+
+In April 2015, Open Phil announced a partnership with Kaitlyn Trigger and [[Mike Krieger]] (co-founder of [[Instagram]]). Trigger and Krieger pledged $750,000 over two years while Open Phil would provide information and include Trigger in team meetings.<ref>{{cite web |url=http://blog.givewell.org/2015/04/23/co-funding-partnership-with-kaitlyn-trigger-and-mike-krieger/ |title=Co-funding Partnership with Kaitlyn Trigger and Mike Krieger |date=April 23, 2015 |accessdate=March 19, 2016 |publisher=GiveWell |first=Holden |last=Karnofsky}}</ref>
 
 As of March 2016, the Open Philanthropy Project is not an independent organization i.e. it is still a collaboration between GiveWell and Good Ventures, who share office space and information (to an extent).<ref name="about_page">{{cite web |url=http://www.openphilanthropy.org/about/good-ventures-and-givewell |title=Good Ventures &amp; GiveWell |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref><ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
 
