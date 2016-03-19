@@ -40,20 +40,32 @@ The first shallow overview appears to have been published in April 2013.<ref>{{c
 
 == Grants made ==
 
-Some of the grants made by Good Ventures were made as a result of work done on GiveWell Labs.
-
-{| class="wikitable sortable"
-! Date of announcement !! Recipient !! Amount !! Details
+{| class="wikitable"
+! Focus area !! Amount !! Recipients
 |-
-| September 27, 2012 || U.S. Cochrane Center, part of the [[Cochrane Collaboration]] || $100,000 || GiveWell announced its first "Quick Grant" recommendation: it recommended that partner organization [[Good Ventures]] make a grant of $100,000 to the U.S. Cochrane Center, part of the [[Cochrane Collaboration]]. The idea behind "Quick Grants" was that GiveWell could recommend to specific large donors to quickly grant a sum of money to an organization that was in urgent need of funds, even though GiveWell had not had time to investigate the organization thoroughly enough to put it in GiveWell's list of recommended charities.<ref name=good-ventures-quick-grant-to-us-cochrane-center>{{cite web|url=http://www.goodventures.org/research-and-ideas/blog/quick-grant-to-the-us-cochrane-center|title = Quick Grant to the US Cochrane Center|publisher = Good Ventures|date = 2012-09-27|accessdate = 2012-09-27}}</ref><ref name=givewell-on-good-ventures-quick-grant-to-us-cochrane-center>{{cite web|url=http://blog.givewell.org/2012/09/27/us-cochrane-center-uscc-gets-our-first-quick-grant-recommendation/|title = US Cochrane Center (USCC) gets our first "quick grant" recommendation|publisher = GiveWell|date = 2012-09-27|accessdate = 2012-09-28}}</ref>
+| Biosecurity || $300,000 || Blue Ribbon Study Panel on Biodefense
 |-
-| May 2013 || [[Center for Global Development]] for [[Millions Saved]] || $50,000 || Recommended by GiveWell.<ref name=millions-saved>{{cite web|url=http://www.givewell.org/Millions-Saved|title = Millions Saved|publisher = GiveWell|date = June 2013|accessdate = 2013-07-04}}</ref>
+| Criminal Justice Reform || $6,475,990 || Institute of the Black World, The Ordinary People Society, Alliance for Safety and Justice, Voice of the Ex-Offender, JustLeadershipUSA, Human Impact Partners, New York University, FSU Project on Accountable Justice, Pew Charitable Trusts, Washington Office on Latin America, Pepperdine University
 |-
-| July 3, 2013 || [[Center for Global Development]] || $300,000 || $100,000 each for three years to support operating expenses.<ref name=cgd>{{cite web|url=http://blog.givewell.org/2013/07/03/grant-to-center-for-global-development-cgd/|title = Grant to Center for Global Development (CGD)|publisher = GiveWell|last = Karnofsky|first = Holden|date = 2013-07-03|accessdate = 2013-07-04}}</ref>
+| Farm Animal Welfare || $2,500,000 || Mercy For Animals, The Humane League, The Humane Society of the United States
 |-
-| March 2014 || [[Center for Global Development]] to support the research of [[Michael Clemens]] || $1,184,000 || The grant would be paid out over 3 years to the [[Center for Global Development]] to support research led by Senior Fellow [[Michael Clemens]], on GiveWell's recommendation.<ref>{{cite web|url=http://www.goodventures.org/our-portfolio/grants/center-for-global-development-labor-mobility-research-march-2014|title = Center for Global Development — Labor Mobility Research|publisher = Good Ventures|date = March 2014|accessdate = June 25, 2014}}</ref><ref>{{cite web|url=http://www.givewell.org/CGD-labor-mobility-grant|title = Grant to the Center for Global Development|publisher = GiveWell|date = March 2014|accessdate = June 25, 2014}}</ref>
+| Global Catastrophic Risks || $600,000 || Future of Life Institute, Solar Radiation Management Governance Initiative
 |-
-| July 2014 ||  ImmigrationWorks Foundation, the 501(c)3 sister organization to [[ImmigrationWorks USA]] || $285,000 || The recipient is a group that advocates for freer movement of low-skilled workers for employment to the United States.<ref>{{cite web|url=http://www.goodventures.org/our-portfolio/grants/immigrationworks-foundation-general-support-july-2014|title = ImmigrationWorks Foundation — General Support|accessdate = August 1, 2014|publisher = Good Ventures}}</ref> The grant was recommended by charity evaluator GiveWell.<ref>{{cite web|url=http://www.givewell.org/labs/causes/labor-mobility/ImmigrationWorks|title = ImmigrationWorks grant|accessdate = August 1, 2014|publisher = GiveWell}}</ref>
+| History of Philanthropy || $77,000 || ARNOVA, Rockefeller Archive Center, Center for Global Development
+|-
+| Immigration Policy || $4,050,220 || Protect the People, ImmigrationWorks, Niskanen Center, New York University, U.S. Association for International Migration, ImmigrationWorks Foundation, Center for Global Development
+|-
+| Land Use Reform || $772,865 || Sightline Institute, Urban Institute, Smart Growth America
+|-
+| Macroeconomic Stabilization Policy || $1,185,000 || Center for Popular Democracy, Center on Budget and Policy Priorities, Center for Popular Democracy
+|-
+| Other areas || $2,600,000 || Brookings Institution, Carnegie Endowment for International Peace, Alliance for Open Society International, Cochrane Collaboration, International Development Association, Population Services International, United States Cochrane Center
+|-
+| Potential Risks from Advanced Artificial Intelligence || $1,186,000 || Future of Life Institute
+|-
+| Scientific Research || $299,112 || Rescuing Biomedical Research
+|-
+| U.S. Policy || $3,903,000 || Center for Global Development, WaitList Zero, Georgetown University, Waitlist Zero, RAND Corporation, Center for Global Development
 |}
 
 ==References==
