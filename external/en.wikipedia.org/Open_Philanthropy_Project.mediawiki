@@ -30,9 +30,13 @@ The following table lists the current (as of March 2016) focus areas for each br
 
 === Animal welfare ===
 
+Open Phil is focusing on animal welfare.<ref>{{cite web |url=http://www.huffingtonpost.com/jacy-reese/what-the-chan-zuckerberg_b_8704802.html |title=What the Chan Zuckerberg Initiative Could Do for Animals |date=December 3, 2015 |first=Jacy |last=Reese |publisher=''The Huffington Post'' |accessdate=March 20, 2016}}</ref>
+
 === Artificial intelligence ===
 
 === Migration liberalization ===
+
+Open Phil is investigating "labor mobility" or migration liberalization influenced by [[Michael Clemens]] and [[Lant Pritchett]]. This has mainly been because of potential wage increases for migrating workers (particularly low-skilled workers). Open Phil published a shallow overview of the cause in May 2013.<ref name="Openborders.info_March_20_2016c">{{cite web |url=http://openborders.info/blog/overview-of-the-open-philanthropy-projects-work-on-migration-liberalisation/ |title=Overview of the Open Philanthropy Project's work on migration liberalisation |newspaper=Openborders.info |date=March 18, 2015 |first=Sebastian |last=Nickel |accessdate= March 20, 2016}}</ref>
 
 === Criminal justice reform ===
 
