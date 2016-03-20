@@ -14,7 +14,7 @@ As of March 2016, the Open Philanthropy Project is not an independent organizati
 
 The Open Philanthropy Project uses the term "cause" to describe a problem or opportunity that requires expertise in order to make good giving decisions. It uses the term "focus area" for causes with the highest level of priority.<ref name="focus_areas">{{cite web |url=http://www.openphilanthropy.org/focus |title=Focus Areas |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref>
 
-The following table lists the current (as of March 2016) focus areas for each broad category of investigation.<ref name="focus_areas"/><ref name="open_democracy_March_20_2016c">{{cite web |url=https://www.opendemocracy.net/transformation/scott-weathers/can-effective-altruism-change-world-it-already-has |title=Can ‘effective altruism' change the world? It already has. |publisher=openDemocracy |date=29 February, 2016  |author=Scott Weathers |accessdate= March 20, 2016}}</ref>
+The following table lists the current (as of March 2016) focus areas for each broad category of investigation.<ref name="focus_areas"/><ref name="open_democracy_March_20_2016c">{{cite web |url=https://www.opendemocracy.net/transformation/scott-weathers/can-effective-altruism-change-world-it-already-has |title=Can ‘effective altruism' change the world? It already has. |publisher=openDemocracy |date=February 29, 2016  |author=Scott Weathers |accessdate= March 20, 2016}}</ref>
 
 {| class="wikitable"
 ! Category !! Focus areas
@@ -28,11 +28,17 @@ The following table lists the current (as of March 2016) focus areas for each br
 | Global Health & Development || None
 |}
 
+In a blog post in October 2015, Holden Karnofsky described reasons Open Phil isn't currently funding organizations that promote [[effective altruism]].<ref name="Effective-altruism.com_March_20_2016c">{{cite web |url=http://effective-altruism.com/ea/pf/why_the_open_philanthropy_project_isnt_currently/ |title=Why the Open Philanthropy Project isn't currently funding organizations focused on promoting effective altruism |newspaper=Effective Altruism Forum |date=October 28, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref>
+
 === Animal welfare ===
 
-Open Phil is focusing on animal welfare.<ref>{{cite web |url=http://www.huffingtonpost.com/jacy-reese/what-the-chan-zuckerberg_b_8704802.html |title=What the Chan Zuckerberg Initiative Could Do for Animals |date=December 3, 2015 |first=Jacy |last=Reese |publisher=''The Huffington Post'' |accessdate=March 20, 2016}}</ref> In September 2015, Holden Karnofsky announced that the Open Philanthropy Project had hired Lewis Bollard as a program officer to work on animal welfare in industrial agriculture.<ref name="Blog.givewell.org_March_20_2016c">{{cite web |url=http://blog.givewell.org/2015/09/11/incoming-program-officer-lewis-bollard/ |title=Incoming Program Officer: Lewis Bollard |newspaper=Blog.givewell.org |date=September 11, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref><ref name="Animalcharityevaluators.org_March_20_2016c">{{cite web |url=http://www.animalcharityevaluators.org/blog/how-to-conduct-studies-that-will-encourage-more-effective-altruists-to-care-about-animals/ |title=How to Conduct Studies That Will Encourage More Effective Altruists to Care about Animals |newspaper=Animalcharityevaluators.org |date=January 20, 2016 |author= Kieran Greig |accessdate= March 20, 2016}}</ref>
+Open Phil is focusing on animal welfare.<ref>{{cite web |url=http://www.huffingtonpost.com/jacy-reese/what-the-chan-zuckerberg_b_8704802.html |title=What the Chan Zuckerberg Initiative Could Do for Animals |date=December 3, 2015 |first=Jacy |last=Reese |publisher=''The Huffington Post'' |accessdate=March 20, 2016}}</ref> In September 2015, Holden Karnofsky announced that the Open Philanthropy Project had hired Lewis Bollard as a program officer to work on animal welfare in industrial agriculture.<ref name="Blog.givewell.org_March_20_2016c">{{cite web |url=http://blog.givewell.org/2015/09/11/incoming-program-officer-lewis-bollard/ |title=Incoming Program Officer: Lewis Bollard |newspaper=Blog.givewell.org |date=September 11, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref><ref name="Animalcharityevaluators.org_March_20_2016c">{{cite web |url=http://www.animalcharityevaluators.org/blog/how-to-conduct-studies-that-will-encourage-more-effective-altruists-to-care-about-animals/ |title=How to Conduct Studies That Will Encourage More Effective Altruists to Care about Animals |newspaper=Animal Charity Evaluators |date=January 20, 2016 |author= Kieran Greig |accessdate= March 20, 2016}}</ref>
+
+In February 2016, Open Phil announced grants of $1 million each to [[The Humane League]] and [[Mercy for Animals]] and $500,000 to [[The Humane Society of the United States]] for corporate cage-free campaigns.<ref name="open_phil_grants" /> [[Animal Charity Evaluators]] stated that this grant completely or nearly completely filled The Humane League's immediate [[room for more funding]], but that The Humane League could still grow in other areas that are not funded by the grant.<ref name="ace_thl_rfmf">{{cite web |url=https://www.animalcharityevaluators.org/blog/update-on-thls-room-for-funding/ |title=Update on THL's Room for Funding |newspaper=Animal Charity Evaluators |date=March 18, 2016  |author= Allison Smith |accessdate= March 20, 2016}}</ref>
 
 === Artificial intelligence ===
+
+In August 2015, Open Phil contributed $1.2 million to the [[Future of Life Institute]].<ref name="Betaboston.com_March_20_2016c">{{cite web |url=http://www.betaboston.com/news/2015/07/01/boston-group-awards-10m-from-elon-musk-to-jump-start-artificial-intelligence-research/ |title=Boston group awards $6m from Elon Musk to jump-start artificial intelligence research |newspaper=Beta Boston |date=July 1, 2015  |author=Elizabeth Preston |accessdate= March 20, 2016}}</ref><ref name="Bloomberg.com_March_20_2016c">{{cite web |url=http://www.bloomberg.com/news/articles/2015-07-01/musk-backed-group-probes-risks-behind-artificial-intelligence |title=Musk-Backed Group Probes Risks Behind Artificial Intelligence |newspaper=Bloomberg Business |date=July 1, 2015  |author=Jack Clark |accessdate=March 20, 2016}}</ref>
 
 === Migration liberalization ===
 
@@ -41,6 +47,8 @@ Open Phil is investigating "labor mobility" or migration liberalization influenc
 === Criminal justice reform ===
 
 Open Phil is investigating criminal justice reform due to poor conditions in prisons and bipartisan agreement in the US. There are difficulties to this investigation because of lack of [[randomized controlled trials]] of interventions.<ref name="vox_matthews"/>
+
+In June 2016, Holden Karnofsky announced that Open Phil had hired Chloe Cockburn (who was Advocacy and Policy Counsel for [[American Civil Liberties Union]]'s Campaign to End Mass Incarceration) as program officer for criminal justice reform.<ref name="chloe_hiring">{{cite web |url=http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/ |title=Incoming Program Officer for Criminal Justice Reform: Chloe Cockburn |newspaper=GiveWell Blog |date=June 16, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref>
 
 == Evaluation process ==
 
@@ -64,7 +72,7 @@ The first shallow overview appears to have been published in April 2013.<ref>{{c
 
 The Open Philanthropy Project has given grants to a variety of organizations, including the Future of Life Institute for research into potential dangers of artificial intelligence<ref>{{cite web |url=http://fortune.com/2015/07/01/elon-musk-artificial-intelligence/ |title=Why Elon Musk is donating millions to make artificial intelligence safer |first=Jonathan |last=Vanian |date=July 1, 2015 |accessdate=March 19, 2016 |publisher=''Fortune''}}</ref> and the Center for Global Development<ref name="inside_phil_cgd"/>.
 
-The following table lists the grants made by Open Phil as of March 2016, grouped by focus area.<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants |title=Grants Database |publisher=Open Philanthropy Project |accessdate=March 18, 2016}}</ref>
+The following table lists the grants made by Open Phil as of March 2016, grouped by focus area.<ref name="open_phil_grants">{{cite web |url=http://www.openphilanthropy.org/giving/grants |title=Grants Database |publisher=Open Philanthropy Project |accessdate=March 18, 2016}}</ref>
 
 {| class="wikitable"
 ! Focus area !! Amount !! Recipients
