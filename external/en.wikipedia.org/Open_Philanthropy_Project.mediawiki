@@ -6,7 +6,7 @@ The Open Philanthropy Project started out as GiveWell Labs in 2011.<ref>{{cite w
 
 The name was changed to Open Philanthropy Project to separate it from GiveWell and also to avoid exclusive association to GiveWell because it is a collaboration with Good Ventures. However even after this initial brand change, updates to Open Phil were still posted to the GiveWell blog.<ref name="openphil_formerly_gwl" />
 
-In April 2015, Open Phil announced a partnership with Kaitlyn Trigger and [[Mike Krieger]] (co-founder of [[Instagram]]). Trigger and Krieger pledged $750,000 over two years while Open Phil would provide information and include Trigger in team meetings.<ref>{{cite web |url=http://blog.givewell.org/2015/04/23/co-funding-partnership-with-kaitlyn-trigger-and-mike-krieger/ |title=Co-funding Partnership with Kaitlyn Trigger and Mike Krieger |date=April 23, 2015 |accessdate=March 19, 2016 |publisher=GiveWell |first=Holden |last=Karnofsky}}</ref>
+In April 2015, Open Phil announced a partnership with Kaitlyn Trigger and [[Mike Krieger]] (co-founder of [[Instagram]]). Trigger and Krieger pledged $750,000 over two years while Open Phil would provide information and include Trigger in team meetings.<ref>{{cite web |url=http://blog.givewell.org/2015/04/23/co-funding-partnership-with-kaitlyn-trigger-and-mike-krieger/ |title=Co-funding Partnership with Kaitlyn Trigger and Mike Krieger |date=April 23, 2015 |accessdate=March 19, 2016 |publisher=GiveWell |first=Holden |last=Karnofsky}}</ref><ref name="vox_matthews"/>
 
 As of March 2016, the Open Philanthropy Project is not an independent organization i.e. it is still a collaboration between GiveWell and Good Ventures, who share office space and information (to an extent).<ref name="about_page">{{cite web |url=http://www.openphilanthropy.org/about/good-ventures-and-givewell |title=Good Ventures &amp; GiveWell |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref><ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
 
@@ -39,6 +39,8 @@ The following table lists the current (as of March 2016) focus areas for each br
 Open Phil is investigating criminal justice reform due to poor conditions in prisons and bipartisan agreement in the US. There are difficulties to this investigation because of lack of [[randomized controlled trials]] of interventions.<ref name="vox_matthews"/>
 
 == Evaluation process ==
+
+Investigation for the Open Philanthropy Project is considered more difficult than the traditional work done for GiveWell due to the great uncertainty and inherent difficulty of comparing wildly different causes.<ref name="vox_matthews"/>
 
 === Shallow overviews ===
 
@@ -83,6 +85,10 @@ The following table lists the grants made by Open Phil as of March 2016, grouped
 |-
 | U.S. Policy || $3,903,000 || Center for Global Development<ref name="inside_phil_cgd">{{cite web |url=http://www.insidephilanthropy.com/home/2016/3/9/leverage-why-this-silicon-valley-funder-is-doubling-down-on.html |title=Leverage: Why This Silicon Valley Funder Is Doubling Down on a Beltway Think Tank |publisher=Inside Philanthropy |date=March 9, 2016 |accessdate=March 19, 2016}}</ref>, [[Georgetown University]], [[RAND Corporation]], [[WaitList Zero]]
 |}
+
+== Criticisms ==
+
+The Open Philanthropy Project has been criticized on ''The Huffington Post'' by Leah Hunt-Hendrix for not focusing enough on systemic (or root) change and for "perpetuating inequality".<ref>{{cite web |url=http://www.huffingtonpost.com/leah-hunthendrix/so-you-want-to-be-a-radical-philanthropist_b_7181248.html |title=So You Want to Be a "Radical" Philanthropist? |first=Leah |last=Hunt-Hendrix |publisher=Huffington Post |date=May 4, 2015 |accessdate=March 20, 2016}}</ref>
 
 ==References==
 
