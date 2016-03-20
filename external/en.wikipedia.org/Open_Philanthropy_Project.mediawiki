@@ -30,13 +30,13 @@ The following table lists the current (as of March 2016) focus areas for each br
 
 === Animal welfare ===
 
-Open Phil is focusing on animal welfare.<ref>{{cite web |url=http://www.huffingtonpost.com/jacy-reese/what-the-chan-zuckerberg_b_8704802.html |title=What the Chan Zuckerberg Initiative Could Do for Animals |date=December 3, 2015 |first=Jacy |last=Reese |publisher=''The Huffington Post'' |accessdate=March 20, 2016}}</ref>
+Open Phil is focusing on animal welfare.<ref>{{cite web |url=http://www.huffingtonpost.com/jacy-reese/what-the-chan-zuckerberg_b_8704802.html |title=What the Chan Zuckerberg Initiative Could Do for Animals |date=December 3, 2015 |first=Jacy |last=Reese |publisher=''The Huffington Post'' |accessdate=March 20, 2016}}</ref> In September 2015, Holden Karnofsky announced that the Open Philanthropy Project had hired Lewis Bollard as a program officer to work on animal welfare in industrial agriculture.<ref name="Blog.givewell.org_March_20_2016c">{{cite web |url=http://blog.givewell.org/2015/09/11/incoming-program-officer-lewis-bollard/ |title=Incoming Program Officer: Lewis Bollard |newspaper=Blog.givewell.org |date=September 11, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref><ref name="Animalcharityevaluators.org_March_20_2016c">{{cite web |url=http://www.animalcharityevaluators.org/blog/how-to-conduct-studies-that-will-encourage-more-effective-altruists-to-care-about-animals/ |title=How to Conduct Studies That Will Encourage More Effective Altruists to Care about Animals |newspaper=Animalcharityevaluators.org |date=January 20, 2016 |author= Kieran Greig |accessdate= March 20, 2016}}</ref>
 
 === Artificial intelligence ===
 
 === Migration liberalization ===
 
-Open Phil is investigating "labor mobility" or migration liberalization influenced by [[Michael Clemens]] and [[Lant Pritchett]]. This has mainly been because of potential wage increases for migrating workers (particularly low-skilled workers). Open Phil published a shallow overview of the cause in May 2013.<ref name="Openborders.info_March_20_2016c">{{cite web |url=http://openborders.info/blog/overview-of-the-open-philanthropy-projects-work-on-migration-liberalisation/ |title=Overview of the Open Philanthropy Project's work on migration liberalisation |newspaper=Openborders.info |date=March 18, 2015 |first=Sebastian |last=Nickel |accessdate= March 20, 2016}}</ref>
+Open Phil is investigating "labor mobility" or migration liberalization influenced by [[Michael Clemens]] and [[Lant Pritchett]]. This has mainly been because of potential wage increases for migrating workers (particularly low-skilled workers). Open Phil published a shallow overview of the cause in May 2013. By September 2013, labor mobility had become the subject of a "deep investigation".<ref name="Openbordersinfo_March_20_2016c">{{cite web |url=http://openborders.info/blog/overview-of-the-open-philanthropy-projects-work-on-migration-liberalisation/ |title=Overview of the Open Philanthropy Project's work on migration liberalisation |newspaper=Openborders.info |date=March 18, 2015 |first=Sebastian |last=Nickel |accessdate= March 20, 2016}}</ref>
 
 === Criminal justice reform ===
 
@@ -45,6 +45,8 @@ Open Phil is investigating criminal justice reform due to poor conditions in pri
 == Evaluation process ==
 
 Investigation for the Open Philanthropy Project is considered more difficult than the traditional work done for GiveWell due to the great uncertainty and inherent difficulty of comparing wildly different causes.<ref name="vox_matthews"/>
+
+Open Phil also does "giving to learn", i.e. a process of committing to causes to better learn about them.<ref name="Blog.givewell.org_March_20_2016c">{{cite web |url=http://blog.givewell.org/2014/05/14/the-importance-of-committing-to-causes/ |title=The Importance of Committing to Causes |newspaper=Blog.givewell.org |date=May 14, 2014 |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref><ref name="Openbordersinfo_March_20_2016c"/>
 
 === Shallow overviews ===
 
