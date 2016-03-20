@@ -1,8 +1,8 @@
-The '''Open Philanthropy Project''' (often abbreviated as '''Open Phil''' and formerly GiveWell Labs) is a joint project between [[GiveWell]] and [[Good Ventures]] that tries to identify the most effective ways to give money to a wide variety of causes.<ref name="openphil_formerly_gwl">{{cite web |url=http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/ |title=Open Philanthropy Project (formerly GiveWell Labs) |first=Holden |last=Karnofsky |publisher=GiveWell}}</ref> As of March 2016, the organization is still not entirely separate from GiveWell.<ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
+The '''Open Philanthropy Project''' (often abbreviated as '''Open Phil'''<ref name="vox_matthews">{{cite web |url=http://www.vox.com/2015/4/24/8457895/givewell-open-philanthropy-charity |title=You have $8 billion. You want to do as much good as possible. What do you do? |first=Dylan |last=Matthews |date=April 24, 2015 |publisher=Vox |accessdate=March 19, 2016}}</ref> and formerly GiveWell Labs) is a joint project between [[GiveWell]] and [[Good Ventures]] that tries to identify the most effective ways to give money to a wide variety of causes.<ref name="openphil_formerly_gwl">{{cite web |url=http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/ |title=Open Philanthropy Project (formerly GiveWell Labs) |first=Holden |last=Karnofsky |publisher=GiveWell}}</ref> As of March 2016, the organization is still not entirely separate from GiveWell.<ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
 
 == History ==
 
-The Open Philanthropy Project started out as GiveWell Labs in 2013.
+The Open Philanthropy Project started out as GiveWell Labs in 2011.<ref>{{cite web |url=http://blog.givewell.org/2011/09/08/announcing-givewell-labs/ |title=Announcing GiveWell Labs |date=September 8, 2011 |accessdate=March 19, 2016 |publisher=GiveWell}}</ref>
 
 The name was changed to Open Philanthropy Project to separate it from GiveWell and also to avoid exclusive association to GiveWell because it is a collaboration with Good Ventures. However even after this initial brand change, updates to Open Phil were still posted to the GiveWell blog.<ref name="openphil_formerly_gwl" />
 
@@ -28,6 +28,16 @@ The following table lists the current (as of March 2016) focus areas for each br
 | Global Health & Development || None
 |}
 
+=== Animal welfare ===
+
+=== Artificial intelligence ===
+
+=== Migration liberalization ===
+
+=== Criminal justice reform ===
+
+Open Phil is investigating criminal justice reform due to poor conditions in prisons and bipartisan agreement in the US. There are difficulties to this investigation because of lack of [[randomized controlled trials]] of interventions.<ref name="vox_matthews"/>
+
 == Evaluation process ==
 
 === Shallow overviews ===
@@ -41,6 +51,8 @@ Cari Tuna is the organization's president, [[Holden Karnofsky]] is the executive
 The first shallow overview appears to have been published in April 2013.<ref>{{cite web|url=http://www.givewell.org/shallow/migration|title = Seasonal migration within low-income countries|publisher = GiveWell|date = April 2013|accessdate = 2013-09-21}}</ref> but GiveWell appears to have first officially announced shallow overviews in a blog post in May 2013.<ref>{{cite web|url=http://blog.givewell.org/2013/05/30/refining-the-goals-of-givewell-labs/|title = Refining the Goals of GiveWell Labs|date = 2013-05-30|accessdate = 2013-09-21|last = Karnofsky|first = Holden|publisher = GiveWell}}</ref>
 
 == Grants made ==
+
+The Open Philanthropy Project has given grants to a variety of organizations, including the Future of Life Institute for research into potential dangers of artificial intelligence<ref>{{cite web |url=http://fortune.com/2015/07/01/elon-musk-artificial-intelligence/ |title=Why Elon Musk is donating millions to make artificial intelligence safer |first=Jonathan |last=Vanian |date=July 1, 2015 |accessdate=March 19, 2016 |publisher=''Fortune''}}</ref> and the Center for Global Development<ref name="inside_phil_cgd"/>.
 
 The following table lists the grants made by Open Phil as of March 2016, grouped by focus area.<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants |title=Grants Database |publisher=Open Philanthropy Project |accessdate=March 18, 2016}}</ref>
 
@@ -69,7 +81,7 @@ The following table lists the grants made by Open Phil as of March 2016, grouped
 |-
 | Scientific Research || $299,112 || [[Rescuing Biomedical Research]]
 |-
-| U.S. Policy || $3,903,000 || Center for Global Development, [[Georgetown University]], [[RAND Corporation]], [[WaitList Zero]]
+| U.S. Policy || $3,903,000 || Center for Global Development<ref name="inside_phil_cgd">{{cite web |url=http://www.insidephilanthropy.com/home/2016/3/9/leverage-why-this-silicon-valley-funder-is-doubling-down-on.html |title=Leverage: Why This Silicon Valley Funder Is Doubling Down on a Beltway Think Tank |publisher=Inside Philanthropy |date=March 9, 2016 |accessdate=March 19, 2016}}</ref>, [[Georgetown University]], [[RAND Corporation]], [[WaitList Zero]]
 |}
 
 ==References==
