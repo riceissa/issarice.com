@@ -65,11 +65,17 @@ In June 2016, Holden Karnofsky announced that Open Phil had hired Chloe Cockburn
 
 === Land use reform ===
 
+Open Phil published a public report on land use reform in March 2015.<ref name="Openphilanthropy.org_March_21_2016c">{{cite web |url=http://www.openphilanthropy.org/focus/us-policy/land-use-reform |title=Land Use Reform |newspaper=Open Philanthropy Project |accessdate= March 21, 2016}}</ref>
+
 === Macroeconomic policy ===
 
 === Migration liberalization ===
 
 Open Phil is investigating "labor mobility" or migration liberalization influenced by [[Michael Clemens]] and [[Lant Pritchett]]. This has mainly been because of potential wage increases for migrating workers (particularly low-skilled workers). Open Phil published a shallow overview of the cause in May 2013. By September 2013, labor mobility had become the subject of a "deep investigation".<ref name="Openbordersinfo_March_20_2016c">{{cite web |url=http://openborders.info/blog/overview-of-the-open-philanthropy-projects-work-on-migration-liberalisation/ |title=Overview of the Open Philanthropy Project's work on migration liberalisation |newspaper=Open Borders: The Case |date=March 18, 2015 |first=Sebastian |last=Nickel |accessdate= March 20, 2016}}</ref>
+
+In March 2014, Open Phil awarded a grant of $1.2 million to the Center for Global Development. In July 2014, it awarded $1.5 million to the U.S. Association for International Migration and the International Organization for Migration, and $285,000 to ImmigrationWorks.<ref name="Openbordersinfo_March_20_2016c"/>
+
+Sebastian Nickel, writing in March 2015 for the pro-migration liberalization website ''Open Borders: The Case'', evaluated Open Phil's work on migration liberalization favorably.<ref name="Openbordersinfo_March_20_2016c" />
 
 === Artificial intelligence ===
 
