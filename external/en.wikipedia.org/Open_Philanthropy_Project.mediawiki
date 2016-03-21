@@ -12,6 +12,22 @@ In September 2015, Holden Karnofsky announced on the GiveWell blog that it would
 
 As of March 2016, the Open Philanthropy Project is not an independent organization i.e. it is still a collaboration between GiveWell and Good Ventures, who share office space and information (to an extent). However Open Phil is in the process of becoming an independent organization.<ref name="about_page">{{cite web |url=http://www.openphilanthropy.org/about/good-ventures-and-givewell |title=Good Ventures &amp; GiveWell |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref><ref>{{cite web |url=http://blog.givewell.org/2015/12/10/december-2015-open-thread/comment-page-1/#comment-934738 |first=Elie |last=Hassenfeld |title=Comment on December 2015 Open Thread}}</ref>
 
+== Organizational structure ==
+
+Cari Tuna is the organization's president, [[Holden Karnofsky]] is the executive director, and Elie Hassenfeld is the managing director. Open Phil also has several program officers for various focus areas (such as US policy and scientific research), research analysts, and other roles.<ref name="open_phil_team">{{cite web |url=http://www.openphilanthropy.org/about/team |title=Team |accessdate=March 16, 2016 |publisher=Open Philanthropy Project}}</ref>
+
+== Evaluation process ==
+
+Investigation for the Open Philanthropy Project is considered more difficult than the traditional work done for GiveWell due to the great uncertainty and inherent difficulty of comparing wildly different causes.<ref name="vox_matthews"/>
+
+Open Phil divides its work into lower-depth investigations (also called shallow overviews), higher-depth investigations (including focus areas), and cross-cutting projects.<ref name="refining"/>
+
+Open Phil also practices "giving to learn", i.e. a process of committing to causes to better learn about them.<ref name="Blog.givewell.org_March_20_2016c">{{cite web |url=http://blog.givewell.org/2014/05/14/the-importance-of-committing-to-causes/ |title=The Importance of Committing to Causes |newspaper=Blog.givewell.org |date=May 14, 2014 |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref><ref name="Openbordersinfo_March_20_2016c"/><ref name="refining"/>
+
+=== Shallow overviews ===
+
+The Open Philanthropy Project publishes shallow overviews of general causes.<ref name=shallow>{{cite web|url=http://givewell.org/shallow/|title = Shallow investigations of new causes|publisher = GiveWell (as part of the Open Philanthropy Project)|accessdate = 2013-09-21}}</ref> The first shallow overview appears to have been published in April 2013,<ref>{{cite web|url=http://www.givewell.org/shallow/migration|title = Seasonal migration within low-income countries|publisher = GiveWell|date = April 2013|accessdate = 2013-09-21}}</ref> but GiveWell appears to have first officially announced shallow overviews in a blog post in May 2013.<ref name="refining">{{cite web|url=http://blog.givewell.org/2013/05/30/refining-the-goals-of-givewell-labs/|title = Refining the Goals of GiveWell Labs|date = 2013-05-30|accessdate = 2013-09-21|last = Karnofsky|first = Holden|publisher = GiveWell}}</ref> As of September 2013, shallow investigations have been conducted in the areas of [[anthropogenic climate change]], detection of near-Earth [[asteroid]]s, migration (intra-country and international), [[volcano]]es, [[climate engineering|geoengineering]], [[nuclear security]], business environment, infrastructure in [[sub-Saharan Africa]], and the treatment of animals in industrial agriculture.<ref name=shallow/> GiveWell co-executive director [[Holden Karnofsky]] discussed more about the purpose of shallow overviews in a conversation with [[Giving What We Can]] representatives and other [[effective altruism|effective altruists]].<ref>{{cite web|url=http://www.jefftk.com/p/flow-through-effects-conversation|title = Flow Through Effects Conversation|date = 2013-08-31|accessdate = 2013-09-21|last = Kaufman|first = Jeff}}</ref>
+
 == Focus areas ==
 
 The Open Philanthropy Project uses the term "cause" to describe a problem or opportunity that requires expertise in order to make good giving decisions. It uses the term "focus area" for causes with the highest level of priority.<ref name="focus_areas">{{cite web |url=http://www.openphilanthropy.org/focus |title=Focus Areas |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref>
@@ -62,24 +78,6 @@ In August 2015, Open Phil contributed $1.2 million to the [[Future of Life Insti
 === Biosecurity ===
 
 Open Phil published a shallow investigation of biosecurity in January 2014, which covered natural pandemics, bioterrorism, and dual use research.<ref>{{cite web |url=http://www.openphilanthropy.org/research/cause-reports/biosecurity |title=Biosecurity |date=January 2014}}</ref>
-
-== Evaluation process ==
-
-Investigation for the Open Philanthropy Project is considered more difficult than the traditional work done for GiveWell due to the great uncertainty and inherent difficulty of comparing wildly different causes.<ref name="vox_matthews"/>
-
-Open Phil divides its work into lower-depth investigations (also called shallow overviews), higher-depth investigations (including focus areas), and cross-cutting projects.<ref name="refining"/>
-
-Open Phil also does "giving to learn", i.e. a process of committing to causes to better learn about them.<ref name="Blog.givewell.org_March_20_2016c">{{cite web |url=http://blog.givewell.org/2014/05/14/the-importance-of-committing-to-causes/ |title=The Importance of Committing to Causes |newspaper=Blog.givewell.org |date=May 14, 2014 |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref><ref name="Openbordersinfo_March_20_2016c"/><ref name="refining"/>
-
-=== Shallow overviews ===
-
-As part of its work related to the Open Philanthropy Project (formerly GiveWell Labs), GiveWell publishes shallow overviews of general causes.<ref name=shallow>{{cite web|url=http://givewell.org/shallow/|title = Shallow investigations of new causes|publisher = GiveWell (as part of the Open Philanthropy Project)|accessdate = 2013-09-21}}</ref> These are distinct from its charity recommendations and reviews. The first shallow overview appears to have been published in April 2013.<ref>{{cite web|url=http://www.givewell.org/shallow/migration|title = Seasonal migration within low-income countries|publisher = GiveWell|date = April 2013|accessdate = 2013-09-21}}</ref> but GiveWell appears to have first officially announced shallow overviews in a blog post in May 2013.<ref name="refining">{{cite web|url=http://blog.givewell.org/2013/05/30/refining-the-goals-of-givewell-labs/|title = Refining the Goals of GiveWell Labs|date = 2013-05-30|accessdate = 2013-09-21|last = Karnofsky|first = Holden|publisher = GiveWell}}</ref> As of September 2013, shallow investigations have been conducted in the areas of [[anthropogenic climate change]], detection of near-Earth [[asteroid]]s, migration (intra-country and international), [[volcano]]es, [[climate engineering|geoengineering]], [[nuclear security]], business environment, infrastructure in [[sub-Saharan Africa]], and the treatment of animals in industrial agriculture.<ref name=shallow/> GiveWell co-executive director [[Holden Karnofsky]] discussed more about the purpose of shallow overviews in a conversation with [[Giving What We Can]] representatives and other [[effective altruism|effective altruists]].<ref>{{cite web|url=http://www.jefftk.com/p/flow-through-effects-conversation|title = Flow Through Effects Conversation|date = 2013-08-31|accessdate = 2013-09-21|last = Kaufman|first = Jeff}}</ref>
-
-== Organizational structure ==
-
-Cari Tuna is the organization's president, [[Holden Karnofsky]] is the executive director, and Elie Hassenfeld is the managing director. Open Phil also has several program officers for various focus areas (such as US policy and scientific research), research analysts, and other roles.<ref name="open_phil_team">{{cite web |url=http://www.openphilanthropy.org/about/team |title=Team |accessdate=March 16, 2016 |publisher=Open Philanthropy Project}}</ref>
-
-The first shallow overview appears to have been published in April 2013.<ref>{{cite web|url=http://www.givewell.org/shallow/migration|title = Seasonal migration within low-income countries|publisher = GiveWell|date = April 2013|accessdate = 2013-09-21}}</ref> but GiveWell appears to have first officially announced shallow overviews in a blog post in May 2013.<ref name="refining"/>
 
 == Grants made ==
 
