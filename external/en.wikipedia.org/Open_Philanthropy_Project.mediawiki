@@ -2,9 +2,9 @@ The '''Open Philanthropy Project''' (often abbreviated as '''Open Phil'''<ref na
 
 == History ==
 
-The Open Philanthropy Project started out as GiveWell Labs in 2011.<ref>{{cite web |url=http://blog.givewell.org/2011/09/08/announcing-givewell-labs/ |title=Announcing GiveWell Labs |date=September 8, 2011 |accessdate=March 19, 2016 |publisher=GiveWell}}</ref>
+The Open Philanthropy Project started out as GiveWell Labs in 2011 but made little progress until 2013.<ref name="open_phil_progress">{{cite web |url=http://www.openphilanthropy.org/about/progress-to-date |title=Progress to Date |publisher=Open Philanthropy Project |accessdate= March 21, 2016}}</ref><ref>{{cite web |url=http://blog.givewell.org/2011/09/08/announcing-givewell-labs/ |title=Announcing GiveWell Labs |date=September 8, 2011 |accessdate=March 19, 2016 |publisher=GiveWell}}</ref>
 
-The name was changed to Open Philanthropy Project to separate it from GiveWell and also to avoid exclusive association to GiveWell since it is a collaboration with Good Ventures. However even after this initial brand change, updates to Open Phil were still posted to the GiveWell blog.<ref name="openphil_formerly_gwl" />
+The name was changed to Open Philanthropy Project in August 2014<ref name="open_phil_progress"/> to separate it from GiveWell and also to avoid exclusive association to GiveWell since it is a collaboration with Good Ventures. However even after this initial brand change, updates to Open Phil were still posted to the GiveWell blog.<ref name="openphil_formerly_gwl" />
 
 In April 2015, Open Phil announced a partnership with Kaitlyn Trigger and [[Mike Krieger]] (co-founder of [[Instagram]]). Trigger and Krieger pledged $750,000 over two years while Open Phil would provide information and include Trigger in team meetings.<ref>{{cite web |url=http://blog.givewell.org/2015/04/23/co-funding-partnership-with-kaitlyn-trigger-and-mike-krieger/ |title=Co-funding Partnership with Kaitlyn Trigger and Mike Krieger |date=April 23, 2015 |accessdate=March 19, 2016 |publisher=GiveWell |first=Holden |last=Karnofsky}}</ref><ref name="vox_matthews"/>
 
