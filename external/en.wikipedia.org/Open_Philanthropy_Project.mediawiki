@@ -39,6 +39,10 @@ Open Phil is focusing on animal welfare.<ref>{{cite web |url=http://www.huffingt
 
 In February 2016, Open Phil announced grants of $1 million each to [[The Humane League]] and [[Mercy for Animals]] and $500,000 to [[The Humane Society of the United States]] for corporate cage-free campaigns.<ref name="open_phil_grants" /> [[Animal Charity Evaluators]] stated that this grant completely or nearly completely filled The Humane League's immediate [[room for more funding]], but that The Humane League could still grow in other areas that are not funded by the grant.<ref name="ace_thl_rfmf">{{cite web |url=https://www.animalcharityevaluators.org/blog/update-on-thls-room-for-funding/ |title=Update on THL's Room for Funding |newspaper=Animal Charity Evaluators |date=March 18, 2016  |author= Allison Smith |accessdate= March 20, 2016}}</ref>
 
+=== Biosecurity ===
+
+Open Phil published a shallow investigation of biosecurity in January 2014, which covered natural pandemics, bioterrorism, and dual use research.<ref>{{cite web |url=http://www.openphilanthropy.org/research/cause-reports/biosecurity |title=Biosecurity |date=January 2014}}</ref>
+
 === Artificial intelligence ===
 
 In August 2015, Open Phil contributed $1.2 million to the [[Future of Life Institute]].<ref name="Betaboston.com_March_20_2016c">{{cite web |url=http://www.betaboston.com/news/2015/07/01/boston-group-awards-10m-from-elon-musk-to-jump-start-artificial-intelligence-research/ |title=Boston group awards $6m from Elon Musk to jump-start artificial intelligence research |newspaper=Beta Boston |date=July 1, 2015  |author=Elizabeth Preston |accessdate= March 20, 2016}}</ref><ref name="Bloomberg.com_March_20_2016c">{{cite web |url=http://www.bloomberg.com/news/articles/2015-07-01/musk-backed-group-probes-risks-behind-artificial-intelligence |title=Musk-Backed Group Probes Risks Behind Artificial Intelligence |newspaper=Bloomberg Business |date=July 1, 2015  |author=Jack Clark |accessdate=March 20, 2016}}</ref>
