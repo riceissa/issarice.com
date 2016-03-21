@@ -14,18 +14,21 @@ As of March 2016, the Open Philanthropy Project is not an independent organizati
 
 The Open Philanthropy Project uses the term "cause" to describe a problem or opportunity that requires expertise in order to make good giving decisions. It uses the term "focus area" for causes with the highest level of priority.<ref name="focus_areas">{{cite web |url=http://www.openphilanthropy.org/focus |title=Focus Areas |accessdate=March 18, 2016 |publisher=Open Philanthropy Project}}</ref>
 
-The following table lists the current (as of March 2016) focus areas for each broad category of investigation.<ref name="focus_areas"/><ref name="open_democracy_March_20_2016c">{{cite web |url=https://www.opendemocracy.net/transformation/scott-weathers/can-effective-altruism-change-world-it-already-has |title=Can ‘effective altruism' change the world? It already has. |publisher=openDemocracy |date=February 29, 2016  |author=Scott Weathers |accessdate= March 20, 2016}}</ref>
+The following table lists the current (as of March 2016) focus areas for each broad category of investigation.<ref name="open_phil_team"/><ref name="focus_areas"/><ref name="open_democracy_March_20_2016c">{{cite web |url=https://www.opendemocracy.net/transformation/scott-weathers/can-effective-altruism-change-world-it-already-has |title=Can ‘effective altruism' change the world? It already has. |publisher=openDemocracy |date=February 29, 2016  |author=Scott Weathers |accessdate= March 20, 2016}}</ref>
 
 {| class="wikitable"
-! Category !! Focus areas
+! Category !! Focus areas !! Program officers
 |-
 | US Policy || Criminal justice reform, farm animal welfare, macroeconomic stabilization policy, immigration policy, and land use reform
+| Alexander Berger (US policy in general), Chloe Cockburn (criminal justice reform), Lewis Bollard (farm animal welfare)
 |-
 | Global Catastrophic Risks || Biosecurity and potential risks from advanced artificial intelligence
+| Howie Lempel
 |-
 | Scientific Research || None
+| Nick Beckstead
 |-
-| Global Health & Development || None
+| Global Health & Development || None || None
 |}
 
 In a blog post in October 2015, Holden Karnofsky described reasons Open Phil isn't currently funding organizations that promote [[effective altruism]].<ref name="Effective-altruism.com_March_20_2016c">{{cite web |url=http://effective-altruism.com/ea/pf/why_the_open_philanthropy_project_isnt_currently/ |title=Why the Open Philanthropy Project isn't currently funding organizations focused on promoting effective altruism |newspaper=Effective Altruism Forum |date=October 28, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref>
@@ -64,7 +67,7 @@ As part of its work related to the Open Philanthropy Project (formerly GiveWell 
 
 == Organizational structure ==
 
-Cari Tuna is the organization's president, [[Holden Karnofsky]] is the executive director, and Elie Hassenfeld is the managing director. Open Phil also has several program officers for various focus areas (such as US policy and scientific research), research analysts, and other roles.<ref>{{cite web |url=http://www.openphilanthropy.org/about/team |title=Team |accessdate=March 16, 2016 |publisher=Open Philanthropy Project}}</ref>
+Cari Tuna is the organization's president, [[Holden Karnofsky]] is the executive director, and Elie Hassenfeld is the managing director. Open Phil also has several program officers for various focus areas (such as US policy and scientific research), research analysts, and other roles.<ref name="open_phil_team">{{cite web |url=http://www.openphilanthropy.org/about/team |title=Team |accessdate=March 16, 2016 |publisher=Open Philanthropy Project}}</ref>
 
 The first shallow overview appears to have been published in April 2013.<ref>{{cite web|url=http://www.givewell.org/shallow/migration|title = Seasonal migration within low-income countries|publisher = GiveWell|date = April 2013|accessdate = 2013-09-21}}</ref> but GiveWell appears to have first officially announced shallow overviews in a blog post in May 2013.<ref name="refining"/>
 
