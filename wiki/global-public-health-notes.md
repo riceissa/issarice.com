@@ -109,6 +109,28 @@ Also:
     > as broad hostility to ward corporations, discouraged private initiatives
     > professing to benefit the public.
 
+- From "The Great Dispensary in the Sky: Missionary Medicine" by Vaughan:
+
+    > Throughout most of the colonial period and throughout most of Africa,
+    > Christian missions of one sort or another provided vastly more medical
+    > care for African communities than did colonial states. It was not until
+    > the 1930s, and in many places until the 1950s and 1960s, that secular
+    > medicine reached rural communities in any form other than the 'great
+    > campaigns' against epidemic disease which I have described in the last
+    > chapter. It was missionaries who in East and Central African from the
+    > late nineteenth century pioneered the setting up of rural hospitals and
+    > rural clinics, who trained African medical personnel, who introduced
+    > 'western' midwifery and childcare practices, and who dealt with chronic
+    > and endemic disease. [...]
+    >
+    > If it is true that, for most Africans before the Second World War, any
+    > prolonged encounter with biomedicine came in the form of an experience of
+    > mission medicine, it is also true that for church-going Britons of this
+    > period one of the most popular representations of Africa and of Africans
+    > came via the accounts in missionary journals of the woes of the 'sick
+    > continent', and the trials, tribulations, and triumphs of heroic medical
+    > missionaries.
+
 # What does the success of global health tell us about other movements?
 
 Specifically, I'm interested in anti-aging.
