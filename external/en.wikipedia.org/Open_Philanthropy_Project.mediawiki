@@ -61,13 +61,15 @@ In February 2016, Open Phil announced grants of $1 million each to [[The Humane 
 
 Open Phil is investigating criminal justice reform due to poor conditions in prisons and bipartisan agreement in the US. There are difficulties to this investigation because of lack of [[randomized controlled trials]] of interventions.<ref name="vox_matthews"/>
 
-In June 2016, Holden Karnofsky announced that Open Phil had hired Chloe Cockburn (who was Advocacy and Policy Counsel for [[American Civil Liberties Union]]'s Campaign to End Mass Incarceration) as program officer for criminal justice reform.<ref name="chloe_hiring">{{cite web |url=http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/ |title=Incoming Program Officer for Criminal Justice Reform: Chloe Cockburn |newspaper=GiveWell Blog |date=June 16, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref>
+In June 2015, Holden Karnofsky announced that Open Phil had hired Chloe Cockburn (who was Advocacy and Policy Counsel for [[American Civil Liberties Union]]'s Campaign to End Mass Incarceration) as program officer for criminal justice reform.<ref name="chloe_hiring">{{cite web |url=http://blog.givewell.org/2015/06/16/incoming-program-officer-for-criminal-justice-reform-chloe-cockburn/ |title=Incoming Program Officer for Criminal Justice Reform: Chloe Cockburn |newspaper=GiveWell Blog |date=June 16, 2015  |author=Holden Karnofsky |accessdate= March 20, 2016}}</ref>
 
 === Land use reform ===
 
-Open Phil published a public report on land use reform in March 2015.<ref name="Openphilanthropy.org_March_21_2016c">{{cite web |url=http://www.openphilanthropy.org/focus/us-policy/land-use-reform |title=Land Use Reform |newspaper=Open Philanthropy Project |accessdate= March 21, 2016}}</ref>
+Open Phil published a public report on land use reform in March 2015. As of March 2016, there are no full-time staff working in this area. Alexander Berger leads the grantmaking.<ref name="land_Openphilanthropy.org_March_21_2016c">{{cite web |url=http://www.openphilanthropy.org/focus/us-policy/land-use-reform |title=Land Use Reform |newspaper=Open Philanthropy Project |accessdate= March 21, 2016}}</ref>
 
 === Macroeconomic policy ===
+
+In May 2014, Open Phil published a medium-depth report on macroeconomic policy.<ref name="macro_Openphilanthropyorg_March_21_2016c">{{cite web |url=http://www.openphilanthropy.org/research/cause-reports/macroeconomic-policy |title=Macroeconomic Policy |newspaper=Open Philanthropy Project |date=May 2014  |accessdate= March 21, 2016}}</ref> As of March 2016, there are no full-time staff working in this area. Alexander Berger leads the grantmaking.<ref name="macro_main_Openphilanthropyorg_March_21_2016c">{{cite web |url=http://www.openphilanthropy.org/focus/us-policy/macroeconomic-policy |title=Macroeconomic Stabilization Policy |newspaper=Open Philanthropy Project |accessdate= March 21, 2016}}</ref>
 
 === Migration liberalization ===
 
@@ -79,7 +81,7 @@ Sebastian Nickel, writing in March 2015 for the pro-migration liberalization web
 
 === Artificial intelligence ===
 
-In August 2015, Open Phil contributed $1.2 million to the [[Future of Life Institute]].<ref name="Betaboston.com_March_20_2016c">{{cite web |url=http://www.betaboston.com/news/2015/07/01/boston-group-awards-10m-from-elon-musk-to-jump-start-artificial-intelligence-research/ |title=Boston group awards $6m from Elon Musk to jump-start artificial intelligence research |newspaper=Beta Boston |date=July 1, 2015  |author=Elizabeth Preston |accessdate= March 20, 2016}}</ref><ref name="Bloomberg.com_March_20_2016c">{{cite web |url=http://www.bloomberg.com/news/articles/2015-07-01/musk-backed-group-probes-risks-behind-artificial-intelligence |title=Musk-Backed Group Probes Risks Behind Artificial Intelligence |newspaper=Bloomberg Business |date=July 1, 2015  |author=Jack Clark |accessdate=March 20, 2016}}</ref>
+In August 2015, Open Phil contributed $1.2 million to the [[Future of Life Institute]] (FLI) around the same time [[Elon Musk]] announced his grant to FLI. The grant came as many including Musk and [[Stephen Hawking]] publicly expressed the need for [[AI safety]] research.<ref name="Betaboston.com_March_20_2016c">{{cite web |url=http://www.betaboston.com/news/2015/07/01/boston-group-awards-10m-from-elon-musk-to-jump-start-artificial-intelligence-research/ |title=Boston group awards $6m from Elon Musk to jump-start artificial intelligence research |newspaper=Beta Boston |date=July 1, 2015  |author=Elizabeth Preston |accessdate= March 20, 2016}}</ref><ref name="Bloomberg.com_March_20_2016c">{{cite web |url=http://www.bloomberg.com/news/articles/2015-07-01/musk-backed-group-probes-risks-behind-artificial-intelligence |title=Musk-Backed Group Probes Risks Behind Artificial Intelligence |newspaper=Bloomberg Business |date=July 1, 2015  |author=Jack Clark |accessdate=March 20, 2016}}</ref><ref name="fortune_musk"/>
 
 === Biosecurity ===
 
@@ -87,7 +89,7 @@ Open Phil published a shallow investigation of biosecurity in January 2014, whic
 
 == Grants made ==
 
-The Open Philanthropy Project has given grants to a variety of organizations, including the Future of Life Institute for research into potential dangers of artificial intelligence<ref>{{cite web |url=http://fortune.com/2015/07/01/elon-musk-artificial-intelligence/ |title=Why Elon Musk is donating millions to make artificial intelligence safer |first=Jonathan |last=Vanian |date=July 1, 2015 |accessdate=March 19, 2016 |publisher=''Fortune''}}</ref> and the Center for Global Development<ref name="inside_phil_cgd"/>.
+The Open Philanthropy Project has given grants to a variety of organizations, including the Future of Life Institute for research into potential dangers of artificial intelligence<ref name="fortune_musk">{{cite web |url=http://fortune.com/2015/07/01/elon-musk-artificial-intelligence/ |title=Why Elon Musk is donating millions to make artificial intelligence safer |first=Jonathan |last=Vanian |date=July 1, 2015 |accessdate=March 19, 2016 |publisher=''Fortune''}}</ref> and the Center for Global Development<ref name="inside_phil_cgd"/>.
 
 The following table lists the grants made by Open Phil as of March 2016, grouped by focus area.<ref name="open_phil_grants">{{cite web |url=http://www.openphilanthropy.org/giving/grants |title=Grants Database |publisher=Open Philanthropy Project |accessdate=March 18, 2016}}</ref>
 
