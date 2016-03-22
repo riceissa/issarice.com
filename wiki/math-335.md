@@ -50,7 +50,8 @@ From 7th week:
   problems that are merely and divinely *present* because of their
   inherent value, and meant to be solved by "elites"), but rather
   something mass-produced, to be consumed by the "mathematical masses"
-  (who are a minority with respect to the general population, but a majority relative to the mathematical elite), or
+  (i.e. those who are competent enough to do undergraduate math, but who
+  haven't developed a good taste for problems), or
   written due to the practical desire to *evaluate students*. These
   problems are in fact no different from whiteboard interview question
   in programming, which have been criticized well elsewhere[^whiteboard].
