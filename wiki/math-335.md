@@ -92,7 +92,7 @@ From 7th week:
 
     I suppose one part of my complaint is to ask the question, *Isn't it possible to imagine some other life than to be stuck at school doing this?* There is an eerie lack of creativity across most of the students here, where they cannot---or do not allow themselves to?---imagine a life *significantly better than their current life*.
 
-[^highschool]: See for instance [this thread on /r/udub/](https://web.archive.org/web/20160313071712/https://www.reddit.com/r/udub/comments/4a2f1y/end_of_quarter_rant_thread/d0x02m2) for others who agree.
+[^highschool]: See for instance [this thread on /r/udub/](https://www.reddit.com/r/udub/comments/4a2f1y/end_of_quarter_rant_thread/d0x02m2) for others who agree.
 
 [^qs]: For if one feels the need to interrogate me with questions like "What's so bad about it?", "Isn't college the best time of your life?", "Aren't you studying what you've wanted to study?", and so forth, then I *cannot* take the time to answer them. The only correct answer for those capable of understanding---and therefore those who intuitively grasp the suffering at UW---is simply "I understand".
 
