@@ -1,7 +1,7 @@
 ---
 title: Winter 2016 at the University of Washington
 date: 2016-03-21
-tags: uw courses, uw
+tags: uw course review, uw
 ---
 
 # Courses
