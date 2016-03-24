@@ -109,6 +109,36 @@ Also:
     > as broad hostility to ward corporations, discouraged private initiatives
     > professing to benefit the public.
 
+-
+
+    > By the 1830s, recognizably modern forms of fund-raising had begun to
+    > emerge, as institutions actively solicited contributions and bequests
+    > from local and national constituencies and such public figures as the
+    > evangelist Lyman Beecher (1775–1862) toured eastern cities raising funds
+    > for schools and colleges in the newly settled western states.
+    > Increasingly well-informed about current events, Americans were quick to
+    > respond to disasters and liberation movements with generous
+    > “subscriptions.” An 1845 survey of Boston charity gives a good idea of
+    > the range of organizations and causes to which citizens donated money: in
+    > addition to generous support for major institutions such as schools,
+    > colleges, libraries, and hospitals, Bostonians gave money to build
+    > churches and seminaries; to sustain domestic and foreign missionary
+    > societies; to erect public monuments; to relieve the suffering of fire
+    > victims in Mobile, Alabama, in Fall River and Pittsfield, Massachusetts,
+    > and in Hamburg, Germany; for the abolition of slavery; and for the
+    > “diffusing of information among immigrants” (Eliot 1845). 
+
+- On the influence of slavery to other domains (pg 40):
+
+    > The emergence of slavery as the central issue in American politics helped
+    > to nationalize public life, shifting power to national associations,
+    > national political organizations, and publications that commanded
+    > national audiences. This helped other reform issues to command national
+    > attention and to elicit action by the federal government. Among the more
+    > notable of these was the movement for more humane treatment of the
+    > insane, led by New Englander Dorothea Dix (1802–1887; Marshall 1937;
+    > Wilson 1975; Snyder 1975). 
+
 From "The Great Dispensary in the Sky: Missionary Medicine" by Vaughan:
 
 > Throughout most of the colonial period and throughout most of Africa,
