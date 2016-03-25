@@ -26,7 +26,7 @@ THE SOFTWARE.
 body {
     background: #fdf6e3;
     color: #586e75;
-    font-family: "Bitstream Charter", Palatino, Times, serif;
+    font-family: "Bitstream Charter", Palatino, Georgia, Times, serif;
 }
 
 div#content {
