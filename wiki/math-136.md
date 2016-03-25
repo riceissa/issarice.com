@@ -13,7 +13,7 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-tags: spring 2015, uw course
+tags: spring 2015, uw course, math
 #aliases: 
 ---
 
