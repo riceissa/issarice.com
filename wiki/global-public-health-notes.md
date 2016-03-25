@@ -139,6 +139,8 @@ Also:
     > insane, led by New Englander Dorothea Dix (1802–1887; Marshall 1937;
     > Wilson 1975; Snyder 1975). 
 
+    See also [Bill for the Benefit of the Indigent Insane](https://en.wikipedia.org/wiki/Bill_for_the_Benefit_of_the_Indigent_Insane).
+
 From "The Great Dispensary in the Sky: Missionary Medicine" by Vaughan:
 
 > Throughout most of the colonial period and throughout most of Africa,
