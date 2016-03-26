@@ -330,3 +330,12 @@ $ cat /proc/sys/vm/swappiness
 ```
 
 See also [here](http://unix.stackexchange.com/a/2664) for how to change it permanently by editing `/etc/sysctl.conf` to include the line `vm.swappiness=10`.
+
+# Check font aliases
+
+```bash
+$ fc-match "Charter"
+DejaVuSans.ttf: "DejaVu Sans" "Book"
+$ fc-match "Arial"
+Arial.ttf: "Arial" "Normal"
+```
