@@ -5,18 +5,19 @@ CSS = $(OUTDIR)/_css/solarized_light.css
 CSSDIR = _site/_css
 
 # Make only regular pages
-pages: $(HTML_PAGES) $(CSS) $(CSSDIR)
+pages: $(HTML_PAGES) $(CSS) $(CSSDIR) cpimages
 
-# Make the full site, including pages, images, static content, tags
-# pages, feeds, and sitemap
-fullsite:
-	python3 ./generator/generator.py --commit_ps
+cpimages:
+	cp images/* $(OUTDIR)
 
 $(CSSDIR):
 	mkdir -p $(CSSDIR)
 
-_site/%: wiki/%.md
-	python3 ./generator/generator.py --commit_ps --file "$<"
+$(OUTDIR):
+	mkdir -p $(OUTDIR)
+
+_site/%: wiki/%.md templates/default.html5 | $(OUTDIR)
+	pandoc -f markdown -t html5 --smart --toc --toc-depth=4 --mathjax --base-header-level=2 --template=templates/default.html5 --filter generator/url_filter.py -o "$@" "$<"
 
 $(OUTDIR)/_css/solarized_light.css: css/solarized_light.css | $(CSSDIR)
 	cp "$<" "$@"
