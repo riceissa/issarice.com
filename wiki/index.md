@@ -25,8 +25,7 @@ some pages that may be of interest:
 - [Resources for the University of Washington]() might be a good
   place to look for those who attend or want to attend the University of
   Washington.
-- I am very slowly trying to catalog broad areas of the [effective
-  altruism]() movement on [Effective altruism links]().
+- I am very slowly trying to catalog broad areas of the [effective altruism]() movement on [Effective altruism links]().
 - [Notes on computing](_tags/computing) (Linux, programming, etc.)
 - [Notes on math](_tags/math)
 - [Quora](): a mirror of [my Quora answers]()
