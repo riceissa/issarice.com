@@ -24,9 +24,9 @@ THE SOFTWARE.
 
 */
 body {
-    background: #fdf6e3;
+    background-color: #fdf6e3;
     color: #586e75;
-    font-family: "Bitstream Charter", Palatino, Georgia, Times, serif;
+    font-family: Charter, "Bitstream Charter", Palatino, Georgia, serif;
 }
 
 div#content {
@@ -38,7 +38,7 @@ div#content {
     word-wrap: break-word;
 }
 
-div#navigation {
+nav#site_navigation {
     font-family: Lato, Helvetica, sans-serif;
     font-size: 80%;
     /* See http://stackoverflow.com/a/324553 ; this ensures that the
@@ -77,24 +77,22 @@ pre code {
 }
 
 table {
+    border-bottom: 2px solid #586e75;
     border-collapse: collapse;
-    border-color: #93a1a1;
-    border-width: 1px;
-    width: 100%;
+    border-top: 2px solid #586e75;
+    margin: 0px auto; /* center table */
 }
 
 table th {
-    border-color: #93a1a1;
-    border-style: solid;
-    border-width: 1px;
-    padding: 3px;
+    border-bottom: 1px solid #586e75;
+    font-weight: normal;
+    padding: 0px 10px;
+    vertical-align: top;
 }
 
 table td {
-    border-color: #93a1a1;
-    border-style: solid;
-    border-width: 1px;
-    padding: 3px;
+    padding: 0px 10px;
+    vertical-align: top;
 }
 
 /*
