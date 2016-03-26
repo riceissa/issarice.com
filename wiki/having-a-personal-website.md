@@ -89,12 +89,14 @@ The periods are helpful because they catch both the hyphenated links (explicit) 
 In terms of topics, it seems that the following are good to have: a short biography, links to one's work, and contact information.
 Indeed, a CV could take care of all three in a sense.
 
-    But what about as a more "functional" site?
-    Here are some ideas that I've thought of an have implemented to some degree on this site:
+    But what about a more "functional" and engaging site?
+    Here are some ideas that I've thought of and have implemented to some degree on this site:
 
     Search
     :   I've outsourced this to Google since I prefer a static site and cannot implement a better search mechanism on my own anyway.
     By using a plain HTML form, I avoid unnecessary Javascript, which means even people using test-only browsers like ELinks can search directly on this site.
+
+        One trick to making this work is to have a proper sitemap so that search engines can index the whole site.
 
     Feed
     :   For a site that hopes to continue updating itself over the course of months or years, it seems important to have a standard way to tell people of new content.
@@ -102,7 +104,7 @@ Indeed, a CV could take care of all three in a sense.
     I have also considered that, since this site is already version-controlled through git, that I could simply generate a feed through git; in fact, [GitHub already does this](https://github.com/riceissa/issarice.com/commits/master.atom) (although it is somewhat uninformative since it only includes the commit messages).
     However, it is unclear to me how many people would actually care about the feed; it's not as if they are very useful on a static site like mine anyway.
     On a blog that puts out full posts it is more important to have a feed, but a static site like mine adds content slowly across many pages.
-    I *could* treat the site like a software project---and to some extent I already do this---with separate "versions" for each page; then I can call the state of a page a "new version" once it crosses some threshold.
+    I *could* treat the site like a software project---and to some extent I already do this---with separate "versions" for each page; then I can call the state of a page a "new major version" once it crosses some threshold.
 
     List of pages
     :   This comes in two forms: for machines, there is a [sitemap.xml](sitemap.xml) that records all the pages on this site.
@@ -116,7 +118,7 @@ Indeed, a CV could take care of all three in a sense.
     I currently use an HTML redirection, which has the advantage of working even on a local machine (for the moment, this is mostly useful for myself when I use the local version as my personal wiki, since the public version on [issarice.com](http://issarice.com) becomes out-of-date over the course of one month---the usual time interval with which I deploy this site).
     I do think server-level redirection is more elegant, however, since the user need not see the redirection page.
     In addition, with server-level redirection even a HEAD request will be able to determine the new location (whereas with HTML redirection a user obtains a 200 response).
-    Perhaps having both is the answer (so it works locally and is elegant once deployed)?
+    Ideally I would have both so redirection works locally and is elegant once deployed, but I haven't gotten around to this.
 
     Tag/category organization
     :   I have a [tags page](_tags/index), as well as pages for individual tags, on this site.
@@ -139,8 +141,12 @@ Indeed, a CV could take care of all three in a sense.
 
     A single layer of processing
     :   There are static sites that use two layers of processing e.g. writing an m4 file that contains a "body" portion that is written in markdown.
-    This seems unnecessarily complicated and reasoning about two layers of character escapes is painful.
+    This seems unnecessarily complicated and reasoning about two layers of character escapes is painful.[^layers]
 
     Templating
     :   Manually writing and looking at HTML is painful, so write in markdown and use templating to convert to HTML.
     When using templates, having metadata in a YAML header is useful.
+
+[^layers]: This is the case with many things, such as two layers of escaped backslashes when matching a single literal backslash using a regular expression in Python (i.e. the regular expression is `"\\\\"` because Python sees this as `\\` and to match a literal backslash one must escape it---but thankfully Python has raw strings so `r"\\"` also works).
+Or consider the case of two nested tmux sessions, where one session is running locally, from which one uses ssh to connect to a remote machine and attaches to a remote tmux session.
+If the prefix keys are identical in both sessions, say, `C`-`b`, then one must type *four* instances of `C`-`b` to send a literal `C`-`b` to the remote shell: two to send a literal `C`-`b` to the *local* tmux session, which turns into a prefix on the *remote* session, then two more to make *that* literal.
