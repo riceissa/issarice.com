@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+$for(author-meta)$
+  <meta name="author" content="$author-meta$">
+$endfor$
+$if(date-meta)$
+  <meta name="dcterms.date" content="$date-meta$">
+$endif$
+$if(keywords)$
+  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
+$endif$
+  <meta property="og:site_name" content="Issa Rice" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="http://issarice.com/bird300.jpg" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="300" />
+  <meta property="og:image:height" content="300" />
+  <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <style type="text/css">code{white-space: pre;}</style>
+$if(quotes)$
+  <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
+$endif$
+$if(highlighting-css)$
+  <style type="text/css">
+$highlighting-css$
+  </style>
+$endif$
+  <style type="text/css">
+    body{background-color:#fdf6e3;color:#586e75;font-family:Charter,"Bitstream Charter",Palatino,Georgia,serif}div#content{line-height:1.4;margin:auto;max-width:35em;text-align:left;width:93%;word-wrap:break-word}nav#site_navigation{font-family:Lato,Helvetica,sans-serif;font-size:80%;overflow:hidden}h1,h2,h3,h4,h5,h6{font-family:Lato,Helvetica,sans-serif}h2{border-bottom:1px solid #93a1a1}a{text-decoration:none}a:link{color:#268bd2}a:visited{color:#2aa198}a:hover,a:active{text-decoration:underline}blockquote{border-left:4px solid #93a1a1;color:#657b83;margin:0;padding:0 0 0 16px}code{background-color:#eee8d5;padding-left:4px;padding-right:4px}pre code{display:block;line-height:1.2em;max-height:30em;overflow:auto;padding:10px}table{border-bottom:2px solid #586e75;border-collapse:collapse;border-top:2px solid #586e75;margin:0 auto}table th{border-bottom:1px solid #586e75;font-weight:normal;padding:0 10px;vertical-align:top}table td{padding:0 10px;vertical-align:top}.sourceCode span.kw{color:#859900}.sourceCode span.dt{color:#b58900}.sourceCode span.dv{color:#2aa198}.sourceCode span.bn{color:#2aa198}.sourceCode span.fl{color:#2aa198}.sourceCode span.ch{color:#859900}.sourceCode span.st{color:#2aa198}.sourceCode span.co{color:#93a1a1;font-style:italic}.sourceCode span.ot{color:#cb4b16}.sourceCode span.al{color:#dc322f}.sourceCode span.fu{color:#268bd2}.sourceCode span.er{color:#dc322f;font-weight:bold}.sourceCode span.wa{color:#cb4b16;font-weight:italic}.sourceCode span.cn{color:#b58900}.sourceCode span.sc{color:#b58900}.sourceCode span.im{color:#cb4b16}.sourceCode span.cf{color:#859900}.sourceCode span.op{color:#859900}.sourceCode span.bu{color:#268bd2}.sourceCode span.re{color:#b58900}
+  </style>
+$if(math)$
+  $math$
+$endif$
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+$for(header-includes)$
+  $header-includes$
+$endfor$
+  <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-54798318-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</head>
+<body>
+<nav id="site_navigation">
+  <!--
+    See
+      http://stackoverflow.com/questions/37103/css-make-divs-align-horizontally
+    for how the div elements are managed.
+  -->
+  <div style="float:left;">
+    <a href="./index">Home</a>
+    | <a href="./about">About</a>
+    | <a href="./feed">Feed</a>
+    | <a href="./commenting-on-this-site">Comment</a>
+    | View <a href="https://github.com/riceissa/issarice.com">website source</a>
+  </div>
+  <div style="float:right;">
+    <!--
+      See
+        - http://stackoverflow.com/a/13379065/3422337
+        - http://kaspars.net/blog/wordpress/how-to-add-google-site-search
+        - http://www.vanderbilt.edu/searchsupport/code-samples.php
+    -->
+    <form name="google-search" action="http://google.com/search" method="get">
+      <fieldset style="border:0;">
+        <input type="hidden" name="sitesearch" value="http://issarice.com" />
+        <input name="q" type="text" />
+        <input type="submit" name="btnG" value="Search site" />
+      </fieldset>
+    </form>
+  </div>
+</nav>
+<div id="content">
+$if(title)$
+<header>
+<h1 class="title">$title$</h1>
+$if(subtitle)$
+<h1 class="subtitle">$subtitle$</h1>
+$endif$
+$if(date)$
+<p><em class="date">Last substantive revision: $date$</em></p>
+$endif$
+$if(belief)$
+<p><em><a href="./belief">Belief</a>: $belief$</em></p>
+$endif$
+</header>
+$endif$
+$if(toc)$
+<nav id="$idprefix$TOC">
+$toc$
+</nav>
+$endif$
+$body$
+<hr />
+<p><a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="./cc_public_domain.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is in the <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>.</p>
+</div>
+</body>
+</html>
