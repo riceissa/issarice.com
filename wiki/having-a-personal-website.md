@@ -17,8 +17,6 @@ tags: content creation
 This page describes my thoughts on having a personal website.
 Having a personal website is part of [maintaining one's online presence](http://info.cognitomentoring.org/wiki/Maintaining_your_online_presence).
 
-
-
 # Advantages
 
 - Having a single place to store all of one's writings, social media profiles, etc., seems like a good idea
