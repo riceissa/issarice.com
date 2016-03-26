@@ -4,7 +4,6 @@ description: A collection of explanations for the material implication
 author: Issa Rice
 description: none
 comments: "yes"
-math: "yes"
 license: ccby
 tags: math, logic
 language: English
