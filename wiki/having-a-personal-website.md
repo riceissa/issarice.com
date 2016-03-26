@@ -61,6 +61,8 @@ Having, say, one website about cooking (written by various people) and a separat
 
     Ceteris paribus, the second organization is preferable because people are more likely to be interested in a topic than a person (?).
 
+    On the other hand there may be some individuals with such compelling personality and such high aesthetic discernment that reading what they write is more important than reading what other people write in the same topic (or rather, such an individual can act as an intellectual guide for showing one what is important).
+
 # Compromise?
 
 One thing to note is that, even given the disadvantages of having one's own website, one can still have a website but primarily post in places other than one's own website, for instance in Facebook groups or on topic-specific websites.
@@ -68,7 +70,7 @@ For instance, I post all of my research relevant to [cause prioritization]() on 
 
 In addition, there is often information that cannot fit in other places.
 For instance, where does one put information about the account names one uses on various sites, or one's contact information?
-Or if one wanted to write monthly updates on the progress one makes on various projects, like [gwern](FIXME) and [Vipul Naik](FIXME).
+Or if one wanted to write monthly updates on the progress one makes on various projects, like [gwern](http://www.gwern.net/Changelog) and [Vipul Naik](http://vipulnaik.com/blog/tag/month-in-review/).
 
 
 # Notes on having mine
