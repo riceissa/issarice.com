@@ -18,7 +18,7 @@ It's easy to just install `haskell-platform`, but this introduces an older versi
 The following is the minimal way to get things installed.
 
 There might be some unexpected problems when executing the commands below.
-On Linx Mint, I couldn't install `cabal-install-1.22.9.0` because `bootstrap.sh` complained about not having `transformers` version 0.4 (the Linux Mint repositories have 0.3).
+On Linux Mint, I couldn't install `cabal-install-1.22.9.0` because `bootstrap.sh` complained about not having `transformers` version 0.4 (the Linux Mint repositories have 0.3).
 However, installing from the older `cabal-install-1.22.4.0` seems to work.
 (This is intended as an example of a problem one might run into, and not as an exhaustive list of issues.)
 
