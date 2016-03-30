@@ -339,3 +339,24 @@ DejaVuSans.ttf: "DejaVu Sans" "Book"
 $ fc-match "Arial"
 Arial.ttf: "Arial" "Normal"
 ```
+
+# Audio glitches/stuttering/repeating
+
+Upgrading on Ubuntu/Linux Mint caused odd audio glitches while playing music.
+As is often the case, the Arch Wiki was most helpful.
+Open `/etc/pulse/default.pa` and add the following line at the end:
+
+```
+load-module module-udev-detect tsched=0
+```
+
+The following *might* work:
+
+```bash
+$ pulseaudio -k
+$ pulseaudio --start
+```
+
+On my machine, Pulseaudio failed to restart after being killed, but rebooting fixed the problem.
+
+[Source](https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Glitches.2C_skips_or_crackling).
