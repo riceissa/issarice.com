@@ -38,9 +38,11 @@ Here is a list of all of them.
 - [Honors 100]()
 - [Honors 394]()
 - [MATH 134]()
+- [MATH 135]()
 - [MATH 136]()
 - [MATH 334]()
 - [MATH 335]()
+- [MATH 336]()
 - [PHYS 121]()
 
 # Quarterly/yearly reviews
