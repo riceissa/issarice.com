@@ -367,3 +367,5 @@ options snd-hda-intel vid=8086 pid=8ca0 snoop=0
 
 to `/etc/modprobe.d/sound.conf` (as in the Arch Wiki, which was originally empty), but that didn't seem to fix it.
 Seeing [this thread](http://ubuntuforums.org/showthread.php?t=2230750), I have now placed the same line in `/etc/modprobe.d/alsa-base.conf` (which was not empty).
+
+Note though that while the stuttering was so annoying as to make the computer unusable (since I like listening to music while I work), the occasional popping is much less annoying, and I can probably live with it for now.
