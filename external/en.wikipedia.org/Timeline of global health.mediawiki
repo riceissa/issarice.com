@@ -47,11 +47,13 @@ This page is a '''timeline of global health''', including major conferences, int
 |-
 | 1943 || Organization || [[United Nations Relief and Rehabilitation Administration]] founded for relief of victims of war.<ref>{{cite web |url = http://www.ibiblio.org/pha/policy/1943/431109a.html |title = Agreement for United Nations Relief and Rehabilitation Administration |publisher=Ibiblio.org}}</ref> || ||
 |-
-| 1946 || Organization || [[UNICEF]] founded || ||
+| 1945 || Organization || The [[World Bank Group]] formed.<ref name=ghh/> || ||
 |-
-| 1946 || Organization || [[Centers for Disease Control and Prevention]] is founded.<ref name=ghh/> || Malaria (initially) || United States (Atlanta, Georgia)
+| 1946 || Organization || [[UNICEF]] founded.<ref name=ghh/> || ||
 |-
-| 1948 || Organization || [[World Health Organization]] established || ||
+| 1946 || Organization || [[Centers for Disease Control and Prevention]] is founded initially as the Communicable Diseases Center.<ref name=ghh/> || Malaria (initially) || United States (Atlanta, Georgia)
+|-
+| 1948 || Organization || [[World Health Organization]] established.<ref name=ghh/> || ||
 |-
 | 1950 || || Mass tuberculosis immunization under way with [[BCG vaccine]]<ref name="who_60th">{{cite web |url=http://www.who.int/features/history/WHO_60th_anniversary_chronology.pdf |title=WHO in 60 years: a chronology of public health milestones |publisher=World Health Organization |accessdate=April 2, 2016}}</ref> || Tuberculosis ||
 |-
@@ -61,25 +63,33 @@ This page is a '''timeline of global health''', including major conferences, int
 |-
 | 1955 || Program launch || Malaria Eradication Programme launched by WHO.<ref name="who_60th"/> || Malaria
 |-
+| 1955 || || First inactivated polio vaccine announced by [[Jonah Salk]].<ref name=ghh/> || Polio ||
+|-
 | 1958 || Program launch || Smallpox eradication program launched by [[World Health Assembly]].<ref name="who_60th"/> || Smallpox
+|-
+| 1961 || Organization || [[United States Agency for International Development]] forms.<ref name=ghh/> || || United States
 |-
 | 1963 || || Oral polio vaccine licensed.<ref name="who_60th"/> || Polio
 |-
 | 1965 || Organization || [[International Agency for Research on Cancer]] established || [[Cancer]] ||
 |-
-| 1971 || Organization || [[Doctors Without Borders]] founded || ||
+| 1971 || Organization || [[Doctors Without Borders]] founded.<ref name=ghh/> || ||
 |-
 | 1974 || Program launch || Onchocerciasis Control Programme launched by WHO and others.<ref name="who_60th"/> || [[Onchocerciasis]]
 |-
 | 1976 || Discovery || [[Ebola]] virus first identified.<ref name="who_60th"/> || Ebola || [[Democratic Republic of the Congo]]
 |-
-| 1977 || Publication || [[WHO Model List of Essential Medicines]] first published || ||
+| 1977 || Publication || [[WHO Model List of Essential Medicines]] first published.<ref name=ghh/> || ||
 |-
-| 1978 || Publication || [[Alma Ata Declaration]]<ref>{{cite report|title=Primary Health Care: Report of the International Conference on Primary Health Care|location=Geneva|publisher=World Health Organization|year=1978|url=http://www.unicef.org/about/history/files/Alma_Ata_conference_1978_report.pdf}}</ref> || || [[Kazakhstan]]
+| 1978 || Publication || [[Alma Ata Declaration]] established.<ref>{{cite report|title=Primary Health Care: Report of the International Conference on Primary Health Care|location=Geneva|publisher=World Health Organization|year=1978|url=http://www.unicef.org/about/history/files/Alma_Ata_conference_1978_report.pdf}}</ref> The Declaration promoted health as a human right.<ref name=ghh/> || || [[Kazakhstan]]
+|-
+| 1979 || || Eradication of [[smallpox]] (last naturally occurring case recorded).<ref name=ghh/> || Smallpox ||
 |-
 | 1986 || Program launch || [[Global Programme on AIDS]] launched by WHO.<ref name="who_60th"/> || HIV/AIDS
 |-
 | 1988 || Program launch || Global Polio Eradication Initiative established by WHO and others.<ref name="who_60th"/> || Polio
+|-
+| 1990 || || [[Global Burden of Disease Study]] commissioned by the [[World Bank]].<ref name=ghh/> || ||
 |-
 | 1993 || Publication || [[Disease Control Priorities Project|Disease Control Priorities]] first edition (DCP1) published<ref>{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref> || ||
 |-
@@ -88,8 +98,6 @@ This page is a '''timeline of global health''', including major conferences, int
 | 1995 || Program launch || [[DOTS (Directly Observed Treatment, Short-Course)]] strategy for tuberculosis launched.<ref name=who_60th/> || Tuberculosis ||
 |-
 | 1996 || Organization || [[Joint United Nations Programme on HIV/AIDS]] established.<ref name=who_60th/> || HIV/AIDS ||
-|-
-| 1997 || || Eradication of [[smallpox]] (last naturally occurring case recorded) || Smallpox ||
 |-
 | 2000 || Program launch || [[Stop TB Partnership]] launched.<ref name="who_60th" /> || Tuberculosis ||
 |-
@@ -107,26 +115,25 @@ This page is a '''timeline of global health''', including major conferences, int
 | title = Transforming our world: the 2030 Agenda for Sustainable Development .:. Sustainable Development Knowledge Platform
 | website = sustainabledevelopment.un.org
 | access-date = 2016-02-26
-}}</ref>  However, progress has been uneven and some of the MDGs were not fully realized including maternal, newborn and child health and reproductive health.<ref name=":0" /> Building on the MDGs, a new Sustainable Development Agenda with 17 [[Sustainable Development Goals]] (SDGs) has been established for the years 2016-2030.<ref name=":0" />  The first goal being an ambitious and historic pledge to end poverty.<ref name=":1">{{Cite web
-| url = http://www.undp.org/content/undp/en/home/sdgoverview/
-| title = Sustainable Development Goals
-| website = UNDP
-| access-date = 2016-02-26
-}}</ref> || ||
+}}</ref>  However, progress has been uneven and some of the MDGs were not fully realized including maternal, newborn and child health and reproductive health.<ref name=":0" /> || ||
+|-
+| 2000 || Program launch || [[GAVI Alliance]] forms to promote the use of vaccines.<ref name=ghh/> || ||
 |-
 | 2001 || Program launch || [[Measles Initiative]] launched.<ref name="who_60th" /> || Measles ||
 |-
-| 2002 || Organization || [[The Global Fund to Fight AIDS, Tuberculosis and Malaria]] founded || HIV/AIDS, Tuberculosis, Malaria ||
+| 2002 || Organization || [[The Global Fund to Fight AIDS, Tuberculosis and Malaria]] founded.<ref name=ghh/> || HIV/AIDS, Tuberculosis, Malaria ||
 |-
 | 2002 || Program launch || First [[World report on violence and health]] launched.<ref name="who_60th" /> || ||
 |-
-| 2003 || Program launch || [[3 by 5 Initiative]] launched.<ref name="who_60th" /> || ||
+| 2003 || Program launch || [[3 by 5 Initiative]] launched.<ref name="who_60th" /> || HIV/AIDS ||
 |-
-| 2003 || || [[WHO Framework Convention on Tobacco Control]] adopted. || ||
+| 2003 || || [[WHO Framework Convention on Tobacco Control]] adopted.<ref name=ghh/> || ||
 |-
 | 2003 || Crisis || [[Severe acute respiratory syndrome]] outbreak<ref name="who_60th" /> || SARS || China (but spread to multiple countries)
 |-
 | 2003 || Program launch || [[Commission on Intellectual Property Rights, Innovation and Public Health]] created.<ref name="who_60th" /> || ||
+|-
+| 2003 || Program launch || [[President's Emergency Plan for AIDS Relief]] launched.<ref name=ghh/> || HIV/AIDS || United States (targeting Africa)
 |-
 | 2004 || || [[Global Strategy on Diet, Physical Activity and Health]] adopted.<ref name="who_60th" /> || ||
 |-
@@ -143,6 +150,13 @@ This page is a '''timeline of global health''', including major conferences, int
 | 2011 || Organization || [[Open Philanthropy Project]] begins as GiveWell Labs || ||
 |-
 | 2013 || Crisis || [[West African Ebola virus epidemic]] || Ebola ||
+|-
+| 2015 || || Building on the MDGs, a new Sustainable Development Agenda with 17 [[Sustainable Development Goals]] (SDGs) has been established for the years 2016-2030.<ref name=":0" />  The first goal being an ambitious and historic pledge to end poverty.<ref name=":1">{{Cite web
+| url = http://www.undp.org/content/undp/en/home/sdgoverview/
+| title = Sustainable Development Goals
+| website = UNDP
+| access-date = 2016-02-26
+}}</ref> 
 |-
 | 2015 || Publication || ''Transforming our world: the 2030 Agenda for Sustainable Development'' adopted by the 193 countries of the UN General Assembly. On 25 September 2015, the 193 countries of the UN General Assembly adopted the 2030 Development Agenda titled ''Transforming our world: the 2030 Agenda for Sustainable Development''.<ref name=":1" /> || ||
 |-
