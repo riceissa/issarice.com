@@ -1,6 +1,7 @@
 ---
 title: MATH 336
 date: 2016-04-13
+math: yes
 ...
 
 This is my course review page for MATH 336, the third (and final)
@@ -40,3 +41,9 @@ decade.
 
 As with the previous quarter, I'll be taking notes as I go along instead
 of writing a review at the end.
+
+- The second problem set contained the problem of proving that the
+  sequence of complex binomial coefficients $\left(\binom\alpha
+  n\right)_{n=0}^\infty$ is bounded if and only if $\mathop{\mathrm{Re}}
+  \alpha \geq -1$.  I thought this was one of the more interesting
+  problems encountered this year.
