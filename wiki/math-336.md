@@ -32,7 +32,7 @@ On the third week of class, Morrow revealed that Lars Ahlfors's *Complex
 Analysis* is "the best book" on complex analysis ever written, and that
 a lot of the proofs he presents in class (which differ from the ones in
 Gamelin) will be from Ahlfors's text. I find it slightly odd that Morrow
-would even use Gamelin if Ahlfors really superior, but I suppose he
+would even use Gamelin if Ahlfors really is superior, but I suppose he
 knows what he's doing since he's been teaching this sequence for over a
 decade.
 
