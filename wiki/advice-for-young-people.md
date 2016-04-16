@@ -922,6 +922,9 @@ Also think about how to get what you want in creative ways; in particular, watch
     > right. Solving the problem effectively is an attack on the moral
     > people.
 
+- "[Reinventing Explanation](http://michaelnielsen.org/reinventing_explanation/index.html)" by Michael Nielsen.
+Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking_ui.html)".
+
 [^offset]: I like this quote from the comment:
 
     > Cash transfers significantly relieve poverty of humans who are
