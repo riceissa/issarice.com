@@ -1,0 +1,44 @@
+This is a timeline of deworming, and specifically [[mass deworming]].
+
+refs:
+
+<ref name="curezone">{{cite web |url=http://www.curezone.org/forums/am.asp?i=1565604 |title=History of Deworming Humans |accessdate=April 16, 2016}}</ref>
+
+<ref name="sandbach">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1081781/pdf/medhist00110-0029.pdf |title=The History of Schistosomiasis Research and Policy for Its Control |accessdate=April 16, 2016 |date=July 1976 |last=Sandbach |first=F. R.}}</ref>
+
+<ref name="bundy">{{cite web |url=http://www.londonntd.org/sites/www.londonntd.org/files/content/Worms,%20Wisdom%20and%20Wealth.pdf |title=Worms, wisdom, and wealth: why deworming can make economic sense |accessdate=April 16, 2016 |date=2013 |authors=Donald A.P. Bundy, Judd L. Walson, and Kristie L. Watkins}}</ref>
+
+also:
+
+https://en.wikipedia.org/wiki/Mass_deworming
+
+https://en.wikipedia.org/wiki/Helminthiasis
+
+https://en.wikipedia.org/wiki/Soil-transmitted_helminthiasis
+
+https://en.wikipedia.org/wiki/Schistosomiasis
+
+==Big picture==
+
+{| class="sortable wikitable"
+! Time period !! Key developments
+|-
+| fill me in
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Event type !! Event !! Disease name !! Geographic location
+|-
+| fill me in
+|}
+
+==See also==
+
+*[[Timeline of global health]]
+
+==References==
+
+{{reflist|30em}}
+
