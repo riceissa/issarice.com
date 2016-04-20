@@ -4,19 +4,7 @@ refs:
 
 <ref name="curezone">{{cite web |url=http://www.curezone.org/forums/am.asp?i=1565604 |title=History of Deworming Humans |accessdate=April 16, 2016}}</ref>
 
-<ref name="sandbach">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1081781/pdf/medhist00110-0029.pdf |title=The History of Schistosomiasis Research and Policy for Its Control |accessdate=April 16, 2016 |date=July 1976 |last=Sandbach |first=F. R.}}</ref>
-
 <ref name="bundy">{{cite web |url=http://www.londonntd.org/sites/www.londonntd.org/files/content/Worms,%20Wisdom%20and%20Wealth.pdf |title=Worms, wisdom, and wealth: why deworming can make economic sense |accessdate=April 16, 2016 |date=2013 |authors=Donald A.P. Bundy, Judd L. Walson, and Kristie L. Watkins}}</ref>
-
-also:
-
-https://en.wikipedia.org/wiki/Mass_deworming
-
-https://en.wikipedia.org/wiki/Helminthiasis
-
-https://en.wikipedia.org/wiki/Soil-transmitted_helminthiasis
-
-https://en.wikipedia.org/wiki/Schistosomiasis
 
 ==Big picture==
 
@@ -43,30 +31,38 @@ More specifically:
 {| class="sortable wikitable"
 ! Year !! Event type !! Event !! Disease name !! Geographic location
 |-
-| 16th century BC || || Schistosome parasites thought to first evolve in the [[Great Lakes of East Africa]] around this period.<ref name=sandbach/>
+| 16th century BC || || Schistosome parasites thought to first evolve in the [[Great Lakes of East Africa]] around this period.<ref name="sandbach">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1081781/pdf/medhist00110-0029.pdf |title=The History of Schistosomiasis Research and Policy for Its Control |accessdate=April 16, 2016 |date=July 1976 |last=Sandbach |first=F. R.}}</ref> || Schistosomiasis || Africa
 |-
-| 1799–1801 || || [[Napoleon]]'s solidiers almost certainly suffer from [[haematuria]] caused by [[schistosomiasis]] infection.<ref name=sandbach/>
+| 1799–1801 || || [[Napoleon]]'s solidiers almost certainly suffer from [[haematuria]] caused by [[schistosomiasis]] infection.<ref name=sandbach/> || Schistosomiasis ||
 |-
-| 1882 || || First mention of schistosomiasis in ''[[The Lancet]]''.<ref name=sandbach/>
+| 1851 || || [[Theodor Bilharz]] discovers the parasite responsible for schistosomiasis.<ref name=sandbach/> || Schistosomiasis ||
 |-
-| 1883 || || Interest in schistosomiasis heightens in England (and Europe more generally) due to more frequent encounter with the disease following [[History of Egypt under the British|English occupation of Egypt]].<ref name=sandbach/>
+| 1882 || || First mention of schistosomiasis in ''[[The Lancet]]''.<ref name=sandbach/> || Schistosomiasis ||
 |-
-| 1893–1918 || || Four commissions designed to understand schistosomiasis are sent to North Africa.<ref name=sandbach/>
+| 1883 || || Interest in schistosomiasis heightens in England (and Europe more generally) due to more frequent encounter with the disease following [[History of Egypt under the British|English occupation of Egypt]].<ref name=sandbach/> || Schistosomiasis || England, Egypt
 |-
-| 1938 || || Schistosomiasis Commission proposed by [[Hilmy Bey]]; the League of Nations Health Committee suggests more research on the disease, but nothing is done due to the imminence of [[World War II]] (among other reasons).<ref name=sandbach/>
+| 1893–1918 || || Four commissions designed to understand schistosomiasis are sent to North Africa.<ref name=sandbach/> || Schistosomiasis || Africa
 |-
-| 1939–1945 || || [[Allies of World War II|Allied]] soldiers affected by schistosomiasis in China, the Phillipines, and the Pacific Islands. This brings the disease to international attention.<ref name=sandbach/>
+| 1915 || || [[Robert Thomson Leiper]] works out the life-cycle of schistosomiasis.<ref name=sandbach/> || Schistosomiasis ||
 |-
-| 1942 || || Schistosomiasis control program begins in Venezuela.<ref name=sandbach/>
+| 1938 || || Schistosomiasis Commission proposed by [[Hilmy Bey]]; the League of Nations Health Committee suggests more research on the disease, but nothing is done due to the imminence of [[World War II]] (among other reasons).<ref name=sandbach/> || Schistosomiasis ||
 |-
-| 1947 || || First assessment of the distribution of schistosomiasis in the world by Norman Stoll.<ref name=sandbach/>
+| 1939–1945 || || [[Allies of World War II|Allied]] soldiers affected by schistosomiasis in China, the Philippines, and the Pacific Islands. This brings the disease to international attention.<ref name=sandbach/> || Schistosomiasis ||
 |-
-| 1948 || || The first [[World Health Assembly]] decides to establish an "Expert Committee" to deal with schistosomiasis.<ref name=sandbach/>
+| 1942 || || Schistosomiasis control program begins in Venezuela.<ref name=sandbach/> || Schistosomiasis || Venezuela
+|-
+| 1947 || || First assessment of the distribution of schistosomiasis in the world by Norman Stoll.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1948 || || The first [[World Health Assembly]] decides to establish an "Expert Committee" to deal with schistosomiasis.<ref name=sandbach/> || Schistosomiasis ||
 |}
 
 ==See also==
 
 *[[Timeline of global health]]
+*[[List of diseases eliminated from the United States]]
+*[[Helminthiasis]]
+*[[Soil-transmitted helminthiasis]]
+*[[Schistosomiasis]]
 
 ==References==
 
