@@ -36,6 +36,8 @@ More specifically:
 
 "It is now generally agreed that there has been a rapid increase in the world prevalence of the disease, especially since the Second World War, and it has increased in many areas despite the implementation of costly control programmes."<ref name=sandbach/>{{rp|262}}
 
+"During the ensuing post-World War period the World Health Organization has been the principal body concerned with the international support of research and control programmes" of schistosomiasis.{{rp|266}}
+
 ==Full timeline==
 
 {| class="sortable wikitable"
@@ -44,6 +46,22 @@ More specifically:
 | 16th century BC || || Schistosome parasites thought to first evolve in the [[Great Lakes of East Africa]] around this period.<ref name=sandbach/>
 |-
 | 1799–1801 || || [[Napoleon]]'s solidiers almost certainly suffer from [[haematuria]] caused by [[schistosomiasis]] infection.<ref name=sandbach/>
+|-
+| 1882 || || First mention of schistosomiasis in ''[[The Lancet]]''.<ref name=sandbach/>
+|-
+| 1883 || || Interest in schistosomiasis heightens in England (and Europe more generally) due to more frequent encounter with the disease following [[History of Egypt under the British|English occupation of Egypt]].<ref name=sandbach/>
+|-
+| 1893–1918 || || Four commissions designed to understand schistosomiasis are sent to North Africa.<ref name=sandbach/>
+|-
+| 1938 || || Schistosomiasis Commission proposed by [[Hilmy Bey]]; the League of Nations Health Committee suggests more research on the disease, but nothing is done due to the imminence of [[World War II]] (among other reasons).<ref name=sandbach/>
+|-
+| 1939–1945 || || [[Allies of World War II|Allied]] soldiers affected by schistosomiasis in China, the Phillipines, and the Pacific Islands. This brings the disease to international attention.<ref name=sandbach/>
+|-
+| 1942 || || Schistosomiasis control program begins in Venezuela.<ref name=sandbach/>
+|-
+| 1947 || || First assessment of the distribution of schistosomiasis in the world by Norman Stoll.<ref name=sandbach/>
+|-
+| 1948 || || The first [[World Health Assembly]] decides to establish an "Expert Committee" to deal with schistosomiasis.<ref name=sandbach/>
 |}
 
 ==See also==
