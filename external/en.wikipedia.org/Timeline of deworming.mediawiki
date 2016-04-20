@@ -26,12 +26,24 @@ https://en.wikipedia.org/wiki/Schistosomiasis
 | fill me in
 |}
 
+'''Notes to include in the big picture''' (once I have a better understanding of the outline of the history):
+
+General trend to keep in mind:
+
+"The historical change in the prevalence of schistosomiasis has altered dramatically in more recent times with the rapid development of large-scale irrigation projects.  These projects have not only allowed a greater range of permanent habitats for the snail intermediate host, but have also caused more people to come in contact with infected water, either through greater population concentration or through greater access to water.  In addition, migration of people from infected to uninfected areas has accentuated the increase in schistosomiasis."<ref name=sandbach/>{{rp|262}}
+
+More specifically:
+
+"It is now generally agreed that there has been a rapid increase in the world prevalence of the disease, especially since the Second World War, and it has increased in many areas despite the implementation of costly control programmes."<ref name=sandbach/>{{rp|262}}
+
 ==Full timeline==
 
 {| class="sortable wikitable"
 ! Year !! Event type !! Event !! Disease name !! Geographic location
 |-
-| fill me in
+| 16th century BC || || Schistosome parasites thought to first evolve in the [[Great Lakes of East Africa]] around this period.<ref name=sandbach/>
+|-
+| 1799–1801 || || [[Napoleon]]'s solidiers almost certainly suffer from [[haematuria]] caused by [[schistosomiasis]] infection.<ref name=sandbach/>
 |}
 
 ==See also==
