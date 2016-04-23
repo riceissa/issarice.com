@@ -764,6 +764,8 @@ can learn a lot about the most exciting things that are happening.
     - [David Roodman](http://davidroodman.com/)
     - [The Last Psychiatrist](http://thelastpsychiatrist.com/)
     - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
+    - Tokieda Tadashi
+    - Laurens Gunnarsen
     - Some more people mentioned by Alex K. Chen:
 
         > People whose opinions I very highly respect: danah boyd,
