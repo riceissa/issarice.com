@@ -1,0 +1,34 @@
+This is a timeline of [[Charity evaluator|charity evaluation]].
+
+==Timeline==
+
+{| class="sortable wikitable"
+! Year !! Event Type !! Event !! Geographic location
+|-
+| 1992 || || CharityWatch is founded as [[American Institute of Philanthropy]].
+|-
+| 1994 || || [[GuideStar]] launches.
+|-
+| 2001 || || [[BBB Wise Giving Alliance]] adopts its current name.<ref>{{cite web |url=http://www.usatoday.com/story/money/personalfinance/2012/12/27/better-business-bureau-charity-ratings-donations/1636957/ |title=BBB's charity ratings, seal of approval under fire |first=Jayne |last=O'Donnell |date=December 27, 2012 |accessdate=April 25, 2016}}</ref>
+|-
+| 2001 || || [[Charity Navigator]] launches.
+|-
+| 2002 || || [[New Philanthropy Capital]] launches. || United Kingdom (London)
+|-
+| 2005 || || [[Intelligent Giving]] launches. (Note: 2005 is the earliest mention of the organization; the founding date is unclear.)
+|-
+| 2006 || || [[Nonprofit Marketplace Initiative]] launches.
+|-
+| 2008 || || [[Philanthropedia]], a division of GuideStar, launches.
+|-
+| 2010 || || [[Jumo]] launches.
+|}
+
+==See also==
+
+*[[Effective altruism]]
+
+==References==
+
+{{reflist|30em}}
+
