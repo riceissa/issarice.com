@@ -1,0 +1,57 @@
+This is a timeline of [[mental health]].
+
+refs:
+
+
+
+==Big picture==
+
+{| class="sortable wikitable"
+! Time period !! Key developments
+|-
+| Before 3rd century BC || Multiple ancient civilizations believe mental illness is caused by supernatural forces.<ref name=student_pulse/>
+|-
+| 400 BC - || [[Humorism]] is believed through the middle ages.
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Event type !! Event !! Disease name !! Geographic location
+|-
+| 6500 BC || || First evidence of [[trepanning]] (a surgical intervention in which a hole is drilled or scraped into the human skull to treat health problems) from the [[Neolithic era]].<ref name="student_pulse">{{cite web |url=http://www.studentpulse.com/articles/283/the-history-of-mental-illness-from-skull-drills-to-happy-pills |title=The History of Mental Illness: From Skull Drills to Happy Pills |first=Allison M. |last=Foerschner |publisher=Student Pulse}}</ref>
+|-
+| 460 BC || || Possibly first mention of the [[wandering womb]] in the teachings of [[Hippocrates]]. The wandering womb is the belief that a displaced uterus was the cause of many medical pathologies in women, including [[hysteria]] or [[conversion disorder]].<ref name="student_pulse"/> (Note: 460 BC is around when Hippocrates is born, not when wandering womb first appears.)
+|-
+| 400 BC || || [[Humorism]] is developed by physicians and philosophers including [[Hippocrates]].<ref name="student_pulse"/>
+|-
+| 792 || || The first [[mental hospital]] is established in [[Baghdad]].<ref name=student_pulse/> || || Iraq
+|-
+| 1406 || || Valencia mental hospital in Spain is thought to be the first [[asylum]] in the world.<ref name=student_pulse/> || || Spain
+|-
+| 1784 || || The [[Narrenturm (hospital)|Narrenturm]] is built. || || Austria (in Vienna)
+|-
+| 1962 || || ''[[One Flew Over the Cuckoo's Nest (novel)|One Flew Over the Cuckoo's Nest]]'', a novel set in a [[psychiatric hospital]], is published.<ref name="pbs_timeline">{{cite web |url=http://www.pbs.org/wgbh/amex/nash/timeline/ |title=Timeline: Treatments for Mental Illness |publisher=PBS |accessdate=April 23, 2016}}</ref> || || United States
+|-
+| 1973 || || The [[Rosenhan experiment]] takes place. || || United States
+|-
+| 1978 || || [[Basaglia Law]] is passed, which gradually replaces psychiatric hospitals with a whole range of community-based services and precipitates [[psychiatric reform in Italy]]. || || Italy
+|-
+| 1979 || || [[National Alliance on Mental Illness]], an advocacy group for [[mental disorders]], is founded.<ref name=pbs_timeline/> || || United States
+|-
+| 1981 || || The [[Brain & Behavior Research Foundation]] is founded as the American Schizophrenia Foundation (which then becomes the National Alliance for Research on Schizophrenia and Depression in 1985 before finally becoming the Brain & Behavior Research Foundation in 2011). || || United States
+|}
+
+==See also==
+
+*[[History of psychiatric institutions]]
+*[[History of mental disorders]]
+*[[Deinstitutionalisation]]
+*[[Timeline of global health]]
+*[[Timeline of cholera]]
+*[[Timeline of deworming]]
+
+==References==
+
+{{reflist|30em}}
+
