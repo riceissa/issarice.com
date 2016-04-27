@@ -2,32 +2,42 @@ This is a timeline of nonprofit evaluation, in particular [[Charity evaluator|ch
 
 ==Timeline==
 
+TODO (remove when done): evaluation type should be one or more of: "nonprofits evaluating and measuring themselves", "foundations measuring nonprofit grantees", "public watchdogs evaluating nonprofits and producing public reports" (these descriptions can be shortened), "consulting groups that help nonprofits evaluate themselves", "" (the empty string, where inapplicable)
+
 {| class="sortable wikitable"
-! Year !! Event Type !! Event !! Geographic location
+! Year !! Evaluation type !! Event Type !! Event !! Geographic location
 |-
-| 1941 || || [[Form 990]] is first used. Form 990 is sometimes [[Form 990#Use by charity evaluation organizations|used by charity evaluation organizations]]. || United States
+| 1941 || || || [[Form 990]] is first used.<ref name="eotopicg02">{{cite web |url=https://www.irs.gov/pub/irs-tege/eotopicg02.pdf |title=G. Form 990 |accessdate=January 29, 2016 |date=2002 |authors=Cheryl Chasin, Debra Kawecki and David Jones |publisher=Internal Revenue Service |archiveurl=https://web.archive.org/web/20150702072044/http://www.irs.gov/pub/irs-tege/eotopicg02.pdf |archivedate=July 2, 2015}}</ref> Form 990 is an [[IRS tax forms|Internal Revenue Service form]] that provides the public with financial information about a nonprofit organization and is sometimes [[Form 990#Use by charity evaluation organizations|used by charity evaluation organizations]]. || United States
 |-
-| 1988 || || ''[[The Chronicle of Philanthropy]]'' is founded.
+| 1956 || || || [[Foundation Center]] is founded. Among other activities, the Foundation Center provides databases with detailed information about nonprofits.<ref>{{cite web |url=http://foundationcenter.org/about/ |accessdate=April 27, 2016 |publisher=Foundation Center |title=About Foundation Center}}</ref> || United States
 |-
-| 1992 || || CharityWatch is founded as [[American Institute of Philanthropy]].
+| 1988 || || || ''[[The Chronicle of Philanthropy]]'' is founded.
 |-
-| 1994 || || [[GuideStar]] launches.
+| 1992 || [[Charity watchdog]] || || CharityWatch is founded as [[American Institute of Philanthropy]].
 |-
-| 2001 || || [[BBB Wise Giving Alliance]] adopts its current name.<ref>{{cite web |url=http://www.usatoday.com/story/money/personalfinance/2012/12/27/better-business-bureau-charity-ratings-donations/1636957/ |title=BBB's charity ratings, seal of approval under fire |first=Jayne |last=O'Donnell |date=December 27, 2012 |accessdate=April 25, 2016}}</ref>
+| 1994 || Charity watchdog || || [[GuideStar]] launches.
 |-
-| 2001 || || [[Charity Navigator]] launches.
+| 2000 || Consulting || || FSG is founded as Foundation Strategy Group by Michael Porter with Mark Kramer. FSG provides consulting to nonprofits to increase impact, and has introduced concepts such as [[catalytic philanthropy]].<ref>{{cite web |url=http://www.fsg.org/our-story |title=Our Story |accessdate=April 27, 2016 |publisher=FSG}}</ref> FSG has also published documents such as ''Breakthroughs in Shared Measurement and Social Impact'', which explores how to evaluate outcomes in organizations.<ref>{{cite web |url=http://foundationcenter.org/getstarted/topical/eval.html |title=Evaluation for Nonprofit Organizations |accessdate=April 27, 2016 |publisher=Foundation Center}}</ref> || United States (Boston)
 |-
-| 2002 || || [[New Philanthropy Capital]] launches. || United Kingdom (London)
+| 2000 || Charity watchdog || || [[Ministry Watch]], an [[evangelicalism|evangelical]] [[Christian]] organization that reviews Protestant ministries for financial accountability and transparency, is founded.
 |-
-| 2005 || || [[Intelligent Giving]] launches. (Note: 2005 is the earliest mention of the organization; the founding date is unclear.)
+| 2001 || Charity watchdog || || [[BBB Wise Giving Alliance]] adopts its current name.<ref>{{cite web |url=http://www.usatoday.com/story/money/personalfinance/2012/12/27/better-business-bureau-charity-ratings-donations/1636957/ |title=BBB's charity ratings, seal of approval under fire |first=Jayne |last=O'Donnell |date=December 27, 2012 |accessdate=April 25, 2016}}</ref>
 |-
-| 2006 || || [[Nonprofit Marketplace Initiative]] launches.
+| 2001 || Charity watchdog || || [[Charity Navigator]] launches.
 |-
-| 2007 || || [[GiveWell]] launches.
+| 2002 || || || [[New Philanthropy Capital]] launches. || United Kingdom (London)
 |-
-| 2008 || || [[Philanthropedia]], a division of GuideStar, launches.
+| 2005 || Charity watchdog || || [[Intelligent Giving]] launches. Intelligent Giving was a charity evaluator advising donors on how to make the most satisfactory use of their money. It employed a casual, witty style on their website.<ref name=Spectator>{{cite web | url=http://archive.spectator.co.uk/article/16th-february-2008/44/how-to-give | title = How to Give| publisher= The Spectator | accessdate=24 July 2014}}</ref> (Note: 2005 is the earliest mention of the organization; the founding date is unclear.)
 |-
-| 2010 || || [[Jumo]] launches.
+| 2006 || || || [[Nonprofit Marketplace Initiative]] launches.
+|-
+| 2007 || Charity watchdog || || [[GreatNonprofits]] is founded. GreatNonprofits provides reviews and ratings of US nonprofit organizations.<ref>{{cite web |url=http://www.about.greatnonprofits.org/ |title=The Story of GreatNonprofits |publisher=GreatNonprofits |accessdate=April 27, 2016}}</ref>
+|-
+| 2007 || Charity watchdog || || [[GiveWell]] launches.
+|-
+| 2008 || || || [[Philanthropedia]], a division of GuideStar, launches.
+|-
+| 2010 || || || [[Jumo]] launches.
 |}
 
 ==See also==
