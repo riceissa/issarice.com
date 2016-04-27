@@ -1,9 +1,13 @@
-This is a timeline of [[Charity evaluator|charity evaluation]].
+This is a timeline of nonprofit evaluation, in particular [[Charity evaluator|charity evaluation]].
 
 ==Timeline==
 
 {| class="sortable wikitable"
 ! Year !! Event Type !! Event !! Geographic location
+|-
+| 1941 || || [[Form 990]] is first used. Form 990 is sometimes [[Form 990#Use by charity evaluation organizations|used by charity evaluation organizations]]. || United States
+|-
+| 1988 || || ''[[The Chronicle of Philanthropy]]'' is founded.
 |-
 | 1992 || || CharityWatch is founded as [[American Institute of Philanthropy]].
 |-
@@ -18,6 +22,8 @@ This is a timeline of [[Charity evaluator|charity evaluation]].
 | 2005 || || [[Intelligent Giving]] launches. (Note: 2005 is the earliest mention of the organization; the founding date is unclear.)
 |-
 | 2006 || || [[Nonprofit Marketplace Initiative]] launches.
+|-
+| 2007 || || [[GiveWell]] launches.
 |-
 | 2008 || || [[Philanthropedia]], a division of GuideStar, launches.
 |-
