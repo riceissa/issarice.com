@@ -1,6 +1,6 @@
 ---
 title: Friendship
-...
+---
 
 [Montaigne](http://www.gutenberg.org/files/3600/3600.txt) (square brackets in translation, not me):
 
