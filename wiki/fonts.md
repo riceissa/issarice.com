@@ -1,6 +1,6 @@
 ---
 title: Fonts
-...
+---
 
 This page lists some fonts I like.
 
