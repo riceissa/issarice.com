@@ -68,13 +68,13 @@ year.)
 
 Most of 6th grade was spent alone. I didn't really talk to anyone, nor
 did I make friends. I was invited to one birthday party, but I suspect
-this was simply a gesture (though I did attend). This wasn't really
+this was simply a gesture (though I did attend)[^friend]. This wasn't really
 worse than what I was going through in US public elementary school
 though (I also had basically no friends there—none that I would hang out
-with out of school, anyway). Toward the end of the year, we read [Kenji
-Miyazawa](!w)'s "[やまなし](!wja)", which changed things around: the
+with out of school, anyway[^birthday]). Toward the end of the year, we read [Kenji
+Miyazawa](!w)'s "Yamanashi" ("[やまなし](!wja)"), which changed things around: the
 class got into a huge discussion about the true nature of the mysterious
-"クラムボン" (kuramubon) that is mentioned in the story. Myself and
+kuramubon (クラムボン) that is mentioned in the story. Myself and
 another boy became the most vocal supporters for one of the positions,
 and this almost "tribal" affiliation developed into friendship (that is
 still maintained somewhat today). After that, I began talking to more
@@ -130,3 +130,7 @@ more thoughts:
 - especially in high school, it become very obvious that a lot of the
   kids were just attending the school to socialize+have something they
   could write on in their college apps.
+
+[^friend]: Strangely enough, this person ended up being one of my closest friends at the Japanese school.
+
+[^birthday]: I was *also* invited to just one birthday party there!
