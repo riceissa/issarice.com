@@ -24,10 +24,3 @@ $(OUTDIR)/_css/solarized_light.css: css/solarized_light.css | $(CSSDIR)
 
 clean:
 	rm -rf _site
-
-# These are things that aren't implemented yet, and I'm not sure I would implement them
-#tags:
-#	# some specialized script here that just generates tags
-
-#feeds:
-#	# feed generation scripts
