@@ -64,7 +64,6 @@ $endfor$
   <div style="float:left;">
     <a href="./index">Home</a>
     | <a href="./about">About</a>
-    | <a href="./feed">Feed</a>
     | <a href="./commenting-on-this-site">Comment</a>
     | View <a href="https://github.com/riceissa/issarice.com">website source</a>
   </div>
