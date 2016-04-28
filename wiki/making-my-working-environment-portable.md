@@ -1,6 +1,6 @@
 ---
 title: Making my working environment portable
-...
+---
 
 Just some notes for now.
 
