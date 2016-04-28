@@ -99,6 +99,7 @@ $endif$
 </header>
 $endif$
 $if(toc)$
+<h2>Contents</h2>
 <nav id="$idprefix$TOC">
 $toc$
 </nav>
