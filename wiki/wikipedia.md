@@ -23,6 +23,10 @@ See [my English-language contributions](https://en.wikipedia.org/wiki/Special:Co
 
 I've been a reader of Wikipedia for a long time, but only recently started contributing (around January 2015, but not very consistently).
 
+Starting in late 2015 I've been doing more work on Wikipedia.
+See [Vipul Naik's page on sponsored editing](http://vipulnaik.com/sponsored-wikipedia-editing/) for more information.
+Also relevant is my current [bounty list](https://raw.githubusercontent.com/vipulnaik/working-drafts/master/issa-list.mediawiki).
+
 # Contributions
 
 Here I list my main contributions.

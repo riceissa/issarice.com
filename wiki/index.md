@@ -18,6 +18,7 @@ some pages that may be of interest:
 - [About me](about) (contains a short self-introduction)
 - [Contact information and account names I use on various websites](contact)
 - [About this site](about-this-site)
+- Most recently, I've been doing a lot of [Wikipedia](wikipedia) editing.
 - I maintain the [Cause Prioritization Wiki](http://causeprioritization.org) (external site).
 - [Content creation]() documents my ongoing research on the
   organization and dissemination of knowledge, how to effectively
