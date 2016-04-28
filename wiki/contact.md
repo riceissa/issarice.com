@@ -78,7 +78,6 @@ For now, I'm just testing out Pinboard; I'm not sure yet for how long I'll conti
 [lp]: https://www.linkedin.com/in/issarice
 [okcp]: http://www.okcupid.com/profile/riceissa
 [tp]: https://twitter.com/riceissa
-[self-description]: about-me#self-introduction
 
 # Rationality/Effective Altruism community
 

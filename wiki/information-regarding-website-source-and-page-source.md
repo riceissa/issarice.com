@@ -5,6 +5,8 @@ tags: site-info
 license: CC0
 ---
 
+*Note: this page is out of date; I will update it when I get a chance.*
+
 I like to be transparent about what I do, so I publish all the source
 files used to compile this site. The source code repository on GitHub
 can be seen by clicking on "[website source]" on any page.  In addition,

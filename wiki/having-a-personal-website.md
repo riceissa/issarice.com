@@ -121,9 +121,9 @@ Indeed, a CV could take care of all three in a sense.
     Ideally I would have both so redirection works locally and is elegant once deployed, but I haven't gotten around to this.
 
     Tag/category organization
-    :   I have a [tags page](_tags/index), as well as pages for individual tags, on this site.
+    :   I used to have a tags page, as well as pages for individual tags, on this site.
     It works reasonably well for organizing all the content here, although I don't get the sense that it's being used.
-    Or to put it another way: since I have to manually tag pages, it isn't clear to me that I'm doing less work by tagging than by creating special "root pages" for certain topics like [computing](_tags/computing) and [math](_tags/math) and [content creation](_tags/content-creation).^[This question also surfaces in redirection: is it better to specify redirection in the pages' metadata (as on this site currently) or have separate pages that contain redirection (as on gitit or MediaWiki)?]
+    Or to put it another way: since I have to manually tag pages, it isn't clear to me that I'm doing less work by tagging than by creating special "root pages" for certain topics like computing and math and content creation.^[This question also surfaces in redirection: is it better to specify redirection in the pages' metadata (as on this site currently) or have separate pages that contain redirection (as on gitit or MediaWiki)?]
     With the latter, I would have more freedom to organize the structure of the "root page" and add summaries or order by importance (though I can already change the ordering using tags if I implement an `importance:` metadata tag in the YAML header---but this is more work).
 
         Another phrasing: the question is whether organization should be internal or external to content pages.

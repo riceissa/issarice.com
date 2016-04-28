@@ -10,24 +10,19 @@ aliases: front page, main
 ---
 
 This is the website of myself, Issa Rice.  This site stores basic information
-about myself, but it is also a personal wiki or [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts (in some sense,
+about me, but it is also a personal wiki or [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts (in some sense,
 anything that doesn't belong elsewhere ends up on here, and as a result
-some of the content on here can be admittedly low-quality).  Below are
+some of the content on here can be admittedly of low-quality).  Below are
 some pages that may be of interest:
 
-- [About me]() (contains a short self-introduction); [contact information and account names I use on various websites](contact)
-- [About this site](./about-the-site)
+- [About me](about) (contains a short self-introduction)
+- [Contact information and account names I use on various websites](contact)
+- [About this site](about-this-site)
 - I maintain the [Cause Prioritization Wiki](http://causeprioritization.org) (external site).
 - [Content creation]() documents my ongoing research on the
   organization and dissemination of knowledge, how to effectively
   publish content online, and how much one can impact the world by
   publishing such content.
-- [Resources for the University of Washington]() might be a good
-  place to look for those who attend or want to attend the University of
-  Washington.
+- My pages related to the [University of Washington](university-of-washington).
 - I am very slowly trying to catalog broad areas of the [effective altruism]() movement on [Effective altruism links]().
-- [Notes on computing](_tags/computing) (Linux, programming, etc.)
-- [Notes on math](_tags/math)
 - [Quora](): a mirror of [my Quora answers]()
-- One can also view a list of [all tags used on this site](_tags/index)
-  and a list of [all pages on this site](_all), though note that these are bit cumbersome to navigate.

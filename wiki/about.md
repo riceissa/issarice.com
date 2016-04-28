@@ -14,7 +14,7 @@ license: CC-BY
 tags: site-info, personal
 ---
 
-*Note that I have two About pages. This page is about myself (Issa Rice); for information about this website, see [About the site](). See also [Colophon]().*
+*Note that I have two About pages. This page is about myself (Issa Rice); for information about this website, see [About this site](). See also [Colophon]().*
 
 # Self-introduction
 

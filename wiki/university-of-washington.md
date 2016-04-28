@@ -16,7 +16,6 @@ tags: uw
 
 I began attending the University of Washington (UW) starting in autumn 2014; I plan to graduate sometime in 2017.
 I am majoring in computer science.
-For all pages on UW, see [the tags page on UW](_tags/university-of-washington).
 
 # Course reviews
 

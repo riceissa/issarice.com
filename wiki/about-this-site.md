@@ -1,5 +1,5 @@
 ---
-title: About the site
+title: About this site
 description: site info, tools used to build the site
 tags: site-info, general
 creation_date: 2014-09-14
@@ -8,7 +8,7 @@ license: CC0
 aliases: about-this-site, site
 ---
 
-*This page is about this site; for information about myself, see [About me]().*
+*This page is about this site; for information about myself, see [About]().*
 
 # Philosophy
 

@@ -110,7 +110,7 @@ also because Disqus isn't as widely-used as Facebook).
 It's probably worth thinking about why we have comments in the first
 place.  Comments are useful chiefly because they are a means to provide
 feedback for the author.  But this can be done via email or messaging
-(see my [contact information](about-me#contact) for how); better yet,
+(see my [contact information](contact) for how); better yet,
 for minor things like pointing out typos, I have an "edit page" link at
 the top of each page that will allow people with GitHub accounts to fork
 the site repo and submit a pull request.
