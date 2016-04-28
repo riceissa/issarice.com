@@ -67,8 +67,6 @@ person about whom the question is asked is fine with it.
 For now, I'm just testing out Pinboard; I'm not sure yet for how long I'll continue using it.
 - I have a [LinkedIn profile][lp].  I
   don’t use LinkedIn very much, but feel free to connect with me.
-- My [OkCupid](http://www.okcupid.com/) account name is [riceissa][okcp].
-  Feel free to connect with me as friends or romantically (or both).
 - I am [riceissa][tp] on [Twitter](https://twitter.com/).  I don’t use
   Twitter very often, and when I do it’s mostly to read what others have
   tweeted.
