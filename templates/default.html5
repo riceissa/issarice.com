@@ -63,7 +63,7 @@ $endfor$
     <a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./commenting-on-this-site">Comment</a>
-    | View <a href="https://github.com/riceissa/issarice.com">website source</a>
+    | <a href="https://github.com/riceissa/issarice.com">Website source</a>
   </div>
   <div style="float:right;">
     <!--
