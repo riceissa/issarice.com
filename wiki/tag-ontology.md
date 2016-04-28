@@ -17,7 +17,6 @@ belief: possible
 license: CC-BY
 tags: content creation
 aliases: topic ontology
-math: yes
 ---
 
 The topic of **tag** or **topic ontology** has always fascinated me

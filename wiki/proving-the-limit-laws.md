@@ -3,7 +3,6 @@ layout: default
 title: Proving the limit laws
 comments: "yes"
 disqus-id: ee9b153b71076aa4d5c8e683bb33f2adb0b78f0c
-math: "yes"
 license: "CC-BY"
 tags: math, analysis
 ---

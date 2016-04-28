@@ -12,7 +12,6 @@ status: notes
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
 tags: linux, debian, computing, font, tinkering, aesthetics
-math: yes
 ---
 
 This is for Linux.

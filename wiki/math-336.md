@@ -1,7 +1,6 @@
 ---
 title: MATH 336
 date: 2016-04-13
-math: yes
 ...
 
 This is my course review page for MATH 336, the third (and final)

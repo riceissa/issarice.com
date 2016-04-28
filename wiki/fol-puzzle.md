@@ -1,6 +1,5 @@
 ---
 title: FOL puzzle
-math: yes
 tags: math
 ---
 

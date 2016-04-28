@@ -3,7 +3,6 @@ layout: default
 title: “Elementary properties of closures”
 comments: "yes"
 disqus-id: 01645ab99bebdabf308d8cdc05eff0109abec049
-math: "yes"
 license: "CC-BY"
 tags: math, analysis
 ---

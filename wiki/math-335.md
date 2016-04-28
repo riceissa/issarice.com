@@ -3,7 +3,6 @@ title: MATH 335
 date: 2016-02-21
 tags: math, uw, uw course review
 license: CC0
-math: yes
 belief: emotional
 ---
 

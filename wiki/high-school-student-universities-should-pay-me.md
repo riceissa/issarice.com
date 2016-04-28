@@ -7,7 +7,6 @@ language: English
 status: mostly finished
 license: CC BY
 tags: literary, fiction
-math: yes
 ---
 
 # Information

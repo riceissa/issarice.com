@@ -3,7 +3,6 @@ layout: default
 title: Quantified self
 comments: "yes"
 disqus-id: ed21e4a193dcf60da457f8371c6f8a83c1613fa6
-math: "no"
 last_major_revision_date: 2014-07-26
 license: "CC-BY"
 tags: qs, links, self-improvement

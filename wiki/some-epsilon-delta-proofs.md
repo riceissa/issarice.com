@@ -1,7 +1,6 @@
 ---
 title: Some epsilon-delta proofs
 license: CC0
-math: yes
 tags: math
 ---
 

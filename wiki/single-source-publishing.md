@@ -11,7 +11,6 @@ status: notes
 belief: possible
 # accepts "CC0", "CC-BY", or "CC-BY-SA"
 license: CC-BY
-math: yes
 tags: content creation, digital preservation
 ---
 

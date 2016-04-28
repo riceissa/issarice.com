@@ -13,7 +13,6 @@ belief: unlikely
 license: CC-BY
 tags: math, probability
 aliases: odds
-math: yes
 ---
 
 # Definition

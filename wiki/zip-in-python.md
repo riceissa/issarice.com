@@ -2,7 +2,6 @@
 layout: default
 title: Zip in Python
 comments: "yes"
-math: "yes"
 license: "CC-BY"
 tags: math, python, computer-science
 ---

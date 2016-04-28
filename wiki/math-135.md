@@ -13,7 +13,6 @@ belief: possible
 license: CC-BY
 tags: uw course review, math
 #aliases: 
-math: yes
 ---
 
 This is my course review for math 135 at the University of Washington.
