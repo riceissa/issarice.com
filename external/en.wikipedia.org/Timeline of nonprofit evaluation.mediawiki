@@ -23,7 +23,7 @@ TODO (remove when done): evaluation type should be one or more of: "nonprofits e
 |-
 | 2001 || Charity watchdog || || [[BBB Wise Giving Alliance]] adopts its current name.<ref>{{cite web |url=http://www.usatoday.com/story/money/personalfinance/2012/12/27/better-business-bureau-charity-ratings-donations/1636957/ |title=BBB's charity ratings, seal of approval under fire |first=Jayne |last=O'Donnell |date=December 27, 2012 |accessdate=April 25, 2016}}</ref>
 |-
-| 2001 || Charity watchdog || || [[Charity Navigator]] launches.
+| 2001 || Charity watchdog || || [[Charity Navigator]] launches. Charity Navigator is an [[United States|American]] independent [[charity watchdog]] organization that evaluates [[charitable organization]]s in the [[United States]]. || United States
 |-
 | 2002 || || || [[New Philanthropy Capital]] launches. || United Kingdom (London)
 |-
@@ -33,11 +33,13 @@ TODO (remove when done): evaluation type should be one or more of: "nonprofits e
 |-
 | 2007 || Charity watchdog || || [[GreatNonprofits]] is founded. GreatNonprofits provides reviews and ratings of US nonprofit organizations.<ref>{{cite web |url=http://www.about.greatnonprofits.org/ |title=The Story of GreatNonprofits |publisher=GreatNonprofits |accessdate=April 27, 2016}}</ref>
 |-
-| 2007 || Charity watchdog || || [[GiveWell]] launches.
+| 2007 || Charity watchdog || || [[GiveWell]] launches. GiveWell is a [[non-profit organization|non-profit]] [[charity evaluator]] and [[effective altruism]]-focused organization that focuses primarily on the [[cost-effectiveness]] of the organizations that it evaluates, rather than traditional metrics such as the percentage of the organization's budget that is spent on [[overhead (business)|overhead]].
 |-
 | 2008 || || || [[Philanthropedia]], a division of GuideStar, launches.
 |-
-| 2010 || || || [[Jumo]] launches.
+| 2010 || || || [[Jumo]] launches. Jumo was a [[social networking service]] and website that indexed charities so people can find and evaluate them.
+|-
+| 2011 || || || [[Open Philanthropy Project]] (Open Phil) launches as GiveWell labs. Open Phil is a joint project between [[GiveWell]] (a charity evaluator focusing mostly on [[global health]]) and [[Good Ventures]] (a philanthropic organization co-founded by Cari Tuna and her husband [[Dustin Moskovitz]], one of the co-founders of [[Facebook]])<ref name="Insidephilanthropy.com_March_20_2016c">{{cite web |url=http://www.insidephilanthropy.com/home/2015/12/14/how-does-an-emerging-army-of-tech-donors-think-ask-this-guy.html |title=How Does an Emerging "Army" of Tech Donors Think? Ask This Guy |publisher=Inside Philanthropy |date=December 14, 2015 |author=David Callahan |accessdate= March 20, 2016}}</ref> that tries to identify the most effective ways to give money to a wide variety of causes.<ref name="openphil_formerly_gwl">{{cite web |url=http://blog.givewell.org/2014/08/20/open-philanthropy-project-formerly-givewell-labs/ |title=Open Philanthropy Project (formerly GiveWell Labs) |first=Holden |last=Karnofsky |publisher=GiveWell}}</ref><ref name=syd>{{cite web|url = http://www.sydsbirthdaychallenge.com/blog/2015/8/27/open-philanthropy-project|title = Open Philanthropy Project|last = Martin|first = Sydney|date = September 5, 2015|accessdate = April 9, 2016}}</ref> || United States
 |}
 
 ==See also==
