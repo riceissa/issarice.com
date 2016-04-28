@@ -72,10 +72,11 @@ Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the
 I use Pandoc and a custom static site generator to produce this site, which is then hosted via Linode.
 For details, see [Colophon]().
 
+<!--
 # Getting updates
 
 I have an [Atom feed](http://issarice.com/atom.xml) for this site.
-For more ways to get updates, see [Feed]().
+For more ways to get updates, see [Feed]().-->
 
 # Belief and status tags
 
