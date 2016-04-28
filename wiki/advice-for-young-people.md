@@ -746,7 +746,7 @@ can learn a lot about the most exciting things that are happening.
     - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/)".
     - [Raman Shah](https://www.quora.com/Raman-Shah)
     - [Inna Vishik](https://www.quora.com/Inna-Vishik)
-    - [Andrew Ho](http://www.andrewjho.me/blog/) (also on [Quora](https://www.quora.com/Andrew-J-Ho/))
+    - [Andrew Ho](http://www.andrewjho.me/) (also on [Quora](https://www.quora.com/Andrew-J-Ho/))
     - gwern
     - Mencius Moldbug/neoreactionaries
     - Scott Alexander
@@ -764,6 +764,8 @@ can learn a lot about the most exciting things that are happening.
     - [David Roodman](http://davidroodman.com/)
     - [The Last Psychiatrist](http://thelastpsychiatrist.com/)
     - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
+    - Tokieda Tadashi
+    - Laurens Gunnarsen
     - Some more people mentioned by Alex K. Chen:
 
         > People whose opinions I very highly respect: danah boyd,
@@ -921,6 +923,9 @@ Also think about how to get what you want in creative ways; in particular, watch
     > as the visible sign of caring, has become virtuous in its own
     > right. Solving the problem effectively is an attack on the moral
     > people.
+
+- "[Reinventing Explanation](http://michaelnielsen.org/reinventing_explanation/index.html)" by Michael Nielsen.
+Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking_ui.html)".
 
 [^offset]: I like this quote from the comment:
 

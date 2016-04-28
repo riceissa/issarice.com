@@ -1,0 +1,27 @@
+The '''National Conference of Charities and Correction''' in the United States was a series of conferences held from 1874 to 1917. It was a precursor to the National Conference of Social Welfare. The Conference used to be the '''State Boards of Charities and Corrections''' but this was changed to State Boards of Charities and Corrections in 1879.<ref name="Socialwelfarehistorycom_March_26_2016c">{{cite web |url=http://www.socialwelfarehistory.com/organizations/national-conference-of-charities-and-correction-the-beginning/ |title=National Conference of Charities and Correction |newspaper=Social Welfare History Project |accessdate= March 26, 2016 |author=John E. Hansan}}</ref>
+
+The Conference was once part of the [[American Social Science Association]], but became independent in 1879.<ref name="Socialwelfarehistorycom_March_26_2016c"/>
+
+<ref name="hall">{{cite web |url=http://www.hks.harvard.edu/fs/phall/Powell%20Essay-Final%20-%20rev.pdf |title=A Historical Overview of Philanthropy, Voluntary Associations, and Nonprofit Organizations in the United States, 1600–2000 |first=Peter Dobkin |last=Hall}}</ref>
+
+In 1893, the president of the Conference, Hastings H. Hart, reviewed the progress of the first 20 years of the Conference.
+
+==List of conferences==
+
+<ref name="proceedings20">Isabel C. Barrows ed. ''Proceedings of the National Conference of Charities and Correction at the Twentieth Annual Session Held in Chicago, Ill., June 8–11, 1893''. https://books.google.com/books?id=eZNIAAAAYAAJ&lpg=PA1&ots=lHoifDWMwa&dq=The%20Progress%20Of%20The%20Past%20Twenty%20Years%20By%20Hastings%20H.%20Hart&pg=PR1#v=onepage&q=The%20Progress%20Of%20The%20Past%20Twenty%20Years%20By%20Hastings%20H.%20Hart&f=false</ref>
+
+{| class="wikitable"
+! Number !! Date !! Location !! Number of members !! Notes
+|-
+| 1 || 1874 ||  || 20
+|-
+| 19 || 1892 || Denver || 500 || Purely historical, i.e. simply reviewed the progress made in previous years.
+|-
+| 20 || June 8–13, 1893 || Chicago || || Purely historical
+|-
+| 26 || May 17–23, 1899 || Cincinnati, Ohio
+|}
+
+==References==
+
+{{reflist|30em}}

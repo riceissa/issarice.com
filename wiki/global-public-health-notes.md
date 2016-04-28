@@ -20,7 +20,7 @@ Some relevant Quora questions I've asked that might spring up useful information
 Initial hypotheses (after reading [the Wikipedia section](https://en.wikipedia.org/wiki/Global_health#History)):
 
 - The push toward global health was *crisis-driven*, in the sense that outbreaks somewhat unrelated to the rest of global health were responsible for kick-starting interest in the rest of the area.
-The analogy here is that things like natural disasters influence people to donate more money.
+The analogy here is that things like natural disasters influence people to donate more money.[^episodic]
 - Somehow organizations like the WHO formed and convinced people to donate more money.
 
 It's important to distinguish between government interest and public interest in global health.
@@ -173,3 +173,18 @@ Specifically, I'm interested in anti-aging.
 
 Some parts of early history of philanthropy are less relevant.
 For instance, the way in which nonprofits became codified in US law was important the first time around (i.e. for currently-existing philanthropy), but is less relevant for newer developments like anti-aging, since these laws are already in place.
+
+[^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
+
+    > The palpable tension, between managing episodic, acute, frightening,
+    > deadly and dramatic pandemics and the arduous path to ameliorating the
+    > chronic maladies and social conditions that kill many more people but in
+    > far less dramatic ways, has always shaped the agenda of the World Health
+    > Organization. Yet the historical record amply demonstrates how
+    > international efforts to control infectious disease, beginning in the
+    > mid-nineteenth century and extending to the present, have dominated
+    > global health policies, regulations, agendas and budgets, often at the
+    > expense of addressing more chronic health and environmental concerns. 5,6
+    > How these challenges have affected present circumstances and created
+    > demands for an entirely new conception and execution of 21st century
+    > global health efforts will be the focus of this paper. 

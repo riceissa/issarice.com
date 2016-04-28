@@ -339,3 +339,36 @@ DejaVuSans.ttf: "DejaVu Sans" "Book"
 $ fc-match "Arial"
 Arial.ttf: "Arial" "Normal"
 ```
+
+# Audio glitches/stuttering/repeating
+
+Upgrading on Ubuntu/Linux Mint caused odd audio glitches while playing music.
+As is often the case, the [Arch Wiki](https://wiki.archlinux.org/index.php/PulseAudio/Troubleshooting#Glitches.2C_skips_or_crackling) was most helpful.
+Open `/etc/pulse/default.pa` and add the following line at the end:
+
+```
+load-module module-udev-detect tsched=0
+```
+
+The following *might* work:
+
+```bash
+$ pulseaudio -k
+$ pulseaudio --start
+```
+
+On my machine, Pulseaudio failed to restart after being killed, but rebooting fixed one of the problems, namely the stuttering.
+Now I get strange popping sounds once in a while, especially when both MOC and Facebook try to produce a sound simultaneously.
+I added the line
+
+```
+options snd-hda-intel vid=8086 pid=8ca0 snoop=0
+```
+
+to `/etc/modprobe.d/sound.conf` (as in the Arch Wiki, which was originally empty), but that didn't seem to fix it.
+Seeing [this thread](http://ubuntuforums.org/showthread.php?t=2230750), I have now placed the same line in `/etc/modprobe.d/alsa-base.conf` (which was not empty).
+
+Note though that while the stuttering was so annoying as to make the computer unusable (since I like listening to music while I work), the occasional popping is much less annoying, and I can probably live with it for now.
+
+It might also possibly be some sort of power saving option kicking in.
+See [here](http://www.howtoeverything.net/linux/issues/remove-whistling-and-popping-sounds-intel-hda) if nothing works.

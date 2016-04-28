@@ -1,0 +1,83 @@
+This is a timeline of deworming, and specifically [[mass deworming]].
+
+==Big picture==
+
+{| class="sortable wikitable"
+! Time period !! Key developments
+|-
+| 1851–1915 || Understanding of and interest in schistosomiasis deepens as more people come in contact with the disease.
+|-
+| 1948–present || Following [[World War II]], the [[World Health Organization]] "has been the principal body concerned with the international support of research and control programmes" of schistosomiasis.<ref name=sandbach/>{{rp|266}} However despite this and the implementation of programs, prevalence of schistosomiasis increases in many areas.<ref name=sandbach/>{{rp|262}}
+|-
+| 1949–1997 || Both Japan and South Korea successfully implement national programs to essentially eliminate soil-transmitted helminthiasis.
+|-
+| 2001–present || The World Health Assembly declares deworming as a focus. Various deworming organizations form.
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Event type !! Event !! Disease name !! Geographic location
+|-
+| 16th century BC || || [[Schistosome]] parasites thought to first evolve in the [[Great Lakes of East Africa]] around this period.<ref name="sandbach">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1081781/pdf/medhist00110-0029.pdf |title=The History of Schistosomiasis Research and Policy for Its Control |accessdate=April 16, 2016 |date=July 1976 |last=Sandbach |first=F. R.}}</ref> || [[Schistosomiasis]] || Africa
+|-
+| 1799–1801 || Crisis || [[Napoleon]]'s solidiers almost certainly suffer from [[haematuria]] caused by [[schistosomiasis]] infection.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1851 || Discovery || [[Theodor Bilharz]] discovers the parasite responsible for schistosomiasis.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1882 || Publication || First mention of schistosomiasis in ''[[The Lancet]]''.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1883 || || Interest in schistosomiasis heightens in England (and Europe more generally) due to more frequent encounter with the disease following [[History of Egypt under the British|English occupation of Egypt]].<ref name=sandbach/> || Schistosomiasis || England, Egypt
+|-
+| 1893–1918 || Program launch || Four commissions designed to understand schistosomiasis are sent to North Africa.<ref name=sandbach/> || Schistosomiasis || Africa
+|-
+| 1909 || Organization || The [[Rockefeller Sanitary Commission|Rockefeller Sanitary Commission for the Eradication of Hookworm Disease]] (RSC) is founded. One of RSC's main goals is to eradicate [[hookworm]] disease in [[Southern United States]].<ref>{{cite web |url=http://www.rockefeller100.org/exhibits/show/health/rockefeller-sanitary-commissio |title=Rockefeller Sanitary Commission (RSC) |publisher=The Rockefeller Foundation |accessdate=April 22, 2016}}</ref><ref name="bundy">{{cite web |url=http://www.londonntd.org/sites/www.londonntd.org/files/content/Worms,%20Wisdom%20and%20Wealth.pdf |title=Worms, wisdom, and wealth: why deworming can make economic sense |accessdate=April 16, 2016 |date=2013 |authors=Donald A.P. Bundy, Judd L. Walson, and Kristie L. Watkins}}</ref> The RSC is active from 1910–1914, and closes in 1915.<ref name=sth_uw/> || [[Hookworm]] || United States
+|-
+| 1915 || Discovery || [[Robert Thomson Leiper]] works out the life-cycle of schistosomiasis.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1927–1951 || || Attempts are made to kill the intermediate hosts for schistosomiasis (i.e. snails) using [[copper sulfate]] instead of sanitation and health education. The reasoning here is to prevent the schistosomiasis life-cycle from being completed. However it is unclear if these measures reduced the prevalence of schistosomiasis.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1938 || || Schistosomiasis Commission proposed by [[Hilmy Bey]]; the League of Nations Health Committee suggests more research on the disease, but nothing is done due to the imminence of [[World War II]] (among other reasons).<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1939–1945 || Crisis || [[Allies of World War II|Allied]] soldiers affected by schistosomiasis in China, the Philippines, and the Pacific Islands. This brings the disease to international attention.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1942 || Program launch || Schistosomiasis control program begins in Venezuela.<ref name=sandbach/> || Schistosomiasis || Venezuela
+|-
+| 1947 || Publication || First assessment of the distribution of schistosomiasis in the world by Norman Stoll.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1948 || Program launch || The first [[World Health Assembly]] decides to establish an "Expert Committee" to deal with schistosomiasis.<ref name=sandbach/> || Schistosomiasis ||
+|-
+| 1949 || Program launch || Volunteer organizations for deworming form in Tokyo and Osaka, which implement "biannual school-based mass screening and treatment".<ref name=sth_uw/> || Soil-transmitted helminthiasis || Japan
+|-
+| 1955 || Program launch || [[Japan Association of Parasite Control]] (JAPC) forms. JAPC is a consolidation of several previous deworming groups that existed.<ref name=sth_uw/> || Soil-transmitted helminthiasis || Japan
+|-
+| 1965–1995 || Program launch || [[Korea Association for Parasite Eradication]] models their deworming program (a "biannual school-based mass screening and treatment program") off Japanese programs.<ref name=sth_uw/> || Soil-transmitted helminthiasis, hookworm, etc. || South Korea
+|-
+| mid-1980s || || Under Japan Association of Parasite Control, deworming efforts lead to "very minimal levels" of ''[[Ascaris]]''.<ref name="sth_uw">{{cite web|title=STH Elimination Strategy Support - Objective 1: Past STH Elimination Programs |url=http://uwstartcenter.org/wp-content/uploads/2015/11/START_57_STHE_Objective_1_Final_Report_2015-02.pdf |date=February 17, 2015 |publisher=University of Washington Global Health START Program}}</ref> || Soil-transmitted helminthiasis || Japan
+|-
+| 1997 || || The [[World Health Organization]] declares South Korea "essentially worm-free".<ref name=sth_uw/> || Soil-transmitted helminthiasis || South Korea
+|-
+| 2001 || || The [[World Health Assembly]] declares the goal of 75% of schoolchildren in endemic areas receiving deworming treatment.<ref name=bundy/>{{rp|2}} || Schistosomiasis, [[Soil-transmitted helminthiasis]]<ref>{{cite web |url=http://www.who.int/neglected_diseases/mediacentre/WHA_54.19_Eng.pdf |title=WHA54.19 Schistosomiasis and soil-transmitted helminth infections |publisher=World Health Organization}}</ref> ||
+|-
+| 2002 || Organization || The [[Schistosomiasis Control Initiative]] (SCI) established after being funded by the [[Bill & Melinda Gates Foundation]].<ref>{{cite web|url=http://www.imperial.ac.uk/schistosomiasis-control-initiative/about/ |title=About |accessdate=April 23, 2016 |publisher=Schistosomiasis Control Initiative}}</ref> Since 2013 SCI has been a [[GiveWell]] top charity. || Schistosomiasis ||
+|-
+| 2007 || Organization || [[Deworm the World Initiative]] is founded.<ref>{{cite web|url=http://www.givewell.org/international/top-charities/deworm-world-initiative |title=Deworm the World Initiative, led by Evidence Action |publisher=GiveWell |date=April 2016}}</ref> Since 2014 Deworm the World Initiative has been a [[GiveWell]] top charity. || Soil-transmitted helminthiasis ||
+|-
+| 2012 || Program launch || Various organizations announce a coordinated effort to eliminate or control 10 [[neglected tropical diseases]], including both schistosomiasis and soil-transmitted helminthiasis.<ref name="ntd_2012">{{cite web |url=https://web.archive.org/web/20130312031006/http://www.unitingtocombatntds.org/downloads/press/ntd_event_table_of_commitments.pdf |title=Table of Commitments |accessdate=April 23, 2016 |date=2012 |publisher=Uniting to Combat Neglected Tropical Diseases}}</ref> || Schistosomiasis, soil-transmitted helminthiasis ||
+|-
+| 2015 || || The "deworming debate" takes place starting in July on whether deworming is effective.<ref>{{cite web |url=http://www.cochrane.org/news/deworming-debate |title=Timeline: the deworming debate |publisher=The Cochrane Collaboration |accessdate=April 23, 2016}}</ref> || ||
+|}
+
+==See also==
+
+*[[Timeline of global health]]
+*[[List of diseases eliminated from the United States]]
+*[[Helminthiasis]]
+*[[Soil-transmitted helminthiasis]]
+*[[Schistosomiasis]]
+*[[Timeline of cholera]]
+
+==References==
+
+{{reflist|30em}}
+

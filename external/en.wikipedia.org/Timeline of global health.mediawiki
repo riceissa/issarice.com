@@ -1,0 +1,181 @@
+This page is a '''timeline of global health''', including major conferences, interventions, cures, and crises.
+
+==Big picture==
+
+{| class="sortable wikitable"
+! Time period !! Key developments
+|-
+| 1500s–1600s || European countries begin traveling to and colonizing regions of the world including the Americas, Africa, India, and China. This contributes to the spread of various infectious diseases.<ref name="palilonis">{{cite web |url=http://bioethics.wfu.edu/wp-content/uploads/2015/09/Topic-3-A-Brief-History-of-Global-Health.pdf |title=An Introduction to Global Health and Global Health Ethics: A Brief History of Global Health |author= M. A. Palilonis |accessdate=April 13, 2016}}</ref>
+|-
+| 1816–1899 || Six global [[cholera]] pandemics happen in this period due to increased commerce and migration. These pandemics (as well as others) inspire modern health regulations, beginning with the [[International Sanitary Conferences]].<ref name="markel">{{cite web |url=http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf |title=Worldly approaches to global health: 1851 to the present |first=Howard |last=Markel |date=January 7, 2014 |accessdate=April 5, 2016}}</ref>{{rp|125}} The [[germ theory of diseases]] also begins to become accepted and popularized starting around 1850.<ref>{{cite web |url=http://ocp.hul.harvard.edu/contagion/germtheory.html |title=Germ Theory |publisher=Harvard |accessdate=April 13, 2016}}</ref>
+|-
+| 1920s–1930s || Antitoxins and vaccines for numerous diseases including [[cholera]] and [[tuberculosis]] are developed during this period, building on a trend of greater understanding of and control over [[microorganisms]].<ref name="vaccine_timeline">{{cite web |url=http://www.historyofvaccines.org/content/timelines/all |title=All Timelines Overview - History of Vaccines |publisher=The College of Physicians of Philadelphia|accessdate=April 13, 2016}}</ref>
+|-
+| 1945–1950 || Following the end of [[World War II]], several organizations, including the [[United Nations]] and [[World Health Organization]] (WHO), form.<ref name="markel"/>
+|-
+| 1970s || Greater dissatisfaction with WHO for its focus on disease/infection control at the expense of trying to improve general living conditions, as well as disappointment at its low budget and staffing. This atmosphere spurs other organizations to provide their own forms of aid.<ref name="markel"/>{{rp|126}}<ref name="palilonis"/>{{rp|6}}
+|-
+| 1990s–2000s || [[HIV/AIDS]] becomes the focus of many governmental and non-governmental organizations.<ref name="palilonis"/>{{rp|6}} 
+|-
+| 2000s and beyond || WHO's [[Millennium Development Goals]] establishes health care as an important goal (not just combating infectious diseases).<ref name="palilonis"/>{{rp|7}}
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Event type !! Event !! Disease name !! Geographic location
+|-
+| 1851 || Organization || First of the [[International Sanitary Conferences]] held in Paris.<ref name="markel" /> || || France
+|-
+| 1854 || Crisis || [[Broad Street cholera outbreak]] central to the development of modern [[epidemiology]].<ref name="ghh">{{cite web |url=http://www.globalhealthhub.org/timeline |title=Global Health Timeline |accessdate=April 8, 2016}}</ref> || [[Cholera]] || [[England]]
+|-
+| 1855 || Crisis || [[Third plague pandemic]] begins.<ref name=ghh/> This pandemic kills 12 million people. || [[Bubonic plague]] || China (origin)
+|-
+| 1863 || Organization || [[International Committee of the Red Cross]], a private humanitarian institution, is founded by [[Henry Dunant]] and [[Gustave Moynier]].<ref name="NobelFactsorg">{{cite web|url=http://nobelprize.org/nobel_prizes/lists/organizations.html|title=Nobel Laureates Facts&nbsp;— Organizations|publisher=[[Nobel Foundation]]|accessdate=2009-10-13}}</ref> || || [[Switzerland]] (in [[Geneva]])
+|-
+| 1880 || Discovery || Microorganisms responsible for [[malaria]] identified.<ref name=ghh/> || Malaria ||
+|-
+| 1882 || Discovery || Microorganisms responsible for [[tuberculosis]] identified.<ref name=ghh/> || Tuberculosis ||
+|-
+| 1893 || || The International List of Causes of Death, a predecessor to the [[International Statistical Classification of Diseases and Related Health Problems]], is adopted.<ref name=ghh/> || ||
+|-
+| 1902 || Organization || [[Pan American Health Organization]] established as the Pan-American Sanitary Bureau in response to [[yellow fever]] epidemics.<ref name=markel /><ref name=ghh/> || [[Yellow fever]] (originally)
+|-
+| 1907 || Organization || [[Office International d'Hygiène Publique]] (OIHP) founded. The OIHP helped to refine [[quarantine]] policies.<ref name=markel /> || || France
+|-
+| 1913 || Organization || [[Rockefeller Foundation]] founded.<ref name=ghh/> || ||
+|-
+| 1918 || Crisis || [[1918 flu pandemic]] (Spanish flu) || [[Influenza]] || France (origin, possibly disputed)
+|-
+| 1922 || Organization || [[League of Nations]] Health Committee and Health Section established.<ref name="who_history_league">{{cite web |url=http://www.who.int/archives/fonds_collections/bytitle/fonds_3/en/ |title=Archives of the League of Nations, Health Section Files |publisher=World Health Organization |accessdate=April 8, 2016}}</ref> || ||
+|-
+| 1927 || Discovery || [[BCG vaccine]] for tuberculosis developed.<ref name=ghh/> || Tuberculosis ||
+|-
+| 1928 || Discovery || [[Penicillin]] (an [[antibiotic]]) discovered by [[Alexander Fleming]].<ref name=ghh/> || ||
+|-
+| 1943 || Organization || [[United Nations Relief and Rehabilitation Administration]] founded for relief of victims of war.<ref>{{cite web |url = http://www.ibiblio.org/pha/policy/1943/431109a.html |title = Agreement for United Nations Relief and Rehabilitation Administration |publisher=Ibiblio.org}}</ref> || ||
+|-
+| 1945 || Organization || The [[World Bank Group]] formed.<ref name=ghh/> || ||
+|-
+| 1946 || Organization || [[UNICEF]] founded.<ref name=ghh/> || ||
+|-
+| 1946 || Organization || [[Centers for Disease Control and Prevention]] is founded initially as the Communicable Diseases Center.<ref name=ghh/> || Malaria (initially) || United States (Atlanta, Georgia)
+|-
+| 1947 || Crisis || A cholera epidemic takes 20,000 lives in Egypt in 1947 and 1948; this helps spur the international community to action.<ref>{{cite web|title=History of WHO|author=World Health Organization|url=http://www.who.int/library/historical/access/who/index.en.shtml|archiveurl=https://web.archive.org/web/20061207150944/http://www.who.int/library/historical/access/who/index.en.shtml|archivedate=2006-12-07}}</ref> || Cholera || Egypt
+|-
+| 1948 || Organization || [[World Health Organization]] established.<ref name=ghh/> || ||
+|-
+| 1950 || Medical advancement || Mass tuberculosis immunization under way with [[BCG vaccine]]<ref name="who_60th">{{cite web |url=http://www.who.int/features/history/WHO_60th_anniversary_chronology.pdf |title=WHO in 60 years: a chronology of public health milestones |publisher=World Health Organization |accessdate=April 2, 2016}}</ref> || Tuberculosis ||
+|-
+| 1952 || Program launch || Global yaws control program launched by WHO and UNICEF.<ref name="who_60th"/> || [[Yaws]] ||
+|-
+| 1952 || Crisis || [[Polio]] epidemic in the United States || Polio || United States
+|-
+| 1955 || Program launch || Malaria Eradication Programme launched by WHO.<ref name="who_60th"/> || Malaria
+|-
+| 1955 || Medical advancement || First inactivated polio vaccine announced by [[Jonah Salk]].<ref name=ghh/> || Polio ||
+|-
+| 1958 || Program launch || Smallpox eradication program launched by [[World Health Assembly]].<ref name="who_60th"/> || Smallpox
+|-
+| 1961 || Organization || [[United States Agency for International Development]] forms.<ref name=ghh/> || || United States
+|-
+| 1963 || Medical advancement || Oral polio vaccine licensed.<ref name="who_60th"/> || Polio
+|-
+| 1965 || Organization || [[International Agency for Research on Cancer]] established || [[Cancer]] ||
+|-
+| 1971 || Organization || [[Doctors Without Borders]] founded.<ref name=ghh/> || ||
+|-
+| 1974 || Program launch || Onchocerciasis Control Programme launched by WHO and others.<ref name="who_60th"/> || [[Onchocerciasis]]
+|-
+| 1976 || Discovery || [[Ebola]] virus first identified.<ref name="who_60th"/> || Ebola || [[Democratic Republic of the Congo]]
+|-
+| 1977 || Publication || [[WHO Model List of Essential Medicines]] first published.<ref name=ghh/> || ||
+|-
+| 1978 || Publication || [[Alma Ata Declaration]] established.<ref>{{cite report|title=Primary Health Care: Report of the International Conference on Primary Health Care|location=Geneva|publisher=World Health Organization|year=1978|url=http://www.unicef.org/about/history/files/Alma_Ata_conference_1978_report.pdf}}</ref> The Declaration promoted health as a human right.<ref name=ghh/> || || [[Kazakhstan]]
+|-
+| 1979 || Medical advancement || Eradication of [[smallpox]] (last naturally occurring case recorded).<ref name=ghh/> || Smallpox ||
+|-
+| 1986 || Program launch || [[Global Programme on AIDS]] launched by WHO.<ref name="who_60th"/> || HIV/AIDS ||
+|-
+| 1988 || Program launch || Global Polio Eradication Initiative established by WHO and others.<ref name="who_60th"/> || Polio
+|-
+| 1990 || Program launch || [[Global Burden of Disease Study]] commissioned by the [[World Bank]].<ref name=ghh/> || ||
+|-
+| 1993 || Publication || [[Disease Control Priorities Project|Disease Control Priorities]] first edition (DCP1) published<ref>{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref> || ||
+|-
+| 1993 || Publication || 1993 World Development Report published. This report "changed the terms of discourse in international health development" by prioritizing health problems with a large disease burden for which cost-effective interventions were available.<ref>{{cite web |url=http://www.jstor.org/stable/10.1086/452312 |title=Reviewed Work: World Development Report 1993: Investing in Health by World Bank |author= Michael R. Reich |publisher=The University of Chicago Press}}</ref> || ||
+|-
+| 1995 || Program launch || International Commission for the Certification of Dracunculiasis Eradication established by WHO.<ref name="who_60th"/> || ||
+|-
+| 1995 || Program launch || [[DOTS (Directly Observed Treatment, Short-Course)]] strategy for tuberculosis launched.<ref name=who_60th/> || Tuberculosis ||
+|-
+| 1996 || Organization || [[Joint United Nations Programme on HIV/AIDS]] established.<ref name=who_60th/> || HIV/AIDS ||
+|-
+| 2000 || Program launch || [[Stop TB Partnership]] launched.<ref name="who_60th" /> || Tuberculosis ||
+|-
+| 2000 || Organization || [[Global Outbreak Alert and Response Network]] launched.<ref name=who_60th/> || ||
+|-
+| 2000 || Organization || [[Bill & Melinda Gates Foundation]] founded || ||
+|-
+| 2000 || Publication || [[Millennium Development Goals]] established. At a United Nations Summit in 2000, member nations declared eight [[Millennium Development Goals]] (MDGs), which reflected the major challenges facing human development globally, to be achieved by 2015.<ref>{{cite journal|title=Resolution adopted by the General Assembly, 55/2|date=18 September 2000|publisher=United Nations|url=http://www.un.org/millennium/declaration/ares552e.pdf}}</ref> The declaration was matched by unprecedented global investment by donor and recipient countries. According to the UN, these MDGs provided an important framework for development and significant progress has been made in a number of areas.<ref name=":0">{{Cite web
+| url = https://sustainabledevelopment.un.org/post2015/transformingourworld
+| title = Transforming our world: the 2030 Agenda for Sustainable Development .:. Sustainable Development Knowledge Platform
+| website = sustainabledevelopment.un.org
+| access-date = 2016-02-26
+}}</ref><ref>{{Cite web
+| url = https://sustainabledevelopment.un.org/post2015/transformingourworld
+| title = Transforming our world: the 2030 Agenda for Sustainable Development .:. Sustainable Development Knowledge Platform
+| website = sustainabledevelopment.un.org
+| access-date = 2016-02-26
+}}</ref>  However, progress has been uneven and some of the MDGs were not fully realized including maternal, newborn and child health and reproductive health.<ref name=":0" /> || ||
+|-
+| 2000 || Program launch || [[GAVI Alliance]] forms to promote the use of vaccines.<ref name=ghh/> || ||
+|-
+| 2001 || Program launch || [[Measles Initiative]] launched.<ref name="who_60th" /> || Measles ||
+|-
+| 2002 || Organization || [[The Global Fund to Fight AIDS, Tuberculosis and Malaria]] founded.<ref name=ghh/> || HIV/AIDS, Tuberculosis, Malaria ||
+|-
+| 2002 || Program launch || First [[World report on violence and health]] launched.<ref name="who_60th" /> || ||
+|-
+| 2003 || Program launch || [[3 by 5 Initiative]] launched.<ref name="who_60th" /> || HIV/AIDS ||
+|-
+| 2003 || || [[WHO Framework Convention on Tobacco Control]] adopted.<ref name=ghh/> || ||
+|-
+| 2003 || Crisis || [[Severe acute respiratory syndrome]] outbreak<ref name="who_60th" /> || SARS || China (but spread to multiple countries)
+|-
+| 2003 || Program launch || [[Commission on Intellectual Property Rights, Innovation and Public Health]] created.<ref name="who_60th" /> || ||
+|-
+| 2003 || Program launch || [[President's Emergency Plan for AIDS Relief]] (PEPFAR) launched.<ref name=ghh/> || HIV/AIDS || United States (targeting Africa)
+|-
+| 2004 || || [[Global Strategy on Diet, Physical Activity and Health]] adopted.<ref name="who_60th" /> || ||
+|-
+| 2005 || Program launch || [[Commission on Social Determinants of Health]] launched.<ref name="who_60th" /> || ||
+|-
+| 2005 || Program launch || [[Partnership for Maternal, Newborn & Child Health]] launched.<ref name="who_60th" /> || ||
+|-
+| 2006 || Publication || Disease Control Priorities in Developing Countries (DCP2) published<ref>{{cite web |url=http://dcp-3.org/dcp2 |title=DCP2 |accessdate=March 30, 2016}}</ref> || ||
+|-
+| 2007 || Organization || [[GiveWell]], a charity evaluator, is founded. GiveWell has investigated the effectiveness of numerous charities in global health and has reviewed reports including those published by the [[Disease Control Priorities Project]].<ref>{{cite web|url=http://blog.givewell.org/2011/11/04/some-considerations-against-more-investment-in-cost-effectiveness-estimates|title = Some Considerations Against More Investment in Cost-Effectiveness Estimates|date = 2011-11-04|accessdate = 2012-12-18|publisher = [[GiveWell]]|last = Karnofsky|first = Holden}}</ref> A spinoff known as the [[Open Philanthropy Project]] begins as GiveWell Labs in 2011. || || United States
+|-
+| 2013 || Crisis || [[West African Ebola virus epidemic]] || Ebola ||
+|-
+| 2015 || || Building on the MDGs, a new Sustainable Development Agenda with 17 [[Sustainable Development Goals]] (SDGs) has been established for the years 2016-2030.<ref name=":0" />  The first goal being an ambitious and historic pledge to end poverty.<ref name=":1">{{Cite web
+| url = http://www.undp.org/content/undp/en/home/sdgoverview/
+| title = Sustainable Development Goals
+| website = UNDP
+| access-date = 2016-02-26
+}}</ref> || ||
+|-
+| 2015 || Publication || ''Transforming our world: the 2030 Agenda for Sustainable Development'' adopted by the 193 countries of the UN General Assembly. On 25 September 2015, the 193 countries of the UN General Assembly adopted the 2030 Development Agenda titled ''Transforming our world: the 2030 Agenda for Sustainable Development''.<ref name=":1" /> || ||
+|-
+| 2015 || Publication || ''To Save Humanity'' published. Book that contains nearly 100 essays regarding today's most pressing global health issues.<ref>S.J. Hoffman. 2011. “Ending Medical Complicity in State-Sponsored Torture,” The Lancet 378(9802): 1535-1537. doi:10.1016/S0140-6736(11)60816-7.</ref> The essays were authored by global figures in politics, science, and advocacy ranging from [[Bill Clinton]] to [[Peter Piot]], and addressed a wide range of issues including vaccinations, antimicrobial resistance, health coverage, tobacco use, research methodology, climate change, equity, access to medicine, and media coverage of health research. || ||
+|}
+
+==See also==
+
+*[[List of diseases eliminated from the United States]]
+
+==References==
+
+{{reflist|30em}}
+
