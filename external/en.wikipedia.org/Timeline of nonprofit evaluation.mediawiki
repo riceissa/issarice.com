@@ -11,25 +11,25 @@ TODO (remove when done): evaluation type should be one or more of: "nonprofits e
 |-
 | 1956 || || || [[Foundation Center]] is founded. Among other activities, the Foundation Center provides databases with detailed information about nonprofits.<ref>{{cite web |url=http://foundationcenter.org/about/ |accessdate=April 27, 2016 |publisher=Foundation Center |title=About Foundation Center}}</ref> || United States
 |-
-| 1988 || || || ''[[The Chronicle of Philanthropy]]'' is founded.
+| 1988 || || || ''[[The Chronicle of Philanthropy]]'' is founded. ''The Chronicle of Philanthropy'' is a newspaper that covers the nonprofit world and is aimed at charity leaders, foundation executives, fund raisers, and other people involved in philanthropy.
 |-
-| 1992 || [[Charity watchdog]] || || CharityWatch is founded as [[American Institute of Philanthropy]].
+| 1992 || [[Charity watchdog]] || || CharityWatch is founded as [[American Institute of Philanthropy]]. CharityWatch provides information about charities' financial efficiency, accountability, governance, and fundraising. || United States
 |-
-| 1994 || Charity watchdog || || [[GuideStar]] launches.
+| 1994 || Charity watchdog || || [[GuideStar]], an information service specializing in reporting on U.S. nonprofit companies, launches.
 |-
 | 2000 || Consulting || || FSG is founded as Foundation Strategy Group by Michael Porter with Mark Kramer. FSG provides consulting to nonprofits to increase impact, and has introduced concepts such as [[catalytic philanthropy]].<ref>{{cite web |url=http://www.fsg.org/our-story |title=Our Story |accessdate=April 27, 2016 |publisher=FSG}}</ref> FSG has also published documents such as ''Breakthroughs in Shared Measurement and Social Impact'', which explores how to evaluate outcomes in organizations.<ref>{{cite web |url=http://foundationcenter.org/getstarted/topical/eval.html |title=Evaluation for Nonprofit Organizations |accessdate=April 27, 2016 |publisher=Foundation Center}}</ref> || United States (Boston)
 |-
 | 2000 || Charity watchdog || || [[Ministry Watch]], an [[evangelicalism|evangelical]] [[Christian]] organization that reviews Protestant ministries for financial accountability and transparency, is founded.
 |-
-| 2001 || Charity watchdog || || [[BBB Wise Giving Alliance]] adopts its current name.<ref>{{cite web |url=http://www.usatoday.com/story/money/personalfinance/2012/12/27/better-business-bureau-charity-ratings-donations/1636957/ |title=BBB's charity ratings, seal of approval under fire |first=Jayne |last=O'Donnell |date=December 27, 2012 |accessdate=April 25, 2016}}</ref>
+| 2001 || Charity watchdog || || [[BBB Wise Giving Alliance]] adopts its current name.<ref>{{cite web |url=http://www.usatoday.com/story/money/personalfinance/2012/12/27/better-business-bureau-charity-ratings-donations/1636957/ |title=BBB's charity ratings, seal of approval under fire |first=Jayne |last=O'Donnell |date=December 27, 2012 |accessdate=April 25, 2016}}</ref> The BBB Wise Giving Alliance publishes a set of standards of accountability for charitable organizations and evaluations of national charities against those standards. || United States
 |-
 | 2001 || Charity watchdog || || [[Charity Navigator]] launches. Charity Navigator is an [[United States|American]] independent [[charity watchdog]] organization that evaluates [[charitable organization]]s in the [[United States]]. || United States
 |-
-| 2002 || || || [[New Philanthropy Capital]] launches. || United Kingdom (London)
+| 2002 || Charity watchdog || || [[New Philanthropy Capital]] launches. New Philanthropy Capital is a charitable organisation that tries to direct more funding to effective charities and help donors make more informed decisions on how to give. || United Kingdom (London)
 |-
 | 2005 || Charity watchdog || || [[Intelligent Giving]] launches. Intelligent Giving was a charity evaluator advising donors on how to make the most satisfactory use of their money. It employed a casual, witty style on their website.<ref name=Spectator>{{cite web | url=http://archive.spectator.co.uk/article/16th-february-2008/44/how-to-give | title = How to Give| publisher= The Spectator | accessdate=24 July 2014}}</ref> (Note: 2005 is the earliest mention of the organization; the founding date is unclear.)
 |-
-| 2006 || || || [[Nonprofit Marketplace Initiative]] launches.
+| 2006 || || || [[Nonprofit Marketplace Initiative]] launches. Nonprofit Marketplace Initiative was an initiative of the Effective Philanthropy Group of the [[Hewlett Foundation]] that tried to have more individual philanthropic donations be based on information about a nonprofit's performance.<ref name=guidestar>{{cite web|url = http://trust.guidestar.org/2014/08/05/holden-karnofsky/|title = Dialogue about the Hewlett Foundation’s Nonprofit Marketplace Initiative|last = Harold|first = Jacob|date = August 5, 2014|accessdate = December 6, 2015}}</ref><ref name=givewell>{{cite web|url = http://blog.givewell.org/2014/08/05/thoughts-on-the-end-of-hewletts-nonprofit-marketplace-initiative/|title = Thoughts on the End of Hewlett’s Nonprofit Marketplace Initiative|last = Karnofsky|first = Holden|date = August 5, 2014|accessdate = December 5, 2015|publisher = [[GiveWell]]}}</ref><ref name=chronicle>{{cite web|url = https://philanthropy.com/article/Philanthropy-s-Results/153331|title = Hewlett Ends Effort to Get Donors to Make Dispassionate Choices on Giving|date = April 3, 2014|accessdate = December 5, 2015|publisher = ''[[Chronicle of Philanthropy]]''}}</ref><ref name=hewlett-closure>{{cite web|url = http://www.hewlett.org/blog/posts/follow-our-decision-end-nonprofit-marketplace-initiative|title = Follow-up on Our Decision to End the Nonprofit Marketplace Initiative|last = Twersky|first = Fay|date = April 4, 2014|accessdate = December 5, 2015|publisher = [[Hewlett Foundation]]}}</ref>
 |-
 | 2007 || Charity watchdog || || [[GreatNonprofits]] is founded. GreatNonprofits provides reviews and ratings of US nonprofit organizations.<ref>{{cite web |url=http://www.about.greatnonprofits.org/ |title=The Story of GreatNonprofits |publisher=GreatNonprofits |accessdate=April 27, 2016}}</ref>
 |-
