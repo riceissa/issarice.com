@@ -5,14 +5,9 @@ author: Issa Rice
 creation_date: 2015-03-29
 last_major_revision_date: 2015-03-29
 language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
 tags: uw course review, math
-#aliases: 
 ---
 
 This is my course review for math 135 at the University of Washington.
