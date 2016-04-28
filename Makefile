@@ -1,17 +1,12 @@
 OUTDIR = _site
 MD_PAGES = $(wildcard wiki/*.md)
 HTML_PAGES = $(patsubst wiki/%.md,_site/%,$(MD_PAGES))
-CSS = $(OUTDIR)/_css/solarized_light.css
-CSSDIR = _site/_css
 
 # Make only regular pages
-pages: $(HTML_PAGES) $(CSS) $(CSSDIR) cpimages
+pages: $(HTML_PAGES) cpimages
 
 cpimages:
 	cp images/* $(OUTDIR)
-
-$(CSSDIR):
-	mkdir -p $(CSSDIR)
 
 $(OUTDIR):
 	mkdir -p $(OUTDIR)
