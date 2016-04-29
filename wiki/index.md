@@ -26,5 +26,6 @@ some pages that may be of interest:
   publishing such content.
 - My pages related to the [University of Washington](university-of-washington).
 - I am very slowly trying to catalog broad areas of the [effective altruism]() movement on [Effective altruism links]().
+- [Notes on computing](computing) (Linux, programming, etc.)
 - [Notes on math](math)
 - [Quora](): a mirror of [my Quora answers]()
