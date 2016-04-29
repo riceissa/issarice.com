@@ -16,6 +16,7 @@ Below are some pages on math that are on this site:
 - [MATH 334]()
 - [MATH 335]()
 - [MATH 336]()
+- [Mathematics and notation]()
 - [Minimality exercise from Halmos]()
 - [Notes on variables]()
 - [Proving the limit laws]()
