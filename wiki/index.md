@@ -28,5 +28,5 @@ some pages that may be of interest:
 - I am very slowly trying to catalog broad areas of the [effective altruism]() movement on [Effective altruism links]().
 - [Notes on computing](computing) (Linux, programming, etc.)
 - [Notes on math](math)
-- [Pages related to education]()
+- [Pages related to education](education)
 - [Quora](): a mirror of [my Quora answers]()
