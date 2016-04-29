@@ -47,6 +47,7 @@ However if nothing else, I think effective altruism still does to philanthropy w
 
 I'm highly uncertain about what the best causes are, which is part of the reason I'm interested in cause prioritization (but again, I'm not even sure if cause prioritization is very valuable---it just seems like a promising thing to try out for a while).
 
-# Links
+# See also
 
-I have a collection of [Effective altruism links]() that might interest people.
+- I have a collection of [Effective altruism links]() that might interest people.
+- [Effective altruism and Asperger syndrome]()
