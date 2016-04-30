@@ -1,15 +1,31 @@
 This is a timeline of nonprofit evaluation, in particular [[Charity evaluator|charity evaluation]].
 
-==Timeline==
+==Big picture==
+
+{| class="sortable wikitable"
+! Time period !! Key developments
+|-
+| 1869–1930s || Scientific philanthropy (or scientific charity) begins.
+|-
+| 1992–present || Starting with CharityWatch, this period sees the emergence of many charity watchdog organizations.
+|-
+| late 2000s || Effective altruism begins to emerge as a movement with its current name.
+|}
+
+==Full timeline==
 
 TODO (remove when done): evaluation type should be one or more of: "nonprofits evaluating and measuring themselves", "foundations measuring nonprofit grantees", "public watchdogs evaluating nonprofits and producing public reports" (these descriptions can be shortened), "consulting groups that help nonprofits evaluate themselves", "" (the empty string, where inapplicable)
 
 {| class="sortable wikitable"
 ! Year !! Evaluation type !! Event Type !! Event !! Geographic location
 |-
+| 1869 || Self-evaluation || || [[Charity Organization Societies]] (COS) begin in England. In the US, COS had centralized records and learned from each other, and was part of the [[scientific charity movement]].<ref>{{cite web |url=http://www.socialwelfarehistory.com/programs/mental-health/scientific-charity-movement-charity-organization-societies/ |title=Scientific Charity Movement and Charity Organization Societies |first=Linda S. |last=Stuhler |accessdate=April 29, 2016}}</ref>|| England, Germany, United States
+|-
 | 1941 || || || [[Form 990]] is first used.<ref name="eotopicg02">{{cite web |url=https://www.irs.gov/pub/irs-tege/eotopicg02.pdf |title=G. Form 990 |accessdate=January 29, 2016 |date=2002 |authors=Cheryl Chasin, Debra Kawecki and David Jones |publisher=Internal Revenue Service |archiveurl=https://web.archive.org/web/20150702072044/http://www.irs.gov/pub/irs-tege/eotopicg02.pdf |archivedate=July 2, 2015}}</ref> Form 990 is an [[IRS tax forms|Internal Revenue Service form]] that provides the public with financial information about a nonprofit organization and is sometimes [[Form 990#Use by charity evaluation organizations|used by charity evaluation organizations]]. || United States
 |-
 | 1956 || || || [[Foundation Center]] is founded. Among other activities, the Foundation Center provides databases with detailed information about nonprofits.<ref>{{cite web |url=http://foundationcenter.org/about/ |accessdate=April 27, 2016 |publisher=Foundation Center |title=About Foundation Center}}</ref> || United States
+|-
+| 1966 || || || The [[Hewlett Foundation]] is established. The Hewlett Foundation has focused on "outcome-focused grantmaking"<ref>{{cite web |url=http://www.hewlett.org/uploads/files/Doing_Good_Today_and_Better_Tomorrow.pdf |title=Doing good today and better tomorrow |publisher=The William and Flora Hewlett Foundation Environment Program}}</ref> and started the Nonprofit Marketplace Initiative.
 |-
 | 1988 || || || ''[[The Chronicle of Philanthropy]]'' is founded. ''The Chronicle of Philanthropy'' is a newspaper that covers the nonprofit world and is aimed at charity leaders, foundation executives, fund raisers, and other people involved in philanthropy.
 |-
@@ -35,9 +51,11 @@ TODO (remove when done): evaluation type should be one or more of: "nonprofits e
 |-
 | 2005 || Charity watchdog || || [[Intelligent Giving]] launches. Intelligent Giving was a charity evaluator advising donors on how to make the most satisfactory use of their money. It employed a casual, witty style on their website.<ref name=Spectator>{{cite web | url=http://archive.spectator.co.uk/article/16th-february-2008/44/how-to-give | title = How to Give| publisher= The Spectator | accessdate=24 July 2014}}</ref> (Note: 2005 is the earliest mention of the organization; the founding date is unclear.)
 |-
-| 2006 || || || [[Nonprofit Marketplace Initiative]] launches. Nonprofit Marketplace Initiative was an initiative of the Effective Philanthropy Group of the [[Hewlett Foundation]] that tried to have more individual philanthropic donations be based on information about a nonprofit's performance.<ref name=guidestar>{{cite web|url = http://trust.guidestar.org/2014/08/05/holden-karnofsky/|title = Dialogue about the Hewlett Foundation’s Nonprofit Marketplace Initiative|last = Harold|first = Jacob|date = August 5, 2014|accessdate = December 6, 2015}}</ref><ref name=givewell>{{cite web|url = http://blog.givewell.org/2014/08/05/thoughts-on-the-end-of-hewletts-nonprofit-marketplace-initiative/|title = Thoughts on the End of Hewlett’s Nonprofit Marketplace Initiative|last = Karnofsky|first = Holden|date = August 5, 2014|accessdate = December 5, 2015|publisher = [[GiveWell]]}}</ref><ref name=chronicle>{{cite web|url = https://philanthropy.com/article/Philanthropy-s-Results/153331|title = Hewlett Ends Effort to Get Donors to Make Dispassionate Choices on Giving|date = April 3, 2014|accessdate = December 5, 2015|publisher = ''[[Chronicle of Philanthropy]]''}}</ref><ref name=hewlett-closure>{{cite web|url = http://www.hewlett.org/blog/posts/follow-our-decision-end-nonprofit-marketplace-initiative|title = Follow-up on Our Decision to End the Nonprofit Marketplace Initiative|last = Twersky|first = Fay|date = April 4, 2014|accessdate = December 5, 2015|publisher = [[Hewlett Foundation]]}}</ref>
+| 2006 || || || [[Nonprofit Marketplace Initiative]] launches. Nonprofit Marketplace Initiative was an initiative of the Effective Philanthropy Group of the [[Hewlett Foundation]] that tried to have more individual philanthropic donations be based on information about a nonprofit's performance.<ref name=guidestar>{{cite web|url = http://trust.guidestar.org/2014/08/05/holden-karnofsky/|title = Dialogue about the Hewlett Foundation’s Nonprofit Marketplace Initiative|last = Harold|first = Jacob|date = August 5, 2014|accessdate = December 6, 2015}}</ref><ref name=givewell>{{cite web|url = http://blog.givewell.org/2014/08/05/thoughts-on-the-end-of-hewletts-nonprofit-marketplace-initiative/|title = Thoughts on the End of Hewlett’s Nonprofit Marketplace Initiative|last = Karnofsky|first = Holden|date = August 5, 2014|accessdate = December 5, 2015|publisher = [[GiveWell]]}}</ref><ref name=chronicle>{{cite web|url = https://philanthropy.com/article/Philanthropy-s-Results/153331|title = Hewlett Ends Effort to Get Donors to Make Dispassionate Choices on Giving|date = April 3, 2014|accessdate = December 5, 2015|publisher = ''[[Chronicle of Philanthropy]]''}}</ref><ref name=hewlett-closure>{{cite web|url = http://www.hewlett.org/blog/posts/follow-our-decision-end-nonprofit-marketplace-initiative|title = Follow-up on Our Decision to End the Nonprofit Marketplace Initiative|last = Twersky|first = Fay|date = April 4, 2014|accessdate = December 5, 2015|publisher = [[Hewlett Foundation]]}}</ref>  It has also funded GiveWell.<ref>{{cite web |url=http://blog.givewell.org/2014/08/05/thoughts-on-the-end-of-hewletts-nonprofit-marketplace-initiative/ |title=Thoughts on the End of Hewlett’s Nonprofit Marketplace Initiative |first=Holden |last=Karnofsky |date=August 5, 2014}}</ref>
 |-
-| 2006 || || || [[Center for High Impact Philanthropy]] is established. The Center focuses on high impact philanthropy, both in the US and internationally and puts out studies, papers, and briefings on how to maximize the impact of one's philanthropy. || United States
+| 2006 || || || [[Center for High Impact Philanthropy]] is established at the [[University of Pennsylvania]]. The Center focuses on high impact philanthropy, both in the US and internationally and puts out studies, papers, and briefings on how to maximize the impact of one's philanthropy. || United States
+|-
+| 2006 || || || [[Effective altruism]], a philosophy and social movement that attempts to apply evidence and reason to ethical decision-making, begins to emerge as a movement.
 |-
 | 2007 || Charity watchdog || || [[GreatNonprofits]] is founded. GreatNonprofits provides reviews and ratings of US nonprofit organizations.<ref>{{cite web |url=http://www.about.greatnonprofits.org/ |title=The Story of GreatNonprofits |publisher=GreatNonprofits |accessdate=April 27, 2016}}</ref>
 |-
