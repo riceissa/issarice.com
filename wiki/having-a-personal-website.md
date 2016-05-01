@@ -85,6 +85,8 @@ egrep -i --color -n "*openness.and.avail*" pages/*
 ```
 The periods are helpful because they catch both the hyphenated links (explicit) or the spaces (used for implicit internal linking).
 
+    Note that in [Vim]() it's also possible to do `:vim /openness.and.avail/ wiki/*` instead, and then cycle through the matches with `:cn`.
+
 - What are the "essential" parts of a personal website?
 In terms of topics, it seems that the following are good to have: a short biography, links to one's work, and contact information.
 Indeed, a CV could take care of all three in a sense.
