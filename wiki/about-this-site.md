@@ -69,7 +69,7 @@ Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the
 
 # Colophon
 
-I use Pandoc and a custom static site generator to produce this site, which is then hosted via Linode.
+I use Pandoc and a Makefile to produce this site, which is then hosted via Linode.
 For details, see [Colophon]().
 
 <!--
