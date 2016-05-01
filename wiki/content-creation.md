@@ -290,6 +290,7 @@ Note that some of them have already been linked to on this page.
 - [Content availability]()
 - [Content licensing]()
 - [Durable link]()
+- [Egoism of personal websites]()
 - [Good content]()
 - [Good entry point]()
 - [Having a personal website]()
