@@ -1,6 +1,11 @@
 #!/bin/bash
 
 # TODO: this is a hack
+# All the sed, cut, and tr filters make me uncomfortable since they depend on
+# certain bytes being in the right place (although my source files currently
+# adhere to this restriction).  However, I still prefer this to the old
+# solution of bringing in dependencies like PyYaml, parsing the whole header,
+# and then generating date-dependent pages using that.
 
 echo "This is a list of all pages on this site, ordered by the date of last modification."
 echo ""
