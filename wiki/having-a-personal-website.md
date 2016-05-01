@@ -80,10 +80,12 @@ Fixing is cheap, though.
 For instance, I recently changed the page "Openness and availability of content" to the much simpler "[Content availability]()".
 After the obvious `git mv` and changing of the title in the file itself, I had to look for all the references I made to that page throughout.
 This is achieved by:
-```{.bash}
-egrep -i --color -n "*openness.and.avail*" pages/*
-```
-The periods are helpful because they catch both the hyphenated links (explicit) or the spaces (used for implicit internal linking).
+
+    ```{.bash}
+    egrep -i --color -n "*openness.and.avail*" pages/*
+    ```
+
+    The periods are helpful because they catch both the hyphenated links (explicit) or the spaces (used for implicit internal linking).
 
     Note that in [Vim]() it's also possible to do `:vim /openness.and.avail/ wiki/*` instead, and then cycle through the matches with `:cn`.
 
