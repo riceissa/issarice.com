@@ -5,7 +5,17 @@ IMAGES = $(wildcard images/*)
 IMAGES_DEST = $(patsubst images/%,$(OUTDIR)/%,$(IMAGES))
 
 .PHONY: pages
-pages: $(HTML_PAGES) $(OUTDIR)/sitemap.xml $(IMAGES_DEST)
+pages: $(HTML_PAGES) $(IMAGES_DEST)
+
+.PHONY: fullsite
+fullsite: pages $(OUTDIR)/sitemap.xml $(OUTDIR)/_all
+
+$(OUTDIR)/_all: $(MD_PAGES) generator/all_pages.sh | $(OUTDIR)
+	bash generator/all_pages.sh | \
+	pandoc -f markdown -t html5 --smart \
+		--base-header-level=2 --template=templates/default.html5 \
+		-M title:"List of all pages on this site" \
+		-o "$@"
 
 $(OUTDIR)/sitemap.xml: $(MD_PAGES) generator/sitemap.sh | $(OUTDIR)
 	sh generator/sitemap.sh
