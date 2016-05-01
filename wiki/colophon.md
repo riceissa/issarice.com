@@ -28,7 +28,7 @@ The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/ma
 Other aspects of the style sheet are inspired by [gitit](http://gitit.johnmacfarlane.net/), [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s (old) documentation pages.
 
 All of the source files necessary to build this site are hosted on GitHub.
-You can [visit the repository](https://github.com/riceissa/riceissa.com) by clicking “Website source” at the top of any page.
+You can [visit the repository](https://github.com/riceissa/riceissa.com) on GitHub.
 I also have a [mirror on BitBucket](https://bitbucket.org/riceissa/issarice.com/) (which is often behind, and should not be relied on).
 
 The actual site is served via [Linode](https://www.linode.com/), using Nginx on a 64-bit Debian 8 (Jessie) machine.
