@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Setting up Jekyll on GitHub
-last_major_revision_date: 2014-04-15
-license: "CC-BY"
+date: 2014-04-15
 tags: jekyll, github, linux
 status: notes
 ---

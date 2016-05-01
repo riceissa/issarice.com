@@ -1,10 +1,6 @@
 ---
-layout: default
 title: Quantified self
-comments: "yes"
-disqus-id: ed21e4a193dcf60da457f8371c6f8a83c1613fa6
-last_major_revision_date: 2014-07-26
-license: "CC-BY"
+date: 2014-07-26
 tags: qs, links, self-improvement
 aliases: overview-of-quantified-self
 ---

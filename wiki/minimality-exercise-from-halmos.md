@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Minimality exercise from Halmos
-comments: "yes"
-license: "CC-BY"
 tags: math, halmos, set-theory
 status: notes
 ---

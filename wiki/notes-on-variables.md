@@ -1,9 +1,5 @@
 ---
-layout: default
 title: Notes on variables
-comments: "yes"
-disqus-id: 25c65bb3f6a6be18ce493ca199a4a3a6620f376b
-license: "CC-BY"
 tags: math, logic
 ---
 

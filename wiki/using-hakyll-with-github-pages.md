@@ -1,10 +1,6 @@
 ---
-layout: default
 title: Using Hakyll with GitHub Pages
-comments: ""
-disqus-id: 
-last_major_revision_date: 2014-08-28
-license: "CC-BY"
+date: 2014-08-28
 tags: haskell, hakyll, github, linux
 ---
 

@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Two definitions for the least upper bound
-comments: "yes"
-disqus-id: 1596b07fb543d452926cdbe2d4ecc483edcb1c81
 tags: math, analysis
 ---
 

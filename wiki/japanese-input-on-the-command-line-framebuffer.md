@@ -1,10 +1,5 @@
 ---
-layout: default
 title: Japanese input on the command line (framebuffer)
-comments: ""
-disqus-id: 
-last_major_revision_date: 
-license: "CC-BY"
 tags: japan, linux
 ---
 
