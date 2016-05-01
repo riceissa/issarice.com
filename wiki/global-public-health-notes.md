@@ -1,6 +1,6 @@
 ---
 title: Global public health notes
-date: 2016-02-26
+date: 2016-04-30
 tags: global health
 status: notes
 ---
