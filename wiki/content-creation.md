@@ -314,6 +314,7 @@ Note that some of them have already been linked to on this page.
 - [Wikipedia]()
 - [mojix]()
 - [“He said, she said”]()
+- [wikiHow]()
 
 # External links
 
