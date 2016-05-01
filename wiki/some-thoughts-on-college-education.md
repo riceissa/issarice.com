@@ -1,18 +1,10 @@
 ---
 title: Some thoughts on college education
-feed_description: new Quora answer
 author: Issa Rice
-creation_date: 2015-04-23
-last_major_revision_date: 2015-04-23
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
+date: 2015-04-23
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
 tags: uw, education, school, advice
-#aliases: 
 ---
 
 I wrote this answer on Quora today in response to the question "I've completed my freshman year of university with a 4.0 GPA, yet I feel something is missing. How do I make college the most fulfilling, enlightening experience possible?"
