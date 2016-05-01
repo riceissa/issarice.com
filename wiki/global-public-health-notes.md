@@ -3,7 +3,6 @@ title: Global public health notes
 date: 2016-02-26
 tags: global health
 status: notes
-belief: possible
 ---
 
 *These are some notes on global public health as part of a larger project.
@@ -173,6 +172,13 @@ Specifically, I'm interested in anti-aging.
 
 Some parts of early history of philanthropy are less relevant.
 For instance, the way in which nonprofits became codified in US law was important the first time around (i.e. for currently-existing philanthropy), but is less relevant for newer developments like anti-aging, since these laws are already in place.
+
+# More questions
+
+- Which diseases did global health focus on and why?
+- What does the global fight against disease look like?
+What does it look like generally and for each disease?
+- How do diseases vary based on various parameters (e.g. microbe type, transmission method, contagiousness, lethality)?
 
 [^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
 
