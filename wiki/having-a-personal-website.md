@@ -70,7 +70,7 @@ For instance, I post all of my research relevant to [cause prioritization]() on 
 
 In addition, there is often information that cannot fit in other places.
 For instance, where does one put information about the account names one uses on various sites, or one's contact information?
-Or if one wanted to write monthly updates on the progress one makes on various projects, like [gwern](http://www.gwern.net/Changelog) and [Vipul Naik](http://vipulnaik.com/blog/tag/month-in-review/).
+Or if one wanted to write monthly or quarterly updates on the progress one makes on various projects, like [gwern](http://www.gwern.net/Changelog) and [Vipul Naik](http://vipulnaik.com/blog/tag/month-in-review/).
 
 
 # Notes on having mine
