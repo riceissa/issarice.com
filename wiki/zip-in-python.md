@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Zip in Python
-comments: "yes"
-license: "CC-BY"
 tags: math, python, computer-science
 ---
 
