@@ -16,8 +16,9 @@ $(OUTDIR):
 $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 	pandoc -f markdown -t html5 --smart --toc --toc-depth=4 --mathjax \
 		--base-header-level=2 --template=templates/default.html5 \
-		--filter generator/url_filter.py -o \
-		"$@" "$<"
+		--filter generator/url_filter.py \
+		-M sourcefilename:"$<" \
+		-o "$@" "$<"
 
 $(OUTDIR)/%: images/% | $(OUTDIR)
 	cp "$<" "$@"
