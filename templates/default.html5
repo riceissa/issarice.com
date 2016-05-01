@@ -21,7 +21,7 @@ $endif$
   <meta property="og:image:width" content="300" />
   <meta property="og:image:height" content="300" />
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
-  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$ | Issa Rice</title>
   <style type="text/css">code{white-space: pre;}</style>
 $if(quotes)$
   <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
