@@ -30,3 +30,4 @@ some pages that may be of interest:
 - [Notes on math](math)
 - [Pages related to education](education)
 - [Quora](): a mirror of [my Quora answers]()
+- [List of all pages on this site](_all), which is ordered by the date of last modification.
