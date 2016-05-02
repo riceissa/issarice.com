@@ -2,7 +2,7 @@ The '''3 by 5 Initiative''' was an initiative of the [[World Health Organization
 
 ==Strategy==
 
-The 3 by 5 Initiative was guided by five "strategic pillars":<ref name="making_it_happen">{{cite web |url=http://www.who.int/3by5/publications/documents/en/3by5StrategyMakingItHappen.pdf |title=Treating 3 million by 2005: Making it happen - The WHO Strategy |accessdate=May 2, 2016 |date=2003 |publisher=World Health Organization}}</ref>
+The 3 by 5 Initiative was guided by five "strategic pillars":<ref name="making_it_happen">{{cite web |url=http://www.who.int/3by5/publications/documents/en/3by5StrategyMakingItHappen.pdf |title=Treating 3 million by 2005: Making it happen - The WHO Strategy |accessdate=May 2, 2016 |date=2003 |publisher=World Health Organization}}</ref>{{rp|11}}
 
 * global leadership, str ong par tnership and advocacy
 * urgent, sustained country support
