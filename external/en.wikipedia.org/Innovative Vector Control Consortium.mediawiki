@@ -1,0 +1,31 @@
+The '''Innovative Vector Control Consortium''' (IVCC) is a [[Public–private partnership#Product development partnerships|product development partnership]] that develops new insecticides for [[vector control]] and researches ways to use existing pesticides more effectively.<ref name=organizations>{{cite web |title=Useful Links to Organizations, Institutions and Events |website=Malaria Nexus |url=http://www.malarianexus.com/links/ |accessdate=May 2, 2016 |publisher=Elsevier}}</ref> IVCC was established in 2005<ref name=gates>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2010/11/IVCC-Develops-New-Public-Health-Insecticides |accessdate=May 2, 2016 |title=IVCC Develops New Public Health Insecticides |publisher=Bill & Melinda Gates Foundation |date=2010}}</ref> and became registered as a nonprofit in 2008.<ref name=organizations/>
+
+==Partnerships==
+
+IVCC has partners across both public and private sectors, including in industry and academia, and with funders, [[non-governmental organization]]s, and nonprofits.<ref>{{cite web |url=http://www.ivcc.com/building-partnerships/our-partners |publisher=IVCC |accessdate=May 2, 2016 |title=Our partners}}</ref>
+
+IVCC has partnered with [[NGenIRS]] and [[Innovation to Impact]] as well as with companies including [[Syngenta]].<ref>{{cite web |url=http://www.ivcc.com/building-partnerships/our-partners/industry |title=Industry |publisher=IVCC}}</ref>
+
+IVCC has also partnered with the [[Armed Forces Pest Management Board]] to discuss improvements to [[indoor residual spraying]] as well as devising new methods of vector control.<ref>{{cite web |url=https://malariajournal.biomedcentral.com/articles/10.1186/s12936-015-0907-9 |title=Disruptive technology for vector control: the Innovative Vector Control Consortium and the US Military join forces to explore transformative insecticide application technology for mosquito control programmes |author=Jennifer Knapp, Michael Macdonald, David Malone, Nicholas Hamon and Jason H. Richardson}}</ref>
+
+==Organizational structure==
+
+* Nick Hamon is the [[chief executive officer]] of IVCC.<ref>{{cite web |title=Dr Nick Hamon |url=http://www.ivcc.com/about/ivcc-team/dr-nick-hamon}}</ref>
+* [[Janet Hemingway]] works on advocacy and resource mobilization (and was previously the chief executive officer) at IVCC.<ref>{{cite web |url=http://www.ivcc.com/about/ivcc-team/prof-janet-hemingway |title=Prof Janet Hemingway}}</ref>
+
+==Funding==
+
+IVCC was originally funded by the [[Bill & Melinda Gates Foundation]] with a grant of $50.7 million over five years.<ref name=organizations/>
+
+In 2010 the Gates Foundation awarded a grant of $50 million for IVCC to continue its work.<ref name=gates/>
+
+IVCC has also been funded by [[UKaid]], [[USAID]], the [[Swiss Agency for Development]], [[UNITAID]], and [[Wellcome Trust]].<ref>{{cite web |url=http://www.ivcc.com/building-partnerships/our-partners/funders |title=Funders |publisher=IVCC |accessdate=May 2, 2016}}</ref>
+
+==See also==
+
+* [[Timeline of malaria]]
+
+==References==
+
+{{reflist|30em}}
+
