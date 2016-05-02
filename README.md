@@ -8,7 +8,7 @@ compile the site (Pandoc 1.17 with the Python
 
 ```bash
 # cd to the repo directory
-make
+make fullsite
 ```
 
 This will generate all resulting files under `_site`, which can
