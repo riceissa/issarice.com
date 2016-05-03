@@ -3,3 +3,4 @@
 - md filename should not contain a period (since images and sitemaps have periods)
 - double quotes must not be in the title (use unicode if quoting is needed)
 - md pages must be in the directory wiki/ as a flat structure
+- md files must have the extension ".md"
