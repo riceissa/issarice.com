@@ -1,6 +1,6 @@
-The '''Innovative Vector Control Consortium''' (IVCC) is a [[Public–private partnership#Product development partnerships|product development partnership]] that develops new insecticides for [[vector control]] and researches ways to use existing pesticides more effectively.<ref name=organizations>{{cite web |title=Useful Links to Organizations, Institutions and Events |website=Malaria Nexus |url=http://www.malarianexus.com/links/ |accessdate=May 2, 2016 |publisher=Elsevier}}</ref> IVCC was established in 2005<ref name=gates>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2010/11/IVCC-Develops-New-Public-Health-Insecticides |accessdate=May 2, 2016 |title=IVCC Develops New Public Health Insecticides |publisher=Bill & Melinda Gates Foundation |date=2010}}</ref> and became registered as a nonprofit in 2008.<ref name=organizations/>
+The '''Innovative Vector Control Consortium''' (IVCC) is a [[Public–private partnership#Product development partnerships|product development partnership]] that develops new insecticides for [[vector control]] and researches ways to use existing pesticides more effectively.<ref name=organizations>{{cite web |title=Useful Links to Organizations, Institutions and Events |website=Malaria Nexus |url=http://www.malarianexus.com/links/ |accessdate=May 2, 2016 |publisher=Elsevier}}</ref> IVCC was established in 2005<ref name=gates>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2010/11/IVCC-Develops-New-Public-Health-Insecticides |accessdate=May 2, 2016 |title=IVCC Develops New Public Health Insecticides |publisher=Bill & Melinda Gates Foundation |date=2010}}</ref> and became registered as a nonprofit in 2008.<ref name=organizations/> [[Liverpool School of Tropical Medicine]] is the parent company of IVCC.<ref>{{cite web |url=http://www.ivcc.com/download/file/fid/718 |title=Financial Statements |publisher=IVCC |year=2015}}</ref>
 
-==Partnerships==
+==Partnerships and work==
 
 IVCC has partners across both public and private sectors, including in industry and academia, and with funders, [[non-governmental organization]]s, and nonprofits.<ref>{{cite web |url=http://www.ivcc.com/building-partnerships/our-partners |publisher=IVCC |accessdate=May 2, 2016 |title=Our partners}}</ref>
 
@@ -8,10 +8,14 @@ IVCC has partnered with [[NGenIRS]] and [[Innovation to Impact]] as well as with
 
 IVCC has also partnered with the [[Armed Forces Pest Management Board]] to discuss improvements to [[indoor residual spraying]] as well as devising new methods of vector control.<ref>{{cite web |url=https://malariajournal.biomedcentral.com/articles/10.1186/s12936-015-0907-9 |title=Disruptive technology for vector control: the Innovative Vector Control Consortium and the US Military join forces to explore transformative insecticide application technology for mosquito control programmes |author=Jennifer Knapp, Michael Macdonald, David Malone, Nicholas Hamon and Jason H. Richardson}}</ref>
 
+IVCC also funds the [[Malaria Decision Support System]] project in Malawi.<ref>{{cite web |title=How Much Does Malaria Vector Control Quality Matter: The Epidemiological Impact of Holed Nets and Inadequate Indoor Residual Spraying |url=http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0019205 |author= Andrea M. Rehman, Mike Coleman, Christopher Schwabe, Giovanna Baltazar, Abrahan Matias, Irina Roncon Gomes, Lee Yellott, Cynthia Aragon, Gloria Nseng Nchama, Themba Mzilahowa, Mark Rowland, Immo Kleinschmidt |date=April 29, 2011}}</ref>
+
+IVCC also funds other projects that focus on malaria and [[dengue]] control.<ref>{{cite book |title=Vector-Borne Diseases: Understanding the Environmental, Human Health, and Ecological Connections, Workshop Summary (Forum on Microbial Threats) |publisher=National Academies Press |year=2008 |url=https://books.google.com/books?id=GhNkAgAAQBAJ}}</ref>{{rp|151}}
+
 ==Organizational structure==
 
-* Nick Hamon is the [[chief executive officer]] of IVCC.<ref>{{cite web |title=Dr Nick Hamon |url=http://www.ivcc.com/about/ivcc-team/dr-nick-hamon}}</ref>
-* [[Janet Hemingway]] works on advocacy and resource mobilization (and was previously the chief executive officer) at IVCC.<ref>{{cite web |url=http://www.ivcc.com/about/ivcc-team/prof-janet-hemingway |title=Prof Janet Hemingway}}</ref>
+* Nick Hamon is the [[chief executive officer]] of IVCC.<ref>{{cite web |title=Dr Nick Hamon |url=http://www.ivcc.com/about/ivcc-team/dr-nick-hamon |publisher=IVCC}}</ref>
+* [[Janet Hemingway]] works on advocacy and resource mobilization (and was previously the chief executive officer) at IVCC.<ref>{{cite web |url=http://www.ivcc.com/about/ivcc-team/prof-janet-hemingway |title=Prof Janet Hemingway |publisher=IVCC}}</ref>
 
 ==Funding==
 
