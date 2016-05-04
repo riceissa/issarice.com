@@ -1,0 +1,43 @@
+The '''child survival revolution''' (also called the '''child survival and development revolution'''<ref name="gautam">{{cite web |url=http://www.huffingtonpost.com/kul-chandra-gautam/child-mortality_b_1619727.html |title=USAID and UNICEF: A Winning Partnership for Child Survival and Development |author=Kul Chandra Gautam |date=August 22, 2012 |publisher=Huffington Post}}</ref><ref name="gates">{{cite web |url=http://www.impatientoptimists.org/Posts/2011/02/Jim-Grants-Child-Survival-Revolution |title= Jim Grant's 'Child Survival Revolution' |date= February 17, 2011 |author=Bill Gates}}</ref>) was an effort started by [[UNICEF]] (but joined by others) to reduce child mortality. The child survival revolution included various programs and conferences. Rather than treating child mortality as a measurement of development, the effort sought to directly reduce child mortality as a way toward development.<ref name="unicef">{{cite web |url=http://www.unicef.org/sowc96/1980s.htm |title=The 1980s: Campaign for child survival |publisher=UNICEF}}</ref>
+
+started officially in 1982 
+
+"immunization and ORT were seen as the 'twin-engines' of the child survival revolution"<ref name=gautam/><ref name="jim_grant_book">{{cite book |title=Jim Grant: UNICEF Visionary |author=Peter Adamson, Carol Bellamy, Kul Gautam, Richard Jolly, Nyi Nyi, Mary Racelis, Richard Reid, Jon Rohde |year=2001 |url=http://www.unicef.org/publications/index_4402.html |publisher=UNICEF Innocenti Research Centre}}</ref>{{rp|23}}
+
+also talk about [[Convention on the Rights of the Child]]
+
+as part of the revolution, Grant persuaded the [[United Nations]] to convene the [[World Summit for Children]] in 1990.<ref name=gautam/>
+
+UNICEF took advantage of the growing levels of basic education and access to television and radio to generate support for the child survival revolution through persuasion.<ref name=unicef/>
+
+Although the revolution was started by UNICEF, other organizations, including the [[Rockefeller Foundation]], [[UNDP]], the [[World Bank]], and [[WHO]] joined; thus the revolution is sometimes called "a grand alliance for children".<ref name=unicef/>
+
+In 1982, Grant and Unicef launched the child survival revolution and unveiled a simple but effective strategy for reducing child fatality. His strategy was known as [[GOBI-FFF]]: “G for growth monitoring to detect undernutrition in small children, O for oral rehydration therapy to treat childhood diarrhea, B to encourage breastfeeding (which had declined precipitously due to working mothers and the marketing of infant formula), and I for immunization against the six basic childhood diseases: tuberculosis, polio, diphtheria, tetanus, whooping cough, and measles. (They added two Fs: food supplements and family planning; and, later, a third: female education.)” <ref>David Bornstein (2007). How to Change the World: Social Entrepreneurs and the Power of New Ideas New York: Oxford University Press pp. 250</ref>
+
+It is estimated that the child vaccination increased from 20 to 80 percent worldwide in 1990 because of Grant’s “child survival revolution.”  <ref>Maggie Black, Children First: The Story of UNICEF, Past and Present (New York: Oxford University Press, 1996), 33; see also UNICEF, The State of the World’s Children 1986 (New York: Oxford University Press, 1985), 5.</ref>
+
+==Reception==
+
+The initial reaction to Grant's announcement of the child survival revolution was overwhelmingly negative due to several reasons, including practical reasons (e.g. the money and infrastructure to support Grant's plans not existing).<ref name=jim_grant_book/>{{rp|24}}
+
+==Focus areas==
+
+==Organizations involved==
+
+==Questions (remove later)==
+
+* how is CSR different from GOBI-FFF?
+* when did CSR end?
+* what were all the orgs involved in CSR?
+* what did CSR accomplish?
+* what specific programs were part of CSR? did CSR even have a strict boundary?
+* is CSR different from "the work Jim Grant did as head of UNICEF"?
+
+==See also==
+
+* [[Timeline of global health]]
+
+==References==
+
+{{reflist|30em}}
+
