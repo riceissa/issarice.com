@@ -127,10 +127,6 @@ NEW:
   One solution is subdomains, but this is a bit tricky if one wants to have a locally-generated site. We could also do something like issarice.com/wiki/en/pagename1 for the english page, but then this breaks compatibility with what already exists. One solution is to have all the main pages flat (which are english for the time being), but then have a few "blacklisted" pages that cannot be created. This is already the case with "tags", "images" (though this one isn't really true, since images are added to the flat issarice.com/ ), "static".
   We could then add to this blacklist e.g. single alpha characters a..z, which we can use for further things.
   Like 'c' could stand for "content", so we could then just have issarice.com/c/wiki/en/pagename1, for instance. Then still the most obvious place to go (which is issarice.com/pagename1) will work, while the more "logical" placement will also work.
-- write a "plugin feature" so it's easier to add things later??
-- go through generator.py, metadata.py, and commands.py (and maybe also
-  tag_ontology.py) to document code.
-- use classes instead of purely procedural stuff (do this slowly)
 
 - efficiency?? -- right now, it takes about 30 seconds to process all
   files. It used to be that generator.py took 9 seconds while hakyll
