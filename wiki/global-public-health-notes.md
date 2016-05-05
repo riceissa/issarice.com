@@ -38,6 +38,8 @@ This section considers whether global health has become successful to the point 
 
 One evidence is the existence of [donor fatigue](!w).
 
+James Grant also often refers to a "silent emergency" (e.g. [here](http://www.nytimes.com/1984/12/20/us/big-drop-foreseen-in-infant-deaths.html)).
+
 # When and how did global health become a movement?
 
 Some relevant Quora questions I've asked that might spring up useful information:
