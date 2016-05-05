@@ -121,7 +121,6 @@ NEW:
   the raw LaTeX in an unobtrusive way when the user is on a text-only
   browser.
 
-- doing `import html` or `from html import escape` breaks the compilation process at the step of applying the pandoc filter (see commit `ef8e9b9d1a534150a7146f680a3778eab6f26a6b`)
 - decide what to do about the problem of adding multiple languages/other parameters.
   right now the structure is flat, i.e. everything comes after issarice.com/ . But what if we have another language, and want to have pagename1 for both languages (maybe they are even the exact same word in each language).
   One solution is subdomains, but this is a bit tricky if one wants to have a locally-generated site. We could also do something like issarice.com/wiki/en/pagename1 for the english page, but then this breaks compatibility with what already exists. One solution is to have all the main pages flat (which are english for the time being), but then have a few "blacklisted" pages that cannot be created. This is already the case with "tags", "images" (though this one isn't really true, since images are added to the flat issarice.com/ ), "static".
