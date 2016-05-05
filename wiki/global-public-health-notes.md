@@ -16,7 +16,7 @@ This section collects information on to what extent this is true.
 
 From "[Philanthropy's success stories](http://blog.givewell.org/2012/03/01/philanthropys-success-stories/)" on the GiveWell blog:
 
-> Philanthropy has some extremely impressive accomplishments. Among other
+> **Philanthropy has some extremely impressive accomplishments.** Among other
 > things, foundations have been (in my view) reasonably credited for leading
 > the way on building schools and hospitals in the rural Southern U.S.,
 > piloting the shoulder line on U.S. roads, successfully advocating for federal
@@ -29,8 +29,8 @@ From "[Philanthropy's success stories](http://blog.givewell.org/2012/03/01/phila
 >
 > [...]
 >
-> The most impressive achievements (in my view) are concentrated in the sectors
-> of research (particularly medical research) and health care.
+> **The most impressive achievements (in my view) are concentrated in the
+> sectors of research (particularly medical research) and health care.**
 
 # When and how did global health become a movement?
 
