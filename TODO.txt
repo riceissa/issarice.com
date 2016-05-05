@@ -115,8 +115,6 @@ NEW:
     for getting the top navbar and sidebar to play nicely. (set width in
     the sidebar and conditionally set a left-margin in the top bar)
 
-- also should i switch to HTML5?
-
 - make mathjax the default math display if javascript is available, but
   *somehow* detect and switch to image-based math (like wikipedia's
   default) when javascript isn't available. moreover, somehow just show
