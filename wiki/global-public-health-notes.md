@@ -32,6 +32,12 @@ From "[Philanthropy's success stories](http://blog.givewell.org/2012/03/01/phila
 > **The most impressive achievements (in my view) are concentrated in the
 > sectors of research (particularly medical research) and health care.**
 
+# Global health as a "boring" cause
+
+This section considers whether global health has become successful to the point where it is considered "boring".
+
+One evidence is the existence of [donor fatigue](!w).
+
 # When and how did global health become a movement?
 
 Some relevant Quora questions I've asked that might spring up useful information:
