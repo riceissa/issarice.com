@@ -121,7 +121,7 @@ We discuss the advantages and disadvantages of each.
 
 ## Self-hosted
 
-- Depends a lot on how knowledeable one is, although even if one isn't, it's a great learning opportunity.
+- Depends a lot on how knowledgeable one is, although even if one isn't, it's a great learning opportunity.
 - Usually costs money, though there might be special opportunities like the [Student Developer Pack](https://education.github.com/pack).
 
 ## Third-party
