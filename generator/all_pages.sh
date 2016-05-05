@@ -7,7 +7,7 @@
 # solution of bringing in dependencies like PyYaml, parsing the whole header,
 # and then generating date-dependent pages using that.
 
-echo "This is a list of all pages on this site, ordered by the date of last modification."
+echo "This is a list of all pages on this site, ordered by the date of last modification. Note that even insubstantial edits are taken into account when calculating the last modification date, so the ordering differs from the ordering obtained when sorting by the date when the last substantial edit was made on each page."
 echo ""
 {
     git ls-tree -r --name-only HEAD | while read filename; do
