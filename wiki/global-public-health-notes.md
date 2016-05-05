@@ -8,6 +8,30 @@ status: notes
 *These are some notes on global public health as part of a larger project.
 The final results will likely not be published here (but I will try to link to them from here when they're done), but this is the most convenient place for notes.*
 
+# Global health as a success story
+
+Part of my interest in global health comes from the view that global health is seen as a success story in philanthropy.
+To use the language of cause prioritization, global health is a successful and "safe" cause.
+This section collects information on to what extent this is true.
+
+From "[Philanthropy's success stories](http://blog.givewell.org/2012/03/01/philanthropys-success-stories/)":
+
+> Philanthropy has some extremely impressive accomplishments. Among other
+> things, foundations have been (in my view) reasonably credited for leading
+> the way on building schools and hospitals in the rural Southern U.S.,
+> piloting the shoulder line on U.S. roads, successfully advocating for federal
+> legislation in areas including health care for the homeless and nuclear
+> deproliferation, the research that led to the Green Revolution, and many
+> major advances in medical research (including the first combination drug
+> therapy for AIDS and the development of the pap smear). There are many other
+> projects that sound like they may have been impactful, but which the Casebook
+> doesn’t give enough context on for me to have a strong view.
+>
+> [...]
+>
+> The most impressive achievements (in my view) are concentrated in the sectors
+> of research (particularly medical research) and health care.
+
 # When and how did global health become a movement?
 
 Some relevant Quora questions I've asked that might spring up useful information:
