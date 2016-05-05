@@ -100,8 +100,8 @@ $endif$
 </header>
 $endif$
 $if(toc)$
-<h2>Contents</h2>
 <nav id="$idprefix$TOC">
+<h2 id="TOCheading">Contents</h2>
 $toc$
 </nav>
 $endif$
