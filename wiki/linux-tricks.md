@@ -336,6 +336,8 @@ $ fc-match "Arial"
 Arial.ttf: "Arial" "Normal"
 ```
 
+Also try `fc-list` for the exact locations.
+
 # Audio glitches/stuttering/repeating
 
 Upgrading on Ubuntu/Linux Mint caused odd audio glitches while playing music.
