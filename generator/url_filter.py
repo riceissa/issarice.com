@@ -29,7 +29,17 @@
 # For more information, please refer to <http://unlicense.org/>
 
 from pandocfilters import toJSONFilter, stringify, Link
-from slugify import slugify_unicode
+
+def slug(s):
+    '''
+    "Slugify" the string s as follows: keep only the characters that are
+    alphabetic or numerical, and group them together; all other characters are
+    replaced by "-" and squeezed together.
+    '''
+    s = s.lower()
+    s = "".join(c if (c.isalpha() or c.isdigit()) else "-" for c in s)
+    s = "-".join(filter(bool, s.split("-")))
+    return s
 
 def url_filter(key, value, format_, meta):
     '''
@@ -62,7 +72,7 @@ def url_filter(key, value, format_, meta):
             url = "http://duckduckgo.com/?q=" + url + " " + stringify(txt)
         elif url == '':
             # So we want to internally link txt
-            url = slugify_unicode(stringify(txt), to_lower=True)
+            url = slug(stringify(txt))
             url = "./" + url
         urllst = [url, urllst[1]]
         return Link(attr, txt, urllst)
