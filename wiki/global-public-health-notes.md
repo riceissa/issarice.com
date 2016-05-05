@@ -14,7 +14,7 @@ Part of my interest in global health comes from the view that global health is s
 To use the language of cause prioritization, global health is a successful and "safe" cause.
 This section collects information on to what extent this is true.
 
-From "[Philanthropy's success stories](http://blog.givewell.org/2012/03/01/philanthropys-success-stories/)":
+From "[Philanthropy's success stories](http://blog.givewell.org/2012/03/01/philanthropys-success-stories/)" on the GiveWell blog:
 
 > Philanthropy has some extremely impressive accomplishments. Among other
 > things, foundations have been (in my view) reasonably credited for leading
