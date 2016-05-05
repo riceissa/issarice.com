@@ -2,6 +2,8 @@ The '''child survival revolution''' (also called the '''child survival and devel
 
 started officially in 1982 
 
+the child survival revolution was analogized with the [[Green Revolution]] by James Grant.<ref name=jim_grant_book/>{{rp|42}}
+
 "immunization and ORT were seen as the 'twin-engines' of the child survival revolution"<ref name=gautam/><ref name="jim_grant_book">{{cite book |title=Jim Grant: UNICEF Visionary |author=Peter Adamson, Carol Bellamy, Kul Gautam, Richard Jolly, Nyi Nyi, Mary Racelis, Richard Reid, Jon Rohde |year=2001 |url=http://www.unicef.org/publications/index_4402.html |publisher=UNICEF Innocenti Research Centre}}</ref>{{rp|23}}
 
 also talk about [[Convention on the Rights of the Child]]
@@ -12,17 +14,31 @@ UNICEF took advantage of the growing levels of basic education and access to tel
 
 Although the revolution was started by UNICEF, other organizations, including the [[Rockefeller Foundation]], [[UNDP]], the [[World Bank]], and [[WHO]] joined; thus the revolution is sometimes called "a grand alliance for children".<ref name=unicef/>
 
-In 1982, Grant and Unicef launched the child survival revolution and unveiled a simple but effective strategy for reducing child fatality. His strategy was known as [[GOBI-FFF]]: “G for growth monitoring to detect undernutrition in small children, O for oral rehydration therapy to treat childhood diarrhea, B to encourage breastfeeding (which had declined precipitously due to working mothers and the marketing of infant formula), and I for immunization against the six basic childhood diseases: tuberculosis, polio, diphtheria, tetanus, whooping cough, and measles. (They added two Fs: food supplements and family planning; and, later, a third: female education.)” <ref>David Bornstein (2007). How to Change the World: Social Entrepreneurs and the Power of New Ideas New York: Oxford University Press pp. 250</ref>
+In 1982, Grant and Unicef launched the child survival revolution and unveiled a simple but effective strategy for reducing child fatality. His strategy was known as [[GOBI-FFF]]:<ref>David Bornstein (2007). How to Change the World: Social Entrepreneurs and the Power of New Ideas New York: Oxford University Press pp. 250</ref> {{Quote|G for growth monitoring to detect undernutrition in small children, O for oral rehydration therapy to treat childhood diarrhea, B to encourage breastfeeding (which had declined precipitously due to working mothers and the marketing of infant formula), and I for immunization against the six basic childhood diseases: tuberculosis, polio, diphtheria, tetanus, whooping cough, and measles. (They added two Fs: food supplements and family planning; and, later, a third: female education.)}}
 
-It is estimated that the child vaccination increased from 20 to 80 percent worldwide in 1990 because of Grant’s “child survival revolution.”  <ref>Maggie Black, Children First: The Story of UNICEF, Past and Present (New York: Oxford University Press, 1996), 33; see also UNICEF, The State of the World’s Children 1986 (New York: Oxford University Press, 1985), 5.</ref>
+==Timeline==
 
-==Reception==
+{| class="sortable wikitable"
+! Year !! Event
+|-
+| 1982 || The child survival revolution is started by [[James P. Grant]] at UNICEF with the publication of the 1982–1983 ''[[The State of the World's Children]]'' report.
+|-
+| 2007 || Much of the momentum of the revolution is lost.<ref>{{cite web |url=http://www.nytimes.com/2007/05/07/health/07iht-kids.4.5603042.html?_r=0 |title=Some countries report hopeful trends in child mortality |author= CELIA W. DUGGER |publisher=''[[The New York Times]]''}}</ref>
+|}
+
+==Results and reception==
 
 The initial reaction to Grant's announcement of the child survival revolution was overwhelmingly negative due to several reasons, including practical reasons (e.g. the money and infrastructure to support Grant's plans not existing).<ref name=jim_grant_book/>{{rp|24}}
+
+It is estimated that the child vaccination increased worldwide from 20% in 1982(?) to 80% in 1990 because of the child survival revolution.<ref>Maggie Black, Children First: The Story of UNICEF, Past and Present (New York: Oxford University Press, 1996), 33; see also UNICEF, The State of the World’s Children 1986 (New York: Oxford University Press, 1985), 5.</ref>
+
+Writing in 1990, [[D. A. Henderson]] noted that although "dramatic progress" had been made because of the child survival revolution, the results were still "little-appreciated".<ref name=henderson/>
 
 ==Focus areas==
 
 ==Organizations involved==
+
+* [[Rotary International]] pledged to raise $120 million.<ref name="henderson">{{cite article |title=The Child Survival Revolution |author=[[D. A. Henderson]] |year=1990 |journal=Pediatric Research}}</ref>
 
 ==Questions (remove later)==
 
@@ -36,6 +52,7 @@ The initial reaction to Grant's announcement of the child survival revolution wa
 ==See also==
 
 * [[Timeline of global health]]
+* [[Malthusianism]]
 
 ==References==
 
