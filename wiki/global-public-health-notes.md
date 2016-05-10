@@ -198,6 +198,15 @@ From *A Mighty Purpose* (a book about James Grant) by Adam Fifield:
 
 - pg 52--53 (and subsequent pages, which give details): talks about the importance of focusing on the most important parts of a problem instead of trying to do everything. (Also that in the case of global health, these things could already be solved with existing technology instead of new technology.) Also how there was no "political will" to solve the problem of children's health despite all the technology and capability being there. (This became GOBI.)
 
+From the opening of *Portfolios of the Poor*:
+
+> Public awareness of global inequality has been heightened by outraged
+> citizens' groups, journalists, politicians, international organizations, and
+> pop stars. Newspapers report regularly on trends in worldwide poverty rates
+> and on global campaigns aimed at halving those rates. A daily income of less
+> than two dollars per person has become a widely recognized benchmark for
+> defining the world's poor. 
+
 # What does the success of global health tell us about other movements?
 
 Specifically, I'm interested in anti-aging.
