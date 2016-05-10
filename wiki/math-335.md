@@ -47,12 +47,12 @@ From 7th week:
   these problems are not the sort of "beautiful" or "interesting"
   problems that one would *naturally* gravitate toward (the sort of
   problems that are merely and divinely *present* because of their
-  inherent value, and meant to be solved by "elites"), but rather
+  inherent value, and meant to be solved by *elites*), but rather
   something mass-produced, to be consumed by the "mathematical masses"
   (i.e. those who are competent enough to do undergraduate math, but who
   haven't developed a good taste for problems), or
-  written due to the practical desire to *evaluate students*. These
-  problems are in fact no different from whiteboard interview question
+  written due to the *practical desire to evaluate students*. These
+  problems are in fact no different from whiteboard interview questions
   in programming, which have been criticized well elsewhere[^whiteboard].
 
       I will even say that because of this emphasis on cardboard-like
