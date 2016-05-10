@@ -1,0 +1,23 @@
+This is a '''timeline of [[poverty studies]]''', the study of how people live in poverty.
+
+==Big picture==
+
+{| class="sortable wikitable"
+! Time period !! Key developments
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Event !! Geographic location where poverty is studied
+|-
+| 1901 || ''[[Poverty, A Study of Town Life]]'' by [[Seebohm Rowntree]] is published. This study is widely considered a seminal work of sociology and marks the first usage of a poverty line in sociological research. || [[York]], England
+|-
+| 2009 || ''[[Portfolios of the Poor]]'' is published. Charity evaluator [[GiveWell]] has called this "the most credible attempt we've seen to understand how very low-income people in the developing world manage their finances".<ref>{{cite web |url=http://blog.givewell.org/2012/12/26/the-case-for-cash-2/ |title=The Case for Cash |author=Holden Karnofsky |date=December 26, 2012 |publisher=GiveWell}}</ref> || [[Bangladesh]], India, and South Africa<ref>{{cite web |url=http://www.portfoliosofthepoor.com/ |title=Portfolios of the Poor |accessdate=May 9, 2016}}</ref>
+|}
+
+==References==
+
+{{reflist|30em}}
+
