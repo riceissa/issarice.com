@@ -47,3 +47,4 @@ Some others:
 - [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
 - Hyouka OST
 - Hilary Hahn (via Andrew Ho)
+- Final Fantasy VII OST
