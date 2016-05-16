@@ -370,3 +370,19 @@ Note though that while the stuttering was so annoying as to make the computer un
 
 It might also possibly be some sort of power saving option kicking in.
 See [here](http://www.howtoeverything.net/linux/issues/remove-whistling-and-popping-sounds-intel-hda) if nothing works.
+
+# Use less like `tail -f`
+
+Instead of
+
+```
+tail -f filename
+```
+
+to continuously monitor the end of a file, it is possible to issue
+
+```
+less +F filename
+```
+
+One can then hit `Ctrl`-`c` to return to regular less, and hit `F` to return to the `tail -f` mode again.
