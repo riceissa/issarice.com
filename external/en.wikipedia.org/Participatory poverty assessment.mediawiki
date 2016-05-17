@@ -2,9 +2,9 @@
 
 ==History==
 
-In the 1980s, "project-based" activities were dominant. Before this, there were also household-survey approaches. This shifted to participatory activities in the 1990s after critiques of these traditional methods of measuring poverty.<ref name="mcgee">McGee, Rosemary, ed. ''Knowing Poverty''. London, GB: Routledge, 2012. ProQuest ebrary. Web. 11 May 2016.</ref>{{rp|1,3}}
+Before the 1990s, household-survey approaches were the main way to measure poverty. This shifted to participatory activities in the 1990s after critiques of these traditional methods.<ref name="mcgee">McGee, Rosemary, ed. ''Knowing Poverty''. London, GB: Routledge, 2012. ProQuest ebrary. Web. 11 May 2016.</ref>{{rp|1,3}}
 
-The term "participatory poverty assessment" was coined within the [[World Bank]] in 1992,<ref name=ppa_guide/> and was seen as a participatory form of poverty assessments (PAs).<ref name=mcgee/>{{rp|2}}
+The term "participatory poverty assessment" was coined within the [[World Bank]] in 1992,<ref name=ppa_guide/> and was seen as a participatory form of poverty assessments (PAs, i.e. survey-based appraoches).<ref name=mcgee/>{{rp|2,3}} 
 
 Early experiences of PPAs were in [[sub-Saharan Africa]] in the early 1990s.<ref name=mcgee/>{{rp|3}}
 
@@ -16,13 +16,11 @@ Later in the 1990s, "second generation" PPAs appeared, which tried to allow the 
 
 As of 2012, the [[World Bank]]'s [[Voices of the Poor]] is the largest PPA ever to have been conducted.<ref name=mcgee/>{{rp|4}}
 
-{{quote |text=PPAs devel- oped in response to the broadening thinking on the multidimensional character of poverty associated with such publications as the Bulletin on Vulnerability (Institute of Development Studies 1989) and Putting the Last First (Chambers 1983).  In the Bank, there was also ongoing project (as opposed to policy) work on understanding poverty and well-being through beneficiary assessments, participatory rural appraisals, devel- opmental anthropology approaches, and similar methods.<ref name=robb/>{{rp|3}}}}
-
 ==Rationale and comparison to previous methods==
 
 Both PPAs and traditional surveys contain both quantitative and qualitative information, as well as "subjective" and "objective" parts, so this is not necessarily a distinguishing feature of PPAs.<ref name=robb/>{{rp|4}} Rather:
 
-{{quote |text=Traditional survey data can be used to count, compare, and predict.  The strength of the PPA is not in counting but rather in under- standing hidden dimensions of poverty and analyzing causality and processes by which people fall into and get out of poverty.<ref name=robb/>{{rp|5}}}}
+{{quote |text=Traditional survey data can be used to count, compare, and predict.  The strength of the PPA is not in counting but rather in understanding hidden dimensions of poverty and analyzing causality and processes by which people fall into and get out of poverty.<ref name=robb/>{{rp|5}}}}
 
 PPAs are also distinguished from anthropological studies because the latter analyze few communities in depth, whereas PPAs analyze various communities of a country. PPAs also focus on policy decisions (which anthropological studies don't need to).<ref name=robb/>{{rp|5,6}}
 
@@ -41,6 +39,8 @@ PPAs can last from several weeks to several months.<ref name=robb/>{{rp|7}}
 
 ==Organizations using this approach==
 
+Various organizations have used PPAs as part of their work.
+
 * [[World Bank]]
 * [[United Nations Development Programme]] (UNDP)<ref name=robb/>{{rp|3}}
 * [[Department for International Development]]<ref name=robb/>{{rp|17}}
@@ -54,7 +54,7 @@ In addition, "secondary stakeholders" (i.e. organizations that do not conduct PP
 
 ==Results==
 
-Participatory poverty assessments confirmed the multidimensional nature of poverty (i.e. that the poor deal with lack of resources, poor health, physical violence, social isolation, etc.) that was seen from traditional household questionnaire-based methods.<ref name="robb">{{cite web |url=http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/07/22/000094946_99040105542482/Rendered/PDF/multi_page.pdf |title=Can the Poor Influence Policy? Participatory Poverty Assessments in the Developing World |author=Caroline M. Robb |year=1999 |publisher=[[International Bank for Reconstruction and Development]]}}</ref>{{rp|vi}} PPAs have also been able to access information that was not obtained in household surveys by building trust. For instance PPAs have obtained information on sensitive topics such as [[child prostitution]], drug use, and [[domestic violence]] in relation to poverty.<ref name=robb/>{{rp|xiv}}
+Participatory poverty assessments confirmed the multidimensional nature of poverty (i.e. that the poor deal not just with lack of money, but with various problems like lack of resources, poor health, physical violence, social isolation, etc.) that was seen from traditional household questionnaire-based methods.<ref name="robb">{{cite web |url=http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/07/22/000094946_99040105542482/Rendered/PDF/multi_page.pdf |title=Can the Poor Influence Policy? Participatory Poverty Assessments in the Developing World |author=Caroline M. Robb |year=1999 |publisher=[[International Bank for Reconstruction and Development]]}}</ref>{{rp|vi}} PPAs have also been able to access information that was not obtained in household surveys by building trust. For instance PPAs have obtained information on sensitive topics such as [[child prostitution]], drug use, and [[domestic violence]] in relation to poverty.<ref name=robb/>{{rp|xiv}}
 
 In [[Zambia]], PPAs discovered that the timing of school fees caused economic stress for households, so new legislation to change this timing was proposed.<ref name=robb/>{{rp|xv}}
 
@@ -62,20 +62,11 @@ In [[Niger]], a PPA found that the poor see education only as a seventh priority
 
 PPAs have also informed World Bank's [[World Development Report]]s.<ref name=robb/>{{rp|vi}}
 
-==Reception==
-
 ==See also==
 
 *[[Participation (decision making)]]
 *[[Participatory monitoring]]
 *[[Participatory action research]]
-*[[Timeline of poverty studies]]
-
-*[[Poverty assessment]]
-*[[Participatory assessment group]]
-*[[Public expenditure review]]
-*[[Participatory monitoring and evaluation]]
-*[[Participatory policy research]]
 
 ==References==
 
