@@ -8,7 +8,7 @@ The term "participatory poverty assessment" was coined within the [[World Bank]]
 
 Early experiences of PPAs were in [[sub-Saharan Africa]] in the early 1990s.<ref name=mcgee/>{{rp|3}}
 
-By 1999, 43 PPAs had been conducted: 28 in Africa, 6 in Latin America, 5 in Eastern Europe, and 4 in Asia.<ref name=robb/>{{rp|xiii,xiv}}
+By 1998, 43 PPAs had been conducted: 28 in Africa, 6 in Latin America, 5 in Eastern Europe, and 4 in Asia.<ref name=robb/>{{rp|xiii,xiv,15}}
 
 Early PPAs focused most on making higher quality information available to policy makers, rather than seeing the poor as itself being involved in the process of reducing poverty.<ref name=mcgee/>{{rp|3}}
 
@@ -18,20 +18,47 @@ As of 2012, the [[World Bank]]'s [[Voices of the Poor]] is the largest PPA ever 
 
 {{quote |text=PPAs devel- oped in response to the broadening thinking on the multidimensional character of poverty associated with such publications as the Bulletin on Vulnerability (Institute of Development Studies 1989) and Putting the Last First (Chambers 1983).  In the Bank, there was also ongoing project (as opposed to policy) work on understanding poverty and well-being through beneficiary assessments, participatory rural appraisals, devel- opmental anthropology approaches, and similar methods.<ref name=robb/>{{rp|3}}}}
 
-==Types of activities==
+==Rationale and comparison to previous methods==
 
-Both PPAs and traditional surveys contain both quantitative and qualitative information, as well as "subjective" and "objective" parts, so this is not necessarily a distinguishing feature of PPAs.<ref name=robb/>{{rp|3}}
+Both PPAs and traditional surveys contain both quantitative and qualitative information, as well as "subjective" and "objective" parts, so this is not necessarily a distinguishing feature of PPAs.<ref name=robb/>{{rp|4}} Rather:
+
+{{quote |text=Traditional survey data can be used to count, compare, and predict.  The strength of the PPA is not in counting but rather in under- standing hidden dimensions of poverty and analyzing causality and processes by which people fall into and get out of poverty.<ref name=robb/>{{rp|5}}}}
+
+PPAs are also distinguished from anthropological studies because the latter analyze few communities in depth, whereas PPAs analyze various communities of a country. PPAs also focus on policy decisions (which anthropological studies don't need to).<ref name=robb/>{{rp|5,6}}
+
+==Types of methodologies and activities==
+
+Within PPAs, various methodologies exist. Some PPAs use more than one methodology.<ref name=robb/>{{rp|6}}
+
+* Field work and conducting interviews<ref name=robb/>{{rp|5}}
+* Rapid rural appraisal
+* [[Participatory rural appraisal]] (includes use of visuals, such as matrices and diagramming)
+* SARAR (self-esteem, associative strength, resourcefulness, action planning, and responsibility)
+* Beneficiary assessment
+* Semistructured interviews and focus groups
+
+PPAs can last from several weeks to several months.<ref name=robb/>{{rp|7}}
 
 ==Organizations using this approach==
 
 * [[World Bank]]
 * [[United Nations Development Programme]] (UNDP)<ref name=robb/>{{rp|3}}
+* [[Department for International Development]]<ref name=robb/>{{rp|17}}
+* [[ActionAid]]
+* [[Asian Development Bank]]
+* [[Danish International Development Agency]]
+* [[Oxfam UK]]
+* [[Thailand Development Research Institute]]
+
+In addition, "secondary stakeholders" (i.e. organizations that do not conduct PPAs directly, but participate in PPAs) such as [[UNICEF]], various NGOs (e.g. [[Save the Children]] and [[Oxfam]]), academic institutions, etc., have also participated in PPAs.<ref name=robb/>{{rp|5}}
 
 ==Results==
 
 Participatory poverty assessments confirmed the multidimensional nature of poverty (i.e. that the poor deal with lack of resources, poor health, physical violence, social isolation, etc.) that was seen from traditional household questionnaire-based methods.<ref name="robb">{{cite web |url=http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/1999/07/22/000094946_99040105542482/Rendered/PDF/multi_page.pdf |title=Can the Poor Influence Policy? Participatory Poverty Assessments in the Developing World |author=Caroline M. Robb |year=1999 |publisher=[[International Bank for Reconstruction and Development]]}}</ref>{{rp|vi}} PPAs have also been able to access information that was not obtained in household surveys by building trust. For instance PPAs have obtained information on sensitive topics such as [[child prostitution]], drug use, and [[domestic violence]] in relation to poverty.<ref name=robb/>{{rp|xiv}}
 
 In [[Zambia]], PPAs discovered that the timing of school fees caused economic stress for households, so new legislation to change this timing was proposed.<ref name=robb/>{{rp|xv}}
+
+In [[Niger]], a PPA found that the poor see education only as a seventh priority for poverty reduction due to "the concern that what children learn had little relevance to getting people out of poverty". As a result of this PPA, food security was prioritized.<ref>{{cite web |url=http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2006/09/21/000160016_20060921172552/Rendered/PDF/373930PAPER0NE0participatory0poverty.pdf |title=Participatory Poverty Assessment - Niger}}</ref>{{rp|vii}}
 
 PPAs have also informed World Bank's [[World Development Report]]s.<ref name=robb/>{{rp|vi}}
 
@@ -40,7 +67,6 @@ PPAs have also informed World Bank's [[World Development Report]]s.<ref name=rob
 ==See also==
 
 *[[Participation (decision making)]]
-*[[Participatory rural appraisal]]
 *[[Participatory monitoring]]
 *[[Participatory action research]]
 *[[Timeline of poverty studies]]
