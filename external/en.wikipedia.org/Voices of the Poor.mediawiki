@@ -1,2 +1,33 @@
-'''Voices of the Poor''' was an effort in the 1990s through 2000 by the [[World Bank]] to collect the experiences of the poor across the world. The name is also used for the reports that were eventually published from the effort. Voices of the Poor is an example of a [[participatory poverty assessment]].
+'''Voices of the Poor''' was an effort in the 1990s through 2000 by the [[World Bank]] to collect the experiences of the poor across the world. The name is also used for the reports that were eventually published from the effort. The effort consisted of two parts: primary research using [[participatory poverty assessment]] (PPA)<ref name="mcgee">McGee, Rosemary, ed. ''Knowing Poverty''. London, GB: Routledge, 2012. ProQuest ebrary. Web. 11 May 2016.</ref>{{rp|4}} in 23 countries, and reviews of existing PPAs and other participatory research. The project was originally called "Consultations with the Poor", but was changed to "Voices of the Poor" in late 1999.<ref name=mcgee/>{{rp|12}}
+
+Voices of the Poor also informed the 2000 [[World Development Report]].<ref name=mcgee/>{{rp|4}}
+
+==Publications==
+
+The three volumes of books published as part of the project are:<ref>{{cite web |archive-url=https://web.archive.org/web/20120621183519/http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/0,,contentMDK:20612393~menuPK:336998~pagePK:148956~piPK:216618~theSitePK:336992~isCURL:Y,00.html |archive-date=June 21, 2012 |url=http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTPOVERTY/0,,contentMDK:20612393~menuPK:336998~pagePK:148956~piPK:216618~theSitePK:336992~isCURL:Y,00.html |title=Overview |publisher=World Bank |accessdate=May 17, 2016}}</ref>
+
+* ''Can Anyone Hear Us?'' (D. Narayan, R. Patel, K. Schafft, A. Rademacher, S. Koch-Shulte, 2000), which looks at 81<ref name="ppa_guide">{{cite web |url=http://info.worldbank.org/etools/docs/library/238411/ppa.pdf |title=A rough guide to PPAs |author=Andy Norton with Bella Bird Karen Brock Margaret Kakande Carrie Turk |publisher=Overseas Development Institute |year=2006}}</ref>{{rp|87}} [[participatory poverty assessment]]s carried out by the [[World Bank]] during the 1990s, and includes the voices of over 40,000 people in 50 countries;
+* ''Crying Out for Change'' (D. Narayan, R. Chambers, M. Shah, P. Petesch, 2000), which looks at fieldwork done in 1999 involving over 20,000 people in 23 countries;
+* ''From Many Lands'' (D. Narayan, P. Petesch, 2002<ref>{{cite web |url=http://siteresources.worldbank.org/INTPOVERTY/Resources/335642-1124115102975/1555199-1124115210798/full.pdf |title=Voices of the Poor - From Many Lands}}</ref>), which includes regional patterns and country case studies from 1999<ref name=nogami>{{cite web |url=http://ir.ide.go.jp/dspace/bitstream/2344/486/1/ARRIDE_DE_Vol41%283%29_2003.03.05.review01_nogami.pdf |author=Hiroki Nogami |journal=The Developing Economies |title=Book review of Voices of the Poor |year=2003}}</ref>.
+
+==Key findings==
+
+The key findings of this study include the following:<ref name="ppa_guide"/>{{rp|87}}
+
+* Poverty is multidimensional (i.e. the poor deal not just with lack of money, but with various problems like lack of resources, poor health, physical violence, social isolation, etc.).
+* [[NGO]]s have a limited role in the lives of the poor.
+
+==Reception==
+
+Writing in 2003, Hiroki Nogami praised Voices of the Poor for its use of qualitative analyses, but noted that the study did not sufficiently take into account how the opinions of the poor change with time and location.<ref name=nogami/>{{rp|391}}
+
+==See also==
+
+* ''[[Moving Out of Poverty]]'', a later project by the World Bank that distinguishes itself from Voices of the Poor in that it focuses on the dynamics of moving out of (and falling back into) poverty, and it is a longitudinal study rather than a snapshot in time.
+* [[Millions Saved]]
+* [[Disease Control Priorities Project]]
+
+==References==
+
+{{reflist|30em}}
 
