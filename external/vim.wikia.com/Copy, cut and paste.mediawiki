@@ -28,12 +28,30 @@ Here is how to cut-and-paste or copy-and-paste text using a visual selection in 
 
 In normal mode, one can copy (yank) with <code>y{motion}</code>, where <code>{motion}</code> is a Vim motion. For example, <code>yw</code> copies to the beginning of the next word. Other helpful yanking commands include:
 
-*<code>yy</code> or <code>Y</code> – yank the current line
+*<code>yy</code> or <code>Y</code> – yank the current line, including the newline character at the end of the line
 *<code>y$</code> – yank to the end of the current line (but don't yank the newline character); note that many people like to remap <code>Y</code> to <code>y$</code> in line with <code>C</code> and <code>D</code>
 *<code>yiw</code> – yank the current word (excluding surrounding whitespace)
 *<code>yaw</code> – yank the current word (including leading or trailing whitespace)
 
 Cutting can be done using <code>d{motion}</code>.
+
+==Pasting in normal mode==
+
+In normal mode, one can use <code>p</code> to paste after the cursor, or <code>P</code> to paste before the cursor.
+
+The variants <code>gp</code> and <code>gP</code> move the cursor after the pasted text, instead of leaving the cursor stationary.
+
+To select a register from which to paste, one can use <code>"{register}p</code> to paste from the register <code>{register}</code>. See [[Pasting registers]] for more information.
+
+==Copying and cutting in command-line mode==
+
+To copy text in command-line mode, one must first open the command-line window with <code><C-f></code>. After this, one can copy as in normal mode.
+
+==Pasting in command-line mode==
+
+There are two approaches to pasting in command-line mode. The first is to open the command-line window with <code><C-f></code>, and then paste as in normal mode.
+
+The second approach is to use <code><C-r>{register}</code> to paste the contents of the register <code>{register}</code>. In particular, <code><C-r>"</code> pastes from the default register (so the same as <code>p</code> in normal mode). See [[Pasting registers]] for more information.
 
 ==Multiple copying==
 ''Main article: [[Pasting registers]].''
@@ -48,7 +66,7 @@ When using Vim under Windows, the clipboard can be accessed with the following:
 *In step 6, press Shift+Insert to paste.
 
 ===Different instances===
-How to copy and paste between two instances of Vim on different Linux consoles?
+How does one copy and paste between two instances of Vim on different Linux consoles?
 
 After copying text, open a new buffer for a new file:
  :e ~/dummy
