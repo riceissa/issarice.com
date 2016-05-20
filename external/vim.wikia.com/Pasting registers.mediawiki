@@ -1,4 +1,3 @@
-{{review}}
 {{TipImported
 |id=1303
 |previous=1302
@@ -28,7 +27,16 @@ Use <code>"/p</code> to paste the last search.
 
 In insert and command-line modes, you can use Ctrl-r to paste the contents of a register. For instance, pressing Ctrl-r followed by <code>a</code> (i.e. <code><C-r>a</code>) pastes the contents of the register <code>a</code>. This works with special registers as well, so <code><C-r>+</code> pastes from the clipboard and <code><C-r>/</code> pastes the last search.
 
-Note that because Vim faithfully translates the contents of the clipboard to a buffer in insert mode, using <code><C-r>+</code> is susceptible to attacks if the contents of the clipboard cannot be fully trusted. This is sometimes called "clipboard hijacking". For instance, if one copies text from a website that contains a literal escape character (i.e. the character with ASCII value 27, ''not'' a representation of the escape character such as <code><Esc></code>), Vim will faithfully switch to normal mode and begin executing normal mode commands. Some browsers hide special characters when displaying a page, so it is not immediately obvious even if one has copied malicious text. Moreover, using clever div-tag positioning, even browsers that display special characters are susceptible to such attacks ([http://thejh.net/misc/website-terminal-copy-paste proof of concept]). It is possible to use <code><C-o>"+p</code> instead, which prevents attacks of this form.
+Note that because Vim faithfully translates the contents of the clipboard to a buffer in insert and command-line modes, using <code><C-r>+</code> is susceptible to attacks if the contents of the clipboard cannot be fully trusted. This is sometimes called "clipboard hijacking". For instance, if one copies text from a website that contains a literal escape character (i.e. the character with ASCII value 27, ''not'' a representation of the escape character such as <code><Esc></code>), Vim will faithfully switch to normal mode and begin executing normal mode commands. Some browsers hide special characters when displaying a page, so it is not immediately obvious even if one has copied malicious text. Moreover, using clever div-tag positioning, even browsers that display special characters are susceptible to such attacks ([http://thejh.net/misc/website-terminal-copy-paste proof of concept]). It is possible to use <code><C-o>"+p</code> instead, which prevents attacks of this form.
+
+One mapping to avoid such attacks is:
+<pre>
+inoremap <C-r>+ <C-g>u<C-o>"+gp
+</pre>
+
+This will override the default behavior of <code><C-r>+</code> so that the pasting behavior is like that in normal mode. It also uses <code><C-g>u</code> to break the undo sequence, so that the pasting can be undone, and uses <code>gp</code> instead of the usual <code>p</code> so that the cursor is positioned after what is pasted (just like the default <code><C-r>+</code>). Note that because the clipboard is pasted in "one move" instead of being translated character-by-character (the default behavior), formatting options such as <code>textwidth</code> are not obeyed.
+
+With the above mapping, the default behavior can still be retrieved by waiting a moment after typing <code><C-r></code> (so that Vim gives up on trying to use the custom mapping).
 
 ==References==
 *{{help|c_CTRL-R}}
