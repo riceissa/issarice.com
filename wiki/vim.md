@@ -23,6 +23,8 @@ This page documents some of my musings from using Vim; most of it has probably a
 
 I probably spend too much time configuring Vim---something I've been trying to cut down on.
 
+You can also see [my contributions to the Vim Tips Wiki](http://vim.wikia.com/wiki/Special:Contributions/IssaRice).
+
 # Ex mode
 
 One thing I learned really recently is that Vim has very sophisticated ex mode features.
