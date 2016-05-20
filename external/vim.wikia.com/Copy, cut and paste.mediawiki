@@ -53,6 +53,15 @@ There are two approaches to pasting in command-line mode. The first is to open t
 
 The second approach is to use <code><C-r>{register}</code> to paste the contents of the register <code>{register}</code>. In particular, <code><C-r>"</code> pastes from the default register (so the same as <code>p</code> in normal mode). See [[Pasting registers]] for more information.
 
+==Copy, cut, and paste from the system clipboard==
+''Main article: [[Accessing the system clipboard]]''
+
+Unlike most text editors, Vim distinguishes between its own registers and the system clipboard. By default, Vim copies to, cuts to, and pastes from its own default register, called the ''unnamed register'' (<code>""</code>, also called [http://vimdoc.sourceforge.net/htmldoc/change.html#quote_quote quotequote]) instead of the system clipboard.
+
+Assuming Vim was compiled with clipboard access, it is possible to access the <code>"+</code> or <code>"*</code> registers, which can modify the system clipboard. In this case, one can copy with e.g. <code>"+y</code> in visual mode, or <code>"+y{motion}</code> in normal mode, and paste with e.g. <code>"+p</code>.
+
+If your installation of Vim was not compiled with clipboard support, you must either install a package that has clipboard support, or use an external command such as xclip as an intermediary. See [[Accessing the system clipboard]] for detailed information.
+
 ==Multiple copying==
 ''Main article: [[Pasting registers]].''
 
@@ -92,8 +101,10 @@ In the example below, the first line displays the current settings, while the se
 </pre>
 
 ==See also==
-*[[VimTip356|Quick yank and paste]]
+* [[VimTip356|Quick yank and paste]]
 * [[Cut/copy and paste using visual selection]]
+* [[In line copy and paste to system clipboard]]
+* [[Accessing the system clipboard]]
 
 ==Comments==
 
