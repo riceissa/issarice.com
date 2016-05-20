@@ -91,6 +91,7 @@ You can browse [my public repositories](https://github.com/riceissa?tab=reposito
 - I am [riceissa](https://bitbucket.org/riceissa) on [Bitbucket](https://bitbucket.org/); I don’t use it very often, preferring GitHub instead.
 - I am [riceissa](https://stackoverflow.com/users/3422337/riceissa) on [Stack Overflow](https://stackoverflow.com/).
 - I am [IssaRice](https://news.ycombinator.com/user?id=IssaRice) on Hacker News.
+- [My Vim Tips Wiki contributions](http://vim.wikia.com/wiki/Special:Contributions/IssaRice?useskin=monobook)
 
 # Other
 
@@ -104,7 +105,6 @@ I occasionally use Reddit to look for information, but don’t really post.
 - [My Internet Archive account](https://archive.org/details/@issarice)
 - [My Goodreads account](https://www.goodreads.com/user/show/47708980-issa-rice)
 - [My MyAnimeList account](http://myanimelist.net/profile/riceissa)
-- [My Vim Tips Wiki contributions](http://vim.wikia.com/wiki/Special:Contributions/IssaRice)
 
 # See also
 
