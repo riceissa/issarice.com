@@ -15,7 +15,7 @@ It is possible to paste the contents of any register into the current buffer or 
 
 ==In normal and visual modes==
 
-In general, <code>"<i>reg</i>p</code> pastes the contents of the register ''reg''. For instance, <code>"ap</code> pastes the contents of the register <code>a</code>.
+In general, <code>"{register}p</code> pastes the contents of the register <code>{register}</code>. For instance, <code>"ap</code> pastes the contents of the register <code>a</code>.
 
 Just as <code>"+p</code> (or <code>"*p</code>) pastes the contents of the clipboard, other registers can be pasted as well.
 
@@ -25,7 +25,7 @@ Use <code>"/p</code> to paste the last search.
 
 ==In insert and command-line modes==
 
-In insert and command-line modes, you can use Ctrl-r to paste the contents of a register. For instance, pressing Ctrl-r followed by <code>a</code> (i.e. <code><C-r>a</code>) pastes the contents of the register <code>a</code>. This works with special registers as well, so <code><C-r>+</code> pastes from the clipboard and <code><C-r>/</code> pastes the last search.
+In insert and command-line modes, you can use <code><C-r></code> to paste the contents of a register. In particular, <code><C-r>"</code> pastes from the default (<code>"</code>) register (so same as <code>p</code> in normal mode). This works with special registers as well, so <code><C-r>+</code> pastes from the clipboard and <code><C-r>/</code> pastes the last search.
 
 Note that because Vim faithfully translates the contents of the clipboard to a buffer in insert and command-line modes, using <code><C-r>+</code> is susceptible to attacks if the contents of the clipboard cannot be fully trusted. This is sometimes called "clipboard hijacking". For instance, if one copies text from a website that contains a literal escape character (i.e. the character with ASCII value 27, ''not'' a representation of the escape character such as <code><Esc></code>), Vim will faithfully switch to normal mode and begin executing normal mode commands. Some browsers hide special characters when displaying a page, so it is not immediately obvious even if one has copied malicious text. Moreover, using clever div-tag positioning, even browsers that display special characters are susceptible to such attacks ([http://thejh.net/misc/website-terminal-copy-paste proof of concept]). It is possible to use <code><C-o>"+p</code> instead, which prevents attacks of this form.
 
