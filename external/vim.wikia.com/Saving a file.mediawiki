@@ -1,0 +1,71 @@
+{{TipImported
+|id=803
+|previous=802
+|next=804
+|created=2004
+|complexity=basic
+|author=
+|version=6.0
+|rating=7/26
+|category1=
+|category2=
+}}
+To save a file, you would normally first leave insert mode by [[Avoid the escape key|hitting the Esc key]] one or more times. Then you type the following (and press Enter):
+<pre>
+:w
+</pre>
+
+If you would like to quit Vim simultaneously, you can use the following command:
+<pre>
+:wq
+</pre>
+
+Vim also provides an update command that writes the buffer only when there are unsaved changes:
+<pre>
+:up
+</pre>
+
+Analogously to <code>:wq</code>, Vim provides a way to save your file (only if there are unsaved changes) and exit Vim at the same time with:
+<pre>
+:x
+</pre>
+
+The difference between {<code>:w</code>, <code>:wq</code>} and {<code>:up</code>, <code>:x</code>} is that the former always writes the buffer to a file even when there are no unsaved changes, so that the last modified timestamp is always updated. The latter commands will not update the last modified timestamp unless the buffer was modified.
+
+You can save all modified buffers (all open files) with:
+<pre>
+:wa
+</pre>
+
+For a tweak, you can set Vim to automatically save the current buffer when you hit Esc twice. This can be done by simply adding the following line to your vimrc:
+<pre>
+map <Esc><Esc> :w<CR>
+</pre>
+
+Note: In a console, mapping with a single Esc interferes with the Up/Down/Left/Right arrow keys, since these are actually escape sequences and send an Esc followed by a key id. (The reason that hitting Esc in Vim does not always give an immediate response is that Vim first waits a little to see if a key id is following the Esc.)
+
+==Comments==
+This would also work.
+<pre>
+ino <Leader>:w <Esc>:w<CR>a
+</pre>
+
+----
+I use the following:
+<pre>
+nmap <c-s> :w<CR>
+vmap <c-s> <Esc><c-s>gv
+imap <c-s> <Esc><c-s>
+
+nmap <F2> :update<CR>
+vmap <F2> <Esc><F2>gv
+imap <F2> <c-o><F2>
+</pre>
+
+Control-S always saves the file, and, if called from visual mode, restores the visual selection when done. It does not re-enter insert mode, though, so I use it as my quit-insert-mode-and-save macro.
+
+F2 only saves if necessary, and returns the user to insert mode (or restores their visual selection), as needed.
+
+----
+Under UNIX/Linux, in a console or terminal, CTRL-S sends the signal SIGSTOP, which stops the process in foreground until SIGCONT is sent; this is done by CTRL-Q. This behaviour can usually be disabled by executing <pre>stty -ixon</pre> (add it to your shell's profile or rc file so it will be executed whenever you log in).
+
