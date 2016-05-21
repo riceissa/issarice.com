@@ -23,6 +23,8 @@ This page documents some of my musings from using Vim; most of it has probably a
 
 I probably spend too much time configuring Vim---something I've been trying to cut down on.
 
+You can see my [current vimrc](https://github.com/riceissa/dotfiles/blob/master/.vimrc) and [Vim directory](https://github.com/riceissa/dotfiles/tree/master/.vim) in my dotfiles repository.
+
 You can also see [my contributions to the Vim Tips Wiki](http://vim.wikia.com/wiki/Special:Contributions/IssaRice?useskin=monobook).
 
 # Ex mode
