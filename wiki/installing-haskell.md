@@ -20,7 +20,7 @@ The following is the minimal way to get things installed.
 There might be some unexpected problems when executing the commands below.
 On Linux Mint (either 17.1 or 17.3), I couldn't install `cabal-install-1.22.9.0` because `bootstrap.sh` complained about not having `transformers` version 0.4 (the Linux Mint repositories have 0.3).
 However, installing from the older `cabal-install-1.22.4.0` seems to work.
-On the other hand, Ubuntu MATE 16.04 seems to have no problem with version 1.24.0.0.
+On the other hand, Ubuntu MATE 16.04 seems to have no problem with version 1.22.9.0 (but had documenting issues with 1.24.0.0).
 (This is intended as an example of a problem one might run into, and not as an exhaustive list of issues.)
 
 ```bash
