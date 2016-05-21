@@ -227,6 +227,10 @@ fundamentally broken, in the sense that the way it thinks of lines is
 display-line versions of `Ctrl`-`e`, `Ctrl`-`d`, and `Ctrl`-`f`, in the
 same way that we have `gj` and `g$`. It might be worth noting that when using `:vim`, vim uses some pager like `more`, which can display partial lines even when using `j` and `k`.
 
+In editing Wikipedia, I've also found it useful to learn [CUA keybindings](https://en.wikipedia.org/wiki/IBM_Common_User_Access) like `Ctrl`-`→`, `Ctrl`-`Delete`, and so forth, which can be used directly on browsers like Firefox.
+This suffices for most editing tasks, and I have [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open gvim for more complicated tasks (like search and replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
+I've also found Emacs useful (with a bit of practice) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
+
 # From my old .vimrc
 
 It's sometimes interesting to read my old .vimrc to note things that I
