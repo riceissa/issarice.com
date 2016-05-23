@@ -229,7 +229,7 @@ same way that we have `gj` and `g$`. It might be worth noting that when using `:
 
 In editing Wikipedia, I've also found it useful to learn [CUA keybindings](https://en.wikipedia.org/wiki/IBM_Common_User_Access) like `Ctrl`-`→`, `Ctrl`-`Backspace`, and so forth, which can be used directly on browsers like Firefox.
 This suffices for most editing tasks, and I have [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open GVim for more complicated tasks (like search-and-replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
-I've also found Emacs useful (with a bit of practice) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
+I've also found Emacs useful (with a bit of practice[^evil]) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
 
 # From my old .vimrc
 
@@ -347,3 +347,5 @@ it:
   After the "c" is typed, the match disappears and typing "l" brings it back,
   and so forth. Hitting enter at any point completes the search, *but not on
   gvim, where it just fails*. (Actually trying it again now, it seems to fail everwhere, even on Neovim...). Make sure your window height is also small relative to the line length.
+
+[^evil]: Emacs Evil mode is also an option (it's a fairly good emulation of Vim).
