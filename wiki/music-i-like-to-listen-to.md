@@ -49,3 +49,4 @@ Some others:
 - Hilary Hahn (via Andrew Ho)
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 - Final Fantasy VII OST
+- Chrono Trigger OST
