@@ -104,6 +104,8 @@ NEW:
     for getting the top navbar and sidebar to play nicely. (set width in
     the sidebar and conditionally set a left-margin in the top bar)
 
+    Related discussion for Wikipedia: https://www.reddit.com/r/wikipedia/comments/137e7d/i_wish_the_contents_box_followed_you_at_the_left/
+
 - make mathjax the default math display if javascript is available, but
   *somehow* detect and switch to image-based math (like wikipedia's
   default) when javascript isn't available. moreover, somehow just show
