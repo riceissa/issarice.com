@@ -1,4 +1,4 @@
-The '''International Decision Support Initiative''' ('''iDSI''') is a partnership between governments, universities, and thinktanks that helps health policy makers make better decisions.<ref name=about>{{cite web |url=http://www.idsihealth.org/about-us/ |title=ABOUT US |publisher=iDSI |accessdate=May 26, 2016}}</ref><ref name=phase2/> iDSI launched in November 2013<ref name=about/> as the result of a 2012 [[Center for Global Development]] working group.<ref>{{cite web |url=http://www.impatientoptimists.org/Posts/2016/02/The-International-Decision-Support-Initiative-Is-Scaling-UpThat-Means-Better-Decisions-and-Better-Health |title=The International Decision Support Initiative Is Scaling Up—That Means Better Decisions and Better Health |author=Amanda Glassman |date=February 8, 2016 |website=Impatient Optimists |publisher=Bill &amp; Melinda Gates Foundation}}</ref>
+The '''International Decision Support Initiative''' ('''iDSI''') is a partnership between governments, universities, and thinktanks that helps health policy makers make better decisions.<ref name=about>{{cite web |url=http://www.idsihealth.org/about-us/ |title=ABOUT US |publisher=iDSI |accessdate=May 26, 2016}}</ref><ref name=phase2/> iDSI targets [[Developing country|low- and middle-income countries]] (LMICs)<ref>{{cite journal |url=http://www.bmj.com/content/bmj/352/bmj.i244.full.pdf |title=Role of priority setting in implementing universal health coverage |author=Yot Teerawattananon et al. |publisher=The BMJ}}</ref> and pushes for [[universal health coverage]]<ref name=cgdev>{{cite web |url=http://www.cgdev.org/working-group/priority-setting-institutions-global-health |title=Priority-Setting Institutions for Global Health |publisher=Center for Global Development |accessdate=May 29, 2016}}</ref> while helping them prioritize health interventions. iDSI launched in November 2013<ref name=about/> as the result of a 2012 [[Center for Global Development]] working group.<ref>{{cite web |url=http://www.impatientoptimists.org/Posts/2016/02/The-International-Decision-Support-Initiative-Is-Scaling-UpThat-Means-Better-Decisions-and-Better-Health |title=The International Decision Support Initiative Is Scaling Up—That Means Better Decisions and Better Health |author=Amanda Glassman |date=February 8, 2016 |website=Impatient Optimists |publisher=Bill &amp; Melinda Gates Foundation}}</ref><ref name=cgdev/>
 
 ==Partnerships==
 
@@ -6,20 +6,22 @@ The following organizations are iDSI's core partners:<ref name=phase2/>
 
 * [[National Institute for Health and Care Excellence|NICE]] International
 * HITAP ([[Health Interventions and Technology Assessment Program]], Thailand)
-* [[Center for Global Development]]
+* [[Center for Global Development]]<ref name=cgdev/>
 * [[PRICELESS SA]] (Priority Cost Effective Lessons for System Strengthening, South Africa)
 
 Other partners include [[Centre for Health Economics]] (at the [[University of York]]), [[Imperial College London]], [[Itad]], [[Johns Hopkins Berman Institute of Bioethics]], the [[London School of Hygiene and Tropical Medicine]], [[Meteos (nonprofit company)|Meteos]], [[Office of Health Economics]], the [[University of Glasgow]], and the [[University of Strathclyde]].<ref>{{cite web |url=http://www.idsihealth.org/who-we-are/supporting-partners/ |title=Supporting Partners |publisher=iDSI |accessdate=May 26, 2016}}</ref>
 
 ==Funding==
 
-iDSI receives funding from the [[Bill &amp; Melinda Gates Foundation]], the [[Department for International Development|UK Department for International Development]], and the [[Rockefeller Foundation]].<ref name=about/><ref name=phase2/>
+iDSI receives funding from the [[Bill &amp; Melinda Gates Foundation]], the [[Department for International Development|UK Department for International Development]],<ref>{{cite web |url=https://www.ohe.org/news/international-decision-support-initiative-idsi-mapping-priority-setting-health-17-low-and |title=international Decision Support Initiative (iDSI): Mapping of Priority-setting in Health in 17 Low and Middle Income Countries Across Asia, Latin America and Africa |accessdate=May 29, 2016 |date=April 22, 2015 |publisher=Office of Health Economics}}</ref> and the [[Rockefeller Foundation]].<ref name=about/><ref name=phase2/>
 
 In December 2015, iDSI received $12.8 million in funding from the [[Bill &amp; Melinda Gates Foundation]] for phase 2 of its operations.<ref name="phase2">{{cite web |url=http://www.idsihealth.org/blog/idsi2-launch/ |title=International Decision Support Initiative awarded US$12.8m grant from the Gates Foundation |publisher=iDSI |accessdate=May 26, 2016 |date=January 30, 2016}}</ref><ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/12/OPP1134345 |title=National Institute for Health and Care Excellence |date=December 2015 |publisher=Bill &amp; Melinda Gates Foundation}}</ref>
 
 ==Work==
 
 iDSI has operated in China, India, Indonesia, Myanmar, the Philippines, South Africa, and Vietnam as "focus countries", but has also operated in additional countries.
+
+As part of their focus on [[universal health care]], iDSI has also worked on priority setting for mental health.<ref>{{cite web |author = Ryan Li |url=http://blogs.worldbank.org/health/comment/393#comment-393 |title=Thank you for raising such an |accessdate=May 29, 2016 |date=April 25, 2014}}</ref><ref>{{cite web |url=http://www.idsihealth.org/blog/who-we-are/people/ryan-li/ |title=Ryan Li |publisher=iDSI |accessdate=May 29, 2016}}</ref>
 
 iDSI is one of the collaborators for [[Disease Control Priorities Project#DCP3|DCP3]].<ref>{{cite web |url=http://dcp-3.org/collaborators |title=Collaborators |publisher=DCP3 |accessdate=May 26, 2016}}</ref>
 
@@ -30,3 +32,4 @@ iDSI is one of the collaborators for [[Disease Control Priorities Project#DCP3|D
 ==References==
 
 {{reflist|30em}}
+
