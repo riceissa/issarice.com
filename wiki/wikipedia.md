@@ -1,21 +1,7 @@
 ---
 title: Wikipedia
-#feed_description: 
-author: Issa Rice
 creation_date: 2015-07-05
-last_major_revision_date: 2015-11-16
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
-status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
-#belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: wikipedia, content creation
-#aliases: 
+date: 2015-11-16
 ---
 
 My username on Wikipedia is Riceissa.
@@ -25,7 +11,7 @@ I've been a reader of Wikipedia for a long time, but only recently started contr
 
 Starting in late 2015 I've been doing more work on Wikipedia.
 See [Vipul Naik's page on sponsored editing](http://vipulnaik.com/sponsored-wikipedia-editing/) for more information.
-Also relevant is my current [bounty list](https://raw.githubusercontent.com/vipulnaik/working-drafts/master/issa-list.mediawiki).
+Also relevant is my current [bounty list](https://github.com/vipulnaik/working-drafts/blob/master/issa-list.mediawiki).
 
 # Contributions
 
