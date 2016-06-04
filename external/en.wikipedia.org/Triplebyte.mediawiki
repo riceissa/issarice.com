@@ -31,25 +31,41 @@
 
 }}'''Triplebyte''' is a [[Recruitment|recruiting]] company whose focus is on technical recruiting.<ref name="tc">{{cite web |url=http://techcrunch.com/2015/05/07/triplebyte/ |accessdate=January 12, 2016 |publisher=TechCrunch |date=May 7, 2015 |first=Kim-Mai |last=Cutler |title=Former YC Partner Harj Taggar Is Building The New Technical Hiring Pipeline With TripleByte}}</ref> The company tries to reduce reliance on whiteboard programming questions and resume screening.
 
-
 ==History==
 
-Triplebyte was founded by [[Harj Taggar]] ([[CEO]]), Ammon Bartram (Chief Data Officer), and Guillaume Luccisano ([[chief technology officer]]).<ref name="about_page">{{cite web |url=https://triplebyte.com/about |title=About Triplebyte |accessdate=January 12, 2016}}</ref><ref name="angellist">{{cite web |url=https://angel.co/triplebyte |title=Triplebyte |accessdate=January 12, 2016 |publisher=AngelList}}</ref>
+Triplebyte was founded by [[Harj Taggar]] ([[CEO]]), Ammon Bartram (Chief Data Officer), and Guillaume Luccisano ([[chief technology officer]]).<ref name="about_page">{{cite web |url=https://triplebyte.com/about |title=About Triplebyte |accessdate=January 12, 2016}}</ref><ref name="angellist">{{cite web |url=https://angel.co/triplebyte |title=Triplebyte |accessdate=January 12, 2016 |publisher=AngelList}}</ref> The company was part of [[Y Combinator (company)|Y Combinator]]'s summer class of 2015.<ref>{{cite web |url=http://softwareengineeringdaily.com/2015/12/23/hiring-engineers-with-ammon-bartram/ |title=Hiring Engineers with Ammon Bartram |accessdate=June 3, 2016 |date=December 23, 2015 |publisher=Software Engineering Daily}}</ref>
 
-In September 2015, the company raised $3 million.<ref name="tc_3m">{{cite web |url=http://techcrunch.com/2015/09/28/triplebyte-3m/ |title=Triplebyte, The Technical Recruiting Platform From Former YC Partner Harj Taggar, Raises $3M |first=Kim-Mai |last=Cutler |accessdate=January 12, 2016 |date=September 28, 2015}}</ref>
+In September 2015, the company raised $3 million from [[Y Combinator (company)|Y Combinator]] founders [[Paul Graham (computer programmer)|Paul Graham]] and [[Jessica Livingston]], among others.<ref name="tc_3m">{{cite web |url=http://techcrunch.com/2015/09/28/triplebyte-3m/ |title=Triplebyte, The Technical Recruiting Platform From Former YC Partner Harj Taggar, Raises $3M |first=Kim-Mai |last=Cutler |accessdate=January 12, 2016 |date=September 28, 2015}}</ref><ref name=fastcompany/>
+
+In May 2016, the company announced their Engineer Genome Project, which maps out the seven attributes that companies care most about in their engineers.<ref>{{cite web |url= http://blog.triplebyte.com/triplebyte-engineer-genome-project |title=Triplebyte Engineer Genome Project |date=May 4, 2016 |accessdate=June 3, 2016 |publisher=Triplebyte}}</ref><ref name=fastcompany/> The project uses software to match engineers' skill distribution in the seven attributes to companies that are a good fit for those engineers.<ref name=tc-genome>{{cite web |url=http://techcrunch.com/2016/05/04/technical-recruiting-platform-triplebyte-launches-pandora-like-engineer-genome-project/ |title=Technical recruiting platform Triplebyte launches engineer genome project |author=Megan Rose Dickey |date=May 4, 2016 |accessdate=June 3, 2016 |publisher=TechCrunch}}</ref>
+
+==Hiring philosophy==
+
+Triplebyte thinks each startup has different ideas on what a "great engineer" is.<ref name="tc_3m" />
+
+Triplebyte does not accept resumes. Instead, it conducts a two-part technical evaluation,<ref name=fastcompany>{{cite web |url=http://www.fastcompany.com/3059901/why-this-tech-recruiting-platform-doesnt-accept-resumes |title=Why This Tech Recruiting Platform Doesn't Accept Resumes |accessdate=2016-06-03 |author=Lydia Dishman |date=2016-05-16 |publisher=Fast Company}}</ref> and only asks about a candidate's education after they have passed the technical interview. <ref name="fortune">{{cite web |url=http://fortune.com/2016/05/19/triplebyte-coding-bootcamp-study/ |title=Can ‘Coding Bootcamps’ Fix The Shortage of Engineers? |accessdate=June 3, 2016 |date=May 19, 2016 |last=Kokalitcheva |first=Kia |publisher=Fortune}}</ref>
 
 ==Business model==
 
-Triplebyte takes 25% of the first-year salary of those it helps to hire, with a six-month period for refunds.<ref name=tc" />
+Triplebyte takes from companies 25% of the first-year salary of those it helps to hire, with a six-month period for refunds.<ref name="tc" /> The software engineers that are hired through Triplebyte do not pay Triplebyte.
 
 The company also collects data on what makes a good [[software engineer]], which could help to automate the interviewing process.<ref name="tc" />
 
-Triplebyte also thinks each startup has different ideas on what a "great engineer" is.<ref name="tc_3m" />
+==Companies that have used Triplebyte==
+
+Companies that have used Triplebyte for recruiting include:<ref name=fastcompany/><ref name=tc-genome/>
+
+* [[Stripe (company)|Stripe]] 
+* [[Hipmunk]]
+* [[Dropbox (service)|Dropbox]]
+* [[Uber (company)|Uber]]
+* [[Khan Academy]]
+* [[Airbnb]]
 
 ==See also==
-
-* [[Y Combinator (company)]]
+*[[Silicon Valley]]
 
 ==References==
 
 {{reflist|2}}
+
