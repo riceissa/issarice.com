@@ -3,7 +3,7 @@
 This repository hosts the files needed to compile my website,
 <http://issarice.com>.  The website is compiled from a set of (mainly) markdown
 files using Pandoc and a Makefile. Assuming one has the prerequisites to
-compile the site (Pandoc 1.17 with the Python
+compile the site (Pandoc 1.17.1 with the Python 3
 [pandocfilters](https://github.com/jgm/pandocfilters) and GNU Make) just do:
 
 ```bash
