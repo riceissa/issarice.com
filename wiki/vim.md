@@ -1,18 +1,7 @@
 ---
 title: Vim
-#description:
-author: Issa Rice
 creation_date: 2015-02-28
-last_major_revision_date: 2015-08-10
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
-tags: vim, computing
-#aliases:
+date: 2015-08-10
 ---
 
 **Vim** is my text editor of choice.
@@ -35,7 +24,7 @@ But it turns out I was wrong; see `:h cmdline.txt` for more, as well as `:h usr_
 But for instance, you can type `q:` to enter essentially insert mode within ex mode, which allows you to do regular Vi keys to edit commands.
 I also learned that `<C-b>` is the right way to go to the beginning of a line in ex mode; you can change this with `cnoremap <C-a> <C-b>` too though; also see `:h emacs-keys` to make keybindings more "sane".
 
-# Poor-man's folding
+# `:g`-based folding
 
 It's certainly possible to use something like [nelstrom/vim\-markdown\-folding](https://github.com/nelstrom/vim-markdown-folding) to get proper folding in Vim.
 But what if one is on a remote machine, for instance?
@@ -178,6 +167,9 @@ See also the "light" versus "dark" distinction explained in [Sharpen your Vim wi
   insert completion mode with `C-x` `C-l`, hitting `C-l` again will just shift
   through the completions instead of escaping. To break out, one must use `C-[`
   or `C-e` as usual.
+
+- Another thing that took me too long to discover: keyword completion using `Ctrl`-`x` `Ctrl`-`p` and `Ctrl`-`x` `Ctrl`-`n`; see [the Vim help section](http://vimdoc.sourceforge.net/htmldoc/insert.html#compl-current).
+However, rather than describing it as "keyword completion", I would say it is more like "predictive completion" (like on a smartphone keyboard).
 
 # Moving in long lines
 
