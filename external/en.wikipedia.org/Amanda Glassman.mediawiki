@@ -1,10 +1,10 @@
-'''Amanda Glassman''' is the vice president for programs, the director of global health policy, and a senior fellow at the [[Center for Global Development]].<ref name=guardian>{{cite web |url=http://www.theguardian.com/health-revolution/2016/mar/22/millions-saved-book-healthcare-global-aid-policy |title=Millions saved: how to make sure global health programs work |date=March 22, 2016 |publisher=''[[The Guardian]]'' |accessdate=June 2, 2016}}</ref><ref name=cgdev-bio/>
+'''Amanda L. Glassman'''<ref name="fewtomany">{{cite book |url=http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=35026183 |title=From Few to Many |accessdate=June 7, 2016 |publisher=[[Inter-American Development Bank]], [[Brookings Institution]] |year=2009}}</ref> is the vice president for programs, the director of global health policy, and a senior fellow at the [[Center for Global Development]].<ref name=guardian>{{cite web |url=http://www.theguardian.com/health-revolution/2016/mar/22/millions-saved-book-healthcare-global-aid-policy |title=Millions saved: how to make sure global health programs work |date=March 22, 2016 |publisher=''[[The Guardian]]'' |accessdate=June 2, 2016}}</ref><ref name=cgdev-bio/><ref>{{cite web |url=http://www.foreign.senate.gov/imo/media/doc/040716_Glassman_Testimony.pdf |title=A Progress Report on the West Africa Ebola Epidemic |accessdate=June 7, 2016 |date=April 7, 2016 |last=Glassman |first=Amanda}}</ref>
 
 "She has 20 years of experience working on health and social protection policy and programs in Latin America and elsewhere in the developing world"<ref name=guardian/>
 
 ==Early life==
 
-Glassman's parents were [[foreign service officer]]s,<ref name=straight>{{cite web |url=http://www.nature.com/nm/journal/v17/n12/full/nm1211-1534.html |title=Straight talk with... Amanda Glassman |author=Elie Dolgin |date=December 6, 2011 |publisher=''[[Nature Medicine]]''}}</ref> so she lived in Cuba, Mexico, Argentina, and Russia throughout her childhood.<ref name="rbf-interview">{{cite web |url=https://www.rbfhealth.org/resource/rbf-perspectives-interview-amanda-glassman-conditional-cash-transfers-ccts |title=RBF Perspectives: Interview with Amanda Glassman on Conditional Cash Transfers (CCTs) |publisher=RBF Health |accessdate=June 2, 2016}}</ref>
+Glassman's parents were [[foreign service officer]]s,<ref name=straight>{{cite web |url=http://www.nature.com/nm/journal/v17/n12/full/nm1211-1534.html |title=Straight talk with... Amanda Glassman |author=Elie Dolgin |date=December 6, 2011 |publisher=''[[Nature Medicine]]''}}</ref> so she lived in [[Cuba]], [[Mexico]], [[Argentina]], and [[Russia]] throughout her childhood.<ref name="rbf-interview">{{cite web |url=https://www.rbfhealth.org/resource/rbf-perspectives-interview-amanda-glassman-conditional-cash-transfers-ccts |title=RBF Perspectives: Interview with Amanda Glassman on Conditional Cash Transfers (CCTs) |publisher=RBF Health |accessdate=June 2, 2016}}</ref>
 
 ==Career==
 
@@ -12,9 +12,9 @@ Glassman received her BA at [[Brown University]] in 1992 and [[MSc]] at the [[Ha
 
 Glassman was the deputy director of the [[Global Health Financing Initiative]] at the [[Brookings Institution]] from 2006 to 2008.<ref name=linkedin/>
 
-She was the Principal Technical Lead for Health at the [[Inter-American Development Bank]] (2008–2010),<ref>{{cite web |url=http://www.americasquarterly.org/node/1676 |title=Amanda Glassman |accessdate=June 2, 2016}}</ref><ref name=linkedin/> where she designed and evaluated public health programs including [[conditional cash transfer]] programs.<ref name=rbf-interview />
+She was the Principal Technical Lead for Health at the [[Inter-American Development Bank]] (2008–2010),<ref>{{cite web |url=http://www.americasquarterly.org/node/1676 |title=Amanda Glassman |accessdate=June 2, 2016 |publisher=''[[Americas Quarterly]]''}}</ref><ref name=linkedin/> where she designed and evaluated public health programs including [[conditional cash transfer]] programs,<ref name=rbf-interview /> and also designed the grant program ''[[Salud Mesoamerica 2015]]''.<ref>{{cite web |url=http://live.worldbank.org/experts/amanda-glassman |title=Amanda Glassman |publisher=''[[World Bank]]'' |accessdate=June 7, 2016}}</ref><ref name=cgdev-bio/>
 
-In October 2011, Glassman became the director of global health policy at the Center for Global Development.<ref>{{cite web |url=https://www.researchgate.net/profile/Amanda_Glassman/info |title=Amanda Glassman - Info |publisher=Research Gate |accessdate=June 7, 2016}}</ref>
+In October 2011, Glassman became the director of global health policy at the Center for Global Development.<ref>{{cite web |url=https://www.researchgate.net/profile/Amanda_Glassman/info |title=Amanda Glassman - Info |publisher=[[ResearchGate]] |accessdate=June 7, 2016}}</ref>
 
 ==Work==
 
@@ -22,15 +22,28 @@ At the Center for Global Development, Glassman has worked on [[demand-side finan
 
 She has also studied state-level health policy in large decentralized countries like India, Pakistan, and Nigeria. In contrast with the [[World Bank]] and other organizations that work at the national level in these countries, Glassman has worked at the state level.<ref>{{cite web |url=http://files.givewell.org/files/conversations/Amanda%20Glassman%208-27-13.pdf |title=Conversation with Amanda Glassman on August 27, 2013 |publisher=[[GiveWell]] |accessdate=June 7, 2016}}</ref>
 
+Glassman has also contributed articles to ''[[The Guardian]]''.<ref name="guardian_profile">{{cite web |url=http://www.theguardian.com/profile/amanda-glassman |title=Amanda Glassman |publisher=''The Guardian'' |accessdate=June 7, 2016}}</ref>
+
+==Views==
+
+Glassman has defended the [[Bill &amp; Melinda Gates Foundation]]'s focus on vaccines, stating "For me, vaccination is the quintessential public health intervention. If we can't get that right, we probably shouldn't be doing other things."<ref>{{cite web |url=http://www.alliancemagazine.org/feature/interview-amanda-glassman/ |title=Interview – Amanda Glassman |publisher=''[[Alliance Magazine]]'' |date=September 1, 2011 |author=Caroline Hartnell |accessdate=June 7, 2016}}</ref>
+
+Glassman has criticized the [[Global Fund to Fight AIDS, Tuberculosis and Malaria]] for lack of transparency, writing that "very little quality information exists on how and where Global Fund money is spent, and what it is accomplishing" and that the "Global Fund must put as much energy into getting results as delivering rhetoric, pursuing performance verification with no less vigour than advocacy".<ref>{{cite web |url=http://www.theguardian.com/global-development/poverty-matters/2013/sep/27/global-fund-results-aids-malaria-tuberculosis |author=Amanda Glassman |date=September 27, 2016 |title=Global Fund's $15bn must buy results rather than rhetoric |publisher=''The Guardian'' |accessdate=June 7, 2016}}</ref>
+
 ==Bibliography==
 
 As of June 2016, Glassman has authored or coauthored at least 52 publications.<ref>{{cite web |url=https://www.researchgate.net/profile/Amanda_Glassman |title=Amanda Glassman |accessdate=June 2, 2016 |publisher=[[ResearchGate]]}}</ref> Some of these are as follows:
 
+* ''The Health of Women in Latin America and the Caribbean'' (2001), with others<ref name=guardian_profile/>
 * ''[[Millions Saved]]: Proven Successes in Global Health'' (2004, 2007, 2016), with others<ref>{{cite web |url=http://millionssaved.cgdev.org/about |title=Background |accessdate=June 1, 2016 |publisher=Center for Global Development}}</ref><ref name=landing-page>{{cite web|url=http://www.cgdev.org/initiative/millions-saved|title = Millions Saved |archiveurl=https://web.archive.org/web/20130722094617/http://www.cgdev.org/initiative/millions-saved |archivedate=2013-07-22 |publisher = [[Center for Global Development]]|accessdate = 2013-07-04}}</ref>
+* ''From Few to Many: Ten Years of Health Insurance Expansion in Colombia'' (2009) with others<ref name="fewtomany"/><ref name=cgdev-bio/>
 
 ==See also==
 
 *[[Dean Jamison]]
+*[[Advance market commitment]]
+*[[GAVI Alliance]]
+*[[PEPFAR]]
 
 ==External links==
 
