@@ -4,13 +4,23 @@
 
 ==Early life==
 
-Glassman's parents were [[foreign service officer]]s, so she lived in Cuba, Mexico, Argentina, and Russia throughout her childhood.<ref>{{cite web |url=https://www.rbfhealth.org/resource/rbf-perspectives-interview-amanda-glassman-conditional-cash-transfers-ccts |title=RBF Perspectives: Interview with Amanda Glassman on Conditional Cash Transfers (CCTs) |publisher=RBF Health |accessdate=June 2, 2016}}</ref>
+Glassman's parents were [[foreign service officer]]s,<ref name=straight>{{cite web |url=http://www.nature.com/nm/journal/v17/n12/full/nm1211-1534.html |title=Straight talk with... Amanda Glassman |author=Elie Dolgin |date=December 6, 2011 |publisher=''[[Nature Medicine]]''}}</ref> so she lived in Cuba, Mexico, Argentina, and Russia throughout her childhood.<ref name="rbf-interview">{{cite web |url=https://www.rbfhealth.org/resource/rbf-perspectives-interview-amanda-glassman-conditional-cash-transfers-ccts |title=RBF Perspectives: Interview with Amanda Glassman on Conditional Cash Transfers (CCTs) |publisher=RBF Health |accessdate=June 2, 2016}}</ref>
 
 ==Career==
 
-Glassman received her BA at [[Brown University]] in ???? and [[MSc]] at the [[Harvard School of Public Health]] in ????.<ref name=cgdev-bio>{{cite web |url=http://www.cgdev.org/expert/amanda-glassman |title=Amanda Glassman |accessdate=June 2, 2016 |publisher=Center for Global Development}}</ref>
+Glassman received her BA at [[Brown University]] in 1992 and [[MSc]] at the [[Harvard School of Public Health]] in 1996.<ref name=cgdev-bio>{{cite web |url=http://www.cgdev.org/expert/amanda-glassman |title=Amanda Glassman |accessdate=June 2, 2016 |publisher=Center for Global Development}}</ref><ref name=linkedin>{{cite web |url=https://www.linkedin.com/in/amanda-glassman-6a276a8 |title=Amanda Glassman |publisher=[[LinkedIn]] |accessdate=June 7, 2016}}</ref>
 
-==Personal life==
+Glassman was the deputy director of the [[Global Health Financing Initiative]] at the [[Brookings Institution]] from 2006 to 2008.<ref name=linkedin/>
+
+She was the Principal Technical Lead for Health at the [[Inter-American Development Bank]] (2008–2010),<ref>{{cite web |url=http://www.americasquarterly.org/node/1676 |title=Amanda Glassman |accessdate=June 2, 2016}}</ref><ref name=linkedin/> where she designed and evaluated public health programs including [[conditional cash transfer]] programs.<ref name=rbf-interview />
+
+In October 2011, Glassman became the director of global health policy at the Center for Global Development.<ref>{{cite web |url=https://www.researchgate.net/profile/Amanda_Glassman/info |title=Amanda Glassman - Info |publisher=Research Gate |accessdate=June 7, 2016}}</ref>
+
+==Work==
+
+At the Center for Global Development, Glassman has worked on [[demand-side financing]] in Africa and incentives for health, as well as [[allocative efficiency]].<ref name=rbf-interview/>
+
+She has also studied state-level health policy in large decentralized countries like India, Pakistan, and Nigeria. In contrast with the [[World Bank]] and other organizations that work at the national level in these countries, Glassman has worked at the state level.<ref>{{cite web |url=http://files.givewell.org/files/conversations/Amanda%20Glassman%208-27-13.pdf |title=Conversation with Amanda Glassman on August 27, 2013 |publisher=[[GiveWell]] |accessdate=June 7, 2016}}</ref>
 
 ==Bibliography==
 
@@ -19,6 +29,13 @@ As of June 2016, Glassman has authored or coauthored at least 52 publications.<r
 * ''[[Millions Saved]]: Proven Successes in Global Health'' (2004, 2007, 2016), with others<ref>{{cite web |url=http://millionssaved.cgdev.org/about |title=Background |accessdate=June 1, 2016 |publisher=Center for Global Development}}</ref><ref name=landing-page>{{cite web|url=http://www.cgdev.org/initiative/millions-saved|title = Millions Saved |archiveurl=https://web.archive.org/web/20130722094617/http://www.cgdev.org/initiative/millions-saved |archivedate=2013-07-22 |publisher = [[Center for Global Development]]|accessdate = 2013-07-04}}</ref>
 
 ==See also==
+
+*[[Dean Jamison]]
+
+==External links==
+
+*[https://www.youtube.com/watch?v=NX1VXFZcMrs Clip of an interview with Rajesh Mirchandani], talking about ''Millions Saved''
+*[https://www.youtube.com/watch?v=UqiarLFpe7U Another clip with Rajesh Mirchandani] talking about [[iDSI]]
 
 ==References==
 
