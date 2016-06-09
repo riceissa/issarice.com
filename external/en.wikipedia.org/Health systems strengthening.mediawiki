@@ -1,4 +1,33 @@
-http://files.givewell.org/files/conversations/Amanda%20Glassman%208-27-13.pdf
+'''Health systems strengthening''' (also '''health system strengthening''') is a buzzword{{cn}} that means to improve the health care system of a community.
+
+==Notes==
+
+http://files.givewell.org/files/conversations/Amanda%20Glassman%208-27-13.pdf - esp the "hardware" vs "software" distinction
 
 http://www.who.int/healthsystems/hss_glossary/en/index5.html
+
+"Often, however, health system strengthening seems a distant, even abstract aim."<ref>http://apps.who.int/iris/bitstream/10665/44204/1/9789241563895_eng.pdf</ref>
+
+ok.
+
+"Strengthening a health system means initiating activities in the six
+internationally accepted core HSS functions – human resources for health;
+health finance; health governance; health information; medical products,
+vaccines, and technologies; and service delivery."<ref name=usaid/>
+
+"Despite this new attention upon HSS, the term remains a vague concept, with varying definitions and strategies for HSS, and varying ideas about the role attributed to the health system in improving public health. In this Policy Forum, we argue that most current HSS strategies are selective (i.e., they target a specific disease), and their effects may undermine progress towards the long-term goal of effective, high-quality, and inclusive health systems."<ref>http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000059#s2</ref>
+
+==Organizations that use health systems strengthening==
+
+* [[World Health Organization]]
+* [[USAID]]: "Health Systems Strengthening (HSS) has been at the core of the U.S. Agency for International Development's (USAID's) mission in health for the last 20 years."<ref name=usaid>https://www.usaid.gov/sites/default/files/documents/1864/HSS-Vision.pdf</ref>
+
+==See also==
+
+* [[Timeline of global health]]
+* {{also|Health system#Health systems performance}}
+
+==References==
+
+{{reflist|30em}}
 
