@@ -223,6 +223,8 @@ In editing Wikipedia, I've also found it useful to learn [CUA keybindings](https
 This suffices for most editing tasks, and I have [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open GVim for more complicated tasks (like search-and-replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
 I've also found Emacs useful (with a bit of practice[^evil]) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
 
+See also [this Neovim discussion](https://github.com/neovim/neovim/issues/4232).
+
 # From my old .vimrc
 
 It's sometimes interesting to read my old .vimrc to note things that I
