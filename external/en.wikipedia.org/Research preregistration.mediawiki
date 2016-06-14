@@ -1,0 +1,24 @@
+In academic research, '''preregistration''' (also written '''pre-registration''') refers to the practice of registering a study before it is conducted to decrease [[publication bias]].
+
+Attempts to identify unpublished studies often prove difficult or are unsatisfactory.<ref name="Rothstein2005">H. Rothstein, A. J. Sutton and M. Borenstein. (2005). ''Publication bias in meta-analysis: prevention, assessment and adjustments''. Wiley. Chichester, England ; Hoboken, NJ.</ref> One effort to decrease this problem is reflected in the move by some journals to require that studies submitted for publication are pre-registered (registering a study prior to collection of data and analysis). Several such [[Clinical trials registry|registries]] exist, for instance the [[Center for Open Science]].
+
+A recent innovation in scientific publishing to address the replication crisis is through the use of registered reports.<ref>{{Cite web|title = Registered Replication Reports  - Association for Psychological Science|url = http://www.psychologicalscience.org/index.php/replication|website = www.psychologicalscience.org|accessdate = 2015-11-13}}</ref><ref>{{Cite web|title = Psychology’s ‘registration revolution’ {{!}} Chris Chambers|url = http://www.theguardian.com/science/head-quarters/2014/may/20/psychology-registration-revolution|website = the Guardian|accessdate = 2015-11-13|first = Chris|last = Chambers}}</ref> The registered report format requires authors to submit a description of the study methods and analyses prior to data collection. Once the method and analysis plan is vetted through peer-review, publication of the findings is provisionally guaranteed, based on whether the authors follow the proposed protocol. One goal of registered reports is to circumvent the [[publication bias]] toward significant findings that can lead to implementation of QRPs and to encourage publication of studies with rigorous methods.
+
+In September 2004, editors of several prominent medical journals (including the ''[[New England Journal of Medicine]]'', ''[[The Lancet]]'', ''[[Annals of Internal Medicine]]'', and ''[[Journal of the American Medical Association|JAMA]]'') announced that they would no longer publish results of drug research sponsored by pharmaceutical companies unless that research was registered in a public database from the start.<ref>{{Cite news |author=([[The Washington Post]]) |url=http://www.smh.com.au/articles/2004/09/09/1094530773888.html |title=Medical journal editors take hard line on drug research |publisher=[[smh.com.au]] |date=2004-09-10 |accessdate=2008-02-03}}</ref> Furthermore, some journals, e.g. ''[[Trials (journal)|Trials]]'', encourage publication of [[clinical trial protocol|study protocols]] in their journals.<ref name="Protocol">{{cite web |url=http://www.trialsjournal.com/info/instructions/?txt_jou_id=10096&txt_mst_id=61789 |title=Instructions for Trials authors&nbsp;— Study protocol |date=2009-02-15}}</ref> The [[World Health Organization]] agreed that basic information about all clinical trials should be registered, at inception, and that this information should be publicly accessible through the WHO International Clinical Trials Registry Platform. Additionally, public availability of full study protocols, alongside reports of trials, is becoming more common for studies.<ref>{{cite journal | last1 = Dickersin| first1 = K.| last2 = Chalmers | first2 = I. | title = Recognizing, investigating and dealing with incomplete and biased reporting of clinical research: from Francis Bacon to the WHO | volume = 104 | issue = 12 | pages = 532–538 | date = 2011| pmid = 22179297 | doi=10.1258/jrsm.2011.11k042 | journal=J R Soc Med}}</ref>
+
+From [[John Ioannidis]]'s https://en.wikipedia.org/wiki/File:Ioannidis_(2005)_Why_Most_Published_Research_Findings_Are_False..pdf :
+
+{{quote|text=In some research designs, efforts may also be more successful with upfront registration of studies, e.g., randomized trials [35]. Registration would pose a challenge for hypothesis- generating research. Some kind of registration or networking of data collections or investigators within fi elds may be more feasible than registration of each and every hypothesis- generating experiment. Regardless, even if we do not see a great deal of progress with registration of studies in other fi elds, the principles of developing and adhering to a protocol could be more widely borrowed from randomized controlled trials.}}
+
+==See also==
+
+* [[Open access]]
+* [[Open research]]
+* [[Open science]]
+* [[Non-response bias]]
+* [[Reproducibility Project]]
+
+==References==
+
+{{reflist|30em}}
+
