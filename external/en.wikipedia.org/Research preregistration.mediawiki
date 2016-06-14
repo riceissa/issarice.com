@@ -10,8 +10,13 @@ From [[John Ioannidis]]'s https://en.wikipedia.org/wiki/File:Ioannidis_(2005)_Wh
 
 {{quote|text=In some research designs, efforts may also be more successful with upfront registration of studies, e.g., randomized trials [35]. Registration would pose a challenge for hypothesis- generating research. Some kind of registration or networking of data collections or investigators within fi elds may be more feasible than registration of each and every hypothesis- generating experiment. Regardless, even if we do not see a great deal of progress with registration of studies in other fi elds, the principles of developing and adhering to a protocol could be more widely borrowed from randomized controlled trials.}}
 
+some criticisms here (for fundamental research): http://www.cogsci.nl/blog/miscellaneous/215-the-pros-and-cons-of-pre-registration-in-fundamental-research
+
+more concerns (in the second essay): http://blog.oup.com/2014/09/pro-con-research-preregistration/
+
 ==See also==
 
+* [[Clinical trials registry]]
 * [[Open access]]
 * [[Open research]]
 * [[Open science]]
