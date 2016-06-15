@@ -42,3 +42,4 @@ Some thoughts:
 
 - It's still too easy to delete comments and too cumbersome to backup comments, so Facebook isn't an especially safe place to store discussions.
 On a blog, for example, the blog owner controls all the comments, but on Facebook the comment author controls their own comments, meaning parts of the discussion can be destroyed without the original poster knowing/being able to do much about it.
+In addition, Facebook allows deactivation of one's account, which hides all content (comments, posts, etc.) made from one's account to others (for the duration of the deactivation), which is highly annoying.
