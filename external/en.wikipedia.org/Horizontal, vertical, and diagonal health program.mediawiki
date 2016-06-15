@@ -1,0 +1,22 @@
+In [[global health]], the words '''horizontal''', '''vertical''', and '''diagonal''' refer to the approaches taken by organizations to provide [[healthcare]].
+
+==Definitions==
+
+Basic definitions: "‘vertical’ financing (aiming for disease-specific results) and ‘horizontal’ financing (aiming for improved health systems)".<ref>{{cite web |url=http://www.who.int/pmnch/topics/economics/diagonalapproach/en/ |title=Diagonal approach to global fund financing: A cure for the broader malaise of health systems? |publisher=[[World Health Organization]] |authors=Gorik Ooms, Wim Van Damme, Brook K Baker, Paul Zeitz, and Ted Schrecker |date=March 2008 |accessdate=June 14, 2016}}</ref>
+
+==To-do==
+
+* talk about relation to [[primary healthcare]]
+* talk about relation to cost-effectiveness and "priority-setting" frameworks
+* give rough indication of which orgs prefer what (e.g. WHO seems big on diagonal stuff?)
+
+==See also==
+
+* [[Horizontal market]]
+* [[Vertical market]]
+* [[Health systems strengthening]]
+
+==References==
+
+{{reflist|30em}}
+
