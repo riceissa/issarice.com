@@ -1,17 +1,7 @@
 ---
 title: Effective altruism
-description: My personal involvement with effective altruism
-author: Issa Rice
 creation_date: 2015-01-02
-last_major_revision_date: 2015-08-02
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-status: draft
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: ea
+date: 2016-06-15
 ---
 
 [**Effective altruism**](https://en.wikipedia.org/wiki/Effective_altruism) (EA) is "a philosophy and social movement which applies evidence and reason to determining the most effective ways to improve the world".
@@ -38,6 +28,9 @@ Also around this time, I tried to start an [effective altruism group at the Univ
 The group hasn't gotten much traction, so as of August 2015, the group has only had one meetup in November 2014.
 
 I continue to be involved in online discussions of EA, but have since become less involved in Seattle EA meetups.
+
+As of March 2016 or so, I've been doing more concentrated work in global health.
+As part of this work, I've been making several [Wikipedia pages related to global health](wikipedia#global-health).
 
 # Beliefs
 
