@@ -35,7 +35,24 @@ mistakes).
 - [Timeline of online dating services](https://en.wikipedia.org/wiki/Timeline_of_online_dating_services)
 - Form 1040 and Form 1099
 
-# See also
+## Global health
+
+Most recently, I've been doing a lot of work on global health---and in the process I've been writing several Wikipedia articles in the area.
+There are:
+
+- [Timeline of global health](https://en.wikipedia.org/wiki/Timeline_of_global_health) (first created by me, but now being improved by others)
+- [Timeline of nonprofit evaluation](https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation)
+- [Timeline of deworming](https://en.wikipedia.org/wiki/Timeline_of_deworming)
+- [Child survival revolution](https://en.wikipedia.org/wiki/Child_survival_revolution), a major movement in global health in the 1980s--1990s
+- [Amanda Glassman](https://en.wikipedia.org/wiki/Amanda_Glassman), a senior person at the Center for Global Development
+- [International Decision Support Initiative](https://en.wikipedia.org/wiki/International_Decision_Support_Initiative) (iDSI), one of the partners in the Disease Control Priorities Project
+- [Voices of the Poor](https://en.wikipedia.org/wiki/Voices_of_the_Poor)
+- [Participatory poverty assessment](https://en.wikipedia.org/wiki/Participatory_poverty_assessment)
+- *[The State of the World's Children](https://en.wikipedia.org/wiki/The_State_of_the_World%27s_Children)*, the flagship publication of UNICEF
+- [Innovative Vector Control Consortium](https://en.wikipedia.org/wiki/Innovative_Vector_Control_Consortium), which is funded by the Gates Foundation
+- [3 by 5 Initiative](https://en.wikipedia.org/wiki/3_by_5_Initiative), an HIV/AIDS program by WHO
+
+# External links
 
 - [Vipul Naik's page on Wikipedia](http://vipulnaik.com/wikipedia/)
 - [The Value of Wikipedia Contributions in Social Sciences](http://reducing-suffering.org/the-value-of-wikipedia-contributions-in-social-sciences/)
