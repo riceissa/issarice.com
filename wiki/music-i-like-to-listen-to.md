@@ -50,3 +50,6 @@ Some others:
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 - Final Fantasy VII OST
 - Chrono Trigger OST
+- Final Fantasy 3--6 OST
+- Terranigma OST
+- Illusion of Gaia OST
