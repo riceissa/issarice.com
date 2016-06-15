@@ -37,8 +37,8 @@ mistakes).
 
 ## Global health
 
-Most recently, I've been doing a lot of work on global health---and in the process I've been writing several Wikipedia articles in the area.
-There are:
+Most recently, I've been doing research in global health---and in the process I've been writing several Wikipedia articles in the area.
+These are:
 
 - [Timeline of global health](https://en.wikipedia.org/wiki/Timeline_of_global_health) (first created by me, but now being improved by others)
 - [Timeline of nonprofit evaluation](https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation)
