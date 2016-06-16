@@ -41,8 +41,6 @@ Some others:
 - Neon Genesis Evangelion OST
 - Wings Of Honneamise OST
 - "She's 22" by Norah Jones
-- The Seatbelts and *Cowboy Bebop* OST
-- Sunny Day Service (band): "aitakatta shoujo", "baby blue"
 - RahXephon OST (the classical tracks)
 - [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
 - Hyouka OST
@@ -50,6 +48,8 @@ Some others:
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 - Final Fantasy VII OST
 - Chrono Trigger OST
-- Final Fantasy 3--6 OST
-- Terranigma OST
-- Illusion of Gaia OST
+
+Time period    | Music
+---------------------------------+--------------------------------------------------------------------------------------------------------------
+2016-12 (?) to 2016-02 (?) | The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service (band): "aitakatta shoujo", "baby blue"
+2016-06        |  Final Fantasy 3--6 OST, Terranigma OST, Illusion of Gaia OST
