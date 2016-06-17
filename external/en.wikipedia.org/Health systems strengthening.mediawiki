@@ -1,43 +1,33 @@
-'''Health systems strengthening''' (also '''health system strengthening''', abbreviated '''HSS''') is a [[buzzword]]{{cn}} that means to improve the health care system of a community.
+'''Health systems strengthening''' (also '''health system strengthening''', abbreviated '''HSS''') is a term used in [[global health]] that roughly means to improve the health care system of a country.<ref>{{cite web |url=http://www.who.int/healthsystems/hss_glossary/en/index5.html |accessdate=June 14, 2016 |title=Health Systems Strengthening Glossary |publisher=[[World Health Organization]]}}</ref> Within this general definition, it can mean increasing funding for health infrastructure, improving health policy, trying to achieve [[universal healthcare]],<ref name="glassman">{{cite web |url=http://files.givewell.org/files/conversations/Amanda%20Glassman%208-27-13.pdf |title=Conversation with Amanda Glassman on August 27, 2013 |accessdate=June 14, 2016 |last=Glassman |first=Amanda |publisher=[[GiveWell]]}}</ref> or any number of other health measures.
 
-==Notes==
-
-http://files.givewell.org/files/conversations/Amanda%20Glassman%208-27-13.pdf - esp the "hardware" vs "software" distinction
-
-http://www.who.int/healthsystems/hss_glossary/en/index5.html
-
-"Often, however, health system strengthening seems a distant, even abstract aim."<ref>http://apps.who.int/iris/bitstream/10665/44204/1/9789241563895_eng.pdf</ref>
-
-ok.
-
-"Strengthening a health system means initiating activities in the six
-internationally accepted core HSS functions – human resources for health;
-health finance; health governance; health information; medical products,
-vaccines, and technologies; and service delivery."<ref name=usaid/>
-
-"Despite this new attention upon HSS, the term remains a vague concept, with varying definitions and strategies for HSS, and varying ideas about the role attributed to the health system in improving public health. In this Policy Forum, we argue that most current HSS strategies are selective (i.e., they target a specific disease), and their effects may undermine progress towards the long-term goal of effective, high-quality, and inclusive health systems."<ref name="marchal">http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000059#s2</ref><ref>http://karengrepin.com/2009/04/are-health-system-strengthening-efforts.html</ref>
-
-"Almost any support to health interventions can be considered HSS"<ref>http://siteresources.worldbank.org/INTHSD/Resources/376278-1114111154043/1011834-1246449110524/062509BermanUnpackingHealthSystemStrengthening.pdf</ref>
-
-There has been some effort to use a [[systems thinking]] approach to health systems strengthening.<ref>https://www.hfgproject.org/wp-content/uploads/2015/02/New-Perspectives-in-Health-Systems-Strengthening-Executive-Summary.pdf</ref><ref>http://apps.who.int/iris/bitstream/10665/44204/1/9789241563895_eng.pdf</ref>
+There has been some effort to use a [[systems thinking]] approach to health systems strengthening.<ref>{{cite web |url=https://www.hfgproject.org/wp-content/uploads/2015/02/New-Perspectives-in-Health-Systems-Strengthening-Executive-Summary.pdf |publisher=USAID |title=New Perspectives in Health Systems Strengthening}}</ref><ref name="systems-thinking-book">{{cite web |url=http://apps.who.int/iris/bitstream/10665/44204/1/9789241563895_eng.pdf |title=Systems Thinking for Health Systems Strengthening |publisher=World Health Organization |year=2009}}</ref>
 
 ==Organizations that use health systems strengthening==
 
+Various health organizations have claimed to use health systems strengthening (while not necessarily agreeing on the definition). Some of these are:
+
 * [[World Health Organization]]
-* [[USAID]]: "Health Systems Strengthening (HSS) has been at the core of the U.S. Agency for International Development's (USAID's) mission in health for the last 20 years."<ref name=usaid>https://www.usaid.gov/sites/default/files/documents/1864/HSS-Vision.pdf</ref>
+* [[US Agency for International Development]] (USAID, uses different definition from the one in a 2006 Global Fund-commissioned WHO report);<ref name=marchal/> USAID states that HSS has been "at the core of [its] mission in health for the last 20 years", and defines HSS as "initiating activities in the six internationally accepted core HSS functions – human resources for health; health finance; health governance; health information; medical products, vaccines, and technologies; and service delivery".<ref name=usaid>{{cite web |url=https://www.usaid.gov/sites/default/files/documents/1864/HSS-Vision.pdf |title=USAID's Vision for Health Systems Strengthening |publisher=USAID |accessdate=June 14, 2016}}</ref>
 * [[GAVI Alliance]]<ref name=marchal/>
 * The [[Global Fund]]<ref name=marchal/>
 * [[PEPFAR]] (though less developed)<ref name=marchal/>
-* [[US Agency for International Development]] (uses different definition)<ref name=marchal/>
-* [[Stop TB Partnership]] (uses different definition)<ref name=marchal/>
-* [[Roll Back Malaria]] (uses different definition)<ref name=marchal/>
+* [[Stop TB Partnership]] (uses different definition from the one in a 2006 Global Fund-commissioned WHO report)<ref name=marchal/>
+* [[Roll Back Malaria]] (uses different definition from the one in a 2006 Global Fund-commissioned WHO report)<ref name=marchal/>
 
 ==Reception==
+
+Both the idea of health systems strengthening and the term itself have received attention.
+
+Even advocates of health systems strengthening admit that it can often seem like a "distant, even abstract aim".<ref name=systems-thinking-book/>
+
+Marchal et al., writing in 2009, call the term "vague" and "argue that most current HSS strategies are selective (i.e., they target a specific disease), and their effects may undermine progress towards the long-term goal of effective, high-quality, and inclusive health systems."<ref name="marchal">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000059#s2 |title=Global Health Actors Claim To Support Health System Strengthening—Is This Reality or Rhetoric? |authors=Marchal B, Cavalli A, Kegels G |date=April 28, 2009 |publisher=''[[PLOS Medicine]]''}}</ref><ref>{{cite web |url=http://karengrepin.com/2009/04/are-health-system-strengthening-efforts.html |title=Are health system strengthening efforts just hype? |date=April 29, 2009 |author=Karen Grepin |accessdate=June 14, 2016}}</ref>
+
+[[Peter Berman]], who was the lead health economist at the [[World Bank]], has pointed out that "Almost any support to health interventions can be considered HSS".<ref>{{cite web |url=http://siteresources.worldbank.org/INTHSD/Resources/376278-1114111154043/1011834-1246449110524/062509BermanUnpackingHealthSystemStrengthening.pdf |author=Peter Berman |date=June 2009 |publisher=World Bank |title=Unpacking Health System Strengthening |accessdate=June 14, 2016}}</ref>
 
 ==See also==
 
 * [[Timeline of global health]]
-* {{also|Health system#Health systems performance}}
+* [[Health system#Health systems performance|Health system § Health systems performance]]
 
 ==References==
 
