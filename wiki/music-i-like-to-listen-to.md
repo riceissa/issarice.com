@@ -52,7 +52,7 @@ For me, music often allows me to experience the *qualia* of certain periods of m
 -------------------------------------------------------------------------------
 Time period         Music
 ------------------- -----------------------------------------------------------
-2016-12 (?) to      The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
+2015-12 (?) to      The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
 2016-02 (?)         (band): "aitakatta shoujo", "baby blue",
                     [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
 
