@@ -1,17 +1,8 @@
 ---
 title: Music I like to listen to
-feed_description: some new names like Taylor Swift
-author: Issa Rice
 creation_date: 2014-12-20
 last_major_revision_date: 2015-07-11
-language: English
-status: notes
-license: CC0
-tags: ["music", "personal", "japan"]
-aliases: music, music I listen to, music I like
 ---
-
-This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
 
 I mostly listen to mainstream Western music from a few decades back: Bob Dylan^["Bob Dylan's 115th Dream", "It's Alright, Ma (I'm Only Bleeding)", "Visions of Johanna", "Stuck Inside of Mobile with the Memphis Blues Again", "Just Like a Woman", "Subterranean Homesick Blues", "Mr. Tambourine Man", "It's All Over Now, Baby Blue", "I Want You",  "Highway 61 Revisited", "Ballad of a Thin Man", and many more.], The Beatles, Pink Floyd, The Kinks[^kinks], Led Zeppelin, Jimi Hendrix, Velvet Underground (roughly in that order).
 I've also fairly recently discovered [Fishmans](!w)^["頼りない天使", "バックビートにのっかって", and also their later albums: *空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.], [Sidi Touré](!w), [Detektivbyrån](!w), [Jean Michel Jarre](!w), [Jean-Luc Ponty](!w), mostly through my father.
@@ -67,3 +58,7 @@ Time period         Music
 2016-06             Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present
                     (おくりもの)"), Illusion of Gaia OST
 -------------------------------------------------------------------------------
+
+# History
+
+This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
