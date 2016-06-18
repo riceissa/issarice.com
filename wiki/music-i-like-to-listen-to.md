@@ -1,11 +1,8 @@
 ---
 title: Music I like to listen to
 creation_date: 2014-12-20
-last_major_revision_date: 2015-07-11
+date: 2016-06-18
 ---
-
-I mostly listen to mainstream Western music from a few decades back: Bob Dylan^["Bob Dylan's 115th Dream", "It's Alright, Ma (I'm Only Bleeding)", "Visions of Johanna", "Stuck Inside of Mobile with the Memphis Blues Again", "Just Like a Woman", "Subterranean Homesick Blues", "Mr. Tambourine Man", "It's All Over Now, Baby Blue", "I Want You",  "Highway 61 Revisited", "Ballad of a Thin Man", and many more.], The Beatles, Pink Floyd, The Kinks[^kinks], Led Zeppelin, Jimi Hendrix, Velvet Underground (roughly in that order).
-I've also fairly recently discovered [Fishmans](!w)^["頼りない天使", "バックビートにのっかって", and also their later albums: *空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.], [Sidi Touré](!w), [Detektivbyrån](!w), [Jean Michel Jarre](!w), [Jean-Luc Ponty](!w), mostly through my father.
 
 [^kinks]: I really enjoy Ray Davies' cynical worldview.
 See songs like "Sitting in my Hotel", "Supersonic Rocket Ship" (I read this as an indictment of modernity's populism/PC culture: "Nobody's gonna travel second class / There'll be equality / And no suppression of minorities"), "Celluloid Heroes", "Waterloo Sunset" (okay, this one is just sweet), "Apeman", "Autumn Almanac", "Little Miss Queen Of Darkness", "People Take Pictures of Each Other", "The Hard Way", "Afternoon Tea", "Wonderboy", "I'm On An Island".
@@ -43,6 +40,27 @@ For me, music often allows me to experience the *qualia* of certain periods of m
 -------------------------------------------------------------------------------
 Time period         Music
 ------------------- -----------------------------------------------------------
+2007 or 2008 (?)    Queen
+
+before 2016         I mostly listen to mainstream Western music from a few
+                    decades back: Bob Dylan^["Bob Dylan's 115th Dream", "It's
+                    Alright, Ma (I'm Only Bleeding)", "Visions of Johanna",
+                    "Stuck Inside of Mobile with the Memphis Blues Again",
+                    "Just Like a Woman", "Subterranean Homesick Blues", "Mr.
+                    Tambourine Man", "It's All Over Now, Baby Blue", "I Want
+                    You",  "Highway 61 Revisited", "Ballad of a Thin Man", and
+                    many more.], The Beatles, Pink Floyd, The Kinks[^kinks],
+                    Led Zeppelin, Jimi Hendrix, Velvet Underground (roughly in
+                    that order).
+                    I've also fairly recently discovered [Fishmans](
+                    !w)^["頼りない天使", "バックビートにのっかって", and also
+                    their later albums: *空中キャンプ*, *宇宙 日本 世田谷*, 
+                    *ORANGE*.],  [Jean
+                    Michel Jarre](!w), [Jean-Luc Ponty](!w), mostly through my
+                    father.
+
+2013 or 2014        [Sidi Touré](!w), [Detektivbyrån](!w)
+
 2015-12 (?) to      The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
 2016-02 (?)         (band): "aitakatta shoujo", "baby blue",
                     [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
@@ -62,3 +80,5 @@ Time period         Music
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
+
+The page started out as a collection of music I like to listen to, but considering that my tastes have drifted with the passing of time, I felt it more appropriate to make it a list of music I at one point in time liked listening to.
