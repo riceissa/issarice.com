@@ -42,12 +42,9 @@ Some others:
 - Wings Of Honneamise OST
 - "She's 22" by Norah Jones
 - RahXephon OST (the classical tracks)
-- [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
 - Hyouka OST
 - Hilary Hahn (via Andrew Ho)
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
-- Final Fantasy VII OST ("Anxious Heart", "Barret's Theme", "Oppressed People", "Don of the Slums", "Farm Boy", "It's Difficult to Stand on Both Feet, Isn't It?", "Cait Sith's Theme", "Cosmo Canyon", "Great Warrior", "Descendant of Shinobi", "Jenova Absolute", "The Birth of God", "One-Winged Angel", "World Crisis")
-- Chrono Trigger OST
 
 (I plan to make a table like the following to better keep track of my music.
 For me, music often allows me to experience the *qualia* of certain periods of my life, so it's important that the time periods when I listened to the music is listed alongside it.)
@@ -56,7 +53,16 @@ For me, music often allows me to experience the *qualia* of certain periods of m
 Time period         Music
 ------------------- -----------------------------------------------------------
 2016-12 (?) to      The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
-2016-02 (?)         (band): "aitakatta shoujo", "baby blue"
+2016-02 (?)         (band): "aitakatta shoujo", "baby blue",
+                    [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
+
+2016-05             Final Fantasy VII OST ("Anxious Heart", "Barret's Theme",
+                    "Oppressed People", "Don of the Slums", "Farm Boy", "It's
+                    Difficult to Stand on Both Feet, Isn't It?", "Cait Sith's
+                    Theme", "Cosmo Canyon", "Great Warrior", "Descendant of
+                    Shinobi", "Jenova Absolute", "The Birth of God",
+                    "One-Winged Angel", "World Crisis"), Chrono Trigger OST
+                    ("Corridors of Time")
 
 2016-06             Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present
                     (おくりもの)"), Illusion of Gaia OST
