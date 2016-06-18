@@ -55,4 +55,4 @@ For me, music often allows me to experience the *qualia* of certain periods of m
 Time period    | Music
 ---------------------------------+--------------------------------------------------------------------------------------------------------------
 2016-12 (?) to 2016-02 (?) | The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service (band): "aitakatta shoujo", "baby blue"
-2016-06        |  Final Fantasy 3--6 OST, Terranigma OST, Illusion of Gaia OST
+2016-06        |  Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present (おくりもの)"), Illusion of Gaia OST
