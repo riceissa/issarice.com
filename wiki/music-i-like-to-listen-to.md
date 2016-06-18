@@ -4,6 +4,8 @@ creation_date: 2014-12-20
 date: 2016-06-18
 ---
 
+*This page is undergoing major reconstruction. For a more functional version of the page, see [here](http://issarice.com/_archive/047a3fcfd087dc81fb68e886e5e977df631504e3/music-i-like-to-listen-to).*
+
 [^kinks]: I really enjoy Ray Davies' cynical worldview.
 See songs like "Sitting in my Hotel", "Supersonic Rocket Ship" (I read this as an indictment of modernity's populism/PC culture: "Nobody's gonna travel second class / There'll be equality / And no suppression of minorities"), "Celluloid Heroes", "Waterloo Sunset" (okay, this one is just sweet), "Apeman", "Autumn Almanac", "Little Miss Queen Of Darkness", "People Take Pictures of Each Other", "The Hard Way", "Afternoon Tea", "Wonderboy", "I'm On An Island".
 
@@ -35,7 +37,7 @@ Some others:
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 
 (I plan to make a table like the following to better keep track of my music.
-For me, music often allows me to experience the *qualia* of certain periods of my life, so it's important that the time periods when I listened to the music is listed alongside it.)
+For me, music often allows me to experience the *qualia* of certain periods of my life, so it's important that the time periods when I listened to the music are listed alongside it.)
 
 -------------------------------------------------------------------------------
 Time period      Music
