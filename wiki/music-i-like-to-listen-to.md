@@ -46,7 +46,7 @@ Some others:
 - Hyouka OST
 - Hilary Hahn (via Andrew Ho)
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
-- Final Fantasy VII OST
+- Final Fantasy VII OST ("Anxious Heart", "Barret's Theme", "Oppressed People", "Don of the Slums", "Farm Boy", "It's Difficult to Stand on Both Feet, Isn't It?", "Cait Sith's Theme", "Cosmo Canyon", "Great Warrior", "Descendant of Shinobi", "Jenova Absolute", "The Birth of God", "One-Winged Angel", "World Crisis")
 - Chrono Trigger OST
 
 (I plan to make a table like the following to better keep track of my music.
