@@ -52,7 +52,12 @@ Some others:
 (I plan to make a table like the following to better keep track of my music.
 For me, music often allows me to experience the *qualia* of certain periods of my life, so it's important that the time periods when I listened to the music is listed alongside it.)
 
-Time period    | Music
----------------------------------+--------------------------------------------------------------------------------------------------------------
-2016-12 (?) to 2016-02 (?) | The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service (band): "aitakatta shoujo", "baby blue"
-2016-06        |  Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present (おくりもの)"), Illusion of Gaia OST
+-------------------------------------------------------------------------------
+Time period         Music
+------------------- -----------------------------------------------------------
+2016-12 (?) to      The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
+2016-02 (?)         (band): "aitakatta shoujo", "baby blue"
+
+2016-06             Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present
+                    (おくりもの)"), Illusion of Gaia OST
+-------------------------------------------------------------------------------
