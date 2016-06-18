@@ -91,6 +91,7 @@ table th {
 }
 
 table td {
+    border-bottom: 1px solid #ccc;
     padding: 0px 10px;
     vertical-align: top;
 }
