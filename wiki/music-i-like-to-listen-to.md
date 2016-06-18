@@ -38,43 +38,41 @@ Some others:
 For me, music often allows me to experience the *qualia* of certain periods of my life, so it's important that the time periods when I listened to the music is listed alongside it.)
 
 -------------------------------------------------------------------------------
-Time period         Music
-------------------- -----------------------------------------------------------
+Time period      Music
+---------------- --------------------------------------------------------------
 2007 or 2008 (?)    Queen
 
-before 2016         I mostly listen to mainstream Western music from a few
-                    decades back: Bob Dylan^["Bob Dylan's 115th Dream", "It's
-                    Alright, Ma (I'm Only Bleeding)", "Visions of Johanna",
-                    "Stuck Inside of Mobile with the Memphis Blues Again",
-                    "Just Like a Woman", "Subterranean Homesick Blues", "Mr.
-                    Tambourine Man", "It's All Over Now, Baby Blue", "I Want
-                    You",  "Highway 61 Revisited", "Ballad of a Thin Man", and
-                    many more.], The Beatles, Pink Floyd, The Kinks[^kinks],
-                    Led Zeppelin, Jimi Hendrix, Velvet Underground (roughly in
-                    that order).
-                    I've also fairly recently discovered [Fishmans](
-                    !w)^["頼りない天使", "バックビートにのっかって", and also
-                    their later albums: *空中キャンプ*, *宇宙 日本 世田谷*, 
-                    *ORANGE*.],  [Jean
-                    Michel Jarre](!w), [Jean-Luc Ponty](!w), mostly through my
-                    father.
+before 2016      I mostly listen to mainstream Western music from a few
+                 decades back: Bob Dylan^["Bob Dylan's 115th Dream", "It's
+                 Alright, Ma (I'm Only Bleeding)", "Visions of Johanna", "Stuck
+                 Inside of Mobile with the Memphis Blues Again", "Just Like a
+                 Woman", "Subterranean Homesick Blues", "Mr.  Tambourine Man",
+                 "It's All Over Now, Baby Blue", "I Want You",  "Highway 61
+                 Revisited", "Ballad of a Thin Man", and many more.], The
+                 Beatles, Pink Floyd, The Kinks[^kinks], Led Zeppelin, Jimi
+                 Hendrix, Velvet Underground (roughly in that order).  [Jean Michel Jarre](!w), [Jean-Luc Ponty](!w),
+                 mostly through my father.
 
-2013 or 2014        [Sidi Touré](!w), [Detektivbyrån](!w)
+2013 or 2014     [Sidi Touré](!w), [Detektivbyrån](!w)
 
-2015-12 (?) to      The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
-2016-02 (?)         (band): "aitakatta shoujo", "baby blue",
-                    [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
+2014-12          Discovered [Fishmans](!w): "頼りない天使",
+                 "バックビートにのっかって", and also their later albums:
+                 *空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.
 
-2016-05             Final Fantasy VII OST ("Anxious Heart", "Barret's Theme",
-                    "Oppressed People", "Don of the Slums", "Farm Boy", "It's
-                    Difficult to Stand on Both Feet, Isn't It?", "Cait Sith's
-                    Theme", "Cosmo Canyon", "Great Warrior", "Descendant of
-                    Shinobi", "Jenova Absolute", "The Birth of God",
-                    "One-Winged Angel", "World Crisis"), Chrono Trigger OST
-                    ("Corridors of Time")
+2015-12 (?) to   The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
+2016-02 (?)      (band): "aitakatta shoujo", "baby blue",
+                 [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
 
-2016-06             Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present
-                    (おくりもの)"), Illusion of Gaia OST
+2016-05          Final Fantasy VII OST ("Anxious Heart", "Barret's Theme",
+                 "Oppressed People", "Don of the Slums", "Farm Boy", "It's
+                 Difficult to Stand on Both Feet, Isn't It?", "Cait Sith's
+                 Theme", "Cosmo Canyon", "Great Warrior", "Descendant of
+                 Shinobi", "Jenova Absolute", "The Birth of God", "One-Winged
+                 Angel", "World Crisis"), Chrono Trigger OST ("Corridors of
+                 Time")
+
+2016-06          Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present
+                 (おくりもの)"), Illusion of Gaia OST
 -------------------------------------------------------------------------------
 
 # History
