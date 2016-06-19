@@ -1,18 +1,7 @@
 ---
 title: Contact
-#description: none
-author: Issa Rice
 creation_date: 2015-01-14
 last_major_revision_date: 2015-09-06
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-status: mostly finished
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-belief: highly likely
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
-tags: contact, general, about
-aliases: connect
 ---
 
 Below are some ways to contact me (Issa Rice), as well as the account
