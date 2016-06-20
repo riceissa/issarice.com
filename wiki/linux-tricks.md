@@ -1,7 +1,6 @@
 ---
 title: Linux tricks
-tags: linux, openbsd, debian
-aliases: other-command-line-notes, miscellaneous-tips-and-tricks
+date: 2016-06-20
 ---
 
 
@@ -386,3 +385,32 @@ less +F filename
 ```
 
 One can then hit `Ctrl`-`c` to return to regular less, and hit `F` to return to the `tail -f` mode again.
+
+# `tee /dev/tty`
+
+Piping output through `tee /dev/tty` allows you to print to stdout as well as pass it along to another process.
+I find it useful to pass pass output to xclip while also seeing what was copied.
+For instance
+
+```bash
+$ cat somefile | tee /dev/tty | xclip -sel clip
+```
+
+allows you to copy the contents of `somefile` into your clipboard while also seeing what is in the file.
+
+# sponge
+
+sponge (from moreutils) allows you to pipe something to a file while also reading from it first.
+So for instance:
+
+```bash
+$ cat somefile | grep keyword | sponge somefile
+```
+
+Without sponge, you would first have to redirect the output of `cat somefile | grep keyword` to a temporary file, because simply doing
+
+```bash
+$ cat somefile | grep keyword > somefile
+```
+
+would blank `somefile`.
