@@ -4,6 +4,8 @@ author: Issa Rice
 date: 2016-06-20
 ---
 
+# General habits
+
 - Make or add to Wikipedia pages in the course of reading about a topic.
 - Frequently Google for information to build understanding of the base rates in the area you're reading about.
 - Google the topic with the names of various organizations or movements or ideologies (to build intuition for what various people think about the topic).
@@ -13,6 +15,28 @@ date: 2016-06-20
 - Email relevant people for more information if you can't find what you're looking for (and remember to follow up if they don't respond).
 - Archive your online sources to combat linkrot.
 I use the Scrapbook addon in Firefox (local archive), as well as Pinboard (personal online archive) and Archive.org (public online archive).
+
+# Common frustrations
+
+- Copying text from PDFs can be frustrating.
+Sometimes using a different PDF viewer helps (e.g. Firefox's PDF viewer followed by Atril/Evince in case of severe formatting issues).
+In [Vim]() I also have:
+
+    ```vim
+    " filter text pasted from PDFs, so that formatting is suitable; progress
+    " ongoing; join must be called at the very end because vim assigns <line1> and
+    " <line2> when the command is invoked, so we can't change the boundaries of the
+    " line markers; for the same reason, we can't regex replace new lines
+    command! -range FilterPDFText silent <line1>,<line2>s/$/ /e | silent <line1>,<line2>s/\-\s\+$//e | silent <line1>,<line2>s/\s\+/ /ge | silent <line1>,<line2>s/^\s\+//e | <line1>,<line2>join!
+
+    nnoremap <leader>q :'{,'}FilterPDFText<CR>:s/\s\+$//e<CR>O<Esc>jo<Esc>kgqip
+
+    ```
+
+    which will do some simple regex replacement to get a decent output in most cases.
+
+- Generating citations for webpages is tedious.
+For this reason I wrote a [citation generator for Wikipedia](https://github.com/riceissa/citation-generator), which does something like 80% of the work for 80% of websites.
 
 # External links
 
