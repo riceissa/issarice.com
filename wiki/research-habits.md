@@ -1,7 +1,7 @@
 ---
 title: Research habits
 author: Issa Rice
-date: 2016-06-20
+date: 2016-06-21
 ---
 
 # General habits
