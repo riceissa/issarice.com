@@ -16,7 +16,7 @@ date: 2016-06-20
 - Archive your online sources to combat linkrot.
 I use the Scrapbook addon in Firefox (local archive), as well as Pinboard (personal online archive) and Archive.org (public online archive).
 - Tabulating information as you come across it will help to make things more explicit, especially by revealing all of the relevant dimensions and exposing the empty cells in the table.
-Examples: [Tabular summary of unschooling literature](http://causeprioritization.org/Tabular%20summary%20of%20unschooling%20literature), [User:Issa Rice/Priors for CP](http://causeprioritization.org/User:Issa%20Rice/Priors%20for%20CP), some of the pages on Subwiki.
+Examples: [Tabular summary of unschooling literature](http://causeprioritization.org/Tabular%20summary%20of%20unschooling%20literature), [User:Issa Rice/Priors for CP](http://causeprioritization.org/User:Issa%20Rice/Priors%20for%20CP), some of the pages on Subwiki, like [Symmetric group:S3](http://groupprops.subwiki.org/wiki/Symmetric_group:S3), and some of the pages on the [Cognito Mentoring]() wiki, like [Lower division undergraduate mathematics course structure](http://info.cognitomentoring.org/wiki/Lower_division_undergraduate_mathematics_course_structure).
 
 # Common frustrations
 
@@ -39,6 +39,8 @@ In [Vim]() I also have:
 
 - Generating citations for webpages is tedious.
 For this reason I wrote a [citation generator for Wikipedia](https://github.com/riceissa/citation-generator), which does something like 80% of the work for 80% of websites.
+
+- I also reference things by linking to them, and found it annoying to copy the page titles, so I wrote an [autolink](https://github.com/riceissa/autolink) program.
 
 # External links
 
