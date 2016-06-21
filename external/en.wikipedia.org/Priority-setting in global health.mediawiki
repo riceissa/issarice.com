@@ -4,9 +4,20 @@ In [[global health]], '''priority-setting''' is a term used for the process and 
 
 * [[International Decision Support Initiative]]
 * [[Center for Global Development]]
+* [[Health Interventions and Technology Assessment Program]]
 
 ==See also==
 
 * [[Effective altruism]]
 * [[Cost-benefit analysis]]
+
+==Notes==
+
+from [[University_of_Toronto_Joint_Centre_for_Bioethics#Priority_Setting]]:
+
+Priority setting, or resource allocation, is an important health policy issue that occurs at all levels of health care. The Joint Centre for Bioethics shares its research platform on priority setting with the Canadian Priority Setting Research Network, which aims to improve the politics and processes of health care priority setting and enhance the research capacity for priority setting. The centre takes an innovative approach to priority setting research in that the focus is placed on enhancing the priority setting processes, capturing and sharing actual priority setting experiences, and taking a bottom-up approach to improve priority setting.
+
+==References==
+
+{{reflist|30em}}
 
