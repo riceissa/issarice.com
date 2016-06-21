@@ -14,3 +14,4 @@ I use the Scrapbook addon in Firefox (local archive), as well as Pinboard (perso
 # External links
 
 - [Carl Shulman's research advice](https://docs.google.com/document/d/1_yuuheVqp1quDfkuRcpoW_HO7jPaI7QnRjF1zl_VovU/edit) (quite coincidentally, [Claire Zabel shared](https://www.facebook.com/claire.zabel/posts/10210316635098601) Carl's advice on the same day I began working on this page)
+- [gwern's notes on organizing information](https://www.gwern.net/About#information-organizing)
