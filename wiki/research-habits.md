@@ -8,6 +8,8 @@ date: 2016-06-20
 - Frequently Google for information to build understanding of the base rates in the area you're reading about.
 - Google the topic with the names of various organizations or movements or ideologies (to build intuition for what various people think about the topic).
     - Similarly, Google the topic along with terms like "criticisms of", "critique", "sucks", "wrong", "bad", etc. to see what opponents think.
+    (More generally, there are two ways to build intuition on a topic: to obtain representative data so you understand the base rates, and to collect many (especially extreme) anecdotes so you have a good idea of the space of possibilities of opinion.
+    The strategy of this bullet point helps with the latter.)
 - Email relevant people for more information if you can't find what you're looking for (and remember to follow up if they don't respond).
 - Archive your online sources to combat linkrot.
 I use the Scrapbook addon in Firefox (local archive), as well as Pinboard (personal online archive) and Archive.org (public online archive).
