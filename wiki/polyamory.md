@@ -57,3 +57,5 @@ Just some notes for now.
     Related is [a comment by Wei Dai](http://lesswrong.com/lw/2ee/unknown_knowns_why_did_you_choose_to_be_monogamous/27d4) and Tertilt's [PDF on berkeley\.edu](http://eml.berkeley.edu/~webfac/bardhan/e271_f05/tertilt.pdf) that is linked.
 
 - Hmm I also want to talk about this in the context of e.g. [decline in traditional romantic relationships](http://www.webcitation.org/query?url=http%3A%2F%2Fwww.theguardian.com%2Fworld%2F2013%2Foct%2F20%2Fyoung-people-japan-stopped-having-sex&date=2014-11-16)
+
+- [Polyamory vs monoamory and following up](https://www.facebook.com/vipulnaik.r/posts/10208711835929206), a discussion on Vipul Naik's Facebook wall
