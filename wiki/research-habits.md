@@ -15,6 +15,8 @@ date: 2016-06-20
 - Email relevant people for more information if you can't find what you're looking for (and remember to follow up if they don't respond).
 - Archive your online sources to combat linkrot.
 I use the Scrapbook addon in Firefox (local archive), as well as Pinboard (personal online archive) and Archive.org (public online archive).
+- Tabulating information as you come across it will help to make things more explicit.
+Examples: [Tabular summary of unschooling literature](http://causeprioritization.org/Tabular%20summary%20of%20unschooling%20literature), [User:Issa Rice/Priors for CP](http://causeprioritization.org/User:Issa%20Rice/Priors%20for%20CP), some of the pages on Subwiki.
 
 # Common frustrations
 
