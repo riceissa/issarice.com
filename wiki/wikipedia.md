@@ -51,6 +51,7 @@ These are:
 - *[The State of the World's Children](https://en.wikipedia.org/wiki/The_State_of_the_World%27s_Children)*, the flagship publication of UNICEF
 - [Innovative Vector Control Consortium](https://en.wikipedia.org/wiki/Innovative_Vector_Control_Consortium), which is funded by the Gates Foundation
 - [3 by 5 Initiative](https://en.wikipedia.org/wiki/3_by_5_Initiative), an HIV/AIDS program by WHO
+- [Health systems strengthening](https://en.wikipedia.org/wiki/Health_systems_strengthening), a term used in global health that I wanted to investigate due to its perceived vagueness (even after writing the page, I still think the term is vague)
 
 # External links
 
