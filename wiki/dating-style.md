@@ -16,3 +16,4 @@ For this reason, I like borrowing the idea of [versioning](https://en.wikipedia.
 In practice I call this the "last substantive revision date".
 - Even with "last substantive revision date", there is a problem, because the substantive revision might have been in a single part of the page, so that most of the page is still quite old.
 Of course, there are things like [git blame](https://git-scm.com/docs/git-blame) that can tell you the last modification date of every single sentence (since each line in the source Markdown files on this site is a sentence), but is there an easier way to convey this sort of information to readers?
+(Of course, we don't require of software that every part of it is up-to-date!)
