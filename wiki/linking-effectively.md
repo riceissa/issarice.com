@@ -57,3 +57,7 @@ like:
 A general rule is, you should always imagine how a page would look if you
 removed all the hyperlinks. So this means using words like “here” for
 linking should be discouraged.
+
+# See also
+
+- [Durable link]()
