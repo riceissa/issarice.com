@@ -21,7 +21,7 @@ Things to talk about:
 - long exposed links appear poorly on mobile browsers
 - when to use linking style like (1, 2, 3) or (here, here, and here) or (more) (GiveWell does the third.)
 - internal vs external links
-- email obfuscation in links? (what pandoc does)
+- email obfuscation in links? (what Pandoc does)
 - referrer masking
 - when to use footnotes, when to use links, when to use parentheses
 - From LW boring advice: "Never post a web link that requires a reader to click on it to find out if they want to click on it."
@@ -31,6 +31,10 @@ Things to talk about:
 In other words, should we prefer `["Article Title"]` or `"[Article Title]"`?
 An analogue with book titles cannot be made, because both `[*Book Title*]` and `*[Book Title]*` appear the same.
 Consider also fragments that include the quoted thing on one end, e.g. `see [my Quora answer to the question "Should I eat?"]`, where excluding the quotes is impossible.
+- Wikipedia likes to give full citations as a *way to combat linkrot*.
+Indeed, the argument is that it is easier to find a linkrotted source if there's other information like title of article, author name (someone to contact if the article cannot be found elsewhere), etc.
+However, I find inline linking to be more emphatic (it conveys a different message than footnotes or parenthetical citations).
+One way to have the best of both worlds is to be [aggressive about archiving](digital-preservation) and to have a mechanism for detecting broken URLs (which you should be doing anyway).
 
 Links often emphasize text on a page (in many browsers links are underlined and colored differently). So consider the sentence “Stopping
 X shouldn’t be a high priority.” It would be natural to hyperlink this
