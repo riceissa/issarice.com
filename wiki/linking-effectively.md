@@ -1,6 +1,6 @@
 ---
 title: Linking effectively
-date: 2016-05-24
+date: 2016-06-22
 ---
 
 Some places to look:
