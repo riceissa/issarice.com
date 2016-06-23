@@ -5,7 +5,7 @@ author: Issa Rice
 ---
 
 - I asked [What does dcterms\.date denote?](http://stackoverflow.com/questions/37981652/what-does-dcterms-date-denote) on Stack Overflow.
-- [Dublin Core](!w) [defines](http://dublincore.org/documents/dcmi-terms/) several dating mechanisms, include the date when a resource becomes available, when it was created, when it was accepted, when it was submitted, when it was issued, and when it was modified.
+- [Dublin Core](!w) [defines](http://dublincore.org/documents/dcmi-terms/) several dating mechanisms, including the date when a resource became available, when it was created, when it was accepted, when it was submitted, when it was issued, and when it was modified.
 There is also the mysterious (see above question) bare "date" field.
 - By default, Pandoc uses the `date` or `date-meta` YAML fields -- but what are these the dates of?
 - For blogs, a "date" could probably just mean the date a post was first published.
