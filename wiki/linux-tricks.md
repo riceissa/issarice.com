@@ -389,7 +389,7 @@ One can then hit `Ctrl`-`c` to return to regular less, and hit `F` to return to 
 # `tee /dev/tty`
 
 Piping output through `tee /dev/tty` allows you to print to stdout as well as pass it along to another process.
-I find it useful to pass pass output to xclip while also seeing what was copied.
+I find it useful to pass output to xclip while also seeing what was copied.
 For instance
 
 ```bash
