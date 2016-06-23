@@ -1,15 +1,83 @@
-In [[global health]], '''priority-setting''' is a term used for the process and strategy of deciding which health interventions to carry out. Priority-setting can be conducted at the disease level (i.e. deciding which disease to alleviate), the overall strategy level (i.e. [[selective primary healthcare]] versus [[primary healthcare]] versus more general [[health systems strengthening]]), or other levels.
+In [[global health]], '''priority-setting''' is a term used for the process and strategy of deciding which health interventions to carry out. Priority-setting can be conducted at the disease level (i.e. deciding which disease to alleviate), the overall strategy level (i.e. [[selective primary healthcare]] versus [[primary healthcare]] versus more general [[health systems strengthening]]), research level (i.e. which health research to carry out),<ref name=rudan2007/> or other levels.
 
-==Organizations working on priority-setting==
+==Definitions==
+
+* i suspect there are varying definitions for the term, as was the case in HSS
+* i also want to cover synonymous and different but related terms here
+
+prioritization in health case and health research, priority determination, health priorities<ref name=rudan2010/>
+
+More recognition of different levels:
+
+{{quote|text=At the macro level, priority setting can be used to set limits of the health budget and how much should be spent on health insurance; at the meso level, how much should be spent on infrastructure development and human resources; at the micro level, how much should be spent on particular drugs, technologies, intervention, and policies within a health problem.<ref>{{cite web |url=http://globalhealth.org/wp-content/uploads/CallForAbstract.pdf |title=Call for Abstracts: Priority Setting for Universal Health Coverage |accessdate=June 23, 2016 |publisher=Prince Mahidol Award Conference 2016}}</ref>}}
+
+==History==
+
+* who came up with it?
+
+<ref name="rudan2007">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/ |accessdate=June 21, 2016 |author=Igor Rudan et al. |date=October 2007 |title=Setting Priorities in Global Child Health Research Investments: Assessment of Principles and Practice |journal=Croat Med J.}}</ref> has the section "A history of priority setting in global health research investments"
+
+{| class="sortable wikitable"
+|-
+! Year !! Event !! Level at which prioritization occurred
+|-
+| 1990 || [[Commission on Health Research for Development]]<ref name=rudan2007/> ||
+|-
+| ? || [[Essential National Health Research]] ||
+|-
+| 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> ||
+|-
+| 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> ||
+|-
+| 2000 || [[Council on Health Research and Development]]<ref name=rudan2007/> ||
+|-
+| 2003 || The [[Bill &amp; Melinda Gates Foundation]] announces the "[[The Grand Challenges]]"<ref name=rudan2007/> ||
+|-
+| 2004 || [[Global Forum for Health Research]] develops the "Combined Approach Matrix".<ref name=rudan2007/> ||
+|-
+| 2007 || ''[[The Lancet]]'' publishes a series of papers on priorities in international health.<ref name=rudan2007/> ||
+|}
+
+==Metrics==
+
+* [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]])<ref name=rudan2010/>
+* [[Quality-adjusted life year]]
+
+==Who sets the priorities?==
+
+{{quote|text=In most countries, health spending by governments vastly outpaces international health aid, so governments set most health priorities. There are a few highly aid - dependent countries where donors have huge influence on health priorities.<ref>{{cite web |url=http://files.givewell.org/files/conversations/Glassman%2011-13-13%20(public).pdf |title=A conversation with Amanda Glassman on November 13, 2013 |date=November 13, 2013 |accessdate=June 21, 2016 |publisher=[[GiveWell]]}}</ref>}}
+
+Laying out all the possibilities:
+
+* Governments
+* International orgs
+* Foundations
+* Private donors (including HNWIs and UHNWIs)
+* Non-profits/companies assisting governments, foundations, and private donors
+
+==Organizations and programs working on priority-setting==
 
 * [[International Decision Support Initiative]]
-* [[Center for Global Development]]
+* [[Center for Global Development]]<ref>{{cite web |url=http://www.cgdev.org/working-group/priority-setting-institutions-global-health |title=Priority-Setting Institutions for Global Health |publisher=[[Center for Global Development]] |accessdate=June 21, 2016}}</ref>
 * [[Health Interventions and Technology Assessment Program]]
+* [[Disease Control Priorities Project]]<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2002/09/Initiative-to-Assess-Disease-Control-Priorities-in-Developing-Countries |title=New Initiative Will Assess Disease Control Priorities In Developing Countries |date=September 2002 |publisher=[[Bill & Melinda Gates Foundation]] |accessdate=June 21, 2016}}</ref>
+* [[World Health Organization]] (e.g. [[WHO-CHOICE]])<ref name="rudan2010">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000308 |author=Rudan I, Kapiriri L, Tomlinson M, Balliet M, Cohen B, Chopra M |date=July 13, 2010 |title=Evidence-Based Priority Setting for Health Care and Research: Tools to Support Policy in Maternal, Neonatal, and Child Health in Africa |accessdate=June 23, 2016 |publisher=[[PLOS]]}}</ref>
+* [[Marginal budgeting for bottlenecks]]<ref name=rudan2010/> (the [[World Bank]], [[UNICEF]], and WHO)
+* [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/>
+
+==Reception==
+
+* EA gets a hard time for its "cold, utilitarian" calculations, but is that the case with priority-setting as well?
+
+{{quote|text=However, the past approaches were also not free from certain shortcomings. Identified interventions and research questions that were outlined as the priorities were not compiled in a truly systematic way, using scientifically convincing conceptual framework and objective and repeatable methods, but rather through consensus reached by panels of experts. This often made it difficult to present the identified priorities to wider audiences as legitimate and fair, as the decisions could be seen as driven by research interest bias of individual experts.<ref name=rudan2007/>}}
 
 ==See also==
 
+* [[Timeline of nonprofit evaluation]]
 * [[Effective altruism]]
 * [[Cost-benefit analysis]]
+* [[10/90 gap]]
+* [[Health care rationing]]
 
 ==Notes==
 
