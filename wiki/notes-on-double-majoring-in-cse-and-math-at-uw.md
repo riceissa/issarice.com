@@ -1,10 +1,10 @@
 ---
 title: Notes on double-majoring in CSE and math at UW
 date: 2016-02-11
-tags: uw
+author: Issa Rice
 ---
 
-Note: the information on this page is highly specific to my own situations, and is unlikely to apply to you.
+Note: the information on this page is highly specific to my own situation, and is unlikely to apply to you.
 Specifically, it captures information about the combination of double-majoring in computer science and (BS standard) mathematics at University of Washington *and* taking both of the yearlong honors calculus sequences (math 13X and math 33X).
 
 Basic facts:
