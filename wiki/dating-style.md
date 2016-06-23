@@ -13,3 +13,4 @@ But what about for a site like this one or gwern's?
 Here the creation date is not very useful, since all it tells you is when the author first came up with the idea to write the page -- something that would be more appropriately placed in a "History" or "Changelog" section on the page.
 Nor is the date of the latest edit very useful -- what if the latest edit just fixed a typo but added nothing substantive?
 For this reason, I like borrowing the idea of [versioning](https://en.wikipedia.org/wiki/Software_versioning) from software: in addition to releasing [all of the commits](https://github.com/riceissa/issarice.com), I can make the "date" be of some sort of milestone for the page.
+In practice I call this the "last substantive revision date".
