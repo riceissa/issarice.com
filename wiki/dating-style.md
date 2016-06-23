@@ -14,3 +14,5 @@ Here the creation date is not very useful, since all it tells you is when the au
 Nor is the date of the latest edit very useful -- what if the latest edit just fixed a typo but added nothing substantive?
 For this reason, I like borrowing the idea of [versioning](https://en.wikipedia.org/wiki/Software_versioning) from software: in addition to releasing [all of the commits](https://github.com/riceissa/issarice.com), I can make the "date" be of some sort of milestone for the page.
 In practice I call this the "last substantive revision date".
+- Even with "last substantive revision date", there is a problem, because the substantive revision might have been in a single part of the page, so that most of the page is still quite old.
+Of course, there are things like [git blame](https://git-scm.com/docs/git-blame) that can tell you the last modification date of every single sentence (since each line in the source Markdown files on this site is a sentence), but is there an easier way to convey this sort of information to readers?
