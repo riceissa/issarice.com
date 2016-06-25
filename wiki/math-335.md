@@ -51,7 +51,7 @@ From 7th week:
   something mass-produced, to be consumed by the "mathematical masses"
   (i.e. those who are competent enough to do undergraduate math, but who
   haven't developed a good taste for problems), or
-  written due to the *practical desire to evaluate students*. These
+  written due to the *practical desire to evaluate students*.[^gloaded] These
   problems are in fact no different from whiteboard interview questions
   in programming, which have been criticized well elsewhere[^whiteboard].
 
@@ -163,3 +163,15 @@ procrastinate?](https://www.quora.com/Why-do-so-many-Caltech-students-procrastin
     something maleficent.---Indeed UW is a very *lonely* place in the
     same way that doing archival work is lonely, because nobody else
     seems to care about the things I intensely care about.
+
+[^gloaded]: See also this quote from ["Why are modern scientists so dull? How science selects for perseverance and sociability at the expense of intelligence and creativity"](http://kernull.com/bioradio.pdf):
+
+    > Also, in the past educational ability was more often measured using
+    > relatively-infrequent, timed and supervised, previously-unseen formal
+    > examinations during which the examinee would need to work fast to
+    > organize their knowledge. Such formal examinations are likely to be more
+    > ‘g-loaded’ (i.e., correlate more strongly with IQ) than the greater
+    > emphasis on frequent ‘course work’ which has characterized educational
+    > systems over recent decades – course work tends to reward
+    > Conscientiousness over IQ compared with formal exams and be preferred by
+    > more Conscientious and less intelligent students.
