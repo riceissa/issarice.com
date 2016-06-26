@@ -928,6 +928,7 @@ Also think about how to get what you want in creative ways; in particular, watch
 Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking_ui.html)".
 
 - "[The Moral High Ground of Free Trade](http://www.thesavvystreet.com/the-moral-multiculturalism-of-free-trade/)" (HT Vipul)
+- _The Genius Famine: Why we need Geniuses, why they are dying out and why we need them_ by  Edward Dutton and Bruce Charlton
 
 [^offset]: I like this quote from the comment:
 
