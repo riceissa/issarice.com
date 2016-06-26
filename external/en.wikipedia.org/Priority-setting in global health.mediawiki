@@ -3,13 +3,16 @@ In [[global health]], '''priority-setting''' is a term used for the process and 
 ==Definitions==
 
 * i suspect there are varying definitions for the term, as was the case in HSS
+
+{{quote|text=The result of a myriad of actors championing a kaleidoscope of "priorities" is confusion. Advocates, researchers, and policy makers have labeled almost every disease, condition, medication, or intervention a "health priority."<ref name=glassman2012/>}}
+
 * i also want to cover synonymous and different but related terms here
 
 prioritization in health case and health research, priority determination, health priorities<ref name=rudan2010/>
 
 More recognition of different levels:
 
-{{quote|text=At the macro level, priority setting can be used to set limits of the health budget and how much should be spent on health insurance; at the meso level, how much should be spent on infrastructure development and human resources; at the micro level, how much should be spent on particular drugs, technologies, intervention, and policies within a health problem.<ref>{{cite web |url=http://globalhealth.org/wp-content/uploads/CallForAbstract.pdf |title=Call for Abstracts: Priority Setting for Universal Health Coverage |accessdate=June 23, 2016 |publisher=Prince Mahidol Award Conference 2016}}</ref>}}
+{{quote|text=At the macro level, priority setting can be used to set limits of the health budget and how much should be spent on health insurance; at the meso level, how much should be spent on infrastructure development and human resources; at the micro level, how much should be spent on particular drugs, technologies, intervention, and policies within a health problem.<ref name="pmac2016">{{cite web |url=http://globalhealth.org/wp-content/uploads/CallForAbstract.pdf |title=Call for Abstracts: Priority Setting for Universal Health Coverage |accessdate=June 23, 2016 |publisher=Prince Mahidol Award Conference 2016}}</ref>}}
 
 ==History==
 
@@ -17,15 +20,23 @@ More recognition of different levels:
 
 <ref name="rudan2007">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/ |accessdate=June 21, 2016 |author=Igor Rudan et al. |date=October 2007 |title=Setting Priorities in Global Child Health Research Investments: Assessment of Principles and Practice |journal=Croat Med J.}}</ref> has the section "A history of priority setting in global health research investments"
 
+{{quote|text=Global-level attempts to support priority setting have been undertaken for at least 3 decades, but these efforts have tended to focus on only a few aspects of priority setting, such as gathering evidence or creating methods, and have yet to result in broad improvements via more systematic decision making in LMIC.<ref name=glassman2012 />}}
+
 {| class="sortable wikitable"
 |-
 ! Year !! Event !! Level at which prioritization occurred
+|-
+| Late 1980s || The [[Oregon Health Services Commission]] tries to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 />
 |-
 | 1990 || [[Commission on Health Research for Development]]<ref name=rudan2007/> ||
 |-
 | ? || [[Essential National Health Research]] ||
 |-
+| 1993 || The [[World Bank]] publishes the [[1993 World Development Report]].<ref name=glassman2012 />
+|-
 | 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> ||
+|-
+| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref>
 |-
 | 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> ||
 |-
@@ -40,12 +51,14 @@ More recognition of different levels:
 
 ==Metrics==
 
-* [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]])<ref name=rudan2010/>
+* [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]])<ref name=rudan2010/><ref name="glassman2012">{{Cite journal| doi = 10.1016/j.gheart.2012.01.007| issn = 22118160| volume = 7| issue = 1| pages = 13–34| last1 = Glassman| first1 = Amanda| last2 = Chalkidou| first2 = Kalipso| last3 = Giedion| first3 = Ursula| last4 = Teerawattananon| first4 = Yot| last5 = Tunis| first5 = Sean| last6 = Bump| first6 = Jesse B.| last7 = Pichon-Riviere| first7 = Andres| title = Priority-Setting Institutions in Health| journal = Global Heart| accessdate = 2016-06-23| date = March 2012| url = http://linkinghub.elsevier.com/retrieve/pii/S2211816012000105}}</ref>
 * [[Quality-adjusted life year]]
 
 ==Who sets the priorities?==
 
 {{quote|text=In most countries, health spending by governments vastly outpaces international health aid, so governments set most health priorities. There are a few highly aid - dependent countries where donors have huge influence on health priorities.<ref>{{cite web |url=http://files.givewell.org/files/conversations/Glassman%2011-13-13%20(public).pdf |title=A conversation with Amanda Glassman on November 13, 2013 |date=November 13, 2013 |accessdate=June 21, 2016 |publisher=[[GiveWell]]}}</ref>}}
+
+{{quote|text=It is noteworthy that since health-related decisions are driven by the [[Health in All Policy]] notion, priority setting is undertaken not only by policy makers in the Ministry of Health and Health Insurance Office, but also by stakeholders in non-health sectors such as the Ministry of Finance, development partners, and civil society organizations.<ref name=pmac2016/>}}
 
 Laying out all the possibilities:
 
@@ -54,6 +67,7 @@ Laying out all the possibilities:
 * Foundations
 * Private donors (including HNWIs and UHNWIs)
 * Non-profits/companies assisting governments, foundations, and private donors
+* Donors ("A common outcome is a negotiated set of priorities that reflect some domestic needs and some technical, political, and economic considerations defined largely by the interests of donors."<ref name=glassman2012/>)
 
 ==Organizations and programs working on priority-setting==
 
@@ -70,6 +84,8 @@ Laying out all the possibilities:
 * EA gets a hard time for its "cold, utilitarian" calculations, but is that the case with priority-setting as well?
 
 {{quote|text=However, the past approaches were also not free from certain shortcomings. Identified interventions and research questions that were outlined as the priorities were not compiled in a truly systematic way, using scientifically convincing conceptual framework and objective and repeatable methods, but rather through consensus reached by panels of experts. This often made it difficult to present the identified priorities to wider audiences as legitimate and fair, as the decisions could be seen as driven by research interest bias of individual experts.<ref name=rudan2007/>}}
+
+Glassman et al. lists some criticisms that have come up:<ref name=glassman2012 />{{rp|16}} {{quote|text=Criticisms of this approach have focused on the weak data on which estimates of burden, cost, and effectiveness relied; the value judgments implicit in disability-adjusted life year age weighting and dis- counting decisions; and treatment of equity issues, as well as the political difficulties associated with translating a ground zero package into a public budget based on historical inputs. Further, early cost-effectiveness analysis only considered health maximization as the priority-setting objective; later work has highlighted the need for multi- dimensional priority-setting objectives, including equity and fairness, financial protection, and existing health system capacity.}}
 
 ==See also==
 
