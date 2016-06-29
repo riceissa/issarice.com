@@ -6,6 +6,9 @@ date: 2016-06-29
 
 # Who is Cari Tuna anyway?
 
+- Cari Tuna is in charge (?) of Good Ventures, which is planning to give away most of Dustin Moskovitz's wealth in his lifetime.
+But do we know much about her?
+
 - [articles from Yale Daily](http://yaledailynews.com/blog/author/carituna/page/2/); [search query](https://encrypted.google.com/search?hl=en&q=cari%20tuna%20%22Yale%20Daily%20News%22)
 
 - [They made a fortune in Silicon Valley\. Now they’re giving most of it away\.](https://www.washingtonpost.com/business/billionaire-couple-give-plenty-to-charity-but-they-do-quite-a-bit-of-homework/2014/12/26/19fae34c-86d6-11e4-b9b7-b8632ae73d25_story.html):
