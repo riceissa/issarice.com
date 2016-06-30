@@ -56,6 +56,10 @@ It is for this reason that the survival ratio is good to look at in addition to 
 
 At each time $t$, the survival ratio is 'the number of employees at time $t$' divided by 'the number of cumulative employees at time $t$'.
 
+# See also
+
+- [GiveWell executive compensation]()
+
 # External links
 
 - [Vipul Naik shared this page](https://www.facebook.com/vipulnaik.r/posts/10208791654804628)
