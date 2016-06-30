@@ -40,3 +40,5 @@ Date             Number of full-time staff  Diff
 Table: Growth of GiveWell
 
 [<img src="givewell-employee.png" width="500" />](givewell-employee.png)
+
+The "cumulative number of employees" is just the number of people who have at one point worked for GiveWell, as of the indicated date; it is obtained by summing up the positive number in the diff column up to the date in question, and then adding the initial employee number.
