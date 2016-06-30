@@ -36,3 +36,5 @@ Eldridge, like Tuna, is married to a Facebook co-founder.
 - The underlying source ["California's Election Is Flush With Cash From Billionaires"](https://web.archive.org/web/20150811123028/http://www.forbes.com/sites/katiasavchuk/2014/11/04/californias-election-is-flush-with-cash-from-billionaires/):
 
     > Cari Tuna, wife of Facebook billionaire Dustin Moskovitz, gave $150,000 [to back Proposition 47].
+
+- She also talks some in GiveWell board meetings (in particular, the one for October 2015).
