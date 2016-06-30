@@ -39,3 +39,4 @@ Date             Number of full-time staff  Diff
 
 Table: Growth of GiveWell
 
+[<img src="givewell-employee.png" width="500" />](givewell-employee.png)
