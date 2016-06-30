@@ -47,6 +47,7 @@ The "cumulative number of employees" is just the number of people who have at on
 
 However note that I think Holden in the October 2015 board meeting said GiveWell (excluding the Open Philanthropy Project) has around 12 full-time employees.
 In other words, the table and plot don't distinguish between GiveWell and Open Philanthropy Project employees (as it is difficult to do so).
+The numbers are also of full-time staff only, so does not include interns, conversation notes writers, etc.
 
 Note also that *the gap between the two curves cannot decrease*.
 It is for this reason that the survival ratio is good to look at in addition to the above graph:
