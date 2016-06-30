@@ -53,4 +53,4 @@ It is for this reason that the survival ratio is good to look at in addition to 
 
 [<img src="givewell-survival-ratio.png" width="500" />](givewell-survival-ratio.png)
 
-At each time $t$, the survival ratio is the number of employees at time $t$ divided by the number of cumulative employees at time $t$.
+At each time $t$, the survival ratio is 'the number of employees at time $t$' divided by 'the number of cumulative employees at time $t$'.
