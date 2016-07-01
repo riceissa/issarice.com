@@ -11,7 +11,7 @@ I've been a reader of Wikipedia for a long time, but only recently started contr
 
 Starting in late 2015 I've been doing more work on Wikipedia.
 See [Vipul Naik's page on sponsored editing](http://vipulnaik.com/sponsored-wikipedia-editing/) for more information.
-Also relevant is my current [bounty list](https://github.com/vipulnaik/working-drafts/blob/master/issa-list.mediawiki).
+Also relevant is my current [bounty list](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki).
 
 As of June 11, 2016, I have 1,697 edits on the English Wikipedia.
 
