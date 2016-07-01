@@ -61,11 +61,15 @@ I later looked in Publication 17 but could not locate this information in a reas
     The whole phone call process on this day took around 1 hour.
 
 June 28
-:   I asked ["Where is payment for failure-to-file and failure-to-pay penalties included on Form 1040?"](http://money.stackexchange.com/questions/66741/where-is-payment-for-failure-to-file-and-failure-to-pay-penalties-included-on-fo) on Finance & Money Stack Exchange.
+:   I asked ["Where is payment for failure-to-file and failure-to-pay penalties included on Form 1040?"](http://money.stackexchange.com/questions/66741/where-is-payment-for-failure-to-file-and-failure-to-pay-penalties-included-on-fo) on Finance & Money Stack Exchange (4:34 PM).
+The question was answered about 3 hours later.
 
 June 29
-:   I asked ["If I incorrectly included my failure-to-file penalty on line 79 of Form 1040, how should I amend this?"](https://www.quora.com/If-I-incorrectly-included-my-failure-to-file-penalty-on-line-79-of-Form-1040-how-should-I-amend-this) on Quora and ["How should Form 1040 be amended if error was introduced on lines 78 and 79?"](http://money.stackexchange.com/questions/66793/how-should-form-1040-be-amended-if-error-was-introduced-on-lines-78-and-79) on Finance & Money Stack Exchange.
+:   I asked ["If I incorrectly included my failure-to-file penalty on line 79 of Form 1040, how should I amend this?"](https://www.quora.com/If-I-incorrectly-included-my-failure-to-file-penalty-on-line-79-of-Form-1040-how-should-I-amend-this) on Quora (8:13 PM) and ["How should Form 1040 be amended if error was introduced on lines 78 and 79?"](http://money.stackexchange.com/questions/66793/how-should-form-1040-be-amended-if-error-was-introduced-on-lines-78-and-79) on Finance & Money Stack Exchange (9:13 PM).
 I decided to wait a day to see if a definitive answer emerged.
+
+June 30
+:   Vipul answered my question on Finance & Money Stack Exchange (10:44 PM).
 
 July 1
 :   I called the IRS, but did not manage to receive a human response as described above in the page.
