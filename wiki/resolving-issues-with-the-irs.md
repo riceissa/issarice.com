@@ -36,5 +36,33 @@ In particular, don't hang up until the issue is fully resolved.
 Yes, the person you are talking to may sound exasperated, but at least when dealing with the IRS, [you have the right](https://www.irs.gov/taxpayer-bill-of-rights) to have this resolved.
 Even after they answered my initial question, I repeatedly said "Could I have a moment to think? I might have another question."
 
+# Timeline
+
+April
+:   Didn't manage to finish filing tax return; penalty amount small so it wasn't a big deal.
+
+May
+:   Filed tax return.
+
+June 20
+:   Received CP14 notice from the IRS.
+
+June 28
+:   Called the IRS for the first time, using the number they provided on the CP14 for disagreements with the amount due.
+During the call I realized my mistake, and that the failure-to-file and failure-to-pay penalties shouldn't have been on line 79.
+The IRS representative told me they had to honor my initial filing of Form 1040.
+I asked on which line the penalty *should* have been listed, but the representative could not give me a clear response, and told me to look in IRS Publication 17.
+
+June 28
+:   I asked ["Where is payment for failure-to-file and failure-to-pay penalties included on Form 1040?"](http://money.stackexchange.com/questions/66741/where-is-payment-for-failure-to-file-and-failure-to-pay-penalties-included-on-fo) on Finance & Money Stack Exchange.
+
+June 29
+:   I asked ["If I incorrectly included my failure-to-file penalty on line 79 of Form 1040, how should I amend this?"](https://www.quora.com/If-I-incorrectly-included-my-failure-to-file-penalty-on-line-79-of-Form-1040-how-should-I-amend-this) on Quora and ["How should Form 1040 be amended if error was introduced on lines 78 and 79?"](http://money.stackexchange.com/questions/66793/how-should-form-1040-be-amended-if-error-was-introduced-on-lines-78-and-79) on Finance & Money Stack Exchange.
+I decided to wait a day to see if a definitive answer emerged.
+
+July 1
+:   I called the IRS, but did not manage to receive a human response as described above in the page.
+I then called the TAS.
+
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
