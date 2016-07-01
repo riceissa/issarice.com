@@ -30,7 +30,7 @@ He said he didn't know what the expected response would look like, said the resp
 # Takeaways
 
 - As the issue is unfolding, document things by e.g. asking questions on Quora, Stack Exchange, and so forth.
-This will create material that other can find if they are in a similar situation.
+This will create material that others can find if they are in a similar situation.
 - When calling a phone service, persistence pays off.
 In particular, don't hang up until the issue is fully resolved.
 Yes, the person you are talking to may sound exasperated, but at least when dealing with the IRS, [you have the right](https://www.irs.gov/taxpayer-bill-of-rights) to have this resolved.
