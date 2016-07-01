@@ -86,7 +86,7 @@ Thanks to Vipul Naik for these links.
 - [Taxpayer Advocate 2016 Objectives Report To Congress](http://taxpayeradvocate.irs.gov/reports/fy-2016-objectives-report-to-congress/full-report)
 - [Tactics for Getting the I\.R\.S\. on the Phone](http://bucks.blogs.nytimes.com/2013/02/04/tactics-for-getting-the-i-r-s-on-the-phone/?_r=1)
 - [IRS Customer Service Is Even Worse Than You Thought](http://time.com/money/3960833/irs-customer-service-phone-calls/)
-- [Wait Times Are Down, But IRS Still Faces Serious Challenges](http://www.wsj.com/articles/wait-times-are-down-but-irs-still-faces-serious-challenges-1458898201)
+- [Wait Times Are Down, But IRS Still Faces Serious Challenges](http://www.wsj.com/articles/wait-times-are-down-but-irs-still-faces-serious-challenges-1458898201) ([jailbroken](http://archive.is/maibR))
 - [Are you experiencing long waits calling the IRS?](http://www.accountingweb.com/community-voice/blogs/william-brighenti/are-you-experiencing-long-waits-calling-the-irs)
 
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
