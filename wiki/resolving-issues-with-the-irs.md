@@ -5,6 +5,7 @@ date: 2016-07-01
 ---
 
 This page details my experiences with the IRS as I filed my first tax return.[^tax_2015]
+This is intended as a record of what happened, but also an anecdote or guide of sorts on how to resolve issues when dealing with bureaucratic systems.
 
 On my original Form 1040, I accidentally entered my failure-to-file and failure-to-pay penalties on line 79.
 As I explained [in a Personal Finance & Money Stack Exchange question](http://money.stackexchange.com/questions/66793/how-should-form-1040-be-amended-if-error-was-introduced-on-lines-78-and-79/66829#66829):
