@@ -21,7 +21,7 @@ As I explain in the comments to his answer, I called the IRS, who I had trouble 
 I then called [the TAS](https://www.irs.gov/advocate/local-taxpayer-advocate) toll free number.
 After being forwarded once, I spoke to someone (who consulted a supervisor).
 He told me my situation was "unique", and eventually told me to fill in Form 843 and that I should attach a letter explaining my situation.
-He said he didn't know what the expected response would look like, said the response would probably be 4--6 weeks, and that I should follow up by calling the IRS if I don't receive a response by then.
+He said he didn't know what the expected response would look like, said the response would probably take 4--6 weeks, and that I should follow up by calling the IRS if I don't receive a response by then.
 
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
