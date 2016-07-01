@@ -48,10 +48,13 @@ June 21
 :   Received CP14 notice from the IRS (notice dated June 20).
 
 June 28
-:   Called the IRS for the first time, using the number they provided on the CP14 for disagreements with the amount due.
+:   Called the IRS for the first time to tell them I disagreed with the amount due notice (CP14), using the number they provided on the CP14 for disagreements with the amount due.
 During the call I realized my mistake, and that the failure-to-file and failure-to-pay penalties shouldn't have been on line 79.
 The IRS representative told me they had to honor my initial filing of Form 1040.
-I asked on which line the penalty *should* have been listed, but the representative could not give me a clear response, and told me to look in IRS Publication 17.
+I asked on which line the penalty *should* have been listed; the representative told me to look in IRS Publication 17 (288 pages long), but could not cite a paragraph.
+I asked to talk to somebody more senior, but was denied my request.
+I asked what I should do next to correct this issue, but was told they could not help me, and that I would have to call in again.
+I later looked in Publication 17 but could not locate this information in a reasonable amount of time.
 
 June 28
 :   I asked ["Where is payment for failure-to-file and failure-to-pay penalties included on Form 1040?"](http://money.stackexchange.com/questions/66741/where-is-payment-for-failure-to-file-and-failure-to-pay-penalties-included-on-fo) on Finance & Money Stack Exchange.
