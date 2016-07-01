@@ -19,7 +19,7 @@ I also asked on Quora ["If I incorrectly included my failure-to-file penalty on 
 Vipul Naik [answered my question](http://money.stackexchange.com/a/66829/44690) and figured that I should file Form 843.
 As I explain in the comments to his answer, I called the IRS, who I had trouble reaching: my specific case after entering in the sequence of numbers was an automated response, and they hung up; I actually called the IRS about four or five times, but because the system for receiving the number sequence was so unforgiving (they wouldn't accept a number if I entered it too early, and sometimes even when I pressed a 9 to repeat the instructions, I didn't do so soon enough to prevent them from hanging up on me), they hung up on me each time.
 
-I then called [the TAS](https://www.irs.gov/advocate/local-taxpayer-advocate) toll free number.
+I then called the [TAS toll free number](https://www.irs.gov/advocate/local-taxpayer-advocate).
 After being forwarded once (by a person who said I should file Form 1040X, and when I explained further just gave up and forwarded me), I spoke to someone (who consulted a supervisor).
 He told me my situation was "unique", and eventually told me to fill in Form 843 and that I should attach a letter explaining my situation.
 He said he didn't know what the expected response would look like, said the response would probably take 4--6 weeks, and that I should follow up by calling the IRS if I don't receive a response by then.
