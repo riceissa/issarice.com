@@ -14,6 +14,8 @@ As I explained [in a Personal Finance & Money Stack Exchange question](http://mo
 >
 > I made the mistake of placing my failure-to-file and failure-to-pay penalties on line 79, so that the IRS decided to calculate penalties on the amount that already included the penalties. In other words, call my total tax owed _X_ (i.e. what _should_ have been on line 78) and the penalty for this _Y_ (what should have been on the bottom margin). Then I already paid _X_ + _Y_ to the IRS, but the IRS calculated penalties on the amount _X_ + _Y_ rather than on just _X_, so it is requesting more money. In other words, once the error is resolved, the amount I _should_ pay already matches the amount I _did_ pay (so no net exchange of money is required).
 
+Specifically, I received a CP14 notice from the IRS.
+
 You will notice that I asked a question about the penalty location before I asked about amending the return.
 I also asked on Quora ["If I incorrectly included my failure-to-file penalty on line 79 of Form 1040, how should I amend this?"](https://www.quora.com/If-I-incorrectly-included-my-failure-to-file-penalty-on-line-79-of-Form-1040-how-should-I-amend-this)
 
