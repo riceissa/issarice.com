@@ -35,6 +35,8 @@ This will create material that others can find if they are in a similar situatio
 In particular, don't hang up until the issue is fully resolved.
 Yes, the person you are talking to may sound exasperated, but at least when dealing with the IRS, [you have the right](https://www.irs.gov/taxpayer-bill-of-rights) to have this resolved.
 Even after they answered my initial question, I repeatedly said "Could I have a moment to think? I might have another question."
+- My experience has been that IRS representatives will try to screen you for competence first, so that they can determine that you are incompetent and give some generic advice or tell you to [RTFM](https://en.wikipedia.org/wiki/RTFM).
+Therefore, it's important to convince them of your competence by clearly explaining what you have done so far.[^sevq]
 
 # Timeline
 
@@ -72,3 +74,5 @@ The whole phone call process on this day took a little under 2 hours.
 
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
+
+[^sevq]: In other words, dealing with the IRS is more like asking a question on Stack Exchange than asking a question on Quora.
