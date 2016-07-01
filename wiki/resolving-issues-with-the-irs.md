@@ -37,6 +37,7 @@ Yes, the person you are talking to may sound exasperated, but at least when deal
 Even after they answered my initial question, I repeatedly said "Could I have a moment to think? I might have another question."
 - My experience has been that IRS representatives will try to screen you for competence first, so that they can determine that you are incompetent and give some generic advice or tell you to [RTFM](https://en.wikipedia.org/wiki/RTFM).
 Therefore, it's important to convince them of your competence by clearly explaining what you have done so far.[^sevq]
+Similarly, it's important to research your case thoroughly enough that you can easily pass the pre-human screening and get to a human.
 
 # Timeline
 
