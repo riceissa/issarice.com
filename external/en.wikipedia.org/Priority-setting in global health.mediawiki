@@ -26,33 +26,41 @@ More recognition of different levels:
 |-
 ! Year !! Event !! Level at which prioritization occurred
 |-
+| 1977 || [[WHO Model List of Essential Medicines]] is published.<ref name=glassman2012 /> || Among medicines
+|-
 | Late 1980s || The [[Oregon Health Services Commission]] tries to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 />
 |-
 | 1990 || [[Commission on Health Research for Development]]<ref name=rudan2007/> ||
 |-
 | ? || [[Essential National Health Research]] ||
 |-
+| 1993 || ''Disease Control Priorities in Developing Countries'' is published by the [[Disease Control Priorities Project]].<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref><ref name=glassman2012 />
+|-
 | 1993 || The [[World Bank]] publishes the [[1993 World Development Report]].<ref name=glassman2012 />
 |-
 | 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> ||
 |-
-| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref>
+| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref name=glassman2012 />
 |-
 | 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> ||
 |-
 | 2000 || [[Council on Health Research and Development]]<ref name=rudan2007/> ||
 |-
-| 2003 || The [[Bill &amp; Melinda Gates Foundation]] announces the "[[The Grand Challenges]]"<ref name=rudan2007/> ||
+| 2003 || The [[Bill &amp; Melinda Gates Foundation]] announces the [[Grand Challenges in Global Health]],<ref name=rudan2007/> for which it provides $200 million in funding.<ref name=dcp2_ch4 /> || Research and development
 |-
 | 2004 || [[Global Forum for Health Research]] develops the "Combined Approach Matrix".<ref name=rudan2007/> ||
 |-
 | 2007 || ''[[The Lancet]]'' publishes a series of papers on priorities in international health.<ref name=rudan2007/> ||
+|-
+| 2008 || Supporting Independent Immunization and Vaccine Advisory Committees  Initiative  (SIVAC) is founded.<ref name=glassman2012 /><ref>{{cite web |url=http://www.ivi.org/web/www/02_05_07 |publisher=International Vaccine Institute |title=SIVAC Initiative |accessdate=June 26, 2016}}</ref> || Among vaccines
 |}
 
 ==Metrics==
 
 * [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]])<ref name=rudan2010/><ref name="glassman2012">{{Cite journal| doi = 10.1016/j.gheart.2012.01.007| issn = 22118160| volume = 7| issue = 1| pages = 13–34| last1 = Glassman| first1 = Amanda| last2 = Chalkidou| first2 = Kalipso| last3 = Giedion| first3 = Ursula| last4 = Teerawattananon| first4 = Yot| last5 = Tunis| first5 = Sean| last6 = Bump| first6 = Jesse B.| last7 = Pichon-Riviere| first7 = Andres| title = Priority-Setting Institutions in Health| journal = Global Heart| accessdate = 2016-06-23| date = March 2012| url = http://linkinghub.elsevier.com/retrieve/pii/S2211816012000105}}</ref>
 * [[Quality-adjusted life year]]
+* Reasons that the disease burden has persisted<ref name="dcp2_ch4">{{Cite book| edition = 2nd| publisher = World Bank| isbn = 978-0-8213-6179-5| editors = Dean T. Jamison, Joel G. Breman, Anthony R. Measham, George Alleyne, Mariam Claeson, David B. Evans, Prabhat Jha, Anne Mills, Philip Musgrove (eds.)| last1 = Bloom| first1 = Barry R.| last2 = Michaud| first2 = Catherine M.| last3 = La Montagne| first3 = John R.| last4 = Simonsen| first4 = Lone| title = Disease Control Priorities in Developing Countries| chapter = Priorities for Global Research and Development of Interventions| location = Washington (DC)| accessdate = 2016-06-30| date = 2006| chapterurl = http://www.ncbi.nlm.nih.gov/books/NBK11751/| pmid = 21250329}}</ref>
+* Adequacy of funding<ref name=dcp2_ch4 />
 
 ==Who sets the priorities?==
 
@@ -77,7 +85,9 @@ Laying out all the possibilities:
 * [[Disease Control Priorities Project]]<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2002/09/Initiative-to-Assess-Disease-Control-Priorities-in-Developing-Countries |title=New Initiative Will Assess Disease Control Priorities In Developing Countries |date=September 2002 |publisher=[[Bill & Melinda Gates Foundation]] |accessdate=June 21, 2016}}</ref>
 * [[World Health Organization]] (e.g. [[WHO-CHOICE]])<ref name="rudan2010">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000308 |author=Rudan I, Kapiriri L, Tomlinson M, Balliet M, Cohen B, Chopra M |date=July 13, 2010 |title=Evidence-Based Priority Setting for Health Care and Research: Tools to Support Policy in Maternal, Neonatal, and Child Health in Africa |accessdate=June 23, 2016 |publisher=[[PLOS]]}}</ref>
 * [[Marginal budgeting for bottlenecks]]<ref name=rudan2010/> (the [[World Bank]], [[UNICEF]], and WHO)
-* [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/>
+* [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/><ref name=glassman2012 />
+* EVIDEM Collaboration (Evidence and Value: Impact on Decision Making)<ref name=glassman2012 />
+* Programs focused on improving quality of data, which can then be used for priority-setting: [[Health Metrics Network]], [[Demographic and Health Surveys]], and [[Multiple Indicator Cluster Surveys]]<ref name=glassman2012 />
 
 ==Reception==
 
@@ -86,6 +96,8 @@ Laying out all the possibilities:
 {{quote|text=However, the past approaches were also not free from certain shortcomings. Identified interventions and research questions that were outlined as the priorities were not compiled in a truly systematic way, using scientifically convincing conceptual framework and objective and repeatable methods, but rather through consensus reached by panels of experts. This often made it difficult to present the identified priorities to wider audiences as legitimate and fair, as the decisions could be seen as driven by research interest bias of individual experts.<ref name=rudan2007/>}}
 
 Glassman et al. lists some criticisms that have come up:<ref name=glassman2012 />{{rp|16}} {{quote|text=Criticisms of this approach have focused on the weak data on which estimates of burden, cost, and effectiveness relied; the value judgments implicit in disability-adjusted life year age weighting and dis- counting decisions; and treatment of equity issues, as well as the political difficulties associated with translating a ground zero package into a public budget based on historical inputs. Further, early cost-effectiveness analysis only considered health maximization as the priority-setting objective; later work has highlighted the need for multi- dimensional priority-setting objectives, including equity and fairness, financial protection, and existing health system capacity.}}
+
+Glassman et al. also notes how there are more cost-effectiveness studies for LMICs (in the thousands), but that these are unlikely to be actually applied to priority-setting processes.<ref name=glassman2012 />{{rp|16}}
 
 ==See also==
 
