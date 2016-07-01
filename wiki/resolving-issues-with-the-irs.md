@@ -44,8 +44,8 @@ April
 May
 :   Filed tax return.
 
-June 20
-:   Received CP14 notice from the IRS.
+June 21
+:   Received CP14 notice from the IRS (notice dated June 20).
 
 June 28
 :   Called the IRS for the first time, using the number they provided on the CP14 for disagreements with the amount due.
