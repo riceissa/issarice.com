@@ -56,6 +56,8 @@ I asked to talk to somebody more senior, but was denied my request.
 I asked what I should do next to correct this issue, but was told they could not help me, and that I would have to call in again.
 I later looked in Publication 17 but could not locate this information in a reasonable amount of time.
 
+    The whole phone call process on this day took around 1 hour.
+
 June 28
 :   I asked ["Where is payment for failure-to-file and failure-to-pay penalties included on Form 1040?"](http://money.stackexchange.com/questions/66741/where-is-payment-for-failure-to-file-and-failure-to-pay-penalties-included-on-fo) on Finance & Money Stack Exchange.
 
