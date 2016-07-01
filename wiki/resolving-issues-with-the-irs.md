@@ -25,5 +25,13 @@ After being forwarded once (by a person who said I should file Form 1040X, and w
 He told me my situation was "unique", and eventually told me to fill in Form 843 and that I should attach a letter explaining my situation.
 He said he didn't know what the expected response would look like, said the response would probably take 4--6 weeks, and that I should follow up by calling the IRS if I don't receive a response by then.
 
+# Takeaways
+
+- As the issue is unfolding, document things by e.g. asking questions on Quora, Stack Exchange, and so forth.
+This will create material that other can find if they are in a similar situation.
+- When calling a phone service, persistence pays off.
+In particular, don't hang up until the issue is fully resolved.
+Yes, the person you are talking to may sound exasperated, but at least when dealing with the IRS, [you have the right](https://www.irs.gov/taxpayer-bill-of-rights) to have this resolved.
+
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
