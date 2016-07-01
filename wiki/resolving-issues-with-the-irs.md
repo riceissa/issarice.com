@@ -42,16 +42,16 @@ Similarly, it's important to research your case thoroughly enough that you can e
 # Timeline
 
 April
-:   Didn't manage to finish filing tax return; penalty amount small so it wasn't a big deal.
+:   I didn't manage to finish filing my tax return; the penalty amount is small so it wasn't a big deal.
 
 May
-:   Filed tax return.
+:   I filed my tax return.
 
 June 21
-:   Received CP14 notice from the IRS (notice dated June 20).
+:   I received a CP14 notice from the IRS (notice dated June 20).
 
 June 28
-:   Called the IRS for the first time to tell them I disagreed with the amount due notice (CP14), using the number they provided on the CP14 for disagreements with the amount due.
+:   I called the IRS for the first time to tell them I disagreed with the amount due notice (CP14), using the number they provided on the CP14 for disagreements with the amount due.
 During the call I realized my mistake, and that the failure-to-file and failure-to-pay penalties shouldn't have been on line 79.
 The IRS representative told me they had to honor my initial filing of Form 1040.
 I asked on which line the penalty *should* have been listed; the representative told me to look in IRS Publication 17 (288 pages long), section 1 (only when pressed further), but could not cite a paragraph.
@@ -75,7 +75,8 @@ June 30
 July 1
 :   I called the IRS, but did not manage to receive a human response as described above in the page.
 I then called the TAS.
-The whole phone call process on this day took a little under 2 hours.
+
+    The whole phone call process on this day took a little under 2 hours.
 
 # External links
 
