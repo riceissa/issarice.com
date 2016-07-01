@@ -51,7 +51,7 @@ June 28
 :   Called the IRS for the first time to tell them I disagreed with the amount due notice (CP14), using the number they provided on the CP14 for disagreements with the amount due.
 During the call I realized my mistake, and that the failure-to-file and failure-to-pay penalties shouldn't have been on line 79.
 The IRS representative told me they had to honor my initial filing of Form 1040.
-I asked on which line the penalty *should* have been listed; the representative told me to look in IRS Publication 17 (288 pages long), but could not cite a paragraph.
+I asked on which line the penalty *should* have been listed; the representative told me to look in IRS Publication 17 (288 pages long), section 1 (only when pressed further), but could not cite a paragraph.
 I asked to talk to somebody more senior, but was denied my request.
 I asked what I should do next to correct this issue, but was told they could not help me, and that I would have to call in again.
 I later looked in Publication 17 but could not locate this information in a reasonable amount of time.
