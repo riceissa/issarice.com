@@ -34,6 +34,7 @@ This will create material that others can find if they are in a similar situatio
 - When calling a phone service, persistence pays off.
 In particular, don't hang up until the issue is fully resolved.
 Yes, the person you are talking to may sound exasperated, but at least when dealing with the IRS, [you have the right](https://www.irs.gov/taxpayer-bill-of-rights) to have this resolved.
+Even after they answered my initial question, I repeatedly said "Could I have a moment to think? I might have another question."
 
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
