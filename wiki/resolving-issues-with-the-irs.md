@@ -66,6 +66,7 @@ I decided to wait a day to see if a definitive answer emerged.
 July 1
 :   I called the IRS, but did not manage to receive a human response as described above in the page.
 I then called the TAS.
+The whole phone call process on this day took a little under 2 hours.
 
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
