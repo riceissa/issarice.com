@@ -7,7 +7,7 @@ date: 2016-07-01
 Some thoughts on how best to represent information on tables.
 
 - use grid lines or not?
-- color alternation? -- cf. that one TeX SE question
+- color alternation? -- cf. [this question about zebra stripes](http://tex.stackexchange.com/questions/33758/professional-looking-tables-with-alternating-row-colors) on TeX Stack Exchange
 - use lots of examples.
 - markup syntax for tables: pandoc has many, but they're all unintuitive for me because they optimize for appearance in the markup, not the ease of entering in the data or how memorable the syntax is.
 (In fact, I keep having to go to the Pandoc documentation to read up on how to make a table.)
@@ -44,7 +44,16 @@ From [Publication quality tables in LaTeX](http://texdoc.net/texmf-dist/doc/late
 > principal is that enforced structure of presentation enforces structured
 > thought in the first instance.
 
-But what about more complex tables like [Timeline of global health](https://en.wikipedia.org/wiki/Timeline_of_global_health)?
+[Butterick says](http://practicaltypography.com/tables.html):
+
+> Cell borders are helpful as guides when you’re loading information into the
+> table. They’re less useful once the table is full. The text in the cells will
+> create an implied grid. Cell borders can make the grid cluttered and
+> difficult to read, especially in tables with many small cells.
+
+See also [Small Guide to Making Nice Tables](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf).
+
+But what about more complex tables like the [timeline of global health](https://en.wikipedia.org/wiki/Timeline_of_global_health)?
 Surely sortability justifies tabulating the information, and having no grid lines would make lookups difficult (both time-consuming and mentally exhausting).
 
 What are we trying to optimize for?
@@ -53,3 +62,7 @@ What are we trying to optimize for?
 - Lookup speeds
 - Preventing mental exhaustion
 - Obeying some principles handed down from "typographic elites"
+
+# Acknowledgments
+
+A conversation with Vipul Naik inspired the creation of this page (though I had been thinking about tables before the conversation).
