@@ -41,10 +41,10 @@ Similarly, it's important to research your case thoroughly enough that you can e
 
 # Timeline
 
-April
+April 19
 :   I didn't manage to finish filing my tax return; the penalty amount is small so it wasn't a big deal.
 
-May
+April 28
 :   I filed my tax return.
 
 June 21
