@@ -63,6 +63,8 @@ What are we trying to optimize for?
 - Preventing mental exhaustion
 - Obeying some principles handed down from "typographic elites"
 
+See also [Beautiful table samples](http://tex.stackexchange.com/questions/112343/beautiful-table-samples) and [Tip on how to make a visually good table](http://tex.stackexchange.com/questions/238503/tip-on-how-to-make-a-visually-good-table).
+
 # Acknowledgments
 
 A conversation with Vipul Naik inspired the creation of this page (though I had been thinking about tables before the conversation).
