@@ -87,6 +87,9 @@ July 1
     - ["Sample IRS Penalty Abatement Request Letter"](http://www.taxdebthelp.com/tax-settlement/penalty-abatement/letter)
     - ["Letter to the IRS"](https://www.rocketlawyer.com/document/response-to-irs-notice.rl)
 
+July 1
+:   I asked ["Where to file Form 843 for penalties?"](http://money.stackexchange.com/questions/66856/where-to-file-form-843-for-penalties) at 9:32 PM.
+
 # External links
 
 Thanks to Vipul Naik for these links.
