@@ -79,6 +79,14 @@ All of this happened from around 7:30 AM to 9:30 AM.
 
     The whole phone call process on this day took a little under 2 hours.
 
+July 1
+:   I wrote a letter to the IRS to attach with my Form 843 using the following sources:
+
+    - ["How to Write a Letter of Explanation to the IRS"](http://www.successtaxrelief.com/blog/taxes/how-to-write-a-letter-of-explanation-to-the-irs/)
+    - ["How To Write a Letter of Explanation to the IRS"](http://www.slideshare.net/SuccessTaxRelief/how-to-write-a-letter-of-explanation-to-the-irs) (slideshow version)
+    - ["Sample IRS Penalty Abatement Request Letter"](http://www.taxdebthelp.com/tax-settlement/penalty-abatement/letter)
+    - ["Letter to the IRS"](https://www.rocketlawyer.com/document/response-to-irs-notice.rl)
+
 # External links
 
 Thanks to Vipul Naik for these links.
