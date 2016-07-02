@@ -7,7 +7,7 @@ date: 2016-07-01
 Some thoughts on how best to represent information on tables.
 
 - use grid lines or not?
-- color alternation? -- cf. [this question about zebra stripes](http://tex.stackexchange.com/questions/33758/professional-looking-tables-with-alternating-row-colors) on TeX Stack Exchange
+- color alternation? -- cf. [this question about zebra stripes](http://tex.stackexchange.com/questions/33758/professional-looking-tables-with-alternating-row-colors) on TeX Stack Exchange and [To use or not to use "Zebra Stripes", or Alternating Row Colors for Tables](http://ux.stackexchange.com/questions/3562/to-use-or-not-to-use-zebra-stripes-or-alternating-row-colors-for-tables) (seems to cite some research on lookups) and [Is there a better way than zebra stripes](http://ux.stackexchange.com/questions/60715/is-there-a-better-way-than-zebra-stripes) (cites research on lookups and preference)
 - use lots of examples.
 - markup syntax for tables: pandoc has many, but they're all unintuitive for me because they optimize for appearance in the markup, not the ease of entering in the data or how memorable the syntax is.
 (In fact, I keep having to go to the Pandoc documentation to read up on how to make a table.)
