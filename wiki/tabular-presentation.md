@@ -12,3 +12,44 @@ Some thoughts on how best to represent information on tables.
 - markup syntax for tables: pandoc has many, but they're all unintuitive for me because they optimize for appearance in the markup, not the ease of entering in the data or how memorable the syntax is.
 (In fact, I keep having to go to the Pandoc documentation to read up on how to make a table.)
 Compare this to the Mediawiki markup, which is quite easy to remember, even though in the source markup it doesn't look like a table.
+
+From [Publication quality tables in LaTeX](http://texdoc.net/texmf-dist/doc/latex/booktabs/booktabs.pdf):
+
+> You will not go far wrong if you remember two simple guidelines at all times:
+>
+> 1. Never, ever use vertical rules.
+> 2. Never use double rules.
+>
+> These guidelines may seem extreme but I have never found a good argument in
+> favour of breaking them. For example, if you feel that the information in the
+> left half of a table is so different from that on the right that it needs to
+> be separated by a vertical line, then you should use two tables instead. Not
+> everyone follows the second guideline: I have worked for a publisher who
+> insisted on a double light rule above a row of totals. But this would not
+> have been my choice.
+>
+> There are three further guidelines worth mentioning here as they are
+> generally not known outside the circle of professional typesetters and
+> subeditors:
+>
+> 3. Put the units in the column heading (not in the body of the table).
+> 4. Always precede a decimal point by a digit; thus 0.1 _not_ just .1.
+> 5. Do not use ‘ditto’ signs or any other such convention to repeat a previous
+>    value. In many circumstances a blank will serve just as well. If it won’t,
+>    then repeat the value.
+>
+> Whether or not you wish to follow the minor niceties, if you use only the
+> following commands in your formal tables your reader will be grateful. I
+> stress that the guidelines are not just to keep the pedantic happy. The
+> principal is that enforced structure of presentation enforces structured
+> thought in the first instance.
+
+But what about more complex tables like [Timeline of global health](https://en.wikipedia.org/wiki/Timeline_of_global_health)?
+Surely sortability justifies tabulating the information, and having no grid lines would make lookups difficult (both time-consuming and mentally exhausting).
+
+What are we trying to optimize for?
+
+- Aesthetic appearance (how the table looks on the page or from afar)
+- Lookup speeds
+- Preventing mental exhaustion
+- Obeying some principles handed down from "typographic elites"
