@@ -23,7 +23,6 @@ I might not update this page often, but usually either this page or Wikipedia Vi
 If listed in neither place, then my contributions pages (on Wikipedia itself) are the definitive source.
 
 - [A Plus \(aplus\.com\)](https://en.wikipedia.org/wiki/A_Plus_(aplus.com)).
-This is my biggest contribution so far.
 The page was actually originally supposed to be a new article, but in
 the time that I worked on it, someone else went ahead and created the
 page, so it ended up being more of a merge than a fresh write.
