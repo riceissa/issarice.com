@@ -28,7 +28,7 @@ More recognition of different levels:
 |-
 | 1977 || [[WHO Model List of Essential Medicines]] is published.<ref name=glassman2012 /> || Among medicines
 |-
-| Late 1980s || The [[Oregon Health Services Commission]] tries to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 />
+| 1987–1989 || The [[Oregon Health Services Commission]] (HSC) is established to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 /> The HSC would publish their first prioritized list of health services in 1993.<ref name=brief_history_or />{{rp|4}} The HSC would be abolished in 2012.<ref>{{cite web |url=https://www.oregon.gov/oha/herc/Pages/Prioritized-List-Overview.aspx |title=Health Evidence Review Commission Prioritized List Overview |accessdate=July 2, 2016 |publisher=Oregon.gov}}</ref> || Health services<ref name="brief_history_or">{{cite web |url=https://www.oregon.gov/oha/herc/Documents/Brief-History-Health-Services-Prioritization-Oregon.pdf |accessdate=July 2, 2016 |title=A Brief History of Health Services Prioritization in Oregon |authors=Bob DiPrete and Darren Coffman |date=March 2007}}</ref>
 |-
 | 1990 || [[Commission on Health Research for Development]]<ref name=rudan2007/> ||
 |-
@@ -57,8 +57,7 @@ More recognition of different levels:
 
 ==Metrics==
 
-* [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]])<ref name=rudan2010/><ref name="glassman2012">{{Cite journal| doi = 10.1016/j.gheart.2012.01.007| issn = 22118160| volume = 7| issue = 1| pages = 13–34| last1 = Glassman| first1 = Amanda| last2 = Chalkidou| first2 = Kalipso| last3 = Giedion| first3 = Ursula| last4 = Teerawattananon| first4 = Yot| last5 = Tunis| first5 = Sean| last6 = Bump| first6 = Jesse B.| last7 = Pichon-Riviere| first7 = Andres| title = Priority-Setting Institutions in Health| journal = Global Heart| accessdate = 2016-06-23| date = March 2012| url = http://linkinghub.elsevier.com/retrieve/pii/S2211816012000105}}</ref>
-* [[Quality-adjusted life year]]
+* [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]]),<ref name=rudan2010/><ref name="glassman2012">{{Cite journal| doi = 10.1016/j.gheart.2012.01.007| issn = 22118160| volume = 7| issue = 1| pages = 13–34| last1 = Glassman| first1 = Amanda| last2 = Chalkidou| first2 = Kalipso| last3 = Giedion| first3 = Ursula| last4 = Teerawattananon| first4 = Yot| last5 = Tunis| first5 = Sean| last6 = Bump| first6 = Jesse B.| last7 = Pichon-Riviere| first7 = Andres| title = Priority-Setting Institutions in Health| journal = Global Heart| accessdate = 2016-06-23| date = March 2012| url = http://linkinghub.elsevier.com/retrieve/pii/S2211816012000105}}</ref> [[quality-adjusted life year]], and other forms of [[cost-effectiveness analysis]]
 * Reasons that the disease burden has persisted<ref name="dcp2_ch4">{{Cite book| edition = 2nd| publisher = World Bank| isbn = 978-0-8213-6179-5| editors = Dean T. Jamison, Joel G. Breman, Anthony R. Measham, George Alleyne, Mariam Claeson, David B. Evans, Prabhat Jha, Anne Mills, Philip Musgrove (eds.)| last1 = Bloom| first1 = Barry R.| last2 = Michaud| first2 = Catherine M.| last3 = La Montagne| first3 = John R.| last4 = Simonsen| first4 = Lone| title = Disease Control Priorities in Developing Countries| chapter = Priorities for Global Research and Development of Interventions| location = Washington (DC)| accessdate = 2016-06-30| date = 2006| chapterurl = http://www.ncbi.nlm.nih.gov/books/NBK11751/| pmid = 21250329}}</ref>
 * Adequacy of funding<ref name=dcp2_ch4 />
 
@@ -88,6 +87,12 @@ Laying out all the possibilities:
 * [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/><ref name=glassman2012 />
 * EVIDEM Collaboration (Evidence and Value: Impact on Decision Making)<ref name=glassman2012 />
 * Programs focused on improving quality of data, which can then be used for priority-setting: [[Health Metrics Network]], [[Demographic and Health Surveys]], and [[Multiple Indicator Cluster Surveys]]<ref name=glassman2012 />
+
+==Specific priorities==
+
+This section lists some of the specific outcomes of priority-setting processes or decisions that have been made by such processes.
+
+* "This time greater emphasis is placed on preventive services and chronic disease management, reflecting the fact that providing health care before reaching crisis mode will prevent avoidable morbidity and mortality."<ref name=brief_history_or />
 
 ==Reception==
 
