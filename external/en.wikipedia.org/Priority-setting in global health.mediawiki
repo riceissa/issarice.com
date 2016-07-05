@@ -22,39 +22,6 @@ More recognition of different levels:
 
 {{quote|text=Global-level attempts to support priority setting have been undertaken for at least 3 decades, but these efforts have tended to focus on only a few aspects of priority setting, such as gathering evidence or creating methods, and have yet to result in broad improvements via more systematic decision making in LMIC.<ref name=glassman2012 />}}
 
-{| class="sortable wikitable"
-|-
-! Year !! Event !! Level at which prioritization occurred
-|-
-| 1977 || [[WHO Model List of Essential Medicines]] is published.<ref name=glassman2012 /> || Among medicines
-|-
-| 1987–1989 || The [[Oregon Health Services Commission]] (HSC) is established to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 /> The HSC would publish their first prioritized list of health services in 1993.<ref name=brief_history_or />{{rp|4}} The HSC would be abolished in 2012.<ref>{{cite web |url=https://www.oregon.gov/oha/herc/Pages/Prioritized-List-Overview.aspx |title=Health Evidence Review Commission Prioritized List Overview |accessdate=July 2, 2016 |publisher=Oregon.gov}}</ref> || Health services<ref name="brief_history_or">{{cite web |url=https://www.oregon.gov/oha/herc/Documents/Brief-History-Health-Services-Prioritization-Oregon.pdf |accessdate=July 2, 2016 |title=A Brief History of Health Services Prioritization in Oregon |authors=Bob DiPrete and Darren Coffman |date=March 2007}}</ref>
-|-
-| 1990 || [[Commission on Health Research for Development]]<ref name=rudan2007/> ||
-|-
-| ? || [[Essential National Health Research]] ||
-|-
-| 1993 || ''Disease Control Priorities in Developing Countries'' is published by the [[Disease Control Priorities Project]].<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref><ref name=glassman2012 />
-|-
-| 1993 || The [[World Bank]] publishes the [[1993 World Development Report]].<ref name=glassman2012 />
-|-
-| 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> ||
-|-
-| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref name=glassman2012 />
-|-
-| 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> ||
-|-
-| 2000 || [[Council on Health Research and Development]]<ref name=rudan2007/> ||
-|-
-| 2003 || The [[Bill &amp; Melinda Gates Foundation]] announces the [[Grand Challenges in Global Health]],<ref name=rudan2007/> for which it provides $200 million in funding.<ref name=dcp2_ch4 /> || Research and development
-|-
-| 2004 || [[Global Forum for Health Research]] develops the "Combined Approach Matrix".<ref name=rudan2007/> ||
-|-
-| 2007 || ''[[The Lancet]]'' publishes a series of papers on priorities in international health.<ref name=rudan2007/> ||
-|-
-| 2008 || Supporting Independent Immunization and Vaccine Advisory Committees  Initiative  (SIVAC) is founded.<ref name=glassman2012 /><ref>{{cite web |url=http://www.ivi.org/web/www/02_05_07 |publisher=International Vaccine Institute |title=SIVAC Initiative |accessdate=June 26, 2016}}</ref> || Among vaccines
-|}
-
 ==Metrics==
 
 * [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]]),<ref name=rudan2010/><ref name="glassman2012">{{Cite journal| doi = 10.1016/j.gheart.2012.01.007| issn = 22118160| volume = 7| issue = 1| pages = 13–34| last1 = Glassman| first1 = Amanda| last2 = Chalkidou| first2 = Kalipso| last3 = Giedion| first3 = Ursula| last4 = Teerawattananon| first4 = Yot| last5 = Tunis| first5 = Sean| last6 = Bump| first6 = Jesse B.| last7 = Pichon-Riviere| first7 = Andres| title = Priority-Setting Institutions in Health| journal = Global Heart| accessdate = 2016-06-23| date = March 2012| url = http://linkinghub.elsevier.com/retrieve/pii/S2211816012000105}}</ref> [[quality-adjusted life year]], and other forms of [[cost-effectiveness analysis]]
@@ -78,6 +45,43 @@ Laying out all the possibilities:
 
 ==Organizations and programs working on priority-setting==
 
+{| class="sortable wikitable"
+|-
+! Year of establishment !! Event !! Level at which prioritization occurred !! Metric or methods used !! Operating costs/funding level
+|-
+| 1977 || [[WHO Model List of Essential Medicines]] is published.<ref name=glassman2012 /> || Among medicines
+|-
+| 1987–1989 || The [[Oregon Health Services Commission]] (HSC) is established to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 /> The HSC would publish their first prioritized list of health services in 1993.<ref name=brief_history_or />{{rp|4}} The HSC would be abolished in 2012.<ref>{{cite web |url=https://www.oregon.gov/oha/herc/Pages/Prioritized-List-Overview.aspx |title=Health Evidence Review Commission Prioritized List Overview |accessdate=July 2, 2016 |publisher=Oregon.gov}}</ref> || Health services<ref name="brief_history_or">{{cite web |url=https://www.oregon.gov/oha/herc/Documents/Brief-History-Health-Services-Prioritization-Oregon.pdf |accessdate=July 2, 2016 |title=A Brief History of Health Services Prioritization in Oregon |authors=Bob DiPrete and Darren Coffman |date=March 2007}}</ref>
+| Originally a cost-per-utility formula, but then expert judgment and a method of splitting health services into categories and ranking within categories<ref name=brief_history_or />{{rp|3}}
+|
+|-
+| 1990 || [[Commission on Health Research for Development]]<ref name=rudan2007/> ||
+|-
+| ? || [[Essential National Health Research]] ||
+|-
+| 1993 || ''Disease Control Priorities in Developing Countries'' is published by the [[Disease Control Priorities Project]].<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref><ref name=glassman2012 /> || || Disability-adjusted life year<ref name=rudan2010/><ref name="glassman2012" /> ||
+|-
+| 1993 || The [[World Bank]] publishes the [[1993 World Development Report]].<ref name=glassman2012 />
+|-
+| 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> ||
+|-
+| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref name=glassman2012 />
+|-
+| 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> ||
+|-
+| 2000 || [[Council on Health Research and Development]]<ref name=rudan2007/> ||
+|-
+| 2003 || The [[Bill &amp; Melinda Gates Foundation]] announces the [[Grand Challenges in Global Health]],<ref name=rudan2007/> for which it provides $200 million in funding.<ref name=dcp2_ch4 /> || Research and development
+|-
+| 2004 || [[Global Forum for Health Research]] develops the "Combined Approach Matrix".<ref name=rudan2007/> ||
+|-
+| 2007 || ''[[The Lancet]]'' publishes a series of papers on priorities in international health.<ref name=rudan2007/> ||
+|-
+| 2008 || Supporting Independent Immunization and Vaccine Advisory Committees  Initiative  (SIVAC) is founded.<ref name=glassman2012 /><ref>{{cite web |url=http://www.ivi.org/web/www/02_05_07 |publisher=International Vaccine Institute |title=SIVAC Initiative |accessdate=June 26, 2016}}</ref> || Among vaccines
+|}
+
+TODO: migrate the ones in the following list into the table
+
 * [[International Decision Support Initiative]]
 * [[Center for Global Development]]<ref>{{cite web |url=http://www.cgdev.org/working-group/priority-setting-institutions-global-health |title=Priority-Setting Institutions for Global Health |publisher=[[Center for Global Development]] |accessdate=June 21, 2016}}</ref>
 * [[Health Interventions and Technology Assessment Program]]
@@ -87,6 +91,7 @@ Laying out all the possibilities:
 * [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/><ref name=glassman2012 />
 * EVIDEM Collaboration (Evidence and Value: Impact on Decision Making)<ref name=glassman2012 />
 * Programs focused on improving quality of data, which can then be used for priority-setting: [[Health Metrics Network]], [[Demographic and Health Surveys]], and [[Multiple Indicator Cluster Surveys]]<ref name=glassman2012 />
+* [[Copenhagen Consensus]] (though focusing on aid and development in general, and not just global health)<ref>{{Cite journal| last = Durand-Bourjate| first = Yannick| title = Setting Priorities in Health Interventions| accessdate = 2016-07-05| date = February 2010| url = http://www.nadel.ethz.ch/content/dam/ethz/special-interest/gess/nadel-dam/documents/mas/mas-essays/MAS_2008_Durand_Bourjate_Yannick.pdf}}</ref>{{rp|5}}
 
 ==Specific priorities==
 
@@ -111,6 +116,8 @@ Glassman et al. also notes how there are more cost-effectiveness studies for LMI
 * [[Cost-benefit analysis]]
 * [[10/90 gap]]
 * [[Health care rationing]]
+* [[Impact evaluation]]
+* [[Impact assessment]]
 
 ==Notes==
 
