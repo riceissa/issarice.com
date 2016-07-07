@@ -1,6 +1,18 @@
 {{italic title}}
 The '''1993 [[World Development Report]]''', '''Investing in Health''', is possibly one of the greatest things to have ever been written. This is especially the case, since it was written by [[Dean Jamison|DEAN JAMISON]]. Everyone from [[GiveWell]]<ref>http://files.givewell.org/files/conversations/Amanda%20Glassman%208-27-13.pdf</ref> to [[Amanda Glassman]] has read this book.
 
+<ref name="glassman2012">{{Cite journal| doi = 10.1016/j.gheart.2012.01.007| issn = 22118160| volume = 7| issue = 1| pages = 13–34| last1 = Glassman| first1 = Amanda| last2 = Chalkidou| first2 = Kalipso| last3 = Giedion| first3 = Ursula| last4 = Teerawattananon| first4 = Yot| last5 = Tunis| first5 = Sean| last6 = Bump| first6 = Jesse B.| last7 = Pichon-Riviere| first7 = Andres| title = Priority-Setting Institutions in Health| journal = Global Heart| accessdate = 2016-06-23| date = March 2012| url = http://linkinghub.elsevier.com/retrieve/pii/S2211816012000105}}</ref> also mentions it as "Perhaps the best-known" example of global-level priority-setting.
+
+"As discussed, the World Bank’s 1993 WDR and the WHO’s Commission on Macroeconomics and Health both recommended a basic package of cost-effective care in LMIC as a priority-setting mechanism for LMIC. Table 1 [34–96] shows that this recommendation was influential; we identify at least 63 LMIC that have established an explicit positive and/or negative package, plan, or list of health interventions to be funded by public resources, insurance, or social security contributions (Table 1)."<ref name=glassman2012 />
+
+{{quote|text=The World Development Report, 1993 was a watershed in international health, giving the World Bank greater exposure and legitimacy in the health sector. The first World Development Report devoted entirely to health (signaling the bank’s commitment), its overall aim was to make the case to the broader development community for investing in health. The World Development Report, 1993 identified several major problems in international health systems, in particular, inefficient use of funds and human resources, inequitable access to basic heath care, and rising health care costs. As a result, the bank advocated several key recommendations for improving health: educating girls and empowering women, reallocating government resources from tertiary facilities to primary care, investing in public health and essential clinical services, and promoting private and social insurance and competition in health services delivery. Although generally well received, the report was criticized for introducing disability-adjusted life years (DALYs), for lacking a strong evidence base, and for promoting privatization.<ref>{{Cite journal| doi = 10.2105/AJPH.2004.042002| issn = 0090-0036| volume = 95| issue = 1| pages = 60–70| last = Ruger| first = Jennifer Prah| title = The Changing Role of the WORLD BANK in Global Health| journal = American Journal of Public Health| accessdate = 2016-07-07| date = January 2005| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449852/| pmid = 15623860| pmc = PMC1449852}}</ref>}}
+
+==Reception==
+
+==See also==
+
+* [[Disease Control Priorities Project]]
+
 ==References==
 {{reflist|30em}}
 
