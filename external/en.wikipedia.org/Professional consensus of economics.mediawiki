@@ -1,0 +1,20 @@
+The '''professional consensus of economics''' refers to to the phenomenon of convergence of views of economists on issues that are contentious among noneconomists.
+
+[[Justin Wolfers]]:
+
+{{quote|text=These data paint a picture of a professional consensus, tempered by a degree of modesty that there’s much we don’t know. Indeed, the best research into the views of economists finds that this consensus is pervasive across a range of issues. Call it the hidden consensus in economics. It’s there, but remains largely out of sight, because in a competitive political system there’s always an incentive for at least some advocates to try to portray any empirical claim as deeply contested.<ref>{{cite web |url=http://www.nytimes.com/2014/07/30/upshot/what-debate-economists-agree-the-stimulus-lifted-the-economy.html |author=Justin Wolfers |date=July 29, 2014 |title=What Debate? Economists Agree the Stimulus Lifted the Economy |publisher=''[[The New York Times]]'' |accessdate=July 9, 2016}}</ref>}}
+
+<ref>{{cite web |url=http://freakonomics.com/2012/07/25/the-secret-consensus-among-economists/ |author=by Justin Wolfers |date=July 25, 2012 |title=The Secret Consensus Among Economists |publisher=Freakonomics |accessdate=July 9, 2016}}</ref>
+
+[[Bryan Caplan]]:
+
+{{quote|text=the best survey data indicate that economists converge on a long list of unpopular positions. Compared to the general public, economists think that markets work very well, that economic interaction with foreigners makes us better off, that saving labor is a good idea, and that the economy is doing well and getting better.<ref>{{cite web |url=http://blogs.britannica.com/2007/05/economists-agree/ |archivedate=September 12, 2015 |archiveurl=https://web.archive.org/web/20150912145319/http://blogs.britannica.com/2007/05/economists-agree/ |date=May 8, 2007 |author=Bryan Caplan |title=Economists Agree?! |publisher=Britannica Blog |accessdate=July 9, 2016}}</ref>}}
+
+==See also==
+
+* [[Initiative on Global Markets]]
+
+==References==
+
+{{reflist|30em}}
+
