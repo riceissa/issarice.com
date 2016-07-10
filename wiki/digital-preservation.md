@@ -1,17 +1,8 @@
 ---
 title: Digital preservation
-#description: none
 author: Issa Rice
 creation_date: 2015-01-01
-last_major_revision_date: 2015-01-01
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: archival
+date: 2016-07-09
 ---
 
 For now, this will be somewhat of a  backup of my [Quora blog on the topic](https://www.quora.com/Issa-Rice/Data-Archiving), which is now not being maintained.
