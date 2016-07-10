@@ -76,6 +76,11 @@ pre code {
     padding: 10px;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 table {
     border-bottom: 2px solid #586e75;
     border-collapse: collapse;
@@ -91,10 +96,11 @@ table th {
 }
 
 table td {
-    border-bottom: 1px solid #ccc;
     padding: 0px 10px;
     vertical-align: top;
 }
+
+tbody tr { border-bottom: 1px dotted #ccc; }
 
 /*
 Colors for source code listings. See
