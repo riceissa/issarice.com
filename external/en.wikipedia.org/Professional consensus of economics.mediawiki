@@ -1,6 +1,15 @@
 The '''professional consensus of economics''' refers to the phenomenon of convergence of views of economists on issues that are contentious among noneconomists.
 
-[[Justin Wolfers]]:
+==History==
+
+Writing in 1992, the [[Pitzer College]] economist [[Linus Yamane]] said that "the most common complaint" of economists by noneconomists is that they "never agree", but then points out that "[on] many issues economists are quite unanimous in their opinion". Nevertheless, Yamane argues that this consensus is ignored and that "politics always dominates economics".<ref name="yamane">{{cite web |url=http://bernard.pitzer.edu/~lyamane/fun.htm |author=Linus Yamane  |title=Why do people make fun of economists? |accessdate=July 9, 2016 |date=February 1992}}</ref>
+
+[[Harvard University]] macroeconomist [[Greg Mankiw]] noted the consensus among economists in 2006<ref>{{cite web |url=http://gregmankiw.blogspot.com/2006/11/consensus-of-economists.html |date=November 30, 2006 |author=Greg Mankiw |website=Greg Mankiw's Blog |title=The Consensus of Economists |accessdate=July 9, 2016}}</ref> and again in 2009<ref>{{cite web |url=http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html |date=February 14, 2009 |author=Greg Mankiw |title=News Flash: Economists Agree |website=Greg Mankiw's Blog |accessdate=July 9, 2016}}</ref> on his blog.
+ 
+In 2013, [[Roger H. Gordon]] and [[Gordon B. Dahl]] published the paper "Views among Economists: Professional Consensus or Point-Counterpoint?"<ref>{{Cite journal| doi = 10.1257/aer.103.3.629| issn = 0002-8282| volume = 103| issue = 3| pages = 629–635| last1 = Gordon| first1 = Roger| last2 = Dahl| first2 = Gordon B| title = Views among Economists: Professional Consensus or Point-Counterpoint?| journal = American Economic Review| accessdate = 2016-07-10| date = May 2013| url = http://econweb.ucsd.edu/~gdahl/papers/views-among-economists.pdf}}</ref> Discussing the paper, [[Stony Brook University]] economist Noah Smith concluded that "at the elite level", economics "isn't divided into two warring ideological camps".<ref name=smith_warring />
+
+
+[[Justin Wolfers]] (2014):
 
 {{quote|text=These data paint a picture of a professional consensus, tempered by a degree of modesty that there’s much we don’t know. Indeed, the best research into the views of economists finds that this consensus is pervasive across a range of issues. Call it the hidden consensus in economics. It’s there, but remains largely out of sight, because in a competitive political system there’s always an incentive for at least some advocates to try to portray any empirical claim as deeply contested.<ref>{{cite web |url=http://www.nytimes.com/2014/07/30/upshot/what-debate-economists-agree-the-stimulus-lifted-the-economy.html |author=Justin Wolfers |date=July 29, 2014 |title=What Debate? Economists Agree the Stimulus Lifted the Economy |publisher=''[[The New York Times]]'' |accessdate=July 9, 2016}}</ref>}}
 
@@ -12,11 +21,17 @@ The '''professional consensus of economics''' refers to the phenomenon of conver
 
 Caplan elaborates on this in his 2007 book ''[[The Myth of the Rational Voter]]''.
 
-[[Greg Mankiw]] at <ref>{{cite web |url=http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html |date=February 14, 2009 |author=Greg Mankiw |title=News Flash: Economists Agree |website=Greg Mankiw's Blog |accessdate=July 9, 2016}}</ref> and at <ref>{{cite web |url=http://gregmankiw.blogspot.com/2006/11/consensus-of-economists.html |date=November 30, 2006 |author=Greg Mankiw |website=Greg Mankiw's Blog |title=The Consensus of Economists |accessdate=July 9, 2016}}</ref>
-
 Adam Ozimek at <ref name=atlantic_ozimek>{{cite web |url=http://www.theatlantic.com/business/archive/2012/04/4-politically-controversial-issues-where-all-economists-agree/255600/ |author=Adam Ozimek |date=April 9, 2012 |title=4 Politically Controversial Issues Where All Economists Agree |publisher=''[[The Atlantic]]'' |accessdate=July 9, 2016}}</ref>
 
 [[Steven Levitt]]: "My own experience has always been just the opposite. Most economists think very much alike."<ref>{{cite web |url=http://freakonomics.com/2012/01/09/if-all-the-economists-were-laid-end-to-end-would-they-reach-a-conclusion/ |author=by Steven D. Levitt |date=January 9, 2012 |title=If All the Economists Were Laid End to End, Would They Reach a Conclusion? |publisher=Freakonomics |accessdate=July 9, 2016}}</ref>
+
+==Examples of consensus among economists==
+
+The following list presents some of the claims that have broad consensus among economists (even though they are controversial among noneconomists).
+
+* "Societies benefit most from [[free trade]]."<ref name=yamane />
+* "Whereas 93% of economists reckoned a [[carbon tax]] is a less costly way to cut emissions than car fuel-mileage standards, only 23% of the public agreed."<ref>{{cite web |url=http://www.economist.com/news/finance-and-economics/21569378-if-economists-agree-something-public-will-almost-certainly-think |date=January 12, 2013 |title=Room with a view |publisher=The Economist |accessdate=July 9, 2016}}</ref>
+* Opposition to a [[gold standard]]<ref name=smith_warring>{{cite web |url=http://noahpinionblog.blogspot.com/2013/01/is-economics-divided-into-warring.html |author=Noah Smith |website=Noahpinion |date=January 6, 2013 |title=Is economics divided into warring ideological camps? |accessdate=July 10, 2016}}</ref>
 
 ==Reasons for disagreement among noneconomists==
 
@@ -25,6 +40,10 @@ Adam Ozimek at <ref name=atlantic_ozimek>{{cite web |url=http://www.theatlantic.
 [[Paul Krugman]] provides three reasons why intellectuals in particular resist the theory of comparative advantage that underpins free trade: 1) opposition to free trade is intellectually fashionable, 2) comparative advantage is hard to understand, and 3) they are averse to a fundamentally mathematical understanding of the world.<ref name=atlantic_ozimek />}}
 
 The [[Bentley University]] economist [[Scott Sumner]], writing for his blog ''[[TheMoneyIllusion]]'', argued that noneconomists have "utter disdain" for economists' views on [[microeconomics]] because they have "made up their minds" using "common sense".<ref>{{cite web |url=http://www.themoneyillusion.com/?p=18673 |date=January 16, 2013 |website=TheMoneyIllusion |title=The public wants us to be astrologers or heretics, not scientists |accessdate=July 9, 2016 |author=Scott Sumner}}</ref>
+
+A piece in ''[[The Economist]]'' notes that the public has low trust for economists and for the government to execute on policy.<ref>{{cite web |url=http://www.economist.com/blogs/freeexchange/2013/01/economists |title=Trust us |publisher=The Economist |accessdate=July 9, 2016 |date=January 11, 2013}}</ref>
+
+[[Noah Smith]], an economist at [[Stony Brook University]], recalls the history of economics as "a literary enterprise, advanced by philosophical treatises rather than laboratory experiments", which could lower the public's trust of economics. Further, he argues that in the case of noneconomists' opposition to the economists' consensus on free trade, noneconomists may be using a [[Mercantilism|mercantilist]] intuition.<ref>{{cite web |url=http://noahpinionblog.blogspot.com/2013/01/why-do-people-think-economists-are.html |author=Noah Smith |date=January 10, 2013 |title=Why do people think economists are charlatans? |accessdate=July 9, 2016 |website=Noahpinion}}</ref>
 
 ==See also==
 
