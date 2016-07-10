@@ -102,6 +102,10 @@ Thanks to Vipul Naik for these links.
 - [Wait Times Are Down, But IRS Still Faces Serious Challenges](http://www.wsj.com/articles/wait-times-are-down-but-irs-still-faces-serious-challenges-1458898201) ([jailbroken](http://archive.is/maibR))
 - [Are you experiencing long waits calling the IRS?](http://www.accountingweb.com/community-voice/blogs/william-brighenti/are-you-experiencing-long-waits-calling-the-irs)
 
+# External links
+
+- [Vipul Naik shared this page](https://www.facebook.com/vipulnaik.r/posts/10208807739366732)
+
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
 
