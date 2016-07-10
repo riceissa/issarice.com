@@ -10,6 +10,7 @@ Possible list of things to write about:
 
 NEW:
 
+- figure out if img {max-width:100%;height:auto;} is a good idea.
 - make side bar responsive: as gwern notes, there are TWO kinds of
   navigational information. one is site-specific, so home, about, feed,
   comment, and website source. the other is page-specific, so the table
