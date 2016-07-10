@@ -4,6 +4,8 @@ The '''Initiative on Global Markets''' ('''IGM''') is a research center<ref>{{ci
 
 ===Surveyed economists===
 
+As of July 2016, the IGM Forum panel has 51 economists.<ref>{{cite web |url=http://www.igmchicago.org/igm-economic-experts-panel/participants |title=Participants |publisher=IGM Forum |accessdate=July 9, 2016}}</ref>
+
 According to economist [[Justin Wolfers]], the economists surveyed by the IGM Forum are geographically and ideologically diverse and are "a good sample of the leading economists in the nation".<ref name=nyt_stimulus />
 
 In November 2013, ten new economists joined the IGM Forum.<ref>{{cite web |url=http://www.igmchicago.org/uncategorized/10-new-economic-experts-join-the-igm-panel |title=10 New Economic Experts join the IGM Panel |publisher=IGM Forum |accessdate=July 8, 2016 |date=November 6, 2013}}</ref>
@@ -14,13 +16,36 @@ In November 2013, ten new economists joined the IGM Forum.<ref>{{cite web |url=h
 
 ''[[Forbes]]'' has also cited the IGM Forum survey on high-skilled immigration, noting the consensus in favor of immigration.<ref>{{cite web |url=http://www.forbes.com/sites/modeledbehavior/2013/02/12/economists-agree-high-skilled-immigration-makes-americans-better-off/ |archiveurl=https://web.archive.org/web/20160507111456/http://www.forbes.com/sites/modeledbehavior/2013/02/12/economists-agree-high-skilled-immigration-makes-americans-better-off/ |archivedate=May 7, 2016 |author=Adam Ozimek |date=February 12, 2013 |title=Economists Agree: High-Skilled Immigration Makes Americans Better Off |publisher=Forbes |accessdate=July 8, 2016}}</ref>
 
+''[[U.S. News & World Report]]'' has cited the IGM Forum survey on tax cuts.<ref>{{cite web |url=http://www.usnews.com/opinion/blogs/economic-intelligence/2012/06/29/economists-agree-tax-cuts-cost-revenue--- |author=Chad Stone |date=June 29, 2012 |title=Economists Agree: Tax Cuts Cost Revenue |publisher=''[[U.S. News & World Report]]'' |accessdate=July 10, 2016}}</ref>
+
 ===Reception===
 
 ''[[The New York Times]]'' praised the IGM Forum for providing "an easily digested summary of the insights of mainstream economics into continuing political controversies".<ref name=nyt_uber>{{cite web |url=http://www.nytimes.com/2014/10/01/upshot/uber-improves-life-economists-agree.html |author=Justin Wolfers |date=September 30, 2014 |title=Uber Improves Life, Economists Agree |publisher=''[[The New York Times]]'' |accessdate=July 8, 2016}}</ref>
 
+[[Nobel Memorial Prize in Economic Sciences|Nobel Memorial Prize]] laureate [[Paul Krugman]], writing for ''The New York Times'' in January 2013, noted that the IGM Forum did not focus on areas that are disputed by macroeconomists.<ref>{{cite web |url=http://krugman.blogs.nytimes.com/2013/01/05/ideology-and-economics/ |date=January 5, 2013 |title=Ideology and Economics |publisher=''[[The New York Times]]'' |accessdate=July 10, 2016 |author=Paul Krugman}}</ref>
+
 The [[George Mason University]] economist [[Bryan Caplan]], writing for the economics blog [[EconLog]], said "its members seem to lean heavily [[Democratic Party (United States)|Democratic]]" and that "the IGM ought to at least explicitly disclose its panelists' political allegiances".<ref>{{cite web |url=http://econlog.econlib.org/archives/2012/07/igm_and_economi.html |author=Bryan Caplan |date=July 27, 2012 |title=IGM, Economic Consensus, and Partisan Bias |publisher=EconLog |accessdate=July 8, 2016}}</ref>
 
+==Notes (remove when done)==
+
+* https://www.google.com/search?q=%22Initiative%20on%20Global%20Markets%22%20site:wikipedia.org#q=%22Initiative+on+Global+Markets%22+new+york+times
+* https://encrypted.google.com/search?hl=en&q=Initiative%20on%20Global%20Markets
+* http://research.chicagobooth.edu/IGM/research/index.aspx
+* http://research.chicagobooth.edu/IGM/index.aspx
+
+Questions:
+
+* when was it founded?
+* who started it/who was involved in founding it?
+* what have they done aside from the IGM Forum?
+
 ==See also==
+
+* [[Professional consensus of economics]]
+
+==External links==
+
+* [http://www.igmchicago.org/ Official website of the IGM Forum]
 
 ==References==
 
