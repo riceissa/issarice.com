@@ -1,4 +1,4 @@
-The '''professional consensus of economics''' refers to to the phenomenon of convergence of views of economists on issues that are contentious among noneconomists.
+The '''professional consensus of economics''' refers to the phenomenon of convergence of views of economists on issues that are contentious among noneconomists.
 
 [[Justin Wolfers]]:
 
@@ -10,7 +10,21 @@ The '''professional consensus of economics''' refers to to the phenomenon of con
 
 {{quote|text=the best survey data indicate that economists converge on a long list of unpopular positions. Compared to the general public, economists think that markets work very well, that economic interaction with foreigners makes us better off, that saving labor is a good idea, and that the economy is doing well and getting better.<ref>{{cite web |url=http://blogs.britannica.com/2007/05/economists-agree/ |archivedate=September 12, 2015 |archiveurl=https://web.archive.org/web/20150912145319/http://blogs.britannica.com/2007/05/economists-agree/ |date=May 8, 2007 |author=Bryan Caplan |title=Economists Agree?! |publisher=Britannica Blog |accessdate=July 9, 2016}}</ref>}}
 
-[[Greg Mankiw]] at <ref>{{cite web |url=http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html |date=February 14, 2009 |author=Greg Mankiw |title=News Flash: Economists Agree |website=Greg Mankiw's Blog |accessdate=July 9, 2016}}</ref>
+Caplan elaborates on this in his 2007 book ''[[The Myth of the Rational Voter]]''.
+
+[[Greg Mankiw]] at <ref>{{cite web |url=http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html |date=February 14, 2009 |author=Greg Mankiw |title=News Flash: Economists Agree |website=Greg Mankiw's Blog |accessdate=July 9, 2016}}</ref> and at <ref>{{cite web |url=http://gregmankiw.blogspot.com/2006/11/consensus-of-economists.html |date=November 30, 2006 |author=Greg Mankiw |website=Greg Mankiw's Blog |title=The Consensus of Economists |accessdate=July 9, 2016}}</ref>
+
+Adam Ozimek at <ref name=atlantic_ozimek>{{cite web |url=http://www.theatlantic.com/business/archive/2012/04/4-politically-controversial-issues-where-all-economists-agree/255600/ |author=Adam Ozimek |date=April 9, 2012 |title=4 Politically Controversial Issues Where All Economists Agree |publisher=''[[The Atlantic]]'' |accessdate=July 9, 2016}}</ref>
+
+[[Steven Levitt]]: "My own experience has always been just the opposite. Most economists think very much alike."<ref>{{cite web |url=http://freakonomics.com/2012/01/09/if-all-the-economists-were-laid-end-to-end-would-they-reach-a-conclusion/ |author=by Steven D. Levitt |date=January 9, 2012 |title=If All the Economists Were Laid End to End, Would They Reach a Conclusion? |publisher=Freakonomics |accessdate=July 9, 2016}}</ref>
+
+==Reasons for disagreement among noneconomists==
+
+{{quote|text=So why do pundits and voters lag economists in supporting free trade? In his excellent book [[The Myth of the Rational Voter]], Bryan Caplan provides evidence that people suffer from a handful of systematic biases that influence their beliefs, and three of these can help explain why voters are skeptical of trade: anti-market bias, anti-foreign bias, and pessimism bias.
+
+[[Paul Krugman]] provides three reasons why intellectuals in particular resist the theory of comparative advantage that underpins free trade: 1) opposition to free trade is intellectually fashionable, 2) comparative advantage is hard to understand, and 3) they are averse to a fundamentally mathematical understanding of the world.<ref name=atlantic_ozimek />}}
+
+The [[Bentley University]] economist [[Scott Sumner]], writing for his blog ''[[TheMoneyIllusion]]'', argued that noneconomists have "utter disdain" for economists' views on [[microeconomics]] because they have "made up their minds" using "common sense".<ref>{{cite web |url=http://www.themoneyillusion.com/?p=18673 |date=January 16, 2013 |website=TheMoneyIllusion |title=The public wants us to be astrologers or heretics, not scientists |accessdate=July 9, 2016 |author=Scott Sumner}}</ref>
 
 ==See also==
 
