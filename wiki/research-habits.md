@@ -42,6 +42,9 @@ For this reason I wrote a [citation generator for Wikipedia](https://github.com/
 
 - I also reference things by linking to them, and found it annoying to copy the page titles, so I wrote an [autolink](https://github.com/riceissa/autolink) program.
 
+- Being careful (i.e. careful enough that one's research is representative of the underlying reality) takes a lot of time and effort.
+It would be great if more of the tedious parts could be automated away.
+
 # External links
 
 - [Carl Shulman's research advice](https://docs.google.com/document/d/1_yuuheVqp1quDfkuRcpoW_HO7jPaI7QnRjF1zl_VovU/edit) (quite coincidentally, [Claire Zabel shared](https://www.facebook.com/claire.zabel/posts/10210316635098601) Carl's advice on the same day I began working on this page)
