@@ -1,6 +1,8 @@
-The '''professional consensus of economics''' refers to the phenomenon of convergence of views of economists on issues that are contentious among noneconomists. The convergence of views happens mainly in [[microeconomics]]; in [[macroeconomics]] professional opinion can be divided.<ref name=ceepreface /><ref name=sumner_astro /><ref name=taylor_praxtime />
+The '''professional consensus of economics''' refers to the phenomenon of convergence of views of economists on issues that are contentious among noneconomists. The convergence of views happens mainly in [[microeconomics]]; in [[macroeconomics]] professional opinion can be divided.<ref name=ceepreface /><ref name=sumner_astro /><ref name=taylor_praxtime /><ref name=kearl_1979 />{{rp|33}}
 
 ==History==
+
+In 1979, [[James R. Kearl]], [[Clayne L. Pope]], [[Gordon C. Whiting]], and [[Larry T. Wimmer]] published "A Confusion of Economists?"<ref name=kearl_1979>{{Cite journal| issn = 0002-8282| volume = 69| issue = 2| pages = 28–37| last1 = Kearl| first1 = J. R.| last2 = Pope| first2 = Clayne L.| last3 = Whiting| first3 = Gordon C.| last4 = Wimmer| first4 = Larry T.| title = A Confusion of Economists?| journal = The American Economic Review| accessdate = 2016-07-10| date = 1979| url = http://www.jstor.org/stable/1801612| jstor = 1801612}}</ref>
 
 Writing in 1992, the [[Pitzer College]] economist [[Linus Yamane]] said that "the most common complaint" of economists by noneconomists is that they "never agree", but then points out that "[on] many issues economists are quite unanimous in their opinion". Nevertheless, Yamane argues that this consensus is ignored and that "politics always dominates economics".<ref name="yamane">{{cite web |url=http://bernard.pitzer.edu/~lyamane/fun.htm |author=Linus Yamane  |title=Why do people make fun of economists? |accessdate=July 9, 2016 |date=February 1992}}</ref>
 
@@ -31,7 +33,7 @@ Adam Ozimek at <ref name=atlantic_ozimek>{{cite web |url=http://www.theatlantic.
 
 The following list presents some of the claims that have broad consensus among economists (even though they are controversial among noneconomists).
 
-* "Societies benefit most from [[free trade]]."<ref name=yamane /><ref name=griswold_cato>{{cite web |url=http://www.cato.org/blog/super-majority-economists-agree-trade-barriers-should-go |author=Daniel Griswold |date=September 18, 2009 |title=A Super-Majority of Economists Agree: Trade Barriers Should Go |publisher=[[Cato Institute]] |accessdate=July 10, 2016}}</ref>
+* "Societies benefit most from [[free trade]]."<ref name=yamane /><ref name=ceepreface /><ref name=griswold_cato>{{cite web |url=http://www.cato.org/blog/super-majority-economists-agree-trade-barriers-should-go |author=Daniel Griswold |date=September 18, 2009 |title=A Super-Majority of Economists Agree: Trade Barriers Should Go |publisher=[[Cato Institute]] |accessdate=July 10, 2016}}</ref>
 * A "minimum wage increases unemployment among young and unskilled workers".<ref name=ceepreface />
 * "Whereas 93% of economists reckoned a [[carbon tax]] is a less costly way to cut emissions than car fuel-mileage standards, only 23% of the public agreed."<ref>{{cite web |url=http://www.economist.com/news/finance-and-economics/21569378-if-economists-agree-something-public-will-almost-certainly-think |date=January 12, 2013 |title=Room with a view |publisher=The Economist |accessdate=July 9, 2016}}</ref>
 * Opposition to a [[gold standard]]<ref name=smith_warring>{{cite web |url=http://noahpinionblog.blogspot.com/2013/01/is-economics-divided-into-warring.html |author=Noah Smith |website=Noahpinion |date=January 6, 2013 |title=Is economics divided into warring ideological camps? |accessdate=July 10, 2016}}</ref>
@@ -40,6 +42,8 @@ The following list presents some of the claims that have broad consensus among e
 * The US government should eliminate or reduce subsidies for [[ethanol]].<ref name=griswold_cato />
 
 ==Reasons for disagreement among noneconomists==
+
+This section discusses both the reasons for disagreement among noneconomists as well as reasons for the noneconomists' impression that economists disagree when there is in fact a consensus.
 
 {{quote|text=So why do pundits and voters lag economists in supporting free trade? In his excellent book [[The Myth of the Rational Voter]], Bryan Caplan provides evidence that people suffer from a handful of systematic biases that influence their beliefs, and three of these can help explain why voters are skeptical of trade: anti-market bias, anti-foreign bias, and pessimism bias.
 
@@ -51,10 +55,14 @@ A piece in ''[[The Economist]]'' notes that the public has low trust for economi
 
 [[Noah Smith]], an economist at [[Stony Brook University]], recalls the history of economics as "a literary enterprise, advanced by philosophical treatises rather than laboratory experiments", which could lower the public's trust of economics. Further, he argues that in the case of noneconomists' opposition to the economists' consensus on free trade, noneconomists may be using a [[Mercantilism|mercantilist]] intuition.<ref>{{cite web |url=http://noahpinionblog.blogspot.com/2013/01/why-do-people-think-economists-are.html |author=Noah Smith |date=January 10, 2013 |title=Why do people think economists are charlatans? |accessdate=July 9, 2016 |website=Noahpinion}}</ref>
 
+David R. Henderson argues that journalism tries to present both sides of an issue in a "balanced" way even when there is professional consensus, and that noneconomists might be confusing [[Positive statement|positive analysis]] and [[normative]] analysis (see [[is–ought problem]]).<ref name=ceepreface />
+
+In the survey responses of Kearl et al., "[economic] journalism was described as inaccurate, biased, distorted, sensationalized, and unsophisticated".<ref name=kearl_1979 />{{rp|29}} Moreover, the public and journalists tend to focus most on issues that economists disagree on most (i.e. macroeconomic policy questions that frequently involve forecasting and normative statements).<ref name=kearl_1979 />{{rp|36}}
+
 ==See also==
 
 * [[Scientific consensus]]
-* [[Initiative on Global Markets]]
+* [[Consensus Economics]]
 
 ==References==
 
