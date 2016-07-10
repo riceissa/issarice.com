@@ -205,4 +205,20 @@ The way I see it, external page savers like the Internet Archive and WebCite sho
 
 I don't think I should be surprised at all by this, but I was quite impressed with [Perma.cc](http://perma.cc)'s [contingency plan](https://perma.cc/contingency-plan), which seems like an obvious improvement over standard web services that simply shut down and give no notice[^quora].
 
+# Archive buttons
+
+On Firefox, I have the following archive buttons:
+
+<img src="archive-buttons.png" />
+
+From left to right, these are [Pinboard](https://pinboard.in/), Zotero, and Archive.org.
+The Archive.org button is a bookmarklet with the code:
+
+```
+javascript:void(window.open('https://web.archive.org/save/'+location.href))
+```
+
+I also have the Scrapbook plugin for Firefox.
+This allows me to quickly create copies that are local (Scrapbook and Zotero), private network (Pinboard), and public network (Archive.org).
+
 [^quora]: In the case of Quora, private blogs were almost immediately disabled and deleted after announcement (though archives were emailed out to owners); Google reader gave [under three months](https://en.wikipedia.org/wiki/Google_Reader#Discontinuation) to backup data.
