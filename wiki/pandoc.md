@@ -79,3 +79,19 @@ For instance, writing `[Fishmans](!w)` will search Wikipedia for the string "Fis
 <!-- FIXME: write a more complete guide of how to use pandocfilers -->
 
 I've also converted the Haskell filters on the Pandoc website to [their Python equivalents](https://github.com/riceissa/pandocfilters-examples).
+
+# Filtering out messy HTML
+
+From [this answer](http://stackoverflow.com/a/35812743/3422337):
+
+```vim
+:!%pandoc -f html -t markdown-raw_html-native_divs-native_spans
+```
+
+Or more fully:
+
+```vim
+:new
+:r !xclip -sel clip -o -t text/html
+:!%pandoc -f html -t markdown-raw_html-native_divs-native_spans --wrap=none
+```
