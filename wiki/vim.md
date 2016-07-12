@@ -325,7 +325,8 @@ it:
 
 - The way Vim treats long lines (see section above)
 - The fact that I have to press `Enter` twice after compiling something (note
-  that Neovim fixes this problem).
+  that Neovim fixes this problem).  In Vim, I just use the external
+  `make` command `:!make` rather than Vim's `:make` because of this.
 - Using eclim for Java completion (along with YCM) results in a strange error
   when running `:make`, even on projects that have nothing to do with Java.
   Specifically, the first line of the quickfix list is always `error: ...`, and
