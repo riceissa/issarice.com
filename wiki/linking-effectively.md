@@ -32,7 +32,7 @@ In other words, should we prefer `["Article Title"]` or `"[Article Title]"`?
 An analogue with book titles cannot be made, because both `[*Book Title*]` and `*[Book Title]*` appear the same.
 Consider also fragments that include the quoted thing on one end, e.g. `see [my Quora answer to the question "Should I eat?"]`, where excluding the quotes is impossible.
 - Wikipedia likes to give full citations as a *way to combat linkrot*.
-Indeed, the argument is that it is easier to find a linkrotted source if there's other information like title of article, author name (someone to contact if the article cannot be found elsewhere), etc.
+Indeed, the [argument](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Handling_links_in_citations) is that it is easier to find a linkrotted source if there's other information like title of article, author name (someone to contact if the article cannot be found elsewhere), etc.
 However, I find inline linking to be more emphatic (it conveys a different message than footnotes or parenthetical citations).
 One way to have the best of both worlds is to be [aggressive about archiving](digital-preservation) and to have a mechanism for detecting broken URLs (which you should be doing anyway).
 
