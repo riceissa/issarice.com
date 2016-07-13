@@ -1,6 +1,7 @@
 ---
 title: Linking effectively
-date: 2016-06-22
+author: Issa Rice
+date: 2016-07-12
 ---
 
 Some places to look:
