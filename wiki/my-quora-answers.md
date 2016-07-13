@@ -602,6 +602,174 @@ However all things considered, it's a decent place. I usually like to
 come here around 10pm and then move to Odegaard when it gets less
 crowded.
 
+# What is the "anonymity problem" in online dating?
+
+I originally asked this question because [Vipul
+Naik](https://www.quora.com/profile/Vipul-Naik) used the phrase in a
+conversation. It turns out he may just have invented the phrase himself,
+so there may not be a well-known "anonymity problem". In any case, I'll
+try to explain what he seemed to be getting at.
+
+He quoted [my answer to Why has LinkedIn had substantially greater
+success and impact than
+OKCupid?](https://www.quora.com/Why-has-LinkedIn-had-substantially-greater-success-and-impact-than-OkCupid/answer/Issa-Rice):
+
+
+> The anonymity on OKCupid, in contrast to people using their real names
+> on LinkedIn, could also be a factor \[of difference in success\]:
+> information on LinkedIn has the ability to be reused elsewhere or have
+> a better chance of having an impact in other places (whereas with
+> OKCupid, only your (potential) partners will ever care about the
+> information, and it won't be linked to your real identity). (Thanks to
+> Vipul Naik for this idea.)
+
+
+In other words, online dating may suffer in various respects because it
+is often conducted anonymously. We can even see this in articles like
+[Anonymity: The Joker in Online
+Dating](http://mariashriver.com/blog/2014/10/anonymity-the-joker-in-online-dating-ken-solin/):
+
+
+> Anonymity contributes disproportionately to boomer dating
+> dissatisfaction. While integrity may top most boomers’ lists of
+> desirable qualities, it’s at odds with some boomers’ online dating
+> behavior. *“If I don’t really know this man or woman I’m contacting,
+> why should I be on my best behavior? If I meet a person who’s a
+> stranger  and I’m disappointed, why should I care about how I treat
+> that person?  I’ll never see this person again, so what difference
+> does it make if I’m  rude?”* This myopia is reminiscent of Internet
+> tough guys who use anonymity as a shield.
+
+
+In general, using one's real identity does tend to mean there will be
+consequences for one's actions, and this can promote more long-term
+thinking, which may be desirable; see my [Long-term
+thinking](http://issarice.com/long-term-thinking) for
+more. The fact that online dating often doesn't have this means people
+can be short-sighted.
+
+# Can Google Photos automatically detect (and delete) photos I upload that might have nudity in them?
+
+Maybe in the future, but I don't think that's the case at the moment.
+From their content policy page:
+
+
+> We depend heavily upon users to let us know about content that may
+> violate our policies. After we are notified of a potential policy
+> violation, we may review the content and take action, including
+> restricting access to the content, removing the content, and limiting
+> or terminating a user’s access to Google products. Note that we may
+> make exceptions to these policies based on artistic, educational, or
+> documentary considerations, or when there are other substantial
+> benefits to the public from not taking action.
+
+
+([Policies for Google+, Hangouts &
+Photos](https://www.google.com/intl/en-US/+/policy/content.html))
+
+Also do note that some sexually explicit material is allowed (bolding
+mine):
+
+
+> Do not distribute sexually explicit or pornographic material. Do not
+> drive traffic to commercial pornography sites.
+>
+> **We do allow naturalistic and documentary depictions of nudity (such
+> as an image of a breastfeeding infant), as well as depictions of
+> nudity that serve a clear educational, scientific, or artistic
+> purpose.**
+>
+> Note that your profile photo cannot include mature or offensive
+> content. For example, do not use a photo that is a close-up of a
+> person’s buttocks or cleavage.
+
+# What do University of Washington students think of the "Impeach Obama" people near the quad, red square, etc.?
+
+I don't think of them, and try to avoid them. Once I was wearing a sunhat and
+sunglasses (to protect myself from the sun), when one of them spoke at me,
+"Hey, you from the FBI or what?" or something similar.
+
+# What would Andrew J. Ho do if he were a millionaire?
+
+Hard to say, but he has made references to ruling over certain populations (not
+sure if this is possible for a mere millionaire), funding certain types of
+people to do work, and not having to do tedious work himself. In addition,
+given his interest in a variety of intellectual activies including writing,
+mathematics, and reading literature, I would presume he'd pursue those to a
+greater extent than has been possible for him so far.
+
+# I've completed my freshman year of university with a 4.0 GPA, yet I feel something is missing. How do I make college the most fulfilling, enlightening experience possible?
+
+*This answer is quoted in full at [Some thoughts on college education]().*
+
+# Is it secure for me to log into my Internet accounts on the KCLS library computers?
+
+Possibly (but why risk it?). In general it's bad practice to log into
+internet accounts from a device you do not own (since you never know
+what software/hardware keyloggers they could be running). With public
+library computers, it's even worse than, say, a friend's computer,
+because anyone could have physical access to the machine. Moreover last
+time I was at a KCLS library, they were still running something like
+Windows XP, which makes me trust those machines even less.
+
+If you need to be scared away from logging in, read something like
+[Hardware keyloggers discovered at public
+libraries](https://nakedsecurity.sophos.com/2011/02/14/hardware-keyloggers-discovered-public-libraries/)
+or [Page on
+mit.edu](http://tech.mit.edu/V125/PDF/V125-N20.pdf).
+
+But if you must log in, enable something like two-factor authentication
+(for services that have this), and change your password immediately
+afterwards. Also most people have smartphones now so it's better to just
+use the Wi-Fi network from your own device instead of touching any of
+the public machines (and if you have a VPN, then that's even better).
+
+# What is a list of questions that could be asked about any Nobel laureate on Quora?
+
+Here are some:
+
+-   Was the decision to give X the Nobel prize justified?
+-   Who were the other people being considered for the Nobel prize
+    during the year X was selected?
+-   How many times was X considered for the Nobel prize before getting
+    it?
+-   Did X auction off their Nobel prize medal only to have it returned
+    to them for free?
+-   What is the most controversial thing X has said?
+-   Did X produce their best work before or after getting the Nobel
+    prize?
+-   When should I put X in my dead pool?
+-   To what extent does X have a cult following?
+-   How many books have been written about X?
+-   Is X mostly just known in their home country, or are they famous
+    internationally?
+-   Does X use Quora?
+-   Is X on any social media sites?
+-   What is it like to do marijuana/MDMA/psilocybin/LSD with X?
+-   What is it like to watch a lecture by X while on
+    marijuana/MDMA/psilocybin/LSD?
+-   Is [Alex K. Chen](https://www.quora.com/profile/Alex-K-Chen)
+    obsessed with X?
+-   How well does X speak English?
+-   Is X a good role-model?
+-   How would X approach grad school admissions?
+-   If X were born today, would they have a shot at getting the Nobel
+    prize again?
+-   What are the best anecdotes about X?
+-   How many views does the Wikipedia page for X have?
+-   How many followers would X have if they were on Quora?
+-   What do experts in the field in which X got the Nobel prize think of
+    X?
+-   What would people think of X if X had the opposite gender?
+
+# Why hasn't Issa Rice posted to Quora of late?
+
+I was edit-banned for a month for asking "[What is it like to rape each
+member of your
+family?](https://www.quora.com/unanswered/What-is-it-like-to-rape-each-member-of-your-family)",
+which was marked as "possibly insincere". The ban actually lasted for a
+full two weeks after the one-month period, for reasons I'm not sure
+about.
 
 # How do I cope with losing a long-time friend who I love?
 
