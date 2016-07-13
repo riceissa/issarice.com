@@ -7,6 +7,602 @@ My main contributions to Quora are through my questions, but I don't think my an
 
 Reverse chronological order
 
+# What is epistemic soundness?
+
+In LessWrong/rationality parlance, “epistemic soundness” means the same
+thing as “epistemic rationality”. To quote the LW Wiki:
+
+> Epistemic rationality is that part of rationality which involves
+> achieving accurate beliefs about the world. It involves
+> [updating](https://wiki.lesswrong.com/wiki/Updating)
+> on receiving new
+> [evidence](https://wiki.lesswrong.com/wiki/Evidence),
+> mitigating cognitive biases, and examining why you believe what you
+> believe. It can be seen as a form of instrumental rationality in which
+> knowledge and truth are goals in themselves, whereas in other forms of
+> instrumental rationality, knowledge and truth are only potential aids
+> to achieving goals. Someone practising instrumental rationality might
+> even find falsehood useful.
+
+([Rationality -
+Lesswrongwiki](https://wiki.lesswrong.com/wiki/Rationality#Epistemic_rationality))
+
+Further, Eliezer Yudkowsky says:
+
+> **Epistemic rationality**: believing, and updating on evidence, so as
+> to systematically improve the correspondence between [your map and the
+> territory](http://yudkowsky.net/rational/the-simple-truth).
+> The art of obtaining beliefs that correspond to reality as closely as
+> possible. This correspondence is commonly termed "truth" or
+> "accuracy", and we're happy to call it that.
+
+([What Do We Mean By
+"Rationality"?](http://lesswrong.com/lw/31/what_do_we_mean_by_rationality/))
+
+The idea of “epistemic soundness” has over time become associated with
+certain other ideas like betting on beliefs and having good calibration
+([Calibrated probability
+assessment](https://en.wikipedia.org/wiki/Calibrated_probability_assessment)).
+
+# Does Alex K. Chen come off as socially awkward when he asks people too many questions IRL?
+Issa Rice
+
+Yes (though I’ve only met Alex a few times in person).
+
+This isn’t to say it’s a bad thing (in fact, I very much enjoy watching Alex ask people questions).
+
+# If I incorrectly included my failure-to-file penalty on line 79 of Form 1040, how should I amend this?
+
+You should fill in Form 843, as described here: [How should Form 1040 be
+amended if error was introduced on lines 78 and
+79?](http://money.stackexchange.com/a/66829/44690)
+
+# What are all of the websites Vipul Naik has created or contributed significantly to?
+
+Here are the ones I know about:
+
+-   [What Is Research?](https://whatisresearch.wordpress.com/), his old math
+    research blog
+-   [Olympiads and I](http://olympiadsandi.blogspot.com/), his old Olympiads
+    blog
+-   [The Web Crawler](http://spideroftheweb.blogspot.com/), another old Blogger
+    blog that only has one post
+-   [Vipul Naik](http://vipulnaik.com/), his current personal site
+-   [Vipul Naik's Home Page: Main
+    Page](https://web.archive.org/web/20130518071716/http://www.cmi.ac.in/%7Evipul/),
+    his old personal/academic site from CMI
+-   [Vipul Naik's Home Page -- University of
+    Chicago](https://web.archive.org/web/20120516191221/http://math.uchicago.edu/%7Evipul),
+    his academic site from UChicago
+-   [Thinking Beyond
+    Competition](https://thinkingbeyondcompetition.wordpress.com/), his old
+    ethics/philosophy/econ blog
+-   [Wikipedia Views](http://wikipediaviews.org/), a site to tabulate pageviews
+    of Wikipedia pages
+-   [Vipul’s Classroom](http://www.vipulsclassroom.org/), the site for his math
+    YouTube videos
+-   [Open Borders: The Case](http://openborders.info/), the open borders
+    advocacy site he started
+-   [Subwiki](http://subwiki.org/wiki/Main_Page), the site where he puts all of
+    his subject-specific wikis. Out of these, the most developed is
+    [Groupprops](http://groupprops.subwiki.org/wiki/Main_Page), the group
+    theory wiki
+-   [Cognito Mentoring](http://cognitomentoring.org/), an experimental
+    mentoring service he started with Jonah Sinick, which also has the [Cognito
+    Mentoring Info Wiki](http://info.cognitomentoring.org/wiki/Main_Page)
+-   [Wikipedia](http://vipulnaik.com/wikipedia/) (various topics)
+-   See also [Service](http://vipulnaik.com/service/) for his various online
+    profiles
+
+# I'm now 18 and heading into my senior year of high school next year and still a virgin. Should I be worried?
+
+No.
+
+# What are Issa Rice's favorite tvtropes articles?
+
+I haven’t explored TV Tropes that much so it’s hard to say. Here are
+some articles I’ve referred to that I liked:
+
+-   [Ordinary High-School Student - TV
+    Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/OrdinaryHighSchoolStudent)
+-   [Tempting Fate - TV
+    Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/TemptingFate)
+-   [Tsundere - TV
+    Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/Tsundere)
+-   [Harem Genre - TV
+    Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HaremGenre)
+-   [Love Tropes - TV
+    Tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/LoveTropes)
+    (not an article, but I found it fascinating to look through)
+
+I find TV Tropes useful because while each idea is quite obvious in
+hindsight, I often hadn’t verbalized it until I encountered the term and
+article for it.
+
+# Is IRS Form 1040 a one-pass form?
+
+As of the 2015 tax year, no, Form 1040 is not a one-pass form. Indeed,
+the instructions for line 78 contain the following:
+
+> Include any estimated tax penalty from line 79 in the amount you enter
+> on line 78.
+
+[https://www.irs.gov/pub/irs-pdf/...](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf)
+
+Line 78 is calculated using lines 63 and 74. Then line 79 is entered.
+However, if the amount on line 79 is nonzero, line 78 must now be
+updated, so the form cannot be one-pass. Of course, one might still
+anticipate this and fill in line 79 first and then use lines 63, 74, and
+79 to arrive at line 78, but now this breaks the usual flow of the form
+(although it's possible that this is precisely what the instructions
+suggest, and I think IRS forms in general don't have linear flow anyway;
+so you have at least an undocumented line dependency on the form itself,
+and then at least one of nonlinear flow or multiple-pass).
+
+# What are some good essays about computer science and programming?
+
+[https://dl.dropboxusercontent.co...](https://dl.dropboxusercontent.com/u/85192141/1996-hoare.pdf)
+("How Did Software Get So Reliable Without Proof?")
+
+# What are the best books to learn Vim in a month?
+
+My recommendation would be to start with vimtutor, then do a combination
+of the following as you see fit (which might take more than a month):
+
+-   Watch some [Vimcasts](http://vimcasts.org/).
+-   As you discover things you wish you could do in Vim, try googling
+    for keywords; this will usually lead you to relevant [Vim Tips
+    Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki) or
+    StackOverflow pages.
+-   Read *Practical Vim* by Drew Neil (who coincidentally also does
+    Vimcasts); I think this book does an excellent job of getting people
+    to think in a "Vim mindset". I especially like the realistic
+    examples and multiple approaches presented for solving a single
+    editing problem. However, I should warn you that there is a high
+    degree of references to future points in the book, i.e. if you read
+    the book straight through, you may encounter a lot of things that
+    have not been explicitly covered in the book yet. In other words
+    this book might be more useful at a more advanced stage in one's
+    Vim learning.
+-   Read the help pages. I don't necessarily find a lot of Unix manual
+    pages helpful (often googling provides a better explanation), but I
+    really like Vim's help pages. They don't cover everything in the
+    best way, but often invoking the help page on a topic is faster than
+    going to one's browser and looking an answer up, especially if one
+    has already encountered the material before and is only looking for
+    a quick memory jog.
+
+# What would Issa Rice do if he were a millionaire?
+
+This would largely depend on where on the millionaire spectrum I was. A
+single million dollars isn't very much money, and wouldn't influence my
+actions very much (for instance, I would still complete my undergraduate
+degree, get a job, etc.). Most likely I would just save it and invest it
+accordingly so as to have a comfortable financial buffer. Having a large
+financial buffer, in turn, will allow me to take on bigger and riskier
+bets (e.g. quitting a typical programming job in order to do [cause
+prioritization research](http://causeprioritization.org/) full-time \[disclosure: I run the site\]).
+
+In terms of selfish investments, [What would Alex K. Chen do if he were
+a
+millionaire?](https://www.quora.com/What-would-Alex-K-Chen-do-if-he-were-a-millionaire)
+has some good ideas. In general, I would lean toward spending money on
+ergonomics and longevity-related purchases. In addition to the points in
+Alex's answer, I might in addition consider more strongly cryonics, for
+example.
+
+I would also probably donate more; [GiveWell](http://www.givewell.org/)'s
+recommendations are a good start.
+
+With even more money, see [A Long-run perspective on strategic cause selection
+and
+philanthropy](http://www.effective-altruism.com/ea/5g/a_longrun_perspective_on_strategic_cause/).
+
+# How does gwern manage his backups?
+
+He explains this in a footnote ([Page on
+gwern.net](http://www.gwern.net/Archiving%20URLs#fn1)):
+
+
+> I use [duplicity](http://duplicity.nongnu.org/) &
+> [rdiff-backup](http://www.nongnu.org/rdiff-backup/) to
+> backup my entire home directory to a cheap 1.5TB hard drive (bought
+> from Newegg using forre.st’s [“Storage Analysis - GB/\$ for different
+> sizes and media”](http://forre.st/storage#hdd)
+> price-chart); a limited selection of folders are backed up to
+> [Tarsnap](http://www.tarsnap.com/).
+> 
+> I used to semiannually tar up my important folders, add
+> [PAR2](http://en.wikipedia.org/wiki/PAR2) redundancy,
+> and burn them to DVD, but that’s no longer really feasible; if I ever
+> get a Blu-ray burner, I’ll resume WORM backups. (Magnetic media
+> doesn’t strike me as reliable over many decades, and it would ease my
+> mind to have optical backups.)
+
+# What makes so many aspies attracted to effective altruism?
+
+I'm not sure it's the case that there are a lot of people with Asperger
+syndrome in effective altruism (EA); this would be the case in any
+movement of sufficient size. I think the burden of proof is on the
+person asking the question to provide evidence for what they are seeing.
+Having interacted with the EA community for over a year, I don't get
+this impression, though I haven't actually gone out and surveyed how
+many people with Asperger syndrome are associated with EA. I would also
+note that "Asperger syndrome" gets slapped onto movements on occasion
+without evidence. Libertarianism and in particular the open borders
+movement has had this happen; see [Asperger’s syndrome at Open Borders:
+The Case](http://openborders.info/aspergers-syndrome/)
+for more. As Evan at Open Borders: The Case writes (in [Autism Can’t
+Explain Away Open Borders
+Arguments](http://openborders.info/blog/autism-cant-explain-away-open-borders-arguments/)),
+"the project of associating political positions \[or social movements!\]
+with mental disorders is probably not a wise undertaking in the first
+place".
+
+To the extent that people with Asperger syndrome seem over-represented
+in EA, I offer several reasons. Note that I have a low level of
+confidence in these explanations, which are more akin to
+rationalizations (which might still be useful to verbalize). One is that
+people involved with the tech industry are over-represented in EA (see
+[What happened to all the
+non-programmers?](http://www.benkuhn.net/nonprog)), and
+if we grant that people involved in tech are more likely to have
+Asperger syndrome (see for instance [Peter Thiel on the Future of
+Innovation — Conversations with
+Tyler](https://medium.com/conversations-with-tyler/peter-thiel-on-the-future-of-innovation-77628a43c0dd)),
+then it might seem like many people with Asperger syndrome are also in
+EA.
+
+Another related idea is that both people with Asperger syndrome and
+those in effective altruism compartmentalize less relative to the
+general population. Effective altruism is well-known for preferring
+quantitative measures of effectiveness as well as explicit verbal
+reasoning of actions (so they might be more likely to change their
+beliefs when faced with new evidence). This is also a stereotype of
+people with Asperger syndrome (who are thought to be bad at nonverbal
+communication, are thought to be savants who are good at quantitative
+subjects, and so on).
+
+# What do people think of the ticket price of EA Global?
+
+The price of the ticket seems reasonable. Some high school clubs force
+students to pay about the same price for conferences for what I think is
+much less valuable (in terms of the long-term impact on one's life and
+the world), not that one should be basing one's decisions on a
+comparison with high school club conferences.
+
+One thing that I think the effective altruism movement and the EA Global
+people in particular don't do a good job of is explaining exactly why
+it's a good idea to spend several hundred dollars to meet each other in
+person. Posts like [Why you should attend EA Global and (some) other
+conferences](http://lesswrong.com/lw/mhf/why_you_should_attend_ea_global_and_some_other/)
+seem like an excuse to advertise the event, not an actual argument (and
+I think does a disservice to LessWrong, which prides itself on being
+rational).
+
+I'd guess that some people are dissuaded from attending by the ticket
+price. In my case, this wasn't the biggest factor: as a student, I might
+have been able to obtain one of the EA Global scholarships, and even if
+I hadn't I had some people offer to pay for some of the cost. (I chose
+not to attend this year mostly to work on some personal projects and
+because travelling is stressful for me.)
+
+# What scraping software does gwern use to web-scrape forums?
+
+I think he just uses wget; see e.g. [Evolution forums mirror/scrapes torrent
+released •
+/r/DarkNetMarkets](https://www.reddit.com/r/DarkNetMarkets/comments/2zps7q/evolution_forums_mirrorscrapes_torrent_released/).
+For more details, see [Page on
+gwern.net](http://www.gwern.net/Black-market%20archives#how-to-crawl-markets).
+
+For why he doesn't use something more advanced, see [I once tried using
+HTTrack, but I found it was doing too much magic under the
+ho...](https://news.ycombinator.com/item?id=9899286).
+
+# Why do some people use Hakyll to generate webpages?
+
+I suspect this is because Hakyll is the flagship static site generator
+that uses Haskell. On the one hand, there are many reasons people prefer
+static site generators to more complex content management systems like
+WordPress and MediaWiki (security, speed, etc.). On the other hand,
+there are people who are enthusiastic about using Haskell to do many
+things (in fact, Quora seems to have many such Haskell programmers). If
+one is at the intersection of these two things and wants a website or
+blog, it's relatively natural to use Hakyll.
+
+From what I've read, many people often start out using another static
+site generator like Jekyll (i.e. they're already sold on the benefits of
+static site generators) but then move on to Hakyll, usually because they
+want to experiment with Haskell. See [Switching from Jekyll to
+Hakyll](http://mark.reid.name/blog/switching-to-hakyll.html),
+[The Switch to
+Hakyll](http://www.blaenkdenum.com/posts/the-switch-to-hakyll/),
+[Switching this site from Jekyll to
+Hakyll](http://cliffle.com/article/2015/05/09/hakyll/),
+[Blog now powered by
+Hakyll](http://dannysu.com/2012/07/26/hakyll-blog/), and
+so on.
+
+# If gwern.net could be turned into a book, how many pages would it contain altogether?
+
+Using his [source repo](https://github.com/gwern/gwern.net) as of today, I'm
+getting:
+
+```bash
+$ cat *.page | wc -w | sed 's/$/\/500\*1.1/' | bc3747.7
+```
+
+pages based on the [assumption](http://wordstopages.com/) that there are 500
+words per 1.1 pages.
+
+There are a few things to keep in mind, however:
+
+-   The above does not capture the pages gwern deleted.
+-   The unix command wc cannot distinguish actual (prose) words from
+    everything else (like equations, source code, tables, metadata,
+    other hidden markup, etc.). So for instance tables would probably
+    take up even more space than what was calculated above.
+-   gwern quotes others extensively when writing, which might result in
+    copyright issues if he were to actually publish.
+-   The words-to-pages conversion is just for paragraphs, so if we
+    account for all the headings, blank spaces (after each page when
+    printed), etc., then the page count could be even higher.
+-   There might be something else I haven't thought of that could skew
+    the result (since 4000 pages seems like *a lot*).
+
+# What has a higher chance of lasting into the 2030s-2040s: LessWrong or gwern.net?
+
+In terms of the existence of the website (domain name and all), I would
+agree with [Vipul](https://www.quora.com/profile/Vipul-Naik) that
+LessWrong has a better chance of lasting. However in terms of the
+survival of the content, I'd say gwern's site has a *much better shot*.
+Everything on the site, along with all the changes, are up on GitHub for
+anyone to clone. Indeed, at the moment there are 7 forks on GitHub
+already:
+[gwern/gwern.net](https://github.com/gwern/gwern.net).
+If it ever goes down, all one would need to do is use the cloned repo
+and compile the site using Hakyll (which is free software).
+
+Take the content that's been produced so far. What percent of LessWrong
+content is available now, out of everything that's been produced so far?
+Definitely not 100%, for comments and even whole posts have been
+deleted. And if we take into account *usability* of the site, then it's
+*even lower*, because some external links no longer exist. In contrast,
+I'd say just about everything that's ever been on gwern's site (sans
+Disqus comments, which are not too substantial anyway) is still
+available today; even his deleted pages (like those on homelessness and
+masturbation) are still available today, as long as you know where to
+look. Moreover, gwern is good about backing up external sources (he
+includes PDFs he links to in the git repo, for instance, and also runs
+scripts to save pages he links to), so usability in the future should be
+higher as well.
+
+Now, there's also the size of the site that we have to consider. gwern's
+site is much smaller, so it's easier for projects like the Internet
+Archive to keep a copy of everything. In contrast, LessWrong is a much
+larger site with more pages (which are also dynamic, unlike gwern's
+static pages), so I doubt the Internet Archive has a full copy.
+
+Dynamic content (mentioned above) is indeed *much* harder to backup, and
+in any case the only way to fully do that would be if the LessWrong
+sysadmins released database dumps (very unlikely).
+
+Now, the word "lasting" in the question is a bit ambiguous. So far I've
+talked about "lasting" in terms of readable content, site usability, and
+so on. But another important aspect of "lasting" for a long time is the
+community aspect. And here it's a no brainer: LessWrong has already
+steadily been dying due to all the most prolific contributors leaving
+the site. In contrast, gwern's site didn't really have any "community"
+to begin with, so not much is lost even if gwern stops adding to the
+site (I mean, gwern still slowly adds to the site, but all the most
+notable pages were already written years back), whereas with LessWrong,
+interacting with other readers is a fundamental aspect of the site.
+
+# What is Gwern's personality type (MBTI, Big 5, etc.)?
+
+MBTI:
+
+
+> No \[I don't know mine\], and I don't care. MBTI is not founded on any
+> data, is unreliable, has little predictive value, exists because it
+> is so lucrative, and is ignored by mainstream psychology because of
+> all its problems in favor of Big Five (which I do provide).
+
+
+(From [Page on
+gwern.net](http://www.gwern.net/Links#comment-853463775))
+
+Big 5:
+
+
+> My scores on the “Big 5 Personality Inventory”,
+> [short](http://www.gwern.net/docs/personal/2011-gwern-yourmorals.org/bigfive_process.html)/long
+> [1](http://www.gwern.net/docs/personal/2012-gwern-personalityproject.html)/[2](http://www.gwern.net/docs/personal/2012-gwern-personalityproject-2.html)/[3](http://www.gwern.net/docs/personal/2013-gwern-personalityproject.html):
+>
+> 1.  [Openness to
+>     Experience](http://en.wikipedia.org/wiki/Openness%20to%20Experience):
+>     high (short) or 87/87th
+>     [percentile](http://en.wikipedia.org/wiki/percentile) (long)
+> 2.  [Conscientiousness](http://en.wikipedia.org/wiki/Conscientiousness%23Personality%20models):
+>     medium or 64/69th
+> 3.  [Extraversion](http://en.wikipedia.org/wiki/Extraversion):
+>     low or 6/7th percentile
+> 4.  [Agreeableness](http://en.wikipedia.org/wiki/Agreeableness):
+>     medium-low or 3/3rd percentile
+> 5.  [Neuroticism](http://en.wikipedia.org/wiki/Neuroticism):
+>     medium-low or 16/13th percentile
+
+
+(From [Page on
+gwern.net](http://www.gwern.net/Links#personality))
+
+# What is your review of Inglemoor High School?
+
+★
+
+My experience at Inglemoor (especially the first two years) was much
+worse than my experience at Northshore Junior High, probably because of
+my increased self-awareness (i.e. objectively it was probably better
+than junior high, as [Anonymous' answer](https://www.quora.com/What-is-your-review-of-Inglemoor-High-School/answers/13780648)
+states). Having moved to the US from Japan at the beginning of 4th
+grade, it was finally in 10th grade at Inglemoor that my level of
+English caught up to that of my peers and surpassed it; because of this
+(and in general being essentially at the top of my class academically
+all through high school), I was finally able to comprehend how little
+academic success in high school means, how little self-awareness my
+peers had, how poor of an environment Inglemoor is for personal growth,
+and so on. In other words, my
+[isolation](http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation)
+and alienation from my peers (despite interacting more with them than
+during junior high), as well as my [anger at the
+world](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye),
+probably peaked during 10th and 11th grade.
+
+Either at the end of junior high or the beginning of high school, I
+discovered some of my early intellectual heroes like Bertrand Russell
+and Noam Chomsky, whose works and biographical information I read
+throughout high school. I also discovered
+[LessWrong](http://lesswrong.com/), which really opened
+my imagination to what sorts of ideas and intellectual conversations are
+possible. Both in high school and in retrospect, I think these sources
+of ideas and information have had a much bigger impact on my
+intellectual ability and growth as a person than anything I learned in
+high school. In fact, it seems like in high school there is in general a
+tendency to stifle intellectual and personal growth \[1\]. So I think I
+was really lucky that my propensity for spending large amounts of time
+on the internet allowed me to discover these.
+
+I'm glad I read some of the works of literature we read in IB English
+(especially Joyce's *Dubliners*), though I don't think the amount of
+time spent on them was justified. I also think the two-year IB History
+was a particularly good class; see [Anonymous' answer to What are the
+best classes at
+Inglemoor?](https://www.quora.com/What-are-the-best-classes-at-Inglemoor/answers/4315032)
+for more.
+
+It's important to keep in mind though, that Inglemoor is probably much
+better than the average high school in the US, and in particular is
+probably indistinguishable from other IB high schools located in
+Liberal, upper-middle class areas in the US.
+
+\=\=\=\=\=
+
+\[1\] See for instance [College Observations: Freshman, Quarter
+1](http://michael0x2a.com/blog/college-observations-freshman-quarter-1):
+
+
+> There’s a lot more religious/political people at UW, passing out
+> pamphlets and such. This is in stark contrast to high school, where
+> religion and politics (religion, especially) were almost taboo and
+> were confined mostly to the Christian/debate clubs and a few
+> discussions in history classes.
+>
+> Similarly, people are much more frank about sex and sexuality, and
+> seem to take it as a fact of life.
+
+
+Also in general the infantilization of teens combined with the
+uninspiring students and teachers (for the most part), means few
+opportunities for growth.
+
+# How does Gwern from http://gwern.net manage his website?
+
+This is explained at length on his site's [About
+page](http://www.gwern.net/About). The most relevant bits are in his
+[Colophon](http://www.gwern.net/About#colophon).  Essentially, he writes
+everything in Pandoc markdown and compiles the site using Hakyll, a static site
+generator.
+
+# What is your review of Northshore Junior High School?
+
+★
+
+I agree with much of [Anonymous' answer to What is your review of
+Northshore Junior High
+School?](https://www.quora.com/What-is-your-review-of-Northshore-Junior-High-School/answers/9520496),
+though my experience probably wasn't as bad.
+
+I made exactly zero friends at NJH, though I had friends at the [Seattle
+Japanese School](https://www.quora.com/topic/Seattle-Japanese-School)
+(and my friends from the Japanese school used to tease me all the time
+about how I had no friends at NJH). Yeah, it was lonely, but probably
+not as bad as having to interact with a lot of the kids that attended
+the school. I only later found out about some of the crazy drama that
+occurred during my time there—and I'm extremely glad I wasn't involved
+in any of it (this also applies to high school, though I had one close
+friend in high school).
+
+The teachers at NJH are extremely uninspiring, and I actually struggle
+to come up with examples of teachers I liked. Even my high school had a
+few good teachers.
+
+Probably the thing I remember most from my time in junior high is
+reading alone at the library every day after lunch. For a while I
+repeatedly read *Ender's Game* and *Ender's Shadow*. I also remember
+just thinking alone.
+
+I didn't place into honors English and social studies coming into 7th
+grade, but at the end of 8th grade, the principal (probably at the
+suggestion of my English and history teachers at the time) invited me to
+apply to join honors English and social studies for 9th grade, so for
+one year I got to sit in with the honors humanities kids. They were
+probably smarter kids, but I don't recall noticing a huge difference.
+(And now I just laugh at the anti-intellectualism of almost everyone
+from junior high and high school, to the point where it's just comical
+that I wasn't in those honors classes the first two years.)
+
+As for math, I placed into honors math in 7th grade, but then took an
+accelerated course in the summer after 7th grade to skip one more year
+\[1\]. So in 8th grade I was in 9th grade honors math, and by 9th grade
+I got to go to Inglemoor High School in the mornings for math. Going to
+high school in 9th grade was somewhat interesting because due to some
+scheduling problem, we got to miss an hour of class (in my case science)
+at the junior high on one day while also having an hour to do nothing
+\[2\] on another day (or something like this; I forget the details).
+
+As for learning, it's hard to say. NJH taught "form writing" in English,
+which is basically a really formulaic version of 5 paragraph essays, so
+I probably didn't learn to write very well in junior high. I probably
+did pick up a lot of random stuff though. In general the learning
+experience seemed very inefficient due to all the social competitions
+(including inane comparisons about who is smarter, etc.) that were going
+on.
+
+\=\=\=\=\=
+
+\[1\]: This actually turned out to be a really interesting experience.
+Until I took the math 13X honors calculus sequence at University of
+Washington in my first year of college, this summer class was the *only*
+time I was ever challenged in math in school.
+
+\[2\]: We were actually supposed to TA for some teachers who had their
+prep time during this hour, but I just didn't go.
+
+# How many Taylor Swift songs are about breakups?
+
+See also [\[SELF\] How many of Taylor Swift's songs are about heartbreak.. •
+/r/theydidthemath](https://www.reddit.com/r/theydidthemath/comments/2gdvle/self_how_many_of_taylor_swifts_songs_are_about/)
+
+# Where can I find archives of the LessWrong IRC?
+
+The LessWrong IRC has no public logs. Therefore you'll have to find someone who
+is willing to give you logs. I know that gwern, for one, has been keeping
+extensive logs, but I doubt he's willing to give them out (seeing that he's a
+moderator of the channel).
+
+# What do University of Washington students think of By George?
+
+I really like studying here at night since it's open very late (you can
+get food until 1am on most nights, but the periphery is open 24/7) and
+is much less crowded than Odegaard (except for maybe Monday and Tuesday
+night of finals week). As [Andrew J.
+Ho](https://www.quora.com/profile/Andrew-J-Ho) mentioned, the chairs are
+rather uncomfortable though. Also there aren't very many power sockets.
+However all things considered, it's a decent place. I usually like to
+come here around 10pm and then move to Odegaard when it gets less
+crowded.
+
+
 # How do I cope with losing a long-time friend who I love?
 
 [Mirror](https://www.quora.com/How-do-I-cope-with-losing-a-long-time-friend-who-I-love/answer/Issa-Rice); the version here has since been edited
