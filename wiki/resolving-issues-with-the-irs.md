@@ -90,6 +90,9 @@ July 1
 July 1
 :   I asked ["Where to file Form 843 for penalties?"](http://money.stackexchange.com/questions/66856/where-to-file-form-843-for-penalties) at 9:32 PM.
 
+July 9
+:   Finally mailed the letter and Form 843 to the IRS.
+
 # External links
 
 Thanks to Vipul Naik for these links.
