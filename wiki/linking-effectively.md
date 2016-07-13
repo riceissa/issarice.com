@@ -66,7 +66,7 @@ If the full citation is only needed so people can locate the material, one idea 
 In Pandoc markdown this is accomplished by `[link text](http://example.com "title text here")`.
 One problem is that in PDFs, the title text is lost (though it might be possible to show them by writing an appropriate Pandoc filter).
 
-Pandoc also provides a full citation filter through pandoc-citeproc, but I'm not sure this is worth is in most cases.
+Pandoc also provides a full citation filter through pandoc-citeproc, but I'm not sure this is worth it in most cases.
 Inline linking did *something* right by making it more intuitive and emphatic to click on things, and it would feel like returning to an inferior system to go back to academic citations.
 Of course, link rot is the major downside of inline links, but there are also others (like not having access to the full citation, so not being able to search for something using the citation information).
 
