@@ -45,7 +45,6 @@ certain other ideas like betting on beliefs and having good calibration
 assessment](https://en.wikipedia.org/wiki/Calibrated_probability_assessment)).
 
 # Does Alex K. Chen come off as socially awkward when he asks people too many questions IRL?
-Issa Rice
 
 Yes (though I’ve only met Alex a few times in person).
 
