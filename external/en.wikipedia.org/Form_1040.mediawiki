@@ -1,24 +1,62 @@
-[[File:Form 1040, 2011.pdf|thumb|First page of Form 1040 for 2011 tax year]]
+[[File:Form 1040, 2015.pdf|thumb|Form 1040 for 2015 tax year]]
 
-'''Form 1040''' (officially, the "U.S. Individual Income Tax Return") is one of three [[IRS tax forms]] (see [[#Variants|variants section]] for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS) and is the centerpiece of most US residents' tax returns.
+'''Form 1040''' (officially, the "U.S. Individual Income Tax Return") is one of three [[IRS tax forms]] (see [[#Variants|variants section]] for explanations of each) used for personal (individual) federal [[income tax]] returns filed with the [[Internal Revenue Service]] (IRS) by [[United States]] residents for tax purposes.
 
-Income tax returns for individual calendar year taxpayers are due by [[Tax Day]], which is usually April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until Oct. 15 to file Form 1040 can be obtained by filing Form 4868.
+Income tax returns for individual calendar year taxpayers are due by [[Tax Day]], which is usually April 15 of the next year, except when April 15 falls on a Saturday, Sunday, or a legal holiday.  In those circumstances, the returns are due on the next business day.  An automatic extension until October 15 to file Form 1040 can be obtained by filing Form 4868.
 
-Form 1040 consists of two full pages (79 lines in total) not counting attachments.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. In particular, the taxpayer specifies his/her [[filing status]] and [[personal exemption (United States)|personal exemption]]s on this page. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows individuals to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund. The instructions booklet for Form 1040 is 104 pages as of 2014<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>.
+Form 1040 consists of two full pages (79 lines in total) not counting attachments.<ref name="f1040_2014">{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040.pdf |title=Form 1040 (2014) |accessdate=December 28, 2015 |publisher=Internal Revenue Service}}</ref> The first page collects information about the taxpayer(s), dependents, income items, and adjustments to income. In particular, the taxpayer specifies his/her [[filing status]] and [[personal exemption (United States)|personal exemption]]s on this page. The second page calculates the allowable deductions and credits, tax due given the income figure, and applies funds already withheld from wages or estimated payments made towards the tax liability. At the top of the first page is the [[Presidential election campaign fund checkoff]], which allows individuals to designate that the federal government give $3 of the tax it receives to the Presidential election campaign fund. The instructions booklet for Form 1040 is 104 pages as of 2014.<ref name="f1040_2014ins">{{cite web |url=https://www.irs.gov/pub/irs-pdf/i1040gi.pdf |title=1040 Instructions 2014 |publisher=Internal Revenue Service}}</ref>
 
 Altogether, over 147 million returns were filed for Form 1040 and its variants in the year 2014,<ref name="glance">{{cite web |url=https://www.irs.gov/pub/irs-soi/15taxstatscard.pdf | title=2015 Tax Statistics |publisher=Internal Revenue Service}}</ref> 80% of which were filed electronically.<ref name="f1040_2014ins"/>{{rp|4}}
 
 ==Filing requirements==
 
-Filed by individuals as the chief form of the annual tax return (discuss what forms non-individuals file).
+=== Who must file? ===
 
-"These rules apply to all U.S. citizens, regardless of where they live, and resident aliens."<ref name="f1040_2014ins" />{{rp|6}} Resident aliens must be "resident [aliens] of the United States for tax purposes", which means they must pass either the [[Substantial Presence Test]] or the [[Green Card Test]], although they are not limited to just these cases.<ref name="alien_tax">{{cite web |url=https://www.irs.gov/pub/irs-pdf/p519.pdf |title=U.S. Tax Guide for Aliens For use in preparing 2014 Returns |publisher=Internal Revenue Service}}</ref>{{rp|3}} Resident aliens file Form 1040, 1040A, or 1040EZ like US citizens, but nonresident aliens must file Form 1040NR or 1040NR-EZ.<ref>{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Aliens---Which-Form-to-File |title=Aliens - Which Form to File |publisher=Internal Revenue Service |accessdate=December 31, 2015}}</ref> Note that there is also a "dual status alien" for aliens whose status changed during the year.
+Form 1040 (or a variant thereof) is the main tax form filed by individuals who are deemed residents of the United States for tax purposes. The corresponding main form filed by businesses is [[Form 1120]], also called the U.S. Corporation Income Tax Return.<ref name=f1120>{{cite web|url = https://www.irs.gov/pub/irs-pdf/f1120.pdf|title = Form 1120, U.S. Corporation Income Tax Return|accessdate = January 1, 2016}}</ref>
 
-Note that even if not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
+An individual is considered a resident of the United States for tax purposes if he or she is a citizen of the United States or a resident alien of the United States for tax purposes.<ref name="f1040_2014ins" />{{rp|6}} An individual is a resident alien of the United States if he or she passes either the [[Substantial Presence Test]] or the [[Green Card Test]], although there are also some other cases; individuals who have taxable income in the United States but fail the criteria for being resident aliens must file as nonresident aliens for tax purposes.<ref name="alien_tax">{{cite web |url=https://www.irs.gov/pub/irs-pdf/p519.pdf |title=U.S. Tax Guide for Aliens For use in preparing 2014 Returns |publisher=Internal Revenue Service}}</ref>{{rp|3}} While residents of the United States for tax purposes file Forms 1040, 1040A, or 1040EZ, nonresident aliens must file Form 1040NR or 1040NR-EZ.<ref>{{cite web |url=https://www.irs.gov/Individuals/International-Taxpayers/Aliens---Which-Form-to-File |title=Aliens - Which Form to File |publisher=Internal Revenue Service |accessdate=December 31, 2015}}</ref> Note that there is also a "dual status alien" for aliens whose status changed during the year.
+
+Resident aliens of the United States for tax purposes must generally file if their income crosses a threshold where their taxable income is likely to be positive, but there are many other cases where it may be legally desirable to file. For instance, even if not required, individuals should still file a return in order to receive a refund on withheld income or to receive certain credits (e.g. [[earned income tax credit]]).<ref name="f1040_2014ins" />{{rp|6}}
+
+=== Filing modalities ===
+
+The form may be filed either by paper or online.
+
+==== Paper filing ====
+
+Anybody who can file Form 1040 (regardless of whether they need to) is allowed to file on paper.
+
+Form 1040, along with its variants, schedules, and instructions, can be downloaded as [[Portable Document Format|PDF]]s from the [[Internal Revenue Service]] website. Finalized versions of the forms for the tax year (which in the US is the same as the calendar year) are released near the end of January of the following year.
+
+Paper forms can be filled and saved electronically using a compatible PDF reader such as [[Adobe Acrobat Reader]], and then printed. This way, it is easy to keep electronic copies of one's filled forms despite filing by paper. Alternatively, they can be printed out and filled by hand. A combination of the approaches may also be used, with some content filled in electronically and additional content written in by hand. As a general rule, where possible, it makes sense to fill electronically, but in some cases filling by hand may be necessary (for instance, if additional notes of explanation need to be added, or the font used for electronic filling is too large to fit the information in the space provided.
+
+The only parts of the form that cannot be filled electronically are in the signature lines. These include the signature, date, and phone number.
+
+The paper Form 1040, along with all relevant schedules and additional forms, must be sent in a single packet by mail or courier to an IRS address determined by the US state the taxpayer is filing from and whether or not a payment is enclosed; the addresses for the three forms (1040, 1040A, 1040EZ) are identical.<ref>{{cite web|url = https://www.irs.gov/uac/Where-to-File-Addresses-for-Tax-Professionals|title = Where to File Addresses for Taxpayers and Tax Professionals|publisher = [[Internal Revenue Service]]|accessdate = January 1, 2016}}</ref>
+
+The IRS accepts returns that are stapled or paperclipped together. However, any check or payment voucher, as well as accompanying Form 1040-V, must ''not'' be stapled or paperclipped with the rest of the return, since payments are processed separately.<ref name=f1040-v/><ref name=quora-staple-paperclip>{{cite web|url = https://www.quora.com/When-filing-by-mail-to-the-IRS-should-I-staple-or-paperclip-my-tax-return|title = When filing by mail to the IRS, should I staple or paperclip my tax return?|publisher = [[Quora]]|accessdate = June 29, 2016}}</ref>
+
+==== Electronic filing ====
+
+The IRS allows US residents for tax purposes to file electronically in three ways:<ref name=efile>{{cite web|url = https://www.irs.gov/Filing/E-File-Options|title = E-File Options for Individuals|publisher = [[Internal Revenue Service]]|accessdate = January 1, 2016}}</ref>
+
+* Those with incomes of $62,000 or less may file electronically using IRS Free File, a free e-filing tool (there are some other conditions necessary to be eligible for free filing; in particular, some kinds of income and deductions cannot be handled by free filing).<ref>{{cite web|url = https://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free|title = Free File: Do Your Federal Taxes for Free|publisher = [[Internal Revenue Service]]|accessdate = January 1, 2016}}</ref>
+* It is possible to prepare one's tax return using a [[tax compliance software]] approved by the IRS and have the software file the return electronically. 
+* One can use a tax professional who has been accepted by the IRS for electronic filing.
+
+Many paid tax preparers are required to file individual tax returns electronically, and most [[tax compliance software]]s file electronically on the taxpayer's behalf. Even those who are not so required need to file Form 8948 if they choose paper filing, providing an explanation for why they are not filing electronically.<ref>{{cite web|url = https://www.irs.gov/uac/Form-8948,-Preparer-Explanation-for-Not-Filing-Electronically|title = Form 8948, Preparer Explanation for Not Filing Electronically|accessdate = January 7, 2015|publisher = [[Internal Revenue Service]]}}</ref>
+
+==== Comparison ====
+
+If one is not eligible for IRS Free File, it might cost hundreds of dollars to file electronically, whereas paper filing has no costs beyond the time cost, the cost of printing the forms, and the cost of mailing the forms. Furthermore, the available existing electronic filing options may not offer sufficient flexibility with respect to arranging one's tax return, adding attachments, or putting written notes of explanation that can help preempt IRS questions. In addition, electronic filing makes one's tax return more likely to be audited because it is already in a format accessible to the IRS, whereas of paper returns, only 40% are transcribed, so that the remaining are not even in the running for being audited. For these reasons, law resource [[NOLO]] as well as ''[[Forbes]]'' argue that the more complicated one's tax return, the better it is to file on paper.<ref name=nolo>{{cite web|url = http://www.nolo.com/legal-encyclopedia/should-you-file-your-taxes-electronically.html|title = Should You File Your Taxes Electronically? Not necessarily. There are some reasons you may want to stick to the old fashioned way.|last = Fishman|first = Stephen|publisher = [[NOLO]]|date = October 1, 2012|accessdate = January 1, 2016}}</ref><ref>{{cite web|url = http://www.forbes.com/sites/robertwood/2011/03/15/paper-or-e-file-your-irs-return/|title = Paper Or E-File Your IRS Return?|last = Wood|first = Robert|date = March 15, 2011|accessdate = January 1, 2016|publisher = ''[[Forbes]]''}}</ref>
+
+=== Signature requirement ===
 
 Form 1040 must be signed and dated in order to be considered valid. If filing jointly with a spouse, both must sign and date.<ref>{{cite web |url=https://apps.irs.gov/app/vita/content/31/31_03_005.jsp?level=basic |title=Taxpayer Signature |accessdate=January 1, 2016 |publisher=Internal Revenue Service}}</ref> If a return is submitted electronically, individuals must use either a Self-Select PIN or Practitioner PIN.<ref>{{cite web |url=https://www.irs.gov/uac/Signing-an-Electronic-Tax-Return |title=Signing an Electronic Tax Return |date=November 6, 2014 |accessdate=January 1, 2016 |publisher=Internal Revenue Service}}</ref>
 
-If an individual decides not to file a return, the IRS may (after it has sent several reminders) file a substitute return. This is a "worst case scenario" for the taxpayer, since the substitute return does not consider many types of deductions and exemptions. In other words, it is still advantageous to file—either before the substitute return or in response to it—in order not to pay more than necessary.<ref>{{cite web |url=http://www.nytimes.com/2012/02/12/business/yourtaxes/irs-steps-in-for-nonfilers-at-a-potentially-high-price.html |title=If You Don’t File, Beware the Ghost Return |publisher=The New York Times |first=Charles |last=Delafuente |date=February 11, 2012 |accessdate=January 1, 2016}}</ref>
+=== Substitute return ===
+
+If an individual decides not to file a return, the IRS may (after it has sent several reminders) file a substitute return. This is a "worst case scenario" for the taxpayer, since the substitute return does not consider many types of deductions and exemptions. In other words, it is still advantageous to file—either before the substitute return or in response to it—in order not to pay more than necessary.<ref>{{cite web |url=http://www.nytimes.com/2012/02/12/business/yourtaxes/irs-steps-in-for-nonfilers-at-a-potentially-high-price.html |title=If You Don’t File, Beware the Ghost Return |publisher=The New York Times |first=Charles |last=Delafuente |date=February 11, 2012 |accessdate=January 1, 2016}}</ref><ref>{{Cite web|url = https://www.legalzoom.com/articles/what-are-the-penalties-for-not-filing-taxes|title = What Are The Penalties For Not Filing Taxes?|last = Morrow|first = Stephanie|date = September 1, 2009|publisher = [[LegalZoom]]|accessdate = January 1, 2016}}</ref><ref>{{cite web|url = http://money.stackexchange.com/questions/56052/if-you-dont-file-a-tax-return-when-will-the-irs-file-a-substitute-return|title = If you don't file a tax return, when will the IRS file a “substitute return”?|publisher = Personal Finance & Money Stack Exchange|accessdate = July 1, 2016}}</ref>
 
 ==Variants==
 
@@ -28,7 +66,7 @@ Additional restrictions are placed on who can use a form in going from the stand
 
 ===1040A===
 
-[[File:Form 1040a, 2011.pdf|thumb|Form 1040A, 2011]]
+[[File:Form 1040a, 2015.pdf|thumb|Form 1040A, 2015 tax year]]
 
 The '''1040A''' (nicknamed the "short form") is a shorter version of the standard Form 1040. It is limited to taxpayers with taxable income below $100,000 who take the [[standard deduction]] instead of [[itemized deduction|itemizing deductions]]. The 1040 can always be used instead of the 1040A, but the 1040A can only be used when the restrictions apply.<ref name="1040a_turbo">{{cite web |url=https://turbotax.intuit.com/tax-tools/tax-tips/IRS-Tax-Forms/What-is-the-IRS-1040A-Form-/INF14500.html |title=What is the IRS 1040A Form? |publisher=TurboTax |accessdate=December 31, 2015}}</ref>
 
@@ -37,7 +75,7 @@ A taxpayer who uses the 1040A tax return can only have income from the following
 *Interest and ordinary dividends.
 *[[Capital gain]]s distributions.
 *Taxable scholarships and fellowship grants.
-*Pensions, [[annuity|annuities]], and [[Individual Retirement Account|IRA]]s.
+*Pensions, [[annuity|annuities]], and [[Individual retirement account|IRA]]s.
 *Unemployment compensation.
 *Taxable [[social security]] and railroad retirement benefits.
 *[[Alaska Permanent Fund]] dividends.
@@ -48,7 +86,7 @@ Several other restrictions apply as well.
 
 [[File:F1040ez 2011.pdf|thumb|Form 1040EZ, 2011]]
 
-The '''1040EZ''' (officially called "Income Tax Return for Single and Joint Filers with No Dependents", but nicknamed the "easy form") is a simplified, six-section version of the 1040. Its use is limited to taxpayers with taxable income below $100,000 who take the [[standard deduction]] instead of itemizing deductions.<ref name="ez_investo">{{cite web |url=http://www.investopedia.com/ask/answers/071514/whats-difference-between-irs-forms-1040ez-and-1040a.asp |accessdate=December 31, 2015 |title=What's the difference between IRS Forms 1040EZ and 1040A? |publisher=Investopedia}}</ref>
+The '''1040EZ''' (officially called "Income Tax Return for Single and Joint Filers with No Dependents", but nicknamed the "easy form") is a simplified, six-section version of the 1040. Its use is limited to taxpayers with taxable income below $100,000 who take the [[standard deduction]] instead of itemizing deductions.<ref name="ez_investo">{{cite web |url=http://www.investopedia.com/ask/answers/071514/whats-difference-between-irs-forms-1040ez-and-1040a.asp |accessdate=December 31, 2015 |title=What's the difference between IRS Forms 1040EZ and 1040A? |publisher=Investopedia}}</ref> The 1040 or 1040A can always be used in place of the 1040EZ, but not the other way around.
 
 Other restrictions for 2005 include:<ref name="ez_investo" />
 
@@ -73,6 +111,20 @@ Generally for a [[tax refund]], this form must be filed within 3 years after the
 Form 1040X is similar to Form 1040 except that it has three columns: one column to list the amounts from the original version, one column to list the net increase or decrease for each line being changed, and the last column to list the new amounts.
 
 Certain "financial timing" type changes cannot simply be made with the 1040X, and must be requested through the much more complicated Form 3115 (Change of Accounting Method). The least obvious (and most common) example of such a restricted change is in correcting past years' business or rental depreciation. Beyond that, Form 3115 also lists over 50 other specific change types. Many of those include classic bookkeeping concerns, such as when to recognize revenue and expenses.
+
+== Accompanying payments ==
+
+=== Form 1040-V ===
+[[File:F1040-V 2015.pdf|thumb|Form 1040-V payment voucher form]]
+
+The '''1040-V''' (officially, the "Payment Voucher for Form 1040") is used as an optional payment voucher to be sent in along with a payment for any balance due on the "Amount you owe" line of the 1040.<ref name=f1040-v>{{cite web |url=https://www.irs.gov/uac/about-form-1040-v |accessdate=June 18, 2015 |title=Form 1040-V, Payment Voucher for Form 1040 |publisher=Internal Revenue Service}}</ref>
+
+The 1040-V consists only of personal information such as name, address, and social security number and amount paid. The voucher form can be sent in with cash or check to the "United States Treasury", or it can sent with an online payment.<ref>{{cite web|url=https://www.irs.gov/pub/irs-pdf/f1040v.pdf|accessdate=June 18, 2015|title=2015 Form 1040-V|publisher=Internal Revenue Service}}</ref>
+
+The form is entirely optional. The IRS will accept payment without the 1040V form. However including the 1040-V allows the IRS to process payments more efficiently.<ref>{{cite web|url=https://ttlc.intuit.com/questions/1900609-what-is-irs-form-1040-v-payment-voucher|accessdate=June 18, 2015|title=What is IRS Form 1040-V?|publisher=TurboTax}}</ref>
+
+Note that Form 1040-V and any accompanying payment should be included in the same packet as the tax return, but should ''not'' be stapled or paperclipped along with the tax return, since it is processed separately.<ref name=f1040-v/><ref name=quora-staple-paperclip/>
+
 ==Schedules and extra forms==
 
 Form 1040 has 14 attachments, called "schedules", which may need to be filed depending on the taxpayer. For 2009 and 2010 there was an additional form, {{visible anchor|Schedule M}}, due to the "[[Making Work Pay tax credit|Making Work Pay]]" provision of the [[American Recovery and Reinvestment Act of 2009]] ("the stimulus").
@@ -94,7 +146,7 @@ Form 1040 has 14 attachments, called "schedules", which may need to be filed dep
 | 12
 |-
 | Schedule D
-| Is used to compute [[capital gains]] and losses incurred during the tax year.
+| Is used to compute [[capital gain]]s and losses incurred during the tax year.
 | 13
 |-
 | Schedule E
@@ -138,7 +190,7 @@ Form 1040 has 14 attachments, called "schedules", which may need to be filed dep
 | 52, 67
 |}
 
-In 2014 there were two additions to Form 1040 due to the implementation of  the [[Affordable Care Act]]—the [[premium tax credit]] and the [[individual mandate]].<ref>http://www.forbes.com/sites/ashleaebeling/2014/11/04/irs-commissioner-predicts-miserable-2015-tax-filing-season/</ref>
+In 2014 there were two additions to Form 1040 due to the implementation of  the [[Affordable Care Act]]—the [[premium tax credit]] and the [[individual mandate]].<ref>{{cite web|url=http://www.forbes.com/sites/ashleaebeling/2014/11/04/irs-commissioner-predicts-miserable-2015-tax-filing-season/|title=IRS Commissioner Predicts Miserable 2015 Tax Filing Season|author=Ashlea Ebeling|date=4 November 2014|work=Forbes}}</ref>
 
 In most situations, other [[Internal Revenue Service]] or [[Social Security Administration]] forms such as Form W-2 must be attached to the Form 1040, in addition to the Form 1040 schedules.  There are over 100 other specialized forms that may need to be completed along with Schedules and the Form 1040.<ref name="listofforms">{{cite web |url=https://www.irs.gov/pub/irs-utl/taxyr2014_form1040_series_and_attachments.pdf |title=Forms &amp; Attachments Listing 1040/1040SSPR/1040-A/1040-EZ |date=September 5, 2014 |accessdate=December 31, 2015 |publisher=Internal Revenue Service}}</ref> However, Form 1099 need not be attached if no tax was withheld.<ref>{{cite web |url=http://classroom.synonym.com/need-attach-1099-forms-federal-tax-return-7577.html |title=Do You Need to Attach 1099 Forms to a Federal Tax Return? |first=Naomi |last=Smith |accessdate=January 1, 2015}}</ref> In general, employer-sent forms are used to substantiate claims of withholding, so only forms that involve withholding need to be attached.
 
@@ -146,11 +198,11 @@ In most situations, other [[Internal Revenue Service]] or [[Social Security Admi
 
 For most individuals, [[Tax withholding in the United States|withholding]] is the main way through which taxes are paid. However, income that is not subject to withholding must be estimated using Form 1040-ES. (It may be possible to avoid filing Form 1040-ES by increasing one's withholding and instead filing a Form W-4.)<ref>{{cite web |url=https://www.irs.gov/pub/irs-pdf/f1040es.pdf |title=Form 1040-ES 2015: Estimated Tax for Individuals |publisher=Internal Revenue Service}}</ref>
 
-Estimated payments can be made using the [[Electronic Federal Tax Payment System]].
+Estimated payments can be made using the [[Electronic Federal Tax Payment System]].<ref name=about-eftps>{{cite web|url=https://www.eftps.gov/eftps/direct/HelpAboutMain.page|title = Welcome to EFTPS - Help & Information|accessdate = April 14, 2014|publisher = [[Electronic Federal Tax Payment System]]}}</ref><ref name=bethpagecfu>{{cite web|url=http://www.bethpagefcu.com/~/media/files/bethpage/documents/eftpsfaq.ashx|title = Frequently asked questions about EFTPS|publisher = [[Bethpage Federal Credit Union]]|accessdate = April 14, 2014}}</ref>
 
 ==Payments, refunds, and penalties==
 
-{{main|IRS penalties}}
+{{main article|IRS penalties}}
 
 There is a three-year limit to when individuals can claim a tax refund. However, payments that are due must be paid immediately.<ref name="efile_penalties">{{cite web |url=http://www.efile.com/what-are-the-penalties-for-not-filing-a-tax-return-or-not-to-pay-taxes-IRS-penalty-list/ |title=IRS Penalties for Not Filing a Tax Return or Not Paying Taxes Owed |publisher=efile.com |accessdate=December 31, 2015}}</ref>
 
@@ -158,9 +210,56 @@ In addition it is possible to apply one's refunds to next year's taxes<ref>{{cit
 
 There is a penalty for not filing a tax return by April 15 that depends on whether the individual got a filing extension and the amount of unpaid taxes. However, since the maximum penalty is 25% of unpaid taxes, if an individual has paid all their taxes, there is no penalty for not filing.<ref name="efile_penalties" /><ref name="eight_facts">{{cite web |url=https://www.irs.gov/uac/Newsroom/Eight-Facts-on-Late-Filing-and-Late-Payment-Penalties |title=Eight Facts on Late Filing and Late Payment Penalties |accessdate=December 31, 2015 |date=April 18, 2013 |publisher=Internal Revenue Service}}</ref>
 
+In addition to making sure that one pays one's taxes for the year by [[Tax Day]], it is also important to make sure that one has paid partial taxes throughout the tax year in the form of estimated tax payments of employer tax withholding. If one has not done so, then a tax penalty may be assessed.<ref>{{cite web|url = http://www.forbes.com/sites/advisor/2011/05/17/adjusting-your-withholding-and-estimated-tax-payments/|title = Adjusting Your Withholding and Estimated Tax Payments|last = Blankenship|first = Jim|date = May 17, 2011|accessdate = January 1, 2016|publisher = ''[[Forbes]]''}}</ref> The minimum amount of estimated taxes that need to be paid to avoid penalties depends on a variety of factors, including one's income in the tax year in question as well as one's income in the previous year (in general, if one pays 90% of the current year's tax liability or 100% of the previous year's tax liability during the tax year, one is not subject to estimated tax penalty even if this year's taxes are higher, but there are some caveats to that rule).<ref name=p505ch1>{{cite web|url = https://www.irs.gov/publications/p505/ch01.html|title = IRS Publication 505, Chapter 1. Tax Withholding for 2015|accessdate = January 1, 2016|publisher = [[Internal Revenue Service]]}}</ref><ref>{{cite web|url = https://turbotax.intuit.com/tax-tools/tax-tips/Small-Business-Taxes/Estimated-Taxes--How-to-Determine-What-to-Pay-and-When/INF12007.html|title = 
+Estimated Taxes: How to Determine What to Pay and When|publisher = [[TurboTax]]|accessdate = January 1, 2016}}</ref> Employer withholding is also treated differently from estimated tax payment, in that for the latter, the time of the year when the payment was made matters, whereas for the former, all that matters is how much has been withheld as of the end of the year (though there are other restrictions on how one can adjust one's withholding pattern that need to be enforced by the employer).<ref name=p505ch1/><ref>{{cite web|url = http://www.hrblock.com/free-tax-tips-calculators/tax-help-articles/General-Filing/Underpayment-of-Estimated-Tax.html?action=ga&aid=27047&out=vm|title = Underpayment of Estimated Tax|publisher = [[H&R Block]]|accessdate = January 1, 2016}}</ref>
+
+When filing Form 1040, the penalty for failing to pay estimated taxes must be included on the form (on line 79) and included in the total on line 78 (if a net payment is due). The taxpayer is not required to compute other interest and penalties (such as penalty for late filing or late payment of taxes). If the taxpayer does choose to compute these, the computed penalty can be listed on the bottom margin of page 2 of the form, but should not be included on the amount due line (line 78).<ref>{{cite web |url=https://www.irs.gov/instructions/i1040gi/ar02.html#d0e63714 |publisher=Internal Revenue Service |title=1040 (2015) |accessdate=June 28, 2016}}</ref><ref>{{cite web|url = http://money.stackexchange.com/questions/66741/where-is-payment-for-failure-to-file-and-failure-to-pay-penalties-included-on-fo|title = Where is payment for failure-to-file and failure-to-pay penalties included on Form 1040?|accessdate = June 28, 2016|publisher = money.stackexchange.com}}</ref>
+
+==Relationship with state tax returns==
+Each state has separate tax codes in addition to federal taxes. Form 1040 is only used for federal taxes, and state taxes should be filed separately based off the individual state's form. Although state taxes are filed separately, many state tax returns will reference items from Form 1040. For example California's 540 Resident Income Tax form makes a reference to Form 1040's line 37 in line 13.<ref>{{cite web|url = https://www.ftb.ca.gov/forms/2015/15_540.pdf|title = 2015 Form 540 - California Resident Income Tax Return|publisher = [[State of California Franchise Tax Board]]|accessdate = June 18, 2016}}</ref>
+
+Furthermore, certain tax filing software, such as TurboTax, will simultaneously file state tax returns using information filled in on the 1040 form.<ref>{{cite web| url = https://turbotax.intuit.com/best-tax-software/common-questions.jsp| title = Frequently Asked Questions | publisher = [[TurboTax]]| accessdate = June 18, 2016}}</ref>
+
+==OMB control number controversy==
+{{Main article|Tax protester administrative arguments}}
+
+One argument used by tax protesters against the legitimacy of the 1040 Form is the OMB Control Number or the Paperwork Reduction Act argument. Tax protesters contend that Form 1040 does not contain an "OMB Control Number" which is issued by the U.S. [[United States Office of Management and Budget|Office of Management and Budget]] under the [[Paperwork Reduction Act]].
+
+The relevant clauses of the Paperwork Reduction Act state that:
+::§ 1320.6 Public protection.
+
+::(a) Notwithstanding any other provision of law, no person shall be subject to any penalty for failing to comply with a collection of information that is subject to the requirements of this part if:
+
+::::(1) The collection of information does not display, in accordance with §1320.3(f) and §1320.5(b)(1), a currently valid OMB control number assigned by the Director in accordance with the Act&hellip;
+
+::(e) The protection provided by paragraph (a) of this section does not preclude the imposition of a penalty on a person for failing to comply with a collection of information that is imposed on the person by statute—e.g., 26 U.S.C. §6011(a) (statutory requirement for person to file a tax return)&hellip;<ref>5 C.F.R. sec. 1320.6.</ref>
+
+The Courts have responded to the OMB Control Number arguments with the following arguments. 1) Form 1040, U.S. Individual Income Tax Return has contained the OMB Control number since 1981.<ref>The OMB control number is in the upper right corner of page 1 of the form. The short forms, Form 1040A and Form 1040EZ, also bear OMB control numbers.</ref> 2) As ruled in a number of cases, the absence of an OMB Control number does not eliminate the legal obligation to file or pay taxes.
+
+Cases involving the OMB Control Number Argument include:
+*''United States v. Wunder''
+The United States Court of Appeals for the Sixth Circuit argues that the provisions on the Paperwork Reduction Act are not relevant as the act applies only to information requests made after December 31, 1981 and tax returns starting from 1981 contained an OMB Control Number.<ref>919 F.2d 34, 90-2 U.S. Tax Cas. (CCH) paragr. 50,575 (6th Cir. 1990).</ref>
+*''United States v. Patridge''
+The United States Court of Appeals for the Seventh Circuit rejected the convicted taxpayer's OMB control number argument by stating "Finally, we have no doubt that the IRS has complied with the Paperwork Reduction Act. Form 1040 bears a control number from OMB, as do the other forms the IRS commonly distributes to taxpayers. That this number has been constant since 1981 does not imply that OMB has shirked its duty." <ref name="Patridge">''United States v. Patridge'', 507 F.3d 1092, 2007-2 U.S. Tax Cas. (CCH) paragr. 50,806 (7th Cir. 2007), ''cert. denied'', 552 U.S. ___, 128 S. Ct. 1721 (2008).</ref>
+*''United States v. Lawrence''
+In this Case, IRS agents who had calculated Mr. Lawrence's tax liability had made an error and it was discovered that Mr. Lawrence owed less taxes than originally determined. Lawrence asked the trial court to order the government to reimburse him for his legal fees, to which the trial court ruled against him. He appealed to the United States Court of Appeals for the Seventh Circuit, contending that the government's conduct against him had been "vexatious, frivolous, or in bad faith." and also raising the OMB Control Number Argument.
+
+The United States Court of Appeals for the Seventh Circuit rejected the OMB argument stating that 
+::"According to Lawrence, the Paperwork Reduction Act of 1995 (PRA) required the Internal Revenue Service to display valid Office of Management and Budget (OMB) numbers on its Form 1040…. Lawrence argues that the PRA by its terms prohibits the government from imposing a criminal penalty upon a citizen for the failure to complete a form where the information request at issue does not comply with the PRA... Yet Lawrence conceded at oral argument that no case from this circuit establishes such a proposition, and in fact Lawrence cites no caselaw from any jurisdiction that so holds. In contrast, the government referenced numerous cases supporting its position that the PRA does not present a defense to a criminal action for failure to file income taxes." <ref>Judgment, page 2, docket entry 39, March 26, 2007, ''United States v. Lawrence'', United States Court of Appeals for the Seventh Circuit, No. 06-3205.</ref>
+
 ==History==
 
-The first Form 1040 was published for use for the tax years 1913, 1914, and 1915. For 1916, Form 1040 was converted to an annual form (i.e., updated each year with the new tax year printed on the form).<ref>See Publication 1796-A, ''IRS Historical Tax Products'' (rev. Feb. 2007), Internal Revenue Service, U.S. Dep't of the Treasury.</ref> Initially, the IRS mailed tax booklets (Form 1040, instructions, and most common attachments) to all households. As alternative delivery methods (CPA/Attorneys, Internet forms) increased in popularity, the IRS sent fewer packets via mail. In 2009 this practice was discontinued.
+=== Original form structure and tax rates ===
+
+The first Form 1040 was published for use for the tax years 1913, 1914, and 1915.<ref name= howyoumustpay>"[http://search.proquest.com.dclibrary.idm.oclc.org/docview/97579204/A417532B84294769PQ/1?accountid=46320 How You Must Pay Your Income Tax: Treasury Issues Form 1,040, Which Individuals Must Fill Out and File by March 1]". ''The New York Times''. January 6, 1914. p. 3.</ref> For 1913, taxes applied only from March 1 to December 31.<ref name= howyoumustpay/> The original Form 1040, available on the IRS website as well as elsewhere, is three pages and 31 lines long, with the first page focused on computing one's income tax, the second page focused on more detailed documentation of one's income and the third page describing deductions and including a signature area. There is an additional page of instructions.<ref name=irs-1913>{{cite web|url = https://www.irs.gov/pub/irs-utl/1913.pdf|title = RETURN OF ANNUAL NET INCOME OF INDIVIDUALS|publisher = [[Internal Revenue Service]]|date = October 3, 1913|accessdate = January 1, 2016}}</ref><ref name=tf-1913>{{cite web|url = http://taxfoundation.org/article/1913-internal-revenue-service-1040-form|title = 1913 Internal Revenue Service 1040 Form|publisher = [[Tax Foundation]]|accessdate = January 1, 2016}}</ref> The main rules were:
+
+* The taxable income was calculated starting from gross income, subtracting business-related expenses to get net income, and then subtracting specific exemptions (usually $3,000 or $4,000). In other words, people with net incomes below $3,000 would have to pay no income tax at all. The inflation calculator used by the [[Bureau of Labor Statistics]] estimates the corresponding amount in 2015 dollars as $71,920.<ref name=inflation-calculator>{{cite web|url = http://www.bls.gov/data/inflation_calculator.htm|title = Inflation Calculator|publisher = [[Bureau of Labor Statistics]]}}</ref>
+* The base income tax rate on taxable income was 1%.
+* High earners had to pay additional taxes. The first high-earning tax bracket, $20,000-$50,000, has an additional tax of 1% on the part of net income above $20,000. Thus, somebody with a taxable income of $50,000 (over a million dollars in 2015 dollars according to the BLS)<ref name=inflation-calculator/> would pay a total of $800 (1% of $50,000 + 1% of $(50,000 - 20,000)) in federal income tax. At the time (when the United States as a whole was much poorer) these higher taxes applied to fewer than 0.5% of the residents of the United States.<ref name=wizworld>{{cite web|url = http://www.wizworld.com/taxes/|title = True Origin of the 1040 Income Tax Form|accessdate = January 1, 2016}}</ref>
+
+=== Subsequent changes ===
+
+For 1916, Form 1040 was converted to an annual form (i.e., updated each year with the new tax year printed on the form).<ref>See Publication 1796-A, ''IRS Historical Tax Products'' (rev. Feb. 2007), Internal Revenue Service, U.S. Dep't of the Treasury.</ref> Initially, the IRS mailed tax booklets (Form 1040, instructions, and most common attachments) to all households. As alternative delivery methods (CPA/Attorneys, Internet forms) increased in popularity, the IRS sent fewer packets via mail. In 2009 this practice was discontinued.
 
 With the [[Current Tax Payment Act of 1943]], income tax withholding was introduced. The [[Individual Income Tax Act of 1944]] created standard deductions on the 1040.<ref name="historical_highlights">{{cite web |url=https://www.irs.gov/uac/Historical-Highlights-of-the-IRS |title=Historical Highlights of the IRS |accessdate=December 31, 2015 |publisher=Internal Revenue Service}}</ref>
 
@@ -170,25 +269,64 @@ Form 1040A was introduced in 1941 to simplify the filing process.<ref>{{cite web
 
 Form 1040EZ was introduced by the Internal Revenue Service for the 1982 tax year. The title of the 1982 form was "Income Tax Return for Single filers with no dependents."
 
+Electronic filing was introduced in a limited form in 1986, with the passage of the [[Tax Reform Act of 1986]], and starting 1992, taxpayers who owed money were allowed to file electronically.<ref name=historical_highlights/> The [[Electronic Federal Tax Payment System]], jointly managed by the IRS and [[Financial Management Service]], started in 1996 and allowed people to make estimated payments.<ref name=historical_highlights/><ref name=about-eftps/>
+
+=== Changes to complexity and tax rates ===
+
+The complexity and compliance burden of the form and its associated instructions have increased considerably since 1913. The [[National Taxpayers Union]] has documented the steady increase in complexity from a 34-line form in 1935 to a 79-line form in 2014,<ref name=ntu>{{cite web|url = http://www.ntu.org/foundation/policy-paper/a-complex-problem-the-compliance-burdens-of-the-tax-code|title = A Complex Problem: The Compliance Burdens of the Tax Code|last = Tasselmyer|first = Michael|date = April 8, 2015|accessdate = January 1, 2016|publisher = [[National Taxpayers Union]]}}</ref> while ''[[Quartz (publication)|Quartz]]'' created an animated GIF showing the gradual changes to the structure and complexity of the form.<ref>{{cite web|url = http://qz.com/36239/line-for-line-us-income-taxes-are-more-complex-than-ever/|title = 
+Line for line, US income taxes are more complex than ever|last = Yanofsky|first = David|publisher = ''[[Quartz (publication)|Quartz]]''|date = December 13, 2012|accessdate = January 1, 2016}}</ref> The NTU table is below:
+
+{| class="wikitable sortable"
+! Tax year !! Lines, Form 1040 !! Pages, Form 1040 !! Pages, Form 1040 Instruction Booklet
+|-
+| 2014 || 79 || 2 || 209 
+|-
+| 2013 || 77 || 2 || 206
+|-
+| 2012 || 77 || 2 || 214
+|-
+| 2011 || 77 || 2 || 189
+|-
+| 2010 || 77 || 2 || 179
+|-
+| 2005 || 76 || 2 || 142
+|-
+| 2000 || 70 || 2 || 117
+|-
+| 1995 || 66 || 2 || 84
+|-
+| 1985 || 68 || 2 || 52
+|-
+| 1975 || 67 || 2 || 39
+|-
+| 1965 || 54 || 2 || 17
+|-
+| 1955 || 28 || 2 || 16
+|-
+| 1945 || 24 || 2 || 4
+|-
+| 1935 || 34 || 1 || 2
+|}
+
+The increase in complexity can be attributed to an increase in the number and range of activities being taxed, an increase in the number of exemptions, credits, and deductions available, an increase in the subtlety of the rules governing taxation and the edge cases explicitly spelled out based on historical experience, and an increase in the base of taxpayers making it necessary to offer longer, more explicit instructions for less sophisticated taxpayers.<ref name=ntu/> As an example, whereas the initial versions of Form 1040 came only with a [[rate schedule (federal income tax)|rate schedule]] included in the tax form itself, the IRS now publishes a complete tax table for taxable income up to $100,000 so that people can directly look up their tax liability from their taxable income without having to do complicated arithmetic calculations based on the rate schedule.<ref>{{cite web|url = https://www.irs.gov/pub/irs-pdf/i1040tt.pdf|title = Tax Tables 2014|publisher = [[Internal Revenue Service]]|accessdate = January 1, 2016}}</ref> The IRS still publishes its rate schedule so that people can quickly compute their approximate tax liability, and lets people with incomes of over $100,000 compute their taxes directly using the Tax Computation Worksheet.<ref name=quora>{{cite web|url = https://www.quora.com/Why-is-a-tax-table-used-in-the-US-instead-of-just-the-piecewise-linear-rule|title = Why is a tax table used in the US instead of just the piecewise linear rule?|publisher = [[Quora]]}}</ref>
+
+In addition to an increase in the complexity of the form, the tax rates have also increased, though the increase in tax rates has not been steady (with huge upswings and downswings) in contrast with the steady increase in tax complexity.<ref name=qz-tax-rates>{{cite web|url = http://qz.com/74271/income-tax-rates-since-1913/|title = Check your US tax rate for 2012—and every year since 1913|last = King|first = Ritchie|publisher = ''[[Quartz (publication)|Quartz]]''|date = April 14, 2013|accessdate = January 1, 2016}}</ref>
+
 ==Analogs in other countries==
 
 In the [[United Kingdom]], various returns such as the SA100 must be filed (see [[Tax return (United Kingdom)]] for more).
 
 In [[Japan]], most people do not need to file a tax return due to income withholding.<ref>{{cite web |url=http://www.japan-guide.com/e/e2206.html |title=Taxes in Japan|publisher=Japan Guide |accessdate=December 31, 2015}}</ref>
 
-See also [[List of countries by tax rates]].
+==See also==
 
-==In popular culture==
-
-* "[https://www.cs.amherst.edu/~djv/irs.pdf If the IRS had discovered the quadratic formula …]"
-* [https://www.urbandictionary.com/define.php?term=1040ez+form Urban Dictionary entry for the 1040EZ]
+* [[List of countries by tax rates]]
 
 ==References==
-{{reflist}}
+{{reflist|30em}}
 
-<!-- remove pre tag once in mainspace -->
-<pre>
 [[Category:United States government forms|1040]]
-[[Category:United States federal income tax forms|1040]]
 [[Category:Internal Revenue Service|1040]]
-</pre>
+[[Category:IRS tax forms|1040]]
+[[Category:Personal taxes in the United States]]
+
