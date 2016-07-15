@@ -217,9 +217,10 @@ enormous line; `j` sort of replaces `Ctrl`-`e` and so forth.
 
 In any case, it seems that the way Vim treats long lines is
 fundamentally broken, in the sense that the way it thinks of lines is
-[stuck in the days of line-based text processing](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf).  I really would like
+[stuck in the days of line-based text processing](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf).
+I really would like
 display-line versions of `Ctrl`-`e`, `Ctrl`-`d`, and `Ctrl`-`f`, in the
-same way that we have `gj` and `g$`. It might be worth noting that when using commands like `:vim` and `:cl`, vim uses some pager like `more`, which can display partial lines even when using `j` and `k`.
+same way that we have `gj` and `g$`, as well as an option that will allow one to display a partial line at the top of the current view (currently, unless a line is extremely long, Vim will show a line at the top of the current view so as to expose the beginning of the line). It might be worth noting that when using commands like `:vim` and `:cl`, vim uses some pager like `more`, which can display partial lines even when using `j` and `k`.
 
 In editing Wikipedia, I've also found it useful to learn [CUA keybindings](https://en.wikipedia.org/wiki/IBM_Common_User_Access) like `Ctrl`-`→`, `Ctrl`-`Backspace`, and so forth, which can be used directly on browsers like Firefox.
 This suffices for most editing tasks, and I have [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open GVim for more complicated tasks (like search-and-replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
