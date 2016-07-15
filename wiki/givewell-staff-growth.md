@@ -41,7 +41,7 @@ Table: Growth of GiveWell
 
 The following is a plot of the table above (which is better in some sense because it indicates the gaps when the employee count did not change):
 
-[<img src="givewell-employee.png" width="500" />](givewell-employee.png)
+![](givewell-employee.png)
 
 The "cumulative number of employees" is just the number of people who have at one point worked for GiveWell, as of the indicated date; it is obtained by summing up the positive number in the diff column up to the date in question, and then adding the initial employee number.
 
@@ -52,7 +52,7 @@ The numbers are also of full-time staff only, so does not include interns, conve
 Note also that *the gap between the two curves cannot decrease*.
 It is for this reason that the survival ratio is good to look at in addition to the above graph:
 
-[<img src="givewell-survival-ratio.png" width="500" />](givewell-survival-ratio.png)
+![](givewell-survival-ratio.png)
 
 At each time $t$, the survival ratio is 'the number of employees at time $t$' divided by 'the number of cumulative employees at time $t$'.
 
