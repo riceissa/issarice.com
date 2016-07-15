@@ -1,3 +1,7 @@
+<!-- Please do not remove or change this AfD message until the issue is settled -->
+{{Article for deletion/dated|page=Triplebyte|timestamp=20160714054039|year=2016|month=July|day=14|substed=yes}}
+<!-- Once discussion is closed, please place on talk page: {{Old AfD multi|page=Triplebyte|date=14 July 2016|result='''keep'''}} -->
+<!-- End of AfD message, feel free to edit beyond this point -->
 {{Infobox company
 | name           = Triplebyte
 | logo           = 
@@ -14,11 +18,11 @@
 | former_name    = 
 | type           = 
 | industry       = Tech recruiting
-| founded        =     <!-- if known: {{start date|YYYY|MM|DD}} in [[city]], [[country]] -->
-| founders       =  Harj Taggar (CEO), Ammon Bartram (Chief Data Officer), and Guillaume Luccisano
+| founded        = {{start date and age|2015|4|12}}<ref>{{cite web|url=http://whois.domaintools.com/triplebyte.com|title=Triplebyte.com WHOIS, DNS, & Domain Info - DomainTools|work=[[WHOIS]]|date= |accessdate=2016-07-11}}</ref> 
+| founders       = [[Harj Taggar]] (CEO)<br>Ammon Bartram (Chief Data Officer)<br>Guillaume Luccisano (chief technology officer)
 | hq_location    = 
-| hq_location_city = [[San Francisco]]<ref>{{cite web |url= https://www.crunchbase.com/organization/triplebyte |title= Triplebyte |publisher=CrunchBase}}</ref>
-| hq_location_country = 
+| hq_location_city = [[San Francisco]], [[California]]<ref>{{cite web |url= https://www.crunchbase.com/organization/triplebyte |title= Triplebyte |publisher=CrunchBase}}</ref>
+| hq_location_country = [[United States|U.S.]]
 | area_served    =     <!-- or: | areas_served = -->
 | key_people     = 
 | products       = 
@@ -37,13 +41,13 @@ Triplebyte was founded by [[Harj Taggar]] ([[CEO]]), Ammon Bartram (Chief Data O
 
 In September 2015, the company raised $3 million from [[Y Combinator (company)|Y Combinator]] founders [[Paul Graham (computer programmer)|Paul Graham]] and [[Jessica Livingston]], among others.<ref name="tc_3m">{{cite web |url=http://techcrunch.com/2015/09/28/triplebyte-3m/ |title=Triplebyte, The Technical Recruiting Platform From Former YC Partner Harj Taggar, Raises $3M |first=Kim-Mai |last=Cutler |accessdate=January 12, 2016 |date=September 28, 2015}}</ref><ref name=fastcompany/>
 
-In May 2016, the company announced their Engineer Genome Project, which maps out the seven attributes that companies care most about in their engineers.<ref>{{cite web |url= http://blog.triplebyte.com/triplebyte-engineer-genome-project |title=Triplebyte Engineer Genome Project |date=May 4, 2016 |accessdate=June 3, 2016 |publisher=Triplebyte}}</ref><ref name=fastcompany/> The project uses software to match engineers' skill distribution in the seven attributes to companies that are a good fit for those engineers.<ref name=tc-genome>{{cite web |url=http://techcrunch.com/2016/05/04/technical-recruiting-platform-triplebyte-launches-pandora-like-engineer-genome-project/ |title=Technical recruiting platform Triplebyte launches engineer genome project |author=Megan Rose Dickey |date=May 4, 2016 |accessdate=June 3, 2016 |publisher=TechCrunch}}</ref>
+In May 2016, the company announced their Engineer Genome Project, which maps out the seven attributes that companies care most about in their engineers.<ref name=fastcompany/><ref>{{cite web |url= http://blog.triplebyte.com/triplebyte-engineer-genome-project |title=Triplebyte Engineer Genome Project |date=May 4, 2016 |accessdate=June 3, 2016 |publisher=Triplebyte}}</ref> The project uses software to match engineers' skill distribution in the seven attributes to companies that are a good fit for those engineers.<ref name=tc-genome>{{cite web |url=http://techcrunch.com/2016/05/04/technical-recruiting-platform-triplebyte-launches-pandora-like-engineer-genome-project/ |title=Technical recruiting platform Triplebyte launches engineer genome project |author=Megan Rose Dickey |date=May 4, 2016 |accessdate=June 3, 2016 |publisher=TechCrunch}}</ref>
 
 ==Hiring philosophy==
 
 Triplebyte thinks each startup has different ideas on what a "great engineer" is.<ref name="tc_3m" />
 
-Triplebyte does not accept resumes. Instead, it conducts a two-part technical evaluation,<ref name=fastcompany>{{cite web |url=http://www.fastcompany.com/3059901/why-this-tech-recruiting-platform-doesnt-accept-resumes |title=Why This Tech Recruiting Platform Doesn't Accept Resumes |accessdate=2016-06-03 |author=Lydia Dishman |date=2016-05-16 |publisher=Fast Company}}</ref> and only asks about a candidate's education after they have passed the technical interview. <ref name="fortune">{{cite web |url=http://fortune.com/2016/05/19/triplebyte-coding-bootcamp-study/ |title=Can ‘Coding Bootcamps’ Fix The Shortage of Engineers? |accessdate=June 3, 2016 |date=May 19, 2016 |last=Kokalitcheva |first=Kia |publisher=Fortune}}</ref>
+Triplebyte does not accept resumes.<ref>{{cite web |url=http://www.businessinsider.com/coding-bootcamps-vs-computer-science-degrees-2016-5 |title=The truth about whether 'coding bootcamps' that can get graduates $100,000 exit salaries actually prepare you to be a programmer |date= May 19, 2016 |accessdate=June 5, 2016 |author=Nathan McAlone |publisher=''[[Business Insider]]''}}</ref> Instead, it conducts a two-part technical evaluation,<ref name=fastcompany>{{cite web |url=http://www.fastcompany.com/3059901/why-this-tech-recruiting-platform-doesnt-accept-resumes |title=Why This Tech Recruiting Platform Doesn't Accept Resumes |accessdate=2016-06-03 |author=Lydia Dishman |date=2016-05-16 |publisher=Fast Company}}</ref> and only asks about a candidate's education after they have passed the technical interview.<ref name="fortune">{{cite web |url=http://fortune.com/2016/05/19/triplebyte-coding-bootcamp-study/ |title=Can ‘Coding Bootcamps’ Fix The Shortage of Engineers? |accessdate=June 3, 2016 |date=May 19, 2016 |last=Kokalitcheva |first=Kia |publisher=Fortune}}</ref>
 
 ==Business model==
 
@@ -64,8 +68,12 @@ Companies that have used Triplebyte for recruiting include:<ref name=fastcompany
 
 ==See also==
 *[[Silicon Valley]]
+*[[Simply Hired]]
+*[[Y Combinator (company)]]
 
 ==References==
 
 {{reflist|2}}
+
+[[Category:Y Combinator companies]]
 
