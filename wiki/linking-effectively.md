@@ -90,7 +90,7 @@ citations (and also on Wikipedia), it's possible to include quotes directly in
 footnotes, so that even if the destination disappears, the actually-relevant
 piece of information is safe.
 
-See also a [Markdown style guide from Google][google guide]:
+See also the [Markdown style guide from Google][google guide]:
 
 > Titling your links as "link" or "here" tells the reader precisely nothing
 > when quickly scanning your doc and is a waste of space:
