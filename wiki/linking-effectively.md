@@ -37,29 +37,48 @@ Indeed, the [argument](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Ha
 However, I find inline linking to be more emphatic (it conveys a different message than footnotes or parenthetical citations).
 One way to have the best of both worlds is to be [aggressive about archiving](digital-preservation) and to have a mechanism for detecting broken URLs (which you should be doing anyway).
 
-Links often emphasize text on a page (in many browsers links are underlined and colored differently). So consider the sentence “Stopping
-X shouldn’t be a high priority.” It would be natural to hyperlink this
-to something that argues this point like so: “Stopping X [shouldn’t be a
-high priority].” This gets the emphasis right. But now what if we wanted
-the following nuanced alternative?
+# Links as emphasis
 
-“I don’t think stopping X should be a high priority.” Then consider the
-straightforward hyperlink translation:
+Links often emphasize text on a page (in many browsers links are underlined
+and colored differently). So consider the sentence "Stopping X shouldn't be a
+high priority." It would be natural to hyperlink this to something that argues
+this point like so (where square brackets denote the part of the sentence that
+is linked):
 
-“I don’t think stopping X [should be a high priority].” Ah, but now
-someone quickly scanning the article might now accidentally interpret
-that stopping X should be a high priority!! Instead we want something
-like:
+```
+Stopping X [shouldn't be a high priority].
+```
 
-“I [don’t think stopping X should be a high priority].” Or:
+This gets the emphasis right. But now what if we wanted the sentence to read
+instead "I don't think stopping X should be a high priority."
 
-“I don’t think stopping X should be a [high priority].”
+Then consider the straightforward hyperlink translation:
+
+```
+I don't think stopping X [should be a high priority].
+```
+
+Someone quickly scanning the sentence might now accidentally interpret that
+stopping X should be a high priority! Instead we want something like the
+following:
+
+```
+I [don't think stopping X should be a high priority].
+```
+
+Or:
+
+```
+I don't think stopping X should be a [high priority].
+```
+
+# Compatibility with PDFs
 
 A general rule is, you should always imagine how a page would look if you
-removed all the hyperlinks. So this means using words like “here” for
-linking should be discouraged.
+removed all the hyperlinks. So this means using words like "here" for linking
+should be discouraged.
 
----
+# Links as citations
 
 Pandoc has `-M links-as-notes:true`, but, while this exposes all URLs in the
 document, it also messes up the footnote numbering in the sense that an HTML
