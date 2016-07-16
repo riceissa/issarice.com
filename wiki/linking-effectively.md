@@ -74,6 +74,21 @@ Of course, link rot is the major downside of inline links, but there are also ot
 There is also the issue of including quotes from the destination.
 In academic citations (and also on Wikipedia), it's possible to include quotes directly in footnotes, so that even if the destination disappears, the actually-relevant piece of information is safe.
 
+See also a (the?) [Markdown style guide from Google](https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md#use-informative-markdown-link-titles):
+
+> Titling your links as "link" or "here" tells the reader precisely nothing when quickly scanning your doc and is a waste of space:
+> 
+>     See the syntax guide for more info: [link](syntax_guide.md).
+>     Or, check out the style guide [here](style_guide.md).
+>     DO NOT DO THIS.
+> 
+> Instead, write the sentence naturally, then go back and wrap the most appropriate phrase with the link:
+> 
+>     See the [syntax guide](syntax_guide.md) for more info.
+>     Or, check out the [style guide](style_guide.md).
+
+
+
 # See also
 
 - [Durable link]()
