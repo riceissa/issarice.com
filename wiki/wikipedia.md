@@ -1,7 +1,7 @@
 ---
 title: Wikipedia
 creation_date: 2015-07-05
-date: 2016-06-15
+date: 2016-07-15
 ---
 
 My username on Wikipedia is Riceissa.
@@ -13,7 +13,7 @@ Starting in late 2015 I've been doing more work on Wikipedia.
 See [Vipul Naik's page on sponsored editing](http://vipulnaik.com/sponsored-wikipedia-editing/) for more information.
 Also relevant is my current [bounty list](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki).
 
-As of June 11, 2016, I have 1,697 edits on the English Wikipedia.
+As of July 15, 2016, I have 2,345 edits on the English Wikipedia.
 
 # Contributions
 
