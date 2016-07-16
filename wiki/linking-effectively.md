@@ -72,6 +72,14 @@ Or:
 I don't think stopping X should be a [high priority].
 ```
 
+Or:
+
+```
+I [don't think] stopping X should be a high priority.
+```
+
+The exact placement of the link depends on the emphasis one wants to give.
+
 # Compatibility with PDFs
 
 A general rule is, you should always imagine how a page would look if you
