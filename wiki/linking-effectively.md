@@ -87,8 +87,6 @@ See also a (the?) [Markdown style guide from Google](https://github.com/google/s
 >     See the [syntax guide](syntax_guide.md) for more info.
 >     Or, check out the [style guide](style_guide.md).
 
-
-
 # See also
 
 - [Durable link]()
