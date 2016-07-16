@@ -61,18 +61,34 @@ linking should be discouraged.
 
 ---
 
-Pandoc has `-M links-as-notes:true`, but, while this exposes all URLs in the document, it also messes up the footnote numbering in the sense that an HTML version will have footnotes that increase more slowly (and there is no one-to-one correspondence).
+Pandoc has `-M links-as-notes:true`, but, while this exposes all URLs in the
+document, it also messes up the footnote numbering in the sense that an HTML
+version will have footnotes that increase more slowly (and there is no
+one-to-one correspondence).
 
-If the full citation is only needed so people can locate the material, one idea might be to include the citation information in the title text of the URL.
-In Pandoc markdown this is accomplished by `[link text](http://example.com "title text here")`.
-One problem is that in PDFs, the title text is lost (though it might be possible to show them by writing an appropriate Pandoc filter).
+If the full citation is only needed so people can locate the material, one
+idea might be to include the citation information in the title text of the
+URL. In Pandoc markdown this is accomplished by
 
-Pandoc also provides a full citation filter through pandoc-citeproc, but I'm not sure this is worth it in most cases.
-Inline linking did *something* right by making it more intuitive and emphatic to click on things, and it would feel like returning to an inferior system to go back to academic citations.
-Of course, link rot is the major downside of inline links, but there are also others (like not having access to the full citation, so not being able to search for something using the citation information).
+```markdown
+[link text](http://example.com "title text here")
+```
 
-There is also the issue of including quotes from the destination.
-In academic citations (and also on Wikipedia), it's possible to include quotes directly in footnotes, so that even if the destination disappears, the actually-relevant piece of information is safe.
+One problem is that in PDFs, the title text is lost (though it might be
+possible to show them by writing an appropriate Pandoc filter).
+
+Pandoc also provides a full citation filter through `pandoc-citeproc`, but I'm
+not sure this is worth it in most cases. Inline linking did *something* right
+by making it more intuitive and emphatic to click on things, and it would feel
+like returning to an inferior system to go back to academic citations. Of
+course, link rot is the major downside of inline links, but there are also
+others (like not having access to the full citation, so not being able to
+search for something using the citation information).
+
+There is also the issue of including quotes from the destination. In academic
+citations (and also on Wikipedia), it's possible to include quotes directly in
+footnotes, so that even if the destination disappears, the actually-relevant
+piece of information is safe.
 
 See also a [Markdown style guide from Google][google guide]:
 
