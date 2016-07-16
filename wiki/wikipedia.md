@@ -55,5 +55,6 @@ These are:
 
 # External links
 
+- [Wikipedia usage survey results](http://lesswrong.com/r/discussion/lw/nru/wikipedia_usage_survey_results/), my LessWrong post discussing a survey that Vipul Naik and I conducted
 - [Vipul Naik's page on Wikipedia](http://vipulnaik.com/wikipedia/)
 - [The Value of Wikipedia Contributions in Social Sciences](http://reducing-suffering.org/the-value-of-wikipedia-contributions-in-social-sciences/)
