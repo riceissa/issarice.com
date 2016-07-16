@@ -26,7 +26,9 @@ Things to talk about:
 - referrer masking
 - when to use footnotes, when to use links, when to use parentheses
 - From LW boring advice: "Never post a web link that requires a reader to click on it to find out if they want to click on it."
-- including the article. e.g. "\[the job posting\]" is better than "the \[job posting\]" (example from [The process of hiring our first cause-specific Program Officer](http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/), which uses the version I don't like..)
+- Including the article? e.g. "\[the job posting\]" vs "the \[job posting\]"
+  (example from [The process of hiring our first cause-specific Program
+  Officer][givewell post])
 - semantic web: links with meanings
 - Do surrounding quotes count as part of the link?
 In other words, should we prefer `["Article Title"]` or `"[Article Title]"`?
@@ -150,3 +152,4 @@ markup when they make the output better.
 
 [google guide]: https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md#use-informative-markdown-link-titles
 [markdown guide]: http://www.cirosantilli.com/markdown-style-guide/ "Ciro Santilli. \"Markdown Style Guide\"."
+[givewell post]: http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/
