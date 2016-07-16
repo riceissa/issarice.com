@@ -150,6 +150,6 @@ markup when they make the output better.
 
 - [Durable link]()
 
+[givewell post]: http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/
 [google guide]: https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md#use-informative-markdown-link-titles
 [markdown guide]: http://www.cirosantilli.com/markdown-style-guide/ "Ciro Santilli. \"Markdown Style Guide\"."
-[givewell post]: http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/
