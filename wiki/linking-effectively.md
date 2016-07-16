@@ -52,7 +52,7 @@ Stopping X [shouldn't be a high priority].
 This gets the emphasis right. But now what if we want the sentence to read
 instead "I don't think stopping X should be a high priority."?
 
-Then consider the straightforward hyperlink translation:
+Consider the straightforward hyperlink translation:
 
 ```
 I don't think stopping X [should be a high priority].
