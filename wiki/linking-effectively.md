@@ -132,8 +132,21 @@ See also the [Markdown style guide from Google][google guide]:
 >     See the [syntax guide](syntax_guide.md) for more info.
 >     Or, check out the [style guide](style_guide.md).
 
+# Readability vs writability
+
+One [Markdown style guide][markdown guide] says:
+
+> unaligned tables tables are easier to write, but aligned tables are more
+> readable, and people read code much more often than they edit it.
+
+Similarly, Markdown documents for websites such as this one are read much more
+often in rendered form than they are edited or read in source markup form (one
+would hope). This means it makes sense to sacrifice conveniences in the source
+markup when they make the output better.
+
 # See also
 
 - [Durable link]()
 
 [google guide]: https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md#use-informative-markdown-link-titles
+[markdown guide]: http://www.cirosantilli.com/markdown-style-guide/ "Ciro Santilli. \"Markdown Style Guide\"."
