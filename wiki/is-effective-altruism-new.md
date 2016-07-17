@@ -22,7 +22,7 @@ And concludes:
 > especially surprised that it wasn't thought of years ago, nor that people
 > disagree.
 
-[Ben Kuhn][ben post]:
+Katja quotes [Ben Kuhn][ben post], who writes:
 
 > Effective altruists often express surprise that the idea of effective altruism
 > only came about so recently. For instance, my student group recently hosted
@@ -30,6 +30,15 @@ And concludes:
 > heard other people working for EA organizations express the same sentiment.
 > But no one seems to be actually worried about this—just smug that they’ve
 > figured out something that no one else had.
+>
+> The “market” for ideas is at least somewhat efficient: most simple, obvious
+> and correct things get thought of fairly quickly after it's possible to think
+> them. If a meme as simple as effective altruism hasn't taken root yet, we
+> should at least try to understand why before throwing our weight behind it.
+> The absence of such attempts—in other words, the fact that non-obviousness
+> doesn’t make effective altruists worried that they’re missing something—is a
+> strong indicator against the “effective altruists are actually trying”
+> hypothesis.
 
 Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
 
@@ -58,8 +67,8 @@ Or [Catherine Tumber][tumber]:
 > Utilitarianism, with its bent toward quantification, for regarding people as
 > abstract units, is the ethical system of distant administrators. It is no
 > coincidence that it emerged in the nineteenth century with the rise of large,
-> impersonal corporate entities. Singer’s variation rejects the ethical
-> philosophy’s pleasure-or-pain calculus as too subjective and, potentially,
+> impersonal corporate entities. Singer's variation rejects the ethical
+> philosophy's pleasure-or-pain calculus as too subjective and, potentially,
 > hedonistic. His own *preference utilitarianism* seeks to rescue ethics from
 > categorical abstraction while restoring grounds for subjective rational
 > choice. \[...\]
