@@ -326,6 +326,24 @@ general formulation of (1).
 
 I used to do ` gg"+yG`` `, when the ex-mode `:%y +` is much simpler.
 
+# Syntax files
+
+Vim syntax files seem to have the problem of either coloring things incorrectly
+(often happens with complicated or nested structures in Markdown or LaTeX), or,
+even when syntactically correct, overzealously. There isn't much point in
+coloring *most* things on the screen because that just makes it difficult to
+distinguish parts.
+
+In markup languages, the two most important parts of syntax coloring are the
+following:
+
+- Disabling spell-checking in regions where it doesn't make sense (URLs,
+  reference variables, etc.)
+- Distinguishing "hidden" parts from the visible parts. Example: when editing
+  MediaWiki files, the parts inside `<ref>` tags should be colored differently
+  so that one can read a sentence without constantly having to track where the
+  references end.
+
 # Other problems
 
 Despite using Vim for almost everything, I still have some problems with
