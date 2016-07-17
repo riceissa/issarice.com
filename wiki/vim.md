@@ -349,6 +349,8 @@ it:
   turn `incsearch` on, then type `/incl` to try to search for "including".
   After the "c" is typed, the match disappears and typing "l" brings it back,
   and so forth. Hitting enter at any point completes the search, *but not on
-  gvim, where it just fails*. (Actually trying it again now, it seems to fail everwhere, even on Neovim...). Make sure your window height is also small relative to the line length.
+  gvim, where it just fails*. (Actually trying it again now, it seems to fail
+  everwhere, even on Neovim...). Make sure your window height is also small
+  relative to the line length.
 
 [^evil]: Emacs Evil mode is also an option (it's a fairly good emulation of Vim).
