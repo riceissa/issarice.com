@@ -62,7 +62,12 @@ Or [Catherine Tumber][tumber]:
 > philosophy’s pleasure-or-pain calculus as too subjective and, potentially,
 > hedonistic. His own *preference utilitarianism* seeks to rescue ethics from
 > categorical abstraction while restoring grounds for subjective rational
-> choice.
+> choice. \[...\]
+>
+> \[...\] The suffering are units to be managed effectively; the more of them so
+> managed, the better from an ethical perspective. \[...\] That is what happens
+> when you reduce self and others to quantifiable widgets, much as the global
+> financial markets regard us.
 
 [acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\". December 2013."
