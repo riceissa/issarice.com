@@ -6,6 +6,20 @@ date: 2016-07-16
 
 [Katja Grace asks why effective altruism is new and obvious][katja post]
 
+Katja:
+
+> On the other hand, if an idea is too obviously correct for anyone to advocate
+> for, you might expect more people to actually be doing it, or trying to do it.
+> I'm not sure how many people were trying to be effective altruists in the past
+> on their own, but I don't think it was a large fraction.
+
+And concludes:
+
+> If Effective Altruism really stands for pursuing unusual values, and
+> furthermore doing this via zealous emphasis on accurate metrics, I'm not
+> especially surprised that it wasn't thought of years ago, nor that people
+> disagree.
+
 [Ben Kuhn][ben post]:
 
 > Effective altruists often express surprise that the idea of effective altruism
