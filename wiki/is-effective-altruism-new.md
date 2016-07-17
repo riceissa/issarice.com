@@ -98,7 +98,9 @@ Or [Catherine Tumber][tumber]:
   steps -- namely developing a cause-specific "foundation strategy" and
   evaluating grantees and potential grantees -- "seem likely to lead to at least
   reasonable results if carried out by people who listen well and keep their
-  minds open"
+  minds open". I interpret this as evidence that GiveWell realizes that within
+  causes, philanthropy has already done reasonably well in terms of
+  prioritization.
 
 [acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\" § Non-obviousness. December 2013."
