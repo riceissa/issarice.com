@@ -144,7 +144,9 @@ One [Markdown style guide][markdown guide] says:
 Similarly, Markdown documents for websites such as this one are read much more
 often in rendered form than they are edited or read in source markup form (one
 would hope). This means it makes sense to sacrifice conveniences in the source
-markup when they make the output better.
+markup when they make the output better (for instance using the Unicode
+thinspace between two consecutive quote marks, even if an ASCII space looks the
+same in a terminal).
 
 # See also
 
