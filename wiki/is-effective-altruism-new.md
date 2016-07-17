@@ -84,8 +84,9 @@ Or [Catherine Tumber][tumber]:
 
 - [Timeline of nonprofit evaluation][timeline ne]
 - My [draft page for priority-setting in global health][psigh draft], which
-  shows that *explicit prioritization* has been going on since at least the
-  1970s -- around 30 years before the effective altruism movement even formed.
+  shows that *explicit prioritization* in global health has been going on since
+  at least the 1970s -- around 30 years before the effective altruism movement
+  even formed.
 
 # In what ways is effective altruism new?
 
