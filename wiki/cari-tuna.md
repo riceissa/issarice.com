@@ -37,4 +37,7 @@ Eldridge, like Tuna, is married to a Facebook co-founder.
 
     > Cari Tuna, wife of Facebook billionaire Dustin Moskovitz, gave $150,000 [to back Proposition 47].
 
-- She also talks some in GiveWell board meetings (in particular, the one for October 2015).
+- She also talks some in GiveWell board meetings (in particular, the one for
+  [October 2015][oct 2015]).
+
+[oct 2015]: http://www.givewell.org/about/official-records/board-meeting-31
