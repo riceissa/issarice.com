@@ -82,20 +82,22 @@ Or [Catherine Tumber][tumber]:
 
 # Previous and ongoing prioritization efforts in global health
 
-- [Timeline of nonprofit
-  evaluation][timeline
-  ne]
+- [Timeline of nonprofit evaluation][timeline ne]
+- My [draft page for priority-setting in global health][psigh draft], which
+  shows that *explicit prioritization* has been going on since at least the
+  1970s -- around 30 years before the effective altruism movement even formed.
 
 # In what ways is effective altruism new?
 
--   New in the sense that it spreads lessons from effective philanthropy to the
-    world of private donors.
--   Takes the final step back in terms of prioritization to reach *cause
-    prioritization*.
+- New in the sense that it spreads lessons from effective philanthropy to the
+  world of private donors.
+- Takes the final step back in terms of prioritization to reach *cause
+  prioritization*.
 
 [acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\" § Non-obviousness. December 2013."
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
-[tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
+[psigh draft]: https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health "\"User:Riceissa/Priority-setting in global health\". Wikipedia."
 [timeline ne]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "\"Timeline of nonprofit evaluation\". Wikipedia."
+[tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
