@@ -31,5 +31,16 @@ And concludes:
 > But no one seems to be actually worried about this—just smug that they’ve
 > figured out something that no one else had.
 
+Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
+
+> on *effective measurement*: we cannot measure accurately which organizations
+> use resources most effectively. More evidence is always preferred, but precise
+> measurement of the social value of a donated dollar may be impossible. What is
+> the social value of a dollar given to Amnesty International as opposed to
+> Oxfam or an NGO providing vaccines or textbooks? Every measurement involves
+> value judgments. How much more valuable is to save the life of a one-year-old
+> than to send a six-year-old to school?
+
 [ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\". December 2013."
 [katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
+[acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
