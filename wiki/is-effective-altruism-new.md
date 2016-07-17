@@ -80,6 +80,12 @@ Or [Catherine Tumber][tumber]:
 > when you reduce self and others to quantifiable widgets, much as the global
 > financial markets regard us.
 
+# Previous and ongoing prioritization efforts in global health
+
+- [Timeline of nonprofit
+  evaluation][timeline
+  ne]
+
 # In what ways is effective altruism new?
 
 -   New in the sense that it spreads lessons from effective philanthropy to the
@@ -92,3 +98,4 @@ Or [Catherine Tumber][tumber]:
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
 [tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
+[timeline ne]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "\"Timeline of nonprofit evaluation\". Wikipedia."
