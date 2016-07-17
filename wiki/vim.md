@@ -360,6 +360,8 @@ benefits may outweigh the costs):
 - Invoking `:Tutor` in a tmux terminal causes artefacts and duplicate lines to
   appear (probably because of the conceal feature?).
 - Pasting to GMail makes newlines disappear, so that everything is in one giant
-  paragraph. The same doesn't happen with Vim.
+  paragraph. The same doesn't happen with Vim. See the [GitHub thread][clip].
+
+[clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
 
 [^evil]: Emacs Evil mode is also an option (it's a fairly good emulation of Vim).
