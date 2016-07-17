@@ -2,8 +2,9 @@
 title: Is effective altruism new?
 author: Issa Rice
 date: 2016-07-16
-status: draft
 ---
+
+*Note: this is a draft.*
 
 [Katja Grace asks why effective altruism is new and obvious][katja post]
 
