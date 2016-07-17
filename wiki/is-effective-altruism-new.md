@@ -6,6 +6,8 @@ date: 2016-07-16
 
 *Note: this is a draft.*
 
+# Claims that effective altruism is new
+
 [Katja Grace asks why effective altruism is new and obvious][katja post]
 
 Katja:
@@ -77,6 +79,13 @@ Or [Catherine Tumber][tumber]:
 > managed, the better from an ethical perspective. \[...\] That is what happens
 > when you reduce self and others to quantifiable widgets, much as the global
 > financial markets regard us.
+
+# In what ways is effective altruism new?
+
+-   New in the sense that it spreads lessons from effective philanthropy to the
+    world of private donors.
+-   Takes the final step back in terms of prioritization to reach *cause
+    prioritization*.
 
 [acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\". December 2013."
