@@ -88,7 +88,7 @@ Or [Catherine Tumber][tumber]:
     prioritization*.
 
 [acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
-[ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\". December 2013."
+[ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\" § Non-obviousness. December 2013."
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
 [tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
