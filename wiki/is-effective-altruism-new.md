@@ -103,11 +103,11 @@ Or [Catherine Tumber][tumber]:
   causes, philanthropy has already done reasonably well in terms of
   prioritization.
 
-[acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
-[ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\" § Non-obviousness. December 2013."
-[cause selection]: http://blog.givewell.org/2012/05/02/strategic-cause-selection/ "Holden Karnofsky. \"Strategic Cause Selection\". May 2, 2012. GiveWell."
-[gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
-[katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
-[psigh draft]: https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health "\"User:Riceissa/Priority-setting in global health\". Wikipedia."
-[timeline ne]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "\"Timeline of nonprofit evaluation\". Wikipedia."
-[tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
+[acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
+[ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
+[cause selection]: http://blog.givewell.org/2012/05/02/strategic-cause-selection/ "Holden Karnofsky. “Strategic Cause Selection”. May 2, 2012. GiveWell."
+[gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
+[katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. “Why is effective altruism new and obvious?” September 30, 2014. Effective Altruism Forum."
+[psigh draft]: https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health "“User:Riceissa/Priority-setting in global health”. Wikipedia."
+[timeline ne]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "“Timeline of nonprofit evaluation”. Wikipedia."
+[tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
