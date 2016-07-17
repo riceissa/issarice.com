@@ -33,7 +33,7 @@ And concludes:
 
 Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
 
-> on *effective measurement*: we cannot measure accurately which organizations
+> on *effective measurement*: we cannot measure accurately which organizations
 > use resources most effectively. More evidence is always preferred, but precise
 > measurement of the social value of a donated dollar may be impossible. What is
 > the social value of a dollar given to Amnesty International as opposed to
