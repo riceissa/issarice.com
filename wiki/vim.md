@@ -353,4 +353,13 @@ it:
   everwhere, even on Neovim...). Make sure your window height is also small
   relative to the line length.
 
+Things to check in Neovim (or, the list of things that make me wary to switch to
+Neovim, and which I should check back on with Neovim because at some point the
+benefits may outweigh the costs):
+
+- Invoking `:Tutor` in a tmux terminal causes artefacts and duplicate lines to
+  appear (probably because of the conceal feature?).
+- Pasting to GMail makes newlines disappear, so that everything is in one giant
+  paragraph. The same doesn't happen with Vim.
+
 [^evil]: Emacs Evil mode is also an option (it's a fairly good emulation of Vim).
