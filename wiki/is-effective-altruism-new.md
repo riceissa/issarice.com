@@ -53,7 +53,19 @@ Or [Iason Gabriel][gabriel response]:
 > their efforts elsewhere. This approach leads to systematic neglect of those
 > most in need, something that strikes many people as unjust.
 
+Or [Catherine Tumber][tumber]:
+
+> Utilitarianism, with its bent toward quantification, for regarding people as
+> abstract units, is the ethical system of distant administrators. It is no
+> coincidence that it emerged in the nineteenth century with the rise of large,
+> impersonal corporate entities. Singer’s variation rejects the ethical
+> philosophy’s pleasure-or-pain calculus as too subjective and, potentially,
+> hedonistic. His own *preference utilitarianism* seeks to rescue ethics from
+> categorical abstraction while restoring grounds for subjective rational
+> choice.
+
 [acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\". December 2013."
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
 [katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
+[tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
