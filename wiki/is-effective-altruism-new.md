@@ -41,6 +41,19 @@ Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
 > value judgments. How much more valuable is to save the life of a one-year-old
 > than to send a six-year-old to school?
 
-[ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\". December 2013."
-[katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
+Or [Iason Gabriel][gabriel response]:
+
+> For example, effective altruists do not care about who benefits from an
+> intervention or in what way, only that the greatest total gain in well-being
+> is achieved. This means they often overlook the weakest and most vulnerable
+> members of a population, who are frequently illiterate, victims of
+> discrimination, and consigned to geographically remote places. Many of them
+> also suffer from disabilities that place out of reach the welfare gains
+> able-bodied people can achieve. Therefore effective altruists tend to focus
+> their efforts elsewhere. This approach leads to systematic neglect of those
+> most in need, something that strikes many people as unjust.
+
 [acemoglu]: https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
+[ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. \"A critique of effective altruism\". December 2013."
+[gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. \"The Logic of Effective Altruism\". July 1, 2015. Boston Review."
+[katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. \"Why is effective altruism new and obvious?\" September 30, 2014. Effective Altruism Forum."
