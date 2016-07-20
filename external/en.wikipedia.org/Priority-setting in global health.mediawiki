@@ -1,4 +1,4 @@
-In [[global health]], '''priority-setting''' is a term used for the process and strategy of deciding which health interventions to carry out. Priority-setting can be conducted at the disease level (i.e. deciding which disease to alleviate), the overall strategy level (i.e. [[selective primary healthcare]] versus [[primary healthcare]] versus more general [[health systems strengthening]]), research level (i.e. which health research to carry out),<ref name=rudan2007/> or other levels.
+In [[global health]], '''priority-setting''' is a term used for the process and strategy of deciding which health interventions to carry out. Priority-setting can be conducted at the disease level (i.e. deciding which disease to alleviate), the overall strategy level (i.e. [[selective primary healthcare]] versus [[primary healthcare]] versus more general [[health systems strengthening]]), research level (i.e. which health research to carry out),<ref name=rudan2007/> or other levels.<ref name=durand />{{rp|5}}
 
 ==Definitions==
 
@@ -47,51 +47,83 @@ Laying out all the possibilities:
 
 {| class="sortable wikitable"
 |-
-! Year of establishment !! Event !! Level at which prioritization occurred !! Metric or methods used !! Operating costs/funding level
+! Years active !! Event !! Level at which prioritization occurred !! Metric or methods used !! Operating costs/funding level (in US$) !! Results and impact
 |-
-| 1977 || [[WHO Model List of Essential Medicines]] is published.<ref name=glassman2012 /> || Among medicines
+| 1977–present || [[WHO Model List of Essential Medicines]] is published.<ref name=glassman2012 />
+| Among medicines
+|
+|
+| Produced explicit list of medicines. As of 2016, at least 156 countries have created national lists of essential medicines based on the WHO's model list.<ref>{{cite web |url=http://www.who.int/medicines/events/fs/en/ |title=The WHO Essential Medicines List (EML): 30th anniversary |publisher=World Health Organization |accessdate=June 26, 2016}}</ref>
 |-
 | 1987–1989 || The [[Oregon Health Services Commission]] (HSC) is established to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 /> The HSC would publish their first prioritized list of health services in 1993.<ref name=brief_history_or />{{rp|4}} The HSC would be abolished in 2012.<ref>{{cite web |url=https://www.oregon.gov/oha/herc/Pages/Prioritized-List-Overview.aspx |title=Health Evidence Review Commission Prioritized List Overview |accessdate=July 2, 2016 |publisher=Oregon.gov}}</ref> || Health services<ref name="brief_history_or">{{cite web |url=https://www.oregon.gov/oha/herc/Documents/Brief-History-Health-Services-Prioritization-Oregon.pdf |accessdate=July 2, 2016 |title=A Brief History of Health Services Prioritization in Oregon |authors=Bob DiPrete and Darren Coffman |date=March 2007}}</ref>
 | Originally a cost-per-utility formula, but then expert judgment and a method of splitting health services into categories and ranking within categories<ref name=brief_history_or />{{rp|3}}
 |
 |-
-| 1990 || [[Commission on Health Research for Development]]<ref name=rudan2007/> ||
+| 1987–1990
+| [[Commission on Health Research for Development]]<ref name=rudan2007/> is established in 1987 and would publish ''Health Research: Essential Link to Equity in Development'' in 1990.<ref>{{cite web|url=http://www.cohred.org/downloads/open_archive/ComReports_0.pdf |title=''Health Research: Essential Link to Equity in Development'' |year=1990 |publisher=Oxford University Press}}</ref>
+| Research
+| Meetings with experts
+|
+| Produced several reports, including the final report, ''Health Research: Essential Link to Equity in Development''. Resulted in the establishment of the Council on Health Research for Development (COHRED) to promote priority-setting in low- and middle-income countries.
 |-
 | ? || [[Essential National Health Research]] ||
 |-
-| 1993 || ''Disease Control Priorities in Developing Countries'' is published by the [[Disease Control Priorities Project]].<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref><ref name=glassman2012 /> || || Disability-adjusted life year<ref name=rudan2010/><ref name="glassman2012" /> ||
+| 1993
+| ''Disease Control Priorities in Developing Countries'' is published by the [[Disease Control Priorities Project]].<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref><ref name=glassman2012 />
+|
+| Disability-adjusted life year<ref name=rudan2010/><ref name="glassman2012" />
+|
 |-
-| 1993 || The [[World Bank]] publishes the [[1993 World Development Report]].<ref name=glassman2012 />
+| 1993
+| The [[World Bank]] publishes the [[1993 World Development Report]].<ref name=glassman2012 />
+| Health interventions<ref>{{Cite journal| issn = 0268-1080, 1460-2237| volume = 13| issue = 1| pages = 13–31| last1 = Paalman| first1 = Maria| last2 = Bekedam| first2 = Henk| last3 = Hawken| first3 = Laura| last4 = Nyheim| first4 = David| title = A Critical Review of Priority Setting in the Health Sector: The Methodology of the 1993 World Development Report| journal = Health Policy and Planning| accessdate = 2016-07-07| date = 1998-01-01| url = http://heapol.oxfordjournals.org/content/13/1/13| pmid = 10178182}}</ref>{{rp|14}}
+| Disability-adjusted life year<ref>{{Cite journal| doi = 10.2105/AJPH.2004.042002| issn = 0090-0036| volume = 95| issue = 1| pages = 60–70| last = Ruger| first = Jennifer Prah| title = The Changing Role of the WORLD BANK in Global Health| journal = American Journal of Public Health| accessdate = 2016-07-07| date = 2005-01| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449852/| pmid = 15623860| pmc = PMC1449852}}</ref>
+|
+|
 |-
 | 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> ||
 |-
-| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref name=glassman2012 />
+| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref name=glassman2012 /><ref name="rudan2010">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000308 |author=Rudan I, Kapiriri L, Tomlinson M, Balliet M, Cohen B, Chopra M |date=July 13, 2010 |title=Evidence-Based Priority Setting for Health Care and Research: Tools to Support Policy in Maternal, Neonatal, and Child Health in Africa |accessdate=June 23, 2016 |publisher=[[PLOS]]}}</ref>
 |-
 | 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> ||
 |-
 | 2000 || [[Council on Health Research and Development]]<ref name=rudan2007/> ||
 |-
-| 2003 || The [[Bill &amp; Melinda Gates Foundation]] announces the [[Grand Challenges in Global Health]],<ref name=rudan2007/> for which it provides $200 million in funding.<ref name=dcp2_ch4 /> || Research and development
+| 2001 || [[Center for Global Development]]<ref>{{cite web |url=http://www.cgdev.org/working-group/priority-setting-institutions-global-health |title=Priority-Setting Institutions for Global Health |publisher=[[Center for Global Development]] |accessdate=June 21, 2016}}</ref>
+|-
+| 2002 || [[Marginal budgeting for bottlenecks]]<ref name=rudan2010/> (the [[World Bank]], [[UNICEF]], and WHO) is conceived. || || ||
+|-
+| 2003
+| The [[Bill &amp; Melinda Gates Foundation]] announces the [[Grand Challenges in Global Health]],<ref name=rudan2007/> for which it provides $200 million in funding.<ref name=dcp2_ch4 />
+| Research and development
+|
+| 550,000,000 (from the Gates Foundation as of 2008; smaller amounts from others not yet included)
+|
+|-
+| 2003 || The initial version of the [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/><ref name=glassman2012 /> is created.<ref>{{Cite journal| doi = 10.1186/1471-2458-13-S3-S1| issn = 1471-2458| volume = 13| issue = 3| pages = 1–6| last1 = Walker| first1 = Neff| last2 = Tam| first2 = Yvonne| last3 = Friberg| first3 = Ingrid K.| title = Overview of the Lives Saved Tool (LiST)| journal = BMC Public Health| accessdate = 2016-07-17| date = 2013| url = http://dx.doi.org/10.1186/1471-2458-13-S3-S1}}</ref>
 |-
 | 2004 || [[Global Forum for Health Research]] develops the "Combined Approach Matrix".<ref name=rudan2007/> ||
 |-
+| 2004 || The [[Copenhagen Consensus]] (which focuses on aid and development in general, and not just global health) holds its first conference.<ref name="durand">{{Cite journal| last = Durand-Bourjate| first = Yannick| title = Setting Priorities in Health Interventions| accessdate = 2016-07-05| date = February 2010| url = http://www.nadel.ethz.ch/content/dam/ethz/special-interest/gess/nadel-dam/documents/mas/mas-essays/MAS_2008_Durand_Bourjate_Yannick.pdf}}</ref>{{rp|5}}
+|-
+| 2005 || [[Health Metrics Network]] launches. The partnership would dissolve in 2013.<ref>{{cite web |title=WHO’s arrangement for hosting health partnerships and proposals for harmonizing WHO’s work with hosted partnerships |publisher=World Health Organization |date=January 18, 2013 |url=http://apps.who.int/gb/ebwha/pdf_files/EB132/B132_5Add9-en.pdf}}</ref> || Improving data quality<ref name=glassman2012 /> || || 50,000,000 (initially, by the [[Gates Foundation]]; see [[Health Metrics Network#Funding|Health Metrics Network § Funding]] for more) || [[Health Metrics Network#Achievements|Various]]
+|-
+| 2006 || Second edition of ''Disease Control Priorities in Developing Countries'' by the [[Disease Control Priorities Project]]<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2002/09/Initiative-to-Assess-Disease-Control-Priorities-in-Developing-Countries |title=New Initiative Will Assess Disease Control Priorities In Developing Countries |date=September 2002 |publisher=[[Bill & Melinda Gates Foundation]] |accessdate=June 21, 2016}}</ref> is published.<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref> || || ||
+|-
 | 2007 || ''[[The Lancet]]'' publishes a series of papers on priorities in international health.<ref name=rudan2007/> ||
 |-
+| 2007 || [[Health Intervention and Technology Assessment Program]] is established. || Various || ||
+|-
 | 2008 || Supporting Independent Immunization and Vaccine Advisory Committees  Initiative  (SIVAC) is founded.<ref name=glassman2012 /><ref>{{cite web |url=http://www.ivi.org/web/www/02_05_07 |publisher=International Vaccine Institute |title=SIVAC Initiative |accessdate=June 26, 2016}}</ref> || Among vaccines
+|-
+| 2009 || [[EVIDEM Collaboration]] (Evidence and Value: Impact on Decision Making) is established.<ref name=glassman2012 /><ref name="evidem_about">{{cite web |url=https://www.evidem.org/the-evidem-collaboration/about-us/ |publisher=EVIDEM Collaboration |title=About us |accessdate=July 19, 2016}}</ref> || Health interventions<ref name="evidem_about"/> || Literature review,  "discussions with stakeholders", and [[multicriteria decision analysis]] (MCDA)<ref>{{cite web |url=https://www.evidem.org/evidem-framework/decision-criteria-of-the-framework/  |title=Decision criteria of the framework |accessdate=July 19, 2016 |publisher=EVIDEM Collaboration}}</ref>
+|-
+| 2013 || [[International Decision Support Initiative]] launches as the result of a [[Center for Global Development]] working group. || Health interventions || || 12,800,000 (from the [[Bill &amp; Melinda Gates Foundation]] for phase 2 of operations)<ref name="phase2">{{cite web |url=http://www.idsihealth.org/blog/idsi2-launch/ |title=International Decision Support Initiative awarded US$12.8m grant from the Gates Foundation |publisher=iDSI |accessdate=May 26, 2016 |date=January 30, 2016}}</ref><ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/12/OPP1134345 |title=National Institute for Health and Care Excellence |date=December 2015 |publisher=Bill &amp; Melinda Gates Foundation}}</ref> || 
 |}
 
 TODO: migrate the ones in the following list into the table
 
-* [[International Decision Support Initiative]]
-* [[Center for Global Development]]<ref>{{cite web |url=http://www.cgdev.org/working-group/priority-setting-institutions-global-health |title=Priority-Setting Institutions for Global Health |publisher=[[Center for Global Development]] |accessdate=June 21, 2016}}</ref>
-* [[Health Interventions and Technology Assessment Program]]
-* [[Disease Control Priorities Project]]<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2002/09/Initiative-to-Assess-Disease-Control-Priorities-in-Developing-Countries |title=New Initiative Will Assess Disease Control Priorities In Developing Countries |date=September 2002 |publisher=[[Bill & Melinda Gates Foundation]] |accessdate=June 21, 2016}}</ref>
-* [[World Health Organization]] (e.g. [[WHO-CHOICE]])<ref name="rudan2010">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000308 |author=Rudan I, Kapiriri L, Tomlinson M, Balliet M, Cohen B, Chopra M |date=July 13, 2010 |title=Evidence-Based Priority Setting for Health Care and Research: Tools to Support Policy in Maternal, Neonatal, and Child Health in Africa |accessdate=June 23, 2016 |publisher=[[PLOS]]}}</ref>
-* [[Marginal budgeting for bottlenecks]]<ref name=rudan2010/> (the [[World Bank]], [[UNICEF]], and WHO)
-* [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/><ref name=glassman2012 />
-* EVIDEM Collaboration (Evidence and Value: Impact on Decision Making)<ref name=glassman2012 />
-* Programs focused on improving quality of data, which can then be used for priority-setting: [[Health Metrics Network]], [[Demographic and Health Surveys]], and [[Multiple Indicator Cluster Surveys]]<ref name=glassman2012 />
-* [[Copenhagen Consensus]] (though focusing on aid and development in general, and not just global health)<ref>{{Cite journal| last = Durand-Bourjate| first = Yannick| title = Setting Priorities in Health Interventions| accessdate = 2016-07-05| date = February 2010| url = http://www.nadel.ethz.ch/content/dam/ethz/special-interest/gess/nadel-dam/documents/mas/mas-essays/MAS_2008_Durand_Bourjate_Yannick.pdf}}</ref>{{rp|5}}
+* Programs focused on improving quality of data, which can then be used for priority-setting: , [[Demographic and Health Surveys]], and [[Multiple Indicator Cluster Surveys]]<ref name=glassman2012 />
 
 ==Specific priorities==
 
