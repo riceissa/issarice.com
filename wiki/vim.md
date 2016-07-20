@@ -85,6 +85,10 @@ The same argument could be made for some plugins like vim-fugitive.
 
 See also the "light" versus "dark" distinction explained in [Sharpen your Vim with snippets](https://medium.com/brigade-engineering/sharpen-your-vim-with-snippets-767b693886db).
 
+See also ["On sharpening the saw"][saw], which pushes for learning the base Vim
+really well, but also accepting plugins that extend Vim in a way Vim was "meant
+to be" (e.g. surround.vim, fugitive.vim, etc., are all "Vimlike" plugins).
+
 # Small things
 
 - `:windo diffthis` and then `:windo diffoff` when done
@@ -381,5 +385,6 @@ benefits may outweigh the costs):
   paragraph. The same doesn't happen with Vim. See the [GitHub thread][clip].
 
 [clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
+[saw]: http://vimcasts.org/blog/2012/08/on-sharpening-the-saw/
 
 [^evil]: Emacs Evil mode is also an option (it's a fairly good emulation of Vim).
