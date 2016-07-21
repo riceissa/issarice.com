@@ -12,7 +12,8 @@ Examples:
 
 -   People describing in detail all of the things they get from attending EA
     Global without saying how much it cost them (for the ticket, flight, hotel
-    fees, disruption in workflow, etc.).
+    fees, disruption in workflow, etc.). TODO: find that EAG thread that Vipul
+    commented on.
 -   Something I've noticed while doing my [dive into global health][gh]: people
     tend to enthusiastically list all of the impact their program has had,
     without listing how much the program cost. For instance, look at how empty
