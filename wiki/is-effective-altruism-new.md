@@ -90,6 +90,7 @@ Or [Catherine Tumber][tumber]:
   shows that *explicit prioritization* in global health has been going on since
   at least the 1970s -- around 30 years before the effective altruism movement
   even formed.
+-   The [Scientific Charity Movement][scm]
 
 # In what ways is effective altruism new?
 
@@ -115,3 +116,4 @@ Or [Catherine Tumber][tumber]:
 [sc post]: https://www.facebook.com/jefftk/posts/801128155632 "July 23, 2016."
 [timeline ne]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "“Timeline of nonprofit evaluation”. Wikipedia."
 [tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
+[scm]: http://www.jefftk.com/p/scientific-charity-movement "Jeff Kaufman. “Scientific Charity Movement”. July 17, 2016."
