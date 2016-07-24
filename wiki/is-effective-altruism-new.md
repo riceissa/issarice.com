@@ -30,15 +30,15 @@ Katja quotes [Ben Kuhn][ben post], who writes:
 > only came about so recently. For instance, my student group recently hosted
 > Elie Hassenfeld for a talk in which he made remarks to that effect, and I’ve
 > heard other people working for EA organizations express the same sentiment.
-> But no one seems to be actually worried about this—just smug that they’ve
+> But no one seems to be actually worried about this---just smug that they’ve
 > figured out something that no one else had.
 >
 > The “market” for ideas is at least somewhat efficient: most simple, obvious
 > and correct things get thought of fairly quickly after it's possible to think
 > them. If a meme as simple as effective altruism hasn't taken root yet, we
 > should at least try to understand why before throwing our weight behind it.
-> The absence of such attempts—in other words, the fact that non-obviousness
-> doesn’t make effective altruists worried that they’re missing something—is a
+> The absence of such attempts---in other words, the fact that non-obviousness
+> doesn’t make effective altruists worried that they’re missing something---is a
 > strong indicator against the “effective altruists are actually trying”
 > hypothesis.
 
@@ -89,6 +89,18 @@ Or [Catherine Tumber][tumber]:
 > proponents---an approach that not only unjustifiably claims the moral high
 > ground in giving decisions, but also implements this bold claim *by weighing
 > causes and beneficiaries against one another*.
+>
+> \[...\]
+>
+> This approach amounts to little more than charitable imperialism, whereby “my
+> cause” is just, and yours is---to one degree or another---a waste of precious
+> resources. This approach is not informed giving. Were such opinions limited to
+> a small audience, we could reasonably dismiss them as a danger only to those
+> unfortunate enough to hear them. However, in taking on this cause and using
+> the bully pulpit of its website as its forum, GiveWell truly is doing more
+> harm than good to both the donor community and those thousands upon thousands
+> of organizations that are doing much-needed work in areas that the defective
+> altruism fringe deems unworthy.
 
 # Previous and ongoing prioritization efforts in global health
 
