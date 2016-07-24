@@ -75,15 +75,11 @@ Some other points:
   unschooling?"](https://www.quora.com/What-would-Noam-Chomsky-think-of-unschooling/answer/Issa-Rice),
   for instance.
 
-- "[Drawbacks to Formal Education][drawbacks]" by Brian Tomasik
+- ["Drawbacks to Formal Education"][drawbacks] by Brian Tomasik
 
-- "[Free the Education
-  Market](http://www.daveshellenberger.com/free-the-education-market)" by
+- ["Free the Education
+  Market"](http://www.daveshellenberger.com/free-the-education-market) by
   David Shellenberger
-
-- If you are in Washington state, seriously consider early entrance to
-  the University of Washington.  See for instance [Alex K. Chen's
-  review][acad] on Quora.
 
 - Looking at the resources on [Cognito Mentoring]() is a good idea.
 
@@ -93,15 +89,9 @@ Some other points:
 - One can treat the system like a constraint (CM), like a day job (Paul
   Graham), etc.
 
-- Actively search for alternatives.  For example, if one lives in
-  Washington state, then the early entrance program at UW can be a very
-  good option.  Even if one does not enroll in this program, UW is
-  generally accepted to be a decent school (though what you do there is
-  most important)
-
-[drawbacks]: http://briantomasik.com/drawbacks-formal-education/
-[acad]: https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars
-[mainstream]: http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff
+-   Actively search for alternatives.  For example, if one lives in Washington
+    State, then the early entrance programs at UW might be a one option. See for
+    instance [Alex K. Chen's review][acad] on Quora.
 
 ## Paul Graham
 
@@ -929,8 +919,12 @@ Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking
 - _The Genius Famine: Why we need Geniuses, why they are dying out and why we need them_ by  Edward Dutton and Bruce Charlton
 - Spend some time reading through papers in _Medical Hypotheses_.
 
+[acad]: https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars
+[drawbacks]: http://briantomasik.com/drawbacks-formal-education/
 [im comment]: https://www.facebook.com/isaacmorehouse/posts/10157265547735201?comment_id=10157265557855201&comment_tracking=%7B%22tn%22%3A%22R9%22%7D "July 21, 2016. Archived at https://archive.is/Ljxmg#selection-1409.0-1409.66."
+[mainstream]: http://info.cognitomentoring.org/wiki/Stay_mainstream_until_you_have_demonstrated_success_doing_unusual_stuff
 [trade]: http://www.thesavvystreet.com/the-moral-multiculturalism-of-free-trade/ "Stephen Hicks. “The Moral High Ground of Free Trade”. May 4, 2016. The Savvy Street."
+
 
 [^offset]: I like this quote from the comment:
 
