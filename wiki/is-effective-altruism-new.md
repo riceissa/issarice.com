@@ -42,6 +42,9 @@ Katja quotes [Ben Kuhn][ben post], who writes:
 > strong indicator against the “effective altruists are actually trying”
 > hypothesis.
 
+Jeff Kaufman [mentions][sc post] "the paradox of EA being both obvious and new"
+in a Facebook post (implying others have talked about this).
+
 Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
 
 > on *effective measurement*: we cannot measure accurately which organizations
@@ -109,5 +112,6 @@ Or [Catherine Tumber][tumber]:
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. “Why is effective altruism new and obvious?” September 30, 2014. Effective Altruism Forum."
 [psigh draft]: https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health "“User:Riceissa/Priority-setting in global health”. Wikipedia."
+[sc post]: https://www.facebook.com/jefftk/posts/801128155632 "July 23, 2016."
 [timeline ne]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "“Timeline of nonprofit evaluation”. Wikipedia."
 [tumber]: https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
