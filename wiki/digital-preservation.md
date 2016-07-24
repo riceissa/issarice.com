@@ -200,7 +200,7 @@ I don't think I should be surprised at all by this, but I was quite impressed wi
 
 On Firefox, I have the following archive buttons:
 
-<img src="archive-buttons.png" />
+![](archive-buttons.png)
 
 From left to right, these are [Pinboard](https://pinboard.in/), Zotero, and Archive.org.
 The Archive.org button is a bookmarklet with the code:
