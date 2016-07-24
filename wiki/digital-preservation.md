@@ -202,8 +202,9 @@ On Firefox, I have the following archive buttons:
 
 ![](archive-buttons.png)
 
-From left to right, these are [Pinboard](https://pinboard.in/), Zotero, and Archive.org.
-The Archive.org button is a bookmarklet with the code:
+From left to right, these are [Pinboard](https://pinboard.in/), Zotero,
+archive.is, and Archive.org. The Archive.org button is a bookmarklet with the
+code:
 
 ```
 javascript:void(window.open('https://web.archive.org/save/'+location.href))
