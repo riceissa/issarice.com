@@ -85,8 +85,8 @@ Or [Catherine Tumber][tumber]:
 
 [Charity Navigator][cn]:
 
-> defective altruism \[i.e. effective altruism\] is—by the admission of its
-> proponents—an approach that not only unjustifiably claims the moral high
+> defective altruism \[i.e. effective altruism\] is---by the admission of its
+> proponents---an approach that not only unjustifiably claims the moral high
 > ground in giving decisions, but also implements this bold claim *by weighing
 > causes and beneficiaries against one another*.
 
