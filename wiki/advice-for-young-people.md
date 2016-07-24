@@ -923,7 +923,7 @@ Also think about how to get what you want in creative ways; in particular, watch
 - "[Reinventing Explanation](http://michaelnielsen.org/reinventing_explanation/index.html)" by Michael Nielsen.
 Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking_ui.html)".
 
--   "[The Moral High Ground of Free Trade][trade]" (HT Vipul). See also Isaac M.
+-   ["The Moral High Ground of Free Trade"][trade] (HT Vipul). See also Isaac M.
     Morehouse's [comment][im comment], "Incentives matter. Market competition is
     a great civilizing force."
 - _The Genius Famine: Why we need Geniuses, why they are dying out and why we need them_ by  Edward Dutton and Bruce Charlton
