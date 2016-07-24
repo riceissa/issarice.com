@@ -935,6 +935,13 @@ Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking
     > non-moral origin. We use the term “oversocialized” to describe such
     > people.
 
+    Page 48:
+
+    > We use the term “surrogate activity” to designate an activity that is
+    > directed toward an artificial goal that people set up for themselves
+    > merely in order to have some goal to work toward, or, let us say, merely
+    > for the sake of the “fulfillment” that they get from pursuing the goal.
+
 [acad]: https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars
 [drawbacks]: http://briantomasik.com/drawbacks-formal-education/
 [im comment]: https://www.facebook.com/isaacmorehouse/posts/10157265547735201?comment_id=10157265557855201&comment_tracking=%7B%22tn%22%3A%22R9%22%7D "July 21, 2016. Archived at https://archive.is/Ljxmg#selection-1409.0-1409.66."
