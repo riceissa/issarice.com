@@ -929,7 +929,7 @@ Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking
 - _The Genius Famine: Why we need Geniuses, why they are dying out and why we need them_ by  Edward Dutton and Bruce Charlton
 - Spend some time reading through papers in _Medical Hypotheses_.
 
-[im comment]: https://www.facebook.com/isaacmorehouse/posts/10157265547735201?comment_id=10157265557855201&comment_tracking=%7B%22tn%22%3A%22R9%22%7D "July 21, 2016."
+[im comment]: https://www.facebook.com/isaacmorehouse/posts/10157265547735201?comment_id=10157265557855201&comment_tracking=%7B%22tn%22%3A%22R9%22%7D "July 21, 2016. Archived at https://archive.is/Ljxmg#selection-1409.0-1409.66."
 [trade]: http://www.thesavvystreet.com/the-moral-multiculturalism-of-free-trade/ "Stephen Hicks. “The Moral High Ground of Free Trade”. May 4, 2016. The Savvy Street."
 
 [^offset]: I like this quote from the comment:
