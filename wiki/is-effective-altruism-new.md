@@ -45,6 +45,15 @@ Katja quotes [Ben Kuhn][ben post], who writes:
 Jeff Kaufman [mentions][sc post] "the paradox of EA being both obvious and new"
 in a Facebook post (implying others have talked about this).
 
+[Tyler Cowen][cowen]:
+
+> You are lucky enough to have some money to give away: It could be \$100 or \$1
+> million. Whether you are prepared to make a small donation or a big one, you
+> would like to accomplish something good with it.
+>
+> But how do you evaluate the best way to deploy your money? Alas, economic
+> research until now has offered little guidance.
+
 Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
 
 > on *effective measurement*: we cannot measure accurately which organizations
@@ -131,6 +140,7 @@ recommends charities in global health and nutrition):
 [ben post]: http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
 [cause selection]: http://blog.givewell.org/2012/05/02/strategic-cause-selection/ "Holden Karnofsky. “Strategic Cause Selection”. May 2, 2012. GiveWell."
 [cn]: http://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism "Ken Berger and Robert M. Penna. “The Elitist Philanthropy of So-Called Effective Altruism”. November 25, 2013. Stanford Social Innovation Review."
+[cowen]: http://www.nytimes.com/2015/08/16/upshot/effective-altruism-where-charity-and-rationality-meet.html?_r=0 "Tyler Cowen. “Effective Altruism: Where Charity and Rationality Meet”. August 14, 2015. The New York Times."
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [katja post]: http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. “Why is effective altruism new and obvious?” September 30, 2014. Effective Altruism Forum."
 [psigh draft]: https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health "“User:Riceissa/Priority-setting in global health”. Wikipedia."
