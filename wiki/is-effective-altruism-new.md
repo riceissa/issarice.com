@@ -124,6 +124,15 @@ recommends charities in global health and nutrition):
 > of organizations that are doing much-needed work in areas that the defective
 > altruism fringe deems unworthy.
 
+It's difficult to decisively claim that people think effective altruism is
+totally new, and in fact I would expect that if pushed, people would say they're
+not entirely sure. But I still think it *is* notable that people omit discussion
+of priority-setting efforts in global health and treat effective altruism as a
+new movement *because* they prioritize between interventions. It's also
+difficult to convey the "vibe" through quotes; there are probably several more
+like the ones above that I've missed, as well as a more implicit belief that
+effective altruism is new.
+
 # Previous and ongoing prioritization efforts in global health
 
 -   [Timeline of nonprofit evaluation][timeline ne]
