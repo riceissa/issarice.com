@@ -82,6 +82,9 @@ All of this happened from around 7:30 AM to 9:30 AM.
 July 1
 :   I wrote a letter to the IRS to attach with my Form 843 using the following sources:
 
+July 23
+:   Received a CP501 notice from the IRS (which is dated "July 25").
+
     - ["How to Write a Letter of Explanation to the IRS"](http://www.successtaxrelief.com/blog/taxes/how-to-write-a-letter-of-explanation-to-the-irs/)
     - ["How To Write a Letter of Explanation to the IRS"](http://www.slideshare.net/SuccessTaxRelief/how-to-write-a-letter-of-explanation-to-the-irs) (slideshow version)
     - ["Sample IRS Penalty Abatement Request Letter"](http://www.taxdebthelp.com/tax-settlement/penalty-abatement/letter)
