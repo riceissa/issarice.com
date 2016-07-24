@@ -1,7 +1,7 @@
 ---
 title: Is effective altruism new?
 author: Issa Rice
-date: 2016-07-16
+date: 2016-07-24
 ---
 
 *Note: this is a draft.*
@@ -83,7 +83,8 @@ Or [Catherine Tumber][tumber]:
 > when you reduce self and others to quantifiable widgets, much as the global
 > financial markets regard us.
 
-[Charity Navigator][cn]:
+[Charity Navigator][cn] (though part of their criticism is that GiveWell only
+recommends charities in global health and nutrition):
 
 > defective altruism \[i.e. effective altruism\] is---by the admission of its
 > proponents---an approach that not only unjustifiably claims the moral high
