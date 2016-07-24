@@ -144,18 +144,18 @@ effective altruism is new.
 
 # In what ways is effective altruism new?
 
-- New in the sense that it spreads lessons from effective philanthropy to the
-  world of private donors.
-- Takes the final step back in terms of prioritization level to reach *cause
-  prioritization*. GiveWell [outlines in a post][cause selection] that
-  "philanthropists seem to be least thoughtful and to ask the fewest critical
-  questions" when picking causes. But just as well, they say that the subsequent
-  steps -- namely developing a cause-specific "foundation strategy" and
-  evaluating grantees and potential grantees -- "seem likely to lead to at least
-  reasonable results if carried out by people who listen well and keep their
-  minds open". I interpret this as evidence that GiveWell realizes that within
-  causes, philanthropy has already done reasonably well in terms of
-  prioritization.
+-   New in the sense that it spreads lessons from effective philanthropy to the
+    world of private donors.
+-   Takes the final step back in terms of prioritization level to reach *cause
+    prioritization*. GiveWell [outlines in a post][cause selection] that
+    "philanthropists seem to be least thoughtful and to ask the fewest critical
+    questions" when picking causes. But just as well, they say that the
+    subsequent steps -- namely developing a cause-specific "foundation strategy"
+    and evaluating grantees and potential grantees -- "seem likely to lead to at
+    least reasonable results if carried out by people who listen well and keep
+    their minds open". I interpret this as evidence that GiveWell realizes that
+    within causes, philanthropy has already done reasonably well in terms of
+    prioritization.
 
 [acemoglu]:         https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [ben post]:         http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
