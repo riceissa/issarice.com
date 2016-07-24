@@ -146,6 +146,7 @@ effective altruism is new.
 
 -   New in the sense that it spreads lessons from effective philanthropy to the
     world of private donors.
+
 -   Takes the final step back in terms of prioritization level to reach *cause
     prioritization*. GiveWell [outlines in a post][cause selection] that
     "philanthropists seem to be least thoughtful and to ask the fewest critical
@@ -156,6 +157,24 @@ effective altruism is new.
     their minds open". I interpret this as evidence that GiveWell realizes that
     within causes, philanthropy has already done reasonably well in terms of
     prioritization.
+
+-   Also worth quoting is [Brian Tomasik][tomasik comment]:
+
+    > Honestly, I think this idea is one of EA's bigger oversights -- not that
+    > people haven't noticed that EA is recent, but that people don't realize
+    > that it's *not* recent. The components of EA have each existed for
+    > millennia, and movements combining several parts are also ancient. This
+    > particular combination may be a little different from past movements, but
+    > not more than past movements have been from each other.
+    >
+    > On the whole, I think EAs vastly overestimate their value relative to
+    > everyone else in the world who are actually doing some really important
+    > work as well but don't happen to be part of our social circles. I agree
+    > that EAs (myself included) would do well to explore more different
+    > perspectives on the world beyond the boundaries of their community.
+
+    From the framework of "components of EA", I have only examined one component
+    (namely, priority-setting in global health).
 
 [acemoglu]:         https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [ben post]:         http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
@@ -169,4 +188,5 @@ effective altruism is new.
 [sc post]:          https://www.facebook.com/jefftk/posts/801128155632 "July 23, 2016."
 [scm]:              http://www.jefftk.com/p/scientific-charity-movement "Jeff Kaufman. “Scientific Charity Movement”. July 17, 2016. Archived at https://archive.is/q4WBM."
 [timeline ne]:      https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "“Timeline of nonprofit evaluation”. Wikipedia."
+[tomasik comment]:  http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/a57z "Brian Tomasik. Comment on “A critique of effective altruism”. December 2, 2013. Less Wrong"
 [tumber]:           https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
