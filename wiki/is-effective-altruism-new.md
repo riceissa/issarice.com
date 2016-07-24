@@ -139,10 +139,10 @@ effective altruism is new.
     was started by me but expanded significantly by Vipul Naik, documents some
     of the history of evaluating nonprofits, including the [Scientific Charity
     Movement][scm].
--   My [draft page for priority-setting in global health][psigh draft], which
-    shows that *explicit prioritization* in global health has been going on
-    since at least the 1970s -- around 30 years before the effective altruism
-    movement even formed.
+-   My Wikipedia [draft page for "Priority-setting in global health"][psigh
+    draft], which shows that *explicit prioritization* in global health has been
+    going on since at least the 1970s -- around 30 years before the effective
+    altruism movement even formed.
 
 # In what ways is effective altruism new?
 
