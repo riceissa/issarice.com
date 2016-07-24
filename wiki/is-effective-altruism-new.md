@@ -173,8 +173,8 @@ effective altruism is new.
     > that EAs (myself included) would do well to explore more different
     > perspectives on the world beyond the boundaries of their community.
 
-    From the framework of "components of EA", I have only examined one component
-    (namely, priority-setting in global health).
+    From the framework of "components of EA", I have only examined one
+    component, namely, priority-setting in global health.
 
 [acemoglu]:         https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [ben post]:         http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
