@@ -208,7 +208,7 @@ priority-setting in global health.
 I've compiled some of the criticisms of priority-setting in global health at
 <https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health#Reception>,
 though I expect there to be others I haven't encountered. Tentatively, I find it
-interesting that while criticisms of effective altruism's prioritization focuses
+interesting that while criticisms of effective altruism's prioritization focus
 on whether it is okay to prioritize, the criticisms of priority-setting in
 global health focus on the specific approaches taken.
 
