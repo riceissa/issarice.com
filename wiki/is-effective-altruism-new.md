@@ -103,8 +103,7 @@ whether the whole idea of prioritizing among causes or interventions is new.
 The following are some criticisms of effective altruism that specifically
 mention prioritization.
 
-[Charity Navigator][cn] (though part of their criticism is that GiveWell only
-recommends charities in global health and nutrition):
+[Charity Navigator][cn]:
 
 > defective altruism \[i.e. effective altruism; the authors decided to call the
 > movement "defective altruism" throughout the article\] is---by the admission
