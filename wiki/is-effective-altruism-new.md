@@ -188,7 +188,7 @@ effective altruism is new.
 [cause selection]:  http://blog.givewell.org/2012/05/02/strategic-cause-selection/ "Holden Karnofsky. “Strategic Cause Selection”. May 2, 2012. GiveWell."
 [cn]:               http://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism "Ken Berger and Robert M. Penna. “The Elitist Philanthropy of So-Called Effective Altruism”. November 25, 2013. Stanford Social Innovation Review."
 [cowen]:            http://www.nytimes.com/2015/08/16/upshot/effective-altruism-where-charity-and-rationality-meet.html?_r=0 "Tyler Cowen. “Effective Altruism: Where Charity and Rationality Meet”. August 14, 2015. The Upshot – The New York Times."
-[etg i]: http://www.jefftk.com/p/history-of-earning-to-give "Jeff Kaufman. ‘History of “Earning to Give” ’. September 18, 2012."
+[etg i]: http://www.jefftk.com/p/history-of-earning-to-give "Jeff Kaufman. ‘History of “Earning to Give”&thinsp;’. September 18, 2012."
 [etg ii]: http://www.jefftk.com/p/history-of-earning-to-give-ii "Jeff Kaufman. “History of Earning to Give II”. August 25, 2013."
 [etg iii]: http://www.jefftk.com/p/history-of-earning-to-give-iii-john-wesley "Jeff Kaufman. “History of Earning to Give III: John Wesley”. October 1, 2013."
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
