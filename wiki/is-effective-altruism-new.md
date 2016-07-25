@@ -4,7 +4,10 @@ author: Issa Rice
 date: 2016-07-24
 ---
 
-*Note: this is a draft.*
+*Note: this is a draft. The claims here have not been stress-tested, so
+plausibly could turn out to be misguided. The general thrust seems right to me
+(especially the existence of past priority-setting efforts in global health),
+and the main uncertainty is regarding interpreting claims of newness.*
 
 # Summary
 
