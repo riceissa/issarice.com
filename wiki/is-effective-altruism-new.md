@@ -207,6 +207,17 @@ effective altruism is new.
     From the framework of "components of EA", I have only examined one
     component, namely, priority-setting in global health.
 
+    Similarly, [Philip\_W][philip] comments that the Rotary Club has some of the
+    aspects of effective altruism.
+
+    And [Ishaan][ishaan]:
+
+    > Consolidating an old idea under a catchy brand using the momentum of the
+    > internet / being the most recent innovator does not mean you've invented
+    > an idea. EA's stand on the shoulders of many people who have been trying
+    > to do the same thing before them. Notions of things such as "QALYs", for
+    > example, have been around for 50 years.
+
 # Conclusion
 
 - suggest people to look more into history of philanthropy and so forth (e.g.
@@ -221,8 +232,10 @@ effective altruism is new.
 [etg ii]: http://www.jefftk.com/p/history-of-earning-to-give-ii "Jeff Kaufman. “History of Earning to Give II”. August 25, 2013."
 [etg iii]: http://www.jefftk.com/p/history-of-earning-to-give-iii-john-wesley "Jeff Kaufman. “History of Earning to Give III: John Wesley”. October 1, 2013."
 [gabriel response]: https://bostonreview.net/forum/logic-effective-altruism/iason-gabriel-response-effective-altruism "Iason Gabriel. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
+[ishaan]:           http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/a51z "Ishaan. Comment on “A critique of effective altruism”. December 2, 2013. LessWrong."
 [katja post]:       http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. “Why is effective altruism new and obvious?” September 30, 2014. Effective Altruism Forum."
 [nonprofit]:        https://nonprofitquarterly.org/2016/02/24/can-effective-altruism-really-change-the-world/ "Lisa Herzog. ‘Can “Effective Altruism” Really Change The World?’ February 24, 2016. Nonprofit Quarterly."
+[philip]:           http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/ajwj "Philip_W. Comment on “A critique of effective altruism”. February 12, 2014. LessWrong."
 [psigh draft]:      https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health "“User:Riceissa/Priority-setting in global health”. Wikipedia."
 [sc post]:          https://www.facebook.com/jefftk/posts/801128155632 "Jeff Kaufman. July 23, 2016. Archived at https://archive.is/q4WBM."
 [scm]:              http://www.jefftk.com/p/scientific-charity-movement "Jeff Kaufman. “Scientific Charity Movement”. July 17, 2016."
