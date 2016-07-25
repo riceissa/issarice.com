@@ -6,6 +6,21 @@ date: 2016-07-24
 
 *Note: this is a draft.*
 
+# Summary
+
+Both members of the effective altruism movement as well as opponents explicitly
+claim or imply that effective altruism is "new" in the sense that it prioritizes
+between different causes and interventions. I claim that while effective
+altruism is new for bringing the lessons of effective philanthropy to the world
+of private donors, for cause prioritization, for advancing arguments around
+earning to give, and for producing a unique movement around the idea of
+effective philanthropy, that the idea of prioritization itself is not new. In
+particular, I will draw on the history of priority-setting in global health (one
+of the main causes of effective altruism) to show this. I finally suggest
+exploring the history of global health, philanthropy, and various movements as a
+way to ground the movement among past and current efforts and to guard against
+criticisms of arrogance.
+
 # Claims that effective altruism is new
 
 [Katja Grace asks why effective altruism is new and obvious][katja post]
@@ -182,6 +197,11 @@ effective altruism is new.
 
     From the framework of "components of EA", I have only examined one
     component, namely, priority-setting in global health.
+
+# Conclusion
+
+- suggest people to look more into history of philanthropy and so forth (e.g.
+  look at GiveWell's work)
 
 [acemoglu]:         https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [ben post]:         http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
