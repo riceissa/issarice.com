@@ -139,15 +139,19 @@ This could mean:
 
 [Iason Gabriel][gabriel response]:
 
-> For example, effective altruists do not care about who benefits from an
-> intervention or in what way, only that the greatest total gain in well-being
-> is achieved. This means they often overlook the weakest and most vulnerable
-> members of a population, who are frequently illiterate, victims of
-> discrimination, and consigned to geographically remote places. Many of them
-> also suffer from disabilities that place out of reach the welfare gains
-> able-bodied people can achieve. Therefore effective altruists tend to focus
-> their efforts elsewhere. This approach leads to systematic neglect of those
-> most in need, something that strikes many people as unjust.
+> effective altruists do not care about who benefits from an intervention or in
+> what way, only that the greatest total gain in well-being is achieved. This
+> means they often overlook the weakest and most vulnerable members of a
+> population, who are frequently illiterate, victims of discrimination, and
+> consigned to geographically remote places. Many of them also suffer from
+> disabilities that place out of reach the welfare gains able-bodied people can
+> achieve. Therefore effective altruists tend to focus their efforts elsewhere.
+> This approach leads to systematic neglect of those most in need, something
+> that strikes many people as unjust.
+
+As with the Charity Navigator quote above, Gabriel is possibly implying that
+effective altruism is new (by not extending the criticism to others who do the
+same sort of prioritization).
 
 In contrast, some, like [Catherine Tumber][tumber], make it clear that they are
 responding to utilitarianism itself:
