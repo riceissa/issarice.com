@@ -7,23 +7,25 @@ date: 2016-07-24
 *Note: this is a draft. The claims here have not been stress-tested, so
 plausibly could turn out to be misguided. The general thrust seems right to me
 (especially the existence of past priority-setting efforts in global health),
-and the main uncertainty is regarding interpreting claims of newness.*
+and the main uncertainty is regarding interpreting claims of newness. In
+addition, the parts of EA I claim are new could turn out not to be new (given
+further investigation).*
 
 # Summary
 
 Both members of the effective altruism movement as well as opponents explicitly
 claim or imply that effective altruism is "new" in the sense that it prioritizes
-between different causes and interventions. I claim that while effective
-altruism is new for
+between different causes and interventions. I claim that effective altruism is
+new for:
 
 - bringing the lessons of effective philanthropy to the world of private donors,
 - cause prioritization,
 - advancing arguments around earning to give, and
-- producing a unique movement around the idea of effective philanthropy,
+- producing a unique movement around the idea of effective philanthropy.
 
-that the idea of prioritization itself is not new. In particular, I will draw on
-the history of priority-setting in global health (one of the main causes of
-effective altruism) to show this. I finally suggest exploring the history of
+However, the idea of prioritization itself is not new. In particular, I will
+draw on the history of priority-setting in global health (one of the main causes
+of effective altruism) to show this. I finally suggest exploring the history of
 global health, philanthropy, and various movements as a way to ground the
 movement among past and current efforts and to guard against criticisms of
 arrogance.
