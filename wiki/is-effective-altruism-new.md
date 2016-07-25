@@ -128,13 +128,14 @@ seems to me that it would apply to priority-setting in global health as well.
 This could mean:
 
 -   Charity Navigator is implying that effective altruism is new for its
-    prioritization efforts.
--   Charity Navigator only intended to restrict their criticism to effective
-    altruism, and had they had more time, would have extended their criticism to
-    prioritization efforts in global health.
--   Charity Navigator for some reason restricts their criticism of
-    prioritization efforts to private donations, but is fine with prioritization
-    efforts done by national or international bodies.
+    prioritization efforts (because nobody else does this sort of
+    prioritization).
+-   Charity Navigator only intended to restrict its criticism to effective
+    altruism, and had it had more time, would have extended its criticism to
+    prioritization efforts in global health and elsewhere.
+-   Charity Navigator for some reason restricts its criticism of prioritization
+    efforts to private donations, but is fine with prioritization efforts done
+    by national or international bodies.
 
 [Iason Gabriel][gabriel response]:
 
