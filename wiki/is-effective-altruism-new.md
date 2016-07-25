@@ -169,6 +169,11 @@ effective altruism is new.
     going on since at least the 1970s -- around 30 years before the effective
     altruism movement even formed.
 
+# Criticisms of priority-setting in global health
+
+It is interesting to compare criticisms of effective altruism to those of
+priority-setting in global health.
+
 # In what ways is effective altruism new?
 
 -   New in the sense that it spreads lessons from effective philanthropy to the
