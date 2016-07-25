@@ -154,8 +154,8 @@ effective altruism is new (by not extending the criticism to others who do the
 same sort of prioritization).
 
 In contrast, some, like [Catherine Tumber][tumber], make it clear that they are
-responding to utilitarianism itself, and is simply *instantiating the criticism*
-because she is talking about effective altruism:
+responding to utilitarianism itself, and are simply *instantiating the
+criticism* because they happen to be talking about effective altruism:
 
 > Utilitarianism, with its bent toward quantification, for regarding people as
 > abstract units, is the ethical system of distant administrators. It is no
@@ -164,9 +164,11 @@ because she is talking about effective altruism:
 > philosophy's pleasure-or-pain calculus as too subjective and, potentially,
 > hedonistic. His own *preference utilitarianism* seeks to rescue ethics from
 > categorical abstraction while restoring grounds for subjective rational
-> choice. \[...\]
+> choice.
 >
-> \[...\] The suffering are units to be managed effectively; the more of them so
+> \[...\]
+>
+> The suffering are units to be managed effectively; the more of them so
 > managed, the better from an ethical perspective. \[...\] That is what happens
 > when you reduce self and others to quantifiable widgets, much as the global
 > financial markets regard us.
