@@ -1,7 +1,7 @@
 ---
 title: Is effective altruism new?
 author: Issa Rice
-date: 2016-07-24
+date: 2016-07-25
 ---
 
 *Note: this is a draft. The claims here have not been stress-tested, so
