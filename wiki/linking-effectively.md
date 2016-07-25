@@ -148,6 +148,18 @@ markup when they make the output better (for instance using the Unicode
 thinspace between two consecutive quote marks, even if an ASCII space looks the
 same in a terminal).
 
+# Desiderata
+
+-   Works in a "single-source" way, so that the same output works for both HTML
+    and PDF (and possibly more).
+-   Prioritize readability over writability (though easy input is also a plus).
+    Within readability, prioritize final output readability over source markup
+    readability. Things that make links more readable in final output:
+    intuitively being able to click on links. Footnotes are easier to use than
+    endnotes in paper form (less flipping back and forth). (There seems to be a
+    debate on footnote citation vs inline citation within the legal community,
+    which might be worth looking into.)
+
 # See also
 
 - [Durable link]()
