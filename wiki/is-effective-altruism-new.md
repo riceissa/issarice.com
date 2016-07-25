@@ -33,6 +33,15 @@ criticisms of arrogance.
 
 # Claims that effective altruism is new
 
+In this section, I collect statements along the lines that effective altruism is
+a new idea, specifically for trying to prioritize between interventions. I
+include both statements from those in the broader effective altruism community
+(though I realize that community membership is a fuzzy notion) as well as from
+pieces critical of the effective altruism movement. I also want to emphasize
+that there is quite a bit of uncertainty regarding interpreting claims of
+newness; in many cases it is not clear what precisely people are claiming or
+implying.
+
 [Katja Grace asks why effective altruism is new and obvious][katja post]
 
 Katja:
