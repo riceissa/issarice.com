@@ -203,8 +203,9 @@ mentioned above.
 > that EAs (myself included) would do well to explore more different
 > perspectives on the world beyond the boundaries of their community.
 
-From the framework of "components of EA", I have only examined one
-component, namely, priority-setting in global health.
+From the framework of "components of EA", I will only examine priority-setting
+and the evaluation of nonprofits. Moreover for the former, I have only looked
+for precedents in global health.
 
 Similarly, [Philip\_W][philip] comments that the Rotary Club has some of the
 aspects of effective altruism.
