@@ -42,23 +42,8 @@ that there is quite a bit of uncertainty regarding interpreting claims of
 newness; in many cases it is not clear what precisely people are claiming or
 implying.
 
-[Katja Grace asks why effective altruism is new and obvious][katja post]
-
-Katja:
-
-> On the other hand, if an idea is too obviously correct for anyone to advocate
-> for, you might expect more people to actually be doing it, or trying to do it.
-> I'm not sure how many people were trying to be effective altruists in the past
-> on their own, but I don't think it was a large fraction.
-
-And concludes:
-
-> If Effective Altruism really stands for pursuing unusual values, and
-> furthermore doing this via zealous emphasis on accurate metrics, I'm not
-> especially surprised that it wasn't thought of years ago, nor that people
-> disagree.
-
-Katja quotes [Ben Kuhn][ben post], who writes:
+[Katja Grace asks why effective altruism is "new and obvious"][katja post] in a
+post, and begins by quoting [Ben Kuhn][ben post], who writes:
 
 > Effective altruists often express surprise that the idea of effective altruism
 > only came about so recently. For instance, my student group recently hosted
@@ -76,10 +61,24 @@ Katja quotes [Ben Kuhn][ben post], who writes:
 > strong indicator against the “effective altruists are actually trying”
 > hypothesis.
 
+Katja writes:
+
+> if an idea is too obviously correct for anyone to advocate for, you might
+> expect more people to actually be doing it, or trying to do it. I'm not sure
+> how many people were trying to be effective altruists in the past on their
+> own, but I don't think it was a large fraction.
+
+And concludes:
+
+> If Effective Altruism really stands for pursuing unusual values, and
+> furthermore doing this via zealous emphasis on accurate metrics, I'm not
+> especially surprised that it wasn't thought of years ago, nor that people
+> disagree.
+
 Jeff Kaufman [mentions][sc post] "the paradox of EA being both obvious and new"
 in a Facebook post (implying others have talked about this).
 
-[Tyler Cowen][cowen]:
+[Tyler Cowen writes][cowen]:
 
 > You are lucky enough to have some money to give away: It could be \$100 or \$1
 > million. Whether you are prepared to make a small donation or a big one, you
@@ -88,10 +87,8 @@ in a Facebook post (implying others have talked about this).
 > But how do you evaluate the best way to deploy your money? Alas, economic
 > research until now has offered little guidance.
 
-(But what does he mean by "economic research" and "now"?)
+It's not clear what exactly he means by "economic research" and "until now".
 
-Some of these are unclear about whether they just mean that EA itself is new, or
-whether the whole idea of prioritizing among causes or interventions is new.
 [Lisa Herzog][nonprofit]:
 
 > Whatever your whims or good intentions, there will be lots of organizations
@@ -100,7 +97,10 @@ whether the whole idea of prioritizing among causes or interventions is new.
 > that there’s a more neutral and “scientific” approach to the thorny questions
 > of philanthropy.
 
-Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
+Note that it's unclear about whether she just means that EA itself is new, or
+whether the whole idea of prioritizing among causes or interventions is new.
+
+From [Daron Acemoglu][acemoglu], in a piece critical of effective altruism:
 
 > on *effective measurement*: we cannot measure accurately which organizations
 > use resources most effectively. More evidence is always preferred, but precise
@@ -109,6 +109,12 @@ Even from critics of effective altruism; from [Daron Acemoglu][acemoglu]:
 > Oxfam or an NGO providing vaccines or textbooks? Every measurement involves
 > value judgments. How much more valuable is to save the life of a one-year-old
 > than to send a six-year-old to school?
+
+Here, it's uncertain whether he is criticizing effective altruism because he
+happens to be responding to Singer, or because is criticizing prioritization in
+general and is using effective altruism as an example, or whether he is
+criticizing prioritization in general and is using effective altruism because he
+takes effective altruism as the most prominent instance of prioritization.
 
 Or [Iason Gabriel][gabriel response]:
 
