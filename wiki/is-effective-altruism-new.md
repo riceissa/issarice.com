@@ -252,7 +252,6 @@ global health focus on the specific approaches taken.
 
 -   New in the sense that it spreads lessons from effective philanthropy to the
     world of private donors.
-
 -   Takes the final step back in terms of prioritization level to reach *cause
     prioritization*. GiveWell [outlines in a post][cause selection] that
     "philanthropists seem to be least thoughtful and to ask the fewest critical
@@ -263,7 +262,6 @@ global health focus on the specific approaches taken.
     their minds open". I interpret this as evidence that GiveWell realizes that
     within causes, philanthropy has already done reasonably well in terms of
     prioritization.
-
 -   Earning to give: the idea itself did not seem to originate within the EA
     movement, but the EA movement seems to have popularized the idea and also
     combined it with considerations of replaceability. For more on this, see
