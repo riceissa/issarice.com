@@ -100,33 +100,8 @@ It's not clear what exactly he means by "economic research" and "until now".
 Note that it's unclear about whether she just means that EA itself is new, or
 whether the whole idea of prioritizing among causes or interventions is new.
 
-Or [Iason Gabriel][gabriel response]:
-
-> For example, effective altruists do not care about who benefits from an
-> intervention or in what way, only that the greatest total gain in well-being
-> is achieved. This means they often overlook the weakest and most vulnerable
-> members of a population, who are frequently illiterate, victims of
-> discrimination, and consigned to geographically remote places. Many of them
-> also suffer from disabilities that place out of reach the welfare gains
-> able-bodied people can achieve. Therefore effective altruists tend to focus
-> their efforts elsewhere. This approach leads to systematic neglect of those
-> most in need, something that strikes many people as unjust.
-
-Or [Catherine Tumber][tumber]:
-
-> Utilitarianism, with its bent toward quantification, for regarding people as
-> abstract units, is the ethical system of distant administrators. It is no
-> coincidence that it emerged in the nineteenth century with the rise of large,
-> impersonal corporate entities. Singer's variation rejects the ethical
-> philosophy's pleasure-or-pain calculus as too subjective and, potentially,
-> hedonistic. His own *preference utilitarianism* seeks to rescue ethics from
-> categorical abstraction while restoring grounds for subjective rational
-> choice. \[...\]
->
-> \[...\] The suffering are units to be managed effectively; the more of them so
-> managed, the better from an ethical perspective. \[...\] That is what happens
-> when you reduce self and others to quantifiable widgets, much as the global
-> financial markets regard us.
+The following are some criticisms of effective altruism that specifically
+mention prioritization.
 
 [Charity Navigator][cn] (though part of their criticism is that GiveWell only
 recommends charities in global health and nutrition):
@@ -147,6 +122,35 @@ recommends charities in global health and nutrition):
 > harm than good to both the donor community and those thousands upon thousands
 > of organizations that are doing much-needed work in areas that the defective
 > altruism fringe deems unworthy.
+
+[Iason Gabriel][gabriel response]:
+
+> For example, effective altruists do not care about who benefits from an
+> intervention or in what way, only that the greatest total gain in well-being
+> is achieved. This means they often overlook the weakest and most vulnerable
+> members of a population, who are frequently illiterate, victims of
+> discrimination, and consigned to geographically remote places. Many of them
+> also suffer from disabilities that place out of reach the welfare gains
+> able-bodied people can achieve. Therefore effective altruists tend to focus
+> their efforts elsewhere. This approach leads to systematic neglect of those
+> most in need, something that strikes many people as unjust.
+
+In contrast, some, like [Catherine Tumber][tumber], make it clear that they are
+responding to utilitarianism itself:
+
+> Utilitarianism, with its bent toward quantification, for regarding people as
+> abstract units, is the ethical system of distant administrators. It is no
+> coincidence that it emerged in the nineteenth century with the rise of large,
+> impersonal corporate entities. Singer's variation rejects the ethical
+> philosophy's pleasure-or-pain calculus as too subjective and, potentially,
+> hedonistic. His own *preference utilitarianism* seeks to rescue ethics from
+> categorical abstraction while restoring grounds for subjective rational
+> choice. \[...\]
+>
+> \[...\] The suffering are units to be managed effectively; the more of them so
+> managed, the better from an ethical perspective. \[...\] That is what happens
+> when you reduce self and others to quantifiable widgets, much as the global
+> financial markets regard us.
 
 It's difficult to decisively claim that people think effective altruism is
 totally new, and in fact I would expect that if pushed, people would say they're
