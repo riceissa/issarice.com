@@ -184,7 +184,11 @@ effective altruism is new.
 
 # Previous remarks that effective altruism isn't new
 
-Also worth quoting is [Brian Tomasik][tomasik comment]:
+Several people have noted that effective altruism isn't new. The instances of
+this I could find are all in response to [Ben Kuhn's post][ben post] that was
+mentioned above.
+
+[Brian Tomasik][tomasik comment]:
 
 > Honestly, I think this idea is one of EA's bigger oversights -- not that
 > people haven't noticed that EA is recent, but that people don't realize
