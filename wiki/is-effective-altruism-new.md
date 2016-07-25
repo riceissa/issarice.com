@@ -228,7 +228,6 @@ priority-setting in global health.
 - suggest people to look more into history of philanthropy and so forth (e.g.
   look at GiveWell's work)
 
-[acemoglu]:         https://bostonreview.net/forum/logic-effective-altruism/daron-acemoglu-response-effective-altruism "Daron Acemoglu. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [ben post]:         http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
 [cause selection]:  http://blog.givewell.org/2012/05/02/strategic-cause-selection/ "Holden Karnofsky. “Strategic Cause Selection”. May 2, 2012. GiveWell."
 [cn]:               http://ssir.org/articles/entry/the_elitist_philanthropy_of_so_called_effective_altruism "Ken Berger and Robert M. Penna. “The Elitist Philanthropy of So-Called Effective Altruism”. November 25, 2013. Stanford Social Innovation Review."
