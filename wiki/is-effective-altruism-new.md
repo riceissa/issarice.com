@@ -182,6 +182,37 @@ difficult to convey the "vibe" through quotes; there are probably several more
 like the ones above that I've missed, as well as a more implicit belief that
 effective altruism is new.
 
+# Previous remarks that effective altruism isn't new
+
+Also worth quoting is [Brian Tomasik][tomasik comment]:
+
+> Honestly, I think this idea is one of EA's bigger oversights -- not that
+> people haven't noticed that EA is recent, but that people don't realize
+> that it's *not* recent. The components of EA have each existed for
+> millennia, and movements combining several parts are also ancient. This
+> particular combination may be a little different from past movements, but
+> not more than past movements have been from each other.
+>
+> On the whole, I think EAs vastly overestimate their value relative to
+> everyone else in the world who are actually doing some really important
+> work as well but don't happen to be part of our social circles. I agree
+> that EAs (myself included) would do well to explore more different
+> perspectives on the world beyond the boundaries of their community.
+
+From the framework of "components of EA", I have only examined one
+component, namely, priority-setting in global health.
+
+Similarly, [Philip\_W][philip] comments that the Rotary Club has some of the
+aspects of effective altruism.
+
+And [Ishaan][ishaan]:
+
+> Consolidating an old idea under a catchy brand using the momentum of the
+> internet / being the most recent innovator does not mean you've invented
+> an idea. EA's stand on the shoulders of many people who have been trying
+> to do the same thing before them. Notions of things such as "QALYs", for
+> example, have been around for 50 years.
+
 # Previous and ongoing prioritization efforts in global health and philanthropy
 
 Now I aim to show that prioritization itself is not new in global health or in
@@ -232,35 +263,6 @@ global health focus on the specific approaches taken.
     movement, but the EA movement seems to have popularized the idea and also
     combined it with considerations of replaceability. For more on this, see
     Jeff Kaufman's posts: parts [I][etg i], [II][etg ii], and [III][etg iii].
-
--   Also worth quoting is [Brian Tomasik][tomasik comment]:
-
-    > Honestly, I think this idea is one of EA's bigger oversights -- not that
-    > people haven't noticed that EA is recent, but that people don't realize
-    > that it's *not* recent. The components of EA have each existed for
-    > millennia, and movements combining several parts are also ancient. This
-    > particular combination may be a little different from past movements, but
-    > not more than past movements have been from each other.
-    >
-    > On the whole, I think EAs vastly overestimate their value relative to
-    > everyone else in the world who are actually doing some really important
-    > work as well but don't happen to be part of our social circles. I agree
-    > that EAs (myself included) would do well to explore more different
-    > perspectives on the world beyond the boundaries of their community.
-
-    From the framework of "components of EA", I have only examined one
-    component, namely, priority-setting in global health.
-
-    Similarly, [Philip\_W][philip] comments that the Rotary Club has some of the
-    aspects of effective altruism.
-
-    And [Ishaan][ishaan]:
-
-    > Consolidating an old idea under a catchy brand using the momentum of the
-    > internet / being the most recent innovator does not mean you've invented
-    > an idea. EA's stand on the shoulders of many people who have been trying
-    > to do the same thing before them. Notions of things such as "QALYs", for
-    > example, have been around for 50 years.
 
 # Conclusion
 
