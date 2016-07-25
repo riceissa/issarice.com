@@ -196,14 +196,21 @@ philanthropy in general. Consider the following:
     effective altruism movement emerged. Note that this isn't to imply that
     effective altruism has not refined these ideas.
 -   My Wikipedia [draft page for "Priority-setting in global health"][psigh
-    draft], which shows that *explicit prioritization* in global health has been
-    going on since at least the 1970s -- around 30 years before the effective
-    altruism movement even formed.
+    draft] shows that *explicit prioritization* in global health has been going
+    on since at least the 1970s -- around 30 years before the effective altruism
+    movement even formed.
 
 # Criticisms of priority-setting in global health
 
 It is interesting to compare criticisms of effective altruism to those of
 priority-setting in global health.
+
+I've compiled some of the criticisms of priority-setting in global health at
+<https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health#Reception>,
+though I expect there to be others I haven't encountered. Tentatively, I find it
+interesting that while criticisms of effective altruism's prioritization focuses
+on whether it is okay to prioritize, the criticisms of priority-setting in
+global health focus on the specific approaches taken.
 
 # In what ways is effective altruism new?
 
