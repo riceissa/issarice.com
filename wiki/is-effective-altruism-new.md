@@ -100,22 +100,6 @@ It's not clear what exactly he means by "economic research" and "until now".
 Note that it's unclear about whether she just means that EA itself is new, or
 whether the whole idea of prioritizing among causes or interventions is new.
 
-From [Daron Acemoglu][acemoglu], in a piece critical of effective altruism:
-
-> on *effective measurement*: we cannot measure accurately which organizations
-> use resources most effectively. More evidence is always preferred, but precise
-> measurement of the social value of a donated dollar may be impossible. What is
-> the social value of a dollar given to Amnesty International as opposed to
-> Oxfam or an NGO providing vaccines or textbooks? Every measurement involves
-> value judgments. How much more valuable is to save the life of a one-year-old
-> than to send a six-year-old to school?
-
-Here, it's uncertain whether he is criticizing effective altruism because he
-happens to be responding to Singer, or because is criticizing prioritization in
-general and is using effective altruism as an example, or whether he is
-criticizing prioritization in general and is using effective altruism because he
-takes effective altruism as the most prominent instance of prioritization.
-
 Or [Iason Gabriel][gabriel response]:
 
 > For example, effective altruists do not care about who benefits from an
