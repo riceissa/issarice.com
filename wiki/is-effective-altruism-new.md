@@ -191,8 +191,10 @@ philanthropy in general. Consider the following:
     (initially written by me but expanded significantly by Vipul Naik) documents
     some of the history of evaluating nonprofits, including the [Scientific
     Charity Movement][scm]. Various aspects of prioritization like
-    data-collection, . Note that this isn't to imply that effective altruism has
-    no value-added.
+    data-collection, the idea of a charity watchdog, and outcome-based
+    prioritization were in existence for at least several decades before the
+    effective altruism movement emerged. Note that this isn't to imply that
+    effective altruism has not refined these ideas.
 -   My Wikipedia [draft page for "Priority-setting in global health"][psigh
     draft], which shows that *explicit prioritization* in global health has been
     going on since at least the 1970s -- around 30 years before the effective
