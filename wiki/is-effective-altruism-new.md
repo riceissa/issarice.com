@@ -106,10 +106,11 @@ mention prioritization.
 [Charity Navigator][cn] (though part of their criticism is that GiveWell only
 recommends charities in global health and nutrition):
 
-> defective altruism \[i.e. effective altruism\] is---by the admission of its
-> proponents---an approach that not only unjustifiably claims the moral high
-> ground in giving decisions, but also implements this bold claim *by weighing
-> causes and beneficiaries against one another*.
+> defective altruism \[i.e. effective altruism; the authors decided to call the
+> movement "defective altruism" throughout the article\] is---by the admission
+> of its proponents---an approach that not only unjustifiably claims the moral
+> high ground in giving decisions, but also implements this bold claim *by
+> weighing causes and beneficiaries against one another*.
 >
 > \[...\]
 >
