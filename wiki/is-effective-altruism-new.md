@@ -154,7 +154,8 @@ effective altruism is new (by not extending the criticism to others who do the
 same sort of prioritization).
 
 In contrast, some, like [Catherine Tumber][tumber], make it clear that they are
-responding to utilitarianism itself:
+responding to utilitarianism itself, and is simply *instantiating the criticism*
+because she is talking about effective altruism:
 
 > Utilitarianism, with its bent toward quantification, for regarding people as
 > abstract units, is the ethical system of distant administrators. It is no
