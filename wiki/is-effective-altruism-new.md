@@ -25,10 +25,11 @@ new for:
 
 However, the idea of prioritization itself is not new. In particular, I will
 draw on the history of priority-setting in global health (one of the main causes
-of effective altruism) to show this. I finally suggest exploring the history of
-global health, philanthropy, and various movements as a way to ground the
-movement in past and current efforts and to guard against criticisms of
-arrogance.
+of effective altruism) to show this, and I also consolidate previous critiques
+of the effective altruism movement along these lines. I finally suggest
+exploring the history of global health, philanthropy, and various movements as a
+way to ground the movement in past and current efforts and to guard against
+criticisms of arrogance.
 
 # Claims that effective altruism is new
 
