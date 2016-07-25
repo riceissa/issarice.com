@@ -187,10 +187,12 @@ effective altruism is new.
 Now I aim to show that prioritization itself is not new in global health or in
 philanthropy in general. Consider the following:
 
--   The ["Timeline of nonprofit evaluation"][timeline ne] on Wikipedia, which
-    was initially written by me but expanded significantly by Vipul Naik,
-    documents some of the history of evaluating nonprofits, including the
-    [Scientific Charity Movement][scm].
+-   The ["Timeline of nonprofit evaluation"][timeline ne] on Wikipedia
+    (initially written by me but expanded significantly by Vipul Naik) documents
+    some of the history of evaluating nonprofits, including the [Scientific
+    Charity Movement][scm]. Various aspects of prioritization like
+    data-collection, . Note that this isn't to imply that effective altruism has
+    no value-added.
 -   My Wikipedia [draft page for "Priority-setting in global health"][psigh
     draft], which shows that *explicit prioritization* in global health has been
     going on since at least the 1970s -- around 30 years before the effective
