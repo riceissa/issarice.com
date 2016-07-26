@@ -366,14 +366,15 @@ it:
   use eclim for completions.
 - Strange "bug" (not sure if intended behavior): with `incsearch` on, searching
   for text on a long line makes the found search term disappear sometimes, but
-  only on gvim. Take the raw text on [this
-  page](https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit). Then
-  turn `incsearch` on, then type `/incl` to try to search for "including".
-  After the "c" is typed, the match disappears and typing "l" brings it back,
-  and so forth. Hitting enter at any point completes the search, *but not on
-  gvim, where it just fails*. (Actually trying it again now, it seems to fail
-  everwhere, even on Neovim...). Make sure your window height is also small
-  relative to the line length.
+  only on gvim. Take the raw text on [this page][incl]. Then turn `incsearch`
+  on, then type `/incl` to try to search for "including". After the "c" is
+  typed, the match disappears and typing "l" brings it back, and so forth.
+  Hitting enter at any point completes the search, *but not on gvim, where it
+  just fails*. (Actually trying it again now, it seems to fail everywhere, even
+  on Neovim...). Make sure your window height is also small relative to the line
+  length. Update (2016-07-26): this is still failing, but now the match doesn't
+  even return when typing the next character. The only solution seems to be to
+  finish typing, then hit `<CR>`, then back up with `N`.
 
 Things to check in Neovim (or, the list of things that make me wary to switch to
 Neovim, and which I should check back on with Neovim because at some point the
@@ -385,6 +386,7 @@ benefits may outweigh the costs):
   paragraph. The same doesn't happen with Vim. See the [GitHub thread][clip].
 
 [clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
+[incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
 [saw]: http://vimcasts.org/blog/2012/08/on-sharpening-the-saw/
 
 [^evil]: Emacs Evil mode is also an option (it's a fairly good emulation of Vim).
