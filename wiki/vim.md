@@ -1,7 +1,7 @@
 ---
 title: Vim
 creation_date: 2015-02-28
-date: 2015-08-10
+date: 2016-07-26
 ---
 
 **Vim** is my text editor of choice.
