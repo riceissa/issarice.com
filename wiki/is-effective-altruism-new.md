@@ -251,9 +251,9 @@ global health focus on the specific approaches taken.
 # In what ways is effective altruism new?
 
 -   New in the sense that it spreads lessons from effective philanthropy to the
-    world of private donors.
+    world of private donors, and does so online.
 -   Takes the final step back in terms of prioritization level to reach *cause
-    prioritization*. GiveWell [outlines in a post][cause selection] that
+    prioritization* (maybe). GiveWell [outlines in a post][cause selection] that
     "philanthropists seem to be least thoughtful and to ask the fewest critical
     questions" when picking causes. But just as well, they say that the
     subsequent steps -- namely developing a cause-specific "foundation strategy"
