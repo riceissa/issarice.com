@@ -380,10 +380,17 @@ Things to check in Neovim (or, the list of things that make me wary to switch to
 Neovim, and which I should check back on with Neovim because at some point the
 benefits may outweigh the costs):
 
-- Invoking `:Tutor` in a tmux terminal causes artefacts and duplicate lines to
-  appear (probably because of the conceal feature?).
-- Pasting to GMail makes newlines disappear, so that everything is in one giant
-  paragraph. The same doesn't happen with Vim. See the [GitHub thread][clip].
+-   Invoking `:Tutor` in a tmux terminal causes artefacts and duplicate lines to
+    appear (probably because of the conceal feature?).
+
+-   Pasting to GMail makes newlines disappear, so that everything is in one
+    giant paragraph. The same doesn't happen with Vim. See the [GitHub
+    thread][clip].
+
+-   The following horrible map (intended to be like a ctags for Markdown)
+    requires a manual `<CR>`:
+
+        autocmd FileType markdown nnoremap <buffer> <C-]> "zya[:let @z=substitute(@z, "\n", ' ', "g")<CR>:let @z=substitute(@z, "\\s\\+", " ", "g")<CR>:let @z=substitute(@z, " ", "\\\\(\\\\s\\\\\\|\\\\n\\\\)\\\\+", "g")<CR>/\V<C-r>z<CR>
 
 [clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
