@@ -274,6 +274,9 @@ global health focus on the specific approaches taken.
 -   Claims of newness are inherently strong, because they say something about
     everything that happened before some point in time. Humility requires one to
     explain where and how one searched before concluding that something is new.
+-   ~~Give me examples of other systematic prioritization efforts so I don't
+    have to do the work myself.~~ Are there other instances of systematic
+    prioritization within philanthropic movements?
 
 [ben post]:         http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
 [cause selection]:  http://blog.givewell.org/2012/05/02/strategic-cause-selection/ "Holden Karnofsky. “Strategic Cause Selection”. May 2, 2012. GiveWell."
