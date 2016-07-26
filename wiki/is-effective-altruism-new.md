@@ -269,8 +269,11 @@ global health focus on the specific approaches taken.
 
 # Conclusion
 
-- suggest people to look more into history of philanthropy and so forth (e.g.
-  look at GiveWell's work)
+-   Suggest people to look more into history of philanthropy and so forth (e.g.
+    look at GiveWell's work)
+-   Claims of newness are inherently strong, because they say something about
+    everything that happened before some point in time. Humility requires one to
+    explain where and how one searched before concluding that something is new.
 
 [ben post]:         http://www.benkuhn.net/ea-critique#non-obviousness "Ben Kuhn. “A critique of effective altruism” § Non-obviousness. December 2013."
 [cause selection]:  http://blog.givewell.org/2012/05/02/strategic-cause-selection/ "Holden Karnofsky. “Strategic Cause Selection”. May 2, 2012. GiveWell."
