@@ -151,8 +151,11 @@ Glassman et al. also notes how there are more cost-effectiveness studies for LMI
 * [[Health care rationing]]
 * [[Impact evaluation]]
 * [[Impact assessment]]
+* [[Open Philanthropy Project]], which does broader prioritization work
 
 ==References==
 
 {{reflist|30em}}
+
+[[Category:Global health]]
 
