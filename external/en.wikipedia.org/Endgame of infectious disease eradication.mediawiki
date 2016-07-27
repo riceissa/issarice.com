@@ -1,0 +1,19 @@
+The '''endgame of infectious disease eradication''' (also called the '''last mile''', '''final inch''', or '''final frontier''') refers to the final stages of eradicating an infectious disease that has almost been eradicated.
+
+"As elimination targets expand to regional and even global levels, hurdles may emerge within the endgame when infections are circulating at very low levels, turning the last mile of these public health marathons into the longest mile."<ref name="Klepac">{{Cite journal| doi = 10.1098/rstb.2012.0137| issn = 0962-8436 |eissn= 1471-2970| volume = 368| issue = 1623| pages = 20120137| last1 = Klepac| first1 = Petra| last2 = Metcalf| first2 = C. Jessica E.| last3 = McLean| first3 = Angela R.| last4 = Hampson| first4 = Katie| title = Towards the endgame and beyond: complexities and challenges for the elimination of infectious diseases| journal = Phil. Trans. R. Soc. B| accessdate = 2016-07-27| date = 2013-08-05| url = http://rstb.royalsocietypublishing.org/content/368/1623/20120137| pmid = 23798686}}</ref>
+
+==Definitions==
+
+The endgame is to be distinguished from the eradication effort in general, which includes the endgame but also includes earlier steps.
+
+Klepac et al. distinguishes between "operational" definitions used by the [[World Health Organization]] and others, and a "conceptual" definition that it prefers: "Specifically, we take it to refer to the stage in the elimination programmes when the goal seems in sight, and operational targets typically become time-limited, because the intensity of effort required is too great to be maintained indefinitely."<ref name="Klepac" />
+
+==See also==
+
+* [[Eradication of infectious diseases]]
+* [[Poliomyelitis eradication]]
+
+==References==
+
+{{reflist|30em}}
+
