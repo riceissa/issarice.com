@@ -1,10 +1,10 @@
 ---
 title: GiveWell staff growth
 author: Issa Rice
-date: 2016-07-23
+date: 2016-07-27
 ---
 
-For a project, I recently looked at GiveWell's staff growth over the years.
+I recently looked at GiveWell's staff growth over the years.
 The data is from the [Our People](http://givewell.org/about/people) page, retrieved using the [Wayback Machine](https://archive.org/).
 The page seems to have been created in mid-2010, so that's where the table starts (and before that, the number was presumably 2--4 anyway).
 This is meant to be illustrative and not comprehensive.
