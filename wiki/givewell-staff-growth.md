@@ -11,34 +11,37 @@ This is meant to be illustrative and not comprehensive.
 Care was taken to detect the first point in time when an employee appeared or disappeared from a page, so the above table should be generally accurate but probably not completely so.
 The Wayback Machine also had spotty coverage that lacked several months.
 
-Date             Number of full-time staff  Diff
----------------- -------------------------- -----------------
-2010-06-09       4
-2011-06-04       4                          $(-1, +1)$
-2011-09-25       5                          $(-0,+1)$
-2012-01-02       4                          $(-1, +0)$
-2012-02-08       5                          $(-0,+1)$
-2012-07-19       8                          $(-0, +3)$
-2013-01-13       6                          $(-2, +0)$
-2013-04-30       7                          $(-0, +1)$
-2013-08-15       8                          $(-1, +2)$
-2013-09-28       10                         $(-0, +2)$
-2013-12-14       11                         $(-0, +1)$
-2014-07-13       12                         $(-0, +1)$
-2014-11-03       18                         $(-0, +6)$
-2015-02-01       18                         $(-1, +1)$
-2015-05-01       18                         $(-1, +1)$
-2015-06-16       23                         $(-0, +5)$
-2015-08-16       24                         $(-0, +1)$
-2015-10-01       30                         $(-0, +6)$
-2015-10-31       32                         $(-0,+2)$
-2015-11-22       31                         $(-1, +0)$
-2015-12-15       32                         $(-1, +2)$
-2016-03-10       31                         $(-2, +1)$
-2016-06-25       35                         $(-2, +6)$
-2016-07-23       37                         $(-1, +3)$
+Date           Num          Diff
+-----------  -----  ------------
+2010-06-09   4
+2011-06-04   4      $(-1, +1)$
+2011-09-25   5      $(-0, +1)$
+2012-01-02   4      $(-1, +0)$
+2012-02-08   5      $(-0, +1)$
+2012-07-19   8      $(-0, +3)$
+2013-01-13   6      $(-2, +0)$
+2013-04-30   7      $(-0, +1)$
+2013-08-15   8      $(-1, +2)$
+2013-09-28   10     $(-0, +2)$
+2013-12-14   11     $(-0, +1)$
+2014-07-13   12     $(-0, +1)$
+2014-11-03   18     $(-0, +6)$
+2015-02-01   18     $(-1, +1)$
+2015-05-01   18     $(-1, +1)$
+2015-06-16   23     $(-0, +5)$
+2015-08-16   24     $(-0, +1)$
+2015-10-01   30     $(-0, +6)$
+2015-10-31   32     $(-0, +2)$
+2015-11-22   31     $(-1, +0)$
+2015-12-15   32     $(-1, +2)$
+2016-03-10   31     $(-2, +1)$
+2016-06-25   35     $(-2, +6)$
+2016-07-23   37     $(-1, +3)$
 
-Table: Growth of GiveWell
+Table: Growth of GiveWell. 'Num' is the number of full-time staff, 'Diff' is the
+difference in 'Num' relative to the previous month and is given in the form
+$(-x,y)$, where $x$ is the number full-time staff that left and $y$ is the
+number of full-time staff that joined.
 
 The following is a plot of the table above (which is better in some sense because it indicates the gaps when the employee count did not change):
 
