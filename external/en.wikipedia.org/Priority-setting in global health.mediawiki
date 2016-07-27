@@ -15,30 +15,28 @@ Synonymous terms include "prioritization in health care and health research", "p
 
 ==Metrics==
 
+Various metrics have been used to compare interventions. These include:
+
 * [[Disability-adjusted life year]] per unit cost (used by e.g. [[Disease Control Priorities Project]]),<ref name=rudan2010/><ref name="glassman2012">{{Cite journal| doi = 10.1016/j.gheart.2012.01.007| issn = 22118160| volume = 7| issue = 1| pages = 13–34| last1 = Glassman| first1 = Amanda| last2 = Chalkidou| first2 = Kalipso| last3 = Giedion| first3 = Ursula| last4 = Teerawattananon| first4 = Yot| last5 = Tunis| first5 = Sean| last6 = Bump| first6 = Jesse B.| last7 = Pichon-Riviere| first7 = Andres| title = Priority-Setting Institutions in Health| journal = Global Heart| accessdate = 2016-06-23| date = March 2012| url = http://linkinghub.elsevier.com/retrieve/pii/S2211816012000105}}</ref> [[quality-adjusted life year]], and other forms of [[cost-effectiveness analysis]]
 * Reasons that the disease burden has persisted<ref name="dcp2_ch4">{{Cite book| edition = 2nd| publisher = World Bank| isbn = 978-0-8213-6179-5| editors = Dean T. Jamison, Joel G. Breman, Anthony R. Measham, George Alleyne, Mariam Claeson, David B. Evans, Prabhat Jha, Anne Mills, Philip Musgrove (eds.)| last1 = Bloom| first1 = Barry R.| last2 = Michaud| first2 = Catherine M.| last3 = La Montagne| first3 = John R.| last4 = Simonsen| first4 = Lone| title = Disease Control Priorities in Developing Countries| chapter = Priorities for Global Research and Development of Interventions| location = Washington (DC)| accessdate = 2016-06-30| date = 2006| chapterurl = http://www.ncbi.nlm.nih.gov/books/NBK11751/| pmid = 21250329}}</ref>
 * Adequacy of funding<ref name=dcp2_ch4 />
 
 ==Who sets the priorities?==
 
-{{quote|text=In most countries, health spending by governments vastly outpaces international health aid, so governments set most health priorities. There are a few highly aid - dependent countries where donors have huge influence on health priorities.<ref>{{cite web |url=http://files.givewell.org/files/conversations/Glassman%2011-13-13%20(public).pdf |title=A conversation with Amanda Glassman on November 13, 2013 |date=November 13, 2013 |accessdate=June 21, 2016 |publisher=[[GiveWell]]}}</ref>}}
+Priority-setting can be done by various actors. These include:
 
-{{quote|text=It is noteworthy that since health-related decisions are driven by the [[Health in All Policy]] notion, priority setting is undertaken not only by policy makers in the Ministry of Health and Health Insurance Office, but also by stakeholders in non-health sectors such as the Ministry of Finance, development partners, and civil society organizations.<ref name=pmac2016/>}}
-
-{{quote|text=One of the side effects of having more money, institutions, and initiatives in global health is increased competition among the various parties. And, the priorities of funding bodies largely dictate what health issues and diseases are studied.<ref>{{Cite journal| doi = 10.1371/journal.pmed.1001312| issn = 1549-1676| volume = 9| issue = 9| pages = –1001312| last = Sridhar| first = Devi| title = Who Sets the Global Health Research Agenda? The Challenge of Multi-Bi Financing| journal = PLOS Med| accessdate = 2016-07-22| date = 2012-09-25| url = http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001312}}</ref>}}
-
-Laying out all the possibilities:
-
-* Governments
-* International orgs
+* Governments: "In most countries, health spending by governments vastly outpaces international health aid, so governments set most health priorities."<ref name="glassman2013">{{cite web |url=http://files.givewell.org/files/conversations/Glassman%2011-13-13%20(public).pdf |title=A conversation with Amanda Glassman on November 13, 2013 |date=November 13, 2013 |accessdate=June 21, 2016 |publisher=[[GiveWell]]}}</ref>
+* Non-profits and companies that assist governments
+* If a country is using a [[Health in All Policy]] (HiAP) approach, then priority-setting is done by stakeholders who do not directly deal with health.<ref name=pmac2016/>
+* International organizations
 * Foundations
-* Private donors (including HNWIs and UHNWIs)
-* Non-profits/companies assisting governments, foundations, and private donors
-* Donors ("A common outcome is a negotiated set of priorities that reflect some domestic needs and some technical, political, and economic considerations defined largely by the interests of donors."<ref name=glassman2012/>)
+* Private donors (including [[high-net-worth individual]]s and ultra-high-net-worth individuals): "A common outcome is a negotiated set of priorities that reflect some domestic needs and some technical, political, and economic considerations defined largely by the interests of donors."<ref name=glassman2012/> In some highly aid-dependent countries, donors "have huge influence on health priorities".<ref name=glassman2013/>
+
+According to Devi Sridhar, professor of global health at the [[University of Edinburgh]],<ref>{{cite web |url=http://www.cphs.mvm.ed.ac.uk/people/staffProfile.php?profile=dsridhar |date=September 30, 2015 |title=Centre for Population Health Sciences - People |accessdate=July 27, 2016}}</ref> "the priorities of funding bodies largely dictate what health issues and diseases are studied".<ref>{{Cite journal| doi = 10.1371/journal.pmed.1001312| issn = 1549-1676| volume = 9| issue = 9| pages = –1001312| last = Sridhar| first = Devi| title = Who Sets the Global Health Research Agenda? The Challenge of Multi-Bi Financing| journal = PLOS Med| accessdate = 2016-07-22| date = 2012-09-25| url = http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001312}}</ref>
 
 ==History of organizations and programs working on priority-setting==
 
-According to [[Amanda Glassman]] et al., global-level priority-setting has occurred since at least the 1980s, though they have only focused on a few aspects.<ref name=glassman2012 />
+According to [[Amanda Glassman]] et al., global-level priority-setting has occurred since at least the 1980s, though these efforts have only focused on a few aspects.<ref name=glassman2012 />
 
 The following table is a timeline of organizations and programs working on priority-setting.
 
@@ -78,8 +76,8 @@ The following table is a timeline of organizations and programs working on prior
 |-
 | 1993
 | The [[World Bank]] publishes the [[1993 World Development Report]].<ref name=glassman2012 />
-| Health interventions<ref>{{Cite journal| issn = 0268-1080, 1460-2237| volume = 13| issue = 1| pages = 13–31| last1 = Paalman| first1 = Maria| last2 = Bekedam| first2 = Henk| last3 = Hawken| first3 = Laura| last4 = Nyheim| first4 = David| title = A Critical Review of Priority Setting in the Health Sector: The Methodology of the 1993 World Development Report| journal = Health Policy and Planning| accessdate = 2016-07-07| date = 1998-01-01| url = http://heapol.oxfordjournals.org/content/13/1/13| pmid = 10178182}}</ref>{{rp|14}}
-| Disability-adjusted life year<ref>{{Cite journal| doi = 10.2105/AJPH.2004.042002| issn = 0090-0036| volume = 95| issue = 1| pages = 60–70| last = Ruger| first = Jennifer Prah| title = The Changing Role of the WORLD BANK in Global Health| journal = American Journal of Public Health| accessdate = 2016-07-07| date = 2005-01| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449852/| pmid = 15623860| pmc = PMC1449852}}</ref>
+| Health interventions<ref>{{Cite journal| issn = 0268-1080 |eissn=1460-2237| volume = 13| issue = 1| pages = 13–31| last1 = Paalman| first1 = Maria| last2 = Bekedam| first2 = Henk| last3 = Hawken| first3 = Laura| last4 = Nyheim| first4 = David| title = A Critical Review of Priority Setting in the Health Sector: The Methodology of the 1993 World Development Report| journal = Health Policy and Planning| accessdate = 2016-07-07| date = 1998-01-01| url = http://heapol.oxfordjournals.org/content/13/1/13| pmid = 10178182}}</ref>{{rp|14}}
+| Disability-adjusted life year<ref>{{Cite journal| doi = 10.2105/AJPH.2004.042002| issn = 0090-0036| volume = 95| issue = 1| pages = 60–70| last = Ruger| first = Jennifer Prah| title = The Changing Role of the WORLD BANK in Global Health| journal = American Journal of Public Health| accessdate = 2016-07-07| date = January 2005| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449852/| pmid = 15623860| pmc = 1449852}}</ref>
 |
 |
 |-
@@ -126,6 +124,10 @@ The following table is a timeline of organizations and programs working on prior
 |-
 | 2013 || [[International Decision Support Initiative]] launches as the result of a [[Center for Global Development]] working group. || Health interventions || || 12,800,000 (from the [[Bill &amp; Melinda Gates Foundation]] for phase 2 of operations)<ref name="phase2">{{cite web |url=http://www.idsihealth.org/blog/idsi2-launch/ |title=International Decision Support Initiative awarded US$12.8m grant from the Gates Foundation |publisher=iDSI |accessdate=May 26, 2016 |date=January 30, 2016}}</ref><ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/12/OPP1134345 |title=National Institute for Health and Care Excellence |date=December 2015 |publisher=Bill &amp; Melinda Gates Foundation}}</ref> ||
 |}
+<!-- Merge info from [[University_of_Toronto_Joint_Centre_for_Bioethics#Priority_Setting]]:
+
+Priority setting, or resource allocation, is an important health policy issue that occurs at all levels of health care. The Joint Centre for Bioethics shares its research platform on priority setting with the Canadian Priority Setting Research Network, which aims to improve the politics and processes of health care priority setting and enhance the research capacity for priority setting. The centre takes an innovative approach to priority setting research in that the focus is placed on enhancing the priority setting processes, capturing and sharing actual priority setting experiences, and taking a bottom-up approach to improve priority setting.
+-->
 
 ==Reception==
 
@@ -137,7 +139,7 @@ Rudan et al. says that priority-setting efforts have relied on "consensus reache
 
 Glassman et al. also notes how there are more cost-effectiveness studies for LMICs (in the thousands), but that these are unlikely to be actually applied to priority-setting processes.<ref name=glassman2012 />{{rp|16}}
 
-[[Jeremy Shiffman]] has said that some bodies such as the [[Institute for Health Metrics and Evaluation]] and ''[[The Lancet]]'' are prominent in priority-setting due to their dominion rather than data and analysis, and also notes that the process of creating the [[Sustainable Development Goals]] was not sufficiently transparent.<ref>{{Cite journal| doi = 10.15171/ijhpm.2015.51| issn = 2322-5939| volume = 4| issue = 5| pages = 315–317| last = Levine| first = Ruth E.| title = Power in global health agenda-setting: the role of private funding| journal = International Journal of Health Policy and Management| accessdate = 2016-07-22| date = 2015-03-04| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417636/| pmid = 25905483| pmc = PMC4417636}}</ref>
+[[Jeremy Shiffman]] has said that some bodies such as the [[Institute for Health Metrics and Evaluation]] and ''[[The Lancet]]'' are prominent in priority-setting due to their dominion rather than data and analysis, and also notes that the process of creating the [[Sustainable Development Goals]] was not sufficiently transparent.<ref>{{Cite journal| doi = 10.15171/ijhpm.2015.51| issn = 2322-5939| volume = 4| issue = 5| pages = 315–317| last = Levine| first = Ruth E.| title = Power in global health agenda-setting: the role of private funding| journal = International Journal of Health Policy and Management| accessdate = 2016-07-22| date = 2015-03-04| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417636/| pmid = 25905483| pmc = 4417636}}</ref>
 
 ==See also==
 
@@ -149,12 +151,6 @@ Glassman et al. also notes how there are more cost-effectiveness studies for LMI
 * [[Health care rationing]]
 * [[Impact evaluation]]
 * [[Impact assessment]]
-
-==Notes==
-
-from [[University_of_Toronto_Joint_Centre_for_Bioethics#Priority_Setting]]:
-
-Priority setting, or resource allocation, is an important health policy issue that occurs at all levels of health care. The Joint Centre for Bioethics shares its research platform on priority setting with the Canadian Priority Setting Research Network, which aims to improve the politics and processes of health care priority setting and enhance the research capacity for priority setting. The centre takes an innovative approach to priority setting research in that the focus is placed on enhancing the priority setting processes, capturing and sharing actual priority setting experiences, and taking a bottom-up approach to improve priority setting.
 
 ==References==
 
