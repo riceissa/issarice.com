@@ -2,25 +2,16 @@ In [[global health]], '''priority-setting''' is a term used for the process and 
 
 ==Definitions==
 
-* i suspect there are varying definitions for the term, as was the case in HSS
+Priority-setting is the act of deciding which health interventions to carry out, and can occur at several levels of granularity. Priority-setting can occur at the following levels:<ref name=rudan2007/><ref name=durand />{{rp|5}}<ref name="pmac2016">{{cite web |url=http://globalhealth.org/wp-content/uploads/CallForAbstract.pdf |title=Call for Abstracts: Priority Setting for Universal Health Coverage |accessdate=June 23, 2016 |publisher=Prince Mahidol Award Conference 2016}}</ref>
 
-{{quote|text=The result of a myriad of actors championing a kaleidoscope of "priorities" is confusion. Advocates, researchers, and policy makers have labeled almost every disease, condition, medication, or intervention a "health priority."<ref name=glassman2012/>}}
+* health budget level (i.e. deciding how much to spend on health overall)
+* overall strategy level (i.e. [[selective primary healthcare]] versus [[primary healthcare]] versus more general [[health systems strengthening]])
+* disease level (i.e. deciding which disease to alleviate)
+* intervention level within each disease (i.e. restricting to a specific disease and prioritizing among interventions for that disease)
+* drug level
+* research level (i.e. which health research to carry out)
 
-* i also want to cover synonymous and different but related terms here
-
-prioritization in health case and health research, priority determination, health priorities<ref name=rudan2010/>
-
-More recognition of different levels:
-
-{{quote|text=At the macro level, priority setting can be used to set limits of the health budget and how much should be spent on health insurance; at the meso level, how much should be spent on infrastructure development and human resources; at the micro level, how much should be spent on particular drugs, technologies, intervention, and policies within a health problem.<ref name="pmac2016">{{cite web |url=http://globalhealth.org/wp-content/uploads/CallForAbstract.pdf |title=Call for Abstracts: Priority Setting for Universal Health Coverage |accessdate=June 23, 2016 |publisher=Prince Mahidol Award Conference 2016}}</ref>}}
-
-==History==
-
-* who came up with it?
-
-<ref name="rudan2007">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/ |accessdate=June 21, 2016 |author=Igor Rudan et al. |date=October 2007 |title=Setting Priorities in Global Child Health Research Investments: Assessment of Principles and Practice |journal=Croat Med J.}}</ref> has the section "A history of priority setting in global health research investments"
-
-{{quote|text=Global-level attempts to support priority setting have been undertaken for at least 3 decades, but these efforts have tended to focus on only a few aspects of priority setting, such as gathering evidence or creating methods, and have yet to result in broad improvements via more systematic decision making in LMIC.<ref name=glassman2012 />}}
+Synonymous terms include "prioritization in health care and health research", "priority determination", "health priorities",<ref name=rudan2010/> and "agenda-setting".<ref>{{Cite journal| volume = 370| issue = 9595| pages = 1370–1379| last1 = Shiffman| first1 = Jeremy| last2 = Smith| first2 = Stephanie| title = Generation of political priority for global health initiatives: a framework and case study of maternal mortality| journal = The Lancet| accessdate = 2016-07-26| date = 2007| url = http://www.who.int/pmnch/topics/advocacy/JShiffman-globalsmarticle-Lancet.pdf }}</ref>
 
 ==Metrics==
 
@@ -34,6 +25,8 @@ More recognition of different levels:
 
 {{quote|text=It is noteworthy that since health-related decisions are driven by the [[Health in All Policy]] notion, priority setting is undertaken not only by policy makers in the Ministry of Health and Health Insurance Office, but also by stakeholders in non-health sectors such as the Ministry of Finance, development partners, and civil society organizations.<ref name=pmac2016/>}}
 
+{{quote|text=One of the side effects of having more money, institutions, and initiatives in global health is increased competition among the various parties. And, the priorities of funding bodies largely dictate what health issues and diseases are studied.<ref>{{Cite journal| doi = 10.1371/journal.pmed.1001312| issn = 1549-1676| volume = 9| issue = 9| pages = –1001312| last = Sridhar| first = Devi| title = Who Sets the Global Health Research Agenda? The Challenge of Multi-Bi Financing| journal = PLOS Med| accessdate = 2016-07-22| date = 2012-09-25| url = http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001312}}</ref>}}
+
 Laying out all the possibilities:
 
 * Governments
@@ -43,7 +36,11 @@ Laying out all the possibilities:
 * Non-profits/companies assisting governments, foundations, and private donors
 * Donors ("A common outcome is a negotiated set of priorities that reflect some domestic needs and some technical, political, and economic considerations defined largely by the interests of donors."<ref name=glassman2012/>)
 
-==Organizations and programs working on priority-setting==
+==History of organizations and programs working on priority-setting==
+
+According to [[Amanda Glassman]] et al., global-level priority-setting has occurred since at least the 1980s, though they have only focused on a few aspects.<ref name=glassman2012 />
+
+The following table is a timeline of organizations and programs working on priority-setting.
 
 {| class="sortable wikitable"
 |-
@@ -55,18 +52,23 @@ Laying out all the possibilities:
 |
 | Produced explicit list of medicines. As of 2016, at least 156 countries have created national lists of essential medicines based on the WHO's model list.<ref>{{cite web |url=http://www.who.int/medicines/events/fs/en/ |title=The WHO Essential Medicines List (EML): 30th anniversary |publisher=World Health Organization |accessdate=June 26, 2016}}</ref>
 |-
-| 1987–1989 || The [[Oregon Health Services Commission]] (HSC) is established to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 /> The HSC would publish their first prioritized list of health services in 1993.<ref name=brief_history_or />{{rp|4}} The HSC would be abolished in 2012.<ref>{{cite web |url=https://www.oregon.gov/oha/herc/Pages/Prioritized-List-Overview.aspx |title=Health Evidence Review Commission Prioritized List Overview |accessdate=July 2, 2016 |publisher=Oregon.gov}}</ref> || Health services<ref name="brief_history_or">{{cite web |url=https://www.oregon.gov/oha/herc/Documents/Brief-History-Health-Services-Prioritization-Oregon.pdf |accessdate=July 2, 2016 |title=A Brief History of Health Services Prioritization in Oregon |authors=Bob DiPrete and Darren Coffman |date=March 2007}}</ref>
+| 1984 || [[Demographic and Health Surveys]] is conceived.<ref name="fabic">{{cite web |url=http://www.who.int/bulletin/volumes/90/8/11-095513/en/ |date=September 1, 2011 |title=A systematic review of Demographic and Health Surveys: data availability and utilization for research |publisher=World Health Organization |accessdate=July 20, 2016}}</ref> || Improving data quality<ref name=glassman2012 /> || || 380,000,000 (from [[USAID]] {{as of|2011|lc=y}})<ref name=fabic/> || Data from the DHS has been analyzed by various papers.<ref name="fabic"/>
+|-
+| 1987–1989
+| The [[Oregon Health Services Commission]] (HSC) is established to prioritize within the US [[Medicaid]] program.<ref name=glassman2012 /> The HSC would publish their first prioritized list of health services in 1993.<ref name=brief_history_or />{{rp|4}} The HSC would be abolished in 2012.<ref>{{cite web |url=https://www.oregon.gov/oha/herc/Pages/Prioritized-List-Overview.aspx |title=Health Evidence Review Commission Prioritized List Overview |accessdate=July 2, 2016 |publisher=Oregon.gov}}</ref>
+| Health services<ref name="brief_history_or">{{cite web |url=https://www.oregon.gov/oha/herc/Documents/Brief-History-Health-Services-Prioritization-Oregon.pdf |accessdate=July 2, 2016 |title=A Brief History of Health Services Prioritization in Oregon |authors=Bob DiPrete and Darren Coffman |date=March 2007}}</ref>
 | Originally a cost-per-utility formula, but then expert judgment and a method of splitting health services into categories and ranking within categories<ref name=brief_history_or />{{rp|3}}
 |
+| "This time greater emphasis is placed on preventive services and chronic disease management, reflecting the fact that providing health care before reaching crisis mode will prevent avoidable morbidity and mortality."<ref name=brief_history_or />
 |-
 | 1987–1990
-| [[Commission on Health Research for Development]]<ref name=rudan2007/> is established in 1987 and would publish ''Health Research: Essential Link to Equity in Development'' in 1990.<ref>{{cite web|url=http://www.cohred.org/downloads/open_archive/ComReports_0.pdf |title=''Health Research: Essential Link to Equity in Development'' |year=1990 |publisher=Oxford University Press}}</ref>
+| [[Commission on Health Research for Development]]<ref name="rudan2007">{{cite web |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205967/ |accessdate=June 21, 2016 |author=Igor Rudan et al. |date=October 2007 |title=Setting Priorities in Global Child Health Research Investments: Assessment of Principles and Practice |journal=Croat Med J.}}</ref> is established in 1987 and would publish ''Health Research: Essential Link to Equity in Development'' in 1990.<ref>{{cite web|url=http://www.cohred.org/downloads/open_archive/ComReports_0.pdf |title=''Health Research: Essential Link to Equity in Development'' |year=1990 |publisher=Oxford University Press}}</ref>
 | Research
 | Meetings with experts
 |
 | Produced several reports, including the final report, ''Health Research: Essential Link to Equity in Development''. Resulted in the establishment of the Council on Health Research for Development (COHRED) to promote priority-setting in low- and middle-income countries.
 |-
-| ? || [[Essential National Health Research]] ||
+| ? || [[Essential National Health Research]] || || || ||
 |-
 | 1993
 | ''Disease Control Priorities in Developing Countries'' is published by the [[Disease Control Priorities Project]].<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref><ref name=glassman2012 />
@@ -81,69 +83,66 @@ Laying out all the possibilities:
 |
 |
 |-
-| 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> ||
+| 1994 || [[World Health Organization]]'s [[Ad Hoc Committee on Health Research Relating to Future Intervention Options]] (AHC)<ref name=rudan2007/> || Research and development || || || Produced the 1996 report "Investing in Health Research and Development".
 |-
-| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref name=glassman2012 /><ref name="rudan2010">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000308 |author=Rudan I, Kapiriri L, Tomlinson M, Balliet M, Cohen B, Chopra M |date=July 13, 2010 |title=Evidence-Based Priority Setting for Health Care and Research: Tools to Support Policy in Maternal, Neonatal, and Child Health in Africa |accessdate=June 23, 2016 |publisher=[[PLOS]]}}</ref>
+| 1995 || [[Multiple Indicator Cluster Surveys]]<ref name=glassman2012 /> || Improving data quality || || ||
 |-
-| 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> ||
+| 1998 || [[WHO-CHOICE]], a program that helps countries choose health system priorities, is developed.<ref>{{cite web |url=http://www.who.int/choice/cost-effectiveness/en/ |title=WHO - WHO-CHOICE |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref>{{cite web |url=http://www.who.int/choice/about/en/ |title=WHO - Who we are |publisher=World Health Organization |accessdate=June 23, 2016}}</ref><ref name=glassman2012 /><ref name="rudan2010">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000308 |author=Rudan I, Kapiriri L, Tomlinson M, Balliet M, Cohen B, Chopra M |date=July 13, 2010 |title=Evidence-Based Priority Setting for Health Care and Research: Tools to Support Policy in Maternal, Neonatal, and Child Health in Africa |accessdate=June 23, 2016 |publisher=[[PLOS]]}}</ref> || || || ||
 |-
-| 2000 || [[Council on Health Research and Development]]<ref name=rudan2007/> ||
+| 1998 || [[Global Forum for Health Research]]<ref name=rudan2007/> || Research and development || Structured interviews and literature review || || Produced a list of 17 priorities.
 |-
-| 2001 || [[Center for Global Development]]<ref>{{cite web |url=http://www.cgdev.org/working-group/priority-setting-institutions-global-health |title=Priority-Setting Institutions for Global Health |publisher=[[Center for Global Development]] |accessdate=June 21, 2016}}</ref>
+| 2000 || [[Council on Health Research and Development]]<ref name=rudan2007/> || || Review of previous efforts || ||
 |-
-| 2002 || [[Marginal budgeting for bottlenecks]]<ref name=rudan2010/> (the [[World Bank]], [[UNICEF]], and WHO) is conceived. || || ||
+| 2001 || [[Center for Global Development]]<ref>{{cite web |url=http://www.cgdev.org/working-group/priority-setting-institutions-global-health |title=Priority-Setting Institutions for Global Health |publisher=[[Center for Global Development]] |accessdate=June 21, 2016}}</ref> || || || ||
+|-
+| 2002 || [[Marginal budgeting for bottlenecks]]<ref name=rudan2010/> (the [[World Bank]], [[UNICEF]], and WHO) is conceived. || || || ||
 |-
 | 2003
-| The [[Bill &amp; Melinda Gates Foundation]] announces the [[Grand Challenges in Global Health]],<ref name=rudan2007/> for which it provides $200 million in funding.<ref name=dcp2_ch4 />
+| The [[Bill &amp; Melinda Gates Foundation]] announces the [[Grand Challenges in Global Health]],<ref name=rudan2007/> for which it initially provides $200 million in funding.<ref name=dcp2_ch4 />
 | Research and development
-|
+| Scientific board
 | 550,000,000 (from the Gates Foundation as of 2008; smaller amounts from others not yet included)
-|
+| Out of more than 1000 submissions, 14 were selected by the scientific board as "grand challenges".<ref name=rudan2007/>
 |-
-| 2003 || The initial version of the [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/><ref name=glassman2012 /> is created.<ref>{{Cite journal| doi = 10.1186/1471-2458-13-S3-S1| issn = 1471-2458| volume = 13| issue = 3| pages = 1–6| last1 = Walker| first1 = Neff| last2 = Tam| first2 = Yvonne| last3 = Friberg| first3 = Ingrid K.| title = Overview of the Lives Saved Tool (LiST)| journal = BMC Public Health| accessdate = 2016-07-17| date = 2013| url = http://dx.doi.org/10.1186/1471-2458-13-S3-S1}}</ref>
+| 2003 || The initial version of the [[Lives Saved Tool]] (LiST) by [[Johns Hopkins University]]<ref name=rudan2010/><ref name=glassman2012 /> is created.<ref>{{Cite journal| doi = 10.1186/1471-2458-13-S3-S1| issn = 1471-2458| volume = 13| issue = 3| pages = 1–6| last1 = Walker| first1 = Neff| last2 = Tam| first2 = Yvonne| last3 = Friberg| first3 = Ingrid K.| title = Overview of the Lives Saved Tool (LiST)| journal = BMC Public Health| accessdate = 2016-07-17| date = 2013| url = http://dx.doi.org/10.1186/1471-2458-13-S3-S1}}</ref> || || || ||
 |-
-| 2004 || [[Global Forum for Health Research]] develops the "Combined Approach Matrix".<ref name=rudan2007/> ||
+| 2004 || [[Global Forum for Health Research]] develops the "Combined Approach Matrix" (CAM).<ref name=rudan2007/> || Various (since CAM is a general method) || CAM itself is the method, but takes into account disease burden, present level of knowledge, cost-effectiveness, macro-economic policies, etc. || || Rudan et al.: "The tool has proven to be highly useful for systematic classification, organization, and presentation of the large body of information that is needed at different stages of priority setting process, so that the decisions made by the members of decision-making committees could be based on all relevant and available information, rather than their own personal knowledge and judgment."<ref name=rudan2007/>
 |-
-| 2004 || The [[Copenhagen Consensus]] (which focuses on aid and development in general, and not just global health) holds its first conference.<ref name="durand">{{Cite journal| last = Durand-Bourjate| first = Yannick| title = Setting Priorities in Health Interventions| accessdate = 2016-07-05| date = February 2010| url = http://www.nadel.ethz.ch/content/dam/ethz/special-interest/gess/nadel-dam/documents/mas/mas-essays/MAS_2008_Durand_Bourjate_Yannick.pdf}}</ref>{{rp|5}}
+| 2004 || The [[Copenhagen Consensus]] (which focuses on aid and development in general, and not just global health) holds its first conference.<ref name="durand">{{Cite journal| last = Durand-Bourjate| first = Yannick| title = Setting Priorities in Health Interventions| accessdate = 2016-07-05| date = February 2010| url = http://www.nadel.ethz.ch/content/dam/ethz/special-interest/gess/nadel-dam/documents/mas/mas-essays/MAS_2008_Durand_Bourjate_Yannick.pdf}}</ref>{{rp|5}} || || || ||
 |-
 | 2005 || [[Health Metrics Network]] launches. The partnership would dissolve in 2013.<ref>{{cite web |title=WHO’s arrangement for hosting health partnerships and proposals for harmonizing WHO’s work with hosted partnerships |publisher=World Health Organization |date=January 18, 2013 |url=http://apps.who.int/gb/ebwha/pdf_files/EB132/B132_5Add9-en.pdf}}</ref> || Improving data quality<ref name=glassman2012 /> || || 50,000,000 (initially, by the [[Gates Foundation]]; see [[Health Metrics Network#Funding|Health Metrics Network § Funding]] for more) || [[Health Metrics Network#Achievements|Various]]
 |-
-| 2006 || Second edition of ''Disease Control Priorities in Developing Countries'' by the [[Disease Control Priorities Project]]<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2002/09/Initiative-to-Assess-Disease-Control-Priorities-in-Developing-Countries |title=New Initiative Will Assess Disease Control Priorities In Developing Countries |date=September 2002 |publisher=[[Bill & Melinda Gates Foundation]] |accessdate=June 21, 2016}}</ref> is published.<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref> || || ||
+| 2006 || Second edition of ''Disease Control Priorities in Developing Countries'' by the [[Disease Control Priorities Project]]<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2002/09/Initiative-to-Assess-Disease-Control-Priorities-in-Developing-Countries |title=New Initiative Will Assess Disease Control Priorities In Developing Countries |date=September 2002 |publisher=[[Bill & Melinda Gates Foundation]] |accessdate=June 21, 2016}}</ref> is published.<ref name="pubdates">{{cite web |url=http://dcp-3.org/about-project |title=About the Project |accessdate=March 30, 2016}}</ref> || || || ||
 |-
-| 2007 || ''[[The Lancet]]'' publishes a series of papers on priorities in international health.<ref name=rudan2007/> ||
+| 2007 || ''[[The Lancet]]'' publishes a series of papers on priorities in international health.<ref name=rudan2007/> || Research || [[Delphi method]] || ||
 |-
-| 2007 || [[Health Intervention and Technology Assessment Program]] is established. || Various || ||
+| 2007 || [[Health Intervention and Technology Assessment Program]] is established. || Various || || ||
 |-
-| 2008 || Supporting Independent Immunization and Vaccine Advisory Committees  Initiative  (SIVAC) is founded.<ref name=glassman2012 /><ref>{{cite web |url=http://www.ivi.org/web/www/02_05_07 |publisher=International Vaccine Institute |title=SIVAC Initiative |accessdate=June 26, 2016}}</ref> || Among vaccines
+| 2007 || [[Institute for Health Metrics and Evaluation]] launches. || Improving data quality, burden of disease || || 105,000,000 (initial grant, mainly from the Gates Foundation) ||
 |-
-| 2009 || [[EVIDEM Collaboration]] (Evidence and Value: Impact on Decision Making) is established.<ref name=glassman2012 /><ref name="evidem_about">{{cite web |url=https://www.evidem.org/the-evidem-collaboration/about-us/ |publisher=EVIDEM Collaboration |title=About us |accessdate=July 19, 2016}}</ref> || Health interventions<ref name="evidem_about"/> || Literature review,  "discussions with stakeholders", and [[multicriteria decision analysis]] (MCDA)<ref>{{cite web |url=https://www.evidem.org/evidem-framework/decision-criteria-of-the-framework/  |title=Decision criteria of the framework |accessdate=July 19, 2016 |publisher=EVIDEM Collaboration}}</ref>
+| 2008 || Supporting Independent Immunization and Vaccine Advisory Committees  Initiative  (SIVAC) is founded.<ref name=glassman2012 /><ref>{{cite web |url=http://www.ivi.org/web/www/02_05_07 |publisher=International Vaccine Institute |title=SIVAC Initiative |accessdate=June 26, 2016}}</ref> || Among vaccines || || ||
 |-
-| 2013 || [[International Decision Support Initiative]] launches as the result of a [[Center for Global Development]] working group. || Health interventions || || 12,800,000 (from the [[Bill &amp; Melinda Gates Foundation]] for phase 2 of operations)<ref name="phase2">{{cite web |url=http://www.idsihealth.org/blog/idsi2-launch/ |title=International Decision Support Initiative awarded US$12.8m grant from the Gates Foundation |publisher=iDSI |accessdate=May 26, 2016 |date=January 30, 2016}}</ref><ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/12/OPP1134345 |title=National Institute for Health and Care Excellence |date=December 2015 |publisher=Bill &amp; Melinda Gates Foundation}}</ref> || 
+| 2009 || [[EVIDEM Collaboration]] (Evidence and Value: Impact on Decision Making) is established.<ref name=glassman2012 /><ref name="evidem_about">{{cite web |url=https://www.evidem.org/the-evidem-collaboration/about-us/ |publisher=EVIDEM Collaboration |title=About us |accessdate=July 19, 2016}}</ref> || Health interventions<ref name="evidem_about"/> || Literature review,  "discussions with stakeholders", and [[multicriteria decision analysis]] (MCDA)<ref>{{cite web |url=https://www.evidem.org/evidem-framework/decision-criteria-of-the-framework/  |title=Decision criteria of the framework |accessdate=July 19, 2016 |publisher=EVIDEM Collaboration}}</ref> || ||
+|-
+| 2013 || [[International Decision Support Initiative]] launches as the result of a [[Center for Global Development]] working group. || Health interventions || || 12,800,000 (from the [[Bill &amp; Melinda Gates Foundation]] for phase 2 of operations)<ref name="phase2">{{cite web |url=http://www.idsihealth.org/blog/idsi2-launch/ |title=International Decision Support Initiative awarded US$12.8m grant from the Gates Foundation |publisher=iDSI |accessdate=May 26, 2016 |date=January 30, 2016}}</ref><ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/12/OPP1134345 |title=National Institute for Health and Care Excellence |date=December 2015 |publisher=Bill &amp; Melinda Gates Foundation}}</ref> ||
 |}
-
-TODO: migrate the ones in the following list into the table
-
-* Programs focused on improving quality of data, which can then be used for priority-setting: , [[Demographic and Health Surveys]], and [[Multiple Indicator Cluster Surveys]]<ref name=glassman2012 />
-
-==Specific priorities==
-
-This section lists some of the specific outcomes of priority-setting processes or decisions that have been made by such processes.
-
-* "This time greater emphasis is placed on preventive services and chronic disease management, reflecting the fact that providing health care before reaching crisis mode will prevent avoidable morbidity and mortality."<ref name=brief_history_or />
 
 ==Reception==
 
-* EA gets a hard time for its "cold, utilitarian" calculations, but is that the case with priority-setting as well?
+{{cquote|text=The result of a myriad of actors championing a kaleidoscope of "priorities" is confusion. Advocates, researchers, and policy makers have labeled almost every disease, condition, medication, or intervention a "health priority."|author=Glassman et al.<ref name=glassman2012/>}}
 
-{{quote|text=However, the past approaches were also not free from certain shortcomings. Identified interventions and research questions that were outlined as the priorities were not compiled in a truly systematic way, using scientifically convincing conceptual framework and objective and repeatable methods, but rather through consensus reached by panels of experts. This often made it difficult to present the identified priorities to wider audiences as legitimate and fair, as the decisions could be seen as driven by research interest bias of individual experts.<ref name=rudan2007/>}}
+Rudan et al. says that priority-setting efforts have relied on "consensus reached by panels of experts" and as a result have not been systematic enough, and that this has "often made it difficult to present the identified priorities to wider audiences as legitimate and fair".<ref name=rudan2007/>
 
-Glassman et al. lists some criticisms that have come up:<ref name=glassman2012 />{{rp|16}} {{quote|text=Criticisms of this approach have focused on the weak data on which estimates of burden, cost, and effectiveness relied; the value judgments implicit in disability-adjusted life year age weighting and dis- counting decisions; and treatment of equity issues, as well as the political difficulties associated with translating a ground zero package into a public budget based on historical inputs. Further, early cost-effectiveness analysis only considered health maximization as the priority-setting objective; later work has highlighted the need for multi- dimensional priority-setting objectives, including equity and fairness, financial protection, and existing health system capacity.}}
+[[Amanda Glassman|Glassman]] et al. notes that criticisms of priority-setting include "the weak data on which estimates of burden, cost, and effectiveness relied; the value judgments implicit in disability-adjusted life year age weighting and discounting decisions; and treatment of equity issues, as well as the political difficulties associated with translating a ground zero package into a public budget based on historical inputs"; and the consideration of only health maximization at the expense of other objectives such as fairness.<ref name=glassman2012 />{{rp|16}}
 
 Glassman et al. also notes how there are more cost-effectiveness studies for LMICs (in the thousands), but that these are unlikely to be actually applied to priority-setting processes.<ref name=glassman2012 />{{rp|16}}
+
+[[Jeremy Shiffman]] has said that some bodies such as the [[Institute for Health Metrics and Evaluation]] and ''[[The Lancet]]'' are prominent in priority-setting due to their dominion rather than data and analysis, and also notes that the process of creating the [[Sustainable Development Goals]] was not sufficiently transparent.<ref>{{Cite journal| doi = 10.15171/ijhpm.2015.51| issn = 2322-5939| volume = 4| issue = 5| pages = 315–317| last = Levine| first = Ruth E.| title = Power in global health agenda-setting: the role of private funding| journal = International Journal of Health Policy and Management| accessdate = 2016-07-22| date = 2015-03-04| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4417636/| pmid = 25905483| pmc = PMC4417636}}</ref>
 
 ==See also==
 
 * [[Timeline of nonprofit evaluation]]
+* [[Timeline of global health]]
 * [[Effective altruism]]
 * [[Cost-benefit analysis]]
 * [[10/90 gap]]
