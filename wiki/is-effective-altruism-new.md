@@ -231,9 +231,9 @@ philanthropy in general. Consider the following:
     prioritization were in existence for at least several decades before the
     effective altruism movement emerged. Note that this isn't to imply that
     effective altruism has not refined these ideas.
--   My Wikipedia [draft page for "Priority-setting in global health"][psigh
-    draft] shows that *explicit prioritization* in global health has been going
-    on since at least the 1970s -- around 30 years before the effective altruism
+-   ["Priority-setting in global health"][psigh] on Wikipedia (written by me)
+    shows that *explicit prioritization* in global health has been going on
+    since at least the 1970s -- around 30 years before the effective altruism
     movement even formed.
 
 # Criticisms of priority-setting in global health
@@ -290,7 +290,7 @@ global health focus on the specific approaches taken.
 [katja post]:       http://effective-altruism.com/ea/8t/why_is_effective_altruism_new_and_obvious/ "Katja Grace. “Why is effective altruism new and obvious?” September 30, 2014. Effective Altruism Forum."
 [nonprofit]:        https://nonprofitquarterly.org/2016/02/24/can-effective-altruism-really-change-the-world/ "Lisa Herzog. ‘Can “Effective Altruism” Really Change The World?’ February 24, 2016. Nonprofit Quarterly."
 [philip]:           http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/ajwj "Philip_W. Comment on “A critique of effective altruism”. February 12, 2014. LessWrong."
-[psigh draft]:      https://en.wikipedia.org/wiki/User:Riceissa/Priority-setting_in_global_health "“User:Riceissa/Priority-setting in global health”. Wikipedia."
+[psigh]:            https://en.wikipedia.org/wiki/Priority-setting_in_global_health "“Priority-setting in global health”. Wikipedia."
 [sc post]:          https://www.facebook.com/jefftk/posts/801128155632 "Jeff Kaufman. July 23, 2016. Archived at https://archive.is/q4WBM."
 [scm]:              http://www.jefftk.com/p/scientific-charity-movement "Jeff Kaufman. “Scientific Charity Movement”. July 17, 2016."
 [timeline ne]:      https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "“Timeline of nonprofit evaluation”. Wikipedia."
