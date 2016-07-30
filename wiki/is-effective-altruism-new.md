@@ -182,6 +182,8 @@ difficult to convey the "vibe" through quotes; there are probably several more
 like the ones above that I've missed, as well as a more implicit belief that
 effective altruism is new.
 
+TODO: look at <http://benjaminrosshoffman.com/effective-altruism-not-no-brainer/>
+
 # Previous remarks that effective altruism isn't new
 
 Several people have noted that effective altruism isn't new. The instances of
