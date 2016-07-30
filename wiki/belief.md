@@ -128,6 +128,45 @@ Here is gwern's [section on belief tags][gw bt]:
 > even a long shot may be profitable to examine if the potential payoff
 > is large enough.)
 
+# Comment
+
+Here is a comment I once placed (at a private location):
+
+> Can you elaborate on this? Would you prefer that these articles and blog posts
+> not be published (since if the authors can't add the epistemic status headers,
+> they would be unwilling to publish them as if they believe it)? Maybe you want
+> them to publish less "egregious content", period, or disclaim each claim in
+> their article by qualifying them, but that takes a lot more effort (at least
+> for some people). If we think of writing as being on a "sloppiness scale",
+> then these epistemically "egregious" articles might be at one end, with higher
+> quality articles in the middle, and maybe academic journal articles and
+> published books at the other end. Relative to journal articles and books, even
+> high-quality blog posts might seem lacking because e.g. they might not cite
+> every claim, might contain grammatical errors, etc., but not meeting some
+> arbitrary quality threshold doesn't subtract from the value it provides.
+> Similarly even articles with epistemic status headers that seem of poor
+> quality occasionally contain valuable insight, and if adding these headers
+> means more of these valuable insights are made public, then I think that's a
+> net benefit for all of us.
+
+Somewhat related (to my last point that "epistemically egregious content" can
+still be valuable) is Ben Hoffman's [post][hoffman] on philosophers:
+
+> Someone once described [Michael
+> Vassar](https://en.wikipedia.org/wiki/Michael_Vassar) to me as
+> paying attention not to the conclusions but to the intellectual processes of
+> people he’s talking to, not in order to conform to them, but out of curiosity,
+> in case they are using some valuable heuristic he should add to his toolbox. I
+> often find that I get something different than usual from philosophers because
+> I read them this way. I find it jarring when people casually refer to
+> Nietzsche’s philosophy (to name one example) to reference some proposition or
+> other he’s famous for asserting. It seems natural to me to be referring to his
+> methods, but his specific conclusions seem like almost a weird irrelevancy. I
+> think this is one of the most valuable things I got out of my St. John’s
+> education – the ability to read thinkers to figure out what their *project*
+> was, rather than a bunch of specific propositions they were advancing. This is
+> my attempt to share this way of reading, by working through an example.
+
 # Frequency
 
 But now, given these belief tags, one might ask what the frequency of
@@ -160,3 +199,5 @@ if a writer were to log *all* of their thoughts\ ...
     > occasions where I find myself in a position of defending or arguing for
     > an idea I don’t necessarily feel strongly about, but feel compelled to
     > reply to someone giving the idea such dismissive treatment.
+
+[hoffman]: http://benjaminrosshoffman.com/projects-philosophers/ "Ben Hoffman. “Projects of philosophers”. Compass Rose. June 22, 2016."
