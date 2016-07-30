@@ -1,15 +1,9 @@
 ---
 title: Belief
-feed_description: add more of my own explanation
 author: Issa Rice
 creation_date: 2014-12-22
-last_major_revision_date: 2015-06-29
-language: English
-status: in progress
+date: 2016-07-30
 belief: likely
-license: CC BY
-tags: site-info
-aliases: belief-tag, belief tags, belief marker, belief markers
 ---
 
 This page is about the belief notices (or tags or markers) that are
