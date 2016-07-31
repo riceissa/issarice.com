@@ -4,6 +4,10 @@ author: Issa Rice
 date: 2016-07-30
 ---
 
+*Note: this was originally written as an answer to the Quora question ["Are
+there URLs one cannot send over Facebook messenger due to its broken URL
+parsing?"][question].*
+
 Yes, at least if you want the URL to be clickable. One instance where this
 happens is if a URL ends with `*` (a star or asterisk). Facebook interprets a
 star followed by a space to be the end of a URL (and does not include the star
@@ -39,3 +43,5 @@ interpreted to mean “search all the URLs in this domain ending with `%2A`”.
 
 I also encountered a problem once when I sent a series of long URLs in a single
 message (I’ll have to dig that example up).
+
+[question]: https://www.quora.com/Are-there-URLs-one-cannot-send-over-Facebook-messenger-due-to-its-broken-URL-parsing
