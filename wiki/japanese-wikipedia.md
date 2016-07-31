@@ -39,3 +39,7 @@ them interesting.
     > な感情が行き交う場に身を浸し、のめり込み過ぎて毒にならない程度に空気を感じ
     > 取ってくることは、刺激的であると同時に、自分の中の中立性を磨くことにも繋が
     > り、人生を豊かにすると信じています。
+
+- [List of Japanese inclusionists][ja inc]
+
+[ja inc]: https://ja.wikipedia.org/wiki/Category:%E5%8C%85%E6%91%82%E4%B8%BB%E7%BE%A9%E8%80%85%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3
