@@ -40,6 +40,7 @@ them interesting.
     > 取ってくることは、刺激的であると同時に、自分の中の中立性を磨くことにも繋が
     > り、人生を豊かにすると信じています。
 
-- [List of Japanese inclusionists][ja inc]
+- [List of Japanese inclusionists][ja inc] and a [list of 2channers][2ch]
 
+[2ch]: https://ja.wikipedia.org/wiki/Category:2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%89%E3%83%BC
 [ja inc]: https://ja.wikipedia.org/wiki/Category:%E5%8C%85%E6%91%82%E4%B8%BB%E7%BE%A9%E8%80%85%E3%81%AE%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3
