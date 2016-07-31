@@ -7,6 +7,9 @@ date: 2016-07-21
 This page is part of my effort to better understand Japanese online communities.
 See also my page on [2channel]().
 
+I don't necessarily agree with the quotes below. I'm just taking notes and found
+them interesting.
+
 -   <https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Muyo>:
 
     > 日本民族は日本列島という他のどの地域とも異なる気候風土の中で、日本語という
