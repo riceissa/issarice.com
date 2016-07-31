@@ -39,7 +39,7 @@ One might feel this is quite contrived, but I actually first encountered it when
 trying to send an [archive.org](http://archive.org) link to a friend. The URL
 ending with `*` (which Facebook cannot send) was interpreted to mean “search all
 the URLs in this domain”, whereas the percent-encoded URL ending in `%2A` was
-interpreted to mean “search all the URLs in this domain ending with `%2A`”.
+interpreted to mean “find the URL in this domain containing just `%2A`”.
 
 I also encountered a problem once when I sent a series of long URLs in a single
 message (I’ll have to dig that example up).
