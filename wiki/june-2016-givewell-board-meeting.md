@@ -84,10 +84,10 @@ now uncertain about whether to continue, and only do it when we have something
 we want to fill. 13:00: overall, same size for GW b/c a lot of the growth is
 Open Phil, which we're trying to split off.
 
-13:35: bridget(?): from the outside, it could look questionable!
+13:35: brigid(?): from the outside, it could look questionable!
 
-14:22: so many of hte people we hired are so new that we had to put in senior
-staff time to train new people.now we're coming to th eend of that so we will
+14:22: so many of the people we hired are so new that we had to put in senior
+staff time to train new people.now we're coming to the end of that so we will
 revisit.
 
 14:55: holden: some really extensive efforts that haven't resulted in any new top
@@ -188,32 +188,32 @@ Succession plan?
 43:26: Holden: salary is not a major thing.
 
 44:18: holden: we look at our pay, we look at what we want. we come up with a
-number that looks good to us. being through would only lead to a higher number
+number that looks good to us. being thorough would only lead to a higher number
 (LOL). 44:54: we would do more thorough research if we felt it was necessary.
 
 45:26: unanimous approval (after pause in recording).
 
 48:40: virtually all content is backed up in multiple locations. there are
-things we are willing to lose, since not catastripic to do so.
+things we are willing to lose, since not catastrophic to do so.
 
 50:30: GW is not dependent on GV, even after split. more like we're partners
-between holden and cari. Open Phil would take advantage or cari, or run in a
-stirpped down way. 51:59: cari and dustin aren't tied down, they have their own
+between holden and cari. Open Phil would take advantage or Cari, or run in a
+stripped down way. 51:59: Cari and Dustin aren't tied down, they have their own
 thing (GV).
 
 52:35: does Open Phil plan to solicit funding other than GV?
 
-yes, but we're still a long way from spending cari and dustin's money. we're
+yes, but we're still a long way from spending Cari and Dustin's money. we're
 just really trying to increase room for money moved. there's donors i could go
 to (53:40) but they're not the size of GV. it would be a massive project if i
 wanted to get together enough donors to be like another GV. but eventually
 (54:24) we'd want to do it.
 
-56:59: alexander is here.
+56:59: Alexander is here.
 
 58:00: suggestion rob had is to make subcommittees for different topics.
 
-1:01:59: unclear what goals i'm trying to provide as a board member. a bunch
+1:01:59: unclear what goals I'm trying to provide as a board member. a bunch
 have invested in holden and elie's vision. we're not spending a lot of money on
 GW but sending it off to others. what is the goal of the board? is ti as a
 sounding board of the CEOs to help them in their vision? 
