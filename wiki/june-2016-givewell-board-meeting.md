@@ -27,6 +27,18 @@ However, the audio format -- though supplemented by PDF attachments -- makes
 these board meetings difficult to consume. Text is also [easier to search
 through and search for][beware].
 
+The two other board meetings I have spent some time going through (together with
+Vipul Naik) are the [October 2015][oct2015] one and the [March 2016][mar2016]
+one, with the March 2016 one being more interesting.
+
+My main motivations for publishing this page (i.e. beyond just consuming it
+myself) are to:
+
+- Make the board meeting content more accessible
+- Bring attention to the board meetings (which are only announced on the "Newly
+  published GiveWell materials" feed and not the GiveWell blog), to show that
+  they contain both important and interesting information
+
 [GiveWell's board meeting page][gw], which also links to the audio as well as
 attachment PDFs.
 
@@ -212,5 +224,11 @@ mission" and so on]
 i worry that GW momentum might stall b/c a lot of where effort was most invested
 is being taken out (as open phil).
 
+# Commentary
+
+Coming soon.
+
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
 [gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
+[mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
+[oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
