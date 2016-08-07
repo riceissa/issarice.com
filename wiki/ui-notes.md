@@ -11,8 +11,9 @@ or use configuration options. Instead of adding options, try to make the default
 behaviour of your application work for as many people as possible" seems spot
 on. Of course, one must balance this with making it easy for users to find what
 they want, in case they *do* need to access configuration options (which is
-often the case because software isn't perfect and the user has to tweak or fix
-things).
+often the case because software isn't perfect -- or there are legitimate reasons
+for different users to prefer different options -- and the user has to tweak or
+fix things).
 
 But here are some questions I have:
 
