@@ -4,6 +4,8 @@ author: Issa Rice
 date: 2016-05-07
 ---
 
+Note: just some musings that haven't been stress-tested.
+
 I'm reading <https://developer.gnome.org/hig/stable/design-principles.html.en>
 now. This has quite a few sensible ideas that (I think) hadn't been taken as
 seriously (at least until recently). For instance, "most people will never see
