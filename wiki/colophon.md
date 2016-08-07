@@ -18,7 +18,7 @@ You can [visit the repository](https://github.com/riceissa/riceissa.com) on GitH
 I also have a [mirror on BitBucket](https://bitbucket.org/riceissa/issarice.com/) (which is often behind, and should not be relied on).
 
 The actual site is served via [Linode](https://www.linode.com/), using Nginx on a 64-bit Debian 8 (Jessie) machine.
-I currently use the [Linode 1GB \$10 per month plan](https://www.linode.com/pricing).
+I currently use the [Linode 2GB \$10 per month plan](https://www.linode.com/pricing).
 
 I have registered the domains [issarice.com](http://issarice.com) and [riceissa.com](http://riceissa.com) through [Hover](https://www.hover.com/).
 
