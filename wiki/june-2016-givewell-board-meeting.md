@@ -4,8 +4,33 @@ author: Issa Rice
 date: 2016-08-07
 ---
 
+# Summary
+
+I present a rough transcript of the June 2016 GiveWell (Clear Fund) board
+meeting and provide light commentary. Topics discussed in the meeting include:
+
+- More details of Open Phil's split from GiveWell
+- GiveWell's [staff growth](http://issarice.com/givewell-staff-growth)
+- Increase in [executive compensation](http://issarice.com/givewell-executive-compensation) (i.e. Holden's and Elie's salary) from $150,000 to $175,000.
+
+# Introduction
+
+I've been interested in GiveWell board meetings for a few months, mostly because
+of my general interest in GiveWell itself (as an organization that many EAs look
+up to and look to for where to direct their funding; EA in turn interests me for
+its proximity to the rationality community and for its purported goal of trying
+to do the most good possible). I have found that some of the board members do a
+good job of pushing back on Holden and Elie -- certainly a better job of it than
+many explicit critiques!
+
+However, the audio format -- though supplemented by PDF attachments -- makes
+these board meetings difficult to consume. Text is also [easier to search
+through and search for][beware].
+
 [GiveWell's board meeting page][gw], which also links to the audio as well as
 attachment PDFs.
+
+# Rough transcript
 
 Holden/Elie proposes that board members reelect themselves. (done independently
 through email - other votes done during the meeting?)
@@ -187,4 +212,5 @@ mission" and so on]
 i worry that GW momentum might stall b/c a lot of where effort was most invested
 is being taken out (as open phil).
 
-[gw]: http://www.givewell.org/about/official-records/board-meeting-33
+[beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
+[gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
