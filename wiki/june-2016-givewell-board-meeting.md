@@ -16,13 +16,14 @@ meeting and provide light commentary. Topics discussed in the meeting include:
 # Introduction
 
 I've been interested in GiveWell board meetings for a few months, mostly because
-of my general interest in GiveWell itself (as an organization that looks into
-topics in global health that interest me and that many EAs look up to and look
-to for where to direct their funding; EA in turn interests me for its proximity
-to the rationality community and for its purported goal of trying to do the most
-good possible). I have found that some of the board members do a good job of
-pushing back on Holden and Elie -- certainly a better job of it than many
-public written critiques!
+of my general interest in GiveWell itself as an organization that looks into
+topics in global health that interest me and publishes charity recommendations
+and conversations in that area, and that many EAs look up to and look to for
+where to direct their funding; EA in turn interests me for its proximity to the
+rationality community and for its purported goal of trying to do the most good
+possible. I have found that some of the board members do a good job of pushing
+back on Holden and Elie -- certainly a better job of it than many public written
+critiques!
 
 However, the audio format -- though supplemented by PDF attachments -- makes
 these board meetings difficult to consume. Text is also [easier to search
@@ -47,7 +48,8 @@ Some other points:
   male board members (e.g. Tim and Rob) were difficult to tell apart.
 - I'd like to thank GiveWell for being transparent enough to release (most of)
   the audio of their board meetings. As far as I know, this is quite a rare
-  thing to do for an organization.
+  thing to do for an organization (though I would love to find similar
+  recordings for other organizations).
 
 [GiveWell's board meeting page][gw], which also links to the audio as well as
 attachment PDFs.
@@ -94,7 +96,7 @@ now uncertain about whether to continue, and only do it when we have something
 we want to fill. 13:00: overall, same size for GW b/c a lot of the growth is
 Open Phil, which we're trying to split off.
 
-13:35: brigid(?): from the outside, it could look questionable!
+13:35: Brigid(?): from the outside, it could look questionable!
 
 14:22: so many of the people we hired are so new that we had to put in senior
 staff time to train new people.now we're coming to the end of that so we will
