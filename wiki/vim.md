@@ -352,6 +352,29 @@ I take some inspiration from Vim's own mail.vim, which is both helpful (in
 coloring URLs and not spell-checking within them) and unobtrusive (by not even
 distinguishing common markup for e.g. \*emphasis\*).
 
+Note that Hacker News also has a [very minimal markup][hn] that only converts
+code blocks (but not inline code!), italics, and URLs. Facebook messaging and
+posts also have limited formatting options, where URLs and certain other text
+(phone numbers, dollar amounts, `@dailycute`, `@fbchess`, names of people, etc.)
+are detected.
+
+Do we see this trend only in markup languages, or also in programming languages?
+One point to consider is that in programming, indentation either does not matter
+(e.g. C) or it does not affect the highlighting (e.g. with Python, indentation
+matters, but one can always ignore all the current level of indentation and
+color as if the text is at the outermost level of indentation (?)). In contrast,
+Markdown makes heavy use of indentation to affect meaning *and* the coloring
+must be aware of this (e.g. to understand that one is *in* or *not in* a
+codeblock or blockquote); indeed, some markup languages like TeX allow the user
+to arbitrarily redefine the language (commonly seen with `\makeatletter` and
+`\makeatother`). Another difficulty with Markdown is the lack of
+standardization, which makes the coloring correct under some implementations but
+not others. Escaping methods might also be worth considering. Markdown code can
+take $n$ backticks to include $n-1$ backticks inside the code. This makes the
+source easier to read for a human, but for syntax highlighting, it's easier to
+deal with one-off backslash escapes favored in languages like Python (since
+there is less context to maintain).
+
 # Other problems
 
 Despite using Vim for almost everything, I still have some problems with
@@ -397,6 +420,7 @@ benefits may outweigh the costs):
         autocmd FileType markdown nnoremap <buffer> <C-]> "zya[:let @z=substitute(@z, "\n", ' ', "g")<CR>:let @z=substitute(@z, "\\s\\+", " ", "g")<CR>:let @z=substitute(@z, " ", "\\\\(\\\\s\\\\\\|\\\\n\\\\)\\\\+", "g")<CR>/\V<C-r>z<CR>
 
 [clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
+[hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
 [saw]: http://vimcasts.org/blog/2012/08/on-sharpening-the-saw/
 
