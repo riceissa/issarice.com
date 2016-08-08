@@ -16,12 +16,13 @@ meeting and provide light commentary. Topics discussed in the meeting include:
 # Introduction
 
 I've been interested in GiveWell board meetings for a few months, mostly because
-of my general interest in GiveWell itself (as an organization that many EAs look
-up to and look to for where to direct their funding; EA in turn interests me for
-its proximity to the rationality community and for its purported goal of trying
-to do the most good possible). I have found that some of the board members do a
-good job of pushing back on Holden and Elie -- certainly a better job of it than
-many explicit critiques!
+of my general interest in GiveWell itself (as an organization that looks into
+topics in global health that interest me and that many EAs look up to and look
+to for where to direct their funding; EA in turn interests me for its proximity
+to the rationality community and for its purported goal of trying to do the most
+good possible). I have found that some of the board members do a good job of
+pushing back on Holden and Elie -- certainly a better job of it than many
+public written critiques!
 
 However, the audio format -- though supplemented by PDF attachments -- makes
 these board meetings difficult to consume. Text is also [easier to search
@@ -38,6 +39,12 @@ myself) are to:
 - Bring attention to the board meetings (which are only announced on the "Newly
   published GiveWell materials" feed and not the GiveWell blog), to show that
   they contain both important and interesting information
+
+Some other points:
+
+- It was difficult for me to tell who is talking some of the time. I think I
+  could tell the difference between Holden and Elie and all the women, but the
+  male board members (e.g. Tim and Rob) were difficult to tell apart.
 
 [GiveWell's board meeting page][gw], which also links to the audio as well as
 attachment PDFs.
@@ -221,8 +228,14 @@ sounding board of the CEOs to help them in their vision?
 [10:07:48: lots of stuff about the role of board members and "protecting the
 mission" and so on]
 
-i worry that GW momentum might stall b/c a lot of where effort was most invested
-is being taken out (as Open Phil).
+1:08:10: i worry that GW momentum might stall b/c a lot of where effort was most
+invested is being taken out (as Open Phil).
+
+1:09:10: elie: most of the big donors don't know open phil exists, don't care it
+exists. they know GW, and that's what they love about it.
+
+1:10:10: holden: fine by me even if GW just gets a new charity every 10 years
+and just exists and grows without doing anything totally new.
 
 # Commentary
 
