@@ -45,6 +45,9 @@ Some other points:
 - It was difficult for me to tell who is talking some of the time. I think I
   could tell the difference between Holden and Elie and all the women, but the
   male board members (e.g. Tim and Rob) were difficult to tell apart.
+- I'd like to thank GiveWell for being transparent enough to release (most of)
+  the audio of their board meetings. As far as I know, this is quite a rare
+  thing to do for an organization.
 
 [GiveWell's board meeting page][gw], which also links to the audio as well as
 attachment PDFs.
