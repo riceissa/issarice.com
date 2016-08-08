@@ -240,6 +240,28 @@ exists. they know GW, and that's what they love about it.
 1:10:10: holden: fine by me even if GW just gets a new charity every 10 years
 and just exists and grows without doing anything totally new.
 
+1:12:00: elie: bigger donors are more sophisticated and ask more sophisticated
+questions. it might just take one full-time staff to maintain GW.
+
+1:13:00: it's possible that GW is just a project that fulfils and important
+function with a manageable amount of staff and the money moved could keep growing
+more than the operating expenses keep growing.
+
+1:14:14: elie: the challenge isn't the (?), but more a general
+worry/skepticism . maybe there will come a time when that becomes a problem.
+
+1:15:00: there is a number of things GW could do that would be extensions of
+what they're doing currently.
+
+1:15:50: keep doing what it's doing? or do more outreach? or find ways to have
+more top charities (not holden's favorite)? favorite: try to seed the next top
+charities. that's what we're doing with GW experimental work.
+
+1:16:55: givewell labs is dead → open phil.
+
+1:17:15: elie: givewell experimental: could fund startups, could fund RCTs,
+etc., but with the goal of getting a new GW top charity.
+
 # Commentary
 
 Coming soon.
