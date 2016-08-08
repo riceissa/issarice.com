@@ -61,7 +61,7 @@ through email - other votes done during the meeting?)
 
 3:55: H&E admit "tough level to engage with" re budget
 
-Bridget: 5:48 expenses "don't line up"
+Brigid: 5:48 expenses "don't line up"
 
 6:13: response: actually May 2016 - April 2017; higher expenses if you
 incorporate the later months
