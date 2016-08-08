@@ -1,7 +1,7 @@
 ---
 title: GiveWell executive compensation
 author: Issa Rice
-date: 2016-06-30
+date: 2016-08-08
 ---
 
 This page reviews GiveWell's executive compensation for its two co-executive directors, Holden Karnofsky and Elie Hassenfeld.
