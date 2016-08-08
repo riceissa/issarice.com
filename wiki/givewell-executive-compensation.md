@@ -18,6 +18,13 @@ However, according to [their finance spreadsheet](http://blog.givewell.org/files
 
 At the June 2015 GiveWell board meeting, Holden and Elie [proposed a salary increase from $130,000 to $150,000](http://files.givewell.org/files/ClearFund/Meeting_2015_06_17/Attachment_G_Executive_compensation.pdf) (which was approved).
 
+At the [June 2016 GiveWell board meeting][june2016 meeting], Holden and Elie
+[proposed a salary increase from $150,000 to $175,000][june2016], which was
+approved.
+
 # See also
 
 - [GiveWell staff growth]()
+
+[june2016]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_F_Executive_compensation.pdf "Attachment F, Executive compensation review."
+[june2016 meeting]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell."
