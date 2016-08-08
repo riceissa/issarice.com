@@ -348,6 +348,10 @@ following:
   so that one can read a sentence without constantly having to track where the
   references end.
 
+I take some inspiration from Vim's own mail.vim, which is both helpful (in
+coloring URLs and not spell-checking within them) and unobtrusive (by not even
+distinguishing common markup for e.g. \*emphasis\*).
+
 # Other problems
 
 Despite using Vim for almost everything, I still have some problems with
