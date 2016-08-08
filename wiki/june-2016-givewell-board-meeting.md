@@ -262,6 +262,39 @@ charities. that's what we're doing with GW experimental work.
 1:17:15: elie: givewell experimental: could fund startups, could fund RCTs,
 etc., but with the goal of getting a new GW top charity.
 
+1:23:15: comments on which of the "four paths" for GW are best?
+
+1:24:14: any competitors to GW from outside? I know there are a few that "feed
+on" what GW is doing.
+
+No, there aren't.
+
+1:24:51: dean carlan et al have deep dives in organizations and asks similar
+questions, but not as deep as GW, and not clear it will lead to recs for donors.
+slogan on their website: [something]. Impact Matters. but they give recs based
+on what you already want (?). (–1:26:30)
+
+1:27:27: holden has been the main blogger for the past 10 years, so now that
+he's working on open phil, getting some of the other staff to replace him has
+been challenging.
+
+1:28:55: non-Gv money might go down b/c so much depends on what the top donors
+are doing. 80%+ retention?
+
+1:29:43: GW staff compensation. for a long time it was driven by a startup
+mindset. we actively recruit ppl who will earn less than what they could earn
+elsewhere. which worked well. but as staff matured, we did market-value
+comparisons for roles that we had. primarily the same stuff as we did for
+executive compensation. that plus living cost adjustments. we'll do that this
+year. no significant changes or lowered salary. we're growing from explicitly
+expecting ppl to make less to being more reasonable.
+
+1:32:50: no reason to expect Gw and open phil will have separate takes on this
+salary thing. GW expenses could grow as we get out of this "startup mode".
+
+1:33:55: very roughly in the 10%-20% range for raises. ppl are gonna raise
+families in the bay area.
+
 # Commentary
 
 Coming soon.
