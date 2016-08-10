@@ -56,8 +56,12 @@ attachment PDFs.
 
 # Rough transcript
 
+## Reelection of board members
+
 0:55: Holden and Elie propose that board members reelect themselves. Done
 independently through email -- other votes done during the meeting (2:30)?
+
+## Budget discussion
 
 3:55: Elie admits "tough level to engage with" re budget
 
@@ -162,112 +166,131 @@ then come back to open-ended topics.
 smaller, or all growth happens on the outreach side. And we really don't know
 right now.
 
-27:20: now you have 8 months of reserves. talk about this in context of growth.
+27:20: Female board member: Now you have 8 months of reserves. Talk about this
+in context of growth.
 
-28:00: best guess is GV will fund 100% of Open Phil costs. so GW-specific
-funding will surpass budget needs. so in holding pattern. since this big expense
-of Open Phil is going to come off. tried to commucate this to donors. (29:00).
+28:00: Elie: Best guess is GV will fund 100% of Open Phil costs. So GW-specific
+funding will surpass budget needs. So in holding pattern. Since this big expense
+of Open Phil is going to come off. Tried to communicate this to donors (to
+29:00).
 
-29:20: major econ downturn? what would happen? singularity starts??
+29:20: Male board member: Major econ downturn? What would happen? Singularity
+starts (joke)?
 
-29:52: we haven't done major assessment. but major backers have sufficient
-assets. holden: ppl need to believe in us to support us through that kind of
-thing (lol!!).
+29:52: Elie: We haven't done major assessment. But major backers have sufficient
+assets. 30:07: If we caused the catastrophe -- the equivalent of MetaFilter but
+in 2017 -- that could obviously cause us unknown damage. Holden: People need to
+believe in us to support us through that kind of thing.
 
-31:05-32:00: holden: idk if we're in some other "equivalence class" (LOL)
+32:10: Male board member: Strange categories for the budget. $12k in travel?
 
-32:10: $12k in travel?
+34:28: Elie: Standard entry-level salary is $50k. We even pay people higher than
+Holden and Elie, to pay market value.
 
-34:28: standard entry-level salary is $50k. we even pay ppl hire than holden and
-elie, to pay market value.
+34:55: Male board member: This presentation not helpful in providing meaningful
+oversight. I don't feel like I'm doing my job as a board member.
 
-34:55: this presentation not helpful in providing meaningful oversight. i don't
-feel like i'm doing my job as a board member!
+35:28: Elie: It's up to you if you wanna vote now. How can we improve how we
+function. I agree with what Tim is saying. I agree that you can't engage with it
+in a meaningful way right now.
 
-35:28: it's up to you if you wanna vote now. how can we improve how we function.
-i agree with what tim is saying. i agre that you can't engage with it in a
-meaningful way right now. we should now move to exec compensation! (36:10)
-changed the amounts, the rest of the document is exactly the same (LOL).
+## Executive compensation
 
-38:00: i've struggled. should i add the two to look at them together? wah'ts up
-with "co-executive director"? with the impending split, should we vote for just
-one executive director.
+36:10: Elie: We should now move to exec compensation! Changed the amounts, the
+rest of the document is exactly the same.
 
-38:38: at the end of 2017, we expect 1. that's why we show CEO and COO salaries.
-it seems reasonable. data not always available.
+38:00: Male board member: I've always struggled looking at these figures. Should
+I add the two (Holden and Elie) to look at them together? What's up with
+"co-executive director"? With the impending split, should we vote for just one
+executive director?
 
-39:38: officially next year we should update the salary comparisons.
+38:38: Elie: At the end of 2017, we expect 1. That's why we show CEO and COO
+salaries. It seems reasonable. Data not always available.
 
-40:55: i fdoing extra work would mean only make the work higher and we're not
-asking for more, we're happy to skip.
+39:38: Holden: Officially next year we should update the salary comparisons.
 
-41:13: you guys are in a funny pos b/c you're trying to present this as
-objective reality, but is this what you want?
+40:55: Holden: If doing extra work would mean only make the work higher and
+we're not asking for more, we're happy to skip.
 
-you should look at this as what we want.
+41:13: Male board member: You guys are in a funny position because you're trying
+to present this as objective reality, but is this what you want?
 
-42:58: replacement costs of CEO might be higher than increasing salaries.
-Succession plan?
+41:32: Elie: You should look at this as what we want.
 
-43:26: Holden: salary is not a major thing.
+42:55: Male board member: Replacement costs of CEO might be higher than
+increasing salaries (continuing operations). Succession plan?
 
-44:18: holden: we look at our pay, we look at what we want. we come up with a
-number that looks good to us. being thorough would only lead to a higher number
-(LOL). 44:54: we would do more thorough research if we felt it was necessary.
+43:26: Holden: Salary is not a major thing there.
 
-45:26: unanimous approval (after pause in recording).
+44:18: Holden: We look at our pay, we look at what we want. We come up with a
+number that feels good to us. Being more thorough would only lead to a higher
+number. 44:54: We would do more thorough research if we felt it was necessary.
 
-48:40: virtually all content is backed up in multiple locations. there are
-things we are willing to lose, since not catastrophic to do so.
+45:26: *Unanimous approval (after pause in recording).*
 
-50:30: GW is not dependent on GV, even after split. more like we're partners
-between holden and cari. Open Phil would take advantage or Cari, or run in a
-stripped down way. 51:59: Cari and Dustin aren't tied down, they have their own
-thing (GV).
+48:40: Elie: Virtually all content is backed up in multiple locations. There are
+things we are willing to lose, since not absolutely catastrophic to do so.
 
-52:35: does Open Phil plan to solicit funding other than GV?
+49:30: Elie: GV check-in topics. The reason we do this is Cari is in the office.
+One concern is if Cari -- a big funder -- being in the office is causing
+problems. Things continue to go well; just planning to take questions.
 
-yes, but we're still a long way from spending Cari and Dustin's money. we're
-just really trying to increase room for money moved. there's donors i could go
-to (53:40) but they're not the size of GV. it would be a massive project if i
-wanted to get together enough donors to be like another GV. but eventually
-(54:24) we'd want to do it.
+*Audio cuts at 50:18.*
 
-56:59: Alexander is here.
+50:30: Holden: GW is not dependent on GV, even after split. More like we're
+partners between Holden and Cari. Big issue if one of us left. Open Phil would
+take advantage of partnership, or run in a stripped down way. 51:59: Cari and
+Dustin aren't tied down, they have their own thing (GV).
 
-58:00: suggestion rob had is to make subcommittees for different topics.
+52:35: Male board member: Does Open Phil plan to solicit funding other than GV?
 
-1:01:59: unclear what goals I'm trying to provide as a board member. a bunch
-have invested in holden and elie's vision. we're not spending a lot of money on
-GW but sending it off to others. what is the goal of the board? is ti as a
-sounding board of the CEOs to help them in their vision? 
+52:37: Holden: Yes, but we're still a long way from spending Cari and Dustin's
+money. We're just really trying to increase room for money moved. There's donors
+I could go to (53:37) but they're not the size of GV. It would be a massive
+project if I wanted to get together enough donors to be like another GV. But
+eventually (54:24) we'd want to do it.
 
-[10:07:48: lots of stuff about the role of board members and "protecting the
-mission" and so on]
+56:56: Elie: Alexander is here. (57:13) Suggestion rob had is to make
+subcommittees for different topics. Board professionalization, making meetings
+more efficient. Plan is to follow-up individually after the meeting.
 
-1:08:10: i worry that GW momentum might stall b/c a lot of where effort was most
-invested is being taken out (as Open Phil).
+1:01:59: Male board member: Unclear what goals I'm trying to provide as a board
+member. A bunch have invested in Holden and Elie's vision. We're not spending a
+lot of money on GW but sending it off to others, so less concern. What is the
+goal of the board? Is it as a sounding board for the CEOs to help them in their
+vision?
 
-1:09:10: elie: most of the big donors don't know open phil exists, don't care it
-exists. they know GW, and that's what they love about it.
+1:07:48: *Lots of stuff about the role of board members and "protecting the
+mission" and so on.*
 
-1:10:10: holden: fine by me even if GW just gets a new charity every 10 years
+1:08:10: Male board member: I worry that GW momentum might stall because a lot
+of where effort was most invested is being taken out (as Open Phil).
+
+1:09:10: Elie: Most of the big donors don't know Open Phil exists, don't care it
+exists. They know GW, and that's what they love about it.
+
+1:10:10: Holden: Fine by me even if GW just gets a new charity every 10 years
 and just exists and grows without doing anything totally new.
 
-1:12:00: elie: bigger donors are more sophisticated and ask more sophisticated
-questions. it might just take one full-time staff to maintain GW.
+1:12:00: Elie: Bigger donors are more sophisticated and ask the sophisticated
+question of "What should the resources be devoted to whatever the GiveWell
+product is?". It might just take one full-time staff to maintain GW. And that's
+a great outcome.
 
-1:13:00: it's possible that GW is just a project that fulfils and important
-function with a manageable amount of staff and the money moved could keep growing
-more than the operating expenses keep growing.
+1:13:00: Holden: It's possible that GW is just a project that fulfils and
+important function with a manageable amount of staff and the money moved could
+keep growing more than the operating expenses keep growing, which would be
+great.
 
-1:14:14: elie: the challenge isn't the (?), but more a general
-worry/skepticism . maybe there will come a time when that becomes a problem.
+1:14:14: Elie: I don't think the challenge is this newness in philanthropy as
+much as a general worry or skepticism that GiveWell is doing its job if the
+recommendations stay the same. Maybe there will come a time when that becomes a
+problem.
 
-1:15:00: there is a number of things GW could do that would be extensions of
-what they're doing currently.
+1:15:00: Male board member: there is a number of things GW could do that would
+be extensions of what they're doing currently.
 
-1:15:50: keep doing what it's doing? or do more outreach? or find ways to have
+1:15:50: Holden: I think there's a few different paths. keep doing what it's doing? or do more outreach? or find ways to have
 more top charities (not holden's favorite)? favorite: try to seed the next top
 charities. that's what we're doing with GW experimental work.
 
@@ -283,7 +306,7 @@ on" what GW is doing.
 
 No, there aren't.
 
-1:24:51: dean carlan et al have deep dives in organizations and asks similar
+1:24:51: Dean Karlan et al have deep dives in organizations and asks similar
 questions, but not as deep as GW, and not clear it will lead to recs for donors.
 slogan on their website: [something]. Impact Matters. but they give recs based
 on what you already want (?). (–1:26:30)
