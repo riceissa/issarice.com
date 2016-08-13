@@ -420,6 +420,12 @@ might become impossible to obtain information of that sort we have on it now
 > likely have broad appeal, and we’d have more trouble focusing on neglected
 > areas.
 
+Regarding staff growth and executive compensation, see my previous efforts at
+trying to track those at my pages on those topics:
+
+- [GiveWell staff growth][sg]
+- [GiveWell executive compensation][ec]
+
 [agenda]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Agenda_GiveWell_Board_Meeting_June_2016.pdf "“GiveWell Board Meeting Agenda June 14th, 2016”. GiveWell."
 [attachment d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
 [attachment e]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_E_Financial_narrative.pdf
