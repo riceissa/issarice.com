@@ -77,12 +77,17 @@ is not exact.*
 
 ## Reelection of board members
 
+*The [meeting agenda][agenda] has some relevant information.*
+
 0:55: *Holden and Elie propose that board members reelect themselves. Done
 independently through email. Other votes said to be done during the meeting
 (2:30), but it's not clear to me -- as someone who doesn't have access to all of
 the audio -- that all of the votes did in fact take place during the meeting.*
 
 ## Budget discussion
+
+*[Attachment D][attachment d], "Budget review and proposal", is a spreadsheet
+containing detailed budget information.*
 
 3:50: Elie: We recognize this is a tough level to engage with regarding budget.
 
@@ -226,6 +231,9 @@ in a meaningful way right now.
 
 ## Executive compensation
 
+*See also [Attachment F][attachment f], "Executive compensation review and
+proposal".*
+
 36:10: Elie: We should now move to executive compensation. Changed the amounts,
 the rest of the document is exactly the same.
 
@@ -262,6 +270,9 @@ number. 44:54: We would do more thorough research if we felt it was necessary.
 things we are willing to lose, since not absolutely catastrophic to do so.
 
 ## Relationship with Good Ventures
+
+*See also [Attachment E][attachment e], "Narrative summary of revenue changes
+and forecasts", which discusses funding from Good Ventures.*
 
 49:30: Elie: GV check-in topics. The reason we do this is Cari is in the office.
 One concern is if Cari -- a big funder -- being in the office is causing
@@ -406,13 +417,17 @@ might become impossible to obtain information of that sort we have on it now
 > likely have broad appeal, and we’d have more trouble focusing on neglected
 > areas.
 
+[agenda]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Agenda_GiveWell_Board_Meeting_June_2016.pdf "“GiveWell Board Meeting Agenda June 14th, 2016”. GiveWell."
+[attachment d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
+[attachment e]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_E_Financial_narrative.pdf
+[attachment f]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_F_Executive_compensation.pdf
 [audio]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Board_Meeting_June_14_2016.mp3 "87 MB."
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
 [ec]: givewell-executive-compensation
 [gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
+[hits]: http://www.openphilanthropy.org/blog/hits-based-giving "Holden Karnofsky. “Hits-based Giving”. April 4, 2016. Open Philanthropy Project."
 [im]: http://www.impactm.org/ "ImpactMatters."
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
 [new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: givewell-staff-growth
-[hits]: http://www.openphilanthropy.org/blog/hits-based-giving "Holden Karnofsky. “Hits-based Giving”. April 4, 2016. Open Philanthropy Project."
