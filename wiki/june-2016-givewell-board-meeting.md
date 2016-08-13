@@ -19,8 +19,7 @@ meeting and provide light commentary. Topics discussed in the meeting include:
 I've tried my best to mark these parts in the "Rough transcript" section below
 using subsections.
 
-The "Commentary" section at the end gives my take on things, as well as a
-general conclusion.
+The "Commentary" section at the end gives my take on some of the topics.
 
 # Introduction
 
