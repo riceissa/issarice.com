@@ -19,6 +19,9 @@ meeting and provide light commentary. Topics discussed in the meeting include:
 I've tried my best to mark these parts in the "Rough transcript" section below
 using subsections.
 
+The "Commentary" section at the end gives my take on things, as well as a
+general conclusion.
+
 # Introduction
 
 I've been interested in GiveWell board meetings for a few months, mostly because
@@ -58,11 +61,19 @@ Some other points:
 - I'd like to thank GiveWell for being transparent enough to release (most of)
   the audio of their board meetings. As far as I know, this is quite a rare
   thing to do for an organization (though I would love to find similar
-  recordings for other organizations).
+  recordings for other organizations). The board meeting audio could even be
+  useful to other nonprofits as a guide to conducting their own board meetings.
 - The official [board meeting page for this board meeting][gw] links to the
   audio as well as attachment PDFs.
 
 # Rough transcript
+
+*Note: This section was produced using the [audio][audio] of the board meeting.
+I've tried my best to accurately convey what was said during the meeting, but
+there may be errors. If you would like to quote from the meeting, you should
+probably listen to the audio yourself, because (1) you will provide an
+additional sanity check that the quote is correct, and (2) this rough transcript
+is not exact.*
 
 ## Reelection of board members
 
@@ -382,11 +393,12 @@ currently has, so that with Open Phil officially separate from GiveWell, it
 might become impossible to obtain information of that sort we have on it now
 (through board meetings, for instance).
 
+[audio]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Board_Meeting_June_14_2016.mp3
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
 [ec]: givewell-executive-compensation
 [gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
 [im]: http://www.impactm.org/ "ImpactMatters."
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
+[new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: givewell-staff-growth
-[new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
