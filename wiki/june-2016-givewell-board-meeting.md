@@ -98,6 +98,9 @@ the later months.
 
 ## Staff growth and details of hiring method
 
+*[Attachment D][attachment d], "Budget review and proposal", is a spreadsheet
+containing detailed budget information, which is relevant to this section.*
+
 7:15: Male board member: Better understanding of staff work? Breakdown staff by
 function. 38 full-time staff. And between GW and Open Phil.
 
@@ -177,7 +180,7 @@ in on the cause selection. A lot of the most idiosyncratic things about us are
 around the cause selection, and it becomes easier to say there are certain
 qualifications that would prepare someone for a role here.
 
-20:14: Female board member: Is the reason people are new is because the older
+20:14: Female board member: Is the reason people are new because the older
 people moved on to Open Phil?
 
 20:21: Holden: There is some of that. Transition that took place starting in
