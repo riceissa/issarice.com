@@ -370,7 +370,17 @@ this "startup mode".
 
 # Commentary
 
-Coming soon.
+My general impression regarding the split of Open Phil from GiveWell is that it
+will make tracking certain things about GiveWell easier. For instance, there
+seems to be some confusion about exactly how many staff members GiveWell has,
+and how much of the budget goes to them, which will become clearer after the
+split. At the same time, some board members expressed concern that with a large
+part of GiveWell being taken out as Open Phil, GiveWell might lose momentum
+(though Holden and Elie seem to deny this). For my part, it's not clear to me
+that Open Phil will have the same standards for transparency that GiveWell
+currently has, so that with Open Phil officially separate from GiveWell, it
+might become impossible to obtain information of that sort we have on it now
+(through board meetings, for instance).
 
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
 [ec]: givewell-executive-compensation
