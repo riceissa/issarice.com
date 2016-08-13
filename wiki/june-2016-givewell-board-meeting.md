@@ -58,39 +58,39 @@ attachment PDFs.
 
 ## Reelection of board members
 
-0:55: Holden and Elie propose that board members reelect themselves. Done
-independently through email -- other votes done during the meeting (2:30)?
+0:55: *Holden and Elie propose that board members reelect themselves. Done
+independently through email -- other votes done during the meeting (2:30)?*
 
 ## Budget discussion
 
-3:55: Elie admits "tough level to engage with" re budget
+3:50: Elie: We recognize this is a tough level to engage with regarding budget.
 
-5:48 Brigid: expenses "don't line up"
+5:48 Brigid: Expenses don't line up.
 
-6:13: response: actually May 2016 - April 2017; higher expenses if you
-incorporate the later months
+6:13: Elie: Actually May 2016 -- April 2017; higher expenses if you incorporate
+the later months.
 
-7:15: Rob(?): Better understanding of staff work? Breakdown staff by function.
-38 full-time staff. And between GW and Open Phil.
+7:15: Male board member: Better understanding of staff work? Breakdown staff by
+function. 38 full-time staff. And between GW and Open Phil.
 
-8:04: Elie: 15 - Open Phil; 15 - GW; 8 - operation staff (shared). 2/3 expenses
-Open Phil, other 1/3 for GW. We're moving toward separating the organizations.
-But we haven't done that yet so it's just a rough estimate.
+8:04: Elie: 15 -- Open Phil; 15 -- GW; 8 -- operation staff (shared). 2/3
+expenses Open Phil, other 1/3 for GW. We're moving toward separating the
+organizations. But we haven't done that yet so it's just a rough estimate.
 
-8:35: No time record of this split? Is the rest (ignoring the 8) research from
-higher to lower?
+8:35: Male board member: No time record of this split? Is the rest (ignoring the
+8) research from higher to lower?
 
 9:25: Elie: 2 for GW outreach. The rest is research of one type or another, for
 either GW or Open Phil. Including program officers to entry-level researchers.
 
-10:00: Interns included?
+10:00: Male board member: Interns included?
 
-10:07: Not in the 38 head count.  9 interns during the summer; rarely during the
-rest of the year.
+10:07: Elie: Not in the 38 head count. 9 interns during the summer; rarely
+during the rest of the year.
 
-10:30: What's the rationale for the growth? Any benchmark to decide how much to
-hire?  Is there any observable correlation between the hires and any
-output/content/GW fans?
+10:30: Male board member: What's the rationale for the growth? Any benchmark to
+decide how much to hire?  Is there any observable correlation between the hires
+and any output/content/GW fans?
 
 11:10: Elie: This growth is to hire is "conservative" in the sense that it is
 very unlikely more than 53 people across both organizations as of June 2017.
@@ -104,9 +104,9 @@ lot of the growth is Open Phil, which we're trying to split off.
 
 13:35: Brigid(?): From the outside, it could look questionable!
 
-14:22: So many of the people we hired are so new that we had to put in senior
-staff time to train new people. Now we're coming to the end of that so we will
-revisit how and whether GW research should continue to grow.
+14:22: Elie: So many of the people we hired are so new that we had to put in
+senior staff time to train new people. Now we're coming to the end of that so we
+will revisit how and whether GW research should continue to grow.
 
 14:55: Holden: There is a low-hanging fruit dynamic. Some really extensive
 efforts that haven't resulted in any new top charities. We have ideas about how
@@ -115,14 +115,14 @@ the current ones -- or even in the same ball-park -- it's high-risk long-term
 high-energy high-intensive kind of stuff (15:28); there is a question about
 whether this is worth it.
 
-15:42: Can you talk about the types of people you have hired? Where do they
-stand? What percentile of ability/experience/pay?
+15:42: Male board member: Can you talk about the types of people you have hired?
+Where do they stand? What percentile of ability/experience/pay?
 
 16:11: Elie: Helpful to talk separately about Open Phil. For GW research, most
 of the people are are entry-level, out of college. 6 months to 2 years to train.
 That's the 25th to 75th percentile.
 
-16:50: Where do you hire from?
+16:50: Male board member: Where do you hire from?
 
 16:58: Elie: College grads who go to top 25 schools who are interested in
 effective altruism. Same is mostly true of operations staff. Primarily entry
@@ -130,23 +130,27 @@ level generalists. We now need what we need and hope to fill (17:10). Plan to
 not hire as many of that types, to hire more specific roles. Instead of hiring a
 generalist to learn accounting, to hire someone who knows that (17:36).
 
-17:58: How many have you brought in who are not entry-level?
+17:58: Male board member: How many have you brought in who are not entry-level?
 
 18:02: Elie: Very few. Open Phil has bunch of senior hires.
 
-18:50--19:14: How much of it is them coming to you vs you going to them?
+18:50--19:14: Male board member: How much of it is them coming to you vs you
+going to them?
 
 19:18: Elie: Hard to say, but very generally most people are interested in us,
 rather than us posting on job boards, for GW.
 
 19:33: Cari(?): Different for Open Phil.
 
-19:38: Holden: GW is more difficult to hire for in some ways, has own kind of
-intellectual way of uncovering things.
+19:38: Holden: GW is more difficult to hire for in some ways, it's got its own
+style, its own mission, its own kind of intellectual way of uncovering things
+and of discovering things. Open Phil feels more like a lot of the hard work goes
+in on the cause selection. A lot of the most idiosyncratic things about us are
+around the cause selection, and it becomes easier to say there are certain
+qualifications that would prepare someone for a role here.
 
-TODO: add more details to above.
-
-20:14: Is the reason people are new is b/c the older people moved on to Open Phil?
+20:14: Female board member: Is the reason people are new is because the older
+people moved on to Open Phil?
 
 20:21: Holden: There is some of that. Transition that took place starting in
 2013. Alexander, Howie, and I -- Alexander and I have done that for a while now.
@@ -156,13 +160,14 @@ hired 3 years ago are deciding to move on. In conversations with us, doesn't
 seem like good long-term fit for them. Until recently hasn't happened at all.
 Surprised.
 
-24:47: The way I think of it, GW has a CEO and it's Elie, Open Phil has a CEO
-and it's Holden. Is that accurate?
+24:47: Male board member: The way I think of it, GW has a CEO and it's Elie,
+Open Phil has a CEO and it's Holden. Is that accurate?
 
-25:14: Succession planning? Think it's helpful to move through the topics and
-then come back to open-ended topics.
+25:14: Elie: Succession planning? Think it's helpful to move through the topics
+and then come back to open-ended topics.
 
-26:00: Where do you guys see the upper thresholds of GW/Open Phil on headcounts?
+26:00: Male board member: Where do you guys see the upper thresholds of GW/Open
+Phil on headcounts?
 
 26:23: Elie: I don't have a useful answer. It's possible GW is the same size or
 smaller, or all growth happens on the outreach side. And we really don't know
