@@ -10,8 +10,11 @@ I present a rough transcript of the June 2016 GiveWell (Clear Fund) board
 meeting and provide light commentary. Topics discussed in the meeting include:
 
 - More details of Open Phil's split from GiveWell
-- GiveWell's [staff growth](http://issarice.com/givewell-staff-growth)
-- Increase in [executive compensation](http://issarice.com/givewell-executive-compensation) (i.e. Holden's and Elie's salary) from $150,000 to $175,000.
+- GiveWell's [staff growth][sg]
+- Increase in [executive compensation][ec] (i.e. Holden's and Elie's salary)
+  from $150,000 to $175,000.
+- Staff compensation, and various ways (such as hiring strategy) in which
+  GiveWell has matured as an organization
 
 # Introduction
 
@@ -353,7 +356,9 @@ this "startup mode".
 Coming soon.
 
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
+[ec]: givewell-executive-compensation
 [gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
 [im]: http://www.impactm.org/ "ImpactMatters."
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
+[sg]: givewell-staff-growth
