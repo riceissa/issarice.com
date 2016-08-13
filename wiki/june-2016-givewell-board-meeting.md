@@ -16,6 +16,9 @@ meeting and provide light commentary. Topics discussed in the meeting include:
 - Staff compensation, and various ways (such as hiring strategy) in which
   GiveWell has matured as an organization
 
+I've tried my best to mark these parts in the "Rough transcript" section below
+using subsections.
+
 # Introduction
 
 I've been interested in GiveWell board meetings for a few months, mostly because
@@ -34,28 +37,30 @@ through and search for][beware].
 
 The two other board meetings I have spent some time going through (together with
 Vipul Naik) are the [October 2015][oct2015] one and the [March 2016][mar2016]
-one, with the March 2016 one being more interesting.
+one, with the March 2016 one being more interesting. My notes on these are not
+public yet as of August 13, 2016.
 
 My main motivations for publishing this page (i.e. beyond just consuming it
 myself) are to:
 
 - Make the board meeting content more accessible
-- Bring attention to the board meetings (which are only announced on the "Newly
-  published GiveWell materials" feed and not the GiveWell blog), to show that
-  they contain both important and interesting information
+- Bring attention to the board meetings (which are only announced on the ["Newly
+  published GiveWell materials" feed][new gw] and not the GiveWell blog), to
+  show that they contain both important and interesting information, as my
+  impression is that there is not much public discussion of these board meetings
 
 Some other points:
 
-- It was difficult for me to tell who is talking some of the time. I think I
-  could tell the difference between Holden and Elie and all the women, but the
-  male board members (e.g. Tim and Rob) were difficult to tell apart.
+- It was difficult for me to tell who is talking some of the time. I could tell
+  when Holden or Elie is talking, but the board members were difficult to tell
+  apart. For this reason, I have left some of the speaker markers as "Male board
+  member" or "Female board member".
 - I'd like to thank GiveWell for being transparent enough to release (most of)
   the audio of their board meetings. As far as I know, this is quite a rare
   thing to do for an organization (though I would love to find similar
   recordings for other organizations).
-
-[GiveWell's board meeting page][gw], which also links to the audio as well as
-attachment PDFs.
+- The official [board meeting page for this board meeting][gw] links to the
+  audio as well as attachment PDFs.
 
 # Rough transcript
 
@@ -72,6 +77,8 @@ independently through email -- other votes done during the meeting (2:30)?*
 
 6:13: Elie: Actually May 2016 -- April 2017; higher expenses if you incorporate
 the later months.
+
+## Staff growth and details of hiring method
 
 7:15: Male board member: Better understanding of staff work? Breakdown staff by
 function. 38 full-time staff. And between GW and Open Phil.
@@ -184,8 +191,8 @@ funding will surpass budget needs. So in holding pattern. Since this big expense
 of Open Phil is going to come off. Tried to communicate this to donors (to
 29:00).
 
-29:20: Male board member: Major econ downturn? What would happen? Singularity
-starts (joke)?
+29:20: Male board member: Major economic downturn? What would happen?
+Singularity starts (joke)?
 
 29:52: Elie: We haven't done major assessment. But major backers have sufficient
 assets. 30:07: If we caused the catastrophe -- the equivalent of MetaFilter but
@@ -206,8 +213,8 @@ in a meaningful way right now.
 
 ## Executive compensation
 
-36:10: Elie: We should now move to exec compensation! Changed the amounts, the
-rest of the document is exactly the same.
+36:10: Elie: We should now move to executive compensation. Changed the amounts,
+the rest of the document is exactly the same.
 
 38:00: Male board member: I've always struggled looking at these figures. Should
 I add the two (Holden and Elie) to look at them together? What's up with
@@ -241,6 +248,8 @@ number. 44:54: We would do more thorough research if we felt it was necessary.
 48:40: Elie: Virtually all content is backed up in multiple locations. There are
 things we are willing to lose, since not absolutely catastrophic to do so.
 
+## Relationship with Good Ventures
+
 49:30: Elie: GV check-in topics. The reason we do this is Cari is in the office.
 One concern is if Cari -- a big funder -- being in the office is causing
 problems. Things continue to go well; just planning to take questions.
@@ -260,7 +269,9 @@ I could go to (53:37) but they're not the size of GV. It would be a massive
 project if I wanted to get together enough donors to be like another GV. But
 eventually (54:24) we'd want to do it.
 
-56:56: Elie: Alexander is here. (57:13) Suggestion rob had is to make
+## Professionalization of the board
+
+56:56: Elie: Alexander is here. (57:13) Suggestion Rob had is to make
 subcommittees for different topics. Board professionalization, making meetings
 more efficient. Plan is to follow-up individually after the meeting.
 
@@ -272,6 +283,8 @@ vision?
 
 1:07:48: *Lots of stuff about the role of board members and "protecting the
 mission" and so on.*
+
+## Future of GiveWell
 
 1:08:10: Male board member: I worry that GW momentum might stall because a lot
 of where effort was most invested is being taken out (as Open Phil).
@@ -287,7 +300,7 @@ question of "What should the resources be devoted to whatever the GiveWell
 product is?". It might just take one full-time staff to maintain GW. And that's
 a great outcome.
 
-1:13:00: Holden: It's possible that GW is just a project that fulfils and
+1:13:00: Holden: It's possible that GW is just a project that fulfils an
 important function with a manageable amount of staff and the money moved could
 keep growing more than the operating expenses keep growing, which would be
 great.
@@ -306,13 +319,15 @@ outreach? Or find ways to have more top charities (not Holden's favorite)?
 Favorite: try to seed the next top charities. That's what we're doing with GW
 experimental work.
 
-1:16:55: GiveWell labs is dead → Open Phil.
+1:16:55: *GiveWell Labs is dead → Open Phil.*
 
 1:17:15: Elie: GiveWell experimental: could fund startups monitoring, RCTs,
 etc., but with the goal of getting a new GW top charity. Could live in Open Phil
 long term.
 
 1:23:22: Holden: Comments on which of the "four paths" for GW are best?
+
+## Competitors to GiveWell
 
 1:24:14: Male board member: Any competitors to GW from outside? I know there are
 a few that "feed on" what GW is doing.
@@ -333,6 +348,8 @@ in that has been challenging.
 
 1:28:55: Elie: Non-GV money might go down because so much depends on what the
 top donors are doing. 80%+ retention? But this might be under-reported.
+
+## GiveWell staff compensation
 
 1:29:43: Elie: GW staff compensation. For a long time it was driven by a startup
 mindset. We actively recruit people who will earn less than what they could earn
@@ -362,3 +379,4 @@ Coming soon.
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: givewell-staff-growth
+[new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
