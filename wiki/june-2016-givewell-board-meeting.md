@@ -78,7 +78,9 @@ is not exact.*
 ## Reelection of board members
 
 0:55: *Holden and Elie propose that board members reelect themselves. Done
-independently through email -- other votes done during the meeting (2:30)?*
+independently through email. Other votes said to be done during the meeting
+(2:30), but it's not clear to me -- as someone who doesn't have access to all of
+the audio -- that all of the votes did in fact take place during the meeting.*
 
 ## Budget discussion
 
@@ -113,12 +115,12 @@ during the rest of the year.
 decide how much to hire?  Is there any observable correlation between the hires
 and any output/content/GW fans?
 
-11:10: Elie: This growth is to hire is "conservative" in the sense that it is
-very unlikely more than 53 people across both organizations as of June 2017.
-Still feel capacity-constrained for GW; Open Phil is different. No
-highly-specific staff-growth plan. A lot of uncertainty about how much staff
-should grow (12:09). 12:18: Before: wanted to hire more, actively tried to add
-to head-count; now: successfully hired a bunch, now uncertain about whether to
+11:10: Elie: This growth to hire is "conservative" in the sense that it is very
+unlikely more than 53 people across both organizations as of June 2017. Still
+feel capacity-constrained for GW; Open Phil is different. No highly-specific
+staff-growth plan. A lot of uncertainty about how much staff should grow
+(12:09). 12:18: Before: wanted to hire more, actively tried to add to
+head-count; now: successfully hired a bunch, now uncertain about whether to
 continue, and only want to do it when we have something we want to fill. Holden
 adds that GW has not increased because there are fewer senior people. (13:00) A
 lot of the growth is Open Phil, which we're trying to split off.
