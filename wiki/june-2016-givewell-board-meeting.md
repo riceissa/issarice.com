@@ -12,7 +12,7 @@ meeting and provide light commentary. Topics discussed in the meeting include:
 - More details of Open Phil's split from GiveWell
 - GiveWell's [staff growth][sg]
 - Increase in [executive compensation][ec] (i.e. Holden's and Elie's salary)
-  from $150,000 to $175,000.
+  from $150,000 to $175,000
 - Staff compensation, and various ways (such as hiring strategy) in which
   GiveWell has matured as an organization
 
