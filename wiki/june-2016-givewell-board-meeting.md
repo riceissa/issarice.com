@@ -311,34 +311,37 @@ a few that "feed on" what GW is doing.
 
 1:24:27: Elie: No, not really.
 
-1:24:51: Elie, on [ImpactMatters][im]: Dean Karlan et al have deep dives on
+1:24:51: Elie, on [ImpactMatters][im]: Dean Karlan et al. have deep dives on
 organizations and ask similar questions, but not as deep as GW, and not clear it
 will lead to recommendations for donors.
 
 1:25:37: Holden: Slogan on their website: "Choose a cause with your heart, then
 give with your head." So it's like 31 flavors. Between Charity Navigator and
-GiveWell. but they give recs based on what you already want (?). (–1:26:30)
+GiveWell. But they give recommendations based on what you already want.
 
-1:27:27: holden has been the main blogger for the past 10 years, so now that
-he's working on open phil, getting some of the other staff to replace him has
-been challenging.
+1:27:27: Elie: Holden has been the main blogger for the past 10 years, so now
+that he's working on Open Phil, getting some of the other staff to participate
+in that has been challenging.
 
-1:28:55: non-Gv money might go down b/c so much depends on what the top donors
-are doing. 80%+ retention?
+1:28:55: Elie: Non-GV money might go down because so much depends on what the
+top donors are doing. 80%+ retention? But this might be under-reported.
 
-1:29:43: GW staff compensation. for a long time it was driven by a startup
-mindset. we actively recruit ppl who will earn less than what they could earn
-elsewhere. which worked well. but as staff matured, we did market-value
-comparisons for roles that we had. primarily the same stuff as we did for
-executive compensation. that plus living cost adjustments. we'll do that this
-year. no significant changes or lowered salary. we're growing from explicitly
-expecting ppl to make less to being more reasonable.
+1:29:43: Elie: GW staff compensation. For a long time it was driven by a startup
+mindset. We actively recruit people who will earn less than what they could earn
+elsewhere. Which worked well. But as staff matured, we did market-value
+comparisons for roles that we had. Primarily the same stuff as we did for
+executive compensation. That plus living cost adjustments. We'll do that this
+year, but hard to see in the budget. No significant changes or lowered salary.
+We're growing from explicitly expecting people to make less to being more
+reasonable.
 
-1:32:50: no reason to expect Gw and open phil will have separate takes on this
-salary thing. GW expenses could grow as we get out of this "startup mode".
+1:32:50: Elie and Holden: No reason to expect GW and Open Phil will have
+separate takes on this salary thing. GW expenses could grow as we get out of
+this "startup mode".
 
-1:33:55: very roughly in the 10%-20% range for raises. ppl are gonna raise
-families in the bay area.
+1:33:55: Elie: Very roughly in the 10%--20% range for raises.
+
+1:34:05: Holden: People are gonna raise families in the Bay Area.
 
 # Commentary
 
