@@ -393,7 +393,18 @@ part of GiveWell being taken out as Open Phil, GiveWell might lose momentum
 that Open Phil will have the same standards for transparency that GiveWell
 currently has, so that with Open Phil officially separate from GiveWell, it
 might become impossible to obtain information of that sort we have on it now
-(through board meetings, for instance).
+(through board meetings, for instance). For instance Holden [writes][hits]:
+
+> Explaining our opinions in writing is fundamental to the Open Philanthropy
+> Project’s DNA, but we need to be careful to stop this from distorting our
+> decision-making. I fear that when considering a grant, our staff are likely to
+> think ahead to how they’ll justify the grant in our public writeup and shy
+> away if it seems like too tall an order -- in particular, when the case seems
+> too complex and reliant on diffuse, hard-to-summarize information. This is a
+> bias we don’t want to have. If we focused on issues that were easy to explain
+> to outsiders with little background knowledge, we’d be focusing on issues that
+> likely have broad appeal, and we’d have more trouble focusing on neglected
+> areas.
 
 [audio]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Board_Meeting_June_14_2016.mp3 "87 MB."
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
@@ -404,3 +415,4 @@ might become impossible to obtain information of that sort we have on it now
 [new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: givewell-staff-growth
+[hits]: http://www.openphilanthropy.org/blog/hits-based-giving "Holden Karnofsky. “Hits-based Giving”. April 4, 2016. Open Philanthropy Project."
