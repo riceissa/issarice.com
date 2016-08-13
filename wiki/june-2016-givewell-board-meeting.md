@@ -144,6 +144,8 @@ rather than us posting on job boards, for GW.
 19:38: Holden: GW is more difficult to hire for in some ways, has own kind of
 intellectual way of uncovering things.
 
+TODO: add more details to above.
+
 20:14: Is the reason people are new is b/c the older people moved on to Open Phil?
 
 20:21: Holden: There is some of that. Transition that took place starting in
@@ -287,29 +289,35 @@ much as a general worry or skepticism that GiveWell is doing its job if the
 recommendations stay the same. Maybe there will come a time when that becomes a
 problem.
 
-1:15:00: Male board member: there is a number of things GW could do that would
+1:15:00: Male board member: There are a number of things GW could do that would
 be extensions of what they're doing currently.
 
-1:15:50: Holden: I think there's a few different paths. keep doing what it's doing? or do more outreach? or find ways to have
-more top charities (not holden's favorite)? favorite: try to seed the next top
-charities. that's what we're doing with GW experimental work.
+1:15:50: Holden: I think there's a few different paths for what GW does in the
+next few years. Keep doing what it's doing? Or do more advocacy, consulting, or
+outreach? Or find ways to have more top charities (not Holden's favorite)?
+Favorite: try to seed the next top charities. That's what we're doing with GW
+experimental work.
 
-1:16:55: givewell labs is dead → open phil.
+1:16:55: GiveWell labs is dead → Open Phil.
 
-1:17:15: elie: givewell experimental: could fund startups, could fund RCTs,
-etc., but with the goal of getting a new GW top charity.
+1:17:15: Elie: GiveWell experimental: could fund startups monitoring, RCTs,
+etc., but with the goal of getting a new GW top charity. Could live in Open Phil
+long term.
 
-1:23:15: comments on which of the "four paths" for GW are best?
+1:23:22: Holden: Comments on which of the "four paths" for GW are best?
 
-1:24:14: any competitors to GW from outside? I know there are a few that "feed
-on" what GW is doing.
+1:24:14: Male board member: Any competitors to GW from outside? I know there are
+a few that "feed on" what GW is doing.
 
-No, there aren't.
+1:24:27: Elie: No, not really.
 
-1:24:51: Dean Karlan et al have deep dives in organizations and asks similar
-questions, but not as deep as GW, and not clear it will lead to recs for donors.
-slogan on their website: [something]. Impact Matters. but they give recs based
-on what you already want (?). (–1:26:30)
+1:24:51: Elie, on Impact Matters: Dean Karlan et al have deep dives on
+organizations and ask similar questions, but not as deep as GW, and not clear it
+will lead to recommendations for donors.
+
+1:25:37: Holden: Slogan on their website: "Choose a cause with your heart, then
+give with your head." So it's like 31 flavors. Between Charity Navigator and
+GiveWell. but they give recs based on what you already want (?). (–1:26:30)
 
 1:27:27: holden has been the main blogger for the past 10 years, so now that
 he's working on open phil, getting some of the other staff to replace him has
