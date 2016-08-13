@@ -311,7 +311,7 @@ a few that "feed on" what GW is doing.
 
 1:24:27: Elie: No, not really.
 
-1:24:51: Elie, on Impact Matters: Dean Karlan et al have deep dives on
+1:24:51: Elie, on [ImpactMatters][im]: Dean Karlan et al have deep dives on
 organizations and ask similar questions, but not as deep as GW, and not clear it
 will lead to recommendations for donors.
 
@@ -346,5 +346,6 @@ Coming soon.
 
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
 [gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
+[im]: http://www.impactm.org/ "ImpactMatters."
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
