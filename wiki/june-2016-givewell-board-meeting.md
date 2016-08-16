@@ -53,6 +53,8 @@ myself) are to:
 
 Some other points:
 
+- The official [board meeting page for this board meeting][gw] links to the
+  audio as well as attachment PDFs.
 - It was difficult for me to tell who is talking some of the time. I could tell
   when Holden or Elie is talking, but the board members were difficult to tell
   apart. For this reason, I have left some of the speaker markers as "Male board
@@ -62,8 +64,10 @@ Some other points:
   thing to do for an organization (though I would love to find similar
   recordings for other organizations). The board meeting audio could even be
   useful to other nonprofits as a guide to conducting their own board meetings.
-- The official [board meeting page for this board meeting][gw] links to the
-  audio as well as attachment PDFs.
+- For more on the best practices and legal requirements surrounding board
+  meetings and records, see 4E on page 5 of the IRS's ["Governance and Related
+  Topics -- 501(c)(3) Organizations"][4e] and also ["Nonprofit Q&A: What needs
+  to be included in our Nonprofit Board Minutes?"][cullinane]
 
 # Rough transcript
 
@@ -438,12 +442,14 @@ imperfections are my own.
 
 The writing of this post was sponsored by Vipul Naik.
 
+[4e]: https://www.irs.gov/pub/irs-tege/governance_practices.pdf
 [agenda]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Agenda_GiveWell_Board_Meeting_June_2016.pdf "“GiveWell Board Meeting Agenda June 14th, 2016”. GiveWell."
 [attachment d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
 [attachment e]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_E_Financial_narrative.pdf
 [attachment f]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_F_Executive_compensation.pdf
 [audio]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Board_Meeting_June_14_2016.mp3 "87 MB."
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
+[cullinane]: http://cullinanelaw.com/nonprofit-board-minutes/
 [ec]: http://issarice.com/givewell-executive-compensation
 [gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
 [hits]: http://www.openphilanthropy.org/blog/hits-based-giving "Holden Karnofsky. “Hits-based Giving”. April 4, 2016. Open Philanthropy Project."
