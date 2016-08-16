@@ -243,7 +243,8 @@ in a meaningful way right now.
 ## Executive compensation
 
 *See also [Attachment F][attachment f], "Executive compensation review and
-proposal".*
+proposal", as well as [information on the legal requirements surrounding
+executive compensation approval][4e] (see 4A, which starts on page 3).*
 
 36:10: Elie: We should now move to executive compensation. Changed the amounts,
 the rest of the document is exactly the same.
