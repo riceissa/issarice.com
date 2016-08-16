@@ -430,6 +430,13 @@ trying to track those at my pages on those topics:
 - [GiveWell staff growth][sg]
 - [GiveWell executive compensation][ec]
 
+# Acknowledgements
+
+Thanks to [Vipul Naik][vipul] for his input while I was writing this post. All
+imperfections are my own.
+
+The writing of this post was sponsored by Vipul Naik.
+
 [agenda]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Agenda_GiveWell_Board_Meeting_June_2016.pdf "“GiveWell Board Meeting Agenda June 14th, 2016”. GiveWell."
 [attachment d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
 [attachment e]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_E_Financial_narrative.pdf
@@ -445,3 +452,4 @@ trying to track those at my pages on those topics:
 [new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: http://issarice.com/givewell-staff-growth
+[vipul]: http://vipulnaik.com/
