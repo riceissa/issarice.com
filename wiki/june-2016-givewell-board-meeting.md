@@ -190,6 +190,11 @@ hired 3 years ago are deciding to move on. In conversations with us, doesn't
 seem like good long-term fit for them. Until recently hasn't happened at all.
 Surprised.
 
+*Relevant here is Milan Griffes, who worked at GiveWell until May 2016 and who
+recently published a [post about his experience][milan], where he lists "the
+object-level work didn't align well with my interests" as a reason for leaving
+GiveWell.*
+
 24:47: Male board member: The way I think of it, GW has a CEO and it's Elie,
 Open Phil has a CEO and it's Holden. Is that accurate?
 
@@ -436,6 +441,7 @@ trying to track those at my pages on those topics:
 [hits]: http://www.openphilanthropy.org/blog/hits-based-giving "Holden Karnofsky. “Hits-based Giving”. April 4, 2016. Open Philanthropy Project."
 [im]: http://www.impactm.org/ "ImpactMatters."
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
+[milan]: https://80000hours.org/2016/08/reflections-from-a-givewell-employee/ " Milan Griffes. “Should you work at GiveWell? Reflections from a recent employee.” August 15, 2016. 80,000 Hours."
 [new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: http://issarice.com/givewell-staff-growth
