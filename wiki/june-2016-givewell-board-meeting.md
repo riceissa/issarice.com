@@ -411,7 +411,8 @@ part of GiveWell being taken out as Open Phil, GiveWell might lose momentum
 that Open Phil will have the same standards for transparency that GiveWell
 currently has, so that with Open Phil officially separate from GiveWell, it
 might become impossible to obtain information of that sort we have on it now
-(through board meetings, for instance). For instance Holden [writes][hits]:
+(through board meetings, for instance). There are some other indications of
+this; for instance Holden [writes][hits]:
 
 > Explaining our opinions in writing is fundamental to the Open Philanthropy
 > Project’s DNA, but we need to be careful to stop this from distorting our
