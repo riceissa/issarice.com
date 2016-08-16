@@ -441,7 +441,7 @@ trying to track those at my pages on those topics:
 [hits]: http://www.openphilanthropy.org/blog/hits-based-giving "Holden Karnofsky. “Hits-based Giving”. April 4, 2016. Open Philanthropy Project."
 [im]: http://www.impactm.org/ "ImpactMatters."
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
-[milan]: https://80000hours.org/2016/08/reflections-from-a-givewell-employee/ " Milan Griffes. “Should you work at GiveWell? Reflections from a recent employee.” August 15, 2016. 80,000 Hours."
+[milan]: https://80000hours.org/2016/08/reflections-from-a-givewell-employee/ "Milan Griffes. “Should you work at GiveWell? Reflections from a recent employee.” August 15, 2016. 80,000 Hours."
 [new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: http://issarice.com/givewell-staff-growth
