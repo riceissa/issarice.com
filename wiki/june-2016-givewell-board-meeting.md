@@ -41,7 +41,7 @@ through and search for][beware].
 The two other board meetings I have spent some time going through (together with
 Vipul Naik) are the [October 2015][oct2015] one and the [March 2016][mar2016]
 one, with the March 2016 one being more interesting. My notes on these are not
-public yet as of August 13, 2016.
+public yet as of August 17, 2016.
 
 My main motivations for publishing this page (i.e. beyond just consuming it
 myself) are to:
@@ -55,7 +55,8 @@ myself) are to:
 Some other points:
 
 - The official [board meeting page for this board meeting][gw] links to the
-  audio as well as attachment PDFs.
+  audio as well as attachment PDFs. I have also tried my best to link to
+  relevant attachments at certain points in the transcript below.
 - It was difficult for me to tell who is talking some of the time. I could tell
   when Holden or Elie is talking, but the board members were difficult to tell
   apart. For this reason, I have left some of the speaker markers as "Male board
@@ -111,8 +112,8 @@ the later months.
 *[Attachment D][attachment_d], "Budget review and proposal", is a spreadsheet
 containing detailed budget information, which is relevant to this section.*
 
-7:15: Male board member: Better understanding of staff work? Breakdown staff by
-function. 38 full-time staff. And between GW and Open Phil.
+7:15: Male board member: Better understanding of staff work? Break down staff
+by function. 38 full-time staff. And between GW and Open Phil.
 
 8:04: Elie: 15 -- Open Phil; 15 -- GW; 8 -- operation staff (shared). 2/3
 expenses Open Phil, other 1/3 for GW. We're moving toward separating the
