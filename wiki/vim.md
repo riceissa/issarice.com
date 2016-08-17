@@ -375,6 +375,60 @@ source easier to read for a human, but for syntax highlighting, it's easier to
 deal with one-off backslash escapes favored in languages like Python (since
 there is less context to maintain).
 
+# Using alternative Vim setups
+
+Sometimes when I am editing a quick file, I don't want to load all my plugins
+and custom setup (especially YCM -- although vim-plug might have a way to speed
+this up that I'm not aware of), as that results in a slow startup that I don't
+want to bother to wait for. I also like to experiment with radically different
+Vim configurations sometimes In these cases, it can be useful to have an
+alternative Vim setup, sort of like a second `~/.vim` path, or an option like
+`-u` that also changes the `.vim` directory to something else. Here I change it
+to `~/.alt-vim`.
+
+First, from
+<http://superuser.com/questions/561434/telling-vim-to-use-custom-vimrc-is-easy-but-how-to-tell-it-to-use-alternative>,
+I have the following in my `~/.zshrc`:
+
+    alias avim='vim --cmd '"'"'let &rtp = substitute(&rtp, $HOME."/\.vim", $HOME."/\.alt-vim", "g")'"'"' -Nu /home/issa/.alt-vim/init.vim'
+
+I might change it to a shell script later, so I don't have to deal with the
+nested quotes. The basic idea is to invoke Vim with:
+
+    vim --cmd 'let &rtp = substitute(&rtp, $HOME."/\.vim", $HOME."/\.alt-vim", "g")' -Nu $HOME/.alt-vim/init.vim
+
+This sets both the `vimrc` as well as the runtime path, which controls where Vim
+searches for plugins. (Question: Does this use the same or different `viminfo`?)
+I'm also not sure why the above expression uses `\.` instead of just `.`.
+
+Then I have in `init.vim` (after installing vim-plug -- see below):
+
+    call plug#begin('~/.alt-vim/plugged')
+    Plug 'nelstrom/vim-visual-star-search'
+    Plug 'tpope/vim-abolish'
+    Plug 'tpope/vim-characterize'
+    Plug 'tpope/vim-commentary'
+    Plug 'tpope/vim-fugitive'
+    Plug 'tpope/vim-repeat'
+    Plug 'tpope/vim-speeddating'
+    Plug 'tpope/vim-surround'
+    Plug 'tpope/vim-unimpaired'
+    call plug#end()
+
+    source /home/issa/sensible.vim
+
+where `sensible.vim` is just
+[sensible.vim](https://github.com/tpope/vim-sensible).
+
+I also ran (prior to making `init.vim`):
+
+    curl -fLo ~/.alt-vim/autoload/plug.vim --create-dirs \
+        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+which installs vim-plug.
+
+Now all that is left is to run `:PlugInstall` from Vim to install the plugins.
+
 # Other problems
 
 Despite using Vim for almost everything, I still have some problems with
