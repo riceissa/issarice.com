@@ -194,10 +194,10 @@ hired 3 years ago are deciding to move on. In conversations with us, doesn't
 seem like good long-term fit for them. Until recently hasn't happened at all.
 Surprised.
 
-*Relevant here is Milan Griffes, who worked at GiveWell until May 2016 and who
-recently published a [post about his experience][milan], where he lists "the
-object-level work didn't align well with my interests" as a reason for leaving
-GiveWell.*
+*Relevant here is Milan Griffes, who worked at GiveWell from August 2014 to May
+2016 and who recently published a [post about his experience][milan], where he
+lists "the object-level work didn't align well with my interests" as a reason
+for leaving GiveWell.*
 
 24:47: Male board member: The way I think of it, GW has a CEO and it's Elie,
 Open Phil has a CEO and it's Holden. Is that accurate?
