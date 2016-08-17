@@ -47,7 +47,7 @@ myself) are to:
 
 - Make the board meeting content more accessible
 - Bring attention to the board meetings (which are only announced on the ["Newly
-  published GiveWell materials" feed][new gw] and not the GiveWell blog), to
+  published GiveWell materials" feed][new_gw] and not the GiveWell blog), to
   show that they contain both important and interesting information, as my
   impression is that there is not much public discussion of these board meetings
 
@@ -89,7 +89,7 @@ the audio -- that all of the votes did in fact take place during the meeting.*
 
 ## Budget discussion
 
-*[Attachment D][attachment d], "Budget review and proposal", is a spreadsheet
+*[Attachment D][attachment_d], "Budget review and proposal", is a spreadsheet
 containing detailed budget information.*
 
 3:50: Elie: We recognize this is a tough level to engage with regarding budget.
@@ -101,7 +101,7 @@ the later months.
 
 ## Staff growth and details of hiring method
 
-*[Attachment D][attachment d], "Budget review and proposal", is a spreadsheet
+*[Attachment D][attachment_d], "Budget review and proposal", is a spreadsheet
 containing detailed budget information, which is relevant to this section.*
 
 7:15: Male board member: Better understanding of staff work? Breakdown staff by
@@ -242,7 +242,7 @@ in a meaningful way right now.
 
 ## Executive compensation
 
-*See also [Attachment F][attachment f], "Executive compensation review and
+*See also [Attachment F][attachment_f], "Executive compensation review and
 proposal", as well as [information on the legal requirements surrounding
 executive compensation approval][4e] (see 4A, which starts on page 3).*
 
@@ -283,7 +283,7 @@ things we are willing to lose, since not absolutely catastrophic to do so.
 
 ## Relationship with Good Ventures
 
-*See also [Attachment E][attachment e], "Narrative summary of revenue changes
+*See also [Attachment E][attachment_e], "Narrative summary of revenue changes
 and forecasts", which discusses funding from Good Ventures.*
 
 49:30: Elie: GV check-in topics. The reason we do this is Cari is in the office.
@@ -445,9 +445,9 @@ The writing of this post was sponsored by Vipul Naik.
 
 [4e]: https://www.irs.gov/pub/irs-tege/governance_practices.pdf
 [agenda]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Agenda_GiveWell_Board_Meeting_June_2016.pdf "“GiveWell Board Meeting Agenda June 14th, 2016”. GiveWell."
-[attachment d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
-[attachment e]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_E_Financial_narrative.pdf
-[attachment f]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_F_Executive_compensation.pdf
+[attachment_d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
+[attachment_e]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_E_Financial_narrative.pdf
+[attachment_f]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_F_Executive_compensation.pdf
 [audio]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Board_Meeting_June_14_2016.mp3 "87 MB."
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
 [cullinane]: http://cullinanelaw.com/nonprofit-board-minutes/
@@ -457,7 +457,7 @@ The writing of this post was sponsored by Vipul Naik.
 [im]: http://www.impactm.org/ "ImpactMatters."
 [mar2016]: http://www.givewell.org/about/official-records/board-meeting-32
 [milan]: https://80000hours.org/2016/08/reflections-from-a-givewell-employee/ "Milan Griffes. “Should you work at GiveWell? Reflections from a recent employee.” August 15, 2016. 80,000 Hours."
-[new gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
+[new_gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
 [sg]: http://issarice.com/givewell-staff-growth
 [vipul]: http://vipulnaik.com/
