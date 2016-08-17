@@ -168,7 +168,7 @@ That's the 25th to 75th percentile.
 
 16:58: Elie: College grads who go to top 25 schools who are interested in
 effective altruism. Same is mostly true of operations staff. Primarily entry
-level generalists. We now need what we need and hope to fill (17:10). Plan to
+level generalists. We now know what we need and hope to fill (17:10). Plan to
 not hire as many of that types, to hire more specific roles. Instead of hiring a
 generalist to learn accounting, to hire someone who knows that (17:36).
 
