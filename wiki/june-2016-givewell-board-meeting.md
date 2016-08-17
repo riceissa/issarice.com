@@ -68,6 +68,12 @@ Some other points:
   meetings and records, see 4E on page 5 of the IRS's ["Governance and Related
   Topics -- 501(c)(3) Organizations"][4e] and also ["Nonprofit Q&A: What needs
   to be included in our Nonprofit Board Minutes?"][cullinane]
+- A list of board members can be found on GiveWell's [people page][ppl]. The
+  board members have various backgrounds, including people with significant
+  experience working at and managing nonprofits. The board does not seem to be
+  dominated by people who publicly identify as movement EAs; indeed, at least
+  one ([Rob Reich][rob]) has written a critique of EA in response to Peter
+  Singer.
 
 # Rough transcript
 
@@ -465,5 +471,7 @@ The writing of this post was sponsored by Vipul Naik.
 [milan]: https://80000hours.org/2016/08/reflections-from-a-givewell-employee/ "Milan Griffes. “Should you work at GiveWell? Reflections from a recent employee.” August 15, 2016. 80,000 Hours."
 [new_gw]: https://groups.google.com/forum/#!forum/newly-published-givewell-materials "Newly published GiveWell materials."
 [oct2015]: http://www.givewell.org/about/official-records/board-meeting-31
+[ppl]: http://www.givewell.org/about/people#Board "“Our People” § Board of Directors. GiveWell."
+[rob]: https://bostonreview.net/forum/logic-effective-altruism/rob-reich-response-effective-altruism "Rob Reich. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
 [sg]: http://issarice.com/givewell-staff-growth
 [vipul]: http://vipulnaik.com/
