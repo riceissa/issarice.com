@@ -436,6 +436,12 @@ trying to track those at my pages on those topics:
 - [GiveWell staff growth][sg]
 - [GiveWell executive compensation][ec]
 
+# Licensing
+
+The rough transcript presented in this post is intended to be fair use. I did
+not contact GiveWell for permission to transcribe the board meeting audio. In
+any case, I do not own the copyright to the board meeting audio.
+
 # Acknowledgements
 
 Thanks to [Vipul Naik][vipul] for his input while I was writing this post. All
