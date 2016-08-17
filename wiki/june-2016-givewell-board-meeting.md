@@ -4,6 +4,8 @@ author: Issa Rice
 date: 2016-08-17
 ---
 
+**Note: this post is now published on the [EA Forum](http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/).**
+
 # Summary
 
 I present a rough transcript of the [June 2016 GiveWell (The Clear Fund) board
