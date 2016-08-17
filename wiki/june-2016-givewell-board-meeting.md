@@ -6,8 +6,9 @@ date: 2016-08-17
 
 # Summary
 
-I present a rough transcript of the June 2016 GiveWell (Clear Fund) board
-meeting and provide light commentary. Topics discussed in the meeting include:
+I present a rough transcript of the [June 2016 GiveWell (The Clear Fund) board
+meeting][gw] and provide light commentary. Topics discussed in the meeting
+include:
 
 - More details of Open Phil's split from GiveWell
 - GiveWell's [staff growth][sg]
