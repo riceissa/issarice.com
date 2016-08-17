@@ -1,7 +1,7 @@
 ---
 title: June 2016 GiveWell board meeting
 author: Issa Rice
-date: 2016-08-13
+date: 2016-08-17
 ---
 
 # Summary
