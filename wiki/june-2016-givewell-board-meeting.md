@@ -169,7 +169,7 @@ That's the 25th to 75th percentile.
 16:58: Elie: College grads who go to top 25 schools who are interested in
 effective altruism. Same is mostly true of operations staff. Primarily entry
 level generalists. We now know what we need and hope to fill (17:10). Plan to
-not hire as many of that types, to hire more specific roles. Instead of hiring a
+not hire as many of those types, to hire more specific roles. Instead of hiring a
 generalist to learn accounting, to hire someone who knows that (17:36).
 
 17:58: Male board member: How many have you brought in who are not entry-level?
@@ -365,7 +365,7 @@ experimental work.
 
 1:16:55: *GiveWell Labs is dead → Open Phil.*
 
-1:17:15: Elie: GiveWell experimental: could fund startups monitoring, RCTs,
+1:17:15: Elie: GiveWell experimental: could fund startups, monitoring, RCTs,
 etc., but with the goal of getting a new GW top charity. Could live in Open Phil
 long term.
 
@@ -446,9 +446,9 @@ trying to track those at my pages on those topics:
 
 # Licensing
 
-The rough transcript presented in this post is intended to be fair use. I did
-not contact GiveWell for permission to transcribe the board meeting audio. In
-any case, I do not own the copyright to the board meeting audio.
+GiveWell's work is licensed under the [Creative Commons
+Attribution-NonCommercial-ShareAlike 3.0 United States license][cc]. As an
+adaptation containing a rough transcript, this post inherits this license.
 
 # Acknowledgements
 
@@ -464,6 +464,7 @@ The writing of this post was sponsored by Vipul Naik.
 [attachment_f]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_F_Executive_compensation.pdf
 [audio]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Board_Meeting_June_14_2016.mp3 "87 MB."
 [beware]: http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/ "Vipul Naik. “Beware technological wonderland, or, why text will dominate the future of communication and the Internet”. LessWrong. April 13, 2014."
+[cc]: https://creativecommons.org/licenses/by-nc-sa/3.0/us/
 [cullinane]: http://cullinanelaw.com/nonprofit-board-minutes/
 [ec]: http://issarice.com/givewell-executive-compensation
 [gw]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell. Published August 5, 2016 per https://groups.google.com/forum/#!msg/newly-published-givewell-materials/9ZOEQobHsGg/GDeXccQCAwAJ."
