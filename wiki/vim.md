@@ -390,16 +390,19 @@ First, from
 <http://superuser.com/questions/561434/telling-vim-to-use-custom-vimrc-is-easy-but-how-to-tell-it-to-use-alternative>,
 I have the following in my `~/.zshrc`:
 
-    alias avim='vim --cmd '"'"'let &rtp = substitute(&rtp, $HOME."/\.vim", $HOME."/\.alt-vim", "g")'"'"' -Nu /home/issa/.alt-vim/init.vim'
+    alias avim='vim --cmd '"'"'let &rtp = substitute(&rtp, $HOME."/\\.vim", $HOME."/.alt-vim", "g")'"'"' -Nu /home/issa/.alt-vim/init.vim'
 
 I might change it to a shell script later, so I don't have to deal with the
 nested quotes. The basic idea is to invoke Vim with:
 
-    vim --cmd 'let &rtp = substitute(&rtp, $HOME."/\.vim", $HOME."/\.alt-vim", "g")' -Nu $HOME/.alt-vim/init.vim
+    vim --cmd 'let &rtp = substitute(&rtp, $HOME."/\\.vim", $HOME."/.alt-vim", "g")' -Nu $HOME/.alt-vim/init.vim
 
 This sets both the `vimrc` as well as the runtime path, which controls where Vim
 searches for plugins. (Question: Does this use the same or different `viminfo`?)
-I'm also not sure why the above expression uses `\.` instead of just `.`.
+I'm also not sure why the above expression uses `\.` instead of just `.` (this
+is because in `substitute`, Vim interprets the second argument as a pattern
+rather than a verbatim string; note that because we are using double quote
+strings, we must use two backslashes to escape the dot).
 
 Then I have in `init.vim` (after installing vim-plug -- see below):
 
