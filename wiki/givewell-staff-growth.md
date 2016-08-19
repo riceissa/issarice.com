@@ -49,7 +49,7 @@ The following is a plot of the table above (which is better in some sense becaus
 
 The "cumulative number of employees" is just the number of people who have at one point worked for GiveWell, as of the indicated date; it is obtained by summing up the positive number in the diff column up to the date in question, and then adding the initial employee number.
 
-However note that during the [June 2015 GiveWell board meeting](), Elie said
+However note that during the [June 2016 GiveWell board meeting](), Elie said
 there are 15 full-time staff for Open Phil and 15 for GiveWell, with 8 shared
 operation staff. In other words, the table and plot don't distinguish between
 GiveWell and Open Philanthropy Project employees (as it is difficult to do so
