@@ -1,10 +1,10 @@
 ---
 title: GiveWell staff growth
 author: Issa Rice
-date: 2016-07-27
+date: 2016-08-18
 ---
 
-I recently looked at GiveWell's staff growth over the years.
+This page looks at GiveWell's staff growth over the years.
 The data is from the [Our People](http://givewell.org/about/people) page, retrieved using the [Wayback Machine](https://archive.org/).
 The page seems to have been created in mid-2010, so that's where the table starts (and before that, the number was presumably 2--4 anyway).
 This is meant to be illustrative and not comprehensive.
@@ -62,6 +62,21 @@ include it to make transparent some of the thinking I think is going on*). The
 numbers are also of full-time staff only, so does not include interns,
 conversation notes writers, etc.
 
+In addition, [Attachment D][attachment_d] (cell B7) from the June 2016 board
+meeting projects not more than 53 employees by June 2017.
+
+Also from my board meeting page:
+
+> 21:10: Elie: Just going through our first round of turnover, where people who we
+> hired 3 years ago are deciding to move on. In conversations with us, doesn't
+> seem like good long-term fit for them. Until recently hasn't happened at all.
+> Surprised.
+>
+> *Relevant here is Milan Griffes, who worked at GiveWell from August 2014 to May
+> 2016 and who recently published a [post about his experience][milan], where he
+> lists "the object-level work didn't align well with my interests" as a reason
+> for leaving GiveWell.*
+
 Note also that *the gap between the two curves cannot decrease*.
 It is for this reason that the survival ratio is good to look at in addition to the above graph:
 
@@ -76,3 +91,6 @@ At each time $t$, the survival ratio is 'the number of employees at time $t$' di
 # External links
 
 - [Vipul Naik shared this page](https://www.facebook.com/vipulnaik.r/posts/10208791654804628)
+
+[attachment_d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
+[milan]: https://80000hours.org/2016/08/reflections-from-a-givewell-employee/ "Milan Griffes. “Should you work at GiveWell? Reflections from a recent employee.” August 15, 2016. 80,000 Hours."
