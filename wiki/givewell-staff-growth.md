@@ -11,6 +11,8 @@ This is meant to be illustrative and not comprehensive.
 Care was taken to detect the first point in time when an employee appeared or disappeared from a page, so the above table should be generally accurate but probably not completely so.
 The Wayback Machine also had spotty coverage that lacked several months.
 
+# Table
+
 Date           Num          Diff
 -----------  -----  ------------
 2010-06-09   4
@@ -43,13 +45,24 @@ difference in 'Num' relative to the previous month and is given in the form
 $(-x,y)$, where $x$ is the number full-time staff that left and $y$ is the
 number of full-time staff that joined.
 
+# Plots
+
 The following is a plot of the table above (which is better in some sense because it indicates the gaps when the employee count did not change):
 
 ![GiveWell employee plot through June 2016](givewell-employee.png)
 
 The "cumulative number of employees" is just the number of people who have at one point worked for GiveWell, as of the indicated date; it is obtained by summing up the positive number in the diff column up to the date in question, and then adding the initial employee number.
 
-However note that during the [June 2016 GiveWell board meeting](), Elie said
+Note that *the gap between the two curves cannot decrease*.
+It is for this reason that the survival ratio is good to look at in addition to the above graph:
+
+![GiveWell employee survival ratio through June 2016](givewell-survival-ratio.png)
+
+At each time $t$, the survival ratio is 'the number of employees at time $t$' divided by 'the number of cumulative employees at time $t$'.
+
+# Commentary
+
+Note that during the [June 2016 GiveWell board meeting](), Elie said
 there are 15 full-time staff for Open Phil and 15 for GiveWell, with 8 shared
 operation staff. In other words, the table and plot don't distinguish between
 GiveWell and Open Philanthropy Project employees (as it is difficult to do so
@@ -76,13 +89,6 @@ Also from my board meeting page:
 > 2016 and who recently published a [post about his experience][milan], where he
 > lists "the object-level work didn't align well with my interests" as a reason
 > for leaving GiveWell.*
-
-Note also that *the gap between the two curves cannot decrease*.
-It is for this reason that the survival ratio is good to look at in addition to the above graph:
-
-![GiveWell employee survival ratio through June 2016](givewell-survival-ratio.png)
-
-At each time $t$, the survival ratio is 'the number of employees at time $t$' divided by 'the number of cumulative employees at time $t$'.
 
 # See also
 
