@@ -98,7 +98,9 @@ July 23
 
 # External links
 
-Thanks to Vipul Naik for these links.
+- [Vipul Naik shared this page](https://www.facebook.com/vipulnaik.r/posts/10208807739366732)
+
+Thanks to Vipul Naik for the following links.
 
 - [As the IRS Migrates to More Self-Service Tools and Online Services, Low Income and Other Vulnerable Taxpayer Populations May Face Greater Compliance Challenges](http://taxpayeradvocate.irs.gov/Media/Default/Documents/2016-JRC/Area_of_Focus_6_IRS_Self_Service_Tools_and_Vulnerable_Populations.pdf)
 - [2012 Tax Filing: IRS Faces Challenges Providing Service to Taxpayers and Could Collect Balances Due More Effectively](http://www.gao.gov/assets/660/650962.pdf)
@@ -107,10 +109,6 @@ Thanks to Vipul Naik for these links.
 - [IRS Customer Service Is Even Worse Than You Thought](http://time.com/money/3960833/irs-customer-service-phone-calls/)
 - [Wait Times Are Down, But IRS Still Faces Serious Challenges](http://www.wsj.com/articles/wait-times-are-down-but-irs-still-faces-serious-challenges-1458898201) ([jailbroken](http://archive.is/maibR))
 - [Are you experiencing long waits calling the IRS?](http://www.accountingweb.com/community-voice/blogs/william-brighenti/are-you-experiencing-long-waits-calling-the-irs)
-
-# External links
-
-- [Vipul Naik shared this page](https://www.facebook.com/vipulnaik.r/posts/10208807739366732)
 
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
 For more, see my page about [Wikipedia]().
