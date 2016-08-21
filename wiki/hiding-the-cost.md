@@ -11,9 +11,25 @@ from something without similarly listing the *cost* of that same thing.
 Examples:
 
   * People describing in detail all of the things they get from attending EA
-    Global without saying how much it cost them (for the ticket, flight, hotel
-    fees, disruption in workflow, etc.). TODO: find that EAG thread that Vipul
-    commented on.
+    Global without saying how much it cost them (for the ticket, flight,
+    lodging, disruption in workflow, etc.). In particular, see a [June 2016
+    thread][eag] where Vipul Naik comments:
+
+    > I think it would be helpful if people here disclosed how much they
+    > actually paid for the conference, as well as their total cost of
+    > attendance, since the out-of-pocket costs (both for the conference itself
+    > and for travel to it) can play a significant role in determining whether
+    > it's cost-effective. If somebody says "I spent $400 on the conference and
+    > $200 traveling to it, and found it worthwhile" that's more impressive
+    > than somebody who got a discount ticket of $100 and lived in the area and
+    > found it worthwhile.
+    >
+    > I say this because my impression is that many elites/community insiders
+    > get discounts or fee waivers and this might be making it look like a more
+    > cost-effective proposition to them than to the typical participants.
+
+    Thanks to Vipul Naik for relocating this thread when I indirectly brought
+    it up in a conversation.
 
   * Something I've noticed while doing my [dive into global health][gh]: people
     tend to enthusiastically list all of the impact their program has had,
@@ -33,5 +49,6 @@ Examples:
     take seriously anyone who hides this sort of information, we could expect
     this information to be widely available.
 
+[eag]: https://www.facebook.com/groups/effective.altruists/permalink/1084685781587778 "Aaron Harnly. Post on the Effective Altruism Facebook group. June 13, 2016."
 [gh]: wikipedia#global-health
 [psigh_costs]: https://en.wikipedia.org/w/index.php?title=Priority-setting_in_global_health&oldid=731832367#History_of_organizations_and_programs_working_on_priority-setting
