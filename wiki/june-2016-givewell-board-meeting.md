@@ -163,7 +163,7 @@ whether this is worth it.
 Where do they stand? What percentile of ability/experience/pay?
 
 16:11: Elie: Helpful to talk separately about Open Phil. For GW research, most
-of the people are are entry-level, out of college. 6 months to 2 years to train.
+of the people are entry-level, out of college. 6 months to 2 years to train.
 That's the 25th to 75th percentile.
 
 16:50: Male board member: Where do you hire from?
