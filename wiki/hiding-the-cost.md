@@ -49,6 +49,11 @@ Examples:
     take seriously anyone who hides this sort of information, we could expect
     this information to be widely available.
 
+# External links
+
+  * [Vipul Naik shared this page][vip]
+
 [eag]: https://www.facebook.com/groups/effective.altruists/permalink/1084685781587778 "Aaron Harnly. Post on the Effective Altruism Facebook group. June 13, 2016."
 [gh]: wikipedia#global-health
 [psigh_costs]: https://en.wikipedia.org/w/index.php?title=Priority-setting_in_global_health&oldid=731832367#History_of_organizations_and_programs_working_on_priority-setting
+[vip]: https://www.facebook.com/vipulnaik.r/posts/10209265818218417 "August 21, 2016."
