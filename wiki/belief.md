@@ -148,10 +148,10 @@ still be valuable) is Ben Hoffman's [post][hoffman] on philosophers:
 
 > Someone once described [Michael
 > Vassar](https://en.wikipedia.org/wiki/Michael_Vassar) to me as
-> paying attention not to the conclusions but to the intellectual processes of
+> paying attention not to the conclusions but to the intellectual processes of
 > people he’s talking to, not in order to conform to them, but out of curiosity,
 > in case they are using some valuable heuristic he should add to his toolbox. I
-> often find that I get something different than usual from philosophers because
+> often find that I get something different than usual from philosophers because
 > I read them this way. I find it jarring when people casually refer to
 > Nietzsche’s philosophy (to name one example) to reference some proposition or
 > other he’s famous for asserting. It seems natural to me to be referring to his
