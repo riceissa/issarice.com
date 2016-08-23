@@ -2,7 +2,7 @@
 title: MATH 135
 #description: 
 author: Issa Rice
-creation_date: 2015-03-29
+created: 2015-03-29
 last_major_revision_date: 2015-03-29
 language: English
 status: notes

@@ -1,6 +1,6 @@
 ---
 title: MATH 334
-creation_date: 2015-10-11
+created: 2015-10-11
 last_major_revision_date: 2015-10-11
 status: notes
 belief: emotional

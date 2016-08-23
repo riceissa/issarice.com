@@ -1,6 +1,6 @@
 ---
 title: Vim
-creation_date: 2015-02-28
+created: 2015-02-28
 date: 2016-07-26
 ---
 

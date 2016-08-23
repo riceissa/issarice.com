@@ -2,7 +2,7 @@
 title: PHYS 121
 feed_description: rant about the course
 author: Issa Rice
-creation_date: 2015-05-27
+created: 2015-05-27
 last_major_revision_date: 2015-05-27
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"

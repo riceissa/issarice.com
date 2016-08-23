@@ -2,7 +2,7 @@
 title: Status
 feed_description: more polished version
 author: Issa Rice
-creation_date: 2014-12-22
+created: 2014-12-22
 last_major_revision_date: 2015-06-29
 language: English
 # Possible values are "notes", "draft", "in progress", and

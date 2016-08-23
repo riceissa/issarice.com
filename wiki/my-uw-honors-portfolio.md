@@ -1,7 +1,7 @@
 ---
 title: My UW honors portfolio
 author: Issa Rice
-creation_date: 2014-11-23
+created: 2014-11-23
 last_major_revision_date: 2014-11-23
 language: English
 status: draft

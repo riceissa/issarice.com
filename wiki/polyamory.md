@@ -3,7 +3,7 @@ title: Polyamory
 #description: 
 #feed_description: 
 author: Issa Rice
-creation_date: 2015-07-25
+created: 2015-07-25
 last_major_revision_date: 2015-08-22
 language: English
 # Possible values are "notes", "draft", "in progress", and

@@ -2,7 +2,7 @@
 title: Pandoc
 description: 
 author: Issa Rice
-creation_date: 2014-10-31
+created: 2014-10-31
 last_major_revision_date: 2014-10-31
 language: English
 status: notes
