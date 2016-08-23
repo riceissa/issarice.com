@@ -1,5 +1,5 @@
 - second line of .md must begin with "title: " followed by the title name, optionally in double quotes
-- md file name should not contain an underscore (since underscores have special meaning, used for _archive)
+- md file name should not contain an underscore (since underscores have special meaning, used for _archive) -- use hyphens instead to separate words
 - md filename should not contain a period (since images and sitemaps have periods)
 - double quotes must not be in the title (use unicode if quoting is needed)
 - md pages must be in the directory wiki/ as a flat structure
