@@ -4,3 +4,6 @@
 - double quotes must not be in the title (use unicode if quoting is needed)
 - md pages must be in the directory wiki/ as a flat structure
 - md files must have the extension ".md"
+- use "date:" in YYYY-MM-DD format to specify the date of last substantive revision
+- use "created:" in YYYY-MM-DD format to specify the creation date
+- use "author:" to specify author
