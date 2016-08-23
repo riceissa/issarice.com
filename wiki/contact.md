@@ -8,7 +8,7 @@ Below are some ways to contact me (Issa Rice), as well as the account
 names[^aname] I use on various websites.  Feel free to connect with me
 through any of the means below.  I am most responsive via email and
 Facebook (I may not check other sites very often).
-I try to respond to everyone who contacts me, but [for various reasons](http://lesswrong.com/lw/eua/reasons_for_someone_to_ignore_you/ "“Reasons for someone to ‘ignore’ you” by Wei Dai") I might not; feel free to [ping me](http://www.inc.com/minda-zetlin/why-you-need-to-be-better-at-following-up.html "The Art of Following Up (Without Being Annoying)") if I don't respond.^[Also see [I emailed my customer asking multiple questions\. Their reply addressed only one\. What is the polite way to point this out?](https://workplace.stackexchange.com/questions/44483/i-emailed-my-customer-asking-multiple-questions-their-reply-addressed-only-one); i.e. I will try to respond to every question or point, but sometimes I might not (for whatever reason). If you really want an answer, feel free to re-ask the question/restate the point.]
+I try to respond to everyone who contacts me, but [for various reasons][noc] I might not; feel free to [ping me][ping] if I don't respond.^[Also see [I emailed my customer asking multiple questions\. Their reply addressed only one\. What is the polite way to point this out?][multiq]; i.e. I will try to respond to every question or point, but sometimes I might not (for whatever reason). If you really want an answer, feel free to re-ask the question/restate the point.]
 You can also stalk
 me online (e.g. by following me on Quora or Facebook or by reading what
 I have on this website).  I also don't mind if you ask questions about
@@ -24,8 +24,6 @@ then, I've sort of standardized on "riceissa" for most services, although I also
 “[Be Nice, Be Respectful][bnbr]” policy; it matters less whether the
 person about whom the question is asked is fine with it.
 
-[bnbr]: https://www.quora.com/What-is-Quoras-Be-Nice-Be-Respectful-policy
-
 # General
 
 - My email address is [riceissa@gmail.com][email].
@@ -35,12 +33,6 @@ person about whom the question is asked is fine with it.
 - I have [an identification photo][photo] in case you'd like to know what I
   look like.
 
-[email]: mailto:riceissa@gmail.com
-[pgp]: http://files.issarice.com/issarice-pubkey.asc
-[feedback]: https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form
-[g feedb]: http://www.gwern.net/About#anonymous-feedback
-[l feedb]: http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/
-[photo]: ./identification-photo.jpg
 
 
 # Social
@@ -59,12 +51,6 @@ For now, I'm just testing out Pinboard; I'm not sure yet for how long I'll conti
 - I am [riceissa][tp] on [Twitter](https://twitter.com/).  I don’t use
   Twitter very often, and when I do it’s mostly to read what others have
   tweeted.
-
-[fbp]: https://www.facebook.com/riceissa
-[qp]: https://www.quora.com/Issa-Rice
-[lp]: https://www.linkedin.com/in/issarice
-[okcp]: http://www.okcupid.com/profile/riceissa
-[tp]: https://twitter.com/riceissa
 
 # Rationality/Effective Altruism community
 
@@ -98,3 +84,19 @@ I occasionally use Reddit to look for information, but don’t really post.
 # See also
 
 - [How I communicate](how-i-communicate)
+
+[bnbr]: https://www.quora.com/What-is-Quoras-Be-Nice-Be-Respectful-policy
+[email]: mailto:riceissa@gmail.com
+[fbp]: https://www.facebook.com/riceissa
+[feedback]: https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form
+[g feedb]: http://www.gwern.net/About#anonymous-feedback
+[l feedb]: http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/
+[lp]: https://www.linkedin.com/in/issarice
+[multiq]: https://workplace.stackexchange.com/questions/44483/i-emailed-my-customer-asking-multiple-questions-their-reply-addressed-only-one
+[noc]: http://lesswrong.com/lw/eua/reasons_for_someone_to_ignore_you/ "“Reasons for someone to ‘ignore’ you” by Wei Dai"
+[okcp]: http://www.okcupid.com/profile/riceissa
+[pgp]: http://files.issarice.com/issarice-pubkey.asc
+[photo]: ./identification-photo.jpg
+[ping]: http://www.inc.com/minda-zetlin/why-you-need-to-be-better-at-following-up.html "The Art of Following Up (Without Being Annoying)"
+[qp]: https://www.quora.com/Issa-Rice
+[tp]: https://twitter.com/riceissa
