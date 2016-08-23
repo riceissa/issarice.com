@@ -80,11 +80,11 @@ Tabarrok says:
 > between 3 and 4 to 1) Silver should be willing to take either side of a
 > modest bet. Indeed, we could hold a coin toss, heads Silver takes the
 > Obama side, tails he takes Romney.
-> 
-> In fact, the NYTimes should *require* that Silver, and other pundits,
+>
+> In fact, the NYTimes should *require* that Silver, and other pundits,
 > [bet their beliefs](http://hanson.gmu.edu/futarchy.pdf). Furthermore, to
 > remove any possibility of manipulation, the NYTimes should escrow a
-> portion of Silver’s salary in a *blind trust bet*. In other words, the
+> portion of Silver’s salary in a *blind trust bet*. In other words, the
 > NYTimes should bet a portion of Silver’s salary, at the odds implied by
 > Silver’s model, randomly choosing which side of the bet to take, only
 > revealing to Silver the bet and its outcome after the election is over.
