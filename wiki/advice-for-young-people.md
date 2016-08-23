@@ -438,7 +438,7 @@ altruism][ea crit]".  I've been keeping a longer list at "[Criticism of effectiv
 
 I liked this article by Larissa MacFarquhar: "[Extreme altruism: should you care for strangers at the expense of your family?](http://www.theguardian.com/world/2015/sep/22/extreme-altruism-should-you-care-for-strangers-as-much-as-family)"
 
-[for more general resources, see [Effective altruism]()]
+\[for more general resources, see [Effective altruism]()]
 
 
 # Online presence and content creation
