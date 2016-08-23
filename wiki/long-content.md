@@ -3,7 +3,7 @@ title: Long Content
 #description: none
 author: Issa Rice
 created: 2014-12-31
-last_major_revision_date: 2014-12-31
+date: 2014-12-31
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

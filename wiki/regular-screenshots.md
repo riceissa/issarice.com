@@ -4,7 +4,7 @@ title: Regular screenshots
 #feed_description: 
 author: Issa Rice
 created: 2015-09-09
-last_major_revision_date: 2015-09-09
+date: 2015-09-09
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

@@ -1,7 +1,7 @@
 ---
 title: MATH 334
 created: 2015-10-11
-last_major_revision_date: 2015-10-11
+date: 2015-10-11
 status: notes
 belief: emotional
 # accepts "CC0", "CC-BY", or "CC-BY-SA"

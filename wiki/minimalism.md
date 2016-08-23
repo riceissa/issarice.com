@@ -3,7 +3,7 @@ title: Minimalism
 #description: none
 author: Issa Rice
 created: 2015-01-04
-last_major_revision_date: 2015-01-04
+date: 2015-01-04
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes

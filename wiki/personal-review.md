@@ -3,7 +3,7 @@ title: Personal review
 #description: none
 author: Issa Rice
 created: 2015-01-03
-last_major_revision_date: 2015-01-03
+date: 2015-01-03
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

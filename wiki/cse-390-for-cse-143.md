@@ -3,7 +3,7 @@ title: CSE 390 (for CSE 143)
 #description: 
 author: Issa Rice
 created: 2015-03-29
-last_major_revision_date: 2015-03-29
+date: 2015-03-29
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

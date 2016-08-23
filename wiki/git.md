@@ -1,10 +1,5 @@
 ---
 title: Git
-description: A collection of useful/often-forgotten git commands
-last_major_revision_date: 
-license: "CC-BY"
-tags: git, linux
-aliases: git-commands, a-collection-of-often-forgotten-git-commands
 ---
 
 Some useful commands:
@@ -37,7 +32,7 @@ Some useful commands:
 - Check when the last revision date for a page on this site was last modified:
 
     ~~~{.bash}
-    git blame -L '/last_major_revision_date: /,+1' wiki/PAGENAME.md
+    git blame -L '/date: /,+1' wiki/PAGENAME.md
     ~~~
 
 # Weird behavior

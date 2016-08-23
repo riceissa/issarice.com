@@ -4,7 +4,7 @@ title: 2channel
 #feed_description: 
 author: Issa Rice
 created: 2015-09-10
-last_major_revision_date: 2015-12-31
+date: 2015-12-31
 language: English
 status: notes
 license: CC0

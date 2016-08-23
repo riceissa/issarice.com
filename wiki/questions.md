@@ -3,7 +3,7 @@ title: Questions
 #description: 
 author: Issa Rice
 created: 2015-01-30
-last_major_revision_date: 2015-01-30
+date: 2015-01-30
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

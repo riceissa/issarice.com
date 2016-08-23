@@ -3,7 +3,7 @@ title: Using a tree structure for websites
 #description: none
 author: Issa Rice
 created: 2014-12-27
-last_major_revision_date: 2014-12-27
+date: 2014-12-27
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

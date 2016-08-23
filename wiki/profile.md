@@ -4,7 +4,7 @@ title: Profile
 #feed_description: 
 author: Issa Rice
 created: 2015-07-25
-last_major_revision_date: 2015-07-25
+date: 2015-07-25
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

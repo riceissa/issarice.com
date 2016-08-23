@@ -3,7 +3,7 @@ title: How I communicate
 description: 
 author: Issa Rice
 created: 2014-11-11
-last_major_revision_date: 2014-11-11
+date: 2014-11-11
 language: English
 status: draft
 license: CC BY

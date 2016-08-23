@@ -3,7 +3,7 @@ title: Content licensing
 #description: none
 author: Issa Rice
 created: 2015-01-02
-last_major_revision_date: 2015-01-02
+date: 2015-01-02
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes

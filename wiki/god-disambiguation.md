@@ -3,7 +3,7 @@ title: God (disambiguation)
 #feed_description: 
 author: Issa Rice
 created: 2015-07-15
-last_major_revision_date: 2015-07-15
+date: 2015-07-15
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

@@ -4,7 +4,7 @@ title: Make-work bias
 #feed_description: 
 author: Issa Rice
 created: 2015-09-16
-last_major_revision_date: 2015-09-16
+date: 2015-09-16
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

@@ -3,7 +3,7 @@ title: mojix
 #feed_description: 
 author: Issa Rice
 created: 2015-06-25
-last_major_revision_date: 2015-06-25
+date: 2015-06-25
 language: English
 status: notes
 belief: emotional

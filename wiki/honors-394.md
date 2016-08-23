@@ -3,7 +3,7 @@ title: Honors 394
 #description: 
 author: Issa Rice
 created: 2015-03-15
-last_major_revision_date: 2015-03-15
+date: 2015-03-15
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

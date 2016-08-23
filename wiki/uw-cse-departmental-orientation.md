@@ -4,7 +4,7 @@ title: UW CSE Departmental Orientation
 #feed_description: 
 author: Issa Rice
 created: 2015-07-30
-last_major_revision_date: 2015-07-30
+date: 2015-07-30
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

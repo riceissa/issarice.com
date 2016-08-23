@@ -3,7 +3,7 @@ title: Selfish Reasons to Have More Kids
 #feed_description: 
 author: Issa Rice
 created: 2015-04-25
-last_major_revision_date: 2015-04-25
+date: 2015-04-25
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

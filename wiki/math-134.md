@@ -3,7 +3,7 @@ title: MATH 134
 description: Course review of math 134 at the University of Washington
 author: Issa Rice
 created: 2014-12-09
-last_major_revision_date: 2014-12-09
+date: 2014-12-09
 language: English
 status: draft
 license: CC BY

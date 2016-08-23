@@ -3,7 +3,7 @@ title: "Julian Simon’s Good Mood"
 #feed_description: 
 author: Issa Rice
 created: 2015-05-23
-last_major_revision_date: 2015-05-23
+date: 2015-05-23
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

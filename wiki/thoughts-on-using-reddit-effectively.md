@@ -3,7 +3,7 @@ title: Thoughts on using Reddit effectively
 description: 
 author: Issa Rice
 created: 2014-12-11
-last_major_revision_date: 2015-07-11
+date: 2015-07-11
 language: English
 status: notes
 belief: possible

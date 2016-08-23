@@ -3,7 +3,7 @@ title: "UW: year one in review"
 #feed_description: 
 author: Issa Rice
 created: 2015-06-21
-last_major_revision_date: 2015-06-21
+date: 2015-06-21
 language: English
 status: notes
 belief: emotional

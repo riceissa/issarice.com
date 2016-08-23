@@ -3,7 +3,7 @@ title: Autumn 2014 at the University of Washington
 #description: none
 author: Issa Rice
 created: 2015-01-15
-last_major_revision_date: 2015-01-15
+date: 2015-01-15
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

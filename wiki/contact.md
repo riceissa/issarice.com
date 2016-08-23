@@ -1,7 +1,7 @@
 ---
 title: Contact
 created: 2015-01-14
-last_major_revision_date: 2015-09-06
+date: 2015-09-06
 ---
 
 Below are some ways to contact me (Issa Rice), as well as the account

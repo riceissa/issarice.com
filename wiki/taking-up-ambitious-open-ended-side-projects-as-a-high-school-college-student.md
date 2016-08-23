@@ -4,7 +4,7 @@ title: Taking up ambitious open-ended side projects (as a high school/college st
 #feed_description: 
 author: Issa Rice
 created: 2015-08-08
-last_major_revision_date: 2015-08-08
+date: 2015-08-08
 language: English
 # Possible values are "notes", "draft", "in progress", and
 # "mostly finished"

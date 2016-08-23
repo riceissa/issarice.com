@@ -3,7 +3,7 @@ title: Quora
 #description: none
 author: Issa Rice
 created: 2014-12-29
-last_major_revision_date: 2015-08-27
+date: 2015-08-27
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes

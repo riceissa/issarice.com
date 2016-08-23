@@ -3,7 +3,7 @@ title: About this site
 description: site info, tools used to build the site
 tags: site-info, general
 created: 2014-09-14
-last_major_revision_date: 2015-01-14
+date: 2015-01-14
 license: CC0
 aliases: about-this-site, site
 ---

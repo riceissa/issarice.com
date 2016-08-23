@@ -4,7 +4,7 @@ description: Online pages should be useful to people coming from outside the sit
 feed_description: Add new advantages and examples for this site.
 author: Issa Rice
 created: 2015-01-02
-last_major_revision_date: 2015-08-04
+date: 2015-08-04
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes

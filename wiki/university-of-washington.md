@@ -3,7 +3,7 @@ title: University of Washington
 #description: none
 author: Issa Rice
 created: 2014-12-29
-last_major_revision_date: 2016-03-30
+date: 2016-03-30
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
 #status: notes
