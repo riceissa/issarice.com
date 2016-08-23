@@ -45,7 +45,7 @@ mounted, in which case you may skip this step and the next step.
     In this document, we will assume the CD automatically mounted at
     `/media/cdrom0` from now on.
 
-1. Umount the CD (but not eject it) using
+1. Unmount the CD (but not eject it) using
 
     ~~~~
     sudo umount /media/cdrom0
