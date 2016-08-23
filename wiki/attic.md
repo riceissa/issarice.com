@@ -3,7 +3,7 @@ title: Attic
 #description: 
 #feed_description: 
 author: Issa Rice
-creation_date: 2015-09-07
+created: 2015-09-07
 last_major_revision_date: 2015-09-07
 language: English
 # Possible values are "notes", "draft", "in progress", and

@@ -3,7 +3,7 @@ title: Effective altruism and Asperger syndrome
 #description: 
 #feed_description: 
 author: Issa Rice
-creation_date: 2015-08-17
+created: 2015-08-17
 last_major_revision_date: 2015-08-17
 language: English
 # Possible values are "notes", "draft", "in progress", and

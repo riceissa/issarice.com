@@ -2,7 +2,7 @@
 title: Exercise
 #description: 
 author: Issa Rice
-creation_date: 2015-02-04
+created: 2015-02-04
 last_major_revision_date: 2015-02-04
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"

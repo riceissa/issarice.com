@@ -1,7 +1,7 @@
 ---
 title: Digital preservation
 author: Issa Rice
-creation_date: 2015-01-01
+created: 2015-01-01
 date: 2016-07-09
 ---
 

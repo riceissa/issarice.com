@@ -3,7 +3,7 @@ title: Egoism of personal websites
 #description: 
 #feed_description: 
 author: Issa Rice
-creation_date: 2015-10-20
+created: 2015-10-20
 last_major_revision_date: 2015-10-20
 language: English
 # Possible values are "notes", "draft", "in progress", and

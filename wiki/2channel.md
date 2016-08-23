@@ -3,7 +3,7 @@ title: 2channel
 #description: 
 #feed_description: 
 author: Issa Rice
-creation_date: 2015-09-10
+created: 2015-09-10
 last_major_revision_date: 2015-12-31
 language: English
 status: notes

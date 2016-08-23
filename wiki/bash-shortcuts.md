@@ -3,7 +3,7 @@ title: Bash shortcuts
 description: a cheat sheet for Bash
 tags: linux
 # This page is at least as old as the following date.  I don't know if I can find the original date on which I began this document.
-creation_date: 2011-08-23
+created: 2011-08-23
 last_major_revision_date: 2015-01-02
 ---
 

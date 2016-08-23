@@ -2,7 +2,7 @@
 title: Commenting on this site
 #description: none
 author: Issa Rice
-creation_date: 2015-01-14
+created: 2015-01-14
 last_major_revision_date: 2015-01-14
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"

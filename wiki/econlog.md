@@ -2,7 +2,7 @@
 title: EconLog
 feed_description: some of my favorite Econlog posts
 author: Issa Rice
-creation_date: 2015-01-16
+created: 2015-01-16
 last_major_revision_date: 2015-01-20
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"

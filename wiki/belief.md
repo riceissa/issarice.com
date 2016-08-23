@@ -1,7 +1,7 @@
 ---
 title: Belief
 author: Issa Rice
-creation_date: 2014-12-22
+created: 2014-12-22
 date: 2016-07-30
 belief: likely
 ---

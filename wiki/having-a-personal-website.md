@@ -2,7 +2,7 @@
 title: Having a personal website
 #description: none
 author: Issa Rice
-creation_date: 2014-12-26
+created: 2014-12-26
 last_major_revision_date: 2015-08-30
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"

@@ -1,7 +1,7 @@
 ---
 title: Colophon
 author: Issa Rice
-creation_date: 2015-08-31
+created: 2015-08-31
 date: 2015-08-31
 ---
 

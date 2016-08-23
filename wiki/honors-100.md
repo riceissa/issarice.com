@@ -2,7 +2,7 @@
 title: Honors 100
 description: Course review of honors 100 at the University of Washington
 author: Issa Rice
-creation_date: 2014-12-20
+created: 2014-12-20
 last_major_revision_date: 2014-12-20
 language: English
 status: draft

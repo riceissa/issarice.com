@@ -1,6 +1,6 @@
 ---
 title: Effective altruism
-creation_date: 2015-01-02
+created: 2015-01-02
 date: 2016-06-15
 ---
 

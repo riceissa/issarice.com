@@ -2,7 +2,7 @@
 title: CSS
 #feed_description: 
 author: Issa Rice
-creation_date: 2015-07-05
+created: 2015-07-05
 last_major_revision_date: 2015-07-05
 language: English
 # Possible values are "notes", "draft", "in progress", and

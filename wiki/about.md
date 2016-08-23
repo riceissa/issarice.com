@@ -2,7 +2,7 @@
 title: About
 #description: none
 author: Issa Rice
-creation_date: 2014-09-13
+created: 2014-09-13
 date: 2015-10-04
 language: English
 # accepts "notes", "draft", "in progress", or "mostly finished"
