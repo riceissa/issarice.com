@@ -44,6 +44,13 @@ that of a typical "proto-EA".
 However, I *don't* mean "first principles" in some contrived Russellian
 deductive sense.
 
+Now my question is, given the above setup, i.e. a generally "rational" person
+inclined to do the most good possible through donations, would one converge on
+EAs' favorite causes or GiveWell top-rated charities? How would such a person
+carry out this investigation? How would they even start? Would they be
+convinced by GiveWell's research? Would they clearly see Against Malaria
+Foundation as the best charity combating malaria?
+
 [donations]: http://issarice.com/donation-history
 [involvement]: http://issarice.com/effective-altruism
 [tone]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation
