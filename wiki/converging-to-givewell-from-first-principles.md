@@ -40,9 +40,9 @@ epistemic framework, where I assume:
 
 The point of the exercise is that I'm trying to create a "clean environment"
 where I can reason about topics that effective altruists frequently discuss,
-but where I don't bring in their specific conclusions takes on things. To be
-sure, it is an artificial environment, but one which I expect emulates well
-that of a typical "proto-EA".
+but where I don't bring in their specific takes on things. To be sure, it is an
+artificial environment, but one which I expect emulates well that of a typical
+"proto-EA".
 
 However, I *don't* mean "first principles" in some contrived Russellian
 deductive sense.
@@ -53,6 +53,13 @@ EAs' favorite causes or GiveWell top-rated charities? How would such a person
 carry out this investigation? How would they even start? Would they be
 convinced by GiveWell's research? Would they clearly see Against Malaria
 Foundation as the best charity combating malaria?
+
+# Generating a list of charities
+
+  * GiveWell only really evaluates charities that agree to go along with its
+    evaluation process.
+  * Looking at how different orgs deal with e.g. malaria. GiveWell recommends
+    AMF but the Gates Foundation donates to Nothing But Nets.
 
 [donations]: http://issarice.com/donation-history
 [involvement]: http://issarice.com/effective-altruism
