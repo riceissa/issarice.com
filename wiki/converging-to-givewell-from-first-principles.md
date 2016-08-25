@@ -23,7 +23,9 @@ epistemic framework, where:
     (Disclosure: I wrote the original version of the timeline, which was
     subsequently expanded by Vipul Naik, who also has [involvement with the EA
     community][vip_i].) In particular, I assume that one knows about the
-    existence of GiveWell, Charity Navigator, and the Gates Foundation.
+    existence of GiveWell, Charity Navigator, and the Gates Foundation. This
+    mostly saves time Googling for nonprofit evaluators and then trying to
+    obtain independent descriptions of them.
   * I assume one is trying to find the best giving opportunity, that is, a
     charity or other entity to which one can donate money that would cause the
     most good. I will also assume a comfortable financial position. Note that
