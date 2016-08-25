@@ -13,3 +13,9 @@ What can "Sure" mean?
     forget about your point."
   * "I am temporarily agreeing with you on this point so that you can continue
     what you've been wanting to say."
+
+# External links
+
+  * [Vipul Naik shared this post][vs]
+
+[vs]: https://www.facebook.com/vipulnaik.r/posts/10209295837408878 "August 24, 2016."
