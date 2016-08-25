@@ -16,3 +16,4 @@ from [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetF
 > best available estimations/data of the variables to date.
 
   * <https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative>
+  * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
