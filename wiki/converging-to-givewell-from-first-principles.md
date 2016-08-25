@@ -19,6 +19,11 @@ epistemic framework, where:
     the community in various ways. I haven't [personally donated][donations] to
     GiveWell or its recommended charities, but many of the people I have
     interacted with have.
+  * I assume access to the Wikipedia [timeline of nonprofit evaluation][tone].
+    (Disclosure: I wrote the original version of the timeline, which was
+    subsequently expanded by Vipul Naik, who also has [involvement with the EA
+    community][vip_i].) In particular, I assume that one knows about the
+    existence of GiveWell, Charity Navigator, and the Gates Foundation.
 
 The point of the exercise is that I'm trying to create a "clean environment"
 where I can reason about topics that effective altruists frequently discuss,
@@ -29,3 +34,5 @@ deductive sense.
 
 [involvement]: http://issarice.com/effective-altruism
 [donations]: http://issarice.com/donation-history
+[tone]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation
+[vip_i]: http://vipulnaik.com/effective-altruism/
