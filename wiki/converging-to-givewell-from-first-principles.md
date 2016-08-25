@@ -32,7 +32,7 @@ but where I don't bring in their specific conclusions.
 However, I *don't* mean "first principles" in some contrived Russellian
 deductive sense.
 
-[involvement]: http://issarice.com/effective-altruism
 [donations]: http://issarice.com/donation-history
+[involvement]: http://issarice.com/effective-altruism
 [tone]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation
 [vip_i]: http://vipulnaik.com/effective-altruism/
