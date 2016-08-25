@@ -24,10 +24,22 @@ epistemic framework, where:
     subsequently expanded by Vipul Naik, who also has [involvement with the EA
     community][vip_i].) In particular, I assume that one knows about the
     existence of GiveWell, Charity Navigator, and the Gates Foundation.
+  * I assume one is trying to find the best giving opportunity, that is, a
+    charity or other entity to which one can donate money that would cause the
+    most good. I will also assume a comfortable financial position. Note that
+    in reality, I don't even have a financial buffer or income that allows me
+    to comfortably donate.
+  * I assume I am not biased toward any specific cause. In particular, nothing
+    of the form "My relative is diagnosed with disease X so I feel compelled,
+    on an emotional level, to give to that cause" or "In my childhood, I was
+    disadvantaged in way Y so I want to help people in similar positions to my
+    past self".
 
 The point of the exercise is that I'm trying to create a "clean environment"
 where I can reason about topics that effective altruists frequently discuss,
-but where I don't bring in their specific conclusions.
+but where I don't bring in their specific conclusions takes on things. To be
+sure, it is an artificial environment, but one which I expect emulates well
+that of a typical "proto-EA".
 
 However, I *don't* mean "first principles" in some contrived Russellian
 deductive sense.
