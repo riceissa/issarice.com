@@ -10,30 +10,31 @@ Or "How rational is it to fall in love with GiveWell at first sight?"
 Or "How rational is it to fall in love with EA at first sight?"
 
 By "first principles", I mean to work off of a deliberately stripped-down
-epistemic framework, where:
+epistemic framework, where I assume:
 
-  * I assume no social connection to the effective altruism community,
-    rationalist community, or GiveWell. The reality is that I tend to have
-    around 100 mutual Facebook friends with "inner" members of the effective
-    altruism community and I've been [personally involved][involvement] with
-    the community in various ways. I haven't [personally donated][donations] to
+  * No social connection to the effective altruism community, rationalist
+    community, or GiveWell. The reality is that I tend to have around 100
+    mutual Facebook friends with "inner" members of the effective altruism
+    community and I've been [personally involved][involvement] with the
+    community in various ways. I haven't [personally donated][donations] to
     GiveWell or its recommended charities, but many of the people I have
     interacted with have.
-  * I assume access to the Wikipedia [timeline of nonprofit evaluation][tone].
+  * One is trying to find the best giving opportunity, that is, a charity or
+    other entity to which one can donate money that would cause the most good.
+    However, to make the exercise more manageable, I restrict consideration to
+    charities in global health and poverty.
+  * Access to the Wikipedia [timeline of nonprofit evaluation][tone].
     (Disclosure: I wrote the original version of the timeline, which was
     subsequently expanded by Vipul Naik, who also has [involvement with the EA
     community][vip_i].) In particular, I assume that one knows about the
     existence of GiveWell, Charity Navigator, and the Gates Foundation. This
     mostly saves time Googling for nonprofit evaluators and then trying to
     obtain independent descriptions of them.
-  * I assume one is trying to find the best giving opportunity, that is, a
-    charity or other entity to which one can donate money that would cause the
-    most good. I will also assume a comfortable financial position. Note that
-    in reality, I don't even have a financial buffer or income that allows me
-    to comfortably donate.
-  * I assume I am not biased toward any specific cause. In particular, nothing
-    of the form "My relative is diagnosed with disease X so I feel compelled,
-    on an emotional level, to give to that cause" or "In my childhood, I was
+  * A comfortable financial position. Note that in reality, I don't even have a
+    financial buffer or income that allows me to comfortably donate.
+  * No bias toward a specific intervention. In particular, nothing of the form
+    "My relative is diagnosed with disease X so I feel compelled, on an
+    emotional level, to give to that cause" or "In my childhood, I was
     disadvantaged in way Y so I want to help people in similar positions to my
     past self".
 
