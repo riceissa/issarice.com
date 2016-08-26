@@ -13,6 +13,10 @@ What can "Sure" mean?
     forget about your point."
   * "I am temporarily agreeing with you on this point so that you can continue
     what you've been wanting to say."
+  * "I know that saying 'Sure' can be ambiguous, and I know that you know that
+    saying 'Sure' can be ambiguous, and I know that you know that I know that
+    saying 'Sure' can be ambiguous, so I am deliberately and humorously (but
+    not really) saying 'Sure' as a nonsensical reply."
 
 # External links
 
