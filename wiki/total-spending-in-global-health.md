@@ -48,7 +48,7 @@ off, since health spending seems to change a lot in just a few years:
 
 > Trends between 2001--2005 show significant increases in total expenditures on
 > health in the group of low-income countries. Taken as a group, these
-> countries spent $11 (in 2005 US$) per capita health in 2001, a figure that
+> countries spent $11 (in 2005 US\$) per capita health in 2001, a figure that
 > includes contributions from external sources such as bilateral and
 > multilateral partners and foundations. This had increased to $15 in 2005, and
 > $21 in 2011. This represents an increase of 85% over the period.
