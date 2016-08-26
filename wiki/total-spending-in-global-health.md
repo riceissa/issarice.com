@@ -20,7 +20,7 @@ From [another WHO report](http://apps.who.int/nha/database/DocumentationCentre/G
 > In 2011, US$ 6.9 trillion was spent on health. [... by whom? The "Key facts"
 > section doesn't say]
 
-From the same report:
+From the same report (page 3):
 
 > **Increasing external support** \
 > If all donor countries were to immediately honor their overseas development
