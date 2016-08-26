@@ -15,6 +15,10 @@ from [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetF
 > in the detail needed so estimations are still required. The GHED contains the
 > best available estimations/data of the variables to date.
 
+From [another WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/51106551/en) (page 2):
+
+> In 2011, US$ 6.9 trillion was spent on health.
+
   * <https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative>
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
