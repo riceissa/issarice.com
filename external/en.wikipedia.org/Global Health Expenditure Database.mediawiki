@@ -1,0 +1,16 @@
+The '''Global Health Expenditure Database''' ('''GHED''') is a database assembled by the [[World Health Organization]] of health expenditure information of countries. WHO also publishes the Global Health Expenditure Atlas every two years (?), which is a PDF containing a summary of the data in the GHED (?).
+
+==Data sources==
+
+==Reception==
+
+==See also==
+
+==External links==
+
+* [http://www.who.int/health-accounts/ghed/en/ Official website]
+
+==References==
+
+{{reflist|30em}}
+
