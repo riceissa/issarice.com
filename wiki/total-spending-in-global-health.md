@@ -43,6 +43,16 @@ Page 6:
 > Half to two-thirds of total government spending on health is used for
 > hospital care.
 
+Page 9, which indicates that the spending figure from 2011 might be quite a bit
+off, since health spending seems to change a lot in just a few years:
+
+> Trends between 2001--2005 show significant increases in total expenditures on
+> health in the group of low-income countries. Taken as a group, these
+> countries spent $11 (in 2005 US$) per capita health in 2001, a figure that
+> includes contributions from external sources such as bilateral and
+> multilateral partners and foundations. This had increased to $15 in 2005, and
+> $21 in 2011. This represents an increase of 85% over the period.
+
   * <https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative>
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
