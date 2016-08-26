@@ -20,6 +20,15 @@ From [another WHO report](http://apps.who.int/nha/database/DocumentationCentre/G
 > In 2011, US$ 6.9 trillion was spent on health. [... by whom? The "Key facts"
 > section doesn't say]
 
+Page 7 elaborates:
+
+> In 2011, the world spent a total of US$ 6.9 trillion on health at exchange
+> rates or I$ 7.2 trillion (International dollars taking into account the
+> purchasing power of different national currencies). The geographical
+> distribution of financial resources for health is uneven. There is a 20/80
+> syndrome in which 34 OECD countries make up less than 20% of the world's
+> population but spend over 80% of the world's resources on health.
+
 From the same report (page 3):
 
 > **Increasing external support** \
