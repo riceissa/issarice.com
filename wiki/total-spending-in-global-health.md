@@ -53,6 +53,8 @@ off, since health spending seems to change a lot in just a few years:
 > multilateral partners and foundations. This had increased to $15 in 2005, and
 > $21 in 2011. This represents an increase of 85% over the period.
 
+Other sources to look at for funding info:
+
   * <https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative>
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
