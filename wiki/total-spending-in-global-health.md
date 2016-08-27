@@ -62,5 +62,37 @@ Other sources to look at for funding info:
 
         > Total grant payments since inception (through Q4 2015): $36.7 billion
 
+      * Some interesting things you can do with the grants database.
+        First, [narrow down to malaria](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database#q/issue=Malaria), then check "issue" again to see the overlap with other issues:
+
+        > Malaria (350) \
+        > Discovery and Translational Sciences (14) \
+        > Vaccine Delivery (8) \
+        > Vaccine Development (7) \
+        > Pneumonia (5) \
+        > Enteric Diseases and Diarrhea (4) \
+        > Integrated Development (4) \
+        > Neglected and Infectious Diseases (3) \
+        > Integrated Delivery (3) \
+        > Neglected Tropical Diseases (3) \
+        > Family Health: Family Planning (2) \
+        > Tuberculosis (2) \
+        > Global Policy & Advocacy (1) \
+        > Communications (1) \
+        > HIV (1) \
+        > Polio (1) \
+        > Strategic Partnerships (1)
+
+        Or malaria grants by year:
+
+        > 2009 and earlier (152) \
+        > 2015 (38) \
+        > 2011 (34) \
+        > 2010 (31) \
+        > 2014 (31) \
+        > 2012 (29) \
+        > 2013 (22) \
+        > 2016 (13)
+
   * Individual annual reports put out by various orgs (which ones?)
   * Private donations in the US: [Charity Navigator](http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/42) and [NPT](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/) give same numbers for 2015, namely $373 billion (but not all of this is health).
