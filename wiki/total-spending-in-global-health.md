@@ -58,5 +58,9 @@ Other sources to look at for funding info:
   * <https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative>
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
+      * From their [fact sheet](http://www.gatesfoundation.org/Who-We-Are/General-Information/Foundation-Factsheet):
+
+        > Total grant payments since inception (through Q4 2015): $36.7 billion
+
   * Individual annual reports put out by various orgs (which ones?)
   * Private donations in the US: [Charity Navigator](http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/42) and [NPT](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/) give same numbers for 2015, namely $373 billion (but not all of this is health).
