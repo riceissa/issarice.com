@@ -51,7 +51,7 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | <code><C-R><C-O>+</code>
 | No
 | No
-| Clears anything inserted before pasting, puts in <code>^R^O+</code>, and keeps anything inserted after pasting
+| Keeps anything inserted before pasting, puts in <code>^R^O+</code>, and keeps anything inserted after pasting
 |-
 | <code><C-G>u<C-\><C-O>"+gP</code>
 | No
@@ -69,11 +69,15 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 |}
 
-The first mapping will temporarily switch to normal mode without moving the cursor, and then paste. It first uses <code><C-g>u</code> to break the undo sequence so that the pasting can be undone. Then <code><C-\><C-o></code> temporarily switches to normal mode without moving the cursor. It then accesses the <code>+</code> register and uses <code>gP</code> instead of the usual <code>P</code> to paste so that the cursor is positioned after what is pasted (just like the default <code><C-R>+</code>). Note that because the clipboard is pasted in "one move" instead of being translated character-by-character (the default behavior), formatting options such as <code>textwidth</code> are not obeyed (use something like <code>gqip</code> to fix the formatting; see {{help|gq}}).
+For the first mapping, see {{help|i_CTRL-R_CTRL-R}}.
 
-The second mapping employs the strategy used in [https://github.com/vim/vim/blob/8aba95097305b77d56adce507793e331e895a601/runtime/autoload/paste.vim#L32-L34 <code>paste.vim</code>] (when <code>virtualedit</code> is unavailable). This mapping forces Vim to paste characterwise ({{help|characterwise-register}}) even if the register contains linewise text. This is useful if you always want Vim to start pasting where the cursor was on the line. Select some lines using <code>V</code>, then yank with <code>"+y</code>. Now enter insert mode in the middle of a line. The behavior of the first mapping would be to jump to the previous line and insert the lines there (thus not changing the current line), whereas in most other text editors the text is pasted in the middle of the current line (since most text editors don't distinguish between linewise and characterwise operations).
+For the second mapping, see {{help|i_CTRL-R_CTRL-O}}.
 
-The third mapping is essentially from [https://github.com/vim/vim/blob/6c35beaa11d38fc0c37a3d209295772313b12003/runtime/mswin.vim#L47 <code>mswin.vim</code>]. If Vim was compiled with <code>virtualedit</code>, it takes advantage of this to paste linewise and blockwise text in a more Vim-like manner. If Vim is not compiled with <code>virtualedit</code>, it falls back to the behavior of the previous mapping.
+The third mapping will temporarily switch to normal mode without moving the cursor, and then paste. It first uses <code><C-g>u</code> to break the undo sequence so that the pasting can be undone. Then <code><C-\><C-o></code> temporarily switches to normal mode without moving the cursor. It then accesses the <code>+</code> register and uses <code>gP</code> instead of the usual <code>P</code> to paste so that the cursor is positioned after what is pasted (just like the default <code><C-R>+</code>). Note that because the clipboard is pasted in "one move" instead of being translated character-by-character (the default behavior), formatting options such as <code>textwidth</code> are not obeyed (use something like <code>gqip</code> to fix the formatting; see {{help|gq}}).
+
+The fourth mapping employs the strategy used in [https://github.com/vim/vim/blob/8aba95097305b77d56adce507793e331e895a601/runtime/autoload/paste.vim#L32-L34 <code>paste.vim</code>] (when <code>virtualedit</code> is unavailable). This mapping forces Vim to paste characterwise ({{help|characterwise-register}}) even if the register contains linewise text. This is useful if you always want Vim to start pasting where the cursor was on the line. Select some lines using <code>V</code>, then yank with <code>"+y</code>. Now enter insert mode in the middle of a line. The behavior of the first mapping would be to jump to the previous line and insert the lines there (thus not changing the current line), whereas in most other text editors the text is pasted in the middle of the current line (since most text editors don't distinguish between linewise and characterwise operations).
+
+The fifth mapping is essentially from [https://github.com/vim/vim/blob/6c35beaa11d38fc0c37a3d209295772313b12003/runtime/mswin.vim#L47 <code>mswin.vim</code>]. If Vim was compiled with <code>virtualedit</code>, it takes advantage of this to paste linewise and blockwise text in a more Vim-like manner. If Vim is not compiled with <code>virtualedit</code>, it falls back to the behavior of the previous mapping.
 
 Even with the above mappings, the default behavior can still be retrieved by waiting a moment after typing <code><C-R></code> (so that Vim gives up on trying to use the custom mapping).
 
