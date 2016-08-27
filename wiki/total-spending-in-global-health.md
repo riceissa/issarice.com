@@ -83,16 +83,16 @@ Other sources to look at for funding info:
         > Polio (1) \
         > Strategic Partnerships (1)
 
-        Or malaria grants by year:
+        Or malaria grants by year (that I've sorted):
 
-        > 2009 and earlier (152) \
+        > 2016 (13) \
         > 2015 (38) \
+        > 2014 (31) \
+        > 2013 (22) \
+        > 2012 (29) \
         > 2011 (34) \
         > 2010 (31) \
-        > 2014 (31) \
-        > 2012 (29) \
-        > 2013 (22) \
-        > 2016 (13)
+        > 2009 and earlier (152)
 
   * Individual annual reports put out by various orgs (which ones?)
   * Private donations in the US: [Charity Navigator](http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/42) and [NPT](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/) give same numbers for 2015, namely $373 billion (but not all of this is health).
