@@ -83,7 +83,7 @@ Other sources to look at for funding info:
         > Polio (1) \
         > Strategic Partnerships (1)
 
-        Or malaria grants by year (that I've sorted):
+        Or malaria grants by year (that I've sorted by year):
 
         > 2016 (13) \
         > 2015 (38) \
