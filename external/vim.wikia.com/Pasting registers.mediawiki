@@ -15,13 +15,9 @@ It is possible to paste the contents of any register into the current buffer or 
 
 ==In normal and visual modes==
 
-In general, <code>"{register}p</code> pastes the contents of the register <code>"{register}</code>. For instance, <code>"ap</code> pastes the contents of the register <code>"a</code>.
+In normal and visual modes, <code>"xp</code> pastes the contents of the register <code>x</code>.
 
-Just as <code>"+p</code> (or <code>"*p</code>) pastes the contents of the clipboard, other registers can be pasted as well.
-
-Use <code>":p</code> to paste the last command. For example, you might want to save a complex search and replace (<code>:%s///g</code>) that you have just used.
-
-Use <code>"/p</code> to paste the last search.
+This works with special registers as well: <code>"+p</code> (or <code>"*p</code>) pastes the contents of the clipboard, <code>"/p</code> pastes the last search, and <code>":p</code> pastes the last command. For example, you might want to save a complex search and replace (<code>:%s///g</code>) that you have just used, which you can do by pasting with <code>":p</code>.
 
 ==In insert and command-line modes==
 
@@ -63,7 +59,7 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 |-
-| <code>exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']</code>
+| <code>exe ...</code> (see above)
 | If <code>has('virtualedit')</code> is true
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
