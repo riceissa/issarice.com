@@ -16,14 +16,18 @@ You can see my [current vimrc](https://github.com/riceissa/dotfiles/blob/master/
 
 You can also see [my contributions to the Vim Tips Wiki](http://vim.wikia.com/wiki/Special:Contributions/IssaRice?useskin=monobook).
 
-# Ex mode
+# Command-line mode
 
-One thing I learned really recently is that Vim has very sophisticated ex mode features.
-I had always been frustrated by the fact that ex mode seemed way too limited, since I couldn't even get bash-style keys like `<C-a>` to go to the beginning of the line to work.
-But it turns out I was wrong; see `:h cmdline.txt` for more, as well as `:h usr_20.txt`, which is referenced in the first help page.
-But for instance, you can type `q:` to enter essentially insert mode within ex mode, which allows you to do regular Vi keys to edit commands.
-I also learned that `<C-b>` is the right way to go to the beginning of a line in ex mode; you can change this with `cnoremap <C-a> <C-b>` too though; also see `:h emacs-keys` to make keybindings more "sane".
-Note that I now just use Tim Pope's [rsi.vim](https://github.com/tpope/vim-rsi).
+In the past I had always been frustrated by the fact that command-line mode
+seemed way too limited, since I couldn't even use bash-style keys like `<C-a>`
+to go to the beginning of the line to work. But it turns out I was wrong; see
+`:h cmdline.txt` for more, as well as `:h usr_20.txt`, which is referenced in
+the first help page. But for instance, you can type `q:` to enter essentially
+insert mode within ex mode, which allows you to do regular Vi keys to edit
+commands. I also learned that `<C-b>` is the right way to go to the beginning
+of a line in ex mode; you can change this with `cnoremap <C-a> <C-b>` too
+though; also see `:h emacs-keys` to make keybindings more "sane". Note that I
+now just use Tim Pope's [rsi.vim](https://github.com/tpope/vim-rsi).
 
 # `:g`-based folding
 
