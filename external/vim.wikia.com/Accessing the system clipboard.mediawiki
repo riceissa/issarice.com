@@ -1,0 +1,211 @@
+{{review}}
+{{duplicate|21}}
+{{TipImported
+|id=984
+|previous=983
+|next=987
+|created=2005
+|complexity=basic
+|author=JimD
+|version=6.0
+|rating=30/17
+|category1=Integration
+|category2=
+}}
+One of the traditional disconnects between vi and modern graphical environments has been using mouse-driven copy/paste between a terminal or command prompt window, and any other application (for example, a web browser).
+
+Vim has extended vi to allow use of the <code>*</code> register as a reference to the system clipboard. So we can use normal mode commands like: <code>"*dd</code> or <code>1G"*yG</code> to copy things into the <code>*</code> register and <code>"*p</code> to paste text from it. We can also use this <code>*</code> register with the ex yank command, so <code>:%y *</code> will accomplish the same goal as <code>gg"*yG</code> (copy all text into the system clipboard so it can be pasted into an X or MS Windows application).
+
+The * register acts just like any of the normal (single letter) registers in vi except that it also refers to the system clipboard in X11 or MS Windows.
+
+I've also found that it's ''much'' faster and more reliable than pasting a large body of text into Vim through an xterm. Normally I run Vim under the Linux screen utility and any more than one screen full of text is often corrupted, and large selections (>10KB) take several seconds of gnashing and flashing to finish pasting (almost always corrupted). By contrast, pasting 100KB text using <code>"*p</code> is very reliable and fast.
+
+I searched though the tips and found only a few passing references to this feature: [[VimTip71]] (implies it's a feature of gvim, but I find it works in console Vim just fine under Linux; I only use gvim under MS Windows). [[VimTip771]] and [[VimTip964]] refer to an extra utility named xclip which is only for X11 and seems to be completely unnecessary for Vim using the <code>*</code> register), and [[VimTip960]] (misses the point but the comments mention it a few times).
+
+[[VimTip21]] is spot on but the title suggests it's for MS Windows only. It also mentions that we can change out settings so the "anonymous" register is aliased to the <code>*</code> register using:
+<pre>
+set clipboard=unnamed
+</pre>
+
+: '''Note:''' in vim 7.3.74 and higher you can set <code>clipboard=unnamedplus</code> to alias unnamed register to the <code>+</code> register, which is the X Window clipboard.
+
+[[VimTip432]] and [[VimTip600]] use the <code>*</code> register in some native Vim code (using <code>@*</code>) without explaining it in general. [[VimTip448]] also uses it (for converting hex to decimal) but explains it in passing. [[VimTip478]] uses it in a function for copying the results of a <code>:g</code> search into the <code>*</code> register. [[VimTip687]] suggests that Mac OS X doesn't implement the * register (yet?) but suggests a workaround using the pbcopy and pbpaste utilities. [[VimTip876]] also makes passing reference to it.
+
+There are several tips for copying the current filename into the clipboard including: [[VimTip432]], [[VimTip891]], [[VimTip600]] (most of the fuss is resolving forward slashes and backslashes for MS Windows paths).
+
+==X11-clipboard support in terminal==
+
+Getting Vim to work with the X11 clipboard can be a struggle if you want to run Vim in a terminal. In this case, you will have to check for X11 clipboard support. The GUI version of Vim always has clipboard support.
+
+From the console, type:
+<pre>
+% vim --version | grep clipboard
+</pre>
+
+If you see "<code>+xterm_clipboard</code>", you are good to go. If it's "<code>-xterm_clipboard</code>", you will need to look for a version of Vim that was compiled with clipboard support. I have found that the Vim that ships with Ubuntu has clipboard support (not vim-tiny, you need vim-gnome or vim-gtk), but the one with Redhat/CentOS does not.
+
+If you are running Redhat/CentOS, you can install the vim-X11 package (if you have gvim then this is already installed). This provides the vimx command, which is a console version of Vim with X11-clipboard support. Or if you are running Debian (only test on 7.0), installing vim-gnome package fixes the problem. I like aliasing Vim to vimx by adding this line to my .bashrc/.cshrc:
+
+<pre>
+.bashrc or .zshrc: if [ -e /usr/bin/vimx ]; then alias vim='/usr/bin/vimx'; fi
+.cshrc: if (-e /usr/bin/vimx) alias vim '/usr/bin/vimx'
+</pre>
+
+If you are running Gentoo, emerge vim with the 'X' USE flag. For instance, adding this line to /etc/portage/package.use:
+<pre>app-editors/vim X</pre>
+
+Some basic clipboard commands:
+*<code>"+2yy</code> &ndash; copy two lines to X11 clipboard
+*<code>"+dd</code> &ndash; cut line to X11 clipboard
+*<code>"+p</code> &ndash; paste X11 clipboard
+
+==See also==
+*[[Using the Windows clipboard in Cygwin Vim]]
+
+==Comments==
+Under Windows, the * and + registers are equivalent. For X11 systems, though, they differ. For X11 systems, * is the selection, and + is the cut buffer (like clipboard).
+
+Text selected, or otherwise highlighted in one X11 app is available in the selection buffer, and text explicitly copied or cut is available in the cut buffer.
+
+All my inter-window copy & paste to gvim is handled by the <F7> key. This works for all OSes only for gvim.
+
+<pre>
+"copy
+vmap <F7> "+ygv"zy`>
+"paste (Shift-F7 to paste after normal cursor, Ctrl-F7 to paste over visual selection)
+nmap <F7> "zgP
+nmap &lt;S-F7> "zgp
+imap <F7> <C-r><C-o>z
+vmap <C-F7> "zp`]
+cmap <F7> <C-r><C-o>z
+"copy register
+
+autocmd FocusGained * let @z=@+
+</pre>
+
+----
+The + and * registers do ''not'' work running Vim under cygwin without an X session (for instance running Vim directly from a cmd or rxvt window). They also don't work under Mac OS X using Vim from the command line (via Terminal.app or iTerm.app). This should be documented (as should workarounds).
+
+:For such systems, {{script|id=2098|text=fakeclip plugin}} provides comprehensive and extensible emulation for the clipboard registers.
+
+----
+in response to above comment (cygwin vim sans X session), as of the software versions below, there doesn't seem to be any problems using the "* register in or outside of rxvt, in a cmd window:
+
+WinXP (SP3)<br>
+cygwin (2.831)<br>
+rxvt (20050409-21)<br>
+vim (7.3.1314-1)<br>
+----
+If you're having trouble with GVIM on Ubuntu, and it doesn't seem to be doing what everybody is saying it should, try closing it completely and reopening. It's supposed to "just work" in the case of copy-paste integration with the system clipboard, especially if you use GVIM's GUI buttons or menus. However, sometimes it just stops working, and you have to close and reopen.
+
+The Ubuntu vim-gtk package contains the +xterm_clipboard option, while the standard vim package does not ...
+
+----
+If for some reason your version of vim under Unix-like system has no support for clipboard, you can use a handy utility called xsel. Xsel lets you manipulate X selections (check man xsel for more info).
+To work around the lack of clipboard I use following mappings:
+<pre>
+" Copy to X CLIPBOARD
+map <leader>cc :w !xsel -i -b<CR>
+map <leader>cp :w !xsel -i -p<CR>
+map <leader>cs :w !xsel -i -s<CR>
+" Paste from X CLIPBOARD
+map <leader>pp :r!xsel -p<CR>
+map <leader>ps :r!xsel -s<CR>
+map <leader>pb :r!xsel -b<CR>
+</pre>
+
+So, to paste from X clipboard, you use :r!xsel -p|-s|-b depending which X clipboard you want to access. To copy, use <code>:w!xsel -i -p|-s|-b</code>.
+----
+
+This was recently added, but there is no indication why it is useful or needed. I have moved it here for now because to my knowledge the normal clipboard access commands should work and are much more desireable.
+
+--[[User:Fritzophrenic|Fritzophrenic]] 17:30, November 8, 2010 (UTC)
+
+----
+I am running ubuntu 10.04 with vim-gtk. The * register works as described for gvim but not the command line.
+vim --version does show the " +xterm_clipboard" option. This is version 7.2.
+
+:I had a similar issue on Ubuntu 14.04. It turns out the default clipboard setting is <code>"autoselect,exclude:cons\|linux"</code> and I was changing it with <code>set clipboard+=unnamedplus</code>, which turned it into <code>"autoselect,exclude:cons\|linux,unnamedplus"</code>. However, according to the help page for ''clipboard-exclude'', the exclude option must come last. Changing my code to <code>set clipboard^=unnamedplus</code> solved the problem by prepending the ''unnamedplus'' setting, rather than appending it.
+:BTW, I have Vim GNOME 7.4.52 from the Ubuntu repositories, and <code>clipboard=unnamed</code> uses the X clipboard, while <code>clipboard=unnamedplus</code> uses the (GNOME) System Clipboard.
+:--[[User:LeahCim|LeahCim]] ([[User talk:LeahCim|talk]]) 02:01, September 1, 2014 (UTC)
+
+----
+I have found using the [http://www.nongnu.org/autocutsel/ autocutsel] package on X11 in conjunction with set clipboard=unnamed provides a seamless experience.
+
+==Simple workaround for X clipboards==
+There is a convenient workaround to create a few commands for pasting/copying selections into/out of various X11 clipboards with `xsel`.
+<pre>
+:command -range Cz :silent :<line1>,<line2>w !xsel -i -b
+:command -range Cx :silent :<line1>,<line2>w !xsel -i -p
+:command -range Cv :silent :<line1>,<line2>w !xsel -i -s
+:cabbrev cv Cv
+:cabbrev cz Cz
+:cabbrev cx Cx
+
+:command -range Pz :silent :r !xsel -o -b
+:command -range Px :silent :r !xsel -o -p
+:command -range Pv :silent :r !xsel -o -s
+
+:cabbrev pz Pz
+:cabbrev px Px
+:cabbrev pv Pv
+</pre>
+
+With this code blob dumped in your ~/.vimrc you can do the following
+
+ 1. Select a blob of text in visual mode
+ 2. Step into command line with ':'
+ 3.
+    :`<,`>cz
+
+and your selected text will be copied into one of X's 3 default clipboards.
+
+there are 6 commands, 3 for pasting, 3 for copying, and each command represents a buffer.
+<pre>
+z = "X11-Clipboard"
+x = "X11 Primary Selection"
+v = "X11 Secondary Selection"
+</pre>
+
+==DISPLAY environment variable on Linux systems==
+
+Make sure your DISPLAY environment variable is set appropriately - otherwise vim can not connect to your x-session to access the clipboard.
+
+To check run:
+
+<pre>
+echo $DISPLAY
+</pre>
+
+which should output something like:
+
+<pre>
+:0.0
+</pre>
+
+----
+
+==Workaround using x11 minimum packages (under Linux)==
+If nothing work and you would like to copy from vim (under xterm) to leafpad, you may use this add-on to your ~/.vimrc
+
+Press F9, and it will copy to the x11 clipboard.
+
+<pre>
+function Func2X11()
+:call system('xclip -selection c', @r)
+endfunction
+vnoremap <F9> "ry:call Func2X11()<cr>
+vnoremap <m-c> "ry:call Func2X11()<cr>
+vnoremap <ESC-c> "ry:call Func2X11()<cr>
+</pre>
+
+I hope that it may help you.
+
+==Workarounds for xterm==
+If <code>:version</code> shows "<code>+xterm_clipboard</code>", but using the clipboard still does not work, try using other system tools as a workaround. For example, you can search for a clipboard.sh script which can be used like '<code>cat a.txt | clipboard</code>' to copy the contents of file a.txt to the system clipboard. When using kubuntu, the system clipboard is managed by 'Klipper', you can use 'Klipper' shortcut to paste anything to the system clipboard from anywhere because its shortcut has the highest precedence. --Changc11, October 10, 2013
+:Has a case like this been discussed at the vim_use mailing list? If clipboard support is provided by Vim, and if the versions of Vim and the system are not excessively old, the clipboard should work. This idea is better as a comment until something more conclusive is known. [[User:JohnBeckett|JohnBeckett]] ([[User talk:JohnBeckett|talk]]) 10:27, October 13, 2013 (UTC)
+: 
+
+== Using gnome-terminal ==
+If you are using vim inside gnome-terminal the default copy/paste shortcuts are Shift-Control-C (copy), and Shift-Control-V (paste).
+
