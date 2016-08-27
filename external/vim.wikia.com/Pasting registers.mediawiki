@@ -39,22 +39,31 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 </pre>
 
 {| class="wikitable"
-! Mapping !! Force characterwise paste? !! Contents of <code>".</code>
+! Mapping for <code><C-R>+</code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code>
+|-
+| <code><C-R><C-R>+</code>
+| Yes
+| Yes
+|
 |-
 | <code><C-R><C-O>+</code>
+| No
 | No
 |
 |-
 | <code><C-G>u<C-\><C-O>"+gP</code>
 | No
+| No
 |
 |-
 | <code><C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s</code>
 | Yes
+| No
 |
 |-
 | <code>exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']</code>
 | If <code>has('virtualedit')</code> is true
+| No
 |
 |}
 
