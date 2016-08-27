@@ -34,7 +34,7 @@ One mapping to avoid such attacks is:
 inoremap <C-r>+ <C-g>u<C-\><C-o>"+gP
 </pre>
 
-This will override the default behavior of <code><C-r>+</code> so that the pasting behavior is like that in normal mode. It first uses <code><C-g>u</code> to break the undo sequence so that the pasting can be undone. Then <code><C-\><C-o></code> temporarily switches to normal mode without moving the cursor. It then accesses the <code>"+</code> register and uses <code>gP</code> instead of the usual <code>P</code> to paste so that the cursor is positioned after what is pasted (just like the default <code><C-r>+</code>). Note that because the clipboard is pasted in "one move" instead of being translated character-by-character (the default behavior), formatting options such as <code>textwidth</code> are not obeyed (use something like <code>gqip</code> to fix the formatting; see [http://vimdoc.sourceforge.net/htmldoc/change.html#gq here]).
+This will override the default behavior of <code><C-r>+</code> so that the pasting behavior is like that in normal mode. It first uses <code><C-g>u</code> to break the undo sequence so that the pasting can be undone. Then <code><C-\><C-o></code> temporarily switches to normal mode without moving the cursor. It then accesses the <code>"+</code> register and uses <code>gP</code> instead of the usual <code>P</code> to paste so that the cursor is positioned after what is pasted (just like the default <code><C-r>+</code>). Note that because the clipboard is pasted in "one move" instead of being translated character-by-character (the default behavior), formatting options such as <code>textwidth</code> are not obeyed (use something like <code>gqip</code> to fix the formatting; see {{help|gq}}).
 
 With the above mapping, the default behavior can still be retrieved by waiting a moment after typing <code><C-r></code> (so that Vim gives up on trying to use the custom mapping).
 
@@ -42,6 +42,9 @@ With the above mapping, the default behavior can still be retrieved by waiting a
 *{{help|c_CTRL-R}}
 
 ==Comments==
-
-----
+This illustrates the hijacking point. Executing the following puts some text in the <code>a</code> register.
+<pre>
+:let @a = "abc\<Esc>:echo 'gotcha'\<CR>"
+</pre>
+After that, pressing <code>i</code> to enter insert mode, then typing Ctrl-R <code>a</code> inserts "abc" but then executes the echo command. The Vim procedure to insert the keys literally is to press Ctrl-R twice. That is, type Ctrl-R Ctrl-R <code>a</code> which will insert the escape and newline (carriage return) characters into the text. {{help|i_CTRL-R_CTRL-R}} [[User:JohnBeckett|JohnBeckett]] ([[User talk:JohnBeckett|talk]]) 08:08, May 22, 2016 (UTC)
 
