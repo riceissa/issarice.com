@@ -23,6 +23,7 @@ I had always been frustrated by the fact that ex mode seemed way too limited, si
 But it turns out I was wrong; see `:h cmdline.txt` for more, as well as `:h usr_20.txt`, which is referenced in the first help page.
 But for instance, you can type `q:` to enter essentially insert mode within ex mode, which allows you to do regular Vi keys to edit commands.
 I also learned that `<C-b>` is the right way to go to the beginning of a line in ex mode; you can change this with `cnoremap <C-a> <C-b>` too though; also see `:h emacs-keys` to make keybindings more "sane".
+Note that I now just use Tim Pope's [rsi.vim](https://github.com/tpope/vim-rsi).
 
 # `:g`-based folding
 
