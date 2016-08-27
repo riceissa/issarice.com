@@ -1,7 +1,8 @@
 ---
 title: Vim
+author: Issa Rice
 created: 2015-02-28
-date: 2016-07-26
+date: 2016-08-27
 ---
 
 **Vim** is my text editor of choice.
