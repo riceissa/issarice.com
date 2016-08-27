@@ -33,38 +33,40 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 
 <pre>
 " Pick one
+inoremap <C-R>+ <C-R><C-R>+
+inoremap <C-R>+ <C-R><C-O>+
 inoremap <C-R>+ <C-G>u<C-\><C-O>"+gP
 inoremap <C-R>+ <C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s
 exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 </pre>
 
 {| class="wikitable"
-! Mapping for <code><C-R>+</code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code>
+! Mapping for <code><C-R>+</code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code> ({{help|quote.}})
 |-
 | <code><C-R><C-R>+</code>
 | Yes
 | Yes
-|
+| Keeps anything inserted before pasting, puts in the actually pasted text (<code>^V</code>-escaped), and keeps anything inserted after pasting
 |-
 | <code><C-R><C-O>+</code>
 | No
 | No
-|
+| Clears anything inserted before pasting, puts in <code>^R^O+</code>, and keeps anything inserted after pasting
 |-
 | <code><C-G>u<C-\><C-O>"+gP</code>
 | No
 | No
-|
+| Clears anything inserted before pasting, but keeps anything inserted after pasting
 |-
 | <code><C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s</code>
 | Yes
 | No
-|
+| Clears anything inserted before pasting, but keeps anything inserted after pasting
 |-
 | <code>exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']</code>
 | If <code>has('virtualedit')</code> is true
 | No
-|
+| Clears anything inserted before pasting, but keeps anything inserted after pasting
 |}
 
 The first mapping will temporarily switch to normal mode without moving the cursor, and then paste. It first uses <code><C-g>u</code> to break the undo sequence so that the pasting can be undone. Then <code><C-\><C-o></code> temporarily switches to normal mode without moving the cursor. It then accesses the <code>+</code> register and uses <code>gP</code> instead of the usual <code>P</code> to paste so that the cursor is positioned after what is pasted (just like the default <code><C-R>+</code>). Note that because the clipboard is pasted in "one move" instead of being translated character-by-character (the default behavior), formatting options such as <code>textwidth</code> are not obeyed (use something like <code>gqip</code> to fix the formatting; see {{help|gq}}).
