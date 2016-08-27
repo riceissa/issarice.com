@@ -55,7 +55,12 @@ off, since health spending seems to change a lot in just a few years:
 
 Other sources to look at for funding info:
 
-  * <https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative>
+  * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
+    According to their [2015 annual report](http://www.aidtransparency.net/annualreport2015/#data):
+
+    > US$78 billion has been reported to IATI this year (2015 disbursements and
+    > expenditure up to 30 October 2015)
+
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
       * From their [fact sheet](http://www.gatesfoundation.org/Who-We-Are/General-Information/Foundation-Factsheet):
