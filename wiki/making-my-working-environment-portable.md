@@ -20,3 +20,7 @@ Just some notes for now.
     plugins is slightly tricky, since e.g. Fedora's Vim doesn't seem to have
     Python (so things like UltiSnips don't work) -- actually, I just needed to
     use the `vimx` binary.
+  * Most of the time this isn't such a big deal. I have a laptop that I can
+    take with me pretty much anywhere, so everything is already set up in terms
+    of software (though there is still the challenge of setting up the physical
+    working surface).
