@@ -165,6 +165,14 @@ That is, one question to ask is whether anyone else will read your input files,
 and if not, using "semantic linefeeds" seems like a fair way to go about
 editing.
 
+Some related links:
+
+  * [Enhance vim as a writing environment •
+    /r/vim](https://www.reddit.com/r/vim/comments/4wmugj/enhance_vim_as_a_writing_environment/d68mxej)
+  * ["Ventilated Prose"](https://vanemden.wordpress.com/2009/01/01/ventilated-prose/
+    "“Ventilated Prose | A Programmers Place on WordPress.com”. A Programmers
+    Place. 2009-01-01T19:48:31+00:00.")
+
 # Desiderata
 
 -   Works in a "single-source" way, so that the same output works for both HTML
