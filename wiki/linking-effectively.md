@@ -148,6 +148,23 @@ markup when they make the output better (for instance using the Unicode
 thinspace between two consecutive quote marks, even if an ASCII space looks the
 same in a terminal).
 
+However, given identical output, is it better to sacrifice readability of the
+source for easier input, or vice versa?
+[Brandon Rhodes argues][rhodes] for the use of "semantic linefeeds", i.e.
+breaking lines where it makes sense to do so semantically.
+He also cites Brian Kernighan saying the same thing way back in 1974.
+This of course sacrifices readability of the source to some extent,
+since lines will look jagged and will break at uneven points.
+It's worth noting that Rhodes says:
+
+> I ask students whether or not the Sphinx text files in their project will be
+> read by end-users. If not, then I encourage students to treat the files as
+> private “source code” that they are free to format semantically.
+
+That is, one question to ask is whether anyone else will read your input files,
+and if not, using "semantic linefeeds" seems like a fair way to go about
+editing.
+
 # Desiderata
 
 -   Works in a "single-source" way, so that the same output works for both HTML
@@ -167,3 +184,4 @@ same in a terminal).
 [givewell post]: http://blog.givewell.org/2015/09/03/the-process-of-hiring-our-first-cause-specific-program-officer/
 [google guide]: https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md#use-informative-markdown-link-titles
 [markdown guide]: http://www.cirosantilli.com/markdown-style-guide/ "Ciro Santilli. \"Markdown Style Guide\"."
+[rhodes]: http://rhodesmill.org/brandon/2012/one-sentence-per-line/ "Brandon Rhodes. “Semantic Linefeeds”. April 3, 2012."
