@@ -190,5 +190,5 @@ Some related links:
 [google guide]: https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md#use-informative-markdown-link-titles
 [markdown guide]: http://www.cirosantilli.com/markdown-style-guide/ "Ciro Santilli. \"Markdown Style Guide\"."
 [rhodes]: http://rhodesmill.org/brandon/2012/one-sentence-per-line/ "Brandon Rhodes. “Semantic Linefeeds”. April 3, 2012."
-[vp]: https://vanemden.wordpress.com/2009/01/01/ventilated-prose/ "“Ventilated Prose | A Programmers Place on WordPress.com”. A Programmers Place. 2009-01-01T19:48:31+00:00."
 [vim_writing]: https://www.reddit.com/r/vim/comments/4wmugj/enhance_vim_as_a_writing_environment/d68mxej
+[vp]: https://vanemden.wordpress.com/2009/01/01/ventilated-prose/ "“Ventilated Prose | A Programmers Place on WordPress.com”. A Programmers Place. 2009-01-01T19:48:31+00:00."
