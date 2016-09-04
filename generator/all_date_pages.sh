@@ -1,7 +1,4 @@
 #!/bin/bash
-# grep -m 1 -e '^date: ' wiki/*
-# grep -m 1 -e '^date: ' wiki/* | sed -n 's/\([^:]\+\):date: \(.*\)/\2 \1/p'
-# grep -m 1 -e '^date: ' wiki/* | sed -n 's/\([^:]\+\):date: \(.*\)/\2 \1/p' | sort -r
 grep -m 1 -e '^date: ' wiki/* | \
     sed -n 's/\([^:]\+\):date: \(.*\)/\2 \1/p' | \
     sort -r | \
@@ -10,10 +7,9 @@ grep -m 1 -e '^date: ' wiki/* | \
         filename=`echo $line | sed -n 's/[^ ]\+ \(.*\)/\1/p'`
         # echo $filename
         title=`sed -n '2{p;q}' $filename | cut -c 8- | tr -d '"'`
-        echo -n '- ['
-        echo -n $title
-        # echo $title
         base=$(basename $filename .md)
         date=`echo $line | sed -n 's/\([^ ]\+\) \(.*\)/\1/p'`
-        echo "]($base), $date"
+
+        # Write the actual markdown bullet
+        echo "- [$title]($base), $date"
     done
