@@ -24,3 +24,7 @@ Just some notes for now.
     take with me pretty much anywhere, so everything is already set up in terms
     of software (though there is still the challenge of setting up the physical
     working surface).
+
+# External links
+
+  * [How to Efficiently Work Offline](http://www.wikihow.com/Efficiently-Work-Offline) by Vipul Naik
