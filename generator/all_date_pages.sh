@@ -13,5 +13,7 @@ grep -m 1 -e '^date: ' wiki/* | \
         echo -n '- ['
         echo -n $title
         # echo $title
-        echo $line | sed -n 's/\([^ ]\+\) \(.*\)/](\2), \1/p'
+        base=$(basename $filename .md)
+        date=`echo $line | sed -n 's/\([^ ]\+\) \(.*\)/\1/p'`
+        echo "]($base), $date"
     done

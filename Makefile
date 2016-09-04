@@ -17,6 +17,13 @@ $(OUTDIR)/_all: $(MD_PAGES) generator/all_pages.sh | $(OUTDIR)
 		-M title:"List of all pages on this site" \
 		-o "$@"
 
+$(OUTDIR)/_all_date: $(MD_PAGES) generator/all_date_pages.sh | $(OUTDIR)
+	bash ./generator/all_date_pages.sh | \
+		pandoc -f markdown -t html5 --smart \
+		--base-header-level=2 --template=templates/default.html5 \
+		-M title:"List of pages sorted by date of last substantive revision" \
+		-o "$@"
+
 $(OUTDIR)/sitemap.xml: $(MD_PAGES) generator/sitemap.sh | $(OUTDIR)
 	./generator/sitemap.sh
 
