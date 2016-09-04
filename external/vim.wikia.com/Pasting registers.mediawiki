@@ -60,7 +60,7 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 |-
 | <code>exe ...</code> (see above)
-| If <code>has('virtualedit')</code> is true
+| If <code>has('virtualedit')</code> is false
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 |}
