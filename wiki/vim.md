@@ -225,7 +225,7 @@ For specific cases, like really long CSS or JSON lines, one can pass it
 through a pretty filter, like ` :%!python -m json.tool` (from [here](
 http://blog.realnitro.be/2010/12/20/format-json-in-vim-using-pythons-jsontool-module/
 )) in the case of JSON.
-For HTML or XML files, there is `:%!tidy -xml -utf8 -i` for one installs tidy.
+For HTML or XML files, there is `:%!tidy -xml -utf8 -i` once one installs tidy.
 
 Another hack: set `:set scrolloff=99999`. This will at least make for
 a somewhat more pleasant scrolling experience when the file is just one
