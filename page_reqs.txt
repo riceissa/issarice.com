@@ -7,3 +7,6 @@
 - use "date:" in YYYY-MM-DD format to specify the date of last substantive revision
 - use "created:" in YYYY-MM-DD format to specify the creation date
 - use "author:" to specify author
+- The first "date:" at the beginning of a line in a markdown page must specify
+  the date. In practice, this means one should always specify "date:" on the
+  third or fourth line.
