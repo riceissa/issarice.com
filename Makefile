@@ -8,7 +8,7 @@ IMAGES_DEST = $(patsubst images/%,$(OUTDIR)/%,$(IMAGES))
 pages: $(HTML_PAGES) $(IMAGES_DEST)
 
 .PHONY: fullsite
-fullsite: pages $(OUTDIR)/sitemap.xml $(OUTDIR)/_all
+fullsite: pages $(OUTDIR)/sitemap.xml $(OUTDIR)/_all $(OUTDIR)/_all_date
 
 $(OUTDIR)/_all: $(MD_PAGES) generator/all_pages.sh | $(OUTDIR)
 	./generator/all_pages.sh | \
