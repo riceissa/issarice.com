@@ -24,7 +24,10 @@ Just some notes for now.
     take with me pretty much anywhere, so everything is already set up in terms
     of software (though there is still the challenge of setting up the physical
     working surface).
+  <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and GMail once, then Firefox will remember a much larger fraction of the --> 
 
 # External links
 
   * [How to Efficiently Work Offline](http://www.wikihow.com/Efficiently-Work-Offline) by Vipul Naik
+
+[loc]: https://en.wikipedia.org/wiki/Locality_of_reference
