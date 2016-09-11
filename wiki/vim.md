@@ -477,6 +477,11 @@ benefits may outweigh the costs):
 -   Pasting to GMail makes newlines disappear, so that everything is in one
     giant paragraph. The same doesn't happen with Vim. See the [GitHub
     thread][clip].
+    This only happens with `xclip`, so uninstalling `xclip` and installing
+    `xsel` would solve it, but I like `xclip` for its ability to paste as HTML,
+    which I don't think exists in `xsel`.
+    As far as I know, there is no way in Neovim to specify which clipboard
+    provider to use.
 
 -   The following horrible map (intended to be like a ctags for Markdown)
     requires a manual `<CR>`:
