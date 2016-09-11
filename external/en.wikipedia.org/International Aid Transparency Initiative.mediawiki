@@ -1,0 +1,54 @@
+The '''International Aid Transparency Initiative''' ('''IATI''') is a global campaign to create transparency in the records of how [[Aid|aid money]] is spent. The initiative hopes to thereby ensure that aid money reaches its intended recipients. The ultimate goal is to improve standards of living worldwide and globally reduce poverty.<ref>[http://www.dfid.gov.uk/news/files/pressreleases/aid-transparency-intiative.asp United Kingdom Department for International Development press release about IATI launch, 4 September, 2008. Accessed 15 October, 2008.]</ref> The IATI also publishes a standard to be used by organizations, allowing different datasets to be combined and shared.<ref>{{cite web |url=https://www.theguardian.com/global-development-professionals-network/2014/jan/30/iati-aid-transparency-standard-maturing |date=2014-01-30 |title=Has the aid transparency standard come of age? |publisher=''[[The Guardian]]'' |accessdate=September 6, 2016 |author=Sarah Johns}}</ref>
+
+==History==
+The initiative was launched on September 4, 2008, at the [[Aid effectiveness#Third High Level Forum on Aid Effectiveness, Accra, September 2008|Third High Level Forum on Aid Effectiveness]] held in [[Accra, Ghana]].<ref>{{cite web |url=http://www.aidtransparency.net/wp-content/uploads/2015/11/Paper-2A-Evaluation-Report-1-IATI-as-a-Political-Initiative1.pdf |title=Evaluation of the International Aid Transparency Initiative IATI: "Evaluation of IATI as a Political Initiative": Final Report |first1=Ian C. |last1=Davies |first2=Julia | last2=Brümmer |first3=Sara |last3=Vaca |first4=Lauren |last4=Weiss |date=October 2015 |accessdate=September 11, 2016}}</ref>{{rp|3}}<ref>{{cite web |url=http://blog.transparency.org/2013/01/17/my-ceo-will-tear-off-my-head-if-i-suggest-to-him-that-we-implement-iati/ |title=“My CEO will tear off my head, if I suggest to him that we implement IATI.” |publisher=Space for Transparency |accessdate=September 9, 2016 |date=January 17, 2013 |author=Claudia Schwegmann}}</ref> The goal of the forum was to refocus attention worldwide on the steps needed to reach the [[United Nations|United Nations']] [[Millennium Development Goals]]. It was presented by the United Kingdom's Secretary of International Development [[Douglas Alexander]]; along with [[Kemal Derviş]], Head of the [[United Nations Development Programme]]; [[James Musconi]], the Rwandan finance minister; and [[Kumi Naidoo]], then president of [[CIVICUS]].<ref>[http://siteresources.worldbank.org/ACCRAEXT/Resources/4700790-1219773241752/IATI-Launch-Programme-280808.pdf Programme for the Launch of the International Aid Transparency Initiative]</ref> Mr. Alexander recommended creating a common set of openness standards by which donors can be judged. 14 international donors pledged to expand transparency as a result, and an agreement was reached to develop a common format for the release of aid information by 2010.<ref>[http://www.dgfoundation.org/news-events/international-aid-transparency-initiative.html [[Development Gateway]] Foundation article, accessed 15 October 2008] {{wayback|url=http://www.dgfoundation.org/news-events/international-aid-transparency-initiative.html |date=20081013220515 }}</ref> A statement was issued by the signatories, which formally accepted the policies set forth in the Accra Agenda for Action<ref>{{cite web |url=http://www.accrahlf.net/WBSITE/EXTERNAL/ACCRAEXT/0,,contentMDK:21690826~menuPK:64861649~pagePK:64861884~piPK:64860737~theSitePK:4700791,00.html |archiveurl=https://web.archive.org/web/20081015030839/http://www.accrahlf.net/WBSITE/EXTERNAL/ACCRAEXT/0,,contentMDK:21690826~menuPK:64861649~pagePK:64861884~piPK:64860737~theSitePK:4700791,00.html |archivedate=October 15, 2008 |title=Accra Agenda for Action |publisher=Accra High Level Forum}}</ref> and agreed to form the IATI. The text of the statement suggests that aid donors should:<ref>{{cite web |url=http://www.aidtransparency.net/wp-content/uploads/2009/06/iati-accra-statement-p1.pdf |title=International Aid Transparency Initiative Accra Statement |date=September 4, 2008 |website=aidtransparency.net}}</ref>{{rp|1}}
+
+*"publicly disclose regular, detailed and timely information on volume, allocation and when, available, results of development expenditure to enable more accurate budget, accounting and audit by developing countries"
+*"support information systems for managing aid"
+*"provide full and timely information on annual commitments and actual disbursements"
+
+The statement was agreed to by a variety of international donors, including the [[Ministry for Foreign Affairs (Finland)|Ministry for Foreign Affairs of Finland]], [[Irish Aid]], the [[World Bank]], the UK's [[Department for International Development]], the [[United Nations Development Program]], and the [[William and Flora Hewlett Foundation]].
+
+After a period of widespread engagement of donors, governments and NGOs and consultation on the information to be shared, and how it should be shared, the IATI Standard was agreed on 9 February 2011 in Paris.<ref>{{cite web|url=http://www.aidtransparency.net/news/final-agreement-reached-on-iati-standard |title=Final agreement reached on IATI standard &#124; International Aid Transparency Initiative (IATI) |publisher=Aidtransparency.net |date=2011-03-14 |accessdate=2013-06-24}}</ref>
+
+At the Fourth High Level Forum on Aid Effectiveness, held in [[Busan]], [[Korea]] in November 2011, the Initiative received continued support. In the run up to the forum, over 19 donors, including 12 government and multilateral donors, and a number of small NGOs, started publishing information on their aid projects using the IATI Standard [http://www.aidtransparency.net].
+
+==Make Aid Transparent Campaign==
+
+On 8 June 2011,<ref>{{cite web|url=http://www.modernizeaid.net/2011/06/08/pwyf-launches-campaign-to-make-aid-transparent/ |title=PWYF Launches Campaign to Make Aid Transparent • Modernizing Foreign Assistance Network |publisher=Modernizeaid.net |date=2011-06-08 |accessdate=2013-06-24}}</ref> the Make Aid Transparent Campaign [http://www.makeaidtransparent.org] was launched, supported by over 60 organisations [http://makeaidtransparent.org/about.htm] from North and South.
+
+==IATI Standard and Registry==
+
+The IATI Standard [http://www.iatistandard.org] combines a list of the information that donors publishing data as part of the Initiative should seek to publish, along with an [[XML schema]] and collection of code lists for representing that information as structured [[open data]]. Donors publishing data using the standard are encouraged to submit meta-data to the IATI Registry, which lists the available data. As of September 2016, the IATI Registry tracks the aid information of 473 organizations.<ref>{{cite web |url=https://iatiregistry.org/ |title=Welcome - IATI Registry |accessdate=September 6, 2016}}</ref>
+
+The IATI Standard succeeds two previous standardisation efforts for aid activity information: the Common Exchange Format for Development Activities [[Common exchange format for development information (CEFDA)|CEFDA]] (developed from 1991), and International Development Markup Language [[International development markup language (IDML)|IDML]] (developed from 1998) and used by [[Development Gateway]] as part of the data transfer standard in the [[AidData]] database.<ref>{{cite web|url=http://idmlinitiative.org/ |title=The IDML Initiative |publisher=The IDML Initiative |date= |accessdate=2013-06-24}}</ref>
+
+James Coe, a senior advocacy officer at Publish What You Fund, wrote in August 2016 that there are over 35,000 agriculture-related activities in the IATI Registry, but "only a small number provide the locations of activities and even fewer provide some form of data on the outcome", making the data difficult to use.<ref>{{cite web |url=http://www.developmentgateway.org/2016/08/18/open-data-and-agricultural-aid/ |title=Open Data And Agricultural Aid: The Next Step In Tackling Hunger |publisher= Development Gateway |accessdate=September 9, 2016 |date=August 18, 2016 |author=James Coe}}</ref>
+
+A piece in [[Devex]] stated that while the number of organizations reporting to IATI has increased, "the biggest barrier to increased data usage remains concerns about quality" of the data.<ref>{{cite web |url=https://www.devex.com/news/are-ngos-doing-enough-to-share-data-88455 |date=July 25, 2016 |title=Are NGOs doing enough to share data? |publisher=[[Devex]] |accessdate=September 11, 2016 |author=Kelli Rogers}}</ref>
+
+==See also==
+*[[Aid]]
+*[[Aid effectiveness]]
+*[[Transparency International]]
+*[[Millennium Development Goals|United Nations' Millennium Development Goals]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.aidtransparency.net/ Official website]
+*[http://iatistandard.org/ Website for the IATI standard]
+*[http://www.aidtransparency.net/wp-content/uploads/2009/06/iati-accra-statement-p1.pdf Accra statement]
+*[http://www.medicalnewstoday.com/articles/120289.php Medical New Today.com article highlighting the United Kingdom's involvement in the IATI]
+*[https://aiddata.rvo.nl/ Explore open data on official development aid (ODA) projects and programmes executed by the Netherlands Enterprise Agency]
+*[http://www.openaid.nl Explore open data on official development aid (ODA) published by the Dutch Government]
+*[http://www.openaid.se Open sourced Swedish IATI Wordpress based tracker. Gives an overview of Swedish official development cooperation ]
+*[http://open.undp.org Explore United Nations Development Programme IATI-compliant data in a web presentation]
+*[http://open.unhabitat.org Explore the UN-Habitat  IATI-compliant data in a web interface]
+*[http://opendata.unesco.org/ Explore the UNESCO IATI-compliant Transparency Portal]
+*[http://open.unicef.org Explore the UNICEF IATI-Compliant data portal]
+
+[[Category:International development in Africa]]
+[[Category:Transparency (behavior)]]
+
