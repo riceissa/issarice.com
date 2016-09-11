@@ -488,6 +488,10 @@ benefits may outweigh the costs):
 
         autocmd FileType markdown nnoremap <buffer> <C-]> "zya[:let @z=substitute(@z, "\n", ' ', "g")<CR>:let @z=substitute(@z, "\\s\\+", " ", "g")<CR>:let @z=substitute(@z, " ", "\\\\(\\\\s\\\\\\|\\\\n\\\\)\\\\+", "g")<CR>/\V<C-r>z<CR>
 
+    This map was experimental and I don't use it anymore, but this is intended
+    to show that there are possibly edge cases like these where maps work
+    in Vim but don't in Neovim.
+
 [clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
 [hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
