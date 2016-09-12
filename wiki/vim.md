@@ -275,6 +275,10 @@ so that the mapping can be used repeatedly.
 Doing `:LongLines` will pop values off the stack.
 The function will also check the buffer first to make sure that
 the line-end character is not present.
+At the moment this is still pretty slow for very large files,
+because of the substitute command.
+I'm not sure if it might be better to use an external filter,
+and pipe the buffer in and out.
 
 For specific cases, like really long CSS or JSON lines, one can pass it
 through a pretty filter, like ` :%!python -m json.tool` (from [here](
