@@ -18,3 +18,10 @@ Questions:
     `^M` is inserted by doing `<C-V><C-M>`.
   * How does this newline representation come into play with the different line
     endings used on Windows, Mac, and Unix?
+
+Some references to check out:
+
+  * ["Newlines and nulls in Vim script"][vw]
+  * Various help pages
+
+[vw]: http://vim.wikia.com/wiki/Newlines_and_nulls_in_Vim_script "“Newlines and nulls in Vim script”. Vim Tips Wiki."
