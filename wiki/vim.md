@@ -279,6 +279,10 @@ At the moment this is still pretty slow for very large files,
 because of the substitute command.
 I'm not sure if it might be better to use an external filter,
 and pipe the buffer in and out.
+If you are wondering about the list `['↵', '↲', '⤶', '↩']`,
+I decided to pick four Unicode characters that looked like a linebreak;
+you might find that confusing and prefer something more visually
+distinctive.
 
 For specific cases, like really long CSS or JSON lines, one can pass it
 through a pretty filter, like ` :%!python -m json.tool` (from [here](
