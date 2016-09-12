@@ -221,6 +221,61 @@ restoring the file, a newline may be added at the very end, so the file
 might not be identical when restored.  Other than that, I haven't
 experienced any problems.
 
+For something more complicated, the following might work:
+
+    function! FShortLines(break_at_space, line_end_chars)
+      for c in a:line_end_chars
+        let use_this = 1
+        for line in getline("1", "$")
+          if match(line, c) >= 0
+            " This char was in the file originally, so we can't use it as the line
+            " separator.
+            let use_this = 0
+            break
+          endif
+          " echom "got one more"
+        endfor
+        if use_this
+          if exists('b:end_char_stack')
+            call add(b:end_char_stack, c)
+          else
+            let b:end_char_stack = [c]
+          endif
+          if a:break_at_space
+            exe 'silent %s/.\{,70} /&' . c . '\r/g | 0'
+          else
+            exe 'silent %s/.\{71}/&' . c . '\r/g | 0'
+          endif
+          return 0
+        endif
+      endfor
+      " We couldn't use any of the a:line_end_chars.
+      return -1
+    endfunction
+
+    function! FLongLines()
+      if exists('b:end_char_stack')
+        if len(b:end_char_stack) > 0
+          let c = remove(b:end_char_stack, -1)
+          exe 'silent %s/' . c . '\n//e | 0'
+          return 0
+        endif
+      else
+        let b:end_char_stack = []
+      endif
+      return -1
+    endfunction
+
+    command! ShortLines :call FShortLines(0, ['↵', '↲', '⤶', '↩'])
+    command! ShortLinesAtSpace :call FShortLines(1, ['↵', '↲', '⤶', '↩'])
+    command! LongLines :call FLongLines()
+
+This will create a stack of artificial line-end characters,
+so that the mapping can be used repeatedly.
+Doing `:LongLines` will pop values off the stack.
+The function will also check the buffer first to make sure that
+the line-end character is not present.
+
 For specific cases, like really long CSS or JSON lines, one can pass it
 through a pretty filter, like ` :%!python -m json.tool` (from [here](
 http://blog.realnitro.be/2010/12/20/format-json-in-vim-using-pythons-jsontool-module/
