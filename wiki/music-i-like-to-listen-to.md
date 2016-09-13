@@ -78,6 +78,8 @@ before 2016      I mostly listen to mainstream Western music from a few
 
 2016-07          Radiohead: *OK Computer* ("Subterranean Homesick Alien", "No
                  Surprises", "Karma Police", "Exit Music (for A Film)")
+
+2016-09          *Girls und Panzer* OST.
 -------------------------------------------------------------------------------
 
 # History
