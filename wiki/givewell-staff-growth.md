@@ -39,6 +39,7 @@ Date           Num          Diff
 2016-03-10   31     $(-2, +1)$
 2016-06-25   35     $(-2, +6)$
 2016-07-23   37     $(-1, +3)$
+2016-08-13   36     $(-2, +1)$
 
 Table: Growth of GiveWell. 'Num' is the number of full-time staff, 'Diff' is the
 difference in 'Num' relative to the previous month and is given in the form
