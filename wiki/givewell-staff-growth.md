@@ -10,6 +10,12 @@ The page seems to have been created in mid-2010, so that's where the table start
 This is meant to be illustrative and not comprehensive.
 Care was taken to detect the first point in time when an employee appeared or disappeared from a page, so the above table should be generally accurate but probably not completely so.
 The Wayback Machine also had spotty coverage that lacked several months.
+Note also that sometime between mid-August and mid-September in 2016, GiveWell
+removed a bunch of their employees from the Our People page.
+My guess is that they are the ones who mainly do work on the Open Philanthropy
+Project.
+They seem to be listed separately on the Open Phil ["Team"][open_phil_team]
+page.
 
 # Table
 
@@ -40,6 +46,7 @@ Date           Num          Diff
 2016-06-25   35     $(-2, +6)$
 2016-07-23   37     $(-1, +3)$
 2016-08-13   36     $(-2, +1)$
+2016-09-10   20     ---
 
 Table: Growth of GiveWell. 'Num' is the number of full-time staff, 'Diff' is the
 difference in 'Num' relative to the previous month and is given in the form
@@ -101,3 +108,4 @@ Also from my board meeting page:
 
 [attachment_d]: http://www.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_D_Budget_review_and_proposal.xlsx
 [milan]: https://80000hours.org/2016/08/reflections-from-a-givewell-employee/ "Milan Griffes. “Should you work at GiveWell? Reflections from a recent employee.” August 15, 2016. 80,000 Hours."
+[open_phil_team]: http://www.openphilanthropy.org/about/team "“Team | Open Philanthropy Project”."
