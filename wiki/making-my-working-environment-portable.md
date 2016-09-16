@@ -24,6 +24,13 @@ Just some notes for now.
     take with me pretty much anywhere, so everything is already set up in terms
     of software (though there is still the challenge of setting up the physical
     working surface).
+  * One way to deal with this is to learn how to work efficiently with the
+    defaults of the most commonly available software.
+    So something like knowing the shortcuts for Bash, Vim, and Firefox/Chrome.
+    Though of course, if you're going to work for an extended period of time at
+    a new machine, then it probably makes sense to try to copy over some config
+    files.
+    See also <http://sstephenson.us/posts/on-configuration>.
   <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and GMail once, then Firefox will remember a much larger fraction of the --> 
 
 # External links
