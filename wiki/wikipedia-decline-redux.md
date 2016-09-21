@@ -21,4 +21,6 @@ Example:
 
 # Surveys
 
+# License
 
+Most permissive license Vipul Naik allows.
