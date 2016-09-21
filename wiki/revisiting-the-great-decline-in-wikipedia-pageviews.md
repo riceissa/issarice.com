@@ -22,6 +22,11 @@ this process.
 
 # Plots
 
+Things we plotted:
+
+  * Log pageviews, for each of {desktop, mobile, desktop + mobile}
+  * Mobile:desktop ratio vs 95% quantile
+
 To visualize the "decline" in pageviews we plotted the pageviews from Wikipedia
 Views, which now includes mobile data since July 2015.
 
