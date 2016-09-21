@@ -17,6 +17,9 @@ Data sources:
   * comScore data, WMF overall numbers
   * Google Consumer Survey and Survey Monkey Audience
 
+See also the [timeline of Wikipedia analytics][ana] that was created as part of
+this process.
+
 # Plots
 
 To visualize the "decline" in pageviews we plotted the pageviews from Wikipedia
@@ -31,3 +34,5 @@ Example:
 # License
 
 Most permissive license Vipul Naik allows.
+
+[ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
