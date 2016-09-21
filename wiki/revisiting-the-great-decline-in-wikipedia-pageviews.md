@@ -39,6 +39,17 @@ Example:
 
 # Surveys
 
+# Questions
+
+  * Are pageviews even declining?
+    It seems that desktop pageviews are declining, but is this still the case
+    if we add in mobile views?
+    Another difficulty here is that stats.grok.se seems to have used a
+    different exclusion method for bots/spiders (evidenced by the stats.grok.se
+    pageviews not matching up with the pageviews from the Wikimedia Pageview
+    API even on months where they both have data), so it's not totally clear if
+    even desktop is declining.
+
 # License
 
 Most permissive license Vipul Naik allows.
