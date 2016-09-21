@@ -1,5 +1,5 @@
 ---
-title: Update on the great decline in Wikipedia pageviews
+title: Revisiting the “great decline” in Wikipedia pageviews
 date: 2016-09-21
 ---
 
