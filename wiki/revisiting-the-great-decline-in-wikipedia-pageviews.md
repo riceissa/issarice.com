@@ -14,6 +14,7 @@ Data sources:
 
   * Wikipedia Views (stats.grok.se and Wikimedia Pageview API)
   * Google Trends (for musicians)
+  * comScore data, WMF overall numbers
   * Google Consumer Survey and Survey Monkey Audience
 
 # Plots
