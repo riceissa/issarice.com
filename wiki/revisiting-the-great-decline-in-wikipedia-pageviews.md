@@ -61,7 +61,7 @@ Two surveys:
     as the Google Consumer Survey, plus some other background and follow-up
     questions.
 
-# Questions
+# Questions/through process
 
   * Are pageviews even declining?
     It seems that desktop pageviews are declining, but is this still the case
@@ -71,6 +71,21 @@ Two surveys:
     pageviews not matching up with the pageviews from the Wikimedia Pageview
     API even on months where they both have data), so it's not totally clear if
     even desktop is declining.
+  * What are the possible reasons?
+
+      * Shift to mobile → Check by adding the mobile views and by asking people
+        on Survey Monkey
+      * Language substitution → Check the same tag using different languages
+        (we did colors in English, French, and German)
+      * Google Knowledge cards? → Ask people about this in SM survey
+      * Siri? → Ask people
+      * Wikipedia showing up less in SERPs? → Try to get access to historical
+        SERPs for some search queries.
+        This actually seems harder to obtain than we first thought.
+      * People somehow preferring Wikipedia less? → Ask people.
+      * Is Wikipedia's popularity in general decreasing? → Can we see that in
+        the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
+        Apparently not well.
 
 # License
 
