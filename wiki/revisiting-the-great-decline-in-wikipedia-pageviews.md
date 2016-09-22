@@ -38,6 +38,8 @@ Example:
 
 ![](http://23.226.229.10/~issa/pageview_plots/musicians_total_top_6.png)
 
+The full list of plots for this can be found [here][plots_all].
+
 # Surveys
 
 Two surveys:
@@ -66,3 +68,4 @@ Most permissive license Vipul Naik allows.
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
+[plots_all]: http://23.226.229.10/~issa/pageview_plots/
