@@ -40,6 +40,14 @@ Example:
 
 # Surveys
 
+Two surveys:
+
+  * A Google Consumer Survey asking people to compare how much their Wikipedia
+    usage has changed since 2011.
+  * (Not yet launched) A Survey Monkey Audience survey asking the same question
+    as the Google Consumer Survey, plus some other background and follow-up
+    questions.
+
 # Questions
 
   * Are pageviews even declining?
