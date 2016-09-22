@@ -61,7 +61,7 @@ Two surveys:
     as the Google Consumer Survey, plus some other background and follow-up
     questions.
 
-# Questions/through process
+# Questions/thought process
 
   * Are pageviews even declining?
     It seems that desktop pageviews are declining, but is this still the case
