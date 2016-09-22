@@ -187,6 +187,10 @@ to be" (e.g. surround.vim, fugitive.vim, etc., are all "Vimlike" plugins).
 
 - Another thing that took me too long to discover: keyword completion using `Ctrl`-`x` `Ctrl`-`p` and `Ctrl`-`x` `Ctrl`-`n`; see [the Vim help section](http://vimdoc.sourceforge.net/htmldoc/insert.html#compl-current).
 However, rather than describing it as "keyword completion", I would say it is more like "predictive completion" (like on a smartphone keyboard).
+- In a Markdown document with reference-style links at the end of the file, add
+  the current line to the list and sort it:
+
+        :+1kl | m$ | 'l | $?^$?,$sort
 
 # Moving in long lines
 
