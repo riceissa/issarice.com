@@ -55,9 +55,11 @@ pageviews to increase back to the level of 2011--2013 pageviews.
 
 Two surveys:
 
-  * A Google Consumer Survey asking people to compare how much their Wikipedia
+  * A Google Consumer Survey of a US audience (without any demographic filters)
+    asking people to compare how much their Wikipedia
     usage has changed since 2011.
-  * (Not yet launched) A Survey Monkey Audience survey asking the same question
+  * A Survey Monkey US Audience survey (again, no demographic filters) asking
+    the same question
     as the Google Consumer Survey, plus some other background and follow-up
     questions.
 
