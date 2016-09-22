@@ -26,6 +26,7 @@ Things we plotted:
 
   * Log pageviews, for each of {desktop, mobile, desktop + mobile}
   * Mobile:desktop ratio vs 95% quantile
+  * $\log(\mathrm{WV}) - \log(k)$
 
 We also found the [peaks for desktop][peak_gist] and [peaks overall][peak_ov]
 using different windows.
