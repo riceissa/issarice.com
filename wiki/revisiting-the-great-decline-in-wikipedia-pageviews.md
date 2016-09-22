@@ -39,6 +39,17 @@ Example:
 ![](http://23.226.229.10/~issa/pageview_plots/musicians_total_top_6.png)
 
 The full list of plots for this can be found [here][plots_all].
+The plots generally show that desktop pageviews according to stats.grok.se fell
+from around 2011 or 2013 (depending on the class of pages examined) to 2015.
+Adding on the Wikimedia Pageview API data for desktop from January 2016 to the
+present shows that this trend seems to continue, but we think the Pageview API
+imposes a stricter filter on bots/spiders.
+
+On the other hand, if we add in the mobile data, we see that predictably there
+is a "bump" starting in July 2015, when the mobile data started.
+However, for some classes of pages, even adding in the mobile data -- while
+causing the desktop "decline" to become mostly flat -- did not cause the
+pageviews to increase back to the level of 2011--2013 pageviews.
 
 # Surveys
 
