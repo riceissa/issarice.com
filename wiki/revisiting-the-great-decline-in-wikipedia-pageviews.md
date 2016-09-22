@@ -89,7 +89,15 @@ Two surveys:
         the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
         Apparently not well.
       * Could a change in redirects have anything to do with this?
-        For instance see ["Consider the Redirect"][ctr].
+        For instance see ["Consider the Redirect"][ctr]:
+
+        > Because viewers don't see redirects, viewing a redirect is
+        > substantively different from viewing a normal page. For example, if a
+        > user visits the article on "Seattle, Washington", this will be
+        > recorded as a view to the redirect even though the target article
+        > "Seattle" is displayed. In this sense, views of redirects will tend
+        > to be overcounted while views of target articles will tend to be
+        > undercounted.
 
 # License
 
