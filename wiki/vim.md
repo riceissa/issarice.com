@@ -192,6 +192,11 @@ However, rather than describing it as "keyword completion", I would say it is mo
 
         :+1kl | m$ | 'l | $?^$?,$sort
 
+    This won't work if the file has footnotes at the end instead.
+    Additionally, each reference must be on its own line, and
+    the references must be contained in a single paragraph (since we search
+    backward from the end of the buffer with `$?^$?`).
+
 # Moving in long lines
 
 I've always found it frustrating that Vim by default acts on physical lines instead of "display lines".
