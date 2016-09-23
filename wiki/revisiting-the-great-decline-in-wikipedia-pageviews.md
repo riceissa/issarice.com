@@ -105,7 +105,7 @@ Two surveys:
         > Because redirects are edited infrequently but "viewed" as often as
         > millions of times per month each, redirects may be contributing to
         > the surprisingly low correlation between edits and views noted by
-        > Priedhorsky et al. and others
+        > Priedhorsky et al. and others.
 
         Could people somehow be viewing redirects more than the actual pages,
         compared to 2011--2013?
