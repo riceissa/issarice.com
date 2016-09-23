@@ -190,7 +190,7 @@ However, rather than describing it as "keyword completion", I would say it is mo
 - In a Markdown document with reference-style links at the end of the file, add
   the current line to the list and sort it:
 
-        :+1kl | m$ | 'l | $?^$?,$sort
+        :+1kl | m$ | $?^$?,$sort | 'l
 
     This won't work if the file has footnotes at the end instead.
     Additionally, each reference must be on its own line, and
