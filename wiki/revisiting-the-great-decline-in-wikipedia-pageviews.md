@@ -115,6 +115,13 @@ Two surveys:
         \[\[New York\]\] to go through the redirect page [New York
         (state)][ny_state], with the wikilink \[\[New York (state)|New
         York\]\].
+        This means that less pageviews will be recorded for the New York page,
+        and more will be recorded for the redirect page.
+        One idea is that if a sufficiently large number of highly popular pages
+        have similar sorts of redirection manipulation, the pageviews for the
+        article itself could be going down even while people are reading the
+        page more -- the pageview is just being distributed more between the
+        main article and its redirect pages.
 
 # License
 
