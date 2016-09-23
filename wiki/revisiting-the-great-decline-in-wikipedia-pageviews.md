@@ -125,6 +125,11 @@ Two surveys:
 
         However my impression is that most pageviews come from search engine
         results pages, and that wikilinks are not used very much.
+        Likewise there are some effects that should push pageviews *less*
+        toward redirects.
+        For instance, presumably Google and other search engines have gotten
+        better at showing the link to the main article rather than a link to
+        the redirect page.
 
 # License
 
