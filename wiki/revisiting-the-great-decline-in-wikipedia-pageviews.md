@@ -88,6 +88,7 @@ Two surveys:
       * Is Wikipedia's popularity in general decreasing? → Can we see that in
         the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
         Apparently not well.
+
       * Could a change in redirects have anything to do with this?
         For instance see ["Consider the Redirect"][ctr]:
 
