@@ -109,6 +109,12 @@ Two surveys:
 
         Could people somehow be viewing redirects more than the actual pages,
         compared to 2011--2013?
+        To give one recent example (too recent to matter), the Wikipedia
+        article [New York][ny] is about the state, not the city.
+        However there is a [recent shift][ny_disc] to change all wikilinks
+        \[\[New York\]\] to go through the redirect page [New York
+        (state)][ny_state], with the wikilink \[\[New York (state)|New
+        York\]\].
 
 # License
 
@@ -116,6 +122,9 @@ Most permissive license Vipul Naik allows.
 
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
+[ny]: https://en.wikipedia.org/wiki/New_York
+[ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
+[ny_state]: https://en.wikipedia.org/w/index.php?title=New_York_(state)&redirect=no
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
 [plots_all]: http://23.226.229.10/~issa/pageview_plots/
