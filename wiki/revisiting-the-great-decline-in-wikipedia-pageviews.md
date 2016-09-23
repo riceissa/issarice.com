@@ -125,6 +125,10 @@ Two surveys:
 
         However my impression is that most pageviews come from search engine
         results pages, and that wikilinks are not used very much.
+        See for instance the pageviews on redirects to [Red][red_redirects] and
+        [Black][black_redirects] (though one complication here is that
+        redirects might not be static, though in this case I wouldn't expect
+        the redirects to be changing much).
         Likewise there are some effects that should push pageviews *less*
         toward redirects.
         For instance, presumably Google and other search engines have gotten
@@ -136,6 +140,7 @@ Two surveys:
 Most permissive license Vipul Naik allows.
 
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
+[black_redirects]: TODO
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
@@ -143,3 +148,4 @@ Most permissive license Vipul Naik allows.
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
 [plots_all]: http://23.226.229.10/~issa/pageview_plots/
+[red_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Red&language=en&device=desktop&allyears=allyears
