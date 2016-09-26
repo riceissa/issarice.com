@@ -1,25 +1,9 @@
 ---
 title: Advice for young people
-description: >-
-    An attempt at a true liberal arts education;
-    “a schooling in truth”.
-feed_description: Added a quote by Raman Shah, among numerous other updates
 author: Issa Rice
 date: 2015-05-02
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: draft
-# accepts "certain", "highly likely", "likely", "possible", "unlikely",
-# "highly unlikely", "remote", "impossible", "log", "emotional", or
-# "fiction"
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: public domain
-tags: >
-    school, lesswrong, self-improvement, high school, depression, Peter
-    Thiel, Paul Graham, gwern, slate star, scott alexander, eliezer
-    yudkowsky, advice
-aliases: information-for-high-school-students
 ---
 
 # What this page is about
