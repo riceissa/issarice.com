@@ -141,6 +141,11 @@ Two surveys:
         This does not seem to be the case, at least for colors; see the
         [tabulation on Wikipedia Views][simple_colors].
 
+      * Could browsers like Opera Mini be adding pageviews as bots?
+        See the ["analytics and proxy/remote browsers"][opera] thread on the
+        Analytics mailing list.
+        Probably not.
+
 # License
 
 Most permissive license Vipul Naik allows.
@@ -151,6 +156,7 @@ Most permissive license Vipul Naik allows.
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
 [ny_state]: https://en.wikipedia.org/w/index.php?title=New_York_(state)&redirect=no
+[opera]: https://lists.wikimedia.org/pipermail/analytics/2016-June/005247.html
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
 [plots_all]: http://23.226.229.10/~issa/pageview_plots/
