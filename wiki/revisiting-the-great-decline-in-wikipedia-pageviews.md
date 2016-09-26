@@ -146,6 +146,8 @@ Two surveys:
         Analytics mailing list.
         Probably not.
 
+      * See also [pageview definition changes][pageview_defn].
+
 # License
 
 Most permissive license Vipul Naik allows.
@@ -157,6 +159,7 @@ Most permissive license Vipul Naik allows.
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
 [ny_state]: https://en.wikipedia.org/w/index.php?title=New_York_(state)&redirect=no
 [opera]: https://lists.wikimedia.org/pipermail/analytics/2016-June/005247.html
+[pageview_defn]: https://meta.wikimedia.org/wiki/Research:Page_view#Change_log
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
 [plots_all]: http://23.226.229.10/~issa/pageview_plots/
