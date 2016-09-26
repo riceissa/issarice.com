@@ -147,6 +147,9 @@ Two surveys:
         Probably not.
 
       * See also [pageview definition changes][pageview_defn].
+        I don't think this is a big cause of pageview change.
+        It's also not clear whether pageview definitions are applied
+        retroactively.
 
 # License
 
