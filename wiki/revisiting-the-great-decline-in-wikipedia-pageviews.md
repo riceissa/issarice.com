@@ -44,10 +44,24 @@ this process.
 
 # Plots
 
-Things we plotted:
+We plotted the $\log_{10}$ pageviews by varying each of the following parameters.
+Pick one option from each of the following bullet points to produce a single
+plot.
 
-  * Log pageviews, for each of {desktop, mobile, desktop + mobile,
-    desktop + mobile + spiders}
+  * Tag
+  * Access method and agent: Desktop, mobile, desktop + mobile (called
+    "total"), desktop + mobile + spiders (called "total\_spider")
+  * Rolling mean with window sizes $n = 1, 3, 6, 12$, where 1 is just the raw
+    pageview plot.
+  * All the pages in the tag vs just the top 10 and total trend.
+
+For example, the file "americanpundits\_total\_top\_3.png" would be the
+pageviews for the "American television and radio pundits" tag, for desktop +
+mobile (no spiders), with a rolling mean of window size $n = 3$, and only the
+top 10 pages in the tag.
+
+Unrelated plots:
+
   * Mobile:desktop ratio vs 95% quantile
   * $\log\mathrm{WV} - \log\mathrm{GT}$
 
