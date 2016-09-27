@@ -48,10 +48,16 @@ In all of the plots, the vertical lines mean the following things:
     This is only shown in plots with mobile data.
   * Green: $n-1$ months after July 2015, where $n$ is the window size
     of the rolling mean.
+    In other words, this marks the *end of the transition* of including mobile
+    data; after this line all the months used to calculate the rolling mean
+    have mobile pageviews in them.
   * Red: January 2016, when the pageviews data switches from stats.grok.se to
     the Wikimedia Pageview API.
   * Green: $n-1$ months after January 2016, where $n$ is the window size of the
     rolling mean.
+    In other words, this marks the *end of the transition* of switching to the
+    Wikimedia Pageview API; after this line all the months used to calculate
+    the rolling mean use only the Wikimedia Pageview API data.
 
 In addition, the horizontal blue line marks the *top quartile for the totals
 plot*, i.e. the line above which the top fourth of the data lie.
