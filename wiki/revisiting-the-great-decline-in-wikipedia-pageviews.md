@@ -66,6 +66,28 @@ same way, we suspect its values would be somewhere between what the Wikimedia
 Pageview API would report for desktop user (lower bound, aggressive filtering)
 and desktop user + desktop spider (upper bound, no filtering).
 
+Here is a classification of the tags we looked at based on whether there was
+a rebound to 75th percentile or higher July 2015 or later:
+
+Tag                                   Rebound?
+---                                   --------
+American pundits                      Yes
+Cities                                Yes
+Colors                                No
+Compiler theory                       Yes
+Countries                             Yes
+Eggplant dishes                       Yes
+French colors                         No
+German colors                         No
+Musicians                             Yes
+Philanthropic foundations             Yes
+Programming languages                 Yes
+Sex organs                            No
+Shooting-related                      Yes
+Spanish colors                        Yes
+US politicians                        Yes
+US presidents                         Yes
+
 # Surveys
 
 Two surveys:
