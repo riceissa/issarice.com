@@ -185,7 +185,9 @@ A [dummy/mock-up version of the survey][dummy_sm_1] is available.
       * I just select whatever is at the top (or near the top) of search
         engine results, and I guess Wikipedia is showing up more
       * Other (please specify)
-7.  You said that you use Wikipedia less now than in 2011. You also gave suggestions as to why. Here are some other reasons we've thought about that might not have occurred to you. Please select any that apply to you.
+7.  You said that you use Wikipedia less now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about that
+    might not have occurred to you. Please select any that apply to you.
       * Google Knowledge cards
       * I use tools like Apple's Siri to access data from Wikipedia without
         reading it directly
@@ -214,7 +216,8 @@ None of the multiple-choice options were randomized. (TODO: verify.)
 
 A [dummy/mock-up version of the survey][dummy_sm_2] is available.
 
-1.  How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?
+1.  How does your use of Wikipedia, the online encyclopedia, compare to your
+    use 5 years ago (2011)?
       * don't use now; didn't use in 2011
       * use now; didn't use in 2011
       * don't use now; used in 2011
@@ -238,7 +241,9 @@ A [dummy/mock-up version of the survey][dummy_sm_2] is available.
       * I just select whatever is at the top (or near the top) of search
         engine results, and I guess Wikipedia is showing up more
       * Other (please specify)
-5. You said that you use Wikipedia less now than in 2011. You also gave suggestions as to why. Here are some other reasons we've thought about that might not have occurred to you. Please select any that apply to you.
+5.  You said that you use Wikipedia less now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about that
+    might not have occurred to you. Please select any that apply to you.
       * Google Knowledge cards
       * I use tools like Apple's Siri to access data from Wikipedia without
         reading it directly
@@ -260,7 +265,8 @@ A [dummy/mock-up version of the survey][dummy_sm_2] is available.
       * use now; used in 2011 (to similar extent)
       * use now; used in 2011 (much more now)
       * use now; used in 2011 (much less now)
-7. How does your use of search engines (Google search) compare to your use 5 years ago (2011)?
+7.  How does your use of search engines (Google search) compare to your use 5
+    years ago (2011)?
       * don't use now; didn't use in 2011
       * use now; didn't use in 2011
       * don't use now; used in 2011
