@@ -39,6 +39,14 @@ Example:
 
 ![Plot for top 10 musicians, total access](http://ram.issarice.com/~issa/pageview_plots/musicians_total_top_6.png)
 
+Another example:
+
+![Plot for colors in English, desktop](http://ram.issarice.com/~issa/pageview_plots/colors_desktop_12.png)
+
+Note that a drop from ~4.3 to ~3.9 on a $\log_10$ scale corresponds to a drop
+from $10^{4.3} \approx 20{,}000$ to $10^{3.9} \approx 8{,}000$ in terms of
+actual pageviews, i.e. a 60% drop.
+
 The full list of plots for this can be found [here][plots_all].
 The plots generally show that desktop pageviews according to stats.grok.se fell
 from around 2011 or 2013 (depending on the class of pages examined) to 2015.
