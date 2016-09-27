@@ -118,6 +118,12 @@ Several surveys:
 
 ## Survey Monkey first survey
 
+Note that there is more logic to this survey than a simple list: questions
+6 and 7 were only shown if the respondent indicated that their Wikipedia
+use changed since 2011 in question 3; if they said more, they were shown
+question 6 and if they said less, they were shown question 7 (which was
+numbered question 6 for these people).
+
 1.  How does your use of the Internet compare to your use 5 years ago (2011)?
       * don't use now; didn't use in 2011
       * use now; didn't use in 2011
