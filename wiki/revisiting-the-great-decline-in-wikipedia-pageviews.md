@@ -318,16 +318,16 @@ of the reasons to be tag-dependent as well.
     > the surprisingly low correlation between edits and views noted by
     > Priedhorsky et al. and others.
 
-    See also ["Analytics/Data/Redirects - Wikitech"][redirect_spelling]
+    See also ["Analytics/Data/Redirects -- Wikitech"][redirect_spelling]
 
     Could people somehow be viewing redirects more than the actual pages,
     compared to 2011--2013?
     To give one recent example (too recent to matter), the Wikipedia
-    article [New York][ny] is about the state, not the city.
+    article ["New York"][ny] is about the state, not the city.
     However there is a [recent shift][ny_disc] to change all wikilinks
-    \[\[New York\]\] to go through the redirect page [New York
-    (state)][ny_state], with the wikilink \[\[New York (state)|New
-    York\]\].
+    `[[New York]]` to go through the redirect page
+    ["New York (state)"][ny_state], with the wikilink
+    `[[New York (state)|New York]]`.
     This means that less pageviews will be recorded for the New York page,
     and more will be recorded for the redirect page.
     One idea is that if a sufficiently large number of highly popular pages
