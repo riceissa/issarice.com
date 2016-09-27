@@ -118,7 +118,61 @@ Several surveys:
 
 ## Survey Monkey first survey
 
-
+1.  How does your use of the Internet compare to your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+2.  How does your use of search engines (Google search) compare to your
+    use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+3.  How does your use of Wikipedia, the online encyclopedia, compare to
+    your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+4.  Do you have any thoughts on why this is the case for you?
+      * Free response
+5.  How do you mainly access Wikipedia?
+      * Browser on desktop or laptop computer
+      * Browser on mobile device
+      * A specialized Wikipedia app
+6.  You said that you use Wikipedia more now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about
+    that might not have occurred to you. Please select any that apply to you.
+      * I didn't even have Internet access back then
+      * I go to school now and I didn't before
+      * I just use the Internet more
+      * I think Wikipedia is more reliable now than it used to be
+      * Wikipedia has more relevant content for me now
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up more
+      * Other (please specify)
+7.  You said that you use Wikipedia less now than in 2011. You also gave suggestions as to why. Here are some other reasons we've thought about that might not have occurred to you. Please select any that apply to you.
+      * Google Knowledge cards
+      * I use tools like Apple's Siri to access data from Wikipedia without
+        reading it directly
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up less
+      * I'm just generally more knowledgeable so I don't need as much
+        encyclopedic information
+      * Wikipedia seems to have less relevant content for me; I use other
+        websites/wikis more now
+      * Wikipedia's quality has decreased so it's not as good now
+      * I now think Wikipedia is less reliable as a source of information
+      * I'm not in school anymore
+      * I use the Internet less in general
+      * Other (please specify)
 
 # Questions/thought process
 
