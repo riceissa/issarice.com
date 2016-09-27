@@ -23,11 +23,12 @@ Data sources:
     Note that we inherit the term "tag" from Wikipedia Views.
     All the tag names can be seen on the ["Multiple tags and
     months"][multi_tag_month_wv] page.
-    To see the pages that comprise the tag, click on the tag name, then click
+    To see the Wikipedia pages that comprise the tag, click on the tag name,
+    then click
     "Submit" to submit a sample query.
     In the resulting page, there is a table with a column called "Tag name";
     click the linked tag name to obtain a table with more columns -- one for
-    each page in the tag.
+    each Wikipedia page in the tag.
   * Google Trends (for musicians)
   * comScore data, WMF overall numbers
   * Google Consumer Survey and Survey Monkey Audience
