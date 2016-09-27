@@ -104,6 +104,8 @@ Several surveys:
     usage has changed since 2011.
     This was answered by 1036 people.
     You can see the [results page][gcs_results].
+    Note that for this survey, we had to shorten the responses from what they
+    were originally due to Google Consumer Survey's response character limits.
   * A Survey Monkey US Audience survey (again, no demographic filters) asking
     the same question
     as the Google Consumer Survey, plus some other background and follow-up
@@ -123,6 +125,8 @@ Note that there is more logic to this survey than a simple list: questions
 use changed since 2011 in question 3; if they said more, they were shown
 question 6 and if they said less, they were shown question 7 (which was
 numbered question 6 for these people).
+
+A [dummy/mock-up version of the survey][dummy_sm_1] is available.
 
 1.  How does your use of the Internet compare to your use 5 years ago (2011)?
       * don't use now; didn't use in 2011
@@ -179,6 +183,71 @@ numbered question 6 for these people).
       * I'm not in school anymore
       * I use the Internet less in general
       * Other (please specify)
+
+## Survey Monkey second survey
+
+For this survey, the Wikipedia questions were asked first, and then the
+more general internet and search engine questions.
+Questions 4 and 5 were only shown when the respondent indicated that they
+had changed their Wikipedia use since 2011; if more, the respondent
+was shown question 4 and if less they were shown question 5.
+All respondents then proceeded to question 6.
+
+A [dummy/mock-up version of the survey][dummy_sm_2] is available.
+
+1.  How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+2.  Do you have any thoughts on why this is the case for you?
+      * Free response
+3.  How do you mainly access Wikipedia?
+      * Browser on desktop or laptop computer
+      * Browser on mobile device
+      * A specialized Wikipedia app
+4.  You said that you use Wikipedia more now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about
+    that might not have occurred to you. Please select any that apply to you.
+      * I didn't even have Internet access back then
+      * I go to school now and I didn't before
+      * I just use the Internet more
+      * I think Wikipedia is more reliable now than it used to be
+      * Wikipedia has more relevant content for me now
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up more
+      * Other (please specify)
+5. You said that you use Wikipedia less now than in 2011. You also gave suggestions as to why. Here are some other reasons we've thought about that might not have occurred to you. Please select any that apply to you.
+      * Google Knowledge cards
+      * I use tools like Apple's Siri to access data from Wikipedia without
+        reading it directly
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up less
+      * I'm just generally more knowledgeable so I don't need as much
+        encyclopedic information
+      * Wikipedia seems to have less relevant content for me; I use
+        other websites/wikis more now
+      * Wikipedia's quality has decreased so it's not as good now
+      * I now think Wikipedia is less reliable as a source of information
+      * I'm not in school anymore
+      * I use the Internet less in general
+      * Other (please specify)
+6. How does your use of the Internet compare to your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+7. How does your use of search engines (Google search) compare to your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
 
 # Questions/thought process
 
@@ -275,6 +344,8 @@ Most permissive license Vipul Naik allows.
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
+[dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM
+[dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
