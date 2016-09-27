@@ -88,6 +88,13 @@ Spanish colors                        Yes
 US politicians                        Yes
 US presidents                         Yes
 
+As can be seen, the colors (in languages besides Spanish) and the sex organs
+tag did not have a rebound.
+However, this doesn't mean the other tags had increasing traffic; many simply
+kept up with the 2011--2013 values.
+We think the table above gives a way to tell the tags for which the pageviews
+have *definitely* gone down since the 2011--2013 period.
+
 # Surveys
 
 Two surveys:
