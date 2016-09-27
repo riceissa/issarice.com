@@ -37,7 +37,7 @@ Views, which now includes mobile data since July 2015.
 
 Example:
 
-![Plot for top 10 musicians, total access](http://23.226.229.10/~issa/pageview_plots/musicians_total_top_6.png)
+![Plot for top 10 musicians, total access](http://ram.issarice.com/~issa/pageview_plots/musicians_total_top_6.png)
 
 The full list of plots for this can be found [here][plots_all].
 The plots generally show that desktop pageviews according to stats.grok.se fell
@@ -97,15 +97,28 @@ have *definitely* gone down since the 2011--2013 period.
 
 # Surveys
 
-Two surveys:
+Several surveys:
 
   * A Google Consumer Survey of a US audience (without any demographic filters)
     asking people to compare how much their Wikipedia
     usage has changed since 2011.
+    This was answered by 1036 people.
+    You can see the [results page][gcs_results].
   * A Survey Monkey US Audience survey (again, no demographic filters) asking
     the same question
     as the Google Consumer Survey, plus some other background and follow-up
     questions.
+    We ran this for 50 people and TODO answered.
+    After this, we changed the order of the questions to ask about Wikipedia
+    first, then about general internet use and use of search engines.
+    We ran this second version for 50 people and TODO answered.
+  * Vipul's timeline (first version)
+  * UW audience (which version?)
+  * More audiences?
+
+## Survey Monkey first survey
+
+
 
 # Questions/thought process
 
@@ -202,6 +215,7 @@ Most permissive license Vipul Naik allows.
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
+[gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
 [ny_state]: https://en.wikipedia.org/w/index.php?title=New_York_(state)&redirect=no
@@ -209,7 +223,7 @@ Most permissive license Vipul Naik allows.
 [pageview_defn]: https://meta.wikimedia.org/wiki/Research:Page_view#Change_log
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
-[plots_all]: http://23.226.229.10/~issa/pageview_plots/
+[plots_all]: http://ram.issarice.com/~issa/pageview_plots/
 [red_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Red&language=en&device=desktop&allyears=allyears
 [redirect_spelling]: https://wikitech.wikimedia.org/wiki/Analytics/Data/Redirects#Other_spellings_covered_by_a_redirect_page "“Analytics/Data/Redirects - Wikitech”."
 [simple_colors]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Colors&language=simple&device=desktop&allyears=allyears
