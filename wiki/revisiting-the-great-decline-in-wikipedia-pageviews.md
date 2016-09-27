@@ -24,7 +24,8 @@ this process.
 
 Things we plotted:
 
-  * Log pageviews, for each of {desktop, mobile, desktop + mobile}
+  * Log pageviews, for each of {desktop, mobile, desktop + mobile,
+    desktop + mobile + spiders}
   * Mobile:desktop ratio vs 95% quantile
   * $\log\mathrm{WV} - \log\mathrm{GT}$
 
@@ -50,6 +51,14 @@ is a "bump" starting in July 2015, when the mobile data started.
 However, for some classes of pages, even adding in the mobile data -- while
 causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
+
+We also plotted the same plot with the addition of spiders.
+Note that the Wikimedia Pageview API makes the distinction between "bot" and
+"spider", but we couldn't find pages for which the "bot" traffic was nonzero,
+so we simply excluded the pageviews identified as "bot"; as far as we know,
+"spider" means "not human".
+These were only included from January 2016, because stats.grok.se did its own
+filtering for bot traffic.
 
 # Surveys
 
