@@ -145,6 +145,21 @@ kept up with the 2011--2013 values.
 We think the table above gives a way to tell the tags for which the pageviews
 have *definitely* gone down since the 2011--2013 period.
 
+Note also that because the mobile views start in July 2015, adding in the
+mobile views gives extra preference to the recent period after this point.
+This is because the mobile views from June 30, 2009 (when the mobile site was
+launched) until end of June 2015 are not included.
+In other words, had these earlier mobile views been included, the total
+pageviews in 2011--2013 could have been much higher.
+However, we suspect this wouldn't have made a big difference because we think
+that mobile use of the web and of Wikipedia has on the whole gone up a lot, so
+that it was relatively negligible back in 2011.
+For instance, see the [mobile site total pageviews][mob_stats]: for the English
+Wikipedia, the mobile site averaged 586 million pageviews per month in 2011,
+1,737 million pageviews per month in 2013, and 3,242 million pageviews per
+month in 2015, though note that a new pageview definition is used starting May
+2015.
+
 # Surveys
 
 Several surveys:
@@ -415,6 +430,7 @@ Most permissive license Vipul Naik allows.
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
 [great_decline]: http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/ "Vipul Naik. “The great decline in Wikipedia pageviews (condensed version)”. March 27, 2015. LessWrong."
 [gt_plot_doc]: https://github.com/riceissa/wikipedia-decline#exporting-google-trends-data
+[mob_stats]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyMobile.htm "“Page Views for Wikipedia, Mobile site, Normalized”. Wikimedia. Retrieved September 27, 2016."
 [multi_tag_month_wv]: http://wikipediaviews.org/multipletagsandmonths.php "“Wikipedia Views: simultaneously do multiple tags and months”."
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
