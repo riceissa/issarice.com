@@ -54,6 +54,8 @@ plot.
   * Rolling mean with window sizes $n = 1, 3, 6, 12$, where 1 is just the raw
     pageview plot.
   * All the pages in the tag vs just the top 10 and total trend.
+    Note that if a tag contains at most 10 pages, the top 10 plot and the plot
+    with all the pages will be identical.
 
 For example, the file [`americanpundits_total_top_3.png`][pundits_img] would be
 the
