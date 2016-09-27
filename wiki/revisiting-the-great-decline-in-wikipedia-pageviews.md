@@ -1,6 +1,6 @@
 ---
 title: Revisiting the “great decline” in Wikipedia pageviews
-date: 2016-09-21
+date: 2016-09-26
 ---
 
 # Introduction
@@ -126,6 +126,8 @@ use changed since 2011 in question 3; if they said more, they were shown
 question 6 and if they said less, they were shown question 7 (which was
 numbered question 6 for these people).
 
+None of the multiple-choice options were randomized. (TODO: verify.)
+
 A [dummy/mock-up version of the survey][dummy_sm_1] is available.
 
 1.  How does your use of the Internet compare to your use 5 years ago (2011)?
@@ -192,6 +194,8 @@ Questions 4 and 5 were only shown when the respondent indicated that they
 had changed their Wikipedia use since 2011; if more, the respondent
 was shown question 4 and if less they were shown question 5.
 All respondents then proceeded to question 6.
+
+None of the multiple-choice options were randomized. (TODO: verify.)
 
 A [dummy/mock-up version of the survey][dummy_sm_2] is available.
 
