@@ -55,7 +55,7 @@ plot.
     pageview plot.
   * All the pages in the tag vs just the top 10 and total trend.
 
-For example, the file "americanpundits\_total\_top\_3.png" would be the
+For example, the file `americanpundits_total_top_3.png` would be the
 pageviews for the "American television and radio pundits" tag, for desktop +
 mobile (no spiders), with a rolling mean of window size $n = 3$, and only the
 top 10 pages in the tag.
