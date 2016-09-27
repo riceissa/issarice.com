@@ -6,6 +6,10 @@ author:
 date: 2016-09-26
 ---
 
+# Summary
+
+Nothing for now :v
+
 # Introduction
 
 In March 2015 one of us (Vipul Naik) wrote "The great decline in Wikipedia
@@ -274,83 +278,89 @@ A [dummy/mock-up version of the survey][dummy_sm_2] is available.
     pageviews not matching up with the pageviews from the Wikimedia Pageview
     API even on months where they both have data), so it's not totally clear if
     even desktop is declining.
-  * What are the possible reasons?
 
-      * Shift to mobile → Check by adding the mobile views and by asking people
-        on Survey Monkey
-      * Language substitution → Check the same tag using different languages
-        (we did colors in English, French, and German)
-      * Google Knowledge cards? → Ask people about this in SM survey
-      * Siri? → Ask people
-      * Wikipedia showing up less in SERPs? → Try to get access to historical
-        SERPs for some search queries.
-        This actually seems harder to obtain than we first thought.
-      * People somehow preferring Wikipedia less? → Ask people.
-      * Is Wikipedia's popularity in general decreasing? → Can we see that in
-        the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
-        Apparently not well.
+# Hypotheses
 
-      * Could a change in redirects have anything to do with this?
-        For instance see ["Consider the Redirect"][ctr]:
+In this section we explore the possible reasons for the observed decline in
+desktop pageviews.
+Note that the decline is tag-dependent, and we expect some (but not all)
+of the reasons to be tag-dependent as well.
 
-        > Because viewers don't see redirects, viewing a redirect is
-        > substantively different from viewing a normal page. For example, if a
-        > user visits the article on "Seattle, Washington", this will be
-        > recorded as a view to the redirect even though the target article
-        > "Seattle" is displayed. In this sense, views of redirects will tend
-        > to be overcounted while views of target articles will tend to be
-        > undercounted.
-        >
-        > [...]
-        >
-        > Because redirects are edited infrequently but "viewed" as often as
-        > millions of times per month each, redirects may be contributing to
-        > the surprisingly low correlation between edits and views noted by
-        > Priedhorsky et al. and others.
+  * Shift to mobile → Check by adding the mobile views and by asking people
+    on Survey Monkey
+  * Language substitution → Check the same tag using different languages
+    (we did colors in English, French, and German)
+  * Google Knowledge cards? → Ask people about this in SM survey
+  * Siri? → Ask people
+  * Wikipedia showing up less in SERPs? → Try to get access to historical
+    SERPs for some search queries.
+    This actually seems harder to obtain than we first thought.
+  * People somehow preferring Wikipedia less? → Ask people.
+  * Is Wikipedia's popularity in general decreasing? → Can we see that in
+    the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
+    Apparently not well.
 
-        See also ["Analytics/Data/Redirects - Wikitech"][redirect_spelling]
+  * Could a change in redirects have anything to do with this?
+    For instance see ["Consider the Redirect"][ctr]:
 
-        Could people somehow be viewing redirects more than the actual pages,
-        compared to 2011--2013?
-        To give one recent example (too recent to matter), the Wikipedia
-        article [New York][ny] is about the state, not the city.
-        However there is a [recent shift][ny_disc] to change all wikilinks
-        \[\[New York\]\] to go through the redirect page [New York
-        (state)][ny_state], with the wikilink \[\[New York (state)|New
-        York\]\].
-        This means that less pageviews will be recorded for the New York page,
-        and more will be recorded for the redirect page.
-        One idea is that if a sufficiently large number of highly popular pages
-        have similar sorts of redirection manipulation, the pageviews for the
-        article itself could be going down even while people are reading the
-        page more -- the pageview is just being distributed more between the
-        main article and its redirect pages.
+    > Because viewers don't see redirects, viewing a redirect is
+    > substantively different from viewing a normal page. For example, if a
+    > user visits the article on "Seattle, Washington", this will be
+    > recorded as a view to the redirect even though the target article
+    > "Seattle" is displayed. In this sense, views of redirects will tend
+    > to be overcounted while views of target articles will tend to be
+    > undercounted.
+    >
+    > [...]
+    >
+    > Because redirects are edited infrequently but "viewed" as often as
+    > millions of times per month each, redirects may be contributing to
+    > the surprisingly low correlation between edits and views noted by
+    > Priedhorsky et al. and others.
 
-        However my impression is that most pageviews come from search engine
-        results pages, and that wikilinks are not used very much.
-        See for instance the pageviews on redirects to [Red][red_redirects] and
-        [Black][black_redirects] (though one complication here is that
-        redirects might not be static, though in this case I wouldn't expect
-        the redirects to be changing much).
-        Likewise there are some effects that should push pageviews *less*
-        toward redirects.
-        For instance, presumably Google and other search engines have gotten
-        better at showing the link to the main article rather than a link to
-        the redirect page.
+    See also ["Analytics/Data/Redirects - Wikitech"][redirect_spelling]
 
-      * Could views be going to the Simple English Wikipedia?
-        This does not seem to be the case, at least for colors; see the
-        [tabulation on Wikipedia Views][simple_colors].
+    Could people somehow be viewing redirects more than the actual pages,
+    compared to 2011--2013?
+    To give one recent example (too recent to matter), the Wikipedia
+    article [New York][ny] is about the state, not the city.
+    However there is a [recent shift][ny_disc] to change all wikilinks
+    \[\[New York\]\] to go through the redirect page [New York
+    (state)][ny_state], with the wikilink \[\[New York (state)|New
+    York\]\].
+    This means that less pageviews will be recorded for the New York page,
+    and more will be recorded for the redirect page.
+    One idea is that if a sufficiently large number of highly popular pages
+    have similar sorts of redirection manipulation, the pageviews for the
+    article itself could be going down even while people are reading the
+    page more -- the pageview is just being distributed more between the
+    main article and its redirect pages.
 
-      * Could browsers like Opera Mini be adding pageviews as bots?
-        See the ["analytics and proxy/remote browsers"][opera] thread on the
-        Analytics mailing list.
-        Probably not.
+    However my impression is that most pageviews come from search engine
+    results pages, and that wikilinks are not used very much.
+    See for instance the pageviews on redirects to [Red][red_redirects] and
+    [Black][black_redirects] (though one complication here is that
+    redirects might not be static, though in this case I wouldn't expect
+    the redirects to be changing much).
+    Likewise there are some effects that should push pageviews *less*
+    toward redirects.
+    For instance, presumably Google and other search engines have gotten
+    better at showing the link to the main article rather than a link to
+    the redirect page.
 
-      * See also [pageview definition changes][pageview_defn].
-        I don't think this is a big cause of pageview change.
-        It's also not clear whether pageview definitions are applied
-        retroactively.
+  * Could views be going to the Simple English Wikipedia?
+    This does not seem to be the case, at least for colors; see the
+    [tabulation on Wikipedia Views][simple_colors].
+
+  * Could browsers like Opera Mini be adding pageviews as bots?
+    See the ["analytics and proxy/remote browsers"][opera] thread on the
+    Analytics mailing list.
+    Probably not.
+
+  * See also [pageview definition changes][pageview_defn].
+    I don't think this is a big cause of pageview change.
+    It's also not clear whether pageview definitions are applied
+    retroactively.
 
 # License
 
