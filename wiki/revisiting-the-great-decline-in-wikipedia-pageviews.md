@@ -12,8 +12,8 @@ Nothing for now :v
 
 # Introduction
 
-In March 2015 one of us (Vipul Naik) wrote "The great decline in Wikipedia
-pageviews".
+In March 2015 one of us (Vipul Naik) wrote ["The great decline in Wikipedia
+pageviews"][great_decline].
 This post is intended as an update to some of the points from that article,
 along with some graphs.
 
@@ -372,6 +372,7 @@ Most permissive license Vipul Naik allows.
 [dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM "“Web and Wikipedia usage changes over time”. SurveyMonkey."
 [dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY "“Wikipedia and Web usage changes over time”. SurveyMonkey."
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
+[great_decline]: http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/ "Vipul Naik. “The great decline in Wikipedia pageviews (condensed version)”. March 27, 2015. LessWrong."
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
 [ny_state]: https://en.wikipedia.org/w/index.php?title=New_York_(state)&redirect=no
