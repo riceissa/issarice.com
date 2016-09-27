@@ -29,6 +29,10 @@ Data sources:
     In the resulting page, there is a table with a column called "Tag name";
     click the linked tag name to obtain a table with more columns -- one for
     each Wikipedia page in the tag.
+  * Note on stats.grok.se: "stats.grok.se is just a data visualizer. Also,
+    \[Vipul doesn't\] think it does ANY bot filtering; any bot filtering is
+    happening at the level of generating the pagecounts-raw dump."
+    (TODO: verify.)
   * Google Trends (for musicians)
   * comScore data, WMF overall numbers
   * Google Consumer Survey and Survey Monkey Audience
