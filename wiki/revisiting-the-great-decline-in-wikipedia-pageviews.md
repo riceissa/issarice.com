@@ -42,6 +42,20 @@ using different windows.
 To visualize the "decline" in pageviews we plotted the pageviews from Wikipedia
 Views, which now includes mobile data since July 2015.
 
+In all of the plots, the vertical lines mean the following things:
+
+  * Blue: July 2015, when mobile pageviews were introduced.
+    This is only shown in plots with mobile data.
+  * Green: $n-1$ months after July 2015, where $n$ is the window size
+    of the rolling mean.
+  * Red: January 2016, when the pageviews data switches from stats.grok.se to
+    the Wikimedia Pageview API.
+  * Green: $n-1$ months after January 2016, where $n$ is the window size of the
+    rolling mean.
+
+In addition, the horizontal blue line marks the *top quartile for the totals
+plot*, i.e. the line above which the top fourth of the data lie.
+
 Example:
 
 ![Plot for top 10 musicians, total access](http://ram.issarice.com/~issa/pageview_plots/musicians_total_top_6.png)
