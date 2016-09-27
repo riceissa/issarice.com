@@ -1,5 +1,8 @@
 ---
 title: Revisiting the “great decline” in Wikipedia pageviews
+author:
+  - Vipul Naik
+  - Issa Rice
 date: 2016-09-26
 ---
 
@@ -356,14 +359,14 @@ Most permissive license Vipul Naik allows.
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
-[dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM
-[dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY
+[dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM "“Web and Wikipedia usage changes over time”. SurveyMonkey."
+[dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY "“Wikipedia and Web usage changes over time”. SurveyMonkey."
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
 [ny_state]: https://en.wikipedia.org/w/index.php?title=New_York_(state)&redirect=no
 [opera]: https://lists.wikimedia.org/pipermail/analytics/2016-June/005247.html
-[pageview_defn]: https://meta.wikimedia.org/wiki/Research:Page_view#Change_log
+[pageview_defn]: https://meta.wikimedia.org/wiki/Research:Page_view#Change_log "“Research:Page view” § Change log. Wikimedia Meta-wiki. Retrieved September 26, 2016."
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
 [plots_all]: http://ram.issarice.com/~issa/pageview_plots/
