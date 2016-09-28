@@ -389,6 +389,10 @@ causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
 
 We also plotted the same plot with the addition of spiders.
+This "addition" only makes sense for the mobile pageviews and the 2016
+pageviews for desktop because the pageviews from stats.grok.se already include
+bot pageviews (see the ["How we investigated this"](#how-we-investigated-this)
+section for more details).
 Note that the Wikimedia Pageview API makes the distinction between "bot" and
 "spider", but we couldn't find pages for which the "bot" traffic was nonzero,
 so we simply excluded the pageviews identified as "bot"; as far as we know,
