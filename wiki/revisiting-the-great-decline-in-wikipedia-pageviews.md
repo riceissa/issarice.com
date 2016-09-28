@@ -374,7 +374,7 @@ Example:
 
 Another example:
 
-![Plot for colors in English, desktop](http://ram.issarice.com/~issa/pageview_plots/colors_desktop_12.png)
+![Plot for colors in English, desktop, window size of 12 months](http://ram.issarice.com/~issa/pageview_plots/colors_desktop_12.png)
 
 Note that a drop from ~4.3 to ~3.9 on a $\log_{10}$ scale corresponds to a drop
 from $10^{4.3} \approx 20{,}000$ to $10^{3.9} \approx 8{,}000$ in terms of
