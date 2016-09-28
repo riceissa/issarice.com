@@ -57,7 +57,8 @@ forms:
   * Raw dumps are most consistently available (in various forms, such as
     pagecounts-raw, pagecounts-all-sites, and pageviews) since September 23,
     2014, but these are difficult to manage due to their large file sizes.
-  * From stats.grok.se, for desktop pageviews through December 2015.
+  * From stats.grok.se, for desktop pageviews from December 10, 2007, through
+    December 2015.
   * From the Wikimedia Pageview API starting July 1, 2015.
 
 In other words, if we want to look at the mobile pageviews data for specific
