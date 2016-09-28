@@ -318,18 +318,26 @@ the others not directly covered will turn out to be less relevant
 
 ## Explanation of the plots used in this section
 
-We plotted the $\log_{10}$ pageviews by varying each of the following parameters.
+We plotted the $\log_{10}$ pageviews from December 2007 to August 2016 by
+varying each of the following parameters.
 Pick one option from each of the following bullet points to produce a single
 plot.
 
-  * Tag
-  * Access method and agent: Desktop, mobile, desktop + mobile (called
-    "total"), desktop + mobile + spiders (called "total\_spider")
-  * Rolling mean with window sizes $n = 1, 3, 6, 12$, where 1 is just the raw
-    pageview plot.
-  * All the pages in the tag vs just the top 10 and total trend.
+  * Tag-language combination; 16 in all.
+    This is the beginning of the filename.
+  * Access method and agent: desktop, mobile, desktop + mobile (called
+    "total"), desktop + mobile + spiders (called "total\_spider"); 4 in all.
+    This comes after the tag-language combination in the filename.
+  * All the pages in the tag or just the top 10 and total trend; 2 in all.
     Note that if a tag contains at most 10 pages, the top 10 plot and the plot
     with all the pages will be identical.
+    This comes after the access method and agent combination in the filename,
+    and is indicated by "top" is it is a top 10 plot and is empty otherwise.
+  * Rolling mean with window size $n$ months, for $n = 1, 3, 6, 12$, where
+    $n = 1$ means just the raw pageview plot; 4 in all.
+    This is the last part of the filename besides the extension.
+
+There are $16 \times 4 \times 2 \times 4 = 512$ plots in all.
 
 For example, the file [`americanpundits_total_top_3.png`][pundits_img] would be
 the
