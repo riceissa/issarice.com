@@ -8,7 +8,10 @@ date: 2016-09-28
 
 # Summary
 
-Nothing for now :v
+In March 2015 one of us (Vipul Naik) wrote ["The great decline in Wikipedia
+pageviews"][great_decline].
+This post is intended as an update to some of the points from that article,
+along with some graphs.
 
 # The central puzzle
 
@@ -69,11 +72,6 @@ version)"][great_decline_full]:
 > on stats.grok.se or a similar platform.
 
 # How we investigated this
-
-In March 2015 one of us (Vipul Naik) wrote ["The great decline in Wikipedia
-pageviews"][great_decline].
-This post is intended as an update to some of the points from that article,
-along with some graphs.
 
 Data sources:
 
