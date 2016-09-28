@@ -455,6 +455,17 @@ Wikipedia, the mobile site averaged 586 million pageviews per month in 2011,
 month in 2015, though note that a new pageview definition is used starting May
 2015.
 
+Below are two plots to illustrate what a rebound looks like.
+
+![Desktop, mobile, and spiders pageviews for cities, which has a rebound back
+to the blue horizontal
+line](http://ram.issarice.com/~issa/pageview_plots/cities_total_spider_top_1.png)
+
+![Desktop, mobile, and spiders pageviews for colors, which does not have a
+rebound; all of the months with pageviews in the top quartile are in 2013 at
+the
+latest](http://ram.issarice.com/~issa/pageview_plots/colors_total_spider_1.png)
+
 ## Shift to mobile
 
 ## Non-human traffic
