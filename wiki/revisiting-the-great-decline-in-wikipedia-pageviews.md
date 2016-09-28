@@ -50,7 +50,7 @@ forms:
     pagecounts-raw and pagecounts-all-sites), but these are difficult to manage
     due to their large file sizes.
   * From stats.grok.se, for desktop pageviews through December 2015.
-  * From the Wikimedia Pageview API starting TODO.
+  * From the Wikimedia Pageview API starting July 1, 2015.
 
 In other words, if we want to look at the mobile pageviews data for specific
 pages between June 30, 2009 (when the mobile site was launched) and the end of
