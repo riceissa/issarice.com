@@ -369,6 +369,9 @@ In all of the plots, the vertical lines mean the following things:
 In addition, the horizontal blue line marks the *top quartile for the totals
 plot*, i.e. the line above which the top fourth of the data lie.
 
+The trend lines colors for the colors tag *do not* match the colors they
+represent.
+
 Example:
 
 ![Plot for top 10 musicians, total access](http://ram.issarice.com/~issa/pageview_plots/musicians_total_top_6.png)
