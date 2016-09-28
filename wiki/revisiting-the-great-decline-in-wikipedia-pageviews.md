@@ -55,15 +55,17 @@ On the other hand, pageviews data for specific pages are available in various
 forms:
 
   * Raw dumps are most consistently available (in various forms, such as
-    pagecounts-raw and pagecounts-all-sites), but these are difficult to manage
+    pagecounts-raw and pagecounts-all-sites) since September 23, 2014, but
+    these are difficult to manage
     due to their large file sizes.
   * From stats.grok.se, for desktop pageviews through December 2015.
   * From the Wikimedia Pageview API starting July 1, 2015.
 
 In other words, if we want to look at the mobile pageviews data for specific
-pages between June 30, 2009 (when the mobile site was launched) and the end of
-June 2015 (after which the Wikimedia Pageview API was launched), the only thing
-we can do is to try to process the raw dumps, which we did not do.
+pages between September 23, 2014 (when pagecounts-all-sites started) and the
+end of June 2015 (after which the Wikimedia Pageview API was launched), the
+only thing we can do is to try to process the raw dumps, which we did not do as
+it would have given a little more clarity but not all that much more.
 We are therefore working with rather limited data.
 Nevertheless we still think it's worth looking at the mobile pageviews data
 that we *do* have for specific pages because:
