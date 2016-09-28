@@ -85,15 +85,6 @@ version)"][great_decline_full]:
 Data sources:
 
   * Wikipedia Views (stats.grok.se and Wikimedia Pageview API).
-    Note that we inherit the term "tag" from Wikipedia Views.
-    All the tag names can be seen on the ["Multiple tags and
-    months"][multi_tag_month_wv] page.
-    To see the Wikipedia pages that comprise the tag, click on the tag name,
-    then click
-    "Submit" to submit a sample query.
-    In the resulting page, there is a table with a column called "Tag name";
-    click the linked tag name to obtain a table with more columns -- one for
-    each Wikipedia page in the tag.
 
   * Note on stats.grok.se: stats.grok.se is [just a data visualizer][grok_faq].
     Until the beginning of 2015 it used pagecounts-raw, [which][pcr_email]:
@@ -326,6 +317,15 @@ plot.
 
   * Tag-language combination; 16 in all.
     This is the beginning of the filename.
+    Note that we inherit the term "tag" from Wikipedia Views.
+    All the tag names can be seen on the ["Multiple tags and
+    months"][multi_tag_month_wv] page.
+    To see the Wikipedia pages that comprise the tag, click on the tag name,
+    then click
+    "Submit" to submit a sample query.
+    In the resulting page, there is a table with a column called "Tag name";
+    click the linked tag name to obtain a table with more columns -- one for
+    each Wikipedia page in the tag.
   * Access method and agent: desktop, mobile, desktop + mobile (called
     "total"), desktop + mobile + spiders (called "total\_spider"); 4 in all.
     This comes after the tag-language combination in the filename.
