@@ -10,46 +10,7 @@ date: 2016-09-28
 
 Nothing for now :v
 
-# Introduction
-
-In March 2015 one of us (Vipul Naik) wrote ["The great decline in Wikipedia
-pageviews"][great_decline].
-This post is intended as an update to some of the points from that article,
-along with some graphs.
-
-Data sources:
-
-  * Wikipedia Views (stats.grok.se and Wikimedia Pageview API).
-    Note that we inherit the term "tag" from Wikipedia Views.
-    All the tag names can be seen on the ["Multiple tags and
-    months"][multi_tag_month_wv] page.
-    To see the Wikipedia pages that comprise the tag, click on the tag name,
-    then click
-    "Submit" to submit a sample query.
-    In the resulting page, there is a table with a column called "Tag name";
-    click the linked tag name to obtain a table with more columns -- one for
-    each Wikipedia page in the tag.
-
-  * Note on stats.grok.se: stats.grok.se is [just a data visualizer][grok_faq].
-    Until the beginning of 2015 it used pagecounts-raw, [which][pcr_email]:
-
-    > was maintained by Domas Mituzas originally and taken over by the
-    > analytics team.  It was and still is the most used dataset, though it has
-    > some \[major\] problems.  It does not count access to the mobile site, it
-    > does not filter out spider or bot traffic, and it suffers from unknown
-    > loss due to logging infrastructure limitations.
-
-    In other words, stats.grok.se uses an older dataset and [older definition
-    of pageview][old_pv_defn] that does not do any bot or spider filtering.
-
-  * Google Trends (for musicians).
-    For more on the Google Trends exports, see the [section in the plotting
-    documentation][gt_plot_doc]
-  * comScore data, WMF overall numbers
-  * Google Consumer Surveys and SurveyMonkey Audience
-
-See also the [timeline of Wikipedia analytics][ana] that was created as part of
-this process.
+# The central puzzle
 
 # Why is this important?
 
@@ -100,6 +61,47 @@ version)"][great_decline_full]:
 > form, and I don’t currently have the time and energy to extract it. I’ll
 > update this once the data on all pageviews since September 2014 is available
 > on stats.grok.se or a similar platform.
+
+# How we investigated this
+
+In March 2015 one of us (Vipul Naik) wrote ["The great decline in Wikipedia
+pageviews"][great_decline].
+This post is intended as an update to some of the points from that article,
+along with some graphs.
+
+Data sources:
+
+  * Wikipedia Views (stats.grok.se and Wikimedia Pageview API).
+    Note that we inherit the term "tag" from Wikipedia Views.
+    All the tag names can be seen on the ["Multiple tags and
+    months"][multi_tag_month_wv] page.
+    To see the Wikipedia pages that comprise the tag, click on the tag name,
+    then click
+    "Submit" to submit a sample query.
+    In the resulting page, there is a table with a column called "Tag name";
+    click the linked tag name to obtain a table with more columns -- one for
+    each Wikipedia page in the tag.
+
+  * Note on stats.grok.se: stats.grok.se is [just a data visualizer][grok_faq].
+    Until the beginning of 2015 it used pagecounts-raw, [which][pcr_email]:
+
+    > was maintained by Domas Mituzas originally and taken over by the
+    > analytics team.  It was and still is the most used dataset, though it has
+    > some \[major\] problems.  It does not count access to the mobile site, it
+    > does not filter out spider or bot traffic, and it suffers from unknown
+    > loss due to logging infrastructure limitations.
+
+    In other words, stats.grok.se uses an older dataset and [older definition
+    of pageview][old_pv_defn] that does not do any bot or spider filtering.
+
+  * Google Trends (for musicians).
+    For more on the Google Trends exports, see the [section in the plotting
+    documentation][gt_plot_doc]
+  * comScore data, WMF overall numbers
+  * Google Consumer Surveys and SurveyMonkey Audience
+
+See also the [timeline of Wikipedia analytics][ana] that was created as part of
+this process.
 
 # Surveys
 
