@@ -12,6 +12,12 @@ Nothing for now :v
 
 # The central puzzle
 
+  * Have desktop pageviews actually declined?
+  * What can explain the decline?
+  * Have overall pageviews declined?
+  * Do people subjectively feel they are using Wikipedia less? How do we square
+    their subjective impressions with the stats?
+
 # Why is this important?
 
 Vipul discusses several motivations for looking at Wikipedia pageviews in his
