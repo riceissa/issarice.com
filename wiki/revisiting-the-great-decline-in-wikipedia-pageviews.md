@@ -29,7 +29,8 @@ Data sources:
     In the resulting page, there is a table with a column called "Tag name";
     click the linked tag name to obtain a table with more columns -- one for
     each Wikipedia page in the tag.
-  * Note on stats.grok.se: "stats.grok.se is just a data visualizer. Also,
+  * Note on stats.grok.se: "stats.grok.se is [just a data
+    visualizer][grok_faq]. Also,
     \[Vipul doesn't\] think it does ANY bot filtering; any bot filtering is
     happening at the level of generating the pagecounts-raw dump."
     (TODO: verify.)
@@ -446,6 +447,7 @@ Most permissive license Vipul Naik allows.
 [dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY "“Wikipedia and Web usage changes over time”. SurveyMonkey."
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
 [great_decline]: http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/ "Vipul Naik. “The great decline in Wikipedia pageviews (condensed version)”. March 27, 2015. LessWrong."
+[grok_faq]: http://stats.grok.se/about "“Wikipedia article traffic statistics”. stats.grok.se. Retrieved September 27, 2016."
 [gt_plot_doc]: https://github.com/riceissa/wikipedia-decline#exporting-google-trends-data
 [mob_stats]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyMobile.htm "“Page Views for Wikipedia, Mobile site, Normalized”. Wikimedia. Retrieved September 27, 2016."
 [multi_tag_month_wv]: http://wikipediaviews.org/multipletagsandmonths.php "“Wikipedia Views: simultaneously do multiple tags and months”."
