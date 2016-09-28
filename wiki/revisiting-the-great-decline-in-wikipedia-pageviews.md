@@ -53,7 +53,43 @@ this process.
 
 # Why is this important?
 
+Vipul discusses several motivations for looking at Wikipedia pageviews in his
+[original post][great_decline_full].
+
 # Overall pageviews vs pageviews of specific pages
+
+Overall pageviews data (i.e. the summed pageviews of all pages within each
+combination of language and access type) are available separately from
+pageviews data of specific pages.
+The Wikimedia Foundation publishes some of the pageview statistics for overall
+pageviews data in places such as the [Wikipedia monthly combined
+chart][combined_table].
+On the other hand, pageviews data for specific pages are available in various
+forms:
+
+  * Raw dumps are most consistently available (in various forms, such as
+    pagecounts-raw and pagecounts-all-sites), but these are difficult to manage
+    due to their large file sizes.
+  * From stats.grok.se, for desktop pageviews through December 2015.
+  * From the Wikimedia Pageview API starting TODO.
+
+In other words, if we want to look at the mobile pageviews data for specific
+pages between June 30, 2009 (when the mobile site was launched) and the end of
+June 2015 (after which the Wikimedia Pageview API was launched), the only thing
+we can do is to try to process the raw dumps, which we did not do.
+We are therefore working with rather limited data.
+Nevertheless we still think it's worth looking at the mobile pageviews data
+that we *do* have for specific pages because:
+
+  * Looking at the overall pageviews data has more interference from new pages
+    being created.
+    Pages that have been around for almost all of the period we look at, such
+    as pages for colors or countries, have less interference.
+  * One thing we wanted to look at is the mobile-to-desktop pageviews ratio of
+    various types of pages.
+  * There is enough data now from the Wikimedia Pageview API to make the graphs
+    interesting to look at.
+    (See next section.)
 
 # What has changed since March 2015?
 
@@ -496,6 +532,7 @@ Most permissive license Vipul Naik allows.
 
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
+[combined_table]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
 [dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM "“Web and Wikipedia usage changes over time”. SurveyMonkey."
 [dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY "“Wikipedia and Web usage changes over time”. SurveyMonkey."
