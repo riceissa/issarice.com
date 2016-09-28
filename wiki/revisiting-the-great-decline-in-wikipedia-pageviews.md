@@ -41,7 +41,8 @@ Overall pageviews data (i.e. the summed pageviews of all pages within each
 combination of language and access type) are available separately from
 pageviews data of specific pages.
 The Wikimedia Foundation publishes some of the pageview statistics for overall
-pageviews data in places such as the [Wikipedia monthly combined
+pageviews data in places such as the ["Wikimedia project at a
+glance"][at_a_glance] page and the [Wikipedia monthly combined
 chart][combined_table].
 On the other hand, pageviews data for specific pages are available in various
 forms:
@@ -599,6 +600,7 @@ Thanks from Issa Rice to Vipul Naik for sponsoring Issa's work on this post.
 Most permissive license Vipul Naik allows.
 
 [ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
+[at_a_glance]: https://stats.wikimedia.org/EN/SummaryEN.htm "“Wikimedia project at a glance”."
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
 [combined_table]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
