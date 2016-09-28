@@ -54,9 +54,10 @@ Wikipedia][size_of_wp].
 On the other hand, pageviews data for specific pages are available in various
 forms:
 
-  * Raw dumps are most consistently available (in various datasets, such as
-    pagecounts-raw, pagecounts-all-sites, and pageviews) since September 23,
-    2014, but these are difficult to manage due to their large file sizes.
+  * Raw dumps are most consistently available in various datasets such as
+    pagecounts-raw (December 10, 2007 -- August 5, 2016), pagecounts-all-sites
+    (September 23, 2014 -- August 5, 2016), and pageviews (starting May 1,
+    2015), but these are difficult to manage due to their large file sizes.
   * From stats.grok.se, for desktop pageviews from December 10, 2007, through
     December 2015.
   * From the Wikimedia Pageview API starting July 1, 2015.
