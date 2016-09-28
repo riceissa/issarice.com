@@ -542,6 +542,10 @@ I don't think this is a big cause of pageview change.
 It's also not clear whether pageview definitions are applied
 retroactively.
 
+# Acknowledgements
+
+Thanks from Issa Rice to Vipul Naik for sponsoring Issa's work on this post.
+
 # License
 
 Most permissive license Vipul Naik allows.
