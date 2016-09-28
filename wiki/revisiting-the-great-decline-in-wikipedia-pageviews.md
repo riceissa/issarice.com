@@ -43,8 +43,10 @@ pageviews data of specific pages.
 The Wikimedia Foundation publishes some of the pageview statistics for overall
 pageviews data in places such as the ["Wikimedia project at a
 glance"][at_a_glance] page, which has a plot for the total pageviews on the
-English Wikipedia since 2008, and the [Wikipedia monthly combined
-chart][combined_table].
+English Wikipedia since 2008,
+the [Vital Signs dashboard][vital_signs], which is more interactive but only
+has pageviews data starting July 1, 2015,
+and the [Wikipedia monthly combined chart][combined_table].
 On the other hand, pageviews data for specific pages are available in various
 forms:
 
@@ -630,3 +632,4 @@ Most permissive license Vipul Naik allows.
 [redirect_spelling]: https://wikitech.wikimedia.org/wiki/Analytics/Data/Redirects#Other_spellings_covered_by_a_redirect_page "“Analytics/Data/Redirects - Wikitech”."
 [simple_colors]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Colors&language=simple&device=desktop&allyears=allyears
 [traffic_var_time]: http://www.wikihow.com/Understand-Your-Website-Traffic-Variation-with-Time "“How to Understand Your Website Traffic Variation with Time”. wikiHow."
+[vital_signs]: https://analytics.wikimedia.org/dashboards/vital-signs/ "“Vital Signs”."
