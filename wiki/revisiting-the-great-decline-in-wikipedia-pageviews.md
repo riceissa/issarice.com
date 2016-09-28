@@ -99,7 +99,7 @@ Data sources:
   * Wikipedia Views (stats.grok.se and Wikimedia Pageview API).
 
   * Note on stats.grok.se: stats.grok.se is [just a data visualizer][grok_faq].
-    Until the beginning of 2015 it used pagecounts-raw, [which][pcr_email]:
+    It uses pagecounts-raw, [which][pcr_email]:
 
     > was maintained by Domas Mituzas originally and taken over by the
     > analytics team.  It was and still is the most used dataset, though it has
