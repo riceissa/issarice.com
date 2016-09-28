@@ -312,6 +312,9 @@ the others not directly covered will turn out to be less relevant
 We plotted the $\log_{10}$ pageviews from December 2007 to August 2016 by
 varying each of the following parameters.
 All of the plots are [listed in a directory][plots_all].
+In addition, all of the code used to generate the plots are in a [GitHub
+repository][gh_plots_repo].
+
 Pick one option from each of the following bullet points to arrive at a single
 plot.
 
@@ -603,6 +606,7 @@ Most permissive license Vipul Naik allows.
 [dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM "“Web and Wikipedia usage changes over time”. SurveyMonkey."
 [dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY "“Wikipedia and Web usage changes over time”. SurveyMonkey."
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
+[gh_plots_repo]: https://github.com/riceissa/wikipedia-decline
 [great_decline]: http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/ "Vipul Naik. “The great decline in Wikipedia pageviews (condensed version)”. March 27, 2015. LessWrong."
 [great_decline_full]: http://vipulnaik.com/blog/the-great-decline-in-wikipedia-pageviews-full-version/ "“The great decline in Wikipedia pageviews (full version)”. Vipul Naik. March 25, 2015."
 [grok_faq]: http://stats.grok.se/about "“Wikipedia article traffic statistics”. stats.grok.se. Retrieved September 27, 2016."
