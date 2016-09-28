@@ -66,6 +66,8 @@ pages between September 23, 2014 (when pagecounts-all-sites started) and the
 end of June 2015 (after which the Wikimedia Pageview API was launched), the
 only thing we can do is to try to process the raw dumps, which we did not do as
 it would have given a little more clarity but not all that much more.
+The per-page pageviews data from before September 23, 2014 are not available
+because [raw server access logs are deleted after about two weeks][delete_log].
 We are therefore working with rather limited data.
 Nevertheless we still think it's worth looking at the mobile pageviews data
 that we *do* have for specific pages because:
@@ -613,6 +615,7 @@ Most permissive license Vipul Naik allows.
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
 [combined_table]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
+[delete_log]: http://security.stackexchange.com/questions/23543/what-user-information-does-wikipedia-retain-when-a-page-is-viewed "Question asked by user Strapakowsky. “What user information does Wikipedia retain when a page is viewed?” Information Security Stack Exchange. November 3, 2012."
 [dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM "“Web and Wikipedia usage changes over time”. SurveyMonkey."
 [dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY "“Wikipedia and Web usage changes over time”. SurveyMonkey."
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
