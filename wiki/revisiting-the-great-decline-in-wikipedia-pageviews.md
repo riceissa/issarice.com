@@ -346,14 +346,6 @@ pageviews for the "American television and radio pundits" tag, for desktop +
 mobile (no spiders), with a rolling mean of window size $n = 3$ months, and
 only the top 10 pages in the tag.
 
-Unrelated plots:
-
-  * Mobile:desktop ratio vs 95% quantile
-  * $\log\mathrm{WV} - \log\mathrm{GT}$
-
-We also found the [peaks for desktop][peak_gist] and [peaks overall][peak_ov]
-using different windows.
-
 To visualize the "decline" in pageviews we plotted the pageviews from Wikipedia
 Views, which now includes mobile data since July 2015.
 
@@ -502,6 +494,13 @@ of the reasons to be tag-dependent as well.
     the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
     Apparently not well.
 
+Other plots:
+
+  * Mobile:desktop ratio vs 95% quantile
+  * $\log\mathrm{WV} - \log\mathrm{GT}$
+
+We also found the [peaks for desktop][peak_gist] and [peaks overall][peak_ov]
+using different windows.
 
 ## Language substitution
 
