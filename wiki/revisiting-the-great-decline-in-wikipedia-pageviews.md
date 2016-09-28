@@ -356,12 +356,13 @@ plot.
     The rolling mean is intended to smooth out noise, but also makes
     transitions harder to detect.
     For each month, the rolling mean is calculated as follows:
-    the pageviews of $n$ months, starting with the current month, are added
+    the pageviews of $n$ months, starting with the current month and going
+    backwards in time, are added
     together and then divided by the number of days during this period.
     One consequence of this is that even when $n=1$, the pageviews shown are
     not the raw pageviews for that month, but rather are normalized using the
     number of days in that month.
-    It is the $\log_{10}$ that is then taken and plotted.
+    It is the $\log_{10}$ of this value that is then taken and plotted.
 
 There are $16 \times 4 \times 2 \times 4 = 512$ plots in all.
 
