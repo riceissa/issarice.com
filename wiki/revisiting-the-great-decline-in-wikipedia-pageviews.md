@@ -517,7 +517,7 @@ article itself could be going down even while people are reading the
 page more -- the pageview is just being distributed more between the
 main article and its redirect pages.
 
-However my impression is that most pageviews come from search engine
+However our impression is that most pageviews come from search engine
 results pages, and that wikilinks are not used very much.
 See for instance the pageviews on redirects to [Red][red_redirects] and
 [Black][black_redirects] (though one complication here is that
