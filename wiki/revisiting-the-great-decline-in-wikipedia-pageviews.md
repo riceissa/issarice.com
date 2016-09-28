@@ -47,6 +47,10 @@ English Wikipedia since 2008,
 the [Vital Signs dashboard][vital_signs], which is more interactive but only
 has pageviews data starting July 1, 2015,
 and the [Wikipedia monthly combined chart][combined_table].
+Other statistics for various overall growth can be found on the [Wikipedia
+Statistics page][wikipedia_statistics], e.g. there is a page on the [size of
+Wikipedia][size_of_wp].
+
 On the other hand, pageviews data for specific pages are available in various
 forms:
 
@@ -631,5 +635,7 @@ Most permissive license Vipul Naik allows.
 [red_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Red&language=en&device=desktop&allyears=allyears
 [redirect_spelling]: https://wikitech.wikimedia.org/wiki/Analytics/Data/Redirects#Other_spellings_covered_by_a_redirect_page "“Analytics/Data/Redirects - Wikitech”."
 [simple_colors]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Colors&language=simple&device=desktop&allyears=allyears
+[size_of_wp]: https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia "“Wikipedia:Size of Wikipedia - Wikipedia, the free encyclopedia”."
 [traffic_var_time]: http://www.wikihow.com/Understand-Your-Website-Traffic-Variation-with-Time "“How to Understand Your Website Traffic Variation with Time”. wikiHow."
 [vital_signs]: https://analytics.wikimedia.org/dashboards/vital-signs/ "“Vital Signs”."
+[wikipedia_statistics]: https://en.wikipedia.org/wiki/Wikipedia:Statistics "“Wikipedia:Statistics - Wikipedia, the free encyclopedia”."
