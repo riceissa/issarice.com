@@ -387,7 +387,6 @@ Note that a drop from ~4.3 to ~3.9 on a $\log_{10}$ scale corresponds to a drop
 from $10^{4.3} \approx 20{,}000$ to $10^{3.9} \approx 8{,}000$ in terms of
 actual pageviews, i.e. a 60% drop.
 
-The full list of plots for this can be found [here][plots_all].
 The plots generally show that desktop pageviews according to stats.grok.se fell
 from around 2011 or 2013 (depending on the class of pages examined) to 2015.
 Adding on the Wikimedia Pageview API data for desktop from January 2016 to the
