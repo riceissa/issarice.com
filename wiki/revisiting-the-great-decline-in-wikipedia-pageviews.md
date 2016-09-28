@@ -343,8 +343,8 @@ There are $16 \times 4 \times 2 \times 4 = 512$ plots in all.
 For example, the file [`americanpundits_total_top_3.png`][pundits_img] would be
 the
 pageviews for the "American television and radio pundits" tag, for desktop +
-mobile (no spiders), with a rolling mean of window size $n = 3$, and only the
-top 10 pages in the tag.
+mobile (no spiders), with a rolling mean of window size $n = 3$ months, and
+only the top 10 pages in the tag.
 
 Unrelated plots:
 
