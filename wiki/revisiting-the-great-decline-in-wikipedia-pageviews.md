@@ -424,7 +424,8 @@ present shows that this trend seems to continue, but we think the Pageview API
 imposes a stricter filter on bots/spiders.
 
 On the other hand, if we add in the mobile data, we see that predictably there
-is a "bump" starting in July 2015, when the mobile data started.
+is a  "bump" starting in July 2015, when the mobile data started; this bump is
+more gradual the longer the window size of the rolling mean is.
 However, for some classes of pages, even adding in the mobile data -- while
 causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
