@@ -135,7 +135,23 @@ Several surveys:
 
 ## Google Consumer Surveys survey
 
-TODO
+This survey had a single question:
+
+ 1. How does your use of Wikipedia, the online encyclopedia, compare to your use
+    5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+      * Other (please specify)
+
+Since this was a Google Consumer Surveys survey, the respondent was also given
+the options "Show me a different question" and "Skip survey" below the question
+above.
+
+The [survey results][gcs_results] are available.
 
 ## SurveyMonkey first survey (internet first)
 
