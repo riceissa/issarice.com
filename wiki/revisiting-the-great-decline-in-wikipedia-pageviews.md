@@ -349,7 +349,8 @@ plot.
     with all the pages will be identical.
     This comes after the access method and agent combination in the filename,
     and is indicated by "top" is it is a top 10 plot and is empty otherwise.
-  * Rolling mean with window size $n$ months, for $n = 1, 3, 6, 12$, where
+  * Rolling mean (moving average) with window size $n$ months,
+    for $n = 1, 3, 6, 12$, where
     $n = 1$ means just the raw pageview plot; 4 in all.
     This is the last part of the filename besides the extension.
     The rolling mean is intended to smooth out noise, but also makes
