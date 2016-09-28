@@ -35,6 +35,12 @@ We have been interested in this and one of us (Vipul) has written other
 articles such as ["How to Understand Your Website Traffic Variation with
 Time"][traffic_var_time] on wikiHow.
 
+As content creators, one of the appeals of writing articles for Wikipedia is
+that they receive more pageviews than if the same articles are hosted on
+another site (such as a personal site).
+However if Wikipedia's viewership is actually declining, this is something to
+consider.
+
 # Overall pageviews vs pageviews of specific pages
 
 Overall pageviews data (i.e. the summed pageviews of all pages within each
