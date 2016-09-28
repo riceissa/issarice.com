@@ -29,9 +29,19 @@ Data sources:
     In the resulting page, there is a table with a column called "Tag name";
     click the linked tag name to obtain a table with more columns -- one for
     each Wikipedia page in the tag.
+
   * Note on stats.grok.se: stats.grok.se is [just a data visualizer][grok_faq].
-    It uses an [older definition of pageview][old_pv_defn] that does not do any
-    bot or spider filtering.
+    Until the beginning of 2015 it used `pagecounts-raw`, [which][pcr_email]:
+
+    > was maintained by Domas Mituzas originally and taken over by the
+    > analytics team.  It was and still is the most used dataset, though it has
+    > some majore problems.  It does not count access to the mobile site, it
+    > does not filter out spider or bot traffic, and it suffers from unknown
+    > loss due to logging infrastructure limitations.
+
+    In other words, stats.grok.se uses an older dataset and [older definition
+    of pageview][old_pv_defn] that does not do any bot or spider filtering.
+
   * Google Trends (for musicians).
     For more on the Google Trends exports, see the [section in the plotting
     documentation][gt_plot_doc]
@@ -455,6 +465,7 @@ Most permissive license Vipul Naik allows.
 [old_pv_defn]: https://phabricator.wikimedia.org/diffusion/ANME/browse/master/pageviews/webstatscollector/pageview_definition.png
 [opera]: https://lists.wikimedia.org/pipermail/analytics/2016-June/005247.html
 [pageview_defn]: https://meta.wikimedia.org/wiki/Research:Page_view#Change_log "“Research:Page view” § Change log. Wikimedia Meta-wiki. Retrieved September 26, 2016."
+[pcr_email]: https://lists.wikimedia.org/pipermail/analytics/2016-March/005060.html
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
 [peak_ov]: https://gist.github.com/riceissa/213c5b0cb31f12746d713f6ec0790257
 [plots_all]: http://ram.issarice.com/~issa/pageview_plots/
