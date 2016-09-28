@@ -26,6 +26,15 @@ along with some graphs.
 Vipul discusses several motivations for looking at Wikipedia pageviews in his
 [original post][great_decline_full].
 
+Wikipedia pageviews are useful as a way to:
+
+  * Understand what people are interested in learning about
+  * Understanding the overall growth of the internet
+
+We have been interested in this and one of us (Vipul) has written other
+articles such as ["How to Understand Your Website Traffic Variation with
+Time"][traffic_var_time] on wikiHow.
+
 # Overall pageviews vs pageviews of specific pages
 
 Overall pageviews data (i.e. the summed pageviews of all pages within each
@@ -583,3 +592,4 @@ Most permissive license Vipul Naik allows.
 [red_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Red&language=en&device=desktop&allyears=allyears
 [redirect_spelling]: https://wikitech.wikimedia.org/wiki/Analytics/Data/Redirects#Other_spellings_covered_by_a_redirect_page "“Analytics/Data/Redirects - Wikitech”."
 [simple_colors]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Colors&language=simple&device=desktop&allyears=allyears
+[traffic_var_time]: http://www.wikihow.com/Understand-Your-Website-Traffic-Variation-with-Time "“How to Understand Your Website Traffic Variation with Time”. wikiHow."
