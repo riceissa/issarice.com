@@ -51,6 +51,16 @@ Data sources:
 See also the [timeline of Wikipedia analytics][ana] that was created as part of
 this process.
 
+# What has changed?
+
+Vipul said in ["The great decline in Wikipedia pageviews (full
+version)"][great_decline_full]:
+
+> Although the data is available, it’s not currently in an easily computable
+> form, and I don’t currently have the time and energy to extract it. I’ll
+> update this once the data on all pageviews since September 2014 is available
+> on stats.grok.se or a similar platform.
+
 # Plots
 
 We plotted the $\log_{10}$ pageviews by varying each of the following parameters.
@@ -455,6 +465,7 @@ Most permissive license Vipul Naik allows.
 [dummy_sm_2]: https://www.surveymonkey.com/r/G8XRZQY "“Wikipedia and Web usage changes over time”. SurveyMonkey."
 [gcs_results]: https://www.google.com/insights/consumersurveys/view?survey=2l5h5cssu4am3oferd32zcxaai&question=1&filter=&rw=1 "Vipul Naik and Issa Rice. “How does your use of Wikipedia, the online encyclopedia, compare to your use 5 years ago (2011)?” Google Consumer Surveys. September 20, 2016."
 [great_decline]: http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/ "Vipul Naik. “The great decline in Wikipedia pageviews (condensed version)”. March 27, 2015. LessWrong."
+[great_decline_full]: http://vipulnaik.com/blog/the-great-decline-in-wikipedia-pageviews-full-version/ "“The great decline in Wikipedia pageviews (full version)”. Vipul Naik. March 25, 2015."
 [grok_faq]: http://stats.grok.se/about "“Wikipedia article traffic statistics”. stats.grok.se. Retrieved September 27, 2016."
 [gt_plot_doc]: https://github.com/riceissa/wikipedia-decline#exporting-google-trends-data
 [mob_stats]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyMobile.htm "“Page Views for Wikipedia, Mobile site, Normalized”. Wikimedia. Retrieved September 27, 2016."
