@@ -42,7 +42,8 @@ combination of language and access type) are available separately from
 pageviews data of specific pages.
 The Wikimedia Foundation publishes some of the pageview statistics for overall
 pageviews data in places such as the ["Wikimedia project at a
-glance"][at_a_glance] page and the [Wikipedia monthly combined
+glance"][at_a_glance] page, which has a plot for the total pageviews on the
+English Wikipedia since 2008, and the [Wikipedia monthly combined
 chart][combined_table].
 On the other hand, pageviews data for specific pages are available in various
 forms:
