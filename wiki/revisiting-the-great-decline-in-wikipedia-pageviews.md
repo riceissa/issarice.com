@@ -311,6 +311,11 @@ A [dummy/mock-up version of the survey][dummy_sm_2] is available.
 
 # Two leading hypotheses: shift to mobile and non-human traffic
 
+The two biggest ones quantitatively (device switching and bots) are covered in
+the graphs, and the others turned out to not be so significant or just
+directionally opposite, as we will see later.
+the others not directly covered will turn out to be less relevant
+
 ## Explanation of the plots used in this section
 
 We plotted the $\log_{10}$ pageviews by varying each of the following parameters.
