@@ -46,7 +46,7 @@ Data sources:
     For more on the Google Trends exports, see the [section in the plotting
     documentation][gt_plot_doc]
   * comScore data, WMF overall numbers
-  * Google Consumer Survey and Survey Monkey Audience
+  * Google Consumer Surveys and SurveyMonkey Audience
 
 See also the [timeline of Wikipedia analytics][ana] that was created as part of
 this process.
@@ -69,17 +69,18 @@ version)"][great_decline_full]:
 
 Several surveys:
 
-  * A Google Consumer Survey of a US audience (without any demographic filters)
+  * A Google Consumer Surveys survey of a US audience (without any demographic
+    filters)
     asking people to compare how much their Wikipedia
     usage has changed since 2011.
     This was answered by 1036 people.
     You can see the [results page][gcs_results].
     Note that for this survey, we had to shorten the responses from what they
-    were originally due to Google Consumer Survey's response character limits.
-  * A Survey Monkey US Audience survey (again, no demographic filters) asking
+    were originally due to Google Consumer Surveys' response character limits.
+  * A SurveyMonkey US Audience survey (again, no demographic filters) asking
     the same question
-    as the Google Consumer Survey, plus some other background and follow-up
-    questions.
+    as the Google Consumer Surveys survey, plus some other background and
+    follow-up questions.
     We ran this for 50 people and TODO answered.
     After this, we changed the order of the questions to ask about Wikipedia
     first, then about general internet use and use of search engines.
@@ -92,7 +93,7 @@ Several surveys:
 
 TODO
 
-## Survey Monkey first survey (internet first)
+## SurveyMonkey first survey (internet first)
 
 Note that there is more logic to this survey than a simple list: questions
 6 and 7 were only shown if the respondent indicated that their Wikipedia
@@ -162,7 +163,7 @@ A [dummy/mock-up version of the survey][dummy_sm_1] is available.
       * I use the Internet less in general
       * Other (please specify)
 
-## Survey Monkey second survey (Wikipedia first)
+## SurveyMonkey second survey (Wikipedia first)
 
 For this survey, the Wikipedia questions were asked first, and then the
 more general internet and search engine questions.
@@ -391,7 +392,7 @@ Note that the decline is tag-dependent, and we expect some (but not all)
 of the reasons to be tag-dependent as well.
 
   * Shift to mobile → Check by adding the mobile views and by asking people
-    on Survey Monkey
+    on SurveyMonkey
   * People somehow preferring Wikipedia less? → Ask people.
   * Is Wikipedia's popularity in general decreasing? → Can we see that in
     the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
