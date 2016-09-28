@@ -51,7 +51,11 @@ Data sources:
 See also the [timeline of Wikipedia analytics][ana] that was created as part of
 this process.
 
-# What has changed?
+# Why is this important?
+
+# Overall pageviews vs pageviews of specific pages
+
+# What has changed since March 2015?
 
 Vipul said in ["The great decline in Wikipedia pageviews (full
 version)"][great_decline_full]:
@@ -61,7 +65,177 @@ version)"][great_decline_full]:
 > update this once the data on all pageviews since September 2014 is available
 > on stats.grok.se or a similar platform.
 
-# Plots
+# Surveys
+
+Several surveys:
+
+  * A Google Consumer Survey of a US audience (without any demographic filters)
+    asking people to compare how much their Wikipedia
+    usage has changed since 2011.
+    This was answered by 1036 people.
+    You can see the [results page][gcs_results].
+    Note that for this survey, we had to shorten the responses from what they
+    were originally due to Google Consumer Survey's response character limits.
+  * A Survey Monkey US Audience survey (again, no demographic filters) asking
+    the same question
+    as the Google Consumer Survey, plus some other background and follow-up
+    questions.
+    We ran this for 50 people and TODO answered.
+    After this, we changed the order of the questions to ask about Wikipedia
+    first, then about general internet use and use of search engines.
+    We ran this second version for 50 people and TODO answered.
+  * Vipul's timeline (first version)
+  * UW audience (which version?)
+  * More audiences?
+
+## Google Consumer Surveys survey
+
+TODO
+
+## Survey Monkey first survey (internet first)
+
+Note that there is more logic to this survey than a simple list: questions
+6 and 7 were only shown if the respondent indicated that their Wikipedia
+use changed since 2011 in question 3; if they said more, they were shown
+question 6 and if they said less, they were shown question 7 (which was
+numbered question 6 for these people).
+
+None of the multiple-choice options were randomized. (TODO: verify.)
+
+A [dummy/mock-up version of the survey][dummy_sm_1] is available.
+
+1.  How does your use of the Internet compare to your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+2.  How does your use of search engines (Google search) compare to your
+    use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+3.  How does your use of Wikipedia, the online encyclopedia, compare to
+    your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+4.  Do you have any thoughts on why this is the case for you?
+      * Free response
+5.  How do you mainly access Wikipedia?
+      * Browser on desktop or laptop computer
+      * Browser on mobile device
+      * A specialized Wikipedia app
+6.  You said that you use Wikipedia more now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about
+    that might not have occurred to you. Please select any that apply to you.
+      * I didn't even have Internet access back then
+      * I go to school now and I didn't before
+      * I just use the Internet more
+      * I think Wikipedia is more reliable now than it used to be
+      * Wikipedia has more relevant content for me now
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up more
+      * Other (please specify)
+7.  You said that you use Wikipedia less now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about that
+    might not have occurred to you. Please select any that apply to you.
+      * Google Knowledge cards
+      * I use tools like Apple's Siri to access data from Wikipedia without
+        reading it directly
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up less
+      * I'm just generally more knowledgeable so I don't need as much
+        encyclopedic information
+      * Wikipedia seems to have less relevant content for me; I use other
+        websites/wikis more now
+      * Wikipedia's quality has decreased so it's not as good now
+      * I now think Wikipedia is less reliable as a source of information
+      * I'm not in school anymore
+      * I use the Internet less in general
+      * Other (please specify)
+
+## Survey Monkey second survey (Wikipedia first)
+
+For this survey, the Wikipedia questions were asked first, and then the
+more general internet and search engine questions.
+Questions 4 and 5 were only shown when the respondent indicated that they
+had changed their Wikipedia use since 2011; if more, the respondent
+was shown question 4 and if less they were shown question 5.
+All respondents then proceeded to question 6.
+
+None of the multiple-choice options were randomized. (TODO: verify.)
+
+A [dummy/mock-up version of the survey][dummy_sm_2] is available.
+
+1.  How does your use of Wikipedia, the online encyclopedia, compare to your
+    use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+2.  Do you have any thoughts on why this is the case for you?
+      * Free response
+3.  How do you mainly access Wikipedia?
+      * Browser on desktop or laptop computer
+      * Browser on mobile device
+      * A specialized Wikipedia app
+4.  You said that you use Wikipedia more now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about
+    that might not have occurred to you. Please select any that apply to you.
+      * I didn't even have Internet access back then
+      * I go to school now and I didn't before
+      * I just use the Internet more
+      * I think Wikipedia is more reliable now than it used to be
+      * Wikipedia has more relevant content for me now
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up more
+      * Other (please specify)
+5.  You said that you use Wikipedia less now than in 2011. You also gave
+    suggestions as to why. Here are some other reasons we've thought about that
+    might not have occurred to you. Please select any that apply to you.
+      * Google Knowledge cards
+      * I use tools like Apple's Siri to access data from Wikipedia without
+        reading it directly
+      * I just select whatever is at the top (or near the top) of search
+        engine results, and I guess Wikipedia is showing up less
+      * I'm just generally more knowledgeable so I don't need as much
+        encyclopedic information
+      * Wikipedia seems to have less relevant content for me; I use
+        other websites/wikis more now
+      * Wikipedia's quality has decreased so it's not as good now
+      * I now think Wikipedia is less reliable as a source of information
+      * I'm not in school anymore
+      * I use the Internet less in general
+      * Other (please specify)
+6. How does your use of the Internet compare to your use 5 years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+7.  How does your use of search engines (Google search) compare to your use 5
+    years ago (2011)?
+      * don't use now; didn't use in 2011
+      * use now; didn't use in 2011
+      * don't use now; used in 2011
+      * use now; used in 2011 (to similar extent)
+      * use now; used in 2011 (much more now)
+      * use now; used in 2011 (much less now)
+
+# Two leading hypotheses: shift to mobile and non-human traffic
+
+## Explanation of the plots used in this section
 
 We plotted the $\log_{10}$ pageviews by varying each of the following parameters.
 Pick one option from each of the following bullet points to produce a single
@@ -196,171 +370,11 @@ Wikipedia, the mobile site averaged 586 million pageviews per month in 2011,
 month in 2015, though note that a new pageview definition is used starting May
 2015.
 
-# Surveys
+## Shift to mobile
 
-Several surveys:
+## Non-human traffic
 
-  * A Google Consumer Survey of a US audience (without any demographic filters)
-    asking people to compare how much their Wikipedia
-    usage has changed since 2011.
-    This was answered by 1036 people.
-    You can see the [results page][gcs_results].
-    Note that for this survey, we had to shorten the responses from what they
-    were originally due to Google Consumer Survey's response character limits.
-  * A Survey Monkey US Audience survey (again, no demographic filters) asking
-    the same question
-    as the Google Consumer Survey, plus some other background and follow-up
-    questions.
-    We ran this for 50 people and TODO answered.
-    After this, we changed the order of the questions to ask about Wikipedia
-    first, then about general internet use and use of search engines.
-    We ran this second version for 50 people and TODO answered.
-  * Vipul's timeline (first version)
-  * UW audience (which version?)
-  * More audiences?
-
-## Survey Monkey first survey
-
-Note that there is more logic to this survey than a simple list: questions
-6 and 7 were only shown if the respondent indicated that their Wikipedia
-use changed since 2011 in question 3; if they said more, they were shown
-question 6 and if they said less, they were shown question 7 (which was
-numbered question 6 for these people).
-
-None of the multiple-choice options were randomized. (TODO: verify.)
-
-A [dummy/mock-up version of the survey][dummy_sm_1] is available.
-
-1.  How does your use of the Internet compare to your use 5 years ago (2011)?
-      * don't use now; didn't use in 2011
-      * use now; didn't use in 2011
-      * don't use now; used in 2011
-      * use now; used in 2011 (to similar extent)
-      * use now; used in 2011 (much more now)
-      * use now; used in 2011 (much less now)
-2.  How does your use of search engines (Google search) compare to your
-    use 5 years ago (2011)?
-      * don't use now; didn't use in 2011
-      * use now; didn't use in 2011
-      * don't use now; used in 2011
-      * use now; used in 2011 (to similar extent)
-      * use now; used in 2011 (much more now)
-      * use now; used in 2011 (much less now)
-3.  How does your use of Wikipedia, the online encyclopedia, compare to
-    your use 5 years ago (2011)?
-      * don't use now; didn't use in 2011
-      * use now; didn't use in 2011
-      * don't use now; used in 2011
-      * use now; used in 2011 (to similar extent)
-      * use now; used in 2011 (much more now)
-      * use now; used in 2011 (much less now)
-4.  Do you have any thoughts on why this is the case for you?
-      * Free response
-5.  How do you mainly access Wikipedia?
-      * Browser on desktop or laptop computer
-      * Browser on mobile device
-      * A specialized Wikipedia app
-6.  You said that you use Wikipedia more now than in 2011. You also gave
-    suggestions as to why. Here are some other reasons we've thought about
-    that might not have occurred to you. Please select any that apply to you.
-      * I didn't even have Internet access back then
-      * I go to school now and I didn't before
-      * I just use the Internet more
-      * I think Wikipedia is more reliable now than it used to be
-      * Wikipedia has more relevant content for me now
-      * I just select whatever is at the top (or near the top) of search
-        engine results, and I guess Wikipedia is showing up more
-      * Other (please specify)
-7.  You said that you use Wikipedia less now than in 2011. You also gave
-    suggestions as to why. Here are some other reasons we've thought about that
-    might not have occurred to you. Please select any that apply to you.
-      * Google Knowledge cards
-      * I use tools like Apple's Siri to access data from Wikipedia without
-        reading it directly
-      * I just select whatever is at the top (or near the top) of search
-        engine results, and I guess Wikipedia is showing up less
-      * I'm just generally more knowledgeable so I don't need as much
-        encyclopedic information
-      * Wikipedia seems to have less relevant content for me; I use other
-        websites/wikis more now
-      * Wikipedia's quality has decreased so it's not as good now
-      * I now think Wikipedia is less reliable as a source of information
-      * I'm not in school anymore
-      * I use the Internet less in general
-      * Other (please specify)
-
-## Survey Monkey second survey
-
-For this survey, the Wikipedia questions were asked first, and then the
-more general internet and search engine questions.
-Questions 4 and 5 were only shown when the respondent indicated that they
-had changed their Wikipedia use since 2011; if more, the respondent
-was shown question 4 and if less they were shown question 5.
-All respondents then proceeded to question 6.
-
-None of the multiple-choice options were randomized. (TODO: verify.)
-
-A [dummy/mock-up version of the survey][dummy_sm_2] is available.
-
-1.  How does your use of Wikipedia, the online encyclopedia, compare to your
-    use 5 years ago (2011)?
-      * don't use now; didn't use in 2011
-      * use now; didn't use in 2011
-      * don't use now; used in 2011
-      * use now; used in 2011 (to similar extent)
-      * use now; used in 2011 (much more now)
-      * use now; used in 2011 (much less now)
-2.  Do you have any thoughts on why this is the case for you?
-      * Free response
-3.  How do you mainly access Wikipedia?
-      * Browser on desktop or laptop computer
-      * Browser on mobile device
-      * A specialized Wikipedia app
-4.  You said that you use Wikipedia more now than in 2011. You also gave
-    suggestions as to why. Here are some other reasons we've thought about
-    that might not have occurred to you. Please select any that apply to you.
-      * I didn't even have Internet access back then
-      * I go to school now and I didn't before
-      * I just use the Internet more
-      * I think Wikipedia is more reliable now than it used to be
-      * Wikipedia has more relevant content for me now
-      * I just select whatever is at the top (or near the top) of search
-        engine results, and I guess Wikipedia is showing up more
-      * Other (please specify)
-5.  You said that you use Wikipedia less now than in 2011. You also gave
-    suggestions as to why. Here are some other reasons we've thought about that
-    might not have occurred to you. Please select any that apply to you.
-      * Google Knowledge cards
-      * I use tools like Apple's Siri to access data from Wikipedia without
-        reading it directly
-      * I just select whatever is at the top (or near the top) of search
-        engine results, and I guess Wikipedia is showing up less
-      * I'm just generally more knowledgeable so I don't need as much
-        encyclopedic information
-      * Wikipedia seems to have less relevant content for me; I use
-        other websites/wikis more now
-      * Wikipedia's quality has decreased so it's not as good now
-      * I now think Wikipedia is less reliable as a source of information
-      * I'm not in school anymore
-      * I use the Internet less in general
-      * Other (please specify)
-6. How does your use of the Internet compare to your use 5 years ago (2011)?
-      * don't use now; didn't use in 2011
-      * use now; didn't use in 2011
-      * don't use now; used in 2011
-      * use now; used in 2011 (to similar extent)
-      * use now; used in 2011 (much more now)
-      * use now; used in 2011 (much less now)
-7.  How does your use of search engines (Google search) compare to your use 5
-    years ago (2011)?
-      * don't use now; didn't use in 2011
-      * use now; didn't use in 2011
-      * don't use now; used in 2011
-      * use now; used in 2011 (to similar extent)
-      * use now; used in 2011 (much more now)
-      * use now; used in 2011 (much less now)
-
-# Questions/thought process
+# Other hypotheses
 
   * Are pageviews even declining?
     It seems that desktop pageviews are declining, but is this still the case
@@ -371,8 +385,6 @@ A [dummy/mock-up version of the survey][dummy_sm_2] is available.
     API even on months where they both have data), so it's not totally clear if
     even desktop is declining.
 
-# Hypotheses
-
 In this section we explore the possible reasons for the observed decline in
 desktop pageviews.
 Note that the decline is tag-dependent, and we expect some (but not all)
@@ -380,79 +392,94 @@ of the reasons to be tag-dependent as well.
 
   * Shift to mobile → Check by adding the mobile views and by asking people
     on Survey Monkey
-  * Language substitution → Check the same tag using different languages
-    (we did colors in English, French, and German)
-  * Google Knowledge cards? → Ask people about this in SM survey
-  * Siri? → Ask people
-  * Wikipedia showing up less in SERPs? → Try to get access to historical
-    SERPs for some search queries.
-    This actually seems harder to obtain than we first thought.
   * People somehow preferring Wikipedia less? → Ask people.
   * Is Wikipedia's popularity in general decreasing? → Can we see that in
     the $\log \mathrm{WV} - \log \mathrm{GT}$ graph?
     Apparently not well.
 
-  * Could a change in redirects have anything to do with this?
-    For instance see ["Consider the Redirect"][ctr]:
 
-    > Because viewers don't see redirects, viewing a redirect is
-    > substantively different from viewing a normal page. For example, if a
-    > user visits the article on "Seattle, Washington", this will be
-    > recorded as a view to the redirect even though the target article
-    > "Seattle" is displayed. In this sense, views of redirects will tend
-    > to be overcounted while views of target articles will tend to be
-    > undercounted.
-    >
-    > [...]
-    >
-    > Because redirects are edited infrequently but "viewed" as often as
-    > millions of times per month each, redirects may be contributing to
-    > the surprisingly low correlation between edits and views noted by
-    > Priedhorsky et al. and others.
+## Language substitution
 
-    See also ["Analytics/Data/Redirects -- Wikitech"][redirect_spelling]
+  * Language substitution → Check the same tag using different languages
+    (we did colors in English, French, and German)
 
-    Could people somehow be viewing redirects more than the actual pages,
-    compared to 2011--2013?
-    To give one recent example (too recent to matter), the Wikipedia
-    article ["New York"][ny] is about the state, not the city.
-    However there is a [recent shift][ny_disc] to change all wikilinks
-    `[[New York]]` to go through the redirect page
-    ["New York (state)"][ny_state], with the wikilink
-    `[[New York (state)|New York]]`.
-    This means that less pageviews will be recorded for the New York page,
-    and more will be recorded for the redirect page.
-    One idea is that if a sufficiently large number of highly popular pages
-    have similar sorts of redirection manipulation, the pageviews for the
-    article itself could be going down even while people are reading the
-    page more -- the pageview is just being distributed more between the
-    main article and its redirect pages.
+## Indirect access
 
-    However my impression is that most pageviews come from search engine
-    results pages, and that wikilinks are not used very much.
-    See for instance the pageviews on redirects to [Red][red_redirects] and
-    [Black][black_redirects] (though one complication here is that
-    redirects might not be static, though in this case I wouldn't expect
-    the redirects to be changing much).
-    Likewise there are some effects that should push pageviews *less*
-    toward redirects.
-    For instance, presumably Google and other search engines have gotten
-    better at showing the link to the main article rather than a link to
-    the redirect page.
-
-  * Could views be going to the Simple English Wikipedia?
-    This does not seem to be the case, at least for colors; see the
-    [tabulation on Wikipedia Views][simple_colors].
-
+  * Google Knowledge cards? → Ask people about this in SM survey
+  * Siri? → Ask people
   * Could browsers like Opera Mini be adding pageviews as bots?
     See the ["analytics and proxy/remote browsers"][opera] thread on the
     Analytics mailing list.
     Probably not.
 
-  * See also [pageview definition changes][pageview_defn].
-    I don't think this is a big cause of pageview change.
-    It's also not clear whether pageview definitions are applied
-    retroactively.
+## Search engine rankings
+
+  * Wikipedia showing up less in SERPs? → Try to get access to historical
+    SERPs for some search queries.
+    This actually seems harder to obtain than we first thought.
+
+## Redirects
+
+Could a change in redirects have anything to do with this?
+For instance see ["Consider the Redirect"][ctr]:
+
+> Because viewers don't see redirects, viewing a redirect is
+> substantively different from viewing a normal page. For example, if a
+> user visits the article on "Seattle, Washington", this will be
+> recorded as a view to the redirect even though the target article
+> "Seattle" is displayed. In this sense, views of redirects will tend
+> to be overcounted while views of target articles will tend to be
+> undercounted.
+>
+> [...]
+>
+> Because redirects are edited infrequently but "viewed" as often as
+> millions of times per month each, redirects may be contributing to
+> the surprisingly low correlation between edits and views noted by
+> Priedhorsky et al. and others.
+
+See also ["Analytics/Data/Redirects -- Wikitech"][redirect_spelling]
+
+Could people somehow be viewing redirects more than the actual pages,
+compared to 2011--2013?
+To give one recent example (too recent to matter), the Wikipedia
+article ["New York"][ny] is about the state, not the city.
+However there is a [recent shift][ny_disc] to change all wikilinks
+`[[New York]]` to go through the redirect page
+["New York (state)"][ny_state], with the wikilink
+`[[New York (state)|New York]]`.
+This means that less pageviews will be recorded for the New York page,
+and more will be recorded for the redirect page.
+One idea is that if a sufficiently large number of highly popular pages
+have similar sorts of redirection manipulation, the pageviews for the
+article itself could be going down even while people are reading the
+page more -- the pageview is just being distributed more between the
+main article and its redirect pages.
+
+However my impression is that most pageviews come from search engine
+results pages, and that wikilinks are not used very much.
+See for instance the pageviews on redirects to [Red][red_redirects] and
+[Black][black_redirects] (though one complication here is that
+redirects might not be static, though in this case I wouldn't expect
+the redirects to be changing much).
+Likewise there are some effects that should push pageviews *less*
+toward redirects.
+For instance, presumably Google and other search engines have gotten
+better at showing the link to the main article rather than a link to
+the redirect page.
+
+## Simple English Wikipedia
+
+Could views be going to the Simple English Wikipedia?
+This does not seem to be the case, at least for colors; see the
+[tabulation on Wikipedia Views][simple_colors].
+
+## Changes in pageview definition
+
+See also [pageview definition changes][pageview_defn].
+I don't think this is a big cause of pageview change.
+It's also not clear whether pageview definitions are applied
+retroactively.
 
 # License
 
