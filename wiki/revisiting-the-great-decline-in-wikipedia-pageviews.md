@@ -29,11 +29,9 @@ Data sources:
     In the resulting page, there is a table with a column called "Tag name";
     click the linked tag name to obtain a table with more columns -- one for
     each Wikipedia page in the tag.
-  * Note on stats.grok.se: "stats.grok.se is [just a data
-    visualizer][grok_faq]. Also,
-    \[Vipul doesn't\] think it does ANY bot filtering; any bot filtering is
-    happening at the level of generating the pagecounts-raw dump."
-    (TODO: verify.)
+  * Note on stats.grok.se: stats.grok.se is [just a data visualizer][grok_faq].
+    It uses an [older definition of pageview][old_pv_defn] that does not do any
+    bot or spider filtering.
   * Google Trends (for musicians).
     For more on the Google Trends exports, see the [section in the plotting
     documentation][gt_plot_doc]
@@ -454,6 +452,7 @@ Most permissive license Vipul Naik allows.
 [ny]: https://en.wikipedia.org/wiki/New_York
 [ny_disc]: https://en.wikipedia.org/wiki/Talk:New_York#Proposed_action_to_resolve_incorrect_incoming_links
 [ny_state]: https://en.wikipedia.org/w/index.php?title=New_York_(state)&redirect=no
+[old_pv_defn]: https://phabricator.wikimedia.org/diffusion/ANME/browse/master/pageviews/webstatscollector/pageview_definition.png
 [opera]: https://lists.wikimedia.org/pipermail/analytics/2016-June/005247.html
 [pageview_defn]: https://meta.wikimedia.org/wiki/Research:Page_view#Change_log "“Research:Page view” § Change log. Wikimedia Meta-wiki. Retrieved September 26, 2016."
 [peak_gist]: https://gist.github.com/riceissa/c47656af388120f4b5bbc4eba1ffc5ab
