@@ -35,7 +35,7 @@ Data sources:
 
     > was maintained by Domas Mituzas originally and taken over by the
     > analytics team.  It was and still is the most used dataset, though it has
-    > some majore problems.  It does not count access to the mobile site, it
+    > some \[major\] problems.  It does not count access to the mobile site, it
     > does not filter out spider or bot traffic, and it suffers from unknown
     > loss due to logging infrastructure limitations.
 
