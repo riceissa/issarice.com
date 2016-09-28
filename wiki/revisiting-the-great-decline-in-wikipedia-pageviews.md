@@ -67,6 +67,14 @@ version)"][great_decline_full]:
 
 # Surveys
 
+As mentioned in the introduction, our two main investigation methods were
+plotting pageviews in various ways and conducting several surveys.
+This section gives an overview of the surveys and lists the questions for each
+survey for reference.
+Since both the plots and the surveys were used to test various hypotheses about
+the "great decline", the actual discussions about the survey results are
+separately embedded in the various discussions about these hypotheses.
+
 Several surveys:
 
   * A Google Consumer Surveys survey of a US audience (without any demographic
