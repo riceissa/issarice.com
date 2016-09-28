@@ -320,7 +320,8 @@ the others not directly covered will turn out to be less relevant
 
 We plotted the $\log_{10}$ pageviews from December 2007 to August 2016 by
 varying each of the following parameters.
-Pick one option from each of the following bullet points to produce a single
+All of the plots are [listed in a directory][plots_all].
+Pick one option from each of the following bullet points to arrive at a single
 plot.
 
   * Tag-language combination; 16 in all.
