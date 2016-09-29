@@ -632,6 +632,24 @@ I don't think this is a big cause of pageview change.
 It's also not clear whether pageview definitions are applied
 retroactively.
 
+# Further lines of exploration
+
+This section lists various ideas for other explorations we did a bit of, or
+considered doing but ran out of time for.
+
+  * Comparison of Wikipedia pageviews for annual events close to the day of
+    those events, and how those numbers have changed over the years (e.g.,
+    traffic to the Black Friday page on Black Friday, etc.)
+  * Comparison of traffic to the Wikipedia page of a news event relative to
+    other objective measures of how "big" it became, to get a sense of the
+    importance of Wikipedia in covering breaking news events
+  * Weekday/weekend traffic variation on Wikipedia -- has Wikipedia weekday
+    traffic changed over time differently than Wikipedia weekend traffic?
+    Actually {weekday, weekend} X {desktop, mobile} X {now, earlier} so 2 X 2 X
+    2 combinations
+  * Correlating changes to page size, quality, and editorial activity on pages
+    to traffic to that page
+
 # Acknowledgements
 
 Thanks from Issa Rice to Vipul Naik for sponsoring Issa's work on this post.
