@@ -9,7 +9,7 @@ date: 2016-09-28
 # Summary
 
 In March 2015 one of us (Vipul Naik) wrote ["The great decline in Wikipedia
-pageviews"][great_decline].
+pageviews"][great_decline_full] (called "the original post" in this post).
 This post is intended as an update to some of the points from that article,
 along with some graphs.
 
@@ -27,13 +27,13 @@ extent in this post:
 
 # Why is this important?
 
-Vipul discusses several motivations for looking at Wikipedia pageviews in his
-[original post][great_decline_full].
+The [original post][great_decline_full] discusses several motivations for
+looking at Wikipedia pageviews.
+You can read that post for more details, but to summarize, Wikipedia pageviews
+are useful as a way to understand:
 
-Wikipedia pageviews are useful as a way to:
-
-  * Understand what people are interested in learning about
-  * Understanding the overall growth of the internet
+  * what people are interested in learning about
+  * the overall growth of the internet
 
 We have been interested in this and one of us (Vipul) has written other
 articles such as ["How to Understand Your Website Traffic Variation with
