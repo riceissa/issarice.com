@@ -447,6 +447,9 @@ pageviews to increase back to the level of 2011--2013 pageviews.
 
 ## Non-human traffic
 
+Vipul: bots usually account for \< 20% of traffic and almost always for \< 40%
+of traffic.
+
 We also plotted the same plot with the addition of spiders.
 This "addition" only makes sense for the mobile pageviews and the 2016
 pageviews for desktop because the pageviews from stats.grok.se already include
