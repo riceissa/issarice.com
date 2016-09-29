@@ -55,10 +55,10 @@ pageviews data in places such as:
 
   * the ["Wikimedia project at a glance"][at_a_glance] page, which has a plot
     for the total pageviews on the English Wikipedia since 2008 (both of Erik
-    Zachte's plots below come from this page),
+    Zachte's plots below come from this page)
   * the [Vital Signs dashboard][vital_signs], which is more interactive but
-    only has pageviews data starting July 1, 2015, and
-  * the [Wikipedia monthly combined chart][combined_table].
+    only has pageviews data starting July 1, 2015
+  * the [Wikipedia monthly combined chart][combined_table]
 
 ![Page views: 7,948 million per month = 265 million per day = 11.0 million per
 hour = 184 thousand per minute = 3.1 thousand per second.
