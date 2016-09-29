@@ -57,6 +57,15 @@ Other statistics for various overall growth can be found on the [Wikipedia
 Statistics page][wikipedia_statistics], e.g. there is a page on the [size of
 Wikipedia][size_of_wp].
 
+![Page views: 7,948 million per month = 265 million per day = 11.0 million per
+hour = 184 thousand per minute = 3.1 thousand per second Metrics have been
+normalized to months of 30 days: Jan*30/31, Feb*30/(28|29), Mar*30/31, etc.
+Plot by Erik Zachte. Plot is in the public
+domain.](http://issarice.com/PlotPageviewsEN.png)
+
+![Plot by Erik Zachte. Plot is in the public
+domain.](http://issarice.com/PlotTotalArticlesEN.png)
+
 On the other hand, pageviews data for specific pages are available in various
 forms:
 
