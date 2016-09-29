@@ -15,11 +15,15 @@ along with some graphs.
 
 # The central puzzle
 
+The central puzzle has not changed much since the original post, but to be
+explicit, here are the questions we originally had and hope to answer to some
+extent in this post:
+
   * Have desktop pageviews actually declined?
-  * What can explain the decline?
+  * What can explain the observed decline in desktop pageviews?
   * Have overall pageviews declined?
-  * Do people subjectively feel they are using Wikipedia less? How do we square
-    their subjective impressions with the stats?
+  * Do people subjectively feel they are using Wikipedia less?
+    How do we square their subjective impressions with the stats?
 
 # Why is this important?
 
