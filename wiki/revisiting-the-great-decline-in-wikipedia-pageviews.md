@@ -384,7 +384,7 @@ plot.
     number of days in that month.
     It is the $\log_{10}$ of this value that is then taken and plotted.
 
-There are $16 \times 4 \times 2 \times 4 = 512$ plots in all.
+There are 16 × 4 × 2 × 4 = 512 plots in all.
 
 For example, the file [`americanpundits_total_top_3.png`][pundits_img] would be
 the
