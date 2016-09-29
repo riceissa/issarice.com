@@ -47,15 +47,14 @@ Overall pageviews data (i.e. the summed pageviews of all pages within each
 combination of language and access type) are available separately from
 pageviews data of specific pages.
 The Wikimedia Foundation publishes some of the pageview statistics for overall
-pageviews data in places such as the ["Wikimedia project at a
-glance"][at_a_glance] page, which has a plot for the total pageviews on the
-English Wikipedia since 2008,
-the [Vital Signs dashboard][vital_signs], which is more interactive but only
-has pageviews data starting July 1, 2015,
-and the [Wikipedia monthly combined chart][combined_table].
-Other statistics for various overall growth can be found on the [Wikipedia
-Statistics page][wikipedia_statistics], e.g. there is a page on the [size of
-Wikipedia][size_of_wp].
+pageviews data in places such as:
+
+  * the ["Wikimedia project at a glance"][at_a_glance] page, which has a plot
+    for the total pageviews on the English Wikipedia since 2008 (both of Erik
+    Zachte's plots below come from this page),
+  * the [Vital Signs dashboard][vital_signs], which is more interactive but
+    only has pageviews data starting July 1, 2015, and
+  * the [Wikipedia monthly combined chart][combined_table].
 
 ![Page views: 7,948 million per month = 265 million per day = 11.0 million per
 hour = 184 thousand per minute = 3.1 thousand per second.
@@ -63,6 +62,10 @@ Metrics have been normalized to months of 30 days: Jan\*30/31, Feb\*30/(28|29),
 Mar\*30/31, etc.
 Plot by Erik Zachte.
 Plot is in the public domain.](http://issarice.com/PlotPageviewsEN.png)
+
+Other statistics for various overall growth can be found on the [Wikipedia
+Statistics page][wikipedia_statistics], e.g. there is a page on the [size of
+Wikipedia][size_of_wp].
 
 ![Plot by Erik Zachte. Plot is in the public
 domain.](http://issarice.com/PlotTotalArticlesEN.png)
