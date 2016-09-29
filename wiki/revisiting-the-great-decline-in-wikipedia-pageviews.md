@@ -108,8 +108,7 @@ that we *do* have for specific pages because:
 
 # What has changed since March 2015?
 
-Vipul said in ["The great decline in Wikipedia pageviews (full
-version)"][great_decline_full]:
+The [original post][great_decline_full]:
 
 > Although the data is available, it’s not currently in an easily computable
 > form, and I don’t currently have the time and energy to extract it. I’ll
