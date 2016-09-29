@@ -47,9 +47,9 @@ consider.
 
 # Overall pageviews vs pageviews of specific pages
 
-Overall pageviews data (i.e. the summed pageviews of all pages within each
-combination of language and access type) are available separately from
-pageviews data of specific pages.
+Overall pageviews data, i.e. the summed pageviews of all pages within each
+combination of language and access type (desktop, mobile), are available
+separately from pageviews data of specific pages.
 The Wikimedia Foundation publishes some of the pageview statistics for overall
 pageviews data in places such as:
 
