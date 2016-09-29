@@ -452,14 +452,9 @@ Note that the Wikimedia Pageview API makes the distinction between "bot" and
 "spider", but we couldn't find pages for which the "bot" traffic was nonzero,
 so we simply excluded the pageviews identified as "bot"; as far as we know,
 "spider" means "not human".
-These were only included from January 2016, because stats.grok.se did its own
-filtering for bot traffic; we looked at a few pages, and our impression is that
-the aggressiveness of non-human traffic filtering of stats.grok.se is
-below that of the current Wikimedia Pageview API.
-In other words, had stats.grok.se continued to report their pageviews in the
-same way, we suspect its values would be somewhere between what the Wikimedia
-Pageview API would report for desktop user (lower bound, aggressive filtering)
-and desktop user + desktop spider (upper bound, no filtering).
+We ended up including these spider pageviews from January 2016 for both desktop
+and mobile spiders, although it would have also made sense to include the
+mobile spiders starting in July 2015.
 
 Here is a classification of the tags we looked at based on whether there was
 a rebound to 75th percentile or higher July 2015 or later:
