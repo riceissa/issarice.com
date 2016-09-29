@@ -615,7 +615,7 @@ However our impression is that most pageviews come from search engine
 results pages, and that wikilinks are not used very much.
 See for instance the pageviews on redirects to [Red][red_redirects] and
 [Black][black_redirects] (though one complication here is that
-redirects might not be static, though in this case I wouldn't expect
+redirects might not be static, though in this case we wouldn't expect
 the redirects to be changing much).
 Likewise there are some effects that should push pageviews *less*
 toward redirects.
@@ -632,7 +632,7 @@ This does not seem to be the case, at least for colors; see the
 ## Changes in pageview definition
 
 See also [pageview definition changes][pageview_defn].
-I don't think this is a big cause of pageview change.
+We don't think this is a big cause of pageview change.
 It's also not clear whether pageview definitions are applied
 retroactively.
 
