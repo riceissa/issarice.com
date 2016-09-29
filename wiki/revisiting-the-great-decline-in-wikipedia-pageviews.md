@@ -436,12 +436,16 @@ Adding on the Wikimedia Pageview API data for desktop from January 2016 to the
 present shows that this trend seems to continue, but we think the Pageview API
 imposes a stricter filter on bots/spiders.
 
+## Shift to mobile
+
 On the other hand, if we add in the mobile data, we see that predictably there
 is a  "bump" starting in July 2015, when the mobile data started; this bump is
 more gradual the longer the window size of the rolling mean is.
 However, for some classes of pages, even adding in the mobile data -- while
 causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
+
+## Non-human traffic
 
 We also plotted the same plot with the addition of spiders.
 This "addition" only makes sense for the mobile pageviews and the 2016
@@ -510,10 +514,6 @@ line](http://ram.issarice.com/~issa/pageview_plots/cities_total_spider_top_1.png
 rebound; all of the months with pageviews in the top quartile are in 2013 at
 the
 latest](http://ram.issarice.com/~issa/pageview_plots/colors_total_spider_1.png)
-
-## Shift to mobile
-
-## Non-human traffic
 
 # Other hypotheses
 
