@@ -646,7 +646,7 @@ considered doing but ran out of time for.
   * Weekday/weekend traffic variation on Wikipedia -- has Wikipedia weekday
     traffic changed over time differently than Wikipedia weekend traffic?
     Actually {weekday, weekend} × {desktop, mobile} × {now, earlier} so 2 × 2 ×
-    2 combinations
+    2 = 8 combinations
   * Correlating changes to page size, quality, and editorial activity on pages
     to traffic to that page
 
