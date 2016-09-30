@@ -80,7 +80,8 @@ before 2016      I mostly listen to mainstream Western music from a few
                  Surprises", "Karma Police", "Exit Music (for A Film)")
 
 2016-09          *Girls und Panzer* OST, Ed Sheeran's *x* ("Thinking
-                 Out Loud", "The Man").
+                 Out Loud", "The Man"), Neil Young's *After The Gold Rush*
+                 ("After the Gold Rush").
 -------------------------------------------------------------------------------
 
 # History
