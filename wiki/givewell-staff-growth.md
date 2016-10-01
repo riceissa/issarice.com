@@ -8,7 +8,9 @@ This page looks at GiveWell's staff growth over the years.
 The data is from the [Our People](http://givewell.org/about/people) page, retrieved using the [Wayback Machine](https://archive.org/).
 The page seems to have been created in mid-2010, so that's where the table starts (and before that, the number was presumably 2--4 anyway).
 This is meant to be illustrative and not comprehensive.
-Care was taken to detect the first point in time when an employee appeared or disappeared from a page, so the above table should be generally accurate but probably not completely so.
+Care was taken to detect the first point in time when an employee appeared or
+disappeared from a page, so the above table should be generally accurate but
+probably not completely so (feel free to [contact me](contact) about errors).
 The Wayback Machine also had spotty coverage that lacked several months.
 Note also that sometime between mid-August and mid-September in 2016, GiveWell
 removed a bunch of their employees from the Our People page.
