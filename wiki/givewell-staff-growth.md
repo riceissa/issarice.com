@@ -12,12 +12,16 @@ Care was taken to detect the first point in time when an employee appeared or
 disappeared from a page, so the above table should be generally accurate but
 probably not completely so (feel free to [contact me](contact) about errors).
 The Wayback Machine also had spotty coverage that lacked several months.
-Note also that sometime between mid-August and mid-September in 2016, GiveWell
-removed a bunch of their employees from the Our People page.
+
+At some point between mid-August and mid-September in 2016, GiveWell removed a
+bunch of their employees from the Our People page.
 My guess is that they are the ones who mainly do work on the Open Philanthropy
 Project.
 They seem to be listed separately on the Open Phil ["Team"][open_phil_team]
 page.
+For this reason, I have stopped adding to the original table (the first table
+below) and have instead started a new table starting at September 10, 2016 (the
+second table below).
 
 # Tables
 
@@ -48,14 +52,31 @@ Date           Num          Diff
 2016-06-25   35     $(-2, +6)$
 2016-07-23   37     $(-1, +3)$
 2016-08-13   36     $(-2, +1)$
-2016-09-10   20     ---
 
-Table: Growth of GiveWell. 'Num' is the number of full-time staff, 'Diff' is the
+Table: Growth of GiveWell, June 2010 -- August 2016.
+'Num' is the number of full-time staff, 'Diff' is the
 difference in 'Num' relative to the previous month and is given in the form
 $(-x,y)$, where $x$ is the number full-time staff that left and $y$ is the
 number of full-time staff that joined.
 
-Since September 2016 I have kept track of separate employee counts.
+Since September 2016 I have kept track of separate employee counts for GiveWell
+and Open Phil.
+A couple of notes:
+
+  * Kaitlyn and Mike Krieger are counted as two people even though they are
+    listed together on one page on the Open Phil Team page.
+  * I have used some notation from set theory.
+    The idea is that you can think of GW and OP below as the sets of employees
+    of GiveWell and Open Phil, respectively.
+    There are some employees, like Holden Karnofsky, who are in both sets.
+    Intersecting these sets, one obtains GW ∩ OP, the set of employees of
+    *both* organizations.
+    We can also subtract the OP set from the GW set, obtaining GW \\ OP, the
+    set of employees of only GW.
+    To get the employees who are in GW regardless of whether they are in OP,
+    just add the numbers for GW ∩ OP and GW \\ OP.
+  * I have merged the Diff column into the Num column (to use the terminology
+    of the previous table) of each set.
 
 Date               GW ∩ OP        GW \\ OP       OP \\ GW
 -----------  -------------  --------------  -------------
@@ -63,8 +84,6 @@ Date               GW ∩ OP        GW \\ OP       OP \\ GW
 2016-10-01   2 $(-0,+0)$    19 $(-0,+1)$    20 $(-0,+0)$
 
 Table: Growth of GiveWell and Open Phil.
-Kaitlyn and Mike Krieger are counted as two people even though they are
-listed on one page on the Open Phil Team page.
 
 # Plots
 
