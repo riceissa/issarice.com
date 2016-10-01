@@ -31,6 +31,13 @@ Just some notes for now.
     a new machine, then it probably makes sense to try to copy over some config
     files.
     See also <http://sstephenson.us/posts/on-configuration>.
+    Rob Pike says something interesting in an interview
+    <https://usesthis.com/interviews/rob.pike/>:
+
+    > I don't install a lot of extra stuff on those Macs, mostly to reduce
+    > maintenance. I like the freedom to wipe and reinstall without losing my
+    > world
+
   <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and GMail once, then Firefox will remember a much larger fraction of the --> 
 
 # External links
