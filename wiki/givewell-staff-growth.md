@@ -53,6 +53,17 @@ difference in 'Num' relative to the previous month and is given in the form
 $(-x,y)$, where $x$ is the number full-time staff that left and $y$ is the
 number of full-time staff that joined.
 
+Since September 2016 I have kept track of separate employee counts.
+
+Date               GW ∩ OP        GW \\ OP       OP \\ GW
+-----------  -------------  --------------  -------------
+2016-09-10   2              18              20
+2016-10-01   2 $(-0,+0)$    19 $(-0,+1)$    20 $(-0,+0)$
+
+Table: Growth of GiveWell and Open Phil.
+Kaitlyn and Mike Krieger are counted as two people even though they are
+listed on one page on the Open Phil Team page.
+
 # Plots
 
 The following is a plot of the table above (which is better in some sense because it indicates the gaps when the employee count did not change):
