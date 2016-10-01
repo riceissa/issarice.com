@@ -71,14 +71,14 @@ A couple of notes:
     There are some employees, like Holden Karnofsky, who are in both sets.
     Intersecting these sets, one obtains GW ∩ OP, the set of employees of
     *both* organizations.
-    We can also subtract the OP set from the GW set, obtaining GW \\ OP, the
+    We can also subtract the OP set from the GW set, obtaining GW ∖ OP, the
     set of employees of only GW.
     To get the employees who are in GW regardless of whether they are in OP,
-    just add the numbers for GW ∩ OP and GW \\ OP.
+    just add the numbers for GW ∩ OP and GW ∖ OP.
   * I have merged the Diff column into the Num column (to use the terminology
     of the previous table) of each set.
 
-Date               GW ∩ OP        GW \\ OP       OP \\ GW
+Date               GW ∩ OP         GW ∖ OP        OP ∖ GW
 -----------  -------------  --------------  -------------
 2016-09-10   2              18              20
 2016-10-01   2 $(-0,+0)$    19 $(-0,+1)$    20 $(-0,+0)$
