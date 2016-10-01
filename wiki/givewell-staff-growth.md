@@ -17,7 +17,7 @@ Project.
 They seem to be listed separately on the Open Phil ["Team"][open_phil_team]
 page.
 
-# Table
+# Tables
 
 Date           Num          Diff
 -----------  -----  ------------
