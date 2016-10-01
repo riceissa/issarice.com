@@ -78,11 +78,13 @@ before 2016      I mostly listen to mainstream Western music from a few
 
 2016-07          Radiohead: *OK Computer* ("Subterranean Homesick Alien", "No
                  Surprises", "Karma Police", "Exit Music (for A Film)")
-
-2016-09          *Girls und Panzer* OST, Ed Sheeran's *x* ("Thinking
-                 Out Loud", "The Man"), Neil Young's *After The Gold Rush*
-                 ("After the Gold Rush").
 -------------------------------------------------------------------------------
+
+# September 2016
+
+  * *Girls und Panzer* OST
+  * Ed Sheeran's *x* ("Thinking Out Loud", "The Man")
+  * Neil Young's *After The Gold Rush* ("After the Gold Rush")
 
 # History
 
