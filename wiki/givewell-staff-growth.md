@@ -83,7 +83,7 @@ Date               GW ∩ OP        GW \\ OP       OP \\ GW
 2016-09-10   2              18              20
 2016-10-01   2 $(-0,+0)$    19 $(-0,+1)$    20 $(-0,+0)$
 
-Table: Growth of GiveWell and Open Phil.
+Table: Growth of GiveWell and Open Phil since September 2016.
 
 # Plots
 
