@@ -40,6 +40,16 @@ It's possible to use `:g/pattern` to search for an expression in the current buf
 For markdown files, just type `:g/^#` to see all headers, for instance.
 Then, once one has found the heading one was looking for, note the line number (say, 10) and then type `:10<CR>` to get there.
 
+To generate the headings in a new split window, do something like this:
+
+    :redir @a
+    :silent global/^#/print
+    :redir END
+    :vnew | put a
+    :g/^$/d
+
+Then save it in a file and `:source` it, or yank it and execute with `@"`.
+
 # Plugins or not?
 
 *Note, this section isn't balanced.*
