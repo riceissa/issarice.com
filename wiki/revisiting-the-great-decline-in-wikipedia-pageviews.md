@@ -39,7 +39,8 @@ We have been interested in this and one of us (Vipul) has written other
 articles such as ["How to Understand Your Website Traffic Variation with
 Time"][traffic_var_time] on wikiHow.
 
-As content creators, one of the appeals of writing articles for Wikipedia is
+As content creators and more recently as a [funder of content creation
+work][cover_summary], one of the appeals of writing articles for Wikipedia is
 that they receive more pageviews than if the same articles are hosted on
 another site (such as a personal site).
 However if Wikipedia's viewership is actually declining, this is something to
@@ -703,6 +704,7 @@ Most permissive license Vipul Naik allows.
 [at_a_glance]: https://stats.wikimedia.org/EN/SummaryEN.htm "“Wikimedia project at a glance”."
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
 [combined_table]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm
+[cover_summary]: https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/contributor-cover-summary.mediawiki "Vipul Naik. “Contributor cover summary”. Last updated September 20, 2016."
 [ctr]: http://dl.acm.org/citation.cfm?doid=2641580.2641616 "Benjamin Mako Hill and Aaron Shaw. “Consider the Redirect: A Missing Dimension of Wikipedia Research”. 2014."
 [delete_log]: http://security.stackexchange.com/questions/23543/what-user-information-does-wikipedia-retain-when-a-page-is-viewed "Question asked by user Strapakowsky. “What user information does Wikipedia retain when a page is viewed?” Information Security Stack Exchange. November 3, 2012."
 [dummy_sm_1]: https://www.surveymonkey.com/r/G88QDCM "“Web and Wikipedia usage changes over time”. SurveyMonkey."
