@@ -452,6 +452,8 @@ The expected bump is
 
 $$\log_{10}(d+m) - \log_{10} d = \log_{10}(1+m/d) = -\log_{10}(1 - m/(m+d))$$
 
+where *d*, *m* are the desktop and mobile pageviews, respectively.
+
 Table: Percent of mobile views for each tag, for the period
 July 2015 -- August 2016.
 
