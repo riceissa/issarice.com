@@ -448,6 +448,10 @@ However, for some classes of pages, even adding in the mobile data -- while
 causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
 
+Tag                        % views mobile
+--------                  ---------------
+Colors                      46
+
 ## Non-human traffic
 
 Vipul: bots usually account for \< 20% of traffic and almost always for \< 40%
