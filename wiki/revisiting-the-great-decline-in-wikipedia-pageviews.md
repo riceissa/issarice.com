@@ -450,7 +450,22 @@ pageviews to increase back to the level of 2011--2013 pageviews.
 
 Tag                        % views mobile
 --------                  ---------------
-Colors                      46
+Programming languages           12
+Compiler theory                 29
+Philanthropic foundations       34
+French colors                   40
+German colors                   42
+Cities                          45
+Countries                       45
+Colors                          46
+Spanish colors                  49
+Shooting-related                50
+US presidents                   52
+American pundits                53
+US politicians                  56
+Eggplant dishes                 57
+Musicians                       58
+Sex organs                      69
 
 ## Non-human traffic
 
