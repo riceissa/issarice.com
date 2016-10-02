@@ -80,11 +80,14 @@ forms:
   * Raw dumps are most consistently available in various datasets such as
 
       * pagecounts-raw (December 10, 2007 -- August 5, 2016), which only
-        includes desktop pageviews and does not exclude bots
+        includes desktop pageviews and does not allow for identification of
+        bots
       * pagecounts-all-sites (September 23, 2014 -- August 5, 2016), which
-        includes desktop as well as mobile pageviews but does not exclude bots
+        includes desktop as well as mobile pageviews but does not allow for
+        identification of bots
       * pageviews (starting May 1, 2015), which includes desktop as well as
-        mobile pageviews and excludes bots, but only recently became available
+        mobile pageviews and allows for identification of bots, but only
+        recently became available
 
     However all of these datasets are difficult to manage due to their large
     file sizes.
