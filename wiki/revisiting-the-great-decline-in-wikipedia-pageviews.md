@@ -683,7 +683,7 @@ Thanks from Issa Rice to Vipul Naik for sponsoring Issa's work on this post.
 
 Most permissive license Vipul Naik allows.
 
-[ana]: https://en.wikipedia.org/wiki/User:Riceissa/Timeline_of_Wikipedia_analytics "“User:Riceissa/Timeline of Wikipedia analytics - Wikipedia, the free encyclopedia”."
+[ana]: https://meta.wikimedia.org/wiki/Research:Timeline_of_Wikimedia_analytics "“Research:Timeline of Wikimedia analytics”. Wikimedia Meta-wiki."
 [at_a_glance]: https://stats.wikimedia.org/EN/SummaryEN.htm "“Wikimedia project at a glance”."
 [black_redirects]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Pages%20that%20redirect%20to%20Black&language=en&device=desktop&allyears=allyears
 [combined_table]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm
