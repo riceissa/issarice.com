@@ -448,6 +448,9 @@ However, for some classes of pages, even adding in the mobile data -- while
 causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
 
+Table: Percent of mobile views for each tag, for the period
+July 2015 -- August 2016.
+
 Tag                        % views mobile
 --------                  ---------------
 Programming languages           12
