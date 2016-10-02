@@ -449,7 +449,6 @@ causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
 
 The expected bump is
-
 $$\log_{10}(d+m) - \log_{10} d = \log_{10}(1+m/d) = -\log_{10}(1 - m/(m+d))$$
 
 where *d*, *m* are the desktop and mobile pageviews, respectively.
