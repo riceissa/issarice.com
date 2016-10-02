@@ -49,6 +49,20 @@ To generate the headings in a new split window, do something like this:
     :g/^$/d
 
 Then save it in a file and `:source` it, or yank it and execute with `@"`.
+You can also view the output at any time without putting it in a new window
+using `:echo @a`.
+For some reason, chaining the above commands like
+
+    :redir @a | silent global/^#/print | redir END
+
+only captures the first line of output from the `:global` command.
+I think it's because `:global` tries to use everything after it as the ex
+command it executes.
+Doing
+
+    :redir @a | silent global/^#/print \| redir END
+
+seems to work.
 
 # Plugins or not?
 
