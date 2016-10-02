@@ -39,6 +39,7 @@ We have been interested in this and one of us (Vipul) has written other
 articles such as ["How to Understand Your Website Traffic Variation with
 Time"][traffic_var_time] on wikiHow.
 
+A more recent motivation for us is the following.
 As content creators and more recently as a [funder of content creation
 work][cover_summary], one of the appeals of writing articles for Wikipedia is
 that they receive more pageviews than if the same articles are hosted on
