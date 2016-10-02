@@ -448,27 +448,31 @@ However, for some classes of pages, even adding in the mobile data -- while
 causing the desktop "decline" to become mostly flat -- did not cause the
 pageviews to increase back to the level of 2011--2013 pageviews.
 
+The expected bump is
+
+$$\log_{10}(d+m) - \log_{10} d = \log_{10}(1+m/d) = -\log_{10}(1 - m/(m+d))$$
+
 Table: Percent of mobile views for each tag, for the period
 July 2015 -- August 2016.
 
-Tag                        % views mobile
---------                  ---------------
-Programming languages           12
-Compiler theory                 29
-Philanthropic foundations       34
-French colors                   40
-German colors                   42
-Cities                          45
-Countries                       45
-Colors                          46
-Spanish colors                  49
-Shooting-related                50
-US presidents                   52
-American pundits                53
-US politicians                  56
-Eggplant dishes                 57
-Musicians                       58
-Sex organs                      69
+Tag                        % views mobile        Expected bump
+--------                  ---------------      ---------------
+Programming languages           12               0.06
+Compiler theory                 29               0.15
+Philanthropic foundations       34               0.18
+French colors                   40               0.22
+German colors                   42               0.24
+Cities                          45               0.26
+Countries                       45               0.26
+Colors                          46               0.27
+Spanish colors                  49               0.29
+Shooting-related                50               0.30
+US presidents                   52               0.32
+American pundits                53               0.33
+US politicians                  56               0.36
+Eggplant dishes                 57               0.37
+Musicians                       58               0.38
+Sex organs                      69               0.51
 
 ## Non-human traffic
 
