@@ -85,7 +85,7 @@ forms:
     December 2015.
   * From the Wikimedia Pageview API starting July 1, 2015.
 
-In other words, if we want to look at the mobile pageviews data for specific
+If we want to look at the mobile pageviews data for specific
 pages between September 23, 2014 (when pagecounts-all-sites started) and the
 end of June 2015 (after which the Wikimedia Pageview API was launched), the
 only thing we can do is to try to process the raw dumps, which we did not do as
