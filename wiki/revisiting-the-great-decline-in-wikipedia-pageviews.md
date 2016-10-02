@@ -139,7 +139,7 @@ Data sources:
   * comScore data, WMF overall numbers
   * Google Consumer Surveys and SurveyMonkey Audience
 
-See also the [timeline of Wikipedia analytics][ana] that was created as part of
+See also the [timeline of Wikimedia analytics][ana] that was created as part of
 this process.
 
 # Surveys
