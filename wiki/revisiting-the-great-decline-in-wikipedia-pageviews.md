@@ -3,7 +3,7 @@ title: Revisiting the “great decline” in Wikipedia pageviews
 author:
   - Vipul Naik
   - Issa Rice
-date: 2016-09-28
+date: 2016-10-02
 ---
 
 # Summary
