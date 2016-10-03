@@ -117,7 +117,7 @@ that we *do* have for specific pages because:
     various types of pages.
   * There is enough data now from the Wikimedia Pageview API to make the graphs
     interesting to look at.
-    (See § [Shift to mobile](#shift-to-mobile).)
+    (See [§ Shift to mobile](#shift-to-mobile).)
 
 # What has changed since March 2015?
 
