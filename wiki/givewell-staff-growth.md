@@ -1,7 +1,7 @@
 ---
 title: GiveWell staff growth
 author: Issa Rice
-date: 2016-08-18
+date: 2016-10-01
 ---
 
 This page looks at GiveWell's staff growth over the years.
