@@ -98,6 +98,19 @@ forms:
     December 2015.
   * From the Wikimedia Pageview API starting July 1, 2015.
 
+In other words, the situation is slightly more complicated for per-page
+pageviews, and there are fewer ready-made plots available for analysis.
+On the other hand, looking at the overall pageviews data has more interference
+from new pages being created.
+Specific pages that have been around for almost all of the period we look at,
+such as pages for colors or countries, don't have this particular form of
+interference.
+Another benefit of looking at specific pages is that their full revision
+history is more manageable.
+This means that if, say, a large part of a page was siphoned off to another
+page and resulted in fewer pageviews for the original page, this can be
+detected.
+
 If we want to look at the mobile pageviews data for specific
 pages between September 23, 2014 (when pagecounts-all-sites started) and the
 end of June 2015 (after which the Wikimedia Pageview API was launched), the
@@ -109,10 +122,6 @@ We are therefore working with rather limited data.
 Nevertheless we still think it's worth looking at the mobile pageviews data
 that we *do* have for specific pages because:
 
-  * Looking at the overall pageviews data has more interference from new pages
-    being created.
-    Pages that have been around for almost all of the period we look at, such
-    as pages for colors or countries, have less interference.
   * One thing we wanted to look at is the mobile-to-desktop pageviews ratio of
     various types of pages.
   * There is enough data now from the Wikimedia Pageview API to make the graphs
