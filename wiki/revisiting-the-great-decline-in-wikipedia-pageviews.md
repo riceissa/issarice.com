@@ -137,6 +137,11 @@ that we *do* have for specific pages because:
     interesting to look at.
     (See [§ Shift to mobile](#shift-to-mobile).)
 
+In the LessWrong version of the original post, [Strilanc commented][stri_com]:
+
+> Could you convert the tables into graphs, please? It's much harder to see
+> trends in lists of numbers.
+
 # How we investigated this
 
 Data sources:
@@ -742,6 +747,7 @@ Most permissive license Vipul Naik allows.
 [redirect_spelling]: https://wikitech.wikimedia.org/wiki/Analytics/Data/Redirects#Other_spellings_covered_by_a_redirect_page "“Analytics/Data/Redirects - Wikitech”."
 [simple_colors]: http://wikipediaviews.org/displayviewsformultipleyears.php?tag=Colors&language=simple&device=desktop&allyears=allyears
 [size_of_wp]: https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia "“Wikipedia:Size of Wikipedia”. Wikipedia."
+[stri_com]: http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/c718
 [traffic_var_time]: http://www.wikihow.com/Understand-Your-Website-Traffic-Variation-with-Time "“How to Understand Your Website Traffic Variation with Time”. wikiHow."
 [vital_signs]: https://analytics.wikimedia.org/dashboards/vital-signs/ "“Vital Signs”."
 [wikipedia_statistics]: https://en.wikipedia.org/wiki/Wikipedia:Statistics "“Wikipedia:Statistics - Wikipedia, the free encyclopedia”."
