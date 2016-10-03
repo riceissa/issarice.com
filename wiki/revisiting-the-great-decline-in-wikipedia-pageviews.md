@@ -111,6 +111,15 @@ This means that if, say, a large part of a page was siphoned off to another
 page and resulted in fewer pageviews for the original page, this can be
 detected.
 
+# What has changed since March 2015?
+
+The [original post][great_decline_full]:
+
+> Although the data is available, it’s not currently in an easily computable
+> form, and I don’t currently have the time and energy to extract it. I’ll
+> update this once the data on all pageviews since September 2014 is available
+> on stats.grok.se or a similar platform.
+
 If we want to look at the mobile pageviews data for specific
 pages between September 23, 2014 (when pagecounts-all-sites started) and the
 end of June 2015 (after which the Wikimedia Pageview API was launched), the
@@ -127,15 +136,6 @@ that we *do* have for specific pages because:
   * There is enough data now from the Wikimedia Pageview API to make the graphs
     interesting to look at.
     (See [§ Shift to mobile](#shift-to-mobile).)
-
-# What has changed since March 2015?
-
-The [original post][great_decline_full]:
-
-> Although the data is available, it’s not currently in an easily computable
-> form, and I don’t currently have the time and energy to extract it. I’ll
-> update this once the data on all pageviews since September 2014 is available
-> on stats.grok.se or a similar platform.
 
 # How we investigated this
 
