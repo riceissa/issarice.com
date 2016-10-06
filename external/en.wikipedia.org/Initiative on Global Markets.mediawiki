@@ -1,4 +1,8 @@
-The '''Initiative on Global Markets''' ('''IGM''') is a research center<ref>{{cite web |url=http://www.kristaseidl.com/university-of-chicago-booth-school-of-business/ |title=Initiative on Global Markets Annual Report |publisher=Krista Seidl Design, Co. |accessdate=July 9, 2016}}</ref> at the [[University of Chicago]] [[Booth School of Business]]. The initiative supports original research on [[international business]], [[financial market]]s, and [[public policy]].<ref>{{cite web |url=http://www.uchicago.edu/research/center/initiative_on_global_markets/ |title=Initiative on Global Markets |publisher=The University of Chicago |accessdate=July 8, 2016}}</ref><ref>{{cite web |url=https://www.povertyactionlab.org/partners/university-chicago-booth-school-business-initiative-global-markets |title=University of Chicago Booth School of Business Initiative on Global Markets |publisher=[[Abdul Latif Jameel Poverty Action Lab]] |accessdate=July 8, 2016}}</ref> The IGM is most famous for the IGM Forum, which conducts polls on top US economists.
+The '''Initiative on Global Markets''' ('''IGM''') is a research center<ref>{{cite web |url=http://www.kristaseidl.com/university-of-chicago-booth-school-of-business/ |title=Initiative on Global Markets Annual Report |publisher=Krista Seidl Design, Co. |accessdate=July 9, 2016}}</ref> at the [[University of Chicago]] [[Booth School of Business]]. The initiative supports original research on [[international business]], [[financial market]]s, and [[public policy]].<ref>{{cite web |url=http://www.uchicago.edu/research/center/initiative_on_global_markets/ |title=Initiative on Global Markets |publisher=The University of Chicago |accessdate=July 8, 2016}}</ref><ref>{{cite web |url=https://www.povertyactionlab.org/partners/university-chicago-booth-school-business-initiative-global-markets |title=University of Chicago Booth School of Business Initiative on Global Markets |publisher=[[Abdul Latif Jameel Poverty Action Lab]] |accessdate=July 8, 2016}}</ref> The IGM is most famous for the IGM Forum, which conducts polls on top US economists. The IGM also organizes and sponsors conferences.<ref>{{cite web |url=https://www.chicagobooth.edu/~/media/5D6639BCEEC84C75820639866F0F168D.pdf |accessdate=October 5, 2016 |title=Initiative on Global Markets: 2010–11 Year in Review}}</ref>
+
+==History==
+
+The Initiative on Global Markets was launched with a founding grant from the Chicago Mercantile Exchange Trust (CME Trust).<ref>{{cite web |url=http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.173.7142 |title=Leveraged Losses: Lessons from the Mortgage Market Meltdown |accessdate=October 5, 2016 |first1=David |last1=Greenlaw |first2=Jan |last2=Hatzius |first3=Anil K. |last3=Kashyap |first4=Hyun Song |last4=Shin |year=2008}}</ref><ref>{{cite web |url=http://philanthropynewsdigest.org/news/chicago-mercantile-exchange-trust-awards-its-first-grants |title=Chicago Mercantile Exchange Trust Awards Its First Grants |publisher=Philanthropy News Digest |accessdate=October 5, 2016 |date=December 14, 2006}}</ref>
 
 ==IGM Forum==
 
@@ -26,25 +30,13 @@ In November 2013, ten new economists joined the IGM Forum.<ref>{{cite web |url=h
 
 The [[George Mason University]] economist [[Bryan Caplan]], writing for the economics blog [[EconLog]], said "its members seem to lean heavily [[Democratic Party (United States)|Democratic]]" and that "the IGM ought to at least explicitly disclose its panelists' political allegiances".<ref>{{cite web |url=http://econlog.econlib.org/archives/2012/07/igm_and_economi.html |author=Bryan Caplan |date=July 27, 2012 |title=IGM, Economic Consensus, and Partisan Bias |publisher=EconLog |accessdate=July 8, 2016}}</ref>
 
-==Notes (remove when done)==
-
-* https://www.google.com/search?q=%22Initiative%20on%20Global%20Markets%22%20site:wikipedia.org#q=%22Initiative+on+Global+Markets%22+new+york+times
-* https://encrypted.google.com/search?hl=en&q=Initiative%20on%20Global%20Markets
-* http://research.chicagobooth.edu/IGM/research/index.aspx
-* http://research.chicagobooth.edu/IGM/index.aspx
-
-Questions:
-
-* when was it founded?
-* who started it/who was involved in founding it?
-* what have they done aside from the IGM Forum?
-
 ==See also==
 
 * [[Professional consensus of economics]]
 
 ==External links==
 
+* [https://research.chicagobooth.edu/igm/ Official website]
 * [http://www.igmchicago.org/ Official website of the IGM Forum]
 
 ==References==
