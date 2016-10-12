@@ -86,8 +86,15 @@ before 2016      I mostly listen to mainstream Western music from a few
   * Ed Sheeran's *x* ("Thinking Out Loud", "The Man")
   * Neil Young's *After The Gold Rush* ("After the Gold Rush")
 
+# October 2016
+
+  * Blur, after seeing it mentioned in a [Facebook comment by Sebastian
+    Nickel][seb_com]
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
 
 The page started out as a collection of music I like to listen to, but considering that my tastes have drifted with the passing of time, I felt it more appropriate to make it a list of music I at one point in time liked listening to.
+
+[seb_com]: https://www.facebook.com/sebastian.nickel.7587/posts/10157584194130026
