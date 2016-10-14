@@ -89,7 +89,7 @@ before 2016      I mostly listen to mainstream Western music from a few
 # October 2016
 
   * Blur, after seeing it mentioned in a [Facebook comment by Sebastian
-    Nickel][seb_com]
+    Nickel][seb_com]. So far I like *Parklife* the best.
 
 # History
 
