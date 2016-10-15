@@ -1,7 +1,7 @@
 ---
 title: Resolving issues with the IRS
 author: Issa Rice
-date: 2016-07-01
+date: 2016-10-15
 ---
 
 This page details my experiences with the IRS as I filed my first tax return.[^tax_2015]
@@ -103,6 +103,10 @@ August 30
         that they are working on my situation and need an additional 45 days,
         and that I don't need to take further action.
       * A CP503 notice dated August 29.
+
+October 15
+:   I received a CP21C notice from the IRS, dated "October 10, 2016".
+    The notice states that my amount due is $0.00.
 
 # External links
 
