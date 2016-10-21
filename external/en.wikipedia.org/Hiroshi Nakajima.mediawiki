@@ -1,0 +1,81 @@
+{{for|the Japanese Olympic fencer|Hiroshi Nakajima (fencer)}}
+{{Infobox President
+|name='''Hiroshi Nakajima'''
+|image = <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+|nationality=[[Japan]]ese
+|order=[[World Health Organization#Directors-General of WHO|Director-General of World Health Organization]]
+|term_start=1988
+|term_end=1998
+|predecessor=[[Halfdan T. Mahler]]
+|successor=[[Gro Harlem Brundtland]]
+|birth_date={{Birth date|1928|5|16|}}
+|birth_place=[[Chiba, Chiba|Chiba]], [[Japan]]
+|death_date= {{Death date and age|2013|1|26|1928|5|16}}
+|death_place= Poitiers, [[France]]
+|spouse=
+|party=
+|vicepresident=
+|signature=Signature of Hiroshi Nakajima.svg
+}}
+<!--Please SEE naming conventions at WP:MOSBIO and MOS:DOCTOR, please do not add details like "Dr." (this includes adding postnominal degrees after name)-->{{nihongo|'''Hiroshi Nakajima'''|中嶋 宏|Nakajima Hiroshi|extra=May 16, 1928 – January 26, 2013}} was a Japanese [[Physician|doctor]] known chiefly for his tenure as Director-General of the [[World Health Organization]].<ref name="martin_nyt">{{cite web |first1=Douglas |last1=Martin |url=http://www.nytimes.com/2013/01/29/world/asia/hiroshi-nakajima-leader-of-world-health-organization-dies-at-84.html |title=Hiroshi Nakajima, Leader of W.H.O., Dies at 84 |publisher=''[[The New York Times]]'' |accessdate=October 17, 2016 |date=January 28, 2013}}</ref>
+
+==Early life and education==
+
+He was born in [[Chiba, Chiba|Chiba]], [[Japan]], on 16 May 1928.
+
+In 1955 Nakajima received his M.D. from [[Tokyo Medical University]], Japan.<ref name="martin_nyt" /> He then studied in Paris.<ref name="nyt1988" />
+
+At some point after 1967, he obtained a PhD in medical sciences in Japan.<ref name="pincock">{{cite journal |url=http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(13)60789-8.pdf |first1=Stephen |last1=Pincock |title=Obituary - Hiroshi Nakajima |date=April 6, 2013 |volume=381 |accessdate=October 19, 2016 |journal=''[[The Lancet]]''}}</ref>
+
+==Professional life==
+
+===Before 1974: France and Japan===
+
+From 1956 or 1958 to 1967 Nakajima worked at the [[French National Institute of Health and Medical Research]]<ref name="nyt1988">{{cite web |url=http://www.nytimes.com/1988/01/15/world/japanese-scientist-will-head-world-health-organization.html |date=January 15, 1988 |title=Japanese Scientist Will Head World Health Organization |publisher=''[[The New York Times]]'' |accessdate=October 18, 2016}}</ref> doing medical and pharmaceutical research.<ref name="lewis_nyt" /> After his stay in France, he returned to Japan and became research director of Nippon Roche, a Japanese subsidiary of [[Hoffmann-La Roche]].<ref name="lewis_nyt" /><ref name="pincock" />
+
+===Early work at WHO===
+
+Nakajima joined [[WHO]] in 1974<ref name="lewis_nyt" /> in the position of Scientist, Drug Evaluation and Monitoring. In 1976, he became Chief of the WHO Drug Policies and Management Unit. It was in this position that he played a key role in developing the concept of [[essential drugs]], as Secretary of the first Expert Committee on the subject.
+
+In 1978<ref name="pincock" /> or 1979,<ref name="lewis_nyt" /> the WHO Regional Committee for the Western Pacific nominated and elected Nakajima as Regional Director, an office he held for two consecutive terms until 1988 when he was elected Director-General of WHO.
+
+===1988–1993: First term as Director-General of WHO===
+
+In January 1988 the WHO executive board selected Nakajima to become Director-General in a 17-to-14 vote over Carlyle Guerra de Macedo of Brazil.<ref name="lewis_nyt">{{cite web |url=http://www.nytimes.com/1988/05/01/world/divided-world-health-organization-braces-for-leadership-change.html?pagewanted=all |date=May 1, 1988 |title=Divided World Health Organization Braces for Leadership Change |publisher=''[[The New York Times]]'' |accessdate=October 19, 2016 |first1=Paul |last1=Lewis}}</ref>
+
+During his leadership at WHO he notoriously had a conflict with then head of the WHO's Global Programme on AIDS (GPA), [[Jonathan Mann (WHO official)|Jonathan Mann]], which resulted in Mann's resignation.<ref>http://videocheck.entropymedia.com/aidssearch?s=mann</ref><ref>{{cite web |url=http://www.nytimes.com/1998/09/04/us/jonathan-mann-aids-pioneer-is-dead-at-51.html |author=Philip J. Hilts |date=September 4, 1998 |title=Jonathan Mann, AIDS Pioneer, Is Dead at 51 |publisher=''[[The New York Times]]'' |accessdate=October 18, 2016 |quote=Eventually, Dr. Mann's zeal on the issue brought him into conflict with the W.H.O. director general, Dr. Hiroshi Nakajima, and, in March 1990, Dr. Mann resigned.}}</ref> Mann thought Nakajima was not aggressive enough in his approach against AIDS.<ref>{{cite web |url=http://www.philly.com/philly/health/AIDS_Pioneer_Among_the_Victims_Jonathan_M_Mann_was_among_the_first_to_warn_of_potential_global_devastationpotential_devastation.html |title=AIDS Pioneer Among the Victims: Jonathan Mann was one of first to warn of potential global devastation |publisher=[[Philly.com]] |accessdate=October 19, 2016 |date=July 18, 2014 |first1=Huntly |last1=Collins}}</ref> Much of the success of the Global Programme on AIDS was attributed to Mann,<ref>{{cite web |url=http://articles.latimes.com/1990-03-20/local/me-446_1_jonathan-mann |title=A Regrettable Resignation |publisher=[[Los Angeles Times]] |accessdate=October 20, 2016 |date=March 20, 1990 |quote=Much of the success was attributed to the energy and flexibility of Mann's highly personal leadership.}}</ref> who had also had autonomy over the Global Programme on AIDS, which Nakajima wanted to take away.<ref>{{cite web |url=http://articles.latimes.com/1990-03-16/news/mn-343_1_aids-program |title=American Chief of AIDS Program Quits in Tiff With WHO Leader |publisher=[[Los Angeles Times]] |accessdate=October 20, 2016 |date=March 16, 1990 |quote=WHO officials said privately that Nakajima wanted to dilute the considerable organizational autonomy that Mann had won for the AIDS program within WHO and that was the basic cause of friction between the two men.}}</ref> Nakajima also limited Mann's budget and travel. Following Mann's resignation, the number of GPA staff dropped from more than 250 to four.<ref>{{cite web |url=http://www.pbs.org/wgbh/pages/frontline/aids/cron/xml/517.xml |title=Jonathan Mann quits WHO |accessdate=October 20, 2016 |publisher=[[Public Broadcasting Service]]}}</ref> This conflict and its impact on WHO's AIDS efforts has been documented as a part of the [[PBS Frontline]] documentary "The age of AIDS".<ref>[http://www.pbs.org/wgbh/pages/frontline/aids/ The Age of AIDS] [[PBS]].</ref>
+
+During his tenure, Nakajima was also accused of being a poor communicator and administrator.<ref name="james_nyt">{{cite web |url=http://www.nytimes.com/1993/01/22/news/22iht-who__0.html |date=January 22, 1993 |title=West Decries Re-election of WHO Chief |publisher=''[[The New York Times]]'' |accessdate=October 18, 2016 |first1=Barry |last1=James}}</ref>
+
+During his first term in 1988, the [[Global Polio Eradication Initiative]] was launched.<ref name="pincock" />
+
+===1993–1998: Second term as Director-General of WHO===
+
+In May 1993, Nakajima was re-elected in a 93-to-58 vote to a second term of office as Director-General. His re-election was opposed by all major donor countries to the WHO including the United States. There was controversy surrounding this re-election because the WHO awarded contracts to executive board members prior to the vote by the executive board in January.<ref>{{cite web |url=http://www.nytimes.com/1993/05/06/world/embattled-japanese-doctor-retains-who-post.html |date=May 6, 1993 |title=Embattled Japanese Doctor Retains W.H.O. Post |publisher=''[[The New York Times]]'' |accessdate=October 18, 2016 |first1=Lawrence K. |last1=Altman}}</ref> An audit was conducted that concluded in March and cleared Nakajima of misusing WHO's finances.<ref>{{cite web |url=http://www.nytimes.com/1993/03/31/world/un-says-inquiry-clears-chief-of-who.html |date=March 31, 1993 |title=U.N. Says Inquiry Clears Chief of W.H.O. |publisher=''[[The New York Times]]'' |accessdate=October 19, 2016}}</ref> Nakajima ran against Mohammed Abdelmoumene,<ref name="james_nyt" /> an Algerian neurologist and Nakajima's deputy who had been fired by Nakajima in August 1992 for "disloyalty".<ref>{{cite web |url=http://www.nytimes.com/1993/01/20/news/20iht-who_.html |date=January 20, 1993 |title=Moral Crisis Looms Over WHO's Director-General |publisher=''[[The New York Times]]'' |accessdate=October 18, 2016 |first1=Robert L.  |last1=Kroon}}</ref>
+
+In 1997, Nakajima announced that he was not seeking another re-election and that his term of office would end in July 1998. He was replaced by [[Gro Harlem Brundtland]] of Norway, whose candidacy was supported by the United States and the European Union.<ref>{{cite web |url=http://news.bbc.co.uk/2/hi/136702.stm |title=New broom at WHO |date=July 21, 1998 |accessdate=October 19, 2016 |publisher=BBC News}}</ref>
+
+==Death==
+
+Nakajima died after a short illness<ref name="martin_nyt"/> in [[Poitiers]], France, on January 26, 2013.<ref>{{cite web |url=http://www.who.int/mediacentre/news/notes/2013/nakajima_death_20130128/en/ |title=Former Director-General of WHO dies: health contributions remembered |publisher=[[World Health Organization]] |accessdate=October 17, 2016 |date=January 28, 2013}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{s-start}}
+{{s-npo}}
+{{succession box|before=[[Halfdan T. Mahler]]|title=Director General of the World Health Organization|years=1988&ndash;1998|after=[[Gro Harlem Brundtland]]}}
+{{S-end}}
+
+{{Authority control}}
+{{DEFAULTSORT:Nakajima, Hiroshi}}
+[[Category:1928 births]]
+[[Category:2013 deaths]]
+[[Category:People from Chiba Prefecture]]
+[[Category:World Health Organization officials]]
+[[Category:Japanese physicians]]
+[[Category:Japanese neuroscientists]]
+[[Category:Recipients of the Order of the Sacred Treasure, 1st class]]
+
+{{Japan-bio-stub}}
+
