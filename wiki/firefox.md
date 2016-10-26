@@ -2,15 +2,14 @@
 title: Firefox
 author: Issa Rice
 created: 2015-08-18
-date: 2016-07-02
+date: 2016-10-26
 ---
 
 # Plugins
 
-- Adblock Plus
+- uBlock Origin
 - Privacy Badger
-- NoScript
-- VimFX
+- NoScript (should I switch to μMatrix?)
 - It's All Text!
 - HTTPS Everywhere
 - ScrapBook
@@ -18,4 +17,7 @@ date: 2016-07-02
 - Zotero
 - Open With
 - DuckDuckGo Plus
-- Pinboard.in
+- Web Developer (for viewing the generated HTML source)
+- Decentraleyes
+- Bookmarklets for: archive.is, Internet Archive, Citewebgen, "expand all" for
+  Facebook comments
