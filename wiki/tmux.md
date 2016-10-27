@@ -1,7 +1,8 @@
 ---
 title: tmux
 author: Issa Rice
-date: 2016-10-26
+date: 2016-10-27
+created: 2016-10-26
 ---
 
 For now, this page is mostly a placeholder.
