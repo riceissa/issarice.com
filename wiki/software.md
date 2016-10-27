@@ -8,7 +8,7 @@ This page lists software I use or have used.
 This page is a placeholder for now.
 
 - [tmux]()
-- [Firefox]() for the most page, occasionally Google Chrome for testing and to
+- [Firefox]() for the most part, occasionally Google Chrome for testing and to
   view pages Firefox has trouble with
 - [Vim]() with various plugins for most text editing.
   I also use Emacs or the browser's text box for MediaWiki, since Vim has
