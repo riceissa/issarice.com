@@ -33,7 +33,16 @@ And if that is an ill-defined question, then one can at least try to ask what on
 It might be worthwhile to list all the possible parameters (i.e. to
 extend the list I came up with in the Facebook post).
 
-- Nesting/threading: [Web Discussions: Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/)
+- Nesting/threading: [Web Discussions: Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/).
+    There are several choices here.
+    On sites like Reddit, Quora, and Hacker News, discussions both *have* a
+    tree structure and are *presented* as a tree.
+    On 4chan, discussions *have* a DAG structure but are *presented* as a flat
+    list that is chronologically sorted.
+    Facebook used to have comments that had a flat structure and were presented
+    as such.
+    In general the underlying data structure has to be more "complicated" than
+    the format in which the discussion is presented.
 - Unit of language relevant for replies
     - talk about [Comment Press](http://futureofthebook.org/commentpress/)
     - Medium also has paragraph-level comments
