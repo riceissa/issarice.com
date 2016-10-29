@@ -68,6 +68,8 @@ extend the list I came up with in the Facebook post).
 - Quotation (as on bulletin boards); see [Web Discussions: Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/) again.
 - Independence (i.e., each comment to a post could become a post itself, to which others could comment)
 - Length (some sites restrict the length of comments; this is most extreme on Twitter)
+- Reference style: hyperlink, hover-over with some JavaScript, positionally
+  apparent on the page (e.g. reddit-style threading).
 
 Some questions to ask:
 
