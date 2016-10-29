@@ -1,19 +1,10 @@
 ---
 title: Comments
-feed_description: Add Wired article
 author: Issa Rice
 created: 2014-12-30
 date: 2015-10-10
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely",
-# "highly unlikely", "remote", "impossible", "log", "emotional",
-# or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: content creation, comments, personal sites
 ---
 
 I've been interested in commenting systems, comment [spam in blogs](!w), and whether it's a good idea to have comments on this site.
