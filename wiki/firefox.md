@@ -21,3 +21,13 @@ date: 2016-10-26
 - Decentraleyes
 - Bookmarklets for: archive.is, Internet Archive, Citewebgen, "expand all" for
   Facebook comments
+
+# Bookmarklets
+
+- Get source
+- archive.is
+- Internet Archive
+- Expand All
+- Citewebgen
+
+![](archive-buttons.png)
