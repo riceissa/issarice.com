@@ -3,6 +3,7 @@ title: Digital preservation
 author: Issa Rice
 created: 2015-01-01
 date: 2016-07-09
+css: "div#content{max-width:900px;}"
 ---
 
 For now, this will be somewhat of a  backup of my [Quora blog on the topic](https://www.quora.com/Issa-Rice/Data-Archiving), which is now not being maintained.
