@@ -79,6 +79,9 @@ Does the DOM differ from the "generated HTML"?
     more" and replies in Facebook, Quora, etc.)
 -   Login required
 
+See <https://exp.issarice.com/archive_test/> for several tests to run on
+archival programs.
+
 # Requirements for good data archiving solutions
 
 
