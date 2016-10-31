@@ -97,6 +97,23 @@ You will have to run these through a JavaScript compressor like
       win.document.documentElement.innerText = document.documentElement.outerHTML;
     })();
 
+There is a variant to the above that uses `win.document.write()` and
+`win.document.close()` instead of setting
+`win.document.documentElement.innerText`.
+However, I found that this fails on some sites for some unknown reason.
+One page it fails on is
+<https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications>.
+Another is <http://www.tecmint.com/best-linux-file-diff-tools-comparison/>.
+
+From a [Stack Overflow answer][ans]:
+
+> `document.write` is one of the oldest vestiges of ancient JavaScript, and
+> should generally be avoided. Instead, you probably want to use DOM
+> \[manipulation\] methods to update the document.
+
+I don't know enough about JavaScript or its history to know if this is true,
+but it's parsimonious.
+
 # Requirements for good data archiving solutions
 
 
@@ -306,4 +323,5 @@ This allows me to quickly create copies that are local (Scrapbook and Zotero), p
 
 [^quora]: In the case of Quora, private blogs were almost immediately disabled and deleted after announcement (though archives were emailed out to owners); Google reader gave [under three months](https://en.wikipedia.org/wiki/Google_Reader#Discontinuation) to backup data.
 
+[ans]: http://stackoverflow.com/a/10873999/3422337
 [domi]: https://addons.mozilla.org/en-Us/firefox/addon/dom-inspector-6622/ "“DOM Inspector”. SeaMonkey Council."
