@@ -76,6 +76,8 @@ The browser DOM differs from the source HTML is at least two respects:
 
 Does the DOM differ from the "generated HTML"?
 
+This is a good read: [Best Way to View Generated Source of Webpage?](https://stackoverflow.com/questions/1750865/best-way-to-view-generated-source-of-webpage).
+
 # What are various things that can go wrong?
 
 -   JavaScript alters source HTML
@@ -114,6 +116,18 @@ From a [Stack Overflow answer][ans]:
 
 I don't know enough about JavaScript or its history to know if this is true,
 but it's parsimonious.
+
+For small pages, doing
+
+    // Pick one
+    copy(document.documentElement.outerHTML);
+    copy(document.body.innerHTML);
+
+is another option.
+This copies the DOM to your clipboard.
+I found that with very large sites, the clipboard seems to get full and not
+update.
+See <http://stackoverflow.com/a/20023875/3422337>.
 
 # Requirements for good data archiving solutions
 
