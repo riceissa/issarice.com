@@ -12,12 +12,15 @@ Thoughts on storing information in a useful/easily-accessible way. Archiving, ba
 
 # High-level overview of strategies for archiving browser activity
 
-|Strategy|Completeness|Appearance|Speed|Coverage of external resources|
-|:-------|:-----------|:---------|:----|:-----------------------------|
-|View source| | | | |
-|`document.body.innerHTML`| | | | |
-|DOM Inspector| | | | |
-|Web Developer plugin's "view generated source"| | | | |
+|Strategy|Completeness|Appearance|Speed|Coverage of external resources|Automated?|
+|:-------|:-----------|:---------|:----|:-----------------------------|:---------|
+|View source| | | | | |
+|`document.body.innerHTML`| | | | | |
+|DOM Inspector| | | | | |
+|Web Developer plugin's "view generated source"| | | | | |
+|Scrapbook| | | | |With corresponding autosave plugin|
+|Scrapbook X| | | | |With corresponding autosave plugin|
+|Shelve| | | | |Yes|
 
 # Requirements for good data archiving solutions
 
