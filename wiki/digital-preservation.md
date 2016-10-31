@@ -42,7 +42,7 @@ The "Type" column represents each of the bullet points above ("External",
 
 |Strategy|Type|Browser support|Completeness|Appearance|Speed|Coverage of external resources|Automated?|Pages that require authentication?|
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
-|wget/curl|External|Independent of browser, because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, if cookies are exported|
+|wget/curl|External|Independent of browser, because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, it's pretty easy to set up a pipeline to export browser history and automatically fetch the URLs|Yes, if cookies are exported|
 |View source| | | | | |
 |`document.body.innerHTML`|Browser DOM| | | | |
 |DOM Inspector|Browser DOM| | | |
