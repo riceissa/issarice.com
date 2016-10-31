@@ -10,7 +10,7 @@ For now, this will be somewhat of a  backup of my [Quora blog on the topic](http
 
 Thoughts on storing information in a useful/easily-accessible way. Archiving, backups, single-source publishing, source code management, redundancy (local, cloud), link rot, etc. Essentially, how can we best store thoughts so that later (a day? month? years?) we can easily find them again.
 
-# High level overview of archiving browser activity
+# High-level overview of strategies for archiving browser activity
 
 |Strategy|Completeness|Appearance|Speed|Coverage of external resources|
 |:-------|:-----------|:---------|:----|:-----------------------------|
