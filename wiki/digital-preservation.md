@@ -50,6 +50,28 @@ The "Type" column represents each of the bullet points above ("External",
 |Scrapbook X| | | | |With corresponding autosave plugin|
 |Shelve| | | | |Yes|
 
+# Source HTML vs generated HTML
+
+Thanks to JavaScript and other client-side scripting, naively saving the
+source HTML of a webpage is sometimes *not enough to save all the
+content*.
+
+There is a concept of "generated HTML", which is the HTML that results
+from applying scripts to the source HTML.
+
+Is there a reliable way to access this generated HTML?
+
+Separately (?) there is the concept of the browser DOM, which is the
+object-oriented representation of the page, as interpreted by the browser.
+The DOM acts as an API that languages like JavaScript can use.
+The browser DOM differs from the source HTML is at least two respects:
+
+-   It corrects for "in the wild" HTML by e.g. completing tags that were not
+    closed in the original HTML.
+-   It applies scripts to the original HTML.
+
+Does the DOM differ from the "generated HTML"?
+
 # Requirements for good data archiving solutions
 
 
