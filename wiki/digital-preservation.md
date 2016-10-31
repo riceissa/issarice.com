@@ -86,6 +86,17 @@ Does the DOM differ from the "generated HTML"?
 See <https://exp.issarice.com/archive_test/> for several tests to run on
 archival programs.
 
+# Various bookmarklets
+
+You will have to run these through a JavaScript compressor like
+`yui-compressor`.
+
+    // Open a new window and dump the current DOM.
+    javascript:(function() {
+      var win = window.open();
+      win.document.documentElement.innerText = document.documentElement.outerHTML;
+    })();
+
 # Requirements for good data archiving solutions
 
 
