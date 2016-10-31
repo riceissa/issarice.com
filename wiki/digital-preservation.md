@@ -249,7 +249,8 @@ Luke), but can't seem to locate it at the moment.
 [Archiving URLs](http://www.gwern.net/Archiving%20URLs) see also
 <http://www.gwern.net/About#long-content>. I can't
 believe I had forgotten about this! Okay and linked on the first page is
-this: <http://www.gwern.net/docs/2011-muflax-backup.pdf>
+this:
+<https://web.archive.org/web/20141208192153/http://www.gwern.net/docs/2011-muflax-backup.pdf>
 (from muflax).
 
 
