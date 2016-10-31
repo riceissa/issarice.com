@@ -44,12 +44,14 @@ The "Type" column represents each of the bullet points above ("External",
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
 |wget/curl|External|Independent of browser, because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, if cookies are exported|
 |View source| | | | | |
-|`document.body.innerHTML`| | | | | |
-|DOM Inspector| | | | | |
-|Web Developer plugin's "view generated source"| | | | | |
-|Scrapbook| | | | | | |With corresponding autosave plugin|
-|Scrapbook X| | | | | | |With corresponding autosave plugin|
+|`document.body.innerHTML`|Browser DOM| | | | |
+|DOM Inspector|Browser DOM| | | |
+|Web Developer plugin's "view generated source"|Browser DOM| | | |
+|Scrapbook|Browser DOM| | | | | |With corresponding autosave plugin|
+|Scrapbook X|Browser DOM| | | | | |With corresponding autosave plugin|
 |Shelve| | | | | | |Yes|
+|Squid|Cache server|
+|Browser cache|Browser cache|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
 
 # Source HTML vs generated HTML
 
