@@ -46,7 +46,7 @@ The "Type" column represents each of the bullet points above ("External",
 |PhantomJS|
 |View source| | | | | |
 |`document.body.innerHTML`|Browser DOM| | | | |
-|DOM Inspector|Browser DOM| | | |
+|[DOM Inspector][domi]|Browser DOM| | | |
 |Web Developer plugin's "view generated source"|Browser DOM| | | |
 |Scrapbook|Browser DOM| | | | | |With corresponding autosave plugin|
 |Scrapbook X|Browser DOM| | | | | |With corresponding autosave plugin|
@@ -294,3 +294,5 @@ This allows me to quickly create copies that are local (Scrapbook and Zotero), p
 -  [Archiving Facebook]()
 
 [^quora]: In the case of Quora, private blogs were almost immediately disabled and deleted after announcement (though archives were emailed out to owners); Google reader gave [under three months](https://en.wikipedia.org/wiki/Google_Reader#Discontinuation) to backup data.
+
+[domi]: https://addons.mozilla.org/en-Us/firefox/addon/dom-inspector-6622/ "“DOM Inspector”. SeaMonkey Council."
