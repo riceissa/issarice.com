@@ -27,7 +27,7 @@ Thoughts on storing information in a useful/easily-accessible way. Archiving, ba
   Shelve is one option but I don't trust it.
 
 - Using a cache server and then tunneling all your browser activity
-  through a proxy provided by that server. I think Squid is the dominant
+  through a proxy provided by that server. I think [Squid][squid] is the dominant
   player here, but I haven't much experience with this strategy in
   general. One advantage of this is, you can set it up once, and it will
   work for all browsers (that can tunnel through a proxy).
@@ -341,3 +341,4 @@ This allows me to quickly create copies that are local (Scrapbook and Zotero), p
 
 [ans]: http://stackoverflow.com/a/10873999/3422337
 [domi]: https://addons.mozilla.org/en-Us/firefox/addon/dom-inspector-6622/ "“DOM Inspector”. SeaMonkey Council."
+[squid]: http://www.squid-cache.org/
