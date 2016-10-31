@@ -12,6 +12,33 @@ Thoughts on storing information in a useful/easily-accessible way. Archiving, ba
 
 # High-level overview of strategies for archiving browser activity
 
+- Using a download program external to the browser. This is what gwern
+  does; he uses wget to download a list of URLs. The list of URLs are
+  obtained from places.sqlite, which Firefox generates.
+
+- Using a browser plugin to save the page content to disk. The idea of
+  this one is: You already *have* the webpage content in memory *by
+  virtue of browsing the page*, so why not just store that to disk?
+  However, this turns about to be harder than I thought, because first
+  you need to understand JavaScript, and then you need to understand the
+  plugin architecture of each major browser, and then actually write a
+  plugin. It doesn't seem like there are any GOOD plugins out there.
+  Shelve is one option but I don't trust it.
+
+- Using a cache server and then tunneling all your browser activity
+  through a proxy provided by that server. I think Squid is the dominant
+  player here, but I haven't much experience with this strategy in
+  general. One advantage of this is, you can set it up once, and it will
+  work for all browsers (that can tunnel through a proxy).
+
+- Browser cache? Firefox and Chrome both maintain a cache of pages.
+  The question is, does this count as a cache server, or serialized browser
+  DOM, or a completely different solution?
+
+Here is a table summarizing the strategies in more detail.
+The "Type" column represents each of the bullet points above ("External",
+"Browser DOM", "Cache server").
+
 |Strategy|Type|Browser support|Completeness|Appearance|Speed|Coverage of external resources|Automated?|Pages that require authentication?|
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
 |wget/curl|External|Independent of browser, because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, if cookies are exported|
