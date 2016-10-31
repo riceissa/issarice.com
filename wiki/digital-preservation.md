@@ -94,7 +94,8 @@ You will have to run these through a JavaScript compressor like
 `yui-compressor`.
 
     // Open a new window and dump the current DOM. This can then be saved with
-    // "Save Page As".
+    // "Save Page As". The idea of setting innerText comes from
+    // <http://stackoverflow.com/a/19120003/3422337>.
     javascript:(function() {
       var win = window.open();
       win.document.documentElement.innerText = document.documentElement.outerHTML;
