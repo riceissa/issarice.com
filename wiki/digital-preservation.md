@@ -91,7 +91,8 @@ archival programs.
 You will have to run these through a JavaScript compressor like
 `yui-compressor`.
 
-    // Open a new window and dump the current DOM.
+    // Open a new window and dump the current DOM. This can then be saved with
+    // "Save Page As".
     javascript:(function() {
       var win = window.open();
       win.document.documentElement.innerText = document.documentElement.outerHTML;
