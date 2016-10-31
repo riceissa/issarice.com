@@ -37,22 +37,32 @@ Thoughts on storing information in a useful/easily-accessible way. Archiving, ba
   DOM, or a completely different solution?
 
 Here is a table summarizing the strategies in more detail.
-The "Type" column represents each of the bullet points above ("External",
-"Browser DOM", "Cache server").
+The "Type" column is defined as follows:
+
+External
+:   A process external to the browser is run, and fetches pages separately.
+
+Browser DOM
+:   The browser fetches the pages, and internally represents it as a DOM.
+    This is a serialized form of the DOM.
+
+Raw
+:   The browser fetches the pages, but a process intercepts the streams
+    reaching it to store it for the long-term.
 
 |Strategy|Type|Browser support|Completeness|Appearance|Speed|Coverage of external resources|Automated?|Pages that require authentication?|
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
 |wget/curl|External|Independent of browser, because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, it's pretty easy to set up a pipeline to export browser history and automatically fetch the URLs|Yes, if cookies are exported|
-|PhantomJS|
-|View source| | | | | |
+|PhantomJS|External|
+|View source|Raw| | | | |
 |`document.body.innerHTML`|Browser DOM| | | | |
 |[DOM Inspector][domi]|Browser DOM| | | |
 |Web Developer plugin's "view generated source"|Browser DOM| | | |
 |Scrapbook|Browser DOM| | | | | |With corresponding autosave plugin|
 |Scrapbook X|Browser DOM| | | | | |With corresponding autosave plugin|
 |Shelve| | | | | | |Yes|
-|Squid|Cache server|
-|Browser cache|Browser cache|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
+|Squid|Raw|
+|Browser cache|Raw?|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
 
 # Source HTML vs generated HTML
 
