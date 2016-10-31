@@ -47,9 +47,9 @@ The "Type" column represents each of the bullet points above ("External",
 |`document.body.innerHTML`| | | | | |
 |DOM Inspector| | | | | |
 |Web Developer plugin's "view generated source"| | | | | |
-|Scrapbook| | | | |With corresponding autosave plugin|
-|Scrapbook X| | | | |With corresponding autosave plugin|
-|Shelve| | | | |Yes|
+|Scrapbook| | | | | | |With corresponding autosave plugin|
+|Scrapbook X| | | | | | |With corresponding autosave plugin|
+|Shelve| | | | | | |Yes|
 
 # Source HTML vs generated HTML
 
