@@ -10,6 +10,15 @@ For now, this will be somewhat of a  backup of my [Quora blog on the topic](http
 
 Thoughts on storing information in a useful/easily-accessible way. Archiving, backups, single-source publishing, source code management, redundancy (local, cloud), link rot, etc. Essentially, how can we best store thoughts so that later (a day? month? years?) we can easily find them again.
 
+# High level overview of archiving browser activity
+
+|Strategy|Completeness|Appearance|Speed|Coverage of external resources|
+|:-------|:-----------|:---------|:----|:-----------------------------|
+|View source| | | | |
+|`document.body.innerHTML`| | | | |
+|DOM Inspector| | | | |
+|Web Developer plugin's "view generated source| | | | |
+
 # Requirements for good data archiving solutions
 
 
