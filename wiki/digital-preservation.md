@@ -72,6 +72,13 @@ The browser DOM differs from the source HTML is at least two respects:
 
 Does the DOM differ from the "generated HTML"?
 
+# What are various things that can go wrong?
+
+-   JavaScript alters source HTML
+-   JavaScript loads more content as you interact with the page (e.g. "See
+    more" and replies in Facebook, Quora, etc.)
+-   Login required
+
 # Requirements for good data archiving solutions
 
 
