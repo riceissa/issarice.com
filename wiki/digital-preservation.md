@@ -17,7 +17,7 @@ Thoughts on storing information in a useful/easily-accessible way. Archiving, ba
 |View source| | | | |
 |`document.body.innerHTML`| | | | |
 |DOM Inspector| | | | |
-|Web Developer plugin's "view generated source| | | | |
+|Web Developer plugin's "view generated source"| | | | |
 
 # Requirements for good data archiving solutions
 
