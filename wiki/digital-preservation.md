@@ -12,8 +12,9 @@ Thoughts on storing information in a useful/easily-accessible way. Archiving, ba
 
 # High-level overview of strategies for archiving browser activity
 
-|Strategy|Completeness|Appearance|Speed|Coverage of external resources|Automated?|
-|:-------|:-----------|:---------|:----|:-----------------------------|:---------|
+|Strategy|Type|Browser support|Completeness|Appearance|Speed|Coverage of external resources|Automated?|Pages that require authentication?|
+|:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
+|wget/curl|External|Independent of browser, because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, if cookies are exported|
 |View source| | | | | |
 |`document.body.innerHTML`| | | | | |
 |DOM Inspector| | | | | |
