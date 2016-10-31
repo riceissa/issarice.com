@@ -213,4 +213,8 @@ javascript:void(window.open('https://web.archive.org/save/'+location.href))
 I also have the Scrapbook plugin for Firefox.
 This allows me to quickly create copies that are local (Scrapbook and Zotero), private network (Pinboard), and public network (Archive.org).
 
+# See also
+
+-  [Archiving Facebook]()
+
 [^quora]: In the case of Quora, private blogs were almost immediately disabled and deleted after announcement (though archives were emailed out to owners); Google reader gave [under three months](https://en.wikipedia.org/wiki/Google_Reader#Discontinuation) to backup data.
