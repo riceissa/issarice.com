@@ -41,14 +41,26 @@ The "Type" column is defined as follows:
 
 External
 :   A process external to the browser is run, and fetches pages separately.
+    The advantages of this approach are that it is guaranteed to run
+    asynchronously and it is easy to automate.
+    One disadvantage is that all content must be downloaded twice (once when
+    viewing the page in the browser, and once when archiving the page through
+    the external process).
+    Another is that the effects of scripting are generally not present.
 
 Browser DOM
 :   The browser fetches the pages, and internally represents it as a DOM.
     This is a serialized form of the DOM.
+    The advantages of this approach are that the content need only be
+    downloaded once, and the effects of scripting are generally(?) present.
 
 Raw
 :   The browser fetches the pages, but a process intercepts the streams
     reaching it to store it for the long-term.
+    One advantage: theoretically, every bit that is transmitted is captured.
+    Disadvantages: the way things are cached may be different from how the
+    browser represents the page as a DOM(?); effects of client-side scripting
+    are not present(?).
 
 |Strategy|Type|Browser support|Completeness|Appearance|Speed|Coverage of external resources|Automated?|Pages that require authentication?|
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
