@@ -98,6 +98,77 @@ This is a good read: [Best Way to View Generated Source of Webpage?](https://sta
 See <https://exp.issarice.com/archive_test/> for several tests to run on
 archival programs.
 
+# Facebook.com DOM
+
+I downloaded <https://facebook.com> while logged in, after scrolling down on my
+newsfeed a couple of times and expanding some things.
+I downloaded the page using three methods:
+
+-   `document.documentElement.outerHTML`
+-   DOM Inspector plugin
+-   The Web Developers plugin's "generated HTML" feature
+
+To diff the files, I first pre-processed the files using `fmt -w 40` and `tidy
+-utf8` and then did the actual comparison using `gvimdiff`.
+Passing `-w 40` to `fmt` is so that three files could comfortably sit
+side-by-side on my screen.
+`gvimdiff` is convenient in that it allows for three files to be compared at
+once.
+
+DOM Inspector uses things like
+
+    <a class="see_more_link" onclick='var func = function(e) {
+    e.preventDefault(); }; var parent = Parent.byClass(this,
+    "text_exposed_root") ...' ...>...</a>
+
+On the other hand, the bookmarklet and Web Developer Tools "generated HTML" do
+things like
+
+    <a class="see_more_link" onclick="var func = function(e) {
+    e.preventDefault(); }; var parent = Parent.byClass(this,
+    &quot;text_exposed_root&quot;) ..." ...>...</a>
+
+The bookmarklet also compresses contiguous spaces into a single space, and
+breaks lines on its own.
+
+In other words, some differences are merely due to different ways of
+serializing the same underlying structure.
+
+Here is another.
+On the bookmarklet and Web Dev tools:
+
+    <abbr class="livetimestamp"
+    title="Monday, October 31, 2016 at
+    2:55am" data-utime="1477907708"
+    data-shorten="true">8 hrs</abbr>
+
+On the DOM Inspector:
+
+    <abbr class="livetimestamp"
+    title="Monday, October 31, 2016 at
+    2:55am" data-utime="1477907708"
+    data-shorten="true"><span class="timestampContent">8 hrs</span></abbr>
+
+Note that here, the structure itself is different.
+There is no span tag with class `timestampContent` in the former.
+
+There are also some positional stuff that is different, e.g. chat contact list?
+Some of it could be because the pages were not captured at exactly the same
+time.
+
+Some div tags corresponding to people (in the chat bar?) were also missing in
+one or more of the dumps.
+
+The Web Dev tools version also didn't have some script tags that referenced
+external scripts.
+
+However, as far as I can tell, the actual content on the page is stored in all
+versions.
+Indeed, `du -h *` shows the same size (1.2M) for all versions so the
+differences are a rounding error.
+Given this, it *seems* like the easiest way to programmatically access the
+current browser DOM is through `document.documentElement.outerHTML`.
+
 # Various bookmarklets
 
 You will have to run these through a JavaScript compressor like
