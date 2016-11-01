@@ -278,6 +278,22 @@ In Vim `[I` looks for all occurrences of the keyword under the cursor, so with
 the cursor in `saveDocumentInternal`, I hit `[I`.
 The definition is on line 272.
 
+Several interesting things here. First off,
+
+    if ( ["text/html", "application/xhtml+xml"].indexOf(contentType) < 0 ) {
+        if ( !(aDocument.documentElement.nodeName.toUpperCase() == "HTML" && this.option["fileAsHtml"]) ) {
+            captureType = "file";
+        }
+    }
+    if ( captureType ) {
+        var newLeafName = this.saveFileInternal(aDocument.location.href, aFileKey, captureType, charset);
+        return newLeafName;
+    }
+
+So it looks like if the root note is HTML, we call `saveFileInternal`.
+But this looks confusing because we're only passing `aDocument.location.href`
+rather than `aDocument` or `aDocument.documentElement`, which contains the DOM!
+
 # Requirements for good data archiving solutions
 
 
