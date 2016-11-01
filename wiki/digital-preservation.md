@@ -293,6 +293,15 @@ Several interesting things here. First off,
 So it looks like if the root node is HTML, we call `saveFileInternal`.
 But this looks confusing because we're only passing `aDocument.location.href`
 rather than `aDocument` or `aDocument.documentElement`, which contains the DOM!
+But the test
+
+    if ( ["text/html", "application/xhtml+xml"].indexOf(contentType) < 0 ) {
+
+seems to be checking whether the content type is in the list.
+Regular HTML files should have `text/html` as the content type, so it seems
+that this capture only happens when the content type is not HTML yet the root
+element is HTML.
+I'm not sure why we would make this a special case.
 
 # Requirements for good data archiving solutions
 
