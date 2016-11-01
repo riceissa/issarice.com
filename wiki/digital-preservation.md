@@ -252,7 +252,7 @@ But line 2 defines `var gContentSaver = new sbContentSaverClass();`.
 This is the only occurrence of `sbContentSaverClass` in this file.
 No worry, I run
 
-    :vim /sbContentSaverClass/ **/*.js
+    :vimgrep /sbContentSaverClass/ **/*.js
 
 and find
 
