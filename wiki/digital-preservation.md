@@ -187,11 +187,13 @@ You will have to run these through a JavaScript compressor like
 `yui-compressor`.
 
     // Open a new window and dump the current DOM. This can then be saved with
-    // "Save Page As". The idea of setting innerText comes from
-    // <http://stackoverflow.com/a/19120003/3422337>.
+    // "Save Page As".
     javascript:(function() {
+      var para = document.createElement('p');
+      var t = document.createTextNode(document.documentElement.outerHTML.toString());
+      para.appendChild(t);
       var win = window.open();
-      win.document.documentElement.innerText = document.documentElement.outerHTML;
+      win.document.body.appendChild(para);
     })();
 
 There is a variant to the above that uses `win.document.write()` and
