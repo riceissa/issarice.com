@@ -330,6 +330,11 @@ saves the browser DOM by accessing `document.documentElement.innerHTML`.
 Of course, the plugin does a lot more because it also tries to fetch
 dependencies like stylesheets and various media.
 
+I'm still not sure why ScrapBook X blocks Firefox while it saves a page.
+I think plugins are allowed to fork separate processes, so it should be
+possible to run the archival in the background while the user is free to do
+whatever else with Firefox.
+
 # Requirements for good data archiving solutions
 
 
