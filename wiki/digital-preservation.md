@@ -325,6 +325,11 @@ So it is `myHTML` that gets written in the end.
 But `myHTML` takes from `rootNode.innerHTML`, which is `htmlNode.innerHTML`,
 which is `aDocument.documentElement.innerHTML`.
 
+To summarize, it seems that ScrapBook X (and hence probably ScrapBook also)
+saves the browser DOM by accessing `document.documentElement.innerHTML`.
+Of course, the plugin does a lot more because it also tries to fetch
+dependencies like stylesheets and various media.
+
 # Requirements for good data archiving solutions
 
 
