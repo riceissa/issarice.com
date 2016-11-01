@@ -2,7 +2,7 @@
 title: Digital preservation
 author: Issa Rice
 created: 2015-01-01
-date: 2016-10-31
+date: 2016-11-01
 css: "div#content{margin:0px;max-width:900px;}"
 ---
 
