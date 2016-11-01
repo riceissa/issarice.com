@@ -223,6 +223,23 @@ I found that with very large sites, the clipboard seems to get full and not
 update.
 See <http://stackoverflow.com/a/20023875/3422337>.
 
+# Dissecting ScrapBook X
+
+[Git tree that I am using][sb_tree].
+
+ScrapBook X seems to improve ScrapBook, and is apparently based on it.
+I couldn't find the source for the original ScrapBook, so I can't really see if
+this is true.
+
+Anyway, my general intent is to get an idea of the high-level strategy it uses,
+and then see if there is a way to save things without blocking the browser.
+
+Some notes follow.
+
+`chrome/content/scrapbook/` seems to be where the meat of the plugin is stored.
+Here, I first noticed `capture.js`, but there is actually also a `saver.js`,
+which turned out to be where the actual work is being done.
+
 # Requirements for good data archiving solutions
 
 
@@ -435,4 +452,5 @@ This allows me to quickly create copies that are local (Scrapbook and Zotero), p
 
 [ans]: http://stackoverflow.com/a/10873999/3422337
 [domi]: https://addons.mozilla.org/en-Us/firefox/addon/dom-inspector-6622/ "“DOM Inspector”. SeaMonkey Council."
+[sb_tree]: https://github.com/danny0838/firefox-scrapbook/tree/f77539c020e30d4235ab647934e72459056ce479
 [squid]: http://www.squid-cache.org/
