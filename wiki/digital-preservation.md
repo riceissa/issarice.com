@@ -290,7 +290,7 @@ Several interesting things here. First off,
         return newLeafName;
     }
 
-So it looks like if the root note is HTML, we call `saveFileInternal`.
+So it looks like if the root node is HTML, we call `saveFileInternal`.
 But this looks confusing because we're only passing `aDocument.location.href`
 rather than `aDocument` or `aDocument.documentElement`, which contains the DOM!
 
