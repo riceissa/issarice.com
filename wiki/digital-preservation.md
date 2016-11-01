@@ -303,7 +303,7 @@ that this capture only happens when the content type is not HTML yet the root
 element is HTML.
 I'm not sure why we would make this a special case.
 
-Line 316:
+Going past the block and reading down, line 316 has:
 
     var htmlNode = aDocument.documentElement;
 
