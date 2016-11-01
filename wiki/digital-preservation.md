@@ -3,7 +3,7 @@ title: Digital preservation
 author: Issa Rice
 created: 2015-01-01
 date: 2016-10-31
-css: "div#content{margin:0px;}"
+css: "div#content{margin:0px;max-width:900px;}"
 ---
 
 For now, this will be somewhat of a  backup of my [Quora blog on the topic](https://www.quora.com/Issa-Rice/Data-Archiving), which is now not being maintained.
@@ -261,6 +261,22 @@ and find
     chrome/content/scrapbook/saver.js|9 col 25| var saver = new sbContentSaverClass();
     chrome/content/scrapbook/saver.js|42 col 10| function sbContentSaverClass() {
     chrome/content/scrapbook/saver.js|88 col 1| sbContentSaverClass.prototype = {
+
+So the class is in `saver.js`.
+Line 42 looks promising (the fourth result above).
+We want `captureWindow`, so search downward.
+Lines 214--216:
+
+    // save the document content to ScrapBook
+    this.contentDir = sbCommonUtils.getContentDir(this.item.id);
+    var newName = this.saveDocumentInternal(aRootWindow.document, this.documentName);
+
+So now we want `saveDocumentInternal`, and it looks like `aRootWindow.document`
+is what is being saved, which should be analogous to `document` if the entire
+page is sought.
+In Vim `[I` looks for all occurrences of the keyword under the cursor, so with
+the cursor in `saveDocumentInternal`, I hit `[I`.
+The definition is on line 272.
 
 # Requirements for good data archiving solutions
 
