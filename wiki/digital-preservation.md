@@ -240,6 +240,28 @@ Some notes follow.
 Here, I first noticed `capture.js`, but there is actually also a `saver.js`,
 which turned out to be where the actual work is being done.
 
+Reading `capture.js`, I see `var sbCaptureTask`.
+Reading in, I see `_captureWindow: function(aWindow, aAllowPartial)` on line
+470.
+This calls
+
+    var ret = gContentSaver.captureWindow(aWindow, aAllowPartial, gShowDetail, gResName, gResIdx, preset, gContext, gTitles[this.index]);
+
+on line 491.
+But line 2 defines `var gContentSaver = new sbContentSaverClass();`.
+This is the only occurrence of `sbContentSaverClass` in this file.
+No worry, I run
+
+    :vim /sbContentSaverClass/ **/*.js
+
+and find
+
+    chrome/content/scrapbook/capture.js|2 col 25| var gContentSaver = new sbContentSaverClass();
+    chrome/content/scrapbook/saver.js|4 col 25| var saver = new sbContentSaverClass();
+    chrome/content/scrapbook/saver.js|9 col 25| var saver = new sbContentSaverClass();
+    chrome/content/scrapbook/saver.js|42 col 10| function sbContentSaverClass() {
+    chrome/content/scrapbook/saver.js|88 col 1| sbContentSaverClass.prototype = {
+
 # Requirements for good data archiving solutions
 
 
