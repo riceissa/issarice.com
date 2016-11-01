@@ -303,6 +303,28 @@ that this capture only happens when the content type is not HTML yet the root
 element is HTML.
 I'm not sure why we would make this a special case.
 
+Line 316:
+
+    var htmlNode = aDocument.documentElement;
+
+And then line 394:
+
+    if ( !this.selection ) {
+        rootNode = htmlNode.cloneNode(true);
+
+So `rootNode` is now a copy of `htmlNode`; tracking both and scrolling down,
+line 525 has:
+
+    myHTML += sbCommonUtils.surroundByTags(rootNode, rootNode.innerHTML + "\n");
+
+And finally line 535:
+
+    sbCommonUtils.writeFile(myHTMLFile, myHTML, charset);
+
+So it is `myHTML` that gets written in the end.
+But `myHTML` takes from `rootNode.innerHTML`, which is `htmlNode.innerHTML`,
+which is `aDocument.documentElement.innerHTML`.
+
 # Requirements for good data archiving solutions
 
 
