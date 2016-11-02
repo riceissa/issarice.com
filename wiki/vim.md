@@ -188,27 +188,6 @@ to be" (e.g. surround.vim, fugitive.vim, etc., are all "Vimlike" plugins).
 - When writing prose, it's rather convenient to load up similar files with `:args` all into the current buffer so that word completion using `C-n` and `C-p` are more relevant (as in, the top results are usually what I expect).
 - Deciding between `C-n` and `C-p` is sometimes challenging. If the completion one wants is more likely to have been just typed, then `C-p` is better, but if appears just below the current line, then `C-n` is better. But if it's unclear where in the file the completion one wants is, then it's harder to tell which to use.
 
-- Using `C-l` to escape from insert mode: this has been rather convenient so
-  far.  I used to use `jj` and `kk`, which are useful since they don't appear
-  in English often, but I still ran into awkward problems in e.g. UltiSnips
-  when using LaTeX when the final character before a "jump" turned out to be a
-  `j` or `k`, in which case the jump would proceed in a half-hearted way (in
-  math mode, the cursor would end up on the `)` in `\)`). Also I had to be more
-  careful about setting `paste` before pasting long lines of text into the
-  buffer with `C-S-v`, since the pasted text could accidentally get me out of
-  insert mode and start executing normal mode commands (I now use just `C-r+`
-  in insert mode though, or `"+P` in normal mode). `C-l` is actually the
-  default escape in evim, so it's somewhat strange that the mapping doesn't
-  also exist in Vim itself (edit: I actually just found out why. Apparently vim
-  can't keep track of separate key mappings for vim and evim, so if one maps
-  `C-l` to `<esc>`, then, since escape is disabled in evim, one can never escape
-  easy mode! Luckily I don't ever use easy mode---I think Neovim removes it, in
-  fact---so I have the luxury of leaving Vim in this broken state). One problem
-  I've had so far though: in linewise
-  insert completion mode with `C-x` `C-l`, hitting `C-l` again will just shift
-  through the completions instead of escaping. To break out, one must use `C-[`
-  or `C-e` as usual.
-
 - Another thing that took me too long to discover: keyword completion using `Ctrl`-`x` `Ctrl`-`p` and `Ctrl`-`x` `Ctrl`-`n`; see [the Vim help section](http://vimdoc.sourceforge.net/htmldoc/insert.html#compl-current).
 However, rather than describing it as "keyword completion", I would say it is more like "predictive completion" (like on a smartphone keyboard).
 - In a Markdown document with reference-style links at the end of the file, add
