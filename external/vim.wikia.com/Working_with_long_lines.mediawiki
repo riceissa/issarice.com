@@ -1,0 +1,1 @@
+This page explains several strategies for dealing with long lines in Vim, especially very long lines that fill up the entire screen.
