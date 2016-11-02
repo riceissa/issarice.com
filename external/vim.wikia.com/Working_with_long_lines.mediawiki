@@ -1,1 +1,27 @@
-This page explains several strategies for dealing with long lines in Vim, especially very long lines that fill up the entire screen.
+This page explains several strategies for dealing with long lines in Vim, especially very long lines that fill up the entire screen. You may encounter these files because some conventions require it (e.g. the English Wikipedia favors single-line paragraphs), or because some "dump" files use long lines.
+
+At a high level, the strategies for dealing with long lines can be grouped in the following way:
+
+* Making use of Vim's built-in capabilities for navigating long lines without chopping them
+* Preprocessing the file to use shorter lines, sometimes called "chopping" the line
+* Taking steps to prevent long lines
+
+==Vim's built-in capabilities==
+
+talk about
+
+* <code>gj</code>, <code>gk</code>, search-to-navigate
+
+==Preprocessing long lines==
+
+Most programming environments offer generic tools for formatting text. These include <code>fold</code> <code>fmt</code>, and <code>par</code>.
+
+In addition, Vim itself provides the command <code>gqq</code> to format the current line, so something like
+
+<pre>
+:%normal! gqq
+</pre>
+
+==See also==
+
+==References==
