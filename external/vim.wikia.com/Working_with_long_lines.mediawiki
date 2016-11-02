@@ -1,23 +1,31 @@
-This page explains several strategies for dealing with long lines in Vim, especially very long lines that fill up the entire screen. You may encounter these files because some conventions require it (e.g. the English Wikipedia favors single-line paragraphs), or because some "dump" files use long lines.
+This page explains several strategies for dealing with long lines. Vim does not handle long lines well; there are restrictions to when a long line can partially be displayed and commands like <code>&lt;C-E&gt;</code> act on logical lines rather than visual lines. Part of the reason for this is that Vim is a descendant of [[Wikipedia:Line editor|line-based editors]] that only acted on logical lines. The upshot is that Vim will often feel "jumpy" when scrolling and moving in a buffer with long lines, especially ones that fill up the entire window.
 
-Vim, having decended from line-based editors, works by default on ''logical lines'' rather than ''visual lines''. For instance, the <code>j</code> movement in normal mode moves down by one logical line rather than one visual line (which is the default in many CUA editors including web browser text boxes).
+You may encounter files with long lines in various situations:
+
+* Conventions can require it; e.g. the English Wikipedia favors single-line paragraphs so lines tend to be long
+* Some data files (JSON, CSVs, etc.) use long lines
+* Content on the web is often presented in [[Wikipedia:Minification (programming)|minified]] form, leading to long lines
 
 At a high level, the strategies for dealing with long lines can be grouped in the following way:
 
-* Making use of Vim's built-in capabilities for navigating long lines without chopping them
-* Preprocessing the file to use shorter lines, sometimes called "chopping" the line
-* Taking steps to prevent long lines
+* Making use of Vim's built-in capabilities for navigating long lines (i.e. work around long lines without modifying them)
+* Preprocessing the file to use shorter lines; the two strategies here are "chopping" and pretty-printing
+* Taking steps to prevent long lines (rewriting code to use shorter lines, enforcing a manageable text width, etc.)
+* Giving up on Vim for these files and using editors that work fine with long lines (gedit, GNU Emacs, etc.)
 
-==Vim's built-in capabilities==
+This article will cover the first two points.
 
-Vim can attempt to show long lines with <code>:set wrap</code>. With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read.
+==Navigating long lines with Vim's built-in capabilities==
 
-talk about
+Vim can attempt to show long lines with <code>:set wrap</code> (on by default). With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read. Also very useful is <code>:set display+=lastline</code>, which will try to show as much as possible of the last line in the window (rather than a column of "@", which is the default behavior).
 
-* <code>gj</code>, <code>gk</code>, search-to-navigate, <code>f</code> and <code>t</code> are now more powerful in some sense, because they can keep going along
-* <code>:set display+=lastline</code>
+The normal mode movements <code>j</code> and <code>k</code> move by logical lines, but these have the analogous <code>gj</code> and <code>gk</code> for moving by visual lines.
+
+Search-to-navigate is another useful way to move. It's advisable to <code>:set incsearch</code> so that you can see the cursor move as you type, and then hit enter when you get to the desired location.
+
+Note that the commands <code>f</code>, <code>t</code>, <code>F</code>, <code>T</code>, <code>;</code>, and <code>,</code> are even more powerful within long lines: they can cover more ground.
+
 * <code>:set scrolloff=99999</code> will keep the cursor in the middle of the screen, providing more context even in very long lines.
-
 
 ==Preprocessing long lines==
 
@@ -37,15 +45,15 @@ In addition, Vim itself provides the command <code>gqq</code> to format the curr
 :%normal! gqq
 </pre>
 
-If the original linebreak locations must be preserved, then you can leave a unique character in place of linebreaks:
+If the original linebreak locations must be preserved, then you can leave a unique character in place of linebreaks. Below, the character '↵' is provided as a suggestion, but it must not appear in the file itself.
 
 <pre>
-command! ShortLines :%s/.\{71}/&↵\r/g | 0
-command! ShortLinesAtSpace :%s/.\{70,79} /&↵\r/g | 0
-command! LongLines :%s/↵\n// | 0
+command! ShortLines :%s/.\{71}/&↵\r/g | 1
+command! ShortLinesAtSpace :%s/.\{70,79} /&↵\r/g | 1
+command! LongLines :%s/↵\n// | 1
 </pre>
 
-(Note that this sort of regex replacement only works on small files.)
+Note that this sort of regex replacement only works on small files.
 
 Instead of generic tools, one can sometimes do better by using a tool suited to a particular filetype.
 
