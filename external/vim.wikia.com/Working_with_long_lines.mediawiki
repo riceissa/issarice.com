@@ -50,7 +50,7 @@ In addition, Vim itself provides the command <code>gqq</code> to format the curr
 
 will format the buffer according to the value of <code>'textwidth'</code>.
 
-If the original linebreak locations must be preserved, you can leave a unique character in place of linebreaks. Below, the character '↵' (type using <code>&lt;C-V&gt;u21B5</code>) is provided as a suggestion, but it must not appear in the file itself.
+If the original linebreak locations must be preserved, you can leave a unique character in place of linebreaks. Below, the character '↵' (typed using <code>&lt;C-V&gt;u21B5</code>) is provided as a suggestion, but it must not appear in the file itself.
 
 <pre>
 command! ShortLines :%s/.\{71}/&amp;↵\r/g | 1
