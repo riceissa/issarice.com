@@ -20,7 +20,7 @@ This article will cover the first two points.
 
 Vim can attempt to show long lines with <code>:set wrap</code> (on by default). With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read. Also very useful is <code>:set display+=lastline</code>, which will try to show as much as possible of the last line in the window (rather than a column of "@", which is the default behavior).
 
-The normal mode movements <code>j</code> and <code>k</code> move by logical lines, but these have the analogous <code>gj</code> and <code>gk</code> for moving by visual lines.
+The normal mode movements <code>j</code> and <code>k</code> move by logical lines, but these have the analogous <code>gj</code> and <code>gk</code> for moving by visual lines. Similarly, <code>g0</code>, <code>g^</code>, and <code>g$</code> all work. In addition, <code>gm</code> will move the cursor to the middle of the visual line.
 
 Search-to-navigate is another useful way to move. It's advisable to <code>:set incsearch</code> so that you can see the cursor move as you type, and then hit enter when you get to the desired location.
 
