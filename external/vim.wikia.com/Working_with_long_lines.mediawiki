@@ -1,6 +1,6 @@
 This page explains several strategies for dealing with long lines. Vim does not handle long lines well; there are restrictions on when a long line can partially be displayed, and commands like <code>&lt;C-E&gt;</code> act on logical lines rather than visual lines. Part of the reason for this is that Vim is a descendant of [[Wikipedia:Line editor|line-based editors]] that only acted on logical lines. The upshot is that Vim will often feel "jumpy" when scrolling and moving in a buffer with long lines, especially ones that fill up the entire window.
 
-You may encounter files with long lines in various situations:
+One may encounter files with long lines in various situations:
 
 * Conventions can require it; e.g. the English Wikipedia favors single-line paragraphs so lines tend to be long
 * Some data files (JSON, CSVs, etc.) use long lines
@@ -18,15 +18,15 @@ This article will cover the first two points.
 
 ==Navigating long lines with Vim's built-in capabilities==
 
-Vim can attempt to show long lines with <code>:set wrap</code> (on by default). With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read (in older versions of Vim, you will also have to <code>:set nolist</code>). Also very useful is <code>:set display+=lastline</code>, which will try to show as much as possible of the last line in the window (rather than a column of "@", which is the default behavior).
+Vim can attempt to show long lines with <code>:set wrap</code> (on by default). With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read (in older versions of Vim, one will also have to <code>:set nolist</code>). Also very useful is <code>:set display+=lastline</code>, which will try to show as much as possible of the last line in the window (rather than a column of "@", which is the default behavior).
 
 The normal mode movements <code>j</code> and <code>k</code> move by logical lines, but these have the analogous <code>gj</code> and <code>gk</code> for moving by visual lines. Similarly, <code>g0</code>, <code>g^</code>, and <code>g$</code> all work. In addition, <code>gm</code> will move the cursor to the middle of the visual line.
 
-Search-to-navigate is another useful way to move. It's advisable to <code>:set incsearch</code> so that you can see the cursor move as you type, and then hit enter when you get to the desired location.
+Search-to-navigate is another useful way to move. It's advisable to <code>:set incsearch</code> so that one can see the cursor move as one types, and then hit enter when one gets to the desired location.
 
 Note that the commands <code>f</code>, <code>t</code>, <code>F</code>, <code>T</code>, <code>;</code>, and <code>,</code> are even more powerful within long lines: they can cover more ground.
 
-Using <code>:set scrolloff=99999</code> (or any large number instead of 99999) will try to keep the cursor in the middle of the screen, providing more context even within very long lines. This will allow you to type something like <code>5gj</code> to simulate <code>5&lt;C-E&gt;</code>.
+Using <code>:set scrolloff=99999</code> (or any large number instead of 99999) will try to keep the cursor in the middle of the screen, providing more context even within very long lines. This will allow one to type something like <code>5gj</code> to simulate <code>5&lt;C-E&gt;</code>.
 
 ==Preprocessing long lines==
 
@@ -50,7 +50,7 @@ In addition, Vim itself provides the command <code>gqq</code> to format the curr
 
 will format the buffer according to the value of <code>'textwidth'</code>.
 
-If the original linebreak locations must be preserved, you can leave a unique character in place of linebreaks. Below, the character '↵' (typed using <code>&lt;C-V&gt;u21B5</code>) is provided as a suggestion, but it must not appear in the file itself.
+If the original linebreak locations must be preserved, one can leave a unique character in place of linebreaks. Below, the character '↵' (typed using <code>&lt;C-V&gt;u21B5</code>) is provided as a suggestion, but it must not appear in the file itself.
 
 <pre>
 command! ShortLines :%s/.\{71}/&amp;↵\r/g | 1
@@ -64,7 +64,7 @@ Note that this sort of regex replacement will be slow on large files.
 
 Instead of generic tools, one can sometimes do better by using a tool suited to a particular filetype.
 
-If you are working with JSON files and have Python installed (note: this is just the system binary rather than Python support being compiled into Vim):
+If one is working with JSON files and have Python installed (note: this is just the system binary rather than Python support being compiled into Vim):
 
 <pre>
 :%!python -m json.tool
