@@ -25,35 +25,41 @@ Search-to-navigate is another useful way to move. It's advisable to <code>:set i
 
 Note that the commands <code>f</code>, <code>t</code>, <code>F</code>, <code>T</code>, <code>;</code>, and <code>,</code> are even more powerful within long lines: they can cover more ground.
 
-* <code>:set scrolloff=99999</code> will keep the cursor in the middle of the screen, providing more context even in very long lines.
+Using <code>:set scrolloff=99999</code> (or any large number instead of 99999) will keep the cursor in the middle of the screen, providing more context even in very long lines. This will allow you to type something like <code>5gj</code> to simulate <code>5&lt;C-E&gt;</code>.
 
 ==Preprocessing long lines==
 
-Most programming environments offer generic tools for formatting text. These include <code>fold</code>, <code>fmt</code>, and <code>par</code>. From inside Vim, one can invoke
+===Generic formatting tools===
+
+Most UNIX-like programming environments offer generic tools for formatting text. These include <code>fmt</code>, <code>fold</code>, and <code>par</code>. From inside Vim, one can invoke:
 
 <pre>
 :%!fmt -80 -s
 </pre>
 
-to format the current buffer. The <code>-80</code> specifies 80 columns as the desired width and the <code>-s</code> tells <code>fmt</code> to split lines only (i.e. to not join short lines together).
+to format the current buffer. The <code>-80</code> specifies 80 columns as the desired width and the <code>-s</code> tells <code>fmt</code> to split lines only (i.e. to not join short lines together, called "refilling").
 
-<code>fold</code> is more aggressive, and will chop lines even if there is no space.
+<code>fold</code> is more aggressive: it will chop lines even if there is no space.
 
-In addition, Vim itself provides the command <code>gqq</code> to format the current line, so something like
+In addition, Vim itself provides the command <code>gqq</code> to format the current line, so something like:
 
 <pre>
 :%normal! gqq
 </pre>
 
-If the original linebreak locations must be preserved, then you can leave a unique character in place of linebreaks. Below, the character '↵' is provided as a suggestion, but it must not appear in the file itself.
+will format the buffer according to the value of <code>'textwidth'</code>.
+
+If the original linebreak locations must be preserved, you can leave a unique character in place of linebreaks. Below, the character '↵' (type using <code>&lt;C-V&gt;u21B5</code>) is provided as a suggestion, but it must not appear in the file itself.
 
 <pre>
-command! ShortLines :%s/.\{71}/&↵\r/g | 1
-command! ShortLinesAtSpace :%s/.\{70,79} /&↵\r/g | 1
+command! ShortLines :%s/.\{71}/&amp;↵\r/g | 1
+command! ShortLinesAtSpace :%s/.\{70,79} /&amp;↵\r/g | 1
 command! LongLines :%s/↵\n// | 1
 </pre>
 
-Note that this sort of regex replacement only works on small files.
+Note that this sort of regex replacement will be slow on large files.
+
+===Filetype-specific tools===
 
 Instead of generic tools, one can sometimes do better by using a tool suited to a particular filetype.
 
@@ -69,21 +75,12 @@ For HTML and XML, there are tools like <code>tidy</code> and <code>xmllint</code
 
 In some cases, <code>gg=G</code> might make things nicer.
 
-also mention [https://github.com/Chiel92/vim-autoformat vim-autoformat].
+Some plugins that try to unify this sort of pretty-printing/tidying are:
 
-[https://github.com/maksimr/vim-jsbeautify] might be a more general tool.
+* [https://github.com/Chiel92/vim-autoformat vim-autoformat] (a lot of filetypes)
+* [https://github.com/maksimr/vim-jsbeautify vim-jsbeautify] (JavaScript, HTML, CSS)
 
-languages like Go have strong source formatting requirements and provide tools like <code>gofmt</code>.
-
-==Preventing long lines==
-
-Since long lines are rather painful to work with in Vim (and not just Vim; diffing tools often have trouble with long lines as well), it's a good idea to keep lines short.
-
-<pre>
-:set textwidth=80
-</pre>
-
-Some filetypes like mail and Vimscript automatically set this option.
+Languages like Go have strong source formatting requirements and provide tools like <code>gofmt</code>.
 
 ==See also==
 
@@ -94,5 +91,5 @@ Some filetypes like mail and Vimscript automatically set this option.
 
 ==References==
 
-* [https://github.com/neovim/neovim/issues/4232 How can Neovim implement scrolling based on screen-lines in long strings of wrapped text?] – an issue filed in the Neovim development issues tracker
-* [http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf], an essay by Rob Pike on breaking out of the idea of line-based regular expressions
+* [https://github.com/neovim/neovim/issues/4232 How can Neovim implement scrolling based on screen-lines in long strings of wrapped text?] – an issue filed in the Neovim development issues tracker; this might be the only real shot at getting better long lines support in Vim/Neovim.
+* [http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf "Structural Regular Expressions"], an essay by Rob Pike on breaking out of the idea of line-based regular expressions.
