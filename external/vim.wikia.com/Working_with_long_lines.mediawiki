@@ -40,7 +40,7 @@ Most UNIX-like programming environments offer generic tools for formatting text.
 
 to format the current buffer. The <code>-80</code> specifies 80 columns as the desired width and the <code>-s</code> tells <code>fmt</code> to split lines only (i.e. to not join short lines together, called "refilling").
 
-<code>fold</code> is more aggressive: it will chop lines even if there is no space.
+<code>fold</code> is more aggressive: it will chop lines even inside of words.
 
 In addition, Vim itself provides the command <code>gqq</code> to format the current line, so something like:
 
