@@ -1,4 +1,4 @@
-This page explains several strategies for dealing with long lines. Vim does not handle long lines well; there are restrictions to when a long line can partially be displayed and commands like <code>&lt;C-E&gt;</code> act on logical lines rather than visual lines. Part of the reason for this is that Vim is a descendant of [[Wikipedia:Line editor|line-based editors]] that only acted on logical lines. The upshot is that Vim will often feel "jumpy" when scrolling and moving in a buffer with long lines, especially ones that fill up the entire window.
+This page explains several strategies for dealing with long lines. Vim does not handle long lines well; there are restrictions on when a long line can partially be displayed and commands like <code>&lt;C-E&gt;</code> act on logical lines rather than visual lines. Part of the reason for this is that Vim is a descendant of [[Wikipedia:Line editor|line-based editors]] that only acted on logical lines. The upshot is that Vim will often feel "jumpy" when scrolling and moving in a buffer with long lines, especially ones that fill up the entire window.
 
 You may encounter files with long lines in various situations:
 
