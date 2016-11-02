@@ -88,7 +88,7 @@ Languages like Go have strong source formatting requirements and provide tools l
 * [[Word wrap without line breaks]]
 * {{help|25.4}}, "Dealing with long lines", which has a couple of parts:
 ** {{help|edit-no-break}}
-** {{help|edit-paragraph-join}}
+** {{help|edit-paragraph-join}} (the version of the help files on vimdoc seems to be old so this won't work; just type it in Vim)
 
 ==References==
 
