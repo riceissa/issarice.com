@@ -1,5 +1,7 @@
 This page explains several strategies for dealing with long lines in Vim, especially very long lines that fill up the entire screen. You may encounter these files because some conventions require it (e.g. the English Wikipedia favors single-line paragraphs), or because some "dump" files use long lines.
 
+Vim, having decended from line-based editors, works by default on ''logical lines'' rather than ''visual lines''. For instance, the <code>j</code> movement in normal mode moves down by one logical line rather than one visual line (which is the default in many CUA editors including web browser text boxes).
+
 At a high level, the strategies for dealing with long lines can be grouped in the following way:
 
 * Making use of Vim's built-in capabilities for navigating long lines without chopping them
@@ -14,7 +16,13 @@ talk about
 
 ==Preprocessing long lines==
 
-Most programming environments offer generic tools for formatting text. These include <code>fold</code> <code>fmt</code>, and <code>par</code>.
+Most programming environments offer generic tools for formatting text. These include <code>fold</code>, <code>fmt</code>, and <code>par</code>. From inside Vim, one can invoke
+
+<pre>
+:%!fmt -80 -s
+</pre>
+
+to format the current buffer. The <code>-80</code> specifies 80 columns as the desired width and the <code>-s</code> tells <code>fmt</code> to split lines only (i.e. to not join short lines together).
 
 In addition, Vim itself provides the command <code>gqq</code> to format the current line, so something like
 
@@ -24,4 +32,11 @@ In addition, Vim itself provides the command <code>gqq</code> to format the curr
 
 ==See also==
 
+* [[Word wrap without line breaks]]
+* {{help|25.4}}, "Dealing with long lines", which has a couple of parts:
+** {{help|edit-no-break}}
+** {{help|edit-paragraph-join}}
+
 ==References==
+
+* [https://github.com/neovim/neovim/issues/4232 How can Neovim implement scrolling based on screen-lines in long strings of wrapped text?] – an issue filed in the Neovim development issues tracker
