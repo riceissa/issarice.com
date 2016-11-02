@@ -16,6 +16,7 @@ talk about
 
 * <code>gj</code>, <code>gk</code>, search-to-navigate, <code>f</code> and <code>t</code> are now more powerful in some sense, because they can keep going along
 * <code>:set display+=lastline</code>
+* <code>:set scrolloff=99999</code> will keep the cursor in the middle of the screen, providing more context even in very long lines.
 
 
 ==Preprocessing long lines==
@@ -36,6 +37,16 @@ In addition, Vim itself provides the command <code>gqq</code> to format the curr
 :%normal! gqq
 </pre>
 
+If the original linebreak locations must be preserved, then you can leave a unique character in place of linebreaks:
+
+<pre>
+command! ShortLines :%s/.\{71}/&↵\r/g | 0
+command! ShortLinesAtSpace :%s/.\{70,79} /&↵\r/g | 0
+command! LongLines :%s/↵\n// | 0
+</pre>
+
+(Note that this sort of regex replacement only works on small files.)
+
 Instead of generic tools, one can sometimes do better by using a tool suited to a particular filetype.
 
 If you are working with JSON files and have Python installed (note: this is just the system binary rather than Python support being compiled into Vim):
@@ -50,7 +61,21 @@ For HTML and XML, there are tools like <code>tidy</code> and <code>xmllint</code
 
 In some cases, <code>gg=G</code> might make things nicer.
 
+also mention [https://github.com/Chiel92/vim-autoformat vim-autoformat].
+
 [https://github.com/maksimr/vim-jsbeautify] might be a more general tool.
+
+languages like Go have strong source formatting requirements and provide tools like <code>gofmt</code>.
+
+==Preventing long lines==
+
+Since long lines are rather painful to work with in Vim (and not just Vim; diffing tools often have trouble with long lines as well), it's a good idea to keep lines short.
+
+<pre>
+:set textwidth=80
+</pre>
+
+Some filetypes like mail and Vimscript automatically set this option.
 
 ==See also==
 
