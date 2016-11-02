@@ -28,6 +28,8 @@ Note that the commands <code>f</code>, <code>t</code>, <code>F</code>, <code>T</
 
 Using <code>:set scrolloff=99999</code> (or any large number instead of 99999) will try to keep the cursor in the middle of the screen, providing more context even within very long lines. This will allow one to type something like <code>5gj</code> to simulate <code>5&lt;C-E&gt;</code>.
 
+Note that when using commands like <code>:vimgrep</code> and <code>:clist</code>, Vim uses a <code>more</code>-like pager that can display partial lines even when using <code>j</code> and <code>k</code>.
+
 ==Preprocessing long lines==
 
 ===Generic formatting tools===
@@ -53,6 +55,8 @@ will format the buffer according to the value of <code>'textwidth'</code>.
 If the original linebreak locations must be preserved, one can leave a unique character in place of linebreaks. Below, the character '↵' (typed using <code>&lt;C-V&gt;u21B5</code>) is provided as a suggestion, but it must not appear in the file itself.
 
 <pre>
+" Use :ShortLines or :ShortLinesAtSpace to convert the document to use
+" short lines with hard linebreaks, and use :LongLines to convert back.
 command! ShortLines :%s/.\{71}/&amp;↵\r/g | 1
 command! ShortLinesAtSpace :%s/.\{70,79} /&amp;↵\r/g | 1
 command! LongLines :%s/↵\n// | 1
@@ -72,7 +76,7 @@ If one is working with JSON files and have Python installed (note: this is just 
 
 will convert the buffer into pretty-printed JSON. There are also plugins like [https://github.com/tpope/vim-jdaddy jdaddy.vim] that are designed to make work with JSON easier.
 
-For HTML and XML, there are tools like <code>tidy</code> and <code>xmllint</code>; see [[Cleanup your HTML]] for the main article.
+For HTML and XML, there are tools like <code>tidy</code> (e.g. <code>:%!tidy -utf8 -i</code>) and <code>xmllint</code>; see [[Cleanup your HTML]] for the main article.
 
 In some cases, <code>gg=G</code> might make things nicer.
 

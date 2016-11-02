@@ -200,124 +200,18 @@ However, rather than describing it as "keyword completion", I would say it is mo
     the references must be contained in a single paragraph (since we search
     backward from the end of the buffer with `$?^$?`).
 
-# Moving in long lines
+# Working with long lines
 
-I've always found it frustrating that Vim by default acts on physical lines instead of "display lines".
-Of course, mapping `j` and `k` to `gj` and `gk`, respectively (and conversely; though `Ctrl`-`n` and `Ctrl`-`p` also work for navigating physical lines), partly solves this, but page-wide navigation like `Ctrl`-`f` still act according to physical lines, and it isn't possible to sanely display partial lines (in the way that even simple editors like gedit are able to do).
-One solution, of course, is to force the burden upon the markup language: both LaTeX and Markdown allow for hard linebreaks, which means one can set `:set tw=72` and not have to think about long lines.
-But I don't consider this a very satisfactory solution, especially since I like to have each sentence on its own line in markup, which means there is the occasional long sentence and hence long line.
-Worse yet, Wikipedia source files tend to have entire paragraphs on single lines, so even if I write my markup one way, there is no way to avoid *others* from writing *their* markup a certain way---hence, the problem must be solved within Vim.
+Details about working with long lines are covered in ["Working with long
+lines"][long] on the Vim Tips Wiki, which I wrote.
 
-I think something like `9j`, etc., can work as a replacement for `Ctrl`-`d`.
+Here are some other details that I didn't want to cover on that page,
+especially with regard to the point "Giving up on Vim for these files and using
+editors that work fine with long lines (gedit, GNU Emacs, etc.)".
 
-One hack: use the following series of custom commands (optionally
-replacing '↵' with another rare character):
-
-```vim
-command! ShortLines :%s/.\{71}/&↵\r/g | 0
-command! ShortLinesAtSpace :%s/.\{,70} /&↵\r/g | 0
-command! LongLines :%s/↵\n// | 0
-```
-
-Use `:ShortLines` or `:ShortLinesAtSpace` to convert the document to use
-short hard linebreaks, and use `:LongLines` to convert back.  I'm not
-certain if this won't corrupt the file somehow, but it seems to work...
-This was inspired by the [JpFormat plugin](
-https://github.com/fuenor/JpFormat.vim ), which actually probably does
-something rather different, but I didn't bother using it (I only took
-inspiration from the [screenshot](
-https://cca8f41b-a-62cb3a1a-s-sites.googlegroups.com/site/fudist/Home/jpformat/JpFormat.jpg)).
-Anyway, the file you are editing shouldn't have any '↵' characters in
-it, because those could interfere with the regex replacement, and when
-restoring the file, a newline may be added at the very end, so the file
-might not be identical when restored.  Other than that, I haven't
-experienced any problems.
-
-For something more complicated, the following might work:
-
-    function! FShortLines(break_at_space, line_end_chars)
-      for c in a:line_end_chars
-        let use_this = 1
-        for line in getline("1", "$")
-          if match(line, c) >= 0
-            " This char was in the file originally, so we can't use it as the line
-            " separator.
-            let use_this = 0
-            break
-          endif
-          " echom "got one more"
-        endfor
-        if use_this
-          if exists('b:end_char_stack')
-            call add(b:end_char_stack, c)
-          else
-            let b:end_char_stack = [c]
-          endif
-          if a:break_at_space
-            exe 'silent %s/.\{,70} /&' . c . '\r/g | 0'
-          else
-            exe 'silent %s/.\{71}/&' . c . '\r/g | 0'
-          endif
-          return 0
-        endif
-      endfor
-      " We couldn't use any of the a:line_end_chars.
-      return -1
-    endfunction
-
-    function! FLongLines()
-      if exists('b:end_char_stack')
-        if len(b:end_char_stack) > 0
-          let c = remove(b:end_char_stack, -1)
-          exe 'silent %s/' . c . '\n//e | 0'
-          return 0
-        endif
-      else
-        let b:end_char_stack = []
-      endif
-      return -1
-    endfunction
-
-    command! ShortLines :call FShortLines(0, ['↵', '↲', '⤶', '↩'])
-    command! ShortLinesAtSpace :call FShortLines(1, ['↵', '↲', '⤶', '↩'])
-    command! LongLines :call FLongLines()
-
-This will create a stack of artificial line-end characters,
-so that the mapping can be used repeatedly.
-Doing `:LongLines` will pop values off the stack.
-The function will also check the buffer first to make sure that
-the line-end character is not present.
-At the moment this is still pretty slow for very large files,
-because of the substitute command.
-I'm not sure if it might be better to use an external filter,
-and pipe the buffer in and out.
-If you are wondering about the list `['↵', '↲', '⤶', '↩']`,
-I decided to pick four Unicode characters that looked like a linebreak;
-you might find that confusing and prefer something more visually
-distinctive.
-
-For specific cases, like really long CSS or JSON lines, one can pass it
-through a pretty filter, like ` :%!python -m json.tool` (from [here](
-http://blog.realnitro.be/2010/12/20/format-json-in-vim-using-pythons-jsontool-module/
-)) in the case of JSON.
-For HTML or XML files, there is `:%!tidy -xml -utf8 -i` once one installs tidy.
-
-Another hack: set `:set scrolloff=99999`. This will at least make for
-a somewhat more pleasant scrolling experience when the file is just one
-enormous line; `j` sort of replaces `Ctrl`-`e` and so forth.
-
-In any case, it seems that the way Vim treats long lines is
-fundamentally broken, in the sense that the way it thinks of lines is
-[stuck in the days of line-based text processing](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf).
-I really would like
-display-line versions of `Ctrl`-`e`, `Ctrl`-`d`, and `Ctrl`-`f`, in the
-same way that we have `gj` and `g$`, as well as an option that will allow one to display a partial line at the top of the current view (currently, unless a line is extremely long, Vim will show a line at the top of the current view so as to expose the beginning of the line). It might be worth noting that when using commands like `:vim` and `:cl`, vim uses some pager like `more`, which can display partial lines even when using `j` and `k`.
-
-In editing Wikipedia, I've also found it useful to learn [CUA keybindings](https://en.wikipedia.org/wiki/IBM_Common_User_Access) like `Ctrl`-`→`, `Ctrl`-`Backspace`, and so forth, which can be used directly on browsers like Firefox.
-This suffices for most editing tasks, and I have [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open GVim for more complicated tasks (like search-and-replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
-I've also found Emacs useful (with a bit of practice[^evil]) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
-
-See also [this Neovim discussion](https://github.com/neovim/neovim/issues/4232).
+In editing Wikipedia, I've found it useful to learn [CUA keybindings](https://en.wikipedia.org/wiki/IBM_Common_User_Access) like `Ctrl`-`→`, `Ctrl`-`Backspace`, and so forth, which can be used directly on browsers like Firefox.
+This suffices for most editing tasks, and I have the extension [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open GVim for more complicated tasks (like search-and-replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
+I've also found Emacs useful (with a bit of practice) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
 
 # From my old .vimrc
 
@@ -570,6 +464,5 @@ benefits may outweigh the costs):
 [clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
 [hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
+[long]: http://vim.wikia.com/wiki/Working_with_long_lines?useskin=monobook
 [saw]: http://vimcasts.org/blog/2012/08/on-sharpening-the-saw/
-
-[^evil]: Emacs Evil mode is also an option (it's a fairly good emulation of Vim).
