@@ -18,7 +18,7 @@ This article will cover the first two points.
 
 ==Navigating long lines with Vim's built-in capabilities==
 
-Vim can attempt to show long lines with <code>:set wrap</code> (on by default). With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read. Also very useful is <code>:set display+=lastline</code>, which will try to show as much as possible of the last line in the window (rather than a column of "@", which is the default behavior).
+Vim can attempt to show long lines with <code>:set wrap</code> (on by default). With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read (in older versions of Vim, you will also have to <code>:set nolist</code>). Also very useful is <code>:set display+=lastline</code>, which will try to show as much as possible of the last line in the window (rather than a column of "@", which is the default behavior).
 
 The normal mode movements <code>j</code> and <code>k</code> move by logical lines, but these have the analogous <code>gj</code> and <code>gk</code> for moving by visual lines. Similarly, <code>g0</code>, <code>g^</code>, and <code>g$</code> all work. In addition, <code>gm</code> will move the cursor to the middle of the visual line.
 
@@ -85,10 +85,14 @@ Languages like Go have strong source formatting requirements and provide tools l
 
 ==See also==
 
-* [[Word wrap without line breaks]]
 * {{help|25.4}}, "Dealing with long lines", which has a couple of parts:
 ** {{help|edit-no-break}}
-** {{help|edit-paragraph-join}} (the version of the help files on vimdoc seems to be old so this won't work; just type it in Vim)
+** {{help|edit-paragraph-join}} (the version of the help files on vimdoc seems to be old so this won't work; just type it in Vim); this is similar to [[Copy paragraphs without excess newlines to MS Word]]
+* [[Word wrap without line breaks]]
+* [[Chop long lines]]
+* [[Format only long lines]]
+* [[Move through wrapped lines]]
+* [[Move cursor by display lines when wrapping]]
 
 ==References==
 
