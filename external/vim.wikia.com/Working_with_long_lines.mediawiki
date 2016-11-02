@@ -26,7 +26,7 @@ Search-to-navigate is another useful way to move. It's advisable to <code>:set i
 
 Note that the commands <code>f</code>, <code>t</code>, <code>F</code>, <code>T</code>, <code>;</code>, and <code>,</code> are even more powerful within long lines: they can cover more ground.
 
-Using <code>:set scrolloff=99999</code> (or any large number instead of 99999) will keep the cursor in the middle of the screen, providing more context even in very long lines. This will allow you to type something like <code>5gj</code> to simulate <code>5&lt;C-E&gt;</code>.
+Using <code>:set scrolloff=99999</code> (or any large number instead of 99999) will try to keep the cursor in the middle of the screen, providing more context even within very long lines. This will allow you to type something like <code>5gj</code> to simulate <code>5&lt;C-E&gt;</code>.
 
 ==Preprocessing long lines==
 
