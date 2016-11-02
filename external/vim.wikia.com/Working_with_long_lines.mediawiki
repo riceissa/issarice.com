@@ -10,9 +10,13 @@ At a high level, the strategies for dealing with long lines can be grouped in th
 
 ==Vim's built-in capabilities==
 
+Vim can attempt to show long lines with <code>:set wrap</code>. With <code>:set linebreak</code>, Vim will wrap the lines at characters in <code>'breakat'</code>; this generally makes the text easier to read.
+
 talk about
 
-* <code>gj</code>, <code>gk</code>, search-to-navigate
+* <code>gj</code>, <code>gk</code>, search-to-navigate, <code>f</code> and <code>t</code> are now more powerful in some sense, because they can keep going along
+* <code>:set display+=lastline</code>
+
 
 ==Preprocessing long lines==
 
@@ -24,11 +28,29 @@ Most programming environments offer generic tools for formatting text. These inc
 
 to format the current buffer. The <code>-80</code> specifies 80 columns as the desired width and the <code>-s</code> tells <code>fmt</code> to split lines only (i.e. to not join short lines together).
 
+<code>fold</code> is more aggressive, and will chop lines even if there is no space.
+
 In addition, Vim itself provides the command <code>gqq</code> to format the current line, so something like
 
 <pre>
 :%normal! gqq
 </pre>
+
+Instead of generic tools, one can sometimes do better by using a tool suited to a particular filetype.
+
+If you are working with JSON files and have Python installed (note: this is just the system binary rather than Python support being compiled into Vim):
+
+<pre>
+:%!python -m json.tool
+</pre>
+
+will convert the buffer into pretty-printed JSON. There are also plugins like [https://github.com/tpope/vim-jdaddy jdaddy.vim] that are designed to make work with JSON easier.
+
+For HTML and XML, there are tools like <code>tidy</code> and <code>xmllint</code>; see [[Cleanup your HTML]] for the main article.
+
+In some cases, <code>gg=G</code> might make things nicer.
+
+[https://github.com/maksimr/vim-jsbeautify] might be a more general tool.
 
 ==See also==
 
@@ -40,3 +62,4 @@ In addition, Vim itself provides the command <code>gqq</code> to format the curr
 ==References==
 
 * [https://github.com/neovim/neovim/issues/4232 How can Neovim implement scrolling based on screen-lines in long strings of wrapped text?] – an issue filed in the Neovim development issues tracker
+* [http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf], an essay by Rob Pike on breaking out of the idea of line-based regular expressions
