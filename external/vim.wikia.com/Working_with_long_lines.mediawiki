@@ -30,6 +30,17 @@ Using <code>:set scrolloff=99999</code> (or any large number instead of 99999) w
 
 Note that when using commands like <code>:vimgrep</code> and <code>:clist</code>, Vim uses a <code>more</code>-like pager that can display partial lines even when using <code>j</code> and <code>k</code>.
 
+The following provides the maps <code>gL</code> and <code>gH</code> to emulate <code>L</code> and <code>H</code> even when very long lines are present. Note that unlike <code>L</code> and <code>H</code>, these maps might scroll the buffer, although they will reach the intended position.
+
+<pre>
+nnoremap &lt;silent&gt; &lt;expr&gt; gL winheight(0) - winline() - &amp;scrolloff &gt; 0 ?
+      \ ':normal! ' . (winheight(0) - winline() - &amp;scrolloff) . 'gjg^&lt;CR&gt;' :
+      \ 'g^'
+nnoremap &lt;silent&gt; &lt;expr&gt; gH  winline() - 1 - &amp;scrolloff ?
+      \ ':normal ' . (winline() - 1 - &amp;scrolloff) . 'gkg^&lt;CR&gt;' :
+      \ 'g^'
+</pre>
+
 ==Preprocessing long lines==
 
 ===Generic formatting tools===
