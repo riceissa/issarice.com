@@ -67,7 +67,7 @@ Raw
 |wget/curl|External|Works for all browsers because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, it's pretty easy to set up a pipeline to export browser history and automatically fetch the URLs|Yes, if cookies are exported|
 |[PhantomJS][phantomjs]|External|Works for all browsers because downloads happen outside of the browser|Runs a headless browser so can support most/all JavaScript|Should be pretty good if external resources are also downloaded|Should be fine, but downloads content twice (because it runs outside of the browser)|Yes, but you have to script it yourself?|Yes, but you need to know JavaScript|Yes?
 |View source|Raw|Most browsers have a "View Source" menu option|This is usually the raw HTML of the page *without* the effects of DOM scripting, so content that is loaded through scripts may not be present|Depends on whether you also fetch external resources, and also on how much scripting the page uses|Fast enough for most pages|Most browsers can do this|No|Yes|
-|`document`|Browser DOM|Most modern browsers support this, though the representation and serialization might vary|Good, but doesn't include external resources, although these could be fetched as well (see ScrapBook)| | |
+|`document`|Browser DOM|Most modern browsers support this, though the representation and serialization might vary|Good, but doesn't include external resources, although these could be fetched as well (see ScrapBook)|Generally bad unless external resources are downloaded|Fast|Yes, if you script it|Yes; both Firefox and Chrome provide [`content_scripts`][cont_scr] that can run on matched URLs|Yes|
 |[DOM Inspector][domi]|Browser DOM| | | |
 |Web Developer plugin's "view generated source"|Browser DOM| | | |
 |ScrapBook|Browser DOM| | | | | |With corresponding autosave plugin|
@@ -549,6 +549,7 @@ This allows me to quickly create copies that are local (Scrapbook and Zotero), p
 [^quora]: In the case of Quora, private blogs were almost immediately disabled and deleted after announcement (though archives were emailed out to owners); Google reader gave [under three months](https://en.wikipedia.org/wiki/Google_Reader#Discontinuation) to backup data.
 
 [ans]: http://stackoverflow.com/a/10873999/3422337
+[cont_scr]: https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/content_scripts
 [domi]: https://addons.mozilla.org/en-Us/firefox/addon/dom-inspector-6622/ "“DOM Inspector”. SeaMonkey Council."
 [phantomjs]: http://phantomjs.org/
 [sb_tree]: https://github.com/danny0838/firefox-scrapbook/tree/f77539c020e30d4235ab647934e72459056ce479
