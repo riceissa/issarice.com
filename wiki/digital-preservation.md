@@ -68,7 +68,7 @@ Raw
 |[PhantomJS][phantomjs]|External|Works for all browsers because downloads happen outside of the browser|Runs a headless browser so can support most/all JavaScript|Should be pretty good if external resources are also downloaded|Should be fine, but downloads content twice (because it runs outside of the browser)|Yes, but you have to script it yourself?|Yes, but you need to know JavaScript|Yes?
 |View source|Raw|Most browsers have a "View Source" menu option|This is usually the raw HTML of the page *without* the effects of DOM scripting, so content that is loaded through scripts may not be present|Depends on whether you also fetch external resources, and also on how much scripting the page uses|Fast enough for most pages|Most browsers can do this|No|Yes|
 |`document`|Browser DOM|Most modern browsers support this, though the representation and serialization might vary|Good, but doesn't include external resources, although these could be fetched as well (see ScrapBook)|Generally bad unless external resources are downloaded|Fast|Yes, if you script it|Yes; both Firefox and Chrome provide [`content_scripts`][cont_scr] that can run on matched URLs|Yes|
-|[DOM Inspector][domi]|Browser DOM| | | |
+|[DOM Inspector][domi]|Browser DOM|Firefox|Good, but doesn't include external resources|Generally bad unless external resources are downloaded|Fast|No?|No?|Yes|
 |Web Developer plugin's "view generated source"|Browser DOM| | | |
 |ScrapBook|Browser DOM| | | | | |With corresponding autosave plugin|
 |ScrapBook X|Browser DOM| | | | | |With corresponding autosave plugin|
