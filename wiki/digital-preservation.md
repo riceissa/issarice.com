@@ -73,7 +73,7 @@ Raw
 |Scrapbook|Browser DOM| | | | | |With corresponding autosave plugin|
 |Scrapbook X|Browser DOM| | | | | |With corresponding autosave plugin|
 |Shelve| | | | | | |Yes|
-|WarcProxy|Raw?|
+|[WarcProxy][warcproxy]|Raw?| |[Apparently good][wp_comp]|[Apparently good][wp_comp]|
 |Squid|Raw|
 |Browser cache|Raw?|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
 
@@ -552,3 +552,5 @@ This allows me to quickly create copies that are local (Scrapbook and Zotero), p
 [domi]: https://addons.mozilla.org/en-Us/firefox/addon/dom-inspector-6622/ "“DOM Inspector”. SeaMonkey Council."
 [sb_tree]: https://github.com/danny0838/firefox-scrapbook/tree/f77539c020e30d4235ab647934e72459056ce479
 [squid]: http://www.squid-cache.org/
+[warcproxy]: https://github.com/odie5533/WarcProxy
+[wp_comp]: https://github.com/odie5533/WarcProxy#comparison
