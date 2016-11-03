@@ -36,11 +36,11 @@ The following provides the maps <code>gH</code>, <code>gM</code>, and <code>gL</
 nnoremap &lt;silent&gt; &lt;expr&gt; gH winline() - 1 - &amp;scrolloff
       \ ? ':normal! ' . (winline() - 1 - &amp;scrolloff) . 'gkg^&lt;CR&gt;'
       \ : 'g^'
-nnoremap &lt;silent&gt; &lt;expr&gt; gM winline() &lt; winheight(0)/2
-      \ ? ':normal! ' . (winheight(0)/2 - winline()) . 'gjg^&lt;CR&gt;'
-      \ : winline() == winheight(0)/2
+nnoremap &lt;silent&gt; &lt;expr&gt; gM winline() &lt; (winheight(0)+1)/2
+      \ ? ':normal! ' . ((winheight(0)+1)/2 - winline()) . 'gjg^&lt;CR&gt;'
+      \ : winline() == (winheight(0)+1)/2
       \         ? 'g^'
-      \         : ':normal! ' . (winline() - winheight(0)/2) . 'gkg^&lt;CR&gt;'
+      \         : ':normal! ' . (winline() - (winheight(0)+1)/2) . 'gkg^&lt;CR&gt;'
 nnoremap &lt;silent&gt; &lt;expr&gt; gL winheight(0) - winline() - &amp;scrolloff &gt; 0
       \ ? ':normal! ' . (winheight(0) - winline() - &amp;scrolloff) . 'gjg^&lt;CR&gt;'
       \ : 'g^'
