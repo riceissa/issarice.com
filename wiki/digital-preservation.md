@@ -65,9 +65,9 @@ Raw
 |Strategy|Type|Browser support|Completeness|Appearance|Speed|Coverage of external resources|Automated?|Pages that require authentication?|
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
 |wget/curl|External|Works for all browsers because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, it's pretty easy to set up a pipeline to export browser history and automatically fetch the URLs|Yes, if cookies are exported|
-|PhantomJS|External|Works for all browsers because downloads happen outside of the browser|
+|[PhantomJS][phantomjs]|External|Works for all browsers because downloads happen outside of the browser|Runs a headless browser so can support most/all JavaScript|Should be pretty good if external resources are also downloaded|Should be fine, but downloads content twice (because it runs outside of the browser)|Yes, but you have to script it yourself?|Yes, but you need to know JavaScript|Yes?
 |View source|Raw| | | | |
-|`document.body.innerHTML`|Browser DOM| | | | |
+|`document.body.innerHTML`, `document.documentElement.outerHTML`|Browser DOM| | | | |
 |[DOM Inspector][domi]|Browser DOM| | | |
 |Web Developer plugin's "view generated source"|Browser DOM| | | |
 |Scrapbook|Browser DOM| | | | | |With corresponding autosave plugin|
@@ -550,6 +550,7 @@ This allows me to quickly create copies that are local (Scrapbook and Zotero), p
 
 [ans]: http://stackoverflow.com/a/10873999/3422337
 [domi]: https://addons.mozilla.org/en-Us/firefox/addon/dom-inspector-6622/ "“DOM Inspector”. SeaMonkey Council."
+[phantomjs]: http://phantomjs.org/
 [sb_tree]: https://github.com/danny0838/firefox-scrapbook/tree/f77539c020e30d4235ab647934e72459056ce479
 [squid]: http://www.squid-cache.org/
 [warcproxy]: https://github.com/odie5533/WarcProxy
