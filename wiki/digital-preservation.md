@@ -70,8 +70,7 @@ Raw
 |`document`|Browser DOM|Most modern browsers support this, though the representation and serialization might vary|Good, but doesn't include external resources, although these could be fetched as well (see ScrapBook)|Generally bad unless external resources are downloaded|Fast|Yes, if you script it|Yes; both Firefox and Chrome provide [`content_scripts`][cont_scr] that can run on matched URLs|Yes|
 |[DOM Inspector][domi]|Browser DOM|Firefox|Good, but doesn't include external resources|Generally bad unless external resources are downloaded|Fast|No?|No?|Yes|
 |[Web Developer][webdev] plugin's "view generated source"|Browser DOM|Firefox, but Chrome probably has something similar|Good, but doesn't include external resources|Generally bad unless external resources are downloaded|Pretty slow on sites like Facebook|No|No|Yes|
-|ScrapBook|Browser DOM| | | | | |With corresponding autosave plugin|
-|ScrapBook X|Browser DOM| | | | | |With corresponding autosave plugin|
+|ScrapBook, ScrapBook X|Browser DOM| | | | | |With corresponding autosave plugin|
 |Shelve| | | | | | |Yes|
 |[WarcProxy][warcproxy]|Raw?|Works via HTTP proxy, so supports any browser|[Apparently good][wp_comp]|[Apparently good][wp_comp]|
 |[Squid][squid]|Raw|
