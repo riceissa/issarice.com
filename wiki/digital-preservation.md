@@ -73,6 +73,7 @@ Raw
 |Scrapbook|Browser DOM| | | | | |With corresponding autosave plugin|
 |Scrapbook X|Browser DOM| | | | | |With corresponding autosave plugin|
 |Shelve| | | | | | |Yes|
+|WarcProxy|Raw?|
 |Squid|Raw|
 |Browser cache|Raw?|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
 
