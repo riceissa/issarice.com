@@ -37,7 +37,7 @@ nnoremap &lt;silent&gt; &lt;expr&gt; gL winheight(0) - winline() - &amp;scrollof
       \ ':normal! ' . (winheight(0) - winline() - &amp;scrolloff) . 'gjg^&lt;CR&gt;' :
       \ 'g^'
 nnoremap &lt;silent&gt; &lt;expr&gt; gH  winline() - 1 - &amp;scrolloff ?
-      \ ':normal ' . (winline() - 1 - &amp;scrolloff) . 'gkg^&lt;CR&gt;' :
+      \ ':normal! ' . (winline() - 1 - &amp;scrolloff) . 'gkg^&lt;CR&gt;' :
       \ 'g^'
 </pre>
 
