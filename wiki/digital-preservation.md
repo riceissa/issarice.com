@@ -73,8 +73,8 @@ Raw
 |Scrapbook|Browser DOM| | | | | |With corresponding autosave plugin|
 |Scrapbook X|Browser DOM| | | | | |With corresponding autosave plugin|
 |Shelve| | | | | | |Yes|
-|[WarcProxy][warcproxy]|Raw?| |[Apparently good][wp_comp]|[Apparently good][wp_comp]|
-|Squid|Raw|
+|[WarcProxy][warcproxy]|Raw?|Works via HTTP proxy, so supports any browser|[Apparently good][wp_comp]|[Apparently good][wp_comp]|
+|[Squid][squid]|Raw|
 |Browser cache|Raw?|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
 
 # Source HTML vs generated HTML
