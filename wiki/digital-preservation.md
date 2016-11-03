@@ -337,6 +337,12 @@ I think plugins are allowed to fork separate processes, so it should be
 possible to run the archival in the background while the user is free to do
 whatever else with Firefox.
 
+# Naming archives
+
+How do you name archives?
+In general, using the URL is not possible, because there is around a
+2000-character limit to URLs but file systems like ext4 have a 255-byte limit.
+
 # Requirements for good data archiving solutions
 
 
