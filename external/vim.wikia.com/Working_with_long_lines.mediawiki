@@ -33,7 +33,7 @@ Note that when using commands like <code>:vimgrep</code> and <code>:clist</code>
 The following provides the maps <code>gH</code>, <code>gM</code>, and <code>gL</code> to emulate <code>H</code>, <code>M</code>, and <code>L</code> even when very long lines are present. Note that Vim already defines the normal mode command <code>gH</code> ({{help|gH}}), although this is to enter Select mode, which is rarely used.
 
 <pre>
-nnoremap &lt;silent&gt; &lt;expr&gt; gH winline() - 1 - &amp;scrolloff
+nnoremap &lt;silent&gt; &lt;expr&gt; gH winline() - 1 - &amp;scrolloff &gt; 0
       \ ? ':normal! ' . (winline() - 1 - &amp;scrolloff) . 'gkg^&lt;CR&gt;'
       \ : 'g^'
 nnoremap &lt;silent&gt; &lt;expr&gt; gM winline() &lt; (winheight(0)+1)/2
