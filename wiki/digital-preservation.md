@@ -66,7 +66,7 @@ Raw
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
 |wget/curl|External|Works for all browsers because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, it's pretty easy to set up a pipeline to export browser history and automatically fetch the URLs|Yes, if cookies are exported|
 |[PhantomJS][phantomjs]|External|Works for all browsers because downloads happen outside of the browser|Runs a headless browser so can support most/all JavaScript|Should be pretty good if external resources are also downloaded|Should be fine, but downloads content twice (because it runs outside of the browser)|Yes, but you have to script it yourself?|Yes, but you need to know JavaScript|Yes?
-|View source|Raw| | | | |
+|View source|Raw|Most browsers have a "View Source" menu option|This is usually the raw HTML of the page *without* the effects of DOM scripting, so content that is loaded through scripts may not be present|Depends on whether you also fetch external resources, and also on how much scripting the page uses|Fast enough for most pages|Most browsers can do this|No|Yes|
 |`document`|Browser DOM| | | | |
 |[DOM Inspector][domi]|Browser DOM| | | |
 |Web Developer plugin's "view generated source"|Browser DOM| | | |
