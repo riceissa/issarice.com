@@ -198,8 +198,8 @@ You will have to run these through a JavaScript compressor like
     })();
 
 There is a variant to the above that uses `win.document.write()` and
-`win.document.close()` instead of setting
-`win.document.documentElement.innerText`.
+`win.document.close()` instead of manipulating the DOM with methods like
+`appendChild()`.
 However, I found that this fails on some sites for some unknown reason.
 One page it fails on is
 <https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications>.
