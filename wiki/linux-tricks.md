@@ -414,3 +414,14 @@ $ cat somefile | grep keyword > somefile
 ```
 
 would blank `somefile`.
+
+# System free on excessive RAM usage
+
+This is probably the single most annoying thing on Linux for me right now.
+Just some links for now:
+
+- [How to Configure the Linux Out of Memory Killer](http://www.oracle.com/technetwork/articles/servers-storage-dev/oom-killer-1911807.html)
+- [What to do when a linux desktop freezes?](https://unix.stackexchange.com/questions/31818/what-to-do-when-a-linux-desktop-freezes)
+- [How do I prevent Linux from freezing when out of memory?](https://serverfault.com/questions/390623/how-do-i-prevent-linux-from-freezing-when-out-of-memory)
+- [Bug \#1504914 “System freeze/restart on high memory usage” : Bugs : linux package : Ubuntu](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1504914)
+- [Computer freezing on almost full RAM, possibly disk cache problem](https://askubuntu.com/questions/41778/computer-freezing-on-almost-full-ram-possibly-disk-cache-problem)
