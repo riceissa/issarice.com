@@ -425,3 +425,16 @@ Just some links for now:
 - [How do I prevent Linux from freezing when out of memory?](https://serverfault.com/questions/390623/how-do-i-prevent-linux-from-freezing-when-out-of-memory)
 - [Bug \#1504914 “System freeze/restart on high memory usage” : Bugs : linux package : Ubuntu](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1504914)
 - [Computer freezing on almost full RAM, possibly disk cache problem](https://askubuntu.com/questions/41778/computer-freezing-on-almost-full-ram-possibly-disk-cache-problem)
+
+Things that work for me:
+
+- `SysRq`-`f`
+
+Things that don't work for me:
+
+- Setting aside memory
+- Setting the swappiness
+
+Things that I haven't tried:
+
+- Using `ulimit` to limit the memory per process
