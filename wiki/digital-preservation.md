@@ -71,7 +71,7 @@ Raw
 |[DOM Inspector][domi]|Browser DOM|Firefox|Good, but doesn't include external resources|Generally bad unless external resources are downloaded|Fast|No?|No?|Yes|
 |[Web Developer][webdev] plugin's "view generated source"|Browser DOM|Firefox, but Chrome probably has something similar|Good, but doesn't include external resources|Generally bad unless external resources are downloaded|Pretty slow on sites like Facebook|No|No|Yes|
 |ScrapBook, ScrapBook X|Browser DOM|Firefox|Good|Good|Slow|Yes|With corresponding autosave plugin|No|Yes|
-|Shelve| | | | | | |Yes|
+|Shelve| | | | | | |Yes|Yes|
 |[WarcProxy][warcproxy]|Raw?|Works via HTTP proxy, so supports any browser|[Apparently good][wp_comp]|[Apparently good][wp_comp]|
 |[Squid][squid]|Raw|
 |Browser cache|Raw?|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
