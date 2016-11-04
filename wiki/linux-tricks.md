@@ -428,7 +428,7 @@ Just some links for now:
 
 Things that work for me:
 
-- `SysRq`-`f`
+- `SysRq`-`f` (on my X220, this is pressed as `Alt`-`PrtSc`-`f`)
 
 Things that don't work for me:
 
