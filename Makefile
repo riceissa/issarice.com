@@ -3,9 +3,11 @@ MD_PAGES = $(wildcard wiki/*.md)
 HTML_PAGES = $(patsubst wiki/%.md,$(OUTDIR)/%,$(MD_PAGES))
 IMAGES = $(wildcard images/*)
 IMAGES_DEST = $(patsubst images/%,$(OUTDIR)/%,$(IMAGES))
+STATIC_FILES = $(wildcard static/*)
+STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
 
 .PHONY: pages
-pages: $(HTML_PAGES) $(IMAGES_DEST)
+pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST)
 
 .PHONY: fullsite
 fullsite: pages $(OUTDIR)/sitemap.xml $(OUTDIR)/_all $(OUTDIR)/_all_date
