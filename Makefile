@@ -40,6 +40,9 @@ $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 $(OUTDIR)/%: images/% | $(OUTDIR)
 	cp "$<" "$@"
 
+$(OUTDIR)/%: static/% | $(OUTDIR)
+	cp "$<" "$@"
+
 .PHONY: clean
 clean:
 	rm -rf $(OUTDIR)
