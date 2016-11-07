@@ -1,0 +1,47 @@
+[https://www.reddit.com/ Reddit] is an online discussion and content sharing site that has been called the "front page of the internet". Despite the impressive volume of information on Reddit, it's probably underused by young people as a source of intellectual content due to the site's difficult navigation, [[Wikipedia:Reddit#Controversies_involving_reddit|controversiality]], and general lack of awareness as a place to discover intellectual content.
+
+In general the signal-to-noise ratio on Reddit is low (lower than on sites like [[Quora]] or LessWrong), but since many more people use Reddit than Quora or LessWrong, there is still possibly more total opportunities to discover interesting content or connect with smart people there. Moreover, developing the ability to [https://www.quora.com/What-are-the-most-underrated-life-skills/answer/Alex-K-Chen sort through low-quality content for good information] may prove useful. 
+
+On this page we describe some considerations on how to get the most out of Reddit.
+
+__TOC__
+
+==General remarks==
+
+Here are some general things to keep in mind when using Reddit.
+
+* Although a single account allows you to contribute to all parts of the site, each subreddit still generally acts as a separate community. This sort of division is somewhere in between what you see on Quora (people are extremely "fluid" across topics) and Stack Exchange (very discrete communities; separate account creation for each site).
+
+* Since most people post under pseudonyms, and since many people also quickly change accounts (e.g. by using throwaway accounts), identity is less important on Reddit than on sites like Quora or LessWrong.
+
+* Reddit practices shadowbanning (sometimes called [[Wikipedia:Hellbanning|hellbanning]] or ghost banning), which means it's possible your posts will appear invisible to others. This shouldn't be a problem for most users, though, and definitely isn't a problem if you only browse (and don't post).
+
+==Finding good content==
+
+Finding content (especially intellectual content) you like on Reddit can be a challenge. Keep the following in mind to help you find what you like.
+
+* Given the somewhat discretized and extremely numerous communities of Reddit, finding the most interesting content often means finding the right subreddits to browse. Sometimes it is simply a matter of knowing what subreddits exist. For example, the subreddit for [[Effective altruism learning resources|effective altruism]] is called [http://www.reddit.com/r/smartgiving smartgiving].<br />The Quora question "[https://www.quora.com/Reddit-website/Which-subreddits-do-the-smartest-Redditors-follow Reddit (website): Which subreddits do the smartest Redditors follow?]" lists some subreddits to look into.
+
+* Particular subreddits, combined with even rudimentary searching, can turn up surprisingly useful information. For instance, you might search for the keyword "AMA" (an abbreviation for "Ask Me Anything") on the AskScience subreddit to find [http://www.reddit.com/r/askscience/search?q=AMA&sort=top&restrict_sr=on&t=all all the threads in the AskScience AMA series] (a series where users pose questions to real scientists about their research).
+
+* Despite the underemphasis on users on Reddit, it might still be worth looking into particularly notable users like [https://www.reddit.com/user/gwern gwern]. See also the Quora question "[https://www.quora.com/Who-are-the-most-interesting-science-people-to-follow-on-reddit Who are the most interesting science people to follow on reddit?]"
+
+* There is enough content on Reddit that a domain-restricted search can turn up useful results. On search engines like Google and DuckDuckGo, preface your searches by <code>site:reddit.com</code> to restrict your search to Reddit. For example, you can search for all Reddit discussions of Dread Pirate Roberts on Google like [https://www.google.com/#q=site:reddit.com+dread+pirate+roberts this].<br />Note that Reddit also natively has search, but this may be inferior to a Google search. (See [https://www.reddit.com/r/offmychest/comments/24qvek/reddit_your_search_engine_fucking_sucks/ this thread] for discussion.)
+
+* Many external sites often link to certain Reddit threads. For instance, Scott Alexander of Slate Star Codex often links to Reddit threads in his recurring links posts. You can find some of these [https://encrypted.google.com/search?hl=en&q=site%3Aslatestarcodex.com%20reddit here].<br />More generally, if you can find people who have the ability to filter out content on Reddit in a way that you like, this can lead you to some of the most useful content on Reddit with little effort on your part.
+
+* Reddit AMAs often have interesting content from experts on various topics. Some people associated with the broader effective altruism/rationality sphere, such as [https://www.reddit.com/comments/y9lm0/_/ Luke Muehlhauser], [https://www.reddit.com/r/IAmA/comments/32lnif Peter Singer], and [https://www.reddit.com/r/IAmA/comments/1x1dyy/i_am_bryan_caplan_economist_and_professor_at/ Bryan Caplan], have done AMAs.
+
+* Reddit has the ability to filter link shares by website. To do this, simply navigate to <code>reddit.com/domain/URL</code>, where <code>URL</code> is the URL of the site in consideration. So for example https://www.reddit.com/domain/michaelochurch.wordpress.com/top/ and https://www.reddit.com/domain/slatestarcodex.com/top/ will show you the top link shares of Michael O. Church's blog and Slate Star Codex, respectively. In other words, Reddit can function as a great way look for top content on sites as well as seeing the commentary.
+
+* For information on colleges, using a combination of Reddit (particularly subreddits of various schools), [[Quora]], and [[College Confidential]] is likely to turn up the most comprehensive information.
+
+* There are some external sites that help people discover Reddit content. We list some examples:
+** [http://paulrosenzweig.com/explore-reddit/ Explore Reddit] by Paul Rosenzweig helps you find top content for subreddits as well as related subreddits.
+** [http://metareddit.com/ Metareddit] is another tool that helps you explore Reddit.
+
+==External links==
+
+* "[http://www.hongkiat.com/blog/reddit-tips-tricks/ Getting The Most Out Of Reddit: 20 Tips, Tricks And Tools]" on Hongkiat provides general information on how to use Reddit.
+* [https://www.quora.com/Alex-K-Chen/answers/Reddit-website Alex K. Chen's Quora answers about Reddit] provide insights from an experienced user of both Reddit and Quora.
+
