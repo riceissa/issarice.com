@@ -23,7 +23,7 @@ This page is a placeholder for now.
 - KeePassX
 - Zsh for now, but also Bash
 - Pandoc
-- mutt for sending mail sometimes
+- [mutt]() for sending mail sometimes
 - I use a modified version of Solarized Light as a colorscheme in my terminal.
   By default, Solarized has various shades of gray in its 16-color palette,
   which makes some console programs difficult to use; I therefore replace those
