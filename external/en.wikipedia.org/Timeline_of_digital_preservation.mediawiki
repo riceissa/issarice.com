@@ -1,4 +1,4 @@
-This page is a '''timeline of [[digital preservation]]'''.
+This page is a '''timeline of [[digital preservation]]''', the art of preventing one's fingers from being cut off.
 
 ==Big picture==
 
@@ -11,14 +11,44 @@ This page is a '''timeline of [[digital preservation]]'''.
 
 ==Full timeline==
 
+TODO:
+
+* early history/most famous examples of proprietary data formats
+* first book scanner
+* Yahoo geocities going down
+* emergence of various physical media (as a separate "Event type"):
+** optical disks
+** tape archive
+** whichever modern thing the Internet Archive uses
+** regular hard drives
+* mention EMPs
+* mention Web Cite, archive.is and some other on-demand archival sites.
+* Archive-It
+* mention how IRL libraries transitioned to digital stuff
+* mention transition of the Web from mostly static pages to heavily-scripted pages with lots of media
+* mention rise of filesytems like [[RAID]] and [[ZFS]]
+* mention the frequently-cited measure to keep three copies of data: on the same drive, on a different drive in the same location, and in a different geographical location
+* when did google/facebook/amazon/wordpress start keeping servers in different regions of the world?
+* mention rise of "takeout" services by cloud services
+
 {| class="sortable wikitable"
 |-
 ! Year !! Month and date !! Event type !! Details
 |-
-| hi || hii || hiii || hiii
+| 1996 ||  || hiii || The [[Internet Archive]] is founded by [[Brewster Kahle]].<ref>{{cite web |url=https://archive.org/about/ |title=Internet Archive: About IA |accessdate=November 8, 2016}}</ref><ref name="ia_bios">{{cite web |url=https://archive.org/about/bios.php |title=Internet Archive: Bios |accessdate=November 8, 2016 |publisher=Internet Archive}}</ref>
+|-
+| 1996 || April || || [[Alexa Internet]] is founded by Brewster Kahle.<ref>{{cite web |url=http://www.alexa.com/company |archiveurl=https://web.archive.org/web/20091007102542/http://www.alexa.com/company |archivedate=October 7, 2009 |title=Alexa Internet - Company Overview |accessdate=November 8, 2016}}</ref> Since this year, Alexa Internet has donated its crawl data to the Internet Archive.<ref>{{cite web |url=https://archive.org/details/alexacrawls&tab=about |title=Alexa Crawls |publisher=Internet Archive |accessdate=November 8, 2016}}</ref><ref name="ia_bios" />
+|-
+| 2001 || || || The first known [[robotic book scanner]] is installed at [[Stanford University]].
+|-
+| 2004 || December || || The Google Books Library Project is launched as part of [[Google Books]].
+|-
+| 2009 || || || The [[Archive Team]] begins operating.
 |}
 
 ==See also==
+
+* [[List of digital preservation initiatives]]
 
 ==References==
 
