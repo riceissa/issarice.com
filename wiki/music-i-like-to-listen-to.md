@@ -91,6 +91,12 @@ before 2016      I mostly listen to mainstream Western music from a few
   * Blur, after seeing it mentioned in a [Facebook comment by Sebastian
     Nickel][seb_com]. So far I like *Parklife* the best.
 
+# November 2016
+
+  * The past several days I have been listening to *Please Please Me* on loop.
+    There is something special about this album that is not present in any of
+    the other early Beatles albums.
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
