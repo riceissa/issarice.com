@@ -9,7 +9,7 @@ This page is a '''timeline of [[digital preservation]]''', the art of preventing
 | hi || hii
 |}
 
-==Full timeline==
+==TODO list==
 
 TODO:
 
@@ -26,24 +26,43 @@ TODO:
 * Archive-It
 * mention how IRL libraries transitioned to digital stuff
 * mention transition of the Web from mostly static pages to heavily-scripted pages with lots of media
-* mention rise of filesytems like [[RAID]] and [[ZFS]]
+* mention rise of filesytems like [[RAID]] and [[ZFS]], [[Btrfs]]
 * mention the frequently-cited measure to keep three copies of data: on the same drive, on a different drive in the same location, and in a different geographical location
 * when did google/facebook/amazon/wordpress start keeping servers in different regions of the world?
 * mention rise of "takeout" services by cloud services
+* that funny thing where you print out digital content as things that look like QR codes
+* briefly mention software porting and emulation (DOOM as example?)
+* URL shortening services
+* problems of trust
+* software like heritrix, lua+wget
+
+==Full timeline==
 
 {| class="sortable wikitable"
 |-
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1951 || || || [[Magnetic tape]] is first used to record computer data on the Eckert-Mauchly [[UNIVAC I]]. The recording medium is a thin strip of one half inch (12.65&nbsp;mm) wide metal, consisting of nickel-plated bronze (called Vicalloy).
+|-
+| 1982 || October || || The [[compact disc]] (CD) as well as the CD player first become commercially available in Japan.<ref>{{cite web |url=https://www.theguardian.com/music/2015/may/28/how-the-compact-disc-lost-its-shine |author=Dorian Lynskey |date=May 28, 2015 |title=How the compact disc lost its shine |publisher=[[The Guardian]] |accessdate=November 9, 2016 |quote=CBS released the world’s first commercially available CD, a reissue of Billy Joel’s 52nd Street, in Japan in October 1982. Philips missed the production deadline so the international release was put back to March 1983.}}</ref><ref>{{cite web |url=http://www.pcworld.com/article/2010810/the-cd-player-turns-30.html |publisher=PCWorld |title=The CD player turns 30 |accessdate=November 9, 2016 |author=Benj Edwards |date=October 1, 2012 |quote=On October 1, 1982, Sony ignited a digital audio revolution with the release of the world’s first commercial compact disc player, the CDP-101 (above), in Japan.}}</ref>
+|-
 | 1996 ||  || hiii || The [[Internet Archive]] is founded by [[Brewster Kahle]].<ref>{{cite web |url=https://archive.org/about/ |title=Internet Archive: About IA |accessdate=November 8, 2016}}</ref><ref name="ia_bios">{{cite web |url=https://archive.org/about/bios.php |title=Internet Archive: Bios |accessdate=November 8, 2016 |publisher=Internet Archive}}</ref>
 |-
 | 1996 || April || || [[Alexa Internet]] is founded by Brewster Kahle.<ref>{{cite web |url=http://www.alexa.com/company |archiveurl=https://web.archive.org/web/20091007102542/http://www.alexa.com/company |archivedate=October 7, 2009 |title=Alexa Internet - Company Overview |accessdate=November 8, 2016}}</ref> Since this year, Alexa Internet has donated its crawl data to the Internet Archive.<ref>{{cite web |url=https://archive.org/details/alexacrawls&tab=about |title=Alexa Crawls |publisher=Internet Archive |accessdate=November 8, 2016}}</ref><ref name="ia_bios" />
 |-
+| 1996 || || || ''Preserving Digital Information: Report of the Task Force on Archiving of Digital Information'' (Donald Waters, John Garrett, eds.) is published.<ref>{{cite book|author=Donald Waters|author2=John Garrett|title=Preserving digital information: Report of the task force on archiving of digital information|isbn=1-88733450-5|year=1996|publisher=CLIR|url=http://www.clir.org/pubs/reports/pub63|accessdate=November 15, 2012}}</ref> It became a fundamental document in the field of digital preservation that helped set out key concepts, requirements, and challenges.<ref name="Tibbo-2003">{{cite journal|last=Tibbo|first=Helen R.|title=On the Nature and Importance of Archiving in the Digital Age|journal=Advances in Computers|year=2003|volume=57|page=26|doi=10.1016/S0065-2458(03)57001-2|series=Advances in Computers|isbn=9780120121571}}</ref><ref>{{cite web | title=Principles and Good Practice for Preserving Data. IHSN Working Paper No 003 | work = | website = | publisher=International Household Survey Network | date=December 2009 | url=http://www.surveynetwork.org/home/sites/default/files/resources/IHSN-WP003.pdf | format=pdf | doi = | accessdate=March 20, 2015 | archiveurl=http://www.webcitation.org/6XAJlDXpu | archivedate=March 20, 2015 }}</ref>
+|-
 | 2001 || || || The first known [[robotic book scanner]] is installed at [[Stanford University]].
+|-
+| 2002 || || || During this period, people fear that the contents of the [[BBC Domesday Project]] has become unreadable. The project is often cited as an example of [[digital obsolescence]].
+|-
+| 2004 || May 4 || || The [[Mozilla Archive Format]] (MAFF), a web page archiving format provided by [[Firefox]] through an [[Features of Firefox#Add-ons and extensions|extension]], is released.
 |-
 | 2004 || December || || The Google Books Library Project is launched as part of [[Google Books]].
 |-
 | 2009 || || || The [[Archive Team]] begins operating.
+|-
+| 2009 || May 15 || || The [[Web ARChive|WARC]] file format is published as the standard ISO 28500:2009.<ref>{{cite web |url=http://www.iso.org/iso/catalogue_detail.htm?csnumber=44717 |publisher=International Organization for Standardization |title=ISO 28500:2009 - Information and documentation -- WARC file format |accessdate=November 10, 2016}}</ref>
 |}
 
 ==See also==
@@ -53,4 +72,8 @@ TODO:
 ==References==
 
 {{Reflist|30em}}
+
+[[:Category:Digital preservation]]
+[[:Category:Technology timelines]]
+[[:Category:Computing timelines]]
 
