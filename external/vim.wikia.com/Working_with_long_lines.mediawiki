@@ -52,7 +52,7 @@ nnoremap &lt;silent&gt; &lt;expr&gt; gL winheight(0) - winline() - &amp;scrollof
 
 ===Generic formatting tools===
 
-Most UNIX-like programming environments offer generic tools for formatting text. These include <code>fmt</code>, <code>fold</code>, and <code>par</code>. From inside Vim, one can invoke:
+Most UNIX-like programming environments offer generic tools for formatting text. These include <code>fmt</code>, <code>fold</code>, <code>sed</code>, <code>perl</code>, and <code>par</code>. From inside Vim, one can invoke:
 
 <pre>
 :%!fmt -80 -s
