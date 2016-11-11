@@ -2,7 +2,7 @@ This page explains several strategies for dealing with long lines. Vim does not 
 
 One may encounter files with long lines in various situations:
 
-* Conventions can require it; e.g. the English Wikipedia favors single-line paragraphs so lines tend to be long
+* Conventions can require it; e.g. the English Wikipedia, which uses the MediaWiki markup language, favors single-line paragraphs so lines tend to be long
 * Some data files (JSON, CSVs, etc.) use long lines
 * Content on the web is often presented in [[Wikipedia:Minification (programming)|minified]] form, leading to long lines
 
