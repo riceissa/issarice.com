@@ -12,7 +12,7 @@ At a high level, the strategies for dealing with long lines can be grouped in th
 * Preprocessing the file to use shorter lines, and then possibly converting back to using long lines after the editing task in Vim is done; the two strategies here are "chopping" and pretty-printing
 * Increasing the terminal window size so that more text can fit in
 * Taking steps to prevent long lines (rewriting code to use shorter lines, enforcing a manageable text width, etc.)
-* Giving up on Vim for these files and using editors that work fine with long lines (gedit, GNU Emacs, etc.)
+* Giving up on Vim for these files and using editors and pagers that work fine with long lines (less, gedit, GNU Emacs, etc.); it's important to keep in mind that there is no single best tool for every task
 
 This article will cover the first two points.
 
