@@ -57,6 +57,29 @@ Other thoughts:
     I don't think these are acknowledged very often, although as long as people
     are betting on relatively "large" events that are difficult to affect, this
     point is minor.
+  * Claims that betting "taxes bullshit" or "fights hyperbole" rely on the
+    penalty of losing to be greater than the benefit of making those hyperbolic
+    claims in the first place.
+    And, again, one cannot just look at the outcome of a *single bet* and claim
+    that "I fought hyperbole and won".
+  * Until betting frequently becomes the norm, betting does not seem especially
+    lucrative.
+    It requires people who are willing to take you on the bet, to give you odds
+    that are favorable enough, the cost of being informed about the thing you
+    are betting on, the cost of due diligence to ensure your opponent will pay
+    up, etc.
+  * A possible scenario I want to think more about: a world where there is a
+    constant stream of low-stakes bets (from some authority) on which one is
+    required to take a position.
+    The authority then matches you with someone taking the opposite position.
+    Or perhaps people submit their subjective probabilities and the authority
+    matches people up with suitable odds (as long as subjective probabilities
+    differ, the authority can devise odds that are profitable to both sides
+    each given their own expectation?).
+
+Not all of the above points are unique to betting.
+
+I plan to write more about why I like betting later.
 
 [news]: http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html "Bryan Caplan. “The Case Against News”. EconLog. March 5, 2011."
 [super]: https://en.wikipedia.org/wiki/Superforecasting
