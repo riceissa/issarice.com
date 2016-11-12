@@ -33,4 +33,30 @@ only look for some events that are unlikely to happen (i.e. much less than a
 50% chance of occurring), but then state that one predicts they will happen
 with 50% chance.
 
+Other thoughts:
+
+  * At least in some cases, betting in the EA/rationalist community seems to
+    create a "winner/loser" mentality, where people are hyperfocused on the
+    results on a *particular* bet (example: people posting how much they won or
+    lost after the 2016 US presidential election).
+    If betting is truly about rationality, it's the *cumulative* bets and
+    overall track-record that matter.
+    I think the case is similar to the one to [avoid the news][news].
+  * I think it's interesting that many rationalists are against news, but end
+    up betting on news-worthy topics (but are these just the ones more likely
+    to show up in my Facebook feed?).
+  * I think even worse than self-selecting which bets to take is to announce
+    some bet one is willing to make in an effort to lure people into taking on
+    bets.
+  * I have some concern that people are to some extent offering and taking on
+    bets because it looks "cool" and "everyone else is doing it".
+  * Similarly to the point above, there are various motivations that lead
+    people to bet.
+  * Once a bet has been made, there are various new incentives to affect the
+    outcome of the bet.
+    I don't think these are acknowledged very often, although as long as people
+    are betting on relatively "large" events that are difficult to affect, this
+    point is minor.
+
+[news]: http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html "Bryan Caplan. “The Case Against News”. EconLog. March 5, 2011."
 [super]: https://en.wikipedia.org/wiki/Superforecasting
