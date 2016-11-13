@@ -2,7 +2,7 @@
 title: About this site
 author: Issa Rice
 created: 2014-09-14
-date: 2015-01-14
+date: 2016-11-13
 ---
 
 *This page is about this site; for information about myself, see [About]().*
