@@ -58,6 +58,8 @@ For now, I'm just testing out Pinboard; I'm not sure yet for how long I'll conti
 - I am [riceissa](http://effective-altruism.com/user/riceissa/) on the [Effective Altruism Forum](http://effective-altruism.com/).
 - I have [a profile](http://effectivealtruismhub.com/user/issa-rice) on the [Effective Altruism Hub](http://effectivealtruismhub.com/).
 - I have [a Patreon profile](https://www.patreon.com/issarice) that I use experimentally.
+- I am [riceissa on PredictionBook](http://predictionbook.com/users/riceissa).
+- I am [IssaRice on Good Judgment Open](https://www.gjopen.com/memberships/30211/scores).
 
 # Programming
 
