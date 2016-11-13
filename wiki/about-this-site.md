@@ -60,9 +60,10 @@ Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the
 
 # History
 
-The direct ancestor of this website is <https://riceissa.github.io>, which has
-the same "static site flavor" to it, and which I used until I bought my own VPS
-and domain names (see "[Colophon](#colophon)" below for details).
+The direct ancestor of this website is riceissa.github.com (which is now
+[riceissa.github.io][gh_site] after GitHub reorganized their domains), which
+has the same "static site flavor" to it, and which I used until I bought my own
+VPS and domain names (see "[Colophon](#colophon)" below for details).
 
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
@@ -98,8 +99,9 @@ things I'm writing"---but don't want to keep repeating that all the time
 something).
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
+[gh_site]: https://riceissa.github.io/
 [gwern]: http://gwern.net
+[mod]: _all
 [pandoc]: http://johnmacfarlane.net/pandoc/
 [rero]: https://en.wikipedia.org/wiki/Release_early,_release_often
 [subs]: _all_date
-[mod]: _all
