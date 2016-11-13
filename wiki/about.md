@@ -19,7 +19,7 @@ neoteny,
 long-term thinking,
 [LessWrong]()-style rationality,
 [unschooling](),
-and [hikikomori](!w).
+and [hikikomori](https://en.wikipedia.org/wiki/Hikikomori).
 
 These days I spend most of my time on [Facebook]() and [Wikipedia]().
 My [account names]() page has a longer list of my online accounts.
