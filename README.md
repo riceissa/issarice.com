@@ -23,6 +23,9 @@ HTML.)
 
 Note also that since the Markdown files in this repository use Pandoc's
 Markdown, they do not render correctly on GitHub.
+Any MediaWiki files in this repository will render incorrectly on GitHub as
+well, because they use special templates that are only available on some
+MediaWiki installations (such as the English Wikipedia).
 
 [cool]: http://www.w3.org/TR/cooluris/
 [pf]: https://github.com/jgm/pandocfilters
