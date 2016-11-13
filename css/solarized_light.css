@@ -59,19 +59,20 @@ blockquote {
     border-left: 4px solid #93a1a1;
     color: #586e75;
     margin: 0px;
-    padding: 0px 0px 0px 16px; /* top right bottom left */
+    padding-left: 16px;
 }
 
 code {
     background-color: #eee8d5;
     padding-left: 4px;
     padding-right: 4px;
+    word-wrap: normal;
 }
 
 pre code {
     display: block;
-    line-height: 1.2em;
-    max-height: 30em;
+    line-height: 1.2;
+    max-height: 400px;
     overflow: auto;
     padding: 10px;
 }
