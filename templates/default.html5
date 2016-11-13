@@ -62,6 +62,7 @@ $endfor$
   <div style="float:left;">
     <a href="./index">Home</a>
     | <a href="./about">About</a>
+    | <a href="./_all_date">Newest changes</a>
     $if(sourcefilename)$
     | <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/$sourcefilename$">View source</a>
     | <a href="https://github.com/riceissa/issarice.com/commits/master/$sourcefilename$">View history</a>
