@@ -1,11 +1,8 @@
 ---
 title: About this site
-description: site info, tools used to build the site
-tags: site-info, general
+author: Issa Rice
 created: 2014-09-14
 date: 2015-01-14
-license: CC0
-aliases: about-this-site, site
 ---
 
 *This page is about this site; for information about myself, see [About]().*
