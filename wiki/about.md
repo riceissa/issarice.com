@@ -21,8 +21,8 @@ long-term thinking,
 [unschooling](),
 and [hikikomori](!w).
 
-I spend time on various sites online, including [Facebook]() and [Quora]().
-My [contact]() page has a longer list of my online accounts.
+These days I spend most of my time on [Facebook]() and [Wikipedia]().
+My [account names]() page has a longer list of my online accounts.
 
 # Contact
 
