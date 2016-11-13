@@ -43,11 +43,6 @@ repository often---so my site is the result of many incremental updates[^aaron].
     - I only deploy the site about once per month, so a lot of the most "rough" edits tend to be fixed during the time between deployments (so most of the public won't see them anyway---and if they ever want to see those "rough" edits, they can always dig around in the [Git repository](https://github.com/riceissa/issarice.com)).
 
 
-[gwern]: http://gwern.net
-[cc-by]: https://creativecommons.org/licenses/by/4.0/
-[pandoc]: http://johnmacfarlane.net/pandoc/
-[rero]: https://en.wikipedia.org/wiki/Release_early,_release_often
-
 [^cy]: Of course, more cynically, [one could quote Scott Alexander](https://web.archive.org/web/20130118212124/http://raikoth.net/) about the reason many people have personal websites:
 
     > You know how if you're under the age of thirty you have to have a
@@ -79,11 +74,15 @@ In late October 2016, I finally added HTTPS support.
 I use Pandoc and a Makefile to produce this site, which is then hosted via Linode.
 For details, see [Colophon]().
 
-<!--
 # Getting updates
 
-I have an [Atom feed](http://issarice.com/atom.xml) for this site.
-For more ways to get updates, see [Feed]().-->
+I plan to add an Atom feed for this site at some point.
+For now, see the [list of pages on this site sorted by date of last substantive
+revision][subs] and the [list of all page on this site sorted by date of last
+modification][mod].
+
+<!-- I have an [Atom feed](http://issarice.com/atom.xml) for this site. -->
+<!-- For more ways to get updates, see [Feed](). -->
 
 # Belief and status tags
 
@@ -97,3 +96,10 @@ take this page very seriously, nor should you think that I believe the
 things I'm writing"---but don't want to keep repeating that all the time
 (so I just tag these pages with "*Status: notes; belief: possible*" or
 something).
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[gwern]: http://gwern.net
+[pandoc]: http://johnmacfarlane.net/pandoc/
+[rero]: https://en.wikipedia.org/wiki/Release_early,_release_often
+[subs]: _all_date
+[mod]: _all
