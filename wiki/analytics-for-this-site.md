@@ -17,5 +17,5 @@ time when the filter was created.
 Thus the graph below includes the months July 1, 2015 through October 31, 2016,
 with monthly granularity.
 
-![Overview for data from July 1, 2015 to October 31,
-2016](analytics-2015-07-01-to-2016-10-31.png)
+[![Overview for data from July 1, 2015 to October 31,
+2016](analytics-2015-07-01-to-2016-10-31.png)](analytics-2015-07-01-to-2016-10-31.png)
