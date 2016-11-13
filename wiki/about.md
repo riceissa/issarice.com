@@ -2,7 +2,7 @@
 title: About
 author: Issa Rice
 created: 2014-09-13
-date: 2015-10-04
+date: 2016-11-13
 ---
 
 *Note that I have two About pages. This page is about myself (Issa Rice); for information about this website, see [About this site](). See also [Colophon]().*
