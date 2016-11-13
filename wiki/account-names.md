@@ -4,7 +4,7 @@ created: 2015-01-14
 date: 2015-09-06
 ---
 
-Below I list the account names[^aname] I use on various websites.
+Below I list the account names I use on various websites.
 
 I usually use "riceissa" on most sites.
 This is somewhat of a historical accident: when I tried to sign up for my GMail
