@@ -9,6 +9,21 @@ date: 2016-11-13
 
 # Philosophy
 
+While the general feeling and content on this site has stayed the same since
+when I created it in September 2014, my overall thinking of it and goals for it
+have changed somewhat.
+
+Before:
+
+  * place to put most of my writings
+  * long content that could be kept reliable
+
+Now:
+
+  * must deal with reality that personal sites don't get much readership
+  * wanting to keep this site simple, but knowing that this means not
+    everything can be fulfilled here (no comments, no interactive things, etc.)
+
 This site is my attempt to realize [gwern]’s idea of [Long
 Content]()---i.e. the goal is to incrementally update the pages so as to
 produce useful, lasting content.[^cy] It is also an [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts. In particular, I strive to make
