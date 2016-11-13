@@ -8,6 +8,10 @@ date: 2016-11-13
 I use Google Analytics to track traffic to this site.
 In the interest of transparency, I release some summary data here.
 
+Note that I use the [Firefox]() plugin NoScript to disable JavaScript from
+google-analytics.com, so this shouldn't count my own views of the site (for the
+most part).
+
 Around the end of June 2015 (I think) I realized that Google Analytics wasn't
 doing a good job of filtering out fake referral spam, which was artificially
 driving up pageviews.
