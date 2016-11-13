@@ -1,5 +1,6 @@
 ---
-title: Music I like to listen to
+title: Music log
+author: Issa Rice
 created: 2014-12-20
 date: 2016-06-18
 ---
