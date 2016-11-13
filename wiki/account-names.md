@@ -4,36 +4,13 @@ created: 2015-01-14
 date: 2015-09-06
 ---
 
-Below are some ways to contact me (Issa Rice), as well as the account
-names[^aname] I use on various websites.  Feel free to connect with me
-through any of the means below.  I am most responsive via email and
-Facebook (I may not check other sites very often).
-I try to respond to everyone who contacts me, but [for various reasons][noc] I might not; feel free to [ping me][ping] if I don't respond.^[Also see [I emailed my customer asking multiple questions\. Their reply addressed only one\. What is the polite way to point this out?][multiq]; i.e. I will try to respond to every question or point, but sometimes I might not (for whatever reason). If you really want an answer, feel free to re-ask the question/restate the point.]
-You can also stalk
-me online (e.g. by following me on Quora or Facebook or by reading what
-I have on this website).  I also don't mind if you ask questions about
-me on Quora, though recently Quora has gotten stricter about what sorts
-of personal questions are allowed[^bnbr].
+Below I list the account names[^aname] I use on various websites.
 
-[^aname]: I usually use "riceissa" on most sites. This is somewhat of a
-historical accident: when I tried signing up for my Gmail account,
-"issarice" was already taken, so I picked "riceissa" instead. Since
-then, I've sort of standardized on "riceissa" for most services, although I also use "issarice".
-
-[^bnbr]: In general, you should be fine as long as you follow Quora's
-“[Be Nice, Be Respectful][bnbr]” policy; it matters less whether the
-person about whom the question is asked is fine with it.
-
-# General
-
-- My email address is [riceissa@gmail.com][email].
-- [My PGP public key][pgp]
-- You can also [send me anonymous feedback][feedback]
-  (idea from [lukeprog][l feedb] and [Gwern][g feedb]).
-- I have [an identification photo][photo] in case you'd like to know what I
-  look like.
-
-
+I usually use "riceissa" on most sites.
+This is somewhat of a historical accident: when I tried to sign up for my GMail
+account, "issarice" was already taken, so I picked "riceissa" instead.
+Since then, I've sort of standardized on "riceissa" for most services, although
+I also use "issarice".
 
 # Social
 
@@ -42,10 +19,11 @@ person about whom the question is asked is fine with it.
   appear to be spam; having some mutual friends or messaging me
   simultaneously with your friend request will let me know that your
   profile is genuine.
-- I check [Quora]() a few times a day now.  My Quora account name is
+- I check [Quora]() on occasion.  My Quora account name is
   [Issa-Rice][qp].
 - I have a [Pinboard account](https://pinboard.in/u:riceissa).
-For now, I'm just testing out Pinboard; I'm not sure yet for how long I'll continue using it.
+  I tested out Pinboard for a year and didn't renew my payment afterward so it
+  is now frozen.
 - I have a [LinkedIn profile][lp].  I
   don’t use LinkedIn very much, but feel free to connect with me.
 - I am [riceissa][tp] on [Twitter](https://twitter.com/).  I don’t use
@@ -56,8 +34,8 @@ For now, I'm just testing out Pinboard; I'm not sure yet for how long I'll conti
 
 - I am [riceissa](http://lesswrong.com/user/riceissa/overview/) on [LessWrong]().
 - I am [riceissa](http://effective-altruism.com/user/riceissa/) on the [Effective Altruism Forum](http://effective-altruism.com/).
-- I have [a profile](http://effectivealtruismhub.com/user/issa-rice) on the [Effective Altruism Hub](http://effectivealtruismhub.com/).
-- I have [a Patreon profile](https://www.patreon.com/issarice) that I use experimentally.
+- I have a [profile](http://effectivealtruismhub.com/user/issa-rice) on the [Effective Altruism Hub](http://effectivealtruismhub.com/).
+- I have a [Patreon profile](https://www.patreon.com/issarice) that I use experimentally.
 - I am [riceissa on PredictionBook](http://predictionbook.com/users/riceissa).
 - I am [IssaRice on Good Judgment Open](https://www.gjopen.com/memberships/30211/scores).
 
@@ -87,18 +65,10 @@ I occasionally use Reddit to look for information, but don’t really post.
 
 - [How I communicate](how-i-communicate)
 
-[bnbr]: https://www.quora.com/What-is-Quoras-Be-Nice-Be-Respectful-policy
-[email]: mailto:riceissa@gmail.com
 [fbp]: https://www.facebook.com/riceissa
-[feedback]: https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form
-[g feedb]: http://www.gwern.net/About#anonymous-feedback
-[l feedb]: http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/
 [lp]: https://www.linkedin.com/in/issarice
 [multiq]: https://workplace.stackexchange.com/questions/44483/i-emailed-my-customer-asking-multiple-questions-their-reply-addressed-only-one
-[noc]: http://lesswrong.com/lw/eua/reasons_for_someone_to_ignore_you/ "“Reasons for someone to ‘ignore’ you” by Wei Dai"
 [okcp]: http://www.okcupid.com/profile/riceissa
-[pgp]: http://files.issarice.com/issarice-pubkey.asc
 [photo]: ./identification-photo.jpg
-[ping]: http://www.inc.com/minda-zetlin/why-you-need-to-be-better-at-following-up.html "The Art of Following Up (Without Being Annoying)"
 [qp]: https://www.quora.com/Issa-Rice
 [tp]: https://twitter.com/riceissa
