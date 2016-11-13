@@ -10,7 +10,7 @@ date: 2016-11-13
 # Self-introduction
 
 My interests include
-[cause prioritization](http://causeprioritization.org/),
+[cause prioritization](https://causeprioritization.org/),
 [effective altruism](),
 [content creation](content-creation),
 global health,
