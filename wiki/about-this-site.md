@@ -12,17 +12,43 @@ date: 2016-11-13
 While the general feeling and content on this site has stayed the same since
 when I created it in September 2014, my overall thinking of it and goals for it
 have changed somewhat.
+Originally, this site was intended as a place where I could:
 
-Before:
+  * place most of my writings regardless of content (biographical information,
+    technical content, opinion pieces, etc.) and style (random notes, polished
+    articles, etc.)
+  * ensure that the content's existence would be for the long-term, so that I
+    could add a little bit of information at a time, knowing that the site
+    would exist whenever I next wanted to work on the same page
+  * canonically establish my [personal identity][cm_personal_web] online.
 
-  * place to put most of my writings
-  * long content that could be kept reliable
+As of November 2016, now that the site has existed for over two years in its
+current form, here are my thoughts on the above points:
 
-Now:
-
-  * must deal with reality that personal sites don't get much readership
-  * wanting to keep this site simple, but knowing that this means not
-    everything can be fulfilled here (no comments, no interactive things, etc.)
+  * With the site having been around for a while, I have a good idea of how
+    many [pageviews the site gets](analytics-for-this-site) -- it's not very
+    many.
+    If I want my writings to be read, I need to either ramp up on promoting my
+    content or publish in places that have more readership.
+    I've mostly opted for the latter, and keep many writings now in an
+    [`external`][external] directory in the site's Git repository.
+    As a result, this site has become a place for my biographical information
+    as well as random notes that don't belong anywhere else.
+    This does make this site less useful on its own, but I'm fine with the
+    trade-off.
+  * The site has survived so far, despite going through several changes in the
+    static site generator that is used, the style of Markdown, and the
+    organization of pages.
+    I still have the full version-controlled history thanks to [Git]().
+    Since I am religious about mirroring content I write on external sites to
+    the `external` directory, even if a site for which I write goes down, I can
+    ensure that at least my own contributions are here for the long-term.
+  * I'm mostly happy about having been able to canonically establish my
+    personal identity.
+    The domain name of this site did change from riceissa.com to the current
+    issarice.com, and I've reorganized biographical pages a few times, but
+    currently, I have an [About]() page, a page for my online [account
+    names](), and so forth.
 
 This site is my attempt to realize [gwern]’s idea of [Long
 Content]()---i.e. the goal is to incrementally update the pages so as to
@@ -114,9 +140,11 @@ things I'm writing"---but don't want to keep repeating that all the time
 something).
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
+[external]: https://github.com/riceissa/issarice.com/tree/master/external
 [gh_site]: https://riceissa.github.io/
 [gwern]: http://gwern.net
 [mod]: _all
 [pandoc]: http://johnmacfarlane.net/pandoc/
 [rero]: https://en.wikipedia.org/wiki/Release_early,_release_often
 [subs]: _all_date
+[cm_personal_web]: http://info.cognitomentoring.org/wiki/Creating_your_personal_website
