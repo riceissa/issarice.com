@@ -14,6 +14,8 @@ I also use "issarice".
 
 # Social
 
+- My Google account name is riceissa.
+  In particular, my GMail address is [riceissa@gmail.com][email].
 - My [Facebook]() account name is [riceissa][fbp].  I check Facebook regularly
   throughout the day.  I generally accept all friend requests that don’t
   appear to be spam; having some mutual friends or messaging me
@@ -65,6 +67,7 @@ I occasionally use Reddit to look for information, but don’t really post.
 
 - [How I communicate](how-i-communicate)
 
+[email]: mailto:riceissa@gmail.com
 [fbp]: https://www.facebook.com/riceissa
 [lp]: https://www.linkedin.com/in/issarice
 [okcp]: http://www.okcupid.com/profile/riceissa
