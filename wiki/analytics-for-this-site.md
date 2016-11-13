@@ -1,0 +1,21 @@
+---
+title: Analytics for this site
+author: Issa Rice
+created: 2016-11-13
+date: 2016-11-13
+---
+
+I use Google Analytics to track traffic to this site.
+In the interest of transparency, I release some summary data here.
+
+Around the end of June 2015 (I think) I realized that Google Analytics wasn't
+doing a good job of filtering out fake referral spam, which was artificially
+driving up pageviews.
+To counter this, I implemented some filters to exclude certain referrals.
+However, Google Analytics can only show graphs for filtered views since the
+time when the filter was created.
+Thus the graph below includes the months July 1, 2015 through October 31, 2016,
+with monthly granularity.
+
+![Overview for data from July 1, 2015 to October 31,
+2016](analytics-2015-07-01-to-2016-10-31.png)
