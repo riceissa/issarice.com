@@ -1,17 +1,8 @@
 ---
 title: About
-#description: none
 author: Issa Rice
 created: 2014-09-13
 date: 2015-10-04
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: site-info, personal
 ---
 
 *Note that I have two About pages. This page is about myself (Issa Rice); for information about this website, see [About this site](). See also [Colophon]().*
