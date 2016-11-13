@@ -66,6 +66,16 @@ repository often---so my site is the result of many incremental updates[^aaron].
 
 Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](./using-a-tree-structure-for-websites) of this site. In particular, I think many of gwern's pages are too long, so I like to siphon off content to new pages once a section on a page matures enough, etc.
 
+# History
+
+The direct ancestor of this website is <https://riceissa.github.io>, which has
+the same "static site flavor" to it, and which I used until I bought my own VPS
+and domain names (see "[Colophon](#colophon)" below for details).
+
+This site used to be canonically available at <http://riceissa.com>, but I
+think in late 2014 I make <http://issarice.com> the canonical domain.
+
+In late October 2016, I finally added HTTPS support.
 
 # Colophon
 
