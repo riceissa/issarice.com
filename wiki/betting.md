@@ -76,6 +76,10 @@ Other thoughts:
     matches people up with suitable odds (as long as subjective probabilities
     differ, the authority can devise odds that are profitable to both sides
     each given their own expectation?).
+  * Calibration graphs as presented in places like PredictionBook don't give
+    the "real" calibration because they assume all predictions are independent.
+    Vipul Naik [makes the same point][vip_cal] in a Facebook post announcing
+    some predictions he has made.
 
 Not all of the above points are unique to betting.
 
@@ -83,3 +87,4 @@ I plan to write more about why I like betting later.
 
 [news]: http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html "Bryan Caplan. “The Case Against News”. EconLog. March 5, 2011."
 [super]: https://en.wikipedia.org/wiki/Superforecasting
+[vip_cal]: https://www.facebook.com/vipulnaik.r/posts/10210097120400452
