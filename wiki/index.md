@@ -15,8 +15,9 @@ anything that doesn't belong elsewhere ends up on here, and as a result
 some of the content on here can be admittedly of low-quality).  Below are
 some pages that may be of interest:
 
-- [About me](about) (contains a short self-introduction)
-- [Contact information and account names I use on various websites](contact)
+- [About me](about) (contains a short self-introduction and contact
+  information)
+- [Account names I use on various websites](account-names)
 - [About this site](about-this-site)
 - Most recently, I've been doing a lot of [Wikipedia](wikipedia) editing.
 - I maintain the [Cause Prioritization Wiki](http://causeprioritization.org) (external site).
