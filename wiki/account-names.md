@@ -67,7 +67,6 @@ I occasionally use Reddit to look for information, but don’t really post.
 
 [fbp]: https://www.facebook.com/riceissa
 [lp]: https://www.linkedin.com/in/issarice
-[multiq]: https://workplace.stackexchange.com/questions/44483/i-emailed-my-customer-asking-multiple-questions-their-reply-addressed-only-one
 [okcp]: http://www.okcupid.com/profile/riceissa
 [photo]: ./identification-photo.jpg
 [qp]: https://www.quora.com/Issa-Rice
