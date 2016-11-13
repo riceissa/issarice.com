@@ -10,7 +10,7 @@ STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
 pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST)
 
 .PHONY: fullsite
-fullsite: pages $(OUTDIR)/sitemap.xml $(OUTDIR)/_all $(OUTDIR)/_all_date
+fullsite: $(OUTDIR)/_all_date $(OUTDIR)/_all pages $(OUTDIR)/sitemap.xml
 
 $(OUTDIR)/_all: $(MD_PAGES) generator/all_pages.sh | $(OUTDIR)
 	./generator/all_pages.sh | \
