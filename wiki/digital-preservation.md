@@ -393,6 +393,9 @@ these).
 Periodically grepping around the archived content is probably a good idea to
 see if anything is missing.
 
+Also the ELinks handling of HTTPS connections (as of version 0.12pre6 on
+Ubuntu) is a bit concerning.
+
 # Requirements for good data archiving solutions
 
 
