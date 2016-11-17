@@ -384,6 +384,15 @@ and HTML, the solution is pretty simple:
 
 Just save it in `~/.elinks/hooks.lua`.
 
+Question: Does this capture everything that can be seen in ELinks?
+In other words, is there a one-to-one correspondence between 'things that can
+be see when browsing the page' and 'things that are saved on disk'?
+Since Elinks doesn't support JavaScript, this seems possible, but I do wonder
+if e.g. the content of iframes are saved (not that many sites I browse use
+these).
+Periodically grepping around the archived content is probably a good idea to
+see if anything is missing.
+
 # Requirements for good data archiving solutions
 
 
