@@ -343,6 +343,27 @@ How do you name archives?
 In general, using the URL is not possible, because there is around a
 2000-character limit to URLs but file systems like ext4 have a 255-byte limit.
 
+# Solution in ELinks
+
+ELinks comes with Lua scripting support.
+Since it provides a hook that gives you the URL and HTML when the page loads,
+the solution is pretty simple:
+
+    function pre_format_html_hook(url, html)
+        -- After obtaining the HTML page, save a copy of it timestamped
+        local timestamp = os.date("%Y-%m-%dT%H-%M-%S%z")
+        local index = io.open("index.txt", "a")
+        index:write(timestamp .. "," .. url .. "\n")
+        index:close()
+        local file = io.open(timestamp .. ".html", "w")
+        file:write(html)
+        file:close()
+        -- Return the HTML page unmodified
+        return nil
+    end
+
+Just save it in `~/.elinks/hooks.lua`.
+
 # Requirements for good data archiving solutions
 
 
