@@ -13,11 +13,13 @@ This page is a '''timeline of [[digital preservation]]''', the art of preventing
 
 ==TODO list==
 
-TODO:
-
+* when did on-demand services begin to emerge? (is my impression that Internet Archive used to not have on-demand archival correct?)
+* mention Web Cite, archive.is and some other on-demand archival sites.
+* milestones in the development of JavaScript, Flash
+* any information available on amount of spending (overall or by specific bodies) over the years?
 * early history/most famous examples of proprietary data formats
 * first book scanner
-* Yahoo geocities going down
+* Yahoo geocities (and probably some others like [[Google Reader]]) going down
 * emergence of various physical media (as a separate "Event type"):
 ** optical disks
 ** tape archive
@@ -25,7 +27,6 @@ TODO:
 ** regular hard drives
 ** DLT tape https://archive.org/about/
 * mention EMPs
-* mention Web Cite, archive.is and some other on-demand archival sites.
 * Archive-It
 * mention how IRL libraries transitioned to digital stuff
 * mention transition of the Web from mostly static pages to heavily-scripted pages with lots of media
