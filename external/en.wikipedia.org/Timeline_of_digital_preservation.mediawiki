@@ -23,20 +23,24 @@ TODO:
 ** tape archive
 ** whichever modern thing the Internet Archive uses
 ** regular hard drives
+** DLT tape https://archive.org/about/
 * mention EMPs
 * mention Web Cite, archive.is and some other on-demand archival sites.
 * Archive-It
 * mention how IRL libraries transitioned to digital stuff
 * mention transition of the Web from mostly static pages to heavily-scripted pages with lots of media
-* mention rise of filesytems like [[RAID]] and [[ZFS]], [[Btrfs]]
+* mention rise of filesytems like and [[ZFS]], [[Btrfs]]
 * mention the frequently-cited measure to keep three copies of data: on the same drive, on a different drive in the same location, and in a different geographical location
 * when did google/facebook/amazon/wordpress start keeping servers in different regions of the world?
 * mention rise of "takeout" services by cloud services
 * that funny thing where you print out digital content as things that look like QR codes
 * briefly mention software porting and emulation (DOOM as example?)
-* URL shortening services
 * problems of trust
 * software like heritrix, lua+wget
+* maybe look at [[List of the largest libraries in the United States]], e.g. I think [[University of Michigan Library]] does quite a bit of digital archival work
+* finish reading through [[Digital preservation]], [[Alexa Internet]], [[Internet Archive]] for other topics to include
+* I think Alexa now provides ''all'' of the Internet Archive's crawling data, but verify
+* https://web.archive.org/web/19971017065743/http://community.bellcore.com/lesk/auspres/aus.html might be interesting
 
 ==Full timeline==
 
@@ -44,9 +48,13 @@ TODO:
 |-
 ! Year !! Month and date !! Event type !! Details
 |-
+| Early 1950s || || || The term [[radioflash]] begins to be used, mainly in the [[United Kingdom]], to describe the [[nuclear electromagnetic pulse]].
+|-
 | 1951 || || || [[Magnetic tape]] is first used to record computer data on the Eckert-Mauchly [[UNIVAC I]]. The recording medium is a thin strip of one half inch (12.65&nbsp;mm) wide metal, consisting of nickel-plated bronze (called Vicalloy).
 |-
 | 1982 || October || || The [[compact disc]] (CD) as well as the CD player first become commercially available in Japan.<ref>{{cite web |url=https://www.theguardian.com/music/2015/may/28/how-the-compact-disc-lost-its-shine |author=Dorian Lynskey |date=May 28, 2015 |title=How the compact disc lost its shine |publisher=[[The Guardian]] |accessdate=November 9, 2016 |quote=CBS released the world’s first commercially available CD, a reissue of Billy Joel’s 52nd Street, in Japan in October 1982. Philips missed the production deadline so the international release was put back to March 1983.}}</ref><ref>{{cite web |url=http://www.pcworld.com/article/2010810/the-cd-player-turns-30.html |publisher=PCWorld |title=The CD player turns 30 |accessdate=November 9, 2016 |author=Benj Edwards |date=October 1, 2012 |quote=On October 1, 1982, Sony ignited a digital audio revolution with the release of the world’s first commercial compact disc player, the CDP-101 (above), in Japan.}}</ref>
+|-
+| 1987 || June || || The term "[[RAID]]" is invented by [[David Patterson (scientist)|David Patterson]], [[Garth A. Gibson]], and [[Randy Katz]] at the [[University of California, Berkeley]] in 1987. In their June 1988 paper "A Case for Redundant Arrays of Inexpensive Disks (RAID)", presented at the [[SIGMOD]] conference, they would argue that the top performing [[mainframe computer|mainframe]] disk drives of the time could be beaten on performance by an array of the inexpensive drives that had been developed for the growing [[personal computer]] market. Although failures would rise in proportion to the number of drives, by configuring for redundancy, the reliability of an array could far exceed that of any large single drive.<ref>{{Cite conference |last=Patterson |first=David |authorlink=David A. Patterson (scientist) |author2=[[Garth A. Gibson|Gibson, Garth A.]] |author3=[[Randy Katz|Katz, Randy]] |year=1988 |title=A Case for Redundant Arrays of Inexpensive Disks (RAID) |publisher=SIGMOD Conferences |url=http://www.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-391.pdf |accessdate=2006-12-31 |format=PDF}}</ref><ref>{{cite web |url=http://www.computerworld.com/article/2573180/data-center/the-story-so-far.html |title=The Story So Far |author=Frank Hayes |publisher=Computerworld |date=November 17, 2003 |accessdate=November 18, 2016 |quote=Patterson recalled the beginnings of his RAID project in 1987. [&hellip;] 1988: David A. Patterson leads a team that defines RAID standards for improved performance, reliability and scalability.}}</ref>
 |-
 | 1996 || January || || The initial version of the command-line downloading program [[Wget]], then known as Geturl, is released.<ref>{{cite web|url=http://svn.dotsrc.org/repo/wget/tags/WGET_1_10/NEWS |title=GNU Wget NEWS – history of user-visible changes |publisher=Svn.dotsrc.org |date=2005-03-20 |accessdate=2012-12-08 |archive-url=https://web.archive.org/web/20070313111309/http://svn.dotsrc.org/repo/wget/tags/WGET_1_10/NEWS |archive-date=March 13, 2007 |quote=Wget 1.4.0 [formerly known as Geturl] is an extensive rewrite of Geturl.}} This NEWS file is included in source distributions of Wget.</ref><ref>{{cite web |url=http://groups-beta.google.com/group/comp.infosystems.www.announce/msg/4268334d269d42ce?hl=en |title=Geturl: Software for non-interactive downloading |date=June 24, 1996 |first=Hrvoje |last=Niksic |publisher=
 comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
