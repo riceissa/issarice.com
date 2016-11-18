@@ -1,3 +1,5 @@
+{{INDEX|visible = yes}} <!-- Remove after publishing in main -->
+
 This page is a '''timeline of [[digital preservation]]''', the art of preventing one's fingers from being cut off.
 
 ==Big picture==
@@ -46,19 +48,30 @@ TODO:
 |-
 | 1982 || October || || The [[compact disc]] (CD) as well as the CD player first become commercially available in Japan.<ref>{{cite web |url=https://www.theguardian.com/music/2015/may/28/how-the-compact-disc-lost-its-shine |author=Dorian Lynskey |date=May 28, 2015 |title=How the compact disc lost its shine |publisher=[[The Guardian]] |accessdate=November 9, 2016 |quote=CBS released the world’s first commercially available CD, a reissue of Billy Joel’s 52nd Street, in Japan in October 1982. Philips missed the production deadline so the international release was put back to March 1983.}}</ref><ref>{{cite web |url=http://www.pcworld.com/article/2010810/the-cd-player-turns-30.html |publisher=PCWorld |title=The CD player turns 30 |accessdate=November 9, 2016 |author=Benj Edwards |date=October 1, 2012 |quote=On October 1, 1982, Sony ignited a digital audio revolution with the release of the world’s first commercial compact disc player, the CDP-101 (above), in Japan.}}</ref>
 |-
+| 1996 || January || || The initial version of the command-line downloading program [[Wget]], then known as Geturl, is released.<ref>{{cite web|url=http://svn.dotsrc.org/repo/wget/tags/WGET_1_10/NEWS |title=GNU Wget NEWS – history of user-visible changes |publisher=Svn.dotsrc.org |date=2005-03-20 |accessdate=2012-12-08 |archive-url=https://web.archive.org/web/20070313111309/http://svn.dotsrc.org/repo/wget/tags/WGET_1_10/NEWS |archive-date=March 13, 2007 |quote=Wget 1.4.0 [formerly known as Geturl] is an extensive rewrite of Geturl.}} This NEWS file is included in source distributions of Wget.</ref><ref>{{cite web |url=http://groups-beta.google.com/group/comp.infosystems.www.announce/msg/4268334d269d42ce?hl=en |title=Geturl: Software for non-interactive downloading |date=June 24, 1996 |first=Hrvoje |last=Niksic |publisher=
+comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
+|-
 | 1996 ||  || hiii || The [[Internet Archive]] is founded by [[Brewster Kahle]].<ref>{{cite web |url=https://archive.org/about/ |title=Internet Archive: About IA |accessdate=November 8, 2016}}</ref><ref name="ia_bios">{{cite web |url=https://archive.org/about/bios.php |title=Internet Archive: Bios |accessdate=November 8, 2016 |publisher=Internet Archive}}</ref>
 |-
 | 1996 || April || || [[Alexa Internet]] is founded by Brewster Kahle.<ref>{{cite web |url=http://www.alexa.com/company |archiveurl=https://web.archive.org/web/20091007102542/http://www.alexa.com/company |archivedate=October 7, 2009 |title=Alexa Internet - Company Overview |accessdate=November 8, 2016}}</ref> Since this year, Alexa Internet has donated its crawl data to the Internet Archive.<ref>{{cite web |url=https://archive.org/details/alexacrawls&tab=about |title=Alexa Crawls |publisher=Internet Archive |accessdate=November 8, 2016}}</ref><ref name="ia_bios" />
 |-
 | 1996 || || || ''Preserving Digital Information: Report of the Task Force on Archiving of Digital Information'' (Donald Waters, John Garrett, eds.) is published.<ref>{{cite book|author=Donald Waters|author2=John Garrett|title=Preserving digital information: Report of the task force on archiving of digital information|isbn=1-88733450-5|year=1996|publisher=CLIR|url=http://www.clir.org/pubs/reports/pub63|accessdate=November 15, 2012}}</ref> It became a fundamental document in the field of digital preservation that helped set out key concepts, requirements, and challenges.<ref name="Tibbo-2003">{{cite journal|last=Tibbo|first=Helen R.|title=On the Nature and Importance of Archiving in the Digital Age|journal=Advances in Computers|year=2003|volume=57|page=26|doi=10.1016/S0065-2458(03)57001-2|series=Advances in Computers|isbn=9780120121571}}</ref><ref>{{cite web | title=Principles and Good Practice for Preserving Data. IHSN Working Paper No 003 | work = | website = | publisher=International Household Survey Network | date=December 2009 | url=http://www.surveynetwork.org/home/sites/default/files/resources/IHSN-WP003.pdf | format=pdf | doi = | accessdate=March 20, 2015 | archiveurl=http://www.webcitation.org/6XAJlDXpu | archivedate=March 20, 2015 }}</ref>
 |-
+| 1997 || April 8 || || [[cURL]], a computer software project providing a [[library (computing)|library]] and [[command-line]] tool for transferring data using various [[Protocol (computing)|protocols]], releases its initial version of the tool. It is known at this point as HttpGet, would briefly rename itself to urlget, and would finally rename itself to cURL in March 1998. cURL can be used to download files over a network.<ref>{{cite web |url=https://curl.haxx.se/docs/history.html |title=History of curl - How curl Became Like This |publisher=curl |accessdate=November 17, 2016 |quote=Daniel simply adopted an existing command-line open-source tool, httpget, that Brazilian Rafael Sagula had written and recently release version 0.1 of. After a few minor adjustments, it did just what he needed. [&hellip;] HttpGet 1.0 was released on April 8th 1997 with brand new HTTP proxy support.}}</ref><ref>{{cite web |url=https://daniel.haxx.se/blog/2015/03/20/curl-17-years-old-today/ |title=curl, 17 years old today |last1=Stenberg |first1=Daniel |date=20 March 2015 |website=daniel.haxx.se |publisher= |access-date=20 March 2015}}</ref>
+|-
 | 2001 || || || The first known [[robotic book scanner]] is installed at [[Stanford University]].
 |-
+| 2001 || October || || The [[Wayback Machine]] is launched.<ref>{{cite web|url=http://www.burmalibrary.org/reg.burma/archives/200110/msg00079.html|title=Internet Archive launches WayBack Machine|work=Online Burma Library|date=2001-10-25|accessdate=2016-03-13}}</ref>
+|-
 | 2002 || || || During this period, people fear that the contents of the [[BBC Domesday Project]] has become unreadable. The project is often cited as an example of [[digital obsolescence]].
+|-
+| 2002 || January || || [[TinyURL]], the first notable [[URL shortening]] service, is launched.<ref>{{cite web |url=https://www.wired.com/2004/03/honey-i-shrunk-the-url/ |title=Honey, I Shrunk the URL |publisher=''[[Wired (magazine)|Wired]]'' |date=March 16, 2004 |accessdate=November 17, 2016 |author=Katie Dean |quote=So the 24-year-old Web developer from Blaine, Minnesota, launched TinyURL.com in January 2002, a free site that converts huge strings of characters into more manageable snippets.}}</ref>
 |-
 | 2004 || May 4 || || The [[Mozilla Archive Format]] (MAFF), a web page archiving format provided by [[Firefox]] through an [[Features of Firefox#Add-ons and extensions|extension]], is released.
 |-
 | 2004 || December || || The Google Books Library Project is launched as part of [[Google Books]].
+|-
+| 2008 || || || The URL shortening service [[Bitly]] is launched.<ref>{{cite web |last1=Newman |first1=Andrew Adam |title=Bitly Helps the Red Cross Get to Hope.ly |url=http://www.nytimes.com/2014/12/02/business/media/bitly-helps-the-red-cross-get-to-hopely.html |publisher=''[[The New York Times]]'' |accessdate=22 December 2014 |archiveurl=https://web.archive.org/web/20141203010429/http://www.nytimes.com/2014/12/02/business/media/bitly-helps-the-red-cross-get-to-hopely.html|archivedate=3 December 2014|date=1 December 2014 |quote=Introduced in 2008, Bitly has grown rapidly because, along with shortening URLs for character-limited social media like Twitter, it helps users monitor how others subsequently share the links that they share.}}</ref>
 |-
 | 2009 || || || The [[Archive Team]] begins operating.
 |-
@@ -68,6 +81,7 @@ TODO:
 ==See also==
 
 * [[List of digital preservation initiatives]]
+* [[List of Web archiving initiatives]]
 
 ==References==
 
