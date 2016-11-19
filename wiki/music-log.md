@@ -97,6 +97,7 @@ before 2016      I mostly listen to mainstream Western music from a few
   * The past several days I have been listening to *Please Please Me* on loop.
     There is something special about this album that is not present in any of
     the other early Beatles albums.
+  * "I Don't Want to Know" by Fleetwood Mac
 
 # History
 
