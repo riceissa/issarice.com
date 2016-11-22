@@ -2,14 +2,16 @@
 
 This page is a '''timeline of [[digital preservation]]''', the art of preventing one's fingers from being cut off.
 
-==Big picture==
+==Trends==
 
-{| class="sortable wikitable"
-|-
-! Period !! Key developments
-|-
-| hi || hii
-|}
+Digital preservation encompasses a variety of efforts and technologies, so its history can be viewed through various trends in these separate efforts:
+
+* [[List of file systems#File systems with built-in fault-tolerance|File systems with built-in fault-tolerance]]
+* Various changes in the physical storage used
+* On-demand archiving services
+* URL shortening services
+* Various episodes of major archival work, sometimes as a result of services shutting down
+* Efforts at converting physical/analog information to more modern digital media, file formats, and storage
 
 ==TODO list==
 
@@ -19,7 +21,7 @@ This page is a '''timeline of [[digital preservation]]''', the art of preventing
 * any information available on amount of spending (overall or by specific bodies) over the years?
 * early history/most famous examples of proprietary data formats
 * first book scanner
-* Yahoo geocities (and probably some others like [[Google Reader]]) going down
+* [[Google Reader]] going down
 * emergence of various physical media (as a separate "Event type"):
 ** optical disks
 ** tape archive
@@ -30,7 +32,6 @@ This page is a '''timeline of [[digital preservation]]''', the art of preventing
 * Archive-It
 * mention how IRL libraries transitioned to digital stuff
 * mention transition of the Web from mostly static pages to heavily-scripted pages with lots of media
-* mention rise of filesytems like and [[ZFS]], [[Btrfs]]
 * mention the frequently-cited measure to keep three copies of data: on the same drive, on a different drive in the same location, and in a different geographical location
 * when did google/facebook/amazon/wordpress start keeping servers in different regions of the world?
 * mention rise of "takeout" services by cloud services
@@ -80,11 +81,17 @@ comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 |-
 | 2004 || December || || The Google Books Library Project is launched as part of [[Google Books]].
 |-
+| 2005 || October 31 || || The first implementation of [[ZFS]], a [[file system]] that includes protection against [[data corruption]], is integrated into [[Solaris (operating system)|Solaris]].<ref>{{cite web |url=https://blogs.oracle.com/bonwick/en_US/entry/zfs_the_last_word_in |author=Jeff Bonwick |title=ZFS: The Last Word in Filesystems |publisher=Jeff Bonwick's Blog |date=October 31, 2005 |accessdate=November 22, 2016 |quote=And today, 10/31/2005, we integrated into Solaris.}}</ref>
+|-
 | 2008 || || || The URL shortening service [[Bitly]] is launched.<ref>{{cite web |last1=Newman |first1=Andrew Adam |title=Bitly Helps the Red Cross Get to Hope.ly |url=http://www.nytimes.com/2014/12/02/business/media/bitly-helps-the-red-cross-get-to-hopely.html |publisher=''[[The New York Times]]'' |accessdate=22 December 2014 |archiveurl=https://web.archive.org/web/20141203010429/http://www.nytimes.com/2014/12/02/business/media/bitly-helps-the-red-cross-get-to-hopely.html|archivedate=3 December 2014|date=1 December 2014 |quote=Introduced in 2008, Bitly has grown rapidly because, along with shortening URLs for character-limited social media like Twitter, it helps users monitor how others subsequently share the links that they share.}}</ref>
 |-
 | 2009 || || || The [[Archive Team]] begins operating.
 |-
+| 2009 || March 23 || || The initial version of [[Btrfs]], a file system that supports [[checksum]]s, incremental backups, and the ability to repair errors,<ref>{{cite web |url=https://btrfs.wiki.kernel.org/index.php/Main_Page#Features |title=btrfs Wiki § Features |accessdate=November 22, 2016}}</ref> is released as part of the [[Linux kernel]] version 2.6.29.<ref>{{ cite news | url = http://www.linux-magazine.com/Online/News/Kernel-2.6.29-Corbet-Says-Btrfs-Next-Generation-Filesystem | title = Kernel 2.6.29: Corbet Says Btrfs Next Generation Filesystem |first= Britta |last=Wuelfing |work= [[Linux Magazine]] | date = 12 January 2009 | accessdate= 5 November 2011 }}</ref><ref>{{cite web |url=https://kernelnewbies.org/Linux_2_6_29#head-c33d4f6e374829e789c45d89bdcfea93b306bf02 |title=Linux 2 6 29 |publisher=Linux Kernel Newbies |accessdate=November 22, 2016 |quote=Linux 2.6.29 kernel released on 23 March, 2009. [&hellip;] Btrfs is a new filesystem developed from scratch following the design principles of filesystems like ZFS, WAFL, etc.}}</ref>
+|-
 | 2009 || May 15 || || The [[Web ARChive|WARC]] file format is published as the standard ISO 28500:2009.<ref>{{cite web |url=http://www.iso.org/iso/catalogue_detail.htm?csnumber=44717 |publisher=International Organization for Standardization |title=ISO 28500:2009 - Information and documentation -- WARC file format |accessdate=November 10, 2016}}</ref>
+|-
+| 2009 || October 26 || || [[Yahoo! GeoCities]], a [[web hosting service]] founded in 1994, [[Yahoo! GeoCities#Closure|closes]] its United States branch.<ref name="PCMagGeo">{{cite web| url=http://www.pcmag.com/article2/0,2817,2350024,00.asp| title = Yahoo Sets the Date of GeoCities' Death| last = Fox| first=Geoff | date=2009-07-10| publisher=PCMag.com| accessdate=2010-11-05}}</ref> Various attempts at [[Yahoo! GeoCities#Archiving GeoCities Web sites|archiving GeoCities]] are made. The site would continue to be available only in Japan.
 |}
 
 ==See also==
