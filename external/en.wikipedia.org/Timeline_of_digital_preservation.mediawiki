@@ -1,6 +1,6 @@
 {{INDEX|visible = yes}} <!-- Remove after publishing in main -->
 
-This page is a '''timeline of [[digital preservation]]''', the art of preventing one's fingers from being cut off.
+This page is a '''timeline of [[digital preservation]] and [[Web archiving]]'''. It covers various aspects of saving and preserving [[digital data]], whether they are [[born-digital]] or not.
 
 ==Trends==
 
@@ -40,11 +40,16 @@ Digital preservation encompasses a variety of efforts and technologies, so its h
 * problems of trust
 * software like heritrix, lua+wget
 * maybe look at [[List of the largest libraries in the United States]], e.g. I think [[University of Michigan Library]] does quite a bit of digital archival work
-* finish reading through [[Digital preservation]], [[Alexa Internet]], [[Internet Archive]] for other topics to include
+* finish reading through [[Digital preservation]], [[Alexa Internet]], [[Internet Archive]], [[Web archiving]] for other topics to include
 * I think Alexa now provides ''all'' of the Internet Archive's crawling data, but verify
 * https://web.archive.org/web/19971017065743/http://community.bellcore.com/lesk/auspres/aus.html might be interesting
+* rise of revision control
+* history of [[radiation hardening]]
+* emergence of technology like Dropbox and Box, and cloud storage like Amazon S3 e.g. https://www-conf.slac.stanford.edu/xldb2016/talks/published/Long-termDataArchiving-AmazonGlacier-XLDB2016-Final.pdf HT Vipul Naik
 
 ==Full timeline==
+
+This full timeline is sortable; in particular, sorting by the "Event type" column allows for viewing the timeline grouped by the various trends mentioned above.
 
 {| class="sortable wikitable"
 |-
@@ -69,9 +74,13 @@ comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 |-
 | 1997 || April 8 || || [[cURL]], a computer software project providing a [[library (computing)|library]] and [[command-line]] tool for transferring data using various [[Protocol (computing)|protocols]], releases its initial version of the tool. It is known at this point as HttpGet, would briefly rename itself to urlget, and would finally rename itself to cURL in March 1998. cURL can be used to download files over a network.<ref>{{cite web |url=https://curl.haxx.se/docs/history.html |title=History of curl - How curl Became Like This |publisher=curl |accessdate=November 17, 2016 |quote=Daniel simply adopted an existing command-line open-source tool, httpget, that Brazilian Rafael Sagula had written and recently release version 0.1 of. After a few minor adjustments, it did just what he needed. [&hellip;] HttpGet 1.0 was released on April 8th 1997 with brand new HTTP proxy support.}}</ref><ref>{{cite web |url=https://daniel.haxx.se/blog/2015/03/20/curl-17-years-old-today/ |title=curl, 17 years old today |last1=Stenberg |first1=Daniel |date=20 March 2015 |website=daniel.haxx.se |publisher= |access-date=20 March 2015}}</ref>
 |-
+| 1998 || May || || The first version of [[HTTrack]], a [[free software|free]] and [[open source]] [[Web crawler]] and [[offline browser]], is released.<ref>{{cite web |url=http://forum.httrack.com/readmsg/32457/32456/index.html |title=Re: Full History of HTTrack |quote=The first release was in May 1998, but only as binaries. |first=Xavier |last=Roche |date=February 8, 2014 |accessdate=November 21, 2016 |publisher=HTTrack Forum}}</ref>
+|-
 | 2001 || || || The first known [[robotic book scanner]] is installed at [[Stanford University]].
 |-
 | 2001 || October || || The [[Wayback Machine]] is launched.<ref>{{cite web|url=http://www.burmalibrary.org/reg.burma/archives/200110/msg00079.html|title=Internet Archive launches WayBack Machine|work=Online Burma Library|date=2001-10-25|accessdate=2016-03-13}}</ref>
+|-
+| 2001 || October 14 || || Version 1.0 of the Parity Volume Set specification, used in [[Parchive|Par1]], is published.<ref>{{cite web|url=http://sourceforge.net/docman/display_doc.php?docid=7273&group_id=30568 |title=Parchive: Parity Volume Set specification 1.0 |accessdate=2009-04-07 |last=Nahas |first=Michael |date=2001-10-14 |deadurl=yes |archiveurl=https://web.archive.org/web/20081220184024/http://sourceforge.net/docman/display_doc.php?docid=7273&group_id=30568 |archivedate=December 20, 2008 }}</ref>
 |-
 | 2002 || || || During this period, people fear that the contents of the [[BBC Domesday Project]] has become unreadable. The project is often cited as an example of [[digital obsolescence]].
 |-
@@ -81,17 +90,31 @@ comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 |-
 | 2004 || December || || The Google Books Library Project is launched as part of [[Google Books]].
 |-
+| 2005 || April 29 || || [[Safari (web browser)|Safari]] version 2.0 introduces the ability to save complete websites using the proprietary [[WebArchive]] format (details at [[Safari version history]]).<ref>{{cite web |url=http://www.macworld.com/article/1047531/safarisecrets.html |publisher=Macworld |title=The Secrets  of Safari |accessdate=November 22, 2016 |first1=Dan |last1=Frakes |first2=Rob |last2=Griffiths |date=October 20, 2005 |quote=In older versions of Safari, “saving” a Web page saved only its HTML source code; images and other embedded content were lost. Fortunately, Apple fixed this in Safari 2.0: the Save As command includes a Web Archive option, which saves nearly everything on the page, including images.}}</ref>
+|-
 | 2005 || October 31 || || The first implementation of [[ZFS]], a [[file system]] that includes protection against [[data corruption]], is integrated into [[Solaris (operating system)|Solaris]].<ref>{{cite web |url=https://blogs.oracle.com/bonwick/en_US/entry/zfs_the_last_word_in |author=Jeff Bonwick |title=ZFS: The Last Word in Filesystems |publisher=Jeff Bonwick's Blog |date=October 31, 2005 |accessdate=November 22, 2016 |quote=And today, 10/31/2005, we integrated into Solaris.}}</ref>
 |-
 | 2008 || || || The URL shortening service [[Bitly]] is launched.<ref>{{cite web |last1=Newman |first1=Andrew Adam |title=Bitly Helps the Red Cross Get to Hope.ly |url=http://www.nytimes.com/2014/12/02/business/media/bitly-helps-the-red-cross-get-to-hopely.html |publisher=''[[The New York Times]]'' |accessdate=22 December 2014 |archiveurl=https://web.archive.org/web/20141203010429/http://www.nytimes.com/2014/12/02/business/media/bitly-helps-the-red-cross-get-to-hopely.html|archivedate=3 December 2014|date=1 December 2014 |quote=Introduced in 2008, Bitly has grown rapidly because, along with shortening URLs for character-limited social media like Twitter, it helps users monitor how others subsequently share the links that they share.}}</ref>
 |-
+| 2008 || November 13 || || [[NASA]] holds a press conference to announce the release of the first image from the [[Lunar Orbiter Image Recovery Project]].
+|-
+| 2008 || November 15 || || [[Backupify]] is founded.<ref>{{cite web|url=http://blog.backupify.com/2009/11/15/backupify-turns-1-year-old/|title=May, Rob, 'Backupify Turns 1 Year Old,' Backupify Blog, November 11, 2009 |publisher=blog.backupify.com |date=2009-11-15 |accessdate=2012-08-28 |archiveurl=https://web.archive.org/web/20091121183532/http://blog.backupify.com/2009/11/15/backupify-turns-1-year-old/ |archivedate=November 21, 2009}}</ref>
+|-
 | 2009 || || || The [[Archive Team]] begins operating.
+|-
+| 2009 || || || [[SocialSafe Ltd]], the company responsible for developing SocialSafe, is founded.<ref>{{cite web |url=https://techcrunch.com/2013/10/01/total-social-media-recall/ |publisher=[[TechCrunch]] |title=SocialSafe Raises Further $1M, Microsoft 'Life-Log' Researcher Gordon Bell Becomes Investor And Advisor |author=Steve O'Hear |accessdate=November 26, 2016 |date=October 1, 2013}}</ref>
 |-
 | 2009 || March 23 || || The initial version of [[Btrfs]], a file system that supports [[checksum]]s, incremental backups, and the ability to repair errors,<ref>{{cite web |url=https://btrfs.wiki.kernel.org/index.php/Main_Page#Features |title=btrfs Wiki § Features |accessdate=November 22, 2016}}</ref> is released as part of the [[Linux kernel]] version 2.6.29.<ref>{{ cite news | url = http://www.linux-magazine.com/Online/News/Kernel-2.6.29-Corbet-Says-Btrfs-Next-Generation-Filesystem | title = Kernel 2.6.29: Corbet Says Btrfs Next Generation Filesystem |first= Britta |last=Wuelfing |work= [[Linux Magazine]] | date = 12 January 2009 | accessdate= 5 November 2011 }}</ref><ref>{{cite web |url=https://kernelnewbies.org/Linux_2_6_29#head-c33d4f6e374829e789c45d89bdcfea93b306bf02 |title=Linux 2 6 29 |publisher=Linux Kernel Newbies |accessdate=November 22, 2016 |quote=Linux 2.6.29 kernel released on 23 March, 2009. [&hellip;] Btrfs is a new filesystem developed from scratch following the design principles of filesystems like ZFS, WAFL, etc.}}</ref>
 |-
 | 2009 || May 15 || || The [[Web ARChive|WARC]] file format is published as the standard ISO 28500:2009.<ref>{{cite web |url=http://www.iso.org/iso/catalogue_detail.htm?csnumber=44717 |publisher=International Organization for Standardization |title=ISO 28500:2009 - Information and documentation -- WARC file format |accessdate=November 10, 2016}}</ref>
 |-
 | 2009 || October 26 || || [[Yahoo! GeoCities]], a [[web hosting service]] founded in 1994, [[Yahoo! GeoCities#Closure|closes]] its United States branch.<ref name="PCMagGeo">{{cite web| url=http://www.pcmag.com/article2/0,2817,2350024,00.asp| title = Yahoo Sets the Date of GeoCities' Death| last = Fox| first=Geoff | date=2009-07-10| publisher=PCMag.com| accessdate=2010-11-05}}</ref> Various attempts at [[Yahoo! GeoCities#Archiving GeoCities Web sites|archiving GeoCities]] are made. The site would continue to be available only in Japan.
+|-
+| 2011 || June 28 || || [[Google Takeout]] is launched by the [[Google Data Liberation Front]].<ref>{{cite web|title=The Data Liberation Front Delivers Google Takeout|url=http://dataliberation.blogspot.com/2011/06/data-liberation-front-delivers-google.html|publisher=Google|accessdate=13 June 2012|date=June 28, 2011}}</ref>
+|-
+| 2012 || August 1 || || [[Microsoft]] introduces [[ReFS]].<ref>{{Cite web |url= http://blogs.technet.com/b/windowsserver/archive/2012/08/01/windows-server-2012-released-to-manufacturing.aspx |title=Windows Server 2012 released to manufacturing! |last=Snover |first=Jeffrey |date=1 August 2012 |website=Windows Server Blog |publisher=Microsoft Corporation |accessdate=2 September 2014}}</ref> ReFS has a number of features related to digital preservation including [[File integrity monitoring|integrity checking]] and [[data scrubbing]], protection against [[data degradation]], built-in handling of [[hard disk drive failure]] and [[redundancy (engineering)|redundancy]], and integration of the [[RAID]] functionality.
+|-
+| 2013 || July 1 || || [[Google Reader]], an RSS/Atom [[feed aggregator]] operated by [[Google]], shuts down after having launched in 2005.<ref>{{cite web|url=http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html|title=A second spring of cleaning|publisher=googleblog.blogspot.com|first=Urs|last=Hölzle|accessdate=March 14, 2013}}</ref>
 |}
 
 ==See also==
