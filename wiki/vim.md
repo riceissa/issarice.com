@@ -443,6 +443,9 @@ benefits may outweigh the costs):
 -   Invoking `:Tutor` in a tmux terminal causes artefacts and duplicate lines to
     appear (probably because of the conceal feature?).
 
+-   With Fugitive, `:Git merge` seems to not work? (I forgot the details of the
+    problem I had.)
+
 -   The following horrible map (intended to be like a ctags for Markdown)
     requires a manual `<CR>`:
 
