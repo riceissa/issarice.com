@@ -443,15 +443,6 @@ benefits may outweigh the costs):
 -   Invoking `:Tutor` in a tmux terminal causes artefacts and duplicate lines to
     appear (probably because of the conceal feature?).
 
--   Pasting to GMail makes newlines disappear, so that everything is in one
-    giant paragraph. The same doesn't happen with Vim. See the [GitHub
-    thread][clip].
-    This only happens with `xclip`, so uninstalling `xclip` and installing
-    `xsel` would solve it, but I like `xclip` for its ability to paste as HTML,
-    which I don't think exists in `xsel`.
-    As far as I know, there is no way in Neovim to specify which clipboard
-    provider to use.
-
 -   The following horrible map (intended to be like a ctags for Markdown)
     requires a manual `<CR>`:
 
@@ -461,7 +452,6 @@ benefits may outweigh the costs):
     to show that there are possibly edge cases like these where maps work
     in Vim but don't in Neovim.
 
-[clip]: https://github.com/neovim/neovim/issues/4501 "frasercrmck. “Yanking to clipboard does not preserve newlines (when pasting to some applications) #4501”. March 28, 2016."
 [hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
 [long]: http://vim.wikia.com/wiki/Working_with_long_lines?useskin=monobook
