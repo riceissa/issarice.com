@@ -50,6 +50,8 @@ You can find my original public announcement about doing cause prioritization re
 
 # Criticisms of effective altruism
 
+**This has [moved to the EA Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism)**
+
 - [Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)
 - [RationalWiki's article on EA](http://rationalwiki.org/wiki/Effective_altruism)
 - [David Brooks's "The Way to Produce a Person"](http://www.nytimes.com/2013/06/04/opinion/brooks-the-way-to-produce-a-person.html?ref=opinion)
