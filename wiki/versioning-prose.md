@@ -30,6 +30,7 @@ Off the top of my head:
     date" or "last substantive revision date" or something similar.
     But it's not clear whether these mean the same things across different web
     page authors.
+  * Some web pages have a "History" section.
   * Some sites, such as this one, track all changes in a revision-control
     system (e.g. Git).
     This makes the "feeling" of tracking prose somewhat similar to that of
