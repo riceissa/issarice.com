@@ -36,6 +36,15 @@ Off the top of my head:
     This makes the "feeling" of tracking prose somewhat similar to that of
     tracking software -- because the same tools are used for both!
 
+Some problems that might occur:
+
+  * Giving a "substantive revision date" might trick readers into thinking that
+    *all* the information on a page is updated to match the given date, even if
+    an update can be "substantive" only by changing some significant part of
+    the page.
+  * The overhead of having a "History" section on every page might not be
+    justified.
+
 # See also
 
   * [Dating style]()
