@@ -35,6 +35,12 @@ Off the top of my head:
     system (e.g. Git).
     This makes the "feeling" of tracking prose somewhat similar to that of
     tracking software -- because the same tools are used for both!
+  * On blog posts, people tend to add updated information at the bottom of the
+    post (even when they logically belong to the parts of the post where that
+    thing is being talked about) or injected into the post with something like
+    "ETA:" or "EDIT:" (even when newer readers -- who are probably the majority
+    -- wouldn't care whether that information was part of the original post or
+    not).
 
 Some problems that might occur:
 
