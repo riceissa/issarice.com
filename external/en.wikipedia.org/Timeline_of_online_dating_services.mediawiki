@@ -1,0 +1,165 @@
+This is a '''timeline of [[online dating services]]''' that also includes broader events related to ''technology-assisted'' dating (not just ''online'' dating). Where there are similar services, only major ones or "the first of its kind" are listed.
+
+==Full timeline==
+
+{| class="wikitable sortable"
+! Year (month and date) !! Event !! Venue
+|-
+| 1690
+| Personal advertisements first appear in British newspapers.
+|
+|-
+| 1959
+| Happy Families Planning Services launches. Started by Jim Harvey and Phil Fialer as a class project at Stanford. Used a questionnaire and an [[IBM 650]] to match 49 men and 49 women.
+|
+|-
+| 1963
+| Ed Lewis at Iowa State University uses a questionnaire and an IBM computer "to optimize the meeting potential at dances".<ref name="slater">Slater, Dan. ''A Million First Dates''.</ref>
+|
+|-
+|1964
+| St. James Computer Dating Service (later to become Com-Pat) launches. [[Joan Ball]] started the first commercially run computer generated matchmaking company. The first set of matchups was run in 1964.<ref>{{Cite journal|last=Hicks|first=Marie|year=2016|title=Computer Love: Replicating Social Order Through Early Computer Dating Systems|url=|journal=Ada: A Jornal of Gender, New Media and Technology|volume=|pages=|issn=2325-0496|via=}}</ref>
+|
+|-
+| 1965
+| [[Operation Match]] (part of Compatibility Research Inc.) launches. Started by Jeff Tarr and Vaughan Morrill at Harvard. Used a questionnaire and an [[IBM 1401]] to match students.  There was a $3 fee for submitting a questionnaire. "By the fall of sixty-five, six months after the launch, some ninety thousand Operation Match questionnaires had been received, amounting to $270,000 in gross profits, about $1.8 million in today's dollars."<ref name="slater"/> In the 1960s there still was no stigma about computer-assisted matching.
+|
+|-
+| 1965
+| Eros (Contact Inc.) launches. Started by David Dewan at MIT.  Used a dating questinnaire and [[Honeywell 200]]. "In one distribution of questionnaires, he drew eleven thousand responses at $4 each, or $44,000 in gross profits, about $250,000 in today's dollars."<ref name="slater"/>
+|
+|-
+| 1965
+| ''[[The New York Review of Books]]'' personals column makes a comeback. Slater writes: <blockquote>Classifieds made a comeback in America in the 1960s and 1970s, encouraged by the era's inclination toward individualism and social exhibitionism. "Everybody was letting it all hang out in other ways," said Raymond Shapiro, a business manager for [[the New York Review of Books]], "so suddenly it was okay to display oneself in print. It was very important to be 'self-aware.' So you'd get ads like: 'Astrologer, 27, psychology student, desires to establish non-superficial friendship with sensitive, choicelessly aware persons who are non-self-oriented, deep, and wish to unearth real, personness relationships.'&thinsp;"<ref name="slater"/></blockquote>
+|
+|-
+| 1968
+| Data-Mate launches. Questionnaire-based matching service started at MIT.<ref>Lawrence Krakauer writes about his experiences [http://ljkrakauer.com/LJK/60s/datamate.htm here].</ref>
+|
+|-
+| 1970s, early
+| Phase II is founded. A "computer-dating company" started by James Schur.<ref name="slater"/>
+|
+|-
+| 1974
+| Cherry Blossoms' [[mail-order bride]] catalog launches. Slater calls Cherry Blossoms "one of the oldest mail-order bride agencies". Started by John Broussard.
+|
+|-
+| 1976
+| Great Expectations is founded. Video dating service started by Jeffrey Ullman.<ref>{{cite web |url=https://www.linkedin.com/in/jeffreyullman |first=Jeff |last=Ullman |title=Jeff Ullman |publisher=[[LinkedIn]] |accessdate=December 4, 2016 |quote=Great Expectations (video dating) December 1975 – January 1997 (21 years 2 months) Created, served as CEO, and primary international media spokesperson for 'Great Expectations', which we built into the world's largest introduction service for singles (aka, 'video dating').}}</ref><ref>{{cite web |url=http://articles.latimes.com/1994-01-16/magazine/tm-12372_1_jeffrey-ullman |title=Love God From Hell : The Man Who Brought You Videodating Hates to Date, Loves to Taunt and Has Himself Been Unlucky in Love. Would You Buy a Relationship From Jeffrey Ullman? |publisher=[[Los Angeles Times]] |accessdate=December 4, 2016 |date=January 16, 1994 |first=Amy |last=Wallace}} Dan Slater references this article.</ref> The service achieved some notability, but it never overcame stigma. There were also apparently other video dating services like Teledate and Introvision, but it's nearly impossible to find anything about them online.
+|
+|-
+| 1980s
+| ''messageries roses'' (pink chat rooms) are launches. Chat rooms for dating (using the [[Minitel]] network) started by Marc Simoncini. France.
+|
+|-
+| 1984<ref>Slater, Dan. Wikipedia seems to give a slightly different year.</ref>
+| Matchmaker Electronic Pen-Pal Network launches. A bulletin board system for romance started by Jon Boede and Scott Smith. Matchmaker grew to 14 local BBSs throughout the US. Eventually people lost interest as BBSs lost out to the World Wide Web, and Matchmaker was superseded by [[Matchmaker.com]].
+|
+|-
+| 1989
+| Scanna International launches. Mail-order bride service focusing on Russia and Eastern Europe.
+|
+|-
+| 1990s, early
+| Patricia Moore Group launches. An "offline matchmaking service in San Francisco" started by Trish McDermott.
+|
+|-
+| 1995
+| [[Match.com]] launches. Started by [[Gary Kremen]].
+|
+|-
+| 1997
+| [[JDate]]
+|
+|-
+| 1997<ref>Slater calls Lavalife a copycat of Match.com, so it ought to have started after 1995. [http://www.onlinedatingmagazine.com/history/lavalife.html This page] gives 1997, but [[Lavalife|Wikipedia gives]] 1987 (while still including it in the category [[:Category:Internet properties established in 1997]]).</ref>
+| Lavalife
+|
+|-
+| 2000
+| [[eHarmony]] launches. Online dating service for long-term relationships.
+|
+|-
+| 2002
+| [[Ashley Madison]] is founded.
+|
+|-
+| 2003
+| PlentyofFish launches. Online dating site started by Markus Frind. Significant for being (one of the first?) free dating sites.
+|
+|-
+| 2003
+| Proxidating launches. Dating service that used [[Bluetooth]] to "alert users when a person with a matching profile was within fifty feet".<ref name="slater"/>
+|
+|-
+| 2004
+| OkCupid
+|
+|-
+| 2006
+| [[Badoo]] launches. A "dating-focused social networking service" (Wikipedia).
+|
+|-
+| 2006
+| [[SeekingArrangement]] launches. A sugar daddy/[[sugar baby]] site in the US.
+|
+|-
+| 2007
+| [[Skout]] launches. A "location-based social networking and dating application and website".
+|
+|-
+| 2007
+| [[Crazy Blind Date]] launches. Blind dating service started by Sam Yagan.
+|
+|-
+| 2008<ref>{{cite web |url=https://techcrunch.com/2008/07/22/ok-we-have-our-first-dna-based-dating-site-genepartner/ |publisher=TechCrunch |title=Ok, We Have Our First DNA-Based Dating Service: GenePartner |author=Michael Arrington |accessdate=December 4, 2016 |date=July 22, 2008}}</ref>
+| GenePartner launches. Matching service based on "DNA compatibility".
+|
+|-
+| 2009
+| [[Grindr]] (initial launch)
+|
+|-
+| 2011
+| LikeBright launches. Online dating site by Nick Soman.<ref>{{cite web |url=http://www.geekwire.com/2013/likebright-raises/ |title=Matchmaking platform LikeBright raising $1M to help singles land a 2nd date |publisher=GeekWire |date=December 20, 2013 |accessdate=December 4, 2016 |author=Taylor Soper}}</ref> By 2014 the site shut down.<ref>{{cite web |url=http://www.geekwire.com/2014/reveal-likebright/ |title=Matchmaking platform LikeBright morphs into Reveal, a new anonymous chat app |publisher=GeekWire |date=September 18, 2014 |accessdate=December 4, 2016 |author=Taylor Soper}}</ref>
+|
+|-
+| 2012(?)
+| [[Highlight (application)|Highlight]] launches. Slater calls it a "location-based dating app", though this doesn't seem to be its main function (it seems more social than romantic).
+|
+|-
+| 2012
+| [[Tinder (app)|Tinder]] launches.
+| App
+|-
+| 2012
+| MissTravel.com launches. Dating service for people seeking companionship when traveling. Started by Brandon Wade.
+|
+|-
+| 2013
+| EliteSingles launches. Bespoke dating website for professional singles first launched in UK market.
+|
+|-
+| 2014 (December)
+| Bumble, a location-based mobile app that permits only women to start a chat with their matches, launches.<ref>{{cite web|title=Bumble is a dating app where women take lead|url=http://www.thestar.com/life/2015/04/28/bumble-is-a-dating-app-where-women-take-lead.html|publisher=Thestar|accessdate=3 June 2015}}</ref>
+|
+|-
+| 2015
+| OpenMinded launches. Dating site for "[[monogamish]]" people, started by Brandon Wade.<ref>{{cite web |url=https://www.bustle.com/articles/79540-openminded-dating-site-for-people-looking-for-open-relationships-because-monogamy-isnt-for-everyone |title=OpenMinded Dating Site For People Looking For Open Relationships, Because Monogamy Isn't For Everyone |author=Kristine Fellizar |accessdate=December 4, 2016 |date=May 13, 2015}}</ref><ref>{{cite web |url=https://www.openminded.com/ |title=OpenMinded.com - For Open Relationships |publisher=OpenMinded |accessdate=December 4, 2016}}</ref>
+|
+|-
+| 2015
+| [[Ashley Madison]] hack Personal information of Ashley Madison users stolen and released; see [[Ashley Madison data breach]] for more.
+|
+|}
+
+==See also==
+
+* [[Comparison of online dating websites]]
+
+==References==
+{{reflist|30em}}
+
+[[Category:Online dating services]]
+
