@@ -50,6 +50,10 @@ Some problems that might occur:
     the page.
   * The overhead of having a "History" section on every page might not be
     justified.
+  * In general, it is time-consuming to convey the "freshness" of each sentence
+    or paragraph in a document.
+    (There are parallels here with trying to convey the credence of each
+    sentence or paragraph in a document.)
 
 # See also
 
