@@ -35,9 +35,9 @@ Digital preservation encompasses a variety of efforts and technologies, so its h
 * when did google/facebook/amazon/wordpress start keeping servers in different regions of the world?
 * mention rise of "takeout" services by cloud services
 * that funny thing where you print out digital content as things that look like QR codes
-* briefly mention software porting and emulation (DOOM as example?)
-* problems of trust
-* software like heritrix, lua+wget
+* [[Emulator#In_preservation]] software porting and emulation (DOOM as example?)
+* problems of trust: how do we know the archived version is a faithful representation of the original?
+* software like lua+wget
 * maybe look at [[List of the largest libraries in the United States]], e.g. I think [[University of Michigan Library]] does quite a bit of digital archival work
 * finish reading through [[Digital preservation]], [[Alexa Internet]], [[Internet Archive]], [[Web archiving]] for other topics to include
 * I think Alexa now provides ''all'' of the Internet Archive's crawling data, but verify
@@ -51,6 +51,10 @@ Digital preservation encompasses a variety of efforts and technologies, so its h
 * [[versioning file system]]s: [[Incompatible Timesharing System]] apparently had one. [[Files-11]]
 * [[ArVid]] (unclear when it was created)
 * studies of link rot: gwern lists several, as does Lepore in <ref name="2015_lepore" />
+* [[:Category:Web archiving initiatives]] and [[:Category:Online archives]]
+* [[Digital dark age]]
+* decentralized storage
+* [[Email archiving]]
 
 ==Full timeline==
 
@@ -78,6 +82,8 @@ This full timeline is sortable; in particular, sorting by the "Event type" colum
 |-
 | 1989 || November 13 || || [[Continuous data protection]], the technique of backing up computer data by automatically saving a copy of every change made to that data, is [[patent]]ed by [[United Kingdom|British]] entrepreneur [[Pete Malcolm]].<ref>{{cite web |title=US Patent 5086502: Method of operating a data processing system |author=Peter B. Malcolm |date=November 13, 1989 |quote=Filing date Nov 13, 1989 |url=http://www.google.com/patents/US5086502 |publisher=Google Patents |accessdate=November 29, 2016}}</ref>
 |-
+| 1990 || || || Possibly the earliest reference to the term "digital preservation" (to mean converting analog media to digital and preserving in digital form) is from this year.<ref>{{cite web |url=https://cip.cornell.edu/DPubS/Repository/1.0/Disseminate?view=body&id=pdf_1&handle=cul.pub/1238609304 |title=The History and Current State of Digital Preservation in the United States |first=Peter B. |last=Hirtle |date=c. 2003 |quote=The earliest reference that I could find in English to the "digital preservation" of data occurs in the context of the research that Anne Kenney and Lynne Personnius undertook in 1990 at the Cornell University Library in conjunction with the Xerox Corporation.}}</ref>{{rp|124}}
+|-
 | 1996 || January || || The initial version of the command-line downloading program [[Wget]], then known as Geturl, is released.<ref>{{cite web|url=http://svn.dotsrc.org/repo/wget/tags/WGET_1_10/NEWS |title=GNU Wget NEWS – history of user-visible changes |publisher=Svn.dotsrc.org |date=2005-03-20 |accessdate=2012-12-08 |archive-url=https://web.archive.org/web/20070313111309/http://svn.dotsrc.org/repo/wget/tags/WGET_1_10/NEWS |archive-date=March 13, 2007 |quote=Wget 1.4.0 [formerly known as Geturl] is an extensive rewrite of Geturl.}} This NEWS file is included in source distributions of Wget.</ref><ref>{{cite web |url=http://groups-beta.google.com/group/comp.infosystems.www.announce/msg/4268334d269d42ce?hl=en |title=Geturl: Software for non-interactive downloading |date=June 24, 1996 |first=Hrvoje |last=Niksic |publisher=
 comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 |-
@@ -91,6 +97,8 @@ comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 |-
 | 1998 || May || || The first version of [[HTTrack]], a [[free software|free]] and [[open source]] [[Web crawler]] and [[offline browser]], is released.<ref>{{cite web |url=http://forum.httrack.com/readmsg/32457/32456/index.html |title=Re: Full History of HTTrack |quote=The first release was in May 1998, but only as binaries. |first=Xavier |last=Roche |date=February 8, 2014 |accessdate=November 21, 2016 |publisher=HTTrack Forum}}</ref>
 |-
+| 2000 || || || The [[National Digital Information Infrastructure and Preservation Program]] (NDIIPP) launches.
+|-
 | 2001 || || || The first known [[robotic book scanner]] is installed at [[Stanford University]].
 |-
 | 2001 || October || || The [[Wayback Machine]] is launched.<ref>{{cite web|url=http://www.burmalibrary.org/reg.burma/archives/200110/msg00079.html|title=Internet Archive launches WayBack Machine|work=Online Burma Library|date=2001-10-25|accessdate=2016-03-13}}</ref>
@@ -102,6 +110,8 @@ comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 | 2002 || January || || [[TinyURL]], the first notable [[URL shortening]] service, is launched.<ref>{{cite web |url=https://www.wired.com/2004/03/honey-i-shrunk-the-url/ |title=Honey, I Shrunk the URL |publisher=''[[Wired (magazine)|Wired]]'' |date=March 16, 2004 |accessdate=November 17, 2016 |author=Katie Dean |quote=So the 24-year-old Web developer from Blaine, Minnesota, launched TinyURL.com in January 2002, a free site that converts huge strings of characters into more manageable snippets.}}</ref>
 |-
 | 2003 || July || || [[ext3cow]], a [[versioning file system]], is introduced.
+|-
+| 2003 || July || || The [[International Internet Preservation Consortium]] is founded.<ref name=2015_lepore/>
 |-
 | 2004 || January || || The initial version of [[Heritrix]], a web crawler designed for web archiving, is released.
 |-
@@ -141,6 +151,8 @@ comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 |-
 | 2008 || November 15 || || [[Backupify]] is founded.<ref>{{cite web|url=http://blog.backupify.com/2009/11/15/backupify-turns-1-year-old/|title=May, Rob, 'Backupify Turns 1 Year Old,' Backupify Blog, November 11, 2009 |publisher=blog.backupify.com |date=2009-11-15 |accessdate=2012-08-28 |archiveurl=https://web.archive.org/web/20091121183532/http://blog.backupify.com/2009/11/15/backupify-turns-1-year-old/ |archivedate=November 21, 2009}}</ref>
 |-
+| 2008 || November 20 || || The prototype for [[Europeana]] launches.
+|-
 | 2009 || || || The [[Archive Team]] begins operating.
 |-
 | 2009 || || || [[SocialSafe Ltd]], the company responsible for developing SocialSafe, is founded.<ref>{{cite web |url=https://techcrunch.com/2013/10/01/total-social-media-recall/ |publisher=[[TechCrunch]] |title=SocialSafe Raises Further $1M, Microsoft 'Life-Log' Researcher Gordon Bell Becomes Investor And Advisor |author=Steve O'Hear |accessdate=November 26, 2016 |date=October 1, 2013}}</ref>
@@ -160,6 +172,8 @@ comp.infosystems.www.announce |accessdate=November 17, 2016}}</ref>
 | 2012 || August 21 || || [[Amazon.com]] launches [[Amazon Glacier]], an [[online file storage]] [[web service]] that provides storage for data archiving and backup.<ref>{{cite news | first = Stephanie | last = Mlot | title = Amazon Launches Glacier Cloud Storage Service | date = August 21, 2012 | url= http://www.pcmag.com/article2/0,2817,2408707,00.asp | publisher = Ziff Davis, Inc. | work = PCMag.com | accessdate = 2012-08-21}}</ref><ref>{{cite web |url=https://aws.amazon.com/blogs/aws/amazon-glacier-offsite-archival-storage-for-one-penny-per-gb-per-month/ |title=Amazon Glacier: Archival Storage for One Penny Per GB Per Month |publisher=AWS Blog |accessdate=November 29, 2016 |author=Jeff Barr |date=August 21, 2012}}</ref>
 |-
 | 2013 || April 6 || || In the [[United Kingdom]], the Legal Deposit Libraries (Non-Print Works) Regulations come into force, bringing digital and online material under the scope of the [[Legal deposit#United Kingdom|UK's legal deposit]]. Previously, the [[Legal Deposit Libraries Act 2003]] had given the [[Secretary of State (United Kingdom)|Secretary of State]] the powers to make regulations governing the deposit of non-print publications, but such regulations were never made at that time.<ref name="2015_lepore" /><ref>{{cite web |url=http://www.bl.uk/catalogues/search/non-print_legal_deposit.html |title=Non-print legal deposit: FAQs |accessdate=December 6, 2016 |publisher=[[British Library]] |quote=As of 6 April 2013, legal deposit also covers material published digitally and online, so that the Legal Deposit Libraries can provide a national archive of the UK's non-print published material, such as websites, blogs, e-journals and CD-ROMs.}}</ref><ref>{{cite web |url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/182339/NPLD_Guidance_April_2013.pdf |publisher=UK Department for Culture, Media &amp; Sport |title=Guidance on the Legal Deposit Libraries (Non-Print Works) Regulations 2013 |accessdate=December 5, 2016 |date=April 5, 2013}}</ref>{{rp|5}}
+|-
+| 2013 || April 18 || || The [[Digital Public Library of America]] launches.
 |-
 | 2013 || July 1 || || [[Google Reader]], an RSS/Atom [[feed aggregator]] operated by [[Google]], shuts down after having launched in 2005.<ref>{{cite web|url=http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html|title=A second spring of cleaning|publisher=googleblog.blogspot.com|first=Urs|last=Hölzle|accessdate=March 14, 2013}}</ref>
 |}
