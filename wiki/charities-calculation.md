@@ -12,6 +12,7 @@ date: 2016-12-09
 which is "a list of charities focused on evidence-backed, potentially
 cost-effective programs whether or not we have investigated them"
 ([source](http://www.givewell.org/how-we-work/criteria)).
+This list includes top charities.
 
 From GiveWell's
 [old charities page](https://web.archive.org/web/20160816143541/http://www.givewell.org/charities)
