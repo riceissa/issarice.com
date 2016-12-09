@@ -8,6 +8,17 @@ Just some notes for now.
 
   * Making configuration files for common programs (vim, etc.) available
     online.
+      * Difficulties with this: different operating systems might have
+        different software or versions of the same software available, making
+        configuration files apply inconsistently; some parts of configuration
+        files refer to local parts in the file system that might not exist in
+        all systems (e.g. my music player configuration file points to an
+        external drive that only exists for my laptop) and these programs might
+        not offer ways to make configuration files conditional on existence of
+        such paths; some operating systems ship with their own default
+        configuration files (e.g. Debian ships with `debian.vim` which does
+        things like disable modelines in Vim, others ship with default versions
+        of `~/.bashrc`).
   * Placing more things in public/online (especially on GitHub) so they're
     easily accessible.
   * Dealing with "cloud software"
