@@ -22,20 +22,9 @@ Examples: [Tabular summary of unschooling literature](http://causeprioritization
 
 - Copying text from PDFs can be frustrating.
 Sometimes using a different PDF viewer helps (e.g. Firefox's PDF viewer followed by Atril/Evince in case of severe formatting issues).
-In [Vim]() I also have:
-
-    ```vim
-    " filter text pasted from PDFs, so that formatting is suitable; progress
-    " ongoing; join must be called at the very end because vim assigns <line1> and
-    " <line2> when the command is invoked, so we can't change the boundaries of the
-    " line markers; for the same reason, we can't regex replace new lines
-    command! -range FilterPDFText silent <line1>,<line2>s/$/ /e | silent <line1>,<line2>s/\-\s\+$//e | silent <line1>,<line2>s/\s\+/ /ge | silent <line1>,<line2>s/^\s\+//e | <line1>,<line2>join!
-
-    nnoremap <leader>q :'{,'}FilterPDFText<CR>:s/\s\+$//e<CR>O<Esc>jo<Esc>kgqip
-
-    ```
-
-    which will do some simple regex replacement to get a decent output in most cases.
+I also wrote a small program called
+[`pdftextfmt`](https://github.com/riceissa/pdftextfmt) which will do some
+simple regex replacement to get a decent output in most cases.
 
 - Generating citations for webpages is tedious.
 For this reason I wrote a [citation generator for Wikipedia](https://github.com/riceissa/citation-generator), which does something like 80% of the work for 80% of websites.
