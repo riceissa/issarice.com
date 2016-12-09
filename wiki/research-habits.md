@@ -27,7 +27,7 @@ I also wrote a small program called
 simple regex replacement to get a decent output in most cases.
 
 - Generating citations for webpages is tedious.
-For this reason I wrote a [citation generator for Wikipedia](https://github.com/riceissa/citation-generator), which does something like 80% of the work for 80% of websites.
+For this reason I wrote a [citation generator for Wikipedia](https://github.com/riceissa/citewebgen), which does something like 80% of the work for 80% of websites.
 
 - I also reference things by linking to them, and found it annoying to copy the page titles, so I wrote an [autolink](https://github.com/riceissa/autolink) program.
 
