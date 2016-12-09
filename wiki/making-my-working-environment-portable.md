@@ -42,9 +42,9 @@ Just some notes for now.
     Though of course, if you're going to work for an extended period of time at
     a new machine, then it probably makes sense to try to copy over some config
     files.
-    See also <http://sstephenson.us/posts/on-configuration>.
-    Rob Pike says something interesting in an interview
-    <https://usesthis.com/interviews/rob.pike/>:
+    See also ["On Configuration"](http://sstephenson.us/posts/on-configuration).
+    Rob Pike says something interesting in an
+    [interview](https://usesthis.com/interviews/rob.pike/):
 
     > I don't install a lot of extra stuff on those Macs, mostly to reduce
     > maintenance. I like the freedom to wipe and reinstall without losing my
