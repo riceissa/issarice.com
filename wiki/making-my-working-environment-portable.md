@@ -18,7 +18,8 @@ Just some notes for now.
         such paths; some operating systems ship with their own default
         configuration files (e.g. Debian ships with `debian.vim` which does
         things like disable modelines in Vim, others ship with default versions
-        of `~/.bashrc`).
+        of `~/.bashrc`), which presents difficulties with respect to merging
+        these separate configuration files.
   * Placing more things in public/online (especially on GitHub) so they're
     easily accessible.
   * Dealing with "cloud software"
