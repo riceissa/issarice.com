@@ -5,7 +5,9 @@ created: 2016-12-09
 date: 2016-12-09
 ---
 
-1.5 million US charities
+1.5 million US nonprofits ([source](http://grantspace.org/tools/knowledge-base/Funding-Research/Statistics/number-of-nonprofits-in-the-u.s);
+[Charity Navigator gives the same number](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=32)).
+Of those, around 1.1 million are public charities ([source](http://nccs.urban.org/statistics/quickfacts.cfm)).
 
 61 charities in
 [GW spreadsheet](https://docs.google.com/spreadsheets/d/1KJveeJNUL3_tkshcajB3L8eGZ0gqcy_ZYpxcK1f_9r4/edit)
@@ -25,4 +27,6 @@ From GiveWell's
     have a website
   * 85 charities in "All United States charities considered"
 
-*n* charities rated by Charity Navigator.
+As of November 2015, Charity Navigator has rated 5000 charities based in the
+US
+([source](http://www.ncdcr.gov/press-release/charity-navigator-awards-nc-aquarium-society-fourth-consecutive-top-rating)).
