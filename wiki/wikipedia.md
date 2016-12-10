@@ -71,6 +71,7 @@ These are:
 - [Innovative Vector Control Consortium](https://en.wikipedia.org/wiki/Innovative_Vector_Control_Consortium), which is funded by the Gates Foundation
 - [3 by 5 Initiative](https://en.wikipedia.org/wiki/3_by_5_Initiative), an HIV/AIDS program by WHO
 - [Health systems strengthening](https://en.wikipedia.org/wiki/Health_systems_strengthening), a term used in global health that I wanted to investigate due to its perceived vagueness (even after writing the page, I still think the term is vague)
+- [Hiroshi Nakajima](https://en.wikipedia.org/wiki/Hiroshi_Nakajima), who was Director-General at WHO; I didn't write this page but made significant improvements to it
 
 # External links
 
