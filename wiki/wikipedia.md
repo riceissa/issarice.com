@@ -15,7 +15,7 @@ See [Vipul Naik's page on sponsored editing](http://vipulnaik.com/sponsored-wiki
 Also relevant is my current [bounty list](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki).
 
 As of November 13, 2016, I have 3,346 edits on the English Wikipedia.
-More details statistics are available using [X!'s tools](https://tools.wmflabs.org/xtools-ec/?user=Riceissa&project=en.wikipedia.org).
+More detailed statistics are available using [X!'s tools](https://tools.wmflabs.org/xtools-ec/?user=Riceissa&project=en.wikipedia.org).
 
 # Contributions
 
