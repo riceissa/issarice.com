@@ -11,7 +11,7 @@ Some random thoughts:
     Compare with something like GiveWell top charities, which are claimed to be
     "proven and effective".
     Then also compare with something like existential risks reduction, which is
-    uncertain but claims to be neglected and has a huge amount of impact.
+    uncertain but claims to be neglected and have a huge amount of impact.
 
     How does content creation fit into this framework?
     There are various neglected *parts* that can be improved.
