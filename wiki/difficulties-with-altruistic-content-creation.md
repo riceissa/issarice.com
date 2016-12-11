@@ -14,7 +14,7 @@ Some random thoughts:
     uncertain but claims to be neglected and have a huge amount of impact.
 
     How does content creation fit into this framework?
-    There are various neglected *parts* that can be improved.
+    There are various neglected *parts* of content that can be improved.
     The impact on a single person is most of the time not that great, so
     inasmuch as there is large impact to be claimed, it must come from a lot of
     people consuming the content.
