@@ -61,6 +61,11 @@ research comes in several standard forms:
   * Wikipedia articles about parts of the topic
   * Wikipedia timelines of some aspect of the history of the topic
 
+There seems to be a psychological aspect to the paper trail beyond providing
+value to others: it's motivating to see that one's writing is getting
+pageviews, that there is *some* progress being made on difficult questions,
+that one's time has not been a complete waste, and so forth.
+
 # Projects that use or have used this approach
 
 To my knowledge and recollection, two projects use this approach:
