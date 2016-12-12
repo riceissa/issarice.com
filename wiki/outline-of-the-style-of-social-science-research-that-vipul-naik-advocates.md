@@ -41,7 +41,7 @@ The general thrust of the approach, as I understand it, is as follows:
 
 As of December 2016, I have been working with Vipul regularly since April 2016.
 
-# Caveats:
+# Caveats
 
 Some caveats to note about this page:
 
