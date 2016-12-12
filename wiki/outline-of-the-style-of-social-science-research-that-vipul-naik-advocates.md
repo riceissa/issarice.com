@@ -24,8 +24,8 @@ The general thrust of the approach, as I understand it, is as follows:
     importance: quick notes or graphs that can fit into pre-existing work,
     medium-size articles that can build up general knowledge, and major
     articles that comprehensively argue some point.
-  * For venue of outputs, emphasize likely pageviews and how the contribution
-    topically fits in.
+  * When choosing the venue of outputs, emphasize the expected number of
+    pageviews and how the contribution topically fits in.
     De-emphasize comfort and the building of a personal brand.
 
 # Existing writings on this and related subjects
