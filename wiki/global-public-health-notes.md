@@ -8,6 +8,11 @@ status: notes
 *These are some notes on global public health as part of a larger project.
 The final results will likely not be published here (but I will try to link to them from here when they're done), but this is the most convenient place for notes.*
 
+# What exactly has happened in global health and what's in store for the future?
+
+New question as of December 2016.
+HT Vipul Naik.
+
 # Global health as a success story
 
 Part of my interest in global health comes from the view that global health is seen as a success story in philanthropy.
