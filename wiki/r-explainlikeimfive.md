@@ -27,3 +27,6 @@ or something along those lines, but are rarely sourced.
 The voting on reddit also makes it such that the highest-upvoted answers are
 not the ones that are closest to reality, most comprehensive, easiest to
 understand, etc.
+
+I also find it amusing that a lot of the popular answers are quite complicated
+(suggesting that the reality itself is complicated).
