@@ -53,6 +53,11 @@ Some caveats to note about this page:
     In other words, I am still midway in following all of the steps outlined
     here.
 
+# Output levels
+
+See Vipul's ["Debugging My Apparent 2016 Stagnation" § Significant shift to
+producing longer and much more thoroughly researched content](http://vipulnaik.com/blog/debugging-my-apparent-2016-stagnation/).
+
 # The paper trail
 
 Although this is not a requirement, in general the "paper trail" part of the
