@@ -20,3 +20,10 @@ As of December 11, 2016, there are 11.5 million "readers" (people who subscribe
 to the subreddit, I believe), and over 5,000 logged-in users viewing the
 subreddit in the past 15 minutes (I write this on a Sunday afternoon), so it
 seems quite popular.
+
+I am less impressed with the answers than with the questions.
+The answers tend to claim they are "experts" or have "worked in the industry"
+or something along those lines, but are rarely sourced.
+The voting on reddit also makes it such that the highest-upvoted answers are
+not the ones that are closest to reality, most comprehensive, easiest to
+understand, etc.
