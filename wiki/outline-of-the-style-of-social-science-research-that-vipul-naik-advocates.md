@@ -14,7 +14,19 @@ well-formed.
 
 The general thrust of the approach, as I understand it, is as follows:
 
-  * 
+  * For inputs to research, emphasize conducting online surveys and writing
+    quick Facebook posts to gather thoughts.
+    De-emphasize academic papers.
+  * During the research, do things in places that are publicly visible and
+    where the record of changes is accessible (e.g. Git repository and
+    Wikipedia).
+  * For outputs from the research, separate them into tiers in terms of
+    importance: quick notes or graphs that can fit into pre-existing work,
+    medium-size articles that can build up general knowledge, and major
+    articles that comprehensively argue some point.
+  * For venue of outputs, emphasize likely pageviews and how the contribution
+    topically fits in.
+    De-emphasize comfort and the building of a personal brand.
 
 # Existing writings on this and related subjects
 
