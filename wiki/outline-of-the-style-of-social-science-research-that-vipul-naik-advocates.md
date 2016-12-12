@@ -53,6 +53,14 @@ Some caveats to note about this page:
     In other words, I am still midway in following all of the steps outlined
     here.
 
+# The paper trail
+
+Although this is not a requirement, in general the "paper trail" part of the
+research comes in several standard forms:
+
+  * Wikipedia articles about parts of the topic
+  * Wikipedia timelines of some aspect of the history of the topic
+
 # Projects that use or have used this approach
 
 To my knowledge and recollection, two projects use this approach:
