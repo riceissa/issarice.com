@@ -21,3 +21,10 @@ Some random thoughts:
     We don't really have a great idea of what people are hoping to find
     (there's some work on this, e.g.
     ["Why We Read Wikipedia"](https://www.mediawiki.org/wiki/File:Why_We_Read_Wikipedia.pdf)), so how do we know we've helped them?
+
+  * The type of impact that content has is of unclear value.
+    A lot of content that gets the most pageviews serve as entertainment.
+    Others satisfy curiosity, helps with a school assignment, helps people form
+    more accurate beliefs of the world, etc.
+    These are all quite different from "saving a life", so it's unclear how to
+    weigh this against typical charities.
