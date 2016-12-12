@@ -47,6 +47,9 @@ Some caveats to note about this page:
 
   * This page has not been reviewed by Vipul, so I might be mischaracterizing
     parts of his approach.
+  * According to the approach, I have not yet gone through all of the steps.
+    In other words, I am still midway in following all of the steps outlined
+    here.
 
 # Projects that use or have used this approach
 
