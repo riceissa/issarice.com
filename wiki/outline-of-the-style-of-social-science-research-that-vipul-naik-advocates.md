@@ -66,6 +66,12 @@ value to others: it's motivating to see that one's writing is getting
 pageviews, that there is *some* progress being made on difficult questions,
 that one's time has not been a complete waste, and so forth.
 
+The paper trail can have other benefits that are not as important:
+
+  * It's a way to put things out in public so others can critique your
+    thinking.
+  * It provides a sort of detailed outline of your thinking.
+
 # Projects that use or have used this approach
 
 To my knowledge and recollection, two projects use this approach:
