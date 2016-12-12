@@ -61,3 +61,7 @@ To my knowledge and recollection, two projects use this approach:
 # See also
 
   * [Research habits]()
+
+# External links
+
+  * ["Making Decisions Under Uncertainty"](https://medium.com/lessons-from-mckinsey/making-decisions-under-uncertainty-c1d1dfbb02b2)
