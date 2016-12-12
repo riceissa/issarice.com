@@ -28,3 +28,9 @@ Some random thoughts:
     more accurate beliefs of the world, etc.
     These are all quite different from "saving a life", so it's unclear how to
     weigh this against typical charities.
+
+  * Potential paternalism?
+    Charity can "correct the market" by giving money to people who are unable
+    to spend (the poor, animals, future persons).
+    But content creation has less of this problem: If people find the material
+    useful, won't they fund it or pay for it?
