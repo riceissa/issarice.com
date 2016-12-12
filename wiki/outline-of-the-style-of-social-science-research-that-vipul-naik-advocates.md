@@ -11,6 +11,8 @@ This page intends to describe the style of social science research that Vipul
 Naik advocates, in the most matter of fact way possible -- I don't intend to
 describe my own thoughts of it because they are complicated and still not
 well-formed.
+I try to convey both the theory/intuition for why the approach might make sense
+as well as what actually happens in practice (if it differs from the theory).
 
 The general thrust of the approach, as I understand it, is as follows:
 
