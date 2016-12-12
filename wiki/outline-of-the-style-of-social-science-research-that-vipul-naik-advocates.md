@@ -86,6 +86,11 @@ To my knowledge and recollection, two projects use this approach:
   * Some parts of [*Open Borders: The Case*](http://openborders.info)
   * My own dive into global health
 
+# Ways in which this approach differs from other approaches
+
+  * Unlike writing several papers or writing several blog posts on one's blog,
+    this approach has more variety in publication venue.
+
 # See also
 
   * [Research habits]()
