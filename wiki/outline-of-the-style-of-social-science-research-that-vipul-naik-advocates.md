@@ -22,7 +22,7 @@ The general thrust of the approach, as I understand it, is as follows:
   * During the research, do things in places that are publicly visible and
     where the record of changes is accessible (e.g. Git repository and
     Wikipedia).
-  * For outputs from the research, separate them into tiers in terms of
+  * For outputs of the research, separate them into tiers in terms of
     importance: quick notes or graphs that can fit into pre-existing work,
     medium-size articles that can build up general knowledge, and major
     articles that comprehensively argue some point.
