@@ -99,6 +99,12 @@ before 2016      I mostly listen to mainstream Western music from a few
     the other early Beatles albums.
   * "I Don't Want to Know" by Fleetwood Mac
 
+# December 2016
+
+  * *OK Computer* disc 2; these tracks seem to be listed only in some deluxe or
+    [special](https://www.discogs.com/Radiohead-OK-Computer-Special-Collectors-Edition/release/1705062)
+    editions
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
