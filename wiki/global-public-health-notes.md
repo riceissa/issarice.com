@@ -225,6 +225,10 @@ For instance, the way in which nonprofits became codified in US law was importan
 - What does the global fight against disease look like?
 What does it look like generally and for each disease?
 - How do diseases vary based on various parameters (e.g. microbe type, transmission method, contagiousness, lethality)?
+- What are the "crucial considerations" in global health?
+  In other words, what are those things that, if we don't know the answers to
+  them or of their existence, could imply that we are doing global health "all
+  wrong"?
 
 [^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
 
