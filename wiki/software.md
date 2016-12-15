@@ -16,7 +16,7 @@ This page is a placeholder for now.
 - [Git]()
 - [ELinks]()
 - [Exuberant Ctags]()
-- Music on Console
+- [Music On Console]()
 - [Newsbeuter]()
 - Ubuntu on laptop and Debian on server
 - MATE as a desktop environment
