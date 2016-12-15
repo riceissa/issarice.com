@@ -238,6 +238,8 @@ What does it look like generally and for each disease?
   "Some interventions in global health have an effect on population growth.
   How can we have an opinion on those interventions if we don't have an opinion
   on population growth?"
+  Sort of along the same lines is ["Are GiveWell Top Charities Too
+  Speculative?"](http://effective-altruism.com/ea/rg/are_givewell_top_charities_too_speculative/)
 
 [^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
 
