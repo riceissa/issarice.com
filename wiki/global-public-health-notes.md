@@ -229,6 +229,15 @@ What does it look like generally and for each disease?
   In other words, what are those things that, if we don't know the answers to
   them or of their existence, could imply that we are doing global health "all
   wrong"?
+  Plausible examples: "Malaria in the US was eradicated through DDT and swamp
+  drainage.
+  Why then do we keep hearing about bednets?
+  Here the crucial consideration is the history of eradication of a disease;
+  how do we know we aren't doing things really wrong if we don't know how they
+  successfully worked in the past?"
+  "Some interventions in global health have an effect on population growth.
+  How can we have an opinion on those interventions if we don't have an opinion
+  on population growth?"
 
 [^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
 
