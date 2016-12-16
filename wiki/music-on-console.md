@@ -15,6 +15,9 @@ certain options when invoking the program:
 The above allows me to press `m` to visit the `Music` folder in my home
 directory, and `!` to visit the `Music` folder on an external drive.
 
+My configuration files are [available on
+GitHub](https://github.com/riceissa/dotfiles/tree/master/.moc).
+
 # See also
 
 * [Software]()
