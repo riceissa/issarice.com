@@ -14,3 +14,7 @@ certain options when invoking the program:
 
 The above allows me to press `m` to visit the `Music` folder in my home
 directory, and `!` to visit the `Music` folder on an external drive.
+
+# See also
+
+* [Software]()
