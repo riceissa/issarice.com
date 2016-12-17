@@ -25,6 +25,8 @@ deliberate.
 > tour of all the rooms) yet at the same time by its familiarity, and, above
 > all, with its *immutability*.
 >
+> \[...\]
+>
 > The little picture I've just sketched is not restricted to the world of the
 > mathematicians. It can serve to illustrate certain inveterate and timeless
 > situations to be found in every milieu and every sphere of human activity,
