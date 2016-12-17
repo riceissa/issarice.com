@@ -24,5 +24,10 @@ deliberate.
 > impresses one by virtue of its greatness, (even though one rarely makes the
 > tour of all the rooms) yet at the same time by its familiarity, and, above
 > all, with its *immutability*.
+>
+> The little picture I've just sketched is not restricted to the world of the
+> mathematicians. It can serve to illustrate certain inveterate and timeless
+> situations to be found in every milieu and every sphere of human activity,
+> and (as far as I know) in every society and every period of human history.
 
 (["The Inheritors and the Builder"](http://www.fermentmagazine.org/rands/promenade5.html))
