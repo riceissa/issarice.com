@@ -110,6 +110,11 @@ There was also a [riceissa-notes](https://github.com/riceissa/riceissa-notes)
 repository that I created that apparently never took off (writing in late 2016,
 I don't even remember making it).
 
+* 2012-02-20: riceissa.github.com, which redirects to
+  [riceissa.github.io-legacy](https://github.com/riceissa/riceissa.github.io-legacy)
+* 2014-04-12:
+  [riceissa.github.io](https://github.com/riceissa/riceissa.github.io)
+
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
 
