@@ -81,6 +81,18 @@ before 2016      I mostly listen to mainstream Western music from a few
                  Surprises", "Karma Police", "Exit Music (for A Film)")
 -------------------------------------------------------------------------------
 
+# Late 2008
+
+I believe I got a second generation iPod Touch right around when it came out,
+which seems to be [late
+2008](https://en.wikipedia.org/wiki/IPod_Touch#Models); this is the only Apple
+product I ever bought.
+This isn't directly about the music I listened to, but I mention this because
+(1) this means my interest in music began around or before this point in time;
+and (2) I remember the songs I put on that iPod.
+I am sure I listened to Queen, and pretty sure but less confident about Led
+Zeppelin and The Beatles.
+
 # August 2011
 
 This is the summer before starting at Inglemoor; I remember constantly
