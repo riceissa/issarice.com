@@ -64,3 +64,6 @@ Examples:
 * The CDC FAQ says "the eradication campaign never involved most of Africa,
   where malaria is the most common".
   Why was this the case?
+* What does the pie chart of spending within malaria look like?
+* What does the pie chart of spending on malaria, seen in terms of all of
+  global health, look like?
