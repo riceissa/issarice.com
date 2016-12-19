@@ -455,6 +455,24 @@ benefits may outweigh the costs):
     to show that there are possibly edge cases like these where maps work
     in Vim but don't in Neovim.
 
+# Some intuitions
+
+I began using Vim at the latest in the summer of 2011.
+In the course of 5+ years of using Vim, I've developed some intuitions; most of
+these I've only been able to articulate in the past year or so.
+
+* Conventional beginner advice says to stay in normal mode most of the time,
+  and to "dive in" to insert mode to make small changes, and then come up
+  again, that this is how Vim differs most from other editors.
+  On the contrary, I've found that *insert mode is very powerful and learning
+  the parallel commands in insert mode is one of the more useful things one can
+  do*.
+  rsi.vim especially helps.
+* When trying to [build new habits](http://www.moolenaar.net/habits.html), it's
+  better to do it in non-ad hoc ways.
+  Usually Vim or Tim Pope has better solution in mind than the one you can
+  think of on the spot.
+
 [hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
 [long]: http://vim.wikia.com/wiki/Working_with_long_lines?useskin=monobook
