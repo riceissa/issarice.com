@@ -472,7 +472,8 @@ these I've only been able to articulate in the past year or so.
   better to do it in non-ad hoc ways.
   Usually Vim or Tim Pope has better solution in mind than the one you can
   think of on the spot.
-* Use mappings to take care of casework.
+* Use mappings to take care of complex tasks like casework rather than simply
+  as aliases to built-in commands.
   You might be tempted to map common commands like `:write`, but `:write` is
   often too primitive, and what you really want is something like "Do `:Gwrite`
   and open a split to commit the changes, but fall back to `:write` if the file
