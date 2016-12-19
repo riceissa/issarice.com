@@ -45,6 +45,15 @@ Webb (2010):
   A technology that had worked reasonably well in the United States did not
   transfer well to coastal Liberia."
 
+[Webb (2014, p. 94)](https://books.google.com/books?id=eV72AgAAQBAJ&lpg=PA84&ots=DN3m_nMzEg&dq=DLD%20malaria&pg=PA94#v=onepage&q=DLD%20malaria&f=false):
+
+> For African adults, malaria was largely perceived as an annoyance, an
+> unpleasant reality of life like the seasonal flu, rather than a vital problem
+> to be tackled with scarce resources.
+> At independence, most African states declined to take up the
+> "pre-eradication" programs – in essence, malaria control programs that would
+> be developed to build capacity – recommended by the WHO.
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
