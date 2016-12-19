@@ -61,3 +61,6 @@ Examples:
 * So I heard the Romans used sheep to attract mosquitoes away from humans.
   Why don't we do that now?
   Can't we just make some artificial warm-bodied *thing*?
+* The CDC FAQ says "the eradication campaign never involved most of Africa,
+  where malaria is the most common".
+  Why was this the case?
