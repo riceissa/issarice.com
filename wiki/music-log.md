@@ -93,6 +93,10 @@ and (2) I remember the songs I put on that iPod.
 I am sure I listened to Queen, and pretty sure but less confident about Led
 Zeppelin and The Beatles.
 
+# October 2010
+
+* Pink Floyd
+
 # March 2011
 
 * Bob Dylan (Highway 61 Revisited)
