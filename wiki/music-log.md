@@ -134,7 +134,7 @@ Taylor Swift
   * *OK Computer* disc 2; these tracks seem to be listed only in some deluxe or
     [special](https://www.discogs.com/Radiohead-OK-Computer-Special-Collectors-Edition/release/1705062)
     editions
-  * The Pillows: *Happy Bivouac*
+  * The Pillows: *Happy Bivouac*, *Runners High*
 
 # History
 
