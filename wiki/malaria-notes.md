@@ -38,6 +38,13 @@ Webb (2010):
 > sprayers returned and sprayed again. The result was roughly a once-a-month
 > spraying cycle with exceedingly high per capita costs.
 
+* DDT not used "because of concerns over its effectiveness in coastal Liberia".
+* Fog generator attempted but "achieved limited success, owing to the
+  difficulty of getting proper wind direction and movement and the need to
+  release the fog before the sun's heat became intense after 9 a.m.
+  A technology that had worked reasonably well in the United States did not
+  transfer well to coastal Liberia."
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
