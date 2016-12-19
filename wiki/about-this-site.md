@@ -109,6 +109,11 @@ VPS and domain names (see "[Colophon](#colophon)" below for details).
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
 
+I think in July 2015 I added the [`_archive`](https://issarice.com/_archive/)
+directory to the site, which allows access to *some* past compiled versions of
+the site (although the source files are accessible for *every* version thanks
+to Git).
+
 In late October 2016, I finally added HTTPS support.
 
 # Colophon
