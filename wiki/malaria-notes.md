@@ -11,7 +11,7 @@ This page contains notes as I read about malaria.
 
 Some questions I'd like to address:
 
-* If swamp-draining and DDT were the methods used to eradicate malaria in the
+* If swamp-draining and DDT were the methods used to eliminate malaria in the
   United States, why are LLINs what we hear about nowadays?
 * Why was DDT banned?
   What were the tradeoffs involved in the banning?
