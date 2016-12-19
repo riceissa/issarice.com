@@ -99,6 +99,10 @@ This is the summer before starting at Inglemoor; I remember constantly
 listening to Bob Dylan (specifically *Blonde on Blonde* and *Highway 61
 Revisited*.
 
+# 2015
+
+Taylor Swift
+
 # September 2016
 
   * *Girls und Panzer* OST
