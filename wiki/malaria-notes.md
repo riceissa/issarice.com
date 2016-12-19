@@ -5,6 +5,25 @@ created: 2016-12-19
 date: 2016-12-19
 ---
 
+# Summary
+
+This page contains notes as I read about malaria.
+
+Some questions I'd like to address:
+
+* If swamp-draining and DDT were the methods used to eradicate malaria in the
+  United States, why are LLINs what we hear about nowadays?
+* Why was DDT banned?
+  What were the tradeoffs involved in the banning?
+* Regarding a 1953 WHO antimalarial program in Liberia, Wikipedia
+  [says](https://en.wikipedia.org/wiki/History_of_malaria#DDT) "these
+  projects encountered difficulties that foreshadowed the general retreat from
+  malaria eradication efforts across tropical Africa by the mid-1960s."
+  What happened?
+  What were these difficulties?
+
+# Notes
+
 Webb (2010):
 
 > DDT worked most effectively when sprayed on impermeable walls where it could
