@@ -101,8 +101,8 @@ Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the
 
 # History
 
-The direct ancestor of this website is riceissa.github.com (which is now
-[riceissa.github.io][gh_site] after GitHub reorganized their domains), which
+The direct ancestor of this website is riceissa.github.com (which now redirects
+to [riceissa.github.io][gh_site] after GitHub reorganized their domains), which
 has the same "static site flavor" to it, and which I used until I bought my own
 VPS and domain names (see "[Colophon](#colophon)" below for details).
 
