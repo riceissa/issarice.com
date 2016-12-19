@@ -106,6 +106,10 @@ to [riceissa.github.io][gh_site] after GitHub reorganized their domains), which
 has the same "static site flavor" to it, and which I used until I bought my own
 VPS and domain names (see "[Colophon](#colophon)" below for details).
 
+There was also a [riceissa-notes](https://github.com/riceissa/riceissa-notes)
+repository that I created that apparently never took off (writing in late 2016,
+I don't even remember making it).
+
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
 
