@@ -37,3 +37,24 @@ Webb (2010):
 > to do the job—that is, to kill the mosquitoes inside the dwelling—the
 > sprayers returned and sprayed again. The result was roughly a once-a-month
 > spraying cycle with exceedingly high per capita costs.
+
+# Malaria FAQs
+
+* [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
+* [WHO South-East Regional Office's malaria
+  FAQ](http://www.searo.who.int/entity/malaria/SEAR_FAQ_Malaria.pdf)
+
+Do these FAQs adequately address the common questions?
+They probably address most of them, but some questions (especially those that
+might seem stupid) might be missing.
+Examples:
+
+* Don't mosquitoes need swamps to breed?
+  And isn't Africa full of desert regions?
+  What gives?
+* Do non-mosquito vectors exist for malaria?
+  If so why do we never hear about them?
+* What's up with the push toward mosquito extinction?
+* Mosquitoes can't fly that far, right?
+  Why can't we just create "safe zones" by draining all the swamps around
+  cities?
