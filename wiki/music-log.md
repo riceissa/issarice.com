@@ -81,6 +81,12 @@ before 2016      I mostly listen to mainstream Western music from a few
                  Surprises", "Karma Police", "Exit Music (for A Film)")
 -------------------------------------------------------------------------------
 
+# August 2011
+
+This is the summer before starting at Inglemoor; I remember constantly
+listening to Bob Dylan (specifically *Blonde on Blonde* and *Highway 61
+Revisited*.
+
 # September 2016
 
   * *Girls und Panzer* OST
