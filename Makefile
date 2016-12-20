@@ -31,6 +31,7 @@ fast_deploy:
 
 .PHONY: deploy_archive
 deploy_archive: deploy
+	$(MAKE) clean
 	$(eval hash := $(shell git rev-parse --verify HEAD))
 	rsync -r $(OUTDIR)/ \
 		$(SERVER_DEST)/_archive/$(shell date -Idate)-$(hash)
