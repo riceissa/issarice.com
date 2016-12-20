@@ -55,7 +55,14 @@ Webb (2010):
 > be developed to build capacity – recommended by the WHO.
 
 ["The ban of DDT did not cause millions to die from malaria"](http://www.science.uwaterloo.ca/~mpalmer/stuff/DDT-myth.pdf)
-by Michael Palmer.
+by Michael Palmer:
+
+> Malaria remains rampant because control efforts lack resources and political
+> support, not because of the choice of insecticide. Where insect resistance to
+> it is not yet widespread, DDT remains a legitimate weapon against malaria.
+> However, DDT is not a panacea, and the limited restrictions imposed on its
+> use are not a significant factor in the current deplorable state of affairs
+> in malaria morbidity and mortality.
 
 # Malaria FAQs
 
