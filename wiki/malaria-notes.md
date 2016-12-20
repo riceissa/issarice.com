@@ -114,3 +114,6 @@ Examples:
 * What does the pie chart of spending within malaria look like?
 * What does the pie chart of spending on malaria, seen in terms of all of
   global health, look like?
+* Why are there [no malaria vectors in parts of northern
+  Africa](https://www.cdc.gov/malaria/about/biology/mosquitoes/map.html)?
+  It's coastal so there can be mosquitoes, right?
