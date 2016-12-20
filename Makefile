@@ -30,8 +30,9 @@ fast_deploy:
 	git push origin master
 
 .PHONY: deploy_archive
-deploy_archive: deploy
+deploy_archive:
 	$(MAKE) clean
+	$(MAKE) deploy
 	$(eval hash := $(shell git rev-parse --verify HEAD))
 	rsync -r $(OUTDIR)/ \
 		$(SERVER_DEST)/_archive/$(shell date -Idate)-$(hash)
