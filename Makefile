@@ -19,7 +19,6 @@ sync:
 
 .PHONY: deploy
 deploy:
-	$(MAKE) clean
 	$(MAKE) fullsite
 	$(MAKE) sync
 	git push origin master
