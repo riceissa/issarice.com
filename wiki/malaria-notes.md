@@ -81,9 +81,19 @@ Examples:
 * Do non-mosquito vectors exist for malaria?
   If so why do we never hear about them?
 * What's up with the push toward mosquito extinction?
-* Mosquitoes can't fly that far, right?
-  Why can't we just create "safe zones" by draining all the swamps around
-  cities?
+
+*   Mosquitoes can't fly that far, right?
+    Why can't we just create "safe zones" by draining all the swamps around
+    cities?
+    A better-formulated version of this is given in Dowling and Yap,
+    *Communicable diseases in Developing Countries*:
+
+    > On the surface, malaria looks like an easier target to control and eradicate
+    > than HIV-, TB- or cholera-type diseases. This is because malaria is borne by
+    > mosquitoes and should be easier to track and control than humans whose
+    > behavior is hard to predict and control and who are not subject to
+    > eradication using chemicals.
+
 * So I heard the Romans used sheep to attract mosquitoes away from humans.
   Why don't we do that now?
   Can't we just make some artificial warm-bodied *thing*?
