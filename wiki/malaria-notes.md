@@ -54,6 +54,9 @@ Webb (2010):
 > "pre-eradication" programs – in essence, malaria control programs that would
 > be developed to build capacity – recommended by the WHO.
 
+["The ban of DDT did not cause millions to die from malaria"](http://www.science.uwaterloo.ca/~mpalmer/stuff/DDT-myth.pdf)
+by Michael Palmer.
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
