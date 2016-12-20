@@ -64,6 +64,17 @@ by Michael Palmer:
 > use are not a significant factor in the current deplorable state of affairs
 > in malaria morbidity and mortality.
 
+From [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005199/):
+
+> Knowledge of the role of mosquitoes in malaria transmission (11.8%) and cause
+> of malaria (9.6%) was observed to be low among the study population.
+> Comprehensive knowledge about malaria prevention measures was high (90%), but
+> not reflecting in their practice (16%). They have good knowledge of mosquito
+> behavior (breeding areas (64.5%), resting places (70%) and biting time
+> (81%)). Seeking hospital care for a febrile child was a good practice (68.5%)
+> observed. Attitudes regarding the best antimalarial therapy was limited
+> (56.7%) to chloroquine.
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
