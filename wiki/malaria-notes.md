@@ -86,7 +86,7 @@ Examples:
     Why can't we just create "safe zones" by draining all the swamps around
     cities?
     A better-formulated version of this is given in Dowling and Yap,
-    *Communicable diseases in Developing Countries*:
+    *Communicable diseases in Developing Countries* (p 132):
 
     > On the surface, malaria looks like an easier target to control and eradicate
     > than HIV-, TB- or cholera-type diseases. This is because malaria is borne by
