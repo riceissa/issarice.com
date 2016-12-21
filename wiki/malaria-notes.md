@@ -2,7 +2,7 @@
 title: Malaria notes
 author: Issa Rice
 created: 2016-12-19
-date: 2016-12-19
+date: 2016-12-20
 ---
 
 # Summary
