@@ -75,22 +75,22 @@ From [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4005199/):
 > observed. Attitudes regarding the best antimalarial therapy was limited
 > (56.7%) to chloroquine.
 
-*   The [CDC says](https://www.cdc.gov/malaria/about/biology/mosquitoes/):
+The [CDC says](https://www.cdc.gov/malaria/about/biology/mosquitoes/):
 
-    > Most *Anopheles* mosquitoes are crepuscular (active at dusk or dawn) or
-    > nocturnal (active at night). Some *Anopheles* mosquitoes feed indoors
-    > (endophagic) while others feed outdoors (exophagic). After blood feeding,
-    > some *Anopheles* mosquitoes prefer to rest indoors (endophilic) while
-    > others prefer to rest outdoors (exophilic). Biting by nocturnal,
-    > endophagic *Anopheles* mosquitoes can be markedly reduced through the use
-    > of insecticide-treated bed nets (ITNs) or through improved housing
-    > construction to prevent mosquito entry (e.g., window screens). Endophilic
-    > mosquitoes are readily controlled by indoor spraying of residual
-    > insecticides. In contrast, exophagic/exophilic vectors are best
-    > controlled through source reduction (destruction of the breeding sites).
+> Most *Anopheles* mosquitoes are crepuscular (active at dusk or dawn) or
+> nocturnal (active at night). Some *Anopheles* mosquitoes feed indoors
+> (endophagic) while others feed outdoors (exophagic). After blood feeding,
+> some *Anopheles* mosquitoes prefer to rest indoors (endophilic) while
+> others prefer to rest outdoors (exophilic). Biting by nocturnal,
+> endophagic *Anopheles* mosquitoes can be markedly reduced through the use
+> of insecticide-treated bed nets (ITNs) or through improved housing
+> construction to prevent mosquito entry (e.g., window screens). Endophilic
+> mosquitoes are readily controlled by indoor spraying of residual
+> insecticides. In contrast, exophagic/exophilic vectors are best
+> controlled through source reduction (destruction of the breeding sites).
 
-    [This paper](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-183)
-    notes some sensitivities for mosquitoes to temperature.
+[This paper](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-183)
+notes some sensitivities for mosquitoes to temperature.
 
 # Malaria FAQs
 
