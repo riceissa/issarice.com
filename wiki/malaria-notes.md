@@ -92,6 +92,13 @@ The [CDC says](https://www.cdc.gov/malaria/about/biology/mosquitoes/):
 [This paper](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-183)
 notes some sensitivities for mosquitoes to temperature.
 
+Dowling and Yap:
+
+> Generally models of high mosquito infestation would involve differences in
+> altitude, temperate, rainfall and time of year (seasonal variation). However,
+> no one has been able to develop a general model that can predict well when an
+> epidemic is likely to occur.
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
