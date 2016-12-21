@@ -106,6 +106,17 @@ Examples:
 * Don't mosquitoes need swamps to breed?
   And isn't Africa full of desert regions?
   What gives?
+* Why are there [no malaria vectors in parts of northern
+  Africa](https://www.cdc.gov/malaria/about/biology/mosquitoes/map.html)?
+  It's coastal so there can be mosquitoes, right?
+  There must be some rainfall at least?
+* What about the Arabian and Kalahari Deserts?
+  They're both deserts too, so why do we [see
+  malaria](http://www.rollbackmalaria.org/files/images/about/WMR2014_Figure1-1.png)
+  in countries located in those places?
+* Classify each point on the Earth landmass surface by (desert, not desert), (
+* Classify the regions (smaller than countries) of the world by (desert, not desert) and 
+
 * Do non-mosquito vectors exist for malaria?
   If so why do we never hear about them?
 * What's up with the push toward mosquito extinction?
@@ -131,6 +142,3 @@ Examples:
 * What does the pie chart of spending within malaria look like?
 * What does the pie chart of spending on malaria, seen in terms of all of
   global health, look like?
-* Why are there [no malaria vectors in parts of northern
-  Africa](https://www.cdc.gov/malaria/about/biology/mosquitoes/map.html)?
-  It's coastal so there can be mosquitoes, right?
