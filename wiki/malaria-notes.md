@@ -92,7 +92,7 @@ The [CDC says](https://www.cdc.gov/malaria/about/biology/mosquitoes/):
 [This paper](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-183)
 notes some sensitivities for mosquitoes to temperature.
 
-Dowling and Yap (p 138):
+Dowling and Yap (2014, p 138):
 
 > Generally models of high mosquito infestation would involve differences in
 > altitude, temperate, rainfall and time of year (seasonal variation). However,
@@ -110,6 +110,20 @@ p 156:
 > note. It is also interesting to note that IRS has not been used in any of the
 > countries with an epidemic of malaria as judged by the number of cases or
 > deaths per annum.
+
+p 159–161:
+
+> To evaluate the impact of all the programs designed to reduce the incidence
+> and mortality of malaria, UNICEF has constructed three maps of Africa with an
+> estimated number of lives saved (see Figure 4.3). This is very good public
+> relation and is certainly evidence of the overall success of malaria
+> reduction in Africa. However, it does not give much detail about which
+> program was responsible for how many lives saved and in which countries.
+> Because all of these programs (bed nets, spraying and ACT) are relatively
+> new, we are still at the evaluation stage. The effectiveness will have to be
+> judged as they are evaluated over time. So far, as indicated in the analysis
+> of mortality in the epidemic countries, there has been limited evidence of a
+> decline in mortality.
 
 # Malaria FAQs
 
