@@ -166,6 +166,24 @@ Examples:
     > behavior is hard to predict and control and who are not subject to
     > eradication using chemicals.
 
+    p 164 hints that something like this is possible in limited situations:
+
+    > Locating the breeding ground is another initiative suggested by Abeku
+    > (2007), something that has been missing from most of the literature on
+    > malaria. *Anopheles gambiae*, one of the primary vectors of malaria in
+    > Africa, breeds in numerous small pools of water that form due to
+    > rainfall. The larvae develop within a few days and are able to escape
+    > from the water before it dries out. As a result it is difficult, if not
+    > impossible, to predict when and where the breeding sites will form, and
+    > to find and treat them before the adult mosquitoes emerge. Therefore,
+    > larval mosquito control for the prevention of malaria in Africa has not
+    > been attempted on a large scale. It may, however, be appropriate at
+    > specific settings such as urban environments or desert fringe areas where
+    > habitats are more stable and predictable. WHO has recommended larval
+    > control as appropriate only at areas where the larval habitats are “few,
+    > fixed and findable.” Otherwise a more ecologically damaging strategy
+    > would be to
+
 * So I heard the Romans used sheep to attract mosquitoes away from humans.
   Why don't we do that now?
   Can't we just make some artificial warm-bodied *thing*?
