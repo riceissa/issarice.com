@@ -99,6 +99,18 @@ Dowling and Yap (p 138):
 > no one has been able to develop a general model that can predict well when an
 > epidemic is likely to occur.
 
+p 156:
+
+> The details are provided by Yakob, Dunning and Yan (2011). They conclude that
+> the most effective strategy is to treat as many houses as possible with bed
+> nets and the remainder with IRS. It is not recommended to use both together.
+> They act antagonistically. This recommendation comes after a rigorous testing
+> experience of treating houses with combinations of IRS and INT in a
+> controlled setting. Hopefully WHO and country officials will take note. It is
+> also interesting to note that IRS has not been used in any of the countries
+> with an epidemic of malaria as judged by the number of cases or deaths per
+> annum.
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
