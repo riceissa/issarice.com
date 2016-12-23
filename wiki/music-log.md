@@ -135,7 +135,9 @@ Taylor Swift
     [special](https://www.discogs.com/Radiohead-OK-Computer-Special-Collectors-Edition/release/1705062)
     editions
   * The Pillows: *Happy Bivouac* ("Funny Bunny", "Back Seat Dog", "Crazy
-    Sunshine"), *Runners High* ("Runners High")
+    Sunshine"), *Runners High* ("Runners High"), "この世の果てまで" (sounds a
+    lot like a traditional Japanese song or something by the Blue Hearts that I
+    can't remember; I like the YO-KING version)
 
 # History
 
