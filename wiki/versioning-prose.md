@@ -55,6 +55,19 @@ Some problems that might occur:
     (There are parallels here with trying to convey the credence of each
     sentence or paragraph in a document.)
 
+Other examples:
+
+* The CDC website has "Page last reviewed" and "Page last updated" dates;
+  presumably the former guarantees that all the information on the page is
+  accurate as far as the CDC is concerned, while the latter just says that
+  information from as recent as the given date is included.
+  However I would appreciate if there was a linked explanation of what they
+  actually mean.
+* Eliezer Yudkowsky often shares his old Facebook posts using the Facebook
+  "memories" feature.
+  I appreciate these posts because it shows whether he has changed his mind on
+  a topic or not.
+
 # See also
 
   * [Dating style]()
