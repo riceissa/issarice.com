@@ -125,6 +125,11 @@ p 159–161:
 > of mortality in the epidemic countries, there has been limited evidence of a
 > decline in mortality.
 
+Counterfeit antimalarial drugs:
+
+* [Counterfeit and Substandard Antimalarial Drugs](https://www.cdc.gov/malaria/malaria_worldwide/reduction/counterfeit.html)
+* [The counterfeit anti-malarial is a crime against humanity: a systematic review of the scientific evidence](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-13-209)
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
