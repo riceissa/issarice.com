@@ -130,6 +130,15 @@ Counterfeit antimalarial drugs:
 * [Counterfeit and Substandard Antimalarial Drugs](https://www.cdc.gov/malaria/malaria_worldwide/reduction/counterfeit.html)
 * [The counterfeit anti-malarial is a crime against humanity: a systematic review of the scientific evidence](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-13-209)
 
+From Tren and Bate (p 13), an example of saying DDT was "banned" without being
+clear on the different use cases of DDT:
+
+> Despite a lack of scientific evidence, DDT was banned in many countries in
+> the early 1970s following concerns about its environmental and human health
+> impacts. However, the negative impacts from DDT use in agriculture, which led
+> to the concerns, are vastly different from the impacts of DDT used in health
+> control.
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
