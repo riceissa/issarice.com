@@ -396,6 +396,16 @@ see if anything is missing.
 Also the ELinks handling of HTTPS connections (as of version 0.12pre6 on
 Ubuntu) is a bit concerning.
 
+# Inactive account policy of various services
+
+I'd like to do something similar for other services to what I [did for Dropbox
+in a Quora answer](https://www.quora.com/Will-all-Dropbox-URLs-become-link-rot-December-2016).
+
+The internet is so young that inactive accounts due to death has not been that
+big of a deal yet.
+Legal deposit laws, libraries, etc., have kept old books from disappearing, but
+what can we say about internet content?
+
 # Requirements for good data archiving solutions
 
 
