@@ -12,3 +12,5 @@ of the Japanese alternative rock band The Pillows.
 > 主人公にでも見える そんな彼女
 
 (["彼女は今日、"](http://j-lyric.net/artist/a0006c3/l00bad3.html))
+
+["Strange Chameleon"](http://j-lyric.net/artist/a0006c3/l004476.html)
