@@ -21,3 +21,5 @@ of the Japanese alternative rock band The Pillows.
 (["Funny Bunny"](http://j-lyric.net/artist/a0006c3/l004473.html))
 
 Is it just me, or does "冗談" sound like "John Brown" here?
+
+also [The Pillows:公園～黄昏のワルツ～](http://lyrics.wikia.com/wiki/The_Pillows:%E5%85%AC%E5%9C%92%EF%BD%9E%E9%BB%84%E6%98%8F%E3%81%AE%E3%83%AF%E3%83%AB%E3%83%84%EF%BD%9E)
