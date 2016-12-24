@@ -17,6 +17,11 @@ of the Japanese alternative rock band The Pillows.
 
 > 道化師は素顔を見せないで \
 > 冗談みたいにある日居なくなった
+>
+> \[...\]
+>
+> 世界は今日も簡単そうにまわる \
+> そのスピードで涙も乾くけど
 
 (["Funny Bunny"](http://j-lyric.net/artist/a0006c3/l004473.html))
 
