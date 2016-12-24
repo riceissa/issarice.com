@@ -14,3 +14,10 @@ of the Japanese alternative rock band The Pillows.
 (["彼女は今日、"](http://j-lyric.net/artist/a0006c3/l00bad3.html))
 
 ["Strange Chameleon"](http://j-lyric.net/artist/a0006c3/l004476.html)
+
+> 道化師は素顔を見せないで
+> 冗談みたいにある日居なくなった
+
+(["Funny Bunny"](http://j-lyric.net/artist/a0006c3/l004473.html))
+
+Is it just me, or does "冗談" sound like "John Brown" here?
