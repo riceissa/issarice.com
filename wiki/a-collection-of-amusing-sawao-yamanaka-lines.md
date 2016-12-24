@@ -13,7 +13,9 @@ of the Japanese alternative rock band The Pillows.
 
 (["彼女は今日、"](http://j-lyric.net/artist/a0006c3/l00bad3.html))
 
-["Strange Chameleon"](http://j-lyric.net/artist/a0006c3/l004476.html)
+["Strange Chameleon"](http://j-lyric.net/artist/a0006c3/l004476.html):
+
+> いつか慣ついていた猫は お腹すかしていただけで
 
 > 道化師は素顔を見せないで \
 > 冗談みたいにある日居なくなった
