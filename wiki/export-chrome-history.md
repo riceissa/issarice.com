@@ -41,6 +41,9 @@ Then run the following command in a shell:
 Chrome seems to use FILETIME for representing time, whose [epoch][epoch] and
 unit length both differ from those of Unix time; hence the dividing and
 subtracting.
+Then the `'unixepoch'` converts the Unix time to a date and time, and
+`'localtime'` adjusts for timezone differences ([see the
+documentation](https://www.sqlite.org/lang_datefunc.html)).
 
 # External links
 
