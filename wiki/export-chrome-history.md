@@ -31,7 +31,7 @@ I recommend the following before continuing:
 * Make a copy of the history file and work with this copy instead of the actual
   history file
 
-Then run the following commands:
+Then run the following command in a shell:
 
     sqlite3 -header -csv History "SELECT \
         datetime(last_visit_time/1000000-11644473600, 'unixepoch', \
