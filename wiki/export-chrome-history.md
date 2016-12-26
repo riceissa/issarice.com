@@ -57,6 +57,32 @@ occur multiple times:
         'localtime') as 'visit_time',urls.url from urls,visits \
         WHERE urls.id = visits.url ORDER BY visit_time DESC" > out.csv
 
+# Other useful commands
+
+In sqlite3:
+
+    sqlite> .tables
+    downloads             meta                  urls
+    downloads_url_chains  segment_usage         visit_source
+    keyword_search_terms  segments              visits
+    sqlite> PRAGMA table_info(urls);
+    0|id|INTEGER|0||1
+    1|url|LONGVARCHAR|0||0
+    2|title|LONGVARCHAR|0||0
+    3|visit_count|INTEGER|1|0|0
+    4|typed_count|INTEGER|1|0|0
+    5|last_visit_time|INTEGER|1||0
+    6|hidden|INTEGER|1|0|0
+    7|favicon_id|INTEGER|1|0|0
+    sqlite> PRAGMA table_info(visits);
+    0|id|INTEGER|0||1
+    1|url|INTEGER|1||0
+    2|visit_time|INTEGER|1||0
+    3|from_visit|INTEGER|0||0
+    4|transition|INTEGER|1|0|0
+    5|segment_id|INTEGER|0||0
+    6|visit_duration|INTEGER|1|0|0
+
 # External links
 
 * [Answer to "Can Chrome browser history be exported to an HTML
