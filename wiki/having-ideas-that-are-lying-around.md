@@ -1,17 +1,10 @@
 ---
 title: Having “ideas that are lying around”
-#description: none
 author: Issa Rice
 created: 2014-12-27
 date: 2014-12-27
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: unlikely
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: content creation
 ---
 
 > There is enormous inertia---a tyranny of the status quo---in private and especially governmental arrangements.
