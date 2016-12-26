@@ -88,5 +88,8 @@ In sqlite3:
 * [Answer to "Can Chrome browser history be exported to an HTML
   file?"](http://superuser.com/a/602274); the sqlite3 commands are from this
   answer.
+* [Google Chrome §
+  History](http://forensicswiki.org/wiki/Google_Chrome#History) on
+  ForensicsWiki.
 
 [epoch]: https://en.wikipedia.org/wiki/Epoch_(reference_date)
