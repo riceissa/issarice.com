@@ -57,3 +57,19 @@ Some more thoughts:
 [This quote](http://openborders.info/blog/skeptics-movement-open-borders-mistrust-authority/) by Fabio Rojas:
 
 > For Open Borders, I suggest the following. There are incidents that can erode the public’s views on migration restrictions and they can be useful, but do not expect them to transform the movement. Instead, use them as short term opportunities to build a movement. Use them to bring people together who might not otherwise interact. They can also be used to gather the resources needed for more systematic action. When incidents occur, Open Borders advocates may provide the intellectual heft that can be used to bolster and support a sustained reform effort in specific places.
+
+Here is a more defensive take from [Mike Perry](https://blog.torproject.org/blog/technology-hostile-states-ten-principles-user-protection):
+
+> It is possible for the law and even for public opinion to turn against
+> technology quickly, especially during a crisis where people do not have time
+> to fully understand the effects of a particular policy on technology.
+>
+> The technology industry should be prepared to counter bad policy
+> recommendations with coherent arguments as soon as the crisis hits. This
+> means spending time and devoting resources to testing the public's reaction
+> to statements and arguments about policy in focus groups, with lobbyists, and
+> in other demographic testing scenarios, so that we know what arguments will
+> appeal to which audiences ahead of time. It also means having media outlets,
+> talk show hosts, and other influential people ready to back up our position.
+> It is critical to prepare early. When a situation becomes urgent, bad policy
+> often gets implemented quickly, simply because "something must be done".
