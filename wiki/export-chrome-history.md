@@ -33,16 +33,10 @@ I recommend the following before continuing:
 
 Then run the following commands:
 
-    $ sqlite3 History
-    sqlite> .headers on
-    sqlite> .mode csv
-    sqlite> .output out.csv
-    sqlite> SELECT datetime(last_visit_time/1000000-11644473600,
-       ...> 'unixepoch', 'localtime') as 'date',url FROM urls
-       ...> ORDER BY last_visit_time DESC;
-    sqlite>
-
-Press `CTRL`-`D` to exit sqlite3 after the final prompt.
+    sqlite3 -header -csv History "SELECT \
+        datetime(last_visit_time/1000000-11644473600, 'unixepoch', \
+        'localtime') as 'date',url FROM urls ORDER BY \
+        last_visit_time DESC;" > out.csv
 
 Chrome seems to use FILETIME for representing time, whose [epoch][epoch] and
 unit length both differ from those of Unix time; hence the dividing and
