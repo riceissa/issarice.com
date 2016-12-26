@@ -66,3 +66,7 @@ Here is a more defensive take from [Mike Perry](https://blog.torproject.org/blog
 > talk show hosts, and other influential people ready to back up our position.
 > It is critical to prepare early. When a situation becomes urgent, bad policy
 > often gets implemented quickly, simply because "something must be done".
+
+In other words it's not "we should have ideas that we can force on people
+during a crisis" but rather "we should have ideas ready so that people don't
+reach the wrong conclusions in response to a crisis".
