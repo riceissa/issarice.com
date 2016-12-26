@@ -31,7 +31,8 @@ I recommend the following before continuing:
 * Make a copy of the history file and work with this copy instead of the actual
   history file
 
-Then run the following command in a shell:
+Then run the following command in a shell to get a list of visited URLs, sorted
+by last visit date:
 
     sqlite3 -header -csv History "SELECT \
         datetime(last_visit_time/1000000-11644473600, 'unixepoch', \
@@ -44,6 +45,17 @@ subtracting.
 Then the `'unixepoch'` converts the Unix time to a date and time, and
 `'localtime'` adjusts for timezone differences ([see the
 documentation](https://www.sqlite.org/lang_datefunc.html)).
+
+The above limits output to a single line for each URL.
+To obtain a more complete browsing history, one must combine the `urls` table
+with the `visits` table.
+Run the following command to obtain a history of visits, where each URL can
+occur multiple times:
+
+    sqlite3 -header -csv History "SELECT \
+        datetime(visits.visit_time/1000000-11644473600, 'unixepoch', \
+        'localtime') as 'visit_time',urls.url from urls,visits \
+        WHERE urls.id = visits.url ORDER BY visit_time DESC" > out.csv
 
 # External links
 
