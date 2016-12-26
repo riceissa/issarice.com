@@ -45,7 +45,8 @@ Then run the following commands:
 Press `CTRL`-`D` to exit sqlite3 after the final prompt.
 
 Chrome seems to use FILETIME for representing time, whose [epoch][epoch] and
-unit length both differ from those of Unix time.
+unit length both differ from those of Unix time; hence the dividing and
+subtracting.
 
 # External links
 
