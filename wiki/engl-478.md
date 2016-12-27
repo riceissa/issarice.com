@@ -1,16 +1,10 @@
 ---
 title: ENGL 478
-#feed_description: 
 author: Issa Rice
 created: 2015-06-11
 date: 2015-07-13
-language: English
 status: notes
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
 belief: emotional
-tags: uw course, spring 2015, English
-aliases: english 478
 ---
 
 This is my course review for English 478 at University of Washington.

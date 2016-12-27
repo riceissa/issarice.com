@@ -1,14 +1,10 @@
 ---
 title: Thoughts on using Reddit effectively
-description: 
 author: Issa Rice
 created: 2014-12-11
 date: 2015-07-11
-language: English
 status: notes
 belief: possible
-license: CC BY
-tags: content discovery
 ---
 
 Okay, I ended up writing this on the CM wiki as [Using reddit](http://info.cognitomentoring.org/wiki/Using_reddit).

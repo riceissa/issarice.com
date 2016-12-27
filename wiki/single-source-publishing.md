@@ -1,17 +1,10 @@
 ---
 title: Single source publishing
-#description: none
 author: Issa Rice
 created: 2015-01-01
 date: 2015-01-01
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: content creation, digital preservation
 ---
 
 As part of this website, but also with publishing information in general (e.g. with my school projects, for instance), I've been very interested in things like [digital preservation](), [durable links](durable-link), and [single source publishing](!w) (SSP).

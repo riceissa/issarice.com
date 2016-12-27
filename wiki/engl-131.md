@@ -1,14 +1,9 @@
 ---
 title: ENGL 131
-description: Course review of English 131 at the University of Washington
 author: Issa Rice
 created: 2014-12-20
 date: 2015-03-29
-language: English
 status: notes
-license: CC BY
-tags: uw course review, english
-aliases: english-131-at-the-university-of-washington, english 131
 ---
 
 This is my course review for English 131 (Composition: Exposition) at the University of Washington.

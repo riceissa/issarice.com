@@ -1,18 +1,10 @@
 ---
 title: "Open Borders: The Case"
-#description: 
 author: Issa Rice
 created: 2015-02-19
 date: 2015-08-15
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: content creation, open borders
-#aliases: 
 ---
 
 *Disclaimer: [Vipul Naik](http://vipulnaik.com/), the founder of Open Borders: The Case, is a friend of mine.*

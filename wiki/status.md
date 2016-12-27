@@ -1,21 +1,10 @@
 ---
 title: Status
-feed_description: more polished version
 author: Issa Rice
 created: 2014-12-22
 date: 2015-06-29
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: in progress
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
 belief: likely
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: site-info
-aliases: status-tag, status tags, status marker, status markers
 ---
 
 This page is about the status notices (or tags) that are displayed at

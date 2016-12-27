@@ -1,17 +1,8 @@
 ---
 title: Canonical naming
-#description: none
 author: Issa Rice
 created: 2015-01-02
 date: 2015-02-22
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: content creation
 ---
 
 Vipul Naik defines **canonical naming** in "[The goal of subject wikis](http://blog.subwiki.org/2009/02/02/the-goal-of-subject-wikis/)" as a [naming convention](!w) where "the name of a page on a topic is precisely that topic".

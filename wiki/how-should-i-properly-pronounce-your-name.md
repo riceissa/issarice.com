@@ -1,20 +1,10 @@
 ---
 title: How should I properly pronounce your name?
-#feed_description: 
 author: Issa Rice
 created: 2015-05-23
 date: 2015-05-23
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: mostly finished
-# accepts "certain", "highly likely", "likely", "possible", "unlikely",
-# "highly unlikely", "remote", "impossible", "log", "emotional", or
-# "fiction"
 belief: highly likely
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: self
-#aliases: 
 ---
 
 [Mirror on Quora](https://www.quora.com/How-should-I-properly-pronounce-your-name/answer/Issa-Rice)

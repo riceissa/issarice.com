@@ -1,13 +1,9 @@
 ---
 title: Arguments for and against blogs
-description: 
 author: Issa Rice
 created: 2014-12-18
 date: 2014-12-18
-language: English
 status: draft
-license: CC BY
-tags: blog, content creation, procon
 ---
 
 This page considers various arguments for and against blogs.

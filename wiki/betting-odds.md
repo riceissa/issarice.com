@@ -1,18 +1,10 @@
 ---
 title: Betting odds
-#description: 
 author: Issa Rice
 created: 2015-01-27
 date: 2015-07-20
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: unlikely
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: math, probability
-aliases: odds
 ---
 
 # Definition

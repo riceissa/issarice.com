@@ -1,22 +1,9 @@
 ---
 title: Egoism of personal websites
-#description: 
-#feed_description: 
 author: Issa Rice
 created: 2015-10-20
 date: 2015-10-20
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
-#belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
-tags: content creation
-#aliases: 
 ---
 
 In content creation, one important decision to make is the venue.

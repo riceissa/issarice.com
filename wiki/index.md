@@ -4,9 +4,6 @@ author: Issa Rice
 # Do not show, since this is a "timeless" page
 #creation_date: 2014-09-13
 #date: 2014-12-19
-license: CC0
-tags: general
-aliases: front page, main
 ---
 
 This is the website of myself, Issa Rice.  This site stores basic information

@@ -1,18 +1,8 @@
 ---
 title: Effective altruism links
-description: List of links to various effective altruism discussions, sorted by topic
-feed_description: add criticisms
 author: Issa Rice
 created: 2015-01-02
 date: 2015-07-07
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
-tags: ea, links
 ---
 
 Although I haven't spent too much time investigating all resources on [effective altruism]() (EA), it seems that right now, discussions are occurring in disparate places, and that coordination between these places is lacking.

@@ -1,17 +1,9 @@
 ---
 title: Personal review
-#description: none
 author: Issa Rice
 created: 2015-01-03
 date: 2015-01-03
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: introspection, self-improvement, qs
 ---
 
 It seems fairly common among the rationalist/effective altruist crowd to post recurring **personal reviews** detailing what they've accomplished since the last review.

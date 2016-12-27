@@ -1,12 +1,8 @@
 ---
 title: Depression
 author: Issa Rice
-tags: self-improvement, psychology, depression
-language: English
 status: draft
 belief: possible
-license: CC BY
-aliases: dealing-with-depression
 ---
 
 I'm not really an EOTS, but some starting points:

@@ -1,14 +1,9 @@
 ---
 title: Content availability
-description: 
 author: Issa Rice
 created: 2014-12-18
 date: 2014-12-18
-language: English
 status: draft
-license: CC BY
-tags: content creation
-aliases: availability-of-content, openness-and-availability-of-content
 ---
 
 This page considers how open one's content should be.

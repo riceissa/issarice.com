@@ -1,17 +1,10 @@
 ---
 title: Cognito Mentoring
-description: update CS major and Quora stats
 author: Issa Rice
 created: 2014-12-26
 date: 2015-07-27
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: in progress
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: likely
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: cm
 ---
 
 This page describes my relation to [Cognito Mentoring](http://cognitomentoring.org/) (CM), which was an "advising service for intellectually curious students".

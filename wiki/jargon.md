@@ -1,18 +1,10 @@
 ---
 title: Jargon
-#description: none
 author: Issa Rice
 created: 2015-01-03
 date: 2015-01-03
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: writing, content creation
-aliases: define-jargon-early
 ---
 
 When writing, it is important to **define jargon early** so you don't waste readers' time.

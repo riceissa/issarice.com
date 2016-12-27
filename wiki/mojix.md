@@ -1,16 +1,10 @@
 ---
 title: mojix
-#feed_description: 
 author: Issa Rice
 created: 2015-06-25
 date: 2015-06-25
-language: English
 status: notes
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: mojix, japan, education, content creation, music
-#aliases: 
 ---
 
 I'm *really impressed* right now with Mojix's

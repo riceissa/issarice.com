@@ -1,17 +1,9 @@
 ---
 title: Cause prioritization
-#description: none
 author: Issa Rice
 created: 2014-12-26
 date: 2015-02-22
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: cause prioritization
 ---
 
 Since about the beginning of October 2014, I have been interested in **cause prioritization**, which aims to find the most effective causes people can work on.

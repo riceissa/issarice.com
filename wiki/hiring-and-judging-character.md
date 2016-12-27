@@ -1,15 +1,9 @@
 ---
 title: Hiring and judging character
-#feed_description: 
 author: Issa Rice
 created: 2015-06-21
 date: 2015-06-21
-language: English
 status: notes
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: judging, character, hiring, Yishan Wong, talent
-#aliases: 
 ---
 
 - [We Can’t \(Simply\) Buy Capacity](http://blog.givewell.org/2013/08/29/we-cant-simply-buy-capacity/)

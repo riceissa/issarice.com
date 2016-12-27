@@ -1,17 +1,8 @@
 ---
 title: University of Washington
-#description: none
 author: Issa Rice
 created: 2014-12-29
 date: 2016-03-30
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: uw
 ---
 
 I began attending the University of Washington (UW) starting in autumn 2014; I plan to graduate sometime in 2017.

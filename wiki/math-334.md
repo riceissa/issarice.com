@@ -4,10 +4,6 @@ created: 2015-10-11
 date: 2015-10-11
 status: notes
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
-tags: uw, math, uw course review
-#aliases: 
 ---
 
 This is my course review for MATH 334, Advanced Calculus.

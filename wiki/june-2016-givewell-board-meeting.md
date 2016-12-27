@@ -2,6 +2,7 @@
 title: June 2016 GiveWell board meeting
 author: Issa Rice
 date: 2016-08-17
+license: "GiveWell’s work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States license. As an adaptation containing a rough transcript, this post inherits this license."
 ---
 
 **Note: this post is now published on the [EA Forum](http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/).**

@@ -1,20 +1,10 @@
 ---
 title: PHYS 121
-feed_description: rant about the course
 author: Issa Rice
 created: 2015-05-27
 date: 2015-05-27
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely",
-# "highly unlikely", "remote", "impossible", "log", "emotional", or
-# "fiction"
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: uw course, physics, school, spring 2015
-aliases: physics 121
 ---
 
 This is my course review for physics 121 at University of Washington. I

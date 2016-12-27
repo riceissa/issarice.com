@@ -1,22 +1,10 @@
 ---
 title: Effective altruism and Asperger syndrome
-#description: 
-#feed_description: 
 author: Issa Rice
 created: 2015-08-17
 date: 2015-08-17
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: effective altruism
-aliases: ["ea and aspergers"]
 ---
 
 *The content on this page is originally from [Issa Rice's answer to What makes so many aspies attracted to effective altruism?](https://www.quora.com/What-makes-so-many-aspies-attracted-to-effective-altruism/answer/Issa-Rice)*

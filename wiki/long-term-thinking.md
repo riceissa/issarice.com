@@ -1,17 +1,10 @@
 ---
 title: Long-term thinking
-#description: none
 author: Issa Rice
 created: 2015-01-12
 date: 2015-01-12
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: long term thinking, thiel
 ---
 
 I'm a big fan of **long-term thinking**; after all, I'm very interested in anti-aging, [long content](), [durable link]()s, and so on.

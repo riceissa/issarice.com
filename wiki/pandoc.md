@@ -1,16 +1,10 @@
 ---
 title: Pandoc
-description: 
 author: Issa Rice
 created: 2014-10-31
 date: 2014-10-31
-language: English
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-license: CC BY
-tags: linux, pandoc
-aliases: playing-with-pandoc
 ---
 
 [Pandoc](http://johnmacfarlane.net/pandoc/index.html) is a convenient tool for converting documents between different formats---for instance to convert a markdown document into a PDF.

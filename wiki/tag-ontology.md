@@ -1,22 +1,10 @@
 ---
 title: Tag ontology
-#description: 
-#feed_description: 
 author: Issa Rice
 created: 2015-08-04
 date: 2015-08-04
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: content creation
-aliases: topic ontology
 ---
 
 The topic of **tag** or **topic ontology** has always fascinated me

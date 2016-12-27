@@ -1,17 +1,10 @@
 ---
 title: Long Content
-#description: none
 author: Issa Rice
 created: 2014-12-31
 date: 2014-12-31
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: content creation, long term thinking
 ---
 
 **[Long Content](http://www.gwern.net/About#long-content)** is a style of [content creation]() where one has "perpetual drafts" that one improves over time.

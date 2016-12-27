@@ -1,14 +1,9 @@
 ---
 title: Honors 100
-description: Course review of honors 100 at the University of Washington
 author: Issa Rice
 created: 2014-12-20
 date: 2014-12-20
-language: English
 status: draft
-license: CC BY
-tags: uw course review, uw-honors
-aliases: honors-100-at-the-university-of-washington
 ---
 
 This is my course review for [honors 100](https://depts.washington.edu/uwhonors/courses/honors100/) (Honors at the UW) at the University of Washington.

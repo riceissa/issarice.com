@@ -1,17 +1,9 @@
 ---
 title: Good content
-#description: none
 author: Issa Rice
 created: 2015-01-12
 date: 2015-01-12
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: [content-creation, caplan, gwern, ssc]
 ---
 
 I want to explore a bit what makes certain sites a good source of content, while others seem to have hopelessly low signal-to-noise ratios.

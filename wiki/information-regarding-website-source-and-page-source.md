@@ -1,8 +1,6 @@
 ---
 title: Information regarding website source and page source
 date: 2015-06-29
-tags: site-info
-license: CC0
 ---
 
 *Note: this page is out of date; I will update it when I get a chance.*

@@ -1,16 +1,10 @@
 ---
 title: MediaWiki with nginx on Linode
-#feed_description: 
 author: Issa Rice
 created: 2015-06-23
 date: 2015-06-23
-language: English
 status: notes
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: linux, Linode, cloud computing
-#aliases: 
 ---
 
 # Preventing spam

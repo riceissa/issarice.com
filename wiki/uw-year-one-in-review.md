@@ -1,16 +1,10 @@
 ---
 title: "UW: year one in review"
-#feed_description: 
 author: Issa Rice
 created: 2015-06-21
 date: 2015-06-21
-language: English
 status: notes
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: uw
-#aliases: 
 ---
 
 This page is the review of my first year at University of Washington

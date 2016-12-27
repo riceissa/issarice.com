@@ -1,22 +1,9 @@
 ---
 title: Archiving websites on Unix-like systems
-#description: 
-#feed_description: 
 author: Issa Rice
 created: 2015-09-22
 date: 2015-09-22
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
-#belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
-tags: untagged
-#aliases: 
 ---
 
 *Note: this page was originally written for the wikiHow article "[How to Archive Websites on Unix Like Systems](http://www.wikihow.com/Archive-Websites-on-Unix-Like-Systems)".

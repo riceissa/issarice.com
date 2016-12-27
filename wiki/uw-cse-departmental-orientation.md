@@ -1,22 +1,10 @@
 ---
 title: UW CSE Departmental Orientation
-#description: 
-#feed_description: 
 author: Issa Rice
 created: 2015-07-30
 date: 2015-07-30
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: untagged
-#aliases: 
 ---
 
 I attended the orientation on Thursday July 30, 3:30–4:30pm (in CSE 305).

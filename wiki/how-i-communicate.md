@@ -1,13 +1,9 @@
 ---
 title: How I communicate
-description: 
 author: Issa Rice
 created: 2014-11-11
 date: 2014-11-11
-language: English
 status: draft
-license: CC BY
-tags: communication, self
 ---
 
 Following Ben Kuhn's advice, I figured it would be a good idea to [document how I communicate](http://www.benkuhn.net/comm).

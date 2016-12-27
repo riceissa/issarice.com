@@ -1,22 +1,10 @@
 ---
 title: Personal thoughts on licensing
-#description: 
-#feed_description: 
 author: Issa Rice
 created: 2015-08-16
 date: 2015-08-16
-language: English
-# Possible values are "notes", "draft", "in progress", and
-# "mostly finished"
 status: notes
-# Possible values are "certain", "highly likely", "likely", "possible",
-# "unlikely", "highly unlikely", "remote", "impossible", "fiction", and
-# "emotional"
 belief: emotional
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
-tags: [content creation]
-#aliases: 
 ---
 
 *This page gives my personal views on content and software licensing.*

@@ -1,20 +1,10 @@
 ---
 title: "Julian Simon’s Good Mood"
-#feed_description: 
 author: Issa Rice
 created: 2015-05-23
 date: 2015-05-23
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely",
-# "highly unlikely", "remote", "impossible", "log", "emotional", or
-# "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: depression
-#aliases: 
 ---
 
 From [this](http://www.juliansimon.com/writings/Good_Mood/Part_II/chapte13.html) chapter:

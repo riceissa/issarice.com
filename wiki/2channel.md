@@ -1,15 +1,9 @@
 ---
 title: 2channel
-#description: 
-#feed_description: 
 author: Issa Rice
 created: 2015-09-10
 date: 2015-12-31
-language: English
 status: notes
-license: CC0
-tags: internet
-#aliases: 
 ---
 
 Similarly to sites like

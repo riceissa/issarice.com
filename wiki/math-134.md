@@ -1,14 +1,9 @@
 ---
 title: MATH 134
-description: Course review of math 134 at the University of Washington
 author: Issa Rice
 created: 2014-12-09
 date: 2014-12-09
-language: English
 status: draft
-license: CC BY
-tags: uw course review, math
-aliases: math-134-at-the-university-of-washington
 ---
 
 This is my course review for math 134 at the University of Washington.

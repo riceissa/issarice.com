@@ -1,18 +1,9 @@
 ---
 title: Good entry point
-description: Online pages should be useful to people coming from outside the site.
-feed_description: Add new advantages and examples for this site.
 author: Issa Rice
 created: 2015-01-02
 date: 2015-08-04
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: public domain
-tags: content creation
 ---
 
 A **good entry point** to a website or wiki is a page that is understandable and useful to someone coming from outside the site (e.g. from a search engine or external website).

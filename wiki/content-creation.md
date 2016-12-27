@@ -1,16 +1,7 @@
 ---
 title: Content creation
-description: My research on the organization and dissemination of knowledge, and the impact spreading information can have.
-tags: content-creation, information
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC0
 author: Issa Rice
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: draft
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-aliases: content-creation-the-organization-and-dissemination-of-knowledge
 ---
 
 This page is about **content creation**.

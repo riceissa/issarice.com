@@ -1,7 +1,6 @@
 ---
 title: Autumn 2015 at the University of Washington
 date: 2016-01-22
-tags: uw course review
 ---
 
 # Courses

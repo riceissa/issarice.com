@@ -1,17 +1,10 @@
 ---
 title: EconLog
-feed_description: some of my favorite Econlog posts
 author: Issa Rice
 created: 2015-01-16
 date: 2015-01-20
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: possible
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: econlog, bryan caplan
 ---
 
 I really like [EconLog] a lot (mostly the [posts on there by Bryan

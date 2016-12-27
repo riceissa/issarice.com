@@ -1,10 +1,7 @@
 ---
 title: Installing Haskell
-description: steps for installing the lastest version of Haskell on Debian stable or any compatible system
-tags: debian, haskell, linux
 created: 2014-09-14
 date: 2014-09-14
-license: CC0
 ---
 
 - [Chris Done](http://chrisdone.com/) pointed me to [this page](https://github.com/bitemyapp/learnhaskell#debian)

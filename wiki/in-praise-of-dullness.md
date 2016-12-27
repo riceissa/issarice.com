@@ -1,17 +1,10 @@
 ---
 title: In praise of dullness
-description: none
 author: Issa Rice
 created: 2014-12-22
 date: 2014-12-22
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
 status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
 belief: emotional, unlikely
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: CC-BY
-tags: boringness
 ---
 
 > "And some books ought to burn, trying for character\

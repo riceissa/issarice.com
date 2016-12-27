@@ -1,17 +1,8 @@
 ---
 title: Requirements for a website
-#description: none
 author: Issa Rice
 created: 2015-01-01
 date: 2015-01-01
-language: English
-# accepts "notes", "draft", "in progress", or "mostly finished"
-#status: notes
-# accepts "certain", "highly likely", "likely", "possible", "unlikely", "highly unlikely", "remote", "impossible", "log", "emotional", or "fiction"
-#belief: 
-# accepts "CC0", "CC-BY", or "CC-BY-SA"
-license: public domain
-tags: content creation, archival, plain text
 ---
 
 What makes a good website, especially one that lasts a long time?
