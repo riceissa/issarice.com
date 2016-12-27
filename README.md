@@ -14,11 +14,8 @@ locally or be served elsewhere with:
     rsync -r --delete _site/ destination_directory/
 
 Note that in the interest of [Cool URIs][cool], the compiled files have no file
-extensions (which would usually be `.html`).  Therefore simply opening the files
-in your browser may not work as expected.  (Firefox and Chrome can figure out
-that the file is still an HTML, but for instance Elinks seems to have
-trouble—though on Elinks specifically you can hit `\` to force it to render as
-HTML.)
+extensions (which would usually be `.html`).  Therefore locally opening the files
+in your browser may not work as expected.
 
 Note also that since the Markdown files in this repository use Pandoc's
 Markdown, they do not render correctly on GitHub.
