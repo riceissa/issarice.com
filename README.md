@@ -9,7 +9,7 @@ just do from the shell:
     make fullsite
 
 This will generate all resulting files under `_site`, which can be browsed
-locally or be served on the site with:
+locally or be served elsewhere with:
 
     rsync -r --delete _site/ destination_directory/
 
