@@ -6,7 +6,6 @@ files using Pandoc and a Makefile. Assuming one has the prerequisites to compile
 the site (Pandoc ≥1.17.1 with [pandocfilters][pf] ≥1.4.0 and GNU Make)
 just do from the shell:
 
-    # cd to the repo directory
     make fullsite
 
 This will generate all resulting files under `_site`, which can be browsed
