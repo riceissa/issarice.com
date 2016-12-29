@@ -107,6 +107,10 @@ This is the summer before starting at Inglemoor; I remember constantly
 listening to Bob Dylan (specifically *Blonde on Blonde* and *Highway 61
 Revisited*.
 
+# December 2012
+
+The Cure and *Pet Sounds* as early as this point in time.
+
 # 2015
 
 Taylor Swift
