@@ -111,6 +111,10 @@ Revisited*.
 
 The Cure and *Pet Sounds* as early as this point in time.
 
+# December 2014
+
+Discovered Fishmans, originally through a Quora answer.
+
 # 2015
 
 Taylor Swift
