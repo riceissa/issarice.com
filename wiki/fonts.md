@@ -1,5 +1,7 @@
 ---
 title: Fonts
+author: Issa Rice
+date: 2016-12-29
 ---
 
 This page lists some fonts I like.
