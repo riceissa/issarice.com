@@ -4,7 +4,8 @@ title: Fonts
 
 This page lists some fonts I like.
 
-- I like [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) for monospace.
+- I like [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) for monospace
+  and Consolas.
 - For serif, I like Bitstream Charter and Palatino.
 I also like thicker variants of Computer Modern (if on screen; the thinner ones are fine on paper).
 - For sans serif, I like [Lato](http://www.latofonts.com/lato-free-fonts/).
