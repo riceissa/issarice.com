@@ -44,12 +44,14 @@ This page is a placeholder for now.
   PDF in Atril, but otherwise I don't have a strong preference for one or the
   other.
 - Still looking for a good epub reader.
+- `youtube-dl`
 
 Programs in trial mode:
 
 - fzf
 - ag
 - mupdf
+- `mpsyt`
 
 # See also
 
