@@ -122,6 +122,8 @@ I think in July 2015 I added the [`_archive`](https://issarice.com/_archive/)
 directory to the site, which allows access to *some* past compiled versions of
 the site (although the source files are accessible for *every* version thanks
 to Git).
+The idea is to allow people to see what the site looked like at certain points
+in time without having to compile the site from source.
 
 In late October 2016, I finally added HTTPS support.
 
