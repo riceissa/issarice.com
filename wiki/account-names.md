@@ -7,7 +7,7 @@ date: 2016-11-13
 Below I list the account names I use on various websites.
 
 I usually use "riceissa" on most sites.
-This is somewhat of a historical accident: when I tried to sign up for my GMail
+This is somewhat of a historical accident: when I tried to sign up for my Gmail
 account, "issarice" was already taken, so I picked "riceissa" instead.
 Since then, I've sort of standardized on "riceissa" for most services, although
 I also use "issarice".
@@ -15,7 +15,7 @@ I also use "issarice".
 # Social
 
 - My Google account name is riceissa.
-  In particular, my GMail address is [riceissa@gmail.com][email].
+  In particular, my Gmail address is [riceissa@gmail.com][email].
 - My [Facebook]() account name is [riceissa][fbp].  I check Facebook regularly
   throughout the day.  I generally accept all friend requests that don’t
   appear to be spam; having some mutual friends or messaging me

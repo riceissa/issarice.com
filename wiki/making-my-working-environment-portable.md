@@ -50,7 +50,7 @@ Just some notes for now.
     > maintenance. I like the freedom to wipe and reinstall without losing my
     > world
 
-  <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and GMail once, then Firefox will remember a much larger fraction of the --> 
+  <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and Gmail once, then Firefox will remember a much larger fraction of the --> 
 
 # External links
 
