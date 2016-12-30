@@ -12,6 +12,9 @@ I tend to use Git both on the command-line as well as in Vim using
 [gv.vim](https://github.com/junegunn/gv.vim).
 I also tend to look through commits and other information on GitHub.
 
+For my Git configuration, see my [`.gitconfig`][gitconfig] and
+[`.gitignore_global`][ignore].
+
 Some useful commands:
 
 - View all unadded files, including ones in <code>.gitignore</code>.
@@ -64,3 +67,6 @@ Then running `git diff --color 3cc00f112bf~1 3cc00f112bf` in the [CP Wiki repo](
 # See also
 
 * [Software]() for more about the software I use
+
+[gitconfig]: https://github.com/riceissa/dotfiles/blob/master/.gitconfig
+[ignore]: https://github.com/riceissa/dotfiles/blob/master/.gitignore_global
