@@ -14,7 +14,11 @@ This page is a placeholder for now.
   I also use Emacs or the browser's text box for MediaWiki, since Vim has
   difficulty with long lines.
 - [Git]()
-- [ELinks]()
+- [ELinks](), Links, or Lynx for lightweight browsing depending on what I want.
+  ELinks has tabbed browsing which I find easy to use, but Links can show
+  images with `-g`. Lynx seems to do correct checking for SSL certificates and
+  additionally has `-localhost -dump` that is suitable for producing plain text
+  dumps of webpages.
 - [Exuberant Ctags]()
 - [Music On Console]()
 - [Newsbeuter]()
