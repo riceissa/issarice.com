@@ -81,7 +81,7 @@ repository often---so my site is the result of many incremental updates[^aaron].
     While I think there's merit in what Swartz says, here are a few things I'll say to counter it:
 
     - I use [belief]() and [status]() tags to explicitly signal how "complete" or "ready" I think my pages are for the public.
-    - I only deploy the site about once per month, so a lot of the most "rough" edits tend to be fixed during the time between deployments (so most of the public won't see them anyway---and if they ever want to see those "rough" edits, they can always dig around in the [Git repository](https://github.com/riceissa/issarice.com)).
+    - I only deploy the site once every several commits, so a lot of the most "rough" edits tend to be fixed during the time between deployments (so most of the public won't see them anyway---and if they ever want to see those "rough" edits, they can always dig around in the [Git repository](https://github.com/riceissa/issarice.com)).
 
 
 [^cy]: Of course, more cynically, [one could quote Scott Alexander](https://web.archive.org/web/20130118212124/http://raikoth.net/) about the reason many people have personal websites:
