@@ -12,14 +12,12 @@ This site stores basic information about me, but it is also a personal wiki or
 [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts
 (in some sense, anything that doesn't belong elsewhere ends up on here).
 
-# Things on this site
+# On this site
 
 - [About me](about) (contains a short self-introduction)
 - [Contact me](contact)
 - [Account names I use on various websites](account-names)
 - [About this site](about-this-site)
-- I maintain the [Cause Prioritization Wiki](http://causeprioritization.org)
-  (external site)
 - Information about my involvement with the [effective altruism]() movement
 - [Content creation]() documents my ongoing research on the
   organization and dissemination of knowledge, how to effectively
