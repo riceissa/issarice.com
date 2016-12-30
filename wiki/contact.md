@@ -3,7 +3,7 @@ title: Contact
 author: Issa Rice
 ---
 
-The best way to contact [me](about-me) is via email at [riceissa@gmail.com][email].
+The best way to contact [me](about) is via email at [riceissa@gmail.com][email].
 You can use my [PGP public key][pgp] if you would like to encrypt your message.
 
 If you prefer, you can friend me on [Facebook]() and message me there.
