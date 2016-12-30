@@ -25,7 +25,7 @@ This page is a placeholder for now.
 - Ubuntu on laptop and Debian on server
 - MATE as a desktop environment
 - KeePassX
-- Zsh for now, but also Bash
+- Bash for my shell
 - Pandoc
 - [mutt]() for sending mail sometimes
 - I use a modified version of Solarized Light as a colorscheme in my terminal.
