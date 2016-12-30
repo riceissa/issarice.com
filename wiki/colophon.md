@@ -25,5 +25,6 @@ I have registered the domains [issarice.com](http://issarice.com) and [riceissa.
 # See also
 
 * [Software]() for more about the software I use
+* [About this site]() for more philosophical information about this site
 
 [^bodytext]: The main body text color was made darker due to a request made by a friend.
