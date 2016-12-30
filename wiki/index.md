@@ -32,7 +32,7 @@ Here are some activity feeds that track what I've been working on:
   Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Riceissa)
   ([more information about my Wikipedia editing](wikipedia))
 * My GitHub [contribution activity](https://github.com/riceissa), including my
-  [commits this website's
+  [commits to this website's
   repository](https://github.com/riceissa/issarice.com/commits/master)
 * [List of pages on this site, sorted by date of last substantive
   revision](_all_date)
