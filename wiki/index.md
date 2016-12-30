@@ -53,6 +53,10 @@ Here are some activity feeds that track what I've been working on:
   [commits to this website's
   repository](https://github.com/riceissa/issarice.com/commits/master)
 * My [public GitHub Gists](https://gist.github.com/riceissa)
+* [Summary of my contract work for Vipul
+  Naik](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki)
+  ([more detailed page with
+  tables](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice))
 * [List of pages on this site, sorted by date of last substantive
   revision](_all_date)
 * [List of all pages on this site, ordered by the date of last
