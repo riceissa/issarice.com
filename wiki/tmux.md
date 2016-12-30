@@ -18,7 +18,7 @@ continue working where I stopped.
 My tmux configuration file is [available on GitHub][conf].
 
 Besides working in tmux, I make use of tmux in a [shell script][keep] that runs
-in a cron job.
+as a cron job.
 The script just opens and quits Vim and Mutt in a tmux session; the cron job
 runs every minute to keep Vim and Mutt in memory.
 
