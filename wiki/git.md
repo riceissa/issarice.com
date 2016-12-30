@@ -58,7 +58,6 @@ In `~/.gitconfig`:
 
 Then running `git diff --color 3cc00f112bf~1 3cc00f112bf` in the [CP Wiki repo](https://github.com/riceissa/causeprioritization). This causes colors to show up, but the header doesn't show up at first. If you hit `G` to go to the bottom, then hit `g` to get back up, you can see the header.  You can do some pretty weird things with this, e.g. `git diff --color 3cc00f112bf~1 3cc00f112bf | fold | less -r` will make the color fade out in some regions, and you can also see strange character marks.
 
-- <https://stackoverflow.com/questions/4144417/how-to-handle-asian-characters-in-file-names-in-git-on-os-x>
 - [How do I change the remote a git branch is tracking?](http://stackoverflow.com/questions/4878249/how-do-i-change-the-remote-a-git-branch-is-tracking)
 - [How to color the Git console in Ubuntu?](http://stackoverflow.com/questions/10998792/how-to-color-the-git-console-in-ubuntu)
 
