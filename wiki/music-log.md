@@ -114,8 +114,8 @@ The Cure and *Pet Sounds* as early as this point in time.
 # December 2014
 
 Discovered Fishmans, originally through a Quora answer.
-The full story is: on December 11 I spammed Quora with a bunch of questions
-like "Which Japanese bands sound a lot like *X*?" for various *X*.
+The full story is: on December 11 I spammed Quora with a series of questions
+of the form "Which Japanese bands sound a lot like *X*?" for various *X*.
 On December 18 Austin Do
 [answered](https://www.quora.com/Which-Japanese-bands-sound-a-lot-like-Velvet-Underground/answer/Austin-Do)
 the question for Velvet Underground, and I'm almost certain this is what led me
