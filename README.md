@@ -31,8 +31,9 @@ The vast majority of the files in `wiki/`, the main content directory, is
 licensed under the [CC0 1.0 Universal Public Domain Dedication][cc0].
 For all files in `wiki/`, if the YAML header does not have a `license` field,
 it is CC0; otherwise whatever is in the `license` field gives the license.
-When compiling the website, Pandoc uses `templates/default.html5` to do exactly
-this logic, so it might be easier to look at the bottom of the compiled page.
+When compiling the website, Pandoc uses `templates/default.html5` to perform
+exactly this logic, so it might be easier to look at the bottom of the compiled
+page.
 
 For files in `external/` (which I use as a place to store contributions to
 external sites), the license depends on whether I am the sole contributor.
