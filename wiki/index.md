@@ -14,8 +14,8 @@ This site stores basic information about me, but it is also a personal wiki or
 
 # Things on this site
 
-- [About me](about) (contains a short self-introduction and contact
-  information)
+- [About me](about) (contains a short self-introduction)
+- [Contact me](contact)
 - [Account names I use on various websites](account-names)
 - [About this site](about-this-site)
 - I maintain the [Cause Prioritization Wiki](http://causeprioritization.org)
