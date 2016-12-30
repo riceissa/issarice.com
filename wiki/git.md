@@ -1,6 +1,7 @@
 ---
 title: Git
 author: Issa Rice
+created: 2013-03-18
 date: 2016-12-29
 ---
 
