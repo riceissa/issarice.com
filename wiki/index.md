@@ -8,9 +8,9 @@ toc: false
 ---
 
 This is the website of myself, Issa Rice.
-This site stores basic information about me, but it is also a personal wiki or
-[open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts
-(in some sense, anything that doesn't belong elsewhere ends up on here).
+This site stores basic information about me.
+It also serves as a place to store notes and drafts; anything that doesn't
+belong elsewhere ends up here.
 
 # On this site
 
