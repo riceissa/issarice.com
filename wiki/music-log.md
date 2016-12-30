@@ -2,7 +2,7 @@
 title: Music log
 author: Issa Rice
 created: 2014-12-20
-date: 2016-06-18
+date: 2016-12-29
 ---
 
 *This page is undergoing major reconstruction. For a more functional version of the page, see [here](http://issarice.com/_archive/047a3fcfd087dc81fb68e886e5e977df631504e3/music-i-like-to-listen-to).*
