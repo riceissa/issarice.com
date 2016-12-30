@@ -4,7 +4,9 @@ author: Issa Rice
 date: 2016-07-12
 ---
 
-My main contributions to Quora are through my questions, but I don't think my answers are especially bad, so here they are.
+# Introduction
+
+My main contributions to [Quora]() are through my questions, but I don't think my answers are especially bad, so here they are.
 
 Reverse chronological order
 
