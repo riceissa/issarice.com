@@ -4,7 +4,8 @@ created: 2015-07-05
 date: 2016-11-13
 ---
 
-My username on Wikipedia is Riceissa.
+My username on Wikipedia is
+[Riceissa](https://en.wikipedia.org/wiki/User:Riceissa).
 See [my English-language contributions](https://en.wikipedia.org/wiki/Special:Contributions/Riceissa)
 and [my Japanese-language contributions](https://ja.wikipedia.org/wiki/%E7%89%B9%E5%88%A5:%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2/Riceissa).
 
