@@ -55,8 +55,8 @@ Content]()---i.e. the goal is to incrementally update the pages so as to
 produce useful, lasting content.[^cy] It is also an [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts. In particular, I strive to make
 all the source files used to produce this site human-readable (by
 writing pages in [Pandoc] markdown and storing them in [plain text](http://wcm1.web.rice.edu/my-academic-book-in-plain-text.html)), version-controlled (with [git](!w Git_\(software\))), and
-freely-licensed (all pages are *at least* [CC-BY], with some in the public
-domain[^copy]; the [software used to make this site](colophon) is all
+freely-licensed (most pages are in the public domain according to CC0[^copy];
+the [software used to make this site](colophon) is all
 free software).  I also like to [release early, release often][rero][^agile]; I
 actually don't deploy the site as often, but I try to commit to the git
 repository often---so my site is the result of many incremental updates[^aaron].
@@ -155,7 +155,6 @@ things I'm writing"---but don't want to keep repeating that all the time
 (so I just tag these pages with "*Status: notes; belief: possible*" or
 something).
 
-[cc-by]: https://creativecommons.org/licenses/by/4.0/
 [external]: https://github.com/riceissa/issarice.com/tree/master/external
 [gh_site]: https://riceissa.github.io/
 [gwern]: http://gwern.net
