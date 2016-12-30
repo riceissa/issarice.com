@@ -12,7 +12,7 @@ This site stores basic information about me, but it is also a personal wiki or
 [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts
 (in some sense, anything that doesn't belong elsewhere ends up on here).
 
-# Other things on this site
+# Things on this site
 
 - [About me](about) (contains a short self-introduction and contact
   information)
