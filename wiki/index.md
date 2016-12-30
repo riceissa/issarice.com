@@ -52,6 +52,7 @@ Here are some activity feeds that track what I've been working on:
 * My GitHub [contribution activity](https://github.com/riceissa), including my
   [commits to this website's
   repository](https://github.com/riceissa/issarice.com/commits/master)
+* My [public GitHub Gists](https://gist.github.com/riceissa)
 * [List of pages on this site, sorted by date of last substantive
   revision](_all_date)
 * [List of all pages on this site, ordered by the date of last
