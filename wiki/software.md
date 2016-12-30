@@ -45,6 +45,8 @@ This page is a placeholder for now.
   other.
 - Still looking for a good epub reader.
 - `youtube-dl`
+- GNU userland, mainly because that's what comes with Debian and Ubuntu and
+  what I'm most used to.
 
 Programs in trial mode:
 
