@@ -15,7 +15,8 @@ This site stores basic information about me, but it is also a personal wiki or
 # On this site
 
 - [About me](about) (contains a short self-introduction)
-- [Contact me](contact)
+- [Contact me](contact): the best way to contact me is via email at
+  [riceissa@gmail.com][email]
 - [Account names I use on various websites](account-names)
 - [About this site](about-this-site)
 - Information about my involvement with the [effective altruism]() movement
@@ -57,3 +58,5 @@ Here are some activity feeds that track what I've been working on:
   modification](_all)
 * [Recent changes on the Cause Prioritization
   Wiki](https://causeprioritization.org/_activity)
+
+[email]: mailto:riceissa@gmail.com
