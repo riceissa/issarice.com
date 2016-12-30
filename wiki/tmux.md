@@ -15,49 +15,12 @@ Terminator.
 On my servers, I keep a tmux session running so that I can attach to it to
 continue working where I stopped.
 
-    # Use 256 colors
-    set -g default-terminal "screen-256color"
+My tmux configuration file is [available on GitHub][conf].
 
-    set-option -g default-shell /bin/zsh
+Besides working in tmux, I make use of tmux in a [shell script][keep] that runs
+in a cron job.
+The script just opens and quits Vim and Mutt in a tmux session; the cron job
+runs every minute to keep Vim and Mutt in memory.
 
-    # Make <C-[> work properly in Vim
-    set -s escape-time 0
-
-    unbind C-b
-    #set -g prefix C-q
-    #bind C-q send-prefix
-    set -g prefix C-Space
-    # this one is to pass in a literal one right?
-    bind C-Space send-prefix
-
-    # tmux changed its mouse options in going from 2.0 to 2.1, so we make it work
-    # in all versions.
-    # for tmux >= 2.1
-    set -g mouse on
-    # for tmux < 2.1
-    #set -g mode-mouse on
-    #set -g mouse-resize-pane on
-    #set -g mouse-select-pane on
-    #set -g mouse-select-window on
-
-    set -g history-limit 10000
-
-    # Use Vi keys; see http://blog.sanctum.geek.nz/vi-mode-in-tmux/ and
-    # https://robots.thoughtbot.com/love-hate-tmux
-    set-window-option -g mode-keys vi
-    bind-key -t vi-copy 'v' begin-selection
-    bind-key -t vi-copy 'y' copy-selection
-    bind -t vi-copy Escape cancel
-    #bind h select-pane -L
-    #bind j select-pane -D
-    #bind k select-pane -U
-    #bind l select-pane -R
-
-    # for newer tmux? from http://unix.stackexchange.com/questions/146825/tmux-new-pane-has-home-directory-as-default-instead-of-previous-directory
-    # This preserves the directory when splitting panes.
-    bind '%' split-window -h -c '#{pane_current_path}'  # Split panes horizontal
-    bind '"' split-window -v -c '#{pane_current_path}'  # Split panes vertically
-
-    # Also note that tmux doesn't process ~/.bashrc so do
-    # `echo 'source ~/.bashrc' >> ~/.bash_profile`; see
-    # http://stackoverflow.com/a/16225913 for more
+[conf]: https://github.com/riceissa/dotfiles/blob/master/.tmux.conf
+[keep]: https://github.com/riceissa/dotfiles/blob/master/.local/bin/keep_vim_mutt.sh
