@@ -22,4 +22,8 @@ I currently use the [Linode 2GB \$10 per month plan](https://www.linode.com/pric
 
 I have registered the domains [issarice.com](http://issarice.com) and [riceissa.com](http://riceissa.com) through [Hover](https://www.hover.com/).
 
+# See also
+
+* [Software]() for more about the software I use
+
 [^bodytext]: The main body text color was made darker due to a request made by a friend.

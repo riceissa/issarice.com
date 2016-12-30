@@ -12,5 +12,9 @@ URLs](https://issarice.com/urls.txt) that I regularly check.
 
 My [dotfiles repository contains my `~/.newsbeuter/config`][config].
 
+# See also
+
+* [Software]() for more about the software I use
+
 [official]: http://newsbeuter.org/ "Newsbeuter: The Mutt of RSS Feed Readers"
 [config]: https://github.com/riceissa/dotfiles/blob/master/.newsbeuter/config

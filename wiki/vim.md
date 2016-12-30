@@ -479,6 +479,10 @@ these I've only been able to articulate in the past year or so.
   and open a split to commit the changes, but fall back to `:write` if the file
   associated with this buffer isn't tracked with Git".
 
+# See also
+
+* [Software]() for more about the software I use
+
 [hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276
 [long]: http://vim.wikia.com/wiki/Working_with_long_lines?useskin=monobook

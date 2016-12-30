@@ -29,3 +29,6 @@ set message_cachedir="~/.mutt/cache/bodies"
 set certificate_file="~/.mutt/certificates"
 ~~~~
 
+# See also
+
+* [Software]() for more about the software I use

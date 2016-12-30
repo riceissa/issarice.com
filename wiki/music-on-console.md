@@ -20,4 +20,4 @@ GitHub](https://github.com/riceissa/dotfiles/tree/master/.moc).
 
 # See also
 
-* [Software]()
+* [Software]() for more about the software I use

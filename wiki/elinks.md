@@ -15,4 +15,8 @@ links2, w3m, etc.
 
 TODO: talk about Vim keybindings.
 
+# See also
+
+* [Software]() for more about the software I use
+
 [email]: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=337159#10

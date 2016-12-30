@@ -22,5 +22,9 @@ as a cron job.
 The script just opens and quits Vim and Mutt in a tmux session; the cron job
 runs every minute to keep Vim and Mutt in memory.
 
+# See also
+
+* [Software]() for more about the software I use
+
 [conf]: https://github.com/riceissa/dotfiles/blob/master/.tmux.conf
 [keep]: https://github.com/riceissa/dotfiles/blob/master/.local/bin/keep_vim_mutt.sh
