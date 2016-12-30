@@ -16,7 +16,7 @@ makes it easy to go directly from Vim to the listing on GitHub).
 For my Git configuration, see my [`.gitconfig`][gitconfig] and
 [`.gitignore_global`][ignore].
 
-Some useful commands:
+# Some useful commands
 
 - View all unadded files, including ones in <code>.gitignore</code>.
 
