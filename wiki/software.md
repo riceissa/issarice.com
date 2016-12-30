@@ -47,6 +47,7 @@ This page is a placeholder for now.
 - `youtube-dl`
 - GNU userland, mainly because that's what comes with Debian and Ubuntu and
   what I'm most used to.
+  I also install moreutils for `sponge`.
 
 Programs in trial mode:
 
