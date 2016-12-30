@@ -1,6 +1,13 @@
 ---
 title: Git
+author: Issa Rice
+date: 2016-12-29
 ---
+
+I use Git to version-control my writings and software.
+
+I tend to use Git both on the command-line as well as in Vim using
+[fugitive.vim](https://github.com/tpope/vim-fugitive).
 
 Some useful commands:
 
