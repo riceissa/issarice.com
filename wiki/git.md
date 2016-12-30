@@ -10,7 +10,8 @@ I use Git to version-control my writings and software.
 I tend to use Git both on the command-line as well as in Vim using
 [fugitive.vim](https://github.com/tpope/vim-fugitive) and
 [gv.vim](https://github.com/junegunn/gv.vim).
-I also tend to look through commits and other information on GitHub.
+I also tend to look through commits and other information on GitHub (`:Gbrowse`
+makes it easy to go directly from Vim to the listing on GitHub).
 
 For my Git configuration, see my [`.gitconfig`][gitconfig] and
 [`.gitignore_global`][ignore].
