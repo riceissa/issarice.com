@@ -22,12 +22,14 @@ deploy:
 	$(MAKE) fullsite
 	$(MAKE) sync
 	git push origin master
+	git push bitbucket master
 
 .PHONY: fast_deploy
 fast_deploy:
 	$(MAKE) pages
 	$(MAKE) sync
 	git push origin master
+	git push bitbucket master
 
 .PHONY: deploy_archive
 deploy_archive:
