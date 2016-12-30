@@ -65,6 +65,7 @@ I occasionally use Reddit to look for information, but don’t really post.
 
 # See also
 
+- [Contact]()
 - [How I communicate](how-i-communicate)
 
 [email]: mailto:riceissa@gmail.com
