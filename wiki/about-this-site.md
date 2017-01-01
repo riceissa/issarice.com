@@ -114,6 +114,7 @@ I don't even remember making it).
   [riceissa.github.io-legacy](https://github.com/riceissa/riceissa.github.io-legacy)
 * 2012-11-22: The Git repository for
   [riceissa.bitbucket.org](http://riceissa.bitbucket.org/) begins
+* 2013-03-14: Last commit to the Bitbucket site repository
 * 2014-04-12:
   [riceissa.github.io](https://github.com/riceissa/riceissa.github.io)
 
