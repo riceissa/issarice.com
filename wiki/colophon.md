@@ -15,7 +15,7 @@ Other aspects of the style sheet are inspired by [gitit](http://gitit.johnmacfar
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can [visit the repository](https://github.com/riceissa/riceissa.com) on GitHub.
-I also have a [mirror on BitBucket](https://bitbucket.org/riceissa/issarice.com/) (which is often behind, and should not be relied on).
+I also have a [mirror on BitBucket](https://bitbucket.org/riceissa/issarice.com/).
 
 The actual site is served via [Linode](https://www.linode.com/), using Nginx on a 64-bit Debian 8 (Jessie) machine.
 I currently use the [Linode 2GB \$10 per month plan](https://www.linode.com/pricing).
