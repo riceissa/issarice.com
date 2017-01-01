@@ -79,6 +79,8 @@ This answer has moved to [URL parsing]().
 
 # What is epistemic soundness?
 
+[Mirror](https://www.quora.com/What-is-epistemic-soundness/answer/Issa-Rice)
+
 In LessWrong/rationality parlance, “epistemic soundness” means the same
 thing as “epistemic rationality”. To quote the LW Wiki:
 
@@ -116,17 +118,23 @@ assessment](https://en.wikipedia.org/wiki/Calibrated_probability_assessment)).
 
 # Does Alex K. Chen come off as socially awkward when he asks people too many questions IRL?
 
+[Mirror](https://www.quora.com/Does-Alex-K-Chen-come-off-as-socially-awkward-when-he-asks-people-too-many-questions-IRL/answer/Issa-Rice)
+
 Yes (though I’ve only met Alex a few times in person).
 
 This isn’t to say it’s a bad thing (in fact, I very much enjoy watching Alex ask people questions).
 
 # If I incorrectly included my failure-to-file penalty on line 79 of Form 1040, how should I amend this?
 
+[Mirror](https://www.quora.com/If-I-incorrectly-included-my-failure-to-file-penalty-on-line-79-of-Form-1040-how-should-I-amend-this/answer/Issa-Rice)
+
 You should fill in Form 843, as described here: [How should Form 1040 be
 amended if error was introduced on lines 78 and
 79?](http://money.stackexchange.com/a/66829/44690)
 
 # What are all of the websites Vipul Naik has created or contributed significantly to?
+
+[Mirror](https://www.quora.com/What-are-all-of-the-websites-Vipul-Naik-has-created-or-contributed-significantly-to/answer/Issa-Rice)
 
 Here are the ones I know about:
 
@@ -165,9 +173,13 @@ Here are the ones I know about:
 
 # I'm now 18 and heading into my senior year of high school next year and still a virgin. Should I be worried?
 
+[Mirror](https://www.quora.com/Im-now-18-and-heading-into-my-senior-year-of-high-school-next-year-and-still-a-virgin-Should-I-be-worried/answer/Issa-Rice)
+
 No.
 
 # What are Issa Rice's favorite tvtropes articles?
+
+[Mirror](https://www.quora.com/What-are-Issa-Rices-favorite-tvtropes-articles/answer/Issa-Rice)
 
 I haven’t explored TV Tropes that much so it’s hard to say. Here are
 some articles I’ve referred to that I liked:
@@ -190,6 +202,8 @@ article for it.
 
 # Is IRS Form 1040 a one-pass form?
 
+[Mirror](https://www.quora.com/Is-IRS-Form-1040-a-one-pass-form/answer/Issa-Rice)
+
 As of the 2015 tax year, no, Form 1040 is not a one-pass form. Indeed,
 the instructions for line 78 contain the following:
 
@@ -210,10 +224,14 @@ and then at least one of nonlinear flow or multiple-pass).
 
 # What are some good essays about computer science and programming?
 
+[Mirror](https://www.quora.com/What-are-some-good-essays-about-computer-science-and-programming/answer/Issa-Rice)
+
 [https://dl.dropboxusercontent.co...](https://dl.dropboxusercontent.com/u/85192141/1996-hoare.pdf)
 ("How Did Software Get So Reliable Without Proof?")
 
 # What are the best books to learn Vim in a month?
+
+[Mirror](https://www.quora.com/What-are-the-best-books-to-learn-Vim-in-a-month/answer/Issa-Rice)
 
 My recommendation would be to start with vimtutor, then do a combination
 of the following as you see fit (which might take more than a month):
@@ -243,6 +261,8 @@ of the following as you see fit (which might take more than a month):
 
 # What would Issa Rice do if he were a millionaire?
 
+[Mirror](https://www.quora.com/What-would-Issa-Rice-do-if-he-were-a-millionaire/answer/Issa-Rice)
+
 This would largely depend on where on the millionaire spectrum I was. A
 single million dollars isn't very much money, and wouldn't influence my
 actions very much (for instance, I would still complete my undergraduate
@@ -269,6 +289,8 @@ philanthropy](http://www.effective-altruism.com/ea/5g/a_longrun_perspective_on_s
 
 # How does gwern manage his backups?
 
+[Mirror](https://www.quora.com/How-does-gwern-manage-his-backups/answer/Issa-Rice)
+
 He explains this in a footnote ([Page on
 gwern.net](http://www.gwern.net/Archiving%20URLs#fn1)):
 
@@ -289,6 +311,8 @@ gwern.net](http://www.gwern.net/Archiving%20URLs#fn1)):
 > mind to have optical backups.)
 
 # What makes so many aspies attracted to effective altruism?
+
+[Mirror](https://www.quora.com/What-makes-so-many-aspies-attracted-to-effective-altruism/answer/Issa-Rice)
 
 I'm not sure it's the case that there are a lot of people with Asperger
 syndrome in effective altruism (EA); this would be the case in any
@@ -334,6 +358,8 @@ subjects, and so on).
 
 # What do people think of the ticket price of EA Global?
 
+[Mirror](https://www.quora.com/What-do-people-think-of-the-ticket-price-of-EA-Global/answer/Issa-Rice)
+
 The price of the ticket seems reasonable. Some high school clubs force
 students to pay about the same price for conferences for what I think is
 much less valuable (in terms of the long-term impact on one's life and
@@ -358,6 +384,8 @@ because travelling is stressful for me.)
 
 # What scraping software does gwern use to web-scrape forums?
 
+[Mirror](https://www.quora.com/What-scraping-software-does-gwern-use-to-web-scrape-forums/answer/Issa-Rice)
+
 I think he just uses wget; see e.g. [Evolution forums mirror/scrapes torrent
 released •
 /r/DarkNetMarkets](https://www.reddit.com/r/DarkNetMarkets/comments/2zps7q/evolution_forums_mirrorscrapes_torrent_released/).
@@ -369,6 +397,8 @@ HTTrack, but I found it was doing too much magic under the
 ho...](https://news.ycombinator.com/item?id=9899286).
 
 # Why do some people use Hakyll to generate webpages?
+
+[Mirror](https://www.quora.com/Why-do-some-people-use-Hakyll-to-generate-webpages/answer/Issa-Rice)
 
 I suspect this is because Hakyll is the flagship static site generator
 that uses Haskell. On the one hand, there are many reasons people prefer
@@ -393,6 +423,8 @@ Hakyll](http://dannysu.com/2012/07/26/hakyll-blog/), and
 so on.
 
 # If gwern.net could be turned into a book, how many pages would it contain altogether?
+
+[Mirror](https://www.quora.com/If-gwern-net-could-be-turned-into-a-book-how-many-pages-would-it-contain-altogether/answer/Issa-Rice)
 
 Using his [source repo](https://github.com/gwern/gwern.net) as of today, I'm
 getting:
@@ -420,6 +452,8 @@ There are a few things to keep in mind, however:
     the result (since 4000 pages seems like *a lot*).
 
 # What has a higher chance of lasting into the 2030s-2040s: LessWrong or gwern.net?
+
+[Mirror](https://www.quora.com/What-has-a-higher-chance-of-lasting-into-the-2030s-2040s-LessWrong-or-gwern-net/answer/Issa-Rice)
 
 In terms of the existence of the website (domain name and all), I would
 agree with [Vipul](https://www.quora.com/profile/Vipul-Naik) that
@@ -469,6 +503,8 @@ interacting with other readers is a fundamental aspect of the site.
 
 # What is Gwern's personality type (MBTI, Big 5, etc.)?
 
+[Mirror](https://www.quora.com/What-is-Gwerns-personality-type-MBTI-Big-5-etc/answer/Issa-Rice)
+
 MBTI:
 
 
@@ -506,6 +542,8 @@ Big 5:
 gwern.net](http://www.gwern.net/Links#personality))
 
 # What is your review of Inglemoor High School?
+
+[Mirror](https://www.quora.com/What-is-your-review-of-Inglemoor-High-School/answer/Issa-Rice)
 
 ★
 
@@ -576,6 +614,8 @@ opportunities for growth.
 
 # How does Gwern from http://gwern.net manage his website?
 
+[Mirror](https://www.quora.com/How-does-Gwern-from-http-gwern-net-manage-his-website/answer/Issa-Rice)
+
 This is explained at length on his site's [About
 page](http://www.gwern.net/About). The most relevant bits are in his
 [Colophon](http://www.gwern.net/About#colophon).  Essentially, he writes
@@ -583,6 +623,8 @@ everything in Pandoc markdown and compiles the site using Hakyll, a static site
 generator.
 
 # What is your review of Northshore Junior High School?
+
+[Mirror](https://www.quora.com/What-is-your-review-of-Northshore-Junior-High-School/answer/Issa-Rice)
 
 ★
 
@@ -649,10 +691,14 @@ prep time during this hour, but I just didn't go.
 
 # How many Taylor Swift songs are about breakups?
 
+[Mirror](https://www.quora.com/How-many-Taylor-Swift-songs-are-about-breakups/answer/Issa-Rice)
+
 See also [\[SELF\] How many of Taylor Swift's songs are about heartbreak.. •
 /r/theydidthemath](https://www.reddit.com/r/theydidthemath/comments/2gdvle/self_how_many_of_taylor_swifts_songs_are_about/)
 
 # Where can I find archives of the LessWrong IRC?
+
+[Mirror](https://www.quora.com/Where-can-I-find-archives-of-the-LessWrong-IRC/answer/Issa-Rice)
 
 The LessWrong IRC has no public logs. Therefore you'll have to find someone who
 is willing to give you logs. I know that gwern, for one, has been keeping
@@ -660,6 +706,8 @@ extensive logs, but I doubt he's willing to give them out (seeing that he's a
 moderator of the channel).
 
 # What do University of Washington students think of By George?
+
+[Mirror](https://www.quora.com/What-do-University-of-Washington-students-think-of-By-George/answer/Issa-Rice)
 
 I really like studying here at night since it's open very late (you can
 get food until 1am on most nights, but the periphery is open 24/7) and
@@ -672,6 +720,8 @@ come here around 10pm and then move to Odegaard when it gets less
 crowded.
 
 # What is the "anonymity problem" in online dating?
+
+[Mirror](https://www.quora.com/What-is-the-anonymity-problem-in-online-dating/answer/Issa-Rice)
 
 I originally asked this question because [Vipul
 Naik](https://www.quora.com/profile/Vipul-Naik) used the phrase in a
@@ -719,6 +769,8 @@ can be short-sighted.
 
 # Can Google Photos automatically detect (and delete) photos I upload that might have nudity in them?
 
+[Mirror](https://www.quora.com/Can-Google-Photos-automatically-detect-and-delete-photos-I-upload-that-might-have-nudity-in-them/answer/Issa-Rice)
+
 Maybe in the future, but I don't think that's the case at the moment.
 From their content policy page:
 
@@ -754,11 +806,15 @@ mine):
 
 # What do University of Washington students think of the "Impeach Obama" people near the quad, red square, etc.?
 
+[Mirror](https://www.quora.com/What-do-University-of-Washington-students-think-of-the-Impeach-Obama-people-near-the-quad-red-square-etc/answer/Issa-Rice)
+
 I don't think of them, and try to avoid them. Once I was wearing a sunhat and
 sunglasses (to protect myself from the sun), when one of them spoke at me,
 "Hey, you from the FBI or what?" or something similar.
 
 # What would Andrew J. Ho do if he were a millionaire?
+
+[Mirror](https://www.quora.com/What-would-Andrew-J-Ho-do-if-he-were-a-millionaire/answer/Issa-Rice)
 
 Hard to say, but he has made references to ruling over certain populations (not
 sure if this is possible for a mere millionaire), funding certain types of
@@ -769,9 +825,13 @@ greater extent than has been possible for him so far.
 
 # I've completed my freshman year of university with a 4.0 GPA, yet I feel something is missing. How do I make college the most fulfilling, enlightening experience possible?
 
+[Mirror](https://www.quora.com/Ive-completed-my-freshman-year-of-university-with-a-4-0-GPA-yet-I-feel-something-is-missing-How-do-I-make-college-the-most-fulfilling-enlightening-experience-possible/answer/Issa-Rice)
+
 *This answer is quoted in full at [Some thoughts on college education]().*
 
 # Is it secure for me to log into my Internet accounts on the KCLS library computers?
+
+[Mirror](https://www.quora.com/Is-it-secure-for-me-to-log-into-my-Internet-accounts-on-the-KCLS-library-computers/answer/Issa-Rice)
 
 Possibly (but why risk it?). In general it's bad practice to log into
 internet accounts from a device you do not own (since you never know
@@ -794,6 +854,8 @@ use the Wi-Fi network from your own device instead of touching any of
 the public machines (and if you have a VPN, then that's even better).
 
 # What is a list of questions that could be asked about any Nobel laureate on Quora?
+
+[Mirror](https://www.quora.com/What-is-a-list-of-questions-that-could-be-asked-about-any-Nobel-laureate-on-Quora/answer/Issa-Rice)
 
 Here are some:
 
@@ -832,6 +894,8 @@ Here are some:
 -   What would people think of X if X had the opposite gender?
 
 # Why hasn't Issa Rice posted to Quora of late?
+
+[Mirror](https://www.quora.com/Why-hasnt-Issa-Rice-posted-to-Quora-of-late/answer/Issa-Rice)
 
 I was edit-banned for a month for asking "[What is it like to rape each
 member of your
