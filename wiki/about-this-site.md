@@ -122,6 +122,7 @@ I don't even remember making it).
 * 2014-12-28: A [commit from this day](https://github.com/riceissa/issarice.com/commit/35737f02780fe16252cfa8d0dab6c25e306be539)
   changes the domain information on this page from riceissa.com to
   issarice.com.
+* 2016-03-25: The site begins using just a Makefile and Pandoc.
 
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
