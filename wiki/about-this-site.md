@@ -113,7 +113,7 @@ I don't even remember making it).
 * 2012-02-20: riceissa.github.com, which redirects to
   [riceissa.github.io-legacy](https://github.com/riceissa/riceissa.github.io-legacy)
 * 2012-11-22: The Git repository for
-  [riceissa.bitbucket.org](riceissa.bitbucket.org) begins
+  [riceissa.bitbucket.org](http://riceissa.bitbucket.org/) begins
 * 2014-04-12:
   [riceissa.github.io](https://github.com/riceissa/riceissa.github.io)
 
