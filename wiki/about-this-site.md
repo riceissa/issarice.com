@@ -119,6 +119,8 @@ I don't even remember making it).
   [riceissa.github.io](https://github.com/riceissa/riceissa.github.io)
 * 2014-09-14: First commit to this site's current Git repository.
   The site uses the static site generator Hakyll starting from this point.
+* 2014-12-16: This site switches to using my own static site generator, written
+  in Python.
 * 2014-12-28: A [commit from this day](https://github.com/riceissa/issarice.com/commit/35737f02780fe16252cfa8d0dab6c25e306be539)
   changes the domain information on this page from riceissa.com to
   issarice.com.
