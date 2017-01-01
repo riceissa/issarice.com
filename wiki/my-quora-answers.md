@@ -10,6 +10,73 @@ My main contributions to [Quora]() are through my questions, but I don't think m
 
 Reverse chronological order
 
+# Will all Dropbox URLs become link rot? (December 2016)
+
+[Mirror](https://www.quora.com/Will-all-Dropbox-URLs-become-link-rot-December-2016/answer/Issa-Rice)
+
+“All” is too strong of a quantifier, but something close to it can happen.
+
+As far as I can tell, a Dropbox link can stop working for any of the following reasons:
+
+-   Dropbox goes out of business (remember [Ubuntu One](http://archiveteam.org/index.php?title=Ubuntu_One)?).
+-   The sharing link uses [db.tt](http://db.tt/) (Dropbox’s own URL shortener) and Dropbox somehow drops support for it.
+-   The file associated with the link is copyrighted, the person who shared the file isn’t legally allowed to distribute it, and Dropbox decides to delete the file or prevent sharing ([Can I share files with non-Dropbox users?](https://www.dropbox.com/en/help/20)).
+-   The person who shared the file deleted the file or folder containing the file ([Why did my shared link stop working?](https://www.dropbox.com/en/help/45)).
+-   The person who shared the file set an expiration date for the shared link ([How can I set an expiration for a shared link?](https://www.dropbox.com/help/5888)).
+-   Dropbox bans the link for generating too much traffic ([Banned links or file requests](https://www.dropbox.com/help/4204)), though this is temporary.
+-   The account of the person who shared the file becomes inactive. Dropbox considers an account inactive after 12 months of no sign-ins, and deletes files 90 days after that ([I received an email about an inactive Dropbox account—what do I need to do?](https://www.dropbox.com/en/help/9080)).
+-   A subset of the cases in the above bullet point is if the user dies and nobody claims the account afterwards ([Can I access the Dropbox account of someone who has passed away?](https://www.dropbox.com/en/help/488)).
+
+In other words, unless a user takes special steps to keep the shared file available, to ensure the account is preserved after death, and so forth, the link will eventually stop working.
+
+I’m not aware of any studies of link rot that are specific to Dropbox.
+
+# Why isn't effective altruism called effective utilitarianism?
+
+[Mirror](https://www.quora.com/Why-isnt-effective-altruism-called-effective-utilitarianism/answer/Issa-Rice)
+
+[Linchuan](https://www.quora.com/profile/Linchuan-Zhang) is quite right about point 1. The 2014 EA survey [https://eahub.org/sites/effectiv...](https://eahub.org/sites/effectivealtruismhub.com/files/survey/2014/results-and-analysis.pdf) shows that about 70% of respondents hold consequentialist moral philosophies. The 2015 EA survey [https://eahub.org/sites/eahub.or...](https://eahub.org/sites/eahub.org/files/SurveyReport2015.pdf) breaks down consequentialism into utilitarian and non-utilitarian types, and finds that 56% of respondents are utilitarian. It would therefore be strange to call the movement “effective utilitarianism”.
+
+# Is there anyone else "like Gwern"?
+
+[Mirror](https://www.quora.com/Is-there-anyone-else-like-Gwern/answer/Issa-Rice)
+
+A2A.
+
+It depends on what qualities you are interested in, but some people who are similar in various ways are:
+
+-   muflax
+-   Carl Shulman (see my comment on this question)
+-   Scott Alexander (also listed in the answer by Anonymous)
+
+# What should someone do if their dog develops romantic feelings towards them?
+
+[Mirror](https://www.quora.com/What-should-someone-do-if-their-dog-develops-romantic-feelings-towards-them/answer/Issa-Rice)
+
+Nothing.
+
+# What is your review of University of Washington?
+
+[Mirror](https://www.quora.com/What-is-your-review-of-University-of-Washington/answer/Issa-Rice)
+
+★
+
+My experience at UW has been worse than my experience at my high school, which you can read here: [Issa Rice's answer to What is your review of Inglemoor High School?](https://www.quora.com/What-is-your-review-of-Inglemoor-High-School/answer/Issa-Rice)
+
+About 99.99% of the positive value I derived from UW came from befriending Ethan Bashkansky. And yes, I really do mean it in the sense that if you divide all of the positive value I derived from UW into 10,000 equal parts, then all but one is due to Ethan.
+
+# How common is it for people to check Alex K. Chen's questions page after they talk to him (to see if he asked q’s in response to their interaction)?
+
+[Mirror](https://www.quora.com/How-common-is-it-for-people-to-check-Alex-K-Chens-questions-page-after-they-talk-to-him-to-see-if-he-asked-q%E2%80%99s-in-response-to-their-interaction/answer/Issa-Rice)
+
+I have done this a few times (say, between 2 and 10 times). Given that I’ve known Alex for over two years (and have interacted with him frequently over those years), this isn’t a very common occurrence.
+
+# Are there URLs one cannot send over Facebook messenger due to its broken URL parsing?
+
+[Mirror](https://www.quora.com/Are-there-URLs-one-cannot-send-over-Facebook-messenger-due-to-its-broken-URL-parsing/answer/Issa-Rice)
+
+This answer has moved to [URL parsing]().
+
 # What is epistemic soundness?
 
 In LessWrong/rationality parlance, “epistemic soundness” means the same
