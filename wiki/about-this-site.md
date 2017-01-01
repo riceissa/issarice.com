@@ -117,6 +117,9 @@ I don't even remember making it).
 * 2014-03-14: Last commit to the Bitbucket site repository
 * 2014-04-12:
   [riceissa.github.io](https://github.com/riceissa/riceissa.github.io)
+* 2014-12-28: A [commit from this day](https://github.com/riceissa/issarice.com/commit/35737f02780fe16252cfa8d0dab6c25e306be539)
+  changes the domain information on this page from riceissa.com to
+  issarice.com.
 
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
