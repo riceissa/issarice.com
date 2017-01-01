@@ -1,5 +1,7 @@
 ---
 title: "Sunhat"
+author: Issa Rice
+created: 2015-11-12
 date: 2015-11-12
 ---
 
