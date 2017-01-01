@@ -1,7 +1,7 @@
 ---
 title: My Quora answers
 author: Issa Rice
-date: 2016-07-12
+date: 2017-01-01
 ---
 
 # Introduction
