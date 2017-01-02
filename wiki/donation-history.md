@@ -13,7 +13,8 @@ I did not donate in 2015 because I am still [building a financial buffer](https:
 
 # 2016
 
-I earned around [$9700][cw] working under Vipul Naik.
+I earned around [$9700][cw] (not counting deferred payments) working under
+Vipul Naik.
 I did not donate in 2016 because I am still building a financial buffer.
 
 [cw]: https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice "“Contract work by Issa Rice for Vipul Naik”."
