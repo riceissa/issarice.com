@@ -139,6 +139,11 @@ clear on the different use cases of DDT:
 > to the concerns, are vastly different from the impacts of DDT used in health
 > control.
 
+More on the DDT debate:
+
+* [Web exclusive: 'DDT works' by Roger Bate – Prospect Magazine May 2008 issue 146](https://web.archive.org/web/20080703063135/http://www.prospect-magazine.co.uk/article_details.php?id=10176)
+* ["Rehabilitating Carson"](http://www.prospectmagazine.co.uk/magazine/rehabilitatingcarson)
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
