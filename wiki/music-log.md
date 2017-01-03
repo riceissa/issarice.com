@@ -158,6 +158,10 @@ Taylor Swift
     lot like a traditional Japanese song or something by the Blue Hearts that I
     can't remember; I like the YO-KING version)
 
+# January 2017
+
+* *Good Dreams*
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
