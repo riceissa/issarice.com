@@ -26,3 +26,7 @@ directly.
 The way to find out whether Alice believes the statement is to instead ask
 "If I toss this coin 1,000,000 times, it will come up heads roughly half the
 times" or something similar.
+
+One strategy is to "go meta" by asking for Alice's prediction for "Alice will
+believe *X* one minute from now", but I think that's kind of "boring", in the
+sense that I think it goes against the spirit of my original query.
