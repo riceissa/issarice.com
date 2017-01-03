@@ -30,3 +30,5 @@ times" or something similar.
 One strategy is to "go meta" by asking for Alice's prediction for "Alice will
 believe *X* one minute from now", but I think that's kind of "boring", in the
 sense that I think it goes against the spirit of my original query.
+We might stipulate that we are not allowed to ask Alice to predict her own
+future belief states.
