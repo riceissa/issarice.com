@@ -20,9 +20,18 @@ claims one must take to believe these positions.
 4. Wide resistance to DDT by mosquitoes is caused mainly by its agricultural
    use, rather than its mosquito insecticide use.
 5. DDT use against mosquitoes has significantly waned.
+6. The cost of manufacture of DDT has increased.
+7. In Africa, "no comprehensive effort has ever been made to control or
+   eradicate malaria" (quote from Palmer).
 
 # Main positions
 
 # See also
 
 * [Malaria notes]()
+
+# References
+
+* ["The ban of DDT did not cause millions to die from
+  malaria"](http://www.science.uwaterloo.ca/~mpalmer/stuff/DDT-myth.pdf) by
+  Michael Palmer
