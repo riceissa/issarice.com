@@ -116,7 +116,7 @@ Languages like Go have strong source formatting requirements and provide tools l
 * [[Move through wrapped lines]]
 * [[Move cursor by display lines when wrapping]]
 
-==References==
+==External links==
 
 * [https://github.com/neovim/neovim/issues/4232 How can Neovim implement scrolling based on screen-lines in long strings of wrapped text?] – an issue filed in the Neovim development issues tracker; this might be the only real shot at getting better long lines support in Vim/Neovim.
 * [http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf "Structural Regular Expressions"], an essay by Rob Pike on breaking out of the idea of line-based regular expressions.
