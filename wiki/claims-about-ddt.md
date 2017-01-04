@@ -8,8 +8,8 @@ date: 2017-01-03
 # Introduction
 
 Here I try to isolate and itemize claims that come up in the "DDT debate".
-I then list the main positions I see on the topic, and which of these claims
-one must take to believe these positions.
+I then list the main overall positions I see on the topic, and which of these
+claims one must take to believe these positions.
 
 # Claims
 
