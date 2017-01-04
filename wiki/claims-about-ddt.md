@@ -14,7 +14,8 @@ claims one must take to believe these positions.
 # Claims
 
 1. DDT has been banned for pesticide use in many (malaria-endemic) countries.
-2. DDT has been banned for insecticide use in many (malaria-endemic) countries.
+2. DDT has been banned for use in malaria control in many (malaria-endemic)
+   countries.
 3. Wide resistance to DDT by mosquitoes exists.
 4. Wide resistance to DDT by mosquitoes is caused mainly by its agricultural
    use, rather than its mosquito insecticide use.
