@@ -44,3 +44,8 @@ I'm highly uncertain about what the best causes are, which is part of the reason
 
 - I have a collection of [Effective altruism links]() that might interest people.
 - [Effective altruism and Asperger syndrome]()
+
+# External links
+
+* [Google Custom Search with an effective altruism label that I
+  maintain](https://cse.google.com/cse/publicurl?cx=003462416774124900295:tgoyrxzwiha)

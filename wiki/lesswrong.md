@@ -52,3 +52,8 @@ Indeed, it is possible to use LessWrong simply as a place to find other resource
 - "[The Best Textbooks on Every Subject](http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/)" was the post that first got me excited about LessWrong.
 
 - "[References \& Resources for LessWrong](http://lesswrong.com/lw/2un/references_resources_for_lesswrong/)" is excellent.
+
+# External links
+
+* [Google Custom Search with a rationality label that I
+  maintain](https://cse.google.com/cse/publicurl?cx=003462416774124900295:tgoyrxzwiha)
