@@ -30,4 +30,5 @@ http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/.rss
 http://briantomasik.com/feed/
 http://reducing-suffering.org/feed/
 http://foundational-research.org/feed/
+https://medium.com/feed/@nayafia
 http://mojix.org/rss20.xml
