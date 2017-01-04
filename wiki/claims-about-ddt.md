@@ -21,3 +21,7 @@ claims one must take to believe these positions.
 5. DDT use against mosquitoes has significantly waned.
 
 # Main positions
+
+# See also
+
+* [Malaria notes]()
