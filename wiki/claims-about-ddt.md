@@ -26,6 +26,17 @@ claims one must take to believe these positions.
 
 # Main positions
 
+Bate claims (5):
+
+> As these publications pointed out, although DDT was granted an exemption for
+> public health in the Stockholm treaty and the World Health Organisation (WHO)
+> approved its use for malaria control, no aid agency was purchasing it and
+> some, such as the World Bank and the US government, were actively
+> discouraging its use.
+
+As far as I can tell, Palmer accepts (1), rejects (2), accepts (3), doesn't
+care about (4), accepts (5), accepts (6), and accepts (7).
+
 # See also
 
 * [Malaria notes]()
