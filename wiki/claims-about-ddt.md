@@ -17,7 +17,7 @@ claims one must take to believe these positions.
 2. DDT has been banned for use in malaria control in many (malaria-endemic)
    countries.
 3. Wide resistance to DDT by mosquitoes exists.
-4. Wide resistance to DDT by mosquitoes is caused mainly by its agricultural
+4. Conditional on (3), the resistance is caused mainly by DDT's agricultural
    use, rather than its mosquito insecticide use.
 5. DDT use against mosquitoes has significantly waned.
 6. The cost of manufacture of DDT has increased.
@@ -35,3 +35,5 @@ claims one must take to believe these positions.
 * ["The ban of DDT did not cause millions to die from
   malaria"](http://www.science.uwaterloo.ca/~mpalmer/stuff/DDT-myth.pdf) by
   Michael Palmer
+* ["Rehabilitating Carson"](http://www.prospectmagazine.co.uk/magazine/rehabilitatingcarson)
+  by Quiggin and Lambert
