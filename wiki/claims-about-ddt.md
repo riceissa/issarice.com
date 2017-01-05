@@ -40,7 +40,7 @@ care about (4), accepts (5), accepts (6), and accepts (7).
 To claim that the lack of use of DDT has "killed millions", I think one must
 accept (5) to start, but also reject (3) and (7), and maybe also reject (6)
 because one must believe the cost of DDT is still small enough.
-Rejecting (3) and (6) roughly correspond to the idea that "DDT is still an
+Rejecting (3) and (6) roughly corresponds to the idea that "DDT is still an
 effective way to combat malaria".
 
 TODO: check for conjunction fallacy fallacy (unpacking fallacy) later.
