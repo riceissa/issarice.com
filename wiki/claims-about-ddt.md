@@ -37,6 +37,10 @@ Bate claims (5):
 As far as I can tell, Palmer accepts (1), rejects (2), accepts (3), doesn't
 care about (4), accepts (5), accepts (6), and accepts (7).
 
+To claim that the lack of use of DDT has "killed millions", I think one must
+accept (5) to start, but also reject (3) and (7), and maybe also reject (6)
+because one must believe the cost of DDT is still small enough.
+
 # See also
 
 * [Malaria notes]()
