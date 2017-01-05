@@ -37,3 +37,4 @@ claims one must take to believe these positions.
   Michael Palmer
 * ["Rehabilitating Carson"](http://www.prospectmagazine.co.uk/magazine/rehabilitatingcarson)
   by Quiggin and Lambert
+* ["DDT works"](https://web.archive.org/web/20080703063135/http://www.prospect-magazine.co.uk/article_details.php?id=10176) by Roger Bate
