@@ -34,6 +34,8 @@ Bate claims (5):
 > some, such as the World Bank and the US government, were actively
 > discouraging its use.
 
+In the same article Bate does not touch on (3).
+
 As far as I can tell, Palmer accepts (1), rejects (2), accepts (3), doesn't
 care about (4), accepts (5), accepts (6), and accepts (7).
 
