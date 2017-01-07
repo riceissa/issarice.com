@@ -141,6 +141,10 @@ clear on the different use cases of DDT:
 
 More on the DDT debate at [claims about DDT]().
 
+Goldsmith (*Battling Malaria on the Front Lines*) mentions climate change and
+land use as two reasons for reemergence of malaria (and not just any two
+reasons -- she mentions these two *first* as she explains the reemergence).
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
@@ -209,3 +213,6 @@ Examples:
 * What does the pie chart of spending within malaria look like?
 * What does the pie chart of spending on malaria, seen in terms of all of
   global health, look like?
+* Total malaria budget?
+* Total spending on bednets? Total number of bednets?
+*
