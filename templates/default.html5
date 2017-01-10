@@ -110,7 +110,19 @@ $body$
 $if(license)$
 $license$
 $else$
-<p><a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="./cc_public_domain.png" style="border-style: none;" alt="CC0" /></a><br />The content on this page is licensed under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal Public Domain Dedication</a>.</p>
+<p>
+  <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="./cc_public_domain.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law, Issa Rice has waived all copyright and
+  related or neighboring rights to the content on this page. This work is
+  published from: United States.
+  See the
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0
+    1.0 Universal Public Domain Dedication</a>
+  for more information.
+</p>
 $endif$
 </div>
 </body>
