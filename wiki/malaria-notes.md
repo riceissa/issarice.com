@@ -145,6 +145,16 @@ Goldsmith (*Battling Malaria on the Front Lines*) mentions climate change and
 land use as two reasons for reemergence of malaria (and not just any two
 reasons -- she mentions these two *first* as she explains the reemergence).
 
+Hay and Snow [writing](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030473 "“The Malaria Atlas Project: Developing Global Maps of Malaria Risk”.") in 2006:
+
+> The distribution of populations exposed to the risk of P. falciparum and P.
+> vivax malaria is poorly understood at the global level. Considerable effort
+> as part of MAP is required to improve our basic maps of malaria transmission
+> intensity and help identify the global distribution of populations at risk of
+> malaria. This will involve assembling the largest-ever collection of PR data
+> and a significant parallel investment in establishing the required
+> environmental, population, and malaria vector data.
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
