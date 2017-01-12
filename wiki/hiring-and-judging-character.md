@@ -41,6 +41,15 @@ status: notes
         Similarly, stalking someone's friends might be useful if you
         want to determine their character.
 
+        Similar is a [post by Eliezer Yudkowsky](https://www.facebook.com/yudkowsky/posts/10154648023319228):
+
+        > People can't distinguish better or worse within more than one
+        > standard deviation above their own level. I can't either: if there
+        > were two superintelligences or just \>Eliezers arguing with each
+        > other, to me they would both sound reasonable. (The "plus one
+        > standard deviation" part isn't a standard result, just me trying to
+        > eyeball the phenomenon.)
+
 - many more Quora questions about judging character (many by Alex):
 
     - [How to evaluate someone's ability to be an exceptional judge of character](https://www.quora.com/Judging-Character/How-do-you-evaluate-someones-ability-to-be-an-exceptional-judge-of-character)
