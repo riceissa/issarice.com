@@ -5,6 +5,14 @@ created: 2017-01-12
 date: 2017-01-12
 ---
 
+# Introduction
+
+This page presents a reverse-chronological archive of my posts to the [Malaria
+Research Discussion Group](https://www.facebook.com/groups/MalariaResearch/)
+that I created.
+
+# January 12, 2017
+
 As part of my exploration of malaria, I stumbled onto collection methods of
 mosquitoes. I find it interesting that there are numerous methods of mosquito
 collection. Human-landing catch (where human collectors expose their limbs to
