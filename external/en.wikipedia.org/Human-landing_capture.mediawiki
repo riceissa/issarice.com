@@ -1,0 +1,36 @@
+'''Human-landing catch''' ('''HLC'''), also called '''human-bait catch''',<ref name="1977_service" /> is a method of mosquito collection. It involves exposing the limbs of human collectors who catch mosquitoes as they land using a mouth or mechanical aspirator.<ref>{{cite web |url=https://archive.epa.gov/osa/hsrb/web/pdf/d1-mosquito-aspiration-training-materials.pdf |accessdate=January 12, 2017 |title=CLBR Training Manual §1.a. Observing mosquito landings and learning mechanical aspiration |date=September 2006 |publisher=Carroll-Loye Biological Research}}</ref> Human-landing catches are considered the [[Gold standard (test)|gold standard]] of mosquito collection because they simulate the natural situation of human–mosquito contact.<ref>{{cite journal |first=John C. |last=Beier |title=Vector Incrimination and Entomological Inoculation Rates |journal=Methods in Molecular Medicine |volume=72 |year=2002}} From ''Malaria Methods and Protocols''.</ref>{{rp|5}}
+
+==History==
+
+==Variations==
+
+* sitting vs slow moving
+* different kinds of aspirators
+* inside vs outside, altitude, and other particularities of the location
+
+==Limitations==
+
+* There may be so many mosquitoes that it is impossible to catch for more than a few minutes, resulting in brief collections.<ref name="1977_service">{{cite journal |first=M. W. |last=Service |year=1977 |title=A critical review of procedures for sampling populations of adult mosquitoes |volume=67 |journal=Bulletin of Entomological Research |pages=343–382}}</ref>{{rp|346}}
+
+==Ethical concerns==
+
+==Notes==
+
+{{quote|text=Human landing catch (HLC) is the most frequently used and considered as the reference method. It allows sampling mosquitoes that are aggressive against human, either endophagous or exophagous. It is the most reliable measure of human-vector contact for evaluating malaria transmission. On the other hand, it raises the ethical question of potential risk for collectors that are submitted to mosquito bite susceptible to transmit various pathogens. Results depend on collectors skills and on the attraction he/she exerts on mosquitoes.<ref>{{Cite journal| doi = 10.1186/1475-2875-10-270| issn = 1475-2875| volume = 10| pages = 270| last1 = Ndiath| first1 = Mamadou O| last2 = Mazenot| first2 = Catherine| last3 = Gaye| first3 = Ablaye| last4 = Konate| first4 = Lassana| last5 = Bouganali| first5 = Charles| last6 = Faye| first6 = Ousmane| last7 = Sokhna| first7 = Cheikh| last8 = Trape| first8 = Jean-Francois| title = Methods to collect Anopheles mosquitoes and evaluate malaria transmission: A comparative study in two villages in Senegal| journal = Malaria Journal| accessdate = 2017-01-13| date = 2011-09-19| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3189183/| pmid = 21929747| pmc = 3189183}}</ref>}}
+
+{{quote|text=The gold standard is to use human landing catches where mosquitoes are collected off the exposed limbs of human collectors. This is however an unsatisfactory method since it potentially exposes individuals to a range of mosquito-borne diseases.<ref>{{Cite journal| doi = 10.1371/journal.pone.0138735| issn = 1932-6203| volume = 10| issue = 9| pages = –0138735| last1 = Tangena| first1 = Julie-Anne A.| last2 = Thammavong| first2 = Phoutmany| last3 = Hiscox| first3 = Alexandra| last4 = Lindsay| first4 = Steve W.| last5 = Brey| first5 = Paul T.| title = The Human-Baited Double Net Trap: An Alternative to Human Landing Catches for Collecting Outdoor Biting Mosquitoes in Lao PDR| journal = PLOS ONE| accessdate = 2017-01-13| date = 2015-09-18| url = http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138735}}</ref>}}
+
+{{quote|text=Human landing catches (HLCs) are currently the preferred method to determine vector human biting rates (HBRs), which are key determinants of entomologic inoculation rates and important measures for assessing the impact of vector control efforts. Although HLCs are the most direct means of establishing HBRs, they are labor-intensive, and their use is facing increasing ethical concerns.
+
+[...]
+
+The gold standard method for determining the HBR is the human landing catch (HLC) because mosquitoes are captured by aspiration as they land and attempt to feed on collectors<ref>{{Cite journal| doi = 10.4269/ajtmh.2010.10-0088| issn = 0002-9637| volume = 83| issue = 4| pages = 838–842| last1 = Fornadel| first1 = Christen M.| last2 = Norris| first2 = Laura C.| last3 = Norris| first3 = Douglas E.| title = Centers for Disease Control Light Traps for Monitoring Anopheles arabiensis Human Biting Rates in an Area with Low Vector Density and High Insecticide-Treated Bed Net Use| journal = The American Journal of Tropical Medicine and Hygiene| accessdate = 2017-01-13| date = 2010-10-05| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2946753/| pmid = 20889876| pmc = 2946753}}</ref>}}
+
+==See also==
+
+* [[User:Riceissa/Comparison of measures of abundance of malaria]]
+* [[User:Riceissa/Comparison of methods of malaria control]]
+
+==References==
+
+{{Reflist|30em}}
