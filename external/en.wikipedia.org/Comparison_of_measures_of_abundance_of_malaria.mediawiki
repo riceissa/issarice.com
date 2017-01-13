@@ -1,0 +1,31 @@
+This page compares various measures of the abundance of malaria in a given location.
+
+==Comparison table==
+
+{| class="sortable wikitable"
+! Measures !! Variable !! Explanation !! Range !! Derivatives
+|-
+| Parasite rate<ref name="2006_hay_snow" /> || PR ||
+|-
+| Entomological infection rate || EIR || || In endemic areas of Africa, generally from 1 to over 1,000 infective bites per year<ref>{{cite journal |first=John C. |last=Beier |title=Vector Incrimination and Entomological Inoculation Rates |journal=Methods in Molecular Medicine |volume=72}} From ''Malaria Methods and Protocols''.</ref> || Annual ''Plasmodium falciparum'' EIR (APfEIR)<ref name="2006_hay_snow">{{cite web |url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030473 |first1=Simon I |last1=Hay |first2=Robert W |last2=Snow |title=The Malaria Atlas Project: Developing Global Maps of Malaria Risk |date=December 5, 2006 |accessdate=January 11, 2017}}</ref>
+|-
+| Basic reproductive number<ref name="2006_hay_snow" /> || ''R''<sub>0</sub> || "the expected number of hosts who would be infected after one generation of the parasite by a single infectious person who had been introduced into an otherwise naïve population"<ref name="2007_smith_mckenzie_snow_hay" /> || Less than 1 in eliminated regions to possibly 3,000 in highly endemic areas<ref name="2007_smith_mckenzie_snow_hay">{{cite journal |url=http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050042 |title=Revisiting the Basic Reproductive Number for Malaria and Its Implications for Malaria Control |date=February 20, 2007 |accessdate=January 11, 2017 |first1=David L |last1=Smith |first2=F. Ellis |last2=McKenzie |first3=Robert W |last3=Snow |first4=Simon I |last4=Hay}}</ref> ||
+|-
+| Vectorial capacity<ref name="2006_hay_snow" /> || ''C'' || ||
+|-
+| Sporozoite rate || ''Y''?<ref name="2007_smith_mckenzie_snow_hay" /> || The fraction of female mosquitoes with [[sporozoite]]s || 0–?? ||
+|-
+| Human biting rate<ref name="2010_fornadel">{{Cite journal| doi = 10.4269/ajtmh.2010.10-0088| issn = 0002-9637| volume = 83| issue = 4| pages = 838–842| last1 = Fornadel| first1 = Christen M.| last2 = Norris| first2 = Laura C.| last3 = Norris| first3 = Douglas E.| title = Centers for Disease Control Light Traps for Monitoring Anopheles arabiensis Human Biting Rates in an Area with Low Vector Density and High Insecticide-Treated Bed Net Use| journal = The American Journal of Tropical Medicine and Hygiene| accessdate = 2017-01-13| date = 2010-10-05| url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2946753/| pmid = 20889876| pmc = 2946753}}</ref> || || "the nightly biting pressure of the vector on a human population"<ref name="2010_fornadel" /> ||
+|}
+
+<ref name="2007_smith_mckenzie_snow_hay" /> also mentions things like "the age at first infection, the fraction of a population that is infected (i.e., the parasite rate [PR]), the frequency and type of disease syndromes, the incidence of severe disease, the development and loss of functional immunity (i.e., immunity that reduces the frequency and severity of clinical symptoms), total malaria mortality, and the expected outcome of malaria control"
+
+==See also==
+
+* [[User:Riceissa/Comparison of methods of malaria control]]
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
