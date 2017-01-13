@@ -7,7 +7,7 @@ date: 2017-01-12
 
 # Introduction
 
-This page presents a reverse-chronological archive of my posts to the [Malaria
+This page presents a reverse-chronological archive of my posts on the [Malaria
 Research Discussion Group](https://www.facebook.com/groups/MalariaResearch/)
 that I created.
 
