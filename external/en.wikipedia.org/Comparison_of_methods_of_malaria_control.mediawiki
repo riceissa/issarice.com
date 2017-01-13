@@ -1,0 +1,109 @@
+{{INDEX|visible = yes}} <!-- Remove once page is published in main space -->
+
+This page is a '''comparison of methods of malaria control''', covering methods of both prevention and treatment.
+
+==TODO==
+
+* get more vaccines from [[Malaria vaccine]]
+* https://en.wikipedia.org/wiki/Indoor_residual_spraying#Approved_insecticides
+* other columns? cost, cost-effectiveness, countries in which it is banned/approved, recommendation by orgs, global distribution (how many tons manufactured/used per annum? what percentage of malaria is treated using this drug? etc.)
+*  C. F. Curtis and H. Townson. "Malaria: existing methods of vector control and molecular entomology". [http://bmb.oxfordjournals.org/content/54/2/311.full.pdf]
+* [[:Category:Antimalarial agents]]
+* [[Antimalarial medication]]
+* [[Malaria prophylaxis]]
+* [[Mosquito control]]
+* https://www.cdc.gov/malaria/travelers/drugs.html
+
+==Methods==
+
+Use of insecticides has two main variables: method of delivery and the insecticide itself. This table covers the former; the latter are numerous and are covered separately in a second table below.
+
+Type := Prevention {{!}} Treatment {{!}} Both
+
+ACT (artemisinin combinatorial therapy) -- different from artenisinin?
+
+also "comprehensive surveillance" gets mentioned a lot, in the course of using the other things.
+
+{| class="sortable wikitable"
+! Method !! Type !! Acts against !! First use !! First resistance !! Locations where used !! Advantages !! Disadvantages
+|-
+| [[Indoor residual spraying]] || || Mosquito || || || || ||
+|-
+| [[Quinine]] || Treatment || || || 1910<ref>see timeline of malaria article</ref> || || ||
+|-
+| [[Proguanil]] || Both || ''[[Plasmodium falciparum]]'' || 
+|-
+| [[Chloroquine]] || Both ||
+| data-sort-value="1940" | ~1940s (during WWII)
+| data-sort-value="1950" | 1950s
+|-
+| [[Atovaquone]] ([[Atovaquone/proguanil|along with proguanil]]) || Both ||
+|-
+| [[Mefloquine]] || Both || ''[[Plasmodium falciparum]]'', ''[[Plasmodium vivax]]'' || 1989
+|-
+| [[Mosquito net]] || || || || || || ||
+|-
+| [[Pyrethroid]] nets || || || || || || ||
+|-
+| [[Intermittent preventive therapy]] || || || || || || ||
+|-
+| [[Artemisinin]] || Treatment || ''[[Plasmodium falciparum]]'' || || || || || More expensive than SP or chloroquine.<ref>{{cite book |first1=John Malcolm |last1=Dowling |first2=Chin-Fang |last2=Yap |year=2014 |title=Communicable Diseases in Developing Countries: Stopping the global epidemics of HIV/AIDS, Tuberculosis, Malaria and Diarrhoea |publisher=Palgrave and Macmillan}}</ref>{{rp|165}}
+|-
+| [[Artesunate/amodiaquine]] || 
+|-
+| [[Sulfadoxine/pyrimethamine]] (SP) || Treatment ||
+|-
+| [[Artesunate]] || Treatment ||
+|-
+| [[Swamp#Draining|Swamp draining]] || Prevention || Mosquito || || || || ||
+|-
+| Genetic blood disorders y-yeah || || || || || || ||
+|-
+| Selective eradication of certain mosquito species || || || || || || ||
+|-
+| Use of decoys<ref>{{cite web |url=https://web.archive.org/web/20080307162258/http://www.malariasite.com:80/malaria/history_control.htm |title=Malaria Site: History of Malaria Control |accessdate=December 20, 2016}}</ref> || || || || || || ||
+|-
+| [[RTS,S]] || || ''[[Plasmodium falciparum]]'' || || || || ||
+|-
+| Personal protection (like long-sleeved clothing?) || || || || || || ||
+|-
+| Other forms of larval control? || || || || || || ||
+|-
+| [[Mosquito coil]] || Prevention || Mosquito || || || || ||
+|-
+| [[Premunity|Immunity from repeated infection]] || Prevention || Malaria (just ''P. falciparum''?)
+|}
+
+==Insecticides==
+
+All insecticides act against mosquitoes and are used for prevention. (?)
+
+Surface := Bednet {{!}} Wall {{!}} Swamp
+
+{| class="sortable wikitable"
+! Name !! Surface !! First use !! First resistance !! Locations where used !! Advantages !! Disadvantages
+|-
+| [[Dichlorodiphenyltrichloroethane]] (DDT) || || 1943<ref name="2016_palmer" />{{rp|7}} || 1946<ref name="2016_palmer" />{{rp|9}} || || Cheap, chemically stable, lipophilic (so not easily washed off)<ref name="2016_palmer">{{cite web |url=http://www.science.uwaterloo.ca/~mpalmer/stuff/DDT-myth.pdf |title=The ban of DDT did not cause millions to die from malaria |first=Michael |last=Palmer |date=March 26, 2016 |accessdate=December 22, 2016}}</ref>{{rp|7}} || Persists in environment, accumulates along food chain<ref name="2016_palmer" />{{rp|7}}
+|-
+| [[Dihydrolipoamide dehydrogenase]] (DLD) || || || || || || 
+|-
+| BHC ([[Lindane]]?) || || || || || || 
+|-
+| HCH || || || || || || 
+|-
+| [[Deltamethrin]] || || || || || ||
+|-
+| [[Paris green]] || || || || || || 
+|}
+
+==See also==
+
+* [[Timeline of malaria]]
+* [[History of malaria]]
+* [[User:Riceissa/Comparison of measures of abundance of malaria]]
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
