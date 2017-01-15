@@ -19,9 +19,10 @@ status: notes
 - sometimes it can be *really hard* to tell the difference between
   someone who is an *extremely* good fit, and someone who is a terrible
   fit.
+
 - [How do you distinguish 10X software engineers from the rest?](https://www.quora.com/How-do-you-distinguish-10X-software-engineers-from-the-rest)
 
-    - Yishan Wong:
+    -   Yishan Wong:
 
         > Look to referrals of referrals.  Look for the best person
         > according to the best person according to the best person you
@@ -49,6 +50,17 @@ status: notes
         > other, to me they would both sound reasonable. (The "plus one
         > standard deviation" part isn't a standard result, just me trying to
         > eyeball the phenomenon.)
+
+        Also similar is a [post by Caroline Frances Hubert](https://www.facebook.com/slickers.fantastic/posts/10210063725257144).
+        In comments Pasha Kamyshev writes:
+
+        > There are only a few reliable signals that someone can attempt to
+        > use. A lot of verbal signals can be easy to fake. The strongest
+        > signal that can't be faked is the ability to predict the future.
+        > Another good one is the ability to pass the "Ideological Turing Test"
+        > and explain both sides of an ideological argument. Another one is
+        > your general *inability* to predict individual actions of the person,
+        > while still roughly seeing the end-result outcome as positive.
 
 - many more Quora questions about judging character (many by Alex):
 
