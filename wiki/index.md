@@ -30,17 +30,22 @@ belong elsewhere ends up here.
 - [Pages related to education](education)
 - A mirror of [my Quora answers]()
 
-# Summary of what I've been working on: December 2016
+# Summary of what I've been working on: January 2017
 
 This month I've been continuing work on [global
 health](global-public-health-notes); in particular, I'm trying to get a
 high-level understanding of what has happened so far with
 [malaria](malaria-notes).
+Some related Wikipedia pages I'm working on are [Comparison of methods of
+malaria
+control](https://en.wikipedia.org/wiki/User:Riceissa/Comparison_of_methods_of_malaria_control),
+[Comparison of measures of abundance of
+malaria](https://en.wikipedia.org/wiki/User:Riceissa/Comparison_of_measures_of_abundance_of_malaria),
+and [Human-landing
+catch](https://en.wikipedia.org/wiki/User:Riceissa/Human-landing_catch).
 
-Separately I've also been working on a mini-project to profile various
-researchers.
-At the moment my work on this mini-project isn't public but I hope to release
-most of it soon.
+At the beginning of the month I published [Timeline of digital
+preservation](https://en.wikipedia.org/wiki/Timeline_of_digital_preservation).
 
 # Activity feeds
 
