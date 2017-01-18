@@ -9,6 +9,9 @@ date: 2016-12-09
 [Charity Navigator gives the same number](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=32)).
 Of those, around 1.1 million are public charities ([source](http://nccs.urban.org/statistics/quickfacts.cfm)).
 
+AmazonSmile allows a choice among ["almost one million eligible 501(c)(3) public
+charitable organizations"](https://smile.amazon.com/gp/chpf/about/).
+
 61 charities in
 [GW spreadsheet](https://docs.google.com/spreadsheets/d/1KJveeJNUL3_tkshcajB3L8eGZ0gqcy_ZYpxcK1f_9r4/edit)
 which is "a list of charities focused on evidence-backed, potentially
