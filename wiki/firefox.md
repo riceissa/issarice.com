@@ -12,23 +12,21 @@ date: 2016-10-26
 - NoScript (should I switch to μMatrix?)
 - It's All Text!
 - HTTPS Everywhere
-- ScrapBook
-- ePub-catalog
+- ScrapBook X
 - Zotero
 - Open With
 - DuckDuckGo Plus
 - Web Developer (for viewing the generated HTML source)
 - Decentraleyes
-- Bookmarklets for: archive.is, Internet Archive, Citewebgen, "expand all" for
-  Facebook comments
+- DOM Inspector
 
 # Bookmarklets
 
-- Get source
 - archive.is
-- Internet Archive
-- Expand All
-- Citewebgen
+- "Archive page" (Internet Archive)
+- Get source
+- [Citewebgen](https://github.com/riceissa/citewebgen/)
+- "Expand all" for Facebook comments
 
 ![](archive-buttons.png)
 
