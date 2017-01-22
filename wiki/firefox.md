@@ -7,18 +7,19 @@ date: 2016-10-26
 
 # Plugins
 
-- uBlock Origin
-- Privacy Badger
-- NoScript (should I switch to μMatrix?)
-- It's All Text!
-- HTTPS Everywhere
-- ScrapBook X
-- Zotero
-- Open With
-- DuckDuckGo Plus
-- Web Developer (for viewing the generated HTML source)
 - Decentraleyes
 - DOM Inspector
+- DuckDuckGo Plus
+- HTTPS Everywhere
+- It's All Text!
+- NoScript (should I switch to μMatrix?)
+- Open With
+- Privacy Badger
+- ScrapBook X
+- uBlock Origin
+- Ubuntu Modifications (came with Ubuntu)
+- Web Developer (for viewing the generated HTML source)
+- Zotero
 
 # Bookmarklets
 
