@@ -155,6 +155,12 @@ Hay and Snow [writing](http://journals.plos.org/plosmedicine/article?id=10.1371/
 > and a significant parallel investment in establishing the required
 > environmental, population, and malaria vector data.
 
+DCP2 (p 422):
+
+> Despite its impact on mosquito density and its contribution to reducing
+> transmission, larviciding is not as effective as IRS and ITNs in reducing
+> mosquito longevity (Najera and Zaim 2002).
+
 # Malaria FAQs
 
 * [CDC's malaria FAQ](https://www.cdc.gov/Malaria/about/faqs.html)
