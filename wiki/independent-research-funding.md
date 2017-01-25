@@ -71,7 +71,8 @@ Wikipedia has a [big list of crowdfunding services](https://en.wikipedia.org/wik
 
 # Free software community
 
-* [Bountysource](https://www.bountysource.com/) is a crowdfunding and bounty site.
+* [Bountysource](https://www.bountysource.com/) is a crowdfunding ([Salt](https://salt.bountysource.com/)) and bounty site.
+  Salt seems pretty small; the top project earned $3,220 in December 2016 and *overall* $17,804 was paid in December 2016, $15k so far in January 2017, and so on.
 * See e.g. <https://medium.com/@nayafia> and her [final report](https://fordfoundcontentthemes.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf).
 
 # Libertarianism
