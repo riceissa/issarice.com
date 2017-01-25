@@ -58,7 +58,7 @@ happens outside the public view.
 
 [Gwern](https://www.gwern.net/) is another notable example of an independent researcher.
 
-Wikipedia has a [big list of crowdfunding services](https://en.wikipedia.org/wiki/Comparison_of_crowdfunding_services).
+Wikipedia has a [big list of crowdfunding services](https://en.wikipedia.org/wiki/Comparison_of_crowdfunding_services) as well as a [list of highest funded crowdfunding projects](https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects).
 
 # Effective altruism
 
