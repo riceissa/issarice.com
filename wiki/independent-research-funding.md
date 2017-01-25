@@ -58,6 +58,8 @@ happens outside the public view.
 
 [Gwern](https://www.gwern.net/) is another notable example of an independent researcher.
 
+Wikipedia has a [big list of crowdfunding services](https://en.wikipedia.org/wiki/Comparison_of_crowdfunding_services).
+
 # Effective altruism
 
 * Funding is a naturally recurring topic in the effective altruism community.
@@ -69,6 +71,7 @@ happens outside the public view.
 
 # Free software community
 
+* [Bountysource](https://www.bountysource.com/) is a crowdfunding and bounty site.
 * See e.g. <https://medium.com/@nayafia> and her [final report](https://fordfoundcontentthemes.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf).
 
 # Libertarianism
