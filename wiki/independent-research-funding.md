@@ -54,6 +54,10 @@ Other links:
 Public-facing opportunities seem kind of lackluster, suggesting that the "real stuff"
 happens outside the public view.
 
+[Academic publishing projects on Kickstarter](https://www.kickstarter.com/discover/categories/publishing/academic) -- as of January 24, 2017, there are only 23 "live" academic publishing projects, and the top project has $2,180 in pledged money, so there doesn't seem to be a lot of money here.
+
+[Gwern](https://www.gwern.net/) is another notable example of an independent researcher.
+
 # Effective altruism
 
 * Funding is a naturally recurring topic in the effective altruism community.
@@ -79,3 +83,12 @@ HT Vipul Naik for pointers in this area.
 * [International Students for Liberty Conference](https://www.isflc.org/)
 
 * [IHS PhD Application Fee Waiver](https://theihs.org/funding/ihs-phd-application-fee-waiver/)
+
+# Creative work
+
+* Kickstarter has a variety of projects
+* Patreon also has a variety of projects.
+  [Graphtreon](https://graphtreon.com/top-patreon-creators) has a list of top Patreon creators.
+  The top few seem to earn on the order of $30,000 per month from about 10,000 patrons, so generally $2--$5 per patron-month.
+  [Looking around](https://www.patreon.com/explore) on Patreon seems to confirm this.
+* [Eevee](https://eev.ee/dev/) is one particularly transparent creator doing a mix of writing, programming, game development, and drawing
