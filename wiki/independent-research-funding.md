@@ -73,7 +73,7 @@ happens outside the public view.
 
 # Libertarianism
 
-HT Vipul Naik for pointers in this area.
+HT Vipul Naik for pointers in this area:
 
 * Liberty Fund
 * Institute for Humane Studies
@@ -82,7 +82,9 @@ HT Vipul Naik for pointers in this area.
 * Students for Liberty
 * [International Students for Liberty Conference](https://www.isflc.org/)
 
-* [IHS PhD Application Fee Waiver](https://theihs.org/funding/ihs-phd-application-fee-waiver/)
+My notes:
+
+[IHS PhD Application Fee Waiver](https://theihs.org/funding/ihs-phd-application-fee-waiver/)
 
 # Creative work
 
