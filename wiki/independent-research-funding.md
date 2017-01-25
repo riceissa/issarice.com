@@ -15,7 +15,7 @@ Key questions:
 
 * Funding is a naturally recurring topic in the effective altruism community.
 * [Effective Altruism Foundation](https://ea-foundation.org/)
-* [Effective Altruism Ventures](https://web.archive.org/web/20161016063931/http://www.eaventures.org/);
+* [Effective Altruism Ventures](https://web.archive.org/web/20161016063931/http://www.eaventures.org/), which apparently does not exist anymore (as of January 2017);
   see also [its announcement post on the Effective Altruism Forum](http://effective-altruism.com/ea/fo/announcing_effective_altruism_ventures/)
 * Related is an [essay contest on small-scale giving opportunities](http://effective-altruism.com/ea/16e/essay_contest_general_considerations_for/) that I am helping to run.
 
