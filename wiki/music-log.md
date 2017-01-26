@@ -166,7 +166,7 @@ Taylor Swift
 
 * *Good Dreams*
 * *Living Field*
-* *Little Busters*
+* *Little Busters* ("Another Morning", "Patricia", "Black Sheep")
 
 # History
 
