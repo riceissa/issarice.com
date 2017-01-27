@@ -38,7 +38,7 @@ In the Global Burden of Diseases, Injuries, and Risk Factors (GBD) Study 2010, a
 
 The aim is to allow policymakers and other decision-makers to "compare the effects of different diseases – such as cancer versus depression – that kill people prematurely and cause ill health," to show disease trends over time, and to inform policy, IHME states on its website.
 
-It has been labeled "the most comprehensive review of the state of humanity's health ever undertaken."<ref>{{cite news|last1=Doughton|first1=Sandi|title=Gates, UW teaming up on massive health study|url=http://seattletimes.com/html/localnews/2020485495_gateshealthstatsxml.html|accessdate=27 February 2015|publisher=The Seattle Times|date=14 March 2013}}</ref>
+It has been labeled "the most comprehensive review of the state of humanity's health ever undertaken."<ref>{{cite news|last1=Doughton|first1=Sandi|title=Gates, UW teaming up on massive health study|url=http://www.seattletimes.com/seattle-news/gates-uw-teaming-up-on-massive-health-study/ |accessdate=January 27, 2017 |publisher=''[[The Seattle Times]]'' |date=14 March 2013}}</ref>
 
 The UK and China are among the countries working with IHME to generate subnational burden of disease estimates at the county and province levels.
 
@@ -89,6 +89,14 @@ IHME offers two types of global health fellowships, plus master's degrees and Ph
 
 ==Funders==
 IHME receives core grant funding from the [[Bill & Melinda Gates Foundation]]<ref>{{cite news|last1=Paulson|first1=Tom|title=$105 million Gates' gift helps start global health center|url=http://www.seattlepi.com/local/article/105-million-Gates-gift-helps-start-global-1239473.php|accessdate=27 February 2015|publisher=Seattle PI|date=4 June 2007}}</ref> and the state of Washington. The US Centers for Disease Control and Prevention (CDC); Inter-American Development Bank; Gavi, the Vaccine Alliance; the National Heart, Lung and Blood Institute; Kingdom of Saudi Arabia Ministry of Health; Medtronic Philanthropy; and the National Institute on Aging have also contributed funding through project grants and contracts.
+
+==Reception==
+
+==See also==
+
+* [[Timeline of global health]]
+* [[Priority-setting in global health]]
+* [[Dean Jamison]]
 
 ==References==
 {{Reflist|30em}}
