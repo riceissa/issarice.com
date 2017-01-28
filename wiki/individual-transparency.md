@@ -30,6 +30,9 @@ available](https://issarice.com/#activity-feeds).
   arguments.
   Somewhat related is a [post on the Open Borders Action Group about writing an
   attack piece](https://www.facebook.com/groups/openborders/permalink/616873458409379/).
+- The argument from observation of elites: e.g. mathematical elites [have
+  a small online presence](http://lesswrong.com/lw/hky/the_paucity_of_elites_online/),
+  people tend to become more secretive as they acquire resources (?), etc.
 
 # External links
 
