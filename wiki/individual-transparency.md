@@ -24,6 +24,13 @@ available](https://issarice.com/#activity-feeds).
 - Transparency is [one of the results of humility][holden_humility].
 - ["Why I Prefer Public Conversations"](http://reducing-suffering.org/why-i-prefer-public-conversations/) by Brian Tomasik
 
+# Disadvantages
+
+- Gives potential ammunition to fraudsters, enemies, and opponents in
+  arguments.
+  Somewhat related is a [post on the Open Borders Action Group about writing an
+  attack piece](https://www.facebook.com/groups/openborders/permalink/616873458409379/).
+
 # External links
 
 - [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_Law)
