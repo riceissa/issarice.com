@@ -17,6 +17,7 @@ available](https://issarice.com/#activity-feeds).
 
 # Advantages
 
+- Public content provides value to readers.
 - Transparency is also a meta statement that roughly says "yes, you can share this stuff with other people"; this can be good for getting feedback from a wide array of people (e.g. if you ask someone for feedback, they can forward it to others *without having to ask you for permission*, since everything is public anyway).
 - Transparency can be a way to combat gossip about oneself (see [one of the comments
   by
@@ -39,6 +40,11 @@ available](https://issarice.com/#activity-feeds).
 - The argument from observation of elites: e.g. mathematical elites [have
   a small online presence](http://lesswrong.com/lw/hky/the_paucity_of_elites_online/),
   people tend to become more secretive as they acquire resources (?), etc.
+
+# See also
+
+- [Having “ideas that are lying
+  around”](wiki/having-ideas-that-are-lying-around.md)
 
 # External links
 
