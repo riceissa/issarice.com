@@ -17,3 +17,6 @@ It can also inspire people, give you a tight feedback loop, or lead to [serendip
 - Transparency can be a way to combat gossip about oneself (see [one of the comments
   by
   theslittyeye on this post](http://www.overcomingbias.com/2011/07/regulating-gossip.html))
+- Transparency is [one of the results of humility][holden_humility].
+
+[holden_humility]: http://blog.givewell.org/2007/12/27/transparency-measurement-humility/ "Holden Karnofsky. “Transparency, measurement, humility”. December 27, 2007. The GiveWell Blog."
