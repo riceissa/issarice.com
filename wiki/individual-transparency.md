@@ -23,6 +23,12 @@ available](https://issarice.com/#activity-feeds).
   theslittyeye on this post](http://www.overcomingbias.com/2011/07/regulating-gossip.html))
 - Transparency is [one of the results of humility][holden_humility].
 - ["Why I Prefer Public Conversations"](http://reducing-suffering.org/why-i-prefer-public-conversations/) by Brian Tomasik
+- [Bryan Caplan](http://econlog.econlib.org/archives/2017/01/some_default_as.html):
+  "In the social media age, observers tend to equate silence with approval, or
+  at least disinterest."
+  I agree with Caplan's observation here; more generally, unless one speaks up
+  in public, there are certain "default positions" that people might assume
+  about you.
 
 # Disadvantages
 
