@@ -14,3 +14,6 @@ It can also inspire people, give you a tight feedback loop, or lead to [serendip
 # Advantages
 
 - Transparency is also a meta statement that roughly says "yes, you can share this stuff with other people"; this can be good for getting feedback from a wide array of people (e.g. if you ask someone for feedback, they can forward it to others *without having to ask you for permission*, since everything is public anyway).
+- Transparency can be a way to combat gossip about oneself (see [one of the comments
+  by
+  theslittyeye on this post](http://www.overcomingbias.com/2011/07/regulating-gossip.html))
