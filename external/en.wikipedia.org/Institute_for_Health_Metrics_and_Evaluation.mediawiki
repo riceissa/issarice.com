@@ -96,7 +96,11 @@ Initially, some within the [[World Health Organization]] had criticized IHME for
 
 The 2010 Global Burden of Disease report was criticized for its lack of transparency of methods and data as well as its use of complex statistical methods to fill in data gaps when reliable statistics were unavailable. Thomas Bollyky, a senior fellow at the [[Council on Foreign Relations]], called for more transparency. The report was also criticized for its use of [[Verbal autopsy|verbal autopsies]] because many diseases have similar symptoms, leading to potential mistakes.<ref name="2013_doughton" /><ref>{{cite web |url=http://www.healthdata.org/verbal-autopsy |title=Verbal Autopsy (VA) |publisher=Institute for Health Metrics and Evaluation |accessdate=January 28, 2017}}</ref>
 
-The Global Burden of Disease Study (GBD) 2013<ref>{{Cite journal |url=https://assets.documentcloud.org/documents/3406781/RudanComment2013GBD.pdf |first1=Igor |last2=Rudan |first2=Kit Yee |last2=Chan |Global health metrics needs collaboration and competition |date=December 18, 2014 |accessdate=January 27, 2017 |doi=http://dx.doi.org/10.1016/S0140-6736(14)62006-7 |journal=[[The Lancet]]}}</ref>
+Igor Rudan and Kit Yee Chan argue that the emergence of IHME introduced competition to the field of global health metrics, which was previously a field where WHO maintained a monopoly.
+
+Rudan and Chan also note that IHME "struggled to generate support, legitimacy, and acceptable for their findings" after publishing the 2010 Global Burden of Disease Study.
+
+The Global Burden of Disease Study (GBD) 2013 <ref>{{Cite journal |url=https://assets.documentcloud.org/documents/3406781/RudanComment2013GBD.pdf |first1=Igor |last2=Rudan |first2=Kit Yee |last2=Chan |Global health metrics needs collaboration and competition |date=December 18, 2014 |accessdate=January 27, 2017 |doi=http://dx.doi.org/10.1016/S0140-6736(14)62006-7 |journal=[[The Lancet]]}}</ref>
 
 ==See also==
 
