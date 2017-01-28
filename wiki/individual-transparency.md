@@ -11,6 +11,10 @@ It can also inspire people, give you a tight feedback loop, or lead to [serendip
 
 - [What are the advantages and disadvantages of making information about oneself available online through for example smart phone apps and social media posts?](https://www.quora.com/What-are-the-advantages-and-disadvantages-of-making-information-about-oneself-available-online-through-for-example-smart-phone-apps-and-social-media-posts)---question inspired by Sebastian Nickel's Facebook discussion (linked from the question).
 
+In many ways, I try to take an "open by default" approach by e.g. making many
+of my [activity feeds publicly
+available](https://issarice.com/#activity-feeds).
+
 # Advantages
 
 - Transparency is also a meta statement that roughly says "yes, you can share this stuff with other people"; this can be good for getting feedback from a wide array of people (e.g. if you ask someone for feedback, they can forward it to others *without having to ask you for permission*, since everything is public anyway).
