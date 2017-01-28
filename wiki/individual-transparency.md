@@ -24,4 +24,8 @@ available](https://issarice.com/#activity-feeds).
 - Transparency is [one of the results of humility][holden_humility].
 - ["Why I Prefer Public Conversations"](http://reducing-suffering.org/why-i-prefer-public-conversations/) by Brian Tomasik
 
+# External links
+
+- [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_Law)
+
 [holden_humility]: http://blog.givewell.org/2007/12/27/transparency-measurement-humility/ "Holden Karnofsky. “Transparency, measurement, humility”. December 27, 2007. The GiveWell Blog."
