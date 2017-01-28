@@ -37,5 +37,6 @@ available](https://issarice.com/#activity-feeds).
 # External links
 
 - [Linus's Law](https://en.wikipedia.org/wiki/Linus%27s_Law)
+- [Wisdom of the crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)
 
 [holden_humility]: http://blog.givewell.org/2007/12/27/transparency-measurement-humility/ "Holden Karnofsky. “Transparency, measurement, humility”. December 27, 2007. The GiveWell Blog."
