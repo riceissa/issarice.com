@@ -7,7 +7,9 @@ date: 2016-08-27
 
 **Vim** is my text editor of choice.
 I started using it in 2011 (or even before that---I can't quite remember).
-It was the first "serious" text editor I tried to learn, and although I've experimented some with a few others (e.g. I downloaded emacs and went through its tutorial, I downloaded and played around with Sublime), I haven't really felt a desire to switch.
+It was the first "serious" text editor I tried to learn,
+and although I sometimes use and have experimented with others (e.g.
+[Emacs]()), I haven't really felt a desire to switch.
 
 This page documents some of my musings from using Vim; most of it has probably already been said elsewhere.
 
@@ -211,7 +213,7 @@ editors that work fine with long lines (gedit, GNU Emacs, etc.)".
 
 In editing Wikipedia, I've found it useful to learn [CUA keybindings](https://en.wikipedia.org/wiki/IBM_Common_User_Access) like `Ctrl`-`→`, `Ctrl`-`Backspace`, and so forth, which can be used directly on browsers like Firefox.
 This suffices for most editing tasks, and I have the extension [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open GVim for more complicated tasks (like search-and-replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
-I've also found Emacs useful (with a bit of practice) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
+I've also found [Emacs](wiki/emacs.md) useful (with a bit of practice) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
 
 # From my old .vimrc
 

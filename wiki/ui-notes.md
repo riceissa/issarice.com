@@ -28,5 +28,5 @@ But here are some questions I have:
   instance, Unity is noted for being "smartphone-like".
 - How does this new UI approach contrast with what "power users" are used to? In
   particular, is the set of possible actions limited? (This seems like the case
-  for text editors; Vim and Emacs seem much more powerful than any new text
+  for text editors; [Vim]() and [Emacs]() seem much more powerful than any new text
   editor that conforms to new UI philosophies.)
