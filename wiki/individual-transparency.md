@@ -40,6 +40,14 @@ available](https://issarice.com/#activity-feeds).
 - The argument from observation of elites: e.g. mathematical elites [have
   a small online presence](http://lesswrong.com/lw/hky/the_paucity_of_elites_online/),
   people tend to become more secretive as they acquire resources (?), etc.
+- Being transparent requires effort: you probably have to change your workflow
+  to put more things online, spend more time checking over things to make sure
+  they aren't misleading or easily misinterpreted.
+- The most lucrative opportunities tend to involve signing non-disclosure
+  agreements, working behind closed doors, working as part of a larger team
+  where individual contributions are difficult to discern, etc. (?)
+  Insofar as this is true, *being capable of radical transparency is an
+  indicator of not taking up on these opportunities*.
 
 # See also
 
