@@ -53,6 +53,16 @@ off, since health spending seems to change a lot in just a few years:
 > multilateral partners and foundations. This had increased to $15 in 2005, and
 > $21 in 2011. This represents an increase of 85% over the period.
 
+[Financing Global Health 2009: Tracking Development Assistance for Health](http://www.healthdata.org/node/854):
+
+> *Financing Global Health 2009* provides the most comprehensive picture
+> available of the total amount of funding going to global health projects
+> spanning two decades. It takes into account funding from aid agencies in 22
+> developed countries, multilateral institutions, and hundreds of nonprofit
+> groups and charities. Prior to this report, nearly all private philanthropic
+> giving for health was unaccounted for, meaning that nearly a third of all
+> health aid was not tracked.
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
