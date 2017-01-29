@@ -43,7 +43,8 @@ available](https://issarice.com/#activity-feeds).
   attack piece](https://www.facebook.com/groups/openborders/permalink/616873458409379/).
 - The argument from observation of elites: e.g. mathematical elites [have
   a small online presence](http://lesswrong.com/lw/hky/the_paucity_of_elites_online/),
-  people tend to become more secretive as they acquire resources (?), etc.
+  people tend to become more secretive or measured in their opinions as they
+  acquire resources (?), etc.
 - Being transparent requires effort: you probably have to change your workflow
   to put more things online, spend more time checking over things to make sure
   they aren't misleading or easily misinterpreted, and dealing with spurious
