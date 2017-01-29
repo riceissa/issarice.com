@@ -11,7 +11,7 @@ This page is a placeholder for now.
 - [Firefox]() for the most part, occasionally Google Chrome for testing and to
   view pages Firefox has trouble with
 - [Vim]() with various plugins for most text editing.
-  I also use Emacs or the browser's text box for MediaWiki, since Vim has
+  I also use [Emacs]() or the browser's text box for MediaWiki, since Vim has
   difficulty with long lines.
 - [Git]()
 - [ELinks](), Links, or Lynx for lightweight browsing depending on what I want.
