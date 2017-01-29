@@ -9,16 +9,24 @@ date: 2017-01-28
 
 As of Ubuntu 16.10, the default disk encryption method used when selecting
 "Encrypt the new Ubuntu installation for security" during installation seems to
-use dm-crypt with LUKS.
+be dm-crypt with LUKS.
 Here:
 
-* **dm-crypt** is "is the standard device-mapper encryption functionality
+* **dm-crypt** is "the standard device-mapper encryption functionality
   provided by the Linux kernel" ([ArchWiki][arch_de]).
-* **LUKS** (Linux Unified Key Setup) is " an additional convenience layer which
+* **LUKS** (Linux Unified Key Setup) is "an additional convenience layer which
   stores all of the needed setup information for dm-crypt on the disk itself
   and abstracts partition and key management in an attempt to improve ease of
   use and cryptographic security" ([ArchWiki][arch_de]).
 * **cryptsetup** is the actual utility that you run as a user.
+
+The flow of choices (if Ubuntu hadn't chosen everything for you) goes like
+this ([ArchWiki][arch_de]):
+
+1. Decide to use block device encryption (rather than, say, stacked filesystem
+   encryption).
+2. Decide to use dm-crypt (rather than, say, loop-AES or TrueCrypt).
+3. Decide to use LUKS (rather than, say, plain dm-crypt mode).
 
 # Backing up the LUKS header
 
