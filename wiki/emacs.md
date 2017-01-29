@@ -34,7 +34,7 @@ track my tasks in a version-controlled plain text file.
 Prior to using Org mode, I had used a text file where lines began with the
 scheduled date, so that I could sort the file to make the imminent tasks
 "float" up to the top, but then I wanted to add intervals so that I could say
-something like "schedule this task one month after I complete it" -- and
+something like "reschedule this task one month after I complete it" -- and
 reasoned that there ought to be someone who automated this in a plain text
 environment.
 
