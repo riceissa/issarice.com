@@ -1,0 +1,78 @@
+The '''Global Burden of Disease Study''' ('''GBD''') is a comprehensive regional and global research program of [[disease burden]] that assesses [[death|mortality]] and [[disability]] from major diseases, injuries, and [[risk factor]]s. GBD is a collaboration of over 1,800 researchers from 127 countries. Under principal investigator, [[Christopher J.L. Murray]], GBD is based out of the [[Institute for Health Metrics and Evaluation]] at the [[University of Washington]] and funded by the [[Bill and Melinda Gates Foundation]].<ref>{{cite web|title=What does a $100 million public health data revolution look like?|url=http://www.tedmed.com/talks/show?id=17751|website=TEDMED}}</ref>
+
+==History==
+
+The GBD project was commissioned in year 1990 and is a collaborative effort between hundreds of experts worldwide, including researchers at the  [[World Health Organization]] (WHO), [[Harvard School of Public Health]], [[The University of Auckland]] School of Population Health, the [[Institute for Health Metrics and Evaluation]] (IHME), and the [[World Bank]]. The original project estimated [[health]] gaps using [[disability-adjusted life years]] (DALYs) for eight regions of the world in 1990. It provided a standardised approach to epidemiological assessment and uses a standard unit, the disability-adjusted life year (DALY), to aid comparisons.
+
+The first study on the [[global burden of disease]], conducted in 1990, quantified the health effects of more than 100 diseases and injuries for eight regions of the world, giving estimates of [[Disease#Morbidity|morbidity]] and [[Mortality rate|mortality]] by age, sex, and region. It also introduced the DALY as a new metric to quantify the burden of diseases, injuries, and [[risk factor]]s.<ref name="pruss-ustun2003">{{cite book|first1=Annette|last1=Prüss-Üstün|first2=C.|last2=Mathers|first3=Carlos|last3=Corvalán|first4=A.|last4=Woodward|title=Assessing the environmental burden of disease at national and local levels: Introduction and methods|year=2003|publisher=World Health Organization|location=Geneva|isbn=9241546204|series=WHO Environmental Burden of Disease Series|volume=1|url=http://www.who.int/quantifying_ehimpacts/publications/9241546204/en/index.html}}</ref><ref name="aboutgbd">{{cite web|url=http://www.who.int/healthinfo/global_burden_disease/about/en/index.html|title=About the Global Burden of Disease (GBD) project|work=Health statistics and health information systems|publisher=World Health Organization}}</ref><ref name="globalburden">{{cite web|url=http://www.who.int/topics/global_burden_of_disease/en/|title=Global burden of disease|publisher=World Health Organization}}</ref> In 2000–2002, the 1990 study was updated to include a more extensive analysis using a framework known as ''comparative risk factor assessment''.<ref name="aboutgbd" />
+
+Official DALY estimates had not been updated by WHO since 2004,<ref name=who>[http://www.who.int/healthinfo/global_burden_disease/en/ Global Burden of Disease (GBD)] at WHO, 2012</ref> until the Global Burden of Disease Study 2010 was published in 2013.<ref>{{cite journal |vauthors=Murray CJ, Vos T, Lozano R, Naghavi M, Flaxman AD, Michaud C, etal | title=Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010 | journal=Lancet | year= 2013 | volume= 380 | issue= 9859 | pages= 2197–223 | pmid=23245608 | doi=10.1016/S0140-6736(12)61689-4 }}</ref> The work quantified the burdens of 291 major causes of death and disability and 67 risk factors disaggregated by 21 geographic regions and various age-sex groups.<ref name="GBD2010">{{cite journal |vauthors=Murray CJ, Ezzati M, Flaxman AD, Lim S, Lozano R, Michaud C, etal | title=GBD 2010: design, definitions, and metrics | journal=Lancet | year= 2013 | volume= 380 | issue= 9859 | pages= 2063–6 | pmid=23245602 | doi=10.1016/S0140-6736(12)61899-6 }}</ref><ref name="Watts">{{cite journal|vauthors=Watts C, Cairncross S | title=Should the GBD risk factor rankings be used to guide policy? | journal=Lancet | year= 2013 | volume= 380 | issue= 9859 | pages= 2060–1 | pmid=23245600 | doi=10.1016/S0140-6736(12)62121-7}}</ref>
+
+TODO mention GBD 2013
+
+TODO mention GBD 2015
+
+{| class="sortable wikitable"
+|-
+! colspan="2" | Report
+! colspan="2" | Collaborators
+! colspan="2" | Coverage in report
+! rowspan="2" | Sources
+|-
+! GBD !! Publication year !! Researchers !! Countries !! Countries !! Causes of death
+|-
+| 2010 || 2012
+| style="text-align:right;" | 488
+| style="text-align:right;" | 50
+| style="text-align:right;" | 187
+| style="text-align:right;" | 235
+| <ref>{{cite web |url=http://www.healthdata.org/about/history |title=History |publisher=[[Institute for Health Metrics and Evaluation]] |accessdate=January 29, 2017}}</ref><ref name="Lancet2014" /><ref>{{cite journal|last1=Das|first1=P|title=The story of GBD 2010: a "super human" effort|journal=Lancet|date=2012|volume=380|issue=9859|pages=2067–2070|doi=10.1016/s0140-6736(12)62174-6}}</ref>
+|-
+| 2013 || 2014
+| style="text-align:right;" data-sort-value="1000" | more than 1,000
+| style="text-align:right;" | 106
+| style="text-align:right;" | 188
+| style="text-align:right;" | 240
+| <ref name="Lancet2014" />
+|-
+| 2015 || 2016
+| style="text-align:right;" | 1,870
+| style="text-align:right;" | 127
+| style="text-align:right;" | 195
+| style="text-align:right;" | 249
+| <ref>{{cite web |url=http://www.healthdata.org/news-release/increase-global-life-expectancy-offset-war-obesity-and-substance-abuse |title=Increase in global life expectancy offset by war, obesity, and substance abuse |publisher=[[Institute for Health Metrics and Evaluation]] |accessdate=January 29, 2017}}</ref><ref>{{Cite journal| doi = 10.1016/S0140-6736(16)31012-1| issn = 0140-6736 | volume = 388| issue = 10053| pages = 1459–1544| authors=GBD 2015 Mortality and Causes of Death Collaborators | title = Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015| journal = The Lancet| accessdate = 2017-01-29| date = 2016-10-08| url = http://thelancet.com/journals/lancet/article/PIIS0140-6736(16)31012-1/fulltext}}</ref><ref>{{cite web |url=https://www.sciencedaily.com/releases/2016/10/161006102549.htm |title=Global burden of disease study 2015 assesses the state of the world's health |publisher=[[ScienceDaily]] |accessdate=January 29, 2017 |date=October 6, 2016}}</ref>
+|}
+
+==Results==
+
+The 2013 report showed that global [[life expectancy]] for both sexes increased from 65.3 years in 1990, to 71.5 years in 2013,<ref name="Lancet2014">{{cite journal|author=GBD 2013 Mortality and Causes of Death Collaborators| date=2014|title=Global, regional, and national age–sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013|journal=The Lancet|volume=385|issue=9963|pages=117–171|issn=0140-6736|doi=10.1016/S0140-6736(14)61682-2|pmid=25530442|pmc=4340604}}</ref> while the number of deaths increased from 47.5 million to 54.9 million over the same interval.<ref name="Lancet2014" /> Progress varied widely across [[demographic]] and national groups. Reductions in age-standardised death rates for [[cardiovascular diseases]] and [[cancers]] in high-income regions, and reductions in child deaths from [[diarrhoea]], [[lower respiratory infections]] and neonatal causes in low-income regions drove the changes. [[HIV/AIDS]] reduced life expectancy in southern [[sub-Saharan Africa]]. For most communicable causes of death both numbers of deaths and age-standardised death rates fell, while for most non-communicable causes, demographic shifts increased numbers of deaths but decreased age-standardised death rates. Global deaths from injury increased by 10.7%, from 4.3 million deaths in 1990 to 4.8 million in 2013; but age-standardised rates declined over the same period by 21%.<ref name="Lancet2014" /> For some causes of more than 100,000 deaths per year in 2013, age-standardised death rates increased between 1990 and 2013, including HIV/AIDS, [[pancreatic cancer]], [[atrial fibrillation]] and flutter, drug use disorders, [[diabetes]], [[chronic kidney disease]] and [[Sickle-cell disease|sickle-cell anaemias]]. Diarrhoeal diseases, lower respiratory infections, neonatal causes and malaria remain in the top five causes of death in children younger than 5 years. The most important [[pathogens]] are [[rotavirus]] for diarrhoea and [[pneumococcus]] for lower respiratory infections.<ref name="Lancet2014" />
+
+==Aims==
+
+The GBD has three specific aims:
+
+#To systematically incorporate information on non-fatal outcomes into the assessment of the health status (using a time-based measure of healthy years of life lost due either to premature mortality or to years lived with a disability, weighted by the severity of that disability)
+#To ensure that all estimates and projections were derived on the basis of objective epidemiological and demographic methods, which were not influenced by advocates.
+#To measure the burden of disease using a metric that could also be used to assess the cost-effectiveness of interventions. The metric chosen was the DALY.{{citation needed|date=December 2012}}
+
+The burden of disease can be viewed as the gap between current health status and an ideal situation in which everyone lives into old age free of disease and disability. Causes of the gap are premature mortality, disability and exposure to certain risk factors that contribute to illness.
+
+== See also ==
+
+* [[Pharmacoeconomics]]
+* [[Global health]]
+* [[Health policy]]
+* [[Priority-setting in global health]]
+
+== References ==
+
+{{reflist|30em}}
+
+==External links==
+
+* [http://www.who.int/topics/global_burden_of_disease/en/ Global burden of disease at WHO website]
+* [http://www.hup.harvard.edu/results-list.php?collection=1045 GBD Publications from Harvard School of Public Health]
+* [http://www.gbd.unsw.edu.au/ Global Burden of Disease Mental Disorders and Illicit Drug Use Expert Group at National Drug and Alcohol Research Centre (University of New South Wales, Australia)]
+
+[[:Category:Global health]]
+[[:Category:Public health research]]
