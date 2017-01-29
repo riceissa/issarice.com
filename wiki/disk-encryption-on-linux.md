@@ -28,6 +28,12 @@ this ([ArchWiki][arch_de]):
 2. Decide to use dm-crypt (rather than, say, loop-AES or TrueCrypt).
 3. Decide to use LUKS (rather than, say, plain dm-crypt mode).
 
+Note that I'm pretty sure LUKS is a
+[specification](https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup) so it's
+possible to use LUKS *without* using dm-crypt, i.e. you can reverse the order
+of (2) and (3) by deciding to use LUKS, and only then deciding on dm-crypt
+(rather than some other implementation of LUKS -- I'm not aware of any others).
+
 # Backing up the LUKS header
 
 Check that the device is a LUKS device:
