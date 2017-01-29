@@ -42,7 +42,8 @@ available](https://issarice.com/#activity-feeds).
   people tend to become more secretive as they acquire resources (?), etc.
 - Being transparent requires effort: you probably have to change your workflow
   to put more things online, spend more time checking over things to make sure
-  they aren't misleading or easily misinterpreted.
+  they aren't misleading or easily misinterpreted, and dealing with spurious
+  criticisms.
 - The most lucrative opportunities tend to involve signing non-disclosure
   agreements, working behind closed doors, working as part of a larger team
   where individual contributions are difficult to discern, etc. (?)
