@@ -18,11 +18,18 @@ paragraphs.
 However, I still manage to encounter some files with long lines, most prominently
 when editing the English Wikipedia, where it is standard for paragraphs to consist
 of a single long line.
-For simple edits, just using the browser's text field is fine, but for more involved
-editing tasks I've found it useful to use Emacs.
+For simple edits, just using the browser's text field suffices, but for more involved
+editing tasks I've found it useful to learn Emacs.
 With a bit of practice, Emacs becomes much more efficient than the standard CUA
-keybings will allow.
+keybindings will allow.
 
-I also use 
+I also use Org mode.
+Ever since [taking up contract
+work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice),
+I've found a need to schedule many tasks days or weeks in advance, to
+the point where I can't keep all of it straight in my head.
+In junior high and high school I had used paper planners, but since
+I now have no artificial restriction on computer use, it makes sense to
+track my tasks in a version-controlled plain text file.
 
 I consider myself an Emacs novice.
