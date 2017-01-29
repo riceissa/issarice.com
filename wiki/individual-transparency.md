@@ -30,6 +30,10 @@ available](https://issarice.com/#activity-feeds).
   I agree with Caplan's observation here; more generally, unless one speaks up
   in public, there are certain "default positions" that people might assume
   about you.
+- Targeting content to larger audiences (not necessarily the public) might help
+  to make it higher quality or more useful to your future self.
+  See the [Facebook post where Vipul Naik outlines this
+  reasoning](https://www.facebook.com/vipulnaik.r/posts/10203124419727293).
 
 # Disadvantages
 
