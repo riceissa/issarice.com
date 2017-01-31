@@ -90,6 +90,11 @@ My notes:
 
 [IHS PhD Application Fee Waiver](https://theihs.org/funding/ihs-phd-application-fee-waiver/)
 
+Other links to check out:
+
+* <http://www.libertyfund.org/resources.html>
+* <http://www.libertyfund.org/about.html>
+
 # Creative work
 
 * Kickstarter has a variety of projects
