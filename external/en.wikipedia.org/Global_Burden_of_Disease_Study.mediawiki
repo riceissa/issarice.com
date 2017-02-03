@@ -167,7 +167,7 @@ TODO figure out how to hide table on load
 |-
 | "Cause-specific mortality for 240 causes in China during 1990–2013: a systematic subnational analysis for the Global Burden of Disease Study 2013" || 2013 || October 2015 || || ''[[The Lancet]]''
 |-
-| "Under-5 mortality in 2,851 Chinese counties, 1996–2012: a subnational assessment of achieving MDG 4 goals in China" || || October 2015 || ''[[The Lancet]]''
+| "Under-5 mortality in 2,851 Chinese counties, 1996–2012: a subnational assessment of achieving MDG 4 goals in China" || October 2015 || || ''[[The Lancet]]''
 |-
 | "Disability weights for the Global Burden of Disease 2013 study" || 2013 || October 2015 || || ''[[The Lancet]]''
 |-
