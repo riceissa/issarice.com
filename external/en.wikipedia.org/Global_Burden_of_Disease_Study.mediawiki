@@ -88,7 +88,7 @@ The World Health Organization did not acknowledge the GBD 2010 estimates.<ref na
 |-
 ! Title !! Corresponding GBD !! Publication date !! Type !! Venue
 |-
-| "The burden of mental disorders in the Eastern Mediterranean Region, 1990–2013" || 2013 || January 2017 || ''[[PLOS ONE]]''
+| "The burden of mental disorders in the Eastern Mediterranean Region, 1990–2013" || 2013 || January 2017 || || ''[[PLOS ONE]]''
 |-
 | "Global burden of hypertension and systolic blood pressure of at least 110 to 115 mmHg, 1990–2015" || 2015 || January 2017 || || ''[[JAMA (journal)|JAMA]]''
 |-
@@ -138,6 +138,10 @@ The World Health Organization did not acknowledge the GBD 2010 estimates.<ref na
 | "Global burden of cutaneous leishmaniasis: a cross-sectional analysis from the Global Burden of Disease study 2013" || 2013 || February 2016 || || ''[[The Lancet Infectious Diseases]]''
 |-
 | "The global burden of dengue: an analysis from the Global Burden of Disease study 2013" || 2013 || February 2016 || || ''[[The Lancet Infectious Diseases]]''
+|-
+| "Global and national burden of diseases and injuries among children and adolescents between 1990 and 2013: Findings from the Global Burden of Disease 2013 study" || 2013 || January 2016 || || ''[[JAMA Pediatrics]]''
+|-
+| "Stroke prevalence, mortality and disability-adjusted life years in children and youth aged 0–19 years: Data from the global and regional burden of stroke 2013" || 2013 || January 2016 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
 | ""
 |}
