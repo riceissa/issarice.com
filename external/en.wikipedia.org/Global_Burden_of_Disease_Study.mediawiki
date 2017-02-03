@@ -243,7 +243,21 @@ TODO figure out how to hide table on load
 |-
 | "Burden of depressive disorders by country, sex, age, and year: findings from the Global Burden of Disease Study 2010" || 2010 || November 2013 || || ''[[PLoS Medicine]]''
 |-
-| "Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990–2010: findings from the Global Burden of Disease Study 2010"
+| "Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990–2010: findings from the Global Burden of Disease Study 2010" || 2010 || October 2013 || || ''[[The Lancet]]''
+|-
+| "A systematic analysis of global anemia burden from 1990 to 2010" || 2010 || October 2013 || || ''[[Blood (journal)|Blood]]''
+|-
+| "Global burden of disease attributable to illicit drug use and dependence: findings from the Global Burden of Disease Study 2010" || 2010 || August 2013 || || ''[[The Lancet]]''
+|-
+| "The burden of HIV: insights from the Global Burden of Disease Study 2010" || 2010 || August 2013 || || ''[[AIDS (journal)|AIDS]]''
+|-
+| "Measuring the Global Burden of Disease" || 2010 || August 2013 || || ''[[New England Journal of Medicine]]''
+|-
+| "The state of US health, 1990-2010: burden of diseases, injuries, and risk factors" || 2010 || July 2013 || || ''[[Journal of the American Medical Association]]''
+|-
+| "The global prevalence of intimate partner violence against women" || || June 2013 || || ''[[Science (journal)|Science]]''
+|-
+| "Rapid health transition in China, 1990–2010: findings from the Global Burden of Disease Study 2010" || 2010 || June 2013 || || ''[[The Lancet]]''
 |-
 | ""
 |}
