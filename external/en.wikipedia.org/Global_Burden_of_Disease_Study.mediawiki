@@ -267,7 +267,23 @@ TODO figure out how to hide table on load
 |-
 | "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
 |-
-| ""
+| "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
+| "Disability‐adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
+| "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
+| "A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
+| "Years lived with disability (YLDs) for 1,160 sequelae of 289 diseases and injuries, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
+| "Age‐specific and sex‐specific mortality in 187 countries, 1970–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
+| "Global malaria mortality between 1980 and 2010: a systematic analysis" || 2010? || February 2012 || || ''[[The Lancet]]''
+|-
+| "National, regional, and global trends in systolic blood pressure since 1980: systematic analysis of health examination surveys and epidemiological studies with 786 country-years and 5.4 million participants" || || February 2011 || || ''[[The Lancet]]''
+|-
+| "The burden of injuries in Iranian children in 2005" || || March 2010 || || ''[[Population Health Metrics]]''
 |}
 
 == See also ==
