@@ -179,6 +179,14 @@ TODO figure out how to hide table on load
 |-
 | "Global, regional, and national comparative risk assessment of 79 behavioral, environmental and occupational, and metabolic risks or clusters of risks in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || September 2015 || || ''[[The Lancet]]''
 |-
+| "Benchmarking health system performance across states in Nigeria: a systematic analysis of levels and trends in key maternal and child health interventions and outcomes, 2000–2013" || 2013 || September 2015 || || ''[[BMC Medicine]]''
+|-
+| "Global, regional, and national disability-adjusted life years (DALYs) for 306 diseases and injuries and healthy life expectancy (HALE) for 188 countries, 1990–2013: quantifying the epidemiological transition" || 2013 || August 2015 || || ''[[The Lancet]]''
+|-
+| "Maintenance dialysis throughout the world in years 1990 and 2010" || 2010 || July 2015 || || ''JASN''
+|-
+| "Ischemic heart disease worldwide, 1990 to 2013" || 2013 || July 2015 || || ''[[Circulation: Cardiovascular Quality and Outcomes]]''
+|-
 | ""
 |}
 
