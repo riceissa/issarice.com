@@ -221,6 +221,14 @@ TODO figure out how to hide table on load
 |-
 | "Evaluating causes of death and morbidity in Iran, Global Burden of Diseases, Injuries, and Risk Factors Study 2010" || 2010 || May 2014 || || ''[[Archives of Iranian Medicine]]''
 |-
+| "Health transition in Iran toward chronic diseases based on results of Global Burden of Disease 2010" || 2010 || May 2014 || || ''[[Archives of Iranian Medicine]]''
+|-
+| "Global, regional, and national levels of neonatal, infant, and under-5 mortality during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || May 2014 || || ''[[The Lancet]]''
+|-
+| "Global, regional, and national levels and causes of maternal mortality during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || May 2014 || || ''[[The Lancet]]''
+|-
+| "Temporal trends in ischemic heart disease mortality in 21 world regions, 1980-2010: the Global Burden of Disease 2010 Study" || 2010 || February 2014 || || ''[[Circulation (journal)|Circulation]]''
+|-
 | ""
 |}
 
