@@ -157,6 +157,16 @@ TODO figure out how to hide table on load
 |-
 | "Stroke prevalence, mortality and disability-adjusted life years in adults aged 20–64 years in 1990–2013: Data from the Global Burden of Disease 2013 study" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
+| "Update on the global burden of ischemic and hemorrhagic stroke in 1990–2013: the GBD 2013 study" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+|-
+| "Atlas of the global burden of stroke (1990–2013): The GBD 2013 Study" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+|-
+| "Sex differences in stroke incidence, prevalence, mortality and disability-adjusted life years: Results from the Global Burden of Disease study 2013" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+|-
+| "Global and regional patterns in cardiovascular mortality from 1990 to 2013" || 2013 || October 2015 || || ''[[Circulation (journal)|Circulation]]''
+|-
+| "Cause-specific mortality for 240 causes in China during 1990–2013: a systematic subnational analysis for the Global Burden of Disease Study 2013" || 2013 || October 2015 || || ''[[The Lancet]]''
+|-
 | ""
 |}
 
