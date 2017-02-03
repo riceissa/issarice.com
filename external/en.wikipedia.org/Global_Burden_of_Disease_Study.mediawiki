@@ -98,6 +98,26 @@ The World Health Organization did not acknowledge the GBD 2010 estimates.<ref na
 | "Global, regional, and national cancer incidence, mortality, years of life lost, years lived with disability, and disability-adjusted life years for 32 cancer groups, 1990 to 2015: a systematic analysis for the Global Burden of Disease study" || 2015 || December 2016 || || ''[[JAMA Oncology]]''
 |-
 | "A subnational analysis of mortality and prevalence of COPD in China from 1990 to 2013" || 2013 || December 2016 || || ''[[Chest (journal)|Chest]]''
+|-
+| "Global, regional, and national comparative risk assessment of 79 behavioral, environmental and occupational, and metabolic risks or clusters of risks, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+|-
+| "Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+|-
+| "Global, regional, and national levels of maternal mortality, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+|-
+| "Global, regional, and national life expectancy, all-cause and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+|-
+| "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries during 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+|-
+| "Global, regional, national, and selected subnational levels of stillbirths, neonatal, infant, and under-5 mortality, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+|-
+| "Dissonant health transition in the states of Mexico, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || October 2016 || || ''[[The Lancet]]''
+|-
+| "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease study 2015" || 2015 || September 2016 || || ''[[The Lancet]]''
+|-
+| "Estimating the burden of disease attributable to injecting drug use as a risk factor for HIV, hepatitis C, and hepatitis B: findings from the Global Burden of Disease Study 2013" || 2013 || September 2016 || || ''[[The Lancet Infectious Diseases]]''
+|-
+| ""
 |}
 
 == See also ==
