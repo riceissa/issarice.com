@@ -259,6 +259,14 @@ TODO figure out how to hide table on load
 |-
 | "Rapid health transition in China, 1990–2010: findings from the Global Burden of Disease Study 2010" || 2010 || June 2013 || || ''[[The Lancet]]''
 |-
+| "Global burden of oral conditions in 1990-2010: a systematic analysis" || 2010 || May 2013 || || ''[[Journal of Dental Research]]''
+|-
+| "UK health performance: findings of the Global Burden of Disease Study 2010" || 2010 || March 2013 || || ''[[The Lancet]]''
+|-
+| "Healthy life expectancy for 187 countries, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
+| "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+|-
 | ""
 |}
 
