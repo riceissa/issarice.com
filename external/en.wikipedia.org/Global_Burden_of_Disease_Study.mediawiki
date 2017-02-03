@@ -187,6 +187,40 @@ TODO figure out how to hide table on load
 |-
 | "Ischemic heart disease worldwide, 1990 to 2013" || 2013 || July 2015 || || ''[[Circulation: Cardiovascular Quality and Outcomes]]''
 |-
+| "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || June 2015 || ''[[The Lancet]]''
+|-
+| "The Global Burden of Cancer 2013" || 2013 || May 2015 || || ''[[JAMA Oncology]]''
+|-
+| "Demographic and epidemiologic drivers of global cardiovascular mortality" || 2013 || April 2015 || || ''[[The New England Journal of Medicine]]''
+|-
+| "Mortality from cardiovascular diseases in sub-Saharan Africa, 1990–2013: a systematic analysis of data from the Global Burden of Disease study 2013: cardiovascular topic" || 2013 || April 2015 || || ''[[Cardiovascular Journal Africa]]''
+|-
+| "Global burden of untreated caries: a systematic review and metaregression" || 2010 || March 2015 || || ''[[Journal of Dental Research]]''
+|-
+| "Deconstructing the differences: a comparison of GBD 2010 and CHERG’s approach to estimating the mortality burden of diarrhea, pneumonia, and their etiologies" || 2010 || January 2015 || || ''[[BMC Infectious Diseases]]''
+|-
+| "Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || December 2014 || || ''[[The Lancet]]''
+|-
+| "The burden of disease in Spain: results from the Global Burden of Disease study 2010" || 2010 || December 2014 || || ''[[BioMed Central]]''
+|-
+| "Global burden of severe periodontitis in 1990-2010: a systematic review and meta-regression" || 2010 || September 2014 || || ''[[Journal of Dental Research]]''
+|-
+| "Liver cirrhosis mortality in 187 countries between 1980 and 2010: a systematic analysis" || 2010 || September 2014 || || ''[[BMC Medicine]]''
+|-
+| "The Global Burden of Disease Study 2010: Interpretation and implications for the neglected tropical diseases" || 2010 || July 2014 || || ''[[PLOS Neglected Tropical Diseases]]''
+|-
+| "Global, regional, and national incidence and mortality for HIV, tuberculosis, and malaria during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || July 2014 || || ''[[The Lancet]]''
+|-
+| "Burden of injuries avertable by a basic surgical package in low- and middle-income regions: a systematic analysis from the Global Burden of Disease 2010 Study" || 2010 || July 2014 || || ''[[World Journal of Surgery]]''
+|-
+| "Comparing cutaneous research funded by the National Institute of Arthritis and Musculoskeletal and Skin Diseases with 2010 Global Burden of Disease results" || 2010 || July 2014 || || ''[[PLOS ONE]]''
+|-
+| "Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || May 2014 || || ''[[The Lancet]]''
+|-
+| "Population health and burden of disease profile of Iran among 20 countries in the region: from Afghanistan to Qatar and Lebanon" || 2010 || May 2014 || || ''[[Archives of Iranian Medicine]]''
+|-
+| "Evaluating causes of death and morbidity in Iran, Global Burden of Diseases, Injuries, and Risk Factors Study 2010" || 2010 || May 2014 || || ''[[Archives of Iranian Medicine]]''
+|-
 | ""
 |}
 
