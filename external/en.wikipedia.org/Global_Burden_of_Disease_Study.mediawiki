@@ -149,6 +149,14 @@ TODO figure out how to hide table on load
 |-
 | "Stroke prevalence, mortality and disability-adjusted life years in children and youth aged 0–19 years: Data from the global and regional burden of stroke 2013" || 2013 || January 2016 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
+| "The global burden of injury: incidence, mortality, disability-adjusted life years and time trends from the Global Burden of Disease study 2013" || 2013 || December 2015 || || ''[[Injury Prevention (journal)|Injury Prevention]]''
+|-
+| "Ambient air pollution exposure estimation for the Global Burden of Disease 2013" || 2013 || November 2015 || || ''[[Environmental Science & Technology]]''
+|-
+| "Estimating distributions of health state severity for the Global Burden of Disease study" || 2013 || November 2015 || || ''[[Population Health Metrics]]''
+|-
+| "Stroke prevalence, mortality and disability-adjusted life years in adults aged 20–64 years in 1990–2013: Data from the Global Burden of Disease 2013 study" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+|-
 | ""
 |}
 
