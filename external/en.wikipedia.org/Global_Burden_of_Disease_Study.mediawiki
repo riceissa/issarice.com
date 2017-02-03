@@ -84,6 +84,12 @@ The World Health Organization did not acknowledge the GBD 2010 estimates.<ref na
 
 ==Publications==
 
+TODO get citation link from http://www.healthdata.org/results/research-articles
+
+TODO check correspondence with The Lancet website
+
+TODO figure out how to hide table on load
+
 {| class="sortable wikitable"
 |-
 ! Title !! Corresponding GBD !! Publication date !! Type !! Venue
