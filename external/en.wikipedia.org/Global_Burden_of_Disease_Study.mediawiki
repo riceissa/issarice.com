@@ -84,204 +84,202 @@ The World Health Organization did not acknowledge the GBD 2010 estimates.<ref na
 
 ==Publications==
 
-TODO get citation link from http://www.healthdata.org/results/research-articles
-
-TODO check correspondence with The Lancet website
+The following is a table of GBD publications {{as of|2017|02|lc=y}}.<ref>{{cite web |url=http://www.healthdata.org/results/research-articles?field_topics_tid=All&field_publication_date_value%5Bvalue%5D%5Byear%5D=&field_people_target_id=All&field_health_conditions_tid=All&field_risk_factors_tid=All&field_geography_global_tid=All&field_project_list_tid=191 |title=Research Articles - Project: Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) |accessdate=February 2, 2017 |publisher=[[Institute for Health Metrics and Evaluation]]}}</ref><ref>{{cite web |url=http://thelancet.com/gbd |title=Lancet Global Burden of Disease |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref><ref>{{cite web |url=http://thelancet.com/gbd/2013 |title=Lancet Global Burden of Disease Study 2013 |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref><ref>{{cite web |url=http://thelancet.com/gbd/2010 |title=Lancet Global Burden of Disease Study 2010 |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref>
 
 {| class="sortable wikitable mw-collapsible mw-collapsed"
 |-
 ! Title !! Corresponding GBD !! Publication date !! Type !! Venue
 |-
-| "The burden of mental disorders in the Eastern Mediterranean Region, 1990–2013" || 2013 || January 2017 || || ''[[PLOS ONE]]''
+| "The burden of mental disorders in the Eastern Mediterranean Region, 1990–2013" || 2013 || {{Dts|January 2017}} || || ''[[PLOS ONE]]''
 |-
-| "Global burden of hypertension and systolic blood pressure of at least 110 to 115 mmHg, 1990–2015" || 2015 || January 2017 || || ''[[JAMA (journal)|JAMA]]''
+| "Global burden of hypertension and systolic blood pressure of at least 110 to 115 mmHg, 1990–2015" || 2015 || {{Dts|January 2017}} || || ''[[JAMA (journal)|JAMA]]''
 |-
 |-
-| "The Global Burden of Disease study and the preventable burden of NCD" || || December 2016 || || ''Global Heart''
+| "The Global Burden of Disease study and the preventable burden of NCD" || || {{Dts|December 2016}} || || ''Global Heart''
 |-
-| "Global, regional, and national cancer incidence, mortality, years of life lost, years lived with disability, and disability-adjusted life years for 32 cancer groups, 1990 to 2015: a systematic analysis for the Global Burden of Disease study" || 2015 || December 2016 || || ''[[JAMA Oncology]]''
+| "Global, regional, and national cancer incidence, mortality, years of life lost, years lived with disability, and disability-adjusted life years for 32 cancer groups, 1990 to 2015: a systematic analysis for the Global Burden of Disease study" || 2015 || {{Dts|December 2016}} || || ''[[JAMA Oncology]]''
 |-
-| "A subnational analysis of mortality and prevalence of COPD in China from 1990 to 2013" || 2013 || December 2016 || || ''[[Chest (journal)|Chest]]''
+| "A subnational analysis of mortality and prevalence of COPD in China from 1990 to 2013" || 2013 || {{Dts|December 2016}} || || ''[[Chest (journal)|Chest]]''
 |-
-| "Global, regional, and national comparative risk assessment of 79 behavioral, environmental and occupational, and metabolic risks or clusters of risks, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+| "Global, regional, and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
-| "Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+| "Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
-| "Global, regional, and national levels of maternal mortality, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+| "Global, regional, and national levels of maternal mortality, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
-| "Global, regional, and national life expectancy, all-cause and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+| "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
-| "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries during 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+| "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
-| "Global, regional, national, and selected subnational levels of stillbirths, neonatal, infant, and under-5 mortality, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || October 2016 || || ''[[The Lancet]]''
+| "Global, regional, national, and selected subnational levels of stillbirths, neonatal, infant, and under-5 mortality, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
-| "Dissonant health transition in the states of Mexico, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || October 2016 || || ''[[The Lancet]]''
+| "Dissonant health transition in the states of Mexico, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
-| "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease study 2015" || 2015 || September 2016 || || ''[[The Lancet]]''
+| "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease study 2015" || 2015 || {{Dts|September 2016}} || || ''[[The Lancet]]''
 |-
-| "Estimating the burden of disease attributable to injecting drug use as a risk factor for HIV, hepatitis C, and hepatitis B: findings from the Global Burden of Disease Study 2013" || 2013 || September 2016 || || ''[[The Lancet Infectious Diseases]]''
+| "Estimating the burden of disease attributable to injecting drug use as a risk factor for HIV, hepatitis C, and hepatitis B: findings from the Global Burden of Disease Study 2013" || 2013 || {{Dts|September 2016}} || || ''[[The Lancet Infectious Diseases]]''
 |-
-| "Health in times of uncertainty in the Eastern Mediterranean region, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || August 2016 || || ''[[The Lancet Global Health]]''
+| "Health in times of uncertainty in the Eastern Mediterranean region, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|August 2016}} || || ''[[The Lancet Global Health]]''
 |-
-| "Physical activity and risk of breast cancer, colon cancer, diabetes, ischemic heart disease, and ischemic stroke events: systematic review and dose-response meta-analysis for the Global Burden of Disease Study 2013" || 2013 || August 2016 || || ''[[The BMJ]]''
+| "Physical activity and risk of breast cancer, colon cancer, diabetes, ischemic heart disease, and ischemic stroke events: systematic review and dose-response meta-analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|August 2016}} || || ''[[The BMJ]]''
 |-
-| "Prevention of stroke: a strategic global imperative" || 2013 || July 2016 || || ''[[Nature Reviews Neurology]]''
+| "Prevention of stroke: a strategic global imperative" || 2013 || {{Dts|July 2016}} || || ''[[Nature Reviews Neurology]]''
 |-
-| "Estimates of global, regional, and national incidence, prevalence, and mortality of HIV, 1980–2015: the Global Burden of Disease Study 2015" || 2015 || July 2016 || || ''[[The Lancet HIV]]''
+| "Estimates of global, regional, and national incidence, prevalence, and mortality of HIV, 1980–2015: the Global Burden of Disease Study 2015" || 2015 || {{Dts|July 2016}} || || ''[[The Lancet HIV]]''
 |-
-| "The global burden of viral hepatitis from 1990 to 2013: findings from the Global Burden of Disease Study 2013" || 2013 || July 2016 || || ''[[The Lancet]]''
+| "The global burden of viral hepatitis from 1990 to 2013: findings from the Global Burden of Disease Study 2013" || 2013 || {{Dts|July 2016}} || || ''[[The Lancet]]''
 |-
-| "Global burden of stroke and risk factors in 188 countries, during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || June 2016 || || ''[[The Lancet Neurology]]''
+| "Global burden of stroke and risk factors in 188 countries, during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|June 2016}} || || ''[[The Lancet Neurology]]''
 |-
-| "The burden of mental, neurological, and substance use disorders in China and India: a systematic analysis of community representative epidemiological studies" || 2013 || May 2016 || || ''[[The Lancet]]''
+| "The burden of mental, neurological, and substance use disorders in China and India: a systematic analysis of community representative epidemiological studies" || 2013 || {{Dts|May 2016}} || || ''[[The Lancet]]''
 |-
-| "The global economic burden of dengue: a systematic analysis" || 2013 || April 2016 || || ''[[The Lancet Infectious Diseases]]''
+| "The global economic burden of dengue: a systematic analysis" || 2013 || {{Dts|April 2016}} || || ''[[The Lancet Infectious Diseases]]''
 |-
-| "The burden of cancer in Mexico, 1990–2013" || 2013 || March 2016 || || ''[[Salud Publica de Mexico]]''
+| "The burden of cancer in Mexico, 1990–2013" || 2013 || {{Dts|March 2016}} || || ''[[Salud Publica de Mexico]]''
 |-
-| "Global burden of cutaneous leishmaniasis: a cross-sectional analysis from the Global Burden of Disease study 2013" || 2013 || February 2016 || || ''[[The Lancet Infectious Diseases]]''
+| "Global burden of cutaneous leishmaniasis: a cross-sectional analysis from the Global Burden of Disease study 2013" || 2013 || {{Dts|February 2016}} || || ''[[The Lancet Infectious Diseases]]''
 |-
-| "The global burden of dengue: an analysis from the Global Burden of Disease study 2013" || 2013 || February 2016 || || ''[[The Lancet Infectious Diseases]]''
+| "The global burden of dengue: an analysis from the Global Burden of Disease study 2013" || 2013 || {{Dts|February 2016}} || || ''[[The Lancet Infectious Diseases]]''
 |-
-| "Global and national burden of diseases and injuries among children and adolescents between 1990 and 2013: Findings from the Global Burden of Disease 2013 study" || 2013 || January 2016 || || ''[[JAMA Pediatrics]]''
+| "Global and national burden of diseases and injuries among children and adolescents between 1990 and 2013: Findings from the Global Burden of Disease 2013 study" || 2013 || {{Dts|January 2016}} || || ''[[JAMA Pediatrics]]''
 |-
-| "Stroke prevalence, mortality and disability-adjusted life years in children and youth aged 0–19 years: Data from the global and regional burden of stroke 2013" || 2013 || January 2016 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+| "Stroke prevalence, mortality and disability-adjusted life years in children and youth aged 0–19 years: Data from the global and regional burden of stroke 2013" || 2013 || {{Dts|January 2016}} || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
-| "The global burden of injury: incidence, mortality, disability-adjusted life years and time trends from the Global Burden of Disease study 2013" || 2013 || December 2015 || || ''[[Injury Prevention (journal)|Injury Prevention]]''
+| "The global burden of injury: incidence, mortality, disability-adjusted life years and time trends from the Global Burden of Disease study 2013" || 2013 || {{Dts|December 2015}} || || ''[[Injury Prevention (journal)|Injury Prevention]]''
 |-
-| "Ambient air pollution exposure estimation for the Global Burden of Disease 2013" || 2013 || November 2015 || || ''[[Environmental Science & Technology]]''
+| "Ambient air pollution exposure estimation for the Global Burden of Disease 2013" || 2013 || {{Dts|November 2015}} || || ''[[Environmental Science & Technology]]''
 |-
-| "Estimating distributions of health state severity for the Global Burden of Disease study" || 2013 || November 2015 || || ''[[Population Health Metrics]]''
+| "Estimating distributions of health state severity for the Global Burden of Disease study" || 2013 || {{Dts|November 2015}} || || ''[[Population Health Metrics]]''
 |-
-| "Stroke prevalence, mortality and disability-adjusted life years in adults aged 20–64 years in 1990–2013: Data from the Global Burden of Disease 2013 study" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+| "Stroke prevalence, mortality and disability-adjusted life years in adults aged 20–64 years in 1990–2013: Data from the Global Burden of Disease 2013 study" || 2013 || {{Dts|October 2015}} || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
-| "Update on the global burden of ischemic and hemorrhagic stroke in 1990–2013: the GBD 2013 study" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+| "Update on the global burden of ischemic and hemorrhagic stroke in 1990–2013: the GBD 2013 study" || 2013 || {{Dts|October 2015}} || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
-| "Atlas of the global burden of stroke (1990–2013): The GBD 2013 Study" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+| "Atlas of the global burden of stroke (1990–2013): The GBD 2013 Study" || 2013 || {{Dts|October 2015}} || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
-| "Sex differences in stroke incidence, prevalence, mortality and disability-adjusted life years: Results from the Global Burden of Disease study 2013" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+| "Sex differences in stroke incidence, prevalence, mortality and disability-adjusted life years: Results from the Global Burden of Disease study 2013" || 2013 || {{Dts|October 2015}} || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
-| "Global and regional patterns in cardiovascular mortality from 1990 to 2013" || 2013 || October 2015 || || ''[[Circulation (journal)|Circulation]]''
+| "Global and regional patterns in cardiovascular mortality from 1990 to 2013" || 2013 || {{Dts|October 2015}} || || ''[[Circulation (journal)|Circulation]]''
 |-
-| "Cause-specific mortality for 240 causes in China during 1990–2013: a systematic subnational analysis for the Global Burden of Disease Study 2013" || 2013 || October 2015 || || ''[[The Lancet]]''
+| "Cause-specific mortality for 240 causes in China during 1990–2013: a systematic subnational analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|October 2015}} || || ''[[The Lancet]]''
 |-
-| "Under-5 mortality in 2,851 Chinese counties, 1996–2012: a subnational assessment of achieving MDG 4 goals in China" || October 2015 || || ''[[The Lancet]]''
+| "Under-5 mortality in 2,851 Chinese counties, 1996–2012: a subnational assessment of achieving MDG 4 goals in China" || || {{Dts|October 2015}} || || ''[[The Lancet]]''
 |-
-| "Disability weights for the Global Burden of Disease 2013 study" || 2013 || October 2015 || || ''[[The Lancet]]''
+| "Disability weights for the Global Burden of Disease 2013 study" || 2013 || {{Dts|October 2015}} || || ''[[The Lancet]]''
 |-
-| "Methods for estimating the global burden of cerebrovascular diseases" || 2013 || October 2015 || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
+| "Methods for estimating the global burden of cerebrovascular diseases" || 2013 || {{Dts|October 2015}} || || ''[[Neuroepidemiology (journal)|Neuroepidemiology]]''
 |-
-| "Estimates of global and regional premature cardiovascular mortality in 2025" || 2013 || September 2015 || || ''[[Circulation (journal)|Circulation]]''
+| "Estimates of global and regional premature cardiovascular mortality in 2025" || 2013 || {{Dts|September 2015}} || || ''[[Circulation (journal)|Circulation]]''
 |-
-| "Changes in health in England, with analysis by English regions and areas of deprivation, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || September 2015 || || ''[[The Lancet]]''
+| "Changes in health in England, with analysis by English regions and areas of deprivation, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|September 2015}} || || ''[[The Lancet]]''
 |-
-| "Global, regional, and national comparative risk assessment of 79 behavioral, environmental and occupational, and metabolic risks or clusters of risks in 188 countries, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || September 2015 || || ''[[The Lancet]]''
+| "Global, regional, and national comparative risk assessment of 79 behavioral, environmental and occupational, and metabolic risks or clusters of risks in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|September 2015}} || || ''[[The Lancet]]''
 |-
-| "Benchmarking health system performance across states in Nigeria: a systematic analysis of levels and trends in key maternal and child health interventions and outcomes, 2000–2013" || 2013 || September 2015 || || ''[[BMC Medicine]]''
+| "Benchmarking health system performance across states in Nigeria: a systematic analysis of levels and trends in key maternal and child health interventions and outcomes, 2000–2013" || 2013 || {{Dts|September 2015}} || || ''[[BMC Medicine]]''
 |-
-| "Global, regional, and national disability-adjusted life years (DALYs) for 306 diseases and injuries and healthy life expectancy (HALE) for 188 countries, 1990–2013: quantifying the epidemiological transition" || 2013 || August 2015 || || ''[[The Lancet]]''
+| "Global, regional, and national disability-adjusted life years (DALYs) for 306 diseases and injuries and healthy life expectancy (HALE) for 188 countries, 1990–2013: quantifying the epidemiological transition" || 2013 || {{Dts|August 2015}} || || ''[[The Lancet]]''
 |-
-| "Maintenance dialysis throughout the world in years 1990 and 2010" || 2010 || July 2015 || || ''JASN''
+| "Maintenance dialysis throughout the world in years 1990 and 2010" || 2010 || {{Dts|July 2015}} || || ''JASN''
 |-
-| "Ischemic heart disease worldwide, 1990 to 2013" || 2013 || July 2015 || || ''[[Circulation: Cardiovascular Quality and Outcomes]]''
+| "Ischemic heart disease worldwide, 1990 to 2013" || 2013 || {{Dts|July 2015}} || || ''[[Circulation: Cardiovascular Quality and Outcomes]]''
 |-
-| "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || June 2015 || || ''[[The Lancet]]''
+| "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|June 2015}} || || ''[[The Lancet]]''
 |-
-| "The Global Burden of Cancer 2013" || 2013 || May 2015 || || ''[[JAMA Oncology]]''
+| "The Global Burden of Cancer 2013" || 2013 || {{Dts|May 2015}} || || ''[[JAMA Oncology]]''
 |-
-| "Demographic and epidemiologic drivers of global cardiovascular mortality" || 2013 || April 2015 || || ''[[The New England Journal of Medicine]]''
+| "Demographic and epidemiologic drivers of global cardiovascular mortality" || 2013 || {{Dts|April 2015}} || || ''[[The New England Journal of Medicine]]''
 |-
-| "Mortality from cardiovascular diseases in sub-Saharan Africa, 1990–2013: a systematic analysis of data from the Global Burden of Disease study 2013: cardiovascular topic" || 2013 || April 2015 || || ''[[Cardiovascular Journal Africa]]''
+| "Mortality from cardiovascular diseases in sub-Saharan Africa, 1990–2013: a systematic analysis of data from the Global Burden of Disease study 2013: cardiovascular topic" || 2013 || {{Dts|April 2015}} || || ''[[Cardiovascular Journal Africa]]''
 |-
-| "Global burden of untreated caries: a systematic review and metaregression" || 2010 || March 2015 || || ''[[Journal of Dental Research]]''
+| "Global burden of untreated caries: a systematic review and metaregression" || 2010 || {{Dts|March 2015}} || || ''[[Journal of Dental Research]]''
 |-
-| "Deconstructing the differences: a comparison of GBD 2010 and CHERG’s approach to estimating the mortality burden of diarrhea, pneumonia, and their etiologies" || 2010 || January 2015 || || ''[[BMC Infectious Diseases]]''
+| "Deconstructing the differences: a comparison of GBD 2010 and CHERG’s approach to estimating the mortality burden of diarrhea, pneumonia, and their etiologies" || 2010 || {{Dts|January 2015}} || || ''[[BMC Infectious Diseases]]''
 |-
-| "Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || December 2014 || || ''[[The Lancet]]''
+| "Global, regional, and national age–sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|December 2014}} || || ''[[The Lancet]]''
 |-
-| "The burden of disease in Spain: results from the Global Burden of Disease study 2010" || 2010 || December 2014 || || ''[[BioMed Central]]''
+| "The burden of disease in Spain: results from the Global Burden of Disease study 2010" || 2010 || {{Dts|December 2014}} || || ''[[BioMed Central]]''
 |-
-| "Global burden of severe periodontitis in 1990-2010: a systematic review and meta-regression" || 2010 || September 2014 || || ''[[Journal of Dental Research]]''
+| "Global burden of severe periodontitis in 1990–2010: a systematic review and meta-regression" || 2010 || {{Dts|September 2014}} || || ''[[Journal of Dental Research]]''
 |-
-| "Liver cirrhosis mortality in 187 countries between 1980 and 2010: a systematic analysis" || 2010 || September 2014 || || ''[[BMC Medicine]]''
+| "Liver cirrhosis mortality in 187 countries between 1980 and 2010: a systematic analysis" || 2010 || {{Dts|September 2014}} || || ''[[BMC Medicine]]''
 |-
-| "The Global Burden of Disease Study 2010: Interpretation and implications for the neglected tropical diseases" || 2010 || July 2014 || || ''[[PLOS Neglected Tropical Diseases]]''
+| "The Global Burden of Disease Study 2010: Interpretation and implications for the neglected tropical diseases" || 2010 || {{Dts|July 2014}} || || ''[[PLOS Neglected Tropical Diseases]]''
 |-
-| "Global, regional, and national incidence and mortality for HIV, tuberculosis, and malaria during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || July 2014 || || ''[[The Lancet]]''
+| "Global, regional, and national incidence and mortality for HIV, tuberculosis, and malaria during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|July 2014}} || || ''[[The Lancet]]''
 |-
-| "Burden of injuries avertable by a basic surgical package in low- and middle-income regions: a systematic analysis from the Global Burden of Disease 2010 Study" || 2010 || July 2014 || || ''[[World Journal of Surgery]]''
+| "Burden of injuries avertable by a basic surgical package in low- and middle-income regions: a systematic analysis from the Global Burden of Disease 2010 Study" || 2010 || {{Dts|July 2014}} || || ''[[World Journal of Surgery]]''
 |-
-| "Comparing cutaneous research funded by the National Institute of Arthritis and Musculoskeletal and Skin Diseases with 2010 Global Burden of Disease results" || 2010 || July 2014 || || ''[[PLOS ONE]]''
+| "Comparing cutaneous research funded by the National Institute of Arthritis and Musculoskeletal and Skin Diseases with 2010 Global Burden of Disease results" || 2010 || {{Dts|July 2014}} || || ''[[PLOS ONE]]''
 |-
-| "Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || May 2014 || || ''[[The Lancet]]''
+| "Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|May 2014}} || || ''[[The Lancet]]''
 |-
-| "Population health and burden of disease profile of Iran among 20 countries in the region: from Afghanistan to Qatar and Lebanon" || 2010 || May 2014 || || ''[[Archives of Iranian Medicine]]''
+| "Population health and burden of disease profile of Iran among 20 countries in the region: from Afghanistan to Qatar and Lebanon" || 2010 || {{Dts|May 2014}} || || ''[[Archives of Iranian Medicine]]''
 |-
-| "Evaluating causes of death and morbidity in Iran, Global Burden of Diseases, Injuries, and Risk Factors Study 2010" || 2010 || May 2014 || || ''[[Archives of Iranian Medicine]]''
+| "Evaluating causes of death and morbidity in Iran, Global Burden of Diseases, Injuries, and Risk Factors Study 2010" || 2010 || {{Dts|May 2014}} || || ''[[Archives of Iranian Medicine]]''
 |-
-| "Health transition in Iran toward chronic diseases based on results of Global Burden of Disease 2010" || 2010 || May 2014 || || ''[[Archives of Iranian Medicine]]''
+| "Health transition in Iran toward chronic diseases based on results of Global Burden of Disease 2010" || 2010 || {{Dts|May 2014}} || || ''[[Archives of Iranian Medicine]]''
 |-
-| "Global, regional, and national levels of neonatal, infant, and under-5 mortality during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || May 2014 || || ''[[The Lancet]]''
+| "Global, regional, and national levels of neonatal, infant, and under-5 mortality during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|May 2014}} || || ''[[The Lancet]]''
 |-
-| "Global, regional, and national levels and causes of maternal mortality during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || May 2014 || || ''[[The Lancet]]''
+| "Global, regional, and national levels and causes of maternal mortality during 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|May 2014}} || || ''[[The Lancet]]''
 |-
-| "Temporal trends in ischemic heart disease mortality in 21 world regions, 1980-2010: the Global Burden of Disease 2010 Study" || 2010 || February 2014 || || ''[[Circulation (journal)|Circulation]]''
+| "Temporal trends in ischemic heart disease mortality in 21 world regions, 1980–2010: the Global Burden of Disease 2010 Study" || 2010 || {{Dts|February 2014}} || || ''[[Circulation (journal)|Circulation]]''
 |-
-| "The global burden of ischemic heart disease in 1990 and 2010: the Global Burden of Disease 2010 Study" || 2010 || February 2014 || || ''[[Circulation (journal)|Circulation]]''
+| "The global burden of ischemic heart disease in 1990 and 2010: the Global Burden of Disease 2010 Study" || 2010 || {{Dts|February 2014}} || || ''[[Circulation (journal)|Circulation]]''
 |-
-| "The state of health in the Arab world, 1990—2010: an analysis of the burden of diseases, injuries, and risk factors" || 2010 || January 2014 || || ''[[The Lancet]]''
+| "The state of health in the Arab world, 1990–2010: an analysis of the burden of diseases, injuries, and risk factors" || 2010 || {{Dts|January 2014}} || || ''[[The Lancet]]''
 |-
-| "Smoking prevalence and cigarette consumption in 187 countries, 1980–2012" || || January 2014 || || ''[[Journal of the American Medical Association]]''
+| "Smoking prevalence and cigarette consumption in 187 countries, 1980–2012" || 2013 || {{Dts|January 2014}} || || ''[[Journal of the American Medical Association]]''
 |-
-| "Global, regional and national sodium intakes in 1990 and 2010: a systematic analysis of 24 h urinary sodium excretion and dietary surveys worldwide" || 2010 || December 2013 || || ''[[BMJ Open]]''
+| "Global, regional and national sodium intakes in 1990 and 2010: a systematic analysis of 24 h urinary sodium excretion and dietary surveys worldwide" || 2010 || {{Dts|December 2013}} || || ''[[BMJ Open]]''
 |-
-| "The global burden of skin disease in 2010: an analysis of the prevalence and impact of skin conditions" || 2010 || November 2013 || || ''[[Journal of Investigative Dermatology]]''
+| "The global burden of skin disease in 2010: an analysis of the prevalence and impact of skin conditions" || 2010 || {{Dts|November 2013}} || || ''[[Journal of Investigative Dermatology]]''
 |-
-| "Global burden of disease attributable to mental and substance use disorders: findings from the Global Burden of Disease Study 2010" || 2010 || November 2013 || || ''[[The Lancet]]''
+| "Global burden of disease attributable to mental and substance use disorders: findings from the Global Burden of Disease Study 2010" || 2010 || {{Dts|November 2013}} || || ''[[The Lancet]]''
 |-
-| "Burden of depressive disorders by country, sex, age, and year: findings from the Global Burden of Disease Study 2010" || 2010 || November 2013 || || ''[[PLoS Medicine]]''
+| "Burden of depressive disorders by country, sex, age, and year: findings from the Global Burden of Disease Study 2010" || 2010 || {{Dts|November 2013}} || || ''[[PLoS Medicine]]''
 |-
-| "Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990–2010: findings from the Global Burden of Disease Study 2010" || 2010 || October 2013 || || ''[[The Lancet]]''
+| "Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990–2010: findings from the Global Burden of Disease Study 2010" || 2010 || {{Dts|October 2013}} || || ''[[The Lancet]]''
 |-
-| "A systematic analysis of global anemia burden from 1990 to 2010" || 2010 || October 2013 || || ''[[Blood (journal)|Blood]]''
+| "A systematic analysis of global anemia burden from 1990 to 2010" || 2010 || {{Dts|October 2013}} || || ''[[Blood (journal)|Blood]]''
 |-
-| "Global burden of disease attributable to illicit drug use and dependence: findings from the Global Burden of Disease Study 2010" || 2010 || August 2013 || || ''[[The Lancet]]''
+| "Global burden of disease attributable to illicit drug use and dependence: findings from the Global Burden of Disease Study 2010" || 2010 || {{Dts|August 2013}} || || ''[[The Lancet]]''
 |-
-| "The burden of HIV: insights from the Global Burden of Disease Study 2010" || 2010 || August 2013 || || ''[[AIDS (journal)|AIDS]]''
+| "The burden of HIV: insights from the Global Burden of Disease Study 2010" || 2010 || {{Dts|August 2013}} || || ''[[AIDS (journal)|AIDS]]''
 |-
-| "Measuring the Global Burden of Disease" || 2010 || August 2013 || || ''[[New England Journal of Medicine]]''
+| "Measuring the Global Burden of Disease" || 2010 || {{Dts|August 2013}} || || ''[[New England Journal of Medicine]]''
 |-
-| "The state of US health, 1990-2010: burden of diseases, injuries, and risk factors" || 2010 || July 2013 || || ''[[Journal of the American Medical Association]]''
+| "The state of US health, 1990–2010: burden of diseases, injuries, and risk factors" || 2010 || {{Dts|July 2013}} || || ''[[Journal of the American Medical Association]]''
 |-
-| "The global prevalence of intimate partner violence against women" || || June 2013 || || ''[[Science (journal)|Science]]''
+| "The global prevalence of intimate partner violence against women" || || {{Dts|June 2013}} || || ''[[Science (journal)|Science]]''
 |-
-| "Rapid health transition in China, 1990–2010: findings from the Global Burden of Disease Study 2010" || 2010 || June 2013 || || ''[[The Lancet]]''
+| "Rapid health transition in China, 1990–2010: findings from the Global Burden of Disease Study 2010" || 2010 || {{Dts|June 2013}} || || ''[[The Lancet]]''
 |-
-| "Global burden of oral conditions in 1990-2010: a systematic analysis" || 2010 || May 2013 || || ''[[Journal of Dental Research]]''
+| "Global burden of oral conditions in 1990–2010: a systematic analysis" || 2010 || {{Dts|May 2013}} || || ''[[Journal of Dental Research]]''
 |-
-| "UK health performance: findings of the Global Burden of Disease Study 2010" || 2010 || March 2013 || || ''[[The Lancet]]''
+| "UK health performance: findings of the Global Burden of Disease Study 2010" || 2010 || {{Dts|March 2013}} || || ''[[The Lancet]]''
 |-
-| "Healthy life expectancy for 187 countries, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "Healthy life expectancy for 187 countries, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "Disability‐adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "Years lived with disability (YLDs) for 1,160 sequelae of 289 diseases and injuries, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "Years lived with disability (YLDs) for 1,160 sequelae of 289 diseases and injuries, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "Age‐specific and sex‐specific mortality in 187 countries, 1970–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || December 2012 || || ''[[The Lancet]]''
+| "Age-specific and sex-specific mortality in 187 countries, 1970–2010: a systematic analysis for the Global Burden of Disease Study 2010" || 2010 || {{Dts|December 2012}} || || ''[[The Lancet]]''
 |-
-| "Global malaria mortality between 1980 and 2010: a systematic analysis" || 2010? || February 2012 || || ''[[The Lancet]]''
+| "Global malaria mortality between 1980 and 2010: a systematic analysis" || 2010? || {{Dts|February 2012}} || || ''[[The Lancet]]''
 |-
-| "National, regional, and global trends in systolic blood pressure since 1980: systematic analysis of health examination surveys and epidemiological studies with 786 country-years and 5.4 million participants" || || February 2011 || || ''[[The Lancet]]''
+| "National, regional, and global trends in systolic blood pressure since 1980: systematic analysis of health examination surveys and epidemiological studies with 786 country-years and 5.4 million participants" || || {{Dts|February 2011}} || || ''[[The Lancet]]''
 |-
-| "The burden of injuries in Iranian children in 2005" || || March 2010 || || ''[[Population Health Metrics]]''
+| "The burden of injuries in Iranian children in 2005" || || {{Dts|March 2010}} || || ''[[Population Health Metrics]]''
 |}
 
 == See also ==
