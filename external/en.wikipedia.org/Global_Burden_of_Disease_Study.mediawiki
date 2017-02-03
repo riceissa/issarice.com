@@ -89,6 +89,15 @@ The World Health Organization did not acknowledge the GBD 2010 estimates.<ref na
 ! Title !! Corresponding GBD !! Publication date !! Type !! Venue
 |-
 | "The burden of mental disorders in the Eastern Mediterranean Region, 1990–2013" || 2013 || January 2017 || ''[[PLOS ONE]]''
+|-
+| "Global burden of hypertension and systolic blood pressure of at least 110 to 115 mmHg, 1990–2015" || 2015 || January 2017 || || ''[[JAMA (journal)|JAMA]]''
+|-
+|-
+| "The Global Burden of Disease study and the preventable burden of NCD" || || December 2016 || || ''Global Heart''
+|-
+| "Global, regional, and national cancer incidence, mortality, years of life lost, years lived with disability, and disability-adjusted life years for 32 cancer groups, 1990 to 2015: a systematic analysis for the Global Burden of Disease study" || 2015 || December 2016 || || ''[[JAMA Oncology]]''
+|-
+| "A subnational analysis of mortality and prevalence of COPD in China from 1990 to 2013" || 2013 || December 2016 || || ''[[Chest (journal)|Chest]]''
 |}
 
 == See also ==
