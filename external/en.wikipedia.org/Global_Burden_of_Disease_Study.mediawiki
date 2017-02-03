@@ -131,6 +131,14 @@ The World Health Organization did not acknowledge the GBD 2010 estimates.<ref na
 |-
 | "The burden of mental, neurological, and substance use disorders in China and India: a systematic analysis of community representative epidemiological studies" || 2013 || May 2016 || || ''[[The Lancet]]''
 |-
+| "The global economic burden of dengue: a systematic analysis" || 2013 || April 2016 || || ''[[The Lancet Infectious Diseases]]''
+|-
+| "The burden of cancer in Mexico, 1990–2013" || 2013 || March 2016 || || ''[[Salud Publica de Mexico]]''
+|-
+| "Global burden of cutaneous leishmaniasis: a cross-sectional analysis from the Global Burden of Disease study 2013" || 2013 || February 2016 || || ''[[The Lancet Infectious Diseases]]''
+|-
+| "The global burden of dengue: an analysis from the Global Burden of Disease study 2013" || 2013 || February 2016 || || ''[[The Lancet Infectious Diseases]]''
+|-
 | ""
 |}
 
