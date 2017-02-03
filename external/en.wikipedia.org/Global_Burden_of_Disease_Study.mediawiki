@@ -229,6 +229,22 @@ TODO figure out how to hide table on load
 |-
 | "Temporal trends in ischemic heart disease mortality in 21 world regions, 1980-2010: the Global Burden of Disease 2010 Study" || 2010 || February 2014 || || ''[[Circulation (journal)|Circulation]]''
 |-
+| "The global burden of ischemic heart disease in 1990 and 2010: the Global Burden of Disease 2010 Study" || 2010 || February 2014 || || ''[[Circulation (journal)|Circulation]]''
+|-
+| "The state of health in the Arab world, 1990—2010: an analysis of the burden of diseases, injuries, and risk factors" || 2010 || January 2014 || || ''[[The Lancet]]''
+|-
+| "Smoking prevalence and cigarette consumption in 187 countries, 1980–2012" || || January 2014 || || ''[[Journal of the American Medical Association]]''
+|-
+| "Global, regional and national sodium intakes in 1990 and 2010: a systematic analysis of 24 h urinary sodium excretion and dietary surveys worldwide" || 2010 || December 2013 || || ''[[BMJ Open]]''
+|-
+| "The global burden of skin disease in 2010: an analysis of the prevalence and impact of skin conditions" || 2010 || November 2013 || || ''[[Journal of Investigative Dermatology]]''
+|-
+| "Global burden of disease attributable to mental and substance use disorders: findings from the Global Burden of Disease Study 2010" || 2010 || November 2013 || || ''[[The Lancet]]''
+|-
+| "Burden of depressive disorders by country, sex, age, and year: findings from the Global Burden of Disease Study 2010" || 2010 || November 2013 || || ''[[PLoS Medicine]]''
+|-
+| "Global and regional burden of first-ever ischaemic and haemorrhagic stroke during 1990–2010: findings from the Global Burden of Disease Study 2010"
+|-
 | ""
 |}
 
