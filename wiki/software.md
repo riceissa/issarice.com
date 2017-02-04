@@ -48,6 +48,8 @@ This page is a placeholder for now.
 - GNU userland, mainly because that's what comes with Debian and Ubuntu and
   what I'm most used to.
   I also install moreutils for `sponge`.
+- LibreOffice Calc for converting between CSV and XLS.
+  I know almost nothing about it, but it seems to do what I want.
 
 Programs in trial mode:
 
