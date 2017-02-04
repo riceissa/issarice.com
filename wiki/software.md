@@ -55,6 +55,9 @@ Programs in trial mode:
 - ag
 - mupdf
 - `mpsyt`
+- urxvt
+- arbtt
+- Emacs org mode
 
 # See also
 
