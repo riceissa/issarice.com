@@ -1,3 +1,4 @@
+__INDEX__
 The '''Global Burden of Disease Study''' ('''GBD''') is a comprehensive regional and global research program of [[disease burden]] that assesses [[death|mortality]] and [[disability]] from major diseases, injuries, and [[risk factor]]s. GBD is a collaboration of over 1,800 researchers from 127 countries. Under principal investigator [[Christopher J.L. Murray]], GBD is based out of the [[Institute for Health Metrics and Evaluation]] (IHME) at the [[University of Washington]] and funded by the [[Bill and Melinda Gates Foundation]].<ref>{{cite web|title=What does a $100 million public health data revolution look like?|url=http://www.tedmed.com/talks/show?id=17751|website=TEDMED}}</ref>
 
 ==History==
@@ -78,6 +79,8 @@ GBD 2015 found that for the first time, annual deaths from [[measles]] had falle
 
 ==Reception==
 
+{{more|Institute for Health Metrics and Evaluation#Reception}}
+
 The results of the Global Burden of Disease Study have been cited by ''[[The New York Times]]'',<ref>{{cite web |url=https://www.nytimes.com/2016/08/18/world/asia/china-coal-health-smog-pollution.html |date=August 17, 2016 |publisher=''[[The New York Times]]'' |title=Coal Burning Causes the Most Air Pollution Deaths in China, Study Finds |author=Edward Wong |accessdate=January 31, 2017}}</ref> ''[[The Washington Post]]'',<ref>{{cite web |url=https://www.washingtonpost.com/world/roads-kill-the-toll-of-traffic-accidents-are-rising-in-poor-countries/2014/01/12/b1065922-56d2-11e3-8304-caf30787c0a9_story.html |publisher=''[[The Washington Post]]'' |title=Roads Kill: The toll of traffic accidents is rising in poor countries |accessdate=January 31, 2017 |date=January 13, 2014 |first=}}</ref> [[Vox (website)|Vox]],<ref>{{cite web |url=http://www.vox.com/2015/1/2/7474995/map-years-lost-life |date=March 13, 2015 |author=Dylan Matthews |publisher=Vox |title=The #1 reason people die early, in each country |accessdate=January 31, 2017}}</ref> and ''[[The Atlantic]]''.<ref>{{cite web |url=https://www.theatlantic.com/health/archive/2013/01/how-the-world-gets-sick-and-dies/267454/ |publisher=[[The Atlantic]] |title=How the World Gets Sick and Dies |author=Neal Emery |accessdate=January 31, 2017 |date=January 24, 2013}}</ref><ref>{{cite web |url=https://www.theatlantic.com/health/archive/2016/10/how-back-pain-took-over-the-world/503243/ |publisher=''[[The Atlantic]]'' |title=How Back Pain Took Over the World |author=Olga Khazan |accessdate=January 31, 2017 |date=October 7, 2016}}</ref>
 
 The World Health Organization did not acknowledge the GBD 2010 estimates.<ref name="2014_rudan" /><ref name="2017_doughton" />
@@ -88,7 +91,7 @@ TODO incorporate info from http://www.thelancet.com/journals/lancet/article/PIIS
 
 TODO figure out how to distinguish between "GBD 2013 proper" and "paper that's published using GBD 2013 results" (since GBD 2013 was published serially).
 
-The following is a table of GBD publications {{as of|2017|02|lc=y}}.<ref>{{cite web |url=http://www.healthdata.org/results/research-articles?field_topics_tid=All&field_publication_date_value%5Bvalue%5D%5Byear%5D=&field_people_target_id=All&field_health_conditions_tid=All&field_risk_factors_tid=All&field_geography_global_tid=All&field_project_list_tid=191 |title=Research Articles - Project: Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) |accessdate=February 2, 2017 |publisher=[[Institute for Health Metrics and Evaluation]]}}</ref><ref>{{cite web |url=http://thelancet.com/gbd |title=Lancet Global Burden of Disease |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref><ref>{{cite web |url=http://thelancet.com/gbd/2013 |title=Lancet Global Burden of Disease Study 2013 |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref><ref>{{cite web |url=http://thelancet.com/gbd/2010 |title=Lancet Global Burden of Disease Study 2010 |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref>
+The following is a table of GBD publications {{as of|2017|02|lc=y}}.<ref>{{cite web |url=http://www.healthdata.org/results/research-articles?field_topics_tid=All&field_publication_date_value%5Bvalue%5D%5Byear%5D=&field_people_target_id=All&field_health_conditions_tid=All&field_risk_factors_tid=All&field_geography_global_tid=All&field_project_list_tid=191 |title=Research Articles - Project: Global Burden of Diseases, Injuries, and Risk Factors Study (GBD) |accessdate=February 2, 2017 |publisher=[[Institute for Health Metrics and Evaluation]]}}</ref><ref>{{cite web |url=http://thelancet.com/gbd |title=Lancet Global Burden of Disease |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref><ref>{{cite web |url=http://thelancet.com/gbd/2013 |title=Lancet Global Burden of Disease Study 2013 |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref><ref>{{cite web |url=http://thelancet.com/gbd/2010 |title=Lancet Global Burden of Disease Study 2010 |accessdate=February 3, 2017 |publisher=''[[The Lancet]]''}}</ref><ref>{{cite web |url=http://www.hup.harvard.edu/results-list.php?collection=1045 |title=Search Results for: The Global Burden of Disease and Injury |publisher=Harvard University Press |accessdate=February 3, 2017 |last1=Murray |first1=Christopher J. L. |last2=Lopez |first2=Alan D.}}</ref>
 
 "GBD 2010" proper means the paper was published as part of the original triple issue in ''[[The Lancet]]''.
 
@@ -284,6 +287,17 @@ The following is a table of GBD publications {{as of|2017|02|lc=y}}.<ref>{{cite 
 | "National, regional, and global trends in systolic blood pressure since 1980: systematic analysis of health examination surveys and epidemiological studies with 786 country-years and 5.4 million participants" || None || {{Dts|February 2011}} || || ''[[The Lancet]]''
 |-
 | "The burden of injuries in Iranian children in 2005" || None || {{Dts|March 2010}} || || ''[[Population Health Metrics]]''
+|-
+| ''The Global Epidemiology of Infectious Diseases'' (GBD 1990 volume 4) || 1990 || {{Dts|2004}} || || [[World Health Organization]]
+|-
+| ''Health Dimensions of Sex and Reproduction: The Global Burden of Sexually Transmitted Diseases, HIV, Maternal Conditions, Perinatal Disorders, and Congenital Anomalies'' (GBD 1990 volume 3) || 1990 || {{Dts|1998}} ||
+| [[Harvard School of Public Health]]<ref>{{cite web |url=http://apps.who.int/iris/handle/10665/42161 |title=WHO IRIS: Health dimensions of sex and reproduction : the global burden of sexually transmitted diseases, HIV, maternal conditions, perinatal disorders, and congenital anomalies / edited by Christopher J. L. Murray, Alan D. Lopez |publisher=[[World Health Organization]] |accessdate=February 4, 2017}}</ref>
+|-
+| ''Global Health Statistics: A Compendium of Incidence, Prevalence and Mortality Estimates for Over 200 Conditions'' (GBD 1990 volume 2) || 1990 || {{Dts|1996}} ||
+| [[Harvard School of Public Health]]<ref>{{cite web |url=http://apps.who.int/iris/handle/10665/41848 |title=WHO IRIS: Global health statistics : a compendium of incidence, prevalence and mortality estimates for over 200 conditions / Christopher J. L. Murray, Alan D. Lopez |publisher=[[World Health Organization]] |accessdate=February 4, 2017}}</ref>
+|-
+| ''Global Burden of Disease: A comprehensive assessment of mortality and disability from diseases, injuries, and risk factors in 1990 and projected to 2020'' (GBD 1990 volume 1) || 1990 || {{Dts|1996}} ||
+| [[World Health Organization]]<ref>{{cite web |url=http://apps.who.int/iris/handle/10665/41864 |title=WHO IRIS: The Global burden of disease : a comprehensive assessment of mortality and disability from diseases, injuries, and risk factors in 1990 and projected to 2020 : summary / edited by Christopher J. L. Murray, Alan D. Lopez |publisher=[[World Health Organization]] |accessdate=February 4, 2017}}</ref>
 |}
 
 == See also ==
