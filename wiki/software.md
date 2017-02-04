@@ -50,6 +50,7 @@ This page is a placeholder for now.
   I also install moreutils for `sponge`.
 - LibreOffice Calc for converting between CSV and XLS.
   I know almost nothing about it, but it seems to do what I want.
+- I often use `less`
 
 Programs in trial mode:
 
