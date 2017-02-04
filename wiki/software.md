@@ -50,7 +50,7 @@ This page is a placeholder for now.
   I also install moreutils for `sponge`.
 - LibreOffice Calc for converting between CSV and XLS.
   I know almost nothing about it, but it seems to do what I want.
-- I often use `less`
+- I often use `less` (e.g. instead of `tail -f` I use `less +F`)
 
 Programs in trial mode:
 
