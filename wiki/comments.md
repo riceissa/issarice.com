@@ -24,7 +24,8 @@ And if that is an ill-defined question, then one can at least try to ask what on
 It might be worthwhile to list all the possible parameters (i.e. to
 extend the list I came up with in the Facebook post).
 
-- Nesting/threading: [Web Discussions: Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/).
+- Nesting/threading: [Web Discussions: Flat by Design](http://blog.codinghorror.com/web-discussions-flat-by-design/),
+  [Mark New Comments](https://www.jefftk.com/p/mark-new-comments).
     There are several choices here.
     On sites like Reddit, Quora, and Hacker News, discussions both *have* a
     tree structure and are *presented* as a tree.
