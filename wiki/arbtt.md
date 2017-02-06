@@ -19,6 +19,20 @@ The documentation is pretty good, and will give an idea of what it can do:
 * [Effective Use of
   Arbtt](http://arbtt.nomeata.de/doc/users_guide/effective-use.html) (by gwern)
 
+As gwern's guide mentions, setting informative window titles is important.
+Most of my time on the computer is spent in a web browser or on a terminal.
+Both [Firefox](wiki/firefox.md) and Google Chrome already set good titles, so
+for me the challenge was mostly trying to make sure the terminal application I
+use sets titles correctly.
+
+The configuration is split across three programs:
+
+* Vim, which sets the title correctly under urxvt without tmux, but fails to do
+  so under urxvt with tmux.
+* tmux, which needs to be told to allow setting the title.
+* Bash, to use the prompt function feature to set the window title to the
+  previously-run command.
+
 # See also
 
 * [Software](wiki/software.md) for other software I use
