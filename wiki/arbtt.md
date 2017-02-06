@@ -33,6 +33,10 @@ The configuration is split across three programs:
 * Bash, to use the prompt function feature to set the window title to the
   previously-run command.
 
+Shorten tmux pane titles with [this answer](https://superuser.com/questions/585007/tmux-configure-length-of-titles).
+
+Potentially relevant is [this](https://stackoverflow.com/questions/14356857/how-to-show-current-command-in-tmux-pane-title).
+
 # See also
 
 * [Software](wiki/software.md) for other software I use
