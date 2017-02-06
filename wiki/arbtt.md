@@ -37,6 +37,17 @@ Shorten tmux pane titles with [this answer](https://superuser.com/questions/5850
 
 Potentially relevant is [this](https://stackoverflow.com/questions/14356857/how-to-show-current-command-in-tmux-pane-title).
 
+Some problems:
+
+* For long commands, it's problematic that the command that ran *right before*
+  the long command is what gets displayed.
+  For instance my music player is usually run once and lasts for days at a time
+  in its own tmux window.
+* Possible security problems with escape sequences?
+* tmux 2.3 seems to offer the ability set the window title and pane title
+  separately, but Ubuntu 16.10 has tmux 2.2, so the tmux status shows less
+  useful information (although Vim does a good job of setting the title).
+
 # See also
 
 * [Software](wiki/software.md) for other software I use
