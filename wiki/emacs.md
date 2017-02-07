@@ -29,7 +29,9 @@ work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice),
 I've found a need to schedule many tasks days or weeks in advance, to
 the point where I can't keep all of it straight in my head.
 In junior high and high school I had used paper planners, but since
-I now have no artificial restriction on computer use, it makes sense to
+I now have no artificial restriction on computer use
+(in school, some teachers would not allow laptops in class, and taking a laptop
+around to all my classes would have been annoying), it makes sense to
 track my tasks in a version-controlled plain text file.
 Prior to using Org mode, I had used a text file where lines began with the
 scheduled date, so that I could sort the file to make the imminent tasks
