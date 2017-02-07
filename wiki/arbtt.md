@@ -47,6 +47,13 @@ Some problems:
 * tmux 2.3 seems to offer the ability set the window title and pane title
   separately, but Ubuntu 16.10 has tmux 2.2, so the tmux status shows less
   useful information (although Vim does a good job of setting the title).
+* I like to keep my cursor in Google Chrome in Facebook chat while having the
+  mouse pointer in a Firefox window.
+  This allows me to scroll in Firefox and read while I'm talking to people, and
+  also allows me to quickly respond by just typing (without the extra Alt-Tab).
+  But arbtt only knows about the active window, so this will incorrectly record
+  the time as all being in Facebook.
+  In practice, I think this is a very small fraction of my day.
 
 # See also
 
