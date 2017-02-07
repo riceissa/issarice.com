@@ -154,7 +154,7 @@ The following web pages were especially helpful.
 <https://help.ubuntu.com/community/CdDvd/Burning#Burning_a_CD_on_the_Command_Line_with_wodim>
 
 - “Writing CD and DVD images”.
-<http://wiki.mandriva.com/en/Writing_CD_and_DVD_images>
+<https://web.archive.org/web/20140415043153/http://wiki.mandriva.com/en/Writing_CD_and_DVD_images>
 
 - “DVD Burning”.
 <https://wiki.archlinux.org/index.php/DVD_Burning>.
