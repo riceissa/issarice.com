@@ -1,4 +1,3 @@
-__INDEX__
 The '''Global Burden of Disease Study''' ('''GBD''') is a comprehensive regional and global research program of [[disease burden]] that assesses [[death|mortality]] and [[disability]] from major diseases, injuries, and [[risk factor]]s. GBD is a collaboration of over 1,800 researchers from 127 countries. Under principal investigator [[Christopher J.L. Murray]], GBD is based out of the [[Institute for Health Metrics and Evaluation]] (IHME) at the [[University of Washington]] and funded by the [[Bill and Melinda Gates Foundation]].<ref>{{cite web|title=What does a $100 million public health data revolution look like?|url=http://www.tedmed.com/talks/show?id=17751|website=TEDMED}}</ref>
 
 ==History==
@@ -120,7 +119,7 @@ The following is a table of GBD publications {{as of|2017|02|lc=y}}.<ref>{{cite 
 |-
 | "Global, regional, national, and selected subnational levels of stillbirths, neonatal, infant, and under-5 mortality, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015" || 2015 || {{Dts|October 2016}} || GBD 2015 proper || ''[[The Lancet]]''
 |-
-| "Dissonant health transition in the states of Mexico, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|October 2016}} || GBD 2015 proper || ''[[The Lancet]]''
+| "Dissonant health transition in the states of Mexico, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013" || 2013 || {{Dts|October 2016}} || || ''[[The Lancet]]''
 |-
 | "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease study 2015" || 2015 || {{Dts|September 2016}} || || ''[[The Lancet]]''
 |-
@@ -318,5 +317,5 @@ The following is a table of GBD publications {{as of|2017|02|lc=y}}.<ref>{{cite 
 * [http://www.hup.harvard.edu/results-list.php?collection=1045 GBD Publications from Harvard School of Public Health]
 * [http://www.gbd.unsw.edu.au/ Global Burden of Disease Mental Disorders and Illicit Drug Use Expert Group at National Drug and Alcohol Research Centre (University of New South Wales, Australia)]
 
-[[:Category:Global health]]
-[[:Category:Public health research]]
+[[Category:Global health]]
+[[Category:Public health research]]
