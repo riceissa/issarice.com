@@ -1,0 +1,33 @@
+{{Infobox software
+|name                 = fugitive.vim
+|logo                 = 
+|screenshot           = 
+|caption              = 
+|author               = Tim Pope
+|developer            =
+|released             = {{Start date and age|2010|02|15|df=yes}}<ref name="vimscripts_site">{{cite web |url=http://www.vim.org/scripts/script.php?script_id=2975 |title=fugitive.vim : A Git wrapper so awesome, it should be illegal |accessdate=February 8, 2017}}</ref>
+|latest release version = 2.2 / {{Start date and age|2015|01|20|df=yes}}<ref name="vimscripts_site" />
+|programming language = [[Vim (text editor)#Vim script|Vim script]]
+|operating system     = [[Unix]], [[Linux]], [[Windows NT]], [[macOS]], [[iOS]], [[Android (operating system)|Android]], [[AmigaOS]]
+|language             = English
+|genre                = Git wrapper
+|license              = [[free software license|Free software]] ([http://vimdoc.sourceforge.net/htmldoc/uganda.html#license Vim License]), [[charityware]]
+|repo                 = {{URL|https://github.com/tpope/vim-fugitive}}
+}}
+'''fugitive.vim''' is a [[Git]] wrapper written by Tim Pope.<ref>{{cite web |url=https://github.com/tpope/vim-fugitive |title=fugitive.vim |accessdate=February 8, 2017}}</ref>
+
+From ''Practical Vim'': "Tim Pope's rails.vim plugin was instrumental in convincing me to take Vim seriously, and many of his other plugins have become essential parts of my setup." Mentions fugitive in passing.
+
+One of the few Vim plugins to have its own package on Ubuntu.<ref>{{cite web |url=http://packages.ubuntu.com/search?suite=default&section=all&arch=any&keywords=vim-&searchon=names |title=Package Search Results for 'vim-'}}</ref>
+
+covered on Vimcasts<ref>{{cite web |url=http://vimcasts.org/blog/2011/05/the-fugitive-series/ |title=The Fugitive Series - a retrospective |accessdate=February 8, 2017}}</ref>
+
+==See also==
+
+* [[Magit]]
+
+==References==
+
+{{Reflist|30em}}
+
+[[:Category:Git (software)]]
