@@ -1,0 +1,17 @@
+__INDEX__
+'''Read the Docs''' is a community-supported software documentation website.<ref>{{cite web |url=https://readthedocs.org/ |title=Home |publisher= Read the Docs |accessdate=February 8, 2017}}</ref>
+
+<ref>{{cite web |url=https://opensource.com/business/16/8/introduction-read-docs |publisher=Opensource.com |title=Making documentation easy with Read the Docs |accessdate=February 8, 2017}}</ref>
+
+<ref>{{cite web |url=http://www.infoworld.com/article/3144115/application-development/pypi-parser-eases-path-to-browsing-python-package-apis.html |date=November 25, 2016 |title=PyPI parser eases path to browsing Python package APIs |author=Serdar Yegulalp |publisher=InfoWorld |accessdate=February 8, 2017}}</ref>
+
+In 2010, Eric Holscher announced<ref>{{cite web | url = http://ericholscher.com/blog/2010/aug/16/announcing-read-docs/ | title = Announcing Read The Docs | publisher = Eric Holscher| work = Python Software Foundation News | accessdate = 2015-02-15 }}</ref> the creation of the [[Read the Docs]] project as part of an effort to make maintenance of software documentation easier. [http://readthedocs.org Read the Docs] automates the process of building and uploading Sphinx documentation after every [[Commit (data management)|commit]].
+
+==See also==
+
+* [[Linux Documentation Project]]
+* [[linux.die.net]]
+
+==References==
+
+{{Reflist|30em}}
