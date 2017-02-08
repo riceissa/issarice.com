@@ -13,3 +13,7 @@ In addition, some pages will have a link at the bottom (usually under "External 
 For my thoughts on commenting in general, see my [Comments]() page.
 
 If you'd like to point out corrections, instead of contacting me, it's also possible to submit a pull request through the [GitHub repository for this site](https://github.com/riceissa/issarice.com).
+
+# External links
+
+* [WP:IDGAF](https://en.wikipedia.org/wiki/Wikipedia:Don%27t-give-a-fuckism)
