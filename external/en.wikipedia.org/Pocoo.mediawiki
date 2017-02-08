@@ -1,0 +1,30 @@
+{{Infobox organization
+| name                = Pocoo
+| formation           = {{start date and age|2004}}
+| type                = Software development
+| products            = Flask, Jinja
+| key_people          = [[Armin Ronacher]]<br />Georg Brandl
+| language            = English
+}}
+'''Pocoo''', also known as the '''Pocoo Team''', is a group of [[Python (programming language)|Python]] programmers that has created notable software including [[Flask (web framework)|Flask]] and [[Jinja (template engine)|Jinja]].<ref>{{cite web |url=http://www.pocoo.org/ |title=About Pocoo |publisher=Pocoo |accessdate=February 8, 2017}}</ref>
+
+<ref>{{cite web |url=https://www.crunchbase.com/organization/pocoo-org |title=Pocoo.org |publisher=crunchbase |accessdate=February 8, 2017}}</ref>
+
+==Team members==
+
+* [[Armin Ronacher]]
+* [[Georg Brandl]]
+
+==Software projects==
+
+* [[Flask (web framework)|Flask]]
+* [[Jinja (template engine)|Jinja2]]<ref>https://books.google.com/books?id=EFoPDAAAQBAJ&pg=PT330&lpg=PT330&dq=%22pocoo+team%22&source=bl&ots=UXugEtLDSY&sig=sQZux4dxAuaxHyaLsGXlIiFV3FU&hl=en&sa=X&ved=0ahUKEwic9OfIpoDSAhVhrFQKHfE_D5Y4ChDoAQgsMAQ#v=onepage&q=%22pocoo%20team%22&f=false</ref>
+* Pygments
+* [[Sphinx (documentation generator)|Sphinx]]
+* [[SQLAlchemy]]<ref>https://books.google.com/books?id=Xd0DCgAAQBAJ&pg=PA40&lpg=PA40&dq=%22pocoo+team%22&source=bl&ots=fhFV6u-pgp&sig=0BVnRaFkQ9ppQeqA4uQUCIUmfhA&hl=en&sa=X&ved=0ahUKEwic9OfIpoDSAhVhrFQKHfE_D5Y4ChDoAQgpMAM#v=onepage&q=%22pocoo%20team%22&f=false</ref>
+
+==See also==
+
+==References==
+
+{{Reflist|30em}}
