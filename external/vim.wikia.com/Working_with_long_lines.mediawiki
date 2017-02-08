@@ -10,7 +10,7 @@ At a high level, the strategies for dealing with long lines can be grouped in th
 
 * Making use of Vim's built-in capabilities for navigating long lines (i.e. work around long lines without modifying them)
 * Preprocessing the file to use shorter lines, and then possibly converting back to using long lines after the editing task in Vim is done; the two strategies here are "chopping" and pretty-printing
-* Increasing the terminal window size so that more text can fit in
+* Increasing the terminal window size or decreasing the terminal font size so that more text can fit in
 * Taking steps to prevent long lines (rewriting code to use shorter lines, enforcing a manageable text width, etc.)
 * Giving up on Vim for these files and using editors and pagers that work fine with long lines (less, gedit, GNU Emacs, etc.); it's important to keep in mind that there is no single best tool for every task
 
@@ -109,7 +109,7 @@ Languages like Go have strong source formatting requirements and provide tools l
 
 * {{help|25.4}}, "Dealing with long lines", which has a couple of parts:
 ** {{help|edit-no-break}}
-** {{help|edit-paragraph-join}} (the version of the help files on vimdoc seems to be old so this won't work; just type it in Vim); this is similar to [[Copy paragraphs without excess newlines to MS Word]]
+** [https://vimhelp.appspot.com/usr_25.txt.html#edit-paragraph-join edit-paragraph-join] (the version of the help files on vimdoc seems to be old so this won't work; just type it in Vim); this is similar to [[Copy paragraphs without excess newlines to MS Word]]
 * [[Word wrap without line breaks]]
 * [[Chop long lines]]
 * [[Format only long lines]]
@@ -118,5 +118,5 @@ Languages like Go have strong source formatting requirements and provide tools l
 
 ==External links==
 
-* [https://github.com/neovim/neovim/issues/4232 How can Neovim implement scrolling based on screen-lines in long strings of wrapped text?] – an issue filed in the Neovim development issues tracker; this might be the only real shot at getting better long lines support in Vim/Neovim.
+* [https://github.com/neovim/neovim/issues/4232 "How can Neovim implement scrolling based on screen-lines in long strings of wrapped text?"], an issue filed in the Neovim development issues tracker; this might be the only real shot at getting better long lines support in Vim/Neovim.
 * [http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf "Structural Regular Expressions"], an essay by Rob Pike on breaking out of the idea of line-based regular expressions.
