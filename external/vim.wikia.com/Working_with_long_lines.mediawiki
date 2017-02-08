@@ -62,13 +62,7 @@ to format the current buffer. The <code>-80</code> specifies 80 columns as the d
 
 <code>fold</code> is more aggressive: it will chop lines even inside of words.
 
-In addition, Vim itself provides the command <code>gqq</code> to format the current line, so something like:
-
-<pre>
-:%normal! gqq
-</pre>
-
-will format the buffer according to the value of <code>'textwidth'</code>.
+In addition, Vim itself provides the command <code>gqq</code> to format the current line, so typing something like <code>999gqq</code> (with maybe hitting <code>.</code> a few times if that's not enough to format the whole buffer) in normal mode will format the buffer according to the value of <code>'textwidth'</code>.
 
 If the original linebreak locations must be preserved, one can leave a unique character in place of linebreaks. Below, the character '↵' (typed using <code>&lt;C-V&gt;u21B5</code>) is provided as a suggestion, but it must not appear in the file itself.
 
@@ -109,7 +103,7 @@ Languages like Go have strong source formatting requirements and provide tools l
 
 * {{help|25.4}}, "Dealing with long lines", which has a couple of parts:
 ** {{help|edit-no-break}}
-** [https://vimhelp.appspot.com/usr_25.txt.html#edit-paragraph-join edit-paragraph-join] (the version of the help files on vimdoc seems to be old so this won't work; just type it in Vim); this is similar to [[Copy paragraphs without excess newlines to MS Word]]
+** [https://vimhelp.appspot.com/usr_25.txt.html#edit-paragraph-join :help edit-paragraph-join]; this is similar to [[Copy paragraphs without excess newlines to MS Word]]
 * [[Word wrap without line breaks]]
 * [[Chop long lines]]
 * [[Format only long lines]]
