@@ -25,7 +25,9 @@ As with other Tim Pope plugins, the name of the plugin obliquely refers to its f
 
 ==History==
 
-The initial version was released on February 15, 2010.
+The initial commit to the Git repository of the project was made on October 10, 2009.<ref>{{cite web |url=https://github.com/tpope/vim-fugitive/commit/1eb949be95b588dc45777814142edce93da6415e |title=Initial commit |first=Tim |last=Pope |date=October 10, 2009}}</ref>
+
+The initial version (version 1.0) was released on February 15, 2010.
 
 Starting in March 2014 fugitive.vim was was included in [[Debian]]'s unstable branch.<ref>{{cite web |url=https://lwn.net/Articles/589142/ |title=Debian Project News - March 3rd, 2014 [LWN.net] |publisher=[[LWN.net]] |first=Cédric |last=Boutillier |date=March 4, 2014 |accessdate=February 9, 2017 |quote=352 packages were added to the unstable Debian archive recently. Among many others are: [&hellip;] vim-fugitive — Vim plugin to work with Git}}</ref>
 
@@ -54,3 +56,4 @@ The scripts page for fugitive.vim on the Vim website shows that the plugin has b
 {{Reflist|30em}}
 
 [[:Category:Git (software)]]
+[[:Category:Vi]]
