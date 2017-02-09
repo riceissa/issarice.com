@@ -86,6 +86,15 @@ These are:
 > any effort spent dealing with an illusory threat yields equally illusory
 > benefits.
 
+[Gwern](https://en.wikipedia.org/wiki/Wikipedia_talk:Television_episodes/Archive_3#Is_there_any_actual_consensus_for_this_guideline_at_all.3F),
+December 2007:
+
+> You and your ilk fetishize notability, you fetishize printed sources. You
+> raise up a god of process and bow down to it, burning useful good stuff as a
+> holocaust with pleasing smell to it. You dare talk about quality? You guys
+> don't have the slightest clue what quality is. All you can perceive are the
+> trappings that sometimes go with it.
+
 # See also
 
 * [Account names]() for the account names I use on other sites
