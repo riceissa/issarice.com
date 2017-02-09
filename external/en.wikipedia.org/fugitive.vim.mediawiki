@@ -1,3 +1,4 @@
+__INDEX__
 {{Infobox software
 |name                 = fugitive.vim
 |logo                 = 
@@ -14,21 +15,37 @@
 |license              = [[free software license|Free software]] ([http://vimdoc.sourceforge.net/htmldoc/uganda.html#license Vim License]), [[charityware]]
 |repo                 = {{URL|https://github.com/tpope/vim-fugitive}}
 }}
-'''fugitive.vim''', also called '''vim-fugitive''' or just '''fugitive''', is a [[Git]] wrapper written by Tim Pope.<ref>{{cite web |url=https://github.com/tpope/vim-fugitive |title=fugitive.vim |accessdate=February 8, 2017}}</ref>
+'''fugitive.vim''', also called '''vim-fugitive''' or just '''fugitive''', is a [[Git]] wrapper written for the [[Vim (text editor)|Vim]] text editor by Tim Pope.<ref name="github_repo">{{cite web |url=https://github.com/tpope/vim-fugitive |title=fugitive.vim |accessdate=February 8, 2017}}</ref><ref>{{cite book |url=https://books.google.com/books?id=_1cnCgAAQBAJ&pg=PR27&dq=fugitive.vim&hl=en&sa=X&ved=0ahUKEwig4LyIjIDSAhUSzWMKHSPZCgkQ6AEIJDAB#v=onepage&q=fugitive.vim&f=false |title=Pro Vim |first=Mark |last=McDonnell |publisher=[[Apress]] |year=2014}}</ref><ref>{{cite book |url=https://books.google.com/books?id=jGInCgAAQBAJ&pg=PR15&dq=fugitive.vim&hl=en&sa=X&ved=0ahUKEwig4LyIjIDSAhUSzWMKHSPZCgkQ6AEIKjAC#v=onepage&q=fugitive.vim&f=false |first=Mark |last=McDonnell |title=tmux Taster |publisher=[[Apress]] |year=2014}}</ref>
 
 From ''Practical Vim'': "Tim Pope's rails.vim plugin was instrumental in convincing me to take Vim seriously, and many of his other plugins have become essential parts of my setup." Mentions fugitive in passing.
 
+It is included in "plugin bundles" like spf13<ref>{{cite web |url=http://vim.spf13.com/ |first=Steve |last=Francia |title=spf13-vim - The Ultimate Vim Distribution |accessdate=February 8, 2017}}</ref> and Janus.<ref>{{cite web|url=https://github.com/carlhuda/janus |accessdate=February 8, 2017 |title=Janus: Vim Distribution}}</ref>
+
+==Name==
+
+As with other Tim Pope plugins, the name of the plugin obliquely refers to its functionality. "fugitive.vim" contains the [[substring]] "git", as it is a [[Git]] wrapper. Tim Pope later wrote rhubarb.vim, which contains the substring "hub" in its name, as it provides the <code>:Gbrowse</code> command to work with [[GitHub]].<ref>{{cite web |url=https://github.com/tpope/vim-rhubarb |title=rhubarb.vim |accessdate=February 9, 2016}}</ref>
+
+==History==
+
+The initial version was released on February 15, 2010.
+
+Starting in March 2014 fugitive.vim was was included in [[Debian]]'s unstable branch.<ref>{{cite web |url=https://lwn.net/Articles/589142/ |title=Debian Project News - March 3rd, 2014 [LWN.net] |first=Cédric |last=Boutillier |date=March 4, 2014 |accessdate=February 9, 2017 |quote=352 packages were added to the unstable Debian archive recently. Among many others are: [&hellip;] vim-fugitive — Vim plugin to work with Git}}</ref>
+
+==Features==
+
+The plugin provides standard Git commands from inside Vim, such as <code>:Gstatus</code> for <code>git status</code>.
+
+==Reception==
+
 One of the few Vim plugins to have its own package on Ubuntu.<ref>{{cite web |url=http://packages.ubuntu.com/search?suite=default&section=all&arch=any&keywords=vim-&searchon=names |title=Package Search Results for 'vim-'}}</ref>
 
-covered on Vimcasts<ref>{{cite web |url=http://vimcasts.org/blog/2011/05/the-fugitive-series/ |title=The Fugitive Series - a retrospective |accessdate=February 8, 2017}}</ref>
+fugitive.vim was covered on Vimcasts in a multi-part series,<ref>{{cite web |url=http://vimcasts.org/blog/2011/05/the-fugitive-series/ |title=The Fugitive Series - a retrospective |accessdate=February 8, 2017}}</ref> a distinction held only by two other Vim plugins: UltiSnips and abolish.vim (another plugin by Tim Pope).<ref>{{cite web |url=http://vimcasts.org/blog/2011/05/the-fugitive-series/ |title=The Fugitive Series - a retrospective |accessdate=February 9, 2017 |first=Drew |last=Neil |date=May 18, 2011}}</ref>
 
-brief mentions in <ref>{{cite book |url=https://books.google.com/books?id=_1cnCgAAQBAJ&pg=PR27&dq=fugitive.vim&hl=en&sa=X&ved=0ahUKEwig4LyIjIDSAhUSzWMKHSPZCgkQ6AEIJDAB#v=onepage&q=fugitive.vim&f=false |title=Pro Vim |first=Mark |last=McDonnell |publisher=[[Apress]] |year=2014}}</ref> and <ref>{{cite book |url=https://books.google.com/books?id=jGInCgAAQBAJ&pg=PR15&dq=fugitive.vim&hl=en&sa=X&ved=0ahUKEwig4LyIjIDSAhUSzWMKHSPZCgkQ6AEIKjAC#v=onepage&q=fugitive.vim&f=false |first=Mark |last=McDonnell |title=tmux Taster |publisher=[[Apress]] |year=2014}}</ref>
-
-It is included in "plugin bundles" like spf13<ref>{{cite web |url=http://vim.spf13.com/ |first=Steve |last=Francia |title=spf13-vim - The Ultimate Vim Distribution |accessdate=February 8, 2017}}</ref> and Janus.<ref>{{cite web|url=https://github.com/carlhuda/janus |accessdate=February 8, 2017 |title=Janus: Vim Distribution}}</ref>
+The scripts page for fugitive.vim on the Vim website shows that the plugin has been downloaded almost 13,000 times.<ref name="vimscripts_site" /> {{as of|2017|02}}, the plugin's repository on [[GitHub]] has nearly 8,000 stars.<ref name="github_repo" />
 
 ==See also==
 
-* [[Magit]]
+* [[Magit]], a Git wrapper for [[GNU Emacs]]
 
 ==References==
 
