@@ -1,0 +1,7 @@
+'''fzf''' is a general-purpose command-line fuzzy finder written in [[Go (programming language)|Go]]. It is written and maintained by Junegunn Choi.<ref>{{cite web |url=https://github.com/junegunn/fzf |title=junegunn/fzf: A command-line fuzzy finder written in Go}}</ref>
+
+==See also==
+
+==References==
+
+{{Reflist|30em}}
