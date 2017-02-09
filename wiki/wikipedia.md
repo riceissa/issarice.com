@@ -74,6 +74,18 @@ These are:
 - [Health systems strengthening](https://en.wikipedia.org/wiki/Health_systems_strengthening), a term used in global health that I wanted to investigate due to its perceived vagueness (even after writing the page, I still think the term is vague)
 - [Hiroshi Nakajima](https://en.wikipedia.org/wiki/Hiroshi_Nakajima), who was Director-General at WHO; I didn't write this page but made significant improvements to it
 
+# Quotes
+
+[Gwern](https://en.wikipedia.org/wiki/User_talk:Gwern#My_error), May 2010:
+
+> But seriously: any copyvio on Youtube is Youtube or the uploader's problem.
+> Are we our brother's keeper? Our task is to make the best encyclopedia we
+> can, not adhere to every crazed jot and tittle of American IP maximalism
+> unless it's a genuine threat to the encyclopedia. No one has ever sued us
+> over contributory infringement linking to a video site, and no on ever will;
+> any effort spent dealing with an illusory threat yields equally illusory
+> benefits.
+
 # See also
 
 * [Account names]() for the account names I use on other sites
