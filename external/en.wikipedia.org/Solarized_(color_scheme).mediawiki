@@ -1,11 +1,15 @@
 __INDEX__
-'''Solarized''' is a [[color scheme]] designed by Ethan Schoonover.<ref>{{cite web |url=http://ethanschoonover.com/solarized |title=Solarized |first=Ethan|last= Schoonover |accessdate=February 10, 2017}}</ref> It comes in two variants known as '''Solarized Light''' and '''Solarized Dark'''.<ref>{{cite web |url=http://observer.com/2015/02/meet-the-man-behind-solarized-the-most-important-color-scheme-in-computer-history/ |title=Meet the Man Behind 'Solarized,' the Most Important Color Scheme in Computer History |date=February 27, 2015 |publisher=Observer |accessdate=February 10, 2017 |author=Jack Smith IV}}</ref>
+'''Solarized''' is a [[color scheme]] designed by Ethan Schoonover.<ref>{{cite web |url=http://ethanschoonover.com/solarized |title=Solarized |first=Ethan|last= Schoonover |accessdate=February 10, 2017}}</ref> It comes in two variants known as '''Solarized Light''' and '''Solarized Dark'''. The color scheme can be used by [[text editor]]s and [[integrated development environment]]s for [[syntax highlighting]].<ref name="observer">{{cite web |url=http://observer.com/2015/02/meet-the-man-behind-solarized-the-most-important-color-scheme-in-computer-history/ |title=Meet the Man Behind 'Solarized,' the Most Important Color Scheme in Computer History |date=February 27, 2015 |publisher=Observer |accessdate=February 10, 2017 |author=Jack Smith IV}}</ref>
 
 <ref>{{cite web |url=https://usesthis.com/interviews/ethan.schoonover/ |author=Daniel Bogan |title=The Setup / Ethan Schoonover |accessdate=February 10, 2017}}</ref>
 
 ==History==
 
-Schoonover began designing Solarized in 2010.
+Schoonover began designing Solarized in 2010. The process of choosing the colors took "six months of research and tweaking".<ref name="observer" />
+
+Schoonover announced in April 2011 that he is "hard at work on beta2".<ref>{{cite web |url=http://www.metafilter.com/102504/Solarized#3636286 |title=Solarized |publisher=[[MetaFilter]] |accessdate=February 10, 2017}}</ref>
+
+<ref>{{cite web |url=http://ethanschoonover.com/solarized/CHANGELOG |author= |title=CHANGELOG - Ethan Schoonover |accessdate=February 10, 2017}}</ref>
 
 ==Features==
 
@@ -13,11 +17,11 @@ The same palette works for both the light and dark variants.
 
 ==Availability==
 
-<ref>{{cite web|url=https://github.com/solarized |title=Solarized - Precision colors for machines and people |accessdate=February 10, 2017}}</ref>
+Solarized [[configuration file]]s exist for the following programs, or Solarized is otherwise available for these programs:<ref>{{cite web|url=https://github.com/solarized |title=Solarized - Precision colors for machines and people |accessdate=February 10, 2017}}</ref>
 
-{{Div col|colwidth=30em}}
-* [[X resources]]
-* Terminal emulators ([[xfce]] terminal)
+{{Div col|colwidth=20em}}
+* [[X resources]] (for [[xterm]], [[rxvt-unicode]], etc.)
+* Terminal emulators ([[Terminal (Xfce)|Xfce Terminal]])
 * gedit
 * [[tmux]]
 * [[XChat]]
@@ -25,14 +29,39 @@ The same palette works for both the light and dark variants.
 * [[Mutt (email client)|Mutt]]
 * [[Vim (text editor)|Vim]]
 * [[Emacs]]
+* [[iTerm2]]
+* [[Terminal (macOS)|Terminal.app]]
+* [[Sublime Text]]
+* [[GNOME Terminal]]
+* [[Terminator (terminal emulator)|Terminator]]
+* [[BBEdit]]/[[TextWrangler]]
+* [[Visual Studio]]
+* [[TextMate]]
+* st (the terminal emulator developed at [[suckless.org]])<ref>{{cite web |url=http://st.suckless.org/patches/solarized |title=solarized {{!}} suckless.org st - simple terminal |accessdate=February 10, 2017}}</ref>
+* [[MATLAB]]<ref>{{cite web |url=https://github.com/Chrismarsh/matlab-solarized |title=The Solarized theme for Matlab}}</ref>
 {{Div col end}}
+
+As [[color palette]]s, Solarized is also available on [[Adobe Photoshop]], [[Apple Color Picker]], and [[GIMP]].
+
+However, as Solarized is a color scheme, it is possible to port it to any program that supports custom color schemes.
 
 ==Reception==
 
-A Solarized patch exists for the st terminal emulator developed by [[suckless.org]].<ref>{{cite web |url=http://st.suckless.org/patches/solarized |title=solarized {{!}} suckless.org st - simple terminal |accessdate=February 10, 2017}}</ref>
+{{as of|2017|02}}, the original Solarized [[GitHub]] repository has over 10,000 stars.
+
+Solarized is included by default in [[Sublime Text]],<ref name="observer" /> [[GNOME Terminal]],<ref>{{cite web |url=https://help.gnome.org/users/gnome-terminal/stable/app-colors.html.en |publisher=The GNOME Project |title=Color schemes |accessdate=February 10, 2017 |quote=You can choose one of the built-in color schemes: Black on light yellow, Black on white, Gray on black, Green on black, White on black, Solarized light, Solarized dark.}}</ref> GTK Sourceview,<ref>{{cite web |url=https://bugzilla.gnome.org/show_bug.cgi?id=706444 |title=Bug 706444 – Add Solarized themes (Dark and Light), Patch Included |accessdate=February 10, 2017}}</ref> and [[Terminator (terminal emulator)|Terminator]].
+
+Solarized has been used to color keyboards.<ref name="observer" /><ref>{{cite web |url=http://www.stevenzc.com/2016/03/14/join-the-light-side.html |date=March 14, 2016 |first=Steven |last=Chen |title=Join The (solarized) Light Side! |accessdate=February 10, 2017 |quote=Solarized is a color scheme for code syntax highlighting, and is one of the most popular color schemes today. The creator, Ethan Schoonover, spent six months designing the palette, using color wheel and lightness relationships to choose the sixteen colors that form the Solarized Light and Solarized Dark schemes. Solarized is present everywhere, from terminal emulators to text editors, IDEs, and even keyboards.}}</ref><ref>{{cite web |url=https://nyoobserver.files.wordpress.com/2014/12/screen-shot-2014-12-17-at-10-26-35-pm.png |title=A photo showing a Solarized keyboard |accessdate=February 10, 2017}}</ref>
+
+<ref>{{cite web |url=http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html |title=Solarized: A Must Have Color Scheme For Gnome Terminal, Vim, Gedit And Lots More |publisher=WebUpd8 |accessdate=February 10, 2017}}</ref>
+
+<ref>{{cite book |url=https://books.google.com/books?id=zk6bBAAAQBAJ&lpg=PT68&dq=solarized%20colors&pg=PT68#v=onepage&q=solarized%20colors&f=false |author=Victor Quinn |title=Getting Started with tmux |publisher=Packt Publishing |year=2014}}</ref>
+
+<ref>{{cite web |url=https://www.if-not-true-then-false.com/2012/solarized-linux/ |title=Solarized Linux |publisher=If Not True Then False |accessdate=February 10, 2017}}</ref>
 
 ==See also==
 
+* [[Web colors]]
 * [[Terminfo]]
 
 ==References==
