@@ -1,0 +1,42 @@
+__INDEX__
+'''Solarized''' is a [[color scheme]] designed by Ethan Schoonover.<ref>{{cite web |url=http://ethanschoonover.com/solarized |title=Solarized |first=Ethan|last= Schoonover |accessdate=February 10, 2017}}</ref> It comes in two variants known as '''Solarized Light''' and '''Solarized Dark'''.<ref>{{cite web |url=http://observer.com/2015/02/meet-the-man-behind-solarized-the-most-important-color-scheme-in-computer-history/ |title=Meet the Man Behind 'Solarized,' the Most Important Color Scheme in Computer History |date=February 27, 2015 |publisher=Observer |accessdate=February 10, 2017 |author=Jack Smith IV}}</ref>
+
+<ref>{{cite web |url=https://usesthis.com/interviews/ethan.schoonover/ |author=Daniel Bogan |title=The Setup / Ethan Schoonover |accessdate=February 10, 2017}}</ref>
+
+==History==
+
+Schoonover began designing Solarized in 2010.
+
+==Features==
+
+The same palette works for both the light and dark variants.
+
+==Availability==
+
+<ref>{{cite web|url=https://github.com/solarized |title=Solarized - Precision colors for machines and people |accessdate=February 10, 2017}}</ref>
+
+{{Div col|colwidth=30em}}
+* [[X resources]]
+* Terminal emulators ([[xfce]] terminal)
+* gedit
+* [[tmux]]
+* [[XChat]]
+* [[Qt Creator]]
+* [[Mutt (email client)|Mutt]]
+* [[Vim (text editor)|Vim]]
+* [[Emacs]]
+{{Div col end}}
+
+==Reception==
+
+A Solarized patch exists for the st terminal emulator developed by [[suckless.org]].<ref>{{cite web |url=http://st.suckless.org/patches/solarized |title=solarized {{!}} suckless.org st - simple terminal |accessdate=February 10, 2017}}</ref>
+
+==See also==
+
+* [[Terminfo]]
+
+==References==
+
+{{Reflist|30em}}
+
+[[:Category:Software using the MIT license]]
