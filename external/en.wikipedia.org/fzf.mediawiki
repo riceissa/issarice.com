@@ -1,7 +1,28 @@
-'''fzf''' is a general-purpose command-line fuzzy finder written in [[Go (programming language)|Go]]. It is written and maintained by Junegunn Choi.<ref>{{cite web |url=https://github.com/junegunn/fzf |title=junegunn/fzf: A command-line fuzzy finder written in Go}}</ref>
+__INDEX__
+'''fzf''' is a general-purpose command-line [[Approximate string matching|fuzzy finder]] written in [[Go (programming language)|Go]]. It is written and maintained by Junegunn Choi.<ref>{{cite web |url=https://github.com/junegunn/fzf |title=junegunn/fzf: A command-line fuzzy finder written in Go |accessdate=February 9, 2017}}</ref>
+
+==Name==
+
+"fzf" is short for "fuzzy finder".{{cn}}
+
+==History==
+
+fzf.vim was later developed as a plugin for the [[Vim (text editor)|Vim]] text editor.
+
+==Features==
+
+==Reception==
+
+"fzf has the potential to change the way you work at the command line"<ref>{{cite web |url=https://inconsolation.wordpress.com/2014/08/05/fzf-more-menu-like-options-with-fuzzy-finding/ |title=fzf: More menu-like options, with fuzzy finding |website=Inconsolation |date=August 5, 2014 |publisher=Inconsolation |accessdate=February 10, 2017 |author=K.Mandla |quote=Perhaps even more than slmenu or sentaku or percol, fzf has the potential to change the way you work at the command line.}}</ref>
+
+<ref>{{cite web |url=https://sts10.github.io/blog/2016/01/09/vim-line-complete-with-fzf/ |author=Sam Schlinkert |title=Vim Line Completion with FZF - Prevent Default |accessdate=February 10, 2017}}</ref> <ref>{{cite web |url=http://ryanselk.com/2016/02/20/fzf-command-line |author=Ryan Selk |title=FZF Command-line Fuzzy Finder |accessdate=February 10, 2017}}</ref>
+
+Included as a package in [[Arch Linux]].<ref>{{cite web |url=https://www.archlinux.org/packages/community/x86_64/fzf/ |title=Arch Linux - fzf 0.16.4-1 (x86_64) |accessdate=February 10, 2017}}</ref>
 
 ==See also==
 
 ==References==
 
 {{Reflist|30em}}
+
+[[:Category:Vi]]
