@@ -1,0 +1,210 @@
+{{Infobox organization
+| name                = Johns Hopkins Center for Health Security
+| native_name         = 
+| native_name_lang    = 
+| named_after         = 
+| image               = 
+| image_size          = 
+| alt                 = 
+| caption             = 
+| logo                =
+| logo_size           = 
+| logo_alt            = 
+| logo_caption        = 
+| map                 = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+| map2                = 
+| map2_size           = 
+| map2_alt            = 
+| map2_caption        = 
+| abbreviation        = CHS<ref name="open_phil" />
+| motto               = 
+| predecessor         = 
+| merged              = 
+| successor           = 
+| formation           = {{start date and age|1998}}<ref name="open_phil" />
+| founder             = 
+| founding_location   = 
+| extinction          = <!-- use {{end date and age|YYYY|MM|DD}} -->
+| merger              = 
+| type                = [[Think tank]]
+| tax_id              = <!-- or | vat_id = (for European organizations) -->
+| registration_id     = <!-- for non-profit org -->
+| status              = 
+| purpose             = 
+| headquarters        = 
+| location            = [[Baltimore]], [[Maryland]], [[United States of America]]
+| coords              = <!-- {{coord|LAT|LON|display=inline, title}} -->
+| region              = 
+| services            = 
+| products            = 
+| methods             = 
+| fields              = 
+| membership          = 
+| membership_year     = 
+| language            = 
+| owner               = <!-- or | owners = -->
+| sec_gen             = 
+| leader_title        = [[Chief Executive Officer|CEO]] and Director
+| leader_name         = Tom Inglesby
+| leader_title2       = [[Chief Operating Officer|COO]] and Deputy Director
+| leader_name2        = Anita Cicero
+| leader_title3       = 
+| leader_name3        = 
+| leader_title4       = 
+| leader_name4        = 
+| board_of_directors  = 
+| key_people          = {{unbulleted list|[[D. A. Henderson]]|[[Tara O'Toole]]}}
+| main_organ          = 
+| parent_organization = 
+| subsidiaries        = 
+| secessions          = 
+| affiliations        = [[Johns Hopkins Bloomberg School of Public Health]]
+| budget              = 
+| budget_year         = 
+| revenue             = 
+| revenue_year        = 
+| disbursements       = 
+| expenses            = 
+| expenses_year       = 
+| endowment           = 
+| staff               = 23<ref>{{cite web |url=http://www.centerforhealthsecurity.org/our-staff/profiles/index.html |author=Teddy Karambelas |date=January 26, 2017 |title=Our Staff |accessdate=February 9, 2017}}</ref>
+| staff_year          = 2017
+| volunteers          = 
+| volunteers_year     = 
+| slogan              = 
+| mission             = "Protect people's health from the consequences of epidemics and disasters and ensure that communities are resilient to major challenges."<ref>{{cite web |url=http://www.centerforhealthsecurity.org/ |author=Teddy Karambelas |date=February 7, 2017 |title=JHSPH Center for Health Security |accessdate=February 9, 2017}}</ref>
+| website             = {{URL|http://www.centerforhealthsecurity.org/}}
+| remarks             = 
+| formerly            = {{unbulleted list|Johns Hopkins Center for Civilian Biodefense Strategies (1998–2003)|Center for Biosecurity of UPMC (2003–2013)|UPMC Center for Health Security (2013–2017)}}
+| footnotes           = 
+}}
+The '''Johns Hopkins Center for Health Security''' (abbreviated '''CHS'''; previously the '''UPMC Center for Health Security''',<ref name="jh_rename">{{cite web |url=http://www.centerforhealthsecurity.org/our-work/events/JHSPH%20Partnership/JHSPH%20Partnership |author=Price Tyson |date=January 16, 2017 |title=Center for Health Security Joins Johns Hopkins Bloomberg School |publisher=Johns Hopkins Center for Health Security |accessdate=February 8, 2017 |quote=the Center for Health Security, which had previously been affiliated with the University of Pittsburgh Medical Center (UPMC), has joined the Johns Hopkins Bloomberg School of Public Health.}}</ref> the '''Center for Biosecurity of UPMC''', and the '''Johns Hopkins Center for Civilian Biodefense Strategies''') is an independent, nonprofit organization of the [[Johns Hopkins Bloomberg School of Public Health]] that works in the area of health consequences from epidemics and disasters. It is a [[think tank]] that does policy research and gives policy recommendations to the [[United States government]].<ref name=about>[http://www.upmchealthsecurity.org/website/about_us/ Center for Health Security] Mission Statement   {{webarchive |url=https://web.archive.org/web/20130622081819/http://www.upmchealthsecurity.org/website/about_us/ |date=June 22, 2013 }}</ref><ref name="open_phil" />
+
+==History==
+
+The Center for Health Security began as the Johns Hopkins Center for Civilian Biodefense Strategies (CCBS) in 1998 at the Johns Hopkins Bloomberg School of Public Health.<ref name="roos" /> [[D. A. Henderson]] served as the founding director.<ref>{{cite web |url=http://www.centerforhealthsecurity.org/our-staff/profiles/henderson/index.html |author=UPMC Center for Health Security |date=January 18, 2017 |title=D. A. Henderson |accessdate=February 10, 2017 |quote=He was Dean Emeritus and Professor at the Johns Hopkins School of Public Health and a Founding Director (1998) of the Johns Hopkins Center for Civilian Biodefense Strategies.}}</ref> At that time, the Center was the first and only academic center focused on biosecurity policy and practice.
+
+At one point around 2003, CHS had become part of a new [[umbrella organization]] called the Institute for Global Health and Security at the Johns Hopkins Bloomberg School of Public Health.<ref name="roos" /><ref>{{cite web |url=http://pages.jh.edu/~gazette/2003/22sep03/22global.html |title=Public Health forms Global Health, Security Institute |publisher=''Johns Hopkins Gazette'' |date=September 22, 2003 |accessdate=February 10, 2017 |first=Tim |last=Parsons}}</ref><ref>{{cite web |url=http://www.jhsph.edu/news/news-releases/2003/global-health-security.html |author=JH Bloomberg School of Public Health |date=September 16, 2003 |title=Institute for Global Health and Security |publisher=Johns Hopkins Bloomberg School of Public Health |accessdate=February 10, 2017}}</ref>
+
+In November 2003, the leaders left Johns Hopkins to join the [[University of Pittsburgh Medical Center]] (UPMC), and relaunched the Center as the Center for Biosecurity of UPMC. This move apparently split the organization in two, and it is unclear what happened to the old organization.<ref name="roos">{{cite web |url=http://www.cidrap.umn.edu/news-perspective/2003/09/johns-hopkins-biodefense-experts-head-new-direction |first=Robert |last=Roos|publisher=CIDRAP |title=Johns Hopkins biodefense experts head in new direction |accessdate=February 8, 2017 |date=September 23, 2003 |quote=the four full-time faculty members and 16 administrative staff members of the CCBS are all leaving Hopkins to join the UPMC. 'No decision has been made exactly what to do with the Center for Civilian Biodefense Strategies, whether it'll have a new direction or mission incorporated into some other center,' [Tim Parsons] said. 'But its biodefense activities will be incorporated in some way into the new initiative of the Institute for Global Health Security.'}}</ref>
+
+On April 30, 2013, the Center changed its name from "Center for Biosecurity of UPMC" to "UPMC Center for Health Security". This name change reflected a broadening of the scope of CHS's work.
+
+In January 2017, the Center became part of the [[Johns Hopkins Bloomberg School of Public Health]]. Its [[domain name]] changed from upmchealthsecurity.org to centerforhealthsecurity.org.<ref name="jh_rename" />
+
+==Funding==
+
+In 2002, the Center received a $1 million grant from the US federal government.<ref>{{cite web |url=http://www.jhsph.edu/news/news-releases/2002/biodefense-grant.html |date=January 7, 2002 |title=Biodefense Center to Receive $1 Million |author=JH Bloomberg School of Public Health |publisher=Johns Hopkins Bloomberg School of Public Health |accessdate=February 10, 2017}}</ref>
+
+Before 2017, CHS was heavily reliant on government funding.<ref name="open_phil" />
+
+In January 2017, the [[Open Philanthropy Project]] awarded a $16 million grant over three years to the Center for Health Security.<ref name="open_phil">{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/biosecurity/center-health-security-biosecurity-global-health-security-and-global-catastrophic |title=Johns Hopkins Center for Health Security — Biosecurity, Global Health Security, and Global Catastrophic Risks |publisher= Open Philanthropy Project |accessdate=February 8, 2017}}</ref><ref>{{cite web |url=http://thedailyrecord.com/2017/02/08/maryland-health-security-grant-hopkins/ |title=Hopkins' Center for Health Security gets $16M grant |publisher=Maryland Daily Record |author=Associated Press |date=February 8, 2017 |accessdate=February 8, 2017 |quote=The Johns Hopkins Bloomberg School of Public Health's Center for Health Security has been awarded a three-year, $16 million grant to support work on strengthening health security and public health preparedness.}}</ref><ref>{{cite web |url=http://www.washingtontimes.com/news/2017/feb/8/center-for-health-security-gets-16m-grant/ |publisher=''[[The Washington Times]]'' |title=Center for Health Security gets $16M grant |date=February 8, 2017 |accessdate=February 8, 2017}}</ref>
+
+==Publications==
+
+The Center for Health Security publishes three online newsletters:
+
+* ''Clinicians' Biosecurity News'' (formerly the ''Clinicians' Biosecurity Network Report''), published twice each month<ref>{{cite web |url=http://www.upmc-cbn.org/about_cbn/about_network.html |author=Center for Biosecurity of UPMC |date=January 16, 2017 |title=About Clinicians' Biosecurity News |publisher=UPMC Center for Health Security |accessdate=February 9, 2017}}</ref>
+* ''Health Security Headlines'', a daily news digest<ref>{{cite web |url=http://www.centerforhealthsecurity.org/resources/hsh/index.html |author=Center for Biosecurity of UPMC |date=January 31, 2017 |title=Health Security Headlines |accessdate=February 9, 2017}}</ref> (previously called ''Biosecurity Briefing'',<ref>{{cite web |url=https://web.archive.org/web/20070927021007/http://www.upmc-biosecurity.org/website/biosecurity_briefing |author=Center for Biosecurity of UPMC |title=Biosecurity Briefing |date=September 21, 2007 |accessdate=February 10, 2017}}</ref> then ''Biosecurity News in Brief'' starting in 2009,<ref>{{cite web |url=https://web.archive.org/web/20090501170510/http://www.upmc-biosecurity.org/website/biosecurity_briefing/ |author=Center for Biosecurity of UPMC |title=Biosecurity News in Brief -- Center for Biosecurity of UPMC |date=April 30, 2009 |accessdate=February 10, 2017}}</ref> then ''Biosecurity News Today'' starting in 2010 or 2011,<ref>{{cite web |url=https://web.archive.org/web/20110717134042/http://www.upmc-biosecurity.org/website/biosecurity_briefing |author=Center for Biosecurity of UPMC |date=July 15, 2011 |title=Biosecurity News Today |accessdate=February 10, 2017 |quote=Biosecurity News Today}}</ref> and finally ''Health Security Headlines'' starting in 2013;<ref>{{cite web |url=https://web.archive.org/web/20130206192754/http://www.upmc-biosecurity.org/website/biosecurity_briefing/ |author=Center for Biosecurity of UPMC |date=August 13, 2012 |title=Center for Biosecurity {{!}} UPMC {{!}} Biosecurity News Today |accessdate=February 10, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20130711042710/http://www.upmchealthsecurity.org/website/health-security-headlines/ |author=Center for Biosecurity of UPMC |date=July 1, 2013 |title=Health Security Headlines {{!}} Published by UPMC Center for Health Security |accessdate=February 10, 2017}}</ref> the digest used to also be weekly until in February 2009)<ref>{{cite web |url=http://incaseofemergencyblog.com/2009/02/05/weekly-biosecurity-briefing-e-newsletter-is-becoming-a-daily/ |title=Weekly "Biosecurity Briefing" E-Newsletter Is Becoming A Daily |website=In Case Of Emergency, Read Blog |first=John |last=Solomon |date=February 5, 2009 |accessdate=February 10, 2017 |quote=I am happy to report that a helpful weekly email resource is going daily beginning this Monday. The ''Biosecurity Briefing'', published by the Baltimore-based Center for Biosecurity of the University of Pittsburgh Medical Center, is being expanded.}}</ref>
+* ''Preparedness Pulsepoints'', published weekly<ref>{{cite web |url=http://www.centerforhealthsecurity.org/resources/pulsepoints/index.html |author=Center for Biosecurity of UPMC |date=January 31, 2017 |title=Preparedness Pulsepoints |accessdate=February 9, 2017}}</ref>
+
+It also provides editorial oversight for the journal ''Health Security'',<ref>{{cite web |url=http://www.centerforhealthsecurity.org/our-work/index.html |author=Rob Adams |date=January 18, 2017 |title=Our Work |accessdate=February 9, 2017 |quote=Journal: The Center provides editorial oversight for the peer-reviewed journal, Health Security, which is published 6 times per year.}}</ref> which was launched in 2003 and called ''Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science'' until 2015.<ref>{{cite web |url=http://online.liebertpub.com/bsp |title=Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science {{!}} Issue List |accessdate=February 9, 2017}}</ref>
+
+CHS also publishes the [[blog]] ''The Bifurcated Needle''.<ref>{{cite web |url=http://www.bifurcatedneedle.com/about/ |publisher=Johns Hopkins Center for Health Security |website=The Bifurcated Needle |title=About |accessdate=February 10, 2017}}</ref>
+
+The Open Philanthropy Project's grant writeup of CHS noted several publications:<ref name="open_phil" />
+
+* {{Cite journal| doi = 10.1126/science.aab0713| issn = 0036-8075| volume = 349| issue = 6250| pages = 792–793| last1 = Boddie| first1 = Crystal| last2 = Watson| first2 = Matthew| last3 = Ackerman| first3 = Gary| last4 = Gronvall| first4 = Gigi Kwik| title = Assessing the bioweapons threat: Is there a foundation of agreement among experts about risk?| journal = Science| date = August 21, 2015| url = http://www.upmchealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2015/Science2015Boddie7923_1.pdf | pmid = 26293941}}
+* {{Cite journal| doi = 10.15252/embr.201541674| issn = 1469-3178| volume = 17| issue = 2| pages = 127–130| last1 = Inglesby| first1 = Thomas V.| last2 = Relman| first2 = David A.| title = How likely is it that biological agents will be used deliberately to cause widespread harm?| journal = EMBO reports| date = February 1, 2016| url = http://onlinelibrary.wiley.com/doi/10.15252/embr.201541674/abstract}}
+* {{Cite web|url=http://www.upmchealthsecurity.org/our-work/pubs_archive/pubs-pdfs/2016/Final_report_to_PASCC_071416.pdf |title=Improving Security through International Biosafety Norms |first1=Gigi Kwik |last1=Gronvall|first2=Matthew|last2= Shearer|first3= Hannah|last3= Collins|first4= Thomas|last4= Inglesby |date=July 14, 2016 |publisher=UPMC Center for Health Security}}
+
+The Center has published in journals including ''[[JAMA (journal)|JAMA]]'' and ''[[The Lancet]]''. A full list of publications is available on the CHS website. {{as of|2017|02}}, the list shows more than 400 publications.<ref>{{cite web |url=http://www.centerforhealthsecurity.org/our-work/publications/?resultCount=9999&view=list |title=All Publications |accessdate=February 9, 2017}}</ref>
+
+==Major conferences and events==
+
+===Atlantic Storm===
+
+On January 14, 2005, CHS helped to host [[Atlantic Storm]], a table-top [[smallpox]] [[bioterrorism]] simulation.<ref name="open_phil" />
+
+===Operation Dark Winter===
+
+From June 22–23, 2001, CHS co-hosted [[Operation Dark Winter]], a senior-level bioterrorism attack simulation involving a covert and widespread smallpox attack on the United States.
+
+===Other===
+
+{{Div col|colwidth=30em}}
+*Improving Epidemic Response: Building Bridges Between the US and China. May 2012.
+*Considerations for the Reauthorization of the Pandemic and All-Hazards Preparedness Act (PAHPA). March 2012.
+*U.S. Preparedness for a Nuclear Detonation. October 2011.
+*Charting the Future of Biosecurity: Ten Years After the Anthrax Attacks. October 2011.
+*Advancing US Resilience to a Nuclear Catastrophe. May 2011.
+*Preserving National Security: The Growing Role of the Life Sciences. March 2011.
+*Improving Global Health, Strengthening Global Security. November 2010.
+*The State of BIOPreparedness: Lessons from Leaders, Proposals for Progress. September 2010.
+*Preparing to Save Lives and Recover After a Nuclear Detonation: Implications for US Policy. April 2010.
+*The 2009 H1N1 Experience: Policy Implications for Future Infectious Disease Emergencies. March 2010.
+*Resilient American Communities: Progress In Practice and Policy. December 10, 2009.
+*Prevention of Biothreats: A Look Ahead. October 6, 2009.
+*Disease, Disaster, and Democracy: The Public's Stake in Health Emergency Planning. May 2006.
+*Bulls, Bears, and Birds: Preparing the Financial Industry for a Pandemic. September 2005.
+*Conference on Biosafety and Biorisks. May 2005.
+*The Public as an Asset, Not a Problem: A Summit on Leadership During Bioterrorism. February 2003.
+*2nd National Symposium on Medical and Public Health Response to Bioterrorism. November 2000.
+*National Symposium on Medical and Public Health Response to Bioterrorism. February 1999.
+{{Div col end}}
+
+==See also==
+
+{{Div col|colwidth=20em}}
+* [[Open Philanthropy Project#Biosecurity|Open Philanthropy Project § Biosecurity]]
+* [[Global catastrophic risk]]
+* [[Public Health Emergency Preparedness]]
+* [[Office of the Assistant Secretary for Preparedness and Response]]
+* [[PublicHealthEmergency.gov]]
+* [[Pandemic and All-Hazards Preparedness Reauthorization Act of 2013]]
+* [[Global Health Security Initiative]]
+* [[Council of Europe Convention on the Prevention of Terrorism]]
+* [[International Health Regulations]]
+* [[Cartagena Protocol on Biosafety]]
+* [[Center for Strategic and International Studies]]
+* [[Johns Hopkins Berman Institute of Bioethics]]
+* [[Biological Weapons Convention]]
+* [[Biological Weapons Anti-Terrorism Act of 1989]]
+* [[Convention on Biological Diversity]]
+* [[Anti-terrorism legislation]]
+* [[Health Threat Unit]]
+* [[European Programme for Intervention Epidemiology Training]]
+* [[European BioSafety Association]]
+* ''[[Eurosurveillance]]''
+* [[Alfred P. Sloan Foundation]]
+{{Div col end}}
+
+==External links==
+* {{Official website|http://www.centerforhealthsecurity.org/}}
+* [http://www.bifurcatedneedle.com/ ''The Bifurcated Needle''], the Center for Health Security's blog
+* [http://www.upmc-cbn.org/index.html ''Clinicians' Biosecurity News''], a twice monthly newsletter published by the Center
+* [http://www.liebertpub.com/hs ''Health Security'']
+* [http://www.liebertonline.com/loi/bsp ''Biosecurity & Bioterrorism: Biodefense Strategy, Practice, and Science'']
+* [http://www.idcostcalc.org/ Infectious Disease Cost Calculator], produced by the Center
+* [http://www.emergingbioleaders.org/ The Emerging Leaders in Biosecurity Initiative]
+* [http://www.centerforhealthsecurity.org/resources/rrc/ Rad Resilient City]; [http://www.centerforhealthsecurity.org/our-work/interactives/rad-resilient-city/index Rad Resilient City Preparedness Checklist Actions]
+
+==References==
+{{Reflist|30em}}
+
+{{JHU}}
+{{Johns Hopkins Health System}}
+{{University of Pittsburgh Medical Center}}
+{{Bioterrorism}}
+
+{{DEFAULTSORT:Johns Hopkins Center for Health Security}}
+[[Category:Biological warfare]]
+[[Category:Biological hazards]]
+[[Category:Pandemics]]
+[[Category:Public health organizations]]
+[[Category:University of Pittsburgh]]
+[[Category:Think tanks based in the United States]]
+[[Category:Nonpartisan organizations in the United States]]
