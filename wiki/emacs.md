@@ -46,10 +46,10 @@ This is because the terminal version is limited in multiple respects (Emacs
 relies on a lot of chording that doesn't come through on a terminal emulator,
 the terminal version doesn't allow mouse interaction, the terminal version
 makes access to the menu -- which I like for modes I am not familiar with --
-cumbersome).
+cumbersome, doesn't allow easy access to the system clipboard).
 Note that this situation is the opposite of that in Vim: in Vim, the graphical
 version is rather limited because it cannot access a full terminal emulator
 (moreover, Vim doesn't rely on a lot of chording, allows mouse access even from
-the terminal, and so on, so the caveats of terminal Emacs do not apply ).
+the terminal, and so on, so the caveats of terminal Emacs do not apply).
 
 I consider myself an Emacs novice.
