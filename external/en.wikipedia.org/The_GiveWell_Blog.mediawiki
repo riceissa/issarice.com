@@ -1,0 +1,33 @@
+'''The GiveWell Blog''' is the official blog of the [[charity evaluator]] [[GiveWell]].
+
+==History==
+
+[[Holden Karnofsky]] said he would post every Tuesday and Saturday.,. where is he?/.<ref>{{cite web |url=http://blog.givewell.org/2006/12/23/nice-to-meet-you/ |title=Nice to meet you |website=The GiveWell Blog |publisher=[[GiveWell]] |first=Holden |last=Karnofsky|date=September 9, 2015 |accessdate=February 11, 2017 |quote=I’m Holden, and I’m the guy who will be making sure this blog gets updated twice a week (Tuesday and Saturday) at a minimum. So if you’ve been wishing there were more blogs to read, you’ll be getting to know me well.}}</ref>
+
+in the early days, the blog was more freeflowing just like the org itself, with posts like "An open letter to crybabies", "Donating to Gates – against its will", and "Chocolate-covered broccoli". Early posts also used more images.
+
+guest posts: mention that [[David Roodman]] did one.
+
+in 201X the blog split off so that some content is now posted on the [[Open Philanthropy Project]] blog.
+
+==Reception==
+
+something something [[Andrew Gelman]]
+
+The comments section has attracted eminent minds of this century, including [[Carl Shulman]], [[User:Vipul|Vipul Naik]], and [[Amanda Glassman]].
+
+also who is colin rust?
+
+==See also==
+
+* [[User:Riceissa/Slate Star Codex|Slate Star Codex]]
+
+==External links==
+
+* {{Official website|http://blog.givewell.org/}}
+
+==References==
+
+{{Reflist|30em}}
+
+[[:Category:American blogs]]
