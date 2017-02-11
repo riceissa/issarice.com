@@ -1,0 +1,49 @@
+'''Slate Star Codex''' (abbreviated '''SSC''') is a blog by Scott Alexander.<ref>{{cite web |url=http://slatestarcodex.com/about/ |title=About |date=January 26, 2016 |publisher=Slate Star Codex |accessdate=February 11, 2017}}</ref>
+
+==Name==
+
+is "slant acronym" actually a thing"? quasi-acronym? approximate acronym?
+
+==History==
+
+at least one guest post. history of guest posts?
+
+===Tagline===
+
+In the course of the history of the blog, the [[tagline]] has kept changing. e.g. "In a Mad World, All Blogging is Psychiatry Blogging", "Peripherally associated with the Gwernosphere"
+
+==Reception==
+
+[[Bryan Caplan]], blogging at [[EconLog]], called Scott Alexander a "a fascinating new thinker to read – someone who makes me say, 'Tell me everything{{'"}} and elaborated that "he's better than me on several dimensions I deeply value".<ref>{{cite web |url=http://econlog.econlib.org/archives/2014/10/read_scott_alex.html |title=Read Scott Alexander |website= EconLog |publisher= Library of Economics and Liberty |publisher=[[EconLog]] |accessdate=February 11, 2017 |first=Bryan |last=Caplan |date=October 28, 2014}}</ref>
+
+SSC has been linked from [[Marginal Revolution (blog)|Marginal Revolution]] by [[Tyler Cowen]], who called the post "very excellent".<ref>{{cite web |url=http://marginalrevolution.com/marginalrevolution/category/medicine |title=Medicine Archives - Marginal REVOLUTION |publisher=Marginal REVOLUTION |accessdate=February 11, 2017}}</ref>
+
+[[Steve Hsu]] has called SSC posts "excellent".<ref>{{cite web |url=https://infoproc.blogspot.com/2015/02/slate-star-codex-on-ability-effort-and.html |title=Slate Star Codex on ability, effort, and achievement |accessdate=February 11, 2017}}</ref>
+
+<ref>{{cite web |url=http://www.slate.com/articles/technology/bitwise/2015/06/curtis_yarvin_booted_from_strange_loop_it_s_a_big_big_problem.html |title=When All It Takes to Be Booted From a Tech Conference Is Being a “Distraction,” We Have a Problem |publisher=Slate Magazine |accessdate=February 11, 2017 |quote=If you’re curious, the tireless Scott Alexander of Slate Star Codex has written extensive rebuttals of neoreactionary theory}}</ref>
+
+<ref>{{cite web |url=https://daviddfriedman.blogspot.com/2014/11/a-modern-orwell.html |title=Ideas: A Modern Orwell |accessdate=February 11, 2017}}</ref>
+
+==See also==
+
+* [[LessWrong]]
+* [[Dark Enlightenment]]
+* [[Curtis Yarvin]]
+* [[Bleeding-heart libertarianism]]
+* [[Ideological Turing Test]]
+* [[Scott Aaronson]]
+* [[User:Riceissa/The GiveWell Blog|The GiveWell Blog]]
+* [[David D. Friedman]]
+
+==External links==
+
+* {{official website|http://slatestarcodex.com/}}
+* [http://rationalwiki.org/wiki/Scott_Alexander RationalWiki entry on Scott Alexander]
+
+==References==
+
+{{Reflist|30em}}
+
+{{LessWrong}}
+
+[[:Category:American blogs]]
