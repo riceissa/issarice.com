@@ -168,6 +168,11 @@ Taylor Swift
 * *Living Field*
 * *Little Busters* ("Another Morning", "One Life", "Patricia", "Black Sheep")
 
+# February 2017
+
+* Coldplay: *Parachutes*
+* Coldplay: *A Rush of Blood to the Head*
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
