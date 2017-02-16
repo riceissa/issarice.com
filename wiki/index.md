@@ -30,7 +30,7 @@ belong elsewhere ends up here.
 - [Pages related to education](education)
 - A mirror of [my Quora answers]()
 
-# Summary of what I've been working on: February 2017
+# Summary of what I've been working on: February 2017 {#summary}
 
 I began the latter half of January by writing up an [essay contest about
 evaluating small-scale giving opportunities](http://effective-altruism.com/ea/16e/essay_contest_general_considerations_for/).
