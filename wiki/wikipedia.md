@@ -13,7 +13,7 @@ I've been a reader of Wikipedia for a long time, but only recently started contr
 
 Starting in late 2015 I've been doing more work on Wikipedia.
 See [Vipul Naik's page on sponsored editing](http://vipulnaik.com/sponsored-wikipedia-editing/) for more information.
-Also relevant is my current [bounty list](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki).
+Also relevant is my current [bounty list](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki).
 
 As of January 30, 2017, I have 4,320 edits on the English Wikipedia.
 More detailed statistics are available using [X!'s tools](https://tools.wmflabs.org/xtools-ec/?user=Riceissa&project=en.wikipedia.org).
@@ -26,7 +26,7 @@ See
 and
 ["Pages edited significantly but not created by Issa Rice"](http://wikipediaviews.org/displayviewsformultiplemonths.php?tag=Pages%20edited%20significantly%20but%20not%20created%20by%20Issa%20Rice&language=en&allmonths=allmonths)
 on Wikipedia Views for tabulated pageviews.
-I might not update this page often, but usually either this page, Wikipedia Views, or [my payment page](https://github.com/vipulnaik/working-drafts/blob/master/contributor-lists/issa-list.mediawiki) (which includes not just Wikipedia pages) should list my major contributions.
+I might not update this page often, but usually either this page, Wikipedia Views, or [my payment page](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki) (which includes not just Wikipedia pages) should list my major contributions.
 If listed in none of those places, then my contributions pages (on Wikipedia itself) are the definitive source.
 
 - [Professional consensus of economics](https://en.wikipedia.org/wiki/Professional_consensus_of_economics)
