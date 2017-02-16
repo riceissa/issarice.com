@@ -102,5 +102,7 @@ December 2007:
 # External links
 
 - ["Wikipedia usage survey results"](http://lesswrong.com/r/discussion/lw/nru/wikipedia_usage_survey_results/), my LessWrong post discussing a survey that Vipul Naik and I conducted
+- ["In Defense Of Inclusionism"](http://www.gwern.net/In%20Defense%20Of%20Inclusionism) by gwern
+- ["Wikipedia and Dark Side Editing"](http://www.gwern.net/Wikipedia%20and%20Dark%20Side%20Editing) by gwern
 - [Vipul Naik's page on Wikipedia](http://vipulnaik.com/wikipedia/)
 - ["The Value of Wikipedia Contributions in Social Sciences"](http://reducing-suffering.org/the-value-of-wikipedia-contributions-in-social-sciences/) by Brian Tomasik
