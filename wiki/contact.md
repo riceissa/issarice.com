@@ -4,7 +4,6 @@ author: Issa Rice
 ---
 
 The best way to contact [me](about) is via email at [riceissa@gmail.com][email].
-You can use my [PGP public key][pgp] if you would like to encrypt your message.
 
 If you prefer, you can friend me on [Facebook]() and message me there.
 
@@ -35,5 +34,4 @@ passively contact me that way, though I don't control what Quora allows.
 [l_feedb]: http://lesswrong.com/lw/8bt/tell_me_what_you_think_of_me/
 [multiq]: https://workplace.stackexchange.com/questions/44483/i-emailed-my-customer-asking-multiple-questions-their-reply-addressed-only-one
 [noc]: http://lesswrong.com/lw/eua/reasons_for_someone_to_ignore_you/ "“Reasons for someone to ‘ignore’ you” by Wei Dai"
-[pgp]: http://files.issarice.com/issarice-pubkey.asc
 [ping]: http://www.inc.com/minda-zetlin/why-you-need-to-be-better-at-following-up.html "The Art of Following Up (Without Being Annoying)"
