@@ -171,7 +171,7 @@ Taylor Swift
 # February 2017
 
 * Coldplay: *Parachutes*
-* Coldplay: *A Rush of Blood to the Head*
+* Coldplay: *A Rush of Blood to the Head* ("Warning Sign")
 
 # History
 
