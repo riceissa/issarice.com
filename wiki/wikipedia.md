@@ -76,7 +76,7 @@ These are:
 
 # Quotes
 
-[Gwern](https://en.wikipedia.org/wiki/User_talk:Gwern#My_error), May 2010:
+[gwern](https://en.wikipedia.org/wiki/User_talk:Gwern#My_error), May 2010:
 
 > But seriously: any copyvio on Youtube is Youtube or the uploader's problem.
 > Are we our brother's keeper? Our task is to make the best encyclopedia we
@@ -86,7 +86,7 @@ These are:
 > any effort spent dealing with an illusory threat yields equally illusory
 > benefits.
 
-[Gwern](https://en.wikipedia.org/wiki/Wikipedia_talk:Television_episodes/Archive_3#Is_there_any_actual_consensus_for_this_guideline_at_all.3F),
+[gwern](https://en.wikipedia.org/wiki/Wikipedia_talk:Television_episodes/Archive_3#Is_there_any_actual_consensus_for_this_guideline_at_all.3F),
 December 2007:
 
 > You and your ilk fetishize notability, you fetishize printed sources. You
