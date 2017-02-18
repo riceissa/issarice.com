@@ -65,20 +65,6 @@ before 2016      I mostly listen to mainstream Western music from a few
 2015-12 (?) to   The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
 2016-02 (?)      (band): "aitakatta shoujo", "baby blue",
                  [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
-
-2016-05          Final Fantasy VII OST ("Anxious Heart", "Barret's Theme",
-                 "Oppressed People", "Don of the Slums", "Farm Boy", "It's
-                 Difficult to Stand on Both Feet, Isn't It?", "Cait Sith's
-                 Theme", "Cosmo Canyon", "Great Warrior", "Descendant of
-                 Shinobi", "Jenova Absolute", "The Birth of God", "One-Winged
-                 Angel", "World Crisis"), Chrono Trigger OST ("Corridors of
-                 Time")
-
-2016-06          Final Fantasy 3--6 OST, Terranigma OST ("Yomi", "Present
-                 (おくりもの)"), Illusion of Gaia OST
-
-2016-07          Radiohead: *OK Computer* ("Subterranean Homesick Alien", "No
-                 Surprises", "Karma Police", "Exit Music (for A Film)")
 -------------------------------------------------------------------------------
 
 # Late 2008
@@ -133,6 +119,26 @@ Taylor Swift
 # March 2016
 
   * The Blue Hearts
+
+# May 2016
+
+* Final Fantasy VII OST ("Anxious Heart", "Barret's Theme", "Oppressed People",
+  "Don of the Slums", "Farm Boy", "It's Difficult to Stand on Both Feet, Isn't
+  It?", "Cait Sith's Theme", "Cosmo Canyon", "Great Warrior", "Descendant of
+  Shinobi", "Jenova Absolute", "The Birth of God", "One-Winged Angel", "World
+  Crisis")
+* Chrono Trigger OST ("Corridors of Time")
+
+# June 2016
+
+* Final Fantasy 3--6 OST
+* Terranigma OST ("Yomi", "Present (おくりもの)")
+* Illusion of Gaia OST
+
+# July 2016
+
+* Radiohead: *OK Computer* ("Subterranean Homesick Alien", "No Surprises",
+  "Karma Police", "Exit Music (for A Film)")
 
 # September 2016
 
