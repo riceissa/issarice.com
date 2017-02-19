@@ -182,6 +182,7 @@ The Pillows:
 * Coldplay: *A Rush of Blood to the Head* ("Warning Sign")
 * *OK Computer* sounds really good after listening to Coldplay for several days
   straight.
+  This time around, I'm liking "Paranoid Android".
 
 # History
 
