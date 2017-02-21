@@ -183,7 +183,7 @@ The Pillows:
 * *OK Computer* sounds really good after listening to Coldplay for several days
   straight.
   This time around, I'm liking "Paranoid Android".
-* *Kid A* ("The National Anthem")
+* *Kid A* ("The National Anthem", "Morning Bell")
 
 # History
 
