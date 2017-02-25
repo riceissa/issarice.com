@@ -2,6 +2,7 @@
 title: Tabular presentation
 author: Issa Rice
 created: 2016-07-01
+date: 2017-02-25
 ---
 
 Some thoughts on how best to represent information on tables.
