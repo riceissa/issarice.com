@@ -1,7 +1,7 @@
 ---
 title: Tabular presentation
 author: Issa Rice
-date: 2016-07-01
+created: 2016-07-01
 ---
 
 Some thoughts on how best to represent information on tables.
@@ -64,6 +64,27 @@ What are we trying to optimize for?
 - Obeying some principles handed down from "typographic elites"
 
 See also [Beautiful table samples](http://tex.stackexchange.com/questions/112343/beautiful-table-samples) and [Tip on how to make a visually good table](http://tex.stackexchange.com/questions/238503/tip-on-how-to-make-a-visually-good-table).
+
+# Function
+
+Having worked on various timeline pages and tables on the English Wikipedia
+(and beyond), I have developed some ideas about how tabular information should
+function.
+
+* I like to imagine each table as just the result of one possible SQL query out
+  of numerous possible ones that could be pulling information from a database.
+* Building off of the previous point, the table should give an *answer* based
+  on the reader's *query*.
+  But since the table is the result of just a *single* query, it only
+  "answers" one thing!
+  It seems too easy to assemble ["an indiscriminate collection of
+  information"](https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_an_indiscriminate_collection_of_information)
+  without answering the questions the readers are asking.
+* It is useful to have rows that are sortable by each of the columns.
+  Working off of the SQL analogy, each sorted state is a different query (you
+  can think of it as tacking on different `ORDER BY` clauses to the query), so
+  making the table sortable is a way to increase the number of queries readers
+  can run -- and thus the number of questions they can answer.
 
 # Acknowledgments
 
