@@ -1,4 +1,4 @@
-__INDEX__
+{{lowercase title}}
 {{Infobox software
 |name                 = fugitive.vim
 |logo                 = 
@@ -19,7 +19,7 @@ __INDEX__
 
 ==Name==
 
-As with other Tim Pope plugins, the name of the plugin obliquely refers to its functionality. "fugitive.vim" contains the [[substring]] "git", as it is a [[Git]] wrapper. Tim Pope later wrote rhubarb.vim, which contains the substring "hub" in its name, as it provides the <code>:Gbrowse</code> command to work with [[GitHub]].<ref>{{cite web |url=https://github.com/tpope/vim-rhubarb |title=rhubarb.vim |accessdate=February 9, 2016}}</ref>
+As with other plugins by Tim Pope, the name of the plugin obliquely refers to its functionality. "fugitive.vim" contains the [[substring]] "git", as it is a [[Git]] wrapper. Pope later wrote rhubarb.vim, whose name contains the substring "hub", as it provides the <code>:Gbrowse</code> command to work with [[GitHub]].<ref>{{cite web |url=https://github.com/tpope/vim-rhubarb |title=rhubarb.vim |accessdate=February 9, 2016}}</ref>
 
 "fugitive.vim" is the plugin's [[filename]], while "vim-fugitive" is used for the [[GitHub]] repository name as well as for the package name in several [[Linux distribution]]s.
 
@@ -39,11 +39,11 @@ It also allows an interactive vertical split for <code>git blame</code>.<ref>{{c
 
 ==Reception==
 
-fugitive.vim is one of the few Vim plugins to have its own package in the [[Ubuntu (operating system)|Ubuntu]] package repository.<ref>{{cite web |url=http://packages.ubuntu.com/search?suite=default&section=all&arch=any&keywords=vim-&searchon=names |title=Package Search Results for 'vim-'}}</ref> It is also one of 16 Vim plugins in the official [[Fedora (operating system)|Fedora]] package repository.<ref>{{cite web |url=https://admin.fedoraproject.org/pkgdb/packages/vim%2A/ |title=Fedora Package Database |accessdate=February 9, 2017}}</ref> The plugin is also available from the [[Arch Linux]] packages repository.<ref>{{cite web |url=https://www.archlinux.org/packages/community/any/vim-fugitive/ |title=Arch Linux - vim-fugitive 2.2-1 (any) |accessdate=February 9, 2017 |date=January 26, 2015}}</ref>
+fugitive.vim is one of around 30 Vim plugins to have its own package in the [[Ubuntu (operating system)|Ubuntu]] package repository.<ref>{{cite web |url=http://packages.ubuntu.com/search?suite=default&section=all&arch=any&keywords=vim-&searchon=names |title=Package Search Results for 'vim-'}}</ref> It is also one of 16 Vim plugins in the official [[Fedora (operating system)|Fedora]] package repository.<ref>{{cite web |url=https://admin.fedoraproject.org/pkgdb/packages/vim%2A/ |title=Fedora Package Database |accessdate=February 9, 2017}}</ref> The plugin is also available from the [[Arch Linux]] packages repository.<ref>{{cite web |url=https://www.archlinux.org/packages/community/any/vim-fugitive/ |title=Arch Linux - vim-fugitive 2.2-1 (any) |accessdate=February 9, 2017 |date=January 26, 2015}}</ref>
 
-The plugin is also included in Vim distributions like spf13<ref>{{cite web |url=http://vim.spf13.com/ |first=Steve |last=Francia |title=spf13-vim - The Ultimate Vim Distribution |accessdate=February 8, 2017}}</ref> and Janus.<ref>{{cite web|url=https://github.com/carlhuda/janus |accessdate=February 8, 2017 |title=Janus: Vim Distribution}}</ref>
+The plugin is part of Vim distributions including spf13<ref>{{cite web |url=http://vim.spf13.com/ |first=Steve |last=Francia |title=spf13-vim - The Ultimate Vim Distribution |accessdate=February 8, 2017}}</ref> and Janus.<ref>{{cite web|url=https://github.com/carlhuda/janus |accessdate=February 8, 2017 |title=Janus: Vim Distribution}}</ref>
 
-fugitive.vim was covered on Vimcasts in a multi-part series,<ref>{{cite web |url=http://vimcasts.org/blog/2011/05/the-fugitive-series/ |title=The Fugitive Series - a retrospective |accessdate=February 8, 2017}}</ref> a distinction held only by two other Vim plugins: UltiSnips and abolish.vim (another plugin by Tim Pope).<ref>{{cite web |url=http://vimcasts.org/blog/2011/05/the-fugitive-series/ |title=The Fugitive Series - a retrospective |accessdate=February 9, 2017 |first=Drew |last=Neil |date=May 18, 2011}}</ref>
+Drew Neil of Vimcasts covered fugitive.vim favorably in a multi-part series.<ref>{{cite web |url=http://vimcasts.org/blog/2011/05/the-fugitive-series/ |title=The Fugitive Series - a retrospective |accessdate=February 9, 2017 |first=Drew |last=Neil |date=May 18, 2011}}</ref>
 
 The scripts page for fugitive.vim on the Vim website shows that the plugin has been downloaded almost 13,000 times.<ref name="vimscripts_site" /> {{as of|2017|02}}, the plugin's repository on [[GitHub]] has nearly 8,000 stars,<ref name="github_repo">{{cite web |url=https://github.com/tpope/vim-fugitive |title=fugitive.vim |accessdate=February 8, 2017}}</ref> and is the eighth most popular [[Vim script]] GitHub repository by number of stars.<ref>{{cite web |url=https://github.com/search?l=Vim+script&o=desc&q=stars%3A%3E1000&s=stars&type=Repositories&utf8=%E2%9C%93 |title=GitHub Search for "stars:>1000", Vim script, sorted by most stars |accessdate=February 9, 2017}}</ref>
 
@@ -55,5 +55,5 @@ The scripts page for fugitive.vim on the Vim website shows that the plugin has b
 
 {{Reflist|30em}}
 
-[[:Category:Git (software)]]
-[[:Category:Vi]]
+[[Category:Git (software)]]
+[[Category:Vi]]
