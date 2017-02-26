@@ -113,6 +113,10 @@ December 22 and converted them to MP3.
 
 * Taylor Swift ("I Knew You Were Trouble", "22")
 
+# June 2015
+
+* Taylor Swift ("Better Than Revenge")
+
 # August 2015
 
 * Corinne Bailey Rae: ["Put Your Records
