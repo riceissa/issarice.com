@@ -29,7 +29,6 @@ Some others:
 - "Dream A Little Dream of Me"---Ella Fitzgerald, Doris Day
 - Taylor Swift---"Blank Space", "22", "Back to December", "The Way I Loved You", "Forever and Always", "Ours", "Red", "Our Song"
 - Neon Genesis Evangelion OST
-- Wings Of Honneamise OST
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 
 (I plan to make a table like the following to better keep track of my music.
@@ -115,6 +114,7 @@ Taylor Swift
 * Corinne Bailey Rae: ["Put Your Records
   On"](http://www.azlyrics.com/lyrics/corinnebaileyrae/putyourrecordson.html)
 * Norah Jones (starting around this time): "She's 22"
+* Wings Of Honneamise OST
 
 # December 2015
 
