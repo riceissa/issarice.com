@@ -33,7 +33,6 @@ Some others:
 - Wings Of Honneamise OST
 - "She's 22" by Norah Jones
 - RahXephon OST (the classical tracks)
-- Hyouka OST
 - Hilary Hahn (via Andrew Ho)
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 
@@ -117,7 +116,9 @@ Taylor Swift
 
 # March 2016
 
-  * The Blue Hearts
+* The Blue Hearts
+* Hyouka OST (I think I watched Hyouka from March 7--23, and began listening to
+  the OST during this period or soon after)
 
 # May 2016
 
