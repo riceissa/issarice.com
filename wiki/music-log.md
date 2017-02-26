@@ -32,7 +32,6 @@ Some others:
 - Neon Genesis Evangelion OST
 - Wings Of Honneamise OST
 - "She's 22" by Norah Jones
-- RahXephon OST (the classical tracks)
 - Hilary Hahn (via Andrew Ho)
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 
@@ -113,6 +112,10 @@ December 22 and converted them to MP3.
 # 2015
 
 Taylor Swift
+
+# December 2015
+
+* RahXephon OST (the classical tracks)
 
 # March 2016
 
