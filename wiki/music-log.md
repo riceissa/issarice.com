@@ -105,9 +105,9 @@ December 22 and converted them to MP3.
 "頼りない天使", "バックビートにのっかって", and also their later albums:
 *空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.
 
-# 2015
+# February 2015
 
-Taylor Swift
+* Taylor Swift ("Shake It Off", "22")
 
 # August 2015
 
