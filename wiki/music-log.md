@@ -52,7 +52,7 @@ before 2016      I mostly listen to mainstream Western music from a few
 
 2013 or 2014     [Sidi Touré](!w), [Detektivbyrån](!w)
 
-2015-12 (?) to   The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
+2015-12 (?) to   Sunny Day Service
 2016-02 (?)      (band): "aitakatta shoujo", "baby blue",
                  [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
 -------------------------------------------------------------------------------
@@ -119,6 +119,7 @@ Taylor Swift
 # December 2015
 
 * RahXephon OST (the classical tracks)
+* The Seatbelts and *Cowboy Bebop* OST
 
 # March 2016
 
