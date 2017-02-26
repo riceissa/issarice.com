@@ -1,4 +1,3 @@
-{{INDEX}}
 {{Infobox website
 | name               = ICWATCH
 | logo               = 
@@ -86,7 +85,7 @@ Ian Paul of ''[[PC World]]'' voiced concern for the safety of the individuals li
 
 {{Reflist|30em}}
 
-[[:Category:Computer surveillance]]
-[[:Category:Mass surveillance]]
-[[:Category:Online archives]]
-[[:Category:Privacy of telecommunications]]
+[[Category:Computer surveillance]]
+[[Category:Mass surveillance]]
+[[Category:Online archives]]
+[[Category:Privacy of telecommunications]]
