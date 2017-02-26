@@ -1,0 +1,92 @@
+{{INDEX}}
+{{Infobox website
+| name               = ICWATCH
+| logo               = 
+| logo_size          =
+| logo_alt           = 
+| logo_caption       = <!-- or: | logocaption =  -->
+| screenshot         = 
+| collapsible        = <!-- set as "on", "y", etc, otherwise omit/leave blank -->
+| collapsetext       = <!-- collapsible area's heading (default "Screenshot"); omit/leave blank if collapsible not set -->
+| background         = <!-- for collapsetext heading; default grey (gainsboro) -->
+| screenshot_size    =
+| screenshot_alt     = 
+| caption            = 
+| url                = {{URL|https://icwatch.wikileaks.org/}}
+| slogan             = 
+| commercial         = No
+| type               = 
+| registration       = 
+| language           = English
+| num_users          = 
+| content_license    = <!-- or: | content_licence = -->
+| programming_language = {{unbulleted list|[[Ruby (programming language)|Ruby]]|[[JavaScript]]<ref>{{cite web |url=https://github.com/TransparencyToolkit |title=Transparency Toolkit |publisher=[[GitHub]] |accessdate=February 22, 2017}}</ref>}}
+| owner              = <!-- or: | owners = -->
+| author             = Transparency Toolkit
+| editor             = <!-- or: | editors = -->
+| launch_date        = {{start date and age|2015|05|06|df=no}}
+| revenue            = 
+| alexa              = <!-- {{increase}} {{steady}} {{decrease}} [http://www.alexa.com/siteinfo/example.com ##] (US/Global MM/YYYY) -->
+| ip                 = 
+| issn               = <!-- ISSN, e.g. 1085-6706 (automatically linked to http://www.WorldCat.org) -->
+| oclc               = <!-- OCLC number, useful where an ISSN has not been allocated (automatically linked to http://www.WorldCat.org) -->
+| current_status     = Online
+| footnotes          = 
+}}
+'''ICWATCH''' is a public database of mainly [[LinkedIn]] profiles of people in the [[United States Intelligence Community]]. The database was created by Transparency Toolkit and is hosted by [[WikiLeaks]].<ref name="mb">{{cite web |url=https://motherboard.vice.com/en_us/article/this-database-gathers-the-resumes-of-27000-intelligence-workers |publisher=Motherboard |title=This Database Gathers the Resumes of 27,000 Intelligence Workers |date=May 7, 2015 |publisher=Vice |author=Joseph Cox |website=Motherboard |accessdate=February 22, 2017}}</ref>
+
+==Background==
+
+The publication of [[global surveillance disclosures (2013–present)|global surveillance disclosures in 2013]] revealed [[code name]]s for surveillance projects including [[MARINA]] and [[MAINWAY]].<ref>{{cite web |url=https://www.washingtonpost.com/investigations/us-surveillance-architecture-includes-collection-of-revealing-internet-phone-metadata/2013/06/15/e9bf004a-d511-11e2-b05f-3ea3f0e7bb5a_story.html |publisher=[[The Washington Post]] |title=U.S. surveillance architecture includes collection of revealing Internet, phone metadata |accessdate=February 26, 2017 |date=Barton Gellman |date=June 15, 2013}}</ref><ref>{{cite web |url=https://www.techdirt.com/articles/20130617/01163623501/why-nsa-president-bush-got-fisa-court-to-reinterpret-law-order-to-collect-tons-data.shtml |title=Why The NSA And President Bush Got The FISA Court To Reinterpret The Law In Order To Collect Tons Of Data |publisher=Techdirt |accessdate=February 26, 2017 |date=June 17, 2013 |author=Mike Masnick}}</ref> It was then discovered that the [[LinkedIn]] profiles of individuals in the intelligence community mentioned these code names as well as additional ones.<ref>{{cite web |url=https://twitter.com/csoghoian/status/346139237856460801 |author=Christopher Soghoian |date=June 15, 2013 |publisher=Twitter |accessdate=February 26, 2017 |title=Tweet by @csoghoian |quote=Linkedin profiles of people in Maryland that mention MARINA & NUCLEON have some fun other codenames like TRAFFICTHIEF}}</ref><ref>{{cite web |url=https://www.techdirt.com/articles/20130617/13482623512/discovering-names-secret-nsa-surveillance-programs-via-linkedin.shtml |title=Discovering Names Of Secret NSA Surveillance Programs Via LinkedIn |publisher=Techdirt |accessdate=February 26, 2017 |date=June 18, 2013 |author=Mike Masnick}}</ref> Transparency Toolkit took advantage of this and automated the collection of LinkedIn profiles mentioning such code names, collating them into a searchable database.<ref name="mb" /><ref name="zdnet_20150506">{{cite web |url=http://www.zdnet.com/article/linkedin-serves-up-resumes-of-27000-us-intelligence-personnel/ |publisher=ZDNet |title=LinkedIn serves up resumes of 27,000 US intelligence personnel |author=Rob O'Neill |accessdate=February 22, 2017 |date=May 6, 2015}}</ref><ref>{{cite web |author=Kalev Leetaru |url=http://www.forbes.com/sites/kalevleetaru/2016/08/13/is-government-secrecy-dead-in-the-internet-and-social-media-era/ |archive-date=February 22, 2017 |archive-url=https://archive.fo/kqsCC#selection-2441.182-2447.371 |dead-url=no |publisher=Forbes |title=Is Government Secrecy Dead In The Internet And Social Media Era? |date=August 13, 2016 |accessdate=February 22, 2017 |quote=Last year the Transparency Toolkit released ICWATCH, a searchable database of more than 27,000 intelligence community employees, culled entirely from keyword searches of information IC employees uploaded themselves to LinkedIn. Indeed, ICWATCH demonstrated that myriad highly classified programs were openly listed on LinkedIn profiles, often with enough contextual information to at least guess at their application area.}}</ref>
+
+==Name==
+
+The name "ICWATCH" is a play on [[ICREACH]], an alleged [[Classified information|top-secret]] surveillance-related search engine created by the United States [[National Security Agency]] after the [[September 11 attacks]].<ref name="Intercept">{{cite web | last = Gallagher | first = Ryan | title = The Surveillance Engine: How the NSA Built Its Own Secret Google | work = [[The Intercept]] | date = Aug 25, 2014 | url = https://firstlook.org/theintercept/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton/ }}</ref><ref name="mb" />
+
+==History==
+
+The initial commit to the [[Git]] repository of LookingGlass was made on August 23, 2014.<ref>{{cite web |url=https://github.com/TransparencyToolkit/LookingGlass/commit/38d1787a21144654c9e7baf895fe34a21e992854 |date=August 23, 2014 |title=First version |author=M. C. McGrath (Shidash) |publisher=[[GitHub]]}}</ref> LookingGlass is a search tool that was built for use in ICWATCH.<ref name="zdnet_20150506" />
+
+ICWATCH launched on May 6, 2015;<ref>{{cite web |url=https://transparencytoolkit.org/icwatch/ |title=ICWATCH |publisher=Transparency Toolkit |accessdate=February 22, 2017 |date=May 6, 2015 |author=M. C. McGrath}}</ref> on the same day, Transparency Toolkit, the group that created ICWATCH, presented it at the [[re:publica]] conference.<ref name="mb" /> At launch, the database contained information from over 27,000 LinkedIn profiles.<ref name="mb" /><ref name="pcw">{{cite web |url=http://www.pcworld.com/article/2919975/new-database-taps-linkedin-to-watch-the-nsa-watchers.html |date=May 7, 2015 |publisher=PCWorld |title=New database taps LinkedIn to watch the NSA watchers |accessdate=February 22, 2017 |author=Ian Paul}}</ref>
+
+By mid-May 2015, Transparency Toolkit began receiving requests from individuals to be removed from ICWATCH, including [[death threat]]s.<ref name="zdnet">{{cite web |url=http://www.zdnet.com/article/death-threat-fbi-complaint-greet-launch-of-intelligence-community-database/ |publisher=ZDNet |title=Death threat, FBI complaint greet launch of intelligence community database |author=Rob O'Neill |accessdate=February 22, 2017 |date=May 19, 2015}}</ref><ref name="rt">{{cite web |url=https://www.rt.com/usa/260577-wikileaks-contractor-database-transparency/ |publisher=RT International |title=WikiLeaks takes spy contractor database under its wing amid death threats |accessdate=February 22, 2017 |date=May 20, 2015}}</ref> Following the threats as well as [[distributed denial-of-service attack]]s made against the site, WikiLeaks began hosting the website and database by the end of May 2015.<ref>{{cite web |url=https://www.democracynow.org/2015/5/28/the_kill_list_icwatch_uses_linkedin |title=The Kill List: ICWatch Uses LinkedIn Account Info to Out Officials Who Aided Assassination Program |publisher=''[[Democracy Now!]]'' |accessdate=February 22, 2017 |date=May 28, 2015}}</ref><ref name="zdnet" />
+
+By May 20, 2015, the number of profiles in ICWATCH had increased to almost 140,000.<ref name="rt" />
+
+In August 2016 [[TechCrunch]] reported that LinkedIn was suing 100 unnamed individuals who had scraped LinkedIn's website, and named ICWATCH as a possible target.<ref>{{cite web |url=https://techcrunch.com/2016/08/15/linkedin-sues-scrapers/ |date=August 15, 2016 |publisher=[[TechCrunch]] |title=LinkedIn sues anonymous data scrapers |author=Kate Conger |accessdate=February 22, 2017}}</ref>
+
+{{as of|2017|02}}, the database tracks over 100,000 profiles from LinkedIn, Indeed, and other public sources.<ref>{{cite web |url=https://transparencytoolkit.org/project/icwatch/ |title=ICWATCH |publisher=Transparency Toolkit |accessdate=February 22, 2017}}</ref>
+
+==Features==
+
+The database can be searched using the company, location, industry, and other parameters of the intelligence workers.<ref name="mb" />
+
+==Findings==
+
+Most of the discovered profiles are not of those in the [[National Security Agency]] but of those working for [[List of United States defense contractors|contractors]].<ref name="mb" />
+
+The project also revealed possible trends in employment in the intelligence community. For instance, the "number of people claiming to work with [[Signals intelligence|SIGINT]] databases [&hellip;] has increased dramatically over the years since 2008, with just a small decline starting in 2013."<ref name="mb" />
+
+M. C. McGrath of Transparency Toolkit believes that the workers are "for the most part, pretty normal people".<ref name="mb" />
+
+==Reception==
+
+Ian Paul of ''[[PC World]]'' voiced concern for the safety of the individuals listed in the database.<ref name="pcw" />
+
+==See also==
+
+* [[Open-source intelligence]]
+* [[PRISM (surveillance program)]]
+
+==External links==
+
+* {{Official website|https://icwatch.wikileaks.org/}}
+
+==References==
+
+{{Reflist|30em}}
+
+[[:Category:Computer surveillance]]
+[[:Category:Mass surveillance]]
+[[:Category:Online archives]]
+[[:Category:Privacy of telecommunications]]
