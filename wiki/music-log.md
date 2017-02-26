@@ -126,6 +126,18 @@ Taylor Swift
 * The Blue Hearts
 * Hyouka OST (I think I watched Hyouka from March 7--23, and began listening to
   the OST during this period or soon after)
+* RahXephon OST 3; see [track
+  listing](https://en.wikipedia.org/wiki/List_of_RahXephon_albums#Track_listing_3)
+    * "Innocent World"
+    * "Forbidden Ponds"
+    * "Secret Seeker"
+    * "Inner Take"
+    * "Door of Adolescence"
+    * "Over the Senses"
+    * "Dense Blue Water"
+    * "Writes Herself"
+    * "Reverse Point"
+    * "Second Sorrow"
 
 # May 2016
 
