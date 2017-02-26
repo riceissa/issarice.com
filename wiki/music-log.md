@@ -87,7 +87,7 @@ Zeppelin and The Beatles.
 
 This is the summer before starting at Inglemoor; I remember constantly
 listening to Bob Dylan (specifically *Blonde on Blonde* and *Highway 61
-Revisited*.
+Revisited*).
 
 # December 2012
 
