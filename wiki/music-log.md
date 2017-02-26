@@ -109,6 +109,10 @@ December 22 and converted them to MP3.
 
 * Taylor Swift ("Shake It Off", "22", "Our Song")
 
+# May 2015
+
+* Taylor Swift ("I Knew You Were Trouble")
+
 # August 2015
 
 * Corinne Bailey Rae: ["Put Your Records
