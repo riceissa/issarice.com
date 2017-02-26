@@ -30,7 +30,6 @@ Some others:
 - Taylor Swift---"Blank Space", "22", "Back to December", "The Way I Loved You", "Forever and Always", "Ours", "Red", "Our Song"
 - Neon Genesis Evangelion OST
 - Wings Of Honneamise OST
-- Hilary Hahn (via Andrew Ho)
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 
 (I plan to make a table like the following to better keep track of my music.
@@ -138,6 +137,10 @@ Taylor Swift
     * "Writes Herself"
     * "Reverse Point"
     * "Second Sorrow"
+
+# April 2016
+
+* Hilary Hahn (via Andrew Ho)
 
 # May 2016
 
