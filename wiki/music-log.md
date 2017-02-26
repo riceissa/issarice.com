@@ -27,7 +27,7 @@ It might just be that my collection is so small I get bored of it quickly, but c
 Some others:
 
 - "Dream A Little Dream of Me"---Ella Fitzgerald, Doris Day
-- Taylor Swift---"Blank Space", "Back to December", "The Way I Loved You", "Forever and Always", "Ours", "Red", "Our Song"
+- Taylor Swift---"Blank Space", "Back to December", "The Way I Loved You", "Forever and Always", "Ours", "Red"
 - Neon Genesis Evangelion OST
 - Pokemon OSTs, in particular the Ruby and Sapphire OST
 
@@ -107,7 +107,7 @@ December 22 and converted them to MP3.
 
 # February 2015
 
-* Taylor Swift ("Shake It Off", "22")
+* Taylor Swift ("Shake It Off", "22", "Our Song")
 
 # August 2015
 
