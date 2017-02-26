@@ -124,6 +124,10 @@ December 22 and converted them to MP3.
 * Norah Jones (starting around this time): "She's 22"
 * *Royal Space Force: The Wings of Honnêamise* OST
 
+# November 2015
+
+* Sunny Day Service
+
 # December 2015
 
 * RahXephon OST (the classical tracks)
