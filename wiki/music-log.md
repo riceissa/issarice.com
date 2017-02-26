@@ -58,10 +58,6 @@ before 2016      I mostly listen to mainstream Western music from a few
 
 2013 or 2014     [Sidi Touré](!w), [Detektivbyrån](!w)
 
-2014-12          Discovered [Fishmans](!w): "頼りない天使",
-                 "バックビートにのっかって", and also their later albums:
-                 *空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.
-
 2015-12 (?) to   The Seatbelts and *Cowboy Bebop* OST, Sunny Day Service
 2016-02 (?)      (band): "aitakatta shoujo", "baby blue",
                  [曽我部恵一BAND「魔法のバスに乗って」](https://www.youtube.com/watch?v=CwiJhu9yPyM)
@@ -111,6 +107,9 @@ By December 21, I had asked on Quora "What are the best Japanese bands that
 sound like Fishmans?"
 `stat` shows that I had downloaded the full album videos from YouTube by
 December 22 and converted them to MP3.
+
+"頼りない天使", "バックビートにのっかって", and also their later albums:
+*空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.
 
 # 2015
 
