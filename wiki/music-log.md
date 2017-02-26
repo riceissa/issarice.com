@@ -145,11 +145,21 @@ Taylor Swift
 
 # May 2016
 
-* Final Fantasy VII OST ("Anxious Heart", "Barret's Theme", "Oppressed People",
-  "Don of the Slums", "Farm Boy", "It's Difficult to Stand on Both Feet, Isn't
-  It?", "Cait Sith's Theme", "Cosmo Canyon", "Great Warrior", "Descendant of
-  Shinobi", "Jenova Absolute", "The Birth of God", "One-Winged Angel", "World
-  Crisis")
+* Final Fantasy VII OST
+    * "Anxious Heart"
+    * "Barret's Theme"
+    * "Oppressed People"
+    * "Don of the Slums"
+    * "Farm Boy"
+    * "It's Difficult to Stand on Both Feet, Isn't It?"
+    * "Cait Sith's Theme"
+    * "Cosmo Canyon"
+    * "Great Warrior"
+    * "Descendant of Shinobi"
+    * "Jenova Absolute"
+    * "The Birth of God"
+    * "One-Winged Angel"
+    * "World Crisis"
 * Chrono Trigger OST ("Corridors of Time")
 
 # June 2016
