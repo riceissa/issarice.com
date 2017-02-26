@@ -28,7 +28,6 @@ Some others:
 
 - "Dream A Little Dream of Me"---Ella Fitzgerald, Doris Day
 - Taylor Swift---"Blank Space", "22", "Back to December", "The Way I Loved You", "Forever and Always", "Ours", "Red", "Our Song"
-- [Put Your Records On](http://www.azlyrics.com/lyrics/corinnebaileyrae/putyourrecordson.html) by Corinne Bailey Rae
 - Neon Genesis Evangelion OST
 - Wings Of Honneamise OST
 - "She's 22" by Norah Jones
@@ -112,6 +111,11 @@ December 22 and converted them to MP3.
 # 2015
 
 Taylor Swift
+
+# August 2015
+
+* Corinne Bailey Rae: ["Put Your Records
+  On"](http://www.azlyrics.com/lyrics/corinnebaileyrae/putyourrecordson.html)
 
 # December 2015
 
