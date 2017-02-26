@@ -184,6 +184,7 @@ The Pillows:
   straight.
   This time around, I'm liking "Paranoid Android".
 * *Kid A* ("The National Anthem", "Morning Bell")
+* *Amnesiac*
 
 # History
 
