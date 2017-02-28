@@ -54,11 +54,13 @@ $endfor$
 </head>
 <body>
 <nav id="site_navigation">
+  $if(show-pandoc-template-comments)$
   <!--
     See
       http://stackoverflow.com/questions/37103/css-make-divs-align-horizontally
     for how the div elements are managed.
   -->
+  $endif$
   <div style="float:left;">
     <a href="./index">Home</a>
     | <a href="./about">About</a>
@@ -69,12 +71,14 @@ $endfor$
     $endif$
   </div>
   <div style="float:right;">
+    $if(show-pandoc-template-comments)$
     <!--
       See
         - http://stackoverflow.com/a/13379065/3422337
         - http://kaspars.net/blog/wordpress/how-to-add-google-site-search
         - http://www.vanderbilt.edu/searchsupport/code-samples.php
     -->
+    $endif$
     <form name="google-search" action="https://google.com/search" method="get">
       <fieldset style="border:0;">
         <input type="hidden" name="sitesearch" value="https://issarice.com" />
