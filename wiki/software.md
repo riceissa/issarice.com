@@ -35,7 +35,7 @@ This page is a placeholder for now.
   You can see the [resulting values][colors].
 - IPython
 - htop.
-- Terminator.
+- urxvt.
   No strong preference for the most part, except that I dislike it when the
   terminal emulator intercepts Alt key mappings, like `Alt`-`f`.
 - Virtualbox
@@ -51,14 +51,13 @@ This page is a placeholder for now.
 - LibreOffice Calc for converting between CSV and XLS.
   I know almost nothing about it, but it seems to do what I want.
 - I often use `less` (e.g. instead of `tail -f` I use `less +F`)
+- fzf
 
 Programs in trial mode:
 
-- fzf
 - ag
 - mupdf
 - `mpsyt`
-- urxvt
 - arbtt
 - Emacs org mode
 
