@@ -7,6 +7,10 @@ status: notes
 belief: possible
 ---
 
+**This page is really old.
+I recently installed MediaWiki again for a different project, and
+wrote [more detailed instructions](https://github.com/riceissa/nginx-mediawiki).**
+
 # Preventing spam
 
 Append the following lines to your `LocalSettings.php` *before*
