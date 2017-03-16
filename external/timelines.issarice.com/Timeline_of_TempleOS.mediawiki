@@ -10,7 +10,7 @@ This is a timeline of [[wikipedia:TempleOS|TempleOS]].
 
 ==Full timeline==
 
-TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS
+names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name come along?
 
 {| class="sortable wikitable"
 |-
