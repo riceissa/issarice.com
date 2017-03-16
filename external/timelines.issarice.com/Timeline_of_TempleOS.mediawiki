@@ -13,6 +13,10 @@ This is a timeline of [[wikipedia:TempleOS|TempleOS]].
 {| class="sortable wikitable"
 |-
 ! Year !! Month and date !! Event type !! Details
+|-
+| 1994 || || || Terry earns his master's in electrical engineering from Arizona State University.<ref name="gods_lonely">{{cite web |url=https://motherboard.vice.com/en_us/article/gods-lonely-programmer |publisher=Motherboard |author=Jesse Hicks |date=November 25, 2014 |title=God's Lonely Programmer |accessdate=March 16, 2017}}</ref>
+|-
+| 2017 || {{dts|March 15}} || || Terry Davis's YouTube account is suspended.
 |}
 
 ==See also==
