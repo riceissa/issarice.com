@@ -14,3 +14,11 @@ This is a timeline of [[wikipedia:TempleOS|TempleOS]].
 |-
 ! Year !! Month and date !! Event type !! Details
 |}
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
