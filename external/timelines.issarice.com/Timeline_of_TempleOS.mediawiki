@@ -31,6 +31,8 @@ This is a timeline of [[wikipedia:TempleOS|TempleOS]].
 |-
 | 2003 || || || Terry begins working on TempleOS around this time.<ref name="gods_lonely" />
 |-
+| 2010 || {{dts|September 2010}} || || Terry joins Twitter as losethos.<ref>{{cite web |url=https://archive.fo/fGEdX |publisher=archive.fo |title=Terry A. Davis (@losethos) - Twitter |date=July 8, 2015 |accessdate=March 16, 2017}}</ref>
+|-
 | 2013 || {{dts|March}} || || Terry joins Twitter as TempleOS.<ref>{{cite web |url=https://archive.fo/fZG6o |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=November 3, 2016 |accessdate=March 16, 2017}}</ref>
 |-
 | 2017 || {{dts|March}}? || || /g/ discovers Terry's family photos.
