@@ -30,7 +30,7 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 |-
 | 1994 || {{dts|December 16}} || || Terry earns his master's in electrical engineering from Arizona State University.<ref name="gods_lonely">{{cite web |url=https://motherboard.vice.com/en_us/article/gods-lonely-programmer |publisher=Motherboard |author=Jesse Hicks |date=November 25, 2014 |title=God's Lonely Programmer |accessdate=March 16, 2017}}</ref><ref name="transcript" />
 |-
-| 1996–1997 || || || Terry designs a "3 axis stepper-motor-driven milling machine" for a company he starts called Home Automation and Robotic Equipment.<ref name="tad" />
+| 1996–1997 || || || Terry designs a "3 axis stepper-motor-driven milling machine" for a company he starts called Home Automation and Robotic Equipment (H.A.R.E.).<ref name="tad" />
 |-
 | 1996 || middle of the year || || Terry "started seeing people following [him] around in suits and stuff".<ref name="gods_lonely" />
 |-
