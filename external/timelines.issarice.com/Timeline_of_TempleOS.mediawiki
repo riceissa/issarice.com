@@ -15,7 +15,7 @@ This is a timeline of [[wikipedia:TempleOS|TempleOS]].
 ! Year !! Month and date !! Event type !! Details
 |-
 |-
-| 1990 || || || Terry begins working at Ticketmaster.<ref name="sanders" /> He claims he was "basically, an intern".<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/History.html |title=TempleOS History |accessdate=March 16, 2017}}</ref>
+| 1990 || || || Terry begins working at Ticketmaster.<ref name="sanders" /> He claims he was "basically, an intern".<ref name="t_os_history">{{cite web |url=http://www.templeos.org/Wb/Home/Web/History.html |title=TempleOS History |accessdate=March 16, 2017}}</ref>
 |-
 | 1992 || {{dts|December}} || || Terry graduates from Arizona State University.<ref name="sanders">{{cite web |url=http://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/ |publisher=TechRepublic |title=TempleOS: an educational tool for programming experiments |accessdate=March 16, 2017 |author=James Sanders |date=January 20, 2014}}</ref>
 |-
