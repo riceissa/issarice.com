@@ -22,6 +22,8 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 |-
 | 1980s || || || At some point during his teens, Terry "bagged groceries and taped drywall and worked in a deli".<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170121.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref>
 |-
+| 1987 || || || Terry apparently sees [[wikipedia:Heart (band)|Heart]] in concert.<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017March/TAD170314.html |title=The Temple Operating System |accessdate=March 17, 2017 |quote=My older sisters liked Heart. I saw Heart in concert in like 1987.}}</ref>
+|-
 | 1988 || || || Terry claims he cheated on two problems on the SAT by "talking in the hall during the break".<ref name="sat">{{cite web |url=https://web.archive.org/web/20160727011537/http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2016April/TAD160416.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref>
 |-
 | 1988 || fall || || Terry begins college at Arizona State University.<ref name="transcript" />
