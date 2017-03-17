@@ -60,6 +60,8 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 |-
 | 2004 || || || Terry calls this year "hell". He says he kept "getting locked up by the doctors" so ran away from home to California. He was apparently homeless for all or part of this period. Afterwards he calls this "a funny war story".<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170112.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref><ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017February/TAD170204.html |title=Terry Davis' Blog |accessdate=March 17, 2017 |quote=In 2004, they kept locking me up in mental hospitals each time I went for a doctor visit. I tried to run away to California so I would not get locked up. there were cops along the way who thought I was guilty of a crime. I just wanted to escape forced medication and doctors.}}</ref>
 |-
+| 2007 || || || Terry gets a 64-bit CPU.<ref name="t_os_history" />
+|-
 | 2008 || {{dts|November 29}} || || Terry creates the losethos account on hacker news.<ref>{{cite web |url=https://news.ycombinator.com/user?id=losethos |title=Profile: losethos |publisher=Hacker News |accessdate=March 16, 2017 |quote=created: 3028 days ago}}</ref>
 |-
 | 2010 || {{dts|September 2010}} || || Terry joins Twitter as losethos.<ref>{{cite web |url=https://archive.fo/fGEdX |publisher=archive.fo |title=Terry A. Davis (@losethos) - Twitter |date=July 8, 2015 |accessdate=March 16, 2017}}</ref>
