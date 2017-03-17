@@ -52,6 +52,8 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 |-
 | 2010 || {{dts|September 2010}} || || Terry joins Twitter as losethos.<ref>{{cite web |url=https://archive.fo/fGEdX |publisher=archive.fo |title=Terry A. Davis (@losethos) - Twitter |date=July 8, 2015 |accessdate=March 16, 2017}}</ref>
 |-
+| 2012 || {{dts|August 29}} || || Someone shares LoseThos on MetaFilter. Terry ends up in the thread and comments a bunch as the user "losethos".<ref>{{cite web |url=http://www.metafilter.com/119424/An-Operating-System-for-Songs-from-God |title=An Operating System for Songs from God. |accessdate=March 17, 2017 |date=August 29, 2012 |publisher=MetaFilter}}</ref>
+|-
 | 2013 || {{dts|March}} || || Terry joins Twitter as TempleOS.<ref>{{cite web |url=https://archive.fo/fZG6o |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=November 3, 2016 |accessdate=March 16, 2017}}</ref>
 |-
 | 2016 || {{dts|March 16}} || || Terry possibly does his first live stream. This is the first live stream visible on his YouTube account as of March 15, 2017, but there might have been earlier ones.<ref>{{cite web |url=https://www.youtube.com/watch?v=WP8CxWZe6zI |title=Terry A Davis Live Stream |accessdate=March 15, 2017}}</ref>
