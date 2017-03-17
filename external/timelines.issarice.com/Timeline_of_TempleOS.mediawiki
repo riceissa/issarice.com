@@ -22,6 +22,8 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 |-
 | 1988 || fall || || Terry begins college at Arizona State University.<ref name="transcript" />
 |-
+| 1990–1996 || || || Terry claims he "was as atheist as they came" during this period.<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170123.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref>
+|-
 | 1990–1996 || || || Terry works at Ticketmaster.<ref name="sanders" /> He claims he was "basically, an intern" (in the beginning?).<ref name="t_os_history">{{cite web |url=http://www.templeos.org/Wb/Home/Web/History.html |title=TempleOS History |accessdate=March 16, 2017}}</ref> He works as a software, hardware, and mechanical engineer.<ref name="tad">{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/TAD.html |title=Terry A. Davis |accessdate=March 16, 2017}}</ref>
 |-
 | 1992 || {{dts|December 18}} || || Terry receives his Bachelor of Science in Engineering (Computer Systems Engineering major) from Arizona State University.<ref name="transcript" />
