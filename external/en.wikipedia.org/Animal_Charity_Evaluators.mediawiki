@@ -1,0 +1,136 @@
+__INDEX__
+{{Infobox organization
+|image       =[[File:Animal Charity Evaluators logo.svg|250px]]
+|name        =
+|image_border = 
+|size         =
+|caption      =
+|map          =
+|msize        = 
+|mcaption     = 
+|abbreviation = ACE
+|motto        = 
+|formation    = 2012
+|type         = [[501(c)(3)]] [[Non-profit]]
+|status       = 
+|purpose      = [[Animal rights]]
+|headquarters = [[San Diego, CA]]
+|location     =[[United States]] 
+|region_served = Global
+|membership   = 
+|language     =
+|leader_title = Executive Director
+|leader_name  = Jon Bockman
+|main_organ   = 
+|parent_organization = 
+|affiliations = 
+|num_staff    = 
+|num_volunteers =
+|budget       = 
+|non-profit_slogan = "Helping People Help Animals"
+|homepage      = {{URL|animalcharityevaluators.org}}
+|remarks      =
+}}
+
+'''Animal Charity Evaluators''' ('''ACE''') is a US-based [[non-profit]] [[charity evaluator]] and [[effective altruism]]-focused organization dedicated to finding and promoting the most effective ways to help animals. ACE performs research in order to provide guidance to charities and activists on the relative effectiveness of different interventions and offers top charity recommendations to donors.<ref name="about">{{cite web|url = http://www.animalcharityevaluators.org/about/|title = About|publisher = Animal Charity Evaluators|accessdate = September 5, 2015}}</ref> ACE offers career and volunteering suggestions as well as advice to existing charities on becoming more effective animal advocates.<ref>{{Cite web|title = Career Advice {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/resources/career-advice/|accessdate = 2015-09-11}}</ref><ref>{{Cite web|title = Volunteering Advice {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/resources/volunteering-advice/|accessdate = 2015-09-11}}</ref><ref>{{Cite web|title = Advice for Existing Charities {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/resources/advice-for-existing-charities/|accessdate = 2015-09-11}}</ref> In December 2014, ACE named [[Mercy for Animals]], [[The Humane League]], and [[Animal Equality]] as Top Charities. ACE's Standout Charities from the same review include [[The Humane Society of the United States]]' Farm Animal Protection Campaign, The Albert Schweitzer Foundation, [[Vegan Outreach]], and [[Farm Animal Rights Movement]].<ref name=":0">{{Cite web|title = List of Organizations {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/recommendations/list-organizations/|accessdate = 2015-09-11}}</ref> Notable Board Members include [[Robert Wiblin]] of the [[Center for Effective Altruism]] and author and philosopher [[Peter Singer]].
+
+== History ==
+
+Animal Charity Evaluators started out as '''Effective Animal Activism''' (EAA), a webpage created by Eitan Fischer for [[80,000 Hours]]. The page was created to fill the need for evidence-based advice for donors who wish to help animals in the most effective ways possible.<ref name="history">{{cite web|url = http://www.animalcharityevaluators.org/about/transparency/history/|title = History|publisher = Animal Charity Evaluators|accessdate = August 2, 2015}}</ref>
+
+In April 2013, the organization hired Jon Bockman as its first paid staff member. EAA soon became a US non-profit and merged with another non-profit, Justice for Animals, though EAA retained its goal of providing advice to donors on the most effective charities. In November 2013, EAA became a [[501(c) organization|501(c)]](3). Around the same time, EAA expanded its mission to include providing advice to existing charities and activists on how to be the most effective.<ref name="history" />
+
+In late 2013, EAA parted ways with Eitan Fischer, hired three more staff members, and rebranded as '''Animal Charity Evaluators'''.<ref name="history" />
+
+==Criteria for charity selection==
+During the organization review process, ACE considers many different criteria in making its Top and Standout Charity recommendations.<ref name=":1">{{Cite web|title = Organization Evaluation Criteria {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/organizations/organization-evaluation-template/|accessdate = 2015-09-11}}</ref>
+# Room for more funding and plans for growth
+# Cost-effectiveness
+# Focus on projects with high mission effectiveness
+# Willingness to adjust based on successes and failures
+# Successful track record
+# Strong structure and leadership
+# Transparency<ref name=":1" />
+The relative weight of one criterion versus another is currently weighed subjectively on a case-by-case basis, and ACE expects to revise this criteria as the researchers gain more experience evaluating organizations.<ref name=":1" />
+
+==Evaluation process==
+ACE's process for choosing Top and Standout Charities takes place in three phases: basic consideration, shallow review, and medium reviews. ACE plans to conduct deeper reviews for some charities in the future to determine if the more careful examination will improve the recommendations enough to justify the extra time spent.<ref>{{Cite web|title = General Recommendation Process {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/recommendations/about-our-recommendations/general-recommendation-process/|accessdate = 2015-09-11}}</ref>
+
+===Basic consideration===
+During this round, ACE's goal is to generate a list of animal charities and their focus areas, in order to understand get a sense of the types of charities that exist. This will inform ACE's strategy in the charity evaluation process as well as their research in general. Any group can request to be considered in this round. The criteria considered in this phase includes the organization's web presence, whether or not the organization fits the scope of the evaluation, the language on the organization's website, the organization's goals and tactics, as well as whether the organization makes use of violence or destruction of property.<ref name=":1" /> Organizations that have been considered in this phase but not any other are listed on ACE's List of Organizations page as "considered".<ref name=":0" />
+
+===Shallow reviews===
+In this round of reviews, ACE selects a target number of groups to investigate based on the available resources. Selection for this phase is guided by what the organization's focus is, their methods, the ease or difficulty of the evaluation, and the general likelihood of the organization receiving a recommendation.<ref name=":1" /> ACE explains that a groups focusing on change through institutions are more likely to be considered than groups focusing on caring for individual animals, because of their ability to achieve more change at a lower cost. Similarly, ACE prioritizes evaluating groups operating at the national and international level rather than local groups because efficiencies of scale make them slightly more effective on average and hence more likely to receive a recommendation.<ref name=":1" />
+
+In this round ACE staff members visit the organization websites to evaluate them based on the seven criteria they have chosen for charity selection. Staff members also investigate a basic overview of the organizations' budget and reserves. Once information has been collected, staff members read each other's notes and discuss overall opinions. ACE generate short 3-5 paragraph reviews of the organizations, and submits them to the organizations being evaluated for approval. If the organization agrees, the shallow reviews are published on the ACE website, and listed on the List of Organizations page as "reviewed".<ref name=":1" />
+
+After the research phase but before the writing phase of the shallow review process, ACE selects a small number of organizations to be further investigated in the Medium Review round.<ref name=":1" />
+
+===Medium reviews===
+The third round of the review process is intended to allow ACE staff members a chance to consider carefully and in detail a target number of promising organizations in order to recommend Top and Standout Charities. When choosing organizations for the Medium Review phase, ACE considers whether they expect the organization's programs to be cost-effective, whether the organization seems to consider appropriate evidence as guidance for their programs, and how much ACE expects to learn from conducting the review.<ref name=":1" />
+
+In this round, ACE staff members speak with a high-level staff member from the organization being evaluated, and ask specific questions pertaining to the organization evaluation criteria and to the organization's budget. At this point, a detailed review is written, including call summaries, spreadsheets with cost-effectiveness calculations, and supporting material. The review is submitted to the organization for approval, and if the organization, is published on ACE's website. The organization then appears on the List of Organizations page as "reviewed".<ref name=":1" />
+
+Once the Medium Reviews have been conducted, the evaluated organizations are notified as to whether they have been selected as a Top Charity, Standout Charity, or neither.<ref name=":1" />
+
+==Recommendations==
+
+=== Top-rated charities ===
+
+ACE's three top-rated charities (list last refreshed on December 1, 2014, and with updated reviews December 1, 2015) are:<ref name=top-charities>{{cite web|url=http://www.animalcharityevaluators.org/recommendations/top-charities/|title = Top Charities|publisher = Animal Charity Evaluators|accessdate = August 2, 2015}}</ref><ref>{{cite web|url=http://effective-altruism.com/ea/bn/the_new_animal_charity_evaluators_recommendations/|title = The new Animal Charity Evaluators recommendations are out|date = December 1, 2014|accessdate = August 2, 2015|publisher = ''The Effective Altruism Forum''}}</ref><ref>{{cite web|url = http://www.animalcharityevaluators.org/blog/updated-recommendations-december-2015/|title = Updated Recommendations: December 2015|publisher = Animal Charity Evaluators|date = December 1, 2015|accessdate = December 1, 2015}}</ref>
+
+* [[Animal Equality]] (since December 1, 2014)<ref>{{cite web|url=http://www.animalcharityevaluators.org/research/organizations/animal-equality-review/|title = Animal Equality Review|publisher = Animal Charity Evaluators|accessdate = August 2, 2015}}</ref>
+* [[Mercy For Animals]] (standout charity since ACE's launch in August 2012 - May 2014; top charity since May 14, 2014)<ref>{{cite web|url=http://www.animalcharityevaluators.org/research/organizations/mercy-for-animals-review/|title = Mercy For Animals Review|publisher = Animal Charity Evaluators|accessdate = August 2, 2015}}</ref>
+* [[The Humane League]] (since ACE's launch in August 2012)<ref>{{cite web|url=http://www.animalcharityevaluators.org/research/organizations/the-humane-league-review/|title = The Humane League Review|publisher = Animal Charity Evaluators|accessdate = August 2, 2015}}</ref>
+
+=== Standout charities ===
+
+ACE has four standout charities:<ref name=top-charities/>
+
+* The Farm Animal Protection Campaign of [[The Humane Society of the United States]] (since May 2014)<ref>{{cite web|url=http://www.animalcharityevaluators.org/research/organizations/hsus-farm-animal-protection-campaign-review/|title = HSUS Farm Animal Protection Campaign Review|accessdate = August 2, 2015}}</ref>
+* [[Farm Animal Rights Movement]] (FARM) (since May 2014)<ref>{{cite web|url=http://www.animalcharityevaluators.org/research/organizations/farm-animal-rights-movement-review/|title = Farm Animal Rights Movement Review|publisher = Animal Charity Evaluators|accessdate = August 2, 2015}}</ref>
+* [[Vegan Outreach]] (top charity between August 2012 and May 13, 2014, standout since December 1, 2014)<ref>{{cite web|url=http://www.animalcharityevaluators.org/research/organizations/vegan-outreach-review/|title = Vegan Outreach Review|publisher = Animal Charity Evaluators|accessdate = August 2, 2015}}</ref>
+* Albert Schweitzer Foundation (since December 1, 2014)<ref>{{cite web|url=http://www.animalcharityevaluators.org/research/organizations/albert-schweitzer-foundation-review/|title = Albert Schweitzer Foundation Review|publisher = Animal Charity Evaluators|date = August 2, 2015}}</ref>
+
+==Research==
+ACE's research program is intended to consider a wide variety of animal advocacy activities and identify the most promising interventions. Deeper investigation is conducted in the more promising areas, to identify which interventions have the strongest evidence of efficacy. ACE's research efforts are divided into three main areas: investigation to evaluate different interventions, organizational research and evaluation, and foundational research.<ref name=":2">{{Cite web|title = Research {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/|accessdate = 2015-09-12}}</ref>
+
+===Interventions===
+Animal activists use a wide variety of interventions to advocate for animals, and ACE aims to identify which interventions efficiently solve the problems that they seek to address. This information allows activists and charities make informed decisions in deciding which course to pursue.<ref name=":2" /> ACE's research team has found that corporate interventions, such as working with restaurants and supermarket chains to strengthen animal welfare policies, appear to be some of the most cost-effective interventions, according to available evidence.<ref>{{Cite web|title = Corporate Outreach {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/interventions/corporate-outreach/|accessdate = 2015-09-12}}</ref> Leafletting alone or in groups, because of the ease of availability of the materials, and the low time commitment required, appears to be a promising volunteer activity.<ref>{{Cite web|title = Leafleting {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/interventions/leafleting/|accessdate = 2015-09-12}}</ref> Online ads could be even more cost-effective than leafletting as an intervention, though there is less available evidence.<ref>{{Cite web|title = Intervention Online Ads {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/interventions/online-ads/|accessdate = 2015-09-12}}</ref> ACE has also considered humane education, the practice of going to schools and colleges to teach students about the negative effects of factory farming, as an intervention, but lacks enough evidence to recommend this practice as an effective intervention.<ref>{{Cite web|title = Humane Education {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/interventions/humane-education/|accessdate = 2015-09-12}}</ref><ref>{{Cite web|title = Interventions {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/interventions/#list|accessdate = 2015-09-12}}</ref>
+
+===Organizations===
+ACE regards charity evaluations as a top priority, and considers organizations from the perspective of which are the most effective at reducing the largest amount of animal suffering. ACE considers a large amount of organizations on a superficial level, and then performs more detailed examinations of the most promising organizations.<ref name=":2" />
+
+===Foundational research===
+In addition to the intervention and organization evaluations, ACE performs more general research on topics relating to advocacy. These findings provide the necessary background to perform evaluations and for comparing work in differing areas. Some of the focus areas include research on the best ways to conduct surveys, and the general effects of vegan- and vegetarian-centered programs.<ref name=":2"/> ACE has also performed general research on understanding wild animal suffering,<ref>{{Cite web|title = Wild Animal Suffering Research {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/foundational-research/wild-animal-suffering/|accessdate = 2015-09-12}}</ref> the relative impacts of different diet choices on animals,<ref>{{Cite web|title = Effects of Diet Choices on Animals {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/foundational-research/effects-of-diet-choices-on-animals/|accessdate = 2015-09-12}}</ref> and vegetarian recidivism.<ref>{{Cite web|title = Vegetarian Recidivism Research {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/research/foundational-research/vegetarian-recidivism/|accessdate = 2015-09-12}}</ref>
+
+==Impact==
+Using several different tracking methods, ACE estimates that over $141,000 in donations were influence for the Top and Standout Charity recommendations. ACE plans to improve tracking abilities by taking in donations and redistributing them to top charities.<ref>{{Cite web|title = FAQ {{!}} Animal Charity Evaluators|url = http://www.animalcharityevaluators.org/about/faq/|accessdate = 2015-09-14}}</ref>
+
+== Reception ==
+
+Marc Gunther reviewed ACE in an article for ''Nonprofit Chronicles'', noting: "[T]he work of Animal Charity Evaluators (ACE) is relevant to nonprofits of all kinds. As its name suggests and, on a very modest budget, ACE evaluates animal charities. Its work could inspire those who want to evaluate charities in other sectors—education, the environment, that arts, whatever." He further noted: "The point is, Animal Charity Evaluators is asking the right questions–the kind all nonprofits should be asking themselves."<ref name="nonprofit-chronicles">{{cite web|url = http://nonprofitchronicles.com/2015/04/12/what-if-the-most-good-you-can-do-is-to-help-animals/|title = What if the "most good you can do" is to help animals?|last = Gunther|first = Marc|date = April 12, 2015|accessdate = August 2, 2015|publisher = ''Nonprofit Chronicles''}}</ref>
+
+Animal welfare and [[effective altruism]] advocate [[Peter Singer]], who sits on the board of ACE, has highlighted ACE's work in his book ''[[The Most Good You Can Do]]'' and in an online article for ''[[Salon (website)|Salon]]''.<ref name="salon">{{cite web|url = http://www.salon.com/2015/04/19/is_it_moral_to_save_this_puppy/|title = Is it moral to save this puppy? Animals raised and slaughtered for food number in the billions and endure horrible pain. We should help them first|last = Singer|first = Peter|authorlink = Peter Singer|publisher = ''[[Salon (website)|Salon]]''|accessdate = August 2, 2015|date = April 29, 2015}}</ref>
+
+Charity evaluator [[GiveWell]] conducted and published notes on a conversation with Jon Bockman, the Executive Director of ACE, as part of an investigation into animal welfare as a potential cause area to devote resources into.<ref>{{cite web|url=http://files.givewell.org/files/conversations/Jon%20Bockman,%20July%2012,%202013%20%28public%29.pdf|title = Conversation  with  Jon  Bockman  on  July 12, 2013|publisher = [[GiveWell]]|date = July 12, 2013|accessdate = August 2, 2015}}</ref>
+
+The Ultimate Fundraiser blog reviewed ACE, concluding: "The suffering that animals endure often caused by human self-interest is enormous. By educating people about how they can best advocate for animals, this organization hopes to contribute to the largest possible reduction of suffering for the largest number of animals. Animal Charity Evaluators is an organization that is taking the lead in helping us progress towards effective altruism."<ref>{{cite web|url=https://theultimatefundraiser.wordpress.com/2014/12/28/nonprofit-spotlight-animal-charity-evaluators/|title = Nonprofit Spotlight: Animal Charity Evaluators|date = December 28, 2014|accessdate = August 2, 2015|publisher = The Ultimate Fundraiser}}</ref> The Effective Altruism Hub has recommended to donors interested in animal welfare that they should donate to ACE-recommended charities.<ref>{{cite web|url=http://effectivealtruismhub.com/donations/plans/animal-welfare|title = Planned donations: animal welfare|publisher = Effective Altruism Hub|accessdate = August 2, 2015}}</ref>
+
+==Notes/TODO==
+
+* Incorporate info from <ref>{{cite web |url=http://www.huffingtonpost.com/entry/farm-animal-rights-revolution_us_577304f6e4b0352fed3e5b16 |author=Nico Pitney |date=July 6, 2016 |title=We're Finally Waking Up To The Horrific Ways We Treat The Animals We Eat |publisher=''[[The Huffington Post]]'' |accessdate=July 18, 2016}}</ref>, <ref>{{cite web |url=http://www.slate.com/articles/health_and_science/science/2016/08/animal_activists_crunched_the_numbers_to_learn_that_the_creature_most_in.html |author=Daniel Engber |title=How the Chicken Became the Unlikely Focus of the Animal Rights Movement |publisher=Slate Magazine |accessdate=August 18, 2016}}</ref>
+* Fix logo
+
+== References ==
+
+{{reflist|30em}}
+
+== External links ==
+
+* {{official website|http://www.animalcharityevaluators.org}}
+
+{{Effective altruism}}
+
+[[:Category:Animal welfare organizations in the United States]]
+[[:Category:Charity review websites]]
