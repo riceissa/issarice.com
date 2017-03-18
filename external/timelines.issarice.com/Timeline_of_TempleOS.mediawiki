@@ -80,7 +80,7 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 |-
 | 2016 || {{dts|May 16}} || || Terry uploads a lot of family photos to his website.<ref>{{cite web |url=http://www.templeos.org/Family3_86-99/ |title=Index of /Family3_86-99 |accessdate=March 16, 2017 |quote=Last Modified 16-May-2016}}</ref>
 |-
-| 2016 || {{dts|December 2}}? || || Terry's Twitter account, TempleOS, is suspended.<ref>{{cite web |url=https://archive.4plebs.org/pol/thread/101002500/ |title=/pol/ - Politically Incorrect » Thread #101002500 |accessdate=March 18, 2017}}</ref><ref>{{cite web |url=https://archive.4plebs.org/pol/thread/101214983/ |title=/pol/ - Politically Incorrect » Thread #101214983 |accessdate=March 18, 2017 |date=December 2, 2016}}</ref><ref>{{cite web |url=https://archive.rebeccablacktech.com/g/thread/57821780 |title=/g/ - Technology (Full Images) |accessdate=March 18, 2017 |date=December 3, 2016}}</ref>
+| 2016 || {{dts|December 1}}? || || Terry's Twitter account, TempleOS, is suspended.<ref>{{cite web |url=https://archive.4plebs.org/pol/thread/101002500/ |title=/pol/ - Politically Incorrect » Thread #101002500 |accessdate=March 18, 2017}}</ref><ref>{{cite web |url=https://archive.4plebs.org/pol/thread/101214983/ |title=/pol/ - Politically Incorrect » Thread #101214983 |accessdate=March 18, 2017 |date=December 2, 2016}}</ref><ref>{{cite web |url=https://archive.rebeccablacktech.com/g/thread/57821780 |title=/g/ - Technology (Full Images) |accessdate=March 18, 2017 |date=December 3, 2016}}</ref>
 |-
 | 2017 || {{dts|March}}? || || /g/ discovers Terry's family photos.
 |-
