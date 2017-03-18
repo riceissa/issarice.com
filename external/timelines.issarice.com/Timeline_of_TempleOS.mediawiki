@@ -87,9 +87,12 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 | 2017 || {{dts|March 16}} || || Terry updates his fans on the status of his live streams. He says the live stream was suspended for porn.<ref>{{cite web |url=https://www.youtube.com/watch?v=xgtHBNIro7k |title=TempleOS: Update on Live Stream Status |accessdate=March 17, 2017}}</ref>
 |}
 
-==See also==
-
 ==External links==
+
+* [http://www.templeos.org/ Official website]
+* [https://en.wikipedia.org/wiki/TempleOS Wikipedia entry for TempleOS]
+* [https://wiki.installgentoo.com/index.php/Temple_OS InstallGentoo Wiki entry for TempleOS]
+* [https://wiki.installgentoo.com/index.php/Terry_Davis InstallGentoo Wiki entry for Terry Davis]
 
 ==References==
 
