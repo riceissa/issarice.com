@@ -66,7 +66,7 @@ names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name co
 |-
 | 2007 || || || Terry gets a 64-bit CPU.<ref name="t_os_history" />
 |-
-| 2008 || {{dts|November 29}} || || Terry creates the losethos account on hacker news.<ref>{{cite web |url=https://news.ycombinator.com/user?id=losethos |title=Profile: losethos |publisher=Hacker News |accessdate=March 16, 2017 |quote=created: 3028 days ago}}</ref>
+| 2008 || {{dts|November 29}} || || Terry creates the losethos account on [[wikipedia:Hacker News|Hacker News]].<ref>{{cite web |url=https://news.ycombinator.com/user?id=losethos |title=Profile: losethos |publisher=Hacker News |accessdate=March 16, 2017 |quote=created: 3028 days ago}}</ref>
 |-
 | 2010 || {{dts|September 2010}} || || Terry joins Twitter as losethos.<ref>{{cite web |url=https://archive.fo/fGEdX |publisher=archive.fo |title=Terry A. Davis (@losethos) - Twitter |date=July 8, 2015 |accessdate=March 16, 2017}}</ref>
 |-
