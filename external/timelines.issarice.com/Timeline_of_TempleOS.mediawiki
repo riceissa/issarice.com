@@ -55,7 +55,7 @@ When did terry move to las vegas?
 |-
 | 1992 || {{dts|December 18}} || || Terry receives his Bachelor of Science in Engineering (Computer Systems Engineering major) from Arizona State University.<ref name="transcript" />
 |-
-| 1992 || {{dts|December}} || || Terry graduates from Arizona State University.<ref name="sanders">{{cite web |url=http://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/ |publisher=TechRepublic |title=TempleOS: an educational tool for programming experiments |accessdate=March 16, 2017 |author=James Sanders |date=January 20, 2014}}</ref>
+| 1992 || {{dts|December}} || || Terry graduates from Arizona State University.<ref name="sanders">{{cite web |url=http://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/ |publisher=TechRepublic |title=TempleOS: an educational tool for programming experiments |accessdate=March 16, 2017 |author=James Sanders |date=January 20, 2014}}</ref> After graduation Terry stays in [[wikipedia:Tempe, Arizona|Tempe, Arizona]] to continue working at Ticketmaster.<ref name="gods_lonely" />
 |-
 | 1994 || {{dts|December 16}} || || Terry earns his master's in electrical engineering from Arizona State University.<ref name="gods_lonely">{{cite web |url=https://motherboard.vice.com/en_us/article/gods-lonely-programmer |publisher=Motherboard |author=Jesse Hicks |date=November 25, 2014 |title=God's Lonely Programmer |accessdate=March 16, 2017}}</ref><ref name="transcript" />
 |-
