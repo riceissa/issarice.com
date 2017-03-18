@@ -80,6 +80,8 @@ https://www.jwz.org/blog/2014/03/its-640-x-480-thats-what-god-said-vga/
 |-
 | 2011 || {{dts|December 10}} || || Terry joins [[wikipedia:Stack Overflow|Stack Overflow]].<ref>{{cite web |url=https://stackoverflow.com/users/1091067/terrence-andrew-davis |title=User Terrence Andrew Davis |accessdate=March 18, 2017}}</ref>
 |-
+| 2012 || {{dts|January 12}} || || Terry writes his first answer on Stack Overflow.<ref>{{cite web |url=https://stackoverflow.com/questions/4937402/moving-decimal-places-over-in-a-double/8830500#8830500 |title=Answer to Moving decimal places over in a double |author=Terrence Andrew Davis |accessdate=March 17, 2017 |date=January 12, 2012}}</ref>
+|-
 | 2012 || {{dts|August 29}} || || Someone shares LoseThos on MetaFilter. Terry ends up in the thread and comments a bunch as the user "losethos".<ref>{{cite web |url=http://www.metafilter.com/119424/An-Operating-System-for-Songs-from-God |title=An Operating System for Songs from God. |accessdate=March 17, 2017 |date=August 29, 2012 |publisher=MetaFilter}}</ref>
 |-
 | 2013 || {{dts|March}} || || Terry joins Twitter as TempleOS.<ref>{{cite web |url=https://archive.fo/fZG6o |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=November 3, 2016 |accessdate=March 16, 2017}}</ref>
