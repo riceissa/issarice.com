@@ -16,8 +16,6 @@ https://www.jwz.org/blog/2013/08/a-light-has-gone-out-on-the-web/
 
 https://www.jwz.org/blog/2014/03/its-640-x-480-thats-what-god-said-vga/
 
-https://encrypted.google.com/search?hl=en&q=https%3A%2F%2Ftwitter.com%2FTempleOS#q=https://twitter.com/TempleOS&hl=en&start=30&*
-
 {| class="sortable wikitable"
 |-
 ! Year !! Month and date !! Event type !! Details
