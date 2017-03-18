@@ -78,7 +78,7 @@ https://www.jwz.org/blog/2014/03/its-640-x-480-thats-what-god-said-vga/
 |-
 | 2011 || {{dts|July 2}} || || Terry's first post on Facebook (checked as of March 17, 2017) is from this day.<ref>{{cite web |url=https://www.facebook.com/terrence.a.davis1/posts/2177244159724 |title=Terrence Andrew Davis commented on ThinkProgress. |date=July 2, 2011 |accessdate=March 17, 2017}}</ref>
 |-
-| 2011 || {{dts|December 10}} || || Terry joins Stack Overflow.<ref>{{cite web |url=https://stackoverflow.com/users/1091067/terrence-andrew-davis |title=User Terrence Andrew Davis |accessdate=March 18, 2017}}</ref>
+| 2011 || {{dts|December 10}} || || Terry joins [[wikipedia:Stack Overflow|Stack Overflow]].<ref>{{cite web |url=https://stackoverflow.com/users/1091067/terrence-andrew-davis |title=User Terrence Andrew Davis |accessdate=March 18, 2017}}</ref>
 |-
 | 2012 || {{dts|August 29}} || || Someone shares LoseThos on MetaFilter. Terry ends up in the thread and comments a bunch as the user "losethos".<ref>{{cite web |url=http://www.metafilter.com/119424/An-Operating-System-for-Songs-from-God |title=An Operating System for Songs from God. |accessdate=March 17, 2017 |date=August 29, 2012 |publisher=MetaFilter}}</ref>
 |-
