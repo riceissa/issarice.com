@@ -42,6 +42,8 @@ https://encrypted.google.com/search?hl=en&q=https%3A%2F%2Ftwitter.com%2FTempleOS
 |-
 | 1991 || || || Terry apparently has a girlfriend around this time.<ref>{{cite web |url=https://web.archive.org/web/20160720012301/http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2016March/TAD160324.html |title=Terry Davis' Blog |accessdate=March 17, 2017 |quote=Old girlfriends? Vicki Fox mattered to me, 1991. The others meant nothing -- I just did it because it was the thing to do. Makes me crack-up laughing.}}</ref>
 |-
+| 1991 || fall || || Terry gets a C in partial differential equations.<ref name="transcript" /> "C in partial differential equations was the semester I did 20 days hotel time in jail."<ref>{{cite web |url=https://www.facebook.com/terrence.a.davis1/posts/4172188432084 |title=Terrence Andrew Davis commented on thebunsenburner.com. |date=June 19, 2012 |accessdate=March 17, 2017}}</ref>
+|-
 | 1992 || {{dts|December 18}} || || Terry receives his Bachelor of Science in Engineering (Computer Systems Engineering major) from Arizona State University.<ref name="transcript" />
 |-
 | 1992 || {{dts|December}} || || Terry graduates from Arizona State University.<ref name="sanders">{{cite web |url=http://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/ |publisher=TechRepublic |title=TempleOS: an educational tool for programming experiments |accessdate=March 16, 2017 |author=James Sanders |date=January 20, 2014}}</ref>
