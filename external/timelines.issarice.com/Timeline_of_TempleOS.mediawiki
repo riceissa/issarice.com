@@ -10,7 +10,9 @@ This is a timeline of [[wikipedia:TempleOS|TempleOS]], a biblical-themed operati
 |-
 | 1996–2003 || Terry begins to be afflicted by various mental conditions around this period, possibly including mania, paranoia, and schizophrenia. He continues to hold a couple of jobs, but relatively little is known about this period.
 |-
-| 2003–2010 || Terry begins to develop what would eventually be called TempleOS.
+| 2003–2010 || Terry begins to develop what would eventually be called TempleOS. Very little is known about this period.
+|-
+| 2011–2017 || TempleOS development continues, but seems to finish by the end of 2014. During this period, Terry begins posting in various online discussion platforms, including Twitter, Hacker News, Reddit, Stack Overflow, Quora, and Facebook.
 |-
 |}
 
