@@ -86,7 +86,7 @@ TODO:
 |-
 | 1999 || {{dts|September 9}} || Personal || Terry allegedly runs over a CIA agent with his car.<ref>{{cite web |url=https://archive.fo/oOsWu |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=May 2, 2016 |accessdate=March 16, 2017}}</ref><ref name="sat" /> This episode is often repeated.
 |-
-| 2000–2001 || || Career || Terry writes SimStructure, a physics simulation software (?), for H.A.R.E., his company.<ref name="tad" />
+| 2000–2001 || || Career || Terry writes SimStructure, a physics simulation software, for H.A.R.E., his company.<ref name="tad" /> SimStructure was originally written in 1994 and called SysSim at the time.<ref name="losethos_history"/>
 |-
 | 2001–2002 || || Career || Terry works as the head software/electrical engineer for Graphic Technologies.<ref name="tad" />
 |-
