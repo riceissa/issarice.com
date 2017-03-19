@@ -128,7 +128,7 @@ TODO:
 |-
 | 2012 || {{dts|March 1}} || || HolyC is still known as "LoseThos C+" around this time.<ref>{{cite web |url=https://wayback.archive.org/web/20120301221505/http://www.losethos.com/LTHtml/Doc/Differences.html |author=Terry A. Davis |title=Differences |accessdate=March 19, 2017}}</ref>
 |-
-| 2012 || {{dts|August 29}} || Online activity || Someone shares LoseThos on MetaFilter. Terry ends up in the thread and comments a bunch as the user "losethos".<ref>{{cite web |url=http://www.metafilter.com/119424/An-Operating-System-for-Songs-from-God |title=An Operating System for Songs from God. |accessdate=March 17, 2017 |date=August 29, 2012 |publisher=MetaFilter}}</ref>
+| 2012 || {{dts|August 29}} || Online activity || Someone shares LoseThos on MetaFilter. Terry ends up in the thread and comments a bunch as the user "losethos".<ref>{{cite web |url=http://www.metafilter.com/119424/An-Operating-System-for-Songs-from-God |author=dmd |title=An Operating System for Songs from God. |accessdate=March 17, 2017 |date=August 29, 2012 |publisher=MetaFilter}}</ref>
 |-
 | 2012 || {{dts|September 27}} || Online activity || Terry joins Reddit as SparrowOS.<ref>{{cite web |url=https://web.archive.org/web/20121006113858/http://www.reddit.com/user/SparrowOS |title=overview for SparrowOS |accessdate=March 18, 2017}}</ref>
 |-
