@@ -120,7 +120,7 @@ TODO:
 |-
 | 2011 || {{dts|July 2}} || Online activity || Terry's first post on Facebook (checked as of March 17, 2017) is from this day.<ref>{{cite web |url=https://www.facebook.com/terrence.a.davis1/posts/2177244159724 |title=Terrence Andrew Davis commented on ThinkProgress. |date=July 2, 2011 |accessdate=March 17, 2017}}</ref>
 |-
-| 2011 || {{dts|December 10}} || Online activity || Terry joins [[wikipedia:Stack Overflow|Stack Overflow]].<ref>{{cite web |url=https://stackoverflow.com/users/1091067/terrence-andrew-davis |title=User Terrence Andrew Davis |accessdate=March 18, 2017}}</ref>
+| 2011 || {{dts|December 10}} || Online activity || Terry joins [[wikipedia:Stack Overflow|Stack Overflow]].<ref>{{cite web |url=https://stackoverflow.com/users/1091067/terrence-andrew-davis |website=Stack Overflow |title=User Terrence Andrew Davis |accessdate=March 18, 2017}}</ref>
 |-
 | 2012 || {{dts|January 5}} || Online activity || Terry begins commenting using Disqus on various blogs around this day.<ref>{{cite web |url=https://nikic.github.io/2011/12/27/Dont-be-STUPID-GRASP-SOLID.html |author=Nikita Popov |title=Don't be STUPID: GRASP SOLID! |accessdate=March 18, 2017 |date=December 27, 2011}}</ref>
 |-
