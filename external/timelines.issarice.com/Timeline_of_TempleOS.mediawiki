@@ -96,6 +96,8 @@ TODO:
 |-
 | 2008 || {{dts|November 29}} || Online activity || Terry creates the losethos account on [[wikipedia:Hacker News|Hacker News]].<ref>{{cite web |url=https://news.ycombinator.com/user?id=losethos |title=Profile: losethos |publisher=Hacker News |accessdate=March 16, 2017 |quote=created: 3028 days ago}}</ref>
 |-
+| 2009 || {{dts|October 5}} || || The LoseThos subreddit, r/LoseThos, is created.<ref>{{cite web |url=https://www.reddit.com/r/LoseThos/about/moderators |title=moderators - r/LoseThos |accessdate=March 19, 2017 |author=losethos}}</ref>
+|-
 | 2010 || {{dts|September 2010}} || Online activity || Terry joins Twitter as losethos.<ref>{{cite web |url=https://archive.fo/fGEdX |publisher=archive.fo |title=Terry A. Davis (@losethos) - Twitter |date=July 8, 2015 |accessdate=March 16, 2017}}</ref>
 |-
 | 2011 || || TempleOS development || Terry says he hires Cody Rigby, an artist, around this time for $3,000 worth of pixel art.<ref>{{cite web |url=https://www.youtube.com/watch?v=iQcHAW34A1U#t=41m50s |title=Terry A Davis Live Stream |date=March 21, 2016 |accessdate=March 18, 2017 |publisher=YouTube |quote=So I hired an artist about five years ago, paid him $3,000 [&hellip;] He made the art. He put penises on everything, but I like this.}}</ref><ref>{{cite web |url=http://www.templeos.org/Wb/Doc/Credits.html |title=Credits |accessdate=March 18, 2017}}</ref>
