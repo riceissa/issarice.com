@@ -136,13 +136,15 @@ TODO:
 |-
 | 2012 || {{dts|October 2}} || TempleOS development || SparrowOS version 1.0 is released.<ref>{{cite web |url=https://wayback.archive.org/web/20121006013212/http://www.sparrowos.com/Wb/Doc/ChangeLog.html |title=The Sparrow Operating System |accessdate=March 19, 2017}}</ref>
 |-
+| 2012 || {{dts|December 4}} || Online activity || Terry's first YouTube video on his old sparrow-icon YouTube account is from this day.<ref>{{cite web |url=https://www.youtube.com/watch?v=u3DcbkR1Ugc |title=Songs by God and Me #13 |publisher=YouTube |accessdate=March 19, 2017}}</ref>
+|-
 | 2013 || {{dts|March}} || TempleOS development || TempleOS's name changes from "SparrowOS" to "TempleOS".<ref>{{cite web |url=https://www.reddit.com/r/SparrowOS/comments/1b49yg/sparrowos_is_now_templeos/ |publisher=reddit |title=SparrowOS is now TempleOS - r/SparrowOS |accessdate=March 19, 2017 |date=March 27, 2013}}</ref><ref>{{cite web |url=https://www.reddit.com/r/SparrowOS/comments/19hns3/terry_just_released_sparrowos_anguish_songs_on/ |publisher=reddit |title=Terry just released "SparrowOS: Anguish songs" on YouTube. Also features timed text! - r/SparrowOS |accessdate=March 19, 2017 |date=March 1, 2013}}</ref>
 |-
 | 2013 || {{dts|March}} || Online activity || Terry joins Twitter as TempleOS.<ref>{{cite web |url=https://archive.fo/fZG6o |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=November 3, 2016 |accessdate=March 16, 2017}}</ref>
 |-
 | 2013 || {{dts|August 8}} || Online activity || Terry comments on jwz.org.<ref>{{cite web |url=https://web.archive.org/web/20130811071214/http://www.jwz.org/blog/2013/08/a-light-has-gone-out-on-the-web/ |title=A light has gone out on the web. |publisher=jwz |accessdate=March 19, 2017 |date=August 8, 2013}}</ref> Several months later Jamie Zawinski would share TempleOS on the site.<ref>{{cite web |url=https://www.jwz.org/blog/2014/03/its-640-x-480-thats-what-god-said-vga/ |title="It's 640 x 480. That's what God said. VGA." |accessdate=March 19, 2017 |date=March 25, 2014}}</ref>
 |-
-| 2013 || {{dts|October 3}} || Online activity || Terry's first YouTube video on his Terry A Davis account (checked as of March 18, 2017) is from this day.<ref>{{cite web |url=https://www.youtube.com/watch?v=1okW1RTPZ7Q |title=TempleOS Hymns #1 |publisher=YouTube |accessdate=March 19, 2017}}</ref>
+| 2013 || {{dts|October 3}} || Online activity || Terry's first YouTube video on his current Terry A Davis account (checked as of March 18, 2017) is from this day.<ref>{{cite web |url=https://www.youtube.com/watch?v=1okW1RTPZ7Q |title=TempleOS Hymns #1 |publisher=YouTube |accessdate=March 19, 2017}}</ref>
 |-
 | 2013 || {{dts|October 11}} || Online activity || Terry submits TempleOS to Slashdot.<ref>{{cite web |url=https://slashdot.org/submission/3040627/templeos-64-bit-pc-operating-system |title=TempleOS: 64-Bit PC Operating System |website=Slashdot |date=October 11, 2013 |accessdate=March 18, 2017}}</ref>
 |-
