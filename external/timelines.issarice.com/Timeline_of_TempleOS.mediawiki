@@ -88,7 +88,7 @@ TODO:
 |-
 | 2000–2001 || || Career || Terry writes SimStructure, a physics simulation software, for H.A.R.E., his company.<ref name="tad" /> SimStructure was originally written in 1994 and called SysSim at the time.<ref name="losethos_history"/>
 |-
-| 2001–2002 || || Career || Terry works as the head software/electrical engineer for Graphic Technologies.<ref name="tad" />
+| 2001–2002 || || Career || Terry works as the head software/electrical engineer for Graphic Technologies,<ref name="tad" /> which he calls "a company doing chips to allow printer cartridges to be refilled".<ref name="losethos_history" />
 |-
 | 2003 || {{dts|August 7}}{{snd}}{{dts|October 15}} || Online activity || Sometime during this period, Terry uploads a huge rambling document on the H.A.R.E. website.<ref>{{cite web |url=https://web.archive.org/web/20031015070500/http://www.tdavis.hare.com/ |title=New Page 1 |accessdate=March 18, 2017}}</ref>
 |-
