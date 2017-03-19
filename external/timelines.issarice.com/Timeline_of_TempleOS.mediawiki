@@ -90,6 +90,8 @@ TODO:
 |-
 | 2001–2002 || || Career || Terry works as the head software/electrical engineer for Graphic Technologies,<ref name="tad" /> which he calls "a company doing chips to allow printer cartridges to be refilled".<ref name="losethos_history" />
 |-
+| 2001 || {{dts|April 14}} || || The first Internet Archive snapshot of the H.A.R.E. SimStructure website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20010414015853/http://www.simstructure.hare.com/ |title=Home Automation & Robotic Equipment |accessdate=March 18, 2017}}</ref>
+|-
 | 2003 || {{dts|August 7}}{{snd}}{{dts|October 15}} || Online activity || Sometime during this period, Terry uploads a huge rambling document on the H.A.R.E. website.<ref>{{cite web |url=https://web.archive.org/web/20031015070500/http://www.tdavis.hare.com/ |title=New Page 1 |accessdate=March 18, 2017}}</ref>
 |-
 | 2003 || || TempleOS development || Terry begins working on TempleOS around this time.<ref name="gods_lonely" /> At this time, the operating system is renamed from "TPMOS" to "HOPPY", as he thought the OS would a product for H.A.R.E, his company.<ref name="losethos_history" />
