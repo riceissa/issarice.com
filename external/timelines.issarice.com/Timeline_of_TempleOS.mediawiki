@@ -80,7 +80,7 @@ TODO:
 |-
 | 1996–2003 || || Personal || Terry apparently has a manic episode every six months during this period.<ref name="gods_lonely" />
 |-
-| 1997–1999 || || Career || Terry works for Xytec Corp.<ref name="tad" /> (The sperm bank?)
+| 1997–1999 || || Career || Terry works for Xytec Corp.,<ref name="tad" /> which he calls "a company porting image processing software to Linux from Sun and doing support for the guys making the FPGA's for image processing".<ref name="losethos_history" />
 |-
 | 1999 || {{dts|September 9}} || Personal || Terry allegedly runs over a CIA agent with his car.<ref>{{cite web |url=https://archive.fo/oOsWu |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=May 2, 2016 |accessdate=March 16, 2017}}</ref><ref name="sat" /> This episode is often repeated.
 |-
