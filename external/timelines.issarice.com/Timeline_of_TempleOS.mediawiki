@@ -92,7 +92,7 @@ TODO:
 |-
 | 2003 || {{dts|August 7}}{{snd}}{{dts|October 15}} || Online activity || Sometime during this period, Terry uploads a huge rambling document on the H.A.R.E. website.<ref>{{cite web |url=https://web.archive.org/web/20031015070500/http://www.tdavis.hare.com/ |title=New Page 1 |accessdate=March 18, 2017}}</ref>
 |-
-| 2003 || || TempleOS development || Terry begins working on TempleOS around this time.<ref name="gods_lonely" />
+| 2003 || || TempleOS development || Terry begins working on TempleOS around this time.<ref name="gods_lonely" /> At this time, the operating system is renamed from "TPMOS" to "HOPPY", as he thought the OS would a product for H.A.R.E, his company.<ref name="losethos_history" />
 |-
 | 2004 || || Personal || Terry calls this year "hell". He says he kept "getting locked up by the doctors" so ran away from home to California. He was apparently homeless for all or part of this period. Afterwards he calls this "a funny war story".<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170112.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref><ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017February/TAD170204.html |title=Terry Davis' Blog |accessdate=March 17, 2017 |quote=In 2004, they kept locking me up in mental hospitals each time I went for a doctor visit. I tried to run away to California so I would not get locked up. there were cops along the way who thought I was guilty of a crime. I just wanted to escape forced medication and doctors.}}</ref>
 |-
