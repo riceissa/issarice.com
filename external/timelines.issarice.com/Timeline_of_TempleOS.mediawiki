@@ -120,6 +120,8 @@ TODO:
 |-
 | 2012 || {{dts|September 29}} || || The SparrowOS subreddit, r/SparrowOS, is created.<ref>{{cite web |url=https://www.reddit.com/r/SparrowOS/about/moderators |title=moderators - r/SparrowOS |accessdate=March 19, 2017 |author=10thchris}}</ref>
 |-
+| 2012 || {{dts|October 2}} || TempleOS development || SparrowOS version 1.0 is released.<ref>{{cite web |url=https://wayback.archive.org/web/20121006013212/http://www.sparrowos.com/Wb/Doc/ChangeLog.html |title=The Sparrow Operating System |accessdate=March 19, 2017}}</ref>
+|-
 | 2013 || {{dts|March}} || TempleOS development || TempleOS's name changes from "SparrowOS" to "TempleOS".<ref>{{cite web |url=https://www.reddit.com/r/SparrowOS/comments/1b49yg/sparrowos_is_now_templeos/ |publisher=reddit |title=SparrowOS is now TempleOS - r/SparrowOS |accessdate=March 19, 2017 |date=March 27, 2013}}</ref><ref>{{cite web |url=https://www.reddit.com/r/SparrowOS/comments/19hns3/terry_just_released_sparrowos_anguish_songs_on/ |publisher=reddit |title=Terry just released "SparrowOS: Anguish songs" on YouTube. Also features timed text! - r/SparrowOS |accessdate=March 19, 2017 |date=March 1, 2013}}</ref>
 |-
 | 2013 || {{dts|March}} || Online activity || Terry joins Twitter as TempleOS.<ref>{{cite web |url=https://archive.fo/fZG6o |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=November 3, 2016 |accessdate=March 16, 2017}}</ref>
