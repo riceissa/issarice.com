@@ -23,8 +23,6 @@ TODO:
 
 * names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name come along?
 
-* https://www.jwz.org/blog/2013/08/a-light-has-gone-out-on-the-web/
-
 * https://www.jwz.org/blog/2014/03/its-640-x-480-thats-what-god-said-vga/
 
 * https://archive.fo/vNnwS
@@ -115,6 +113,8 @@ TODO:
 | 2012 || {{dts|August 29}} || Online activity || Someone shares LoseThos on MetaFilter. Terry ends up in the thread and comments a bunch as the user "losethos".<ref>{{cite web |url=http://www.metafilter.com/119424/An-Operating-System-for-Songs-from-God |title=An Operating System for Songs from God. |accessdate=March 17, 2017 |date=August 29, 2012 |publisher=MetaFilter}}</ref>
 |-
 | 2013 || {{dts|March}} || Online activity || Terry joins Twitter as TempleOS.<ref>{{cite web |url=https://archive.fo/fZG6o |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=November 3, 2016 |accessdate=March 16, 2017}}</ref>
+|-
+| 2013 || {{dts|August 8}} || Online activity || Terry comments on jwz.org.<ref>{{cite web |url=https://web.archive.org/web/20130811071214/http://www.jwz.org/blog/2013/08/a-light-has-gone-out-on-the-web/ |title=A light has gone out on the web. |publisher=jwz |accessdate=March 19, 2017 |date=August 8, 2013}}</ref>
 |-
 | 2013 || {{dts|October 11}} || Online activity || Terry submits TempleOS to Slashdot.<ref>{{cite web |url=https://slashdot.org/submission/3040627/templeos-64-bit-pc-operating-system |title=TempleOS: 64-Bit PC Operating System |website=Slashdot |date=October 11, 2013 |accessdate=March 18, 2017}}</ref>
 |-
