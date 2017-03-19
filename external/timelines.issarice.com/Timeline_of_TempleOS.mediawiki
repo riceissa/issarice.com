@@ -122,7 +122,7 @@ TODO:
 |-
 | 2011 || {{dts|December 10}} || Online activity || Terry joins [[wikipedia:Stack Overflow|Stack Overflow]].<ref>{{cite web |url=https://stackoverflow.com/users/1091067/terrence-andrew-davis |title=User Terrence Andrew Davis |accessdate=March 18, 2017}}</ref>
 |-
-| 2012 || {{dts|January 5}} || Online activity || Terry begins commenting using Disqus on various blogs around this day.<ref>{{cite web |url=https://nikic.github.io/2011/12/27/Dont-be-STUPID-GRASP-SOLID.html |title=Don't be STUPID: GRASP SOLID! |accessdate=March 18, 2017 |date=December 27, 2011}}</ref>
+| 2012 || {{dts|January 5}} || Online activity || Terry begins commenting using Disqus on various blogs around this day.<ref>{{cite web |url=https://nikic.github.io/2011/12/27/Dont-be-STUPID-GRASP-SOLID.html |author=Nikita Popov |title=Don't be STUPID: GRASP SOLID! |accessdate=March 18, 2017 |date=December 27, 2011}}</ref>
 |-
 | 2012 || {{dts|January 12}} || Online activity || Terry writes his first answer on Stack Overflow.<ref>{{cite web |url=https://stackoverflow.com/questions/4937402/moving-decimal-places-over-in-a-double/8830500#8830500 |title=Answer to Moving decimal places over in a double |author=Terrence Andrew Davis |accessdate=March 17, 2017 |date=January 12, 2012}}</ref>
 |-
