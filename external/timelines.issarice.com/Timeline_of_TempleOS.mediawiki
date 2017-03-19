@@ -66,13 +66,13 @@ TODO:
 |-
 | 1992 || {{dts|December}} || Career || Terry graduates from Arizona State University.<ref name="sanders">{{cite web |url=http://www.techrepublic.com/blog/software-engineer/templeos-an-educational-tool-for-programming-experiments/ |publisher=TechRepublic |title=TempleOS: an educational tool for programming experiments |accessdate=March 16, 2017 |author=James Sanders |date=January 20, 2014}}</ref> After graduation Terry stays in [[wikipedia:Tempe, Arizona|Tempe, Arizona]] to continue working at Ticketmaster.<ref name="gods_lonely" />
 |-
-| 1994 || || || Terry writes SysSim, a physics simulator, while working on his master's degree. SysSim would later be expanded and renamed to SimStructure.<ref name="losethos_history" />
+| 1994 || || Career || Terry writes SysSim, a physics simulator, while working on his master's degree. SysSim would later be expanded and renamed to SimStructure.<ref name="losethos_history" />
 |-
 | 1994 || {{dts|December 16}} || Career || Terry earns his master's in electrical engineering from Arizona State University.<ref name="gods_lonely">{{cite web |url=https://motherboard.vice.com/en_us/article/gods-lonely-programmer |publisher=Motherboard |author=Jesse Hicks |date=November 25, 2014 |title=God's Lonely Programmer |accessdate=March 16, 2017}}</ref><ref name="transcript" />
 |-
 | 1993 (approximate) || || Personal || Terry gets a [[wikipedia:Intel 80486|486]].<ref name="t_os_history" /> Of this period, Terry says: "I have fond memories of 1993, when I made a wire-wrapped ISA data acquisition card which plugged into my 486 and had some analog-to-digital and digital-to-analog convertors."<ref>{{cite web |url=http://www.templeos.org/Wb/Doc/StdTempleOSPC.html |title=The Standard TempleOS PC |accessdate=March 17, 2017}}</ref> Details of this year are repeated elsewhere: "I started my operating system in 1993 when I had real mode DOS." and "I had just got a 486 and I wanted to get to 32-bit mode like [the] 32-bit VAX at work."<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170118.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref>
 |-
-| 1994 || || || Terry begins working on Terry's Protected Mode Operating System (TPMOS).<ref name="losethos_history" />
+| 1994 || || TempleOS development || Terry begins working on Terry's Protected Mode Operating System (TPMOS).<ref name="losethos_history" />
 |-
 | 1996–1997 || || Career || Terry designs a "3 axis stepper-motor-driven milling machine" for a company he starts called Home Automation and Robotic Equipment (H.A.R.E.).<ref name="tad" />
 |-
@@ -90,9 +90,9 @@ TODO:
 |-
 | 2001–2002 || || Career || Terry works as the head software/electrical engineer for Graphic Technologies,<ref name="tad" /> which he calls "a company doing chips to allow printer cartridges to be refilled".<ref name="losethos_history" />
 |-
-| 2001 || {{dts|April 14}} || || The first Internet Archive snapshot of the H.A.R.E. SimStructure website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20010414015853/http://www.simstructure.hare.com/ |title=Home Automation & Robotic Equipment |accessdate=March 18, 2017}}</ref>
+| 2001 || {{dts|April 14}} || Online activity || The first Internet Archive snapshot of the H.A.R.E. SimStructure website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20010414015853/http://www.simstructure.hare.com/ |title=Home Automation & Robotic Equipment |accessdate=March 18, 2017}}</ref>
 |-
-| 2003 || {{dts|July 13}} || || The first Internet Archive snapshot of Terry's subdomain on the H.A.R.E. website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20030713215800/http://www.tdavis.hare.com/ |title=Soloman Consulting |accessdate=March 19, 2017}}</ref>
+| 2003 || {{dts|July 13}} || Online activity || The first Internet Archive snapshot of Terry's subdomain on the H.A.R.E. website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20030713215800/http://www.tdavis.hare.com/ |title=Soloman Consulting |accessdate=March 19, 2017}}</ref>
 |-
 | 2003 || {{dts|August 7}}{{snd}}{{dts|October 15}} || Online activity || Sometime during this period, Terry uploads a huge rambling document on the H.A.R.E. website.<ref>{{cite web |url=https://web.archive.org/web/20031015070500/http://www.tdavis.hare.com/ |title=New Page 1 |accessdate=March 18, 2017}}</ref>
 |-
@@ -100,7 +100,7 @@ TODO:
 |-
 | 2004 || || Personal || Terry calls this year "hell". He says he kept "getting locked up by the doctors" so ran away from home to California. He was apparently homeless for all or part of this period. Afterwards he calls this "a funny war story".<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170112.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref><ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017February/TAD170204.html |title=Terry Davis' Blog |accessdate=March 17, 2017 |quote=In 2004, they kept locking me up in mental hospitals each time I went for a doctor visit. I tried to run away to California so I would not get locked up. there were cops along the way who thought I was guilty of a crime. I just wanted to escape forced medication and doctors.}}</ref>
 |-
-| 2004 || {{dts|May 7}} || || The first Internet Archive snapshot of the JustRighteous website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20040507020240/http://www.justrighteous.org/ |title=Home |accessdate=March 18, 2017}}</ref>
+| 2004 || {{dts|May 7}} || Online activity || The first Internet Archive snapshot of the JustRighteous website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20040507020240/http://www.justrighteous.org/ |title=Home |accessdate=March 18, 2017}}</ref>
 |-
 | 2005 || {{dts|December 29}} || || Around this time, TempleOS is known as the J Operating System.<ref>{{cite web |url=https://www.osnews.com/story/13117/The_J_Operating_System |author=Thom Holwerda |date=December 29, 2005 |title=The J Operating System |accessdate=March 19, 2017}}</ref>
 |-
@@ -112,7 +112,7 @@ TODO:
 |-
 | 2008 || {{dts|November 29}} || Online activity || Terry creates the losethos account on [[wikipedia:Hacker News|Hacker News]].<ref>{{cite web |url=https://news.ycombinator.com/user?id=losethos |title=Profile: losethos |publisher=Hacker News |accessdate=March 16, 2017 |quote=created: 3028 days ago}}</ref>
 |-
-| 2009 || {{dts|October 5}} || || The LoseThos subreddit, r/LoseThos, is created.<ref>{{cite web |url=https://www.reddit.com/r/LoseThos/about/moderators |title=moderators - r/LoseThos |accessdate=March 19, 2017 |author=losethos}}</ref>
+| 2009 || {{dts|October 5}} || Online activity || The LoseThos subreddit, r/LoseThos, is created.<ref>{{cite web |url=https://www.reddit.com/r/LoseThos/about/moderators |title=moderators - r/LoseThos |accessdate=March 19, 2017 |author=losethos}}</ref>
 |-
 | 2010 || {{dts|September 2010}} || Online activity || Terry joins Twitter as losethos.<ref>{{cite web |url=https://archive.fo/fGEdX |publisher=archive.fo |title=Terry A. Davis (@losethos) - Twitter |date=July 8, 2015 |accessdate=March 16, 2017}}</ref>
 |-
@@ -132,7 +132,7 @@ TODO:
 |-
 | 2012 || {{dts|September 27}} || Online activity || Terry joins Reddit as SparrowOS.<ref>{{cite web |url=https://web.archive.org/web/20121006113858/http://www.reddit.com/user/SparrowOS |title=overview for SparrowOS |accessdate=March 18, 2017}}</ref>
 |-
-| 2012 || {{dts|September 29}} || || The SparrowOS subreddit, r/SparrowOS, is created.<ref>{{cite web |url=https://www.reddit.com/r/SparrowOS/about/moderators |title=moderators - r/SparrowOS |accessdate=March 19, 2017 |author=10thchris}}</ref>
+| 2012 || {{dts|September 29}} || Online activity || The SparrowOS subreddit, r/SparrowOS, is created.<ref>{{cite web |url=https://www.reddit.com/r/SparrowOS/about/moderators |title=moderators - r/SparrowOS |accessdate=March 19, 2017 |author=10thchris}}</ref>
 |-
 | 2012 || {{dts|October 2}} || TempleOS development || SparrowOS version 1.0 is released.<ref>{{cite web |url=https://wayback.archive.org/web/20121006013212/http://www.sparrowos.com/Wb/Doc/ChangeLog.html |title=The Sparrow Operating System |accessdate=March 19, 2017}}</ref>
 |-
