@@ -21,7 +21,7 @@ This is a '''timeline of [[wikipedia:TempleOS|TempleOS]]''', a biblical-themed o
 <!--
 TODO:
 
-* names: TPMOS, HOPPY, Doors, Davos, J, LoseThos, SparrowOS. When did each name come along?
+* names: Doors, Davos, J, LoseThos. When did each name come along?
 
 * https://archive.fo/vNnwS
 
