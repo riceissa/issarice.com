@@ -142,6 +142,8 @@ TODO:
 |-
 | 2013 || {{dts|August 8}} || Online activity || Terry comments on jwz.org.<ref>{{cite web |url=https://web.archive.org/web/20130811071214/http://www.jwz.org/blog/2013/08/a-light-has-gone-out-on-the-web/ |title=A light has gone out on the web. |publisher=jwz |accessdate=March 19, 2017 |date=August 8, 2013}}</ref> Several months later Jamie Zawinski would share TempleOS on the site.<ref>{{cite web |url=https://www.jwz.org/blog/2014/03/its-640-x-480-thats-what-god-said-vga/ |title="It's 640 x 480. That's what God said. VGA." |accessdate=March 19, 2017 |date=March 25, 2014}}</ref>
 |-
+| 2013 || {{dts|October 3}} || Online activity || Terry's first YouTube video on his Terry A Davis account (checked as of March 18, 2017) is from this day.<ref>{{cite web |url=https://www.youtube.com/watch?v=1okW1RTPZ7Q |title=TempleOS Hymns #1 |publisher=YouTube |accessdate=March 19, 2017}}</ref>
+|-
 | 2013 || {{dts|October 11}} || Online activity || Terry submits TempleOS to Slashdot.<ref>{{cite web |url=https://slashdot.org/submission/3040627/templeos-64-bit-pc-operating-system |title=TempleOS: 64-Bit PC Operating System |website=Slashdot |date=October 11, 2013 |accessdate=March 18, 2017}}</ref>
 |-
 | 2013 || {{dts|December 26}} || Online activity || Terry answers a question on [[wikipedia:Quora|Quora]] for the first time.<ref>{{cite web |url=https://www.quora.com/What-is-it-like-to-be-a-geek-in-a-prison/answer/Terrence-Andrew-Davis |title=Terrence Andrew Davis's answer to What is it like to be a geek in a prison? |publisher=Quora |accessdate=March 18, 2017 |author=Terrence Andrew Davis |date=December 26, 2013}}</ref>
