@@ -92,6 +92,8 @@ TODO:
 |-
 | 2004 || || Personal || Terry calls this year "hell". He says he kept "getting locked up by the doctors" so ran away from home to California. He was apparently homeless for all or part of this period. Afterwards he calls this "a funny war story".<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170112.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref><ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017February/TAD170204.html |title=Terry Davis' Blog |accessdate=March 17, 2017 |quote=In 2004, they kept locking me up in mental hospitals each time I went for a doctor visit. I tried to run away to California so I would not get locked up. there were cops along the way who thought I was guilty of a crime. I just wanted to escape forced medication and doctors.}}</ref>
 |-
+| 2005 || {{dts|December 29}} || || Around this time, TempleOS is known as the J Operating System.<ref>{{cite web |url=https://www.osnews.com/story/13117/The_J_Operating_System |author=Thom Holwerda |date=December 29, 2005 |title=The J Operating System |accessdate=March 19, 2017}}</ref>
+|-
 | 2007 || || Personal || Terry gets a 64-bit CPU.<ref name="t_os_history" />
 |-
 | 2008 || {{dts|October}} (approximate) || Online activity || Terry joins Reddit as losethos.<ref>{{cite web |url=https://web.archive.org/web/20081221161750/http://www.reddit.com/user/losethos/ |title=overview for losethos |accessdate=March 18, 2017}}</ref>
