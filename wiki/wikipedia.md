@@ -18,6 +18,11 @@ Also relevant is my current [bounty list](https://github.com/vipulnaik/contractw
 As of February 2017, I have 5,186 edits on the English Wikipedia.
 More detailed statistics are available using [X!'s tools](https://tools.wmflabs.org/xtools-ec/?user=Riceissa&project=en.wikipedia.org).
 
+On March 20, 2017, I was indefinitely blocked from editing as a "Promotion /
+advertising-only account".
+More information is available on the [corresponding Administrators'
+noticeboard/Incidents thread](https://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive948#Riceissa).
+
 # Contributions
 
 Here I list my main contributions.
