@@ -4,6 +4,12 @@ This is a '''timeline of private foundations'''.
 
 ==Full timeline==
 
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details
+|-
+| 2000 || || || The [[wikipedia:Bill & Melinda Gates Foundation|Bill & Melinda Gates Foundation]] is founded.
+|}
+
 ==See also==
 
 ==External links==
