@@ -101,7 +101,7 @@ For hacker news, start at https://news.ycombinator.com/threads?id=losethos&next=
 |-
 | 1997–1999 || || Career || Terry works for Xytec Corp.,<ref name="tad" /> which he calls "a company porting image processing software to Linux from Sun and doing support for the guys making the FPGA's for image processing".<ref name="losethos_history" />
 |-
-| 1999–2001 || || Career || For four months sometime in this period, Terry works at a deli.<ref name="Ira_2000_doc">Ira 2002.doc</ref>
+| 1999–2001 || || Career || For four months sometime in this period, Terry works at a deli.<ref name="Ira_2000_doc">Ira 2002.doc</ref>{{rp|38}}
 |-
 | 1999 || {{dts|September 9}} || Personal || Terry allegedly runs over a CIA agent with his car.<ref>{{cite web |url=https://archive.fo/oOsWu |publisher=archive.fo |title=Terry A. Davis (@TempleOS) - Twitter |date=May 2, 2016 |accessdate=March 16, 2017}}</ref><ref name="sat" /> This episode is often repeated.
 |-
