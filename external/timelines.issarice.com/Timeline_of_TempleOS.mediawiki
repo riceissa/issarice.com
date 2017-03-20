@@ -49,6 +49,8 @@ God is nice and says new stuff.
 
 As good as life gets is being God's preacher... dont call my rabbi, though... I'm confused."""
   https://news.ycombinator.com/item?id=6138383
+
+For hacker news, start at https://news.ycombinator.com/threads?id=losethos&next=5759626
 -->
 
 {| class="sortable wikitable"
