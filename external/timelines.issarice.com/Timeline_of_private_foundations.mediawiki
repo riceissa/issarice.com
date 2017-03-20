@@ -7,6 +7,10 @@ This is a '''timeline of private foundations'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1936 || {{dts|January 15}} || || The [[wikipedia:Ford Foundation|Ford Foundation]] is founded.
+|-
+| 1937 || || || The [[wikipedia:Lilly Endowment|Lilly Endowment]] is founded.
+|-
 | 2000 || || || The [[wikipedia:Bill & Melinda Gates Foundation|Bill & Melinda Gates Foundation]] is founded.
 |}
 
