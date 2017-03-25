@@ -193,6 +193,8 @@ For Ira 2002.doc, start on page 43.
 | 2017 || {{dts|March 15}} || Online activity || Terry's YouTube account is suspended for 90 days (this length of the ban was repeated on /g/ but it's not clear how they figured it out).
 |-
 | 2017 || {{dts|March 16}} || Online activity || Terry updates his fans on the status of his live streams. He says the live stream was suspended for porn.<ref>{{cite web |url=https://www.youtube.com/watch?v=xgtHBNIro7k |title=TempleOS: Update on Live Stream Status |accessdate=March 17, 2017}}</ref>
+|-
+| 2017 || {{dts|March 24}} || Online activity || Terry's live stream returns. He uses a different (older) YouTube account to circumvent the live stream suspension on his usual account.
 |}
 
 ==External links==
