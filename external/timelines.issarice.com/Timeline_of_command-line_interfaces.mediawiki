@@ -8,6 +8,7 @@ This is a '''timeline of command-line interfaces'''.
 |-
 ! Year !! Month and date !! Event type !! Details
 |-
+2013 || {{dts|October 23}} || || The initial commit to the fzf Git repository is made on this day. At this point fzf is still implemented in [[wikipedia:Ruby (programming language)|Ruby]].<ref>{{cite web |url=https://github.com/junegunn/fzf |title=junegunn/fzf: A command-line fuzzy finder written in Go |accessdate=March 25, 2017}}</ref>
 |}
 
 ==See also==
