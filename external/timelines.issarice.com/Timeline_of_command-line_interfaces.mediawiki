@@ -10,7 +10,7 @@ This is a '''timeline of command-line interfaces'''.
 |-
 | 2013 || {{dts|October 23}} || || The initial commit to the fzf Git repository is made on this day. At this point fzf is still implemented in [[wikipedia:Ruby (programming language)|Ruby]].<ref>{{cite web |url=https://github.com/junegunn/fzf |title=junegunn/fzf: A command-line fuzzy finder written in Go |accessdate=March 25, 2017}}</ref> In April 2014 Junegunn Choi, the primary author of fzf, would describe the progress to date.<ref>{{cite web |url=https://junegunn.kr/2014/04/fzf+vim+tmux/ |title=fzf + vim + tmux / junegunn.kr |publisher=junegunn.kr |accessdate=March 25, 2017}}</ref>
 |-
-| 2015 || {{dts|January 1}} || || fzf is rewritten in Go.<ref>{{cite web |url=https://github.com/junegunn/fzf/commit/f3177305d5572b26f135fc045481358b4eb1bf69 |title=Rewrite fzf in Go |accessdate=March 25, 2017}}</ref>
+| 2015 || {{dts|January 1}} || || fzf is rewritten in Go.<ref>{{cite web |url=https://github.com/junegunn/fzf/commit/f3177305d5572b26f135fc045481358b4eb1bf69 |title=Rewrite fzf in Go |accessdate=March 25, 2017}}</ref> Junegunn Choi would announce the change on his blog in February.<ref>{{cite web |url=https://junegunn.kr/2015/02/fzf-in-go/ |title=fzf rewritten in go / junegunn.kr |publisher=junegunn.kr |accessdate=March 25, 2017}}</ref>
 |}
 
 ==See also==
