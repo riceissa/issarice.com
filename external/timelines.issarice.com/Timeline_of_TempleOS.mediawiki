@@ -124,6 +124,8 @@ https://boards.4chan.org/g/thread/59554516#p59566656
 |-
 | 2001 || {{dts|April 14}} || Online activity || The first Internet Archive snapshot of the H.A.R.E. SimStructure website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20010414015853/http://www.simstructure.hare.com/ |title=Home Automation & Robotic Equipment |accessdate=March 18, 2017}}</ref>
 |-
+| 2002 || {{dts|May 10}}{{snd}}{{dts|September 3}} || Personal || Terry exchanges a series of emails with someone from Graphic Technologies. These emails are made available in a 128-page Word document called "Ira 2002.doc". Note that there could have been more emails in this period not included in the document, as well as emails outside of this time period.<ref name="Ira_2000_doc" />
+|-
 | 2003 || {{dts|July 13}} || Online activity || The first Internet Archive snapshot of Terry's subdomain on the H.A.R.E. website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20030713215800/http://www.tdavis.hare.com/ |title=Soloman Consulting |accessdate=March 19, 2017}}</ref>
 |-
 | 2003 || {{dts|August 7}}{{snd}}{{dts|October 15}} || Online activity || Sometime during this period, Terry uploads a huge rambling document on the H.A.R.E. website.<ref>{{cite web |url=https://web.archive.org/web/20031015070500/http://www.tdavis.hare.com/ |title=New Page 1 |accessdate=March 18, 2017}}</ref>
