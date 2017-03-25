@@ -53,7 +53,7 @@ For hacker news, start at https://news.ycombinator.com/threads?id=losethos&next=
 
 For Ira 2002.doc, start on page 43.
 
-Feedback from anons:
+Feedback from anons (https://archive.fo/eIJac):
 
 """>>59565763
 The new thread part implies that Terry smashed the new bird as soon as it showed up, which is not what happened 
