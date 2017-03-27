@@ -1,7 +1,7 @@
 ---
 title: Software
 author: Issa Rice
-date: 2016-10-26
+date: 2017-03-27
 ---
 
 This page lists software I use or have used.
@@ -50,7 +50,7 @@ This page is a placeholder for now.
 - LibreOffice Calc for converting between CSV and XLS.
   I know almost nothing about it, but it seems to do what I want.
 - I often use `less` (e.g. instead of `tail -f` I use `less +F`)
-- fzf
+- fzf, mostly for recalling commands in bash with CTRL-R.
 
 Programs in trial mode:
 
