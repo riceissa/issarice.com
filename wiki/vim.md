@@ -457,6 +457,14 @@ benefits may outweigh the costs):
     to show that there are possibly edge cases like these where maps work
     in Vim but don't in Neovim.
 
+-   Setting the title doesn't work.
+    The following works in Vim but not Neovim:
+
+        if &term =~ "screen"
+          exec "set t_ts=\<Esc>k"
+          exec "set t_fs=\<Esc>\\"
+        endif
+
 # Some intuitions
 
 I began using Vim at the latest in the summer of 2011.
