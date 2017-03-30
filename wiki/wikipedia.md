@@ -23,6 +23,8 @@ Wikipedia as a "Promotion /
 advertising-only account".
 More information is available on the [corresponding Administrators'
 noticeboard/Incidents thread](https://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive948#Riceissa).
+This block was one of the results of a series of attacks on [Vipul Naik's paid
+content creation project](https://contractwork.vipulnaik.com/).
 
 # Contributions
 
