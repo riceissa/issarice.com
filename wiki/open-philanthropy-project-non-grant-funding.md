@@ -77,3 +77,11 @@ From [Geoengineering
 Research](http://www.openphilanthropy.org/blog/geoengineering-research): "We
 are currently experimenting with working with a consultant (who has a
 substantial relevant background) to make more progress on this cause."
+
+From [Open Philanthropy Project
+Update](http://www.openphilanthropy.org/blog/open-philanthropy-project-update)
+(published September 2015):
+
+> We are not sure whether it is necessary to make a full-time hire for
+> macroeconomic policy, though we currently have a consultant who could
+> potentially play that role advising us.
