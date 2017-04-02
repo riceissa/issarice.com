@@ -8,7 +8,7 @@ date: 2017-04-02
 I make some observations on my frustration with trying to extract people's
 beliefs from their public statements.
 This is not intended to be comprehensive or representative of reality, but more
-to snapshot my current thinking.
+to snapshot my current thinking/framing.
 
 For various reasons, I have a need to understand what people think of various
 topics (where it matters *who* says them, not just the ideas contained in their
