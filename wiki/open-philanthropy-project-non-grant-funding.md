@@ -27,6 +27,10 @@ As of April 2017 I am not aware of any central location for this information
 
 # Consultants
 
+For consultants, the exact payment amount is not public.
+Using public information, I cannot rule out a situation where some consultants
+are not paid.
+
 Carl Shulman has stated that he does ["significant consulting for Open
 Phil"](http://effective-altruism.com/ea/15g/small_donors_can_plan_to_make_better_bets_than/).
 Carl seems good about disclosing this information when he weighs in on Open
