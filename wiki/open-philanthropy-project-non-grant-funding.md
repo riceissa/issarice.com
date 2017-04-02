@@ -29,3 +29,6 @@ financially covered by Open Phil:
 
 > My time and expenses for this project are covered by a contract with the Open
 > Philanthropy Project.
+
+David Roodman [used to be an independent consultant](http://www.openphilanthropy.org/about/team/david-roodman)
+for Open Phil, but "He became an employee in 2015".
