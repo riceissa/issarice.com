@@ -38,3 +38,8 @@ for Open Phil, but "He became an employee in 2015".
 > The Distill Prize has a $125,000 USD initial endowment, funded by Chris Olah,
 > Greg Brockman, Jeff Dean, DeepMind, and the Open Philanthropy Project.
 > Logistics for the prize are handled by the Open Philanthropy Project.
+
+[Chris Somerville](http://www.openphilanthropy.org/about/team/chris-somerville)
+[now works for Open Phil, but used to consult for it](http://www.openphilanthropy.org/blog/our-progress-2016-and-plans-2017):
+
+> Chris was previously consulting on a part-time basis.
