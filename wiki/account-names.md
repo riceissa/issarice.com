@@ -61,6 +61,10 @@ You can browse [my public repositories](https://github.com/riceissa?tab=reposito
   [Git](wiki/git.md) configured to use my real name) as the account name for
   offline edits.
   Seeing this, I decided to start using "Issa Rice" for online edits as well.
+- I am [Riceissa](https://info.cognitomentoring.org/wiki/User:Riceissa) on the
+  Cognito Mentoring wiki, which is created by Vipul Naik and Jonah Sinick.
+- I am [IssaRice](https://machinelearning.subwiki.org/wiki/Special:Contributions/IssaRice)
+  on the Machine Learning wiki, created by Vipul Naik.
 
 # Other
 
