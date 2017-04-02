@@ -54,7 +54,7 @@ David Roodman [used to be an independent consultant](http://www.openphilanthropy
 for Open Phil, but "He became an employee in 2015".
 
 [Chris Somerville](http://www.openphilanthropy.org/about/team/chris-somerville)
-[now works for Open Phil, but used to consult for it](http://www.openphilanthropy.org/blog/our-progress-2016-and-plans-2017):
+now works for Open Phil, but [used to consult for it](http://www.openphilanthropy.org/blog/our-progress-2016-and-plans-2017):
 
 > Chris was previously consulting on a part-time basis.
 
