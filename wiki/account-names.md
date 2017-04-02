@@ -81,6 +81,9 @@ I occasionally use Reddit to look for information, but don’t really post.
 - [My Internet Archive account](https://archive.org/details/@issarice)
 - [My Goodreads account](https://www.goodreads.com/user/show/47708980-issa-rice)
 - [My MyAnimeList account](http://myanimelist.net/profile/riceissa)
+- I am [Issa-Rice](https://www.couchsurfing.com/people/Issa-Rice) on
+  Couchsurfing.
+  I made the account but I have never used the site for couchsurfing.
 
 # See also
 
