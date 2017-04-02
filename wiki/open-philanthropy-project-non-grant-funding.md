@@ -12,7 +12,7 @@ Philanthropy Project](http://www.openphilanthropy.org/).
 By "non-grant funding", I mean the funding provided by Open Phil that is not included
 in their [grants database](http://www.openphilanthropy.org/giving/grants).
 There is some funding, like the [investment to Impossible Foods](http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/impossible-foods),
-that is not a "grant" but is still included in the grants database; I have
+that is not called a "grant" but is still included in the grants database; I have
 excluded these.
 As of April 2017 I am not aware of any central location for this information
 (other than this page).
