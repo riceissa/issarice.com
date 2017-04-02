@@ -90,6 +90,9 @@ I occasionally use Reddit to look for information, but don’t really post.
 - I am [Issa-Rice](https://www.couchsurfing.com/people/Issa-Rice) on
   Couchsurfing.
   I made the account but I have never used the site for couchsurfing.
+- I am [riceissa](https://disqus.com/by/riceissa/) on Disqus.
+  I made a couple of scattered comments using the service but haven't used it
+  in years.
 
 # See also
 
