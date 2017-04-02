@@ -55,3 +55,9 @@ Steven Phillips [consults or consulted for Open Phil](http://www.openphilanthrop
 > consultant to source giving opportunities in malaria control/elimination.
 
 Karl Smith is/was a [consultant for Open Phil](http://www.openphilanthropy.org/sites/default/files/Jared_Bernstein_and_Ben_Spielberg_10-21-15_%28public%29.pdf).
+
+Steve Teles is/was a [consultant for Open Phil](http://www.openphilanthropy.org/focus/us-policy/criminal-justice-reform/florida-state-university-project-accountable-justice-general-support#footnoteref2_eqg3lb2):
+
+> PAJ was recommended to us by Steve Teles, a political science professor at
+> Johns Hopkins who has written about the philanthropic origins of the
+> conservative legal movement and has been working for us as a consultant.
