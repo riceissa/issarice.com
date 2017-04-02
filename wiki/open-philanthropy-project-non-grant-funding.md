@@ -107,6 +107,10 @@ as far as I am aware):
 
 # Technical advisors
 
+Open Phil has on several occasions mentioned technical advisors.
+Using public information, it is unclear whether they received financial
+compensation.
+
 [Dario Amodei and Paul Christiano](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support):
 
 > OpenAI researchers Dario Amodei and Paul Christiano are both technical
