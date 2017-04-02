@@ -14,6 +14,9 @@ in their [grants database](http://www.openphilanthropy.org/giving/grants).
 There is some funding, like the [investment to Impossible Foods](http://www.openphilanthropy.org/focus/us-policy/farm-animal-welfare/impossible-foods),
 that is not called a "grant" but is still included in the grants database; I have
 excluded these.
+I also excluded full-time employees, who are all listed on the [team
+page](http://www.openphilanthropy.org/about/team), unless they started out as
+consultants.
 As of April 2017 I am not aware of any central location for this information
 (other than this page).
 
