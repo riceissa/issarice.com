@@ -24,6 +24,11 @@ and the footnote:
 > This work is structured as part of Ben's consulting for us rather than as a
 > grant, which is why it does not appear in our grants database.
 
+Suzanne Kahn also [works or worked as a consultant for Open Phil](http://www.openphilanthropy.org/blog/history-philanthropy-case-study-founding-center-budget-and-policy-priorities):
+
+> Suzanne Kahn, a consultant who has been working with us as part of our
+> History of Philanthropy project
+
 Julia Galef's [Update Project](https://juliagalef.com/update-project/) is
 financially covered by Open Phil:
 
