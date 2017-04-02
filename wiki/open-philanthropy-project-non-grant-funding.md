@@ -75,17 +75,17 @@ Stephan Guyenet is/was a [consultant for Open Phil](http://www.openphilanthropy.
 
 # Consultants whose identities are unknown or may overlap with known consultants
 
-From [GiveWell Labs
-Update](http://www.openphilanthropy.org/blog/givewell-labs-update-0):
+From ["GiveWell Labs
+Update"](http://www.openphilanthropy.org/blog/givewell-labs-update-0):
 "Two consultants were retained to look into this area \[drug policy reform\]".
 
-From [Geoengineering
-Research](http://www.openphilanthropy.org/blog/geoengineering-research): "We
+From ["Geoengineering
+Research"](http://www.openphilanthropy.org/blog/geoengineering-research): "We
 are currently experimenting with working with a consultant (who has a
 substantial relevant background) to make more progress on this cause."
 
-From [Open Philanthropy Project
-Update](http://www.openphilanthropy.org/blog/open-philanthropy-project-update)
+From ["Open Philanthropy Project
+Update"](http://www.openphilanthropy.org/blog/open-philanthropy-project-update)
 (published September 2015):
 
 > We are not sure whether it is necessary to make a full-time hire for
