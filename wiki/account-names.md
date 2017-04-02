@@ -65,6 +65,9 @@ You can browse [my public repositories](https://github.com/riceissa?tab=reposito
   Cognito Mentoring wiki, which is created by Vipul Naik and Jonah Sinick.
 - I am [IssaRice](https://machinelearning.subwiki.org/wiki/Special:Contributions/IssaRice)
   on the Machine Learning wiki, created by Vipul Naik.
+- I am [IssaRice](https://calculus.subwiki.org/wiki/Special:Contributions/IssaRice)
+  on the Calculus Subwiki, created by Vipul Naik.
+  Apparently I never made any edits on this wiki.
 
 # Other
 
