@@ -61,3 +61,5 @@ Steve Teles is/was a [consultant for Open Phil](http://www.openphilanthropy.org/
 > PAJ was recommended to us by Steve Teles, a political science professor at
 > Johns Hopkins who has written about the philanthropic origins of the
 > conservative legal movement and has been working for us as a consultant.
+
+Stephan Guyenet is/was a [consultant for Open Phil](http://www.openphilanthropy.org/sites/default/files/Joao_Breda_05-17-16_%28public%29.pdf).
