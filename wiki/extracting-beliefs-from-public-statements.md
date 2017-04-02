@@ -23,3 +23,11 @@ statements):
 >
 > I'm a bit worried over the fact that most other Facebook timelines inside my
 > bubble do not look like this.
+
+<https://juliagalef.com/update-project/>
+
+<http://reducing-suffering.org/summary-beliefs-values-big-questions/>
+
+<http://effective-altruism.com/ea/17o/some_thoughts_on_public_discourse/>
+
+<https://en.wikipedia.org/wiki/Abandonware>
