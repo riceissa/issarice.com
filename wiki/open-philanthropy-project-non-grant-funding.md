@@ -5,6 +5,8 @@ created: 2017-04-02
 date: 2017-04-02
 ---
 
+# Introduction
+
 This page lists publicly-available non-grant funding information of the [Open
 Philanthropy Project](http://www.openphilanthropy.org/).
 By "non-grant", I mean the funding provided by Open Phil that is not included
@@ -14,6 +16,16 @@ that is not a "grant" but is still included in the grants database; I have
 excluded these.
 As of April 2017 I am not aware of any central location for this information
 (other than this page).
+
+# Prize money
+
+[Distill Prize](http://distill.pub/prize/) is financially supported by Open Phil:
+
+> The Distill Prize has a $125,000 USD initial endowment, funded by Chris Olah,
+> Greg Brockman, Jeff Dean, DeepMind, and the Open Philanthropy Project.
+> Logistics for the prize are handled by the Open Philanthropy Project.
+
+# Consultants
 
 Carl Shulman has stated that he does ["significant consulting for Open
 Phil"](http://effective-altruism.com/ea/15g/small_donors_can_plan_to_make_better_bets_than/).
@@ -42,12 +54,6 @@ financially covered by Open Phil:
 
 David Roodman [used to be an independent consultant](http://www.openphilanthropy.org/about/team/david-roodman)
 for Open Phil, but "He became an employee in 2015".
-
-[Distill Prize](http://distill.pub/prize/) is financially supported by Open Phil:
-
-> The Distill Prize has a $125,000 USD initial endowment, funded by Chris Olah,
-> Greg Brockman, Jeff Dean, DeepMind, and the Open Philanthropy Project.
-> Logistics for the prize are handled by the Open Philanthropy Project.
 
 [Chris Somerville](http://www.openphilanthropy.org/about/team/chris-somerville)
 [now works for Open Phil, but used to consult for it](http://www.openphilanthropy.org/blog/our-progress-2016-and-plans-2017):
