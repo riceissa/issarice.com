@@ -95,7 +95,8 @@ Update"](http://www.openphilanthropy.org/blog/open-philanthropy-project-update)
 # Other contract work
 
 Julia Galef's [Update Project](https://juliagalef.com/update-project/) is
-financially covered by Open Phil:
+financially covered by Open Phil (no public confirmation from Open Phil on this
+as far as I am aware):
 
 > My time and expenses for this project are covered by a contract with the Open
 > Philanthropy Project.
