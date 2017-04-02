@@ -23,3 +23,9 @@ and the footnote:
 
 > This work is structured as part of Ben's consulting for us rather than as a
 > grant, which is why it does not appear in our grants database.
+
+Julia Galef's [Update Project](https://juliagalef.com/update-project/) is
+financially covered by Open Phil:
+
+> My time and expenses for this project are covered by a contract with the Open
+> Philanthropy Project.
