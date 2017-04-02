@@ -46,12 +46,6 @@ Suzanne Kahn also [works or worked as a consultant for Open Phil](http://www.ope
 > Suzanne Kahn, a consultant who has been working with us as part of our
 > History of Philanthropy project
 
-Julia Galef's [Update Project](https://juliagalef.com/update-project/) is
-financially covered by Open Phil:
-
-> My time and expenses for this project are covered by a contract with the Open
-> Philanthropy Project.
-
 David Roodman [used to be an independent consultant](http://www.openphilanthropy.org/about/team/david-roodman)
 for Open Phil, but "He became an employee in 2015".
 
@@ -93,3 +87,11 @@ Update](http://www.openphilanthropy.org/blog/open-philanthropy-project-update)
 > We are not sure whether it is necessary to make a full-time hire for
 > macroeconomic policy, though we currently have a consultant who could
 > potentially play that role advising us.
+
+# Other contract work
+
+Julia Galef's [Update Project](https://juliagalef.com/update-project/) is
+financially covered by Open Phil:
+
+> My time and expenses for this project are covered by a contract with the Open
+> Philanthropy Project.
