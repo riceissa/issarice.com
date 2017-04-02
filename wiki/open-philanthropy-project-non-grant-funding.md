@@ -69,6 +69,8 @@ Steve Teles is/was a [consultant for Open Phil](http://www.openphilanthropy.org/
 
 Stephan Guyenet is/was a [consultant for Open Phil](http://www.openphilanthropy.org/sites/default/files/Joao_Breda_05-17-16_%28public%29.pdf).
 
+# Consultants whose identities are unknown or may overlap with known consultants
+
 From [GiveWell Labs
 Update](http://www.openphilanthropy.org/blog/givewell-labs-update-0):
 "Two consultants were retained to look into this area \[drug policy reform\]".
