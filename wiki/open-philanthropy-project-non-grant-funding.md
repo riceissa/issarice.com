@@ -32,6 +32,10 @@ Phil"](http://effective-altruism.com/ea/15g/small_donors_can_plan_to_make_better
 Carl seems good about disclosing this information when he weighs in on Open
 Phil-related topics in public comments, but details of this contract work have
 not been publicly disclosed (as far as I am aware).
+I am aware of one [conversation PDF](http://www.openphilanthropy.org/sites/default/files/Carl_Shulman_08-19-16_%28public%29.pdf),
+but the PDF introduces Carl as "Research Associate, Future of Humanity
+Institute", so it is not clear to me whether the conversation was done as part
+of his consulting work or as part of his work for FHI or neither or both.
 
 Ben Soskis's work on the history of philanthropy is financially covered (fully?
 partly?) by Open Phil; see the [history of philanthropy
