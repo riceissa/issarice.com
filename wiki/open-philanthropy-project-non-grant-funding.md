@@ -43,3 +43,8 @@ for Open Phil, but "He became an employee in 2015".
 [now works for Open Phil, but used to consult for it](http://www.openphilanthropy.org/blog/our-progress-2016-and-plans-2017):
 
 > Chris was previously consulting on a part-time basis.
+
+Steven Phillips [consults or consulted for Open Phil](http://www.openphilanthropy.org/blog/finding-giving-opportunities-malaria-controlelimination):
+
+> As part of our work on GiveWell Labs, we retained Dr. Steven Phillips as a
+> consultant to source giving opportunities in malaria control/elimination.
