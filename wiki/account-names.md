@@ -50,6 +50,18 @@ You can browse [my public repositories](https://github.com/riceissa?tab=reposito
 - I am [IssaRice](https://news.ycombinator.com/user?id=IssaRice) on Hacker News.
 - [My Vim Tips Wiki contributions](http://vim.wikia.com/wiki/Special:Contributions/IssaRice?useskin=monobook)
 
+# Websites I run or someone I know runs
+
+- I am [Issa](https://timelines.issarice.com/wiki/User:Issa) on the [Timelines
+  Wiki](https://timelines.issarice.com/wiki/Main_Page), which I run.
+- I am both issa and Issa Rice on [Cause Prioritization
+  Wiki](https://causeprioritization.org/), which I run.
+  I originally used "issa" as my account, but gitit, the software that runs the
+  wiki, uses the committer name (in my case, "Issa Rice", as I have
+  [Git](wiki/git.md) configured to use my real name) as the account name for
+  offline edits.
+  Seeing this, I decided to start using "Issa Rice" for online edits as well.
+
 # Other
 
 - I have a [WordPress.com blog](https://riceissa.wordpress.com/) that I used to maintain.
