@@ -104,3 +104,11 @@ as far as I am aware):
 
 > My time and expenses for this project are covered by a contract with the Open
 > Philanthropy Project.
+
+# Technical advisors
+
+[Dario Amodei and Paul Christiano](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/openai-general-support):
+
+> OpenAI researchers Dario Amodei and Paul Christiano are both technical
+> advisors to Open Philanthropy and live in the same house as Holden. In
+> addition, Holden is engaged to Dario’s sister Daniela.
