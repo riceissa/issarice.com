@@ -68,7 +68,8 @@ Most recently, I've been doing research in global health---and in the process I'
 These are:
 
 - [Timeline of global health](https://en.wikipedia.org/wiki/Timeline_of_global_health) (first created by me, but now being improved by others)
-- [Timeline of nonprofit evaluation](https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation)
+- Timeline of nonprofit evaluation -- deleted, see the [version on the
+  Timelines Wiki](https://timelines.issarice.com/wiki/Timeline_of_nonprofit_evaluation)
 - [Child survival revolution](https://en.wikipedia.org/wiki/Child_survival_revolution), a major movement in global health in the 1980s--1990s
 - [Priority-setting in global health](https://en.wikipedia.org/wiki/Priority-setting_in_global_health)
 - [Timeline of deworming](https://en.wikipedia.org/wiki/Timeline_of_deworming)

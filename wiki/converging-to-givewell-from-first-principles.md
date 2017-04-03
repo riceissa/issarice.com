@@ -63,5 +63,5 @@ Foundation as the best charity combating malaria?
 
 [donations]: http://issarice.com/donation-history
 [involvement]: http://issarice.com/effective-altruism
-[tone]: https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation
+[tone]: https://timelines.issarice.com/wiki/Timeline_of_nonprofit_evaluation
 [vip_i]: http://vipulnaik.com/effective-altruism/

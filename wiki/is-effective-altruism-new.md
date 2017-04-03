@@ -295,6 +295,6 @@ global health focus on the specific approaches taken.
 [psigh]:            https://en.wikipedia.org/wiki/Priority-setting_in_global_health "“Priority-setting in global health”. Wikipedia."
 [sc post]:          https://www.facebook.com/jefftk/posts/801128155632 "Jeff Kaufman. July 23, 2016. Archived at https://archive.is/q4WBM."
 [scm]:              http://www.jefftk.com/p/scientific-charity-movement "Jeff Kaufman. “Scientific Charity Movement”. July 17, 2016."
-[timeline ne]:      https://en.wikipedia.org/wiki/Timeline_of_nonprofit_evaluation "“Timeline of nonprofit evaluation”. Wikipedia."
+[timeline ne]:      https://timelines.issarice.com/wiki/Timeline_of_nonprofit_evaluation "“Timeline of nonprofit evaluation”. Timelines Wiki."
 [tomasik comment]:  http://lesswrong.com/lw/j8n/a_critique_of_effective_altruism/a57z "Brian Tomasik. Comment on “A critique of effective altruism”. December 2, 2013. LessWrong."
 [tumber]:           https://bostonreview.net/forum/logic-effective-altruism/catherine-tumber-response-effective-altruism "Catherine Tumber. “The Logic of Effective Altruism”. July 1, 2015. Boston Review."
