@@ -85,6 +85,8 @@ Stephan Guyenet is/was a [consultant for Open Phil](http://www.openphilanthropy.
 From ["GiveWell Labs
 Update"](http://www.openphilanthropy.org/blog/givewell-labs-update-0):
 "Two consultants were retained to look into this area \[drug policy reform\]".
+See [this post](http://www.goodventures.org/research-and-ideas/blog/observations-on-the-war-on-drugs)
+by Cari Tuna; the consultants are probably Matt Stoller and Aaron Swartz.
 
 From ["Geoengineering
 Research"](http://www.openphilanthropy.org/blog/geoengineering-research): "We
