@@ -33,8 +33,12 @@ not have a page about them on the English Wikipedia.
   deleted
 - Shmoop [Wikipedia page](https://en.wikipedia.org/w/index.php?title=Special:Log/delete&page=Shmoop)
   deleted
+- IXL Learning now has a Wikipedia page, but it only [began](https://en.wikipedia.org/w/index.php?title=IXL_Learning&oldid=720906333)
+  in May 2016.
 
 # Other
+
+- Go2Cloud
 
 # External links
 
