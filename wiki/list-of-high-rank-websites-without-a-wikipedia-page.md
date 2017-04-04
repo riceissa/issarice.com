@@ -29,8 +29,8 @@ not have a page about them on the English Wikipedia.
 
 # Education sites
 
-- Education.com, [Wikipedia](https://en.wikipedia.org/w/index.php?title=Special:Log/delete&page=Education.com)
-  page deleted
+- Education.com, [Wikipedia page](https://en.wikipedia.org/w/index.php?title=Special:Log/delete&page=Education.com)
+  deleted
 - Shmoop [Wikipedia page](https://en.wikipedia.org/w/index.php?title=Special:Log/delete&page=Shmoop)
   deleted
 
