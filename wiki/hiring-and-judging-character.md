@@ -62,6 +62,9 @@ status: notes
         > your general *inability* to predict individual actions of the person,
         > while still roughly seeing the end-result outcome as positive.
 
+        See also ["He Who Pays the Piper Must Know the
+        Tune"](https://mason.gmu.edu/~rhanson/expert.pdf) by Robin Hanson.
+
 - many more Quora questions about judging character (many by Alex):
 
     - [How to evaluate someone's ability to be an exceptional judge of character](https://www.quora.com/Judging-Character/How-do-you-evaluate-someones-ability-to-be-an-exceptional-judge-of-character)
