@@ -1,7 +1,7 @@
 ---
 title: Total spending in global health
 author: Issa Rice
-date: 2016-08-26
+date: 2017-04-07
 created: 2016-08-25
 ---
 
