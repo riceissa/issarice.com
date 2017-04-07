@@ -244,6 +244,7 @@ What does it look like generally and for each disease?
 # See also
 
 - [Total spending in global health](wiki/total-spending-in-global-health.md)
+- [Malaria notes](wiki/malaria-notes.md)
 
 [^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
 
