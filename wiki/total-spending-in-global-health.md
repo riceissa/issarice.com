@@ -63,6 +63,28 @@ off, since health spending seems to change a lot in just a few years:
 > giving for health was unaccounted for, meaning that nearly a third of all
 > health aid was not tracked.
 
+[Dieleman et al.](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2816%2930168-4/abstract)
+(2016, p2) describe the literature as follows:
+
+> **Evidence before this study** \
+> Much research has sought to describe the disbursement of development
+> assistance for health (DAH). Previous research articles and reports by
+> the Institute for Health Metrics and Evaluation have tracked DAH from
+> 1990 onward, disaggregating spending by the source of funding,
+> intermediary channel, recipient country, and health focus area. Other
+> studies have concentrated on specific health focus areas, such as the
+> estimates produced by Countdown to 2015, which focused on maternal,
+> child, and newborn health. In addition to resource tracking, separate,
+> relatively contentious lines of research have aimed to measure the
+> effectiveness of DAH, and the practice in which development assistance
+> displaces government spending. These studies vary in scope and
+> conclusion, with some focusing on cross-country longitudinal analyses,
+> and others concentrating on a single country or programme. Finally,
+> there is a substantial body of research that aims to connect governance
+> and DAH, and explores how DAH is allocated across recipient countries
+> and health focus areas. Conclusions from these studies have been quite
+> mixed.
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
