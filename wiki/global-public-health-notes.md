@@ -241,6 +241,10 @@ What does it look like generally and for each disease?
   Sort of along the same lines is ["Are GiveWell Top Charities Too
   Speculative?"](http://effective-altruism.com/ea/rg/are_givewell_top_charities_too_speculative/)
 
+# See also
+
+- [Total spending in global health](wiki/total-spending-in-global-health.md)
+
 [^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
 
     > The palpable tension, between managing episodic, acute, frightening,
