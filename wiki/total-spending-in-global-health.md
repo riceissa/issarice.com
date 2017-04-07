@@ -5,7 +5,7 @@ date: 2016-08-26
 created: 2016-08-25
 ---
 
-from [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/50534721/en):
+From [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/50534721/en):
 
 > The subject of health expenditure is in itself a challenging topic. No exact
 > measurement exists for the basic health expenditure in all countries. Even in
