@@ -153,3 +153,7 @@ Other sources to look at for funding info:
 
   * Individual annual reports put out by various orgs (which ones?)
   * Private donations in the US: [Charity Navigator](http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/42) and [NPT](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/) give same numbers for 2015, namely $373 billion (but not all of this is health).
+
+# See also
+
+- [Global public health notes](wiki/global-public-health-notes.md)
