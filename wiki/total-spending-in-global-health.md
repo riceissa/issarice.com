@@ -85,6 +85,17 @@ off, since health spending seems to change a lot in just a few years:
 > and health focus areas. Conclusions from these studies have been quite
 > mixed.
 
+Page 5, § Results:
+
+> We used more than 60 data sources. Data were collected from the
+> Organisation for Economic Co-operation and Development (OECD)'s Creditor
+> Reporting System (CRS); the OECD's Development Assistance Committee
+> (DAC); project-level data from the Gates Foundation, the Global Fund,
+> Gavi, and the World Bank; grant-level data from the Foundation Center;
+> non-governmental organisation (NGO) data from the US Agency for
+> International Development (USAID)'s annual Report of Voluntary Agencies;
+> and a diverse set of audited financial records and annual budgets.
+
 The paper also includes numerous interesting figures.
 
 Other sources to look at for funding info:
