@@ -98,6 +98,13 @@ Page 5, § Results:
 
 The paper also includes numerous interesting figures.
 
+More IHME links:
+
+- [Financing Global Health 2015
+  Brief](http://www.healthdata.org/infographic/financing-global-health-2015-brief)
+- [Growth in maternal and child health funding outpaces spending on HIV, TB,
+  and malaria](http://www.healthdata.org/news-release/growth-maternal-and-child-health-funding-outpaces-spending-hiv-tb-and-malaria)
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
