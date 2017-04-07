@@ -85,6 +85,8 @@ off, since health spending seems to change a lot in just a few years:
 > and health focus areas. Conclusions from these studies have been quite
 > mixed.
 
+The paper also includes numerous interesting figures.
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
