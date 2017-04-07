@@ -232,3 +232,7 @@ Examples:
 * Total malaria budget?
 * Total spending on bednets? Total number of bednets?
 *
+
+# See also
+
+- [Global public health notes](wiki/global-public-health-notes.md)
