@@ -104,6 +104,8 @@ More IHME links:
   Brief](http://www.healthdata.org/infographic/financing-global-health-2015-brief)
 - [Growth in maternal and child health funding outpaces spending on HIV, TB,
   and malaria](http://www.healthdata.org/news-release/growth-maternal-and-child-health-funding-outpaces-spending-hiv-tb-and-malaria)
+- [Viz Hub](https://vizhub.healthdata.org/fgh/), which has a flow diagram that
+  you can interact with (e.g. filter only for malaria funding)
 
 Other sources to look at for funding info:
 
