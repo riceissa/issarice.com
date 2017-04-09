@@ -81,6 +81,23 @@ Some examples:
   something in older versions of Vim and save myself from minor frustration
   each time I copy-pasted worth it? -->
 
+- Newer versions of [Git](wiki/git.md) require adding `default = simple` in the
+  push section of one's configuration file in order to preserve the old pushing
+  behavior.
+  But in older versions of Git, having this line causes Git to spit out an
+  error.
+  Moreover, the Git configuration syntax does not allow conditional (e.g. on
+  Git version) settings.
+  This means one must rely on some shell script to generate that line
+  conditionally, or to keep two copies of the Git configuration file, or to
+  manually remove that line when using older versions of Git, or something like
+  that.
+  For now I have opted for the final approach, because I rarely use older
+  versions of Git.
+  But this is the kind of interesting (and frustrating, depending on one's
+  mood) problems one runs into in trying to make one's working environment
+  portable.
+
 # External links
 
   * [How to Efficiently Work Offline](http://www.wikihow.com/Efficiently-Work-Offline) by Vipul Naik
