@@ -98,6 +98,19 @@ Some examples:
   mood) problems one runs into in trying to make one's working environment
   portable.
 
+In a "getting things done" mindset, I tend to view the act of configuring
+software similarly to writing software or reading information or hiring
+someone.
+There is some cost to me in the process, and hopefully I get something useful
+out of it that helps me accomplish my goals.
+What is different?
+With software configuration, the cost involved is mainly the research and
+experimentation time, as well as some frustration when the software doesn't
+work after configuring.
+The mental experience is also a little different, because I have to deal with
+idiosyncrasies of the configuration API provided by the particular software in
+question.
+
 More generic software rant: I encounter *a lot* of small software-related
 nuisances in my daily life.
 And, having learned how to program, I know that, theoretically, I could spend
