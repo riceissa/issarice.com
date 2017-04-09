@@ -50,7 +50,25 @@ Just some notes for now.
     > maintenance. I like the freedom to wipe and reinstall without losing my
     > world
 
-  <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and Gmail once, then Firefox will remember a much larger fraction of the --> 
+  <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and Gmail once, then Firefox will remember a much larger fraction of the -->
+
+Particularly when editing text, I find it incredibly irritating when it takes a
+lot of time to go from my thoughts to the form of text on the screen.
+Learning [Vim](wiki/vim.md) has helped with this, possibly to a great extent
+(it is difficult to know because I learned it in small increments -- being
+forced to use a primitive editor and finding the experience jarring perhaps
+gives a good idea of how much I have internalized).
+
+It is possible to detect each cause of editing slowness and add some speedup
+each time, but the writing of mappings, plugins, or of researching them *itself
+takes a lot of time*.
+The plugins could have strange bugs in them that could screw me up down the
+line (in some unforeseen way), which is rarer for the "core program".
+I've found it difficult to anticipate in advance what kinds of configuration
+saves me time in the long run, which ones I decide to stick to, and which ones
+I end up *forgetting*.
+
+Software configuration is also incredibly fragile.
 
 # External links
 
