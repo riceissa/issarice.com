@@ -111,6 +111,9 @@ The mental experience is also a little different, because I have to deal with
 idiosyncrasies of the configuration API provided by the particular software in
 question.
 
+TODO talk about "configuration bankruptcy"; I've encountered the concept most
+frequently as ".emacs bankruptcy".
+
 More generic software rant: I encounter *a lot* of small software-related
 nuisances in my daily life.
 And, having learned how to program, I know that, theoretically, I could spend
