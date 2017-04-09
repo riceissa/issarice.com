@@ -69,6 +69,17 @@ saves me time in the long run, which ones I decide to stick to, and which ones
 I end up *forgetting*.
 
 Software configuration is also incredibly fragile.
+Some examples:
+
+- I wrote a series of mappings in Vim to make copy-pasting easier.
+  Unfortunately, the particular way in which I was calling Vim script functions
+  [caused older versions of Vim to crash](https://github.com/riceissa/vim-cuaccp/blob/595787e9e9a0ee68143fedb4124fedb663f7d1d1/plugin/cuaccp.vim#L17-L24).
+  I didn't track the time it took to trace the cause and fix my mappings, but
+  it was probably a few hours.
+  <!-- rewrite: Was spending these few hours in frustration to make copy-pasting using this
+  mapping not crash Vim so that I would save time each time I copy-pasted
+  something in older versions of Vim and save myself from minor frustration
+  each time I copy-pasted worth it? -->
 
 # External links
 
