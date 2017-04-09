@@ -98,6 +98,19 @@ Some examples:
   mood) problems one runs into in trying to make one's working environment
   portable.
 
+More generic software rant: I encounter *a lot* of small software-related
+nuisances in my daily life.
+And, having learned how to program, I know that, theoretically, I could spend
+time digging into each problem, contacting the software author or whatever
+(most of the software I use is free software and actively maintained, so this
+is possible), filing a bug report or working to trace the error/fix it.
+But would I do that for such a small nuisance?
+For any *particular* nuisance, it seems like the total amount of time lost from
+it is less than the expected time it would take for me to fix the problem.
+So in the long run, the problems that get fixed are the serious flaws, or the
+ones that are fun to fix, or that seem easy to fix, and so on, and I'm left
+with generally good software that just doesn't work *quite* right.
+
 # External links
 
   * [How to Efficiently Work Offline](http://www.wikihow.com/Efficiently-Work-Offline) by Vipul Naik
