@@ -114,6 +114,8 @@ Note that the version I have access to lacks figures and tables (there are
 placeholders marking their locations, but not the figures and tables
 themselves).
 
+Page 21:
+
 > The data for the Transparency Index comes from two main sources:
 >
 > - The Development Assistance Committee's Credit or Reporting System's
@@ -123,6 +125,14 @@ themselves).
 >   March 2010 (Tierney *et al.*, 2011).
 >   AidData aims to capture the universe of foreign aid at the project level.
 >   It is currently the most comprehensive source of ODA project information.
+
+Page 26:
+
+> Donors who are members of the IATI score higher on other dimensions of
+> transparency as well. Indeed, 13 of the top 15 most transparent donors
+> are also members of the IATI. We find that being a member of IATI is a
+> powerful predictor of the donor being more transparent across most of
+> the other dimensions.
 
 Other sources to look at for funding info:
 
