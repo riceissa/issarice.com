@@ -107,6 +107,23 @@ More IHME links:
 - [Viz Hub](https://vizhub.healthdata.org/fgh/), which has a flow diagram that
   you can interact with (e.g. filter only for malaria funding)
 
+Some quotes from ["The Money Trail: Ranking Donor Transparency in Foreign
+Aid"](https://pedl.byu.edu/documents/The%20Money%20Trail.pdf) by Ghosh and
+Kharas.
+Note that the version I have access to lacks figures and tables (there are
+placeholders marking their locations, but not the figures and tables
+themselves).
+
+> The data for the Transparency Index comes from two main sources:
+>
+> - The Development Assistance Committee's Credit or Reporting System's
+>   (CRS) database, with details on each aid activity available from
+>   1973 onwards.
+> - AidData -- AidData is a data source for aid activities launched in
+>   March 2010 (Tierney *et al.*, 2011).
+>   AidData aims to capture the universe of foreign aid at the project level.
+>   It is currently the most comprehensive source of ODA project information.
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
