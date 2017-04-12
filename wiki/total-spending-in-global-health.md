@@ -100,6 +100,14 @@ The paper also includes numerous interesting figures.
 
 More IHME links:
 
+- ["Financing Global Health 2015: Development assistance steady on the path to
+  new Global
+  Goals"](http://www.healthdata.org/policy-report/financing-global-health-2015-development-assistance-steady-path-new-global-goals).
+  This one comes with several PDFs and a bunch of spreadsheets.
+  There is some overlap in the authors (with [*The Lancet*
+  paper](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2816%2930168-4/abstract))
+  and the publication date is similar.
+  However I cannot tell what precise relationship the two works have.
 - [Financing Global Health 2015
   Brief](http://www.healthdata.org/infographic/financing-global-health-2015-brief)
 - [Growth in maternal and child health funding outpaces spending on HIV, TB,
