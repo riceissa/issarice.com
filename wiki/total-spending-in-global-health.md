@@ -21,9 +21,8 @@ to "Financing Global Health 2015: Development assistance steady on the path to
 new Global Goals" for the full list.
 For 2015, this tracks around $40 billion in development assistance for health
 (DAH).
-
-The reports and papers from IHME provide commentary as well as pre-computed
-visualizations.
+Refer to the reports and papers for commentary and pre-computed visualizations,
+or to [Viz Hub](https://vizhub.healthdata.org/fgh/) for an interactive web app.
 
 For ... see IATI or ... .
 
