@@ -5,6 +5,10 @@ date: 2017-04-07
 created: 2016-08-25
 ---
 
+# Summary
+
+# Notes
+
 From [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/50534721/en):
 
 > The subject of health expenditure is in itself a challenging topic. No exact
