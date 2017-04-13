@@ -7,8 +7,9 @@ created: 2016-08-25
 
 # Summary
 
-For a nice overview of the overall flow of health aid money, see the work out
-of IHME, which uses data from numerous sources including
+For a nice overview of the overall flow of health aid money,
+see the work out of the Institute for Health Metrics and Evaluation (IHME),
+which uses data from numerous sources including
 [Development Assistance Committee](https://en.wikipedia.org/wiki/Development_Assistance_Committee)
 and [Common Reporting Standard](https://en.wikipedia.org/wiki/Common_Reporting_Standard)
 databases;
