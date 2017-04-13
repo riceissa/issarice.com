@@ -167,6 +167,8 @@ Other sources to look at for funding info:
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * [List of development aid country donors](https://en.wikipedia.org/wiki/List_of_development_aid_country_donors)
   * [List of countries by Official Development Assistance received](https://en.wikipedia.org/wiki/List_of_countries_by_Official_Development_Assistance_received)
+  * [Development Assistance Committee](https://en.wikipedia.org/wiki/Development_Assistance_Committee)
+  * [Common Reporting Standard](https://en.wikipedia.org/wiki/Common_Reporting_Standard)
   * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
       * From their [fact sheet](http://www.gatesfoundation.org/Who-We-Are/General-Information/Foundation-Factsheet):
 
