@@ -209,6 +209,9 @@ Other sources to look at for funding info:
   * Aidflows:
     [website](http://www.aidflows.org/),
     [on World Bank website](http://data.worldbank.org/data-catalog/aidflows)
+  * [World Bank](http://data.worldbank.org/)
+  * [UN](http://data.un.org/)
+  * [Gapminder](http://www.gapminder.org/data/)
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * [List of development aid country donors](https://en.wikipedia.org/wiki/List_of_development_aid_country_donors)
   * [List of countries by Official Development Assistance received](https://en.wikipedia.org/wiki/List_of_countries_by_Official_Development_Assistance_received)
