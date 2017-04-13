@@ -26,7 +26,27 @@ or to [Viz Hub](https://vizhub.healthdata.org/fgh/) for an interactive web app.
 
 For ... see IATI or ... .
 
-Blind spots, interpretive cautions.
+## Blind spots, interpretive cautions
+
+The funding reports from IHME track the time period 1990--present.
+Funding data from specific foundations tend to begin sometime in the first
+decade of the 2000s or the 2010s.
+
+At this point I don't really know which donors, cause areas, and recipients
+might be missing; this is the sort of thing that becomes obvious when one tries
+to do something with the data that involves knowing the data about some org or
+cause area.
+
+As far as I can tell, IHME's analysis does not use data from IATI.
+I cannot tell whether this is because it obtained the same sort of data from
+other sources,
+didn't have time to assess the quality of IATI's data,
+or somehow didn't like IATI (I'm assuming they have heard of it).
+
+IATI data are published in a timely manner as far as I can tell (it depends on
+the publisher org, so the time lag cannot be stated in a concise way).
+IHME's reports are published every two years or so, along with their other GBD
+work.
 
 # Notes
 
