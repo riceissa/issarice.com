@@ -7,6 +7,12 @@ created: 2016-08-25
 
 # Summary
 
+For ... see IHME, which uses data from ... .
+
+For ... see IATI or ... .
+
+Blind spots, interpretive cautions.
+
 # Notes
 
 From [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/50534721/en):
@@ -159,6 +165,12 @@ Page 26:
 > are also members of the IATI. We find that being a member of IATI is a
 > powerful predictor of the donor being more transparent across most of
 > the other dimensions.
+
+"IATI totals for donors tend to be much smaller than apparently-equivalent
+figures reported through OECD's system. This is largely because many donors are
+not reporting all of their activities in the IATI system, or not reporting them
+fully."
+<http://roadto2015.org/aidopener>
 
 Other sources to look at for funding info:
 
