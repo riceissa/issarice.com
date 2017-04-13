@@ -8,7 +8,7 @@ created: 2016-08-25
 # Summary
 
 For ... see IHME, which uses data from ... .
-For 2015, this tracks $40 billion in DAH.
+For 2015, this tracks $40 billion in development assistance for health (DAH).
 
 The reports and papers from IHME provide commentary as well as pre-computed
 visualizations.
