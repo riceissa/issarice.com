@@ -7,8 +7,20 @@ created: 2016-08-25
 
 # Summary
 
-For ... see IHME, which uses data from ... .
-For 2015, this tracks $40 billion in development assistance for health (DAH).
+For a nice overview of the overall flow of health aid money, see the work out
+of IHME, which uses data from numerous sources including
+[Development Assistance Committee](https://en.wikipedia.org/wiki/Development_Assistance_Committee)
+and [Common Reporting Standard](https://en.wikipedia.org/wiki/Common_Reporting_Standard)
+databases;
+data from the WHO, World Bank, and Gates Foundation;
+and national aid data.
+See [supplement](https://jamanetwork.com/data/Journals/JAMA/934139/JSC150003supp1_prod.pdf)
+to "Sources and Focus of Health Development Assistance, 1990--2014" and
+[annex](http://www.healthdata.org/sites/default/files/files/policy_report/2016/FGH2015/IHME_fgh2015_methods_annex.pdf)
+to "Financing Global Health 2015: Development assistance steady on the path to
+new Global Goals" for the full list.
+For 2015, this tracks around $40 billion in development assistance for health
+(DAH).
 
 The reports and papers from IHME provide commentary as well as pre-computed
 visualizations.
@@ -217,8 +229,6 @@ Other sources to look at for funding info:
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * [List of development aid country donors](https://en.wikipedia.org/wiki/List_of_development_aid_country_donors)
   * [List of countries by Official Development Assistance received](https://en.wikipedia.org/wiki/List_of_countries_by_Official_Development_Assistance_received)
-  * [Development Assistance Committee](https://en.wikipedia.org/wiki/Development_Assistance_Committee)
-  * [Common Reporting Standard](https://en.wikipedia.org/wiki/Common_Reporting_Standard)
   * lol: [Commitment to Development Index § History of the
     CDI](https://en.wikipedia.org/wiki/Commitment_to_Development_Index#History_of_the_CDI):
     "David Roodman, Senior Fellow at the Center for Global Development, is the
