@@ -157,6 +157,9 @@ But it's not clear to me what exactly is included.
 For instance, if one LMIC spends on a health program in a different LMIC, does
 that count?
 If an LMIC moves up from middle income to upper income, what happens?
+Note that the above chapter also splits DAH into DAH-G and DAH-NG depending on
+the *target* of the aid; DAH-G means DAH given to governments and DAH-NG means
+DAH given to non-governmental entities.
 
 More IHME links:
 
