@@ -24,7 +24,10 @@ For 2015, this tracks around $40 billion in development assistance for health
 Refer to the reports and papers for commentary and pre-computed visualizations,
 or to [Viz Hub](https://vizhub.healthdata.org/fgh/) for an interactive web app.
 
-For ... see IATI or ... .
+For specific project-level information, see the [IATI Registry](https://iatiregistry.org/),
+which keeps track of submissions that use the IATI format.
+My impression is that some of the sources used by IHME's work also contain
+project-level information, but I haven't investigated this.
 
 ## Blind spots, interpretive cautions
 
