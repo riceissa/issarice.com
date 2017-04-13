@@ -130,6 +130,12 @@ Note that the version I have access to lacks figures and tables (there are
 placeholders marking their locations, but not the figures and tables
 themselves).
 
+Page 17:
+
+> Also, variables like disbursements cannot be accurately matched with
+> commitments, so it is hard to know if projects are actually
+> implemented.
+
 Page 21:
 
 > The data for the Transparency Index comes from two main sources:
