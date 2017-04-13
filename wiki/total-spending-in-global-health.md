@@ -98,6 +98,14 @@ Page 5, § Results:
 
 The paper also includes numerous interesting figures.
 
+["Government health expenditure as a source"](http://www.healthdata.org/sites/default/files/files/policy_report/2014/FGH2013/IHME_FGH2013_Chapter5.pdf):
+In addition to DAH, IHME also tracks GHE-S (government health expenditure as a
+source) aka the amount that low and middle income countries spend on health.
+But it's not clear to me what exactly is included.
+For instance, if one LMIC spends on a health program in a different LMIC, does
+that count?
+If an LMIC moves up from middle income to upper income, what happens?
+
 More IHME links:
 
 - ["Financing Global Health 2015: Development assistance steady on the path to
