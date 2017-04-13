@@ -169,6 +169,10 @@ Other sources to look at for funding info:
   * [List of countries by Official Development Assistance received](https://en.wikipedia.org/wiki/List_of_countries_by_Official_Development_Assistance_received)
   * [Development Assistance Committee](https://en.wikipedia.org/wiki/Development_Assistance_Committee)
   * [Common Reporting Standard](https://en.wikipedia.org/wiki/Common_Reporting_Standard)
+  * lol: [Commitment to Development Index § History of the
+    CDI](https://en.wikipedia.org/wiki/Commitment_to_Development_Index#History_of_the_CDI):
+    "David Roodman, Senior Fellow at the Center for Global Development, is the
+    chief architect of the Index"
   * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
       * From their [fact sheet](http://www.gatesfoundation.org/Who-We-Are/General-Information/Foundation-Factsheet):
 
