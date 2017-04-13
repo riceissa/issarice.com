@@ -42,8 +42,8 @@ From [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetF
 
 From [another WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/51106551/en) (page 2):
 
-> In 2011, US$ 6.9 trillion was spent on health. [... by whom? The "Key facts"
-> section doesn't say]
+> In 2011, US$ 6.9 trillion was spent on health. \[By whom? The "Key facts"
+> section doesn't say\]
 
 Page 7 elaborates:
 
