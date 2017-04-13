@@ -168,6 +168,15 @@ Other sources to look at for funding info:
     > US$78 billion has been reported to IATI this year (2015 disbursements and
     > expenditure up to 30 October 2015)
 
+    Unfortunately, their reporting does not provide funding grouped by DAC
+    sectors (or similar), so it's not easy to separate out "development aid"
+    from "health aid".
+    The 2015 data from the [full report](http://www.aidtransparency.net/annualreport2015/downloads/IATI_Annual_Report_2015.pdf)
+    shows that only 53% of publishers report DAC sectors (see figure 12).
+    It's unclear to me what *percentage* of reported funding has DAC sectors
+    attached.
+    It would be a lot of work to try to separate this out oneself.
+
   * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
   * [List of development aid country donors](https://en.wikipedia.org/wiki/List_of_development_aid_country_donors)
   * [List of countries by Official Development Assistance received](https://en.wikipedia.org/wiki/List_of_countries_by_Official_Development_Assistance_received)
