@@ -67,6 +67,9 @@ off, since health spending seems to change a lot in just a few years:
 > multilateral partners and foundations. This had increased to $15 in 2005, and
 > $21 in 2011. This represents an increase of 85% over the period.
 
+WHO also has its [own expenditures database
+thing](http://apps.who.int/nha/database/ViewData/Indicators/en).
+
 [Financing Global Health 2009: Tracking Development Assistance for Health](http://www.healthdata.org/node/854):
 
 > *Financing Global Health 2009* provides the most comprehensive picture
