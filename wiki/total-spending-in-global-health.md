@@ -253,6 +253,7 @@ Other sources to look at for funding info:
   * Aidflows:
     [website](http://www.aidflows.org/),
     [on World Bank website](http://data.worldbank.org/data-catalog/aidflows)
+  * [*The Guardian*'s student guide][student_guide]
   * [World Bank](http://data.worldbank.org/),
     [example: World Development Indicators:
     Health systems](http://wdi.worldbank.org/table/2.15)
@@ -308,3 +309,5 @@ Other sources to look at for funding info:
 # See also
 
 - [Global public health notes](wiki/global-public-health-notes.md)
+
+[student_guide]: https://www.theguardian.com/global-development/2011/sep/21/students-resources-guide-development-data "“Student guide to global development data on the web”. The Guardian. September 21, 2011. Retrieved April 14, 2017."
