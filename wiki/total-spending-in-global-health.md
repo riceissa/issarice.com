@@ -219,6 +219,12 @@ fully."
 
 See also <http://www.aidopener.org>.
 
+[AidData](https://en.wikipedia.org/wiki/AidData),
+used in "The Money Trail" paper (quoted on this page), also seems interesting.
+There are precursors called
+[Project-Level Aid Database](https://en.wikipedia.org/wiki/Project-Level_Aid_Database)
+and Accessible Information on Development Activities (no Wikipedia page).
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
