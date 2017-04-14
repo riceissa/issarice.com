@@ -253,7 +253,10 @@ Other sources to look at for funding info:
   * Aidflows:
     [website](http://www.aidflows.org/),
     [on World Bank website](http://data.worldbank.org/data-catalog/aidflows)
-  * [*The Guardian*'s student guide][student_guide]
+  * [*The Guardian*'s student guide][student_guide] links out to other sources.
+    It looks like *The Guardian* used to maintain their own
+    [data store](https://web.archive.org/web/20110727113737/http://www.guardian.co.uk/data/global-development-data/search)
+    with an API, but this doesn't seem to be live anymore.
   * [World Bank](http://data.worldbank.org/),
     [example: World Development Indicators:
     Health systems](http://wdi.worldbank.org/table/2.15)
