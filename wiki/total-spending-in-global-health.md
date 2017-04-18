@@ -225,6 +225,11 @@ There are precursors called
 [Project-Level Aid Database](https://en.wikipedia.org/wiki/Project-Level_Aid_Database)
 and Accessible Information on Development Activities (no Wikipedia page).
 
+[de Maele, Evans, and Tan-Torres (2013)][dah_story]
+provides a comparison of several health spending data sources.
+It includes graphs and a
+[comparison table](http://www.who.int/bulletin/volumes/91/7/BLT-12-115410-table-T3.html).
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
@@ -313,4 +318,5 @@ Other sources to look at for funding info:
 
 - [Global public health notes](wiki/global-public-health-notes.md)
 
+[dah_story]: http://www.who.int/bulletin/volumes/91/7/12-115410/en/ "“Development assistance for health in Africa: are we telling the right story?”. World Health Organization. 2013. Retrieved April 18, 2017."
 [student_guide]: https://www.theguardian.com/global-development/2011/sep/21/students-resources-guide-development-data "“Student guide to global development data on the web”. The Guardian. September 21, 2011. Retrieved April 14, 2017."
