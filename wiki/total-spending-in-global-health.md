@@ -230,6 +230,9 @@ provides a comparison of several health spending data sources.
 It includes graphs and a
 [comparison table](http://www.who.int/bulletin/volumes/91/7/BLT-12-115410-table-T3.html).
 
+[Chapter 13](http://dcp-3.org/sites/default/files/dcp2/DCP13.pdf)
+of DCP2 is on DAH.
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
