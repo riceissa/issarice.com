@@ -65,6 +65,32 @@ status: notes
         See also ["He Who Pays the Piper Must Know the
         Tune"](https://mason.gmu.edu/~rhanson/expert.pdf) by Robin Hanson.
 
+        Also interesting is the IQ gap reported in leader--follower
+        relationships.
+
+        From [*Handbook of Organizational and Managerial
+        Wisdom*][handbook_wisdom] (p 310):
+
+        > The modest relationship of leadership and intelligence may occur
+        > because it might not be intelligence per se that matters in
+        > leadership; instead, it might be the relative intelligence of leaders
+        > to their followers (Bass, 1990; Stogdill, 1948). Researchers have
+        > suggested that leaders can be most successful when they are slightly
+        > more intelligent, but not too much more intelligent, than their
+        > followers. As Gibb (1969) put it, "The evidence suggests that every
+        > increment of intelligence means wiser government, but that the crowd
+        > prefers to be ill-governed by people it can understand" (p. 218).
+        > This proposition was supported by Simonton (1985), who proposed
+        > a curvilinear relationship between intelligence and a person's
+        > influence over other group members (an indication of leadership),
+        > such that there would be a high correlation between the group mean IQ
+        > and the IQ of its most influential member, with a leader--follower IQ
+        > gap of between 8 and 20 points, depending on organizational level,
+        > and with smaller leader--follower gaps at more senior levels of an
+        > organization's hierarchy. Thus intelligence may set the stage for
+        > leadership, but many other factors are involved in successful
+        > leadership as well.
+
 - many more Quora questions about judging character (many by Alex):
 
     - [How to evaluate someone's ability to be an exceptional judge of character](https://www.quora.com/Judging-Character/How-do-you-evaluate-someones-ability-to-be-an-exceptional-judge-of-character)
@@ -120,3 +146,5 @@ Talking about senior hiring, they list some general principles:
     (So the general lesson here might be "do your homework" before trying to hire people.)
 
 - [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)
+
+[handbook_wisdom]: https://books.google.com/books?id=s5h2AwAAQBAJ&lpg=PA310&ots=aB_D0kMGsT&dq=IQ%20gap%20leader-follower%20relationship&pg=PA310#v=onepage&q=IQ%20gap%20leader-follower%20relationship&f=false "Eric H. Kessler and James R. Bailey. Handbook of Organizational and Managerial Wisdom. Sage Publications, Inc. 2007."
