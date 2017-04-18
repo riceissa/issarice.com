@@ -233,6 +233,10 @@ It includes graphs and a
 [Chapter 13](http://dcp-3.org/sites/default/files/dcp2/DCP13.pdf)
 of DCP2 is on DAH.
 
+For the United States specifically, IHME is also doing the
+[Disease Expenditure project (DEX)](http://www.healthdata.org/dex/project-strategy)
+which apparently it plans on also expanding to the rest of the world.
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
