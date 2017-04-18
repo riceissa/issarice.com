@@ -237,6 +237,11 @@ For the United States specifically, IHME is also doing the
 [Disease Expenditure project (DEX)](http://www.healthdata.org/dex/project-strategy)
 which apparently it plans on also expanding to the rest of the world.
 
+There is [another report](http://wvi.org/sites/default/files/Development%20Assistance%20for%20Health%202013.pdf)
+that tallies up DAH.
+I think the numbers are a little smaller here compared to the reports from
+IHME.
+
 Other sources to look at for funding info:
 
   * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
