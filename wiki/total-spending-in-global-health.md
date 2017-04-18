@@ -64,7 +64,8 @@ From [some WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetF
 > in the detail needed so estimations are still required. The GHED contains the
 > best available estimations/data of the variables to date.
 
-From [another WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/51106551/en) (page 2):
+From [another WHO report](http://apps.who.int/nha/database/DocumentationCentre/GetFile/51106551/en)
+(page 2):
 
 > In 2011, US$ 6.9 trillion was spent on health. \[By whom? The "Key facts"
 > section doesn't say\]
@@ -244,7 +245,8 @@ IHME.
 
 Other sources to look at for funding info:
 
-  * [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative) tracks some amount of international aid in a standard format.
+-   [IATI](https://en.wikipedia.org/wiki/International_Aid_Transparency_Initiative)
+    tracks some amount of international aid in a standard format.
     According to their [2015 annual report](http://www.aidtransparency.net/annualreport2015/#data):
 
     > US$78 billion has been reported to IATI this year (2015 disbursements and
@@ -267,32 +269,37 @@ Other sources to look at for funding info:
     [D-Portal](http://d-portal.org/ctrack.html?tongue=eng#view=publishers)
     (Development Portal) but it doesn't show totals.
 
-  * Aidflows:
+-   Aidflows:
     [website](http://www.aidflows.org/),
     [on World Bank website](http://data.worldbank.org/data-catalog/aidflows)
-  * [*The Guardian*'s student guide][student_guide] links out to other sources.
+-   [*The Guardian*'s student guide][student_guide] links out to other sources.
     It looks like *The Guardian* used to maintain their own
     [data store](https://web.archive.org/web/20110727113737/http://www.guardian.co.uk/data/global-development-data/search)
     with an API, but this doesn't seem to be live anymore.
-  * [World Bank](http://data.worldbank.org/),
+-   [World Bank](http://data.worldbank.org/),
     [example: World Development Indicators:
     Health systems](http://wdi.worldbank.org/table/2.15)
-  * [UN](http://data.un.org/)
-  * [Gapminder](http://www.gapminder.org/data/)
-  * Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita) uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
-  * [List of development aid country donors](https://en.wikipedia.org/wiki/List_of_development_aid_country_donors)
-  * [List of countries by Official Development Assistance received](https://en.wikipedia.org/wiki/List_of_countries_by_Official_Development_Assistance_received)
-  * lol: [Commitment to Development Index § History of the
+-   [UN](http://data.un.org/)
+-   [Gapminder](http://www.gapminder.org/data/)
+-   Wikipedia's [list of countries by total health expenditure per capita](https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita)
+    uses both OECD stats as well as WHO's GHED (but oddly, via the World Bank)
+-   [List of development aid country donors](https://en.wikipedia.org/wiki/List_of_development_aid_country_donors)
+-   [List of countries by Official Development Assistance received](https://en.wikipedia.org/wiki/List_of_countries_by_Official_Development_Assistance_received)
+-   lol: [Commitment to Development Index § History of the
     CDI](https://en.wikipedia.org/wiki/Commitment_to_Development_Index#History_of_the_CDI):
     "David Roodman, Senior Fellow at the Center for Global Development, is the
     chief architect of the Index"
-  * The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) that's a little lacking in some ways, but probably good enough to try to use
-      * From their [fact sheet](http://www.gatesfoundation.org/Who-We-Are/General-Information/Foundation-Factsheet):
+
+-   The Gates Foundation also has a [grants database](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database)
+    that's a little lacking in some ways, but probably good enough to try to use
+
+    -   From their [fact sheet](http://www.gatesfoundation.org/Who-We-Are/General-Information/Foundation-Factsheet):
 
         > Total grant payments since inception (through Q4 2015): $36.7 billion
 
-      * Some interesting things you can do with the grants database.
-        First, [narrow down to malaria](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database#q/issue=Malaria), then check "issue" again to see the overlap with other issues:
+    -   Some interesting things you can do with the grants database.
+        First, [narrow down to malaria](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database#q/issue=Malaria),
+        then check "issue" again to see the overlap with other issues:
 
         > Malaria (350) \
         > Discovery and Translational Sciences (14) \
@@ -323,8 +330,11 @@ Other sources to look at for funding info:
         > 2010 (31) \
         > 2009 and earlier (152)
 
-  * Individual annual reports put out by various orgs (which ones?)
-  * Private donations in the US: [Charity Navigator](http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/42) and [NPT](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/) give same numbers for 2015, namely $373 billion (but not all of this is health).
+-   Individual annual reports put out by various orgs (which ones?)
+-   Private donations in the US: [Charity Navigator](http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/42)
+    and [NPT](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/)
+    give same numbers for 2015, namely $373 billion (but not all of this is
+    health).
 
 # See also
 
