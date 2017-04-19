@@ -269,6 +269,9 @@ Other sources to look at for funding info:
     [D-Portal](http://d-portal.org/ctrack.html?tongue=eng#view=publishers)
     (Development Portal) but it doesn't show totals.
 
+-   A [page on University of North Carolina at Chapel Hill's
+    website](http://guides.lib.unc.edu/global_health_data)
+    links out to several resources.
 -   Aidflows:
     [website](http://www.aidflows.org/),
     [on World Bank website](http://data.worldbank.org/data-catalog/aidflows)
