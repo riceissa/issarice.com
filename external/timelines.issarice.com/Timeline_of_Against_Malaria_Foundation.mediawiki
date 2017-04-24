@@ -1,0 +1,27 @@
+This is a '''timeline of the Against Malaria Foundation'''.
+
+==Big picture==
+
+{| class="sortable wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details
+|-
+|}
+
+==See also==
+
+* [[Timeline of malaria]]
+
+==External links==
+
+* {{official website|https://www.againstmalaria.com/default.aspx}}
+
+==References==
+
+{{Reflist|30em}}
