@@ -12,6 +12,9 @@ This is a '''timeline of the Against Malaria Foundation'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2003 || {{dts|June 9}} || || The documentary "Being Terri" airs on British television. This documentary serves as the inspiration for "Swim For Terri", which would morph into the Against Malaria Foundation.<ref name="history_page">{{cite web |url=https://www.againstmalaria.com/History.aspx |publisher=The Against Malaria Foundation |title=History |accessdate=April 24, 2017}}</ref><ref>{{cite web |url=http://www.swimforterri.org/ |title=Swim for Terri |accessdate=April 24, 2017}}</ref>
+|-
+| 2003 || {{dts|December 6}} || || "Swim For Terri" takes place.<ref name="history_page" />
 |}
 
 ==See also==
