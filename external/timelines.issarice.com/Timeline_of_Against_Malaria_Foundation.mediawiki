@@ -18,9 +18,11 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2006 || {{dts|August 31}} || || The first Madness Against Malaria is announced. Madness Against Malaria is a fundraising tournament inspired by the basketball tournament [[wikipedia:March Madness]]. The competition is planned to last from September 2006 to February 2007.<ref>{{cite web |url=http://www.fightingmalaria.org/news/365.html |title=Madness Against Malaria |accessdate=April 24, 2017 |date=August 31, 2006 |first=Lance |last=Laifer |publisher=Africa Fighting Malaria}}</ref> AMF acts as an operating partner for the tournament and hosts the website.<ref>{{cite web |url=https://www.againstmalaria.com/Madness.aspx |publisher=The Against Malaria Foundation |title=Madness Against Malaria |accessdate=April 24, 2017}}</ref>
 |-
+| 2009 || {{dts|April 28}} || || Possibly the first phone conversation between AMF and GiveWell is from this day.<ref name="givewell_2010_amf_review" />
+|-
 | 2009 || {{dts|May 7}} || || The AgainstMalaria Twitter account is created.<ref>{{cite web |url=https://twitter.com/againstmalaria?lang=en |accessdate=April 24, 2017 |publisher=Twitter |title=Against Malaria (@AgainstMalaria)}}</ref>
 |-
-| 2010 || || || GiveWell publishes its first review of AMF, ranking it a "Silver Medal organization".<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2010-review |title=Against Malaria Foundation (AMF) - 2010 Review |publisher=[[wikipedia:GiveWell]] |accessdate=April 24, 2017 |year=2010}}</ref>
+| 2010 || || || GiveWell publishes its first review of AMF, ranking it a "Silver Medal organization".<ref name="givewell_2010_amf_review">{{cite web |url=http://www.givewell.org/charities/AMF/2010-review |title=Against Malaria Foundation (AMF) - 2010 Review |publisher=[[wikipedia:GiveWell]] |accessdate=April 24, 2017 |year=2010}}</ref>
 |-
 | 2012 || {{dts|December}} || || AMF receives a $1.25 million grant from Good Ventures.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-health-and-development/miscellaneous/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Open Philanthropy Project |accessdate=April 24, 2017}}</ref>
 |-
