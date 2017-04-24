@@ -26,6 +26,8 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2010 || || || GiveWell publishes its first review of AMF, ranking it a "Silver Medal organization".<ref name="givewell_2010_amf_review">{{cite web |url=http://www.givewell.org/charities/AMF/2010-review |title=Against Malaria Foundation (AMF) - 2010 Review |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 24, 2017 |year=2010}}</ref>
 |-
+| 2011 || {{dts|December}} || || Good Ventures awards a grant of $500,000 to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support-december-2011 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
+|-
 | 2012 || {{dts|December}} || || AMF receives a $1.25 million grant from Good Ventures.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-health-and-development/miscellaneous/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Open Philanthropy Project |accessdate=April 24, 2017}}</ref>
 |-
 | 2013 || {{dts|November 26}} || || [[wikipedia:Holden Karnofsky|Holden Karnofsky]] publishes a post on the [[wikipedia:GiveWell|GiveWell]] blog saying that GiveWell plans not to recommend more donations to AMF due to room-for-more-funding issues.<ref>{{cite web |url=http://blog.givewell.org/2013/11/26/change-in-against-malaria-foundation-recommendation-status-room-for-more-funding-related/ |title=Change in Against Malaria Foundation recommendation status (room-for-more-funding-related) |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=February 22, 2016 |accessdate=April 24, 2017 |first=Holden |last=Karnofsky}}</ref>
