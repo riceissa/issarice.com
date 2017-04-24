@@ -53,3 +53,30 @@ version is rather limited because it cannot access a full terminal emulator
 the terminal, and so on, so the caveats of terminal Emacs do not apply).
 
 I consider myself an Emacs novice.
+
+# Org mode routine
+
+The following is how I usually use Org mode.
+Since I don't know many of the more complicated features of Org mode,
+I tend to stick to the basics.
+
+-   Several times each day, I do `C-c a a` to open the agenda split window.
+    I then use `n` and `p` to move between tasks, and usually hit `TAB` to
+    open the task in another split.
+    From there, I can edit or reschedule (`C-c C-s`) or mark the task as
+    done (`C-c C-t d`).
+    After marking as done I archive with `C-c C-x C-a`.
+
+-   I create new tasks with `C-c t`.
+
+-   I also use Org mode for clocking tasks as I work.
+    I move to the item being clocked with `C-c C-x C-j`.
+    To clock in, I use `C-c C-x C-i` and to clock out
+    I use `C-c C-x C-o`.
+
+-   I have a clock with `:block today` that shows the time tracked for
+    the current day.
+    I update this clock with `C-c C-c`.
+
+-   The whole file is tracked in [Git]().
+    I have a mapping to quickly snapshot the current state of the file.
