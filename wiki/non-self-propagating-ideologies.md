@@ -13,6 +13,13 @@ in the idea being spread less, so that there is a negative feedback loop.
 This is mainly because these values go against goals that show up in
 [instrumental convergence](https://en.wikipedia.org/wiki/Instrumental_convergence).
 
+For instance, a person whose values are against resource acquisition will have
+a difficult time trying to spread this value to others, because spreading the
+value involves acquiring more resources in order to gain converts and so forth.
+This person would have to -- going against their values -- gain more resources
+first, and then somehow use those resources to spread their value of not
+gaining more resources.
+
 As [Brian Tomasik notes](http://reducing-suffering.org/strategic-considerations-moral-antinatalists/#Will_voluntary_antinatalism_work)
 for antinatalism:
 
