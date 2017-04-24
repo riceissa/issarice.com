@@ -29,3 +29,10 @@ for antinatalism:
 > even if 99% of the human population were somehow convinced of antinatalism,
 > the other 1% would continue reproducing and would spread its genes and
 > worldview to the next generation.
+
+Another example of this, I think, is when people oppose various dominant
+institutions of the world.
+For instance, one might oppose the publish-or-perish mentality in academia, but
+in order to push one's values on the system, one might want to gain some amount
+of influence in academia first by publishing papers.
+(There are probably easier ways to act against this.)
