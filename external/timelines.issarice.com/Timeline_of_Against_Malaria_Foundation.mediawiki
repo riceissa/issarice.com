@@ -30,6 +30,8 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2009 || {{dts|May 7}} || || The AgainstMalaria Twitter account is created.<ref>{{cite web |url=https://twitter.com/againstmalaria?lang=en |accessdate=April 24, 2017 |publisher=Twitter |title=Against Malaria (@AgainstMalaria)}}</ref>
 |-
+| 2009 || {{dts|July 8}} || || AMF reaches 1 million mosquito nets (distributed or funded?).<ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=1-MILLION-nets-reached |publisher=The Against Malaria Foundation |title=1 MILLION nets reached |date=July 8, 2009 |first=Andrew |last=Garner |accessdate=April 24, 2017}}</ref>
+|-
 | 2010 || || || GiveWell publishes its first review of AMF, ranking it a "Silver Medal organization".<ref name="givewell_2010_amf_review">{{cite web |url=http://www.givewell.org/charities/AMF/2010-review |title=Against Malaria Foundation (AMF) - 2010 Review |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 24, 2017 |year=2010}}</ref>
 |-
 | 2011 || {{dts|December}} || || Good Ventures awards a grant of $500,000 to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support-december-2011 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref> Cari Tuna announces the grant in a guest post on the GiveWell blog.<ref>{{cite web |url=http://blog.givewell.org/2011/12/23/guest-post-from-cari-tuna/ |title=Guest post from Cari Tuna - The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=July 9, 2014 |accessdate=April 24, 2017 |first=Cari |last=Tuna}}</ref>
