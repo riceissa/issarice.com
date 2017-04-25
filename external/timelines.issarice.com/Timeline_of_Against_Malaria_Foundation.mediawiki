@@ -28,6 +28,8 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2007 || {{dts|May 18}} || || In the United Kingdom, AMF formally changes its name from "The World Swim for Malaria Foundation" to "The Against Malaria Foundation".<ref>{{cite web |url=https://www.againstmalaria.com/downloads/AMF_Charity_UK_ChangeOfNameCertificate.pdf |title=Certificate of Incorporation on Change of Name |accessdate=April 24, 2017}}</ref>
 |-
+| 2008 || {{dts|January 25}} || || The AMF YouTube account is created. AMF would use this account to upload bednet distribution videos and other informational videos.<ref>{{cite web |url=https://www.youtube.com/user/AgainstMalaria/about |title=AgainstMalaria |publisher=YouTube |accessdate=April 25, 2017}}</ref>
+|-
 | 2009 || {{dts|April 28}} || || Possibly the first phone conversation between AMF and GiveWell is from this day.<ref name="givewell_2010_amf_review" />
 |-
 | 2009 || {{dts|May 7}} || || The AgainstMalaria Twitter account is created.<ref>{{cite web |url=https://twitter.com/againstmalaria?lang=en |accessdate=April 24, 2017 |publisher=Twitter |title=Against Malaria (@AgainstMalaria)}}</ref>
