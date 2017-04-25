@@ -84,6 +84,8 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2008 || {{dts|January 25}} || || The AMF YouTube account is created. AMF would use this account to upload bednet distribution videos and other informational videos.<ref>{{cite web |url=https://www.youtube.com/user/AgainstMalaria/about |title=AgainstMalaria |publisher=YouTube |accessdate=April 25, 2017}}</ref>
 |-
+| 2008 || {{dts|January}} || || The first net distributions in Togo take place in Danyi N'Digbe.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=86 |publisher=The Against Malaria Foundation |title=Danyi N'Digbe, Togo |accessdate=April 25, 2017}}</ref>
+|-
 | 2008 || {{dts|February}} || || The first net distributions in Nigeria take place in Benin City.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=83 |publisher=The Against Malaria Foundation |title=Benin City, Nigeria |accessdate=April 25, 2017}}</ref>
 |-
 | 2008 || {{dts|June}} || || The first net distributions in India take place in Tamil Nadu.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=84 |publisher=The Against Malaria Foundation |title=Kanyakumari, Tamil Nadu, India |accessdate=April 25, 2017}}</ref>
@@ -91,6 +93,10 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 | 2008 || {{dts|July}} || || The first net distributions in Mali take place in [[wikipedia:Bancoumana|Bancoumana]].<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=93 |publisher=The Against Malaria Foundation |title=Bancomana, Mali |accessdate=April 25, 2017}}</ref>
 |-
 | 2008 || {{dts|July}} || || The first net distributions in Burkina Faso take place in the Bousse Health District.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=92 |publisher=The Against Malaria Foundation |title=Bousse, Burkina Faso |accessdate=April 25, 2017}}</ref>
+|-
+| 2009 || {{dts|February}} || || The first net distributions in Gabon take place in Libreville.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=137 |publisher=The Against Malaria Foundation |title=Libreville, Gabon |accessdate=April 25, 2017}}</ref>
+|-
+| 2009 || {{dts|February}} || || The first net distributions in Peru take place in villages along the upper [[wikipedia:Marañón River|Marañón River]] and its tributaries.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=100 |publisher=The Against Malaria Foundation |title=Maracon, Peru |accessdate=April 25, 2017}}</ref>
 |-
 | 2009 || {{dts|April 28}} || || Possibly the first phone conversation between AMF and GiveWell is from this day.<ref name="givewell_2010_amf_review" />
 |-
