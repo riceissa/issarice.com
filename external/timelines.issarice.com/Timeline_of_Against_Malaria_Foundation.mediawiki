@@ -54,6 +54,8 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2007 || {{dts|February}} || || The first net distributions in Cambodia take place in the Siem Reap Province.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=46 |publisher=The Against Malaria Foundation |title=Siem Reap Province, Cambodia |accessdate=April 25, 2017}}</ref>
 |-
+| 2007 || {{dts|March}} || || The first net distributions in the Democratic Republic of Congo take place in Bukavu.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=49 |publisher=The Against Malaria Foundation |title=Bukavu, Congo (Dem. Rep.) |accessdate=April 25, 2017}}</ref>
+|-
 | 2007 || {{dts|April}} || || The first net distributions in Madagascar take place in Majunga.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=36 |publisher=The Against Malaria Foundation |title=Majunga, Madagascar |accessdate=April 25, 2017}}</ref>
 |-
 | 2007 || {{dts|April}} || || The first net distributions in Angola take place.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=12 |publisher=The Against Malaria Foundation |title=Angola, Angola |accessdate=April 25, 2017}}</ref>
@@ -72,7 +74,17 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2007 || {{dts|October}} || || The first net distributions in Haiti take place in various locations.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=34 |publisher=The Against Malaria Foundation |title=W, SE, C Plat,Nippes, Haiti |accessdate=April 25, 2017}}</ref>
 |-
+| 2007 || {{dts|October}} || || The first net distributions in Tanzania take place in the Bunda district.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=66 |publisher=The Against Malaria Foundation |title=Bunda district, Tanzania |accessdate=April 25, 2017}}</ref>
+|-
+| 2007 || {{dts|November}} || || The first net distributions in Nicaragua take place in the [[wikipedia:North Caribbean Coast Autonomous Region|North Caribbean Coast Autonomous Region]].<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=74 |publisher=The Against Malaria Foundation |title=RAAN, Nicaragua |accessdate=April 25, 2017}}</ref>
+|-
+| 2007 || {{dts|November}} || || The first net distributions in The Gambia take place in the Lower River Region, the North Bank Region, and the Central River District.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=65 |publisher=The Against Malaria Foundation |title=Lower River Region, Gambia |accessdate=April 25, 2017}}</ref><ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=56 |publisher=The Against Malaria Foundation |title=North Bank Region, Gambia |accessdate=April 25, 2017}}</ref><ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=50 |publisher=The Against Malaria Foundation |title=CRD, Sami, Gambia |accessdate=April 25, 2017}}</ref>
+|-
 | 2008 || {{dts|January 25}} || || The AMF YouTube account is created. AMF would use this account to upload bednet distribution videos and other informational videos.<ref>{{cite web |url=https://www.youtube.com/user/AgainstMalaria/about |title=AgainstMalaria |publisher=YouTube |accessdate=April 25, 2017}}</ref>
+|-
+| 2008 || {{dts|January}} || || The first net distributions in Liberia take place.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=70 |publisher=The Against Malaria Foundation |title=Margibi and others, Liberia |accessdate=April 25, 2017}}</ref>
+|-
+| 2008 || {{dts|February}} || || The first net distributions in Nigeria take place in Benin City.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=83 |publisher=The Against Malaria Foundation |title=Benin City, Nigeria |accessdate=April 25, 2017}}</ref>
 |-
 | 2009 || {{dts|April 28}} || || Possibly the first phone conversation between AMF and GiveWell is from this day.<ref name="givewell_2010_amf_review" />
 |-
