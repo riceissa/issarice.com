@@ -74,9 +74,9 @@ I tend to stick to the basics.
     To clock in, I use `C-c C-x C-i` and to clock out
     I use `C-c C-x C-o`.
 
--   I have a clock with `:block today` that shows the time tracked for
+-   I have a clock table with `:block today` that shows the time tracked for
     the current day.
-    I update this clock with `C-c C-c`.
+    I update this table with `C-c C-c`.
 
 -   The whole file is tracked in [Git]().
     I have a mapping to quickly snapshot the current state of the file.
