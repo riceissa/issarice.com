@@ -102,6 +102,10 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2009 || {{dts|May 7}} || || The AgainstMalaria Twitter account is created.<ref>{{cite web |url=https://twitter.com/againstmalaria?lang=en |accessdate=April 24, 2017 |publisher=Twitter |title=Against Malaria (@AgainstMalaria)}}</ref>
 |-
+| 2009 || {{dts|June}} || || The first net distributions in Sierra Leone take place in villages in the Malen chiefdom.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=125 |publisher=The Against Malaria Foundation |title=Malen, Pujehun, Sierra Leone |accessdate=April 25, 2017}}</ref>
+|-
+| 2009 || {{dts|June}} || || The first net distributions in Papua New Guinea take place in the Abau District.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=115 |publisher=The Against Malaria Foundation |title=Abau District, Papua New Guinea |accessdate=April 25, 2017}}</ref>
+|-
 | 2009 || {{dts|July 8}} || || AMF reaches 1 million mosquito nets (distributed or funded?).<ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=1-MILLION-nets-reached |publisher=The Against Malaria Foundation |title=1 MILLION nets reached |date=July 8, 2009 |first=Andrew |last=Garner |accessdate=April 24, 2017}}</ref>
 |-
 | 2010 || || || GiveWell publishes its first review of AMF, ranking it a "Silver Medal organization".<ref name="givewell_2010_amf_review">{{cite web |url=http://www.givewell.org/charities/AMF/2010-review |title=Against Malaria Foundation (AMF) - 2010 Review |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 24, 2017 |year=2010}}</ref>
