@@ -14,6 +14,23 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 
 ==Full timeline==
 
+<!--
+TODO:
+
+- what were rob mather and andrew garner doing before AMF? very little info of them anywhere.
+- when was the AMF malaria advisory group established?
+- add when TLYCS added AMF as a recommended charity.
+- add more GW top charity reports
+- each GW end-of-year recommendation
+- "changes to the distribution guidelines and post-distribution checkup rules" -- kinda hard to find exact dates around this, imo.
+- keep track of max nets distributed per distribution?
+- "inclusion in standard lists of match-eligible charities"
+- tax deductibility in Canada
+- "Charity Science started recommending AMF, which might be the time they launched,if they recommended and from the start"
+- tax deductibility event for another group of countries?
+- post-distribution checkup interval changes
+-->
+
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
