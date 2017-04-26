@@ -24,9 +24,15 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 |-
 | 2005 || {{dts|July 19}} || || AMF finishes raising its first $1000.<ref>{{cite web |url=https://www.againstmalaria.com/Milestones.aspx |publisher=The Against Malaria Foundation |title=Milestones |accessdate=April 24, 2017}}</ref>
 |-
+| 2005 || {{dts|October 18}} || || AMF passes the $10,000 mark in money raised since inception.<ref name="money_milestones" />
+|-
+| 2005 || {{dts|November 23}} || || AMF passes the $100,000 mark in money raised since inception.<ref name="money_milestones" />
+|-
 | 2005 || {{dts|December 3}} || || AMF launches World Swim Against Malaria.<ref name="old_about_page" />
 |-
 | 2005 || {{dts|December}} || || World Swim for Malaria is reported to have had over 250,000 swimmers and raised over $1 million by this time.<ref>{{cite web |url=http://www.malaria.org/mac/mac2006.html |title=MALARIA FOUNDATION INTERNATIONAL |accessdate=April 25, 2017 |year=2006}}</ref>
+|-
+| 2006 || {{dts|March 17}} || || AMF passes the $1 million mark in money raised since inception.<ref name="money_milestones" />
 |-
 | 2006 || {{dts|May}} || || The first net distributions due to AMF take place. These distributions are done by the Red Cross.<ref>{{cite web |url=https://www.againstmalaria.com/distributions.aspx |publisher=The Against Malaria Foundation |title=Distributions |accessdate=April 24, 2017}}</ref>
 |-
@@ -125,6 +131,8 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 | 2011 || {{dts|October 19}}–22 || || GiveWell visits Concern Universal (CU) in Malawi as part of its evaluation of AMF. CU is one of the bednet distributors AMF works with.<ref>{{cite web |url=http://www.givewell.org/research/site-visits/october-2011#AgainstMalariaFoundationConcernUniversal |title=Site Visits: October 2011 § Against Malaria Foundation/Concern Universal |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 25, 2017 |date=October 2011}}</ref>
 |-
 | 2011 || {{dts|December}} || || Good Ventures awards a grant of $500,000 to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support-december-2011 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref> Cari Tuna announces the grant in a guest post on the GiveWell blog.<ref>{{cite web |url=http://blog.givewell.org/2011/12/23/guest-post-from-cari-tuna/ |title=Guest post from Cari Tuna - The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=July 9, 2014 |accessdate=April 24, 2017 |first=Cari |last=Tuna}}</ref>
+|-
+| 2012 || {{dts|March 15}} || ||  AMF passes the $10 million mark in money raised since inception.<ref name="money_milestones">{{cite web |url=https://www.againstmalaria.com/Milestones.aspx |publisher=The Against Malaria Foundation |title=Milestones - Money raised |accessdate=April 26, 2017}}</ref>
 |-
 | 2012 || {{dts|June 29}} || || World Swim Against Malaria 2012 takes place.<ref name="swim_about_2011">{{cite web |archivedate=September 9, 2011 |archiveurl=https://web.archive.org/web/20110909053818/http://www.worldswimagainstmalaria.com/About.aspx |url=http://www.worldswimagainstmalaria.com/About.aspx |title=World Swim Against Malaria}}</ref>
 |-
