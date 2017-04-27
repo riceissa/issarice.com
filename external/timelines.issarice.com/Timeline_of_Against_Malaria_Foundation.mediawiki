@@ -26,7 +26,6 @@ TODO:
 - tax deductibility event for Switzerland through EAF; this page https://www.againstmalaria.com/CharityStatus.aspx does not list a date or documentation for this, so it is unclear when this happened.
 - when did it hire the two other people? and how many people does it have anyway?
 - the other occurrences of "madness against malaria". During which years did this happen? This tweet https://twitter.com/AgainstMalaria/status/16493837998 shows it happening in June 2010, in addition to the original late 2006 - early 2007.
-- "The Big Varsity Match 2017" fundraising event
 -->
 
 {| class="sortable wikitable"
@@ -233,6 +232,8 @@ TODO:
 | 2017 || {{dts|January 9}} || Money milestone || AMF passes the $100 million mark in money raised since inception.<ref>{{cite web |url=https://www.againstmalaria.com/newsitem.aspx?newsitem=US-100-million-milestone |publisher=The Against Malaria Foundation |title=US$100 million milestone! |accessdate=April 26, 2017 |first=Rob |last=Mather |date=January 9, 2017}}</ref>
 |-
 | 2017 || {{dts|January}} || Good Ventures grant || Good Ventures awards a grant of $15 million to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support2 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
+|-
+| 2017 || {{dts|February 23}}{{snd}}{{dts|March 8}} || || The Big Varsity Match 2017 fundraiser takes place. The fundraiser is structured as a competition between Giving What We Can: Oxford and Giving What We Can: Cambridge.<ref>{{cite web |url=https://www.againstmalaria.com/FundraiserGroup.aspx?FundraiserID=7305 |publisher=The Against Malaria Foundation |title=The Big Varsity Match 2017! |accessdate=April 27, 2017}}</ref>
 |}
 
 ==See also==
