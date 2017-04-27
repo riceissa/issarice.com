@@ -167,7 +167,7 @@ TODO:
 |-
 | 2012 || {{dts|September}} || || GiveWell publishes an update on AMF.<ref>{{cite web |url=http://www.givewell.org/charities/amf/September-2012 |title=Against Malaria Foundation - September 2012 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
-| 2012 || {{dts|November}} || || GiveWell publishes its 2012 review of AMF, in which AMF continues to be considered a top charity.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2012-review |title=Against Malaria Foundation (AMF) - 2012 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
+| 2012 || {{dts|November 26}} || || GiveWell publishes a blog post announcing its 2012 top charities, placing AMF as one of its three top charities.<ref>{{cite web |url=http://blog.givewell.org/2012/11/26/our-top-charities-for-the-2012-giving-season/ |title=Our top charities for the 2012 giving season |website=The GiveWell Blog |publisher=GiveWell |date=July 25, 2016 |accessdate=April 27, 2017}}</ref> GiveWell also publishes its 2012 review of AMF.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2012-review |title=Against Malaria Foundation (AMF) - 2012 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
 | 2012 || {{dts|December}} || || Good Ventures awards a grant of $1.25 million to AMF.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-health-and-development/miscellaneous/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Open Philanthropy Project |accessdate=April 24, 2017}}</ref>
 |-
