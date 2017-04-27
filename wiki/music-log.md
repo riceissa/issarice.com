@@ -231,6 +231,11 @@ The Pillows:
 * *Kid A* ("The National Anthem", "Morning Bell")
 * *Amnesiac*
 
+# April 2017
+
+* Slime Girls: *Vacation Wasteland* (fine the first few times, but
+  I quickly tired of it)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
