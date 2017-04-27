@@ -234,6 +234,8 @@ TODO:
 |-
 | 2017 || {{dts|January}} || Good Ventures grant || Good Ventures awards a grant of $15 million to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support2 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
 |-
+| 2017 || {{dts|February}} || || AMF posts job postings for two positions: IT Developer and Operations Manager.<ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=AMF-is-hiring-IT-Developer |publisher=The Against Malaria Foundation |title=AMF is hiring! IT Developer |first=Rob |last=Mather |date=February 20, 2017 |accessdate=April 27, 2017}}</ref><ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=AMF-is-hiring-Operations-Manager |publisher=The Against Malaria Foundation |title=AMF is hiring! Operations Manager |date=February 20, 2017 |first=Rob |last=Mather |accessdate=April 27, 2017}}</ref>
+|-
 | 2017 || {{dts|February 23}}{{snd}}{{dts|March 8}} || || The Big Varsity Match 2017 fundraiser takes place. The fundraiser is structured as a competition between Giving What We Can: Oxford and Giving What We Can: Cambridge.<ref>{{cite web |url=https://www.againstmalaria.com/FundraiserGroup.aspx?FundraiserID=7305 |publisher=The Against Malaria Foundation |title=The Big Varsity Match 2017! |accessdate=April 27, 2017}}</ref>
 |}
 
