@@ -155,6 +155,8 @@ TODO:
 |-
 | 2011 || {{dts|October 19}}–22 || || GiveWell visits Concern Universal (CU) in Malawi as part of its evaluation of AMF. CU is one of the bednet distributors AMF works with.<ref>{{cite web |url=http://www.givewell.org/research/site-visits/october-2011#AgainstMalariaFoundationConcernUniversal |title=Site Visits: October 2011 § Against Malaria Foundation/Concern Universal |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 25, 2017 |date=October 2011}}</ref>
 |-
+| 2011 || {{dts|November}} || || GiveWell publishes its 2011 review of AMF, in which AMF is considered one of the two top charities.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2011-review |title=Against Malaria Foundation (AMF) - 2011 Review=GiveWell |accessdate=April 27, 2017}}</ref>
+|-
 | 2011 || {{dts|December}} || || Good Ventures awards a grant of $500,000 to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support-december-2011 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref> Cari Tuna announces the grant in a guest post on the GiveWell blog.<ref>{{cite web |url=http://blog.givewell.org/2011/12/23/guest-post-from-cari-tuna/ |title=Guest post from Cari Tuna |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=July 9, 2014 |accessdate=April 24, 2017 |first=Cari |last=Tuna}}</ref>
 |-
 | 2012 || {{dts|March}} || || GiveWell publishes an update on AMF's activities.<ref>{{cite web |url=http://www.givewell.org/charities/amf/March-2012 |title=Against Malaria Foundation - March 2012 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
@@ -164,6 +166,8 @@ TODO:
 | 2012 || {{dts|June 29}} || || World Swim Against Malaria 2012 takes place.<ref name="swim_about_2011">{{cite web |archivedate=September 9, 2011 |archiveurl=https://web.archive.org/web/20110909053818/http://www.worldswimagainstmalaria.com/About.aspx |url=http://www.worldswimagainstmalaria.com/About.aspx |title=World Swim Against Malaria}}</ref>
 |-
 | 2012 || {{dts|September}} || || GiveWell publishes an update on AMF.<ref>{{cite web |url=http://www.givewell.org/charities/amf/September-2012 |title=Against Malaria Foundation - September 2012 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
+|-
+| 2012 || {{dts|November}} || || GiveWell publishes its 2012 review of AMF, in which AMF continues to be considered a top charity.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2012-review |title=Against Malaria Foundation (AMF) - 2012 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
 | 2012 || {{dts|December}} || || Good Ventures awards a grant of $1.25 million to AMF.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-health-and-development/miscellaneous/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Open Philanthropy Project |accessdate=April 24, 2017}}</ref>
 |-
