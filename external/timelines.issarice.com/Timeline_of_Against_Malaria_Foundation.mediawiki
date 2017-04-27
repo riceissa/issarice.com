@@ -24,7 +24,6 @@ TODO:
 - keep track of max nets distributed per distribution?
 - "inclusion in standard lists of match-eligible charities"
 - tax deductibility in Canada
-- "Charity Science started recommending AMF, which might be the time they launched,if they recommended and from the start"
 - tax deductibility event for another group of countries?
 - post-distribution checkup interval changes
 - when did it hire the two other people? and how many people does it have anyway?
@@ -174,6 +173,8 @@ TODO:
 | 2013 || {{dts|February}} || GiveWell update || GiveWell publishes an update on AMF.<ref>{{cite web |url=http://www.givewell.org/charities/amf/February-2013 |title=Against Malaria Foundation - February 2013 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
 | 2013 || {{dts|February 1}} || || Starting around this time, AMF begins paying for non-net costs using separate funds (i.e. money not received through public donations).<ref>{{cite web |url=https://www.againstmalaria.com/NonNetCostsExplained.aspx |publisher=The Against Malaria Foundation |title=Non-net costs: why we fund them in certain circumstances |accessdate=April 26, 2017 |date=February 1, 2013}}</ref>
+|-
+| 2013 || {{dts|May}}–{{dts|July}} || || Charity Science launches as Effective Fundraising<ref>{{cite web |url=http://www.charityscience.com/operations-details/keep-charity-science-running |publisher=Charity Science |title=Keep Charity Science running |accessdate=April 27, 2017 |date=January 26, 2015 |quote=Charity Science (previously Effective Fundraising) is an organization that conducts experiments in building awareness of and raising funds for the most scientifically based charities.}}</ref> around this time,<ref>{{cite web |url=http://www.effectivefundraising.net/1/post/2013/07/our-strategy.html |archivedate=July 31, 2013 |archiveurl=https://web.archive.org/web/20130731031323/http://www.effectivefundraising.net/1/post/2013/07/our-strategy.html |publisher=Effective Fundraising |title=Our Strategy |quote=Archives [&hellip;] May 2013 |date=July 19, 2013}}</ref> recommending AMF as its charity of choice in human rights.<ref>{{cite web |url=http://www.effectivefundraising.net:80/our-charity-choice.html |archivedate=July 31, 2013 |archiveurl=https://web.archive.org/web/20130731025636/http://www.effectivefundraising.net:80/our-charity-choice.html |publisher=Effective Fundraising |title=Our Charity Choice |quote=Our current choice in human rights is the Against Malaria Foundation. They are a top recommended charity by both Givewell and Giving What We Can and have a strong track record of doing large amounts of good.}}</ref>
 |-
 | 2013 || {{dts|November 26}} || || [[wikipedia:Holden Karnofsky|Holden Karnofsky]] publishes a post on the [[wikipedia:GiveWell|GiveWell]] blog saying that GiveWell plans not to recommend more donations to AMF due to room-for-more-funding issues.<ref>{{cite web |url=http://blog.givewell.org/2013/11/26/change-in-against-malaria-foundation-recommendation-status-room-for-more-funding-related/ |title=Change in Against Malaria Foundation recommendation status (room-for-more-funding-related) |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=February 22, 2016 |accessdate=April 24, 2017 |first=Holden |last=Karnofsky}}</ref>
 |-
