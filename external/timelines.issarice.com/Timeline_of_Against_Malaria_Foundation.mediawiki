@@ -157,7 +157,7 @@ TODO:
 |-
 | 2011 || {{dts|November}} || || GiveWell publishes its 2011 review of AMF, in which AMF is considered one of the two top charities.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2011-review |title=Against Malaria Foundation (AMF) - 2011 Review=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
-| 2011 || {{dts|December}} || || Good Ventures awards a grant of $500,000 to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support-december-2011 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref> Cari Tuna announces the grant in a guest post on the GiveWell blog.<ref>{{cite web |url=http://blog.givewell.org/2011/12/23/guest-post-from-cari-tuna/ |title=Guest post from Cari Tuna |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=July 9, 2014 |accessdate=April 24, 2017 |first=Cari |last=Tuna}}</ref>
+| 2011 || {{dts|December}} || Good Ventures grant || Good Ventures awards a grant of $500,000 to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support-december-2011 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref> Cari Tuna announces the grant in a guest post on the GiveWell blog.<ref>{{cite web |url=http://blog.givewell.org/2011/12/23/guest-post-from-cari-tuna/ |title=Guest post from Cari Tuna |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=July 9, 2014 |accessdate=April 24, 2017 |first=Cari |last=Tuna}}</ref>
 |-
 | 2012 || {{dts|March}} || || GiveWell publishes an update on AMF's activities.<ref>{{cite web |url=http://www.givewell.org/charities/amf/March-2012 |title=Against Malaria Foundation - March 2012 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
@@ -169,7 +169,7 @@ TODO:
 |-
 | 2012 || {{dts|November 26}} || || GiveWell publishes a blog post announcing its 2012 top charities, placing AMF as one of its three top charities.<ref>{{cite web |url=http://blog.givewell.org/2012/11/26/our-top-charities-for-the-2012-giving-season/ |title=Our top charities for the 2012 giving season |website=The GiveWell Blog |publisher=GiveWell |date=July 25, 2016 |accessdate=April 27, 2017}}</ref> GiveWell also publishes its 2012 review of AMF.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2012-review |title=Against Malaria Foundation (AMF) - 2012 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
-| 2012 || {{dts|December}} || || Good Ventures awards a grant of $1.25 million to AMF.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-health-and-development/miscellaneous/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Open Philanthropy Project |accessdate=April 24, 2017}}</ref>
+| 2012 || {{dts|December}} || Good Ventures grant || Good Ventures awards a grant of $1.25 million to AMF.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-health-and-development/miscellaneous/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Open Philanthropy Project |accessdate=April 24, 2017}}</ref>
 |-
 | 2013 || {{dts|February}} || || GiveWell publishes an update on AMF.<ref>{{cite web |url=http://www.givewell.org/charities/amf/February-2013 |title=Against Malaria Foundation - February 2013 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
@@ -189,7 +189,7 @@ TODO:
 |-
 | 2014 || {{dts|November}} || || GiveWell publishes its 2014 review of AMF, in which AMF is reinstated as a top charity.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2014-review |title=Against Malaria Foundation (AMF) - 2014 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
-| 2014 || {{dts|December}} || || Good Ventures awards a $5 million grant to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
+| 2014 || {{dts|December}} || Good Ventures grant || Good Ventures awards a $5 million grant to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
 |-
 | 2015 || {{dts|June 26}} || || World Swim Against Malaria 2015 is scheduled to take place on this day. However, the main sources mentioning the event are from 2013, so it's not clear whether the event actually took place.<ref>{{cite web |url=https://twitter.com/AgainstMalaria/status/397778507549270016 |quote=World Swim Against Malaria 2015. A million swimming. Please will you swim on 26th June 2015? #WorldSwim #Malaria |title=Against Malaria on Twitter |date=November 5, 2013 |publisher=Twitter}}</ref><ref>{{cite web |archiveurl=https://web.archive.org/web/20131109064330/http://www.againstmalaria.com:80/WorldSwim.aspx |archivedate=November 9, 2013 |url=http://www.againstmalaria.com:80/WorldSwim.aspx |title=World Swim Against Malaria |quote=The next big swim will be on 26 June 2015, but you can swim at anytime! |publisher=Against Malaria Foundation}}</ref>
 |-
@@ -203,7 +203,7 @@ TODO:
 |-
 | 2016 || {{dts|January}} || || GiveWell updates its November 2015 review of AMF.<ref name="gw_review_nov_2015_jan_2016" />
 |-
-| 2016 || {{dts|January}} || || Good Ventures awards a $22.8 million grant to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support1 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
+| 2016 || {{dts|January}} || Good Ventures grant || Good Ventures awards a $22.8 million grant to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support1 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
 |-
 | 2016 || {{dts|February 15}} || || Tax deductible donations to AMF become possible in Belgium, Bulgaria, Croatia, France, Hungary, Ireland, Luxembourg, Poland, Portugal, Romania, Slovakia, Slovenia and Spain. This is made possible through Transnational Giving Europe, a partnership of various European foundations that takes donations in one country and routes it to the destination country, taking a 5% cut in the process.<ref>{{cite web |url=https://www.againstmalaria.com/NewsItem.aspx?newsitem=Additional-countries-where-tax-deductible-donations-can-now-be-made-to-AMF |publisher=The Against Malaria Foundation |title=Additional countries where tax-deductible donations can now be made to AMF |date=February 15, 2016 |first=Rob |last=Mather |accessdate=April 26, 2017}}</ref><ref>{{cite web |url=https://giving.mit.edu/sites/default/files/documents/tge-fund-countries.pdf |accessdate=April 26, 2017 |title=About Transnational Giving Europe |publisher=Massachusetts Institute of Technology}}</ref>
 |-
@@ -219,7 +219,7 @@ TODO:
 |-
 | 2017 || {{dts|January 9}} || Money milestone || AMF passes the $100 million mark in money raised since inception.<ref>{{cite web |url=https://www.againstmalaria.com/newsitem.aspx?newsitem=US-100-million-milestone |publisher=The Against Malaria Foundation |title=US$100 million milestone! |accessdate=April 26, 2017 |first=Rob |last=Mather |date=January 9, 2017}}</ref>
 |-
-| 2017 || {{dts|January}} || || Good Ventures awards a grant of $15 million to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support2 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
+| 2017 || {{dts|January}} || Good Ventures grant || Good Ventures awards a grant of $15 million to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support2 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
 |}
 
 ==See also==
