@@ -171,9 +171,9 @@ TODO:
 |-
 | 2013 || {{dts|February 1}} || || Starting around this time, AMF begins paying for non-net costs using separate funds (i.e. money not received through public donations).<ref>{{cite web |url=https://www.againstmalaria.com/NonNetCostsExplained.aspx |publisher=The Against Malaria Foundation |title=Non-net costs: why we fund them in certain circumstances |accessdate=April 26, 2017 |date=February 1, 2013}}</ref>
 |-
-| 2013 || {{dts|November}} || || GiveWell publishes a new version of its review of AMF.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2013-review |title=Against Malaria Foundation (AMF) - 2013 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
-|-
 | 2013 || {{dts|November 26}} || || [[wikipedia:Holden Karnofsky|Holden Karnofsky]] publishes a post on the [[wikipedia:GiveWell|GiveWell]] blog saying that GiveWell plans not to recommend more donations to AMF due to room-for-more-funding issues.<ref>{{cite web |url=http://blog.givewell.org/2013/11/26/change-in-against-malaria-foundation-recommendation-status-room-for-more-funding-related/ |title=Change in Against Malaria Foundation recommendation status (room-for-more-funding-related) |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=February 22, 2016 |accessdate=April 24, 2017 |first=Holden |last=Karnofsky}}</ref>
+|-
+| 2013 || {{dts|November}} || || GiveWell publishes a new version of its review of AMF, in which AMF is removed from the list of top charities.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2013-review |title=Against Malaria Foundation (AMF) - 2013 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
 | 2013 || {{dts|December 2}} || || The mobile video game ''Nightmare: Malaria'' is released. The game is created by Psyop Games in partnership with AMF.<ref>{{cite web |url=http://nightmare.againstmalaria.com/press/sheet.php?p=nightmare |title=Psyop Games Presskit - Nightmare: Malaria |accessdate=April 24, 2017}}</ref>
 |-
