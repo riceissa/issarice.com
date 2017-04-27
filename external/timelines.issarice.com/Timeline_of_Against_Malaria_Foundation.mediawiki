@@ -114,7 +114,7 @@ TODO:
 |-
 | 2007 || {{dts|December}} || New country || The first net distributions in Liberia take place.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=75 |publisher=The Against Malaria Foundation |title=Maryland, Sinoe, Liberia |accessdate=April 25, 2017}}</ref>
 |-
-| 2008 || {{dts|January 25}} || || The AMF YouTube account is created. AMF would use this account to upload bednet distribution videos and other informational videos.<ref>{{cite web |url=https://www.youtube.com/user/AgainstMalaria/about |title=AgainstMalaria |publisher=YouTube |accessdate=April 25, 2017}}</ref>
+| 2008 || {{dts|January 25}} || Social media || The AMF YouTube account is created. AMF would use this account to upload bednet distribution videos and other informational videos.<ref>{{cite web |url=https://www.youtube.com/user/AgainstMalaria/about |title=AgainstMalaria |publisher=YouTube |accessdate=April 25, 2017}}</ref>
 |-
 | 2008 || {{dts|January}} || New country || The first net distributions in Togo take place in Danyi N'Digbe.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=86 |publisher=The Against Malaria Foundation |title=Danyi N'Digbe, Togo |accessdate=April 25, 2017}}</ref>
 |-
@@ -134,7 +134,7 @@ TODO:
 |-
 | 2009 || {{dts|April 28}} || || Possibly the first phone conversation between AMF and GiveWell is from this day.<ref name="givewell_2010_amf_review" />
 |-
-| 2009 || {{dts|May 7}} || || The AgainstMalaria Twitter account is created.<ref>{{cite web |url=https://twitter.com/againstmalaria?lang=en |accessdate=April 24, 2017 |publisher=Twitter |title=Against Malaria (@AgainstMalaria)}}</ref>
+| 2009 || {{dts|May 7}} || Social media || The AgainstMalaria Twitter account is created.<ref>{{cite web |url=https://twitter.com/againstmalaria?lang=en |accessdate=April 24, 2017 |publisher=Twitter |title=Against Malaria (@AgainstMalaria)}}</ref>
 |-
 | 2009 || {{dts|June}} || New country || The first net distributions in Sierra Leone take place in villages in the Malen chiefdom.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=125 |publisher=The Against Malaria Foundation |title=Malen, Pujehun, Sierra Leone |accessdate=April 25, 2017}}</ref>
 |-
@@ -144,7 +144,7 @@ TODO:
 |-
 | 2010 || || GiveWell review || GiveWell publishes its first review of AMF, ranking it a "Silver Medal organization".<ref name="givewell_2010_amf_review">{{cite web |url=http://www.givewell.org/charities/AMF/2010-review |title=Against Malaria Foundation (AMF) - 2010 Review |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 24, 2017 |year=2010}}</ref>
 |-
-| 2010 || {{dts|January 14}} || || AMF's first post to its Facebook page dates back to this day.<ref>{{cite web |url=https://www.facebook.com/AgainstMalaria/posts/250842325911 |date=January 14, 2010 |publisher=The Against Malaria Foundation |title=The immediate needs in Haiti are search and rescue teams and medical aid. |accessdate=April 27, 2017}}</ref><ref>{{cite web |url=https://www.facebook.com/pg/AgainstMalaria/posts/?ref=page_internal |title=The Against Malaria Foundation |accessdate=April 27, 2017 |publisher=The Against Malaria Foundation}}</ref>
+| 2010 || {{dts|January 14}} || Social media || AMF's first post to its Facebook page dates back to this day.<ref>{{cite web |url=https://www.facebook.com/AgainstMalaria/posts/250842325911 |date=January 14, 2010 |publisher=The Against Malaria Foundation |title=The immediate needs in Haiti are search and rescue teams and medical aid. |accessdate=April 27, 2017}}</ref><ref>{{cite web |url=https://www.facebook.com/pg/AgainstMalaria/posts/?ref=page_internal |title=The Against Malaria Foundation |accessdate=April 27, 2017 |publisher=The Against Malaria Foundation}}</ref>
 |-
 | 2010 || {{dts|March 30}} || || AMF is first recommended by Giving What We Can around this time.<ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=Giving-What-We-Can-Recomended-Charity |publisher=The Against Malaria Foundation |title=Giving What We Can - Recomended Charity |accessdate=April 24, 2017 |date=March 30, 2010 |first=Andrew |last=Garner}}</ref>
 |-
