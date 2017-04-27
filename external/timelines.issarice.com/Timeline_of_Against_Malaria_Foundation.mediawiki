@@ -152,6 +152,8 @@ TODO:
 |-
 | 2010 || {{dts|March 30}} || || AMF is first recommended by Giving What We Can around this time.<ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=Giving-What-We-Can-Recomended-Charity |publisher=The Against Malaria Foundation |title=Giving What We Can - Recomended Charity |accessdate=April 24, 2017 |date=March 30, 2010 |first=Andrew |last=Garner}}</ref>
 |-
+| 2010 || {{dts|June 17}} || || The Life You Can Save recommends AMF as far back as this date. It cites GiveWell's work.<ref>{{cite web |url=http://www.thelifeyoucansave.com/organizations |archivedate=June 17, 2010 |archiveurl=https://web.archive.org/web/20100617041418/http://www.thelifeyoucansave.com/organizations |title=Organizations to give to |publisher=The Life You Can Save}}</ref>
+|-
 | 2010 || {{dts|June 19}} || || Madness Against Malaria takes place again, with the tournament concluding around this time.<ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=Madness-Against-Malaria-is-reaching-an-exciting-conclusion |publisher=The Against Malaria Foundation |title=Madness Against Malaria is reaching an exciting conclusion |first=Andrew |last=Garner |accessdate=April 27, 2017}}</ref>
 |-
 | 2010 || {{dts|June 25}} || Swim || World Swim Against Malaria 2010 takes place.<ref name="swim_about_2011" />
