@@ -37,7 +37,7 @@ TODO:
 |-
 | 2003 || {{dts|June 9}} || || The documentary "Being Terri" airs on British television. This documentary serves as the inspiration for "Swim For Terri", which would morph into the Against Malaria Foundation.<ref name="history_page">{{cite web |url=https://www.againstmalaria.com/History.aspx |publisher=The Against Malaria Foundation |title=History |accessdate=April 24, 2017}}</ref><ref>{{cite web |url=http://www.swimforterri.org/ |title=Swim for Terri |accessdate=April 24, 2017}}</ref><ref>{{cite web |url=http://www.nytimes.com/2008/07/20/opinion/20kristof.html |date=July 20, 2008 |publisher=[[wikipedia:The New York Times|The New York Times]] |title=Opinion - Geezers Doing Good |author=Nicholas D. Kristof |accessdate=April 24, 2017 |quote=another general in the war on malaria is Rob Mather, a British management consultant who — thank heaven! — isn't very handy with a TV remote. Mr. Mather was trying to turn off his set in June 2003 when he accidentally flipped to another channel and was riveted by the image of a 5-year-old girl who was struggling to overcome severe burns all over her body.}}</ref>
 |-
-| 2003 || {{dts|December 6}} || || "Swim For Terri" takes place.<ref name="history_page" />
+| 2003 || {{dts|December 6}} || Swim || "Swim For Terri" takes place.<ref name="history_page" />
 |-
 | 2004 || {{dts|June 24}} || || AMF's Memorandum and Articles of Association (in the United Kingdom) dates to this day.<ref>{{cite web |url=https://www.againstmalaria.com/downloads/MemorandumOfAssociation.pdf |title=Memorandum and Articles of Association of the World Swim for Malaria Foundation |accessdate=April 24, 2017}}</ref>
 |-
@@ -51,7 +51,7 @@ TODO:
 |-
 | 2005 || {{dts|November 23}} || Money milestone || AMF passes the $100,000 mark in money raised since inception.<ref name="money_milestones" />
 |-
-| 2005 || {{dts|December 3}} || || AMF launches World Swim Against Malaria.<ref name="old_about_page" />
+| 2005 || {{dts|December 3}} || Swim || AMF launches World Swim Against Malaria.<ref name="old_about_page" />
 |-
 | 2005 || {{dts|December}} || || World Swim for Malaria is reported to have had over 250,000 swimmers and raised over $1 million by this time.<ref>{{cite web |url=http://www.malaria.org/mac/mac2006.html |title=MALARIA FOUNDATION INTERNATIONAL |accessdate=April 25, 2017 |year=2006}}</ref>
 |-
@@ -121,7 +121,7 @@ TODO:
 |-
 | 2008 || {{dts|February}} || New country || The first net distributions in Nigeria take place in Benin City.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=83 |publisher=The Against Malaria Foundation |title=Benin City, Nigeria |accessdate=April 25, 2017}}</ref>
 |-
-| 2008 || {{dts|April 5}} || || World Swim Against Malaria 2008 takes place.<ref>{{cite web |archivedate=February 22, 2009 |archiveurl=https://web.archive.org/web/20090222190848/http://www.worldswimagainstmalaria.com:80/About.aspx |title=World Swim Against Malaria |url=http://www.worldswimagainstmalaria.com:80/About.aspx}}</ref><ref>{{cite web |url=http://www.malariaconsortium.org/userfiles/file/News%20archive/opening_ceremony_of_the_2008_world_swim_against_malaria_uganda_friday_4th_april_2008.pdf |accessdate=April 25, 2017 |title=Opening Ceremony of the 2008 World Swim Against Malaria Uganda Friday 4th April 2008}}</ref>
+| 2008 || {{dts|April 5}} || Swim || World Swim Against Malaria 2008 takes place.<ref>{{cite web |archivedate=February 22, 2009 |archiveurl=https://web.archive.org/web/20090222190848/http://www.worldswimagainstmalaria.com:80/About.aspx |title=World Swim Against Malaria |url=http://www.worldswimagainstmalaria.com:80/About.aspx}}</ref><ref>{{cite web |url=http://www.malariaconsortium.org/userfiles/file/News%20archive/opening_ceremony_of_the_2008_world_swim_against_malaria_uganda_friday_4th_april_2008.pdf |accessdate=April 25, 2017 |title=Opening Ceremony of the 2008 World Swim Against Malaria Uganda Friday 4th April 2008}}</ref>
 |-
 | 2008 || {{dts|June}} || New country || The first net distributions in India take place in Tamil Nadu.<ref>{{cite web |url=https://www.againstmalaria.com/Distribution.aspx?ProposalID=84 |publisher=The Against Malaria Foundation |title=Kanyakumari, Tamil Nadu, India |accessdate=April 25, 2017}}</ref>
 |-
@@ -147,7 +147,7 @@ TODO:
 |-
 | 2010 || {{dts|March 30}} || || AMF is first recommended by Giving What We Can around this time.<ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=Giving-What-We-Can-Recomended-Charity |publisher=The Against Malaria Foundation |title=Giving What We Can - Recomended Charity |accessdate=April 24, 2017 |date=March 30, 2010 |first=Andrew |last=Garner}}</ref>
 |-
-| 2010 || {{dts|June 25}} || || World Swim Against Malaria 2010 takes place.<ref name="swim_about_2011" />
+| 2010 || {{dts|June 25}} || Swim || World Swim Against Malaria 2010 takes place.<ref name="swim_about_2011" />
 |-
 | 2010 || {{dts|November 30}} || || GiveWell ranks AMF third on its list of top international charities, and gives it a silver rating. AMF is also listed as the top malaria charity in its list of top charities by cause.<ref>{{cite web |url=http://www.givewell.org/charities/top-charities/2010 |title=Top-Rated Charities - 2010 Archived Version |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 24, 2017 |year=2010}}</ref><ref>{{cite web |url=https://www.againstmalaria.com/Newsitem.aspx?NewsItem=Top-five-charity-rating |publisher=The Against Malaria Foundation |title=Against Malaria: Top five charity rating |accessdate=April 24, 2017 |date=November 30, 2010}}</ref>
 |-
@@ -163,7 +163,7 @@ TODO:
 |-
 | 2012 || {{dts|March 15}} || Money milestone ||  AMF passes the $10 million mark in money raised since inception.<ref name="money_milestones">{{cite web |url=https://www.againstmalaria.com/Milestones.aspx |publisher=The Against Malaria Foundation |title=Milestones - Money raised |accessdate=April 26, 2017}}</ref>
 |-
-| 2012 || {{dts|June 29}} || || World Swim Against Malaria 2012 takes place.<ref name="swim_about_2011">{{cite web |archivedate=September 9, 2011 |archiveurl=https://web.archive.org/web/20110909053818/http://www.worldswimagainstmalaria.com/About.aspx |url=http://www.worldswimagainstmalaria.com/About.aspx |title=World Swim Against Malaria}}</ref>
+| 2012 || {{dts|June 29}} || Swim || World Swim Against Malaria 2012 takes place.<ref name="swim_about_2011">{{cite web |archivedate=September 9, 2011 |archiveurl=https://web.archive.org/web/20110909053818/http://www.worldswimagainstmalaria.com/About.aspx |url=http://www.worldswimagainstmalaria.com/About.aspx |title=World Swim Against Malaria}}</ref>
 |-
 | 2012 || {{dts|September}} || || GiveWell publishes an update on AMF.<ref>{{cite web |url=http://www.givewell.org/charities/amf/September-2012 |title=Against Malaria Foundation - September 2012 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
@@ -191,7 +191,7 @@ TODO:
 |-
 | 2014 || {{dts|December}} || Good Ventures grant || Good Ventures awards a $5 million grant to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
 |-
-| 2015 || {{dts|June 26}} || || World Swim Against Malaria 2015 is scheduled to take place on this day. However, the main sources mentioning the event are from 2013, so it's not clear whether the event actually took place.<ref>{{cite web |url=https://twitter.com/AgainstMalaria/status/397778507549270016 |quote=World Swim Against Malaria 2015. A million swimming. Please will you swim on 26th June 2015? #WorldSwim #Malaria |title=Against Malaria on Twitter |date=November 5, 2013 |publisher=Twitter}}</ref><ref>{{cite web |archiveurl=https://web.archive.org/web/20131109064330/http://www.againstmalaria.com:80/WorldSwim.aspx |archivedate=November 9, 2013 |url=http://www.againstmalaria.com:80/WorldSwim.aspx |title=World Swim Against Malaria |quote=The next big swim will be on 26 June 2015, but you can swim at anytime! |publisher=Against Malaria Foundation}}</ref>
+| 2015 || {{dts|June 26}} || Swim || World Swim Against Malaria 2015 is scheduled to take place on this day. However, the main sources mentioning the event are from 2013, so it's not clear whether the event actually took place.<ref>{{cite web |url=https://twitter.com/AgainstMalaria/status/397778507549270016 |quote=World Swim Against Malaria 2015. A million swimming. Please will you swim on 26th June 2015? #WorldSwim #Malaria |title=Against Malaria on Twitter |date=November 5, 2013 |publisher=Twitter}}</ref><ref>{{cite web |archiveurl=https://web.archive.org/web/20131109064330/http://www.againstmalaria.com:80/WorldSwim.aspx |archivedate=November 9, 2013 |url=http://www.againstmalaria.com:80/WorldSwim.aspx |title=World Swim Against Malaria |quote=The next big swim will be on 26 June 2015, but you can swim at anytime! |publisher=Against Malaria Foundation}}</ref>
 |-
 | 2015 || {{dts|July}} || || GiveWell publishes its "May 2015" update on AMF, continuing to recommend it.<ref>{{cite web |url=http://www.givewell.org/charities/amf/May-2015 |title=Against Malaria Foundation - May 2015 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
