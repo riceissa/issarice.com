@@ -5,6 +5,8 @@ created: 2017-04-27
 date: 2017-04-27
 ---
 
+This is a draft.
+
 This page describes a failed project.
 
 I late January 2017, unimpressed with the pace of content creation work,
