@@ -165,7 +165,7 @@ TODO:
 |-
 | 2011 || {{dts|November 8}} || Social media || AMF's first Google Plus post dates back to this day.<ref>{{cite web |url=https://plus.google.com/+Againstmalaria/posts/at1u9BVT15y |title=Every donation from every person counts as the total of $7,005,124 from 41,98... |accessdate=April 27, 2017 |date=November 8, 2011}}</ref>
 |-
-| 2011 || {{dts|November}} || GiveWell review || GiveWell publishes its 2011 review of AMF, in which AMF is considered one of the two top charities.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2011-review |title=Against Malaria Foundation (AMF) - 2011 Review=GiveWell |accessdate=April 27, 2017}}</ref>
+| 2011 || {{dts|November}} || GiveWell review || GiveWell publishes its 2011 review of AMF, in which AMF is considered one of the two top charities.<ref name="gw_nov_2011_review">{{cite web |url=http://www.givewell.org/charities/AMF/2011-review |title=Against Malaria Foundation (AMF) - 2011 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
 | 2011 || {{dts|December}} || Good Ventures grant || Good Ventures awards a grant of $500,000 to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support-december-2011 |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref> Cari Tuna announces the grant in a guest post on the GiveWell blog.<ref>{{cite web |url=http://blog.givewell.org/2011/12/23/guest-post-from-cari-tuna/ |title=Guest post from Cari Tuna |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=July 9, 2014 |accessdate=April 24, 2017 |first=Cari |last=Tuna}}</ref>
 |-
@@ -177,7 +177,7 @@ TODO:
 |-
 | 2012 || {{dts|September}} || GiveWell update || GiveWell publishes an update on AMF.<ref>{{cite web |url=http://www.givewell.org/charities/amf/September-2012 |title=Against Malaria Foundation - September 2012 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
-| 2012 || {{dts|November 26}} || GiveWell review || GiveWell publishes a blog post announcing its 2012 top charities, placing AMF as one of its three top charities.<ref>{{cite web |url=http://blog.givewell.org/2012/11/26/our-top-charities-for-the-2012-giving-season/ |title=Our top charities for the 2012 giving season |website=The GiveWell Blog |publisher=GiveWell |date=July 25, 2016 |accessdate=April 27, 2017}}</ref> GiveWell also publishes its 2012 review of AMF.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2012-review |title=Against Malaria Foundation (AMF) - 2012 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
+| 2012 || {{dts|November 26}} || GiveWell review || GiveWell publishes a blog post announcing its 2012 top charities, placing AMF as one of its three top charities.<ref>{{cite web |url=http://blog.givewell.org/2012/11/26/our-top-charities-for-the-2012-giving-season/ |title=Our top charities for the 2012 giving season |website=The GiveWell Blog |publisher=GiveWell |date=July 25, 2016 |accessdate=April 27, 2017}}</ref> GiveWell also publishes its 2012 review of AMF.<ref name="gw_nov_2012_review">{{cite web |url=http://www.givewell.org/charities/AMF/2012-review |title=Against Malaria Foundation (AMF) - 2012 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
 | 2012 || {{dts|December}} || Good Ventures grant || Good Ventures awards a grant of $1.25 million to AMF.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-health-and-development/miscellaneous/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Open Philanthropy Project |accessdate=April 24, 2017}}</ref>
 |-
@@ -189,7 +189,7 @@ TODO:
 |-
 | 2013 || {{dts|November 26}} || || [[wikipedia:Holden Karnofsky|Holden Karnofsky]] publishes a post on the [[wikipedia:GiveWell|GiveWell]] blog saying that GiveWell plans not to recommend more donations to AMF due to room-for-more-funding issues.<ref>{{cite web |url=http://blog.givewell.org/2013/11/26/change-in-against-malaria-foundation-recommendation-status-room-for-more-funding-related/ |title=Change in Against Malaria Foundation recommendation status (room-for-more-funding-related) |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=February 22, 2016 |accessdate=April 24, 2017 |first=Holden |last=Karnofsky}}</ref>
 |-
-| 2013 || {{dts|November}} || GiveWell review || GiveWell publishes a new version of its review of AMF, in which AMF is removed from the list of top charities.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2013-review |title=Against Malaria Foundation (AMF) - 2013 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
+| 2013 || {{dts|November}} || GiveWell review || GiveWell publishes a new version of its review of AMF, in which AMF is removed from the list of top charities.<ref name="gw_nov_2013_review">{{cite web |url=http://www.givewell.org/charities/AMF/2013-review |title=Against Malaria Foundation (AMF) - 2013 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
 | 2013 || {{dts|December 2}} || || The mobile video game ''Nightmare: Malaria'' is released. The game is created by Psyop Games in partnership with AMF.<ref>{{cite web |url=http://nightmare.againstmalaria.com/press/sheet.php?p=nightmare |title=Psyop Games Presskit - Nightmare: Malaria |accessdate=April 24, 2017}}</ref>
 |-
@@ -199,7 +199,7 @@ TODO:
 |-
 | 2014 || {{dts|August}} || GiveWell update || GiveWell publishes an update on AMF. Regarding room-for-more-funding, the update states "We continue to believe that AMF has limited room for more funding (though we believe there are ways in which AMF's actions are being affected by funding constraints) and are not planning to re-recommend it at this time."<ref>{{cite web |url=http://www.givewell.org/charities/amf/August-2014 |title=Against Malaria Foundation - August 2014 Update |publisher=[[wikipedia:GiveWell|GiveWell]] |accessdate=April 27, 2017}}</ref>
 |-
-| 2014 || {{dts|November}} || GiveWell review || GiveWell publishes its 2014 review of AMF, in which AMF is reinstated as a top charity.<ref>{{cite web |url=http://www.givewell.org/charities/AMF/2014-review |title=Against Malaria Foundation (AMF) - 2014 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
+| 2014 || {{dts|November}} || GiveWell review || GiveWell publishes its 2014 review of AMF, in which AMF is reinstated as a top charity.<ref name="gw_nov_2014_review">{{cite web |url=http://www.givewell.org/charities/AMF/2014-review |title=Against Malaria Foundation (AMF) - 2014 Review |publisher=GiveWell |accessdate=April 27, 2017}}</ref>
 |-
 | 2014 || {{dts|December}} || Good Ventures grant || Good Ventures awards a $5 million grant to AMF.<ref>{{cite web |url=http://www.goodventures.org/our-portfolio/grants/against-malaria-foundation-general-support |title=Against Malaria Foundation — General Support |publisher=Good Ventures |accessdate=April 24, 2017}}</ref>
 |-
@@ -244,18 +244,20 @@ TODO:
 
 GiveWell's estimate of the cost-per-life-saved for AMF has varied over the years. The estimates are summarized below.
 
-{| class="wikitable"
-! Review date !! Estimated cost per long-lasting insecticide net distributed !! Estimate cost per life saved
+{| class="sortable wikitable"
+! Review date !! Estimated cost per long-lasting insecticide net distributed !! Estimate cost per life saved !! References
 |-
-| November 2015<ref name=givewell-nov-2015-review/> || $5.31 (but possibly higher for some distributions) || $2,838 (assuming the $5.31 figure)
+| June 2016 || ||
 |-
-| November 2014<ref name=givewell-nov-2014-review/> || $5.80 (averaged across different distribution types) || $3,340
+| November 2015 || $5.31 (but possibly higher for some distributions) || $2,838 (assuming the $5.31 figure) || <ref name="gw_review_nov_2015_jan_2016" />
 |-
-| November 2013<ref name=givewell-nov-2013-review/> || $6.13 || $3,400
+| November 2014 || $5.80 (averaged across different distribution types) || $3,340 || <ref name="gw_nov_2014_review" />
 |-
-| November 2012<ref name=givewell-nov-2012-review/> ||  $5.15 (marginal), $5.54 (total)|| $2,300 (using marginal cost), $2,500 (using total cost)
+| November 2013 || $6.13 || $3,400 || <ref name="gw_nov_2013_review" />
 |-
-| November 2011<ref name=givewell-nov-2011-review/> || $5.15 (marginal), $5.54 (total) || $1,600 (using marginal cost), $1,700 (using total cost)
+| November 2012 ||  $5.15 (marginal), $5.54 (total)|| $2,300 (using marginal cost), $2,500 (using total cost) || <ref name="gw_nov_2012_review" />
+|-
+| November 2011 || $5.15 (marginal), $5.54 (total) || $1,600 (using marginal cost), $1,700 (using total cost) || <ref name="gw_nov_2011_review" />
 |}
 
 ==See also==
