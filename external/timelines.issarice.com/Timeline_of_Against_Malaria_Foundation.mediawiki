@@ -247,19 +247,19 @@ GiveWell's estimate of the cost-per-life-saved for AMF has varied over the years
 {| class="sortable wikitable"
 ! Review date !! Estimated cost per long-lasting insecticide net distributed !! Estimate cost per life saved !! References
 |-
-| November 2016 || $4.85<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B28}} || $3,376<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B74}} || <ref name="givewell-nov-2016-ce-analysis-spreadsheet">{{cite web |url=https://docs.google.com/spreadsheets/d/1KiWfiAGX_QZhRbC9xkzf3I8IqsXC5kkr-nwY_feVlcM/edit#gid=115155829 |title=GiveWell cost-effectiveness analysis — November 2016: Bednets sheet |date=November 2016 |publisher=[[GiveWell]] |accessdate=November 29, 2016}}</ref>
+| {{dts|November 2016}} || $4.85<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B28}} || $3,376<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B74}} || <ref name="givewell-nov-2016-ce-analysis-spreadsheet">{{cite web |url=https://docs.google.com/spreadsheets/d/1KiWfiAGX_QZhRbC9xkzf3I8IqsXC5kkr-nwY_feVlcM/edit#gid=115155829 |title=GiveWell cost-effectiveness analysis — November 2016: Bednets sheet |date=November 2016 |publisher=[[GiveWell]] |accessdate=November 29, 2016}}</ref>
 |-
-| June 2016 || $4.47 (for distributions being considered in the near future) || $3,500 || <ref name="gw_june_2016_review" />
+| {{dts|June 2016}} || $4.47 (for distributions being considered in the near future) || $3,500 || <ref name="gw_june_2016_review" />
 |-
-| November 2015 || $5.31 (but possibly higher for some distributions) || $2,838 (assuming the $5.31 figure) || <ref name="gw_review_nov_2015_jan_2016" />
+| {{dts|November 2015}} || $5.31 (but possibly higher for some distributions) || $2,838 (assuming the $5.31 figure) || <ref name="gw_review_nov_2015_jan_2016" />
 |-
-| November 2014 || $5.80 (averaged across different distribution types) || $3,340 || <ref name="gw_nov_2014_review" />
+| {{dts|November 2014}} || $5.80 (averaged across different distribution types) || $3,340 || <ref name="gw_nov_2014_review" />
 |-
-| November 2013 || $6.13 || $3,400 || <ref name="gw_nov_2013_review" />
+| {{dts|November 2013}} || $6.13 || $3,400 || <ref name="gw_nov_2013_review" />
 |-
-| November 2012 ||  $5.15 (marginal), $5.54 (total)|| $2,300 (using marginal cost), $2,500 (using total cost) || <ref name="gw_nov_2012_review" />
+| {{dts|November 2012}} ||  $5.15 (marginal), $5.54 (total)|| $2,300 (using marginal cost), $2,500 (using total cost) || <ref name="gw_nov_2012_review" />
 |-
-| November 2011 || $5.15 (marginal), $5.54 (total) || $1,600 (using marginal cost), $1,700 (using total cost) || <ref name="gw_nov_2011_review" />
+| {{dts|November 2011}} || $5.15 (marginal), $5.54 (total) || $1,600 (using marginal cost), $1,700 (using total cost) || <ref name="gw_nov_2011_review" />
 |}
 
 ==See also==
