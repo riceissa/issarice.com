@@ -23,5 +23,5 @@ and figuring out how to enable automated supervision of work.
 
 -   2017-01-31: I seriously consider trying to use Mechanical Turk,
     and begin reading about it a lot.
--   2017-02-01: around noon, I purchased $20 worth of prepaid HITs.
+-   2017-02-01: around noon, I purchase $20 worth of prepaid HITs.
 -   2017-03-01: I finally cancel my Mechanical Turk batch.
