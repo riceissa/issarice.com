@@ -247,7 +247,7 @@ GiveWell's estimate of the cost-per-life-saved for AMF has varied over the years
 {| class="sortable wikitable"
 ! Review date !! Estimated cost per long-lasting insecticide net distributed !! Estimate cost per life saved !! References
 |-
-| {{dts|November 2016}} || $4.85<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B28}} || $3,376<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B74}} || <ref name="givewell-nov-2016-ce-analysis-spreadsheet">{{cite web |url=https://docs.google.com/spreadsheets/d/1KiWfiAGX_QZhRbC9xkzf3I8IqsXC5kkr-nwY_feVlcM/edit#gid=115155829 |title=GiveWell cost-effectiveness analysis — November 2016: Bednets sheet |date=November 2016 |publisher=[[GiveWell]] |accessdate=November 29, 2016}}</ref>
+| {{dts|November 2016}} || $4.85<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B28}} || $3,376<ref name="givewell-nov-2016-ce-analysis-spreadsheet" />{{rp|B74}} || <ref name="givewell-nov-2016-ce-analysis-spreadsheet">{{cite web |url=https://docs.google.com/spreadsheets/d/1KiWfiAGX_QZhRbC9xkzf3I8IqsXC5kkr-nwY_feVlcM/edit#gid=115155829 |title=GiveWell cost-effectiveness analysis — November 2016: Bednets sheet |date=November 2016 |publisher=GiveWell |accessdate=November 29, 2016}}</ref>
 |-
 | {{dts|June 2016}} || $4.47 (for distributions being considered in the near future) || $3,500 || <ref name="gw_june_2016_review" />
 |-
