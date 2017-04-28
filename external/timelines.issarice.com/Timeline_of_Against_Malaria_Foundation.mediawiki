@@ -5,11 +5,13 @@ This is a '''timeline of the Against Malaria Foundation''' (AMF).
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
-| 2003 || Early days || "Swim For Terri" stuff
+| 2003 || Early days || The documentary "Being Terri", about a child who was badly burned in a fire, airs on British television. This documentary inspires Rob Mather to start the fundraising event "Swim For Terri", which would morph into World Swim Against Malaria (which would later become the Against Malaria Foundation).
 |-
-| 2004–2008 || World Swim Against Malaria and continued growth ||
+| 2004–2005 || Establishment of World Swim Against Malaria || Following the initial "Swim For Terri" event, Mather keeps the idea of swimming as a fundraiser but changes the target to fighting malaria through the purchase of bednets. AMF is established as the World Swim for Malaria Foundation (but called "World Swim Against Malaria"), and a fundraiser takes place in December 2005.
 |-
-| 2009–present || Discovery and recommendation by effective altruist organizations || AMF is recommended by GWWC in March 2010, rated a "silver medal" organization by GiveWell sometime in 2010, and from this point continues to be recommended. First Good Ventures grant in December 2011.
+| 2006–2008 || Continued growth || The first bednet distributions due to AMF take place in mid-2006. Throughout this period, bednet distributions due to AMF would expand into numerous countries, and various fundraisers take place (both swim and non-swim). By mid-2007, AMF would formally change its name to the current "Against Malaria Foundation".
+|-
+| 2009–present || Discovery and recommendation by effective altruist organizations || Contact between AMF and the charity evaluator GiveWell takes place around April 2009. By July 2009, GiveWell lists AMF as a "recommended organization", and in 2010 GiveWell ranks AMF a "Silver Medal organization". Other evaluator organizations associated with the effective altruism movement follow in their recommendation of AMF. Since 2010, in every year except 2013, GiveWell has listed AMF as a top charity.
 |}
 
 ==Full timeline==
