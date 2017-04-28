@@ -19,6 +19,13 @@ If I were to run a second experiment, I would look into whether raising
 the task payment is important, trying to identify higher quality workers,
 and figuring out how to enable automated supervision of work.
 
+# The idea
+
+In order to understand my excitement and willingness to try out MTurk,
+it is necessary to understand both the tedium of content creation work
+as well as my potential solution for automating the most repetitive
+parts.
+
 # Timeline
 
 -   2017-01-31: I seriously consider trying to use Mechanical Turk,
