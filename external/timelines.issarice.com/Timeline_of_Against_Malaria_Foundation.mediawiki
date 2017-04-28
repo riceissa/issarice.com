@@ -240,6 +240,24 @@ TODO:
 | 2017 || {{dts|February 23}}{{snd}}{{dts|March 8}} || Fundraiser (non-swim) || The Big Varsity Match 2017 fundraiser takes place. The fundraiser is structured as a competition between Giving What We Can: Oxford and Giving What We Can: Cambridge.<ref>{{cite web |url=https://www.againstmalaria.com/FundraiserGroup.aspx?FundraiserID=7305 |publisher=The Against Malaria Foundation |title=The Big Varsity Match 2017! |accessdate=April 27, 2017}}</ref>
 |}
 
+==Evolution of cost-per-life-saved estimates==
+
+GiveWell's estimate of the cost-per-life-saved for AMF has varied over the years. The estimates are summarized below.
+
+{| class="wikitable"
+! Review date !! Estimated cost per long-lasting insecticide net distributed !! Estimate cost per life saved
+|-
+| November 2015<ref name=givewell-nov-2015-review/> || $5.31 (but possibly higher for some distributions) || $2,838 (assuming the $5.31 figure)
+|-
+| November 2014<ref name=givewell-nov-2014-review/> || $5.80 (averaged across different distribution types) || $3,340
+|-
+| November 2013<ref name=givewell-nov-2013-review/> || $6.13 || $3,400
+|-
+| November 2012<ref name=givewell-nov-2012-review/> ||  $5.15 (marginal), $5.54 (total)|| $2,300 (using marginal cost), $2,500 (using total cost)
+|-
+| November 2011<ref name=givewell-nov-2011-review/> || $5.15 (marginal), $5.54 (total) || $1,600 (using marginal cost), $1,700 (using total cost)
+|}
+
 ==See also==
 
 * [[Timeline of malaria]]
