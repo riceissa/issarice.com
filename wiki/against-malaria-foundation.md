@@ -23,7 +23,7 @@ he worked for?
 Who were his clients?
 If you look at the [old trustees page](https://web.archive.org/web/20080310014341/http://www.worldswimagainstmalaria.com:80/aboutus_trustees.aspx#RM),
 you might notice that for many of the biographies,
-peope list where they've worked ("Brand Director for Sainsbury's
+people list where they've worked ("Brand Director for Sainsbury's
 supermarkets and prior to that Marketing Director for Coca-Cola
 across Central Europe and for L'Oreal in the UK", "Lehman",
 "Executive Director of Capital & Regional Plc, a UK listed property
@@ -35,3 +35,28 @@ I think Andrew Garner is similarly a mystery.
 Yes, you can find his [barely-active Twitter account](https://twitter.com/ajgarner)
 and some [old publications in physics](https://www.ucl.ac.uk/positron-physics/uclrefyr.html),
 but aside from that, there isn't a lot that I could find.
+
+AMF's headcount is also inconsistent.
+Their [job posting][job] gives five people, but their "[People](https://www.againstmalaria.com/People.aspx)"
+page only lists three.
+Maybe Sean Good (listed on the AMF Wikipedia page, and apparently the AMF
+treasurer) counts as the fourth, but who even is the
+fifth?
+
+For a charity that is listed as a top charity or recommended charity at
+various effective altruist evaluators,
+I thought that the history of AMF revealed something far less reflective
+and "EA-minded" than one might suppose.
+The original "Swim For Terri" event seems like the epitome of ineffective
+altruism: swimming to help a single two-year old who was badly burned,
+and doing so only because one was persuaded by a television documentary.
+
+I was also not aware that AMF had been doing a bunch of "fundraising
+gimmicks" like partnering on *Nightmare: Malaria* and holding events like
+Madness Against Malaria.
+But did these things actually matter?
+The reason I was even writing the timeline is because (apparently)
+AMF has done a good job in being transparent and was lucky enough
+to stumble on bednets as an intervention.
+
+[job]: https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-IT-Developer "“The current five members of the AMF team are based in their home offices, and it would be ideal if the new IT Developer is able to do the same.”"
