@@ -35,7 +35,7 @@ across Central Europe and for L'Oreal in the UK", "Lehman",
 "Executive Director of Capital & Regional Plc, a UK listed property
 company", etc.), but this is not the case for Rob Mather.
 We are talking about a guy running a charity that has raised
-over $100 million who has appeared out of nowhere in 2003.
+over $100 million who appeared out of nowhere in 2003.
 
 I think Andrew Garner is similarly a mystery.
 Yes, you can find his [barely-active Twitter account](https://twitter.com/ajgarner)
