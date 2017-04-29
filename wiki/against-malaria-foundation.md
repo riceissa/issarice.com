@@ -42,6 +42,12 @@ Yes, you can find his [barely-active Twitter account](https://twitter.com/ajgarn
 and some [old publications in physics](https://www.ucl.ac.uk/positron-physics/uclrefyr.html),
 but aside from that, there isn't a lot that I could find.
 
+I think for an organization so small,
+one really does have to look at the people to understand the organization,
+and the fact that both of the co-founders are basically mysteries is
+pretty strange, especially given that AMF is touted as being
+exceptionally transparent.
+
 AMF's headcount is also inconsistent.
 Their [job posting][job] gives five people, but their "[People](https://www.againstmalaria.com/People.aspx)"
 page only lists three.
