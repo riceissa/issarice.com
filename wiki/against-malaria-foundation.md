@@ -77,6 +77,9 @@ But this isn't actually the case;
 AMF manages the logistics of taking in donations,
 buying the bednets, and coordinating
 with the actual bednet distributors.
+The following description, [due to GiveWell](http://blog.givewell.org/2014/12/01/our-updated-top-charities/),
+seems way better: "AMF works by sourcing, evaluating and negotiating deals
+for net distributions".
 
 AMF also had tried since 2009 to achieve tax-deductibility status in Australia,
 but only in 2015 did it actually achieve this.
