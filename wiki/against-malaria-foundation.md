@@ -78,4 +78,11 @@ AMF manages the logistics of taking in donations,
 buying the bednets, and coordinating
 with the actual bednet distributors.
 
+AMF also had tried since 2009 to achieve tax-deductibility status in Australia,
+but only in 2015 did it actually achieve this.
+It's unclear to me whether this means Australian tax law is somehow really
+complicated, or whether AMF messed up and applied for the wrong thing.
+See e.g. [this 2013 post](https://www.againstmalaria.com/Newsitem.aspx?newsitem=Australia-Situation-regarding-application-by-AMF-%28Australia%29-for-tax-deductible-status)
+and [this GiveWell blog post](http://blog.givewell.org/2015/09/08/a-tax-deductible-top-charity-for-australians/).
+
 [job]: https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-IT-Developer "“The current five members of the AMF team are based in their home offices, and it would be ideal if the new IT Developer is able to do the same.”"
