@@ -85,4 +85,8 @@ complicated, or whether AMF messed up and applied for the wrong thing.
 See e.g. [this 2013 post](https://www.againstmalaria.com/Newsitem.aspx?newsitem=Australia-Situation-regarding-application-by-AMF-%28Australia%29-for-tax-deductible-status)
 and [this GiveWell blog post](http://blog.givewell.org/2015/09/08/a-tax-deductible-top-charity-for-australians/).
 
+Overall I didn't get the impression that AMF is exceptional as an organization.
+It is somehow good at asking for things/asking a bunch of different people for
+things.
+
 [job]: https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-IT-Developer "“The current five members of the AMF team are based in their home offices, and it would be ideal if the new IT Developer is able to do the same.”"
