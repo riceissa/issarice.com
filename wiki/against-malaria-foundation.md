@@ -65,4 +65,11 @@ The reason I was even writing the timeline is because (apparently)
 AMF has done a good job in being transparent and was lucky enough
 to stumble on bednets as an intervention.
 
+Another thing I find weird is that many people, when talking about AMF,
+say that AMF "distributes" bednets.
+But this isn't actually the case;
+AMF manages the logistics of taking in donations,
+buying the bednets, and coordinating
+with the actual bednet distributors.
+
 [job]: https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-IT-Developer "“The current five members of the AMF team are based in their home offices, and it would be ideal if the new IT Developer is able to do the same.”"
