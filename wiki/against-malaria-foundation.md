@@ -15,6 +15,9 @@ didn't suit the timeline format.
 This page gathers some of these thoughts.
 
 Some of these thoughts may come across in a "devil's advocate" kind of way.
+Indeed, as AMF is so highly regarded in EA circles,
+part of my interest was to think "What could an intelligent and motivated
+critic dig up about AMF?"
 
 One thing I found odd was how little information there is about the two
 main people running the organization, Rob Mather and Andrew Garner.
