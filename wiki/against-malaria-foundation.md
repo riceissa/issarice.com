@@ -26,6 +26,7 @@ available on the internet, and I still have no idea who he is.
 He was supposedly a successful businessman, but what was the company
 he worked for?
 Who were his clients?
+When did he graduate from university?
 If you look at the [old trustees page](https://web.archive.org/web/20080310014341/http://www.worldswimagainstmalaria.com:80/aboutus_trustees.aspx#RM),
 you might notice that for many of the biographies,
 people list where they've worked ("Brand Director for Sainsbury's
