@@ -17,10 +17,13 @@ Although I was [intellectually in agreement with effective altruism](https://www
 In January 2014, I contacted [Cognito Mentoring]() for the first time.
 Although I myself didn't seem to ask directly about EA (looking back at our correspondence), a friend contacted them regarding effective career choice, and this roused my interested in effective altruism as well.
 
-In [July 2014, I attended a Seattle Effective Altruists meetup](https://www.facebook.com/events/266352430227314/)[^why]; although I didn't contribute much to the discussion, my interest in EA increased.
-
-[^why]: Part of this was due to my interest, but part of it too was that I was working on a research project at the University of Washington over the summer, and the July meetup was conveniently situated next to campus---so the activation energy had been considerably lowered.
-The topic of the meetup was also "Donating vs. Working directly for impact", which was a topic of particular interest to me going into college.
+In [July 2014, I attended a Seattle Effective Altruists meetup](https://www.facebook.com/events/266352430227314/); although I didn't contribute much to the discussion, my interest in EA increased.
+Part of the reason I attended was due to my interest, but part of it too was
+that I was working on a research project at the University of Washington over
+the summer, and the July meetup was conveniently situated next to campus -- so
+the activation energy had been considerably lowered.
+The topic of the meetup was also "Donating vs. Working directly for impact",
+which was a topic of particular interest to me going into college.
 
 Following my first meetup was a period of several months where I frequently attended Seattle EA meetups.
 I also became more involved in online discussions of EA, and eventually in November 2014 started the [Cause Prioritization Wiki](http://causeprioritization.org/) as a place to store my research on [cause prioritization]().
