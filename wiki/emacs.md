@@ -80,3 +80,7 @@ I tend to stick to the basics.
 
 -   The whole file is tracked in [Git]().
     I have a mapping to quickly snapshot the current state of the file.
+
+# See also
+
+- [More software I use](wiki/software.md)
