@@ -60,5 +60,6 @@ themselves part of the movement.
 
 # External links
 
-* [Google Custom Search with an effective altruism label that I
-  maintain](https://cse.google.com/cse/publicurl?cx=003462416774124900295:tgoyrxzwiha)
+- [Google Custom Search with an effective altruism label that I maintain](https://cse.google.com/cse/publicurl?cx=003462416774124900295:tgoyrxzwiha)
+- [Bryan Caplan weighs in on the rationality community](http://econlog.econlib.org/archives/2017/04/whats_wrong_wit_22.html)
+  (the rationality community has close ties with the EA community)
