@@ -1,7 +1,7 @@
 ---
 title: Effective altruism
 created: 2015-01-02
-date: 2016-06-15
+date: 2017-04-29
 ---
 
 [**Effective altruism**](https://en.wikipedia.org/wiki/Effective_altruism) (EA) is "a philosophy and social movement which applies evidence and reason to determining the most effective ways to improve the world".
