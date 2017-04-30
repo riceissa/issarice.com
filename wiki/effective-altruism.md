@@ -28,7 +28,12 @@ which was a topic of particular interest to me going into college.
 Following my first meetup was a period of several months where I frequently attended Seattle EA meetups.
 I also became more involved in online discussions of EA, and eventually in November 2014 started the [Cause Prioritization Wiki](http://causeprioritization.org/) as a place to store my research on [cause prioritization]().
 Also around this time, I tried to start an [effective altruism group at the University of Washington](https://www.facebook.com/groups/EffectiveAltruismUW).
-The group hasn't gotten much traction, so as of August 2015, the group has only had one meetup in November 2014.
+The group didn't get much traction, and as of August 2016, it had only had one
+meetup in November 2014.
+During the 2016--2017 school year, Rohin Shah and Ethan Bashkansky restarted
+the group, with meetings taking place throughout the school year.
+I have attended multiple meetings but have played only a minor role in this
+revival.
 
 I continue to be involved in online discussions of EA, but have since become less involved in Seattle EA meetups.
 
