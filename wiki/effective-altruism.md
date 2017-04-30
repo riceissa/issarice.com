@@ -46,7 +46,7 @@ Although I think effective altruism is pretty cool, I've only been consistently 
 I think EA uses a [clever definition](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/26u) to make it irrefutable in some sense, which makes discussion and criticism of it difficult.
 However if nothing else, I think effective altruism still does to philanthropy what [Bastiat does to economics](http://econlog.econlib.org/archives/2012/08/the_subtle_valu.html).
 
-I'm highly uncertain about what the best causes are, which is part of the reason I'm interested in cause prioritization (but again, I'm not even sure if cause prioritization is very valuable---it just seems like a promising thing to try out for a while).
+I'm highly uncertain about what the best causes are, which is part of the reason I'm interested in cause prioritization (but again, I'm not even sure if cause prioritization is very valuable -- it just seems like a promising thing to try out for a while).
 
 # See also
 
