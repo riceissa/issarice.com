@@ -44,9 +44,14 @@ As part of this work, I've been making several [Wikipedia pages related to globa
 
 Although I think effective altruism is pretty cool, I've only been consistently impressed with a few people associated with the movement.
 I think EA uses a [clever definition](http://effective-altruism.com/ea/df/the_outside_critics_of_effective_altruism/26u) to make it irrefutable in some sense, which makes discussion and criticism of it difficult.
-However if nothing else, I think effective altruism still does to philanthropy what [Bastiat does to economics](http://econlog.econlib.org/archives/2012/08/the_subtle_valu.html).
+However if nothing else, I think effective altruism still does to philanthropy what [Bastiat does to economics](http://econlog.econlib.org/archives/2012/08/the_subtle_valu.html)
+(although now I [don't think EA is as new as I used to](wiki/is-effective-altruism-new.md)).
 
 I'm highly uncertain about what the best causes are, which is part of the reason I'm interested in cause prioritization (but again, I'm not even sure if cause prioritization is very valuable -- it just seems like a promising thing to try out for a while).
+
+Overall, I'm not comfortable considering myself part of the "EA movement".
+However, I'm happy to interact and collaborate with people who do consider
+themselves part of the movement.
 
 # See also
 
