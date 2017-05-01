@@ -73,7 +73,7 @@ These are:
 - [Child survival revolution](https://en.wikipedia.org/wiki/Child_survival_revolution), a major movement in global health in the 1980s--1990s
 - [Priority-setting in global health](https://en.wikipedia.org/wiki/Priority-setting_in_global_health)
 - [Timeline of deworming](https://en.wikipedia.org/wiki/Timeline_of_deworming)
-- [Amanda Glassman](https://en.wikipedia.org/wiki/Amanda_Glassman), a senior person at the Center for Global Development
+- [Amanda Glassman](https://github.com/riceissa/issarice.com/blob/master/external/en.wikipedia.org/Amanda_Glassman.mediawiki), a senior person at the Center for Global Development
 - [International Decision Support Initiative](https://en.wikipedia.org/wiki/International_Decision_Support_Initiative) (iDSI), one of the partners in the Disease Control Priorities Project
 - [Voices of the Poor](https://en.wikipedia.org/wiki/Voices_of_the_Poor)
 - [Participatory poverty assessment](https://en.wikipedia.org/wiki/Participatory_poverty_assessment)
