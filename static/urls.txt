@@ -1,3 +1,4 @@
+https://issarice.com/atom.xml
 http://econlog.econlib.org/indexcaplan.xml
 https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
 https://groups.google.com/forum/feed/newly-published-givewell-materials/msgs/rss_v2_0.xml
