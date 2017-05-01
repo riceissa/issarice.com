@@ -12,6 +12,7 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2016 || {{dts|December}} || || Bill Gates announces Breakthrough Energy Ventures.<ref>{{cite web |url=https://www.devex.com/news/what-will-it-take-for-the-new-gates-led-clean-energy-fund-to-be-a-breakthrough-89359 |publisher=Devex |title=What will it take for the new Gates-led clean energy fund to be a breakthrough? |date=December 23, 2016 |accessdate=May 1, 2017 |author=Catherine Cheney}}</ref>
 |}
 
 ==See also==
