@@ -1,6 +1,6 @@
 ---
 title: "Mathematics and notation"
-date: "2015-10-29"
+date: 2015-10-29
 ---
 
 Despite mathematicians' apparent focus on notation, I've always found it difficult to navigate certain notation in math.
