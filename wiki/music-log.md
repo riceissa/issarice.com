@@ -235,6 +235,7 @@ The Pillows:
 
 * Slime Girls: *Vacation Wasteland* (fine the first few times, but
   I quickly tired of it)
+* Radiohead: *The Bends*
 
 # History
 
