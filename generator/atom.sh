@@ -26,7 +26,7 @@ grep -m 1 -e '^date: ' wiki/* | \
         base=$(basename $filename .md)
         date=`echo $line | sed -n 's/\([^ ]\+\) \(.*\)/\1/p'`
         echo "  <entry>"
-        echo "    <title>$title</title>"
+        echo "    <title>$title ($date)</title>"
         echo '    <link href="https://issarice.com/'"$base"'"/>'
         echo "    <id>tag:issarice.com,$date:/$base</id>"
         echo "    <updated>$date""T00:00:00$(date +'%:z')</updated>"
