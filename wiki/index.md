@@ -30,41 +30,25 @@ belong elsewhere ends up here.
 - [Pages related to education](education)
 - A mirror of [my Quora answers]()
 
-# Summary of what I worked on: March 2017 {#summary}
+# Summary of what I worked on: April 2017 {#summary}
 
-I started the month by continuing with improvements to tech company timelines,
-in particular [timeline of Reddit](https://en.wikipedia.org/wiki/Timeline_of_Reddit)
-and [timeline of GitHub](https://timelines.issarice.com/wiki/Timeline_of_GitHub).
+Near the beginning of the month I looked into the [flow of money in global
+health](wiki/total-spending-in-global-health.md).
 
-Due to community hostility, Vipul Naik's Wikipedia project (on which I
-collaborated significantly) was suspended during March.
-Since a large part of our work on Wikipedia was in the form of timelines, I did
-the work of migrating our timelines content to a self-hosted wiki, now
-available as the [Timelines
-Wiki](https://timelines.issarice.com/wiki/Main_Page).
-In the process of setting up the new wiki, I found a lack of good
-documentation, so I also [wrote up some
-notes](https://github.com/riceissa/nginx-mediawiki/) on that.
+In the middle of the month I published a [post](http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/)
+about LessWrong analytics.
 
-I wrote a [small script](https://github.com/riceissa/arnold-foundation-grants/blob/master/loop.py)
-to help process Arnold Foundation grants for Vipul Naik.
+I also did some work [processing Gates Foundation grants](https://github.com/riceissa/gates-foundation-iati-processing).
 
-I also made more improvements to
-[Wikidossier](https://github.com/riceissa/wikidossier).
-
-March in general was rather stressful because of what happened with Wikipedia:
-as mentioned above, our project was suspended and [my account was indefinitely
-blocked](https://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive948#Riceissa).
-To cope better with the situation, I took a "vacation" starting around March
-23 that lasted until the end of the month.
+Near the end of the month I published a [timeline of Against Malaria
+Foundation](https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation).
+Separately, I [recorded some thoughts on AMF](wiki/against-malaria-foundation.md)
+that did not belong on the timeline.
 
 # Activity feeds
 
 Here are some activity feeds that track what I've been working on:
 
-* My [contributions to the English
-  Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Riceissa)
-  ([more information about my Wikipedia editing](wikipedia))
 * My GitHub [contribution activity](https://github.com/riceissa), including my
   [commits to this website's
   repository](https://github.com/riceissa/issarice.com/commits/master)
