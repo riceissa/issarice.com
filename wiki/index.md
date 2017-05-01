@@ -35,6 +35,11 @@ belong elsewhere ends up here.
 Near the beginning of the month I looked into the [flow of money in global
 health](wiki/total-spending-in-global-health.md).
 
+I also spent some time reading about what it is like to work for some global
+health organizations like WHO and the Gates Foundation.
+I didn't find a lot of information here, and did not publish anything from my
+reading.
+
 In the middle of the month I published a [post](http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/)
 about LessWrong analytics.
 
