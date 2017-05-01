@@ -13,3 +13,12 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''.
 ! Year !! Month and date !! Event type !! Details
 |-
 |}
+
+==See also==
+
+* [[Timeline of global health]]
+
+==External links==
+
+* [https://docs.gatesfoundation.org/documents/foundation-timeline.pdf Timeline produced by the Gates Foundation itself], covering 1994–2011.
+* [http://keionline.org/microsoft-timeline Microsoft and Gates Foundation timeline] by [[wikipedia:Knowledge Ecology International|Knowledge Ecology International]]. The timeline covers the years 1994–2010.
