@@ -28,7 +28,7 @@ grep -m 1 -e '^date: ' wiki/* | \
         echo "    <title>$title</title>"
         echo '    <link href="https://issarice.com/'"$base"'"/>'
         echo "    <id>tag:issarice.com,$date:/$base</id>"
-        echo "    <update>$date""T00:00:00$(date +'%:z')</updated>"
+        echo "    <updated>$date""T00:00:00$(date +'%:z')</updated>"
         echo "  </entry>"
 
         # Write the actual markdown bullet
