@@ -17,6 +17,7 @@ EOF
 grep -m 1 -e '^date: ' wiki/* | \
     sed -n 's/\([^:]\+\):date: \(.*\)/\2 \1/p' | \
     sort -r | \
+    sed 100q | \
     while read line; do
         # echo $line | filename=`sed -n 's/[^ ] \(.*\)/\1/p'`
         filename=`echo $line | sed -n 's/[^ ]\+ \(.*\)/\1/p'`
