@@ -12,6 +12,8 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2011 || {{dts|May 17}} || || Bill Gates gives a speech to the sixty-fourth World Health Assembly.<ref>{{cite web |url=http://www.who.int/mediacentre/events/2011/wha64/bill_gates_speech_20110517/en/ |title=Mr Bill Gates, Co-chair of the Bill & Melinda Gates Foundation |publisher=World Health Organization |accessdate=May 3, 2017}}</ref>
+|-
 | 2011 || {{dts|June 4}} || || The new Gates Foundation Seattle headquarters opens to the public for the first time.<ref>{{cite web |url=https://www.geekwire.com/2011/bill-melinda-gates-foundations-amazing-seattle-hq/ |title=Inside look at The Bill & Melinda Gates Foundation's new Seattle HQ |publisher=GeekWire |date=June 2, 2011 |accessdate=May 2, 2017 |author=John Cook}}</ref>
 |-
 | 2011 || {{dts|July 19}} || || The Gates Foundation announces $41.5 million worth of grants to encourage innovation in toilet technology.<ref>{{cite web |url=http://www.cnn.com/2011/TECH/innovation/07/19/toilet.design.gates/ |title=Gates Foundation: 'We need to reinvent the toilet' |author=John D. Sutter |publisher=CNN |accessdate=May 3, 2017}}</ref>
