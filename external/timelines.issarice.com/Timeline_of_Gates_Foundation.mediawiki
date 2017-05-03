@@ -20,9 +20,11 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2012 || {{dts|February 4}} || || The Gates Foundation's public visitor center opens.<ref>{{cite web |url=http://www.seattlemag.com/why-new-gates-foundation-visitor-center-isnt-just-kids |publisher=Seattle Business Magazine |title=Why the New Gates Foundation Visitor Center Isn't Just for Kids |publisher=Seattle Magazine |date=February 2, 2012 |accessdate=May 1, 2017}}</ref>
 |-
+| 2012 || {{dts|August}} || || The Gates Foundation hosts a two-day Reinvent the Toilet Fair in Seattle, Washington.<ref name="gates_rttc" />
+|-
 | 2013 || {{dts|August 22}} || || The Gates Foundation announces the launch of Reinvent the Toilet Challenge: China.<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2013/08/Reinvent-the-Toilet-Challenge-Debuts-in-China |publisher=Bill & Melinda Gates Foundation |title=Reinvent the Toilet Challenge Debuts in China |accessdate=May 3, 2017}}</ref>
 |-
-| 2013 || {{dts|October}} || || The Gates Foundation, together with the Department of Biotechnology under the Ministry of Science and Technology of the Government of India and India's Biotechnology Industry Research Assistance Council, launch Reinvent the Toilet Challenge: India.<ref>{{cite web |url=http://www.gatesfoundation.org/What-We-Do/Global-Development/Reinvent-the-Toilet-Challenge |publisher=Bill & Melinda Gates Foundation |title=Reinvent the Toilet |accessdate=May 3, 2017}}</ref>
+| 2013 || {{dts|October}} || || The Gates Foundation, together with the Department of Biotechnology under the Ministry of Science and Technology of the Government of India and India's Biotechnology Industry Research Assistance Council, launch Reinvent the Toilet Challenge: India.<ref name="gates_rttc">{{cite web |url=http://www.gatesfoundation.org/What-We-Do/Global-Development/Reinvent-the-Toilet-Challenge |publisher=Bill & Melinda Gates Foundation |title=Reinvent the Toilet |accessdate=May 3, 2017}}</ref>
 |-
 | 2013 || {{dts|December 17}} || || The Gates Foundation announces that it has selected [[wikipedia:Susan Desmond-Hellmann|Susan Desmond-Hellmann]] as its new CEO. Her start date would be May 1 the following year.<ref>{{cite web |url=http://www.seattletimes.com/seattle-news/tough-bosses-no-problem-for-gates-foundationrsquos-new-ceo/ |title=Tough bosses no problem for Gates Foundation's new CEO |publisher=The Seattle Times |date=June 30, 2014 |accessdate=May 2, 2017}}</ref>
 |-
