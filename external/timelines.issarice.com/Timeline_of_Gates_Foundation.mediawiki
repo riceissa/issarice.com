@@ -12,6 +12,8 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2011 || {{dts|January}} || || Bill Gates and [[wikipedia:Mohammed bin Zayed Al Nahyan|Crown Prince Sheik Mohammed bin Zayed al-Nahyan]] of Abu Dhabi each donate $50 million to vaccinate children in Pakistan and Afghanistan against polio.<ref>{{cite web |url=http://www.nytimes.com/2011/02/01/health/01polio.html |date=January 31, 2011 |publisher=The New York Times |title=Gates Calls for a Final Push to Eradicate Polio |author=Donald G. McNeil Jr. |accessdate=May 4, 2017}}</ref>
+|-
 | 2011 || {{dts|May 17}} || || Bill Gates gives a speech to the sixty-fourth World Health Assembly.<ref>{{cite web |url=http://www.who.int/mediacentre/events/2011/wha64/bill_gates_speech_20110517/en/ |title=Mr Bill Gates, Co-chair of the Bill & Melinda Gates Foundation |publisher=World Health Organization |accessdate=May 3, 2017}}</ref>
 |-
 | 2011 || {{dts|June 4}} || || The new Gates Foundation Seattle headquarters opens to the public for the first time.<ref>{{cite web |url=https://www.geekwire.com/2011/bill-melinda-gates-foundations-amazing-seattle-hq/ |title=Inside look at The Bill & Melinda Gates Foundation's new Seattle HQ |publisher=GeekWire |date=June 2, 2011 |accessdate=May 2, 2017 |author=John Cook}}</ref>
