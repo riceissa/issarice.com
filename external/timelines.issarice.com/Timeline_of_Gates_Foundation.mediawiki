@@ -34,6 +34,8 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2014 || {{dts|March}} || || The Gates Foundation co-hosts (with the Government of India's Department of Biotechnology) the second Reinvent the Toilet Fair, held in New Delhi, India.<ref name="gates_rttc" />
 |-
+| 2015 || {{dts|March 18}} || || Bill Gates writes the op-ed "How to Fight the Next Epidemic" for ''The New York Times''.<ref>{{cite web |url=https://www.nytimes.com/2015/03/18/opinion/bill-gates-the-ebola-crisis-was-terrible-but-next-time-could-be-much-worse.html |date=March 18, 2015 |publisher=The New York Times |title=Opinion {{!}} Bill Gates: The Ebola Crisis Was Terrible. But Next Time Could Be Much Worse. |author=Bill Gates |accessdate=May 5, 2017}}</ref>
+|-
 | 2016 || {{dts|December}} || || Bill Gates announces Breakthrough Energy Ventures, part of [[wikipedia:Breakthrough Energy Coalition|Breakthrough Energy Coalition]].<ref>{{cite web |url=https://www.devex.com/news/what-will-it-take-for-the-new-gates-led-clean-energy-fund-to-be-a-breakthrough-89359 |publisher=Devex |title=What will it take for the new Gates-led clean energy fund to be a breakthrough? |date=December 23, 2016 |accessdate=May 1, 2017 |author=Catherine Cheney}}</ref>
 |}
 
