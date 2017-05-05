@@ -20,6 +20,8 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2011 || {{dts|July 19}} || || The Gates Foundation announces $41.5 million worth of grants to encourage innovation in toilet technology.<ref>{{cite web |url=http://www.cnn.com/2011/TECH/innovation/07/19/toilet.design.gates/ |title=Gates Foundation: 'We need to reinvent the toilet' |author=John D. Sutter |publisher=CNN |accessdate=May 3, 2017}}</ref><ref>{{cite web |url=https://blogs.wsj.com/tech-europe/2011/07/21/microwave-toilet-could-solve-africa-sanitation-problems/ |author=Ben Rooney |publisher=The Wall Street Journal |date=July 21, 2011 |title=Microwave Toilet Could Solve Africa Sanitation Problems |accessdate=May 4, 2017}}</ref>
 |-
+| 2012 || {{dts|January 26}} || || Bill Gates writes the op-ed "The Truth About Foreign Aid" for ''The New York Times''.<ref>{{cite web |url=http://www.nytimes.com/2012/01/27/opinion/the-truth-about-foreign-aid.html |date=January 26, 2012 |publisher=The New York Times |title=Opinion {{!}} The Truth About Foreign Aid |author=Bill Gates |accessdate=May 5, 2017}}</ref>
+|-
 | 2012 || {{dts|February 4}} || || The Gates Foundation's public visitor center opens.<ref>{{cite web |url=http://www.seattlemag.com/why-new-gates-foundation-visitor-center-isnt-just-kids |publisher=Seattle Business Magazine |title=Why the New Gates Foundation Visitor Center Isn't Just for Kids |publisher=Seattle Magazine |date=February 2, 2012 |accessdate=May 1, 2017}}</ref>
 |-
 | 2012 || {{dts|August}} || || The Gates Foundation hosts a two-day Reinvent the Toilet Fair in Seattle, Washington.<ref name="gates_rttc" />
