@@ -13,6 +13,7 @@ $endif$
 $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
 $endif$
+  <meta property="og:title" content="$pagetitle$" />
   <meta property="og:site_name" content="Issa Rice" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
