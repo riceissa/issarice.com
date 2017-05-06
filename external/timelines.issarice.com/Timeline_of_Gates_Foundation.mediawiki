@@ -32,6 +32,8 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2012 || {{dts|February 22}} || || Bill Gates writes the op-ed "Shame Is Not the Solution" for ''The New York Times'', about teacher performance assessments.<ref>{{cite web |url=http://www.nytimes.com/2012/02/23/opinion/for-teachers-shame-is-no-solution.html |date=February 22, 2012 |publisher=The New York Times |title=Opinion {{!}} For Teachers, Shame Is No Solution |author=Bill Gates |accessdate=May 5, 2017}}</ref>
 |-
+| 2012 || {{dts|March}} || || The Gates Foundation commits up to $220 million over five years to Aeras, a nonprofit that develops vaccines for tuberculosis.<ref>{{cite web |url=http://www.bizjournals.com/washington/news/2012/03/14/gates-foundation-commits-220m-to-tb.html |date=March 15, 2012 |title=Bill & Melinda Gates Foundation to give $220 million to Aeras to fight tuberculosis |publisher=Washington Business Journal |accessdate=May 6, 2017}}</ref> The grant was apparently given in January.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/01/OPP1018930 |publisher=Bill & Melinda Gates Foundation |title=Aeras |accessdate=May 6, 2017}}</ref>
+|-
 | 2012 || {{dts|August}} || || The Gates Foundation hosts a two-day Reinvent the Toilet Fair in Seattle, Washington.<ref name="gates_rttc" />
 |-
 | 2013 || {{dts|August 22}} || || The Gates Foundation announces the launch of Reinvent the Toilet Challenge: China.<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2013/08/Reinvent-the-Toilet-Challenge-Debuts-in-China |publisher=Bill & Melinda Gates Foundation |title=Reinvent the Toilet Challenge Debuts in China |accessdate=May 3, 2017}}</ref>
