@@ -2,6 +2,9 @@
 - md file name should not contain an underscore (since underscores have special meaning, used for _archive) -- use hyphens instead to separate words
 - md filename should not contain a period (since images and sitemaps have periods)
 - double quotes must not be in the title (use unicode if quoting is needed)
+- ampersand ("&") must not be in the title (use "and" instead)
+- left and right angle brackets must not be in title ("<" and ">"); there
+  should not be a need for this in the title. This is for og:title.
 - md pages must be in the directory wiki/ as a flat structure
 - md files must have the extension ".md"
 - use "date:" in YYYY-MM-DD format to specify the date of last substantive revision
