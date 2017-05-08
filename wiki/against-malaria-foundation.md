@@ -90,4 +90,8 @@ Overall I didn't get the impression that AMF is exceptional as an organization.
 It is somehow good at asking for things/asking a bunch of different people for
 things.
 
+# External links
+
+- [Vipul Naik shared the post on Facebook](https://www.facebook.com/vipulnaik.r/posts/10211866218306794)
+
 [job]: https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-IT-Developer "“The current five members of the AMF team are based in their home offices, and it would be ideal if the new IT Developer is able to do the same.”"
