@@ -4,6 +4,12 @@ This is a '''timeline of command-line interfaces'''.
 
 ==Full timeline==
 
+<!--
+* TODO add things like term mode, eshell, etc. for emacs
+* TODO add when terminal emulator added to neovim
+* TODO add ipython/jupyter console (as a "new generation" command-line interface, supporting multi-line input, graphics, syntax highlighting, etc., it is very interesting)
+-->
+
 {| class="sortable wikitable"
 |-
 ! Year !! Month and date !! Event type !! Details
