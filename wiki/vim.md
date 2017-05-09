@@ -465,6 +465,31 @@ benefits may outweigh the costs):
           exec "set t_fs=\<Esc>\\"
         endif
 
+    This is mostly a problem in tmux, where Vim doesn't set the title by
+    default.
+
+-   I want the following to work:
+
+        :w !diff % -
+        :w !diff % - | less
+
+    This essentially checks for the unsaved changes to the file, by comparing
+    the file on disk with the contents of the buffer (passed through standard
+    input).
+    The second line is an alternative that passes the output to `less`, so that
+    one can always scroll up and down.
+    Neovim's `:!` seems to be purposely limited to allow for compatibility
+    across operating systems (?).
+    Doing `:w :term ...` *should* work in the long run: there is an
+    [issue](https://github.com/neovim/neovim/issues/1716) in the Neovim repo on
+    this.
+
+    Fugitive's `:Git diff` seems to work on both Vim and Neovim, and I haven't
+    investigated how it does this.
+
+    Vim also has `:DiffOrig`, but I don't like having to get rid of the second
+    buffer.
+
 # Some intuitions
 
 I began using Vim at the latest in the summer of 2011.
