@@ -58,6 +58,20 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2015 || {{dts|September}} || || Empowering Effective Teachers, a Gates Foundation-funded education program in Hillsborough County, Florida, reaches the end of its seven-year time frame. Reporting on the end of the program, ''Nonprofit Quarterly'' concludes that "there is little evidence that student outcomes are better because of this investment".<ref>{{cite web |url=https://nonprofitquarterly.org/2015/09/28/another-gates-education-experiment-grinds-to-an-end-leaving-questionable-results-behind/ |title=Another Gates Education Experiment Grinds to an End, Leaving Questionable Results Behind |publisher=Nonprofit Quarterly |date=September 28, 2015 |accessdate=May 9, 2017}}</ref>
 |-
+| 2016 || {{dts|January}} || || The Gates Foundation awards a grant worth $1.55 billion to Gavi.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/01/OPP1131658 |publisher=Bill & Melinda Gates Foundation |title=OPP1131658 |accessdate=May 10, 2017}}</ref>
+|-
+| 2016 || {{dts|April}} || || The Gates Foundation awards a grant worth $100 million to the Islamic Development Bank.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/04/OPP1148968 |publisher=Bill & Melinda Gates Foundation |title=OPP1148968 |accessdate=May 10, 2017}}</ref>
+|-
+| 2016 || {{dts|May}} || || The Gates Foundation awards a grant worth $79 million to the Government of Japan for "to support eradication of Polio in Pakistan".<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/05/OPP1149708 |publisher=Bill & Melinda Gates Foundation |title=OPP1149708 |accessdate=May 10, 2017}}</ref>
+|-
+| 2016 || {{dts|May}} || || The Gates Foundation awards a grant worth $75 million to [[wikipedia:Innovative Vector Control Consortium|Innovative Vector Control Consortium]].<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/05/OPP1148615 |publisher=Bill & Melinda Gates Foundation |title=OPP1148615 |accessdate=May 10, 2017}}</ref>
+|-
+| 2016 || {{dts|July}} || || The Gates Foundation awards a grant worth $64 million to the Fred Hutchinson Cancer Research Center.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/07/OPP1148133 |publisher=Bill & Melinda Gates Foundation |title=OPP1148133 |accessdate=May 10, 2017}}</ref>
+|-
+| 2016 || {{dts|October}} || || The Gates Foundation awards a grant worth $210 million to the University of Washington Foundation.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/10/OPP1132348 |publisher=Bill & Melinda Gates Foundation |title=OPP1132348 |accessdate=May 10, 2017}}</ref>
+|-
+| 2016 || {{dts|November}} || || The Gates Foundation awards a grant worth $284 million to the Global Fund.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/11/OPP1105053 |publisher=Bill & Melinda Gates Foundation |title=OPP1105053 |accessdate=May 10, 2017}}</ref>
+|-
 | 2016 || {{dts|December}} || || Bill Gates announces Breakthrough Energy Ventures, part of [[wikipedia:Breakthrough Energy Coalition|Breakthrough Energy Coalition]].<ref>{{cite web |url=https://www.devex.com/news/what-will-it-take-for-the-new-gates-led-clean-energy-fund-to-be-a-breakthrough-89359 |publisher=Devex |title=What will it take for the new Gates-led clean energy fund to be a breakthrough? |date=December 23, 2016 |accessdate=May 1, 2017 |author=Catherine Cheney}}</ref>
 |-
 | 2017 || {{dts|March}} || || The Gates Foundation awards a grant worth $200 million to the Alliance for a Green Revolution in Africa.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2017/03/OPP1157288 |publisher=Bill & Melinda Gates Foundation |title=Alliance for a Green Revolution in Africa |accessdate=May 10, 2017}}</ref>
