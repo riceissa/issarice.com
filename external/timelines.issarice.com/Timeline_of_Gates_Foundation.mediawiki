@@ -54,6 +54,24 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2014 || {{dts|March}} || || The Gates Foundation co-hosts (with the Government of India's Department of Biotechnology) the second Reinvent the Toilet Fair, held in New Delhi, India.<ref name="gates_rttc" />
 |-
+| 2014 || {{dts|June}} || || The Gates Foundation awards a grant worth $241 million to Gavi.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/06/OPP1105858 |publisher=Bill & Melinda Gates Foundation |title=OPP1105858 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|June}} || || The Gates Foundation awards a grant worth $123 million to the United States Fund for UNICEF.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/06/OPP1107365 |publisher=Bill & Melinda Gates Foundation |title=OPP1107365 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|June}} || || The Gates Foundation awards a grant worth $50 million to Calibr.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/06/OPP1107194 |publisher=Bill & Melinda Gates Foundation |title=OPP1107194 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|September}} || || The Gates Foundation awards a grant worth $275 million to the World Health Organization.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/09/OPP1107076 |publisher=Bill & Melinda Gates Foundation |title=OPP1107076 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|September}} || || The Gates Foundation awards a grant worth $156 million to PATH.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/09/OPP1108403 |publisher=Bill & Melinda Gates Foundation |title=OPP1108403 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|September}} || || The Gates Foundation awards a grant worth $81 million to the Government of Japan "to procure OPV for the eradication of polio in Nigeria".<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/09/OPP1107518 |publisher=Bill & Melinda Gates Foundation |title=OPP1107518 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|September}} || || The Gates Foundation awards a grant worth $61 million to PATH Vaccine Solutions.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/09/OPP1112376 |publisher=Bill & Melinda Gates Foundation |title=OPP1112376 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|October}} || || The Gates Foundation awards a grant worth $60 million to the Drugs for Neglected Diseases initiative.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/10/OPP1111431 |publisher=Bill & Melinda Gates Foundation |title=OPP1111431 |accessdate=May 10, 2017}}</ref>
+|-
+| 2014 || {{dts|November}} || || The Gates Foundation awards a grant worth $51 million to the World Health Organization Pakistan Country Office.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2014/11/OPP1121164 |publisher=Bill & Melinda Gates Foundation |title=OPP1121164 |accessdate=May 10, 2017}}</ref>
+|-
 | 2015 || {{dts|March 18}} || || Bill Gates writes the op-ed "How to Fight the Next Epidemic" for ''The New York Times''.<ref>{{cite web |url=https://www.nytimes.com/2015/03/18/opinion/bill-gates-the-ebola-crisis-was-terrible-but-next-time-could-be-much-worse.html |date=March 18, 2015 |publisher=The New York Times |title=Opinion {{!}} Bill Gates: The Ebola Crisis Was Terrible. But Next Time Could Be Much Worse. |author=Bill Gates |accessdate=May 5, 2017}}</ref>
 |-
 | 2015 || {{dts|June}} || || The Gates Foundation awards a grant worth $164 million to Agence Française de Développement.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/06/OPP1132229 |publisher=Bill & Melinda Gates Foundation |title=OPP1132229 |accessdate=May 10, 2017}}</ref>
