@@ -36,8 +36,6 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2012 || || || The Gates Foundation opens a new office in Addis Ababa.<ref>{{cite web |url=http://www.gatesfoundation.org/Where-We-Work/Africa-Office/Focus-Countries/Ethiopia |publisher=Bill & Melinda Gates Foundation |title=Ethiopia |accessdate=May 8, 2017}}</ref>
 |-
-| 2012 || {{dts|January}} || || The Gates Foundation awards a grant worth $210 million to Aeras.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/01/OPP1018930 |publisher=Bill & Melinda Gates Foundation |title=OPP1018930 |accessdate=May 10, 2017}}</ref>
-|-
 | 2012 || {{dts|January 26}} || || Bill Gates writes the op-ed "The Truth About Foreign Aid" for ''The New York Times''.<ref>{{cite web |url=http://www.nytimes.com/2012/01/27/opinion/the-truth-about-foreign-aid.html |date=January 26, 2012 |publisher=The New York Times |title=Opinion {{!}} The Truth About Foreign Aid |author=Bill Gates |accessdate=May 5, 2017}}</ref>
 |-
 | 2012 || {{dts|February 4}} || || The Gates Foundation's public visitor center opens.<ref>{{cite web |url=http://www.seattlemag.com/why-new-gates-foundation-visitor-center-isnt-just-kids |title=Why the New Gates Foundation Visitor Center Isn't Just for Kids |publisher=Seattle Magazine |date=February 2, 2012 |accessdate=May 1, 2017}}</ref>
