@@ -32,6 +32,8 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2012 || || || The Gates Foundation opens a new office in Addis Ababa.<ref>{{cite web |url=http://www.gatesfoundation.org/Where-We-Work/Africa-Office/Focus-Countries/Ethiopia |publisher=Bill & Melinda Gates Foundation |title=Ethiopia |accessdate=May 8, 2017}}</ref>
 |-
+| 2012 || {{dts|January}} || || The Gates Foundation awards a grant worth $210 million to Aeras.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/01/OPP1018930 |publisher=Bill & Melinda Gates Foundation |title=OPP1018930 |accessdate=May 10, 2017}}</ref>
+|-
 | 2012 || {{dts|January 26}} || || Bill Gates writes the op-ed "The Truth About Foreign Aid" for ''The New York Times''.<ref>{{cite web |url=http://www.nytimes.com/2012/01/27/opinion/the-truth-about-foreign-aid.html |date=January 26, 2012 |publisher=The New York Times |title=Opinion {{!}} The Truth About Foreign Aid |author=Bill Gates |accessdate=May 5, 2017}}</ref>
 |-
 | 2012 || {{dts|February 4}} || || The Gates Foundation's public visitor center opens.<ref>{{cite web |url=http://www.seattlemag.com/why-new-gates-foundation-visitor-center-isnt-just-kids |publisher=Seattle Business Magazine |title=Why the New Gates Foundation Visitor Center Isn't Just for Kids |publisher=Seattle Magazine |date=February 2, 2012 |accessdate=May 1, 2017}}</ref>
@@ -40,9 +42,15 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2012 || {{dts|March}} || || The Gates Foundation commits up to $220 million over five years to Aeras, a nonprofit that develops vaccines for tuberculosis.<ref>{{cite web |url=http://www.bizjournals.com/washington/news/2012/03/14/gates-foundation-commits-220m-to-tb.html |date=March 15, 2012 |title=Bill & Melinda Gates Foundation to give $220 million to Aeras to fight tuberculosis |publisher=Washington Business Journal |accessdate=May 6, 2017}}</ref> The grant was apparently given in January.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/01/OPP1018930 |publisher=Bill & Melinda Gates Foundation |title=Aeras |accessdate=May 6, 2017}}</ref>
 |-
+| 2012 || {{dts|April}} || || The Gates Foundation awards a grant worth $89 million to the World Health Organization Nigeria Country Office.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/04/OPP1061545 |publisher=Bill & Melinda Gates Foundation |title=OPP1061545 |accessdate=May 10, 2017}}</ref>
+|-
 | 2012 || {{dts|July}} || || The London Summit on Family Planning takes place.<ref>{{cite web |url=http://www.gatesfoundation.org/Media-Center/Press-Releases/2012/07/Landmark-Summit-Puts-Women-at-Heart-of-Global-Health-Agenda |publisher=Bill & Melinda Gates Foundation |title=Landmark Summit Puts Women at Heart of Global Health Agenda |accessdate=May 9, 2017 |date=July 11, 2012}}</ref> The summit results in Family Planning 2020, a set of commitments regarding contraceptives. The Gates Foundation is one of the core partners of the summit.<ref>{{cite web |url=http://www.familyplanning2020.org/microsite/about-us |title=Family Planning 2020 |accessdate=May 9, 2017}}</ref>
 |-
 | 2012 || {{dts|August}} || || The Gates Foundation hosts a two-day Reinvent the Toilet Fair in Seattle, Washington.<ref name="gates_rttc" />
+|-
+| 2012 || {{dts|November}} || || The Gates Foundation awards a grant worth $59 million to PATH Vaccine Solutions.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/11/OPP1054296 |publisher=Bill & Melinda Gates Foundation |title=OPP1054296 |accessdate=May 10, 2017}}</ref>
+|-
+| 2012 || {{dts|November}} || || The Gates Foundation awards a grant worth $50 million to the World Health Organization.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/11/OPP1053393 |publisher=Bill & Melinda Gates Foundation |title=OPP1053393 |accessdate=May 10, 2017}}</ref>
 |-
 | 2013 || {{dts|January}} || || The Gates Foundation awards a grant worth $52 million to The One Campaign.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2013/01/OPP1065563 |publisher=Bill & Melinda Gates Foundation |title=OPP1065563 |accessdate=May 10, 2017}}</ref>
 |-
