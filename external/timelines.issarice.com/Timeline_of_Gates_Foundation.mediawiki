@@ -30,6 +30,10 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2011 || {{dts|November}} || || The Gates Foundation awards $51 million to Alliance for a Green Revolution in Africa.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2011/11/OPPGD1400 |publisher=Bill & Melinda Gates Foundation |title=Alliance for a Green Revolution in Africa |accessdate=May 5, 2017}}</ref>
 |-
+| 2011 || {{dts|November}} || || The Gates Foundation awards a grant worth $954 million to Gavi.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2011/11/OPP1045310 |publisher=Bill & Melinda Gates Foundation |title=OPP1045310 |accessdate=May 10, 2017}}</ref>
+|-
+| 2011 || {{dts|December}} || || The Gates Foundation awards a grant worth $750 million to the Global Fund.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2011/12/OPP1019422 |publisher=Bill & Melinda Gates Foundation |title=OPP1019422 |accessdate=May 10, 2017}}</ref>
+|-
 | 2012 || || || The Gates Foundation opens a new office in Addis Ababa.<ref>{{cite web |url=http://www.gatesfoundation.org/Where-We-Work/Africa-Office/Focus-Countries/Ethiopia |publisher=Bill & Melinda Gates Foundation |title=Ethiopia |accessdate=May 8, 2017}}</ref>
 |-
 | 2012 || {{dts|January}} || || The Gates Foundation awards a grant worth $210 million to Aeras.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2012/01/OPP1018930 |publisher=Bill & Melinda Gates Foundation |title=OPP1018930 |accessdate=May 10, 2017}}</ref>
