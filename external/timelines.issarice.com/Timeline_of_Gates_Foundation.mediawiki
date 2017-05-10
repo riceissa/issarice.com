@@ -56,7 +56,19 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 |-
 | 2015 || {{dts|March 18}} || || Bill Gates writes the op-ed "How to Fight the Next Epidemic" for ''The New York Times''.<ref>{{cite web |url=https://www.nytimes.com/2015/03/18/opinion/bill-gates-the-ebola-crisis-was-terrible-but-next-time-could-be-much-worse.html |date=March 18, 2015 |publisher=The New York Times |title=Opinion {{!}} Bill Gates: The Ebola Crisis Was Terrible. But Next Time Could Be Much Worse. |author=Bill Gates |accessdate=May 5, 2017}}</ref>
 |-
+| 2015 || {{dts|June}} || || The Gates Foundation awards a grant worth $164 million to Agence Française de Développement.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/06/OPP1132229 |publisher=Bill & Melinda Gates Foundation |title=OPP1132229 |accessdate=May 10, 2017}}</ref>
+|-
+| 2015 || {{dts|June}} || || The Gates Foundation awards a grant worth $72 million to Emory University.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/06/OPP1126780 |publisher=Bill & Melinda Gates Foundation |title=OPP1126780 |accessdate=May 10, 2017}}</ref>
+|-
 | 2015 || {{dts|September}} || || Empowering Effective Teachers, a Gates Foundation-funded education program in Hillsborough County, Florida, reaches the end of its seven-year time frame. Reporting on the end of the program, ''Nonprofit Quarterly'' concludes that "there is little evidence that student outcomes are better because of this investment".<ref>{{cite web |url=https://nonprofitquarterly.org/2015/09/28/another-gates-education-experiment-grinds-to-an-end-leaving-questionable-results-behind/ |title=Another Gates Education Experiment Grinds to an End, Leaving Questionable Results Behind |publisher=Nonprofit Quarterly |date=September 28, 2015 |accessdate=May 9, 2017}}</ref>
+|-
+| 2015 || {{dts|September}} || || The Gates Foundation awards a grant worth $89 million to Novavax, Inc.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/09/OPP1127647 |publisher=Bill & Melinda Gates Foundation |title=OPP1127647 |accessdate=May 10, 2017}}</ref>
+|-
+| 2015 || {{dts|October}} || || The Gates Foundation awards a grant worth $417 million to the Hispanic Scholarship Fund.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/10/OPP1139537 |publisher=Bill & Melinda Gates Foundation |title=OPP1139537 |accessdate=May 10, 2017}}</ref>
+|-
+| 2015 || {{dts|November}} || || The Gates Foundation awards a grant worth $145 million to Global Alliance for TB Drug Development.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/11/OPP1129600 |publisher=Bill & Melinda Gates Foundation |title=OPP1129600 |accessdate=May 10, 2017}}</ref>
+|-
+| 2015 || {{dts|November}} || || The Gates Foundation awards a grant worth $78 million to the International Bank for Reconstruction and Development.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2015/11/OPP1138782 |publisher=Bill & Melinda Gates Foundation |title=OPP1138782 |accessdate=May 10, 2017}}</ref>
 |-
 | 2016 || {{dts|January}} || || The Gates Foundation awards a grant worth $1.55 billion to Gavi.<ref>{{cite web |url=http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/01/OPP1131658 |publisher=Bill & Melinda Gates Foundation |title=OPP1131658 |accessdate=May 10, 2017}}</ref>
 |-
