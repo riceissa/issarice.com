@@ -149,6 +149,14 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 | 2017 || {{dts|April}} || || The Indian government blocks [[wikipedia:Public Health Foundation of India|Public Health Foundation of India]], a public health nonprofit, from receiving money from foreign donors. This block prevents the organization from receiving funding from the Gates Foundation.<ref>{{cite web |url=https://www.nytimes.com/2017/04/20/world/asia/india-health-nonprofit-gates-foundation.html?_r=0 |date=April 20, 2017 |publisher=[[wikipedia:The New York Times|The New York Times]] |title=India's Ban on Foreign Money for Health Group Hits Gates Foundation |author=Nida Najar |accessdate=May 9, 2017}}</ref><ref>{{cite web |url=http://www.newsweek.com/foreign-funding-threatened-india-modi-crackdown-intensifies-587303 |publisher=Newsweek |title=Why India is blocking funding from the Gates Foundation |date=April 21, 2017 |accessdate=May 9, 2017 |author=Eleanor Ross}}</ref>
 |}
 
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
 ==See also==
 
 * [[Timeline of global health]]
