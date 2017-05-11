@@ -154,9 +154,20 @@ This is a '''timeline of the Bill & Melinda Gates Foundation'''. This timeline c
 
 ===How the timeline was built===
 
+The initial timeline was built by [[User:Issa|Issa Rice]]. Sources for events included:
+
+* Finding all grants worth at least $50 million
+* Gates Foundation [http://www.gatesfoundation.org/Who-We-Are/General-Information/History history page], which lists a small number of events
+* Bill Gates's op-eds
+* Looking through [http://www.gatesfoundation.org/Media-Center/Press-Releases Gates Foundation press releases] to see if anything seemed important (over 200 press releases for the period of interest)
+* Using Google and Google News search with filtered time period to find events that received a lot of news coverage
+
 ===What the timeline is still missing===
 
-===Timeline update strategy===
+* A big picture section, once there is a clearer idea of what the foundation has been up to
+* More digging through Gates Foundation press releases page (only got to September 2012 working toward the present)
+* More digging through news coverage
+* More comprehensive coverage based on cause areas
 
 ==See also==
 
