@@ -1,7 +1,0 @@
-# I don't want pages in /_archive to clutter up search engine results pages,
-# since most of them just contain the same content as that in the current
-# versions. If you really want to read pages in /_archive, or want to link to
-# a permanent version, then you can always visit
-# <https://issarice.com/_archive/>.
-User-agent: *
-Disallow: /_archive
