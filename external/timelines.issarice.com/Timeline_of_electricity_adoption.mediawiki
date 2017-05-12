@@ -12,6 +12,8 @@ This is a '''timeline of electricity adoption'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1882 || {{dts|September 4}} || || [[wikipedia:Pearl Street Station|Pearl Street Station]] begins generating electricity.
+|-
 | 2000 || {{dts|April}} || || [[wikipedia:California electricity crisis|California electricity crisis]]
 |}
 
