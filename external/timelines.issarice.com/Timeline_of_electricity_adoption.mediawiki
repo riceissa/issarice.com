@@ -12,6 +12,7 @@ This is a '''timeline of electricity adoption'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2000 || {{dts|April}} || || [[wikipedia:California electricity crisis|California electricity crisis]]
 |}
 
 ==Meta information on the timeline==
