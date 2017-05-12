@@ -17,7 +17,7 @@ EOF
 grep -m 1 -e '^date: ' wiki/* | \
     sed -n 's/\([^:]\+\):date: \(.*\)/\2 \1/p' | \
     sort -r | \
-    sed 100q | \
+    sed 30q | \
     while read line; do
         # echo $line | filename=`sed -n 's/[^ ] \(.*\)/\1/p'`
         filename=`echo $line | sed -n 's/[^ ]\+ \(.*\)/\1/p'`
@@ -30,6 +30,9 @@ grep -m 1 -e '^date: ' wiki/* | \
         echo '    <link href="https://issarice.com/'"$base"'"/>'
         echo "    <id>tag:issarice.com,$date:/$base</id>"
         echo "    <updated>$date""T00:00:00$(date +'%:z')</updated>"
+        echo '    <content type="html"><![CDATA['
+        pandoc -f markdown -t html5 --smart --toc --toc-depth=4 --base-header-level=2 --filter generator/url_filter.py $filename
+        echo "    ]]></content>"
         echo "  </entry>"
 
         # Write the actual markdown bullet
