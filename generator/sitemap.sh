@@ -8,7 +8,7 @@ EOF
 for file in wiki/*
     do cat <<EOF  >> _site/sitemap.xml
 <url>
-  <loc>http://issarice.com/$(basename $file .md)</loc>
+  <loc>https://issarice.com/$(basename $file .md)</loc>
   <changefreq>weekly</changefreq>
 </url>
 EOF
