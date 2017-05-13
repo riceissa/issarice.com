@@ -10,7 +10,7 @@ I find it slower than Google Chrome (which I use for
 [Facebook](wiki/facebook.md), Gmail, and /g/), but find its address bar and some
 plugins more useful.
 
-# Plugins
+# Extensions
 
 - Decentraleyes
 - DOM Inspector
@@ -18,11 +18,11 @@ plugins more useful.
 - HTTPS Everywhere
 - It's All Text!
 - NoScript (should I switch to μMatrix?)
-- Open With
 - Privacy Badger
 - ScrapBook X
 - uBlock Origin
 - Ubuntu Modifications (came with Ubuntu)
+- VimFx
 - Web Developer (for viewing the generated HTML source)
 - Zotero
 
