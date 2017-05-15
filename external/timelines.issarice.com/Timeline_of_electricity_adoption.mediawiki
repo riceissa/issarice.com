@@ -16,6 +16,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1878 || {{dts|December 18}} || || Joseph Swan demonstrates that "a carbon filament in an evacuated glass globe would glow when an electric current was passed through it". This allows for electric lighting that is not excessively bright.<ref name="hannah" />{{rp|4}}
 |-
+| 1879 || {{dts|June 28}} || || [[wikipedia:AC motor#History|Walter Baily demonstrates]] an AC motor to the [[wikipedia:Physical Society of London|Physical Society of London]].
+|-
 | 1881 || {{dts|September}} || || [[wikipedia:Godalming|Godalming]] becomes the [[wikipedia:Godalming#Public electricity supply|first town in the world with a public electricity supply]]. The central station here is water-powered.<ref name="hannah" />
 |-
 | 1882 || || || The Electric Lighting Act of 1882 is passed. This act allows for the creation of a public electricity supply by breaking up (i.e. digging up and temporarily removing) streets in order to place pipes.<ref name="hannah" />{{rp|5}}<ref>{{cite web |url=https://books.google.com/books?id=EboDAAAAQAAJ&pg=PA73#v=onepage&q=break%20up&f=false |title=The Electric Lighting Act 1882 |first1=W. Cunningham |last1=Glen |first2=Alex |last2=Glen}}</ref> || United Kingdom
