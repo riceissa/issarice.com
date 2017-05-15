@@ -496,6 +496,10 @@ benefits may outweigh the costs):
     where `^Z` and `<80>` are single characters.
     Pasting with `p` in normal mode and `<C-R><C-O>` in insert mode work.
 
+-   With `set inccommand=split`, if the line contains multibyte characters,
+    sometimes the characters are not shown; rather, partial bytes like
+    `<e6><9c>` are shown (but the substitution itself seems to work fine).
+
 # Some intuitions
 
 I began using Vim at the latest in the summer of 2011.
