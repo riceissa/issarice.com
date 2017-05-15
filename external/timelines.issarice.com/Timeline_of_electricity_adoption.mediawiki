@@ -10,13 +10,13 @@ This is a '''timeline of electricity adoption'''.
 ==Full timeline==
 
 {| class="sortable wikitable"
-! Year !! Month and date !! Event type !! Details
+! Year !! Month and date !! Event type !! Details !! Location
 |-
 | 1831 || || || Michael Faraday announces his discovery of electromagnetic induction.<ref name="hannah">{{cite book |first=Leslie |last=Hannah |title=Electricity Before Nationalisation: A Study of the Development of The Electricity Supply Industry in Britain to 1948 |year=1979 |publisher=The Macmillan Press LTD}}</ref>{{rp|3}}
 |-
 | 1878 || {{dts|December 18}} || || Joseph Swan demonstrates that "a carbon filament in an evacuated glass globe would glow when an electric current was passed through it". This allows for electric lighting that is not excessively bright.<ref name="hannah" />{{rp|4}}
 |-
-| 1882 || || || The Electric Lighting Act of 1882 is passed. This act allows for the creation of a public electricity supply by breaking up (i.e. digging up and temporarily removing) streets in order to place pipes.<ref name="hannah" />{{rp|5}}<ref>{{cite web |url=https://books.google.com/books?id=EboDAAAAQAAJ&pg=PA73#v=onepage&q=break%20up&f=false |title=The Electric Lighting Act 1882 |first1=W. Cunningham |last1=Glen |first2=Alex |last2=Glen}}</ref>
+| 1882 || || || The Electric Lighting Act of 1882 is passed. This act allows for the creation of a public electricity supply by breaking up (i.e. digging up and temporarily removing) streets in order to place pipes.<ref name="hannah" />{{rp|5}}<ref>{{cite web |url=https://books.google.com/books?id=EboDAAAAQAAJ&pg=PA73#v=onepage&q=break%20up&f=false |title=The Electric Lighting Act 1882 |first1=W. Cunningham |last1=Glen |first2=Alex |last2=Glen}}</ref> || United Kingdom
 |-
 | 1882 || {{dts|January 12}} || || [[wikipedia:Holborn Viaduct power station|Holborn Viaduct power station]] begins running.
 |-
