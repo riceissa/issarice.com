@@ -46,7 +46,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1936 || {{dts|May 20}} || || The [[wikipedia:Rural Electrification Act|Rural Electrification Act]] is enacted. || United States
 |-
-| 1978 || || || [[wikipedia:Economy 7|Economy 7]] is introduced in the United Kingdom. || United Kingdom
+| 1978 || {{dts|October}} || || [[wikipedia:Economy 7|Economy 7]] is introduced in the United Kingdom. || United Kingdom
 |-
 | 2000 || {{dts|April}} || || [[wikipedia:California electricity crisis|California electricity crisis]]
 |}
