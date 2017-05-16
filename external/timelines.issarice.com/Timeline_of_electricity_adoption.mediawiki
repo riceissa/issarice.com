@@ -38,6 +38,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1889 || || || [[North Eastern Electric Supply Company|NESCo]] is founded by [[wikipedia:John Theodore Merz|John Theodore Merz]] as Newcastle upon Tyne Electric Supply Company.
 |-
+| 1893 || || || The [[wikipedia:Toaster#History|first electric bread toaster is invented]] by [[wikipedia:Alan MacMasters|Alan MacMasters]]. || United Kingdom
+|-
 | 1897 || || || By this time, the United States has electrified almost 90% of its tramway mileage.<ref name="hannah" />{{rp|15}} || United States
 |-
 | 1905 || || || By this time, Britain has electrified almost 90% of its tramway mileage.<ref name="hannah" />{{rp|15}} || United Kingdom
