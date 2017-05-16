@@ -490,13 +490,15 @@ benefits may outweigh the costs):
     Vim also has `:DiffOrig`, but I don't like having to get rid of the second
     buffer.
 
--   Pasting multibyte characters with `<C-R>"` in insert mode does not work.
+-   (Fixed in latest.)
+    Pasting multibyte characters with `<C-R>"` in insert mode does not work.
     For instance, with the cursor on `木`, doing `vyo<C-R>"a` results in
     `<t_^Z<80>>^Z<t_^Za>` being printed on a new line,
     where `^Z` and `<80>` are single characters.
     Pasting with `p` in normal mode and `<C-R><C-O>` in insert mode work.
 
--   With `set inccommand=split`, if the line contains multibyte characters,
+-   (Fixed in latest.)
+    With `set inccommand=split`, if the line contains multibyte characters,
     sometimes the characters are not shown; rather, partial bytes like
     `<e6><9c>` are shown (but the substitution itself seems to work fine).
 
