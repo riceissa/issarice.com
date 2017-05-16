@@ -48,6 +48,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1905 || || || By this time, Britain has electrified almost 90% of its tramway mileage.<ref name="hannah" />{{rp|15}} || United Kingdom
 |-
+| 1906 || || || The [[wikipedia:Induction cooking#History|first patents for induction cooking]] date back to around this time. However, modern implementations would arrive only in the 1970s.
+|-
 | 1907 || || || The [[wikipedia:Vacuum cleaner#Domestic vacuum cleaner|first portable electric vacuum cleaner is invented]]. || United States
 |-
 | 1914 || || || The [[wikipedia:Refrigerator#Domestic refrigerator|first practical electric refrigerator]] is created around this time.
