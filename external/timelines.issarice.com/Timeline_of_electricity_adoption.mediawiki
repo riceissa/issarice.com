@@ -52,6 +52,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1907 || || || The [[wikipedia:Vacuum cleaner#Domestic vacuum cleaner|first portable electric vacuum cleaner is invented]]. || United States
 |-
+| 1910s–1920s || || || The first electric dishwasher is produced around this time. [[wikipedia:Dishwasher#History|Wikipedia shows]] a photo of one from "about 1917". Some other sources credit "the Walker brothers" in 1913.<ref>{{cite web |url=http://www.jitterbuzz.com/aplsho.html |title=A Visit to a 1930s Appliance Show |accessdate=May 16, 2017 |quote=In 1913 when the Walker Brothers hardware store was wired for electricity they produced thier first electric dishwasher.}}</ref> By the mid-1920s, there are companies dedicated to manufacturing electric dishwashers.<ref>{{cite web |url=http://www.wisconsinhistory.org/Content.aspx?dsNav=N:4294963828-4294963805&dsRecordDetails=R:CS2619 |title=Early Electric Dishwasher |publisher=Wisconsin Historical Society |accessdate=May 16, 2017}}</ref>
+|-
 | 1914 || || || The [[wikipedia:Refrigerator#Domestic refrigerator|first practical electric refrigerator]] is created around this time.
 |-
 | 1935 || || || The [[wikipedia:Rural Utilities Service#Rural Electrification Administration|Rural Electrification Administration]] is created as part of the [[wikipedia:New Deal|New Deal]]. || United States
