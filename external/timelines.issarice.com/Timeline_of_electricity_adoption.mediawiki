@@ -66,6 +66,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1936 || {{dts|May 20}} || || The [[wikipedia:Rural Electrification Act|Rural Electrification Act]] is enacted. || United States
 |-
+| 1946 || || || Electricity production and distribution in France is nationalized.<ref>{{cite web |url=http://ethw.org/w/images/c/c2/Beltran%2C_Competitiveness_and_Electricity.pdf |title=Competitiveness and Electricity: Electricité de France Since 1946 |first=Alain |last=Beltran}}</ref>{{rp|315}} || France
+|-
 | 1947 || || || The [[wikipedia:Microwave oven#Commercial availability|microwave oven becomes commercially available]].
 |-
 | 1948 || {{dts|April 1}} || || In Britain, the [[wikipedia:Electricity Act 1947|Electricity Act 1947]] nationalizes the electricity generation and supply industry. The act would be repealed in 1989 with the [[wikipedia:Electricity Act 1989|Electricity Act 1989]]. || United Kingdom
