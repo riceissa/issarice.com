@@ -22,7 +22,9 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1879 || {{dts|June 28}} || || [[wikipedia:AC motor#History|Walter Baily demonstrates]] an AC motor to the [[wikipedia:Physical Society of London|Physical Society of London]].
 |-
-| 1879 || {{dts|November 1}} || || Thomas Edison's carbon-filament incandescent lamp is patented.<ref>{{cite web |url=http://ethw.org/Edison%27s_Incandescent_Lamp |title=Edison's Incandescent Lamp |website=Engineering and Technology History Wiki |accessdate=May 17, 2017}}</ref>
+| 1879 || {{dts|November 1}} || || Thomas Edison's carbon-filament incandescent lamp is patented.<ref name="edison_lamp">{{cite web |url=http://ethw.org/Edison%27s_Incandescent_Lamp |title=Edison's Incandescent Lamp |website=Engineering and Technology History Wiki |accessdate=May 17, 2017}}</ref>
+|-
+| 1880 || || || [[wikipedia:Joseph Swan|Joseph Swan]] obtains a British patent for his incandescent light bulb.<ref name="edison_lamp" />
 |-
 | 1880–1883 || || || The [[wikipedia:History of trams#Electric trams|first electric trams begin operating]] in Russia (1880), Germany (1881), Britain (1883), and Austria (1883).
 |-
