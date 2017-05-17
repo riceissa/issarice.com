@@ -125,6 +125,9 @@ compensation.
 From [MIRI grant writeup](http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support):
 Paul Christiano, Jacob Steinhardt, Christopher Olah, and Dario Amodei.
 
+[Kevin Esvelt](http://www.openphilanthropy.org/focus/scientific-research/miscellaneous/target-malaria-general-support#Relationship_disclosures),
+scientific advisor.
+
 # External links
 
 - [Discussion on Facebook](https://www.facebook.com/vipulnaik.r/posts/10211496559905565)
