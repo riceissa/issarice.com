@@ -44,7 +44,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1883 || {{dts|March 13}} || || The German Edison company, known as ''Deutsche Edison-Gesellschaft für angewandte Elektricität'' at the time, is founded by [[wikipedia:Emil Rathenau|Emil Rathenau]].<ref name="hughes" /> The company would later be renamed to [[wikipedia:AEG|AEG]].
 |-
-| 1883 || {{dts|October}} || || The English Edison Company and Swan Electric Light Company merge.<ref name="hughes" />{{rp|62}}
+| 1883 || {{dts|October}} || || The English Edison Company and Swan Electric Light Company merge to form the Edison and Swan United Electric Light Company, Ltd.<ref name="hughes" />{{rp|62}}<ref name="edisons_companies" />
 |-
 | 1884 || || || The modern [[wikipedia:Steam turbine|steam turbine]] is invented by [[wikipedia:Charles Algernon Parsons|Charles Parsons]]. A production model would be installed in the Forth Banks power station in Newcastle in 1888.<ref name="hannah" />{{rp|13}}
 |-
