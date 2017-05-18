@@ -34,7 +34,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1882 || {{dts|January 12}} || || [[wikipedia:Holborn Viaduct power station|Holborn Viaduct power station]] begins running. It is steam-powered.<ref name="hannah" />{{rp|7}} || United Kingdom (London)
 |-
-| 1882 || {{dts|September 4}} || || [[wikipedia:Pearl Street Station|Pearl Street Station]] begins generating electricity.
+| 1882 || {{dts|September 4}} || || [[wikipedia:Pearl Street Station|Pearl Street Station]] begins generating electricity.<ref>{{cite web |url=http://edison.rutgers.edu/list.htm |title=Edison's Companies |website=The Edison Papers |publisher=Rutgers University |date=October 28, 2016 |accessdate=May 18, 2017}}</ref>
 |-
 | 1883 || {{dts|March 13}} || || The German Edison company, known as ''Deutsche Edison-Gesellschaft für angewandte Elektricität'' at the time, is founded by [[wikipedia:Emil Rathenau|Emil Rathenau]].<ref name="hughes" /> The company would later be renamed to [[wikipedia:AEG|AEG]].
 |-
