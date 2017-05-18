@@ -44,6 +44,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1882 || {{dts|September 4}} || || [[wikipedia:Pearl Street Station|Pearl Street Station]] begins generating electricity.<ref name="edisons_companies">{{cite web |url=http://edison.rutgers.edu/list.htm |title=Edison's Companies |website=The Edison Papers |publisher=Rutgers University |date=October 28, 2016 |accessdate=May 18, 2017}}</ref>
 |-
+| 1883 || || || The [[wikipedia:Thomson-Houston Electric Company|Thomson-Houston Electric Company]] is established.<ref>{{cite web |url=http://home.frognet.net/~ejcov/1884-1893.html |title=The Thomson-Houston Electric Incandescent Lamp, 1884-1893 |author=Edward J. Covington |accessdate=May 18, 2017 |quote=The Thomson-Houston Company had been formed in 1883 to produce dynamos and arc lighting; it succeeded the American Electric Company, which had been formed in the year 1880.}}</ref>
+|-
 | 1883 || {{dts|March 13}} || || The German Edison company, known as ''Deutsche Edison-Gesellschaft für angewandte Elektricität'' at the time, is founded by [[wikipedia:Emil Rathenau|Emil Rathenau]].<ref name="hughes" /> The company would later be renamed to [[wikipedia:AEG|AEG]].
 |-
 | 1883 || {{dts|October}} || || The English Edison Company and Swan Electric Light Company merge to form the Edison and Swan United Electric Light Company, Ltd.<ref name="hughes" />{{rp|62}}<ref name="edisons_companies" />
