@@ -44,7 +44,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1886 || {{dts|January 8}} || || The [[wikipedia:Westinghouse Electric Corporation|Westinghouse Electric Corporation]] is founded as Westinghouse Electric Company.
 |-
-| 1886 || {{dts|November 30}} || || The first commercial alternating current central station in the United States begins operating.<ref>{{cite web |url=http://ethw.org/Early_Electrification_of_Buffalo#cite_ref-1 |title=Early Electrification of Buffalo |website=Engineering and Technology History Wiki |accessdate=May 18, 2017}}</ref>
+| 1886 || {{dts|November 30}} || || The first commercial alternating current central station in the United States begins operating.<ref>{{cite web |url=http://ethw.org/Early_Electrification_of_Buffalo#cite_ref-1 |title=Early Electrification of Buffalo |website=Engineering and Technology History Wiki |accessdate=May 18, 2017}}</ref> || United States (Buffalo, New York)
 |-
 | 1888 || {{dts|June 28}} || || The Electric Lighting Act of 1888 is enacted. This act amends the act from 1882 by extending the tenure for private companies from twenty-one to forty-two years.<ref name="hughes" />{{rp|64}} || United Kingdom
 |-
