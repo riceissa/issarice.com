@@ -14,6 +14,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1800 || || || [[wikipedia:Alessandro Volta|Alessandro Volta]] develops the first battery.<ref>{{cite web |url=http://www.lafavre.us/brush/lamparc.htm |title=Brush's Arc Lamp |author=Jeffrey La Favre |year=1998 |accessdate=May 18, 2017}}</ref>
 |-
+| 1802–1809 || || || Sometime during this period, [[wikipedia:Humphry Davy|Humphry Davy]] [[wikipedia:Arc lamp#History|first demonstrates the arc lamp]].
+|-
 | 1816 || || || The [[wikipedia:Electrical telegraph#First working systems|first working electrical telegraph]] is built by [[wikipedia:Francis Ronalds|Francis Ronalds]].
 |-
 | 1831 || || || Michael Faraday announces his discovery of electromagnetic induction.<ref name="hannah">{{cite book |first=Leslie |last=Hannah |title=Electricity Before Nationalisation: A Study of the Development of The Electricity Supply Industry in Britain to 1948 |year=1979 |publisher=The Macmillan Press LTD}}</ref>{{rp|3}}
