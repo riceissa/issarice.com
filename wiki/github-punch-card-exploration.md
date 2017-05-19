@@ -2,7 +2,7 @@
 title: GitHub punch card exploration
 author: Issa Rice
 created: 2017-05-18
-date: 2017-05-18
+date: 2017-05-19
 ---
 
 # Summary
