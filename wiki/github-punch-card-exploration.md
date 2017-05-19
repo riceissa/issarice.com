@@ -140,6 +140,24 @@ weekdays):
 
 [![](punch-card-vipulnaik-donations.png)](punch-card-vipulnaik-donations.png)
 
+Some quick impressions from the plots (ideally I could spend more time looking
+at even more plots to reach more robust conclusions, but I don't know if I want
+to do that):
+
+-   Generally speaking, projects that are done as part of people's day jobs
+    have a strong trail of commits on weekdays with a much less pronounced
+    trail on weekends.
+    The extreme case of this is when a "box" appears so that even on weekdays
+    there are clear hours of work  (e.g. on mod_pagespeed, Redis, and Lua).
+-   Projects like Neovim have diverse contributors, most (all?) of whom work on
+    it as a hobby, so the weekdays and weekends look similar.
+    Bootstrap also has a strong trail on weekends, even though it was supposedly
+    developed at Twitter; I don't know enough about the project to say if the
+    commit pattern is odd.
+-   Dotfiles repositories are all over the place, which I suppose makes sense
+    because they are generally created by individuals and commits are made
+    whenever convenient.
+
 # Acknowledgments
 
 Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
