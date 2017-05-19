@@ -103,6 +103,10 @@ weekdays):
 
 [![](punch-card-gwern-gwern-net.png)](punch-card-gwern-gwern-net.png)
 
+[Eevee's website](https://github.com/eevee/eev.ee/graphs/punch-card):
+
+[![](punch-card-eevee-eev-ee.png)](punch-card-eevee-eev-ee.png)
+
 # Acknowledgments
 
 Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
