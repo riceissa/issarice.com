@@ -157,6 +157,8 @@ to do that):
 -   Dotfiles repositories are all over the place, which I suppose makes sense
     because they are generally created by individuals and commits are made
     whenever convenient.
+-   vimtex looks like an "evening project" that the author works on after work,
+    but I don't know enough about the project to know if this is true.
 
 # Acknowledgments
 
