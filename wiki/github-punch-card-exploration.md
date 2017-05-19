@@ -125,11 +125,6 @@ weekdays):
 
 [![](punch-card-lervag-vimtex.png)](punch-card-lervag-vimtex.png)
 
-[wikipediaviews](https://github.com/vipulnaik/wikipediaviews/graphs/punch-card)
-(~400 commits):
-
-[![](punch-card-vipulnaik-wikipediaviews.png)](punch-card-vipulnaik-wikipediaviews.png)
-
 [Vipul Naik's contract work repo](https://github.com/vipulnaik/contractwork/graphs/punch-card)
 (~1,000 commits):
 
