@@ -27,3 +27,8 @@ However, even for older projects a weekday/weekend split should be observable.
 [Neovim](https://github.com/neovim/neovim/graphs/punch-card):
 
 [![](punch-card-neovim-neovim.png)](punch-card-neovim-neovim.png)
+
+# External links
+
+- Similar graphs are available for Wikipedia contributions,
+  e.g. [my account](https://tools.wmflabs.org/xtools-ec/?user=Riceissa&project=en.wikipedia.org#timecard)
