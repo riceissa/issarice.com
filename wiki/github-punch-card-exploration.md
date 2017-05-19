@@ -5,8 +5,12 @@ created: 2017-05-18
 date: 2017-05-18
 ---
 
+# Summary
+
 Each repository on GitHub has a punch card graph under `/graphs/punch-card`.
 This page looks at the punch card graphs of some projects.
+
+# Timezone issues
 
 Note that apparently contribution graphs on GitHub are [only timezone-aware after
 2014-03-10](https://github.com/blog/1793-timezone-aware-contribution-graphs):
@@ -31,6 +35,8 @@ filter out the older commits, just to be sure that timezone nonsense does
 not affect the results (or to use something like [Git-Pandas](https://github.com/wdm0006/git-pandas)
 to generate the punch cards oneself).
 However, even for older projects a weekday/weekend split should be observable.
+
+# Plots
 
 The images below are screenshots that I took from the respective repositories;
 credit goes to GitHub for producing them.
@@ -89,6 +95,14 @@ contrast with the Neovim graph):
 [Drew Neil dotfiles](https://github.com/nelstrom/dotfiles/graphs/punch-card):
 
 [![](punch-card-nelstrom-dotfiles.png)](punch-card-nelstrom-dotfiles.png)
+
+# Acknowledgments
+
+Thanks to Vipul Naik for suggesting that I write something up about GitHub
+punch cards.
+He also allowed me to count the time I spent on this page toward my work hours,
+for which I receive a [stipend](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki#Stipends)
+(however he did not provide task payment beyond this stipend).
 
 # External links
 
