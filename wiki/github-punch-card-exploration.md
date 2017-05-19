@@ -56,6 +56,10 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-antirez-redis.png)](punch-card-antirez-redis.png)
 
+[Lua](https://github.com/lua/lua/graphs/punch-card):
+
+[![](punch-card-lua-lua.png)](punch-card-lua-lua.png)
+
 # External links
 
 - Similar graphs are available for Wikipedia contributions,
