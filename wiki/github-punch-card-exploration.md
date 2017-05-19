@@ -135,7 +135,8 @@ weekdays):
 
 [![](punch-card-vipulnaik-contractwork.png)](punch-card-vipulnaik-contractwork.png)
 
-[Vipul Naik's working drafts](https://github.com/vipulnaik/working-drafts/graphs/punch-card):
+[Vipul Naik's working drafts](https://github.com/vipulnaik/working-drafts/graphs/punch-card)
+(~1,000 commits):
 
 [![](punch-card-vipulnaik-working-drafts.png)](punch-card-vipulnaik-working-drafts.png)
 
