@@ -40,6 +40,10 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-twbs-bootstrap.png)](punch-card-twbs-bootstrap.png)
 
+[React](https://github.com/facebook/react/graphs/punch-card):
+
+[![](punch-card-facebook-react.png)](punch-card-facebook-react.png)
+
 # External links
 
 - Similar graphs are available for Wikipedia contributions,
