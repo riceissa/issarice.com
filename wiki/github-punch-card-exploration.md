@@ -36,6 +36,10 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-torvalds-linux.png)](punch-card-torvalds-linux.png)
 
+[Git](https://github.com/git/git/graphs/punch-card):
+
+[![](punch-card-git-git.png)](punch-card-git-git.png)
+
 [Bootstrap](https://github.com/twbs/bootstrap/graphs/punch-card):
 
 [![](punch-card-twbs-bootstrap.png)](punch-card-twbs-bootstrap.png)
