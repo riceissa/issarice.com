@@ -130,6 +130,11 @@ weekdays):
 
 [![](punch-card-vipulnaik-wikipediaviews.png)](punch-card-vipulnaik-wikipediaviews.png)
 
+[Vipul Naik's contract work repo](https://github.com/vipulnaik/contractwork/graphs/punch-card)
+(~1,000 commits):
+
+[![](punch-card-vipulnaik-contractwork.png)](punch-card-vipulnaik-contractwork.png)
+
 # Acknowledgments
 
 Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
