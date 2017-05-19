@@ -32,6 +32,10 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-pagespeed-mod_pagespeed.png)](punch-card-pagespeed-mod_pagespeed.png)
 
+[Linux kernel](https://github.com/torvalds/linux/graphs/punch-card):
+
+[![](punch-card-torvalds-linux.png)](punch-card-torvalds-linux.png)
+
 # External links
 
 - Similar graphs are available for Wikipedia contributions,
