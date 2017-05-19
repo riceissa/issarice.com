@@ -32,6 +32,10 @@ not affect the results (or to use something like [Git-Pandas](https://github.com
 to generate the punch cards oneself).
 However, even for older projects a weekday/weekend split should be observable.
 
+The images below are screenshots that I took from the respective repositories;
+credit goes to GitHub for producing them.
+The screenshots were taken on 2017-05-18 and 2017-05-19.
+
 [Neovim](https://github.com/neovim/neovim/graphs/punch-card):
 
 [![](punch-card-neovim-neovim.png)](punch-card-neovim-neovim.png)
