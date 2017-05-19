@@ -101,8 +101,8 @@ weekdays):
 
 # Acknowledgments
 
-Thanks to Vipul Naik for suggesting that I write something up about GitHub
-punch cards.
+Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
+something up about GitHub punch cards.
 He also allowed me to count the time I spent on this page toward my work hours,
 for which I receive a [stipend](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki#Stipends)
 (however he did not provide task payment beyond this stipend).
