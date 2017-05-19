@@ -99,6 +99,10 @@ weekdays):
 
 [![](punch-card-nelstrom-dotfiles.png)](punch-card-nelstrom-dotfiles.png)
 
+[gwern.net](https://github.com/gwern/gwern.net/graphs/punch-card):
+
+[![](punch-card-gwern-gwern-net.png)](punch-card-gwern-gwern-net.png)
+
 # Acknowledgments
 
 Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
