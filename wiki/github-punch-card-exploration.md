@@ -42,72 +42,86 @@ The images below are screenshots that I took from the respective repositories;
 credit goes to GitHub for producing them.
 The screenshots were taken on 2017-05-18 and 2017-05-19.
 
-[Neovim](https://github.com/neovim/neovim/graphs/punch-card):
+[Neovim](https://github.com/neovim/neovim/graphs/punch-card)
+(~9,000 commits):
 
 [![](punch-card-neovim-neovim.png)](punch-card-neovim-neovim.png)
 
 [Vim](https://github.com/vim/vim/graphs/punch-card)
-(only Bram Moolenaar seems to have commit privileges, so this provides a
+(~7,000 commits; only Bram Moolenaar seems to have commit privileges, so this provides a
 contrast with the Neovim graph):
 
 [![](punch-card-vim-vim.png)](punch-card-vim-vim.png)
 
-[mod_pagespeed](https://github.com/pagespeed/mod_pagespeed/graphs/punch-card):
+[mod_pagespeed](https://github.com/pagespeed/mod_pagespeed/graphs/punch-card)
+(~5,000 commits):
 
 [![](punch-card-pagespeed-mod_pagespeed.png)](punch-card-pagespeed-mod_pagespeed.png)
 
-[Linux kernel](https://github.com/torvalds/linux/graphs/punch-card):
+[Linux kernel](https://github.com/torvalds/linux/graphs/punch-card)
+(~678,000 commits):
 
 [![](punch-card-torvalds-linux.png)](punch-card-torvalds-linux.png)
 
-[Git](https://github.com/git/git/graphs/punch-card):
+[Git](https://github.com/git/git/graphs/punch-card)
+(~47,000 commits):
 
 [![](punch-card-git-git.png)](punch-card-git-git.png)
 
-[Bootstrap](https://github.com/twbs/bootstrap/graphs/punch-card):
+[Bootstrap](https://github.com/twbs/bootstrap/graphs/punch-card)
+(~16,000 commits):
 
 [![](punch-card-twbs-bootstrap.png)](punch-card-twbs-bootstrap.png)
 
-[React](https://github.com/facebook/react/graphs/punch-card):
+[React](https://github.com/facebook/react/graphs/punch-card)
+(~9,000 commits):
 
 [![](punch-card-facebook-react.png)](punch-card-facebook-react.png)
 
 [Redis](https://github.com/antirez/redis/graphs/punch-card)
-(Salvatore Sanfilippo's commits [dominate the repository by far](https://github.com/antirez/redis/graphs/contributors),
+(~6,000 commits; Salvatore Sanfilippo's commits [dominate the repository by far](https://github.com/antirez/redis/graphs/contributors),
 and he [works on Redis as his day job][antirez], so a clear 9am--6pm "box" appears on
 weekdays):
 
 [![](punch-card-antirez-redis.png)](punch-card-antirez-redis.png)
 
-[Lua](https://github.com/lua/lua/graphs/punch-card):
+[Lua](https://github.com/lua/lua/graphs/punch-card)
+(~5,000 commits):
 
 [![](punch-card-lua-lua.png)](punch-card-lua-lua.png)
 
-[Go](https://github.com/golang/go/graphs/punch-card):
+[Go](https://github.com/golang/go/graphs/punch-card)
+(~33,000 commits):
 
 [![](punch-card-golang-go.png)](punch-card-golang-go.png)
 
-[Tim Pope dotfiles](https://github.com/tpope/tpope/graphs/punch-card):
+[Tim Pope dotfiles](https://github.com/tpope/tpope/graphs/punch-card)
+(~900 commits):
 
 [![](punch-card-tpope-tpope.png)](punch-card-tpope-tpope.png)
 
-[Justin M. Keyes dotfiles](https://github.com/justinmk/config/graphs/punch-card):
+[Justin M. Keyes dotfiles](https://github.com/justinmk/config/graphs/punch-card)
+(~900 commits):
 
 [![](punch-card-justinmk-config.png)](punch-card-justinmk-config.png)
 
-[Drew Neil dotfiles](https://github.com/nelstrom/dotfiles/graphs/punch-card):
+[Drew Neil dotfiles](https://github.com/nelstrom/dotfiles/graphs/punch-card)
+(~500 commits):
 
 [![](punch-card-nelstrom-dotfiles.png)](punch-card-nelstrom-dotfiles.png)
 
-[gwern.net](https://github.com/gwern/gwern.net/graphs/punch-card):
+[gwern.net](https://github.com/gwern/gwern.net/graphs/punch-card)
+(~11,000 commits):
 
 [![](punch-card-gwern-gwern-net.png)](punch-card-gwern-gwern-net.png)
 
-[Eevee's website](https://github.com/eevee/eev.ee/graphs/punch-card):
+[Eevee's website](https://github.com/eevee/eev.ee/graphs/punch-card)
+(~400 commits):
 
 [![](punch-card-eevee-eev-ee.png)](punch-card-eevee-eev-ee.png)
 
-[vimtex](https://github.com/lervag/vimtex/graphs/punch-card):
+[vimtex](https://github.com/lervag/vimtex/graphs/punch-card)
+(~1,700 commits):
 
 [![](punch-card-lervag-vimtex.png)](punch-card-lervag-vimtex.png)
 
