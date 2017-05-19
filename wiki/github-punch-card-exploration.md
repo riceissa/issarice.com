@@ -139,6 +139,11 @@ weekdays):
 
 [![](punch-card-vipulnaik-working-drafts.png)](punch-card-vipulnaik-working-drafts.png)
 
+[Vipul Naik's donations site](https://github.com/vipulnaik/donations/graphs/punch-card)
+(~300 commits):
+
+[![](punch-card-vipulnaik-donations.png)](punch-card-vipulnaik-donations.png)
+
 # Acknowledgments
 
 Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
