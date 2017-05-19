@@ -8,7 +8,7 @@ date: 2017-05-18
 Each repository on GitHub has a punch card graph under `/graphs/punch-card`.
 This page looks at the punch card graphs of some projects.
 
-Note that contribution graphs on GitHub are [only timezone-aware after
+Note that apparently contribution graphs on GitHub are [only timezone-aware after
 2014-03-10](https://github.com/blog/1793-timezone-aware-contribution-graphs):
 
 > When counting commits, we use the timezone information present in the
@@ -20,8 +20,16 @@ Note that contribution graphs on GitHub are [only timezone-aware after
 > contributions after Monday 10 March 2014 (Temps Universel Coordonné) will be
 > timezone-aware.
 
+However since timezone-awareness is so important to punch cards, and since the
+display of punch card graphs does not interfere with GitHub's stated reason for
+not implementing timezone-awareness for earlier periods (i.e. using timezone
+data on the punch card doesn't mess up contribution streaks), it seems
+plausible that GitHub would be using the timezone data just for the punch cards
+anyway.
 So for projects with the bulk of commits in the past, it would be better to
-filter out the older commits.
+filter out the older commits, just to be sure that timezone nonsense does
+not affect the results (or to use something like [Git-Pandas](https://github.com/wdm0006/git-pandas)
+to generate the punch cards oneself).
 However, even for older projects a weekday/weekend split should be observable.
 
 [Neovim](https://github.com/neovim/neovim/graphs/punch-card):
