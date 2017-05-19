@@ -68,6 +68,10 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-tpope-tpope.png)](punch-card-tpope-tpope.png)
 
+[Justin M. Keyes dotfiles](https://github.com/justinmk/config/graphs/punch-card):
+
+[![](punch-card-justinmk-config.png)](punch-card-justinmk-config.png)
+
 # External links
 
 - Similar graphs are available for Wikipedia contributions,
