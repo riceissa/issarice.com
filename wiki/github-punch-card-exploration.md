@@ -28,7 +28,9 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-neovim-neovim.png)](punch-card-neovim-neovim.png)
 
-[Vim](https://github.com/vim/vim/graphs/punch-card):
+[Vim](https://github.com/vim/vim/graphs/punch-card)
+(only Bram Moolenaar seems to have commit privileges, so this provides a
+contrast with the Neovim graph):
 
 [![](punch-card-vim-vim.png)](punch-card-vim-vim.png)
 
