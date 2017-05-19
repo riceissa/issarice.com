@@ -23,3 +23,7 @@ Note that contribution graphs on GitHub are [only timezone-aware after
 So for projects with the bulk of commits in the past, it would be better to
 filter out the older commits.
 However, even for older projects a weekday/weekend split should be observable.
+
+[Neovim](https://github.com/neovim/neovim/graphs/punch-card):
+
+[![](punch-card-neovim-neovim.png)](punch-card-neovim-neovim.png)
