@@ -62,7 +62,7 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [Go](https://github.com/golang/go/graphs/punch-card):
 
-[![](images/punch-card-golang-go.png)](images/punch-card-golang-go.png)
+[![](punch-card-golang-go.png)](punch-card-golang-go.png)
 
 # External links
 
