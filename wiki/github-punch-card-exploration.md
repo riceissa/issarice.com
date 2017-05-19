@@ -107,6 +107,10 @@ weekdays):
 
 [![](punch-card-eevee-eev-ee.png)](punch-card-eevee-eev-ee.png)
 
+[vimtex](https://github.com/lervag/vimtex/graphs/punch-card):
+
+[![](punch-card-lervag-vimtex.png)](punch-card-lervag-vimtex.png)
+
 # Acknowledgments
 
 Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
