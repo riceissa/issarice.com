@@ -19,3 +19,7 @@ Note that contribution graphs on GitHub are [only timezone-aware after
 > We don't want to mess up your current contribution streaks, so only
 > contributions after Monday 10 March 2014 (Temps Universel Coordonné) will be
 > timezone-aware.
+
+So for projects with the bulk of commits in the past, it would be better to
+filter out the older commits.
+However, even for older projects a weekday/weekend split should be observable.
