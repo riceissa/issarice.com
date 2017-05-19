@@ -72,6 +72,10 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-justinmk-config.png)](punch-card-justinmk-config.png)
 
+[Drew Neil dotfiles](https://github.com/nelstrom/dotfiles/graphs/punch-card):
+
+[![](punch-card-nelstrom-dotfiles.png)](punch-card-nelstrom-dotfiles.png)
+
 # External links
 
 - Similar graphs are available for Wikipedia contributions,
