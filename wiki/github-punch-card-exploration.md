@@ -28,6 +28,10 @@ However, even for older projects a weekday/weekend split should be observable.
 
 [![](punch-card-neovim-neovim.png)](punch-card-neovim-neovim.png)
 
+[Vim](https://github.com/vim/vim/graphs/punch-card):
+
+[![](punch-card-vim-vim.png)](punch-card-vim-vim.png)
+
 [mod_pagespeed](https://github.com/pagespeed/mod_pagespeed/graphs/punch-card):
 
 [![](punch-card-pagespeed-mod_pagespeed.png)](punch-card-pagespeed-mod_pagespeed.png)
