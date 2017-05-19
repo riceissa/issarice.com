@@ -72,7 +72,10 @@ contrast with the Neovim graph):
 
 [![](punch-card-facebook-react.png)](punch-card-facebook-react.png)
 
-[Redis](https://github.com/antirez/redis/graphs/punch-card):
+[Redis](https://github.com/antirez/redis/graphs/punch-card)
+(Salvatore Sanfilippo's commits [dominate the repository by far](https://github.com/antirez/redis/graphs/contributors),
+and he [works on Redis as his day job][antirez], so a clear 9am--6pm "box" appears on
+weekdays):
 
 [![](punch-card-antirez-redis.png)](punch-card-antirez-redis.png)
 
@@ -108,3 +111,5 @@ for which I receive a [stipend](https://github.com/vipulnaik/contractwork/blob/m
 
 - Similar graphs are available for Wikipedia contributions,
   e.g. [my account](https://tools.wmflabs.org/xtools-ec/?user=Riceissa&project=en.wikipedia.org#timecard)
+
+[antirez]: http://invece.org/ "Salvatore Sanfilippo. “Salvatore Sanfilippo aka antirez”. Retrieved May 19, 2017. “Currently my main project is Redis, and thanks to Redis Labs sponsoring the development of Redis, it is also my work.”"
