@@ -135,6 +135,10 @@ weekdays):
 
 [![](punch-card-vipulnaik-contractwork.png)](punch-card-vipulnaik-contractwork.png)
 
+[Vipul Naik's working drafts](https://github.com/vipulnaik/working-drafts/graphs/punch-card):
+
+[![](punch-card-vipulnaik-working-drafts.png)](punch-card-vipulnaik-working-drafts.png)
+
 # Acknowledgments
 
 Thanks to [Vipul Naik](https://vipulnaik.com/) for suggesting that I write
