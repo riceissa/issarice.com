@@ -8,7 +8,8 @@ date: 2017-05-19
 # Summary
 
 Each repository on GitHub has a punch card graph under `/graphs/punch-card`.
-This page looks at the punch card graphs of some projects.
+This page looks at the punch card graphs of some projects, chosen mostly
+according to projects that interest me or that have many stars and commits.
 
 # Timezone issues
 
