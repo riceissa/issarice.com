@@ -32,6 +32,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1880 || || || [[wikipedia:Joseph Swan|Joseph Swan]] obtains a British patent for his incandescent light bulb.<ref name="edison_lamp" />
 |-
+| 1880 || || || The Brush Electric Company is established.<ref>{{cite web |url=http://www.lafavre.us/brush/brushbio.htm |title=Charles Francis Brush |author=Jeffrey La Favre |year=1998 |accessdate=May 20, 2017}}</ref>
+|-
 | 1880 || {{dts|December 17}} || || The Edison Electric Illuminating Company of New York is organized.<ref name="edisons_companies"/>
 |-
 | 1880 || {{dts|December 23}} || || The Edison Electric Light Company of Europe, Ltd. is incorporated to control Edison's electric light patents in Europe (except the United Kingdom).<ref name="edisons_companies" />
