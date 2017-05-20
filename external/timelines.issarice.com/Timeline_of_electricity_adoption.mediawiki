@@ -38,6 +38,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1880–1883 || || || The [[wikipedia:History of trams#Electric trams|first electric trams begin operating]] in Russia (1880), Germany (1881), Britain (1883), and Austria (1883).
 |-
+| 1881 || || || The Swan Electric Light Company is founded.<ref>{{cite web |url=http://www.ideafinder.com/history/inventions/lightbulb.htm |date=January 30, 2007 |author=Phil Ament |title=Light Bulb History - Invention of the Light Bulb |accessdate=May 20, 2017}}</ref>
+|-
 | 1881 || {{dts|September}} || || [[wikipedia:Godalming|Godalming]] becomes the [[wikipedia:Godalming#Public electricity supply|first town in the world with a public electricity supply]]. The central station here is water-powered.<ref name="hannah" />
 |-
 | 1882 || {{dts|January 12}} || || [[wikipedia:Holborn Viaduct power station|Holborn Viaduct power station]] begins running. It is steam-powered.<ref name="hannah" />{{rp|7}} || United Kingdom (London)
