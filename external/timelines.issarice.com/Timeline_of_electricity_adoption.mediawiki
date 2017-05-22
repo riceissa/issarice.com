@@ -40,7 +40,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1880 || {{dts|December 17}} || || The Edison Electric Illuminating Company of New York is organized.<ref name="edisons_companies"/>
 |-
-| 1880 || {{dts|December 23}} || || The Edison Electric Light Company of Europe, Ltd. is incorporated to control Edison's electric light patents in Europe (except the United Kingdom).<ref name="edisons_companies" />
+| 1880 || {{dts|December 23}} || || The Edison Electric Light Company of Europe, Ltd. is incorporated to control Edison's electric light patents in Europe (except the United Kingdom).<ref name="edisons_companies" /><ref name="hausman" />{{rp|77}} || United States (New York)
 |-
 | 1880–1883 || || || The [[wikipedia:History of trams#Electric trams|first electric trams begin operating]] in Russia (1880), Germany (1881), Britain (1883), and Austria (1883).
 |-
