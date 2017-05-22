@@ -20,7 +20,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1831 || || || Michael Faraday announces his discovery of electromagnetic induction.<ref name="hannah">{{cite book |first=Leslie |last=Hannah |title=Electricity Before Nationalisation: A Study of the Development of The Electricity Supply Industry in Britain to 1948 |year=1979 |publisher=The Macmillan Press LTD}}</ref>{{rp|3}}
 |-
-| 1847 || {{dts|October 12}} || || [[wikipedia:Siemens|Siemens]] is founded.
+| 1847 || {{dts|October 12}} || || The [[wikipedia:Siemens & Halske|Siemens & Halske Telegraph Construction Company]] is founded.<ref name="hausman" />{{rp|75}}
 |-
 | 1858 || || || The first practical installation of an arc light system is done at the [[wikipedia:South Foreland Lighthouse|South Foreland Lighthouse]].<ref name="ethw_arc_lighting">{{cite web |url=http://ethw.org/Arc_Lighting |title=Arc Lighting |website=Engineering and Technology History Wiki |accessdate=May 22, 2017}}</ref> || United Kingdom
 |-
