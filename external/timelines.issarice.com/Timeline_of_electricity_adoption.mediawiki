@@ -24,6 +24,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1858 || || || The first practical installation of an arc light system is done at the [[wikipedia:South Foreland Lighthouse|South Foreland Lighthouse]].<ref>{{cite web |url=http://ethw.org/Arc_Lighting |title=Arc Lighting |website=Engineering and Technology History Wiki |accessdate=May 22, 2017}}</ref> || United Kingdom
 |-
+| 1876 || || || [[wikipedia:Pavel Yablochkov|Pavel Yablochkov]] develops his [[wikipedia:Yablochkov candle|eponymous candle]].<ref>{{cite web |url=https://www.britannica.com/biography/Pavel-Nikolayevich-Yablochkov |title=Pavel Nikolayevich Yablochkov {{!}} Russian engineer and inventor |publisher=Encyclopedia Britannica |accessdate=May 22, 2017}}</ref><ref>{{cite web |url=http://www.russia-ic.com/education_science/gems/661/ |title=Pavel Yablochkov - Let It Be Light! |publisher=Russia-InfoCentre |accessdate=May 22, 2017 |quote=Yablochkov deals with electric illumination, and in 1876 he receives a patent for his electric candle.}}</ref><ref>{{cite web |url=http://ethw.org/Jablochkoff_Candles_in_Paris |title=Jablochkoff Candles in Paris |publisher=Engineering and Technology History Wiki |accessdate=May 22, 2017}}</ref>
+|-
 | 1878 || {{dts|November 15}} || || The Edison Electric Light Company is incorporated in New York. The company provides "financial support for Edison's electric light experiments in return for control of the resulting patents".<ref name="edisons_companies" />
 |-
 | 1878 || {{dts|December 18}} || || Joseph Swan demonstrates that "a carbon filament in an evacuated glass globe would glow when an electric current was passed through it". This allows for electric lighting that is not excessively bright.<ref name="hannah" />{{rp|4}}
