@@ -85,6 +85,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1897 || || || By this time, the United States has electrified almost 90% of its tramway mileage.<ref name="hannah" />{{rp|15}} || United States
 |-
+| 1899 || || || The [[wikipedia:Rivers and Harbors Act of 1899|Rivers and Harbors Act of 1899]] passes in the United States. Part of the act requires a permit to dam navigable waters. || United States
+|-
 | 1902 || || || The [[wikipedia:Air conditioning#Electromechanical cooling|first modern electric air conditioning unit]] is invented. || United States
 |-
 | 1904 || || || The [[wikipedia:Washing machine#Early machines|first electric washing machines]] are created around this time.
