@@ -78,7 +78,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1889 || || || [[wikipedia:North Eastern Electric Supply Company|NESCo]] is founded by [[wikipedia:John Theodore Merz|John Theodore Merz]] as Newcastle upon Tyne Electric Supply Company.
 |-
-| 1889 || {{dts|April 24}} || || The Edison General Electric Company is incorporated.
+| 1889 || {{dts|April 24}} || || The Edison General Electric Company [[wikipedia:General Electric#Formation|is incorporated]]. || United States (New York)
 |-
 | 1893 || || || The [[wikipedia:Toaster#History|first electric bread toaster is invented]] by [[wikipedia:Alan MacMasters|Alan MacMasters]]. || United Kingdom
 |-
