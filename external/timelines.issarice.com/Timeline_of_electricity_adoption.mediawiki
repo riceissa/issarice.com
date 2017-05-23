@@ -69,7 +69,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1884 || || || The modern [[wikipedia:Steam turbine|steam turbine]] is invented by [[wikipedia:Charles Algernon Parsons|Charles Parsons]]. A production model would be installed in the Forth Banks power station in Newcastle in 1888.<ref name="hannah" />{{rp|13}}
 |-
-| 1885 || || || The ZBD alternating current transformer is [[wikipedia:Transformer#Closed-core transformers and parallel power distribution|invented].
+| 1885 || || || The ZBD alternating current transformer is [[wikipedia:Transformer#Closed-core transformers and parallel power distribution|invented]].
 |-
 | 1886 || {{dts|January 8}} || || The [[wikipedia:Westinghouse Electric Corporation|Westinghouse Electric Corporation]] is founded as Westinghouse Electric Company.<ref name="hausman" />{{rp|91}}
 |-
