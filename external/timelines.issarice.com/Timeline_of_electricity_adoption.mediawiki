@@ -5,6 +5,7 @@ This is a '''timeline of electricity adoption'''.
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 1914 || || "In short, by the eve of the First World War in 1914, foreign investors had spread electrification on a vast, global, but very uneven scale. Domestic and international investments had reached the point that some electrification was present in every large city in the world. This did not mean, by any stretch of the imagination, that every household in these cities had electricity. [&hellip;] by the summer of 1914 every large-city dweller around the world was familiar with electric lights at the very minimum and possibly also electric tramways. All parts of a city might not have access to electricity, but all large cities had at least the rudiments of electricity and often more."<ref name="hausman" />{{rp|123}}
 |}
 
 ==Full timeline==
