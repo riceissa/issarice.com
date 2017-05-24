@@ -101,7 +101,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1914 || || || The [[wikipedia:Refrigerator#Domestic refrigerator|first practical electric refrigerator]] is created around this time.
 |-
-| 1918 || || || In the aftermath of [[wikipedia:World War I|World War I]], German electricity companies in various regions of the world are seized or bought.<ref name="hausman" />
+| 1918 || || || In the aftermath of [[wikipedia:World War I|World War I]], German electricity companies in various regions of the world are seized or bought.<ref name="hausman" />{{rp|131–138}}
 |-
 | 1920 || {{dts|June 10}} || || The [[wikipedia:Federal Power Act|Federal Water Power Act]] is enacted. This act creates the [[wikipedia:Federal Power Commission|Federal Power Commission]]. || United States
 |-
