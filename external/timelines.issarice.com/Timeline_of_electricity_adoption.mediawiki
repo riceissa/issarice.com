@@ -130,6 +130,8 @@ This is a '''timeline of electricity adoption'''.
 | 1994–2012 || || || The [[wikipedia:Three Gorges Dam|Three Gorges Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|largest hydroelectric power station in the world by installed capacity]]. || China
 |-
 | 2000 || {{dts|April}} || || [[wikipedia:California electricity crisis|California electricity crisis]]
+|-
+| 2005–2013 || || || The [[wikipedia:Xiluodu Dam|Xiluodu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|third largest hydroelectric power station by installed capacity]]. || China
 |}
 
 ==Meta information on the timeline==
