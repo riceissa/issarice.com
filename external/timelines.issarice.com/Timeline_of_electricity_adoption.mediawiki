@@ -105,7 +105,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1920 || {{dts|June 10}} || || The [[wikipedia:Federal Power Act|Federal Water Power Act]] is enacted. This act creates the [[wikipedia:Federal Power Commission|Federal Power Commission]]. || United States
 |-
-| 1933–1942 || || || [[wikipedia:Grand Coulee Dam|Grand Coulee Dam]], with its first two powerhouses, is constructed. || United States (Washington State)
+| 1933–1942 || || || [[wikipedia:Grand Coulee Dam|Grand Coulee Dam]], with its first two powerhouses, is constructed. It is currently the [[wikipedia:List of largest hydroelectric power stations|sixth largest hydroelectric power station in the world (and largest in the United States) by installed capacity]]. || United States (Washington State)
 |-
 | 1935 || || || The [[wikipedia:Rural Utilities Service#Rural Electrification Administration|Rural Electrification Administration]] is created as part of the [[wikipedia:New Deal|New Deal]]. || United States
 |-
