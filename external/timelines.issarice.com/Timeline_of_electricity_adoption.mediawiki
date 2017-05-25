@@ -119,6 +119,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1971–1984 || || || The [[wikipedia:Itaipu Dam|Itaipu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|second largest hydroelectric dam in the world by installed capacity]]. || Brazil, Paraguay
 |-
+| 1975–1984 || || || The [[wikipedia:Tucuruí Dam|Tucuruí Dam]] is built. It is the [[wikipedia:List of largest hydroelectric power stations|fifth largest hydroelectric power station in the world by installed capacity]]. || Brazil
+|-
 | 1978 || {{dts|October}} || || [[wikipedia:Economy 7|Economy 7]] is introduced in the United Kingdom. || United Kingdom
 |-
 | 1980s–1990s || || || The electricity sector is reformed in several Latin American countries. These mainly take the form of privatizing the sector and unbundling generation, transmission and distribution. Reforms take place in at least [[wikipedia:Electricity sector in Chile#Electricity sector reform of 1982|Chile (1982)]], [[wikipedia:Electricity sector in Argentina#History of the electricity sector|Argentina (1991–1992)]], [[wikipedia:Electricity sector in Brazil#The 1990s reforms|Brazil (1990s)]], [[wikipedia:Electricity sector in Uruguay#Power sector reform|Uruguay (1997)]], and [[wikipedia:Electricity sector in Bolivia#Unbundling and privatization|Bolivia (1994)]].
