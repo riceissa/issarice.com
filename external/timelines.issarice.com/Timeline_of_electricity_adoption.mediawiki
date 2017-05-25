@@ -117,6 +117,8 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1948 || {{dts|April 1}} || || In Britain, the [[wikipedia:Electricity Act 1947|Electricity Act 1947]] nationalizes the electricity generation and supply industry. The act would be repealed in 1989 with the [[wikipedia:Electricity Act 1989|Electricity Act 1989]]. || United Kingdom
 |-
+| 1963–1978 || || || The [[wikipedia:Guri Dam|Guri Dam]] is built. It is the [[wikipedia:List of largest hydroelectric power stations|fourth largest hydroelectric power station in the world by installed capacity]]. || Venezuela
+|-
 | 1971–1984 || || || The [[wikipedia:Itaipu Dam|Itaipu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|second largest hydroelectric dam in the world by installed capacity]]. || Brazil, Paraguay
 |-
 | 1975–1984 || || || The [[wikipedia:Tucuruí Dam|Tucuruí Dam]] is built. It is the [[wikipedia:List of largest hydroelectric power stations|fifth largest hydroelectric power station in the world by installed capacity]]. || Brazil
