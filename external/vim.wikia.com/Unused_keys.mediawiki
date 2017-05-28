@@ -61,7 +61,7 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 ==See also==
 
 * {{help|map-which-keys}}
-* [[Mapping keys in Vim - Tutorial (Part 2)# Finding unused keys|Mapping keys in Vim - Tutorial (Part 2) § Finding unused keys]]
+* [[Mapping keys in Vim - Tutorial (Part 2)#Finding unused keys|Mapping keys in Vim - Tutorial (Part 2) § Finding unused keys]]
 
 ==External links==
 
