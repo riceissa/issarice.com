@@ -25,7 +25,7 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>S</code> || Normal || Synonym || Synonym for <code>cc</code>
 |-
-| <code>&lt;C-@&gt;</code> || Normal || Free || This can be entered with <code>&lt;C-Space&gt;</code>
+| <code>&lt;C-@&gt;</code> || Normal || Free || This can also be entered with <code>&lt;C-Space&gt;</code>
 |-
 | <code>&lt;C-J&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
 |-
@@ -34,8 +34,6 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 | <code>&lt;C-N&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
 |-
 | <code>&lt;C-P&gt;</code> || Normal || Synonym || Synonym for <code>k</code>
-|-
-| <code>&lt;C-Space&gt;</code> || Normal || Free ||
 |-
 | <code>&lt;C-[&gt;</code> || Normal || Free || This is the same as <code>&lt;Esc&gt;</code>
 |-
