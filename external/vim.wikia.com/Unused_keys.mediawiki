@@ -15,7 +15,9 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>&lt;C-Q&gt;</code> || All modes || Free || Used for flow control like <code>&lt;C-S&gt;</code>
 |-
-| <code>_</code> || Normal || ||
+| <code>+</code> || Normal || Synonym || Synonym for <code>&lt;CR&gt;</code>
+|-
+| <code>_</code> || Normal || Synonym || This is nearly the same as <code>&lt;CR&gt;</code>
 |-
 | <code>K</code> || Normal || || By default, this is an inferior version of <code>&lt;Leader&gt;K</code> that can be obtained through man.vim with <code>runtime! ftplugin/man.vim</code>.
 |-
@@ -63,7 +65,7 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 
 ==External links==
 
-* [http://vimcasts.org/blog/2014/02/follow-my-leader/ "Follow my leader"]
+* [http://vimcasts.org/blog/2014/02/follow-my-leader/ "Follow my leader"] by Drew Neil of Vimcasts
 * [https://stackoverflow.com/questions/5942464/vim-list-free-keybindings "Vim: list free keybindings"]
 * [https://softwareengineering.stackexchange.com/questions/42103/what-are-safe-keys-to-remap-in-vim "What are safe keys to remap in vim?"]
 * [https://stackoverflow.com/questions/1889596/vim-mappable-unused-shortcut-letters "VIM: Mappable (unused) shortcut letters?"]
