@@ -39,7 +39,7 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>&lt;C-_&gt;</code> || Normal || Free || This is the same as <code><C-/></code>
 |-
-| <code>K</code> || Visual || Synonym || Synonym for <code><Esc>K</code>
+| <code>K</code> || Visual || Synonym || Synonym for <code><Esc>K</code>. In visual mode, this key only works when the selection is one line.
 |-
 | <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>
 |-
@@ -59,5 +59,12 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 ==See also==
 
 * {{help|map-which-keys}}
+* [[Mapping keys in Vim - Tutorial (Part 2)# Finding unused keys|Mapping keys in Vim - Tutorial (Part 2) § Finding unused keys]]
 
 ==External links==
+
+* [http://vimcasts.org/blog/2014/02/follow-my-leader/ "Follow my leader"]
+* [https://stackoverflow.com/questions/5942464/vim-list-free-keybindings "Vim: list free keybindings"]
+* [https://softwareengineering.stackexchange.com/questions/42103/what-are-safe-keys-to-remap-in-vim "What are safe keys to remap in vim?"]
+* [https://stackoverflow.com/questions/1889596/vim-mappable-unused-shortcut-letters "VIM: Mappable (unused) shortcut letters?"]
+* [https://groups.google.com/d/msg/vim_use/N5_hp0K78xE/86ARNHat9U4J "what are safe key combinations to remap in vim"] ([http://vim.1045645.n5.nabble.com/what-are-safe-key-combinations-to-remap-in-vim-td1173713.html mirror])
