@@ -1,6 +1,6 @@
-This page lists single unused keys in Vim. As such, it is kind of an inverted version of {{help|index}}. In addition, the page lists synonyms that can safely be mapped.
+This page lists single unused keys in Vim. As such, it is an inverted version of {{help|index}}. In addition, the page lists synonyms that can safely be mapped.
 
-Note that there are many more mappings possible by combining keys.
+Many more mappings are possible by combining keys.
 
 In the following table, "Free" means a key is not used in Vim by default, whereas "Synonym" means a key is used in Vim by default but is a synonym for some other key that is also used in Vim by default so that there is no danger in mapping it.
 
@@ -11,7 +11,7 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | Alt key combinations || All modes || Free || For instance, <code>&lt;M-q&gt;</code>
 |-
-| <code>&lt;C-S&gt;</code> || All modes || Free || used for [[wikipedia:Software flow control|flow control]] on the terminal so Vim does not touch them. However, on modern machines most people have no use for flow control so you can use <code>stty -ixon</code> to unlock these keys for your own use.
+| <code>&lt;C-S&gt;</code> || All modes || Free || This key is used for [[wikipedia:Software flow control|flow control]] on the terminal so Vim does not touch it. However, on modern machines most people have no use for flow control so you can use <code>stty -ixon</code> to unlock it for your own use.
 |-
 | <code>&lt;C-Q&gt;</code> || All modes || Free || Used for flow control like <code>&lt;C-S&gt;</code>
 |-
