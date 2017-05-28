@@ -17,9 +17,13 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>_</code> || Normal || ||
 |-
+| <code>K</code> || Normal || || By default, this is an inferior version of <code>&lt;Leader&gt;K</code> that can be obtained through man.vim with <code>runtime! ftplugin/man.vim</code>.
+|-
 | <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>
 |-
 | <code>S</code> || Normal || Synonym || Synonym for <code>cc</code>
+|-
+| <code>&lt;C-@&gt;</code> || Normal || Free || This can be entered with <code>&lt;C-Space&gt;</code>
 |-
 | <code>&lt;C-J&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
 |-
@@ -31,6 +35,10 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>&lt;C-Space&gt;</code> || Normal || Free ||
 |-
+| <code>&lt;C-[&gt;</code> || Normal || Free || This is the same as <code>&lt;Esc&gt;</code>
+|-
+| <code>&lt;C-_&gt;</code> || Normal || Free || This is the same as <code><C-/></code>
+|-
 | <code>K</code> || Visual || Synonym || Synonym for <code><Esc>K</code>
 |-
 | <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>
@@ -39,9 +47,13 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>&lt;C-Z&gt;</code> || Insert || Free || Unless you use evim.
 |-
+| <code>&lt;C-@&gt;</code>
+|-
 | <code>&lt;C-O&gt;</code> || Command-line || ||
 |-
 | <code>&lt;C-X&gt;</code> || Command-line || ||
+|-
+| <code>&lt;C-Z&gt;</code> || Command-line || ||
 |}
 
 ==See also==
