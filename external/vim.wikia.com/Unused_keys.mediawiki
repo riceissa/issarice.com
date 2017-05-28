@@ -19,7 +19,7 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>_</code> || Normal || Synonym || This is nearly the same as <code>&lt;CR&gt;</code>
 |-
-| <code>K</code> || Normal || || By default, this is an inferior version of <code>&lt;Leader&gt;K</code> that can be obtained through man.vim with <code>runtime! ftplugin/man.vim</code>.
+| <code>K</code> || Normal || || By default, this is an inferior version of <code>&lt;Leader&gt;K</code> that can be obtained through man.vim with <code>runtime! ftplugin/man.vim</code>. See {{help|find-manpage}} for more.
 |-
 | <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>
 |-
