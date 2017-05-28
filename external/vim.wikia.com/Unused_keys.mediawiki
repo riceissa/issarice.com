@@ -1,0 +1,51 @@
+This page lists single unused keys in Vim. As such, it is kind of an inverted version of {{help|index}}. In addition, the page lists synonyms that can safely be mapped.
+
+Note that there are many more mappings possible by combining keys.
+
+In the following table, "Free" means a key is not used in Vim by default, whereas "Synonym" means a key is used in Vim by default but is a synonym for some other key that is also used in Vim by default so that there is no danger in mapping it.
+
+{| class="sortable wikitable"
+! Key !! Mode !! Type !! Notes
+|-
+| Function keys || All modes || Free || For instance, <code>&lt;F6&gt;</code>
+|-
+| Alt key combinations || All modes || Free || For instance, <code>&lt;M-q&gt;</code>
+|-
+| <code>&lt;C-S&gt;</code> || All modes || Free || used for [[wikipedia:Software flow control|flow control]] on the terminal so Vim does not touch them. However, on modern machines most people have no use for flow control so you can use <code>stty -ixon</code> to unlock these keys for your own use.
+|-
+| <code>&lt;C-Q&gt;</code> || All modes || Free || Used for flow control like <code>&lt;C-S&gt;</code>
+|-
+| <code>_</code> || Normal || ||
+|-
+| <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>
+|-
+| <code>S</code> || Normal || Synonym || Synonym for <code>cc</code>
+|-
+| <code>&lt;C-J&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
+|-
+| <code>&lt;C-K&gt;</code> || Normal || Free ||
+|-
+| <code>&lt;C-N&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
+|-
+| <code>&lt;C-P&gt;</code> || Normal || Synonym || Synonym for <code>k</code>
+|-
+| <code>&lt;C-Space&gt;</code> || Normal || Free ||
+|-
+| <code>K</code> || Visual || Synonym || Synonym for <code><Esc>K</code>
+|-
+| <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>
+|-
+| <code>&lt;C-B&gt;</code> || Insert || Free ||
+|-
+| <code>&lt;C-Z&gt;</code> || Insert || Free || Unless you use evim.
+|-
+| <code>&lt;C-O&gt;</code> || Command-line || ||
+|-
+| <code>&lt;C-X&gt;</code> || Command-line || ||
+|}
+
+==See also==
+
+* {{help|map-which-keys}}
+
+==External links==
