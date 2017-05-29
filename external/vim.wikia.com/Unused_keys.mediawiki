@@ -65,13 +65,13 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>&lt;C-Z&gt;</code> || Insert || Free || Unless you use evim.
 |-
-| <code>&lt;C-@&gt;</code> || Command-line || ||
+| <code>&lt;C-@&gt;</code> || Command-line || Free ||
 |-
-| <code>&lt;C-O&gt;</code> || Command-line || ||
+| <code>&lt;C-O&gt;</code> || Command-line || Free ||
 |-
-| <code>&lt;C-X&gt;</code> || Command-line || ||
+| <code>&lt;C-X&gt;</code> || Command-line || Free ||
 |-
-| <code>&lt;C-Z&gt;</code> || Command-line || ||
+| <code>&lt;C-Z&gt;</code> || Command-line || Free ||
 |}
 
 ==See also==
