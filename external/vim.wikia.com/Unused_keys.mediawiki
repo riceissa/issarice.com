@@ -15,16 +15,6 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-S&gt;</code> || All modes || Free || Used for flow control like <code>&lt;C-Q&gt;</code>
 |-
-| <code>+</code> || Normal || Synonym || Synonym for <code>&lt;CR&gt;</code>
-|-
-| <code>_</code> || Normal || Synonym || This is nearly the same as <code>&lt;CR&gt;</code>
-|-
-| <code>K</code> || Normal || || By default, this is an inferior version of <code>&lt;Leader&gt;K</code> that can be obtained through man.vim with <code>runtime! ftplugin/man.vim</code>. See {{help|find-manpage}} for more.
-|-
-| <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>
-|-
-| <code>S</code> || Normal || Synonym || Synonym for <code>cc</code>
-|-
 | <code>&lt;C-@&gt;</code> || Normal || Free || This can also be entered with <code>&lt;C-Space&gt;</code>
 |-
 | <code>&lt;C-J&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
@@ -38,6 +28,16 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 | <code>&lt;C-[&gt;</code> || Normal || Free || This is the same as <code>&lt;Esc&gt;</code>
 |-
 | <code>&lt;C-_&gt;</code> || Normal || Free || This is the same as <code><C-/></code>
+|-
+| <code>+</code> || Normal || Synonym || Synonym for <code>&lt;CR&gt;</code>
+|-
+| <code>K</code> || Normal || || By default, this is an inferior version of <code>&lt;Leader&gt;K</code> that can be obtained through man.vim with <code>runtime! ftplugin/man.vim</code>. See {{help|find-manpage}} for more.
+|-
+| <code>S</code> || Normal || Synonym || Synonym for <code>cc</code>
+|-
+| <code>_</code> || Normal || Synonym || This is nearly the same as <code>&lt;CR&gt;</code>
+|-
+| <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>
 |-
 | <code>&lt;C-K&gt;</code> || Visual || Free ||
 |-
