@@ -27,7 +27,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-[&gt;</code> || Normal || Free || This is the same as <code>&lt;Esc&gt;</code>.
 |-
-| <code>&lt;C-_&gt;</code> || Normal || Free || This is the same as <code><C-/></code>.
+| <code>&lt;C-_&gt;</code> || Normal || Free || This can also be typed as <code><C-/></code>.
 |-
 | <code>+</code> || Normal || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
@@ -65,7 +65,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-^&gt;</code> || Visual || Free ||
 |-
-| <code>&lt;C-_&gt;</code> || Visual || Free || This is the same as <code>&lt;C-/&gt;</code>.
+| <code>&lt;C-_&gt;</code> || Visual || Free || This can also be typed as <code>&lt;C-/&gt;</code>.
 |-
 | <code>&amp;</code> || Visual || Free ||
 |-
@@ -96,6 +96,8 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 | <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
 | <code>&lt;C-Z&gt;</code> || Insert || Free || Unless <code>'insertmode'</code> is set.
+|-
+| <code>&lt;C-_&gt;</code> || Insert || Free || This can also be typed as <code>&lt;C-/&gt;</code>.
 |-
 | <code>&lt;C-@&gt;</code> || Command-line || Free ||
 |-
