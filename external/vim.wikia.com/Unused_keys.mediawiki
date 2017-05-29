@@ -37,7 +37,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>Y</code> || Normal || Synonym || Synonym for <code>yy</code>. However, many people like to map this to <code>y$</code> to match <code>C</code> and <code>D</code>.
 |-
-| <code>_</code> || Normal || Synonym || This is nearly the same as <code>&lt;CR&gt;</code>.
+| <code>_</code> || Normal || || This is nearly the same as <code>&lt;CR&gt;</code>. The documentation ({{help|maplocalleader}}) even mentions the underscore as an example of a key that can be used for the local leader.
 |-
 | <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>.
 |-
@@ -46,6 +46,8 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 | <code>&lt;Del&gt;</code> || Normal || Synonym || Synonym for <code>x</code>.
 |-
 | <code>&lt;C-@&gt;</code> || Visual || Free ||
+|-
+| <code>&lt;C-I&gt;</code> || Visual || Free || This is the <code>&lt;Tab&gt;</code> key, which does nothing in visual mode.
 |-
 | <code>&lt;C-J&gt;</code> || Visual || Synonym || Synonym for <code>j</code>.
 |-
