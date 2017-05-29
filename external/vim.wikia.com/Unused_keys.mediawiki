@@ -11,7 +11,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | Alt key combinations || All modes || Free || For instance, <code>&lt;M-q&gt;</code>. Note that mapping alt keys can be problematic depending on the terminal emulator. See e.g. {{help|:map-alt-keys}} for more information.
 |-
-| <code>&lt;C-Q&gt;</code> || All modes || Free || This key is used for [[wikipedia:Software flow control|flow control]] on the terminal so Vim does not touch it by default. On modern machines most people have no use for flow control so you can run <code>stty -ixon</code> in your shell to unlock it for your own use.
+| <code>&lt;C-Q&gt;</code> || All modes || Synonym || Synonym for <code>&lt;C-V&gt;</code>. This key is used for [[wikipedia:Software flow control|flow control]] on the terminal. On modern machines most people have no use for flow control so you can run <code>stty -ixon</code> in your shell to unlock it for your own use.
 |-
 | <code>&lt;C-S&gt;</code> || All modes || Free || Used for flow control like <code>&lt;C-Q&gt;</code>.
 |-
