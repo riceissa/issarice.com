@@ -41,7 +41,9 @@ In the following table, "Free" means a key is not used in Vim by default, wherea
 |-
 | <code>&lt;C-K&gt;</code> || Visual || Free ||
 |-
-| <code>&lt;C-P&gt;</code> || Visual || Synonym || Synonym for <code>j</code>?
+| <code>&lt;C-J&gt;</code> || Visual || Synonym || Synonym for <code>j</code>?
+|-
+| <code>&lt;C-P&gt;</code> || Visual || Synonym || Synonym for <code>k</code>?
 |-
 | <code>&lt;C-N&gt;</code> || Visual || Synonym || Synonym for <code>j</code>?
 |-
