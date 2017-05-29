@@ -69,7 +69,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
-| <code>&lt;C-Z&gt;</code> || Insert || Free || Unless you use evim.
+| <code>&lt;C-Z&gt;</code> || Insert || Free || Unless <code>'insertmode'</code> is set.
 |-
 | <code>&lt;C-@&gt;</code> || Command-line || Free ||
 |-
