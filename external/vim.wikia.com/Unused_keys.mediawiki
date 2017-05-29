@@ -72,6 +72,8 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 | <code>&lt;C-X&gt;</code> || Command-line || Free ||
 |-
 | <code>&lt;C-Z&gt;</code> || Command-line || Free ||
+|-
+| <code>&lt;C-_&gt;</code> || Command-line || Free || This is only active in default Vim if <code>'allowrevins'</code> is set, for right-to-left languages.
 |}
 
 ==See also==
