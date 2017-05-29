@@ -55,7 +55,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-N&gt;</code> || Visual || Synonym || Synonym for <code>j</code>.
 |-
-| <code>&lt;C-O&gt;</code> || Visual || Free ||
+| <code>&lt;C-O&gt;</code> || Visual || Free || In select mode, this switches to visual mode for one command. Mapping with <code>xnoremap</code> will map it only for visual mode while preserving the default behavior in select mode. See {{help|mapmode-x}} for more.
 |-
 | <code>&lt;C-P&gt;</code> || Visual || Synonym || Synonym for <code>k</code>.
 |-
