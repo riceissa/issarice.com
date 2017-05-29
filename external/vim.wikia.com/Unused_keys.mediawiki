@@ -1,8 +1,8 @@
 This page lists single unused keys in Vim. As such, it is an inverted version of {{help|index}}. In addition, the page lists synonyms that can safely be mapped.
 
-Many more mappings are possible by combining keys. See the article "Follow my leader" below in [[#External links|§ External links]] below for hints on combining keys.
+Many more mappings are possible by combining keys. See the article "Follow my leader" in [[#External links|§ External links]] below for hints on combining keys.
 
-In the following table, "Free" means a key is not used in Vim by default, whereas "Synonym" means a key is used in Vim by default but is a synonym for some other key that is also used in Vim by default so that there is no danger in mapping it.
+In the following table, the type "Free" means a key is not used in Vim by default, whereas the type "Synonym" means a key is used in Vim by default but is a synonym for some other key that is also used in Vim by default so that there is no danger in mapping it.
 
 {| class="sortable wikitable"
 ! Key !! Mode !! Type !! Notes
