@@ -41,15 +41,15 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-@&gt;</code> || Visual || Free ||
 |-
-| <code>&lt;C-J&gt;</code> || Visual || Synonym || Synonym for <code>j</code>?
+| <code>&lt;C-J&gt;</code> || Visual || Synonym || Synonym for <code>j</code>.
 |-
 | <code>&lt;C-K&gt;</code> || Visual || Free ||
 |-
-| <code>&lt;C-N&gt;</code> || Visual || Synonym || Synonym for <code>j</code>?
+| <code>&lt;C-N&gt;</code> || Visual || Synonym || Synonym for <code>j</code>.
 |-
-| <code>&lt;C-P&gt;</code> || Visual || Synonym || Synonym for <code>k</code>?
+| <code>&lt;C-P&gt;</code> || Visual || Synonym || Synonym for <code>k</code>.
 |-
-| <code>&lt;C-T&gt;</code> || Visual || Free? ||
+| <code>&lt;C-T&gt;</code> || Visual || Free ||
 |-
 | <code>&lt;C-_&gt;</code> || Visual || Free || This is the same as <code>&lt;C-/&gt;</code>.
 |-
