@@ -117,6 +117,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 
 ==External links==
 
+* [https://gist.github.com/riceissa/bcaa6b509d5561e057c1ec95af5a7d72 Vim keys table] showing which keys are used for each mode
 * [http://vimcasts.org/blog/2014/02/follow-my-leader/ "Follow my leader"] by Drew Neil of Vimcasts
 * [https://stackoverflow.com/questions/1889596/vim-mappable-unused-shortcut-letters "VIM: Mappable (unused) shortcut letters?"]
 * [https://softwareengineering.stackexchange.com/questions/42103/what-are-safe-keys-to-remap-in-vim "What are safe keys to remap in vim?"]
