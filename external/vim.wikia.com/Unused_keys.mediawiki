@@ -7,37 +7,37 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 {| class="sortable wikitable"
 ! Key !! Mode !! Type !! Notes
 |-
-| Function keys || All modes || Free || For instance, <code>&lt;F6&gt;</code>
+| Function keys || All modes || Free || For instance, <code>&lt;F6&gt;</code>.
 |-
 | Alt key combinations || All modes || Free || For instance, <code>&lt;M-q&gt;</code>. Note that mapping alt keys can be problematic depending on the terminal emulator. See e.g. {{help|:map-alt-keys}} for more information.
 |-
 | <code>&lt;C-Q&gt;</code> || All modes || Free || This key is used for [[wikipedia:Software flow control|flow control]] on the terminal so Vim does not touch it by default. On modern machines most people have no use for flow control so you can run <code>stty -ixon</code> in your shell to unlock it for your own use.
 |-
-| <code>&lt;C-S&gt;</code> || All modes || Free || Used for flow control like <code>&lt;C-Q&gt;</code>
+| <code>&lt;C-S&gt;</code> || All modes || Free || Used for flow control like <code>&lt;C-Q&gt;</code>.
 |-
-| <code>&lt;C-@&gt;</code> || Normal || Free || This can also be entered with <code>&lt;C-Space&gt;</code>
+| <code>&lt;C-@&gt;</code> || Normal || Free || This can also be entered with <code>&lt;C-Space&gt;</code>.
 |-
-| <code>&lt;C-J&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
+| <code>&lt;C-J&gt;</code> || Normal || Synonym || Synonym for <code>j</code>.
 |-
 | <code>&lt;C-K&gt;</code> || Normal || Free ||
 |-
-| <code>&lt;C-N&gt;</code> || Normal || Synonym || Synonym for <code>j</code>
+| <code>&lt;C-N&gt;</code> || Normal || Synonym || Synonym for <code>j</code>.
 |-
-| <code>&lt;C-P&gt;</code> || Normal || Synonym || Synonym for <code>k</code>
+| <code>&lt;C-P&gt;</code> || Normal || Synonym || Synonym for <code>k</code>.
 |-
-| <code>&lt;C-[&gt;</code> || Normal || Free || This is the same as <code>&lt;Esc&gt;</code>
+| <code>&lt;C-[&gt;</code> || Normal || Free || This is the same as <code>&lt;Esc&gt;</code>.
 |-
-| <code>&lt;C-_&gt;</code> || Normal || Free || This is the same as <code><C-/></code>
+| <code>&lt;C-_&gt;</code> || Normal || Free || This is the same as <code><C-/></code>.
 |-
-| <code>+</code> || Normal || Synonym || Synonym for <code>&lt;CR&gt;</code>
+| <code>+</code> || Normal || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
 | <code>K</code> || Normal || || By default, this is an inferior version of <code>&lt;Leader&gt;K</code> that can be obtained through man.vim with <code>runtime! ftplugin/man.vim</code>. See {{help|find-manpage}} for more.
 |-
-| <code>S</code> || Normal || Synonym || Synonym for <code>cc</code>
+| <code>S</code> || Normal || Synonym || Synonym for <code>cc</code>.
 |-
-| <code>_</code> || Normal || Synonym || This is nearly the same as <code>&lt;CR&gt;</code>
+| <code>_</code> || Normal || Synonym || This is nearly the same as <code>&lt;CR&gt;</code>.
 |-
-| <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>
+| <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>.
 |-
 | <code>&lt;C-@&gt;</code> || Visual || Free ||
 |-
@@ -51,13 +51,13 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-T&gt;</code> || Visual || Free? ||
 |-
-| <code>&lt;C-_&gt;</code> || Visual || Free || This is the same as <code>&lt;C-/&gt;</code>
+| <code>&lt;C-_&gt;</code> || Visual || Free || This is the same as <code>&lt;C-/&gt;</code>.
 |-
-| <code>+</code> || Visual || Synonym || Synonym for <code>&lt;CR&gt;</code>
+| <code>+</code> || Visual || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
 | <code>K</code> || Visual || Synonym || Synonym for <code><Esc>K</code>. In visual mode, this key only works when the selection is one line.
 |-
-| <code>P</code> || Visual || Synonym || Synonym for <code>p</code>
+| <code>P</code> || Visual || Synonym || Synonym for <code>p</code>.
 |-
 | <code>Q</code> || Visual || Free ||
 |-
@@ -67,7 +67,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-B&gt;</code> || Insert || Free ||
 |-
-| <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>
+| <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
 | <code>&lt;C-Z&gt;</code> || Insert || Free || Unless you use evim.
 |-
