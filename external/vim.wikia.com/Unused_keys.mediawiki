@@ -57,8 +57,6 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>+</code> || Visual || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
-| <code>K</code> || Visual || Synonym || Synonym for <code><Esc>K</code>. In visual mode, this key only works when the selection is one line.
-|-
 | <code>P</code> || Visual || Synonym || Synonym for <code>p</code>.
 |-
 | <code>Q</code> || Visual || Free ||
