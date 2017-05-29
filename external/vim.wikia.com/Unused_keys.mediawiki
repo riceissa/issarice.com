@@ -101,6 +101,8 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-@&gt;</code> || Command-line || Free ||
 |-
+| <code>&lt;C-J&gt;</code> || Command-line || Synonym || Synonym for <code>&lt;CR&gt;</code>.
+|-
 | <code>&lt;C-O&gt;</code> || Command-line || Free ||
 |-
 | <code>&lt;C-X&gt;</code> || Command-line || Free ||
