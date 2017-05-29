@@ -39,13 +39,13 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>s</code> || Normal || Synonym || Synonym for <code>cl</code>
 |-
-| <code>&lt;C-K&gt;</code> || Visual || Free ||
-|-
 | <code>&lt;C-J&gt;</code> || Visual || Synonym || Synonym for <code>j</code>?
 |-
-| <code>&lt;C-P&gt;</code> || Visual || Synonym || Synonym for <code>k</code>?
+| <code>&lt;C-K&gt;</code> || Visual || Free ||
 |-
 | <code>&lt;C-N&gt;</code> || Visual || Synonym || Synonym for <code>j</code>?
+|-
+| <code>&lt;C-P&gt;</code> || Visual || Synonym || Synonym for <code>k</code>?
 |-
 | <code>&lt;C-T&gt;</code> || Visual || Free? ||
 |-
@@ -59,9 +59,9 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>S</code> || Visual || Synonym || Synonym for <code>C</code>?
 |-
-| <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>
-|-
 | <code>&lt;C-B&gt;</code> || Insert || Free ||
+|-
+| <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>
 |-
 | <code>&lt;C-Z&gt;</code> || Insert || Free || Unless you use evim.
 |-
