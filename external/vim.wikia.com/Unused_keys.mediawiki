@@ -45,7 +45,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;Del&gt;</code> || Normal || Synonym || Synonym for <code>x</code>.
 |-
-| <code>&lt;C-@&gt;</code> || Visual || Free ||
+| <code>&lt;C-@&gt;</code> || Visual || Free || This can also be entered with <code>&lt;C-Space&gt;</code>.
 |-
 | <code>&lt;C-I&gt;</code> || Visual || Free || This is the <code>&lt;Tab&gt;</code> key, which does nothing in visual mode.
 |-
@@ -99,7 +99,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>&lt;C-_&gt;</code> || Insert || Free || This can also be typed as <code>&lt;C-/&gt;</code>.
 |-
-| <code>&lt;C-@&gt;</code> || Command-line || Free ||
+| <code>&lt;C-@&gt;</code> || Command-line || Free || This can also be entered with <code>&lt;C-Space&gt;</code>.
 |-
 | <code>&lt;C-J&gt;</code> || Command-line || Synonym || Synonym for <code>&lt;CR&gt;</code>.
 |-
