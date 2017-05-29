@@ -81,7 +81,9 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>S</code> || Visual || Synonym || Synonym for <code>C</code>?
 |-
-| <code>_</code> || Visual || Synonym || Nearly the same as <code>&lt;CR&gt;</code>.
+| <code>Z</code> || Visual || Free || <code>Z</code> in visual mode waits for a following key, as seen if <code>'showcmd'</code> is set. However, neither <code>ZZ</code> nor <code>ZQ</code> do anything (as in normal mode), and no other key combination is listed in the index, so it appears that <code>Z</code> actually does nothing in visual mode.
+|-
+| <code>_</code> || Visual || || Nearly the same as <code>&lt;CR&gt;</code>.
 |-
 | <code>&lt;C-B&gt;</code> || Insert || Free ||
 |-
