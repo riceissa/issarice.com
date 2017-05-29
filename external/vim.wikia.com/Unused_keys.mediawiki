@@ -65,6 +65,8 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>S</code> || Visual || Synonym || Synonym for <code>C</code>?
 |-
+| <code>_</code> || Visual || Synonym || Nearly the same as <code>&lt;CR&gt;</code>.
+|-
 | <code>&lt;C-B&gt;</code> || Insert || Free ||
 |-
 | <code>&lt;C-J&gt;</code> || Insert || Synonym || Synonym for <code>&lt;CR&gt;</code>.
