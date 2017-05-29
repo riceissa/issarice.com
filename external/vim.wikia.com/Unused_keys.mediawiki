@@ -55,7 +55,7 @@ In the following table, the type "Free" means a key is not used in Vim by defaul
 |-
 | <code>Q</code> || Visual || Free ||
 |-
-| <code>R</code> || Visual || Synonym || Synonym for <code>S</code>
+| <code>R</code> || Visual || Synonym || Synonym for <code>S</code>. However, the documentation ({{help|v_R}}) says "In a next version it might work differently."
 |-
 | <code>S</code> || Visual || Synonym || Synonym for <code>C</code>?
 |-
