@@ -15,7 +15,10 @@ Just some notes for now.
         all systems (e.g. my music player configuration file points to an
         external drive that only exists for my laptop) and these programs might
         not offer ways to make configuration files conditional on existence of
-        such paths; some operating systems ship with their own default
+        such paths (Git's `~/.gitconfig` has no support for conditionally
+        setting options, tmux only has a dreadful
+        [`if-shell`](https://shapeshed.com/custom-vim-bindings-in-tmux-2-4/),
+        etc.); some operating systems ship with their own default
         configuration files (e.g. Debian ships with `debian.vim` which does
         things like disable modelines in Vim, others ship with default versions
         of `~/.bashrc`), which presents difficulties with respect to merging
