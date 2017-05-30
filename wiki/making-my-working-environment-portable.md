@@ -133,5 +133,7 @@ with generally good software that just doesn't work *quite* right.
 # External links
 
 -   [How to Efficiently Work Offline](http://www.wikihow.com/Efficiently-Work-Offline) by Vipul Naik
+-   ["Is It Worth the Time?"](https://xkcd.com/1205/) (yes, it's xkcd, but the
+    table is somewhat useful in giving a sense of the tradeoff involved)
 
 [loc]: https://en.wikipedia.org/wiki/Locality_of_reference
