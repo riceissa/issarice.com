@@ -142,6 +142,9 @@ So in the long run, the problems that get fixed are the serious flaws, or the
 ones that are fun to fix, or that seem easy to fix, and so on, and I'm left
 with generally good software that just doesn't work *quite* right.
 
+Aside: the "SAAS approach" to this problem is to create one instance of the
+environment, which eliminates the need for portability.
+
 # External links
 
 -   [How to Efficiently Work Offline](http://www.wikihow.com/Efficiently-Work-Offline) by Vipul Naik
