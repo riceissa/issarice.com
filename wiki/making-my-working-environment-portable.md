@@ -53,6 +53,18 @@ Just some notes for now.
     > maintenance. I like the freedom to wipe and reinstall without losing my
     > world
 
+    But even with this approach, there remains the problem of different
+    operating systems shipping with different versions or stock configuration
+    files.
+    Ubuntu 16.10 ships with the bash aliases `ll`, `la`, and `l` for easy
+    access to some common flags on `ls`.
+    But Debian 8 comments these lines out!
+    To access to clipboard on Vim, on Debian-based distros I must install the
+    GUI Vim package, and use the `vim` binary.
+    But on Fedora, I must use the `vimx` binary.
+    These are portable userland utilities, and yet due to a difference of
+    convention, one's actual "working environment" is not truly portable.
+
   <!-- * The [principle of temporal locality][loc] says that the same values are accessed frequently. In terms of web URLs, this means that if I visit each of Facebook and Gmail once, then Firefox will remember a much larger fraction of the -->
 
 Particularly when editing text, I find it incredibly irritating when it takes a
