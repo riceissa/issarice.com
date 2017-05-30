@@ -65,6 +65,10 @@ Basic usage:
 2. Type `Ctrl`-`\` which prompts the user for an input method.
 3. Type `japanese-anthy`.
 
+**2017 update**: I am never on the framebuffer these days, but for Japanese
+input on Emacs I have switched to mozc.
+The relevant config lines are [here](https://github.com/riceissa/dotfiles/blob/222c30966090592933fe208a565530ea5d08a455/.emacs.d/init.el#L13-L20).
+
 # Packages to install (Debian)
 
 - anthy-el, uim-anthy, uim-fep
