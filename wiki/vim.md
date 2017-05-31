@@ -484,8 +484,19 @@ benefits may outweigh the costs):
     [issue](https://github.com/neovim/neovim/issues/1716) in the Neovim repo on
     this.
 
-    Fugitive's `:Git diff` seems to work on both Vim and Neovim, and I haven't
-    investigated how it does this.
+    Fugitive's `:Git diff` works on both Vim and Neovim. It does this in the
+    definition of the `s:Git()` function by checking for the existence of
+    `:terminal`:
+
+        if exists(':terminal')
+          let dir = s:repo().tree()
+          if expand('%') != ''
+            -tabedit %
+          else
+            -tabnew
+          endif
+          execute 'lcd' fnameescape(dir)
+          execute 'terminal' git args
 
     Vim also has `:DiffOrig`, but I don't like having to get rid of the second
     buffer.
