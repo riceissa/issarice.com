@@ -1,0 +1,29 @@
+This is a '''timeline of the rationality community''' (sometimes also called the "rationalist community").
+
+==Big picture==
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Date !! Event type !! Details
+|-
+| idk || idk || [[Robin Hanson]] starts ''[[Overcoming Bias]]''.
+|-
+| idk || idk || eleizer yudkowsky starts lesswrong
+|-
+| {{Dts|2010|7|23}} || || The [[LessWrong]] user Roko publishes "Solutions to the Altruist's burden: the Quantum Billionaire Trick". The ideas in this post came to be known as "Roko's basilisk".<ref>{{cite web |url=http://rationalwiki.org/wiki/Roko's_basilisk/Original_post |title=Roko's basilisk/Original post |publisher=[[RationalWiki]] |accessdate=February 26, 2017}}</ref><ref>{{cite web |url=https://wiki.lesswrong.com/wiki/Roko's_basilisk |title=Roko's basilisk - Lesswrongwiki |publisher=[[LessWrong]] |accessdate=February 26, 2017}}</ref>
+|-
+| {{Dts|2013|2|13}} || || Scott Alexander publishes the first post on his new blog, Slate Star Codex.<ref>{{cite web |url=https://slatestarcodex.com/2013/02/13/youre-probably-wondering-why-ive-called-you-here-today/ |title=You’re probably wondering why I’ve called you here today |date=September 29, 2014 |publisher=Slate Star Codex |accessdate=February 26, 2017}}</ref>
+|-
+| {{Dts|2016}} || || Vaniver, Anna Salamon, et al. begin the "LessWrong revival"
+|}
+
+==See also==
+
+* hi
+
+==References==
+
+{{Reflist|30em}}
+
+{{LessWrong}}
