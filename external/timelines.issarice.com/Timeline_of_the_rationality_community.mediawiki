@@ -11,6 +11,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2000 || {{dts|February 6}} || || The first email is sent on SL4 ("Shock Level Four"), a mailing list about transhumanism, superintelligent AI, existential risks, and so on.<ref>{{cite web |url=http://sl4.org/archive/date.html |title=SL4: By Date |accessdate=June 1, 2017}}</ref><ref>{{cite web |url=http://sl4.org/ |author=Eliezer S. Yudkowsky |title=SL4 Mailing List |accessdate=June 1, 2017}}</ref>
 |-
+| 2000 || {{dts|July}} || || [[wikipedia:Machine Intelligence Research Institute|Machine Intelligence Research Institute]] is founded as the Singularity Institute for Artificial Intelligence.<ref>{{cite web |url=https://intelligence.org/files/2000-SIAI990.pdf |title=Form 990-EZ 2000 |accessdate=June 1, 2017 |quote=Organization was incorporated in July 2000 and does not have a financial history for years 1996-1999.}}</ref>{{rp|3}}
+|-
 | 2006 || {{dts|November}} || [[Robin Hanson]] starts ''[[Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
 |-
 | 2009 || {{dts|February}} || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
