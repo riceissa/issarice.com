@@ -7,6 +7,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1996 || {{dts|November 18}} || || Eliezer Yudkowsky writes the first version of "Staring into the Singularity".<ref>{{cite web |url=http://yudkowsky.net/obsolete/singularity.html |title=Yudkowsky - Staring into the Singularity 1.2.5 |accessdate=June 1, 2017}}</ref>
+|-
 | 2000 || {{dts|February 6}} || || The first email is sent on SL4 ("Shock Level Four"), a mailing list about transhumanism, superintelligent AI, existential risks, and so on.<ref>{{cite web |url=http://sl4.org/archive/date.html |title=SL4: By Date |accessdate=June 1, 2017}}</ref><ref>{{cite web |url=http://sl4.org/ |author=Eliezer S. Yudkowsky |title=SL4 Mailing List |accessdate=June 1, 2017}}</ref>
 |-
 | 2006 || {{dts|November}} || [[Robin Hanson]] starts ''[[Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
