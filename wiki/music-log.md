@@ -237,6 +237,10 @@ The Pillows:
   I quickly tired of it)
 * Radiohead: *The Bends*
 
+# June 2017
+
+* Radiohead: *In Rainbows*
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
