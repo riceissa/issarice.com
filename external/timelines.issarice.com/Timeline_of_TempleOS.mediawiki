@@ -1,4 +1,4 @@
-This is a '''timeline of [[wikipedia:TempleOS|TempleOS]]''', a biblical-themed operating system, and its creator Terry A. Davis.
+This is a timeline of [[wikipedia:TempleOS|TempleOS]], a biblical-themed operating system, and its creator Terry A. Davis.
 
 ==Big picture==
 
@@ -238,7 +238,6 @@ https://boards.4chan.org/g/thread/59554516#p59568318
 ==External links==
 
 * [http://www.templeos.org/ Official website]
-* [https://en.wikipedia.org/wiki/TempleOS Wikipedia entry for TempleOS]
 * [https://wiki.installgentoo.com/index.php/Temple_OS InstallGentoo Wiki entry for TempleOS]
 * [https://wiki.installgentoo.com/index.php/Terry_Davis InstallGentoo Wiki entry for Terry Davis]
 
