@@ -86,6 +86,42 @@ To my knowledge and recollection, two projects use this approach:
   * Some parts of [*Open Borders: The Case*](http://openborders.info)
   * My own dive into global health
 
+# Changes in major output
+
+In April 2017, Vipul published "Why I stopped quarterly reviews, and what
+replaces them" on his blog.
+In the post he describes changes to how the "major articles" part of the
+research process works:
+
+> My goal with both these kinds of posts is to, essentially, write them *only*
+> once the ideas are all in my head and reasonably clear, so that it's just a
+> straight exercise of transcribing from my head to the computer. Given that I
+> have no particular pressure to "publish", I believe it does not make much
+> sense to artificially try to put in custom, "hacky" effort to push out posts
+> of either of the above kinds in a way that interrupts the flow of the larger
+> projects I am working on.
+>
+> To give an idea of what I used to do, and am now choosing against: there is
+> this strategy where I would decide to work hard on pushing out a wrapper post
+> about a topic I've been learning about, even if I didn't feel like I was
+> fully ready to write it, or knew all the relevant facts. Examples of the
+> kinds of topics I am talking about: understanding trends in Wikipedia
+> pageviews, or understanding the history of immigration enforcement in the
+> United States since 1986. My past strategy was: I would just draft it, pull
+> in a fact from here and a fact from here, revisit, redraft, rewrite, and soon
+> get something that looked okay. And there was a time, early on, when I found
+> that this kind of effort helped me focus and collate information that I would
+> not otherwise have interest in systematically grasping. And I still respect
+> this approach.
+>
+> However, my current belief is that in this sort of situation, it's better to
+> just keep collating background information in accessible formats. such as
+> continued work on the Wikipedia Views website, to make it easier and easier
+> to look up Wikipedia view trends, or work on timeline of immigration
+> enforcement in the United States. And then to start working on the wrapper
+> post only when I feel I have enough to say that I can just sit down and say
+> it.
+
 # Ways in which this approach differs from other approaches
 
   * Unlike writing several papers or writing several blog posts on one's blog,
