@@ -64,6 +64,11 @@ available](https://issarice.com/#activity-feeds).
   incorrect.
 - If one writes up one's thought as one is still struggling through an idea,
   one will appear less intelligent.
+- By exposing the finer details of how one works, one may appear less "magical"
+  in the eyes of the public.
+  Selectively revealing and concealing information to the public allows one to
+  appear more impressive, so by being more transparent by default, one loses
+  out on that differential status.
 
 # See also
 
