@@ -88,10 +88,10 @@ To my knowledge and recollection, two projects use this approach:
 
 # Changes in major output
 
-In April 2017, Vipul published "Why I stopped quarterly reviews, and what
-replaces them" on his blog.
-In the post he describes changes to how the "major articles" part of the
-research process works:
+In April 2017, Vipul published ["Why I stopped quarterly reviews, and what
+replaces them"][stop_quarterly] on his blog.
+In the post he describes how his thinking on the "major articles" part of the
+research process has changed:
 
 > My goal with both these kinds of posts is to, essentially, write them *only*
 > once the ideas are all in my head and reasonably clear, so that it's just a
@@ -134,3 +134,5 @@ research process works:
 # External links
 
   * ["Making Decisions Under Uncertainty"](https://medium.com/lessons-from-mckinsey/making-decisions-under-uncertainty-c1d1dfbb02b2)
+
+[stop_quarterly]: https://vipulnaik.com/blog/why-i-stopped-quarterly-reviews-and-what-replaces-them/ "“Why I stopped quarterly reviews, and what replaces them”. Vipul Naik. April 9, 2017. Retrieved June 3, 2017."
