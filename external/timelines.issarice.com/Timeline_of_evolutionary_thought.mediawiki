@@ -5,6 +5,7 @@ This is a '''timeline of evolutionary thought'''.
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 1880s–1920s || [[wikipedia:The eclipse of Darwinism|The eclipse of Darwinism]] takes place.
 |}
 
 ==Full timeline==
