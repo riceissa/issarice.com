@@ -30,25 +30,14 @@ belong elsewhere ends up here.
 - [Pages related to education](education)
 - A mirror of [my Quora answers]()
 
-# Summary of what I worked on: April 2017 {#summary}
+# Summary of what I worked on: May 2017 {#summary}
 
-Near the beginning of the month I looked into the [flow of money in global
-health](wiki/total-spending-in-global-health.md).
+For the first part of the month I worked on a [timeline of the Bill & Melinda
+Gates Foundation](https://timelines.issarice.com/wiki/Timeline_of_Bill_%26_Melinda_Gates_Foundation).
 
-I also spent some time reading about what it is like to work for some global
-health organizations like WHO and the Gates Foundation.
-I didn't find a lot of information here, and did not publish anything from my
-reading.
-
-In the middle of the month I published a [post](http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/)
-about LessWrong analytics.
-
-I also did some work [processing Gates Foundation grants](https://github.com/riceissa/gates-foundation-iati-processing).
-
-Near the end of the month I published a [timeline of Against Malaria
-Foundation](https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation).
-Separately, I [recorded some thoughts on AMF](wiki/against-malaria-foundation.md)
-that did not belong on the timeline.
+I then worked on a [timeline of electricity
+adoption](https://timelines.issarice.com/wiki/Timeline_of_electricity_adoption),
+which was not completed during the month.
 
 # Activity feeds
 
