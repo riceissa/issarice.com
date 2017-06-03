@@ -54,6 +54,16 @@ available](https://issarice.com/#activity-feeds).
   where individual contributions are difficult to discern, etc. (?)
   Insofar as this is true, *being capable of radical transparency is an
   indicator of not taking up on these opportunities*.
+- In general I like to write for an audience that is intelligent and
+  charitable, but this obviously will not be the case for all readers of what I
+  write.
+  By writing for the most charitable, one may be making one's reputation worse
+  in the eyes of those less charitable.
+  See Holden's [post on public discourse](http://effective-altruism.com/ea/17o/some_thoughts_on_public_discourse/#Note)
+  for reasons to not downgrade people based on public comments that seem
+  incorrect.
+- If one writes up one's thought as one is still struggling through an idea,
+  one will appear less intelligent.
 
 # See also
 
