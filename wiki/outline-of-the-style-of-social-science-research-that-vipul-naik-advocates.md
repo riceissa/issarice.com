@@ -2,7 +2,7 @@
 title: Outline of the style of social science research that Vipul Naik advocates
 author: Issa Rice
 created: 2016-12-12
-date: 2016-12-12
+date: 2017-06-03
 ---
 
 # Summary
