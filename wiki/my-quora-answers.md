@@ -1,7 +1,7 @@
 ---
 title: My Quora answers
 author: Issa Rice
-date: 2017-01-01
+date: 2017-06-04
 ---
 
 # Introduction
@@ -9,6 +9,27 @@ date: 2017-01-01
 My main contributions to [Quora]() are through my questions, but I don't think my answers are especially bad, so here they are.
 
 Reverse chronological order
+
+# How many edits have been made to Wikipedia?
+
+[Mirror](https://www.quora.com/How-many-edits-have-been-made-to-Wikipedia/answer/Issa-Rice)
+
+For **total edits**, see [Special:Statistics](https://en.wikipedia.org/wiki/Special:Statistics).
+
+For the **current month**, I recommend Erik Zachte’s [“English Wikipedia at a glance”](https://stats.wikimedia.org/EN/SummaryEN.htm)page, which has pretty plots for other metrics as well.
+
+For **edits by month**, see the [Wikipedia Statistics table for this](https://stats.wikimedia.org/EN/TablesDatabaseEdits.htm). (Warning: large page that might take a while to load.)
+
+# Does MediaWiki have a git-bisect equivalent?
+
+[Mirror](https://www.quora.com/Does-MediaWiki-have-a-git-bisect-equivalent/answer/Issa-Rice)
+
+MediaWiki itself does not have a git-bisect equivalent, but there are various web-based tools with varying amounts of flexibility that implement the most important parts of git-bisect. The two that seem to work are:
+
+-   [User:Flominator/WikiBlame - Wikipedia](https://en.wikipedia.org/wiki/User:Flominator/WikiBlame), which is available from the “Revision history search” link of the revision history page of each article. This tools does both linear and binary search. The source seems to be available on GitHub: [FlominatorTM/wikiblame](https://github.com/FlominatorTM/wikiblame).
+-   [Article blamer](https://tools.wmflabs.org/xtools/blame/), which is part of X!’s tools. This tool seems to do a linear search [x-tools/xtools](https://github.com/x-tools/xtools/blob/c49a5e3db99b941393564a0a2f6a37c0e7d49f34/public_html/blame/index.php#L53-L82).
+
+See also [Wikipedia:Tools § Finding the responsible user](https://en.wikipedia.org/wiki/Wikipedia:Tools#Finding_the_responsible_user).
 
 # Will all Dropbox URLs become link rot? (December 2016)
 
