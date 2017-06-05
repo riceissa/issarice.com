@@ -9,7 +9,7 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | LessWrong || {{dts|March 2009}}{{snd}}{{dts|June 2013}} ||
 |-
-| 80,000 Hours || {{dts|November 2011}}{{snd}}{{dts|February 2012}} ||
+| 80,000 Hours || {{dts|November 2011}}{{snd}}{{dts|February 2012}} || The 80,000 Hours website states Shulman was "Director of Careers Research in early 2012".<ref name="five_ways" />
 |-
 | *Reflective Disequilibrium* || {{dts|March 2012}}{{snd}}present ||
 |-
@@ -71,7 +71,7 @@ The "Comment count" column applies only to blog posts and relies on the comment 
 |-
 | 2012 || {{dts|February 21}} || Blog post || 80,000 Hours || || "Software engineering: Britain vs Silicon Valley" is published.<ref>{{cite web |url=https://80000hours.org/2012/02/software-engineering-britain-vs-silicon-valley/ |title=Software engineering: Britain vs Silicon Valley - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 1
 |-
-| 2012 || {{dts|February 25}} || Blog post || 80,000 Hours || || "5 ways to be misled by salary rankings" is published.<ref>{{cite web |url=https://80000hours.org/2012/02/5-ways-to-be-misled-by-salary-rankings/ |title=5 ways to be misled by salary rankings - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
+| 2012 || {{dts|February 25}} || Blog post || 80,000 Hours || || "5 ways to be misled by salary rankings" is published.<ref name="five_ways">{{cite web |url=https://80000hours.org/2012/02/5-ways-to-be-misled-by-salary-rankings/ |title=5 ways to be misled by salary rankings - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
 |-
 | 2012 || {{dts|March 7}} || Blog post || LessWrong || || "Using degrees of freedom to change the past for fun and profit" is published.<ref>{{cite web |url=http://lesswrong.com/lw/a9f/using_degrees_of_freedom_to_change_the_past_for/ |title=Using degrees of freedom to change the past for fun and profit - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 23
 |-
