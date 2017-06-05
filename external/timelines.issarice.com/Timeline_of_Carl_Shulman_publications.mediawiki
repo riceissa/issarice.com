@@ -58,6 +58,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2013 || {{dts|November 5}} || Blog post || Effective Altruism Forum || Nick Beckstead || "A Long-run perspective on strategic cause selection and philanthropy" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/5g/a_longrun_perspective_on_strategic_cause/ |title=A Long-run perspective on strategic cause selection and philanthropy - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
 |-
+| 2014 || {{dts|January 3}} || Blog post || *Reflective Disequilibrium* || || "Recent growth at Giving What We Can and GiveWell" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2014/01/recent-linear-growth-at-giving-what-we.html |title=Recent growth at Giving What We Can and GiveWell |accessdate=June 5, 2017}}</ref>
+|-
 | 2014 || {{dts|January 4}} || Blog post || *Reflective Disequilibrium* || || "If big donors have much better opportunities than small donors, then small donors can go to Las Vegas, or Wall Street" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2014/01/if-big-donors-have-much-better.html |title=If big donors have much better opportunities than small donors, then small donors can go to Las Vegas, or Wall Street |accessdate=June 5, 2017}}</ref>
 |-
 | 2014 || {{dts|January 15}} || Blog post || *Reflective Disequilibrium* || || "It's harder to favor a specific cause in more efficient charitable markets" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2014/01/its-harder-to-favor-specific-cause-in.html |title=It's harder to favor a specific cause in more efficient charitable markets |accessdate=June 5, 2017}}</ref>
