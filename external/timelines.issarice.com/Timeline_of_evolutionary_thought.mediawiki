@@ -13,7 +13,9 @@ This is a '''timeline of evolutionary thought'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
-| 1859 || || || [[wikipedia:Charles Darwin|Charles Darwin]]'s ''On the Origin of Species'' is published.<ref>{{cite book |first1=Eva |last1=Jablonka |first2=Marion J. |last2=Lamb |title=Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life (Revised Edition) |year=2014 |publisher=Massachusetts Institute of Technology}}</ref>
+| 1859 || || || [[wikipedia:Charles Darwin|Charles Darwin]]'s ''On the Origin of Species'' is published.<ref name="jablonka">{{cite book |first1=Eva |last1=Jablonka |first2=Marion J. |last2=Lamb |title=Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life (Revised Edition) |year=2014 |publisher=Massachusetts Institute of Technology}}</ref>
+|-
+| mid-1880s || || || Weismann develops his ideas about heredity and development around this time.<ref name="jablonka" />
 |}
 
 ==Meta information on the timeline==
