@@ -7,6 +7,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | Overcoming Bias || {{dts|December 2006}}{{snd}}{{dts|February 2013}} ||
 |-
+| Formal publications || {{dts|2009}}–present ||
+|-
 | LessWrong || {{dts|March 2009}}{{snd}}{{dts|June 2013}} ||
 |-
 | 80,000 Hours || {{dts|November 2011}}{{snd}}{{dts|February 2012}} || The 80,000 Hours website states Shulman was "Director of Careers Research in early 2012".<ref name="five_ways" />
