@@ -10,8 +10,9 @@ This is a '''timeline of Carl Shulman publications'''.
 ==Full timeline==
 
 {| class="sortable wikitable"
-! Year !! Month and date !! Event type !! Details
+! Year !! Month and date !! Format !! Venue !! Coauthors !! Details
 |-
+| 2016 || {{dts|December 2016}} || Blog post || Effective Altruism Forum || || "Risk-neutral donors should plan to make bets at the margin at least as well as giga-donors in expectation" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/15g/small_donors_can_plan_to_make_better_bets_than/ |title=Risk-neutral donors should plan to make bets at the margin at least as well as giga-donors in expectation - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
 |}
 
 ==Meta information on the timeline==
