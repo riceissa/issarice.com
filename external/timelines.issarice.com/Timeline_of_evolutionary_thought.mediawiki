@@ -22,6 +22,8 @@ This is a '''timeline of evolutionary thought'''.
 | 1930s || || || The Modern Synthesis takes place.
 |-
 | 1953 || || || Watson and Crick describe the structure of DNA.<ref name="jablonka" />{{rp|30}}
+|-
+| 1958 || || || Francis Crick describes the "central dogma" of molecular biology.<ref name="jablonka" />{{rp|31}}
 |}
 
 ==Meta information on the timeline==
