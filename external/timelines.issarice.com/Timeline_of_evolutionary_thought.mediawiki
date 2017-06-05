@@ -20,6 +20,8 @@ This is a '''timeline of evolutionary thought'''.
 | 1900 || || || "now regarded as the birthdate of the discipline" of genetics.<ref name="jablonka" />{{rp|24}}
 |-
 | 1930s || || || The Modern Synthesis takes place.
+|-
+| 1953 || || || Watson and Crick describe the structure of DNA.<ref name="jablonka" />{{rp|30}}
 |}
 
 ==Meta information on the timeline==
