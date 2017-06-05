@@ -42,7 +42,7 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 161
 |-
-| 2010 || {{dts|November 24}} || Blog post || LessWrong || || "Probability and Politics" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2ur/probability_and_politics/ |title=Probability and Politics - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| 2010 || {{dts|November 24}} || Blog post || LessWrong || || "Probability and Politics" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2ur/probability_and_politics/ |title=Probability and Politics - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 31
 |-
 | 2011 || {{dts|November 15}} || Blog post || [[wikipedia:80,000 Hours|80,000 Hours]] || || "High Impact Science" is published.<ref>{{cite web |url=https://80000hours.org/2011/11/high-impact-science/ |title=High Impact Science - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
 |-
