@@ -54,6 +54,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2013 || {{dts|June 19}} || Blog post || LessWrong || || "Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb?" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hqs/why_do_theists_undergrads_and_less_wrongers_favor/ |title=Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb? - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2013 || {{dts|July 30}} || Blog post || *Reflective Disequilibrium* || || "Vegan advocacy and pessimism about wild animal welfare" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/07/vegan-advocacy-and-pessimism-about-wild.html |title=Vegan advocacy and pessimism about wild animal welfare |accessdate=June 5, 2017}}</ref>
+|-
 | 2013 || {{dts|August 19}} || Conversation || || Holden Karnofsky, Robert Wiblin, Paul Christiano, Nick Beckstead || The participants have a conversation on flow through effects.<ref>{{cite web |url=https://www.jefftk.com/p/flow-through-effects-conversation |title=Flow Through Effects Conversation |accessdate=June 5, 2017}}</ref>
 |-
 | 2013 || {{dts|September 10}} || Blog post || *Reflective Disequilibrium* || || "How are brain mass (and neurons) distributed among humans and the major farmed land animals?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/09/how-is-brain-mass-distributed-among.html |title=How are brain mass (and neurons) distributed among humans and the major farmed land animals? |accessdate=June 5, 2017}}</ref>
