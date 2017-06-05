@@ -34,6 +34,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2012 || || Paper || ''[[wikipedia:Journal of Consciousness Studies|Journal of Consciousness Studies]]'' || Nick Bostrom || "How Hard is Artificial Intelligence? Evolutionary Arguments and Selection Effects" is published.<ref name="luke_list" /><ref>{{cite web |url=http://www.nickbostrom.com/aievolution.pdf |title=How Hard is Artificial Intelligence? Evolutionary Arguments and Selection Effects - aievolution.pdf |accessdate=June 5, 2017}}</ref>
 |-
+| 2012 || {{dts|January 8}} || Blog post || 80,000 Hours || || "Salary or startup? How do-gooders can gain more from risky careers" is published.<ref>{{cite web |url=https://80000hours.org/2012/01/salary-or-startup-how-do-gooders-can-gain-more-from-risky-careers/ |title=Salary or startup? How do-gooders can gain more from risky careers - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref>
+|-
 | 2012 || {{dts|February 9}} || Blog post || LessWrong || || "Feed the spinoff heuristic!" is published.<ref>{{cite web |url=http://lesswrong.com/lw/9xs/feed_the_spinoff_heuristic/ |title=Feed the spinoff heuristic! - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2012 || {{dts|February 17}} || Blog post || 80,000 Hours || || "How hard is it to become Prime Minister of the United Kingdom?" is published.<ref>{{cite web |url=https://80000hours.org/2012/02/how-hard-is-it-to-become-prime-minister-of-the-united-kingdom/ |title=How to become Prime Minister - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref>
