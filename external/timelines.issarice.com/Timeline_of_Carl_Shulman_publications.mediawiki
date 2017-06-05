@@ -50,6 +50,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2012 || {{dts|March 7}} || Blog post || LessWrong || || "Using degrees of freedom to change the past for fun and profit" is published.<ref>{{cite web |url=http://lesswrong.com/lw/a9f/using_degrees_of_freedom_to_change_the_past_for/ |title=Using degrees of freedom to change the past for fun and profit - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2012 | {{dts|May 10}} || Blog post || *Reflective Disequilibrium* || || "Economic growth: more costly disasters, better prevention" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/05/economic-growth-more-costly-disasters.html |title=Economic growth: more costly disasters, better prevention |accessdate=June 5, 2017}}</ref>
+|-
 | 2012 || {{dts|May 11}} || Blog post || *Reflective Disequilibrium* || || "What to eat during impact winter?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/05/what-to-eat-during-impact-winter.html |title=What to eat during impact winter? |accessdate=June 5, 2017}}</ref>
 |-
 | 2012 || {{dts|July 16}} || Blog post || *Reflective Disequilibrium* || || "Rawls' original position, potential people, and Pascal's Mugging" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/07/rawls-original-position-potential.html |title=Rawls' original position, potential people, and Pascal's Mugging |accessdate=June 5, 2017}}</ref>
