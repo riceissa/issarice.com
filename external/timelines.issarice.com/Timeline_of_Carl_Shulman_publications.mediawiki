@@ -112,6 +112,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2014 || {{dts|January 26}} || Blog post || *Reflective Disequilibrium* || || "Upward and downward biases in the 'double world GDP' estimates of the gains of open borders" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2014/01/upward-and-downward-biases-in-double.html |title=Upward and downward biases in the "double world GDP" estimates of the gains of open borders |accessdate=June 5, 2017}}</ref>
 |-
+| 2014 || {{dts|February 24}} || Paper || ''[[wikipedia:Global Policy|Global Policy]]'' || Nick Bostrom || "Embryo Selection for Cognitive Enhancement: Curiosity or Game-changer?" is published.<ref>{{cite web |url=http://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12123/abstract |title=Embryo Selection for Cognitive Enhancement: Curiosity or Game‐changer? |accessdate=June 5, 2017}}</ref>
+|-
 | 2014 || {{dts|March 11}} || Blog post || *Reflective Disequilibrium* || || "GiveDirectly, happiness, and log income" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2014/03/givedirectly-happiness-and-log-income.html |title=GiveDirectly, happiness, and log income |accessdate=June 5, 2017}}</ref>
 |-
 | 2014 || {{dts|March 13}} || Blog post || *Reflective Disequilibrium* || || "Tech and finance in the Forbes 2013 billionaire list" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2014/03/tech-and-finance-in-forbes-2013.html |title=Tech and finance in the Forbes 2013 billionaire list |accessdate=June 5, 2017}}</ref>
