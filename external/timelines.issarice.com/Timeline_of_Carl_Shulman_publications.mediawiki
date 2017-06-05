@@ -12,6 +12,8 @@ This is a '''timeline of Carl Shulman publications'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Coauthors !! Details
 |-
+| 2013 || {{dts|November 5}} || Blog post || Effective Altruism Forum || Nick Beckstead || "A Long-run perspective on strategic cause selection and philanthropy" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/5g/a_longrun_perspective_on_strategic_cause/ |title=A Long-run perspective on strategic cause selection and philanthropy - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
+|-
 | 2015 || {{dts|December 25}} || Blog post || *Reflective Disequilibrium* and Effective Altruism Forum || || "The age distribution of GiveWell recommended charities" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2015/12/the-age-distribution-of-givewell.html |title=The age distribution of GiveWell recommended charities |accessdate=June 5, 2017}}</ref><ref>{{cite web |url=http://effective-altruism.com/ea/rq/the_age_distribution_of_givewell_recommended/ |title=The age distribution of GiveWell recommended charities - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
 |-
 | 2016 || {{dts|December 7}} || Blog post || Effective Altruism Forum || || "Donor lotteries: demonstration and FAQ" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/14d/donor_lotteries_a_stepbystep_guide_for_mall/ |title=Donor lotteries: demonstration and FAQ - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
