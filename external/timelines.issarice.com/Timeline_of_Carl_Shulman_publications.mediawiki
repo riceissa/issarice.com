@@ -3,8 +3,17 @@ This is a '''timeline of Carl Shulman publications'''.
 ==Big picture==
 
 {| class="wikitable"
-! Time period !! Development summary !! More details
+! Venue !! Time period !! Details
 |-
+| Overcoming Bias || {{dts|December 2006}}{{snd}}{{dts|February 2013}} ||
+|-
+| LessWrong || {{dts|March 2009}}{{snd}}{{dts|June 2013}} ||
+|-
+| 80,000 Hours || {{dts|November 2011}}{{snd}}{{dts|February 2012}} ||
+|-
+| *Reflective Disequilibrium* || {{dts|March 2012}}{{snd}}present ||
+|-
+| Effective Altruism Forum || {{dts|November 2013}}{{snd}}present ||
 |}
 
 ==Full timeline==
