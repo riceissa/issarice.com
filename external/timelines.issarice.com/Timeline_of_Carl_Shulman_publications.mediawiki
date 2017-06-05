@@ -50,6 +50,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2012 || {{dts|March 7}} || Blog post || LessWrong || || "Using degrees of freedom to change the past for fun and profit" is published.<ref>{{cite web |url=http://lesswrong.com/lw/a9f/using_degrees_of_freedom_to_change_the_past_for/ |title=Using degrees of freedom to change the past for fun and profit - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2012 || {{dts|March 24}} || Blog post || *Reflective Disequilibrium* || || "Are pain and pleasure equally energy-efficient?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/03/are-pain-and-pleasure-equally-energy.html |title=Are pain and pleasure equally energy-efficient? |accessdate=June 5, 2017}}</ref>
+|-
 | 2012 || {{dts|May 8}} || Blog post || *Reflective Disequilibrium* || || "Utilitarianism, contractualism, and self-sacrifice" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/05/utilitarianism-contractualism-and-self.html |title=Utilitarianism, contractualism, and self-sacrifice |accessdate=June 5, 2017}}</ref>
 |-
 | 2012 || {{dts|May 9}} || Blog post || *Reflective Disequilibrium* || || "Philosophers vs economists on discounting" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/05/philosophers-vs-economists-on.html |title=Philosophers vs economists on discounting |accessdate=June 5, 2017}}</ref>
