@@ -9,6 +9,8 @@ This is a '''timeline of Carl Shulman publications'''.
 
 ==Full timeline==
 
+The "Comment count" column applies only to blog posts and relies on the comment counting provided by Disqus, Blogger, LessWrong, etc. (as the case may be) rather than manually counting up the comments. The column is blind to the identity of the commenter (e.g. a comment by Shulman himself counts as a comment).
+
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Coauthors !! Details !! Comment count
 |-
@@ -72,13 +74,13 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2012 || {{dts|May 11}} || Blog post || *Reflective Disequilibrium* || || "What to eat during impact winter?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/05/what-to-eat-during-impact-winter.html |title=What to eat during impact winter? |accessdate=June 5, 2017}}</ref> || 4
 |-
-| 2012 || {{dts|July 16}} || Blog post || *Reflective Disequilibrium* || || "Rawls' original position, potential people, and Pascal's Mugging" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/07/rawls-original-position-potential.html |title=Rawls' original position, potential people, and Pascal's Mugging |accessdate=June 5, 2017}}</ref>
+| 2012 || {{dts|July 16}} || Blog post || *Reflective Disequilibrium* || || "Rawls' original position, potential people, and Pascal's Mugging" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/07/rawls-original-position-potential.html |title=Rawls' original position, potential people, and Pascal's Mugging |accessdate=June 5, 2017}}</ref> || 12
 |-
-| 2012 || {{dts|September 17}} || Blog post || *Reflective Disequilibrium* || || "Can catch-up growth take us to the stars?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/09/can-catch-up-growth-take-us-to-stars.html |title=Can catch-up growth take us to the stars? |accessdate=June 5, 2017}}</ref>
+| 2012 || {{dts|September 17}} || Blog post || *Reflective Disequilibrium* || || "Can catch-up growth take us to the stars?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/09/can-catch-up-growth-take-us-to-stars.html |title=Can catch-up growth take us to the stars? |accessdate=June 5, 2017}}</ref> || 0
 |-
-| 2012 || {{dts|September 17}} || Blog post || *Reflective Disequilibrium* || || "Spreading happiness to the stars seems little harder than just spreading" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/09/spreading-happiness-to-stars-seems.html |title=Spreading happiness to the stars seems little harder than just spreading |accessdate=June 5, 2017}}</ref>
+| 2012 || {{dts|September 17}} || Blog post || *Reflective Disequilibrium* || || "Spreading happiness to the stars seems little harder than just spreading" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/09/spreading-happiness-to-stars-seems.html |title=Spreading happiness to the stars seems little harder than just spreading |accessdate=June 5, 2017}}</ref> || 21
 |-
-| 2012 || {{dts|October 16}} || Blog post || Overcoming Bias || || "Alms is not about alms experts" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2012/10/alms-is-not-about-alms-experts.html |title=Overcoming Bias : Alms is not about alms experts |accessdate=June 5, 2017}}</ref>
+| 2012 || {{dts|October 16}} || Blog post || Overcoming Bias || || "Alms is not about alms experts" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2012/10/alms-is-not-about-alms-experts.html |title=Overcoming Bias : Alms is not about alms experts |accessdate=June 5, 2017}}</ref> || 22
 |-
 | 2012 || {{dts|November 5}} || Blog post || *Reflective Disequilibrium*, Overcoming Bias || || "Nuclear winter and human extinction: Q&A with Luke Oman" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/11/nuclear-winter-and-human-extinction-q.html |title=Nuclear winter and human extinction: Q&A with Luke Oman |accessdate=June 5, 2017}}</ref><ref>{{cite web |url=http://www.overcomingbias.com/2012/11/nuclear-winter-and-human-extinction-qa-with-luke-oman.html |title=Overcoming Bias : Nuclear winter and human extinction: Q&A with Luke Oman |accessdate=June 5, 2017}}</ref>
 |-
