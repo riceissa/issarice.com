@@ -12,6 +12,8 @@ This is a '''timeline of Carl Shulman publications'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Coauthors !! Details
 |-
+| 2008 || {{dts|November 22}} || Blog post || Overcoming Bias || || "Brain Emulation and Hard Takeoff" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/brain-emulation.html |title=Overcoming Bias : Brain Emulation and Hard Takeoff |accessdate=June 5, 2017}}</ref>
+|-
 | 2008 || {{dts|November 23}} || Blog post || Overcoming Bias || || " 'Evicting' brain emulations" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/suppose-that-ro.html |title=Overcoming Bias : "Evicting" brain emulations |accessdate=June 5, 2017}}</ref>
 |-
 | 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Which Consequentialism? Machine Ethics and Moral Divergence" is published.<ref name="luke_list">{{cite web |url=http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/ |title=Timeline of Carl Shulman publications - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=https://intelligence.org/files/WhichConsequentialism.pdf |title=WhichConsequentialism.pdf |accessdate=June 5, 2017}}</ref>
