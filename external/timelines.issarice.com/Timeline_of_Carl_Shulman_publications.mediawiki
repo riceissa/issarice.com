@@ -12,6 +12,8 @@ This is a '''timeline of Carl Shulman publications'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Coauthors !! Details
 |-
+| 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Which Consequentialism? Machine Ethics and Moral Divergence" is published.<ref>{{cite web |url=http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/ |title=Timeline of Carl Shulman publications - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2009 || {{dts|March 21}} || Blog post || LessWrong || || "Don't Revere The Bearer Of Good Info" is published.<ref>{{cite web |url=http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/ |title=Don't Revere The Bearer Of Good Info - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
