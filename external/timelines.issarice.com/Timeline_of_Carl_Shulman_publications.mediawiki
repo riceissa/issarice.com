@@ -72,6 +72,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2012 || {{dts|December 22}} || Blog post || *Reflective Disequilibrium*, Overcoming Bias || || "Future Filter Fatalism" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/12/future-filter-fatalism.html |title=Future Filter Fatalism |accessdate=June 5, 2017}}</ref>
 |-
+| 2013 || {{dts|February 4}} || Blog post || Overcoming Bias || || "The SAEE: who was right?" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2013/02/the-saee-who-was-right.html |title=Overcoming Bias : The SAEE: who was right? |accessdate=June 5, 2017}}</ref>
+|-
 | 2013 || {{dts|June 16}} || Blog post || LessWrong || || "Normative uncertainty in Newcomb's problem" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hpy/normative_uncertainty_in_newcombs_problem/ |title=Normative uncertainty in Newcomb's problem - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2013 || {{dts|June 19}} || Blog post || LessWrong || || "Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb?" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hqs/why_do_theists_undergrads_and_less_wrongers_favor/ |title=Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb? - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
