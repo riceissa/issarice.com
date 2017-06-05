@@ -12,7 +12,9 @@ This is a '''timeline of Carl Shulman publications'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Coauthors !! Details
 |-
-| 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Which Consequentialism? Machine Ethics and Moral Divergence" is published.<ref>{{cite web |url=http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/ |title=Timeline of Carl Shulman publications - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Which Consequentialism? Machine Ethics and Moral Divergence" is published.<ref name="luke_list">{{cite web |url=http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/ |title=Timeline of Carl Shulman publications - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=https://intelligence.org/files/WhichConsequentialism.pdf |title=WhichConsequentialism.pdf |accessdate=June 5, 2017}}</ref>
+|-
+| 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Machine Ethics and Superintelligence" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/MachineEthicsSuperintelligence.pdf |title=MachineEthicsSuperintelligence.pdf |accessdate=June 5, 2017}}</ref>
 |-
 | 2009 || {{dts|March 21}} || Blog post || LessWrong || || "Don't Revere The Bearer Of Good Info" is published.<ref>{{cite web |url=http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/ |title=Don't Revere The Bearer Of Good Info - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
