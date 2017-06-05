@@ -18,6 +18,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2009 || {{dts|March 21}} || Blog post || LessWrong || || "Don't Revere The Bearer Of Good Info" is published.<ref>{{cite web |url=http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/ |title=Don't Revere The Bearer Of Good Info - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2010 || || Paper || MIRI? || || "Omohundro's 'Basic AI Drives' and Catastrophic Risks" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/BasicAIDrives.pdf |title=BasicAIDrives.pdf |accessdate=June 5, 2017}}</ref>
+|-
 | 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2010 || {{dts|November 24}} || Blog post || LessWrong || || "Probability and Politics" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2ur/probability_and_politics/ |title=Probability and Politics - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
