@@ -34,13 +34,15 @@ The "Comment count" column applies only to blog posts and relies on the comment 
 |-
 | 2009 || {{dts|July}} || Paper || ''ECAP'' || || "Arms Control and Intelligence Explosions" is published.<ref>{{cite web |url=https://intelligence.org/files/ArmsControl.pdf |title=ArmsControl.pdf |accessdate=June 5, 2017}}</ref> ||
 |-
-| 2010 || || Paper || MIRI? || || "Omohundro's 'Basic AI Drives' and Catastrophic Risks" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/BasicAIDrives.pdf |title=BasicAIDrives.pdf |accessdate=June 5, 2017}}</ref> ||
+| 2010 || || Paper || [[wikipedia:Machine Intelligence Research Institute|MIRI]] || || "Omohundro's 'Basic AI Drives' and Catastrophic Risks" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/BasicAIDrives.pdf |title=BasicAIDrives.pdf |accessdate=June 5, 2017}}</ref> ||
 |-
 | 2010 || || Paper || ''ECAP10'' || Anders Sandberg || "Implications of a Software-Limited Singularity" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/SoftwareLimited.pdf |title=SoftwareLimited.pdf |accessdate=June 5, 2017}}</ref> ||
 |-
 | 2010 || || Paper || ''ECAP10'' || Joshua Fox || "Superintelligence Does Not Imply Benevolence" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/SuperintelligenceBenevolence.pdf |title=SuperintelligenceBenevolence.pdf |accessdate=June 5, 2017}}</ref> ||
 |-
-| 2010 || || Paper || MIRI? || || "Whole Brain Emulation and the Evolution of Superorganisms" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/WBE-Superorgs.pdf |title=WBE-Superorgs.pdf |accessdate=June 5, 2017}}</ref> ||
+| 2010 || || Paper || MIRI || || "Whole Brain Emulation and the Evolution of Superorganisms" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/WBE-Superorgs.pdf |title=WBE-Superorgs.pdf |accessdate=June 5, 2017}}</ref> ||
+|-
+| 2010 || || Paper || MIRI || Eliezer Yudkowsky, Anna Salamon, Steven Kaas, Tom McCabe, Rolf Nelson || "Reducing Long-Term Catastrophic Risks from Artificial Intelligence" appears.<ref>{{cite web |url=https://intelligence.org/files/ReducingRisks.pdf |title=ReducingRisks.pdf |accessdate=June 5, 2017}}</ref>
 |-
 | 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 161
 |-
