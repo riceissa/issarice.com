@@ -9,7 +9,7 @@ This is a '''timeline of Carl Shulman publications'''.
 
 ==Full timeline==
 
-The "Comment count" column applies only to blog posts and relies on the comment counting provided by Disqus, Blogger, LessWrong, etc. (as the case may be) rather than manually counting up the comments. The column is blind to the identity of the commenter (e.g. a comment by Shulman himself counts as a comment, as well as any uncaught spam).
+The "Comment count" column applies only to blog posts and relies on the comment counting provided by Disqus, Blogger, LessWrong, etc. (as the case may be) rather than manually counting up the comments. The column is blind to the identity of the commenter (e.g. a comment by Shulman himself counts as a comment, as well as any uncaught spam). The comment counts are as of June 5, 2017.
 
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Coauthors !! Details !! Comment count
