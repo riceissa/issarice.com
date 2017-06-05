@@ -5,7 +5,7 @@ This is a '''timeline of Carl Shulman publications'''.
 {| class="wikitable"
 ! Venue !! Time period !! Details
 |-
-| Overcoming Bias || {{dts|December 2006}}{{snd}}{{dts|February 2013}} ||
+| Overcoming Bias || {{dts|December 2006}}{{snd}}{{dts|February 2013}} || The Overcoming Bias About page states: "In '12, Robin wanted to cut back to make more time to write a book, and so Katja Grace, Rob Wiblin, and Carl Shulman joined as new-co-bloggers."<ref>{{cite web |url=http://www.overcomingbias.com/about |title=Overcoming Bias : About |accessdate=June 5, 2017}}</ref> [[wikipedia:Robin Hanson|Robin Hanson]] introduces Shulman in a post on October 9, 2012.<ref>{{cite web |url=http://www.overcomingbias.com/2012/10/welcome-carl-shulman.html |title=Overcoming Bias : Welcome Carl Shulman |accessdate=June 5, 2017}}</ref>
 |-
 | Formal publications || {{dts|2009}}–present ||
 |-
