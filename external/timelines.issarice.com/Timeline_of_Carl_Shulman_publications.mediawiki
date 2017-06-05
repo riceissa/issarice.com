@@ -50,6 +50,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2012 || {{dts|March 7}} || Blog post || LessWrong || || "Using degrees of freedom to change the past for fun and profit" is published.<ref>{{cite web |url=http://lesswrong.com/lw/a9f/using_degrees_of_freedom_to_change_the_past_for/ |title=Using degrees of freedom to change the past for fun and profit - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2012 || {{dts|September 17}} || Blog post || *Reflective Disequilibrium* || || "Spreading happiness to the stars seems little harder than just spreading" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/09/spreading-happiness-to-stars-seems.html |title=Spreading happiness to the stars seems little harder than just spreading |accessdate=June 5, 2017}}</ref>
+|-
 | 2012 || {{dts|November 5}} || Blog post || *Reflective Disequilibrium*, Overcoming Bias || || "Nuclear winter and human extinction: Q&A with Luke Oman" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/11/nuclear-winter-and-human-extinction-q.html |title=Nuclear winter and human extinction: Q&A with Luke Oman |accessdate=June 5, 2017}}</ref>
 |-
 | 2012 || {{dts|December 6}} || Blog post || *Reflective Disequilibrium*, Overcoming Bias || || "Breeding happier animals: no futuristic tech required" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/12/breeding-happier-livestock-no.html |title=Breeding happier animals: no futuristic tech required |accessdate=June 5, 2017}}</ref>
