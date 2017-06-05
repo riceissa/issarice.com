@@ -12,6 +12,8 @@ This is a '''timeline of Carl Shulman publications'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Coauthors !! Details
 |-
+| 2007 || {{dts|January 27}} || Blog post || Overcoming Bias || || "Sick of Textbook Errors" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2007/01/sick_of_textboo.html |title=Overcoming Bias : Sick of Textbook Errors |accessdate=June 5, 2017}}</ref>
+|-
 | 2008 || {{dts|November 22}} || Blog post || Overcoming Bias || || "Brain Emulation and Hard Takeoff" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/brain-emulation.html |title=Overcoming Bias : Brain Emulation and Hard Takeoff |accessdate=June 5, 2017}}</ref>
 |-
 | 2008 || {{dts|November 23}} || Blog post || Overcoming Bias || || " 'Evicting' brain emulations" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/suppose-that-ro.html |title=Overcoming Bias : "Evicting" brain emulations |accessdate=June 5, 2017}}</ref>
