@@ -58,6 +58,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2013 || {{dts|November 5}} || Blog post || Effective Altruism Forum || Nick Beckstead || "A Long-run perspective on strategic cause selection and philanthropy" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/5g/a_longrun_perspective_on_strategic_cause/ |title=A Long-run perspective on strategic cause selection and philanthropy - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
 |-
+| 2013 || {{dts|December 11}} || Blog post || *Reflective Disequilibrium* || || "What proxies to use for flow-through effects?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/12/what-proxies-to-use-for-flow-through.html |title=What proxies to use for flow-through effects? |accessdate=June 5, 2017}}</ref>
+|-
 | 2013 || {{dts|December 12}} || Blog post || *Reflective Disequilibrium* || || "How to think about displacing Good Ventures in funding GiveWell Labs?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/12/donor-advised-fund-using-future.html |title=How to think about displacing Good Ventures in funding GiveWell Labs? |accessdate=June 5, 2017}}</ref>
 |-
 | 2014 || {{dts|January 2}} || Blog post || *Reflective Disequilibrium* || || "Turning log-consumption into a [crude] measure of short-run human welfare" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2014/01/turning-log-consumption-into-measure-of.html |title=Turning log-consumption into a [crude] measure of short-run human welfare |accessdate=June 5, 2017}}</ref>
