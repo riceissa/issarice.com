@@ -54,6 +54,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2013 || {{dts|June 19}} || Blog post || LessWrong || || "Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb?" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hqs/why_do_theists_undergrads_and_less_wrongers_favor/ |title=Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb? - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2013 || {{dts|July 4}} || Blog post || *Reflective Disequilibrium* || || "Open borders in (at least) one (developed) country" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/07/open-borders-in-at-least-one-developed.html |title=Open borders in (at least) one (developed) country |accessdate=June 5, 2017}}</ref>
+|-
 | 2013 || {{dts|July 8}} || Blog post || *Reflective Disequilibrium* || || "How immigration could make AMF more cost-effective" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/07/how-immigration-could-make-amf-more.html |title=How immigration could make AMF more cost-effective |accessdate=June 5, 2017}}</ref>
 |-
 | 2013 || {{dts|July 30}} || Blog post || *Reflective Disequilibrium* || || "Vegan advocacy and pessimism about wild animal welfare" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/07/vegan-advocacy-and-pessimism-about-wild.html |title=Vegan advocacy and pessimism about wild animal welfare |accessdate=June 5, 2017}}</ref>
