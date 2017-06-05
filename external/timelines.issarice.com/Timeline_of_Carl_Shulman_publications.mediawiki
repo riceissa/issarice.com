@@ -62,6 +62,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2016 || {{dts|May}} || Paper || ''[[wikipedia:AI & Society|AI & Society]]'' || Stuart Armstrong, Nick Bostrom || "Racing to the precipice: a model of artificial intelligence development" is published. The Springer website states the paper was first received on April 29, 2015.<ref>{{cite web |url=https://link.springer.com/article/10.1007/s00146-015-0590-y/fulltext.html |title=Racing to the precipice: a model of artificial intelligence development |publisher=SpringerLink |accessdate=June 5, 2017}}</ref>
 |-
+| 2016 || {{dts|October 25}} || Blog post || Effective Altruism Forum || Jeff Kaufman, Gregory Lewis, Oliver Habryka, Claire Zabel || "Concerns with Intentional Insights" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/12z/concerns_with_intentional_insights/ |title=Concerns with Intentional Insights - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
+|-
 | 2016 || {{dts|December 7}} || Blog post || Effective Altruism Forum || || "Donor lotteries: demonstration and FAQ" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/14d/donor_lotteries_a_stepbystep_guide_for_mall/ |title=Donor lotteries: demonstration and FAQ - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
 |-
 | 2016 || {{dts|December 31}} || Blog post || Effective Altruism Forum || || "Risk-neutral donors should plan to make bets at the margin at least as well as giga-donors in expectation" is published.<ref>{{cite web |url=http://effective-altruism.com/ea/15g/small_donors_can_plan_to_make_better_bets_than/ |title=Risk-neutral donors should plan to make bets at the margin at least as well as giga-donors in expectation - Effective Altruism Forum |accessdate=June 5, 2017}}</ref>
