@@ -36,6 +36,8 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2012 || {{dts|February 9}} || Blog post || LessWrong || || "Feed the spinoff heuristic!" is published.<ref>{{cite web |url=http://lesswrong.com/lw/9xs/feed_the_spinoff_heuristic/ |title=Feed the spinoff heuristic! - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2012 || {{dts|February 17}} || Blog post || 80,000 Hours || || "How hard is it to become Prime Minister of the United Kingdom?" is published.<ref>{{cite web |url=https://80000hours.org/2012/02/how-hard-is-it-to-become-prime-minister-of-the-united-kingdom/ |title=How to become Prime Minister - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref>
+|-
 | 2012 || {{dts|February 19}} || Blog post || 80,000 Hours || || "Entrepreneurship: a game of poker, not roulette" is published.<ref>{{cite web |url=https://80000hours.org/2012/02/entrepreneurship-a-game-of-poker-not-roulette/ |title=Entrepreneurship: a game of poker, not roulette - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref>
 |-
 | 2012 || {{dts|February 21}} || Blog post || 80,000 Hours || || "Software engineering: Britain vs Silicon Valley" is published.<ref>{{cite web |url=https://80000hours.org/2012/02/software-engineering-britain-vs-silicon-valley/ |title=Software engineering: Britain vs Silicon Valley - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref>
