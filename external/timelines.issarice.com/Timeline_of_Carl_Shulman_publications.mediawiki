@@ -20,15 +20,15 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2007 || {{dts|January 27}} || Blog post || Overcoming Bias || || "Sick of Textbook Errors" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2007/01/sick_of_textboo.html |title=Overcoming Bias : Sick of Textbook Errors |accessdate=June 5, 2017}}</ref> || 3
 |-
-| 2008 || {{dts|November 22}} || Blog post || Overcoming Bias || || "Brain Emulation and Hard Takeoff" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/brain-emulation.html |title=Overcoming Bias : Brain Emulation and Hard Takeoff |accessdate=June 5, 2017}}</ref>
+| 2008 || {{dts|November 22}} || Blog post || Overcoming Bias || || "Brain Emulation and Hard Takeoff" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/brain-emulation.html |title=Overcoming Bias : Brain Emulation and Hard Takeoff |accessdate=June 5, 2017}}</ref> || 28
 |-
-| 2008 || {{dts|November 23}} || Blog post || Overcoming Bias || || " 'Evicting' brain emulations" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/suppose-that-ro.html |title=Overcoming Bias : "Evicting" brain emulations |accessdate=June 5, 2017}}</ref>
+| 2008 || {{dts|November 23}} || Blog post || Overcoming Bias || || " 'Evicting' brain emulations" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2008/11/suppose-that-ro.html |title=Overcoming Bias : "Evicting" brain emulations |accessdate=June 5, 2017}}</ref> || 21
 |-
 | 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Which Consequentialism? Machine Ethics and Moral Divergence" is published.<ref name="luke_list">{{cite web |url=http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/ |title=Timeline of Carl Shulman publications - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=https://intelligence.org/files/WhichConsequentialism.pdf |title=WhichConsequentialism.pdf |accessdate=June 5, 2017}}</ref>
 |-
 | 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Machine Ethics and Superintelligence" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/MachineEthicsSuperintelligence.pdf |title=MachineEthicsSuperintelligence.pdf |accessdate=June 5, 2017}}</ref>
 |-
-| 2009 || {{dts|March 21}} || Blog post || [[wikipedia:LessWrong|LessWrong]] || || "Don't Revere The Bearer Of Good Info" is published.<ref>{{cite web |url=http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/ |title=Don't Revere The Bearer Of Good Info - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| 2009 || {{dts|March 21}} || Blog post || [[wikipedia:LessWrong|LessWrong]] || || "Don't Revere The Bearer Of Good Info" is published.<ref>{{cite web |url=http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/ |title=Don't Revere The Bearer Of Good Info - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 64
 |-
 | 2009 || {{dts|July}} || Paper || ''ECAP'' || || "Arms Control and Intelligence Explosions" is published.<ref>{{cite web |url=https://intelligence.org/files/ArmsControl.pdf |title=ArmsControl.pdf |accessdate=June 5, 2017}}</ref>
 |-
@@ -40,9 +40,9 @@ This is a '''timeline of Carl Shulman publications'''.
 |-
 | 2010 || || Paper || MIRI? || || "Whole Brain Emulation and the Evolution of Superorganisms" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/WBE-Superorgs.pdf |title=WBE-Superorgs.pdf |accessdate=June 5, 2017}}</ref>
 |-
-| 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 161
 |-
-| 2011 || {{dts|November 15}} || Blog post || [[wikipedia:80,000 Hours|80,000 Hours]] || || "High Impact Science" is published.<ref>{{cite web |url=https://80000hours.org/2011/11/high-impact-science/ |title=High Impact Science - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref>
+| 2011 || {{dts|November 15}} || Blog post || [[wikipedia:80,000 Hours|80,000 Hours]] || || "High Impact Science" is published.<ref>{{cite web |url=https://80000hours.org/2011/11/high-impact-science/ |title=High Impact Science - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
 |-
 | 2010 || {{dts|November 24}} || Blog post || LessWrong || || "Probability and Politics" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2ur/probability_and_politics/ |title=Probability and Politics - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
