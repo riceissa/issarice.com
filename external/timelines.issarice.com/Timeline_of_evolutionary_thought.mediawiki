@@ -24,6 +24,8 @@ This is a '''timeline of evolutionary thought'''.
 | 1953 || || || Watson and Crick describe the structure of DNA.<ref name="jablonka" />{{rp|30}}
 |-
 | 1958 || || || Francis Crick describes the "central dogma" of molecular biology.<ref name="jablonka" />{{rp|31}}
+|-
+| 1973 || || || [[wikipedia:Leigh Van Valen|Leigh Van Valen]] proposes the [[wikipedia:Red Queen hypothesis|Red Queen hypothesis]].
 |}
 
 ==Meta information on the timeline==
