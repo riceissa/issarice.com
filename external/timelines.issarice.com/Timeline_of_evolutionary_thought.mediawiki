@@ -27,7 +27,7 @@ This is a '''timeline of evolutionary thought'''.
 |-
 | 1973 || || || [[wikipedia:Leigh Van Valen|Leigh Van Valen]] proposes the [[wikipedia:Red Queen hypothesis|Red Queen hypothesis]].
 |-
-| 1976 || || || [[wikipedia:Richard Dawkins|Richard Dawkins]]'s ''[[wikipedia:The Selfish Gene|The Selfish Gene]]'' is published.
+| 1976 || || || [[wikipedia:Richard Dawkins|Richard Dawkins]]'s ''[[wikipedia:The Selfish Gene|The Selfish Gene]]'' is published.<ref name="jablonka" />{{rp|37}}
 |}
 
 ==Meta information on the timeline==
