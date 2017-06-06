@@ -30,6 +30,8 @@ This is a '''timeline of evolutionary thought'''.
 | 1973 || || || [[wikipedia:Leigh Van Valen|Leigh Van Valen]] proposes the [[wikipedia:Red Queen hypothesis|Red Queen hypothesis]].
 |-
 | 1976 || || || [[wikipedia:Richard Dawkins|Richard Dawkins]]'s ''[[wikipedia:The Selfish Gene|The Selfish Gene]]'' is published.<ref name="jablonka" />{{rp|37}}
+|-
+| 1988 || || || John Cairns and his colleagues publish a paper in ''Nature'' arguing that mutations are not entirely random.<ref name="jablonka" />{{rp|79–80}}
 |}
 
 ==Meta information on the timeline==
