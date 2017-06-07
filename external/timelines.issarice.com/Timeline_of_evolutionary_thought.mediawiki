@@ -17,6 +17,8 @@ This is a '''timeline of evolutionary thought'''.
 |-
 | mid-1880s || || || Weismann develops his ideas about heredity and development around this time.<ref name="jablonka" />
 |-
+| 1896 || || || [[wikipedia:James Mark Baldwin|James Mark Baldwin]]'s paper "A New Factor in Evolution" is published. The paper describes what would later be called the [[wikipedia:Baldwin effect|Baldwin effect]].
+|-
 | 1900 || || || "now regarded as the birthdate of the discipline" of genetics.<ref name="jablonka" />{{rp|24}}
 |-
 | 1930s || || || The Modern Synthesis takes place.
