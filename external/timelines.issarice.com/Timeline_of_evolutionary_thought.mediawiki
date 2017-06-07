@@ -21,7 +21,7 @@ This is a '''timeline of evolutionary thought'''.
 |-
 | 1930s || || || The Modern Synthesis takes place.
 |-
-| 1940s || || || [[wikipedia:C. H. Waddington|C. H. Waddington]] coins the concept and term "[[wikipedia:Canalisation (genetics)|canalization]].<ref>{{cite web |url=https://www.ncbi.nlm.nih.gov/pubmed/16250465 |author=Flatt T |title=The evolutionary genetics of canalization. |publisher=PubMed - NCBI |accessdate=June 7, 2017 |quote=In the 1940s, Conrad Hal Waddington coined the concept and term "canalization" to describe the robustness of phenotypes to perturbation}}</ref>
+| 1940s || || || [[wikipedia:C. H. Waddington|C. H. Waddington]] coins the concept and term "[[wikipedia:Canalisation (genetics)|canalization]]".<ref>{{cite web |url=https://www.ncbi.nlm.nih.gov/pubmed/16250465 |author=Flatt T |title=The evolutionary genetics of canalization. |publisher=PubMed - NCBI |accessdate=June 7, 2017 |quote=In the 1940s, Conrad Hal Waddington coined the concept and term "canalization" to describe the robustness of phenotypes to perturbation}}</ref>
 |-
 | 1953 || || || Watson and Crick describe the structure of DNA.<ref name="jablonka" />{{rp|30}}
 |-
