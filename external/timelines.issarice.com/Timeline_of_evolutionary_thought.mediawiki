@@ -27,6 +27,8 @@ This is a '''timeline of evolutionary thought'''.
 |-
 | 1960s–1970s || || || "some of the processes that enable the information in a sequence of DNA to be converted into the polypeptide chains of proteins were worked out".<ref name="jablonka" />{{rp|50}}
 |-
+| 1972 || || || Eldredge and Gould's paper on [[wikipedia:Punctuated equilibrium|punctuated equilibrium]] is published.
+|-
 | 1973 || || || [[wikipedia:Leigh Van Valen|Leigh Van Valen]] proposes the [[wikipedia:Red Queen hypothesis|Red Queen hypothesis]].
 |-
 | 1976 || || || [[wikipedia:Richard Dawkins|Richard Dawkins]]'s ''[[wikipedia:The Selfish Gene|The Selfish Gene]]'' is published.<ref name="jablonka" />{{rp|37}}
