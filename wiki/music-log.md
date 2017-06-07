@@ -245,6 +245,8 @@ The Pillows:
 # June 2017
 
 * Radiohead: *In Rainbows*
+* Radiohead: *A Moon Shaped Pool*
+* Radiohead: *In Rainbows – From the Basement*
 
 # History
 
