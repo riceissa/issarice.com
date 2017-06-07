@@ -21,7 +21,7 @@ This is a '''timeline of evolutionary thought'''.
 |-
 | 1930s || || || The Modern Synthesis takes place.
 |-
-| 1940s || || || [[wikipedia:C. H. Waddington|C. H. Waddington]] coins the concept and term "[[wikipedia:Canalisation (genetics)|canalization]]".<ref>{{cite web |url=https://www.ncbi.nlm.nih.gov/pubmed/16250465 |author=Flatt T |title=The evolutionary genetics of canalization. |publisher=PubMed - NCBI |accessdate=June 7, 2017 |quote=In the 1940s, Conrad Hal Waddington coined the concept and term "canalization" to describe the robustness of phenotypes to perturbation}}</ref>
+| 1940s || || || [[wikipedia:C. H. Waddington|C. H. Waddington]] coins the concept and term "[[wikipedia:Canalisation (genetics)|canalization]]".<ref>{{cite web |url=https://www.ncbi.nlm.nih.gov/pubmed/16250465 |author=Flatt T |title=The evolutionary genetics of canalization. |publisher=PubMed - NCBI |accessdate=June 7, 2017 |quote=In the 1940s, Conrad Hal Waddington coined the concept and term "canalization" to describe the robustness of phenotypes to perturbation}}</ref><ref>{{cite web |url=http://www.genetics.org/content/149/4/2119 |title=Canalization, Genetic Assimilation and Preadaptation: A Quantitative Genetic Model |publisher=Genetics |first1=Ilan |last1=Eshel |first2=Carlo |last2=Matessi |date=August 1, 1998 |accessdate=June 7, 2017 |quote=The peculiar pattern of interaction between genetic and environmental variation that underlies the expression of crossveins, and of other traits that can be similarly subject to assimilation, was described by Waddington using the concept of genetic canalization (Waddington 1940).}}</ref>
 |-
 | 1953 || || || Watson and Crick describe the structure of DNA.<ref name="jablonka" />{{rp|30}}
 |-
