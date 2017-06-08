@@ -37,6 +37,8 @@ This is a '''timeline of evolutionary thought'''.
 |-
 | mid-1970s || || || Until this period, "the existence of epigenetic inheritance was barely recognized".<ref name="jablonka" />{{rp|111}}
 |-
+| 1975 || || || Robin Holiday and John Pugh in Britain as well as Arthur Riggs in the United States independently suggest a mechanism of transmitting gene activity or inactivity to future cell generations.<ref name="jablonka" />{{rp|111–112}}
+|-
 | 1976 || || || [[wikipedia:Richard Dawkins|Richard Dawkins]]'s ''[[wikipedia:The Selfish Gene|The Selfish Gene]]'' is published.<ref name="jablonka" />{{rp|37}}
 |-
 | 1988 || || || John Cairns and his colleagues publish a paper in ''Nature'' arguing that mutations are not entirely random.<ref name="jablonka" />{{rp|79–80}}
