@@ -35,6 +35,12 @@ plugins more useful.
 - Markdown cite
 - "Expand all" for Facebook comments
 
+# Settings
+
+In `about:config`:
+
+- Set `network.IDN_show_punycode` to `true`
+
 # See also
 
 * [Software]() for more about the software I use
