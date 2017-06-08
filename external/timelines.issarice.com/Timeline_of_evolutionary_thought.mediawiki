@@ -29,6 +29,8 @@ This is a '''timeline of evolutionary thought'''.
 |-
 | 1958 || || || Francis Crick describes the "central dogma" of molecular biology.<ref name="jablonka" />{{rp|31}}
 |-
+| late 1950s{{snd}}1960s || || || [[wikipedia:Tracy Sonneborn|Tracy Sonneborn]] and colleagues discover a form of [[wikipedia:Structural inheritance|structural inheritance]] in the [[wikipedia:Cilia|cilia]] of ''[[wikipedia:Paramecium|Paramecium]]''.<ref name="jablonka" />{{rp|119}}
+|-
 | 1960s–1970s || || || "some of the processes that enable the information in a sequence of DNA to be converted into the polypeptide chains of proteins were worked out".<ref name="jablonka" />{{rp|50}}
 |-
 | 1972 || || || Eldredge and Gould's paper on [[wikipedia:Punctuated equilibrium|punctuated equilibrium]] is published.
