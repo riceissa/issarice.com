@@ -708,22 +708,15 @@ can learn a lot about the most exciting things that are happening.
     - **[AARON SWARTZ](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)**; READ ALL OF HIS BLOG
     - Paul Graham
     - Mark Zuckerberg; e.g. [Mark Zuckerberg at Startup School 2013](https://www.youtube.com/watch?v=MGsalg2f9js) is pretty good. Also read Kirkpatrick's book.
-    - Michael O. Church ([Quora](https://www.quora.com/Michael-O-Church), [blog](https://michaelochurch.wordpress.com/))
-    - **Alex K. Chen**
-        - [Alex K\. Chen's answer to Who are the most interesting people in the world?](https://www.quora.com/Who-are-the-most-interesting-people-in-the-world/answer/Alex-K-Chen)
     - **Vipul Naik**
     - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/)".
-    - [Raman Shah](https://www.quora.com/Raman-Shah)
-    - [Inna Vishik](https://www.quora.com/Inna-Vishik)
-    - [Andrew Ho](http://www.andrewjho.me/) (also on [Quora](https://www.quora.com/Andrew-J-Ho/))
     - gwern
     - Mencius Moldbug/neoreactionaries
-    - Scott Alexander
     - **Bryan Caplan**: see my page on [EconLog]()
-    - [Natalia Nezvanova](https://www.quora.com/Natalia-Nezvanova)
-    - Terence Tao
-    - [Tim Gowers](http://gowers.wordpress.com/)
+    - Michael Huemer
     - Eliezer Yudkowsky
+    - Nick Bostrom
+    - Robin Hanson
     - Holden Karnofsky (see his GiveWell blog posts as well as his Harvard reunion speech in 2013)
     - Carl Shulman
     - Brian Tomasik (his essays on reducing suffering and some other stuff)
@@ -733,8 +726,6 @@ can learn a lot about the most exciting things that are happening.
     - [David Roodman](http://davidroodman.com/)
     - [The Last Psychiatrist](http://thelastpsychiatrist.com/)
     - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
-    - Tokieda Tadashi
-    - Laurens Gunnarsen
     - Some more people mentioned by Alex K. Chen:
 
         > People whose opinions I very highly respect: danah boyd,
