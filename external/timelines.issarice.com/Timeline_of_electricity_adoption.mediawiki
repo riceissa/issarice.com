@@ -87,55 +87,55 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1899 || || || The [[wikipedia:Rivers and Harbors Act of 1899|Rivers and Harbors Act of 1899]] passes in the United States. Part of the act requires a permit to dam navigable waters. || United States
 |-
-| 1902 || || || The [[wikipedia:Air conditioning#Electromechanical cooling|first modern electric air conditioning unit]] is invented. || United States
+| 1902 || || Appliance || The [[wikipedia:Air conditioning#Electromechanical cooling|first modern electric air conditioning unit]] is invented. || United States
 |-
-| 1904 || || || The [[wikipedia:Washing machine#Early machines|first electric washing machines]] are created around this time. ||
+| 1904 || || Appliance || The [[wikipedia:Washing machine#Early machines|first electric washing machines]] are created around this time. ||
 |-
 | 1905 || || || By this time, Britain has electrified almost 90% of its tramway mileage.<ref name="hannah" />{{rp|15}} || United Kingdom
 |-
-| 1906 || || || The [[wikipedia:Induction cooking#History|first patents for induction cooking]] date back to around this time. However, modern implementations would arrive only in the 1970s. ||
+| 1906 || || Appliance || The [[wikipedia:Induction cooking#History|first patents for induction cooking]] date back to around this time. However, modern implementations would arrive only in the 1970s. ||
 |-
-| 1907 || || || The [[wikipedia:Vacuum cleaner#Domestic vacuum cleaner|first portable electric vacuum cleaner is invented]]. || United States
+| 1907 || || Appliance || The [[wikipedia:Vacuum cleaner#Domestic vacuum cleaner|first portable electric vacuum cleaner is invented]]. || United States
 |-
-| 1910s–1920s || || || The first electric dishwasher is produced around this time. [[wikipedia:Dishwasher#History|Wikipedia shows]] a photo of one from "about 1917". Some other sources credit "the Walker brothers" in 1913.<ref>{{cite web |url=http://www.jitterbuzz.com/aplsho.html |title=A Visit to a 1930s Appliance Show |accessdate=May 16, 2017 |quote=In 1913 when the Walker Brothers hardware store was wired for electricity they produced thier first electric dishwasher.}}</ref> By the mid-1920s, there are companies dedicated to manufacturing electric dishwashers.<ref>{{cite web |url=http://www.wisconsinhistory.org/Content.aspx?dsNav=N:4294963828-4294963805&dsRecordDetails=R:CS2619 |title=Early Electric Dishwasher |publisher=Wisconsin Historical Society |accessdate=May 16, 2017}}</ref> ||
+| 1910s–1920s || || Appliance || The first electric dishwasher is produced around this time. [[wikipedia:Dishwasher#History|Wikipedia shows]] a photo of one from "about 1917". Some other sources credit "the Walker brothers" in 1913.<ref>{{cite web |url=http://www.jitterbuzz.com/aplsho.html |title=A Visit to a 1930s Appliance Show |accessdate=May 16, 2017 |quote=In 1913 when the Walker Brothers hardware store was wired for electricity they produced thier first electric dishwasher.}}</ref> By the mid-1920s, there are companies dedicated to manufacturing electric dishwashers.<ref>{{cite web |url=http://www.wisconsinhistory.org/Content.aspx?dsNav=N:4294963828-4294963805&dsRecordDetails=R:CS2619 |title=Early Electric Dishwasher |publisher=Wisconsin Historical Society |accessdate=May 16, 2017}}</ref> ||
 |-
-| 1914 || || || The [[wikipedia:Refrigerator#Domestic refrigerator|first practical electric refrigerator]] is created around this time. ||
+| 1914 || || Appliance || The [[wikipedia:Refrigerator#Domestic refrigerator|first practical electric refrigerator]] is created around this time. ||
 |-
 | 1918 || || || In the aftermath of [[wikipedia:World War I|World War I]], German electricity companies in various regions of the world are seized or bought.<ref name="hausman" />{{rp|131–138}} ||
 |-
-| 1920 || {{dts|June 10}} || || The [[wikipedia:Federal Power Act|Federal Water Power Act]] is enacted. This act creates the [[wikipedia:Federal Power Commission|Federal Power Commission]]. || United States
+| 1920 || {{dts|June 10}} || Legal || The [[wikipedia:Federal Power Act|Federal Water Power Act]] is enacted. This act creates the [[wikipedia:Federal Power Commission|Federal Power Commission]]. || United States
 |-
-| 1933–1942 || || || [[wikipedia:Grand Coulee Dam|Grand Coulee Dam]], with its first two powerhouses, is constructed. It is currently the [[wikipedia:List of largest hydroelectric power stations|sixth largest hydroelectric power station in the world (and largest in the United States) by installed capacity]]. || United States (Washington State)
+| 1933–1942 || || Generation || [[wikipedia:Grand Coulee Dam|Grand Coulee Dam]], with its first two powerhouses, is constructed. It is currently the [[wikipedia:List of largest hydroelectric power stations|sixth largest hydroelectric power station in the world (and largest in the United States) by installed capacity]]. || United States (Washington State)
 |-
 | 1935 || || || The [[wikipedia:Rural Utilities Service#Rural Electrification Administration|Rural Electrification Administration]] is created as part of the [[wikipedia:New Deal|New Deal]]. || United States
 |-
-| 1936 || {{dts|May 20}} || || The [[wikipedia:Rural Electrification Act|Rural Electrification Act]] is enacted. || United States
+| 1936 || {{dts|May 20}} || Legal || The [[wikipedia:Rural Electrification Act|Rural Electrification Act]] is enacted. || United States
 |-
-| 1946 || || || Electricity production and distribution in France is nationalized.<ref>{{cite web |url=http://ethw.org/w/images/c/c2/Beltran%2C_Competitiveness_and_Electricity.pdf |title=Competitiveness and Electricity: Electricité de France Since 1946 |first=Alain |last=Beltran}}</ref>{{rp|315}} || France
+| 1946 || || Legal || Electricity production and distribution in France is nationalized.<ref>{{cite web |url=http://ethw.org/w/images/c/c2/Beltran%2C_Competitiveness_and_Electricity.pdf |title=Competitiveness and Electricity: Electricité de France Since 1946 |first=Alain |last=Beltran}}</ref>{{rp|315}} || France
 |-
-| 1947 || || || The [[wikipedia:Microwave oven#Commercial availability|microwave oven becomes commercially available]]. ||
+| 1947 || || Appliance || The [[wikipedia:Microwave oven#Commercial availability|microwave oven becomes commercially available]]. ||
 |-
-| 1948 || {{dts|April 1}} || || In Britain, the [[wikipedia:Electricity Act 1947|Electricity Act 1947]] nationalizes the electricity generation and supply industry. The act would be repealed in 1989 with the [[wikipedia:Electricity Act 1989|Electricity Act 1989]]. || United Kingdom
+| 1948 || {{dts|April 1}} || Legal || In Britain, the [[wikipedia:Electricity Act 1947|Electricity Act 1947]] nationalizes the electricity generation and supply industry. The act would be repealed in 1989 with the [[wikipedia:Electricity Act 1989|Electricity Act 1989]]. || United Kingdom
 |-
-| 1963–1978 || || || The [[wikipedia:Guri Dam|Guri Dam]] is built. It is the [[wikipedia:List of largest hydroelectric power stations|fourth largest hydroelectric power station in the world by installed capacity]]. || Venezuela
+| 1963–1978 || || Generation || The [[wikipedia:Guri Dam|Guri Dam]] is built. It is the [[wikipedia:List of largest hydroelectric power stations|fourth largest hydroelectric power station in the world by installed capacity]]. || Venezuela
 |-
-| 1971–1984 || || || The [[wikipedia:Itaipu Dam|Itaipu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|second largest hydroelectric dam in the world by installed capacity]]. || Brazil, Paraguay
+| 1971–1984 || || Generation || The [[wikipedia:Itaipu Dam|Itaipu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|second largest hydroelectric dam in the world by installed capacity]]. || Brazil, Paraguay
 |-
-| 1975–1984 || || || The [[wikipedia:Tucuruí Dam|Tucuruí Dam]] is built. It is the [[wikipedia:List of largest hydroelectric power stations|fifth largest hydroelectric power station in the world by installed capacity]]. || Brazil
+| 1975–1984 || || Generation || The [[wikipedia:Tucuruí Dam|Tucuruí Dam]] is built. It is the [[wikipedia:List of largest hydroelectric power stations|fifth largest hydroelectric power station in the world by installed capacity]]. || Brazil
 |-
-| 1978 || {{dts|October}} || || [[wikipedia:Economy 7|Economy 7]] is introduced in the United Kingdom. || United Kingdom
+| 1978 || {{dts|October}} || Legal || [[wikipedia:Economy 7|Economy 7]] is introduced in the United Kingdom. || United Kingdom
 |-
-| 1980s–1990s || || || The electricity sector is reformed in several Latin American countries. These mainly take the form of privatizing the sector and unbundling generation, transmission and distribution. Reforms take place in at least [[wikipedia:Electricity sector in Chile#Electricity sector reform of 1982|Chile (1982)]], [[wikipedia:Electricity sector in Argentina#History of the electricity sector|Argentina (1991–1992)]], [[wikipedia:Electricity sector in Brazil#The 1990s reforms|Brazil (1990s)]], [[wikipedia:Electricity sector in Uruguay#Power sector reform|Uruguay (1997)]], and [[wikipedia:Electricity sector in Bolivia#Unbundling and privatization|Bolivia (1994)]]. ||
+| 1980s–1990s || || Legal || The electricity sector is reformed in several Latin American countries. These mainly take the form of privatizing the sector and unbundling generation, transmission and distribution. Reforms take place in at least [[wikipedia:Electricity sector in Chile#Electricity sector reform of 1982|Chile (1982)]], [[wikipedia:Electricity sector in Argentina#History of the electricity sector|Argentina (1991–1992)]], [[wikipedia:Electricity sector in Brazil#The 1990s reforms|Brazil (1990s)]], [[wikipedia:Electricity sector in Uruguay#Power sector reform|Uruguay (1997)]], and [[wikipedia:Electricity sector in Bolivia#Unbundling and privatization|Bolivia (1994)]]. ||
 |-
-| 1989 || || || In the United Kingdom, the [[wikipedia:Electricity Act 1989|Electricity Act 1989]] allows large-scale privatization and unbundling the electricity sector.<ref name="hausman">{{cite book |title=Global Electrification: Multinational Enterprise and International Finance in the History of Light and Power, 1878–2007 |first1=William J. |last1=Hausman |first2=Peter |last2=Hertner |first3=Mira |last3=Wilkins |publisher=Cambridge University Press |year=2008}}</ref>{{rp|264}} || United Kingdom
+| 1989 || || Legal || In the United Kingdom, the [[wikipedia:Electricity Act 1989|Electricity Act 1989]] allows large-scale privatization and unbundling the electricity sector.<ref name="hausman">{{cite book |title=Global Electrification: Multinational Enterprise and International Finance in the History of Light and Power, 1878–2007 |first1=William J. |last1=Hausman |first2=Peter |last2=Hertner |first3=Mira |last3=Wilkins |publisher=Cambridge University Press |year=2008}}</ref>{{rp|264}} || United Kingdom
 |-
-| 1992 || || || The United Kingdom [[wikipedia:Department of Energy (United Kingdom)|Department of Energy]] is abolished as part of an effort to privatize the energy industries. || United Kingdom
+| 1992 || || Legal || The United Kingdom [[wikipedia:Department of Energy (United Kingdom)|Department of Energy]] is abolished as part of an effort to privatize the energy industries. || United Kingdom
 |-
-| 1994–2012 || || || The [[wikipedia:Three Gorges Dam|Three Gorges Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|largest hydroelectric power station in the world by installed capacity]]. || China
+| 1994–2012 || || Generation || The [[wikipedia:Three Gorges Dam|Three Gorges Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|largest hydroelectric power station in the world by installed capacity]]. || China
 |-
 | 2000 || {{dts|April}} || || [[wikipedia:California electricity crisis|California electricity crisis]] ||
 |-
-| 2005–2013 || || || The [[wikipedia:Xiluodu Dam|Xiluodu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|third largest hydroelectric power station by installed capacity]]. || China
+| 2005–2013 || || Generation || The [[wikipedia:Xiluodu Dam|Xiluodu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|third largest hydroelectric power station by installed capacity]]. || China
 |}
 
 ==Meta information on the timeline==
