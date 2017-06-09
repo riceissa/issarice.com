@@ -142,7 +142,13 @@ This is a '''timeline of electricity adoption'''.
 
 ===How the timeline was built===
 
+The original version of the timeline was written during May 12–24, 2017. At the end of May, the timeline was still in draft form.
+
 ===What the timeline is still missing===
+
+More events in general. I only went partially through Hannah,<ref name="hannah" /> Hausman,<ref name="hausman" /> and Hughes.<ref name="hughes" /> (Page numbers give a general idea of how far I got in each.)
+
+The US and UK have more events in the timeline so far. There are probably a lot more interesting events in Germany, France, Russia, Japan, etc.
 
 ===Timeline update strategy===
 
