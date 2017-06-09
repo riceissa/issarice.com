@@ -13,45 +13,45 @@ This is a '''timeline of electricity adoption'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details !! Location
 |-
-| 1800 || || || [[wikipedia:Alessandro Volta|Alessandro Volta]] develops the first battery.<ref>{{cite web |url=http://www.lafavre.us/brush/lamparc.htm |title=Brush's Arc Lamp |author=Jeffrey La Favre |year=1998 |accessdate=May 18, 2017}}</ref>
+| 1800 || || || [[wikipedia:Alessandro Volta|Alessandro Volta]] develops the first battery.<ref>{{cite web |url=http://www.lafavre.us/brush/lamparc.htm |title=Brush's Arc Lamp |author=Jeffrey La Favre |year=1998 |accessdate=May 18, 2017}}</ref> ||
 |-
-| 1802–1809 || || || Sometime during this period, [[wikipedia:Humphry Davy|Humphry Davy]] [[wikipedia:Arc lamp#History|first demonstrates the arc lamp]].
+| 1802–1809 || || || Sometime during this period, [[wikipedia:Humphry Davy|Humphry Davy]] [[wikipedia:Arc lamp#History|first demonstrates the arc lamp]]. ||
 |-
-| 1816 || || || The [[wikipedia:Electrical telegraph#First working systems|first working electrical telegraph]] is built by [[wikipedia:Francis Ronalds|Francis Ronalds]].
+| 1816 || || || The [[wikipedia:Electrical telegraph#First working systems|first working electrical telegraph]] is built by [[wikipedia:Francis Ronalds|Francis Ronalds]]. ||
 |-
-| 1831 || || || Michael Faraday announces his discovery of electromagnetic induction.<ref name="hannah">{{cite book |first=Leslie |last=Hannah |title=Electricity Before Nationalisation: A Study of the Development of The Electricity Supply Industry in Britain to 1948 |year=1979 |publisher=The Macmillan Press LTD}}</ref>{{rp|3}}
+| 1831 || || || Michael Faraday announces his discovery of electromagnetic induction.<ref name="hannah">{{cite book |first=Leslie |last=Hannah |title=Electricity Before Nationalisation: A Study of the Development of The Electricity Supply Industry in Britain to 1948 |year=1979 |publisher=The Macmillan Press LTD}}</ref>{{rp|3}} ||
 |-
-| 1847 || {{dts|October 12}} || || The [[wikipedia:Siemens & Halske|Siemens & Halske Telegraph Construction Company]] is founded.<ref name="hausman" />{{rp|75}}
+| 1847 || {{dts|October 12}} || || The [[wikipedia:Siemens & Halske|Siemens & Halske Telegraph Construction Company]] is founded.<ref name="hausman" />{{rp|75}} ||
 |-
 | 1858 || || || The first practical installation of an arc light system is done at the [[wikipedia:South Foreland Lighthouse|South Foreland Lighthouse]].<ref name="ethw_arc_lighting">{{cite web |url=http://ethw.org/Arc_Lighting |title=Arc Lighting |website=Engineering and Technology History Wiki |accessdate=May 22, 2017}}</ref> || United Kingdom
 |-
-| 1876 || || || [[wikipedia:Pavel Yablochkov|Pavel Yablochkov]] develops his [[wikipedia:Yablochkov candle|eponymous candle]], which provided a softer and longer-lasting light compared to the arc light.<ref>{{cite web |url=https://www.britannica.com/biography/Pavel-Nikolayevich-Yablochkov |title=Pavel Nikolayevich Yablochkov {{!}} Russian engineer and inventor |publisher=Encyclopedia Britannica |accessdate=May 22, 2017}}</ref><ref>{{cite web |url=http://www.russia-ic.com/education_science/gems/661/ |title=Pavel Yablochkov - Let It Be Light! |publisher=Russia-InfoCentre |accessdate=May 22, 2017 |quote=Yablochkov deals with electric illumination, and in 1876 he receives a patent for his electric candle.}}</ref><ref>{{cite web |url=http://ethw.org/Jablochkoff_Candles_in_Paris |title=Jablochkoff Candles in Paris |publisher=Engineering and Technology History Wiki |accessdate=May 22, 2017}}</ref><ref name="ethw_arc_lighting"/>
+| 1876 || || || [[wikipedia:Pavel Yablochkov|Pavel Yablochkov]] develops his [[wikipedia:Yablochkov candle|eponymous candle]], which provided a softer and longer-lasting light compared to the arc light.<ref>{{cite web |url=https://www.britannica.com/biography/Pavel-Nikolayevich-Yablochkov |title=Pavel Nikolayevich Yablochkov {{!}} Russian engineer and inventor |publisher=Encyclopedia Britannica |accessdate=May 22, 2017}}</ref><ref>{{cite web |url=http://www.russia-ic.com/education_science/gems/661/ |title=Pavel Yablochkov - Let It Be Light! |publisher=Russia-InfoCentre |accessdate=May 22, 2017 |quote=Yablochkov deals with electric illumination, and in 1876 he receives a patent for his electric candle.}}</ref><ref>{{cite web |url=http://ethw.org/Jablochkoff_Candles_in_Paris |title=Jablochkoff Candles in Paris |publisher=Engineering and Technology History Wiki |accessdate=May 22, 2017}}</ref><ref name="ethw_arc_lighting"/> ||
 |-
-| 1878 || {{dts|November 15}} || || The Edison Electric Light Company is incorporated in New York. The company provides "financial support for Edison's electric light experiments in return for control of the resulting patents".<ref name="edisons_companies" />
+| 1878 || {{dts|November 15}} || || The Edison Electric Light Company is incorporated in New York. The company provides "financial support for Edison's electric light experiments in return for control of the resulting patents".<ref name="edisons_companies" /> ||
 |-
-| 1878 || {{dts|December 18}} || || Joseph Swan demonstrates that "a carbon filament in an evacuated glass globe would glow when an electric current was passed through it". This allows for electric lighting that is not excessively bright.<ref name="hannah" />{{rp|4}}
+| 1878 || {{dts|December 18}} || || Joseph Swan demonstrates that "a carbon filament in an evacuated glass globe would glow when an electric current was passed through it". This allows for electric lighting that is not excessively bright.<ref name="hannah" />{{rp|4}} ||
 |-
 | 1879 || || || Electrification begins in Mexico in the form of power for industrial activity for cotton mills and mining and refining.<ref name="hausman" />{{rp|112}} || Mexico
 |-
-| 1879 || {{dts|June 28}} || || [[wikipedia:AC motor#History|Walter Baily demonstrates]] an AC motor to the [[wikipedia:Physical Society of London|Physical Society of London]].
+| 1879 || {{dts|June 28}} || || [[wikipedia:AC motor#History|Walter Baily demonstrates]] an AC motor to the [[wikipedia:Physical Society of London|Physical Society of London]]. ||
 |-
-| 1879 || {{dts|November 1}} || || Thomas Edison's carbon-filament incandescent lamp is patented.<ref name="edison_lamp">{{cite web |url=http://ethw.org/Edison%27s_Incandescent_Lamp |title=Edison's Incandescent Lamp |website=Engineering and Technology History Wiki |accessdate=May 17, 2017}}</ref>
+| 1879 || {{dts|November 1}} || || Thomas Edison's carbon-filament incandescent lamp is patented.<ref name="edison_lamp">{{cite web |url=http://ethw.org/Edison%27s_Incandescent_Lamp |title=Edison's Incandescent Lamp |website=Engineering and Technology History Wiki |accessdate=May 17, 2017}}</ref> ||
 |-
-| 1880 || || || [[wikipedia:Joseph Swan|Joseph Swan]] obtains a British patent for his incandescent light bulb.<ref name="edison_lamp" />
+| 1880 || || || [[wikipedia:Joseph Swan|Joseph Swan]] obtains a British patent for his incandescent light bulb.<ref name="edison_lamp" /> ||
 |-
-| 1880 || || || The Brush Electric Company, which manufactures arc light systems, is established. The company is formed as a result of restructuring of the Telegraph Supply Company of Cleveland.<ref>{{cite web |url=http://www.lafavre.us/brush/brushbio.htm |title=Charles Francis Brush |author=Jeffrey La Favre |year=1998 |accessdate=May 20, 2017}}</ref>
+| 1880 || || || The Brush Electric Company, which manufactures arc light systems, is established. The company is formed as a result of restructuring of the Telegraph Supply Company of Cleveland.<ref>{{cite web |url=http://www.lafavre.us/brush/brushbio.htm |title=Charles Francis Brush |author=Jeffrey La Favre |year=1998 |accessdate=May 20, 2017}}</ref> ||
 |-
-| 1880 || {{dts|December 17}} || || The Edison Electric Illuminating Company of New York is organized.<ref name="edisons_companies"/>
+| 1880 || {{dts|December 17}} || || The Edison Electric Illuminating Company of New York is organized.<ref name="edisons_companies"/> ||
 |-
 | 1880 || {{dts|December 23}} || || The Edison Electric Light Company of Europe, Ltd. is incorporated to control Edison's electric light patents in Europe (except the United Kingdom).<ref name="edisons_companies" /><ref name="hausman" />{{rp|77}} || United States (New York)
 |-
-| 1880–1883 || || || The [[wikipedia:History of trams#Electric trams|first electric trams begin operating]] in Russia (1880), Germany (1881), Britain (1883), and Austria (1883).
+| 1880–1883 || || || The [[wikipedia:History of trams#Electric trams|first electric trams begin operating]] in Russia (1880), Germany (1881), Britain (1883), and Austria (1883). ||
 |-
 | 1881–1888 || || || Mexican Gas and Electric Light Co. Ltd. installs the first electric street lamp system in Mexico. However, it would not be until February 1894 that the lights begin shining.<ref name="hausman" />{{rp|112}} || Mexico (Mexico City)
 |-
-| 1881 || || || The Swan Electric Light Company is founded.<ref>{{cite web |url=http://www.ideafinder.com/history/inventions/lightbulb.htm |date=January 30, 2007 |author=Phil Ament |title=Light Bulb History - Invention of the Light Bulb |accessdate=May 20, 2017}}</ref>
+| 1881 || || || The Swan Electric Light Company is founded.<ref>{{cite web |url=http://www.ideafinder.com/history/inventions/lightbulb.htm |date=January 30, 2007 |author=Phil Ament |title=Light Bulb History - Invention of the Light Bulb |accessdate=May 20, 2017}}</ref> ||
 |-
-| 1881 || {{dts|September}} || || [[wikipedia:Godalming|Godalming]] becomes the [[wikipedia:Godalming#Public electricity supply|first town in the world with a public electricity supply]]. The central station here is water-powered.<ref name="hannah" />
+| 1881 || {{dts|September}} || || [[wikipedia:Godalming|Godalming]] becomes the [[wikipedia:Godalming#Public electricity supply|first town in the world with a public electricity supply]]. The central station here is water-powered.<ref name="hannah" /> ||
 |-
 | 1882 || {{dts|January 12}} || || [[wikipedia:Holborn Viaduct power station|Holborn Viaduct power station]] begins running. It is steam-powered.<ref name="hannah" />{{rp|7}} || United Kingdom (London)
 |-
@@ -61,23 +61,23 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1882 || {{dts|September 4}} || || [[wikipedia:Pearl Street Station|Pearl Street Station]] begins generating electricity.<ref name="edisons_companies">{{cite web |url=http://edison.rutgers.edu/list.htm |title=Edison's Companies |website=The Edison Papers |publisher=Rutgers University |date=October 28, 2016 |accessdate=May 18, 2017}}</ref> || United States (New York City)
 |-
-| 1883 || || || The [[wikipedia:Thomson-Houston Electric Company|Thomson-Houston Electric Company]] is established.<ref>{{cite web |url=http://home.frognet.net/~ejcov/1884-1893.html |title=The Thomson-Houston Electric Incandescent Lamp, 1884-1893 |author=Edward J. Covington |accessdate=May 18, 2017 |quote=The Thomson-Houston Company had been formed in 1883 to produce dynamos and arc lighting; it succeeded the American Electric Company, which had been formed in the year 1880.}}</ref>
+| 1883 || || || The [[wikipedia:Thomson-Houston Electric Company|Thomson-Houston Electric Company]] is established.<ref>{{cite web |url=http://home.frognet.net/~ejcov/1884-1893.html |title=The Thomson-Houston Electric Incandescent Lamp, 1884-1893 |author=Edward J. Covington |accessdate=May 18, 2017 |quote=The Thomson-Houston Company had been formed in 1883 to produce dynamos and arc lighting; it succeeded the American Electric Company, which had been formed in the year 1880.}}</ref> ||
 |-
-| 1883 || {{dts|March 13}} || || The German Edison company, known as ''Deutsche Edison-Gesellschaft für angewandte Elektricität'' at the time, is founded by [[wikipedia:Emil Rathenau|Emil Rathenau]].<ref name="hughes" /> The company would later be renamed to [[wikipedia:AEG|AEG]].
+| 1883 || {{dts|March 13}} || || The German Edison company, known as ''Deutsche Edison-Gesellschaft für angewandte Elektricität'' at the time, is founded by [[wikipedia:Emil Rathenau|Emil Rathenau]].<ref name="hughes" /> The company would later be renamed to [[wikipedia:AEG|AEG]]. ||
 |-
-| 1883 || {{dts|October}} || || The English Edison Company and Swan Electric Light Company merge to form the Edison and Swan United Electric Light Company, Ltd.<ref name="hughes" />{{rp|62}}<ref name="edisons_companies" />
+| 1883 || {{dts|October}} || || The English Edison Company and Swan Electric Light Company merge to form the Edison and Swan United Electric Light Company, Ltd.<ref name="hughes" />{{rp|62}}<ref name="edisons_companies" /> ||
 |-
-| 1884 || || || The modern [[wikipedia:Steam turbine|steam turbine]] is invented by [[wikipedia:Charles Algernon Parsons|Charles Parsons]]. A production model would be installed in the Forth Banks power station in Newcastle in 1888.<ref name="hannah" />{{rp|13}}
+| 1884 || || || The modern [[wikipedia:Steam turbine|steam turbine]] is invented by [[wikipedia:Charles Algernon Parsons|Charles Parsons]]. A production model would be installed in the Forth Banks power station in Newcastle in 1888.<ref name="hannah" />{{rp|13}} ||
 |-
-| 1885 || || || The ZBD alternating current transformer is [[wikipedia:Transformer#Closed-core transformers and parallel power distribution|invented]].
+| 1885 || || || The ZBD alternating current transformer is [[wikipedia:Transformer#Closed-core transformers and parallel power distribution|invented]]. ||
 |-
-| 1886 || {{dts|January 8}} || || The [[wikipedia:Westinghouse Electric Corporation|Westinghouse Electric Corporation]] is founded as Westinghouse Electric Company.<ref name="hausman" />{{rp|91}}
+| 1886 || {{dts|January 8}} || || The [[wikipedia:Westinghouse Electric Corporation|Westinghouse Electric Corporation]] is founded as Westinghouse Electric Company.<ref name="hausman" />{{rp|91}} ||
 |-
 | 1886 || {{dts|November 30}} || || The first commercial alternating current central station in the United States begins operating.<ref>{{cite web |url=http://ethw.org/Early_Electrification_of_Buffalo#cite_ref-1 |title=Early Electrification of Buffalo |website=Engineering and Technology History Wiki |accessdate=May 18, 2017}}</ref> || United States (Buffalo, New York)
 |-
 | 1888 || {{dts|June 28}} || || The Electric Lighting Act of 1888 is enacted. This act amends the act from 1882 by extending the tenure for private companies from twenty-one to forty-two years.<ref name="hughes" />{{rp|64}} || United Kingdom
 |-
-| 1889 || || || [[wikipedia:North Eastern Electric Supply Company|NESCo]] is founded by [[wikipedia:John Theodore Merz|John Theodore Merz]] as Newcastle upon Tyne Electric Supply Company.
+| 1889 || || || [[wikipedia:North Eastern Electric Supply Company|NESCo]] is founded by [[wikipedia:John Theodore Merz|John Theodore Merz]] as Newcastle upon Tyne Electric Supply Company. ||
 |-
 | 1889 || {{dts|April 24}} || || The Edison General Electric Company [[wikipedia:General Electric#Formation|is incorporated]]. || United States (New York)
 |-
@@ -89,19 +89,19 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1902 || || || The [[wikipedia:Air conditioning#Electromechanical cooling|first modern electric air conditioning unit]] is invented. || United States
 |-
-| 1904 || || || The [[wikipedia:Washing machine#Early machines|first electric washing machines]] are created around this time.
+| 1904 || || || The [[wikipedia:Washing machine#Early machines|first electric washing machines]] are created around this time. ||
 |-
 | 1905 || || || By this time, Britain has electrified almost 90% of its tramway mileage.<ref name="hannah" />{{rp|15}} || United Kingdom
 |-
-| 1906 || || || The [[wikipedia:Induction cooking#History|first patents for induction cooking]] date back to around this time. However, modern implementations would arrive only in the 1970s.
+| 1906 || || || The [[wikipedia:Induction cooking#History|first patents for induction cooking]] date back to around this time. However, modern implementations would arrive only in the 1970s. ||
 |-
 | 1907 || || || The [[wikipedia:Vacuum cleaner#Domestic vacuum cleaner|first portable electric vacuum cleaner is invented]]. || United States
 |-
-| 1910s–1920s || || || The first electric dishwasher is produced around this time. [[wikipedia:Dishwasher#History|Wikipedia shows]] a photo of one from "about 1917". Some other sources credit "the Walker brothers" in 1913.<ref>{{cite web |url=http://www.jitterbuzz.com/aplsho.html |title=A Visit to a 1930s Appliance Show |accessdate=May 16, 2017 |quote=In 1913 when the Walker Brothers hardware store was wired for electricity they produced thier first electric dishwasher.}}</ref> By the mid-1920s, there are companies dedicated to manufacturing electric dishwashers.<ref>{{cite web |url=http://www.wisconsinhistory.org/Content.aspx?dsNav=N:4294963828-4294963805&dsRecordDetails=R:CS2619 |title=Early Electric Dishwasher |publisher=Wisconsin Historical Society |accessdate=May 16, 2017}}</ref>
+| 1910s–1920s || || || The first electric dishwasher is produced around this time. [[wikipedia:Dishwasher#History|Wikipedia shows]] a photo of one from "about 1917". Some other sources credit "the Walker brothers" in 1913.<ref>{{cite web |url=http://www.jitterbuzz.com/aplsho.html |title=A Visit to a 1930s Appliance Show |accessdate=May 16, 2017 |quote=In 1913 when the Walker Brothers hardware store was wired for electricity they produced thier first electric dishwasher.}}</ref> By the mid-1920s, there are companies dedicated to manufacturing electric dishwashers.<ref>{{cite web |url=http://www.wisconsinhistory.org/Content.aspx?dsNav=N:4294963828-4294963805&dsRecordDetails=R:CS2619 |title=Early Electric Dishwasher |publisher=Wisconsin Historical Society |accessdate=May 16, 2017}}</ref> ||
 |-
-| 1914 || || || The [[wikipedia:Refrigerator#Domestic refrigerator|first practical electric refrigerator]] is created around this time.
+| 1914 || || || The [[wikipedia:Refrigerator#Domestic refrigerator|first practical electric refrigerator]] is created around this time. ||
 |-
-| 1918 || || || In the aftermath of [[wikipedia:World War I|World War I]], German electricity companies in various regions of the world are seized or bought.<ref name="hausman" />{{rp|131–138}}
+| 1918 || || || In the aftermath of [[wikipedia:World War I|World War I]], German electricity companies in various regions of the world are seized or bought.<ref name="hausman" />{{rp|131–138}} ||
 |-
 | 1920 || {{dts|June 10}} || || The [[wikipedia:Federal Power Act|Federal Water Power Act]] is enacted. This act creates the [[wikipedia:Federal Power Commission|Federal Power Commission]]. || United States
 |-
@@ -113,7 +113,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1946 || || || Electricity production and distribution in France is nationalized.<ref>{{cite web |url=http://ethw.org/w/images/c/c2/Beltran%2C_Competitiveness_and_Electricity.pdf |title=Competitiveness and Electricity: Electricité de France Since 1946 |first=Alain |last=Beltran}}</ref>{{rp|315}} || France
 |-
-| 1947 || || || The [[wikipedia:Microwave oven#Commercial availability|microwave oven becomes commercially available]].
+| 1947 || || || The [[wikipedia:Microwave oven#Commercial availability|microwave oven becomes commercially available]]. ||
 |-
 | 1948 || {{dts|April 1}} || || In Britain, the [[wikipedia:Electricity Act 1947|Electricity Act 1947]] nationalizes the electricity generation and supply industry. The act would be repealed in 1989 with the [[wikipedia:Electricity Act 1989|Electricity Act 1989]]. || United Kingdom
 |-
@@ -125,7 +125,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1978 || {{dts|October}} || || [[wikipedia:Economy 7|Economy 7]] is introduced in the United Kingdom. || United Kingdom
 |-
-| 1980s–1990s || || || The electricity sector is reformed in several Latin American countries. These mainly take the form of privatizing the sector and unbundling generation, transmission and distribution. Reforms take place in at least [[wikipedia:Electricity sector in Chile#Electricity sector reform of 1982|Chile (1982)]], [[wikipedia:Electricity sector in Argentina#History of the electricity sector|Argentina (1991–1992)]], [[wikipedia:Electricity sector in Brazil#The 1990s reforms|Brazil (1990s)]], [[wikipedia:Electricity sector in Uruguay#Power sector reform|Uruguay (1997)]], and [[wikipedia:Electricity sector in Bolivia#Unbundling and privatization|Bolivia (1994)]].
+| 1980s–1990s || || || The electricity sector is reformed in several Latin American countries. These mainly take the form of privatizing the sector and unbundling generation, transmission and distribution. Reforms take place in at least [[wikipedia:Electricity sector in Chile#Electricity sector reform of 1982|Chile (1982)]], [[wikipedia:Electricity sector in Argentina#History of the electricity sector|Argentina (1991–1992)]], [[wikipedia:Electricity sector in Brazil#The 1990s reforms|Brazil (1990s)]], [[wikipedia:Electricity sector in Uruguay#Power sector reform|Uruguay (1997)]], and [[wikipedia:Electricity sector in Bolivia#Unbundling and privatization|Bolivia (1994)]]. ||
 |-
 | 1989 || || || In the United Kingdom, the [[wikipedia:Electricity Act 1989|Electricity Act 1989]] allows large-scale privatization and unbundling the electricity sector.<ref name="hausman">{{cite book |title=Global Electrification: Multinational Enterprise and International Finance in the History of Light and Power, 1878–2007 |first1=William J. |last1=Hausman |first2=Peter |last2=Hertner |first3=Mira |last3=Wilkins |publisher=Cambridge University Press |year=2008}}</ref>{{rp|264}} || United Kingdom
 |-
@@ -133,7 +133,7 @@ This is a '''timeline of electricity adoption'''.
 |-
 | 1994–2012 || || || The [[wikipedia:Three Gorges Dam|Three Gorges Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|largest hydroelectric power station in the world by installed capacity]]. || China
 |-
-| 2000 || {{dts|April}} || || [[wikipedia:California electricity crisis|California electricity crisis]]
+| 2000 || {{dts|April}} || || [[wikipedia:California electricity crisis|California electricity crisis]] ||
 |-
 | 2005–2013 || || || The [[wikipedia:Xiluodu Dam|Xiluodu Dam]] is constructed. It is the [[wikipedia:List of largest hydroelectric power stations|third largest hydroelectric power station by installed capacity]]. || China
 |}
