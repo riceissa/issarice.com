@@ -16,6 +16,8 @@ This is a '''timeline of entirely free software computers'''.
 |-
 | 2015 || {{dts|January 29}} || || The Free Software Foundation awards the Respects Your Freedom certification to the Libreboot X200 laptop. The laptop is a "refurbished and updated" Lenovo Thinkpad X200 laptop.<ref>{{cite web |url=https://www.fsf.org/news/libreboot-x200-laptop-now-fsf-certified-to-respect-your-freedom |title=Libreboot X200 laptop now FSF-certified to respect your freedom |publisher=Free Software Foundation |accessdate=June 10, 2017}}</ref>
 |-
+| 2015 || {{dts|December 11}} || || The Free Software Foundation awards the Respects Your Freedom certification to the Libreboot T400 laptop as sold by Minifree.<ref>{{cite web |url=https://www.fsf.org/news/libreboot-t400-laptop-now-fsf-certified-to-respect-your-freedom |title=Libreboot T400 laptop now FSF-certified to respect your freedom |publisher=Free Software Foundation |accessdate=June 10, 2017}}</ref>
+|-
 | 2017 || {{dts|March 6}} || || The Free Software Foundation awards the Respects Your Freedom certification to the Vikings X200. The laptop is a refurbished Lenovo Thinkpad X200.<ref>{{cite web |url=https://www.fsf.org/news/three-devices-from-vikings-gmbh-now-fsf-certified-to-respect-your-freedom |title=Three devices from Vikings GmbH now FSF-certified to respect your freedom |publisher=Free Software Foundation |accessdate=June 10, 2017}}</ref>
 |}
 
