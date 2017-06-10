@@ -1,0 +1,32 @@
+This is a '''timeline of entirely free software computers'''.
+
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details
+|-
+| 2015 || {{dts|January 29}} || || The Free Software Foundation awards the Respects Your Freedom certification to the Libreboot X200 laptop. The laptop is a "refurbished and updated" Lenovo Thinkpad X200 laptop.<ref>{{cite web |url=https://www.fsf.org/news/libreboot-x200-laptop-now-fsf-certified-to-respect-your-freedom |title=Libreboot X200 laptop now FSF-certified to respect your freedom |publisher=Free Software Foundation |accessdate=June 10, 2017}}</ref>
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
