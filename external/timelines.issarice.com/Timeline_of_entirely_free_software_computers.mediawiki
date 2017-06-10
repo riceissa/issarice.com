@@ -9,6 +9,8 @@ This is a '''timeline of entirely free software computers'''.
 
 ==Full timeline==
 
+Lemote Yeeloong available as far back as September 2008 https://en.wikipedia.org/wiki/Lemote#Netbook_computers
+
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
