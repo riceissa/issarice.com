@@ -130,7 +130,6 @@ I don't even remember making it).
   (Still playing around with this to set up automatically adding and publishing
   to IPNS.)
 
-
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
 
