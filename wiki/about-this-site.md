@@ -129,7 +129,7 @@ I don't even remember making it).
   [index page](https://ipfs.io/ipns/issarice.com/index).
 
 This site used to be canonically available at <http://riceissa.com>, but I
-think in late 2014 I make <http://issarice.com> the canonical domain.
+think in late 2014 I made <http://issarice.com> the canonical domain.
 
 I think in July 2015 I added the [`_archive`](https://issarice.com/_archive/)
 directory to the site, which allows access to *some* past compiled versions of
