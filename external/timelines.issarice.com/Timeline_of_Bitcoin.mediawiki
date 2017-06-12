@@ -55,6 +55,8 @@ This is a '''timeline of Bitcoin'''.
 
 ==Mentions on Google Scholar==
 
+The following table summarizes per-year mentions on Google Scholar.
+
 {| class="sortable wikitable"
 ! Year
 ! bitcoin (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810157568739966976 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref>
@@ -79,6 +81,18 @@ This is a '''timeline of Bitcoin'''.
 | 2016 || 3,580 || 2,190 || 4,900 || 2,500
 |-
 | 2017 || || || 1,920 || 1,760
+|}
+
+==GitHub repositories==
+
+The following table summarizes cumulative repositories on GitHub.<ref>{{cite web |url=https://github.com/search?utf8=%E2%9C%93&q=bitcoin+created%3A%3C2010-01-01&type=Repositories |publisher=GitHub |title=Build software better, together |accessdate=June 12, 2017}} This searches for repositories created before the start of 2010, i.e. cumulative repositories created as of the end of 2009. Change the date parameter to get the other years.</ref>
+
+{| class="sortable wikitable"
+! Year !! Cumulative repositories
+|-
+| 2009 || 0
+|-
+| 2010
 |}
 
 ==Meta information on the timeline==
