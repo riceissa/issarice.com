@@ -48,6 +48,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2012 || {{dts|September}} || || The [[wikipedia:Bitcoin Foundation|Bitcoin Foundation]] is founded.<ref>{{cite web |url=http://www.forbes.com/sites/jonmatonis/2012/09/27/bitcoin-foundation-launches-to-drive-bitcoins-advancement/ |first=Jon |last=Matonis |archivedate=January 23, 2013 |archiveurl=http://archive.is/0NaKf |title=Bitcoin Foundation Launches To Drive Bitcoin's Advancement |publisher=Forbes |date=September 27, 2012 |accessdate=June 12, 2017 |quote=Several months in the making, the Bitcoin Foundation launches this week}}</ref>
 |-
+| 2012 || {{dts|November 15}} || || [[wikipedia:WordPress.com|WordPress.com]] begins accepting bitcoins for the purchase of upgrades.<ref name="firsts" /><ref>{{cite web |url=https://en.blog.wordpress.com/2012/11/15/pay-another-way-bitcoin/ |title=Pay Another Way: Bitcoin |date=November 15, 2012 |publisher=The WordPress.com Blog |accessdate=June 12, 2017}}</ref>
+|-
 | 2013 || {{dts|February 15}} || || The subreddit r/Jobs4Bitcoins is created. As of June 12, 2017 it has 12,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/Jobs4Bitcoins/about/moderators |title=moderators - r/Jobs4Bitcoins |accessdate=June 12, 2017 |quote=a community for 4 years [Fri Feb 15 16:11:25 2013 UTC]}}</ref>
 |-
 | 2013 || {{dts|March 6}} || || The subreddit r/BitcoinBeginners is created. As of June 12, 2017 it has 14,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinBeginners/about/moderators |title=moderators - r/BitcoinBeginners |accessdate=June 12, 2017 |quote=a community for 4 years [Wed Mar 6 11:35:47 2013 UTC]}}</ref>
