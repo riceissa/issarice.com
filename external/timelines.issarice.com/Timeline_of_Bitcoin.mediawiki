@@ -23,6 +23,8 @@ This is a '''timeline of Bitcoin'''.
 | 2009 || {{dts|October 12}} || || The first trade of bitcoin for [[wikipedia:Fiat money|fiat money]] takes place. Martti Malmi (Sirius) sells 5,050 BTC to NewLibertyStandard for $5.02.<ref name="firsts" /><ref>{{cite web |url=https://twitter.com/marttimalmi/status/423455561703624704 |title=Martti Malmi on Twitter |publisher=Twitter |accessdate=June 12, 2017 |quote=Found the first known bitcoin to USD transaction from my email backups. I sold 5,050 BTC for $5,02 on 2009-10-12.}}</ref>
 |-
 | 2009 || {{dts|December 16}} || || Bitcoin version 0.2 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=16.0 |title=Bitcoin 0.2 released! |accessdate=June 12, 2017 |author=satoshi}}</ref>
+|-
+| 2010 || {{dts|September 9}} || || The main Bitcoin subreddit, r/Bitcoin, is created.<ref>{{cite web |url=https://www.reddit.com/r/Bitcoin/about/moderators |title=moderators - r/Bitcoin |accessdate=June 12, 2017 |quote=a community for 6 years [Thu Sep 9 14:30:26 2010 UTC]}}</ref>
 |}
 
 ==Meta information on the timeline==
