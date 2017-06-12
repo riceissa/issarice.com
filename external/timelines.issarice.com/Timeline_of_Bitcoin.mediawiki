@@ -24,15 +24,15 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2009 || {{dts|December 16}} || || Bitcoin version 0.2 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=16.0 |title=Bitcoin 0.2 released! |accessdate=June 12, 2017 |author=satoshi}}</ref>
 |-
-| 2010 || {{dts|September 9}} || || The main Bitcoin subreddit, r/Bitcoin, is created.<ref>{{cite web |url=https://www.reddit.com/r/Bitcoin/about/moderators |title=moderators - r/Bitcoin |accessdate=June 12, 2017 |quote=a community for 6 years [Thu Sep 9 14:30:26 2010 UTC]}}</ref>
+| 2010 || {{dts|September 9}} || || The main Bitcoin subreddit, r/Bitcoin, is created. As of June 12, 2017 it has 241,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/Bitcoin/about/moderators |title=moderators - r/Bitcoin |accessdate=June 12, 2017 |quote=a community for 6 years [Thu Sep 9 14:30:26 2010 UTC]}}</ref>
 |-
-| 2011 || {{dts|May 20}} || || The subreddit r/btc is created.<ref>{{cite web |url=https://www.reddit.com/r/btc/about/moderators |title=moderators - r/btc |accessdate=June 12, 2017 |quote=a community for 6 years [Fri May 20 10:07:02 2011 UTC]}}</ref>
+| 2011 || {{dts|May 20}} || || The subreddit r/btc is created. As of June 12, 2017 it has 40,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/btc/about/moderators |title=moderators - r/btc |accessdate=June 12, 2017 |quote=a community for 6 years [Fri May 20 10:07:02 2011 UTC]}}</ref>
 |-
-| 2011 || {{dts|June 15}} || || The Bitcoin mining subreddit, r/BitcoinMining, is created.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMining/about/moderators |title=moderators - r/BitcoinMining |accessdate=June 12, 2017 |quote=a community for 5 years [Wed Jun 15 16:20:02 2011 UTC]}}</ref>
+| 2011 || {{dts|June 15}} || || The Bitcoin mining subreddit, r/BitcoinMining, is created. As of June 12, 2017 it has 13,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMining/about/moderators |title=moderators - r/BitcoinMining |accessdate=June 12, 2017 |quote=a community for 5 years [Wed Jun 15 16:20:02 2011 UTC]}}</ref>
 |-
-| 2012 || {{dts|May 30}} || || The Bitcoin Magazine subreddit, r/BitcoinMagazine, is created.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMagazine/about/moderators |title=moderators - r/BitcoinMagazine |accessdate=June 12, 2017 |quote=a community for 5 years [Wed May 30 07:48:30 2012 UTC]}}</ref>
+| 2012 || {{dts|May 30}} || || The Bitcoin Magazine subreddit, r/BitcoinMagazine, is created. As of June 12, 2017 it has 788 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMagazine/about/moderators |title=moderators - r/BitcoinMagazine |accessdate=June 12, 2017 |quote=a community for 5 years [Wed May 30 07:48:30 2012 UTC]}}</ref>
 |-
-| 2013 || {{dts|March 6}} || || The subreddit r/BitcoinBeginners is created.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinBeginners/about/moderators |title=moderators - r/BitcoinBeginners |accessdate=June 12, 2017 |quote=a community for 4 years [Wed Mar 6 11:35:47 2013 UTC]}}</ref>
+| 2013 || {{dts|March 6}} || || The subreddit r/BitcoinBeginners is created. As of June 12, 2017 it has 14,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinBeginners/about/moderators |title=moderators - r/BitcoinBeginners |accessdate=June 12, 2017 |quote=a community for 4 years [Wed Mar 6 11:35:47 2013 UTC]}}</ref>
 |-
 | 2013 || {{dts|April 11}} || || The subreddit r/BitcoinMarkets is created. As of June 12, 2017 it has 34,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMarkets/about/moderators |title=moderators - r/BitcoinMarkets |accessdate=June 12, 2017 |quote=a community for 4 years [Thu Apr 11 08:23:13 2013 UTC]}}</ref>
 |}
