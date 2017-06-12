@@ -52,25 +52,29 @@ This is a '''timeline of Bitcoin'''.
 ==Mentions on Google Scholar==
 
 {| class="sortable wikitable"
-! Year !! bitcoin (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810157568739966976 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref> !! blockchain (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810152507125223424 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref> !! bitcoin !! blockchain
+! Year
+! bitcoin (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810157568739966976 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref>
+! blockchain (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810152507125223424 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref>
+! bitcoin (as of June 12, 2017)<ref>{{cite web |url=https://scholar.google.com/scholar?q=%22bitcoin%22&hl=en&as_sdt=0%2C48&as_ylo=2009&as_yhi=2009 |title="bitcoin" |website=Google Scholar |accessdate=June 12, 2017}} Change the year parameter to get the other years.</ref>
+! blockchain<ref>{{cite web |url=https://scholar.google.com/scholar?q=%22blockchain%22&hl=en&as_sdt=0%2C48&as_ylo=2009&as_yhi=2009 |title="blockchain" - Google Scholar |accessdate=June 12, 2017}} Change the year parameter to get the other years.</ref>
 |-
-| 2009 || 83 ||
+| 2009 || 83 || || 97
 |-
-| 2010 || 136 || 213
+| 2010 || 136 || 213 || 84
 |-
-| 2011 || 218 || 224
+| 2011 || 218 || 224 || 252
 |-
-| 2012 || 424 || 311
+| 2012 || 424 || 311 || 476
 |-
-| 2013 || 1,390 || 477
+| 2013 || 1,390 || 477 || 1,480
 |-
-| 2014 || 3,190 || 956
+| 2014 || 3,190 || 956 || 3,620
 |-
-| 2015 || 3,670 || 1,440
+| 2015 || 3,670 || 1,440 || 3,470
 |-
-| 2016 || 3,580 || 2,190
+| 2016 || 3,580 || 2,190 || 4,900
 |-
-| 2017 || ||
+| 2017 || || || 1,920
 |}
 
 ==Meta information on the timeline==
