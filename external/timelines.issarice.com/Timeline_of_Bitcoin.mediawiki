@@ -56,7 +56,7 @@ This is a '''timeline of Bitcoin'''.
 ! bitcoin (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810157568739966976 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref>
 ! blockchain (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810152507125223424 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref>
 ! bitcoin (as of June 12, 2017)<ref>{{cite web |url=https://scholar.google.com/scholar?q=%22bitcoin%22&hl=en&as_sdt=0%2C48&as_ylo=2009&as_yhi=2009 |title="bitcoin" |website=Google Scholar |accessdate=June 12, 2017}} Change the year parameter to get the other years.</ref>
-! blockchain<ref>{{cite web |url=https://scholar.google.com/scholar?q=%22blockchain%22&hl=en&as_sdt=0%2C48&as_ylo=2009&as_yhi=2009 |title="blockchain" - Google Scholar |accessdate=June 12, 2017}} Change the year parameter to get the other years.</ref>
+! blockchain (as of June 12, 2017)<ref>{{cite web |url=https://scholar.google.com/scholar?q=%22blockchain%22&hl=en&as_sdt=0%2C48&as_ylo=2009&as_yhi=2009 |title="blockchain" - Google Scholar |accessdate=June 12, 2017}} Change the year parameter to get the other years.</ref>
 |-
 | 2009 || 83 || || 97 || 54
 |-
