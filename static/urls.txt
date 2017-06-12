@@ -34,5 +34,6 @@ http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/.r
 http://briantomasik.com/feed/
 http://reducing-suffering.org/feed/
 http://foundational-research.org/feed/
+https://howielempel.com/blog/feed/
 https://medium.com/feed/@nayafia
 http://mojix.org/rss20.xml
