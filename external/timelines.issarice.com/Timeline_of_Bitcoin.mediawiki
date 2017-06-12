@@ -58,23 +58,23 @@ This is a '''timeline of Bitcoin'''.
 ! bitcoin (as of June 12, 2017)<ref>{{cite web |url=https://scholar.google.com/scholar?q=%22bitcoin%22&hl=en&as_sdt=0%2C48&as_ylo=2009&as_yhi=2009 |title="bitcoin" |website=Google Scholar |accessdate=June 12, 2017}} Change the year parameter to get the other years.</ref>
 ! blockchain<ref>{{cite web |url=https://scholar.google.com/scholar?q=%22blockchain%22&hl=en&as_sdt=0%2C48&as_ylo=2009&as_yhi=2009 |title="blockchain" - Google Scholar |accessdate=June 12, 2017}} Change the year parameter to get the other years.</ref>
 |-
-| 2009 || 83 || || 97
+| 2009 || 83 || || 97 || 54
 |-
-| 2010 || 136 || 213 || 84
+| 2010 || 136 || 213 || 84 || 44
 |-
-| 2011 || 218 || 224 || 252
+| 2011 || 218 || 224 || 252 || 55
 |-
-| 2012 || 424 || 311 || 476
+| 2012 || 424 || 311 || 476 || 104
 |-
-| 2013 || 1,390 || 477 || 1,480
+| 2013 || 1,390 || 477 || 1,480 || 208
 |-
-| 2014 || 3,190 || 956 || 3,620
+| 2014 || 3,190 || 956 || 3,620 || 640
 |-
-| 2015 || 3,670 || 1,440 || 3,470
+| 2015 || 3,670 || 1,440 || 3,470 || 1,140
 |-
-| 2016 || 3,580 || 2,190 || 4,900
+| 2016 || 3,580 || 2,190 || 4,900 || 2,500
 |-
-| 2017 || || || 1,920
+| 2017 || || || 1,920 || 1,760
 |}
 
 ==Meta information on the timeline==
