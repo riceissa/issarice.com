@@ -33,6 +33,8 @@ This is a '''timeline of Bitcoin'''.
 | 2012 || {{dts|May 30}} || || The Bitcoin Magazine subreddit, r/BitcoinMagazine, is created.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMagazine/about/moderators |title=moderators - r/BitcoinMagazine |accessdate=June 12, 2017 |quote=a community for 5 years [Wed May 30 07:48:30 2012 UTC]}}</ref>
 |-
 | 2013 || {{dts|March 6}} || || The subreddit r/BitcoinBeginners is created.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinBeginners/about/moderators |title=moderators - r/BitcoinBeginners |accessdate=June 12, 2017 |quote=a community for 4 years [Wed Mar 6 11:35:47 2013 UTC]}}</ref>
+|-
+| 2013 || {{dts|April 11}} || || The subreddit r/BitcoinMarkets is created. As of June 12, 2017 it has 34,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMarkets/about/moderators |title=moderators - r/BitcoinMarkets |accessdate=June 12, 2017 |quote=a community for 4 years [Thu Apr 11 08:23:13 2013 UTC]}}</ref>
 |}
 
 ==Meta information on the timeline==
