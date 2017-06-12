@@ -92,7 +92,19 @@ The following table summarizes cumulative repositories on GitHub.<ref>{{cite web
 |-
 | 2009 || 0
 |-
-| 2010
+| 2010 || 28
+|-
+| 2011 || 370
+|-
+| 2012 || 638
+|-
+| 2013 || 2,184
+|-
+| 2014 || 4,572
+|-
+| 2015 || 6,884
+|-
+| 2016 || 9,321
 |}
 
 ==Meta information on the timeline==
