@@ -1,0 +1,31 @@
+This is a '''timeline of Bitcoin'''.
+
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details
+|-
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
