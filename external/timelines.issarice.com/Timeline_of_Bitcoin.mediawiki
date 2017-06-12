@@ -15,6 +15,8 @@ This is a '''timeline of Bitcoin'''.
 | 2008 || {{dts|August 18}} || || <code>bitcoin.org</code> is registered on this day.<ref name="gwern">{{cite web |url=https://www.gwern.net/Bitcoin%20is%20Worse%20is%20Better |author=gwern |date=May 27, 2011 |title=Bitcoin is Worse is Better |website=Gwern.net |accessdate=June 12, 2017}}</ref>
 |-
 | 2008 || {{dts|November 1}} || || The first public version of Satoshi Nakamoto's white paper, titled "Bitcoin: A Peer-to-Peer Electronic Cash System", is published.<ref name="gwern" /><ref>{{cite web |url=https://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html |title=Bitcoin P2P e-cash paper |accessdate=June 12, 2017 |date=November 1, 2008}}</ref>
+|-
+| 2009 || {{dts|August 29}} || || The first revision in the Bitcoin Git repository is made on this day. However this commit is converted from the Subversion revision control system.<ref name="gwern" /><ref>{{cite web |url=https://github.com/bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898 |publisher=GitHub |title=First commit · bitcoin/bitcoin@4405b78 |accessdate=June 12, 2017}}</ref>
 |}
 
 ==Meta information on the timeline==
