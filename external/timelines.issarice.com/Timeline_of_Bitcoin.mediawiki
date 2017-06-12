@@ -119,6 +119,8 @@ The following table summarizes cumulative repositories on GitHub.<ref>{{cite web
 
 ==External links==
 
+* [[wikipedia:History of bitcoin|History of bitcoin]]
+
 ==References==
 
 {{Reflist|30em}}
