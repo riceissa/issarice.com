@@ -16,9 +16,11 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2008 || {{dts|November 1}} || || The first public version of Satoshi Nakamoto's white paper, titled "Bitcoin: A Peer-to-Peer Electronic Cash System", is published.<ref name="gwern" /><ref>{{cite web |url=https://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html |title=Bitcoin P2P e-cash paper |accessdate=June 12, 2017 |date=November 1, 2008}}</ref>
 |-
-| 2009 || {{dts|January 12}} || || The first Bitcoin transaction takes place, from Satoshi Nakamoto to [[wikipedia:Hal Finney (computer scientist)|Hal Finney]].<ref>{{cite web |url=https://en.bitcoin.it/wiki/Bitcoin_Firsts |title=Bitcoin Firsts |website=Bitcoin Wiki |accessdate=June 12, 2017}}</ref>
+| 2009 || {{dts|January 12}} || || The first Bitcoin transaction takes place, from Satoshi Nakamoto to [[wikipedia:Hal Finney (computer scientist)|Hal Finney]].<ref name="firsts">{{cite web |url=https://en.bitcoin.it/wiki/Bitcoin_Firsts |title=Bitcoin Firsts |website=Bitcoin Wiki |accessdate=June 12, 2017}}</ref>
 |-
 | 2009 || {{dts|August 29}} || || The first revision in the Bitcoin Git repository is made on this day. However this commit is converted from the Subversion revision control system.<ref name="gwern" /><ref>{{cite web |url=https://github.com/bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898 |publisher=GitHub |title=First commit · bitcoin/bitcoin@4405b78 |accessdate=June 12, 2017}}</ref>
+|-
+| 2009 || {{dts|October 12}} || || The first trade of bitcoin for [[wikipedia:Fiat money|fiat money]] takes place. Martti Malmi (Sirius) sells 5,050 BTC to NewLibertyStandard for $5.02.<ref name="firsts" /><ref>{{cite web |url=https://twitter.com/marttimalmi/status/423455561703624704 |title=Martti Malmi on Twitter |publisher=Twitter |accessdate=June 12, 2017 |quote=Found the first known bitcoin to USD transaction from my email backups. I sold 5,050 BTC for $5,02 on 2009-10-12.}}</ref>
 |-
 | 2009 || {{dts|December 16}} || || Bitcoin version 0.2 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=16.0 |title=Bitcoin 0.2 released! |accessdate=June 12, 2017 |author=satoshi}}</ref>
 |}
