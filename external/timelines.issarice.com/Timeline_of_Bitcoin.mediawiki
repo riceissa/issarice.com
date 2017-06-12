@@ -34,6 +34,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2010 || {{dts|July}} || || Mt. Gox, a bitcoin exchange, is founded by Jed McCaleb.<ref>{{cite web |url=https://www.gwern.net/docs/2014-mccaleb |author=Jed McCaleb |date=February 16, 2014 |title=Jed McCaleb interview |website=Gwern.net |accessdate=June 12, 2017}}</ref>
 |-
+| 2010 || {{dts|July 6}} || || Bitcoin version 0.3 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=238.0 |title=Bitcoin 0.3 released! |accessdate=June 12, 2017 |author=satoshi}}</ref>
+|-
 | 2010 || {{dts|September 9}} || || The main Bitcoin subreddit, r/Bitcoin, is created. As of June 12, 2017 it has 241,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/Bitcoin/about/moderators |title=moderators - r/Bitcoin |accessdate=June 12, 2017 |quote=a community for 6 years [Thu Sep 9 14:30:26 2010 UTC]}}</ref>
 |-
 | 2010 || {{dts|December 19}} || || [[wikipedia:Gavin Andresen|Gavin Andresen]] announces that he is stepping in to do "more active project management for bitcoin".<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=2367.0;all |title=Development process straw-man |accessdate=June 12, 2017}}</ref><ref>{{cite web |url=https://www.technologyreview.com/s/527051/the-man-who-really-built-bitcoin/ |author=Tom Simonite |title=Meet Gavin Andresen, the most powerful person in the world of Bitcoin |publisher=MIT Technology Review |date=August 15, 2014 |accessdate=June 12, 2017}}</ref>
