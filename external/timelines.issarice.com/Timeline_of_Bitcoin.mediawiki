@@ -49,6 +49,30 @@ This is a '''timeline of Bitcoin'''.
 | 2016 || {{dts|August 2}} || || The [[wikipedia:Bitfinex hack|Bitfinex hack]] is first announced.<ref>{{cite web |url=http://www.reuters.com/article/us-bitfinex-hacked-hongkong-idUSKCN10E0KP |author=Clare Baldwin |date=August 3, 2016 |publisher=Reuters |title=Bitcoin worth $72 million stolen from Bitfinex exchange in Hong Kong |accessdate=June 12, 2017 |quote=Bitcoin plunged just over 23 percent on Tuesday after the news broke.}}</ref>
 |}
 
+==Mentions on Google Scholar==
+
+{| class="sortable wikitable"
+! Year !! bitcoin (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810157568739966976 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref> !! blockchain (Lopp)<ref>{{cite web |url=https://twitter.com/lopp/status/810152507125223424 |title=Jameson Lopp on Twitter |publisher=Twitter |accessdate=June 12, 2017}}</ref> !! bitcoin !! blockchain
+|-
+| 2009 || 83 ||
+|-
+| 2010 || 136 || 213
+|-
+| 2011 || 218 || 224
+|-
+| 2012 || 424 || 311
+|-
+| 2013 || 1,390 || 477
+|-
+| 2014 || 3,190 || 956
+|-
+| 2015 || 3,670 || 1,440
+|-
+| 2016 || 3,580 || 2,190
+|-
+| 2017 || ||
+|}
+
 ==Meta information on the timeline==
 
 ===How the timeline was built===
