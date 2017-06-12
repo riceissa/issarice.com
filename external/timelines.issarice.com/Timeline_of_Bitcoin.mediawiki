@@ -19,6 +19,8 @@ This is a '''timeline of Bitcoin'''.
 | 2009 || {{dts|January 12}} || || The first Bitcoin transaction takes place, from Satoshi Nakamoto to [[wikipedia:Hal Finney (computer scientist)|Hal Finney]].<ref>{{cite web |url=https://en.bitcoin.it/wiki/Bitcoin_Firsts |title=Bitcoin Firsts |website=Bitcoin Wiki |accessdate=June 12, 2017}}</ref>
 |-
 | 2009 || {{dts|August 29}} || || The first revision in the Bitcoin Git repository is made on this day. However this commit is converted from the Subversion revision control system.<ref name="gwern" /><ref>{{cite web |url=https://github.com/bitcoin/bitcoin/commit/4405b78d6059e536c36974088a8ed4d9f0f29898 |publisher=GitHub |title=First commit · bitcoin/bitcoin@4405b78 |accessdate=June 12, 2017}}</ref>
+|-
+| 2009 || {{dts|December 16}} || || Bitcoin version 0.2 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=16.0 |title=Bitcoin 0.2 released! |accessdate=June 12, 2017 |author=satoshi}}</ref>
 |}
 
 ==Meta information on the timeline==
