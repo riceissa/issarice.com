@@ -126,7 +126,7 @@ I don't even remember making it).
   issarice.com.
 * 2016-03-25: The site begins using just a Makefile and Pandoc.
 * 2017-06-11: Experimental IPFS support added, e.g.
-  [index page](https://ipfs.io/ipns/QmSTMaYtCMwutdmiPqXqf7ft4YvYLDmm4CpnUikmvpZf1m/index).
+  [index page](https://ipfs.io/ipns/issarice.com/index).
 
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I make <http://issarice.com> the canonical domain.
