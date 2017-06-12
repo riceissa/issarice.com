@@ -36,6 +36,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2011 || {{dts|May}} || || [[wikipedia:BitPay|BitPay]], a bitcoin payment service provider, is founded.<ref>{{cite web |url=https://www.crunchbase.com/organization/bitpay |title=BitPay |publisher=Crunchbase |accessdate=June 12, 2017 |quote=Founded: May 1, 2011}}</ref>
 |-
+| 2011 || {{dts|May 9}} || || The launch of Bitbills is announced. Bitbills are the first physical incarnation of bitcoins, coming in plastic cards that contain the cryptographic information.<ref>{{cite web |url=https://en.bitcoin.it/wiki/Bitbills |title=Bitbills |publisher=Bitcoin Wiki |accessdate=June 12, 2017}}</ref><ref>{{cite web |url=http://www.bitcoin.org/smf/index.php?topic=7724.0 |archiveurl=https://web.archive.org/web/20110514051850/http://www.bitcoin.org/smf/index.php?topic=7724.0 |archivedate=May 14, 2011 |date=May 9, 2011 |author=llama |title=Introducing Bitbills! |accessdate=June 12, 2017}}</ref>
+|-
 | 2011 || {{dts|May 20}} || || The subreddit r/btc is created. As of June 12, 2017 it has 40,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/btc/about/moderators |title=moderators - r/btc |accessdate=June 12, 2017 |quote=a community for 6 years [Fri May 20 10:07:02 2011 UTC]}}</ref>
 |-
 | 2011 || {{dts|June 15}} || || The Bitcoin mining subreddit, r/BitcoinMining, is created. As of June 12, 2017 it has 13,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMining/about/moderators |title=moderators - r/BitcoinMining |accessdate=June 12, 2017 |quote=a community for 5 years [Wed Jun 15 16:20:02 2011 UTC]}}</ref>
