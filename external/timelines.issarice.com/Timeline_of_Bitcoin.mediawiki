@@ -46,7 +46,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2013 || {{dts|April 11}} || || The subreddit r/BitcoinMarkets is created. As of June 12, 2017 it has 34,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMarkets/about/moderators |title=moderators - r/BitcoinMarkets |accessdate=June 12, 2017 |quote=a community for 4 years [Thu Apr 11 08:23:13 2013 UTC]}}</ref>
 |-
-| 2014 || {{dts|February 7}} || The bitcoin exchange [[wikipedia:Mt. Gox|Mt. Gox]] halts all bitcoin withdrawals.<ref>{{cite web |url=http://www.bloomberg.com/news/2014-02-07/bitcoin-price-falls-as-mt-gox-exchange-halts-activity.html |archiveurl=https://archive.is/ueuoH |archivedate=February 7, 2014 |publisher=Bloomberg |title=Bitcoin Price Plunges as Mt. Gox Exchange Halts Activity |date=February 7, 2014 |accessdate=June 12, 2017}}</ref>
+| 2014 || {{dts|February 7}} || || The bitcoin exchange [[wikipedia:Mt. Gox|Mt. Gox]] halts all bitcoin withdrawals.<ref>{{cite web |url=http://www.bloomberg.com/news/2014-02-07/bitcoin-price-falls-as-mt-gox-exchange-halts-activity.html |archiveurl=https://archive.is/ueuoH |archivedate=February 7, 2014 |publisher=Bloomberg |title=Bitcoin Price Plunges as Mt. Gox Exchange Halts Activity |date=February 7, 2014 |accessdate=June 12, 2017}}</ref>
 |-
 | 2016 || {{dts|August 2}} || || The [[wikipedia:Bitfinex hack|Bitfinex hack]] is first announced.<ref>{{cite web |url=http://www.reuters.com/article/us-bitfinex-hacked-hongkong-idUSKCN10E0KP |author=Clare Baldwin |date=August 3, 2016 |publisher=Reuters |title=Bitcoin worth $72 million stolen from Bitfinex exchange in Hong Kong |accessdate=June 12, 2017 |quote=Bitcoin plunged just over 23 percent on Tuesday after the news broke.}}</ref>
 |-
