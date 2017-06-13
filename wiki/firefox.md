@@ -14,10 +14,9 @@ plugins more useful.
 
 - Decentraleyes
 - DOM Inspector
-- DuckDuckGo Plus
 - HTTPS Everywhere
 - It's All Text!
-- NoScript (should I switch to μMatrix?)
+- NoScript
 - Privacy Badger
 - ScrapBook X
 - uBlock Origin
