@@ -8,6 +8,9 @@ This is a '''timeline of Bitcoin'''.
 |}
 
 ==Full timeline==
+<!--
+* TODO Add more events about exchange rate changes
+-->
 
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
