@@ -21,7 +21,7 @@ The documentation is pretty good, and will give an idea of what it can do:
 
 As gwern's guide mentions, setting informative window titles is important.
 Most of my time on the computer is spent in a web browser or on a terminal.
-Both [Firefox](wiki/firefox.md) and Google Chrome already set good titles, so
+Both [Firefox](firefox) and Google Chrome already set good titles, so
 for me the challenge was mostly trying to make sure the terminal application I
 use sets titles correctly.
 
@@ -57,4 +57,4 @@ Some problems:
 
 # See also
 
-* [Software](wiki/software.md) for other software I use
+* [Software](software) for other software I use

@@ -6,7 +6,7 @@ date: 2017-01-29
 ---
 
 I use the text editor GNU Emacs for various tasks that my main text editor,
-[Vim](wiki/vim.md), does not handle well.
+[Vim](vim), does not handle well.
 
 As I have written [elsewhere](http://vim.wikia.com/wiki/Working_with_long_lines?useskin=monobook),
 Vim does a poor job of handling files with long lines.
@@ -83,4 +83,4 @@ I tend to stick to the basics.
 
 # See also
 
-- [More software I use](wiki/software.md)
+- [More software I use](software)

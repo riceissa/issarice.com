@@ -213,7 +213,7 @@ editors that work fine with long lines (gedit, GNU Emacs, etc.)".
 
 In editing Wikipedia, I've found it useful to learn [CUA keybindings](https://en.wikipedia.org/wiki/IBM_Common_User_Access) like `Ctrl`-`→`, `Ctrl`-`Backspace`, and so forth, which can be used directly on browsers like Firefox.
 This suffices for most editing tasks, and I have the extension [It's All Text!](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/) installed and set up to open GVim for more complicated tasks (like search-and-replace), where dealing with long lines in Vim is preferable to dealing with such tasks in the browser's text field.
-I've also found [Emacs](wiki/emacs.md) useful (with a bit of practice) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
+I've also found [Emacs](emacs) useful (with a bit of practice) if I am dealing with a file that neither Vim nor a CUA editor can easily deal with.
 
 # From my old .vimrc
 

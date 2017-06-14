@@ -7,7 +7,7 @@ date: 2017-03-10
 
 As of March 2017, Firefox is the main web browser I use.
 I find it slower than Google Chrome (which I use for
-[Facebook](wiki/facebook.md), Gmail, and /g/), but find its address bar and some
+[Facebook](facebook), Gmail, and /g/), but find its address bar and some
 plugins more useful.
 
 # Extensions

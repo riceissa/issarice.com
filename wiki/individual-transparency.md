@@ -73,7 +73,7 @@ available](https://issarice.com/#activity-feeds).
 # See also
 
 - [Having “ideas that are lying
-  around”](wiki/having-ideas-that-are-lying-around.md)
+  around”](having-ideas-that-are-lying-around)
 
 # External links
 

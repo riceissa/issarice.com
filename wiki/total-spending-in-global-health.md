@@ -342,7 +342,7 @@ Other sources to look at for funding info:
 
 # See also
 
-- [Global public health notes](wiki/global-public-health-notes.md)
+- [Global public health notes](global-public-health-notes)
 
 [dah_story]: http://www.who.int/bulletin/volumes/91/7/12-115410/en/ "“Development assistance for health in Africa: are we telling the right story?”. World Health Organization. 2013. Retrieved April 18, 2017."
 [student_guide]: https://www.theguardian.com/global-development/2011/sep/21/students-resources-guide-development-data "“Student guide to global development data on the web”. The Guardian. September 21, 2011. Retrieved April 14, 2017."

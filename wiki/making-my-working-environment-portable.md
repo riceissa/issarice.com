@@ -69,7 +69,7 @@ Just some notes for now.
 
 Particularly when editing text, I find it incredibly irritating when it takes a
 lot of time to go from my thoughts to the form of text on the screen.
-Learning [Vim](wiki/vim.md) has helped with this, possibly to a great extent
+Learning [Vim](vim) has helped with this, possibly to a great extent
 (it is difficult to know because I learned it in small increments -- being
 forced to use a primitive editor and finding the experience jarring perhaps
 gives a good idea of how much I have internalized).
@@ -96,7 +96,7 @@ Some examples:
   something in older versions of Vim and save myself from minor frustration
   each time I copy-pasted worth it? -->
 
-- Newer versions of [Git](wiki/git.md) require adding `default = simple` in the
+- Newer versions of [Git](git) require adding `default = simple` in the
   push section of one's configuration file in order to preserve the old pushing
   behavior.
   But in older versions of Git, having this line causes Git to spit out an

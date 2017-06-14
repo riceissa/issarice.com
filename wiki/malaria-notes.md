@@ -235,4 +235,4 @@ Examples:
 
 # See also
 
-- [Global public health notes](wiki/global-public-health-notes.md)
+- [Global public health notes](global-public-health-notes)

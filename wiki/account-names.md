@@ -58,7 +58,7 @@ You can browse [my public repositories](https://github.com/riceissa?tab=reposito
   Wiki](https://causeprioritization.org/), which I run.
   I originally used "issa" as my account, but gitit, the software that runs the
   wiki, uses the committer name (in my case, "Issa Rice", as I have
-  [Git](wiki/git.md) configured to use my real name) as the account name for
+  [Git](git) configured to use my real name) as the account name for
   offline edits.
   Seeing this, I decided to start using "Issa Rice" for online edits as well.
 - I am [Riceissa](https://info.cognitomentoring.org/wiki/User:Riceissa) on the
