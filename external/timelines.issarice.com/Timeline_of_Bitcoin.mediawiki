@@ -94,9 +94,15 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2015 || {{dts|July 12}} || || Bitcoin Core version 0.11.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.11.0 |title=Bitcoin Core version 0.11.0 released |accessdate=June 14, 2017}}</ref>
 |-
+| 2016 || {{dts|February 23}} || || Bitcoin Core version 0.12.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.12.0 |title=Bitcoin Core version 0.12.0 released |accessdate=June 14, 2017}}</ref>
+|-
 | 2016 || {{dts|August 2}} || || The [[wikipedia:Bitfinex hack|Bitfinex hack]] is first announced.<ref>{{cite web |url=http://www.reuters.com/article/us-bitfinex-hacked-hongkong-idUSKCN10E0KP |author=Clare Baldwin |date=August 3, 2016 |publisher=Reuters |title=Bitcoin worth $72 million stolen from Bitfinex exchange in Hong Kong |accessdate=June 12, 2017 |quote=Bitcoin plunged just over 23 percent on Tuesday after the news broke.}}</ref>
 |-
+| 2016 || {{dts|August 23}} || || Bitcoin Core version 0.13.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.13.0 |title=Bitcoin Core version 0.13.0 released |accessdate=June 14, 2017}}</ref>
+|-
 | 2016 || {{dts|December}} || || The inaugural issue of ''[[wikipedia:Ledger (journal)|Ledger]]'', the first peer-reviewed academic journal dedicated to cryptocurrencies and blockchain technologies, is published.<ref>{{cite web |url=http://www.coindesk.com/ledger-first-volume-blockchain-research/ |date=December 22, 2016 |title=Ledger Publishes First Volume of Peer-Reviewed Blockchain Research |author=Michael del Castillo |publisher=CoinDesk |accessdate=June 12, 2017}}</ref>
+|-
+| 2017 || {{dts|March 8}} || || Bitcoin Core version 0.14.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.14.0 |title=Bitcoin Core version 0.14.0 released |accessdate=June 14, 2017}}</ref>
 |}
 
 ==Mentions on Google Scholar==
