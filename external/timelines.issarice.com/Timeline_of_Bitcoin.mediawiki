@@ -86,6 +86,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2014 || {{dts|February 10}} || || The February 10, 2014 flash crash occurs on the [[wikipedia:BTC-e|BTC-e]] exchange.<ref>{{cite web |url=https://en.bitcoin.it/wiki/February_10,_2014_flash_crash |title=February 10, 2014 flash crash |website=Bitcoin Wiki |accessdate=June 13, 2017}}</ref>
 |-
+| 2014 || {{dts|March 19}} || || Bitcoin Core version 0.9.0 is released. This is the first version using the name "Bitcoin Core" rather than "Bitcoin-Qt". The release announcement states: "To reduce confusion between Bitcoin-the-network and Bitcoin-the-software we have renamed the reference client to Bitcoin Core."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.9.0 |title=Bitcoin Core version 0.9.0 released |accessdate=June 14, 2017}}</ref>
+|-
 | 2014 || {{dts|May 15}} || || The [[wikipedia:Stoned (computer virus)#Bitcoin blockchain incident|DOS Stoned incident]] occurs.<ref>{{cite web |url=https://en.bitcoin.it/wiki/DOS/STONED_incident |title=DOS/STONED incident |website=Bitcoin Wiki |accessdate=June 13, 2017}}</ref>
 |-
 | 2016 || {{dts|August 2}} || || The [[wikipedia:Bitfinex hack|Bitfinex hack]] is first announced.<ref>{{cite web |url=http://www.reuters.com/article/us-bitfinex-hacked-hongkong-idUSKCN10E0KP |author=Clare Baldwin |date=August 3, 2016 |publisher=Reuters |title=Bitcoin worth $72 million stolen from Bitfinex exchange in Hong Kong |accessdate=June 12, 2017 |quote=Bitcoin plunged just over 23 percent on Tuesday after the news broke.}}</ref>
