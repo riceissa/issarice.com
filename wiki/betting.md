@@ -42,6 +42,7 @@ Other thoughts:
     If betting is truly about rationality, it's the *cumulative* bets and
     overall track-record that matter.
     I think the case is similar to the one to [avoid the news][news].
+    Tyler Cowen is quoted to be making the same point [here][shows].
   * I think it's interesting that many rationalists are against news, but end
     up betting on news-worthy topics (but are these just the ones more likely
     to show up in my Facebook feed?).
@@ -86,5 +87,6 @@ Not all of the above points are unique to betting.
 I plan to write more about why I like betting later.
 
 [news]: http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html "Bryan Caplan. “The Case Against News”. EconLog. March 5, 2011."
+[shows]: http://econlog.econlib.org/archives/2017/06/what_a_bet_show.html "Bryan Caplan. “What a Bet Shows”. EconLog. Post dated June 7, 2017, but it first arrived in my news reader on June 14, 2017, so I think the timestamp on the post might be incorrect. Retrieved June 14, 2017."
 [super]: https://en.wikipedia.org/wiki/Superforecasting
 [vip_cal]: https://www.facebook.com/vipulnaik.r/posts/10210097120400452
