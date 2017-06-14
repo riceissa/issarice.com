@@ -14,7 +14,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2008 || {{dts|August 18}} || || The <code>bitcoin.org</code> domain name is registered on this day.<ref name="gwern">{{cite web |url=https://www.gwern.net/Bitcoin%20is%20Worse%20is%20Better |author=gwern |date=May 27, 2011 |title=Bitcoin is Worse is Better |website=Gwern.net |accessdate=June 12, 2017}}</ref>
 |-
-| 2008 || {{dts|August 22}} || || Satoshi Nakamoto emails Wei Dai asking when Dai's b-money paper was published, so that Nakamoto can cite the paper in his own.<ref name="gwern_2008_nakamoto" />
+| 2008 || {{dts|August 22}} || || Satoshi Nakamoto emails Wei Dai. In the email, Nakamoto links to a "pre-release draft" of the white paper and asks when Dai's b-money paper was published, claiming that he wants to know this so he can cite the paper correctly in his own.<ref name="gwern_2008_nakamoto" />
 |-
 | 2008 || {{dts|October 3}} || || A version of Satoshi Nakamoto's white paper exists from this day.<ref name="gwern_2008_nakamoto">{{cite web |url=https://www.gwern.net/docs/2008-nakamoto |author=Satoshi Nakamoto, Wei Dai |date=March 17, 2014 |title=Dai/Nakamoto emails |website=Gwern.net |accessdate=June 13, 2017}}</ref><ref>{{cite web |url=https://www.gwern.net/docs/20081003-nakamoto-bitcoindraft.pdf |title=20081003-nakamoto-bitcoindraft.pdf |accessdate=June 13, 2017}}</ref>
 |-
