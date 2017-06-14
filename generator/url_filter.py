@@ -48,8 +48,6 @@ def url_filter(key, value, format_, meta):
             # So we want to internally link txt
             url = slug(stringify(txt))
             url = "./" + url
-        elif url.startswith("wiki/") and url.endswith(".md"):
-            url = url[len("wiki/"):-len(".md")]
         urllst = [url, urllst[1]]
         return Link(attr, txt, urllst)
         #return Link(txt, [url, attr]) # old return, used for pandoc <=1.5
