@@ -46,6 +46,10 @@ Other thoughts:
   * I think it's interesting that many rationalists are against news, but end
     up betting on news-worthy topics (but are these just the ones more likely
     to show up in my Facebook feed?).
+    Personally I find news boring, and don't bother to follow along on world
+    events, and don't know why I should expend so much effort just to prove
+    that I am well-calibrated or whatever.
+    A lot of interesting topics aren't even on the betting table.
   * I think even worse than self-selecting which bets to take is to announce
     some bet one is willing to make in an effort to lure people into taking on
     bets.
@@ -69,8 +73,10 @@ Other thoughts:
     that are favorable enough, the cost of being informed about the thing you
     are betting on, the cost of due diligence to ensure your opponent will pay
     up, etc.
+    Not that being a lucrative opportunity is especially important, since
+    betting is claimed to have other benefits.
   * A possible scenario I want to think more about: a world where there is a
-    constant stream of low-stakes bets (from some authority) on which one is
+    constant stream of low-stakes bets (from some authority?) on which one is
     required to take a position.
     The authority then matches you with someone taking the opposite position.
     Or perhaps people submit their subjective probabilities and the authority
@@ -89,4 +95,4 @@ I plan to write more about why I like betting later.
 [news]: http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html "Bryan Caplan. “The Case Against News”. EconLog. March 5, 2011."
 [shows]: http://econlog.econlib.org/archives/2017/06/what_a_bet_show.html "Bryan Caplan. “What a Bet Shows”. EconLog. Post dated June 7, 2017, but it first arrived in my news reader on June 14, 2017, so I think the timestamp on the post might be incorrect. Retrieved June 14, 2017."
 [super]: https://en.wikipedia.org/wiki/Superforecasting
-[vip_cal]: https://www.facebook.com/vipulnaik.r/posts/10210097120400452
+[vip_cal]: https://www.facebook.com/vipulnaik.r/posts/10210097120400452 "“Caveat: The bets are somewhat correlated, so that measuring the fraction of them I get right is an imperfect indication of my calibration.”"
