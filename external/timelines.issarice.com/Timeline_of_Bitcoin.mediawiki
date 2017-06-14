@@ -10,6 +10,7 @@ This is a '''timeline of Bitcoin'''.
 ==Full timeline==
 <!--
 * TODO Add more events about exchange rate changes
+* TODO Add CVEs and other incidents related to security and bad transactions
 -->
 
 {| class="sortable wikitable"
