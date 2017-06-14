@@ -58,17 +58,23 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2011 || {{dts|November 21}} || || Bitcoin-Qt version 0.5.0 is released. "The major change for this release is a completely new graphical that uses the [[wikipedia:Qt (software)|Qt user interface toolkit]]."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.5.0 |title=Bitcoin-Qt version 0.5.0 released |accessdate=June 12, 2017}}</ref>
 |-
+| 2012 || {{dts|March 30}} || || Bitcoin-Qt version 0.6.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.6.0 |title=Bitcoin-Qt version 0.6.0 released |accessdate=June 14, 2017}}</ref>
+|-
 | 2012 || {{dts|May 30}} || || The Bitcoin Magazine subreddit, r/BitcoinMagazine, is created. As of June 12, 2017 it has 788 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMagazine/about/moderators |title=moderators - r/BitcoinMagazine |accessdate=June 12, 2017 |quote=a community for 5 years [Wed May 30 07:48:30 2012 UTC]}}</ref>
 |-
 | 2012 || {{dts|June}} || || [[wikipedia:Coinbase|Coinbase]], a digital asset exchange company that operates exchanges of Bitcoin (among other digital currencies), is founded.<ref>{{cite web |url=https://www.coinbase.com/about?locale=en-US |title=Coinbase - Buy and Sell Bitcoin, Ethereum, and Litecoin |accessdate=June 12, 2017 |quote=Founded in June of 2012, Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies like bitcoin, ethereum, and litecoin.}}</ref><ref>{{cite web |url=https://www.crunchbase.com/organization/coinbase |title=Coinbase |publisher=Crunchbase |accessdate=June 12, 2017 |quote=Founded: June 1, 2012}} Crunchbase gives June 1 as the founding date, but Wikipedia gives June 20 with no citation.</ref>
 |-
 | 2012 || {{dts|September}} || || The [[wikipedia:Bitcoin Foundation|Bitcoin Foundation]] is founded.<ref>{{cite web |url=http://www.forbes.com/sites/jonmatonis/2012/09/27/bitcoin-foundation-launches-to-drive-bitcoins-advancement/ |first=Jon |last=Matonis |archivedate=January 23, 2013 |archiveurl=http://archive.is/0NaKf |title=Bitcoin Foundation Launches To Drive Bitcoin's Advancement |publisher=Forbes |date=September 27, 2012 |accessdate=June 12, 2017 |quote=Several months in the making, the Bitcoin Foundation launches this week}}</ref>
 |-
+| 2012 || {{dts|September 17}} || || Bitcoin-Qt version 0.7.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.7.0 |title=Bitcoin-Qt version 0.7.0 released |accessdate=June 14, 2017}}</ref>
+|-
 | 2012 || {{dts|November 15}} || || [[wikipedia:WordPress.com|WordPress.com]] begins accepting bitcoins for the purchase of upgrades.<ref name="firsts" /><ref>{{cite web |url=https://en.blog.wordpress.com/2012/11/15/pay-another-way-bitcoin/ |title=Pay Another Way: Bitcoin |date=November 15, 2012 |publisher=The WordPress.com Blog |accessdate=June 12, 2017}}</ref>
 |-
 | 2013 || {{dts|February 14}} || || The social news aggregation website [[wikipedia:Reddit|Reddit]] begins accepting bitcoins for the purchase of reddit gold (reddit's premium membership).<ref name="firsts" /><ref>{{cite web |url=https://redditblog.com/2013/02/14/new-gold-payment-options-bitcoin-and-credit-card/ |publisher=Upvoted |title=New Gold Payment Options: Bitcoin and Credit Card |accessdate=June 12, 2017}}</ref><ref>{{cite web |url=https://techcrunch.com/2013/02/14/reddit-starts-accepting-bitcoin-for-reddit-gold-purchases-thanks-to-partnership-with-coinbase/ |date=February 14, 2013 |publisher=TechCrunch |title=Reddit Starts Accepting Bitcoin for Reddit Gold Purchases Thanks To Partnership With Coinbase |author=Drew Olanoff |accessdate=June 12, 2017}}</ref>
 |-
 | 2013 || {{dts|February 15}} || || The subreddit r/Jobs4Bitcoins is created. As of June 12, 2017 it has 12,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/Jobs4Bitcoins/about/moderators |title=moderators - r/Jobs4Bitcoins |accessdate=June 12, 2017 |quote=a community for 4 years [Fri Feb 15 16:11:25 2013 UTC]}}</ref>
+|-
+| 2013 || {{dts|February 19}} || || Bitcoin-Qt version 0.8.0 is released. "This is a major release designed to improve performance and handle the increasing volume of transactions on the network."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.8.0 |title=Bitcoin-Qt version 0.8.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2013 || {{dts|March 6}} || || The subreddit r/BitcoinBeginners is created. As of June 12, 2017 it has 14,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinBeginners/about/moderators |title=moderators - r/BitcoinBeginners |accessdate=June 12, 2017 |quote=a community for 4 years [Wed Mar 6 11:35:47 2013 UTC]}}</ref>
 |-
