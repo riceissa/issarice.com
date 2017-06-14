@@ -18,7 +18,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2008 || {{dts|October 3}} || || A version of Satoshi Nakamoto's white paper exists from this day.<ref name="gwern_2008_nakamoto">{{cite web |url=https://www.gwern.net/docs/2008-nakamoto |author=Satoshi Nakamoto, Wei Dai |date=March 17, 2014 |title=Dai/Nakamoto emails |website=Gwern.net |accessdate=June 13, 2017}}</ref><ref>{{cite web |url=https://www.gwern.net/docs/20081003-nakamoto-bitcoindraft.pdf |title=20081003-nakamoto-bitcoindraft.pdf |accessdate=June 13, 2017}}</ref>
 |-
-| 2008 || {{dts|November 1}} || || The first public version of Satoshi Nakamoto's white paper, titled "Bitcoin: A Peer-to-Peer Electronic Cash System", is published.<ref name="gwern" /><ref>{{cite web |url=https://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html |title=Bitcoin P2P e-cash paper |accessdate=June 12, 2017 |date=November 1, 2008}}</ref>
+| 2008 || {{dts|November 1}} || || The first public version of Satoshi Nakamoto's white paper, titled "Bitcoin: A Peer-to-Peer Electronic Cash System", is published.<ref name="gwern" /><ref>{{cite web |url=https://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html |title=Bitcoin P2P e-cash paper |accessdate=June 12, 2017 |date=November 1, 2008}}</ref> Depending on the time zone, this is October 31.<ref name="cat_hist" />
 |-
 | 2008 || {{dts|November 9}} || || The Bitcoin project is registered on [[wikipedia:SourceForge|SourceForge]].<ref name="cat_hist" /><ref>{{cite web |url=https://sourceforge.net/projects/bitcoin/ |title=Bitcoin |publisher=SourceForge |accessdate=June 12, 2017 |quote=Registered 2008-11-09}}</ref>
 |-
