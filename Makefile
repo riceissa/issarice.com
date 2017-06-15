@@ -11,7 +11,7 @@ SERVER_DEST = carbon:/var/www/issarice.com/public_html
 pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST)
 
 .PHONY: fullsite
-fullsite: $(OUTDIR)/_all_date $(OUTDIR)/_all pages $(OUTDIR)/sitemap.xml $(OUTDIR)/atom.xml
+fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/_all_date $(OUTDIR)/_all $(OUTDIR)/sitemap.xml pages
 
 .PHONY: sync
 sync:
