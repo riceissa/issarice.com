@@ -16,13 +16,15 @@ This is a '''timeline of Bitcoin'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1976 || || || The [[wikipedia:Public-key cryptography#Public discovery|first public work on public-key cryptography]] is published.<ref name="gwern" /> Public-key cryptography is used in Bitcoin for specifying ownership of coins.<ref name="How_bitcoin_works" />
+|-
 | 1979 || || || The [[wikipedia:Merkle tree|Merkle tree]] is patented by [[wikipedia:Ralph Merkle|Ralph Merkle]].<ref name="gwern" />
 |-
 | 1997 || {{dts|March 28}} || || [[wikipedia:Adam Back|Adam Back]] proposes [[wikipedia:Hashcash|Hashcash]] on the Cypherpunks mailing list.<ref name="gwern" /><ref>{{cite web |url=http://www.hashcash.org/papers/announce.txt |title=[ANNOUNCE] hash cash postage implementation |accessdate=June 16, 2017}}</ref>
 |-
 | 1998 || || || Wei Dai's b-money paper is published.<ref name="gwern" />
 |-
-| 2001 || || || [[wikipedia:SHA-2|SHA-2]] is first published.<ref name="gwern" /> Of the SHA-2 family of hash functions, SHA-256 would be used in Bitcoin for "integrity, block-chaining, and the hashcash cost-function".<ref>{{cite web |url=https://en.bitcoin.it/wiki/How_bitcoin_works |title=How bitcoin works |website=Bitcoin Wiki |accessdate=June 16, 2017}}</ref>
+| 2001 || || || [[wikipedia:SHA-2|SHA-2]] is first published.<ref name="gwern" /> Of the SHA-2 family of hash functions, SHA-256 would be used in Bitcoin for "integrity, block-chaining, and the hashcash cost-function".<ref name="How_bitcoin_works">{{cite web |url=https://en.bitcoin.it/wiki/How_bitcoin_works |title=How bitcoin works |website=Bitcoin Wiki |accessdate=June 16, 2017}}</ref>
 |-
 | 2002 || {{dts|August 1}} || || Adam Back's Hashcash paper is published. This is the paper cited in Satoshi Nakamoto's white paper.<ref>{{cite web |url=http://www.hashcash.org/papers/hashcash.pdf |title=Hashcash - A Denial of Service Counter-Measure |author=Adam Back |date=August 1, 2002 |accessdate=June 16, 2017}}</ref>
 |-
