@@ -61,13 +61,13 @@ This page is a placeholder for now.
   I know almost nothing about it, but it seems to do what I want.
 - I often use `less` (e.g. instead of `tail -f` I use `less +F`)
 - fzf, mostly for recalling commands in bash with CTRL-R.
+- [Emacs](emacs) org mode
 
 Programs in trial mode:
 
 - ag
 - `mpsyt`
 - arbtt
-- [Emacs](emacs) org mode
 - `cmark-gfm` for Markdown processing; I've now used it for at least one blog
   post, and it is now [used on GitHub](https://githubengineering.com/a-formal-spec-for-github-markdown/).
   If more extensions are written for CommonMark (math, tables, metadata
