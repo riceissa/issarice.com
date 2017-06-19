@@ -1,7 +1,7 @@
 ---
 title: Software
 author: Issa Rice
-date: 2017-03-27
+date: 2017-06-19
 ---
 
 This page lists software I use or have used.
