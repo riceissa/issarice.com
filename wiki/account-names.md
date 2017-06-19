@@ -46,6 +46,7 @@ I also use "issarice".
 - I am [riceissa](https://github.com/riceissa/) on [GitHub](https://github.com/).
 You can browse [my public repositories](https://github.com/riceissa?tab=repositories) and [my public gists](https://gist.github.com/riceissa).
 - I am [riceissa](https://bitbucket.org/riceissa) on [Bitbucket](https://bitbucket.org/); I don’t use it very often, preferring GitHub instead.
+- I am [riceissa](https://gitlab.com/riceissa) on GitLab.
 - I am [riceissa](https://stackoverflow.com/users/3422337/riceissa) on [Stack Overflow](https://stackoverflow.com/).
 - I am [IssaRice](https://news.ycombinator.com/user?id=IssaRice) on Hacker News.
 - [My Vim Tips Wiki contributions](http://vim.wikia.com/wiki/Special:Contributions/IssaRice?useskin=monobook)
