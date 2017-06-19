@@ -57,6 +57,7 @@ This page is a placeholder for now.
 - GNU userland, mainly because that's what comes with Debian and Ubuntu and
   is what I'm most used to.
   I also install moreutils for `sponge`.
+- [rsync](rsync)
 - LibreOffice Calc for converting between CSV and XLS.
   I know almost nothing about it, but it seems to do what I want.
 - I often use `less` (e.g. instead of `tail -f` I use `less +F`)
