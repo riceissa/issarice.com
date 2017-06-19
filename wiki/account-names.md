@@ -5,6 +5,8 @@ date: 2017-04-02
 ---
 
 Below I list the account names I use on various websites.
+As with [software](software), I like to sign up for a lot of online services to
+try them out, even though I know I won't continue using most of them.
 
 I usually use "riceissa" on most sites.
 This is somewhat of a historical accident: when I tried to sign up for my Gmail
