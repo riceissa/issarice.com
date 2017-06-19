@@ -11,6 +11,9 @@ Make sure the file is not readable by anyone except you:
 
 My configuration is [available on GitHub](https://github.com/riceissa/dotfiles/blob/master/.muttrc).
 
+Note that on Ubuntu the version of Mutt is actually
+[NeoMutt](https://www.neomutt.org/).
+
 # See also
 
 * [Software]() for more about the software I use
