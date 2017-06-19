@@ -31,6 +31,9 @@ I also use "issarice".
 - I am [riceissa][tp] on [Twitter](https://twitter.com/).  I don’t use
   Twitter very often, and when I do it’s mostly to read what others have
   tweeted.
+- I am [riceissa](https://www.pinterest.com/riceissa/) on Pinterest.
+  I created the account after making additions to the [Timeline of Pinterest](https://en.wikipedia.org/w/index.php?title=Timeline_of_Pinterest&action=history&year=2017&month=2&tagfilter=)
+  page on Wikipedia -- I got curious about the site and decided to play around.
 
 # Rationality/Effective Altruism community
 
