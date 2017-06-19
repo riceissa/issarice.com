@@ -11,6 +11,9 @@ This page is a placeholder for now.
 - [Firefox]() for the vast majority of daily browsing; I also use Google Chrome
   for Facebook and Gmail, and occasionally for some other JavaScript-heavy sites
   that I don't want to view with Firefox.
+  For most JavaScript-heavy web apps, often the easiest way to use them is to
+  run them under an incognito Chrome window, rather than manually enabling a
+  bunch of domains on NoScript or uMatrix.
 - [Vim]() with various plugins for most text editing.
   I also use [Emacs]() or the browser's text box for MediaWiki, since Vim has
   difficulty with long lines.
