@@ -15,8 +15,6 @@ This page is a placeholder for now.
   run them under an incognito Chrome window, rather than manually enabling a
   bunch of domains on NoScript or uMatrix.
 - [Vim]() with various plugins for most text editing.
-  I also use [Emacs]() or the browser's text box for MediaWiki, since Vim has
-  difficulty with long lines.
 - [Git]()
 - [ELinks](), Links, or Lynx for lightweight browsing depending on what I want.
   ELinks has tabbed browsing which I find easy to use, but Links can show
