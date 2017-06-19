@@ -42,6 +42,14 @@ This page is a placeholder for now.
   terminal emulator intercepts Alt key mappings, like `Alt`-`f`.
 - Virtualbox
 - PDF.js or MuPDF for most PDF files.
+  For short PDFs, PDF.js suffices, but for longer PDFs I usually store a
+  persistent copy and read them on MuPDF.
+  This is partly because PDF.js has a bug where if I open a long PDF, then go
+  do stuff in other tabs, then return to the PDF and scroll down, later pages
+  just show a spinning wheel without actually loading.
+  As for MuPDF, I like the simple aesthetic and speed, but I don't care for the
+  rectangular selection (which can only copy to the primary selection and not
+  the clipboard?) and wish there was a tabbed interface.
 - Still looking for a good epub reader.
   I currently use FBReader but find the scrolling mechanism annoying.
 - `youtube-dl`
