@@ -17,19 +17,23 @@ fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/_all_date $(OUTDIR)/_all $(OUTDIR)/sitema
 sync:
 	rsync --delete --exclude=_archive/ -r $(OUTDIR)/ $(SERVER_DEST)
 
+.PHONY: push
+push:
+	git push origin master
+	git push bitbucket master
+	git push gitlab master
+
 .PHONY: deploy
 deploy:
 	$(MAKE) fullsite
 	$(MAKE) sync
-	git push origin master
-	git push bitbucket master
+	$(MAKE) push
 
 .PHONY: fast_deploy
 fast_deploy:
 	$(MAKE) pages
 	$(MAKE) sync
-	git push origin master
-	git push bitbucket master
+	$(MAKE) push
 
 .PHONY: deploy_archive
 deploy_archive:
