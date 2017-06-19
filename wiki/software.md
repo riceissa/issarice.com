@@ -49,7 +49,8 @@ This page is a placeholder for now.
   just show a spinning wheel without actually loading.
   As for MuPDF, I like the simple aesthetic and speed, but I don't care for the
   rectangular selection (which can only copy to the primary selection and not
-  the clipboard?) and wish there was a tabbed interface.
+  the clipboard?) and wish there was a tabbed interface and a way to show
+  partial pages when scrolling down.
 - Still looking for a good epub reader.
   I currently use FBReader but find the scrolling mechanism annoying.
 - `youtube-dl`
