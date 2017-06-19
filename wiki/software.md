@@ -59,6 +59,11 @@ Programs in trial mode:
 - `mpsyt`
 - arbtt
 - [Emacs](emacs) org mode
+- `cmark-gfm` for Markdown processing; I've now used it for at least one blog
+  post, and it is now [used on GitHub](https://githubengineering.com/a-formal-spec-for-github-markdown/).
+  If more extensions are written for CommonMark (math, tables, metadata
+  headers), and if the standard is adopted more widely, it probably makes sense
+  to stop using Pandoc's Markdown.
 
 # See also
 
