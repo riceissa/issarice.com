@@ -23,6 +23,8 @@ $endif$
   <meta property="og:image:height" content="300" />
   <meta property="article:author" content="https://www.facebook.com/riceissa" />
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+  <link rel="me" href="https://github.com/riceissa" />
+  <link rel="me" href="https://twitter.com/riceissa" />
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$ | Issa Rice</title>
   <style type="text/css">code{white-space: pre;}</style>
 $if(quotes)$
