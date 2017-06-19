@@ -37,7 +37,7 @@ This page is a placeholder for now.
   You can see the [resulting values][colors].
 - IPython (now called Jupyter Qt console)
 - htop
-- urxvt
+- rxvt-unicode a.k.a. urxvt
   No strong preference for the most part, except that I dislike it when the
   terminal emulator intercepts Alt key mappings, like `Alt`-`f`.
 - Virtualbox
