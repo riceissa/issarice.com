@@ -35,7 +35,7 @@ This page is a placeholder for now.
   which makes some console programs difficult to use; I therefore replace those
   colors with the equivalents from Tango.
   You can see the [resulting values][colors].
-- IPython
+- IPython (now called Jupyter Qt console)
 - htop
 - urxvt
   No strong preference for the most part, except that I dislike it when the
