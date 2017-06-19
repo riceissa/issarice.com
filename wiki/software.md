@@ -58,7 +58,7 @@ Programs in trial mode:
 - ag
 - `mpsyt`
 - arbtt
-- Emacs org mode
+- [Emacs](emacs) org mode
 
 # See also
 
