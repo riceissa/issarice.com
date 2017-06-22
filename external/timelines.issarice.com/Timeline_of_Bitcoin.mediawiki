@@ -113,6 +113,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2012 || {{dts|November 15}} || || [[wikipedia:WordPress.com|WordPress.com]] begins accepting bitcoins for the purchase of upgrades.<ref name="firsts" /><ref>{{cite web |url=https://en.blog.wordpress.com/2012/11/15/pay-another-way-bitcoin/ |title=Pay Another Way: Bitcoin |date=November 15, 2012 |publisher=The WordPress.com Blog |accessdate=June 12, 2017}}</ref>
 |-
+| 2013 || {{dts|January 31}} || || The first [[wikipedia:Application-specific integrated circuit|application-specific integrated circuits]] (ASICs) designed for Bitcoin mining are shipped.<ref name="liu" />
+|-
 | 2013 || {{dts|February 14}} || || The social news aggregation website [[wikipedia:Reddit|Reddit]] begins accepting bitcoins for the purchase of reddit gold (reddit's premium membership).<ref name="firsts" /><ref>{{cite web |url=https://redditblog.com/2013/02/14/new-gold-payment-options-bitcoin-and-credit-card/ |publisher=Upvoted |title=New Gold Payment Options: Bitcoin and Credit Card |accessdate=June 12, 2017}}</ref><ref>{{cite web |url=https://techcrunch.com/2013/02/14/reddit-starts-accepting-bitcoin-for-reddit-gold-purchases-thanks-to-partnership-with-coinbase/ |date=February 14, 2013 |publisher=TechCrunch |title=Reddit Starts Accepting Bitcoin for Reddit Gold Purchases Thanks To Partnership With Coinbase |author=Drew Olanoff |accessdate=June 12, 2017}}</ref>
 |-
 | 2013 || {{dts|February 15}} || || The subreddit r/Jobs4Bitcoins is created. As of June 12, 2017 it has 12,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/Jobs4Bitcoins/about/moderators |title=moderators - r/Jobs4Bitcoins |accessdate=June 12, 2017 |quote=a community for 4 years [Fri Feb 15 16:11:25 2013 UTC]}}</ref>
