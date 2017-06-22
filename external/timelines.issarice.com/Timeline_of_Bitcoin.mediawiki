@@ -93,6 +93,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2011 || {{dts|May 20}} || || The subreddit r/btc is created. As of June 12, 2017 it has 40,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/btc/about/moderators |title=moderators - r/btc |accessdate=June 12, 2017 |quote=a community for 6 years [Fri May 20 10:07:02 2011 UTC]}}</ref>
 |-
+| 2011 || {{dts|June 1}} || || The Gawker piece on Silk Road is published.<ref>{{cite web |url=http://gawker.com/the-underground-website-where-you-can-buy-any-drug-imag-30818160 |title=The Underground Website Where You Can Buy Any Drug Imaginable |author=Adrian Chen |publisher=Gawker |accessdate=June 22, 2017}}</ref>
+|-
 | 2011 || {{dts|June 15}} || || The Bitcoin mining subreddit, r/BitcoinMining, is created. As of June 12, 2017 it has 13,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMining/about/moderators |title=moderators - r/BitcoinMining |accessdate=June 12, 2017 |quote=a community for 5 years [Wed Jun 15 16:20:02 2011 UTC]}}</ref>
 |-
 | 2011 || {{dts|September 23}} || || Bitcoin version 0.4.0 is released.<ref>{{cite web |url=https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000582.html |title=[Bitcoin-development] Bitcoin 0.4.0 released |accessdate=June 12, 2017 |author=Gavin Andresen}}</ref>
