@@ -12,6 +12,7 @@ This is a '''timeline of Bitcoin'''.
 * TODO Add more events about exchange rate changes
 * TODO Add CVEs and other incidents related to security and bad transactions
 * TODO silkroad?
+* TODO "Historically it was not required to include a fee for every transaction. A large portion of miners would mine transactions with no fee given that they had enough "priority". Today, low priority is mostly used as an indicator for spam transactions and almost all miners expect every transaction to include a fee. Today miners choose which transactions to mine only based on fee-rate." https://en.bitcoin.it/wiki/Transaction_Fee When was this "historical" period?
 -->
 
 {| class="sortable wikitable"
