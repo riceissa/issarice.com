@@ -22,7 +22,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 1979 || || || The [[wikipedia:Merkle tree|Merkle tree]] is patented by [[wikipedia:Ralph Merkle|Ralph Merkle]].<ref name="gwern" />
 |-
-| 1991 || || || Haber and Stornetta's paper on linked timestamping is published.<ref name="princeton_bitcoin_book">{{cite book |title=Bitcoin and Cryptocurrency Technologies (draft version) |first1=Arvind |last1=Narayanan |first2=Joseph |last2=Bonneau |first3=Edward |last3=Felten |first4=Andrew |last4=Miller |first5=Steven |last5=Goldfeder |date=February 9, 2016 |publisher=Princeton University Press |url=https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1}}</ref>{{rp|15}}
+| 1991 || || || Haber and Stornetta's paper on linked timestamping is published.<ref name="princeton_bitcoin_book">{{cite book |title=Bitcoin and Cryptocurrency Technologies (draft version) |first1=Arvind |last1=Narayanan |first2=Joseph |last2=Bonneau |first3=Edward |last3=Felten |first4=Andrew |last4=Miller |first5=Steven |last5=Goldfeder |first6=Jeremy |last6=Clark |date=February 9, 2016 |publisher=Princeton University Press |url=https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1}}</ref>{{rp|15}}
 |-
 | 1992–1993 || || || A [[wikipedia:Proof-of-work system|proof-of-work system]] for [[wikipedia:Email spam|email spam]] is presented.<ref name="gwern" />
 |-
