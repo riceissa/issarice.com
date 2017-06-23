@@ -22,13 +22,15 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 1979 || || || The [[wikipedia:Merkle tree|Merkle tree]] is patented by [[wikipedia:Ralph Merkle|Ralph Merkle]].<ref name="gwern" />
 |-
-| 1991 || || || Haber and Stornetta's paper on linked timestamping is published.<ref>{{cite book |title=Bitcoin and Cryptocurrency Technologies (draft version) |first1=Arvind |last1=Narayanan |first2=Joseph |last2=Bonneau |first3=Edward |last3=Felten |first4=Andrew |last4=Miller |first5=Steven |last5=Goldfeder |date=February 9, 2016 |publisher=Princeton University Press |url=https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1}}</ref>
+| 1991 || || || Haber and Stornetta's paper on linked timestamping is published.<ref name="princeton_bitcoin_book">{{cite book |title=Bitcoin and Cryptocurrency Technologies (draft version) |first1=Arvind |last1=Narayanan |first2=Joseph |last2=Bonneau |first3=Edward |last3=Felten |first4=Andrew |last4=Miller |first5=Steven |last5=Goldfeder |date=February 9, 2016 |publisher=Princeton University Press |url=https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1}}</ref>{{rp|15}}
 |-
 | 1992–1993 || || || A [[wikipedia:Proof-of-work system|proof-of-work system]] for [[wikipedia:Email spam|email spam]] is presented.<ref name="gwern" />
 |-
 | 1997 || {{dts|March 28}} || || [[wikipedia:Adam Back|Adam Back]] proposes [[wikipedia:Hashcash|Hashcash]] on the Cypherpunks mailing list.<ref name="gwern" /><ref>{{cite web |url=http://www.hashcash.org/papers/announce.txt |title=[ANNOUNCE] hash cash postage implementation |accessdate=June 16, 2017}}</ref>
 |-
 | 1998 || || || Wei Dai's b-money paper is published.<ref name="gwern" />
+|-
+| 1998 || || || Nick Szabo claims to have had the idea of Bitgold as early as this year. He would only blog about the idea in 2005.<ref name="princeton_bitcoin_book" />{{rp|17}}
 |-
 | 2001 || || || [[wikipedia:SHA-2|SHA-2]] is first published.<ref name="gwern" /> Of the SHA-2 family of hash functions, SHA-256 would be used in Bitcoin for "integrity, block-chaining, and the hashcash cost-function".<ref name="How_bitcoin_works">{{cite web |url=https://en.bitcoin.it/wiki/How_bitcoin_works |title=How bitcoin works |website=Bitcoin Wiki |accessdate=June 16, 2017}}</ref>
 |-
