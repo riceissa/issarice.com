@@ -42,7 +42,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2007 || {{dts|May 2007}} || || Satoshi Nakamoto claims he starts coding Bitcoin around this time.<ref name="princeton_bitcoin_book" />{{rp|18}}
 |-
-| 2008 || {{dts|August}} || || Satoshi Nakamoto emails Adam Back, the creator of hashcash.<ref>{{cite book |title=Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money |author=Nathaniel Popper |year=2015 |publisher=Harper}}</ref>
+| 2008 || {{dts|August}} || || Satoshi Nakamoto emails Adam Back, the creator of hashcash, "asking him to look at a short paper describing something called Bitcoin".<ref>{{cite book |title=Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money |author=Nathaniel Popper |year=2015 |publisher=Harper}}</ref>
 |-
 | 2008 || {{dts|August 18}} || || The <code>bitcoin.org</code> domain name is registered on this day.<ref name="gwern">{{cite web |url=https://www.gwern.net/Bitcoin%20is%20Worse%20is%20Better |author=gwern |date=May 27, 2011 |title=Bitcoin is Worse is Better |website=Gwern.net |accessdate=June 12, 2017}}</ref>
 |-
