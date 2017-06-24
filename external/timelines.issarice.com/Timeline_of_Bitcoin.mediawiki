@@ -92,6 +92,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2010 || {{dts|July 18}} || || ArtForz generates "his first block after establishing his personal OpenCL GPU hash farm". Apparently ArtForz announces this date on Bitcoin Talk, but neither source links to it, and a quick search didn't turn it up.<ref name="cat_hist" /><ref>{{cite web |url=http://www.ofnumbers.com/2014/04/20/how-artforz-changed-the-history-of-bitcoin-mining/ |title=How ArtForz changed the history of Bitcoin mining |date=April 20, 2014 |author=Tim Swanson |publisher=Great Wall of Numbers |accessdate=June 14, 2017 |quote=Assuming he began mining on July 18th (based on his forum post stating that)}}</ref>
 |-
+| 2010 || {{dts|July}} (late) || || Martti Malmi launches the non-English Bitcoin forum, in Russian.<ref name="popper_digitial_gold" />
+|-
 | 2010 || {{dts|September 9}} || || The main Bitcoin subreddit, r/Bitcoin, is created. As of June 12, 2017 it has 241,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/Bitcoin/about/moderators |title=moderators - r/Bitcoin |accessdate=June 12, 2017 |quote=a community for 6 years [Thu Sep 9 14:30:26 2010 UTC]}}</ref>
 |-
 | 2010 || {{dts|October 17}} || || The Freenode IRC channel #bitcoin-otc is established. (Citation gives this date but does not provide a source.)<ref name="cat_hist" />
