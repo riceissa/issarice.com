@@ -128,6 +128,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2011 || {{dts|June 19}} || || Mt. Gox is hacked, causing the price of bitcoin to drop "from $17 to 1 penny in less than an hour".<ref name="popper_digitial_gold" />
 |-
+| 2011 || {{dts|July 29}} || || The bitcoin wallet service MyBitcoin shuts down. "The founder of the site, a man who called himself Tom Williams, was unresponsive and soon enough all the wallets were frozen."<ref name="popper_digitial_gold" /><ref>{{cite web |url=https://bitcointalk.org/index.php?topic=32900.0 |title=mybitcoin down or just me? |accessdate=June 25, 2017}}</ref><ref>{{cite web |url=https://en.bitcoin.it/wiki/MyBitcoin |title=MyBitcoin |website=Bitcoin Wiki |accessdate=June 25, 2017}}</ref>
+|-
 | 2011 || {{dts|August 19}} || || The first Bitcoin Improvement Proposal (BIP) is submitted, explaining what a BIP is.<ref>{{cite web |url=https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals |title=Bitcoin Improvement Proposals - Bitcoin Wiki |accessdate=June 22, 2017}}</ref><ref>{{cite web |url=https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki |publisher=GitHub |title=bitcoin/bips |accessdate=June 22, 2017}}</ref>
 |-
 | 2011 || {{dts|September 23}} || || Bitcoin version 0.4.0 is released.<ref>{{cite web |url=https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000582.html |title=[Bitcoin-development] Bitcoin 0.4.0 released |accessdate=June 12, 2017 |author=Gavin Andresen}}</ref>
