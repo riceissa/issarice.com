@@ -144,7 +144,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2012 || {{dts|March 30}} || || Bitcoin-Qt version 0.6.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.6.0 |title=Bitcoin-Qt version 0.6.0 released |accessdate=June 14, 2017}}</ref>
 |-
-| 2012 || {{dts|April 24}} || || Satoshi Dice, a betting site, is announced on Bitcoin Talk by [[wikipedia:Erik Voorhees|Erik Voorhees]].<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=77870.0 |title=SatoshiDICE.com - The World's Most Popular Bitcoin Game |accessdate=June 27, 2017}}</ref><ref>{{cite web |url=https://en.bitcoin.it/wiki/Satoshi_Dice |title=Satoshi Dice |website=Bitcoin Wiki |accessdate=June 27, 2017}}</ref>
+| 2012 || {{dts|April 24}} || || Satoshi Dice (now called [[wikipedia:MegaDice|MegaDice]]), a betting site, is announced on Bitcoin Talk by [[wikipedia:Erik Voorhees|Erik Voorhees]].<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=77870.0 |title=SatoshiDICE.com - The World's Most Popular Bitcoin Game |accessdate=June 27, 2017}}</ref><ref>{{cite web |url=https://en.bitcoin.it/wiki/Satoshi_Dice |title=Satoshi Dice |website=Bitcoin Wiki |accessdate=June 27, 2017}}</ref>
 |-
 | 2012 || {{dts|May 30}} || || The Bitcoin Magazine subreddit, r/BitcoinMagazine, is created. As of June 12, 2017 it has 788 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinMagazine/about/moderators |title=moderators - r/BitcoinMagazine |accessdate=June 12, 2017 |quote=a community for 5 years [Wed May 30 07:48:30 2012 UTC]}}</ref>
 |-
