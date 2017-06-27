@@ -134,6 +134,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2011 || {{dts|August 19}} || || The first Bitcoin Improvement Proposal (BIP) is submitted, explaining what a BIP is.<ref>{{cite web |url=https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals |title=Bitcoin Improvement Proposals - Bitcoin Wiki |accessdate=June 22, 2017}}</ref><ref>{{cite web |url=https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki |publisher=GitHub |title=bitcoin/bips |accessdate=June 22, 2017}}</ref>
 |-
+| 2011 || {{dts|August}} (late) || || The Bitcoin Conference & World Expo NYC 2011, organized by Bruce Wagner of ''The Bitcoin Show''.<ref name="popper_digitial_gold" />
+|-
 | 2011 || {{dts|September 23}} || || Bitcoin version 0.4.0 is released.<ref>{{cite web |url=https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000582.html |title=[Bitcoin-development] Bitcoin 0.4.0 released |accessdate=June 12, 2017 |author=Gavin Andresen}}</ref>
 |-
 | 2011 || {{dts|November 21}} || || Bitcoin-Qt version 0.5.0 is released. "The major change for this release is a completely new graphical that uses the [[wikipedia:Qt (software)|Qt user interface toolkit]]."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.5.0 |title=Bitcoin-Qt version 0.5.0 released |accessdate=June 12, 2017}}</ref>
