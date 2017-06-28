@@ -206,6 +206,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2015 || {{dts|February 16}} || || Bitcoin Core version 0.10.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.10.0 |title=Bitcoin Core version 0.10.0 released |accessdate=June 14, 2017}}</ref>
 |-
+| 2015 || {{dts|June 4}} || || Coinbase suspends operations in Wyoming due to a regulatory legislation.<ref>{{cite web |url=http://www.coindesk.com/coinbase-suspends-operations-in-wyoming/ |date=June 4, 2015 |title=Coinbase Suspends Operations in Wyoming |publisher=CoinDesk |accessdate=June 28, 2017}}</ref>
+|-
 | 2015 || {{dts|July 12}} || || Bitcoin Core version 0.11.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.11.0 |title=Bitcoin Core version 0.11.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2016 || {{dts|February 23}} || || Bitcoin Core version 0.12.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.12.0 |title=Bitcoin Core version 0.12.0 released |accessdate=June 14, 2017}}</ref>
