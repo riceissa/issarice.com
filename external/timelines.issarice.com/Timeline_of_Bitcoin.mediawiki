@@ -222,6 +222,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2017 || {{dts|March 8}} || || Bitcoin Core version 0.14.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.14.0 |title=Bitcoin Core version 0.14.0 released |accessdate=June 14, 2017}}</ref>
 |-
+| 2017 || {{dts|April}} || || The cryptocurrency exchange Poloniex announces it is suspending services in Washington State.<ref>{{cite web |url=https://www.cryptocoinsnews.com/bitcoin-poloniex-suspends-services-in-washington-state-impractical-policies/ |title=Poloniex Suspends Services in Washington State, Impractical Policies |publisher=CryptoCoinsNews |date=April 11, 2017 |accessdate=June 28, 2017 |author=Joseph Young}}</ref>
+|-
 | 2140 || || || The last bitcoin will be mined around this year due to block reward halving.<ref>{{cite web |url=https://bitcoin.stackexchange.com/questions/10486/when-will-the-last-bitcoin-be-mined |title=When will the last Bitcoin be mined? |accessdate=June 23, 2017}}</ref><ref>{{cite web |url=https://en.bitcoin.it/wiki/Controlled_supply#Projected_Bitcoins_Long_Term |title=Controlled supply - Bitcoin Wiki |accessdate=June 23, 2017 |quote=If the mining power had remained constant since the first Bitcoin was mined, the last Bitcoin would have been mined somewhere near October 8th, 2140. Due to the mining power having increased overall over time, as of block 367,500 - assuming mining power remained constant from that block forward - the last Bitcoin will be mined on May 7th, 2140.}}</ref>
 |}
 
