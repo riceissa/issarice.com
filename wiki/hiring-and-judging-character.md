@@ -145,6 +145,21 @@ Talking about senior hiring, they list some general principles:
 
     (So the general lesson here might be "do your homework" before trying to hire people.)
 
+-   From "[Projects, People and Processes](http://www.openphilanthropy.org/blog/projects-people-and-processes)":
+
+    > I generally consider it very hard to evaluate people, and don't know of
+    > any reliable and reasonably quick way to do so. Our experiences
+    > recruiting have generally left us feeling that the only good way to
+    > evaluate someone is to work with them for an extended period of time, and
+    > we've heard similar sentiments when seeking advice from other
+    > organizations.
+
+-   From "[The Most I'll Admit](http://econlog.econlib.org/archives/2017/01/the_most_ill_ad.html)":
+
+    > My ability to discern human nobility is markedly worse than I thought in
+    > 2015\. I've probably always been this bad, but 2016 helped me see my
+    > limitations clearly.
+
 - [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)
 
 [handbook_wisdom]: https://books.google.com/books?id=s5h2AwAAQBAJ&lpg=PA310&ots=aB_D0kMGsT&dq=IQ%20gap%20leader-follower%20relationship&pg=PA310#v=onepage&q=IQ%20gap%20leader-follower%20relationship&f=false "Eric H. Kessler and James R. Bailey. Handbook of Organizational and Managerial Wisdom. Sage Publications, Inc. 2007."
