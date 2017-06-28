@@ -156,7 +156,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2012 || {{dts|November 15}} || || [[wikipedia:WordPress.com|WordPress.com]] begins accepting bitcoins for the purchase of upgrades.<ref name="firsts" /><ref>{{cite web |url=https://en.blog.wordpress.com/2012/11/15/pay-another-way-bitcoin/ |title=Pay Another Way: Bitcoin |date=November 15, 2012 |publisher=The WordPress.com Blog |accessdate=June 12, 2017}}</ref>
 |-
-| 2013 || || || The Bitcoin startup 21 is founded as 21e6.<ref>{{cite web |url=https://blogs.wsj.com/digits/2015/03/10/secretive-bitcoin-startup-21-reveals-record-funds-hints-at-mass-consumer-play/ |author=Michael J. Casey |publisher=[[wikipedia:The Wall Street Journal|The Wall Street Journal]] |title=Secretive Bitcoin Startup 21 Reveals Record Funds, Hints at Mass Consumer Play |accessdate=June 28, 2017 |date=March 10, 2015}}</ref>
+| 2013 || || || The Bitcoin startup 21 is founded as 21e6. The company produces specialized bitcoin mining chips and also works toward the mass adoption of bitcoin by "building bitcoin products for the general public".<ref>{{cite web |url=https://blogs.wsj.com/digits/2015/03/10/secretive-bitcoin-startup-21-reveals-record-funds-hints-at-mass-consumer-play/ |author=Michael J. Casey |publisher=[[wikipedia:The Wall Street Journal|The Wall Street Journal]] |title=Secretive Bitcoin Startup 21 Reveals Record Funds, Hints at Mass Consumer Play |accessdate=June 28, 2017 |date=March 10, 2015}}</ref><ref name="popper_digitial_gold" />
 |-
 | 2013 || {{dts|January 31}} || || The first [[wikipedia:Application-specific integrated circuit|application-specific integrated circuits]] (ASICs) designed for Bitcoin mining are shipped.<ref name="liu" />
 |-
