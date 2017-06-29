@@ -40,7 +40,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2002 || {{dts|December 9}}–10 || || An entity x posts to the alt.internet.p2p and uk.finance newsgroups an "idea of a future with virtual peer to peer banking". This entity is speculated to be Satoshi Nakamoto.<ref>{{cite web |url=https://groups.google.com/forum/#!msg/uk.finance/-Ko72tv170I/HTKv-5VCbGQJ |title=Virtual peer to peer banking - Google Groups |accessdate=June 15, 2017}}</ref><ref>{{cite web |url=https://en.bitcoin.it/wiki/X |title=x |website=Bitcoin Wiki |accessdate=June 15, 2017}}</ref>
 |-
-| 2007 || {{dts|May 2007}} || || Satoshi Nakamoto claims he starts coding Bitcoin around this time.<ref name="princeton_bitcoin_book" />{{rp|18}}
+| 2007 || {{dts|May}} || || Satoshi Nakamoto claims he starts coding Bitcoin around this time.<ref name="princeton_bitcoin_book" />{{rp|18}}
 |-
 | 2008 || {{dts|August}} || || Satoshi Nakamoto emails Adam Back, the creator of hashcash, "asking him to look at a short paper describing something called Bitcoin".<ref name="popper_digitial_gold">{{cite book |title=Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money |author=Nathaniel Popper |year=2015 |publisher=Harper}}</ref>
 |-
