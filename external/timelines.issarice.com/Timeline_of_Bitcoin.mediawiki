@@ -5,6 +5,15 @@ This is a '''timeline of Bitcoin'''.
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 1976–2002 || Background research || The key advances in public-key cryptography, proof-of-work systems, etc., are made during this period.
+|-
+| 2003–2007 || Lull? || (This is the period during which anyone with sufficient knowledge and insight could have invented Bitcoin, but nobody did.)
+|-
+| 2008–2010 || Early days of Bitcoin || Satoshi Nakamoto's white paper is published, the Bitcoin client is released, and some "firsts" take place, like the first trade for fiat money and first trade for a good. Satoshi Nakamoto is still around during this period.
+|-
+| 2011–2012 || Continued development || Satoshi Nakamoto disappears, but Bitcoin growth continues. Silk Road, BitPay, and Coinbase all launch during this period.
+|-
+| 2013–?? || ?? ||
 |}
 
 ==Full timeline==
