@@ -136,7 +136,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2011 || {{dts|August 19}} || || The first Bitcoin Improvement Proposal (BIP) is submitted, explaining what a BIP is.<ref>{{cite web |url=https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals |title=Bitcoin Improvement Proposals - Bitcoin Wiki |accessdate=June 22, 2017}}</ref><ref>{{cite web |url=https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki |publisher=GitHub |title=bitcoin/bips |accessdate=June 22, 2017}}</ref>
 |-
-| 2011 || {{dts|August}} (late) || || The Bitcoin Conference & World Expo NYC 2011, organized by Bruce Wagner of ''The Bitcoin Show'', takes place.<ref name="popper_digitial_gold" />
+| 2011 || {{dts|August}} (late) || Conference || The Bitcoin Conference & World Expo NYC 2011, organized by Bruce Wagner of ''The Bitcoin Show'', takes place.<ref name="popper_digitial_gold" />
 |-
 | 2011 || {{dts|September 23}} || Software version || Bitcoin version 0.4.0 is released.<ref>{{cite web |url=https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000582.html |title=[Bitcoin-development] Bitcoin 0.4.0 released |accessdate=June 12, 2017 |author=Gavin Andresen}}</ref>
 |-
@@ -166,7 +166,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2013 || {{dts|February 19}} || Software version || Bitcoin-Qt version 0.8.0 is released. "This is a major release designed to improve performance and handle the increasing volume of transactions on the network."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.8.0 |title=Bitcoin-Qt version 0.8.0 released |accessdate=June 14, 2017}}</ref>
 |-
-| 2013 || {{dts|March 3}} || || A secretive technology conference for "tech-industry power players" takes place. At the conference, [[wikipedia:Wences Casares|Wences Casares]] introduces or explains Bitcoin to business leaders including [[wikipedia:Reid Hoffman|Reid Hoffman]], [[wikipedia:Michael Ovitz|Michael Ovitz]], and [[wikipedia:Henry Blodget|Henry Blodget]].<ref name="popper_digitial_gold" /><ref>{{cite web |url=http://www.businessinsider.com/what-is-bitcoin-2013-3 |date=March 6, 2013 |title=Suddenly, Everyone's Talking About Bitcoin... |publisher=Business Insider |accessdate=June 28, 2017 |author=Henry Blodget}}</ref>
+| 2013 || {{dts|March 3}} || Conference || A secretive technology conference for "tech-industry power players" takes place. At the conference, [[wikipedia:Wences Casares|Wences Casares]] introduces or explains Bitcoin to business leaders including [[wikipedia:Reid Hoffman|Reid Hoffman]], [[wikipedia:Michael Ovitz|Michael Ovitz]], and [[wikipedia:Henry Blodget|Henry Blodget]].<ref name="popper_digitial_gold" /><ref>{{cite web |url=http://www.businessinsider.com/what-is-bitcoin-2013-3 |date=March 6, 2013 |title=Suddenly, Everyone's Talking About Bitcoin... |publisher=Business Insider |accessdate=June 28, 2017 |author=Henry Blodget}}</ref>
 |-
 | 2013 || {{dts|March 6}} || || The subreddit r/BitcoinBeginners is created. As of June 12, 2017 it has 14,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/BitcoinBeginners/about/moderators |title=moderators - r/BitcoinBeginners |accessdate=June 12, 2017 |quote=a community for 4 years [Wed Mar 6 11:35:47 2013 UTC]}}</ref>
 |-
@@ -182,7 +182,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2013 || {{dts|May 14}} || || The [[wikipedia:Dwolla|Dwolla]] account belonging to Mt. Gox is frozen due to a seizure warrant issued by the Department of Homeland Security.<ref>{{cite web |url=https://www.theverge.com/2013/5/15/4332698/dwolla-payments-mtgox-halted-by-homeland-security-seizure-warrant |date=May 15, 2013 |publisher=The Verge |author=Amar Toor |title=US seizes and freezes funds at biggest Bitcoin exchange |accessdate=June 22, 2017}}</ref><ref>{{cite web |url=https://arstechnica.com/tech-policy/2013/05/feds-seize-money-from-top-bitcoin-exchange-mt-gox/ |publisher=[[wikipedia:Ars Technica|Ars Technica]] |title=Feds seize money from Dwolla account belonging to top Bitcoin exchange Mt. Gox |author=Joe Mullin |date=May 14, 2013 |accessdate=June 22, 2017}}</ref><ref name="liu" />
 |-
-| 2013 || {{dts|May 17}} || || The first official Bitcoin conference takes place in San Jose.<ref name="liu" />
+| 2013 || {{dts|May 17}} || Conference || The first official Bitcoin conference takes place in San Jose.<ref name="liu" />
 |-
 | 2013 || {{dts|July 23}} || || Trendon T. Shavers is "sued by the Securities and Exchange Commission on Tuesday and accused of running a fund that collected bitcoins from investors, promising them 7 percent weekly returns".<ref>{{cite web |url=https://dealbook.nytimes.com/2013/07/23/s-e-c-says-texas-man-operated-bitcoin-ponzi-scheme/ |author=Nathaniel Popper |date=July 23, 2013 |title=S.E.C. Says Texas Man Operated Bitcoin Ponzi Scheme |publisher=[[wikipedia:The New York Times|The New York Times]] |accessdate=June 17, 2017}}</ref>
 |-
