@@ -215,6 +215,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2014 || {{dts|May 15}} || || The [[wikipedia:Stoned (computer virus)#Bitcoin blockchain incident|DOS Stoned incident]] occurs.<ref>{{cite web |url=https://en.bitcoin.it/wiki/DOS/STONED_incident |title=DOS/STONED incident |website=Bitcoin Wiki |accessdate=June 13, 2017}}</ref>
 |-
+| 2014 || {{dts|September 18}} || || Coin Center, a non-profit group focused on cryptocurrency research and advocacy, is established.<ref>{{cite web |url=https://www.washingtonpost.com/news/the-switch/wp/2014/09/18/bitcoin-gets-an-industry-backed-advocacy-group/ |publisher=[[wikipedia:The Washington Post|The Washington Post]] |title=Bitcoin gets an industry-backed advocacy group |author=Nancy Scola |date=September 18, 2014 |accessdate=June 29, 2017}}</ref>
+|-
 | 2015 || {{dts|February 16}} || Software version || Bitcoin Core version 0.10.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.10.0 |title=Bitcoin Core version 0.10.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2015 || {{dts|June 4}} || Regulation || Coinbase suspends operations in Wyoming due to a regulatory legislation.<ref>{{cite web |url=http://www.coindesk.com/coinbase-suspends-operations-in-wyoming/ |date=June 4, 2015 |title=Coinbase Suspends Operations in Wyoming |publisher=CoinDesk |accessdate=June 28, 2017}}</ref>
