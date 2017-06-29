@@ -58,7 +58,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2009 || {{dts|January 3}} || || The Bitcoin genesis block is established.<ref>{{cite web |url=https://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f |title=Bitcoin Block 0 |website=Bitcoin Block Explorer |accessdate=June 12, 2017}}</ref><ref name="cat_hist">{{cite web |url=https://en.bitcoin.it/wiki/Category:History |title=Category:History |website=Bitcoin Wiki |accessdate=June 12, 2017}}</ref>
 |-
-| 2009 || {{dts|January 9}} || || Bitcoin version 0.1 is released.<ref>{{cite web |url=https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html |title=Bitcoin v0.1 released |accessdate=June 12, 2017 |date=January 9, 2009 |author=Satoshi Nakamoto}}</ref>
+| 2009 || {{dts|January 9}} || Software version || Bitcoin version 0.1 is released.<ref>{{cite web |url=https://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html |title=Bitcoin v0.1 released |accessdate=June 12, 2017 |date=January 9, 2009 |author=Satoshi Nakamoto}}</ref>
 |-
 | 2009 || {{dts|January 12}} || || The first Bitcoin transaction takes place, from Satoshi Nakamoto to [[wikipedia:Hal Finney (computer scientist)|Hal Finney]].<ref name="firsts">{{cite web |url=https://en.bitcoin.it/wiki/Bitcoin_Firsts |title=Bitcoin Firsts |website=Bitcoin Wiki |accessdate=June 12, 2017}}</ref>
 |-
@@ -74,7 +74,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2009 || {{dts|November 22}} || || Bitcoin Talk, a discussion forum about Bitcoin, is created.<ref>{{cite web |url=https://en.bitcoin.it/wiki/BitcoinTalk |title=BitcoinTalk - Bitcoin Wiki |accessdate=June 24, 2017}}</ref>
 |-
-| 2009 || {{dts|December 16}} || || Bitcoin version 0.2 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=16.0 |title=Bitcoin 0.2 released! |accessdate=June 12, 2017 |author=satoshi}}</ref> By this point, Martti Malmi has joined Satoshi Nakamoto a developer with full permission to change the codebase. "Starting in August, the log of changes to the software showed that Martti was now the main actor. When the next version of Bitcoin, 0.2, was released, Satoshi gave credit for most of the improvements to Martti."<ref name="popper_digitial_gold" />
+| 2009 || {{dts|December 16}} || Software version || Bitcoin version 0.2 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=16.0 |title=Bitcoin 0.2 released! |accessdate=June 12, 2017 |author=satoshi}}</ref> By this point, Martti Malmi has joined Satoshi Nakamoto a developer with full permission to change the codebase. "Starting in August, the log of changes to the software showed that Martti was now the main actor. When the next version of Bitcoin, 0.2, was released, Satoshi gave credit for most of the improvements to Martti."<ref name="popper_digitial_gold" />
 |-
 | 2009 || {{dts|December 30}} || || The first difficulty increase occurs, from 1 to 1.18.<ref>{{cite web |url=https://blockchain.info/block/000000004f2886a170adb7204cb0c7a824217dd24d11a74423d564c4e0904967 |title=Bitcoin Block #32256 |accessdate=June 14, 2017}}</ref><ref>{{cite web |url=http://www.ggtrust.com/currency/files/2015/06/3.-Basics-of-Cryptocurrency.pdf |title=PowerPoint Presentation - 3.-Basics-of-Cryptocurrency.pdf |accessdate=June 14, 2017}}</ref><ref name="cat_hist" />
 |-
@@ -86,7 +86,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2010 || {{dts|July}} || || Ross Ulbricht begins the development of Silk Road.<ref name="popper_digitial_gold" />
 |-
-| 2010 || {{dts|July 6}} || || Bitcoin version 0.3 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=238.0 |title=Bitcoin 0.3 released! |accessdate=June 12, 2017 |author=satoshi}}</ref>
+| 2010 || {{dts|July 6}} || Software version || Bitcoin version 0.3 is released.<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=238.0 |title=Bitcoin 0.3 released! |accessdate=June 12, 2017 |author=satoshi}}</ref>
 |-
 | 2010 || {{dts|July 11}} || || Release of Bitcoin version 0.3 is posted to Slashdot. This is the result of a "campaign to get Bitcoin real press coverage". With the increase in traffic from Slashdot, the Bitcoin website temporarily goes down. Despite "the derogatory comments that showed up under the Slashdot item", this brings in a bunch of new Bitcoin users: "The number of downloads would jump from around three thousand in June to over twenty thousand in July. The day after the Slashdot piece appeared, Gavin Andresen's Bitcoin faucet gave away 5,000 Bitcoins and was running empty."<ref name="popper_digitial_gold" /><ref>{{cite web |url=http://historyofbitcoin.org/ |title=Bitcoin History: The Complete History of Bitcoin [Timeline] |accessdate=June 16, 2017}}</ref>
 |-
@@ -138,11 +138,11 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2011 || {{dts|August}} (late) || || The Bitcoin Conference & World Expo NYC 2011, organized by Bruce Wagner of ''The Bitcoin Show'', takes place.<ref name="popper_digitial_gold" />
 |-
-| 2011 || {{dts|September 23}} || || Bitcoin version 0.4.0 is released.<ref>{{cite web |url=https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000582.html |title=[Bitcoin-development] Bitcoin 0.4.0 released |accessdate=June 12, 2017 |author=Gavin Andresen}}</ref>
+| 2011 || {{dts|September 23}} || Software version || Bitcoin version 0.4.0 is released.<ref>{{cite web |url=https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2011-September/000582.html |title=[Bitcoin-development] Bitcoin 0.4.0 released |accessdate=June 12, 2017 |author=Gavin Andresen}}</ref>
 |-
-| 2011 || {{dts|November 21}} || || Bitcoin-Qt version 0.5.0 is released. "The major change for this release is a completely new graphical that uses the [[wikipedia:Qt (software)|Qt user interface toolkit]]."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.5.0 |title=Bitcoin-Qt version 0.5.0 released |accessdate=June 12, 2017}}</ref>
+| 2011 || {{dts|November 21}} || Software version || Bitcoin-Qt version 0.5.0 is released. "The major change for this release is a completely new graphical that uses the [[wikipedia:Qt (software)|Qt user interface toolkit]]."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.5.0 |title=Bitcoin-Qt version 0.5.0 released |accessdate=June 12, 2017}}</ref>
 |-
-| 2012 || {{dts|March 30}} || || Bitcoin-Qt version 0.6.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.6.0 |title=Bitcoin-Qt version 0.6.0 released |accessdate=June 14, 2017}}</ref>
+| 2012 || {{dts|March 30}} || Software version || Bitcoin-Qt version 0.6.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.6.0 |title=Bitcoin-Qt version 0.6.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2012 || {{dts|April 24}} || || Satoshi Dice (now called [[wikipedia:MegaDice|MegaDice]]), a betting site, is announced on Bitcoin Talk by [[wikipedia:Erik Voorhees|Erik Voorhees]].<ref>{{cite web |url=https://bitcointalk.org/index.php?topic=77870.0 |title=SatoshiDICE.com - The World's Most Popular Bitcoin Game |accessdate=June 27, 2017}}</ref><ref>{{cite web |url=https://en.bitcoin.it/wiki/Satoshi_Dice |title=Satoshi Dice |website=Bitcoin Wiki |accessdate=June 27, 2017}}</ref>
 |-
@@ -152,7 +152,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2012 || {{dts|September 27}} || || The [[wikipedia:Bitcoin Foundation|Bitcoin Foundation]] is founded.<ref>{{cite web |url=http://www.forbes.com/sites/jonmatonis/2012/09/27/bitcoin-foundation-launches-to-drive-bitcoins-advancement/ |first=Jon |last=Matonis |archivedate=January 23, 2013 |archiveurl=http://archive.is/0NaKf |title=Bitcoin Foundation Launches To Drive Bitcoin's Advancement |publisher=Forbes |date=September 27, 2012 |accessdate=June 12, 2017 |quote=Several months in the making, the Bitcoin Foundation launches this week}}</ref><ref name="liu" />
 |-
-| 2012 || {{dts|September 17}} || || Bitcoin-Qt version 0.7.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.7.0 |title=Bitcoin-Qt version 0.7.0 released |accessdate=June 14, 2017}}</ref>
+| 2012 || {{dts|September 17}} || Software version || Bitcoin-Qt version 0.7.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.7.0 |title=Bitcoin-Qt version 0.7.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2012 || {{dts|November 15}} || || [[wikipedia:WordPress.com|WordPress.com]] begins accepting bitcoins for the purchase of upgrades.<ref name="firsts" /><ref>{{cite web |url=https://en.blog.wordpress.com/2012/11/15/pay-another-way-bitcoin/ |title=Pay Another Way: Bitcoin |date=November 15, 2012 |publisher=The WordPress.com Blog |accessdate=June 12, 2017}}</ref>
 |-
@@ -164,7 +164,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2013 || {{dts|February 15}} || || The subreddit r/Jobs4Bitcoins is created. As of June 12, 2017 it has 12,000 subscribers.<ref>{{cite web |url=https://www.reddit.com/r/Jobs4Bitcoins/about/moderators |title=moderators - r/Jobs4Bitcoins |accessdate=June 12, 2017 |quote=a community for 4 years [Fri Feb 15 16:11:25 2013 UTC]}}</ref>
 |-
-| 2013 || {{dts|February 19}} || || Bitcoin-Qt version 0.8.0 is released. "This is a major release designed to improve performance and handle the increasing volume of transactions on the network."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.8.0 |title=Bitcoin-Qt version 0.8.0 released |accessdate=June 14, 2017}}</ref>
+| 2013 || {{dts|February 19}} || Software version || Bitcoin-Qt version 0.8.0 is released. "This is a major release designed to improve performance and handle the increasing volume of transactions on the network."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.8.0 |title=Bitcoin-Qt version 0.8.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2013 || {{dts|March 3}} || || A secretive technology conference for "tech-industry power players" takes place. At the conference, [[wikipedia:Wences Casares|Wences Casares]] introduces or explains Bitcoin to business leaders including [[wikipedia:Reid Hoffman|Reid Hoffman]], [[wikipedia:Michael Ovitz|Michael Ovitz]], and [[wikipedia:Henry Blodget|Henry Blodget]].<ref name="popper_digitial_gold" /><ref>{{cite web |url=http://www.businessinsider.com/what-is-bitcoin-2013-3 |date=March 6, 2013 |title=Suddenly, Everyone's Talking About Bitcoin... |publisher=Business Insider |accessdate=June 28, 2017 |author=Henry Blodget}}</ref>
 |-
@@ -200,23 +200,23 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2014 || {{dts|February 10}} || || The February 10, 2014 flash crash occurs on the [[wikipedia:BTC-e|BTC-e]] exchange.<ref>{{cite web |url=https://en.bitcoin.it/wiki/February_10,_2014_flash_crash |title=February 10, 2014 flash crash |website=Bitcoin Wiki |accessdate=June 13, 2017}}</ref>
 |-
-| 2014 || {{dts|March 19}} || || Bitcoin Core version 0.9.0 is released. This is the first version using the name "Bitcoin Core" rather than "Bitcoin-Qt". The release announcement states: "To reduce confusion between Bitcoin-the-network and Bitcoin-the-software we have renamed the reference client to Bitcoin Core."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.9.0 |title=Bitcoin Core version 0.9.0 released |accessdate=June 14, 2017}}</ref>
+| 2014 || {{dts|March 19}} || Software version || Bitcoin Core version 0.9.0 is released. This is the first version using the name "Bitcoin Core" rather than "Bitcoin-Qt". The release announcement states: "To reduce confusion between Bitcoin-the-network and Bitcoin-the-software we have renamed the reference client to Bitcoin Core."<ref>{{cite web |url=https://bitcoin.org/en/release/v0.9.0 |title=Bitcoin Core version 0.9.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2014 || {{dts|May 15}} || || The [[wikipedia:Stoned (computer virus)#Bitcoin blockchain incident|DOS Stoned incident]] occurs.<ref>{{cite web |url=https://en.bitcoin.it/wiki/DOS/STONED_incident |title=DOS/STONED incident |website=Bitcoin Wiki |accessdate=June 13, 2017}}</ref>
 |-
-| 2015 || {{dts|February 16}} || || Bitcoin Core version 0.10.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.10.0 |title=Bitcoin Core version 0.10.0 released |accessdate=June 14, 2017}}</ref>
+| 2015 || {{dts|February 16}} || Software version || Bitcoin Core version 0.10.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.10.0 |title=Bitcoin Core version 0.10.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2015 || {{dts|June 4}} || || Coinbase suspends operations in Wyoming due to a regulatory legislation.<ref>{{cite web |url=http://www.coindesk.com/coinbase-suspends-operations-in-wyoming/ |date=June 4, 2015 |title=Coinbase Suspends Operations in Wyoming |publisher=CoinDesk |accessdate=June 28, 2017}}</ref>
 |-
-| 2015 || {{dts|July 12}} || || Bitcoin Core version 0.11.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.11.0 |title=Bitcoin Core version 0.11.0 released |accessdate=June 14, 2017}}</ref>
+| 2015 || {{dts|July 12}} || Software version || Bitcoin Core version 0.11.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.11.0 |title=Bitcoin Core version 0.11.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2015 || {{dts|August 8}} || || The [[wikipedia:BitLicense|BitLicense]], a business license for virtual currency activities, comes into effect in New York. The regulation causes numerous bitcoin companies to suspend operations in New York.<ref>{{cite web |url=http://www.bizjournals.com/newyork/news/2015/08/12/the-great-bitcoin-exodus-has-totally-changed-new.html |date=August 12, 2015 |title=Coinsetter filed its BitLicense application in New York even as many other bitcoin startups leave |author=Michael del Castillo |publisher=New York Business Journal |accessdate=June 29, 2017}}</ref>
 |-
-| 2016 || {{dts|February 23}} || || Bitcoin Core version 0.12.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.12.0 |title=Bitcoin Core version 0.12.0 released |accessdate=June 14, 2017}}</ref>
+| 2016 || {{dts|February 23}} || Software version || Bitcoin Core version 0.12.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.12.0 |title=Bitcoin Core version 0.12.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2016 || {{dts|August 2}} || || The [[wikipedia:Bitfinex hack|Bitfinex hack]] is first announced.<ref>{{cite web |url=http://www.reuters.com/article/us-bitfinex-hacked-hongkong-idUSKCN10E0KP |author=Clare Baldwin |date=August 3, 2016 |publisher=Reuters |title=Bitcoin worth $72 million stolen from Bitfinex exchange in Hong Kong |accessdate=June 12, 2017 |quote=Bitcoin plunged just over 23 percent on Tuesday after the news broke.}}</ref>
 |-
-| 2016 || {{dts|August 23}} || || Bitcoin Core version 0.13.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.13.0 |title=Bitcoin Core version 0.13.0 released |accessdate=June 14, 2017}}</ref>
+| 2016 || {{dts|August 23}} || Software version || Bitcoin Core version 0.13.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.13.0 |title=Bitcoin Core version 0.13.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2016 || {{dts|December}} || || The inaugural issue of ''[[wikipedia:Ledger (journal)|Ledger]]'', the first peer-reviewed academic journal dedicated to cryptocurrencies and blockchain technologies, is published.<ref>{{cite web |url=http://www.coindesk.com/ledger-first-volume-blockchain-research/ |date=December 22, 2016 |title=Ledger Publishes First Volume of Peer-Reviewed Blockchain Research |author=Michael del Castillo |publisher=CoinDesk |accessdate=June 12, 2017}}</ref>
 |-
@@ -224,7 +224,7 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2017 || {{dts|February 27}} || || Coinbase announces that it will stop serving customers in Hawaii due to a regulatory change that requires the company to "hold cash reserves equal to any digital currency-denominated funds held for its customers".<ref>{{cite web |url=http://www.coindesk.com/coinbase-just-stopped-serving-bitcoin-hawaii/ |date=February 27, 2017 |title=Coinbase Just Stopped Serving Bitcoin Customers in Hawaii |publisher=CoinDesk |accessdate=June 28, 2017}}</ref>
 |-
-| 2017 || {{dts|March 8}} || || Bitcoin Core version 0.14.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.14.0 |title=Bitcoin Core version 0.14.0 released |accessdate=June 14, 2017}}</ref>
+| 2017 || {{dts|March 8}} || Software version || Bitcoin Core version 0.14.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.14.0 |title=Bitcoin Core version 0.14.0 released |accessdate=June 14, 2017}}</ref>
 |-
 | 2017 || {{dts|April}} || || The cryptocurrency exchange Poloniex announces it is suspending services in Washington State.<ref>{{cite web |url=https://www.cryptocoinsnews.com/bitcoin-poloniex-suspends-services-in-washington-state-impractical-policies/ |title=Poloniex Suspends Services in Washington State, Impractical Policies |publisher=CryptoCoinsNews |date=April 11, 2017 |accessdate=June 28, 2017 |author=Joseph Young}}</ref>
 |-
