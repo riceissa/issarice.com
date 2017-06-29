@@ -220,6 +220,8 @@ This is a '''timeline of Bitcoin'''.
 |-
 | 2016 || {{dts|December}} || || The inaugural issue of ''[[wikipedia:Ledger (journal)|Ledger]]'', the first peer-reviewed academic journal dedicated to cryptocurrencies and blockchain technologies, is published.<ref>{{cite web |url=http://www.coindesk.com/ledger-first-volume-blockchain-research/ |date=December 22, 2016 |title=Ledger Publishes First Volume of Peer-Reviewed Blockchain Research |author=Michael del Castillo |publisher=CoinDesk |accessdate=June 12, 2017}}</ref>
 |-
+| 2017 || {{dts|January 1}} || || As of the start of 2017, thirteen US states have "clearly defined positions and/or regulations in regards to the blockchain and digital currency industry".<ref>{{cite web |url=http://news.dinbits.com/2017/01/state-of-regulation-2017-bitcoin-and.html |title=State of Regulation 2017, Bitcoin and Blockchain Regulation in the United States |date=January 17, 2017 |publisher=dinbits |accessdate=June 29, 2017}}</ref>
+|-
 | 2017 || {{dts|February 27}} || || Coinbase announces that it will stop serving customers in Hawaii due to a regulatory change that requires the company to "hold cash reserves equal to any digital currency-denominated funds held for its customers".<ref>{{cite web |url=http://www.coindesk.com/coinbase-just-stopped-serving-bitcoin-hawaii/ |date=February 27, 2017 |title=Coinbase Just Stopped Serving Bitcoin Customers in Hawaii |publisher=CoinDesk |accessdate=June 28, 2017}}</ref>
 |-
 | 2017 || {{dts|March 8}} || || Bitcoin Core version 0.14.0 is released.<ref>{{cite web |url=https://bitcoin.org/en/release/v0.14.0 |title=Bitcoin Core version 0.14.0 released |accessdate=June 14, 2017}}</ref>
