@@ -22,6 +22,7 @@ This is a '''timeline of Bitcoin'''.
 * TODO Add CVEs and other incidents related to security and bad transactions
 * TODO silkroad?
 * TODO "Historically it was not required to include a fee for every transaction. A large portion of miners would mine transactions with no fee given that they had enough "priority". Today, low priority is mostly used as an indicator for spam transactions and almost all miners expect every transaction to include a fee. Today miners choose which transactions to mine only based on fee-rate." https://en.bitcoin.it/wiki/Transaction_Fee When was this "historical" period?
+* TODO Fix Bitcoin/bitcoin capitalization. "Some people differentiate between Bitcoin capitalized, as the token, and bitcoin lowercase, as the network." https://www.nytimes.com/2017/05/15/business/all-about-bitcoin-the-mysterious-digital-currency.html And: 'By the way, I’m using capitalized “Infocoin” to refer to the protocol and general concept, and lowercase “infocoin” to refer to specific denominations of the currency. A similar useage is common, though not universal, in the Bitcoin world.' http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 -->
 
 {| class="sortable wikitable"
