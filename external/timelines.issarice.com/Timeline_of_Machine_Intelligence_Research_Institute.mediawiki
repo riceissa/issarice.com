@@ -18,6 +18,8 @@ This is a '''timeline of Machine Intelligence Research Institute'''.
 |-
 | 2000 || {{dts|July}} || || [[wikipedia:Machine Intelligence Research Institute|Machine Intelligence Research Institute]] is founded as the Singularity Institute for Artificial Intelligence.<ref>{{cite web |url=https://intelligence.org/files/2000-SIAI990.pdf |title=Form 990-EZ 2000 |accessdate=June 1, 2017 |quote=Organization was incorporated in July 2000 and does not have a financial history for years 1996-1999.}}</ref>{{rp|3}}
 |-
+| 2006 || || || The first Singularity Summit takes place at Stanford University.<ref>{{cite web |url=https://intelligence.org/singularitysummit/ |title=Singularity Summit |publisher=Machine Intelligence Research Institute |accessdate=June 30, 2017}}</ref>
+|-
 | 2012 || {{dts|May 11}} || || Holden Karnofsky publishes "Thoughts on the Singularity Institute (SI)" on [[wikipedia:LessWrong|LessWrong]]. The post explains why GiveWell does not plan to recommend the Singularity Institute.<ref>{{cite web |url=http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/ |title=Thoughts on the Singularity Institute (SI) - Less Wrong |accessdate=June 30, 2017 |author=Holden Karnofsky |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2012 || {{dts|August 15}} || || Luke Muehlhauser does an "ask me anything" (AMA) on reddit's r/Futurology.<ref>{{cite web |url=https://www.reddit.com/r/Futurology/comments/y9lm0/i_am_luke_muehlhauser_ceo_of_the_singularity/ |publisher=reddit |title=I am Luke Muehlhauser, CEO of the Singularity Institute for Artificial Intelligence. Ask me anything about the Singularity, AI progress, technological forecasting, and researching Friendly AI! • r/Futurology |accessdate=June 30, 2017}}</ref>
