@@ -36,6 +36,8 @@ This is a '''timeline of Machine Intelligence Research Institute'''.
 |-
 | 2013 || {{dts|January 30}} || || MIRI announces that it has renamed itself from "Singularity Institute for Artificial Intelligence" to "Machine Intelligence Research Institute".<ref>{{cite web |url=https://intelligence.org/2013/01/30/we-are-now-the-machine-intelligence-research-institute-miri/ |title=We are now the "Machine Intelligence Research Institute" (MIRI) |publisher=Machine Intelligence Research Institute |date=January 30, 2013 |accessdate=June 30, 2017}}</ref>
 |-
+| 2014 || {{dts|July 4}} || || Earliest evidence of AI Impacts existing is from this day.<ref>{{cite web |url=https://web.archive.org/web/20141129001325/http://www.aiimpacts.org:80/system/app/pages/recentChanges |title=Recent site activity - AI Impacts |accessdate=June 30, 2017 |quote=Jul 4, 2014, 10:39 AM Katja Grace edited Predictions of human-level AI timelines}}</ref>
+|-
 | 2015 || {{dts|January}} || || AI Impacts rolls out a new website.<ref>{{cite web |url=https://intelligence.org/2015/01/11/improved-ai-impacts-website/ |title=An improved "AI Impacts" website |author=Luke Muehlhauser |publisher=Machine Intelligence Research Institute |date=January 11, 2015 |accessdate=June 30, 2017}}</ref>
 |-
 | 2015 || {{dts|May 6}} || || Executive director Luke Muehlhauser announces his departure from MIRI. The announcement also states that Nate Soares will be the new executive director.<ref>{{cite web |url=https://intelligence.org/2015/05/06/a-fond-farewell-and-a-new-executive-director/ |title=A fond farewell and a new Executive Director |author=Luke Muehlhauser |publisher=Machine Intelligence Research Institute |date=May 6, 2015 |accessdate=June 30, 2017}}</ref>
