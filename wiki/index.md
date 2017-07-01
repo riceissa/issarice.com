@@ -30,14 +30,29 @@ belong elsewhere ends up here.
 - [Pages related to education](education)
 - A mirror of [my Quora answers]()
 
-# Summary of what I worked on: May 2017 {#summary}
+# Summary of what I worked on: June 2017 {#summary}
 
-For the first part of the month I worked on a [timeline of the Bill & Melinda
-Gates Foundation](https://timelines.issarice.com/wiki/Timeline_of_Bill_%26_Melinda_Gates_Foundation).
+Payment details of a [hits-based giving project](https://gist.github.com/riceissa/186b1d2e8bbb85e6204b5e06aba64018)
+I worked on a few months ago was finalized at the beginning of the month.
+For context, see the [original post](http://effective-altruism.com/ea/14s/how_many_hits_does_hitsbased_giving_get_a/)
+by Peter Hurford.
 
-I then worked on a [timeline of electricity
+I completed [timeline of electricity
 adoption](https://timelines.issarice.com/wiki/Timeline_of_electricity_adoption),
-which was not completed during the month.
+which I had begun the previous month.
+
+I created a [timeline of Carl Shulman publications](https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications),
+which provides an updated and more complete version (taking into account the
+diversity of publication formats) of the [timeline Luke
+Muehlhauser created](http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/)
+some years ago.
+
+I got a good amount of work done on a new [timeline of Bitcoin](https://timelines.issarice.com/wiki/Timeline_of_Bitcoin),
+which is not yet done.
+
+At the end of the month I started on [timeline of Machine Intelligence Research
+Institute](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute)
+to get a bit of break on the Bitcoin timeline.
 
 # Activity feeds
 
