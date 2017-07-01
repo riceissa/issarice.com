@@ -42,11 +42,15 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2006 || {{dts|May 13}} || || The first Singularity Summit takes place at Stanford University.<ref name="miri_singularity_summit">{{cite web |url=https://intelligence.org/singularitysummit/ |title=Singularity Summit |publisher=Machine Intelligence Research Institute |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.zdnet.com/article/the-great-singularity-debate/ |publisher=ZDNet |title=The great Singularity debate |author=Dan Farber |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.jerrypournelle.com/reports/jerryp/singularity.html |author=Jerry Pournelle |title=Chaos Manor Special Reports: The Stanford Singularity Summit |date=May 20, 2006 |accessdate=June 30, 2017}}</ref>
 |-
+| 2006 || {{dts|November}} || [[Robin Hanson]] starts ''[[Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
+|-
 | 2007 || {{dts|September 8}}–9  || || The Singularity Summit 2007 takes place in the San Francisco Bay Area.<ref name="miri_singularity_summit" /><ref>{{cite web |url=https://web.archive.org/web/20080331205725/http://www.singinst.org:80/summit2007/ |title=The Singularity Summit 2007 |accessdate=June 30, 2017}}</ref>
 |-
 | 2008 || {{dts|October 25}} || || The Singularity Summit 2008 takes place in San Jose.<ref>{{cite web |url=https://web.archive.org/web/20090608082235/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2008: Opportunity, Risk, Leadership &gt; Program |accessdate=June 30, 2017}}</ref>
 |-
 | 2008 || {{dts|November}}–December || || The AI-Foom debate between Robin Hanson and Eliezer Yudkowsky takes place. The blog posts from the debate would later be turned into an ebook by MIRI.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate |title=The Hanson-Yudkowsky AI-Foom Debate |website=Lesswrongwiki |accessdate=July 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
+| 2009 || {{dts|February}} || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2009 || {{dts|February 16}} || || Michael Vassar announces himself as president of MIRI.<ref>{{cite web |url=https://intelligence.org/2009/02/16/introducing-myself/ |title=Introducing Myself |author=Michael Vassar |publisher=Machine Intelligence Research Institute |date=February 16, 2009 |accessdate=July 1, 2017}}</ref>
 |-
