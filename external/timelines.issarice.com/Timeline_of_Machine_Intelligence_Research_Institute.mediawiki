@@ -30,6 +30,8 @@ This is a '''timeline of Machine Intelligence Research Institute'''.
 |-
 | 2002 || {{dts|September 6}} || || Christian Rovner is appointed as MIRI's volunteer coordinator.<ref name="singinst_jun_2003_news" />
 |-
+| 2002 || {{dts|October 1}} || || MIRI "releases a major new site upgrade" with various new pages.<ref name="singinst_jun_2003_news" />
+|-
 | 2002 || {{dts|October 7}} || || MIRI announces the creation of its volunteers mailing list.<ref name="singinst_jun_2003_news">{{cite web |url=https://web.archive.org/web/20030622011438/http://singinst.org:80/news/ |author=Eliezer S. Yudkowsky |title=Singularity Institute: News |accessdate=July 1, 2017}}</ref>
 |-
 | 2004 || {{dts|April 7}} || || Michael Anissimov is announced as MIRI's advocacy director.<ref>{{cite web |url=http://sl4.org/archive/0404/8447.html |author=Tyler Emerson |date=April 7, 2004 |title=SL4: Michael Anissimov - SIAI Advocacy Director |accessdate=July 1, 2017 |quote=The Singularity Institute announces Michael Anissimov as our Advocacy Director. Michael has been an active volunteer for two years, and one of the more prominent voices in the singularity community. He is committed and thoughtful, and we feel very fortunate to have him help lead our advocacy.}}</ref>
