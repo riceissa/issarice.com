@@ -36,3 +36,11 @@ For instance, one might oppose the publish-or-perish mentality in academia, but
 in order to push one's values on the system, one might want to gain some amount
 of influence in academia first by publishing papers.
 (There are probably easier ways to act against this.)
+
+Or consider the case of the
+[anarcho-primitivist](https://en.wikipedia.org/wiki/Anarcho-primitivism) who
+does not want to be "hypocritical" in using technology while arguing against it
+-- but technology is useful in spreading one's values by allowing access to
+the Internet, etc. Of course, it is entirely possible to use technology to
+argue against technology, as long as there is some way to stop using that
+technology at some point.
