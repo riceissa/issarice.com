@@ -22,7 +22,9 @@ This is a '''timeline of Machine Intelligence Research Institute'''.
 |-
 | 2001 || {{dts|July 23}} || || MIRI announces that it has formally launched the development of the Flare programming language under Dmitriy Myshkin.<ref name="singinst_jun_2003_news" />
 |-
-| 2002 || {{dts|March 8}} || || The first AI box experiment by Eliezer Yudkowsky, against Nathan Russell, takes place.<ref>{{cite web |url=http://www.sl4.org/archive/0203/index.html#3128 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
+| 2002 || {{dts|March 8}} || || The first AI box experiment by Eliezer Yudkowsky, against Nathan Russell as gatekeeper, takes place.<ref>{{cite web |url=http://www.sl4.org/archive/0203/index.html#3128 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
+|-
+| 2002 || {{dts|July 4}}–5 || || The second AI box experiment by Eliezer Yudkowsky, against David McFadzean as gatekeeper, takes place.<ref>{{cite web |url=http://www.sl4.org/archive/0207/index.html#4689 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
 | 2002 || {{dts|October 7}} || || MIRI announces the creation of its volunteers mailing list.<ref name="singinst_jun_2003_news">{{cite web |url=https://web.archive.org/web/20030622011438/http://singinst.org:80/news/ |author=Eliezer S. Yudkowsky |title=Singularity Institute: News |accessdate=July 1, 2017}}</ref>
 |-
