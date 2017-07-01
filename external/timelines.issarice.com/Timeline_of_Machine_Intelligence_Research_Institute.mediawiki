@@ -20,7 +20,9 @@ This is a '''timeline of Machine Intelligence Research Institute'''.
 |-
 | 2001 || {{dts|April 8}} || || MIRI begins accepting donations after receiving tax-exempt status.<ref>{{cite web |url=https://web.archive.org/web/20010422041823/http://singinst.org:80/news.html |author=Eliezer S. Yudkowsky |title=Singularity Institute: News |accessdate=July 1, 2017 |quote=April 08, 2001: The Singularity Institute for Artificial Intelligence, Inc. announces that it has received tax-exempt status and is now accepting donations.}}</ref>
 |-
-| 2002 || {{dts|October 7}} || || MIRI announces the creation of its volunteers mailing list.<ref>{{cite web |url=https://web.archive.org/web/20030622011438/http://singinst.org:80/news/ |author=Eliezer S. Yudkowsky |title=Singularity Institute: News |accessdate=July 1, 2017}}</ref>
+| 2001 || {{dts|July 23}} || || MIRI announces that it has formally launched the development of the Flare programming language under Dmitriy Myshkin.<ref name="singinst_jun_2003_news" />
+|-
+| 2002 || {{dts|October 7}} || || MIRI announces the creation of its volunteers mailing list.<ref name="singinst_jun_2003_news">{{cite web |url=https://web.archive.org/web/20030622011438/http://singinst.org:80/news/ |author=Eliezer S. Yudkowsky |title=Singularity Institute: News |accessdate=July 1, 2017}}</ref>
 |-
 | 2004 || {{dts|April 7}} || || Michael Anissimov is announced as MIRI's advocacy director.<ref>{{cite web |url=http://sl4.org/archive/0404/8447.html |author=Tyler Emerson |date=April 7, 2004 |title=SL4: Michael Anissimov - SIAI Advocacy Director |accessdate=July 1, 2017 |quote=The Singularity Institute announces Michael Anissimov as our Advocacy Director. Michael has been an active volunteer for two years, and one of the more prominent voices in the singularity community. He is committed and thoughtful, and we feel very fortunate to have him help lead our advocacy.}}</ref>
 |-
