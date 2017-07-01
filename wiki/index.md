@@ -52,7 +52,7 @@ which is not yet done.
 
 At the end of the month I started on [timeline of Machine Intelligence Research
 Institute](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute)
-to get a bit of break on the Bitcoin timeline.
+to get a bit of break from the Bitcoin timeline.
 
 # Activity feeds
 
