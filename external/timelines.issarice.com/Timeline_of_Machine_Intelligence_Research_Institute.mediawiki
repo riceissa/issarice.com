@@ -78,6 +78,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|April 3}}–24 || Workshop || The 2nd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
+| 2013 || {{dts|July 4}} || || MIRI's Twitter account is created.<ref>{{cite web |url=https://twitter.com/MIRIBerkeley |title=MIRI (@MIRIBerkeley) |publisher=Twitter |accessdate=July 1, 2017}}</ref>
+|-
 | 2013 || {{dts|July 8}}–14 || Workshop || The 3rd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
 | 2013 || {{dts|September 1}} || || ''The Hanson-Yudkowsky AI-Foom Debate'' is published as an ebook by MIRI.<ref>{{cite web |url=https://www.amazon.com/dp/B00EZCFOG4/ |title=Amazon.com: The Hanson-Yudkowsky AI-Foom Debate eBook: Robin Hanson, Eliezer Yudkowsky: Kindle Store |accessdate=July 1, 2017 |quote=Publisher: Machine Intelligence Research Institute (September 1, 2013)}}</ref>
