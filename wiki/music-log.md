@@ -247,6 +247,10 @@ The Pillows:
 * Radiohead: *In Rainbows*
 * Radiohead: *A Moon Shaped Pool*
 * Radiohead: *In Rainbows – From the Basement*
+* Radiohead: "Lift"
+* Radiohead: *Hail to the Thief*
+* Radiohead: *The King of Limbs*
+* Radiohead: *Pablo Honey*
 
 # History
 
