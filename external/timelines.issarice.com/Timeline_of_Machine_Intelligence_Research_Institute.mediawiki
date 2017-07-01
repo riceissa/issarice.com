@@ -26,6 +26,8 @@ This is a '''timeline of Machine Intelligence Research Institute'''.
 |-
 | 2008 || {{dts|October 25}} || || The Singularity Summit 2008 takes place in San Jose.<ref>{{cite web |url=https://web.archive.org/web/20090608082235/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2008: Opportunity, Risk, Leadership &gt; Program |accessdate=June 30, 2017}}</ref>
 |-
+| 2008 || {{dts|November}}–December || || The AI-Foom debate between Robin Hanson and Eliezer Yudkowsky takes place. The blog posts from the debate would later be turned into an ebook by MIRI.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate |title=The Hanson-Yudkowsky AI-Foom Debate |website=Lesswrongwiki |accessdate=July 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2009 || {{dts|February 16}} || || Michael Vassar announces himself as president of MIRI.<ref>{{cite web |url=https://intelligence.org/2009/02/16/introducing-myself/ |title=Introducing Myself |author=Michael Vassar |publisher=Machine Intelligence Research Institute |date=February 16, 2009 |accessdate=July 1, 2017}}</ref>
 |-
 | 2009 || {{dts|October 3}}–4 || || The Singularity Summit 2009 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20091217213848/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2009 &gt; Program |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.popsci.com/scitech/article/2009-10/singularity-summit-2009-singularity-near |publisher=Popular Science |title=Singularity Summit 2009: The Singularity Is Near |accessdate=June 30, 2017 |date=October 2, 2009 |author=Stuart Fox}}</ref>
