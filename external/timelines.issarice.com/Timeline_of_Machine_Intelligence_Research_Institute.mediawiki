@@ -48,6 +48,8 @@ This is a '''timeline of Machine Intelligence Research Institute'''.
 |-
 | 2013 || {{dts|January 30}} || || MIRI announces that it has renamed itself from "Singularity Institute for Artificial Intelligence" to "Machine Intelligence Research Institute".<ref>{{cite web |url=https://intelligence.org/2013/01/30/we-are-now-the-machine-intelligence-research-institute-miri/ |title=We are now the "Machine Intelligence Research Institute" (MIRI) |publisher=Machine Intelligence Research Institute |date=January 30, 2013 |accessdate=June 30, 2017}}</ref>
 |-
+| 2013 || {{dts|February 1}} || || ''Facing the Intelligence Explosion'' by Luke Muehlhauser is published by MIRI.<ref>{{cite web |url=https://www.amazon.com/facing-the-intelligence-explosion/dp/B00C7YOR5Q |title=Facing the Intelligence Explosion, Luke Muehlhauser |publisher=Amazon.com |accessdate=July 1, 2017 |quote=Publisher: Machine Intelligence Research Institute (February 1, 2013)}}</ref>
+|-
 | 2014 || {{dts|February 1}} || || ''Smarter Than Us: The Rise of Machine Intelligence'' by Stuart Armstrong is published by MIRI.<ref>{{cite web |url=https://www.amazon.com/Smarter-Than-Us-Machine-Intelligence-ebook/dp/B00IB4N4KU |title=Smarter Than Us: The Rise of Machine Intelligence, Stuart Armstrong |publisher=Amazon.com |accessdate=July 1, 2017 |quote=Publisher: Machine Intelligence Research Institute (February 1, 2014)}}</ref>
 |-
 | 2014 || {{dts|July 4}} || || Earliest evidence of AI Impacts existing is from this day.<ref>{{cite web |url=https://web.archive.org/web/20141129001325/http://www.aiimpacts.org:80/system/app/pages/recentChanges |title=Recent site activity - AI Impacts |accessdate=June 30, 2017 |quote=Jul 4, 2014, 10:39 AM Katja Grace edited Predictions of human-level AI timelines}}</ref>
