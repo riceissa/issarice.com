@@ -5,6 +5,8 @@ created: 2015-01-01
 date: 2015-01-01
 ---
 
+This page has basically moved to <http://contentcreation.issarice.com/linking-to-a-search-engine-results-page/>
+
 A durable link is one that is not susceptible to [link rot](http://www.gwern.net/Archiving%20URLs#link-rot).
 gwern already does a good job of summarizing the issue, with his corrections.
 But for this website, I've written a custom URL filter that takes links of the form `[test](!STRING)` and converts them into a [DuckDuckGo bang expression](https://duckduckgo.com/bang.html).
