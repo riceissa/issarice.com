@@ -68,6 +68,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2011 || {{dts|October 15}}–16 || || The Singularity Summit 2011 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20111031090701/http://www.singularitysummit.com:80/program |title=Singularity Summit {{!}} Program |accessdate=June 30, 2017}}</ref>
 |-
+| 2011 || {{dts|December 12}} || || Luke Muehlhauser announces the creation of Friendly-AI.com, a website introducing the idea of Friendly AI.<ref>{{cite web |url=http://lesswrong.com/lw/8t6/new_landing_page_website_friendlyaicom/ |title=New 'landing page' website: Friendly-AI.com |author=lukeprog |date=December 12, 2011 |accessdate=July 2, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2012 || {{dts|May 8}} || || MIRI's April 2012 progress report is published, in which CFAR's name is announced. Until this point, CFAR was known as the "Rationality Group" or "Rationality Org".<ref>{{cite web |url=https://intelligence.org/2012/05/08/singularity-institute-progress-report-april-2012/ |title=Machine Intelligence Research Institute Progress Report, April 2012 |publisher=Machine Intelligence Research Institute |date=May 8, 2012 |author=Louie Helm |accessdate=June 30, 2017}}</ref>
 |-
 | 2012 || {{dts|May 11}} || || Holden Karnofsky publishes "Thoughts on the Singularity Institute (SI)" on [[wikipedia:LessWrong|LessWrong]]. The post explains why GiveWell does not plan to recommend the Singularity Institute.<ref>{{cite web |url=http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/ |title=Thoughts on the Singularity Institute (SI) - Less Wrong |accessdate=June 30, 2017 |author=Holden Karnofsky |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
