@@ -5,6 +5,8 @@ date: 2016-12-05
 created: 2016-12-05
 ---
 
+**This page has moved to <http://contentcreation.issarice.com/versioning/>.**
+
 There has been a lot of thought put into versioning of software:
 
   * [Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
