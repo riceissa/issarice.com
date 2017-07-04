@@ -22,7 +22,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2001 || {{dts|July 23}} || || MIRI announces that it has formally launched the development of the Flare programming language under Dmitriy Myshkin.<ref name="singinst_jun_2003_news" />
 |-
-| 2001 || {{dts|December 21}} || || MIRI obtains the <code>flare.org</code> domain name for its Flare language project.<ref name="singinst_jun_2003_news" />
+| 2001 || {{dts|December 21}} || Domain || MIRI obtains the <code>flare.org</code> domain name for its Flare language project.<ref name="singinst_jun_2003_news" />
 |-
 | 2002 || {{dts|March 8}} || || The first [[wikipedia:AI box|AI box]] experiment by Eliezer Yudkowsky, against Nathan Russell as gatekeeper, takes place.<ref>{{cite web |url=http://www.sl4.org/archive/0203/index.html#3128 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
@@ -72,21 +72,21 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2011 || {{dts|May 10}}{{snd}}{{dts|June 24}} || || Holden Karnofsky of GiveWell and [[wikipedia:Jaan Tallinn|Jaan Tallinn]] (with Dario Amodei being present in the initial phone conversation) correspond regarding MIRI's work. The correspondence is posted to the GiveWell mailing list on July 18.<ref>{{cite web |url=https://groups.yahoo.com/neo/groups/givewell/conversations/messages/287 |title=Re: [givewell] Singularity Institute for Artificial Intelligence |author=Holden Karnofsky |publisher=Yahoo! Groups |accessdate=July 4, 2017}}</ref>
 |-
-| 2011 || {{dts|June 24}} || || A Wayback Machine snapshot on this day shows that <code>singularity.org</code> has turned into a GoDaddy.com placeholder.<ref>{{cite web |url=https://web.archive.org/web/20110624011222/http://singularity.org:80/ |title=singularity.org |accessdate=July 4, 2017}}</ref> Before this, the domain is some blog, most likely unrelated to MIRI.<ref name="singularity_org_2011">{{cite web |url=https://web.archive.org/web/20111001000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
+| 2011 || {{dts|June 24}} || Domain || A Wayback Machine snapshot on this day shows that <code>singularity.org</code> has turned into a GoDaddy.com placeholder.<ref>{{cite web |url=https://web.archive.org/web/20110624011222/http://singularity.org:80/ |title=singularity.org |accessdate=July 4, 2017}}</ref> Before this, the domain is some blog, most likely unrelated to MIRI.<ref name="singularity_org_2011">{{cite web |url=https://web.archive.org/web/20111001000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
 |-
-| 2011 || {{dts|July 18}}{{snd}}{{dts|October 20}} || || At least during this period, the <code>singularity.org</code> domain name redirects to <code>singinst.org/singularityfaq</code>.<ref name="singularity_org_2011" />
+| 2011 || {{dts|July 18}}{{snd}}{{dts|October 20}} || Domain || At least during this period, the <code>singularity.org</code> domain name redirects to <code>singinst.org/singularityfaq</code>.<ref name="singularity_org_2011" />
 |-
 | 2011 || {{dts|October 15}}–16 || || The Singularity Summit 2011 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20111031090701/http://www.singularitysummit.com:80/program |title=Singularity Summit {{!}} Program |accessdate=June 30, 2017}}</ref>
 |-
 | 2011 || {{dts|December 12}} || || Luke Muehlhauser announces the creation of Friendly-AI.com, a website introducing the idea of Friendly AI.<ref>{{cite web |url=http://lesswrong.com/lw/8t6/new_landing_page_website_friendlyaicom/ |title=New 'landing page' website: Friendly-AI.com |author=lukeprog |date=December 12, 2011 |accessdate=July 2, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
-| 2012 || {{dts|February 4}}{{snd}}{{dts|May 4}} || || At least during this period, <code>singularity.org</code> redirects to <code>singinst.org</code>.<ref>{{cite web |url=https://web.archive.org/web/20120501000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
+| 2012 || {{dts|February 4}}{{snd}}{{dts|May 4}} || Domain || At least during this period, <code>singularity.org</code> redirects to <code>singinst.org</code>.<ref>{{cite web |url=https://web.archive.org/web/20120501000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
 |-
 | 2012 || {{dts|May 8}} || || MIRI's April 2012 progress report is published, in which CFAR's name is announced. Until this point, CFAR was known as the "Rationality Group" or "Rationality Org".<ref>{{cite web |url=https://intelligence.org/2012/05/08/singularity-institute-progress-report-april-2012/ |title=Machine Intelligence Research Institute Progress Report, April 2012 |publisher=Machine Intelligence Research Institute |date=May 8, 2012 |author=Louie Helm |accessdate=June 30, 2017}}</ref>
 |-
 | 2012 || {{dts|May 11}} || || Holden Karnofsky publishes "Thoughts on the Singularity Institute (SI)" on [[wikipedia:LessWrong|LessWrong]]. The post explains why GiveWell does not plan to recommend the Singularity Institute.<ref>{{cite web |url=http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/ |title=Thoughts on the Singularity Institute (SI) - Less Wrong |accessdate=June 30, 2017 |author=Holden Karnofsky |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
-| 2012 || {{dts|June 16}}–28 || || Sometime during this period, <code>singinst.org</code> begins redirecting to <code>singularity.org</code>, both being controlled by MIRI.<ref>{{cite web |url=https://web.archive.org/web/20120601000000*/singinst.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
+| 2012 || {{dts|June 16}}–28 || Domain || Sometime during this period, <code>singinst.org</code> begins redirecting to <code>singularity.org</code>, both being controlled by MIRI.<ref>{{cite web |url=https://web.archive.org/web/20120601000000*/singinst.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
 |-
 | 2012 || {{dts|August 15}} || || Luke Muehlhauser does an "ask me anything" (AMA) on reddit's r/Futurology.<ref>{{cite web |url=https://www.reddit.com/r/Futurology/comments/y9lm0/i_am_luke_muehlhauser_ceo_of_the_singularity/ |publisher=reddit |title=I am Luke Muehlhauser, CEO of the Singularity Institute for Artificial Intelligence. Ask me anything about the Singularity, AI progress, technological forecasting, and researching Friendly AI! • r/Futurology |accessdate=June 30, 2017}}</ref>
 |-
@@ -100,9 +100,9 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|February 1}} || || ''Facing the Intelligence Explosion'' by Luke Muehlhauser is published by MIRI.<ref>{{cite web |url=https://www.amazon.com/facing-the-intelligence-explosion/dp/B00C7YOR5Q |title=Facing the Intelligence Explosion, Luke Muehlhauser |publisher=Amazon.com |accessdate=July 1, 2017 |quote=Publisher: Machine Intelligence Research Institute (February 1, 2013)}}</ref>
 |-
-| 2013 || {{dts|February 11}}{{snd}}{{dts|March 2}} || || Sometime during this period, MIRI's new website at <code>intelligence.org</code> begins to function.<ref>{{cite web |url=https://web.archive.org/web/20130211105954/http://intelligence.org:80/ |title=Machine Intelligence Research Institute - Coming soon... |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20130302063022/http://intelligence.org/ |title=Machine Intelligence Research Institute |accessdate=July 4, 2017}}</ref>
+| 2013 || {{dts|February 11}}{{snd}}{{dts|March 2}} || Domain || Sometime during this period, MIRI's new website at <code>intelligence.org</code> begins to function.<ref>{{cite web |url=https://web.archive.org/web/20130211105954/http://intelligence.org:80/ |title=Machine Intelligence Research Institute - Coming soon... |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20130302063022/http://intelligence.org/ |title=Machine Intelligence Research Institute |accessdate=July 4, 2017}}</ref>
 |-
-| 2013 || {{dts|March 2}}{{snd}}{{dts|July 4}} || || At least during this period, <code>singularity.org</code> redirects to <code>intelligence.org</code>, MIRI's new domain.<ref>{{cite web |url=https://web.archive.org/web/20130401000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
+| 2013 || {{dts|March 2}}{{snd}}{{dts|July 4}} || Domain || At least during this period, <code>singularity.org</code> redirects to <code>intelligence.org</code>, MIRI's new domain.<ref>{{cite web |url=https://web.archive.org/web/20130401000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
 |-
 | 2013 || {{dts|April 3}}–24 || Workshop || The 2nd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
@@ -110,7 +110,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|July 8}}–14 || Workshop || The 3rd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
-| 2013 || {{dts|August 4}} || || By this point, <code>singularity.org</code> is operated by Singularity University.<ref>{{cite web |url=https://web.archive.org/web/20130804174727/http://www.singularity.org/ |title=Singularity Summit |accessdate=July 4, 2017}}</ref>
+| 2013 || {{dts|August 4}} || Domain || By this point, <code>singularity.org</code> is operated by Singularity University.<ref>{{cite web |url=https://web.archive.org/web/20130804174727/http://www.singularity.org/ |title=Singularity Summit |accessdate=July 4, 2017}}</ref>
 |-
 | 2013 || {{dts|September 1}} || || ''The Hanson-Yudkowsky AI-Foom Debate'' is published as an ebook by MIRI.<ref>{{cite web |url=https://www.amazon.com/dp/B00EZCFOG4/ |title=Amazon.com: The Hanson-Yudkowsky AI-Foom Debate eBook: Robin Hanson, Eliezer Yudkowsky: Kindle Store |accessdate=July 1, 2017 |quote=Publisher: Machine Intelligence Research Institute (September 1, 2013)}}</ref>
 |-
