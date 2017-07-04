@@ -44,6 +44,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2004 || {{dts|August 5}}–8 || || TransVision 2004 takes place. TransVision is the World Transhumanist Association's annual event. MIRI is a sponsor for the event.<ref name="singinst_feb_2006_news" />
 |-
+| 2005 || {{dts|February 2}} || || MIRI relocates to the Bay Area of California.<ref name="singinst_feb_2006_news" />
+|-
 | 2005 || {{dts|August 21}} || || The third AI box experiment by Eliezer Yudkowsky, against Carl Shulman as gatekeeper, takes place.<ref>{{cite web |url=http://sl4.org/archive/0508/index.html#12007 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
 | 2006 || {{dts|May 13}} || || The first Singularity Summit takes place at Stanford University.<ref name="miri_singularity_summit">{{cite web |url=https://intelligence.org/singularitysummit/ |title=Singularity Summit |publisher=Machine Intelligence Research Institute |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.zdnet.com/article/the-great-singularity-debate/ |publisher=ZDNet |title=The great Singularity debate |author=Dan Farber |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.jerrypournelle.com/reports/jerryp/singularity.html |author=Jerry Pournelle |title=Chaos Manor Special Reports: The Stanford Singularity Summit |date=May 20, 2006 |accessdate=June 30, 2017}}</ref>
