@@ -215,6 +215,11 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 ===What the timeline is still missing===
 
+* mention peter thiel
+* mention kurzweil
+* maybe include some of the largest donations (e.g. the XRP/ETH ones, tallinn, thiel)
+* maybe fundraisers
+
 ===Timeline update strategy===
 
 ==See also==
