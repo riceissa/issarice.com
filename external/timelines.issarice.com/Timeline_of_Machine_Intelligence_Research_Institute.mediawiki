@@ -60,7 +60,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2009 || {{dts|February 16}} || || Michael Vassar announces himself as president of MIRI.<ref>{{cite web |url=https://intelligence.org/2009/02/16/introducing-myself/ |title=Introducing Myself |author=Michael Vassar |publisher=Machine Intelligence Research Institute |date=February 16, 2009 |accessdate=July 1, 2017}}</ref>
 |-
-| 2009 || {{dts|August 13}} || || The Singularity Institute Twitter account, singinst, is created.<ref>{{cite web |url=https://twitter.com/singinst |title=SingularityInstitute (@singinst) |publisher=Twitter |accessdate=July 4, 2017}}</ref>
+| 2009 || {{dts|August 13}} || Social media || The Singularity Institute Twitter account, singinst, is created.<ref>{{cite web |url=https://twitter.com/singinst |title=SingularityInstitute (@singinst) |publisher=Twitter |accessdate=July 4, 2017}}</ref>
 |-
 | 2009 || {{dts|October}} || || A website maintained by MIRI, ''The Uncertain Future'', first appears around this time.<ref>{{cite web |url=https://web.archive.org/web/20090101000000*/http://theuncertainfuture.com/ |title=Wayback Machine |accessdate=July 2, 2017}} The first snapshot is from October 5, 2009.</ref><ref>{{cite web |url=https://www.google.com/search?q=http%3A%2F%2Ftheuncertainfuture.com%2F&source=lnt&tbs=cdr%3A1%2Ccd_min%3A1%2F1%2F2009%2Ccd_max%3A1%2F1%2F2010&tbm= |title=theuncertainfuture.com - Google Search |accessdate=July 2, 2017}} The earliest cache seems to be from October 25, 2009. Checking the Jan 1, 2008 – Jan 1, 2009 range produces no result.</ref> The goal of the website is to "allow those interested in future technology to form their own rigorous, mathematically consistent model of how the development of advanced technologies will affect the evolution of civilization over the next hundred years".<ref>{{cite web |url=http://theuncertainfuture.com/ |title=The Uncertain Future |accessdate=July 2, 2017 |publisher=Machine Intelligence Research Institute}}</ref>
 |-
@@ -72,7 +72,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2010 || {{dts|August 14}}–15 || || The Singularity Summit 2010 takes place in San Francisco.<ref>{{cite web |url=https://web.archive.org/web/20110107222220/http://www.singularitysummit.com/program |title=Singularity Summit {{!}} Program |accessdate=June 30, 2017}}</ref>
 |-
-| 2010 || {{dts|December 21}} || || The first post on the MIRI Facebook page is from this day.<ref>{{cite web |url=https://www.facebook.com/MachineIntelligenceResearchInstitute/posts/176049615748742 |title=Machine Intelligence Research Institute - Posts |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://www.facebook.com/pg/MachineIntelligenceResearchInstitute/posts/?ref=page_internal |title=Machine Intelligence Research Institute - Posts |accessdate=July 4, 2017}}</ref>
+| 2010 || {{dts|December 21}} || Social media || The first post on the MIRI Facebook page is from this day.<ref>{{cite web |url=https://www.facebook.com/MachineIntelligenceResearchInstitute/posts/176049615748742 |title=Machine Intelligence Research Institute - Posts |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://www.facebook.com/pg/MachineIntelligenceResearchInstitute/posts/?ref=page_internal |title=Machine Intelligence Research Institute - Posts |accessdate=July 4, 2017}}</ref>
 |-
 | 2011 || {{dts|February}} || || Holden Karnofsky of GiveWell has a conversation with MIRI staff. The conversation reveals the existence of a "Persistent Problems Group" at MIRI, which will supposedly "assemble a blue-ribbon panel of recognizable experts to make sense of the academic literature on very applicable, popular, but poorly understood topics such as diet/nutrition".<ref>{{cite web |url=http://www.givewell.org/files/MiscCharities/SIAI/siai%202011%2002%20III.doc |title=GiveWell conversation with SIAI |date=February 2011 |publisher=GiveWell |accessdate=July 4, 2017}}</ref> On April 30, Karnofsky would post the conversation to the GiveWell mailing list.<ref>{{cite web |url=https://groups.yahoo.com/neo/groups/givewell/conversations/topics/270 |publisher=Yahoo! Groups |title=Singularity Institute for Artificial Intelligence |author=Holden Karnofsky |accessdate=July 4, 2017}}</ref>
 |-
@@ -86,7 +86,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2011 || {{dts|October 15}}–16 || || The Singularity Summit 2011 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20111031090701/http://www.singularitysummit.com:80/program |title=Singularity Summit {{!}} Program |accessdate=June 30, 2017}}</ref>
 |-
-| 2011 || {{dts|October 17}} || || The Singularity Summit YouTube account, SingularitySummits, is created.<ref>{{cite web |url=https://www.youtube.com/user/SingularitySummits/about |title=SingularitySummits |publisher=YouTube |accessdate=July 4, 2017 |quote=Joined Oct 17, 2011}}</ref>
+| 2011 || {{dts|October 17}} || Social media || The Singularity Summit YouTube account, SingularitySummits, is created.<ref>{{cite web |url=https://www.youtube.com/user/SingularitySummits/about |title=SingularitySummits |publisher=YouTube |accessdate=July 4, 2017 |quote=Joined Oct 17, 2011}}</ref>
 |-
 | 2011 || {{dts|December 12}} || || Luke Muehlhauser announces the creation of Friendly-AI.com, a website introducing the idea of Friendly AI.<ref>{{cite web |url=http://lesswrong.com/lw/8t6/new_landing_page_website_friendlyaicom/ |title=New 'landing page' website: Friendly-AI.com |author=lukeprog |date=December 12, 2011 |accessdate=July 2, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
@@ -116,9 +116,9 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|April 3}}–24 || Workshop || The 2nd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
-| 2013 || {{dts|July 4}} || || MIRI's Twitter account, MIRIBerkeley, is created.<ref>{{cite web |url=https://twitter.com/MIRIBerkeley |title=MIRI (@MIRIBerkeley) |publisher=Twitter |accessdate=July 1, 2017}}</ref>
+| 2013 || {{dts|July 4}} || Social media || MIRI's Twitter account, MIRIBerkeley, is created.<ref>{{cite web |url=https://twitter.com/MIRIBerkeley |title=MIRI (@MIRIBerkeley) |publisher=Twitter |accessdate=July 1, 2017}}</ref>
 |-
-| 2013 || {{dts|July 4}} || || The earliest post on MIRI's Google Plus account, IntelligenceOrg, is from this day.<ref>{{cite web |url=https://plus.google.com/+IntelligenceOrg/posts/Ge3p8fPTkQn |title=MIRI's +Luke Muehlhauser appears on "Big Picture Science" at 13:30-23:30. |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://plus.google.com/+IntelligenceOrg |title=Machine Intelligence Research Institute - Google+ |accessdate=July 4, 2017}}</ref>
+| 2013 || {{dts|July 4}} || Social media || The earliest post on MIRI's Google Plus account, IntelligenceOrg, is from this day.<ref>{{cite web |url=https://plus.google.com/+IntelligenceOrg/posts/Ge3p8fPTkQn |title=MIRI's +Luke Muehlhauser appears on "Big Picture Science" at 13:30-23:30. |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://plus.google.com/+IntelligenceOrg |title=Machine Intelligence Research Institute - Google+ |accessdate=July 4, 2017}}</ref>
 |-
 | 2013 || {{dts|July 8}}–14 || Workshop || The 3rd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
@@ -128,7 +128,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|September 7}}–13 || Workshop || The 4th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
-| 2013 || {{dts|October 25}} || || The MIRI YouTube account, MIRIBerkeley, is created.<ref>{{cite web |url=https://www.youtube.com/user/MIRIBerkeley/about |title=Machine Intelligence Research Institute |publisher=YouTube |accessdate=July 4, 2017 |quote=Joined Oct 25, 2013}}</ref>
+| 2013 || {{dts|October 25}} || Social media || The MIRI YouTube account, MIRIBerkeley, is created.<ref>{{cite web |url=https://www.youtube.com/user/MIRIBerkeley/about |title=Machine Intelligence Research Institute |publisher=YouTube |accessdate=July 4, 2017 |quote=Joined Oct 25, 2013}}</ref>
 |-
 | 2013 || {{dts|November 23}}–29 || Workshop || The 5th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
