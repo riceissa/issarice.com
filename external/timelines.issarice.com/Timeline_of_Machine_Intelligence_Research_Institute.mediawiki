@@ -92,6 +92,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|February 11}}{{snd}}{{dts|March 2}} || || Sometime during this period, MIRI's new website at <code>intelligence.org</code> begins to function.<ref>{{cite web |url=https://web.archive.org/web/20130211105954/http://intelligence.org:80/ |title=Machine Intelligence Research Institute - Coming soon... |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20130302063022/http://intelligence.org/ |title=Machine Intelligence Research Institute |accessdate=July 4, 2017}}</ref>
 |-
+| 2013 || {{dts|March 2}}{{snd}}{{dts|July 4}} || || At least during this period, <code>singularity.org</code> redirects to <code>intelligence.org</code>, MIRI's new domain.<ref>{{cite web |url=https://web.archive.org/web/20130401000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
+|-
 | 2013 || {{dts|April 3}}–24 || Workshop || The 2nd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
 | 2013 || {{dts|July 4}} || || MIRI's Twitter account is created.<ref>{{cite web |url=https://twitter.com/MIRIBerkeley |title=MIRI (@MIRIBerkeley) |publisher=Twitter |accessdate=July 1, 2017}}</ref>
