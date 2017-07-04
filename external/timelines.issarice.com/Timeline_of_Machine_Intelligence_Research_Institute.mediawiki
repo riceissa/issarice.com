@@ -72,7 +72,9 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2011 || {{dts|May 10}}{{snd}}{{dts|June 24}} || || Holden Karnofsky of GiveWell and [[wikipedia:Jaan Tallinn|Jaan Tallinn]] (with Dario Amodei being present in the initial phone conversation) correspond regarding MIRI's work. The correspondence is posted to the GiveWell mailing list on July 18.<ref>{{cite web |url=https://groups.yahoo.com/neo/groups/givewell/conversations/messages/287 |title=Re: [givewell] Singularity Institute for Artificial Intelligence |author=Holden Karnofsky |publisher=Yahoo! Groups |accessdate=July 4, 2017}}</ref>
 |-
-| 2011 || {{dts|June 24}} || || A Wayback Machine snapshot on this day shows that <code>singularity.org</code> has turned into a GoDaddy.com placeholder.<ref>{{cite web |url=https://web.archive.org/web/20110624011222/http://singularity.org:80/ |title=singularity.org |accessdate=July 4, 2017}}</ref> Before this, the domain is some blog, most likely unrelated to MIRI.<ref>{{cite web |url=https://web.archive.org/web/20111001000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
+| 2011 || {{dts|June 24}} || || A Wayback Machine snapshot on this day shows that <code>singularity.org</code> has turned into a GoDaddy.com placeholder.<ref>{{cite web |url=https://web.archive.org/web/20110624011222/http://singularity.org:80/ |title=singularity.org |accessdate=July 4, 2017}}</ref> Before this, the domain is some blog, most likely unrelated to MIRI.<ref name="singularity_org_2011">{{cite web |url=https://web.archive.org/web/20111001000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
+|-
+| 2011 || {{dts|July 18}}{{snd}}{{dts|October 20}} || || At least during this period, the <code>singularity.org</code> domain name redirects to <code>singinst.org/singularityfaq</code>.<ref name="singularity_org_2011" />
 |-
 | 2011 || {{dts|October 15}}–16 || || The Singularity Summit 2011 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20111031090701/http://www.singularitysummit.com:80/program |title=Singularity Summit {{!}} Program |accessdate=June 30, 2017}}</ref>
 |-
