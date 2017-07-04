@@ -44,7 +44,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2006 || {{dts|May 13}} || || The first Singularity Summit takes place at Stanford University.<ref name="miri_singularity_summit">{{cite web |url=https://intelligence.org/singularitysummit/ |title=Singularity Summit |publisher=Machine Intelligence Research Institute |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.zdnet.com/article/the-great-singularity-debate/ |publisher=ZDNet |title=The great Singularity debate |author=Dan Farber |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.jerrypournelle.com/reports/jerryp/singularity.html |author=Jerry Pournelle |title=Chaos Manor Special Reports: The Stanford Singularity Summit |date=May 20, 2006 |accessdate=June 30, 2017}}</ref>
 |-
-| 2006 || {{dts|November}} || || [[Robin Hanson]] starts ''[[Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
+| 2006 || {{dts|November}} || || [[wikipedia:Robin Hanson|Robin Hanson]] starts ''[[wikipedia:Overcoming Bias|Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
 |-
 | 2007 || {{dts|September 8}}–9  || || The Singularity Summit 2007 takes place in the San Francisco Bay Area.<ref name="miri_singularity_summit" /><ref>{{cite web |url=https://web.archive.org/web/20080331205725/http://www.singinst.org:80/summit2007/ |title=The Singularity Summit 2007 |accessdate=June 30, 2017}}</ref>
 |-
