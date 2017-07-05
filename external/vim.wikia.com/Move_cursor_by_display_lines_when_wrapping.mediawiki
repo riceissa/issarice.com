@@ -11,11 +11,11 @@
 |category1=
 |category2=
 }}
-The command ''':set wrap lbr''' will wrap long lines between words.
+The command <code>:set wrap lbr</code> will wrap long lines between words.
 
-However, when you move the cursor down (or up), the cursor will jump from one physical line to the next. You can press '''j''' to move down one physical line, or '''gj''' to move down one displayed line.
+However, when you move the cursor down (or up), the cursor will jump from one physical line to the next. You can press <code>j</code> to move down one physical line, or <code>gj</code> to move down one displayed line.
 
-To make it easy, you could put the following in your vimrc file. Then press '''\w''' to toggle wrapping on or off (that's a backslash then w, assuming the default Leader key). When wrap is on, the cursor movement keys are mapped to move by display lines.
+To make it easy, you could put the following in your vimrc file. Then press <code>\w</code> to toggle wrapping on or off (that's a backslash then w, assuming the default Leader key). When wrap is on, the cursor movement keys are mapped to move by display lines.
 
 <pre>
 noremap <silent> <Leader>w :call ToggleWrap()<CR>
@@ -47,6 +47,23 @@ function ToggleWrap()
     inoremap <buffer> <silent> <End>  <C-o>g<End>
   endif
 endfunction
+</pre>
+
+It is possible to incorporate more complicated logic:
+
+<ref>[https://www.reddit.com/r/vim/comments/2k4cbr/problem_with_gj_and_gk/ Problem with gj and gk]</ref>
+
+<pre>
+" If a count is given, make 'j' and 'k' behave as usual
+nnoremap <expr> j v:count == 0 ? 'gj' : 'j'
+nnoremap <expr> k v:count == 0 ? 'gk' : 'k'
+nnoremap gj j
+nnoremap gk k
+" Similar to above, but use logical lines also in visual line mode
+xnoremap <expr> j v:count == 0 && mode() !=# 'V' ? 'gj' : 'j'
+xnoremap <expr> k v:count == 0 && mode() !=# 'V' ? 'gk' : 'k'
+xnoremap gj j
+xnoremap gk k
 </pre>
 
 ==Comments==
