@@ -210,7 +210,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2016 || {{dts|July 27}} || || MIRI announces its machine learning technical agenda, called "Alignment for Advanced Machine Learning Systems".<ref>{{cite web |url=https://intelligence.org/2016/07/27/alignment-machine-learning/ |title=New paper: "Alignment for advanced machine learning systems" |publisher=Machine Intelligence Research Institute |date=July 27, 2016 |author=Rob Bensinger |accessdate=July 1, 2017}}</ref>
 |-
-| 2016 || {{dts|August}} || || The Open Philanthropy Project awards a grant worth $500,000 to Machine Intelligence Research Institute.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support |title=Machine Intelligence Research Institute — General Support |publisher=Open Philanthropy Project |accessdate=June 30, 2017}}</ref>
+| 2016 || {{dts|August}} || || The Open Philanthropy Project awards a grant worth $500,000 to Machine Intelligence Research Institute. The grant writeup notes, "Despite our strong reservations about the technical research we reviewed, we felt that awarding $500,000 was appropriate for multiple reasons".<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support |title=Machine Intelligence Research Institute — General Support |publisher=Open Philanthropy Project |accessdate=June 30, 2017}}</ref>
 |-
 | 2016 || {{dts|August 12}}–14 || Workshop || The 8th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
