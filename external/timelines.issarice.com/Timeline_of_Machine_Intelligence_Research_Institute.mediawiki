@@ -48,7 +48,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2002 || {{dts|March 8}} || || The first [[wikipedia:AI box|AI box]] experiment by Eliezer Yudkowsky, against Nathan Russell as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0203/index.html#3128 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
-| 2002 || {{dts|April 7}} || || A draft of "Levels of Organization in General Intelligence" is announced on SL4.<ref>{{cite web |url=http://www.sl4.org/archive/0204/3296.html |author=Eliezer S. Yudkowsky |date=April 7, 2002 |title=SL4: PAPER: Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref>
+| 2002 || {{dts|April 7}} || || A draft of "Levels of Organization in General Intelligence" is announced on SL4.<ref>{{cite web |url=http://www.sl4.org/archive/0204/3296.html |author=Eliezer S. Yudkowsky |date=April 7, 2002 |title=SL4: PAPER: Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20120722082136/singularity.org/upload/LOGI/index.html |author=Singularity Institute for Artificial Intelligence |title=Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref>
 |-
 | 2002 || {{dts|July 4}}–5 || || The second AI box experiment by Eliezer Yudkowsky, against David McFadzean as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0207/index.html#4689 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
