@@ -192,6 +192,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2015 || {{dts|June 3}}–4 || || Nate Soares begins as executive director of MIRI.<ref name="soares_taking_the_reins_at_miri">{{cite web |url=http://lesswrong.com/lw/ma4/taking_the_reins_at_miri/ |title=Taking the reins at MIRI |date=June 3, 2015 |accessdate=July 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2015 || {{dts|June 11}} || || Nate Soares, executive director of MIRI, does an "ask me anything" (AMA) on the Effective Altruism Forum.<ref>{{cite web |url=http://effective-altruism.com/ea/ju/i_am_nate_soares_ama/ |title=I am Nate Soares, AMA! |publisher=Effective Altruism Forum |accessdate=July 5, 2017}}</ref>
+|-
 | 2015 || {{dts|June 12}}–14 || Workshop || The 2nd Introductory Workshop on Logical Decision Theory takes place.<ref name="workshops" />
 |-
 | 2015 || {{dts|June 26}}–28 || Workshop || The 1st Introductory Workshop on Vingean Reflection takes place.<ref name="workshops" />
