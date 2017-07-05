@@ -170,7 +170,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|November 23}}–29 || Workshop || The 5th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
-| 2013 || {{dts|December 14}}–20 || Workshop || The 6th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
+| 2013 || {{dts|December 14}}–20 || Workshop || The 6th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" /> This is the first workshop attended by Nate Soares (at Google at the time), who would later becomes executive director of MIRI.<ref name="soares_taking_the_reins_at_miri" />
 |-
 | 2014 || {{dts|February 1}} || || ''Smarter Than Us: The Rise of Machine Intelligence'' by Stuart Armstrong is published by MIRI.<ref>{{cite web |url=https://www.amazon.com/Smarter-Than-Us-Machine-Intelligence-ebook/dp/B00IB4N4KU |title=Smarter Than Us: The Rise of Machine Intelligence, Stuart Armstrong |publisher=Amazon.com |accessdate=July 1, 2017 |quote=Publisher: Machine Intelligence Research Institute (February 1, 2014)}}</ref>
 |-
@@ -189,6 +189,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 | 2015 || {{dts|May 6}} || || Executive director Luke Muehlhauser announces his departure from MIRI. The announcement also states that Nate Soares will be the new executive director.<ref>{{cite web |url=https://intelligence.org/2015/05/06/a-fond-farewell-and-a-new-executive-director/ |title=A fond farewell and a new Executive Director |author=Luke Muehlhauser |publisher=Machine Intelligence Research Institute |date=May 6, 2015 |accessdate=June 30, 2017}}</ref>
 |-
 | 2015 || {{dts|May 29}}–31 || Workshop || The 1st Introductory Workshop on Logical Uncertainty takes place.<ref name="workshops" />
+|-
+| 2015 || {{dts|June 3}}–4 || || Nate Soares begins as executive director of MIRI.<ref name="soares_taking_the_reins_at_miri">{{cite web |url=http://lesswrong.com/lw/ma4/taking_the_reins_at_miri/ |title=Taking the reins at MIRI |date=June 3, 2015 |accessdate=July 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2015 || {{dts|June 12}}–14 || Workshop || The 2nd Introductory Workshop on Logical Decision Theory takes place.<ref name="workshops" />
 |-
