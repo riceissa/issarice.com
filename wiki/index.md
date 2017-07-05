@@ -62,6 +62,7 @@ Here are some activity feeds that track what I've been working on:
   [commits to this website's
   repository](https://github.com/riceissa/issarice.com/commits/master)
 * My [contributions to the Timelines Wiki](https://timelines.issarice.com/wiki/Special:Contributions/Issa)
+  ([Git version with more incremental changes](https://github.com/riceissa/issarice.com/commits/master/external/timelines.issarice.com))
 * My [public GitHub Gists](https://gist.github.com/riceissa)
 * [Summary of my contract work for Vipul
   Naik](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki)
