@@ -88,7 +88,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2008 || || || "The Simple Truth" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/the-simple-truth |title=Yudkowsky - The Simple Truth |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute.}}</ref>
 |-
-| 2008 || {{dts|October 25}} || || The Singularity Summit 2008 takes place in San Jose.<ref>{{cite web |url=https://web.archive.org/web/20090608082235/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2008: Opportunity, Risk, Leadership &gt; Program |accessdate=June 30, 2017}}</ref>
+| 2008 || {{dts|October 25}} || || The Singularity Summit 2008 takes place in San Jose.<ref>{{cite web |url=https://web.archive.org/web/20090608082235/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2008: Opportunity, Risk, Leadership &gt; Program |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.mercurynews.com/2008/10/23/annual-a-i-conference-to-be-held-this-saturday-in-san-jose/ |title=Annual A.I. conference to be held this Saturday in San Jose |date=October 23, 2008 |author=Elise Ackerman |publisher=The Mercury News |accessdate=July 5, 2017}}</ref>
 |-
 | 2008 || {{dts|November}}–December || || The AI-Foom debate between Robin Hanson and Eliezer Yudkowsky takes place. The blog posts from the debate would later be turned into an ebook by MIRI.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate |title=The Hanson-Yudkowsky AI-Foom Debate |website=Lesswrongwiki |accessdate=July 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
