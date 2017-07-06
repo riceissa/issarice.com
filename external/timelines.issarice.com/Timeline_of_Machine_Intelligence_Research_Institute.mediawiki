@@ -1,6 +1,6 @@
 This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 
-===Sample questions===
+==Sample questions==
 
 The following are some interesting questions that can be answered by reading this timeline:
 
