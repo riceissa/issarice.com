@@ -28,7 +28,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2000 || {{dts|February 6}} || || The first email is sent on SL4 ("Shock Level Four"), a mailing list about transhumanism, superintelligent AI, existential risks, and so on.<ref>{{cite web |url=http://sl4.org/archive/date.html |title=SL4: By Date |accessdate=June 1, 2017}}</ref><ref>{{cite web |url=http://sl4.org/ |author=Eliezer S. Yudkowsky |title=SL4 Mailing List |accessdate=June 1, 2017}}</ref>
 |-
-| 2000 || {{dts|May 18}} || || "Coding a Transhuman AI" (CaTAI) version 2.0a is "rushed out in time for the Foresight Gathering".<ref name="CaTAI_20010202">{{cite web |url=https://web.archive.org/web/20010202042100/http://singinst.org:80/CaTAI.html#version |author=Eliezer S. Yudkowsky |title=Coding a Transhuman AI § Version History |accessdate=July 5, 2017}}</ref>
+| 2000 || {{dts|May 18}} || Publication || "Coding a Transhuman AI" (CaTAI) version 2.0a is "rushed out in time for the Foresight Gathering".<ref name="CaTAI_20010202">{{cite web |url=https://web.archive.org/web/20010202042100/http://singinst.org:80/CaTAI.html#version |author=Eliezer S. Yudkowsky |title=Coding a Transhuman AI § Version History |accessdate=July 5, 2017}}</ref>
 |-
 | 2000 || {{dts|July 27}} || || [[wikipedia:Machine Intelligence Research Institute|Machine Intelligence Research Institute]] is founded as the Singularity Institute for Artificial Intelligence by Brian Atkins, Sabine Atkins (then Sabine Stoeckel) and Eliezer Yudkowsky.<ref>{{cite web |url=https://intelligence.org/files/2000-SIAI990.pdf |title=Form 990-EZ 2000 |accessdate=June 1, 2017 |quote=Organization was incorporated in July 2000 and does not have a financial history for years 1996-1999.}}</ref>{{rp|3}}<ref>{{cite web |url=https://web.archive.org/web/20060704101132/http://www.singinst.org:80/about.html |title=About the Singularity Institute for Artificial Intelligence |accessdate=July 1, 2017 |quote=The Singularity Institute for Artificial Intelligence, Inc. (SIAI) was incorporated on July 27th, 2000 by Brian Atkins, Sabine Atkins (then Sabine Stoeckel) and Eliezer Yudkowsky. The Singularity Institute is a nonprofit corporation governed by the Georgia Nonprofit Corporation Code, and is federally tax-exempt as a 501(c)(3) public charity. At this time, the Singularity Institute is funded solely by individual donors.}}</ref>
 |-
@@ -46,11 +46,11 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2001 || {{dts|December 21}} || Domain || MIRI obtains the <code>flare.org</code> domain name for its Flare language project.<ref name="singinst_jun_2003_news" />
 |-
-| 2002 || {{dts|March 8}} || || The first [[wikipedia:AI box|AI box]] experiment by Eliezer Yudkowsky, against Nathan Russell as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0203/index.html#3128 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
+| 2002 || {{dts|March 8}} || AI box || The first [[wikipedia:AI box|AI box]] experiment by Eliezer Yudkowsky, against Nathan Russell as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0203/index.html#3128 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
 | 2002 || {{dts|April 7}} || || A draft of "Levels of Organization in General Intelligence" is announced on SL4.<ref>{{cite web |url=http://www.sl4.org/archive/0204/3296.html |author=Eliezer S. Yudkowsky |date=April 7, 2002 |title=SL4: PAPER: Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20120722082136/singularity.org/upload/LOGI/index.html |author=Singularity Institute for Artificial Intelligence |title=Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref>
 |-
-| 2002 || {{dts|July 4}}–5 || || The second AI box experiment by Eliezer Yudkowsky, against David McFadzean as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0207/index.html#4689 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
+| 2002 || {{dts|July 4}}–5 || AI box || The second AI box experiment by Eliezer Yudkowsky, against David McFadzean as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0207/index.html#4689 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
 | 2002 || {{dts|September 6}} || || Christian Rovner is appointed as MIRI's volunteer coordinator.<ref name="singinst_jun_2003_news" />
 |-
@@ -74,7 +74,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2005 || {{dts|July 22}}–24 || Conference || TransVision 2005 takes place in Caracas, Venezuela. MIRI is a sponsor for the event.<ref name="singinst_feb_2006_news" />
 |-
-| 2005 || {{dts|August 21}} || || The third AI box experiment by Eliezer Yudkowsky, against Carl Shulman as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://sl4.org/archive/0508/index.html#12007 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
+| 2005 || {{dts|August 21}} || AI box || The third AI box experiment by Eliezer Yudkowsky, against Carl Shulman as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://sl4.org/archive/0508/index.html#12007 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
 | 2005–2006 || {{dts|December 20, 2005}}{{snd}}{{dts|February 19, 2006}} || || The 2006 $100,000 Singularity Challenge, a fundraiser in which [[wikipedia:Peter Thiel|Peter Thiel]] matches donations up to $100,000, takes place.<ref name="singinst_feb_2006_news" /><ref>{{cite web |url=https://web.archive.org/web/20060207074758/http://www.singinst.org:80/challenge/ |title=The Singularity Institute for Artificial Intelligence - 2006 $100,000 Singularity Challenge |accessdate=July 5, 2017}}</ref>
 |-
