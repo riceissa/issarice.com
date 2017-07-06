@@ -204,9 +204,11 @@ The original timeline was written by [[User:Issa|Issa Rice]]. [[User:Vipul|Vipul
 
 The timeline was constructed by going through both formal publications and blog posts in various venues with substantive content.
 
+On July 5, 2017 word counts were added at the [http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/dv11 suggestion of gwern].
+
 ===What the timeline is still missing===
 
-Nothing as far as I know.
+A quality rating and summary might be useful; see the [http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/dv13 comment by gwern].
 
 ===Timeline update strategy===
 
