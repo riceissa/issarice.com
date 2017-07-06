@@ -213,9 +213,11 @@ Go through new posts on Shulman's blog, EA Forum, LessWrong, and so forth.
 
 ==External links==
 
-* [http://lesswrong.com/user/CarlShulman/submitted/ Submitted posts on LessWrong]
-* [http://effective-altruism.com/user/Carl_Shulman/submitted/ Submitted posts on Effective Altruism Forum]
 * [http://www.overcomingbias.com/author/carl-shulman Posts on Overcoming Bias]
+* [http://lesswrong.com/user/CarlShulman/submitted/ Submitted posts on LessWrong]
+* [https://80000hours.org/author/carl-shulman-2/ Posts on the 80,000 Hours blog]
+* [https://reflectivedisequilibrium.blogspot.com/ *Reflective Disequilibrium*]
+* [http://effective-altruism.com/user/Carl_Shulman/submitted/ Submitted posts on Effective Altruism Forum]
 * [http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/dv11 This timeline shared on LessWrong]
 
 ==References==
