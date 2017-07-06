@@ -96,6 +96,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2009 (early) || || || Executive director Tyler Emerson departs MIRI.<ref name="siai_accomplishments_20110621">{{cite web |url=https://web.archive.org/web/20110621192259/http://singinst.org/achievements |title=Recent Singularity Institute Accomplishments |publisher=Singularity Institute for Artificial Intelligence |accessdate=July 6, 2017}}</ref>
 |-
+| 2009 (early) || || || Michael Anissimov is hired as a media director.<ref name="siai_accomplishments_20110621" /> (Since he was advocacy director as far back as 2004, it's not clear if he left the organization and came back, or if just changed positions.)
+|-
 | 2009 || {{dts|February}} || || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2009 || {{dts|February 16}} || || Michael Vassar announces himself as president of MIRI.<ref>{{cite web |url=https://intelligence.org/2009/02/16/introducing-myself/ |title=Introducing Myself |author=Michael Vassar |publisher=Machine Intelligence Research Institute |date=February 16, 2009 |accessdate=July 1, 2017}}</ref>
