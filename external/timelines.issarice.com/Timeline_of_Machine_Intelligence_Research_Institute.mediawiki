@@ -284,13 +284,13 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 The following are some interesting questions that can be answered by reading this timeline:
 
-* example q1
-* example q2
+* Which Singularity Summits did MIRI host, and when did they happen?
+* What was MIRI up to for the first ten years of its existence (before Luke Muehlhauser joined, before Holden Karnofsky wrote his critique of the organization)?
 
 The following are some interesting questions that are difficult or impossible to answer just by reading the current version of this timeline, but might be possible to answer using a future version of this timeline:
 
-* example q3
-* example q4
+* When did some big donations to MIRI take place (for instance, the one by Peter Thiel)?
+* Has MIRI "done more things" between 2010–2013 or between 2014–2017?
 
 ==See also==
 
