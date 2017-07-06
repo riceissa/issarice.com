@@ -52,7 +52,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2002 || {{dts|July 4}}–5 || AI box || The second AI box experiment by Eliezer Yudkowsky, against David McFadzean as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0207/index.html#4689 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
-| 2002 || {{dts|September 6}} || || Christian Rovner is appointed as MIRI's volunteer coordinator.<ref name="singinst_jun_2003_news" />
+| 2002 || {{dts|September 6}} || Staff || Christian Rovner is appointed as MIRI's volunteer coordinator.<ref name="singinst_jun_2003_news" />
 |-
 | 2002 || {{dts|October 1}} || || MIRI "releases a major new site upgrade" with various new pages.<ref name="singinst_jun_2003_news" />
 |-
