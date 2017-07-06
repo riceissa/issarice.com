@@ -23,7 +23,7 @@ This is a '''timeline of Carl Shulman publications'''. This timeline covers only
 The "Comment count" column applies only to blog posts and relies on the comment counting provided by Disqus, Blogger, LessWrong, etc. (as the case may be) rather than manually counting up the comments. The column is blind to the identity of the commenter (e.g. a comment by Shulman himself counts as a comment, as well as any uncaught spam). The comment counts are as of June 5, 2017.
 
 {| class="sortable wikitable"
-! Year !! Month and date !! Format !! Venue !! Coauthors !! Details !! Comment count
+! Year !! Month and date !! Format !! Venue !! Coauthors !! Details !! Comment count !! Word count
 |-
 | 2006 || {{dts|December 15}} || Blog post || Overcoming Bias || || "Meme Lineages and Expert Consensus" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2006/12/meme_lineages_a.html |title=Overcoming Bias : Meme Lineages and Expert Consensus |accessdate=June 5, 2017}}</ref> || 1
 |-
@@ -41,7 +41,7 @@ The "Comment count" column applies only to blog posts and relies on the comment 
 |-
 | 2009 || || Paper || ''AP-CAP'' || Henrik Jonsson, Nick Tarleton || "Machine Ethics and Superintelligence" is published.<ref name="luke_list" /><ref>{{cite web |url=https://intelligence.org/files/MachineEthicsSuperintelligence.pdf |title=MachineEthicsSuperintelligence.pdf |accessdate=June 5, 2017}}</ref> ||
 |-
-| 2009 || {{dts|March 21}} || Blog post || [[wikipedia:LessWrong|LessWrong]] || || "Don't Revere The Bearer Of Good Info" is published.<ref>{{cite web |url=http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/ |title=Don't Revere The Bearer Of Good Info - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 64
+| 2009 || {{dts|March 21}} || Blog post || [[wikipedia:LessWrong|LessWrong]] || || "Don't Revere The Bearer Of Good Info" is published.<ref>{{cite web |url=http://lesswrong.com/lw/4b/dont_revere_the_bearer_of_good_info/ |title=Don't Revere The Bearer Of Good Info - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 64 || 839
 |-
 | 2009 || {{dts|July}} || Paper || ''ECAP'' || || "Arms Control and Intelligence Explosions" is published.<ref>{{cite web |url=https://intelligence.org/files/ArmsControl.pdf |title=ArmsControl.pdf |accessdate=June 5, 2017}}</ref> ||
 |-
@@ -55,9 +55,9 @@ The "Comment count" column applies only to blog posts and relies on the comment 
 |-
 | 2010 || || Paper || MIRI || Eliezer Yudkowsky, Anna Salamon, Steven Kaas, Tom McCabe, Rolf Nelson || "Reducing Long-Term Catastrophic Risks from Artificial Intelligence" appears.<ref>{{cite web |url=https://intelligence.org/files/ReducingRisks.pdf |title=ReducingRisks.pdf |accessdate=June 5, 2017}}</ref>
 |-
-| 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 161
+| 2010 || {{dts|September 23}} || Blog post || LessWrong || || "Politics as Charity" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2qq/politics_as_charity/ |title=Politics as Charity - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 161 || 2474
 |-
-| 2010 || {{dts|November 24}} || Blog post || LessWrong || || "Probability and Politics" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2ur/probability_and_politics/ |title=Probability and Politics - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 31
+| 2010 || {{dts|November 24}} || Blog post || LessWrong || || "Probability and Politics" is published.<ref>{{cite web |url=http://lesswrong.com/lw/2ur/probability_and_politics/ |title=Probability and Politics - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 31 || 1606
 |-
 | 2011 || {{dts|November 15}} || Blog post || [[wikipedia:80,000 Hours|80,000 Hours]] || || "High Impact Science" is published.<ref>{{cite web |url=https://80000hours.org/2011/11/high-impact-science/ |title=High Impact Science - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
 |-
@@ -65,7 +65,7 @@ The "Comment count" column applies only to blog posts and relies on the comment 
 |-
 | 2012 || {{dts|January 8}} || Blog post || 80,000 Hours || || "Salary or startup? How do-gooders can gain more from risky careers" is published.<ref>{{cite web |url=https://80000hours.org/2012/01/salary-or-startup-how-do-gooders-can-gain-more-from-risky-careers/ |title=Salary or startup? How do-gooders can gain more from risky careers - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
 |-
-| 2012 || {{dts|February 9}} || Blog post || LessWrong || || "Feed the spinoff heuristic!" is published.<ref>{{cite web |url=http://lesswrong.com/lw/9xs/feed_the_spinoff_heuristic/ |title=Feed the spinoff heuristic! - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 85
+| 2012 || {{dts|February 9}} || Blog post || LessWrong || || "Feed the spinoff heuristic!" is published.<ref>{{cite web |url=http://lesswrong.com/lw/9xs/feed_the_spinoff_heuristic/ |title=Feed the spinoff heuristic! - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 85 || 509
 |-
 | 2012 || {{dts|February 17}} || Blog post || 80,000 Hours || || "How hard is it to become Prime Minister of the United Kingdom?" is published.<ref>{{cite web |url=https://80000hours.org/2012/02/how-hard-is-it-to-become-prime-minister-of-the-united-kingdom/ |title=How to become Prime Minister - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
 |-
@@ -75,7 +75,7 @@ The "Comment count" column applies only to blog posts and relies on the comment 
 |-
 | 2012 || {{dts|February 25}} || Blog post || 80,000 Hours || || "5 ways to be misled by salary rankings" is published.<ref name="five_ways">{{cite web |url=https://80000hours.org/2012/02/5-ways-to-be-misled-by-salary-rankings/ |title=5 ways to be misled by salary rankings - 80,000 Hours |publisher=80,000 Hours |accessdate=June 5, 2017}}</ref> || 0
 |-
-| 2012 || {{dts|March 7}} || Blog post || LessWrong || || "Using degrees of freedom to change the past for fun and profit" is published.<ref>{{cite web |url=http://lesswrong.com/lw/a9f/using_degrees_of_freedom_to_change_the_past_for/ |title=Using degrees of freedom to change the past for fun and profit - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 23
+| 2012 || {{dts|March 7}} || Blog post || LessWrong || || "Using degrees of freedom to change the past for fun and profit" is published.<ref>{{cite web |url=http://lesswrong.com/lw/a9f/using_degrees_of_freedom_to_change_the_past_for/ |title=Using degrees of freedom to change the past for fun and profit - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 23 || 2686
 |-
 | 2012 || {{dts|March 24}} || Blog post || *Reflective Disequilibrium* || || "Are pain and pleasure equally energy-efficient?" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/03/are-pain-and-pleasure-equally-energy.html |title=Are pain and pleasure equally energy-efficient? |accessdate=June 5, 2017}}</ref> || 11
 |-
@@ -106,9 +106,9 @@ The "Comment count" column applies only to blog posts and relies on the comment 
 |-
 | 2013 || {{dts|February 4}} || Blog post || Overcoming Bias || || "The SAEE: who was right?" is published.<ref>{{cite web |url=http://www.overcomingbias.com/2013/02/the-saee-who-was-right.html |title=Overcoming Bias : The SAEE: who was right? |accessdate=June 5, 2017}}</ref> || 9
 |-
-| 2013 || {{dts|June 16}} || Blog post || LessWrong || || "Normative uncertainty in Newcomb's problem" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hpy/normative_uncertainty_in_newcombs_problem/ |title=Normative uncertainty in Newcomb's problem - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 31
+| 2013 || {{dts|June 16}} || Blog post || LessWrong || || "Normative uncertainty in Newcomb's problem" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hpy/normative_uncertainty_in_newcombs_problem/ |title=Normative uncertainty in Newcomb's problem - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 31 || 640
 |-
-| 2013 || {{dts|June 19}} || Blog post || LessWrong || || "Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb?" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hqs/why_do_theists_undergrads_and_less_wrongers_favor/ |title=Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb? - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 299
+| 2013 || {{dts|June 19}} || Blog post || LessWrong || || "Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb?" is published.<ref>{{cite web |url=http://lesswrong.com/lw/hqs/why_do_theists_undergrads_and_less_wrongers_favor/ |title=Why do theists, undergrads, and Less Wrongers favor one-boxing on Newcomb? - Less Wrong |accessdate=June 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> || 299 || 701
 |-
 | 2013 || {{dts|July 4}} || Blog post || *Reflective Disequilibrium* || || "Open borders in (at least) one (developed) country" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2013/07/open-borders-in-at-least-one-developed.html |title=Open borders in (at least) one (developed) country |accessdate=June 5, 2017}}</ref> || 7
 |-
