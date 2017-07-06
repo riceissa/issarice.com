@@ -94,9 +94,13 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2008 || {{dts|November}}–December || || The AI-Foom debate between Robin Hanson and Eliezer Yudkowsky takes place. The blog posts from the debate would later be turned into an ebook by MIRI.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate |title=The Hanson-Yudkowsky AI-Foom Debate |website=Lesswrongwiki |accessdate=July 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2009 (early) || || || Executive director Tyler Emerson departs MIRI.<ref name="siai_accomplishments_20110621">{{cite web |url=https://web.archive.org/web/20110621192259/http://singinst.org/achievements |title=Recent Singularity Institute Accomplishments |publisher=Singularity Institute for Artificial Intelligence |accessdate=July 6, 2017}}</ref>
+|-
 | 2009 || {{dts|February}} || || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2009 || {{dts|February 16}} || || Michael Vassar announces himself as president of MIRI.<ref>{{cite web |url=https://intelligence.org/2009/02/16/introducing-myself/ |title=Introducing Myself |author=Michael Vassar |publisher=Machine Intelligence Research Institute |date=February 16, 2009 |accessdate=July 1, 2017}}</ref>
+|-
+| 2009 || {{dts|April}} || || Eliezer Yudkowsky completes the Sequences.<ref name="siai_accomplishments_20110621" />
 |-
 | 2009 || {{dts|August 13}} || Social media || The Singularity Institute Twitter account, singinst, is created.<ref>{{cite web |url=https://twitter.com/singinst |title=SingularityInstitute (@singinst) |publisher=Twitter |accessdate=July 4, 2017}}</ref>
 |-
