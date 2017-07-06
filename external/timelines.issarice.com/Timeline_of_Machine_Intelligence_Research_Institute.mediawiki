@@ -253,6 +253,7 @@ Issa likes to work locally and track changes with Git, so the revision history o
 * mention kurzweil
 * maybe include some of the largest donations (e.g. the XRP/ETH ones, tallinn, thiel)
 * maybe fundraisers
+* look more closely through some AMAs: [http://effective-altruism.com/ea/12r/ask_miri_anything_ama/], [http://effective-altruism.com/ea/ju/i_am_nate_soares_ama/]
 
 ===Timeline update strategy===
 
