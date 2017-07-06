@@ -280,6 +280,18 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 ===Timeline update strategy===
 
+===Sample questions===
+
+The following are some interesting questions that can be answered by reading this timeline:
+
+* example q1
+* example q2
+
+The following are some interesting questions that are difficult or impossible to answer just by reading the current version of this timeline, but might be possible to answer using a future version of this timeline:
+
+* example q3
+* example q4
+
 ==See also==
 
 * [[Timeline of Against Malaria Foundation]]
