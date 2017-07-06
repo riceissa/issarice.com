@@ -184,7 +184,7 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2014 || {{dts|May 3}}–11 || Workshop || The 7th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
-| 2014 || {{dts|July}}–September || || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published. While Bostrom has never worked for MIRI, he is a research advisor to MIRI.
+| 2014 || {{dts|July}}–September || || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published. While Bostrom has never worked for MIRI, he is a research advisor to MIRI. MIRI also contributed substantially to the publication of the book.<ref>{{cite web |url=http://effective-altruism.com/ea/ns/my_cause_selection_michael_dickens/50b |title=Carl_Shulman comments on My Cause Selection: Michael Dickens |publisher=Effective Altruism Forum |accessdate=July 6, 2017 |date=September 17, 2015}}</ref>
 |-
 | 2014 || {{dts|July 4}} || || Earliest evidence of AI Impacts existing is from this day.<ref>{{cite web |url=https://web.archive.org/web/20141129001325/http://www.aiimpacts.org:80/system/app/pages/recentChanges |title=Recent site activity - AI Impacts |accessdate=June 30, 2017 |quote=Jul 4, 2014, 10:39 AM Katja Grace edited Predictions of human-level AI timelines}}</ref>
 |-
