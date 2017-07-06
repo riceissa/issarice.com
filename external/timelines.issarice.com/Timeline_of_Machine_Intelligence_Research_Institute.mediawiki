@@ -178,6 +178,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|December 14}}–20 || Workshop || The 6th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" /> This is the first workshop attended by Nate Soares (at Google at the time), who would later becomes executive director of MIRI.<ref name="soares_taking_the_reins_at_miri" />
 |-
+| 2014 || {{dts|January}} (approximate) || || [[wikipedia:Jed McCaleb|Jed McCaleb]], the creator of Ripple and original founder of [[wikipedia:Mt. Gox|Mt. Gox]], makes a donation worth $500,000 in XRP.<ref>{{cite web |url=http://www.coindesk.com/ripple-creator-500000-xrp-donation-ai-research-charity/ |date=January 19, 2014 |title=Ripple Creator Donates $500k in XRP to Artificial Intelligence Research Charity |author=Jon Southurst |publisher=CoinDesk |accessdate=July 6, 2017}}</ref>
+|-
 | 2014 || {{dts|February 1}} || || ''Smarter Than Us: The Rise of Machine Intelligence'' by Stuart Armstrong is published by MIRI.<ref>{{cite web |url=https://www.amazon.com/Smarter-Than-Us-Machine-Intelligence-ebook/dp/B00IB4N4KU |title=Smarter Than Us: The Rise of Machine Intelligence, Stuart Armstrong |publisher=Amazon.com |accessdate=July 1, 2017 |quote=Publisher: Machine Intelligence Research Institute (February 1, 2014)}}</ref>
 |-
 | 2014 || {{dts|May 3}}–11 || Workshop || The 7th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
