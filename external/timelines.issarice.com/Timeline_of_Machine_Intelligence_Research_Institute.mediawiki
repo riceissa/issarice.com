@@ -156,6 +156,8 @@ This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
 |-
 | 2013 || {{dts|April 3}}–24 || Workshop || The 2nd Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
+| 2013 || {{dts|April 13}} || || MIRI publishes an update on its strategy on its blog. In the blog post, MIRI executive director Luke Muehlhauser states that MIRI plans to put less effort into public outreach and shift its research to Friendly AI math research.<ref>{{cite web |url=https://intelligence.org/2013/04/13/miris-strategy-for-2013/ |title=MIRI's Strategy for 2013 |author=Luke Muehlhauser |publisher=Machine Intelligence Research Institute |date=December 11, 2013 |accessdate=July 6, 2017}}</ref>
+|-
 | 2013 || {{dts|July 4}} || Social media || MIRI's Twitter account, MIRIBerkeley, is created.<ref>{{cite web |url=https://twitter.com/MIRIBerkeley |title=MIRI (@MIRIBerkeley) |publisher=Twitter |accessdate=July 1, 2017}}</ref>
 |-
 | 2013 || {{dts|July 4}} || Social media || The earliest post on MIRI's Google Plus account, IntelligenceOrg, is from this day.<ref>{{cite web |url=https://plus.google.com/+IntelligenceOrg/posts/Ge3p8fPTkQn |title=MIRI's +Luke Muehlhauser appears on "Big Picture Science" at 13:30-23:30. |accessdate=July 4, 2017}}</ref><ref>{{cite web |url=https://plus.google.com/+IntelligenceOrg |title=Machine Intelligence Research Institute - Google+ |accessdate=July 4, 2017}}</ref>
