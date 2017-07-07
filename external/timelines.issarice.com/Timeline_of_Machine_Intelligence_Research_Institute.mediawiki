@@ -299,6 +299,7 @@ Issa likes to work locally and track changes with Git, so the revision history o
 * maybe fundraisers
 * look more closely through some AMAs: [http://effective-altruism.com/ea/12r/ask_miri_anything_ama/], [http://effective-altruism.com/ea/ju/i_am_nate_soares_ama/]
 * maybe more info in this SSC post [http://slatestarcodex.com/2014/10/07/tumblr-on-miri/]
+* more links at EA Wikia page [http://effective-altruism.wikia.com/wiki/Library/Machine_Intelligence_Research_Institute]
 
 ===Timeline update strategy===
 
