@@ -200,6 +200,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2013 || {{dts|October 25}} || Social media || The MIRI YouTube account, MIRIBerkeley, is created.<ref>{{cite web |url=https://www.youtube.com/user/MIRIBerkeley/about |title=Machine Intelligence Research Institute |publisher=YouTube |accessdate=July 4, 2017 |quote=Joined Oct 25, 2013}}</ref>
 |-
+| 2013 || {{dts|October 27}} || || MIRI meets with Holden Karnofsky, Jacob Steinhardt, and Dario Amodei for a discussion about MIRI's organizational strategy.<ref>{{cite web |url=https://intelligence.org/2014/01/13/miri-strategy-conversation-with-steinhardt-karnofsky-and-amodei/ |title=MIRI strategy conversation with Steinhardt, Karnofsky, and Amodei |publisher=Machine Intelligence Research Institute |date=March 22, 2014 |accessdate=July 7, 2017}}</ref><ref>{{cite web |url=http://www.openphilanthropy.org/research/cause-reports/ai-risk |title=Potential Risks from Advanced Artificial Intelligence |publisher=Open Philanthropy Project |accessdate=July 7, 2017}}</ref>
+|-
 | 2013 || {{dts|November 23}}–29 || Workshop || The 5th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
 | 2013 || {{dts|December 14}}–20 || Workshop || The 6th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" /> This is the first workshop attended by Nate Soares (at Google at the time), who would later becomes executive director of MIRI.<ref name="soares_taking_the_reins_at_miri" />
