@@ -302,6 +302,7 @@ Issa likes to work locally and track changes with Git, so the revision history o
 * more links at EA Wikia page [http://effective-altruism.wikia.com/wiki/Library/Machine_Intelligence_Research_Institute]
 * lots of things from strategy updates, annual reviews, etc. [https://intelligence.org/2016/08/05/miri-strategy-update-2016/]
 * Ben Goertzel talks about his involvement with MIRI [https://multiverseaccordingtoben.blogspot.com/2010/10/singularity-institutes-scary-idea-and.html]
+* giant thread on Ozy's blog [https://thingofthings.wordpress.com/2016/02/17/concerning-miris-place-in-the-ea-movement/]
 
 ===Timeline update strategy===
 
