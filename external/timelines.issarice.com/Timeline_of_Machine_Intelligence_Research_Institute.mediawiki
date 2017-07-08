@@ -240,7 +240,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2015 || {{dts|June 26}}–28 || Workshop || The 1st Introductory Workshop on Vingean Reflection takes place.<ref name="workshops" />
 |-
-| 2015 || {{dts|July 7}}–26 || || The MIRI Summer Fellows program 2015, run by the Center for Applied Rationality, takes place.<ref>{{cite web |url=https://web.archive.org/web/20150717025843/http://rationality.org/miri-summer-fellows-2015 |publisher=CFAR |title=MIRI Summer Fellows 2015 |publisher=CFAR |date=June 21, 2015 |accessdate=July 8, 2017}}</ref>
+| 2015 || {{dts|July 7}}–26 || || The MIRI Summer Fellows program 2015, run by the Center for Applied Rationality, takes place.<ref>{{cite web |url=https://web.archive.org/web/20150717025843/http://rationality.org/miri-summer-fellows-2015 |publisher=CFAR |title=MIRI Summer Fellows 2015 |publisher=CFAR |date=June 21, 2015 |accessdate=July 8, 2017}}</ref> This program is apparently "relatively successful at recruiting staff for MIRI".<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 8, 2017 |quote=We have some doubts about CFAR's management and operations, and we see CFAR as having made only limited improvements over the last two years, with the possible exception of running the MIRI Summer Fellows Program in 2015, which we understand to have been relatively successful at recruiting staff for MIRI.}}</ref>
 |-
 | 2015 || {{dts|August 7}}–9 || Workshop || The 2nd Introductory Workshop on Logical Uncertainty takes place.<ref name="workshops" />
 |-
