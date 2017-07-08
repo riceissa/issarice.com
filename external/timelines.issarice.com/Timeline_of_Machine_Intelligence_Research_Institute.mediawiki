@@ -112,6 +112,10 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2008 || || Publication || "The Simple Truth" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/the-simple-truth |title=Yudkowsky - The Simple Truth |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute.}}</ref>
 |-
+| 2008 || || || MIRI expands its Interview Series.<ref name="siai_an_examination" />
+|-
+| 2008 || || || MIRI begins its summer intern program.<ref name="siai_an_examination" />
+|-
 | 2008 || || || [[wikipedia:OpenCog|OpenCog]] is founded "via a grant from the [MIRI], and the donation from Novamente LLC of a large body of software code and software designs developed during the period 2001–2007".<ref>{{cite web |url=http://opencog.org/about/ |publisher=OpenCog Foundation |title=About |accessdate=July 6, 2017}}</ref> (See also [[wikipedia:OpenCog#Relation to Singularity Institute|OpenCog § Relation to Singularity Institute]].)
 |-
 | 2008 || {{dts|October 25}} || Conference || The Singularity Summit 2008 takes place in San Jose.<ref>{{cite web |url=https://web.archive.org/web/20090608082235/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2008: Opportunity, Risk, Leadership &gt; Program |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.mercurynews.com/2008/10/23/annual-a-i-conference-to-be-held-this-saturday-in-san-jose/ |title=Annual A.I. conference to be held this Saturday in San Jose |date=October 23, 2008 |author=Elise Ackerman |publisher=The Mercury News |accessdate=July 5, 2017}}</ref>
