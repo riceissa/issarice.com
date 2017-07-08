@@ -18,6 +18,10 @@ This is a '''timeline of '''.
 
 ===How the timeline was built===
 
+The initial version of the timeline was written by [[User:|]].
+
+[https://contractwork.vipulnaik.com/tasks.php?receptacle={{urlencode:{{PAGENAME}}}}&matching=exact Funding information for this timeline] <!-- No need to modify this time. The title of the page will automatically be filled by MediaWiki, and the funding information will be available at the destination once payment is finalized. -->
+
 ===What the timeline is still missing===
 
 ===Timeline update strategy===
