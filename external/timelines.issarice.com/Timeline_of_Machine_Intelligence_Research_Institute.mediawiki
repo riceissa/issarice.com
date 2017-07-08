@@ -140,6 +140,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2009 || {{dts|October 3}}–4 || Conference || The Singularity Summit 2009 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20091217213848/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2009 &gt; Program |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.popsci.com/scitech/article/2009-10/singularity-summit-2009-singularity-near |publisher=Popular Science |title=Singularity Summit 2009: The Singularity Is Near |accessdate=June 30, 2017 |date=October 2, 2009 |author=Stuart Fox}}</ref>
 |-
+| 2009 || {{dts|November}} || || "Misappropriation of assets, by a contractor, was discovered in November 2009."<ref>{{cite web |url=https://intelligence.org/files/2009-SIAI990.pdf |title=Form 990 2009 |accessdate=July 8, 2017}}</ref>
+|-
 | 2009 || {{dts|December}} || Staff || Amy Willey joins MIRI as Chief Compliance Officer.<ref name="siai_accomplishments_20110621" />
 |-
 | 2009 || {{dts|December 11}} || Influence || The third edition of ''[[wikipedia:Artificial Intelligence: A Modern Approach|Artificial Intelligence: A Modern Approach]]'' by [[wikipedia:Stuart J. Russell|Stuart J. Russell]] and [[wikipedia:Peter Norvig|Peter Norvig]] is published. In this edition, for the first time, Friendly AI is mentioned and Eliezer Yudkowsky is cited.
