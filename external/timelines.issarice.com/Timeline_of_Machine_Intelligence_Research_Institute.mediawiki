@@ -86,6 +86,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2005 || || || MIRI does "AI and existential risk presentations at Stanford, Immortality Institute's Life Extension Conference, and the Terasem Foundation".<ref name="siai_an_examination" />
 |-
+| 2005 || || || Eliezer Yudkowsky writes chapters for ''[[wikipedia:Global Catastrophic Risks (book)|Global Catastrophic Risks]]'', edited by [[wikipedia:Nick Bostrom|Nick Bostrom]] and Milan M. Ćirković.<ref name="siai_an_examination" /> The book would be published in 2008.
+|-
 | 2005 || {{dts|February 2}} || || MIRI relocates to the Bay Area of California.<ref name="singinst_feb_2006_news" />
 |-
 | 2005 || {{dts|July 22}}–24 || Conference || TransVision 2005 takes place in Caracas, Venezuela. MIRI is a sponsor for the event.<ref name="singinst_feb_2006_news" />
