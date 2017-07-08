@@ -102,6 +102,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2006 || {{dts|November}} || || [[wikipedia:Robin Hanson|Robin Hanson]] starts ''[[wikipedia:Overcoming Bias|Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
 |-
+| 2007 || || || MIRI's organization mission ("Organization's Primary Exempt Purpose" on Form 990) changes to: "To develop safe, stable and self-modifying Artificial General Intelligence. And to support novel research and to foster the creation of a research community focused on Artificial General Intelligence and Safe and Friendly Artificial Intelligence."<ref>{{cite web |url=https://intelligence.org/files/2007-SIAI990.pdf |title=Form 990 2007 |accessdate=July 8, 2017}}</ref>
+|-
 | 2007 || || || MIRI's outreach blog is started.<ref name="siai_an_examination" />
 |-
 | 2007 || || || MIRI's Interview Series is started.<ref name="siai_an_examination" />
