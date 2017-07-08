@@ -240,6 +240,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2015 || {{dts|June 26}}–28 || Workshop || The 1st Introductory Workshop on Vingean Reflection takes place.<ref name="workshops" />
 |-
+| 2015 || {{dts|July 7}}–26 || || The MIRI Summer Fellows program 2015, run by the Center for Applied Rationality, takes place.<ref>{{cite web |url=https://web.archive.org/web/20150717025843/http://rationality.org/miri-summer-fellows-2015 |publisher=CFAR |title=MIRI Summer Fellows 2015 |publisher=CFAR |date=June 21, 2015 |accessdate=July 8, 2017}}</ref>
+|-
 | 2015 || {{dts|August 7}}–9 || Workshop || The 2nd Introductory Workshop on Logical Uncertainty takes place.<ref name="workshops" />
 |-
 | 2015 || {{dts|August 28}}–30 || Workshop || The 3rd Introductory Workshop on Logical Decision Theory takes place.<ref name="workshops" />
