@@ -315,16 +315,17 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 ===What the timeline is still missing===
 
-* mention peter thiel
-* mention kurzweil
-* maybe include some of the largest donations (e.g. the XRP/ETH ones, tallinn, thiel)
-* maybe fundraisers
-* look more closely through some AMAs: [http://effective-altruism.com/ea/12r/ask_miri_anything_ama/], [http://effective-altruism.com/ea/ju/i_am_nate_soares_ama/]
-* maybe more info in this SSC post [http://slatestarcodex.com/2014/10/07/tumblr-on-miri/]
-* more links at EA Wikia page [http://effective-altruism.wikia.com/wiki/Library/Machine_Intelligence_Research_Institute]
-* lots of things from strategy updates, annual reviews, etc. [https://intelligence.org/2016/08/05/miri-strategy-update-2016/]
-* Ben Goertzel talks about his involvement with MIRI [https://multiverseaccordingtoben.blogspot.com/2010/10/singularity-institutes-scary-idea-and.html]
-* giant thread on Ozy's blog [https://thingofthings.wordpress.com/2016/02/17/concerning-miris-place-in-the-ea-movement/]
+* TODO Figure out how to cover publications
+* TODO mention peter thiel
+* TODO mention kurzweil
+* TODO maybe include some of the largest donations (e.g. the XRP/ETH ones, tallinn, thiel)
+* TODO maybe fundraisers
+* TODO look more closely through some AMAs: [http://effective-altruism.com/ea/12r/ask_miri_anything_ama/], [http://effective-altruism.com/ea/ju/i_am_nate_soares_ama/]
+* TODO maybe more info in this SSC post [http://slatestarcodex.com/2014/10/07/tumblr-on-miri/]
+* TODO more links at EA Wikia page [http://effective-altruism.wikia.com/wiki/Library/Machine_Intelligence_Research_Institute]
+* TODO lots of things from strategy updates, annual reviews, etc. [https://intelligence.org/2016/08/05/miri-strategy-update-2016/]
+* TODO Ben Goertzel talks about his involvement with MIRI [https://multiverseaccordingtoben.blogspot.com/2010/10/singularity-institutes-scary-idea-and.html]
+* TODO giant thread on Ozy's blog [https://thingofthings.wordpress.com/2016/02/17/concerning-miris-place-in-the-ea-movement/]
 
 ===Timeline update strategy===
 
