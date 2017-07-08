@@ -102,6 +102,12 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2006 || {{dts|November}} || || [[wikipedia:Robin Hanson|Robin Hanson]] starts ''[[wikipedia:Overcoming Bias|Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
 |-
+| 2007 || || || MIRI's outreach blog is started.<ref name="siai_an_examination" />
+|-
+| 2007 || || || MIRI's Interview Series is started.<ref name="siai_an_examination" />
+|-
+| 2007 || {{dts|May 16}} || || MIRI's introductory video is published on YouTube.<ref>{{cite web |url=https://www.youtube.com/watch?v=0A9pGhwQbS0 |title=Singularity Institute for Artificial Intelligence |publisher=YouTube |accessdate=July 8, 2017}}</ref><ref name="siai_an_examination" />
+|-
 | 2007 || {{dts|September 8}}–9  || Conference || The Singularity Summit 2007 takes place in the San Francisco Bay Area.<ref name="miri_singularity_summit" /><ref>{{cite web |url=https://web.archive.org/web/20080331205725/http://www.singinst.org:80/summit2007/ |title=The Singularity Summit 2007 |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.foxnews.com/story/2007/09/12/scientists-fear-day-computers-become-smarter-than-humans.html |title=Scientists Fear Day Computers Become Smarter Than Humans |publisher=Fox News |accessdate=July 5, 2017 |date=September 12, 2007 |quote=futurists gathered Saturday for a weekend conference}}</ref>
 |-
 | 2008 || || Publication || "The Simple Truth" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/the-simple-truth |title=Yudkowsky - The Simple Truth |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute.}}</ref>
