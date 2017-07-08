@@ -122,6 +122,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2008 || {{dts|November}}–December || || The AI-Foom debate between Robin Hanson and Eliezer Yudkowsky takes place. The blog posts from the debate would later be turned into an ebook by MIRI.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate |title=The Hanson-Yudkowsky AI-Foom Debate |website=Lesswrongwiki |accessdate=July 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2009 || || || MIRI establishes the Visiting Fellows Program.<ref name="siai_an_examination" />
+|-
 | 2009 (early) || || Staff || Executive director Tyler Emerson departs MIRI.<ref name="siai_accomplishments_20110621">{{cite web |url=https://web.archive.org/web/20110621192259/http://singinst.org/achievements |title=Recent Singularity Institute Accomplishments |publisher=Singularity Institute for Artificial Intelligence |accessdate=July 6, 2017}}</ref>
 |-
 | 2009 (early) || || Staff || Michael Anissimov is hired as a media director.<ref name="siai_accomplishments_20110621" /> (Since he was advocacy director as far back as 2004, it's not clear if he left the organization and came back, or if just changed positions.)
