@@ -8,6 +8,7 @@ The following are some interesting questions that can be answered by reading thi
 
 * Which Singularity Summits did MIRI host, and when did they happen?
 * What was MIRI up to for the first ten years of its existence (before Luke Muehlhauser joined, before Holden Karnofsky wrote his critique of the organization)?
+* How has MIRI's explicit mission changed over the years? (Sort by the "Event type" column and look at the rows labeled "Mission".)
 
 The following are some interesting questions that are difficult or impossible to answer just by reading the current version of this timeline, but might be possible to answer using a future version of this timeline:
 
