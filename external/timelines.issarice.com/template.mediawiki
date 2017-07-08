@@ -20,7 +20,7 @@ This is a '''timeline of FIXME'''.
 
 The initial version of the timeline was written by [[User:FIXME|FIXME]].
 
-[https://contractwork.vipulnaik.com/tasks.php?receptacle={{urlencode:{{PAGENAME}}}}&matching=exact Funding information for this timeline] is available. <!-- No need to modify this time. The title of the page will automatically be filled by MediaWiki, and the funding information will be available at the destination once payment is finalized. -->
+[https://contractwork.vipulnaik.com/tasks.php?receptacle={{urlencode:{{PAGENAME}}}}&matching=exact Funding information for this timeline] is available. <!-- No need to modify this line. The title of the page will automatically be filled by MediaWiki, and the funding information will be available at the destination once payment is finalized. -->
 
 ===What the timeline is still missing===
 
