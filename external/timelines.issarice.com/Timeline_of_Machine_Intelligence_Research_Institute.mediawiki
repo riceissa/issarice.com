@@ -244,6 +244,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2015 || {{dts|August 28}}–30 || Workshop || The 3rd Introductory Workshop on Logical Decision Theory takes place.<ref name="workshops" />
 |-
+| 2016 || || || MIRI pays Eliezer Yudkowsky to produce AI risk content for Arbital.<ref>{{cite web |url=http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/ |title=2017 AI Risk Literature Review and Charity Comparison |publisher=Effective Altruism Forum |author=Larks |date=December 13, 2016 |accessdate=July 8, 2017}}</ref> (Not sure if there are any more details of this available.)
+|-
 | 2016 || {{dts|April 1}}–3 || Workshop || The Self-Reference, Type Theory, and Formal Verification takes place.<ref name="workshops" />
 |-
 | 2016 || {{dts|May 28}}–29 || Workshop || The Colloquium Series on Robust and Beneficial AI (CSRBAI) Workshop on Transparency takes place.<ref name="workshops" />
