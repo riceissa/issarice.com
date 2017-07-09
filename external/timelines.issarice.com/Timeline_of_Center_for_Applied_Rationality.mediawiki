@@ -12,6 +12,7 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2011 || {{dts|July 26}} || || CFAR, at the time called the Feynman Foundation, is approved by the US Internal Revenue Service as 501(c)(3) nonprofit.<ref>{{cite web |url=http://www.rationality.org/files/center-for-applied-rationality-nonprofit-irs-approval.pdf |title=Center for Applied Rationality Nonprofit IRS Approval |accessdate=July 8, 2017}}</ref>
 |}
 
 ==Meta information on the timeline==
