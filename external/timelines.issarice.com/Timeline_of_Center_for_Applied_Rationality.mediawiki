@@ -22,6 +22,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2012 || {{dts|June 22}}–24 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
 |-
+| 2012 || {{dts|July 7}} || || CFAR's Twitter account, CFARnews, is created.<ref>{{cite web |url=https://twitter.com/cfarnews |title=CFAR news (@CFARnews) |publisher=Twitter |accessdate=July 11, 2017}}</ref>
+|-
 | 2012 || {{dts|July 10}} || || The CFAR Articles of Incorporation are amended to rename the corporation from "Feynman Foundation" to "Center For Applied Rationality".<ref name="articles-of-incorporation" />
 |-
 | 2012 || {{dts|July 21}}–28 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
