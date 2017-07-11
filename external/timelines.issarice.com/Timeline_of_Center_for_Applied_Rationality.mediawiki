@@ -16,7 +16,13 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2011 || {{dts|July 26}} || || CFAR, at the time called the Feynman Foundation, is approved by the US Internal Revenue Service as a 501(c)(3) nonprofit.<ref>{{cite web |url=http://www.rationality.org/files/center-for-applied-rationality-nonprofit-irs-approval.pdf |title=Center for Applied Rationality Nonprofit IRS Approval |accessdate=July 8, 2017}}</ref>
 |-
+| 2012 || {{dts|May 11}}–13 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps">{{cite web |url=http://lesswrong.com/lw/b98/minicamps_on_rationality_and_awesomeness_may_1113/ |title=Minicamps on Rationality and Awesomeness: May 11-13, June 22-24, and July 21-28 |date=March 29, 2012 |author=Anna Salamon |accessdate=July 11, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
+| 2012 || {{dts|June 22}}–24 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
+|-
 | 2012 || {{dts|July 10}} || || The CFAR Articles of Incorporation are amended to rename the corporation from "Feynman Foundation" to "Center For Applied Rationality".<ref name="articles-of-incorporation" />
+|-
+| 2012 || {{dts|July 21}}–28 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
 |-
 | 2016 || {{dts|May}} || || The Open Philanthropy Project awards a grant of $304,000 over two years to CFAR's Summer Program on Applied Rationality and Cognition (SPARC).<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-sparc |title=Center for Applied Rationality — SPARC |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
 |-
