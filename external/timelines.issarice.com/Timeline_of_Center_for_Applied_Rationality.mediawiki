@@ -17,6 +17,10 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 | 2011 || {{dts|July 26}} || || CFAR, at the time called the Feynman Foundation, is approved by the US Internal Revenue Service as a 501(c)(3) nonprofit.<ref>{{cite web |url=http://www.rationality.org/files/center-for-applied-rationality-nonprofit-irs-approval.pdf |title=Center for Applied Rationality Nonprofit IRS Approval |accessdate=July 8, 2017}}</ref>
 |-
 | 2012 || {{dts|July 10}} || || The CFAR Articles of Incorporation are amended to rename the corporation from "Feynman Foundation" to "Center For Applied Rationality".<ref name="articles-of-incorporation" />
+|-
+| 2016 || {{dts|May}} || || The Open Philanthropy Project awards a grant of $304,000 over two years to CFAR's Summer Program on Applied Rationality and Cognition (SPARC).<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-sparc |title=Center for Applied Rationality — SPARC |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
+|-
+| 2016 || {{dts|July}} || || The Open Philanthropy Project awards a grant of $1,035,000 over two years to CFAR.<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
 |}
 
 ==Meta information on the timeline==
