@@ -26,6 +26,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2012 || {{dts|July 21}}–28 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
 |-
+| 2015 || {{dts|July 7}}–26 || || A CFAR-run MIRI Summer Fellows program takes place.<ref>{{cite web |url=http://lesswrong.com/lw/m3h/cfarrun_miri_summer_fellows_program_july_726/ |title=CFAR-run MIRI Summer Fellows program: July 7-26 |author=Anna Salamon |date=April 28, 2015 |accessdate=July 11, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2016 || {{dts|May}} || || The Open Philanthropy Project awards a grant of $304,000 over two years to CFAR's Summer Program on Applied Rationality and Cognition (SPARC).<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-sparc |title=Center for Applied Rationality — SPARC |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
 |-
 | 2016 || {{dts|July}} || || The Open Philanthropy Project awards a grant of $1,035,000 over two years to CFAR.<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
