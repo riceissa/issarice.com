@@ -18,6 +18,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2011 || {{dts|July 26}} || || CFAR, at the time called the Feynman Foundation, is approved by the US Internal Revenue Service as a 501(c)(3) nonprofit.<ref>{{cite web |url=http://www.rationality.org/files/center-for-applied-rationality-nonprofit-irs-approval.pdf |title=Center for Applied Rationality Nonprofit IRS Approval |accessdate=July 8, 2017}}</ref>
 |-
+| 2012 || {{dts|May 8}} || || MIRI's April 2012 progress report is published, in which CFAR's name is announced. Until this point, CFAR was known as the "Rationality Group" or "Rationality Org".<ref>{{cite web |url=https://intelligence.org/2012/05/08/singularity-institute-progress-report-april-2012/ |title=Machine Intelligence Research Institute Progress Report, April 2012 |publisher=Machine Intelligence Research Institute |date=May 8, 2012 |author=Louie Helm |accessdate=June 30, 2017}}</ref>
+|-
 | 2012 || {{dts|May 11}}–13 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps">{{cite web |url=http://lesswrong.com/lw/b98/minicamps_on_rationality_and_awesomeness_may_1113/ |title=Minicamps on Rationality and Awesomeness: May 11-13, June 22-24, and July 21-28 |date=March 29, 2012 |author=Anna Salamon |accessdate=July 11, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2012 || {{dts|June 22}}–24 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
@@ -29,6 +31,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 | 2012 || {{dts|July 21}}–28 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
 |-
 | 2015 || {{dts|July 7}}–26 || || A CFAR-run MIRI Summer Fellows program takes place.<ref>{{cite web |url=http://lesswrong.com/lw/m3h/cfarrun_miri_summer_fellows_program_july_726/ |title=CFAR-run MIRI Summer Fellows program: July 7-26 |author=Anna Salamon |date=April 28, 2015 |accessdate=July 11, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
+| 2015 || {{dts|July 7}}–26 || || The MIRI Summer Fellows program 2015, run by the Center for Applied Rationality, takes place.<ref>{{cite web |url=https://web.archive.org/web/20150717025843/http://rationality.org/miri-summer-fellows-2015 |title=MIRI Summer Fellows 2015 |publisher=CFAR |date=June 21, 2015 |accessdate=July 8, 2017}}</ref> This program is apparently "relatively successful at recruiting staff for MIRI".<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 8, 2017 |quote=We have some doubts about CFAR's management and operations, and we see CFAR as having made only limited improvements over the last two years, with the possible exception of running the MIRI Summer Fellows Program in 2015, which we understand to have been relatively successful at recruiting staff for MIRI.}}</ref>
 |-
 | 2016 || {{dts|May}} || || The Open Philanthropy Project awards a grant of $304,000 over two years to CFAR's Summer Program on Applied Rationality and Cognition (SPARC).<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-sparc |title=Center for Applied Rationality — SPARC |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
 |-
