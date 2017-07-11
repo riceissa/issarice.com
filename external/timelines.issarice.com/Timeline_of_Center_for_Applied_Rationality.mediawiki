@@ -12,6 +12,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2011 (summer) || || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
+|-
 | 2011 || {{dts|July 18}} || || The Articles of Incorporation for CFAR, at the time called the Feynman Foundation, are written. It would be approved on July 26.<ref name="articles-of-incorporation">{{cite web |url=http://www.rationality.org/files/center-for-applied-rationality-articles-of-incorporation.pdf |title=Articles of Incorporation Of Feynman Foundation |accessdate=July 9, 2017}}</ref>
 |-
 | 2011 || {{dts|July 26}} || || CFAR, at the time called the Feynman Foundation, is approved by the US Internal Revenue Service as a 501(c)(3) nonprofit.<ref>{{cite web |url=http://www.rationality.org/files/center-for-applied-rationality-nonprofit-irs-approval.pdf |title=Center for Applied Rationality Nonprofit IRS Approval |accessdate=July 8, 2017}}</ref>
