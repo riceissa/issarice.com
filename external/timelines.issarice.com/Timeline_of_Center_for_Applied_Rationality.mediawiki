@@ -36,6 +36,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2013 || {{dts|December 28}} || || Annual fundraising post is published on LessWrong making the case for why one should donate to CFAR.<ref name="why-cfar">{{cite web |url=http://lesswrong.com/lw/jej/why_cfar/ |title=Why CFAR? |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2014 || {{dts|August 4}}–16 || || SPARC 2014 takes place.<ref>{{cite web |url=https://web.archive.org/web/20140305084515/http://sparc-camp.org:80/ |title=SPARC {{!}} Summer Program in Applied Rationality and Cognition |accessdate=July 12, 2017}}</ref>
+|-
 | 2014 || {{dts|October 25}}–26 || || As an experimental "beta test", a lower-cost, 1.5-day workshop takes place in the Bay Area.<ref name="salamon-lower-cost-and-europe" />
 |-
 | 2014 || {{dts|November}} || || First workshops in Europe take place in the UK.<ref name="salamon-lower-cost-and-europe">{{cite web |url=http://lesswrong.com/lw/l26/upcoming_cfar_events_lowercost_bay_area_intro/ |title=Upcoming CFAR events: Lower-cost bay area intro workshop; EU workshops; and others |date=October 2, 2014 |author=Anna Salamon |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
