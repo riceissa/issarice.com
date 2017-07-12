@@ -32,13 +32,13 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2012 || {{dts|July 21}}–28 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
 |-
-| 2013 || {{dts|December 28}} || || Annual fundraising post is published on LessWrong making the case for why one should donate to CFAR.<ref>{{cite web |url=http://lesswrong.com/lw/jej/why_cfar/ |title=Why CFAR? |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| 2013 || {{dts|December 28}} || || Annual fundraising post is published on LessWrong making the case for why one should donate to CFAR.<ref name="why-cfar">{{cite web |url=http://lesswrong.com/lw/jej/why_cfar/ |title=Why CFAR? |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2014 || {{dts|October 25}}–26 || || As an experimental "beta test", a lower-cost, 1.5-day workshop takes place in the Bay Area.<ref name="salamon-lower-cost-and-europe" />
 |-
 | 2014 || {{dts|November}} || || First workshops in Europe take place in the UK.<ref name="salamon-lower-cost-and-europe">{{cite web |url=http://lesswrong.com/lw/l26/upcoming_cfar_events_lowercost_bay_area_intro/ |title=Upcoming CFAR events: Lower-cost bay area intro workshop; EU workshops; and others |date=October 2, 2014 |author=Anna Salamon |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
-| 2014 || {{dts|December 26}} || || Annual review/fundraising post is published on LessWrong.<ref>{{cite web |url=http://lesswrong.com/lw/lfg/cfar_in_2014_continuing_to_climb_out_of_the/ |title=CFAR in 2014: Continuing to climb out of the startup pit, heading toward a full prototype |author=Anna Salamon |date=December 26, 2014 |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| 2014 || {{dts|December 26}} || || Annual review/fundraising post is published on LessWrong.<ref name="cfar-in-2014">{{cite web |url=http://lesswrong.com/lw/lfg/cfar_in_2014_continuing_to_climb_out_of_the/ |title=CFAR in 2014: Continuing to climb out of the startup pit, heading toward a full prototype |author=Anna Salamon |date=December 26, 2014 |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2015 || {{dts|July 7}}–26 || || The CFAR-run MIRI Summer Fellows program 2015 takes place.<ref>{{cite web |url=https://web.archive.org/web/20150717025843/http://rationality.org/miri-summer-fellows-2015 |title=MIRI Summer Fellows 2015 |publisher=CFAR |date=June 21, 2015 |accessdate=July 8, 2017}}</ref><ref>{{cite web |url=http://lesswrong.com/lw/m3h/cfarrun_miri_summer_fellows_program_july_726/ |title=CFAR-run MIRI Summer Fellows program: July 7-26 |author=Anna Salamon |date=April 28, 2015 |accessdate=July 11, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> This program is apparently "relatively successful at recruiting staff for MIRI".<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 8, 2017 |quote=We have some doubts about CFAR's management and operations, and we see CFAR as having made only limited improvements over the last two years, with the possible exception of running the MIRI Summer Fellows Program in 2015, which we understand to have been relatively successful at recruiting staff for MIRI.}}</ref>
 |-
@@ -47,6 +47,16 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 | 2016 || {{dts|July}} || || The Open Philanthropy Project awards a grant of $1,035,000 over two years to CFAR.<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
 |-
 | 2017 || {{dts|January}} || || CFAR publishes case studies on its impact on existential risk. The report covers Machine Intelligence Research Institute (MIRI), Future of Life Institute (FLI), and Arbital (an online discussion platform).<ref>{{cite web |url=http://rationality.org/studies/2016-case-studies |title=Case Studies Highlighting CFAR's Impact on Existential Risk |publisher=Center for Applied Rationality |accessdate=July 12, 2017}}</ref>
+|}
+
+==Workshops==
+
+{| class="sortable wikitable"
+! Year !! Number of workshops !! Sources
+|-
+| 2013 || 7 || <ref name="why-cfar" />
+|-
+| 2014 || 9 || <ref name="cfar-in-2014" />
 |}
 
 ==Meta information on the timeline==
