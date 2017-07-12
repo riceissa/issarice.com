@@ -12,6 +12,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2011 || || || "Over the years, Yudkowsky found that people struggled to think clearly about A.I. risk and were often dismissive of it. In 2011, Salamon, who had been working at MIRI since 2008, volunteered to figure out how to overcome that problem."<ref>{{cite web |url=https://www.nytimes.com/2016/01/17/magazine/the-happiness-code.html |date=January 14, 2016 |publisher=[[wikipedia:The New York Times|The New York Times]] |title=The Happiness Code: A new approach to self-improvement is taking off in Silicon Valley: cold, hard rationality. |author=Jennifer Kahn |accessdate=July 12, 2017}}</ref>
+|-
 | 2011 (summer) || || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
 |-
 | 2011 || {{dts|July 18}} || || The Articles of Incorporation for CFAR, at the time called the Feynman Foundation, are written. It would be approved on July 26.<ref name="articles-of-incorporation">{{cite web |url=http://www.rationality.org/files/center-for-applied-rationality-articles-of-incorporation.pdf |title=Articles of Incorporation Of Feynman Foundation |accessdate=July 9, 2017}}</ref>
