@@ -63,6 +63,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 
 ==Workshops==
 
+I haven't found numbers for other years, but their [http://rationality.org/ home page] says 909 workshop alumni on 2017-07-12. The [http://rationality.org/workshops/faq#how-many-people-will-be-at-my-workshop workshop FAQ] says "Workshop size varies, but most are around 32 participants. Some are up to 60 participants." So that means maybe around 28 workshops have been conducted in all? It looks like older workshops only had 25 participants, so that could mean up to 36 workshops in all. And there have been at least 20 workshops, from those listed below.
+
 {| class="sortable wikitable"
 ! Year !! Number of workshops !! Sources
 |-
