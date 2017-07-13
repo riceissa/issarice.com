@@ -31,3 +31,19 @@ Questions about cfar i had while working on the timeline of cfar.
 
 * So one thing that I would *like* to cover on the CFAR timeline is when various techniques came along
   like when was "double crux" invented? when did murphyjitsu come along? etc.
+
+* From the website http://rationality.org/ on 2017-07-12:
+
+  """Number of workshop alumni
+
+  909 and counting"""
+
+  On the other hand, from the 2015 review
+  http://lesswrong.com/lw/n39/why_cfar_the_view_from_2015/
+
+  """With the help of that new outreach team, we hope to add on the order of
+  1,000 new alumni in 2016, increasing our total throughput by nearly an order
+  of magnitude."""
+
+  So CFAR was trying to add 1000 new alumni in 2016 alone, and yet, in
+  mid-2017, their total alumni from all years is only 909? What gives?
