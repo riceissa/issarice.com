@@ -96,6 +96,7 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 ===What the timeline is still missing===
 
 * CFAR apparently ran a rationality dojo; any more info on this?<ref name="salamon-lower-cost-and-europe" />
+* Timeline should probably mention some co-founders/early people, like Julia Galef, Andrew Critch, and Eliezer Yudkowsky
 
 ===Timeline update strategy===
 
