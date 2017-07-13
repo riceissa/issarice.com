@@ -97,7 +97,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2005 || {{dts|August 21}} || AI box || The third AI box experiment by Eliezer Yudkowsky, against Carl Shulman as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://sl4.org/archive/0508/index.html#12007 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
-| 2005–2006 || {{dts|December 20, 2005}}{{snd}}{{dts|February 19, 2006}} || || The 2006 $100,000 Singularity Challenge, a fundraiser in which [[wikipedia:Peter Thiel|Peter Thiel]] matches donations up to $100,000, takes place.<ref name="singinst_feb_2006_news" /><ref>{{cite web |url=https://web.archive.org/web/20060207074758/http://www.singinst.org:80/challenge/ |title=The Singularity Institute for Artificial Intelligence - 2006 $100,000 Singularity Challenge |accessdate=July 5, 2017}}</ref>
+| 2005–2006 || {{dts|December 20, 2005}}{{snd}}{{dts|February 19, 2006}} || || The 2006 $100,000 Singularity Challenge, a fundraiser in which [[wikipedia:Peter Thiel|Peter Thiel]] matches donations up to $100,000, takes place. The fundraiser successfully matches the $100,000 amount.<ref name="singinst_feb_2006_news" /><ref>{{cite web |url=https://web.archive.org/web/20060207074758/http://www.singinst.org:80/challenge/ |title=The Singularity Institute for Artificial Intelligence - 2006 $100,000 Singularity Challenge |accessdate=July 5, 2017}}</ref>
 |-
 | 2006 || || Publication || "Twelve Virtues of Rationality" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/virtues |title=Twelve Virtues of Rationality |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute.}}</ref>
 |-
