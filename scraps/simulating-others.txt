@@ -13,3 +13,9 @@ Vipul Naik:
 > How would the sequence of actions look if one stepped back from the situation? How would my actions look to my future self? How would they look to my past self? How would they look to somebody who was far less privileged than I was, observing me? How would they look to a hypothetical God, if he/she existed? How would they look to somebody who held me in high esteem (a friend, mentor, mentee, or business associate)? How would they look to a person who mistrusted or disliked me and was looking for material to prove the point?
 
 source: https://www.quora.com/What-are-some-general-principles-that-Vipul-Naik-follows/answer/Vipul-Naik
+
+CFAR also teaches a technique called "Inner Simulator":
+
+> Each of us carries a rich, vibrant model of the universe in our heads, giving us access to quick, gut-level predictions ranging from where a flying ball will land to how a peer will react to a given sentence or tone of voice. Our first lesson outlines the strengths and weaknesses of participants’ inner simulators, and provides models for when and how to use them (versus when to be suspicious of them).
+
+source: http://rationality.org/workshops/sample-schedule
