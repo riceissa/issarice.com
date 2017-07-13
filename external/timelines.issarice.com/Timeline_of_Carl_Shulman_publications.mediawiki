@@ -105,6 +105,8 @@ The "Word count" column was produced by the simple process of copying the text o
 | data-sort-value="95" | 4, 91
 | 600
 |-
+| 2012 || {{dts|December 8}}–11 || Paper/presentation || AGI Impacts conference || || "Could We Use Untrustworthy Human Brain Emulations to Make Trustworthy Ones?" is presented. Nick Bostrom calls this a "paper" in the bibliography of ''Superintelligence'', but Google (and Google Scholar) turns up only the video presentation.<ref>{{cite web |url=https://www.youtube.com/watch?v=90jE__TesFk |title=Carl Shulman -Could we use untrustworthy human brain emulations to make trustworthy ones? |publisher=YouTube |date=May 4, 2013 |accessdate=July 13, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20121130141340/http://www.winterintelligence.org/agi-impacts-extended-abstracts/ |title=AGI-Impacts: Extended Abstracts |publisher=Winter Intelligence Conferences |accessdate=July 13, 2017}}</ref> || || ||
+|-
 | 2012 || {{dts|December 22}} || Blog post || *Reflective Disequilibrium*, Overcoming Bias || || "Future Filter Fatalism" is published.<ref>{{cite web |url=https://reflectivedisequilibrium.blogspot.com/2012/12/future-filter-fatalism.html |title=Future Filter Fatalism |accessdate=June 5, 2017}}</ref><ref>{{cite web |url=http://www.overcomingbias.com/2012/12/future-filter-fatalism.html |title=Overcoming Bias : Future Filter Fatalism |accessdate=June 5, 2017}}</ref>
 | data-sort-value="45" | 0, 45
 | 299
