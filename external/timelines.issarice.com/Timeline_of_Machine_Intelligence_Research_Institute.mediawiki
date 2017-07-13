@@ -101,6 +101,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2006 || || Publication || "Twelve Virtues of Rationality" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/virtues |title=Twelve Virtues of Rationality |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute.}}</ref>
 |-
+| 2006 || {{dts|February 13}} || || [[wikipedia:Peter Thiel|Peter Thiel]] joins MIRI's Board of Advisors.<ref name="singinst_feb_2006_news" />
+|-
 | 2006 || {{dts|May 13}} || Conference || The first Singularity Summit takes place at Stanford University.<ref name="miri_singularity_summit">{{cite web |url=https://intelligence.org/singularitysummit/ |title=Singularity Summit |publisher=Machine Intelligence Research Institute |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.zdnet.com/article/the-great-singularity-debate/ |publisher=ZDNet |title=The great Singularity debate |author=Dan Farber |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.jerrypournelle.com/reports/jerryp/singularity.html |author=Jerry Pournelle |title=Chaos Manor Special Reports: The Stanford Singularity Summit |date=May 20, 2006 |accessdate=June 30, 2017}}</ref>
 |-
 | 2006 || {{dts|November}} || || [[wikipedia:Robin Hanson|Robin Hanson]] starts ''[[wikipedia:Overcoming Bias|Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
