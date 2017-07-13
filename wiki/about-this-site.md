@@ -127,6 +127,7 @@ I don't even remember making it).
 * 2016-03-25: The site begins using just a Makefile and Pandoc.
 * 2017-06-11: Experimental IPFS support added, e.g.
   [index page](https://ipfs.io/ipns/issarice.com/index).
+  (Update: at the moment this is broken.)
 
 This site used to be canonically available at <http://riceissa.com>, but I
 think in late 2014 I made <http://issarice.com> the canonical domain.
