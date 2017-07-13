@@ -57,11 +57,11 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2001 || {{dts|April 18}} || || Version 0.9 of "Creating Friendly AI" is released.<ref name="siai_news_archive_jun_2004">{{cite web |url=https://web.archive.org/web/20040607135521/http://singinst.org:80/news/archive.html |title=Singularity Institute for Artificial Intelligence // News // Archive |accessdate=July 13, 2017}}</ref>
 |-
-| 2001 || {{dts|July 23}} || || MIRI announces that it has formally launched the development of the Flare programming language under Dmitriy Myshkin.<ref name="singinst_jun_2003_news" />
-|-
 | 2001 || {{dts|June 14}} || || The "SIAI Guidelines on Friendly AI" are published.<ref>{{cite web |url=https://web.archive.org/web/20010805005837/http://singinst.org:80/friendly/guidelines.html |author=Singularity Institute for Artificial Intelligence |title=SIAI Guidelines on Friendly AI |accessdate=July 13, 2017}}</ref>
 |-
 | 2001 || {{dts|June 15}} || Publication || Version 1.0 of "Creating Friendly AI" is published.<ref>{{cite web |url=https://intelligence.org/files/CFAI.pdf |title=Creating Friendly AI 1.0: The Analysis and Design of Benevolent Goal Architectures |year=2001 |author=Eliezer Yudkowsky |publisher=The Singularity Institute |accessdate=July 5, 2017}}</ref><ref name="siai_news_archive_jun_2004" />
+|-
+| 2001 || {{dts|July 23}} || || MIRI announces that it has formally launched the development of the Flare programming language under Dmitriy Myshkin.<ref name="singinst_jun_2003_news" />
 |-
 | 2001 || {{dts|December 21}} || Domain || MIRI obtains the <code>flare.org</code> domain name for its Flare language project.<ref name="singinst_jun_2003_news" />
 |-
