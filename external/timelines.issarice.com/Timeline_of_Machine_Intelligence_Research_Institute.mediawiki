@@ -85,7 +85,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2004 || {{dts|August 5}}–8 || Conference || TransVision 2004 takes place. TransVision is the World Transhumanist Association's annual event. MIRI is a sponsor for the event.<ref name="singinst_feb_2006_news" />
 |-
-| 2005 || || Publication || "A Technical Explanation of Technical Explanation" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/technical |title=Yudkowsky - Technical Explanation |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute.}}</ref>
+| 2005 || {{dts|January 4}} || Publication || "A Technical Explanation of Technical Explanation" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/technical |title=Yudkowsky - Technical Explanation |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute.}}</ref> It is announced on the MIRI news page on this day.<ref name="singinst_feb_2006_news" />
 |-
 | 2005 || || || MIRI does "AI and existential risk presentations at Stanford, Immortality Institute's Life Extension Conference, and the Terasem Foundation".<ref name="siai_an_examination" />
 |-
