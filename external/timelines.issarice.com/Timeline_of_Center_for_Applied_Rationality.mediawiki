@@ -32,7 +32,7 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2012 || {{dts|July 21}}–28 || || A rationality minicamp takes place.<ref name="salamon-2012-03-29-minicamps" />
 |-
-| 2012 || {{dts|August 6}}–13 || || SPARC 2012 takes place.<ref>{{cite web |url=https://artofproblemsolving.com/community/c1874h1028489_new_free_summer_camp_on_math_and_rationality |title=Art of Problem Solving Blog : New Free Summer Camp On Math and Rationality |date=April 20, 2012 |author=rrusczyk |quote=SPARC will be held at UC Berkeley from August 6th to 13th and is open to high school students, including rising freshmen and graduating seniors.|accessdate=July 13, 2017}}</ref>
+| 2012 || {{dts|August 6}}–13 || || SPARC 2012 takes place.<ref>{{cite web |url=https://artofproblemsolving.com/community/c1874h1028489_new_free_summer_camp_on_math_and_rationality |title=Art of Problem Solving Blog : New Free Summer Camp On Math and Rationality |date=April 20, 2012 |author=rrusczyk |quote=SPARC will be held at UC Berkeley from August 6th to 13th and is open to high school students, including rising freshmen and graduating seniors.|accessdate=July 13, 2017}}</ref> This is the first SPARC.
 |-
 | 2013 || {{dts|August 5}}–17 || || SPARC 2013 takes place.<ref>{{cite web |url=https://web.archive.org/web/20131027161355/http://rationality.org/sparc/ |title=SPARC {{!}} CFAR |accessdate=July 12, 2017}}</ref>
 |-
