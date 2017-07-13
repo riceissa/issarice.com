@@ -19,3 +19,9 @@ CFAR also teaches a technique called "Inner Simulator":
 > Each of us carries a rich, vibrant model of the universe in our heads, giving us access to quick, gut-level predictions ranging from where a flying ball will land to how a peer will react to a given sentence or tone of voice. Our first lesson outlines the strengths and weaknesses of participants’ inner simulators, and provides models for when and how to use them (versus when to be suspicious of them).
 
 source: http://rationality.org/workshops/sample-schedule
+
+From https://wiki.lesswrong.com/wiki/Acausal_trade
+
+> To take a more prosaic example, a person might realize that humans tend to be alike: Even without knowing about specific trading partners, they know there there exist other people with similar situations, goals, desires, challenges, resource constraints, and mental architectures.
+
+> Even we humans simulate each other's thoughts to guess what the other would do.
