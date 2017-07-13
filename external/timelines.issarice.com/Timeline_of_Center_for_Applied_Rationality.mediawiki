@@ -52,6 +52,8 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2015 || {{dts|December 23}} || || The annual fundraising and review is posted to LessWrong.<ref name="why-cfar-view-from-2015">{{cite web |url=http://lesswrong.com/lw/n39/why_cfar_the_view_from_2015/ |title=Why CFAR? The view from 2015 |author=Pete Michaud |date=December 23, 2015 |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2016 || {{dts|January 2}} || || Anna Salamon posts on LessWrong talking about CFAR's mission in a Q&A.<ref>{{cite web |url=http://lesswrong.com/lw/n4e/why_cfars_mission/ |title=Why CFAR's Mission? |accessdate=July 13, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2016 || {{dts|May}} || || The Open Philanthropy Project awards a grant of $304,000 over two years to CFAR's Summer Program on Applied Rationality and Cognition (SPARC).<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-sparc |title=Center for Applied Rationality — SPARC |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
 |-
 | 2016 || {{dts|July}} || || The Open Philanthropy Project awards a grant of $1,035,000 over two years to CFAR.<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
