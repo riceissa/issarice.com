@@ -361,6 +361,7 @@ Issa likes to work locally and track changes with Git, so the revision history o
 * TODO giant thread on Ozy's blog [https://thingofthings.wordpress.com/2016/02/17/concerning-miris-place-in-the-ea-movement/]
 * NOTE From 2017-07-06: "years that have few events so far: 2003 (one event), 2007 (one event), 2008 (three events), 2010 (three events), 2017 (three events)"
 * TODO possibly include more from the [https://web.archive.org/web/20140517205902/http://mirivolunteers.org/ old MIRI volunteers site]. Some of the volunteering opportunities like proofreading and promoting MIRI by giving it good [https://web.archive.org/web/20140720043359/http://mirivolunteers.org/blog/ web of trust ratings] seem to give a good flavor of what MIRI was like, the specific challenges in terms of switching domains, and so on.
+* TODO not sure how exactly to include this in the timeline, but something about MIRI's changing approach to funding certain types of contract work. e.g. Vipul [https://vipulnaik.com/miri/ says] "I believe the work I did with Luke would no longer be sponsored by MIRI as their research agenda is now much more narrowly focused on the mathematical parts."
 
 ===Timeline update strategy===
 
