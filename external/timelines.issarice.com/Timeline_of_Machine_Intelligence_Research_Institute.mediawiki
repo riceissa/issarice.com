@@ -181,6 +181,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2011 || {{dts|July 18}}{{snd}}{{dts|October 20}} || Domain || At least during this period, the <code>singularity.org</code> domain name redirects to <code>singinst.org/singularityfaq</code>.<ref name="singularity_org_2011" />
 |-
+| 2011 || {{dts|September 6}} || Domain || The first Wayback Machine capture of <code>singularityvolunteers.org</code> is from this day.<ref>{{cite web |url=https://web.archive.org/web/20110906193713/http://www.singularityvolunteers.org/ |title=Singularity Institute Volunteering |accessdate=July 14, 2017}}</ref> For a time the site is used to coordinate volunteer efforts.
+|-
 | 2011 || {{dts|October 15}}–16 || Conference || The Singularity Summit 2011 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20111031090701/http://www.singularitysummit.com:80/program |title=Singularity Summit {{!}} Program |accessdate=June 30, 2017}}</ref>
 |-
 | 2011 || {{dts|October 17}} || Social media || The Singularity Summit YouTube account, SingularitySummits, is created.<ref>{{cite web |url=https://www.youtube.com/user/SingularitySummits/about |title=SingularitySummits |publisher=YouTube |accessdate=July 4, 2017 |quote=Joined Oct 17, 2011}}</ref>
