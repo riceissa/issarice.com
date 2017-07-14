@@ -245,6 +245,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2013 || {{dts|November 23}}–29 || Workshop || The 5th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
+| 2013 || {{dts|December 10}} || Domain || The first working Wayback Machine snapshot of the MIRI Volunteers website, available at <code>mirivolunteers.org</code>, is from this day.<ref>{{cite web |url=https://web.archive.org/web/20131210163948/http://mirivolunteers.org/ |title=Home - MIRI Volunteers |accessdate=July 14, 2017}}</ref>
+|-
 | 2013 || {{dts|December 14}}–20 || Workshop || The 6th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" /> This is the first workshop attended by Nate Soares (at Google at the time), who would later becomes executive director of MIRI.<ref name="soares_taking_the_reins_at_miri" /><ref name="recent_hires_at_miri_mar_2014">{{cite web |url=https://intelligence.org/2014/03/13/hires/ |title=Recent Hires at MIRI |publisher=Machine Intelligence Research Institute |date=March 13, 2014 |accessdate=July 13, 2017}}</ref>
 |-
 | 2014 || {{dts|January}} (approximate) || Financial || [[wikipedia:Jed McCaleb|Jed McCaleb]], the creator of Ripple and original founder of [[wikipedia:Mt. Gox|Mt. Gox]], makes a donation worth $500,000 in XRP.<ref>{{cite web |url=http://www.coindesk.com/ripple-creator-500000-xrp-donation-ai-research-charity/ |date=January 19, 2014 |title=Ripple Creator Donates $500k in XRP to Artificial Intelligence Research Charity |author=Jon Southurst |publisher=CoinDesk |accessdate=July 6, 2017}}</ref>
