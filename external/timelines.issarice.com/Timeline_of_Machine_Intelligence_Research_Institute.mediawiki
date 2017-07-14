@@ -185,7 +185,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2011 || {{dts|October 17}} || Social media || The Singularity Summit YouTube account, SingularitySummits, is created.<ref>{{cite web |url=https://www.youtube.com/user/SingularitySummits/about |title=SingularitySummits |publisher=YouTube |accessdate=July 4, 2017 |quote=Joined Oct 17, 2011}}</ref>
 |-
-| 2011 || {{dts|November}} || || Luke Muehlhauser is appointed executive director of MIRI.<ref>{{cite web |url=https://intelligence.org/2012/01/16/singularity-institute-progress-report-december-2011/ |title=Machine Intelligence Research Institute Progress Report, December 2011 |publisher=Machine Intelligence Research Institute |author=Luke Muehlhauser |date=January 16, 2012 |accessdate=July 14, 2017}}</ref>
+| 2011 || {{dts|November}} || Staff || Luke Muehlhauser is appointed executive director of MIRI.<ref>{{cite web |url=https://intelligence.org/2012/01/16/singularity-institute-progress-report-december-2011/ |title=Machine Intelligence Research Institute Progress Report, December 2011 |publisher=Machine Intelligence Research Institute |author=Luke Muehlhauser |date=January 16, 2012 |accessdate=July 14, 2017}}</ref>
 |-
 | 2011 || {{dts|December 12}} || || Luke Muehlhauser announces the creation of Friendly-AI.com, a website introducing the idea of Friendly AI.<ref>{{cite web |url=http://lesswrong.com/lw/8t6/new_landing_page_website_friendlyaicom/ |title=New 'landing page' website: Friendly-AI.com |author=lukeprog |date=December 12, 2011 |accessdate=July 2, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
