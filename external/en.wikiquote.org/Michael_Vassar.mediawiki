@@ -2,6 +2,9 @@
 
 ==Quotes==
 
+* I know it's tedious, but you aren't SL4 until you appreciate the depth of human irrationality. Yes rationality is there, but at a level that just barely shows up when measured with precise instruments. This is important with respect to non-human intelligences, because super-rationality, almost as much as superintelligence, is potentially overwhelming and because intelligence bootstraping moves a system towards rationality. Appreciate how far humans are from rational and you appreciate how utterly transformed, and essentially recreated, they would be by haphazard bootstrapping. Appreciate how formidable rationality is and you see why a highly rational infrahuman GAI would still be a massive existential threat.
+** [http://sl4.org/archive/0602/14276.html "Another reminder of irrationality"], February 2006
+
 ==Quotes about Vassar==
 
 * Michael Arc once gave me and Ofer Grossman quests. My quest was to write a Go AI capable of defeating world champions, and Ofer's was to purchase a metric ton of corn. One of these quests has been accomplished (though certainly not by us), but the other one still stands...
