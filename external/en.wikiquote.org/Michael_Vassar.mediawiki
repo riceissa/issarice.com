@@ -4,6 +4,9 @@
 
 ==Quotes about Vassar==
 
+* Michael Arc once gave me and Ofer Grossman quests. My quest was to write a Go AI capable of defeating world champions, and Ofer's was to purchase a metric ton of corn. One of these quests has been accomplished (though certainly not by us), but the other one still stands...
+** Qiaochu Yuan, [https://www.facebook.com/qiaochu/posts/10154105311135811], January 2017
+
 * I am personally convinced that the LW Sequences / AI to Zombies gave me something, and gave something similar to others I know, and that hanging out in person with Eliezer Yudkowsky, Michael Vassar, Carl Shulman, Nick Bostrom, and others gave me more of that same thing; a “same thing” that included e.g. actually trying to figure it out, making beliefs pay rent in anticipated experience; using arithmetic to entangle different pieces of my beliefs; and so on.
 ** Anna Salamon, [http://lesswrong.com/lw/n4e/why_cfars_mission/ "Why CFAR's Mission?"], January 2016
 
