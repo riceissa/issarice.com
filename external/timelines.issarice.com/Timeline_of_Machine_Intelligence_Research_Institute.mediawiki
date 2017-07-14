@@ -47,7 +47,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2000 || {{dts|July 27}} || Mission || [[wikipedia:Machine Intelligence Research Institute|Machine Intelligence Research Institute]] is founded as the Singularity Institute for Artificial Intelligence by Brian Atkins, Sabine Atkins (then Sabine Stoeckel) and Eliezer Yudkowsky. The organization's mission ("organization's primary exempt purpose" on Form 990) at the time is "Create a Friendly, self-improving Artificial Intelligence"; this mission would be in use during 2000–2006 and would change in 2007.<ref>{{cite web |url=https://intelligence.org/files/2000-SIAI990.pdf |title=Form 990-EZ 2000 |accessdate=June 1, 2017 |quote=Organization was incorporated in July 2000 and does not have a financial history for years 1996-1999.}}</ref>{{rp|3}}<ref>{{cite web |url=https://web.archive.org/web/20060704101132/http://www.singinst.org:80/about.html |title=About the Singularity Institute for Artificial Intelligence |accessdate=July 1, 2017 |quote=The Singularity Institute for Artificial Intelligence, Inc. (SIAI) was incorporated on July 27th, 2000 by Brian Atkins, Sabine Atkins (then Sabine Stoeckel) and Eliezer Yudkowsky. The Singularity Institute is a nonprofit corporation governed by the Georgia Nonprofit Corporation Code, and is federally tax-exempt as a 501(c)(3) public charity. At this time, the Singularity Institute is funded solely by individual donors.}}</ref>
 |-
-| 2000 || {{dts|September 1}} || || Large parts of "The Plan to Singularity" are marked obsolete "due to formation of Singularity Institute, and due to fundamental shifts in AI strategy caused by publication of CaTAI [Coding a Transhuman AI] 2".<ref name="plan_to_singularity_20011121" />
+| 2000 || {{dts|September 1}} || Publication || Large parts of "The Plan to Singularity" are marked obsolete "due to formation of Singularity Institute, and due to fundamental shifts in AI strategy caused by publication of CaTAI [Coding a Transhuman AI] 2".<ref name="plan_to_singularity_20011121" />
 |-
 | 2000 || {{dts|September 7}} || Publication || "Coding a Transhuman AI" (CaTAI) version 2.2.0 is published.<ref name="CaTAI_20010202" />
 |-
@@ -55,9 +55,9 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2001 || {{dts|April 8}} || || MIRI begins accepting donations after receiving tax-exempt status.<ref>{{cite web |url=https://web.archive.org/web/20010422041823/http://singinst.org:80/news.html |author=Eliezer S. Yudkowsky |title=Singularity Institute: News |accessdate=July 1, 2017 |quote=April 08, 2001: The Singularity Institute for Artificial Intelligence, Inc. announces that it has received tax-exempt status and is now accepting donations.}}</ref>
 |-
-| 2001 || {{dts|April 18}} || || Version 0.9 of "Creating Friendly AI" is released.<ref name="siai_news_archive_jun_2004">{{cite web |url=https://web.archive.org/web/20040607135521/http://singinst.org:80/news/archive.html |title=Singularity Institute for Artificial Intelligence // News // Archive |accessdate=July 13, 2017}}</ref>
+| 2001 || {{dts|April 18}} || Publication || Version 0.9 of "Creating Friendly AI" is released.<ref name="siai_news_archive_jun_2004">{{cite web |url=https://web.archive.org/web/20040607135521/http://singinst.org:80/news/archive.html |title=Singularity Institute for Artificial Intelligence // News // Archive |accessdate=July 13, 2017}}</ref>
 |-
-| 2001 || {{dts|June 14}} || || The "SIAI Guidelines on Friendly AI" are published.<ref>{{cite web |url=https://web.archive.org/web/20010805005837/http://singinst.org:80/friendly/guidelines.html |author=Singularity Institute for Artificial Intelligence |title=SIAI Guidelines on Friendly AI |accessdate=July 13, 2017}}</ref>
+| 2001 || {{dts|June 14}} || Publication || The "SIAI Guidelines on Friendly AI" are published.<ref>{{cite web |url=https://web.archive.org/web/20010805005837/http://singinst.org:80/friendly/guidelines.html |author=Singularity Institute for Artificial Intelligence |title=SIAI Guidelines on Friendly AI |accessdate=July 13, 2017}}</ref>
 |-
 | 2001 || {{dts|June 15}} || Publication || Version 1.0 of "Creating Friendly AI" is published.<ref>{{cite web |url=https://intelligence.org/files/CFAI.pdf |title=Creating Friendly AI 1.0: The Analysis and Design of Benevolent Goal Architectures |year=2001 |author=Eliezer Yudkowsky |publisher=The Singularity Institute |accessdate=July 5, 2017}}</ref><ref name="siai_news_archive_jun_2004" />
 |-
@@ -67,7 +67,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2002 || {{dts|March 8}} || AI box || The first [[wikipedia:AI box|AI box]] experiment by Eliezer Yudkowsky, against Nathan Russell as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0203/index.html#3128 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
-| 2002 || {{dts|April 7}} || || A draft of "Levels of Organization in General Intelligence" is announced on SL4.<ref>{{cite web |url=http://www.sl4.org/archive/0204/3296.html |author=Eliezer S. Yudkowsky |date=April 7, 2002 |title=SL4: PAPER: Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20120722082136/singularity.org/upload/LOGI/index.html |author=Singularity Institute for Artificial Intelligence |title=Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref>
+| 2002 || {{dts|April 7}} || Publication || A draft of "Levels of Organization in General Intelligence" is announced on SL4.<ref>{{cite web |url=http://www.sl4.org/archive/0204/3296.html |author=Eliezer S. Yudkowsky |date=April 7, 2002 |title=SL4: PAPER: Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20120722082136/singularity.org/upload/LOGI/index.html |author=Singularity Institute for Artificial Intelligence |title=Levels of Organization in General Intelligence |accessdate=July 5, 2017}}</ref>
 |-
 | 2002 || {{dts|July 4}}–5 || AI box || The second AI box experiment by Eliezer Yudkowsky, against David McFadzean as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0207/index.html#4689 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
@@ -93,7 +93,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2005 || || || MIRI does "AI and existential risk presentations at Stanford, Immortality Institute's Life Extension Conference, and the Terasem Foundation".<ref name="siai_an_examination" />
 |-
-| 2005 || || || Eliezer Yudkowsky writes chapters for ''[[wikipedia:Global Catastrophic Risks (book)|Global Catastrophic Risks]]'', edited by [[wikipedia:Nick Bostrom|Nick Bostrom]] and Milan M. Ćirković.<ref name="siai_an_examination" /> The book would be published in 2008.
+| 2005 || || Publication || Eliezer Yudkowsky writes chapters for ''[[wikipedia:Global Catastrophic Risks (book)|Global Catastrophic Risks]]'', edited by [[wikipedia:Nick Bostrom|Nick Bostrom]] and Milan M. Ćirković.<ref name="siai_an_examination" /> The book would be published in 2008.
 |-
 | 2005 || {{dts|February 2}} || || MIRI relocates from the [[wikipedia:Atlanta metropolitan area|Atlanta metropolitan area]] of Georgia to the Bay Area of California.<ref name="singinst_feb_2006_news" />
 |-
@@ -143,7 +143,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2009 || {{dts|February 16}} || Staff || Michael Vassar announces himself as president of MIRI.<ref>{{cite web |url=https://intelligence.org/2009/02/16/introducing-myself/ |title=Introducing Myself |author=Michael Vassar |publisher=Machine Intelligence Research Institute |date=February 16, 2009 |accessdate=July 1, 2017}}</ref>
 |-
-| 2009 || {{dts|April}} || || Eliezer Yudkowsky completes the Sequences.<ref name="siai_accomplishments_20110621" />
+| 2009 || {{dts|April}} || Publication || Eliezer Yudkowsky completes the Sequences.<ref name="siai_accomplishments_20110621" />
 |-
 | 2009 || {{dts|August 13}} || Social media || The Singularity Institute Twitter account, singinst, is created.<ref>{{cite web |url=https://twitter.com/singinst |title=SingularityInstitute (@singinst) |publisher=Twitter |accessdate=July 4, 2017}}</ref>
 |-
@@ -151,7 +151,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2009 || {{dts|October 3}}–4 || Conference || The Singularity Summit 2009 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20091217213848/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2009 &gt; Program |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.popsci.com/scitech/article/2009-10/singularity-summit-2009-singularity-near |publisher=Popular Science |title=Singularity Summit 2009: The Singularity Is Near |accessdate=June 30, 2017 |date=October 2, 2009 |author=Stuart Fox}}</ref>
 |-
-| 2009 || {{dts|November}} || || "Misappropriation of assets, by a contractor, was discovered in November 2009."<ref>{{cite web |url=https://intelligence.org/files/2009-SIAI990.pdf |title=Form 990 2009 |accessdate=July 8, 2017}}</ref>
+| 2009 || {{dts|November}} || Financial || "Misappropriation of assets, by a contractor, was discovered in November 2009."<ref>{{cite web |url=https://intelligence.org/files/2009-SIAI990.pdf |title=Form 990 2009 |accessdate=July 8, 2017}}</ref>
 |-
 | 2009 || {{dts|December}} || Staff || Amy Willey joins MIRI as Chief Compliance Officer.<ref name="siai_accomplishments_20110621" />
 |-
@@ -249,7 +249,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2014 || {{dts|March}}–May || Influence || [[wikipedia:Future of Life Institute|Future of Life Institute]] (FLI) is founded.<ref>{{cite web |url=http://lesswrong.com/lw/kcm/new_organization_future_of_life_institute_fli/ |title=New organization - Future of Life Institute (FLI) |author=Victoria Krakovna |accessdate=July 6, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]] |quote=As of May 2014, there is an existential risk research and outreach organization based in the Boston area. The Future of Life Institute (FLI), spearheaded by Max Tegmark, was co-founded by Jaan Tallinn, Meia Chita-Tegmark, Anthony Aguirre and myself.}}</ref> MIRI is a parter organization to FLI.<ref>{{cite web |url=https://futureoflife.org/news-from-our-partner-organizations/ |title=News from our Partner Organizations |publisher=Future of Life Institute |accessdate=July 6, 2017}}</ref> The Singularity Summit, MIRI's annual conference from 2006–2012, also played "a key causal role in getting [[wikipedia:Max Tegmark|Max Tegmark]] interested and the FLI created".<ref name="shulman_miri_causal_influences" /> "Tallinn, a co-founder of FLI and of the Cambridge Centre for the Study of Existential Risk (CSER), cites MIRI as a key source for his views on AI risk".<ref>{{cite web |url=https://intelligence.org/2015/08/10/assessing-our-past-and-potential-impact/ |title=Assessing our past and potential impact |publisher=Machine Intelligence Research Institute |author=Rob Bensinger |date=August 10, 2015 |accessdate=July 6, 2017}}</ref>
 |-
-| 2014 || {{dts|March 13}} || || Some recent hires at MIRI are announced. Among the new team members is Nate Soares, who would become MIRI's executive director in 2015.<ref name="recent_hires_at_miri_mar_2014" />
+| 2014 || {{dts|March 13}} || Staff || Some recent hires at MIRI are announced. Among the new team members is Nate Soares, who would become MIRI's executive director in 2015.<ref name="recent_hires_at_miri_mar_2014" />
 |-
 | 2014 || {{dts|May 3}}–11 || Workshop || The 7th Workshop on Logic, Probability, and Reflection takes place.<ref name="workshops" />
 |-
@@ -285,7 +285,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2015 || {{dts|August 28}}–30 || Workshop || The 3rd Introductory Workshop on Logical Decision Theory takes place.<ref name="workshops" />
 |-
-| 2016 || || || MIRI pays Eliezer Yudkowsky to produce AI risk content for Arbital.<ref>{{cite web |url=http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/ |title=2017 AI Risk Literature Review and Charity Comparison |publisher=Effective Altruism Forum |author=Larks |date=December 13, 2016 |accessdate=July 8, 2017}}</ref> (Not sure if there are any more details of this available.)
+| 2016 || || Publication || MIRI pays Eliezer Yudkowsky to produce AI risk content for Arbital.<ref>{{cite web |url=http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/ |title=2017 AI Risk Literature Review and Charity Comparison |publisher=Effective Altruism Forum |author=Larks |date=December 13, 2016 |accessdate=July 8, 2017}}</ref> (Not sure if there are any more details of this available.)
 |-
 | 2016 || {{dts|April 1}}–3 || Workshop || The Self-Reference, Type Theory, and Formal Verification takes place.<ref name="workshops" />
 |-
@@ -305,7 +305,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2016 || {{dts|August 26}}–28 || Workshop || The 1st Workshop on Machine Learning and AI Safety takes place.<ref name="workshops" />
 |-
-| 2016 || {{dts|September 12}} || || MIRI announces the release of its new paper, "Logical Induction" by Scott Garrabrant, Tsvi Benson-Tilsen, Andrew Critch, Nate Soares, and Jessica Taylor.<ref>{{cite web |url=https://intelligence.org/2016/09/12/new-paper-logical-induction/ |title=New paper: "Logical induction" |publisher=Machine Intelligence Research Institute |date=March 23, 2017 |accessdate=July 1, 2017}}</ref><ref>{{cite web |url=http://www.scottaaronson.com/blog/?p=2918 |title=Shtetl-Optimized » Blog Archive » Stuff That's Happened |date=October 9, 2016 |author=Scott Aaronson |accessdate=July 1, 2017 |quote=Some of you will also have seen that folks from the Machine Intelligence Research Institute (MIRI)—Scott Garrabrant, Tsvi Benson-Tilsen, Andrew Critch, Nate Soares, and Jessica Taylor—recently put out a major 130-page paper entitled "Logical Induction".}}</ref>
+| 2016 || {{dts|September 12}} || Publication || MIRI announces the release of its new paper, "Logical Induction" by Scott Garrabrant, Tsvi Benson-Tilsen, Andrew Critch, Nate Soares, and Jessica Taylor.<ref>{{cite web |url=https://intelligence.org/2016/09/12/new-paper-logical-induction/ |title=New paper: "Logical induction" |publisher=Machine Intelligence Research Institute |date=March 23, 2017 |accessdate=July 1, 2017}}</ref><ref>{{cite web |url=http://www.scottaaronson.com/blog/?p=2918 |title=Shtetl-Optimized » Blog Archive » Stuff That's Happened |date=October 9, 2016 |author=Scott Aaronson |accessdate=July 1, 2017 |quote=Some of you will also have seen that folks from the Machine Intelligence Research Institute (MIRI)—Scott Garrabrant, Tsvi Benson-Tilsen, Andrew Critch, Nate Soares, and Jessica Taylor—recently put out a major 130-page paper entitled "Logical Induction".}}</ref>
 |-
 | 2016 || {{dts|October 12}} || || MIRI does an "ask me anything" (AMA) on the Effective Altruism Forum.<ref>{{cite web |url=http://effective-altruism.com/ea/12r/ask_miri_anything_ama/ |title=Ask MIRI Anything (AMA) |publisher=Effective Altruism Forum |date=October 11, 2016 |author=Rob Bensinger |accessdate=July 5, 2017}}</ref>
 |-
@@ -321,7 +321,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2017 || {{dts|April 1}}–2 || Workshop || The 4th Workshop on Machine Learning and AI Safety takes place.<ref name="workshops" />
 |-
-| 2017 || {{dts|May 24}} || || "When Will AI Exceed Human Performance? Evidence from AI Experts" is published on the [[wikipedia:arXiv|arXiv]].<ref>{{cite web |url=https://arxiv.org/abs/1705.08807 |title=[1705.08807] When Will AI Exceed Human Performance? Evidence from AI Experts |accessdate=July 13, 2017}}</ref> Two researchers from AI Impacts are authors on the paper. The paper would be mentioned in more than twenty news articles.<ref>{{cite web |url=http://aiimpacts.org/media-discussion-of-2016-espai/ |title=Media discussion of 2016 ESPAI |publisher=AI Impacts |date=June 14, 2017 |accessdate=July 13, 2017}}</ref>
+| 2017 || {{dts|May 24}} || Publication || "When Will AI Exceed Human Performance? Evidence from AI Experts" is published on the [[wikipedia:arXiv|arXiv]].<ref>{{cite web |url=https://arxiv.org/abs/1705.08807 |title=[1705.08807] When Will AI Exceed Human Performance? Evidence from AI Experts |accessdate=July 13, 2017}}</ref> Two researchers from AI Impacts are authors on the paper. The paper would be mentioned in more than twenty news articles.<ref>{{cite web |url=http://aiimpacts.org/media-discussion-of-2016-espai/ |title=Media discussion of 2016 ESPAI |publisher=AI Impacts |date=June 14, 2017 |accessdate=July 13, 2017}}</ref>
 |-
 | 2017 || {{dts|July 4}} || || MIRI announces that it will be putting relatively little work into the "Alignment for Advanced Machine Learning Systems" agenda over the next year due to the departure of Patrick LaVictoire and Jessica Taylor, and leave taken by Andrew Critch.<ref>{{cite web |url=https://intelligence.org/2017/07/04/updates-to-the-research-team-and-a-major-donation/ |title=Updates to the research team, and a major donation - Machine Intelligence Research Institute |publisher=Machine Intelligence Research Institute |date=July 4, 2017 |accessdate=July 4, 2017}}</ref>
 |-
