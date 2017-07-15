@@ -39,3 +39,7 @@ __TOC__
 
 * [https://www.gwern.net/ Official website]
 * [https://www.gwern.net/Epigrams Epigrams page]
+
+==References==
+
+<references />
