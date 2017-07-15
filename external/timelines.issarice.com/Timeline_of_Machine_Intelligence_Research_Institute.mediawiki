@@ -382,6 +382,14 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 ===Timeline update strategy===
 
+Some places to look on the MIRI blog:
+
+* [https://intelligence.org/category/miri/ MIRI strategy posts]
+* [https://intelligence.org/category/news/ News posts]
+* [https://intelligence.org/category/newsletters/ Newsletters]
+
+Also general stuff like big news coverage.
+
 ==See also==
 
 * [[Timeline of Against Malaria Foundation]]
