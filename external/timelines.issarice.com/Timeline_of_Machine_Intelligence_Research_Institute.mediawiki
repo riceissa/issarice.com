@@ -401,6 +401,7 @@ Also general stuff like big news coverage.
 * [https://intelligence.org/ Official website]
 * [https://agentfoundations.org/ Intelligent Agent Foundations Forum]
 * [http://lesswrong.com/ LessWrong]
+* [https://donations.vipulnaik.com/donee.php?donee=Machine+Intelligence+Research+Institute Donations information and other relevant documents], compiled by Vipul Naik
 
 ==References==
 
