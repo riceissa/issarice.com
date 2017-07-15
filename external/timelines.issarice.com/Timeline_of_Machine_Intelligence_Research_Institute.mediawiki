@@ -20,6 +20,8 @@ The following are some interesting questions that are difficult or impossible to
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 1998–2002 || Various publications related to creating a superhuman AI || Eliezer Yudkowsky writes various documents about designing a superhuman AI during this period, including "Coding a Transhuman AI", "The Plan to Singularity", and "Creating Friendly AI".
+|-
 | 2004–2009 || Tyler Emerson's tenure as executive director ||
 |-
 | 2006–2009 || Modern rationalist community forms || ''Overcoming Bias'' is created, LessWrong is created, Eliezer Yudkowsky writes the Sequences, and so on.
