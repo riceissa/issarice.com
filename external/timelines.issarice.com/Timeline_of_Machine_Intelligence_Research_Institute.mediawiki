@@ -265,6 +265,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2014 || {{dts|July 4}} || || Earliest evidence of AI Impacts existing is from this day.<ref>{{cite web |url=https://web.archive.org/web/20141129001325/http://www.aiimpacts.org:80/system/app/pages/recentChanges |title=Recent site activity - AI Impacts |accessdate=June 30, 2017 |quote=Jul 4, 2014, 10:39 AM Katja Grace edited Predictions of human-level AI timelines}}</ref>
 |-
+| 2014 || {{dts|August}} || || The AI Impacts website launches.<ref>{{cite web |url=https://intelligence.org/2014/09/01/september-newsletter-2/ |title=MIRI's September Newsletter |publisher=Machine Intelligence Research Institute |date=September 1, 2014 |accessdate=July 15, 2017 |quote=Paul Christiano and Katja Grace have launched a new website containing many analyses related to the long-term future of AI: AI Impacts.}}</ref>
+|-
 | 2014 || {{dts|November 4}} || || The Intelligent Agent Foundations Forum, run by MIRI, is launched.<ref>{{cite web |url=https://agentfoundations.org/item?id=1 |website=Intelligent Agent Foundations Forum |title=Welcome! |author=Benja Fallenstein |accessdate=June 30, 2017 |quote=post by Benja Fallenstein 969 days ago}}</ref>
 |-
 | 2015 || {{dts|January}} || || AI Impacts rolls out a new website.<ref>{{cite web |url=https://intelligence.org/2015/01/11/improved-ai-impacts-website/ |title=An improved "AI Impacts" website |author=Luke Muehlhauser |publisher=Machine Intelligence Research Institute |date=January 11, 2015 |accessdate=June 30, 2017}}</ref>
