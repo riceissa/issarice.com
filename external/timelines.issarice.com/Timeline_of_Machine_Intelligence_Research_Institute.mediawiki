@@ -26,9 +26,11 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2006–2009 || Modern rationalist community forms || ''Overcoming Bias'' is created, LessWrong is created, Eliezer Yudkowsky writes the Sequences, and so on.
 |-
+| 2009–2012 || Michael Vassar's tenure as president ||
+|-
 | 2011–2015 || Luke Muehlhauser's tenure as executive director ||
 |-
-| 2013 || Change of focus || MIRI changes focus to put less effort into public outreach and shift its research to Friendly AI math research.
+| 2013–present || Change of focus || MIRI changes focus to put less effort into public outreach and shift its research to Friendly AI math research.
 |-
 | 2015–present || Nate Soares's tenure as executive director ||
 |}
