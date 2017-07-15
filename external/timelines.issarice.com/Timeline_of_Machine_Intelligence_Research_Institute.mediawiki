@@ -1,4 +1,4 @@
-This is a '''timeline of Machine Intelligence Research Institute''' (MIRI).
+This is a '''timeline of Machine Intelligence Research Institute'''. [[wikipedia:Machine Intelligence Research Institute|Machine Intelligence Research Institute]] (MIRI) is a nonprofit organization that does work related to AI safety.
 
 ==Sample questions==
 
