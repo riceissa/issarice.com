@@ -405,6 +405,7 @@ Also general stuff like big news coverage.
 * [http://lesswrong.com/ LessWrong]
 * [https://donations.vipulnaik.com/donee.php?donee=Machine+Intelligence+Research+Institute Donations information and other relevant documents], compiled by Vipul Naik
 * [https://www.facebook.com/groups/TimelinesWiki/permalink/1920056698234686/ Discussion on Timelines Wiki Facebook Group]
+* [http://lesswrong.com/r/discussion/lw/p8w/timeline_of_machine_intelligence_research/ Link post for this timeline on LessWrong]
 
 ==References==
 
