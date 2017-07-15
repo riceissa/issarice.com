@@ -374,7 +374,7 @@ Issa likes to work locally and track changes with Git, so the revision history o
 * TODO maybe more info in this SSC post [http://slatestarcodex.com/2014/10/07/tumblr-on-miri/]
 * TODO more links at EA Wikia page [http://effective-altruism.wikia.com/wiki/Library/Machine_Intelligence_Research_Institute]
 * TODO lots of things from strategy updates, annual reviews, etc. [https://intelligence.org/2016/08/05/miri-strategy-update-2016/]
-* TODO Ben Goertzel talks about his involvement with MIRI [https://multiverseaccordingtoben.blogspot.com/2010/10/singularity-institutes-scary-idea-and.html]
+* TODO Ben Goertzel talks about his involvement with MIRI [https://multiverseaccordingtoben.blogspot.com/2010/10/singularity-institutes-scary-idea-and.html], also [https://web.archive.org/web/20100103192144/http://www.singinst.org:80/aboutus/ourhistory more on opencog]
 * TODO giant thread on Ozy's blog [https://thingofthings.wordpress.com/2016/02/17/concerning-miris-place-in-the-ea-movement/]
 * NOTE From 2017-07-06: "years that have few events so far: 2003 (one event), 2007 (one event), 2008 (three events), 2010 (three events), 2017 (three events)"
 * TODO possibly include more from the [https://web.archive.org/web/20140517205902/http://mirivolunteers.org/ old MIRI volunteers site]. Some of the volunteering opportunities like proofreading and promoting MIRI by giving it good [https://web.archive.org/web/20140720043359/http://mirivolunteers.org/blog/ web of trust ratings] seem to give a good flavor of what MIRI was like, the specific challenges in terms of switching domains, and so on.
