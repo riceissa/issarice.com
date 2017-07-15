@@ -368,7 +368,6 @@ Issa likes to work locally and track changes with Git, so the revision history o
 ===What the timeline is still missing===
 
 * TODO Figure out how to cover publications
-* TODO mention peter thiel
 * TODO mention kurzweil
 * TODO maybe include some of the largest donations (e.g. the XRP/ETH ones, tallinn, thiel)
 * TODO maybe fundraisers
