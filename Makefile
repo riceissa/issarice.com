@@ -10,7 +10,7 @@ SCRAPS_DEST = $(patsubst scraps/%.txt,$(OUTDIR)/scraps/%,$(SCRAPS_FILES))
 SERVER_DEST = carbon:/var/www/issarice.com/public_html
 
 .PHONY: pages
-pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST)
+pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST) $(SCRAPS_DEST)
 
 .PHONY: scraps
 scraps: $(SCRAPS_DEST)
