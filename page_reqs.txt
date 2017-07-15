@@ -17,3 +17,4 @@
 - The first "date:" at the beginning of a line in a markdown page must specify
   the date. In practice, this means one should always specify "date:" on the
   third or fourth line.
+- there cannot be a "wiki/scraps.md" since /scraps is taken by scrap files.
