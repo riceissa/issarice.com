@@ -20,6 +20,9 @@ The following are some interesting questions that are difficult or impossible to
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 2006–2009 || Modern rationalist community forms || ''Overcoming Bias'' is created, LessWrong is created, Eliezer Yudkowsky writes the Sequences, and so on.
+|-
+| 2013 || Change of focus || MIRI changes focus to put less effort into public outreach and shift its research to Friendly AI math research.
 |}
 
 ==Full timeline==
