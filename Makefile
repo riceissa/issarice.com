@@ -5,7 +5,7 @@ IMAGES = $(wildcard images/*)
 IMAGES_DEST = $(patsubst images/%,$(OUTDIR)/%,$(IMAGES))
 STATIC_FILES = $(wildcard static/*)
 STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
-SCRAPS_FILES = $(wildcard scraps/*.txt)
+SCRAPS_FILES = $(shell find scraps/ -type f -name '*.txt')
 SCRAPS_DEST = $(patsubst scraps/%.txt,$(OUTDIR)/scraps/%,$(SCRAPS_FILES))
 SERVER_DEST = carbon:/var/www/issarice.com/public_html
 
@@ -71,9 +71,6 @@ $(OUTDIR)/atom.xml: $(MD_PAGES) generator/atom.sh | $(OUTDIR)
 $(OUTDIR):
 	mkdir -p $(OUTDIR)
 
-$(OUTDIR)/scraps:
-	mkdir -p $(OUTDIR)/scraps
-
 $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 	pandoc -f markdown -t html5 --smart --toc --toc-depth=4 --mathjax \
 		--base-header-level=2 --template=templates/default.html5 \
@@ -81,7 +78,8 @@ $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 		-M sourcefilename:"$<" \
 		-o "$@" "$<"
 
-$(OUTDIR)/scraps/%: scraps/%.txt | $(OUTDIR)/scraps
+$(OUTDIR)/scraps/%: scraps/%.txt
+	mkdir -p "$(@D)"
 	cat "$<" | ./generator/format.py > "$@"
 
 $(OUTDIR)/%: images/% | $(OUTDIR)
