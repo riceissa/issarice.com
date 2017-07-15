@@ -26,6 +26,8 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2006–2009 || Modern rationalist community forms || ''Overcoming Bias'' is created, LessWrong is created, Eliezer Yudkowsky writes the Sequences, and so on.
 |-
+| 2006–2012 || The Singularity Summits take place annually || After the summit in 2012, the organization renames itself from "Singularity Institute for Artificial Intelligence" to the current "Machine Intelligence Research Institute".
+|-
 | 2009–2012 || Michael Vassar's tenure as president ||
 |-
 | 2011–2015 || Luke Muehlhauser's tenure as executive director ||
