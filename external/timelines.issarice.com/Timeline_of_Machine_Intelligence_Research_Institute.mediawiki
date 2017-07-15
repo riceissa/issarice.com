@@ -90,7 +90,7 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 2002 || {{dts|October 7}} || || MIRI announces the creation of its volunteers mailing list.<ref name="singinst_jun_2003_news">{{cite web |url=https://web.archive.org/web/20030622011438/http://singinst.org:80/news/ |author=Eliezer S. Yudkowsky |title=Singularity Institute: News |accessdate=July 1, 2017}}</ref>
 |-
-| 2003 || || || The Flare Programming language project is officially canceled.<ref>{{cite web |url=http://www.sl4.org/wiki/FlareProgrammingLanguage |website=SL4 Wiki |title=FlareProgrammingLanguage |date=September 14, 2007 |accessdate=July 13, 2017}}</ref>
+| 2003 || || Project || The Flare Programming language project is officially canceled.<ref>{{cite web |url=http://www.sl4.org/wiki/FlareProgrammingLanguage |website=SL4 Wiki |title=FlareProgrammingLanguage |date=September 14, 2007 |accessdate=July 13, 2017}}</ref>
 |-
 | 2003 || || Publication || Eliezer Yudkowsky's "An Intuitive Explanation of Bayesian Reasoning" is published.<ref>{{cite web |url=http://yudkowsky.net/rational/bayes |title=Yudkowsky - Bayes' Theorem |accessdate=July 5, 2017 |quote=Eliezer Yudkowsky's work is supported by the Machine Intelligence Research Institute. If you've found Yudkowsky's pages on rationality useful, please consider donating to the Machine Intelligence Research Institute.}}</ref>
 |-
