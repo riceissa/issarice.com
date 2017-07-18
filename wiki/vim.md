@@ -5,17 +5,21 @@ created: 2015-02-28
 date: 2016-08-27
 ---
 
-**Vim** is my text editor of choice.
-I started using it in 2011 (or even before that---I can't quite remember).
-It was the first "serious" text editor I tried to learn,
-and although I sometimes use and have experimented with others (e.g.
-[Emacs]()), I haven't really felt a desire to switch.
+For most text editing and programming tasks, I use Vim. I started using it
+around 2011 as my first "serious" text editor, and although I sometimes use and
+have experimented with others (e.g. [Emacs]()), I haven't really felt a desire
+to switch.
 
 This page documents some of my musings from using Vim; most of it has probably already been said elsewhere.
 
-I probably spend too much time configuring Vim---something I've been trying to cut down on.
+I probably spend too much time configuring Vim. I am well past the point where
+configuring and installing new plugins for Vim pays off in terms of increased
+productivity. I've been trying to cut down on configuration, but find myself
+doing it anyway because I find it relaxing.
 
-You can see my [current vimrc](https://github.com/riceissa/dotfiles/blob/master/.vimrc) and [Vim directory](https://github.com/riceissa/dotfiles/tree/master/.vim) in my dotfiles repository.
+You can see my [current
+vimrc](https://github.com/riceissa/dotfiles/blob/master/.vimrc) in my dotfiles
+repository.
 
 You can also see [my contributions to the Vim Tips Wiki](http://vim.wikia.com/wiki/Special:Contributions/IssaRice?useskin=monobook).
 
