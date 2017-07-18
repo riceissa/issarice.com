@@ -16,6 +16,13 @@ the top of blog posts are becoming more common in the rationalist sphere.
 This seems like a bad idea if it is abused so that people use it on almost
 anything, and use it as an excuse to e.g. advocate extreme actions.
 
+An analogy with software: Even a skilled programmer cannot write a complicated
+program without testing it. Indeed, complicated software must be tested on
+different platforms, under different assumptions about user needs, and so
+forth, so it is useful to get testers to help test the program. Similarly, an
+idea or argument one invents, even after deliberation, is often wrong, so it is
+useful to have conversations to help "test out" the idea.
+
 ---
 
 Standard disclaimers that can be used on writings? There is also
