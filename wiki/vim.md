@@ -527,7 +527,8 @@ these I've only been able to articulate in the past year or so.
   You might be tempted to map common commands like `:write`, but `:write` is
   often too primitive, and what you really want is something like "Do `:Gwrite`
   and open a split to commit the changes, but fall back to `:write` if the file
-  associated with this buffer isn't tracked with Git".
+  associated with this buffer isn't tracked with Git".  Note how commands like
+  `:DiffOrig` are just a bunch of primitive commands chained together.
 
 # See also
 
