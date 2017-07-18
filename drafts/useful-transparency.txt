@@ -9,3 +9,23 @@ but if you look at my online activity, you could make out my thinking style: wri
 but I think I am less good about presenting more of my beliefs and assumptions than some others (e.g. Bryan Caplan). Partly, this is because I have fewer "solid beliefs" about the world. but also I like to present myself by laying down facts and so forth more than laying down beliefs and arguing for a specific position.
 
 also I get very little feedback on my transparency -- mostly I reason about this in terms of what *I* would like to see in *others*, and then trying to do that myself. (And if I saw a young person giving their beliefs on various topics without also doing a lot of "fact-based work", I would be suspicious...)
+
+A way to request public thoughts on topics? There is a sort of
+coordination problem where I would like to know something that
+someone is thinking, but they might not know that I want to know.
+And if I want an answer, it's easier to just ask that person. But
+what if others would also benefit from knowing? It seems like this
+sort of thing could be done publicly. Quora might be one answer,
+where people ask public questions, and can "ask to answer".
+Conversely, if I have limited resources to answer queries, how do
+I choose what the most number of people want to know, or what the
+value of that will be?
+
+I'm curious about this from the perspective of trying to "map out
+beliefs". I like how people like Brian Tomasik have a "general
+beliefs about the world" page where they list their general
+philosophical (and so forth) beliefs. Vipul Naik also has a page
+about his general world beliefs. People like Bryan Caplan and
+Eliezer Yudkowsky are active online enough (in the form of blog
+posts or comments all over the place or whatever) that it's
+possible for others to get a good sense of their beliefs.
