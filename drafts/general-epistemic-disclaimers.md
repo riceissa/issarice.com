@@ -18,6 +18,67 @@ anything, and use it as an excuse to e.g. advocate extreme actions.
 
 ---
 
+Standard disclaimers that can be used on writings? There is also
+this more general feeling that I have developed in the past few
+years, where it's no longer the exact beliefs that someone
+articulates that I care about, but more the thought processes that
+this person goes through in trying to reach these conclusions that
+I care about and that I find useful. A generally-correct worldview
+might be useful for orienting oneself, but when you get down to
+the lower-level details, it's more important what you can do with
+those details and e.g. that you don't flinch away from certain
+implications.
+
+-   The things on this page seem reasonable to me, but it hasn't
+    been "stress-tested" by others, so it's like a program that
+    appears to work but hasn't been tested by a large userbase.
+-   This page is just a draft, so I could be saying anything, just
+    like someone working privately could be saying anything in
+    drafts that never show up in the final product. The only
+    difference is that I like to work on things in public, so you
+    get to see every step of my work, but that doesn't mean it's
+    ready for consumption. Don't even believe that I believe
+    everything that is written on this page.
+-   This is also why the phrase "all things considered" is not
+    vacuous; because there are ways to think in a "depth-first"
+    way without considering everything, from a "global" stance.
+-   Corollary: I like "template questions" or "battery questions"
+    that can be applied generally to many tasks, because they
+    provide kind of "unit tests" on beliefs. True beliefs tend to
+    perform better under these tests, so if something performs
+    poorly, that is something against it.
+-   People often say to "criticize ideas, not people". But in a
+    world where some people criticize people and some criticize
+    ideas, it's hard to tell what a any one critic is doing.
+    Should I be grateful that a critic is "bug testing" my ideas?
+    Or should I be wary that as he is doing this, he is also
+    downgrading his opinion of me, for having written those ideas?
+
+Another related point: given that we have some person who is interested in
+developing an accurate worldview, where on the continuum between (1)
+publishing very infrequently only when the quality of work is high and the
+person believes they are well-calibrated and well-informed, and (2)
+publishing a continuous stream-of-consciousness, would we prefer that this
+person to be?
+
+Wei Dai:
+<http://lesswrong.com/lw/obf/feature_wish_list_for_lesswrong/djmb>
+
+From [Kaj Sotala's About page](http://kajsotala.fi/about/):
+
+> On my old page, I used to have an extensive page detailing my various
+> opinions and other trivia about myself. Over time, my opinions changed,
+> but I didn't remember or bother to keep updating the page. Eventually it
+> began to reflect me less and less. Even if most of my opinions didn't
+> change *that* much, the ones that did made me feel embarrassed about the
+> page.
+>
+> I'm trying to avoid that mistake this time around, so I'll say less
+> about myself. In general, please don't presume that I believe in
+> anything just because I've said that I believe in it.
+
+---
+
 Thoughts about hedges. Where should we attach our hedges? People
 in the rationality sphere have slowly begun attaching "epistemic
 status" disclaimers at the top of their blog/Facebook posts. But
