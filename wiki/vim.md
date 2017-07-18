@@ -116,7 +116,6 @@ to be" (e.g. surround.vim, fugitive.vim, etc., are all "Vimlike" plugins).
 
 - `:windo diffthis` and then `:windo diffoff` when done
 - `Ctrl`-`f` in command mode to edit using regular Vim options (one can also access this with `q:`)
-- `:only` after `:sp` or `:vsp`
 - Editing with Vim under sudo or su: use `vim -X` to disable X so that there are no strange "No protocol specified" or grabled text/reordered lines.
 - Visual selection followed by `:'<,'>normal.` is really powerful (see *Practical Vim*).
 - Also see this enlightening quote by Drew Neil in *Practical Vim*:
