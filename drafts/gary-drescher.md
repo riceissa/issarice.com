@@ -19,3 +19,8 @@ facebook profile seems to be https://www.facebook.com/gary.drescher (based on
 mutual friends, this seems to be the one). However, somewhat worrying is that
 his public posts mostly seem to be about politics -- protests, free speech,
 Donald Trump, Charlie Hebdo, and so on.
+
+https://www.google.com/search?q=site%3Agwern.net%20%22drescher%22
+
+As far as I can make out, he doesn't have much of an online presence beyond
+this.
