@@ -511,7 +511,7 @@ these I've only been able to articulate in the past year or so.
 
 * Conventional beginner advice says to stay in normal mode most of the time,
   and to "dive in" to insert mode to make small changes, and then come up
-  again, that this is how Vim differs most from other editors.
+  to normal mode again -- that this is how Vim differs most from other editors.
   On the contrary, I've found that *insert mode is very powerful and learning
   the parallel commands in insert mode is one of the more useful things one can
   do*.
