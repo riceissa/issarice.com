@@ -5,15 +5,10 @@ IMAGES = $(wildcard images/*)
 IMAGES_DEST = $(patsubst images/%,$(OUTDIR)/%,$(IMAGES))
 STATIC_FILES = $(wildcard static/*)
 STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
-SCRAPS_FILES = $(shell find scraps/ -type f -name '*.txt')
-SCRAPS_DEST = $(patsubst scraps/%.txt,$(OUTDIR)/scraps/%,$(SCRAPS_FILES))
 SERVER_DEST = carbon:/var/www/issarice.com/public_html
 
 .PHONY: pages
-pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST) $(SCRAPS_DEST)
-
-.PHONY: scraps
-scraps: $(SCRAPS_DEST)
+pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST)
 
 .PHONY: fullsite
 fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/_all_date $(OUTDIR)/_all $(OUTDIR)/sitemap.xml pages
@@ -77,10 +72,6 @@ $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 		--filter generator/url_filter.py \
 		-M sourcefilename:"$<" \
 		-o "$@" "$<"
-
-$(OUTDIR)/scraps/%: scraps/%.txt
-	mkdir -p "$(@D)"
-	cat "$<" | ./generator/format.py > "$@"
 
 $(OUTDIR)/%: images/% | $(OUTDIR)
 	cp "$<" "$@"
