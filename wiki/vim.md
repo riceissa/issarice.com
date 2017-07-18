@@ -506,7 +506,7 @@ benefits may outweigh the costs):
 # Some intuitions
 
 I began using Vim at the latest in the summer of 2011.
-In the course of 5+ years of using Vim, I've developed some intuitions; most of
+In the course of 6+ years of using Vim, I've developed some intuitions; most of
 these I've only been able to articulate in the past year or so.
 
 * Conventional beginner advice says to stay in normal mode most of the time,
