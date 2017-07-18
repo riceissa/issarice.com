@@ -519,7 +519,9 @@ these I've only been able to articulate in the past year or so.
 * When trying to [build new habits](http://www.moolenaar.net/habits.html), it's
   better to do it in non-ad hoc ways.
   Usually Vim or Tim Pope has a better solution in mind than the one you can
-  think of on the spot.
+  think of on the spot. More than once I have come up with an ad hoc solution
+  only to find that the Vim developers or Tim Pope has solved the problem in
+  more idiomatic ways.
 * Use mappings to take care of complex tasks like casework rather than simply
   as aliases to built-in commands.
   You might be tempted to map common commands like `:write`, but `:write` is
