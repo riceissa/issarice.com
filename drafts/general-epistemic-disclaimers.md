@@ -45,8 +45,7 @@ maintain a "portfolio of ideas", where one does not make claims
 (at least at the start) that any of them will turn out to be true or
 important or significant; rather, one pursues these ideas in the
 hopes that *some* of them will turn out to have such properties.
-See Jim Terry on SSC
-<https://www.quora.com/What-are-peoples-biggest-criticisms-of-Slate-Star-Codex/answer/Jim-Terry-1>:
+See [Jim Terry on SSC](https://www.quora.com/What-are-peoples-biggest-criticisms-of-Slate-Star-Codex/answer/Jim-Terry-1):
 
 > Is someone a bad blogger if they write good, insightful things, but at
 > e.g. a 1:10 ratio to things that are either obvious or wrong? No; that
