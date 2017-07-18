@@ -32,6 +32,7 @@ http://effective-altruism.com/ea/pn/an_overview_of_y_combinators_nonprofit_progr
 http://lesswrong.com/r/discussion/lw/nru/wikipedia_usage_survey_results/.rss
 http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/.rss
 http://lesswrong.com/lw/owa/lesswrong_analytics_february_2009_to_january_2017/.rss
+http://lesswrong.com/r/discussion/lw/p8x/timeline_of_machine_intelligence_research/.rss
 http://briantomasik.com/feed/
 http://reducing-suffering.org/feed/
 http://foundational-research.org/feed/
