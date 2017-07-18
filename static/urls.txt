@@ -12,6 +12,7 @@ http://lesswrong.com/user/Eliezer_Yudkowsky/overview/.rss
 http://effective-altruism.com/.rss
 http://effective-altruism.com/user/Lila/.rss
 http://effective-altruism.com/user/Carl_Shulman/comments/.rss
+http://effective-altruism.com/user/Wei_Dai/.rss
 http://reflectivedisequilibrium.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
 http://aiimpacts.org/feed/
