@@ -2,7 +2,7 @@
 title: Emacs
 author: Issa Rice
 created: 2017-01-29
-date: 2017-01-29
+date: 2017-07-18
 ---
 
 I use the text editor GNU Emacs for various tasks that my main text editor,
@@ -52,7 +52,8 @@ version is rather limited because it cannot access a full terminal emulator
 (moreover, Vim doesn't rely on a lot of chording, allows mouse access even from
 the terminal, and so on, so the caveats of terminal Emacs do not apply).
 
-I consider myself an Emacs novice.
+You can view my [`init.el`](https://github.com/riceissa/dotfiles/blob/master/.emacs.d/init.el)
+in my dotfiles repository.
 
 # Org mode routine
 
@@ -60,12 +61,16 @@ The following is how I usually use Org mode.
 Since I don't know many of the more complicated features of Org mode,
 I tend to stick to the basics.
 
+-   I have a single Org file called `todo.org`.
+
 -   Several times each day, I do `C-c a a` to open the agenda split window.
     I then use `n` and `p` to move between tasks, and usually hit `TAB` to
     open the task in another split.
     From there, I can edit or reschedule (`C-c C-s`) or mark the task as
     done (`C-c C-t d`).
-    After marking as done I archive with `C-c C-x C-a`.
+    After marking as done I archive with `C-c C-x C-a` (as long as there are no
+    clocked periods for the task; otherwise I like to keep done tasks around so
+    that the clock table shows a more complete picture).
 
 -   I create new tasks with `C-c t`.
 
@@ -73,12 +78,19 @@ I tend to stick to the basics.
     I move to the item being clocked with `C-c C-x C-j`.
     To clock in, I use `C-c C-x C-i` and to clock out
     I use `C-c C-x C-o`.
+    I used to have a separate "Timesheet" section containing all clocked tasks
+    with general task names like "Miscellaneous Wikipedia work", but these days
+    I just clock tasks on the specific tasks themselves. (It sounds obvious in
+    retrospect.)
 
 -   I have a clock table with `:block today` that shows the time tracked for
     the current day.
     I update this table with `C-c C-c`.
+    I have a second clock table with the current month's interval, e.g.
+    `:tstart "<2017-07-01>" :tend "<2017-08-01>"`. This way I can get a rough
+    idea of how much I have been working for the current month.
 
--   The whole file is tracked in [Git]().
+-   The whole file is tracked in [Git](git).
     I have a mapping to quickly snapshot the current state of the file.
 
 # See also
