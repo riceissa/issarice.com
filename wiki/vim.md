@@ -323,7 +323,7 @@ distinguishing common markup for e.g. \*emphasis\*).
 Note that Hacker News also has a [very minimal markup][hn] that only converts
 code blocks (but not inline code!), italics, and URLs. Facebook messaging and
 posts also have limited formatting options, where URLs and certain other text
-(phone numbers, dollar amounts, `@dailycute`, `@fbchess`, names of people, etc.)
+(phone numbers, dollar amounts, `@dailycute`, \@-mentions, names of people, etc.)
 are detected.
 
 Do we see this trend only in markup languages, or also in programming languages?
