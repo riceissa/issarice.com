@@ -15,7 +15,7 @@ coordination problem where I would like to know something that
 someone is thinking, but they might not know that I want to know.
 And if I want an answer, it's easier to just ask that person. But
 what if others would also benefit from knowing? It seems like this
-sort of thing could be done publicly. Quora might be one answer,
+sort of thing could be done publicly. Quora might be one solution,
 where people ask public questions, and can "ask to answer".
 Conversely, if I have limited resources to answer queries, how do
 I choose what the most number of people want to know, or what the
