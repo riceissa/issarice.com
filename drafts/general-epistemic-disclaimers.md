@@ -36,6 +36,8 @@ the lower-level details, it's more important what you can do with
 those details and e.g. that you don't flinch away from certain
 implications.
 
+Possible general disclaimers:
+
 -   The things on this page seem reasonable to me, but it hasn't
     been "stress-tested" by others, so it's like a program that
     appears to work but hasn't been tested by a large userbase.
@@ -46,6 +48,9 @@ implications.
     get to see every step of my work, but that doesn't mean it's
     ready for consumption. Don't even believe that I believe
     everything that is written on this page.
+
+Other points:
+
 -   This is also why the phrase "all things considered" is not
     vacuous; because there are ways to think in a "depth-first"
     way without considering everything, from a "global" stance.
@@ -56,7 +61,7 @@ implications.
     poorly, that is something against it.
 -   People often say to "criticize ideas, not people". But in a
     world where some people criticize people and some criticize
-    ideas, it's hard to tell what a any one critic is doing.
+    ideas, it's hard to tell what any one critic is doing.
     Should I be grateful that a critic is "bug testing" my ideas?
     Or should I be wary that as he is doing this, he is also
     downgrading his opinion of me, for having written those ideas?
