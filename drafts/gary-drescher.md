@@ -24,3 +24,14 @@ https://www.google.com/search?q=site%3Agwern.net%20%22drescher%22
 
 As far as I can make out, he doesn't have much of an online presence beyond
 this.
+
+From [wikipedia talk page](https://en.wikipedia.org/wiki/Talk:Gary_Drescher),
+an IP comments:
+
+> gary was as a student a figure at mit's artificial intelligence center, a
+> close friend of dano hillis and margaret minsky, daughter of marvin, called
+> the \*grandfather of artificial intelligence," and an acquaintance of
+> physicist richard fynman. he also worked at hillis's Thinking Machines corp,
+> which corp died from a combination of declining federal funding, intense
+> competition and ego. also, this early truly massively parallel computer
+> proved too awkward to program. all this is very easy to document.
