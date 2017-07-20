@@ -38,10 +38,6 @@ an IP comments:
 
 [on marvin minsky's website, drescher is listed](http://web.media.mit.edu/%7Eminsky/people.html).
 The link from his name goes to <http://www.think.com/>.
-Drescher has a star next to his name, and at the top it says
-"Asterisks are Amazon.com bookstore entries."
-However, since the link doesn't go to an Amazon page, I think it just means
-that Drescher was working for TMC at some point.
 
 "Gary L. Drescher is a Scientist with Thinking Machines Corporation."
 ([source](http://www.powells.com/book/made-up-minds-a-constructivist-approach-to-artificial-intelligence-9780262041201))
