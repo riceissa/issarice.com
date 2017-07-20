@@ -252,6 +252,11 @@ The Pillows:
 * Radiohead: *The King of Limbs*
 * Radiohead: *Pablo Honey*
 
+# July 2017
+
+* The Pillows: *Pied Piper*
+* The Pillows: *Trial*
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
