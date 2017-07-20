@@ -35,3 +35,19 @@ an IP comments:
 > which corp died from a combination of declining federal funding, intense
 > competition and ego. also, this early truly massively parallel computer
 > proved too awkward to program. all this is very easy to document.
+
+[on marvin minsky's website, drescher is listed](http://web.media.mit.edu/%7Eminsky/people.html).
+The link from his name goes to <http://www.think.com/>.
+Drescher has a star next to his name, and at the top it says
+"Asterisks are Amazon.com bookstore entries."
+However, since the link doesn't go to an Amazon page, I think it just means
+that Drescher was working for TMC at some point.
+
+"Gary L. Drescher is a Scientist with Thinking Machines Corporation."
+([source](http://www.powells.com/book/made-up-minds-a-constructivist-approach-to-artificial-intelligence-9780262041201))
+
+[google search](https://www.google.com/search?q=%22gary%20drescher%22%20%22Thinking%20Machines%20Corporation%22)
+
+[not listed on WP page](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation#Dispersal)
+
+[not listed under senior management c. 1997](https://web.archive.org/web/19970218214826/http://www.think.com:80/html/about/senior.htm)
