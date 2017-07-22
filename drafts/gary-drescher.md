@@ -47,3 +47,5 @@ The link from his name goes to <http://www.think.com/>.
 [not listed on WP page](https://en.wikipedia.org/wiki/Thinking_Machines_Corporation#Dispersal)
 
 [not listed under senior management c. 1997](https://web.archive.org/web/19970218214826/http://www.think.com:80/html/about/senior.htm)
+
+[asked on quora](https://www.quora.com/unanswered/What-has-Gary-Drescher-been-up-to-since-he-published-Good-and-Real)
