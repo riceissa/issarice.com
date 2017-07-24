@@ -117,10 +117,6 @@ For mappings that do not obey <code>'textwidth'</code>, <code>'formatoptions'</c
 
 Mappings that force a characterwise paste are useful if you prefer the predictability of always pasting withing surround quote marks. By default, Vim does a linewise paste if a register ends in a newline, causing pasted text to go outside of surrounding quote marks ([https://github.com/riceissa/vim-pasteurize/blob/242ebee3eca6587f8d2ebcf2b6492e5bbc029b0f/doc/pasteurize.txt#L42-L73 example]).
 
-For mapping 1, see {{help|i_CTRL-R_CTRL-R}}.
-
-For mapping 2, see {{help|i_CTRL-R_CTRL-O}}.
-
 Mapping 3 will temporarily switch to normal mode without moving the cursor using {{help|i_CTRL-\_CTRL-O}}, and then paste.
 
 Mapping 9 employs the strategy used in [https://github.com/vim/vim/blob/8aba95097305b77d56adce507793e331e895a601/runtime/autoload/paste.vim#L32-L34 <code>paste.vim</code>] (when <code>'virtualedit'</code> is unavailable).

@@ -1,9 +1,9 @@
 " Pick one of the following mappings.
 
-" Mapping 1
+" Mapping 1. See :help i_CTRL-R_CTRL-R
 inoremap <C-V> <C-R><C-R>+
 
-" Mapping 2
+" Mapping 2. See :help i_CTRL-R_CTRL-O
 inoremap <C-V> <C-R><C-O>+
 
 " Mapping 3
