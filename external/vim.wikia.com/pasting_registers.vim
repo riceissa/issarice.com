@@ -9,6 +9,7 @@ inoremap <C-V> <C-R><C-O>=<SID>paste3()<CR>
 inoremap <C-V> <C-R><C-O>=<SID>paste4()<CR>
 inoremap <C-V> x<Esc>:<C-U>call setreg('+',getreg('+',1,1),'c')<CR>"+gP"_s
 inoremap <C-V> x<Esc>"=@+.'xy'<CR>gPFx"_2x"_s
+" Assuming has('virtualedit'); otherwise it is identical to the mapping above
 exe 'inoremap <script> <C-V> ' . g:paste#paste_cmd['i']
 
 function! s:paste1()

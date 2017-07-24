@@ -94,7 +94,7 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | Yes
 |-
 | <code>exe ...</code> (truncated; see above for full mapping)
-| If <code>has('virtualedit')</code> is false
+| No
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 | No
