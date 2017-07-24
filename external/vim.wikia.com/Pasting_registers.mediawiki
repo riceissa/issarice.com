@@ -127,8 +127,6 @@ Mapping 9 employs the strategy used in [https://github.com/vim/vim/blob/8aba9509
 
 Mapping 10 is essentially from [https://github.com/vim/vim/blob/6c35beaa11d38fc0c37a3d209295772313b12003/runtime/mswin.vim#L47 <code>mswin.vim</code>]. If Vim was compiled with <code>virtualedit</code>, it takes advantage of this to paste linewise and blockwise text in a more Vim-like manner. If Vim is not compiled with <code>virtualedit</code>, it falls back to the behavior of mapping 9.
 
-Even with the above mappings, the default behavior can still be retrieved by waiting a moment after typing <code><C-R></code> (so that Vim gives up on trying to use the custom mapping).
-
 * TODO mention how even with <silent>, some of these will show blinking characters when :set list is on.
 * TODO check for whether it works on an error line with ALE turned on?
 
