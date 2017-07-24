@@ -6,8 +6,8 @@ inoremap <C-V> <C-R>=<SID>paste1()<CR>
 inoremap <C-V> <C-R><C-O>=<SID>paste2()<CR>
 inoremap <C-V> <C-R>=<SID>paste3()<CR>
 inoremap <C-V> x<Esc>:<C-U>call setreg('+', getreg('+', 1, 1), 'c')<CR>"+gP"_s
-inoremap <C-R>+ <C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s
-exe 'inoremap <script> <C-R>+ <C-G>u' . g:paste#paste_cmd['i']
+inoremap <C-V> x<Esc>"=@+.'xy'<CR>gPFx"_2x"_s
+exe 'inoremap <script> <C-V> ' . g:paste#paste_cmd['i']
 
 function! s:paste1()
   if col('.') >= col('$')
