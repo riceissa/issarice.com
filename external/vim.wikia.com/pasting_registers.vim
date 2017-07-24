@@ -25,7 +25,6 @@ function! s:paste1()
   endif
 endfunction
 
-
 " Mapping 6
 inoremap <C-V> <C-R>=<SID>paste2()<CR>
 
