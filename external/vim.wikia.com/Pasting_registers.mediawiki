@@ -37,29 +37,37 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 </pre>
 
 {| class="wikitable"
-! Mapping for <code><C-R>+</code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code> ({{help|quote.}})
+! Mapping for <code><C-R>+</code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code> ({{help|quote.}}) !! Mungs null bytes? !! Works with non-empty <code>'virtualedit'</code>?
 |-
 | <code><C-R><C-R>+</code>
 | Yes
 | Yes
 | Keeps anything inserted before pasting, puts in the actually pasted text (<code>^V</code>-escaped), and keeps anything inserted after pasting
+| No
+| Yes
 |-
 | <code><C-R><C-O>+</code>
 | No
 | No
 | Keeps anything inserted before pasting, puts in <code>^R^O+</code>, and keeps anything inserted after pasting
+| No
+| No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
 | <code><C-G>u<C-\><C-O>"+gP</code>
 | No
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
+| No
+| No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
 | <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> below)
 |
+| No
 |
 |
+| No
 |-
-| <code><C-R><C-O>=<SID>paste2()<CR></code> (source for <code>paste1</code> below)
+| <code><C-R><C-O>=<SID>paste2()<CR></code> (source for <code>paste2</code> below)
 |
 |
 |
@@ -74,6 +82,8 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 |}
+
+Using <code><expr></code> mappings, it is possible to pick specific mapping strategies depending on e.g. the value of <code>'virtualedit'</code>.
 
 For the first mapping, see {{help|i_CTRL-R_CTRL-R}}.
 
