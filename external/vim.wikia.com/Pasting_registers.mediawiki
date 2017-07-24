@@ -86,4 +86,3 @@ This illustrates the hijacking point. Executing the following puts some text in 
 :let @a = "abc\<Esc>:echo 'gotcha'\<CR>"
 </pre>
 After that, pressing <code>i</code> to enter insert mode, then typing Ctrl-R <code>a</code> inserts "abc" but then executes the echo command. The Vim procedure to insert the keys literally is to press Ctrl-R twice. That is, type Ctrl-R Ctrl-R <code>a</code> which will insert the escape and newline (carriage return) characters into the text. {{help|i_CTRL-R_CTRL-R}} [[User:JohnBeckett|JohnBeckett]] ([[User talk:JohnBeckett|talk]]) 08:08, May 22, 2016 (UTC)
-
