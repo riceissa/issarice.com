@@ -61,7 +61,7 @@ Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you c
 | <code><C-\><C-O>:<C-U>call ...</code> (truncated; see above for full mapping)
 | Yes
 | No
-|
+| Clears anything inserted before pasting, but keeps anything inserted after pasting
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
@@ -69,8 +69,8 @@ Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you c
 | <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> above)
 | No
 | No
-|
-|
+| If pasted at the end of the line, clears anything inserted before pasting, but keeps anything inserted after pasting. If pasted not at the end of the line, keeps anything inserted before and after pasting, but nothing about the pasting itself.
+| No
 | No
 |-
 | 6
