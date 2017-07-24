@@ -77,7 +77,7 @@ Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you c
 | <code><C-R>=<SID>paste2()<CR></code> (source for <code>paste2</code> above)
 | Yes
 | No
-|
+| If pasted at the end of the line, clears anything inserted before pasting, but keeps anything inserted after pasting. If pasted not at the end of the line, keeps anything inserted before and after pasting, but nothing about the pasting itself.
 | No
 | No
 |-
@@ -93,7 +93,7 @@ Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you c
 | <code>x<Esc>:<C-U>call ...</code> (truncated; see above for full mapping)
 | Yes
 | No
-|
+| Clears anything inserted before pasting, but keeps anything inserted after pasting
 | No
 | Yes, but arrowing beyond the line in insert mode stops working (until going back to normal mode) after pasting due to <code>s</code>
 |-
