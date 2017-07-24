@@ -28,12 +28,6 @@ Note that because Vim faithfully translates the contents of the clipboard to a b
 If one prefers to continue using <code><C-R>+</code> to paste from the system clipboard, ''one'' of the following mappings can be used:
 
 <pre>
-" Pick one
-inoremap <C-R>+ <C-R><C-R>+
-inoremap <C-R>+ <C-R><C-O>+
-inoremap <C-R>+ <C-G>u<C-\><C-O>"+gP
-inoremap <C-R>+ <C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s
-exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 </pre>
 
 {| class="wikitable"
@@ -53,7 +47,7 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
-| <code><C-G>u<C-\><C-O>"+gP</code>
+| <code><C-\><C-O>"+gP</code>
 | No
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
@@ -79,14 +73,14 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 |
 |
 |-
-| <code>x<Esc>:<C-U>call ...</code>
+| <code>x<Esc>:<C-U>call ...</code> (see above)
 | Yes
 | No
 |
 | No
 | Yes
 |-
-| <code><C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s</code>
+| <code>x<Esc>"= ...</code> (see above)
 | Yes
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
