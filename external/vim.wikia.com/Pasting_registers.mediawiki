@@ -61,7 +61,7 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
 | <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> below)
-|
+| No
 | No
 |
 |
@@ -71,6 +71,13 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 |
 |
 |
+|-
+| <code><C-R>=<SID>paste3()<CR></code> (source for <code>paste3</code> below)
+| Yes
+| No
+|
+| No
+| No
 |-
 | <code><C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s</code>
 | Yes
@@ -98,15 +105,35 @@ The fifth mapping is essentially from [https://github.com/vim/vim/blob/6c35beaa1
 Even with the above mappings, the default behavior can still be retrieved by waiting a moment after typing <code><C-R></code> (so that Vim gives up on trying to use the custom mapping).
 
 <pre>
-function! paste1()
-  normal! "+gp
-  return ''
+function! s:paste1()
+  if col('.') >= col('$')
+    normal! "+gp
+    return "\<Right>"
+  else
+    normal! "+gP
+    return ''
+  endif
 endfunction
 </pre>
 
 <pre>
-function! paste2()
+function! s:paste2()
   return join(getreg('+', 1, 1), "\n")
+endfunction
+</pre>
+
+<pre>
+function! s:paste3()
+  " Force the register to be characterwise
+  call setreg('+', getreg('+', 1, 1), 'c')
+
+  if col('.') >= col('$')
+    normal! "+gp
+    return "\<Right>"
+  else
+    normal! "+gP
+    return ''
+  endif
 endfunction
 </pre>
 
