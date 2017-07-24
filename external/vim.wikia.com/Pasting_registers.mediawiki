@@ -54,6 +54,11 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 |-
+| <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> below)
+|
+|
+|
+|-
 | <code><C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s</code>
 | Yes
 | No
@@ -76,6 +81,12 @@ The fourth mapping employs the strategy used in [https://github.com/vim/vim/blob
 The fifth mapping is essentially from [https://github.com/vim/vim/blob/6c35beaa11d38fc0c37a3d209295772313b12003/runtime/mswin.vim#L47 <code>mswin.vim</code>]. If Vim was compiled with <code>virtualedit</code>, it takes advantage of this to paste linewise and blockwise text in a more Vim-like manner. If Vim is not compiled with <code>virtualedit</code>, it falls back to the behavior of the previous mapping.
 
 Even with the above mappings, the default behavior can still be retrieved by waiting a moment after typing <code><C-R></code> (so that Vim gives up on trying to use the custom mapping).
+
+<pre>
+function! paste1()
+ " blah blah
+endfunction
+</pre>
 
 ==References==
 *{{help|c_CTRL-R}}
