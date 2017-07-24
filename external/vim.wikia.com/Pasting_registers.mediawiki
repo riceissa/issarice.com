@@ -54,6 +54,13 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
+| <code><C-\><C-O>:<C-U>call ...</code>
+| Yes
+| No
+|
+| No
+| No; fails on <code>:set ve=insert</code> when pasting beyond the line
+|-
 | <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> below)
 | No
 | No
@@ -84,11 +91,14 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | Yes
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
+| Yes
 |-
 | <code>exe ...</code> (see above)
 | If <code>has('virtualedit')</code> is false
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
+| No
+| Yes
 |}
 
 Using <code><expr></code> mappings, it is possible to pick specific mapping strategies depending on e.g. the value of <code>'virtualedit'</code>.
