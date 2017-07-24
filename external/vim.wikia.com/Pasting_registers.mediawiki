@@ -59,6 +59,11 @@ exe 'inoremap <script> <C-R>+ <C-G>u' . paste#paste_cmd['i']
 |
 |
 |-
+| <code><C-R><C-O>=<SID>paste2()<CR></code> (source for <code>paste1</code> below)
+|
+|
+|
+|-
 | <code><C-G>ux<Esc>"=@+.'xy'<CR>gPFx"_2x"_s</code>
 | Yes
 | No
@@ -84,7 +89,14 @@ Even with the above mappings, the default behavior can still be retrieved by wai
 
 <pre>
 function! paste1()
- " blah blah
+  normal! "+gp
+  return ''
+endfunction
+</pre>
+
+<pre>
+function! paste2()
+  return join(getreg('+', 1, 1), "\n")
 endfunction
 </pre>
 
