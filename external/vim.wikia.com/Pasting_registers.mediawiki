@@ -31,7 +31,7 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 </pre>
 
 {| class="wikitable"
-! Mapping for <code><C-R>+</code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code> ({{help|quote.}}) !! Mungs null bytes? !! Works with non-empty <code>'virtualedit'</code>?
+! Mapping for <code><C-V></code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code> ({{help|quote.}}) !! Mungs null bytes? !! Works with non-empty <code>'virtualedit'</code>?
 |-
 | <code><C-R><C-R>+</code>
 | Yes
@@ -54,46 +54,46 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
-| <code><C-\><C-O>:<C-U>call ...</code>
+| <code><C-\><C-O>:<C-U>call ...</code> (truncated; see above for full mapping)
 | Yes
 | No
 |
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
-| <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> below)
+| <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> above)
 | No
 | No
 |
 |
 | No
 |-
-| <code><C-R>=<SID>paste2()<CR></code> (source for <code>paste2</code> below)
+| <code><C-R>=<SID>paste2()<CR></code> (source for <code>paste2</code> above)
 | Yes
 | No
 |
 | No
 | No
 |-
-| <code><C-R><C-O>=<SID>paste3()<CR></code> (source for <code>paste3</code> below)
+| <code><C-R><C-O>=<SID>paste3()<CR></code> (source for <code>paste3</code> above)
 |
 |
 |
 |-
-| <code>x<Esc>:<C-U>call ...</code> (see above)
+| <code>x<Esc>:<C-U>call ...</code> (truncated; see above for full mapping)
 | Yes
 | No
 |
 | No
 | Yes
 |-
-| <code>x<Esc>"= ...</code> (see above)
+| <code>x<Esc>"= ...</code> (truncated; see above for full mapping)
 | Yes
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 | Yes
 |-
-| <code>exe ...</code> (see above)
+| <code>exe ...</code> (truncated; see above for full mapping)
 | If <code>has('virtualedit')</code> is false
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
