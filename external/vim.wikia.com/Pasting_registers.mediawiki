@@ -95,7 +95,7 @@ Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you c
 | No
 |
 | No
-| Yes
+| Yes, but arrowing beyond the line in insert mode stops working (until going back to normal mode) after pasting due to <code>s</code>
 |-
 | 9
 | <code>x<Esc>"=...</code> (truncated; see above for full mapping)
@@ -103,6 +103,7 @@ Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you c
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 | Yes
+| Yes, but arrowing beyond the line in insert mode stops working (until going back to normal mode) after pasting due to <code>s</code>
 |-
 | 10
 | <code>exe ...</code> (truncated; see above for full mapping)
