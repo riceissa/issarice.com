@@ -31,8 +31,9 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 </pre>
 
 {| class="wikitable"
-! Mapping for <code><C-V></code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code> ({{help|quote.}}) !! Mungs null bytes? !! Works with non-empty <code>'virtualedit'</code>?
+! Mapping number !! Mapping for <code><C-V></code> !! Force characterwise paste? !! Obey <code>textwidth</code>, <code>formatoptions</code>, etc.? !! Contents of <code>".</code> ({{help|quote.}}) !! Mungs null bytes? !! Works with non-empty <code>'virtualedit'</code>?
 |-
+| 1
 | <code><C-R><C-R>+</code>
 | Yes
 | Yes
@@ -40,6 +41,7 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | Yes
 |-
+| 2
 | <code><C-R><C-O>+</code>
 | No
 | No
@@ -47,6 +49,7 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
+| 3
 | <code><C-\><C-O>"+gP</code>
 | No
 | No
@@ -54,6 +57,7 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
+| 4
 | <code><C-\><C-O>:<C-U>call ...</code> (truncated; see above for full mapping)
 | Yes
 | No
@@ -61,6 +65,7 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
+| 5
 | <code><C-R>=<SID>paste1()<CR></code> (source for <code>paste1</code> above)
 | No
 | No
@@ -68,6 +73,7 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 |
 | No
 |-
+| 6
 | <code><C-R>=<SID>paste2()<CR></code> (source for <code>paste2</code> above)
 | Yes
 | No
@@ -75,11 +81,13 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | No
 |-
+| 7
 | <code><C-R><C-O>=<SID>paste3()<CR></code> (source for <code>paste3</code> above)
 |
 |
 |
 |-
+| 8
 | <code>x<Esc>:<C-U>call ...</code> (truncated; see above for full mapping)
 | Yes
 | No
@@ -87,12 +95,14 @@ If one prefers to continue using <code><C-R>+</code> to paste from the system cl
 | No
 | Yes
 |-
-| <code>x<Esc>"= ...</code> (truncated; see above for full mapping)
+| 9
+| <code>x<Esc>"=...</code> (truncated; see above for full mapping)
 | Yes
 | No
 | Clears anything inserted before pasting, but keeps anything inserted after pasting
 | Yes
 |-
+| 10
 | <code>exe ...</code> (truncated; see above for full mapping)
 | No
 | No
