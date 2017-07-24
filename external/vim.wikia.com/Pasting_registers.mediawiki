@@ -83,9 +83,11 @@ Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you c
 |-
 | 7
 | <code><C-R><C-O>=<SID>paste3()<CR></code> (source for <code>paste3</code> above)
-|
-|
-|
+| Yes
+| No
+| Keeps anything inserted before pasting, puts in <code>^R^O=</code>, and keeps anything inserted after pasting
+| Yes
+| No; fails on <code>:set ve=insert</code> when pasting beyond the line
 |-
 | 8
 | <code>x<Esc>:<C-U>call ...</code> (truncated; see above for full mapping)
