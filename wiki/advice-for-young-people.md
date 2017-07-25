@@ -715,6 +715,7 @@ can learn a lot about the most exciting things that are happening.
     - **Bryan Caplan**: see my page on [EconLog]()
     - Michael Huemer
     - Eliezer Yudkowsky
+    - Gary Drescher (*Good and Real*)
     - Nick Bostrom
     - Robin Hanson
     - Holden Karnofsky (see his GiveWell blog posts as well as his Harvard reunion speech in 2013)
