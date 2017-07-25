@@ -67,6 +67,8 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 ==External links==
 
+* [https://donations.vipulnaik.com/?cause_area_filter=AI+risk Funding information for AI risk] on Vipul Naik's donations portal
+
 ==References==
 
 {{Reflist|30em}}
