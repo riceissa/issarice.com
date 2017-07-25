@@ -9,6 +9,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2009 || {{dts|December 11}} || || The third edition of ''[[wikipedia:Artificial Intelligence: A Modern Approach|Artificial Intelligence: A Modern Approach]]'' by [[wikipedia:Stuart J. Russell|Stuart J. Russell]] and [[wikipedia:Peter Norvig|Peter Norvig]] is published. In this edition, for the first time, Friendly AI is mentioned and Eliezer Yudkowsky is cited.
 |-
+| 2016 || {{dts|April 7}} || || 80,000 Hours releases a new "problem profile" for risks from artificial intelligence, titled "Positively shaping the development of artificial intelligence".<ref>{{cite web |url=https://80000hours.org/2016/04/why-and-how-to-use-your-career-to-make-artificial-intelligence-safe/ |title=How and why to use your career to make artificial intelligence safer |publisher=80,000 Hours |date=April 7, 2016 |accessdate=July 25, 2017}}</ref><ref>{{cite web |url=https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/ |title=Positively shaping the development of artificial intelligence |publisher=80,000 Hours |accessdate=July 25, 2017}}</ref>
+|-
 | 2017 || {{dts|June 21}} || || "Concrete Problems in AI Safety" is submitted to the {{w|arXiv}}.<ref>{{cite web |url=https://arxiv.org/abs/1606.06565 |title=[1606.06565] Concrete Problems in AI Safety |date=June 21, 2016 |accessdate=July 25, 2017}}</ref>
 |}
 
