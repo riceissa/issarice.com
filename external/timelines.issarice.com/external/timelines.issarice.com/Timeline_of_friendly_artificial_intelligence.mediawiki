@@ -1,0 +1,35 @@
+This is a '''timeline of friendly artificial intelligence'''.
+
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details
+|-
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:Issa|Issa Rice]].
+
+{{funding info}} is available.
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
