@@ -1,3 +1,9 @@
 https://www.quora.com/What-are-good-ways-for-an-engineer-to-measure-their-own-productivity/answer/Adam-DAngelo
 
 > Measuring time investment, on the other hand, is really easy. You can just keep a log of how much time you spent on each part of the work. **I have found that most of the goals in measuring your own productivity can be achieved solely by measuring where your time has gone.** Usually intuition is good enough to judge impact, but intuition is actually pretty bad for judging time investment. This is because people have very biased memories of where their time has gone. So if you regularly look over a log of how much time you spent on each task, you'll easily be able to pick out what was a high productivity investment and what was a waste of time.
+
+from http://www.remoteonly.org/
+
+> It is not a management paradigm, it is still a normal hierarchical organization, however there is a focus on output instead of input.
+
+> Encourages a focus on results, less meetings, more output.
