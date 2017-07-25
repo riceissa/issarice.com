@@ -128,7 +128,8 @@ Mapping 9 employs the strategy used in [https://github.com/vim/vim/blob/8aba9509
 Mapping 10 is essentially from [https://github.com/vim/vim/blob/6c35beaa11d38fc0c37a3d209295772313b12003/runtime/mswin.vim#L47 <code>mswin.vim</code>]. If Vim was compiled with <code>virtualedit</code>, it takes advantage of this to paste linewise and blockwise text in a more Vim-like manner. If Vim is not compiled with <code>virtualedit</code>, it falls back to the behavior of mapping 9.
 
 * TODO mention how even with <silent>, some of these will show blinking characters when :set list is on.
-* TODO check for whether it works on an error line with ALE turned on?
+* TODO check for whether it works on an error line with ALE turned on? this wasn't due to <code>:sign</code> as i had thought. so it's something else that ALE is doing that is messing up the CTRL-\ CTRL-O style pastes. possibly the error messages that get printed on the command-line, or the position coloring on the line.
+* TODO mention that setreg(getreg()) requires a newer version of vim
 
 ==References==
 *{{help|c_CTRL-R}}
