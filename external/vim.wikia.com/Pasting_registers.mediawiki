@@ -28,6 +28,7 @@ Note that because Vim faithfully translates the contents of the clipboard to a b
 Suppose you want to map <code><C-V></code> to perform a "safe paste". Then you can use one of the following mappings. Using <code><expr></code> mappings, it is possible to pick specific mapping strategies depending on e.g. the value of <code>'virtualedit'</code>.
 
 <pre>
+TODO fill in
 </pre>
 
 {| class="wikitable"
