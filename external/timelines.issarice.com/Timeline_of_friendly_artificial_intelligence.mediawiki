@@ -40,6 +40,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 | 2017 || {{dts|June 14}} || || 80,000 Hours publishes a guide to working in AI policy and strategy, written by Miles Brundage.<ref>{{cite web |url=https://www.facebook.com/80000Hours/posts/1416435978438136 |title=New in-depth guide to AI policy and strategy careers, written with Miles Brundage, a researcher at the University of Oxford’s Future of Humanity Institute |date=June 14 |publisher=80,000 Hours}}</ref>
 |-
 | 2017 || {{dts|June 21}} || || "Concrete Problems in AI Safety" is submitted to the {{w|arXiv}}.<ref>{{cite web |url=https://arxiv.org/abs/1606.06565 |title=[1606.06565] Concrete Problems in AI Safety |date=June 21, 2016 |accessdate=July 25, 2017}}</ref>
+|-
+| 2017 || {{dts|July 23}} || || During a Facebook Live broadcast from his backyard, Mark Zuckerberg reveals that he is "optimistic" about advanced artificial intelligence and that spreading concern about "doomsday scenarios" is "really negative and in some ways [&hellip;] pretty irresponsible".<ref>{{cite web |url=http://www.cnbc.com/2017/07/24/mark-zuckerberg-elon-musks-doomsday-ai-predictions-are-irresponsible.html |publisher=CNBC |title=Facebook CEO Mark Zuckerberg: Elon Musk's doomsday AI predictions are 'pretty irresponsible' |date=July 24, 2017 |author=Catherine Clifford |accessdate=July 25, 2017}}</ref>
 |}
 
 ==Full timeline==
