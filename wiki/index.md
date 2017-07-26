@@ -74,5 +74,7 @@ Here are some activity feeds that track what I've been working on:
   modification](_all)
 * [Recent changes on the Cause Prioritization
   Wiki](https://causeprioritization.org/_activity)
+* [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)
+  (I occasionally ask questions on Quora while I work)
 
 [email]: mailto:riceissa@gmail.com
