@@ -130,6 +130,8 @@ Mapping 10 is essentially from [https://github.com/vim/vim/blob/6c35beaa11d38fc0
 * TODO mention how even with <silent>, some of these will show blinking characters when :set list is on.
 * TODO check for whether it works on an error line with ALE turned on? this wasn't due to <code>:sign</code> as i had thought. so it's something else that ALE is doing that is messing up the CTRL-\ CTRL-O style pastes. possibly the error messages that get printed on the command-line, or the position coloring on the line.
 * TODO mention that setreg(getreg()) requires a newer version of vim
+* TODO i think there's a way to paste in insert mode by using <code>gi</code>
+* TODO think about how to allow cursor moving beyond the line with ve=insert; "_s makes this impossible. maybe using "_xa or "_xi with a conditional?
 
 ==References==
 *{{help|c_CTRL-R}}
