@@ -21,6 +21,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2002 || {{dts|July 4}}–5 || AI box || The second AI box experiment by Eliezer Yudkowsky, against David McFadzean as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://www.sl4.org/archive/0207/index.html#4689 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
+| 2002 || {{dts|October 31}} || || Bill Hibbard's ''Super-Intelligent Machines'' is published.<ref>{{cite web |url=https://www.amazon.com/Super-Intelligent-Machines-International-Systems-Engineering/dp/0306473887/ |title=Amazon.com: Super-Intelligent Machines (Ifsr International Series on Systems Science and Engineering) (9780306473883): Bill Hibbard: Books |accessdate=July 26, 2017 |quote=Publisher: Springer; 2002 edition (October 31, 2002)}}</ref>
+|-
 | 2003 || || || Nick Bostrom's paper "Ethical Issues in Advanced Artificial Intelligence" is published. The paper introduces the paperclip maximizer thought experiment.<ref>{{cite web |url=http://www.nickbostrom.com/ethics/ai.html |title=Ethical Issues In Advanced Artificial Intelligence |accessdate=July 25, 2017}}</ref>
 |-
 | 2005 || || || The {{w|Future of Humanity Institute}} is founded.<ref>{{cite web |url=http://www.oxfordmartin.ox.ac.uk/research/programmes/future-humanity/ |publisher=Oxford Martin School |title=About |accessdate=July 25, 2017 |quote=The Future of Humanity Institute was established in 2005 with funding from the Oxford Martin School (then known as the James Martin 21st Century School).}}</ref>
