@@ -29,6 +29,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2005 || {{dts|August 21}} || AI box || The third AI box experiment by Eliezer Yudkowsky, against Carl Shulman as gatekeeper, takes place. The AI is released.<ref>{{cite web |url=http://sl4.org/archive/0508/index.html#12007 |title=SL4: By Thread |accessdate=July 1, 2017}}</ref>
 |-
+| 2008 || || || {{w|Steve Omohundro}}'s paper "The Basic AI Drives" is published. The paper argues that certain drives, such as self-preservation and resource acquisition, will emerge in any sufficiently advanced AI. The idea would subsequently be defended by {{w|Nick Bostrom}} as part of his instrumental convergence thesis.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/Basic_AI_drives |title=Basic AI drives |website=Lesswrongwiki |accessdate=July 26, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2009 || {{dts|December 11}} || || The third edition of ''[[wikipedia:Artificial Intelligence: A Modern Approach|Artificial Intelligence: A Modern Approach]]'' by [[wikipedia:Stuart J. Russell|Stuart J. Russell]] and [[wikipedia:Peter Norvig|Peter Norvig]] is published. In this edition, for the first time, Friendly AI is mentioned and Eliezer Yudkowsky is cited.
 |-
 | 2013 || {{dts|October 1}} || || [[w:Our Final Invention|Our Final Invention: Artificial Intelligence and the End of the Human Era]] by {{w|James Barrat}} is published. The book discusses risks from human-level of superhuman artificial intelligence.
