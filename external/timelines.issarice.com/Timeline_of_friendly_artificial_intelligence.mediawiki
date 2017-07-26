@@ -33,6 +33,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2009 || {{dts|December 11}} || || The third edition of ''[[wikipedia:Artificial Intelligence: A Modern Approach|Artificial Intelligence: A Modern Approach]]'' by [[wikipedia:Stuart J. Russell|Stuart J. Russell]] and [[wikipedia:Peter Norvig|Peter Norvig]] is published. In this edition, for the first time, Friendly AI is mentioned and Eliezer Yudkowsky is cited.
 |-
+| 2013 || || || The Center for the Study of Existential Risk is planned to launch during this year.<ref>{{cite web |url=https://phys.org/news/2012-11-cambridge-technology-humans.html |title=Cambridge to study technology's risk to humans |date=Sylvia Hui |date=November 25, 2012 |accessdate=July 26, 2017}}</ref>
+|-
 | 2013 || {{dts|October 1}} || || [[w:Our Final Invention|Our Final Invention: Artificial Intelligence and the End of the Human Era]] by {{w|James Barrat}} is published. The book discusses risks from human-level of superhuman artificial intelligence.
 |-
 | 2014 || {{dts|March}}–May || Influence || [[wikipedia:Future of Life Institute|Future of Life Institute]] (FLI) is founded.<ref>{{cite web |url=http://lesswrong.com/lw/kcm/new_organization_future_of_life_institute_fli/ |title=New organization - Future of Life Institute (FLI) |author=Victoria Krakovna |accessdate=July 6, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]] |quote=As of May 2014, there is an existential risk research and outreach organization based in the Boston area. The Future of Life Institute (FLI), spearheaded by Max Tegmark, was co-founded by Jaan Tallinn, Meia Chita-Tegmark, Anthony Aguirre and myself.}}</ref>
