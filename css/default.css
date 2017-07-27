@@ -9,7 +9,7 @@ body {
     background-color: #fff;
     color: #333;
     font-family: Charter, "Bitstream Charter", Palatino, Georgia, serif;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 div#content {
@@ -30,8 +30,8 @@ nav#site_navigation {
     overflow: hidden;
 }
 
-h1 { font-size: 22px; text-transform: uppercase; }
-h2 { font-size: 20px; }
+h1 { font-size: 24px; text-transform: uppercase; }
+h2, h3, h4, h5, h6 { font-size: 22px; }
 
 h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 h2 { border-bottom: 1px solid #ccc; }

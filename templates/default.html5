@@ -31,7 +31,7 @@ $if(quotes)$
   <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
 $endif$
   <style type="text/css">
-code,kbd,samp{font-family:monospace,monospace;font-size:1em}body{background-color:#fff;color:#333;font-family:Charter,"Bitstream Charter",Palatino,Georgia,serif;font-size:20px}div#content{line-height:1.4;margin:auto;max-width:700px;text-align:left;width:93%;word-wrap:break-word}nav#site_navigation{font-family:Lato,Helvetica,sans-serif;font-size:80%;overflow:hidden}h1{font-size:22px;text-transform:uppercase}h2{font-size:20px}h1,h2,h3,h4,h5,h6{font-family:Lato,Helvetica,sans-serif}h2{border-bottom:1px solid #ccc}a{text-decoration:none;border-bottom:1px dotted #ccc;padding-bottom:1px}a:link{color:#333}a:visited{color:#555}a:hover,a:active{background-color:#f6f6f6}blockquote{border-left:4px solid #ccc;margin:0;padding-left:16px}code{background-color:#f6f6f6;padding-left:4px;padding-right:4px;word-wrap:normal}pre code{display:block;line-height:1.2;max-height:400px;overflow:auto;padding:10px}img{max-width:100%;height:auto}table{border-bottom:2px solid #333;border-collapse:collapse;border-top:2px solid #333;margin:0 auto}table th{border-bottom:1px solid #333;font-weight:normal;padding:0 10px;vertical-align:top}table td{padding:0 10px;vertical-align:top}tbody tr{border-bottom:1px dotted #ccc}.sourceCode span.co{color:#888}
+code,kbd,samp{font-family:monospace,monospace;font-size:1em}body{background-color:#fff;color:#333;font-family:Charter,"Bitstream Charter",Palatino,Georgia,serif;font-size:22px}div#content{line-height:1.4;margin:auto;max-width:700px;text-align:left;width:93%;word-wrap:break-word}nav#site_navigation{font-family:Lato,Helvetica,sans-serif;font-size:80%;overflow:hidden}h1{font-size:24px;text-transform:uppercase}h2,h3,h4,h5,h6{font-size:22px}h1,h2,h3,h4,h5,h6{font-family:Lato,Helvetica,sans-serif}h2{border-bottom:1px solid #ccc}a{text-decoration:none;border-bottom:1px dotted #ccc;padding-bottom:1px}a:link{color:#333}a:visited{color:#555}a:hover,a:active{background-color:#f6f6f6}blockquote{border-left:4px solid #ccc;margin:0;padding-left:16px}code{background-color:#f6f6f6;padding-left:4px;padding-right:4px;word-wrap:normal}pre code{display:block;line-height:1.2;max-height:400px;overflow:auto;padding:10px}img{max-width:100%;height:auto}table{border-bottom:2px solid #333;border-collapse:collapse;border-top:2px solid #333;margin:0 auto}table th{border-bottom:1px solid #333;font-weight:normal;padding:0 10px;vertical-align:top}table td{padding:0 10px;vertical-align:top}tbody tr{border-bottom:1px dotted #ccc}.sourceCode span.co{color:#888}
   $if(css)$
 $css$
   $endif$
@@ -101,6 +101,9 @@ $if(subtitle)$
 $endif$
 $if(date)$
 <p><em class="date">Last substantive revision: $date$</em></p>
+$endif$
+$if(status)$
+<p><em>Status: $status$</em></p>
 $endif$
 $if(belief)$
 <p><em><a href="./belief">Belief</a>: $belief$</em></p>
