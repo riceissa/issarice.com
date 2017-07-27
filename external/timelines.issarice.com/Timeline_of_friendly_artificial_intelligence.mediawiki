@@ -19,6 +19,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 1965 || || || {{w|I. J. Good}} [[w:Existential risk from artificial general intelligence#History|originates]] the concept of intelligence explosion in "Speculations Concerning the First Ultraintelligent Machine".
 |-
+| 1942 || {{dts|March}} || Fictional portrayal || The {{w|Three Laws of Robotics}} are introduced by {{w|Isaac Asimov}} in his short story "[[wikipedia:Runaround (story)|Runaround]]".
+|-
 | 1984 || {{dts|October 26}} || Fictional portrayal || The American science fiction film ''{{w|The Terminator}}'' is released. The film contains the first appearance of [[wikipedia:Skynet (Terminator)|Skynet]], a "neural net-based conscious group mind and artificial general intelligence" that "seeks to exterminate the human race in order to fulfill the mandates of its original coding".
 |-
 | 2000 || {{dts|April}} || || {{w|Bill Joy}}'s article "{{w|Why The Future Doesn't Need Us}}" is published in ''[[w:Wired (magazine)|Wired]]''.
