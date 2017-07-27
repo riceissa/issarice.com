@@ -49,10 +49,7 @@ The file `default.html5` inherits from the [Pandoc template][pd_html5] (dual
 licensed GPL v2 or higher or BSD 3-clause); the BSD 3-clause license is
 reproduced below.
 
-The sole file in `css/`, `solarized_light.css`, uses the MIT license, which is
-reproduced in the file.
-If you want a more permissive CSS file without Solarized, see my
-[document-templates][dt] repository (in particular, `default.css`).
+The sole file in `css/`, `default.css`, is CC0.
 
 All the files in `images/` except `identification-photo.jpg` are CC0.
 For the exception, I don't remember if the photographer has allowed me to
@@ -101,6 +98,5 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/
 [cool]: http://www.w3.org/TR/cooluris/
-[dt]: https://github.com/riceissa/document-templates
 [pd_html5]: https://github.com/jgm/pandoc-templates/blob/master/default.html5
 [pf]: https://github.com/jgm/pandocfilters
