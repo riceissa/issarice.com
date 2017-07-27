@@ -33,6 +33,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2009 || {{dts|December 11}} || || The third edition of ''[[wikipedia:Artificial Intelligence: A Modern Approach|Artificial Intelligence: A Modern Approach]]'' by [[wikipedia:Stuart J. Russell|Stuart J. Russell]] and [[wikipedia:Peter Norvig|Peter Norvig]] is published. In this edition, for the first time, Friendly AI is mentioned and Eliezer Yudkowsky is cited.
 |-
+| 2010 || || || {{w|DeepMind}} is founded by {{w|Demis Hassabis}}, {{w|Shane Legg}}, and {{w|Mustafa Suleyman}}.
+|-
 | 2011 || || || The Global Catastrophic Risk Institute (GCRI) is sounded by {{w|Seth Baum}} and Tony Barrett.<ref>{{cite web |url=http://gcrinstitute.org/about/ |title=About |publisher=Global Catastrophic Risk Institute |accessdate=July 26, 2017 |quote=The Global Catastrophic Risk Institute (GCRI) is a nonprofit, nonpartisan think tank. GCRI was founded in 2011 by Seth Baum and Tony Barrett.}}</ref>
 |-
 | 2011 || {{dts|September}} || || The Oxford Martin Programme on the Impacts of Future Technology (FutureTech) launches.<ref>{{cite web |url=http://www.futuretech.ox.ac.uk/www.futuretech.ox.ac.uk/index.html |title=Welcome |publisher=Oxford Martin Programme on the Impacts of Future Technology |accessdate=July 26, 2017 |quote=The Oxford Martin Programme on the Impacts of Future Technology, launched in September 2011, is an interdisciplinary horizontal Programme within the Oxford Martin School in collaboration with the Faculty of Philosophy at Oxford University.}}</ref>
