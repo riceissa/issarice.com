@@ -10,8 +10,12 @@ Here are the tools used to build and run this site.
 Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdown syntax](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown).
 The markdown files are then compiled to HTML using Pandoc and a Makefile.
 
-The [style sheet for this site](https://github.com/riceissa/issarice.com/blob/master/css/solarized_light.css) uses the [Solarized](http://ethanschoonover.com/solarized) light theme by [Ethan Schoonover](http://ethanschoonover.com/) for some of the body text,[^bodytext] background, and colors.
-Other aspects of the style sheet are inspired by [gitit](http://gitit.johnmacfarlane.net/), [Gwern’s site](http://www.gwern.net/About#tools) and GitHub’s (old) documentation pages.
+The [style sheet for this
+site](https://github.com/riceissa/issarice.com/blob/master/css/default.css) is
+influenced by aspects of various other sites, including
+[gitit](https://web.archive.org/web/20150330005917/http://gitit.johnmacfarlane.net:80/),
+[Gwern’s site](http://www.gwern.net/About#tools), GitHub’s (old) documentation
+pages, and [Butterick's book on typography](http://practicaltypography.com/).
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can [visit the repository](https://github.com/riceissa/issarice.com) on GitHub.
