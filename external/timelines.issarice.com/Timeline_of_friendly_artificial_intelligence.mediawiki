@@ -67,6 +67,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2016 || {{dts|April 7}} || || 80,000 Hours releases a new "problem profile" for risks from artificial intelligence, titled "Risks posed by artificial intelligence".<ref>{{cite web |url=https://80000hours.org/2016/04/why-and-how-to-use-your-career-to-make-artificial-intelligence-safe/ |title=How and why to use your career to make artificial intelligence safer |publisher=80,000 Hours |date=April 7, 2016 |accessdate=July 25, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20160627024909/https://80000hours.org/problem-profiles/artificial-intelligence-risk/ |title=Risks posed by artificial intelligence |publisher=80,000 Hours}}</ref>
 |-
+| 2016 || {{dts|May 6}} || || Holden Karnofsky of the Open Philanthropy Project publishes a blog post on why Open Phil is making potential risks from artificial intelligence a major priority for the year.<ref>{{cite web |url=http://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity |title=Potential Risks from Advanced Artificial Intelligence: The Philanthropic Opportunity |publisher=Open Philanthropy Project |accessdate=July 27, 2017}}</ref>
+|-
 | 2016 || {{dts|August}} || || The UC Berkeley Center for Human-Compatible Artificial Intelligence launches. The focus of the center is "to ensure that AI systems are beneficial to humans".<ref>{{cite web |url=http://news.berkeley.edu/2016/08/29/center-for-human-compatible-artificial-intelligence/ |title=UC Berkeley launches Center for Human-Compatible Artificial Intelligence |date=August 29, 2016 |publisher=Berkeley News |accessdate=July 26, 2017}}</ref>
 |-
 | 2016 || {{dts|September 28}} || || The {{w|Partnership on AI}} is publicly announced.
