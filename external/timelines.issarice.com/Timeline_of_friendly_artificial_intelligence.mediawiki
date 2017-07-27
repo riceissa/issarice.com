@@ -91,6 +91,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2015 || {{dts|July 1}} || || The Future of Life Institute's Grant Recommendations for its first round of AI safety grants are publicly announced. The grants would be disbursed on September 1.<ref>{{cite web |url=https://futureoflife.org/grants-timeline/ |title=Grants Timeline - Future of Life Institute |publisher=Future of Life Institute |accessdate=July 13, 2017}}</ref><ref>{{cite web |url=https://futureoflife.org/2015selection/ |title=New International Grants Program Jump-Starts Research to Ensure AI Remains Beneficial: Press release for FLI grant awardees. - Future of Life Institute |publisher=Future of Life Institute |accessdate=July 13, 2017}}</ref><ref>{{cite web |url=https://futureoflife.org/ai-safety-research/ |title=AI Safety Research - Future of Life Institute |publisher=Future of Life Institute |accessdate=July 13, 2017}}</ref>
 |-
+| 2015 || {{dts|August}} || || The Open Philanthropy Project awards a grant of $1.2 million to the {{w|Future of Life Institute}}.<ref name="donations-portal-open-phil-ai-risk" />
+|-
 | 2015 || {{dts|October}} || || The Open Philanthropy Project first publishes its page on AI timelines.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/ai-timelines |title=What Do We Know about AI Timelines? |publisher=Open Philanthropy Project |accessdate=July 25, 2017}}</ref>
 |-
 | 2015 || {{dts|December}} || || The {{w|Leverhulme Centre for the Future of Intelligence}} launches around this time.<ref>{{cite web |url=http://www.cam.ac.uk/research/news/the-future-of-intelligence-cambridge-university-launches-new-centre-to-study-ai-and-the-future-of |publisher=University of Cambridge |title=The future of intelligence: Cambridge University launches new centre to study AI and the future of humanity |date=December 3, 2015 |accessdate=July 26, 2017}}</ref>
@@ -101,19 +103,37 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2016 || {{dts|May 6}} || || Holden Karnofsky of the Open Philanthropy Project publishes a blog post on why Open Phil is making potential risks from artificial intelligence a major priority for the year.<ref>{{cite web |url=http://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity |title=Potential Risks from Advanced Artificial Intelligence: The Philanthropic Opportunity |publisher=Open Philanthropy Project |accessdate=July 27, 2017}}</ref>
 |-
+| 2016 || {{dts|June}} || || The Open Philanthropy Project awards a grant of $264,525 to {{w|George Mason University}} for work by {{w|Robin Hanson}}.<ref name="donations-portal-open-phil-ai-risk" />
+|-
 | 2016 || {{dts|June 21}} || || "Concrete Problems in AI Safety" is submitted to the {{w|arXiv}}.<ref>{{cite web |url=https://arxiv.org/abs/1606.06565 |title=[1606.06565] Concrete Problems in AI Safety |date=June 21, 2016 |accessdate=July 25, 2017}}</ref>
 |-
 | 2016 || {{dts|August}} || || The UC Berkeley Center for Human-Compatible Artificial Intelligence launches. The focus of the center is "to ensure that AI systems are beneficial to humans".<ref>{{cite web |url=http://news.berkeley.edu/2016/08/29/center-for-human-compatible-artificial-intelligence/ |title=UC Berkeley launches Center for Human-Compatible Artificial Intelligence |date=August 29, 2016 |publisher=Berkeley News |accessdate=July 26, 2017}}</ref>
 |-
+| 2016 || {{dts|August}} || || The Open Philanthropy Project awards a grant of $5.6 million to the {{w|Center for Human-Compatible AI}}.<ref name="donations-portal-open-phil-ai-risk" />
+|-
+| 2016 || {{dts|August}} || || The Open Philanthropy Project awards a grant of $500,000 to the {{w|Machine Intelligence Research Institute}}.<ref name="donations-portal-open-phil-ai-risk" />
+|-
 | 2016 || {{dts|September 28}} || || The {{w|Partnership on AI}} is publicly announced.
 |-
+| 2016 || {{dts|November}} || || The Open Philanthropy Project awards a grant of $199,000 to the {{w|Electronic Frontier Foundation}} for work by {{w|Peter Eckersley}}.<ref name="donations-portal-open-phil-ai-risk" />
+|-
+| 2016 || {{dts|December}} || || The Open Philanthropy Project awards a grant of $32,000 to AI Impacts for work on strategic questions related to potential risks from advanced artificial intelligence.<ref name="donations-portal-open-phil-ai-risk" />
+|-
 | 2016 || {{dts|December 3}}, 12 || || A couple of posts are published on LessWrong by Center for Applied Rationality (CFAR) president Anna Salamon. The posts discuss CFAR's new focus on AI safety.<ref>{{cite web |url=http://lesswrong.com/lw/o7o/cfars_new_focus_and_ai_safety/ |title=CFAR's new focus, and AI Safety - Less Wrong |accessdate=July 13, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=http://lesswrong.com/lw/o9h/further_discussion_of_cfars_focus_on_ai_safety/ |title=Further discussion of CFAR's focus on AI safety, and the good things folks wanted from "cause neutrality" - Less Wrong |accessdate=July 13, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
+| 2017 || {{dts|March}} || || The Open Philanthropy Project awards a grant of $2.0 million to the {{w|Future of Humanity Institute}} for general support.<ref name="donations-portal-open-phil-ai-risk" />
+|-
+| 2017 || {{dts|March}} || || The Open Philanthropy Project awards a grant of $30 million to {{w|OpenAI}} for general support.<ref name="donations-portal-open-phil-ai-risk" />
 |-
 | 2017 || {{dts|April}} || || The Berkeley Existential Risk Initiative (BERI) launches around this time to assist researchers working at institutions working to mitigate existential risk, including AI risk.<ref>{{cite web |url=https://intelligence.org/2017/05/10/may-2017-newsletter/ |title=May 2017 Newsletter |publisher=Machine Intelligence Research Institute |date=May 10, 2017 |accessdate=July 25, 2017 |quote=Interested parties may also wish to apply for the event coordinator position at the new Berkeley Existential Risk Initiative, which will help support work at CHAI and elsewhere.}}</ref><ref>{{cite web |url=http://effective-altruism.com/ea/19d/update_on_effective_altruism_funds/ |title=Update on Effective Altruism Funds |publisher=Effective Altruism Forum |date=April 20, 2017 |accessdate=July 25, 2017}}</ref>
 |-
 | 2017 || {{dts|April 6}} || || 80,000 Hours publishes an article about the pros and cons of working on AI safety, titled "Positively shaping the development of artificial intelligence".<ref>{{cite web |url=https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/ |title=Positively shaping the development of artificial intelligence |publisher=80,000 Hours |accessdate=July 25, 2017}}</ref><ref>{{cite web |url=https://www.facebook.com/80000Hours/posts/1341451772603224 |title=Completely new article on the pros/cons of working on AI safety, and how to actually go about it |date=April 6, 2017}}</ref>
 |-
+| 2017 || {{dts|May}} || || The Open Philanthropy Project awards a grant of $1.5 million to the {{w|UCLA School of Law}} for work on governance related to AI risk.<ref name="donations-portal-open-phil-ai-risk" />
+|-
 | 2017 || {{dts|June 14}} || || 80,000 Hours publishes a guide to working in AI policy and strategy, written by Miles Brundage.<ref>{{cite web |url=https://www.facebook.com/80000Hours/posts/1416435978438136 |title=New in-depth guide to AI policy and strategy careers, written with Miles Brundage, a researcher at the University of Oxford’s Future of Humanity Institute |date=June 14, 2017 |publisher=80,000 Hours}}</ref>
+|-
+| 2017 || {{dts|July}} || || The Open Philanthropy Project awards a grant of $2.4 million to the {{w|Montreal Institute for Learning Algorithms}}.<ref name="donations-portal-open-phil-ai-risk">{{cite web |url=https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project&cause_area_filter=AI+risk |title=Open Philanthropy Project donations made (filtered to cause areas matching AI risk) |accessdate=July 27, 2017}}</ref>
 |-
 | 2017 || {{dts|July 23}} || || During a Facebook Live broadcast from his backyard, Mark Zuckerberg reveals that he is "optimistic" about advanced artificial intelligence and that spreading concern about "doomsday scenarios" is "really negative and in some ways [&hellip;] pretty irresponsible".<ref>{{cite web |url=http://www.cnbc.com/2017/07/24/mark-zuckerberg-elon-musks-doomsday-ai-predictions-are-irresponsible.html |publisher=CNBC |title=Facebook CEO Mark Zuckerberg: Elon Musk's doomsday AI predictions are 'pretty irresponsible' |date=July 24, 2017 |author=Catherine Clifford |accessdate=July 25, 2017}}</ref>
 |}
