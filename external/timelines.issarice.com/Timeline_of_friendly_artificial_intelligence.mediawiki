@@ -71,6 +71,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2016 || {{dts|May 6}} || || Holden Karnofsky of the Open Philanthropy Project publishes a blog post on why Open Phil is making potential risks from artificial intelligence a major priority for the year.<ref>{{cite web |url=http://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity |title=Potential Risks from Advanced Artificial Intelligence: The Philanthropic Opportunity |publisher=Open Philanthropy Project |accessdate=July 27, 2017}}</ref>
 |-
+| 2016 || {{dts|June 21}} || || "Concrete Problems in AI Safety" is submitted to the {{w|arXiv}}.<ref>{{cite web |url=https://arxiv.org/abs/1606.06565 |title=[1606.06565] Concrete Problems in AI Safety |date=June 21, 2016 |accessdate=July 25, 2017}}</ref>
+|-
 | 2016 || {{dts|August}} || || The UC Berkeley Center for Human-Compatible Artificial Intelligence launches. The focus of the center is "to ensure that AI systems are beneficial to humans".<ref>{{cite web |url=http://news.berkeley.edu/2016/08/29/center-for-human-compatible-artificial-intelligence/ |title=UC Berkeley launches Center for Human-Compatible Artificial Intelligence |date=August 29, 2016 |publisher=Berkeley News |accessdate=July 26, 2017}}</ref>
 |-
 | 2016 || {{dts|September 28}} || || The {{w|Partnership on AI}} is publicly announced.
@@ -80,8 +82,6 @@ This is a '''timeline of friendly artificial intelligence'''.
 | 2017 || {{dts|April 6}} || || 80,000 Hours publishes an article about the pros and cons of working on AI safety, titled "Positively shaping the development of artificial intelligence".<ref>{{cite web |url=https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/ |title=Positively shaping the development of artificial intelligence |publisher=80,000 Hours |accessdate=July 25, 2017}}</ref><ref>{{cite web |url=https://www.facebook.com/80000Hours/posts/1341451772603224 |title=Completely new article on the pros/cons of working on AI safety, and how to actually go about it |date=April 6, 2017}}</ref>
 |-
 | 2017 || {{dts|June 14}} || || 80,000 Hours publishes a guide to working in AI policy and strategy, written by Miles Brundage.<ref>{{cite web |url=https://www.facebook.com/80000Hours/posts/1416435978438136 |title=New in-depth guide to AI policy and strategy careers, written with Miles Brundage, a researcher at the University of Oxford’s Future of Humanity Institute |date=June 14, 2017 |publisher=80,000 Hours}}</ref>
-|-
-| 2017 || {{dts|June 21}} || || "Concrete Problems in AI Safety" is submitted to the {{w|arXiv}}.<ref>{{cite web |url=https://arxiv.org/abs/1606.06565 |title=[1606.06565] Concrete Problems in AI Safety |date=June 21, 2016 |accessdate=July 25, 2017}}</ref>
 |-
 | 2017 || {{dts|July 23}} || || During a Facebook Live broadcast from his backyard, Mark Zuckerberg reveals that he is "optimistic" about advanced artificial intelligence and that spreading concern about "doomsday scenarios" is "really negative and in some ways [&hellip;] pretty irresponsible".<ref>{{cite web |url=http://www.cnbc.com/2017/07/24/mark-zuckerberg-elon-musks-doomsday-ai-predictions-are-irresponsible.html |publisher=CNBC |title=Facebook CEO Mark Zuckerberg: Elon Musk's doomsday AI predictions are 'pretty irresponsible' |date=July 24, 2017 |author=Catherine Clifford |accessdate=July 25, 2017}}</ref>
 |}
