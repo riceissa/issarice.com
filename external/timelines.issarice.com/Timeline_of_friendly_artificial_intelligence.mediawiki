@@ -45,6 +45,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2010 || || || {{w|DeepMind}} is founded by {{w|Demis Hassabis}}, {{w|Shane Legg}}, and {{w|Mustafa Suleyman}}.
 |-
+| 2010 || || || [[wikipedia:Vicarious (company)|Vicarious]] is founded by Scott Phoenix and Dileep George. The company "has publicly expressed some concern about potential risks from future AI development" and the founders are signatories on the FLI open letter.<ref name="landscape-current-work-potential-risks" />
+|-
 | 2011 || || || The Global Catastrophic Risk Institute (GCRI) is sounded by {{w|Seth Baum}} and Tony Barrett.<ref>{{cite web |url=http://gcrinstitute.org/about/ |title=About |publisher=Global Catastrophic Risk Institute |accessdate=July 26, 2017 |quote=The Global Catastrophic Risk Institute (GCRI) is a nonprofit, nonpartisan think tank. GCRI was founded in 2011 by Seth Baum and Tony Barrett.}}</ref>
 |-
 | 2011 || || || {{w|Google Brain}} is started by [[w:Jeff Dean (computer scientist)|Jeff Dean]], Greg Corrado, and {{w|Andrew Ng}}.
@@ -71,7 +73,7 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2015 || || || Daniel Dewey joins the Open Philanthropy Project.<ref>{{cite web |url=http://www.openphilanthropy.org/about/team/daniel-dewey |title=Daniel Dewey |publisher=Open Philanthropy Project |accessdate=July 25, 2017}}</ref> He begins as or would become Open Phil's program officer for potential risks from advanced artificial intelligence.
 |-
-| 2015 || || || The Strategic Artificial Intelligence Research Centre launches around this time.<ref>{{cite web |url=https://www.fhi.ox.ac.uk/research/research-areas/strategic-centre-for-artificial-intelligence-policy/ |author=Future of Humanity Institute - FHI |title=Strategic Artificial Intelligence Research Centre - Future of Humanity Institute |publisher=Future of Humanity Institute |accessdate=July 27, 2017}}</ref><ref>{{cite web |url=https://docs.google.com/document/d/16Te6HnZN2OEviYFA-42Tf9Pal_Idovtgr5Y1RGEPW_g/edit |title=Landscape of current work on potential risks from advanced AI |publisher=Google Docs |accessdate=July 27, 2017}}</ref>
+| 2015 || || || The Strategic Artificial Intelligence Research Centre launches around this time.<ref>{{cite web |url=https://www.fhi.ox.ac.uk/research/research-areas/strategic-centre-for-artificial-intelligence-policy/ |author=Future of Humanity Institute - FHI |title=Strategic Artificial Intelligence Research Centre - Future of Humanity Institute |publisher=Future of Humanity Institute |accessdate=July 27, 2017}}</ref><ref name="landscape-current-work-potential-risks">{{cite web |url=https://docs.google.com/document/d/16Te6HnZN2OEviYFA-42Tf9Pal_Idovtgr5Y1RGEPW_g/edit |title=Landscape of current work on potential risks from advanced AI |publisher=Google Docs |accessdate=July 27, 2017}}</ref>
 |-
 | 2015 || {{dts|January}} || || The {{w|Open Letter on Artificial Intelligence}}, titled "Research Priorities for Robust and Beneficial Artificial Intelligence: an Open Letter", is published.
 |-
