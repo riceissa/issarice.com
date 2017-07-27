@@ -61,6 +61,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2013 || {{dts|July}} || || The Center for the Study of Existential Risk (CSER) launches.<ref>{{cite web |url=https://phys.org/news/2012-11-cambridge-technology-humans.html |title=Cambridge to study technology's risk to humans |author=Sylvia Hui |date=November 25, 2012 |accessdate=July 26, 2017 |quote=The university said Sunday the center's launch is planned next year.}}</ref><ref>{{cite web |url=https://web.archive.org/web/20131201030705/http://cser.org/ |title=Centre for the Study of Existential Risk}}</ref>
 |-
+| 2013 || {{dts|July}} || || The Foundational Research Institute (FRI) is founded. Some of FRI's work discusses risks from artificial intelligence.<ref>{{cite web |url=https://foundational-research.org/transparency |title=Transparency |publisher=Foundational Research Institute |accessdate=July 27, 2017}}</ref>
+|-
 | 2013 || {{dts|October 1}} || || [[w:Our Final Invention|Our Final Invention: Artificial Intelligence and the End of the Human Era]] by {{w|James Barrat}} is published. The book discusses risks from human-level of superhuman artificial intelligence.
 |-
 | 2014 || {{dts|January 26}} || || Google announces that it has acquired {{w|DeepMind}}.
