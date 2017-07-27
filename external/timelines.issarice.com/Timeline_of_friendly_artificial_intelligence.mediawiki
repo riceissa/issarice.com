@@ -93,6 +93,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2015 || {{dts|August}} || || The Open Philanthropy Project awards a grant of $1.2 million to the {{w|Future of Life Institute}}.<ref name="donations-portal-open-phil-ai-risk" />
 |-
+| 2015 || {{dts|August}} || || The Open Philanthropy Project publishes its cause report on potential risks from advanced artificial intelligence.<ref>{{cite web |url=http://www.openphilanthropy.org/research/cause-reports/ai-risk |title=Potential Risks from Advanced Artificial Intelligence |publisher=Open Philanthropy Project |accessdate=July 27, 2017}}</ref>
+|-
 | 2015 || {{dts|October}} || || The Open Philanthropy Project first publishes its page on AI timelines.<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/ai-timelines |title=What Do We Know about AI Timelines? |publisher=Open Philanthropy Project |accessdate=July 25, 2017}}</ref>
 |-
 | 2015 || {{dts|December}} || || The {{w|Leverhulme Centre for the Future of Intelligence}} launches around this time.<ref>{{cite web |url=http://www.cam.ac.uk/research/news/the-future-of-intelligence-cambridge-university-launches-new-centre-to-study-ai-and-the-future-of |publisher=University of Cambridge |title=The future of intelligence: Cambridge University launches new centre to study AI and the future of humanity |date=December 3, 2015 |accessdate=July 26, 2017}}</ref>
@@ -101,7 +103,11 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2016 || {{dts|April 7}} || || 80,000 Hours releases a new "problem profile" for risks from artificial intelligence, titled "Risks posed by artificial intelligence".<ref>{{cite web |url=https://80000hours.org/2016/04/why-and-how-to-use-your-career-to-make-artificial-intelligence-safe/ |title=How and why to use your career to make artificial intelligence safer |publisher=80,000 Hours |date=April 7, 2016 |accessdate=July 25, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20160627024909/https://80000hours.org/problem-profiles/artificial-intelligence-risk/ |title=Risks posed by artificial intelligence |publisher=80,000 Hours}}</ref>
 |-
+| 2016 || {{dts|May}} || || Luke Muehlhauser of the Open Philanthropy Project publishes "What should we learn from past AI forecasts?".<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/what-should-we-learn-past-ai-forecasts |title=What should we learn from past AI forecasts? |publisher=Open Philanthropy Project |accessdate=July 27, 2017}}</ref>
+|-
 | 2016 || {{dts|May 6}} || || Holden Karnofsky of the Open Philanthropy Project publishes a blog post on why Open Phil is making potential risks from artificial intelligence a major priority for the year.<ref>{{cite web |url=http://www.openphilanthropy.org/blog/potential-risks-advanced-artificial-intelligence-philanthropic-opportunity |title=Potential Risks from Advanced Artificial Intelligence: The Philanthropic Opportunity |publisher=Open Philanthropy Project |accessdate=July 27, 2017}}</ref>
+|-
+| 2016 || {{dts|May 6}} || || Holden Karnofsky of the Open Philanthropy Project publishes "Some Background on Our Views Regarding Advanced Artificial Intelligence" on the Open Phil blog.<ref>{{cite web |url=http://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence |title=Some Background on Our Views Regarding Advanced Artificial Intelligence |publisher=Open Philanthropy Project |accessdate=July 27, 2017}}</ref>
 |-
 | 2016 || {{dts|June}} || || The Open Philanthropy Project awards a grant of $264,525 to {{w|George Mason University}} for work by {{w|Robin Hanson}}.<ref name="donations-portal-open-phil-ai-risk" />
 |-
