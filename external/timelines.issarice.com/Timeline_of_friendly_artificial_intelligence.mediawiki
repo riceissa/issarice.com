@@ -53,7 +53,7 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2011 || || Publication || Baum, Goertzel, and Goertzel's "How Long Until Human-Level AI? Results from an Expert Assessment" is published.<ref>{{cite web |url=http://sethbaum.com/ac/2011_AI-Experts.pdf |title=How Long Untill Human-Level AI - 2011_AI-Experts.pdf |accessdate=July 28, 2017}}</ref>
 |-
-| 2011 || || Organization || The Global Catastrophic Risk Institute (GCRI) is sounded by {{w|Seth Baum}} and Tony Barrett.<ref>{{cite web |url=http://gcrinstitute.org/about/ |title=About |publisher=Global Catastrophic Risk Institute |accessdate=July 26, 2017 |quote=The Global Catastrophic Risk Institute (GCRI) is a nonprofit, nonpartisan think tank. GCRI was founded in 2011 by Seth Baum and Tony Barrett.}}</ref>
+| 2011 || || Organization || The Global Catastrophic Risk Institute (GCRI) is founded by {{w|Seth Baum}} and Tony Barrett.<ref>{{cite web |url=http://gcrinstitute.org/about/ |title=About |publisher=Global Catastrophic Risk Institute |accessdate=July 26, 2017 |quote=The Global Catastrophic Risk Institute (GCRI) is a nonprofit, nonpartisan think tank. GCRI was founded in 2011 by Seth Baum and Tony Barrett.}}</ref>
 |-
 | 2011 || || Organization || {{w|Google Brain}} is started by [[w:Jeff Dean (computer scientist)|Jeff Dean]], Greg Corrado, and {{w|Andrew Ng}}.
 |-
