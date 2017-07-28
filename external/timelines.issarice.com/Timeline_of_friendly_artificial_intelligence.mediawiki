@@ -65,6 +65,8 @@ This is a '''timeline of friendly artificial intelligence'''.
 |-
 | 2013 || {{dts|October 1}} || || [[w:Our Final Invention|Our Final Invention: Artificial Intelligence and the End of the Human Era]] by {{w|James Barrat}} is published. The book discusses risks from human-level of superhuman artificial intelligence.
 |-
+| 2014 || || || Müller and Bostrom's "Future Progress in Artificial Intelligence: A Survey of Expert Opinion" is published.<ref>{{cite web |url=http://www.nickbostrom.com/papers/survey.pdf |title=Future Progress in Artificial Intelligence: A Survey of Expert Opinion - survey.pdf |accessdate=July 28, 2017}}</ref>
+|-
 | 2014 || {{dts|January 26}} || || Google announces that it has acquired {{w|DeepMind}}.
 |-
 | 2014 || {{dts|March}}–May || || [[wikipedia:Future of Life Institute|Future of Life Institute]] (FLI) is founded.<ref>{{cite web |url=http://lesswrong.com/lw/kcm/new_organization_future_of_life_institute_fli/ |title=New organization - Future of Life Institute (FLI) |author=Victoria Krakovna |accessdate=July 6, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]] |quote=As of May 2014, there is an existential risk research and outreach organization based in the Boston area. The Future of Life Institute (FLI), spearheaded by Max Tegmark, was co-founded by Jaan Tallinn, Meia Chita-Tegmark, Anthony Aguirre and myself.}}</ref>
