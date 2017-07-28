@@ -188,6 +188,8 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 ===What the timeline is still missing===
 
+* Stuff from [https://wiki.lesswrong.com/wiki/History_of_AI_risk_thought]
+
 ===Timeline update strategy===
 
 ==See also==
