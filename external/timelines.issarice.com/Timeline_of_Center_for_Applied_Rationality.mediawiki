@@ -68,6 +68,10 @@ This is a '''timeline of Center for Applied Rationality'''. Center for Applied R
 |-
 | 2016 || {{dts|December 10}} || || Possibly the first mention of Convergence is from this day. Anna Salamon describes it as follows: "Julia will be launching a small spinoff organization called Convergence, facilitating double crux conversations between EAs and EA-adjacent people in, e.g., tech and academia. It'll be under the auspices of CFAR for now but will not have opinions on AI."<ref>{{cite web |url=http://lesswrong.com/lw/o7o/cfars_new_focus_and_ai_safety/dj5o |title=AnnaSalamon comments on CFAR's new focus, and AI Safety - Less Wrong |accessdate=July 12, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2016 || {{dts|December 14}} || || A Wayback Machine snapshot from this day shows that Julia Galef is listed under the "Convergence project".<ref>{{cite web |url=http://web.archive.org/web/20161214012819/http://rationality.org/about/team |title=CFAR Team |publisher=Center for Applied Rationality |accessdate=July 28, 2017}}</ref>
+|-
+| 2016 || End of the year || || Julia Galef steps down as CFAR president; Anna Salamon takes her place and Pete Michaud takes Salamon's place as executive director.<ref>{{cite web |url=https://www.facebook.com/julia.galef/posts/10103010525130302 |title=Julia Galef - I'm overdue for a career update! Lots of you who... |author=Julia Galef |date=February 28, 2017 |accessdate=July 28, 2017}}</ref>
+|-
 | 2017 || {{dts|January}} || || CFAR publishes case studies on its impact on existential risk. The report covers Machine Intelligence Research Institute (MIRI), Future of Life Institute (FLI), and Arbital (an online discussion platform).<ref>{{cite web |url=http://rationality.org/studies/2016-case-studies |title=Case Studies Highlighting CFAR's Impact on Existential Risk |publisher=Center for Applied Rationality |accessdate=July 12, 2017}}</ref>
 |}
 
