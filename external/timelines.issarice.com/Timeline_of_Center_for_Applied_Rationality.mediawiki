@@ -109,34 +109,6 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 * [http://rationality.org/ Official website]
 * [https://donations.vipulnaik.com/donee.php?donee=Center+for+Applied+Rationality Donation information and relevant documents list (including reviews of CFAR workshops) recorded on Vipul Naik's donations portal]
 
-'''NOTE: the reviews below will probably be incorporated into Vipul's donations portal soon, hence why I won't bother to clean it up.'''
-
-Here's a review from a mentor named "Owen" https://mindlevelup.wordpress.com/2017/02/28/cfar-workshop-february-2017-review/
-also https://mindlevelup.wordpress.com/2017/02/18/ontologies-and-operating-systems-post-cfar-1/
-https://mindlevelup.files.wordpress.com/2017/02/post-cfar-workshop-compilation.pdf
-
-LW mirror of owen's review http://lesswrong.com/lw/ool/cfar_workshop_review_february_2017/
-
-Malcolm Ocean: http://malcolmocean.com/2016/01/cfar-3-year-retrospective/
-
-Topher:
-http://www.patheos.com/blogs/hallq/2014/12/cfar-workshop-review/
-http://www.patheos.com/blogs/hallq/2014/07/thoughts-on-cfar/
-
-Jess Whittlestone: http://jesswhittlestone.com/blog/2014/11/25/becoming-more-rational-what-i-got-out-of-the-cfar-workshop
-
-Kaj Sotala: http://kajsotala.fi/2014/11/event-report-cfars-rationality-workshop-england/
-
-gleb's review on LW: http://lesswrong.com/lw/nog/review_and_thoughts_on_current_version_of_cfar/
-
-someone on tumblr: http://avalonawoken.tumblr.com/post/160455412324/alright-so-i-just-finished-the-cfar-workshop-which
-
-Tetiana Ivanova: [https://medium.com/@tanyaivanova/field-notes-from-the-cfar-workshop-part-1-personal-mythology-and-the-spinning-plates-489002354cf7 part 1], [https://medium.com/@tanyaivanova/field-notes-from-the-cfar-workshop-part-2-fifty-shades-of-focus-319429d73aa1 part 2]
-
-[https://acesounderglass.com/2015/12/03/unquantified-self/ Aceso Under Glass]
-
-[https://namelessvirtue.com/2015/08/07/boston-cfar-alumni-workshop/ alex altair reviews a CFAR alumni workshop]
-
 ==References==
 
 {{Reflist|30em}}
