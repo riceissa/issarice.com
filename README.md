@@ -55,7 +55,11 @@ All the files in `images/` except `identification-photo.jpg` are CC0.
 For the exception, I don't remember if the photographer has allowed me to
 license it freely.
 
-Everything in `generator/` and `static/` is CC0.
+Everything in `generator/` is CC0.
+
+Everything in `static/` except `anchor.min.js` is CC0.
+The exception is AnchorJS, which is MIT licensed.
+
 The files `.gitignore`, `Makefile`, `TODO.txt`, `page_reqs.txt`, as well as
 this README file are CC0.
 
