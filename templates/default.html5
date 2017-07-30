@@ -138,10 +138,6 @@ $else$
 $endif$
 </div>
 <script>
-  anchors.options = {
-    placement: 'left',
-    icon: '§'
-  };
   anchors.add();
 </script>
 </body>
