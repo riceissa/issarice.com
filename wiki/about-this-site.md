@@ -99,6 +99,15 @@ repository often---so my site is the result of many incremental updates[^aaron].
 
 Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](./using-a-tree-structure-for-websites) of this site. In particular, I think many of gwern's pages are too long, so I like to siphon off content to new pages once a section on a page matures enough, etc.
 
+July 2017 update:
+Over time I've come to think that almost all of my best work is done outside of
+this site, and that this site has essentially become a trash bin of half-baked
+ideas, embarrassing-to-read-a-year-from-now opinions, and very occarionally a
+decent page. It does probably show the progress I am (supposedly) making, but
+does it really make sense to so prominently display this incoherent collection
+of text under `issarice.com`, while my better work sits on other sites? There
+are now 230 or so pages; must I go through each one labeling them "obsolete"?
+
 # History
 
 The direct ancestor of this website is riceissa.github.com (which now redirects
