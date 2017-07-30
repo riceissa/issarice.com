@@ -280,7 +280,6 @@ Note that some of them have already been linked to on this page.
 - [Comments]()
 - [Content availability]()
 - [Content licensing]()
-- [Durable link]()
 - [Egoism of personal websites]()
 - [Good content]()
 - [Good entry point]()
