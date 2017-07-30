@@ -10,13 +10,6 @@ Vipul Naik defines **canonical naming** in "[The goal of subject wikis](http://b
 On this site, I've tried to apply this principle.
 For instance, there used to be a page called "Content creation: the organization and dissemination of knowledge", but this page was on the subject of content creation, so now it assumes the name "[Content creation]()", adhering to its canonical name.
 
-The problem sometimes is to figure out *what the name of the topic actually is*.
-I used to have a page called "Openness and availability of content", but this seemed redundant, so I changed this to "Availability of content"; yet now it seemed prolix, so I finally changed it to "Content availability".
-This process of "distilling" titles until they reach their simplest and precisest form I consider to be part of canonicalizing names.
-
-One problem this leads to of course is frequent renaming.
-Jekyll (which I don't happen to use for this site) has a redirect plugin, which I implemented for this site's static site generator as well (see [Colophon]() for more); now I simply use the `aliases` keyword in the YAML header of a page to create aliases.
-
 On a subject-specific website about subject X, canonical naming of topic Y
 leads to a page that describes Y as it relates to or fits into X.
 What about canonical naming on a personal site, such as this one?
