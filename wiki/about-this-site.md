@@ -102,11 +102,13 @@ Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the
 July 2017 update:
 Over time I've come to think that almost all of my best work is done outside of
 this site, and that this site has essentially become a trash bin of half-baked
-ideas, embarrassing-to-read-a-year-from-now opinions, and very occarionally a
+ideas, embarrassing-to-read-a-year-from-now opinions, and very occasionally a
 decent page. It does probably show the progress I am (supposedly) making, but
 does it really make sense to so prominently display this incoherent collection
-of text under `issarice.com`, while my better work sits on other sites? There
+of text under issarice.com, while my better work sits on other sites? There
 are now 230 or so pages; must I go through each one labeling them "obsolete"?
+How do I reconcile this sense of embarrassment at my past self with the value I
+see in Long Content?
 
 # History
 
