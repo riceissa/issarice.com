@@ -1,15 +1,7 @@
-code,
-kbd,
-samp {
-  font-family: monospace, monospace;
-  font-size: 1em;
-}
-
 body {
     background-color: #fff;
-    color: #333;
+    color: #222;
     font-family: Charter, "Bitstream Charter", Palatino, Georgia, serif;
-    font-size: 22px;
 }
 
 div#content {
@@ -30,20 +22,17 @@ nav#site_navigation {
     overflow: hidden;
 }
 
-h1 { font-size: 24px; text-transform: uppercase; }
-h2, h3, h4, h5, h6 { font-size: 22px; }
-
-h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
-h2 { border-bottom: 1px solid #ccc; }
-
-a {
-  text-decoration: none;
-  border-bottom: 1px dotted #ccc;
-  padding-bottom: 1px;
+h1 {
+  font-size: 120%;
+  text-transform: uppercase;
 }
-a:link { color: #333; }
-a:visited { color: #555; }
-a:hover, a:active { background-color: #f6f6f6; }
+h2 { border-bottom: 1px solid #ccc; }
+h2, h3, h4, h5, h6 { font-size: 110%; }
+h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
+
+a { text-decoration: underline; }
+a:link { color: #03c; }
+a:visited { color: #306; }
 
 blockquote {
     border-left: 4px solid #ccc;
