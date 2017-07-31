@@ -1,0 +1,58 @@
+Vim has the ability to work with various [[wikipedia:Lint (software)|linting]] systems. This page covers some strategies for working with linters.
+
+==Compiler plugins==
+
+In stock Vim, the way to work with linters is to load warnings and other messages from the linters into the quickfix list and jump to them using quickfix commands. See {{help|quickfix.txt}} for detailed documentation.
+
+To let Vim know which linter to use, the <code>'makeprg'</code> and <code>'errorformat'</code> options can be set. '''Compiler plugins''' are special plugins in Vim that set these options to predefined values so that the user need only type <code>:compiler {name}</code> to use the intended compiler.
+
+Note that these are called "compiler" plugins because initially they were used exclusively with compilers and build systems such as <code>make</code>, <code>gcc</code>, and <code>javac</code>, but they can be used for any program that takes as inputs certain files (e.g. the current file) and outputs locations (e.g. the line and column of errors). In other words, compiler plugins can be used for linters.
+
+See {{help|write-compiler-plugin}}
+
+Vim comes with numerous compiler plugins. They are stored in <code>$VIMRUNTIME/compiler/</code>. These plugins mainly set the <code>'makeprg'</code> and <code>'errorformat'</code> options so that when the user invokes <code>:make</code>, the intended program is run.
+
+To use Pylint as an example:
+
+<syntaxhighlight lang="vim">
+" Set the compiler to pylint
+:compiler pylint
+
+" Check the current file
+:make %
+
+" Check all Python files in the current directory
+:make *.py
+</syntaxhighlight>
+
+==Dispatch.vim==
+
+Tim Pope's [https://github.com/tpope/vim-dispatch dispatch.vim] plugin eases the switching of compilers.
+
+<syntaxhighlight lang="vim">
+:Dispatch pylint %
+</syntaxhighlight>
+
+==Syntastic==
+
+[https://github.com/vim-syntastic/syntastic Syntastic] is a popular syntax checking plugin.
+
+==Neomake==
+
+[https://github.com/neomake/neomake Neomake]
+
+==Asynchronous Lint Engine (ALE)==
+
+[https://github.com/w0rp/ale ALE] is a more recent plugin that uses the asynchronous jobs features of Vim 8 and Neovim to asynchronously run linting programs on the buffer. This means saving the buffer to the filesystem is not necessary.
+
+==See also==
+
+* {{help|:compiler}}
+* [[Errorformats]]
+* [[Errorformat and makeprg]]
+
+==External links==
+
+* [http://vimawesome.com/?q=tag:lint "lint" tag on Vim Awesome]
+* [http://vimawesome.com/?q=lint Search for "lint" on Vim Awesome]
+* [http://www.vim.org/scripts/script_search_results.php?keywords=lint&script_type=&order_by=rating&direction=descending&search=search Scripts containing "lint" in Vim Scripts submitted to Vim.org]
