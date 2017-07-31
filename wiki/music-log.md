@@ -256,6 +256,7 @@ The Pillows:
 
 * The Pillows: *Pied Piper*
 * The Pillows: *Trial*
+* Sparklehorse: *It's a Wonderful Life*
 
 # History
 
