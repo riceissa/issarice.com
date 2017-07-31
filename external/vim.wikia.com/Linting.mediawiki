@@ -21,11 +21,14 @@ Note that these are called "compiler" plugins because initially they were used e
 
 Vim comes with numerous compiler plugins, which are stored in <code>$VIMRUNTIME/compiler/</code>. More information about compiler plugins can be found at {{help|write-compiler-plugin}}.
 
-To use Pylint as an example:
+To use [https://github.com/vim/vim/blob/master/runtime/compiler/pylint.vim Pylint] as an example:
 
 <syntaxhighlight lang="vim">
 " Set the compiler to pylint. This is local to the buffer.
 :compiler pylint
+
+" Set the compiler to pylint. This is global.
+:compiler! pylint
 
 " Set the compiler for Python files to pylint
 autocmd FileType python compiler pylint
@@ -39,7 +42,7 @@ autocmd FileType python compiler pylint
 
 ==Dispatch.vim==
 
-Tim Pope's [https://github.com/tpope/vim-dispatch dispatch.vim] plugin eases the switching of compilers.
+Tim Pope's [https://github.com/tpope/vim-dispatch dispatch.vim] plugin eases the switching of compilers and also allows asynchronous linting.
 
 <syntaxhighlight lang="vim">
 :Dispatch pylint %
@@ -51,7 +54,7 @@ Tim Pope's [https://github.com/tpope/vim-dispatch dispatch.vim] plugin eases the
 
 ==Neomake==
 
-[https://github.com/neomake/neomake Neomake]
+[https://github.com/neomake/neomake Neomake] is a recent plugin that uses the job control features of Vim 8 and Neovim to asynchronously run programs.
 
 ==Asynchronous Lint Engine (ALE)==
 
