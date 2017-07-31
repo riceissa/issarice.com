@@ -58,7 +58,7 @@ Tim Pope's [https://github.com/tpope/vim-dispatch dispatch.vim] plugin eases the
 
 ==Asynchronous Lint Engine (ALE)==
 
-[https://github.com/w0rp/ale ALE] is a more recent plugin that uses the asynchronous jobs features of Vim 8 and Neovim to asynchronously run linting programs on the buffer. This means saving the buffer to the filesystem is not necessary.
+[https://github.com/w0rp/ale ALE] is a more recent plugin that uses the asynchronous jobs features of Vim 8 and Neovim to asynchronously run linting programs on the buffer. This means saving the buffer to the filesystem is not necessary. It comes bundled with support for numerous linting programs so installing separate compiler programs is usually not necessary.
 
 ==See also==
 
