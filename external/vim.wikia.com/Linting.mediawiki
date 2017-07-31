@@ -1,22 +1,34 @@
 Vim has the ability to work with various [[wikipedia:Lint (software)|linting]] systems. This page covers some strategies for working with linters.
 
+==The naive approach==
+
+To understand why the methods described below are useful, we first describe the "naive" approach to linting. In this approach, the user is initially editing a file in Vim. To run the linter, the user might do one of the following:
+
+* Open a new terminal window and run the linting command there.
+* Hit <code>CTRL-Z</code> to send Vim to the background, run the linting command, then use <code>fg</code> to bring Vim back to the foreground.
+* Use <code>:!</code> in Vim to run the linting command. (See {{help|:!}})
+* Open a new split window in tmux or similar programs and run the linting command there.
+
+All the of the above approaches require (1) manually specifying the linting program and (2) manually reading the error messages to navigate to some place in the code (i.e. the place where the errors occur). It would be nice if these steps can be automated, so that the user need only think "lint this!" and be given a list of places to jump to.
+
 ==Compiler plugins==
 
 In stock Vim, the way to work with linters is to load warnings and other messages from the linters into the quickfix list and jump to them using quickfix commands. See {{help|quickfix.txt}} for detailed documentation.
 
-To let Vim know which linter to use, the <code>'makeprg'</code> and <code>'errorformat'</code> options can be set. '''Compiler plugins''' are special plugins in Vim that set these options to predefined values so that the user need only type <code>:compiler {name}</code> to use the intended compiler.
+To let Vim know which linter to use, the <code>'makeprg'</code> and <code>'errorformat'</code> options can be set. '''Compiler plugins''' are special plugins in Vim that set these options to predefined values so that the user need only type <code>:compiler {name}</code> to use the intended compiler. After specifying the compiler once, the user can from that point just invoke <code>:make</code>.
 
-Note that these are called "compiler" plugins because initially they were used exclusively with compilers and build systems such as <code>make</code>, <code>gcc</code>, and <code>javac</code>, but they can be used for any program that takes as inputs certain files (e.g. the current file) and outputs locations (e.g. the line and column of errors). In other words, compiler plugins can be used for linters.
+Note that these are called "compiler" plugins because initially they were used exclusively with compilers and build systems such as <code>make</code>, <code>gcc</code>, and <code>javac</code>, but they can be used for any program that takes as inputs certain files (e.g. the current file) and outputs locations (e.g. the line and column of errors). In particular, compiler plugins can be used for linters.
 
-See {{help|write-compiler-plugin}}
-
-Vim comes with numerous compiler plugins. They are stored in <code>$VIMRUNTIME/compiler/</code>. These plugins mainly set the <code>'makeprg'</code> and <code>'errorformat'</code> options so that when the user invokes <code>:make</code>, the intended program is run.
+Vim comes with numerous compiler plugins, which are stored in <code>$VIMRUNTIME/compiler/</code>. More information about compiler plugins can be found at {{help|write-compiler-plugin}}.
 
 To use Pylint as an example:
 
 <syntaxhighlight lang="vim">
-" Set the compiler to pylint
+" Set the compiler to pylint. This is local to the buffer.
 :compiler pylint
+
+" Set the compiler for Python files to pylint
+autocmd FileType python compiler pylint
 
 " Check the current file
 :make %
@@ -50,6 +62,7 @@ Tim Pope's [https://github.com/tpope/vim-dispatch dispatch.vim] plugin eases the
 * {{help|:compiler}}
 * [[Errorformats]]
 * [[Errorformat and makeprg]]
+* [[Autoselect the right compiler using the filetype]]
 
 ==External links==
 
