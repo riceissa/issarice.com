@@ -16,9 +16,19 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
 |-
+| 1974 || {{dts|December}} || || The {{w|Cato Institute}}, a libertarian think tank, is founded as the Charles Koch Foundation.
+|-
 | 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
 |-
 | 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
+|-
+| 1985 || || || The {{w|Independence Institute}}, a libertarian think tank based in Denver, Colorado, is founded.
+|-
+| 1986 || || || The {{w|Independent Institute}}, a libertarian think tank based in Oakland, California, is founded.
+|-
+| 1991 || || || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
+|-
+| 2015 || || || The {{w|Niskanen Center}}, a "think tank that advocates for environmentalism, immigration reform, civil liberties, and a national defense policy based on libertarian principles", is founded. It is based in Washington, D.C.
 |}
 
 ==Meta information on the timeline==
