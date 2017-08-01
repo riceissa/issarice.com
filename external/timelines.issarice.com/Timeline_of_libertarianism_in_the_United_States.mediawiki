@@ -16,6 +16,8 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1950 || {{dts|October 2}} || || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
 |-
+| 1950s–1960s || || || {{w|Ayn Rand}}'s group of close confidants, known as [[w:Objectivist movement#The Collective|the Collective]], meets during this period.
+|-
 | 1960 || || || {{w|Liberty Fund}}, a libertarian non-profit foundation, is established.
 |-
 | 1961 || || || [[wikipedia:Thomas Szasz|Thomas Szasz]]'s ''{{w|The Myth of Mental Illness}}'' is published. The book "criticizes psychiatry and argues against the concept of mental illness".
@@ -24,6 +26,10 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
 |-
+| 1970 || || || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
+|-
+| 1973 || || || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
+|-
 | 1974 || {{dts|December}} || || The {{w|Cato Institute}}, a libertarian think tank, is founded as the Charles Koch Foundation.
 |-
 | 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
@@ -31,6 +37,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
 |-
 | 1984 || {{dts|March 9}} || || The {{w|Competitive Enterprise Institute}}, a non-profit libertarian think tank, is founded.
+|-
+| 1985 || || || The {{w|Ayn Rand Institute}} is founded to promote Objectivism.
 |-
 | 1985 || || || The {{w|Independence Institute}}, a libertarian think tank based in Denver, Colorado, is founded.
 |-
