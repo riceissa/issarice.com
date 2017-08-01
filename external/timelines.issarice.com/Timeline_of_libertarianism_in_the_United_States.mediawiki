@@ -12,6 +12,8 @@ This is a '''timeline of libertarianism in the United States'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1960 || || || {{w|Liberty Fund}}, a libertarian non-profit foundation, is established.
+|-
 | 1961 || || || [[wikipedia:Thomas Szasz|Thomas Szasz]]'s ''{{w|The Myth of Mental Illness}}'' is published. The book "criticizes psychiatry and argues against the concept of mental illness".
 |-
 | 1961 || || || The {{w|Institute for Humane Studies}}, a libertarian non-profit organization, is founded.
@@ -31,6 +33,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1986 || || || The {{w|Independent Institute}}, a libertarian think tank based in Oakland, California, is founded.
 |-
 | 1991 || || || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
+|-
+| 1999 || || || The Library of Economics and Liberty (Econlib) is launched.<ref>Based on the copyright notice. The earliest Wayback Machine snapshot is from 2000.</ref>
 |-
 | 2008 || {{dts|July 24}} || || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
 |-
