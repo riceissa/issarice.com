@@ -46,6 +46,10 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
 |-
+| 1979 || || || The {{w|Prometheus Award}}, an award for {{w|libertarian science fiction}}, is first established.
+|-
+| 1979 || {{dts|October 16}} || || {{w|J. Neil Schulman}}'s dystopian novel ''{{w|Alongside Night}}'' is published. It contains the [[w:Counter-economics#Origin|first portrayal]] of {{w|counter-economics}} in a book.
+|-
 | 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
 |-
 | 1980 || {{dts|October}} || || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
