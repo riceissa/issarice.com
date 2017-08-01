@@ -12,6 +12,10 @@ This is a '''timeline of libertarianism in the United States'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1949 || {{dts|October 1}} || || {{w|George Mason University}} (GMU) is established. The GMU economics department would become known for its concentration of free-market-oriented thinkers.<ref>{{cite web |url=http://www.slate.com/articles/sports/sports_nut/2006/03/the_secret_of_george_mason.html |first1=Peter |last1=Boettke |first2=Alexander |last2=Tabarrok |title=The real secret of George Mason University. |publisher=Slate Magazine |date=March 28, 2006 |accessdate=August 1, 2017}}</ref>
+|-
+| 1950 || {{dts|October 2}} || || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
+|-
 | 1960 || || || {{w|Liberty Fund}}, a libertarian non-profit foundation, is established.
 |-
 | 1961 || || || [[wikipedia:Thomas Szasz|Thomas Szasz]]'s ''{{w|The Myth of Mental Illness}}'' is published. The book "criticizes psychiatry and argues against the concept of mental illness".
