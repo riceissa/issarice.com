@@ -36,7 +36,11 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1999 || || || The Library of Economics and Liberty (Econlib) is launched.<ref>Based on the copyright notice. The earliest Wayback Machine snapshot is from 2000.</ref>
 |-
+| 2003 || {{dts|January}} || || EconLog launches with {{w|Arnold Kling}} as the sole blogger.<ref>{{cite web |url=http://www.econlib.org/library/About.html#econlog |title=About Econlib |publisher=Library of Economics and Liberty |accessdate=August 1, 2017}}</ref>
+|-
 | 2008 || {{dts|July 24}} || || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
+|-
+| 2013 || {{dts|January}} || || Philosopher {{w|Michael Huemer}}'s book ''{{w|The Problem of Political Authority}}'' is published. The book first argues for {{w|philosophical anarchism}} starting from "widely shared moral premises", then argues for the viability of {{w|anarcho-capitalism}}.<ref>{{cite web |url=http://econlog.econlib.org/archives/2013/01/the_problem_of_1.html |author=Bryan Caplan |title=The Problem of Political Authority by Michael Huemer |website=EconLog |publisher=Library of Economics and Liberty |date=January 17, 2013 |accessdate=August 1, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
 | 2015 || || || The {{w|Niskanen Center}}, a "think tank that advocates for environmentalism, immigration reform, civil liberties, and a national defense policy based on libertarian principles", is founded. It is based in Washington, D.C.
 |}
