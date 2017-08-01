@@ -34,6 +34,8 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1966 || || || ''{{w|The Moon Is a Harsh Mistress}}'', a {{w|libertarian science fiction}} novel by {{w|Robert A. Heinlein}}, is published. The book popularizes the "{{w|There ain't no such thing as a free lunch}}" adage.
 |-
+| 1966 || || || ''{{w|Capitalism: The Unknown Ideal}}'' by {{w|Ayn Rand}} (with additional essays by others) is published.
+|-
 | 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
 |-
 | 1970 || || || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
@@ -60,6 +62,8 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1980 || {{dts|October}} || || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
 |-
+| 1982 || || || {{w|Murray Rothbard}}'s ''{{w|The Ethics of Liberty}}'' is published.
+|-
 | 1984 || {{dts|March 9}} || || The {{w|Competitive Enterprise Institute}}, a non-profit libertarian think tank, is founded.
 |-
 | 1984 || {{dts|November}} || || [[w:Charles Murray (political scientist)|Charles Murray]]'s book ''[[w:Losing Ground (book)|Losing Ground]]'' is published. The book is "about the effectiveness of welfare state policies in the United States between 1950 and 1980". The book, while less explicitly libertarian than some of his later work, tries to show that "by most available measures, the late 1960s wave of income transfer programs [&hellip;] did not improve the lives of the poor, and in most cases made them worse off".<ref name="Doherty">{{cite book |title=Radicals for Capitalism: A Freewheeling History of the Modern American Libertarian Movement |author=Brian Doherty |year=2007 |publisher=PublicAffairs}}</ref>
@@ -69,6 +73,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1985 || || || The {{w|Independence Institute}}, a libertarian think tank based in Denver, Colorado, is founded.
 |-
 | 1986 || || || The {{w|Independent Institute}}, a libertarian think tank based in Oakland, California, is founded.
+|-
+| 1990 || || || {{w|Bruce L. Benson}}'s ''{{w|The Enterprise of Law}}'' is published.
 |-
 | 1991 || || || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
 |-
