@@ -14,6 +14,8 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1946 || {{dts|March 7}} || || The {{w|Foundation for Economic Education}}, a libertarian think tank, is founded.
 |-
+| 1947 || || || The {{w|Mont Pelerin Society}} is formed. "The society advocates freedom of expression, free market economic policies, the political values of an open society." Some of its founders are prominent libertarians.
+|-
 | 1949 || {{dts|October 1}} || || {{w|George Mason University}} (GMU) is established. The GMU economics department would become known for its concentration of free-market-oriented thinkers.<ref>{{cite web |url=http://www.slate.com/articles/sports/sports_nut/2006/03/the_secret_of_george_mason.html |first1=Peter |last1=Boettke |first2=Alexander |last2=Tabarrok |title=The real secret of George Mason University. |publisher=Slate Magazine |date=March 28, 2006 |accessdate=August 1, 2017}}</ref>
 |-
 | 1950 || {{dts|October 2}} || || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
@@ -30,11 +32,13 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1962 || || || {{w|Milton Friedman}}'s book ''{{w|Capitalism and Freedom}}'' is published. "Friedman argues for economic freedom as a precondition for political freedom. He defines 'liberal' in European Enlightenment terms, contrasting with an American usage that he believes has been corrupted since the Great Depression. His views are especially popular among American conservatives and libertarians."
 |-
-| 1966 || || || ''{{w|The Moon Is a Harsh Mistress}}'', a {{w|libertarian science fiction}} novel by {{w|Robert A. Heinlein}}, is published.
+| 1966 || || || ''{{w|The Moon Is a Harsh Mistress}}'', a {{w|libertarian science fiction}} novel by {{w|Robert A. Heinlein}}, is published. The book popularizes the "{{w|There ain't no such thing as a free lunch}}" adage.
 |-
 | 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
 |-
 | 1970 || || || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
+|-
+| 1971 || {{dts|December 11}} || || The United States [[wikipedia:Libertarian Party (United States)|Libertarian Party]] (LP) officially forms.
 |-
 | 1973 || || || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
 |-
@@ -45,6 +49,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1974 || {{dts|December}} || || The {{w|Cato Institute}}, a libertarian think tank, is founded as the Charles Koch Foundation.
 |-
 | 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
+|-
+| 1978 || || || {{w|Ron Paul newsletters}} begin to be published.
 |-
 | 1979 || || || The {{w|Prometheus Award}}, an award for {{w|libertarian science fiction}}, is first established.
 |-
@@ -66,7 +72,11 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1991 || || || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
 |-
+| 1998 || {{dts|April 2}} || || {{w|Randy Barnett}}'s ''{{w|The Structure of Liberty}}'' is published. The book "offers a libertarian theory of law and politics".
+|-
 | 1999 || || || The Library of Economics and Liberty (Econlib) is launched.<ref>Based on the copyright notice. The earliest Wayback Machine snapshot is from 2000.</ref>
+|-
+| 2001 || {{dts|September 1}} || || The {{w|Free State Project}} is formed.
 |-
 | 2003 || {{dts|January}} || || EconLog launches with {{w|Arnold Kling}} as the sole blogger.<ref>{{cite web |url=http://www.econlib.org/library/About.html#econlog |title=About Econlib |publisher=Library of Economics and Liberty |accessdate=August 1, 2017}}</ref>
 |-
@@ -75,6 +85,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 2013 || {{dts|January}} || || Philosopher {{w|Michael Huemer}}'s book ''{{w|The Problem of Political Authority}}'' is published. The book first argues for {{w|philosophical anarchism}} starting from "widely shared moral premises", then argues for the viability of {{w|anarcho-capitalism}}.<ref>{{cite web |url=http://econlog.econlib.org/archives/2013/01/the_problem_of_1.html |author=Bryan Caplan |title=The Problem of Political Authority by Michael Huemer |website=EconLog |publisher=Library of Economics and Liberty |date=January 17, 2013 |accessdate=August 1, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
 | 2015 || || || The {{w|Niskanen Center}}, a "think tank that advocates for environmentalism, immigration reform, civil liberties, and a national defense policy based on libertarian principles", is founded. It is based in Washington, D.C.
+|-
+| 2016 || {{dts|February 3}} || || The {{w|Free State Project}} announces that 20,000 people had signed its statement of intent to move, triggering the move (within five years) to New Hampshire.
 |}
 
 ==Meta information on the timeline==
