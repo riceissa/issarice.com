@@ -12,11 +12,15 @@ This is a '''timeline of libertarianism in the United States'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1946 || {{dts|March 7}} || || The {{w|Foundation for Economic Education}}, a libertarian think tank, is founded.
+|-
 | 1949 || {{dts|October 1}} || || {{w|George Mason University}} (GMU) is established. The GMU economics department would become known for its concentration of free-market-oriented thinkers.<ref>{{cite web |url=http://www.slate.com/articles/sports/sports_nut/2006/03/the_secret_of_george_mason.html |first1=Peter |last1=Boettke |first2=Alexander |last2=Tabarrok |title=The real secret of George Mason University. |publisher=Slate Magazine |date=March 28, 2006 |accessdate=August 1, 2017}}</ref>
 |-
 | 1950 || {{dts|October 2}} || || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
 |-
 | 1950s–1960s || || || {{w|Ayn Rand}}'s group of close confidants, known as [[w:Objectivist movement#The Collective|the Collective]], meets during this period.
+|-
+| 1957 || || || {{w|Ayn Rand}}'s novel ''{{w|Atlas Shrugged}}'' is published. The book "contains Rand's most extensive statement of Objectivism in any of her works of fiction".
 |-
 | 1960 || || || {{w|Liberty Fund}}, a libertarian non-profit foundation, is established.
 |-
@@ -26,11 +30,15 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1962 || || || {{w|Milton Friedman}}'s book ''{{w|Capitalism and Freedom}}'' is published. "Friedman argues for economic freedom as a precondition for political freedom. He defines 'liberal' in European Enlightenment terms, contrasting with an American usage that he believes has been corrupted since the Great Depression. His views are especially popular among American conservatives and libertarians."
 |-
+| 1966 || || || ''{{w|The Moon Is a Harsh Mistress}}'', a {{w|libertarian science fiction}} novel by {{w|Robert A. Heinlein}}, is published.
+|-
 | 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
 |-
 | 1970 || || || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
 |-
 | 1973 || || || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
+|-
+| 1973 || || || {{w|Murray Rothbard}}'s ''{{w|For a New Liberty}}'' is published. The book argues for anarcho-capitalism.
 |-
 | 1974 || || || {{w|Robert Nozick}}'s ''{{w|Anarchy, State, and Utopia}}'' is published. The book argues in favor of a minimal state.
 |-
@@ -39,6 +47,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
 |-
 | 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
+|-
+| 1980 || {{dts|October}} || || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
 |-
 | 1984 || {{dts|March 9}} || || The {{w|Competitive Enterprise Institute}}, a non-profit libertarian think tank, is founded.
 |-
