@@ -12,6 +12,13 @@ This is a '''timeline of libertarianism in the United States'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1961 || || || [[wikipedia:Thomas Szasz|Thomas Szasz]]'s ''{{w|The Myth of Mental Illness}}'' is published. The book "criticizes psychiatry and argues against the concept of mental illness".
+|-
+| 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
+|-
+| 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
+|-
+| 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
 |}
 
 ==Meta information on the timeline==
@@ -29,6 +36,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 ==See also==
 
 ==External links==
+
+* {{w|Timeline of libertarian thinkers}}
 
 ==References==
 
