@@ -34,6 +34,8 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1960 || || || {{w|Liberty Fund}}, a libertarian non-profit foundation, is established.
 |-
+| 1960 || {{dts|September 11}} || || {{w|Young Americans for Freedom}} (YAF) is founded. YAF is "an ideologically conservative youth activism organization that was founded [&hellip;] as a coalition between traditional conservatives and libertarians on American college campuses."
+|-
 | 1961 || || || [[wikipedia:Thomas Szasz|Thomas Szasz]]'s ''{{w|The Myth of Mental Illness}}'' is published. The book "criticizes psychiatry and argues against the concept of mental illness".
 |-
 | 1961 || || || The {{w|Institute for Humane Studies}}, a libertarian non-profit organization, is founded.
@@ -47,6 +49,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1966 || || || ''{{w|Capitalism: The Unknown Ideal}}'' by {{w|Ayn Rand}} (with additional essays by others) is published.
 |-
 | 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
+|-
+| 1969 || {{dts|May}} || || The inaugural [[wikipedia:The Future of Freedom Conference|Future of Freedom Conference]] takes place. The conference is "considered as the first explicitly libertarian conference series ever held in the United States".
 |-
 | 1970 || || || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
 |-
@@ -113,6 +117,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1985 || || || The {{w|Independence Institute}}, a libertarian think tank based in Denver, Colorado, is founded.
 |-
 | 1986 || || || The {{w|Independent Institute}}, a libertarian think tank based in Oakland, California, is founded.
+|-
+| 1989 || || || The Future of Freedom Foundation is founded.<ref>{{cite web |url=http://www.sourcewatch.org/index.php/Future_of_Freedom_Foundation |title=Future of Freedom Foundation |publisher=SourceWatch |accessdate=August 2, 2017}}</ref>
 |-
 | 1990 || || || {{w|Bruce L. Benson}}'s ''{{w|The Enterprise of Law}}'' is published.
 |-
