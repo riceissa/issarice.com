@@ -7,9 +7,8 @@ toc: false
 #date: 2017-04-02
 ---
 
-This is the website of myself, Issa Rice.
 This site stores basic information about me.
-It also serves as a place to store notes and drafts; anything that doesn't
+It also serves as a place for notes and drafts; anything that doesn't
 belong elsewhere ends up here.
 
 # On this site
@@ -29,6 +28,13 @@ belong elsewhere ends up here.
 - [Notes on math](math)
 - [Pages related to education](education)
 - A mirror of [my Quora answers]()
+- Philanthropy:
+    - [Against Malaria Foundation](against-malaria-foundation)
+    - [Open Philanthropy Project non-grant
+      funding](open-philanthropy-project-non-grant-funding)
+    - [Total spending in global health](total-spending-in-global-health)
+    - [Charities calculation](charities-calculation) (some data collection on the
+      number of charities tracked under various criteria)
 
 # Summary of what I worked on: June 2017 {#summary}
 
