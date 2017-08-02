@@ -80,9 +80,15 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1980 || {{dts|October}} || || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
 |-
+| 1980 || {{dts|November 4}} || || {{w|Ronald Reagan}} is [[wikipedia:United States presidential election, 1980|elected president of the United States]]. Reagan "rhetorically at least, was a libertarian dream, a man who could declare with apparent sincerity in his first inaugural address that 'government is not the solution to the problem, government ''is'' the problem.{{'"}}<ref name="Doherty" />{{rp|445}}
+|-
+| 1981 || || || The {{w|Atlas Network}}, a nonprofit organization that promotes free market economic policies, is founded by {{w|Antony Fisher}}.
+|-
 | 1982 || || || {{w|Murray Rothbard}}'s ''{{w|The Ethics of Liberty}}'' is published.
 |-
 | 1982 || || || The {{w|Ludwig von Mises Institute}} is founded. "Through its publications, the Institute promotes anarcho-capitalist political theory and a form of heterodox economics known as praxeology".
+|-
+| 1983 || || || The {{w|National Center for Policy Analysis}}, a nonprofit think tank "whose goals [are] to develop and promote private alternatives to government regulation and control", is founded by {{w|Antony Fisher}}.
 |-
 | 1984 || {{dts|March 9}} || || The {{w|Competitive Enterprise Institute}}, a non-profit libertarian think tank, is founded.
 |-
@@ -98,9 +104,15 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1991 || || || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
 |-
+| 1991 || || || {{w|Robert Ellickson}}'s ''Order Without Law: How Neighbors Settle Disputes'' is published.<ref>{{cite web |url=http://econfaculty.gmu.edu/bcaplan/ellick.htm |title=Order Without Law |author=Bryan Caplan |date=October 1992 |accessdate=August 2, 2017}}</ref>
+|-
+| 1997 || || || {{w|David Boaz}}'s ''Libertarianism: A Primer'' is published.
+|-
 | 1998 || {{dts|April 2}} || || {{w|Randy Barnett}}'s ''{{w|The Structure of Liberty}}'' is published. The book "offers a libertarian theory of law and politics".
 |-
 | 1999 || || || The Library of Economics and Liberty (Econlib) is launched.<ref>Based on the copyright notice. The earliest Wayback Machine snapshot is from 2000.</ref>
+|-
+| 2000 || || || {{w|David D. Friedman}}'s ''Law's Order: What Economics Has to Do with Law and Why It Matters'' is published.<ref>{{cite web |url=http://www.daviddfriedman.com/laws_order/index.shtml |title=Laws Order: The Web Page |author=David D. Friedman |accessdate=August 2, 2017}}</ref>
 |-
 | 2001 || {{dts|September 1}} || || The {{w|Free State Project}} is formed.
 |-
@@ -115,6 +127,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 2008 || {{dts|July 24}} || || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
 |-
 | 2009 || {{dts|January 22}} || || ''Libertarian Papers'', a "peer-reviewed journal of libertarian scholarship", is established. Its self-described purpose is "to advance scholarly research in disciplines of particular interest to the libertarian community, broadly conceived".<ref>{{cite web |url=http://libertarianpapers.org/about/ |title=Aims and Scope |publisher=Libertarian Papers |accessdate=August 2, 2017}}</ref>
+|-
+| 2013 || || || Liberty.me, a libertarian online publishing and social networking website, launches.<ref>{{cite web |url=https://www.linkedin.com/company-beta/3579131/ |title=Liberty.me: Overview |publisher=LinkedIn |accessdate=August 2, 2017}}</ref>
 |-
 | 2013 || {{dts|January}} || || Philosopher {{w|Michael Huemer}}'s book ''{{w|The Problem of Political Authority}}'' is published. The book first argues for {{w|philosophical anarchism}} starting from "widely shared moral premises", then argues for the viability of {{w|anarcho-capitalism}}.<ref>{{cite web |url=http://econlog.econlib.org/archives/2013/01/the_problem_of_1.html |author=Bryan Caplan |title=The Problem of Political Authority by Michael Huemer |website=EconLog |publisher=Library of Economics and Liberty |date=January 17, 2013 |accessdate=August 1, 2017}}</ref>
 |-
