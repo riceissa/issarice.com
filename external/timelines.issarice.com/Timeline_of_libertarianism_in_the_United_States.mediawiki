@@ -42,13 +42,23 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1971 || {{dts|December 11}} || || The United States [[wikipedia:Libertarian Party (United States)|Libertarian Party]] (LP) officially forms.
 |-
+| 1972 || || || ''{{w|Libertarian Review}}'', a libertarian magazine, is established. It would be published until 1981.
+|-
 | 1973 || || || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
 |-
 | 1973 || || || {{w|Murray Rothbard}}'s ''{{w|For a New Liberty}}'' is published. The book argues for anarcho-capitalism.
 |-
 | 1974 || || || {{w|Robert Nozick}}'s ''{{w|Anarchy, State, and Utopia}}'' is published. The book argues in favor of a minimal state.
 |-
+| 1974 || Fall || || The ''Reason Papers'' is founded.<ref>{{cite web |url=https://reasonpapers.com/archives/ |title=Archives |publisher=Reason Papers |accessdate=August 2, 2017}}</ref> ''Reason Papers' describes itself as "a forum for inquiry and debate across a wide spectrum of views rather than the instrument of any one ideology, party, or camp" and "is not edited for conformity with any particular philosophical or ideological perspective, is neither aligned with nor endorses any other institution or organization, and receives no funding from any outside source". However, it is hosted by the {{w|Mises Institute}}.<ref>{{cite web |url=https://reasonpapers.com/ |publisher=Reason Papers |title=A Journal of Interdisciplinary Normative Studies |accessdate=August 2, 2017}}</ref>
+|-
 | 1974 || {{dts|December}} || || The {{w|Cato Institute}}, a libertarian think tank, is founded as the Charles Koch Foundation.
+|-
+| 1976 || || || The {{w|Center for Libertarian Studies}}, a "libertarian and anarcho-capitalist oriented educational organization", is founded by {{w|Murray Rothbard}}.
+|-
+| 1977 || Spring || || The ''{{w|Journal of Libertarian Studies}}'' is established.
+|-
+| 1977 || {{dts|November 21}} || || The first issue of [[wikipedia:Inquiry (magazine)|Inquiry]], a libertarian magazine, is published.
 |-
 | 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
 |-
@@ -63,6 +73,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1980 || {{dts|October}} || || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
 |-
 | 1982 || || || {{w|Murray Rothbard}}'s ''{{w|The Ethics of Liberty}}'' is published.
+|-
+| 1982 || || || The {{w|Ludwig von Mises Institute}} is founded. "Through its publications, the Institute promotes anarcho-capitalist political theory and a form of heterodox economics known as praxeology".
 |-
 | 1984 || {{dts|March 9}} || || The {{w|Competitive Enterprise Institute}}, a non-profit libertarian think tank, is founded.
 |-
