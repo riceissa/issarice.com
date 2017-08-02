@@ -38,27 +38,23 @@ belong elsewhere ends up here.
 
 # Summary of what I worked on: June 2017 {#summary}
 
-Payment details of a [hits-based giving project](https://gist.github.com/riceissa/186b1d2e8bbb85e6204b5e06aba64018)
-I worked on a few months ago was finalized at the beginning of the month.
-For context, see the [original post](http://effective-altruism.com/ea/14s/how_many_hits_does_hitsbased_giving_get_a/)
-by Peter Hurford.
+I worked on some graphing improvements for Wikipedia Views.
+Pull requests: [1](https://github.com/vipulnaik/wikipediaviews/pull/18),
+[2](https://github.com/vipulnaik/wikipediaviews/pull/19).
 
-I completed [timeline of electricity
-adoption](https://timelines.issarice.com/wiki/Timeline_of_electricity_adoption),
-which I had begun the previous month.
+I wrote a [timeline of Machine Intelligence Research Institute](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute).
 
-I created a [timeline of Carl Shulman publications](https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications),
-which provides an updated and more complete version (taking into account the
-diversity of publication formats) of the [timeline Luke
-Muehlhauser created](http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/)
-some years ago.
+I wrote a [timeline of Center for Applied Rationality](https://timelines.issarice.com/wiki/Timeline_of_Center_for_Applied_Rationality).
+The timeline is still lacking a big picture.
 
-I got a good amount of work done on a new [timeline of Bitcoin](https://timelines.issarice.com/wiki/Timeline_of_Bitcoin),
-which is not yet done.
+I wrote a [timeline of friendly artificial intelligence](https://timelines.issarice.com/wiki/Timeline_of_friendly_artificial_intelligence).
+The timeline is still lacking a big picture.
 
-At the end of the month I started on [timeline of Machine Intelligence Research
-Institute](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute)
-to get a bit of break from the Bitcoin timeline.
+For Vipul Naik's donations site, I
+[worked on donee deduplication](https://github.com/vipulnaik/donations/tree/donee-deduplication)
+(this branch includes automated social media information fetching as well),
+[implemented a donor similarity comparison feature](https://github.com/vipulnaik/donations/tree/donee-deduplication),
+and [expanded the notes column](https://github.com/vipulnaik/donations/tree/notes-col-expansion).
 
 # Activity feeds
 
