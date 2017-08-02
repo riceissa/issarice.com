@@ -53,7 +53,7 @@ The timeline is still lacking a big picture.
 For Vipul Naik's donations site, I
 [worked on donee deduplication](https://github.com/vipulnaik/donations/tree/donee-deduplication)
 (this branch includes automated social media information fetching as well),
-[implemented a donor similarity comparison feature](https://github.com/vipulnaik/donations/tree/donee-deduplication),
+[implemented a donor similarity comparison feature](https://github.com/vipulnaik/donations/tree/donor-similarity),
 and [expanded the notes column](https://github.com/vipulnaik/donations/tree/notes-col-expansion).
 
 # Activity feeds
