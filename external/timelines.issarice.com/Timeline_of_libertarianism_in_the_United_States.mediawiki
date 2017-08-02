@@ -76,6 +76,8 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
 |-
+| 1980 || {{dts|January}} || || ''{{w|Free to Choose}}'', a book by economists [[wikipedia:Milton Friedman|Milton]] and {{w|Rose Friedman}} that advocates free market principles, is published. A ten-part television series broadcast on {{w|PBS}} also begins during this month.
+|-
 | 1980 || {{dts|October}} || || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
 |-
 | 1982 || || || {{w|Murray Rothbard}}'s ''{{w|The Ethics of Liberty}}'' is published.
@@ -103,6 +105,12 @@ This is a '''timeline of libertarianism in the United States'''.
 | 2001 || {{dts|September 1}} || || The {{w|Free State Project}} is formed.
 |-
 | 2003 || {{dts|January}} || || EconLog launches with {{w|Arnold Kling}} as the sole blogger.<ref>{{cite web |url=http://www.econlib.org/library/About.html#econlog |title=About Econlib |publisher=Library of Economics and Liberty |accessdate=August 1, 2017}}</ref>
+|-
+| 2003 || {{dts|August 21}} || || The first post on ''[[wikipedia:Marginal Revolution (blog)|Marginal Revolution]]'', the economics blog by {{w|Tyler Cowen}} and {{w|Alex Tabarrok}}, is from this day.<ref>{{cite web |url=http://marginalrevolution.com/marginalrevolution/2003/08/the_lunar_men.html |title=The Lunar Men |publisher=Marginal REVOLUTION |date=August 21, 2003 |accessdate=August 2, 2017}}</ref>
+|-
+| 2004 || {{dts|April 28}} || || The first post on ''Cafe Hayek'' is from this day.<ref>{{cite web |url=http://cafehayek.com/2004/04/job_facts.html |title=Jobs, Investment, & the Trade Deficit |publisher=Cafe Hayek |author=Don Boudreaux |date=April 28, 2004 |accessdate=August 2, 2017}}</ref>
+|-
+| 2008 || || || The inaugural [[wikipedia:Students for Liberty#Conferences|International Students For Liberty Conference]] takes place in {{w|New York City}}.
 |-
 | 2008 || {{dts|July 24}} || || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
 |-
