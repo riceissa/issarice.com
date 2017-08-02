@@ -64,23 +64,23 @@ to get a bit of break from the Bitcoin timeline.
 
 Here are some activity feeds that track what I've been working on:
 
-* My GitHub [contribution activity](https://github.com/riceissa), including my
+- My GitHub [contribution activity](https://github.com/riceissa), including my
   [commits to this website's
   repository](https://github.com/riceissa/issarice.com/commits/master)
-* My [contributions to the Timelines Wiki](https://timelines.issarice.com/wiki/Special:Contributions/Issa)
+- My [contributions to the Timelines Wiki](https://timelines.issarice.com/wiki/Special:Contributions/Issa)
   ([Git version with more incremental changes](https://github.com/riceissa/issarice.com/commits/master/external/timelines.issarice.com))
-* My [public GitHub Gists](https://gist.github.com/riceissa)
-* [Summary of my contract work for Vipul
+- My [public GitHub Gists](https://gist.github.com/riceissa)
+- [Summary of my contract work for Vipul
   Naik](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki)
   ([more detailed page with
   tables](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice))
-* [List of pages on this site, sorted by date of last substantive
+- [List of pages on this site, sorted by date of last substantive
   revision](_all_date)
-* [List of all pages on this site, ordered by the date of last
+- [List of all pages on this site, ordered by the date of last
   modification](_all)
-* [Recent changes on the Cause Prioritization
+- [Recent changes on the Cause Prioritization
   Wiki](https://causeprioritization.org/_activity)
-* [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)
+- [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)
   (I occasionally ask questions on Quora while I work)
 
 [email]: mailto:riceissa@gmail.com
