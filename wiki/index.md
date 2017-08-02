@@ -36,7 +36,7 @@ belong elsewhere ends up here.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: June 2017 {#summary}
+# Summary of what I worked on: July 2017 {#summary}
 
 I worked on some graphing improvements for Wikipedia Views.
 Pull requests: [1](https://github.com/vipulnaik/wikipediaviews/pull/18),
