@@ -12,6 +12,8 @@ This is a '''timeline of libertarianism in the United States'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1946 || || || {{w|Milton Friedman}} [[wikipedia:Milton Friedman#University of Chicago|accepts]] an offer to teach at the {{w|University of Chicago}}.
+|-
 | 1946 || {{dts|March 7}} || || The {{w|Foundation for Economic Education}}, a libertarian think tank, is founded.
 |-
 | 1947 || || || The {{w|Mont Pelerin Society}} is formed. "The society advocates freedom of expression, free market economic policies, the political values of an open society." Some of its founders are prominent libertarians.
@@ -19,6 +21,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1949 || {{dts|October 1}} || || {{w|George Mason University}} (GMU) is established. The GMU economics department would become known for its concentration of free-market-oriented thinkers.<ref>{{cite web |url=http://www.slate.com/articles/sports/sports_nut/2006/03/the_secret_of_george_mason.html |first1=Peter |last1=Boettke |first2=Alexander |last2=Tabarrok |title=The real secret of George Mason University. |publisher=Slate Magazine |date=March 28, 2006 |accessdate=August 1, 2017}}</ref>
 |-
 | 1950 || {{dts|October 2}} || || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
+|-
+| 1950s || || || The term "{{w|Chicago school of economics}}" is [[wikipedia:History of economic thought#The Chicago school of economics (20th century)|coined]] during this period.
 |-
 | 1950s–1960s || || || {{w|Ayn Rand}}'s group of close confidants, known as [[w:Objectivist movement#The Collective|the Collective]], meets during this period.
 |-
@@ -47,6 +51,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1973 || || || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
 |-
 | 1973 || || || {{w|Murray Rothbard}}'s ''{{w|For a New Liberty}}'' is published. The book argues for anarcho-capitalism.
+|-
+| 1973 || {{dts|September 11}} || || The {{w|1973 Chilean coup d'état}} takes place. The coup leads to rule of {{w|Augusto Pinochet}}, whose military government implements free-market-oriented policies under the influence of the {{w|Chicago Boys}}.
 |-
 | 1974 || || || {{w|Robert Nozick}}'s ''{{w|Anarchy, State, and Utopia}}'' is published. The book argues in favor of a minimal state.
 |-
@@ -99,6 +105,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 2003 || {{dts|January}} || || EconLog launches with {{w|Arnold Kling}} as the sole blogger.<ref>{{cite web |url=http://www.econlib.org/library/About.html#econlog |title=About Econlib |publisher=Library of Economics and Liberty |accessdate=August 1, 2017}}</ref>
 |-
 | 2008 || {{dts|July 24}} || || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
+|-
+| 2009 || {{dts|January 22}} || || ''Libertarian Papers'', a "peer-reviewed journal of libertarian scholarship", is established. Its self-described purpose is "to advance scholarly research in disciplines of particular interest to the libertarian community, broadly conceived".<ref>{{cite web |url=http://libertarianpapers.org/about/ |title=Aims and Scope |publisher=Libertarian Papers |accessdate=August 2, 2017}}</ref>
 |-
 | 2013 || {{dts|January}} || || Philosopher {{w|Michael Huemer}}'s book ''{{w|The Problem of Political Authority}}'' is published. The book first argues for {{w|philosophical anarchism}} starting from "widely shared moral premises", then argues for the viability of {{w|anarcho-capitalism}}.<ref>{{cite web |url=http://econlog.econlib.org/archives/2013/01/the_problem_of_1.html |author=Bryan Caplan |title=The Problem of Political Authority by Michael Huemer |website=EconLog |publisher=Library of Economics and Liberty |date=January 17, 2013 |accessdate=August 1, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
