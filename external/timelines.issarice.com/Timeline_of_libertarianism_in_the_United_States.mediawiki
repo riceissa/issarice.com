@@ -12,6 +12,8 @@ This is a '''timeline of libertarianism in the United States'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1849 || || || {{w|Henry David Thoreau}}'s ''{{w|Civil Disobedience}}'' is published. In the essay, Thoreau "asserts that because governments are typically more harmful than helpful, they therefore cannot be justified".
+|-
 | 1946 || || || {{w|Milton Friedman}} [[wikipedia:Milton Friedman#University of Chicago|accepts]] an offer to teach at the {{w|University of Chicago}}.
 |-
 | 1946 || {{dts|March 7}} || || The {{w|Foundation for Economic Education}}, a libertarian think tank, is founded.
@@ -62,6 +64,10 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1976 || || || The {{w|Center for Libertarian Studies}}, a "libertarian and anarcho-capitalist oriented educational organization", is founded by {{w|Murray Rothbard}}.
 |-
+| 1976 || || || The {{w|Foundation for Rational Economics and Education}}, a libertarian organization, is founded by {{w|Ron Paul}}.
+|-
+| 1977 || || || The {{w|Manhattan Institute for Policy Research}} is founded as the International Center for Economic Policy Studies. The institute, while not explicitly libertarian, has [[wikipedia:Manhattan Institute for Policy Research#Reagan-era activity (1981-1989)|sponsored]] the work of libertarian scholars including {{w|Walter E. Williams}} and [[wikipedia:Charles Murray (political scientist)|Charles Murray]].
+|-
 | 1977 || Spring || || The ''{{w|Journal of Libertarian Studies}}'' is established.
 |-
 | 1977 || {{dts|November 21}} || || The first issue of [[wikipedia:Inquiry (magazine)|Inquiry]], a libertarian magazine, is published.
@@ -71,6 +77,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1978 || || || {{w|Ron Paul newsletters}} begin to be published.
 |-
 | 1979 || || || The {{w|Prometheus Award}}, an award for {{w|libertarian science fiction}}, is first established.
+|-
+| 1979 || || || The {{w|Pacific Research Institute}}, "a California-based free-market think tank", is founded by {{w|Antony Fisher}}.
 |-
 | 1979 || {{dts|October 16}} || || {{w|J. Neil Schulman}}'s dystopian novel ''{{w|Alongside Night}}'' is published. It contains the [[w:Counter-economics#Origin|first portrayal]] of {{w|counter-economics}} in a book.
 |-
