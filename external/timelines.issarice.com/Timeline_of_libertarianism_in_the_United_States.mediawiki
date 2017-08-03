@@ -14,6 +14,8 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1849 || || || {{w|Henry David Thoreau}}'s ''{{w|Civil Disobedience}}'' is published. In the essay, Thoreau "asserts that because governments are typically more harmful than helpful, they therefore cannot be justified".
 |-
+| 1943 || || || ''{{w|The Fountainhead}}'', a novel by {{w|Ayn Rand}}, is published. Among other themes, the novel [[w:The Fountainhead#Individualism|explores the theme of individualism versus collectivism]].
+|-
 | 1946 || || || {{w|Milton Friedman}} [[wikipedia:Milton Friedman#University of Chicago|accepts]] an offer to teach at the {{w|University of Chicago}}.
 |-
 | 1946 || {{dts|March 7}} || || The {{w|Foundation for Economic Education}}, a libertarian think tank, is founded.
@@ -41,6 +43,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1961 || || || The {{w|Institute for Humane Studies}}, a libertarian non-profit organization, is founded.
 |-
 | 1962 || || || {{w|Milton Friedman}}'s book ''{{w|Capitalism and Freedom}}'' is published. "Friedman argues for economic freedom as a precondition for political freedom. He defines 'liberal' in European Enlightenment terms, contrasting with an American usage that he believes has been corrupted since the Great Depression. His views are especially popular among American conservatives and libertarians."
+|-
+| 1962 || || || ''{{w|The Calculus of Consent}}'', a {{w|public choice theory}} book by {{w|James M. Buchanan}} and {{w|Gordon Tullock}}, is published. Of Buchanan's and Tullock's work in public choice, Brian Doherty writes that it has "unquestionably given libertarians a valuable intellectual and ideological tool. Buchanan and Tullock helped build a [[w:Professional consensus of economics|professional consensus]] and a rigorous scholarly apparatus around the notion that{{snd}}despite what many economic professionals used to assume{{snd}}the behavior of government agents can fruitfully be modeled the same way we model individual behavior in markets; that is, as largely motivated by maximizing the personal utility of the government worker or politician, not by some {{w|empyrean}} concept of 'the public good' or an overall 'social welfare function' that a technical economist could calculate."<ref name="Doherty" />{{rp|469}}
 |-
 | 1963 || || || {{w|Rampart College}}, "a libertarian educational institution", is established by {{w|Robert LeFevre}}.
 |-
@@ -88,11 +92,15 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1979 || || || The {{w|Pacific Research Institute}}, "a California-based free-market think tank", is founded by {{w|Antony Fisher}}.
 |-
+| 1979 || || || {{w|Doug Casey}}'s book ''Crisis Investing'' is published. {{w|Brian Doherty}} credits the book with getting "anarcho-capitalist thoughts into the hands and heads of an unprecedented number of Americans".<ref name="Doherty" />{{rp|473}}
+|-
 | 1979 || {{dts|October 16}} || || {{w|J. Neil Schulman}}'s dystopian novel ''{{w|Alongside Night}}'' is published. It contains the [[w:Counter-economics#Origin|first portrayal]] of {{w|counter-economics}} in a book.
 |-
 | 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
 |-
 | 1980 || || || The {{w|Rampart Institute}} launches.
+|-
+| 1980 || || || {{w|Thomas Sowell}}'s ''{{w|Knowledge and Decisions}}'' is published. "Consistent with his established laissez-faire viewpoints, Sowell also indicts price controls (such as rent control, minimum wage, price fixing, and subsidies) as interfering in the implicit communication between consumers and producers necessary to optimize the choices of each. The fact that some industries or government agencies seem particularly incompetent or corrupt over many turnovers of their staff, he argues, is not bad people performing the duties but of rational people acting in their own interests responding to whatever incentives have been established in the system."
 |-
 | 1980 || {{dts|January}} || || ''{{w|Free to Choose}}'', a book by economists [[wikipedia:Milton Friedman|Milton]] and {{w|Rose Friedman}} that advocates free market principles, is published. A ten-part television series broadcast on {{w|PBS}} also begins during this month.
 |-
@@ -125,6 +133,8 @@ This is a '''timeline of libertarianism in the United States'''.
 | 1991 || || || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
 |-
 | 1991 || || || {{w|Robert Ellickson}}'s ''Order Without Law: How Neighbors Settle Disputes'' is published.<ref>{{cite web |url=http://econfaculty.gmu.edu/bcaplan/ellick.htm |title=Order Without Law |author=Bryan Caplan |date=October 1992 |accessdate=August 2, 2017}}</ref>
+|-
+| 1991 || || || {{w|Leonard Peikoff}}'s ''{{w|Objectivism: The Philosophy of Ayn Rand}}'' is published. The book discusses {{w|Ayn Rand}}'s philosophy, [[w:Objectivism (Ayn Rand)|Objectivism]].
 |-
 | 1997 || || || {{w|David Boaz}}'s ''Libertarianism: A Primer'' is published.
 |-
