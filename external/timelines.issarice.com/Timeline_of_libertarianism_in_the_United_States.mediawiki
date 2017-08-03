@@ -14,11 +14,15 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1831 || || Periodical || ''[[wikipedia:The Liberator (newspaper)|The Liberator]]'', an American abolitionist newspaper, is founded.
 |-
+| 1844 || || Organization || {{w|Lysander Spooner}} founds the {{w|American Letter Mail Company}}, which competes "with the legal monopoly of the United States Post Office (USPO, now the USPS) in violation of the Private Express Statutes." The company would shut down in 1851 after it is challenged by the US government.
+|-
 | 1845 || || Publication || ''{{w|The Unconstitutionality of Slavery}}'', an abolitionist pamphlet by {{w|Lysander Spooner}}, is published. The pamphlet advocates "the view that the United States Constitution prohibited slavery. This view was advocated in contrast to that of {{w|William Lloyd Garrison}} who advocated opposing the constitution on the grounds that it supported slavery."
 |-
 | 1849 || || Publication || {{w|Henry David Thoreau}}'s ''{{w|Civil Disobedience}}'' is published. In the essay, Thoreau "asserts that because governments are typically more harmful than helpful, they therefore cannot be justified".
 |-
 | 1852 || || Publication || {{w|Lysander Spooner}}'s ''An Essay on the Trial by Jury'' is published. The essay argues for {{w|jury nullification}}.<ref name="Doherty" />{{rp|50}}
+|-
+| 1867 || || Publication || ''{{w|No Treason}}'' by {{w|Lysander Spooner}} is published. Doherty writes: "More than any of his nineteenth-century individualist anarchist brethren, Spooner is still an active influence on the libertarian movement{{snd}}reprinted, quoted, honored, and relied on."<ref name="Doherty" />{{rp|51}}
 |-
 | 1943 || || Publication || ''{{w|The Fountainhead}}'', a novel by {{w|Ayn Rand}}, is published. Among other themes, the novel [[w:The Fountainhead#Individualism|explores the theme of individualism versus collectivism]].
 |-
