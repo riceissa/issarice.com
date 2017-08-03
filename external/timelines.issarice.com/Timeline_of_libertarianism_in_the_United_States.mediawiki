@@ -68,11 +68,11 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1973 || || Publication || {{w|Murray Rothbard}}'s ''{{w|For a New Liberty}}'' is published. The book argues for anarcho-capitalism.
 |-
-| 1973 || {{dts|September 11}} || || The {{w|1973 Chilean coup d'état}} takes place. The coup leads to rule of {{w|Augusto Pinochet}}, whose military government implements free-market-oriented policies under the influence of the {{w|Chicago Boys}}.
+| 1973 || {{dts|September 11}} || State || The {{w|1973 Chilean coup d'état}} takes place. The coup leads to rule of {{w|Augusto Pinochet}}, whose military government implements free-market-oriented policies under the influence of the {{w|Chicago Boys}}.
 |-
 | 1974 || || Publication || {{w|Robert Nozick}}'s ''{{w|Anarchy, State, and Utopia}}'' is published. The book argues in favor of a minimal state.
 |-
-| 1974 || Fall || || The ''Reason Papers'' is founded.<ref>{{cite web |url=https://reasonpapers.com/archives/ |title=Archives |publisher=Reason Papers |accessdate=August 2, 2017}}</ref> ''Reason Papers'' describes itself as "a forum for inquiry and debate across a wide spectrum of views rather than the instrument of any one ideology, party, or camp" and "is not edited for conformity with any particular philosophical or ideological perspective, is neither aligned with nor endorses any other institution or organization, and receives no funding from any outside source". However, it is hosted by the {{w|Mises Institute}}.<ref>{{cite web |url=https://reasonpapers.com/ |publisher=Reason Papers |title=A Journal of Interdisciplinary Normative Studies |accessdate=August 2, 2017}}</ref>
+| 1974 || Fall || Periodical || The ''Reason Papers'' is founded.<ref>{{cite web |url=https://reasonpapers.com/archives/ |title=Archives |publisher=Reason Papers |accessdate=August 2, 2017}}</ref> ''Reason Papers'' describes itself as "a forum for inquiry and debate across a wide spectrum of views rather than the instrument of any one ideology, party, or camp" and "is not edited for conformity with any particular philosophical or ideological perspective, is neither aligned with nor endorses any other institution or organization, and receives no funding from any outside source". However, it is hosted by the {{w|Mises Institute}}.<ref>{{cite web |url=https://reasonpapers.com/ |publisher=Reason Papers |title=A Journal of Interdisciplinary Normative Studies |accessdate=August 2, 2017}}</ref>
 |-
 | 1974 || {{dts|December}} || Organization || The {{w|Cato Institute}}, a libertarian think tank, is founded as the Charles Koch Foundation.
 |-
@@ -82,15 +82,15 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1977 || || Organization || The {{w|Manhattan Institute for Policy Research}} is founded as the International Center for Economic Policy Studies. The institute, while not explicitly libertarian, has [[wikipedia:Manhattan Institute for Policy Research#Reagan-era activity (1981-1989)|sponsored]] the work of libertarian scholars including {{w|Walter E. Williams}} and [[wikipedia:Charles Murray (political scientist)|Charles Murray]].
 |-
-| 1977 || Spring || || The ''{{w|Journal of Libertarian Studies}}'' is established.
+| 1977 || Spring || Periodical || The ''{{w|Journal of Libertarian Studies}}'' is established.
 |-
 | 1977 || {{dts|November 21}} || Periodical || The first issue of [[wikipedia:Inquiry (magazine)|Inquiry]], a libertarian magazine, is published.
 |-
 | 1978 || || Organization || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
 |-
-| 1978 || || || {{w|Ron Paul newsletters}} begin to be published.
+| 1978 || || Periodical || {{w|Ron Paul newsletters}} begin to be published.
 |-
-| 1978 || || || {{w|Dick Randolph}} becomes the first Libertarian Party candidate to be elected a state legislator when he is elected to the {{w|Alaska House of Representatives}}.
+| 1978 || || State || {{w|Dick Randolph}} becomes the first Libertarian Party candidate to be elected a state legislator when he is elected to the {{w|Alaska House of Representatives}}.
 |-
 | 1979 || || || The {{w|Prometheus Award}}, an award for {{w|libertarian science fiction}}, is first established.
 |-
@@ -106,13 +106,13 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1980 || || Publication || {{w|Thomas Sowell}}'s ''{{w|Knowledge and Decisions}}'' is published. "Consistent with his established laissez-faire viewpoints, Sowell also indicts price controls (such as rent control, minimum wage, price fixing, and subsidies) as interfering in the implicit communication between consumers and producers necessary to optimize the choices of each. The fact that some industries or government agencies seem particularly incompetent or corrupt over many turnovers of their staff, he argues, is not bad people performing the duties but of rational people acting in their own interests responding to whatever incentives have been established in the system."
 |-
-| 1980 || || || From [[wikipedia:History of the Libertarian Party (United States)#Clark, Crane, Koch, and Paul|History of the Libertarian Party (United States) § Clark, Crane, Koch, and Paul]]: "In the 1980 presidential contest, the Libertarian Party gain[s] ballot access in all 50 States, Washington, D.C., and Guam, the first time a third party accomplishe[s] this since the Socialist Party in 1916 (when there were only 48 States and the District of Columbia did not get to vote for president)."
+| 1980 || || State || From [[wikipedia:History of the Libertarian Party (United States)#Clark, Crane, Koch, and Paul|History of the Libertarian Party (United States) § Clark, Crane, Koch, and Paul]]: "In the 1980 presidential contest, the Libertarian Party gain[s] ballot access in all 50 States, Washington, D.C., and Guam, the first time a third party accomplishe[s] this since the Socialist Party in 1916 (when there were only 48 States and the District of Columbia did not get to vote for president)."
 |-
 | 1980 || {{dts|January}} || Publication || ''{{w|Free to Choose}}'', a book by economists [[wikipedia:Milton Friedman|Milton]] and {{w|Rose Friedman}} that advocates free market principles, is published. A ten-part television series broadcast on {{w|PBS}} also begins during this month.
 |-
 | 1980 || {{dts|October}} || Publication || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
 |-
-| 1980 || {{dts|November 4}} || || {{w|Ronald Reagan}} is [[wikipedia:United States presidential election, 1980|elected president of the United States]]. Reagan "rhetorically at least, was a libertarian dream, a man who could declare with apparent sincerity in his first inaugural address that 'government is not the solution to the problem, government ''is'' the problem.{{'"}}<ref name="Doherty" />{{rp|445}}
+| 1980 || {{dts|November 4}} || State || {{w|Ronald Reagan}} is [[wikipedia:United States presidential election, 1980|elected president of the United States]]. Reagan "rhetorically at least, was a libertarian dream, a man who could declare with apparent sincerity in his first inaugural address that 'government is not the solution to the problem, government ''is'' the problem.{{'"}}<ref name="Doherty" />{{rp|445}}
 |-
 | 1981 || || Organization || The {{w|Atlas Network}}, a nonprofit organization that promotes free market economic policies, is founded by {{w|Antony Fisher}}.
 |-
@@ -177,7 +177,7 @@ This is a '''timeline of libertarianism in the United States'''.
 
 ===How the timeline was built===
 
-The initial version of the timeline was written by [[User:Issa|Issa Rice]].
+The initial version of the timeline was written by [[User:Issa|Issa Rice]]. [[User:Vipul|Vipul Naik]] provided many suggestions for things to include in the timeline.
 
 {{funding info}} is available.
 
@@ -186,6 +186,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 ===Timeline update strategy===
 
 ==See also==
+
+* [[Timeline of the environmentalist movement]]
 
 ==External links==
 
