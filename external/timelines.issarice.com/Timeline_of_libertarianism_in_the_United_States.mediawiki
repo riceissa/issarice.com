@@ -12,81 +12,81 @@ This is a '''timeline of libertarianism in the United States'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
-| 1849 || || || {{w|Henry David Thoreau}}'s ''{{w|Civil Disobedience}}'' is published. In the essay, Thoreau "asserts that because governments are typically more harmful than helpful, they therefore cannot be justified".
+| 1849 || || Publication || {{w|Henry David Thoreau}}'s ''{{w|Civil Disobedience}}'' is published. In the essay, Thoreau "asserts that because governments are typically more harmful than helpful, they therefore cannot be justified".
 |-
-| 1943 || || || ''{{w|The Fountainhead}}'', a novel by {{w|Ayn Rand}}, is published. Among other themes, the novel [[w:The Fountainhead#Individualism|explores the theme of individualism versus collectivism]].
+| 1943 || || Publication || ''{{w|The Fountainhead}}'', a novel by {{w|Ayn Rand}}, is published. Among other themes, the novel [[w:The Fountainhead#Individualism|explores the theme of individualism versus collectivism]].
 |-
 | 1946 || || || {{w|Milton Friedman}} [[wikipedia:Milton Friedman#University of Chicago|accepts]] an offer to teach at the {{w|University of Chicago}}.
 |-
-| 1946 || {{dts|March 7}} || || The {{w|Foundation for Economic Education}}, a libertarian think tank, is founded.
+| 1946 || {{dts|March 7}} || Organization || The {{w|Foundation for Economic Education}}, a libertarian think tank, is founded.
 |-
-| 1947 || || || The {{w|Mont Pelerin Society}} is formed. "The society advocates freedom of expression, free market economic policies, the political values of an open society." Some of its founders are prominent libertarians.
+| 1947 || || Organization || The {{w|Mont Pelerin Society}} is formed. "The society advocates freedom of expression, free market economic policies, the political values of an open society." Some of its founders are prominent libertarians.
 |-
-| 1949 || {{dts|October 1}} || || {{w|George Mason University}} (GMU) is established. The GMU economics department would become known for its concentration of free-market-oriented thinkers.<ref>{{cite web |url=http://www.slate.com/articles/sports/sports_nut/2006/03/the_secret_of_george_mason.html |first1=Peter |last1=Boettke |first2=Alexander |last2=Tabarrok |title=The real secret of George Mason University. |publisher=Slate Magazine |date=March 28, 2006 |accessdate=August 1, 2017}}</ref>
+| 1949 || {{dts|October 1}} || Organization || {{w|George Mason University}} (GMU) is established. The GMU economics department would become known for its concentration of free-market-oriented thinkers.<ref>{{cite web |url=http://www.slate.com/articles/sports/sports_nut/2006/03/the_secret_of_george_mason.html |first1=Peter |last1=Boettke |first2=Alexander |last2=Tabarrok |title=The real secret of George Mason University. |publisher=Slate Magazine |date=March 28, 2006 |accessdate=August 1, 2017}}</ref>
 |-
-| 1950 || {{dts|October 2}} || || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
+| 1950 || {{dts|October 2}} || Publication || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
 |-
 | 1950s || || || The term "{{w|Chicago school of economics}}" is [[wikipedia:History of economic thought#The Chicago school of economics (20th century)|coined]] during this period.
 |-
 | 1950s–1960s || || || {{w|Ayn Rand}}'s group of close confidants, known as [[w:Objectivist movement#The Collective|the Collective]], meets during this period.
 |-
-| 1956 || || || The {{w|Freedom School}} is established.
+| 1956 || || Organization || The {{w|Freedom School}} is established.
 |-
-| 1957 || || || {{w|Ayn Rand}}'s novel ''{{w|Atlas Shrugged}}'' is published. The book "contains Rand's most extensive statement of Objectivism in any of her works of fiction".
+| 1957 || || Publication || {{w|Ayn Rand}}'s novel ''{{w|Atlas Shrugged}}'' is published. The book "contains Rand's most extensive statement of Objectivism in any of her works of fiction".
 |-
-| 1960 || || || {{w|Liberty Fund}}, a libertarian non-profit foundation, is established.
+| 1960 || || Organization || {{w|Liberty Fund}}, a libertarian non-profit foundation, is established.
 |-
-| 1960 || {{dts|September 11}} || || {{w|Young Americans for Freedom}} (YAF) is founded. YAF is "an ideologically conservative youth activism organization that was founded [&hellip;] as a coalition between traditional conservatives and libertarians on American college campuses."
+| 1960 || {{dts|September 11}} || Organization || {{w|Young Americans for Freedom}} (YAF) is founded. YAF is "an ideologically conservative youth activism organization that was founded [&hellip;] as a coalition between traditional conservatives and libertarians on American college campuses."
 |-
-| 1961 || || || [[wikipedia:Thomas Szasz|Thomas Szasz]]'s ''{{w|The Myth of Mental Illness}}'' is published. The book "criticizes psychiatry and argues against the concept of mental illness".
+| 1961 || || Publication || [[wikipedia:Thomas Szasz|Thomas Szasz]]'s ''{{w|The Myth of Mental Illness}}'' is published. The book "criticizes psychiatry and argues against the concept of mental illness".
 |-
-| 1961 || || || The {{w|Institute for Humane Studies}}, a libertarian non-profit organization, is founded.
+| 1961 || || Organization || The {{w|Institute for Humane Studies}}, a libertarian non-profit organization, is founded.
 |-
-| 1962 || || || {{w|Milton Friedman}}'s book ''{{w|Capitalism and Freedom}}'' is published. "Friedman argues for economic freedom as a precondition for political freedom. He defines 'liberal' in European Enlightenment terms, contrasting with an American usage that he believes has been corrupted since the Great Depression. His views are especially popular among American conservatives and libertarians."
+| 1962 || || Publication || {{w|Milton Friedman}}'s book ''{{w|Capitalism and Freedom}}'' is published. "Friedman argues for economic freedom as a precondition for political freedom. He defines 'liberal' in European Enlightenment terms, contrasting with an American usage that he believes has been corrupted since the Great Depression. His views are especially popular among American conservatives and libertarians."
 |-
-| 1962 || || || ''{{w|The Calculus of Consent}}'', a {{w|public choice theory}} book by {{w|James M. Buchanan}} and {{w|Gordon Tullock}}, is published. Of Buchanan's and Tullock's work in public choice, Brian Doherty writes that it has "unquestionably given libertarians a valuable intellectual and ideological tool. Buchanan and Tullock helped build a [[w:Professional consensus of economics|professional consensus]] and a rigorous scholarly apparatus around the notion that{{snd}}despite what many economic professionals used to assume{{snd}}the behavior of government agents can fruitfully be modeled the same way we model individual behavior in markets; that is, as largely motivated by maximizing the personal utility of the government worker or politician, not by some {{w|empyrean}} concept of 'the public good' or an overall 'social welfare function' that a technical economist could calculate."<ref name="Doherty" />{{rp|469}}
+| 1962 || || Publication || ''{{w|The Calculus of Consent}}'', a {{w|public choice theory}} book by {{w|James M. Buchanan}} and {{w|Gordon Tullock}}, is published. Of Buchanan's and Tullock's work in public choice, Brian Doherty writes that it has "unquestionably given libertarians a valuable intellectual and ideological tool. Buchanan and Tullock helped build a [[w:Professional consensus of economics|professional consensus]] and a rigorous scholarly apparatus around the notion that{{snd}}despite what many economic professionals used to assume{{snd}}the behavior of government agents can fruitfully be modeled the same way we model individual behavior in markets; that is, as largely motivated by maximizing the personal utility of the government worker or politician, not by some {{w|empyrean}} concept of 'the public good' or an overall 'social welfare function' that a technical economist could calculate."<ref name="Doherty" />{{rp|469}}
 |-
-| 1963 || || || {{w|Rampart College}}, "a libertarian educational institution", is established by {{w|Robert LeFevre}}.
+| 1963 || || Organization || {{w|Rampart College}}, "a libertarian educational institution", is established by {{w|Robert LeFevre}}.
 |-
-| 1966 || || || ''{{w|The Moon Is a Harsh Mistress}}'', a {{w|libertarian science fiction}} novel by {{w|Robert A. Heinlein}}, is published. The book popularizes the "{{w|There ain't no such thing as a free lunch}}" adage.
+| 1966 || || Publication || ''{{w|The Moon Is a Harsh Mistress}}'', a {{w|libertarian science fiction}} novel by {{w|Robert A. Heinlein}}, is published. The book popularizes the "{{w|There ain't no such thing as a free lunch}}" adage.
 |-
-| 1966 || || || ''{{w|Capitalism: The Unknown Ideal}}'' by {{w|Ayn Rand}} (with additional essays by others) is published.
+| 1966 || || Publication || ''{{w|Capitalism: The Unknown Ideal}}'' by {{w|Ayn Rand}} (with additional essays by others) is published.
 |-
-| 1968 || {{dts|May}} || || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
+| 1968 || {{dts|May}} || Publication || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
 |-
-| 1969 || || || The {{w|Nolan Chart}} is created by libertarian activist and politician [[wikipedia:David Nolan (libertarian)|David Nolan]]. "The chart divides human political views into two vectors{{snd}}economic opinion and personal opinion{{snd}}to produce a type of Cartesian chart. It expands political view analysis beyond the traditional 'left–right' line, which measures politics along a one-dimensional line, into a graph with two dimensions: degrees of economic and personal freedom." The current version of the chart would be published in 1971.
+| 1969 || || Publication || The {{w|Nolan Chart}} is created by libertarian activist and politician [[wikipedia:David Nolan (libertarian)|David Nolan]]. "The chart divides human political views into two vectors{{snd}}economic opinion and personal opinion{{snd}}to produce a type of Cartesian chart. It expands political view analysis beyond the traditional 'left–right' line, which measures politics along a one-dimensional line, into a graph with two dimensions: degrees of economic and personal freedom." The current version of the chart would be published in 1971.
 |-
 | 1969 || {{dts|May}} || || The inaugural [[wikipedia:The Future of Freedom Conference|Future of Freedom Conference]] takes place. The conference is "considered as the first explicitly libertarian conference series ever held in the United States".
 |-
-| 1970 || || || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
+| 1970 || || Publication || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
 |-
-| 1971 || {{dts|December 11}} || || The United States [[wikipedia:Libertarian Party (United States)|Libertarian Party]] (LP) officially forms.
+| 1971 || {{dts|December 11}} || Organization || The United States [[wikipedia:Libertarian Party (United States)|Libertarian Party]] (LP) officially forms.
 |-
 | 1972 || || || ''{{w|Libertarian Review}}'', a libertarian magazine, is established. It would be published until 1981.
 |-
-| 1973 || || || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
+| 1973 || || Publication || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
 |-
-| 1973 || || || {{w|Murray Rothbard}}'s ''{{w|For a New Liberty}}'' is published. The book argues for anarcho-capitalism.
+| 1973 || || Publication || {{w|Murray Rothbard}}'s ''{{w|For a New Liberty}}'' is published. The book argues for anarcho-capitalism.
 |-
 | 1973 || {{dts|September 11}} || || The {{w|1973 Chilean coup d'état}} takes place. The coup leads to rule of {{w|Augusto Pinochet}}, whose military government implements free-market-oriented policies under the influence of the {{w|Chicago Boys}}.
 |-
-| 1974 || || || {{w|Robert Nozick}}'s ''{{w|Anarchy, State, and Utopia}}'' is published. The book argues in favor of a minimal state.
+| 1974 || || Publication || {{w|Robert Nozick}}'s ''{{w|Anarchy, State, and Utopia}}'' is published. The book argues in favor of a minimal state.
 |-
 | 1974 || Fall || || The ''Reason Papers'' is founded.<ref>{{cite web |url=https://reasonpapers.com/archives/ |title=Archives |publisher=Reason Papers |accessdate=August 2, 2017}}</ref> ''Reason Papers'' describes itself as "a forum for inquiry and debate across a wide spectrum of views rather than the instrument of any one ideology, party, or camp" and "is not edited for conformity with any particular philosophical or ideological perspective, is neither aligned with nor endorses any other institution or organization, and receives no funding from any outside source". However, it is hosted by the {{w|Mises Institute}}.<ref>{{cite web |url=https://reasonpapers.com/ |publisher=Reason Papers |title=A Journal of Interdisciplinary Normative Studies |accessdate=August 2, 2017}}</ref>
 |-
-| 1974 || {{dts|December}} || || The {{w|Cato Institute}}, a libertarian think tank, is founded as the Charles Koch Foundation.
+| 1974 || {{dts|December}} || Organization || The {{w|Cato Institute}}, a libertarian think tank, is founded as the Charles Koch Foundation.
 |-
-| 1976 || || || The {{w|Center for Libertarian Studies}}, a "libertarian and anarcho-capitalist oriented educational organization", is founded by {{w|Murray Rothbard}}.
+| 1976 || || Organization || The {{w|Center for Libertarian Studies}}, a "libertarian and anarcho-capitalist oriented educational organization", is founded by {{w|Murray Rothbard}}.
 |-
-| 1976 || || || The {{w|Foundation for Rational Economics and Education}}, a libertarian organization, is founded by {{w|Ron Paul}}.
+| 1976 || || Organization || The {{w|Foundation for Rational Economics and Education}}, a libertarian organization, is founded by {{w|Ron Paul}}.
 |-
-| 1977 || || || The {{w|Manhattan Institute for Policy Research}} is founded as the International Center for Economic Policy Studies. The institute, while not explicitly libertarian, has [[wikipedia:Manhattan Institute for Policy Research#Reagan-era activity (1981-1989)|sponsored]] the work of libertarian scholars including {{w|Walter E. Williams}} and [[wikipedia:Charles Murray (political scientist)|Charles Murray]].
+| 1977 || || Organization || The {{w|Manhattan Institute for Policy Research}} is founded as the International Center for Economic Policy Studies. The institute, while not explicitly libertarian, has [[wikipedia:Manhattan Institute for Policy Research#Reagan-era activity (1981-1989)|sponsored]] the work of libertarian scholars including {{w|Walter E. Williams}} and [[wikipedia:Charles Murray (political scientist)|Charles Murray]].
 |-
 | 1977 || Spring || || The ''{{w|Journal of Libertarian Studies}}'' is established.
 |-
 | 1977 || {{dts|November 21}} || || The first issue of [[wikipedia:Inquiry (magazine)|Inquiry]], a libertarian magazine, is published.
 |-
-| 1978 || || || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
+| 1978 || || Organization || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
 |-
 | 1978 || || || {{w|Ron Paul newsletters}} begin to be published.
 |-
@@ -94,61 +94,61 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1979 || || || The {{w|Prometheus Award}}, an award for {{w|libertarian science fiction}}, is first established.
 |-
-| 1979 || || || The {{w|Pacific Research Institute}}, "a California-based free-market think tank", is founded by {{w|Antony Fisher}}.
+| 1979 || || Organization || The {{w|Pacific Research Institute}}, "a California-based free-market think tank", is founded by {{w|Antony Fisher}}.
 |-
-| 1979 || || || {{w|Doug Casey}}'s book ''Crisis Investing'' is published. {{w|Brian Doherty}} credits the book with getting "anarcho-capitalist thoughts into the hands and heads of an unprecedented number of Americans".<ref name="Doherty" />{{rp|473}}
+| 1979 || || Publication || {{w|Doug Casey}}'s book ''Crisis Investing'' is published. {{w|Brian Doherty}} credits the book with getting "anarcho-capitalist thoughts into the hands and heads of an unprecedented number of Americans".<ref name="Doherty" />{{rp|473}}
 |-
-| 1979 || {{dts|October 16}} || || {{w|J. Neil Schulman}}'s dystopian novel ''{{w|Alongside Night}}'' is published. It contains the [[w:Counter-economics#Origin|first portrayal]] of {{w|counter-economics}} in a book.
+| 1979 || {{dts|October 16}} || Publication || {{w|J. Neil Schulman}}'s dystopian novel ''{{w|Alongside Night}}'' is published. It contains the [[w:Counter-economics#Origin|first portrayal]] of {{w|counter-economics}} in a book.
 |-
-| 1980 || || || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
+| 1980 || || Organization || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
 |-
 | 1980 || || || The {{w|Rampart Institute}} launches.
 |-
-| 1980 || || || {{w|Thomas Sowell}}'s ''{{w|Knowledge and Decisions}}'' is published. "Consistent with his established laissez-faire viewpoints, Sowell also indicts price controls (such as rent control, minimum wage, price fixing, and subsidies) as interfering in the implicit communication between consumers and producers necessary to optimize the choices of each. The fact that some industries or government agencies seem particularly incompetent or corrupt over many turnovers of their staff, he argues, is not bad people performing the duties but of rational people acting in their own interests responding to whatever incentives have been established in the system."
+| 1980 || || Publication || {{w|Thomas Sowell}}'s ''{{w|Knowledge and Decisions}}'' is published. "Consistent with his established laissez-faire viewpoints, Sowell also indicts price controls (such as rent control, minimum wage, price fixing, and subsidies) as interfering in the implicit communication between consumers and producers necessary to optimize the choices of each. The fact that some industries or government agencies seem particularly incompetent or corrupt over many turnovers of their staff, he argues, is not bad people performing the duties but of rational people acting in their own interests responding to whatever incentives have been established in the system."
 |-
 | 1980 || || || From [[wikipedia:History of the Libertarian Party (United States)#Clark, Crane, Koch, and Paul|History of the Libertarian Party (United States) § Clark, Crane, Koch, and Paul]]: "In the 1980 presidential contest, the Libertarian Party gain[s] ballot access in all 50 States, Washington, D.C., and Guam, the first time a third party accomplishe[s] this since the Socialist Party in 1916 (when there were only 48 States and the District of Columbia did not get to vote for president)."
 |-
-| 1980 || {{dts|January}} || || ''{{w|Free to Choose}}'', a book by economists [[wikipedia:Milton Friedman|Milton]] and {{w|Rose Friedman}} that advocates free market principles, is published. A ten-part television series broadcast on {{w|PBS}} also begins during this month.
+| 1980 || {{dts|January}} || Publication || ''{{w|Free to Choose}}'', a book by economists [[wikipedia:Milton Friedman|Milton]] and {{w|Rose Friedman}} that advocates free market principles, is published. A ten-part television series broadcast on {{w|PBS}} also begins during this month.
 |-
-| 1980 || {{dts|October}} || || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
+| 1980 || {{dts|October}} || Publication || {{w|Samuel Edward Konkin III}}'s ''{{w|New Libertarian Manifesto}}'' is published. It is the first explanation of Konkin's {{w|agorism}}.
 |-
 | 1980 || {{dts|November 4}} || || {{w|Ronald Reagan}} is [[wikipedia:United States presidential election, 1980|elected president of the United States]]. Reagan "rhetorically at least, was a libertarian dream, a man who could declare with apparent sincerity in his first inaugural address that 'government is not the solution to the problem, government ''is'' the problem.{{'"}}<ref name="Doherty" />{{rp|445}}
 |-
-| 1981 || || || The {{w|Atlas Network}}, a nonprofit organization that promotes free market economic policies, is founded by {{w|Antony Fisher}}.
+| 1981 || || Organization || The {{w|Atlas Network}}, a nonprofit organization that promotes free market economic policies, is founded by {{w|Antony Fisher}}.
 |-
-| 1982 || || || {{w|Murray Rothbard}}'s ''{{w|The Ethics of Liberty}}'' is published.
+| 1982 || || Publication || {{w|Murray Rothbard}}'s ''{{w|The Ethics of Liberty}}'' is published.
 |-
-| 1982 || || || The {{w|Ludwig von Mises Institute}} is founded. "Through its publications, the Institute promotes anarcho-capitalist political theory and a form of heterodox economics known as praxeology".
+| 1982 || || Organization || The {{w|Ludwig von Mises Institute}} is founded. "Through its publications, the Institute promotes anarcho-capitalist political theory and a form of heterodox economics known as praxeology".
 |-
-| 1983 || || || The {{w|National Center for Policy Analysis}}, a nonprofit think tank "whose goals [are] to develop and promote private alternatives to government regulation and control", is founded by {{w|Antony Fisher}}.
+| 1983 || || Organization || The {{w|National Center for Policy Analysis}}, a nonprofit think tank "whose goals [are] to develop and promote private alternatives to government regulation and control", is founded by {{w|Antony Fisher}}.
 |-
-| 1984 || {{dts|March 9}} || || The {{w|Competitive Enterprise Institute}}, a non-profit libertarian think tank, is founded.
+| 1984 || {{dts|March 9}} || Organization || The {{w|Competitive Enterprise Institute}}, a non-profit libertarian think tank, is founded.
 |-
-| 1984 || {{dts|November}} || || [[w:Charles Murray (political scientist)|Charles Murray]]'s book ''[[w:Losing Ground (book)|Losing Ground]]'' is published. The book is "about the effectiveness of welfare state policies in the United States between 1950 and 1980". The book, while less explicitly libertarian than some of his later work, tries to show that "by most available measures, the late 1960s wave of income transfer programs [&hellip;] did not improve the lives of the poor, and in most cases made them worse off".<ref name="Doherty">{{cite book |title=Radicals for Capitalism: A Freewheeling History of the Modern American Libertarian Movement |author=Brian Doherty |year=2007 |publisher=PublicAffairs}}</ref>
+| 1984 || {{dts|November}} || Publication || [[w:Charles Murray (political scientist)|Charles Murray]]'s book ''[[w:Losing Ground (book)|Losing Ground]]'' is published. The book is "about the effectiveness of welfare state policies in the United States between 1950 and 1980". The book, while less explicitly libertarian than some of his later work, tries to show that "by most available measures, the late 1960s wave of income transfer programs [&hellip;] did not improve the lives of the poor, and in most cases made them worse off".<ref name="Doherty">{{cite book |title=Radicals for Capitalism: A Freewheeling History of the Modern American Libertarian Movement |author=Brian Doherty |year=2007 |publisher=PublicAffairs}}</ref>
 |-
-| 1985 || || || The {{w|Ayn Rand Institute}} is founded to promote Objectivism.
+| 1985 || || Organization || The {{w|Ayn Rand Institute}} is founded to promote Objectivism.
 |-
-| 1985 || || || The {{w|Independence Institute}}, a libertarian think tank based in Denver, Colorado, is founded.
+| 1985 || || Organization || The {{w|Independence Institute}}, a libertarian think tank based in Denver, Colorado, is founded.
 |-
-| 1986 || || || The {{w|Independent Institute}}, a libertarian think tank based in Oakland, California, is founded.
+| 1986 || || Organization || The {{w|Independent Institute}}, a libertarian think tank based in Oakland, California, is founded.
 |-
-| 1989 || || || The Future of Freedom Foundation is founded.<ref>{{cite web |url=http://www.sourcewatch.org/index.php/Future_of_Freedom_Foundation |title=Future of Freedom Foundation |publisher=SourceWatch |accessdate=August 2, 2017}}</ref>
+| 1989 || || Organization || The Future of Freedom Foundation is founded.<ref>{{cite web |url=http://www.sourcewatch.org/index.php/Future_of_Freedom_Foundation |title=Future of Freedom Foundation |publisher=SourceWatch |accessdate=August 2, 2017}}</ref>
 |-
-| 1990 || || || {{w|Bruce L. Benson}}'s ''{{w|The Enterprise of Law}}'' is published.
+| 1990 || || Publication || {{w|Bruce L. Benson}}'s ''{{w|The Enterprise of Law}}'' is published.
 |-
-| 1991 || || || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
+| 1991 || || Organization || The {{w|Institute for Justice}} (IJ), a "non-profit libertarian public interest law firm", is founded. IJ is headquartered in {{w|Arlington, Virginia}}.
 |-
-| 1991 || || || {{w|Robert Ellickson}}'s ''Order Without Law: How Neighbors Settle Disputes'' is published.<ref>{{cite web |url=http://econfaculty.gmu.edu/bcaplan/ellick.htm |title=Order Without Law |author=Bryan Caplan |date=October 1992 |accessdate=August 2, 2017}}</ref>
+| 1991 || || Publication || {{w|Robert Ellickson}}'s ''Order Without Law: How Neighbors Settle Disputes'' is published.<ref>{{cite web |url=http://econfaculty.gmu.edu/bcaplan/ellick.htm |title=Order Without Law |author=Bryan Caplan |date=October 1992 |accessdate=August 2, 2017}}</ref>
 |-
-| 1991 || || || {{w|Leonard Peikoff}}'s ''{{w|Objectivism: The Philosophy of Ayn Rand}}'' is published. The book discusses {{w|Ayn Rand}}'s philosophy, [[w:Objectivism (Ayn Rand)|Objectivism]].
+| 1991 || || Publication || {{w|Leonard Peikoff}}'s ''{{w|Objectivism: The Philosophy of Ayn Rand}}'' is published. The book discusses {{w|Ayn Rand}}'s philosophy, [[w:Objectivism (Ayn Rand)|Objectivism]].
 |-
-| 1997 || || || {{w|David Boaz}}'s ''Libertarianism: A Primer'' is published.
+| 1997 || || Publication || {{w|David Boaz}}'s ''Libertarianism: A Primer'' is published.
 |-
-| 1998 || {{dts|April 2}} || || {{w|Randy Barnett}}'s ''{{w|The Structure of Liberty}}'' is published. The book "offers a libertarian theory of law and politics".
+| 1998 || {{dts|April 2}} || Publication || {{w|Randy Barnett}}'s ''{{w|The Structure of Liberty}}'' is published. The book "offers a libertarian theory of law and politics".
 |-
 | 1999 || || || The Library of Economics and Liberty (Econlib) is launched.<ref>Based on the copyright notice. The earliest Wayback Machine snapshot is from 2000.</ref>
 |-
-| 2000 || || || {{w|David D. Friedman}}'s ''Law's Order: What Economics Has to Do with Law and Why It Matters'' is published.<ref>{{cite web |url=http://www.daviddfriedman.com/laws_order/index.shtml |title=Laws Order: The Web Page |author=David D. Friedman |accessdate=August 2, 2017}}</ref>
+| 2000 || || Publication || {{w|David D. Friedman}}'s ''Law's Order: What Economics Has to Do with Law and Why It Matters'' is published.<ref>{{cite web |url=http://www.daviddfriedman.com/laws_order/index.shtml |title=Laws Order: The Web Page |author=David D. Friedman |accessdate=August 2, 2017}}</ref>
 |-
 | 2001 || {{dts|September 1}} || || The {{w|Free State Project}} is formed.
 |-
@@ -160,15 +160,15 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 2008 || || || The inaugural [[wikipedia:Students for Liberty#Conferences|International Students For Liberty Conference]] takes place in {{w|New York City}}.
 |-
-| 2008 || {{dts|July 24}} || || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
+| 2008 || {{dts|July 24}} || Organization || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
 |-
 | 2009 || {{dts|January 22}} || || ''Libertarian Papers'', a "peer-reviewed journal of libertarian scholarship", is established. Its self-described purpose is "to advance scholarly research in disciplines of particular interest to the libertarian community, broadly conceived".<ref>{{cite web |url=http://libertarianpapers.org/about/ |title=Aims and Scope |publisher=Libertarian Papers |accessdate=August 2, 2017}}</ref>
 |-
 | 2013 || || || Liberty.me, a libertarian online publishing and social networking website, launches.<ref>{{cite web |url=https://www.linkedin.com/company-beta/3579131/ |title=Liberty.me: Overview |publisher=LinkedIn |accessdate=August 2, 2017}}</ref>
 |-
-| 2013 || {{dts|January}} || || Philosopher {{w|Michael Huemer}}'s book ''{{w|The Problem of Political Authority}}'' is published. The book first argues for {{w|philosophical anarchism}} starting from "widely shared moral premises", then argues for the viability of {{w|anarcho-capitalism}}.<ref>{{cite web |url=http://econlog.econlib.org/archives/2013/01/the_problem_of_1.html |author=Bryan Caplan |title=The Problem of Political Authority by Michael Huemer |website=EconLog |publisher=Library of Economics and Liberty |date=January 17, 2013 |accessdate=August 1, 2017}}</ref>
+| 2013 || {{dts|January}} || Publication || Philosopher {{w|Michael Huemer}}'s book ''{{w|The Problem of Political Authority}}'' is published. The book first argues for {{w|philosophical anarchism}} starting from "widely shared moral premises", then argues for the viability of {{w|anarcho-capitalism}}.<ref>{{cite web |url=http://econlog.econlib.org/archives/2013/01/the_problem_of_1.html |author=Bryan Caplan |title=The Problem of Political Authority by Michael Huemer |website=EconLog |publisher=Library of Economics and Liberty |date=January 17, 2013 |accessdate=August 1, 2017}}</ref>
 |-
-| 2015 || || || The {{w|Niskanen Center}}, a "think tank that advocates for environmentalism, immigration reform, civil liberties, and a national defense policy based on libertarian principles", is founded. It is based in Washington, D.C.
+| 2015 || || Organization || The {{w|Niskanen Center}}, a "think tank that advocates for environmentalism, immigration reform, civil liberties, and a national defense policy based on libertarian principles", is founded. It is based in Washington, D.C.
 |-
 | 2016 || {{dts|February 3}} || || The {{w|Free State Project}} announces that 20,000 people had signed its statement of intent to move, triggering the move (within five years) to New Hampshire.
 |}
