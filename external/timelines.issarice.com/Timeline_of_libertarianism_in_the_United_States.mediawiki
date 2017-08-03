@@ -24,7 +24,7 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1949 || {{dts|October 1}} || Organization || {{w|George Mason University}} (GMU) is established. The GMU economics department would become known for its concentration of free-market-oriented thinkers.<ref>{{cite web |url=http://www.slate.com/articles/sports/sports_nut/2006/03/the_secret_of_george_mason.html |first1=Peter |last1=Boettke |first2=Alexander |last2=Tabarrok |title=The real secret of George Mason University. |publisher=Slate Magazine |date=March 28, 2006 |accessdate=August 1, 2017}}</ref>
 |-
-| 1950 || {{dts|October 2}} || Publication || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
+| 1950 || {{dts|October 2}} || Periodical || The first issue of ''{{w|The Freeman}}'', a libertarian magazine, is published.
 |-
 | 1950s || || || The term "{{w|Chicago school of economics}}" is [[wikipedia:History of economic thought#The Chicago school of economics (20th century)|coined]] during this period.
 |-
@@ -52,17 +52,17 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1966 || || Publication || ''{{w|Capitalism: The Unknown Ideal}}'' by {{w|Ayn Rand}} (with additional essays by others) is published.
 |-
-| 1968 || {{dts|May}} || Publication || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
+| 1968 || {{dts|May}} || Periodical || The first issue of ''[[wikipedia:Reason (magazine)|Reason]]'', a libertarian monthly magazine, is published.
 |-
 | 1969 || || Publication || The {{w|Nolan Chart}} is created by libertarian activist and politician [[wikipedia:David Nolan (libertarian)|David Nolan]]. "The chart divides human political views into two vectors{{snd}}economic opinion and personal opinion{{snd}}to produce a type of Cartesian chart. It expands political view analysis beyond the traditional 'left–right' line, which measures politics along a one-dimensional line, into a graph with two dimensions: degrees of economic and personal freedom." The current version of the chart would be published in 1971.
 |-
-| 1969 || {{dts|May}} || || The inaugural [[wikipedia:The Future of Freedom Conference|Future of Freedom Conference]] takes place. The conference is "considered as the first explicitly libertarian conference series ever held in the United States".
+| 1969 || {{dts|May}} || Conference || The inaugural [[wikipedia:The Future of Freedom Conference|Future of Freedom Conference]] takes place. The conference is "considered as the first explicitly libertarian conference series ever held in the United States".
 |-
 | 1970 || || Publication || ''{{w|The Market for Liberty}}'', an anarcho-capitalist book by Linda and Morris Tannehill, is published.
 |-
 | 1971 || {{dts|December 11}} || Organization || The United States [[wikipedia:Libertarian Party (United States)|Libertarian Party]] (LP) officially forms.
 |-
-| 1972 || || || ''{{w|Libertarian Review}}'', a libertarian magazine, is established. It would be published until 1981.
+| 1972 || || Periodical || ''{{w|Libertarian Review}}'', a libertarian magazine, is established. It would be published until 1981.
 |-
 | 1973 || || Publication || {{w|David D. Friedman}}'s ''{{w|The Machinery of Freedom}}'' is published.
 |-
@@ -84,7 +84,7 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1977 || Spring || || The ''{{w|Journal of Libertarian Studies}}'' is established.
 |-
-| 1977 || {{dts|November 21}} || || The first issue of [[wikipedia:Inquiry (magazine)|Inquiry]], a libertarian magazine, is published.
+| 1977 || {{dts|November 21}} || Periodical || The first issue of [[wikipedia:Inquiry (magazine)|Inquiry]], a libertarian magazine, is published.
 |-
 | 1978 || || Organization || The {{w|Reason Foundation}}, a libertarian think tank, is founded.
 |-
@@ -102,7 +102,7 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1980 || || Organization || The {{w|Mercatus Center}}, a "non-profit free-market-oriented research, education, and outreach think tank", is established at {{w|George Mason University}}.
 |-
-| 1980 || || || The {{w|Rampart Institute}} launches.
+| 1980 || || Organization || The {{w|Rampart Institute}} launches.
 |-
 | 1980 || || Publication || {{w|Thomas Sowell}}'s ''{{w|Knowledge and Decisions}}'' is published. "Consistent with his established laissez-faire viewpoints, Sowell also indicts price controls (such as rent control, minimum wage, price fixing, and subsidies) as interfering in the implicit communication between consumers and producers necessary to optimize the choices of each. The fact that some industries or government agencies seem particularly incompetent or corrupt over many turnovers of their staff, he argues, is not bad people performing the duties but of rational people acting in their own interests responding to whatever incentives have been established in the system."
 |-
@@ -146,25 +146,25 @@ This is a '''timeline of libertarianism in the United States'''.
 |-
 | 1998 || {{dts|April 2}} || Publication || {{w|Randy Barnett}}'s ''{{w|The Structure of Liberty}}'' is published. The book "offers a libertarian theory of law and politics".
 |-
-| 1999 || || || The Library of Economics and Liberty (Econlib) is launched.<ref>Based on the copyright notice. The earliest Wayback Machine snapshot is from 2000.</ref>
+| 1999 || || Website || The Library of Economics and Liberty (Econlib) is launched.<ref>Based on the copyright notice. The earliest Wayback Machine snapshot is from 2000.</ref>
 |-
 | 2000 || || Publication || {{w|David D. Friedman}}'s ''Law's Order: What Economics Has to Do with Law and Why It Matters'' is published.<ref>{{cite web |url=http://www.daviddfriedman.com/laws_order/index.shtml |title=Laws Order: The Web Page |author=David D. Friedman |accessdate=August 2, 2017}}</ref>
 |-
 | 2001 || {{dts|September 1}} || || The {{w|Free State Project}} is formed.
 |-
-| 2003 || {{dts|January}} || || EconLog launches with {{w|Arnold Kling}} as the sole blogger.<ref>{{cite web |url=http://www.econlib.org/library/About.html#econlog |title=About Econlib |publisher=Library of Economics and Liberty |accessdate=August 1, 2017}}</ref>
+| 2003 || {{dts|January}} || Website || EconLog launches with {{w|Arnold Kling}} as the sole blogger.<ref>{{cite web |url=http://www.econlib.org/library/About.html#econlog |title=About Econlib |publisher=Library of Economics and Liberty |accessdate=August 1, 2017}}</ref>
 |-
-| 2003 || {{dts|August 21}} || || The first post on ''[[wikipedia:Marginal Revolution (blog)|Marginal Revolution]]'', the economics blog by {{w|Tyler Cowen}} and {{w|Alex Tabarrok}}, is from this day.<ref>{{cite web |url=http://marginalrevolution.com/marginalrevolution/2003/08/the_lunar_men.html |title=The Lunar Men |publisher=Marginal REVOLUTION |date=August 21, 2003 |accessdate=August 2, 2017}}</ref>
+| 2003 || {{dts|August 21}} || Website || The first post on ''[[wikipedia:Marginal Revolution (blog)|Marginal Revolution]]'', the economics blog by {{w|Tyler Cowen}} and {{w|Alex Tabarrok}}, is from this day.<ref>{{cite web |url=http://marginalrevolution.com/marginalrevolution/2003/08/the_lunar_men.html |title=The Lunar Men |publisher=Marginal REVOLUTION |date=August 21, 2003 |accessdate=August 2, 2017}}</ref>
 |-
-| 2004 || {{dts|April 28}} || || The first post on ''Cafe Hayek'' is from this day.<ref>{{cite web |url=http://cafehayek.com/2004/04/job_facts.html |title=Jobs, Investment, & the Trade Deficit |publisher=Cafe Hayek |author=Don Boudreaux |date=April 28, 2004 |accessdate=August 2, 2017}}</ref>
+| 2004 || {{dts|April 28}} || Website || The first post on ''Cafe Hayek'' is from this day.<ref>{{cite web |url=http://cafehayek.com/2004/04/job_facts.html |title=Jobs, Investment, & the Trade Deficit |publisher=Cafe Hayek |author=Don Boudreaux |date=April 28, 2004 |accessdate=August 2, 2017}}</ref>
 |-
-| 2008 || || || The inaugural [[wikipedia:Students for Liberty#Conferences|International Students For Liberty Conference]] takes place in {{w|New York City}}.
+| 2008 || || Conference || The inaugural [[wikipedia:Students for Liberty#Conferences|International Students For Liberty Conference]] takes place in {{w|New York City}}.
 |-
 | 2008 || {{dts|July 24}} || Organization || {{w|Students for Liberty}}, a libertarian non-profit organization, is founded.
 |-
-| 2009 || {{dts|January 22}} || || ''Libertarian Papers'', a "peer-reviewed journal of libertarian scholarship", is established. Its self-described purpose is "to advance scholarly research in disciplines of particular interest to the libertarian community, broadly conceived".<ref>{{cite web |url=http://libertarianpapers.org/about/ |title=Aims and Scope |publisher=Libertarian Papers |accessdate=August 2, 2017}}</ref>
+| 2009 || {{dts|January 22}} || Periodical || ''Libertarian Papers'', a "peer-reviewed journal of libertarian scholarship", is established. Its self-described purpose is "to advance scholarly research in disciplines of particular interest to the libertarian community, broadly conceived".<ref>{{cite web |url=http://libertarianpapers.org/about/ |title=Aims and Scope |publisher=Libertarian Papers |accessdate=August 2, 2017}}</ref>
 |-
-| 2013 || || || Liberty.me, a libertarian online publishing and social networking website, launches.<ref>{{cite web |url=https://www.linkedin.com/company-beta/3579131/ |title=Liberty.me: Overview |publisher=LinkedIn |accessdate=August 2, 2017}}</ref>
+| 2013 || || Website || Liberty.me, a libertarian online publishing and social networking website, launches.<ref>{{cite web |url=https://www.linkedin.com/company-beta/3579131/ |title=Liberty.me: Overview |publisher=LinkedIn |accessdate=August 2, 2017}}</ref>
 |-
 | 2013 || {{dts|January}} || Publication || Philosopher {{w|Michael Huemer}}'s book ''{{w|The Problem of Political Authority}}'' is published. The book first argues for {{w|philosophical anarchism}} starting from "widely shared moral premises", then argues for the viability of {{w|anarcho-capitalism}}.<ref>{{cite web |url=http://econlog.econlib.org/archives/2013/01/the_problem_of_1.html |author=Bryan Caplan |title=The Problem of Political Authority by Michael Huemer |website=EconLog |publisher=Library of Economics and Liberty |date=January 17, 2013 |accessdate=August 1, 2017}}</ref>
 |-
