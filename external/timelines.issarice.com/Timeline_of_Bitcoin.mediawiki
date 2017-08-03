@@ -321,7 +321,7 @@ The following table summarizes cumulative repositories on GitHub.<ref>{{cite web
 
 ===How the timeline was built===
 
-{{funding info}}
+{{funding info}} is available.
 
 ===What the timeline is still missing===
 
