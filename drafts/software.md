@@ -46,7 +46,7 @@ The following table tracks the software I use or have used.
 |MuPDF|PDF viewer|
 |FB Reader|Ebook reader|
 |Calibre|Ebook reader|
-|emelFM2|File manager|
+|emelFM2|File manager|||||I used this a long time ago (probably after seeing [K.Mandla mention it](https://kmandla.wordpress.com/software/)) but then I didn't use it for a while. More recently I've been using it because the default file manager on MATE takes too long to start up.|
 |`youtube-dl`|
 |GNU userland|
 |rsync|
