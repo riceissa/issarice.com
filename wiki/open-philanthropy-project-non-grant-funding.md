@@ -20,14 +20,6 @@ consultants.
 As of April 2017 I am not aware of any central location for this information
 (other than this page).
 
-# Prize money
-
-[Distill Prize](http://distill.pub/prize/) is financially supported by Open Phil:
-
-> The Distill Prize has a $125,000 USD initial endowment, funded by Chris Olah,
-> Greg Brockman, Jeff Dean, DeepMind, and the Open Philanthropy Project.
-> Logistics for the prize are handled by the Open Philanthropy Project.
-
 # Consultants
 
 For consultants, the exact payment amount is not public.
