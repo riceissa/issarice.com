@@ -29,9 +29,10 @@ belong elsewhere ends up here.
 - [Pages related to education](education)
 - A mirror of [my Quora answers]()
 - Philanthropy:
-    - [Against Malaria Foundation](against-malaria-foundation)
     - [Open Philanthropy Project non-grant
       funding](open-philanthropy-project-non-grant-funding)
+    - [GiveWell staff growth](givewell-staff-growth)
+    - [Against Malaria Foundation](against-malaria-foundation)
     - [Total spending in global health](total-spending-in-global-health)
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
