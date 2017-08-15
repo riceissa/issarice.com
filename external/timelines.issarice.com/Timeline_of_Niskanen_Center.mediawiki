@@ -16,7 +16,13 @@ This is a '''timeline of Niskanen Center'''. The {{w|Niskanen Center}} is a {{w|
 |-
 | 2014 || {{dts|March 12}} || || The <code>niskanencenter.org</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=niskanencenter.org |title=Showing results for: NISKANENCENTER.ORG |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-03-12T23:23:15Z}}</ref>
 |-
+| 2014 || {{dts|May 1}} || || The Niskanen Center Twitter account, NiskanenCenter, is created on this day.<ref>{{cite web |url=https://twitter.com/NiskanenCenter |title=Niskanen Center (@NiskanenCenter) |accessdate=August 15, 2017 |publisher=Twitter}}</ref>
+|-
+| 2014 || {{dts|December 15}} || || The <code>thefirstprinciple.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=thefirstprinciple.com |title=Showing results for: THEFIRSTPRINCIPLE.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-12-15T19:25:05Z}}</ref>
+|-
 | 2014 || {{dts|December 23}} || || The <code>climateunplugged.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=climateunplugged.com |title=Showing results for: CLIMATEUNPLUGGED.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-12-23T17:12:48Z}}</ref>
+|-
+| 2015 || {{dts|May 27}} || || The <code>panopticontra.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=panopticontra.com |title=Showing results for: PANOPTICONTRA.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2015-05-27T20:47:05Z}}</ref>
 |-
 | 2015 || {{dts|October}} || || The {{w|Open Philanthropy Project}} awards a grant of $360,000 to the Niskanen Center for the center's work on immigration policy.<ref name="open_phil_convo_bier">{{cite web |url=http://www.openphilanthropy.org/focus/us-policy/immigration-policy/niskanen-immigration |title=Niskanen Center — Research on Immigration Policy |publisher=Open Philanthropy Project |accessdate=August 13, 2017}}</ref>
 |-
