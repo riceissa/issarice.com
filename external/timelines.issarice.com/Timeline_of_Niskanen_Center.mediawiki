@@ -32,7 +32,7 @@ This is a '''timeline of Niskanen Center'''. The {{w|Niskanen Center}} is a {{w|
 |-
 | 2015 || {{dts|December 14}} || || Immigration || The Open Philanthropy Project has a conversation with David Bier, Director of Immigration Policy at the Niskanen Center, on this day. The purpose of the conversation is to receive an update on the center's work on immigration.<ref>{{cite web |url=http://www.openphilanthropy.org/sites/default/files/David_Bier_12-14-2015_%28public%29.pdf |title=A conversation with David Bier, December 14, 2015 |accessdate=August 13, 2017}}</ref>
 |-
-| 2017 || {{dts|March 8}} || || Climate change || The Niskanen Center publishes a paper on climate science, titled "Climate Science: A Guide to the Public Debate", written by Joseph Majkut.<ref>{{cite web |url=https://niskanencenter.org/wp-content/uploads/2017/03/NISKANEN-CLIMATE-PRIMER-2017-03-13.pdf |title=Microsoft Word - NISKANEN CLIMATE PRIMER - 2017-03-13.docx - NISKANEN-CLIMATE-PRIMER-2017-03-13.pdf |accessdate=August 15, 2017}}</ref><ref>{{cite web |url=https://niskanencenter.org/blog/guide-climate-debate/ |publisher=Niskanen Center |title=A Guide to the Climate Debate |publisher=Niskanen Center |date=March 12, 2017 |accessdate=August 15, 2017}}</ref><ref>{{cite web |url=https://www.desmogblog.com/2017/03/22/libertarian-think-tank-niskanen-majkut-correct-climate-science-debate-dc |publisher=DeSmogBlog |title=How a Libertarian Think Tank Is Trying to Correct the 'Degenerate' Climate Science Debate in Washington, DC |author=Graham Readfearn |date=March 22, 2017 |accessdate=August 15, 2017}}</ref>
+| 2017 || {{dts|March 8}} || || Climate change || The Niskanen Center publishes a paper on climate science, titled "Climate Science: A Guide to the Public Debate", written by Joseph Majkut.<ref>{{cite web |url=https://niskanencenter.org/wp-content/uploads/2017/03/NISKANEN-CLIMATE-PRIMER-2017-03-13.pdf |title=Microsoft Word - NISKANEN CLIMATE PRIMER - 2017-03-13.docx - NISKANEN-CLIMATE-PRIMER-2017-03-13.pdf |accessdate=August 15, 2017}}</ref><ref>{{cite web |url=https://niskanencenter.org/blog/guide-climate-debate/ |title=A Guide to the Climate Debate |publisher=Niskanen Center |date=March 12, 2017 |accessdate=August 15, 2017}}</ref><ref>{{cite web |url=https://www.desmogblog.com/2017/03/22/libertarian-think-tank-niskanen-majkut-correct-climate-science-debate-dc |publisher=DeSmogBlog |title=How a Libertarian Think Tank Is Trying to Correct the 'Degenerate' Climate Science Debate in Washington, DC |author=Graham Readfearn |date=March 22, 2017 |accessdate=August 15, 2017}}</ref>
 |-
 | 2017 || {{dts|April 28}} || || Climate change || In an interview with ''{{w|The Intercept}}'', {{w|Jerry Taylor}} explains how his views on climate change have shifted from climate skeptic to climate activist.<ref>{{cite web |url=https://theintercept.com/2017/04/28/how-a-professional-climate-change-denier-discovered-the-lies-and-decided-to-fight-for-science/ |publisher=The Intercept |title=How a Professional Climate Change Denier Discovered the Lies and Decided to Fight for Science |author=Sharon Lerner |date=April 28, 2017 |accessdate=August 15, 2017}}</ref>
 |}
@@ -52,6 +52,10 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 ==See also==
 
 ==External links==
+
+* [https://niskanencenter.org Official website]
+* ''[https://www.climateunplugged.com/ Climate Unplugged]'', Niskanen Center's blog on climate change
+* [https://donations.vipulnaik.com/donee.php?donee=Niskanen+Center Niskanen Center donations received] as recorded in Vipul Naik's donations site
 
 ==References==
 
