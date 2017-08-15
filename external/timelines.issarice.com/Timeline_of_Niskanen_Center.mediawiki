@@ -14,6 +14,10 @@ This is a '''timeline of Niskanen Center'''. The {{w|Niskanen Center}} is a {{w|
 |-
 | 2014 || || || The Niskanen Center is established.<ref>{{cite web |url=https://niskanencenter.org/about/ |publisher=Niskanen Center |title=About - Niskanen Center |accessdate=August 13, 2017}}</ref>
 |-
+| 2014 || {{dts|March 12}} || || The <code>niskanencenter.org</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=niskanencenter.org |title=Showing results for: NISKANENCENTER.ORG |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-03-12T23:23:15Z}}</ref>
+|-
+| 2014 || {{dts|December 23}} || || The <code>climateunplugged.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=climateunplugged.com |title=Showing results for: CLIMATEUNPLUGGED.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-12-23T17:12:48Z}}</ref>
+|-
 | 2015 || {{dts|October}} || || The {{w|Open Philanthropy Project}} awards a grant of $360,000 to the Niskanen Center for the center's work on immigration policy.<ref name="open_phil_convo_bier">{{cite web |url=http://www.openphilanthropy.org/focus/us-policy/immigration-policy/niskanen-immigration |title=Niskanen Center — Research on Immigration Policy |publisher=Open Philanthropy Project |accessdate=August 13, 2017}}</ref>
 |-
 | 2015 || {{dts|November 13}} || || The {{w|November 2015 Paris attacks}} occur, in which 130 victims are killed. Following the attacks, the Niskanen Center pauses its advocacy work for private resettlement so that it can combat the argument that refugees pose a threat to the United States.<ref name="open_phil_convo_bier" />
