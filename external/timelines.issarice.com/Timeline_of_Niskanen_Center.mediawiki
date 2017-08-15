@@ -18,7 +18,11 @@ This is a '''timeline of Niskanen Center'''. The {{w|Niskanen Center}} is a {{w|
 |-
 | 2014 || {{dts|May 1}} || || General || The Niskanen Center Twitter account, NiskanenCenter, is created on this day.<ref>{{cite web |url=https://twitter.com/NiskanenCenter |title=Niskanen Center (@NiskanenCenter) |accessdate=August 15, 2017 |publisher=Twitter}}</ref>
 |-
+| 2014 || {{dts|December 10}} || || Foreign policy and defense || The <code>dollarsanddefense.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=dollarsanddefense.com |title=Showing results for: DOLLARSANDDEFENSE.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-12-10T16:42:43Z}}</ref> As of August 15, 2017 it redirects to <code>niskanencenter.org/blog/policies/defense/</code>.
+|-
 | 2014 || {{dts|December 15}} || || Political science || The <code>thefirstprinciple.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=thefirstprinciple.com |title=Showing results for: THEFIRSTPRINCIPLE.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-12-15T19:25:05Z}}</ref> As of August 15, 2017 it redirects to <code>niskanencenter.org/blog/policies/firstprinciple/</code>.
+|-
+| 2014 || {{dts|December 23}} || || Immigration || The <code>sanctuaryfrommisrule.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=sanctuaryfrommisrule.com |title=Showing results for: SANCTUARYFROMMISRULE.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-12-23T17:11:25Z}}</ref> As of August 15, 2017 it redirects to <code>niskanencenter.org/blog/policies/immigration/</code>.
 |-
 | 2014 || {{dts|December 23}} || || Climate change || The <code>climateunplugged.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=climateunplugged.com |title=Showing results for: CLIMATEUNPLUGGED.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2014-12-23T17:12:48Z}}</ref>
 |-
@@ -27,6 +31,8 @@ This is a '''timeline of Niskanen Center'''. The {{w|Niskanen Center}} is a {{w|
 | 2015 || {{dts|May 27}} || || Technology || The <code>panopticontra.com</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=panopticontra.com |title=Showing results for: PANOPTICONTRA.COM |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2015-05-27T20:47:05Z}}</ref> As of August 15, 2017 it redirects to <code>niskanencenter.org/blog/policies/panopticontra/</code>.
 |-
 | 2015 || {{dts|October}} || || Immigration || The {{w|Open Philanthropy Project}} awards a grant of $360,000 to the Niskanen Center for the center's work on immigration policy.<ref name="open_phil_convo_bier">{{cite web |url=http://www.openphilanthropy.org/focus/us-policy/immigration-policy/niskanen-immigration |title=Niskanen Center — Research on Immigration Policy |publisher=Open Philanthropy Project |accessdate=August 13, 2017}}</ref>
+|-
+| 2015 || {{dts|October 16}} || || || The <code>novirtue.org</code> domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=novirtue.org |title=Showing results for: NOVIRTUE.ORG |publisher=ICANN WHOIS |accessdate=August 15, 2017 |quote=Creation Date: 2015-10-16T13:27:42Z}}</ref> As of August 15, 2017 it redirects to <code>niskanencenter.org/blog/policies/novirtue/</code>, a [[wikipedia:HTTP 404|404 page]].
 |-
 | 2015 || {{dts|November 13}} || || Immigration || The {{w|November 2015 Paris attacks}} occur, in which 130 victims are killed. Following the attacks, the Niskanen Center pauses its advocacy work for private resettlement so that it can combat the argument that refugees pose a threat to the United States.<ref name="open_phil_convo_bier" />
 |-
