@@ -152,6 +152,9 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 ===What the timeline is still missing===
 
+* TODO Find some refs for the relationship between Cato v. Koch and the departure of Taylor and Coon and the establishment of Niskanen.
+* TODO Figure out what to do with the "cause area" column. Some things don't seem to fit in well, and Niskanen's categorization seems a bit odd.
+
 ===Timeline update strategy===
 
 ==See also==
