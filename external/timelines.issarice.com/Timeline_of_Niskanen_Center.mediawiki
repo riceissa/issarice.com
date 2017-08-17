@@ -5,6 +5,11 @@ This is a '''timeline of Niskanen Center'''. The {{w|Niskanen Center}} is a {{w|
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 1991–2014 || Background || Jerry Taylor, Joey Coon, and Will Wilkinson all work at the {{w|Cato Institute}} during parts of this period. The Koch v. Cato dispute happens in 2012, in which Taylor and Coon take the side of {{w|Ed Crane}} (the president at the time who is replaced by {{w|John A. Allison IV}}). [FIXME: I've seen mentions to the effect that Taylor et al. were unhappy with this, and left to start Niskanen, and also arguments to the effect that Taylor changed his mind on climate change and wouldn't be able to push that view at Cato so left to start Niskanen (?). Citations?]
+|-
+| 2014–2015 || Establishment || The Niskanen Center is established and begins to maintain an online presence. It is covered in some news sources but has not officially "launched" at this point.
+|-
+| 2015–2017 || Official launch and continued work || The center officially launches and begins pushing out work.
 |}
 
 ==Full timeline==
