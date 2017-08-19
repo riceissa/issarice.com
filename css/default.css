@@ -1,7 +1,8 @@
 body {
     background-color: #fff;
-    color: #222;
+    color: #000;
     font-family: Charter, "Bitstream Charter", Palatino, Georgia, serif;
+    font-size: 18px;
 }
 
 div#content {
@@ -21,6 +22,7 @@ nav#site_navigation {
      nicely */
     overflow: hidden;
 }
+nav#site_navigation a { text-decoration: none; }
 
 h1 {
   font-size: 120%;
@@ -30,9 +32,8 @@ h2 { border-bottom: 1px solid #ccc; }
 h2, h3, h4, h5, h6 { font-size: 110%; }
 h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 
-a { text-decoration: underline; }
-a:link { color: #03c; }
-a:visited { color: #306; }
+a:link { color: #424FAE; }
+a:visited { color: #444; }
 
 blockquote {
     border-left: 4px solid #ccc;
