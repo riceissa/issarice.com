@@ -28,6 +28,8 @@ July 2016](http://mcmansionhell.com/about):
 the topic seems a little obscure, but i can see how it could become popular. is
 there something special that wagner is doing?
 
+http://fortune.com/2017/06/27/mcmansion-hell/
+
 next up: https://www.patreon.com/caitlinjohnstone
 
 > Because of the generosity of my patrons, I can keep bowling up the daily
@@ -51,3 +53,4 @@ other ways to explore?
 
 - are there any rationalist-adjacent people doing independent work?
 - any other "hubs" for independent researchers to show off?
+- https://gumroad.com/ ?
