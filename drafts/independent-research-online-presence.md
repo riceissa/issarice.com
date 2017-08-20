@@ -57,10 +57,16 @@ blog: http://cluborlov.blogspot.com/
 
 WP: https://en.wikipedia.org/wiki/Dmitry_Orlov_%28writer%29
 
+https://www.patreon.com/alexmerced
+
 ---
 
 other ways to explore?
 
-- are there any rationalist-adjacent people doing independent work?
+- are there any rationalist-adjacent people doing independent work? e.g. i
+  think FRI researchers would be interesting to look at.
 - any other "hubs" for independent researchers to show off?
 - https://gumroad.com/ ?
+- https://www.google.com/search?q=jacobite+magazine
+- some people i am more familiar with: gwern, brian tomasik, carl shulman
+- https://gratipay.com/
