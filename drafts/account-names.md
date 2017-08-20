@@ -70,6 +70,8 @@ If you like tables like these, you might enjoy looking at the [contract work I'v
 |[Twitter](https://twitter.com/)|[riceissa](https://twitter.com/riceissa)|Various|Mainstream|Social media|2013-06-11|2|0|2|1|I don't use Twitter much, and when I do it's mostly to read what others have tweeted.|
 |[Pinterest](https://www.pinterest.com/)|[riceissa](https://www.pinterest.com/riceissa/)|Various|Mainstream|Social bookmarking|2017-02-18|0|0|0|0|I created the account after making additions to the [Timeline of Pinterest](https://en.wikipedia.org/w/index.php?title=Timeline_of_Pinterest&action=history&year=2017&month=2&tagfilter=) page on Wikipedia---I got curious about the site and decided to play around.|
 |[Patreon](https://www.patreon.com/)|[issarice](https://www.patreon.com/issarice)||EA/R|Funding|2015-09-06||||||
+|Gratipay|
+|Medium|[riceissa](https://medium.com/@riceissa)|||2017-08-20|
 |[PredictionBook](https://predictionbook.com/)|[riceissa](http://predictionbook.com/users/riceissa)|Forecasting|EA/R|Prediction|2017-01-02|||||The join date is my best guess based on public activity. I've known about PredictionBook since 2014 or earlier, but for some reason didn't sign up until much later.|
 |[Good Judgment Open](https://www.gjopen.com/)|[IssaRice](https://www.gjopen.com/memberships/30211/scores)|Forecasting|EA/R|Prediction|2016-11-12||||||
 |[Bitbucket](https://bitbucket.org)|[riceissa](https://bitbucket.org/riceissa)|Programming|Technology|Code repository|2012-07-05|||||I use it mainly to mirror some projects I have on GitHub.|
