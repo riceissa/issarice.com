@@ -1,3 +1,9 @@
+purpose of this: i've been getting curious about how other independent
+researchers (particularly those who do research as their day job and who don't
+receive funding from big institutions) manage their online presence (e.g. how
+they organize their websites) so i was thinking of going on an exploration to
+find out.
+
 starting with patreon, which has a "writing" category: https://www.patreon.com/explore/writing
 
 https://www.patreon.com/waitbutwhy "Our initial goal is $12,000/month." -- this
@@ -70,3 +76,5 @@ other ways to explore?
 - https://www.google.com/search?q=jacobite+magazine
 - some people i am more familiar with: gwern, brian tomasik, carl shulman
 - https://gratipay.com/
+- i think some [indieweb](https://indieweb.org/) people might be relevant to
+  look at.
