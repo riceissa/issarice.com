@@ -20,6 +20,13 @@ mutual friends, this seems to be the one). However, somewhat worrying is that
 his public posts mostly seem to be about politics -- protests, free speech,
 Donald Trump, Charlie Hebdo, and so on.
 
+In August 2017 he went on a slight posting spree, with [posts](https://www.facebook.com/gary.drescher/posts/10101335913540358)
+like:
+
+> Trump frantically denounces Democrats, the press, and Rosie O'Donnell, but he
+> won't speak or tweet against neo-Nazis and white nationalists. His priorities
+> could not be more clear.
+
 https://www.google.com/search?q=site%3Agwern.net%20%22drescher%22
 
 As far as I can make out, he doesn't have much of an online presence beyond
