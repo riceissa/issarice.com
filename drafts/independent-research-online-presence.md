@@ -47,6 +47,16 @@ clear to me where she writes. [twitter](https://twitter.com/caitoz?lang=en)
 links to her [facebook](https://www.facebook.com/CaitlinAJohnstone/), which
 links to the [medium](https://medium.com/@caityjohnstone) profile.
 
+next up: https://www.patreon.com/derekbodner
+
+website is at http://www.derekbodner.com/
+
+https://www.patreon.com/orlov
+
+blog: http://cluborlov.blogspot.com/
+
+WP: https://en.wikipedia.org/wiki/Dmitry_Orlov_%28writer%29
+
 ---
 
 other ways to explore?
