@@ -65,6 +65,10 @@ WP: https://en.wikipedia.org/wiki/Dmitry_Orlov_%28writer%29
 
 https://www.patreon.com/alexmerced
 
+https://www.jeremiahshoaf.com/ "I’ve been a professional designer since 2001
+and freelancing full-time since 2007."
+
+
 ---
 
 other ways to explore?
@@ -78,3 +82,5 @@ other ways to explore?
 - https://gratipay.com/
 - i think some [indieweb](https://indieweb.org/) people might be relevant to
   look at.
+- keywords to search with? {independent, freelance, contract} {researcher,
+  journalist, writer, designer, creator}
