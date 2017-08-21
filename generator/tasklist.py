@@ -47,41 +47,43 @@ print("""
     /* see https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/
            https://codepen.io/anon/pen/QwPVNW */
     @media screen and (max-width: 600px) {
+        tbody tr { border-bottom: none; }
         table {
-      border: 0;
-    }
-    table td.payment {
-        text-align: left;
-    }
+          border: 0;
+        }
+        table td.payment {
+            text-align: left;
+        }
 
-    table thead {
-      display: none;
-    }
+        table thead {
+          display: none;
+        }
 
-    table tr {
-      margin-bottom: 10px;
-      display: block;
-      border-bottom: 2px solid #ddd;
-    }
+        table tr {
+          margin-bottom: 10px;
+          display: block;
+          border-bottom: 2px solid #ddd;
+        }
 
-    table td {
-      display: block;
-      text-align: left;
-      font-size: 13px;
-      border-bottom: 1px dotted #ccc;
-    }
+        table td {
+          display: block;
+          text-align: left;
+          /*font-size: 13px;*/
+          /*border-bottom: 1px dotted #ccc;*/
+          text-indent: -30px;
+          margin-left: 30px;
+        }
 
-    table td:last-child {
-      border-bottom: 0;
-    }
+        table td:last-child {
+          border-bottom: 0;
+        }
 
-    table td:before {
-      content: attr(data-label);
-      float: left;
-      text-transform: uppercase;
-      padding-right: 10px;
-      font-weight: bold;
-    }
+        table td:before {
+          content: attr(data-label);
+          float: left;
+          padding-right: 40px;
+          font-weight: bold;
+        }
     }
   </style>
 </head>
