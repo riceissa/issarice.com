@@ -39,8 +39,7 @@ query = """
 
 cursor.execute(query)
 
-print("""
-<!DOCTYPE html>
+print("""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -108,31 +107,30 @@ print("""
     <h1>Task list for Issa Rice</h1>
     <p>The data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>.</p>
 <table>
-    <thead>
-        <tr>
-            <th>Task receptacle</th>
-            <th>Completion date</th>
-            <th>Payment</th>
-            <th>Topic</th>
-            <th>Notes</th>
-        </tr>
-    </thead>
-    <tbody>
-        """)
+  <thead>
+    <tr>
+      <th>Task receptacle</th>
+      <th>Completion date</th>
+      <th>Payment</th>
+      <th>Topic</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>""")
 
 for (task_receptacle, task_receptacle_url, task_type, task_venue,
      completion_date, payment, payer, topic, format_, notes) in cursor:
     print("    <tr>")
-    print("""<td data-label="Task receptacle"><a href="{}">{}</a></td>""".format(task_receptacle_url,
+    print("""      <td data-label="Task receptacle"><a href="{}">{}</a></td>""".format(task_receptacle_url,
         task_receptacle))
-    print("""<td data-label="Completion date">{}</td>""".format(completion_date))
-    print("""<td data-label="Payment" class="payment" title="Payer: {}">{}</td>""".format(payer, payment))
-    print("""<td data-label="Topic">{}</td>""".format(topic))
-    print("""<td data-label="Notes">{}</td>""".format(notes_transformed(notes)))
+    print("""      <td data-label="Completion date">{}</td>""".format(completion_date))
+    print("""      <td data-label="Payment" class="payment" title="Payer: {}">{}</td>""".format(payer, payment))
+    print("""      <td data-label="Topic">{}</td>""".format(topic))
+    print("""      <td data-label="Notes">{}</td>""".format(notes_transformed(notes)))
     print("    </tr>")
 
-print("""</tbody>
-        </table>
+print("""  </tbody>
+</table>
 <script>
   $(function(){
     $("table").tablesorter();
