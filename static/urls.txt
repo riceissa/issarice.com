@@ -37,6 +37,7 @@ http://lesswrong.com/r/discussion/lw/p8x/timeline_of_machine_intelligence_resear
 http://briantomasik.com/feed/
 http://reducing-suffering.org/feed/
 http://foundational-research.org/feed/
+https://casparoesterheld.com/feed/
 https://howielempel.com/blog/feed/
 https://medium.com/feed/@nayafia
 http://mojix.org/rss20.xml
