@@ -37,6 +37,8 @@ print("""
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <link rel="stylesheet" href="theme.default.css">
   <script src="jquery-3.2.1.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
@@ -94,8 +96,11 @@ print("""
         }
     }
   </style>
+  <title>Task list for Issa Rice</title>
 </head>
 <body>
+    <h1>Task list for Issa Rice</h1>
+    <p>The data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>.</p>
 <table>
     <thead>
         <tr>
