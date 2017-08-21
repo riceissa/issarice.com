@@ -1,0 +1,9 @@
+Interesting search technique: using "site:*.com/about" with identity labels to locate people who identify with various labels.
+
+Examples:
+
+https://www.google.com/search?q=%22anarcho-capitalist%22+site%3A*.com%2Fabout
+
+https://www.google.com/search?q=%22freelance%20programmer%22+site%3A*.com%2Fabout
+
+https://www.google.com/search?q=%22effective%20altruist%22+site%3A*.com%2Fabout
