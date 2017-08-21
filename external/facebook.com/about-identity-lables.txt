@@ -7,3 +7,5 @@ https://www.google.com/search?q=%22anarcho-capitalist%22+site%3A*.com%2Fabout
 https://www.google.com/search?q=%22freelance%20programmer%22+site%3A*.com%2Fabout
 
 https://www.google.com/search?q=%22effective%20altruist%22+site%3A*.com%2Fabout
+
+There is a lot of potential for variation, e.g. changing the ".com" to ".org", ".net", and ".info"; changing the path from "/about" to something else like "/effective-altruism" https://www.google.com/search?q=site%3A*.com%2Feffective-altruism+-site%3Ameetup.com+-site%3Afacebook.com
