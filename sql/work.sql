@@ -23,4 +23,6 @@ insert into individual_tasks(task_venue, task_type, task_receptacle, task_recept
     ,('Wikipedia', 'Wikipedia page creation', 'Person-affecting view', 'https://en.wikipedia.org/wiki/Person-affecting_view', '2015-10-24', 0, 'Population ethics', 'Prose', NULL)
     ,('Wikipedia', 'Wikipedia page creation', 'fugitive.vim', 'https://en.wikipedia.org/wiki/Fugitive.vim', '2017-02-25', 0, 'Technology', 'Prose', NULL)
     ,('Wikipedia', 'Wikipedia page creation', 'ICWATCH', 'https://en.wikipedia.org/wiki/ICWATCH', '2017-02-26', 0, 'Technology', 'Prose', 'I discovered ICWATCH while adding events to Timeline of LinkedIn https://en.wikipedia.org/w/index.php?title=Timeline_of_LinkedIn&oldid=766908994#cite_ref-59 , specifically from a TechCrunch article https://techcrunch.com/2016/08/15/linkedin-sues-scrapers/')
+    ,('Wikipedia', 'Wikipedia page creation', 'Unlicense', 'https://en.wikipedia.org/wiki/Unlicense', '2017-02-28', 0, 'Technology', 'Prose', 'I think I decided on a whim to create the page. Personally I prefer CC0 as a public domain license.')
+    ,('Wikipedia', 'Wikipedia page creation', 'Nonidentity problem', 'https://en.wikipedia.org/wiki/Nonidentity_problem', '2015-12-18', 0, 'Population ethics', 'Prose', NULL)
 ;
