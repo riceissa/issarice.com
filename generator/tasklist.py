@@ -1,12 +1,18 @@
 import mysql.connector
 
-def notes_transform(text):
+def notes_transformed(text):
     if not text:
         return "&ndash;"
     words = []
     for word in text.split():
         if word.startswith("http"):
             words.append("""<a style="font-variant: small-caps;" href="{}">link</a>""".format(word))
+        elif word == "<=":
+            words.append("&le;")
+        elif word == ">=":
+            words.append("&ge;")
+        elif word == "--":
+            words.append("&ndash;")
         else:
             words.append(word)
     return " ".join(words)
@@ -122,7 +128,7 @@ for (task_receptacle, task_receptacle_url, task_type, task_venue,
     print("""<td data-label="Completion date">{}</td>""".format(completion_date))
     print("""<td data-label="Payment" class="payment" title="Payer: {}">{}</td>""".format(payer, payment))
     print("""<td data-label="Topic">{}</td>""".format(topic))
-    print("""<td data-label="Notes">{}</td>""".format(notes_transform(notes)))
+    print("""<td data-label="Notes">{}</td>""".format(notes_transformed(notes)))
     print("    </tr>")
 
 print("""</tbody>
