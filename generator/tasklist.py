@@ -34,6 +34,19 @@ query = """
                 notes
             from tasks
             where worker = 'Issa Rice'
+            union
+            select
+                task_receptacle,
+                task_receptacle_url,
+                task_type,
+                task_venue,
+                completion_date,
+                payment,
+                payer,
+                topic,
+                format,
+                notes
+            from individual_tasks
             order by completion_date desc
         """
 
@@ -48,6 +61,19 @@ print("""<!DOCTYPE html>
   <script src="jquery-3.2.1.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
   <style type="text/css">
+    body {
+        background-color: #fff;
+        color: #222;
+        font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif;
+    }
+    h1 {
+        font-size: 120%;
+        text-transform: uppercase;
+    }
+    h2 { border-bottom: 1px solid #ccc; }
+    h2, h3, h4, h5, h6 { font-size: 110%; }
+    h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
+
     table td {
         word-wrap: break-word;
     }
@@ -110,9 +136,11 @@ print("""<!DOCTYPE html>
   <thead>
     <tr>
       <th>Task receptacle</th>
+      <th>Venue</th>
       <th>Completion date</th>
       <th>Payment</th>
       <th>Topic</th>
+      <th>Format</th>
       <th>Notes</th>
     </tr>
   </thead>
@@ -121,11 +149,13 @@ print("""<!DOCTYPE html>
 for (task_receptacle, task_receptacle_url, task_type, task_venue,
      completion_date, payment, payer, topic, format_, notes) in cursor:
     print("    <tr>")
-    print("""      <td data-label="Task receptacle"><a href="{}">{}</a></td>""".format(task_receptacle_url,
-        task_receptacle))
+    print("""      <td data-label="Task receptacle"><a href="{}">{}</a></td>""" \
+        .format(task_receptacle_url, task_receptacle))
+    print("""      <td data-label="Venue">{}</td>""".format(task_venue))
     print("""      <td data-label="Completion date">{}</td>""".format(completion_date))
     print("""      <td data-label="Payment" class="payment" title="Payer: {}">{}</td>""".format(payer, payment))
     print("""      <td data-label="Topic">{}</td>""".format(topic))
+    print("""      <td data-label="Format">{}</td>""".format(format_))
     print("""      <td data-label="Notes">{}</td>""".format(notes_transformed(notes)))
     print("    </tr>")
 
