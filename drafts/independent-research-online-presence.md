@@ -68,7 +68,6 @@ https://www.patreon.com/alexmerced
 https://www.jeremiahshoaf.com/ "I’ve been a professional designer since 2001
 and freelancing full-time since 2007."
 
-
 ---
 
 other ways to explore?
@@ -77,10 +76,11 @@ other ways to explore?
   think FRI researchers would be interesting to look at.
 - any other "hubs" for independent researchers to show off?
 - https://gumroad.com/ ?
+- https://convertkit.com/ ?
 - https://www.google.com/search?q=jacobite+magazine
 - some people i am more familiar with: gwern, brian tomasik, carl shulman
 - https://gratipay.com/
 - i think some [indieweb](https://indieweb.org/) people might be relevant to
   look at.
 - keywords to search with? {independent, freelance, contract} {researcher,
-  journalist, writer, designer, creator}
+  journalist, writer, designer, creator, programmer, developer, hacker}
