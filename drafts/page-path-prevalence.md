@@ -22,6 +22,8 @@ I did not set to "Search for English results only"
 some of the popular paths are used for multiple purposes, so they don't
 necessarily imply the popularity of a particular purpose.
 
+the numbers are [*very rough estimates*](https://www.google.com/search?q=how+reliable+is+google+number+of+results)
+
 see my [facebook
 post](https://www.facebook.com/riceissa/posts/1969878083291139) for more
 thinking along these lines.
