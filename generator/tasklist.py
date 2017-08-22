@@ -102,6 +102,9 @@ print("""<!DOCTYPE html>
     h2, h3, h4, h5, h6 { font-size: 110%; }
     h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 
+    /* Hyphenate inside table cells;
+     * from https://justmarkup.com/log/2015/07/dealing-with-long-words-in-css/
+     */
     table td {
         overflow-wrap: break-word;
         word-wrap: break-word;
