@@ -79,7 +79,7 @@ $(OUTDIR)/%: images/% | $(OUTDIR)
 $(OUTDIR)/%: static/% | $(OUTDIR)
 	cp "$<" "$@"
 
-$(OUTDIR)/work: static/theme.default.css static/jquery.tablesorter.js static/jquery-3.2.1.min.js generator/tasklist.py | $(OUTDIR)
+$(OUTDIR)/work: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/tasklist.py | $(OUTDIR)
 	./generator/tasklist.py > "$@"
 
 .PHONY: clean
