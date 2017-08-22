@@ -19,6 +19,10 @@ for `consulting` is greater than that for `consult`.
 
 I did not set to "Search for English results only"
 
+see my [facebook
+post](https://www.facebook.com/riceissa/posts/1969878083291139) for more
+thinking along these lines.
+
 |Path|Number of results|
 |----|----------------:|
 |–|31300000|
@@ -27,9 +31,11 @@ I did not set to "Search for English results only"
 |blog|252000|
 |portfolio|172000|
 |gallery|127000|
+|photos|62500|
 |projects|46800|
 |profile|37000|
 |about-me|32900|
+|media|26300|
 |books|18100|
 |articles|17200|
 |research|15700|
@@ -37,6 +43,7 @@ I did not set to "Search for English results only"
 |resume|12300|
 |cv|11100|
 |other|10100|
+|design|9750|
 |work|9130|
 |writing|7160|
 |school|4910|
@@ -47,6 +54,7 @@ I did not set to "Search for English results only"
 |job|1600|
 |connect|1470|
 |religion|1300|
+|speaking|1160|
 |editing|812|
 |consulting|684|
 |policy|606|
@@ -54,6 +62,8 @@ I did not set to "Search for English results only"
 |about-the-site|355|
 |accounts|314|
 |about-this-site|283|
+|top-posts|193|
 |consult|162|
 |side-projects|131|
+|mistakes|62|
 |account-names|0|
