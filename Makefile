@@ -8,7 +8,7 @@ STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
 SERVER_DEST = carbon:/var/www/issarice.com/public_html
 
 .PHONY: pages
-pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST)
+pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work
 
 .PHONY: fullsite
 fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/_all_date $(OUTDIR)/_all $(OUTDIR)/sitemap.xml pages
