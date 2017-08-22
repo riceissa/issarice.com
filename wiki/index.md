@@ -7,35 +7,12 @@ toc: false
 #date: 2017-04-02
 ---
 
-This site stores basic information about me.
-It also serves as a place for notes and drafts; anything that doesn't
-belong elsewhere ends up here.
+This is the personal website of Issa Rice.
 
 # On this site
 
-- [About me](about) (contains a short self-introduction)
-- [Contact me](contact): the best way to contact me is via email at
-  [riceissa@gmail.com][email]
-- [Account names I use on various websites](account-names)
-- [About this site](about-this-site)
-- Information about my involvement with the [effective altruism]() movement
-- [Content creation]() documents my ongoing research on the
-  organization and dissemination of knowledge, how to effectively
-  publish content online, and how much one can impact the world by
-  publishing such content.
-- My pages related to the [University of Washington](university-of-washington)
-- [Notes on computing](computing) (Linux, programming, etc.)
-- [Notes on math](math)
-- [Pages related to education](education)
-- A mirror of [my Quora answers]()
-- Philanthropy:
-    - [Open Philanthropy Project non-grant
-      funding](open-philanthropy-project-non-grant-funding)
-    - [GiveWell staff growth](givewell-staff-growth)
-    - [Against Malaria Foundation](against-malaria-foundation)
-    - [Total spending in global health](total-spending-in-global-health)
-    - [Charities calculation](charities-calculation) (some data collection on the
-      number of charities tracked under various criteria)
+- [About](about)
+- [Account names](account-names) I use on various websites
 
 # Summary of what I worked on: July 2017 {#summary}
 
