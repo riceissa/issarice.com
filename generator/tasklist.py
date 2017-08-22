@@ -167,7 +167,8 @@ print("""<!DOCTYPE html>
 </head>
 <body>
     <h1>Task list for Issa Rice</h1>
-    <p>Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. Some <a href="https://github.com/riceissa/issarice.com/blob/master/sql/work.sql">new data</a> has been included.</p>
+    <p>This page shows completed work that I have done. Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. I have also included other <a href="https://github.com/riceissa/issarice.com/blob/master/sql/work.sql">tasks not part of contract work</a>.
+       There are other tasks that are not considered “complete” but which have significant work done on them; these are not included. I have also not included a lot of schoolwork and minor tasks.</p>
     <p><a href="https://github.com/riceissa/issarice.com/blob/master/generator/tasklist.py">Source code</a> for the script that prints this page is available.</p>
     <p>Hovering over the Payment column will show a tooltip giving the payer.</p>""")
 print("<p>Showing {} tasks.</p>".format(count))
