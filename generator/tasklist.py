@@ -25,7 +25,9 @@ def task_receptacle_formatted(task_receptacle, task_receptacle_url):
                 task_receptacle)
     elif task_receptacle_url and task_receptacle_url != "N/A":
         links = task_receptacle_url.split(",")
-        slinks = ", ".join(map(lambda x: """<a href="{}">link</a>""".format(x) if x.startswith("http") else x, links))
+        slinks = ", ".join(map(lambda x:
+            """<a href="{}" style="font-variant: small-caps;">link</a>""" \
+                    .format(x) if x.startswith("http") else x, links))
         return """{} """.format(task_receptacle) + slinks
     else:
         return task_receptacle
