@@ -9,24 +9,14 @@ date: 2016-11-13
 
 # Self-introduction
 
-My interests include
-[cause prioritization](https://causeprioritization.org/),
-[effective altruism](),
-[content creation](content-creation),
-global health,
-longevity,
-neoteny,
-long-term thinking,
-[LessWrong]()-style rationality,
-[unschooling](),
-and [hikikomori](https://en.wikipedia.org/wiki/Hikikomori).
-
-These days I spend most of my time on [Facebook]() and [Wikipedia]().
-My [account names]() page has a longer list of my online accounts.
+Since 2016 I have been doing a lot of [contract
+work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for
+[Vipul Naik](https://vipulnaik.com/).
 
 # Contact
 
-The best way to contact me is via email at [riceissa@gmail.com][email].
+The best way to contact me is via email at
+[riceissa@gmail.com](mailto:riceissa@gmail.com).
 
 See my [contact]() page for more ways to contact me.
 
@@ -43,4 +33,7 @@ I have [a photo](identification-photo.jpg) you can use to identify me.
 See [How should I properly pronounce your name?]() for information about
 my name.
 
-[email]: mailto:riceissa@gmail.com
+# See also
+
+- [Contact](contact)
+- [Account names](account-names)
