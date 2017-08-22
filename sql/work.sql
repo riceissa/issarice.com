@@ -2,7 +2,7 @@ drop table if exists individual_tasks;
 
 create table individual_tasks(
     task_id int(11) not null auto_increment primary key,
-    task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','None','issarice.com','Wikiquote','Vim Tips Wiki') default 'Wikipedia',
+    task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','None','issarice.com','Wikiquote','Vim Tips Wiki','Effective Altruism Wiki','Cognito Mentoring Information Wiki') default 'Wikipedia',
     task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing','Content migration','Timelines page creation','Timelines page update','Worker onboarding and assistance'),
     task_receptacle varchar(200) NOT NULL,
     task_receptacle_url varchar(200) NOT NULL,
@@ -27,7 +27,10 @@ insert into individual_tasks(task_venue, task_type, task_receptacle, task_recept
     ,('Wikipedia', 'Wikipedia page creation', 'Nonidentity problem', 'https://en.wikipedia.org/wiki/Nonidentity_problem', '2015-12-18', 0, 'Population ethics', 'Prose', NULL)
     ,('Wikiquote', 'Wiki page creation', 'Michael Vassar', 'https://en.wikiquote.org/wiki/Michael_Vassar', '2017-07-14', 0, 'Rationality improvement', 'Prose', 'I kept hearing people talk about Michael Vassar, and was frustrated that there was no canonical place to look at quotes about him.')
     ,('Timelines wiki', 'Wiki page creation', 'Timeline of TempleOS', 'https://timelines.issarice.com/wiki/Timeline_of_TempleOS', '2017-03-24', 0, 'Technology', 'Timeline', 'I have been fascinated by Terry A. Davis since discovering him on /g/. I wrote the timeline after getting frustrated at being unable to keep his life story straight in my head.')
+    ,('Timelines wiki', 'Wiki page creation', 'Timeline of Carl Shulman publications', 'https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications', '2017-06-05', 0, 'Rationality improvement', 'Timeline', 'Vipul Naik gave me the idea and provided funding through a stipend but no specific task payment')
     ,('Vim Tips Wiki', 'Wiki page creation', 'Unused keys', 'http://vim.wikia.com/wiki/Unused_keys?useskin=monobook', '2017-05-29', 0, 'Technology', 'Table', 'I got frustrated at being unable to quickly tell whether a key was safe to map in Vim.')
     ,('Vim Tips Wiki', 'Wiki page creation', 'Working with long lines', 'http://vim.wikia.com/wiki/Working_with_long_lines?useskin=monobook', '2016-11-04', 0, 'Technology', 'Prose', NULL)
     ,('Vim Tips Wiki', 'Wiki page creation', 'Linting', 'http://vim.wikia.com/wiki/Linting?useskin=monobook', '2017-08-02', 0, 'Technology', 'Prose', NULL)
+    ,('Effective Altruism Wiki', 'Wiki page update', 'Criticism of effective altruism', 'https://github.com/riceissa/issarice.com/blob/master/external/wiki.effectivealtruismhub.com/Criticism_of_effective_altruism.mediawiki', '2015-11-20', 0, 'Philanthropy', 'Prose', 'I did not create the page but began adding criticisms I encountered. Unfortunately the wiki seems to be gone.')
+    ,('Cognito Mentoring Information Wiki', 'Wiki page creation', 'Using Reddit', 'https://info.cognitomentoring.org/wiki/Using_Reddit', '2015-07-30', 0, 'Technology', 'Prose', 'Vipul Naik provided me with an account on the wiki. I don’t remember the details of how the idea for creating the page came about. I don’t believe I was paid.')
 ;
