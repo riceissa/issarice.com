@@ -189,6 +189,15 @@ for (task_receptacle, task_receptacle_url, task_type, task_venue,
 
 print("""  </tbody>
 </table>
+<footer>
+  To the extent possible under law, Issa Rice has waived all copyright and
+  related or neighboring rights to the content on this page. This work is
+  published from: United States.
+  See the
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0
+    1.0 Universal Public Domain Dedication</a>
+  for more information.
+</footer>
 <script>
   $(function(){
     $("table").tablesorter();
