@@ -23,6 +23,8 @@ This is a '''timeline of Ludwig von Mises Institute'''.
 | 2008 || {{dts|January 28}} || || The Mises Institute Twitter account, @mises, is created on this day.<ref>{{cite web |url=https://twitter.com/mises?lang=en |title=Mises Institute (@mises) |accessdate=August 22, 2017 |publisher=Twitter}}</ref>
 |-
 | 2010 || {{dts|November 5}} || || The Mises Wiki is created.<ref>{{cite web |url=https://wiki.mises.org/wiki/Main_Page |title=Mises Wiki, the global repository of classical-liberal thought |accessdate=August 22, 2017 |quote=Sponsored by the Ludwig von Mises Institute and founded on 5 November 2010, the repository now has 1,990 articles.}}</ref><ref>{{cite web |url=https://wiki.mises.org/mediawiki/index.php?title=Main_Page&diff=2&oldid=1 |title=Difference between revisions of "Main Page" - Mises Wiki, the global repository of classical-liberal thought |accessdate=August 22, 2017}}</ref>
+|-
+| 2015 || {{dts|July 19}}–25 || || Probably the first Virtual Mises University takes place.<ref>{{cite web |url=https://mises.org/events/virtual-mises-university-2015 |publisher=Mises Institute |title=Virtual Mises University 2015 |date=July 7, 2015 |accessdate=August 22, 2017}} I haven't been able to find any earlier years this event took place.</ref>
 |}
 
 ==Meta information on the timeline==
