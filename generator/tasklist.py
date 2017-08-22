@@ -17,6 +17,19 @@ def notes_transformed(text):
             words.append(word)
     return " ".join(words)
 
+
+def task_receptacle_formatted(task_receptacle, task_receptacle_url):
+    if (task_receptacle and task_receptacle_url and
+        "," not in task_receptacle_url and task_receptacle_url != "N/A"):
+        return """<a href="{}">{}</a></td>""".format(task_receptacle_url,
+                task_receptacle)
+    elif task_receptacle_url and task_receptacle_url != "N/A":
+        links = task_receptacle_url.split(",")
+        slinks = ", ".join(map(lambda x: """<a href="{}">link</a>""".format(x) if x.startswith("http") else x, links))
+        return """{} """.format(task_receptacle) + slinks
+    else:
+        return task_receptacle
+
 cnx = mysql.connector.connect(user='issa', database='contractwork')
 cursor = cnx.cursor()
 
@@ -162,8 +175,8 @@ print("""<table>
 for (task_receptacle, task_receptacle_url, task_type, task_venue,
      completion_date, payment, payer, topic, format_, notes) in cursor:
     print("    <tr>")
-    print("""      <td data-label="Task receptacle"><a href="{}">{}</a></td>""" \
-        .format(task_receptacle_url, task_receptacle))
+    print("""      <td data-label="Task receptacle">{}</td>""" \
+        .format(task_receptacle_formatted(task_receptacle, task_receptacle_url)))
     print("""      <td data-label="Venue">{}</td>""".format(task_venue))
     print("""      <td data-label="Completion date">{}</td>""".format(completion_date))
     print("""      <td data-label="Payment" class="payment" title="Payer: {}">{}</td>""".format(payer, payment))
