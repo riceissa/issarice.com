@@ -19,6 +19,9 @@ for `consulting` is greater than that for `consult`.
 
 I did not set to "Search for English results only"
 
+some of the popular paths are used for multiple purposes, so they don't
+necessarily imply the popularity of a particular purpose.
+
 see my [facebook
 post](https://www.facebook.com/riceissa/posts/1969878083291139) for more
 thinking along these lines.
@@ -36,6 +39,7 @@ thinking along these lines.
 |profile|37000|
 |about-me|32900|
 |media|26300|
+|links|22200|
 |books|18100|
 |articles|17200|
 |research|15700|
@@ -48,6 +52,7 @@ thinking along these lines.
 |writing|7160|
 |school|4910|
 |service|4780|
+|review|4450|
 |opinion|3660|
 |facebook|3390|
 |math|2050|
@@ -55,15 +60,20 @@ thinking along these lines.
 |connect|1470|
 |religion|1300|
 |speaking|1160|
+|reflection|983|
 |editing|812|
 |consulting|684|
 |policy|606|
 |work-experience|501|
 |about-the-site|355|
 |accounts|314|
+|wikipedia|304|
 |about-this-site|283|
 |top-posts|193|
 |consult|162|
 |side-projects|131|
+|changelog|98|
 |mistakes|62|
+|work-log|50|
+|worklog|3|
 |account-names|0|
