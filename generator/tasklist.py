@@ -163,16 +163,16 @@ print("""<!DOCTYPE html>
     <p><a href="https://github.com/riceissa/issarice.com/blob/master/generator/tasklist.py">Source code</a> for the script that prints this page is available.</p>
     <p>Hovering over the Payment column will show a tooltip giving the payer.</p>""")
 print("<p>Showing {} tasks.</p>".format(count))
-print("""<table>
+print("""<table style="table-layout: fixed;width:100%;">
   <thead>
     <tr>
-      <th>Task receptacle</th>
+      <th style="width:15%;">Task receptacle</th>
       <th>Venue</th>
       <th>Completion date</th>
       <th>Payment</th>
       <th>Topic</th>
       <th>Format</th>
-      <th>Notes</th>
+      <th style="width:40%;">Notes</th>
     </tr>
   </thead>
   <tbody>""")
