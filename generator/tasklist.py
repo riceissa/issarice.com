@@ -86,7 +86,7 @@ print("""<!DOCTYPE html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <link rel="stylesheet" href="theme.default.css">
-  <script src="jquery-3.2.1.min.js"></script>
+  <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
   <style type="text/css">
     body {
