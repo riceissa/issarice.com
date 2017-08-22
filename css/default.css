@@ -1,11 +1,18 @@
-body {
-    background-color: #fff;
-    color: #000;
-    font-family: Charter, "Bitstream Charter", Palatino, Georgia, serif;
-    font-size: 18px;
+/* License: CC0 */
+
+html { font-size: 20px; }
+
+@media screen and (max-width: 650px) {
+    html { font-size: 16px; }
 }
 
-div#content {
+body {
+    background-color: #fff;
+    color: #222;
+    font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif;
+}
+
+main {
     line-height: 1.4;
     margin: auto;
     max-width: 700px;
@@ -13,6 +20,10 @@ div#content {
     width: 93%;
     word-wrap: break-word;
 }
+
+/* nav#TOC { */
+/*   font-size: 90%; */
+/* } */
 
 nav#site_navigation {
     font-family: Lato, Helvetica, sans-serif;
@@ -22,18 +33,26 @@ nav#site_navigation {
      nicely */
     overflow: hidden;
 }
-nav#site_navigation a { text-decoration: none; }
+
+footer {
+    width: 93%;
+    font-size: 80%;
+    margin: auto;
+    max-width: 700px;
+}
 
 h1 {
-  font-size: 120%;
-  text-transform: uppercase;
+    font-size: 120%;
+    text-transform: uppercase;
 }
 h2 { border-bottom: 1px solid #ccc; }
 h2, h3, h4, h5, h6 { font-size: 110%; }
 h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 
+a { text-decoration: none; }
 a:link { color: #424FAE; }
 a:visited { color: #677086; }
+a:hover, a:active {text-decoration:underline}
 
 blockquote {
     border-left: 4px solid #ccc;
