@@ -23,10 +23,10 @@ def notes_transformed(text):
 
 def task_receptacle_formatted(task_receptacle, task_receptacle_url):
     if (task_receptacle and task_receptacle_url and
-        "," not in task_receptacle_url and task_receptacle_url != "N/A"):
-        return """<a href="{}">{}</a></td>""".format(task_receptacle_url,
+        "," not in task_receptacle_url and not task_receptacle_url.startswith("N/A")):
+        return """<a href="{}">{}</a>""".format(task_receptacle_url,
                 task_receptacle)
-    elif task_receptacle_url and task_receptacle_url != "N/A":
+    elif task_receptacle_url and not task_receptacle_url.startswith("N/A"):
         links = task_receptacle_url.split(",")
         slinks = ", ".join(map(lambda x:
             """<a href="{}" style="font-variant: small-caps;">link</a>""" \
