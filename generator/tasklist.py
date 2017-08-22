@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# License: CC0
+
 import mysql.connector
 
 def notes_transformed(text):
