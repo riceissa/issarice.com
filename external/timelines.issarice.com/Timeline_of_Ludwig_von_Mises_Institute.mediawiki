@@ -1,0 +1,40 @@
+This is a '''timeline of Ludwig von Mises Institute'''.
+
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details
+|-
+| 1982 || || || The Mises Institute is founded.<ref>{{cite web |url=https://mises.org/about-mises |publisher=Mises Institute |title=About Mises |date=June 18, 2014 |accessdate=August 22, 2017}}</ref>
+|-
+| 1995 || {{dts|October 2}} || || The Mises Institute domain name is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=mises.org |title={{!}} ICANN WHOIS |accessdate=August 22, 2017 |quote=Creation Date: 1995-10-02T04:00:00Z}}</ref>
+|-
+| 2008 || {{dts|January 28}} || || The Mises Institute Twitter account, @mises, is created on this day.<ref>{{cite web |url=https://twitter.com/mises?lang=en |title=Mises Institute (@mises) |accessdate=August 22, 2017 |publisher=Twitter}}</ref>
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:Issa|Issa Rice]].
+
+{{funding info}} is available.
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
