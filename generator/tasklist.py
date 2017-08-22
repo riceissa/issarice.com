@@ -20,6 +20,16 @@ def notes_transformed(text):
 cnx = mysql.connector.connect(user='issa', database='contractwork')
 cursor = cnx.cursor()
 
+# cursor.rowcount is supposed to give the number of rows but it seems to just
+# return -1, possibly because it can't figure out the number of rows before
+# iterating. For now it's easiest to just do a separate query
+# https://dev.mysql.com/doc/connector-python/en/connector-python-api-mysqlcursor-rowcount.html
+count = 0
+cursor.execute("""select count(*) from tasks where worker = 'Issa Rice'""")
+count += cursor.fetchall()[0][0]
+cursor.execute("""select count(*) from individual_tasks""")
+count += cursor.fetchall()[0][0]
+
 query = """
             select
                 task_receptacle,
@@ -133,8 +143,9 @@ print("""<!DOCTYPE html>
     <h1>Task list for Issa Rice</h1>
     <p>Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. Some <a href="https://github.com/riceissa/issarice.com/blob/master/sql/work.sql">new data</a> has been included.</p>
     <p><a href="https://github.com/riceissa/issarice.com/blob/master/generator/tasklist.py">Source code</a> for the script that prints this page is available.</p>
-    <p>Hovering over the Payment column will show a tooltip giving the payer.</p>
-<table>
+    <p>Hovering over the Payment column will show a tooltip giving the payer.</p>""")
+print("<p>Showing {} tasks.</p>".format(count))
+print("""<table>
   <thead>
     <tr>
       <th>Task receptacle</th>
