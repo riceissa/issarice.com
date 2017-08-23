@@ -3,11 +3,16 @@
 
 import mysql.connector
 
+
 def notes_transformed(text):
     if not text:
         return "&ndash;"
     words = []
     for word in text.split():
+        word = word[0].replace('"', '“') + word[1:]
+        word = word[0].replace("'", '‘') + word[1:]
+        word = word.replace('"', '”')
+        word = word.replace("'", "’")
         if word.startswith("http"):
             words.append("""<a style="font-variant: small-caps;" href="{}">link</a>""".format(word))
         elif word == "<=":
