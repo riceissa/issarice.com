@@ -34,6 +34,10 @@ This is a '''timeline of Ludwig von Mises Institute'''.
 |-
 | 1998 || || || The Mises Institute builds a campus in Auburn, Alabama.<ref name="what-is-the-mises-Institute" /> (The institute was previously also in Auburn.)
 |-
+| 1998 || || || The ''{{w|Quarterly Journal of Austrian Economics}}'' is established. It is a continuation of ''{{w|The Review of Austrian Economics}}''.<ref>{{cite web |url=https://web.archive.org/web/20071225153019/http://www.mises.org:80/periodical.aspx?Id=4 |title=Quarterly Journal of Austrian Economics |accessdate=August 23, 2017}}</ref>
+|-
+| 1999 || {{dts|July 15}} || || The Mises Institute Yahoo Group, called the Mises Scholars List, is founded. The mailing list describes itself as "a low-traffic list for news, inquiries, and limited discussion on Austrian economics".<ref>{{cite web |url=https://web.archive.org/web/20020220003951/http://groups.yahoo.com:80/group/mises/ |title=Yahoo! Groups : mises |accessdate=August 23, 2017}}</ref> (The group seems to no longer be in use.)
+|-
 | 2000 || {{dts|October 10}} || || The Mises Institute announces that ''{{w|Journal of Libertarian Studies}}'' has moved from the {{w|Center for Libertarian Studies}} to the Mises Institute.<ref>{{cite web |url=https://wiki.mises.org/wiki/The_Journal_of_Libertarian_Studies |title=The Journal of Libertarian Studies - Mises Wiki, the global repository of classical-liberal thought |accessdate=August 23, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20011018120029/http://www.mises.org:80/news.asp |title=News from the Mises Institute |accessdate=August 23, 2017}}</ref>
 |-
 | 2000–2001 || || || The Mises Institute building is extended "to accommodate the need for more library and faculty space".<ref name="old-about-page" />
