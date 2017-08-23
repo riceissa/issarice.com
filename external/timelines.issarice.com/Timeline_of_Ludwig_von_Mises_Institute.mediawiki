@@ -14,7 +14,7 @@ This is a '''timeline of Ludwig von Mises Institute'''.
 |-
 | 1981 || {{dts|December}} || || {{w|Ludwig von Mises}}'s widow Margit gives her approval to found the Mises Institute.<ref name="old-about-page">{{cite web |url=https://web.archive.org/web/20071026003336/http://www.mises.org:80/about.aspx |title=About the Mises Institute |accessdate=August 23, 2017}}</ref>
 |-
-| 1982 || {{dts|October}} || || The Mises Institute is founded by Llewellyn H. Rockwell, Jr.<ref>{{cite web |url=https://mises.org/about-mises |publisher=Mises Institute |title=About Mises |date=June 18, 2014 |accessdate=August 22, 2017}}</ref><ref name="what-is-the-mises-Institute" /> The institute is originally housed "in a basement room" of {{w|Auburn University}} but would later move to "a shed behind the football stadium".<ref name="faq-2007-12-14">{{cite web |url=https://web.archive.org/web/20071214105818/http://www.mises.org/content/faq.aspx |title=Mises.org: Frequently Asked Questions |accessdate=August 23, 2017}}</ref>
+| 1982 || {{dts|October}} || || The Mises Institute is founded by Llewellyn H. Rockwell, Jr. (founding president), with {{w|Murray Rothbard}} as the founding vice president<ref>{{cite web |url=https://mises.org/about-mises |publisher=Mises Institute |title=About Mises |date=June 18, 2014 |accessdate=August 22, 2017}}</ref><ref name="what-is-the-mises-Institute" /><ref name="faq-2007-12-14" /> The institute is originally housed "in a basement room" of {{w|Auburn University}} but would later move to "a shed behind the football stadium".<ref name="faq-2007-12-14">{{cite web |url=https://web.archive.org/web/20071214105818/http://www.mises.org/content/faq.aspx |title=Mises.org: Frequently Asked Questions |accessdate=August 23, 2017}}</ref>
 |-
 | 1983 || || || The journal ''The Free Market'' launches.<ref>{{cite web |url=https://mises.org/system/tdf/The%20Austrian%20vol%201%20no%201%202015_0.pdf?file=1&type=document |title=The Austrian vol 1 no 1 2015_0.pdf |accessdate=August 22, 2017}}</ref>
 |-
@@ -34,7 +34,7 @@ This is a '''timeline of Ludwig von Mises Institute'''.
 |-
 | 1998 || || || The Mises Institute builds a campus in Auburn, Alabama.<ref name="what-is-the-mises-Institute" /> (The institute was previously also in Auburn.)
 |-
-| 2000 || || || The ''{{w|Journal of Libertarian Studies}}'' moves from the {{w|Center for Libertarian Studies}} to the Mises Institute.<ref>{{cite web |url=https://wiki.mises.org/wiki/The_Journal_of_Libertarian_Studies |title=The Journal of Libertarian Studies - Mises Wiki, the global repository of classical-liberal thought |accessdate=August 23, 2017}}</ref>
+| 2000 || {{dts|October 10}} || || The Mises Institute announces that ''{{w|Journal of Libertarian Studies}}'' has moved from the {{w|Center for Libertarian Studies}} to the Mises Institute.<ref>{{cite web |url=https://wiki.mises.org/wiki/The_Journal_of_Libertarian_Studies |title=The Journal of Libertarian Studies - Mises Wiki, the global repository of classical-liberal thought |accessdate=August 23, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20011018120029/http://www.mises.org:80/news.asp |title=News from the Mises Institute |accessdate=August 23, 2017}}</ref>
 |-
 | 2000–2001 || || || The Mises Institute building is extended "to accommodate the need for more library and faculty space".<ref name="old-about-page" />
 |-
