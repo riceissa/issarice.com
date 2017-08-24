@@ -12,6 +12,9 @@ This is a '''timeline of Cato Institute'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref>
+|-
+| 2007 || {{dts|December 27}} || || The <code>downsizinggovernment.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=downsizinggovernment.org |title=Showing results for: DOWNSIZINGGOVERNMENT.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2007-12-27T16:18:50Z}}</ref>
 |}
 
 ==Meta information on the timeline==
