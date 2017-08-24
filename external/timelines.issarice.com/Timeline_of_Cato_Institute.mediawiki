@@ -16,6 +16,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1976 || {{dts|July 28}} || || The amendment to the articles of incorporation, to change the name of the organization from "The Charles Koch Foundation, Inc." to "Cato Institute", is approved in Kansas.<ref name="articles-of-incorporation" /><ref name="restated-articles-of-incorporation" />
 |-
+| 1977 || || || ''[[wikipedia:Inquiry (magazine)|Inquiry Magazine]]'' is founded at the Cato Institute.
+|-
 | 1978 || || || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />
 |-
 | 1979 || || || The Cato Institute launches the newsletter ''Policy Report''.<ref name="cato-25">{{cite web |url=https://object.cato.org/sites/cato.org/files/pubs/pdf/25th_annual_report.pdf |title=25 years at the Cato Institute: The 2001 Annual Report |publisher=Cato Institute |year=2001 |accessdate=August 24, 2017}}</ref>{{rp|12}}
