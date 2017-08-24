@@ -22,6 +22,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1981 || || || The ''{{w|Cato Journal}}'' launches.
 |-
+| 1989 || || || The Cato Institute acquires ''[[wikipedia:Regulation (magazine)|Regulation]]'', the magazine-turned-periodical started by the {{w|American Enterprise Institute}}.<ref>{{cite web |url=https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archiveurl=https://web.archive.org/web/20060207063848/https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archivedate=February 7, 2006 |title=A Retrospective |author=William A. Niskanen |year=2002 |accessdate=August 24, 2017}}</ref>
+|-
 | 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref>
 |-
 | 1996 || {{dts|November 11}} || || The <code>libertarianism.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=libertarianism.org |title=Showing results for: LIBERTARIANISM.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1996-11-11T05:00:00Z}}</ref>
