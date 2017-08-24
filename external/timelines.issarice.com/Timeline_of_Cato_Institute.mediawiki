@@ -12,9 +12,9 @@ This is a '''timeline of Cato Institute'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
-| 1974 || {{dts|December 19}} || || The articles of incorporation of The Charles Koch Foundation, Inc. is approved.<ref name="articles-of-incorporation">{{cite web |archiveurl=https://web.archive.org/web/20120315155650/http://dbapress.com/wp-content/uploads/2011/03/Koch-Charles-Koch-Foundation-and-Cato-incorporation.doc |archivedate=March 15, 2012 |url=http://dbapress.com/wp-content/uploads/2011/03/Koch-Charles-Koch-Foundation-and-Cato-incorporation.doc |title=Articles of incorporation: Cato Institute and Charles Koch Foundation}}</ref>
+| 1974 || {{dts|December 19}} || || The articles of incorporation of The Charles Koch Foundation, Inc. is approved in Kansas.<ref name="articles-of-incorporation">{{cite web |archiveurl=https://web.archive.org/web/20120315155650/http://dbapress.com/wp-content/uploads/2011/03/Koch-Charles-Koch-Foundation-and-Cato-incorporation.doc |archivedate=March 15, 2012 |url=http://dbapress.com/wp-content/uploads/2011/03/Koch-Charles-Koch-Foundation-and-Cato-incorporation.doc |title=Articles of incorporation: Cato Institute and Charles Koch Foundation}}</ref>
 |-
-| 1976 || {{dts|July 28}} || || The amendment to the articles of incorporation, to change the name of the organization from "The Charles Koch Foundation, Inc." to "Cato Institute", is approved by the State of Kansas.<ref name="articles-of-incorporation" />
+| 1976 || {{dts|July 28}} || || The amendment to the articles of incorporation, to change the name of the organization from "The Charles Koch Foundation, Inc." to "Cato Institute", is approved in Kansas.<ref name="articles-of-incorporation" />
 |-
 | 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref>
 |-
