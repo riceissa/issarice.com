@@ -38,8 +38,6 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2008 || {{dts|July 15}} || || The Cato Institute Twitter account, CatoInstitute, is created.<ref>{{cite web |url=https://twitter.com/catoinstitute |title=Cato Institute (@CatoInstitute) |publisher=Twitter |accessdate=August 24, 2017}}</ref>
 |-
-| 2009 || {{dts|April 29}} || || The <code>overlawyered.com</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=overlawyered.com |title=Showing results for: OVERLAWYERED.COM |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2009-04-29T06:53:11Z}}</ref>
-|-
 | 2009 || {{dts|September 8}} || || The <code>policemisconduct.net</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=policemisconduct.net |title=Showing results for: policemisconduct.net |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2009-09-08T18:56:13Z}}</ref>
 |-
 | 2010 || {{dts|August 23}} || || {{w|Brink Lindsey}} leaves the Cato Institute for a position at the {{w|Ewing Marion Kauffman Foundation}}.<ref>{{cite web |url=https://web.archive.org/web/20101029102055/http://www.willwilkinson.net/flybottle/2010/08/23/the-liberaltarian-diaspora/ |title=The Liberaltarian Diaspora |author=Will Wilkinson |date=August 23, 2010 |accessdate=August 24, 2017}}</ref>
