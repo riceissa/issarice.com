@@ -16,11 +16,29 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1976 || {{dts|July 28}} || || The amendment to the articles of incorporation, to change the name of the organization from "The Charles Koch Foundation, Inc." to "Cato Institute", is approved in Kansas.<ref name="articles-of-incorporation" /><ref name="restated-articles-of-incorporation" />
 |-
+| 1978 || || || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />
+|-
+| 1979 || || || The Cato Institute launches the newsletter ''Policy Report''.<ref name="cato-25">{{cite web |url=https://object.cato.org/sites/cato.org/files/pubs/pdf/25th_annual_report.pdf |title=25 years at the Cato Institute: The 2001 Annual Report |publisher=Cato Institute |year=2001 |accessdate=August 24, 2017}}</ref>{{rp|12}}
+|-
+| 1981 || || || The ''{{w|Cato Journal}}'' launches.
+|-
 | 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref>
+|-
+| 1996 || {{dts|November 11}} || || The <code>libertarianism.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=libertarianism.org |title=Showing results for: LIBERTARIANISM.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1996-11-11T05:00:00Z}}</ref>
+|-
+| 2005 || {{dts|October 7}} || || The <code>cato-unbound.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato-unbound.org |title=Showing results for: CATO-UNBOUND.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2005-10-07T20:46:24Z}}</ref>
+|-
+| 2005 || {{dts|December}} || || The first issue of ''{{w|Cato Unbound}}'', a web-only debate platform of the Cato Institute, is published.<ref>{{cite web |url=https://www.cato-unbound.org/issues/december-2005/living-constitution |publisher=Cato Unbound |title=December 2005: The Living Constitution: Amendments for the 21st Century |accessdate=August 24, 2017}}</ref>
 |-
 | 2007 || {{dts|December 27}} || || The <code>downsizinggovernment.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=downsizinggovernment.org |title=Showing results for: DOWNSIZINGGOVERNMENT.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2007-12-27T16:18:50Z}}</ref>
 |-
 | 2008 || {{dts|July 15}} || || The Cato Institute Twitter account, CatoInstitute, is created.<ref>{{cite web |url=https://twitter.com/catoinstitute |title=Cato Institute (@CatoInstitute) |publisher=Twitter |accessdate=August 24, 2017}}</ref>
+|-
+| 2009 || {{dts|April 29}} || || The <code>overlawyered.com</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=overlawyered.com |title=Showing results for: OVERLAWYERED.COM |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2009-04-29T06:53:11Z}}</ref>
+|-
+| 2009 || {{dts|September 8}} || || The <code>policemisconduct.net</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=policemisconduct.net |title=Showing results for: policemisconduct.net |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2009-09-08T18:56:13Z}}</ref>
+|-
+| 2011 || {{dts|April 3}} || || The <code>humanprogress.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=humanprogress.org |title=Showing results for: HUMANPROGRESS.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2011-04-03T15:35:13Z}}</ref>
 |}
 
 ==Meta information on the timeline==
