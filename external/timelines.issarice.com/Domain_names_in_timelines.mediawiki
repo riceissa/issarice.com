@@ -1,0 +1,27 @@
+Several timelines on this wiki include {{w|domain name}} registration information as events. This page explains what these events are doing in the timelines.
+
+==Case for inclusion==
+
+The basic case for including domain name information is:
+
+* It is easy to find information for these events. Domain name registration information can be easily queried on the {{w|ICANN}} website.<ref>{{cite web |url=https://whois.icann.org/en |title=WHOIS Search |website=ICANN WHOIS |accessdate=August 25, 2017}}</ref>
+* Domain names, especially those of an organization's main website, are an important part of the organization's online presence and branding.
+* This aspect of entities is already paid attention to in certain contexts: for instance, in the early history of [[Timeline of Bitcoin|bitcoin]], the manner in which and date on which Satoshi Nakamoto signed up for <code>bitcoin.org</code> is much discussed. The name change of Facebook from the original "The Facebook" as well as the acquisition of <code>facebook.com</code>, are also much discussed.
+* During organization renames, domain juggling often takes place, and looking at domain registrations here gives insight into pinpointing how/when the renaming/rebranding came about.
+
+==Potential issues==
+
+These events might "clutter" the timeline in some cases.
+
+==Examples==
+
+The following timelines make use of domain name information:
+
+* [[Timeline of Machine Intelligence Research Institute#Full timeline|Machine Intelligence Research Institute § Full timeline]]{{snd}}see the "Domain" event type
+* [[Timeline of Niskanen Center#Full timeline|Niskanen Center § Full timeline]]{{snd}}see the "Domain" event type
+
+==See also==
+
+==References==
+
+{{Reflist|30em}}
