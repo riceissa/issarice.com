@@ -1,0 +1,143 @@
+/*
+
+This stylesheet uses Solarized, whose license is reproduced below.
+
+Copyright (c) 2011 Ethan Schoonover
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+*/
+body {
+    background-color: #fdf6e3;
+    color: #283b41;
+    font-family: Charter, "Bitstream Charter", Palatino, Georgia, serif;
+}
+
+div#content {
+    line-height: 1.4;
+    margin: auto;
+    max-width: 35em;
+    text-align: left;
+    width: 93%;
+    word-wrap: break-word;
+}
+
+nav#site_navigation {
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 80%;
+    /* See http://stackoverflow.com/a/324553 ; this ensures that the
+     navigation links (left side) and search bar (right side) play
+     nicely */
+    overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
+h2 { border-bottom: 1px solid #93a1a1; }
+
+a { text-decoration: none; }
+a:link { color: #268bd2; }
+a:visited { color: #2aa198; }
+a:hover, a:active { text-decoration: underline; }
+
+blockquote {
+    border-left: 4px solid #93a1a1;
+    color: #586e75;
+    margin: 0px;
+    padding-left: 16px;
+}
+
+code {
+    background-color: #eee8d5;
+    padding-left: 4px;
+    padding-right: 4px;
+    word-wrap: normal;
+}
+
+pre code {
+    display: block;
+    line-height: 1.2;
+    max-height: 400px;
+    overflow: auto;
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    border-bottom: 2px solid #586e75;
+    border-collapse: collapse;
+    border-top: 2px solid #586e75;
+    margin: 0px auto; /* center table */
+}
+
+table th {
+    border-bottom: 1px solid #586e75;
+    font-weight: normal;
+    padding: 0px 10px;
+    vertical-align: top;
+}
+
+table td {
+    padding: 0px 10px;
+    vertical-align: top;
+}
+
+tbody tr { border-bottom: 1px dotted #ccc; }
+
+/*
+Colors for source code listings. See
+https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
+and
+http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
+for details.
+*/
+
+.sourceCode span.kw { color: #859900; } /* Keyword */
+.sourceCode span.dt { color: #b58900; } /* Data type */
+.sourceCode span.dv { color: #2aa198; } /* Decimal value */
+.sourceCode span.bn { color: #2aa198; } /* Number in a base other than ten ("base n") */
+.sourceCode span.fl { color: #2aa198; } /* Float */
+.sourceCode span.ch { color: #859900; } /* Character */
+.sourceCode span.st { color: #2aa198; } /* String */
+.sourceCode span.co { color: #93a1a1; font-style: italic; } /* Comment */
+.sourceCode span.ot { color: #cb4b16; } /* Other (Pandoc may have gotten rid of this in later versions) */
+.sourceCode span.al { color: #dc322f; } /* Alert */
+.sourceCode span.fu { color: #268bd2; } /* Function */
+.sourceCode span.er { color: #dc322f; font-weight: bold; } /* Error */
+.sourceCode span.wa { color: #cb4b16; font-weight: italic; } /* Warning */
+.sourceCode span.cn { color: #b58900; } /* Constant */
+.sourceCode span.sc { color: #b58900; } /* Special character */
+.sourceCode span.vs { } /* Verbatim string */
+.sourceCode span.ss { } /* Special string */
+.sourceCode span.im { color: #cb4b16; } /* Import statement */
+.sourceCode span.va { } /* Variable */
+.sourceCode span.cf { color: #859900; } /* Control-flow */
+.sourceCode span.op { color: #859900; } /* Operator */
+.sourceCode span.bu { color: #268bd2; } /* Built-in function(?) */
+.sourceCode span.ex { } /* Extension */
+.sourceCode span.pp { } /* Preprocessor */
+.sourceCode span.at { } /* Attribute */
+.sourceCode span.do { } /* Documentation */
+.sourceCode span.an { } /* Annotation */
+.sourceCode span.cv { } /* Comment variable -- variables that appear in comments? */
+.sourceCode span.in { } /* Information */
+.sourceCode span.re { color: #b58900; } /* Region markers (Pandoc may have gotten rid of this in later versions) */
