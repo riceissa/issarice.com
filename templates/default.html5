@@ -92,7 +92,8 @@ $endif$
     </form>
   </div>
 </nav>
-<div id="content">
+
+<main>
 $if(title)$
 <header>
 <h1 class="title">$title$</h1>
@@ -110,6 +111,7 @@ $if(belief)$
 $endif$
 </header>
 $endif$
+
 $if(toc)$
 <nav id="$idprefix$TOC">
 <h2 id="TOCheading">Contents</h2>
@@ -117,6 +119,9 @@ $toc$
 </nav>
 $endif$
 $body$
+</main>
+
+<footer>
 <hr />
 $if(license)$
 $license$
@@ -135,7 +140,8 @@ $else$
   for more information.
 </p>
 $endif$
-</div>
+</footer>
+
 <script>
   anchors.add();
 </script>
