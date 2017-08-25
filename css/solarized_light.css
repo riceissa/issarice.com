@@ -29,7 +29,7 @@ body {
     font-family: Charter, "Bitstream Charter", Palatino, Georgia, serif;
 }
 
-div#content {
+main, footer {
     line-height: 1.4;
     margin: auto;
     max-width: 35em;
