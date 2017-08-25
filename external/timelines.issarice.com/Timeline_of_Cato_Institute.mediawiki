@@ -48,9 +48,15 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2011 || {{dts|April 3}} || || The <code>humanprogress.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=humanprogress.org |title=Showing results for: HUMANPROGRESS.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2011-04-03T15:35:13Z}}</ref>
 |-
+| 2012 || {{dts|October}} || || [[wikipedia:Ed Crane (political activist)|Ed Crane]] steps down as President and CEO of Cato Institute.<ref>{{cite web |url=https://www.cato.org/people/edward-crane |publisher=Cato Institute |title=Edward H. Crane |accessdate=August 25, 2017}}</ref>
+|-
+| 2012 || {{dts|October}} || || {{w|John A. Allison IV}} becomes the President and CEO of Cato Institute.<ref>{{cite web |url=https://www.cato.org/people/john-allison |publisher=Cato Institute |title=John A. Allison |accessdate=August 25, 2017 |quote=Allison was president and CEO of the Cato Institute from October 2012 to April 2015.}}</ref>
+|-
 | 2013 || {{dts|April 26}} || || {{w|Walter Olson}} announces that {{w|Overlawyered}} is now affiliated with the Cato Institute.<ref>{{cite web |url=https://www.overlawyered.com/2013/04/overlawyered-now-cato-institute-blog/ |title=Overlawyered: now a Cato Institute blog |author=Walter Olson |publisher=Overlawyered |date=April 26, 2013 |accessdate=August 24, 2017}}</ref>
 |-
 | 2014 || {{dts|October 6}} || || The <code>alt-m.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=alt-m.org |title=Showing results for: ALT-M.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2014-10-06T22:42:42Z}}</ref>
+|-
+| 2015 || {{dts|April 1}} || || Peter Goettler becomes the new President and CEO of Cato Institute.<ref>{{cite web |url=https://www.cato.org/news-releases/2015/3/30/cato-institute-announces-new-ceo |publisher=Cato Institute |title=Cato Institute Announces New CEO |date=March 30, 2015 |accessdate=August 25, 2017}}</ref><ref>{{cite web |url=https://www.cato.org/people/peter-goettler |publisher=Cato Institute |title=Peter Goettler |accessdate=August 25, 2017 |quote=Peter Goettler joined the Cato Institute as President and CEO in April, 2015.}}</ref>
 |}
 
 ==Meta information on the timeline==
