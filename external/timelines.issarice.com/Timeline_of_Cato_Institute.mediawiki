@@ -32,6 +32,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1998 || {{dts|May 26}} || || The <code>elcato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=elcato.org |title=Showing results for: ELCATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1998-05-26T04:00:00Z}}</ref>
 |-
+| 1998 || {{dts|May 29}} || || The Cato Institute announces the launch of its Spanish-language website, El Cato en Español.<ref>{{cite web |url=https://web.archive.org/web/19980712161034/http://cato.org:80/new/catonew.html |title=What's New at Cato |accessdate=August 25, 2017}}</ref>
+|-
 | 2005 || {{dts|October 7}} || || The <code>cato-unbound.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato-unbound.org |title=Showing results for: CATO-UNBOUND.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2005-10-07T20:46:24Z}}</ref>
 |-
 | 2005 || {{dts|December}} || || The first issue of ''{{w|Cato Unbound}}'', a web-only debate platform of the Cato Institute, is published.<ref>{{cite web |url=https://www.cato-unbound.org/issues/december-2005/living-constitution |publisher=Cato Unbound |title=December 2005: The Living Constitution: Amendments for the 21st Century |accessdate=August 24, 2017}}</ref>
