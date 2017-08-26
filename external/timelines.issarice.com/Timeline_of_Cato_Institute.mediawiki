@@ -34,6 +34,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1982 || {{dts|October}} || Physical location || The Mises Institute is founded by Llewellyn H. Rockwell, Jr. (founding president), with {{w|Murray Rothbard}} as the founding vice president.<ref>{{cite web |url=https://mises.org/about-mises |publisher=Mises Institute |title=About Mises |date=June 18, 2014 |accessdate=August 22, 2017}}</ref><ref name="what-is-the-mises-Institute" /><ref name="faq-2007-12-14">{{cite web |url=https://web.archive.org/web/20071214105818/http://www.mises.org/content/faq.aspx |title=Mises.org: Frequently Asked Questions |accessdate=August 23, 2017}}</ref>
 |-
+| 1985 || || || {{w|William Niskanen}} joins the Cato Institute board as chairman.<ref name="Doherty" />{{rp|452}}
+|-
 | 1989 || || || The Cato Institute acquires ''[[wikipedia:Regulation (magazine)|Regulation]]'', the magazine-turned-periodical started by the {{w|American Enterprise Institute}}.<ref>{{cite web |url=https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archiveurl=https://web.archive.org/web/20060207063848/https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archivedate=February 7, 2006 |title=A Retrospective |author=William A. Niskanen |year=2002 |accessdate=August 24, 2017}}</ref>
 |-
 | 1989 || || || The Cato Institute establishes its Center for Constitutional Studies.<ref name="cato-25" /><ref>{{cite web |url=https://www.cato.org/centers/center-constitutional-studies |publisher=Cato Institute |title=Center for Constitutional Studies |accessdate=August 25, 2017}}</ref>
