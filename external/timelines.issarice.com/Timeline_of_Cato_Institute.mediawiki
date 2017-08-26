@@ -20,7 +20,11 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1978 || || || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />
 |-
+| 1978 || {{dts|February}} || || Cato launches ''Byline'', a radio program.<ref name="cato40-timeline">{{cite web |url=https://www.cato.org/cato40/timeline |publisher=Cato Institute |title=Cato: 40 Years of Advancing Liberty |accessdate=August 26, 2017}}</ref>
+|-
 | 1979 || || || The Cato Institute launches the newsletter ''Policy Report''.<ref name="cato-25">{{cite web |url=https://object.cato.org/sites/cato.org/files/pubs/pdf/25th_annual_report.pdf |title=25 years at the Cato Institute: The 2001 Annual Report |publisher=Cato Institute |year=2001 |accessdate=August 24, 2017}}</ref>{{rp|12}}
+|-
+| Early 1980s || || || The Cato Institute relocates to Washington D.C.<ref name="Doherty" />{{rp|446}}
 |-
 | 1981 || || || The ''{{w|Cato Journal}}'' launches.
 |-
