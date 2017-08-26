@@ -16,13 +16,17 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1976 || {{dts|July 28}} || || The amendment to the articles of incorporation, to change the name of the organization from "The Charles Koch Foundation, Inc." to "Cato Institute", is approved in Kansas.<ref name="articles-of-incorporation" /><ref name="restated-articles-of-incorporation" />
 |-
-| 1977 || || || ''[[wikipedia:Inquiry (magazine)|Inquiry Magazine]]'' is founded at the Cato Institute.
+| 1977 || {{dts|January}} || || The Cato Institute is established in San Francisco by Edward H. Crane and Charles G. Koch.<ref name="cato-25" />{{rp|2,11}}
 |-
-| 1978 || || || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />
+| 1977 || {{dts|November}} || || ''[[wikipedia:Inquiry (magazine)|Inquiry Magazine]]'', a biweekly political affairs magazine, is founded at the Cato Institute.<ref name="cato-25" />{{rp|2,11}}
 |-
 | 1978–1982 || || || The Cato Institute first publishes ''Literature of Liberty'', a magazine where each issue discusses the literature of a particular field. The publication would b transferred to {{w|Institute for Humane Studies}}.<ref>{{cite web |url=https://www.libertarianism.org/blog/literature-liberty |author=Aaron Ross Powell |date=February 1, 2012 |publisher=Libertarianism.org |title=Literature of Liberty |accessdate=August 26, 2017}}</ref><ref name="Doherty" />{{rp|526}}
 |-
-| 1978 || {{dts|February}} || || Cato launches ''Byline'', a radio program.<ref name="cato40-timeline">{{cite web |url=https://www.cato.org/cato40/timeline |publisher=Cato Institute |title=Cato: 40 Years of Advancing Liberty |accessdate=August 26, 2017}}</ref>
+| 1978 || {{dts|February}} || || Cato launches ''Byline'', a daily radio program.<ref name="cato-25" />{{rp|10}}<ref name="cato40-timeline">{{cite web |url=https://www.cato.org/cato40/timeline |publisher=Cato Institute |title=Cato: 40 Years of Advancing Liberty |accessdate=August 26, 2017}}</ref>
+|-
+| 1978 || {{dts|March}} || || Cato Institute publishes ''The Ultimate Foundation of Economic Science'' by {{w|Ludwig von Mises}}.<ref name="cato-25" />{{rp|11}}
+|-
+| 1978 || {{dts|June}} || || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />{{rp|12}}
 |-
 | 1979 || || || The Cato Institute launches the newsletter ''Policy Report''.<ref name="cato-25">{{cite web |url=https://object.cato.org/sites/cato.org/files/pubs/pdf/25th_annual_report.pdf |title=25 years at the Cato Institute: The 2001 Annual Report |publisher=Cato Institute |year=2001 |accessdate=August 24, 2017}}</ref>{{rp|12}}
 |-
