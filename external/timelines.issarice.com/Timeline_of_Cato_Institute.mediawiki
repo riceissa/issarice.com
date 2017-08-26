@@ -28,7 +28,13 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1978 || {{dts|June}} || || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />{{rp|12}}
 |-
-| 1979 || || || The Cato Institute launches the newsletter ''Policy Report''.<ref name="cato-25">{{cite web |url=https://object.cato.org/sites/cato.org/files/pubs/pdf/25th_annual_report.pdf |title=25 years at the Cato Institute: The 2001 Annual Report |publisher=Cato Institute |year=2001 |accessdate=August 24, 2017}}</ref>{{rp|12}}
+| 1979 || {{dts|January}} || || The Cato Institute launches the newsletter ''Policy Report''.<ref name="cato-25">{{cite web |url=https://object.cato.org/sites/cato.org/files/pubs/pdf/25th_annual_report.pdf |title=25 years at the Cato Institute: The 2001 Annual Report |publisher=Cato Institute |year=2001 |accessdate=August 24, 2017}}</ref>{{rp|12–13}}
+|-
+| 1979 || {{dts|May}} || || Cato Institute publishes two manuscripts by {{w|F. A. Hayek}}.<ref name="cato-25" />{{rp|16}}
+|-
+| 1980 || {{dts|January}} || || The first issue of Policy Analysis is published.<ref name="cato-25" />{{rp|17}}
+|-
+| 1980 || {{dts|November}} || || Cato Institute publishes ''The Regulation of Medical Care: Is the Price Too High?'' by {{w|John C. Goodman}}.<ref name="cato-25" />{{rp|18}}
 |-
 | Early 1980s || || || The Cato Institute relocates to Washington D.C.<ref name="Doherty" />{{rp|446}}
 |-
