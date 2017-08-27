@@ -64,6 +64,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1985 || {{dts|July}} || || The Cato Institute publishes ''National Economic Planning: What is Left?'' by Don Lavoie.<ref name="cato-25" />{{rp|36}}
 |-
+| 1985 || {{dts|September}} || || The Cato Institute publishes ''Friedman and Hayek on Freedom'', a collection of Russian-language essays by {{w|F. A. Hayek}} and {{w|Milton Friedman}}. Cato then smuggles copies of the book into the {{w|Soviet Union}}.<ref name="cato-25" />{{rp|40}}
+|-
 | 1989 || || || The Cato Institute acquires ''[[wikipedia:Regulation (magazine)|Regulation]]'', the magazine-turned-periodical started by the {{w|American Enterprise Institute}}.<ref>{{cite web |url=https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archiveurl=https://web.archive.org/web/20060207063848/https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archivedate=February 7, 2006 |title=A Retrospective |author=William A. Niskanen |year=2002 |accessdate=August 24, 2017}}</ref>
 |-
 | 1989 || || || The Cato Institute establishes its Center for Constitutional Studies.<ref name="cato-25" /><ref>{{cite web |url=https://www.cato.org/centers/center-constitutional-studies |publisher=Cato Institute |title=Center for Constitutional Studies |accessdate=August 25, 2017}}</ref>
@@ -95,6 +97,10 @@ This is a '''timeline of Cato Institute'''.
 | 2010 || {{dts|September 15}} || || {{w|Will Wilkinson}} leaves the Cato Institute.<ref>{{cite web |url=http://www.slate.com/content/slate/blogs/weigel/2010/08/23/a_purge_at_the_cato_institute.html |title=A Purge at the Cato Institute? |publisher=Slate Magazine |author=David Weigel |date=August 23, 2010 |accessdate=August 24, 2017}}</ref><ref>{{cite web |url=http://volokh.com/2010/08/24/the-cato-institutes-supposed-purge-of-the-liberaltarians/ |title=The Cato Institute's Supposed "Purge" of the Liberaltarians |author=Ilya Somin |publisher=The Volokh Conspiracy |date=August 24, 2010 |accessdate=August 24, 2017}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2010/08/brink_lindsey_w.html |title=Brink Lindsey, Will Wilkinson |author=Arnold Kling |accessdate=August 24, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
 | 2011 || {{dts|April 3}} || || The <code>humanprogress.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=humanprogress.org |title=Showing results for: HUMANPROGRESS.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2011-04-03T15:35:13Z}}</ref>
+|-
+| 2011 || {{dts|November 4}} || || {{w|Libertarianism.org}}, a website supported by the Cato Institute, launches.<ref>{{cite web |url=https://www.libertarianism.org/blog/welcome-libertarianismorg |publisher=Libertarianism.org |title=Welcome to Libertarianism.org |author=Aaron Ross Powell |date=November 4, 2011 |accessdate=August 27, 2017}}</ref>
+|-
+| 2012 || || || Cato Institute completes a building expansion and renovation of its Washington, D.C. headquarters.<ref>{{cite web |url=http://www.clarkconstruction.com/our-work/projects/cato-institute-expansion-and-renovation |title=Cato Institute Expansion and Renovation |publisher=Clark Construction |accessdate=August 26, 2017}}</ref>
 |-
 | 2012 || {{dts|June 25}} || || Charles and David Koch announce that they are close to settling the lawsuits over ownership of the Cato Institute.<ref>{{cite web |url=https://www.usnews.com/news/politics/articles/2012/06/25/kochs-cato-institute-ready-to-end-lawsuits |title=Kochs, Cato Institute ready to end lawsuits |publisher=[[wikipedia:U.S. News & World Report|U.S. News & World Report]] |date=June 25, 2012 |author=John Hanna |accessdate=August 25, 2017}}</ref>
 |-
