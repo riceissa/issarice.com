@@ -72,6 +72,10 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1991 || || || Cato Institute is "solidly against" the {{w|Gulf War}}. Cato loses "nearly $1 million in funding over its stance against the Gulf War" due to some of its funders being for the war.<ref name="Doherty" />{{rp|454}}<ref>{{cite web |url=http://econlog.econlib.org/archives/2012/09/farewell_ed_cra.html |title=Ed Crane: An Appreciation |author=David Henderson |date=September 29, 2012 |accessdate=August 27, 2017 |quote=One of the things I most admire about Ed is how he stayed principled when George Bush I got the U.S. into the first Gulf war. At the time, one major contributor to Cato withdrew his funding and, possibly, persuaded others to do so also, but Ed stayed strong and just worked that much harder to raise funds to fill the gap. |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
+| 1992 || {{dts|May}} || || The Cato Institute conference Liberty in the Americas: Free Trade and Beyond takes place in {{w|Mexico City}}.<ref name="cato-25" />{{rp|70}}
+|-
+| 1993 || {{dts|January}} || || Cato publishes ''Kindly Inquisitors: The New Attacks on Free Thoughts'' by {{w|Jonathan Rauch}}.<ref name="cato-25" />{{rp|71}}
+|-
 | 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref>
 |-
 | 1996 || {{dts|November 11}} || || The <code>libertarianism.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=libertarianism.org |title=Showing results for: LIBERTARIANISM.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1996-11-11T05:00:00Z}}</ref>
