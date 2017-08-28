@@ -35,7 +35,7 @@ insert into individual_tasks(task_venue, task_type, task_receptacle, task_recept
     ,('Cause Prioritization Wiki', 'Coding', 'Cause Prioritization Wiki', 'https://causeprioritization.org/', '2014-11-28', 0, 'Philanthropy', 'Prose', 'Vipul Naik convinced me to create the website. The Git repository https://github.com/riceissa/causeprioritization has its initial commit on this day, and the domain was registered on this day https://whois.icann.org/en/lookup?name=causeprioritization.org')
     ,('GitHub', 'Coding', 'mediawiki.vim', 'https://github.com/riceissa/vim-mediawiki', '2017-08-13', 0, 'Technology', 'Code', 'As I began writing a lot of Wikipedia pages, I started to want a good filetype plugin. Not being able to find one I liked, I wrote my own. Development began on 2016-08-17 and I slowly added features as needed.')
     ,('GitHub', 'Coding', 'Citewebgen', 'https://github.com/riceissa/citewebgen', '2016-11-30', 0, 'Technology', 'Code', 'As I began writing a lot of Wikipedia pages, I wanted a quick way to cite web pages. Not being satisfied with existing scripts, I wrote my own.')
-    ,('Personal site', 'Content migration', 'Deleted pages of gwern.net', 'https://files.issarice.com/gwern/', '2015-09-17', 0, 'Digital preservation', 'Prose', 'I wanted to conveniently see gwern’s deleted pages in compiled form.')
+    ,('Personal website', 'Content migration', 'Deleted pages of gwern.net', 'https://files.issarice.com/gwern/', '2015-09-17', 0, 'Digital preservation', 'Prose', 'I wanted to conveniently see gwern’s deleted pages in compiled form.')
 ;
 
 insert into individual_tasks(task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, language) values
