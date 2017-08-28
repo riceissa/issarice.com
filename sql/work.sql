@@ -2,7 +2,7 @@ drop table if exists individual_tasks;
 
 create table individual_tasks(
     task_id int(11) not null auto_increment primary key,
-    task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','None','issarice.com','Wikiquote','Vim Tips Wiki','Effective Altruism Wiki','Cognito Mentoring Information Wiki','Cause Prioritization Wiki','GitHub') default 'Wikipedia',
+    task_venue enum('Wikipedia','Wikipedia Views','Effective Altruism Forum','LessWrong','Personal website','Wikimedia meta','wikiHow','Quora','Market subwiki','Donations list website', 'Contract work for Vipul Naik','Timelines wiki','None','Wikiquote','Vim Tips Wiki','Effective Altruism Wiki','Cognito Mentoring Information Wiki','Cause Prioritization Wiki','GitHub') default 'Wikipedia',
     task_type enum('Wikipedia page creation','Wikipedia page update','Wikipedia page translation','Attempted Wikipedia work','Miscellaneous Wikipedia work','Preliminary research','Blog post or article','Survey creation','Survey recruitment','Coding','Consulting','Review','Wiki page creation','Wiki page update','Questions and answers','Contacting people','Data entry','Task listing','Content migration','Timelines page creation','Timelines page update','Worker onboarding and assistance'),
     task_receptacle varchar(200) NOT NULL,
     task_receptacle_url varchar(200) NOT NULL,
@@ -17,7 +17,7 @@ create table individual_tasks(
 ) ENGINE=InnoDB AUTO_INCREMENT=15239276 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into individual_tasks(task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes) values
-    ('issarice.com', 'Blog post or article', 'Open Philanthropy Project non-grant funding', 'https://issarice.com/open-philanthropy-project-non-grant-funding', '2017-04-02', 0, 'Philanthropy/Open Philanthropy Project', 'Prose', 'Decided on a whim to collect data')
+    ('Personal website', 'Blog post or article', 'Open Philanthropy Project non-grant funding', 'https://issarice.com/open-philanthropy-project-non-grant-funding', '2017-04-02', 0, 'Philanthropy/Open Philanthropy Project', 'Prose', 'Decided on a whim to collect data')
     ,('Wikipedia', 'Wikipedia page creation', 'Timeline of online dating services', 'https://en.wikipedia.org/wiki/Timeline_of_online_dating_services', '2015-10-20', 0, 'Technology', 'Prose', 'Originally created on the Cause Prioritization Wiki as Timeline of technology-assisted dating services https://causeprioritization.org/Timeline%20of%20technology-assisted%20dating%20services but later moved to Wikipedia')
     ,('Wikipedia', 'Wikipedia page creation', 'Person-affecting view', 'https://en.wikipedia.org/wiki/Person-affecting_view', '2015-10-24', 0, 'Population ethics', 'Prose', NULL)
     ,('Wikipedia', 'Wikipedia page creation', 'fugitive.vim', 'https://en.wikipedia.org/wiki/Fugitive.vim', '2017-02-25', 0, 'Technology', 'Prose', NULL)
