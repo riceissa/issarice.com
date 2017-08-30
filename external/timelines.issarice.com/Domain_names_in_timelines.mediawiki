@@ -22,6 +22,8 @@ The following timelines make use of domain name information:
 
 ==See also==
 
+** [[Representativeness of events in timelines]]
+
 ==References==
 
 {{Reflist|30em}}
