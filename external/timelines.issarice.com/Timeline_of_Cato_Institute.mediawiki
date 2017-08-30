@@ -72,7 +72,11 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1991 || || || Cato Institute is "solidly against" the {{w|Gulf War}}. Cato loses "nearly $1 million in funding over its stance against the Gulf War" due to some of its funders being for the war.<ref name="Doherty" />{{rp|454}}<ref>{{cite web |url=http://econlog.econlib.org/archives/2012/09/farewell_ed_cra.html |title=Ed Crane: An Appreciation |author=David Henderson |date=September 29, 2012 |accessdate=August 27, 2017 |quote=One of the things I most admire about Ed is how he stayed principled when George Bush I got the U.S. into the first Gulf war. At the time, one major contributor to Cato withdrew his funding and, possibly, persuaded others to do so also, but Ed stayed strong and just worked that much harder to raise funds to fill the gap. |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
+| 1991 || {{dts|March}} || || The Cato Institute publishes ''Liberating Schools: Education in the Inner City'', a collection of articles edited by {{w|David Boaz}}.<ref name="cato-25" />{{rp|64}}
+|-
 | 1991 || {{dts|April 20}}–21 || || The Cato Institute conference "All the President's Men: Perestroika Yesterday, Today, Tomorrow", the second in Moscow, takes place.<ref name="cato-25" />{{rp|64}}<ref>{{cite web |url=https://object.cato.org/sites/cato.org/files/serials/files/policy-report/1991/8/v13n4.pdf |title=Second Moscow Conference Draws Worldwide Attention |date=July 1991 |accessdate=August 30, 2017}}</ref>{{rp|4}}
+|-
+| 1991 || {{dts|May 1}} || || ''America Entangled: The Persian Gulf Crisis and Its Consequences'', edited by Ted Galen Carpenter, is published.<ref>{{cite web |url=https://store.cato.org/book/america-entangled |publisher=Cato Store |title=America Entangled |date=April 15, 2015 |accessdate=August 30, 2017}}</ref><ref name="cato-25" />{{rp|61}}
 |-
 | 1992 || {{dts|May}} || || ''Patient Power'' by {{w|John C. Goodman}} is published by Cato Institute.<ref name="cato-25" />{{rp|67}}
 |-
