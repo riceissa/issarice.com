@@ -22,7 +22,7 @@ The following timelines make use of domain name information:
 
 ==See also==
 
-** [[Representativeness of events in timelines]]
+* [[Representativeness of events in timelines]]
 
 ==References==
 
