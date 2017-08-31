@@ -33,7 +33,7 @@ for coherency.
 |proprietary software|free software|
 |[hosting silos](https://indieweb.org/silo)|federalized/indie web|
 |price fixing|law of one price|
-|closed borders|open borders|
+|closed borders|[open borders](https://openborders.info/blog/open-borders-and-world-government/)|
 |economies of scale|diseconomies of scale|
 |secrecy|transparency|
 |academic journals|blogs|
@@ -48,6 +48,9 @@ for coherency.
 |[universality](https://en.wikipedia.org/wiki/Universality_%28philosophy%29)|[truth relativism](https://en.wikipedia.org/wiki/Relativism)|
 |[absolute space and time](https://en.wikipedia.org/wiki/Absolute_space_and_time)|relativity with frames of reference|
 |other kinds of absolutism|[other kinds of relativity](https://en.wikipedia.org/wiki/Relativity#Social_sciences)|
+|centralized organization|[DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)|
+|cloud computing|[personal computing](https://kmandla.wordpress.com/2009/07/07/the-cloud-is-a-lie/)|
+|bare metal/host OS|containers, virtualization|
 
 For the proprietary/free software one: the distinction is not meant in regards
 to the whole universe of software; if it were, then proprietary software can be
