@@ -120,6 +120,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2012 || || || Cato Institute completes a building expansion and renovation of its Washington, D.C. headquarters.<ref>{{cite web |url=http://www.clarkconstruction.com/our-work/projects/cato-institute-expansion-and-renovation |title=Cato Institute Expansion and Renovation |publisher=Clark Construction |accessdate=August 26, 2017}}</ref>
 |-
+| 2012 || || || Cato Institute co-publishes the {{w|Index of Freedom in the World}}.<ref>{{cite web |url=https://object.cato.org/sites/cato.org/files/articles/towards-worldwide-index-3-vasquez-stumberger.pdf |first1=Ian |last1=Vásquez |first2=Tanja |last2=Štumberger |year=2012 |publisher=Fraser Institute |title=An Index of Freedom in the World |accessdate=August 31, 2017}}</ref>
+|-
 | 2012 || {{dts|June 25}} || || Charles and David Koch announce that they are close to settling the lawsuits over ownership of the Cato Institute.<ref>{{cite web |url=https://www.usnews.com/news/politics/articles/2012/06/25/kochs-cato-institute-ready-to-end-lawsuits |title=Kochs, Cato Institute ready to end lawsuits |publisher=[[wikipedia:U.S. News & World Report|U.S. News & World Report]] |date=June 25, 2012 |author=John Hanna |accessdate=August 25, 2017}}</ref>
 |-
 | 2012 || {{dts|October}} || || [[wikipedia:Ed Crane (political activist)|Ed Crane]] steps down as President and CEO of Cato Institute.<ref>{{cite web |url=https://www.cato.org/people/edward-crane |publisher=Cato Institute |title=Edward H. Crane |accessdate=August 25, 2017}}</ref>
