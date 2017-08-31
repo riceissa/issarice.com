@@ -64,4 +64,5 @@ automatically resolves, so that there isn't an extra variable to fix (you would
 be overspecifying the system).
 
 See also ["The Many Fallacies of Dualism"](http://reducing-suffering.org/the-many-fallacies-of-dualism/),
-[*Seeing Like a State*](https://en.wikipedia.org/wiki/Seeing_Like_a_State).
+[*Seeing Like a State*](https://en.wikipedia.org/wiki/Seeing_Like_a_State),
+[ontological crisis](https://wiki.lesswrong.com/wiki/Ontological_crisis).
