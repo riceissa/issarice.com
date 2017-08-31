@@ -45,6 +45,7 @@ for coherency.
 |copyright|public domain|
 |universal language|local language + universal translation|
 |wealth inequality?|wealth equality?|
+|[universality](https://en.wikipedia.org/wiki/Universality_%28philosophy%29)|[truth relativism](https://en.wikipedia.org/wiki/Relativism)|
 
 For the proprietary/free software one: the distinction is not meant in regards
 to the whole universe of software; if it were, then proprietary software can be
@@ -60,4 +61,5 @@ economic variable is fixed in favor of decentralization, the wealth variable
 automatically resolves, so that there isn't an extra variable to fix (you would
 be overspecifying the system).
 
-See also ["The Many Fallacies of Dualism"](http://reducing-suffering.org/the-many-fallacies-of-dualism/).
+See also ["The Many Fallacies of Dualism"](http://reducing-suffering.org/the-many-fallacies-of-dualism/),
+[*Seeing Like a State*](https://en.wikipedia.org/wiki/Seeing_Like_a_State).
