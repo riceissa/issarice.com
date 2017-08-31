@@ -46,6 +46,8 @@ for coherency.
 |universal language|local language + universal translation|
 |wealth inequality?|wealth equality?|
 |[universality](https://en.wikipedia.org/wiki/Universality_%28philosophy%29)|[truth relativism](https://en.wikipedia.org/wiki/Relativism)|
+|[absolute space and time](https://en.wikipedia.org/wiki/Absolute_space_and_time)|relativity with frames of reference|
+|other kinds of absolutism|[other kinds of relativity](https://en.wikipedia.org/wiki/Relativity#Social_sciences)|
 
 For the proprietary/free software one: the distinction is not meant in regards
 to the whole universe of software; if it were, then proprietary software can be
