@@ -90,7 +90,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref>
 |-
-| 1996 || {{dts|November 11}} || || The <code>libertarianism.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=libertarianism.org |title=Showing results for: LIBERTARIANISM.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1996-11-11T05:00:00Z}}</ref>
+| 1996 || {{dts|November 11}} || || The <code>libertarianism.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=libertarianism.org |title=Showing results for: LIBERTARIANISM.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1996-11-11T05:00:00Z}}</ref> The website would not launch in its current form until the end of 2011.
 |-
 | 1998 || {{dts|May 26}} || || The <code>elcato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=elcato.org |title=Showing results for: ELCATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1998-05-26T04:00:00Z}}</ref>
 |-
@@ -114,7 +114,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2010 || {{dts|September 15}} || || {{w|Will Wilkinson}} leaves the Cato Institute.<ref>{{cite web |url=http://www.slate.com/content/slate/blogs/weigel/2010/08/23/a_purge_at_the_cato_institute.html |title=A Purge at the Cato Institute? |publisher=Slate Magazine |author=David Weigel |date=August 23, 2010 |accessdate=August 24, 2017}}</ref><ref>{{cite web |url=http://volokh.com/2010/08/24/the-cato-institutes-supposed-purge-of-the-liberaltarians/ |title=The Cato Institute's Supposed "Purge" of the Liberaltarians |author=Ilya Somin |publisher=The Volokh Conspiracy |date=August 24, 2010 |accessdate=August 24, 2017}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2010/08/brink_lindsey_w.html |title=Brink Lindsey, Will Wilkinson |author=Arnold Kling |accessdate=August 24, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
-| 2011 || {{dts|April 3}} || || The <code>humanprogress.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=humanprogress.org |title=Showing results for: HUMANPROGRESS.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2011-04-03T15:35:13Z}}</ref>
+| 2011 || {{dts|April 3}} || || The <code>humanprogress.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=humanprogress.org |title=Showing results for: HUMANPROGRESS.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2011-04-03T15:35:13Z}}</ref> The website would not launch until the beginning of 2014.
 |-
 | 2011 || {{dts|November 4}} || || {{w|Libertarianism.org}}, a website supported by the Cato Institute, launches.<ref>{{cite web |url=https://www.libertarianism.org/blog/welcome-libertarianismorg |publisher=Libertarianism.org |title=Welcome to Libertarianism.org |author=Aaron Ross Powell |date=November 4, 2011 |accessdate=August 27, 2017}}</ref>
 |-
@@ -129,6 +129,8 @@ This is a '''timeline of Cato Institute'''.
 | 2012 || {{dts|October}} || || {{w|John A. Allison IV}} becomes the President and CEO of Cato Institute.<ref>{{cite web |url=https://www.cato.org/people/john-allison |publisher=Cato Institute |title=John A. Allison |accessdate=August 25, 2017 |quote=Allison was president and CEO of the Cato Institute from October 2012 to April 2015.}}</ref>
 |-
 | 2013 || {{dts|April 26}} || || {{w|Walter Olson}} announces that {{w|Overlawyered}} is now affiliated with the Cato Institute.<ref>{{cite web |url=https://www.overlawyered.com/2013/04/overlawyered-now-cato-institute-blog/ |title=Overlawyered: now a Cato Institute blog |author=Walter Olson |publisher=Overlawyered |date=April 26, 2013 |accessdate=August 24, 2017}}</ref>
+|-
+| 2014 || {{dts|January 1}} || || Cato Institute launches HumanProgress.org. The website "provides data about the many ways in which the world has become a better place".<ref name="cato40-timeline" />
 |-
 | 2014 || {{dts|October 6}} || || The <code>alt-m.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=alt-m.org |title=Showing results for: ALT-M.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2014-10-06T22:42:42Z}}</ref> Cato's Center for Monetary and Financial Alternatives is also established during this year.<ref>{{cite web |url=https://www.cato.org/centers/center-monetary-financial-alternatives |publisher=Cato Institute |title=Center for Monetary and Financial Alternatives |accessdate=August 31, 2017}}</ref><ref name="cato40-timeline" />
 |-
