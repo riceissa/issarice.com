@@ -98,6 +98,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1997 || {{dts|October 21}} || || The <code>cato-university.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato-university.org |title=Showing results for: CATO-UNIVERSITY.ORG |publisher=ICANN WHOIS |accessdate=August 31, 2017 |quote=Creation Date: 1997-10-21T04:00:00Z}}</ref>
 |-
+| 1997 || {{dts|December 2}} || || Cato joins Free-Market.net as a partner for hosting various mailing lists.<ref>{{cite web |url=https://web.archive.org/web/20011103143945/http://www.free-market.net:80/partners/c/cato.html#lists |title=Free-Market.Net Partner Cato Institute |accessdate=August 31, 2017 |quote=Free-Market.Net Partner Since: December 2, 1997}}</ref>
+|-
 | 1998 || {{dts|May 26}} || || The <code>elcato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=elcato.org |title=Showing results for: ELCATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1998-05-26T04:00:00Z}}</ref>
 |-
 | 1998 || {{dts|May 29}} || || The Cato Institute announces the launch of its Spanish-language website, El Cato en Español.<ref>{{cite web |url=https://web.archive.org/web/19980712161034/http://cato.org:80/new/catonew.html |title=What's New at Cato |accessdate=August 25, 2017}}</ref>
