@@ -19,7 +19,7 @@ Gary Drescher in *Good and Real*:
 Similarly, I have noticed a tendency for decentralized approaches to overtake
 centralized ones. But I don't want to argue for the truth of this or argue for
 it in general, but rather list a bunch of examples and look at the potential
-for coherence.
+for coherency.
 
 |centralized|decentralized|
 |-----------|-------------|
@@ -44,6 +44,7 @@ for coherence.
 |sign in to view|anonymous access|
 |copyright|public domain|
 |universal language|local language + universal translation|
+|wealth inequality?|wealth equality?|
 
 For the proprietary/free software one: the distinction is not meant in regards
 to the whole universe of software; if it were, then proprietary software can be
@@ -53,5 +54,10 @@ proprietary software, one cannot fork without permission, so a single
 authoritative entity pushes out new versions of a piece of software. With free
 software, anyone can fork, so in principle there are no privileged nodes in
 the "software tree of life".
+
+I am not sure about the wealth equality one. It might just be that once
+economic variable is fixed in favor of decentralization, the wealth variable
+automatically resolves, so that there isn't an extra variable to fix (you would
+be overspecifying the system).
 
 See also ["The Many Fallacies of Dualism"](http://reducing-suffering.org/the-many-fallacies-of-dualism/).
