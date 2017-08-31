@@ -43,7 +43,7 @@ for coherency.
 |real name policy|anonymity|
 |sign in to view|anonymous access|
 |copyright|public domain|
-|universal language|local language + universal translation|
+|universal language|local language + universal translation, [specialized languages](https://www.gwern.net/Notes#powerful-natural-languages)|
 |wealth inequality?|wealth equality?|
 |[universality](https://en.wikipedia.org/wiki/Universality_%28philosophy%29)|[truth relativism](https://en.wikipedia.org/wiki/Relativism)|
 |[absolute space and time](https://en.wikipedia.org/wiki/Absolute_space_and_time)|relativity with frames of reference|
