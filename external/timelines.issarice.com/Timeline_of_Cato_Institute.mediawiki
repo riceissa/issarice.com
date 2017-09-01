@@ -88,6 +88,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1993 || {{dts|January}} || || Cato publishes ''Kindly Inquisitors: The New Attacks on Free Thoughts'' by {{w|Jonathan Rauch}}.<ref name="cato-25" />{{rp|71}}
 |-
+| 1993 || {{dts|May 6}}–7 || || Cato Institute celebrates the grand opening of its new headquarters. Staff members complete the move on May 10.<ref>{{cite web |url=https://object.cato.org/sites/cato.org/files/serials/files/policy-report/1993/8/v15n4.pdf |title=1,000 Guests Gather for Grand Opening |journal=Cato Policy Report |date=July 1993 |accessdate=September 1, 2017}}</ref>
+|-
 | 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref> On its timeline, Cato claims the website launched January 1, 1995, almost two months prior.<ref name="cato40-timeline" />
 |-
 | 1996 || {{dts|August 19}} || || The <code>socialsecurity.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=socialsecurity.org |title=Showing results for: SOCIALSECURITY.ORG |publisher=ICANN WHOIS |accessdate=August 31, 2017 |quote=Creation Date: 1996-08-19T04:00:00Z}}</ref>
