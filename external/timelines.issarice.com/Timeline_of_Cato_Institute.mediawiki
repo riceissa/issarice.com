@@ -147,6 +147,8 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2011 || {{dts|April 3}} || Domain || The <code>humanprogress.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=humanprogress.org |title=Showing results for: HUMANPROGRESS.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2011-04-03T15:35:13Z}}</ref> The website would not launch until the beginning of 2014.
 |-
+| 2011 || {{dts|October 26}} || People || {{w|William A. Niskanen}} dies. His death raises the issue of what happens to the shares in the corporation he held, which turns into the Koch v. Cato dispute.<ref>{{cite web |url=http://volokh.com/2012/03/02/koch-v-cato/ |title=Koch v. Cato |author=Jonathan H. Adler |publisher=The Volokh Conspiracy |date=March 2, 2012 |accessdate=September 1, 2017}}</ref>
+|-
 | 2011 || {{dts|November 4}} || Website || {{w|Libertarianism.org}}, a website supported by the Cato Institute, launches.<ref>{{cite web |url=https://www.libertarianism.org/blog/welcome-libertarianismorg |publisher=Libertarianism.org |title=Welcome to Libertarianism.org |author=Aaron Ross Powell |date=November 4, 2011 |accessdate=August 27, 2017}}</ref>
 |-
 | 2012 || || || Cato Institute completes a building expansion and renovation of its Washington, D.C. headquarters.<ref>{{cite web |url=http://www.clarkconstruction.com/our-work/projects/cato-institute-expansion-and-renovation |title=Cato Institute Expansion and Renovation |publisher=Clark Construction |accessdate=August 26, 2017}}</ref>
