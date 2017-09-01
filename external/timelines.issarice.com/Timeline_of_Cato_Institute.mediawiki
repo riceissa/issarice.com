@@ -66,7 +66,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1985 || {{dts|September}} || || The Cato Institute publishes ''Friedman and Hayek on Freedom'', a collection of Russian-language essays by {{w|F. A. Hayek}} and {{w|Milton Friedman}}. Cato then smuggles copies of the book into the {{w|Soviet Union}}.<ref name="cato-25" />{{rp|40}}
 |-
-| 1989 || || || The Cato Institute acquires ''[[wikipedia:Regulation (magazine)|Regulation]]'', the magazine-turned-periodical started by the {{w|American Enterprise Institute}}.<ref>{{cite web |url=https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archiveurl=https://web.archive.org/web/20060207063848/https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archivedate=February 7, 2006 |title=A Retrospective |author=William A. Niskanen |year=2002 |accessdate=August 24, 2017}}</ref>
+| 1989 || || || The Cato Institute acquires ''[[wikipedia:Regulation (magazine)|Regulation]]'', the magazine-turned-periodical started by the {{w|American Enterprise Institute}}.<ref>{{cite web |url=https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archiveurl=https://web.archive.org/web/20060207063848/https://www.cato.org/pubs/regulation/regv25n2/v25n2-2.pdf |archivedate=February 7, 2006 |title=A Retrospective |author=William A. Niskanen |year=2002 |accessdate=August 24, 2017}}</ref> (Cato's 40-year anniversary timeline gives January 1990 for the acquisition.)<ref name="cato40-timeline" />
 |-
 | 1989 || || || The Cato Institute establishes its Center for Constitutional Studies.<ref name="cato-25" /><ref>{{cite web |url=https://www.cato.org/centers/center-constitutional-studies |publisher=Cato Institute |title=Center for Constitutional Studies |accessdate=August 25, 2017}}</ref>
 |-
