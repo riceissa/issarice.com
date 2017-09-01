@@ -88,7 +88,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1993 || {{dts|January}} || || Cato publishes ''Kindly Inquisitors: The New Attacks on Free Thoughts'' by {{w|Jonathan Rauch}}.<ref name="cato-25" />{{rp|71}}
 |-
-| 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref>
+| 1995 || {{dts|February 22}} || || The <code>cato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato.org |title=Showing results for: CATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1995-02-22T05:00:00Z}}</ref> On its timeline, Cato claims the website launched January 1, 1995, almost two months prior.<ref name="cato40-timeline" />
 |-
 | 1996 || {{dts|August 19}} || || The <code>socialsecurity.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=socialsecurity.org |title=Showing results for: SOCIALSECURITY.ORG |publisher=ICANN WHOIS |accessdate=August 31, 2017 |quote=Creation Date: 1996-08-19T04:00:00Z}}</ref>
 |-
@@ -96,11 +96,13 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1997 || {{dts|June 27}} || || The <code>freetrade.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=freetrade.org |title=Showing results for: FREETRADE.ORG |publisher=ICANN WHOIS |accessdate=August 31, 2017 |quote=Creation Date: 1997-06-27T04:00:00Z}}</ref>
 |-
-| 1997 || {{dts|October 21}} || || The <code>cato-university.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato-university.org |title=Showing results for: CATO-UNIVERSITY.ORG |publisher=ICANN WHOIS |accessdate=August 31, 2017 |quote=Creation Date: 1997-10-21T04:00:00Z}}</ref>
+| 1997 || {{dts|October 21}} || || The <code>cato-university.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=cato-university.org |title=Showing results for: CATO-UNIVERSITY.ORG |publisher=ICANN WHOIS |accessdate=August 31, 2017 |quote=Creation Date: 1997-10-21T04:00:00Z}}</ref> Cato University would launch the following year.
 |-
 | 1997 || {{dts|December 2}} || || Cato joins Free-Market.net as a partner for hosting various mailing lists.<ref>{{cite web |url=https://web.archive.org/web/20011103143945/http://www.free-market.net:80/partners/c/cato.html#lists |title=Free-Market.Net Partner Cato Institute |accessdate=August 31, 2017 |quote=Free-Market.Net Partner Since: December 2, 1997}}</ref>
 |-
 | 1998 || || || Cato Institute first publishes its {{w|pocket Constitution}}. Cato's edition contains the {{w|United States Declaration of Independence}} and the {{w|United States Constitution}}.<ref>{{cite web |url=https://www.cato.org/policy-report/septemberoctober-2005/cato-constitution |publisher=Cato Institute |title=Policy Report: The Cato Constitution |date=September 1, 2005 |accessdate=August 31, 2017 |quote=Since its first publication in 1998, Cato has distributed more than four million copies of the pocket Constitution.}}</ref><ref>{{cite web |url=http://www.slate.com/articles/news_and_politics/politics/2015/01/history_of_the_pocket_constitution_these_miniature_versions_of_america_s.html |title=The Bizarre, Incomplete History of the Pocket Constitution |author=Betsy Woodruff |date=January 28, 2015 |publisher=Slate Magazine |accessdate=August 31, 2017 |quote=The most American thing that has ever existed landed on my desk a few weeks ago in an unsolicited mailing from a libertarian-leaning think tank: a snappy new Cato Institute pocket Constitution, one of millions printed since the booklets first started streaming off printing presses decades ago.}}</ref> (Cato's 40-year anniversary timeline claims the first pocket Constitution was published in 2002.)<ref name="cato40-timeline" />
+|-
+| 1998 || || || Cato University launches.<ref name="cato40-timeline" />
 |-
 | 1998 || {{dts|May 26}} || || The <code>elcato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=elcato.org |title=Showing results for: ELCATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1998-05-26T04:00:00Z}}</ref>
 |-
