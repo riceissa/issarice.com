@@ -108,7 +108,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1998 || {{dts|May 26}} || Domain || The <code>elcato.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=elcato.org |title=Showing results for: ELCATO.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 1998-05-26T04:00:00Z}}</ref>
 |-
-| 1998 || {{dts|May 29}} || || The Cato Institute announces the launch of its Spanish-language website, El Cato en Español.<ref>{{cite web |url=https://web.archive.org/web/19980712161034/http://cato.org:80/new/catonew.html |title=What's New at Cato |accessdate=August 25, 2017}}</ref>
+| 1998 || {{dts|May 29}} || Website || The Cato Institute announces the launch of its Spanish-language website, El Cato en Español.<ref>{{cite web |url=https://web.archive.org/web/19980712161034/http://cato.org:80/new/catonew.html |title=What's New at Cato |accessdate=August 25, 2017}}</ref>
 |-
 | 1999 || {{dts|March 1}} || || Cato Institute files its first ''[[wikipedia:Amicus curiae|amicus curiae]]'' at the {{w|United States Supreme Court}}.<ref name="cato40-timeline" /><ref>{{cite web |url=https://www.cato.org/about/cato-amicus-program |publisher=Cato Institute |title=Cato's Amicus Brief Program |accessdate=September 1, 2017}}</ref>
 |-
@@ -132,7 +132,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2008 || {{dts|September 1}} || People || {{w|Robert A. Levy}} becomes chairman of Cato Institute.<ref name="cato40-timeline" />
 |-
-| 2009 || || || Cato Institute launches DownsizingGovernment.org. The website is "designed to help policymakers and the public understand where federal spending goes and how to reform each government department."<ref name="cato40-timeline" />
+| 2009 || || Website || Cato Institute launches DownsizingGovernment.org. The website is "designed to help policymakers and the public understand where federal spending goes and how to reform each government department."<ref name="cato40-timeline" />
 |-
 | 2009 || {{dts|September 8}} || Domain || The <code>policemisconduct.net</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=policemisconduct.net |title=Showing results for: policemisconduct.net |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2009-09-08T18:56:13Z}}</ref> The site would not launch until mid-2012.
 |-
@@ -142,13 +142,13 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2011 || {{dts|April 3}} || Domain || The <code>humanprogress.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=humanprogress.org |title=Showing results for: HUMANPROGRESS.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2011-04-03T15:35:13Z}}</ref> The website would not launch until the beginning of 2014.
 |-
-| 2011 || {{dts|November 4}} || || {{w|Libertarianism.org}}, a website supported by the Cato Institute, launches.<ref>{{cite web |url=https://www.libertarianism.org/blog/welcome-libertarianismorg |publisher=Libertarianism.org |title=Welcome to Libertarianism.org |author=Aaron Ross Powell |date=November 4, 2011 |accessdate=August 27, 2017}}</ref>
+| 2011 || {{dts|November 4}} || Website || {{w|Libertarianism.org}}, a website supported by the Cato Institute, launches.<ref>{{cite web |url=https://www.libertarianism.org/blog/welcome-libertarianismorg |publisher=Libertarianism.org |title=Welcome to Libertarianism.org |author=Aaron Ross Powell |date=November 4, 2011 |accessdate=August 27, 2017}}</ref>
 |-
 | 2012 || || || Cato Institute completes a building expansion and renovation of its Washington, D.C. headquarters.<ref>{{cite web |url=http://www.clarkconstruction.com/our-work/projects/cato-institute-expansion-and-renovation |title=Cato Institute Expansion and Renovation |publisher=Clark Construction |accessdate=August 26, 2017}}</ref>
 |-
 | 2012 || || Publication || Cato Institute co-publishes the {{w|Index of Freedom in the World}}.<ref>{{cite web |url=https://object.cato.org/sites/cato.org/files/articles/towards-worldwide-index-3-vasquez-stumberger.pdf |first1=Ian |last1=Vásquez |first2=Tanja |last2=Štumberger |year=2012 |publisher=Fraser Institute |title=An Index of Freedom in the World |accessdate=August 31, 2017}}</ref>
 |-
-| 2012 || {{dts|May 1}} || || Cato Institute launches PoliceMisconduct.net. The site is "a comprehensive database of media reports on police impropriety".<ref name="cato40-timeline" />
+| 2012 || {{dts|May 1}} || Website || Cato Institute launches PoliceMisconduct.net. The site is "a comprehensive database of media reports on police impropriety".<ref name="cato40-timeline" />
 |-
 | 2012 || {{dts|June 25}} || || Charles and David Koch announce that they are close to settling the lawsuits over ownership of the Cato Institute.<ref>{{cite web |url=https://www.usnews.com/news/politics/articles/2012/06/25/kochs-cato-institute-ready-to-end-lawsuits |title=Kochs, Cato Institute ready to end lawsuits |publisher=[[wikipedia:U.S. News & World Report|U.S. News & World Report]] |date=June 25, 2012 |author=John Hanna |accessdate=August 25, 2017}}</ref>
 |-
@@ -158,7 +158,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2013 || {{dts|April 26}} || || {{w|Walter Olson}} announces that {{w|Overlawyered}} is now affiliated with the Cato Institute.<ref>{{cite web |url=https://www.overlawyered.com/2013/04/overlawyered-now-cato-institute-blog/ |title=Overlawyered: now a Cato Institute blog |author=Walter Olson |publisher=Overlawyered |date=April 26, 2013 |accessdate=August 24, 2017}}</ref>
 |-
-| 2014 || {{dts|January 1}} || || Cato Institute launches HumanProgress.org. The website "provides data about the many ways in which the world has become a better place".<ref name="cato40-timeline" />
+| 2014 || {{dts|January 1}} || Website || Cato Institute launches HumanProgress.org. The website "provides data about the many ways in which the world has become a better place".<ref name="cato40-timeline" />
 |-
 | 2014 || {{dts|October 6}} || Domain || The <code>alt-m.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=alt-m.org |title=Showing results for: ALT-M.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2014-10-06T22:42:42Z}}</ref> Cato's Center for Monetary and Financial Alternatives, whose blog is hosted at the domain, is also established during this year.<ref>{{cite web |url=https://www.cato.org/centers/center-monetary-financial-alternatives |publisher=Cato Institute |title=Center for Monetary and Financial Alternatives |accessdate=August 31, 2017}}</ref><ref name="cato40-timeline" />
 |-
