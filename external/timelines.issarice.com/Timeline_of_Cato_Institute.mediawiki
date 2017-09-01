@@ -5,6 +5,7 @@ This is a '''timeline of Cato Institute'''.
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| {{dts|March 1, 2012}}{{snd}}{{dts|October 2012}} || Koch v. Cato dispute ||
 |}
 
 ==Full timeline==
