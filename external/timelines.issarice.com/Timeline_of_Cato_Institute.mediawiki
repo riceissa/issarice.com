@@ -5,6 +5,10 @@ This is a '''timeline of Cato Institute'''.
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 1974–1976 || The Charles Koch Foundation days || Cato's own timelines begin in 1977, and it's not clear what they were up to in the first two years before the name change.
+|-
+| 1977–1981 || Rothbard is around ||
+|-
 | {{dts|March 1, 2012}}{{snd}}{{dts|October 2012}} || Koch v. Cato dispute ||
 |}
 
