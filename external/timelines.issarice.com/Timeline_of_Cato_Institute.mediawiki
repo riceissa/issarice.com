@@ -26,7 +26,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1978 || {{dts|March}} || Publication || Cato Institute publishes ''The Ultimate Foundation of Economic Science'' by {{w|Ludwig von Mises}}.<ref name="cato-25" />{{rp|11}}
 |-
-| 1978 || {{dts|June}} || || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />{{rp|12}}
+| 1978 || {{dts|June}} || Meeting || The Cato Institute launches its Summer Seminar in Political Economy.<ref name="cato-25" />{{rp|12}}
 |-
 | 1979 || {{dts|January}} || Periodical || The Cato Institute launches the newsletter ''Policy Report''.<ref name="cato-25">{{cite web |url=https://object.cato.org/sites/cato.org/files/pubs/pdf/25th_annual_report.pdf |title=25 years at the Cato Institute: The 2001 Annual Report |publisher=Cato Institute |year=2001 |accessdate=August 24, 2017}}</ref>{{rp|12–13}}
 |-
@@ -42,7 +42,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1981 || {{dts|March}} || People || {{w|Murray Rothbard}} is fired from Cato Institute.<ref name="Doherty">{{cite book |title=Radicals for Capitalism: A Freewheeling History of the Modern American Libertarian Movement |author=Brian Doherty |year=2007 |publisher=PublicAffairs}}</ref>{{rp|417}}
 |-
-| 1981 || {{dts|December}} || || Cato Institute holds a symposium on pollution.<ref name="cato-25" />{{rp|23}}
+| 1981 || {{dts|December}} || Meeting || Cato Institute holds a symposium on pollution.<ref name="cato-25" />{{rp|23}}
 |-
 | 1981 || {{dts|December}} || || {{w|Ludwig von Mises}}'s widow Margit gives her approval to found the Mises Institute.<ref name="old-about-page">{{cite web |url=https://web.archive.org/web/20071026003336/http://www.mises.org:80/about.aspx |title=About the Mises Institute |accessdate=August 23, 2017}}</ref>
 |-
@@ -54,7 +54,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1982 || {{dts|October}} || || The Mises Institute is founded by Llewellyn H. Rockwell, Jr. (founding president), with {{w|Murray Rothbard}} as the founding vice president.<ref>{{cite web |url=https://mises.org/about-mises |publisher=Mises Institute |title=About Mises |date=June 18, 2014 |accessdate=August 22, 2017}}</ref><ref name="what-is-the-mises-Institute">{{cite web |url=https://mises.org/about-mises/what-is-the-mises-Institute |publisher=Mises Institute |title=What Is the Mises Institute? |date=June 18, 2014 |accessdate=August 22, 2017}}</ref><ref name="faq-2007-12-14">{{cite web |url=https://web.archive.org/web/20071214105818/http://www.mises.org/content/faq.aspx |title=Mises.org: Frequently Asked Questions |accessdate=August 23, 2017}}</ref>
 |-
-| 1983 || {{dts|January}} || || The Cato Institute hosts its first annual monetary conference. The topic for the first year is "The Search for Stable Money".<ref name="cato-25" />{{rp|28}}
+| 1983 || {{dts|January}} || Meeting || The Cato Institute hosts its first annual monetary conference. The topic for the first year is "The Search for Stable Money".<ref name="cato-25" />{{rp|28}}
 |-
 | 1983 || {{dts|November}} || Publication || Cato Institute publishes ''Telecommunications in Crisis: Technology, Deregulation, and the First Amendment'', arguing for a [[wikipedia:Spectrum management|free market in the frequency spectrum]].<ref name="cato-25" />{{rp|30}}
 |-
@@ -72,13 +72,13 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1989 || {{dts|December}} || Publication || The Cato Institute publishes ''The Rights Retained by the People: The History and Meaning of the Ninth Amendment''.<ref name="cato-25" />{{rp|55}}<ref>{{cite web |url=https://fee.org/articles/book-review-the-rights-retained-by-the-people-the-history-and-meaning-of-the-ninth-amendment-edited-by-randy-e-barnett/ |title=The Rights Retained by the People: The History and Meaning of the Ninth Amendment |author=James A. Woehlke |date=October 1, 1992 |accessdate=August 30, 2017}}</ref>
 |-
-| 1990 || {{dts|September}} || || The Cato Institute holds its first conference in Moscow, titled ''Transition to Freedom: the New Soviet Challenge''.<ref>{{cite web |url=https://www.cis.org.au/app/uploads/2015/04/images/stories/policy-magazine/1991-autumn/1991-7-1-ross-parish.pdf |title=Transition to Freedom? The Cato Institute's Moscow Conference |author=Ross Parish |year=1991 |accessdate=August 30, 2017}}</ref><ref name="cato-25" />{{rp|59}}
+| 1990 || {{dts|September}} || Meeting || The Cato Institute holds its first conference in Moscow, titled ''Transition to Freedom: the New Soviet Challenge''.<ref>{{cite web |url=https://www.cis.org.au/app/uploads/2015/04/images/stories/policy-magazine/1991-autumn/1991-7-1-ross-parish.pdf |title=Transition to Freedom? The Cato Institute's Moscow Conference |author=Ross Parish |year=1991 |accessdate=August 30, 2017}}</ref><ref name="cato-25" />{{rp|59}}
 |-
 | 1991 || || || Cato Institute is "solidly against" the {{w|Gulf War}}. Cato loses "nearly $1 million in funding over its stance against the Gulf War" due to some of its funders being for the war.<ref name="Doherty" />{{rp|454}}<ref>{{cite web |url=http://econlog.econlib.org/archives/2012/09/farewell_ed_cra.html |title=Ed Crane: An Appreciation |author=David Henderson |date=September 29, 2012 |accessdate=August 27, 2017 |quote=One of the things I most admire about Ed is how he stayed principled when George Bush I got the U.S. into the first Gulf war. At the time, one major contributor to Cato withdrew his funding and, possibly, persuaded others to do so also, but Ed stayed strong and just worked that much harder to raise funds to fill the gap. |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 |-
 | 1991 || {{dts|March}} || Publication || The Cato Institute publishes ''Liberating Schools: Education in the Inner City'', a collection of articles edited by {{w|David Boaz}}.<ref name="cato-25" />{{rp|64}}
 |-
-| 1991 || {{dts|April 20}}–21 || || The Cato Institute conference "All the President's Men: Perestroika Yesterday, Today, Tomorrow", the second in Moscow, takes place.<ref name="cato-25" />{{rp|64}}<ref>{{cite web |url=https://object.cato.org/sites/cato.org/files/serials/files/policy-report/1991/8/v13n4.pdf |title=Second Moscow Conference Draws Worldwide Attention |date=July 1991 |accessdate=August 30, 2017}}</ref>{{rp|4}}
+| 1991 || {{dts|April 20}}–21 || Meeting || The Cato Institute conference "All the President's Men: Perestroika Yesterday, Today, Tomorrow", the second in Moscow, takes place.<ref name="cato-25" />{{rp|64}}<ref>{{cite web |url=https://object.cato.org/sites/cato.org/files/serials/files/policy-report/1991/8/v13n4.pdf |title=Second Moscow Conference Draws Worldwide Attention |date=July 1991 |accessdate=August 30, 2017}}</ref>{{rp|4}}
 |-
 | 1991 || {{dts|May 1}} || Publication || ''America Entangled: The Persian Gulf Crisis and Its Consequences'', edited by Ted Galen Carpenter, is published.<ref>{{cite web |url=https://store.cato.org/book/america-entangled |publisher=Cato Store |title=America Entangled |date=April 15, 2015 |accessdate=August 30, 2017}}</ref><ref name="cato-25" />{{rp|61}}
 |-
@@ -162,7 +162,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2014 || {{dts|October 6}} || Domain || The <code>alt-m.org</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=alt-m.org |title=Showing results for: ALT-M.ORG |publisher=ICANN WHOIS |accessdate=August 24, 2017 |quote=Creation Date: 2014-10-06T22:42:42Z}}</ref> Cato's Center for Monetary and Financial Alternatives, whose blog is hosted at the domain, is also established during this year.<ref>{{cite web |url=https://www.cato.org/centers/center-monetary-financial-alternatives |publisher=Cato Institute |title=Center for Monetary and Financial Alternatives |accessdate=August 31, 2017}}</ref><ref name="cato40-timeline" />
 |-
-| 2014 || {{dts|December 12}} || || The inaugural Cato Institute Surveillance Conference takes place.<ref>{{cite web |url=https://www.cato.org/events/2014-cato-institute-surveillance-conference |publisher=Cato Institute |title=The 2014 Cato Institute Surveillance Conference |date=November 11, 2014 |accessdate=August 31, 2017}}</ref><ref>{{cite web |url=https://www.lawfareblog.com/2014-cato-institute-surveillance-conference |publisher=Lawfare |author=Cody M. Poplin |title=The 2014 Cato Institute Surveillance Conference |date=December 16, 2014 |accessdate=August 31, 2017}}</ref><ref>{{cite web |url=https://www.justsecurity.org/18518/cato-institute-surveillance-conference/ |title=The Cato Institute Surveillance Conference |date=December 17, 2014 |publisher=Just Security |author=Julian Sanchez |accessdate=August 31, 2017}}</ref><ref name="cato40-timeline" />
+| 2014 || {{dts|December 12}} || Meeting || The inaugural Cato Institute Surveillance Conference takes place.<ref>{{cite web |url=https://www.cato.org/events/2014-cato-institute-surveillance-conference |publisher=Cato Institute |title=The 2014 Cato Institute Surveillance Conference |date=November 11, 2014 |accessdate=August 31, 2017}}</ref><ref>{{cite web |url=https://www.lawfareblog.com/2014-cato-institute-surveillance-conference |publisher=Lawfare |author=Cody M. Poplin |title=The 2014 Cato Institute Surveillance Conference |date=December 16, 2014 |accessdate=August 31, 2017}}</ref><ref>{{cite web |url=https://www.justsecurity.org/18518/cato-institute-surveillance-conference/ |title=The Cato Institute Surveillance Conference |date=December 17, 2014 |publisher=Just Security |author=Julian Sanchez |accessdate=August 31, 2017}}</ref><ref name="cato40-timeline" />
 |-
 | 2015 || {{dts|February 1}} || Publication || ''The Libertarian Mind: A Manifesto for Freedom'' by Cato Institute's executive vice president {{w|David Boaz}} is published.<ref name="cato40-timeline" />
 |-
@@ -184,6 +184,8 @@ Issa likes to work locally and track changes with Git, so the revision history o
 ===What the timeline is still missing===
 
 ===Timeline update strategy===
+
+It seems like on anniversaries Cato publishes a timeline containing what it thinks are significant events.
 
 ==See also==
 
