@@ -156,7 +156,7 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 2012 || {{dts|October}} || People || {{w|John A. Allison IV}} becomes the President and CEO of Cato Institute.<ref>{{cite web |url=https://www.cato.org/people/john-allison |publisher=Cato Institute |title=John A. Allison |accessdate=August 25, 2017 |quote=Allison was president and CEO of the Cato Institute from October 2012 to April 2015.}}</ref>
 |-
-| 2013 || {{dts|April 26}} || || {{w|Walter Olson}} announces that {{w|Overlawyered}} is now affiliated with the Cato Institute.<ref>{{cite web |url=https://www.overlawyered.com/2013/04/overlawyered-now-cato-institute-blog/ |title=Overlawyered: now a Cato Institute blog |author=Walter Olson |publisher=Overlawyered |date=April 26, 2013 |accessdate=August 24, 2017}}</ref>
+| 2013 || {{dts|April 26}} || Website || {{w|Walter Olson}} announces that {{w|Overlawyered}} is now affiliated with the Cato Institute.<ref>{{cite web |url=https://www.overlawyered.com/2013/04/overlawyered-now-cato-institute-blog/ |title=Overlawyered: now a Cato Institute blog |author=Walter Olson |publisher=Overlawyered |date=April 26, 2013 |accessdate=August 24, 2017}}</ref>
 |-
 | 2014 || {{dts|January 1}} || Website || Cato Institute launches HumanProgress.org. The website "provides data about the many ways in which the world has become a better place".<ref name="cato40-timeline" />
 |-
