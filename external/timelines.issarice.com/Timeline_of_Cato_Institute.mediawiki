@@ -38,8 +38,6 @@ This is a '''timeline of Cato Institute'''.
 |-
 | 1980 || {{dts|December}} || || Cato Institute publishes ''Social Security: The Inherent Contradiction'' by {{w|Peter Ferrara}}.<ref name="cato-25" />{{rp|19}}
 |-
-| Early 1980s || || || The Cato Institute relocates to Washington D.C.<ref name="Doherty" />{{rp|446}}
-|-
 | 1981 || {{dts|March}} || || The first issue of the ''{{w|Cato Journal}}'' is published.<ref name="cato-25" />{{rp|22}}
 |-
 | 1981 || {{dts|March}} || || {{w|Murray Rothbard}} is fired from Cato Institute.<ref name="Doherty">{{cite book |title=Radicals for Capitalism: A Freewheeling History of the Modern American Libertarian Movement |author=Brian Doherty |year=2007 |publisher=PublicAffairs}}</ref>{{rp|417}}
@@ -47,6 +45,8 @@ This is a '''timeline of Cato Institute'''.
 | 1981 || {{dts|December}} || || Cato Institute holds a symposium on pollution.<ref name="cato-25" />{{rp|23}}
 |-
 | 1981 || {{dts|December}} || || {{w|Ludwig von Mises}}'s widow Margit gives her approval to found the Mises Institute.<ref name="old-about-page">{{cite web |url=https://web.archive.org/web/20071026003336/http://www.mises.org:80/about.aspx |title=About the Mises Institute |accessdate=August 23, 2017}}</ref>
+|-
+| 1982 || {{dts|January}} || || The Cato Institute relocates to Washington D.C.<ref name="Doherty" />{{rp|446}}<ref name="cato40-timeline" />
 |-
 | 1982 || {{dts|February}} || || Cato Institute publishes ''Freedom, Feminism, and the State''.<ref name="cato-25" />{{rp|24}}
 |-
