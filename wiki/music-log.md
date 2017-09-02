@@ -258,6 +258,13 @@ The Pillows:
 * The Pillows: *Trial*
 * Sparklehorse: *It's a Wonderful Life*
 
+# August 2017
+
+* Radiohead: "Separator"
+* Sparklehorse: *Dreamt for Light Years in the Belly of a Mountain*
+* Sparklehorse: *Good Morning Spider*
+* Radiohead: Milan 2017 concert
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
