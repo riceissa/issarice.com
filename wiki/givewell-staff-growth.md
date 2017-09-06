@@ -100,6 +100,10 @@ On June 12, 2017, GiveWell and Open Phil [announced that Open Phil has become
 an independent organization](http://www.openphilanthropy.org/blog/open-philanthropy-project-now-independent-organization).
 Because of this change, Holden Karnofsky has moved from GW ∩ OP to OP ∖ GW.
 
+Sometime between August 5, 2017 and September 6, 2017, Kaitlyn and Mike Krieger
+were removed from the team page, which is why the count there drops by two. You
+can still view an [archive of their profile page](https://web.archive.org/web/20170704203224/http://www.openphilanthropy.org/about/team/kaitlyn-mike-krieger).
+
 # Plots
 
 The following is a plot of the table above (which is better in some sense because it indicates the gaps when the employee count did not change):
