@@ -15,25 +15,16 @@ This is the personal website of Issa Rice.
 - [Account names](account-names) I use on various websites
 - [List of things I have worked on](work)
 
-# Summary of what I worked on: July 2017 {#summary}
+# Summary of what I worked on: August 2017 {#summary}
 
-I worked on some graphing improvements for Wikipedia Views.
-Pull requests: [1](https://github.com/vipulnaik/wikipediaviews/pull/18),
-[2](https://github.com/vipulnaik/wikipediaviews/pull/19).
+For completed tasks, see the [work page](work).
 
-I wrote a [timeline of Machine Intelligence Research Institute](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute).
+In addition, during August I looked into libertarianism, producing substantive
+drafts of several timelines:
 
-I wrote a [timeline of Center for Applied Rationality](https://timelines.issarice.com/wiki/Timeline_of_Center_for_Applied_Rationality).
-The timeline is still lacking a big picture.
-
-I wrote a [timeline of friendly artificial intelligence](https://timelines.issarice.com/wiki/Timeline_of_friendly_artificial_intelligence).
-The timeline is still lacking a big picture.
-
-For Vipul Naik's donations site, I
-[worked on donee deduplication](https://github.com/vipulnaik/donations/tree/donee-deduplication)
-(this branch includes automated social media information fetching as well),
-[implemented a donor similarity comparison feature](https://github.com/vipulnaik/donations/tree/donor-similarity),
-and [expanded the notes column](https://github.com/vipulnaik/donations/tree/notes-col-expansion).
+- [Timeline of libertarianism in the United States](https://timelines.issarice.com/wiki/Timeline_of_libertarianism_in_the_United_States)
+- [Timeline of Ludwig von Mises Institute](https://timelines.issarice.com/wiki/Timeline_of_Ludwig_von_Mises_Institute)
+- [Timeline of Cato Institute](https://timelines.issarice.com/wiki/Timeline_of_Cato_Institute)
 
 # Activity feeds
 
