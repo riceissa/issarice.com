@@ -90,8 +90,15 @@ Date               GW ∩ OP         GW ∖ OP        OP ∖ GW
 2017-04-20   2 $(-0,+0)$    16 $(-0,+2)$    21 $(-0,+0)$
 2017-05-05   2 $(-0,+0)$    16 $(-0,+0)$    21 $(-0,+0)$
 2017-06-05   2 $(-0,+0)$    16 $(-0,+0)$    20 $(-1,+0)$
+2017-07-05   1 $(-1,+0)$    16 $(-0,+0)$    23 $(-0,+3)$
+2017-08-05   1 $(-0,+0)$    16 $(-0,+0)$    24 $(-0,+1)$
+2017-09-06   1 $(-0,+0)$    16 $(-0,+0)$    22 $(-2,+0)$
 
 Table: Growth of GiveWell and Open Phil since September 2016.
+
+On June 12, 2017, GiveWell and Open Phil [announced that Open Phil has become
+an independent organization](http://www.openphilanthropy.org/blog/open-philanthropy-project-now-independent-organization).
+Because of this change, Holden Karnofsky has moved from GW ∩ OP to OP ∖ GW.
 
 # Plots
 
