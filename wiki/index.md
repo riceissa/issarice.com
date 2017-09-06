@@ -13,6 +13,7 @@ This is the personal website of Issa Rice.
 
 - [About](about)
 - [Account names](account-names) I use on various websites
+- [List of things I have worked on](work)
 
 # Summary of what I worked on: July 2017 {#summary}
 
