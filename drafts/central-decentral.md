@@ -51,6 +51,14 @@ for coherency.
 |centralized organization|[DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)|
 |cloud computing|[personal computing](https://kmandla.wordpress.com/2009/07/07/the-cloud-is-a-lie/)|
 |bare metal/host OS|containers, virtualization|
+|single source of truth||
+|prestige||
+|single point of failure||
+|egoism|altruism|
+|Cartesian theatre/homunculus|multiple drafts, etc.|
+
+(I think when you draw the network graph, many of these don't look centralized
+or decentralized.)
 
 For the proprietary/free software one: the distinction is not meant in regards
 to the whole universe of software; if it were, then proprietary software can be
@@ -68,4 +76,5 @@ be overspecifying the system).
 
 See also ["The Many Fallacies of Dualism"](http://reducing-suffering.org/the-many-fallacies-of-dualism/),
 [*Seeing Like a State*](https://en.wikipedia.org/wiki/Seeing_Like_a_State),
-[ontological crisis](https://wiki.lesswrong.com/wiki/Ontological_crisis).
+[ontological crisis](https://wiki.lesswrong.com/wiki/Ontological_crisis),
+[near/far thinking](https://wiki.lesswrong.com/wiki/Near/far_thinking).
