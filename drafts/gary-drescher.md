@@ -56,3 +56,6 @@ The link from his name goes to <http://www.think.com/>.
 [not listed under senior management c. 1997](https://web.archive.org/web/19970218214826/http://www.think.com:80/html/about/senior.htm)
 
 [asked on quora](https://www.quora.com/unanswered/What-has-Gary-Drescher-been-up-to-since-he-published-Good-and-Real)
+
+he seems to have an [amateur radio license](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=607805)?
+(middle initial matches, but could be a different person)
