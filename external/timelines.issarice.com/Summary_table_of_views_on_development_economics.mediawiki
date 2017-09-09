@@ -1,0 +1,35 @@
+This is a '''summary table of views on development economics'''.
+
+==Table==
+
+{| class="wikitable"
+! View !! Major works that discuss development economics !! Population ethics stance !! Has growth failed? !! Why has growth failed? !! Level of statism !! Level of emphasis on IQ-based explanations !! What must poor countries do to achieve growth?
+|-
+| {{w|Jeffrey Sachs}} || ''{{w|The End of Poverty}}'' ||
+|-
+| {{w|William Easterly}} || ''{{w|The Elusive Quest for Growth}}'', ''{{w|The White Man's Burden}}'' ||
+|-
+| {{w|Abhijit Banerjee}}, {{w|Esther Duflo}} || ''{{w|Poor Economics}}'' ||
+|-
+| {{w|Bryan Caplan}} || EconLog, forthcoming book on poverty || || || || Anarcho-capitalist :D ||
+|-
+| {{w|Garett Jones}} || ''Hive Mind'' ||
+|-
+| {{w|Richard Lynn}} || ''{{w|IQ and the Wealth of Nations}}'', ''{{w|IQ and Global Inequality}}'' ||
+|-
+| {{w|Dambisa Moyo}} || ''{{w|Dead Aid}}'' ||
+|-
+| {{w|GiveWell}} || ''The GiveWell Blog'' ||
+|}
+
+==Meta information==
+
+{{funding info}} is available.
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
