@@ -2,30 +2,57 @@ This is a '''summary table of views on development economics'''.
 
 ==Table==
 
+* Has growth failed?
+* Why has growth failed?
+* What must poor countries do to achieve growth?
+
 {| class="wikitable"
-! View !! Major works that discuss development economics !! Population ethics stance !! Has growth failed? !! Why has growth failed? !! Level of statism !! Level of emphasis on IQ-based explanations !! What must poor countries do to achieve growth?
+! rowspan="2" | View
+! rowspan="2" | Major works that discuss development economics
+! colspan="3" | Background beliefs
+! colspan="3" | Level of emphasis on explanations for differential growth
 |-
-| {{w|Jeffrey Sachs}} || ''{{w|The End of Poverty}}'' ||
+! Population ethics stance
+! Level of statism
+! Immigration restrictions stance
+! IQ
+! Geography
+! Governance
 |-
-| {{w|William Easterly}} || ''{{w|The Elusive Quest for Growth}}'', ''{{w|The White Man's Burden}}'' ||
+| {{w|Jeffrey Sachs}}
+| ''{{w|The End of Poverty}}''
+|
+|
+|
+|
+| Large emphasis<ref>From ''{{w|Poor Economics}}'': "Jeffrey Sachs, adviser to the United Nations, director of the Earth Institute at Columbia University in New York City, and one such expert, has an answer to all these questions: Poor countries are poor because they are hot, infertile, malaria infested, often landlocked; this makes it hard for them to be productive without an initial large investment to help them deal with these endemic problems. But they cannot pay for the investments precisely because they are poor—they are in what economists call a 'poverty trap.' Until something is done about these problems, neither free markets nor democracy will do very much for them."</ref>
+|-
+| {{w|William Easterly}} || ''{{w|The Elusive Quest for Growth}}'' (2001), ''{{w|The White Man's Burden}}'' ||
 |-
 | {{w|Abhijit Banerjee}}, {{w|Esther Duflo}} || ''{{w|Poor Economics}}'' ||
 |-
-| {{w|Bryan Caplan}} || EconLog, forthcoming book on poverty
+| {{w|Bryan Caplan}}
+| EconLog, forthcoming book on poverty
 | Natalist,<ref>{{cite web |url=http://econlog.econlib.org/archives/2011/12/a_cursory_rejec.html |title=A Cursory Rejection of Anti-Natalism |first=Bryan |last=Caplan |date=December 7, 2011 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> nonchalant about overpopulation,<ref>{{cite web |url=http://econlog.econlib.org/archives/2011/12/the_julian_simo.html |title=The Julian Simon Club |date=December 9, 2011 |first=Bryan |last=Caplan |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> advocates having more kids<ref>{{cite web |url=http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/ |first=John |last=Salvatier |title=Review: Selfish Reasons to Have More Kids |date=May 29, 2012 |accessdate=September 9, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
-| || || Anarcho-capitalist :D || IQ realist,<ref>{{cite web |url=http://econlog.econlib.org/archives/2017/04/iq_with_conscie.html |title=IQ With Conscience |date=April 18, 2017 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2010/09/against_high-iq.html |title=Against High-IQ Misanthropy |date=September 15, 2010 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> but unclear how this translates to views on growth?
+| Anarcho-capitalist
+| Advocates open borders<ref>{{cite web |url=https://openborders.info/bryan-caplan/ |title=Bryan Caplan |date=September 13, 2015 |publisher=Open Borders: The Case |accessdate=September 9, 2017}}</ref>
+| IQ realist,<ref>{{cite web |url=http://econlog.econlib.org/archives/2017/04/iq_with_conscie.html |title=IQ With Conscience |date=April 18, 2017 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2010/09/against_high-iq.html |title=Against High-IQ Misanthropy |date=September 15, 2010 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> but unclear how this translates to views on growth?
+|
+|
 |-
-| {{w|Garett Jones}} || ''Hive Mind'' ||
+| {{w|Garett Jones}} || ''Hive Mind'' (2015) ||
 |-
-| {{w|Richard Lynn}} || ''{{w|IQ and the Wealth of Nations}}'', ''{{w|IQ and Global Inequality}}'' ||
+| {{w|Richard Lynn}}, {{w|Tatu Vanhanen}} || ''{{w|IQ and the Wealth of Nations}}'', ''{{w|IQ and Global Inequality}}'' ||
 |-
 | {{w|Dambisa Moyo}} || ''{{w|Dead Aid}}'' ||
 |-
-| {{w|Chris Blattman}} || || || || || <ref>{{cite web |url=https://chrisblattman.com/2012/11/29/seeing-like-an-anarchist/ |author=Chris Blattman |title=Seeing like an anarchist |publisher=Chris Blattman |date=November 29, 2012 |accessdate=September 9, 2017}}</ref> ||
+| {{w|Chris Blattman}} || || || <ref>{{cite web |url=https://chrisblattman.com/2012/11/29/seeing-like-an-anarchist/ |author=Chris Blattman |title=Seeing like an anarchist |publisher=Chris Blattman |date=November 29, 2012 |accessdate=September 9, 2017}}</ref> ||
 |-
 | {{w|Michael Kremer}} ||
 |-
-| {{w|GiveWell}} || ''The GiveWell Blog'' ||
+| {{w|GiveWell}}
+| ''The GiveWell Blog''<ref>{{cite web |url=http://blog.givewell.org/2015/11/06/the-lack-of-controversy-over-well-targeted-aid/ |title=The lack of controversy over well-targeted aid |first=Holden |last=Karnofsky |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=July 26, 2016 |accessdate=September 9, 2017}}</ref>
+| <ref>{{cite web |url=http://blog.givewell.org/2016/12/12/amf-population-ethics/ |first=Ajeya |last=Cotra |title=AMF and Population Ethics |website=The GiveWell Blog |publisher=[[wikipedia:GiveWell|GiveWell]] |date=February 23, 2017 |accessdate=September 9, 2017}}</ref>
 |}
 
 ==Meta information==
