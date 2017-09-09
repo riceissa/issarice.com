@@ -11,13 +11,19 @@ This is a '''summary table of views on development economics'''.
 |-
 | {{w|Abhijit Banerjee}}, {{w|Esther Duflo}} || ''{{w|Poor Economics}}'' ||
 |-
-| {{w|Bryan Caplan}} || EconLog, forthcoming book on poverty || || || || Anarcho-capitalist :D ||
+| {{w|Bryan Caplan}} || EconLog, forthcoming book on poverty
+| Natalist,<ref>{{cite web |url=http://econlog.econlib.org/archives/2011/12/a_cursory_rejec.html |title=A Cursory Rejection of Anti-Natalism |first=Bryan |last=Caplan |date=December 7, 2011 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> nonchalant about overpopulation,<ref>{{cite web |url=http://econlog.econlib.org/archives/2011/12/the_julian_simo.html |title=The Julian Simon Club |date=December 9, 2011 |first=Bryan |last=Caplan |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> advocates having more kids<ref>{{cite web |url=http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/ |first=John |last=Salvatier |title=Review: Selfish Reasons to Have More Kids |date=May 29, 2012 |accessdate=September 9, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| || || Anarcho-capitalist :D || IQ realist,<ref>{{cite web |url=http://econlog.econlib.org/archives/2017/04/iq_with_conscie.html |title=IQ With Conscience |date=April 18, 2017 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2010/09/against_high-iq.html |title=Against High-IQ Misanthropy |date=September 15, 2010 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> but unclear how this translates to views on growth?
 |-
 | {{w|Garett Jones}} || ''Hive Mind'' ||
 |-
 | {{w|Richard Lynn}} || ''{{w|IQ and the Wealth of Nations}}'', ''{{w|IQ and Global Inequality}}'' ||
 |-
 | {{w|Dambisa Moyo}} || ''{{w|Dead Aid}}'' ||
+|-
+| {{w|Chris Blattman}} || || || || || <ref>{{cite web |url=https://chrisblattman.com/2012/11/29/seeing-like-an-anarchist/ |author=Chris Blattman |title=Seeing like an anarchist |publisher=Chris Blattman |date=November 29, 2012 |accessdate=September 9, 2017}}</ref> ||
+|-
+| {{w|Michael Kremer}} ||
 |-
 | {{w|GiveWell}} || ''The GiveWell Blog'' ||
 |}
