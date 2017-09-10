@@ -9,18 +9,20 @@ This is a '''summary table of views on development economics'''.
 {| class="wikitable"
 ! rowspan="2" | View
 ! rowspan="2" | Major works that discuss development economics
-! colspan="3" | Background beliefs
+! colspan="4" | Background beliefs
 ! colspan="3" | Level of emphasis on explanations for differential growth
 |-
 ! Population ethics stance
 ! Level of statism
+! Moral obligation to help the poor
 ! Immigration restrictions stance
 ! IQ
 ! Geography
 ! Governance
 |-
 | {{w|Jeffrey Sachs}}
-| ''{{w|The End of Poverty}}''
+| ''{{w|The End of Poverty}}'' (2005)
+|
 |
 |
 |
@@ -29,12 +31,13 @@ This is a '''summary table of views on development economics'''.
 |-
 | {{w|William Easterly}} || ''{{w|The Elusive Quest for Growth}}'' (2001), ''{{w|The White Man's Burden}}'' ||
 |-
-| {{w|Abhijit Banerjee}}, {{w|Esther Duflo}} || ''{{w|Poor Economics}}'' ||
+| {{w|Abhijit Banerjee}}, {{w|Esther Duflo}} || ''{{w|Poor Economics}}'' (2011) ||
 |-
 | {{w|Bryan Caplan}}
-| EconLog, forthcoming book on poverty
+| EconLog, forthcoming book on poverty<ref>{{cite web |url=http://econlog.econlib.org/archives/2016/06/outline_for_pov.html |title=Outline for Poverty: Who To Blame |first=Bryan |last=Caplan |date=June 27, 2016 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 | Natalist,<ref>{{cite web |url=http://econlog.econlib.org/archives/2011/12/a_cursory_rejec.html |title=A Cursory Rejection of Anti-Natalism |first=Bryan |last=Caplan |date=December 7, 2011 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> nonchalant about overpopulation,<ref>{{cite web |url=http://econlog.econlib.org/archives/2011/12/the_julian_simo.html |title=The Julian Simon Club |date=December 9, 2011 |first=Bryan |last=Caplan |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> advocates having more kids<ref>{{cite web |url=http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/ |first=John |last=Salvatier |title=Review: Selfish Reasons to Have More Kids |date=May 29, 2012 |accessdate=September 9, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 | Anarcho-capitalist
+| Distinguishes between those who deserve to be poor and those who don't, with higher priority to help the latter; in general there is no obligation to help, and it is unjustified to force a stranger to help someone (unless the benefits heavily outweigh the costs, which is difficult to show in an uncertain world)<ref>{{cite web |url=http://econlog.econlib.org/archives/2014/03/poverty_the_sta.html |title=Poverty: The Stages of Blame |first=Bryan |last=Caplan |date=March 5, 2014 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2014/03/poverty_the_sta_1.html |title=Poverty: The Stages of Blame Applied |first=Bryan |last=Caplan |date=March 6, 2014 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2010/05/conscientiousne.html |title=Conscientiousness and Poverty: African Edition |first=Bryan |last=Caplan |date=May 24, 2010 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2012/01/caplan-smith_gm.html |title=Caplan-Smith GMU Debate: "How Deserving Are the Poor?" |first=Bryan |last=Caplan |date=January 26, 2012 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2009/03/econlog_book_cl_10.html |title=EconLog Book Club: For a New Liberty, Chapter 8 |first=Bryan |last=Caplan |date=March 17, 2009 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref>
 | Advocates open borders<ref>{{cite web |url=https://openborders.info/bryan-caplan/ |title=Bryan Caplan |date=September 13, 2015 |publisher=Open Borders: The Case |accessdate=September 9, 2017}}</ref>
 | IQ realist,<ref>{{cite web |url=http://econlog.econlib.org/archives/2017/04/iq_with_conscie.html |title=IQ With Conscience |date=April 18, 2017 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref><ref>{{cite web |url=http://econlog.econlib.org/archives/2010/09/against_high-iq.html |title=Against High-IQ Misanthropy |date=September 15, 2010 |accessdate=September 9, 2017 |publisher=[[wikipedia:EconLog|EconLog]]}}</ref> but unclear how this translates to views on growth?
 |
@@ -42,9 +45,9 @@ This is a '''summary table of views on development economics'''.
 |-
 | {{w|Garett Jones}} || ''Hive Mind'' (2015) ||
 |-
-| {{w|Richard Lynn}}, {{w|Tatu Vanhanen}} || ''{{w|IQ and the Wealth of Nations}}'', ''{{w|IQ and Global Inequality}}'' ||
+| {{w|Richard Lynn}}, {{w|Tatu Vanhanen}} || ''{{w|IQ and the Wealth of Nations}}'' (2002), ''{{w|IQ and Global Inequality}}'' (2006) ||
 |-
-| {{w|Dambisa Moyo}} || ''{{w|Dead Aid}}'' ||
+| {{w|Dambisa Moyo}} || ''Dead Aid'' (2009) ||
 |-
 | {{w|Chris Blattman}} || || || <ref>{{cite web |url=https://chrisblattman.com/2012/11/29/seeing-like-an-anarchist/ |author=Chris Blattman |title=Seeing like an anarchist |publisher=Chris Blattman |date=November 29, 2012 |accessdate=September 9, 2017}}</ref> ||
 |-
@@ -61,7 +64,11 @@ This is a '''summary table of views on development economics'''.
 
 ==See also==
 
+* [[Timeline of nonprofit evaluation]]
+
 ==External links==
+
+* [https://github.com/riceissa/issarice.com/blob/37568ca41407843ae8cc3b9a07d9b9d869fbd38b/external/en.wikipedia.org/Timeline_of_poverty_studies.mediawiki Timeline of poverty studies] (incomplete)
 
 ==References==
 
