@@ -30,6 +30,8 @@ This is a '''timeline of decision theory''', with a focus on updateless/timeless
 |-
 | 2009 || {{dts|February}} || Project || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> During the following years LessWrong would become the locus of discussion about timeless/updateless decision theory.
 |-
+| 2009 || {{dts|March 19}} || || Vladimir Nesov introduces counterfactual mugging.<ref>{{cite web |url=http://lesswrong.com/lw/3l/counterfactual_mugging/ |title=Counterfactual Mugging |date=March 19, 2009 |first=Vladimir |last=Nesov |accessdate=September 10, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=https://wiki.lesswrong.com/wiki/Counterfactual_mugging |title=Counterfactual mugging - Lesswrongwiki |accessdate=September 10, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2009 || {{dts|August 20}} || || {{w|Gary Drescher}} proposes Metacircular Decision Theory (MCDT) in a comment on LessWrong.<ref>{{cite web |url=http://lesswrong.com/lw/15z/ingredients_of_timeless_decision_theory/1217 |title=Gary_Drescher comments on Ingredients of Timeless Decision Theory - Less Wrong |accessdate=September 10, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2010 || || || Timeless decision theory is published in paper form by {{w|Eliezer Yudkowsky}}.<ref>{{cite web |url=https://intelligence.org/files/TDT.pdf |title=Timeless Decision Theory |first=Eliezer |last=Yudkowsky |year=2010 |accessdate=September 10, 2017}}</ref>
