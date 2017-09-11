@@ -37,6 +37,10 @@ academia and informal discussion forums as just two possible institutions with
 particular incentives, not necessarily extremes, and hope to construct other
 institutions with different incentives to see what comes out of them?
 
+This is one reason to be skeptical about lists of "five best books" and so
+forth: they promote having the same background, with the same sets of biases,
+priming people to look at things the same way, and so forth.
+
 [Wei Dai](https://agentfoundations.org/item?id=1636):
 
 > I'm envisioning that in the future there will also be systems where you can
