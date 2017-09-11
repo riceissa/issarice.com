@@ -1,3 +1,9 @@
+# License: CC0
+
+# This file only includes tasks outside of my contract work for Vipul Naik and
+# Peter Hurford. For tasks I did as part of contract work for them, see
+# https://github.com/vipulnaik/contractwork/tree/master/sql
+
 drop table if exists individual_tasks;
 
 create table individual_tasks(
