@@ -40,5 +40,6 @@ http://foundational-research.org/feed/
 https://casparoesterheld.com/feed/
 https://howielempel.com/blog/feed/
 https://medium.com/feed/@nayafia
+http://gmachine1729.wordpress.com/feed/
 http://status.liftigniter.com/history.atom
 http://mojix.org/rss20.xml
