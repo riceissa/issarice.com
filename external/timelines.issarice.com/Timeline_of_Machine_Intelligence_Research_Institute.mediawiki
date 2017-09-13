@@ -22,24 +22,24 @@ The following are some interesting questions that are difficult or impossible to
 |-
 | 1998–2002 || Various publications related to creating a superhuman AI || Eliezer Yudkowsky writes various documents about designing a superhuman AI during this period, including "Coding a Transhuman AI", "The Plan to Singularity", and "Creating Friendly AI". The Flare Programming Language project launches to aid the creation of a superhuman AI.
 |-
-| 2004–2009 || Tyler Emerson's tenure as executive director ||
+| 2004–2009 || Tyler Emerson's tenure as executive director || Under Emerson's leadership, MIRI starts the Singularity Summit, moves to the San Francisco Bay Area, and lands Peter Thiel and Jaan Tallinn as donors and enthusiastic endorsers.
 |-
 | 2006–2009 || Modern rationalist community forms || ''Overcoming Bias'' is created, LessWrong is created, Eliezer Yudkowsky writes the Sequences, and so on.
 |-
-| 2006–2012 || The Singularity Summits take place annually || After the summit in 2012, the organization renames itself from "Singularity Institute for Artificial Intelligence" to the current "Machine Intelligence Research Institute".
+| 2006–2012 || The Singularity Summits take place annually || After the summit in 2012, the organization renames itself from "Singularity Institute for Artificial Intelligence" to the current "Machine Intelligence Research Institute" and sells the Singularity Summit to Singularity University.
 |-
 | 2009–2012 || Michael Vassar's tenure as president ||
 |-
-| 2011–2015 || Luke Muehlhauser's tenure as executive director ||
+| 2011–2015 || Luke Muehlhauser's tenure as executive director || Muehlhauser would be credited with significantly turning MIRI around, improving professionalism and reputation with donors. The name change, shift in focus to research, and improvement of relations with the nascent effective altruism community and the AI research community occur under his watch.<ref name=soares_taking_the_reins_at_miri/><ref>{{cite web|url = http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/6jzn|title = lukeprog comments on "Thoughts on the Singularity Institute"|date = May 10, 2012|accessdate = July 15, 2012|publisher = LessWrong}}</ref><ref name=halfwitz-xixidu>{{cite web|url = http://lesswrong.com/lw/lb3/breaking_the_vicious_cycle/bnjk|title = Halfwitz comments on "Breaking the vicious cycle"|publisher = LessWrong|date = November 23, 2014|accessdate = August 3, 2017}}</ref>
 |-
 | 2013–present || Change of focus || MIRI changes focus to put less effort into public outreach and shift its research to Friendly AI math research.
 |-
-| 2015–present || Nate Soares's tenure as executive director ||
+| 2015–present || Nate Soares's tenure as executive director || Soares continues to move MIRI forward in the direction that it shifted to under Muehlhauser, with a focus on AI safety research, and increased coordination with the AI safety and AI risk communities.
 |}
 
 ==Visual data==
 
-=== Wikipedia pageviews across the different names ===
+=== Wikipedia desktop pageviews across the different names ===
 
 The image below shows desktop pageviews of the page {{w|Machine Intelligence Research Institute}} and its predecessor pages, "Singularity Institute for Artificial Intelligence" and "Singularity Institute".<ref>{{cite web|url = http://goo.gl/dJNj61|title = Wikipedia desktop pageviews for the three names of MIRI|publisher = Wikipedia Views|accessdate = July 15, 2017}}</ref> The change in names occurred on these dates:<ref>{{cite web|url = https://en.wikipedia.org/w/index.php?title=Singularity_Institute_for_Artificial_Intelligence&action=history|title = Singularity Institute for Artificial Intelligence: Revision history|accessdate = July 15, 2017}}</ref><ref>{{Cite web|url = https://en.wikipedia.org/w/index.php?title=Special%3ALog&type=&user=&page=Singularity%20Institute&year=&month=-1&tagfilter=&hide_thanks_log=1&hide_tag_log=1&hide_review_log=1|title = All public logs: search Singularity Institute|accessdate = July 15, 2017}}</ref>
 
@@ -178,7 +178,7 @@ The red vertical line (for June 2015) represents a change in the method of estim
 |-
 | 2009 || {{dts|August 13}} || Social media || The Singularity Institute Twitter account, singinst, is created.<ref>{{cite web |url=https://twitter.com/singinst |title=SingularityInstitute (@singinst) |publisher=Twitter |accessdate=July 4, 2017}}</ref>
 |-
-| 2009 || {{dts|October}} || Project || A website maintained by MIRI, ''The Uncertain Future'', first appears around this time.<ref>{{cite web |url=https://web.archive.org/web/20090101000000*/http://theuncertainfuture.com/ |title=Wayback Machine |accessdate=July 2, 2017}} The first snapshot is from October 5, 2009.</ref><ref>{{cite web |url=https://www.google.com/search?q=http%3A%2F%2Ftheuncertainfuture.com%2F&source=lnt&tbs=cdr%3A1%2Ccd_min%3A1%2F1%2F2009%2Ccd_max%3A1%2F1%2F2010&tbm= |title=theuncertainfuture.com - Google Search |accessdate=July 2, 2017}} The earliest cache seems to be from October 25, 2009. Checking the Jan 1, 2008 – Jan 1, 2009 range produces no result.</ref> The goal of the website is to "allow those interested in future technology to form their own rigorous, mathematically consistent model of how the development of advanced technologies will affect the evolution of civilization over the next hundred years".<ref>{{cite web |url=http://theuncertainfuture.com/ |title=The Uncertain Future |accessdate=July 2, 2017 |publisher=Machine Intelligence Research Institute}}</ref> Work on the project started in 2008.<ref name=hplus-tuf>{{cite web|url = http://hplusmagazine.com/2011/02/04/the-uncertain-future-forecasting-project-goes-open-source/|archiveurl = http://web.archive.org/web/20120413174829/http://hplusmagazine.com/2011/02/04/the-uncertain-future-forecasting-project-goes-open-source/|date = February 4, 2011|accessdate = July 15, 2017|publisher = H Plus Magazine|last = McCabe|first = Thomas}}</ref>
+| 2009 || {{dts|October}} || Project || A website maintained by MIRI, ''The Uncertain Future'', first appears around this time.<ref>{{cite web |url=https://web.archive.org/web/20090101000000*/http://theuncertainfuture.com/ |title=Wayback Machine |accessdate=July 2, 2017}} The first snapshot is from October 5, 2009.</ref><ref>{{cite web |url=https://www.google.com/search?q=http%3A%2F%2Ftheuncertainfuture.com%2F&source=lnt&tbs=cdr%3A1%2Ccd_min%3A1%2F1%2F2009%2Ccd_max%3A1%2F1%2F2010&tbm= |title=theuncertainfuture.com - Google Search |accessdate=July 2, 2017}} The earliest cache seems to be from October 25, 2009. Checking the Jan 1, 2008 – Jan 1, 2009 range produces no result.</ref> The goal of the website is to "allow those interested in future technology to form their own rigorous, mathematically consistent model of how the development of advanced technologies will affect the evolution of civilization over the next hundred years".<ref>{{cite web |url=http://theuncertainfuture.com/ |title=The Uncertain Future |accessdate=July 2, 2017 |publisher=Machine Intelligence Research Institute}}</ref> Work on the project started in 2008.<ref name=hplus-tuf>{{cite web|url = http://hplusmagazine.com/2011/02/04/the-uncertain-future-forecasting-project-goes-open-source/|title = The Uncertain Future Forecasting Project Goes Open-Source|archiveurl = http://web.archive.org/web/20120413174829/http://hplusmagazine.com/2011/02/04/the-uncertain-future-forecasting-project-goes-open-source/|date = February 4, 2011|archivedate = April 13, 2012|accessdate = July 15, 2017|publisher = H Plus Magazine|last = McCabe|first = Thomas}}</ref>
 |-
 | 2009 || {{dts|October 3}}–4 || Conference || The Singularity Summit 2009 takes place in New York.<ref>{{cite web |url=https://web.archive.org/web/20091217213848/http://www.singularitysummit.com/program |author=http://helldesign.net |title=The Singularity Summit 2009 &gt; Program |accessdate=June 30, 2017}}</ref><ref>{{cite web |url=http://www.popsci.com/scitech/article/2009-10/singularity-summit-2009-singularity-near |publisher=Popular Science |title=Singularity Summit 2009: The Singularity Is Near |accessdate=June 30, 2017 |date=October 2, 2009 |author=Stuart Fox}}</ref>
 |-
@@ -225,6 +225,8 @@ The red vertical line (for June 2015) represents a change in the method of estim
 | 2011 || {{dts|November}} || Staff || Luke Muehlhauser is appointed executive director of MIRI.<ref>{{cite web |url=https://intelligence.org/2012/01/16/singularity-institute-progress-report-december-2011/ |title=Machine Intelligence Research Institute Progress Report, December 2011 |publisher=Machine Intelligence Research Institute |author=Luke Muehlhauser |date=January 16, 2012 |accessdate=July 14, 2017}}</ref>
 |-
 | 2011 || {{dts|December 12}} || Project || Luke Muehlhauser announces the creation of Friendly-AI.com, a website introducing the idea of Friendly AI.<ref>{{cite web |url=http://lesswrong.com/lw/8t6/new_landing_page_website_friendlyaicom/ |title=New 'landing page' website: Friendly-AI.com |author=lukeprog |date=December 12, 2011 |accessdate=July 2, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
+| 2012 || || Staff || Michael Vassar leaves MIRI to found {{w|MetaMed}}, a personalized medical advising company.<ref>{{cite web|url = https://harpers.org/archive/2015/01/come-with-us-if-you-want-to-live/|title = Come With Us If You Want to Live. Among the apocalyptic libertarians of Silicon Valley|last = Frank|first = Sam|date = January 1, 2015|accessdate = July 15, 2017|publisher = ''Harper's Magazine''|quote=Vassar had left to found MetaMed, a personalized-medicine company, with Jaan Tallinn of Skype and Kazaa, $500,000 from Peter Thiel, and a staff that included young rationalists who had cut their teeth arguing on Yudkowsky’s website. The idea behind MetaMed was to apply rationality to medicine — "rationality" here defined as the ability to properly research, weight, and synthesize the flawed medical information that exists in the world. Prices ranged from $25,000 for a literature review to a few hundred thousand for a personalized study. "We can save lots and lots and lots of lives," Vassar said (if mostly moneyed ones at first). "But it’s the signal — it's the 'Hey! Reason works!' — that matters. It's not really about medicine." Our whole society was sick — root, branch, and memeplex — and rationality was the only cure.}}</ref>
 |-
 | 2012 || {{dts|February 4}}{{snd}}{{dts|May 4}} || Domain || At least during this period, <code>singularity.org</code> redirects to <code>singinst.org</code>.<ref>{{cite web |url=https://web.archive.org/web/20120501000000*/singularity.org |title=Wayback Machine |accessdate=July 4, 2017}}</ref>
 |-
@@ -314,11 +316,11 @@ The red vertical line (for June 2015) represents a change in the method of estim
 |-
 | 2015 || {{dts|May 4}}–6 || Workshop || The 1st Introductory Workshop on Logical Decision Theory takes place.<ref name="workshops" />
 |-
-| 2015 || {{dts|May 6}} || Staff || Executive director Luke Muehlhauser announces his departure from MIRI. The announcement also states that Nate Soares will be the new executive director.<ref>{{cite web |url=https://intelligence.org/2015/05/06/a-fond-farewell-and-a-new-executive-director/ |title=A fond farewell and a new Executive Director |author=Luke Muehlhauser |publisher=Machine Intelligence Research Institute |date=May 6, 2015 |accessdate=June 30, 2017}}</ref>
+| 2015 || {{dts|May 6}} || Staff || Executive director Luke Muehlhauser announces his departure from MIRI, for a position as a Research Analyst at the Open Philanthropy Project. The announcement also states that Nate Soares will be the new executive director.<ref>{{cite web |url=https://intelligence.org/2015/05/06/a-fond-farewell-and-a-new-executive-director/ |title=A fond farewell and a new Executive Director |author=Luke Muehlhauser |publisher=Machine Intelligence Research Institute |date=May 6, 2015 |accessdate=June 30, 2017}}</ref>
 |-
 | 2015 || {{dts|May 29}}–31 || Workshop || The 1st Introductory Workshop on Logical Uncertainty takes place.<ref name="workshops" />
 |-
-| 2015 || {{dts|June 3}}–4 || Staff || Nate Soares begins as executive director of MIRI.<ref name="soares_taking_the_reins_at_miri">{{cite web |url=http://lesswrong.com/lw/ma4/taking_the_reins_at_miri/ |title=Taking the reins at MIRI |date=June 3, 2015 |accessdate=July 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+| 2015 || {{dts|June 3}}–4 || Staff || Nate Soares begins as executive director of MIRI.<ref name="soares_taking_the_reins_at_miri">{{cite web |url=http://lesswrong.com/lw/ma4/taking_the_reins_at_miri/ |title=Taking the reins at MIRI |author=Nate Soares|date=June 3, 2015 |accessdate=July 5, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2015 || {{dts|June 11}} || || Nate Soares, executive director of MIRI, does an "ask me anything" (AMA) on the Effective Altruism Forum.<ref>{{cite web |url=http://effective-altruism.com/ea/ju/i_am_nate_soares_ama/ |title=I am Nate Soares, AMA! |publisher=Effective Altruism Forum |accessdate=July 5, 2017}}</ref>
 |-
@@ -403,6 +405,8 @@ Issa likes to work locally and track changes with Git, so the revision history o
 * TODO giant thread on Ozy's blog [https://thingofthings.wordpress.com/2016/02/17/concerning-miris-place-in-the-ea-movement/]
 * NOTE From 2017-07-06: "years that have few events so far: 2003 (one event), 2007 (one event), 2008 (three events), 2010 (three events), 2017 (three events)"
 * TODO possibly include more from the [https://web.archive.org/web/20140517205902/http://mirivolunteers.org/ old MIRI volunteers site]. Some of the volunteering opportunities like proofreading and promoting MIRI by giving it good [https://web.archive.org/web/20140720043359/http://mirivolunteers.org/blog/ web of trust ratings] seem to give a good flavor of what MIRI was like, the specific challenges in terms of switching domains, and so on.
+* TODO cover Berkeley Existential Risk Initiative (BERI), kinda a successor to MIRI volunteers?
+* TODO cover launch of Center for Human-Compatible AI
 * TODO not sure how exactly to include this in the timeline, but something about MIRI's changing approach to funding certain types of contract work. e.g. Vipul [https://vipulnaik.com/miri/ says] "I believe the work I did with Luke would no longer be sponsored by MIRI as their research agenda is now much more narrowly focused on the mathematical parts."
 * TODO who is Tyler Emerson?
 
@@ -418,6 +422,7 @@ Also general stuff like big news coverage.
 
 ==See also==
 
+* [[Timeline of friendly artificial intelligence]]
 * [[Timeline of Against Malaria Foundation]]
 * [[Timeline of Center for Applied Rationality]]
 
