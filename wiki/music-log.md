@@ -265,6 +265,11 @@ The Pillows:
 * Sparklehorse: *Good Morning Spider*
 * Radiohead: Milan 2017 concert
 
+# September 2017
+
+* [Mac DeMarco](https://en.wikipedia.org/wiki/Mac_DeMarco): [*2*](https://en.wikipedia.org/wiki/2_%28Mac_DeMarco_album%29)
+* Mac DeMarco: [*Salad Days*](https://en.wikipedia.org/wiki/Salad_Days_%28Mac_DeMarco_album%29)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
