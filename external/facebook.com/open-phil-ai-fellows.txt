@@ -1,0 +1,16 @@
+Comment on https://www.facebook.com/vipulnaik.r/posts/10213116327718748
+
+The restriction to "full-time AI and machine learning students in any year of their PhD, and to people applying to start a PhD in Fall 2018" is somewhat puzzling to me, considering especially the background of Open Philanthropy's own program officer and technical advisors.
+
+Of the four technical advisors listed for the MIRI grant (http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support):
+
+- Paul Christiano seems to have done his PhD in theoretical CS https://paulfchristiano.com/
+- Jacob Steinhardt is an AI PhD student https://jsteinhardt.wordpress.com/about/
+- Chris Olah lists no education on his CV, but lists the Thiel Fellowship https://colah.github.io/cv.pdf
+- Dario Amodei completed a PhD in physics http://hertzfoundation.org/fellows/fellow-profile/11149/Dario-Amodei
+
+In addition, Daniel Dewey completed a BS https://www.fhi.ox.ac.uk/wp-content/uploads/Daniel-Dewey.pdf
+
+Jacob seems to be the only one who would meet (or would have met) Open Philanthropy's criteria.
+
+Looking beyond Open Philanthropy, it is possible to find people with even more unconventional backgrounds at e.g. MIRI https://intelligence.org/team/
