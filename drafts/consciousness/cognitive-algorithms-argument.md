@@ -36,4 +36,11 @@ http://lesswrong.com/lw/no/how_an_algorithm_feels_from_inside/
 
 http://lesswrong.com/lw/f1u/causal_reference/7o7j
 
+> Illusionism replaces the hard problem with the illusion problem — the problem
+> of explaining how the illusion of phenomenality arises and why it is so
+> powerful. This problem is not easy but not impossibly hard either. The method
+> is to form hypotheses about the underlying cognitive mechanisms and their
+> bases in neurophysiology and neuroanatomy, drawing on evidence from across
+> the cognitive sciences.
+
 Keith Frankish's "Illusionism as a Theory of Consciousness".
