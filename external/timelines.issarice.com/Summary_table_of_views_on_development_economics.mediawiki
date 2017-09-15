@@ -12,6 +12,8 @@ The "Level of emphasis on explanations for differential growth" group of columns
 * Why are poor people poor?
 * Do the poor get poorer?
 
+More factors for growth (quoted from Aghion and Howitt, ''The Economics of Growth''): "Why have other poor countries not also joined the convergence club? Is this due to poor geographical conditions? Or to the absence of institutions to protect private investments and entrepreneurship? Or to the inability of poor countries to attract credit, diversify risk, or finance infrastructure? Or to insufficient human capital?"
+
 {| class="wikitable"
 ! rowspan="2" | View
 ! rowspan="2" | Major works that discuss development economics
