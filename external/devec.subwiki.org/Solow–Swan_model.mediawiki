@@ -1,0 +1,64 @@
+The Solow–Swan model is a [[long-run economic growth model]].
+
+==Model assumptions==
+
+* single-sector economy
+* closed economy (no trade)
+
+etc.
+
+==Variables in the model==
+
+{| class="sortable wikitable"
+! Name !! Variable !! Unit !! Rival input? !! Variable type !! Notes
+|-
+| Output || ''Y'' || || &ndash; || Endogenous ||
+|-
+| Physical capital (capital stock) || ''K'' || || Yes || Endogenous || Physical capital includes things like machines, computers, buildings, etc.
+|-
+| Labor || ''L'' || || Yes || Exogenous ||
+|-
+| Technology (knowledge) || ''A'', ''T'' || || No || Exogenous ||
+|-
+| Consumption || ''C'' || ||
+|-
+| Investment || ''I'' || ||
+|-
+| Amount saved || ''S'' || ||
+|-
+| Growth of ''X'' || <math>g_X = \dot{X}/X = \frac{\frac{\partial X}{\partial t}}{X}</math> || || ||
+|-
+| Population growth || <math>n = \dot L / L</math> || || ||
+|-
+| Depreciation (rate?) || ''&delta;'', ''d'', ''D'' ||
+|-
+| Capital per worker || ''k'' = ''K''/''L'' || || || Endogenous ||
+|-
+| Fraction saved || ''s'' ||
+|-
+| Output per worker || ''y'' = ''Y''/''L'' || || || Endogenous ||
+|-
+| Time || ''t'' || ||
+|-
+| Production function || ''F'' || || ||
+|-
+| || ''&alpha;'' ||
+|}
+
+==Mathematical formalism==
+
+:<math>Y = K^\alpha (AL)^{1-\alpha}</math> (sometimes also <math>Y = AK^\alpha L^{1-\alpha}</math>)
+
+:<math>\dot K = sY - \delta K</math>
+
+==History==
+
+==Commentary==
+
+==See also==
+
+==External links==
+
+* [[wikipedia:Solow–Swan model|Solow–Swan model]] (Wikipedia)
+
+==References==
