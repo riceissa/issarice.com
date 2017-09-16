@@ -32,9 +32,26 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 | 2017 || {{dts|June 18}} || || The "Welcome to Lesswrong 2.0" post is made on the <code>lesserwrong.com</code> domain.<ref>{{cite web |url=https://www.lesserwrong.com/posts/HJDbyFFKf72F52edp/welcome-to-lesswrong-2-0 |author=Oliver Habryka |title=Welcome to Lesswrong 2.0 |accessdate=July 6, 2017}}</ref>
 |}
 
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:FIXME|FIXME]].
+
+{{funding info}} is available.
+
+===What the timeline is still missing===
+
+* https://www.reddit.com/r/slatestarcodex/comments/6tt3gy/a_history_of_the_rationality_community/
+
+===Timeline update strategy===
+
+
 ==See also==
 
 * hi
+
+==External links==
 
 ==References==
 
