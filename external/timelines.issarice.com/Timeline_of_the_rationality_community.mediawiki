@@ -36,13 +36,23 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 
 ===How the timeline was built===
 
-The initial version of the timeline was written by [[User:FIXME|FIXME]].
+The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 {{funding info}} is available.
 
 ===What the timeline is still missing===
 
 * https://www.reddit.com/r/slatestarcodex/comments/6tt3gy/a_history_of_the_rationality_community/
+* TDT/UDT
+* origin of some shibboleths: https://nintil.com/2015/12/31/less-wrong-shibboleths/
+* AI FOOM debate
+* growth of local meetups
+* growth of group houses, especially in the Bay Area
+* Cognito Mentoring
+* specific sequences?
+* what's up with rationalist tumblr? https://www.facebook.com/julia.galef/posts/10103435063771462
+* LW IRC
+* first mentions by Caplan, MR, Chalmers ([https://www.reddit.com/r/philosophy/comments/5vji57/im_david_chalmers_philosopher_interested_in/de2jklb/] for opinion), and some other people
 
 ===Timeline update strategy===
 
