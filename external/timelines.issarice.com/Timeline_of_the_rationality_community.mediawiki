@@ -7,6 +7,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 1998 || {{dts|January 15}} || || Wei Dai announces the creation of the "everything" mailing list, a mailing list for the discussion of [[wikipedia:Modal realism|modal realism]].<ref>{{cite web |url=http://lesswrong.com/lw/1t0/shock_level_5_big_worlds_and_modal_realism/22ro |title=Wei_Dai comments on Shock Level 5: Big Worlds and Modal Realism - Less Wrong |accessdate=September 16, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=http://www.weidai.com/everything.html |title=Theory of Everything Mailing List |author=Wei Dai |accessdate=September 16, 2017}}</ref>
+|-
 | 1996 || {{dts|November 18}} || || Eliezer Yudkowsky writes the first version of "Staring into the Singularity".<ref>{{cite web |url=http://yudkowsky.net/obsolete/singularity.html |title=Yudkowsky - Staring into the Singularity 1.2.5 |accessdate=June 1, 2017}}</ref>
 |-
 | 2000 || {{dts|February 6}} || || The first email is sent on SL4 ("Shock Level Four"), a mailing list about transhumanism, superintelligent AI, existential risks, and so on.<ref>{{cite web |url=http://sl4.org/archive/date.html |title=SL4: By Date |accessdate=June 1, 2017}}</ref><ref>{{cite web |url=http://sl4.org/ |author=Eliezer S. Yudkowsky |title=SL4 Mailing List |accessdate=June 1, 2017}}</ref>
