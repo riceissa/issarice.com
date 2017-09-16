@@ -29,6 +29,12 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2016 || || || Vaniver, Anna Salamon, et al. begin the "LessWrong revival"
 |-
+| 2016 || {{dts|May}} || || The Open Philanthropy Project awards a grant of $304,000 over two years to CFAR's Summer Program on Applied Rationality and Cognition (SPARC).<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-sparc |title=Center for Applied Rationality — SPARC |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
+|-
+| 2016 || {{dts|July}} || || The Open Philanthropy Project awards a grant of $1,035,000 over two years to CFAR.<ref>{{cite web |url=http://www.openphilanthropy.org/giving/grants/center-applied-rationality-general-support |title=Center for Applied Rationality — General Support |publisher=Open Philanthropy Project |accessdate=July 11, 2017}}</ref>
+|-
+| 2016 || {{dts|August}} || Financial || The Open Philanthropy Project awards a grant worth $500,000 to Machine Intelligence Research Institute. The grant writeup notes, "Despite our strong reservations about the technical research we reviewed, we felt that awarding $500,000 was appropriate for multiple reasons".<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support |title=Machine Intelligence Research Institute — General Support |publisher=Open Philanthropy Project |accessdate=June 30, 2017}}</ref>
+|-
 | 2017 || {{dts|June 18}} || || The "Welcome to Lesswrong 2.0" post is made on the <code>lesserwrong.com</code> domain.<ref>{{cite web |url=https://www.lesserwrong.com/posts/HJDbyFFKf72F52edp/welcome-to-lesswrong-2-0 |author=Oliver Habryka |title=Welcome to Lesswrong 2.0 |accessdate=July 6, 2017}}</ref>
 |}
 
