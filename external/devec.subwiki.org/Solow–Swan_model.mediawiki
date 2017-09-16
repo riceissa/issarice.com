@@ -4,6 +4,7 @@ The Solow–Swan model is a [[long-run economic growth model]].
 
 * single-sector economy
 * closed economy (no trade)
+* no taxation
 
 etc.
 
@@ -12,7 +13,7 @@ etc.
 {| class="sortable wikitable"
 ! Name !! Variable !! Unit !! Rival input? !! Variable type !! Notes
 |-
-| Output || ''Y'' || || &ndash; || Endogenous ||
+| Output || ''Y'' || Units of GDP (dollar?) || &ndash; || Endogenous ||
 |-
 | Physical capital (capital stock) || ''K'' || || Yes || Endogenous || Physical capital includes things like machines, computers, buildings, etc.
 |-
@@ -26,23 +27,23 @@ etc.
 |-
 | Amount saved || ''S'' || ||
 |-
-| Growth of ''X'' || <math>g_X = \dot{X}/X = \frac{\frac{\partial X}{\partial t}}{X}</math> || || ||
+| Growth of ''X'' || <math>g_X = \dot{X}/X = \frac{\frac{\partial X}{\partial t}}{X}</math> || <math>\text{Time}^{-1}</math> || ||
 |-
-| Population growth || <math>n = \dot L / L</math> || || ||
+| Population growth || <math>n = \dot L / L</math> || <math>\text{Time}^{-1}</math> || ||
 |-
-| Depreciation (rate?) || ''&delta;'', ''d'', ''D'' ||
+| Depreciation (rate?) || ''&delta;'', ''d'', ''D'' || Unitless ||
 |-
 | Capital per worker || ''k'' = ''K''/''L'' || || || Endogenous ||
 |-
-| Fraction saved || ''s'' ||
+| Fraction saved || ''s'' || Unitless ||
 |-
 | Output per worker || ''y'' = ''Y''/''L'' || || || Endogenous ||
 |-
-| Time || ''t'' || ||
+| Time || ''t'' || Time, e.g. years ||
 |-
 | Production function || ''F'' || || ||
 |-
-| || ''&alpha;'' ||
+| Elasticity of output with respect to capital || ''&alpha;'' || Unitless ||
 |}
 
 ==Mathematical formalism==
@@ -50,6 +51,10 @@ etc.
 :<math>Y = K^\alpha (AL)^{1-\alpha}</math> (sometimes also <math>Y = AK^\alpha L^{1-\alpha}</math>)
 
 :<math>\dot K = sY - \delta K</math>
+
+TODO show that the model satisfies (1) constant returns to scale; (2) diminishing returns to capital; (3) diminishing returns to labor; (4) the Inada conditions.
+
+TODO talk about the point of the model. What do we want out of it? (1) We want to know what happens to all the endogenous variables given the equations and the exogenous variables; (2) we want to know what happens to the output as a whole when we adjust the parameters ("comparative statics"). The latter is what tells us things like "increase the savings rate to grow the economy".
 
 ==History==
 
