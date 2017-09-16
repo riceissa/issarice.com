@@ -25,14 +25,16 @@ plugins more useful.
 - Web Developer (for viewing the generated HTML source)
 - Zotero
 
+Due to a recent Firefox upgrade, many of the plugins are now marked as
+"Legacy".
+
 # Bookmarklets
 
 - archive.is
 - "Archive page" (Internet Archive)
-- Get source
+- Get DOM
 - [Citewebgen](https://github.com/riceissa/citewebgen/)
 - Markdown cite
-- "Expand all" for Facebook comments
 
 # Settings
 
