@@ -11,39 +11,39 @@ etc.
 ==Variables in the model==
 
 {| class="sortable wikitable"
-! Name !! Variable !! Unit !! Rival input? !! Variable type !! Notes
+! Name !! Variable !! Unit !! Set of possible values !! Rival input? !! Variable type !! Notes
 |-
-| Output || ''Y'' || Units of GDP (dollar?) || &ndash; || Endogenous ||
+| Output || ''Y'' || Units of GDP (dollar?) || [0, ∞) || &ndash; || Endogenous ||
 |-
-| Physical capital (capital stock) || ''K'' || || Yes || Endogenous || Physical capital includes things like machines, computers, buildings, etc.
+| Physical capital (capital stock) || ''K'' || || [0, ∞) || Yes || Endogenous || Physical capital includes things like machines, computers, buildings, etc.
 |-
-| Labor || ''L'' || || Yes || Exogenous ||
+| Labor || ''L'' || || [0, ∞) || Yes || Exogenous ||
 |-
-| Technology (knowledge) || ''A'', ''T'' || || No || Exogenous ||
+| Technology (knowledge) || ''A'', ''T'' || || || No || Exogenous ||
 |-
-| Consumption || ''C'' || ||
+| Consumption || ''C'' || || ||
 |-
-| Investment || ''I'' || ||
+| Investment || ''I'' || || ||
 |-
-| Amount saved || ''S'' || ||
+| Amount saved || ''S'' || || ||
 |-
-| Growth of ''X'' || <math>g_X = \dot{X}/X = \frac{\frac{\partial X}{\partial t}}{X}</math> || <math>\text{Time}^{-1}</math> || ||
+| Growth of ''X'' || <math>g_X = \dot{X}/X = \frac{\frac{\partial X}{\partial t}}{X}</math> || <math>\text{Time}^{-1}</math> || || ||
 |-
-| Population growth || <math>n = \dot L / L</math> || <math>\text{Time}^{-1}</math> || ||
+| Population growth || <math>n = \dot L / L</math> || <math>\text{Time}^{-1}</math> || (&minus;∞, ∞) || ||
 |-
-| Depreciation (rate?) || ''&delta;'', ''d'', ''D'' || Unitless ||
+| Depreciation (rate?) || ''&delta;'', ''d'', ''D'' || Unitless || ||
 |-
-| Capital per worker || ''k'' = ''K''/''L'' || || || Endogenous ||
+| Capital per worker || ''k'' = ''K''/''L'' || || || || Endogenous ||
 |-
-| Fraction saved || ''s'' || Unitless ||
+| Fraction saved || ''s'' || Unitless || [0, 1] ||
 |-
-| Output per worker || ''y'' = ''Y''/''L'' || || || Endogenous ||
+| Output per worker || ''y'' = ''Y''/''L'' || || || || Endogenous ||
 |-
-| Time || ''t'' || Time, e.g. years ||
+| Time || ''t'' || Time, e.g. years || ||
 |-
-| Production function || ''F'' || || ||
+| Production function || ''F'' || || || ||
 |-
-| Elasticity of output with respect to capital || ''&alpha;'' || Unitless ||
+| Elasticity of output with respect to capital || ''&alpha;'' || Unitless || (0, 1) ||
 |}
 
 ==Mathematical formalism==
@@ -55,6 +55,8 @@ etc.
 TODO show that the model satisfies (1) constant returns to scale; (2) diminishing returns to capital; (3) diminishing returns to labor; (4) the Inada conditions.
 
 TODO talk about the point of the model. What do we want out of it? (1) We want to know what happens to all the endogenous variables given the equations and the exogenous variables; (2) we want to know what happens to the output as a whole when we adjust the parameters ("comparative statics"). The latter is what tells us things like "increase the savings rate to grow the economy".
+
+A closed form is possible,[https://web.stanford.edu/~chadj/closedform.pdf] but it is possible to play around with the model in non-closed forms to extract useful information.
 
 ==History==
 
