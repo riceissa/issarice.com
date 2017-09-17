@@ -67,6 +67,8 @@ https://boards.4chan.org/g/thread/59554516#p59568318
 ** 2017-07-12: http://archive.is/50P3E
 ** 2017-07-22: http://archive.is/rUC6D
 ** 2017-07-30: http://archive.is/gxy6s
+** 2017-09-14: https://archive.is/fw1LK
+** 2017-09-15: https://archive.is/bmnIY
 -->
 
 {| class="sortable wikitable"
