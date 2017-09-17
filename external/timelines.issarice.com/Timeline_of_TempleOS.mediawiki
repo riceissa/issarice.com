@@ -69,7 +69,6 @@ https://boards.4chan.org/g/thread/59554516#p59568318
 ** 2017-07-30: http://archive.is/gxy6s
 ** 2017-09-14: https://archive.is/fw1LK
 ** 2017-09-15: https://archive.is/bmnIY
-http://archive.is/dlXvU#selection-85.63-85.247
 -->
 
 {| class="sortable wikitable"
@@ -88,7 +87,7 @@ http://archive.is/dlXvU#selection-85.63-85.247
 |-
 | 1988 || || Personal || Terry claims he cheated on two problems on the SAT by "talking in the hall during the break".<ref name="sat">{{cite web |url=https://web.archive.org/web/20160727011537/http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2016April/TAD160416.html |title=Terry Davis' Blog |accessdate=March 17, 2017}}</ref>
 |-
-| 1988 || fall || Career || Terry begins college at [[wikipedia:Arizona State University|Arizona State University]].<ref name="transcript" />
+| 1988 || fall || Career || Terry begins college at [[wikipedia:Arizona State University|Arizona State University]].<ref name="transcript" /> He is in the initial honors cohort at ASU. According to Terry, he lives in McClintock Hall where "there were 20 guys and 200 women because they were phasing them out and making it an honors dorm".<ref>{{cite web |url=https://barretthonors.asu.edu/about/history-of-barrett |publisher=Barrett, The Honors College |title=History of Barrett |date=September 7, 2017 |accessdate=September 17, 2017 |quote=In 1988, the Arizona Board of Regents authorized the creation of the University Honors College at ASU. With this designation, the first four-year, undergraduate, residential honors college in the United States became a reality with Dr. Ted Humphrey as the college's founding dean.}}</ref><ref>{{cite web |url=https://archive.is/XRKht |publisher=archive.is |title=http://www.templeos.org/ |date=September 17, 2017 |accessdate=September 17, 2017}}</ref>
 |-
 | 1990–1996 || || Personal || Terry claims he "was as atheist as they came" during this period.<ref>{{cite web |url=http://www.templeos.org/Wb/Home/Web/TAD/BlogDir/2017January/TAD170123.html |title=Terry Davis' Blog |accessdate=March 17, 2017 |archive-url=https://archive.fo/vUPsE#selection-3825.2-3825.42 |archive-date=March 25, 2017 |dead-url=no}}</ref>
 |-
@@ -247,6 +246,8 @@ http://archive.is/dlXvU#selection-85.63-85.247
 | 2017 || {{dts|August 13}} || Personal || In a video uploaded to his website on this day, Terry claims to begin taking his medication again.<ref>{{cite web |url=http://www.templeos.org/Videos/MAH00096.mp4 |title=MAH00096.mp4 |date=August 13, 2017 |accessdate=August 15, 2017 |quote=So yesterday I got a little bit out of control and I went and pointed a gun at niggers. Someone gave me a warning about getting locked up at the mental hospital, so I thought about that and, so I came home and late last night and decided, you know, as crazy as it sounds, maybe I'd better take my meds so I did that right{{snd}}the meds are really awful, they make you impotent and I just realized the other thing they do is they give you a horrible diabetic headache{{snd}}they mess with your blood sugar, so after you eat your first meal and all of the sudden you get some kind of headache. Risperdal messes with blood sugar, makes you impotent. So anyway, but I thought no I don't wanna get locked up. I forgot about the headache though, fuck.}}</ref>
 |-
 | 2017 || {{dts|August 25}} || Personal || Terry reports that he has gotten his drum set set up.<ref>{{cite web |url=http://www.templeos.org/Videos/MAH00228.MP4 |title=MAH00228.MP4 |title=MAH00228.MP4 |accessdate=August 26, 2017}}</ref><ref>{{cite web |url=https://boards.4chan.org/g/thread/62091270 |title=/g/ - terry - Technology - 4chan |archiveurl=https://archive.is/rDMlZ |archivedate=August 26, 2017 |accessdate=August 26, 2017}}</ref>
+|-
+| 2017 || {{dts|September 14}} || Personal || After posting no new videos for almost three weeks, Terry announces that he has gotten kicked out of his parents' house. He "got in a fight with [his father], went to jail then mental hospital", and is now "adapting to being homeless".<ref>{{cite web |url=https://archive.is/dlXvU#selection-85.63-85.247 |publisher=archive.is |title=http://templeos.org/ |date=September 14, 2017 |accessdate=September 17, 2017 |quote=I got kicked-out of my parent's house. I got in a fight with my Dad, went to jail then mental hospital. I'm adapting to being homeless. Hope to get a car to live in but no loan yet.}}</ref>
 |}
 
 ==External links==
