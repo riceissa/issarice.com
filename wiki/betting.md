@@ -92,6 +92,21 @@ Not all of the above points are unique to betting.
 
 I plan to write more about why I like betting later.
 
+[Nate Soares](http://lesswrong.com/lw/klg/knightian_uncertainty_in_a_bayesian_framework/ "Soares, Nate. “Knightian uncertainty in a Bayesian framework”. LessWrong. July 24, 2014. Retrieved September 17, 2017."):
+
+> I understand some of the aversion to a Bayesian framework. Bayesians
+> do \[tend\] to fetishize bets. When offered the two bets in Sir Percy's
+> coin toss, there is a certain appeal to refusing *both* bets. Bets
+> often come with stigma and this (when paired with loss aversion) can
+> make *both* bets seem unappealing despite the fact that we are told a
+> Bayesian reasoner always prefers one bet or the other.
+>
+> But the thing is, a bounded Bayesian reasoner may *also* prefer not to
+> take the bets. If I expect my credence for H to vary wildly then I may
+> delay my decision as long as possible. Furthermore, if the bets are
+> for money (rather than utility) then I'm all for risk aversion.
+
+
 [news]: http://econlog.econlib.org/archives/2011/03/the_case_agains_6.html "Bryan Caplan. “The Case Against News”. EconLog. March 5, 2011."
 [shows]: http://econlog.econlib.org/archives/2017/06/what_a_bet_show.html "Bryan Caplan. “What a Bet Shows”. EconLog. Post dated June 7, 2017, but it first arrived in my news reader on June 14, 2017, so I think the timestamp on the post might be incorrect. Retrieved June 14, 2017."
 [super]: https://en.wikipedia.org/wiki/Superforecasting
