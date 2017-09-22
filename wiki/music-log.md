@@ -269,6 +269,8 @@ The Pillows:
 
 * [Mac DeMarco](https://en.wikipedia.org/wiki/Mac_DeMarco): [*2*](https://en.wikipedia.org/wiki/2_%28Mac_DeMarco_album%29)
 * Mac DeMarco: [*Salad Days*](https://en.wikipedia.org/wiki/Salad_Days_%28Mac_DeMarco_album%29)
+* The Pillows: *Thank You, My Twilight*
+* The Pillows: *Horn Again*
 
 # History
 
