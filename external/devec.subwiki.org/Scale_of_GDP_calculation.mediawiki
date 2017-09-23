@@ -1,5 +1,39 @@
 The '''scale of GDP calculation''' refers to the collective resources required to calculate the [[GDP]] of a country. The resources could be expressed in monetary terms, person-hours per year, full-time-equivalent employees, etc.
 
+Staffing levels of statistical agencies for fiscal year 2017:[https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/information_and_regulatory_affairs/statistical-programs-2017.pdf]
+
+{| class="sortable wikitable"
+|-
+! Agency !! Total !! Full-time permanent !! Other than full-time permanent !! Statisticians !! Economists !! Research scientists !! Other statistical personnel
+|-
+| Bureau of Labor Statistics
+| style="text-align: right;" | 2,588
+| style="text-align: right;" | 2,167
+| style="text-align: right;" | 421
+| style="text-align: right;" | 168
+| style="text-align: right;" | 1,216
+| style="text-align: right;" | 6
+| style="text-align: right;" | 446
+|-
+| [[Bureau of Economic Analysis]]
+| style="text-align: right;" | 527
+| style="text-align: right;" | 509
+| style="text-align: right;" | 18
+| style="text-align: right;" | 12
+| style="text-align: right;" | 338
+| style="text-align: right;" | 0
+| style="text-align: right;" | 53
+|-
+| Census Bureau
+| style="text-align: right;" | 14,332
+| style="text-align: right;" | 6,551
+| style="text-align: right;" | 7,781
+| style="text-align: right;" | 2,311
+| style="text-align: right;" | 84
+| style="text-align: right;" | 0
+| style="text-align: right;" | 0
+|}
+
 ==See also==
 
 ==External links==
