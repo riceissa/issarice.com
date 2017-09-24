@@ -17,6 +17,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2006 || {{dts|November}} || || [[wikipedia:Robin Hanson|Robin Hanson]] starts ''[[wikipedia:Overcoming Bias|Overcoming Bias]]''.<ref>{{cite web |url=http://www.overcomingbias.com/bio |title=Overcoming Bias : Bio |accessdate=June 1, 2017}}</ref>
 |-
+| 2008 || {{dts|November}}–December || || The AI-Foom debate between Robin Hanson and Eliezer Yudkowsky takes place. The blog posts from the debate would later be turned into an ebook by MIRI.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate |title=The Hanson-Yudkowsky AI-Foom Debate |website=Lesswrongwiki |accessdate=July 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/6k1b |title=Eliezer_Yudkowsky comments on Thoughts on the Singularity Institute (SI) - Less Wrong |accessdate=July 15, 2017 |quote=Nonetheless, it already has a warm place in my heart next to the debate with Robin Hanson as the second attempt to mount informed criticism of SIAI. |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2009 || {{dts|February}} || || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2010 || {{dts|July 23}} || || The [[wikipedia:LessWrong|LessWrong]] user Roko publishes "Solutions to the Altruist's burden: the Quantum Billionaire Trick". The ideas in this post came to be known as "Roko's basilisk".<ref>{{cite web |url=http://rationalwiki.org/wiki/Roko's_basilisk/Original_post |title=Roko's basilisk/Original post |publisher=[[RationalWiki]] |accessdate=February 26, 2017}}</ref><ref>{{cite web |url=https://wiki.lesswrong.com/wiki/Roko's_basilisk |title=Roko's basilisk - Lesswrongwiki |publisher=[[LessWrong]] |accessdate=February 26, 2017}}</ref>
@@ -59,7 +61,6 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 * https://www.reddit.com/r/slatestarcodex/comments/6tt3gy/a_history_of_the_rationality_community/
 * TDT/UDT
 * origin of some shibboleths: https://nintil.com/2015/12/31/less-wrong-shibboleths/
-* AI FOOM debate
 * growth of local meetups
 * growth of group houses, especially in the Bay Area
 * specific sequences?
