@@ -31,6 +31,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2014 || {{dts|February 26}} || || The Slate Star Codex subreddit, r/slatestarcodex, is created.<ref>{{cite web |url=https://www.reddit.com/r/slatestarcodex/about/moderators |title=moderators - r/slatestarcodex |accessdate=September 24, 2017 |quote=a community for 3 years [Wed Feb 26 05:15:26 2014 UTC]}}</ref>
 |-
+| 2014 || {{dts|June 6}} || || On LessWrong, discussion of mass-downvoting harassment begins to take place.<ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/kbk/meta_policy_for_dealing_with_users/ |title=[meta] Policy for dealing with users suspected/guilty of mass-downvote harassment? - Less Wrong Discussion |accessdate=September 24, 2017 |author=Kaj Sotala |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2014 || {{dts|July 3}} || || Eugine_Nier is banned from LessWrong for mass-downvoting harassment of certain users.<ref>{{cite web |url=http://lesswrong.com/lw/kfq/moderator_action_eugine_nier_is_now_banned_for/ |title=[moderator action] Eugine_Nier is now banned for mass downvote harassment - Less Wrong |accessdate=September 24, 2017 |author=Kaj Sotala |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2015 || {{dts|August 28}} || || The subreddit r/SneerClub is created as a place to "sneer" at the rationality community. (Connection to RationalWiki?)<ref>{{cite web |url=https://www.reddit.com/r/SneerClub/about/moderators |title=moderators - r/SneerClub |accessdate=June 1, 2017}}</ref>
