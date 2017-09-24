@@ -25,6 +25,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2013 || {{dts|February 13}} || || Scott Alexander publishes the first post on his new blog, Slate Star Codex.<ref>{{cite web |url=https://slatestarcodex.com/2013/02/13/youre-probably-wondering-why-ive-called-you-here-today/ |title=You’re probably wondering why I’ve called you here today |date=September 29, 2014 |publisher=Slate Star Codex |accessdate=February 26, 2017}}</ref>
 |-
+| 2013 || {{dts|December 31}} || || Jonah Sinick announces Cognito Mentoring on LessWrong.<ref>{{cite web |url=http://lesswrong.com/lw/jee/cognito_mentoring_an_advising_service_for/ |title=Cognito Mentoring: An advising service for intellectually curious students - Less Wrong |accessdate=September 24, 2017 |author=Jonah Sinick |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2014 || {{dts|February 26}} || || The Slate Star Codex subreddit, r/slatestarcodex, is created.<ref>{{cite web |url=https://www.reddit.com/r/slatestarcodex/about/moderators |title=moderators - r/slatestarcodex |accessdate=September 24, 2017 |quote=a community for 3 years [Wed Feb 26 05:15:26 2014 UTC]}}</ref>
 |-
 | 2015 || {{dts|August 28}} || || The subreddit r/SneerClub is created as a place to "sneer" at the rationality community. (Connection to RationalWiki?)<ref>{{cite web |url=https://www.reddit.com/r/SneerClub/about/moderators |title=moderators - r/SneerClub |accessdate=June 1, 2017}}</ref>
@@ -60,7 +62,6 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 * AI FOOM debate
 * growth of local meetups
 * growth of group houses, especially in the Bay Area
-* Cognito Mentoring
 * specific sequences?
 * what's up with rationalist tumblr? https://www.facebook.com/julia.galef/posts/10103435063771462
 * LW IRC
