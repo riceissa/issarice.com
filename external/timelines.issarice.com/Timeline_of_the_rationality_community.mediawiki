@@ -19,7 +19,7 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2009 || {{dts|February}} || || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
-| 2010 || {{dts|July 23}} || || The [[LessWrong]] user Roko publishes "Solutions to the Altruist's burden: the Quantum Billionaire Trick". The ideas in this post came to be known as "Roko's basilisk".<ref>{{cite web |url=http://rationalwiki.org/wiki/Roko's_basilisk/Original_post |title=Roko's basilisk/Original post |publisher=[[RationalWiki]] |accessdate=February 26, 2017}}</ref><ref>{{cite web |url=https://wiki.lesswrong.com/wiki/Roko's_basilisk |title=Roko's basilisk - Lesswrongwiki |publisher=[[LessWrong]] |accessdate=February 26, 2017}}</ref>
+| 2010 || {{dts|July 23}} || || The [[wikipedia:LessWrong|LessWrong]] user Roko publishes "Solutions to the Altruist's burden: the Quantum Billionaire Trick". The ideas in this post came to be known as "Roko's basilisk".<ref>{{cite web |url=http://rationalwiki.org/wiki/Roko's_basilisk/Original_post |title=Roko's basilisk/Original post |publisher=[[RationalWiki]] |accessdate=February 26, 2017}}</ref><ref>{{cite web |url=https://wiki.lesswrong.com/wiki/Roko's_basilisk |title=Roko's basilisk - Lesswrongwiki |publisher=[[LessWrong]] |accessdate=February 26, 2017}}</ref>
 |-
 | 2012 || || || The [[wikipedia:Center for Applied Rationality|Center for Applied Rationality]] is founded.
 |-
@@ -36,6 +36,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 | 2016 || {{dts|August}} || || The Open Philanthropy Project awards a grant worth $500,000 to Machine Intelligence Research Institute. The grant writeup notes, "Despite our strong reservations about the technical research we reviewed, we felt that awarding $500,000 was appropriate for multiple reasons".<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support |title=Machine Intelligence Research Institute — General Support |publisher=Open Philanthropy Project |accessdate=June 30, 2017}}</ref>
 |-
 | 2017 || {{dts|June 18}} || || The "Welcome to Lesswrong 2.0" post is made on the <code>lesserwrong.com</code> domain.<ref>{{cite web |url=https://www.lesserwrong.com/posts/HJDbyFFKf72F52edp/welcome-to-lesswrong-2-0 |author=Oliver Habryka |title=Welcome to Lesswrong 2.0 |accessdate=July 6, 2017}}</ref>
+|-
+| 2017 || {{dts|September 20}} || || Open beta of LessWrong 2.0 begins.<ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/per/lw_20_open_beta_starts_920/ |title=LW 2.0 Open Beta starts 9/20 - Less Wrong Discussion |accessdate=September 24, 2017 |author=Vaniver |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/pes/lw_20_strategic_overview/ |title=LW 2.0 Strategic Overview - Less Wrong Discussion |accessdate=September 24, 2017 |author=Habryka |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |}
 
 ==Meta information on the timeline==
