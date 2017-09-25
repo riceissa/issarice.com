@@ -69,6 +69,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2016 || {{dts|December 1}} || || Downvoting on LessWrong is temporarily disabled.<ref>{{cite web |url=http://lesswrong.com/lw/o7b/downvotes_temporarily_disabled/ |title=Downvotes temporarily disabled - Less Wrong |accessdate=September 24, 2017 |author=Vaniver |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2017 || {{dts|June 3}} || || The {{w|RationalWiki}} page on {{w|MetaMed}} is created.<ref>{{cite web |url=http://rationalwiki.org/w/index.php?title=MetaMed&dir=prev&action=history |title=Revision history of "MetaMed" - RationalWiki |accessdate=September 25, 2017}}</ref>
+|-
 | 2017 || {{dts|June 18}} || || The "Welcome to Lesswrong 2.0" post is made on the <code>lesserwrong.com</code> domain.<ref>{{cite web |url=https://www.lesserwrong.com/posts/HJDbyFFKf72F52edp/welcome-to-lesswrong-2-0 |author=Oliver Habryka |title=Welcome to Lesswrong 2.0 |accessdate=July 6, 2017}}</ref>
 |-
 | 2017 || {{dts|September 20}} || || Open beta of LessWrong 2.0 begins.<ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/per/lw_20_open_beta_starts_920/ |title=LW 2.0 Open Beta starts 9/20 - Less Wrong Discussion |accessdate=September 24, 2017 |author=Vaniver |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/pes/lw_20_strategic_overview/ |title=LW 2.0 Strategic Overview - Less Wrong Discussion |accessdate=September 24, 2017 |author=Habryka |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
