@@ -43,6 +43,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2015 || {{dts|August 28}} || || The subreddit r/SneerClub is created as a place to "sneer" at the rationality community. (Connection to RationalWiki?)<ref>{{cite web |url=https://www.reddit.com/r/SneerClub/about/moderators |title=moderators - r/SneerClub |accessdate=June 1, 2017}}</ref>
 |-
+| 2015 || {{dts|September 4}} || || The LessWrong Slack channel is announced.<ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/mpq/lesswrong_real_time_chat/ |title=Lesswrong real time chat - Less Wrong Discussion |accessdate=September 25, 2017 |author=Elo |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2015 || {{dts|December 23}} || || On LessWrong, the user VoiceOfRa is banned for retributive downvoting.<ref>{{cite web |url=http://lesswrong.com/lw/n3z/voiceofra_is_banned/ |title=Voiceofra is banned - Less Wrong |accessdate=September 25, 2017 |author=NancyLebovitz |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2016 || || || Vaniver, Anna Salamon, et al. begin the "LessWrong revival"
