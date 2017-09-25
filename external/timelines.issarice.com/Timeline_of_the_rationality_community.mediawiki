@@ -39,6 +39,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2014 || {{dts|December 7}} || || Eugine_Nier apparently returns under a different account (Azathoth123).<ref>{{cite web |url=http://lesswrong.com/lw/ld0/psa_eugine_nier_evading_ban/ |title=PSA: Eugine_Nier evading ban? - Less Wrong |accessdate=September 25, 2017 |author=Dahlen |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2015 || {{dts|March 14}} || || The serial publishing of ''[[wikipedia:Harry Potter and the Methods of Rationality|Harry Potter and the Methods of Rationality]]'' concludes.
+|-
 | 2015 || {{dts|August 28}} || || The subreddit r/SneerClub is created as a place to "sneer" at the rationality community. (Connection to RationalWiki?)<ref>{{cite web |url=https://www.reddit.com/r/SneerClub/about/moderators |title=moderators - r/SneerClub |accessdate=June 1, 2017}}</ref>
 |-
 | 2015 || {{dts|December 23}} || || On LessWrong, the user VoiceOfRa is banned for retributive downvoting.<ref>{{cite web |url=http://lesswrong.com/lw/n3z/voiceofra_is_banned/ |title=Voiceofra is banned - Less Wrong |accessdate=September 25, 2017 |author=NancyLebovitz |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
