@@ -109,6 +109,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ==External links==
 
+* [http://lesswrong.com/ LessWrong]
+
 ==References==
 
 {{Reflist|30em}}
