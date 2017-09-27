@@ -73,6 +73,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2017 || {{dts|June 18}} || || The "Welcome to Lesswrong 2.0" post is made on the <code>lesserwrong.com</code> domain.<ref>{{cite web |url=https://www.lesserwrong.com/posts/HJDbyFFKf72F52edp/welcome-to-lesswrong-2-0 |author=Oliver Habryka |title=Welcome to Lesswrong 2.0 |accessdate=July 6, 2017}}</ref>
 |-
+| 2017 || {{dts|February 22}} || || During an "ask me anything" (AMA) on Reddit, the philosopher {{w|David Chalmers}} responds to a question about LessWrong, stating that he has "seen a lot of interesting ideas come from the 'rationalist' community".<ref>{{cite web |url=https://www.reddit.com/r/philosophy/comments/5vji57/im_david_chalmers_philosopher_interested_in/de2jklb/ |publisher=reddit |title=I'm David Chalmers, philosopher interested in consciousness, technology, and many other things. AMA. • r/philosophy |accessdate=September 27, 2017}}</ref>
+|-
 | 2017 || {{dts|September 20}} || || Open beta of LessWrong 2.0 begins.<ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/per/lw_20_open_beta_starts_920/ |title=LW 2.0 Open Beta starts 9/20 - Less Wrong Discussion |accessdate=September 24, 2017 |author=Vaniver |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=http://lesswrong.com/r/discussion/lw/pes/lw_20_strategic_overview/ |title=LW 2.0 Strategic Overview - Less Wrong Discussion |accessdate=September 24, 2017 |author=Habryka |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |}
 
@@ -98,6 +100,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 * LW IRC
 * first mentions by Caplan, MR, Chalmers ([https://www.reddit.com/r/philosophy/comments/5vji57/im_david_chalmers_philosopher_interested_in/de2jklb/] for opinion), and some other people
 * Big Yud stuff, e.g. its origin [https://www.facebook.com/yudkowsky/posts/10154120638169228]
+* when did rationalists start calling themselves "rats"?
+* post-rationality [http://lesswrong.com/r/discussion/lw/oi6/metarationality_repository/]
 
 ===Timeline update strategy===
 
