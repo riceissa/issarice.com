@@ -13,14 +13,12 @@ body {
 }
 
 main, footer {
-    background-color: #fff;
     line-height: 1.4;
     margin: auto;
     max-width: 35rem;
     text-align: left;
-    /* width: 93%; */
+    width: 93%;
     word-wrap: break-word;
-    overflow: auto;
 }
 
 nav#site_navigation {
@@ -32,12 +30,7 @@ nav#site_navigation {
     overflow: hidden;
 }
 
-footer {
-    width: 93%;
-    font-size: 80%;
-    margin: auto;
-    max-width: 700px;
-}
+footer { font-size: 80%; }
 
 h1 {
     font-size: 120%;
