@@ -21,6 +21,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 |-
 | 2008 || {{dts|November}}–December || || The AI-Foom debate between Robin Hanson and Eliezer Yudkowsky takes place. The blog posts from the debate would later be turned into an ebook by MIRI.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate |title=The Hanson-Yudkowsky AI-Foom Debate |website=Lesswrongwiki |accessdate=July 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref><ref>{{cite web |url=http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/6k1b |title=Eliezer_Yudkowsky comments on Thoughts on the Singularity Institute (SI) - Less Wrong |accessdate=July 15, 2017 |quote=Nonetheless, it already has a warm place in my heart next to the debate with Robin Hanson as the second attempt to mount informed criticism of SIAI. |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2008 || {{dts|December 10}} || || The <code>lesswrong.com</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=lesswrong.com |title=Showing results for: lesswrong.com |publisher=ICANN WHOIS |accessdate=September 27, 2017 |quote=Creation Date: 2008-12-10T23:29:03Z}}</ref>
+|-
 | 2009 || {{dts|February}} || || Eliezer Yudkowsky starts LessWrong using as seed material his posts on Overcoming Bias.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
 | 2009 || {{dts|March 12}} || || The LessWrong Wiki is created.<ref>{{cite web |url=https://wiki.lesswrong.com/index.php?title=LessWrong_Wiki&dir=prev&action=history |title=Revision history of "LessWrong Wiki" - Lesswrongwiki |accessdate=September 25, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
@@ -76,6 +78,8 @@ This is a '''timeline of the rationality community''' (sometimes also called the
 | 2016 || {{dts|August}} || || The Open Philanthropy Project awards a grant worth $500,000 to Machine Intelligence Research Institute. The grant writeup notes, "Despite our strong reservations about the technical research we reviewed, we felt that awarding $500,000 was appropriate for multiple reasons".<ref>{{cite web |url=http://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-general-support |title=Machine Intelligence Research Institute — General Support |publisher=Open Philanthropy Project |accessdate=June 30, 2017}}</ref>
 |-
 | 2016 || {{dts|December 1}} || || Downvoting on LessWrong is temporarily disabled.<ref>{{cite web |url=http://lesswrong.com/lw/o7b/downvotes_temporarily_disabled/ |title=Downvotes temporarily disabled - Less Wrong |accessdate=September 24, 2017 |author=Vaniver |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
+| 2017 || {{dts|May 30}} || || The <code>lesserwrong.com</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=lesserwrong.com |title=Showing results for: lesserwrong.com |publisher=ICANN WHOIS |accessdate=September 27, 2017 |quote=Creation Date: 2017-05-30T00:32:43Z}}</ref>
 |-
 | 2017 || {{dts|June 3}} || || The {{w|RationalWiki}} page on {{w|MetaMed}} is created.<ref>{{cite web |url=http://rationalwiki.org/w/index.php?title=MetaMed&dir=prev&action=history |title=Revision history of "MetaMed" - RationalWiki |accessdate=September 25, 2017}}</ref>
 |-
