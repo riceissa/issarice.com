@@ -106,6 +106,7 @@ print("""<!DOCTYPE html>
     h2 { border-bottom: 1px solid #ccc; }
     h2, h3, h4, h5, h6 { font-size: 110%; }
     h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
+    nav { font-family: Lato, Helvetica, sans-serif; }
 
     /* Hyphenate inside table cells;
      * from https://justmarkup.com/log/2015/07/dealing-with-long-words-in-css/
@@ -171,6 +172,8 @@ print("""<!DOCTYPE html>
   <title>Task list for Issa Rice</title>
 </head>
 <body>
+    <nav><a href="./index">Home</a>
+    | <a href="./about">About</a></nav>
     <h1>Task list for Issa Rice</h1>
     <p>This page shows completed work that I have done. Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. I have also included other <a href="https://github.com/riceissa/issarice.com/blob/master/sql/work.sql">tasks not part of contract work</a>.
        There are other tasks that are not considered “complete” but which have significant work done on them; these are not included. I have also not included a lot of schoolwork and minor tasks.</p>
