@@ -23,6 +23,7 @@ Some topics to cover eventually:
 * [[Cartesian theater]]
 * [[Cartesian camcorder]]
 * [[Gary Drescher]]
+* ''[[Good and Real]]''
 * [[Orwellian revision]]
 * [[Stalineque revision]]
 * [[Joycean machine]]
@@ -45,6 +46,7 @@ Some topics to cover eventually:
 * [[Pineal gland]]
 * [[Qualia Quined]]
 * [[Problem of arbitrary interpretation]]
+* [[Joke interpretation]]
 * [[Ineffability]]
 * [[Diet qualia]]
 * [[Zero qualia]]
@@ -57,3 +59,6 @@ Some topics to cover eventually:
 * [[Mind uploading]]
 * [[Destructive uploading]]
 * [[Personal identity]]
+* [[Metacontrast]] (Fehrer and Raab, 1962)
+* [[Backwards referral in time]]
+* [[Eliezer Yudkowsky]]
