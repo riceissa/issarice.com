@@ -15,16 +15,26 @@ This is the personal website of Issa Rice.
 - [Account names](account-names) I use on various websites
 - [List of things I have worked on](work)
 
-# Summary of what I worked on: August 2017 {#summary}
+# Summary of what I worked on: September 2017 {#summary}
 
 For completed tasks, see the [work page](work).
 
-In addition, during August I looked into libertarianism, producing substantive
-drafts of several timelines:
+In addition, during September I spent time learning about and taking notes on
+development economics. You can see [my contributions](https://devec.subwiki.org/wiki/Special:Contributions/Issa_Rice)
+on Vipul Naik's Development Economics Subwiki as well as a [Summary table of
+views on development economics](https://timelines.issarice.com/wiki/Summary_table_of_views_on_development_economics)
+that I started on Timelines Wiki (that will be moved to Development Economics
+Subwiki soon).
 
-- [Timeline of libertarianism in the United States](https://timelines.issarice.com/wiki/Timeline_of_libertarianism_in_the_United_States)
-- [Timeline of Ludwig von Mises Institute](https://timelines.issarice.com/wiki/Timeline_of_Ludwig_von_Mises_Institute)
-- [Timeline of Cato Institute](https://timelines.issarice.com/wiki/Timeline_of_Cato_Institute)
+I also spent some time working on a [Timeline of the rationality community](https://timelines.issarice.com/wiki/Timeline_of_the_rationality_community),
+but this is not yet complete.
+
+I started a [Timeline of decision theory](https://timelines.issarice.com/wiki/Timeline_of_decision_theory)
+that I hope to complete at some point.
+
+I've been spending quite a bit of time reading about consciousness lately. I
+hope to begin producing some output from this soon but I am still figuring how
+my options.
 
 # Activity feeds
 
