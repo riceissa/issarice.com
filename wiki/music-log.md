@@ -271,6 +271,7 @@ The Pillows:
 * Mac DeMarco: [*Salad Days*](https://en.wikipedia.org/wiki/Salad_Days_%28Mac_DeMarco_album%29)
 * The Pillows: *Thank You, My Twilight*
 * The Pillows: *Horn Again*
+* The Pillows: *Wake Up! Wake Up! Wake Up!*
 
 # History
 
