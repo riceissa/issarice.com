@@ -16,3 +16,10 @@ Jacob seems to be the only one who would meet (or would have met) Open Philanthr
 Looking beyond Open Philanthropy, it is possible to find people with even more unconventional backgrounds at e.g. MIRI https://intelligence.org/team/
 
 I expect Open Philanthropy to have thought about the restrictiveness of the requirements, so one could interpret my puzzlement also as mild frustration at its reasoning not having been made clear.
+
+Some potential reasons for the restriction that I can think of:
+
+- most of the people with unconventional backgrounds have been discovered already
+- value of getting more people with the right backgrounds on board
+- diversity considerations to the effect that "if the people we have have 'unconventional' backgrounds, then that's the conventional background, and we want people with 'conventional' background"
+- they want to incentivize entry into AI PhD
