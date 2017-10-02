@@ -51,7 +51,7 @@ $(OUTDIR)/_all: $(MD_PAGES) generator/all_pages.sh | $(OUTDIR)
 
 $(OUTDIR)/_all_date: $(MD_PAGES) generator/all_date_pages.sh | $(OUTDIR)
 	bash ./generator/all_date_pages.sh | \
-		pandoc $(PANDOC_FLAGS)
+		pandoc $(PANDOC_FLAGS) \
 		-M title:"List of pages sorted by date of last substantive revision" \
 		-o "$@"
 
