@@ -71,6 +71,8 @@ https://boards.4chan.org/g/thread/59554516#p59568318
 ** 2017-09-15: https://archive.is/bmnIY
 ** 2017-09-17: https://archive.is/K769H
 ** 2017-09-19: https://archive.is/1iMzN
+** 2017-10-01: http://archive.is/XxY28
+** 2017-10-02: https://archive.is/V6Iqn
 -->
 
 {| class="sortable wikitable"
