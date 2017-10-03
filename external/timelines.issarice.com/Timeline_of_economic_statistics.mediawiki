@@ -10,15 +10,15 @@ This is a '''timeline of economic statistics'''.
 ==Full timeline==
 
 {| class="sortable wikitable"
-! Year !! Month and date !! Event type !! Details
+! Year !! Month and date !! Event type !! Details !! Country based !! Country analyzed
 |-
-| 1884 || || || The {{w|Bureau of Labor Statistics}} is founded.
+| 1884 || || || The {{w|Bureau of Labor Statistics}} is founded. || United States || United States
 |-
-| 1960s || || || Angus Maddison begins his work on long-term economic growth.<ref>{{cite web |url=http://www.ggdc.net/maddison/maddison-project/publications/wp4.pdf |title=The First Update of the Maddison Project Re-Estimating Growth Before 1820 |first1=Jutta |last1=Bolt |first2=Jan Luiten |last2=van Zanden |date=January 2013 |accessdate=October 3, 2017}}</ref>{{rp|3}}
+| 1960s || || || Angus Maddison begins his work on long-term economic growth.<ref>{{cite web |url=http://www.ggdc.net/maddison/maddison-project/publications/wp4.pdf |title=The First Update of the Maddison Project Re-Estimating Growth Before 1820 |first1=Jutta |last1=Bolt |first2=Jan Luiten |last2=van Zanden |date=January 2013 |accessdate=October 3, 2017}}</ref>{{rp|3}} || United States || Various
 |-
-| 1961 || || || The {{w|Economics and Statistics Administration}} is founded.
+| 1961 || || || The {{w|Economics and Statistics Administration}} is founded. || United States || United States
 |-
-| 1972 || {{dts|January 1}} || || The {{w|Bureau of Economic Analysis}} is established.
+| 1972 || {{dts|January 1}} || || The {{w|Bureau of Economic Analysis}} is established. || United States || United States
 |-
 | 1978 || || || "Real GDP Per Capita for More Than One Hundred Countries" by Irving B. Kravis, {{w|Alan W. Heston}}, and {{w|Robert Summers}} is published. This is the paper that would lead to the {{w|Penn World Table}} data.<ref>{{cite web |url=http://voxeu.org/article/newer-better-penn-world-table-growth-estimates |title=Is newer better? The Penn World Table growth estimates |first1=Simon |last1=Johnson |first2=Arvind |last2=Subramanian |first3=Will |last3=Larson |first4=Chris |last4=Papageorgiou |publisher=VOX, CEPR's Policy Portal |date=December 7, 2009 |accessdate=October 3, 2017}}</ref>
 |-
