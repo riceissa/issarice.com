@@ -20,6 +20,8 @@ This is a '''timeline of economic statistics'''.
 |-
 | 1978 || || || "Real GDP Per Capita for More Than One Hundred Countries" by Irving B. Kravis, {{w|Alan W. Heston}}, and {{w|Robert Summers}} is published. This is the paper that would lead to the {{w|Penn World Table}} data.<ref>{{cite web |url=http://voxeu.org/article/newer-better-penn-world-table-growth-estimates |title=Is newer better? The Penn World Table growth estimates |first1=Simon |last1=Johnson |first2=Arvind |last2=Subramanian |first3=Will |last3=Larson |first4=Chris |last4=Papageorgiou |publisher=VOX, CEPR's Policy Portal |date=December 7, 2009 |accessdate=October 3, 2017}}</ref>
 |-
+| 2010 || {{dts|March}} || || The Maddison Project launches.<ref>{{cite web |url=http://www.ggdc.net/maddison/maddison-project/home.htm |title=Maddison Project |accessdate=October 3, 2017 |quote=The Maddison Project has been initiated in March 2010 by a group of close colleagues of Angus Maddison, with the aim to support an effective way of cooperation between scholars to continue Maddison's work on measuring economic performance for different regions, time periods and subtopics.}}</ref>
+|-
 | 2013 || {{dts|July 3}} || || The Penn World Table version 8 is published.<ref>{{cite web |url=https://www.cgdev.org/blog/new-penn-world-tables |publisher=Center For Global Development |title=The New Penn World Tables |author=Arvind Subramanian |accessdate=October 3, 2017}}</ref>
 |}
 
