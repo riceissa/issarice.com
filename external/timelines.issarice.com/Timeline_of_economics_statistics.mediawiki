@@ -1,0 +1,40 @@
+This is a '''timeline of economic statistics'''.
+
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details
+|-
+| 1884 || || || The {{w|Bureau of Labor Statistics}} is founded.
+|-
+| 1961 || || || The {{w|Economics and Statistics Administration}} is founded.
+|-
+| 1972 || {{dts|January 1}} || || The {{w|Bureau of Economic Analysis}} is established.
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:Issa|Issa Rice]].
+
+{{funding info}} is available.
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
