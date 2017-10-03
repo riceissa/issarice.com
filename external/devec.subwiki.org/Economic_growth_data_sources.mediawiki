@@ -1,0 +1,39 @@
+This page lists data sources for economic growth.
+
+==Sources==
+
+===Maddison Project===
+
+===Penn World Table===
+
+===Gapminder===
+
+===World Development Indicators (World Bank)===
+
+===System of National Accounts===
+
+[[wikipedia:System of National Accounts|System of National Accounts]]
+
+==Comparison table==
+
+{| class="sortable wikitable"
+! Source !! Used by
+|-
+| WDI || "public domains such as politics and the media"<ref name="jerven-cgd-paper">{{cite web |url=https://www.cgdev.org/doc/17-NOV-CGD-Poor%20Numbers-Jerven.pdf |first=Morten |last=Jerven |title=Poor Numbers! What do we know about income and growth in sub-Saharan Africa?}}</ref>
+|-
+| Penn World Table || "growth economists when calculating cross country growth regressions"<ref name="jerven-cgd-paper" />
+|-
+| Maddison || "economic historians but also by economists"<ref name="jerven-cgd-paper" />
+|}
+
+==Blind spots, interpretive cautions==
+
+==See also==
+
+==External links==
+
+* [https://issarice.com/total-spending-in-global-health Similar page for global health spending]
+
+==References==
+
+{{Reflist|30em}}
