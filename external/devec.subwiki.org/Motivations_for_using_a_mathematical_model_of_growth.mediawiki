@@ -1,0 +1,18 @@
+TODO talk about the point of the model. What do we want out of it? (1) We want to know what happens to all the endogenous variables given the equations and the exogenous variables; (2) we want to know what happens to the output as a whole when we adjust the parameters ("comparative statics"). The latter is what tells us things like "increase the savings rate to grow the economy".
+
+sample questions:
+
+* what is a "closed form"?
+* doesn't the model presuppose some sort of answer of how the economy works because you can only change the variables that appear in the model?
+* what does mathematical modeling get us?
+* what makes one model "better" than another?
+
+==See also==
+
+==External links==
+
+* [[wikipedia:Closed-form expression|Closed-form expression]] (Wikipedia)
+
+==References==
+
+Jones, Charles I. Vollrath, Dietrich. ''Introduction to Economic Growth''. Section 2.1.1 "Solving the basic Solow model". p26.
