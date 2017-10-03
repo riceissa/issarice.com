@@ -17,6 +17,8 @@ This is a '''timeline of economic statistics'''.
 | 1961 || || || The {{w|Economics and Statistics Administration}} is founded.
 |-
 | 1972 || {{dts|January 1}} || || The {{w|Bureau of Economic Analysis}} is established.
+|-
+| 1978 || || || "Real GDP Per Capita for More Than One Hundred Countries" by Irving B. Kravis, {{w|Alan W. Heston}}, and {{w|Robert Summers}} is published. This is the paper that led to the {{w|Penn World Table}} data.<ref>{{cite web |url=http://voxeu.org/article/newer-better-penn-world-table-growth-estimates |title=Is newer better? The Penn World Table growth estimates |first1=Simon |last1=Johnson |first2=Arvind |last2=Subramanian |first3=Will |last3=Larson |first4=Chris |last4=Papageorgiou |publisher=VOX, CEPR's Policy Portal |date=December 7, 2009 |accessdate=October 3, 2017}}</ref>
 |}
 
 ==Meta information on the timeline==
