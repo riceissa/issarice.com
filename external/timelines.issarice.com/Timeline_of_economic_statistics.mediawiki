@@ -28,9 +28,13 @@ This is a '''timeline of economic statistics'''.
 |-
 | 2009 || || || The final update of Angus Maddison's original dataset on economic growth and development takes place.<ref>{{cite web |url=http://www.ggdc.net/maddison/maddison-project/orihome.htm |title=Original Maddison Homepage |accessdate=October 3, 2017}}</ref> Subsequent updates would take place as part of the Maddison Project.
 |-
+| 2009 || {{dts|April 1}} || || The World Development Indicators 2009 is published.<ref>{{cite web |url=https://openknowledge.worldbank.org/handle/10986/4367 |title=World Development Indicators 2009 |accessdate=October 4, 2017}}</ref>
+|-
 | 2010 || {{dts|March}} || || The Maddison Project launches.<ref>{{cite web |url=http://www.ggdc.net/maddison/maddison-project/home.htm |title=Maddison Project |accessdate=October 3, 2017 |quote=The Maddison Project has been initiated in March 2010 by a group of close colleagues of Angus Maddison, with the aim to support an effective way of cooperation between scholars to continue Maddison's work on measuring economic performance for different regions, time periods and subtopics.}}</ref>
 |-
 | 2010 || {{dts|April 20}} || || The World Development Indicators 2010 is released by the World Bank.<ref>{{cite web |url=https://blogs.worldbank.org/opendata/world-development-indicators-wdi010-released |publisher=The Data Blog |title=World Development Indicators (WDI) 2010 released |date=April 22, 2010 |accessdate=October 4, 2017}}</ref>
+|-
+| 2012 || || || The World Bank Open Knowledge Repository launches.<ref>{{cite web |url=https://openknowledge.worldbank.org/about |title=About |publisher=World Bank |accessdate=October 4, 2017 |quote=Since its launch in 2012, millions of publications have been downloaded from the OKR, and nearly half of its users are in developing countries.}}</ref>
 |-
 | 2013 || {{dts|July 3}} || || The Penn World Table version 8 is published.<ref>{{cite web |url=https://www.cgdev.org/blog/new-penn-world-tables |publisher=Center For Global Development |title=The New Penn World Tables |author=Arvind Subramanian |accessdate=October 3, 2017}}</ref>
 |-
