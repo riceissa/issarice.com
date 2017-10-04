@@ -33,7 +33,7 @@ I started a [Timeline of decision theory](https://timelines.issarice.com/wiki/Ti
 that I hope to complete at some point.
 
 I've been spending quite a bit of time reading about consciousness lately. I
-hope to begin producing some output from this soon but I am still figuring how
+hope to begin producing some output from this soon but I am still figuring out
 my options.
 
 # Activity feeds
