@@ -22,7 +22,7 @@ This is a '''timeline of economic statistics'''.
 |-
 | 1968 || || || International comparison work for the {{w|System of National Accounts}} begins at the {{w|University of Pennsylvania}}. "Irving Kravis, a student of [[wikipedia:Simon Kuznets|Kuznets]], was the original leader of the work in developing procedures for utilizing prices collected in different countries." {{w|Alan Heston}} joins the project during this year.<ref name="pwt-history">{{cite web |url=https://web.archive.org/web/20010602103238/http://pwt.econ.upenn.edu:80/history/history.html |title=History of the Project |accessdate=October 5, 2017}}</ref>
 |-
-| 1971 || || || {{w|Robert Summers}} joins the {{W|System of National Accounts}} international comparison project at the {{w|University of Pennsylvania}}, which would later lead to the {{W||Penn World Table}}.<ref name="pwt-history" />
+| 1971 || || || {{w|Robert Summers}} joins the {{W|System of National Accounts}} international comparison project at the {{w|University of Pennsylvania}}, which would later lead to the {{w|Penn World Table}}.<ref name="pwt-history" />
 |-
 | 1972 || {{dts|January 1}} || || The {{w|Bureau of Economic Analysis}} is established. || United States || United States
 |-
