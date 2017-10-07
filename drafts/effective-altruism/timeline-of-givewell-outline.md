@@ -30,6 +30,9 @@
   - for legal stuff see https://www.givewell.org/about/official-records#IRSrelatedmaterials
   - HTTPS starting 2017-09-30 or 2017-10-01. Note that donations page was
     always (?) HTTPS.
+    This wasn't officially announced.
+    archive.org's [snapshot from September 30](https://web.archive.org/web/20170930041912/http://www.givewell.org/)
+    seems to be last one that uses HTTP.
 - givewell labs
   - https://blog.givewell.org/2011/09/08/announcing-givewell-labs/
 - split with open phil
@@ -39,3 +42,7 @@
   range](https://www.google.com/search?tbs=cdr%3A1%2Ccd_min%3A1%2F1%2F2006%2Ccd_max%3A1%2F1%2F2008&q=%22givewell.net%22+-site%3Agivewell.org&oq=%22givewell.net%22+-site%3Agivewell.org&gs_l=psy-ab.3...1768.4896.0.5043.19.19.0.0.0.0.155.1677.12j6.18.0....0...1.1.64.psy-ab..1.2.213...0i13k1j0i13i30k1.0.0LDNLVGGTZI)
 - maybe link in an "External links" section https://donations.vipulnaik.com/donee.php?donee=GiveWell
 - some of the givewell events on https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation
+- http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/
+- start of incubation grants https://www.givewell.org/research/incubation-grants
+  Note that these used to be called "GiveWell's experimental work".
+- India visit seems worth adding https://www.givewell.org/research/site-visits/india-fall-2010
