@@ -2,7 +2,9 @@
   are much smaller, so use these versions):
   - https://en.wikipedia.org/w/index.php?title=Open_Philanthropy_Project&oldid=767512556
   - https://en.wikipedia.org/w/index.php?title=GiveWell&oldid=752388374
+    (see especially the "History" and "Recommendations" sections)
   - https://en.wikipedia.org/w/index.php?title=Room_for_more_funding&oldid=753881926
+  - https://en.wikipedia.org/w/index.php?title=Earning_to_give&oldid=702445075
 - mailing list https://groups.yahoo.com/neo/groups/givewell/info
 - givewell's domain used to be `givewell.net` so you will find some older
   versions of the website there.
@@ -20,6 +22,8 @@
   - `givewell.net` domain: [Creation Date: 2006-11-19T13:50:18Z](https://whois.icann.org/en/lookup?name=givewell.net)
     sounds right to me.
   - for legal stuff see https://www.givewell.org/about/official-records#IRSrelatedmaterials
+  - HTTPS starting 2017-09-30 or 2017-10-01. Note that donations page was
+    always (?) HTTPS.
 - givewell labs
   - https://blog.givewell.org/2011/09/08/announcing-givewell-labs/
 - split with open phil
