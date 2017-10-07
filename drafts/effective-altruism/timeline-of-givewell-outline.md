@@ -15,7 +15,8 @@
   - `givewell.org` domain: note that the domain used to be controlled by a
     [GiveWell Foundation](https://web.archive.org/web/20020719202956/http://www.givewell.org:80/)
     so the [1991 registration date](https://whois.icann.org/en/lookup?name=givewell.org)
-    isn't accurate.
+    isn't accurate. However you can use archive.org snapshots to find out when
+    the switch happened.
   - `givewell.net` domain: [Creation Date: 2006-11-19T13:50:18Z](https://whois.icann.org/en/lookup?name=givewell.net)
     sounds right to me.
   - for legal stuff see https://www.givewell.org/about/official-records#IRSrelatedmaterials
