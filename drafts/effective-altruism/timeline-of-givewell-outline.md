@@ -2,7 +2,10 @@
   are much smaller, so use these versions):
   - https://en.wikipedia.org/w/index.php?title=Open_Philanthropy_Project&oldid=767512556
   - https://en.wikipedia.org/w/index.php?title=GiveWell&oldid=752388374
-    (see especially the "History" and "Recommendations" sections)
+    (see especially the "History" and "Recommendations" sections; each yearly
+    and mid-year top charity recommendations are worth covering, as well as big
+    events like metafilter/astroturfing incident and partnership with good
+    ventures)
   - https://en.wikipedia.org/w/index.php?title=Room_for_more_funding&oldid=753881926
   - https://en.wikipedia.org/w/index.php?title=Earning_to_give&oldid=702445075
 - mailing list https://groups.yahoo.com/neo/groups/givewell/info
