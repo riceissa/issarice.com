@@ -2,6 +2,7 @@
 # License: CC0
 
 import mysql.connector
+import datetime
 
 
 def notes_transformed(text):
@@ -90,6 +91,12 @@ print("""<!DOCTYPE html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Issa Rice">""")
+print("""<meta name="dcterms.date" content="{}">""".format(
+      datetime.date.today().strftime("%Y-%m-%d")))
+print("""<meta property="og:title" content="Task list for Issa Rice" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="article:author" content="https://www.facebook.com/riceissa" />
   <link rel="stylesheet" href="theme.default.css">
   <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
@@ -180,6 +187,7 @@ print("""<!DOCTYPE html>
     <p><a href="https://github.com/riceissa/issarice.com/blob/master/generator/tasklist.py">Source code</a> for the script that prints this page is available.</p>
     <p>Hovering over the Payment column will show a tooltip giving the payer.</p>""")
 print("<p>Showing {} tasks sorted by completion date. With JavaScript enabled, it is possible to sort by each column (unless the window is too narrow, in which case the table collapses into a “definition list” format for easier viewing).</p>".format(count))
+print("<p>This table was generated on {}.</p>".format(datetime.date.today().strftime("%B %-d, %Y")))
 print("""<table style="table-layout: fixed;width:100%;">
   <thead>
     <tr>
