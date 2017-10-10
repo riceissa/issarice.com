@@ -30,11 +30,29 @@ Due to a recent Firefox upgrade, many of the plugins are now marked as
 
 # Bookmarklets
 
-- archive.is
-- "Archive page" (Internet Archive)
-- Get DOM
-- [Citewebgen](https://github.com/riceissa/citewebgen/)
-- Markdown cite
+Here are the bookmarklets I use:
+
+-   "IA" (Internet Archive)
+
+    ```
+    javascript:void(window.open('https://web.archive.org/save/'+location.href))
+    ```
+
+-   archive.is
+
+    ```
+    javascript:void(open('https://archive.is/?run=1&url='+encodeURIComponent(document.location)))
+    ```
+
+-   "DOM" (dump the DOM in a new tab)
+
+    ```
+    javascript:(function(){var%20a=document.createElement("p");var%20b=document.createTextNode(document.documentElement.innerHTML.toString());a.appendChild(b);var%20c=window.open();c.document.body.appendChild(a)})();
+    ```
+
+-   [Citewebgen](https://github.com/riceissa/citewebgen/)
+
+-   "Cite md" (the [Markdown version of Citewebgen](https://github.com/riceissa/citewebgen/blob/master/citewebgen.js))
 
 # Settings
 
