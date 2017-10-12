@@ -1,0 +1,32 @@
+This page lists versions of the [[Penn World Table]].<ref>{{cite web |url=https://pwt.sas.upenn.edu/php_site/pwt_index.php |title=Penn World Table, index |archiveurl=https://web.archive.org/web/20131105210022/https://pwt.sas.upenn.edu/php_site/pwt_index.php |archivedate=November 5, 2013 |dead-url=yes}}</ref>
+
+{| class="sortable wikitable"
+|-
+! Version !! Publication date !! Period !! Reference year !! Institution
+|-
+| 4 || || ||
+|-
+| 5 || || ||
+|-
+| 5.6 || || 1950-1992 || 1985 || University of Pennsylvania
+|-
+| 6.1 || 2002-10 || 1950-2000 || 1996
+|-
+| 6.2 || || 1950-2004 || 2000
+|-
+| 6.3 || || 1950-2007 || 2005
+|-
+| 7.0 || 2011-06-03 (last updated) || 1950-2009 || 2005
+|-
+| 7.1 || 2012-11-30 || 1950-2010 || 2005
+|-
+| 8.0 || 2013-07-02<ref>{{cite web |url=http://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt8.0 |title=PWT 8.0 {{!}} PWT earlier releases {{!}} Penn World Table {{!}} Productivity {{!}} Productivity {{!}} University of Groningen |accessdate=October 12, 2017}}</ref> || 1950-2011<ref name="whats-new-81" /> || || University of Groningen and UC Davis
+|-
+| 8.1 || 2015-04-13<ref>{{cite web |url=http://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt8.1 |title=PWT 8.1 {{!}} PWT earlier releases {{!}} Penn World Table {{!}} Productivity {{!}} Productivity {{!}} University of Groningen |accessdate=October 12, 2017 |archiveurl=https://web.archive.org/web/20171012014130/http://www.rug.nl/ggdc/productivity/pwt/pwt-releases/pwt8.1 |archivedate=October 12, 2017 |dead-url=no}}</ref> || 1950-2011<ref name="whats-new-81">{{cite web |url=http://www.rug.nl/ggdc/docs/what_is_new_in_pwt_81.pdf |title=Wayback Machine |accessdate=October 12, 2017 |archiveurl=https://web.archive.org/web/20171012014513/http://www.rug.nl/ggdc/docs/what_is_new_in_pwt_81.pdf |archivedate=October 12, 2017 |dead-url=no}}</ref> || || University of Groningen and UC Davis
+|-
+| 9.0 || 2016-06-09<ref>{{cite web |url=https://timelines.issarice.com/wiki/Timeline_of_economic_statistics |title=Timeline of economic statistics - Timelines |accessdate=October 12, 2017}}</ref> || 1950-2014<ref>{{cite web |url=http://www.rug.nl/ggdc/productivity/pwt/ |title=The Database {{!}} Penn World Table {{!}} Productivity {{!}} Productivity {{!}} University of Groningen |accessdate=October 12, 2017}}</ref> || || University of Groningen and UC Davis
+|}
+
+==References==
+
+{{Reflist|30em}}
