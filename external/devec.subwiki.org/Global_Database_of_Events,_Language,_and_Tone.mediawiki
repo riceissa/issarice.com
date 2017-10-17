@@ -16,7 +16,7 @@ Various acronyms and terms are used in the GDELT documentation. Since there seem
 |-
 | CAMEO || {{W|Conflict and Mediation Event Observations}} || ????
 |-
-| CAMEO code || {{W|Conflict and Mediation Event Observations}} code || Example verbs: ''Express intent to institute political reform, not specified below'' (CAMEO 034), ''Allow humanitarian access'' (CAMEO 0863). Example actors: IGOUNO (the United Nations),COP (Police officers, officers, criminal investigative units, protective agencies).<ref>{{cite web |url=http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf |title=CAMEO.Manual.1.1b3.pdf |accessdate=October 17, 2017}}</ref>{{rp|22, 42, 93}}
+| CAMEO code || {{W|Conflict and Mediation Event Observations}} code || A defined code used in CAMEO || Example verbs: ''Express intent to institute political reform, not specified below'' (CAMEO 034), ''Allow humanitarian access'' (CAMEO 0863). Example actors: IGOUNO (the United Nations),COP (Police officers, officers, criminal investigative units, protective agencies).<ref>{{cite web |url=http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf |title=CAMEO.Manual.1.1b3.pdf |accessdate=October 17, 2017}}</ref>{{rp|22, 42, 93}}
 |-
 | GCAM || GDELT Global Content Analysis Measures || ????
 |-
