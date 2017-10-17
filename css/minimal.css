@@ -1,3 +1,4 @@
+<style type="text/css">
 html { font-size: 14px; }
 body { font-family: sans-serif; }
 
@@ -40,3 +41,4 @@ table td {
 table tbody tr { border-bottom: 1px dotted #ccc; }
 table thead th { border-bottom: 1px solid #333; }
 table tfoot th { border-top: 1px solid #333; }
+</style>

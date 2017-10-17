@@ -30,14 +30,14 @@ $endif$
 $if(quotes)$
   <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
 $endif$
-  <style type="text/css">
 $for(header-includes)$
 $header-includes$
 $endfor$
+<style type="text/css">
   $if(css)$
 $css$
   $endif$
-  </style>
+</style>
 $if(math)$
   $math$
 $endif$
