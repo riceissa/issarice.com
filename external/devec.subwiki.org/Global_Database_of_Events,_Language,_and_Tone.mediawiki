@@ -1,0 +1,81 @@
+The '''Global Database of Events, Language, and Tone'''
+
+==Summary==
+
+==Versions==
+
+{| class="sortable wikitable"
+|-
+! Version !! Formats available !! Year of publication !! Month of publication !! Years of coverage !! Dimensions (inputs) !! Metrics (outputs)
+|-
+| GDELT 1.0 || Raw data files, Google BigQuery || || || 1979&ndash;present || ||
+|-
+| GDELT 2.0 || Raw data files, Google BigQuery || || || || ||
+|}
+
+==Data description==
+
+GDELT 2.0 contains three tables: Events, Mentions, and the Global Knowledge Graph (GKG). In both Mentions and the GKG, each row in the table is an article about an event; the difference seems to be that the GKG contains more columns. On the other hand, in Events each row is an event, and only the first article that mentions the event is stored.
+
+===Data dimensions and metrics===
+
+GKG 2.0 fields from <ref>{{cite web |url=https://bigquery.cloud.google.com/table/gdelt-bq:gdeltv2.gkg |title=Google BigQuery |accessdate=October 17, 2017}}</ref>
+
+GDELT 2.0 Events and Mentions from <ref>{{cite web |url=http://data.gdeltproject.org/documentation/GDELT-Event_Codebook-V2.0.pdf |title=The GDELT event database data format codebook v2.0 |date=February 19, 2015 |accessdate=October 17, 2017}}</ref>
+
+{| class="sortable wikitable"
+|-
+! Table name !! General field type !! Field names giving information about the general field type
+|-
+| GKG 2.0 || Date || <code>DATE</code>, <code>Dates</code>
+|-
+| GKG 2.0 || Location || <code>Locations</code>, <code>V2Locations</code>
+|-
+| GKG 2.0 || Entities || <code>Persons</code>, <code>V2Persons</code>, <code>Organizations</code>, <code>V2Organizations</code>
+|-
+| GKG 2.0 || Topic || <code>Themes</code>, <code>V2Themes</code>
+|-
+| GKG 2.0 || Sentiment || <code>V2Tone</code>
+|-
+| GKG 2.0 || Source text || <code>Quotations</code>
+|-
+| GDELT 2.0 Mentions || Date || <code>EventTimeDate</code>, <code>MentionTimeDate</code>
+|-
+| GDELT 2.0 Mentions || Source text || <code>MentionSourceName</code>, <code>MentionIdentifier</code>, <code>MentionDocLen</code>
+|-
+| GDELT 2.0 Mentions || Entities || <code>Actor1CharOffset</code>, <code>Actor2CharOffset</code>
+|-
+| GDELT 2.0 Mentions || Sentiment || <code>MentionDocTone</code>
+|-
+| GDELT 2.0 Events || Date || <code>Day</code>, <code>MonthYear</code>, <code>Year</code>, <code>FractionDate</code>
+|-
+| GDELT 2.0 Events || ||
+|-
+| GDELT 2.0 Events || ||
+|}
+
+==Data sources==
+
+===Auxiliary===
+
+In addition to the actual news articles, some auxiliary data sources are used for sentiment analysis and location identification.<ref>{{cite web |url=http://data.gdeltproject.org/documentation/GCAM-MASTER-CODEBOOK.TXT |title=GCAM Codebook |accessdate=October 17, 2017}}</ref>
+
+==Methods of estimation==
+
+==Reception==
+
+==Usage in debates==
+
+==See also==
+
+* [[Maddison Project]]
+* [[Penn World Table]]
+
+==External links==
+
+* [https://www.gdeltproject.org/ Official website]
+* {{W|Global Database of Events, Language, and Tone}} (Wikipedia)
+
+==References==
+
+{{Reflist|30em}}
