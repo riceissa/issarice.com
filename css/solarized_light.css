@@ -52,13 +52,19 @@ nav#site_navigation {
     overflow: hidden;
 }
 
-h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
+h1 {
+    font-size: 120%;
+    text-transform: uppercase;
+}
 h2 { border-bottom: 1px solid #93a1a1; }
+h2, h3, h4, h5, h6 { font-size: 110%; }
+h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 
 a { text-decoration: none; }
 a:link { color: #268bd2; }
 a:visited { color: #2aa198; }
 a:hover, a:active { text-decoration: underline; }
+a.anchorjs-link:hover, a.anchorjs-link:active { text-decoration: none; }
 
 blockquote {
     border-left: 4px solid #93a1a1;
