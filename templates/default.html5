@@ -65,7 +65,6 @@ $endif$
     for how the div elements are managed.
   -->
   $endif$
-  <div style="float:left;">
     <a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./_all_date">Newest changes</a>
@@ -73,8 +72,6 @@ $endif$
     | <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/$sourcefilename$">View source</a>
     | <a href="https://github.com/riceissa/issarice.com/commits/master/$sourcefilename$">View history</a>
     $endif$
-  </div>
-  <div style="float:right;">
     $if(show-pandoc-template-comments)$
     <!--
       See
@@ -83,14 +80,13 @@ $endif$
         - http://www.vanderbilt.edu/searchsupport/code-samples.php
     -->
     $endif$
-    <form name="google-search" action="https://google.com/search" method="get">
+    <form style="display: inline-block;" name="google-search" action="https://google.com/search" method="get">
       <fieldset style="border:0;">
         <input type="hidden" name="sitesearch" value="https://issarice.com" />
         <input name="q" type="text" />
         <input type="submit" name="btnG" value="Search site" />
       </fieldset>
     </form>
-  </div>
 </nav>
 
 <main>
