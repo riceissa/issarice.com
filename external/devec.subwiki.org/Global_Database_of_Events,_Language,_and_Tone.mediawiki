@@ -20,13 +20,23 @@ Various acronyms and terms are used in the GDELT documentation. Since there seem
 |-
 | Actor || N/A || Person or entity mentioned in an event????
 |-
-| Event || ||
+| Event || N/A ||
 |-
-| Mention || ||
+| Mention || N/A ||
+|-
+| Codebook || N/A || Documentation of the table schemas
 |-
 | LIWC || Linguistic Inquiry and Word Count ||
 |-
 | RID || ?? mentioned in [https://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/] ||
+|-
+| GNS || mentioned in [http://data.gdeltproject.org/documentation/GDELT-Global_Knowledge_Graph_Codebook-V2.1.pdf] ||
+|-
+| GNIS || mentioned in [http://data.gdeltproject.org/documentation/GDELT-Global_Knowledge_Graph_Codebook-V2.1.pdf] ||
+|-
+| IGO || ||
+|-
+| NGO || ||
 |}
 
 ==Versions==
