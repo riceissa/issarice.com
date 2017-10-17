@@ -1,0 +1,42 @@
+html { font-size: 14px; }
+body { font-family: sans-serif; }
+
+blockquote {
+    border-left: 4px solid #ccc;
+    margin: 0px;
+    padding-left: 16px;
+}
+
+code {
+    background-color: #f6f6f6;
+    padding-left: 4px;
+    padding-right: 4px;
+    word-wrap: normal;
+}
+
+pre code {
+    display: block;
+    overflow: auto;
+    padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  border-bottom: 2px solid #333;
+  border-top: 2px solid #333;
+}
+
+table th {
+  font-weight: normal;
+  padding: 0px 10px;
+  vertical-align: bottom;
+}
+
+table td {
+  padding: 0px 10px;
+  vertical-align: top;
+}
+
+table tbody tr { border-bottom: 1px dotted #ccc; }
+table thead th { border-bottom: 1px solid #333; }
+table tfoot th { border-top: 1px solid #333; }
