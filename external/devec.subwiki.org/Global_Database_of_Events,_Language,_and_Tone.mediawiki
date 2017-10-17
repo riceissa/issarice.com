@@ -8,13 +8,13 @@ Various acronyms and terms are used in the GDELT documentation. Since there seem
 
 {| class="sortable wikitable"
 |-
-! Term !! Expansion !! Meaning
+! Term !! Expansion !! Meaning !! Examples
 |-
-| GDELT || Global Database of Events, Language, and Tone || The project name
+| GDELT || Global Database of Events, Language, and Tone || The project name || N/A
 |-
 | GKG || Global Knowledge Graph || One of the tables in GDELT
 |-
-| CAMEO || ??? || ????
+| CAMEO || {{W|Conflict and Mediation Event Observations}} || ????
 |-
 | GCAM || GDELT Global Content Analysis Measures || ????
 |-
