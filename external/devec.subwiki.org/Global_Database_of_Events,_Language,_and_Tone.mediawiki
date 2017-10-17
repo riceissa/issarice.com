@@ -16,11 +16,17 @@ Various acronyms and terms are used in the GDELT documentation. Since there seem
 |-
 | CAMEO || ??? || ????
 |-
+| GCAM || GDELT Global Content Analysis Measures || ????
+|-
 | Actor || N/A || Person or entity mentioned in an event????
 |-
 | Event || ||
 |-
 | Mention || ||
+|-
+| LIWC || Linguistic Inquiry and Word Count ||
+|-
+| RID || ?? mentioned in [https://blog.gdeltproject.org/gdelt-2-0-our-global-world-in-realtime/] ||
 |}
 
 ==Versions==
