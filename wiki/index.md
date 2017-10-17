@@ -7,11 +7,17 @@ toc: false
 #date: 2017-04-02
 ---
 
-This is the personal website of Issa Rice.
+This is the website of myself, Issa Rice. This site stores biographical information
+about me, but it is also a personal wiki or [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html)
+of sorts; anything that doesn't belong elsewhere ends up on here, and as a
+result the content on here can be of admittedly low-quality. Embarrassing as it
+is, I like to "think and work in the open" so others can benefit from my
+thoughts and critique them.
 
 # On this site
 
 - [About](about)
+- [Contact](contact)
 - [Account names](account-names) I use on various websites
 - [List of things I have worked on](work)
 
