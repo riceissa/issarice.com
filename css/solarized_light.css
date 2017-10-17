@@ -39,6 +39,14 @@ main, footer {
     word-wrap: break-word;
 }
 
+body.wide main {
+    max-width: none;
+}
+
+body.white {
+    background-color: #fff;
+}
+
 nav#site_navigation {
     font-family: Lato, Helvetica, sans-serif;
     font-size: 80%;
