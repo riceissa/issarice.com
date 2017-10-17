@@ -54,18 +54,18 @@ function change_theme_table() {
 }
 
 function set_theme_from_cookies() {
-  if (read_cookie("textWidthCookie")) {
+  if (change_theme_read_cookie("textWidthCookie")) {
     document.body.classList.add("wide");
   }
-  if (read_cookie("fontFamilyCookie")) {
+  if (change_theme_read_cookie("fontFamilyCookie")) {
     document.body.classList.add("sans");
   }
-  if (read_cookie("tableCookie")) {
+  if (change_theme_read_cookie("tableCookie")) {
     document.body.classList.add("wikitable");
   }
-  if (read_cookie("colorCookie") == "white") {
+  if (change_theme_read_cookie("colorCookie") == "white") {
     document.body.classList.add("white");
-  } else if (read_cookie("colorCookie") == "dark") {
+  } else if (change_theme_read_cookie("colorCookie") == "dark") {
     document.body.classList.add("dark");
   }
 }
