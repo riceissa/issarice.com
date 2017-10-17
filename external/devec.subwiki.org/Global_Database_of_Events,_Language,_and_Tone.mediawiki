@@ -2,6 +2,27 @@ The '''Global Database of Events, Language, and Tone'''
 
 ==Summary==
 
+==Glossary==
+
+Various acronyms and terms are used in the GDELT documentation. Since there seems to be no unified place for these on the GDELT website, we collect them here.
+
+{| class="sortable wikitable"
+|-
+! Term !! Expansion !! Meaning
+|-
+| GDELT || Global Database of Events, Language, and Tone || The project name
+|-
+| GKG || Global Knowledge Graph || One of the tables in GDELT
+|-
+| CAMEO || ??? || ????
+|-
+| Actor || N/A || Person or entity mentioned in an event????
+|-
+| Event || ||
+|-
+| Mention || ||
+|}
+
 ==Versions==
 
 {| class="sortable wikitable"
