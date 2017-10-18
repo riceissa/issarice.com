@@ -128,7 +128,7 @@ body.bigtable ul, body.bigtable ol {
   max-width: 31rem;
 }
 
-body.wide main {
+body.wide main, body.wide footer {
     max-width: none;
 }
 
