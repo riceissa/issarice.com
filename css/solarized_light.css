@@ -172,6 +172,9 @@ body.wikitable table {
     border-top: none;
 }
 
+body.dark.wikitable table { background-color: #073642; }
+body.dark.wikitable table th { background-color: #1C454F; }
+
 /*
 Colors for source code listings. See
 https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
