@@ -4,7 +4,7 @@ The '''Total Economy Database''' describes itself as "a comprehensive database w
 
 ==Versions==
 
-The following versions of the database are listed in the archive:<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=30565 |title=Total Economy Database Archive |accessdate=October 17, 2017}}</ref>
+The following versions of the database are listed in the archive or available through the "Data" page:<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=30565 |title=Total Economy Database Archive |accessdate=October 17, 2017}}</ref><ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27762 |title=Total Economy Database Data |accessdate=October 18, 2017}}</ref>
 
 {| class="sortable wikitable"
 |-
@@ -53,6 +53,12 @@ The following versions of the database are listed in the archive:<ref>{{cite web
 | Growth Accounting and Total Factor Productivity || November 2016 || 1995–2015
 |-
 | Regional Aggregates || November 2016 || 1990–2016
+|-
+| Output, Labor, and Labor Productivity || May 2017 || 1950–2017
+|-
+| Growth Accounting and Total Factor Productivity || May 2017 || 1990–2016
+|-
+| Regional Aggregates || May 2017 || 1990–2017
 |}
 
 ==Data description==
