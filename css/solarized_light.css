@@ -107,6 +107,16 @@ table th {
 table td {
     padding: 0px 10px;
     vertical-align: top;
+
+    /* Hyphenate inside table cells;
+     * from https://justmarkup.com/log/2015/07/dealing-with-long-words-in-css/
+     */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
 }
 
 table tbody tr { border-bottom: 1px dotted #ccc; }
