@@ -74,11 +74,11 @@ $endif$
     | <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/$sourcefilename$">View source</a>
     | <a href="https://github.com/riceissa/issarice.com/commits/master/$sourcefilename$">View history</a>
     $endif$
-    | Change
+    <span id="changeThemeMenu" style="display: none;">| Change
     {<a href="#" onclick="change_theme_text_width()">Text width</a>,
      <a href="#" onclick="change_theme_color()">color</a>,
      <a href="#" onclick="change_theme_font_family()">font</a>,
-     <a href="#" onclick="change_theme_table()">table</a>}
+     <a href="#" onclick="change_theme_table()">table</a>}</span>
   </div>
   <div style="float:right;">
     $if(show-pandoc-template-comments)$
@@ -149,6 +149,7 @@ $endif$
 </footer>
 
 <script>
+  document.getElementById('changeThemeMenu').style.display='inline';
   set_theme_from_cookies();
   anchors.add();
 </script>
