@@ -20,7 +20,7 @@ Various acronyms and terms are used in the GDELT documentation. Since there seem
 |-
 | GCAM || GDELT Global Content Analysis Measures || ????
 |-
-| Actor || N/A || Person or entity mentioned in an event????
+| Actor || N/A || An entity mentioned in an event || Barack Obama, Russia, Microsoft, United Church of Christ in Japan
 |-
 | Event || N/A ||
 |-
@@ -35,6 +35,8 @@ Various acronyms and terms are used in the GDELT documentation. Since there seem
 | GNS || mentioned in [http://data.gdeltproject.org/documentation/GDELT-Global_Knowledge_Graph_Codebook-V2.1.pdf] ||
 |-
 | GNIS || mentioned in [http://data.gdeltproject.org/documentation/GDELT-Global_Knowledge_Graph_Codebook-V2.1.pdf] ||
+|-
+| TABARI || Text Analysis By Augmented Replacement Instructions<ref>{{cite web |url=http://eventdata.parusanalytics.com/software.dir/tabari.info.html |title=TABARI: Text Analysis By Augmented Replacement Instructions |accessdate=October 18, 2017}}</ref> || || N/A
 |-
 | IGO || ||
 |-
