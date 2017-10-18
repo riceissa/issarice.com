@@ -107,6 +107,10 @@ GDELT 2.0 Events and Mentions from <ref>{{cite web |url=http://data.gdeltproject
 
 GDELT finds news articles through some process, but it's not clear what that process is.
 
+From the about page:<ref>{{cite web |url=https://www.gdeltproject.org/about.html |title=The GDELT Story: About the GDELT Project |accessdate=October 18, 2017}}</ref>
+
+<blockquote>Today GDELT relies on hundreds of thousands of broadcast, print, and online news sources from every corner of the globe in more than 100 languages and its source list grows daily. In addition to worldwide translated news material, the historical backfile of GDELT stretching back to 1979 makes extensive use of AfricaNews, Agence France Presse, Associated Press, Associated Press Online, Associated Press Worldstream, BBC Monitoring, Christian Science Monitor, Facts on File, Foreign Broadcast Information Service, The New York Times, United Press International and The Washington Post.</blockquote>
+
 ===Auxiliary===
 
 In addition to the actual news articles, some auxiliary data sources are used for sentiment analysis and location identification.<ref>{{cite web |url=http://data.gdeltproject.org/documentation/GCAM-MASTER-CODEBOOK.TXT |title=GCAM Codebook |accessdate=October 17, 2017}}</ref>
