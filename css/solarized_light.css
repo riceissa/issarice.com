@@ -113,6 +113,21 @@ table tbody tr { border-bottom: 1px dotted #ccc; }
 table thead th { border-bottom: 1px solid #586e75; }
 table tfoot th { border-top: 1px solid #586e75; }
 
+/* For pages containing at least one large table. Don't center the text so that
+ * the table doesn't look awkward. */
+body.bigtable main, body.bigtable footer {
+  max-width: none;
+  margin: 0px 40px;
+}
+body.bigtable p, body.bigtable dl, body.bigtable pre, body.bigtable h2 {
+  max-width: 35rem;
+}
+/* Due to the padding applied to list markers, these protrude unless they are a
+ * bit shorter than the other tags. */
+body.bigtable ul, body.bigtable ol {
+  max-width: 31rem;
+}
+
 body.wide main {
     max-width: none;
 }
