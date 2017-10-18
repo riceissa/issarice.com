@@ -2,6 +2,17 @@ The '''Global Database of Events, Language, and Tone'''
 
 ==Summary==
 
+{| class="sortable wikitable"
+|-
+! Item !! Value
+|-
+| Start date || Around 2011
+|-
+| Data versioning ||
+|-
+| Focus || World events in real time
+|}
+
 ==Glossary==
 
 Various acronyms and terms are used in the GDELT documentation. Since there seems to be no unified place for these on the GDELT website, we collect them here.
