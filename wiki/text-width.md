@@ -19,4 +19,6 @@ that is now possible thanks to client-side scripting on the web. As an
 experiment, I have implemented a crude version of this idea. At the top of each
 page there is a menu item labeled "Change {text width, color, font, table}";
 clicking on "text width" will toggle between an almost-full window width and a
-more compact width.
+more compact width. Note that this requires JavaScript to be enabled for
+`issarice.com`. Persistence is achieved through cookies, which are only ever
+used for setting the theme. You can [see the source code of the script](https://github.com/riceissa/issarice.com/blob/master/static/change-theme.js).
