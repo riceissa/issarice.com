@@ -11,11 +11,15 @@ Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdo
 The markdown files are then compiled to HTML using Pandoc and a Makefile.
 
 The [style sheet for this
-site](https://github.com/riceissa/issarice.com/blob/master/css/default.css) is
+site](https://github.com/riceissa/issarice.com/blob/master/css/solarized_light.css) is
 influenced by aspects of various other sites, including
 [gitit](https://web.archive.org/web/20150330005917/http://gitit.johnmacfarlane.net:80/),
 [Gwern’s site](http://www.gwern.net/About#tools), GitHub’s (old) documentation
 pages, and [Butterick's book on typography](http://practicaltypography.com/).
+
+The colors for the "light" and "dark" themes (available when changing the
+"color" from the top menu -- available only when JavaScript is enabled) mostly
+come from Ethan Schoonover's [Solarized](http://ethanschoonover.com/solarized).
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can [visit the repository](https://github.com/riceissa/issarice.com) on GitHub.
