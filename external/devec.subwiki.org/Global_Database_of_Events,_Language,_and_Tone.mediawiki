@@ -94,7 +94,7 @@ GDELT 2.0 Events and Mentions from <ref>{{cite web |url=http://data.gdeltproject
 |-
 | GDELT 2.0 Events || Sentiment || <code>AvgTone</code>
 |-
-| GDELT 2.0 Events || Source text || <code>NumArticles</code>, <code>NumSources</code>, <code>NumMentions</code>
+| GDELT 2.0 Events || Source text || <code>NumArticles</code>, <code>NumSources</code>, <code>NumMentions</code>, <code>DATEADDED</code>, <code>SOURCEURL</code>
 |-
 | GDELT 2.0 Events || Location || <code>Actor1Geo_Type</code>, <code>Actor1Geo_Fullname</code>, <code>Actor1Geo_CountryCode</code>, <code>Actor1GeoADM1Code</code>, <code>Actor1Geo_ADM2Code</code>, <code>Actor1Geo_Lat</code>, <code>Actor1Geo_Long</code>, <code>Actor1Geo_FeatureID</code> (repeated for <code>Actor2</code> and <code>Action</code>)
 |}
