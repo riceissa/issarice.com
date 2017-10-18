@@ -113,6 +113,10 @@ In addition to the actual news articles, some auxiliary data sources are used fo
 
 ==Methods of estimation==
 
+==People==
+
+{{W|Kalev Leetaru}} and {{W|Philip Schrodt}} are the co-creators. Who else is involved in the project? How many people work on this? How many person-hours are spent on GDELT per year?
+
 ==Reception==
 
 ==Usage in debates==
