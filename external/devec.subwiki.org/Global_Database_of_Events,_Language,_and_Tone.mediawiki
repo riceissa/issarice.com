@@ -92,7 +92,11 @@ GDELT 2.0 Events and Mentions from <ref>{{cite web |url=http://data.gdeltproject
 |-
 | GDELT 2.0 Events || Entities || <code>Actor1Code</code>, <code>Actor1Name</code>, <code>Actor1CountryCode</code>, <code>Actor1KnownGroupCode</code>, <code>Actor1EthnicCode</code>, <code>Actor1Religion1Code</code>, <code>Actor1Religion2Code</code>, <code>Actor1Type1Code</code>, <code>Actor1Type2Code</code>, <code>Actor1Type3Code</code> (repeated for <code>Actor2</code>)
 |-
-| GDELT 2.0 Events || ||
+| GDELT 2.0 Events || Sentiment || <code>AvgTone</code>
+|-
+| GDELT 2.0 Events || Source text || <code>NumArticles</code>, <code>NumSources</code>, <code>NumMentions</code>
+|-
+| GDELT 2.0 Events || Location || <code>Actor1Geo_Type</code>, <code>Actor1Geo_Fullname</code>, <code>Actor1Geo_CountryCode</code>, <code>Actor1GeoADM1Code</code>, <code>Actor1Geo_ADM2Code</code>, <code>Actor1Geo_Lat</code>, <code>Actor1Geo_Long</code>, <code>Actor1Geo_FeatureID</code> (repeated for <code>Actor2</code> and <code>Action</code>)
 |}
 
 ==Data sources==
