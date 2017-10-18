@@ -1,3 +1,5 @@
+// License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+
 function change_theme_read_cookie(name) {
   var cookies = document.cookie.split(';');
   for (var i = 0; i < cookies.length; i++) {
