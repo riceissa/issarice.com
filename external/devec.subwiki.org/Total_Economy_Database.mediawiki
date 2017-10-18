@@ -1,0 +1,81 @@
+The '''Total Economy Database''' describes itself as "a comprehensive database with annual data covering GDP, population, employment, hours, labor quality, capital services, labor productivity, and Total Factor Productivity for 123 countries in the world".<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27722 |title=About the Total Economy Database |accessdate=October 17, 2017}}</ref>
+
+==Summary==
+
+==Versions==
+
+The following versions of the database are listed in the archive:<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=30565 |title=Total Economy Database Archive |accessdate=October 17, 2017}}</ref>
+
+{| class="sortable wikitable"
+|-
+! Data metric !! Publication date !! Years covered
+|-
+| Output, Labor, and Labor Productivity || January 2011 || 1950–2010
+|-
+| Growth Accounting and Total Factor Productivity || January 2011 || 1990–2009
+|-
+| Regional Aggregates || January 2011 || 1990–2011
+|-
+| Output, Labor, and Labor Productivity || January 2012 || 1950–2011
+|-
+| Growth Accounting and Total Factor Productivity || January 2012 || 1990–2011
+|-
+| Regional Aggregates || January 2012 || 1990–2012
+|-
+| Output, Labor, and Labor Productivity || January 2013 || 1950–2012
+|-
+| Growth Accounting and Total Factor Productivity || January 2013 || 1990–2012
+|-
+| Regional Aggregates || January 2013 || 1990–2013
+|-
+| Output, Labor, and Labor Productivity || January 2014 || 1950–2013
+|-
+| Growth Accounting and Total Factor Productivity || January 2014 || 1990–2013
+|-
+| Regional Aggregates || January 2014 || 1990–2014
+|-
+| Output, Labor, and Labor Productivity || May 2015 || 1950–2015
+|-
+| Growth Accounting and Total Factor Productivity || May 2015 || 1990–2014
+|-
+| Regional Aggregates || May 2015 || 1990–2015
+|-
+| Output, Labor, and Labor Productivity || September 2015 || 1950–2015
+|-
+| Growth Accounting and Total Factor Productivity || September 2015 || 1990–2014
+|-
+| Output, Labor, and Labor Productivity || May 2016 || 1950–2016
+|-
+| Regional Aggregates || May 2016 || 1990–2016
+|-
+| Output, Labor, and Labor Productivity || November 2016 || 1950–2016
+|-
+| Growth Accounting and Total Factor Productivity || November 2016 || 1995–2015
+|-
+| Regional Aggregates || November 2016 || 1990–2016
+|}
+
+==Data description==
+
+==Data sources==
+
+==Methods of estimation==
+
+==Reception==
+
+==Usage in debates==
+
+==See also==
+
+* [[Maddison Project]]
+* [[Penn World Table]]
+
+==External links==
+
+* [https://www.conference-board.org/data/economydatabase/ Official website]
+
+==References==
+
+{{Reflist|30em}}
+
+[[Category:Economic statistics projects]]
