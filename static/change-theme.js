@@ -13,9 +13,17 @@ function change_theme_text_width() {
   if (document.body.classList.contains("wide")) {
     document.body.classList.remove("wide");
     document.cookie = 'textWidthCookie=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/';
+    if (document.body.classList.contains("bigtable-temp")) {
+      document.body.classList.remove("bigtable-temp");
+      document.body.classList.add("bigtable");
+    }
   } else {
     document.body.classList.add("wide");
     document.cookie = 'textWidthCookie=wide; max-age=31536000; path=/';
+    if (document.body.classList.contains("bigtable")) {
+      document.body.classList.remove("bigtable");
+      document.body.classList.add("bigtable-temp");
+    }
   }
 }
 
@@ -56,6 +64,10 @@ function change_theme_table() {
 function set_theme_from_cookies() {
   if (change_theme_read_cookie("textWidthCookie")) {
     document.body.classList.add("wide");
+    if (document.body.classList.contains("bigtable")) {
+      document.body.classList.remove("bigtable");
+      document.body.classList.add("bigtable-temp");
+    }
   }
   if (change_theme_read_cookie("fontFamilyCookie")) {
     document.body.classList.add("sans");
