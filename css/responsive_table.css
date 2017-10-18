@@ -1,0 +1,34 @@
+<style type="text/css">
+/* See https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/
+       https://codepen.io/anon/pen/QwPVNW */
+@media screen and (max-width: 600px) {
+    table tbody tr { border-bottom: none; }
+
+    table { border: 0; }
+    table thead { display: none; }
+
+    table tr {
+        margin-bottom: 10px;
+        display: block;
+        border-bottom: 2px solid #93a1a1 !important;
+        padding-bottom: 5px;
+    }
+
+    table td {
+        border: 0 !important;
+        display: block;
+        text-align: left !important;
+        text-indent: -30px;
+        margin-left: 30px;
+    }
+
+    table td:last-child { border-bottom: 0; }
+
+    table td:before {
+        content: attr(data-label);
+        float: left;
+        padding-right: 40px;
+        font-weight: bold;
+    }
+}
+</style>
