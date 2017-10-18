@@ -65,6 +65,8 @@ The following versions of the database are listed in the archive or available th
 
 ==Data sources==
 
+<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27770 |title=Sources and Methods used to construct the Total Economy Database |accessdate=October 18, 2017}}</ref>
+
 ==Methods of estimation==
 
 ==Reception==
