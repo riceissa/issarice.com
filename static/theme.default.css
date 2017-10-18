@@ -1,31 +1,4 @@
-table {
-	border-bottom: 2px solid #333;
-	border-collapse: collapse;
-	border-top: 2px solid #333;
-	margin: 0px auto; /* center table */
-}
-
-table th {
-	border-bottom: 1px solid #333;
-	font-weight: normal;
-	padding: 0px 10px;
-	vertical-align: top;
-}
-
-table td {
-	padding: 0px 10px;
-	vertical-align: top;
-}
-
-tbody tr { border-bottom: 1px dotted #ccc; }
-
-/*************
-Default Theme
-*************/
-.tablesorter-default tfoot th,
-.tablesorter-default tfoot td {
-	border: 0;
-}
+/* header */
 .tablesorter-default .header,
 .tablesorter-default .tablesorter-header {
 	background-image: url(data:image/gif;base64,R0lGODlhFQAJAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAkAAAIXjI+AywnaYnhUMoqt3gZXPmVg94yJVQAAOw==);
@@ -49,31 +22,4 @@ Default Theme
 	background-image: none;
 	cursor: default;
 	padding: 4px;
-}
-
-/* tfoot */
-.tablesorter-default tfoot .tablesorter-headerSortUp,
-.tablesorter-default tfoot .tablesorter-headerSortDown,
-.tablesorter-default tfoot .tablesorter-headerAsc,
-.tablesorter-default tfoot .tablesorter-headerDesc {
-	border-top: #000 2px solid;
-}
-
-/* table processing indicator */
-.tablesorter-default .tablesorter-processing {
-	background-position: center center !important;
-	background-repeat: no-repeat !important;
-	/* background-image: url(images/loading.gif) !important; */
-	background-image: url('data:image/gif;base64,R0lGODlhFAAUAKEAAO7u7lpaWgAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQBCgACACwAAAAAFAAUAAACQZRvoIDtu1wLQUAlqKTVxqwhXIiBnDg6Y4eyx4lKW5XK7wrLeK3vbq8J2W4T4e1nMhpWrZCTt3xKZ8kgsggdJmUFACH5BAEKAAIALAcAAAALAAcAAAIUVB6ii7jajgCAuUmtovxtXnmdUAAAIfkEAQoAAgAsDQACAAcACwAAAhRUIpmHy/3gUVQAQO9NetuugCFWAAAh+QQBCgACACwNAAcABwALAAACE5QVcZjKbVo6ck2AF95m5/6BSwEAIfkEAQoAAgAsBwANAAsABwAAAhOUH3kr6QaAcSrGWe1VQl+mMUIBACH5BAEKAAIALAIADQALAAcAAAIUlICmh7ncTAgqijkruDiv7n2YUAAAIfkEAQoAAgAsAAAHAAcACwAAAhQUIGmHyedehIoqFXLKfPOAaZdWAAAh+QQFCgACACwAAAIABwALAAACFJQFcJiXb15zLYRl7cla8OtlGGgUADs=') !important;
-}
-/* caption */
-caption {
-	background-color: #fff;
-}
-
-/* ajax error row */
-.tablesorter .tablesorter-errorRow td {
-	text-align: center;
-	cursor: pointer;
-	background-color: #e6bf99;
 }
