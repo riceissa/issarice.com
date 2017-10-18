@@ -23,9 +23,10 @@ come from Ethan Schoonover's [Solarized](http://ethanschoonover.com/solarized).
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can [visit the repository](https://github.com/riceissa/issarice.com) on GitHub.
-I also have a [mirror on BitBucket](https://bitbucket.org/riceissa/issarice.com/).
+I also have a mirror on [BitBucket](https://bitbucket.org/riceissa/issarice.com/)
+and on [GitLab](https://gitlab.com/riceissa/issarice.com).
 
-The actual site is served via [Linode](https://www.linode.com/), using Nginx on a 64-bit Debian 8 (Jessie) machine.
+The actual site is served via [Linode](https://www.linode.com/), using Nginx on a 64-bit Debian 9 (Stretch) machine.
 I currently use the [Linode 2GB \$10 per month plan](https://www.linode.com/pricing).
 
 I have registered the domains [issarice.com](http://issarice.com) and [riceissa.com](http://riceissa.com) through [Hover](https://www.hover.com/).
