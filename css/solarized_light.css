@@ -150,6 +150,11 @@ body.wikitable table td {
   padding: 5px 10px;
 }
 
+body.wikitable table {
+    border-bottom: none;
+    border-top: none;
+}
+
 /*
 Colors for source code listings. See
 https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
