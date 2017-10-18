@@ -39,14 +39,6 @@ main, footer {
     word-wrap: break-word;
 }
 
-body.wide main {
-    max-width: none;
-}
-
-body.white {
-    background-color: #fff;
-}
-
 nav#site_navigation {
     font-family: Lato, Helvetica, sans-serif;
     font-size: 80%;
@@ -120,6 +112,34 @@ table td {
 table tbody tr { border-bottom: 1px dotted #ccc; }
 table thead th { border-bottom: 1px solid #586e75; }
 table tfoot th { border-top: 1px solid #586e75; }
+
+body.wide main {
+    max-width: none;
+}
+
+body.white {
+    background-color: #fff;
+}
+
+
+body.sans { font-family: Lato, Helvetica, sans-serif; }
+body.sans h1, body.sans h2, body.sans h3, body.sans h4, body.sans h5, body.sans h6 { font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif; }
+
+body.wikitable table {
+  border-collapse: collapse;
+  background-color: #f9f9f9;
+}
+
+body.wikitable table th {
+  background-color: #f2f2f2;
+  border: 1px solid #aaaaaa;
+  padding: 5px 10px;
+}
+
+body.wikitable table td {
+  border: 1px solid #aaaaaa;
+  padding: 5px 10px;
+}
 
 /*
 Colors for source code listings. See
