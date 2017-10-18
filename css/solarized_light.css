@@ -121,6 +121,15 @@ body.white {
     background-color: #fff;
 }
 
+body.dark {
+    background-color: #002b36;
+    color: #93a1a1;
+}
+
+body.dark code { background-color: #073642;}
+
+body.dark a:link { color: #268bd2; }
+body.dark a:visited { color: #859900; }
 
 body.sans { font-family: Lato, Helvetica, sans-serif; }
 body.sans h1, body.sans h2, body.sans h3, body.sans h4, body.sans h5, body.sans h6 { font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif; }
