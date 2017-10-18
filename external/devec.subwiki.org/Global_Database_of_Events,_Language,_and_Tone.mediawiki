@@ -52,6 +52,8 @@ Various acronyms and terms are used in the GDELT documentation. Since there seem
 | GDELT 1.0 || Raw data files, Google BigQuery || || || 1979&ndash;present || ||
 |-
 | GDELT 2.0 || Raw data files, Google BigQuery || || || || ||
+|-
+| GDELT Visual Knowledge Graph 1.0 || Raw data files, Google BigQuery || 2016 || February<ref>{{cite web |url=https://blog.gdeltproject.org/gdelt-visual-knowledge-graph-vgkg-v1-0-available/ |title=GDELT Visual Knowledge Graph (VGKG) V1.0 Available |publisher=GDELT Blog |date=February 13, 2016 |accessdate=October 18, 2017}}</ref> || || || Images
 |}
 
 ==Data description==
