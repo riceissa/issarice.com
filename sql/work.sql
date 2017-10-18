@@ -44,6 +44,7 @@ insert into individual_tasks(task_venue, task_type, task_receptacle, task_recept
     ,('Personal website', 'Content migration', 'Deleted pages of gwern.net', 'https://files.issarice.com/gwern/', '2015-09-17', 0, 'Digital preservation', 'Prose', 'I wanted to conveniently see gwern’s deleted pages in compiled form.')
     ,('Timelines wiki', 'Wiki page creation', 'Domain names in timelines', 'https://timelines.issarice.com/wiki/Domain_names_in_timelines', '2017-08-25', 0, 'Content creation', 'Prose', NULL)
     ,('Timelines wiki', 'Wiki page creation', 'Representativeness of events in timelines', 'https://timelines.issarice.com/wiki/Representativeness_of_events_in_timelines', '2017-08-30', 0, 'Content creation', 'Prose', NULL)
+    ,('Timelines wiki','Coding','Timelines Wiki main page table automation','https://github.com/riceissa/timelines-wiki-main-page-table','2017-10-16',0.00,'Miscellaneous','Code','Previously the main page table had been filled in manually by (mostly) me. This task allows for significantly faster data updates and more complete data.')
 ;
 
 insert into individual_tasks(task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, language) values
