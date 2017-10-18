@@ -57,7 +57,7 @@ $endif$
   </script>
   <script src="change-theme.js"></script>
 </head>
-<body>
+<body$if(bigtable)$ class="bigtable"$endif$>
 <nav id="site_navigation">
   $if(show-pandoc-template-comments)$
   <!--
