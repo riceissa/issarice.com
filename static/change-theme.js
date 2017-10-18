@@ -20,16 +20,16 @@ function change_theme_text_width() {
 }
 
 function change_theme_color() {
-  if (document.body.classList.contains("white")) {
-    document.body.classList.remove("white");
+  if (document.body.classList.contains("light")) {
+    document.body.classList.remove("light");
     document.body.classList.add("dark");
     document.cookie = 'colorCookie=dark; max-age=31536000; path=/';
   } else if (document.body.classList.contains("dark")) {
     document.body.classList.remove("dark");
     document.cookie = 'colorCookie=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/';
   } else {
-    document.body.classList.add("white");
-    document.cookie = 'colorCookie=white; max-age=31536000; path=/';
+    document.body.classList.add("light");
+    document.cookie = 'colorCookie=light; max-age=31536000; path=/';
   }
 }
 
@@ -63,8 +63,8 @@ function set_theme_from_cookies() {
   if (change_theme_read_cookie("tableCookie")) {
     document.body.classList.add("wikitable");
   }
-  if (change_theme_read_cookie("colorCookie") == "white") {
-    document.body.classList.add("white");
+  if (change_theme_read_cookie("colorCookie") == "light") {
+    document.body.classList.add("light");
   } else if (change_theme_read_cookie("colorCookie") == "dark") {
     document.body.classList.add("dark");
   }
