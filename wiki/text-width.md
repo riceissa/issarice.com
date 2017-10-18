@@ -13,3 +13,10 @@ When scanning a page, looking for information, it is nice to have the text
 width *wide* so that more content fits on the page. This allows the eyes to
 scan more content looking for the spot to begin reading. Otherwise the reader
 has to scroll the page while also scanning with the eyes.
+
+What if we allow the reader to freely toggle between the two? This is something
+that is now possible thanks to client-side scripting on the web. As an
+experiment, I have implemented a crude version of this idea. At the top of each
+page there is a menu item labeled "Change {text width, color, font, table}";
+clicking on "text width" will toggle between an almost-full window width and a
+more compact width.
