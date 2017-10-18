@@ -100,104 +100,49 @@ print("""<meta property="og:title" content="Task list for Issa Rice" />
   <link rel="stylesheet" href="theme.default.css">
   <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
-  <style type="text/css">
-    body {
-        background-color: #fff;
-        color: #222;
-        font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif;
-    }
-    h1 {
-        font-size: 120%;
-        text-transform: uppercase;
-    }
-    h2 { border-bottom: 1px solid #ccc; }
-    h2, h3, h4, h5, h6 { font-size: 110%; }
-    h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
-    nav { font-family: Lato, Helvetica, sans-serif; }
+  """)
 
-    /* Hyphenate inside table cells;
-     * from https://justmarkup.com/log/2015/07/dealing-with-long-words-in-css/
-     */
-    table td {
-        overflow-wrap: break-word;
-        word-wrap: break-word;
-        -webkit-hyphens: auto;
-        -ms-hyphens: auto;
-        -moz-hyphens: auto;
-        hyphens: auto;
-    }
+with open("css/solarized_light.css", "r") as f:
+    for line in f:
+        print(line, end='')
 
-    table td.payment {
-        text-align: right;
-    }
+with open("css/responsive_table.css", "r") as f:
+    for line in f:
+        print(line, end='')
 
-    /* see https://techblog.livingsocial.com/blog/2015/04/06/responsive-tables-in-pure-css/
-           https://codepen.io/anon/pen/QwPVNW */
-    @media screen and (max-width: 600px) {
-        tbody tr { border-bottom: none; }
-
-        table {
-          border: 0;
-        }
-
-        table td.payment {
-            text-align: left;
-        }
-
-        table thead {
-          display: none;
-        }
-
-        table tr {
-          margin-bottom: 10px;
-          display: block;
-          border-bottom: 2px solid #ddd;
-          padding-bottom: 5px;
-        }
-
-        table td {
-          display: block;
-          text-align: left;
-          /*font-size: 13px;*/
-          /*border-bottom: 1px dotted #ccc;*/
-          text-indent: -30px;
-          margin-left: 30px;
-        }
-
-        table td:last-child {
-          border-bottom: 0;
-        }
-
-        table td:before {
-          content: attr(data-label);
-          float: left;
-          padding-right: 40px;
-          font-weight: bold;
-        }
-    }
-  </style>
-  <title>Task list for Issa Rice</title>
+print("""<title>Task list for Issa Rice</title>
+  <script src="change-theme.js"></script>
 </head>
-<body>
-    <nav><a href="./index">Home</a>
-    | <a href="./about">About</a></nav>
-    <h1>Task list for Issa Rice</h1>
+<body class="bigtable">
+    <nav id="site_navigation"><a href="./index">Home</a>
+    | <a href="./about">About</a>
+    | <a href="./_all_date">Newest changes</a>
+    <span id="changeThemeMenu" style="display: none;">| Change
+    {<a href="#" onclick="change_theme_text_width()">text width</a>,
+     <a href="#" onclick="change_theme_color()">color</a>,
+     <a href="#" onclick="change_theme_font_family()">font</a>,
+     <a href="#" onclick="change_theme_table()">table</a>}</span>
+    </nav>
+    <main>
+    <header>
+      <h1>Task list for Issa Rice</h1>
+    </header>
     <p>This page shows completed work that I have done. Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. I have also included other <a href="https://github.com/riceissa/issarice.com/blob/master/sql/work.sql">tasks not part of contract work</a>.
        There are other tasks that are not considered “complete” but which have significant work done on them; these are not included unless payment is processed for completing some portion of the overall work (e.g. ongoing development for the donations list website or adding rows to some timeline). I have also not included a lot of schoolwork and minor tasks.</p>
     <p><a href="https://github.com/riceissa/issarice.com/blob/master/generator/tasklist.py">Source code</a> for the script that prints this page is available.</p>
     <p>Hovering over the Payment column will show a tooltip giving the payer.</p>""")
 print("<p>Showing {} tasks sorted by completion date. With JavaScript enabled, it is possible to sort by each column (unless the window is too narrow, in which case the table collapses into a “definition list” format for easier viewing).</p>".format(count))
 print("<p>This table was generated on {}.</p>".format(datetime.date.today().strftime("%B %-d, %Y")))
-print("""<table style="table-layout: fixed;width:100%;">
+print("""<table>
   <thead>
     <tr>
-      <th style="width:15%;">Task receptacle</th>
+      <th>Task receptacle</th>
       <th>Venue</th>
       <th>Completion date</th>
       <th>Payment</th>
       <th>Topic</th>
       <th>Format</th>
-      <th style="width:40%;">Notes</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>""")
@@ -209,7 +154,7 @@ for (task_receptacle, task_receptacle_url, task_type, task_venue,
         .format(task_receptacle_formatted(task_receptacle, task_receptacle_url)))
     print("""      <td data-label="Venue">{}</td>""".format(task_venue))
     print("""      <td data-label="Completion date">{}</td>""".format(completion_date))
-    print("""      <td data-label="Payment" class="payment" title="Payer: {}">{}</td>""".format(payer, payment))
+    print("""      <td data-label="Payment" style="text-align: right;" title="Payer: {}">{}</td>""".format(payer, payment))
     print("""      <td data-label="Topic">{}</td>""".format(topic))
     print("""      <td data-label="Format">{}</td>""".format(format_))
     print("""      <td data-label="Notes">{}</td>""".format(notes_transformed(notes)))
@@ -217,6 +162,7 @@ for (task_receptacle, task_receptacle_url, task_type, task_venue,
 
 print("""  </tbody>
 </table>
+</main>
 <footer>
   To the extent possible under law, Issa Rice has waived all copyright and
   related or neighboring rights to the content on this page. This work is
@@ -227,6 +173,8 @@ print("""  </tbody>
   for more information.
 </footer>
 <script>
+  document.getElementById('changeThemeMenu').style.display='inline';
+  set_theme_from_cookies();
   $(function(){
     $("table").tablesorter();
   });
