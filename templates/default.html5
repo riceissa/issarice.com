@@ -25,6 +25,11 @@ $endif$
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
   <link rel="me" href="https://github.com/riceissa" />
   <link rel="me" href="https://twitter.com/riceissa" />
+$if(bigtable)$
+  <link rel="stylesheet" href="theme.default.css">
+  <script src="jquery-latest.min.js"></script>
+  <script src="jquery.tablesorter.js"></script>
+$endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
   <style type="text/css">code{white-space: pre;}</style>
 $if(quotes)$
