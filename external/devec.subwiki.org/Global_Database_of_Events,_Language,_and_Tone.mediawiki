@@ -105,6 +105,8 @@ GDELT 2.0 Events and Mentions from <ref>{{cite web |url=http://data.gdeltproject
 
 ==Data sources==
 
+GDELT finds news articles through some process, but it's not clear what that process is.
+
 ===Auxiliary===
 
 In addition to the actual news articles, some auxiliary data sources are used for sentiment analysis and location identification.<ref>{{cite web |url=http://data.gdeltproject.org/documentation/GCAM-MASTER-CODEBOOK.TXT |title=GCAM Codebook |accessdate=October 17, 2017}}</ref>
