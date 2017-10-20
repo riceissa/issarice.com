@@ -4,11 +4,11 @@ The '''Total Economy Database''' describes itself as "a comprehensive database w
 
 ==Versions==
 
-The following versions of the database are listed in the archive or available through the "Data" page:<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=30565 |title=Total Economy Database Archive |accessdate=October 17, 2017}}</ref><ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27762 |title=Total Economy Database Data |accessdate=October 18, 2017}}</ref>
+Each release of the database comes in the form of two or three spreadsheets. These are "Output, Labor, and Labor Productivity", "Growth Accounting and Total Factor Productivity", and "Regional Aggregates". The following spreadsheets are listed in the archive or available through the "Data" page:<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=30565 |title=Total Economy Database Archive |accessdate=October 17, 2017}}</ref><ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27762 |title=Total Economy Database Data |accessdate=October 18, 2017}}</ref>
 
 {| class="sortable wikitable"
 |-
-! Data metric !! Publication date !! Years covered
+! Spreadsheet !! Publication date !! Years covered
 |-
 | Output, Labor, and Labor Productivity || January 2011 || 1950–2010
 |-
@@ -61,6 +61,60 @@ The following versions of the database are listed in the archive or available th
 | Regional Aggregates || May 2017 || 1990–2017
 |}
 
+In the devec database, use <code>name = 'Total Economy Database'</code> to find these:
+
+<pre>mysql&gt; select shortname,release_date,version from datasets
+    -&gt; where name = 'Total Economy Database';
++----------------+--------------+----------------+
+| shortname      | release_date | version        |
++----------------+--------------+----------------+
+| ted201705ollp  | 2017-05-01   | May 2017       |
+| ted201705gatfp | 2017-05-01   | May 2017       |
+| ted201705ra    | 2017-05-01   | May 2017       |
+| ted201611ollp  | 2016-11-01   | November 2016  |
+| ted201611gatfp | 2016-11-01   | November 2016  |
+| ted201611ra    | 2016-11-01   | November 2016  |
+| ted201605ollp  | 2016-05-01   | May 2016       |
+| ted201605ra    | 2016-05-01   | May 2016       |
+| ted201509ollp  | 2015-09-01   | September 2015 |
+| ted201509gatfp | 2015-09-01   | September 2015 |
+| ted201505ollp  | 2015-05-01   | May 2015       |
+| ted201505gatfp | 2015-05-01   | May 2015       |
+| ted201505ra    | 2015-05-01   | May 2015       |
+| ted201401ollp  | 2014-01-01   | January 2014   |
+| ted201401gatfp | 2014-01-01   | January 2014   |
+| ted201401ra    | 2014-01-01   | January 2014   |
+| ted201301ollp  | 2013-01-01   | January 2013   |
+| ted201301gatfp | 2013-01-01   | January 2013   |
+| ted201301ra    | 2013-01-01   | January 2013   |
+| ted201201ollp  | 2012-01-01   | January 2012   |
+| ted201201gatfp | 2012-01-01   | January 2012   |
+| ted201201ra    | 2012-01-01   | January 2012   |
+| ted201101ollp  | 2011-01-01   | January 2011   |
+| ted201101gatfp | 2011-01-01   | January 2011   |
+| ted201101ra    | 2011-01-01   | January 2011   |
++----------------+--------------+----------------+
+25 rows in set (0.01 sec)
+</pre>
+
+Here is a sample query that uses the shortnames in order to avoid typing the full database URL:
+
+<pre>mysql&gt; select metric,year,value from data where
+    -&gt; database_url in (
+    -&gt;    select url from datasets where shortname = 'ted201705ollp'
+    -&gt; ) and region = 'Algeria' limit 5;
++--------------------+------+----------------------+
+| metric             | year | value                |
++--------------------+------+----------------------+
+| GDP EKS (adjusted) | 1950 | 46727.00000000000000 |
+| GDP EKS (adjusted) | 1951 | 47054.00000000000000 |
+| GDP EKS (adjusted) | 1952 | 49156.00000000000000 |
+| GDP EKS (adjusted) | 1953 | 50231.00000000000000 |
+| GDP EKS (adjusted) | 1954 | 53175.00000000000000 |
++--------------------+------+----------------------+
+5 rows in set (0.19 sec)
+</pre>
+
 ==Data description==
 
 ==Data sources==
@@ -71,7 +125,15 @@ The following versions of the database are listed in the archive or available th
 
 ==Reception==
 
+{| class="sortable wikitable"
+! Person !! Affiliation !! Qualification !! Opinion
+|-
+| [[Paul Krugman]]<ref>{{cite web |url=https://krugman.blogs.nytimes.com/2013/04/26/debt-and-growth-data/ |author=Paul Krugman |date=April 26, 2013 |title=Debt and Growth Data |publisher=Paul Krugman Blog |accessdate=October 20, 2017}}</ref> || New York Times || Economist, columnist || Calls it "the easy source for 1950 onwards" for obtaining GDP data, and cites the database several times in blog posts<ref>{{cite web |url=https://www.google.com/search?q=%22Total%20Economy%20Database%22%20site%3Akrugman.blogs.nytimes.com |title="Total Economy Database" <nowiki>site:krugman.blogs.nytimes.com</nowiki> |website=Google Search |accessdate=October 20, 2017}}</ref>
+|}
+
 ==Usage in debates==
+
+[http://marginalrevolution.com/marginalrevolution/2013/05/do-low-wages-for-unskilled-workers-weaken-the-case-for-more-immigration.html#comment-157799709 example]
 
 ==See also==
 
