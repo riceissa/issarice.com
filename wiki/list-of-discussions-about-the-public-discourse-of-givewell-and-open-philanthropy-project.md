@@ -19,8 +19,9 @@ and Open Philanthropy Project.
 |Vipul Naik|2017-02-24|[Post sharing "Some Thoughts on Public Discourse"](https://www.facebook.com/vipulnaik.r/posts/10211138853683133)|
 |Vipul Naik|2017-08-30|[Post about Open Phil's new relationship disclosure policy](https://www.facebook.com/vipulnaik.r/posts/10212973153219475)|
 |Open Philanthropy Project|2017-08-30|["Relationship Disclosure Policy"](https://www.openphilanthropy.org/about/relationship-disclosure-policy)|
-|Issa Rice|2017-08-12|[Open Philanthropy Project donation amounts by disclosure and year]()|
+|Issa Rice|2017-08-12|[Open Philanthropy Project donation amounts by disclosure and year](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project#donorDonationAmountsByDisclosuresAndYear)|
 |Vipul Naik|2016-08-17|[Post about June 2016 GiveWell board meeting](https://www.facebook.com/vipulnaik.r/posts/10209225225323620)|
 |Issa Rice|2016-08-17|["June 2016 GiveWell board meeting"](http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/) (rough transcript/commentary)|
 |Peter Hurford|2017-08-23|[Comment on March 2017 open thread about relationship disclosures](https://www.openphilanthropy.org/blog/march-2017-open-thread?page=1#comment-314)|
 |Vipul Naik|2017-10-01|[Post that coins the term "Defensive Discourse"](https://www.facebook.com/vipulnaik.r/posts/10213263690442724)|
+|Vipul Naik|2017-07-04|[Post about GiveWell's external accountability](https://www.facebook.com/groups/GiveWellCommunity/permalink/462949240726562/)|
