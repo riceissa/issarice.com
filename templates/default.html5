@@ -156,6 +156,11 @@ $endif$
 <script>
   document.getElementById('changeThemeMenu').style.display='inline';
   set_theme_from_cookies();
+$if(bigtable)$
+  $$(function(){
+    $$("table").tablesorter();
+  });
+$endif$
   anchors.add();
 </script>
 </body>
