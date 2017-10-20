@@ -6,8 +6,11 @@ date: 2017-10-20
 bigtable: yes
 ---
 
+This page lists discussions about public discourse as it relates to GiveWell
+and Open Philanthropy Project.
+
 |Author|Date|Title|
-|--------|----|------------------------------------|
+|--------|---------|---------------------------------------|
 |Vipul Naik|2017-01-28|[Quote from "Transparency, measurement, humility"](https://www.facebook.com/vipulnaik.r/posts/10210887735205328)|
 |Holden Karnofsky|2014-09-11|["Challenges of Transparency"](https://www.openphilanthropy.org/blog/challenges-transparency)|
 |Holden Karnofsky|2016-09-16|["Update on How We're Thinking about Openness and Information Sharing"](https://www.openphilanthropy.org/blog/update-how-were-thinking-about-openness-and-information-sharing)|
