@@ -26,3 +26,4 @@ and Open Philanthropy Project.
 |Vipul Naik|2017-10-01|[Post that coins the term "Defensive Discourse"](https://www.facebook.com/vipulnaik.r/posts/10213263690442724)|
 |Vipul Naik|2017-07-04|[Post about GiveWell's external accountability](https://www.facebook.com/groups/GiveWellCommunity/permalink/462949240726562/)|The post is made in a closed group, but a [public copy](https://github.com/vipulnaik/working-drafts/blob/master/givewell/accountability.txt) is available.|
 |Vipul Naik|2017-09-25|[Post that talks about the rationalist and EA communities fetishizing uncertainty](https://www.facebook.com/vipulnaik.r/posts/10213221225461126)|The post gives GiveWell as an example.|
+|Ben Hoffman|2017-04-21|["Effective Altruism is self-recommending"](http://benjaminrosshoffman.com/effective-altruism-is-self-recommending/)|The post is not directly about public discourse, but talks about external evaluations.|
