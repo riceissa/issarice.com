@@ -167,24 +167,22 @@ body.sans { font-family: Lato, Helvetica, sans-serif; }
 body.sans h1, body.sans h2, body.sans h3, body.sans h4, body.sans h5, body.sans h6 { font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif; }
 
 body.wikitable table {
-    border-collapse: collapse;
     background-color: #f9f9f9;
+    border-collapse: collapse;
+    border-bottom: none;
+    border-top: none;
 }
 
 body.wikitable table th {
     background-color: #f2f2f2;
     border: 1px solid #aaaaaa;
+    font-weight: bold;
     padding: 5px 10px;
 }
 
 body.wikitable table td {
     border: 1px solid #aaaaaa;
     padding: 5px 10px;
-}
-
-body.wikitable table {
-    border-bottom: none;
-    border-top: none;
 }
 
 body.dark.wikitable table { background-color: #073642; }
