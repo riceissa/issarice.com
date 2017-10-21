@@ -14,7 +14,7 @@ and Open Philanthropy Project.
 |Vipul Naik|2017-01-28|[Quote from "Transparency, measurement, humility"](https://www.facebook.com/vipulnaik.r/posts/10210887735205328)|
 |Holden Karnofsky|2014-09-11|["Challenges of Transparency"](https://www.openphilanthropy.org/blog/challenges-transparency)|
 |Holden Karnofsky|2016-09-16|["Update on How We're Thinking about Openness and Information Sharing"](https://www.openphilanthropy.org/blog/update-how-were-thinking-about-openness-and-information-sharing)|
-|Jeff Kaufman|2017-09-28|["Guardedness in EA"](https://www.jefftk.com/p/guardedness-in-ea)|
+|Jeff Kaufman|2017-09-28|["Guardedness in EA"](https://www.jefftk.com/p/guardedness-in-ea)|The post is about the EA community, but highlights the shift in GiveWell's approach to public discourse as an example.|
 |Holden Karnofsky|2017-02-23|["Some Thoughts on Public Discourse"](http://effective-altruism.com/ea/17o/some_thoughts_on_public_discourse/)|
 |Vipul Naik|2017-02-24|[Post sharing "Some Thoughts on Public Discourse"](https://www.facebook.com/vipulnaik.r/posts/10211138853683133)|
 |Vipul Naik|2017-08-30|[Post about Open Phil's new relationship disclosure policy](https://www.facebook.com/vipulnaik.r/posts/10212973153219475)|
@@ -24,4 +24,5 @@ and Open Philanthropy Project.
 |Issa Rice|2016-08-17|["June 2016 GiveWell board meeting"](http://effective-altruism.com/ea/10l/june_2016_givewell_board_meeting/)|Rough transcript/commentary of the board meeting|
 |Peter Hurford|2017-08-23|[Comment on March 2017 open thread about relationship disclosures](https://www.openphilanthropy.org/blog/march-2017-open-thread?page=1#comment-314)|
 |Vipul Naik|2017-10-01|[Post that coins the term "Defensive Discourse"](https://www.facebook.com/vipulnaik.r/posts/10213263690442724)|
-|Vipul Naik|2017-07-04|[Post about GiveWell's external accountability](https://www.facebook.com/groups/GiveWellCommunity/permalink/462949240726562/)|
+|Vipul Naik|2017-07-04|[Post about GiveWell's external accountability](https://www.facebook.com/groups/GiveWellCommunity/permalink/462949240726562/)|The post is made in a closed group, but a [public copy](https://github.com/vipulnaik/working-drafts/blob/master/givewell/accountability.txt) is available.|
+|Vipul Naik|2017-09-25|[Post that talks about the rationalist and EA communities fetishizing uncertainty](https://www.facebook.com/vipulnaik.r/posts/10213221225461126)|The post gives GiveWell as an example.|
