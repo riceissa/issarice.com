@@ -4,11 +4,17 @@ The '''Total Economy Database''' describes itself as "a comprehensive database w
 
 ==Versions==
 
-Each release of the database comes in the form of two or three spreadsheets. These are "Output, Labor, and Labor Productivity", "Growth Accounting and Total Factor Productivity", and "Regional Aggregates". The following spreadsheets are listed in the archive or available through the "Data" page:<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=30565 |title=Total Economy Database Archive |accessdate=October 17, 2017}}</ref><ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27762 |title=Total Economy Database Data |accessdate=October 18, 2017}}</ref>
+As of October 2017, there have been nine releases of the Total Economy Database. Each release of the database comes in the form of two or three spreadsheets (and sometimes release notes and supplementary data files). These are "Output, Labor, and Labor Productivity", "Growth Accounting and Total Factor Productivity", and "Regional Aggregates". The following spreadsheets are listed in the archive, available through the "Data" page, or available on the Internet Archive:<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=30565 |title=Total Economy Database Archive |accessdate=October 17, 2017}}</ref><ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27762 |title=Total Economy Database Data |accessdate=October 18, 2017}}</ref><ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/ |title=The Conference Board Total Economy Database |publisher=The Conference Board |archiveurl=https://web.archive.org/web/20100708232452/https://www.conference-board.org/data/economydatabase/ |archivedate=July 8, 2010 |dead-url=yes}}</ref>
 
 {| class="sortable wikitable"
 |-
-! Spreadsheet !! Publication date !! Years covered
+! Spreadsheet !! Publication date/version !! Years covered
+|-
+| Output, Labor, and Labor Productivity Country Details || January 2010 ||1950–2009
+|-
+| Growth Accounting and Total Factor Productivity Country Details || January 2010 || 1980–2008
+|-
+| Regional Aggregates || January 2010 || 1990–2010
 |-
 | Output, Labor, and Labor Productivity || January 2011 || 1950–2010
 |-
@@ -61,7 +67,13 @@ Each release of the database comes in the form of two or three spreadsheets. The
 | Regional Aggregates || May 2017 || 1990–2017
 |}
 
-In the devec database, use <code>name = 'Total Economy Database'</code> to find these:
+The Conference Board claims the Total Economy Database began in the early 1990s and ownership transferred to the Conference Board in 2007,<ref>{{cite web |url=https://www.conference-board.org/data/economydatabase/index.cfm?id=27722 |title=About the Total Economy Database |accessdate=October 21, 2017 |quote=TED was developed by the Groningen Growth and Development Centre (University of Groningen, The Netherlands) in the early 1990s, and starting in the late 1990s, it was produced in partnership with The Conference Board. As of 2007, the database was transferred from the University of Groningen to The Conference Board, which has maintained and extended the database since then.}}</ref> so there are likely older spreadsheets that are no longer available online.
+
+==Devec database==
+
+All versions of the Total Economy Database available on the Conference Board website as of October 2017 have been imported into the devec database.<ref>{{cite web |url=https://github.com/riceissa/total-economy-database |publisher=GitHub |title=riceissa/total-economy-database |accessdate=October 20, 2017}}</ref>
+
+In the devec database, use <code>name = 'Total Economy Database'</code> to find releases of the Total Economy Database:
 
 <pre>mysql&gt; select shortname,release_date,version from datasets
     -&gt; where name = 'Total Economy Database';
@@ -123,12 +135,30 @@ Here is a sample query that uses the shortnames in order to avoid typing the ful
 
 ==Methods of estimation==
 
+==People==
+
+The Total Economy Database section of the Conference Board website does not list the names of the people who work on the database, nor does it make any acknowledgments other than for the data sources it uses.
+
+Perhaps the authors of <ref>{{cite web |url=https://www.conference-board.org/pdf_free/Productivity_TED.pdf |title=Recent Productivity Developments in the World Economy: An Overview from The Conference Board Total Economy Database |first1=Vivian |last1=Chen |first2=Abhay |last2=Gupta |first3=Andre |last3=Therrien |first4=Gad |last4=Levanon |first5=Bart |last5=van Ark |accessdate=October 21, 2017}}</ref> have something to do with TED.
+
+From the biography for Klaas de Vries: "De Vries is part of the productivity and growth research team and manages various database revisions and updates, such as the annual update of the Total Economy Database™, which covers indicators that measure the current and historical performance of labor and capital productivity for over 120 countries."<ref>{{cite web |url=https://www.conference-board.org/bio/index.cfm?bioid=3622 |title=Klaas de Vries |accessdate=October 21, 2017}}</ref>
+
+Abdul A. Erumban is listed as a contact on the TED part of the Conference Board website.
+
+The "Global Economy" experts listed on the Conference Board website are also possible.<ref>{{cite web |url=https://www.conference-board.org/about/index.cfm?id=1976 |title=Our Experts: Bringing your issues into focus |accessdate=October 21, 2017}}</ref> Bart van Ark in particular has ties to the University of Groningen.
+
+A press release lists Bart van Ark as a contact.<ref>{{cite web |url=https://www.conference-board.org/press/pressdetail.cfm?pressid=7081 |title=Global Productivity: Decade-Long Decline Comes to a Halt |date=May 17, 2017 |accessdate=October 21, 2017}}</ref>
+
+Wikipedia [[wikipedia:The Conference Board|lists]] 250 employees for the Conference Board (but does not give a citation), which might be useful in determining an upper bound of the person-hours spent preparing the database per year.
+
 ==Reception==
 
 {| class="sortable wikitable"
 ! Person !! Affiliation !! Qualification !! Opinion
 |-
-| [[Paul Krugman]]<ref>{{cite web |url=https://krugman.blogs.nytimes.com/2013/04/26/debt-and-growth-data/ |author=Paul Krugman |date=April 26, 2013 |title=Debt and Growth Data |publisher=Paul Krugman Blog |accessdate=October 20, 2017}}</ref> || New York Times || Economist, columnist || Calls it "the easy source for 1950 onwards" for obtaining GDP data, and cites the database several times in blog posts<ref>{{cite web |url=https://www.google.com/search?q=%22Total%20Economy%20Database%22%20site%3Akrugman.blogs.nytimes.com |title="Total Economy Database" <nowiki>site:krugman.blogs.nytimes.com</nowiki> |website=Google Search |accessdate=October 20, 2017}}</ref>
+| [[Paul Krugman]]<ref>{{cite web |url=https://krugman.blogs.nytimes.com/2013/04/26/debt-and-growth-data/ |author=Paul Krugman |date=April 26, 2013 |title=Debt and Growth Data |publisher=Paul Krugman Blog |accessdate=October 20, 2017}}</ref> || ''New York Times'' || Economist, columnist || Calls it "the easy source for 1950 onwards" for obtaining GDP data, and cites the database several times in blog posts<ref>{{cite web |url=https://www.google.com/search?q=%22Total%20Economy%20Database%22%20site%3Akrugman.blogs.nytimes.com |title="Total Economy Database" <nowiki>site:krugman.blogs.nytimes.com</nowiki> |website=Google Search |accessdate=October 20, 2017}}</ref>
+|-
+| Martin Wolf<ref>{{cite web |url=https://www.ft.com/content/cd1c369c-84c7-11e6-8897-2359a58ac7a5 |title=Economic ills of the UK extend well beyond Brexit |date=September 29, 2016 |publisher=[[wikipedia:Financial Times|Financial Times]] |author=Martin Wolf |accessdate=October 21, 2017}}</ref> || ''Financial Times'' || Economics commentator<ref>{{cite web |url=https://www.ft.com/comment/columnists/martin-wolf |title=Martin Wolf |publisher=[[wikipedia:Financial Times|Financial Times]] |accessdate=October 21, 2017}}</ref> || Calls the database "invaluable".
 |}
 
 ==Usage in debates==
