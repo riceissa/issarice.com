@@ -6,7 +6,7 @@ date: 2017-10-22
 bigtable: yes
 ---
 
-This page attempts to gather some crude statistics of gwern.net's metadata.
+This page attempts to gather some crude statistics of [gwern.net](https://www.gwern.net)'s metadata.
 
 # Table
 
