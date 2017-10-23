@@ -11,7 +11,7 @@ This page attempts to gather some crude statistics of [gwern.net](https://www.gw
 # Table
 
 |Title|Created|Modified|Importance|Status|Confidence|
-|--------------------------------|----------|----------|-----|----|-----|
+|----------------------------|----------|----------|----:|----|-----|
 |[Immoral Books](https://gwern.net/Immoral%20Books)|24 Jan 2010|08 Mar 2017|1|finished|unlikely|
 |[fiction/Hybrid Rainbow](https://gwern.net/fiction/Hybrid%20Rainbow)|01 Feb 2009|08 Mar 2017||finished|fiction|
 |[fiction/Insert or Abort](https://gwern.net/fiction/Insert%20or%20Abort)|02 Aug 2012|08 Mar 2017||finished|log|
