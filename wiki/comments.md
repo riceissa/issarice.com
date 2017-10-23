@@ -277,7 +277,7 @@ site.  Here are some of the better ones.
     > could, too. In addition, I’d get comments from other places (twitter, g+
     > or plain email) and since ~~I’m not a cool indieweb dev~~ it’s never
     > that many, I manually added them to posts.
-    > 
+    >
     > In other words, I started to feel like comments are just not that useful
     > anymore (caveat lector: see below) and that having a special technology
     > for it seems overkill.
@@ -289,3 +289,15 @@ site.  Here are some of the better ones.
     > this feels like throwing the baby out with the bathwater. Despite the
     > signal to noise ratio, there are conversations and exchanges that make
     > talking about things on the web worth it to me.
+
+-   [Brian Tomasik](http://reducing-suffering.org/history-of-this-website/#Blog_comments "Brian Tomasik. “History of This Website”. Essays on Reducing Suffering. Retrieved October 23, 2017."):
+
+    > I prefer to incorporate feedback into the original piece and acknowledge
+    > people for their contributions, similar to what's done during peer review
+    > of an academic paper. [...]
+    >
+    > Finally, a lot of discussion of my pieces happens on Facebook, Reddit, or
+    > other places, which makes on-blog comments less crucial.
+
+    I don't agree with the reasoning that having comments makes a site look
+    less academic.
