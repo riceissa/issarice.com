@@ -294,7 +294,16 @@ This page attempts to gather some crude statistics of gwern.net's metadata.
 
 # Source
 
-    find . -iname '*.page' | while read filename; do cat "$filename" | ./metadata.py "$filename" >> gwern_metadata.md; done
+To reproduce the table, first clone the gwern.net repository:
+
+    git clone https://github.com/gwern/gwern.net.git
+
+Then run:
+
+    find . -iname '*.page' | while read filename
+    do
+        cat "$filename" | ./metadata.py "$filename" >> temp
+    done
 
 Where `metadata.py` is:
 
