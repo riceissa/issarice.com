@@ -173,6 +173,7 @@ print("""  </tbody>
 </table>
 </main>
 <footer>
+  <br />
   <hr />
   <p>
   <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
