@@ -137,6 +137,10 @@ body.bigtable p, body.bigtable dl, body.bigtable pre, body.bigtable h2 {
 body.bigtable ul, body.bigtable ol {
     max-width: 31rem;
 }
+body.bigtable footer hr {
+    margin: 0;
+    max-width: 35rem;
+}
 @media screen and (max-width: 600px) {
     body.bigtable main, body.bigtable footer {
         margin: 0px 20px;
