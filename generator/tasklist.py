@@ -38,10 +38,14 @@ def task_receptacle_formatted(task_receptacle, task_receptacle_url):
         return """<a href="{}">{}</a>""".format(task_receptacle_url,
                 task_receptacle)
     elif task_receptacle_url and not task_receptacle_url.startswith("N/A"):
+        # Here a link can be a URL or be something like "others"
         links = task_receptacle_url.split(",")
+        for link in links:
+            if link.startswith("http") and link not in SEEN:
+                SEEN[link] = len(SEEN) + 1
         slinks = ", ".join(map(lambda x:
-            """<a href="{}" style="font-variant: small-caps;">link</a>""" \
-                    .format(x) if x.startswith("http") else x, links))
+            """<a href="{}">[{}]</a>""" \
+                    .format(x, SEEN[x]) if x.startswith("http") else x, links))
         return """{} """.format(task_receptacle) + slinks
     else:
         return task_receptacle
