@@ -169,6 +169,12 @@ print("""  </tbody>
 </table>
 </main>
 <footer>
+  <hr />
+  <p>
+  <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="./cc_public_domain.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
   To the extent possible under law, Issa Rice has waived all copyright and
   related or neighboring rights to the content on this page. This work is
   published from: United States.
@@ -176,6 +182,7 @@ print("""  </tbody>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0
     1.0 Universal Public Domain Dedication</a>
   for more information.
+  </p>
 </footer>
 <script>
   document.getElementById('changeThemeMenu').style.display='inline';
