@@ -5,6 +5,9 @@ import mysql.connector
 import datetime
 
 
+SEEN = {}
+
+
 def notes_transformed(text):
     if not text:
         return "&ndash;"
@@ -15,7 +18,9 @@ def notes_transformed(text):
         word = word.replace('"', '”')
         word = word.replace("'", "’")
         if word.startswith("http"):
-            words.append("""<a style="font-variant: small-caps;" href="{}">link</a>""".format(word))
+            if word not in SEEN:
+                SEEN[word] = len(SEEN) + 1
+            words.append("""<a href="{}">[{}]</a>""".format(word, SEEN[word]))
         elif word == "<=":
             words.append("&le;")
         elif word == ">=":
