@@ -6,7 +6,7 @@ IMAGES_DEST = $(patsubst images/%,$(OUTDIR)/%,$(IMAGES))
 STATIC_FILES = $(wildcard static/*)
 STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
 SERVER_DEST = carbon:/var/www/issarice.com/public_html
-PANDOC_FLAGS = -f markdown -t html5 --smart --base-header-level=2 --template=templates/default.html5 --include-in-header css/solarized_light.css
+PANDOC_FLAGS = -f markdown+smart -t html5 --base-header-level=2 --template=templates/default.html5 --include-in-header css/solarized_light.css
 
 .PHONY: pages
 pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work
