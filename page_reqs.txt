@@ -1,7 +1,9 @@
 - second line of .md must begin with "title: " followed by the title name,
   optionally in double quotes
 - md file name should not contain an underscore (since underscores have special
-  meaning, used for _archive) -- use hyphens instead to separate words
+  meaning, used for _archive) -- use hyphens instead to separate words. For
+  the exact algorithm used to convert page titles into page paths, see the slug
+  script: https://github.com/riceissa/dotfiles/blob/master/.local/bin/slug
 - md filename should not contain a period (since images and sitemaps have
   periods)
 - double quotes must not be in the title (use unicode if quoting is needed)
@@ -17,4 +19,3 @@
 - The first "date:" at the beginning of a line in a markdown page must specify
   the date. In practice, this means one should always specify "date:" on the
   third or fourth line.
-- there cannot be a "wiki/scraps.md" since /scraps is taken by scrap files.
