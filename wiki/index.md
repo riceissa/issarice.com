@@ -37,26 +37,27 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: September 2017 {#summary}
+# Summary of what I worked on: October 2017 {#summary}
 
 For completed tasks, see the [work page](work).
 
-In addition, during September I spent time learning about and taking notes on
-development economics. You can see [my contributions](https://devec.subwiki.org/wiki/Special:Contributions/Issa_Rice)
-on Vipul Naik's Development Economics Subwiki as well as a [Summary table of
-views on development economics](https://timelines.issarice.com/wiki/Summary_table_of_views_on_development_economics)
-that I started on Timelines Wiki (that will be moved to Development Economics
-Subwiki soon).
+In addition, during October I did more work on Vipul Naik's Development
+Economics Subwiki. You can see [my contributions](https://devec.subwiki.org/wiki/Special:Contributions/Issa_Rice).
 
-I also spent some time working on a [Timeline of the rationality community](https://timelines.issarice.com/wiki/Timeline_of_the_rationality_community),
-but this is not yet complete.
+I also started a [Timeline of economic statistics](https://timelines.issarice.com/wiki/Timeline_of_economic_statistics)
+(the current version has a lot of edits from Vipul as well).
 
-I started a [Timeline of decision theory](https://timelines.issarice.com/wiki/Timeline_of_decision_theory)
-that I hope to complete at some point.
+I've also been doing a lot of data processing work for a new development
+economics data portal. The GitHub repositories for this work are:
 
-I've been spending quite a bit of time reading about consciousness lately. I
-hope to begin producing some output from this soon but I am still figuring out
-my options.
+- [maddison-project-data](https://github.com/riceissa/maddison-project-data)
+- [penn-world-table-data](https://github.com/riceissa/penn-world-table-data)
+- [world-development-indicators](https://github.com/riceissa/world-development-indicators)
+- [total-economy-database](https://github.com/riceissa/total-economy-database)
+- [fred-processing](https://github.com/riceissa/fred-processing)
+
+Finally, I started working on a [website](https://aiwatch.issarice.com/)
+to help me (and others) get a better idea of the AI safety landscape.
 
 # Activity feeds
 
