@@ -47,15 +47,6 @@ Economics Subwiki. You can see [my contributions](https://devec.subwiki.org/wiki
 I also started a [Timeline of economic statistics](https://timelines.issarice.com/wiki/Timeline_of_economic_statistics)
 (the current version has a lot of edits from Vipul as well).
 
-I've also been doing a lot of data processing work for a new development
-economics data portal. The GitHub repositories for this work are:
-
-- [maddison-project-data](https://github.com/riceissa/maddison-project-data)
-- [penn-world-table-data](https://github.com/riceissa/penn-world-table-data)
-- [world-development-indicators](https://github.com/riceissa/world-development-indicators)
-- [total-economy-database](https://github.com/riceissa/total-economy-database)
-- [fred-processing](https://github.com/riceissa/fred-processing)
-
 Finally, I started working on a [website](https://aiwatch.issarice.com/)
 to help me (and others) get a better idea of the AI safety landscape.
 
