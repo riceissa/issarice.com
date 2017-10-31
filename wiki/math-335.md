@@ -53,22 +53,22 @@ From 7th week:
   problems are in fact no different from whiteboard interview questions
   in programming, which have been criticized well elsewhere[^whiteboard].
 
-      I will even say that because of this emphasis on cardboard-like
-      problems, I'm not getting any practice in refining my taste in
-      finding problems to work on. Indeed, each week I am thrown a new
-      set of time-consuming but straightforward and unenlightening
-      problems to work on, which certainly gives me practice with some
-      of the standard tools I am expected to know (in a similar way to, but on a more advanced than, doing many long division problems), but also completely
-      drains me of the curiosity to find interesting problems of my own
-      (this might change to some extent in 336, where a term paper on a
-      topic of one's choice is assigned).
+  I will even say that because of this emphasis on cardboard-like
+  problems, I'm not getting any practice in refining my taste in
+  finding problems to work on. Indeed, each week I am thrown a new
+  set of time-consuming but straightforward and unenlightening
+  problems to work on, which certainly gives me practice with some
+  of the standard tools I am expected to know (in a similar way to, but on a more advanced than, doing many long division problems), but also completely
+  drains me of the curiosity to find interesting problems of my own
+  (this might change to some extent in 336, where a term paper on a
+  topic of one's choice is assigned).
 
-      I should also note that my interest in math as a whole has been
-      going down steadily, which could contribute to part of why I find
-      the problems uninteresting.  In fact I am often amazed at how much
-      the other students seem to be working on the problems, and often
-      wonder if it is idiosyncratic to me that I am hopelessly bored by
-      the problems.[^pdfs]
+  I should also note that my interest in math as a whole has been
+  going down steadily, which could contribute to part of why I find
+  the problems uninteresting.  In fact I am often amazed at how much
+  the other students seem to be working on the problems, and often
+  wonder if it is idiosyncratic to me that I am hopelessly bored by
+  the problems.[^pdfs]
 
 - I've been realizing more and more that Morrow likes to discuss topics
   differently than in the book (in 334 he gave a different definition of
