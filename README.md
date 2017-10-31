@@ -3,8 +3,9 @@
 This repository hosts the files needed to compile my website,
 <https://issarice.com>.  The website is compiled from a set of (mainly) markdown
 files using Pandoc and a Makefile. Assuming one has the prerequisites to compile
-the site (Pandoc ≥1.17.1 with [pandocfilters][pf] ≥1.4.0 and GNU Make)
-just do from the shell:
+the site (Pandoc ≥2.0 with [pandocfilters][pf] ≥1.4.0 and GNU Make; there are
+also some database and Python requirements for the work page, which are harder
+to describe) just do from the shell:
 
     make fullsite
 
