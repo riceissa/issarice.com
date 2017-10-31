@@ -273,6 +273,10 @@ The Pillows:
 * The Pillows: *Horn Again*
 * The Pillows: *Wake Up! Wake Up! Wake Up!*
 
+# October 2017
+
+* Fishmans: [若いながらも歴史あり 96.3.2 \@新宿LIQUID Room](https://www.youtube.com/watch?v=eyKdWlJa4KQ)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
