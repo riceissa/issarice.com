@@ -3,6 +3,20 @@
 -- See http://pandoc.org/lua-filters.html for more information about Lua
 -- Filters.
 
+-- For debugging. From https://stackoverflow.com/a/27028488/3422337
+function dump(o)
+   if type(o) == 'table' then
+      local s = '{ '
+      for k,v in pairs(o) do
+         if type(k) ~= 'number' then k = '"'..tostring(k)..'"' end
+         s = s .. '['..tostring(k)..'] = ' .. dump(v) .. ','
+      end
+      return s .. '} '
+   else
+      return tostring(o)
+   end
+end
+
 -- Use `pandoc -f markdown -t native test.md` to get the document structure
 -- Here the "k" values are just numbers 1, 2, 3, and so on.
 -- Using "-t json" rather than "-t native" also works.
@@ -17,8 +31,17 @@ function stringify(content)
         ret = ret .. v.c
       elseif v.t == "Space" then
         ret = ret .. " "
+      elseif v.t == "SoftBreak" then
+        ret = ret .. " "
       elseif v.t == "Emph" then
         ret = ret .. stringify(v.c)
+      elseif v.t == "Quoted" then
+        -- When the type is "Quoted", we get a list where the first element is
+        -- the quote type (like "DoubleQuote") and the second element is
+        -- another list that can be processed.
+        ret = ret .. stringify(v.c[2])
+      else
+        io.stderr:write("got here: " .. tostring(v.t) .. "; " .. dump(content) .. "\n")
       end
     end
     return ret
