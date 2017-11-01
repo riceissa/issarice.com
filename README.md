@@ -24,6 +24,19 @@ Any MediaWiki files in this repository will render incorrectly on GitHub as
 well, because they use special templates that are only available on some
 MediaWiki installations (such as the English Wikipedia).
 
+## Build requirements
+
+The following are the requirements to build the site:
+
+- Pandoc ≥2.0
+- pandocfilters ≥1.4.0
+- GNU Make
+- MySQL/MariaDB (for `tasklist.py`)
+- Python 3 (for `url_filter.py` and `tasklist.py`)
+- Bash (for some of the shell scripts in `generator/`)
+- Some common command-line utilities like cat, sed, and so on (used in the
+  shell scripts)
+
 ## License
 
 The content in this repository is variously licensed.
