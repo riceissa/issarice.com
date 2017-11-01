@@ -7,7 +7,7 @@ date: 2017-10-16
 This page is about my sleep schedule, i.e. the times of day during which I
 sleep.
 
-As of October 2017, I've been going to sleep between 10 PM and 11 PM and waking
+As of October 2017, I've been going to sleep between 10 PM and 1 AM and waking
 up between 7 AM and 9 AM. I have been roughly keeping this schedule for several
 months, although I don't have a record of when exactly it began.
 
