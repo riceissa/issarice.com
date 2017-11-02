@@ -1,0 +1,11 @@
+I haven’t been consuming a lot of online essays (which I’ll consider here as the subset of blog posts that tend to be longer) lately, but based on what I’ve read in the past, I would check out the top posts on LessWrong.
+I like Bryan Caplan’s posts on EconLog, although most of them are pretty short and not very essay-like.
+gwern’s website might also be of interest: Essays - Gwern.net (http://www.gwern.net/)
+Depending on your interests, the Effective Altruism Forum might have interesting blog posts. (Some of the comment threads are also good.)
+I’ve enjoyed some of the essays by Bret Victor and Michael Nielsen.
+I’ve enjoyed Brian Tomasik’s essays (which are organized across several websites), which I have found remarkably clear and to-the-point.
+For feeds I follow, see https://issarice.com/urls.txt (https://issarice.com/urls.txt)
+I feel like I should note that I am one of the people who in the past was excited by and impressed by Slate Star Codex, but in more recent years I’ve become less excited by it. See some of the reasons at Jim Terry's answer to What are people's biggest criticisms of Slate Star Codex? (https://www.quora.com/What-are-peoples-biggest-criticisms-of-Slate-Star-Codex/answer/Jim-Terry-1)
+Elaborating a little more on why I don’t consume a lot of online essays: I feel like a lot of essays don’t get to the point quickly enough, which frustrates me. In comparison, I’ve found that wiki pages (not just on Wikipedia) have Standardized sections (http://contentcreation.issarice.com/standardized-sections/) that make them predictable, requiring fewer moments of frustratingly trying to get to the point. Here is something I said in a conversation (2017–10–29):
+>Personally I’ve soured on papers and blog posts more generally. I think it can be a good format for “stream of consciousness” things like personal reflection and plan updates, where you have something and you just want it down on paper for others (or yourself later) to look at. But for extensive research projects I think anything that doesn’t have a lot of code, graphs, tables, wiki pages that give background on concepts, etc., will seem lacking
+Of course, I still consume blog posts and papers because often that’s the only format available.
