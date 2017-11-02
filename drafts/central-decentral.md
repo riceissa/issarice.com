@@ -74,6 +74,9 @@ economic variable is fixed in favor of decentralization, the wealth variable
 automatically resolves, so that there isn't an extra variable to fix (you would
 be overspecifying the system).
 
+Carl Shulman [calls](http://effective-altruism.com/ea/1g7/in_defence_of_epistemic_modesty/cfv) some of these "Copernican moves".
+However, I am not sure if this is a standard term or one he made up on the spot.
+
 See also ["The Many Fallacies of Dualism"](http://reducing-suffering.org/the-many-fallacies-of-dualism/),
 [*Seeing Like a State*](https://en.wikipedia.org/wiki/Seeing_Like_a_State),
 [ontological crisis](https://wiki.lesswrong.com/wiki/Ontological_crisis),
