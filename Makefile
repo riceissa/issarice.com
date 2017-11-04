@@ -66,7 +66,7 @@ $(OUTDIR):
 
 $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 	pandoc $(PANDOC_FLAGS) --toc --toc-depth=4 --mathjax \
-		--filter generator/url_filter.py \
+		--lua-filter generator/url_filter.lua \
 		-M sourcefilename:"$<" \
 		-o "$@" "$<"
 
