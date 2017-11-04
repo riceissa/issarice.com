@@ -28,18 +28,20 @@ function stringify(content)
     local ret = ""
     for k, v in pairs(content) do
       if v.t == "Str" then
-        ret = ret .. v.c
+        ret = ret .. v.text
       elseif v.t == "Space" then
         ret = ret .. " "
       elseif v.t == "SoftBreak" then
         ret = ret .. " "
       elseif v.t == "Emph" then
-        ret = ret .. stringify(v.c)
+        ret = ret .. stringify(v.content)
+      elseif v.t == "Strong" then
+        ret = ret .. stringify(v.content)
       elseif v.t == "Quoted" then
         -- When the type is "Quoted", we get a list where the first element is
         -- the quote type (like "DoubleQuote") and the second element is
         -- another list that can be processed.
-        ret = ret .. stringify(v.c[2])
+        ret = ret .. stringify(v.content)
       else
         io.stderr:write("got here: " .. tostring(v.t) .. "; " .. dump(content) .. "\n")
       end
