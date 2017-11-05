@@ -153,6 +153,8 @@ From https://archive.is/dN6q4 or https://web.archive.org/web/20171102191502/http
 |-
 | 2000–2001 || || Career || Terry writes SimStructure, a physics simulation software, for H.A.R.E., his company.<ref name="tad" /> SimStructure was originally written in 1994 and called SysSim at the time.<ref name="losethos_history"/>
 |-
+| 2000 || {{dts|October 7}} || Personal || Terry is registered to vote starting this day. He is registered to vote in {{W|Clark County, Nevada}}. As of November 2017 his voter status is listed as active.<ref>{{cite web |url=https://voterrecords.com/voter/27186402/terrence-davis |title=Terrence Andrew Davis from Las Vegas, Nevada |publisher=VoterRecords.com |accessdate=November 5, 2017 |archiveurl=https://web.archive.org/web/20171105015354/https://voterrecords.com/voter/27186402/terrence-davis |archivedate=November 5, 2017 |dead-url=no}}</ref>
+|-
 | 2001–2002 || || Career || Terry works as the head software/electrical engineer for Graphic Technologies,<ref name="tad" /> which he calls "a company doing chips to allow printer cartridges to be refilled".<ref name="losethos_history" />
 |-
 | 2001 || {{dts|April 14}} || Online activity || The first Internet Archive snapshot of the H.A.R.E. SimStructure website is from this day.<ref>{{cite web |url=https://wayback.archive.org/web/20010414015853/http://www.simstructure.hare.com/ |title=Home Automation & Robotic Equipment |accessdate=March 18, 2017}}</ref>
@@ -273,7 +275,11 @@ From https://archive.is/dN6q4 or https://web.archive.org/web/20171102191502/http
 |-
 | 2017 || {{dts|August 25}} || Personal || Terry reports that he has gotten his drum set set up.<ref>{{cite web |url=http://www.templeos.org/Videos/MAH00228.MP4 |title=MAH00228.MP4 |accessdate=August 26, 2017}}</ref><ref>{{cite web |url=https://boards.4chan.org/g/thread/62091270 |title=/g/ - terry - Technology - 4chan |archiveurl=https://archive.is/rDMlZ |archivedate=August 26, 2017 |accessdate=August 26, 2017}}</ref>
 |-
+| 2017 || {{dts|August 25}} || Personal || Terry is arrested for battery/domestic violence.<ref>{{cite web |url=https://www.arrestnexus.com/records/nv-8959ccd |title=✅ Las Vegas, NV - Terrence Andrew Davis Arrested |publisher=Arrest Nexus |accessdate=November 5, 2017 |archiveurl=https://archive.is/d0RKf |archivedate=November 3, 2017 |dead-url=no}}</ref>
+|-
 | 2017 || {{dts|September 14}} || Personal || After posting no new videos for almost three weeks, Terry announces that he has gotten kicked out of his parents' house. He "got in a fight with [his father], went to jail then mental hospital", and is now "adapting to being homeless".<ref>{{cite web |url=https://archive.is/dlXvU#selection-85.63-85.247 |publisher=archive.is |title=templeos.org |date=September 14, 2017 |accessdate=September 17, 2017 |quote=I got kicked-out of my parent's house. I got in a fight with my Dad, went to jail then mental hospital. I'm adapting to being homeless. Hope to get a car to live in but no loan yet.}}</ref>
+|-
+| 2017 || {{dts|September 20}} || Personal || Terry is arrested for open/gross lewdness.<ref>{{cite web |url=https://www.arrestnexus.com/records/nv-897cff1 |title=✅ Clark County, NV - Terrence A Davis Arrested |publisher=Arrest Nexus |accessdate=November 5, 2017 |archiveurl=https://archive.is/sUQYj |archivedate=November 3, 2017 |dead-url=no}}</ref>
 |-
 | 2017 || {{dts|October 1}} || Online activity || Terry live streams from his van. This is the first live stream that streams from templeos.org (?), as well as the first live stream since he got kicked out of his parents' house (?). He uses [[wikipedia:HTTP Live Streaming|HTTP Live Streaming]] with hls.js as the client.<ref>{{cite web |url=https://github.com/video-dev/hls.js/tree/master |publisher=GitHub |title=video-dev/hls.js |accessdate=October 2, 2017}}</ref><ref>{{cite web |url=https://web.archive.org/web/20171002180355/http://templeos.org/player.html |title=player.html |accessdate=October 2, 2017}}</ref>
 |-
