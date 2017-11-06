@@ -1,0 +1,65 @@
+In the context of price indices, a '''chained calculation''' or '''chain system''' means a calculation is done one increment at a time and then multiplied to produce the index for the target date. The increment is usually a year. A chained calculation is in contrast to a fixed-base calculation that calculates the target in one shot. In this sense a chained calculation is "path-dependent".
+
+The chained version of an index may require more data points in order to calculate the index for all years. To give an example, the fixed-base version of the Laspeyres index does not require quantity data for all years (only for the base year), even to calculate the index for all years [https://en.wikipedia.org/wiki/Price_index#Relative_ease_of_calculating_the_Laspeyres_index]. In contrast, the chained version requires quantity data for all years.
+
+==History==
+
+Chain calculations were introduced in the economics literature independently by Lehr (1885) and Marshall (1887).<ref name="diewert-index-numbers" />{{rp|26}}
+
+==Examples==
+
+==When to use or avoid chained calculations==
+
+"The main advantage of the chain system is that under normal conditions, chaining will reduce the spread between the Paasche and Laspeyres indexes"<ref name="diewert-index-numbers" />{{rp|27}}
+
+"one should chain if the prices and quantities pertaining to adjacent periods are ''more similar'' than the prices and quantities of more distant periods, since this strategy will lead to a narrowing of the spread between the Paasche and Laspeyres indices at each link."<ref name="diewert-index-numbers" />{{rp|27}}
+
+==Reception==
+
+Diewert quotes Peter von der Lippe's critique of chaining that there is no spatial counterpart, i.e. that while time periods can be ordered, there is no natural way to order e.g. countries.<ref name="diewert-index-numbers">{{cite web |url=https://www.business.unsw.edu.au/research-site/centreforappliedeconomicresearch-site/Documents/E.%20Diewert%20-%20Index%20Numbers.pdf |title=Index Numbers (working paper) |date=December 16, 2006 |journal=Journal of Economic Literature Classification Numbers |author=W. Erwin Diewert |publisher=Centre for Applied Economic Research (The University of New South Wales) |accessdate=November 4, 2017}}</ref>{{rp|28}}
+
+"Nevertheless, the use of a chain index has been suggested by a number of writers, and indeed the ICP has experimented with the procedure in Phase II data. Ideally, countries should be ordered according to the similarity of their relative prices and output compositions. This might most practically be carried out by ordering them by real per capita income. This ordering would not be known precisely until the exercise was completed, but the results probably would be insensitive to minor changes in the ordering of countries."<ref>{{cite web |url=http://documents.worldbank.org/curated/en/974171468766774952/pdf/multi-page.pdf |title=World Product and Income: International Comparisons of Real Gross Product (United Nations International Comparison Project Phase III) |year=1982 |first1=Irving B. |last1=Kravis |first2=Alan |last2=Heston |first3=Robert |last3=Summers |publisher=Johns Hopkins University Press |accessdate=November 5, 2017}}</ref>{{rp|76}}
+
+==Devec database==
+
+Some data in the devec database use chained values. From the MySQL prompt:
+
+<pre>select metric,units
+from data where region = 'Japan' and (metric REGEXP 'chain' or units REGEXP 'chain')
+group by metric,units;</pre>
+
+(The <code>region = 'Japan'</code> is just to make the query run faster as region is an indexed column.)
+
+This returns:
+
+<pre>+----------------------------------------------------------------------+---------------------------------+
+| metric                                                               | units                           |
++----------------------------------------------------------------------+---------------------------------+
+| Chain-index: Real gross domestic product                             | ?                               |
+| Expenditure-side real GDP at chained PPPs                            | 2005 international dollar       |
+| Expenditure-side real GDP at chained PPPs                            | 2011 international dollar       |
+| growth rate of Real GDP Chain per capita (RGDPCH)                    | Unitless                        |
+| Output-side real GDP at chained PPPs                                 | 2005 international dollar       |
+| Output-side real GDP at chained PPPs                                 | 2011 international dollar       |
+| PPP Converted GDP Chain per equivalent adult at 2005 constant prices | 2005 international dollar       |
+| PPP Converted GDP Chain per worker at 2005 constant prices           | 2005 international dollar       |
+| PPP Converted GDP Per Capita (Chain Series), at 2005 constant prices | 2005 international dollar       |
+| Real GDP Chain per equivalent adult                                  | international dollar per person |
+| Real GDP chain per worker                                            | ? per person                    |
+| Real GDP Chain per worker                                            | international dollar per person |
+| Real GDP per capita (Constant Prices: Chain series)                  | international dollar            |
++----------------------------------------------------------------------+---------------------------------+
+13 rows in set (0.38 sec)
+</pre>
+
+==See also==
+
+==External links==
+
+* [[wikipedia:Price index#Chained vs non-chained calculations|Price index &sect; Chained vs non-chained calculations]]
+* {{W|Chained dollars}}
+* {{W|United States Chained Consumer Price Index}} (related or a different meaning of "chained"?)
+
+==References==
+
+{{reflist|30em}}
