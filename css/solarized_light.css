@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
 
 a { text-decoration: none; }
 a:link { color: #424FAE; }
-a:visited { color: #717E78; }
+a:visited { color: #53744F; }
 a:hover, a:active { text-decoration: underline; }
 a.anchorjs-link:hover, a.anchorjs-link:active { text-decoration: none; }
 
