@@ -6,21 +6,23 @@ This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to ca
 
 {| class="sortable wikitable"
 |-
-! Formula name !! Creation year !! Used in !! Superlative? !! Additive?<ref name="un-gk" />
+! Formula name !! Type !! First publication year !! Used in !! Superlative? !! Additive?<ref name="un-gk" /> !! Notes
+|-
+| Laspeyres || Bilateral ||
+|-
+| Paasche || Bilateral ||
 |-
 | GEKS-Fisher || ||
 |-
-| Geary-Khamis || ||
+| Geary&ndash;Khamis || Multilateral || 1958, 1972<ref name="diewert-index-numbers" />{{rp|33}} || ICP 1975 (Kravis, Kenessey, Heston, and Summers)
 |-
-| IDB || ||
+| Superlative method || || || || || || I think this is a ''class'' of methods defined by [[Walter Erwin Diewert]]; they are all the ones that satisfy a list of properties, see [https://en.wikipedia.org/wiki/List_of_price_index_formulas#Superlative_indices]
 |-
-| Superlative method (I think this is a ''class'' of methods defined by [[Walter Erwin Diewert]]; they are all the ones that satisfy a list of properties, see [https://en.wikipedia.org/wiki/List_of_price_index_formulas#Superlative_indices]) || ||
-|-
-| Gerardi<ref name="un-gk" /> || || EUROSTAT<ref name="un-gk">{{cite web |url=https://unstats.un.org/unsd/methods/icp/ipc7_htm.htm |title=United Nations Statistics Division |accessdate=November 3, 2017}}</ref>
+| Gerardi<ref name="un-gk" /> || || || EUROSTAT<ref name="un-gk">{{cite web |url=https://unstats.un.org/unsd/methods/icp/ipc7_htm.htm |title=United Nations Statistics Division |accessdate=November 3, 2017}}</ref>
 |-
 | Binary-Fisher<ref name="un-gk" /> || ||
 |-
-| EKS<ref name="un-gk" /> || ||
+| EKS<ref name="un-gk" /> || Multilateral ||
 |-
 | [[Walsh price index|Walsh]]<ref name="un-gk" /> || ||
 |-
@@ -28,16 +30,38 @@ This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to ca
 |-
 | Exchange rate<ref name="un-gk" /> || ||
 |-
-| Young<ref name="diewert-index-numbers">{{cite web |url=https://www.business.unsw.edu.au/research-site/centreforappliedeconomicresearch-site/Documents/E.%20Diewert%20-%20Index%20Numbers.pdf |title=5 - E. Diewert - Index Numbers |accessdate=November 4, 2017}}</ref> || ||
+| Young<ref name="diewert-index-numbers">{{cite web |url=https://www.business.unsw.edu.au/research-site/centreforappliedeconomicresearch-site/Documents/E.%20Diewert%20-%20Index%20Numbers.pdf |title=Index Numbers (working paper) |date=December 16, 2006 |journal=Journal of Economic Literature Classification Numbers |author=W. Erwin Diewert |publisher=Centre for Applied Economic Research (The University of New South Wales) |accessdate=November 4, 2017}}</ref> || ||
 |-
-| Sidgwick&ndash;Bowley<ref name="diewert-index-numbers" /> (arithmetic mean of Laspeyres and Paasche) || ||
+| Sidgwick&ndash;Bowley<ref name="diewert-index-numbers" /> || Bilateral || || || || || Arithmetic mean of Laspeyres and Paasche
 |-
-| Fisher ideal<ref name="diewert-index-numbers" /> (same as "Fisher"?) || ||
+| Fisher ideal<ref name="diewert-index-numbers" /> (same as "Fisher"?) || Bilateral || || NIPA 1999 in part of the contribution to percent change calculation<ref>{{cite web |url=https://www.bea.gov/scb/pdf/national/nipa/1999/1099niw.pdf |title=A Preview of the 1999 Comprehensive Revision of the National Income and Product Accounts: Statistical Changes, October 1999 SCB - 1099niw.pdf |first1=Brent R. |last1=Moulton |first2=Eugene P. |last2=Seskin |date=October 1999 |publisher=Survey of Current Business |accessdate=November 5, 2017}}</ref>
 |-
 | Marshall&ndash;Edgeworth<ref name="diewert-index-numbers" />{{rp|7}} || ||
 |-
-| Carli<ref name="diewert-index-numbers" />{{rp|7}} || 1764
+| Carli<ref name="diewert-index-numbers" />{{rp|7}} || Bilateral || 1764
+|-
+| Jevons<ref name="diewert-index-numbers" />{{rp|8}} || Bilateral || 1865 ||
+|-
+| Törnqvist<ref name="diewert-index-numbers" />{{rp|9}} || Bilateral || 1936 ||
+|-
+| Konüs–Byushgens<ref name="diewert-index-numbers" />{{rp|28}} || || 1926 ||
+|-
+| Star method<ref name="diewert-index-numbers" />{{rp|33}} || Multilateral ||
+|-
+| Democratic weights method<ref name="diewert-index-numbers" />{{rp|33}} || Multilateral ||
+|-
+| Plutocratic weights method<ref name="diewert-index-numbers" />{{rp|33}} || Multilateral ||
+|-
+| GEKS<ref name="diewert-index-numbers" />{{rp|33}} || Multilateral ||
+|-
+| Own share method<ref name="diewert-index-numbers" />{{rp|33}} || Multilateral ||
+|-
+| Average basket method<ref name="diewert-index-numbers" />{{rp|33}} || Multilateral ||
+|-
+| Country Product Dummy<ref name="diewert-index-numbers" />{{rp|34}} || Multilateral || 1973 ||
 |}
+
+==Notes/scratch work==
 
 "Four multilateral methods are considered in detail: (1) Walsh, (2) EKS, (3) Van Yzeren, and (4) Geary-Khamis. Each method goes beyond the binary procedures of Chapter 4 by drawing upon price and quantity data of all countries simultaneously in aggregating up from the category level. They all are base country invariant, and have the transitivity property, and can be adapted to a form that gives additive consistency. The EKS method meets the factor-reversal test. The Geary-Khamis method also satisfies the test at the GDP level. Only in a purely definitional sense (that is, by deriving either the PPPs or the quantity index indirectly) can the Walsh and Van Yzeren methods and the Gery-Khamis subaggretates be said also to meet the test."<ref>{{cite web |url=http://documents.worldbank.org/curated/en/199981467988893189/pdf/multi-page.pdf |title=World Bank Document - multi-page.pdf |accessdate=November 3, 2017}}</ref>
 
@@ -46,8 +70,21 @@ What methods do the following use?
 * OECD
 * Eurostat
 * World Bank
+* IDB
 
 chained/chain-linked vs fixed-base versions for each of the above? [https://www.oecd.org/std/prices-ppp/2424597.pdf]{{rp|6}} [https://www.um.edu.mt/__data/assets/pdf_file/0010/149266/food_imports_update.pdf]{{rp|7}}
+
+I think there's also bilateral vs multilateral versions of the above?
+
+What parameters do each ''p'' (price) or ''q'' (quantity) variables take? I have seen time period (usually ''t'' or ''n''), commodity/basic heading (''c'' or ''i''), country (''j'').
+
+A lower bound on the number of price indices: "But Walsh (1901) and Fisher (1922) presented hundreds of functional forms for bilateral price indexes".<ref name="diewert-index-numbers" /> My current understanding is that only a handful are commonly used in practice, perhaps because the others fail to satisfy nice properties.
+
+The multilateral indices can be divided into those that use binary comparisons (i.e. make use of some binary index) and ones that don't. Examples of the former are EKS and Van Yzeren. Examples of the latter are Walsh indices (apparently there are multiple).<ref>{{cite web |url=http://documents.worldbank.org/curated/en/974171468766774952/pdf/multi-page.pdf |title=World Product and Income: International Comparisons of Real Gross Product (United Nations International Comparison Project Phase III) |year=1982 |first1=Irving B. |last1=Kravis |first2=Alan |last2=Heston |first3=Robert |last3=Summers |publisher=Johns Hopkins University Press |accessdate=November 5, 2017}}</ref>{{rp|76, 77}} This is probably why Walsh is listed as both a binary and a multilateral index: there is some binary formulation, and you can probably generalize it for multilateral comparison, but that multilateral index does not use the binary comparisons from the binary version. (My guess at what's going on.)
+
+For multilateral indices, there is the question of what bilateral index it reduces to when the number of countries goes down to two.
+
+A bilateral/binary index works just as well for locations as time periods. You just need as inputs two price vectors and two quantity vectors (where the coordinates are the different goods). The two price vectors can be two periods or two countries.
 
 ==See also==
 
