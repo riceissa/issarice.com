@@ -1,12 +1,12 @@
 This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to calculate price matrices.<ref>{{cite web |url=https://en.wikipedia.org/wiki/Purchasing_power_parity#Measurement_issues |title=Purchasing power parity &sect; Measurement issues |accessdate=October 27, 2017 |publisher=English Wikipedia}}</ref>
 
-==Comparison table==
+==General comparison==
 
 <ref>{{cite web |url=https://www.princeton.edu/~deaton/downloads/PPP_Exchange_rates_may04_relabeled_mar11.pdf |title=Purchasing power parity exchange rates from household survey data: India and Indonesia |date=May 2004 |first1=Angus |last1=Deaton |first2=Jed |last2=Friedman |first3=Vivi |last3=Alatas |accessdate=October 27, 2017 |quote=Originally developed by the International Price Comparison Project for the Penn World Table (PWT), there are now a number of different variants, most notably by the OECD, Eurostat and the World Bank. Although the formulas differ, all of these PPP estimates are based on prices and quantities for each country |publisher=[[wikipedia:Princeton University|Princeton University]]}}</ref>
 
 {| class="sortable wikitable"
 |-
-! Formula name !! Type !! First publication year !! Used in !! Superlative? !! Additive?<ref name="un-gk" /> !! Notes
+! Index name !! Type !! First publication year !! Used in !! Notes
 |-
 | Laspeyres || Bilateral ||
 |-
@@ -16,7 +16,7 @@ This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to ca
 |-
 | Geary&ndash;Khamis || Multilateral || 1958, 1972<ref name="diewert-index-numbers" />{{rp|33}} || ICP 1975 (Kravis, Kenessey, Heston, and Summers)
 |-
-| Superlative method || || || || || || I think this is a ''class'' of methods defined by [[Walter Erwin Diewert]]; they are all the ones that satisfy a list of properties, see [https://en.wikipedia.org/wiki/List_of_price_index_formulas#Superlative_indices]
+| Superlative method || || || || I think this is a ''class'' of methods defined by [[Walter Erwin Diewert]]; they are all the ones that satisfy a list of properties, see [https://en.wikipedia.org/wiki/List_of_price_index_formulas#Superlative_indices]
 |-
 | Gerardi<ref name="un-gk" /> || || || EUROSTAT<ref name="un-gk">{{cite web |url=https://unstats.un.org/unsd/methods/icp/ipc7_htm.htm |title=United Nations Statistics Division |accessdate=November 3, 2017}}</ref>
 |-
@@ -26,13 +26,13 @@ This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to ca
 |-
 | [[Walsh price index|Walsh]]<ref name="un-gk" /> || ||
 |-
-| Van Yzeren<ref name="un-gk" /> || ||
+| Van Yzeren<ref name="un-gk" /> || Multilateral || || European Coal and Steel Community (1960)<ref name="icrgp1982" /> ||
 |-
 | Exchange rate<ref name="un-gk" /> || ||
 |-
 | Young<ref name="diewert-index-numbers">{{cite web |url=https://www.business.unsw.edu.au/research-site/centreforappliedeconomicresearch-site/Documents/E.%20Diewert%20-%20Index%20Numbers.pdf |title=Index Numbers (working paper) |date=December 16, 2006 |journal=Journal of Economic Literature Classification Numbers |author=W. Erwin Diewert |publisher=Centre for Applied Economic Research (The University of New South Wales) |accessdate=November 4, 2017}}</ref> || ||
 |-
-| Sidgwick&ndash;Bowley<ref name="diewert-index-numbers" /> || Bilateral || || || || || Arithmetic mean of Laspeyres and Paasche
+| Sidgwick&ndash;Bowley<ref name="diewert-index-numbers" /> || Bilateral || || || Arithmetic mean of Laspeyres and Paasche
 |-
 | Fisher ideal<ref name="diewert-index-numbers" /> (same as "Fisher"?) || Bilateral || || NIPA 1999 in part of the contribution to percent change calculation<ref>{{cite web |url=https://www.bea.gov/scb/pdf/national/nipa/1999/1099niw.pdf |title=A Preview of the 1999 Comprehensive Revision of the National Income and Product Accounts: Statistical Changes, October 1999 SCB - 1099niw.pdf |first1=Brent R. |last1=Moulton |first2=Eugene P. |last2=Seskin |date=October 1999 |publisher=Survey of Current Business |accessdate=November 5, 2017}}</ref>
 |-
@@ -58,12 +58,46 @@ This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to ca
 |-
 | Average basket method<ref name="diewert-index-numbers" />{{rp|33}} || Multilateral ||
 |-
-| Country Product Dummy<ref name="diewert-index-numbers" />{{rp|34}} || Multilateral || 1973 ||
+| Country Product Dummy<ref name="diewert-index-numbers" />{{rp|34}} || Multilateral || 1973 || ICP<ref name="icrgp1982" />{{rp|86}} ||
+|-
+| Unit-country weighting method<ref name="icrgp1982" />{{rp|78}} || Multilateral || || Common Market (1975) || Developed by Dino Gerardi. Potentially the same as the Gerardi index.
+|}
+
+==Properties of bilateral indices==
+
+{| class="sortable wikitable"
+|-
+! Formula name !!  Superlative? !! Additive?<ref name="un-gk" /> !! Transitive/circular?
+|-
+| Laspeyres || No ||
+|-
+| Paasche || No ||
+|}
+
+==Properties of multilateral indices==
+
+Comparison style is one of:
+
+* uses selective binary comparisons
+* uses binary comparisons
+* makes no use of any binary comparisons
+
+{| class="sortable wikitable"
+|-
+! Formula name !! Comparison style !! Reduces to in the case of two countries !! Base country invariant? !! Transitive? !! Matrix consistency? !! Factor-reversal test?
+|-
+| Van Yzeren || Uses binary comparisons (Fisher) || Fisher || Yes
+|-
+| EKS || Uses binary comparisons (Fisher) || Fisher || Yes
+|-
+| Walsh || || || Yes
+|-
+| Geary&ndash;Khamis || || || Yes
 |}
 
 ==Notes/scratch work==
 
-"Four multilateral methods are considered in detail: (1) Walsh, (2) EKS, (3) Van Yzeren, and (4) Geary-Khamis. Each method goes beyond the binary procedures of Chapter 4 by drawing upon price and quantity data of all countries simultaneously in aggregating up from the category level. They all are base country invariant, and have the transitivity property, and can be adapted to a form that gives additive consistency. The EKS method meets the factor-reversal test. The Geary-Khamis method also satisfies the test at the GDP level. Only in a purely definitional sense (that is, by deriving either the PPPs or the quantity index indirectly) can the Walsh and Van Yzeren methods and the Gery-Khamis subaggretates be said also to meet the test."<ref>{{cite web |url=http://documents.worldbank.org/curated/en/199981467988893189/pdf/multi-page.pdf |title=World Bank Document - multi-page.pdf |accessdate=November 3, 2017}}</ref>
+"Four multilateral methods are considered in detail: (1) Walsh, (2) EKS, (3) Van Yzeren, and (4) Geary-Khamis. Each method goes beyond the binary procedures of Chapter 4 by drawing upon price and quantity data of all countries simultaneously in aggregating up from the category level. They all are base country invariant, and have the transitivity property, and can be adapted to a form that gives additive consistency. The EKS method meets the factor-reversal test. The Geary-Khamis method also satisfies the test at the GDP level. Only in a purely definitional sense (that is, by deriving either the PPPs or the quantity index indirectly) can the Walsh and Van Yzeren methods and the Geary-Khamis subaggretates be said also to meet the test."<ref>{{cite web |url=http://documents.worldbank.org/curated/en/199981467988893189/pdf/multi-page.pdf |title=World Bank Document - multi-page.pdf |accessdate=November 3, 2017}}</ref>
 
 What methods do the following use?
 
@@ -80,7 +114,7 @@ What parameters do each ''p'' (price) or ''q'' (quantity) variables take? I have
 
 A lower bound on the number of price indices: "But Walsh (1901) and Fisher (1922) presented hundreds of functional forms for bilateral price indexes".<ref name="diewert-index-numbers" /> My current understanding is that only a handful are commonly used in practice, perhaps because the others fail to satisfy nice properties.
 
-The multilateral indices can be divided into those that use binary comparisons (i.e. make use of some binary index) and ones that don't. Examples of the former are EKS and Van Yzeren. Examples of the latter are Walsh indices (apparently there are multiple).<ref>{{cite web |url=http://documents.worldbank.org/curated/en/974171468766774952/pdf/multi-page.pdf |title=World Product and Income: International Comparisons of Real Gross Product (United Nations International Comparison Project Phase III) |year=1982 |first1=Irving B. |last1=Kravis |first2=Alan |last2=Heston |first3=Robert |last3=Summers |publisher=Johns Hopkins University Press |accessdate=November 5, 2017}}</ref>{{rp|76, 77}} This is probably why Walsh is listed as both a binary and a multilateral index: there is some binary formulation, and you can probably generalize it for multilateral comparison, but that multilateral index does not use the binary comparisons from the binary version. (My guess at what's going on.)
+The multilateral indices can be divided into those that use binary comparisons (i.e. make use of some binary index) and ones that don't. Examples of the former are EKS and Van Yzeren. Examples of the latter are Walsh indices (apparently there are multiple).<ref name="icrgp1982">{{cite web |url=http://documents.worldbank.org/curated/en/974171468766774952/pdf/multi-page.pdf |title=World Product and Income: International Comparisons of Real Gross Product (United Nations International Comparison Project Phase III) |year=1982 |first1=Irving B. |last1=Kravis |first2=Alan |last2=Heston |first3=Robert |last3=Summers |publisher=Johns Hopkins University Press |accessdate=November 5, 2017}}</ref>{{rp|76, 77}} This is probably why Walsh is listed as both a binary and a multilateral index: there is some binary formulation, and you can probably generalize it for multilateral comparison, but that multilateral index does not use the binary comparisons from the binary version. (My guess at what's going on.)
 
 For multilateral indices, there is the question of what bilateral index it reduces to when the number of countries goes down to two.
 
