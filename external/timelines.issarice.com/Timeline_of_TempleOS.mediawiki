@@ -79,6 +79,7 @@ https://boards.4chan.org/g/thread/59554516#p59568318
 ** 2017-11-03: https://archive.is/CyRJm
 ** 2017-11-04: https://archive.is/irzrP
 ** 2017-11-07: https://archive.is/uodf3
+** 2017-11-08: https://archive.is/EPf8j
 
 From https://archive.is/dN6q4 or https://web.archive.org/web/20171102191502/http://templeos.org/
 
@@ -280,7 +281,7 @@ From https://archive.is/dN6q4 or https://web.archive.org/web/20171102191502/http
 |-
 | 2017 || {{dts|August 25}} || Personal || Terry is arrested for battery/domestic violence.<ref>{{cite web |url=https://www.arrestnexus.com/records/nv-8959ccd |title=✅ Las Vegas, NV - Terrence Andrew Davis Arrested |publisher=Arrest Nexus |accessdate=November 5, 2017 |archiveurl=https://archive.is/d0RKf |archivedate=November 3, 2017 |dead-url=no}}</ref>
 |-
-| 2017 || {{dts|August 27}} || Personal || Terry is released from jail.<ref name="reddit-court-comment">{{cite web |url=https://www.reddit.com/r/TempleOS_Official/comments/7aku2v/terrence_is_wanted/dpatbiw/ |publisher=reddit |title=Terrence is Wanted • r/TempleOS_Official |accessdate=November 5, 2017 |archiveurl=https://web.archive.org/web/20171105024449/https://www.reddit.com/r/TempleOS_Official/comments/7aku2v/terrence_is_wanted/dpatbiw/ |archivedate=November 5, 2017 |dead-url=no}}</ref>
+| 2017 || {{dts|August 27}} || Personal || Terry is released from jail.<ref name="reddit-court-comment">{{cite web |url=https://www.reddit.com/r/TempleOS_Official/comments/7aku2v/terrence_is_wanted/dpatbiw/ |publisher=reddit |title=Terrence is Wanted • r/TempleOS_Official |accessdate=November 5, 2017 |archiveurl=https://web.archive.org/web/20171105024449/https://www.reddit.com/r/TempleOS_Official/comments/7aku2v/terrence_is_wanted/dpatbiw/ |archivedate=November 5, 2017 |dead-url=yes}}</ref>
 |-
 | 2017 || {{dts|September 14}} || Personal || After posting no new videos for almost three weeks, Terry announces that he has gotten kicked out of his parents' house. He "got in a fight with [his father], went to jail then mental hospital", and is now "adapting to being homeless".<ref>{{cite web |url=https://archive.is/dlXvU#selection-85.63-85.247 |publisher=archive.is |title=templeos.org |date=September 14, 2017 |accessdate=September 17, 2017 |quote=I got kicked-out of my parent's house. I got in a fight with my Dad, went to jail then mental hospital. I'm adapting to being homeless. Hope to get a car to live in but no loan yet.}}</ref>
 |-
