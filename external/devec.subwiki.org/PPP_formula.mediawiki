@@ -1,0 +1,11 @@
+A '''PPP formula''' is a method of calculating PPPs. Some other terms used to refer to the same concept are "PPP calculation method", "multilateral index", and "price index" (though "price index" can also refer to bilateral price indices). In the context of validation tables, a PPP formula may be listed under "imputation".<ref>{{cite web |url=http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1314373178597/ICP-OG_ValidationTables_v2.pdf |title=Wayback Machine |accessdate=November 9, 2017 |archiveurl=https://web.archive.org/web/20171109235427/http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1314373178597/ICP-OG_ValidationTables_v2.pdf |archivedate=November 9, 2017 |dead-url=no}}</ref>
+
+==See also==
+
+* [[Comparison of PPP formulas]]
+
+==External links==
+
+==References==
+
+{{reflist|30em}}
