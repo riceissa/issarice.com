@@ -61,6 +61,10 @@ This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to ca
 | Country Product Dummy<ref name="diewert-index-numbers" />{{rp|34}} || Multilateral || 1973 || ICP<ref name="icrgp1982" />{{rp|86}} ||
 |-
 | Unit-country weighting method<ref name="icrgp1982" />{{rp|78}} || Multilateral || || Common Market (1975) || Developed by Dino Gerardi. Potentially the same as the Gerardi index.
+|-
+| Iklé method<ref name="balk-2001" />{{rp|16}} || Multilateral || 1972
+|-
+| Iklé–Dikhanov–Balk (IDB)<ref>{{cite web |url=http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1291755426408/05_ICPBOOK_AggregationAboveBH_Final.pdf |title=MEASURING THE SIZE OF THE WORLD ECONOMY - 05_ICPBOOK_AggregationAboveBH_Final.pdf |accessdate=November 9, 2017}}</ref> ||
 |}
 
 ==Properties of bilateral indices==
@@ -84,7 +88,7 @@ Comparison style is one of:
 
 {| class="sortable wikitable"
 |-
-! Formula name !! Comparison style !! Reduces to in the case of two countries !! Base country invariant? !! Transitive? !! Matrix consistency? !! Factor-reversal test?
+! Formula name !! Comparison style !! Reduces to in the case of two countries !! Base country invariant? !! Transitive? !! Matrix consistency? !! Factor-reversal test? !! Additive?
 |-
 | Van Yzeren || Uses binary comparisons (Fisher) || Fisher || Yes
 |-
@@ -92,7 +96,7 @@ Comparison style is one of:
 |-
 | Walsh || || || Yes
 |-
-| Geary&ndash;Khamis || || || Yes
+| Geary&ndash;Khamis || || || Yes || || || || Yes (strongly)<ref name="balk-2001">{{cite web |url=https://www.oecd.org/std/prices-ppp/2424931.pdf |first=Bert M. |last=Balk |date=June 15, 2001 |title=Aggregation Methods in International Comparisons: What Have We Learned? |archiveurl=https://web.archive.org/web/20171108203336/https://www.oecd.org/std/prices-ppp/2424931.pdf |archivedate=November 8, 2017 |dead-url=no |accessdate=November 8, 2017}}</ref>{{rp|13}}
 |}
 
 ==Notes/scratch work==
@@ -119,6 +123,10 @@ The multilateral indices can be divided into those that use binary comparisons (
 For multilateral indices, there is the question of what bilateral index it reduces to when the number of countries goes down to two.
 
 A bilateral/binary index works just as well for locations as time periods. You just need as inputs two price vectors and two quantity vectors (where the coordinates are the different goods). The two price vectors can be two periods or two countries.
+
+Balk lists the following multilateral methods: GEKS, Van IJzeren, Gerardi, WFBS (weighted Fisher blended system), WDOS (Diewert's Own Share system), YKS (Kurabayashi and Sakuma), Q-YKS, GK, EWGK (equally weighted GK method), KS-S (Kurabayashi and Sakuma), SRK (Sakuma, Rao, and Kurabayashi), Sergueev, Gerardi, Iklé, Rao.<ref name="balk-2001" />
+
+One taxonomy of multilateral indices is given by Hill.<ref>{{cite web |url=http://www.roiw.org/1997/49.pdf |author=Robert J. Hill |title=A Taxonomy of Multilateral Methods for Making International Comparisons of Prices and Quantities |journal=Review of Income and Wealth |date=March 1997 |accessdate=November 8, 2017}}</ref>
 
 ==See also==
 
