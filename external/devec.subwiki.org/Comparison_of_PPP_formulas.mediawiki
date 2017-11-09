@@ -64,7 +64,7 @@ This page is a '''comparison of PPP formulas'''. A [[PPP formula]] is used to ca
 |-
 | Iklé method<ref name="balk-2001" />{{rp|16}} || Multilateral || 1972
 |-
-| Iklé–Dikhanov–Balk (IDB)<ref>{{cite web |url=http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1291755426408/05_ICPBOOK_AggregationAboveBH_Final.pdf |title=MEASURING THE SIZE OF THE WORLD ECONOMY - 05_ICPBOOK_AggregationAboveBH_Final.pdf |accessdate=November 9, 2017}}</ref> ||
+| Iklé–Dikhanov–Balk (IDB)<ref>{{cite web |url=http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1291755426408/05_ICPBOOK_AggregationAboveBH_Final.pdf |title=Measuring the Size of the World Economy - Chapter 5: Methods of Aggregation above the Basic Heading Level within Regions |author=W. Erwin Diewert |year=2011 |archiveurl=https://web.archive.org/web/20171109004616/http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1291755426408/05_ICPBOOK_AggregationAboveBH_Final.pdf |archivedate=November 9, 2017 |dead-url=no |accessdate=November 9, 2017}}</ref>{{rp|3}} ||
 |}
 
 ==Properties of bilateral indices==
