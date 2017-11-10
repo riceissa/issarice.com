@@ -1,0 +1,42 @@
+The '''Quaranta table''' is a [[validation table]] used during PPP calculation. The table [[wikipedia:Group by (SQL)|groups results by]] item or basic heading.
+
+==History==
+
+The table was first proposed by Vincenzo Quaranta for use in the European PPP program in 1990.<ref name="validation-tables">{{cite web |url=http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1314373178597/ICP-OG_ValidationTables_v2.pdf |title=Validation Tables (Draft version) |archiveurl=https://web.archive.org/web/20171110012256/http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1314373178597/ICP-OG_ValidationTables_v2.pdf |archivedate=November 10, 2017 |year=2011 |publisher=International Comparison Program |accessdate=November 10, 2017 |dead-url=no}}</ref>
+
+==Validation type==
+
+The Quaranta table computes various statistics of the data and to see if any of these are outside some safe range. Therefore it performs a logical/deductive validation. It does not require collecting new data or [[wikipedia:Training, test, and validation sets|keeping a separate dataset for use in validation]].
+
+==Validation process==
+
+<ref name="validation-tables" />{{rp|3, 4}}
+
+* Comparison of average prices
+** Exchange rate ratios
+** PPP ratios
+** Price Level Index
+* Price variation
+** Variation in PPP ratios for a [[basic heading]]
+** Variation in a country's PPP ratios for a basic heading
+** Variation in PPP ratios for an item
+** Variation in price observations
+
+"However, it must be remembered that the principal reason for calculating PPPs is the fact that when the prices of a given product are converted into a common currency unit using exchange rates, they are not in fact equal in all countries. The general leve l of prices tends to be systematically higher or lower in some countries than in others. Thus, a high or low XR price for an individual item in one country may be largely due to the fact that the general price level for that country is high or low when exc hange rates are used. It may not signal any abnormality in that particular price. For this reason, XR price ratios are less useful than PPP price ratios for validation purposes."<ref name="validation-tables" />{{rp|9}}
+
+==Usage==
+
+Quaranta tables have been used in OECD-Eurostat regional comparisons.<ref>{{cite web |url=http://siteresources.worldbank.org/ICPINT/Resources/270056-1255977254560/6483625-1291755426408/01_ICPBook_Framework_NEW.pdf |title=Measuring the Size of the World Economy - Chapter 1: The Framework of the International Comparison Program |author=D. S. Prasada Rao |year=2011 |accessdate=November 10, 2017}}</ref>{{rp|28}}
+
+==See also==
+
+* [[Dikhanov table]]
+
+==External links==
+
+* {{W|Validity (statistics)}} (Wikipedia)
+* Sometimes misspelled as [https://www.google.com/search?q=%22Quranta%20tables%22 "Quranta table"]
+
+==References==
+
+{{reflist|30em}}
