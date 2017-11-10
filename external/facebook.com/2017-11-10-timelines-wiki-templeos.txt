@@ -1,0 +1,11 @@
+Here is a timeline I've been working on since March https://timelines.issarice.com/wiki/Timeline_of_TempleOS
+
+It is a bit of an unusual timeline, so I want to elaborate on it a bit in this post.
+
+First, the timeline goes into a lot of detail about the life of the creator of TempleOS, Terry A. Davis. This level of detail on one schizophrenic programmer's life would, if the timeline were published on Wikipedia, be immediately shot down with bureaucratic rules like WP:NRS, WP:UNDUE, failure to meet WP:GNG, and so on. So I feel like I am taking full advantage of being on a self-hosted wiki and not having to play by the English Wikipedia's rules.
+
+Second, it is the most "heterophenomenological" [1] timeline on the site. What I mean by this is that it is impossible to verify most of the claims about Davis's life. Some facts, like Davis's university performance, are relatively clear, because a university transcript is available. But others, like what he was up to while homeless, are not possible to tell and independent accounts do not exist. For this reason, a lot of the events are listed just "according to Davis", and as outside observers we can only gain confidence about these events by seeing how consistent Davis's own narrative is.
+
+Third, I've benefited greatly from 4chan's technology board, /g/. The anonymous users of this board do a good job of watching Davis's live streams and other continual output, so that I can quickly narrow in on the most significant events for inclusion in the timeline. It would be impossible for me watch every update, but as long as someone somewhere watches it and relays the most important parts to /g/, I can synthesize the quotes and various links into a timeline.
+
+[1] https://en.wikipedia.org/wiki/Heterophenomenology
