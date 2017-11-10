@@ -21,7 +21,7 @@ http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Be
 http://slatestarcodex.com/feed/
 https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
-http://shlegeris.com/feed.xml
+http://shlegeris.com/feed.xml "~Buck Shlegeris"
 https://ai-alignment.com/feed
 https://arcsecond.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
