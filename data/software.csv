@@ -1,2 +1,2 @@
 software,page_url,type,first_use,current_usage,total_usage,config_filename,config_url,notes
-tmux,,,,,,,,This is my primary terminal multiplexer. When I am using the command-line, I am almost always inside a tmux session.
+tmux,,,,,,,,"This is my primary terminal multiplexer. When I am using the command-line, I am almost always inside a tmux session."
