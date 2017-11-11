@@ -118,7 +118,11 @@ $if(date)$
   <dd>$date$</dd>
 $endif$
   <dt>Last modification date</dt>
+$if(lastmodified)$
   <dd>$lastmodified$</dd>
+$else$
+  <dd>$today$</dd>
+$endif$
 $if(status)$
   <dt>Completion status</dt>
   <dd>$status$</dd>
