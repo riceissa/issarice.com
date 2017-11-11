@@ -16,7 +16,7 @@ done
 
 # These are the pages that are not wiki pages, so add them to the sitemap
 # manually.
-for path in _all _all_date work
+for path in _all _all_date work account-names
 do
     cat <<EOF >> _site/sitemap.xml
 <url>
