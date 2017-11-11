@@ -111,15 +111,24 @@ $if(title)$
 $if(subtitle)$
 <h1 class="subtitle">$subtitle$</h1>
 $endif$
+
+<dl>
 $if(date)$
-<p><em class="date">Last substantive revision: $date$</em></p>
+  <dt>Last substantive revision date</dt>
+  <dd>$date$</dd>
 $endif$
+  <dt>Last modification date</dt>
+  <dd>$lastmodified$</dd>
 $if(status)$
-<p><em>Status: $status$</em></p>
+  <dt>Completion status</dt>
+  <dd>$status$</dd>
 $endif$
 $if(belief)$
-<p><em><a href="./belief">Belief</a>: $belief$</em></p>
+  <dt><a href="./belief">Belief</a></dt>
+  <dd>$belief$</dd>
 $endif$
+</dl>
+
 </header>
 $endif$
 
