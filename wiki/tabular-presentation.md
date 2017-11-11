@@ -87,6 +87,18 @@ function.
   making the table sortable is a way to increase the number of queries readers
   can run -- and thus the number of questions they can answer.
 
+# Examples
+
+Here I list some examples of tabular things I have worked with.
+
+- [My work page](https://issarice.com/work)
+- [AI Watch](https://aiwatch.issarice.com/)
+- [Timelines Wiki main page table](https://timelines.issarice.com/wiki/Main_Page)
+- [Timelines Wiki timeline](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute) (example timeline)
+- [Beliefs site](https://beliefs.issarice.com/belief.php)
+- [Donations List website](https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project)
+  (Vipul Naik's creation, but I have helped with some of the development)
+
 # Acknowledgments
 
 A conversation with Vipul Naik inspired the creation of this page (though I had been thinking about tables before the conversation).
