@@ -68,6 +68,7 @@ $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 	pandoc $(PANDOC_FLAGS) --toc --toc-depth=4 --mathjax \
 		--lua-filter generator/url_filter.lua \
 		-M sourcefilename:"$<" \
+		-M lastmodified:$(shell git log -1 --format="%ad" --date=format:"%Y-%m-%d" -- "$<" | tr -d '\n') \
 		-o "$@" "$<"
 
 $(OUTDIR)/%: images/% | $(OUTDIR)
