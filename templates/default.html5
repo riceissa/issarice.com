@@ -112,7 +112,11 @@ $if(subtitle)$
 <h1 class="subtitle">$subtitle$</h1>
 $endif$
 
-<dl>
+<dl class="page-metadata">
+$if(created)$
+  <dt>Creation date</dt>
+  <dd>$created$</dd>
+$endif$
 $if(date)$
   <dt>Last substantive revision date</dt>
   <dd>$date$</dd>
