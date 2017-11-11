@@ -14,4 +14,16 @@ for file in wiki/*
 EOF
 done
 
+# These are the pages that are not wiki pages, so add them to the sitemap
+# manually.
+for path in _all _all_date work
+do
+    cat <<EOF >> _site/sitemap.xml
+<url>
+  <loc>https://issarice.com/$path</loc>
+  <changefreq>weekly</changefreq>
+</url>
+EOF
+done
+
 echo '</urlset>' >> _site/sitemap.xml
