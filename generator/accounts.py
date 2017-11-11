@@ -49,7 +49,7 @@ print("""<title>Task list for Issa Rice</title>
       <h1>Account names</h1>
     </header>
 <p>The following table tracks my online presence.</p>
-<p>As with software, I like to sign up for a lot of online services to try them out, even though I know I won’t continue using most of them.</p>
+<p>As with <a href="software">software</a>, I like to sign up for a lot of online services to try them out, even though I know I won’t continue using most of them.</p>
 <p>I usually use “riceissa” on most sites. This is a historical accident: when I tried to sign up for my Gmail account, “issarice” was already taken, so I picked “riceissa” instead. Since then, I’ve sort of standardized on “riceissa” for most services, although I also use “issarice”.</p>
 <p>The “current activity” column describes how much I use the service now (the past six months, say). The numbers mean:</p>
 <ul>
@@ -66,7 +66,7 @@ print("""<title>Task list for Issa Rice</title>
 <p>For activity columns, the first number is “as consumer” and the second is “as producer”.</p>
 <p>Regarding “forecasting” as a subject area versus “prediction” as a service type, at the moment they seem identical, but e.g. if a wiki about forecasting emerged, it would have a “forecasting” subject area but a “wiki” service type.</p>
 <p>The “sphere” column says something about my motivation for caring about the service or how I came to know about the service in the first place. For instance, the Machine Learning Subwiki has “Vipul Naik” as its sphere rather than “Technology” because my account creation on that wiki was a direct result of being in contact with Vipul Naik rather than my general interest in technology.</p>
-<p>The “EA/R” sphere refers to the effective altruism and rationality communities.</p>
+<p>The “EA/R” sphere refers to the <a href="effective-altruism">effective altruism</a> and <a href="rationality-community">rationality communities</a>.</p>
 <p>With JavaScript enabled, it is possible to sort the table by each column.</p>
 <p>If you like tables like these, you might enjoy looking at the <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">contract work I’ve done for Vipul Naik</a>.</p>
   <table>
