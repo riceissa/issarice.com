@@ -1,0 +1,31 @@
+'''Replication of PPP numbers''' refers to matters of replicating PPP calculations.
+
+==Motivating questions==
+
+Is it possible for an independent researcher to download a bunch of Excel spreadsheets and replicate PPP numbers on their laptop? If not, can it be done with more people/computing power/storage? Or is it not even possible in principle because the underlying data is private, or some of the calculation methods are proprietary?
+
+If PPP numbers can't be replicated even in principle or fail to replicate, how should we adjust our estimate of the reliability of PPP numbers?
+
+==OECD&ndash;Eurostat==
+
+For OECD&ndash;Eurostat PPPs, there are restrictions on the underlying data, making replication difficult:
+
+{{quotation|Underlying the comparison results are other data that users would like to access, such as the average prices used to calculate the PPPs, the individual price observations from which the average prices are derived, the detailed definitions of the products for which the price observation were collected and the PPPs, PLIs, volume measures and expenditure weights for basic headings (the lowest aggregation level for which PPPs are calculated).
+
+Only Eurostat has access to individual price observations. There are no exceptions to this, as individual price observations are covered by confidentiality restrictions . Only Eurostat, the OECD and the [national statistical institutes (NSIs)] of participating countries have unrestricted access to average prices, detailed product definitions and basic h eading data, but other users can obtain special access rights under certain conditions.
+
+The users that can obtain special access rights are those in Commission services (other than Eurostat), in OECD directorates (other than the Statistics Directorate), in government departments of participating countries and in research institutes . Special access rights have to be applied for. This involves providing a project description to Eurostat or the OECD that specifies the data requested and how they will be used a nd then, if the project is considered worthwhile, signing a declaration that states that the data will not be made public in any form and that the results of the research will not be published in more detail than the analytical category level.
+
+The responsibility for granting special access rights is shared between the NSIs of participating countries, Eurostat and the OECD depending on the number of countries involved and on whether the countries are coordinated by Eurostat or by the OECD.<ref>{{cite web |url=http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |title=FAQ about Purchasing Power Parities |date=April 12, 2012 |accessdate=November 11, 2017 |archiveurl=https://web.archive.org/web/20171111022010/http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |archivedate=November 11, 2017 |dead-url=no}}</ref>{{rp|11}}}}
+
+==See also==
+
+* [[Incentives for accuracy in GDP estimates]]
+
+==External links==
+
+* [https://andrewwhitby.com/2016/10/11/calculating-purchasing-power-parity/ "Calculating Purchasing Power Parity is easy (but doing it well is difficult)"] by Andrew Whitby
+
+==References==
+
+{{reflist|30em}}
