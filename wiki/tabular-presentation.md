@@ -7,6 +7,8 @@ date: 2017-02-25
 
 Some thoughts on how best to represent information on tables.
 
+# Styling
+
 - use grid lines or not?
 - color alternation? -- cf. [this question about zebra stripes](http://tex.stackexchange.com/questions/33758/professional-looking-tables-with-alternating-row-colors) on TeX Stack Exchange and [To use or not to use "Zebra Stripes", or Alternating Row Colors for Tables](http://ux.stackexchange.com/questions/3562/to-use-or-not-to-use-zebra-stripes-or-alternating-row-colors-for-tables) (seems to cite some research on lookups) and [Is there a better way than zebra stripes](http://ux.stackexchange.com/questions/60715/is-there-a-better-way-than-zebra-stripes) (cites research on lookups and preference)
 - use lots of examples.
