@@ -20,8 +20,8 @@ revision" date. The "last modified" date comes from version control
 
 # Table
 
-|Title|Last substantive revision|Last modified|
-|------------------------------------------------|--------------|--------------|
+|Title|Last substantive revision|Last modified|Created|
+|------------------------------------------------|--------------|--------------|--------------|
 EOF
 
 # All the "git log" commands for each file are the bottleneck of computation,
@@ -35,10 +35,11 @@ git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
         base=$(basename $filename .md)
         title=`sed -n '2{p;q}' $filename | cut -c 8- | tr -d '"'`
         date=`grep -m 1 -e '^date: ' $filename | sed -n 's/^date: \(.*\)/\1/p'`
-        echo -e "$date\t$lastmodified\t$title\t$base"
+        created=`grep -m 1 -e '^created: ' $filename | sed -n 's/^created: \(.*\)/\1/p'`
+        echo -e "$date\t$lastmodified\t$title\t$base\t$created"
     done
 } | sort -r | \
-    sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)/|[\3](\4)|\1|\2|/p'
+    sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]*\)/|[\3](\4)|\1|\2|\5|/p'
 
 cat <<EOF
 
