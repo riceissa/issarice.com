@@ -63,6 +63,9 @@ $endif$
   <script src="change-theme.js"></script>
 </head>
 <body$if(bigtable)$ class="bigtable"$endif$>
+<script>
+  set_theme_from_cookies();
+</script>
 <nav id="site_navigation">
   $if(show-pandoc-template-comments)$
   <!--
@@ -172,7 +175,6 @@ $endif$
 
 <script>
   document.getElementById('changeThemeMenu').style.display='inline';
-  set_theme_from_cookies();
 $if(bigtable)$
   $$(function(){
     $$("table").tablesorter();
