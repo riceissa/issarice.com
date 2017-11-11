@@ -30,6 +30,8 @@ body {
     font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif;
 }
 
+div.sourceLine { display:inline-block; }
+
 main, footer {
     line-height: 1.4;
     margin: auto;
@@ -49,6 +51,8 @@ nav#site_navigation {
 }
 
 footer { font-size: 80%; }
+
+dl.page-metadata { font-size: 80%; }
 
 h1 {
     font-size: 120%;
