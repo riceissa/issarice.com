@@ -124,12 +124,14 @@ $if(date)$
   <dt>Last substantive revision date</dt>
   <dd>$date$</dd>
 $endif$
-  <dt>Last modification date</dt>
+  <dt title="From version control (Git); includes trivial changes">Last modification date</dt>
 $if(lastmodified)$
   <dd>$lastmodified$</dd>
 $else$
   <dd>$today$</dd>
 $endif$
+  <dt>Generated on</dt>
+  <dd>$today$</dd>
 $if(status)$
   <dt>Completion status</dt>
   <dd>$status$</dd>
