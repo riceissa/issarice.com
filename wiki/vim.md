@@ -120,9 +120,9 @@ to be" (e.g. surround.vim, fugitive.vim, etc., are all "Vimlike" plugins).
 - Visual selection followed by `:'<,'>normal.` is really powerful (see *Practical Vim*).
 - Also see this enlightening quote by Drew Neil in *Practical Vim*:
 
-    > The start and end of the last visual selection are both recorded
-    > automatically as marks, so we might even consider Visual mode to be a
-    > fancy interface to the underlying marks feature.
+  > The start and end of the last visual selection are both recorded
+  > automatically as marks, so we might even consider Visual mode to be a
+  > fancy interface to the underlying marks feature.
 
 - Modelines: Secure Vim by disabling modelines; see "[Securing
   Vim](http://usevim.com/2012/03/28/modelines/)" and "[Turn off modeline
@@ -137,60 +137,61 @@ to be" (e.g. surround.vim, fugitive.vim, etc., are all "Vimlike" plugins).
 - Filtering span tags from Quora's HTML, assuming the HTML is in its own
   buffer; modify as necessary for parts of a buffer:
 
-    ```vim
-    " paste the raw HTML
-    :r !xclip -sel clip -t text/html -o
-    " remove span tags; may need to repeat with @: if these are nested
-    :%!pandoc -f html -t html -F ./despan.py
-    " finally convert to markdown; use gq for further formatting as
-    " necessary
-    :%!pandoc -f html -t markdown
-    ```
+  ```vim
+  " paste the raw HTML
+  :r !xclip -sel clip -t text/html -o
+  " remove span tags; may need to repeat with @: if these are nested
+  :%!pandoc -f html -t html -F ./despan.py
+  " finally convert to markdown; use gq for further formatting as
+  " necessary
+  :%!pandoc -f html -t markdown
+  ```
 
-    Here `despan.py` is the following:
+  Here `despan.py` is the following:
 
-    ```python
-    #!/usr/bin/python3
+  ```python
+  #!/usr/bin/python3
 
-    # modified from https://github.com/jgm/pandoc/issues/1893
+  # modified from https://github.com/jgm/pandoc/issues/1893
 
-    from pandocfilters import toJSONFilter, Str
+  from pandocfilters import toJSONFilter, Str
 
-    def despan(key, value, format, meta):
-        if key == 'Span':
-            return value[1]
+  def despan(key, value, format, meta):
+      if key == 'Span':
+          return value[1]
 
-    if __name__ == "__main__":
-        toJSONFilter(despan)
-    ```
+  if __name__ == "__main__":
+      toJSONFilter(despan)
+  ```
 
-    See also [Filtering out messy HTML](pandoc#filtering-out-messy-html).
+  See also [Filtering out messy HTML](pandoc#filtering-out-messy-html).
 
 - [This answer](http://superuser.com/a/716269) for setting the omnifunc even for languages that aren't well-supported by Vim. In particular, `:h ft-syntax-omni` contains a useful snippet:
 
-    ```vim
-    if has("autocmd") && exists("+omnifunc")
-    autocmd Filetype *
-            \    if &omnifunc == "" |
-            \        setlocal omnifunc=syntaxcomplete#Complete |
-            \    endif
-    endif
-    ```
+  ```vim
+  if has("autocmd") && exists("+omnifunc")
+  autocmd Filetype *
+          \    if &omnifunc == "" |
+          \        setlocal omnifunc=syntaxcomplete#Complete |
+          \    endif
+  endif
+  ```
 
 - When writing prose, it's rather convenient to load up similar files with `:args` all into the current buffer so that word completion using `C-n` and `C-p` are more relevant (as in, the top results are usually what I expect).
 - Deciding between `C-n` and `C-p` is sometimes challenging. If the completion one wants is more likely to have been just typed, then `C-p` is better, but if appears just below the current line, then `C-n` is better. But if it's unclear where in the file the completion one wants is, then it's harder to tell which to use.
 
 - Another thing that took me too long to discover: keyword completion using `Ctrl`-`x` `Ctrl`-`p` and `Ctrl`-`x` `Ctrl`-`n`; see [the Vim help section](http://vimdoc.sourceforge.net/htmldoc/insert.html#compl-current).
 However, rather than describing it as "keyword completion", I would say it is more like "predictive completion" (like on a smartphone keyboard).
+
 - In a Markdown document with reference-style links at the end of the file, add
   the current line to the list and sort it:
 
-        :+1kl | m$ | $?^$?,$sort | 'l
+      :+1kl | m$ | $?^$?,$sort | 'l
 
-    This won't work if the file has footnotes at the end instead.
-    Additionally, each reference must be on its own line, and
-    the references must be contained in a single paragraph (since we search
-    backward from the end of the buffer with `$?^$?`).
+  This won't work if the file has footnotes at the end instead.
+  Additionally, each reference must be on its own line, and
+  the references must be contained in a single paragraph (since we search
+  backward from the end of the buffer with `$?^$?`).
 
 # Working with long lines
 
