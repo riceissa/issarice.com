@@ -12,7 +12,7 @@ PANDOC_FLAGS = -f markdown+smart -t html5 --base-header-level=2 --template=templ
 pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work $(OUTDIR)/account-names
 
 .PHONY: fullsite
-fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/_all_date $(OUTDIR)/_all $(OUTDIR)/sitemap.xml pages
+fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/all-pages $(OUTDIR)/sitemap.xml pages
 
 .PHONY: sync
 sync:
@@ -44,16 +44,10 @@ deploy_archive:
 	rsync -r $(OUTDIR)/ \
 		$(SERVER_DEST)/_archive/$(shell date -Idate)-$(hash)
 
-$(OUTDIR)/_all: $(MD_PAGES) generator/all_pages.sh | $(OUTDIR)
-	./generator/all_pages.sh | \
-	pandoc $(PANDOC_FLAGS) -M title:"List of all pages on this site" \
-		-o "$@"
-
-$(OUTDIR)/_all_date: $(MD_PAGES) generator/all_date_pages.sh | $(OUTDIR)
-	bash ./generator/all_date_pages.sh | \
+$(OUTDIR)/all-pages: $(MD_PAGES) generator/all_pages_table.sh | $(OUTDIR)
+	./generator/all_pages_table.sh | \
 		pandoc $(PANDOC_FLAGS) \
-		-M title:"List of pages sorted by date of last substantive revision" \
-		-o "$@"
+		--toc -o "$@"
 
 $(OUTDIR)/sitemap.xml: $(MD_PAGES) generator/sitemap.sh | $(OUTDIR)
 	./generator/sitemap.sh
