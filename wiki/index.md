@@ -65,9 +65,7 @@ Here are some activity feeds that track what I've been working on:
   ([more detailed page with
   tables](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice))
 - [List of pages on this site, sorted by date of last substantive
-  revision](_all_date)
-- [List of all pages on this site, ordered by the date of last
-  modification](_all)
+  revision](all-pages)
 - [Recent changes on the Cause Prioritization
   Wiki](https://causeprioritization.org/_activity)
 - [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)

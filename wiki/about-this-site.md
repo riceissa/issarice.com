@@ -161,8 +161,7 @@ For details, see [Colophon]().
 
 I plan to add an Atom feed for this site at some point.
 For now, see the [list of pages on this site sorted by date of last substantive
-revision][subs] and the [list of all page on this site sorted by date of last
-modification][mod].
+revision][mod].
 
 <!-- I have an [Atom feed](http://issarice.com/atom.xml) for this site. -->
 <!-- For more ways to get updates, see [Feed](). -->
@@ -183,8 +182,7 @@ something).
 [external]: https://github.com/riceissa/issarice.com/tree/master/external
 [gh_site]: https://riceissa.github.io/
 [gwern]: http://gwern.net
-[mod]: _all
+[mod]: all-pages
 [pandoc]: http://johnmacfarlane.net/pandoc/
 [rero]: https://en.wikipedia.org/wiki/Release_early,_release_often
-[subs]: _all_date
 [cm_personal_web]: http://info.cognitomentoring.org/wiki/Creating_your_personal_website
