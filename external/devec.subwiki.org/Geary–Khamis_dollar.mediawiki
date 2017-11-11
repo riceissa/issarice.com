@@ -6,12 +6,22 @@ The '''Geary–Khamis dollar''' (also known as the '''international dollar''') i
 
 Currency conversions involving PPP can be conceptualized as a 6-place function taking as parameters:
 
-* Target currency
-* Year associated with the currency
-* Location with respect to the PPP calculation (this is almost always the location where the target currency is used; this can also be some artificial combination of multiple regions, e.g. OECD dollars are US dollars valued at average OECD price levels)<ref>{{cite web |url=http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |title=FAQ about Purchasing Power Parities |date=April 12, 2012 |accessdate=November 11, 2017 |archiveurl=https://web.archive.org/web/20171111022010/http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |archivedate=November 11, 2017 |dead-url=no}}</ref>
-* Year associated with the location (this is almost always the same as the year associated with the currency)
-* Some [[Market basket|basket of goods]]
-* [[Comparison of PPP formulas|Price index]]/aggregation method/PPP formula (could this be taken outside the unit? the different formulas can be seen to be "competing" to find the "best" PPP, so that the concept of PPP itself is independent, and this could be more of an algorithmic/empirical question. i.e. the unit might conceptually make sense without specifying a formula. A PPP value should tell a story like "[Value] is how much [target currency] from [currency year] buys in [location] during [location year]", and this story might make sense without the basket of goods and price index being specified [i.e. fixing those is still a practical question, but is not required to tell the story]. Maybe the story ''doesn't'' make sense unless you add "... where by 'buy' we mean 'buy things in this basket of goods' and by 'how much' we mean 'how much according to this conversion formula'.")
+{| class="sortable wikitable"
+|-
+! Parameter !! Unit !! Set of possible values !! Example !! Notes
+|-
+| Target currency || Whatever unit the currency is in (e.g. [[wikipedia:Yuan (currency)|yuan]] if the currency is [[wikipedia:Renminbi|renminbi]]) || {''x'' : ''x'' is a currency} = {US dollar, renminbi, ...} || US dollar ||
+|-
+| Year associated with the currency || Time || '''Z''' \ {0} || 2005 ||
+|-
+| Location with respect to the PPP calculation || Unitless || 𝒫({''x'' : ''x'' is a point on Earth}), i.e. some subset of points on Earth || United States || This is almost always the location where the target currency is used. If not, it is usually some well-known and coherent region of Earth, like Africa. This can also be some artificial combination of multiple regions, e.g. OECD dollars are US dollars valued at average OECD price levels.<ref>{{cite web |url=http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |title=FAQ about Purchasing Power Parities |date=April 12, 2012 |accessdate=November 11, 2017 |archiveurl=https://web.archive.org/web/20171111022010/http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |archivedate=November 11, 2017 |dead-url=no}}</ref>
+|-
+| Year associated with the location || Time || '''Z''' \ {0} || 2005 || (this is almost always the same as the year associated with the currency)
+|-
+| Some [[Market basket|basket of goods]] || Unitless || 𝒫(Goods), where Goods is the set of goods and 𝒫 denotes the [[wikipedia:Power set|power set]] || {[[wikipedia:Big Mac Index|McDonalds Big Mac]]} || Is a market basket really just a set? Do we need to specify weights (e.g. via sales volume) on the goods (in which case the basket is more like a set of tuples (''g'', ''w''))?
+|-
+| [[Comparison of PPP formulas|Price index]]/aggregation method/PPP formula || Unitless || {''x'' : ''x'' is a PPP formula} || Gini–Eltetö–Köves–Szulc (GEKS) method || (could this be taken outside the unit? the different formulas can be seen to be "competing" to find the "best" PPP, so that the concept of PPP itself is independent, and this could be more of an algorithmic/empirical question. i.e. the unit might conceptually make sense without specifying a formula. A PPP value should tell a story like "[Value] is how much [target currency] from [currency year] buys in [location] during [location year]", and this story might make sense without the basket of goods and price index being specified [i.e. fixing those is still a practical question, but is not required to tell the story]. Maybe the story ''doesn't'' make sense unless you add "... where by 'buy' we mean 'buy things in this basket of goods' and by 'how much' we mean 'how much according to this conversion formula'.")
+|}
 
 Only after fixing all the parameters can the unit make sense next to a number.
 
