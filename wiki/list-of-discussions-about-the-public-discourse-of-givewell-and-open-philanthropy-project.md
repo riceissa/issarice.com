@@ -28,6 +28,7 @@ and Open Philanthropy Project.
 |Jeff Kaufman|2017-09-28|["Guardedness in EA"](https://www.jefftk.com/p/guardedness-in-ea)|The post is about the EA community, but highlights the shift in GiveWell's approach to public discourse as an example.|
 |Vipul Naik|2017-10-01|[Post that coins the term "Defensive Discourse"](https://www.facebook.com/vipulnaik.r/posts/10213263690442724)|
 |Vipul Naik|2017-10-20|[Post that shares this page](https://www.facebook.com/vipulnaik.r/posts/10213412153234201)||
+|Vipul Naik|2017-11-10|[Post about grant to MIRI and its signaling implications](https://www.facebook.com/vipulnaik.r/posts/10213581410585529)||
 
 # See also
 
