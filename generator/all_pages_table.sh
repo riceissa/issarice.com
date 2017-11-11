@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# TODO: this is a hack
+# All the sed, cut, and tr filters make me uncomfortable since they depend on
+# certain bytes being in the right place (although my source files currently
+# adhere to this restriction).  However, I still prefer this to the old
+# solution of bringing in dependencies like PyYaml, parsing the whole header,
+# and then generating date-dependent pages using that.
+
 cat << EOF
 ---
 title: All pages
@@ -7,14 +14,18 @@ created: 2017-11-11
 bigtable: true
 ---
 
-This is a list of pages on this site ordered by the "last substantive revision"
-date.
+This is a list of all pages on this site ordered by the "last substantive
+revision" date. The "last modified" date comes from version control
+([Git](git)) and takes into account even insubstantial edits.
 
 # Table
 
 |Title|Last substantive revision|Last modified|
 |------------------------------------------------|--------------|--------------|
 EOF
+
+# All the "git log" commands for each file are the bottleneck of computation,
+# so that is the process we want to parallelize with GNU parallel.
 
 {
 git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
