@@ -32,7 +32,7 @@ print("""<!DOCTYPE html>
         </thead>
         <tbody>""")
 
-with open("sql/online-presence.csv", "r") as f:
+with open("data/online-presence.csv", "r") as f:
     reader = csv.DictReader(f)
     for row in reader:
         print("<tr>")

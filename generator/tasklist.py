@@ -136,7 +136,7 @@ print("""<title>Task list for Issa Rice</title>
     <header>
       <h1>Task list for Issa Rice</h1>
     </header>
-    <p>This page shows completed work that I have done. Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. I have also included other <a href="https://github.com/riceissa/issarice.com/blob/master/sql/work.sql">tasks not part of contract work</a>.
+    <p>This page shows completed work that I have done. Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. I have also included other <a href="https://github.com/riceissa/issarice.com/blob/master/data/work.sql">tasks not part of contract work</a>.
        There are other tasks that are not considered “complete” but which have significant work done on them; these are not included unless payment is processed for completing some portion of the overall work (e.g. ongoing development for the donations list website or adding rows to some timeline). I have also not included a lot of schoolwork and minor tasks.</p>
     <p>For the “Notes” column, some of the rows are entered by Vipul and
        some by me, so the “voice” of writing will be different.
