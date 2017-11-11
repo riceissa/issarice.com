@@ -1,0 +1,50 @@
+The '''Geary–Khamis dollar''' (also known as the '''international dollar''') is a hypothetical currency.
+
+==History==
+
+==As a function==
+
+Currency conversions involving PPP can be conceptualized as a 6-place function taking as parameters:
+
+* Target currency
+* Year associated with the currency
+* Location with respect to the PPP calculation (this is almost always the location where the target currency is used; this can also be some artificial combination of multiple regions, e.g. OECD dollars are US dollars valued at average OECD price levels)<ref>{{cite web |url=http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |title=FAQ about Purchasing Power Parities |date=April 12, 2012 |accessdate=November 11, 2017 |archiveurl=https://web.archive.org/web/20171111022010/http://ec.europa.eu/eurostat/documents/728703/728974/FAQ-PPP.pdf/5a92e63b-1c73-4d15-8acd-f3e5e734cbf2 |archivedate=November 11, 2017 |dead-url=no}}</ref>
+* Year associated with the location (this is almost always the same as the year associated with the currency)
+* Some [[Market basket|basket of goods]]
+* [[Comparison of PPP formulas|Price index]]/aggregation method/PPP formula (could this be taken outside the unit? the different formulas can be seen to be "competing" to find the "best" PPP, so that the concept of PPP itself is independent, and this could be more of an algorithmic/empirical question. i.e. the unit might conceptually make sense without specifying a formula. A PPP value should tell a story like "[Value] is how much [target currency] from [currency year] buys in [location] during [location year]", and this story might make sense without the basket of goods and price index being specified [i.e. fixing those is still a practical question, but is not required to tell the story]. Maybe the story ''doesn't'' make sense unless you add "... where by 'buy' we mean 'buy things in this basket of goods' and by 'how much' we mean 'how much according to this conversion formula'.")
+
+Only after fixing all the parameters can the unit make sense next to a number.
+
+Of these, the Geary–Khamis dollar [[wikipedia:Currying|partially fixes]] the parameters: it sets the target currency to the US dollar and the location to the United States. The other parameters are decided by the author of the publication. Therefore formally the Geary–Khamis dollar can be seen as a "unit schema" or "unit-producing function" that takes a year as input and outputs an actual unit.
+
+On the source side:
+
+* Source currency
+* Year associated with the currency
+
+==Difference with the US dollar for a particular year==
+
+e.g. 2000 GK dollar vs 2000 US dollar
+
+Is there a difference?
+
+==Devec database==
+
+Multiple metrics in the devec database use the Geary–Khamis dollar (at various years) for units. At the MySQL prompt:
+
+<pre>select metric,units from data
+where region = 'Japan' and units REGEXP 'international dollar'
+group by metric,units;
+</pre>
+
+The <code>where region = 'Japan'</code> is just to restrict the search space, since <code>region</code> is an indexed column in the table.
+
+==See also==
+
+==External links==
+
+* {{W|Geary–Khamis dollar}} (Wikipedia)
+
+==References==
+
+{{Reflist|30em}}
