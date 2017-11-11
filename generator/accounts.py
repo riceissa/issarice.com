@@ -40,7 +40,7 @@ print("""<title>Account names</title>
 </script>
     <nav id="site_navigation"><a href="./index">Home</a>
     | <a href="./about">About</a>
-    | <a href="./_all_date">Newest changes</a>
+    | <a href="./all-pages">Newest changes</a>
     <span id="changeThemeMenu" style="display: none;">| Change
     {<a href="#" onclick="change_theme_text_width()">text width</a>,
      <a href="#" onclick="change_theme_color()">color</a>,
