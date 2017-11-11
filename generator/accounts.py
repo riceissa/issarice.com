@@ -48,7 +48,7 @@ print("""<title>Account names</title>
     <header>
       <h1>Account names</h1>
     </header>
-<p>The following table tracks my online presence.</p>
+<p>The following table lists the account names I use on various websites. It can be used as an authoritative guide of my online presence; if you are ever unsure if an account on a website is me, you can check this table. (However, there might be a bit of a lag between when I sign up for a service and when I add it to this table.)</p>
 <p>As with <a href="software">software</a>, I like to sign up for a lot of online services to try them out, even though I know I won’t continue using most of them.</p>
 <p>I usually use “riceissa” on most sites. This is a historical accident: when I tried to sign up for my Gmail account, “issarice” was already taken, so I picked “riceissa” instead. Since then, I’ve sort of standardized on “riceissa” for most services, although I also use “issarice”.</p>
 <p>The “current activity” column describes how much I use the service now (the past six months, say). The numbers mean:</p>
@@ -57,7 +57,7 @@ print("""<title>Account names</title>
 <li>1: Use around once per month.</li>
 <li>2: More than once per week.</li>
 </ul>
-<p>The “total activity” column describes how much I have used the service across all time. The numbers mean:</p>
+<p>The “total activity” column describes how much I have used the service across all time. This is an easier measure to score higher on, because it just requires that at some point in time I used a service moderately/regularly, or that I have used the service on and off over a long period of time. The numbers mean:</p>
 <ul>
 <li>0: No activity or close to no activity.</li>
 <li>1: A small to moderate amount of activity.</li>
