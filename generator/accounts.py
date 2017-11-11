@@ -91,7 +91,7 @@ with open("data/online-presence.csv", "r") as f:
     reader = csv.DictReader(f)
     for row in reader:
         print("<tr>")
-        print("on", row["service"], len(row), file=sys.stderr)
+        # print("on", row["service"], len(row), file=sys.stderr)
         print('<td><a href="{}">{}</a></td>'.format(row["service_url"], row["service"]))
         print('<td><a href="{}">{}</a></td>'.format(row["account_url"], row["account_name"]))
         print("<td>" + row["subject_area"] + "</td>")
