@@ -28,7 +28,7 @@ with open("css/responsive_table.css", "r") as f:
     for line in f:
         print(line, end='')
 
-print("""<title>Task list for Issa Rice</title>
+print("""<title>Account names</title>
   <script src="change-theme.js"></script>
 </head>
 <body class="bigtable">
