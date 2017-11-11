@@ -24,4 +24,4 @@ git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
         echo -e "$date\t$lastmodified\t$title\t$base"
     done
 } | sort -r | \
-    sed -n 's/\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)/|[\3](\4)|\1|\2|/p'
+    sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)/|[\3](\4)|\1|\2|/p'
