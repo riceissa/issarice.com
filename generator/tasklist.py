@@ -123,6 +123,9 @@ print("""<title>Task list for Issa Rice</title>
   <script src="change-theme.js"></script>
 </head>
 <body class="bigtable">
+<script>
+  set_theme_from_cookies();
+</script>
     <nav id="site_navigation"><a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./_all_date">Newest changes</a>
@@ -199,7 +202,6 @@ print("""  </tbody>
 </footer>
 <script>
   document.getElementById('changeThemeMenu').style.display='inline';
-  set_theme_from_cookies();
   $(function(){
     $("table").tablesorter();
   });
