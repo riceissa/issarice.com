@@ -78,10 +78,10 @@ print("""<title>Account names</title>
         <th>Sphere</th>
         <th>Service type</th>
         <th>Join date</th>
-        <th align="right">Current activity (as consumer)</th>
-        <th align="right">Current activity (as producer)</th>
-        <th align="right">Total activity (as consumer)</th>
-        <th align="right">Total activity (as producer)</th>
+        <th>Current activity (as consumer)</th>
+        <th>Current activity (as producer)</th>
+        <th>Total activity (as consumer)</th>
+        <th>Total activity (as producer)</th>
         <th>Notes</th>
         </tr>
         </thead>
@@ -98,10 +98,10 @@ with open("data/online-presence.csv", "r") as f:
         print('<td data-label="Sphere">' + row["sphere"] + "</td>")
         print('<td data-label="Service type">' + row["service_type"] + "</td>")
         print('<td data-label="Join date">' + row["join_date"] + "</td>")
-        print('<td data-label="Current activity (as consumer)">' + row["current_activity_as_consumer"] + "</td>")
-        print('<td data-label="Current activity (as producer)">' + row["current_activity_as_producer"] + "</td>")
-        print('<td data-label="Total activity (as consumer)">' + row["total_activity_as_consumer"] + "</td>")
-        print('<td data-label="Total activity (as producer)">' + row["total_activity_as_producer"] + "</td>")
+        print('<td data-label="Current activity (as consumer)" style="text-align: right;">' + row["current_activity_as_consumer"] + "</td>")
+        print('<td data-label="Current activity (as producer)" style="text-align: right;">' + row["current_activity_as_producer"] + "</td>")
+        print('<td data-label="Total activity (as consumer)" style="text-align: right;">' + row["total_activity_as_consumer"] + "</td>")
+        print('<td data-label="Total activity (as producer)" style="text-align: right;">' + row["total_activity_as_producer"] + "</td>")
         print('<td data-label="Notes">' + row["notes"] + "</td>")
         print("</tr>")
 
