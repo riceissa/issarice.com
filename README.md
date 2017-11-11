@@ -1,11 +1,10 @@
 # Source for issarice.com
 
 This repository hosts the files needed to compile my website,
-<https://issarice.com>.  The website is compiled from a set of (mainly) markdown
-files using Pandoc and a Makefile. Assuming one has the prerequisites to compile
-the site (Pandoc ≥2.0 with [pandocfilters][pf] ≥1.4.0 and GNU Make; there are
-also some database and Python requirements for the work page, which are harder
-to describe) just do from the shell:
+<https://issarice.com>.  The website is compiled from a set of (mainly)
+markdown files using Pandoc and a Makefile. Assuming one has the prerequisites
+to compile the site (see [build requirements](#build-requirements) below) just
+do from the shell:
 
     make fullsite
 
@@ -29,7 +28,6 @@ MediaWiki installations (such as the English Wikipedia).
 The following are the requirements to build the site:
 
 - Pandoc ≥2.0
-- pandocfilters ≥1.4.0
 - GNU Make
 - MySQL/MariaDB (for `tasklist.py`)
 - Python 3 (for `url_filter.py` and `tasklist.py`)
@@ -117,4 +115,3 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/
 [cool]: http://www.w3.org/TR/cooluris/
 [pd_html5]: https://github.com/jgm/pandoc-templates/blob/master/default.html5
-[pf]: https://github.com/jgm/pandocfilters
