@@ -5,6 +5,9 @@ import sys
 import datetime
 
 
+# Change this after each substantive revision
+substantive_rev = "2017-11-11"
+
 print("""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +15,7 @@ print("""<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <meta name="author" content="Issa Rice">""")
 print("""<meta name="dcterms.date" content="{}">""".format(
-      datetime.date.today().strftime("%Y-%m-%d")))
+      substantive_rev))
 print("""<meta property="og:title" content="Account names" />
   <meta property="og:locale" content="en_US" />
   <meta property="article:author" content="https://www.facebook.com/riceissa" />
@@ -50,9 +53,11 @@ print("""<title>Account names</title>
       <dl class="page-metadata">
         <dt>Creation date</dt>
         <dd>2016-11-13</dd>
-        <dt>Last substantive revision date</dt>
-        <dd>2017-11-11</dd>
-      </dl>
+        <dt>Last substantive revision date</dt>""")
+print("<dd>{}</dd>".format(substantive_rev))
+print("""<dt>Generated on</dt>""")
+print("<dd>{}</dd>".format(datetime.date.today().strftime("%Y-%m-%d")))
+print("""</dl>
     </header>
 <p>The following table lists the account names I use on various websites. It can be used as an authoritative guide of my online presence; if you are ever unsure if an account on a website is me, you can check this table. (However, there might be a bit of a lag between when I sign up for a service and when I add it to this table.)</p>
 <p>As with <a href="software">software</a>, I like to sign up for a lot of online services to try them out, even though I know I won’t continue using most of them.</p>
