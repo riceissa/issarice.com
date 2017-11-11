@@ -1,0 +1,31 @@
+'''Index number theory''' is a field of economics that studies index numbers. It formulates new indices, describes/proves properties that these indices have, and makes recommendations of when to use each index.
+
+Names I keep seeing: Diewert, Balk, Summers, Heston, Geary, Khamis, Sergeev, Fisher.
+
+==History==
+
+==Why the field even exists==
+
+* There are literally hundreds of price indices, so discovering them and writing about their properties takes some work. In at least one case (GEKS multilateral index), an index was independently rediscovered decades later, so this isn't trivial work.
+* There are various properties that indices can satisfy, and you can't have all of them, so you have to pick the right one for your situation; specifying this decision procedure takes some work. "As with bilateral price indexes, there are a number of properties that multilateral index numbers should ideally satisfy, and since these typically cannot all be satisfied simultaneously, analysts are forced to choose guided by the purpose of the index."<ref>{{cite web |url=https://www.princeton.edu/~deaton/downloads/PPP_Exchange_rates_may04_relabeled_mar11.pdf |title=Purchasing power parity exchange rates from household survey data: India and Indonesia |date=May 2004 |first1=Angus |last1=Deaton |first2=Jed |last2=Friedman |first3=Vivi |last3=Alatas |accessdate=October 27, 2017}}</ref>{{rp|5}}
+* Practically, we want to have nice things like PPP tables ([[International Comparison Program]], [[Penn World Table]], [[Maddison Project]]), price level information, cost of living information, and so on (and why do we want those things? because that's how you make certain decisions and learn about the world). But having this stuff means you have to do the calculation in the first place, and the calculation requires that you have some sort of price index.
+
+==Approaches==
+
+Some approaches to index number theory are:
+
+* Axiomatic
+* Test-based
+* Stochastic?
+
+==See also==
+
+* [[Comparison of PPP formulas]]
+
+==External links==
+
+* {{T|Timeline of economic statistics}}
+
+==References==
+
+{{reflist|30em}}
