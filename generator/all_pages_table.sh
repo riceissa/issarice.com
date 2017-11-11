@@ -4,10 +4,13 @@ cat << EOF
 ---
 title: All pages
 created: 2017-11-11
+bigtable: true
 ---
 
 This is a list of pages on this site ordered by the "last substantive revision"
 date.
+
+# Table
 
 |Title|Last substantive revision|Last modified|
 |------------------------------------------------|--------------|--------------|
@@ -25,3 +28,10 @@ git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
     done
 } | sort -r | \
     sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)/|[\3](\4)|\1|\2|/p'
+
+cat <<EOF
+
+# See also
+
+- [Gwern.net metadata table](gwern-net-metadata-table)
+EOF
