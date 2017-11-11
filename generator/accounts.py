@@ -47,6 +47,12 @@ print("""<title>Account names</title>
     <main>
     <header>
       <h1>Account names</h1>
+      <dl class="page-metadata">
+        <dt>Creation date</dt>
+        <dd>2016-11-13</dd>
+        <dt>Last substantive revision date</dt>
+        <dd>2017-11-11</dd>
+      </dl>
     </header>
 <p>The following table lists the account names I use on various websites. It can be used as an authoritative guide of my online presence; if you are ever unsure if an account on a website is me, you can check this table. (However, there might be a bit of a lag between when I sign up for a service and when I add it to this table.)</p>
 <p>As with <a href="software">software</a>, I like to sign up for a lot of online services to try them out, even though I know I won’t continue using most of them.</p>
