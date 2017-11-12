@@ -20,8 +20,8 @@ revision" date. The "last modified" date comes from version control
 
 # Table
 
-|Title|Last substantive revision|Last modified|Created|
-|------------------------------------------------|--------------|--------------|--------------|
+|Title|Last substantive revision|Last modified|Created|Belief|Completion status|
+|------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
 EOF
 
 # All the "git log" commands for each file are the bottleneck of computation,
@@ -36,10 +36,12 @@ git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
         title=`sed -n '2{p;q}' $filename | cut -c 8- | tr -d '"'`
         date=`grep -m 1 -e '^date: ' $filename | sed -n 's/^date: \(.*\)/\1/p'`
         created=`grep -m 1 -e '^created: ' $filename | sed -n 's/^created: \(.*\)/\1/p'`
-        echo -e "$date\t$lastmodified\t$title\t$base\t$created"
+        belief=`grep -m 1 -e '^belief: ' $filename | sed -n 's/^belief: \(.*\)/\1/p'`
+        compstatus=`grep -m 1 -e '^status: ' $filename | sed -n 's/^status: \(.*\)/\1/p'`
+        echo -e "$date\t$lastmodified\t$title\t$base\t$created\t$belief\t$compstatus"
     done
 } | sort -r | \
-    sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]*\)/|[\3](\4)|\1|\2|\5|/p'
+    sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]*\)\t\([^\t]*\)\t\([^\t]*\)/|[\3](\4)|\1|\2|\5|\6|\7|/p'
 
 cat <<EOF
 
