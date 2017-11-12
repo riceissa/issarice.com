@@ -103,7 +103,7 @@ print("""<!DOCTYPE html>
   <meta name="author" content="Issa Rice">""")
 print("""<meta name="dcterms.date" content="{}">""".format(
       datetime.date.today().strftime("%Y-%m-%d")))
-print("""<meta property="og:title" content="Task list for Issa Rice" />
+print("""<meta property="og:title" content="Work" />
   <meta property="og:locale" content="en_US" />
   <meta property="article:author" content="https://www.facebook.com/riceissa" />
   <link rel="stylesheet" href="theme.default.css">
@@ -119,7 +119,7 @@ with open("css/responsive_table.css", "r") as f:
     for line in f:
         print(line, end='')
 
-print("""<title>Task list for Issa Rice</title>
+print("""<title>Work</title>
   <script src="change-theme.js"></script>
 </head>
 <body class="bigtable">
@@ -137,7 +137,13 @@ print("""<title>Task list for Issa Rice</title>
     </nav>
     <main>
     <header>
-      <h1>Task list for Issa Rice</h1>
+      <h1>Work</h1>
+      <dl class="page-metadata">
+        <dt>Creation date</dt>
+        <dd>2017-08-21</dd>""")
+print("""<dt>Generated on</dt>""")
+print("<dd>{}</dd>".format(datetime.date.today().strftime("%Y-%m-%d")))
+print("""</dl>
     </header>
     <p>This page shows completed work that I have done. Most of the data is from <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">Vipul Naik’s contract work portal</a>. I have also included other <a href="https://github.com/riceissa/issarice.com/blob/master/data/work.sql">tasks not part of contract work</a>.
        There are other tasks that are not considered “complete” but which have significant work done on them; these are not included unless payment is processed for completing some portion of the overall work (e.g. ongoing development for the donations list website or adding rows to some timeline). I have also not included a lot of schoolwork and minor tasks.</p>
@@ -152,7 +158,6 @@ print("""<title>Task list for Issa Rice</title>
     <p><a href="https://github.com/riceissa/issarice.com/blob/master/generator/tasklist.py">Source code</a> for the script that prints this page is available.</p>
     <p>Hovering over the Payment column will show a tooltip giving the payer.</p>""")
 print("<p>Showing {} tasks sorted by completion date. With JavaScript enabled, it is possible to sort by each column (unless the window is too narrow, in which case the table collapses into a “definition list” format for easier viewing).</p>".format(count))
-print("<p>This table was last generated on {}.</p>".format(datetime.date.today().strftime("%B %-d, %Y")))
 print("""<table>
   <thead>
     <tr>
