@@ -716,6 +716,20 @@ can learn a lot about the most exciting things that are happening.
     - Michael Huemer
     - Eliezer Yudkowsky
     - Gary Drescher (*Good and Real*)
+
+      From [MIRI's old recommended courses page](https://web.archive.org/web/20140403193242/http://intelligence.org/courses):
+
+      > Good and Real
+      >
+      > A surprisingly thoughtful book on decision theory and other paradoxes
+      > in physics and math that can be dissolved. Reading this book is 100%
+      > better than continuing to go through your life with a hazy
+      > understanding of how important things like free will, choice, and
+      > meaning actually work.
+      >
+      > I recommend reading this right around the time you finish up your
+      > quantum computing course.
+
     - Nick Bostrom
     - Robin Hanson
     - Holden Karnofsky (see his GiveWell blog posts as well as his Harvard reunion speech in 2013)
