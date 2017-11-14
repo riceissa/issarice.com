@@ -15,7 +15,9 @@ http://effective-altruism.com/user/Carl_Shulman/comments/.rss
 http://effective-altruism.com/user/Wei_Dai/.rss
 http://reflectivedisequilibrium.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
+https://intelligence.org/blog/feed/
 http://aiimpacts.org/feed/
+http://rationality.org/feed.xml
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
 http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Ben Hoffman"
 http://slatestarcodex.com/feed/
