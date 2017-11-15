@@ -2,9 +2,8 @@
 title: Issa Rice
 author: Issa Rice
 toc: false
-# Do not show, since this is a "timeless" page
-#created: 2014-09-13
-#date: 2017-04-02
+created: 2014-09-13
+date: 2017-10-31
 ---
 
 This is the website of myself, Issa Rice. This site stores biographical information
