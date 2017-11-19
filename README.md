@@ -30,8 +30,8 @@ The following are the requirements to build the site:
 - Pandoc ≥2.0
 - GNU Make
 - GNU Parallel
-- MySQL/MariaDB (for `tasklist.py`)
-- Python 3 (for `url_filter.py` and `tasklist.py`)
+- MySQL/MariaDB (for `work.py`)
+- Python 3 (for `url_filter.py` and `work.py`)
 - Bash (for some of the shell scripts in `generator/`)
 - Some common command-line utilities like cat, sed, and so on (used in the
   shell scripts)

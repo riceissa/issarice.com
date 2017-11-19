@@ -71,8 +71,8 @@ $(OUTDIR)/%: images/% | $(OUTDIR)
 $(OUTDIR)/%: static/% | $(OUTDIR)
 	cp "$<" "$@"
 
-$(OUTDIR)/work: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/tasklist.py | $(OUTDIR)
-	./generator/tasklist.py > "$@"
+$(OUTDIR)/work: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/work.py | $(OUTDIR)
+	./generator/work.py > "$@"
 
 $(OUTDIR)/account-names: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/accounts.py data/online-presence.csv | $(OUTDIR)
 	./generator/accounts.py > "$@"
