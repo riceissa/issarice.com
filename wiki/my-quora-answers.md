@@ -2123,7 +2123,7 @@ added, so the latter date should be pretty precise.)
 
 # How should I properly pronounce your name?
 
-See [How should I properly pronounce your name?]()
+See [Name]().
 
 # Does anyone want a Seattle Quora Meetup for April 2014?
 
