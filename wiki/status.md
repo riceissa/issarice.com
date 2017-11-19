@@ -64,6 +64,7 @@ I compose several different kinds of documents:
   This is useful for others to know "where I'm coming from".
 - An ["ignorant thinking"](https://meteuphoric.wordpress.com/2011/08/27/in-defence-of-ignorant-thinking/ "Katja Grace. “In defence of ignorant thinking”. Meteuphoric. WordPress.com. August 28, 2011. Retrieved November 19, 2017.") piece where I try to combine my life experience, "first principles" thinking, and general reasoning ability to try to come to some conclusion on a topic *without* doing deep reading.
 - A random though I have e.g. while working on some other thing, or while daydreaming, or while taking a shower or something, where I don't expect it to be a high quality thought but where, *in the moment* the idea excites me and I wish to record it somewhere.
+- School assignments where I don't have much choice about how to go about implementing the piece.
 
 Some tricky things with categorizing pieces of writing with the above:
 
