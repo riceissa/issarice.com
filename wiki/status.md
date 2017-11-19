@@ -57,6 +57,7 @@ I compose several different kinds of documents:
 
 - A blog post or paper that tries to comprehensively argue for some position.
 - A reference work such as a [timeline](https://timelines.issarice.com/wiki/Main_Page) or [table](tabular-presentation) that collects some data into a single location for easier analysis.
+- Something like a transcript or simple data analysis where there's a narrow space of "correct" outputs, where anyone else could have done produced basically the same thing if they put in about the same amount of effort.
 - Some notes on a topic where I briefly get excited about a topic and start collecting some data or quotes by reading a bit, where I don't have a deep understanding of the topic.
 - An explanation of some habit or lifestyle choice I have (e.g. [sleep schedule](sleep-schedule) and [sunhat]()), where I don't claim some special expertise, but which still represents my current life choices based on iteration over the years.
 - A reflection piece where I try to summarize some aspect of what I've done at a high level, using an "inside view".
