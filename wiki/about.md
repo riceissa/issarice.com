@@ -28,12 +28,8 @@ feature) but I can't guarantee I will check them often.
 
 I have [a photo](identification-photo.jpg) you can use to identify me.
 
-# Name
-
-See [How should I properly pronounce your name?]() for information about
-my name.
-
 # See also
 
 - [Contact](contact)
 - [Account names](account-names)
+- [Name](), for information about my name
