@@ -15,6 +15,8 @@ of "This page is a draft, so the content on here might be incomplete,
 unpolished, incorrect, or otherwise not up to the same level of quality
 as finished pages."
 
+# History
+
 I took the idea of status tags [from gwern][gw st].  Here is his
 original explanation, though my use (explained below) differs slightly.
 
@@ -26,6 +28,8 @@ original explanation, though my use (explained below) differs slightly.
 > well-developed draft which could be described as "in progress", and
 > finally when a page is done - in lieu of additional material turning
 > up - it is simply "finished".
+
+# Tag definitions
 
 Below is how I use status tags:
 
@@ -46,6 +50,19 @@ polished or meticulous.
 Mostly finished
 :    For pages that I consider mostly done, needing only minor
 corrections.
+
+# Commentary
+
+I compose several different kinds of documents:
+
+- A blog post or paper that tries to comprehensively argue for some position.
+- A reference work such as a [timeline](https://timelines.issarice.com/wiki/Main_Page) or [table](tabular-presentation) that collects some data into a single location for easier analysis.
+- An explanation of some habit or lifestyle choice I have (e.g. [sleep schedule](sleep-schedule) and [sunhat]()).
+- A reflection piece where I try to summarize some aspect of what I've done at a high level, using an "inside view".
+- An opinion piece that summarizes my views on a topic, where I haven't done any specific deep exploration of a topic.
+  This is useful for others to know "where I'm coming from".
+- An ["ignorant thinking"](https://meteuphoric.wordpress.com/2011/08/27/in-defence-of-ignorant-thinking/) piece where I try to combine my life experience, "first principles" thinking, and general reasoning ability to try to come to some conclusion on a topic *without* doing deep reading.
+- A random though I have e.g. while working on some other thing, or while daydreaming, or while taking a shower or something, where I don't expect it to be a high quality thought but where, *in the moment* the idea excites me and I wish to record it somewhere.
 
 I prefer to think of my writings as continuously improving drafts, partly because I might obtain better feedback.
 For instance [Anne Ruggles Gere writes][arg] (quoted in "[Shutting Down Tolkien]" by Brandon Rhodes):
