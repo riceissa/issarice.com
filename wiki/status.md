@@ -57,12 +57,25 @@ I compose several different kinds of documents:
 
 - A blog post or paper that tries to comprehensively argue for some position.
 - A reference work such as a [timeline](https://timelines.issarice.com/wiki/Main_Page) or [table](tabular-presentation) that collects some data into a single location for easier analysis.
-- An explanation of some habit or lifestyle choice I have (e.g. [sleep schedule](sleep-schedule) and [sunhat]()).
+- Some notes on a topic where I briefly get excited about a topic and start collecting some data or quotes by reading a bit, where I don't have a deep understanding of the topic.
+- An explanation of some habit or lifestyle choice I have (e.g. [sleep schedule](sleep-schedule) and [sunhat]()), where I don't claim some special expertise, but which still represents my current life choices based on iteration over the years.
 - A reflection piece where I try to summarize some aspect of what I've done at a high level, using an "inside view".
 - An opinion piece that summarizes my views on a topic, where I haven't done any specific deep exploration of a topic.
   This is useful for others to know "where I'm coming from".
-- An ["ignorant thinking"](https://meteuphoric.wordpress.com/2011/08/27/in-defence-of-ignorant-thinking/) piece where I try to combine my life experience, "first principles" thinking, and general reasoning ability to try to come to some conclusion on a topic *without* doing deep reading.
+- An ["ignorant thinking"](https://meteuphoric.wordpress.com/2011/08/27/in-defence-of-ignorant-thinking/ "Katja Grace. “In defence of ignorant thinking”. Meteuphoric. WordPress.com. August 28, 2011. Retrieved November 19, 2017.") piece where I try to combine my life experience, "first principles" thinking, and general reasoning ability to try to come to some conclusion on a topic *without* doing deep reading.
 - A random though I have e.g. while working on some other thing, or while daydreaming, or while taking a shower or something, where I don't expect it to be a high quality thought but where, *in the moment* the idea excites me and I wish to record it somewhere.
+
+Some tricky things with categorizing pieces of writing with the above:
+
+- A piece can start out as one thing and morph into another at some later stage.
+- There is a trade-off between *concision* and *precision*. Using simple labels makes the process standard, but might lack necessary precision. For instance I feel like Open Phil blog posts often do an okay job of communicating "where we are coming from" but lack standardization.
+
+Some related ideas that try to communicate the "where I'm coming from" idea:
+
+- [Epistemic effort](http://lesswrong.com/lw/o6m/epistemic_effort/ "Raemon. “Epistemic Effort”. LessWrong. November 29, 2016. Retrieved November 19, 2017.")
+- gwern's completion status tags
+- gwern's confidence/belief tags
+- "Epistemic status" disclaimers at the top of blog posts (e.g. on Slate Star Codex)
 
 I prefer to think of my writings as continuously improving drafts, partly because I might obtain better feedback.
 For instance [Anne Ruggles Gere writes][arg] (quoted in "[Shutting Down Tolkien]" by Brandon Rhodes):
