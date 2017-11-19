@@ -121,6 +121,12 @@ NEW:
 
 OLD:
 
-- figure out why LaTeX code blocks aren't highlighting; i think this is just because pandoc only highlights comments for LaTeX, for some reason
 - import remaining pages from github pages site. & add more notes files.
 - on tags, show the number of items in each tag in parentheses
+
+Random things to write about:
+
+- sensible general policy for making thoughts public? I feel like most of my thoughts aren't novel at all. And there are also a lot of thoughts that are momentarily exciting but which become much less exciting after sleeping on them. Is it a good idea to write these down? How much googling/searching/asking questions on various places be reasonable before I jot down an idea?
+  In general there are "research" type pages that summarize things i've read, and more "musing", "reflection", or "opinion" type pages that don't involve detail-oriented research but are more like summarizations of the vast amount of information i've consumer over years, or like just based on my limited life experience. So that epistemic stance is important to communicate.
+- sensible policy for signalling/sales? especially in a "reflective equilibrium" sense. for instance, I don't like it when people pester me with things I'm not interested in, so I shouldn't pester others with similar things. but also I want others to give feedback on my work, and I'm fine with giving feedback on others' work.
+  There is a similar question about a sensible general policy for giving upvotes/downvotes/likes/reactions on comment threads or facebook posts or whatever. Because every time you give a "like" on one comment in a thread and not another, you are getting others to pay more attention to the comment you liked.
