@@ -58,6 +58,7 @@ Here are some activity feeds that track what I've been working on:
   repository](https://github.com/riceissa/issarice.com/commits/master)
 - My [contributions to the Timelines Wiki](https://timelines.issarice.com/wiki/Special:Contributions/Issa)
   ([Git version with more incremental changes](https://github.com/riceissa/issarice.com/commits/master/external/timelines.issarice.com), [page creations](https://timelines.issarice.com/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Issa&namespace=&tagfilter=&newOnly=1))
+- My [contributions to Devec, the Development Economics Subwiki](https://devec.subwiki.org/wiki/Special:Contributions/Issa_Rice) ([page creations](https://devec.subwiki.org/w/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&newOnly=1)).
 - My [public GitHub Gists](https://gist.github.com/riceissa)
 - [Summary of my contract work for Vipul
   Naik](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki)
