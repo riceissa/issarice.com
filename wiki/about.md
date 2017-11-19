@@ -26,7 +26,7 @@ feature) but I can't guarantee I will check them often.
 
 # Photo
 
-I have [a photo](identification-photo.jpg) you can use to identify me.
+I have a [photo](identification-photo.jpg) you can use to identify me.
 
 # See also
 
