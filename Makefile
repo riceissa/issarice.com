@@ -74,8 +74,8 @@ $(OUTDIR)/%: static/% | $(OUTDIR)
 $(OUTDIR)/work: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/work.py | $(OUTDIR)
 	./generator/work.py > "$@"
 
-$(OUTDIR)/account-names: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/accounts.py data/online-presence.csv | $(OUTDIR)
-	./generator/accounts.py > "$@"
+$(OUTDIR)/account-names: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/account_names.py data/online-presence.csv | $(OUTDIR)
+	./generator/account_names.py > "$@"
 
 .PHONY: clean
 clean:
