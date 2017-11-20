@@ -1,4 +1,5 @@
 #!/bin/bash
+# License: CC0
 
 cat /dev/stdin | \
     while read url; do
