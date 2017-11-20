@@ -52,7 +52,7 @@ to (and incredibly well-planned and safe), though that's probably not
 the day to go shopping in that area.[^y_fn]
 
 [bomb]: https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
-[yasukuni]: https://ajw.asahi.com/article/behind_news/social_affairs/AJ201308160074
+[yasukuni]: https://web.archive.org/web/20140428172218/http://ajw.asahi.com:80/article/behind_news/social_affairs/AJ201308160074
 
 [^y_fn]: I should probably write about my experience of going to the
 protest at some point. For now I'll just say that observing the
@@ -105,8 +105,8 @@ It's also conveniently in [Odaiba](!w), which has some other neat places
 to visit (including what appeared to be an obscure condom shop that I
 once spotted ...).
 
-[Ooedo Onsen]: http://www.ooedoonsen.jp/en/top/
-[o cost]: http://www.ooedoonsen.jp/daiba/price.html
+[Ooedo Onsen]: https://web.archive.org/web/20150214121640/http://www.ooedoonsen.jp/en/top/
+[o cost]: https://web.archive.org/web/20140404045729/http://www.ooedoonsen.jp/daiba/price.html
 
 Also you should keep in mind that your friend might only let you stay
 with him during a narrow window, which might constrain your choice of

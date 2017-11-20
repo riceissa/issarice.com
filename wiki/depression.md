@@ -31,7 +31,7 @@ I'm not really an EOTS, but some starting points:
     >     [Less Wrong meetup
     >     groups](http://wiki.lesswrong.com/wiki/Less_Wrong_meetup_groups),
     >     [effective altruism
-    >     meetups](http://effective-altruism.com/meetups/), and [Quora
+    >     meetups](https://eahub.org/groups), and [Quora
     >     meetups](https://www.quora.com/Quora-Meetups). Other potentially
     >     useful meetups can be found on e.g.
     >     [Meetup.com](http://www.meetup.com/).

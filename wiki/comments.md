@@ -207,7 +207,7 @@ site.  Here are some of the better ones.
     - [Comments Still Off](http://mattgemmell.com/comments-still-off/)<!-- ([Perma.cc](http://perma.cc/6C7U-GL4W))-->
     - [Comments Commentary](http://mattgemmell.com/comments-commentary/)<!-- ([Perma.cc](http://perma.cc/D84U-WUX2), [archive.today](https://archive.today/hI4i1))-->, a collation of other writers' take on comments
 
-- [Darren Steadman](http://darrensteadman.com/2012/01/06/re-comments-off)<!--([Internet Archive](https://web.archive.org/web/20140829044846/http://darrensteadman.com/2012/01/06/re-comments-off/))--> (through Gemmell)
+- [Darren Steadman](https://web.archive.org/web/20140829044846/http://darrensteadman.com/2012/01/06/re-comments-off/) (through Gemmell)
 
 - [MG Siegler](http://parislemon.com/post/15288210624/comments-still-off) (also through Gemmell):
 

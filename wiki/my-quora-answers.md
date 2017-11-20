@@ -247,7 +247,7 @@ and then at least one of nonlinear flow or multiple-pass).
 
 [Mirror](https://www.quora.com/What-are-some-good-essays-about-computer-science-and-programming/answer/Issa-Rice)
 
-[https://dl.dropboxusercontent.co...](https://dl.dropboxusercontent.com/u/85192141/1996-hoare.pdf)
+[https://dl.dropboxusercontent.co...](https://web.archive.org/web/20150109054504/https://dl.dropboxusercontent.com/u/85192141/1996-hoare.pdf)
 ("How Did Software Get So Reliable Without Proof?")
 
 # What are the best books to learn Vim in a month?
@@ -1363,14 +1363,14 @@ See my page on [Pandoc]().
 
 
 For Japanese, there is [Knoh (ノウ) | The
-Knowledge Hub](http://knoh.jp), which, as of August 2014, seems
+Knowledge Hub](https://web.archive.org/web/20170510103004/http://knoh.jp), which, as of August 2014, seems
 to have around 60 answers on Quora translated (with the original answer
 side-by-side, like [初めて起業するアントレプレナーたちが、もっともよくやってしまう過ちはなんですか？
-| Knoh (ノウ)](http://knoh.jp/answers/289014)). It seems to be
+| Knoh (ノウ)](https://web.archive.org/web/20161028104543/http://knoh.jp/answers/289014)). It seems to be
 the efforts of a small group of people, and there doesn't seem to be a
 sign up feature, so I'm not sure how much it will expand. They do say on
 [Knoh について | Knoh
-(ノウ)](http://knoh.jp/about) that in the future they're planning
+(ノウ)](https://web.archive.org/web/20131210152438/http://knoh.jp:80/about) that in the future they're planning
 to publicly allow transaltions through the cloud. Also there does seem
 to be a fairly active hashtag devoted to it on Twitter at [Twitter / Search -
 \#knoh](https://twitter.com/hashtag/knoh) as well as an official

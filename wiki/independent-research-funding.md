@@ -92,8 +92,8 @@ My notes:
 
 Other links to check out:
 
-* <http://www.libertyfund.org/resources.html>
-* <http://www.libertyfund.org/about.html>
+* <https://web.archive.org/web/20170401000027/http://libertyfund.org:80/resources.html>
+* <https://web.archive.org/web/20170220224739/https://www.libertyfund.org/about.html>
 
 # Creative work
 

@@ -17,7 +17,7 @@ $$
 
 > Writing it down this way is okay, but you have to understand what the symbols mean [...] It's an efficient way to write it down [...] I think you'll get used to it [...] The exercises [in the book] are meant to show you that it's easy to mess it up [...] Chemists don't tell you which variable they're keeping constant [...] There's a lot that's implicit and it's hard to tell what's going on.
 
-I also like [AbstractMath.org](http://abstractmath.org/).
+I also like [AbstractMath.org](https://web.archive.org/web/20170609022717/http://abstractmath.org/).
 
 Another example with partial derivatives (inspired by an ambiguity that Terence Tao touched on in his *Analysis II*): define $f : \mathbf{R}^2 \to \mathbf{R}$ as $(x,y) \mapsto x^2$ and $g:\mathbf{R}^2 \to \mathbf{R}$ as $(x,y)\mapsto y^2$.
 Observe that we have $f(x,x) = g(x,x) = x^2$.

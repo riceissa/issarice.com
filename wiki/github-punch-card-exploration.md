@@ -43,6 +43,10 @@ The images below are screenshots that I took from the respective repositories;
 credit goes to GitHub for producing them.
 The screenshots were taken on 2017-05-18 and 2017-05-19.
 
+Note from 2017-11-19: It seems that shortly after I created this page, GitHub
+took away the punch card graphs from repositories, so the links below to punch
+cards will not work.
+
 [Neovim](https://github.com/neovim/neovim/graphs/punch-card)
 (~9,000 commits):
 

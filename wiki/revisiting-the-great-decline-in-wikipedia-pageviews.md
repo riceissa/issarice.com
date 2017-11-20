@@ -728,7 +728,7 @@ Most permissive license Vipul Naik allows.
 [gh_plots_repo]: https://github.com/riceissa/wikipedia-decline
 [great_decline]: http://lesswrong.com/lw/lxc/the_great_decline_in_wikipedia_pageviews/ "Vipul Naik. “The great decline in Wikipedia pageviews (condensed version)”. March 27, 2015. LessWrong."
 [great_decline_full]: http://vipulnaik.com/blog/the-great-decline-in-wikipedia-pageviews-full-version/ "“The great decline in Wikipedia pageviews (full version)”. Vipul Naik. March 25, 2015."
-[grok_faq]: http://stats.grok.se/about "“Wikipedia article traffic statistics”. stats.grok.se. Retrieved September 27, 2016."
+[grok_faq]: https://web.archive.org/web/20170226232522/http://stats.grok.se/about "“Wikipedia article traffic statistics”. stats.grok.se. Retrieved September 27, 2016."
 [gt_plot_doc]: https://github.com/riceissa/wikipedia-decline#exporting-google-trends-data
 [mob_stats]: https://stats.wikimedia.org/EN/TablesPageViewsMonthlyMobile.htm "“Page Views for Wikipedia, Mobile site, Normalized”. Wikimedia. Retrieved September 27, 2016."
 [multi_tag_month_wv]: http://wikipediaviews.org/multipletagsandmonths.php "“Wikipedia Views: simultaneously do multiple tags and months”."

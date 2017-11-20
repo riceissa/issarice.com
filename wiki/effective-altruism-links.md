@@ -90,7 +90,7 @@ I suppose the latter will only contain information about how important it is to 
 
 # EA in different languages
 
-- The most obvious step is to look at all the meetups [here](http://effective-altruism.com/meetups/) and talk to the people that go to them.
+- The most obvious step is to look at all the meetups [here](https://eahub.org/groups) and talk to the people that go to them.
 
 # Earning-to-give
 

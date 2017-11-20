@@ -14,7 +14,8 @@ I also tend to look through commits and other information on GitHub (`:Gbrowse`
 makes it easy to go directly from Vim to the listing on GitHub).
 
 For my Git configuration, see my [`.gitconfig`][gitconfig] and
-[`.gitignore_global`][ignore].
+[`.cvsignore`](https://github.com/riceissa/dotfiles/blob/master/.cvsignore)
+([global ignore file](https://github.com/tpope/vim-pathogen#faq "Tim Pope. “tpope/vim-pathogen”. GitHub. Retrieved November 20, 2017.")).
 
 # Some useful commands
 
@@ -64,4 +65,3 @@ Then running `git diff --color 3cc00f112bf~1 3cc00f112bf` in the [CP Wiki repo](
 * [Software]() for more about the software I use
 
 [gitconfig]: https://github.com/riceissa/dotfiles/blob/master/.gitconfig
-[ignore]: https://github.com/riceissa/dotfiles/blob/master/.gitignore_global

@@ -52,7 +52,7 @@ Here are the bookmarklets I use:
 
 -   [Citewebgen](https://github.com/riceissa/citewebgen/)
 
--   "Cite md" (the [Markdown version of Citewebgen](https://github.com/riceissa/citewebgen/blob/master/citewebgen.js))
+-   "Cite md" (the [Markdown version](https://github.com/riceissa/citewebgen/blob/master/markdown-part.js) of Citewebgen)
 
 # Settings
 

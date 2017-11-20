@@ -18,7 +18,7 @@ On the other hand, on Debian, even when I had the correct Baskerville font insta
     Perhaps I should talk about all the fake Baskerville fonts out there!
 -->(read: the identical one), I could not get text to display well.
 Eventually I found [an ArchLinux forum thread about font rendering in Firefox](https://bbs.archlinux.org/viewtopic.php?pid=1260113).
-This led me to [a post on the Gentoo forums](http://forums.gentoo.org/viewtopic-p-7273876.html#7273876), which had [a very good `/etc/fonts/local.conf` example file](https://dl.dropboxusercontent.com/u/18371907/local.conf).
+This led me to [a post on the Gentoo forums](http://forums.gentoo.org/viewtopic-p-7273876.html#7273876), which had [a very good `/etc/fonts/local.conf` example file](https://web.archive.org/web/20141214155300/https://dl.dropboxusercontent.com/u/18371907/local.conf).
 I simply copied, it---after glancing at it; it seemed good---and now Baskerville essentially renders the same as on an iPad.
 If you search inside the file for "Baskerville" you will find the relevant lines:
 

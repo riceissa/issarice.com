@@ -300,9 +300,9 @@ this sense I think Cognito Mentoring does a much better job.)
 [graduation speech]: http://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/
 
 Scott Alexander also has an older website called [Raikoth], which has
-the [The Consequentialism FAQ](http://www.raikoth.net/consequentialism.html).
+the [The Consequentialism FAQ](https://web.archive.org/web/20141231113651/http://www.raikoth.net/consequentialism.html).
 
-[raikoth]: http://www.raikoth.net/
+[raikoth]: https://web.archive.org/web/20140220082152/http://www.raikoth.net/
 
 
 # Depression
@@ -472,7 +472,7 @@ is not taught in schools).  Here are some places to check out:
 - [My guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
 - Quora/LW/EA/SSC
 - More given in "Other ideas—expanding your imagination" section
-- For maximum transparency, I've released [my Atom/RSS subscriptions](https://github.com/riceissa/issarice.com/blob/master/static/urls) (with some confidential URLs removed) publicly.
+- For maximum transparency, I've released [my Atom/RSS subscriptions](https://issarice.com/urls.txt) (with some confidential URLs removed) publicly.
 
 # Books
 
@@ -491,7 +491,7 @@ Some other books to look into (I haven't read some of these):
 
 - Dawkins's *Selfish Gene*
 - Douglas Hofstadter's *Gödel, Escher, Bach*[^ey]
-- Bryan Caplan's *[Selfish Reasons to Have More Kids](!w)*
+- Bryan Caplan's *[Selfish Reasons to Have More Kids](http://deletionpedia.org/en/Selfish_Reasons_to_Have_More_Kids)*
     - See also [an overview](http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/) on [LessWrong]()
 - Judith Harris Rich's *The Nurture Assumption* and *No Two Alike*
 - *The App Generation* by Howard Gardner and Katie Davis
@@ -633,7 +633,7 @@ a Ph.D. in physics than by drugs".  Remember that there also exist
 blogs like [100 Reasons NOT to Go to Graduate School][no grad].
 
 [holden interview]: https://80000hours.org/2013/04/interview-with-holden-karnofsky-co-founder-of-givewell/
-[phys drugs]: http://physics.wustl.edu/katz/scientist.html
+[phys drugs]: https://web.archive.org/web/20150908014457/http://physics.wustl.edu/katz/scientist.html
 [no grad]: http://100rsns.blogspot.com/
 
 For Cognito Mentoring pages, see
@@ -782,7 +782,7 @@ opportunity cost of college.
   how to stand up for something, apply critical thinking, etc.  However,
   compared to LW and the "new wave" of critical thinking in the
   2000s/2010s, they are somewhat outdated.
-- Read Roy Baumeister's "[Is There Anything Good About Men?](http://denisdutton.com/baumeister.htm)"
+- Read Roy Baumeister's "[Is There Anything Good About Men?](https://web.archive.org/web/20171108110150/http://www.denisdutton.com/baumeister.htm)"
 - In general, you should stalk the lives of the most promising
   entrepreneurs like Mark Zuckerberg, Travis Kalanick (see especially
   his failcon talk), Jeff Bezos, etc.  These people are the new wave of

@@ -13,10 +13,10 @@ Here are the courses I took for autumn 2014 at UW:
 
 - [CSE 142]()
 - [CSE 190]()
-- [CSE 390]()
+- [CSE 390](cse-390-for-cse-142)
 - [Honors 100]()
 - [Math 134]()
-- [English 131]()
+- [English 131](engl-131)
 
 # Review
 

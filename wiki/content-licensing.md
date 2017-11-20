@@ -23,7 +23,7 @@ In a footnote he elaborates:
 > works easier to find. [Tim
 > O’Reilly](http://en.wikipedia.org/wiki/Tim%20O%27Reilly "Wikipedia: Tim O’Reilly")
 > says that [“Obscurity is a far greater threat to authors and creative
-> artists than piracy.”](http://openp2p.com/lpt/a/3015) If that is so,
+> artists than piracy.”](https://web.archive.org/web/20150321160006/http://www.openp2p.com/lpt/a/3015) If that is so,
 > then that means that difficulty of finding works reduces the welfare of
 > artists *and* consumers, because both forgo a beneficial trade (the
 > artist loses any revenue and the consumer loses any enjoyment). Even

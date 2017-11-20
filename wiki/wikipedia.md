@@ -51,7 +51,7 @@ If listed in none of those places, then my contributions pages (on Wikipedia its
 - [Person-affecting view](https://en.wikipedia.org/wiki/Person-affecting_view)
 - [Form I-140](https://en.wikipedia.org/wiki/Form_I-140)
 - [Green Card Test](https://en.wikipedia.org/wiki/Green_Card_Test)
-- [Triplebyte](https://en.wikipedia.org/wiki/Triplebyte)
+- [Triplebyte](http://deletionpedia.org/en/Triplebyte)
 - [A Plus \(aplus\.com\)](https://en.wikipedia.org/wiki/A_Plus_(aplus.com)).
 The page was actually originally supposed to be a new article, but in
 the time that I worked on it, someone else went ahead and created the

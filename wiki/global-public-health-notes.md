@@ -246,7 +246,7 @@ What does it look like generally and for each disease?
 - [Total spending in global health](total-spending-in-global-health)
 - [Malaria notes](malaria-notes)
 
-[^episodic]: [This quote](http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
+[^episodic]: [This quote](https://web.archive.org/web/20161007200754/http://s2.medicina.uady.mx/observatorio/docs/ee/ac/EE2014_Ac_Markel.pdf) in particular seems to provide evidence for this position:
 
     > The palpable tension, between managing episodic, acute, frightening,
     > deadly and dramatic pandemics and the arduous path to ameliorating the

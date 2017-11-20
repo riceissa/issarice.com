@@ -42,7 +42,7 @@ As best as I can remember (I forgot to keep a written list), here are all the to
     - I think the question was something like "Why do animals know so much when they're born, but humans don't know anything when they're born?"
     - The idea that humans have culture
 
-- [Card trick](https://cs4hs.cs.washington.edu/content/Resources/SessionMaterials/bin-o-slides/Stuart_Reges_cryptography.pdf)
+- [Card trick](https://web.archive.org/web/20160505181015/http://cs4hs.cs.washington.edu/content/Resources/SessionMaterials/bin-o-slides/Stuart_Reges_cryptography.pdf)
     - Reges gives the anecdote that in one class where he posed the card trick, two students figured it out: one who had solved the puzzle on their own, and one who was resourceful enough to Google "Reges card trick" ...
     - This also happens to be the same one given by Yishan Wong in his answer to "[What's the hardest puzzle question asked at PayPal?](https://www.quora.com/What-s-the-hardest-puzzle-question-asked-at-PayPal/answer/Yishan-Wong)"
 

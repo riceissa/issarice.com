@@ -426,7 +426,7 @@ Some ideas for now:
 # Static page generation
 
 -   [Static Site Generators](http://staticsitegenerators.net/) —complete(?) list
--   [Static site generators](http://www.mzlinux.org/?q=node/415)
+-   [Static site generators](https://web.archive.org/web/20140921123610/http://www.mzlinux.org/?q=node/415)
 -   [Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/)
 -   [Hakyll - Home](http://jaspervdj.be/hakyll/)
 -   [Switching from Jekyll to Hakyll](http://mark.reid.name/blog/switching-to-hakyll.html)

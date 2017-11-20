@@ -38,7 +38,7 @@ Or equivalently:
 
 # Disable Bluetooth
 
-To disable Bluetooth, use [`rfkill`](http://linuxwireless.org/en/users/Documentation/rfkill).
+To disable Bluetooth, use [`rfkill`](https://web.archive.org/web/20170407083428/http://www.linuxwireless.org:80/en/users/Documentation/rfkill/).
 
 [On Debian, the package is called `rfkill`](http://packages.debian.org/squeeze/rfkill).
 Once the package is installed, Bluetooth may be disabled by running:
