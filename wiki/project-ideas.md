@@ -64,3 +64,7 @@ will have to check.
 2
 :   More than two weeks of effort. Examples here are my total work so far on
 the donations list site (I think), my total work on Devec wiki.
+
+|Project|Description|Effort|Venue|Format|
+|----------------|------------------------------------|------|--------|--------|
+|Pandoc scripting guide|A guide to scripting with Pandoc. Probably with Lua filters now that Pandoc 2.0 is out. It would be good to cover common frustrations like how to debug your filter, some common real-life filters, and so on.|1||Prose with code samples|
