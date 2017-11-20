@@ -66,7 +66,7 @@ will have to check.
 the donations list site (I think), my total work on Devec wiki.
 
 |Project|Description|Effort|Venue|Format|
-|----------------|------------------------------------|------|--------|--------|
+|----------------|------------------------------------|-----:|--------|--------|
 |Pandoc scripting guide|A guide to scripting with Pandoc. Probably with Lua filters now that Pandoc 2.0 is out. It would be good to cover common frustrations like how to debug your filter, some common real-life filters, and so on.|1||Prose with code samples|
 |Naturalism table|A table summarizing naturalistic worldviews. The columns can be "author", "view on consciousness", "view on free will", "view on time", etc. In other words, the "[mysterious questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/ "Eliezer Yudkowsky. “Mysterious Answers to Mysterious Questions”. LessWrong. August 25, 2007. Retrieved November 20, 2017.")". The authors that I would like to be covered are Yudkowsky, Tomasik, Gary Drescher, and Dennett. The cells of the table can contain the works by the author that discusses the views.|0||Table|
 |Timeline of felicifia|I think quite a few EAs came from felicifia-related online presence, including Brian Tomasik, Pablo Stafforini, Ryan Carey, and Peter Hurford. Carl Shulman also has an account on the forums. It would be interesting to document its rise and decline.|1|Timelines Wiki|Timeline|
