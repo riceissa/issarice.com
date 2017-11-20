@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# LICENSE: CC0
+# License: CC0
 
 import sys
 import re

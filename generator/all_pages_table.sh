@@ -1,4 +1,5 @@
 #!/bin/bash
+# License: CC0
 
 # TODO: this is a hack
 # All the sed, cut, and tr filters make me uncomfortable since they depend on

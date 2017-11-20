@@ -1,4 +1,5 @@
 #!/bin/bash
+# License: CC0
 
 cat << EOF
 <?xml version="1.0" encoding="utf-8"?>

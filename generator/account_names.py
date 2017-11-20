@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# License: CC0
 
 import csv
 import sys

@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # Author: Issa Rice
+# License: CC0
 
 from pandocfilters import toJSONFilter, stringify, Link
 

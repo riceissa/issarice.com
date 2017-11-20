@@ -1,4 +1,5 @@
 #!/bin/sh
+# License: CC0
 
 cat <<EOF > _site/sitemap.xml
 <?xml version="1.0" encoding="UTF-8"?>
