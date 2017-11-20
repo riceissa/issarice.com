@@ -881,7 +881,7 @@ Part of this is to allow yourself to be stalkable (so it can lead to meeting mor
     - Related: abundance and scarcity mindsets
 
 - [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)
-- Learn about [keyhole solutions](keyhole-solution) and [purchasing offsets](http://effective-altruism.com/ea/oh/what_is_the_expected_effect_of_poverty/57x)[^offset].
+- Learn about [keyhole solutions](https://causeprioritization.org/Keyhole%20solution) and [purchasing offsets](http://effective-altruism.com/ea/oh/what_is_the_expected_effect_of_poverty/57x)[^offset].
 Also think about how to get what you want in creative ways; in particular, watch out for situations like the following (by Katja Grace, quoted in Yvain's "[Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/)"):
 
     > ...the situation reminds me of a pattern in similar cases I have

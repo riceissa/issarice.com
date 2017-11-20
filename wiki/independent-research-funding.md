@@ -73,7 +73,7 @@ Wikipedia has a [big list of crowdfunding services](https://en.wikipedia.org/wik
 
 * [Bountysource](https://www.bountysource.com/) is a crowdfunding ([Salt](https://salt.bountysource.com/)) and bounty site.
   Salt seems pretty small; the top project earned $3,220 in December 2016 and *overall* $17,804 was paid in December 2016, $15k so far in January 2017, and so on.
-* See e.g. <https://medium.com/@nayafia> and her [final report](https://fordfoundcontentthemes.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf).
+* See e.g. <https://medium.com/@nayafia> and her [final report](https://web.archive.org/web/20170709195238/https://fordfoundcontentthemes.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf).
 
 # Libertarianism
 
@@ -88,7 +88,7 @@ HT Vipul Naik for pointers in this area:
 
 My notes:
 
-[IHS PhD Application Fee Waiver](https://theihs.org/funding/ihs-phd-application-fee-waiver/)
+[IHS PhD Application Fee Waiver](https://web.archive.org/web/20160423132027/https://theihs.org/funding/ihs-phd-application-fee-waiver/)
 
 Other links to check out:
 

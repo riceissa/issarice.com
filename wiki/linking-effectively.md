@@ -7,7 +7,7 @@ date: 2016-07-12
 Some places to look:
 
 - <http://www.catie.ca/sites/default/files/hyperlinking-04.pdf> (seems decent if basic)
-- <http://www.digitalbusiness.gov.au/creating-your-website/creating-and-organising-content/using-hyperlinks-effectively/> (see the section near the bottom; seems to be overlap with the first link, but also has new info?)
+- <https://web.archive.org/web/20160409112056/http://www.digitalbusiness.gov.au/creating-your-website/creating-and-organising-content/using-hyperlinks-effectively/> (see the section near the bottom; seems to be overlap with the first link, but also has new info?)
 
 Things to talk about:
 

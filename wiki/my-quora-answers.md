@@ -2196,7 +2196,7 @@ hand, are very short.
 
 
 From the [High School Direct
-Admission](http://www.cs.washington.edu/prospective_students/undergrad/admissions/direct_admission)
+Admission](https://web.archive.org/web/20170625104812/http://www.cs.washington.edu/prospective_students/undergrad/admissions/direct_admission)
 page:
 
 

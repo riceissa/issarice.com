@@ -56,7 +56,6 @@ If listed in none of those places, then my contributions pages (on Wikipedia its
 The page was actually originally supposed to be a new article, but in
 the time that I worked on it, someone else went ahead and created the
 page, so it ended up being more of a merge than a fresh write.
-You can still see my original version in [my user namespace](https://en.wikipedia.org/wiki/User:Riceissa/A_Plus_%28website%29).
 - I started translating the effective altruism page into Japanese;
 you can see it at [効果的利他主義](https://ja.wikipedia.org/wiki/%E5%8A%B9%E6%9E%9C%E7%9A%84%E5%88%A9%E4%BB%96%E4%B8%BB%E7%BE%A9)
 (it's pretty bad, and I hope someone with a stronger command of Japanese can

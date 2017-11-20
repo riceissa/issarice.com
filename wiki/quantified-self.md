@@ -5,7 +5,7 @@ tags: qs, links, self-improvement
 aliases: overview-of-quantified-self
 ---
 
-- <http://www.fortelabs.co/quantifiedself>
+- <https://web.archive.org/web/20160506014051/http://www.fortelabs.co/quantifiedself>
 - [OpenPaths—FAQ](https://openpaths.cc/FAQ)
 - [MeasuredMe](http://measuredme.com/about-measured-me/)
 - <http://www.trackyourhappiness.org/>

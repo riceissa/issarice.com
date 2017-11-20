@@ -12,7 +12,7 @@ took the course in spring 2015 under [Jim Reid] (lecturer).  The lab
 instructor was [Jens Gundlach] (though I never once saw him, since TAs
 lead the lab section).
 
-[Jim Reid]: https://faculty.washington.edu/jamesr4/
+[Jim Reid]: https://web.archive.org/web/20150906073839/https://faculty.washington.edu/jamesr4/
 [Jens Gundlach]: https://web.archive.org/web/20150527082853/https://courses.washington.edu/phys121z/index.php
 
 Overall, this course marks my worst experience in a UW course so far,
