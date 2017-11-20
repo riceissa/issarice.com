@@ -5,5 +5,12 @@
 -- You can then sort/make links unique as fit.
 
 function Link(elem)
-  io.stdout:write(elem.target .. "\n")
+  if elem.target:find("^https?://") then
+    io.stdout:write(elem.target .. "\n")
+  elseif elem.target:find("^mailto:") then
+    -- Do nothing
+  else
+    -- Internal link
+    io.stdout:write("https://issarice.com/" .. elem.target .. "\n")
+  end
 end
