@@ -37,6 +37,30 @@ The following are the requirements to build the site:
 - Some common command-line utilities like cat, sed, and so on (used in the
   shell scripts)
 
+## Detecting broken links
+
+Broken link detection is accomplished by two scripts:
+
+- `generator/list_links.lua`, which finds all the links on the site
+- `generator/detect-dead-links.sh`, which goes through the links and determines
+  whether each is dead or not
+
+Doing the following will work:
+
+```bash
+# Get all links
+rm -f links.txt && \
+    for filename in wiki/*; do
+        pandoc -f markdown+smart -t html5 --mathjax "$filename" \
+        --lua-filter generator/url_filter.lua \
+        --lua-filter generator/list_links.lua \
+        -o /dev/null >> links.txt
+    done
+
+# Go through the links and get the dead ones
+cat links.txt | ./generator/detect-dead-links.sh > dead.txt
+```
+
 ## License
 
 The content in this repository is variously licensed.
