@@ -65,8 +65,16 @@ will have to check.
 :   More than two weeks of effort. Examples here are my total work so far on
 the donations list site (I think), my total work on Devec wiki.
 
+# Table
+
 |Project|Description|Effort|Venue|Format|
 |----------------|------------------------------------|-----:|--------|--------|
 |Pandoc scripting guide|A guide to scripting with Pandoc. Probably with Lua filters now that Pandoc 2.0 is out. It would be good to cover common frustrations like how to debug your filter, some common real-life filters, and so on.|1||Prose with code samples|
 |Naturalism table|A table summarizing naturalistic worldviews. The columns can be "author", "view on consciousness", "view on free will", "view on time", etc. In other words, the "[mysterious questions](http://lesswrong.com/lw/iu/mysterious_answers_to_mysterious_questions/ "Eliezer Yudkowsky. “Mysterious Answers to Mysterious Questions”. LessWrong. August 25, 2007. Retrieved November 20, 2017.")". The authors that I would like to be covered are Yudkowsky, Tomasik, Gary Drescher, and Dennett. The cells of the table can contain the works by the author that discusses the views.|0||Table|
 |Timeline of felicifia|I think quite a few EAs came from felicifia-related online presence, including Brian Tomasik, Pablo Stafforini, Ryan Carey, and Peter Hurford. Carl Shulman also has an account on the forums. It would be interesting to document its rise and decline.|1|Timelines Wiki|Timeline|
+|Guide to working on wiki-like pages with Vim|I've developed some ideas about how to work on wiki-like pages in [Vim](), which is distinct from working on related program source code. Some useful options for this are `'isfname'`, `'includeexpr'`, and `'suffixesadd'`. Setting these to good values will allow for traveling between related pages on the wiki more easily. As a case study, MediaWiki could be used. Also see the [wikilink script](https://github.com/riceissa/contentcreation/blob/master/wikilink.vim) I use on one wiki.|0|Vim Tips Wiki|Prose with code samples|
+
+# External links
+
+- [New article pool](https://github.com/vipulnaik/contractwork/blob/master/new-article-pool.mediawiki)
+  by Vipul Naik lists article ideas
