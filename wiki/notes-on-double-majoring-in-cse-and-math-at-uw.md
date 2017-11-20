@@ -19,7 +19,7 @@ Basic facts:
 
     Both of these are from [the math course catalog](https://www.washington.edu/students/crscat/math.html).
 
-    Looking at the [BS math standard option graduation requirements](https://www.math.washington.edu/Undergrad/Handbook/BS_STAND_SPR2015.pdf), we see that all of the courses under both "Application Requirements" and under the top portion of "Mathematics Requirements" are covered by the courses math 13X--33X cover.
+    Looking at the [BS math standard option graduation requirements](https://web.archive.org/web/20151012134732/https://www.math.washington.edu/Undergrad/Handbook/BS_STAND_SPR2015.pdf), we see that all of the courses under both "Application Requirements" and under the top portion of "Mathematics Requirements" are covered by the courses math 13X--33X cover.
     In addition, math 13X has math 307, and math 33X has math 309 and 427.
     This would make it seem like the seven course requirement is cut down to just four.
     The electives add another five, but this is cut down to three by using courses from other departments (in my case, CSE).

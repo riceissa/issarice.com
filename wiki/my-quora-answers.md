@@ -27,7 +27,7 @@ For **edits by month**, see the [Wikipedia Statistics table for this](https://st
 MediaWiki itself does not have a git-bisect equivalent, but there are various web-based tools with varying amounts of flexibility that implement the most important parts of git-bisect. The two that seem to work are:
 
 -   [User:Flominator/WikiBlame - Wikipedia](https://en.wikipedia.org/wiki/User:Flominator/WikiBlame), which is available from the “Revision history search” link of the revision history page of each article. This tools does both linear and binary search. The source seems to be available on GitHub: [FlominatorTM/wikiblame](https://github.com/FlominatorTM/wikiblame).
--   [Article blamer](https://tools.wmflabs.org/xtools/blame/), which is part of X!’s tools. This tool seems to do a linear search [x-tools/xtools](https://github.com/x-tools/xtools/blob/c49a5e3db99b941393564a0a2f6a37c0e7d49f34/public_html/blame/index.php#L53-L82).
+-   [Article blamer](https://tools.wmflabs.org/xtools/blame/), which is part of X!’s tools. This tool seems to do a linear search [x-tools/xtools](https://github.com/x-tools/xtools-legacy/blob/c49a5e3db99b941393564a0a2f6a37c0e7d49f34/public_html/blame/index.php#L53-L82).
 
 See also [Wikipedia:Tools § Finding the responsible user](https://en.wikipedia.org/wiki/Wikipedia:Tools#Finding_the_responsible_user).
 
@@ -1501,7 +1501,7 @@ concisely:
 
 [Mirror](https://www.quora.com/For-high-school-and-early-college-or-equivalent-students-how-has-regular-casual-interaction-with-people-in-their-mid-to-late-20s-influenced-you/answer/Issa-Rice)
 
-My thoughts are [here](/the-importance-of-having-differently-aged-peers).
+My thoughts are [here](importance-of-having-differently-aged-peers).
 
 # Who is interested in an October 2014 Quora meetup in Seattle?
 

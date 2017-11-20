@@ -40,7 +40,7 @@ You can find my original public announcement about doing cause prioritization re
 
 # Criticisms of effective altruism
 
-**This has [moved to the EA Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism)**
+**This has [moved to the EA Wiki](https://github.com/riceissa/issarice.com/blob/master/external/wiki.effectivealtruismhub.com/Criticism_of_effective_altruism.mediawiki)**
 
 - [Effective Altruism Complaints](http://www.overcomingbias.com/2015/07/effective-altruism-complaints.html)
 - [RationalWiki's article on EA](http://rationalwiki.org/wiki/Effective_altruism)

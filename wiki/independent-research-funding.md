@@ -84,7 +84,7 @@ HT Vipul Naik for pointers in this area:
 * <https://liberty.me/>
 * The Cato Institute
 * Students for Liberty
-* [International Students for Liberty Conference](https://www.isflc.org/)
+* [International Students for Liberty Conference](https://web.archive.org/web/20160327023640/https://www.isflc.org/)
 
 My notes:
 

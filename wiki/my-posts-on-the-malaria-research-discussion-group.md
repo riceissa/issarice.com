@@ -23,6 +23,6 @@ several:
 
 Coverage on Wikipedia seems to be quite poor. Currently I'm working on the page
 for human-landing catch:
-<https://en.wikipedia.org/wiki/User:Riceissa/Human-landing_catch>
+<https://raw.githubusercontent.com/riceissa/issarice.com/master/external/en.wikipedia.org/Human-landing_capture.mediawiki>
 
 Thoughts?

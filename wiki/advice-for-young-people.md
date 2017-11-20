@@ -414,7 +414,7 @@ Although effective altruists claim that effective altruism is [a
 question, not an ideology][ideo], if you pay enough attention, each
 subset of effective altruists clearly has its own agenda.  So you
 can't necessarily trust EAs.  Read posts like "[A critique of effective
-altruism][ea crit]".  I've been keeping a longer list at "[Criticism of effective altruism](http://wiki.effectivealtruismhub.com/w/index.php?title=Criticism_of_effective_altruism)".
+altruism][ea crit]".  I've been keeping a longer list at "[Criticism of effective altruism](https://github.com/riceissa/issarice.com/blob/master/external/wiki.effectivealtruismhub.com/Criticism_of_effective_altruism.mediawiki)".
 
 [ideo]: http://effective-altruism.com/ea/9s/effective_altruism_is_a_question_not_an_ideology/
 [ea crit]: http://www.benkuhn.net/ea-critique

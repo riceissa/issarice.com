@@ -22,7 +22,7 @@ UW.^[This requirement seems to be yet another disservice to students, forcing th
 requirement, but a friend invited me to take the course with him, so I
 obliged.
 
-[diversity requirement]: https://www.washington.edu/uaa/advising/general-education-requirements/diversity/
+[diversity requirement]: https://web.archive.org/web/20150210074236/https://www.washington.edu/uaa/advising/general-education-requirements/diversity/
 
 # Content
 
