@@ -1,6 +1,8 @@
 ---
 title: Depression
 author: Issa Rice
+created: 2014-10-11
+date: 2014-10-11
 status: draft
 belief: possible
 ---
