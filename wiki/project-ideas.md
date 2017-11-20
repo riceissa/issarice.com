@@ -77,6 +77,7 @@ the donations list site (I think), my total work on Devec wiki.
 |Timeline of web analytics|There is a stub for this [here](https://timelines.issarice.com/wiki/Timeline_of_web_analytics).|1|Timelines Wiki|Timeline|
 |Improve the [Staycation § Benefits](https://en.wikipedia.org/wiki/Staycation#Benefits)|Some benefits can be framed as ways to avoid the downsides of international travel (jet lag, illness, and so on). I think Bryan Caplan discusses staycation in his kids book.|0|Wikipedia|Prose|
 |A consciousness wiki|A wiki systematically exploring issues related to consciousness. See more ideas [here](https://github.com/riceissa/issarice.com/tree/master/external/consciousness.issarice.com). The wiki can have an altruism/crucial considerations bent like [Luke Muehlhauser's moral patienthood report](https://www.openphilanthropy.org/2017-report-consciousness-and-moral-patienthood "Luke Muehlhauser. “2017 Report on Consciousness and Moral Patienthood”. Open Philanthropy Project. August 5, 2017. Retrieved November 20, 2017."). It can also apply the ideas to e.g. cryonics.|2|Separate wiki|Prose and tables|
+|Improve [pdftextfmt](https://github.com/riceissa/pdftextfmt) to handle more PDF madness|It's already fine for simple linebreaks and hyphens, but "word breaks" need to be handled manually (i.e. when there's a space within a word that's not supposed to be there). MuPDF also inserts strange lines containing just the character "f". Ligatures also often mess up the output.|2|GitHub|Code|
 
 # External links
 
