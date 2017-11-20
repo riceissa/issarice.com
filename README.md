@@ -89,16 +89,23 @@ The file `default.html5` inherits from the [Pandoc template][pd_html5] (dual
 licensed GPL v2 or higher or BSD 3-clause); the BSD 3-clause license is
 reproduced below.
 
-The sole file in `css/`, `default.css`, is CC0.
+For `css/`, `solarized_light.css`, is MIT licensed because it uses
+Solarized colors. The other files are CC0.
 
 All the files in `images/` except `identification-photo.jpg` are CC0.
 For the exception, I don't remember if the photographer has allowed me to
 license it freely.
 
-Everything in `generator/` is CC0.
+Everything in `generator/` is CC0. Since these are scripts that allow comments,
+there should be a license line near the top of each.
 
-Everything in `static/` except `anchor.min.js` is CC0.
-The exception is AnchorJS, which is MIT licensed.
+Everything in `static/` except `anchor.min.js`, `jquery-latest.min.js`,
+`jquery.tablesorter.js`, and `theme.default.css` is CC0. The exceptions are
+variously licensed; you can look at the file for the license. For
+`theme.default.css`, see my [tablesorter bare bones theme](https://github.com/riceissa/tablesorter-bare-bones-theme)
+repository.
+
+Everything in `data/` is CC0.
 
 The files `.gitignore`, `Makefile`, `TODO.txt`, `page_reqs.txt`, as well as
 this README file are CC0.
