@@ -58,7 +58,9 @@ rm -f links.txt && \
     done
 
 # Go through the links and get the dead ones
-cat links.txt | ./generator/detect-dead-links.sh > dead.txt
+cat links.txt | ./generator/detect-dead-links.sh > temp
+
+sort -u temp > dead.txt && rm temp
 ```
 
 ## License
