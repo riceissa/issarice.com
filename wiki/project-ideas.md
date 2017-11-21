@@ -65,6 +65,12 @@ will have to check.
 :   More than two weeks of effort. Examples here are my total work so far on
 the donations list site (I think), my total work on Devec wiki.
 
+This is not an exhaustive list of project ideas. In particular if I have
+already done some work on a project and just want to make general improvements
+to it, I won't usually list it here (*all* projects can be improved to varying
+extents, and it would be tedious to list them all). If I have specific
+improvements, I will try to list them here.
+
 # Table
 
 |Project|Description|Effort|Venue|Format|
