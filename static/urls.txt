@@ -22,6 +22,7 @@ https://srconstantin.wordpress.com/feed/
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
 http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Ben Hoffman"
 http://slatestarcodex.com/feed/
+https://www.reddit.com/r/ControlProblem/.rss
 https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
