@@ -55,7 +55,7 @@ the kinds of tasks and their timescales.
 
 0
 :   Up to one day of effort. These are relatively quick things that can be
-done. Examples are first round of timeline of Carl Shulman publications, some
+done. Examples are [Timeline of Carl Shulman publications](https://timelines.issarice.com/index.php?title=Timeline_of_Carl_Shulman_publications&oldid=15618) as of July 13, 2017 (about 7 hours of work), some
 global health pages like Amanda Glassman (I think)
 
 1
