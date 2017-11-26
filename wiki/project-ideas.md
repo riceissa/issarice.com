@@ -63,7 +63,7 @@ global health pages like Amanda Glassman (I think).
 [timeline of MIRI](https://timelines.issarice.com/index.php?title=Timeline_of_Machine_Intelligence_Research_Institute&oldid=15715) as of July 15, 2017 (75 hours) at the upper end. I think [timeline of AMF](https://timelines.issarice.com/index.php?title=Timeline_of_Against_Malaria_Foundation&oldid=13553) (33 hours) around the middle.
 
 2
-:   More than two weeks of effort. Examples here are my total work so far on
+:   More than two weeks (80 hours) of effort. Examples here are my total work so far on
 the donations list site (I think), my total work on Devec wiki.
 
 This is not an exhaustive list of project ideas. In particular if I have
