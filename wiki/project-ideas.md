@@ -92,5 +92,9 @@ improvements, I will try to list them here.
 
 # External links
 
+- [My Quora questions](https://www.quora.com/profile/Issa-Rice/questions "“Issa Rice's Questions”. Quora. Retrieved November 26, 2017.").
+  Not all of my questions are "serious" questions, but they are things I
+  have wondered about or think others have wondered about, so I would
+  appreciate responses.
 - [New article pool](https://github.com/vipulnaik/contractwork/blob/master/new-article-pool.mediawiki)
   by Vipul Naik lists article ideas
