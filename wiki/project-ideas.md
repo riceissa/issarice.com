@@ -64,7 +64,7 @@ global health pages like Amanda Glassman (I think).
 
 2
 :   More than two weeks (80 hours) of effort. Examples here are my total work so far on
-the donations list site (I think), my total work on Devec wiki.
+the [donations list site](https://donations.vipulnaik.com/) (as of November 2017) and my total work on [Devec wiki](https://devec.subwiki.org/wiki/Main_Page) (as of November 2017).
 
 This is not an exhaustive list of project ideas. In particular if I have
 already done some work on a project and just want to make general improvements
