@@ -1,6 +1,7 @@
 ---
 title: GiveWell staff growth
 author: Issa Rice
+created: 2016-06-29
 date: 2016-10-01
 ---
 
