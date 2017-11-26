@@ -842,6 +842,13 @@ opportunity cost of college.
     > hand, stroke your arm, run their fingers through your hair.
     > It’s a profound experience.  Often, clients cry.”
 
+- From ["Being Single Is Hard"](https://medium.com/@emmalindsay/being-single-is-hard-dfdb534b0bec "Emma Lindsay. “Being Single Is Hard”. Medium. September 1, 2016. Retrieved November 26, 2017."):
+
+  > But anyway, the part I actually find hard about being single is
+  > that I never get touched, and this is always overlooked and
+  > undervalued. This is where the myth of self sufficiency breaks
+  > down.
+
 - some unresolved problems:
     - getting paid to do work
     - romance\ ...; I've been doing some work on this [on the CP
