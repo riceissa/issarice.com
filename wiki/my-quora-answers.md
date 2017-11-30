@@ -165,40 +165,7 @@ amended if error was introduced on lines 78 and
 
 [Mirror](https://www.quora.com/What-are-all-of-the-websites-Vipul-Naik-has-created-or-contributed-significantly-to/answer/Issa-Rice)
 
-Here are the ones I know about:
-
--   [What Is Research?](https://whatisresearch.wordpress.com/), his old math
-    research blog
--   [Olympiads and I](http://olympiadsandi.blogspot.com/), his old Olympiads
-    blog
--   [The Web Crawler](http://spideroftheweb.blogspot.com/), another old Blogger
-    blog that only has one post
--   [Vipul Naik](http://vipulnaik.com/), his current personal site
--   [Vipul Naik's Home Page: Main
-    Page](https://web.archive.org/web/20130518071716/http://www.cmi.ac.in/%7Evipul/),
-    his old personal/academic site from CMI
--   [Vipul Naik's Home Page -- University of
-    Chicago](https://web.archive.org/web/20120516191221/http://math.uchicago.edu/%7Evipul),
-    his academic site from UChicago
--   [Thinking Beyond
-    Competition](https://thinkingbeyondcompetition.wordpress.com/), his old
-    ethics/philosophy/econ blog
--   [Wikipedia Views](http://wikipediaviews.org/), a site to tabulate pageviews
-    of Wikipedia pages
--   [Vipul’s Classroom](http://www.vipulsclassroom.org/), the site for his math
-    YouTube videos
--   [Open Borders: The Case](http://openborders.info/), the open borders
-    advocacy site he started
--   [Subwiki](http://subwiki.org/wiki/Main_Page), the site where he puts all of
-    his subject-specific wikis. Out of these, the most developed is
-    [Groupprops](http://groupprops.subwiki.org/wiki/Main_Page), the group
-    theory wiki
--   [Cognito Mentoring](http://cognitomentoring.org/), an experimental
-    mentoring service he started with Jonah Sinick, which also has the [Cognito
-    Mentoring Info Wiki](http://info.cognitomentoring.org/wiki/Main_Page)
--   [Wikipedia](http://vipulnaik.com/wikipedia/) (various topics)
--   See also [Service](http://vipulnaik.com/service/) for his various online
-    profiles
+My copy has moved to [here](https://github.com/riceissa/issarice.com/blob/master/external/quora.com/What-are-all-of-the-websites-Vipul-Naik-has-created-or-contributed-significantly-to.txt).
 
 # I'm now 18 and heading into my senior year of high school next year and still a virgin. Should I be worried?
 
