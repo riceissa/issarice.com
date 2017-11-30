@@ -36,18 +36,18 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: October 2017 {#summary}
+# Summary of what I worked on: November 2017 {#summary}
 
 For completed tasks, see the [work page](work).
 
-In addition, during October I did more work on Vipul Naik's Development
+In addition, during November I did more work on Vipul Naik's Development
 Economics Subwiki. You can see [my contributions](https://devec.subwiki.org/wiki/Special:Contributions/Issa_Rice).
 
-I also started a [Timeline of economic statistics](https://timelines.issarice.com/wiki/Timeline_of_economic_statistics)
-(the current version has a lot of edits from Vipul as well).
+I continued work on importing data for the Devec/Demography Data Portal (mostly country name normalization and trying to get all region/metric/year/units/dataset combinations to be unique in the database). One new repository here is [devec_sql_common](https://github.com/riceissa/devec_sql_common), which has some common code for working with all the datasets.
 
-Finally, I started working on a [website](https://aiwatch.issarice.com/)
-to help me (and others) get a better idea of the AI safety landscape.
+I also began work on a [Computing Data Project](https://github.com/riceissa/computing-data-project) (to be funded by Vipul Naik). Here I've mostly been reading about different cloud computing services and trying to come up with a database schema, so there isn't much to see yet.
+
+I also [opened a bunch of issues](https://github.com/vipulnaik/donations/issues/created_by/riceissa) on Vipul Naik's Donations List Website repo. Previously our list of things to work on was stored as instant messaging messages, so these issues will make it easier to get an overview of things to work on. The plan is that eventually someone (probably me) will come and complete these tasks.
 
 # Activity feeds
 
