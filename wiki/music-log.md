@@ -277,6 +277,10 @@ The Pillows:
 
 * Fishmans: [若いながらも歴史あり 96.3.2 \@新宿LIQUID Room](https://www.youtube.com/watch?v=eyKdWlJa4KQ)
 
+# November 2017
+
+* Explored the [city pop](https://en.wikipedia.org/wiki/J-pop#City_Pop) genre a bit, but the songs blur together for me and I did not find any particular thing I really liked.
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
