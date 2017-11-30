@@ -1,0 +1,3 @@
+I believe the reason for this was for better record-keeping, as Quora did not offer an easy way to export all questions (and as far as I know still doesn’t).
+The feature was eventually removed: Removing Question Asking via SMS and Email by Ryan Browne on Quora Product Updates (https://productupdates.quora.com/Removing-Question-Asking-via-SMS-and-Email).
+In comments, Alex replies: “email being a good way to keep track of/search for all the questions I asked, especially anonymous ones, esp. since this year I've asked ~80% of my questions anonymously” https://productupdates.quora.com/Removing-Question-Asking-via-SMS-and-Email/comment/860176 (https://productupdates.quora.com/Removing-Question-Asking-via-SMS-and-Email/comment/860176)

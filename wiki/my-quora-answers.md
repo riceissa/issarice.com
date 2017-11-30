@@ -1,12 +1,20 @@
 ---
 title: My Quora answers
 author: Issa Rice
-date: 2017-06-04
+date: 2017-11-30
 ---
 
 # Introduction
 
 My main contributions to [Quora]() are through my questions, but I don't think my answers are especially bad, so here they are.
+
+Starting in November 2017, I have begun storing my answers as separate text
+files in a [directory on my website repository](https://github.com/riceissa/issarice.com/tree/master/external/quora.com).
+The answer text there is produced by copy-pasting from Quora's rich text editor
+(i.e. the editor automatically converts the rich text formatting to a plain
+text equivalent, which I can place in a text file).
+This change means I don't have to manually convert each answer to Markdown,
+which is good because it means less work for me.
 
 Reverse chronological order
 
