@@ -90,6 +90,7 @@ improvements, I will try to list them here.
 |Research some trends in font usage|For instance, both Lato and Merriweather have become very popular in recent years. It seems like Minion Pro has supplanted Times New Roman as the new "boring default font". Default fonts for MS Word etc. have changed as well.|1|No particular venue in mind|Prose with maybe tables or graphs|
 |Rationality blogroll graph|A graph showing which rationality community blogs have which blogs in their blogroll. To see if any patterns in e.g. subcommunities can be observed, and to uncover potentially interesting blogs.|1|GitHub for the code, no particular venue in mind for a writeup|Code with figures and maybe a writeup|
 |Some sort of program to check for arbitrary web page updates|There is [urlwatch](https://github.com/thp/urlwatch), which seems fine, but I would like the diff in the form of an RSS or Atom feed so that I can look over the updates in the same way I look over new blog post updates. A hack can probably be created fairly easily.|0|GitHub|Code|
+|Timeline of Eliezer Yudkowsky publications|See [Timeline of Carl Shulman publications](https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications) for a similar timeline that could be used as a model.|0|Timelines Wiki|Timeline|
 
 # External links
 
