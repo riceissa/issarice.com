@@ -65,14 +65,14 @@ I tend to stick to the basics.
 
 -   Several times each day, I do `C-c a a` to open the agenda split window.
     I then use `n` and `p` to move between tasks, and usually hit `TAB` to
-    open the task in another split.
+    open the task in a separate split window.
     From there, I can edit or reschedule (`C-c C-s`) or mark the task as
     done (`C-c C-t d`).
     After marking as done I archive with `C-c C-x C-a` (as long as there are no
-    clocked periods for the task; otherwise I like to keep done tasks around so
+    clocked periods for the task; otherwise I like to keep completed tasks around so
     that the clock table shows a more complete picture).
 
--   I create new tasks with `C-c t`.
+-   I create new tasks with `C-c c t`.
 
 -   I also use Org mode for clocking tasks as I work.
     I move to the item being clocked with `C-c C-x C-j`.
@@ -80,18 +80,21 @@ I tend to stick to the basics.
     I use `C-c C-x C-o`.
     I used to have a separate "Timesheet" section containing all clocked tasks
     with general task names like "Miscellaneous Wikipedia work", but these days
-    I just clock tasks on the specific tasks themselves. (It sounds obvious in
-    retrospect.)
+    I just clock tasks on the specific tasks themselves. This allows for a more granular look at what I have been working on. (It sounds obvious in
+    retrospect that this new system is better, but it took me some time to realize this.)
 
 -   I have a clock table with `:block today` that shows the time tracked for
     the current day.
     I update this table with `C-c C-c`.
     I have a second clock table with the current month's interval, e.g.
-    `:tstart "<2017-07-01>" :tend "<2017-08-01>"`. This way I can get a rough
+    `:tstart "<2017-07-01>" :tend "<2017-08-01>"` for the month of July 2017. This way I can get a rough
     idea of how much I have been working for the current month.
+    Occasionally I create temporary clock tables within a task (to see how much total time I have spent on a task) or for all time (to try to get a long-term view of what I've been spending time on).
 
 -   The whole file is tracked in [Git](git).
-    I have a mapping to quickly snapshot the current state of the file.
+    I have a defined function to quickly snapshot the current state of the file.
+
+-   I only track my time on weekdays, so that I can spend my weekends more "freely" without having to think about what I'm working on. I hope that this helps with relaxation and doing things more spontaneously, but I'm not sure how well it works.
 
 # See also
 
