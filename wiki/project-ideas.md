@@ -91,6 +91,9 @@ improvements, I will try to list them here.
 |Rationality blogroll graph|A graph showing which rationality community blogs have which blogs in their blogroll. To see if any patterns in e.g. subcommunities can be observed, and to uncover potentially interesting blogs.|1|GitHub for the code, no particular venue in mind for a writeup|Code with figures and maybe a writeup|
 |Some sort of program to check for arbitrary web page updates|There is [urlwatch](https://github.com/thp/urlwatch), which seems fine, but I would like the diff in the form of an RSS or Atom feed so that I can look over the updates in the same way I look over new blog post updates. A hack can probably be created fairly easily.|0|GitHub|Code|
 |Timeline of Eliezer Yudkowsky publications|See [Timeline of Carl Shulman publications](https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications) for a similar timeline that could be used as a model.|0|Timelines Wiki|Timeline|
+|Robin Hanson summary|A summary of Robin Hanson's "key ideas" like *homo hypocritus*, "X is not about Y", signaling, great filter, etc., would be nice. This would allow people to "catch up" on his thinking without having to spend a ton of time reading through poorly organized blog posts. Each of these might also need pages on the LessWrong Wiki, but that's a separate task.|1|LessWrong Wiki?|Structured prose|
+|Inadequate equilibria|A wiki page summarizing the concept and giving a list of examples.|0|LessWrong Wiki|Prose|
+|Hostile wife phenomenon|A wiki page describing hostile wife phenomenon and summarizing what has been said about it. There are quite a few articles out there about this, but no summary as far as I can tell.|0|LessWrong Wiki|Prose|
 
 # External links
 
