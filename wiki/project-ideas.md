@@ -94,6 +94,7 @@ improvements, I will try to list them here.
 |Robin Hanson summary|A summary of Robin Hanson's "key ideas" like *homo hypocritus*, "X is not about Y", signaling, great filter, etc., would be nice. This would allow people to "catch up" on his thinking without having to spend a ton of time reading through poorly organized blog posts. Each of these might also need pages on the LessWrong Wiki, but that's a separate task.|1|LessWrong Wiki?|Structured prose|
 |Inadequate equilibria|A wiki page summarizing the concept and giving a list of examples.|0|LessWrong Wiki|Prose|
 |Hostile wife phenomenon|A wiki page describing hostile wife phenomenon and summarizing what has been said about it. There are quite a few articles out there about this, but no summary as far as I can tell.|0|LessWrong Wiki|Prose|
+|Amazon Lightsail|Similar pages exist for e.g. [AWS Lambda](https://en.wikipedia.org/wiki/AWS_Lambda).|0|Wikipedia|Prose|
 
 # External links
 
