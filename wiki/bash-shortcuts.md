@@ -10,6 +10,10 @@ date: 2015-01-02
 Here are some useful shortcuts when you're working in Bash.
 Shortcuts are categorised by use.
 
+These shortcuts will be familiar to those using [Emacs](). Many of the
+keybindings will also work in many line-based environments, e.g. REPLs for many
+languages, Python Jupyter console, MySQL prompt. Even Vim has
+[vim-rsi](https://github.com/tpope/vim-rsi) to enable some of these.
 
 # Conventions
 
