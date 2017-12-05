@@ -60,6 +60,10 @@ I still refer a lot to Stack Overflow answers while writing Python though, so th
 
 A lot of the other documentation on this page is about specific tools, but Python documentation is about a language and its APIs. I wonder if that makes it easier to produce.
 
+# MySQL
+
+I like the MySQL official documentation, although most of the time I supplement it with answers on Stack Overflow and other sources, so in that sense I don't have "high expectations" from the official documentation.
+
 # Various repos on GitHub
 
 I find popular GitHub repositories to have pretty good documentation, especially for quickly getting started. The readme files being on the repo's front page probably helps with making a "good first impression".
