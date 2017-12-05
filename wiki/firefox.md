@@ -2,7 +2,7 @@
 title: Firefox
 author: Issa Rice
 created: 2015-08-18
-date: 2017-03-10
+date: 2017-12-05
 ---
 
 As of March 2017, Firefox is the main web browser I use.
@@ -13,20 +13,17 @@ plugins more useful.
 # Extensions
 
 - Decentraleyes
-- DOM Inspector
 - HTTPS Everywhere
-- It's All Text!
-- NoScript
 - Privacy Badger
-- ScrapBook X
 - uBlock Origin
-- Ubuntu Modifications (came with Ubuntu)
-- VimFx
+- uMatrix (I removed the 1st-party allow rules so that it behaves more like NoScript. On Chrome I have 1st-party enabled by default.)
 - Web Developer (for viewing the generated HTML source)
-- Zotero
+- Zotero Connector
 
-Due to a recent Firefox upgrade, many of the plugins are now marked as
-"Legacy".
+Due to the Firefox 57 upgrade, several of the plugins I used to use were marked as "Legacy" and are not usable.
+In particular, NoScript was at first unavailable, then available under
+the new extensions system in a new form. I didn't like the new
+interface so I switched to uMatrix.
 
 # Bookmarklets
 
