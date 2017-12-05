@@ -95,6 +95,7 @@ improvements, I will try to list them here.
 |Inadequate equilibria|A wiki page summarizing the concept and giving a list of examples.|0|LessWrong Wiki|Prose|
 |Hostile wife phenomenon|A wiki page describing hostile wife phenomenon and summarizing what has been said about it. There are quite a few articles out there about this, but no summary as far as I can tell.|0|LessWrong Wiki|Prose|
 |Amazon Lightsail|Similar pages exist for e.g. [AWS Lambda](https://en.wikipedia.org/wiki/AWS_Lambda).|0|Wikipedia|Prose|
+|Guide on choosing data storage formats|I have especially small-to-medium scales in mind. When should one use a CSV/TSV file? When should one store data as a SQL file or dump? There's a lot of intuition one would need to transmit.|1|wikiHow?|Prose|
 
 # External links
 
