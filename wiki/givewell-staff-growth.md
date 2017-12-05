@@ -94,6 +94,9 @@ Date               GW ∩ OP         GW ∖ OP        OP ∖ GW
 2017-07-05   1 $(-1,+0)$    16 $(-0,+0)$    23 $(-0,+3)$
 2017-08-05   1 $(-0,+0)$    16 $(-0,+0)$    24 $(-0,+1)$
 2017-09-06   1 $(-0,+0)$    16 $(-0,+0)$    22 $(-2,+0)$
+2017-10-07   1 $(-0,+0)$    16 $(-0,+0)$    22 $(-0,+0)$
+2017-11-06   1 $(-0,+0)$    18 $(-0,+2)$    22 $(-0,+0)$
+2017-12-05   1 $(-0,+0)$    19 $(-0,+1)$    22 $(-0,+0)$
 
 Table: Growth of GiveWell and Open Phil since September 2016.
 
@@ -104,6 +107,9 @@ Because of this change, Holden Karnofsky has moved from GW ∩ OP to OP ∖ GW.
 Sometime between August 5, 2017 and September 6, 2017, Kaitlyn and Mike Krieger
 were removed from the team page, which is why the count there drops by two. You
 can still view an [archive of their profile page](https://web.archive.org/web/20170704203224/http://www.openphilanthropy.org/about/team/kaitlyn-mike-krieger).
+
+For 2017-10-07, this is the date of the GiveWell snapshot. The Open
+Phil snapshot is from 2017-10-08.
 
 # Plots
 
