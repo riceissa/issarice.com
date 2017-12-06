@@ -96,6 +96,7 @@ improvements, I will try to list them here.
 |Hostile wife phenomenon|A wiki page describing hostile wife phenomenon and summarizing what has been said about it. There are quite a few articles out there about this, but no summary as far as I can tell.|0|LessWrong Wiki|Prose|
 |Amazon Lightsail|Similar pages exist for e.g. [AWS Lambda](https://en.wikipedia.org/wiki/AWS_Lambda).|0|Wikipedia|Prose|
 |Guide on choosing data storage formats|I have especially small-to-medium scales in mind. When should one use a CSV/TSV file? When should one store data as a SQL file or dump? There's a lot of intuition one would need to transmit.|1|wikiHow?|Prose|
+|Wikipedia pages for AGI projects|Specifically those AGI projects listed in [Seth Baum's paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741). Some of these projects already have Wikipedia pages but many do not. Writing each page should take less than a day of work, so each page would be a '0' in terms of effort, but since I don't want to list each page here, I'll record the effort as a '2'.|2|Wikipedia|Prose|
 
 # External links
 
