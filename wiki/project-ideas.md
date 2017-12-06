@@ -97,6 +97,7 @@ improvements, I will try to list them here.
 |Amazon Lightsail|Similar pages exist for e.g. [AWS Lambda](https://en.wikipedia.org/wiki/AWS_Lambda).|0|Wikipedia|Prose|
 |Guide on choosing data storage formats|I have especially small-to-medium scales in mind. When should one use a CSV/TSV file? When should one store data as a SQL file or dump? There's a lot of intuition one would need to transmit.|1|wikiHow?|Prose|
 |Wikipedia pages for AGI projects|Specifically those AGI projects listed in [Seth Baum's paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3070741). Some of these projects already have Wikipedia pages but many do not. Writing each page should take less than a day of work, so each page would be a '0' in terms of effort, but since I don't want to list each page here, I'll record the effort as a '2'.|2|Wikipedia|Prose|
+|Research Japanese input method engines|This might just be my ignorance, but in my experience there is no really good free software Japanese IME. All of the ones I have tried work reasonably well but a lot of their kanji suggestions are way off or not present in their dictionaries. Even mozc, developed by Google, seems to be some inferior free software version of the actual IME they use for Google's keyboard. Is there really nothing really good out there? Could one of the existing engines fairly easily brought to a higher quality by assembling better dictionaries?|1|No particular venue in mind|Prose|
 
 # External links
 
