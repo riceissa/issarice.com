@@ -37,6 +37,8 @@ The following are the requirements to build the site:
 - Some common command-line utilities like cat, sed, and so on (used in the
   shell scripts)
 
+I have only ever tried building the site on Debian-based GNU/Linux systems, but since most of the site is just Markdown files it shouldn't be *too* hard to make the site build on other systems.
+
 ## Detecting broken links
 
 Broken link detection is accomplished by two scripts:
