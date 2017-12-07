@@ -22,7 +22,7 @@ At the [June 2016 GiveWell board meeting][june2016 meeting], Holden and Elie
 [proposed a salary increase from $150,000 to $175,000][june2016], which was
 approved.
 
-At the [June 2017 GiveWell board meeting](https://www.givewell.org/about/official-records/board-meeting-37), Elie [proposed a salary increase from $175,000 to $200,000](http://files.givewell.org/files/ClearFund/Meeting_2017_06_06/Attachment_F_Executive_Compensation_Proposal.pdf). The proposal was [approved](http://files.givewell.org/files/ClearFund/Meeting_2017_06_06/Board_Meeting_Minutes_June_06_2017.pdf).
+At the [June 2017 GiveWell board meeting](https://www.givewell.org/about/official-records/board-meeting-37), Elie [proposed a salary increase from $175,000 to $200,000](http://files.givewell.org/files/ClearFund/Meeting_2017_06_06/Attachment_F_Executive_Compensation_Proposal.pdf). The proposal was [approved](http://files.givewell.org/files/ClearFund/Meeting_2017_06_06/Board_Meeting_Minutes_June_06_2017.pdf). Holden left GiveWell for the Open Philanthropy Project (which finally became legally independent), so the increase was only for Elie. I'm not sure what Holden's salary at Open Phil is (Glassdoor [lists](https://www.glassdoor.co.in/Salary/Open-Philanthropy-Project-Salaries-E1857933.htm) $194k--$207k for Executive Director, but I don't know how it would have gotten this information; see also [my question](https://www.quora.com/unanswered/How-did-Glassdoor-obtain-salary-information-for-the-Open-Philanthropy-Projects-Executive-Director-position)).
 
 # See also
 
