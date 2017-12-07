@@ -22,6 +22,8 @@ At the [June 2016 GiveWell board meeting][june2016 meeting], Holden and Elie
 [proposed a salary increase from $150,000 to $175,000][june2016], which was
 approved.
 
+At the [June 2017 GiveWell board meeting](https://www.givewell.org/about/official-records/board-meeting-37), Elie [proposed a salary increase from $175,000 to $200,000](http://files.givewell.org/files/ClearFund/Meeting_2017_06_06/Attachment_F_Executive_Compensation_Proposal.pdf). The proposal was [approved](http://files.givewell.org/files/ClearFund/Meeting_2017_06_06/Board_Meeting_Minutes_June_06_2017.pdf).
+
 # See also
 
 - [GiveWell staff growth]()
