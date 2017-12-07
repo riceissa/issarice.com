@@ -281,6 +281,10 @@ The Pillows:
 
 * Explored the [city pop](https://en.wikipedia.org/wiki/J-pop#City_Pop) genre a bit, but the songs blur together for me and I did not find any particular thing I really liked.
 
+# December 2017
+
+* *GET9*: "Icy Mice (Tadokoro Kaichou no Himitsu Party)"
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
