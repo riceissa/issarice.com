@@ -284,6 +284,8 @@ The Pillows:
 # December 2017
 
 * *GET9*: "Icy Mice (Tadokoro Kaichou no Himitsu Party)"
+* Céu: [*Caravana Sereia Bloom*](https://en.wikipedia.org/wiki/Caravana_Sereia_Bloom)
+* Céu: [*Tropix*](https://en.wikipedia.org/wiki/Tropix)
 
 # History
 
