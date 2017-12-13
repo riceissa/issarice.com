@@ -29,6 +29,7 @@ and Open Philanthropy Project.
 |Vipul Naik|2017-10-01|[Post that coins the term "Defensive Discourse"](https://www.facebook.com/vipulnaik.r/posts/10213263690442724)|
 |Vipul Naik|2017-10-20|[Post that shares this page](https://www.facebook.com/vipulnaik.r/posts/10213412153234201)||
 |Vipul Naik|2017-11-10|[Post about grant to MIRI and its signaling implications](https://www.facebook.com/vipulnaik.r/posts/10213581410585529)||
+|Luke Muehlhauser|2017-12-12|["Reasoning Transparency"](https://www.openphilanthropy.org/reasoning-transparency)|Discusses what Open Phil means by "reasoning transparency" and how to write documents that are more transparent in this way.|
 
 # See also
 
