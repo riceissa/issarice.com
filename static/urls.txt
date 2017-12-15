@@ -27,6 +27,7 @@ https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
 https://ai-alignment.com/feed
+https://distill.pub/rss.xml
 https://arcsecond.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
