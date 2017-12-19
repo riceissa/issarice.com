@@ -1,0 +1,12 @@
+comment on https://www.facebook.com/sebastian.nickel.7587/posts/10153368956320026
+
+Dennett admits as much in https://en.wikipedia.org/wiki/From_Bacteria_to_Bach_and_Back (quoting from the book, not the Wikipedia page):
+
+> I have devoted half a century, my entire academic life, to the project [of explaining minds] in a dozen books and hundreds of articles tackling various pieces of the puzzle, without managing to move all that many readers from wary agnosticism to calm conviction. Undaunted, I am trying once again and going for the whole story this time.
+>
+> Why do I think it is worth trying? Because, first, I think we have made tremendous scientific progress in the last twenty years; many of the impressionistic hunches of yore can now be replaced with well-researched details. I plan to rely heavily on the bounty of experimental and theoretical work that others have recently provided. And second, I think I now have a better sense of the various undercurrents of resistance that shackle our imaginations, and I plan to expose and disarm them as we go, so that, for the first time, the doubters can *take seriously* the prospect of a scientific, materialist theory of their own minds.
+
+One response I have seen is that we should just take the naturalistic view as an assumption an move on to other problems, rather than continuing to debate the same points over and over:
+
+- https://arbital.com/p/executable_philosophy/
+- http://lesswrong.com/lw/tg/against_modal_logics/
