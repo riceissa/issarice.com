@@ -100,6 +100,7 @@ improvements, I will try to list them here.
 |Research Japanese input method engines|This might just be my ignorance, but in my experience there is no really good free software Japanese IME. All of the ones I have tried work reasonably well but a lot of their kanji suggestions are way off or not present in their dictionaries. Even mozc, developed by Google, seems to be some inferior free software version of the actual IME they use for Google's keyboard. Is there really nothing really good out there? Could one of the existing engines fairly easily brought to a higher quality by assembling better dictionaries?|1|No particular venue in mind|Prose|
 |Timelines of machine learning pedagogy|This timeline wouldn't cover cutting-edge research, but rather learning resources dedicated to machine learning. Some things to cover: various subreddits, Ng's ML courses, Distill, various textbooks.|1|Timelines Wiki|Timeline|
 |DeWitt clause|A page explaining DeWitt clauses, some examples, its history, etc. There is a tiny amount of info on [David DeWitt's page](https://en.wikipedia.org/wiki/David_DeWitt).|0|Wikipedia|Prose|
+|Better conversion from MediaWiki to Markdown|I think Pandoc is the best converter at the moment, but it doesn't handle templates, which are used a lot in MediaWiki documents. Maybe writing a Pandoc filter to handle templates can get decent output. Or maybe some method involving going from MediaWiki to some intermediate format, then to Markdown would work.|1|No particular venue in mind|Prose/code|
 
 # External links
 
