@@ -1,0 +1,13 @@
+comment on https://www.facebook.com/vipulnaik.r/posts/10211693603871541
+
+I can think of a few other reasons why linking to the archived version only is bad:
+
+- The Internet Archive version of a page is often slower to load than the live version of the page. I don't have any statistics on this, but it is my personal experience having used the Internet Archive a lot over the years.
+
+- The Internet Archive, as well as other archiving sites, often have trouble archiving interactive and dynamic content, so the archived version may only have partial functionality.
+
+- For dynamic content or content with a lot of dependencies, the date the page was archived may differ from the date the dependencies were archived, leading to a mixed presentation that never existed on the original site, which could be confusing for readers. (Example: the pricing table on Amazon EC2's website loads the pricing data dynamically, so e.g. old pricing data can be displayed along with new body text, leading to a version of the page that never existed on Amazon's website, which could lead to an impression that prices never changed. I think the following paper makes this mistake: https://repository.wellesley.edu/cgi/viewcontent.cgi?article=1472&context=thesiscollection )
+
+- Browser extensions that block JavaScript often depend on domain-based blocking. But the Internet Archive tries to host the JavaScript files themselves, leading to JavaScript being executed on archived versions (if the Internet Archive is whitelisted) even if JavaScript on the site itself is blocked, or JavaScript being blocked (if the Internet Archive is not whitelisted) even if JavaScript on the site itself is whitelisted.
+
+For citing work, I think it's best to provide the archived version along with the original version, or to link to the original version but periodically detect dead links and replace them with archived versions. This is what the English Wikipedia does, for example: https://en.wikipedia.org/wiki/Template:Cite_web , https://en.wikipedia.org/wiki/Wikipedia:Link_rot
