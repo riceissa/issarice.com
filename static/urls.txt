@@ -18,6 +18,7 @@ https://vipulnaik.com/blog/feed/
 https://intelligence.org/blog/feed/
 http://aiimpacts.org/feed/
 http://rationality.org/feed.xml
+https://www.centreforeffectivealtruism.org/blog.xml
 https://srconstantin.wordpress.com/feed/
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
 http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Ben Hoffman"
