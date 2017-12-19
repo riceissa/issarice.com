@@ -59,3 +59,5 @@ The link from his name goes to <http://www.think.com/>.
 
 he seems to have an [amateur radio license](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=607805)?
 (middle initial matches, but could be a different person)
+
+This post by Eliezer Yudkowsky mentions Drescher as someone doing the kind of philosophy that is relevant to AI work: http://lesswrong.com/lw/tg/against_modal_logics/
