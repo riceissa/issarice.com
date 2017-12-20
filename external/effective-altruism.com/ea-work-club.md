@@ -16,7 +16,7 @@ Here are some places from which to gather project ideas:
 - Peter Hurford's [list of projects](http://peterhurford.tumblr.com/post/142805032066/effective-altruism-project-ideas) (I think intended for himself)
 - [Diaspora Project Map](https://namespace.obormot.net/Main/DiasporaProjectMap) ([announcement](https://www.lesserwrong.com/posts/fDhy3PXvJ6sjBJQB8/show-lw-diaspora-project-map-and-preregistration-database))
 - Various shared housing projects
-- A bunch of ideas have been posted in various EA Facebook groups and other comment threads, and I don't know how well those ideas have been aggregated into the lists above
+- A bunch of ideas have been posted in various EA Facebook groups and other comment threads over the years, and I don't know how well those ideas have been aggregated into the lists above
 
 I think database access would also be nice (I don't see a way to get a copy of the database in the repo).
 
