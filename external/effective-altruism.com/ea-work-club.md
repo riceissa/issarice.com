@@ -17,3 +17,5 @@ Here are some places from which to gather project ideas:
 - A bunch of ideas have been posted in various EA Facebook groups and other comment threads, and I don't know how well those ideas have been aggregated into the lists above
 
 I think database access would also be nice.
+
+For fields to keep track of, I think effort (an estimate of how long it would take to complete the project), prerequisites (both in terms of subject area knowledge and skills), venue, and format would be nice to have.
