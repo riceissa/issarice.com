@@ -1,3 +1,5 @@
+comment on http://effective-altruism.com/ea/1i7/introducing_ea_work_club_highimpact_jobs_and_side/
+
 Many thanks for starting this website!
 
 My own experience with building data-heavy websites is that making the site itself is a good first step but this needs to be done in tandem with data collection, and that the data does not collect itself.
