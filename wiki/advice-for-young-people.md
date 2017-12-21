@@ -715,6 +715,8 @@ can learn a lot about the most exciting things that are happening.
     - **Bryan Caplan**: see my page on [EconLog]()
     - Michael Huemer
     - Eliezer Yudkowsky
+    - Wei Dai
+    - Paul Christiano
     - Gary Drescher (*Good and Real*)
 
       From [MIRI's old recommended courses page](https://web.archive.org/web/20140403193242/http://intelligence.org/courses):
