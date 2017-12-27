@@ -1,0 +1,25 @@
+This page is a '''comparison of machine learning textbooks''', especially at the so-called introductory level. It includes books that focus on presenting multiple learning methods, and excludes books that focus solely on e.g. reinforcement learning.
+
+==Comparison table==
+
+{| class="sortable wikitable"
+! Title !! Author !! Length (pages) !! Prerequisites !! Recommendations || Code samples?
+|-
+| Machine Learning: A Probabilistic Perspective || Kevin P. Murphy || 1008 || "This book is suitable for upper-level undergraduate students and beginning graduate students in computer science, statistics, electrical engineering, econometrics, or any one else who has the appropriate mathematical background. Specifically, the reader is assumed to already be familiar with basic multivariate calculus, probability, linear algebra, and computer programming. Prior exposure to statistics is helpful but not necessary." || ||
+|-
+| Introduction to Machine Learning || Alex Smola and S.V.N. Vishwanathan || 196 || ? || ||
+|-
+| Understanding Machine Learning: From Theory to Algorithms || Shai Shalev-Shwartz and Shai Ben-David || 368 || "We made an attempt to keep the book as self-contained as possible. However, the reader is assumed to be comfortable with basic notions of probability, linear algebra, analysis, and algorithms. The first three parts of the book are intended for first year graduate students in computer science, engineering, mathematics, or statistics. It can also be accessible to undergraduate students with the adequate background. The more advanced chapters can be used by researchers intending to gather a deeper theoretical understanding." || [https://intelligence.org/research-guide/] ||
+|-
+| Pattern Recognition and Machine Learning || Christopher M. Bishop || 676 || "It is aimed at advanced undergraduates or first year PhD students, as well as researchers and practitioners, and assumes no previous knowledge of pattern recognition or machine learning concepts. Knowledge of multivariate calculus and basic linear algebra is required, and some familiarity with probabilities would be helpful though not essential as the book includes a self-contained introduction to basic probability theory." || [http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/3cp0] ||
+|-
+| Introduction to Machine Leaning (second edition) || Ethem Alpaydin || 516 || "This is an introductory textbook, intended for senior undergraduate and graduate-level courses on machine learning, as well as engineers working in the industry who are interested in the application of these methods. The prerequisites are courses on computer programming, probability, calculus, and linear algebra. The aim is to have all learning algorithms sufficiently explained so it will be a small step from the equations given in the book to a computer program. For some cases, pseudocode of algorithms are also included to make this task easier." || ||
+|}
+
+==See also==
+
+==References==
+
+<references/>
+
+==External links==
