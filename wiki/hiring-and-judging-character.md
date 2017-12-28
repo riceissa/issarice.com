@@ -162,4 +162,6 @@ Talking about senior hiring, they list some general principles:
 
 - [Why Not To Break Up With Friends](http://www.jimterry.net/blog/why-not-to-break-up-with-friends/)
 
+<https://www.facebook.com/satvik.beri/posts/610742700734>
+
 [handbook_wisdom]: https://books.google.com/books?id=s5h2AwAAQBAJ&lpg=PA310&ots=aB_D0kMGsT&dq=IQ%20gap%20leader-follower%20relationship&pg=PA310#v=onepage&q=IQ%20gap%20leader-follower%20relationship&f=false "Eric H. Kessler and James R. Bailey. Handbook of Organizational and Managerial Wisdom. Sage Publications, Inc. 2007."
