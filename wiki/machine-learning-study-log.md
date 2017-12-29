@@ -35,3 +35,9 @@ I started looking around for more resources on the theory behind machine learnin
 On 2017-12-26, I created [Comparison of machine learning textbooks](https://machinelearning.subwiki.org/wiki/Comparison_of_machine_learning_textbooks) because I got frustrated with being unable to keep all the ML books in my head (and the recommendations given in various online discussions).
 
 2017-12-27: I got curious about [probably approximately correct learning](https://en.wikipedia.org/wiki/Probably_approximately_correct_learning) so decided to look through the textbooks on ML that covered that. I found [this post](https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/) which seems to be better at explaining PAC than any of the textbooks.
+
+2017-12-28: I think I keep getting stuck on parts of textbooks that rely on results from probability, which I don't know very well. Steps that rely on probability results look like magic to me, and I don't like them. Even something supposedly simple like (taken from Mohri et al)
+
+$$\Pr_{x\sim D} [h(x) \ne c(x)] = \mathrm{E}_{x\sim D} [1_{h(x) \ne c(x)}]$$
+
+looks mysterious because I didn't know the conversion rule from probability of the event to the expectation of the indicator of the event.
