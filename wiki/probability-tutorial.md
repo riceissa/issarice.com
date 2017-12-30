@@ -48,3 +48,5 @@ while others define it like
 $$\mathrm E(X) = \sum_{x\in\mathbf R} xp(x)$$
 
 i.e. summing over the domain vs summing over the range. How do show the equivalence of these two definitions?
+
+Some books define expectation as a sum/integral over the values a random variable takes, while others define it as a sum/integral over the sample space, but no book that I have seen connects these two definitions. The only thing I have seen here is <https://math.stackexchange.com/questions/1352884/equivalent-definitions-for-expected-value-of-random-variable>. To me, this feels like a basic pedagogic oversight in all the books that I've seen. Are these two definitions so obviously equivalent that one need not spend even a sentence connecting them?
