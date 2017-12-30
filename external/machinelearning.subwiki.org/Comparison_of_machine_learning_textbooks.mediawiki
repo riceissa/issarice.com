@@ -4,7 +4,7 @@ This page is a '''comparison of machine learning textbooks''', especially at the
 
 The page count excludes any appendixes.
 
-Not sure what other columns would be useful. Level of mathematical rigor? The approach taken? Topics covered? Code samples (e.g. code for plots provided, or code for implementations provided, and in which language)? Ultimately what I care about is how easily I can understand the book/how much "fit" I have with the book, but this is difficult to generalize to others (who have different backgrounds and preferences).
+Not sure what other columns would be useful. Level of mathematical rigor? The approach taken (e.g. probably approximately correct framework)? Topics covered? Code samples (e.g. code for plots provided, or code for implementations provided, and in which language)? How amenable the book is to self-study? Ultimately what I care about is how easily I can understand the book/how much "fit" I have with the book, but this is difficult to generalize to others (who have different backgrounds and preferences).
 
 {| class="sortable wikitable"
 ! Title !! Author !! Length (pages) !! Prerequisites !! Recommendations
@@ -39,6 +39,8 @@ Not sure what other columns would be useful. Level of mathematical rigor? The ap
 | Machine Learning: The Art and Science of Algorithms that Make Sense of Data || Peter Flach || 366 || ? ||
 |-
 | Machine Learning || Tom M. Mitchell || 390 || "Because of the interdisciplinary nature of the material, this book makes few assumptions about the background of the reader. Instead, it introduces basic concepts from statistics, artificial intelligence, information theory, and other disciplines as the need arises, focusing on just those concepts most relevant to machine learning. The book is intended for both undergraduate and graduate students in fields such as computer science, engineering, statistics, and the social sciences, and as a reference for software professionals and practitioners. Two principles that guided the writing of the book were that it should be accessible to undergraduate students and that it should contain the material I would want my own Ph.D. students to learn before beginning their doctoral research in machine learning." ||
+|-
+| [https://web.stanford.edu/class/cs229t/Lectures/percy-notes.pdf Statistical Learning Theory] (course notes for CS229T/Stats231 at Stanford) || Percy Liang || 210 || Understanding of machine learning, linear algebra, and probability. Knowledge of convex optimization also helpful. [https://web.stanford.edu/class/cs229t/syllabus.html] || [https://agentfoundations.org/item?id=134]
 |}
 
 ==See also==
