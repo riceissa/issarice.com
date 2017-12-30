@@ -7,6 +7,8 @@ created: 2017-12-29
 
 Some motivation: I think probability and statistics are often confusing because the ontology of things like "random variable" and "distribution" are unclear/mysterious. Is a random variable really "random" or is it just a deterministic mathematical object? Ever since starting to learn [Haskell](my-haskell-learning), I've been obsessed with asking what type a certain object has.
 
+On notation: by $A \to B$ we mean the set of functions mapping some set $A$ to another set $B$. This is sometimes written $B^A$, because $|A\to B| = |B|^{|A|}$. And $f : A \to B$ is a "type annotation" and means $f$ is a function mapping $A$ to $B$. But combining these, we could also have written $f \in (A\to B)$, just like we write $x\in X$ to mean $x$ is in some set $X$.
+
 The following questions should be converted to multiple choice questions.
 
 When we write $X = x$, what is the type of $=$?
@@ -28,3 +30,11 @@ $$f : (\Omega\to\mathbf R) \times \mathbf R \to \mathbf R$$
 When we write $\Pr (X \leq x)$, what is the type of $\leq$?
 
 Answer: $(\leq) : (\Omega \to \mathbf R) \times \mathbf{R} \to \mathbf R$.
+
+What is the type of a Bernoulli distribution?
+
+What is the type of a random variable $X$ with a Bernoulli distribution taking parameter $p$ (often written $X \sim \mathrm{Bernoulli}(p)$)? In particular, what is the sample space (since we already know $X : \Omega \to \mathbf R$ for some $\Omega$ just because $X$ is a random variable)?
+
+Some books write $\Pr(\omega)$ (implying $\Pr_\Omega : \Omega \to \mathbf R$) while others write $\Pr(\{\omega\})$ (implying $\Pr_\Omega : \mathcal P(\Omega) \to \mathbf R$).
+
+Another problem is the distinction between the probability density function $f_X(x)$ vs writing $\Pr(X=x)$. Wasserman discusses this a bit in _All of Statistics_, but I haven't seen other books talk about this.
