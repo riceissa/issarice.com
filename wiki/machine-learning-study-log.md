@@ -40,4 +40,4 @@ On 2017-12-26, I created [Comparison of machine learning textbooks](https://mach
 
 $$\Pr_{x\sim D} [h(x) \ne c(x)] = \mathrm{E}_{x\sim D} [1_{h(x) \ne c(x)}]$$
 
-looks mysterious because I didn't know the conversion rule from probability of the event to the expectation of the indicator of the event.
+looks mysterious because I didn't know the [conversion rule from probability of the event to the expectation of the indicator of the event](https://www.statlect.com/fundamentals-of-probability/indicator-functions).
