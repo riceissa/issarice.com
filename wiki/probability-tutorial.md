@@ -5,6 +5,8 @@ date: 2017-12-29
 created: 2017-12-29
 ---
 
+Some motivation: I think probability and statistics are often confusing because the ontology of things like "random variable" and "distribution" are unclear/mysterious. Is a random variable really "random" or is it just a deterministic mathematical object? Ever since starting to learn [Haskell](my-haskell-learning), I've been obsessed with asking what type a certain object has.
+
 The following questions should be converted to multiple choice questions.
 
 When we write $X = x$, what is the type of $=$?
