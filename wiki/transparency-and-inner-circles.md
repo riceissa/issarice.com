@@ -12,7 +12,7 @@ i think this will become more important as younger people grow up and gain prest
 some intuitions i use/steps i take are:
 
 - it is important that my current behavior be approved by my younger self.
-- i "leave my door open" as i work; i regularly check email and have facebook messenger open as i work so that people can contract me. this is analogous to someone leaving their office door open as they work so people can walk by and speak to them.
+- i "leave my door open" as i work; i regularly check email and have facebook messenger open as i work so that people can contact me. this is analogous to someone leaving their office door open as they work so people can walk by and speak to them.
 - i try to put a lot of my work publicly online, so more people can access them. private access gives advantage to people "in the circle".
 
 presenting not just outputs but also inputs to one's thinking, to show where one is coming from
