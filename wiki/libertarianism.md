@@ -10,7 +10,7 @@ This page explains my learning of libertarianism, which mostly happened during s
 Things to mention:
 
 - Background: I had read a lot of Bryan Caplan's blog posts, so I knew a bit about the libertarian sphere
-- I think I had read at least half of Michael Huemer's *The Problem of Political Authority* prior to summer of 2017
+- I think I had read at least half of Michael Huemer's *The Problem of Political Authority* prior to summer of 2017, in two phases
 - I made a bunch of timelines as I went along
 - Doherty's *Freewheeling History*
 - I then read parts of a bunch of books like:
