@@ -75,6 +75,8 @@ those involved in the [effective altruism]() movement and the
 may eventually be made public, and the work is intended to help with public
 writeups in the future. This work is funded by Vipul Naik.
 
+I also started a [comparison of machine learning textbooks](https://machinelearning.subwiki.org/wiki/Comparison_of_machine_learning_textbooks) (unpaid).
+
 # Activity feeds
 
 Here are some activity feeds that track what I've been working on:
