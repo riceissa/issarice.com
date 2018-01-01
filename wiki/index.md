@@ -36,18 +36,38 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: November 2017 {#summary}
+# Summary of what I worked on: December 2017 {#summary}
 
 For completed tasks, see the [work page](work).
 
-In addition, during November I did more work on Vipul Naik's Development
-Economics Subwiki. You can see [my contributions](https://devec.subwiki.org/wiki/Special:Contributions/Issa_Rice).
+I continued work on importing data for the Devec/Demography Data Portal
+(especially trying to speed up the bulk import of all the datasets).
 
-I continued work on importing data for the Devec/Demography Data Portal (mostly country name normalization and trying to get all region/metric/year/units/dataset combinations to be unique in the database). One new repository here is [devec_sql_common](https://github.com/riceissa/devec_sql_common), which has some common code for working with all the datasets.
+I started work on the [Devec/Demography Data Portal](https://github.com/riceissa/devec-demography-data-portal) (the actual website rather than just obtaining data).
+This is still in early stages so there is no public instance that one can view.
 
-I also began work on a [Computing Data Project](https://github.com/riceissa/computing-data-project) (to be funded by Vipul Naik). Here I've mostly been reading about different cloud computing services and trying to come up with a database schema, so there isn't much to see yet.
+I continued doing work on [AI Watch](https://aiwatch.issarice.com/), a website
+to track people and organizations in AI safety.
 
-I also [opened a bunch of issues](https://github.com/vipulnaik/donations/issues/created_by/riceissa) on Vipul Naik's Donations List Website repo. Previously our list of things to work on was stored as instant messaging messages, so these issues will make it easier to get an overview of things to work on. The plan is that eventually someone (probably me) will come and complete these tasks.
+I got some work done on the [Computing Data Project](https://github.com/riceissa/computing-data-project).
+It turns out that getting historical EC2 prices is pretty hard to do, so
+progress has been slow.
+
+I worked on importing various data sources for Vipul Naik's Donations List
+Website. Here is a list of all of them:
+
+- [Public Welfare Foundation](https://github.com/riceissa/public-welfare-foundation)
+- [MacArthur Foundation](https://github.com/riceissa/macarthur-foundation)
+- [Ford Foundation](https://github.com/riceissa/ford-foundation)
+- [Hewlett Foundation](https://github.com/riceissa/hewlett-foundation)
+- [Wellcome Trust](https://github.com/riceissa/wellcome-trust)
+- [Bauman Foundation](https://github.com/riceissa/bauman-foundation)
+- [Unbound Philanthropy](https://github.com/riceissa/unbound-philanthropy)
+- [Templeton Foundation](https://github.com/riceissa/templeton-foundation)
+
+In addition, I did coding work for the Donations List Website. This was for
+work on incremental donor similarity computation and some other minor changes.
+You can see [my commits](https://github.com/vipulnaik/donations/commits?author=riceissa).
 
 # Activity feeds
 
