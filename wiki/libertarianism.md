@@ -14,7 +14,7 @@ Things to mention:
 - I made a bunch of timelines as I went along
 - Doherty's *Freewheeling History*
 - I then read parts of a bunch of books like:
-  - Tennehill and Tannehill's *The Market for Liberty* (too Randian)
+  - Tannehill and Tannehill's *The Market for Liberty* (too Randian)
   - Rothbard's *For a New Liberty* (didn't think the book was good, but I enjoyed Bryan Caplan's book club series on Econlog)
   - Ellickson's *Order without Law* (only read a bit of the intro)
   - David Friedman's *The Machinery of Freedom* (seemed good)
