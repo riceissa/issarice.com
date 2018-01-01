@@ -69,6 +69,12 @@ In addition, I did coding work for the Donations List Website. This was for
 work on incremental donor similarity computation and some other minor changes.
 You can see [my commits](https://github.com/vipulnaik/donations/commits?author=riceissa).
 
+I started work on a series of wiki pages about specific individuals, mostly
+those involved in the [effective altruism]() movement and the
+[rationality community](). This work is not public, but a subset of the work
+may eventually be made public, and the work is intended to help with public
+writeups in the future. This work is funded by Vipul Naik.
+
 # Activity feeds
 
 Here are some activity feeds that track what I've been working on:
