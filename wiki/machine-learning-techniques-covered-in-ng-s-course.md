@@ -11,6 +11,7 @@ date: 2017-12-09
 For myself, to keep the techniques straight in my head.
 
 |Technique|Type|Programming assignment example|Uses gradient descent?|
+|---------|----|------------------------------|----------------------|
 |Linear regression|Supervised|Yes|
 |Logistic regression|Supervised|Yes|
 |Neural networks|Supervised|MNIST digit recognition|Yes|
