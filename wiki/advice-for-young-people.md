@@ -713,6 +713,12 @@ can learn a lot about the most exciting things that are happening.
     - gwern
     - Mencius Moldbug/neoreactionaries
     - **Bryan Caplan**: see my page on [EconLog]()
+      - Note that I consider Caplan's views on many philosophy topics to be
+        wrong. Examples: dualism of the mind, intuitionist ethics, free will.
+        I think his posts about applied ethics are good.
+        TODO: link to eliezer saying people are better one meta level down in
+        ethics.
+        TODO: link to hanson and cowen on this.
     - Michael Huemer
     - Eliezer Yudkowsky
     - Wei Dai
