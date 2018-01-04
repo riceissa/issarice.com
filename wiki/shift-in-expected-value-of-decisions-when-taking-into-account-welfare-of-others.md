@@ -71,7 +71,9 @@ $$\begin{align}
 So you shouldn't marry.
 
 In reality, I don't know what the numbers are, and there are more things to
-take into account.
+take into account, like in-between choices, in-between outcomes, the fact that
+in the particular case of marriage you can choose among multiple people or the
+choice might not appear at all, etc.
 
 Some other possibilities for what the "M" could be, other than marriage:
 recreational drug use, frequent travel, risky hobbies, lack of exercise,
@@ -79,7 +81,15 @@ suboptimal office ergonomics.
 
 The problem I described matters much more for people with very high "altruistic
 potential". This is because while such people probably don't have exceptionally
-high ability to find pleasure or suffer, the value they can provide for others
+high ability to feel pleasure or suffer, the value they can provide for others
 is orders of magnitude higher than is typical. If you can single-handedly save
 a billion lives, a little bit of boredom can't justify a small chance of death,
 because humanity needs you that badly.
+
+Note that some people make a similar argument for high-impact people and time
+savings. For instance, they argue that if such people can pay to have their
+house cleaned (instead of cleaning it themselves), they should do so to save
+time (which can then be spent on high-impact activities). This argument depends
+on a high ceiling of innate work hours. If you can only work with high
+intensity for four hours per day, it doesn't matter much whether you clean your
+house or not, as long as you can get those four hours in.
