@@ -83,7 +83,7 @@ The problem I described matters much more for people with very high "altruistic
 potential". This is because while such people probably don't have exceptionally
 high ability to feel pleasure or suffer, the value they can provide for others
 is orders of magnitude higher than is typical. If you can single-handedly save
-a billion lives, a little bit of boredom can't justify a small chance of death,
+a billion lives, avoiding a little bit of boredom can't justify a small chance of death,
 because humanity needs you that badly.
 
 Note that some people make a similar argument for high-impact people and time
