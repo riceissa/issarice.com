@@ -15,14 +15,15 @@ Suppose you have a choice between doing something (M) and not doing the thing
 (NM). Suppose also that doing the thing can end up as good (GM) or bad (BM).
 For concreteness, and to make the exposition clearer, suppose M is the act of
 marriage. In that case, NM is choosing not to marry, GM is a good marriage, and
-BM is a bad marriage.
+BM is a bad marriage. Of course, reality is more complicated and there is a
+distribution of many outcomes, not just three.
 
 Now suppose the utility of each case is described as follows. Beware that I am
 just making up numbers! This is just a proof-of-concept to make the general
 point!
 
 |Outcome|Utility for self|Utility for others|
-|-------|----------------|------------------|
+|-------|---------------:|-----------------:|
 |NM     | $-10$          | $+100$           |
 |GM     | $+10$          | $+110$           |
 |BM     | $-20$          | $0$              |
@@ -44,14 +45,30 @@ BM
     can't donate. The individual capacity to suffer is limited, but your
     altruistic output can suffer dramatically.
 
-Now suppose the probability of GM is 0.6. In that case for NM you have:
+Now suppose the probability of GM is 0.6. In that case we obtain:
 
-$$
-u_\text{self}(\mathrm{NM}) &= -10 \\
-u_\text{self}(\mathrm M)   &= 10p - 20(1-p) \\
-                           &= 30p - 20 \\
-                           &= -2
-$$
+$$\begin{align}
+\mathrm E[u_{\text{self}}(\mathrm{NM})] &= -10 \\
+\mathrm E[u_{\text{self}}(\mathrm M)]   &=
+    u_\text{self}(\mathrm{GM})p + u_\text{self}(\mathrm{BM}) (1-p) \\
+                             &=10p - 20(1-p) \\
+                             &= 30p - 20 \\
+                             &= -2
+\end{align}$$
+
+So selfishly you should marry.
+
+But if we take into account the welfare of others:
+
+$$\begin{align}
+\mathrm E[u(\mathrm{NM})] &= -10 +100 = 90 \\
+\mathrm E[u(\mathrm M)] &= u(\mathrm{GM})p + u(\mathrm{BM})(1-p) \\
+                        &= 120p -20(1-p) \\
+                        &= 140p - 20 \\
+                        &= 64
+\end{align}$$
+
+So you shouldn't marry.
 
 Note that the problem I discuss matters much more for people with very high
 "altruistic potential".
