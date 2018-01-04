@@ -70,5 +70,16 @@ $$\begin{align}
 
 So you shouldn't marry.
 
-Note that the problem I discuss matters much more for people with very high
-"altruistic potential".
+In reality, I don't know what the numbers are, and there are more things to
+take into account.
+
+Some other possibilities for what the "M" could be, other than marriage:
+recreational drug use, frequent travel, risky hobbies, lack of exercise,
+suboptimal office ergonomics.
+
+The problem I described matters much more for people with very high "altruistic
+potential". This is because while such people probably don't have exceptionally
+high ability to find pleasure or suffer, the value they can provide for others
+is orders of magnitude higher than is typical. If you can single-handedly save
+a billion lives, a little bit of boredom can't justify a small chance of death,
+because humanity needs you that badly.
