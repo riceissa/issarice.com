@@ -51,6 +51,24 @@ Here are the bookmarklets I use:
 
 -   "Cite md" (the [Markdown version](https://github.com/riceissa/citewebgen/blob/master/markdown-part.js) of Citewebgen)
 
+# Keyword search
+
+I have several custom keyword searches on Firefox. Following DuckDuckGo's idea
+of "bang expressions", I prefix each keyword with `!`.
+
+- `!g`: google search
+- `!w`: English Wikipedia
+- `!yt`: YouTube (actually sound doesn't work on Firefox now ever since they
+  dropped ALSA support, so I don't use this much now)
+- `!d`: The Free Dictionary
+- `!ia`: Internet Archive
+- `!ias`: save with internet archive
+- `!gooj`: yahoo jisho (japanese dictionary)
+
+Note that for the internet archive keyword searches, use `%S` rather than `%s`
+for the search string placeholder. The latter URL-encodes the search string
+while the former doesn't.
+
 # Settings
 
 In `about:config`:
