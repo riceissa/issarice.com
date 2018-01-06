@@ -14,9 +14,9 @@ plugins more useful.
 
 - Decentraleyes
 - HTTPS Everywhere
+- NoScript
 - Privacy Badger
 - uBlock Origin
-- uMatrix (I removed the 1st-party allow rules so that it behaves more like NoScript. On Chrome I have 1st-party enabled by default.)
 - Web Developer (for viewing the generated HTML source)
 - Zotero Connector
 
@@ -50,6 +50,8 @@ Here are the bookmarklets I use:
 -   [Citewebgen](https://github.com/riceissa/citewebgen/)
 
 -   "Cite md" (the [Markdown version](https://github.com/riceissa/citewebgen/blob/master/markdown-part.js) of Citewebgen)
+
+-   "Cite mdfn", the Markdown footnote version of Citewebgen
 
 # Keyword search
 
