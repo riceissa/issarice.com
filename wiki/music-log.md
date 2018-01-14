@@ -287,6 +287,10 @@ The Pillows:
 * Céu: [*Caravana Sereia Bloom*](https://en.wikipedia.org/wiki/Caravana_Sereia_Bloom)
 * Céu: [*Tropix*](https://en.wikipedia.org/wiki/Tropix)
 
+# January 2018
+
+* Kikuchi Momoko: ["Mystical Composer"](https://www.youtube.com/watch?v=1iQBGaZ_kJ4)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
