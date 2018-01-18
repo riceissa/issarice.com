@@ -14,3 +14,4 @@ I wonder what the reasons are for this. Some ideas I can think of are:
 * Although Wei writes about philosophical problems, he doesn't write so much about empirical issues in global poverty and health.
 * He doesn't seem to do a lot of self-promotion.
 * He seems like a "quiet nerd" based on [this post](http://lesswrong.com/lw/66y/what_do_bad_clothes_signal_about_you/) about fashion. But isn't this true for many other people popular in EA?
+* His anti-academia bent. He doesn't really write papers.
