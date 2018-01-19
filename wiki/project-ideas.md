@@ -116,3 +116,4 @@ improvements, I will try to list them here.
   by Vipul Naik lists article ideas
 - [Luke Muehlhauser's 2011 list of posts he would like to write](http://lesswrong.com/lw/85d/11_less_wrong_articles_i_probably_will_never_have/)
 - [orthonormal's 2012 list of posts they would like to write](http://lesswrong.com/lw/cnl/posts_id_like_to_write_includes_poll/)
+- [How to study superintelligence strategy](http://lukemuehlhauser.com/some-studies-which-could-improve-our-strategic-picture-of-superintelligence/)
