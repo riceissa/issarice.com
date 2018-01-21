@@ -16,5 +16,6 @@ I wonder what the reasons are for this. Some ideas I can think of are:
 * He seems like a "quiet nerd" based on [this post](http://lesswrong.com/lw/66y/what_do_bad_clothes_signal_about_you/) about fashion. But isn't this true for many other people popular in EA?
 * His anti-academia bent. He doesn't really write papers.
 * He does not comment on Facebook very much.
+* I'm wrong about one of my assumptions (that Wei's writings are relevant, or that EAs aren't paying attention).
 
 Overall I'm still pretty confused about this.
