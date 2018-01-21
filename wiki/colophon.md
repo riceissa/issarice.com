@@ -8,7 +8,7 @@ date: 2015-08-31
 Here are the tools used to build and run this site.
 
 Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdown syntax](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown).
-The markdown files are then compiled to HTML using Pandoc and a Makefile.
+The markdown files are then converted to HTML using Pandoc and a Makefile.
 
 The [style sheet for this
 site](https://github.com/riceissa/issarice.com/blob/master/css/solarized_light.css) is
