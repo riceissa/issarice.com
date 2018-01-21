@@ -3,6 +3,8 @@
 -- See http://pandoc.org/lua-filters.html for more information about Lua
 -- Filters.
 
+pandoc.utils = require 'pandoc.utils'
+
 -- For debugging. From https://stackoverflow.com/a/27028488/3422337
 function dump(o)
    if type(o) == 'table' then
@@ -21,34 +23,6 @@ end
 -- Here the "k" values are just numbers 1, 2, 3, and so on.
 -- Using "-t json" rather than "-t native" also works.
 
--- "Stringify" the content by taking away the Pandoc structure so that we can
--- use it as a normal Lua string.
-function stringify(content)
-  if type(content) == "table" then
-    local ret = ""
-    for k, v in pairs(content) do
-      if v.t == "Str" then
-        ret = ret .. v.text
-      elseif v.t == "Space" then
-        ret = ret .. " "
-      elseif v.t == "SoftBreak" then
-        ret = ret .. " "
-      elseif v.t == "Emph" then
-        ret = ret .. stringify(v.content)
-      elseif v.t == "Strong" then
-        ret = ret .. stringify(v.content)
-      elseif v.t == "Quoted" then
-        -- When the type is "Quoted", we get a list where the first element is
-        -- the quote type (like "DoubleQuote") and the second element is
-        -- another list that can be processed.
-        ret = ret .. stringify(v.content)
-      else
-        io.stderr:write("got here: " .. tostring(v.t) .. "; " .. dump(content) .. "\n")
-      end
-    end
-    return ret
-  end
-end
 
 -- Slugify the string x. Unicode support isn't too good at the moment and must
 -- be hard-coded into the map.
@@ -78,18 +52,18 @@ function Link(elem)
   local target = elem.target
   if elem.target == "!w" then
     target = "https://en.wikipedia.org/wiki/" ..
-      stringify(elem.content):gsub(" ", "_")
+      pandoc.utils.stringify(elem.content):gsub(" ", "_")
   elseif elem.target:find("^!w%%20") then
     target = "https://en.wikipedia.org/wiki/" ..
-      string.sub(elem.target:gsub(" ", "_"), 1 + #"!w%20")
+      string.sub(elem.target:gsub("%%20", "_"), 1 + #"!w_")
   elseif elem.target:find("^!wja%%") then
     target = "https://ja.wikipedia.org/wiki/" ..
-      string.sub(elem.target:gsub(" ", "_"), 1 + #"!wja%20")
+      string.sub(elem.target:gsub("%%20", "_"), 1 + #"!wja_")
   elseif elem.target:find("^!") then
-    target = "http://duckduckgo.com/?q=" .. elem.target .. " " ..
-      stringify(elem.content)
+    target = "http://duckduckgo.com/?q=" .. elem.target .. "+" ..
+      pandoc.utils.stringify(elem.content):gsub(" ", "+")
   elseif elem.target == "" then
-    target = slug(stringify(elem.content))
+    target = slug(pandoc.utils.stringify(elem.content))
   end
   return pandoc.Link(elem.content, target, elem.title, elem.attr)
 end
