@@ -105,6 +105,7 @@ improvements, I will try to list them here.
 |Various contributions to [Cause Prioritization Wiki](https://causeprioritization.org/)|The wiki has been mostly dormant for a few years, and at some point I would like to return to writing more pages for it. I might list some specific area for improvement in this list at some point|2|Cause Prioritization Wiki|Various|
 |Magical reality fluid|A page about what it is and any progress made on understanding it. Some links: [1](https://www.facebook.com/alyssamvance/posts/10205442165803261), [1](https://www.google.com/search?q=%22magical%20reality%20fluid%22), [3](http://lesswrong.com/lw/ua/the_level_above_mine/8bww).|1|LessWrong Wiki|Prose|
 |Psycho-conservatism|A wiki page about the topic, covering proponents, major beliefs, books, blogs, groups within the broader [rationality community]() that discuss it, etc.|0|LessWrong Wiki|Prose|
+|TDT vs UDT vs FDT|A page describing how these decision theories are related. I understand that TDT is now deprecated and UDT is an example of FDT, but what exactly did TDT get wrong that is no longer part of FDT? How does UDT differ from other FDTs?|1|LessWrong Wiki?|Prose|
 
 # External links
 
