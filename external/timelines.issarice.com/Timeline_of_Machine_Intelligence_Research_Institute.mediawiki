@@ -432,7 +432,7 @@ Also general stuff like big news coverage.
 
 ==See also==
 
-* [[Timeline of friendly artificial intelligence]]
+* [[Timeline of AI safety]]
 * [[Timeline of Against Malaria Foundation]]
 * [[Timeline of Center for Applied Rationality]]
 
