@@ -336,7 +336,7 @@ The red vertical line (for June 2015) represents a change in the method of estim
 |-
 | 2015 || {{dts|September 26}} || Outside review || The Effective Altruism Wiki page on MIRI is created.<ref>{{cite web|url = http://effective-altruism.wikia.com/wiki/Library/Machine_Intelligence_Research_Institute?oldid=4576|title = Library/Machine Intelligence Research Institute|publisher = Effective Altruism Wikia|date = September 26, 2015|accessdate = July 15, 2017}}</ref>
 |-
-| 2016 || || Publication || MIRI pays Eliezer Yudkowsky to produce AI risk content for Arbital.<ref>{{cite web |url=http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/ |title=2017 AI Risk Literature Review and Charity Comparison |publisher=Effective Altruism Forum |author=Larks |date=December 13, 2016 |accessdate=July 8, 2017}}</ref> (Not sure if there are any more details of this available.)
+| 2016 || || Publication || MIRI pays Eliezer Yudkowsky to produce AI alignment content for Arbital.<ref>{{cite web |url=http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/ |title=2017 AI Risk Literature Review and Charity Comparison |publisher=Effective Altruism Forum |author=Larks |date=December 13, 2016 |accessdate=July 8, 2017}}</ref><ref>{{cite web |url=https://arbital.com/explore/ai_alignment/ |title=Arbital |accessdate=January 30, 2018}}</ref> (Not sure if there are any more details of this available.)
 |-
 | 2016 || {{dts|April 1}}–3 || Workshop || The Self-Reference, Type Theory, and Formal Verification takes place.<ref name="workshops" />
 |-
