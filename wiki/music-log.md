@@ -290,6 +290,7 @@ The Pillows:
 # January 2018
 
 * Kikuchi Momoko: ["Mystical Composer"](https://www.youtube.com/watch?v=1iQBGaZ_kJ4)
+* More city pop
 
 # History
 
