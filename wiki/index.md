@@ -36,46 +36,24 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: December 2017 {#summary}
+# Summary of what I worked on: January 2018 {#summary}
 
 For completed tasks, see the [work page](work).
 
-I continued work on importing data for the Devec/Demography Data Portal
-(especially trying to speed up the bulk import of all the datasets).
-
-I started work on the [Devec/Demography Data Portal](https://github.com/riceissa/devec-demography-data-portal) (the actual website rather than just obtaining data).
-This is still in early stages so there is no public instance that one can view.
-
-I continued doing work on [AI Watch](https://aiwatch.issarice.com/), a website
-to track people and organizations in AI safety.
-
-I got some work done on the [Computing Data Project](https://github.com/riceissa/computing-data-project).
-It turns out that getting historical EC2 prices is pretty hard to do, so
-progress has been slow.
-
-I worked on importing various data sources for Vipul Naik's Donations List
-Website. Here is a list of all of them:
-
-- [Public Welfare Foundation](https://github.com/riceissa/public-welfare-foundation)
-- [MacArthur Foundation](https://github.com/riceissa/macarthur-foundation)
-- [Ford Foundation](https://github.com/riceissa/ford-foundation)
-- [Hewlett Foundation](https://github.com/riceissa/hewlett-foundation)
-- [Wellcome Trust](https://github.com/riceissa/wellcome-trust)
-- [Bauman Foundation](https://github.com/riceissa/bauman-foundation)
-- [Unbound Philanthropy](https://github.com/riceissa/unbound-philanthropy)
-- [Templeton Foundation](https://github.com/riceissa/templeton-foundation)
-
-In addition, I did coding work for the Donations List Website. This was for
-work on incremental donor similarity computation and some other minor changes.
-You can see [my commits](https://github.com/vipulnaik/donations/commits?author=riceissa).
-
-I started work on a series of wiki pages about specific individuals, mostly
+I continued work on a series of wiki pages about specific individuals, mostly
 those involved in the [effective altruism]() movement and the
 [rationality community](). This work is not public, but a subset of the work
 may eventually be made public, and the work is intended to help with public
 writeups in the future. This work is funded by Vipul Naik.
 
-I also started a [comparison of machine learning textbooks](https://machinelearning.subwiki.org/wiki/Comparison_of_machine_learning_textbooks) (unpaid).
+I also did work on Vipul Naik's [Donations List Website](https://donations.vipulnaik.com),
+mostly on importing more donations data.
+You can see the [issues](https://github.com/vipulnaik/donations/issues)
+on the repo for some of the things I've been working on.
+You can also see [my commits](https://github.com/vipulnaik/donations/commits?author=riceissa).
+
+I continued doing work on [AI Watch](https://aiwatch.issarice.com/), a website
+to track people and organizations in AI safety.
 
 # Activity feeds
 
