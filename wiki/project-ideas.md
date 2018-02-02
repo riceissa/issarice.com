@@ -106,6 +106,7 @@ improvements, I will try to list them here.
 |Magical reality fluid|A page about what it is and any progress made on understanding it. Some links: [1](https://www.facebook.com/alyssamvance/posts/10205442165803261), [1](https://www.google.com/search?q=%22magical%20reality%20fluid%22), [3](http://lesswrong.com/lw/ua/the_level_above_mine/8bww).|1|LessWrong Wiki|Prose|
 |Psycho-conservatism|A wiki page about the topic, covering proponents, major beliefs, books, blogs, groups within the broader [rationality community]() that discuss it, etc.|0|LessWrong Wiki|Prose|
 |TDT vs UDT vs FDT|A page describing how these decision theories are related. I understand that TDT is now deprecated and UDT is an example of FDT, but what exactly did TDT get wrong that is no longer part of FDT? How does UDT differ from other FDTs?|1|LessWrong Wiki?|Prose|
+|Better design for online documents|I'm not satisfied with any website design that exists today. My own website is my attempt so far to design a good simple site, but there are still parts I don't like, e.g. how it handles large tables. [Distill](https://distill.pub/guide/) looks good but I don't want to write in an idiosyncratic HTML format. I think Medium and LessWrong 2.0 are gesturing toward something similar to what I want, but I don't like either of them too much. For me, the ideal output would be a Pandoc template with a CSS stylesheet so that I could write in Pandoc Markdown.|2|GitHub|CSS, HTML, and some JavaScript|
 
 # External links
 
