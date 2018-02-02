@@ -47,3 +47,5 @@ looks mysterious because I didn't know the [conversion rule from probability of 
 (Lots of reading in AI strategy and other topics unrelated to AI safety here, so not much progress on machine learning.)
 
 2018-01-31: started reading <http://neuralnetworksanddeeplearning.com/chap1.html>.
+
+2018-02-01: continued reading chapter 1.
