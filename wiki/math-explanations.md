@@ -18,6 +18,7 @@ In my mind some things that make explanations good are:
 - When using terms, saying explicitly whether a term is commonly used in the field or whether it is made up on the spot or only used in some sub-communities. This is similar to how when explaining a controversial topic, one should be able to state the other side's views clearly (i.e. pass the Ideological Turing Test for other views).
 - When giving an abstraction (e.g. definition), say it in multiple ways, and also give the reason you're defining it that way.
 - Seriously, why don't all textbooks have multiple choice questions and [error-spotting exercises](https://learning.subwiki.org/wiki/Error-spotting_exercise) mixed in with the exposition?
+- Explaining why naive versions one might come up with cannot be true. [Example](https://calculus.subwiki.org/wiki/Chain_rule_for_differentiation#Why_more_naive_chain_rules_don.27t_make_sense).
 
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
