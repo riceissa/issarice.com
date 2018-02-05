@@ -21,4 +21,18 @@ In my mind some things that make explanations good are:
 
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
+Personally I find a lot of tutorial-based explanations difficult to follow because I can't keep a lot of things in my head at once, unless I'm the one generating the thoughts (for instance, when I'm programming I can keep many variables fresh in my mind, but when I'm reading someone else's code I find it difficult to do the same). I wish more [variable/term tables](https://machinelearning.subwiki.org/wiki/Summary_table_of_probability_terms#Table) were given in math explanations so that if one forgets the context one can periodically look it up again without scrolling all over the place.
+
+Being clear about ontology helps, I think, and helps to avoid confusing exposition. Something I don't like is when $\frac{dy}{dx}$ is treated both as a function and as a variable. In my world, variables cannot change once you assign them once. It doesn't make sense to talk about "let $x=3$ and see what happens as $x$ increases", because everything is static. If you want to talk about changes, you define a *static* lookup table, i.e. a function. And a function is not some machine that computes outputs from inputs; it is just a graph.
+
+Maybe it makes sense for some people to think of variables as changing, but the fact remains that you *can* formalize this in logic without any moving parts.
+
+On page 21 of [these notes](http://cs229.stanford.edu/section/cs229-linalg.pdf) the notational confusion of $\nabla f(Ax)$ (where $A$ is an $m$ by $n$ matrix and $f : \mathbf R^m \to \mathbf R^n$ is a function) is mentioned.
+
+It seems like a lot of people complain about poor notation but then they just get used to it. Whereas I have something like a gag reflex to confusing notation and have difficulty understanding explanations until they use good notation.
+
+My [math 334]() page talks about the confusing notation of the chain rule too.
+
+[This guide to backpropagation](http://www.cl.cam.ac.uk/archive/mjcg/plans/Backpropagation.pdf) by [Michael J. C. Gordon](!w) is interesting, especially since he spends a lot of time reviewing basic calculus results and understands functional programming (likes functions more than expressions, and defines types!). Unfortunately I find some *other* notational issues, like the difficulty of distinguishing between multiplication and function application (the latter is a space like in Haskell, but it's sort of hard to tell between an explicit space and the kerning).
+
 Since in my experience most exposition is horrible, I am a big fan of shopping around to find the really good books. Not sure I've really succeeded in doing this for ML though.
