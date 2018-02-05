@@ -49,3 +49,5 @@ looks mysterious because I didn't know the [conversion rule from probability of 
 2018-01-31: started reading <http://neuralnetworksanddeeplearning.com/chap1.html>.
 
 2018-02-01: continued reading chapter 1.
+
+2018-02-04: finished chapter 1, starting on chapter 2 (backpropagation). Reread [this post](http://colah.github.io/posts/2015-08-Backprop/) and looked at a bunch of other explanations of backpropagation. Nielsen's explanation is usually clear but with backpropagation I find myself quite confused. I think the treatment of partial derivatives as *variables* rather than as just *functions* is a notational convention I dislike.
