@@ -1,0 +1,19 @@
+Comments from https://www.facebook.com/groups/603754013306026/permalink/603842406630520/
+
+This might be the discussion you were thinking of: https://github.com/peterhurford/xventures/issues/69
+
+=====
+
+Some related slides from a talk about LessWrong 2.0: https://docs.google.com/presentation/d/1RJlK5wJw9ybWvQF0gSSBn_7okT9F6KRtjHKbG-b2f1U/edit#slide=id.g1fb897d676_0_54
+
+=====
+
+For LessWrong, I mainly care about the output of specific users and tend to use Wei Dai's script at http://www.ibiblio.org/weidai/lesswrong_user.php (which will most likely stop working once LW 2.0 takes over the domain).
+
+=====
+
+I have some archives of EA Hub profiles, Arbital, and other random stuff. Back in 2014 and maybe 2015 I archived a lot of Quora content of users I liked (Quora disallows the Internet Archive to archive its pages so it seemed quite possible that a lot of content would be irrevocably lost), though this wasn't specifically rationalist/EA content. I have a bookmarklet to archive pages using the Internet Archive and archive.is (https://issarice.com/firefox#bookmarklets) and mostly do that for pages I read and cite (this means I don't have to worry about storage costs, but if the services go away then the archived content also goes away).
+
+One issue I've run into is that people don't want their stuff to be re-posted once gone. Even gwern personally asked me to stop hosting some of his deleted pages (for context, see https://files.issarice.com/gwern/info.html). For social media profiles, I started taking some notes at http://contentcreation.issarice.com/psychology-of-social-media-profile-deletion/ but haven't returned to it recently.
+
+I have more notes at https://issarice.com/digital-preservation but that doesn't talk about content targeting (it's more about the technical difficulties of archiving stuff).
