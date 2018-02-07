@@ -58,7 +58,7 @@ looks mysterious because I didn't know the [conversion rule from probability of 
 
 Let's say we have some cost function $C$ that we're trying to minimize. What is the type of $C$? It gives a cost as a real number, so we can write $C : ? \to \mathbf R$. It takes as input all the weights in our network, and each weight is a matrix, so it looks like the cost function takes something in $\mathbf R^{(L-1)\times N \times M}$, where $L$ is the number of layers, $N$ is the maximum number of neurons in layers except the first, and $M$ is the maximum number of neurons in layers except the last, or something like that. I say "maximum" we need at least that much in dimension to accommodate all the weights, but since many of those weights will take up less dimension, there will be some sort of "blanks"; I'm not sure what these look like. (I think this is part of why I'm not satisfied by any of the explanations of backpropagation that I have seen, because I don't think any of them have mentioned these "blanks".)
 
-So $\nabla C$ will consist of coordinates $\frac{\partial C}{\partial W^\ell_{jk}}$.
+So $\nabla C$ will consist of coordinates $\frac{\partial C}{\partial W^\ell_{jk}} : \mathbf R^{(L-1)\times M\times N} \to \mathbf R$.
 
 2018-02-07: reading about lagrange multipliers and backpropagation:
 
