@@ -14,37 +14,40 @@ On this page I'll present my results for various personality/morality tests, sor
 
 Taken on 2018-02-06; [test link](http://www.outofservice.com/bigfive/).
 
-![Big Five](big-five-2018-02-06.png)
+[![Big Five](big-five-2018-02-06.png)](big-five-2018-02-06.png)
 
 ## Autism spectrum quotient
 
 Taken on 2018-02-05; [test link](https://psychology-tools.com/autism-spectrum-quotient/).
 
-![Autism spectrum quotient](autism-spectrum-quotient-2018-02-05.png)
+[![Autism spectrum
+quotient](autism-spectrum-quotient-2018-02-05.png)](autism-spectrum-quotient-2018-02-05.png)
 
 ## Depression Anxiety Stress Scale
 
 Taken on 2018-02-05; [test link](https://openpsychometrics.org/tests/DASS/).
 
-![Depression Anxiety Stress Scale](depression-anxiety-stress-scale-2018-02-05.png)
+[![Depression Anxiety Stress Scale](depression-anxiety-stress-scale-2018-02-05.png)](depression-anxiety-stress-scale-2018-02-05.png)
 
 ## Nerdy Personality Attributes Scale
 
 Taken on 2018-02-06; [test link](https://openpsychometrics.org/tests/NPAS/).
 
-![Nerdy Personality Attributes Scale](nerdy-personality-attributes-scale-2018-02-06.png)
+[![Nerdy Personality Attributes Scale](nerdy-personality-attributes-scale-2018-02-06.png)](nerdy-personality-attributes-scale-2018-02-06.png)
 
 ## Social Intelligence Test
 
 Taken on 2018-02-05; [test link](http://socialintelligence.labinthewild.org/mite/).
 
-![Social Intelligence Test](social-intelligence-2018-02-05.png)
+[![Social Intelligence
+Test](social-intelligence-2018-02-05.png)](social-intelligence-2018-02-05.png)
 
 ## Systemising Quotient
 
 Taken on 2018-02-06; [test link](https://www.aspietests.org/sq/index.php).
 
-![Systemising Quotient](systemising-quotient-2018-02-06.png)
+[![Systemising
+Quotient](systemising-quotient-2018-02-06.png)](systemising-quotient-2018-02-06.png)
 
 ## Myers–Briggs Type Indicator
 
