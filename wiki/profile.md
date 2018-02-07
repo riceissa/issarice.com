@@ -61,6 +61,10 @@ systemizing about things like ideas and websites); (2) I tended to answer that
 I have difficulty understanding e.g. maps and diagrams because I think they are
 often poorly produced.
 
+## IQ
+
+I took the test at <http://www.iqtest.dk/> on 2018-02-06 and got a score of 112.
+
 ## Myers–Briggs Type Indicator
 
 I seem to consistently test out as INPT, though I'm only heavily biased in the "I" part of the personality type and the "NPT" part is more intermediate.
