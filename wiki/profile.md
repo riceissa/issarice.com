@@ -2,7 +2,7 @@
 title: Profile
 author: Issa Rice
 created: 2015-07-25
-date: 2015-07-25
+date: 2018-02-06
 status: notes
 ---
 
