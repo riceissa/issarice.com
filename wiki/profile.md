@@ -55,7 +55,7 @@ Taken on 2018-02-06; [test link](https://www.aspietests.org/sq/index.php).
 [![Systemising
 Quotient](systemising-quotient-2018-02-06.png)](systemising-quotient-2018-02-06.png)
 
-I think my scores for this one is unusually low for two reasons: (1) I'm not
+I think my score for this one is unusually low for two reasons: (1) I'm not
 very systemizing about things like plants, animals, and airplanes (I'm more
 systemizing about things like ideas and websites); (2) I tended to answer that
 I have difficulty understanding e.g. maps and diagrams because I think they are
