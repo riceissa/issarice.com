@@ -29,6 +29,9 @@ Taken on 2018-02-05; [test link](https://openpsychometrics.org/tests/DASS/).
 
 [![Depression Anxiety Stress Scale](depression-anxiety-stress-scale-2018-02-05.png)](depression-anxiety-stress-scale-2018-02-05.png)
 
+I think the results here are unusually low because I've managed to block off
+most of my stressors.
+
 ## Nerdy Personality Attributes Scale
 
 Taken on 2018-02-06; [test link](https://openpsychometrics.org/tests/NPAS/).
@@ -42,12 +45,21 @@ Taken on 2018-02-05; [test link](http://socialintelligence.labinthewild.org/mite
 [![Social Intelligence
 Test](social-intelligence-2018-02-05.png)](social-intelligence-2018-02-05.png)
 
+I should note that I took this test sometime around 2013--2014. I don't
+remember what I got or if I still have the results.
+
 ## Systemising Quotient
 
 Taken on 2018-02-06; [test link](https://www.aspietests.org/sq/index.php).
 
 [![Systemising
 Quotient](systemising-quotient-2018-02-06.png)](systemising-quotient-2018-02-06.png)
+
+I think my scores for this one is unusually low for two reasons: (1) I'm not
+very systemizing about things like plants, animals, and airplanes (I'm more
+systemizing about things like ideas and websites); (2) I tended to answer that
+I have difficulty understanding e.g. maps and diagrams because I think they are
+often poorly produced.
 
 ## Myers–Briggs Type Indicator
 
