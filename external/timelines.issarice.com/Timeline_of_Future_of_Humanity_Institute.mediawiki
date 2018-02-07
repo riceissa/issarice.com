@@ -12,6 +12,9 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2005 || || || The Future of Humanity Institute is established.<ref>{{cite web |url=https://www.oxfordmartin.ox.ac.uk/research/programmes/future-humanity/ |publisher=Oxford Martin School |title=About {{!}} Future of Humanity Institute {{!}} Programmes |accessdate=February 7, 2018}}</ref>
+|-
+| 2014 || {{dts|July}}–September || Influence || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published. While Bostrom has never worked for MIRI, he is a research advisor to MIRI. MIRI also contributed substantially to the publication of the book.<ref name="shulman_miri_causal_influences">{{cite web |url=http://effective-altruism.com/ea/ns/my_cause_selection_michael_dickens/50b |title=Carl_Shulman comments on My Cause Selection: Michael Dickens |publisher=Effective Altruism Forum |accessdate=July 6, 2017 |date=September 17, 2015}}</ref>
 |}
 
 ==Meta information on the timeline==
@@ -29,6 +32,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 ==See also==
 
 ==External links==
+
+* {{W|Future of Humanity Institute}} (Wikipedia)
 
 ==References==
 
