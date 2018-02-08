@@ -12,7 +12,7 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
-| 2017 || {{dts|January 7}} || || BERI's domain, <code>existence.org</code>, is possibly purchased around this date.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=existence.org |title={{!}} ICANN WHOIS |accessdate=February 8, 2018 |quote=Updated Date: 2017-01-07T06:13:04Z}}</ref>
+| 2017 || {{dts|January 7}} || || BERI's domain, <code>existence.org</code>, is possibly purchased around this date.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=existence.org |title=Showing results for: EXISTENCE.ORG |accessdate=February 8, 2018 |quote=Updated Date: 2017-01-07T06:13:04Z}}</ref>
 |-
 | 2017 || {{dts|March 17}} || || The first snapshot of BERI's website on the Internet Archive is from this day.<ref>{{cite web |url=http://existence.org |title=Berkeley Existential Risk Initiative |accessdate=February 8, 2018 |archiveurl=https://web.archive.org/web/20170317050259/http://existence.org |archivedate=March 17, 2017 |dead-url=yes}}</ref>
 |-
