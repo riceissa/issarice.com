@@ -12,6 +12,7 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2017 || {{Dts|July}} || || BERI receives a grant of $403,890 from the Open Philanthropy Project to "support BERI core staff and collaboration between BERI and CHAI [the Center for Human-Compatible AI]".<ref>{{cite web |url=https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/berkeley-existential-risk-initiative-core-staff-and-chai-collaboration |publisher=Open Philanthropy Project |title=Berkeley Existential Risk Initiative (BERI) — Core Support and CHAI Collaboration |date=December 15, 2017 |accessdate=February 8, 2018}}</ref>
 |}
 
 ==Meta information on the timeline==
@@ -29,6 +30,10 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 ==See also==
 
 ==External links==
+
+* [https://donations.vipulnaik.com/donee.php?donee=Berkeley+Existential+Risk+Initiative Donations List Website (donee)]
+* [https://donations.vipulnaik.com/donor.php?donor=Berkeley+Existential+Risk+Initiative Donations List Website (donor)]
+* [https://aiwatch.issarice.com/?organization=Berkeley+Existential+Risk+Initiative AI Watch]
 
 ==References==
 
