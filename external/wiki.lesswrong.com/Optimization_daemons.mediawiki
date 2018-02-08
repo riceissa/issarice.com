@@ -1,0 +1,23 @@
+'''Optimization daemons''' are optimizers that result from heavy optimization pressure on a different system. For example, natural selection is an optimization process (that optimizes for reproductive fitness) that produced humans (who are capable of pursuing goals that no longer correlate reliably with reproductive fitness). In this case, humans are optimization daemons of natural selection. In the context of [[AI alignment]], the concern is that an artificial general intelligence exerting optimization pressure may produce daemons that break alignment.<ref name="arbital-daemons" />
+
+==History==
+
+[[Wei Dai]] brings up a similar idea in an SL4 thread.<ref>Wei Dai. [http://sl4.org/archive/0312/7421.html '"friendly" humans?'] December 31, 2003.</ref>
+
+The optimization daemons article on [[Arbital]] was published probably in 2016.<ref name="arbital-daemons">[https://arbital.com/p/daemons/ "Optimization daemons"]. Arbital.</ref>
+
+[[Jessica Taylor]] wrote two posts about daemons while at [[MIRI]]:
+
+* [https://agentfoundations.org/item?id=1281 "Are daemons a problem for ideal agents?"] (2017-02-11)
+* [https://agentfoundations.org/item?id=1290 "Maximally efficient agents will probably have an anti-daemon immune system"] (2017-02-23)
+
+==References==
+
+<references/>
+
+==External links==
+
+Some posts that reference optimization daemons:
+
+* [http://effective-altruism.com/ea/1k4/draft_cause_prioritization_for_downsidefocused/ "Cause prioritization for downside-focused value systems"]: "Alternatively, perhaps goal preservation becomes more difficult the more capable AI systems become, in which case the future might be controlled by unstable goal functions taking turns over the steering wheel"
+* [https://ai-alignment.com/techniques-for-optimizing-worst-case-performance-39eafec74b99 "Techniques for optimizing worst-case performance"]: "The difficulty of optimizing worst-case performance is one of the most likely reasons that I think prosaic AI alignment might turn out to be impossible (if combined with an unlucky empirical situation)." (the phrase "unlucky empirical situation" links to the optimization daemons page on [[Arbital]])
