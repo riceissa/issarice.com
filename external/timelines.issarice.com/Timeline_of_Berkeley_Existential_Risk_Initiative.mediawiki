@@ -15,6 +15,8 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''.
 | 2017 || {{Dts|April 20}} || || A post on the Effective Altruism Forum announces a grant from the Long-Term Future Fund (one of the EA Funds) to BERI worth $14,838.02.<ref>{{cite web |url=http://effective-altruism.com/ea/19d/update_on_effective_altruism_funds/ |title=Update on Effective Altruism Funds - Effective Altruism Forum |accessdate=February 8, 2018}}</ref>
 |-
 | 2017 || {{Dts|July}} || || BERI receives a grant of $403,890 from the Open Philanthropy Project to "support BERI core staff and collaboration between BERI and CHAI [the Center for Human-Compatible AI]".<ref>{{cite web |url=https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/berkeley-existential-risk-initiative-core-staff-and-chai-collaboration |publisher=Open Philanthropy Project |title=Berkeley Existential Risk Initiative (BERI) — Core Support and CHAI Collaboration |date=December 15, 2017 |accessdate=February 8, 2018}}</ref>
+|-
+| 2017 || {{dts|September 25}} || || BERI announces its first two grants: $100,000 each to the Machine Intelligence Research Institute and the Future of Life Institute.<ref>{{cite web |url=http://existence.org/grants |title=Berkeley Existential Risk Initiative {{!}} Announcing BERI's first grants program |accessdate=February 8, 2018}}</ref>
 |}
 
 ==Meta information on the timeline==
