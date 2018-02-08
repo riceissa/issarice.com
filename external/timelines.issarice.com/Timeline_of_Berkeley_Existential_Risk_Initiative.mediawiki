@@ -14,11 +14,11 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''.
 |-
 | 2017 || {{dts|January 7}} || || BERI's domain, <code>existence.org</code>, is possibly purchased around this date.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=existence.org |title=Showing results for: EXISTENCE.ORG |accessdate=February 8, 2018 |quote=Updated Date: 2017-01-07T06:13:04Z}}</ref>
 |-
-| 2017 || {{dts|March 17}} || || The first snapshot of BERI's website on the Internet Archive is from this day.<ref>{{cite web |url=http://existence.org |title=Berkeley Existential Risk Initiative |accessdate=February 8, 2018 |archiveurl=https://web.archive.org/web/20170317050259/http://existence.org |archivedate=March 17, 2017 |dead-url=yes}}</ref>
-|-
 | 2017 || {{dts|February}} || || BERI is incorporated.<ref>{{cite web |url=http://existence.org/08-2017-semi-annual-report.pdf |title=The Berkeley Existential Risk Initiative's Semi-Annual Report |accessdate=February 8, 2018}}</ref>
 |-
 | 2017 || {{Dts|February 2}} || || On his blog, Andrew Critch publishes the post "Deserving Trust / Grokking Newcomb's Problem", which explains his concept of "deserving trust" using Newcomb's problem (and its variant with transparent boxes).<ref>{{cite web |url=http://acritch.com/deserving-trust/ |title=Deserving Trust / Grokking Newcomb's Problem {{!}} Andrew Critch |accessdate=February 8, 2018}}</ref>
+|-
+| 2017 || {{dts|March 17}} || || The first snapshot of BERI's website on the Internet Archive is from this day.<ref>{{cite web |url=http://existence.org |title=Berkeley Existential Risk Initiative |accessdate=February 8, 2018 |archiveurl=https://web.archive.org/web/20170317050259/http://existence.org |archivedate=March 17, 2017 |dead-url=yes}}</ref>
 |-
 | 2017 || {{Dts|April 20}} || || A post on the Effective Altruism Forum announces a grant from the Long-Term Future Fund (one of the EA Funds) to BERI worth $14,838.02.<ref>{{cite web |url=http://effective-altruism.com/ea/19d/update_on_effective_altruism_funds/ |title=Update on Effective Altruism Funds - Effective Altruism Forum |accessdate=February 8, 2018}}</ref> This is part of a $50,000 grant (the rest being made from other funding sources).
 |-
