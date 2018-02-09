@@ -29,7 +29,7 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''. Berkeley Exist
 |-
 | 2017 || {{dts|September 12}} || Technical || The BERI blog is created around this time. (This is the date of the first blog post.)<ref>{{cite web |url=http://existence.org/reports/2017/09/12/semi-annual-report.html |title=Berkeley Existential Risk Initiative {{!}} BERI's semi-annual report, August 2017 |accessdate=February 9, 2018}}</ref>
 |-
-| 2017 || {{dts|September 25}} || Financial || BERI announces its grants program as well as the program's first two grants: $100,000 each to the Machine Intelligence Research Institute and the Future of Life Institute.<ref>{{cite web |url=http://existence.org/grants |title=Berkeley Existential Risk Initiative {{!}} Announcing BERI's first grants program |accessdate=February 8, 2018}}</ref>
+| 2017 || {{dts|September 25}} || Financial || BERI announces its grants program as well as the program's first two grants: $100,000 each to the {{W|Machine Intelligence Research Institute}} and the {{W|Future of Life Institute}}.<ref>{{cite web |url=http://existence.org/grants |title=Berkeley Existential Risk Initiative {{!}} Announcing BERI's first grants program |accessdate=February 8, 2018}}</ref>
 |-
 | 2017 || {{dts|October}} || Financial || BERI makes a grant of $50,000 to Future of Life Institute.<ref name="october-2017-activity-update">{{cite web |url=http://existence.org/2017/11/03/activity-update-october-2017.html |title=Berkeley Existential Risk Initiative {{!}} Activity Update - October 2017 |accessdate=February 9, 2018}}</ref>
 |-
