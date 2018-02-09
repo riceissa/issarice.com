@@ -9,7 +9,7 @@ While the application of [[Functional decision theory|functional]]/[[Updateless 
 |-
 | Zvi Mowshowitz || "How I Lost 100 Pounds Using TDT"<ref>Zvi Mowshowitz. [http://lesswrong.com/lw/4sh/how_i_lost_100_pounds_using_tdt/ "How I Lost 100 Pounds Using TDT"]. ''LessWrong''. March 14, 2011.</ref> || Argues that reasoning like a TDT agent helped him lose weight.
 |-
-| Caspar Oesterheld || "Multiverse-wide Cooperation via Correlated Decision Making"<ref>Caspar Oesterheld. "Multiverse-wide Cooperation via Correlated Decision Making". ''Foundational Research Institute''. August 14, 2017.</ref> (see the section "Superrational cooperation on Earth") ||
+| Caspar Oesterheld || "Multiverse-wide Cooperation via Correlated Decision Making"<ref>Caspar Oesterheld. "Multiverse-wide Cooperation via Correlated Decision Making". ''Foundational Research Institute''. August 14, 2017.</ref> (see the section "Superrational cooperation on Earth") || Gives at least three separate arguments for why superrational cooperation isn't so relevant on Earth: (1) there are fewer agents on Earth so causal mechanisms dominate; (2) most humans don't reason superrationally; (3) causal cooperation is possible on Earth whenever superrational cooperation might have taken place.
 |-
 | Gary Drescher || ''Good and Real'' ||
 |-
