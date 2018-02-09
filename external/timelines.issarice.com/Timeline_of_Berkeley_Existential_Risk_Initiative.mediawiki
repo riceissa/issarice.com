@@ -28,7 +28,11 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''.
 |-
 | 2017 || {{dts|September 25}} || || BERI announces its grants program as well as the program's first two grants: $100,000 each to the Machine Intelligence Research Institute and the Future of Life Institute.<ref>{{cite web |url=http://existence.org/grants |title=Berkeley Existential Risk Initiative {{!}} Announcing BERI's first grants program |accessdate=February 8, 2018}}</ref>
 |-
+| 2017 || {{dts|October}} || || BERI makes a grant of $50,000 to Future of Life Institute.<ref name="october-2017-activity-update">{{cite web |url=http://existence.org/2017/11/03/activity-update-october-2017.html |title=Berkeley Existential Risk Initiative {{!}} Activity Update - October 2017 |accessdate=February 9, 2018}}</ref>
+|-
 | 2017 || {{dts|October 19}} || || Andrew Critch publishes a post on the BERI blog detailing BERI's thoughts on growth, ethics, and responsiveness. The section on ethics refers to two posts Critch wrote on his personal blog about deserving trust.<ref>{{cite web |url=http://existence.org/growth |title=Berkeley Existential Risk Initiative {{!}} What we're thinking about as we grow - ethics, oversight, and getting things done |accessdate=February 8, 2018}}</ref>
+|-
+| 2017 || {{dts|November}} || || BERI holds two "meet and greet" events, one offline in Berkeley (November 13) and one online (November 16).<ref name="october-2017-activity-update" /><ref>{{cite web |url=https://www.facebook.com/events/125169161507416/ |title=BERI Online Meet and Greet |accessdate=February 9, 2018}}</ref>
 |-
 | 2017 || {{Dts|December 1}} || || BERI announces its experimental Computing Grants program.<ref>{{cite web |url=http://existence.org/computing |title=Berkeley Existential Risk Initiative {{!}} Announcing BERI Computing Grants |accessdate=February 8, 2018}}</ref>
 |-
