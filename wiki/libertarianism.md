@@ -34,6 +34,12 @@ See also my comment [here](https://github.com/riceissa/issarice.com/blob/master/
 Eliezer also talks about this in his [essay](https://www.facebook.com/yudkowsky/posts/10156117992914228) on local validity.
 Holden also talks about this in the section ["Changing my mind about general properties of promising ideas and interventions"](https://www.openphilanthropy.org/blog/three-key-issues-ive-changed-my-mind-about#Changing_my_mind_about_general_properties_of_promising_ideas_and_interventions).
 
+I think Vipul has said similar things about open borders.
+
+This whole approach can be seen as a sort of "disagree and commit" principle
+with respect to assumptions: disputing assumptions leads to
+inaction/unproductive debate, so take an assumption and see where it leads.
+
 # See also
 
 - [Effective altruism]()
