@@ -22,6 +22,12 @@ The initial version of the timeline was written by [[User:FIXME|FIXME]].
 
 {{funding info}} is available.
 
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* FIXME
+
 ===What the timeline is still missing===
 
 ===Timeline update strategy===
