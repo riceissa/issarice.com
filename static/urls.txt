@@ -19,6 +19,7 @@ https://intelligence.org/blog/feed/
 http://aiimpacts.org/feed/
 http://rationality.org/feed.xml
 http://existence.org/feed.xml
+http://acritch.com/blog/feed/
 https://www.centreforeffectivealtruism.org/blog.xml
 https://srconstantin.wordpress.com/feed/
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
