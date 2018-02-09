@@ -14,7 +14,7 @@ This is a '''timeline of Center for Human-Compatible AI'''.
 |-
 | 2016 || {{dts|August}} || Organization || The UC Berkeley Center for Human-Compatible Artificial Intelligence launches. The focus of the center is "to ensure that AI systems are beneficial to humans".<ref>{{cite web |url=http://news.berkeley.edu/2016/08/29/center-for-human-compatible-artificial-intelligence/ |title=UC Berkeley launches Center for Human-Compatible Artificial Intelligence |date=August 29, 2016 |publisher=Berkeley News |accessdate=July 26, 2017}}</ref>
 |-
-| 2016 || {{dts|August}} || Grant || The Open Philanthropy Project awards a grant of $5.6 million to the {{w|Center for Human-Compatible AI}}.<ref name="donations-portal-open-phil-ai-risk" />
+| 2016 || {{dts|August}} || Grant || The Open Philanthropy Project awards a grant of $5.6 million to the {{w|Center for Human-Compatible AI}}.<ref name="donations-portal-open-phil-ai-risk">{{cite web |url=https://donations.vipulnaik.com/donor.php?donor=Open+Philanthropy+Project&cause_area_filter=AI+risk |title=Open Philanthropy Project donations made (filtered to cause areas matching AI risk) |accessdate=July 27, 2017}}</ref>
 |-
 | 2016 || {{dts|November 24}} || || The initial version of "The Off-Switch Game", a paper by Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell, is uploaded to the arXiv.<ref>{{cite web |url=https://arxiv.org/abs/1611.08219 |title=[1611.08219] The Off-Switch Game |accessdate=February 9, 2018}}</ref><ref name="2018_ai_safety_lit_review">{{cite web |url=http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/ |title=2018 AI Safety Literature Review and Charity Comparison - Effective Altruism Forum |accessdate=February 9, 2018}}</ref>
 |-
