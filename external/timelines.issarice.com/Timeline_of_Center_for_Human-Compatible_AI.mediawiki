@@ -16,7 +16,11 @@ This is a '''timeline of Center for Human-Compatible AI'''.
 |-
 | 2016 || {{dts|August}} || Grant || The Open Philanthropy Project awards a grant of $5.6 million to the {{w|Center for Human-Compatible AI}}.<ref name="donations-portal-open-phil-ai-risk" />
 |-
+| 2016 || {{dts|November 24}} || || The initial version of "The Off-Switch Game", a paper by Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, and Stuart Russell, is uploaded to the arXiv.<ref>{{cite web |url=https://arxiv.org/abs/1611.08219 |title=[1611.08219] The Off-Switch Game |accessdate=February 9, 2018}}</ref><ref name="2018_ai_safety_lit_review">{{cite web |url=http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/ |title=2018 AI Safety Literature Review and Charity Comparison - Effective Altruism Forum |accessdate=February 9, 2018}}</ref>
+|-
 | 2016 || {{dts|December}} || || CHAI's "Annotated bibliography of recommended materials" is published around this time.<ref>{{cite web |url=http://humancompatible.ai/bibliography |title=Center for Human-Compatible AI |accessdate=February 9, 2018}}</ref>
+|-
+| 2017 || {{dts|May 28}} || || "Should Robots be Obedient?" by Smitha Milli, Dylan Hadfield-Menell, Anca Dragan, and Stuart Russell is uploaded to the arXiv.<ref>{{cite web |url=https://arxiv.org/abs/1705.09990 |title=[1705.09990] Should Robots be Obedient? |accessdate=February 9, 2018}}</ref><ref name="2018_ai_safety_lit_review" />
 |}
 
 ==Meta information on the timeline==
