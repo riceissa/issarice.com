@@ -212,9 +212,28 @@ The timeline was constructed by going through both formal publications and blog 
 
 On July 5, 2017 word counts were added at the [http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/dv11 suggestion of gwern].
 
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* [http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/dv11 LessWrong comment announcing the timeline]
+* [https://www.reddit.com/r/slatestarcodex/comments/6lgb2v/timeline_of_carl_shulman_publications/ Share of the timeline on r/slatestarcodex]
+
 ===What the timeline is still missing===
 
 A quality rating and summary might be useful; see the [http://lesswrong.com/lw/7ob/timeline_of_carl_shulman_publications/dv13 comment by gwern].
+
+"Will the future be good?" by Nick Beckstead and Carl Shulman is listed as unpublished at [https://globalprioritiesinstitute.org/wp-content/uploads/2017/12/gpi-research-agenda.pdf].
+
+From [https://intelligence.org/files/SS11Workshop.pdf]: Shulman, Carl, and Anna Salamon. 2011. “Whole Brain Emulation as a Platform for Creating Safe AGI.” Talk given at the Fourth Annual Conference on Artificial General Intelligence, Mountain View, CA, August 3–6.
+
+Talk: "What can evolution tell us about the feasibility of artificial intelligence?" [https://intelligence.org/files/Shulman-AnthropicsAI-04.pdf]
+
+"Risk-averse preferences as AGI safety technique" [http://agi-conf.org/2011/carl-shulman-abstract/]
+
+Canada essay?
+
+https://intelligence.org/2014/01/31/two-miri-talks-from-agi-11/
 
 ===Timeline update strategy===
 
