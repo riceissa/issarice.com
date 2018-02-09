@@ -29,6 +29,8 @@ Similar [quote](http://effective-altruism.com/ea/1cn/why_i_think_the_foundationa
 
 This is similar to the idea of ["biting the bullet"](https://en.wikipedia.org/wiki/Bite_the_bullet#In_philosophy).
 
+See also my comment [here](https://github.com/riceissa/issarice.com/blob/master/external/facebook.com/dennett-repeat.txt) about executable philosophy. Drescher takes the same approach in *Good and Real*; see the quote [here](https://github.com/riceissa/issarice.com/blob/master/drafts/central-decentral.md).
+
 # See also
 
 - [Effective altruism]()
