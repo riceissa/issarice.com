@@ -12,6 +12,9 @@ This is a '''timeline of Center for Human-Compatible AI'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2016 || {{dts|August}} || Organization || The UC Berkeley Center for Human-Compatible Artificial Intelligence launches. The focus of the center is "to ensure that AI systems are beneficial to humans".<ref>{{cite web |url=http://news.berkeley.edu/2016/08/29/center-for-human-compatible-artificial-intelligence/ |title=UC Berkeley launches Center for Human-Compatible Artificial Intelligence |date=August 29, 2016 |publisher=Berkeley News |accessdate=July 26, 2017}}</ref>
+|-
+| 2016 || {{dts|August}} || Grant || The Open Philanthropy Project awards a grant of $5.6 million to the {{w|Center for Human-Compatible AI}}.<ref name="donations-portal-open-phil-ai-risk" />
 |}
 
 ==Meta information on the timeline==
