@@ -27,6 +27,8 @@ I think libertarianism is one case where it is interesting to explore ideas give
 
 Similar [quote](http://effective-altruism.com/ea/1cn/why_i_think_the_foundational_research_institute/bgt) (this time about consciousness): "What's the problem if a group of people explores the implications of a well-respected position in philosophy and are (I think) fully aware of the implications?"
 
+This is similar to the idea of ["biting the bullet"](https://en.wikipedia.org/wiki/Bite_the_bullet#In_philosophy).
+
 # See also
 
 - [Effective altruism]()
