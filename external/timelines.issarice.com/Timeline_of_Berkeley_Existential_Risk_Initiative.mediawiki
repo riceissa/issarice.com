@@ -1,10 +1,11 @@
-This is a '''timeline of Berkeley Existential Risk Initiative'''.
+This is a '''timeline of Berkeley Existential Risk Initiative'''. Berkeley Existential Risk Initiative (BERI) is a non-profit organization that provides support to other organizations that work to reduce existential risks (e.g. providing technical and administrative support to academics working on AI alignment).
 
 ==Big picture==
 
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 2017 || Founding and growth || BERI is founded and establishes a grants program and a computing grants program. It begins awarding its first grants. BERI also outlines a plan for organizational growth.
 |}
 
 ==Full timeline==
@@ -25,6 +26,8 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''.
 | 2017 || {{dts|May 20}} || || On his blog, Andrew Critch publishes the post "Deserving Trust, II: It’s not about reputation". The post gives a less mathematical explanation of what he means by "deserving trust". The post closes with: "I'm trying to do work that has some fairly broad-sweeping consequences, and I want to know, for myself, that we’re operating in a way that is deserving of the implicit trust of the societies and institutions that have already empowered us to have those consequences."<ref>{{cite web |url=http://acritch.com/deserving-trust-2/ |title=Deserving Trust, II: It's not about reputation {{!}} Andrew Critch |accessdate=February 8, 2018}}</ref>
 |-
 | 2017 || {{Dts|July}} || || BERI receives a grant of $403,890 from the Open Philanthropy Project to "support BERI core staff and collaboration between BERI and CHAI [the Center for Human-Compatible AI]".<ref>{{cite web |url=https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/berkeley-existential-risk-initiative-core-staff-and-chai-collaboration |publisher=Open Philanthropy Project |title=Berkeley Existential Risk Initiative (BERI) — Core Support and CHAI Collaboration |date=December 15, 2017 |accessdate=February 8, 2018}}</ref>
+|-
+| 2017 || {{dts|September 12}} || || The BERI blog is created around this time. (This is the date of the first blog post.)<ref>{{cite web |url=http://existence.org/reports/2017/09/12/semi-annual-report.html |title=Berkeley Existential Risk Initiative {{!}} BERI's semi-annual report, August 2017 |accessdate=February 9, 2018}}</ref>
 |-
 | 2017 || {{dts|September 25}} || || BERI announces its grants program as well as the program's first two grants: $100,000 each to the Machine Intelligence Research Institute and the Future of Life Institute.<ref>{{cite web |url=http://existence.org/grants |title=Berkeley Existential Risk Initiative {{!}} Announcing BERI's first grants program |accessdate=February 8, 2018}}</ref>
 |-
