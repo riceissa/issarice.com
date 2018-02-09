@@ -18,6 +18,8 @@ This is a '''timeline of Foundational Research Institute'''.
 |-
 | 2008 || || || Brian Tomasik's "A Collection of Essays on Utilitarianism" is renamed to "Essays on Reducing Suffering".<ref name="reducing-suffering-history" />
 |-
+| 2013 || {{dts|July 11}} || || On Facebook, Brian Tomasik begins a poll to name a new organization to research future suffering, which would become FRI.<ref>{{cite web |url=https://www.facebook.com/brian.tomasik/posts/619744375182 |title=Brian Tomasik - Name for a research institute on future suffering |accessdate=February 9, 2018}}</ref>
+|-
 | 2013 || {{dts|July}} || Organization || The Foundational Research Institute (FRI) is founded. Some of FRI's work discusses risks from artificial intelligence.<ref>{{cite web |url=https://foundational-research.org/transparency |title=Transparency |publisher=Foundational Research Institute |accessdate=July 27, 2017}}</ref>
 |-
 | 2013 || {{dts|August 30}} || [[Domain names in timelines|Domain]] || FRI's domain, <code>foundational-research.org</code>, is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=foundational-research.org |title=Showing results for: FOUNDATIONAL-RESEARCH.ORG |publisher=ICANN WHOIS |accessdate=February 9, 2018 |quote=Creation Date: 2013-08-30T09:17:33Z}}</ref>
