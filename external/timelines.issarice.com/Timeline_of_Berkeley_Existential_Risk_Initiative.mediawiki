@@ -47,9 +47,9 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''. Berkeley Exist
 |-
 | 2017 || {{dts|December}} || Financial || BERI awards the {{W|Machine Intelligence Research Institute}} $100,000 during the latter's end-of-the-year fundraiser.<ref>{{cite web |url=https://intelligence.org/2018/01/10/fundraising-success/ |title=Fundraising success! - Machine Intelligence Research Institute |publisher=[[wikipedia:Machine Intelligence Research Institute|Machine Intelligence Research Institute]] |date=January 10, 2018 |accessdate=February 8, 2018}}</ref> BERI also grants $100,000 to the {{W|Center for Applied Rationality}}.<ref name="december-2017-activity-update">{{cite web |url=http://existence.org/2018/01/11/activity-update-december-2017.html |title=Berkeley Existential Risk Initiative {{!}} Activity Update - December 2017 |accessdate=February 8, 2018}}</ref>
 |-
-| 2017 || {{dts|January}} || Financial || BERI's grants program awards $800,000 to the {{W|Center for Applied Rationality}} for general support (to help CFAR buy a permanent venue).<ref name="january-2018-activity-update">{{cite web |url=http://existence.org/2018/02/08/activity-update-january-2018.html |title=Berkeley Existential Risk Initiative {{!}} Activity Update - January 2018 |accessdate=February 9, 2018}}</ref>
+| 2018 || {{dts|January}} || Financial || BERI's grants program awards $800,000 to the {{W|Center for Applied Rationality}} for general support (to help CFAR buy a permanent venue).<ref name="january-2018-activity-update">{{cite web |url=http://existence.org/2018/02/08/activity-update-january-2018.html |title=Berkeley Existential Risk Initiative {{!}} Activity Update - January 2018 |accessdate=February 9, 2018}}</ref>
 |-
-| 2017 || {{dts|January}} || Legal || The BERI Support Fund is incorporated. The BERI Support Fund creates more oversight of grant making (how?).<ref name="january-2018-activity-update" /><ref>{{cite web |url=http://existence.org/bsf/ |title=Berkeley Existential Risk Initiative {{!}} The BERI Support Fund |accessdate=February 9, 2018 |archiveurl=https://archive.is/v9dO0 |archivedate=February 9, 2018 |dead-url=no}}</ref>
+| 2018 || {{dts|January}} || Legal || The BERI Support Fund is incorporated. The BERI Support Fund creates more oversight of grant making (how?).<ref name="january-2018-activity-update" /><ref>{{cite web |url=http://existence.org/bsf/ |title=Berkeley Existential Risk Initiative {{!}} The BERI Support Fund |accessdate=February 9, 2018 |archiveurl=https://archive.is/v9dO0 |archivedate=February 9, 2018 |dead-url=no}}</ref>
 |}
 
 ==Meta information on the timeline==
@@ -59,6 +59,12 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''. Berkeley Exist
 The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 {{funding info}} is available.
+
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* [https://www.facebook.com/groups/TimelinesWiki/permalink/2011965392377149/ Timelines Wiki Facebook Group]
 
 ===What the timeline is still missing===
 
