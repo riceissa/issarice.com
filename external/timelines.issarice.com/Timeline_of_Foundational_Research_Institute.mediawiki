@@ -12,6 +12,9 @@ This is a '''timeline of Foundational Research Institute'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2013 || {{dts|July}} || Organization || The Foundational Research Institute (FRI) is founded. Some of FRI's work discusses risks from artificial intelligence.<ref>{{cite web |url=https://foundational-research.org/transparency |title=Transparency |publisher=Foundational Research Institute |accessdate=July 27, 2017}}</ref>
+|-
+| 2017 || {{dts|July 20}} || || Mike Johnson publishes "Why I think the Foundational Research Institute should rethink its approach" on the Effective Altruism Forum. The post argues against FRI's views on consciousness (Type-A materialism).<ref>{{cite web |url=http://effective-altruism.com/ea/1cn/why_i_think_the_foundational_research_institute/ |title=Why I think the Foundational Research Institute should rethink its approach |publisher=Effective Altruism Forum |accessdate=February 9, 2018}}</ref>
 |}
 
 ==Meta information on the timeline==
@@ -33,6 +36,10 @@ Feedback for the timeline can be provided at the following places:
 ===Timeline update strategy===
 
 ==See also==
+
+* [[Timeline of Machine Intelligence Research Institute]]
+* [[Timeline of Center for Applied Rationality]]
+* [[Timeline of the rationality community]]
 
 ==External links==
 
