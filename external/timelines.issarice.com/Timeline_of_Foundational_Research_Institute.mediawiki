@@ -34,6 +34,8 @@ This is a '''timeline of Foundational Research Institute'''.
 |-
 | 2016 || {{dts|October 6}} || || Luke Muehlhauser of the Open Philanthropy Project has a conversation with Brian Tomasik on which beings are phenomenally conscious, Tomasik's brand of panpsychism, and other related topics. The conversation is part of the Open Philanthropy Project's investigation of moral patienthood.<ref>{{cite web |url=http://files.openphilanthropy.org/files/Conversations/Brian_Tomasik_10-06-16_(public).pdf |title=A conversation with Brian Tomasik, October 6, 2016 |date=October 6, 2016 |accessdate=February 9, 2018}}</ref>
 |-
+| 2017 || {{dts|June 19}} || || FRI's new blog launches.<ref>{{cite web |url=https://foundational-research.org/launching-fri-blog/ |title=Launching the FRI blog – Foundational Research Institute |publisher=Foundational Research Institute |date=June 20, 2017 |accessdate=February 9, 2018}}</ref>
+|-
 | 2017 || {{dts|July 20}} || || Mike Johnson publishes "Why I think the Foundational Research Institute should rethink its approach" on the Effective Altruism Forum. The post argues against FRI's views on consciousness (Type-A materialism).<ref>{{cite web |url=http://effective-altruism.com/ea/1cn/why_i_think_the_foundational_research_institute/ |title=Why I think the Foundational Research Institute should rethink its approach |publisher=Effective Altruism Forum |accessdate=February 9, 2018}}</ref>
 |}
 
