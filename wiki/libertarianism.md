@@ -25,6 +25,8 @@ I think TPPA is the strongest introduction to anarcho-capitalism.
 
 I think libertarianism is one case where it is interesting to explore ideas given its assumptions (like the [homestead principle](!w)), even if you don't agree with the assumptions. [Vladimir Slepnev](http://lesswrong.com/lw/b7v/common_mistakes_people_make_when_thinking_about/) (speaking not necessarily about libertarianism): "The only way to make intellectual progress (either individually or as a group) is to explore the implications of interesting assumptions wherever they might lead. Unfortunately people love to argue about assumptions instead of getting anything done, though they can't really judge before exploring the implications in detail."
 
+Similar [quote](http://effective-altruism.com/ea/1cn/why_i_think_the_foundational_research_institute/bgt) (this time about consciousness): "What's the problem if a group of people explores the implications of a well-respected position in philosophy and are (I think) fully aware of the implications?"
+
 # See also
 
 - [Effective altruism]()
