@@ -12,6 +12,8 @@ While the application of [[Functional decision theory|functional]]/[[Updateless 
 | Caspar Oesterheld || "Multiverse-wide Cooperation via Correlated Decision Making" (see the section "Superrational cooperation on Earth") ||
 |-
 | Nate Soares || "Causal decision theory is unsatisfactory",<ref>Nate Soares. [http://mindingourway.com/causal-reasoning-is-unsatisfactory/ "Causal decision theory is unsatisfactory"]. September 7, 2014.</ref> "An introduction to Newcomblike problems",<ref>Nate Soares. [http://mindingourway.com/intro-to-newcomblike-problems/ "An introduction to Newcomblike problems"]. September 12, 2014.</ref> "Newcomblike problems are the norm"<ref>Nate Soares. [http://mindingourway.com/newcomblike-problems-are-the-norm/ "Newcomblike problems are the norm"]. September 24, 2014.</ref>
+|-
+| Vitalik Buterin || "Superrationality and DAOs"<ref>Vitalik Buterin. [https://blog.ethereum.org/2015/01/23/superrationality-daos/ "Superrationality and DAOs"]. January 23, 2015.</ref> || Explores the application of superrationality to [[Decentralized autonomous organization|decentralized autonomous organizations]].
 |}
 
 ==See also==
