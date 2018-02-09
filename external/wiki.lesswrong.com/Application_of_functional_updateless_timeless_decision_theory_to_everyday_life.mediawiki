@@ -9,7 +9,7 @@ While the application of [[Functional decision theory|functional]]/[[Updateless 
 |-
 | Zvi Mowshowitz || "How I Lost 100 Pounds Using TDT"<ref>Zvi Mowshowitz. [http://lesswrong.com/lw/4sh/how_i_lost_100_pounds_using_tdt/ "How I Lost 100 Pounds Using TDT"]. ''LessWrong''. March 14, 2011.</ref> || Argues that reasoning like a TDT agent helped him lose weight.
 |-
-| Caspar Oesterheld || "Multiverse-wide Cooperation via Correlated Decision Making" (see the section "Superrational cooperation on Earth") ||
+| Caspar Oesterheld || "Multiverse-wide Cooperation via Correlated Decision Making"<ref>Caspar Oesterheld. "Multiverse-wide Cooperation via Correlated Decision Making". ''Foundational Research Institute''. August 14, 2017.</ref> (see the section "Superrational cooperation on Earth") ||
 |-
 | Nate Soares || "Causal decision theory is unsatisfactory",<ref>Nate Soares. [http://mindingourway.com/causal-reasoning-is-unsatisfactory/ "Causal decision theory is unsatisfactory"]. ''Minding our way''. September 7, 2014.</ref> "An introduction to Newcomblike problems",<ref>Nate Soares. [http://mindingourway.com/intro-to-newcomblike-problems/ "An introduction to Newcomblike problems"]. ''Minding our way''. September 12, 2014.</ref> "Newcomblike problems are the norm"<ref>Nate Soares. [http://mindingourway.com/newcomblike-problems-are-the-norm/ "Newcomblike problems are the norm"]. ''Minding our way''. September 24, 2014.</ref>
 |-
