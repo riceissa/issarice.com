@@ -41,6 +41,8 @@ This is a '''timeline of Foundational Research Institute'''.
 | 2017 || {{dts|July}} || || FRI's page on tranquilism is published.<ref>{{cite web |url=https://foundational-research.org/tranquilism/ |title=Tranquilism – Foundational Research Institute |publisher=Foundational Research Institute |date=August 9, 2017 |accessdate=February 10, 2018}}</ref>
 |-
 | 2017 || {{dts|July 20}} || || Mike Johnson publishes "Why I think the Foundational Research Institute should rethink its approach" on the Effective Altruism Forum. The post argues against FRI's views on consciousness (Type-A materialism).<ref>{{cite web |url=http://effective-altruism.com/ea/1cn/why_i_think_the_foundational_research_institute/ |title=Why I think the Foundational Research Institute should rethink its approach |publisher=Effective Altruism Forum |accessdate=February 9, 2018}}</ref>
+|-
+| 2017 || {{dts|August 10}} || || "Multiverse-wide Cooperation via Correlated Decision Making" by Caspar Oesterheld is first published.<ref>{{cite web |url=https://foundational-research.org/multiverse-wide-cooperation-via-correlated-decision-making/ |title=Multiverse-wide Cooperation via Correlated Decision Making – Foundational Research Institute |publisher=Foundational Research Institute |date=January 29, 2018 |accessdate=February 10, 2018}}</ref>
 |}
 
 ==Meta information on the timeline==
