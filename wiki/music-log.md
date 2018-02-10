@@ -292,6 +292,15 @@ The Pillows:
 * Kikuchi Momoko: ["Mystical Composer"](https://www.youtube.com/watch?v=1iQBGaZ_kJ4)
 * More city pop
 
+# February 2018
+
+* Aphex Twin: *Selected Ambient Works 85-92*
+* Cosmos:
+  * *Bourbon Suite*
+  * *Can Can Can!*
+  * *Musitopia*
+  * *Musou Toshi*
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
