@@ -98,7 +98,7 @@ Comment counts are as of February 15, 2018.
 |-
 | 2011 || {{dts|March 11}} || Blog post || LessWrong || [http://lesswrong.com/lw/4qg/a_thought_experiment_on_pain_as_a_moral_disvalue/ "A Thought Experiment on Pain as a Moral Disvalue"] || || 41 ||
 |-
-| 2011 || {{dts|May 3}} || Blog post || LessWrong || [http://lesswrong.com/lw/5jb/link_whole_brain_emulation_and_the_evolution_of/ "[link] Whole Brain Emulation and the Evolution of Superorganisms"] || || 7 ||
+| 2011 || {{dts|May 3}} || Blog post || LessWrong || [http://lesswrong.com/lw/5jb/link_whole_brain_emulation_and_the_evolution_of/ "<nowiki>[link]</nowiki> Whole Brain Emulation and the Evolution of Superorganisms"] || || 7 ||
 |-
 | 2011 || {{Dts|May 22}} || Blog post || LessWrong || [http://lesswrong.com/lw/5tl/how_to_be_more_confident_that_youre_wrong/ "How To Be More Confident... That You're Wrong"] || || 24 ||
 |-
@@ -176,7 +176,7 @@ Comment counts are as of February 15, 2018.
 |-
 | 2014 || {{dts|October 21}} || Blog post || LessWrong || [http://lesswrong.com/lw/l55/is_the_potential_astronomical_waste_in_our/ "Is the potential astronomical waste in our universe too small to care about?"] || || 14 ||
 |-
-| 2015 || {{dts|June 6}} || Blog post || LessWrong || [http://lesswrong.com/lw/mb1/link_baidu_cheats_in_an_ai_contest_in_order_to/ "[link] Baidu cheats in an AI contest in order to gain a 0.24% advantage"] || || 32 ||
+| 2015 || {{dts|June 6}} || Blog post || LessWrong || [http://lesswrong.com/lw/mb1/link_baidu_cheats_in_an_ai_contest_in_order_to/ "<nowiki>[link]</nowiki> Baidu cheats in an AI contest in order to gain a 0.24% advantage"] || || 32 ||
 |-
 | 2016 || {{dts|December 8}} || Blog post || LessWrong || [http://lesswrong.com/lw/o8w/combining_prediction_technologies_to_help/ "Combining Prediction Technologies to Help Moderate Discussions"] || || 15 ||
 |-
