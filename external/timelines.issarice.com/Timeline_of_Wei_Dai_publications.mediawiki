@@ -14,6 +14,28 @@ Comment counts are as of February 15, 2018.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
 |-
+| 2009 || {{dts|April 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/6r/newcombs_problem_vs_oneshot_prisoners_dilemma/ "Newcomb's Problem vs. One-Shot Prisoner's Dilemma"] || || 15 ||
+|-
+| 2009 || {{Dts|May 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/f6/epistemic_vs_instrumental_rationality_case_of_the/ "Epistemic vs. Instrumental Rationality: Case of the Leaky Agent"] || || 19 ||
+|-
+| 2009 || {{dts|June 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/102/indexical_uncertainty_and_the_axiom_of/ "indexical uncertainty and the Axiom of Independence"] || || 70 ||
+|-
+| 2009 || {{dts|July 16}} || Blog post || LessWrong || [http://lesswrong.com/lw/12v/fair_division_of_blackhole_negentropy_an/ "Fair Division of Black-Hole Negentropy: an Introduction to Cooperative Game Theory"] || || 34 ||
+|-
+| 2009 || {{dts|July 17}} || Blog post || LessWrong || [http://lesswrong.com/lw/12y/the_popularization_bias/ "The Popularization Bias"] || || 53 ||
+|-
+| 2009 || {{dts|July 23}} || Blog post || LessWrong || [http://lesswrong.com/lw/13s/the_nature_of_offense/ "The Nature of Offense"] || || 173 ||
+|-
+| 2009 || {{dts|July 26}} || Blog post || LessWrong || [http://lesswrong.com/lw/146/the_second_best/ "The Second Best"] || || 53 ||
+|-
+| 2009 || {{Dts|July 31}} || Blog post || LessWrong || [http://lesswrong.com/lw/14d/an_alternative_approach_to_ai_cooperation/ "An Alternative Approach to AI Cooperation"] || || 25 ||
+|-
+| 2009 || {{dts|August 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/15m/towards_a_new_decision_theory/ "Towards a New Decision Theory"] || This post introduces what would be called updateless decision theory (UDT). || 142 ||
+|-
+| 2009 || {{dts|September 3}} || Blog post || LessWrong || [http://lesswrong.com/lw/175/torture_vs_dust_vs_the_presumptuous_philosopher/ "Torture vs. Dust vs. the Presumptuous Philosopher: Anthropic Reasoning in UDT"] || || 28 ||
+|-
+| 2009 || {{dts|September 16}} || Blog post || LessWrong || [http://lesswrong.com/lw/182/the_absentminded_driver/ "The Absent-Minded Driver"] || || 141 ||
+|-
 | 2009 || {{dts|September 24}} || Blog post || LessWrong || [http://lesswrong.com/lw/196/boredom_vs_scope_insensitivity/ "Boredom vs. Scope Insensitivity"] || || 38 ||
 |-
 | 2009 || {{dts|September 26}} || Blog post || LessWrong || [http://lesswrong.com/lw/199/nonmalthusian_scenarios/ "Non-Malthusian Scenarios"] || || 88 ||
