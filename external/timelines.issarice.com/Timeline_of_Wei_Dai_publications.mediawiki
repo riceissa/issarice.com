@@ -14,6 +14,14 @@ Comment counts are as of February 15, 2018.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
 |-
+| 2002 || {{dts|May 3}} || Email || SL4 || [http://sl4.org/archive/0205/3549.html "supergoal stability"] || || ||
+|-
+| 2002 || {{dts|December 31}} || Email || SL4 || [http://sl4.org/archive/0212/6030.html "moral symmetry"] || || ||
+|-
+| 2003 || {{dts|December 31}} || Email || SL4 || [http://sl4.org/archive/0312/7421.html {{"'}}friendly' humans?"] || || ||
+|-
+| 2004 || {{dts|March 27}} || Email || SL4 || [http://sl4.org/archive/0403/8342.html "escape from simulation"] || || ||
+|-
 | 2004 || {{dts|June 28}} || Email || SL4 || [http://sl4.org/archive/0406/9422.html "dream qualia"] || || ||
 |-
 | 2004 || {{dts|October 23}} || Email || SL4 || [http://sl4.org/archive/0410/10098.html "SIAI's direction"] || || ||
@@ -23,6 +31,14 @@ Comment counts are as of February 15, 2018.
 | 2005 || {{dts|August 24}} || Email || SL4 || [http://sl4.org/archive/0508/12098.html "uncertainty in mathematics"] || || ||
 |-
 | 2005 || {{dts|September 11}} || Email || SL4 || [http://sl4.org/archive/0509/12317.html "mathematical reasoning"] || || ||
+|-
+| 2006 || {{dts|March 29}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg09035.html "proper behavior for a mathematical substructure"] || || ||
+|-
+| 2006 || {{dts|April 9}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg09119.html "why can't we erase information?"] || || ||
+|-
+| 2007 || {{dts|September 26}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg13817.html "against UD+ASSA, part 1"] || || ||
+|-
+| 2007 || {{dts|September 26}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg13818.html "against UD+ASSA, part 2"] || || ||
 |-
 | 2007 || {{dts|November 1}} || Email || SL4 || [http://sl4.org/archive/0711/16977.html "how to do something with really small probability?"] || || ||
 |-
@@ -99,6 +115,8 @@ Comment counts are as of February 15, 2018.
 | 2010 || {{dts|February 19}} || Blog post || LessWrong || [http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/ "Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)"] || || 38 ||
 |-
 | 2010 || {{dts|March 2}} || Blog post || LessWrong || [http://lesswrong.com/lw/1um/individual_vs_group_epistemic_rationality/ "Individual vs. Group Epistemic Rationality"] || || 54 ||
+|-
+| 2010 || {{dts|March 14}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg18508.html "everything-list and the Singularity"] || Notes the connection between the modal realism and Singularity communities, and introduces LessWrong to everything-list. || ||
 |-
 | 2010 || {{Dts|March 19}} || Blog post || LessWrong || [http://lesswrong.com/lw/1y3/think_before_you_speak_and_signal_it/ "Think Before You Speak (And Signal It)"] || || 39 ||
 |-
