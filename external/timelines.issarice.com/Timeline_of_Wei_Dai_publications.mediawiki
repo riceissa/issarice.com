@@ -14,6 +14,112 @@ Comment counts are as of February 15, 2018.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
 |-
+| 2009 || {{dts|September 24}} || Blog post || LessWrong || [http://lesswrong.com/lw/196/boredom_vs_scope_insensitivity/ "Boredom vs. Scope Insensitivity"] || || 38 ||
+|-
+| 2009 || {{dts|September 26}} || Blog post || LessWrong || [http://lesswrong.com/lw/199/nonmalthusian_scenarios/ "Non-Malthusian Scenarios"] || || 88 ||
+|-
+| 2009 || {{dts|October 2}} || Blog post || LessWrong || [http://lesswrong.com/lw/1a5/scott_aaronson_on_born_probabilities/ "Scott Aaronson on Born Probabilities"] || || 7 ||
+|-
+| 2009 || {{dts|October 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/1b8/anticipation_vs_faith_at_what_cost_rationality/ "Anticipation vs. Faith: At What Cost Rationality?"] || || 105 ||
+|-
+| 2009 || {{dts|October 20}} || Blog post || LessWrong || [http://lesswrong.com/lw/1cd/why_the_beliefsvalues_dichotomy/ "Why the beliefs/values dichotomy?"] || || 153 ||
+|-
+| 2009 || {{dts|November 3}} || Blog post || LessWrong || [http://lesswrong.com/lw/1dx/reunderstanding_robin_hansons_prerationality/ "Re-understanding Robin Hanson’s 'Pre-Rationality{{'"}}] || || 18 ||
+|-
+| 2009 || {{dts|November 9}} || Blog post || LessWrong || [http://lesswrong.com/lw/1e8/reflections_on_prerationality/ "Reflections on Pre-Rationality"] || || 30 ||
+|-
+| 2009 || {{Dts|November 16}} || Blog post || LessWrong || [http://lesswrong.com/lw/1fu/why_and_why_not_bayesian_updating/ "Why (and why not) Bayesian Updating?"] || || 26 ||
+|-
+| 2009 || {{dts|November 24}} || Blog post || LessWrong || [http://lesswrong.com/lw/1gg/agree_retort_or_ignore_a_post_from_the_future/ "Agree, Retort, or Ignore? A Post From the Future"] || || 87 ||
+|-
+| 2009 || {{dts|November 30}} || Blog post || LessWrong || [http://lesswrong.com/lw/1hg/the_moral_status_of_independent_identical_copies/ "The Moral Status of Independent Identical Copies"] || || 71 ||
+|-
+| 2009 || {{dts|December 10}} || Blog post || LessWrong || [http://lesswrong.com/lw/1il/probability_space_aumann_agreement/ "Probability Space & Aumann Agreement"] || || 71 ||
+|-
+| 2009 || {{dts|December 11}} || Blog post || LessWrong || [http://lesswrong.com/lw/1iy/what_are_probabilities_anyway/ "What Are Probabilities, Anyway?"] || || 78 ||
+|-
+| 2009 || {{dts|December 29}} || Blog post || LessWrong || [http://lesswrong.com/lw/1l4/a_masterslave_model_of_human_preferences/ "A Master-Slave Model of Human Preferences"] || || 80 ||
+|-
+| 2010 || {{dts|January 8}} || Blog post || LessWrong || [http://lesswrong.com/lw/1lw/fictional_evidence_vs_fictional_insight/ "Fictional Evidence vs. Fictional Insight"] || || 43 ||
+|-
+| 2010 || {{dts|January 15}} || Blog post || LessWrong || [http://lesswrong.com/lw/1mo/the_preference_utilitarians_time_inconsistency/ "The Preference Utilitarian’s Time Inconsistency Problem"] || || 104 ||
+|-
+| 2010 || {{dts|January 17}} || Blog post || LessWrong || [http://lesswrong.com/lw/1g4/tips_and_tricks_for_answering_hard_questions/ "Tips and Tricks for Answering Hard Questions"] || || 52 ||
+|-
+| 2010 || {{dts|January 24}} || Blog post || LessWrong || [http://lesswrong.com/lw/1ns/value_uncertainty_and_the_singleton_scenario/ "Value Uncertainty and the Singleton Scenario"] || || 28 ||
+|-
+| 2010 || {{dts|January 30}} || Blog post || LessWrong || [http://lesswrong.com/lw/1oj/complexity_of_value_complexity_of_outcome/ "Complexity of Value ≠ Complexity of Outcome"] || || 198 ||
+|-
+| 2010 || {{dts|February 9}} || Blog post || LessWrong || [http://lesswrong.com/lw/1r9/shut_up_and_divide/ "Shut Up and Divide?"] || || 258 ||
+|-
+| 2010 || {{dts|February 19}} || Blog post || LessWrong || [http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/ "Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)"] || || 38 ||
+|-
+| 2010 || {{dts|March 2}} || Blog post || LessWrong || [http://lesswrong.com/lw/1um/individual_vs_group_epistemic_rationality/ "Individual vs. Group Epistemic Rationality"] || || 54 ||
+|-
+| 2010 || {{Dts|March 19}} || Blog post || LessWrong || [http://lesswrong.com/lw/1y3/think_before_you_speak_and_signal_it/ "Think Before You Speak (And Signal It)"] || || 39 ||
+|-
+| 2010 || {{dts|April 4}} || Blog post || LessWrong || [http://lesswrong.com/lw/214/late_great_filter_is_not_bad_news/ "Late Great Filter Is Not Bad News"] || || 75 ||
+|-
+| 2010 || {{Dts|April 8}} || Blog post || LessWrong || [http://lesswrong.com/lw/21c/frequentist_magic_vs_bayesian_magic/ "Frequentist Magic vs. Bayesian Magic] || || 79 ||
+|-
+| 2010 || {{dts|June 3}} || Blog post || LessWrong || [http://lesswrong.com/lw/2b7/hacking_the_cev_for_fun_and_profit/ "Hacking the CEV for Fun and Profit"] || || 194 ||
+|-
+| 2010 || {{dts|July 27}} || Blog post || LessWrong || [http://lesswrong.com/lw/2id/metaphilosophical_mysteries/ "Metaphilosophical Mysteries"] || || 255 ||
+|-
+| 2011 || {{dts|January 8}} || Blog post || LessWrong || [http://lesswrong.com/lw/3nt/why_do_some_kinds_of_work_not_feel_like_work/ "Why do some kinds of work not feel like work?"] || || 21 ||
+|-
+| 2011 || {{dts|February 5}} || Blog post || LessWrong || [http://lesswrong.com/lw/44i/another_argument_against_eliezers_metaethics/ "Another Argument Against Eliezer's Meta-Ethics"] || || 35 ||
+|-
+| 2011 || {{dts|February 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/451/what_does_a_calculator_mean_by_2/ "What does a calculator mean by '2'?"] || || 29 ||
+|-
+| 2011 || {{dts|February 14}} || Blog post || LessWrong || [http://lesswrong.com/lw/49j/why_do_we_engage_in_moral_simplification/ "Why Do We Engage in Moral Simplification?"] || || 35 ||
+|-
+| 2011 || {{dts|March 11}} || Blog post || LessWrong || [http://lesswrong.com/lw/4qg/a_thought_experiment_on_pain_as_a_moral_disvalue/ "A Thought Experiment on Pain as a Moral Disvalue"] || || 41 ||
+|-
+| 2011 || {{dts|May 3}} || Blog post || LessWrong || [http://lesswrong.com/lw/5jb/link_whole_brain_emulation_and_the_evolution_of/ "[link] Whole Brain Emulation and the Evolution of Superorganisms"] || || 7 ||
+|-
+| 2011 || {{Dts|May 22}} || Blog post || LessWrong || [http://lesswrong.com/lw/5tl/how_to_be_more_confident_that_youre_wrong/ "How To Be More Confident... That You're Wrong"] || || 24 ||
+|-
+| 2011 || {{dts|May 24}} || Blog post || LessWrong || [http://lesswrong.com/lw/5uz/lesswrong_power_reader_greasemonkey_script_updated/ "LessWrong Power Reader (Greasemonkey script, updated)"] || || 26 ||
+|-
+| 2011 || {{dts|June 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/66y/what_do_bad_clothes_signal_about_you/ "What do bad clothes signal about you?"] || || 78 ||
+|-
+| 2011 || {{dts|July 6}} || Blog post || LessWrong || [http://lesswrong.com/lw/6j9/outline_of_possible_singularity_scenarios_that/ "Outline of possible Singularity scenarios (that are not completely disastrous)"] || || 40 ||
+|-
+| 2011 || {{dts|July 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/6mi/some_thoughts_on_singularity_strategies/ "Some Thoughts on Singularity Strategies"] || || 29 ||
+|-
+| 2011 || {{dts|July 17}} || Blog post || LessWrong || [http://lesswrong.com/lw/6pg/experiment_psychoanalyze_me/ "Experiment: Psychoanalyze Me"] || || 12 ||
+|-
+| 2011 || {{dts|July 24}} || Blog post || LessWrong || [http://lesswrong.com/lw/6ta/what_if_sympathy_depends_on_anthropomorphizing/ "What if sympathy depends on anthropomorphizing?"] || || 16 ||
+|-
+| 2011 || {{dts|July 27}} || Blog post || LessWrong || [http://lesswrong.com/lw/6us/whats_wrong_with_simplicity_of_value/ "What's wrong with simplicity of value?"] || || 37 ||
+|-
+| 2011 || {{dts|August 22}} || Blog post || LessWrong || [http://lesswrong.com/lw/77y/do_we_want_more_publicity_and_if_so_how/ "Do we want more publicity, and if so how?"] || || 54 ||
+|-
+| 2011 || {{dts|September 28}} || Blog post || LessWrong || [http://lesswrong.com/lw/7n5/wanted_backup_plans_for_seed_ai_turns_out_to_be/ "Wanted: backup plans for 'seed AI turns out to be easy{{'"}}] || || 62 ||
+|-
+| 2011 || {{dts|November 18}} || Blog post || LessWrong || [http://lesswrong.com/lw/8gk/where_do_selfish_values_come_from/ "Where do selfish values come from?"] || || 57 ||
+|-
+| 2012 || {{dts|March 21}} || Blog post || LessWrong || [http://lesswrong.com/lw/b0y/a_problem_about_bargaining_and_logical_uncertainty/ "A Problem About Bargaining and Logical Uncertainty"] || || 45 ||
+|-
+| 2012 || {{dts|March 22}} || Blog post || LessWrong || [http://lesswrong.com/lw/b10/modest_superintelligences/ "Modest Superintelligences"] || || 88 ||
+|-
+| 2012 || {{dts|April 11}} || Blog post || LessWrong || [http://lesswrong.com/lw/bnc/against_ai_risk/ "against 'AI risk{{'"}}] || || 89 ||
+|-
+| 2012 || {{dts|April 12}} || Blog post || LessWrong || [http://lesswrong.com/lw/bob/reframing_the_problem_of_ai_progress/ "Reframing the Problem of AI Progress"] || || 47 ||
+|-
+| 2012 || {{dts|April 18}} || Blog post || LessWrong || [http://lesswrong.com/lw/btc/how_can_we_get_more_and_better_lw_contrarians/ "How can we get more and better LW contrarians?"] || || 328 ||
+|-
+| 2012 || {{dts|May 10}} || Blog post || LessWrong || [http://lesswrong.com/lw/cbu/strong_intutions_weak_arguments_what_to_do/ "Strong intutions. Weak arguments. What to do?"] || || 45 ||
+|-
+| 2012 || {{dts|May 12}} || Blog post || LessWrong || [http://lesswrong.com/lw/cdg/neuroimaging_as_alternativesupplement_to_cryonics/ "Neuroimaging as alternative/supplement to cryonics?"] || || 68 ||
+|-
+| 2012 || {{dts|May 16}} || Blog post || LessWrong || [http://lesswrong.com/lw/cfc/how_can_we_ensure_that_a_friendly_ai_team_will_be/ "How can we ensure that a Friendly AI team will be sane enough?"] || || 64 ||
+|-
+| 2012 || {{dts|June 6}} || Blog post || LessWrong || [http://lesswrong.com/lw/cs9/list_of_problems_that_motivated_udt/ "List of Problems That Motivated UDT"] || || 11 ||
+|-
+| 2012 || {{dts|June 6}} || Blog post || LessWrong || [http://lesswrong.com/lw/cw1/open_problems_related_to_solomonoff_induction/ "Open Problems Related to Solomonoff Induction"] || || 103 ||
+|-
 | 2012 || {{dts|July 21}} || Blog post || LessWrong || [http://lesswrong.com/lw/dq9/work_on_security_instead_of_friendliness/ "Work on Security Instead of Friendliness?"] || || 103 ||
 |-
 | 2012 || {{dts|August 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/e2k/cynical_explanations_of_fai_critics_including/ "Cynical explanations of FAI critics (including myself)"] || || 49 ||
