@@ -20,7 +20,11 @@ Comment counts are as of February 15, 2018.
 |-
 | 2003 || {{dts|December 31}} || Email || SL4 || [http://sl4.org/archive/0312/7421.html {{"'}}friendly' humans?"] || || ||
 |-
+| 2004 || {{dts|January 24}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg05089.html "recommended books"] || A list of books that are relevant for understanding topics discussed on the mailing list. || ||
+|-
 | 2004 || {{dts|March 27}} || Email || SL4 || [http://sl4.org/archive/0403/8342.html "escape from simulation"] || || ||
+|-
+| 2004 || {{dts|April 19}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg05297.html "conversation with a Bayesian"] || || ||
 |-
 | 2004 || {{dts|June 28}} || Email || SL4 || [http://sl4.org/archive/0406/9422.html "dream qualia"] || || ||
 |-
