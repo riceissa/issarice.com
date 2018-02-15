@@ -1,0 +1,82 @@
+This is a '''timeline of Wei Dai publications'''.
+
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+Comment counts are as of February 15, 2018.
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
+|-
+| 2012 || {{dts|July 21}} || Blog post || LessWrong || [http://lesswrong.com/lw/dq9/work_on_security_instead_of_friendliness/ "Work on Security Instead of Friendliness?"] || || 103 ||
+|-
+| 2012 || {{dts|August 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/e2k/cynical_explanations_of_fai_critics_including/ "Cynical explanations of FAI critics (including myself)"] || || 49 ||
+|-
+| 2012 || {{dts|August 16}} || Blog post || LessWrong || [http://lesswrong.com/lw/e48/kelly_criteria_and_two_envelopes/ "Kelly Criteria and Two Envelopes"] || || 1 ||
+|-
+| 2012 || {{dts|September 12}} || Blog post || LessWrong || [http://lesswrong.com/lw/ehg/underacknowledged_value_differences/ "Under-acknowledged Value Differences"] || || 68 ||
+|-
+| 2012 || {{dts|October 8}} || Blog post || LessWrong || [http://lesswrong.com/lw/eua/reasons_for_someone_to_ignore_you/ "Reasons for someone to 'ignore' you"] || || 55 ||
+|-
+| 2012 || {{dts|December 18}} || Blog post || LessWrong || [http://lesswrong.com/lw/fyb/ontological_crisis_in_humans/ "Ontological Crisis in Humans"] || || 67 ||
+|-
+| 2012 || {{dts|December 20}} || Blog post || LessWrong || [http://lesswrong.com/lw/g0w/beware_selective_nihilism/ "Beware Selective Nihilism"] || || 46 ||
+|-
+| 2012 || {{dts|December 26}} || Blog post || LessWrong || [http://lesswrong.com/lw/g3l/morality_isnt_logical/ "Morality Isn't Logical"] || || 85 ||
+|-
+| 2013 || {{dts|January 11}} || Blog post || LessWrong || [http://lesswrong.com/lw/eyg/how_to_signal_curiosity/ "How to signal curiosity?"] || || 52 ||
+|-
+| 2013 || {{dts|January 18}} || Blog post || LessWrong || [http://lesswrong.com/lw/gd3/outline_of_possible_sources_of_values/ "Outline of Possible Sources of Values"] || || 28 ||
+|-
+| 2013 || {{dts|April 23}} || Blog post || LessWrong || [http://lesswrong.com/lw/h9y/normativity_and_metaphilosophy/ "Normativity and Meta-Philosophy"] || || 55 ||
+|-
+| 2013 || {{dts|July 17}} || Blog post || LessWrong || [http://lesswrong.com/lw/hzs/three_approaches_to_friendliness/ "Three Approaches to 'Friendliness{{'"}}] || || 84 ||
+|-
+| 2013 || {{dts|August 28}} || Blog post || LessWrong || [http://lesswrong.com/lw/ig9/outside_views_and_miris_fai_endgame/ "Outside View(s) and MIRI's FAI Endgame"] || || 60 ||
+|-
+| 2014 || {{dts|July 19}} || Blog post || LessWrong || [http://lesswrong.com/lw/kk5/look_for_the_next_tech_gold_rush/ "Look for the Next Tech Gold Rush?"] || || 113 ||
+|-
+| 2014 || {{dts|August 6}} || Blog post || LessWrong || [http://lesswrong.com/lw/khf/six_plausible_metaethical_alternatives/ "Six Plausible Meta-Ethical Alternatives"] || || 36 ||
+|-
+| 2014 || {{dts|August 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/kqm/what_is_the_difference_between_rationality_and/ "What is the difference between rationality and intelligence?"] || || 52 ||
+|-
+| 2014 || {{dts|October 21}} || Blog post || LessWrong || [http://lesswrong.com/lw/l55/is_the_potential_astronomical_waste_in_our/ "Is the potential astronomical waste in our universe too small to care about?"] || || 14 ||
+|-
+| 2015 || {{dts|June 6}} || Blog post || LessWrong || [http://lesswrong.com/lw/mb1/link_baidu_cheats_in_an_ai_contest_in_order_to/ "[link] Baidu cheats in an AI contest in order to gain a 0.24% advantage"] || || 32 ||
+|-
+| 2016 || {{dts|December 8}} || Blog post || LessWrong || [http://lesswrong.com/lw/o8w/combining_prediction_technologies_to_help/ "Combining Prediction Technologies to Help Moderate Discussions"] || || 15 ||
+|-
+| 2017 || {{dts|September 5}} || Blog post || LessWrong || [http://lesswrong.com/lw/pds/online_discussion_is_better_than_prepublication/ "Online discussion is better than pre-publication peer review"] || || 25 ||
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:FIXME|FIXME]].
+
+{{funding info}} is available.
+
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* FIXME
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
