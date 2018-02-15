@@ -14,6 +14,28 @@ Comment counts are as of February 15, 2018.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
 |-
+| 2004 || {{dts|June 28}} || Email || SL4 || [http://sl4.org/archive/0406/9422.html "dream qualia"] || || ||
+|-
+| 2004 || {{dts|October 23}} || Email || SL4 || [http://sl4.org/archive/0410/10098.html "SIAI's direction"] || || ||
+|-
+| 2005 || {{dts|July 13}} || Email || everything-list || [https://groups.google.com/d/msg/everything-list/x0QsE_8Tluw/A6LUcEwTToAJ "is induction unformalizable?"] || || ||
+|-
+| 2005 || {{dts|August 24}} || Email || SL4 || [http://sl4.org/archive/0508/12098.html "uncertainty in mathematics"] || || ||
+|-
+| 2005 || {{dts|September 11}} || Email || SL4 || [http://sl4.org/archive/0509/12317.html "mathematical reasoning"] || || ||
+|-
+| 2007 || {{dts|November 1}} || Email || SL4 || [http://sl4.org/archive/0711/16977.html "how to do something with really small probability?"] || || ||
+|-
+| 2007 || {{dts|November 10}} || Email || SL4 || [http://sl4.org/archive/0711/17013.html "answers I'd like from an SI"] || || ||
+|-
+| 2007 || {{dts|November 13}} || Email || SL4 || [http://sl4.org/archive/0711/17101.html "answers I'd like, part 2"] || || ||
+|-
+| 2008 || {{dts|July 14}} || Email || SL4 || [http://sl4.org/archive/0807/19227.html "prove your source code"] || || ||
+|-
+| 2008 || {{dts|July 16}} || Email || SL4 || [http://sl4.org/archive/0807/19244.html "trade or merge?"] || || ||
+|-
+| 2008 || {{dts|September 7}} || Email || SL4 || [http://sl4.org/archive/0809/19325.html "Bayesian rationality vs. voluntary mergers"] || || ||
+|-
 | 2009 || {{dts|April 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/6r/newcombs_problem_vs_oneshot_prisoners_dilemma/ "Newcomb's Problem vs. One-Shot Prisoner's Dilemma"] || || 15 ||
 |-
 | 2009 || {{Dts|May 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/f6/epistemic_vs_instrumental_rationality_case_of_the/ "Epistemic vs. Instrumental Rationality: Case of the Leaky Agent"] || || 19 ||
