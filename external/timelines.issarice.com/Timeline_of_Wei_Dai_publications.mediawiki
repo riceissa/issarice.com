@@ -14,6 +14,14 @@ Comment counts are as of February 15, 2018.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
 |-
+| 1999 || {{dts|April 1}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00563.html "all of me or one of me"] || || ||
+|-
+| 1999 || {{dts|June 7}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00557.html "why is death painful?"] || || ||
+|-
+| 2001 || {{dts|January 23}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01982.html "Oracle by Greg Egan"] || || ||
+|-
+| 2001 || {{dts|February 15}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00565.html "no need for anthropic reasoning"] || || ||
+|-
 | 2001 || {{dts|December 20}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01371.html "relevance of the real measure"] || || ||
 |-
 | 2002 || {{dts|April 17}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03594.html "decision theory papers"] || Introduces two decision theory papers to the list. || ||
