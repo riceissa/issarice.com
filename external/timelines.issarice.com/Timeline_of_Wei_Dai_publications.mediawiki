@@ -117,9 +117,25 @@ Comment counts are as of February 15, 2018.
 |-
 | 1998 || {{dts|February 21}} || Email || everything-list || "another paradox and a solution" || || ||
 |-
+| 1998 || {{dts|March 15}} || Email || everything-list || "probability and decision theory" || || ||
+|-
+| 1998 || {{Dts|April 14}} || Email || everything-list || "a baysian solution" || || ||
+|-
+| 1998 || {{dts|April 16}} || Email || everything-list || "the one universe" || || ||
+|-
+| 1998 || {{dts|May 28}} || Email || everything-list || "momentary and persistent minds" || || ||
+|-
+| 1998 || {{dts|June 9}} || Email || everything-list || "possibilities for I and Q" || || ||
+|-
 | 1998 || {{dts|November}}? || Text file || || [http://www.weidai.com/bmoney.txt "b-money"] || This document proposes b-money. It would eventually be cited in the bitcoin whitepaper. Discussion on Cypherpunks takes place starting in December.<ref>{{cite web |url=https://cypherpunks.venona.com/date/1998/12/msg00194.html |title=Wei Dei's "b-money" protocol |author=Adam Back |date=December 5, 1998 |accessdate=February 16, 2018}}</ref> || ||
 |-
 | 1998 || {{dts|November 26}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/11/msg00941.html "PipeNet 1.1 and b-money"] || || ||
+|-
+| 1999 || {{dts|January 9}} || Email || everything-list || "information content of measures" || || ||
+|-
+| 1999 || {{dts|January 14}} || Email || everything-list || "consciousness based on information or computation?" || || ||
+|-
+| 1999 || {{Dts|January 15}} || Email || everything-list || "book recommendation" || The message recommends Li and Vitanyi's ''An Introduction to Kolmogorov Complexity and Its Applications'' to everyone on the mailing list. || ||
 |-
 | 1999 || {{dts|April 1}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00563.html "all of me or one of me"] || || ||
 |-
