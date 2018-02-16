@@ -14,7 +14,17 @@ Comment counts are as of February 15, 2018.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
 |-
+| 2001 || {{dts|December 20}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01371.html "relevance of the real measure"] || || ||
+|-
+| 2002 || {{dts|April 17}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03594.html "decision theory papers"] || Introduces two decision theory papers to the list. || ||
+|-
 | 2002 || {{dts|May 3}} || Email || SL4 || [http://sl4.org/archive/0205/3549.html "supergoal stability"] || || ||
+|-
+| 2002 || {{dts|June 14}} || Email || everything-list, Extropians || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03662.html "self-sampling assumption is incorrect"] || || ||
+|-
+| 2002 || {{dts|August 12}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03816.html "modal logic and possible worlds"] || || ||
+|-
+| 2002 || {{dts|August 13}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03830.html "SIA and the presumptuous philosopher"] || || ||
 |-
 | 2002 || {{dts|December 31}} || Email || SL4 || [http://sl4.org/archive/0212/6030.html "moral symmetry"] || || ||
 |-
