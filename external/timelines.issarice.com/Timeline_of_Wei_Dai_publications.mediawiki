@@ -99,59 +99,59 @@ Comment counts are as of February 15, 2018.
 |-
 | 1998 || {{dts|January 15}} || Email || || [http://www.weidai.com/everything.html "ANNOUNCE: the 'everything' mailing list"] || The email announces the launch of everything-list. || ||
 |-
-| 1998 || {{dts|January 19}} || Email || everything-list || "basic questions" || || ||
+| 1998 || {{dts|January 19}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0002.html "basic questions"] || || ||
 |-
 | 1998 || {{dts|January 19}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/01/msg00878.html "PipeNet description"] || || ||
 |-
-| 1998 || {{dts|January 26}} || Email || everything-list || "continous universes" || || ||
+| 1998 || {{dts|January 26}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0011.html "continous universes"] || || ||
 |-
-| 1998 || {{dts|January 28}} || Email || everything-list || "lost in the many worlds" || || ||
+| 1998 || {{dts|January 28}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0014.html "lost in the many worlds"] || || ||
 |-
-| 1998 || {{dts|February 11}} || Email || everything-list || "relative state and decoherence" || || ||
+| 1998 || {{dts|February 11}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0027.html "relative state and decoherence"] || || ||
 |-
-| 1998 || {{dts|February 11}} || Email || everything-list || "experimentation" || || ||
+| 1998 || {{dts|February 11}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0028.html "experimentation"] || || ||
 |-
 | 1998 || {{dts|February 16}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/02/msg00753.html "payment mix"] || || ||
 |-
-| 1998 || {{dts|February 18}} || Email || everything-list || "predictions" || || ||
+| 1998 || {{dts|February 18}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0037.html "predictions"] || || ||
 |-
-| 1998 || {{dts|February 21}} || Email || everything-list || "another paradox and a solution" || || ||
+| 1998 || {{dts|February 21}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0047.html "another paradox and a solution"] || || ||
 |-
-| 1998 || {{dts|March 15}} || Email || everything-list || "probability and decision theory" || || ||
+| 1998 || {{dts|March 15}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0078.html "probability and decision theory"] || || ||
 |-
-| 1998 || {{Dts|April 14}} || Email || everything-list || "a baysian solution" || || ||
+| 1998 || {{Dts|April 14}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0092.html "a baysian solution"] || || ||
 |-
-| 1998 || {{dts|April 16}} || Email || everything-list || "the one universe" || || ||
+| 1998 || {{dts|April 16}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0096.html "the one universe"] || || ||
 |-
-| 1998 || {{dts|May 28}} || Email || everything-list || "momentary and persistent minds" || || ||
+| 1998 || {{dts|May 28}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0114.html "momentary and persistent minds"] || || ||
 |-
-| 1998 || {{dts|June 9}} || Email || everything-list || "possibilities for I and Q" || || ||
+| 1998 || {{dts|June 9}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0124.html "possibilities for I and Q"] || || ||
 |-
 | 1998 || {{dts|November}}? || Text file || || [http://www.weidai.com/bmoney.txt "b-money"] || This document proposes b-money. It would eventually be cited in the bitcoin whitepaper. Discussion on Cypherpunks takes place starting in December.<ref>{{cite web |url=https://cypherpunks.venona.com/date/1998/12/msg00194.html |title=Wei Dei's "b-money" protocol |author=Adam Back |date=December 5, 1998 |accessdate=February 16, 2018}}</ref> || ||
 |-
 | 1998 || {{dts|November 26}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/11/msg00941.html "PipeNet 1.1 and b-money"] || || ||
 |-
-| 1999 || {{dts|January 9}} || Email || everything-list || "information content of measures" || || ||
+| 1999 || {{dts|January 9}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0227.html "information content of measures"] || || ||
 |-
-| 1999 || {{dts|January 14}} || Email || everything-list || "consciousness based on information or computation?" || || ||
+| 1999 || {{dts|January 14}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0257.html "consciousness based on information or computation?"] || || ||
 |-
-| 1999 || {{Dts|January 15}} || Email || everything-list || "book recommendation" || The message recommends Li and Vitanyi's ''An Introduction to Kolmogorov Complexity and Its Applications'' to everyone on the mailing list. || ||
+| 1999 || {{Dts|January 15}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0289.html "book recommendation"] || The message recommends Li and Vitanyi's ''An Introduction to Kolmogorov Complexity and Its Applications'' to everyone on the mailing list. || ||
 |-
 | 1999 || {{dts|April 1}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00563.html "all of me or one of me"] || || ||
 |-
-| 1999 || {{dts|June 1}} || Email || everything-list || "practical reasoning and strong SSA" || || ||
+| 1999 || {{dts|June 1}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0636.html "practical reasoning and strong SSA"] || || ||
 |-
 | 1999 || {{dts|June 7}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00557.html "why is death painful?"] || || ||
 |-
-| 1999 || {{dts|July 12}} || Email || everything-list || "philosophical frameworks" || || ||
+| 1999 || {{dts|July 12}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0908.html "philosophical frameworks"] || || ||
 |-
-| 1999 || {{dts|July 12}} || Email || everything-list || "minimal theory of consciousness" || || ||
+| 1999 || {{dts|July 12}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0910.html "minimal theory of consciousness"] || || ||
 |-
 | 2001 || {{dts|January 23}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01982.html "Oracle by Greg Egan"] || || ||
 |-
 | 2001 || {{dts|February 15}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00565.html "no need for anthropic reasoning"] || || ||
 |-
-| 2001 || {{dts|February 28}} || Email || everything-list || "another anthropic reasoning paradox" || || ||
+| 2001 || {{dts|February 28}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/2531.html "another anthropic reasoning paradox"] || || ||
 |-
 | 2001 || {{dts|December 20}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01371.html "relevance of the real measure"] || || ||
 |-
@@ -159,9 +159,11 @@ Comment counts are as of February 15, 2018.
 |-
 | 2002 || {{dts|May 3}} || Email || SL4 || [http://sl4.org/archive/0205/3549.html "supergoal stability"] || || ||
 |-
-| 2002 || {{dts|May 23}} || Email || everything-list || "JOINING posts" || || ||
+| 2002 || {{dts|May 23}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/3696.html "JOINING posts"] || || ||
 |-
 | 2002 || {{dts|June 14}} || Email || everything-list, Extropians || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03662.html "self-sampling assumption is incorrect"] || || ||
+|-
+| 2002 || {{dts|August 11}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/3911.html "a framework for multiverse decision theory"] || || ||
 |-
 | 2002 || {{dts|August 12}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03816.html "modal logic and possible worlds"] || || ||
 |-
