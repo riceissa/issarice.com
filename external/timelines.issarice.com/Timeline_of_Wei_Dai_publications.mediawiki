@@ -1,4 +1,4 @@
-This is a '''timeline of Wei Dai publications'''.
+This is a '''timeline of Wei Dai publications'''. The timeline takes a broad view of publications that includes blog posts and mailing list posts.
 
 ==Big picture==
 
@@ -19,6 +19,8 @@ This is a '''timeline of Wei Dai publications'''.
 ==Full timeline==
 
 Comment counts are as of February 15, 2018.
+
+For mailing list posts, the main inclusion criterion is that the initial post in a thread is made by Wei. This will probably miss some substantive posts in other threads, but I'm not sure how to quickly identify those posts without spending much more time.
 
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
@@ -401,6 +403,9 @@ Feedback for the timeline can be provided at the following places:
 * FIXME
 
 ===What the timeline is still missing===
+
+* There are a bunch of files on http://www.weidai.com/ but they don't have dates on them so it's hard to know where to put them. (Internet Archive would help with this to some extent.)
+* There are some good comment threads that involve Wei on LW, EA Forum, Medium, and IAFF. I think some of these should be included.
 
 ===Timeline update strategy===
 
