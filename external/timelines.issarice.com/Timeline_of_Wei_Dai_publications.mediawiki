@@ -36,6 +36,12 @@ Comment counts are as of February 15, 2018.
 |-
 | 2002 || {{dts|December 31}} || Email || SL4 || [http://sl4.org/archive/0212/6030.html "moral symmetry"] || || ||
 |-
+| 2003 || {{dts|February 20}} || Email || Extropians || [http://extropians.weidai.com/extropians/0302/3219.html "IRAQ: cost of inspections"] || || ||
+|-
+| 2003 || {{dts|May 8}} || Email || Extropians || [http://extropians.weidai.com/extropians/0305/7888.html "a market approach to terrorism"] || || ||
+|-
+| 2003 || {{dts|August 5}} || Email || Extropians || [http://extropians.weidai.com/extropians/0308/12483.html "a simulated utilitarian"] || || ||
+|-
 | 2003 || {{dts|December 31}} || Email || SL4 || [http://sl4.org/archive/0312/7421.html {{"'}}friendly' humans?"] || || ||
 |-
 | 2004 || {{dts|January 24}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg05089.html "recommended books"] || A list of books that are relevant for understanding topics discussed on the mailing list. || ||
