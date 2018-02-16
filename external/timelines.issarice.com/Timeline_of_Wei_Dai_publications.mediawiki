@@ -97,6 +97,8 @@ Comment counts are as of February 15, 2018.
 |-
 | 1998 || {{dts|January 6}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/01/msg00115.html "cypherpunks and guns"] || || ||
 |-
+| 1998 || {{dts|January 15}} || Email || || [http://www.weidai.com/everything.html "ANNOUNCE: the 'everything' mailing list"] || The email announces the launch of everything-list. || ||
+|-
 | 1998 || {{dts|January 19}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/01/msg00878.html "PipeNet description"] || || ||
 |-
 | 1998 || {{dts|February 16}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/02/msg00753.html "payment mix"] || || ||
