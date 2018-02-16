@@ -139,17 +139,27 @@ Comment counts are as of February 15, 2018.
 |-
 | 1999 || {{dts|April 1}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00563.html "all of me or one of me"] || || ||
 |-
+| 1999 || {{dts|June 1}} || Email || everything-list || "practical reasoning and strong SSA" || || ||
+|-
 | 1999 || {{dts|June 7}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00557.html "why is death painful?"] || || ||
+|-
+| 1999 || {{dts|July 12}} || Email || everything-list || "philosophical frameworks" || || ||
+|-
+| 1999 || {{dts|July 12}} || Email || everything-list || "minimal theory of consciousness" || || ||
 |-
 | 2001 || {{dts|January 23}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01982.html "Oracle by Greg Egan"] || || ||
 |-
 | 2001 || {{dts|February 15}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00565.html "no need for anthropic reasoning"] || || ||
+|-
+| 2001 || {{dts|February 28}} || Email || everything-list || "another anthropic reasoning paradox" || || ||
 |-
 | 2001 || {{dts|December 20}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01371.html "relevance of the real measure"] || || ||
 |-
 | 2002 || {{dts|April 17}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03594.html "decision theory papers"] || Introduces two decision theory papers to the list. || ||
 |-
 | 2002 || {{dts|May 3}} || Email || SL4 || [http://sl4.org/archive/0205/3549.html "supergoal stability"] || || ||
+|-
+| 2002 || {{dts|May 23}} || Email || everything-list || "JOINING posts" || || ||
 |-
 | 2002 || {{dts|June 14}} || Email || everything-list, Extropians || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03662.html "self-sampling assumption is incorrect"] || || ||
 |-
