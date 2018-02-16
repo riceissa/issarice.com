@@ -412,6 +412,9 @@ Feedback for the timeline can be provided at the following places:
 
 * [http://www.weidai.com/ Wei Dai's personal website]
 * [http://lesswrong.com/user/Wei_Dai/overview/ Wei Dai's LessWrong account]
+* [http://effective-altruism.com/user/Wei_Dai/ Wei Dai's Effective Altruism Forum account]
+* [https://medium.com/@weidai Wei Dai's Medium account]
+* [https://agentfoundations.org/threads?id=Wei_Dai Wei Dai's comments on the Intelligent Agent Foundations Forum]
 
 ==References==
 
