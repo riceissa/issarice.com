@@ -3,8 +3,17 @@ This is a '''timeline of Wei Dai publications'''.
 ==Big picture==
 
 {| class="wikitable"
-! Time period !! Development summary !! More details
+! Venue !! Time period !! Details
 |-
+| Cypherpunks || ||
+|-
+| everything-list || ||
+|-
+| Extropians || ||
+|-
+| SL4
+|-
+| LessWrong || ||
 |}
 
 ==Full timeline==
@@ -13,6 +22,20 @@ Comment counts are as of February 15, 2018.
 
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
+|-
+| 1996 || {{dts|February 5}} || Email || Cypherpunks || [http://cypherpunks.venona.com/date/1998/12/msg00448.html "Disperse/Collect version 1.0"] || Announces release of software that helps with sending large files. || ||
+|-
+| 1996 || {{dts|February 13}} || Email || Cypherpunks || [http://cypherpunks.venona.com/date/1996/02/msg01103.html "Crypto++ 2.0 beta"] || || ||
+|-
+| 1996 || {{dts|February 20}} || Email || Cypherpunks || [http://cypherpunks.venona.com/date/1996/02/msg01693.html "ANNOUNCE: Crypto++ 2.0"] || || ||
+|-
+| 1996 || {{dts|March 23}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1996/03/msg01352.html "Java questions"] || || ||
+|-
+| 1996 || {{dts|May 11}} || Email || Cypherpunks, Coderpunks || [https://cypherpunks.venona.com/date/1996/05/msg00688.html "Crypto++ 2.1"] || || ||
+|-
+| 1996 || {{dts|July 29}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1996/07/msg02620.html "game theory"] || || ||
+|-
+| 1998 || || Text file || || [http://www.weidai.com/bmoney.txt "b-money"] || This document proposes b-money. It would eventually be cited in the bitcoin whitepaper. || ||
 |-
 | 1999 || {{dts|April 1}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00563.html "all of me or one of me"] || || ||
 |-
@@ -255,7 +278,7 @@ Comment counts are as of February 15, 2018.
 
 ===How the timeline was built===
 
-The initial version of the timeline was written by [[User:FIXME|FIXME]].
+The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 {{funding info}} is available.
 
@@ -272,6 +295,9 @@ Feedback for the timeline can be provided at the following places:
 ==See also==
 
 ==External links==
+
+* [http://www.weidai.com/ Wei Dai's personal website]
+* [http://lesswrong.com/user/Wei_Dai/overview/ Wei Dai's LessWrong account]
 
 ==References==
 
