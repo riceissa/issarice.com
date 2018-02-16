@@ -11,7 +11,7 @@ This is a '''timeline of Wei Dai publications'''.
 |-
 | Extropians || ||
 |-
-| SL4
+| SL4 || ||
 |-
 | LessWrong || ||
 |}
@@ -22,6 +22,48 @@ Comment counts are as of February 15, 2018.
 
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
+|-
+| 1994 || {{dts|August 19}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1994/08/msg00800.html "trusted time stamping"], [https://cypherpunks.venona.com/date/1994/08/msg00799.html "timestamp.c"], [https://cypherpunks.venona.com/date/1994/08/msg00822.html "timestamp.c mangled"] || || ||
+|-
+| 1995 || {{dts|January 12}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/01/msg00582.html "analysis of RemailerNet"] || || ||
+|-
+| 1995 || {{dts|January 12}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/01/msg00583.html "time stamping service (again)"] || || ||
+|-
+| 1995 || {{dts|January 19}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/01/msg00978.html "traffic analyzing Chaum's digital mix"] || || ||
+|-
+| 1995 || {{dts|January 24}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/01/msg01224.html "analysis of Chaum's MIX continued"] || || ||
+|-
+| 1995 || {{dts|February 6}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/02/msg00234.html "a simple explanation of DC-Net"] || || ||
+|-
+| 1995 || {{dts|February 7}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/02/msg00292.html "a new way to do anonymity"] || || ||
+|-
+| 1995 || {{dts|February 9}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/02/msg00458.html "LESM - Link Encrypted Session Manager"] || || ||
+|-
+| 1995 || {{dts|February 10}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/02/msg00508.html "law vs technology"] || || ||
+|-
+| 1995 || {{dts|September 6}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/09/msg00352.html "fast modular reduction"] || || ||
+|-
+| 1995 || {{dts|September 10}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/09/msg00617.html "question about reputation"] || || ||
+|-
+| 1995 || {{dts|October 5}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/10/msg00554.html "subjective names and MITM"] || || ||
+|-
+| 1995 || {{dts|October 8}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/10/msg00719.html "anonymous cash without blinding"] || || ||
+|-
+| 1995 || {{dts|October 16}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/10/msg01347.html "transaction costs in anonymous markets"] || || ||
+|-
+| 1995 || {{dts|October 21}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/10/msg01690.html "Encrypted TCP Tunneler"] || || ||
+|-
+| 1995 || {{dts|October 26}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/10/msg00062.html "idle CPU markets"] || || ||
+|-
+| 1995 || {{dts|November 4}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/11/msg00198.html "Crypto++ 1.1"] || || ||
+|-
+| 1995 || {{dts|November 10}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/11/msg01620.html "Diffie-Hellman in GF(2^n)?"] || || ||
+|-
+| 1995 || {{dts|November 21}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/11/msg01043.html "towards a theory of reputation"] || || ||
+|-
+| 1995 || {{dts|November 23}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/11/msg01670.html "generating provable primes"] || || ||
+|-
+| 1995 || {{dts|December 18}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/12/msg00630.html "wish list for Crypto++?"] || || ||
 |-
 | 1996 || {{dts|February 5}} || Email || Cypherpunks || [http://cypherpunks.venona.com/date/1998/12/msg00448.html "Disperse/Collect version 1.0"] || Announces release of software that helps with sending large files. || ||
 |-
@@ -35,7 +77,33 @@ Comment counts are as of February 15, 2018.
 |-
 | 1996 || {{dts|July 29}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1996/07/msg02620.html "game theory"] || || ||
 |-
-| 1998 || || Text file || || [http://www.weidai.com/bmoney.txt "b-money"] || This document proposes b-money. It would eventually be cited in the bitcoin whitepaper. || ||
+| 1996 || {{dts|September 9}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1996/09/msg00807.html "papers on anonymous protocols"] || || ||
+|-
+| 1997 || {{dts|February 3}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/02/msg02983.html "what's in a name?"] || || ||
+|-
+| 1997 || {{dts|March 21}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/03/msg00545.html {{"'}}why privacy' revisited"] || || ||
+|-
+| 1997 || {{dts|March 26}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/03/msg00691.html "game theoretic analysis of junk mail"] || || ||
+|-
+| 1997 || {{dts|March 27}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/03/msg00745.html "junk mail analysis, part 2"] || || ||
+|-
+| 1997 || {{dts|April 8}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/04/msg00248.html "some arguments for privacy"] || || ||
+|-
+| 1997 || {{dts|April 12}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/04/msg00398.html "anonymous credit"] || || ||
+|-
+| 1997 || {{dts|September 18}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/09/msg01187.html "sooner or later"] || Assuming a crypto ban is inevitable, the message explores why an earlier ban may be preferable to cypherpunks. || ||
+|-
+| 1997 || {{dts|September 22}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/09/msg01315.html "encouraging digital pseudonyms"] || || ||
+|-
+| 1998 || {{dts|January 6}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/01/msg00115.html "cypherpunks and guns"] || || ||
+|-
+| 1998 || {{dts|January 19}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/01/msg00878.html "PipeNet description"] || || ||
+|-
+| 1998 || {{dts|February 16}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/02/msg00753.html "payment mix"] || || ||
+|-
+| 1998 || {{dts|November}}? || Text file || || [http://www.weidai.com/bmoney.txt "b-money"] || This document proposes b-money. It would eventually be cited in the bitcoin whitepaper. Discussion on Cypherpunks takes place starting in December.<ref>{{cite web |url=https://cypherpunks.venona.com/date/1998/12/msg00194.html |title=Wei Dei's "b-money" protocol |author=Adam Back |date=December 5, 1998 |accessdate=February 16, 2018}}</ref> || ||
+|-
+| 1998 || {{dts|November 26}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/11/msg00941.html "PipeNet 1.1 and b-money"] || || ||
 |-
 | 1999 || {{dts|April 1}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00563.html "all of me or one of me"] || || ||
 |-
@@ -293,6 +361,8 @@ Feedback for the timeline can be provided at the following places:
 ===Timeline update strategy===
 
 ==See also==
+
+* [[Timeline of Carl Shulman publications]]
 
 ==External links==
 
