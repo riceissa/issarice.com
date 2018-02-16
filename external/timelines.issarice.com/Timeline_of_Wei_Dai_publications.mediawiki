@@ -5,15 +5,15 @@ This is a '''timeline of Wei Dai publications'''.
 {| class="wikitable"
 ! Venue !! Time period !! Details
 |-
-| Cypherpunks || ||
+| Cypherpunks || 1994–1996 ||
 |-
-| everything-list || ||
+| everything-list || 1998–2010 ||
 |-
-| Extropians || ||
+| Extropians || 2002–2003 ||
 |-
-| SL4 || ||
+| SL4 || 2002–2008 ||
 |-
-| LessWrong || ||
+| LessWrong || 2009–present ||
 |}
 
 ==Full timeline==
