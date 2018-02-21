@@ -66,3 +66,7 @@ So $\nabla C$ will consist of coordinates $\frac{\partial C}{\partial W^\ell_{jk
 - [Evaluating ∇f(x) is as fast as f(x)](https://timvieira.github.io/blog/post/2016/09/25/evaluating-fx-is-as-fast-as-fx/)
 - [Understanding Lagrange Multipliers](https://danstronger.wordpress.com/2015/08/08/lagrange-multipliers/)
 - [Lagrange Multipliers without Permanent Scarring](https://people.eecs.berkeley.edu/~klein/papers/lagrange-multipliers.pdf)
+
+2018-02-19: continued with chapter 3.
+
+2018-02-20: continued with chapter 3.
