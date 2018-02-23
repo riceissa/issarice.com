@@ -29,3 +29,11 @@ From https://wiki.lesswrong.com/wiki/Acausal_trade
 https://www.facebook.com/satvik.beri/posts/605347363034
 
 "The most unusual technique I use to get faster feedback in a variety of domains is simply simulating things in my head. For example, I'll spend a lot of time simulating a presentation before actually giving it, and the imagined feedback lets me make many improvements before the real thing."
+
+From [this post](https://www.lesserwrong.com/posts/AqbWna2S85pFTsHH4/the-real-world-omega):
+
+> There’s a way in which the social web holds the position of Omega in an
+> ongoing set of Newcomblike problems. The web as a whole wants to know what
+> kind of role you’re playing, and how well you’re going to play it, so that it
+> can know what to expect of you. So, a lot of its distributed resources go
+> into computing a model of you.
