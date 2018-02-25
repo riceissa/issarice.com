@@ -70,3 +70,5 @@ So $\nabla C$ will consist of coordinates $\frac{\partial C}{\partial W^\ell_{jk
 2018-02-19: continued with chapter 3.
 
 2018-02-20: continued with chapter 3.
+
+2018-02-21: continued with chapter 3.
