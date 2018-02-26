@@ -76,3 +76,5 @@ So $\nabla C$ will consist of coordinates $\frac{\partial C}{\partial W^\ell_{jk
 2018-02-25: continued a little with chapter 3.
 
 2018-02-26: continued with chapter 3.
+
+I've been doing most of the math/thought exercises but I've been skipping the programming ones because they seem really straightforward. I'd rather work on an actual project than doing tiny programming stuff, since I already did a bunch of the latter in Ng's course. With the thought exercises, it's difficult to tell if I'm going in the right direction.
