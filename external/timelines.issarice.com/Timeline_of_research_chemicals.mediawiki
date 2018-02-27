@@ -1,0 +1,44 @@
+This is a '''timeline of [[w:Research chemical|research chemicals]]'''.
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Event type !! Details !! Geographic location
+|-
+| 1986 || {{dts|October 27}} || Legal || The {{W|Federal Analogue Act}} is signed into law by United States President {{W|Ronald Reagan}}. The law allows 'any chemical "substantially similar" to a controlled substance listed in Schedule I or II to be treated as if it were also listed in those schedules, but only if intended for human consumption.' || United States
+|-
+| 2004 || July 21 || Legal || [[w:Operation Web Tryp|Operation Web Tryp]] ends with the arrests of 10 people involved with the vendor sites www.racresearch.com, www.duncanlabproducts.com, www.pondman.nu, and www.americanchemicalsupply.com, www.omegafinechemicals.com. ||
+|-
+| 2009 || October 3 || Chemical || Owner of the Danish research chemical company Haupt-RC dies after ingesting an overdose quantity of their own Bromo-DragonFLY, which they mislabeled as 2C-B-FLY. This mislabeled 2C-B-FLY was consumed by researchers, and led to many overdoses and several deaths ||
+|-
+| 2012 || {{dts|July 26}} || Legal || Operation Log Jam, conducted jointly by the US Drug Enforcement Administration and the US Immigration and Customs Enforcement, is announced. The operation ends with the arrests of more than 90 individuals and targets "every level of the synthetic designer drug industry, including retailers, wholesalers, and manufacturers".<ref>{{cite web |url=https://www.justice.gov/sites/default/files/usao-id/legacy/2014/10/10/dearelease07262012.pdf |title=DEA NEWS: Nationwide Synthetic Drug Takedown - 19 million packets of synthetic drugs seized and $36 million in cash |date=July 26, 2012 |publisher=US Department of Justice |accessdate=February 26, 2018}}</ref><ref>{{cite web |url=http://archive.seattleweekly.com/home/928302-129/drugs |publisher=Seattle Weekly |title=DEA's 'Operation Log Jam' Targets Bath Salts and Synthetic Drug Industry Across Country, Including Vancouver |first=Matt |last=Driscoll |date=July 26, 2012 |accessdate=February 26, 2018}}</ref> || United States
+|-
+| 2014 || {{dts|December 12}} || Legal || Operation Synthetic Web, conducted over eight months, concludes with the arrests of 15 individuals involved in the sale and distribution of synthetic cannabinoid products. The operation, conducted by the US Drug Enforcement Administration and several other agencies, seizes approximately 80 kilograms of leaf-based synthetic cannabinoid products and 4,000 vials of liquid-based synthetic cannabinoid products.<ref>{{cite web |url=http://miami.cbslocal.com/2014/12/12/operation-synthetic-web-nets-15-arrests-in-deerfield-beach-drug-bust/ |title='Operation Synthetic Web' Nets 15 Arrests In Deerfield Beach Drug Bust |date=December 12, 2014 |first=Joan |last=Murray |accessdate=February 26, 2018}}</ref><ref>{{cite web |url=http://observernewspaperonline.com/wp-content/uploads/2011/01/0127.pdf |title="Operation Synthetic Web": Drug Bust in Deerfield |first=Diane |last=Emeott |date=December 18, 2014 |accessdate=February 26, 2018}}</ref> || United States ({{W|Deerfield Beach, Florida}})
+|-
+| 2015 || {{dts|May 31}} || Vendor || Research chemicals vendor Lysergi's {{W|domain name}}, <code>lysergi.com</code>, is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=lysergi.com |title=Showing results for: LYSERGI.COM |publisher=ICANN WHOIS |accessdate=February 27, 2018 |quote=Creation Date: 2015-05-31T15:01:39Z}}</ref>
+|-
+| 2017 || November 20 || Vendor || lysergi.com announces closure by early January 2018. ||
+|-
+| 2017 || November 24 || Vendor || First Reddit post about chemlogix.ca.<ref>{{cite web |url=https://www.reddit.com/r/canadianresearch/comments/7faf9e/free_high_purity_4acodmt_sample_promotion_from/ |title=Free high purity 4-AcO-DMT sample promotion from chemlogix.ca : canad… |accessdate=February 9, 2018 |archiveurl=https://archive.is/qzIeD |archivedate=February 9, 2018 |dead-url=no}}</ref> ||
+|-
+| 2017 || December 14-18 || Vendor || modernchem.ca website returns database and 404 errors. ||
+|-
+| 2017 || December 22 || Vendor || theindoleshop.com comes back online, after returning a 404 error for several days; all research chemicals continue to be out of stock. [https://www.reddit.com/r/RCSources/comments/7kyeo5/is_the_indole_shop_dead/drl0nu0/?context=3 Here is their explanation, saying that the owners are on a temporary hiatus]. ||
+|-
+| 2018 || January 8 || Vendor || Research chemicals vendor Lysergi announces that it will not be closing on January 12 as planned; instead, a new team will take over its operations beginning on January 15. In addition, all benzo/thienodiazepine and stimulant products will be removed beginning on January 15.<ref>{{cite web |url=https://www.reddit.com/r/canadianresearch/comments/7ozzo3/lysergi_is_going_under_new_management/ |publisher=reddit |title=Lysergi is going under new Management • r/canadianresearch |author=Elemntry |date=January 8, 2018 |accessdate=February 26, 2018}}</ref> || Canada
+|-
+| 2018 || January 21 || Chemical || DiPT becomes available on chemlogix.ca; while the majority of hallucinogens affect the visual sense, DiPT is primarily aural. ||
+|}
+
+===What the timeline is still missing===
+
+important research chemical bans, DEA raids, vendor sites opening, vendor sites shutting down, notable deaths, canadarc
+
+==See also==
+*[[Timeline of TempleOS]]
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
