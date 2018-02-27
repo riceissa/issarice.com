@@ -82,3 +82,7 @@ I've been doing most of the math/thought exercises but I've been skipping the pr
 I am "skipping" chapter 4 because I actually read it some time ago (before I even began the rest of the book).
 
 So now I'm starting with chapter 5.
+
+Sadly, it looks like I've forgotten a lot of the more advanced "algebra tricks" I learned in high school. This book would have been much easier to go through about five years ago.
+
+Finished chapter 5.
