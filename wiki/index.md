@@ -90,6 +90,8 @@ Here are some activity feeds that track what I've been working on:
   revision](all-pages)
 - [Recent changes on the Cause Prioritization
   Wiki](https://causeprioritization.org/_activity)
+- [Contributions to LessWrong
+  Wiki](https://wiki.lesswrong.com/wiki/Special:Contributions/Riceissa)
 - [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)
   (I occasionally ask questions on Quora while I work)
 
