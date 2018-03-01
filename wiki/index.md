@@ -45,7 +45,7 @@ ones with a substantial amount of content are:
 
 - [Timeline of Berkeley Existential Risk Initiative](https://timelines.issarice.com/wiki/Timeline_of_Berkeley_Existential_Risk_Initiative) (completed)
 - [Timeline of Foundational Research Institute](https://timelines.issarice.com/wiki/Timeline_of_Foundational_Research_Institute) (in progress)
-- [Timeline of Future of Humanity Institute](https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute)
+- [Timeline of Future of Humanity Institute](https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute) (in progress)
 
 I also updated [Timeline of Center for Applied
 Rationality](https://timelines.issarice.com/wiki/Timeline_of_Center_for_Applied_Rationality)
@@ -65,6 +65,11 @@ mostly on importing more donations data.
 You can see the [issues](https://github.com/vipulnaik/donations/issues)
 on the repo for some of the things I've been working on.
 You can also see [my commits](https://github.com/vipulnaik/donations/commits?author=riceissa).
+
+I made a link-dump on the LessWrong Wiki about [San Francisco Bay Area as a
+rationalist and effective altruist
+hub](https://wiki.lesswrong.com/wiki/San_Francisco_Bay_Area_as_a_rationalist_and_effective_altruist_hub).
+I hope to clean up the page to make it easier to read at some point.
 
 # Activity feeds
 
