@@ -86,3 +86,7 @@ So now I'm starting with chapter 5.
 Sadly, it looks like I've forgotten a lot of the more advanced "algebra tricks" I learned in high school. This book would have been much easier to go through about five years ago.
 
 Finished chapter 5.
+
+2018-02-27: starting on chapter 6.
+
+2018-02-28: continued with chapter 6.
