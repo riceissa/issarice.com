@@ -300,6 +300,7 @@ The Pillows:
   * *Can Can Can!*
   * *Musitopia*
   * *Musou Toshi*
+* The Pillows: *Across the Metropolis*
 
 # History
 
