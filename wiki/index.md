@@ -56,7 +56,7 @@ but which has been dormant for a while). Most of the work can be found in the
 [philosophy](https://causeprioritization.org/_category/Philosophy) and
 [population
 ethics](https://causeprioritization.org/_category/Population_ethics)
-categories.
+categories. I also converted the spaces in the URLs to underscores.
 
 I did a bit of work on [AI Watch](https://aiwatch.issarice.com/).
 
