@@ -12,6 +12,23 @@ This is a '''timeline of OpenAI'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2015 || {{dts|December 11}} || || OpenAI launches.<ref>{{cite web |url=https://techcrunch.com/2015/12/11/non-profit-openai-launches-with-backing-from-elon-musk-and-sam-altman/ |date=December 11, 2015 |publisher=TechCrunch |title=Artificial Intelligence Nonprofit OpenAI Launches With Backing From Elon Musk And Sam Altman |author=Drew Olanoff |accessdate=March 2, 2018}}</ref>
+|-
+| 2016 || {{dts|November 15}} || || A partnership between OpenAI and Microsoft's artificial intelligence division is announced.<ref>{{cite web |url=https://www.theverge.com/2016/11/15/13639904/microsoft-openai-ai-partnership-elon-musk-sam-altman |date=November 15, 2016 |publisher=The Verge |first=Nick |last=Statt |title=Microsoft is partnering with Elon Musk's OpenAI to protect humanity's best interests |accessdate=March 2, 2018}}</ref>
+|-
+| 2016 || {{dts|December}} || || OpenAI's Universe, "a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications", is released.<ref>{{cite web |url=https://github.com/openai/universe |accessdate=March 1, 2018 |publisher=GitHub |title=universe}}</ref><ref>{{cite web |url=https://techcrunch.com/2016/12/05/openais-universe-is-the-fun-parent-every-artificial-intelligence-deserves/ |date=December 5, 2016 |publisher=TechCrunch |title=OpenAI's Universe is the fun parent every artificial intelligence deserves |author=John Mannes |accessdate=March 2, 2018}}</ref>
+|-
+| 2017 || {{dts|April 6}} || || "Learning to Generate Reviews and Discovering Sentiment" is published.<ref>{{cite web |url=https://techcrunch.com/2017/04/07/openai-sets-benchmark-for-sentiment-analysis-using-an-efficient-mlstm/ |date=April 7, 2017 |publisher=TechCrunch |title=OpenAI sets benchmark for sentiment analysis using an efficient mLSTM |author=John Mannes |accessdate=March 2, 2018}}</ref>
+|-
+| 2017 || {{dts|August 12}} || || OpenAI's Dota 2 bot beats Danil "Dendi" Ishutin, a professional human player, (and possibly others?) in one-on-one battles.<ref>{{cite web |url=https://techcrunch.com/2017/08/12/openai-bot-remains-undefeated-against-worlds-greatest-dota-2-players/ |date=August 12, 2017 |publisher=TechCrunch |title=OpenAI bot remains undefeated against world's greatest Dota 2 players |author=Jordan Crook |accessdate=March 2, 2018}}</ref><ref>{{cite web |url=https://www.theverge.com/2017/8/14/16143392/dota-ai-openai-bot-win-elon-musk |date=August 14, 2017 |publisher=The Verge |title=Did Elon Musk's AI champ destroy humans at video games? It's complicated |accessdate=March 2, 2018}}</ref>
+|-
+| 2017 || {{dts|December}} || || The 2017 AI Index is published. OpenAI contributed to the report.<ref>{{cite web |url=https://www.theverge.com/2017/12/1/16723238/ai-artificial-intelligence-progress-index |date=December 1, 2017 |publisher=The Verge |title=Artificial intelligence isn't as clever as we think, but that doesn't stop it being a threat |first=James |last=Vincent |accessdate=March 2, 2018}}</ref>
+|-
+| 2018 || {{dts|February 20}} || Publication || The report "The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation" is published. The report forecasts malicious use of artificial intelligence in the short term and makes recommendations on how to mitigate these risks from AI. The report is authored by individuals at Future of Humanity Institute, Centre for the Study of Existential Risk, OpenAI, Electronic Frontier Foundation, Center for a New American Security, and other institutions.<ref>{{cite web |url=https://arxiv.org/abs/1802.07228 |title=[1802.07228] The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation |accessdate=February 24, 2018}}</ref><ref>{{cite web |url=https://blog.openai.com/preparing-for-malicious-uses-of-ai/ |publisher=OpenAI Blog |title=Preparing for Malicious Uses of AI |date=February 21, 2018 |accessdate=February 24, 2018}}</ref><ref>{{cite web |url=https://maliciousaireport.com/ |author=Malicious AI Report |publisher=Malicious AI Report |title=The Malicious Use of Artificial Intelligence |accessdate=February 24, 2018}}</ref><ref name="musk-leaves" />
+|-
+| 2018 || {{dts|February 20}} || || OpenAI announces changes in donors and advisors. New donors are: {{W|Jed McCaleb}}, {{W|Gabe Newell}}, {{W|Michael Seibel}}, {{W|Jaan Tallinn}}, and {{W|Ashton Eaton}} and {{W|Brianne Theisen-Eaton}}. {{W|Reid Hoffman}} is "significantly increasing his contribution". Pieter Abbeel (previously at OpenAI), {{W|Julia Galef}}, and Maran Nelson become advisors. {{W|Elon Musk}} departs the board but remains as a donor and advisor.<ref>{{cite web |url=https://blog.openai.com/openai-supporters/ |publisher=OpenAI Blog |title=OpenAI Supporters |date=February 21, 2018 |accessdate=March 1, 2018}}</ref><ref name="musk-leaves">{{cite web |url=https://www.theverge.com/2018/2/21/17036214/elon-musk-openai-ai-safety-leaves-board |date=February 21, 2018 |publisher=The Verge |title=Elon Musk leaves board of AI safety group to avoid conflict of interest with Tesla |accessdate=March 2, 2018}}</ref>
+|-
+| 2018 || {{dts|March 3}} || || OpenAI will host a hackathon.<ref>{{cite web |url=https://blog.openai.com/hackathon/ |publisher=OpenAI Blog |title=OpenAI Hackathon |date=February 24, 2018 |accessdate=March 1, 2018}}</ref>
 |}
 
 ==Meta information on the timeline==
@@ -28,9 +45,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ==See also==
 
-* [[Timeline of Machine Intelligence Research Institute]]
 * [[Timeline of Future of Humanity Institute]]
-* [[Timeline of machine learning]]
+* [[Timeline of Centre for the Study of Existential Risk]]
 
 ==External links==
 
