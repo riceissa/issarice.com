@@ -90,3 +90,20 @@ Finished chapter 5.
 2018-02-27: starting on chapter 6.
 
 2018-02-28: continued with chapter 6.
+
+(I think there was one or two days in between here where I read more
+of chapter 6, but I forgot to record.)
+
+2018-03-04: finished chapter 6. I didn't do any of the exercises/problems here.
+
+Finished appendix.
+
+Looked through the [Wikipedia page on convolutional neural network](https://en.wikipedia.org/wiki/Convolutional_neural_network), which I probably looked at a long time ago (but it didn't make any sense at that point).
+
+Quickly looked at <http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/>.
+
+Read <http://colah.github.io/posts/2014-07-Conv-Nets-Modular/> again, which makes much more sense now that I've read Nielsen's book.
+
+Read <http://colah.github.io/posts/2014-07-Understanding-Convolutions/> again.
+
+Started reading <http://www.deeplearningbook.org/contents/mlp.html>.
