@@ -9,38 +9,6 @@ bigtable: yes
 # belief:
 ---
 
-This page catalogs some project ideas I have that have not been implemented yet.
-My hope is that I or somebody else can eventually complete these.
-
-I am writing this page for various reasons. Some of these are to:
-
-* Give people a better idea of what I might work on next. I like to make myself
-  predictable so others can plan according to a good model of how I will act.
-* Tell the world the things I want to see. I think the things in this list are
-  useful to the world, and it doesn't need to be me who does it. It would be
-  great to find out that somebody saw a sufficient need based partly on this
-  page and decided to make something. This is similar to [request for startups](https://www.ycombinator.com/rfs/ "“Requests for Startups”. Y Combinator. September 2016. Retrieved November 26, 2017.") or
-  [charities](https://blog.givewell.org/2015/10/15/charities-wed-like-to-see/ "Elie Hassenfeld. “Charities we'd like to see”. GiveWell. March 1, 2017. Retrieved November 26, 2017.").
-* Track the things I want to work on. I often think of things I'd like to work on while daydreaming
-  or working on something else. If I don't put an effort into recording things
-  to work on (and training myself to notice needs that exist in the world), I
-  might forget.
-* Clean out some tasks from [orgmode](emacs). I have a backlog of tasks in orgmode. A
-  lot of these aren't for me to immediately work on, and they kind of clutter
-  up my orgmode file. If the tasks can be done by somebody that isn't me, why not keep that portion of the todo list public?
-* Give potential funders an idea of what they can fund. If I already want to
-  see something in the world, a modest amount of funding can shift my
-  priorities to work on that thing.
-* Find potential collaborators. Especially for the larger projects, it can be
-  helpful to have other interested parties on board to divide up the work.
-* Give people a better idea of where I'm coming from. This is a broader point
-  that applies to other efforts I have made to be more [transparent](individual-transparency).
-
-The information in the table is intended
-to be helpful in scanning the list and orienting oneself, but is only
-suggestive; it is often the case that as a project proceeds, details become
-clearer or change.
-
 Effort can be rated on the following scale. In each case I assume I am the one
 performing the task (skill-sets vary considerably across people so it would be difficult to provide a good estimate for the general population). I have a good programming and writing ability but I am not
 exceptional by any means and I expect many people can perform at a comparable
