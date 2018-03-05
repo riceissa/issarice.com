@@ -107,3 +107,5 @@ Read <http://colah.github.io/posts/2014-07-Conv-Nets-Modular/> again, which make
 Read <http://colah.github.io/posts/2014-07-Understanding-Convolutions/> again.
 
 Started reading <http://www.deeplearningbook.org/contents/mlp.html>.
+
+2018-03-05: read <http://rll.berkeley.edu/deeprlcourse/f17docs/lecture_1_introduction.pdf>
