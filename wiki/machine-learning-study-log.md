@@ -42,6 +42,8 @@ $$\Pr_{x\sim D} [h(x) \ne c(x)] = \mathrm{E}_{x\sim D} [1_{h(x) \ne c(x)}]$$
 
 looks mysterious because I didn't know the [conversion rule from probability of the event to the expectation of the indicator of the event](https://www.statlect.com/fundamentals-of-probability/indicator-functions).
 
+2018-01-01: studied some probability and made [this page](https://machinelearning.subwiki.org/wiki/Summary_table_of_probability_terms). I think Rosenthal's _A First Look at Rigorous Probability Theory_ was the most book here.
+
 ??: I started reading Andrew Ng's course notes for CS229, and explored more textbooks.
 
 (Lots of reading in AI strategy and other topics unrelated to AI safety here, so not much progress on machine learning.)
