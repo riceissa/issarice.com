@@ -112,10 +112,14 @@ Started reading <http://www.deeplearningbook.org/contents/mlp.html>.
 
 Reading chapters 1--2 of [Ng's thesis](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf).
 
+From page 13:
+
 > But because of the Markov property of MDPs (informally, that the
 > future is conditionally independent of the past given the current
 > state), to attain the optimal expected sum of rewards, it suffices
 > to choose actions only \[as\] a function of the current state $s_t$.
+> \[Rather than as a function of the previous and current states
+> $s_0, \ldots, s_t$.\]
 
 The above isn't intuitively obvious to me. I should spend some time
 later thinking about it.
