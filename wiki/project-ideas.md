@@ -76,15 +76,3 @@ improvements, I will try to list them here.
 |TDT vs UDT vs FDT|A page describing how these decision theories are related. I understand that TDT is now deprecated and UDT is an example of FDT, but what exactly did TDT get wrong that is no longer part of FDT? How does UDT differ from other FDTs?|1|LessWrong Wiki?|Prose|
 |Better design for online documents|I'm not satisfied with any website design that exists today. My own website is my attempt so far to design a good simple site, but there are still parts I don't like, e.g. how it handles large tables. [Distill](https://distill.pub/guide/) looks good but I don't want to write in an idiosyncratic HTML format. I think Medium and LessWrong 2.0 are gesturing toward something similar to what I want, but I don't like either of them too much. For me, the ideal output would be a Pandoc template with a CSS stylesheet so that I could write in Pandoc Markdown.|2|GitHub|CSS, HTML, and some JavaScript|
 |Simple Vim autocompletion for Python|I would like a simple smart autocompletion plugin. What I mean by this is that when I type `<C-X><C-O>` it should use the plugin's autocompletion instead of omnicompletion. That is all I want the plugin to do, i.e. I don't want it to override other keybindings, take over `<C-U>`, complete as I type, do error scanning, etc. I think [jedi-vim](https://github.com/davidhalter/jedi-vim) comes close and maybe I just need to figure out the right configuration for that.|1|GitHub|Code|
-
-# External links
-
-- [My Quora questions](https://www.quora.com/profile/Issa-Rice/questions "“Issa Rice's Questions”. Quora. Retrieved November 26, 2017.").
-  Not all of my questions are "serious" questions, but they are things I
-  have wondered about or think others have wondered about, so I would
-  appreciate responses.
-- [New article pool](https://github.com/vipulnaik/contractwork/blob/master/new-article-pool.mediawiki)
-  by Vipul Naik lists article ideas
-- [Luke Muehlhauser's 2011 list of posts he would like to write](http://lesswrong.com/lw/85d/11_less_wrong_articles_i_probably_will_never_have/)
-- [orthonormal's 2012 list of posts they would like to write](http://lesswrong.com/lw/cnl/posts_id_like_to_write_includes_poll/)
-- [How to study superintelligence strategy](http://lukemuehlhauser.com/some-studies-which-could-improve-our-strategic-picture-of-superintelligence/)
