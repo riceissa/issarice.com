@@ -112,7 +112,7 @@ Started reading <http://www.deeplearningbook.org/contents/mlp.html>.
 
 2018-03-05: read <http://rll.berkeley.edu/deeprlcourse/f17docs/lecture_1_introduction.pdf>
 
-Reading chapters 1--2 of [Ng's thesis](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf).
+Read chapters 1--2 of [Ng's thesis](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf).
 
 From page 13:
 
