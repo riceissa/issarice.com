@@ -302,6 +302,10 @@ The Pillows:
   * *Musou Toshi*
 * The Pillows: *Across the Metropolis*
 
+# March 2018
+
+* PilotRedSun songs
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
