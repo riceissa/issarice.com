@@ -4,7 +4,7 @@ author: Issa Rice
 created: 2018-03-06
 date: 2018-03-06
 # documentkind:
-# status:
+status: notes
 # belief:
 ---
 
@@ -16,3 +16,4 @@ It occurs to me that there are many reasons (including many weird reasons) for a
 - If one of the Big World theories is correct, there could be many distant copies of you across the universe or multiverse. If you care about these copies, you might take actions to help them that end up helping many others. So here you don't necessarily care about non-copies but you end up helping them anyway.
 - A variant of the previous one is that even if the World is small, you might care about the pseudo-copies of you that other people create as they model your behavior. See [this post](http://lesswrong.com/lw/1ay/is_cryonics_necessary_writing_yourself_into_the/ "gworley (June 23, 2010). “Is cryonics necessary?: Writing yourself into the future”. LessWrong.") for a similar idea.
 - You have many shared memories/experiences/decision algorithms/genes as many other people. If what you value about yourself is one of these things, you might care about the instances of these things even when they are in other people. Similarly you could take a ["pan-everythingism about everything"](http://files.openphilanthropy.org/files/Conversations/Brian_Tomasik_10-06-16_(public).pdf) approach, where many other things in the world *are* you to varying degrees. And presumably other humans are more like you than, say, rocks.
+- Other reasons for cooperation (e.g. in Newcomb-like situations) might produce altruistic actions.
