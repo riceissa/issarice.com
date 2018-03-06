@@ -14,9 +14,14 @@ I wonder what the reasons are for this. Some ideas I can think of are:
 * Although Wei writes about philosophical problems, he doesn't write so much about empirical issues in global poverty and health.
 * He doesn't seem to do a lot of self-promotion.
 * He seems like a "quiet nerd" based on [this post](http://lesswrong.com/lw/66y/what_do_bad_clothes_signal_about_you/) about fashion. But isn't this true for many other people popular in EA?
-* His anti-academia bent. He doesn't really write papers.
+* His anti-academia bent. He doesn't really write papers. (Even though he has an [impressive list](https://timelines.issarice.com/wiki/Timeline_of_Wei_Dai_publications) of online output.)
 * He does not comment on Facebook very much.
 * Maybe it's not so surprising that people aren't so enthusiastic about any particular person. There are probably other people who are like this that even I am not paying attention to.
 * I'm wrong about one of my assumptions (that Wei's writings are relevant, or that EAs aren't paying attention).
 
 Overall I'm still pretty confused about this.
+
+# External links
+
+- [List of discussions between Paul Christiano and Wei Dai](https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai)
+- [Wei Dai’s views on AI safety](https://causeprioritization.org/Wei_Dai%E2%80%99s_views_on_AI_safety)
