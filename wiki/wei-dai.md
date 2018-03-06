@@ -21,6 +21,8 @@ I wonder what the reasons are for this. Some ideas I can think of are:
 
 Overall I'm still pretty confused about this.
 
+"Yes, you're a freak and nobody but you and a few other freaks can ever get any useful thinking done" (Eliezer to Wei; [source](http://lesswrong.com/lw/5pf/what_were_losing/46xw "May 17, 2011. LessWrong."))
+
 # External links
 
 - [List of discussions between Paul Christiano and Wei Dai](https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai)
