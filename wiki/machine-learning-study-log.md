@@ -125,3 +125,7 @@ From page 13:
 
 The above isn't intuitively obvious to me. I should spend some time
 later thinking about it.
+
+Tried reading <https://arxiv.org/pdf/1708.05866.pdf>; I understood
+some of it (especially the parts that were already covered in other
+places) but a lot of it was too terse for me to really understand.
