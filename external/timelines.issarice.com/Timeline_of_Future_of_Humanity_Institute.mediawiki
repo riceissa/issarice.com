@@ -44,6 +44,10 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 |-
 | 2017 || {{dts|March}} || || The {{W|Open Philanthropy Project}} recommends (to Good Ventures?) a grant of $1,995,425 to FHI for general support.<ref name="open-phil-grant-march-2017">{{cite web |url=https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/future-humanity-institute-general-support |publisher=Open Philanthropy Project |title=Future of Humanity Institute — General Support |date=December 15, 2017 |accessdate=March 10, 2018}}</ref>
 |-
+| 2017 || {{dts|April 27}} || || "That is not dead which can eternal lie: the aestivation hypothesis for resolving Fermi's paradox" is uploaded to the arXiv.<ref>{{cite web |url=https://arxiv.org/abs/1705.03394 |title=[1705.03394] That is not dead which can eternal lie: the aestivation hypothesis for resolving Fermi's paradox |accessdate=March 10, 2018}}</ref><ref name="larks-december-2017-review" />
+|-
+| 2017 || {{Dts|July 17}} || || "Trial without Error: Towards Safe Reinforcement Learning via Human Intervention" is uploaded to the arXiv.<ref>{{cite web |url=https://arxiv.org/abs/1707.05173 |title=[1707.05173] Trial without Error: Towards Safe Reinforcement Learning via Human Intervention |accessdate=March 10, 2018}}</ref><ref name="larks-december-2017-review">{{cite web |url=http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/ |title=2018 AI Safety Literature Review and Charity Comparison |author=Larks |publisher=Effective Altruism Forum |accessdate=March 10, 2018}}</ref>
+|-
 | 2018 || {{dts|February 20}} || Publication || The report "The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation" is published. The report forecasts malicious use of artificial intelligence in the short term and makes recommendations on how to mitigate these risks from AI. The report is authored by individuals at Future of Humanity Institute, Centre for the Study of Existential Risk, OpenAI, Electronic Frontier Foundation, Center for a New American Security, and other institutions.<ref>{{cite web |url=https://arxiv.org/abs/1802.07228 |title=[1802.07228] The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation |accessdate=February 24, 2018}}</ref><ref>{{cite web |url=https://blog.openai.com/preparing-for-malicious-uses-of-ai/ |publisher=OpenAI Blog |title=Preparing for Malicious Uses of AI |date=February 21, 2018 |accessdate=February 24, 2018}}</ref><ref>{{cite web |url=https://maliciousaireport.com/ |author=Malicious AI Report |publisher=Malicious AI Report |title=The Malicious Use of Artificial Intelligence |accessdate=February 24, 2018}}</ref>
 |}
 
@@ -70,6 +74,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 * {{W|Future of Humanity Institute}} (Wikipedia)
 * [https://wiki.lesswrong.com/wiki/Future_of_Humanity_Institute LessWrong Wiki]
+* [https://donations.vipulnaik.com/donee.php?donee=Future+of+Humanity+Institute Donations List Website (donee)]
+* [https://aiwatch.issarice.com/?organization=Future+of+Humanity+Institute AI Watch]
 
 ==References==
 
