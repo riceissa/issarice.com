@@ -28,6 +28,8 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 |-
 | 2008 || {{Dts|September 15}} || Publication || ''[[w:Global Catastrophic Risks (book)|Global Catastrophic Risks]]'' is published.<ref>{{cite web |url=https://www.amazon.com/Global-Catastrophic-Risks-Martin-Rees/dp/0198570503 |title=Global Catastrophic Risks: Nick Bostrom, Milan M. Ćirković: 9780198570509: Amazon.com: Books |accessdate=February 8, 2018}}</ref><ref name="2010-11-03-books" />
 |-
+| 2009 || {{dts|January 1}} || || On the group blog (at the time) ''Overcoming Bias'' Nick Bostrom publishes a blog post proposing the Parliamentary Model of dealing with moral uncertainty. The blog post mentions that he is writing a paper on the topic with Toby Ord, but as of March 2018 the paper seems to never have been published.<ref>{{cite web |url=http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html |title=Overcoming Bias : Moral uncertainty – towards a solution? |accessdate=March 10, 2018}}</ref>
+|-
 | 2009 || {{dts|January 22}} || || ''Human Enhancement'' is published.<ref>{{cite web |url=https://www.amazon.co.uk/Human-Enhancement-Julian-Savulescu/dp/0199299722/ |title=Human Enhancement: Amazon.co.uk: Julian Savulescu, Nick Bostrom: 9780199299720: Books |accessdate=February 8, 2018}}</ref><ref name="2010-11-03-books" />
 |-
 | 2010 || {{dts|June 21}} || || ''Anthropic Bias'' by Nick Bostrom is published. The book covers the topic of reasoning under observation selection effects.<ref>{{cite web |url=https://www.amazon.co.uk/Anthropic-Bias-Observation-Selection-Philosophy/dp/0415883946/ |title=Anthropic Bias (Studies in Philosophy): Amazon.co.uk: Nick Bostrom: 9780415883948: Books |accessdate=February 8, 2018}}</ref><ref name="2010-11-03-books" />
