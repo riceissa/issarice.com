@@ -44,7 +44,7 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 |-
 | 2009 || || || "Probing the Improbable: Methodological Challenges for Risks with Low Probabilities and High Stakes" by Rafaela Hillerbrand, Toby Ord, and Anders Sandberg is published.<ref name="annual-report-oct-2008-to-sep-2009" />
 |-
-| 2009 || {{dts|January 1}} || || On the group blog (at the time) ''Overcoming Bias'' Nick Bostrom publishes a blog post proposing the Parliamentary Model of dealing with moral uncertainty. The blog post mentions that he is writing a paper on the topic with Toby Ord, but as of March 2018 the paper seems to never have been published.<ref>{{cite web |url=http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html |title=Overcoming Bias : Moral uncertainty – towards a solution? |accessdate=March 10, 2018}}</ref> Despite the idea not being published in full, it is often referenced in discussions.
+| 2009 || {{dts|January 1}} || || On the group blog (at the time) ''Overcoming Bias'' Nick Bostrom publishes a blog post proposing the Parliamentary Model of dealing with moral uncertainty. The blog post mentions that he is writing a paper on the topic with Toby Ord, but as of March 2018 the paper seems to never have been published. The paper title might be "Fundamental Moral Uncertainty".<ref name="achievements-report-2008-to-2010" /><ref>{{cite web |url=http://www.overcomingbias.com/2009/01/moral-uncertainty-towards-a-solution.html |title=Overcoming Bias : Moral uncertainty – towards a solution? |accessdate=March 10, 2018}}</ref> Despite the idea not being published in full, it is often referenced in discussions.
 |-
 | 2009 || {{dts|January 22}} || || ''Human Enhancement'' is published.<ref>{{cite web |url=https://www.amazon.co.uk/Human-Enhancement-Julian-Savulescu/dp/0199299722/ |title=Human Enhancement: Amazon.co.uk: Julian Savulescu, Nick Bostrom: 9780199299720: Books |accessdate=February 8, 2018}}</ref><ref name="2010-11-03-books" /><ref name="annual-report-oct-2008-to-sep-2009" />
 |-
@@ -98,6 +98,11 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 ===What the timeline is still missing===
 
 * http://effective-altruism.com/ea/1fa/personal_thoughts_on_careers_in_ai_policy_and/ ?
+* when did FHI start doing more ML-based stuff? was it after it hired owain evans?
+* rebecca roache enhanced punishment stuff?
+** http://blog.practicalethics.ox.ac.uk/2014/03/the-future-of-punishment-a-clarification/
+** http://blog.practicalethics.ox.ac.uk/2013/08/enhanced-punishment-can-technology-make-life-sentences-longer/
+** http://lesswrong.com/lw/jv4/open_thread_1117_march_2014/ap6j
 
 ===Timeline update strategy===
 
