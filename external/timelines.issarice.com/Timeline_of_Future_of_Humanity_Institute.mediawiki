@@ -38,6 +38,8 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 |-
 | 2008 || || || "Whole Brain Emulation: A Technical Roadmap" by Anders Sandberg and Nick Bostrom is published.<ref name="annual-report-oct-2008-to-sep-2009" />
 |-
+| 2008 || {{dts|January 22}} || || The domain name for the Global Catastrophic Risks website, <code>global-catastrophic-risks.com</code>, is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=global-catastrophic-risks.com |title=Showing results for: global-catastrophic-risks.com |publisher=ICANN WHOIS |accessdate=March 11, 2018 |quote=Creation Date: 2008-01-22T20:47:11Z}}</ref> The first snapshot on the Internet Archive would be on May 5, 2008.<ref>{{cite web |url=https://web.archive.org/web/20080701000000*/global-catastrophic-risks.com |title=global-catastrophic-risks.com |accessdate=March 10, 2018}}</ref>
+|-
 | 2008 || {{Dts|September 15}} || Publication || ''[[w:Global Catastrophic Risks (book)|Global Catastrophic Risks]]'' is published.<ref>{{cite web |url=https://www.amazon.com/Global-Catastrophic-Risks-Martin-Rees/dp/0198570503 |title=Global Catastrophic Risks: Nick Bostrom, Milan M. Ćirković: 9780198570509: Amazon.com: Books |accessdate=February 8, 2018}}</ref><ref name="2010-11-03-books" />
 |-
 | 2009 || || || "Probing the Improbable: Methodological Challenges for Risks with Low Probabilities and High Stakes" by Rafaela Hillerbrand, Toby Ord, and Anders Sandberg is published.<ref name="annual-report-oct-2008-to-sep-2009" />
