@@ -58,6 +58,10 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 |-
 | 2011 || {{dts|March 18}} || || ''Enhancing Human Capacities'' is published.<ref>{{cite web |url=https://www.amazon.co.uk/Enhancing-Human-Capacities-Julian-Savulescu/dp/1405195819/ |title=Enhancing Human Capacities: Amazon.co.uk: Julian Savulescu, Ruud ter Meulen, Guy Kahane: 9781405195812: Books |accessdate=February 8, 2018}}</ref><ref>{{cite web |url=http://www.fhi.ox.ac.uk/selected_outputs/recent_books |title=Future of Humanity Institute - Books |accessdate=February 8, 2018 |archiveurl=https://web.archive.org/web/20130116012459/http://www.fhi.ox.ac.uk/selected_outputs/recent_books |archivedate=January 16, 2013 |dead-url=yes}}</ref>
 |-
+| 2012 || {{dts|August 15}} || || The first Internet Archive snapshot of the Winter Intelligence Conference website is from this day.<ref>{{cite web |url=http://www.winterintelligence.org:80/ |title=Winter Intelligence Conferences {{!}} The future of artificial general intelligence |accessdate=March 11, 2018 |archiveurl=https://web.archive.org/web/20120815232147/http://www.winterintelligence.org:80/ |archivedate=August 15, 2012 |dead-url=yes}}</ref> FHI hosts the conference for 2012.<ref>{{cite web |url=http://www.fhi.ox.ac.uk/archive_news |title=Future of Humanity Institute - News Archive |accessdate=March 11, 2018 |archiveurl=https://web.archive.org/web/20130112235735/http://www.fhi.ox.ac.uk/archive_news |archivedate=January 12, 2013 |dead-url=yes}}</ref>
+|-
+| 2012 || {{dts|September 5}} || || The FHI {{W|Twitter}} account, @FHIOxford, is registered.<ref>{{cite web |url=https://twitter.com/fhioxford?lang=en |title=Future of Humanity Institute (@FHIOxford) |publisher=Twitter |accessdate=March 11, 2018}}</ref>
+|-
 | 2014 || || || The Global Priorities Project (GPP) runs as a pilot project within the Centre for Effective Altruism. Team members of GPP include Owen Cotton-Barratt and Toby Ord of the Future of Humanity Institute.<ref>{{cite web |url=http://globalprioritiesproject.org/wp-content/uploads/2015/03/GPP-Strategy-Overview-February-2015.pdf |title=Global Priorities Project Strategy Overview |accessdate=March 10, 2018}}</ref> GPP would also eventually become a collaboration between Centre for Effective Altruism and FHI.<ref>{{cite web |url=http://globalprioritiesproject.org/ |publisher=The Global Priorities Project |title=HOME |accessdate=March 10, 2018}}</ref>
 |-
 | 2014 || {{dts|July}}–September || Influence || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published.<ref name="shulman_miri_causal_influences">{{cite web |url=http://effective-altruism.com/ea/ns/my_cause_selection_michael_dickens/50b |title=Carl_Shulman comments on My Cause Selection: Michael Dickens |publisher=Effective Altruism Forum |accessdate=July 6, 2017 |date=September 17, 2015}}</ref> In March 2017, the {{W|Open Philanthropy Project}} considered this book FHI's "most significant output so far and the best strategic analysis of potential risks from advanced AI to date."<ref name="open-phil-grant-march-2017" />
@@ -101,6 +105,12 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ===What the timeline is still missing===
 
+* the entries in https://www.fhi.ox.ac.uk/reporting/
+* check if all featured publications are in the timeline https://web.archive.org/web/20130112235857/http://www.fhi.ox.ac.uk/selected_outputs
+* i'm curious what output is associated with "Applied epistemology" research agenda https://web.archive.org/web/20130116011525/http://www.fhi.ox.ac.uk/research/rationality_and_wisdom
+* http://lesswrong.com/lw/faa/room_for_more_funding_at_the_future_of_humanity/
+* http://lesswrong.com/lw/7sc/siai_vs_fhi_achievements_20082010/
+* featured publications on https://www.fhi.ox.ac.uk/publications/
 * http://effective-altruism.com/ea/1fa/personal_thoughts_on_careers_in_ai_policy_and/ ?
 * when did FHI start doing more ML-based stuff? was it after it hired owain evans?
 * rebecca roache enhanced punishment stuff?
