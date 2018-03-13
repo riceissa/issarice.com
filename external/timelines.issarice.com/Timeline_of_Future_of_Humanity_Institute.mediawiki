@@ -152,8 +152,9 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ==See also==
 
+* [[Timeline of AI safety]]
 * [[Timeline of Machine Intelligence Research Institute]]
-* [[Timeline of OpenAI]]
+* [[Timeline of the rationality community]]
 
 ==External links==
 
