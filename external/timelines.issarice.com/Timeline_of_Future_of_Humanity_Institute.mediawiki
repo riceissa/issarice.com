@@ -103,6 +103,8 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 |-
 | 2015 || || Publication || "Corrigibility" by Soares et al. is published. One of the authors, Stuart Armstrong, is affiliated with FHI. This is a featured FHI publication.<ref name="selected-publications-archive" />
 |-
+| 2015 || {{dts|July 30}} || Outside review || A post critiquing the lack of intuitive explanation of existential risks on the FHI website (among other places) is posted on ''{{W|LessWrong}}''.<ref>{{cite web |url=http://lesswrong.com/lw/mjy/help_build_a_landing_page_for_existential_risk/ |title=Help Build a Landing Page for Existential Risk? - Less Wrong |accessdate=March 14, 2018 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
+|-
 | 2015 || {{dts|September 15}} || Social media || {{W|Anders Sandberg}} does an AMA ("ask me anything") on {{W|Reddit}}.<ref>{{cite web |url=https://www.reddit.com/r/Futurology/comments/3l1jqs/i_am_a_researcher_at_the_future_of_humanity/ |publisher=reddit |title=I am a researcher at the Future of Humanity Institute in Oxford, working on future studies, human enhancement, global catastrophic risks, reasoning under uncertainty and everything else. Ask me anything! • r/Futurology |accessdate=March 14, 2018}}</ref>
 |-
 | 2015 || {{dts|October}} || Publication || "Moral Trade" by Toby Ord is published in the journal ''[[wikipedia:Ethics (journal)|Ethics]]''.<ref>{{cite web |url=http://www.amirrorclear.net/files/moral-trade.pdf |title=Moral Trade |first=Toby |last=Ord |journal=Ethics |year=2015 |accessdate=March 14, 2018}}</ref> This is a featured FHI publication.<ref name="selected-publications-archive" />
