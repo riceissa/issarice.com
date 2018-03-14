@@ -8,7 +8,7 @@ status: notes
 # belief:
 ---
 
-It occurs to me that there are many reasons (including many weird reasons) for altruism, so I'll try writing some of these down.
+It occurs to me that there are many reasons (including many weird reasons) for altruism, so I'll try writing some of these down. I'm pretty confused about the implications of various philosophical ideas so I'm likely to disagree with many of the points below in the future. (At the moment, I'm not even sure what I believe.)
 
 - The typical reason seems to be that you value the welfare of others and the discount factor you apply for them (for not being you) isn't too low. So when making decisions, you take your own welfare into account, plus the aggregate (discounted) welfare of others.
 - Even if you discount the welfare of others to be arbitrarily low, as long as you have moral uncertainty and use something like the ["expected moral value"](http://users.ox.ac.uk/~mert2255/papers/mu-about-pe.pdf "Hilary Graves; Toby Ord. “Moral uncertainty about population axiology”.") approach, and there are sufficiently many other beings you could help, [swamping](https://causeprioritization.org/Swamping_(population_ethics)) could occur. This is because worldviews that subscribe to altruism think there is "more at stake" in the world.
