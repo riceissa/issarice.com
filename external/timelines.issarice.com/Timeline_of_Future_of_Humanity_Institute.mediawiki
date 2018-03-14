@@ -186,6 +186,8 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 
 The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
+See the [https://github.com/riceissa/issarice.com/commits/master/external/timelines.issarice.com/Timeline_of_Future_of_Humanity_Institute.mediawiki commit history on GitHub] for a more detailed revision history.
+
 {{funding info}} is available.
 
 ===What the timeline is still missing===
