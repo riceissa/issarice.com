@@ -149,7 +149,6 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ===What the timeline is still missing===
 
-* the entries in https://www.fhi.ox.ac.uk/reporting/
 * check if all featured publications are in the timeline https://web.archive.org/web/20130112235857/http://www.fhi.ox.ac.uk/selected_outputs
 * i'm curious what output is associated with "Applied epistemology" research agenda https://web.archive.org/web/20130116011525/http://www.fhi.ox.ac.uk/research/rationality_and_wisdom
 * http://lesswrong.com/lw/faa/room_for_more_funding_at_the_future_of_humanity/
