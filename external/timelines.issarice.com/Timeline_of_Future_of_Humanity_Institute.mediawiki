@@ -22,6 +22,12 @@ The following plots pageviews for the {{W|Future of Humanity Institute}} Wikiped
 
 [[File:Future of Humanity Institute Wikipedia pageviews.png|500px]]
 
+===Wikipedia pageviews for Nick Bostrom page===
+
+The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The image is generated on [https://wikipediaviews.org/displayviewsformultiplemonths.php?page=Nick+Bostrom&allmonths=allmonths&language=en&drilldown=human Wikipedia Views].
+
+[[File:Nick Bostrom Wikipedia pageviews.png|500px]]
+
 ==Full timeline==
 
 {| class="sortable wikitable"
