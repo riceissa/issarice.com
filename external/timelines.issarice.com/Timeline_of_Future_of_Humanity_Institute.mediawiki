@@ -217,6 +217,7 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 ** http://lesswrong.com/lw/jv4/open_thread_1117_march_2014/ap6j
 * https://web.archive.org/web/20110908095411/http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0003/19902/Final_Complete_FHI_Report.pdf (see pages 76-77)
 * http://lesswrong.com/lw/5il/siai_an_examination/4fy5
+* http://viewdns.info/reversewhois/?q=Nick%20Bostrom - maybe other queries too
 
 ===Timeline update strategy===
 
