@@ -1,5 +1,7 @@
 This is a '''timeline of the Future of Humanity Institute''' (FHI).
 
+==Sample questions==
+
 ==Big picture==
 
 {| class="wikitable"
@@ -11,6 +13,14 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 |-
 | 2014–?? || ''Superintelligence'' is published ||
 |}
+
+==Visual data==
+
+===Wikipedia pageviews for FHI page===
+
+The following plots pageviews for the {{W|Future of Humanity Institute}} Wikipedia page.
+
+[[File:Future of Humanity Institute Wikipedia pageviews.png|500px|Image generated on [https://wikipediaviews.org/displayviewsformultiplemonths.php?page=Future+of+Humanity+Institute&allmonths=allmonths&language=en&drilldown=human Wikipedia Views].]]
 
 ==Full timeline==
 
