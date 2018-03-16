@@ -51,6 +51,8 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2006 || || Publication || "What is a Singleton?" by Nick Bostrom is published in the journal ''{{W|Linguistic and Philosophical Investigations}}''. The paper introduces the idea of a [[wikipedia:Singleton (global governance)|singleton]], a hypothetical "world order in which there is a single decision-making agency at the highest level".<ref>{{cite web |url=https://nickbostrom.com/fut/singleton.html |title=What is a Singleton? |first=Nick |last=Bostrom |accessdate=March 11, 2018}}</ref>
 |-
+| 2006 || || Staff || Rebecca Roache joins FHI as a research fellow. Her topic of research is ethical issues regrading human enhancement and new technology.<ref name="fhi-report" /><ref>{{cite web |url=http://www.fhi.ox.ac.uk/Papers/R Roache FHI CV.pdf |title=Rebecca Roache |accessdate=March 16, 2018 |archiveurl=https://web.archive.org/web/20070704175820/http://www.fhi.ox.ac.uk/Papers/R%20Roache%20FHI%20CV.pdf |archivedate=July 4, 2007 |dead-url=yes}}</ref>
+|-
 | 2006 || {{dts|January}} || Staff || Anders Sandberg joins FHI. As of March 2018 he is a Senior Research Fellow at FHI.<ref>{{cite web |url=https://www.linkedin.com/in/anders-sandberg-9215ab145/ |title=Anders Sandberg |publisher=LinkedIn |accessdate=March 15, 2018}}</ref>
 |-
 | 2006 || {{dts|March 2}} || Website || The ENHANCE project website is created<ref>{{cite web |url=http://www.enhanceproject.org:80/ |author=Anders Sandberg |title=ENHANCE Project Site |accessdate=February 7, 2018 |archiveurl=https://web.archive.org/web/20060406192957/http://www.enhanceproject.org:80/ |archivedate=April 6, 2006 |dead-url=yes}}</ref> by Anders Sandberg.<ref name="fhi-report" />
