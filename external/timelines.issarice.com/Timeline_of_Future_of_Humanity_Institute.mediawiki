@@ -67,6 +67,8 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2006 || {{dts|December 17}} || Outside review || The initial version of the [[wikipedia:Future of Humanity Institute|Wikipedia page for FHI]] is created.<ref>{{cite web |url=https://en.wikipedia.org/w/index.php?title=Future_of_Humanity_Institute&dir=prev&action=history |title=Future of Humanity Institute: Revision history - Wikipedia |accessdate=March 14, 2018 |publisher=[[wikipedia:English Wikipedia|English Wikipedia]]}}</ref>
 |-
+| Late 2006 or early 2007 || || Staff || Nicholas Shackel joins FHI as a Research Fellow in Theoretical Ethics.<ref>{{cite web |url=http://www.fhi.ox.ac.uk:80/staff.html |title=FHI Staff |accessdate=March 16, 2018 |archiveurl=https://web.archive.org/web/20070116112648/http://www.fhi.ox.ac.uk:80/staff.html |archivedate=January 16, 2007 |dead-url=yes}}</ref>
+|-
 | 2005–2007 || || || Lighthill Risk Network is created by Peter Taylor of FHI.<ref name="fhi-report" />
 |-
 | 2007 || {{dts|May}} || Workshop || The Whole Brain Emulation Workshop is hosted by FHI.<ref name="fhi-report" /> The workshop would eventually lead to the publication of "Whole Brain Emulation: A Technical Roadmap" in 2008.<ref name="annual-report-oct-2008-to-sep-2009" />
