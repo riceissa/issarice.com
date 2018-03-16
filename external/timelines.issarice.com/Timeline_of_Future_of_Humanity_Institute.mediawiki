@@ -165,6 +165,8 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2014 || {{dts|May 12}} || Social media || FHI researchers {{W|Anders Sandberg}} and Andrew Snyder-Beattie do an AMA ("ask me anything") on {{W|Reddit}}.<ref>{{cite web |url=https://www.reddit.com/r/science/comments/25cnbr/science_ama_series_we_are_researchers_at_the/ |publisher=reddit |title=Science AMA Series: We are researchers at the Future of Humanity Institute at Oxford University, ask us anything! • r/science |accessdate=March 14, 2018}}</ref><ref>{{cite web |url=https://www.fhi.ox.ac.uk/reddit/ |author=Future of Humanity Institute - FHI |title=Future of Humanity Institute answers questions from the public - Future of Humanity Institute |publisher=Future of Humanity Institute |date=May 16, 2014 |accessdate=March 14, 2018}}</ref>
 |-
+| 2014 || {{dts|July}} || Workshop || FHI hosts a MIRIx Workshop in collaboration with the {{W|Machine Intelligence Research Institute}} "to develop the technical agenda for AI safety".<ref>{{cite web |url=https://www.fhi.ox.ac.uk/mirix-at-fhi/ |author=Future of Humanity Institute - FHI |title=MIRIx at FHI - Future of Humanity Institute |publisher=Future of Humanity Institute |date=July 16, 2014 |accessdate=March 16, 2018}}</ref>
+|-
 | 2014 || {{dts|July}}–September || Publication || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published.<ref name="shulman_miri_causal_influences">{{cite web |url=http://effective-altruism.com/ea/ns/my_cause_selection_michael_dickens/50b |title=Carl_Shulman comments on My Cause Selection: Michael Dickens |publisher=Effective Altruism Forum |accessdate=July 6, 2017 |date=September 17, 2015}}</ref> In March 2017, the {{W|Open Philanthropy Project}} considered this book FHI's "most significant output so far and the best strategic analysis of potential risks from advanced AI to date."<ref name="open-phil-grant-march-2017" />
 |-
 | 2014 || {{dts|September}} || Publication || The policy brief "Unprecedented Technological Risks" by Nick Beckstead et al. is published.<ref>{{cite web |url=https://www.fhi.ox.ac.uk/wp-content/uploads/Unprecedented-Technological-Risks.pdf |title=Unprecedented Technological Risks |first1=Nick |last1=Becktead |first2=Nick |last2=Bostrom |first3=Niel |last3=Bowerman |first4=Owen |last4=Cotton-Barratt |first5=William |last5=MacAskill |first6=Seán Ó |last6=hÉigeartaigh |first7=Toby |last7=Ord |accessdate=March 14, 2018}}</ref> This is a featured FHI publication.<ref name="selected-publications-archive" />
@@ -305,7 +307,6 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 * https://www.fhi.ox.ac.uk/bad-actors-and-artificial-intelligence-workshop/
 * https://www.fhi.ox.ac.uk/fhi-normative-uncertainty-workshop/
 * https://www.fhi.ox.ac.uk/workshop-hosted-on-existential-risk/
-* https://www.fhi.ox.ac.uk/mirix-at-fhi/
 
 ===Timeline update strategy===
 
