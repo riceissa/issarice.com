@@ -203,7 +203,11 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2016 || || Staff || Owen Cotton-Barratt joins FHI as a Research Fellow.<ref name="team-page-2016-06-27">{{cite web |url=https://www.fhi.ox.ac.uk/about/the-team/ |author=www.alz.consulting |title=Future of Humanity Institute |publisher=The Future of Humanity Institute |accessdate=March 16, 2018 |archiveurl=https://web.archive.org/web/20160627021237/https://www.fhi.ox.ac.uk/about/the-team/ |archivedate=June 27, 2016 |dead-url=yes}}</ref>
 |-
-| 2016 || || Staff || Eric Drexler becomes an Oxford Martin Senior Fellow at FHI. Previously, he was an Academic Visitor and then an Academic Advisor.<ref name="team-page-2016-06-27" />
+| 2016 || || Staff || Eric Drexler becomes an Oxford Martin Senior Fellow at FHI, and later a Senior Research Fellow. Previously, he was an Academic Visitor and then an Academic Advisor.<ref name="team-page-2016-06-27" /><ref name="team-page-2016-11-23" />
+|-
+| 2016 || || Staff || Jan Leike joins FHI as a Research Fellow.<ref name="team-page-2016-11-23" />
+|-
+| 2016 || || Staff || Miles Brundage joins FHI as a Research Fellow.<ref name="team-page-2016-11-23">{{cite web |url=https://www.fhi.ox.ac.uk/about/the-team/ |author=www.alz.consulting |title=Future of Humanity Institute |publisher=The Future of Humanity Institute |accessdate=March 16, 2018 |archiveurl=https://web.archive.org/web/20161123155814/https://www.fhi.ox.ac.uk/about/the-team/ |archivedate=November 23, 2016 |dead-url=yes}}</ref>
 |-
 | 2016 || {{dts|January 26}} || Publication || "The Unilateralist's Curse and the Case for a Principle of Conformity" by Nick Bostrom, Thomas Douglas, and Anders Sandberg is published in the journal ''[[wikipedia:Social Epistemology (journal)|Social Epistemology]]''.<ref>{{cite web |url=https://www.tandfonline.com/doi/full/10.1080/02691728.2015.1108373 |title=The Unilateralist's Curse and the Case for a Principle of Conformity |publisher=Taylor & Francis |accessdate=March 14, 2018}}</ref> This is a featured FHI publication.<ref name="selected-publications-archive" />
 |-
