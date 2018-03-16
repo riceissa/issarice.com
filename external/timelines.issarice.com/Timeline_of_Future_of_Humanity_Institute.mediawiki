@@ -201,6 +201,8 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2015 || {{dts|July 30}} || Outside review || A post critiquing the lack of intuitive explanation of existential risks on the FHI website (among other places) is posted on ''{{W|LessWrong}}''.<ref>{{cite web |url=http://lesswrong.com/lw/mjy/help_build_a_landing_page_for_existential_risk/ |title=Help Build a Landing Page for Existential Risk? - Less Wrong |accessdate=March 14, 2018 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
+| 2015 || {{dts|September 1}} || Financial || FHI announces that Nick Bostrom has been awarded a €2 million (about $2,247,200 at the time)<ref>{{cite web |url=https://api.fixer.io/2015-09-01?base=EUR |title=Currency conversion from EUR on 2015-09-01 |publisher=Fixer.io |accessdate=March 16, 2018}}</ref> [[wikipedia:European Research Council#Grants offered|European Research Council Advanced Grant]].<ref>{{cite web |url=https://www.fhi.ox.ac.uk/fhi-awarded-prestigious-e2m-erc-grant/ |author=Future of Humanity Institute - FHI |title=FHI awarded prestigious €2m ERC Grant - Future of Humanity Institute |publisher=Future of Humanity Institute |date=September 25, 2015 |accessdate=March 16, 2018}}</ref>
+|-
 | 2015 || {{dts|September 15}} || Social media || {{W|Anders Sandberg}} does an AMA ("ask me anything") on {{W|Reddit}}.<ref>{{cite web |url=https://www.reddit.com/r/Futurology/comments/3l1jqs/i_am_a_researcher_at_the_future_of_humanity/ |publisher=reddit |title=I am a researcher at the Future of Humanity Institute in Oxford, working on future studies, human enhancement, global catastrophic risks, reasoning under uncertainty and everything else. Ask me anything! • r/Futurology |accessdate=March 14, 2018}}</ref>
 |-
 | 2015 || {{dts|October}} || Publication || "Moral Trade" by Toby Ord is published in the journal ''[[wikipedia:Ethics (journal)|Ethics]]''.<ref>{{cite web |url=http://www.amirrorclear.net/files/moral-trade.pdf |title=Moral Trade |first=Toby |last=Ord |journal=Ethics |year=2015 |accessdate=March 14, 2018}}</ref> This is a featured FHI publication.<ref name="selected-publications-archive" />
@@ -308,7 +310,6 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 * i'm curious what output is associated with "Applied epistemology" research agenda https://web.archive.org/web/20130116011525/http://www.fhi.ox.ac.uk/research/rationality_and_wisdom
 * when did FHI start doing more ML-based stuff? was it after it hired owain evans?
 * https://web.archive.org/web/20110908095411/http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0003/19902/Final_Complete_FHI_Report.pdf (see pages 76-77)
-* https://www.fhi.ox.ac.uk/fhi-awarded-prestigious-e2m-erc-grant/
 
 ===Timeline update strategy===
 
