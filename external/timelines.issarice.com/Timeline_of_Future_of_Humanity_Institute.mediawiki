@@ -33,7 +33,15 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
-| 1973 || {{dts|March 10}} || || {{W|Nick Bostrom}} is born.
+| 1973 || {{dts|March 10}} || Nick Bostrom || {{W|Nick Bostrom}} is born.
+|-
+| 1992–1994 || || Nick Bostrom || {{W|Nick Bostrom}} completes his undergraduate degree in philosophy, mathematics, mathematical logic, and artificial intelligence at the {{W|University of Gothenburg}}.<ref name="bostrom-cv">{{cite web |url=https://nickbostrom.com/cv.pdf |title=Microsoft Word - CV Nick Bostrom (19AugNBrevised).docx - cv.pdf |accessdate=March 16, 2018}}</ref>
+|-
+| 1994–1996 || || Nick Bostrom || {{W|Nick Bostrom}} completes his masters degree in philosophy and physics at {{W|Stockholm University}}.<ref name="bostrom-cv" />
+|-
+| 1996 || || Nick Bostrom || {{W|Nick Bostrom}} completes his masters degree (?) in astrophysics and general relativity and computational neuroscience at {{W|King's College London}}.<ref name="bostrom-cv" />
+|-
+| 1996–2000 || || Nick Bostrom || {{W|Nick Bostrom}} completes his PhD in philosophy at the {{W|London School of Economics}}.<ref name="bostrom-cv" />
 |-
 | 1998 || {{dts|August 30}} || Website || The domain name for the Anthropic Principle website, <code>anthropic-principle.com</code>, is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=anthropic-principle.com |title=Showing results for: anthropic-principle.com |publisher=ICANN WHOIS |accessdate=March 11, 2018 |quote=Creation Date: 1998-08-30T04:00:00Z}}</ref> The first Internet Archive snapshot of the website is from January 25, 1999.<ref>{{cite web |url=http://www.anthropic-principle.com:80/ |title=anthropic-principle.com |accessdate=March 11, 2018 |archiveurl=https://web.archive.org/web/19990125093239/http://www.anthropic-principle.com:80/ |archivedate=January 25, 1999 |dead-url=yes}}</ref>
 |-
