@@ -306,7 +306,6 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 * https://www.fhi.ox.ac.uk/fhi-normative-uncertainty-workshop/
 * https://www.fhi.ox.ac.uk/workshop-hosted-on-existential-risk/
 * https://www.fhi.ox.ac.uk/mirix-at-fhi/
-* more at https://www.fhi.ox.ac.uk/news/ (start from "FHI in 2014")
 
 ===Timeline update strategy===
 
