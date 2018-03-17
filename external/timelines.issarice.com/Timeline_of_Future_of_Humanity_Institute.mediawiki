@@ -19,9 +19,11 @@ Many questions are still difficult or impossible to answer just by reading the c
 |-
 | Before 2005 || Pre-FHI days || This is the period leading up to FHI's existence. {{W|Nick Bostrom}}, who would become FHI's first (and so far only) director, is born and completes his education. Also happening in this period are the development of transhumanism, the creation of various transhumanism-related mailing lists, and Bostrom's development his early ideas.
 |-
-| 2005–?? || FHI is founded ||
+| 2005–2011 || Early days of FHI || FHI is established and begins its research. Compared to later periods, this period seems to have a greater focus on ethics of enhancement. FHI publishes three Annual/Achievement Reports during this period.
 |-
-| 2014–?? || ''Superintelligence'' is published ||
+| 2011–2015 || More development and publication of ''Superintelligence'' || More focus on existential risks, in particular risks from advanced artificial intelligence. FHI did not seem to publish any Annual/Achievement Reports during this period, so it is somewhat difficult to tell what FHI considers its greatest accomplishments during this period (other than the publication of ''Superintelligence'').
+|-
+| 2015–present || More development || Collaboration between DeepMind, launch of the Strategic AI Research Center and the Governance of AI Program.
 |}
 
 ==Visual data==
@@ -48,6 +50,9 @@ Here are the inclusion criteria for various event types:
 * For "Workshop" and "Conference", the intention is to include all events organized or hosted by FHI, but not events where FHI staff only attended or only helped with organizing.
 * For "Internal review", the intention is to include all annual review documents.
 * For "External review", the intention is to include all reviews that seem substantive (judged by intuition). For mainstream media articles, only ones that treat FHI/Bostrom at length are included.
+* For "Financial", the intention is to include all substantial (say, over $10,000) donations, including aggregated donations and donations of unknown amounts.
+* For "Nick Bostrom", the intention is to include events sufficient to give a rough overview of Bostrom's development prior to the founding of FHI.
+* For "Social media", the intention is to include all Reddit AMAs and account creations (where the date is known).
 * Events about FHI staff giving policy advice (to e.g. government bodies) are not included, as there are many such events and it is difficult to tell which ones are more important.
 
 {| class="sortable wikitable"
