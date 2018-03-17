@@ -105,6 +105,8 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2008 || || Publication || "Whole Brain Emulation: A Technical Roadmap" by Anders Sandberg and Nick Bostrom is published.<ref name="annual-report-oct-2008-to-sep-2009" /> This is a featured FHI publication.<ref name="selected-publications-archive" />
 |-
+| 2008–2009 || || Financial || FHI reports donations from three unnamed philanthropists and the Bright Horizons Foundation.<ref name="annual-report-oct-2008-to-sep-2009" />{{rp|23}}
+|-
 | 2008 || {{dts|January 22}} || Website || The domain name for the Global Catastrophic Risks website, <code>global-catastrophic-risks.com</code>, is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=global-catastrophic-risks.com |title=Showing results for: global-catastrophic-risks.com |publisher=ICANN WHOIS |accessdate=March 11, 2018 |quote=Creation Date: 2008-01-22T20:47:11Z}}</ref> The first snapshot on the Internet Archive would be on May 5, 2008.<ref>{{cite web |url=https://web.archive.org/web/20080701000000*/global-catastrophic-risks.com |title=global-catastrophic-risks.com |accessdate=March 10, 2018}}</ref>
 |-
 | 2008 || {{Dts|September 15}} || Publication || ''[[w:Global Catastrophic Risks (book)|Global Catastrophic Risks]]'' is published.<ref>{{cite web |url=https://www.amazon.com/Global-Catastrophic-Risks-Martin-Rees/dp/0198570503 |title=Global Catastrophic Risks: Nick Bostrom, Milan M. Ćirković: 9780198570509: Amazon.com: Books |accessdate=February 8, 2018}}</ref><ref name="2010-11-03-books" />
