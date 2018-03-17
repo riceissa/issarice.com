@@ -357,6 +357,7 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 
 ==External links==
 
+* [https://www.fhi.ox.ac.uk/ Official website]
 * {{W|Future of Humanity Institute}} (Wikipedia)
 * [https://wiki.lesswrong.com/wiki/Future_of_Humanity_Institute LessWrong Wiki]
 * [https://donations.vipulnaik.com/donee.php?donee=Future+of+Humanity+Institute Donations List Website (donee)]
