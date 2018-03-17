@@ -2,6 +2,14 @@ This is a '''timeline of the Future of Humanity Institute''' (FHI).
 
 ==Sample questions==
 
+This is an experimental section that provides some sample questions for readers, similar to reading questions that might come with a book. Some readers of this timeline might come to the page aimlessly and might not have a good idea of what they want to get out of the page. Having some "interesting" questions can help in reading the page with more purpose and in getting a sense of why the timeline is an important tool to have.
+
+The following are some interesting questions that can be answered by reading this timeline:
+
+* What was FHI up to for the first ten years of its existence (roughly up to the time when ''Superintelligence'' was published)? (Scan the years 2005–2014.)
+
+Many questions are still difficult or impossible to answer just by reading the current version of this timeline. See [[Representativeness of events in timelines]] for more information.
+
 ==Big picture==
 
 {| class="wikitable"
