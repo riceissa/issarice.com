@@ -380,9 +380,9 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 
 * [https://www.fhi.ox.ac.uk/ Official website]
 * {{W|Future of Humanity Institute}} (Wikipedia)
-* [https://wiki.lesswrong.com/wiki/Future_of_Humanity_Institute LessWrong Wiki]
-* [https://donations.vipulnaik.com/donee.php?donee=Future+of+Humanity+Institute Donations List Website (donee)]
-* [https://aiwatch.issarice.com/?organization=Future+of+Humanity+Institute AI Watch]
+* [https://wiki.lesswrong.com/wiki/Future_of_Humanity_Institute LessWrong Wiki page on FHI]. The LessWrong Wiki is the wiki associated with the group blog ''{{W|LessWrong}}''. The pages on the wiki have a rationalist/effective altruist audience in mind, and is often more useful than the corresponding Wikipedia page on a topic.
+* [https://donations.vipulnaik.com/donee.php?donee=Future+of+Humanity+Institute Donations List Website (donee)]. The Donations List Website is a website by Vipul Naik that collects donations data regarding many effective altruist and rationality sphere donations. This is the donee page for FHI, which collects donations made to FHI.
+* [https://aiwatch.issarice.com/?organization=Future+of+Humanity+Institute AI Watch]. AI Watch is a website by Issa Rice that tracks people and organizations in AI safety. This is the organization page for FHI, showing some basic information as well as a list of AI safety-related positions at FHI.
 
 ==References==
 
