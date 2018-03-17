@@ -17,7 +17,7 @@ Many questions are still difficult or impossible to answer just by reading the c
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
-| Before 2005 || This is the period leading up to FHI's existence. Transhumanism, various mailing lists, Bostrom developing his early ideas, etc. ||
+| Before 2005 || Pre-FHI days || This is the period leading up to FHI's existence. {{W|Nick Bostrom}}, who would become FHI's first (and so far only) director, is born and completes his education. Also happening in this period are the development of transhumanism, the creation of various transhumanism-related mailing lists, and Bostrom's development his early ideas.
 |-
 | 2005–?? || FHI is founded ||
 |-
