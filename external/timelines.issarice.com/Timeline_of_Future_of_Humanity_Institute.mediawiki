@@ -148,7 +148,7 @@ Here are the inclusion criteria for various event types:
 |-
 | 2009 || {{dts|January 22}} || Publication || ''Human Enhancement'' is published.<ref>{{cite web |url=https://www.amazon.co.uk/Human-Enhancement-Julian-Savulescu/dp/0199299722/ |title=Human Enhancement: Amazon.co.uk: Julian Savulescu, Nick Bostrom: 9780199299720: Books |accessdate=February 8, 2018}}</ref><ref name="2010-11-03-books" /><ref name="annual-report-oct-2008-to-sep-2009" />
 |-
-| 2009 || {{dts|February}} || Website || ''{{W|LessWrong}}'', the group blog about rationality, launches.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> The blog is sponsored and endorsed by FHI, although its written contributions seem to be minimal.<ref name="annual-report-oct-2008-to-sep-2009" /><ref name="sotala-siai-vs-fhi" />
+| 2009 || {{dts|February}} || Website || ''{{W|LessWrong}}'', a group blog about rationality, launches.<ref>{{cite web |url=https://wiki.lesswrong.com/wiki/FAQ#Where_did_Less_Wrong_come_from.3F |title=FAQ - Lesswrongwiki |accessdate=June 1, 2017 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref> The blog is sponsored and endorsed by FHI, although its written contributions seem to be minimal.<ref name="annual-report-oct-2008-to-sep-2009" /><ref name="sotala-siai-vs-fhi" />
 |-
 | 2009 || {{dts|March 6}} || Social media || The FHI YouTube account, FHIOxford, is created.<ref>{{cite web |url=https://www.youtube.com/user/FHIOxford/about |publisher=YouTube |title=FHIOxford - YouTube |accessdate=March 15, 2018}}</ref>
 |-
@@ -170,7 +170,7 @@ Here are the inclusion criteria for various event types:
 |-
 | 2011 || {{dts|September}} || Organization || The Oxford Martin Programme on the Impacts of Future Technology (FutureTech) launches.<ref>{{cite web |url=http://www.futuretech.ox.ac.uk/www.futuretech.ox.ac.uk/index.html |title=Welcome |publisher=Oxford Martin Programme on the Impacts of Future Technology |accessdate=July 26, 2017 |quote=The Oxford Martin Programme on the Impacts of Future Technology, launched in September 2011, is an interdisciplinary horizontal Programme within the Oxford Martin School in collaboration with the Faculty of Philosophy at Oxford University.}}</ref> The Programme is directed by Nick Bostrom and works closely with FHI, among other organizations.
 |-
-| 2011 || {{dts|September}} || Staff || Stuart Armstrong joins FHI as Research Fellow.<ref>{{cite web |url=https://www.linkedin.com/in/stuart-armstrong-2447743/ |title=Stuart Armstrong |accessdate=March 15, 2018 |publisher=LinkedIn}}</ref>
+| 2011 || {{dts|September}} || Staff || Stuart Armstrong joins FHI as a Research Fellow.<ref>{{cite web |url=https://www.linkedin.com/in/stuart-armstrong-2447743/ |title=Stuart Armstrong |accessdate=March 15, 2018 |publisher=LinkedIn}}</ref>
 |-
 | 2011 || {{dts|September 25}} || External review || Kaj Sotala posts "SIAI vs. FHI achievements, 2008–2010" on ''{{W|LessWrong}}'', comparing the outputs of FHI and the {{W|Machine Intelligence Research Institute}} (which used to be called the Singularity Institute for Artificial Intelligence, abbreviated SIAI).<ref name="sotala-siai-vs-fhi">{{cite web |url=http://lesswrong.com/lw/7sc/siai_vs_fhi_achievements_20082010/ |title=SIAI vs. FHI achievements, 2008-2010 - Less Wrong |accessdate=March 14, 2018 |publisher=[[wikipedia:LessWrong|LessWrong]]}}</ref>
 |-
@@ -208,7 +208,7 @@ Here are the inclusion criteria for various event types:
 |-
 | 2014 || || Publication || "Managing existential risk from emerging technologies" by Nick Beckstead and Toby Ord is published in the report "Innovation: Managing Risk, Not Avoiding It. Evidence and Case Studies."<ref>{{cite web |url=https://www.fhi.ox.ac.uk/wp-content/uploads/Managing-existential-risks-from-Emerging-Technologies.pdf |title=Innovation: managing risk, not avoiding it |year=2014 |accessdate=March 14, 2018}}</ref> This is a featured FHI publication.<ref name="selected-publications-archive" />
 |-
-| 2014 || || Staff || Toby Ord joins FHI as Research Fellow.<ref>{{cite web |url=http://www.amirrorclear.net/files/toby-ord-cv.pdf |title=Toby Ord - CV |accessdate=March 15, 2018}}</ref>
+| 2014 || || Staff || Toby Ord joins FHI as a Research Fellow.<ref>{{cite web |url=http://www.amirrorclear.net/files/toby-ord-cv.pdf |title=Toby Ord - CV |accessdate=March 15, 2018}}</ref>
 |-
 | 2014 || || Staff || John Cusbert joins FHI as a Research Fellow, for work on the ''Population Ethics: Theory and Practice'' project.<ref>{{cite web |url=http://www.fhi.ox.ac.uk:80/about/staff/ |title=Staff {{!}} Future of Humanity Institute |accessdate=March 16, 2018 |archiveurl=https://web.archive.org/web/20141209042320/http://www.fhi.ox.ac.uk:80/about/staff/ |archivedate=December 9, 2014 |dead-url=yes}}</ref>
 |-
