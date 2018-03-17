@@ -327,7 +327,6 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 * "Sean is currently working overtime to cover a missing administrative staff member, but he plans to release a new achievement report (see sidebar on this page for past achievement reports) sometime in the next few months." [http://lesswrong.com/lw/faa/room_for_more_funding_at_the_future_of_humanity/] However, the last "Achievements Report" I can find ends in 2010.
 * i'm curious what output is associated with "Applied epistemology" research agenda https://web.archive.org/web/20130116011525/http://www.fhi.ox.ac.uk/research/rationality_and_wisdom
 * when did FHI start doing more ML-based stuff? was it after it hired owain evans?
-* https://web.archive.org/web/20110908095411/http://www.fhi.ox.ac.uk/__data/assets/pdf_file/0003/19902/Final_Complete_FHI_Report.pdf (see pages 76-77)
 
 ===Timeline update strategy===
 
