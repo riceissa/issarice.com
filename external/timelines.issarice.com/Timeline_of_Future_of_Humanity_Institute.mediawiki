@@ -89,7 +89,7 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2005–2007 || || || Lighthill Risk Network is created by Peter Taylor of FHI.<ref name="fhi-report" />
 |-
-| 2007 || {{dts|May}} || Workshop || The Whole Brain Emulation Workshop is hosted by FHI.<ref name="fhi-report" /> The workshop would eventually lead to the publication of "Whole Brain Emulation: A Technical Roadmap" in 2008.<ref name="annual-report-oct-2008-to-sep-2009" />
+| 2007 || {{dts|May 26}}–27 || Workshop || The Whole Brain Emulation Workshop is hosted by FHI.<ref name="fhi-report" />{{rp|62}} The workshop would eventually lead to the publication of "Whole Brain Emulation: A Technical Roadmap" in 2008.<ref name="annual-report-oct-2008-to-sep-2009" />
 |-
 | 2007 || {{dts|July 18}} || Internal review || The first FHI Achievements Report, covering November 2005 to July 2007, is published.<ref name="fhi-report" />
 |-
