@@ -73,6 +73,8 @@ The following plots pageviews for the {{W|Nick Bostrom}} Wikipedia page. The ima
 |-
 | 2006 || {{dts|March 13}} || Workshop || FHI hosts the International Methodology Workshop.<ref name="newsletter-april-2006" />{{rp|3}}<ref name="fhi-report" />{{rp|59}}
 |-
+| 2006 and 2007 || {{dts|May 4}} (2006) and {{dts|March 27}}–28 (2007) || Workshop || Anders Sandberg of FHI helps to organize the ENHANCE Workshops on cognition enhancement.<ref name="fhi-report" />{{rp|62}}
+|-
 | 2006 || {{dts|July}} || Publication || "The Reversal Test: Eliminating Status Quo Bias in Applied Ethics" by Nick Bostrom and Toby Ord is published.<ref>{{cite web |url=https://nickbostrom.com/ethics/statusquo.pdf |title=The Reversal Test: Eliminating Status Quo Bias in Applied Ethics |accessdate=March 11, 2018}}</ref> The paper introduces the [[wikipedia:Reversal test|reversal test]] in the context of bioethics of human enhancement. This is a featured FHI publication.<ref name="selected-publications-archive" />
 |-
 | 2006 || {{dts|July 19}} || Website || The domain name for the existential risk website, <code>existential-risk.org</code>, is registered on this day.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=existential-risk.org |title=Showing results for: EXISTENTIAL-RISK.ORG |publisher=ICANN WHOIS |accessdate=March 11, 2018 |quote=Creation Date: 2006-07-19T23:23:38Z}}</ref>
