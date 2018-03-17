@@ -46,6 +46,8 @@ Here are the inclusion criteria for various event types:
 * For "Website", the intention is to include all websites associated with FHI. There are not that many such websites, so this is doable.
 * For "Staff", the intention is to include all Research Fellows and leadership positions (so far, Nick Bostrom has been the only director so not much to record here).
 * For "Workshop" and "Conference", the intention is to include all events organized or hosted by FHI, but not events where FHI staff only attended or only helped with organizing.
+* For "Internal review", the intention is to include all annual review documents.
+* For "External review", the intention is to include all reviews that seem substantive (judged by intuition). For mainstream media articles, only ones that treat FHI/Bostrom at length are included.
 * Events about FHI staff giving policy advice (to e.g. government bodies) are not included, as there are many such events and it is difficult to tell which ones are more important.
 
 {| class="sortable wikitable"
