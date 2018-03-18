@@ -19,7 +19,7 @@ Many questions are still difficult or impossible to answer just by reading the c
 |-
 | Before 2005 || Pre-FHI days || This is the period leading up to FHI's existence. {{W|Nick Bostrom}}, who would become FHI's first (and so far only) director, is born and completes his education. Also happening in this period are the development of transhumanism, the creation of various transhumanism-related mailing lists, and Bostrom's development of his early ideas.
 |-
-| 2005–2011 || Early days of FHI || FHI is established and begins its research. Compared to later periods, this period seems to have a greater focus on the ethics of human enhancement. FHI publishes three Annual/Achievement Reports during this period.
+| 2005–2011 || Early days of FHI || FHI is established and begins its research. Compared to later periods, this period seems to have a greater focus on the ethics of human enhancement. (Bostrom mentions three "work streams" in his welcome event speech at the founding of FHI: human enhancement, global catastrophic risks, and improvement of methodological tools for studying big picture questions. Of these, the second and third "work streams" seem to dominate later periods.)<ref name="bimonthly-report-october-2006" /> FHI publishes three Annual/Achievement Reports during this period.
 |-
 | 2011–2015 || More development and publication of ''Superintelligence'' || More focus on existential risks, in particular risks from advanced artificial intelligence. FHI did not seem to publish any Annual/Achievement Reports during this period, so it is somewhat difficult to tell what FHI considers its greatest accomplishments during this period (other than the publication of ''Superintelligence'').
 |-
