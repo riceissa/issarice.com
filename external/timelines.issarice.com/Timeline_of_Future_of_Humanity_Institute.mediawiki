@@ -122,6 +122,8 @@ Here are the inclusion criteria for various event types:
 |-
 | 2005–2007 || || || Lighthill Risk Network is created by Peter Taylor of FHI.<ref name="fhi-report" />
 |-
+| 2007 || {{dts|April}} || Internal review || Issue 4 of the FHI Progress Report (apparently renamed from "Bimonthly Progress Report") is published.<ref>{{cite web |url=http://www.fhi.ox.ac.uk:80/newsletters/April%202007%20final.pdf |title=Progress Report - Issue 4 |publisher=Future of Humanity Institute |accessdate=March 18, 2018 |archiveurl=https://web.archive.org/web/20081221082328/http://www.fhi.ox.ac.uk:80/newsletters/April%202007%20final.pdf |archivedate=December 21, 2008 |dead-url=yes}}</ref>
+|-
 | 2007 || {{dts|May 26}}–27 || Workshop || The Whole Brain Emulation Workshop is hosted by FHI.<ref name="fhi-report" />{{rp|62}} The workshop would eventually lead to the publication of "Whole Brain Emulation: A Technical Roadmap" in 2008.<ref name="annual-report-oct-2008-to-sep-2009" />
 |-
 | 2007 || {{dts|June 4}} || Conference || Nick Shackel of FHI organizes the Bayesian Approaches to Agreement Conference.<ref name="fhi-report" />{{rp|63}}
