@@ -21,9 +21,9 @@ Many questions are still difficult or impossible to answer just by reading the c
 |-
 | 2005–2011 || Early days of FHI || FHI is established and begins its research. Compared to later periods, this period seems to have a greater focus on the ethics of human enhancement. (Bostrom mentions three "work streams" in his welcome event speech at the founding of FHI: human enhancement, global catastrophic risks, and improvement of methodological tools for studying big picture questions. Of these, the second and third "work streams" seem to dominate later periods.)<ref name="bimonthly-report-october-2006" /> FHI publishes three Annual/Achievement Reports during this period.
 |-
-| 2011–2015 || More development and publication of ''Superintelligence'' || More focus on existential risks, in particular risks from advanced artificial intelligence. FHI did not seem to publish any Annual/Achievement Reports during this period, so it is somewhat difficult to tell what FHI considers its greatest accomplishments during this period (other than the publication of ''Superintelligence'').
+| 2011–2015 || More development and publication of ''Superintelligence'' || FHI continues to publish, hold workshops, and advise policymakers. There is more focus on existential risks, in particular risks from advanced artificial intelligence, during this period. The most notable accomplishment of FHI during this period seems to be the publication of Bostrom's book ''Superintelligence''. FHI did not seem to publish any Annual/Achievement Reports during this period, so it is somewhat difficult to tell what FHI considers its greatest accomplishments during this period (other than the publication of ''Superintelligence'').
 |-
-| 2015–present || More development || Collaboration between DeepMind, launch of the Strategic AI Research Center and the Governance of AI Program.
+| 2015–present || More development || FHI launches both the Strategic AI Research Center and the Governance of AI Program during this period. Its staff count continues to grow. FHI also begins collaborating with {{W|Google DeepMind}}.
 |}
 
 ==Visual data==
