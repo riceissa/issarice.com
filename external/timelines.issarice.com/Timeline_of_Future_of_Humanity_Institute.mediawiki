@@ -369,6 +369,13 @@ See the [https://github.com/riceissa/issarice.com/commits/master/external/timeli
 
 {{funding info}} is available.
 
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* [https://www.lesserwrong.com/posts/5qYjELm2Hgncwb7cE/timeline-of-future-of-humanity-institute ''LessWrong'' 2.0]
+* [https://www.facebook.com/groups/TimelinesWiki/permalink/2029817170591971/ Timelines Wiki Facebook group]
+
 ===What the timeline is still missing===
 
 * "Sean is currently working overtime to cover a missing administrative staff member, but he plans to release a new achievement report (see sidebar on this page for past achievement reports) sometime in the next few months." [http://lesswrong.com/lw/faa/room_for_more_funding_at_the_future_of_humanity/] However, the last "Achievements Report" I can find ends in 2010.
