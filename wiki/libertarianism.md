@@ -36,6 +36,14 @@ Holden also talks about this in the section ["Changing my mind about general pro
 
 I think Vipul has said similar things about open borders.
 
+See also [this post](https://vkrakovna.wordpress.com/2017/08/16/portfolio-approach-to-ai-safety-research/):
+
+> It thus seems particularly important to have different research teams tackle the problems from different perspectives and under different assumptions.
+>
+> \[...\]
+>
+> From a portfolio approach perspective, a particular research avenue is worthwhile if it helps to cover the space of possible reasonable assumptions. For example, while MIRI’s research is somewhat controversial, it relies on a unique combination of assumptions that other groups are not exploring, and is thus quite useful in terms of covering the space of possible assumptions.
+
 This whole approach can be seen as a sort of "disagree and commit" principle
 with respect to assumptions: disputing assumptions leads to
 inaction/unproductive debate, so take an assumption and see where it leads.
