@@ -1,0 +1,81 @@
+'''Backpropagation''' has several related meanings when talking about neural networks. Here we mean the process of finding the gradient of a [[cost function]]. The rest of this page is somewhat of a tutorial of backpropagation intended for strongly-typed semi-pedantic semi-Vipudlian minds.
+
+==Terminology confusion==
+
+* Some people use "backpropagation" to mean the process of finding the gradient of a [[cost function]]. This leads people to say things like "backpropagation is just the multivariable chain rule".
+* Some people use "backpropagation" or maybe "backpropagation algorithm" to mean the entire [[gradient descent]] algorithm, where the gradient is computed using the multivariable chain rule.
+
+Some discussion at: https://www.facebook.com/sebastian.nickel.7587/posts/10159335522140026
+
+==Table of notation==
+
+{| class="sortable wikitable"
+! Name !! Symbols !! Type !! Explanation
+|-
+| The input to the neural network || <math>x</math> || Vector || For example, this could be the pixel values of a grayscale [[MNIST]] image.
+|-
+| The actual output of the neural network (input is implicit) || <math>y</math> || Vector || For example, this could be a vector of length ten, where each coordinate <math>y_j</math> is the probability that the given [[MNIST]] digit is <math>j</math>.
+|-
+| Number of layers in the neural network || <math>L</math> || Positive integer || For example, if the neural network has one input layer, one hidden layer, and one output layer, then we have <math>L=3</math>.
+|-
+| A specific layer of the neural network || <math>\ell</math> || Positive integer || While <math>L</math> is constant for the network, we think of <math>\ell</math> as some specific layer of the network, for example when we are interating over layers.
+|-
+| The weights of the neural network || <math>W</math> || Vector ||
+|-
+| The biases of the neural network || <math>b</math> || Vector ||
+|-
+| The weights of the neural network on layer <math>\ell</math> || <math>W^\ell</math> || Matrix (or vector) || It is notationally convenient for <math>W^\ell</math> to be a matrix, but you might notice that <math>W</math>, the collection of ''all'' weights, is just a list, and <math>W^\ell</math> is only the weights of layer <math>\ell</math>, so should be a sublist.
+|-
+| The weight that takes the <math>k</math>th neuron in layer <math>\ell - 1</math> to the <math>j</math>th neuron in layer <math>\ell</math> || <math>w^\ell_{j\leftarrow k}</math> || Real number || The <math>j</math> and <math>k</math> seem reversed because this makes more sense in terms of matrix multiplication. The arrow doesn't need to be there and has no deep meaning; it's just a reminder of which neuron goes to which.
+|}
+
+==The cost function==
+
+The cost function is defined as:
+
+:<math>C(W,b;x) = \frac{1}{2} \sum_j (y_j - a^L_j)^2</math>
+
+Here <math>y_j</math> are the components of the actual value given input <math>x</math>, and <math>a^L_j</math> are the activations in the final (output) layer.
+
+What is the type of <math>C</math>? In other words, what are the domain and range of <math>C</math>? You might think this is a weird question. Why am I asking the ''reader'' to tell me the type of some object? Shouldn't the ''writer'' specify the type ''in the course of defining the object''? But actually this sort of thing seems common, where the writer just defines things loosely and leaves the reader to infer the types. But since we are strongly typed minds, let's explicitly think through the type of <math>C</math>.
+
+The cost should be a real number, so the range is <math>\mathbf R</math>, the set of real numbers. As for the domain, we want to take in all the weights and biases of the network. In each layer, the weights can be thought of as a matrix <math>W^\ell</math>, which has some number of rows and columns. The rows and columns of the weight matrices don't have to be the same across layers (except to make the dimensions check out when multiplying and adding adjacent layers). But what dimension does a list of matrices, each with potentially different dimensions, have? We could somehow take the largest row count and column count, then multiply those together and then by <math>L</math>. But then there would be a lot of "blanks" where the dimensions are smaller than this maximum. This approach actually seems very clumsy. The right way to think about the domain is to notice that while the weights tend to be packaged together into matrices for each layer, we can easily "unroll" the weights into a single list. Then we can just count the number of weights (which are just real numbers) in all the layers. If that number is <math>N</math>, we have <math>C : \mathbf R^N \to \mathbf R</math>.
+
+You might be used to thinking of the cost as a function of the input, i.e. <math>C(x;W,b)</math>. This turns out to be okay in many situations, but in backpropagation, we want to be differentiating with respect to the weights and biases, while the input remains fixed.
+
+==The point of backpropagation==
+
+The whole point of backpropagation is to find the partial derivatives <math>\frac{\partial C}{\partial w^\ell_{j\leftarrow k}}</math> which tell us how to adjust the weights of the network. We want to adjust the weights of the network so that the output of the network tends to match the given output. It's easy to get lost in the mess of indices and graphs and nodes and whatnot, and to lose sight of what backpropagation is even supposed to do. Just remember that we have some cost function, some weights, and we want to compute some partial derivatives to plug into gradient descent.
+
+==The usual neural network graph==
+
+Neural networks are usually illustrated where each node <math>a^\ell_j</math> is the activation of neuron <math>j</math> in layer <math>\ell</math>. Then the weights are labeled along the edges.
+
+[graph goes here]
+
+==Computational graphs==
+
+The multivariable chain rule can be represented as a [[computational graph]] where the nodes are variables that store values from intermediate computations. Each node can use values given to by edges going into it, and sends its output to nodes going out.
+
+==A different neural network graph==
+
+Naively, we might try to piece together the information in the previous sections as follows:
+
+# The usual neural network graph looks like a computational graph: it's got nodes storing intermediate values that feed into later layers.
+# We know computational graphs are good at representing the process of computing the gradient.
+# In order to do gradient descent, we want the gradient of the cost function.
+# Therefore, by (1)-(3), we can use the neural network graph to represent the process of the computing gradient.
+
+The problem with the above argument is that the computational graph is only good at representing the process of computing the gradient ''when the variables we are differentiating with respect to are nodes on the graph''. But in our case, the cost function is <math>C(W,b;x)</math> rather than <math>C(x;W,b)</math>, i.e. since we are tinkering with the weights of the network, we want to think of the cost as a function of the weights (parameterized by the input <math>x</math>) rather than as a function of the input <math>x</math> (parameterized by the weights <math>W</math>).
+
+But the usual neural network graph only has nodes for the activations <math>a^\ell_j</math>, so how can we compute the relevant derivatives? One solution is to perform surgery on the existing graph to add the weights as nodes.
+
+[graph goes here]
+
+Now that the weights are on individual nodes, we can think of the activation nodes as receiving all the weights and all the previous activations, then doing the multiplication and passing it through the sigmoid function. This is in contrast to before, where the muliplication was "done along the edges" so that the activation nodes received the products <math>w^\ell_{j\leftarrow k}a^{\ell-1}_k</math> and only did the addition and sigmoid.
+
+==See also==
+
+==References==
+
+==External links==
