@@ -36,40 +36,25 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: February 2018 {#summary}
+# Summary of what I worked on: March 2018 {#summary}
 
 For completed tasks, see the [work page](work).
 
-I started on a series of timelines on AI safety organizations. So far, the only
-ones with a substantial amount of content are:
+I did more work on the Cause Prioritization Wiki. Most of the work can be found
+in the [AI safety](https://causeprioritization.org/_category/AI_safety)
+category.
 
-- [Timeline of Berkeley Existential Risk Initiative](https://timelines.issarice.com/wiki/Timeline_of_Berkeley_Existential_Risk_Initiative) (completed)
-- [Timeline of Foundational Research Institute](https://timelines.issarice.com/wiki/Timeline_of_Foundational_Research_Institute) (in progress)
-- [Timeline of Future of Humanity Institute](https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute) (in progress)
+I also did some work on Vipul Naik's [Donations List Website](https://donations.vipulnaik.com),
+working to convert the internal data delimiter from commas to pipes.
+You can see the relevant [issue](https://github.com/vipulnaik/donations/issues/49).
 
-I also updated [Timeline of Center for Applied
-Rationality](https://timelines.issarice.com/wiki/Timeline_of_Center_for_Applied_Rationality)
-to include events for 2017 and 2018.
+I also did some work on a [Timeline of OpenAI](https://timelines.issarice.com/wiki/Timeline_of_OpenAI).
 
-I did some work on the Cause Prioritization Wiki (which I started back in 2014
-but which has been dormant for a while). Most of the work can be found in the
-[philosophy](https://causeprioritization.org/_category/Philosophy) and
-[population
-ethics](https://causeprioritization.org/_category/Population_ethics)
-categories. I also converted the spaces in the URLs to underscores.
-
-I did a bit of work on [AI Watch](https://aiwatch.issarice.com/).
-
-I also did work on Vipul Naik's [Donations List Website](https://donations.vipulnaik.com),
-mostly on importing more donations data.
-You can see the [issues](https://github.com/vipulnaik/donations/issues)
-on the repo for some of the things I've been working on.
-You can also see [my commits](https://github.com/vipulnaik/donations/commits?author=riceissa).
-
-I made a link-dump on the LessWrong Wiki about [San Francisco Bay Area as a
-rationalist and effective altruist
-hub](https://wiki.lesswrong.com/wiki/San_Francisco_Bay_Area_as_a_rationalist_and_effective_altruist_hub).
-I hope to clean up the page to make it easier to read at some point.
+I continued work on a series of wiki pages about specific individuals, mostly
+those involved in the [effective altruism]() movement and the
+[rationality community](). This work is not public, but a subset of the work
+may eventually be made public, and the work is intended to help with public
+writeups in the future. This work is funded by Vipul Naik.
 
 # Activity feeds
 
