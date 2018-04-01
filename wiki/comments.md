@@ -301,3 +301,5 @@ site.  Here are some of the better ones.
 
     I don't agree with the reasoning that having comments makes a site look
     less academic.
+
+As of 2018, I still feel like commenting on websites is an unsolved problem. I want something that has low friction, revision history (or append-only), support for archival, no spam, and static. WordPress with Akismet for spam might be good, but composing posts on WordPress is unpleasant.
