@@ -1,8 +1,11 @@
-'''Wei Dai''' computer engineer and former cypherpunk.
+'''Wei Dai''' is a computer engineer and former cypherpunk.
 
 __TOC__
 
 ==Quotes==
+
+* I do have some early role models. I recall wanting to be a real-life version of the fictional "Sandor Arbitration Intelligence at the Zoo" (from Vernor Vinge's novel A Fire Upon the Deep) who in the story is known for consistently writing the clearest and most insightful posts on the Net. And then there was Hal Finney who probably came closest to an actual real-life version of Sandor at the Zoo, and Tim May who besides inspiring me with his vision of cryptoanarchy was also a role model for doing early retirement from the tech industry and working on his own interests/causes.
+** In a [http://lesswrong.com/lw/jgz/aalwa_ask_any_lesswronger_anything/ap84 thread] on ''[[wikipedia:LessWrong|LessWrong]]''
 
 ==Quotes about Dai==
 
@@ -11,6 +14,9 @@ __TOC__
 
 * Most people do not spontaneously try to solve the <nowiki>[</nowiki>[[wikipedia:Friendly artificial intelligence|friendly artificial intelligence]]</nowiki> (FAI)]</nowiki> problem. If they're spontaneously doing something, they try to solve the AI problem. If we're talking about sort of 'who's made interesting progress on FAI problems without being a Singularity Institute Eliezer supervised person,' then I would have to say: Wei Dai.
 ** Eliezer Yudkowsky, in a [https://www.lesswrong.com/posts/YduZEfz8usGbJXN4x/transcription-of-eliezer-s-january-2010-video-q-and-a question-and-answer session] in response to the question "Who was the most interesting would-be FAI solver you encountered?", January 2010
+
+* I think you're a much better writer & thinker than me
+** [[Gwern Branwen]], https://www.lesswrong.com/posts/7mCusQu7ZXprbYfYc/sl4-meta-list-closure-2-month-followup#ffgmBvpsS4PSF6ufS
 
 ==External links==
 
