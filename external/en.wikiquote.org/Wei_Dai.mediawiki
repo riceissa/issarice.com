@@ -7,6 +7,9 @@ __TOC__
 * I do have some early role models. I recall wanting to be a real-life version of the fictional "Sandor Arbitration Intelligence at the Zoo" (from Vernor Vinge's novel A Fire Upon the Deep) who in the story is known for consistently writing the clearest and most insightful posts on the Net. And then there was Hal Finney who probably came closest to an actual real-life version of Sandor at the Zoo, and Tim May who besides inspiring me with his vision of cryptoanarchy was also a role model for doing early retirement from the tech industry and working on his own interests/causes.
 ** In a [http://lesswrong.com/lw/jgz/aalwa_ask_any_lesswronger_anything/ap84 thread] on ''[[wikipedia:LessWrong|LessWrong]]''
 
+* Here's my experience. I applied to just [[wikipedia:Massachusetts Institute of Technology|MIT]] and my state university (University of Washington). I got on MIT's waiting list but was ultimately not accepted, so went to UW. I would certainly have gone to MIT had I been accepted, but my thinking now is that if I did that, I would not have had enough free time in college to write [[wikipedia:Crypto++|Crypto++]] and think about anonymous protocols, [[wikipedia:Multiverse#Max Tegmark's four levels|Tegmark's multiverse]], [[wikipedia:Anthropic principle|anthropic reasoning]], etc., and these spare-time efforts have probably done more for my "career" than the MIT name or what I might have learned there.
+** On his university experience, in a [https://www.lesswrong.com/posts/MzfrRhB4Q7YgCW3f6/college-selection-advice#PuZtQ3excyvoPZh42 discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', March 2011
+
 ==Quotes about Dai==
 
 * Yes, you're a freak and nobody but you and a few other freaks can ever get any useful thinking done
