@@ -1,4 +1,4 @@
-'''Wei Dai''' is a computer engineer and former cypherpunk.
+'''Wei Dai''' is a computer engineer and former cypherpunk who is known as the original author of [[wikipedia:Crypto++|Crypto++]] and for proposing b-money, a precursor to [[wikipedia:Bitcoin|Bitcoin]].
 
 __TOC__
 
@@ -24,6 +24,12 @@ __TOC__
 
 * Part of it, which perhaps you and most other observers are not aware, is that I have enough passive income, and enough dispassion for conventional status signaling, that my marginal utility of money is pretty low compared to my disutility for doing busywork. To put it in perspective, I quit my last regular job in 2002, and stopped doing consulting for that company as well (at $100/hour) a year later when they merged with Microsoft and told me I had to do a bunch of paperwork and be hired by Microsoft's "independent consulting company" in order to continue.
 ** In a [https://www.lesswrong.com/posts/Jter3YhFBZFYo8vtq/look-for-the-next-tech-gold-rush#ikKBYevf2aL2pBwsS discussion thread], July 2014
+
+* One solution <nowiki>[</nowiki>to the problem that high status might cause stupidity<nowiki>]</nowiki> that might work (and I think has worked for me, although I didn't consciously choose it) is to periodically ''start over''. Once you've achieved recognition in some area, and no longer have as much interest in it as you used to, go into a different community focused on a different topic, and start over from a low-status (or at least not very high status) position.
+* In a [https://www.lesswrong.com/posts/cgrvvp9QzjiFuYwLi/high-status-and-stupidity-why#64QSdqdMekvGrpuaH discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', January 2010
+
+* Does anyone ''not'' have any problems with taking ideas seriously? I think I'm in this category because '''ideas like cryonics, the Singularity, UFAI, and Tegmark's mathematical universe were all immediately obvious to me as ideas to take seriously, and I did so without much conscious effort or deliberation'''.
+** In a [https://www.lesswrong.com/posts/Q8jyAdRYbieK8PtfT/taking-ideas-seriously#Ym77AptKtD2h9bXXd discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', August 2010
 
 ==Quotes about Dai==
 
