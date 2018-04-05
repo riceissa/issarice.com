@@ -34,6 +34,9 @@ __TOC__
 * I think a highly rational person would have high moral uncertainty at this point and not necessarily be described as "altruistic".
 ** In a [https://www.lesswrong.com/posts/p4Gd8pRcbnKo46hus/building-toward-a-friendly-ai-team#s5uoQrSoFeKke29dm discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', June 2012
 
+* Yes, but I tend not to advertise too much that people should be less certain about their altruism, since it's hard to see how that could be good for me regardless of what my values are or ought to be. I make an exception of this for people who might be in a position to build an FAI, since if they're too confident about altruism then they're likely to be too confident about many other philosophical problems, but even then I don't stress it too much.
+** In [https://www.lesswrong.com/posts/YdfpDyRpNyypivgdu/aalwa-ask-any-lesswronger-anything#miERerX6pSgG4ac5x response] to the question "Do you think that most people should be very uncertain about their values, e.g. altruism?", March 2014
+
 ==Quotes about Dai==
 
 * Yes, '''you're a freak and nobody but you and a few other freaks can ever get any useful thinking done''' and didn't we sort of cover this territory already?
