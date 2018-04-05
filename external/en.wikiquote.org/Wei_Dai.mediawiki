@@ -22,6 +22,9 @@ __TOC__
 * In other words, when I say "what's the evidence for that?", it's not that I don't trust your rationality (although of course I don't trust your rationality either), but I just can't deduce what evidence you must have observed from your probability declaration alone even if you were fully rational.
 ** In a [https://www.lesswrong.com/posts/zsznamBgNuj3XX2DP/self-congratulatory-rationalism#2pmeNAZ33A8y43464 discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', March 2014
 
+* '''I think status is in fact a significant motivation even for me, and even the more "pure" motivations like intellectual curiosity can in some sense be traced back to status.''' It seems unlikely that <nowiki>[</nowiki>updateless decision theory<nowiki>]</nowiki> would have been developed without the existence of forums like extropians, everything-list, and [[wikipedia:LessWrong|LW]], for reasons of both motivation and feedback/collaboration.
+** In [https://www.lesswrong.com/posts/a3aGosA987cZ4aRAB/online-discussion-is-better-than-pre-publication-peer-review#TkXmTc5Sxnt9GhyZS response] to someone suggesting that status is not a motivator for Dai, September 2017
+
 * Part of it, which perhaps you and most other observers are not aware, is that I have enough passive income, and enough dispassion for conventional status signaling, that my marginal utility of money is pretty low compared to my disutility for doing busywork. To put it in perspective, I quit my last regular job in 2002, and stopped doing consulting for that company as well (at $100/hour) a year later when they merged with Microsoft and told me I had to do a bunch of paperwork and be hired by Microsoft's "independent consulting company" in order to continue.
 ** In a [https://www.lesswrong.com/posts/Jter3YhFBZFYo8vtq/look-for-the-next-tech-gold-rush#ikKBYevf2aL2pBwsS discussion thread], July 2014
 
