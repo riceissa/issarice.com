@@ -34,13 +34,13 @@ __TOC__
 ==Quotes about Dai==
 
 * Yes, '''you're a freak and nobody but you and a few other freaks can ever get any useful thinking done''' and didn't we sort of cover this territory already?
-** Eliezer Yudkowsky, in a [https://www.lesswrong.com/posts/jCSLbQvWz8j4Mwcar/what-we-re-losing#KrgHNaDG5Sh5DSgbX discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', May 2011
+** [[wikipedia:Eliezer Yudkowsky|Eliezer Yudkowsky]], in a [https://www.lesswrong.com/posts/jCSLbQvWz8j4Mwcar/what-we-re-losing#KrgHNaDG5Sh5DSgbX discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', May 2011
 
-* Most people do not spontaneously try to solve the <nowiki>[</nowiki>[[wikipedia:Friendly artificial intelligence|friendly artificial intelligence]] (FAI)<nowiki>]</nowiki> problem. If they're spontaneously doing something, they try to solve the AI problem. '''If we're talking about sort of 'who's made interesting progress on FAI problems without being a Singularity Institute Eliezer supervised person,' then I would have to say: Wei Dai.'''
+* Most people do not spontaneously try to solve the <nowiki>[</nowiki>[[wikipedia:Friendly artificial intelligence|friendly artificial intelligence]] (FAI)<nowiki>]</nowiki> problem. If they're spontaneously doing something, they try to solve the AI problem. '''If we're talking about sort of 'who's made interesting progress on FAI problems without being a [[wikipedia:Machine Intelligence Research Institute|Singularity Institute]] Eliezer supervised person,' then I would have to say: Wei Dai.'''
 ** Eliezer Yudkowsky, in a [https://www.lesswrong.com/posts/YduZEfz8usGbJXN4x/transcription-of-eliezer-s-january-2010-video-q-and-a question-and-answer session] in response to the question "Who was the most interesting would-be FAI solver you encountered?", January 2010
 
 * I think you're a much better writer & thinker than me
-** [[Gwern Branwen]], https://www.lesswrong.com/posts/7mCusQu7ZXprbYfYc/sl4-meta-list-closure-2-month-followup#ffgmBvpsS4PSF6ufS
+** Gwern Branwen, https://www.lesswrong.com/posts/7mCusQu7ZXprbYfYc/sl4-meta-list-closure-2-month-followup#ffgmBvpsS4PSF6ufS
 
 ==External links==
 
