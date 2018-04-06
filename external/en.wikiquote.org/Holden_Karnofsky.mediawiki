@@ -22,7 +22,7 @@ __TOC__
 * I have more pet peeves than anyone else I know, and one of the very biggest ones is what I call flakes: people who say they'll do something, then back out without giving me the communication I need to adjust my plans. Anyone who's ever stood me up, or even been very late to something without a heads-up phone call, or just forgotten to do something they knew I was counting on them to do, has felt my wrath … thanks to cellphones and email, there is just no excuse.
 ** In [https://blog.givewell.org/2007/03/06/i-am-not-a-flake/ "I am not a flake"], March 2007
 
-*  I model the world as having most of the impact from extreme cases, 'home-runs'. I think that's true in business, science and social impact. If you have good personal fit, your chances of being that extreme case are dramatically better – you climb the ladder, you get to see and do things that other can't, and you get to make unique contributions.
+* I model the world as having most of the impact from extreme cases, 'home-runs'. I think that's true in business, science and social impact. If you have good personal fit, your chances of being that extreme case are dramatically better – you climb the ladder, you get to see and do things that other can't, and you get to make unique contributions.
 * In an [https://80000hours.org/2014/10/interview-holden-karnofsky-on-the-importance-of-personal-fit/ interview] with Benjamin Todd, January 2014
 
 * I could tell you about my strengths and weaknesses. I'm creative and intelligent and able to rock the boat and do things that can create uncomfortable situations and then not be bothered about it. But I'm not the best diplomat, I don't have a lot of patience for being sunny and making people happy.
@@ -33,6 +33,9 @@ __TOC__
 
 * My sense is that factory farms do a great deal of damage to the world that isn’t included in the prices of their products. This includes environmental impact and cruelty to animals. I know very little about the former; what I know about the latter mostly comes from a book by Peter Singer (note that Prof. Singer promotes the organization I co-founded, GiveWell).
 ** On the [https://powersmoothie.org/ethics/ "Ethics"] page of his ''Power Smoothie'' website
+
+* So one crazy analogy to how my morality might turn out to work, and the big point here is I don't know how my morality works, is we have a painting and the painting is very beautiful. There is some crap on the painting. Would I like the crap cleaned up? Yes, very much. That's like the suffering that's in the world today. Then there is making more of the painting, that's just a strange function. My utility with the size of the painting, it’s just like a strange and complicated function. It may go up in any kind of reasonable term that I can actually foresee, but flatten out, at some point. So to see the world as like a painting and my utility of it is that, I think that is somewhat of an analogy to how my morality may work, that it’s not like there is this linear multiplier and the multiplier is one thing or another thing. It’s: starting to talk about billions of future generations is just like going so far outside of where my morality has ever been stress-tested. I don’t how it would respond. I actually suspect that it would flatten out the same way as with the painting.
+** In a [https://intelligence.org/wp-content/uploads/2014/01/01-16-2014-conversation-on-existential-risk.pdf conversation] with Luke Muehlhauser and [[Eliezer Yudkowsky]], January 2014; part of this is quoted by Carl Shulman in [https://reflectivedisequilibrium.blogspot.com/2014/08/population-ethics-and-inaccessible.html "Population ethics and inaccessible populations"]
 
 ==Quotes about Karnofsky==
 
