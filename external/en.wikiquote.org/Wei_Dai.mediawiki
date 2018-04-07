@@ -1,6 +1,4 @@
-'''Wei Dai''' is a computer engineer and former cypherpunk who is known for being the original author of [[wikipedia:Crypto++|Crypto++]] and for proposing b-money, a precursor to [[wikipedia:Bitcoin|Bitcoin]].
-
-__TOC__
+'''[[w:Wei Dai|Wei Dai]]''' is a computer engineer and former cypherpunk who is known for being the original author of [[w:Crypto++|Crypto++]] and for proposing [[w:b-money|b-money]], a precursor to [[w:Bitcoin|Bitcoin]].
 
 ==Quotes==
 
@@ -52,9 +50,9 @@ __TOC__
 ** Gwern Branwen, in a [https://www.lesswrong.com/posts/7mCusQu7ZXprbYfYc/sl4-meta-list-closure-2-month-followup#ffgmBvpsS4PSF6ufS discussion thread] on ''[[wikipedia:LessWrong|LessWrong]]'', May 2011
 
 ==External links==
-
+{{Wikipedia}}
 * [http://www.weidai.com/ Personal website]
 
-{{Wikipedia}}
-
 {{DEFAULTSORT:Dai, Wei}}
+[[Category:Computer scientists]]
+[[Category:Living people]]
