@@ -50,6 +50,12 @@ This is a '''timeline of Berkeley Existential Risk Initiative'''. Berkeley Exist
 | 2018 || {{dts|January}} || Financial || BERI's grants program awards $800,000 to the {{W|Center for Applied Rationality}} for general support (to help CFAR buy a permanent venue).<ref name="january-2018-activity-update">{{cite web |url=http://existence.org/2018/02/08/activity-update-january-2018.html |title=Berkeley Existential Risk Initiative {{!}} Activity Update - January 2018 |accessdate=February 9, 2018}}</ref>
 |-
 | 2018 || {{dts|January}} || Legal || The BERI Support Fund is incorporated. The BERI Support Fund creates more oversight of grant making (how?).<ref name="january-2018-activity-update" /><ref>{{cite web |url=http://existence.org/bsf/ |title=Berkeley Existential Risk Initiative {{!}} The BERI Support Fund |accessdate=February 9, 2018 |archiveurl=https://archive.is/v9dO0 |archivedate=February 9, 2018 |dead-url=no}}</ref>
+|-
+| 2018 || {{dts|February}} or March || Financial || BERI's grants program awards $100,000 to the {{W|Center for Applied Rationality}} to support the development of ''{{W|LessWrong}}'' 2.0.<ref name="february-and-march-2018-activity-update">{{cite web |url=http://existence.org/2018/04/07/activity-update-february-and-march-2018.html |publisher=Berkeley Existential Risk Initiative |title=Activity Update - February and March 2018 |first=Rebecca |last=Raible |accessdate=April 12, 2018}}</ref>
+|-
+| 2018 || {{dts|February}} or March || Financial || BERI's grants program awards $5,000 to the {{W|Association for the Advancement of Artificial Intelligence}} to support the 2018 Spring Symposium on AI and Society: Ethics, Safety and Trustworthiness in Intelligent Agents.<ref name="february-and-march-2018-activity-update" />
+|-
+| 2018 || {{dts|April 7}} || || BERI announces the creation of the Bay Area X-risk Community Initiative (BAXCI). The initiative is managed by {{W|Center for Applied Rationality}}'s Anna Salamon, who joins BERI as a volunteer. The announcement does not mention any specific activity plans for BAXCI.<ref name="february-and-march-2018-activity-update" /><ref>{{cite web |url=http://existence.org/baxci/ |publisher=Berkeley Existential Risk Initiative |title=Announcing the Bay Area X-risk Community Initiative (BAXCI) |accessdate=April 12, 2018}}</ref>
 |}
 
 ==Meta information on the timeline==
