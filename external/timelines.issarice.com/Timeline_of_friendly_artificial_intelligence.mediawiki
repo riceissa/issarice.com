@@ -1,4 +1,4 @@
-This is a '''timeline of friendly artificial intelligence'''.
+This is a '''timeline of AI safety'''. AI safety is the field focused on reducing risks from artificial intelligence (AI).<ref>{{cite web |url=https://ai-alignment.com/ai-safety-vs-control-vs-alignment-2a4b42a863cc |title=AI "safety" vs "control" vs "alignment" |website=AI Alignment |author=Paul Christiano |date=November 19, 2016 |publisher=AI Alignment |accessdate=November 18, 2017}}</ref><ref>{{cite web |url=https://www.lesserwrong.com/posts/dhj9dhiwhq3DX6W8z/hero-licensing |title=Hero Licensing |date=November 16, 2017 |author=Eliezer Yudkowsky |publisher=LessWrong |accessdate=November 18, 2017 |quote=I'll mention as an aside that talk of "Friendly" AI has been going out of style where I'm from. We've started talking instead in terms of "aligning smarter-than-human AI with operators' goals," mostly because "AI alignment" smacks less of anthropomorphism than "friendliness."}}</ref>
 
 ==Big picture==
 
@@ -194,6 +194,9 @@ Issa likes to work locally and track changes with Git, so the revision history o
 
 * TODO add Norbert Wiener [http://lesswrong.com/lw/i2g/norbert_wieners_paper_some_moral_and_technical/] (via anonymous)
 * maybe more at [https://wiki.lesswrong.com/wiki/History_of_AI_risk_thought]
+* https://en.wikipedia.org/wiki/With_Folded_Hands
+* more AI box results at [http://lesswrong.com/lw/6dr/discussion_yudkowskys_actual_accomplishments/4eva] but unfortunately no dates
+* stuff in [http://lesswrong.com/lw/bd6/ai_risk_opportunity_a_timeline_of_early_ideas_and/] and [http://lesswrong.com/lw/b0v/ai_risk_and_opportunity_humanitys_efforts_so_far/]
 
 ===Timeline update strategy===
 
