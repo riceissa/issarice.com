@@ -186,7 +186,7 @@ This is a '''timeline of AI safety'''. AI safety is the field focused on reducin
 
 The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
-Issa likes to work locally and track changes with Git, so the revision history on this wiki only shows changes in bulk. To see more incremental changes, refer to the [https://github.com/riceissa/issarice.com/commits/master/external/timelines.issarice.com/Timeline_of_friendly_artificial_intelligence.mediawiki commit history].
+Issa likes to work locally and track changes with Git, so the revision history on this wiki only shows changes in bulk. To see more incremental changes, refer to the commit histories at the [https://github.com/riceissa/issarice.com/commits/master/external/timelines.issarice.com/Timeline_of_friendly_artificial_intelligence.mediawiki old location] and the [https://github.com/riceissa/issarice.com/commits/master/external/timelines.issarice.com/Timeline_of_AI_safety.mediawiki new location].
 
 {{funding info}} is available.
 
