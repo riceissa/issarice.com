@@ -197,6 +197,17 @@ Issa likes to work locally and track changes with Git, so the revision history o
 * https://en.wikipedia.org/wiki/With_Folded_Hands
 * more AI box results at [http://lesswrong.com/lw/6dr/discussion_yudkowskys_actual_accomplishments/4eva] but unfortunately no dates
 * stuff in [http://lesswrong.com/lw/bd6/ai_risk_opportunity_a_timeline_of_early_ideas_and/] and [http://lesswrong.com/lw/b0v/ai_risk_and_opportunity_humanitys_efforts_so_far/]
+* siren/marketing worlds
+* TDT/UDT
+* Paul Christiano AI alignment blog
+* Intelligent Agent Foundations Forum
+* AI alignment prize
+* Translations of ''Superintelligence''?
+* universal prior/distant superintellignces stuff
+* https://en.wikipedia.org/wiki/Do_You_Trust_This_Computer%3F
+* Steven Pinker?
+* when did the different [https://causeprioritization.org/Template_for_views_on_AI_safety#approaches-to-alignment approaches to alignment] come along?
+* the name change from "friendly AI" to "AI safety" and "AI alignment" is probably worth adding, though this was gradual so kind of hard to pin down as an event
 
 ===Timeline update strategy===
 
