@@ -4,6 +4,7 @@ https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
 https://groups.google.com/forum/feed/newly-published-givewell-materials/msgs/rss_v2_0.xml
 http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
 https://groups.google.com/a/openphilanthropy.org/forum/feed/newly.published/topics/rss.xml
+https://www.greaterwrong.com/index?view=new&all=t&format=rss
 http://lesswrong.com/user/CarlShulman/overview/.rss
 https://www.greaterwrong.com/users/carlshulman?format=rss
 http://lesswrong.com/user/Wei_Dai/overview/.rss
@@ -17,6 +18,7 @@ https://www.greaterwrong.com/users/eliezer_yudkowsky?format=rss
 https://www.greaterwrong.com/users/sarahconstantin?format=rss
 https://www.greaterwrong.com/users/valentine?show=posts&format=rss
 https://www.greaterwrong.com/users/paulfchristiano?format=rss
+https://www.greaterwrong.com/users/robbbb?format=rss
 http://effective-altruism.com/.rss
 http://effective-altruism.com/user/Lila/.rss
 http://effective-altruism.com/user/Carl_Shulman/comments/.rss
