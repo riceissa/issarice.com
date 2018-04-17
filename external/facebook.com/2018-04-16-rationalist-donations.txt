@@ -1,0 +1,11 @@
+Reply on https://www.facebook.com/groups/eahangout/permalink/1740005856086331/
+
+Vipul Naik and I have been working on a website to track donations of interest to Vipul (which in practice means individual EAs and rationalists as well as private foundations): https://donations.vipulnaik.com/
+
+The following table lists donation amounts by donor and year for individual-scale giving, which might be helpful. Unfortunately we don't have booleans for "EA" or "rationalist" so you will have to mentally filter out the EAs: https://donations.vipulnaik.com/?display=individual-scale#donationAmountsByDonorAndYear
+
+Example of a (to my knowledge) not-explicitly-EA person peripheral to the rationalist sphere whose donations we track: https://donations.vipulnaik.com/donor.php?donor=Vitalik+Buterin
+
+Example of a long-time LessWrong contributor who (to my knowledge) isn't explicitly EA: https://donations.vipulnaik.com/donor.php?donor=Gwern+Branwen
+
+Please let me know if there are people whose donations you think we should track.
