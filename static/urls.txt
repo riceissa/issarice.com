@@ -42,6 +42,7 @@ http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
 https://ai-alignment.com/feed
 https://distill.pub/rss.xml
+https://hnrss.org/newest?points=200&count=50
 https://arcsecond.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
