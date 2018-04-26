@@ -237,6 +237,7 @@ philanthropy in general. Consider the following:
     shows that *explicit prioritization* in global health has been going on
     since at least the 1970s -- around 30 years before the effective altruism
     movement even formed.
+-   ["Charity should begin with worthiness league table, says philanthropy adviser"](https://www.theguardian.com/society/2010/sep/29/charity-league-table-philanthropy-morality "Robert Booth (September 28, 2010). The Guardian.") (this article is from 2010, so after the EA movement began, but doesn't mention EA, suggesting that Martin Brookes came up with the idea independently).
 
 # Criticisms of priority-setting in global health
 
