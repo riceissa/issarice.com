@@ -146,3 +146,7 @@ Example entry: <https://bartoc.org/en/node/527>
 Wikipedia page: <https://en.wikipedia.org/wiki/BARTOC>
 
 <https://en.wikipedia.org/wiki/Category:Equivalence_classes>
+
+# See also
+
+- [Tabular presentation]()
