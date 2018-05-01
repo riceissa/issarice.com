@@ -36,25 +36,32 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: March 2018 {#summary}
+# Summary of what I worked on: April 2018 {#summary}
 
 For completed tasks, see the [work page](work).
 
-I did more work on the Cause Prioritization Wiki. Most of the work can be found
-in the [AI safety](https://causeprioritization.org/_category/AI_safety)
-category.
+I did more work on the Cause Prioritization Wiki. Most of the work was about
+how to [classify cause
+areas](https://causeprioritization.org/Cause_area_classification) better.
 
-I also did some work on Vipul Naik's [Donations List Website](https://donations.vipulnaik.com),
-working to convert the internal data delimiter from commas to pipes.
-You can see the relevant [issue](https://github.com/vipulnaik/donations/issues/49).
+I also did more work on Vipul Naik's [Donations List
+Website](https://donations.vipulnaik.com), in particular on covering [grant
+process](https://github.com/vipulnaik/donations/issues/11), continuing the
+transition from commas to pipes as a delimiter, and recording donations of
+miscellaneous people.
 
-I also did some work on a [Timeline of OpenAI](https://timelines.issarice.com/wiki/Timeline_of_OpenAI).
+On Wikipedia Views, I helped to get the [new monthly clickstream data
+incorporated](https://github.com/vipulnaik/wikipediaviews/issues/21).
 
-I continued work on a series of wiki pages about specific individuals, mostly
-those involved in the [effective altruism]() movement and the
-[rationality community](). This work is not public, but a subset of the work
-may eventually be made public, and the work is intended to help with public
-writeups in the future. This work is funded by Vipul Naik.
+In the interest of making conversations public, I wrote up my notes on
+[taxonomies](). These notes started out as a Facebook Messenger chat group in
+June 2017 where I sent links and ideas related to taxonomies.
+
+I continued to do some work on a series of wiki pages about specific
+individuals, mostly those involved in the [effective altruism]() movement and
+the [rationality community](). This work is not public, but a subset of the
+work may eventually be made public, and the work is intended to help with
+public writeups in the future. This work is funded by Vipul Naik.
 
 # Activity feeds
 
