@@ -67,6 +67,9 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ===Timeline update strategy===
 
+* https://www.google.com/search?q=site:nytimes.com+%22openai%22
+* https://blog.openai.com/ (but check to see if the announcement of a blog post is covered by other sources)
+
 ==See also==
 
 * [[Timeline of Future of Humanity Institute]]
