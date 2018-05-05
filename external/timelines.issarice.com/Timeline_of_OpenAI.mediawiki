@@ -5,6 +5,9 @@ This is a '''timeline of OpenAI'''.
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 2014–2015 || Background || {{W|Nick Bostrom}}'s book ''{{W|Superintelligence: Paths, Dangers, Strategies}}'', about the dangers of superhuman machine intelligence, is published. Soon after the book's publication, {{W|Elon Musk}} and {{W|Sam Altman}}, the two people who would become co-chairs and initial donors of OpenAI, publicly state their concern of superhuman machine intelligence.
+|-
+| 2015–present || Establishment || OpenAI is founded and begins producing research.
 |}
 
 ==Full timeline==
