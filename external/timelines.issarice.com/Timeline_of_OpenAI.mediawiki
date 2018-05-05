@@ -55,6 +55,8 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ===What the timeline is still missing===
 
+* https://mobile.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html https://news.ycombinator.com/item?id=16880447
+
 ===Timeline update strategy===
 
 ==See also==
