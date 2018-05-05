@@ -43,6 +43,8 @@ This is a '''timeline of OpenAI'''.
 | 2018 || {{dts|February 20}} || || OpenAI announces changes in donors and advisors. New donors are: {{W|Jed McCaleb}}, {{W|Gabe Newell}}, {{W|Michael Seibel}}, {{W|Jaan Tallinn}}, and {{W|Ashton Eaton}} and {{W|Brianne Theisen-Eaton}}. {{W|Reid Hoffman}} is "significantly increasing his contribution". Pieter Abbeel (previously at OpenAI), {{W|Julia Galef}}, and Maran Nelson become advisors. {{W|Elon Musk}} departs the board but remains as a donor and advisor.<ref>{{cite web |url=https://blog.openai.com/openai-supporters/ |publisher=OpenAI Blog |title=OpenAI Supporters |date=February 21, 2018 |accessdate=March 1, 2018}}</ref><ref name="musk-leaves">{{cite web |url=https://www.theverge.com/2018/2/21/17036214/elon-musk-openai-ai-safety-leaves-board |date=February 21, 2018 |publisher=The Verge |title=Elon Musk leaves board of AI safety group to avoid conflict of interest with Tesla |accessdate=March 2, 2018}}</ref>
 |-
 | 2018 || {{dts|March 3}} || || OpenAI will host a hackathon.<ref>{{cite web |url=https://blog.openai.com/hackathon/ |publisher=OpenAI Blog |title=OpenAI Hackathon |date=February 24, 2018 |accessdate=March 1, 2018}}</ref>
+|-
+| 2018 || {{Dts|April 19}} || || ''{{W|The New York Times}}'' publishes a story detailing the salaries of researchers at OpenAI, using information from OpenAI's 2016 {{W|Form 990}}. The salaries include $1.9 million paid to {{W|Ilya Sutskever}} and $800,000 paid to {{W|Ian Goodfellow}} (hired in March of that year).<ref>{{cite web |url=https://www.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html |date=April 19, 2018 |publisher=[[wikipedia:The New York Times|The New York Times]] |title=A.I. Researchers Are Making More Than $1 Million, Even at a Nonprofit |author=Cade Metz |accessdate=May 5, 2018}}</ref><ref>{{cite web |url=https://www.reddit.com/r/reinforcementlearning/comments/8di9yt/ai_researchers_are_making_more_than_1_million/dxnc76j/ |publisher=reddit |title="A.I. Researchers Are Making More Than $1 Million, Even at a Nonprofit [OpenAI]" • r/reinforcementlearning |accessdate=May 5, 2018}}</ref><ref>{{cite web |url=https://news.ycombinator.com/item?id=16880447 |title=gwern comments on A.I. Researchers Are Making More Than $1M, Even at a Nonprofit |website=Hacker News |accessdate=May 5, 2018}}</ref>
 |}
 
 ==Meta information on the timeline==
@@ -54,8 +56,6 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 {{funding info}} is available.
 
 ===What the timeline is still missing===
-
-* https://mobile.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html https://news.ycombinator.com/item?id=16880447
 
 ===Timeline update strategy===
 
