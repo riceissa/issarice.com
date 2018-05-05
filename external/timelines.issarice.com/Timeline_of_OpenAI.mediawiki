@@ -77,6 +77,10 @@ The initial version of the timeline was written by [[User:Issa|Issa Rice]].
 
 ==External links==
 
+* [https://openai.com/ Official website]
+* [https://blog.openai.com/ Official OpenAI blog]
+* [https://github.com/openai OpenAI GitHub account]
+
 ==References==
 
 {{Reflist|30em}}
