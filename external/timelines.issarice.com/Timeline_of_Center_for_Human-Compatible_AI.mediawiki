@@ -1,10 +1,11 @@
-This is a '''timeline of Center for Human-Compatible AI'''.
+This is a '''timeline of Center for Human-Compatible AI''' (CHAI).
 
 ==Big picture==
 
 {| class="wikitable"
 ! Time period !! Development summary !! More details
 |-
+| 2016–present || CHAI is established || CHAI is established and begins producing research.
 |}
 
 ==Full timeline==
