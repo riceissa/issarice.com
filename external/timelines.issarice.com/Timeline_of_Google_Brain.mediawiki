@@ -12,7 +12,9 @@ This is a '''timeline of Google Brain'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
-| 2016 || {{Dts|April 16}} || || The first Internet Archive snapshot of the Google Brain team web page is from this day.<ref>{{cite web |url=https://research.google.com/teams/brain/ |title=Research at Google |accessdate=May 12, 2018 |archiveurl=https://web.archive.org/web/20160416071138/https://research.google.com/teams/brain/ |archivedate=April 16, 2016 |dead-url=yes}}</ref> This is possibly the first verifiable date on which "Google Brain" is used as a team name.
+| 2016 || {{dts|April 8}} || || The Google Brain team page is shared on {{W|Hacker News}}.<ref>{{cite web |url=https://news.ycombinator.com/item?id=11451916 |title=Google Brain Team |website=Hacker News |accessdate=May 12, 2018}}</ref> This is possibly the first verifiable date on which "Google Brain" is used as a team name.
+|-
+| 2016 || {{Dts|April 16}} || || The first Internet Archive snapshot of the Google Brain team web page is from this day.<ref>{{cite web |url=https://research.google.com/teams/brain/ |title=Research at Google |accessdate=May 12, 2018 |archiveurl=https://web.archive.org/web/20160416071138/https://research.google.com/teams/brain/ |archivedate=April 16, 2016 |dead-url=yes}}</ref>
 |-
 | 2016 || {{dts|August 4}} || || The Google Brain team does an AMA ("ask me anything") on Reddit on the subreddit r/MachineLearning.<ref>{{cite web |url=https://www.reddit.com/r/MachineLearning/comments/4w6tsv/ama_we_are_the_google_brain_team_wed_love_to/ |publisher=reddit |title=AMA: We are the Google Brain team. We'd love to answer your questions about machine learning. • r/MachineLearning |accessdate=May 12, 2018}}</ref>
 |-
