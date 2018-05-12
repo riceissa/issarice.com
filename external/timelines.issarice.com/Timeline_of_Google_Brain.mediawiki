@@ -12,6 +12,7 @@ This is a '''timeline of Google Brain'''.
 {| class="sortable wikitable"
 ! Year !! Month and date !! Event type !! Details
 |-
+| 2016 || {{Dts|April 16}} || || The first Internet Archive snapshot of the Google Brain team web page is from this day.<ref>{{cite web |url=https://research.google.com/teams/brain/ |title=Research at Google |accessdate=May 12, 2018 |archiveurl=https://web.archive.org/web/20160416071138/https://research.google.com/teams/brain/ |archivedate=April 16, 2016 |dead-url=yes}}</ref> This is possibly the first verifiable date on which "Google Brain" is used as a team name.
 |}
 
 ==Meta information on the timeline==
