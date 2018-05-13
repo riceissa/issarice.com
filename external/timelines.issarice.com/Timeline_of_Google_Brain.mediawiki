@@ -28,6 +28,8 @@ This is a '''timeline of Google Brain'''.
 |-
 | 2016 || {{dts|August 4}} || || The Google Brain team does an AMA ("ask me anything") on Reddit on the subreddit r/MachineLearning.<ref>{{cite web |url=https://www.reddit.com/r/MachineLearning/comments/4w6tsv/ama_we_are_the_google_brain_team_wed_love_to/ |publisher=reddit |title=AMA: We are the Google Brain team. We'd love to answer your questions about machine learning. • r/MachineLearning |accessdate=May 12, 2018}}</ref>
 |-
+| 2016 || {{Dts|September 27}} || || The {{W|Google Neural Machine Translation}} system is announced on the Google AI Blog. The post is written by research scientists on the Google Brain team, and the post acknowledges the Google Brain team for contributions to the project.<ref>{{cite web |url=https://ai.googleblog.com/2016/09/a-neural-network-for-machine.html |title=A Neural Network for Machine Translation, at Production Scale |publisher=Google AI Blog |first1=Quoc V. |last1=Le |first2=Mike |last2=Schuster |date=September 27, 2016 |accessdate=May 13, 2018}}</ref>
+|-
 | 2017 || {{dts|September 9}} || || The Google Brain team does its second AMA ("ask me anything") on Reddit on the subreddit r/MachineLearning.<ref>{{cite web |url=https://www.reddit.com/r/MachineLearning/comments/6z51xb/we_are_the_google_brain_team_wed_love_to_answer/ |publisher=reddit |title=We are the Google Brain team. We'd love to answer your questions (again) • r/MachineLearning |accessdate=May 12, 2018}}</ref>
 |}
 
