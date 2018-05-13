@@ -49,6 +49,10 @@ Feedback for the timeline can be provided at the following places:
 
 ===What the timeline is still missing===
 
+* https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation#History
+* https://en.wikipedia.org/wiki/TensorFlow#History
+* more at https://en.wikipedia.org/wiki/Google_Brain#History and other sections
+
 ===Timeline update strategy===
 
 ==See also==
