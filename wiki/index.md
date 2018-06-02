@@ -36,32 +36,31 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: April 2018 {#summary}
+# Summary of what I worked on: May 2018 {#summary}
 
-For completed tasks, see the [work page](work).
+For completed tasks, see the [work]() page.
+
+This month I spent a lot of time learning math so only spent about 64 hours on
+contract work.
+
+I completed timelines for [OpenAI](https://timelines.issarice.com/wiki/Timeline_of_OpenAI)
+and [CHAI](https://timelines.issarice.com/wiki/Timeline_of_Center_for_Human-Compatible_AI),
+two AI safety organizations.
 
 I did more work on the Cause Prioritization Wiki. Most of the work was about
 how to [classify cause
 areas](https://causeprioritization.org/Cause_area_classification) better.
 
 I also did more work on Vipul Naik's [Donations List
-Website](https://donations.vipulnaik.com), in particular on covering [grant
-process](https://github.com/vipulnaik/donations/issues/11), continuing the
-transition from commas to pipes as a delimiter, and recording donations of
-miscellaneous people.
+Website](https://donations.vipulnaik.com), importing more donations data.
 
-On Wikipedia Views, I helped to get the [new monthly clickstream data
-incorporated](https://github.com/vipulnaik/wikipediaviews/issues/21).
+I completed adding historical data for [MIRI staff
+members](https://aiwatch.issarice.com/?organization=Machine+Intelligence+Research+Institute),
+and added three new table views on AI Watch ("Staff count by year", "Number of
+full-time staff at the beginning each year", and "Full history of additions and
+subtractions" on that page).
 
-In the interest of making conversations public, I wrote up my notes on
-[taxonomies](). These notes started out as a Facebook Messenger chat group in
-June 2017 where I sent links and ideas related to taxonomies.
-
-I continued to do some work on a series of wiki pages about specific
-individuals, mostly those involved in the [effective altruism]() movement and
-the [rationality community](). This work is not public, but a subset of the
-work may eventually be made public, and the work is intended to help with
-public writeups in the future. This work is funded by Vipul Naik.
+I did some work on [Timeline of Google Brain](https://timelines.issarice.com/wiki/Timeline_of_Google_Brain).
 
 # Activity feeds
 
