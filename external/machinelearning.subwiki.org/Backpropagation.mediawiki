@@ -5,9 +5,11 @@
 * Some people use "backpropagation" to mean the process of finding the gradient of a [[cost function]]. This leads people to say things like "backpropagation is just the multivariable chain rule".
 * Some people use "backpropagation" or maybe "backpropagation algorithm" to mean the entire [[gradient descent]] algorithm, where the gradient is computed using the multivariable chain rule.
 
-Some discussion at: https://www.facebook.com/sebastian.nickel.7587/posts/10159335522140026
+Some discussion on Facebook<ref>https://www.facebook.com/sebastian.nickel.7587/posts/10159335522140026</ref>
 
 ==Table of notation==
+
+The following table summarizes the notation used on this page. In the course of the page the notation will slowly be introduced, so this table isn't strictly necessary, but it is a handy reference.
 
 {| class="sortable wikitable"
 ! Name !! Symbols !! Type !! Explanation
@@ -24,6 +26,10 @@ Some discussion at: https://www.facebook.com/sebastian.nickel.7587/posts/1015933
 |-
 | The biases of the neural network || <math>b</math> || Vector ||
 |-
+| The number of weights in the network, across all layers || <math>\#W</math> || Positive integer ||
+|-
+| The number of biases in the network, across all layers || <math>\#b</math> || Positive integer ||
+|-
 | The weights of the neural network on layer <math>\ell</math> || <math>W^\ell</math> || Matrix (or vector) || It is notationally convenient for <math>W^\ell</math> to be a matrix, but you might notice that <math>W</math>, the collection of ''all'' weights, is just a list, and <math>W^\ell</math> is only the weights of layer <math>\ell</math>, so should be a sublist.
 |-
 | The weight that takes the <math>k</math>th neuron in layer <math>\ell - 1</math> to the <math>j</math>th neuron in layer <math>\ell</math> || <math>w^\ell_{j\leftarrow k}</math> || Real number || The <math>j</math> and <math>k</math> seem reversed because this makes more sense in terms of matrix multiplication. The arrow doesn't need to be there and has no deep meaning; it's just a reminder of which neuron goes to which.
@@ -39,7 +45,7 @@ Here <math>y_j</math> are the components of the actual value given input <math>x
 
 What is the type of <math>C</math>? In other words, what are the domain and range of <math>C</math>? You might think this is a weird question. Why am I asking the ''reader'' to tell me the type of some object? Shouldn't the ''writer'' specify the type ''in the course of defining the object''? But actually this sort of thing seems common, where the writer just defines things loosely and leaves the reader to infer the types. But since we are strongly typed minds, let's explicitly think through the type of <math>C</math>.
 
-The cost should be a real number, so the range is <math>\mathbf R</math>, the set of real numbers. As for the domain, we want to take in all the weights and biases of the network. In each layer, the weights can be thought of as a matrix <math>W^\ell</math>, which has some number of rows and columns. The rows and columns of the weight matrices don't have to be the same across layers (except to make the dimensions check out when multiplying and adding adjacent layers). But what dimension does a list of matrices, each with potentially different dimensions, have? We could somehow take the largest row count and column count, then multiply those together and then by <math>L</math>. But then there would be a lot of "blanks" where the dimensions are smaller than this maximum. This approach actually seems very clumsy. The right way to think about the domain is to notice that while the weights tend to be packaged together into matrices for each layer, we can easily "unroll" the weights into a single list. Then we can just count the number of weights (which are just real numbers) in all the layers. If that number is <math>N</math>, we have <math>C : \mathbf R^N \to \mathbf R</math>.
+The cost should be a real number, so the range is <math>\mathbf R</math>, the set of real numbers. As for the domain, we want to take in all the weights and biases of the network. In each layer, the weights can be thought of as a matrix <math>W^\ell</math>, which has some number of rows and columns. The rows and columns of the weight matrices don't have to be the same across layers (except to make the dimensions check out when multiplying and adding adjacent layers). But what dimension does a list of matrices, each with potentially different dimensions, have? We could somehow take the largest row count and column count, then multiply those together and then by <math>L</math>. But then there would be a lot of "blanks" where the dimensions are smaller than this maximum. This approach actually seems very clumsy. The right way to think about the domain is to notice that while the weights tend to be packaged together into matrices for each layer, we can easily "unroll" the weights into a single list. Then we can just count the number of weights (which are just real numbers) in all the layers. If that number is <math>\#W</math>, we have <math>C : \mathbf R^{\#W} \to \mathbf R</math>. But actually we want to include the biases as well, so if there are <math>\#b</math> biases, we have <math>C : \mathbf R^{\#W + \#b} \to \mathbf R</math>.
 
 You might be used to thinking of the cost as a function of the input, i.e. <math>C(x;W,b)</math>. This turns out to be okay in many situations, but in backpropagation, we want to be differentiating with respect to the weights and biases, while the input remains fixed.
 
@@ -51,7 +57,7 @@ The whole point of backpropagation is to find the partial derivatives <math>\fra
 
 Neural networks are usually illustrated where each node <math>a^\ell_j</math> is the activation of neuron <math>j</math> in layer <math>\ell</math>. Then the weights are labeled along the edges.
 
-[graph goes here]
+https://gist.github.com/riceissa/95e6171f4bae5ceca034c3cbb9a86508 (file uploads disabled on this wiki so I'll have to host the generated image somewhere)
 
 ==Computational graphs==
 
@@ -70,12 +76,16 @@ The problem with the above argument is that the computational graph is only good
 
 But the usual neural network graph only has nodes for the activations <math>a^\ell_j</math>, so how can we compute the relevant derivatives? One solution is to perform surgery on the existing graph to add the weights as nodes.
 
-[graph goes here]
+graph: https://gist.github.com/riceissa/d3250833d4b6aaedd5260e03d27334e3
 
 Now that the weights are on individual nodes, we can think of the activation nodes as receiving all the weights and all the previous activations, then doing the multiplication and passing it through the sigmoid function. This is in contrast to before, where the muliplication was "done along the edges" so that the activation nodes received the products <math>w^\ell_{j\leftarrow k}a^{\ell-1}_k</math> and only did the addition and sigmoid.
+
+(But do we even need to put in all the weights? We could mostly ignore all the weights except for the one for which we are computing the partial derivative. For course, if we draw the graph this way, we would have to loop over the weights and modify the graph at each step. Still, the drawing at every step would be simpler.)
 
 ==See also==
 
 ==References==
+
+<references/>
 
 ==External links==
