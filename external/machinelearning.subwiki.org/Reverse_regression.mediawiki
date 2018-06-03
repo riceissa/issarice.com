@@ -1,0 +1,15 @@
+'''Reverse regression''' refers to a problem in statistical inference where a conclusion is reversed depending on the variable being adjusted.
+
+The example given by Pearl is that of salary discrimination: comparing the salaries of equally qualified men and women, we see that men earned a higher salary, but comparing the qualifications of equally paid men and women, we see that men are more qualified (p. 426).<ref name="pearl-epilogue">Judea Pearl. "Epilogue: The Art and Science of Cause and Effect" in ''Causality: Models, Reasoning, and Inference''. 2nd ed. Cambridge University Press. 2009.</ref>
+
+There is some discussion of this on ''LessWrong''.<ref>https://www.greaterwrong.com/posts/FGsoajyYJRczieqh5/understanding-simpson-s-paradox/comment/JyrGhmYj8xSHgPqst</ref>
+
+Relation to [[Simpson's paradox]] is discussed in http://ect.bell-labs.com/who/tkh/publications/papers/reg.paradox.TAS.pdf
+
+==History==
+
+Judea Pearl says the "controversy" "occupied the social science literature in the 1970s".<ref name="pearl-epilogue" />
+
+==References==
+
+<references/>

@@ -1,0 +1,15 @@
+Even given that one understands [[Simpson's paradox]], it would be nice to have some way to recognize that a new situation involves the paradox. In other words, given our hammer (i.e. understanding of Simpson's paradox) how can we go "hunting" for nails?
+
+A preliminary list of steps:
+
+# Encounter some new situation.
+# [[Creation of causal graphs|Create a causal graph]] for the situation.
+# Build tables for the success rate of the intervention, both unadjusted and adjusted for confounders. It's actually not necessary to build all the tables because step (5) tells you which table to use (hence to build), but you need all the tables to see if Simpson's paradox occurs.
+# (You might observe Simpson's paradox now, looking at the tables.)
+# Use the causal graph to determine which of the tables you should use.
+
+Michael Nielsen talks about the moment when one's intuitive reasoning goes astray.<ref>Michael Nielsen. [http://michaelnielsen.org/reinventing_explanation/index.html "Reinventing explanation"]. January 2014.</ref> (Search for all occurrences of "moment" on that page.) If you can train to notice such moments beforehand, that seems like a way to discover potential instances of Simpson's paradox.
+
+==References==
+
+<references/>

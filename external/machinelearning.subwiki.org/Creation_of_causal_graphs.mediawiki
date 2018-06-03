@@ -1,0 +1,13 @@
+'''Creation of causal graphs'''; in other words, how are causal graphs created? Where do they come from?
+
+In all the examples I have seen, causal graphs are presented to the reader, sometimes with alternatives. It seems like the writer has some process for generating these graphs, but what is this process? Is it just human intuition?
+
+The second problem of causal inference that Shalizi lists is "Given data about a system, find its causal structure". This seems to be the same question as asking where causal graphs come from. But he says this problem is harder than the first problem he lists ("Given the causal structure of a system, estimate the effects the variables have on each other"), and only goes into the first problem (he probably talks about the second problem as well, but I haven't read that far).<ref>Cosma Rohilla Shalizi. [http://www.stat.cmu.edu/~cshalizi/uADA/16/lectures/23.pdf "Identifying Causal Effects from Observations"]. April 7, 2016.</ref>
+
+Morgan and Winship introduce a causal graph and then write: "suppose that these relationships are derived from a set of theoretical propositions that have achieved consensus in the relevant scholarly community" (p. 30).<ref>Stephen L. Morgan; Christopher Winship. ''Counterfactual and Causal Inference: Methods and Principles for Social Research''. 2nd ed. Cambridge University Press. 2015.</ref> It's not clear what these "theoretical propositions" are or how the community came up with the relationships in the first place.
+
+==References==
+
+<references/>
+
+[[Category:Causal inference]]

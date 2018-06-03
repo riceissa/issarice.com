@@ -1,0 +1,5 @@
+The '''''do'' operator''' is used in causal inference to denote an intervention. Given [[random variable]]s <math>X,Y</math>, we write <math>\Pr(Y=y \mid \mathit{do}(X=x))</math> to mean the [[probability]] that <math>Y=y</math> given we intervene and set <math>X</math> to be <math>x</math>. In some texts, this is abbreviated to <math>\Pr(y\mid\hat x)</math> (this notation assumes that the random variables corresponding to the individual values are clear from context).
+
+In general <math>\Pr(Y=y \mid \mathit{do}(X=x))</math> is not the same as conditioning on <math>X=x</math>, i.e. <math>\Pr(Y=y \mid X=x)</math>.
+
+The ''do'' operator is used extensively in the [[Do calculus|''do'' calculus]].

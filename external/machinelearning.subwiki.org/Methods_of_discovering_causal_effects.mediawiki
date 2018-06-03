@@ -1,0 +1,16 @@
+'''Methods of discovering causal effects''': basically, after observing or interacting with the environment, how can we discover what causes what? When are we justified to claim causal effects (not just correlation)?
+
+{| class="sortable wikitable"
+|-
+! Method/strategy !! Notes !! Example
+|-
+| Try to deliberately control as many other variables as possible || <ref name="shalizi-identifying-causal-effects">Cosma Rohilla Shalizi. [http://www.stat.cmu.edu/~cshalizi/uADA/16/lectures/23.pdf "Identifying Causal Effects from Observations"]. April 7, 2016.</ref> || ?
+|-
+| Randomized controlled trial || <ref name="shalizi-identifying-causal-effects" /> Michael Nielsen also talks about this in his tutorial || There are lots of examples of this. It would be good to explain a concrete one. For now, I'll just link to [https://en.wikipedia.org/wiki/Randomized_controlled_trial#In_social_science this section on Wikipedia].
+|-
+| The [[Do calculus|''do'' calculus]] || This allows us to infer causal effects just by observation. I think this one breaks down into further strategies. Three of them are listed in p. 30 of <ref>Stephen L. Morgan; Christopher Winship. ''Counterfactual and Causal Inference: Methods and Principles for Social Research''. 2nd ed. Cambridge University Press. 2015.</ref> ||
+|}
+
+==References==
+
+<references/>

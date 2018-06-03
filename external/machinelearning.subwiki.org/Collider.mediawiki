@@ -1,0 +1,11 @@
+In causal graphs, a '''collider''' is a node along a path where both directed edges of the node point to the node.
+
+Colliders are interesting because conditioning on a collider can make two unconditionally independent variables conditionally dependent. The example that I have seen Pearl give is two coin flips (independent) and a bell that rings if the two coins land on the same side. The coin flips are unconditionally independent, but conditioning on whether you hear the bell makes the coin flips dependent. In this example, the event representing the bell is a collider. Normally when we condition on a variable, we think of it as blocking the path, but with colliders it's the opposite: conditioning on it ''creates'' a new path around the node.
+
+==Examples==
+
+* In the path <math>X \to Y \to Z \leftarrow W</math>, the node <math>Z</math> is a collider because the two directed edges of <math>Z</math> both point to it.
+
+==See also==
+
+* [[wikipedia:Collider (epidemiology)]]

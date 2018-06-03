@@ -1,0 +1,14 @@
+A '''back-door path''' in a [[causal graph]] is an indirect path with an arrow into the treatment/causal variable.
+
+Formally, given a graph with nodes including <math>X</math> (treatment/causal variable) and <math>Y</math> (outcome variable), a direct path from <math>X</math> to <math>Y</math> is just a directed edge <math>X \to Y</math>. An indirect path from <math>X</math> to <math>Y</math> is some traversal of edges from <math>X</math> to <math>Y</math> that isn't a direct path. Importantly, the edges don't have to be pointed in the "right way", so <math>X \to Z \leftarrow W \to Y</math> is an indirect path. A back-door path is an indirect path with an arrow into <math>X</math>.
+
+"a back-door path is defined as any path between the causal variable and the outcome variable that begins with an arrow that points to the causal variable" (p. 30).<ref>Stephen L. Morgan; Christopher Winship. ''Counterfactual and Causal Inference: Methods and Principles for Social Research''. 2nd ed. Cambridge University Press. 2015.</ref> So this definition doesn't mention indirect paths, but I guess it's implied, because a direct path from the outcome variable to the causal variable would mean that the causal variable isn't really a causal variable?
+
+==Examples==
+
+* <math>X \leftarrow Z \to Y</math> is a back-door path from <math>X</math> to <math>Y</math>: it is indirect (involves <math>Z</math>) and has an arrow into <math>X</math> (from <math>Z</math>).
+* <math>X \to Z \leftarrow W \to Y</math> is not a back-door path from <math>X</math> to <math>Y</math>: it is an indirect path but there is no arrow into <math>X</math>.
+
+==References==
+
+<references/>

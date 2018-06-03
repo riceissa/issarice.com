@@ -1,0 +1,11 @@
+'''Causal inference''' has to do with inferring causes of phenomena rather than just finding correlations.
+
+==Is this even machine learning?==
+
+"It's probably obvious I think this is incredibly neat, and even one of the most important ideas to come out of machine learning." http://bactra.org/notebooks/graphical-causal-models.html
+
+http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ (see "IV. Causal Inference")
+
+https://www.google.com/search?q=causal+inference+machine+learning
+
+It does get discussed in the context of ML, but I don't think I see it in the usual topics list of ML
