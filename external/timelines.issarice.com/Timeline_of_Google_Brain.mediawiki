@@ -32,6 +32,8 @@ This is a '''timeline of Google Brain'''.
 |-
 | 2015 || {{dts|June 17}} || || The "Inceptionism" blog post is published on the Google Research/AI blog. The post explains a method of gradually tweaking images to see what a neural network has learned, and gives examples of the resulting dream-like images.<ref>{{cite web |url=https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html |title=Inceptionism: Going Deeper into Neural Networks |publisher=Google AI Blog |accessdate=June 13, 2018}}</ref> (The post doesn't explicitly mention Google Brain, but the post has the "Google Brain" label.)
 |-
+| 2015 || {{Dts|July 1}} || || The {{W|DeepDream}} repository is published on {{W|GitHub}}.<ref>{{cite web |url=https://github.com/google/deepdream |title=google/deepdream |accessdate=June 13, 2018 |publisher=GitHub}}</ref>
+|-
 | 2015 || {{Dts|November 9}} || || Google open-sources {{W|TensorFlow}}, a machine learning library. "TensorFlow was originally a project developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization".<ref>{{cite web |url=https://techcrunch.com/2015/11/09/google-open-sources-the-machine-learning-tech-behind-google-photos-search-smart-reply-and-more/ |date=November 10, 2015 |publisher=TechCrunch |title=Google Open-Sources The Machine Learning Tech Behind Google Photos Search, Smart Reply And More |first=Sarah |last=Perez |accessdate=May 17, 2018}}</ref><ref>{{cite web |url=https://plus.google.com/+VincentVanhoucke/posts/4VFgjmRHnkQ |title=Very proud to be open-sourcing TensorFlow, Google's newest Deep Learning fram... |first=Vincent |last=Vanhoucke |quote=TensorFlow is what we use every day in the Google Brain team, and while it's still very early days and there are a ton of rough edges to be ironed out, I'm excited about the opportunity to build a community of researchers, developers and infrastructure providers around it. |accessdate=May 17, 2018}}</ref><ref>{{cite web |url=https://github.com/tensorflow/tensorflow/blob/master/README.md |publisher=GitHub |title=tensorflow/tensorflow |accessdate=May 18, 2018 |quote=TensorFlow was originally developed by researchers and engineers working on the Google Brain team within Google's Machine Intelligence Research organization for the purposes of conducting machine learning and deep neural networks research.}}</ref> The TensorFlow preliminary white paper is also published on this day.<ref>{{cite web |url=http://download.tensorflow.org/paper/whitepaper2015.pdf |title=TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems |author=Abadi et al. |accessdate=May 17, 2018}}</ref>
 |-
 | 2016 || {{dts|February}} || || Greg Corrado and Jeff Dean of Google Brain approach Macduff Hughes, the director of Google Translate. Corrado and Dean tell Hughes that Google Translate could be overhauled with a neural network-based approach to machine translation by the end of 2016.<ref name="great-ai-awakening" />
@@ -68,8 +70,8 @@ Feedback for the timeline can be provided at the following places:
 ===What the timeline is still missing===
 
 * https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation#History
-* https://en.wikipedia.org/wiki/TensorFlow#History
 * more at https://en.wikipedia.org/wiki/Google_Brain#History and other sections
+* I can't tell if https://en.wikipedia.org/wiki/RankBrain has anything to do with Google Brain.
 
 ===Timeline update strategy===
 
