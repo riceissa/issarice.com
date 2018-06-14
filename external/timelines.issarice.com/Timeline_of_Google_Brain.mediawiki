@@ -48,7 +48,7 @@ This is a '''timeline of Google Brain'''.
 |-
 | 2016 || {{dts|August 4}} || || The Google Brain team does an AMA ("ask me anything") on Reddit on the subreddit r/MachineLearning.<ref>{{cite web |url=https://www.reddit.com/r/MachineLearning/comments/4w6tsv/ama_we_are_the_google_brain_team_wed_love_to/ |publisher=reddit |title=AMA: We are the Google Brain team. We'd love to answer your questions about machine learning. • r/MachineLearning |accessdate=May 12, 2018}}</ref>
 |-
-| 2016 || {{Dts|September 27}} || || The {{W|Google Neural Machine Translation}} system is announced in a post on the Google AI Blog. The post is written by research scientists on the Google Brain team, and the post acknowledges the Google Brain team for contributions to the project.<ref>{{cite web |url=https://ai.googleblog.com/2016/09/a-neural-network-for-machine.html |title=A Neural Network for Machine Translation, at Production Scale |publisher=Google AI Blog |first1=Quoc V. |last1=Le |first2=Mike |last2=Schuster |date=September 27, 2016 |accessdate=May 13, 2018}}</ref>
+| 2016 || {{Dts|September 27}} || || The {{W|Google Neural Machine Translation}} system is announced in a post on the Google AI Blog. The post is written by research scientists on the Google Brain team, and the post acknowledges the Google Brain team for contributions to the project.<ref>{{cite web |url=https://ai.googleblog.com/2016/09/a-neural-network-for-machine.html |title=A Neural Network for Machine Translation, at Production Scale |publisher=Google AI Blog |first1=Quoc V. |last1=Le |first2=Mike |last2=Schuster |date=September 27, 2016 |accessdate=May 13, 2018}}</ref> For more information, see [[wikipedia:Google Brain#Google Translate|Google Brain § Google Translate]].
 |-
 | 2016 || {{dts|October 21}} || || "Learning to Protect Communications with Adversarial Neural Cryptography" by Martín Abadi and David G. Andersen of Google Brain is uploaded to the arXiv. The paper trains neural networks to learn encryption and decryption.<ref>{{cite web |url=https://arxiv.org/abs/1610.06918 |title=[1610.06918] Learning to Protect Communications with Adversarial Neural Cryptography |accessdate=June 13, 2018}}</ref><ref>{{cite web |url=https://arstechnica.com/information-technology/2016/10/google-ai-neural-network-cryptography/ |publisher=[[wikipedia:Ars Technica|Ars Technica]] |title=Google teaches "AIs" to invent their own crypto and avoid eavesdropping |date=October 28, 2016 |first=Sebastian |last=Anthony |accessdate=June 13, 2018}}</ref> See [[wikipedia:Google Brain#Artificial-intelligence-devised encryption system|Google Brain § Artificial-intelligence-devised encryption system]] for more information.
 |-
@@ -78,7 +78,6 @@ Feedback for the timeline can be provided at the following places:
 ===What the timeline is still missing===
 
 * https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation#History
-* more at https://en.wikipedia.org/wiki/Google_Brain#History and other sections
 * I can't tell if https://en.wikipedia.org/wiki/RankBrain has anything to do with Google Brain.
 * be clearer about the connection between google x and google brain
 
