@@ -20,6 +20,16 @@ In my mind some things that make explanations good are:
 - Seriously, why don't all textbooks have multiple choice questions and [error-spotting exercises](https://learning.subwiki.org/wiki/Error-spotting_exercise) mixed in with the exposition?
 - Explaining why naive versions one might come up with cannot be true. [Example](https://calculus.subwiki.org/wiki/Chain_rule_for_differentiation#Why_more_naive_chain_rules_don.27t_make_sense).
 - Purposely going down wrong paths (while warning readers that it *is* a wrong path) that a naive reader would want to go down, just to illustrate why it doesn't work. Terence Tao mentions this in [this comment](https://gowers.wordpress.com/2007/09/11/what-might-an-expository-mathematical-wiki-be-like/#comment-14). You could think of this as a kind of imaginary Ideological Turing Test where earnestly explore a mistaken path to show why it might seem reasonable, but then showing why it isn't actually the right approach.
+- For exercises, I think it's important to explain somewhere what the exercise
+  is intended to teach. Textbooks often warn that not doing the exercises will
+  mean not actually learning the material (or similar). If this is truly the
+  case, it should be straightforward to justify the importance of each
+  exercise, but I never see this done in practice.  My personal experience has
+  been that the vast majority of exercises are not that interesting or
+  enlightening, and I have a hard time figuring what the exercise was for,
+  other than an application of some trick. If explaining the point of the
+  exercise spoils the exercise, it can be explained in some place other than
+  immediately near the exercise.
 
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
