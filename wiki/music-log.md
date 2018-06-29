@@ -306,6 +306,11 @@ The Pillows:
 
 * PilotRedSun songs
 
+# June 2018
+
+* [Boards of Canada](https://en.wikipedia.org/wiki/Boards_of_Canada) (nothing in particular yet)
+* David Parsons: _Ngaio Gamelan_
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
