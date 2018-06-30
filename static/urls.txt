@@ -49,6 +49,7 @@ http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
 https://www.cser.ac.uk/news/feed/ "~CSER"
 https://feeds.feedburner.com/LukeMuehlhauser?format=xml
+https://feeds.feedburner.com/80000HoursPodcast?format=xml
 http://yudkowsky.tumblr.com/rss
 http://www.yudkowsky.net/feeds/essays.atom
 http://blog.bmfarley.com/feed/
