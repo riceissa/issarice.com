@@ -67,7 +67,6 @@ This page is a placeholder for now.
 Programs in trial mode:
 
 - ag
-- `mpsyt`
 - arbtt
 - `cmark-gfm` for Markdown processing; I've now used it for at least one blog
   post, and it is now [used on GitHub](https://githubengineering.com/a-formal-spec-for-github-markdown/).
