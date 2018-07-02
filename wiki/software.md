@@ -74,6 +74,7 @@ Programs in trial mode:
   If more extensions are written for CommonMark (math, tables, metadata
   headers), and if the standard is adopted more widely, it probably makes sense
   to stop using Pandoc's Markdown.
+- [thrash-protect](https://github.com/tobixen/thrash-protect "Simple-Stupid user-space program doing “kill -STOP” and “kill -CONT” to protect from thrashing")
 
 # See also
 
