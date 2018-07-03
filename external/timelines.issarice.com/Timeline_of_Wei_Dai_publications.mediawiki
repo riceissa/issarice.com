@@ -505,7 +505,6 @@ Feedback for the timeline can be provided at the following places:
 ===What the timeline is still missing===
 
 * There are some good comment threads that involve Wei on LW, EA Forum, Medium, and IAFF. I think some of these should be included. Some of these are now listed at https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai
-* https://groups.google.com/forum/#!forum/one-logic
 * [https://groups.google.com/forum/#!topic/crypto-optimization/ZjtgKWg8AnA this email] mentions him posting to "the NIST SHA-3 forum".
 
 ===Timeline update strategy===
@@ -526,6 +525,7 @@ I think the new stuff is posted on [https://www.lesswrong.com/users/wei_dai Less
 * [https://agentfoundations.org/threads?id=Wei_Dai Wei Dai's comments on the Intelligent Agent Foundations Forum]
 * [https://arbital.com/p/WeiDai/ Wei Dai's Arbital account] (only has one comment as of March 2018)
 * [https://scholar.google.com/citations?user=YQSmJLUAAAAJ&hl=en Google Scholar author page]
+* [https://groups.google.com/forum/#!forum/one-logic one-logic mailing list] (Wei Dai's only thread-starting post is actually a reply so there is nothing to include in this timeline)
 
 ==References==
 
