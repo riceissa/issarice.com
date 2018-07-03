@@ -27,8 +27,6 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | || || HTML file || Personal website || [http://www.weidai.com/lucas.html "Lucas Sequences in Cryptography"] || || ||
 |-
-| || || Text file || Personal website || [http://www.weidai.com/ssh2-attack.txt "an attack against SSH2 protocol"] || Also posted to sci.crypt and the IETF SSH working group mailing list. || ||
-|-
 | || || Text file || Personal website || [http://www.weidai.com/freedom-attacks.txt "two attacks against a PipeNet-like protocol once used by the Freedom service"] (no formal title so using description on website) || || ||
 |-
 | || || Text file || Personal website || [http://www.weidai.com/monopoly-memory.txt "Why good memory could be bad for you: game theoretic analysis of a monopolist with memory"] (no formal title so using description on website) || || ||
@@ -178,6 +176,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 2001 || {{dts|February 28}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/2531.html "another anthropic reasoning paradox"] || || ||
 |-
 | 2001 || {{dts|December 20}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01371.html "relevance of the real measure"] || || ||
+|-
+| 2002 || {{dts|February 6}} || Text file || Personal website || [http://www.weidai.com/ssh2-attack.txt "an attack against SSH2 protocol"] || Also posted to sci.crypt and the [http://www.ietf.org/mail-archive/text/secsh/2002-02.mail IETF SSH working group mailing list]. || ||
 |-
 | 2002 || {{dts|April 17}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg03594.html "decision theory papers"] || Introduces two decision theory papers to the list. || ||
 |-
@@ -453,7 +453,6 @@ Feedback for the timeline can be provided at the following places:
 ===What the timeline is still missing===
 
 * There are some good comment threads that involve Wei on LW, EA Forum, Medium, and IAFF. I think some of these should be included. Some of these are now listed at https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai
-* article cited in http://www.ibiblio.org/weidai/temp/Provable_Security.pdf
 * for some reason i had missed adding [http://extropians.weidai.com/extropians.3Q97/4116.html], so i think i am missing other extropians emails. maybe look at [http://extropians.weidai.com/extropians.3Q97/] and other directories on that subdomain.
 * https://scholar.google.com/citations?user=YQSmJLUAAAAJ&hl=en I think all of these are by the right Wei Dai
 * https://groups.google.com/forum/#!forum/one-logic
