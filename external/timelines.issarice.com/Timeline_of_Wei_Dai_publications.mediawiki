@@ -25,6 +25,24 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 {| class="sortable wikitable"
 ! Year !! Month and date !! Format !! Venue !! Title !! Summary !! Comment count !! Word count
 |-
+| || || HTML file || Personal website || [http://www.weidai.com/lucas.html "Lucas Sequences in Cryptography"] || || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/ssh2-attack.txt "an attack against SSH2 protocol"] || Also posted to sci.crypt and the IETF SSH working group mailing list. || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/freedom-attacks.txt "two attacks against a PipeNet-like protocol once used by the Freedom service"] (no formal title so using description on website) || || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/monopoly-memory.txt "Why good memory could be bad for you: game theoretic analysis of a monopolist with memory"] (no formal title so using description on website) || || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/smart-losers.txt "Why cleverness could be bad for you: a game where the smarter players lose"] (no formal title so using description on website) || || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/qm-interpretation.txt "A really simple interpretation of quantum mechanics"] (no formal title so using description on website) || || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/stock-options.txt "How to make more money with your employee stock options at no extra risk"] (no formal title so using description on website) || || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/black-holes.txt "What should advanced civilizations do with waste heat? Use black holes as heat sinks."] (no formal title so using description on website) || || ||
+|-
+| || || Text file || Personal website || [http://www.weidai.com/measuring.txt "An alternative to intellectual property: government funding of information goods based on measured value"] (no formal title so using description on website) || || ||
+|-
 | 1994 || {{dts|August 19}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1994/08/msg00800.html "trusted time stamping"], [https://cypherpunks.venona.com/date/1994/08/msg00799.html "timestamp.c"], [https://cypherpunks.venona.com/date/1994/08/msg00822.html "timestamp.c mangled"] || || ||
 |-
 | 1995 || {{dts|January 12}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/01/msg00582.html "analysis of RemailerNet"] || || ||
@@ -135,6 +153,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 1998 || {{dts|November 26}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/11/msg00941.html "PipeNet 1.1 and b-money"] || || ||
 |-
+| 1998 || {{dts|November 26}} || Text file || || [http://www.weidai.com/pipenet.txt "PipeNet 1.1"] || The text file containing a description of PipeNet 1.1, as mentioned in an email on Cypherpunks. || ||
+|-
 | 1999 || {{dts|January 9}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0227.html "information content of measures"] || || ||
 |-
 | 1999 || {{dts|January 14}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0257.html "consciousness based on information or computation?"] || || ||
@@ -202,6 +222,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 2006 || {{dts|March 29}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg09035.html "proper behavior for a mathematical substructure"] || || ||
 |-
 | 2006 || {{dts|April 9}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg09119.html "why can't we erase information?"] || || ||
+|-
+| 2007 || {{dts|April}} || Text file || Ted Krovetz's website || [http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt "VMAC: Message Authentication Code using Universal Hashing"] || Co-authored with Ted Krovetz. || ||
 |-
 | 2007 || {{dts|September 26}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg13817.html "against UD+ASSA, part 1"] || || ||
 |-
@@ -410,7 +432,6 @@ Feedback for the timeline can be provided at the following places:
 
 ===What the timeline is still missing===
 
-* There are a bunch of files on http://www.weidai.com/ but they don't have dates on them so it's hard to know where to put them. (Internet Archive would help with this to some extent.)
 * There are some good comment threads that involve Wei on LW, EA Forum, Medium, and IAFF. I think some of these should be included. Some of these are now listed at https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai
 * article cited in http://www.ibiblio.org/weidai/temp/Provable_Security.pdf
 * for some reason i had missed adding [http://extropians.weidai.com/extropians.3Q97/4116.html], so i think i am missing other extropians emails. maybe look at [http://extropians.weidai.com/extropians.3Q97/] and other directories on that subdomain.
