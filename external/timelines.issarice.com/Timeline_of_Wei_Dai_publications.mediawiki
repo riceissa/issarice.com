@@ -241,7 +241,23 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 2008 || {{dts|September 7}} || Email || SL4 || [http://sl4.org/archive/0809/19325.html "Bayesian rationality vs. voluntary mergers"] || || ||
 |-
+| 2009 || {{dts|April 2}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/lJitV7RXtkU "GCM with 2KB/key tables"] || || ||
+|-
+| 2009 || {{dts|April 3}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/aydqOs1rTyo "GCC compile farm"] || || ||
+|-
+| 2009 || {{dts|April 3}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/XQfVnPU145I "tips for instruction scheduling?"] || || ||
+|-
+| 2009 || {{dts|April 6}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/BSESmQp0VGQ "AES register saving tricks"] || || ||
+|-
 | 2009 || {{dts|April 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/6r/newcombs_problem_vs_oneshot_prisoners_dilemma/ "Newcomb's Problem vs. One-Shot Prisoner's Dilemma"] || || 15 ||
+|-
+| 2009 || {{dts|April 10}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/Z1zxHM3ebec "SSE2 Comba multiplication"] || || ||
+|-
+| 2009 || {{dts|April 16}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/5KD2Y6QqPvk "secrets of GMP 4.3"] || || ||
+|-
+| 2009 || {{dts|April 16}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/1rne1Y79UZo "Jacobi quartic form curves"] || || ||
+|-
+| 2009 || {{dts|May 5}} || Email || crypto-optimization || [https://groups.google.com/forum/#!topic/crypto-optimization/-XHUYae7zUs "constant-time extended GCD?"] || || ||
 |-
 | 2009 || {{Dts|May 7}} || Blog post || LessWrong || [http://lesswrong.com/lw/f6/epistemic_vs_instrumental_rationality_case_of_the/ "Epistemic vs. Instrumental Rationality: Case of the Leaky Agent"] || || 19 ||
 |-
@@ -448,6 +464,7 @@ Feedback for the timeline can be provided at the following places:
 
 * [http://www.weidai.com/ Wei Dai's personal website]
 * [http://lesswrong.com/user/Wei_Dai/overview/ Wei Dai's LessWrong account]
+* [https://wiki.lesswrong.com/wiki/Special:Contributions/Wei_Dai LessWrong Wiki contributions]
 * [http://effective-altruism.com/user/Wei_Dai/ Wei Dai's Effective Altruism Forum account]
 * [https://medium.com/@weidai Wei Dai's Medium account]
 * [https://agentfoundations.org/threads?id=Wei_Dai Wei Dai's comments on the Intelligent Agent Foundations Forum]
