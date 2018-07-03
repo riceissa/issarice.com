@@ -510,6 +510,8 @@ Feedback for the timeline can be provided at the following places:
 
 ===Timeline update strategy===
 
+I think the new stuff is posted on [https://www.lesswrong.com/users/wei_dai LessWrong].
+
 ==See also==
 
 * [[Timeline of Carl Shulman publications]]
