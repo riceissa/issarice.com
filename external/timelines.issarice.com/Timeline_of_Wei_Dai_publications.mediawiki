@@ -275,6 +275,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 2009 || {{dts|August 13}} || Blog post || LessWrong || [http://lesswrong.com/lw/15m/towards_a_new_decision_theory/ "Towards a New Decision Theory"] || This post introduces what would be called updateless decision theory (UDT). || 142 ||
 |-
+| 2009 || {{dts|August 13}} || Wiki page || LessWrong Wiki || [https://wiki.lesswrong.com/wiki/Counterfactual_mugging "Counterfactual mugging"] || || ||
+|-
 | 2009 || {{dts|September 3}} || Blog post || LessWrong || [http://lesswrong.com/lw/175/torture_vs_dust_vs_the_presumptuous_philosopher/ "Torture vs. Dust vs. the Presumptuous Philosopher: Anthropic Reasoning in UDT"] || || 28 ||
 |-
 | 2009 || {{dts|September 16}} || Blog post || LessWrong || [http://lesswrong.com/lw/182/the_absentminded_driver/ "The Absent-Minded Driver"] || || 141 ||
@@ -296,6 +298,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 2009 || {{Dts|November 16}} || Blog post || LessWrong || [http://lesswrong.com/lw/1fu/why_and_why_not_bayesian_updating/ "Why (and why not) Bayesian Updating?"] || || 26 ||
 |-
 | 2009 || {{dts|November 24}} || Blog post || LessWrong || [http://lesswrong.com/lw/1gg/agree_retort_or_ignore_a_post_from_the_future/ "Agree, Retort, or Ignore? A Post From the Future"] || || 87 ||
+|-
+| 2009 || {{dts|November 27}} || Wiki page || LessWrong Wiki || [https://wiki.lesswrong.com/wiki/The_Hanson-Yudkowsky_AI-Foom_Debate "The Hanson-Yudkowsky AI-Foom Debate"] || || ||
 |-
 | 2009 || {{dts|November 30}} || Blog post || LessWrong || [http://lesswrong.com/lw/1hg/the_moral_status_of_independent_identical_copies/ "The Moral Status of Independent Identical Copies"] || || 71 ||
 |-
