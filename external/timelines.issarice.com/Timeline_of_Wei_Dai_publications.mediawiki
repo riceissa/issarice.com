@@ -7,9 +7,9 @@ This is a '''timeline of Wei Dai publications'''. The timeline takes a broad vie
 |-
 | Cypherpunks || 1994–1996 ||
 |-
-| everything-list || 1998–2010 ||
+| Extropians || 1997 (or earlier) – 2003 ||
 |-
-| Extropians || 2002–2003 ||
+| everything-list || 1998–2010 ||
 |-
 | SL4 || 2002–2008 ||
 |-
@@ -94,6 +94,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 1997 || {{dts|April 12}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/04/msg00398.html "anonymous credit"] || || ||
 |-
 | 1997 || {{dts|September 18}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/09/msg01187.html "sooner or later"] || Assuming a crypto ban is inevitable, the message explores why an earlier ban may be preferable to cypherpunks. || ||
+|-
+| 1997 || {{dts|September 20}} || Email || Extropians || [http://extropians.weidai.com/extropians.3Q97/4116.html "copying related probability question"] || || ||
 |-
 | 1997 || {{dts|September 22}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/09/msg01315.html "encouraging digital pseudonyms"] || || ||
 |-
@@ -386,6 +388,10 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 2016 || {{dts|December 8}} || Blog post || LessWrong || [http://lesswrong.com/lw/o8w/combining_prediction_technologies_to_help/ "Combining Prediction Technologies to Help Moderate Discussions"] || || 15 ||
 |-
 | 2017 || {{dts|September 5}} || Blog post || LessWrong || [http://lesswrong.com/lw/pds/online_discussion_is_better_than_prepublication/ "Online discussion is better than pre-publication peer review"] || || 25 ||
+|-
+| 2018 || {{dts|March 10}} || Blog post || LessWrong || [https://www.lesserwrong.com/posts/yxvp9LErWao5kJ3bC/multiplicity-of-enlightenment-states-and-contemplative "Multiplicity of 'enlightenment' states and contemplative practices"] || || ||
+|-
+| 2018 || {{dts|April 1}} || Blog post || LessWrong || [https://www.lesswrong.com/posts/o22kP33tumooBtia3/can-corrigibility-be-learned-safely "Can corrigibility be learned safely?"] || || ||
 |}
 
 ==Meta information on the timeline==
@@ -405,7 +411,11 @@ Feedback for the timeline can be provided at the following places:
 ===What the timeline is still missing===
 
 * There are a bunch of files on http://www.weidai.com/ but they don't have dates on them so it's hard to know where to put them. (Internet Archive would help with this to some extent.)
-* There are some good comment threads that involve Wei on LW, EA Forum, Medium, and IAFF. I think some of these should be included.
+* There are some good comment threads that involve Wei on LW, EA Forum, Medium, and IAFF. I think some of these should be included. Some of these are now listed at https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai
+* article cited in http://www.ibiblio.org/weidai/temp/Provable_Security.pdf
+* for some reason i had missed adding [http://extropians.weidai.com/extropians.3Q97/4116.html], so i think i am missing other extropians emails. maybe look at [http://extropians.weidai.com/extropians.3Q97/] and other directories on that subdomain.
+* https://scholar.google.com/citations?user=YQSmJLUAAAAJ&hl=en I think all of these are by the right Wei Dai
+* https://groups.google.com/forum/#!forum/one-logic
 
 ===Timeline update strategy===
 
@@ -420,6 +430,7 @@ Feedback for the timeline can be provided at the following places:
 * [http://effective-altruism.com/user/Wei_Dai/ Wei Dai's Effective Altruism Forum account]
 * [https://medium.com/@weidai Wei Dai's Medium account]
 * [https://agentfoundations.org/threads?id=Wei_Dai Wei Dai's comments on the Intelligent Agent Foundations Forum]
+* [https://arbital.com/p/WeiDai/ Wei Dai's Arbital account] (only has one comment as of March 2018)
 
 ==References==
 
