@@ -13,7 +13,11 @@ This is a '''timeline of Wei Dai publications'''. The timeline takes a broad vie
 |-
 | SL4 || 2002–2008 ||
 |-
+| crypto-optimization || 2009 ||
+|-
 | LessWrong || 2009–present ||
+|-
+| LessWrong Wiki || 2009 ||
 |}
 
 ==Full timeline==
