@@ -247,6 +247,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 2004 || {{dts|June 28}} || Email || SL4 || [http://sl4.org/archive/0406/9422.html "dream qualia"] || || ||
 |-
+| 2004 || {{dts|July 23}} || HTML file || Crypto++ website || [https://web.archive.org/web/20061201042628/https://www.cryptopp.com/benchmarks.html "Crypto++ Benchmarks"] || Speed benchmarks for algorithms provided by Crypto++. It's unclear when this page was first published; the earliest [https://web.archive.org/web/20060101000000*/https://www.cryptopp.com/benchmarks.html snapshot] on Internet Archive is from December 2006, which has a last modification date of 2004-07-23. The page continues to be updated, and the latest version can be found on the [https://www.cryptopp.com/benchmarks.html Crypto++ website]. || ||
+|-
 | 2004 || {{dts|October 23}} || Email || SL4 || [http://sl4.org/archive/0410/10098.html "SIAI's direction"] || || ||
 |-
 | 2005 || {{dts|July 13}} || Email || everything-list || [https://groups.google.com/d/msg/everything-list/x0QsE_8Tluw/A6LUcEwTToAJ "is induction unformalizable?"] || || ||
