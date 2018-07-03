@@ -63,6 +63,10 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 1995 || {{dts|February 10}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/02/msg00508.html "law vs technology"] || || ||
 |-
+| 1995 || {{dts|August 25}} || Patent || Microsoft || [https://patents.google.com/patent/US5724279A/en "Computer-implemented method and computer for performing modular reduction"] || With Josh Benaloh. 1995-08-25 is the filing date; the patent was granted on 1998-03-03. || ||
+|-
+| 1995 || {{dts|August 29}} || || Crypto '95 Rump Session || [https://www.iacr.org/conferences/c95/rump.html "Fast Modular Reduction"] || This is [https://scholar.google.com/scholar?cites=18089749024944769668&as_sdt=5,48&sciodt=0,48&hl=en cited by several others] but it's not clear if there was a paper or just a presentation. || ||
+|-
 | 1995 || {{dts|September 6}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/09/msg00352.html "fast modular reduction"] || || ||
 |-
 | 1995 || {{dts|September 10}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1995/09/msg00617.html "question about reputation"] || || ||
@@ -124,6 +128,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 1997 || {{dts|September 24}} || Email || Extropians || [http://extropians.weidai.com/extropians.3Q97/4356.html "tunneling through the Singularity"] || || ||
 |-
 | 1997 || {{dts|October 15}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q97/0575.html "many minds interpretation of probability"] || || ||
+|-
+| 1997 || {{dts|October 20}} || Patent || Microsoft || [https://patents.google.com/patent/US6081598A/en "Cryptographic system and method with fast decryption"] || 1997-10-20 is the filing date; the patent was granted on 2000-06-27. || ||
 |-
 | 1997 || {{dts|October 24}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q97/0771.html "PHYS: dyson shell thermodynamics"] || || ||
 |-
@@ -263,6 +269,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 2007 || {{dts|April}} || Text file || Ted Krovetz's website || [http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt "VMAC: Message Authentication Code using Universal Hashing"] || Co-authored with Ted Krovetz. || ||
 |-
+| 2007 || {{dts|August 28}} || Paper || || [http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.9987&rep=rep1&type=pdf "VHASH Security"] || Co-authored with Ted Krovetz. || ||
+|-
 | 2007 || {{dts|September 26}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg13817.html "against UD+ASSA, part 1"] || || ||
 |-
 | 2007 || {{dts|September 26}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg13818.html "against UD+ASSA, part 2"] || || ||
@@ -272,6 +280,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 2007 || {{dts|November 10}} || Email || SL4 || [http://sl4.org/archive/0711/17013.html "answers I'd like from an SI"] || || ||
 |-
 | 2007 || {{dts|November 13}} || Email || SL4 || [http://sl4.org/archive/0711/17101.html "answers I'd like, part 2"] || || ||
+|-
+| 2008 || || Paper || NIST mailing list? || [https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=Collisions+for+CubeHash1%2F45+and+cubehash2%2F89 "Collisions for CubeHash1/45 and CubeHash2/89"] || Citation information is from Google Scholar; I can't find the original posting (the PDF itself is undated). || ||
 |-
 | 2008 || {{dts|July 14}} || Email || SL4 || [http://sl4.org/archive/0807/19227.html "prove your source code"] || || ||
 |-
