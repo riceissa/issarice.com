@@ -119,9 +119,23 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 1997 || {{dts|September 22}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/09/msg01315.html "encouraging digital pseudonyms"] || || ||
 |-
+| 1997 || {{dts|September 24}} || Email || Extropians || [http://extropians.weidai.com/extropians.3Q97/4356.html "tunneling through the Singularity"] || || ||
+|-
+| 1997 || {{dts|October 15}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q97/0575.html "many minds interpretation of probability"] || || ||
+|-
+| 1997 || {{dts|October 24}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q97/0771.html "PHYS: dyson shell thermodynamics"] || || ||
+|-
+| 1997 || {{dts|December 14}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q97/2472.html "the ultimate refrigerator"] || || ||
+|-
 | 1998 || {{dts|January 6}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/01/msg00115.html "cypherpunks and guns"] || || ||
 |-
-| 1998 || {{dts|January 15}} || Email || || [http://www.weidai.com/everything.html "ANNOUNCE: the 'everything' mailing list"] || The email announces the launch of everything-list. || ||
+| 1998 || {{dts|January 7}} || Email || Extropians || [http://extropians.weidai.com/extropians.1Q98/0317.html "personal identity"] || || ||
+|-
+| 1998 || {{dts|January 11}} || Email || Extropians || [http://extropians.weidai.com/extropians.1Q98/0528.html "algorithmic complexity of God"] || || ||
+|-
+| 1998 || {{dts|January 15}} || Email || Extropians || [http://www.weidai.com/everything.html "ANNOUNCE: the 'everything' mailing list"] ([http://extropians.weidai.com/extropians.1Q98/0770.html mirror]) || The email announces the launch of everything-list. || ||
+|-
+| 1998 || {{dts|January 15}} || Email || Extropians || [http://extropians.weidai.com/extropians.1Q98/0756.html "adapting to an open universe"] || || ||
 |-
 | 1998 || {{dts|January 19}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0002.html "basic questions"] || || ||
 |-
@@ -135,11 +149,15 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 1998 || {{dts|February 11}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0028.html "experimentation"] || || ||
 |-
+| 1998 || {{dts|February 13}} || Email || Extropians || [http://extropians.weidai.com/extropians.1Q98/1779.html "human capital market"] || || ||
+|-
 | 1998 || {{dts|February 16}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/02/msg00753.html "payment mix"] || || ||
 |-
 | 1998 || {{dts|February 18}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0037.html "predictions"] || || ||
 |-
 | 1998 || {{dts|February 21}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0047.html "another paradox and a solution"] || || ||
+|-
+| 1998 || {{dts|February 26}} || Email || Extropians || [http://extropians.weidai.com/extropians.1Q98/2151.html "spears versus shields"] || || ||
 |-
 | 1998 || {{dts|March 15}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0078.html "probability and decision theory"] || || ||
 |-
@@ -163,6 +181,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 1999 || {{Dts|January 15}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0289.html "book recommendation"] || The message recommends Li and Vitanyi's ''An Introduction to Kolmogorov Complexity and Its Applications'' to everyone on the mailing list. || ||
 |-
+| 1999 || {{dts|March 27}} || Email || Extropians || [http://extropians.weidai.com/extropians.1Q99/3684.html "reasoning under computational limitations"] || || ||
+|-
 | 1999 || {{dts|April 1}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00563.html "all of me or one of me"] || || ||
 |-
 | 1999 || {{dts|June 1}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0636.html "practical reasoning and strong SSA"] || || ||
@@ -173,11 +193,23 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 1999 || {{dts|July 12}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0910.html "minimal theory of consciousness"] || || ||
 |-
+| 2000 || {{dts|September 3}} || Email || Extropians || [http://extropians.weidai.com/extropians.3Q00/4100.html "NewScientist article on the ultimate laptop"] || || ||
+|-
+| 2000 || {{dts|September 12}} || Email || Extropians || [http://extropians.weidai.com/extropians.3Q00/4844.html "how to change values"] || || ||
+|-
 | 2001 || {{dts|January 23}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01982.html "Oracle by Greg Egan"] || || ||
 |-
 | 2001 || {{dts|February 15}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg00565.html "no need for anthropic reasoning"] || || ||
 |-
 | 2001 || {{dts|February 28}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/2531.html "another anthropic reasoning paradox"] || || ||
+|-
+| 2001 || {{dts|August 16}} || Email || Extropians || [http://extropians.weidai.com/extropians.3Q01/4341.html "cloning protection technology"] || || ||
+|-
+| 2001 || {{dts|November 6}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q01/2247.html "relativism vs equivalidity"] || || ||
+|-
+| 2001 || {{dts|November 7}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q01/2253.html "the Blight not evil?"] || || ||
+|-
+| 2001 || {{dts|November 20}} || Email || Extropians || [http://extropians.weidai.com/extropians.4Q01/2904.html "non-violent conflict resolution"] || || ||
 |-
 | 2001 || {{dts|December 20}} || Email || everything-list || [https://www.mail-archive.com/everything-list@googlegroups.com/msg01371.html "relevance of the real measure"] || || ||
 |-
@@ -461,7 +493,6 @@ Feedback for the timeline can be provided at the following places:
 ===What the timeline is still missing===
 
 * There are some good comment threads that involve Wei on LW, EA Forum, Medium, and IAFF. I think some of these should be included. Some of these are now listed at https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai
-* for some reason i had missed adding [http://extropians.weidai.com/extropians.3Q97/4116.html], so i think i am missing other extropians emails. maybe look at [http://extropians.weidai.com/extropians.3Q97/] and other directories on that subdomain.
 * https://scholar.google.com/citations?user=YQSmJLUAAAAJ&hl=en I think all of these are by the right Wei Dai
 * https://groups.google.com/forum/#!forum/one-logic
 * [https://groups.google.com/forum/#!topic/crypto-optimization/ZjtgKWg8AnA this email] mentions him posting to "the NIST SHA-3 forum".
