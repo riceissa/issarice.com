@@ -430,6 +430,10 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 2018 || {{dts|March 10}} || Blog post || LessWrong || [https://www.lesserwrong.com/posts/yxvp9LErWao5kJ3bC/multiplicity-of-enlightenment-states-and-contemplative "Multiplicity of 'enlightenment' states and contemplative practices"] || || ||
 |-
 | 2018 || {{dts|April 1}} || Blog post || LessWrong || [https://www.lesswrong.com/posts/o22kP33tumooBtia3/can-corrigibility-be-learned-safely "Can corrigibility be learned safely?"] || || ||
+|-
+| 2018 || {{dts|June 7}} || Blog post || LessWrong || [https://www.lesswrong.com/posts/Qz6w4GYZpgeDp6ATB/beyond-astronomical-waste "Beyond Astronomical Waste"] || || ||
+|-
+| 2018 || {{dts|June 11}} || Blog post || LessWrong || [https://www.lesswrong.com/posts/idb5Ppp9zghcichJ5/a-general-model-of-safety-oriented-ai-development "A general model of safety-oriented AI development"] || || ||
 |}
 
 ==Meta information on the timeline==
@@ -453,6 +457,7 @@ Feedback for the timeline can be provided at the following places:
 * for some reason i had missed adding [http://extropians.weidai.com/extropians.3Q97/4116.html], so i think i am missing other extropians emails. maybe look at [http://extropians.weidai.com/extropians.3Q97/] and other directories on that subdomain.
 * https://scholar.google.com/citations?user=YQSmJLUAAAAJ&hl=en I think all of these are by the right Wei Dai
 * https://groups.google.com/forum/#!forum/one-logic
+* [https://groups.google.com/forum/#!topic/crypto-optimization/ZjtgKWg8AnA this email] mentions him posting to "the NIST SHA-3 forum".
 
 ===Timeline update strategy===
 
