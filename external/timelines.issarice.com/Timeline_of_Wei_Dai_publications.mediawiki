@@ -427,7 +427,7 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 2017 || {{dts|September 5}} || Blog post || LessWrong || [http://lesswrong.com/lw/pds/online_discussion_is_better_than_prepublication/ "Online discussion is better than pre-publication peer review"] || || 25 ||
 |-
-| 2018 || {{dts|March 10}} || Blog post || LessWrong || [https://www.lesserwrong.com/posts/yxvp9LErWao5kJ3bC/multiplicity-of-enlightenment-states-and-contemplative "Multiplicity of 'enlightenment' states and contemplative practices"] || || ||
+| 2018 || {{dts|March 10}} || Blog post || LessWrong || [https://www.lesswrong.com/posts/yxvp9LErWao5kJ3bC/multiplicity-of-enlightenment-states-and-contemplative "Multiplicity of 'enlightenment' states and contemplative practices"] || || ||
 |-
 | 2018 || {{dts|April 1}} || Blog post || LessWrong || [https://www.lesswrong.com/posts/o22kP33tumooBtia3/can-corrigibility-be-learned-safely "Can corrigibility be learned safely?"] || || ||
 |-
