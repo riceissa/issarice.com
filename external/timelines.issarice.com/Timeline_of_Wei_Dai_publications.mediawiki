@@ -279,7 +279,7 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 2010 || {{dts|February 9}} || Blog post || LessWrong || [http://lesswrong.com/lw/1r9/shut_up_and_divide/ "Shut Up and Divide?"] || || 258 ||
 |-
-| 2010 || {{dts|February 19}} || Blog post || LessWrong || [http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/ "Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)"] || || 38 ||
+| 2010 || {{dts|February 19}} || Blog post || LessWrong || [http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/ "Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)"] || This post describes what would be known as UDT 1.1.<ref>{{cite web |url=https://www.greaterwrong.com/posts/pu3ddLSZjjmiiqQfh/another-take-on-agent-foundations-formalizing-zero-shot/comment/TJtwakAfL7wwoaDKS |title=Wei_Dai comments on Another take on agent foundations: formalizing zero-shot reasoning |author=Wei Dai |date=July 1, 2018 |accessdate=July 3, 2018 |publisher=LessWrong}}</ref> || 38 ||
 |-
 | 2010 || {{dts|March 2}} || Blog post || LessWrong || [http://lesswrong.com/lw/1um/individual_vs_group_epistemic_rationality/ "Individual vs. Group Epistemic Rationality"] || || 54 ||
 |-
