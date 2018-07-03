@@ -99,6 +99,8 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 |-
 | 1996 || {{dts|July 29}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1996/07/msg02620.html "game theory"] || || ||
 |-
+| 1996 || {{dts|August}} || Text file || || [http://www.weidai.com/pipenet.txt "PipeNet 1.1"] || The text file containing a description of PipeNet 1.1. The publication date is a little unclear. A lot of the [https://scholar.google.com/scholar?cites=2644741251251348253&as_sdt=5,48&sciodt=0,48&hl=en papers] citing PipeNet use August 1996 for version 1.1. || ||
+|-
 | 1996 || {{dts|September 9}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1996/09/msg00807.html "papers on anonymous protocols"] || || ||
 |-
 | 1997 || {{dts|February 3}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1997/02/msg02983.html "what's in a name?"] || || ||
@@ -172,8 +174,6 @@ For mailing list posts, the main inclusion criterion is that the initial post in
 | 1998 || {{dts|November}}? || Text file || || [http://www.weidai.com/bmoney.txt "b-money"] || This document proposes b-money. It would eventually be cited in the bitcoin whitepaper. Discussion on Cypherpunks takes place starting in December.<ref>{{cite web |url=https://cypherpunks.venona.com/date/1998/12/msg00194.html |title=Wei Dei's "b-money" protocol |author=Adam Back |date=December 5, 1998 |accessdate=February 16, 2018}}</ref> || ||
 |-
 | 1998 || {{dts|November 26}} || Email || Cypherpunks || [https://cypherpunks.venona.com/date/1998/11/msg00941.html "PipeNet 1.1 and b-money"] || || ||
-|-
-| 1998 || {{dts|November 26}} || Text file || || [http://www.weidai.com/pipenet.txt "PipeNet 1.1"] || The text file containing a description of PipeNet 1.1, as mentioned in an email on Cypherpunks. || ||
 |-
 | 1999 || {{dts|January 9}} || Email || everything-list || [https://riceissa.github.io/everything-list-1998-2009/0227.html "information content of measures"] || || ||
 |-
