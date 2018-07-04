@@ -118,6 +118,12 @@ can still view an [archive of their profile page](https://web.archive.org/web/20
 For 2017-10-07, this is the date of the GiveWell snapshot. The Open
 Phil snapshot is from 2017-10-08.
 
+Note as of June 2018, I'm starting to move this data to [Org
+Watch](https://orgwatch.issarice.com/?organization=GiveWell), a
+website that tracks organizations. I will probably only update the
+information on there from now. Org Watch currently doesn't have the
+same table, but something close to it should eventually be available.
+
 # Plots
 
 The following is a plot of the table above (which is better in some sense because it indicates the gaps when the employee count did not change):
