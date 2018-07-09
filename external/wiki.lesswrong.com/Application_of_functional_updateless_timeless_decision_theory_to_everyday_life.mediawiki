@@ -23,7 +23,7 @@ While the application of [[Functional decision theory|functional]]/[[Updateless 
 |-
 | Vitalik Buterin || "Superrationality and DAOs"<ref>Vitalik Buterin. [https://blog.ethereum.org/2015/01/23/superrationality-daos/ "Superrationality and DAOs"]. January 23, 2015.</ref> || Explores the application of superrationality to [[Decentralized autonomous organization|decentralized autonomous organizations]].
 |-
-| Eliezer Yudkowsky? || [https://arbital.com/p/logical_dt/?l=5d6] || Mentions salary negotiation and voting as real-life applications
+| Eliezer Yudkowsky? || [https://arbital.com/p/logical_dt/?l=5d6], [https://www.greaterwrong.com/posts/uG3ri4y3siWyC52bD/a-rationalist-argument-for-voting/comment/drhSHWrAaRGaTdkbv] || Mentions salary negotiation and voting as real-life applications
 |-
 | Paul Christiano || [https://sideways-view.com/2016/11/14/integrity-for-consequentialists/] || "Some of these considerations are only relevant because I make decisions using UDT rather than causal decision theory." I think some of Paul's other posts talk about decision theory applications too.
 |}
