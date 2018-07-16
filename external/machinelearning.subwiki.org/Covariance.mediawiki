@@ -1,0 +1,7 @@
+The covariance between two random variables <math>X</math> and <math>Y</math> is defined as <math>\operatorname{cov}(X,Y) = \mathrm E((X - \mathrm E(X))(Y - \mathrm E(Y)))</math>.
+
+==Questions/things to explain==
+
+* A lot of explanations of covariance say things like "if the covariance is high, then the two variables vary together, so that when one is higher than average the other is as well". That sounds more like conditional expectation though, specifically <math>\mathrm E(Y - \mathrm E(Y) \mid X - \mathrm E(X))</math>. Can we express covariance in terms of this conditional language?
+* Explain difference (in units, range of values) with correlation. Can we get positive/negative/large/small covariance and negative/positive/small/large correlation?
+* Visualization as signed area of rectangles: between all points [https://stats.stackexchange.com/a/18200] [http://www.davidchudzicki.com/posts/covariance-as-signed-area-of-rectangles/] and between the axes drawn by the means [https://mbernste.github.io/files/notes/VisualizingVarianceCovariance.pdf] [https://stats.seandolinar.com/covariance-different-ways-to-explain/]

@@ -1,0 +1,74 @@
+This page is a '''summary table of probability terms'''.
+
+==Table==
+
+{| class="sortable wikitable"
+! Term !! Symbol !! Type !! Definition
+|-
+| Reals || <math>\mathbf R</math> || ||
+|-
+| Borel subsets of the reals || <math>\mathcal B</math> || ||
+|-
+| Sample space || <math>\Omega</math> || ||
+|-
+| Outcome || <math>\omega</math> || <math>\Omega</math> ||
+|-
+| Events or measurable sets || <math>\mathcal F</math> || ||
+|-
+| Probability measure || <math>\mathbf P</math> or <math>\Pr</math> or <math>\mathbf P_{\mathcal F}</math> || <math>\mathcal F \to [0,1]</math> ||
+|-
+| Probability triple or probability space || <math>(\Omega, \mathcal F, \mathbf P)</math> || ||
+|-
+| Distribution || <math>\mu</math> or <math>\mathcal D</math> or <math>D</math> or <math>\mathbf P_{\mathcal B}</math> or <math>\mathcal L(X)</math> or <math>\mathbf P X^{-1}</math> || <math>\mathcal B \to \mathbf [0,1]</math> || <math>B \mapsto \mathbf P(X \in B)</math>
+|-
+| Induced probability space || <math>(\mathbf R, \mathcal B, \mu)</math> || ||
+|-
+| Cumulative distribution function or CDF || <math>F_X</math> || <math>\mathbf R \to [0,1]</math> ||
+|-
+| Probability density function or PDF || <math>f_X</math> || <math>\mathbf R \to [0,\infty)</math> ||
+|-
+| Random variable || <math>X</math> || <math>\Omega \to \mathbf R</math> ||
+|-
+| Preimage of random variable || <math>X^{-1}</math> || <math>2^{\mathbf R} \to 2^{\Omega}</math> but all we need is <math>\mathcal B \to \mathcal F</math> ||
+|-
+| Indicator of <math>A</math> || <math>1_A</math> || <math>\Omega \to \{0,1\}</math> ||
+|-
+| Expectation || <math>\mathbf E</math> or <math>\mathrm E</math> || <math>(\Omega \to \mathbf R) \to \mathbf R</math> ||
+|}
+
+==Dependencies==
+
+Let <math>(\Omega, \mathcal F, \mathbf P)</math> be a probability space.
+
+* Given a random variable <math>X</math>, we can compute its distribution <math>\mu</math>. How? Just let <math>\mu(B) = \mathbf P_{\mathcal F}(X \in B)</math>
+* Given a random variable, we can compute the probability density function. How?
+* Given a random variable, we can compute the cumulative distribution function. How?
+* Given a distribution, we can retrieve a random variable. But this random variable is not unique? This is why we can say stuff like "let <math>X\sim \mathcal D</math>".
+* Given a distribution <math>\mu</math>, we can compute its density function. How? Just find the derivative of <math>\mu((-\infty,x])</math>. (?)
+* Given a cumulative distribution function, we can compute the random variable. (Right?)
+* Given a probability density function, can we get everything else? Don't we just have to integrate to get the cdf, which gets us the random variable and the distribution?
+* Given a cumulative distribution function, how do we get the distribution? We have <math>F_X(x) = \mathbf P_{\mathcal F}(X\leq x) = \mathbf P_{\mathcal B}((-\infty,x])</math>, which gets us some of what the distribution <math>\mathbf P_{\mathcal B}</math> maps to, but <math>\mathcal B</math> is bigger than this. What do we do about the other values we need to map? We can compute intervals like <math>F_X(b) - F_X(a) = \mathbf P_{\mathcal F}(a \leq X\leq b) = \mathbf P_{\mathcal B}([a,b])</math>. And we can apparently do the same for unions and limiting operations.
+
+==Philosophical details about the sample space==
+
+Given a random variable <math>X : \Omega \to \mathbf R</math> and any reasonable predicate <math>P</math> about <math>X</math>, we can replace <math>P(X)</math> with its extension <math>\{\omega \in \Omega : P(X(\omega))\} = \{\omega \in \Omega : X(\omega) \in B\}</math> for some <math>B \in \mathcal B</math>. And from then on, we can write <math>\mathbf P_{\mathcal F}(X\in B)</math> as <math>\mathbf P_{\mathcal F}(X^{-1}(B)) = \mathbf P_{\mathcal B}(B) = \mu(B)</math>. In other words, we can just work with Borel sets of the reals (measuring them with the distribution) rather than the original events (measuring them with the original probability measure). Where did <math>X</math> go? <math>\mathbf P_{\mathcal F} \circ X^{-1} = \mathbf P_{\mathcal B}</math>, so you can write <math>\mathbf P_{\mathcal B}</math> using <math>X</math>. But once you already have <math>\mathbf P_{\mathcal B}</math>, you don't need to know what <math>X</math> is.
+
+==See also==
+
+* [[Comparison of machine learning textbooks]]
+
+==External links==
+
+* [https://terrytao.wordpress.com/2010/01/01/254a-notes-0-a-review-of-probability-theory/ 254A, Notes 0: A review of probability theory] by [[wikipedia:Terence Tao|Terence Tao]]
+* [http://dsp.ucsd.edu/~kreutz/PEI-05%20Support%20Files/Basic%20Random%20Variables%20Concepts.pdf Basic Random Variable Concepts] by Kenneth Kreutz-Delgado
+* Various questions on Mathematics Stack Exchange:
+** https://math.stackexchange.com/questions/2233731/discarding-random-variables-in-favor-of-a-domain-less-definition
+** https://math.stackexchange.com/questions/18198/what-are-the-sample-spaces-when-talking-about-continuous-random-variables
+** https://math.stackexchange.com/questions/2233721/the-true-domain-of-random-variables
+** https://math.stackexchange.com/questions/712734/domain-of-a-random-variable-sample-space-or-probability-space
+** https://math.stackexchange.com/questions/23006/the-role-of-the-hidden-probability-space-on-which-random-variables-are-defined
+** https://math.stackexchange.com/questions/1612012/how-should-i-understand-the-probability-space-omega-mathcalf-p-what-d
+** https://math.stackexchange.com/questions/2531810/why-does-probability-theory-insist-on-sample-spaces
+** https://math.stackexchange.com/questions/1690289/what-is-a-probability-distribution
+** https://math.stackexchange.com/questions/1073744/distinguishing-probability-measure-function-and-distribution
+** https://math.stackexchange.com/questions/57027/concept-of-probability-distribution

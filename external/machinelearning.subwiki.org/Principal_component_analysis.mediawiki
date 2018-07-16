@@ -1,0 +1,12 @@
+==Questions/things to explain==
+
+* Analogously to the [[covariance matrix]] one can define a correlation matrix. What happens if you run SVD on the correlation matrix?
+* multiple ways to look at PCA:
+** SVD on the covariance matrix (this is probably the same as the maximum variance interpretation, or rather a sub-interpretation of that; if you view the covariance matrix as a transformation that takes white noise to your data set, then the principal components = axes of the ellipsoid = the views that maximize variance)
+** maximum variance (see Bishop). This one uses the Lagrange multiplier and [[derivative of a quadratic form]].
+** minimum-error (see Bishop)
+** the best linear compression-recovery of data to a lower dimension (see Shalev-Shwartz and Ben-David). Is this the same as minimum-error interpretation?
+** maximum-variance and minimum-error are related by the Pythagorean theorem, see [https://drive.google.com/file/d/0B3-japQ2zgG_MGM3cHdzdGRyMm8/view page 16 of these slides]. There's a similar picture in [https://jeremykun.com/2016/05/16/singular-value-decomposition-part-2-theorem-proof-algorithm/ this post].
+* once you've done PCA, how do you calculate the percentage of variance captured by a principal component? what is the relationship between the percentage variance and the size of the eigenvalue (the larger the eigenvalue, the larger the variance, but what is the specific relationship)?
+* What is PCA good for? compressing data, dimensionality reduction/preprocessing step before passing to another learning algorithm, visualization, etc.
+* When does PCA not work so well?

@@ -1,0 +1,4 @@
+==Questions/things to explain==
+
+* The covariance matrix is a matrix, so it's a linear transformation. So what is the transformation? What does it do to vectors?
+* Some definitions divide by the number of data points or one less than the number of data points. Where does this division come from?

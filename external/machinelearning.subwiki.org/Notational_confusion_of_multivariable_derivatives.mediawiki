@@ -1,0 +1,10 @@
+I think there's several different confusions that arise from multivariable derivative notation:
+
+* The thing where <math>\frac{\partial w}{\partial t}</math> can mean two different things on LHS and RHS when <math>t</math> is used as both an initial and intermediate variable. (See Folland for details.)
+* The thing where if <math>f(x,y) = (x^2,y^2)</math> then <math>\frac{\partial f}{\partial x}(x,x)</math> feels like it might be <math>(2x,2x)</math> even though it's actually <math>(2x,0)</math>. (Example from Tao.) See also [https://issarice.com/mathematics-and-notation]
+* The thing where the total derivative for <math>n=m=1</math> "should" be a function but people treat it as a number. Refer to "Appendix A: Perorations of Dieudonne" (p. 337) in Pugh's ''Real Mathematical Analysis''.
+* Total derivative vs derivative matrix
+
+==See also==
+
+* [[Summary table of multivariable derivatives]]

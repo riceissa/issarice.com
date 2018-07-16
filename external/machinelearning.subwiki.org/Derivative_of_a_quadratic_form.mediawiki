@@ -1,0 +1,98 @@
+Let <math>A \in \mathcal M_{n,n}(\mathbf R)</math> be an <math>n</math> by <math>n</math> symmetric real-valued matrix, and let <math>f\colon \mathbf R^n \to \mathbf R</math> be defined by <math>f(x) = x^{\mathrm T}Ax</math>. On this page, we calculate the derivative of <math>f</math> using three methods.
+
+==Understanding the problem==
+
+Since <math>f</math> is a real-valued function of <math>\mathbf R^n</math>, the derivative and the gradient coincide.
+
+==Straightforward method==
+
+This method is the most straightforward, and involves breaking apart the matrix and vector into components and performing the differentiation. While straightforward, it appears messy due to the indices involved.
+
+Let <math>A = (a_{ki})</math> and <math>x = (x_1,\ldots,x_n)</math>.
+
+We expand
+
+:<math>x^{\mathrm T}Ax = x^{\mathrm T}\begin{pmatrix}\sum_{i=1}^n a_{1i}x_i \\ \vdots \\ \sum_{i=1}^n a_{ni}x_i\end{pmatrix} = \sum_{k=1}^n x_k \sum_{i=1}^n a_{ki}x_i</math>
+
+Now we find the partial derivative of the above with respect to <math>x_j</math>. To distinguish the constants from the variable, it makes sense to split the sum:
+
+:<math>\sum_{k=1}^n x_k \sum_{i=1}^n a_{ki}x_i = x_j \sum_{i=1}^n a_{ji}x_i + \sum_{k\ne j} x_k \sum_{i=1}^n a_{ki}x_i = x_j\left(a_{jj}x_j + \sum_{i\ne j} a_{ji} x_i\right) + \sum_{k\ne j} x_k \left(a_{kj}x_j + \sum_{i\ne j} a_{ki} x_i\right)</math>
+
+The first equality comes from splitting the outer summation, and the second comes from splitting the two inner summations.
+
+Now distributing we have
+
+:<math>\begin{align}a_{jj}x_j^2 + \left(\sum_{i\ne j} a_{ji} x_i\right)x_j + \sum_{k\ne j} \left(a_{kj}x_k x_j + x_k \sum_{i\ne j} a_{ki} x_i\right) \\ = a_{jj}x_j^2 + \left(\sum_{i\ne j} a_{ji} x_i\right)x_j + \left(\sum_{k\ne j}a_{kj}x_k\right) x_j + \sum_{k\ne j}x_k \sum_{i\ne j} a_{ki} x_i\end{align}</math>
+
+It is now easy to do the differentiation. We obtain
+
+:<math>2a_{jj}x_j + \sum_{i\ne j} a_{ji} x_i + \sum_{k\ne j}a_{kj}x_k</math>
+
+Since the matrix is symmetric, <math>a_{kj} = a_{jk}</math> so <math>\sum_{k\ne j}a_{kj}x_k = \sum_{k\ne j}a_{jk}x_k = \sum_{i\ne j}a_{ji}x_i</math>. The final equality follows because <math>k</math> is just an indexing variable and we are free to rename it. But now the derivative becomes
+
+:<math>2a_{jj}x_j + 2\sum_{i\ne j} a_{ji} x_i = 2\sum_{i=1}^n a_{ji} x_i</math>
+
+But this is just the <math>j</math>th component of <math>2Ax</math>. It follows that the full derivative is just <math>2Ax</math> (or its transpose, depending on whether we want to view it as a row or column vector).
+
+==Using the definition of the derivative==
+
+This is an expanded version of the answer at [https://math.stackexchange.com/a/189436/35525].
+
+Using the definition, we can compute the derivative from first principles without exposing the components.
+
+The derivative is the linear transformation <math>L</math> such that:
+
+:<math>\lim_{x\to x_0; x\ne x_0} \frac{\|f(x) - (f(x_0) + L(x-x_0))\|}{\|x-x_0\|} = 0</math>
+
+Using our function, this is:
+
+:<math>\lim_{x\to x_0; x\ne x_0} \frac{\|x^{\mathrm T}Ax - x_0^{\mathrm T}Ax_0 - L(x-x_0)\|}{\|x-x_0\|} = 0</math>
+
+Defining <math>h = x-x_0</math>, we have <math>x = x_0 + h</math> and
+
+:<math>\frac{\|(x_0 + h)^{\mathrm T}A(x_0 + h) - x_0^{\mathrm T}Ax_0 - L(h)\|}{\|h\|}</math>
+
+Focusing on the subexpression <math>(x_0 + h)^{\mathrm T}A(x_0 + h)</math>, since <math>A</math> is a matrix, it is a linear transformation, so we obtain <math>(x_0 + h)^{\mathrm T}(Ax_0 + Ah)</math>. Since the transpose of a sum is the sum of the transposes, we have <math>(x_0^{\mathrm T} + h^{\mathrm T})(Ax_0 + Ah)</math>. Now using linearity we have <math>x_0^{\mathrm T}Ax_0 + h^{\mathrm T} Ax_0 + x_0^{\mathrm T} Ah + h^{\mathrm T}Ah</math>.
+
+Now the fraction is
+
+:<math>\frac{\|x_0^{\mathrm T}Ax_0 + h^{\mathrm T} Ax_0 + x_0^{\mathrm T} Ah + h^{\mathrm T}Ah - x_0^{\mathrm T}Ax_0 - L(h)\|}{\|h\|} = \frac{\|h^{\mathrm T} Ax_0 + x_0^{\mathrm T} Ah + h^{\mathrm T}Ah - L(h)\|}{\|h\|}</math>
+
+Focusing on <math>h^{\mathrm T} Ax_0</math>, it is a real number so taking the transpose leaves it unchanged: <math>h^{\mathrm T} Ax_0 = (h^{\mathrm T} Ax_0)^{\mathrm T} = x_0^{\mathrm T}A^{\mathrm T}h</math>.
+
+Now the fraction is
+
+:<math>\frac{\|x_0^{\mathrm T}A^{\mathrm T}h + x_0^{\mathrm T} Ah + h^{\mathrm T}Ah - L(h)\|}{\|h\|} = \frac{\|x_0^{\mathrm T}(A^{\mathrm T} + A)h + h^{\mathrm T}Ah - L(h)\|}{\|h\|}</math>
+
+In the numerator, <math>h^{\mathrm T}Ah</math> is a higher order term that will disappear when taking the limit, so the linear transformation we are looking for must be <math>L(h) = x_0^{\mathrm T}(A^{\mathrm T} + A)h</math>. Since <math>A</math> is symmetric, we have <math>A^{\mathrm T} + A = 2A</math> and <math>L(h) = 2x_0^{\mathrm T}Ah</math>.
+
+==Using the chain rule==
+
+In this approach, we think of <math>f</math> as a composition of <math>g(x,y) = x\cdot y</math> and <math>h(x) = (x, Ax)</math> and use the multivariable chain rule.
+
+Define:
+
+* <math>y = Ax = (h(x))_{n+1,\ldots,n+n}</math>
+* <math>z = x\cdot y = g(x,y)</math>
+
+What is tricky is that <math>y</math> is not <math>h(x)</math>; to make the composition work, we must stick on <math>x</math> to <math>y</math> to form <math>(x,y)</math> before passing to <math>g</math>.
+
+Now the multivariable chain rule says:
+
+:<math>\frac{\partial z}{\partial x_j} = \underbrace{\frac{\partial z}{\partial x_1}\frac{\partial x_1}{\partial x_j} + \cdots + \frac{\partial z}{\partial x_n}\frac{\partial x_n}{\partial x_j}}_{\text{first half of terms}} + \underbrace{\frac{\partial z}{\partial y_1}\frac{\partial y_1}{\partial x_j} + \cdots + \frac{\partial z}{\partial y_n}\frac{\partial y_n}{\partial x_j}}_{\text{second half of terms}}</math>
+
+The notation is confusing because <math>\frac{\partial z}{\partial x_j}</math> means different things on each side of the equation (since <math>x</math> is both the input variable and an intermediate variable).
+
+Looking only at the first half of the terms, <math>\frac{\partial x_k}{\partial x_j}</math> is <math>1</math> if <math>k=j</math> and <math>0</math> otherwise, so we keep only the <math>j</math>th term, where we see <math>\frac{\partial z}{\partial x_j} = y_j</math>.
+
+Now looking at the second half of the terms, <math>\frac{\partial z}{\partial y_k} = x_k</math> and <math>\frac{\partial y_k}{\partial x_j} = a_{kj}</math>.
+
+Putting all the above together, we obtain
+
+:<math>\frac{\partial z}{\partial x_j} = y_j + x_1 a_{1j} + \cdots + x_n a_{nj} = 2y_j</math>
+
+In the last equality we used the fact that <math>A</math> is symmetric.
+
+We now have the <math>j</math>th component of the derivative, so the full derivative is <math>2y = 2Ax</math>.
+
+See [http://michael.orlitzky.com/articles/the_derivative_of_a_quadratic_form.xhtml] for something similar.

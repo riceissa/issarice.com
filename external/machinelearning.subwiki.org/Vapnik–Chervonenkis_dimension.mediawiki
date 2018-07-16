@@ -1,0 +1,20 @@
+just storing tabs here for now:
+
+* https://en.wikipedia.org/wiki/VC_dimension
+* https://www.quora.com/Explain-VC-dimension-and-shattering-in-lucid-Way
+* https://www.google.com/search?q=VC%20dimension
+* https://en.wikipedia.org/wiki/Shattered_set
+* https://math.stackexchange.com/questions/96655/how-to-calculate-vapnik-chervonenkis-dimension
+* baum's ''What is thought'' contains a discussion 
+
+I think there's three different "views" of the VC dimension:
+
+* in terms of sets/powersets and shattering
+* in terms of fitting parameters for a function
+* adversarial/game: to show the VC dimension is at least ''n'': you choose ''n'' points, the adversary chooses the labels, you must find a hypothesis from the hypothesis class that separates the labels cleanly
+
+questions:
+
+* does this work with more than two labels? (with the power sets view, obviously there's only yes/no classifications. but with the other two views, you can generalize to more labels; does doing this yield anything useful?)
+* in the adversarial perspective, why do you get to pick the points? (this is a question about which definition is most useful.) is there a name for the thing where you can separate ''all'' points and all labels?
+* where does the hypothesis class come from? it seems like "lines", "circles", "convex sets" are some examples used.
