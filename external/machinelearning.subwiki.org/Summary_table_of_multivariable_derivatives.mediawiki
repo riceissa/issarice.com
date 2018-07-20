@@ -1,6 +1,5 @@
 This page is a '''summary table of multivariable derivatives'''.
 
-* TODO maybe "Symbol" should be "Notation"
 * TODO maybe good to have separate rows for evaluated and pre-evaluated versions, for things that are functions/can be applied
 
 ==Single-variable real function==
@@ -9,14 +8,12 @@ For comparison and completeness, we give a summary table of the single-variable 
 
 {| class="sortable wikitable"
 |-
-! Term !! Symbol !! Type !! Definition !! Notes
+! Term !! Notation !! Type !! Definition !! Notes
 |-
-| Derivative of <math>r</math> || <math>r'</math>, <math>\frac{dr}{dx}</math> || <math>\mathbf R \to \mathbf R</math> || <math>r'(x) = \lim_{h\to0} \frac{r(x+h) - r(x)}{h}</math> ||
+| Derivative of <math>f</math> || <math>f'</math> or <math>\frac{df}{dx}</math> || <math>\mathbf R \to \mathbf R</math> || <math>f'(x) = \lim_{h\to0} \frac{f(x+h) - f(x)}{h}</math> ||
 |-
-| Derivative of <math>r</math> at <math>x_0 \in \mathbf R</math> || <math>r'(x_0)</math>, <math>\frac{dr}{dx}(x_0)</math>, <math>\left.\frac{d}{dx}r(x)\right|_{x=x_0}</math> || <math>\mathbf R</math> || <math>\lim_{h\to0} \frac{r(x_0+h) - r(x_0)}{h}</math> ||
+| Derivative of <math>f</math> at <math>x_0 \in \mathbf R</math> || <math>f'(x_0)</math> or <math>\frac{df}{dx}(x_0)</math> or <math>\left.\frac{d}{dx}f(x)\right|_{x=x_0}</math> || <math>\mathbf R</math> || <math>\begin{align}f'(x_0) &= \lim_{h\to0} \frac{f(x_0+h) - f(x_0)}{h} \\ &= \lim_{x\to x_0} \frac{f(x) - f(x_0)}{x-x_0}\end{align}</math> || In the most general multivariable case, <math>f'(x_0)</math> will become a linear transformation, so analogously we may wish to talk about the single-variable <math>f'(x_0)</math> as the function <math>f'(x_0)\colon \mathbf R \to \mathbf R</math> defined by <math>f'(x_0)(x) = f'(x_0)x</math>, where on the left side "<math>f'(x_0)</math>" is a function and on the right side "<math>f'(x_0)</math>" is a number. If "<math>f'(x_0)</math>" is a function, we can evaluate it at <math>1</math> to recover the number: <math>f'(x_0)(1)</math>. This is pretty confusing, and in practice everyone thinks of "<math>f'(x_0)</math>" in the single-variable case as a number, making the notation divergent; see [[Notational confusion of multivariable derivatives#The derivative as a linear transformation in the several variable case and a number in the single-variable case|Notational confusion of multivariable derivatives § The derivative as a linear transformation in the several variable case and a number in the single-variable case]] for more information.
 |}
-
-TODO: talk about confusion between <math>\mathbf R \to \mathbf R</math> and <math>\mathbf R</math> and how <math>f'(x_0)(1)</math> seems like the actual derivative.
 
 ==Real-valued function of '''R'''<sup>''n''</sup>==
 
@@ -24,12 +21,20 @@ Let <math>f\colon \mathbf R^n \to \mathbf R</math> be a real-valued function of 
 
 {| class="sortable wikitable"
 |-
-! Term !! Symbol !! Type !! Definition !! Notes
+! Term !! Notation !! Type !! Definition !! Notes
 |-
-| Partial derivative of <math>f</math> with respect to its <math>j</math>th variable || <math>\partial_j f</math> || <math>\mathbf R^n \to \mathbf R</math> ||
+| Partial derivative of <math>f</math> with respect to its <math>j</math>th variable || <math>\partial_j f</math> or <math>\partial_{x_j} f</math> or <math>\frac{\partial f}{\partial x_j}</math> or <math>f_{x_j}</math> or <math>f_j</math> || <math>\mathbf R^n \to \mathbf R</math> || <math>\partial_j f(x) = \lim_{t \to 0} \frac{f(x + te_j) - f(x)}{t}</math> || Here <math>e_j = (0,\ldots,1,\ldots,0)</math> is the <math>j</math>th vector of the standard basis, i.e. the vector with all zeroes except a one in the <math>j</math>th spot. Therefore <math>x + te_j</math> can also be written <math>(x_1,\ldots, x_j + t, \ldots, x_n)</math> when broken down into components.
 |-
-| Gradient
+| Gradient || <math>\nabla f</math> || <math>\mathbf R^n \to \mathbf R^n</math> || <math>\nabla f(x) = (\partial_1 f(x), \ldots, \partial_n f(x))</math> ||
+|-
+| Gradient at <math>x_0 \in \mathbf R^n</math> || <math>\nabla f(x_0)</math> || <math>\mathbf R^n</math> or <math>\mathcal M_{1,n}(\mathbf R)</math> || <math>(\partial_1 f(x_0), \ldots, \partial_n f(x_0))</math> or the vector <math>c</math> such that <math>\lim_{x\to x_0} \frac{\|f(x) - f(x_0) - c\cdot (x-x_0)\|}{\|x-x_0\|} = 0 </math> ||
+|-
+| Directional derivative in the direction of <math>v</math> || <math>D_v f</math> or <math>\partial_v f</math> || <math>\mathbf R^n \to \mathbf R</math> || <math>D_v f(x) = \lim_{t \to 0} \frac{f(x + tv) - f(x)}{t}</math> || When <math>v = e_j</math>, this reduces to the <math>j</math>th partial derivative.
 |}
+
+I think in this case, since <math>f'(x_0)(v)</math> coincides with <math>\nabla f(x_0)\cdot v</math>, people don't usually define the derivative separately. For example, Folland in ''Advanced Calculus'' defines ''differentiability'' but not the derivative! He just says that the vector that makes a function differentiable is the gradient.
+
+TODO: answer questions like "Is the gradient the derivative?"
 
 ==Vector-valued function of '''R'''==
 
@@ -37,10 +42,12 @@ Let <math>f\colon \mathbf R \to \mathbf R^m</math> be a vector-valued function o
 
 {| class="sortable wikitable"
 |-
-! Term !! Symbol !! Type !! Definition !! Notes
+! Term !! Notation !! Type !! Definition !! Notes
 |-
-| Velocity vector at <math>t</math> || <math>v(t)</math> or <math>Df(t)</math> || <math>\mathbf R \to \mathbf R^m</math> ||
+| Velocity vector at <math>t</math> || <math>v(t)</math> or <math>Df(t)</math> || <math>\mathbf R \to \mathbf R^m</math> || <math>(f_1'(t), \ldots, f_n'(t))</math> ||
 |}
+
+Note the absence for partial/directional derivatives. There is only one variable with respect to which we can differentiate, so there is no direction to choose from.
 
 ==Vector-valued function of '''R'''<sup>''n''</sup>==
 
@@ -48,18 +55,18 @@ Let <math>f\colon \mathbf R^n \to \mathbf R^m</math> be a vector-valued function
 
 {| class="sortable wikitable"
 |-
-! Term !! Symbol !! Type !! Definition !! Notes
+! Term !! Notation !! Type !! Definition !! Notes
 |-
-| Partial derivative with respect to the <math>j</math>th variable || <math>\partial_j f</math> or <math>\partial_{x_j} f</math> or <math>\frac{\partial f}{\partial x_j}</math> or <math>f_{x_j}</math> or <math>f_j</math> || <math>\mathbf R^n \to \mathbf R^m</math> ||
+| Partial derivative with respect to the <math>j</math>th variable || <math>\partial_j f</math> or <math>\partial_{x_j} f</math> or <math>\frac{\partial f}{\partial x_j}</math> or <math>f_{x_j}</math> or <math>f_j</math> || <math>\mathbf R^n \to \mathbf R^m</math> || <math>\partial_j f(x) = \lim_{t \to 0} \frac{f(x + te_j) - f(x)}{t}</math> ||
 |-
-| Directional derivative in the direction of <math>v</math> || <math>D_v f</math> or <math>\partial_v f</math> || <math>\mathbf R^n \to \mathbf R^m</math> ||
+| Directional derivative in the direction of <math>v</math> || <math>D_v f</math> or <math>\partial_v f</math> || <math>\mathbf R^n \to \mathbf R^m</math> || <math>D_v f(x) = \lim_{t \to 0} \frac{f(x + tv) - f(x)}{t}</math> ||
 |-
-| Total or Fréchet derivative (sometimes just called the derivative) at point <math>x_0\in \mathbf R^n</math> || <math>f'(x_0)</math> or <math>(Df)_{x_0}</math> or <math>d_{x_0}f</math> || <math>\mathbf R^n \to \mathbf R^m</math> || || The derivative ''at a given point'' is a linear transformation. One might wonder then what the derivative (without giving a point) is, i.e. what meaning to assign to "<math>f'</math>" as we can in the single-variable case. Its type would have to be <math>\mathbf R^n \to \mathbf R^n \to \mathbf R^m</math> or more specifically <math>\mathbf R^n \to \mathcal L(\mathbf R^n, \mathbf R^m)</math>. Also the notation <math>f'(x_0)</math> is slightly confusing: if the total derivative is a function, what happens if <math>n=m=1</math>? We see that <math>f'(x_0)\colon \mathbf R \to \mathbf R</math>, so the single-variable derivative isn't actually a number! To get the actual slope of the tangent line, we must evaluate the function at <math>1</math>: <math>f'(x_0)(1) \in \mathbf R</math>. Some authors avoid this by using different notation in the general multivariable case. Others accept this type error and ignore it.
+| Total or Fréchet derivative (sometimes just called the derivative) at point <math>x_0\in \mathbf R^n</math> || <math>f'(x_0)</math> or <math>(Df)_{x_0}</math> or <math>d_{x_0}f</math> || <math>\mathbf R^n \to \mathbf R^m</math> || The linear transformation <math>L</math> such that <math>\lim_{x\to x_0} \frac{\|f(x) - f(x_0) - L(x-x_0)\|}{\|x-x_0\|} = 0 </math> || The derivative ''at a given point'' is a linear transformation. One might wonder then what the derivative (without giving a point) is, i.e. what meaning to assign to "<math>f'</math>" as we can in the single-variable case. Its type would have to be <math>\mathbf R^n \to \mathbf R^n \to \mathbf R^m</math> or more specifically <math>\mathbf R^n \to \mathcal L(\mathbf R^n, \mathbf R^m)</math>. Also the notation <math>f'(x_0)</math> is slightly confusing: if the total derivative is a function, what happens if <math>n=m=1</math>? We see that <math>f'(x_0)\colon \mathbf R \to \mathbf R</math>, so the single-variable derivative isn't actually a number! To get the actual slope of the tangent line, we must evaluate the function at <math>1</math>: <math>f'(x_0)(1) \in \mathbf R</math>. Some authors avoid this by using different notation in the general multivariable case. Others accept this type error and ignore it.
 |-
-| Derivative matrix, differential matrix, Jacobian matrix at point <math>x_0\in \mathbf R^n</math> || <math>Df(x_0)</math> or <math>\mathcal M(f'(x_0))</math> || <math>\mathcal M_{m,n}(\mathbf R)</math> || || Since the total derivative is a linear transformation, and since linear transformations from <math>\mathbf R^n</math> to <math>\mathbf R^m</math> have a one-to-one correspondence with real-valued <math>m</math> by <math>n</math> matrices, the behavior of the total derivative can be summarized in a matrix; that summary is the derivative matrix. Some authors say that the total derivative ''is'' the matrix.
+| Derivative matrix, differential matrix, Jacobian matrix at point <math>x_0\in \mathbf R^n</math> || <math>Df(x_0)</math> or <math>\mathcal M(f'(x_0))</math> || <math>\mathcal M_{m,n}(\mathbf R)</math> || <math>\begin{pmatrix}\partial_1 f_1(x_0) & \cdots & \partial_n f_1(x_0) \\ \vdots & \ddots & \vdots \\ \partial_1 f_n(x_0) & \cdots & \partial_n f_n(x_0)\end{pmatrix}</math> || Since the total derivative is a linear transformation, and since linear transformations from <math>\mathbf R^n</math> to <math>\mathbf R^m</math> have a one-to-one correspondence with real-valued <math>m</math> by <math>n</math> matrices, the behavior of the total derivative can be summarized in a matrix; that summary is the derivative matrix. Some authors say that the total derivative ''is'' the matrix. TODO: talk about gradient vectors as rows.
 |}
 
-Note the absence of the gradient in the above table.
+Note the absence of the gradient in the above table. The generalization of the gradient to the <math>\mathbf R^n \to \mathbf R^m</math> case is the derivative matrix.
 
 ==See also==
 
@@ -69,5 +76,9 @@ Note the absence of the gradient in the above table.
 * [[calculus:Directional derivative]]
 
 ==References==
+
+* Tao, Terence. ''Analysis II''. 2nd ed. Hindustan Book Agency. 2009.
+* Folland, Gerald B. ''Advanced Calculus''. Pearson. 2002.
+* Pugh, Charles Chapman. ''Real Mathematical Analysis''. Springer. 2010.
 
 ==External links==

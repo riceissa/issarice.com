@@ -2,8 +2,16 @@ I think there's several different confusions that arise from multivariable deriv
 
 * The thing where <math>\frac{\partial w}{\partial t}</math> can mean two different things on LHS and RHS when <math>t</math> is used as both an initial and intermediate variable. (See Folland for details.)
 * The thing where if <math>f(x,y) = (x^2,y^2)</math> then <math>\frac{\partial f}{\partial x}(x,x)</math> feels like it might be <math>(2x,2x)</math> even though it's actually <math>(2x,0)</math>. (Example from Tao.) See also [https://issarice.com/mathematics-and-notation]
-* The thing where the total derivative for <math>n=m=1</math> "should" be a function but people treat it as a number. Refer to "Appendix A: Perorations of Dieudonne" (p. 337) in Pugh's ''Real Mathematical Analysis''.
-* Total derivative vs derivative matrix
+
+==The derivative as a linear transformation in the several variable case and a number in the single-variable case==
+
+* The thing where the total derivative for <math>n=m=1</math> "should" be a function but people treat it as a number. Refer to [https://books.google.com/books?id=2NVJCgAAQBAJ&lpg=PR1&pg=PA357 "Appendix A: Perorations of Dieudonne"] (p. 337) in Pugh's ''Real Mathematical Analysis''.
+
+==Total derivative versus derivative matrix==
+
+Technically the total derivative at a point is a linear transformation, whereas the derivative matrix is a matrix so an array of numbers arranged in a certain order. However, there is a one-to-one correspondence between linear transformations <math>\mathbf R^n \to \mathbf R^m</math> and <math>m</math> by <math>n</math> matrices, so many books call the total derivative a matrix or equate the two.
+
+A similar confusion exists in the teaching of linear algebra, where sometimes only matrices are mentioned.
 
 ==See also==
 
