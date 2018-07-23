@@ -11,7 +11,9 @@ Looking around at various proofs of the singular value decomposition, I have see
 
    And now we can proceed inductively on the linear map defined by $B$.
 
-2. The idea for the second strategy is to apply the spectral theorem to $T^*T$ or $\sqrt{T^*T}$ to get an orthonormal basis of $V$; then we define vectors in $U$ and show that it is orthonormal and has the SVD property we want.
+   I have seen this approach taken in Trefethen and Bau's _Numerical Linear Algebra_ and [this blog post](https://jeremykun.com/2016/05/16/singular-value-decomposition-part-2-theorem-proof-algorithm/ "Singular Value Decomposition Part 2: Theorem, Proof, Algorithm").
+
+2. The idea for the second strategy is to apply the spectral theorem to $T^*T$ or $\sqrt{T^*T}$ to get an orthonormal basis of $V$. Then we define vectors in $U$ and show that it is orthonormal and has the SVD property we want.
 
    We start with the observation that $T^*T$ is self-adjoint, so we can apply to spectral theorem to it, obtaining an orthonormal basis $v_1,\ldots,v_n$ consisting of eigenvectors of $T^*T$, so that $T^*Tv_j = \lambda_j v_j$ for $j\in\{1,\ldots,n\}$. Now let $u_j = \lambda_j^{-1/2}Tv_j$. Then
 
