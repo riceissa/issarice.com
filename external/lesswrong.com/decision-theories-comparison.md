@@ -1,10 +1,23 @@
+% Comparison of decision theories
+% Issa Rice
+% 2018-07-24
+
+# Comparison dimensions
+
 Some differences decision theories might have:
+
+TODO explain where the "you don't know which instance of the algorithm you are" idea fits in.
+
+## Outermost iteration
 
 * action selection vs policy selection: when your decision algorithm runs,
   does it output an action or a policy (a mapping from observations to
   actions)? From the expected utility formula of the decision theory,
   you can tell action vs policy by seeing what variable comes beneath
   the "arg max" (*a* for action selection, *f* or π for policy selection).
+
+## Updatelessness
+
 * updatelessness: before your decision algorithm returns an output,
   does it first update on the observation that it is given? If so,
   it is not updateless; if it doesn't it is updateless. This is
@@ -14,6 +27,9 @@ Some differences decision theories might have:
   updateless? In its expected utility formula, if it conditions
   on the data, i.e. the probability factor looks like Pr(...|*s*),
   where *s* is the data, then it is not updateless.
+
+## Type of counterfactual used
+
 * type of counterfactual: as your decision algorithm runs, it might
   construct hypotheticals (models of the world),
   like "if I do _this_, then _that_ happens".
@@ -30,6 +46,8 @@ Some differences decision theories might have:
 * reflective consistency ???
 * dynamic consistency??? https://intelligence.org/files/TDT.pdf
 
+# Summary table
+
 |Decision theory|Policy selection?|Updateless (veil of ignorance)?|Type of counterfactual|
 |-------------|-----------------|-------------------------------|------------------------|
 |UDT1          | no (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))             | yes                           | logical                    |
@@ -45,8 +63,38 @@ Some differences decision theories might have:
 |EDT with tickle defense | no | no? | ? |
 |Drescher's in _Good and Real_ | ? | ? | logical |
 
+# Explanations of each decision theory
+
+## UDT1
+
+$$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid )$$
+
+## UDT1.1
+
+In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
+
+$$\mathrm{UDT}_{1.1}(P,x) = \left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{UDT}_{1.1}(\underline P, \underline x) = \pi))\right)(x)$$
+
+## UDT 2
+
+iterate over algorithms?
+
+## FDT (iterate over actions)
+
+From the FDT paper:
+
+$$\mathrm{FDT}(P,G,x) = \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(V \mid \mathtt{do}({\rm {\small FDT}}(\underline P,\underline G,\underline x)=a))$$
+
+## CDT
+
+$$\begin{align}\mathrm{CDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(V \mid \mathtt{do}(\mathrm {Act} = a), \mathrm{Obs} = x) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{Outcome} = o_j \mid \mathtt{do}(\mathrm{Act} = a), \mathrm{Obs} = x)\end{align}$$
+
+## EDT
+
+$$\begin{align}\mathrm{EDT}(P,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(V \mid \mathrm {Act} = a, \mathrm{Obs} = x) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{Act} = a, \mathrm{Obs} = x)\end{align}$$
+
 I think i need to break down the idea of "updatelessness" further. My own understanding
-is that it's just whether or not your condition on the sense date inside the probability
+is that it's just whether or not you condition on the sense date inside the probability
 part of the expected utility formula. So under this interpretation, all versions of
 FDT are updateless. But Caspar uses "updateless" for anything that doesn't need
 precommitments to win Parfit's hitchhiker. Plus, if FDT is updateless, then Rob's comment
