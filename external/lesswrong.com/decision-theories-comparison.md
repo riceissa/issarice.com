@@ -96,7 +96,7 @@ In UDT1.1, instead of iterating over actions to find the best one, we iterate ov
 
 $$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)}_{\text{returns policy}}\underbrace{(x)}_{\text{calls the policy returned}}$$
 
-## UDT 2
+## UDT2
 
 iterate over algorithms?
 
@@ -130,6 +130,36 @@ FDT are updateless. But Caspar uses "updateless" for anything that doesn't need
 precommitments to win Parfit's hitchhiker. Plus, if FDT is updateless, then Rob's comment
 doesn't make sense; what are these philosophical issues around updatelessness that FDT
 doesn't need to accept?
+
+# Comparison on specific decision problems
+
+If two decision theories are actually different, there should be some decision problem where they return different answers.
+
+I think the FDT paper does a great job of distinguishing the logical-counterfactual decision theories from EDT and CDT.
+
+Table of decision problems where the decision theories specified by a row and column return different answers.
+The diagonal is blank because the decision theories are the same. The lower left triangle is blank because it repeats the entry in the mirror image (along the diagonal) spot.
+
+| |UDT1/FDT-action|UDT1.1/FDT-policy|TDT|EDT|CDT|
+|:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|UDT1/FDT-action|--|number assignment game|counter factual mugging?|smoking lesion|Newcomb's problem|
+|UDT1.1/FDT-policy|--|--|Counterfactual mugging|smoking lesion|Newcomb's problem|
+|TDT|--|--|--|Parfit's hitchhiker|Newcomb's problem|
+|EDT|--|--|--|--|Newcomb's problem, smoking lesion|
+|CDT|--|--|--|--|--|
+
+
+## Distinguishing TDT from UDT1.1
+
+curious benefactor/counterfactual mugging
+
+## Distinguishing UDT1 from UDT1.1
+
+the number assignment game in Wei Dai's UDT1.1 post.
+
+## Distinguishing TDT from UDT1
+
+
 
 # Other comparions
 
