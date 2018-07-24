@@ -72,8 +72,8 @@ then it is logical.
 |UDT2|algorithm|?|?|
 |FDT (iterate over actions)|action|yes|logical|
 |FDT (iterate over policies)|policy|yes|logical|
-|[Logical decision theory](https://arbital.com/p/logical_dt/?l=5gc)|unspecified| unspecified | logical |
-|Policy-based CDT|policy| yes, but there is a choice (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)                          | causal                    |
+|Logical decision theory|unspecified|unspecified|logical|
+|Policy-based CDT|policy|unspecified|causal|
 |TDT|action|no|logical|
 |CDT|action|no|causal|
 |EDT ("naive EDT")|action|no|conditional|
@@ -122,6 +122,14 @@ $$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \
 ## UDT2
 
 iterate over algorithms?
+
+## LDT
+
+See [arbital page](https://arbital.com/p/logical_dt/?l=5gc)
+
+## Policy-based CDT
+
+(see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)
 
 ## CDT
 
