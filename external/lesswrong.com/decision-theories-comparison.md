@@ -115,7 +115,9 @@ $$\mathrm{FDT}(P,G,x) = \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(V 
 
 In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
 
-$$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{j=1}^N u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)}_{\text{returns policy}}\underbrace{(x)}_{\text{calls the policy returned}}$$
+$$(\mathrm{UDT}_{1.1}(P,x))(x) = \left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)(x)$$
+
+On the right hand side, the large expression on the left (the part inside and including the $\operatorname{arg\,max}$) returns a policy, so to get the action we call the policy on the observation $x$.
 
 [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7):
 
