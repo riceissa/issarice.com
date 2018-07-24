@@ -4,6 +4,11 @@
 
 # Comparison dimensions
 
+My main motivation is to try to separate my understanding of TDT, UDT, and FDT.
+Before trying to work on this comparison, they all seemed similar in that they considered acausal or logical correlations.
+
+Therefore, I focus on three dimensions for this comparison that I think best differentiate between these decision theories.
+
 Some differences decision theories might have:
 
 TODO explain where the "you don't know which instance of the algorithm you are" idea fits in.
@@ -48,19 +53,19 @@ TODO explain where the "you don't know which instance of the algorithm you are" 
 
 # Summary table
 
-|Decision theory|Policy selection?|Updateless (veil of ignorance)?|Type of counterfactual|
+|Decision theory|Outermost iteration|Updateless (veil of ignorance)?|Type of counterfactual|
 |-------------|-----------------|-------------------------------|------------------------|
-|UDT1          | no (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))             | yes                           | logical                    |
-|UDT1.1        | yes (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))             | yes                           | logical                    |
-|UDT2|?|?|?|
-|FDT (iterate over actions)          | no (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))              | yes (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))                           | logical                    |
-|FDT (iterate over policies) | yes | yes (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”")) | logical |
-|[Logical decision theory](https://arbital.com/p/logical_dt/?l=5gc)| unspecified | unspecified | logical |
-|Policy-based CDT        | yes             | yes, but there is a choice (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)                          | causal                    |
-|TDT | no | no (see [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP's failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11) | logical?|
-|CDT | no | no? | causal|
-|EDT ("naive EDT") | no | no? | conditional |
-|EDT with tickle defense | no | no? | ? |
+|UDT1|action (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))             | yes                           | logical                    |
+|UDT1.1|policy (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))             | yes                           | logical                    |
+|UDT2|algorithm|?|?|
+|FDT (iterate over actions)|action (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))              | yes (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))                           | logical                    |
+|FDT (iterate over policies)|policy| yes (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”")) | logical |
+|[Logical decision theory](https://arbital.com/p/logical_dt/?l=5gc)|unspecified| unspecified | logical |
+|Policy-based CDT|policy| yes, but there is a choice (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)                          | causal                    |
+|TDT |action| no (see [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP's failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11) | logical?|
+|CDT |action| no? | causal|
+|EDT ("naive EDT") |action| no? | conditional |
+|EDT with tickle defense |action| no? | ? |
 |Drescher's in _Good and Real_ | ? | ? | logical |
 
 # Explanations of each decision theory
@@ -73,7 +78,7 @@ $$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{o_j \in
 
 In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
 
-$$\mathrm{UDT}_{1.1}(P,x) = \left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{UDT}_{1.1}(\underline P, \underline x) = \pi))\right)(x)$$
+$$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)}_{\text{returns policy}}\underbrace{(x)}_{\text{calls the policy returned}}$$
 
 ## UDT 2
 
@@ -101,8 +106,9 @@ precommitments to win Parfit's hitchhiker. Plus, if FDT is updateless, then Rob'
 doesn't make sense; what are these philosophical issues around updatelessness that FDT
 doesn't need to accept?
 
-## See also
+# Other comparions
 
 * https://www.greaterwrong.com/posts/cWEhuXQBxRwxmhER5/decision-theoretic-problems-and-theories-an-incomplete
 * https://casparoesterheld.com/a-comprehensive-list-of-decision-theories/ My motivation is different from Caspar's; I mainly want to distinguish between all the UDTs, TDT, and FDT, so my columns are chosen in a way so as to differentiate between these DTs.
+* Hintze's paper
 
