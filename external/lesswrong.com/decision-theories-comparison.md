@@ -95,7 +95,7 @@ logical counterfactual aspect.
 
 [UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)
 
-$$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid )$$
+$$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{j=1}^N u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid )$$
 
 From the FDT paper:
 
@@ -115,7 +115,7 @@ $$\mathrm{FDT}(P,G,x) = \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(V 
 
 In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
 
-$$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)}_{\text{returns policy}}\underbrace{(x)}_{\text{calls the policy returned}}$$
+$$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{j=1}^N u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)}_{\text{returns policy}}\underbrace{(x)}_{\text{calls the policy returned}}$$
 
 [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7):
 
@@ -142,11 +142,11 @@ See [arbital page](https://arbital.com/p/logical_dt/?l=5gc)
 
 ## CDT
 
-$$\begin{align}\mathrm{CDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(V \mid \mathtt{do}(\mathrm {Act} = a), \mathrm{Obs} = x) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{Outcome} = o_j \mid \mathtt{do}(\mathrm{Act} = a), \mathrm{Obs} = x)\end{align}$$
+$$\begin{align}\mathrm{CDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathtt{do}(\mathrm{A\small CT}=a), \mathrm{O\small BS} = x) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{j=1}^N u(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathtt{do}(\mathrm{A\small CT}=a), \mathrm{O\small BS} = x)\end{align}$$
 
 ## EDT
 
-$$\begin{align}\mathrm{EDT}(P,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(V \mid \mathrm {Act} = a, \mathrm{Obs} = x) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{Act} = a, \mathrm{Obs} = x)\end{align}$$
+$$\begin{align}\mathrm{EDT}(P,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathrm{O\small BS} = x, \mathrm{A\small CT}=a) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{O\small BS} = x, \mathrm{A\small CT}=a)\end{align}$$
 
 I think i need to break down the idea of "updatelessness" further. My own understanding
 is that it's just whether or not you condition on the sense date inside the probability
