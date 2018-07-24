@@ -31,20 +31,28 @@ does it first update on the observation that it is given? If so,
 it is not updateless; if it doesn't it is updateless. This is
 similar to how in Rawls's "veil of ignorance", you must pick your
 moral principles, societal policies, etc., before you find out who
-you are in the world. How can you tell if a decision theory is
+you are in the world.
+
+How can you tell if a decision theory is
 updateless? In its expected utility formula, if it conditions
-on the data, i.e. the probability factor looks like Pr(...|*s*),
-where *s* is the data, then it is not updateless.
+on the data, i.e. the probability factor looks like
+$P(\ldots\mid \ldots, \mathrm{O\small BS} = x)$,
+where $x$ is the observation, then it is not updateless.
 
 ## Type of counterfactual
 
 type of counterfactual used: as your decision algorithm runs, it might
 construct hypotheticals (models of the world),
 like "if I do _this_, then _that_ happens".
+
 In the expected utility formula, if the probability factor
-looks like Pr(...|Obs=x, Act=a) then it is evidential;
-if it looks like Pr(...|Obs=x, do(Act=a)) then it is causal;
-if it looks like Pr(...|do(FDT(...)=a) then it is logical. (?)
+looks like
+$P(\ldots\mid\ldots, \mathrm{A \small CT}=a)$ then it is evidential;
+if it looks like $P(\ldots \mid \ldots, \mathtt{do}(\mathrm{A\small CT}=a))$ then it is causal;
+if it looks like $P(\ldots \mid\ldots, \mathtt{do}(\mathrm{\small FDT}(\ldots)=a))$
+or $P(\ldots \mid\ldots, \mathtt{true}(\mathrm{\small FDT}(\ldots)=a))$
+(in some notations, $P(\ulcorner \mathrm{\small FDT}(\ldots)=a)\urcorner \mathbin{\Box\!\!\!\to} \ldots \mid\ldots$ or $P(\ulcorner \mathrm{\small FDT}(\ldots)=a)\urcorner \triangleright \ldots \mid\ldots$)
+then it is logical.
 
 ## Other dimensions that I ignore
 
