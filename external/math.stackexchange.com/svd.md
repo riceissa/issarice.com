@@ -15,11 +15,15 @@ Looking around at various proofs of the singular value decomposition, I have see
 
 2. The idea for the second strategy is to apply the spectral theorem to $T^*T$ or $\sqrt{T^*T}$ to get an orthonormal basis of $V$. Then we define vectors in $U$ and show that it is orthonormal and has the SVD property we want.
 
-   We start with the observation that $T^*T$ is self-adjoint, so we can apply to spectral theorem to it, obtaining an orthonormal basis $v_1,\ldots,v_n$ consisting of eigenvectors of $T^*T$, so that $T^*Tv_j = \lambda_j v_j$ for $j\in\{1,\ldots,n\}$. Now let $u_j = \lambda_j^{-1/2}Tv_j$. Then
+   We start with the observation that $T^*T$ is self-adjoint, so we can apply the spectral theorem to it, obtaining an orthonormal basis $v_1,\ldots,v_n$ consisting of eigenvectors of $T^*T$, so that $T^*Tv_j = \lambda_j v_j$ for $j\in\{1,\ldots,n\}$. Now let $u_j = \lambda_j^{-1/2}Tv_j$. Then
 
    $$\begin{align}\langle u_j,u_k\rangle &= \lambda_j^{-1/2}\lambda_k^{-1/2}\langle Tv_j,Tv_k \rangle \\ &= \lambda_j^{-1/2}\lambda_k^{-1/2}\langle T^*Tv_j,v_k \rangle \\ &= \lambda_j^{1/2}\lambda_k^{-1/2}\langle v_j,v_k \rangle \end{align}$$
 
    so that if $j\neq k$ then $\langle u_j,u_k\rangle = 0$ and if $j=k$ then $\langle u_j,u_k\rangle = 1$. This shows that $u_1,\ldots,u_m$ are orthonormal.
+
+   I've seen this approach taken in Axler's _Linear Algebra Done Right_ and Roman's _Advanced Linear Algebra_.
+
+(The only place I've seen that talks about both approaches is [this post](https://qchu.wordpress.com/2017/03/13/singular-value-decomposition/ "Singular value decomposition") by Qiaochu Yuan.)
 
 My general aim is to try to reconcile these two approaches. But more specifically, my question is, how is the second approach able to find these maximal stretching vectors $v_1,\ldots,v_n$ (my understanding is that the SVD is unique up to )? It is even able to do this without using compactness. It is the spectral theorem that finds the basis $v_1,\ldots,v_n$, and looking at Axler's _Linear Algebra Done Right_ (third edition), this is found using Schur's theorem (6.38 in the book), which uses 6.37, which applies the Gram--Schmidt procedure to the basis of the upper-triangular matrix.
 
