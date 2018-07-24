@@ -67,18 +67,18 @@ then it is logical.
 
 |Decision theory|Outermost iteration|Updateless|Type of counterfactual|
 |-------------|-----------------|-------------------------------|------------------------|
-|UDT1|action (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))             | yes                           | logical                    |
-|UDT1.1|policy (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))             | yes                           | logical                    |
+|UDT1|action|yes|logical|
+|UDT1.1|policy|yes|logical|
 |UDT2|algorithm|?|?|
-|FDT (iterate over actions)|action (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))              | yes (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))                           | logical                    |
-|FDT (iterate over policies)|policy| yes (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”")) | logical |
+|FDT (iterate over actions)|action|yes|logical|
+|FDT (iterate over policies)|policy|yes|logical|
 |[Logical decision theory](https://arbital.com/p/logical_dt/?l=5gc)|unspecified| unspecified | logical |
 |Policy-based CDT|policy| yes, but there is a choice (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)                          | causal                    |
-|TDT |action| no (see [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP's failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11) | logical?|
-|CDT |action| no? | causal|
-|EDT ("naive EDT") |action| no? | conditional |
-|EDT with tickle defense |action| no? | ? |
-|Drescher's in _Good and Real_ | ? | ? | logical |
+|TDT|action|no|logical|
+|CDT|action|no|causal|
+|EDT ("naive EDT")|action|no|conditional|
+|EDT with tickle defense|action|no?|?|
+|Drescher's in _Good and Real_ |?|?|logical|
 
 # Explanations of each decision theory
 
@@ -92,9 +92,17 @@ From the FDT paper:
 
 $$\mathrm{FDT}(P,G,x) = \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(V \mid \mathtt{do}({\rm {\small FDT}}(\underline P,\underline G,\underline x)=a))$$
 
+(see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
+
+(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
+
 ## UDT1.1 and FDT (iterate over policies)
 
 [UDT1.1](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/), [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
+
+(see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
+
+(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
 
 In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
 
@@ -106,6 +114,10 @@ $$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \
 > *policies* (mappings from observations to actions) rather than actions. This
 > makes a difference in certain multi-agent dilemmas, but will not make a
 > difference in this paper.
+
+## TDT
+
+(see [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP's failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11)
 
 ## UDT2
 
