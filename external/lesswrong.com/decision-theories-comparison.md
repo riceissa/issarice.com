@@ -82,7 +82,16 @@ then it is logical.
 
 # Explanations of each decision theory
 
+This section elaborates on the comparison above by giving an explicit expected value formula for each decision theory and explaining why each cell in the table takes that particular value.
+
 ## UDT1 and FDT (iterate over actions)
+
+I will describe UDT1 and FDT's action variant together, because I think they
+give the same decisions. The main differences between the two seem to be (1)
+the way they are formalized, where FDT uses graphical models and UDT1 uses some
+kind of non-graphical mathematical intuition module (or something); and (2) the
+naming, where UDT1 emphasizes the "updateless" aspect and FDT emphasizes the
+logical counterfactual aspect.
 
 [UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)
 
