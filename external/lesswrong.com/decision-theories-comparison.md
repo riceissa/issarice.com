@@ -69,7 +69,7 @@ then it is logical.
 |-------------|-----------------|-------------------------------|------------------------|
 |UDT1|action|yes|logical|
 |UDT1.1|policy|yes|logical|
-|UDT2|algorithm|?|?|
+|UDT2|algorithm|yes|logical|
 |FDT (iterate over actions)|action|yes|logical|
 |FDT (iterate over policies)|policy|yes|logical|
 |Logical decision theory|unspecified|unspecified|logical|
