@@ -63,7 +63,7 @@ then it is logical.
 * reflective consistency ???
 * dynamic consistency??? https://intelligence.org/files/TDT.pdf
 
-# Summary table
+# Comparison table along the given dimensions
 
 |Decision theory|Outermost iteration|Updateless|Type of counterfactual|
 |-------------|-----------------|-------------------------------|------------------------|
@@ -82,13 +82,17 @@ then it is logical.
 
 # Explanations of each decision theory
 
-## UDT1
+## UDT1 and FDT (iterate over actions)
 
 [UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)
 
 $$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid )$$
 
-## UDT1.1
+From the FDT paper:
+
+$$\mathrm{FDT}(P,G,x) = \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(V \mid \mathtt{do}({\rm {\small FDT}}(\underline P,\underline G,\underline x)=a))$$
+
+## UDT1.1 and FDT (iterate over policies)
 
 [UDT1.1](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/), [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
 
@@ -96,24 +100,16 @@ In UDT1.1, instead of iterating over actions to find the best one, we iterate ov
 
 $$\mathrm{UDT}_{1.1}(P,x) = \underbrace{\left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)}_{\text{returns policy}}\underbrace{(x)}_{\text{calls the policy returned}}$$
 
-## UDT2
-
-iterate over algorithms?
-
-## FDT (iterate over actions)
-
-From the FDT paper:
-
-$$\mathrm{FDT}(P,G,x) = \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(V \mid \mathtt{do}({\rm {\small FDT}}(\underline P,\underline G,\underline x)=a))$$
-
-## FDT (iterate over policies)
-
 [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7):
 
 > In the authors' preferred formalization of FDT, agents actually iterate over
 > *policies* (mappings from observations to actions) rather than actions. This
 > makes a difference in certain multi-agent dilemmas, but will not make a
 > difference in this paper.
+
+## UDT2
+
+iterate over algorithms?
 
 ## CDT
 
