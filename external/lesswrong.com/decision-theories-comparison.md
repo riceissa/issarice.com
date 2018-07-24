@@ -7,11 +7,7 @@
 My main motivation is to try to separate my understanding of TDT, UDT, and FDT.
 Before trying to work on this comparison, they all seemed similar in that they considered acausal or logical correlations.
 
-Therefore, I focus on three dimensions for this comparison that I think best differentiate between these decision theories.
-
-Some differences decision theories might have:
-
-TODO explain where the "you don't know which instance of the algorithm you are" idea fits in.
+Therefore, I focus on three dimensions for comparison that I think best differentiate between these decision theories.
 
 ## Outermost iteration
 
@@ -32,6 +28,8 @@ it is not updateless; if it doesn't it is updateless. This is
 similar to how in Rawls's "veil of ignorance", you must pick your
 moral principles, societal policies, etc., before you find out who
 you are in the world.
+
+I think updatelessness is the same as being [uncertain about where your decision algorithm is](http://acritch.com/deserving-trust/#grokking) because you are "ignoring" your observation by not conditioning on it.
 
 How can you tell if a decision theory is
 updateless? In its expected utility formula, if it conditions
@@ -86,9 +84,13 @@ then it is logical.
 
 ## UDT1
 
+[UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)
+
 $$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{o_j \in \mathcal O} u(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid )$$
 
 ## UDT1.1
+
+[UDT1.1](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/), [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
 
 In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
 
@@ -103,6 +105,15 @@ iterate over algorithms?
 From the FDT paper:
 
 $$\mathrm{FDT}(P,G,x) = \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(V \mid \mathtt{do}({\rm {\small FDT}}(\underline P,\underline G,\underline x)=a))$$
+
+## FDT (iterate over policies)
+
+[FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7):
+
+> In the authors' preferred formalization of FDT, agents actually iterate over
+> *policies* (mappings from observations to actions) rather than actions. This
+> makes a difference in certain multi-agent dilemmas, but will not make a
+> difference in this paper.
 
 ## CDT
 
