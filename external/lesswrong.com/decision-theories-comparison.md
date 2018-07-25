@@ -16,7 +16,8 @@ have.
 
 ## Value-added
 
-There are some other comparisons of decision theories, but they either (1)
+There are some other comparisons of decision theories (see the "Other comparions" section),
+but they either (1)
 don't focus on logical-counterfactual decision theories; or (2) are outdated
 (written before the new functional/logical decision theory terms came about).
 
@@ -25,6 +26,14 @@ decision theories, and feeling like I understood the basic ideas, I still
 remained highly confused about basic things like "How is UDT different from
 FDT?", "Why was TDT deprecated?", and "If TDT performs worse than FDT, then
 what's one decision problem where they give different outputs?"
+This post hopes to clarify these and other questions by emphasizing:
+
+* somewhat pedantic notation,
+* tabular presentation,
+* explicit expected utility formulas, and
+* my own uncertainties.
+
+None of the decision theory material in this post is novel.
 
 ## Notation
 
