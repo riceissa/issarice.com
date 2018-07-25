@@ -323,7 +323,16 @@ the number assignment game in Wei Dai's UDT1.1 post.
 
 # Other comparions
 
-* https://www.greaterwrong.com/posts/cWEhuXQBxRwxmhER5/decision-theoretic-problems-and-theories-an-incomplete
-* https://casparoesterheld.com/a-comprehensive-list-of-decision-theories/ My motivation is different from Caspar's; I mainly want to distinguish between all the UDTs, TDT, and FDT, so my columns are chosen in a way so as to differentiate between these DTs.
-* Hintze's paper
-
+* [“Decision-theoretic problems and Theories; An (Incomplete) comparative list”](https://www.lesswrong.com/posts/cWEhuXQBxRwxmhER5/decision-theoretic-problems-and-theories-an-incomplete) by somervta.
+  This list is useful and modern but doesn't distinguish the different versions of UDT and FDT.
+* [“A comprehensive list of decision
+  theories”](https://casparoesterheld.com/a-comprehensive-list-of-decision-theories/)
+  by Caspar Oesterheld and/or Johannes Treutlein. I think my motivation is
+  different from that of the author(s) of this list; I mainly want to
+  distinguish between all the UDTs, TDT, and FDT, so my tables and columns of
+  those tables are chosen in a way so as to distinguish between these decision
+  theories.
+* [“Problem Class Dominance in Predictive
+  Dilemmas”](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
+  by Daniel Hintze. This paper is from 2014 so doesn't include the FDT/LDT
+  terminology, and also doesn't include the various versions of UDT.
