@@ -6,9 +6,28 @@
 
 ## Notation
 
+I mostly use notation taken from the FDT paper because I find it clearest. I use some of the other notational variants to highlight correspondences.
+
+Throughout this post, let:
+
+* $\mathcal A$ be a set of actions
+* $\mathcal O$ be a set of outcomes
+* $\mathcal X$ be a set of observations
+* $\mathcal U\colon \mathcal O \to \mathbb R$ be a utility function
+* $\Pi$ be a set of policies
+* $\pi\colon \mathcal O \to \mathcal A$ be a policy
+* $\Omega$ be some underlying sample space
+* $\mathrm{O\small UTCOME} \colon \Omega \to \mathcal O$ be an outcome-valued random variable
+* $\mathrm{A\small CT} \colon \Omega \to \mathcal A$ be an action-valued random variable
+* $\mathrm{O\small BS} \colon \Omega \to \mathcal X$ be an observation-valued random variable
+
+The expected value is denoted by $\mathbb E$.
+
 ## Value-added
 
-
+There are some other comparisons of decision theories, but they either (1)
+don't focus on logical-counterfactual decision theories; or (2) are outdated
+(written before the new functional/logical decision theory terms came about).
 
 # Comparison dimensions
 
