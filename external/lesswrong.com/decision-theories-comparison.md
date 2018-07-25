@@ -189,7 +189,7 @@ However, it doesn't distinguish between different logical-counterfactual decisio
 
 The following is a table that shows the disagreements between decision theories.
 For each pair of decision theories specified by a row and column, the decision problem named in the cell is one where the decision theories return different answers.
-The diagonal is blank because the decision theories are the same. The lower left triangle is blank because it repeats the entry in the mirror image (along the diagonal) spot.
+The diagonal is blank because the decision theories are the same. The lower left triangle is blank because it repeats the entries in the mirror image (along the diagonal) spots.
 
 | |UDT1/FDT-action|UDT1.1/FDT-policy|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
