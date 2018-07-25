@@ -105,26 +105,48 @@ One exception to the above is UDT2, which seems to iterate over *algorithms*.
 
 ## Updatelessness
 
-updatelessness: before your decision algorithm returns an output,
-does it first update on the observation that it is given? If so,
-it is not updateless; if it doesn't it is updateless. This is
-similar to how in Rawls's "veil of ignorance", you must pick your
-moral principles, societal policies, etc., before you find out who
-you are in the world.
+In some decision problems, the agent makes an observation, and has the choice
+of updating on this observation before acting. Two examples of this are: in
+counterfactual mugging, where the agent makes the observation that the coin has
+come up tails; and in the transparent box Newcomb's problem, where the agent
+sees whether the big box is full or empty.
 
-I think updatelessness is the same as being [uncertain about where your decision algorithm is](http://acritch.com/deserving-trust/#grokking) because you are "ignoring" your observation by not conditioning on it.
+If the decision algorithm updates on the observation, it is *updateful* (or
+"not updateless"). If it doesn't update on the observation, it is
+*updateless*.
+
+This idea is similar to how in Rawls's "[veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)", you must pick your
+moral principles, societal policies, etc., before you find out who
+you are in the world or as if you don't know who you are in the world.
 
 How can you tell if a decision theory is
 updateless? In its expected utility formula, if it conditions
-on the data, i.e. the probability factor looks like
+on the observation, it is updateful. In this case
+the probability factor looks like
 $P(\ldots\mid \ldots, \mathrm{O\small BS} = x)$,
-where $x$ is the observation, then it is not updateless.
+where $x$ is the observation.
+If a decision theory is updateless, the conditioning on
+“$\mathrm{O\small BS} = x$” should be absent.
+Note that updatelessness only makes a difference in decision problems that
+have observations.
+
+I think updatelessness is the same as being [uncertain about where your decision algorithm is](http://acritch.com/deserving-trust/#grokking) because you are "ignoring" your observation by not conditioning on it.
 
 ## Type of counterfactual
 
-type of counterfactual used: as your decision algorithm runs, it might
-construct hypotheticals (models of the world),
-like "if I do _this_, then _that_ happens".
+In the course of reasoning about a decision problem, the agent
+can construct counterfactuals or hypotheticals like "if I do *this*,
+then *that* happens". There are several different kinds of counterfactuals,
+and decision theories are divided among them.
+
+The three types of counterfactuals that will concern us are:
+
+* Causal.
+* Conditional/evidential.
+* Logical.
+
+The distinctions between these are explained clearly in the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf)
+so I recommend reading that.
 
 In the expected utility formula, if the probability factor
 looks like
@@ -150,6 +172,8 @@ I have seen the logical counterfactual written in many ways:
 * dynamic consistency??? https://intelligence.org/files/TDT.pdf
 
 # Comparison table along the given dimensions
+
+Given the comparison dimensions above, the decision theories can be summarized as follows:
 
 |Decision theory|Outermost iteration|Updateless|Type of counterfactual|
 |-------------|-----------------|-------------------------------|------------------------|
