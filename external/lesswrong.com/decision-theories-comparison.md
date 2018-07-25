@@ -4,6 +4,28 @@
 
 # Introduction
 
+This post is a comparison of various existing decision theories, with a focus
+on decision theories that use logical counterfactuals. The post compares the
+decision theories along outermost iteration (action vs policy vs algorithm),
+updatelessness (updateless or updateful), and type of counterfactual used
+(causal, conditional, logical). It then explains each decision theory in more
+detail, in particular giving an expected utility formula. The post then gives
+examples of specific existing decision problems where the decision theories
+give different answers. The post concludes with some remaining questions that I
+have.
+
+## Value-added
+
+There are some other comparisons of decision theories, but they either (1)
+don't focus on logical-counterfactual decision theories; or (2) are outdated
+(written before the new functional/logical decision theory terms came about).
+
+More viscerally, after reading through a bunch of papers and posts about these
+decision theories, and feeling like I understood the basic ideas, I still
+remained highly confused about basic things like "How is UDT different from
+FDT?", "Why was TDT deprecated?", and "If TDT performs worse than FDT, then
+what's one decision problem where they give different outputs?"
+
 ## Notation
 
 I mostly use notation taken from the FDT paper because I find it clearest. I use some of the other notational variants to highlight correspondences.
@@ -13,7 +35,7 @@ Throughout this post, let:
 * $\mathcal A$ be a set of actions
 * $\mathcal O$ be a set of outcomes
 * $\mathcal X$ be a set of observations
-* $\mathcal U\colon \mathcal O \to \mathbb R$ be a utility function
+* $\mathcal U\colon \mathcal O \to \mathbb R$ be a real-valued utility function
 * $\Pi$ be a set of policies
 * $\pi\colon \mathcal O \to \mathcal A$ be a policy
 * $\Omega$ be some underlying sample space
@@ -22,12 +44,6 @@ Throughout this post, let:
 * $\mathrm{O\small BS} \colon \Omega \to \mathcal X$ be an observation-valued random variable
 
 The expected value is denoted by $\mathbb E$.
-
-## Value-added
-
-There are some other comparisons of decision theories, but they either (1)
-don't focus on logical-counterfactual decision theories; or (2) are outdated
-(written before the new functional/logical decision theory terms came about).
 
 # Comparison dimensions
 
