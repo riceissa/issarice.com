@@ -49,7 +49,7 @@ Gary Drescher's [*Good and Real*](https://www.gwern.net/docs/statistics/decision
 the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf),
 ["Cheating Death in Damascus"](https://intelligence.org/files/DeathInDamascus.pdf), and
 ["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf), and understanding
-what Wei Dai calls "decision theoretic thinking" (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf)).
+what Wei Dai calls "decision theoretic thinking" (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf) and [this comment](https://www.lesswrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver#Hrtu69eAh86KFNgBC)).
 I think a lot of (especially old) content on decision theory is confusingly
 written or unfriendly to beginners, and would recommend skipping around to find
 explanations that "click".
@@ -130,7 +130,13 @@ If a decision theory is updateless, the conditioning on
 Note that updatelessness only makes a difference in decision problems that
 have observations.
 
+on uncertainty about where you are:
+
 I think updatelessness is the same as being [uncertain about where your decision algorithm is](http://acritch.com/deserving-trust/#grokking) because you are "ignoring" your observation by not conditioning on it.
+
+https://www.lesswrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers#BrWSWrwaategHEkvh -- when stated like this, it sounds more like logical counterfactuals...
+
+this explanation also emphasizes this: https://www.lesswrong.com/posts/zztyZ4SKy7suZBpbk/another-attempt-to-explain-udt
 
 ## Type of counterfactual
 
@@ -205,6 +211,8 @@ logical counterfactual aspect.
 
 [UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)
 
+also see https://casparoesterheld.files.wordpress.com/2017/08/updateless_decision_theory-1.pdf
+
 $$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid )$$
 
 From the FDT paper:
@@ -218,6 +226,8 @@ $$\begin{align}\mathrm{FDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in \mathcal A
 ## UDT1.1 and FDT (iterate over policies)
 
 [UDT1.1](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/), [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
+
+also see https://casparoesterheld.files.wordpress.com/2017/08/updateless_decision_theory-1.pdf
 
 (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
 
