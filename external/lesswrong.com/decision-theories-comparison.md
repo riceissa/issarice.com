@@ -360,3 +360,4 @@ useful, along with reasons why I felt the current post was needed.
   Dilemmas”](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
   by Daniel Hintze. This paper is from 2014 so doesn't include the FDT/LDT
   terminology, and also doesn't include the various versions of UDT.
+* [“Timeline of decision theory”](https://timelines.issarice.com/wiki/Timeline_of_decision_theory). This is an incomplete timeline I've been working on sporadically. It gives a chronological ordering of some decision theories and decision problems.
