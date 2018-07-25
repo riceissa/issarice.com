@@ -191,12 +191,12 @@ The following is a table that shows the disagreements between decision theories.
 For each pair of decision theories specified by a row and column, the decision problem named in the cell is one where the decision theories return different answers.
 The diagonal is blank because the decision theories are the same. The lower left triangle is blank because it repeats the entries in the mirror image (along the diagonal) spots.
 
-| |UDT1/FDT-action|UDT1.1/FDT-policy|TDT|EDT|CDT|
+| |UDT1.1/FDT-policy|UDT1/FDT-action|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|UDT1/FDT-action|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in)|counter factual mugging?|[Smoking lesion](https://wiki.lesswrong.com/wiki/Smoking_lesion)|Newcomb's problem|
-|UDT1.1/FDT-policy|--|--|Counterfactual mugging|Smoking lesion|Newcomb's problem|
-|TDT|--|--|--|Parfit's hitchhiker|Newcomb's problem|
-|EDT|--|--|--|--|Newcomb's problem, smoking lesion|
+|UDT1.1/FDT-policy|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (UDT1 gets no reward, UDT1.1 gets the reward)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (TDT doesn't pay, UDT1.1 pays)|[Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT doesn't pay, UDT1.1 pays)|[Newcomb's problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
+|UDT1/FDT-action|--|--|counterfactual mugging? (TDT doesn't pay, UDT1 pays?)|Parfit's hitchhiker (EDT doesn't pay, UDT1 pays)|Newcomb's problem (CDT two-boxes, UDT1 one-boxes)|
+|TDT|--|--|--|Parfit's hitchhiker (EDT doesn't pay, TDT pays)|Newcomb's problem (CDT two-boxes, TDT one-boxes)|
+|EDT|--|--|--|--|Newcomb's problem (CDT two-boxes, EDT one-boxes)|
 |CDT|--|--|--|--|--|
 
 
