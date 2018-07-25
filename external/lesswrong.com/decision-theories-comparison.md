@@ -238,9 +238,21 @@ On the right hand side, the large expression on the left (the part inside and in
 
 ## TDT
 
-(see [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP's failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11)
+My understanding of TDT is mainly from
+[Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf).
+I am aware of the [TDT paper](https://intelligence.org/files/TDT.pdf) and skimmed it a while back,
+but did not revisit it in the course of writing this post.
+
+[Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP's failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11
 
 $$\mathrm{TDT}(P,x) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{O\small BS}=x, \mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a))$$
+
+TDT performs action selection as can be seen from the “$\operatorname*{arg\,max}_{a\in\mathcal A}$”.
+It is updateful because the probability factor looks like
+$P(\ldots \mid \mathrm{O\small BS}=x, \ldots)$, i.e. it conditions on
+$\mathrm{O\small BS}=x$.
+It uses logical counterfactuals because of the
+$\mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a)$.
 
 ## UDT2
 
