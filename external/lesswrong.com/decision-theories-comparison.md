@@ -8,8 +8,8 @@ This post is a comparison of various existing decision theories, with a focus
 on decision theories that use logical counterfactuals. The post compares the
 decision theories along outermost iteration (action vs policy vs algorithm),
 updatelessness (updateless or updateful), and type of counterfactual used
-(causal, conditional, logical). It then explains each decision theory in more
-detail, in particular giving an expected utility formula. The post then gives
+(causal, conditional, logical). It then explains the decision theories in more
+detail, in particular giving an expected utility formula for each. The post then gives
 examples of specific existing decision problems where the decision theories
 give different answers. The post concludes with some remaining questions that I
 have.
@@ -36,11 +36,12 @@ This post hopes to clarify these and other questions by emphasizing:
 None of the decision theory material in this post is novel.
 
 This post is intended for people who are similarly confused about the
-differences between TDT, UDT, FDT, and LDT. In terms of background assumed,
+differences between TDT, UDT, FDT, and LDT. In terms of reader background assumed,
 it would be good to know the statements to some standard decision theory
 problems (Newcomb's problem, smoking lesion, Parfit's hitchhiker, transparent
 box Newcomb's problem, counterfactual mugging) and the "correct" answers to
-them.
+them, and having enough background in math to understand the expected utility
+formulas.
 
 If you don't have the background, I would recommend reading
 chapters 5 and 6 of
@@ -55,7 +56,9 @@ explanations that "click".
 
 ## Notation
 
-I mostly use notation taken from the FDT paper because I find it clearest. I use some of the other notational variants to highlight correspondences.
+I mostly use notation taken from the [FDT
+paper](https://arxiv.org/pdf/1710.05060.pdf) because I find it clearest. I use
+some of the other notational variants to highlight correspondences.
 
 Throughout this post, let:
 
