@@ -50,10 +50,10 @@ if it looks like $P(\ldots \mid \ldots, \mathtt{do}(\mathrm{A\small CT}=a))$ the
 
 I have seen the logical counterfactual written in many ways:
 
-* $P(\ldots \mid\ldots, \mathtt{do}(\mathrm{\small FDT}(\ldots)=a))$
-* $P(\ldots \mid\ldots, \mathtt{true}(\mathrm{\small FDT}(\ldots)=a))$
-* $P(\ulcorner \mathrm{\small FDT}(\ldots)=a\urcorner \mathbin{\Box\!\!\!\to} \ldots \mid\ldots)$
-* $P(\ulcorner \mathrm{\small FDT}(\ldots)=a\urcorner \triangleright \ldots \mid\ldots)$
+* $P(\ldots \mid\ldots, \mathtt{do}(\mathrm{\small FDT}(\ldots)=\ldots))$ e.g. in the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf)
+* $P(\ldots \mid\ldots, \mathtt{true}(\mathrm{\small FDT}(\ldots)=\ldots))$ e.g. in the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf)
+* $P(\ulcorner \mathrm{\small FDT}(\ldots)=\ldots\urcorner \mathbin{\Box\!\!\!\to} \ldots \mid\ldots)$ e.g. in [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf), p. 4
+* $P(\ulcorner \mathrm{\small FDT}(\ldots)=\ldots\urcorner \triangleright \ldots \mid\ldots)$ e.g. on [Arbital](https://arbital.com/p/logical_dt/?l=5d6)
 
 ## Other dimensions that I ignore
 
