@@ -193,8 +193,8 @@ The diagonal is blank because the decision theories are the same. The lower left
 
 | |UDT1/FDT-action|UDT1.1/FDT-policy|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|UDT1/FDT-action|--|number assignment game|counter factual mugging?|smoking lesion|Newcomb's problem|
-|UDT1.1/FDT-policy|--|--|Counterfactual mugging|smoking lesion|Newcomb's problem|
+|UDT1/FDT-action|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in)|counter factual mugging?|[Smoking lesion](https://wiki.lesswrong.com/wiki/Smoking_lesion)|Newcomb's problem|
+|UDT1.1/FDT-policy|--|--|Counterfactual mugging|Smoking lesion|Newcomb's problem|
 |TDT|--|--|--|Parfit's hitchhiker|Newcomb's problem|
 |EDT|--|--|--|--|Newcomb's problem, smoking lesion|
 |CDT|--|--|--|--|--|
