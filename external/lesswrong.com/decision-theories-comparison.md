@@ -47,10 +47,13 @@ In the expected utility formula, if the probability factor
 looks like
 $P(\ldots\mid\ldots, \mathrm{A \small CT}=a)$ then it is evidential;
 if it looks like $P(\ldots \mid \ldots, \mathtt{do}(\mathrm{A\small CT}=a))$ then it is causal;
-if it looks like $P(\ldots \mid\ldots, \mathtt{do}(\mathrm{\small FDT}(\ldots)=a))$
-or $P(\ldots \mid\ldots, \mathtt{true}(\mathrm{\small FDT}(\ldots)=a))$
-(in some notations, $P(\ulcorner \mathrm{\small FDT}(\ldots)=a)\urcorner \mathbin{\Box\!\!\!\to} \ldots \mid\ldots$ or $P(\ulcorner \mathrm{\small FDT}(\ldots)=a)\urcorner \triangleright \ldots \mid\ldots$)
-then it is logical.
+
+I have seen the logical counterfactual written in many ways:
+
+* $P(\ldots \mid\ldots, \mathtt{do}(\mathrm{\small FDT}(\ldots)=a))$
+* $P(\ldots \mid\ldots, \mathtt{true}(\mathrm{\small FDT}(\ldots)=a))$
+* $P(\ulcorner \mathrm{\small FDT}(\ldots)=a\urcorner \mathbin{\Box\!\!\!\to} \ldots \mid\ldots)$
+* $P(\ulcorner \mathrm{\small FDT}(\ldots)=a\urcorner \triangleright \ldots \mid\ldots)$
 
 ## Other dimensions that I ignore
 
