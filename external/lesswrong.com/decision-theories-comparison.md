@@ -185,8 +185,10 @@ doesn't need to accept?
 If two decision theories are actually different, there should be some decision problem where they return different answers.
 
 I think the FDT paper does a great job of distinguishing the logical-counterfactual decision theories from EDT and CDT.
+However, it doesn't distinguish between different logical-counterfactual decision theories.
 
-Table of decision problems where the decision theories specified by a row and column return different answers.
+The following is a table that shows the disagreements between decision theories.
+For each pair of decision theories specified by a row and column, the decision problem named in the cell is one where the decision theories return different answers.
 The diagonal is blank because the decision theories are the same. The lower left triangle is blank because it repeats the entry in the mirror image (along the diagonal) spot.
 
 | |UDT1/FDT-action|UDT1.1/FDT-policy|TDT|EDT|CDT|
