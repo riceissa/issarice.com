@@ -49,6 +49,9 @@ the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf),
 ["Cheating Death in Damascus"](https://intelligence.org/files/DeathInDamascus.pdf), and
 ["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf), and understanding
 what Wei Dai calls "decision theoretic thinking" (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf)).
+I think a lot of (especially old) content on decision theory is confusingly
+written or unfriendly to beginners, and would recommend skipping around to find
+explanations that "click".
 
 ## Notation
 
