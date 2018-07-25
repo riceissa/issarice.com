@@ -2,6 +2,14 @@
 % Issa Rice
 % 2018-07-24
 
+# Introduction
+
+## Notation
+
+## Value-added
+
+
+
 # Comparison dimensions
 
 My main motivation is to try to separate my understanding of TDT, UDT, and FDT.
@@ -210,7 +218,9 @@ the number assignment game in Wei Dai's UDT1.1 post.
 
 ## Distinguishing TDT from UDT1
 
+# Remaining questions
 
+* does policy selection imply updatelessness?
 
 # Other comparions
 
