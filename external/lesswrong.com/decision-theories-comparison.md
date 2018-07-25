@@ -151,7 +151,14 @@ LDT seems to be an umbrella decision theory that only requires the use of
 logical counterfactuals, leaving the iteration type and updatelessness
 unspecified. So my understanding is that UDT1, UDT1.1, UDT2, FDT, and TDT are
 all logical decision theories.
-See [this Arbital page](https://arbital.com/p/logical_dt/?l=5gc) for more.
+See [this Arbital page](https://arbital.com/p/logical_dt/?l=5gc), which says:
+
+> "Logical decision theories" are really a family of recently proposed decision
+> theories, none of which stands out as being clearly ahead of the others in
+> all regards, but which are allegedly all better than causal decision theory.
+
+The page also calls TDT a logical decision theory (listed under "non-general
+but useful logical decision theories").
 
 ## Policy-based CDT
 
