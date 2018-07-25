@@ -147,7 +147,11 @@ policies, and I am assuming it didn't abandon updatelessness and logical counter
 
 ## LDT
 
-See [arbital page](https://arbital.com/p/logical_dt/?l=5gc)
+LDT seems to be an umbrella decision theory that only requires the use of
+logical counterfactuals, leaving the iteration type and updatelessness
+unspecified. So my understanding is that UDT1, UDT1.1, UDT2, FDT, and TDT are
+all logical decision theories.
+See [this Arbital page](https://arbital.com/p/logical_dt/?l=5gc) for more.
 
 ## Policy-based CDT
 
