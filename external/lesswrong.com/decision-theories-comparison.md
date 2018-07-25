@@ -85,21 +85,23 @@ between these decision theories.
 
 ## Outermost iteration
 
-All of the decision theories in this post iterate through some set of options
-at the outermost layer of execution to find the best option. However, the
-nature of these options differs among the various theories.
+All of the decision theories in this post iterate through some set of "options"
+at the outermost layer of execution to find the best "option". However, the
+nature of these "options" differs among the various theories.
 Most decision theories iterate through either *actions* or *policies*.
 When a decision theory iterates through actions (to find the best action),
 it is doing "action selection", and the decision theory outputs a single action.
 When a decision theory iterates through policies (to find the best policy),
 it is doing "policy selection", and outputs a single *policy*, which is an
 observation-to-action mapping. To get an action out of a decision theory
-that does policy selection, we must *call* the policy on the actual observation.
+that does policy selection (because what we really care about is knowing which
+action to take), we must *call* the policy on the actual observation.
 
 From the expected utility formula of the decision theory,
 you can tell action vs policy by seeing what variable comes beneath
 the $\operatorname{arg\,max}$ operator; if it is $a\in\mathcal A$ then it is iterating over actions, and if it is $\pi \in \Pi$, then it is iterating over policies.
-Even in the case of policy selection, what we eventually need to do is perform an action, so we call the policy that is returned to get the action.
+
+One exception to the above is UDT2, which seems to iterate over *algorithms*.
 
 ## Updatelessness
 
