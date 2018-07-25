@@ -137,7 +137,13 @@ $$\mathrm{TDT}(P,x) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{j=1}^N \ma
 
 ## UDT2
 
-iterate over algorithms?
+I know very little about UDT2, but based on [this
+comment](http://lesswrong.com/lw/jhj/functional_side_effects/adhy) by Wei Dai
+and [this
+post](https://www.lesswrong.com/posts/wXxPmc9W6kPb6i7vj/notes-on-logical-priors-from-the-miri-workshop)
+by Vladimir Slepnev, it seems to iterate over algorithms rather than actions or
+policies, and I am assuming it didn't abandon updatelessness and logical counterfactuals.
+[This search query](https://www.greaterwrong.com/search?q=%22UDT2%22) might have more information.
 
 ## LDT
 
