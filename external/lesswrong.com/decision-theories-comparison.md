@@ -54,6 +54,8 @@ I think a lot of (especially old) content on decision theory is confusingly
 written or unfriendly to beginners, and would recommend skipping around to find
 explanations that "click".
 
+TODO maybe also recommend https://www.lesswrong.com/posts/af9MjBqF2hgu3EN6r/decision-theories-a-less-wrong-primer
+
 ## Notation
 
 I mostly use notation taken from the [FDT
@@ -342,6 +344,7 @@ the number assignment game in Wei Dai's UDT1.1 post.
 # Remaining questions
 
 * does policy selection imply updatelessness?
+* I'm not totally clear on all the intricacies of quoting/dequoting/quining/recursively referring to your decision algorithm.
 
 # Other comparisons
 
