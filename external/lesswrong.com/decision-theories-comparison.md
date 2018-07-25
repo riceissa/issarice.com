@@ -35,6 +35,13 @@ This post hopes to clarify these and other questions by emphasizing:
 
 None of the decision theory material in this post is novel.
 
+This post is intended for people who are similarly confused about the
+differences between TDT, UDT, FDT, and LDT. In terms of background assumed,
+it would be good to know the statements to some standard decision theory
+problems (Newcomb's problem, smoking lesion, Parfit's hitchhiker, transparent
+box Newcomb's problem, counterfactual mugging) and the "correct" answers to
+them.
+
 ## Notation
 
 I mostly use notation taken from the FDT paper because I find it clearest. I use some of the other notational variants to highlight correspondences.
