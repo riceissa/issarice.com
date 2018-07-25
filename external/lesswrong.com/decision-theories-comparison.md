@@ -42,6 +42,14 @@ problems (Newcomb's problem, smoking lesion, Parfit's hitchhiker, transparent
 box Newcomb's problem, counterfactual mugging) and the "correct" answers to
 them.
 
+If you don't have the background, I would recommend reading
+chapters 5 and 6 of
+Gary Drescher's [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf),
+the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf),
+["Cheating Death in Damascus"](https://intelligence.org/files/DeathInDamascus.pdf), and
+["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf), and understanding
+what Wei Dai calls "decision theoretic thinking" (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf)).
+
 ## Notation
 
 I mostly use notation taken from the FDT paper because I find it clearest. I use some of the other notational variants to highlight correspondences.
