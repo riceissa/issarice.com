@@ -309,7 +309,12 @@ and [this
 post](https://www.lesswrong.com/posts/wXxPmc9W6kPb6i7vj/notes-on-logical-priors-from-the-miri-workshop)
 by Vladimir Slepnev, it seems to iterate over algorithms rather than actions or
 policies, and I am assuming it didn't abandon updatelessness and logical counterfactuals.
-[This search query](https://www.greaterwrong.com/search?q=%22UDT2%22) might have more information.
+
+The following search queries might have more information:
+
+* ["UDT2"](https://www.greaterwrong.com/search?q=%22UDT2%22)
+* [site:agentfoundations.org "UDT2"](https://www.google.com/search?q=site%3Aagentfoundations.org%20%22UDT2%22)
+* [site:lesswrong.com "UDT2"](https://www.google.com/search?q=site%3Alesswrong.com%20%22UDT2%22)
 
 ## LDT
 
