@@ -225,6 +225,23 @@ $$\begin{align}\mathrm{FDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in \mathcal A
 
 (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
 
+Tyrrell McAllister writes UDT1 like this:
+
+$$\operatorname*{arg\,max}_{Y\in \mathbf Y} \sum_{E\in\mathbf E} M(X,Y,E)\cdot U(E)$$
+
+Here $M$ is the mathematical intuition that gives ...
+
+In our own notation, this might look like TODO: give expression
+
+I'm not sure if this is right. But the important point is that UDT1:
+
+* Does action selection due to the $a\in\mathcal A$ or $Y\in\mathbf Y$
+* Uses logical counterfactuals, either via FDT-like notation or via the mathematical intuition
+* Does not condition on the observation, because there is no
+  $\mathrm{O\small BS}=x$ (the McAllister paper doesn't even mention observations)
+
+The above three explain the values for UDT1 in the comparison table.
+
 ## UDT1.1 and FDT (iterate over policies)
 
 [UDT1.1](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/), [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
