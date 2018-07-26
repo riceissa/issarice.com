@@ -331,14 +331,6 @@ $$\begin{align}\mathrm{CDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in\mathcal A}
 
 $$\begin{align}\mathrm{EDT}(P,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathrm{O\small BS} = x, \mathrm{A\small CT}=a) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{O\small BS} = x, \mathrm{A\small CT}=a)\end{align}$$
 
-I think i need to break down the idea of "updatelessness" further. My own understanding
-is that it's just whether or not you condition on the sense date inside the probability
-part of the expected utility formula. So under this interpretation, all versions of
-FDT are updateless. But Caspar uses "updateless" for anything that doesn't need
-precommitments to win Parfit's hitchhiker. Plus, if FDT is updateless, then Rob's comment
-doesn't make sense; what are these philosophical issues around updatelessness that FDT
-doesn't need to accept?
-
 # Comparison on specific decision problems
 
 If two decision theories are actually different, there should be some decision problem where they return different answers.
@@ -403,9 +395,20 @@ from https://arbital.com/p/logical_dt/?l=5gc
 
 This leads me to think policy selection implies updatelessness, or that there
 is a meaning of the term "updateless" that *means* "does policy selection".
+See also the next question in this section.
 
 also talk about policy-based CDT, which seems to allow leaving updatelessness
 unspecified.
+
+## What are all the different meanings of "updateless" used in the wild?
+
+I think i need to break down the idea of "updatelessness" further. My own understanding
+is that it's just whether or not you condition on the sense date inside the probability
+part of the expected utility formula. So under this interpretation, all versions of
+FDT are updateless. But Caspar uses "updateless" for anything that doesn't need
+precommitments to win Parfit's hitchhiker. Plus, if FDT is updateless, then Rob's comment
+doesn't make sense; what are these philosophical issues around updatelessness that FDT
+doesn't need to accept?
 
 ## Quoting/dequoting
 
@@ -432,7 +435,7 @@ useful, along with reasons why I felt the current post was needed.
   by Caspar Oesterheld and/or Johannes Treutlein. I think my motivation is
   different from that of the author(s) of this list; I mainly want to
   distinguish between all the UDTs, TDT, and FDT, so my tables and columns of
-  those tables are chosen in a way so as to make the difference apparent.
+  those tables are chosen in a way so as to make the differences apparent.
 * [“Problem Class Dominance in Predictive
   Dilemmas”](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
   by Daniel Hintze. This paper is from 2014 so doesn't include the FDT/LDT
