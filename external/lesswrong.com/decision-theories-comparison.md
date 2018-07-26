@@ -393,7 +393,18 @@ and:
 
 from https://arbital.com/p/logical_dt/?l=5gc
 
-This leads me to think policy selection implies updatelessness, or that there
+From ["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf):
+
+> A decision theory that identifies the best *policy* in a given scenario (and
+> prescribes acting accordingly) better captures the notion of "the best
+> available action" than a decision theory which considers actions alone.
+> Variants of decision theory using policy selection are "updateless" (as
+> agents following the prescriptions of policy selection pick a policy before
+> they update on their observations), and this is the first of two ideas \[the
+> other being logical counterfactuals\] behind the *updateless decision theory*
+> (UDT) of Dai ([2009](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)).
+
+This leads me to think policy selection implies updatelessness, or policy selection and updateless are somehow lumped together, or that there
 is a meaning of the term "updateless" that *means* "does policy selection".
 See also the next question in this section.
 
@@ -428,6 +439,7 @@ iteration/updateless/type of counterfactual table.
 
 * EDT with tickle defense
 * Drescher's in _Good and Real_
+  "despite being motivated by similar intuitions in Newcomblike cases, it is unclear whether or not the similarity between Drescher-style subjunctive dependence and FDT-style subjunctive dependence is merely verbal." https://philpapers.org/archive/BARWDT-3.pdf
 
 # Other comparisons
 
