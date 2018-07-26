@@ -325,10 +325,6 @@ See [this Arbital page](https://arbital.com/p/logical_dt/?l=5gc), which says:
 The page also calls TDT a logical decision theory (listed under "non-general
 but useful logical decision theories").
 
-## Policy-based CDT
-
-(see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)
-
 ## CDT
 
 $$\begin{align}\mathrm{CDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathtt{do}(\mathrm{A\small CT}=a), \mathrm{O\small BS} = x) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathtt{do}(\mathrm{A\small CT}=a), \mathrm{O\small BS} = x)\end{align}$$
@@ -446,6 +442,8 @@ iteration/updateless/type of counterfactual table.
 * EDT with tickle defense
 * Drescher's in _Good and Real_
   "despite being motivated by similar intuitions in Newcomblike cases, it is unclear whether or not the similarity between Drescher-style subjunctive dependence and FDT-style subjunctive dependence is merely verbal." https://philpapers.org/archive/BARWDT-3.pdf
+* Policy-based CDT (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)
+
 
 # Other comparisons
 
