@@ -186,15 +186,15 @@ Given the comparison dimensions above, the decision theories can be summarized a
 
 |Decision theory|Outermost iteration|Updateless|Type of counterfactual|
 |-------------|-----------------|-------------------------------|------------------------|
-|UDT1|action|yes|logical|
-|UDT1.1|policy|yes|logical|
-|UDT2|algorithm|yes|logical|
-|FDT (iterate over actions)|action|yes|logical|
-|FDT (iterate over policies)|policy|yes|logical|
-|Logical decision theory|unspecified|unspecified|logical|
-|TDT|action|no|logical|
-|CDT|action|no|causal|
-|EDT ("naive EDT")|action|no|conditional|
+|Updateless decision theory 1 (UDT1)|action|yes|logical|
+|Updateless decision theory 1.1 (UDT1.1)|policy|yes|logical|
+|Updateless decision theory 2 (UDT2)|algorithm|yes|logical|
+|Functional decision theory, iterating over actions (FDT-action)|action|yes|logical|
+|Functional decision theory, iterating over policies (FDT-policy)|policy|yes|logical|
+|Logical decision theory (LDT)|unspecified|unspecified|logical|
+|Timeless decision theory (TDT)|action|no|logical|
+|Causal decision theory (CDT)|action|no|causal|
+|Evidential decision theory (EDT, "naive EDT")|action|no|conditional|
 
 # Explanations of each decision theory
 
