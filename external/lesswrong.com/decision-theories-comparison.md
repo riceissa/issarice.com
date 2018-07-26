@@ -56,6 +56,11 @@ explanations that "click".
 
 TODO maybe also recommend https://www.lesswrong.com/posts/af9MjBqF2hgu3EN6r/decision-theories-a-less-wrong-primer
 
+people who seem similarly confused:
+
+* https://www.greaterwrong.com/posts/xJRPWBfJQcbWaoCLp/making-equilibrium-cdt-into-fdt-in-one-easy-step/comment/n7auEbvrH5DoC6Tvt
+* https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory
+
 ## Notation
 
 I mostly use notation taken from the [FDT
@@ -300,6 +305,8 @@ It uses logical counterfactuals because of the
 $\mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a)$.
 
 this page says TDT is updateful https://arbital.com/p/updateless_dt/
+
+https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/ describes TDT as "a theory by MIRI senior researcher Eliezer Yudkowsky that made the mistake of conditioning on observations".
 
 ## UDT2
 
