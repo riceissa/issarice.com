@@ -191,12 +191,9 @@ Given the comparison dimensions above, the decision theories can be summarized a
 |FDT (iterate over actions)|action|yes|logical|
 |FDT (iterate over policies)|policy|yes|logical|
 |Logical decision theory|unspecified|unspecified|logical|
-|Policy-based CDT|policy|unspecified|causal|
 |TDT|action|no|logical|
 |CDT|action|no|causal|
 |EDT ("naive EDT")|action|no|conditional|
-|EDT with tickle defense|action|no?|?|
-|Drescher's in _Good and Real_ |?|?|logical|
 
 # Explanations of each decision theory
 
@@ -407,9 +404,21 @@ from https://arbital.com/p/logical_dt/?l=5gc
 This leads me to think policy selection implies updatelessness, or that there
 is a meaning of the term "updateless" that *means* "does policy selection".
 
+also talk about policy-based CDT, which seems to allow leaving updatelessness
+unspecified.
+
 ## Quoting/dequoting
 
 * I'm not totally clear on all the intricacies of quoting/dequoting/quining/recursively referring to your decision algorithm.
+
+## Other decision theories
+
+Here are some other decision theories that I've encountered, but for which I
+don't know how how to fill in the values in the outermost
+iteration/updateless/type of counterfactual table.
+
+* EDT with tickle defense
+* Drescher's in _Good and Real_
 
 # Other comparisons
 
