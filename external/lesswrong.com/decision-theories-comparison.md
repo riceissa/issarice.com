@@ -405,10 +405,16 @@ unspecified.
 I think i need to break down the idea of "updatelessness" further. My own understanding
 is that it's just whether or not you condition on the sense date inside the probability
 part of the expected utility formula. So under this interpretation, all versions of
-FDT are updateless. But Caspar uses "updateless" for anything that doesn't need
-precommitments to win Parfit's hitchhiker. Plus, if FDT is updateless, then Rob's comment
+TDT is not updateless. But Caspar uses "updateless" for anything that doesn't need
+precommitments to win Parfit's hitchhiker, making TDT updateless.
+
+Plus, if FDT is updateless, then Rob's comment
 doesn't make sense; what are these philosophical issues around updatelessness that FDT
 doesn't need to accept?
+
+Also by the previous subsection, "updateless" might sometimes be used to mean
+"does policy selection". If this is the case, then some versions of FDT are
+"updateless" while others are not.
 
 ## Quoting/dequoting
 
