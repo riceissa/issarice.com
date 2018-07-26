@@ -185,7 +185,7 @@ I have seen the logical counterfactual written in many ways:
 Given the comparison dimensions above, the decision theories can be summarized as follows:
 
 |Decision theory|Outermost iteration|Updateless|Type of counterfactual|
-|--------------------|-----------------|-------------------------------|------------------------|
+|--------------------------|------------|--------------|-------------|
 |Updateless decision theory 1 (UDT1)|action|yes|logical|
 |Updateless decision theory 1.1 (UDT1.1)|policy|yes|logical|
 |Updateless decision theory 2 (UDT2)|algorithm|yes|logical|
