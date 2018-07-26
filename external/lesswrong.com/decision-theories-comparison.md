@@ -402,10 +402,10 @@ and:
 > functional decision theory updateless, a feature with deep ramifications and
 > justifications that pretty much require digging into the longer articles.
 
+from https://arbital.com/p/logical_dt/?l=5gc
+
 This leads me to think policy selection implies updatelessness, or that there
 is a meaning of the term "updateless" that *means* "does policy selection".
-
-from https://arbital.com/p/logical_dt/?l=5gc
 
 ## Quoting/dequoting
 
