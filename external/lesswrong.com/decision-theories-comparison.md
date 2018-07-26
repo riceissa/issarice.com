@@ -174,7 +174,8 @@ I have seen the logical counterfactual written in many ways:
   would use precommitment mechanisms or self-modify to use a
   different decision theory.  Can this be seen immediately from
   the expected utility formula? If not, it might be unlike the
-  other three above.
+  other three above. My current guess is that reflective consistency
+  is a higher-level property that follows from the above three.
 * emphasis on graphical models
 * reflective consistency ???
 * dynamic consistency??? https://intelligence.org/files/TDT.pdf
@@ -463,3 +464,17 @@ useful, along with reasons why I felt the current post was needed.
   by Daniel Hintze. This paper is from 2014 so doesn't include the FDT/LDT
   terminology, and also doesn't include the various versions of UDT.
 * [“Timeline of decision theory”](https://timelines.issarice.com/wiki/Timeline_of_decision_theory). This is an incomplete timeline I've been working on sporadically. It gives a chronological ordering of some decision theories and decision problems.
+
+# Meta information on this post
+
+## Version history
+
+* 2018-07-23 to ??: Initial work on this post.
+* ??: Initial version published.
+
+## License
+
+To the extent possible under law, Issa Rice has waived all copyright and
+related or neighboring rights to the content in this post. This work is
+published from: United States. See the [CC0 1.0 Universal Public Domain
+Dedication](https://creativecommons.org/publicdomain/zero/1.0/) for more information.
