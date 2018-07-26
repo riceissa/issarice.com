@@ -222,6 +222,8 @@ $$\begin{align}\mathrm{FDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in \mathcal A
 
 (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
 
+also see https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb
+
 Tyrrell McAllister writes UDT1 like this:
 
 $$\operatorname*{arg\,max}_{Y\in \mathbf Y} \sum_{E\in\mathbf E} M(X,Y,E)\cdot U(E)$$
@@ -248,6 +250,8 @@ also see https://casparoesterheld.files.wordpress.com/2017/08/updateless_decisio
 (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
 
 (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
+
+also see https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb
 
 In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
 
@@ -293,6 +297,8 @@ $P(\ldots \mid \mathrm{O\small BS}=x, \ldots)$, i.e. it conditions on
 $\mathrm{O\small BS}=x$.
 It uses logical counterfactuals because of the
 $\mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a)$.
+
+this page says TDT is updateful https://arbital.com/p/updateless_dt/
 
 ## UDT2
 
@@ -393,7 +399,7 @@ and:
 
 from https://arbital.com/p/logical_dt/?l=5gc
 
-From ["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf):
+From ["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf) (p. 8):
 
 > A decision theory that identifies the best *policy* in a given scenario (and
 > prescribes acting accordingly) better captures the notion of "the best
