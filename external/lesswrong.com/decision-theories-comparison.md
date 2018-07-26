@@ -1,6 +1,6 @@
 % Comparison of decision theories
 % Issa Rice
-% 2018-07-24
+% 2018-07-25
 
 # Introduction
 
@@ -264,6 +264,20 @@ On the right hand side, the large expression on the left (the part inside and in
 > *policies* (mappings from observations to actions) rather than actions. This
 > makes a difference in certain multi-agent dilemmas, but will not make a
 > difference in this paper.
+
+Again using Tyrrell McAllister's notation, UDT1.1 looks like:
+
+$$\mathrm{UDT}_{1.1}(\mathbf X, \mathbf Y, \mathbf E, M, \mathbf I) = \operatorname*{arg\,max}_{f\in \mathbf I} \sum_{E\in\mathbf E} M(f,E)\cdot U(E)$$
+
+Hintze writes UDT as follows:
+
+$$\operatorname*{arg\,max}_{f} \sum_{i=1}^n \mathcal U(o_j) \cdot P(\ulcorner \mathrm{UDT} := f : s\mapsto a \urcorner \mathbin{\Box\!\!\!\to} o_j)$$
+
+Again what is important here is that UDT1.1:
+
+* Does action selection because the outermost iteration is over policies
+* Uses logical counterfactuals
+* Does not condition on the observation
 
 ## TDT
 
