@@ -442,6 +442,12 @@ Also by the previous subsection, "updateless" might sometimes be used to mean
 "does policy selection". If this is the case, then some versions of FDT are
 "updateless" while others are not.
 
+https://www.lesswrong.com/posts/pneKTZG9KqnSe2RdQ/two-types-of-updatelessness abram demski distinguishes between "all-upside updatelessness" and "mixed-upside updatelessness". Post also talks about policy selection as distinct from updatelessness.
+
+https://agentfoundations.org/item?id=1711 apparently there is a parameter $f$ here that determines the level of updatelessness.
+
+"Lately there’s been a bit more doubt about updatelessness (in full generality instead of the partial version attained by policy selection) as being an achievable desiderata." https://agentfoundations.org/item?id=1797 So this also seems to mean that policy selection doesn't necessarily imply updatelessness.
+
 ## Quoting/dequoting
 
 * I'm not totally clear on all the intricacies of quoting/dequoting/quining/recursively referring to your decision algorithm.
