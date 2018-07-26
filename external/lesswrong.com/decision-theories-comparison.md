@@ -45,10 +45,10 @@ formulas.
 
 If you don't have the background, I would recommend reading
 chapters 5 and 6 of
-Gary Drescher's [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf),
-the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf),
+Gary Drescher's [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf) (explains well the idea of subjunctive means--end relations),
+the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (explains well how FDT's action selection variant works, and how FDT differs from CDT and EDT),
 ["Cheating Death in Damascus"](https://intelligence.org/files/DeathInDamascus.pdf), and
-["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf), and understanding
+["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf) (explains the difference between policy selection and logical counterfactuals well), and understanding
 what Wei Dai calls "decision theoretic thinking" (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf) and [this comment](https://www.lesswrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver#Hrtu69eAh86KFNgBC)).
 I think a lot of (especially old) content on decision theory is confusingly
 written or unfriendly to beginners, and would recommend skipping around to find
@@ -100,7 +100,7 @@ that does policy selection (because what we really care about is knowing which
 action to take), we must *call* the policy on the actual observation.
 
 From the expected utility formula of the decision theory,
-you can tell action vs policy by seeing what variable comes beneath
+you can tell action vs policy selection by seeing what variable comes beneath
 the $\operatorname{arg\,max}$ operator; if it is $a\in\mathcal A$ then it is iterating over actions, and if it is $\pi \in \Pi$, then it is iterating over policies.
 
 One exception to the above is UDT2, which seems to iterate over *algorithms*.
