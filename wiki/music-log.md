@@ -311,6 +311,10 @@ The Pillows:
 * [Boards of Canada](https://en.wikipedia.org/wiki/Boards_of_Canada) (nothing in particular yet)
 * David Parsons: _Ngaio Gamelan_
 
+# July 2018
+
+* Tatami Galaxy OST
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
