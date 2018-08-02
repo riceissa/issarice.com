@@ -36,18 +36,17 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: June 2018 {#summary}
+# Summary of what I worked on: July 2018 {#summary}
 
 For completed tasks, see the [work]() page.
 
-This month I spent a lot of time doing miscellaneous thinking and learning math
-so only spent about 77 hours on contract work.
+This month I spent a lot of time working on the [Computing Data Project](https://github.com/riceissa/computing-data-project/). It's not ready for public use yet.
 
-I did some work on [Timeline of Google
-Brain](https://timelines.issarice.com/wiki/Timeline_of_Google_Brain).
+I did some work on Vipul Naik's [Machine Learning Subject Wiki](https://machinelearning.subwiki.org/wiki/Main_Page). You can see pages like [Summary table of multivariable derivatives](https://machinelearning.subwiki.org/wiki/Summary_table_of_multivariable_derivatives) and [Derivative of a quadratic form](https://machinelearning.subwiki.org/wiki/Derivative_of_a_quadratic_form).
 
-I did some work on the [script](https://github.com/riceissa/timelines-wiki-main-page-table/)
-that generates the main page table on [Timelines Wiki](https://timelines.issarice.com/).
+I learned more decision theory and have a [draft blog post](https://github.com/riceissa/issarice.com/blob/master/external/lesswrong.com/decision-theories-comparison.md) that tries to explain the differences between the various logical decision theories.
+
+I did some work on Vipul's Donations List Website, mostly adding data and working on the [money moved table](https://donations.vipulnaik.com/influencer.php?influencer=GiveWell#influencerMoneyMovedList) (adding the "amount accounted" column).
 
 # Activity feeds
 
