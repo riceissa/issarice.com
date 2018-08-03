@@ -201,6 +201,8 @@ Given the comparison dimensions above, the decision theories can be summarized a
 |Causal decision theory (CDT)|action|no|causal|
 |Evidential decision theory (EDT, "naive EDT")|action|no|conditional|
 
+$$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}}, \color{green}{\text{counterfactual}})$$
+
 # Explanations of each decision theory
 
 This section elaborates on the comparison above by giving an explicit expected value formula for each decision theory and explaining why each cell in the table takes that particular value.
