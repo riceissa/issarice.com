@@ -448,6 +448,8 @@ https://agentfoundations.org/item?id=1711 apparently there is a parameter $f$ he
 
 "Lately there’s been a bit more doubt about updatelessness (in full generality instead of the partial version attained by policy selection) as being an achievable desiderata." https://agentfoundations.org/item?id=1797 So this also seems to mean that policy selection doesn't necessarily imply updatelessness.
 
+"An updateless agent is one that does not update on its observations, but instead chooses what action it wants itself to output upon being input those observations." https://agentfoundations.org/item?id=1689 The post distinguishes between empirical updatelessness and logical updatelessness.
+
 ## Quoting/dequoting
 
 * I'm not totally clear on all the intricacies of quoting/dequoting/quining/recursively referring to your decision algorithm.
