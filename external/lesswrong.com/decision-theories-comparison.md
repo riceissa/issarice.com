@@ -452,6 +452,8 @@ https://agentfoundations.org/item?id=1711 apparently there is a parameter $f$ he
 
 "An updateless agent is one that does not update on its observations, but instead chooses what action it wants itself to output upon being input those observations." https://agentfoundations.org/item?id=1689 The post distinguishes between empirical updatelessness and logical updatelessness.
 
+page 3 of https://github.com/tsvibt/public-pdfs/blob/master/decision-theory/notation/main.pdf talks about being "updateless with respect to $o$" for some observation $o$.
+
 ## Quoting/dequoting
 
 * I'm not totally clear on all the intricacies of quoting/dequoting/quining/recursively referring to your decision algorithm.
