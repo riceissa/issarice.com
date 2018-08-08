@@ -737,7 +737,8 @@ can learn a lot about the most exciting things that are happening.
         TODO: link to hanson and cowen on this.
     - Michael Huemer (mostly _The Problem of Political Authority_)
     - Nick Bostrom
-    - Robin Hanson
+    - Robin Hanson (I think _The Elephant in the Brain_ is probably the best
+      introduction. I also like his old papers.)
     - Michael Nielsen
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
