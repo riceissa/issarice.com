@@ -704,28 +704,15 @@ can learn a lot about the most exciting things that are happening.
   they say as you can stand); bolding indicates people I particularly
   recommend:
 
-    - Peter Thiel
-    - **[AARON SWARTZ](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)**; READ ALL OF HIS BLOG
-    - Paul Graham
-    - Mark Zuckerberg; e.g. [Mark Zuckerberg at Startup School 2013](https://www.youtube.com/watch?v=MGsalg2f9js) is pretty good. Also read Kirkpatrick's book.
-    - **Vipul Naik**
-    - Brian Farley: read his Quora answers. Also read his blog posts, like "[We’re going the wrong way](http://blog.bmfarley.com/were-going-the-wrong-way/)".
-    - gwern
-    - Mencius Moldbug/neoreactionaries
-    - **Bryan Caplan**: see my page on [EconLog]()
-      - Note that I consider Caplan's views on many philosophy topics to be
-        wrong. Examples: dualism of the mind, intuitionist ethics, free will.
-        I think his posts about applied ethics are good.
-        TODO: link to eliezer saying people are better one meta level down in
-        ethics.
-        TODO: link to hanson and cowen on this.
-    - Michael Huemer
-    - Eliezer Yudkowsky
-    - Wei Dai
+    - **Eliezer Yudkowsky**
+    - **Wei Dai**
+    - **Carl Shulman**
     - Paul Christiano
+
     - Gary Drescher (*Good and Real*)
 
-      From [MIRI's old recommended courses page](https://web.archive.org/web/20140403193242/http://intelligence.org/courses):
+      From [MIRI's old recommended courses
+      page](https://web.archive.org/web/20140403193242/http://intelligence.org/courses):
 
       > Good and Real
       >
@@ -734,34 +721,28 @@ can learn a lot about the most exciting things that are happening.
       > better than continuing to go through your life with a hazy
       > understanding of how important things like free will, choice, and
       > meaning actually work.
-      >
-      > I recommend reading this right around the time you finish up your
-      > quantum computing course.
 
+    - **Brian Tomasik** (a lot of his philosophy writings are similar in
+      content to those of Yudkowsky, Drescher, and Daniel Dennett, but
+      Tomasik's writings might be the clearest)
+    - [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)
+    - Paul Graham
+    - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
+    - **Bryan Caplan**: see my page on [EconLog]()
+      - Note that I consider Caplan's views on many philosophy topics to be
+        wrong. Examples: dualism of the mind, intuitionist ethics, free will.
+        I think his posts about applied ethics are good.
+        TODO: link to eliezer saying people are better one meta level down in
+        ethics.
+        TODO: link to hanson and cowen on this.
+    - Michael Huemer (mostly _The Problem of Political Authority_)
     - Nick Bostrom
     - Robin Hanson
-    - Holden Karnofsky (see his GiveWell blog posts as well as his Harvard reunion speech in 2013)
-    - Carl Shulman
-    - Brian Tomasik (his essays on reducing suffering and some other stuff)
+    - Michael Nielsen
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
-    - [David Roodman](http://davidroodman.com/)
-    - [The Last Psychiatrist](http://thelastpsychiatrist.com/)
     - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
-    - Some more people mentioned by Alex K. Chen:
-
-        > People whose opinions I very highly respect: danah boyd,
-        > Bradley Voytek, [Bryan
-        > Caplan](https://www.quora.com/Bryan-Caplan-2), Robin Hanson,
-        > [Daniel Lemire](https://www.quora.com/Daniel-Lemire), Roy
-        > Baumeister, Edward O. Wilson, Will Wright, Peter Thiel,
-        > [gwern](http://www.gwern.net/About), Michael O. Church,
-        > Francis Crick, Dean Simonton, [Danielle
-        > Fong](http://daniellefong.com/about-the-author/), [Michael
-        > Nielsen](https://www.quora.com/Michael-Nielsen), [Ethan
-        > Perlstein](https://www.quora.com/Ethan-Perlstein), [Robert
-        > Epstein](http://drrobertepstein.com/index.php/adolescence)
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social
   pressures?  How to ignore for example pressure to complete homework
