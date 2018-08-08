@@ -315,6 +315,11 @@ The Pillows:
 
 * Tatami Galaxy OST
 
+# August 2018
+
+* Etsuko Yakushimaru: _Radio Onsen Eutopia_
+* Sōtaisei Riron: _Hi-Fi Anatomia_
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
