@@ -1,0 +1,25 @@
+I'm not sure if this has a name, but I'll describe the pattern I'm thinking of and give some examples.
+
+# We start with some general class of mathematical objects, and we want this class to satisfy some property.
+# We find out that the class does not satisfy the property.
+# We restrict the class to some subclass so that the subclass satisfies the property.
+
+Now, I think pedagogically, it's important after step (3) to go back to step (2) and show why the same argument (that the property fails) doesn't work for the subclass. Is there anything else we can say generally for this pattern? It would be nice to have some sort of checklist for this, so that when you recognize this pattern, you can go through the checklist. Maybe another is to make sure that the property is something you actually care about (corresponds to some intuitive pre-theoretical notion, or has nice properties).
+
+Example (from Li and Vitanyi):
+
+# We start with the class of all partial functions over the nonnegative integers. We want this class to have some function that is additively optimal.
+# We find out that there is no additively optimal partial function. (Example 2.0.1)
+# We restrict the class to the class of partial ''recursive'' functions.
+
+Here's another example:
+
+# We start with the class of all subsets of <math>\mathbf R^n</math>. We want this class to have some number associated with each element satisfying some properties (corresponding to our intuitions about volumes and areas).
+# We find out this is impossible.
+# We restrict the subsets to the class of measurable subsets of <math>\mathbf R^n</math>.
+
+Maybe another example from set theory:
+
+# We start out with a bunch of sets. We want this system to be free of contradictions.
+# Russell's paradox.
+# The axiom of comprehension is [https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory#3._Axiom_schema_of_specification_(also_called_the_axiom_schema_of_separation_or_of_restricted_comprehension) restricted] so we get fewer sets.

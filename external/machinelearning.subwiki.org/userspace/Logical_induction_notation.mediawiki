@@ -1,0 +1,61 @@
+This is in user space because it's not really about machine learning.
+
+{| class="sortable wikitable"
+|-
+! Term !! Notation !! Type !! Definition !! Notes
+|-
+| <math>\mathcal F</math>-combination || <math>A</math> || <math>\mathcal S \cup \{0,1\} \to \mathcal F_n</math> || || Function application of an <math>\mathcal F</math>-combination uses square brackets instead of parentheses. Why? As far as I can tell, this is because each coefficient is in <math>\mathcal F</math> so is itself a function. This means we have two senses of "application": we can pick out the specific coefficient we want (square brackets), or we can apply each coefficient to return something (parentheses).
+|-
+| Holdings from <math>T</math> against <math>\overline{\mathbb P}</math> (a <math>\mathbb Q</math>-combination)|| <math>T(\overline{\mathbb P})</math> || <math>\mathcal S \cup \{0,1\} \to \mathbb Q</math> || ||
+|-
+| Trading strategy || <math>T</math> || <math>\mathcal S \cup \{1\} \to \mathcal{E\!F}</math> || ||
+|-
+| Feature || <math>\alpha</math> || <math>[0,1]^{\mathcal S \times \mathbb N^{+}} \to \mathbb R</math> or equivalently <math>(\mathcal S \times \mathbb N^{+} \to [0,1]) \to \mathbb R</math> or equivalently <math>\mathcal F</math> || ||
+|}
+
+Example of a 5-strategy given on p. 18 of the paper:
+
+:<math>\underbrace{\left[(\neg\neg\phi)^{*5} -\phi^{*5}\right]}_{\xi_1} \cdot (\phi - \phi^{*5}) + \underbrace{\left[\phi^{*5} - (\neg \neg \phi)^{*5}\right]}_{\xi_2} \cdot \left(\neg\neg\phi - (\neg\neg\phi)^{*5}\right)</math>
+
+Since the coefficients (<math>\xi_1</math> and <math>\xi_2</math>) are in <math>\mathcal{E\!F}_5</math>, this is an <math>\mathcal{E\!F}_5</math>-combination. Let's call this 5-strategy <math>T_5</math>. We can pick out the coefficient for the <math>\phi</math> term like <math>T_5[\phi] = (\neg\neg\phi)^{*5} -\phi^{*5}</math>. But since each coefficient is a feature (which is a function), we can also apply each coefficient to some valuation sequence <math>\overline{\mathbb V}</math>, like this:
+
+:<math>T_5(\overline{\mathbb V}) = \left[(\neg\neg\phi)^{*5}(\overline{\mathbb V}) -\phi^{*5}(\overline{\mathbb V})\right] \cdot (\phi - \phi^{*5}(\overline{\mathbb V})) + \left[\phi^{*5}(\overline{\mathbb V}) - (\neg \neg \phi)^{*5}(\overline{\mathbb V})\right] \cdot \left(\neg\neg\phi - (\neg\neg\phi)^{*5}(\overline{\mathbb V})\right)</math>
+
+Now each coefficient is a real number, so <math>T_5(\overline{\mathbb V})</math> is an <math>\mathbb R</math>-combination. Note that since <math>T_5\colon \mathcal S \cup \{1\} \to \mathcal{E\!F}_5</math> is a function that takes a sentence or the number <math>1</math> and <math>\overline{\mathbb V}</math> is a valuation sequence (''not'' a sentence or number), there appears to be a type error in writing <math>T_5(\overline{\mathbb V})</math>. What is going on is that we aren't evaluating <math>T_5</math> at <math>\overline{\mathbb V}</math>; rather, we are evaluating ''each coefficient'' of <math>T_5</math>, to convert the range of <math>T_5</math> from <math>\mathcal{E\!F}_5</math> to <math>\mathbb R</math>.
+
+To summarize the types:
+
+* <math>T_5 \colon \mathcal S \cup \{1\} \to \mathcal{E\!F}_5</math>
+* <math>T_5[\phi] \in \mathcal{E\!F}_5</math> in other words <math>T_5[\phi] \colon [0,1]^{\mathcal S\times \mathbb N^{+}} \to \mathbb R</math>
+* <math>T_5(\overline{\mathbb V}) \colon \mathcal S \cup \{1\} \to \mathbb R</math>
+
+If <math>T = c + \xi_1\phi_1 + \cdots + \xi_k\phi_k \colon \mathcal S \cup \{1\} \to \mathcal{E\!F}_n</math>, then
+
+:<math>\mathbb V(T) = c + \xi_1\mathbb V(\phi_1) + \cdots + \xi_k\mathbb V(\phi_k) \in \mathcal{E\!F}_n</math>
+
+and
+
+:<math>T(\overline{\mathbb V}) = c(\overline{\mathbb V})+ \xi_1(\overline{\mathbb V})\phi_1 + \cdots + \xi_k(\overline{\mathbb V})\phi_k \colon \mathcal S \cup \{1\} \to \mathbb R</math>
+
+and
+
+:<math>\mathbb W(T(\overline{\mathbb V})) = c(\overline{\mathbb V})+ \xi_1(\overline{\mathbb V})\mathbb W(\phi_1) + \cdots + \xi_k(\overline{\mathbb V})\mathbb W(\phi_k) \in \mathbb R</math>
+
+I think <math>\mathbb W(T(\overline{\mathbb V})) = (\mathbb W(T))(\overline{\mathbb V})</math> but the former notation seems to be preferred in the paper.
+
+The following is used in the Fixed Point Lemma (5.1.1):
+
+Writing the <math>n</math>-strategy as
+
+:<math>T_n = \sum_{j=1}^k \xi_j \phi_j - \sum_{j=1}^k \xi_j\phi_j^{*n}</math>
+
+we have
+
+:<math>\mathbb V(T_n(\mathbb P_{\leq n-1}, \mathbb V)) = \sum_{j=1}^k \xi_j(\mathbb P_{\leq n-1}, \mathbb V)\cdot \mathbb V(\phi_j) - \sum_{j=1}^k \xi_j(\mathbb P_{\leq n-1}, \mathbb V) \cdot \phi_j^{*n}(\mathbb P_{\leq n-1}, \mathbb V)</math>
+
+But <math>\phi_j^{*n}(\mathbb P_{\leq n-1}, \mathbb V) = \mathbb V(\phi_j)</math> so the two sums cancel to obtain <math>0</math>.
+
+==External links==
+
+* https://arbital.com/p/logical_inductor_nota/
+* https://arbital.com/p/logical_induction/
