@@ -2,6 +2,10 @@
 % Issa Rice
 % 2018-07-25
 
+TODO: fix straight quotes/curly quotes
+
+TODO: for the box-arrow, probably `\Box\kern-7mu\rightarrow` is better than what I'm doing right now.
+
 # Introduction
 
 This post is a comparison of various existing decision theories, with a focus
