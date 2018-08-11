@@ -27,7 +27,7 @@ THE SOFTWARE.
 body {
     background-color: #fff;
     color: #333;
-    font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif;
+    font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
 }
 
 div.sourceLine { display:inline-block; }
@@ -172,7 +172,7 @@ body.dark a:link { color: #268bd2; }
 body.dark a:visited { color: #859900; }
 
 body.sans { font-family: Lato, Helvetica, sans-serif; }
-body.sans h1, body.sans h2, body.sans h3, body.sans h4, body.sans h5, body.sans h6 { font-family: Charter, "Bitstream Charter", Palatino, "Noto Serif", Georgia, serif; }
+body.sans h1, body.sans h2, body.sans h3, body.sans h4, body.sans h5, body.sans h6 { font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif; }
 
 body.wikitable table {
     background-color: #f9f9f9;
