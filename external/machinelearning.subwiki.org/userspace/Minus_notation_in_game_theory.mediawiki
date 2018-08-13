@@ -1,0 +1,16 @@
+In game theory, <math>s_{-i}</math> is a shorthand for <math>(s_1,\ldots,s_{i-1},s_{i+1},\ldots,s_n) \in S_1 \times \cdots \times S_{i-1} \times S_{i+1} \times \cdots \times S_n</math>. In other words, <math>s_{-i}</math> is a tuple of strategies of all the players other than player <math>i</math>.
+
+One then writes things like <math>v_i(s_i, s_{-i})</math> for the payoff of the strategy profile where each player <math>i</math> chooses <math>s_i</math>.
+
+But to my mind, there is a type error here, because <math>v_i \colon S_1 \times \cdots \times S_n \to \mathbf R</math> is supposed to take the strategies in order, whereas in the previous paragraph, for each player, their own strategy appears first. To give an example, in the case of <math>n=2</math>, each <math>v_i</math> should take <math>(s_1,s_2) \in S_1\times S_2</math>, but the notation <math>(s_i, s_{-i})</math> for player 2 is <math>(s_2,s_1)</math>, which is reversed. Type error!
+
+I think usually this is not a problem, because the reader can mentally put the <math>s_i</math> in the right spot, or one can assume that no two strategies (even across different players) are the same (e.g. the strategies can be "marked" with numbers to be distinguishable),<ref>To be even more precise, given finite sets of strategies <math>S_1,\ldots,S_n</math>, one can start with <math>S_1</math> and replace each strategy <math>s_i</math> with <math>(i, s_i)</math>, to number them. Then for <math>S_2</math>, one starts the numbering where <math>S_1</math> left off, and so on.</ref> so that one can pass a ''set'' of strategies like <math>\{s_1, \ldots ,s_n\}</math> and there would be no confusion even if the ordering is different.
+
+Here are two more ideas for dealing with this notation:
+
+* One can change each <math>v_i</math> to have domain <math>S_i\times S_1 \times \cdots \times S_{i-1} \times S_{i+1} \times \cdots \times S_n</math>. This is sort of inelegant because now one cannot pass <math>s \in S_1\times \cdots \times S_n</math> to an arbitrary <math>v_i</math>. (One can only pass it to <math>v_1</math>.)
+* One can define a function <math>g_i</math> for each player that is supposed to "put <math>s_i</math> back in the right spot". Formally, <math>g_i\colon S_i \times (S_1 \times \cdots \times S_{i-1} \times S_{i+1} \times \cdots \times S_n) \to S_1 \times \cdots \times S_n</math> is defined by <math>g(x,y) = (y_{\leq i-1}, x, y_{\geq i+1})</math>. Now one can write <math>v_i(g_i(s_i, s_{-i}))</math> (if the <math>i</math>th strategy needs to be put in the correct place) and <math>v_i(s)</math> (if the strategies are already in order). Note that the altered <math>v_i</math> suggested in the previous bullet is, in this notation, <math>v_i \circ g_i</math>.
+
+==References==
+
+<references/>
