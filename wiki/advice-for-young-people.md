@@ -73,7 +73,7 @@ Some other points:
   Graham), etc.
 
 -   Actively search for alternatives.  For example, if one lives in Washington
-    State, then the early entrance programs at UW might be a one option. See for
+    State, then the early entrance programs at UW might be one option. See for
     instance [Alex K. Chen's review][acad] on Quora.
 
 ## Paul Graham
