@@ -1,8 +1,8 @@
-This guide explores ways to navigate to URLs more efficiently.
+This guide explores ways to navigate to URLs more efficiently, with a focus on the Google Chrome browser. It does not cover bookmarks or custom keyword searches.
 
 ==Steps==
 
-===Basic searching using the omnibox===
+===Basic search using the omnibox===
 
 ===Understanding site-specific URL manipulation===
 
@@ -10,7 +10,7 @@ This guide explores ways to navigate to URLs more efficiently.
 
 To make the results appear quickly, the omnibox limits the set of URLs it will search through. If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
 
-# In Chrome, you can go to the browser history by typing Ctrl+H, or Menu → History → History, or typing chrome://history/ in the omnibox.
+# In Chrome, you can go to the browser history by typing Ctrl+H, or Menu (⋮ or ☰) → History → History, or typing chrome://history/ in the omnibox.
 # At the top is a search box that says "Search history".
 # You can now type keywords or parts of a URL to filter the list of results.
 
