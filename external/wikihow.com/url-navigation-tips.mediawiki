@@ -42,6 +42,9 @@ https://issarice.com/export-chrome-history
 
 ==Related wikiHows==
 
+* [[View Browsing History]]
+* [[Use Google Chrome's Hidden Features]]
+
 == Sources and citations ==
 {{reflist}}
 __METHODS__
