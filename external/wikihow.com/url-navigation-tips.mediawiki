@@ -4,19 +4,37 @@ This guide explores ways to navigate to URLs more efficiently, with a focus on t
 
 ===Basic search using the omnibox===
 
+In Google Chrome, the URL and keyword navigation bar at the top is called the "omnibox". (In Firefox, it is called the "Awesome Bar".)
+
+# Figure out what you remember about a page. If you can remember words from the URL or title of the page, that makes searching much easier. If you can only remember a phrase that appeared on the page, or an idea discussed on the page, that is much harder.
+
 ===Understanding site-specific URL manipulation===
+
+GitHub: blob vs tree vs blame vs commits vs compare
+
+===Understanding site-specific search===
+
+Some sites have good search; if this is the case, it can often be better than searching through your browser history.
+
+e.g. Wikipedia has revision search.
+
+Even for sites that don't have good search, you can often get away with using the <code>site:</code> operator on Google.
+
+For sites where you can mirror the content locally, downloading some subset and searching locally using standard tools (grep, etc.) might be better. Example: for a GitHub repo, you might have cloned the repo already, and navigating the source tree using your text editor might be easier; Gmail and Facebook Messenger have exporting features, even if their own search might miss some results.
 
 ===Using the history search===
 
 To make the results appear quickly, the omnibox limits the set of URLs it will search through. If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
 
-# In Chrome, you can go to the browser history by typing Ctrl+H, or Menu (⋮ or ☰) → History → History, or typing chrome://history/ in the omnibox.
+# In Chrome, you can go to the browser history by typing Ctrl+H, or clicking Menu (⋮ or ☰) → History → History, or typing chrome://history/ in the omnibox and hitting Enter.
 # At the top is a search box that says "Search history".
 # You can now type keywords or parts of a URL to filter the list of results.
 
+I think Chrome deletes old history, so even this doesn't guarantee that you will find a URL that you've visited.
+
 ===Using the history database===
 
-On your computer, Chrome keeps a SQLite database of your browser history. This means that if you are already familiar with databases, you can work with your browser history in similar ways.
+On your computer, Chrome keeps a SQLite database of your browser history. This means that if you are already familiar with databases, you can work with your browser history in similar ways. In particular, you can list all of your history, filter through some subset of your history according to arbitrary criteria (e.g. exact match or fuzzy search), and programmatically process your history.
 
 Example: https://junegunn.kr/2015/04/browsing-chrome-history-with-fzf/
 
