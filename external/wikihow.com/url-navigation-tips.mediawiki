@@ -2,6 +2,28 @@ This guide explores ways to navigate to URLs more efficiently.
 
 ==Steps==
 
+===Basic searching using the omnibox===
+
+===Using the history search===
+
+chrome://history/
+
+===Using the history database===
+
+===Understanding how the omnibox works===
+
+# Understand the basic terminology used when talking about the omnibox.
+#* omnibox vs ??
+#* what a "provider" is
+# For each provider, understand the conditions required for a URL to appear as a suggestion.
+#* e.g. for HistoryQuick, conditions on last visit, typed count, visit count
+#* for HistoryURL, ???
+#* for Search, ???
+# Play around with the Omnibox Debug Page to build intuition
+#* Visit chrome://omnibox/
+#* type text and hit Enter or click "Submit"
+#* search results will appear for what ''would'' be suggested in the omnibox
+
 ==Tips==
 
 ==Related wikiHows==
