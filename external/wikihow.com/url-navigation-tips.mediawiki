@@ -7,10 +7,13 @@ This guide explores ways to navigate to URLs more efficiently, with a focus on t
 In Google Chrome, the URL and keyword navigation bar at the top is called the "omnibox". (In Firefox, it is called the "Awesome Bar".)
 
 # Figure out what you remember about a page. If you can remember words from the URL or title of the page, that makes searching much easier. If you can only remember a phrase that appeared on the page, or an idea discussed on the page, that is much harder.
+# Type the most uniquely identifying keywords for the page you are looking for. The goal is to quickly find the page you are looking for. If you visit many pages on en.wikipedia.org, then typing "wikipedia" will only find the most recent or most frequently visited pages on Wikipedia. It is better to type some word from the article title.
 
 ===Understanding site-specific URL manipulation===
 
-GitHub: blob vs tree vs blame vs commits vs compare
+If you haven't visited the specific URL you want, but you've visited similar URLs, then you can call up the similar URL and edit it by hand.
+
+Example: GitHub: blob vs tree vs blame vs commits vs compare
 
 ===Understanding site-specific search===
 
