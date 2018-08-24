@@ -50,15 +50,16 @@ https://issarice.com/export-chrome-history
 # Understand the basic terminology used when talking about the omnibox.
 #* omnibox vs ??
 #* what a "provider" is. In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
-#* The two history providers are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]. Other providers include BookmarkProvider and KeywordProvider.
+#* The two history providers are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]; these two apparently differ somehow, but it's not clear what the difference is (HistoryQuick seems to be newer). Other providers include BookmarkProvider and KeywordProvider.
 # For each provider, understand the conditions required for a URL to appear as a suggestion.
 #* e.g. for HistoryQuick, conditions on last visit, typed count, visit count
 #* for HistoryURL, ???
 #* for Search, ???
 # Play around with the Omnibox Debug Page to build intuition
-#* Visit chrome://omnibox/
-#* type text and hit Enter or click "Submit"
-#* search results will appear for what ''would'' be suggested in the omnibox
+#* Visit [chrome://omnibox/ <code>chrome://omnibox/</code>] in Google Chrome.
+#* Type text and hit Enter or click "Submit".
+#* Search results will appear for what ''would'' be suggested in the omnibox.
+#* Checking the different boxes like "Show all details" and "Show results per provider, not just merged results" will toggle the results to show more details.
 
 ==Tips==
 
