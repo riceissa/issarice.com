@@ -50,7 +50,7 @@ https://issarice.com/export-chrome-history
 # Understand the basic terminology used when talking about the omnibox.
 #* omnibox vs ??
 #* what a "provider" is. In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
-#* The two history providers are HistoryURLProvider and HistoryQuickProvider. Other providers include BookmarkProvider and KeywordProvider.
+#* The two history providers are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]. Other providers include BookmarkProvider and KeywordProvider.
 # For each provider, understand the conditions required for a URL to appear as a suggestion.
 #* e.g. for HistoryQuick, conditions on last visit, typed count, visit count
 #* for HistoryURL, ???
