@@ -1,14 +1,16 @@
-
+'''Aumann's agreement theorem''' states that when two agents have the same priors and have common knowledge of each other's posteriors, then the posteriors must be the same.<ref name="aumann-original">Robert J. Aumann. [http://www.ma.huji.ac.il/~raumann/pdf/Agreeing%20to%20Disagree.pdf "Agreeing to Disagree"]. November 1976.</ref> The proof of the theorem is simple; almost all the difficulty of understanding the theorem is in understanding the formalism used and how it applies to real-life situations.
 
 ==Information partitions==
 
 Actually, can't the information states overlap? What if, when Bob rolls a 1, Alice is told "1 or 3" and when Bob rolls a 2 is told "2 or 3" (with the rest of the situation remaining the same)? Then it seems like <math>I((2,1)) = \{(2,1),(2,3)\}</math> and <math>I((2,3)) = \{(2,2), (2,3)\}</math>, which overlap.
 
-Similarly in Geanakoplos's example on p. 261, in his example the agent is conveniently told whether the number is even or odd, giving a partition. But what if the agent is told whether the number is 1-7 or 2-8? It seems like this information states setup restricts the examples we can formalize, and the examples people consider seem to conveniently be formalizable.
+Similarly in Geanakoplos's example on p. 261,<ref name="geanakoplos">John Geanakoplos. [http://tark.org/proceedings/tark_mar22_92/p254-geanakoplos.pdf "Common Knowledge"].</ref> in his example the agent is conveniently told whether the number is even or odd, giving a partition. But what if the agent is told whether the number is 1-7 or 2-8? It seems like this information states setup restricts the examples we can formalize, and the examples people consider seem to conveniently be formalizable.
 
 In this case, if the real number happens to be 2-7, then the agent is told ''both'' "1-7" and "2-8", so he can deduce it is 2-7. Similarly, if he is told "1-7", then he can tell the number is 1, for if it wasn't 1, he would have also been told "2-8". So the information partition ends up being <math>\{ \{1\}, \{2,\ldots,7\}, \{8\} \}</math>. So a rational agent can ''make'' their possible information states into a partition by reasoning about which clues are communicated. A general version of this is probably some basic theorem in game theory or a related field, but I am highly ignorant.
 
 Actually, the above operation seems to be to "refine" the "partition" until it becomes an actual partition. The coarsest partition such that each element of the partition is a subset of the original set.
+
+"which means we both know what the intersection is" [https://rationalistramble.wordpress.com/2014/08/12/agreements-disagreements-and-likelihood-ratios/] I don't think Aumann assumes we know which element of the other's partition we are in, so I don't think we know what the intersection is.
 
 ==Join and meet==
 
@@ -16,13 +18,33 @@ Given two partitions of a set, the join is the coarsest common refinement, and t
 
 TODO give more formal definition
 
-TODO give imperative definition
+TODO give imperative definition <ref>Wei Dai. [https://www.lesswrong.com/posts/JdK3kr4ug9kJvKzGy/probability-space-and-aumann-agreement "Probability Space & Aumann Agreement"]. December 10, 2009.</ref>
+
+TODO <ref name="geanakoplos" /> gives a definition by defining <math>I\vee J</math> at each <math>\omega</math>
+
+<ref>https://math.stackexchange.com/questions/303834/common-knowledge-and-concept-of-coarsening-partition</ref>
+
+"So this “common knowledge” condition is tantamount to mind melding" [https://rationalistramble.wordpress.com/2014/08/12/agreements-disagreements-and-likelihood-ratios/]. But I think:
+
+* mind melding = join
+* common knowledge = meet
 
 ==Common knowledge==
 
 ==Statement of theorem==
 
-==General process for reaching agreement==
+==Clarifying what each agent knows==
+
+* the other's information partition?
+* the element of the other's information partition?
+* the intersection of the two elements of the information partitions?
+* the element of the meet of the information partitions?
+* the other's posterior?
+* the set of worlds where the other's posterior is equal to their current posterior?
+
+If I'm Alice with information partition <math>I</math>, then I can know <math>(I\wedge J)(\omega)</math> without knowing what <math>J(\omega)</math> is, right? So we can build common knowledge and exchange posteriors ''without'' exchanging our exact information states.
+
+==Mechanics for reaching agreement==
 
 In the idealized agreement theorem setup, the process for two agents, Alice and Bob, agreeing on posteriors of some event <math>A</math> will look like this:
 
@@ -37,7 +59,15 @@ What are the actual mechanics of observing the other's posterior and updating on
 
 Maybe knowing <math>J</math> and <math>q_2</math> is equivalent to knowing the set above, in which case Alice can receive <math>J</math> and <math>q_2</math> and compute the set on her own.
 
+Another confusion I have: Aumann's theorem only seems to say when the theorem applies at (6). But it seems like what we want to know in addition is that steps (1)–(5) converge, so that we ''can'' apply the theorem. Without knowing about convergence, it would seem like the theorem just doesn't apply in many cases. Aumann's paper concludes with "Our result implies that the process of exchanging information on the posteriors for <math>A</math> will continue until these posteriors are equal." If the posteriors ever become common knowledge, then sure, but what if they never become common knowledge?
+
+Given <math>I_0</math> and <math>J_0</math>, can we write <math>I_1, J_1</math> in general? It seems like what we want is <math>I_0 \vee J_0</math>, but then <math>I_1 = J_1</math>. Is this okay? It seems like the convergence then happens in a single step? Maybe the examples I'm considering are too simple. Aumann's second coin toss example seems to have more than one exchange, so I should study that in detail.
+
+There is a paper called something like "we can't disagree forever", which might be similar to the above.
+
 ==Hal Finney's example==
+
+This example is given by Hal Finney in a ''LessWrong'' comment.<ref>Hal Finney. [https://www.greaterwrong.com/posts/JdK3kr4ug9kJvKzGy/probability-space-and-aumann-agreement/comment/xitR7gQqjWKppW7M7 "HalFinney comments on Probability Space & Aumann Agreement"]. ''LessWrong''. December 11, 2009.</ref>
 
 Let Alice and Bob be two agents. Each rolls a die, and knows what they rolled. In addition to this, each knows whether the other rolled something in the range 1–3 versus 4–6. As an example, suppose Alice rolls a 2 and Bob rolls a 3. Then Alice knows that the outcome is one of (2,1), (2,2), or (2,3), and Bob knows that the outcome is one of (1,3), (2,3), or (3,3).
 
@@ -92,12 +122,14 @@ Alice knows she rolled a 2 and Bob rolled something between 1 and 3. Now, consid
 
 Another thing: can't Bob deduce that Alice must have rolled a 1 or 2 by knowing her posterior that X=4 is 1/2? If that's the case, it seems like the meet reduces to {(1,2), (1,3), (2,2), (2,3)}, which is the same as E, so the agreement theorem applies again, with the posterior of X=4 being 1/2. Actually, this might be the whole ''point'' of Aumanning, because otherwise the theorem just doesn't apply in most cases.
 
-==Aumann's coin flip example==
+==Aumann's first coin flip example==
+
+This example is from Aumann's original paper.<ref name="aumann-original" />
 
 let's hope i get this right. let A be the event "heads on the second toss", H be the event "heads on first toss" and T be the event "tails on first toss". B is the random variable representing the bias of the coin, and b is a specific value. B is distributed uniformly in <math>[0,1]</math>.
 
-<math>\begin{align}\Pr(A\mid H) &= \int_{b\in [0,1]} \Pr(A \mid H, B=b)\cdot \Pr(B=b\mid H) \\
-&= \int_{b\in [0,1]} b \cdot \frac{\Pr(H\mid B=b) \cdot \Pr(B=b)}{\Pr(H)} \\
+<math>\begin{align}\Pr(A\mid H) &= \int_0^1 \Pr(A \mid H, B=b)\cdot \Pr(B=b\mid H) \, db \\
+&= \int_0^1 b \cdot \frac{\Pr(H\mid B=b) \cdot \Pr(B=b)}{\Pr(H)} \, db \\
 &= \int_0^1 b \cdot 2b\,db \\
 &= 2/3
 \end{align}</math>
@@ -111,15 +143,11 @@ and
 &= 1/3
 \end{align}</math>
 
+==Aumann's second coin flip example==
+
+This example is from Aumann's original paper.<ref name="aumann-original" />
+
 <ref>Tyrrell McAllister. [https://web.archive.org/web/20110725162431/http://dl.dropbox.com/u/34639481/Aumann_agreement_theorem.pdf "Aumann's agreement theorem"]. July 7, 2011.</ref>
-
-<ref>Wei Dai. [https://www.lesswrong.com/posts/JdK3kr4ug9kJvKzGy/probability-space-and-aumann-agreement "Probability Space & Aumann Agreement"]. December 10, 2009.</ref>
-
-<ref>Robert J. Aumann. [http://www.ma.huji.ac.il/~raumann/pdf/Agreeing%20to%20Disagree.pdf "Agreeing to Disagree"]. November 1976.</ref>
-
-<ref>https://math.stackexchange.com/questions/303834/common-knowledge-and-concept-of-coarsening-partition</ref>
-
-<ref>John Geanakoplos. [http://tark.org/proceedings/tark_mar22_92/p254-geanakoplos.pdf "Common Knowledge"].</ref>
 
 ==References==
 
