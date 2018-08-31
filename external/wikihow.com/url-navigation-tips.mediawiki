@@ -1,13 +1,15 @@
-This guide explores ways to navigate to URLs more efficiently, with a focus on the Google Chrome browser. It does not cover bookmarks or custom keyword searches.
+This guide explores ways to navigate to URLs more efficiently, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides.
 
 ==Steps==
 
-===Basic search using the omnibox===
+===Basic search using the address bar (omnibox or Awesome Bar)===
 
-In Google Chrome, the URL and keyword navigation bar at the top is called the "omnibox". (In Firefox, it is called the "Awesome Bar".)
+The address bar (or URL and keyword navigation bar) at the top of the browser displays the current page's URL. Most of the time when navigating to a specific URL, you will be typing words or fragments of the URL into this bar and selecting from the suggestions given by the browser. In Google Chrome, this bar is called the "omnibox". In Mozilla Firefox, it is called the Awesome Bar.
 
-# Figure out what you remember about a page. If you can remember words from the URL or title of the page, that makes searching much easier. If you can only remember a phrase that appeared on the page, or an idea discussed on the page, that is much harder.
+# Figure out what you remember about a page. If you can remember words from the URL or title of the page, that makes searching much easier (because the URL and title are what the browser remembers about the page). If you can only remember a phrase that appeared on the page, or an idea discussed on the page, locating the page is much harder.
 # Type the most uniquely identifying keywords for the page you are looking for. The goal is to quickly find the page you are looking for. If you visit many pages on en.wikipedia.org, then typing "wikipedia" will only find the most recent or most frequently visited pages on Wikipedia. It is better to type some word from the article title.
+# If you can't find what you're looking for, try variations on words. It is possible that (1) you misremembered a specific word that appears in the URL or title (e.g. you remembered a synonym); (2) the page uses a variant spelling (e.g. US vs UK spelling); (3) the word-breaking used in the URL or title is different (e.g. "sunset" vs "sun set", "CamelCase" vs "camel case").
+# If you can't locate the URL in your history, try using a search engine. The address bar in both Chrome and Firefox will allow you to directly search the web (using the default search engine). If the history-based suggestions are not helpful, try hitting enter anyway to see if a search engine can help.
 
 ===Understanding site-specific URL manipulation===
 
