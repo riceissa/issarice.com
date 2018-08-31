@@ -27,6 +27,8 @@ Even for sites that don't have good search, you can often get away with using th
 
 For sites where you can mirror the content locally, downloading some subset and searching locally using standard tools (grep, etc.) might be better. Example: for a GitHub repo, you might have cloned the repo already, and navigating the source tree using your text editor might be easier; Gmail and Facebook Messenger have exporting features, even if their own search might miss some results.
 
+navigating by clicking is also possible, but often much slower: https://www.benkuhn.net/autocomplete
+
 ===Using the history search===
 
 To make the results appear quickly, the omnibox limits the set of URLs it will search through. If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
@@ -39,9 +41,11 @@ I think Chrome deletes old history, so even this doesn't guarantee that you will
 
 ===Using the history database===
 
-On your computer, Chrome keeps a SQLite database of your browser history. This means that if you are already familiar with databases, you can work with your browser history in similar ways. In particular, you can list all of your history, filter through some subset of your history according to arbitrary criteria (e.g. exact match or fuzzy search), and programmatically process your history.
+On your computer, both Chrome and Firefox keep a SQLite database of your browser history. This means that if you are already familiar with databases, you can work with your browser history in the same way. For example, you can list all of your history, filter through some subset of your history according to arbitrary criteria (e.g. substring match, fuzzy search, regular expressions), and programmatically process your history.
 
-Example: https://junegunn.kr/2015/04/browsing-chrome-history-with-fzf/
+Working directly with the history database takes some preparation, in terms of locating the database, learning the structure of the tables, and looking for or writing custom tools. Therefore, most users will probably not want to do this.
+
+An example of using the Chrome history database is Junegunn Choi's article "Browsing Chrome history with fzf".<ref>Junegunn Choi. [https://junegunn.kr/2015/04/browsing-chrome-history-with-fzf/ "Browsing Chrome history with fzf"]. April 6, 2015. Retrieved August 30, 2018.</ref> This article describes the steps for writing a shell function that queries the history database and searches the whole history using a fuzzy finder called fzf. The upshot is that one can type a command ("c" in the article) at the terminal to search through one's entire Chrome history using fuzzy search and open the found URL using Chrome.
 
 Example: https://www.forensicswiki.org/wiki/Google_Chrome#History
 
@@ -63,6 +67,8 @@ https://issarice.com/export-chrome-history
 #* Type text and hit Enter or click "Submit".
 #* Search results will appear for what ''would'' be suggested in the omnibox.
 #* Checking the different boxes like "Show all details" and "Show results per provider, not just merged results" will toggle the results to show more details.
+
+===Understanding how the frecency algorithm works===
 
 ==Tips==
 
