@@ -13,9 +13,13 @@ The address bar (or URL/keyword navigation bar) at the top of the browser displa
 
 ===Understanding site-specific URL manipulation===
 
+If you frequently use a particular website, it may be worth understanding the URL structure of the website so you can navigate it more easily.
+
 If you haven't visited the specific URL you want, but you've visited similar URLs, then you can call up the similar URL and edit it by hand.
 
 Example: GitHub: blob vs tree vs blame vs commits vs compare
+
+Example: if you're browsing a reddit comment, you can delete the last part of the URL to return to the thread.
 
 ===Understanding site-specific search===
 
@@ -33,7 +37,7 @@ navigating by clicking is also possible, but often much slower: https://www.benk
 
 To make the results appear quickly, the omnibox limits the set of URLs it will search through. If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
 
-# In Chrome, you can go to the browser history by typing Ctrl+H, or clicking Menu (⋮ or ☰) → History → History, or typing chrome://history/ in the omnibox and hitting Enter.
+# In Chrome, you can go to the browser history by typing Ctrl+H, or clicking Menu (⋮ or ☰) → History → History, or typing <code>chrome://history/</code> in the omnibox and hitting Enter.
 # At the top is a search box that says "Search history".
 # You can now type keywords or parts of a URL to filter the list of results.
 
@@ -63,7 +67,7 @@ https://issarice.com/export-chrome-history
 #* for Search, ???
 #* The constants that modify the behavior of the history providers are all hard-coded in the source code (they don't seem to be modifiable in the preferences). This means that if you don't like their behavior, you can just change the values of these constants and recompile (but I think only on Chromium).
 # Play around with the Omnibox Debug Page to build intuition
-#* Visit [chrome://omnibox/ <code>chrome://omnibox/</code>] in Google Chrome.
+#* Visit <code>chrome://omnibox/</code> in Google Chrome.
 #* Type text and hit Enter or click "Submit".
 #* Search results will appear for what ''would'' be suggested in the omnibox.
 #* Checking the different boxes like "Show all details" and "Show results per provider, not just merged results" will toggle the results to show more details.
