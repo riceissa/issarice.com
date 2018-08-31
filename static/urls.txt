@@ -13,6 +13,7 @@ https://www.greaterwrong.com/users/sarahconstantin?format=rss
 https://www.greaterwrong.com/users/valentine?show=posts&format=rss
 https://www.greaterwrong.com/users/paulfchristiano?format=rss
 https://www.greaterwrong.com/users/robbbb?format=rss
+https://www.greaterwrong.com/users/academian?format=rss
 http://effective-altruism.com/user/RobBensinger/.rss
 http://effective-altruism.com/.rss
 http://effective-altruism.com/user/Lila/.rss
@@ -24,6 +25,7 @@ https://intelligence.org/blog/feed/
 http://aiimpacts.org/feed/
 http://rationality.org/feed.xml
 http://existence.org/feed.xml
+http://blog.acritch.com/atom.xml
 http://acritch.com/blog/feed/
 http://www.bayesianinvestor.com/blog/index.php/category/books/feed/
 https://www.centreforeffectivealtruism.org/blog.xml
