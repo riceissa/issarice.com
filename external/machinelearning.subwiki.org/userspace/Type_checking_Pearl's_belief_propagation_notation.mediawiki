@@ -1,0 +1,53 @@
+this is all from Judea Pearl's ''Probabilistic Reasoning in Intelligent Systems'', chapter 4.
+
+==Probability of a random variable==
+
+Pearl writes expressions like "<math>\lambda(x)</math>" and "<math>\pi(x)</math>", but I think these can't be understood literally. If <math>x</math> is in the range of a random variable <math>X</math>, then we should be able to write things like <math>\lambda(x_1)</math> as well. But <math>\lambda(x)</math> is actually a vector standing for all possible values in the range of <math>X</math>.
+
+My own attempt at making this more coherent is the following. Let <math>\operatorname{range} X = \{X(\omega) : \omega \in \Omega\}</math>, and let <math>m = \operatorname{card} (\operatorname{range} X)</math>. In other words, <math>n</math> is the number of distinct values that <math>X</math> takes on. Then we define the vector
+
+:<math>\Pr(X) := (\Pr(X = x_1), \ldots, \Pr(X = x_n)) \in [0,1]^m</math>
+
+where <math>x_1, \ldots, x_m</math> are the <math>m</math> distinct values of <math>X</math>. A small problem is that we have to fix some ordering of <math>x_1, \ldots, x_m</math>. Since <math>x_1, \ldots, x_m \in \mathbf R</math>, I think we can just pick indexes such that <math>x_1 < \cdots < x_m</math>.
+
+Notice that we have defined the ''probability of a random variable'' (rather than a probability of an event).
+
+We will also define the probability of a random variable conditioned on another random variable. This will be a matrix.
+
+:<math>\Pr(Y\mid X) := \begin{pmatrix} \Pr(Y=y_1 \mid X=x_1) & \cdots &\Pr(Y=y_n \mid X=x_1) \\
+\vdots & \ddots & \vdots \\
+\Pr(Y=y_1 \mid X=x_m) & \cdots & \Pr(Y=y_n\mid X=x_m)\end{pmatrix} \in [0,1]^{m,n}</math>
+
+where <math>m = \operatorname{card} (\operatorname{range} X)</math> and <math>n = \operatorname{card} (\operatorname{range} Y)</math>.
+
+Pearl writes the above matrix as <math>M_{y\,\vert\,x}</math>.
+
+I think the main problem with Pearl's notation is that sometimes the lowercase letters represent "possible values (in the abstract) of the variable" and other times they represent specific values. For example he writes:
+
+:<math>f(x) \cdot M_{y\,\vert\,x} = \sum_x f(x)M_{y\,\vert\,x}</math>
+
+On the left side, <math>f(x)</math> is a vector and <math>M_{y\,\vert\,x}</math> is a matrix (representing the abstract possibilities), while on the right side, <math>f(x)</math> is a number and <math>M_{y\,\vert\,x}</math> is a vector (representing specific values)! The result is that you can't just look at something like "<math>M_{y\,\vert\,x}</math>" in isolation and know its type; you must always keep in mind the context. (This is similar to how in linear algebra, <math>0</math> can be a scalar or vector of any size, depending on what the surrounding expressions are. The difference is that here, ''all'' the expressions are relativistic in this sense, so you don't have anything to ground you on.)
+
+My own opinion is that the formalism of random variables takes care of representing "abstract possibilities", so why not just use that?
+
+With the random variable notation, we can write:
+
+:<math>f(X) \cdot M_{Y\,\vert\,X} = \sum_{x\in\operatorname{range}X} f(x)M_{Y\,\vert\,x} \in \mathbf R^n</math>
+
+where <math>M_{Y\,\vert\,x}</math> means the row of <math>M_{Y\,\vert\,X}</math> where <math>X=x</math>.
+
+==Evidence==
+
+When Pearl writes evidence like <math>e, e^+, e^-, e^-_X</math> and so on, I think in all cases these are events, i.e. subsets of the underlying sample space.
+
+Therefore, expressions like <math>P(e^-_X\mid x)</math> that involve a single "abstract" variable are vectors, in this case the vector <math>(P(e^-_X\mid X=x_1), \ldots, P(e^-_X\mid X=x_m)) \in \mathbf R^m</math>.
+
+The evidence notation like <math>e^-_X = \{e^-_{XY_1},\ldots,e^-_{XY_m}\}</math> is confusing to me. It is written like the elements of a set, and is also written as a disjunction, but seems to mean a conjunction (when written in probabilities, Pearl breaks them apart to multiply them).
+
+==Making sense of pi and lambda==
+
+When you see <math>\pi_Y(x)</math> or <math>\lambda_X(u)</math> how should you interpret this? In each case, the subscript is the child node, and the argument is the parent node. Thus, <math>X\to Y</math> and <math>U\to X</math>. When you see <math>\pi</math>, that means a message from the parent to child, i.e. from X to Y. When you see <math>\lambda</math>, that means a message from the child to parent, i.e. from X to U.
+
+Going the other direction, let's say we have the link <math>W\to Z</math>. What is the message from W to Z? It goes from parent to child, so must be a pi. And Z is the child, so takes the subscript. We get <math>\pi_Z(w)</math>.
+
+What is the message from Z to W? It goes from child to parent, so must be a lambda, and again Z takes the subscript, so we get <math>\lambda_Z(w)</math>.

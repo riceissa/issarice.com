@@ -1,0 +1,14 @@
+* "Several cognitive biases can be seen as confusion between probabilities and likelihoods, most centrally base-rate neglect." [https://www.greaterwrong.com/posts/tp4rEtQqRshPavZsr/learn-bayes-nets]
+** confusing p-values with Pr(null hypothesis {{!}} data) seems like another instance of this.
+** confidence interval vs credible interval also does this flipping about the conditional bar.
+* I think a polytree graph like <math>X\rightarrow Z \leftarrow Y</math> can illuminate the halo effect/horn effect
+* Maybe https://en.wikipedia.org/wiki/Berkson%27s_paradox The page even says "The effect is related to the explaining away phenomenon in Bayesian networks."
+* Fundamental attribution error? The simplified DAG would look like: situational influence → observed action ← personality. And the evidence feeds into the "observed action" node, which propagates upwards to the "situational influence" and "personality" nodes. I think the bias is that the "personality" node gets updated too much. Can belief propagation give insight into this?
+* This one might be too simple, but the idea of [https://wiki.lesswrong.com/wiki/Screening_off screening off] I think can be visualized in a Bayesian network. Not sure where the belief propagation would come in though... Related here are [https://en.wikipedia.org/wiki/Group_attribution_error]/stereotyping.
+* Hindsight bias seems like an evidence node misfiring and causing updates in the graph?
+
+==possibly related==
+
+* https://www.greaterwrong.com/posts/KbCHcb8yyjAMFAAPJ/when-wishful-thinking-works
+* https://www.gwern.net/Sunk-cost
+* http://agentyduck.blogspot.com/2014/02/lobs-theorem-cured-my-social-anxiety.html (lol)
