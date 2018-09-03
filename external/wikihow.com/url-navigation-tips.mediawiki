@@ -1,15 +1,15 @@
-This guide explores ways to navigate to URLs more efficiently, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides.
+This guide explores ways to navigate to URLs more efficiently inside a web browser, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides.
 
 ==Steps==
 
 ===Basic search using the address bar (omnibox or Awesome Bar)===
 
-The address bar (or URL/keyword navigation bar) at the top of the browser displays the current webpage's URL. Most of the time when navigating to a specific page that you have visited in the past, you will be typing words from the URL or title of the page into this bar and selecting from the suggestions given by the browser. In Google Chrome, this bar is called the "omnibox". In Mozilla Firefox, it is called the Awesome Bar.
+The address bar (or URL/keyword navigation bar) at the top of the browser displays the current webpage's URL. Most of the time when navigating to a specific page that you have visited in the past, you will be typing words from the URL or title of the page into this bar and selecting from the suggestions given by the browser. In Google Chrome, this bar is called the omnibox. In Mozilla Firefox, it is called the Awesome Bar.
 
 # Figure out what you remember about a page. If you can remember words from the URL or title of the page, that makes searching much easier (because the URL and title are what the browser remembers about the page). If you can only remember a phrase that appeared on the page, or an idea discussed on the page, locating the page is much harder.
 # Type the most uniquely identifying keywords for the page you are looking for. The goal is to quickly find the page you are looking for. To do this, you want to type words that (1) identify the page of interest; and (2) identify as few as possible of pages that are not of interest. If you visit many pages on en.wikipedia.org, then typing "wikipedia" will certainly identify the page of interest, but it will also find many other pages that are not of interest. The end result is that you will only find the most recent or most frequently visited pages on Wikipedia, rather than the specific article you are looking for. It is better to type some word from the article title.
-# If you can't find what you're looking for, try variations on words. It is possible that (1) you misremembered a specific word that appears in the URL or title (e.g. you remembered a synonym); (2) the page uses a variant spelling (e.g. US vs UK spelling); (3) the word-breaking used in the URL or title is different (e.g. "sunset" vs "sun set", "CamelCase" vs "camel case").
-# If you can't locate the URL in your history, try using a search engine. The address bar in both Chrome and Firefox will allow you to directly search the web (using the default search engine). If the history-based suggestions are not helpful, try hitting enter anyway to see if a search engine can help.
+# If you can't find what you're looking for, try variations on words. It is possible that (1) you misremembered a specific word that appears in the URL or title (e.g. you remembered a synonym instead of the actual word); (2) the page uses a variant spelling (e.g. US vs UK spelling); (3) the word-breaking used in the URL or title is different (e.g. "commandline" vs "command-line" vs "command line", "CamelCase" vs "camel case").
+# If you can't locate the URL in your history, try using a search engine. The address bar in both Chrome and Firefox will allow you to directly search the web (using the default search engine or search engine specified in the settings). If the history-based suggestions are not helpful, try hitting enter anyway to see if a search engine can help.
 
 ===Understanding site-specific URL manipulation===
 
@@ -17,9 +17,8 @@ If you frequently use a particular website, it may be worth understanding the UR
 
 If you haven't visited the specific URL you want, but you've visited similar URLs, then you can call up the similar URL and edit it by hand.
 
-Example: GitHub: blob vs tree vs blame vs commits vs compare
-
-Example: if you're browsing a reddit comment, you can delete the last part of the URL to return to the thread.
+# Example from Github: Suppose you have visited the URL <code>https://github.com/jgm/pandoc/blob/master/doc/lua-filters.md</code> before. Then you can type in the address bar <code>lua filters</code> to call up this stored URL. If you then want to see the version history of this file, you can change the <code>blob</code> to <code>commits</code>. If you want to see other files in the same directory, you can delete the filename <code>lua-filters.md</code> and change the <code>blob</code> to <code>tree</code>. In both of these cases, you ''can'' first visit <code>https://github.com/jgm/pandoc/blob/master/doc/lua-filters.md</code> and then click on a link on that page to navigate to the other pages. However, manipulating the URL will allow you to get to your destination without first loading the original page.
+# Example from Wikipedia: Suppose you want to see the revision history of a particular Wikipedia page, <code>X</code>. Suppose also that you have visited at least one revision history page for a different Wikipedia article, <code>Y</code>. Then you can type <code>wikipedia history</code> in your address bar to call up <code>https://en.wikipedia.org/w/index.php?title=Y&action=history</code>, then change the <code>Y</code> to <code>X</code> to get <code>https://en.wikipedia.org/w/index.php?title=X&action=history</code>.
 
 ===Understanding site-specific search===
 
