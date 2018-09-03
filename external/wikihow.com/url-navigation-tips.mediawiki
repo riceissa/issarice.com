@@ -9,7 +9,7 @@ The address bar (or URL/keyword navigation bar) at the top of the browser displa
 # Figure out what you remember about a page. If you can remember words from the URL or title of the page, that makes searching much easier (because the URL and title are what the browser remembers about the page). If you can only remember a phrase that appeared on the page, or an idea discussed on the page, locating the page is much harder.
 # Type the most uniquely identifying keywords for the page you are looking for. The goal is to quickly find the page you are looking for. To do this, you want to type words that (1) identify the page of interest; and (2) identify as few as possible of pages that are not of interest. If you visit many pages on en.wikipedia.org, then typing "wikipedia" will certainly identify the page of interest, but it will also find many other pages that are not of interest. The end result is that you will only find the most recent or most frequently visited pages on Wikipedia, rather than the specific article you are looking for. It is better to type some word from the article title.
 # If you can't find what you're looking for, try variations on words. It is possible that (1) you misremembered a specific word that appears in the URL or title (e.g. you remembered a synonym instead of the actual word); (2) the page uses a variant spelling (e.g. US vs UK spelling); (3) the word-breaking used in the URL or title is different (e.g. "commandline" vs "command-line" vs "command line", "CamelCase" vs "camel case").
-# If you can't locate the URL in your history, try using a search engine. The address bar in both Chrome and Firefox will allow you to directly search the web (using the default search engine or search engine specified in the settings). If the history-based suggestions are not helpful, try hitting enter anyway to see if a search engine can help.
+# If you can't locate the URL in your history, try using a search engine. The address bar in both Chrome and Firefox will allow you to directly search the web (using the default search engine or search engine specified in the settings). If the history-based suggestions are not helpful, try hitting Enter anyway to see if a search engine can help.
 
 ===Understanding site-specific URL manipulation===
 
@@ -34,13 +34,15 @@ navigating by clicking is also possible, but often much slower: https://www.benk
 
 ===Using the history search===
 
-To make the results appear quickly, the omnibox limits the set of URLs it will search through. If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
+To make the results appear quickly, the omnibox limits the set of URLs it will search through. (Firefox may or may not limit the URLs it will search through in the Awesome Bar.) If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
 
 # In Chrome, you can go to the browser history by typing Ctrl+H, or clicking Menu (⋮ or ☰) → History → History, or typing <code>chrome://history/</code> in the omnibox and hitting Enter.
 # At the top is a search box that says "Search history".
 # You can now type keywords or parts of a URL to filter the list of results.
 
 I think Chrome deletes old history, so even this doesn't guarantee that you will find a URL that you've visited.
+
+https://www.quora.com/Does-Mozilla-Firefox-delete-old-history-entries-from-its-places-sqlite-file
 
 ===Using the history database===
 
