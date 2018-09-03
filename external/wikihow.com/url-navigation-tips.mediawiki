@@ -52,10 +52,6 @@ Working directly with the history database takes some preparation, in terms of l
 
 An example of using the Chrome history database is Junegunn Choi's article "Browsing Chrome history with fzf".<ref>Junegunn Choi. [https://junegunn.kr/2015/04/browsing-chrome-history-with-fzf/ "Browsing Chrome history with fzf"]. April 6, 2015. Retrieved August 30, 2018.</ref> This article describes the steps for writing a shell function that queries the history database and searches the whole history using a fuzzy finder called fzf. The upshot is that one can type a command ("c" in the article) at the terminal to search through one's entire Chrome history using fuzzy search and open the found URL using Chrome.
 
-Example: https://www.forensicswiki.org/wiki/Google_Chrome#History
-
-https://issarice.com/export-chrome-history
-
 ===Understanding how the omnibox works===
 
 # Understand the basic terminology used when talking about the omnibox.
