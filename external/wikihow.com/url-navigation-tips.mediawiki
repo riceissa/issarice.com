@@ -54,6 +54,8 @@ An example of using the Chrome history database is Junegunn Choi's article "Brow
 
 ===Understanding how the omnibox works===
 
+maybe the most important point is that omnibox doesn't search all your history, so if you can't find something, giving up and going to history search is a good idea.
+
 # Understand the basic terminology used when talking about the omnibox.
 #* omnibox vs ??
 #* what a "provider" is. In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
