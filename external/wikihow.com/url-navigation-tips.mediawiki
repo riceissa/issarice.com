@@ -1,4 +1,4 @@
-This guide explores ways to navigate to URLs more efficiently inside a web browser, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides. This guide emphasizes typing words to navigate rather than clicking an navigating menus.<ref>Ben Kuhn. [https://www.benkuhn.net/autocomplete "Autocomplete as an interface"]. September 2015. Retrieved September 5, 2018.</ref>
+This guide explores ways to navigate to URLs more efficiently inside a web browser, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides. This guide emphasizes typing words to navigate rather than clicking and navigating menus.<ref>Ben Kuhn. [https://www.benkuhn.net/autocomplete "Autocomplete as an interface"]. September 2015. Retrieved September 5, 2018.</ref>
 
 ==Summary table==
 
@@ -71,11 +71,11 @@ If you haven't visited the specific URL you want, but you've visited similar URL
 
 ===Understanding site-specific search===
 
-If you cannot remember a word the appears in the title or URL of the page you are looking for, then the address bar/history search approaches don't work. In this case, if you happen to remember a word that appears in the body of the page ''and'' you remember the website it was on, then using a site-specific search can be a good idea.
+If you cannot remember a word that appears in the title or URL of the page you are looking for, then the address bar/history search approaches don't work. In this case, if you happen to remember a word that appears in the body of the page ''and'' you remember the website it was on, then using a site-specific search can be a good idea.
 
 # Figure out if the website has a search box. Note that some websites have search boxes that function poorly. An example of a website with a fairly good search box is the [https://en.wikipedia.org/w/index.php?title=Special:Search&profile=advanced&search=&fulltext=1 English Wikipedia].
 # If the website has a good search box, try typing in some words and hitting Enter. Some search boxes support advanced features like Boolean operators, so you may want to check for these.
-# If the website doesn't have a search box or only has a bad search box, you can try using a generic search engine with the <code>site:</code> operator. For example, typing [https://www.google.com/search?q=site%3Aen.wikipedia.org+the+pillows site:en.wikipedia.org the pillows] on Google will search for the string "the pillows" (without quotes) on the domain en.wikipedia.org (i.e. the English Wikipedia).
+# If the website doesn't have a search box or only has a bad search box, you can try using a generic search engine with the <code>site:</code> operator. For example, typing [https://www.google.com/search?q=site%3Aen.wikipedia.org+the+pillows <code>site:en.wikipedia.org the pillows</code>] on Google will search for the string <code>the pillows</code> on the domain en.wikipedia.org (i.e. the English Wikipedia).
 
 ===Using the history database===
 
@@ -87,7 +87,13 @@ An example of using the Chrome history database is Junegunn Choi's article "Brow
 
 ===Using a full mirror of the content===
 
-For sites where you can mirror the content locally, downloading some subset and searching locally using standard tools (grep, etc.) might be better. Example: for a GitHub repo, you might have cloned the repo already, and navigating the source tree using your text editor might be easier; Gmail and Facebook Messenger have exporting features, even if their own search might miss some results.
+If you need to repeatedly search the same site, you may want to consider making a full local mirror of the website content (or some subset of it). This is especially the case if the site has a bad search box and cannot be searched by a search engine. The article [[How to Archive Websites on Unix Like Systems]] covers some considerations for how to mirror a website.
+
+Some example situations where you might want to do this:
+
+# You frequently work with a specific repository on GitHub. Since GitHub repositories can easily be cloned, you can do this once and search through the repository using standard tools like your text editor/IDE and [https://en.wikipedia.org/wiki/Grep grep].
+# You want to search through a personal archive, like your Gmail or Facebook Messenger messages, where the content is not public. These services often have a feature to export your personal content. Once downloaded, you can search through the results locally.
+# You want to search through the contributions of a particular user on a website, but the website's search function doesn't allow you to filter by author. In this case, you can download all of the contributions of the user, then search locally.
 
 ===Understanding how the omnibox works===
 
