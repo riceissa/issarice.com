@@ -54,16 +54,15 @@ An example of using the Chrome history database is Junegunn Choi's article "Brow
 
 ===Understanding how the omnibox works===
 
-maybe the most important point is that omnibox doesn't search all your history, so if you can't find something, giving up and going to history search is a good idea.
+''This section is only relevant to Google Chrome.''
+
+For the purposes of quickly navigation to a particular URL, probably the most important takeaways from the way to omnibox works are: (1) a URL is suggested only if there is a match at a word boundary, for at least one word you typed; and (2) the omnibox doesn't search all of your history, so if you can't find something that you know you've visited before, going to history search is a good idea.
 
 # Understand the basic terminology used when talking about the omnibox.
-#* omnibox vs ??
-#* what a "provider" is. In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
-#* The two history providers are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]; these two apparently differ somehow, but it's not clear what the difference is (HistoryQuick seems to be newer). Other providers include BookmarkProvider and KeywordProvider.
+#* A ''provider'' gives suggestions to the omnibox. There are various providers, each giving a specific list of suggestions given some input. In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
+#* Two providers give history suggestions. These are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]. The former specializes in giving prefix matches for a URL. The latter 
 # For each provider, understand the conditions required for a URL to appear as a suggestion.
-#* e.g. for HistoryQuick, conditions on last visit, typed count, visit count
-#* for HistoryURL, ???
-#* for Search, ???
+#* For both <code>HistoryURLProvider</code> and <code>HistoryQuickProvider</code>, URLs are suggested only if visited in the last 3 days or visited at least 4 times or typed at least once.<ref>[https://groups.google.com/a/chromium.org/d/msg/chromium-dev/hnKoQETXzyY/XiWJpZwLEQAJ "Understanding differences between HistoryURL and HistoryQuick providers, and exact conditions for when a URL is suggested by each"]. Chromium-dev mailing list. August 24, 2018.</ref>
 #* The constants that modify the behavior of the history providers are all hard-coded in the source code (they don't seem to be modifiable in the preferences). This means that if you don't like their behavior, you can just change the values of these constants and recompile (but I think only on Chromium).
 # Play around with the Omnibox Debug Page to build intuition
 #* Visit <code>chrome://omnibox/</code> in Google Chrome.
@@ -71,7 +70,9 @@ maybe the most important point is that omnibox doesn't search all your history, 
 #* Search results will appear for what ''would'' be suggested in the omnibox.
 #* Checking the different boxes like "Show all details" and "Show results per provider, not just merged results" will toggle the results to show more details.
 
-===Understanding how the frecency algorithm works===
+===Understanding how the Awesome Bar works===
+
+frecency algorithm
 
 I think frecency only covers the ''ranking'' of the results. How does firefox decide which URLs to match given some typed phrases?
 
