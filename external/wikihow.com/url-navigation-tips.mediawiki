@@ -2,6 +2,8 @@ This guide explores ways to navigate to URLs more efficiently inside a web brows
 
 ==Summary table==
 
+The following table summarizes the various strategies for navigation covered in this article.
+
 {| class="sortable wikitable"
 |-
 ! Strategy !! What you need to remember about a page !! Pros !! Cons/caveats
