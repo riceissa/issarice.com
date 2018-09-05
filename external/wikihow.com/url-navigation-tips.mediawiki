@@ -13,6 +13,11 @@ The following table summarizes the various strategies for navigation covered in 
 | Easy to use and searching is fast
 | In Google Chrome, the set of URLs that are searched is limited to those visited in the last 3 days or visited at least 4 times or typed at least once
 |-
+| Search engine (without <code>site:</code> operator)
+| A word that appears in the URL, title, or body of the page
+| You don't need to remember a word or phrase in the URL/title
+| Without the <code>site:</code> operator, a search engine will search all of the internet, so you will possibly have to sift through many irrelevant results
+|-
 | History search
 | A word that appears in the URL or title
 | Easy to use and searches through all of your browser's history
@@ -33,10 +38,10 @@ The following table summarizes the various strategies for navigation covered in 
 | Fully programmable/customizable once setup is complete
 | Requires manual setup
 |-
-| Search engine (without <code>site:</code> operator)
+| Mirror of content
 | A word that appears in the URL, title, or body of the page
-| You don't need to remember a word or phrase in the URL/title
-| Without the <code>site:</code> operator, a search engine will search all of the internet, so you will possibly have to sift through many irrelevant results
+| Search criteria more flexible
+| Requires downloading content
 |}
 
 ==Steps==
@@ -97,15 +102,15 @@ Some example situations where you might want to do this:
 
 ===Understanding how the omnibox works===
 
-''This section is only relevant to Google Chrome.''
+''This section is only relevant to Google Chrome. This section also talks about Chromium rather than Chrome, because the latter is based on the former and only the source code for the former is publicly available.''
 
-For the purposes of quickly navigation to a particular URL, probably the most important takeaways from the way to omnibox works are: (1) a URL is suggested only if there is a match at a word boundary, for at least one word you typed; and (2) the omnibox doesn't search all of your history, so if you can't find something that you know you've visited before, going to history search is a good idea.
+For the purposes of quickly navigating to a particular URL, probably the most important takeaways from the way the omnibox works are: (1) a URL is suggested only if there is a match at a word boundary for at least one word you typed; and (2) the omnibox doesn't search all of your history, so if you can't find something that you know you've visited before, going to history search is a good idea. The rest of this section looks at the omnibox in more detail.
 
 # Understand the basic terminology used when talking about the omnibox.
-#* A ''provider'' gives suggestions to the omnibox. There are various providers, each giving a specific list of suggestions given some input. In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
-#* Two providers give history suggestions. These are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]. The former specializes in giving prefix matches for a URL. The latter 
-# For each provider, understand the conditions required for a URL to appear as a suggestion.
-#* For both <code>HistoryURLProvider</code> and <code>HistoryQuickProvider</code>, URLs are suggested only if visited in the last 3 days or visited at least 4 times or typed at least once.<ref>[https://groups.google.com/a/chromium.org/d/msg/chromium-dev/hnKoQETXzyY/XiWJpZwLEQAJ "Understanding differences between HistoryURL and HistoryQuick providers, and exact conditions for when a URL is suggested by each"]. Chromium-dev mailing list. August 24, 2018.</ref>
+#* A ''provider'' gives suggestions to the omnibox. There are various providers, each giving a specific list of suggestions given some input (or no input). In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
+#* Two providers give history suggestions. These are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]. The former specializes in giving suggestions based on prefix matches for a URL. The latter can give suggestions based on non-prefix matches, and also matches words in the title.
+# For each provider, understand the conditions required for a URL to appear as a suggestion.<ref name="historyurl-vs-historyquick" />
+#* For both <code>HistoryURLProvider</code> and <code>HistoryQuickProvider</code>, URLs are suggested only if visited in the last 3 days or visited at least 4 times or typed at least once.<ref name="historyurl-vs-historyquick">[https://groups.google.com/a/chromium.org/d/msg/chromium-dev/hnKoQETXzyY/XiWJpZwLEQAJ "Understanding differences between HistoryURL and HistoryQuick providers, and exact conditions for when a URL is suggested by each"]. Chromium-dev mailing list. August 24, 2018.</ref>
 #* The constants that modify the behavior of the history providers are all hard-coded in the source code (they don't seem to be modifiable in the preferences). This means that if you don't like their behavior, you can just change the values of these constants and recompile (but I think only on Chromium).
 # Play around with the Omnibox Debug Page to build intuition
 #* Visit <code>chrome://omnibox/</code> in Google Chrome.
