@@ -11,6 +11,18 @@ The address bar (or URL/keyword navigation bar) at the top of the browser displa
 # If you can't find what you're looking for, try variations on words. It is possible that (1) you misremembered a specific word that appears in the URL or title (e.g. you remembered a synonym instead of the actual word); (2) the page uses a variant spelling (e.g. US vs UK spelling); (3) the word-breaking used in the URL or title is different (e.g. "commandline" vs "command-line" vs "command line", "CamelCase" vs "camel case").
 # If you can't locate the URL in your history, try using a search engine. The address bar in both Chrome and Firefox will allow you to directly search the web (using the default search engine or search engine specified in the settings). If the history-based suggestions are not helpful, try hitting Enter anyway to see if a search engine can help.
 
+===Using the history search===
+
+To make the results appear quickly, the omnibox limits the set of URLs it will search through. (Firefox may or may not limit the URLs it will search through in the Awesome Bar.) If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
+
+# In Chrome, you can go to the browser history by typing Ctrl+H, or clicking Menu (⋮ or ☰) → History → History, or typing <code>chrome://history/</code> in the omnibox and hitting Enter.
+# At the top is a search box that says "Search history".
+# You can now type keywords or parts of a URL to filter the list of results.
+
+I think Chrome deletes old history, so even this doesn't guarantee that you will find a URL that you've visited.
+
+https://www.quora.com/Does-Mozilla-Firefox-delete-old-history-entries-from-its-places-sqlite-file
+
 ===Understanding site-specific URL manipulation===
 
 If you frequently use a particular website, it may be worth understanding the URL structure of the website so you can navigate it more easily.
@@ -31,18 +43,6 @@ Even for sites that don't have good search, you can often get away with using th
 For sites where you can mirror the content locally, downloading some subset and searching locally using standard tools (grep, etc.) might be better. Example: for a GitHub repo, you might have cloned the repo already, and navigating the source tree using your text editor might be easier; Gmail and Facebook Messenger have exporting features, even if their own search might miss some results.
 
 navigating by clicking is also possible, but often much slower: https://www.benkuhn.net/autocomplete
-
-===Using the history search===
-
-To make the results appear quickly, the omnibox limits the set of URLs it will search through. (Firefox may or may not limit the URLs it will search through in the Awesome Bar.) If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
-
-# In Chrome, you can go to the browser history by typing Ctrl+H, or clicking Menu (⋮ or ☰) → History → History, or typing <code>chrome://history/</code> in the omnibox and hitting Enter.
-# At the top is a search box that says "Search history".
-# You can now type keywords or parts of a URL to filter the list of results.
-
-I think Chrome deletes old history, so even this doesn't guarantee that you will find a URL that you've visited.
-
-https://www.quora.com/Does-Mozilla-Firefox-delete-old-history-entries-from-its-places-sqlite-file
 
 ===Using the history database===
 
@@ -71,6 +71,8 @@ For the purposes of quickly navigation to a particular URL, probably the most im
 #* Checking the different boxes like "Show all details" and "Show results per provider, not just merged results" will toggle the results to show more details.
 
 ===Understanding how the Awesome Bar works===
+
+''This section is only relevant to Mozilla Firefox.''
 
 frecency algorithm
 
