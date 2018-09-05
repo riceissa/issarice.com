@@ -11,22 +11,22 @@ The following table summarizes the various strategies for navigation covered in 
 | Address bar
 | A word that appears in the URL or title
 | Easy to use and searching is fast
-| In Google Chrome, the set of URLs that are searched is limited to those visited in the last 3 days or visited at least 4 times or typed at least once.
+| In Google Chrome, the set of URLs that are searched is limited to those visited in the last 3 days or visited at least 4 times or typed at least once
 |-
 | History search
 | A word that appears in the URL or title
 | Easy to use and searches through all of your browser's history
-| Searching is slower
+| Searching is slower than the address bar
 |-
 | Site-specific URL manipulation
 | A word that appears in the URL or title ''of a similar page''
 | You don't need to have previously visited the page
 | Requires good understand of the website's URL structure; might require practice to get used to
 |-
-| Site-specific search
-| A word or phrase that appears on the page
+| Site-specific search (site's search box or search engine with <code>site:</code> operator)
+| A word that appears in the body of the page
 | You don't need to remember a word or phrase in the URL/title
-| Some sites have a bad search tool; others disable search engine indexing so <code>site:</code> operator doesn't work
+| Some sites have a bad search tool; others disable search engine indexing so the <code>site:</code> operator doesn't work
 |-
 | Browser's history database
 | A word that appears in the URL or title
