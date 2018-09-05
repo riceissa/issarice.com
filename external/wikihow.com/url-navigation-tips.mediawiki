@@ -124,69 +124,13 @@ For the purposes of quickly navigating to a particular URL, probably the most im
 
 ''This section is only relevant to Mozilla Firefox.''
 
-frecency algorithm
+Firefox uses a ''frecency algorithm'' (a combination of "frequency" and "recency") to rank results in the Awesome Bar.<ref>[https://developer.mozilla.org/en-US/docs/Mozilla/Tech/Places/Frecency_algorithm "Frecency algorithm"]. MDN web docs. Last edited February 5, 2018. Retrieved September 5, 2018.</ref><ref>[https://stackoverflow.com/questions/540725/how-does-firefoxs-awesome-bar-match-strings "How does Firefox's 'awesome' bar match strings?"] Stack Overflow. February 2009. Retrieved September 5, 2018.</ref>
 
-I think frecency only covers the ''ranking'' of the results. How does firefox decide which URLs to match given some typed phrases?
+However, there are some remaining questions about this algorithm:
 
-notes:
-
-this is a bit old, but might be useful https://stackoverflow.com/questions/540725/how-does-firefoxs-awesome-bar-match-strings
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Tech/Places/Frecency_algorithm
-
-oh yeah, so firefox has these special characters like # and @ that you can use to search only some kinds of results http://kb.mozillazine.org/Location_Bar_search
-
-"100 points for links in the most recent 4 days, 70 points for links in the next 10 days, 50 points for the next 31 days, 30 points for the next 90 days, and 10 points for all the rest of the links older than that." https://www.quora.com/What-are-the-most-complex-algorithms-used-in-making-Firefox/answer/Tanooj-Luthra
-
-so maybe firefox uses the whole history, but just prioritizes the more recent ones
-
-https://developer.mozilla.org/en-US/docs/Mozilla/Tech/Places/Frecency_algorithm$history
-
-doesn't seem like there are many changes since 2011 or 2008
-
-https://searchfox.org/mozilla-central/source/toolkit/components/places/UnifiedComplete.js
-
-^maybe the place where awesome bar algorithm lives
-
-https://searchfox.org/mozilla-central/search?q=frecency&path=
-
-https://dxr.mozilla.org/mozilla-central/search?q=%22frecency%22&redirect=true
-
-this file also maybe https://dxr.mozilla.org/mozilla-central/source/toolkit/components/places/History.cpp
-
-ok, i think this is the most likely i've found so far https://dxr.mozilla.org/mozilla-central/source/toolkit/components/places/SQLFunctions.cpp#640
-
-"Frecency Calculation Function"
-
-and it actually goes into bonuses and stuff
-
-https://dxr.mozilla.org/mozilla-central/search?q=%2Bfunction%3AnsNavHistory%3A%3AUpdateFrecency%28int64_t%29
-
-takes me to https://dxr.mozilla.org/mozilla-central/source/toolkit/components/places/nsNavHistory.cpp#3635
-
-https://searchfox.org/mozilla-central/search?q=CALCULATE_FRECENCY&path=
-
-idk where CALCULATE_FRECENCY is defined
-
-it seems to be a function defined in SQL
-
-https://dxr.mozilla.org/mozilla-central/source/toolkit/components/places/tests/head_common.js#523
-
-let stmt = DBConn().createStatement(
-    "SELECT frecency FROM moz_places WHERE url_hash = hash(?1) AND url = ?1"
-  );
-
-so it looks like the frecency is stored in the db
-
-ok, i just confirmed that it is
-
-so ok, something like visiting a page triggers firefox to update and store the new frecency
-
-and then when you type things in the url bar, it must be querying the db or something to get matching urls and ordering them by frecency
-
-so something i still don't understand is how it ranks frecency vs how well the string matches. because it wouldn't make sense to rank poor string matches, even if i visit that site more
-
-==Tips==
+* The frecency algorithm seems to only affect the ''ranking'' of the results, rather than which URLs to rank in the first place. Must all words match at a boundary?
+* Does it search through the whole browser history, or only some subset (like in Chrome)?
+* How does the frequency and recency interact with the string match quality? For example, it wouldn't make sense to rank highly poor string matches, even if such a page is visited more often.
 
 ==Related wikiHows==
 
