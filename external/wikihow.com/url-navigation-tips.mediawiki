@@ -2,7 +2,7 @@ This guide explores ways to navigate to URLs more efficiently inside a web brows
 
 ==Summary table==
 
-The following table summarizes the various strategies for navigation covered in this article.
+The following table summarizes the various strategies for navigation covered in this article, and helps you decide which strategies to use in a given situation.
 
 {| class="sortable wikitable"
 |-
@@ -52,15 +52,13 @@ The address bar (or URL/keyword navigation bar) at the top of the browser displa
 
 ===Using the history search===
 
-To make the results appear quickly, the omnibox limits the set of URLs it will search through. (Firefox may or may not limit the URLs it will search through in the Awesome Bar.) If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
+To make the results appear quickly, the omnibox in Chrome limits the set of URLs it will search through. (Firefox may or may not limit the URLs it will search through in the Awesome Bar.) If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
 
 # In Chrome, you can go to the browser history by typing Ctrl+H, or clicking Menu (⋮ or ☰) → History → History, or typing <code>chrome://history/</code> in the omnibox and hitting Enter.
 # At the top is a search box that says "Search history".
 # You can now type keywords or parts of a URL to filter the list of results.
 
-I think Chrome deletes old history, so even this doesn't guarantee that you will find a URL that you've visited.
-
-https://www.quora.com/Does-Mozilla-Firefox-delete-old-history-entries-from-its-places-sqlite-file
+Note: both Chrome and Firefox seem to delete old history, so if you last visited a page a long time ago, it may not appear in the history search.<ref>[https://www.quora.com/Does-Mozilla-Firefox-delete-old-history-entries-from-its-places-sqlite-file "Does Mozilla Firefox delete old history entries from its places.sqlite file?"] Quora. Retrieved September 5, 2018.</ref>
 
 ===Understanding site-specific URL manipulation===
 
