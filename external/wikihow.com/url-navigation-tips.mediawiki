@@ -29,10 +29,12 @@ This guide explores ways to navigate to URLs more efficiently inside a web brows
 |-
 | Browser's history database
 | A word that appears in the URL or title
-| Takes some manual setup
+| Fully programmable/customizable once setup is complete
+| Requires manual setup
 |-
 | Search engine (without <code>site:</code> operator)
 | A word that appears in the URL, title, or body of the page
+| You don't need to remember a word or phrase in the URL/title
 | Without the <code>site:</code> operator, a search engine will search all of the internet, so you will possibly have to sift through many irrelevant results
 |}
 
