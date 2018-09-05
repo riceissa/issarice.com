@@ -1,4 +1,4 @@
-This guide explores ways to navigate to URLs more efficiently inside a web browser, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides.
+This guide explores ways to navigate to URLs more efficiently inside a web browser, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides. This guide emphasizes typing words to navigate rather than clicking an navigating menus.<ref>Ben Kuhn. [https://www.benkuhn.net/autocomplete "Autocomplete as an interface"]. September 2015. Retrieved September 5, 2018.</ref>
 
 ==Summary table==
 
@@ -24,7 +24,7 @@ The following table summarizes the various strategies for navigation covered in 
 | Requires good understand of the website's URL structure; might require practice to get used to
 |-
 | Site-specific search (site's search box or search engine with <code>site:</code> operator)
-| A word that appears in the body of the page
+| A word that appears in the body of the page ''and'' the website the page is on
 | You don't need to remember a word or phrase in the URL/title
 | Some sites have a bad search tool; others disable search engine indexing so the <code>site:</code> operator doesn't work
 |-
@@ -66,22 +66,16 @@ If you frequently use a particular website, it may be worth understanding the UR
 
 If you haven't visited the specific URL you want, but you've visited similar URLs, then you can call up the similar URL and edit it by hand.
 
-# Example from Github: Suppose you have visited the URL <code>https://github.com/jgm/pandoc/blob/master/doc/lua-filters.md</code> before. Then you can type in the address bar <code>lua filters</code> to call up this stored URL. If you then want to see the version history of this file, you can change the <code>blob</code> to <code>commits</code>. If you want to see other files in the same directory, you can delete the filename <code>lua-filters.md</code> and change the <code>blob</code> to <code>tree</code>. In both of these cases, you ''can'' first visit <code>https://github.com/jgm/pandoc/blob/master/doc/lua-filters.md</code> and then click on a link on that page to navigate to the other pages. However, manipulating the URL will allow you to get to your destination without first loading the original page.
+# Example from GitHub: Suppose you have visited the URL <code>https://github.com/jgm/pandoc/blob/master/doc/lua-filters.md</code> before. Then you can type in the address bar <code>lua filters</code> to call up this stored URL. If you then want to see the version history of this file, you can change the <code>blob</code> to <code>commits</code>. If you want to see other files in the same directory, you can delete the filename <code>lua-filters.md</code> and change the <code>blob</code> to <code>tree</code>. In both of these cases, you ''can'' first visit <code>https://github.com/jgm/pandoc/blob/master/doc/lua-filters.md</code> and then click on a link on that page to navigate to the other pages. However, manipulating the URL will allow you to get to your destination without first loading the original page.
 # Example from Wikipedia: Suppose you want to see the revision history of a particular Wikipedia page, <code>X</code>. Suppose also that you have visited at least one revision history page for a different Wikipedia article, <code>Y</code>. Then you can type <code>wikipedia history</code> in your address bar to call up <code>https://en.wikipedia.org/w/index.php?title=Y&action=history</code>, then change the <code>Y</code> to <code>X</code> to get <code>https://en.wikipedia.org/w/index.php?title=X&action=history</code>.
 
 ===Understanding site-specific search===
 
-Some sites have good search; if this is the case, it can often be better than searching through your browser history.
+If you cannot remember a word the appears in the title or URL of the page you are looking for, then the address bar/history search approaches don't work. In this case, if you happen to remember a word that appears in the body of the page ''and'' you remember the website it was on, then using a site-specific search can be a good idea.
 
-If you can remember something on the page but not the title or URL, this is a good idea.
-
-e.g. Wikipedia has revision search.
-
-Even for sites that don't have good search, you can often get away with using the <code>site:</code> operator on Google.
-
-For sites where you can mirror the content locally, downloading some subset and searching locally using standard tools (grep, etc.) might be better. Example: for a GitHub repo, you might have cloned the repo already, and navigating the source tree using your text editor might be easier; Gmail and Facebook Messenger have exporting features, even if their own search might miss some results.
-
-navigating by clicking is also possible, but often much slower: https://www.benkuhn.net/autocomplete
+# Figure out if the website has a search box. Note that some websites have search boxes that function poorly. An example of a website with a fairly good search box is the [https://en.wikipedia.org/w/index.php?title=Special:Search&profile=advanced&search=&fulltext=1 English Wikipedia].
+# If the website has a good search box, try typing in some words and hitting Enter. Some search boxes support advanced features like Boolean operators, so you may want to check for these.
+# If the website doesn't have a search box or only has a bad search box, you can try using a generic search engine with the <code>site:</code> operator. For example, typing [https://www.google.com/search?q=site%3Aen.wikipedia.org+the+pillows site:en.wikipedia.org the pillows] on Google will search for the string "the pillows" (without quotes) on the domain en.wikipedia.org (i.e. the English Wikipedia).
 
 ===Using the history database===
 
@@ -90,6 +84,10 @@ On your computer, both Chrome and Firefox keep a SQLite database of your browser
 Working directly with the history database takes some preparation, in terms of locating the database, learning the structure of the tables, and looking for or writing custom tools. Therefore, most users will probably not want to do this.
 
 An example of using the Chrome history database is Junegunn Choi's article "Browsing Chrome history with fzf".<ref>Junegunn Choi. [https://junegunn.kr/2015/04/browsing-chrome-history-with-fzf/ "Browsing Chrome history with fzf"]. April 6, 2015. Retrieved August 30, 2018.</ref> This article describes the steps for writing a shell function that queries the history database and searches the whole history using a fuzzy finder called fzf. The upshot is that one can type a command ("c" in the article) at the terminal to search through one's entire Chrome history using fuzzy search and open the found URL using Chrome.
+
+===Using a full mirror of the content===
+
+For sites where you can mirror the content locally, downloading some subset and searching locally using standard tools (grep, etc.) might be better. Example: for a GitHub repo, you might have cloned the repo already, and navigating the source tree using your text editor might be easier; Gmail and Facebook Messenger have exporting features, even if their own search might miss some results.
 
 ===Understanding how the omnibox works===
 
