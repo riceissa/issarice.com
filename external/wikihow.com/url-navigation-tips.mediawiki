@@ -20,7 +20,6 @@ This guide explores ways to navigate to URLs more efficiently inside a web brows
 | A word that appears in the URL or title ''of a similar page''
 | You don't need to have previously visited the page
 | Requires good understand of the website's URL structure; might require practice to get used to
-|
 |-
 | Site-specific search
 | A word or phrase that appears on the page
