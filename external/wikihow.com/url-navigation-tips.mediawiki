@@ -1,5 +1,30 @@
 This guide explores ways to navigate to URLs more efficiently inside a web browser, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides.
 
+{| class="sortable wikitable"
+|-
+! Strategy !! What you need to remember !! Caveats
+|-
+| Address bar
+| A word that appears in the URL or title
+| In Google Chrome, the set of URLs that are searched is limited to those visited in the last 3 days or visited at least 4 times or typed at least once.
+|-
+| Site-specific URL manipulation
+|
+|
+|-
+| Site-specific search
+| A word or phrase that appears on the page (you can't remember a word or phrase in the URL/title)
+| Some sites have a bad search tool; others disable search engine indexing
+|-
+| Browser's history database
+| A word that appears in the URL or title
+| Takes some manual setup
+|-
+| Search engine (without <code>site:</code> operator)
+| A word that appears in the URL, title, or body of the page
+| Without the <code>site:</code> operator, a search engine will search all of the internet, so you will possibly have to sift through many irrelevant results
+|}
+
 ==Steps==
 
 ===Basic search using the address bar (omnibox or Awesome Bar)===
@@ -35,6 +60,8 @@ If you haven't visited the specific URL you want, but you've visited similar URL
 ===Understanding site-specific search===
 
 Some sites have good search; if this is the case, it can often be better than searching through your browser history.
+
+If you can remember something on the page but not the title or URL, this is a good idea.
 
 e.g. Wikipedia has revision search.
 
