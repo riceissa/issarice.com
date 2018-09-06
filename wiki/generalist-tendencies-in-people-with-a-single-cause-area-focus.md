@@ -24,7 +24,7 @@ When I try to think of what my _a priori_ view would be, I think I expect
 people to be less generalist than they actually are. The basic feeling is
 something like, if this really is the One True Cause, then shouldn't one want
 to devote almost all of one's resources to it? So the puzzle for me is to
-reconcile my _a priori_ view with that is actually going on. Obviously this
+reconcile my _a priori_ view with what is actually going on. Obviously this
 question interests me because I am wondering how generalist I should be.
 
 Here are some reasons I've thought of for why we might see generalist
