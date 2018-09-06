@@ -56,4 +56,16 @@ Christopher Olah, in quotes like the [following](http://colah.github.io/posts/20
 
 <https://mathoverflow.net/questions/38639/thinking-and-explaining>
 
+<https://www.lesswrong.com/posts/2TPph4EGZ6trEbtku/explainers-shoot-high-aim-low>
+
 Terry Tao and Tim Gowers also talk about similar things.
+
+Not about math, but related is
+<http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail>.
+In thought, there are things we didn't know that we don't know as well
+as we think we do. I think this is related to ideas like cached
+thoughts and the illusion of consciousness, where we end up taking
+shortcuts or don't think about things carefully enough, so we have an
+illusion of understanding something.
+
+<https://jonahsinick.com/the-truth-about-mathematical-ability/>
