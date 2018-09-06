@@ -65,6 +65,8 @@ To make the results appear quickly, the omnibox in Chrome limits the set of URLs
 
 Note: both Chrome and Firefox seem to delete old history, so if you last visited a page a long time ago, it may not appear in the history search.<ref>[https://www.quora.com/Does-Mozilla-Firefox-delete-old-history-entries-from-its-places-sqlite-file "Does Mozilla Firefox delete old history entries from its places.sqlite file?"] Quora. Retrieved September 5, 2018.</ref>
 
+Also note that at least on Chrome, a page resulting in HTTP error codes like 404 will not be recorded in the history, so they will not show up in history-based searches (omnibox, history search).
+
 ===Understanding site-specific URL manipulation===
 
 If you frequently use a particular website, it may be worth understanding the URL structure of the website so you can navigate it more easily.
@@ -110,7 +112,7 @@ For the purposes of quickly navigating to a particular URL, probably the most im
 #* A ''provider'' gives suggestions to the omnibox. There are various providers, each giving a specific list of suggestions given some input (or no input). In the Chromium source code, each provider is an [https://cs.chromium.org/chromium/src/components/omnibox/browser/autocomplete_provider.h?l=129&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>AutocompleteProvider</code>].
 #* Two providers give history suggestions. These are [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_url_provider.h?l=190&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryURLProvider</code>] and [https://cs.chromium.org/chromium/src/components/omnibox/browser/history_quick_provider.h?l=25&rcl=aa6aaad888ee4619f709de684992cac9b5d69075 <code>HistoryQuickProvider</code>]. The former specializes in giving suggestions based on prefix matches for a URL. The latter can give suggestions based on non-prefix matches, and also matches words in the title.<ref name="historyurl-vs-historyquick" />
 # For each provider, understand the conditions required for a URL to appear as a suggestion.
-#* For both <code>HistoryURLProvider</code> and <code>HistoryQuickProvider</code>, URLs are suggested only if visited in the last 3 days or visited at least 4 times or typed at least once.<ref name="historyurl-vs-historyquick">[https://groups.google.com/a/chromium.org/d/msg/chromium-dev/hnKoQETXzyY/XiWJpZwLEQAJ "Understanding differences between HistoryURL and HistoryQuick providers, and exact conditions for when a URL is suggested by each"]. Chromium-dev mailing list. August 24, 2018.</ref> In particular, this means that ''the omnibox doesn't search through all of your browser history''.
+#* For both <code>HistoryURLProvider</code> and <code>HistoryQuickProvider</code>, URLs are suggested only if visited in the last 3 days or visited at least 4 times or typed at least once.<ref name="historyurl-vs-historyquick">[https://groups.google.com/a/chromium.org/d/msg/chromium-dev/hnKoQETXzyY/XiWJpZwLEQAJ "Understanding differences between HistoryURL and HistoryQuick providers, and exact conditions for when a URL is suggested by each"]. Chromium-dev mailing list. August 24, 2018.</ref> In particular, this means that ''the omnibox doesn't search through all of your browser history''. This also means that you can make sure a page is suggested in the omnibox by visiting it once via the omnibox or by repeatedly clicking through to it.
 #* For a result to be suggested in the omnibox, each word must match somewhere in the URL or title.<ref name="historyurl-vs-historyquick" /> In addition, at least one word must match at a word boundary (e.g. after a dot or dash or space).
 #* There are some exceptions to the above: when the browser session length is longer than three days and you have visited the URL more than 3 days ago during the current session, the page can still be suggested even if it doesn't meet the "visited in the last 3 days or visited at least 4 times or typed at least once" condition. In addition, <code>HistoryURLProvider</code> can suggest a URL that hasn't been visited if you have visited a subpage of an intranet host.<ref name="historyurl-vs-historyquick" />
 #* The constants that modify the behavior of the history providers are all hard-coded in the source code (they don't seem to be modifiable in the preferences). This means that if you don't like their behavior, you can just change the values of these constants and recompile (if you use Chromium).
@@ -119,6 +121,8 @@ For the purposes of quickly navigating to a particular URL, probably the most im
 #* Type text and hit Enter or click "Submit".
 #* Search results will appear for what ''would'' be suggested in the omnibox.
 #* Checking the different boxes like "Show all details" and "Show results per provider, not just merged results" will toggle the results to show more details.
+# Understand how incognito mode and the main browsing interact.
+#* Pages visited through the main browsing are available as suggestions in incognito mode (as long as the pages meet the regular requirements above), but pages only visited through incognito mode will not be available as suggestions, even in incognito mode.
 
 ===Understanding how the Awesome Bar works===
 
