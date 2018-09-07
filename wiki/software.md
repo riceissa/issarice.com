@@ -16,6 +16,7 @@ This page is a placeholder for now.
   bunch of domains on NoScript or uMatrix.
 - [Vim]() with various plugins for most text editing.
 - [Git]()
+- Anki for spaced repetition
 - [ELinks](), Links, or Lynx for lightweight browsing depending on what I want.
   ELinks has tabbed browsing which I find easy to use, but Links can show
   images with the `-g` flag. Lynx seems to do correct checking for SSL certificates and
@@ -63,17 +64,12 @@ This page is a placeholder for now.
 - I often use `less` (e.g. instead of `tail -f` I use `less +F`)
 - fzf, mostly for recalling commands in bash with CTRL-R.
 - [Emacs](emacs) org mode
+- [thrash-protect](https://github.com/tobixen/thrash-protect "Simple-Stupid user-space program doing “kill -STOP” and “kill -CONT” to protect from thrashing")
 
 Programs in trial mode:
 
 - ag
 - arbtt
-- `cmark-gfm` for Markdown processing; I've now used it for at least one blog
-  post, and it is now [used on GitHub](https://githubengineering.com/a-formal-spec-for-github-markdown/).
-  If more extensions are written for CommonMark (math, tables, metadata
-  headers), and if the standard is adopted more widely, it probably makes sense
-  to stop using Pandoc's Markdown.
-- [thrash-protect](https://github.com/tobixen/thrash-protect "Simple-Stupid user-space program doing “kill -STOP” and “kill -CONT” to protect from thrashing")
 
 # See also
 
