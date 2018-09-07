@@ -94,7 +94,7 @@ An example of using the Chrome history database is Junegunn Choi's article "Brow
 
 ===Using a full mirror of the content===
 
-If you need to repeatedly search the same site, you may want to consider making a full local mirror of the website content (or some subset of it). This is especially the case if the site has a bad search box and cannot be searched by a search engine. The article [[How to Archive Websites on Unix Like Systems]] covers some considerations for how to mirror a website.
+If you need to repeatedly search the same site, you may want to consider making a full local mirror of the website content (or some subset of it). This is especially the case if the site has a bad search box and cannot be searched by a search engine. The article [[Archive Websites on Unix Like Systems]] covers some considerations for how to mirror a website.
 
 Some example situations where you might want to do this:
 
