@@ -1,9 +1,9 @@
 This guide explores ways to navigate to URLs more efficiently inside a web browser, with a focus on the Google Chrome and Mozilla Firefox browsers. It does not cover bookmarks or custom keyword searches, as these are often covered in other guides. This guide emphasizes typing words to navigate rather than clicking and navigating menus.<ref>Ben Kuhn. [https://www.benkuhn.net/autocomplete "Autocomplete as an interface"]. September 2015. Retrieved September 5, 2018.</ref>
 [[Category:Internet Browsers]]
 
-==Summary table==
-
-The following table summarizes the various strategies for navigation covered in this article, and helps you decide which strategies to use in a given situation.
+==Steps==
+===Summary table===
+# Use the following table. The table summarizes the various strategies for navigation covered later in this article, and helps you decide which strategies to use in a given situation.
 
 {| class="sortable wikitable"
 |-
@@ -45,7 +45,6 @@ The following table summarizes the various strategies for navigation covered in 
 | Requires downloading content
 |}
 
-==Steps==
 ===Basic search using the address bar===
 # Understand what the address bar is. The address bar (or URL/keyword navigation bar) is a bar at the top of the browser that displays the current webpage's URL. Most of the time when navigating to a specific page that you have visited in the past, you will be typing words from the URL or title of the page into this bar and selecting from the suggestions given by the browser. In Google Chrome, this bar is called the omnibox. In Mozilla Firefox, it is called the Awesome Bar.
 # Figure out what you remember about a page. If you can remember words from the URL or title of the page, that makes searching much easier (because the URL and title are what the browser remembers about the page). If you can only remember a phrase that appeared on the page, or an idea discussed on the page, locating the page is much harder.
