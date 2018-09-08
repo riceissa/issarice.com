@@ -59,6 +59,10 @@ http://foundational-research.org/feed/
 https://casparoesterheld.com/feed/
 http://www.simonknutsson.com/feed/
 https://howielempel.com/blog/feed/
+http://feeds.pinboard.in/rss/u:mnielsen/t:ahi/
+http://feeds.pinboard.in/rss/u:mnielsen/t:memory/
+http://feeds.pinboard.in/rss/u:mnielsen/t:ahc/
+http://feeds.pinboard.in/rss/u:mnielsen/t:anki/
 https://medium.com/feed/@nayafia
 http://gmachine1729.wordpress.com/feed/
 https://blog.ought.com/feed
