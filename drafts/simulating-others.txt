@@ -37,3 +37,7 @@ From [this post](https://www.lesserwrong.com/posts/AqbWna2S85pFTsHH4/the-real-wo
 > kind of role you’re playing, and how well you’re going to play it, so that it
 > can know what to expect of you. So, a lot of its distributed resources go
 > into computing a model of you.
+
+https://www.readthesequences.com/Humans-In-Funny-Suits talks about this, for example:
+
+> The only reason you can try at all to grasp anything as physically complex and poorly understood as the brain of another human being is that you configure your own brain to imitate it. You empathize (though perhaps not sympathize). You impose on your own brain the shadow of the other mind’s anger and the shadow of its beliefs. You may never think the words, “What would I do in this situation?,” but that little shadow of the other mind that you hold within yourself is something animated within your own brain, invoking the same complex machinery that exists in the other person, synchronizing gears you don’t understand.
