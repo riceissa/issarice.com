@@ -63,6 +63,7 @@ http://feeds.pinboard.in/rss/u:mnielsen/t:ahi/
 http://feeds.pinboard.in/rss/u:mnielsen/t:memory/
 http://feeds.pinboard.in/rss/u:mnielsen/t:ahc/
 http://feeds.pinboard.in/rss/u:mnielsen/t:anki/
+https://twitrss.me/twitter_user_to_rss/?user=michael_nielsen
 https://medium.com/feed/@nayafia
 http://gmachine1729.wordpress.com/feed/
 https://blog.ought.com/feed
