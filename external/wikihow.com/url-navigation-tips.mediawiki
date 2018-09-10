@@ -59,7 +59,7 @@ This guide explores ways to navigate to URLs more efficiently inside a web brows
 ===Using the History Search (Chrome)===
 # Understand what history search is. History search means searching through your browser's entire history. To make the results appear quickly, the omnibox in Chrome limits the set of URLs it will search through, so history search is distinct from using the omnibox. (Firefox may or may not limit the URLs it will search through in the Awesome Bar.) 
 #* If the URL you want to navigate to does not appear in the omnibox, another option is to use the browser history.
-# Open the history page. In Chrome, you can go to the browser history by typing {{keypress|Ctrl|H}}, or clicking Menu (⋮ or ☰) → History → History, or typing <code>chrome://history/</code> in the omnibox and hitting {{keypress|Enter}}.
+# Open the history page. In Chrome, you can go to the browser history by typing {{keypress|Ctrl|H}} or {{keypress|Cmd|Y}} (on a Mac), or clicking Menu (⋮ or ☰) → History → History, or typing <code>chrome://history/</code> in the omnibox and hitting {{keypress|Enter}}.
 # Locate the search box on the history page. At the top is a search box that says "Search history".
 # Type keywords or parts of a URL to filter the list of results.
 # Keep the following points in mind when using history search.
@@ -81,7 +81,7 @@ This guide explores ways to navigate to URLs more efficiently inside a web brows
 ===Using the History Database===
 # Understand what the history database is. On your computer, both Chrome and Firefox keep a SQLite database of your browser history. This means that if you are already familiar with databases, you can work with your browser history in the same way. For example, you can list all of your history, filter through some subset of your history according to arbitrary criteria (e.g. substring match, fuzzy search, regular expressions), and programmatically process your history. 
 #* Working directly with the history database takes some preparation, in terms of locating the database, learning the structure of the tables, and looking for or writing custom tools. Therefore, most users will probably not want to do this.
-# Understand the following example to see if generalize to your own case.
+# Understand the following example to see if you can generalize to your own case.
 #* An example of using the Chrome history database is Junegunn Choi's article "Browsing Chrome history with fzf".<ref>Junegunn Choi. [https://junegunn.kr/2015/04/browsing-chrome-history-with-fzf/ "Browsing Chrome history with fzf"]. April 6, 2015. Retrieved August 30, 2018.</ref> This article describes the steps for writing a shell function that queries the history database and searches the whole history using a fuzzy finder called fzf. The upshot is that one can type a command ("c" in the article) at the terminal to search through one's entire Chrome history using fuzzy search and open the found URL using Chrome.
 
 ===Using a Full Mirror of the Content===
