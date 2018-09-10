@@ -116,6 +116,8 @@ This guide explores ways to navigate to URLs more efficiently inside a web brows
 #* The frecency algorithm seems to only affect the ''ranking'' of the results, rather than which URLs to rank in the first place. Must all words match at a boundary?
 #* Does it search through the whole browser history, or only some subset (like in Chrome)?
 #* How does the frequency and recency interact with the string match quality? For example, it wouldn't make sense to rank highly poor string matches, even if such a page is visited more often.
+# Understand how private browsing and the main browsing interact.
+#* Pages visited through the main browsing are available as suggestions in a private browsing window (as long as the pages meet the usual requirements), but pages only visited through private browsing will not be available as suggestions, even in a private browsing window.
 
 ==Related wikiHows==
 * [[View Browsing History]]
