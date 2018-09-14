@@ -84,8 +84,8 @@ Then, during **2017--2018**, I somewhat revised my previous thinking
 (or rather, how I felt about what I already believed). Looking outside
 of my filter bubble, I reflected more on how people outside the
 EA/rationality sphere often could not even parse basic arguments, and
-how they seemed oblivious to ideas that I considered obvious (e.g.
-standard EA talking points, some things in the
+how they seemed oblivious to ideas that I considered obvious
+(e.g. standard EA talking points, some things in the
 [_Sequences_](https://www.readthesequences.com/)).
 
 It is still true that I've only been consistently impressed with a few
