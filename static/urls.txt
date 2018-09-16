@@ -59,10 +59,10 @@ http://foundational-research.org/feed/
 https://casparoesterheld.com/feed/
 http://www.simonknutsson.com/feed/
 https://howielempel.com/blog/feed/
-http://feeds.pinboard.in/rss/u:mnielsen/t:ahi/
-http://feeds.pinboard.in/rss/u:mnielsen/t:memory/
-http://feeds.pinboard.in/rss/u:mnielsen/t:ahc/
-http://feeds.pinboard.in/rss/u:mnielsen/t:anki/
+http://feeds.pinboard.in/rss/u:mnielsen/t:ahi/ "~mnielsen Pinboard - ahi"
+http://feeds.pinboard.in/rss/u:mnielsen/t:memory/ "~mnielsen Pinboard - memory"
+http://feeds.pinboard.in/rss/u:mnielsen/t:ahc/ "~mnielsen Pinboard - ahc"
+http://feeds.pinboard.in/rss/u:mnielsen/t:anki/ "~mnielsen Pinboard - anki"
 https://twitrss.me/twitter_user_to_rss/?user=michael_nielsen
 https://medium.com/feed/@nayafia
 http://gmachine1729.wordpress.com/feed/
