@@ -91,7 +91,7 @@ how they seemed oblivious to ideas that I considered obvious
 It is still true that I've only been consistently impressed with a few
 people associated with the movement, but that no longer felt like such
 a bad thing. To have a movement where the vast majority of people
-cannot not generate interesting ideas but where at least they could
+cannot generate interesting ideas but where at least they could
 follow tricky arguments started to seem remarkable rather than
 disappointing.
 
