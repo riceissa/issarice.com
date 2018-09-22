@@ -29,3 +29,5 @@ There are also various other Atom/RSS feeds of my online activity:
 * [Vim Tips Wiki](https://vim.wikia.com/api.php?action=feedcontributions&user=IssaRice&feedformat=atom)
 * [LessWrong Wiki](https://wiki.lesswrong.com/api.php?action=feedcontributions&user=Riceissa&feedformat=atom)
 * [wikiHow](https://www.wikihow.com/api.php?action=feedcontributions&user=Issa-Rice&feedformat=atom)
+
+For feeds that _I_ follow, see [urls.txt](https://issarice.com/urls.txt) (it is in [Newsbeuter]() format).
