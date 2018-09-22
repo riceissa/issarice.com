@@ -2,7 +2,7 @@
 title: Feed
 author: Issa Rice
 created: 2015-01-14
-date: 2015-07-28
+date: 2018-09-21
 ---
 
 *This page is about the Atom and RSS feeds for this website.
