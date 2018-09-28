@@ -32,6 +32,19 @@ In my mind some things that make explanations good are:
   exercise spoils the exercise, it can be explained in some place other than
   immediately near the exercise.
 - Sticking to standard terminology. While there are some imperfections in the standard terminology, it is often too confusing to switch between different terminology, so my preference is that explainers stick to the standard ones, or use defensive/fool-proof terminology/notation. To give an example, Boolos, Burgess, and Jeffrey's _Computability and Logic_ uses "function" to mean "total or partial function", and "total function" to mean "function". This sort of thing is confusing because now there are two "claims" on the meaning of "function". (This actually becomes sort of a problem in the book because when introducing characteristic functions, the book does not clarify that these must be total.) A defensive writing style would avoid the word "function" and use "total or partial function" and "total function". Similarly in set theory, $\subset$ sometimes means "subset" and sometimes means "proper subset". A defensive style of writing would avoid this and use $\subseteq$ and $\subsetneq$.
+- Given two concepts that could be mistaken for each other, there are
+  four possibilities with four different ways to help the reader: $X
+  \iff Y$ (prove that all $X$ are $Y$ and that all $Y$ are $X$); $X
+  \implies Y$ and $Y \not\implies X$ (prove that all $X$ are $Y$, and
+  give an example of something that is $Y$ but not $X$; $Y \implies X$
+  (similar to previous); and $X\not\implies Y$ and $Y\not\implies X$
+  (give an example of something that is $X$ but not $Y$, and
+  separately an example of something that is $Y$ but not $X$).
+  For the last of these, I like the example given by Terence Tao in
+  _Analysis I_ to illustrate how "disjoint" and "distinct" are
+  entirely different concepts: $\{1,2,3\}$ and $\{2,3,4\}$ are
+  distinct but not disjoint, and $\emptyset$ and $\emptyset$ are
+  disjoint but not distinct.
 
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
