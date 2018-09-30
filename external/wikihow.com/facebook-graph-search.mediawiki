@@ -2,8 +2,11 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 
 ==Steps==
 ===Consider reviewing the mathematical prerequisites===
-# Understand what the mathematical prerequisites are.
-# briefly review boolean algebra, set theory, reverse polish notation, operator arity
+# Know what the mathematical prerequisites are. The main mathematical prerequisites for developing fluency with graph search are [[wikipedia:Boolean algebra|Boolean algebra]], [[wikipedia:Naive set theory|naive set theory]], [[wikipedia:Reverse Polish notation|reverse Polish notation]], and [[wikipedia:Arity|operator arity]]. It is possible to work with graph search even without understanding of these topics (for instance, you can use some of the existing interfaces listed in the "Explore existing interfaces" step below), having a solid understanding of these topics will ensure you aren't making any mistakes in writing queries.
+# Understand Boolean algebra.
+# Understand naive set theory.
+# Understand reverse Polish (postfix) notation
+# Understand operator arity.
 
 ===Find the ID number of an entity===
 To create the most useful queries involving people and organizations, you will need to find the Facebook ID of those entities.
