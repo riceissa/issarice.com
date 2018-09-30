@@ -1,7 +1,18 @@
 This guide explores how to use Facebook's graph search syntax to find posts, comments, people, and other entities on Facebook.
 
 ==Steps==
+===Consider reviewing the mathematical prerequisites===
+briefly review boolean algebra, set theory, reverse polish notation
+===Find the ID number of an entity===
+===Understand the general syntax of a query===
+===Find the atomic conditions===
+===Explore existing interfaces===
+
+
 ==Related wikiHows==
+* [[Use the Facebook Graph Search]]
+* [[Find a Friend's Comments on Facebook]]
+
 == Sources and Citations ==
 {{reflist}}
-__METHODS__
+__PARTS__
