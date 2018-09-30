@@ -2,7 +2,9 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 
 ==Steps==
 ===Consider reviewing the mathematical prerequisites===
-briefly review boolean algebra, set theory, reverse polish notation
+# Understand what the mathematical prerequisites are.
+# briefly review boolean algebra, set theory, reverse polish notation, operator arity
+
 ===Find the ID number of an entity===
 ===Understand the general syntax of a query===
 ===Find the atomic conditions===
