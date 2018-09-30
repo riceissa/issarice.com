@@ -6,9 +6,19 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 # briefly review boolean algebra, set theory, reverse polish notation, operator arity
 
 ===Find the ID number of an entity===
+To create the most useful queries involving people and organizations, you will need to find the Facebook ID of those entities.
+
+To get the Facebook ID of a person, you can use https://stalkscan.com/ or https://findmyfbid.com/ or right click on a user's profile picture and select "Copy link address" and check the value of <code>referrer_profile_id</code> or <code>profile_id</code>.
+
+To get the Facebook ID of an organization, go to the organization page, right click the organization photo, and select "Copy link address". Then the organization's ID number is the first number after <code>facebook.com</code>.
+
 ===Understand the general syntax of a query===
 ===Find the atomic conditions===
 ===Explore existing interfaces===
+Several web application interfaces exist to make crafting graph search queries easier. However, note that none of these are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
+
+* https://stalkscan.com/
+* https://inteltechniques.com/osint/facebook.html
 
 
 ==Related wikiHows==
