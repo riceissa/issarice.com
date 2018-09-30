@@ -1,0 +1,7 @@
+This guide explores how to use Facebook's graph search syntax to find posts, comments, people, and other entities on Facebook.
+
+==Steps==
+==Related wikiHows==
+== Sources and Citations ==
+{{reflist}}
+__METHODS__
