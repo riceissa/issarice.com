@@ -16,6 +16,10 @@ To get the Facebook ID of a person, you can use https://stalkscan.com/ or https:
 To get the Facebook ID of an organization, go to the organization page, right click the organization photo, and select "Copy link address". Then the organization's ID number is the first number after <code>facebook.com</code>.
 
 ===Understand the general syntax of a query===
+
+# Understand the general pattern of a query. The general syntax is <code><nowiki>https://www.facebook.com/search/</nowiki></code> followed by some sequence of ''atomic conditions'' and ''operators'', so that the resulting URL might look like <code><nowiki>https://www.facebook.com/search/condition₁/condition₂/operator₁/condition₃/operator₂</nowiki></code>. Each atomic condition specifies a simple set such as the set of all posts written by John Smith. (More on atomic conditions in the next step.) Each operator is one of union, union-2, union-3, etc., or one of intersect, intersect-2, intersect-3, etc.
+# Understand the grouping of the operators. As explained in the mathematical prerequisites section, Facebook graph search uses a postfix notation. This means that as soon as an operator is seen, it "gobbles up" a certain number of arguments appearing before it (which varies based on the operator's arity). For instance, a sequence like ''A''/''B''/''C''/union-2/''D''/intersect-3 groups into (''A'' (''B'' ''C'' union-2) ''D'' intersect-3), which means the same thing as ''A'' ∩ (''B'' ∪ ''C'') ∩ ''D''.
+
 ===Find the atomic conditions===
 ===Explore existing interfaces===
 Several web application interfaces exist to make crafting graph search queries easier. However, note that none of these are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
