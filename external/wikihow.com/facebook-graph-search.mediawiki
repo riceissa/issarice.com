@@ -29,6 +29,7 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* <code>str/GROUP%20NAME/stories-keyword</code>: search for posts in <code>GROUP NAME</code>; note that spaces must be entered as a space or as the percent-encoded <code>%20</code> and that this will also find posts that mention the group name; for example <code>str/open%20borders%20action%20group/stories-keyword</code> finds all posts in the Open Borders Action Group
 #* <code>FACEBOOKID/stories-by</code>: post by user with ID FACEBOOKID; for example <code>4/stories-by</code> finds all posts by Mark Zuckerberg (who has the Facebook ID of 4)
 #* <code>FACEBOOKID/stories-liked</code> (post reacted to by user with ID FACEBOOKID)
+#* <code>FACEBOOKID/stories-commented</code>: post commented on by user with ID FACEBOOKID; for example <code>4/stories-commented</code> finds all posts commented on by Mark Zuckerberg (who has the Facebook ID of 4)
 #* <code>YYYY/date/stories</code> (post made during the year YYYY)
 #* <code>MON/YYYY/date-2/stories</code>: post made during the month MON of year YYYY, for example <code>sep/2017/date-2/stories</code>
 #* <code>DD/MON/YYYY/date-3/stories</code>: post made during the day DD of month MON of year YYYY, for example <code>05/sep/2017/date-3/stories</code>
@@ -36,11 +37,15 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 # Keep in mind some of the atomic conditions for people. Some of the most useful ones are:
 #* <code>FACEBOOKID/employees/ever</code>
 
+===Put together the query===
+Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query.
+
 ===Explore existing interfaces===
-# Understand what a web application interface can do for you. Several web application interfaces exist to make crafting graph search queries easier. However, note that none of these are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
-# Know some of the more well-known and feature-rich interfaces.
-#* https://stalkscan.com/
-#* https://inteltechniques.com/osint/facebook.html
+# Understand what a web application interface can do for you. Several web application interfaces exist to make crafting graph search queries easier. In a web application interface, you type words or numbers into boxes or select options, then hit "Submit" to get your search results. This means you don't need to know anything about the graph search query syntax or how to write atomic conditions. This makes such interfaces useful for quickly getting started. On the other hand, none of the existing interfaces are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
+# Know some of the more well-known and feature-rich interfaces. Some of the more well-known and feature-rich interfaces are:
+#* Facebook Scanner (stalkscan.com)<ref>[https://stalkscan.com/ Facebook Scanner]. Retrieved October 1, 2018.</ref>
+#* Facebook Search Tool by IntelTechniques.com<ref>[https://inteltechniques.com/osint/facebook.html Facebook Search Tool by IntelTechniques.com]. Retrieved October 1, 2018.</ref>
+#* Facebook Graph Search Generator<ref>Henk van Ess; Tormund Gerhardsen. [http://graph.tips/ Facebook Graph Search Generator]. Retrieved October 1, 2018.</ref>
 # Consider finding other interfaces. If you don't like any of the interfaces listed above, consider looking for others using search terms like "Facebook graph search tool".
 
 ==Warnings==
