@@ -9,6 +9,7 @@ A puzzle: why do we say P is stronger than Q if P is a subset of Q, but we also 
 * One reply/intuition uses something like possible world semantics, e.g. see [https://www.lesswrong.com/posts/JdK3kr4ug9kJvKzGy/probability-space-and-aumann-agreement Wei Dai's post on Aumann's agreement theorem]. There is just one possible world (a single <math>\omega \in \Omega</math>), but our information state is the set of all possible worlds that we cannot distinguish, so the less we know, the more possible worlds we think we could be in.
 * One visualization is to use a Venn diagram. The stronger the statement, the more our movement is restricted, as we are forced to be in more and more sets.
 * When we say a strong statement like <math>\forall x P(x)</math>, we are saying <math>P(x_1) \wedge P(x_2) \wedge \cdots \wedge P(x_n)</math>. When we say a weak statement like <math>\exists x P(x)</math>, we are saying <math>P(x_1) \vee P(x_2) \vee \cdots \vee P(x_n)</math>. It seems like in both cases we are accumulating more and more things.
+* In causal inference, I think <math display="inline">X \perp\!\!\!\perp Y\cup W</math> is stronger than <math display="inline">(X \perp\!\!\!\perp Y) \vee (X \perp\!\!\!\perp W)</math>, even though both seem to use a single "or"-type operation.
 
 ==External links==
 
