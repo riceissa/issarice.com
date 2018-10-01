@@ -37,14 +37,15 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* <code>FACEBOOKID/employees/ever</code>
 
 ===Explore existing interfaces===
-Several web application interfaces exist to make crafting graph search queries easier. However, note that none of these are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
-
-* https://stalkscan.com/
-* https://inteltechniques.com/osint/facebook.html
+# Understand what a web application interface can do for you. Several web application interfaces exist to make crafting graph search queries easier. However, note that none of these are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
+# Know some of the more well-known and feature-rich interfaces.
+#* https://stalkscan.com/
+#* https://inteltechniques.com/osint/facebook.html
+# Consider finding other interfaces. If you don't like any of the interfaces listed above, consider looking for others using search terms like "Facebook graph search tool".
 
 ==Warnings==
 * Facebook occasionally changes the queries that work, so some of the specific details in this tutorial may stop working in the future.
-* In some queries, Facebook will try to show the English translation of the query in the search box and page title; for example <code>4/stories-by/6/stories-commented/intersect</code> has the translation "Mark Zuckerberg's posts commented on by Dustin Moskovitz". In simples cases this English translation is usually correct, but in more complicated cases, Facebook's English translation is sometimes badly wrong. In even more complicated cases, Facebook will give up and not show an English translation. In such cases, don't worry! The query is working but the translation is just unreliable.
+* In some queries, Facebook will try to show the English translation of the query in the search box and page title; for example <code>4/stories-by/6/stories-commented/intersect</code> has the translation "Mark Zuckerberg's posts commented on by Dustin Moskovitz". In simples cases this English translation is usually correct, but in more complicated cases, Facebook's English translation is sometimes badly wrong. In botched queries such as <code>6/stories-commented/union/union/4/stories-by/intersect</code>, the translation may sound strange ("Mark Zuckerberg's posts that are posts or are commented on by Dustin Moskovitz or are posts"). In even more complicated cases, Facebook will give up and not show an English translation. In such cases, don't worry! The query is working but the translation is just unreliable.
 
 ==Related wikiHows==
 * [[Use the Facebook Graph Search]]
