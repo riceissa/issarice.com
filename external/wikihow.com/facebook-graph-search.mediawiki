@@ -24,7 +24,7 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 
 ===Find the atomic conditions===
 # Understand what atomic conditions are. Atomic conditions specify simple sets, such as "all posts written by John Smith", "all posts about malaria", or "all people who have worked at the WHO".<br/><br/>Each different type of entity (e.g. posts, people) has its own atomic conditions.<br/><br/>Note that below, we won't give an exhaustive list of atomic conditions, since such lists already exist. Instead, we will teach you how to figure out how to write your desired query.
-# Keep in mind some of the atomic conditions for posts. Some examples are:
+# Keep in mind some of the atomic conditions for posts. Some of the most useful ones are:
 #* <code>str/KEYWORD/stories-keyword</code>: post contains KEYWORD; for example <code>str/malaria/stories-keyword</code> finds all posts containing the word "malaria"
 #* <code>str/GROUP%20NAME/stories-keyword</code>: search for posts in <code>GROUP NAME</code>; note that spaces must be entered as a space or as the percent-encoded <code>%20</code> and that this will also find posts that mention the group name; for example <code>str/open%20borders%20action%20group/stories-keyword</code> finds all posts in the Open Borders Action Group
 #* <code>FACEBOOKID/stories-by</code>: post by user with ID FACEBOOKID; for example <code>4/stories-by</code> finds all posts by Mark Zuckerberg (who has the Facebook ID of 4)
@@ -33,7 +33,8 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* <code>MON/YYYY/date-2/stories</code>: post made during the month MON of year YYYY, for example <code>sep/2017/date-2/stories</code>
 #* <code>DD/MON/YYYY/date-3/stories</code>: post made during the day DD of month MON of year YYYY, for example <code>05/sep/2017/date-3/stories</code>
 #* <code>FACEBOOKID/stories-commented</code> (post commented on by user with ID FACEBOOKID)
-# Keep in mind some of the atomic conditions for people.
+# Keep in mind some of the atomic conditions for people. Some of the most useful ones are:
+#* <code>FACEBOOKID/employees/ever</code>
 
 ===Explore existing interfaces===
 Several web application interfaces exist to make crafting graph search queries easier. However, note that none of these are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
