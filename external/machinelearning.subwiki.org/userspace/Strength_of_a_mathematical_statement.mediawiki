@@ -1,3 +1,7 @@
+==Negation==
+
+Negating a strong statement produces a weak statement, and negating a weak statement produces a strong statement. If a statement has strong and weak components, then the flip occurs at each stage. For example, in <math display="inline">\forall x W(x)</math> with <math display="inline">W(x)</math> a weak statement, negating it produces <math display="inline">\exists x \neg W(x)</math>, where the strong <math display="inline">\forall x</math> has become the weak <math display="inline">\exists x</math>, and the weak <math display="inline">W(x)</math> has become a strong <math display="inline">\neg W(x)</math>. See Gowers's posts for more discussion on this.
+
 ==Strong vs subset==
 
 A puzzle: why do we say P is stronger than Q if P is a subset of Q, but we also say that a theorem is stronger if it is more general (so bigger)?
