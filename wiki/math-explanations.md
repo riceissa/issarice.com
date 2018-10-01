@@ -21,6 +21,11 @@ In my mind some things that make explanations good are:
 - Seriously, why don't all textbooks have multiple choice questions and [error-spotting exercises](https://learning.subwiki.org/wiki/Error-spotting_exercise) mixed in with the exposition?
 - Explaining why naive versions one might come up with cannot be true. [Example](https://calculus.subwiki.org/wiki/Chain_rule_for_differentiation#Why_more_naive_chain_rules_don.27t_make_sense).
 - Purposely going down wrong paths (while warning readers that it *is* a wrong path) that a naive reader would want to go down, just to illustrate why it doesn't work. Terence Tao mentions this in [this comment](https://gowers.wordpress.com/2007/09/11/what-might-an-expository-mathematical-wiki-be-like/#comment-14). You could think of this as a kind of imaginary Ideological Turing Test where one earnestly explores a mistaken path to show why it might seem reasonable, but then showing why it isn't actually the right approach.
+
+  An [example](https://gowers.wordpress.com/2011/10/07/basic-logic-tips-for-handling-variables/) from Tim Gowers (go to the part in the post that
+  says "Here’s what might have happened if I had struggled on with the
+  sentence I was in the middle of writing").
+
 - For exercises, I think it's important to explain somewhere what the exercise
   is intended to teach. Textbooks often warn that not doing the exercises will
   mean not actually learning the material (or similar). If this is truly the
