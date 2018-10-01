@@ -1,0 +1,13 @@
+==Strong vs subset==
+
+A puzzle: why do we say P is stronger than Q if P is a subset of Q, but we also say that a theorem is stronger if it is more general (so bigger)?
+
+* One reply/intuition uses something like possible world semantics, e.g. see [https://www.lesswrong.com/posts/JdK3kr4ug9kJvKzGy/probability-space-and-aumann-agreement Wei Dai's post on Aumann's agreement theorem]. There is just one possible world (a single <math>\omega \in \Omega</math>), but our information state is the set of all possible worlds that we cannot distinguish, so the less we know, the more possible worlds we think we could be in.
+* One visualization is to use a Venn diagram. The stronger the statement, the more our movement is restricted, as we are forced to be in more and more sets.
+* When we say a strong statement like <math>\forall x P(x)</math>, we are saying <math>P(x_1) \wedge P(x_2) \wedge \cdots \wedge P(x_n)</math>. When we say a weak statement like <math>\exists x P(x)</math>, we are saying <math>P(x_1) \vee P(x_2) \vee \cdots \vee P(x_n)</math>. It seems like in both cases we are accumulating more and more things.
+
+==External links==
+
+* https://gowers.wordpress.com/2008/12/28/how-can-one-equivalent-statement-be-stronger-than-another/ (haven't read this yet)
+* https://gowers.wordpress.com/2011/09/26/basic-logic-connectives-not/ (search strong)
+* https://gowers.wordpress.com/2011/10/02/basic-logic-relationships-between-statements-negation/ (search "strong")
