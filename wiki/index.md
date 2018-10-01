@@ -36,20 +36,23 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: August 2018 {#summary}
+# Summary of what I worked on: September 2018 {#summary}
 
 For completed tasks, see the [work]() page.
 
-I spent most of my work time on Vipul Naik's [Donations List Website](https://donations.vipulnaik.com/).
+I spent some time adding to Vipul Naik's Learning Subwiki. You can see
+[my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=9).
 
-I spent some time writing some [pages](https://machinelearning.subwiki.org/w/index.php?limit=250&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2018&month=8)
-on Vipul Naik's Machine Learning Subject Wiki, although the pages are in my
+I started on an analysis for pageviews of wikiHow articles. (No public output
+of this yet.)
+
+On the last day of the month, I began a wikiHow article about
+[Facebook's graph search](https://github.com/riceissa/issarice.com/blob/master/external/wikihow.com/facebook-graph-search.mediawiki).
+
+I spent some time writing some [pages](https://machinelearning.subwiki.org/w/index.php?limit=120&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2018&month=9)
+on Vipul Naik's Machine Learning Subwiki, although the pages are mostly in my
 userspace and are not related to machine learning. (The wiki was just a
 convenient place to store the writings for now.)
-
-I also worked on a wikiHow article entitled ["How to Navigate to Web Pages Efficiently Without Using Navigation Menus"](https://www.wikihow.com/Navigate-to-Web-Pages-Efficiently-Without-Using-Navigation-Menus).
-(The page was not completed in August, but since I delayed in writing this
-monthly update, I am linking to the completed version.)
 
 I spent most of the month learning about things related to AI alignment.
 (I am still wondering how best to make progress on this more visible.)
