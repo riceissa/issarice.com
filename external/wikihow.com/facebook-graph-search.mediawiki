@@ -44,7 +44,7 @@ Several web application interfaces exist to make crafting graph search queries e
 
 ==Warnings==
 * Facebook occasionally changes the queries that work, so some of the specific details in this tutorial may stop working in the future.
-* In some queries, Facebook will try to show the English equivalent of the query in the search box and page title. In simples cases this English equivalent is usually correct, but in more complicated cases, Facebook's English translation is sometimes badly wrong. In even more complicated cases, Facebook will give up and not show an English translation. In such cases, don't worry! The query is working but the translation is just unreliable.
+* In some queries, Facebook will try to show the English translation of the query in the search box and page title; for example <code>4/stories-by/6/stories-commented/intersect</code> has the translation "Mark Zuckerberg's posts commented on by Dustin Moskovitz". In simples cases this English translation is usually correct, but in more complicated cases, Facebook's English translation is sometimes badly wrong. In even more complicated cases, Facebook will give up and not show an English translation. In such cases, don't worry! The query is working but the translation is just unreliable.
 
 ==Related wikiHows==
 * [[Use the Facebook Graph Search]]
