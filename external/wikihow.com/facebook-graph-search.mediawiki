@@ -21,6 +21,15 @@ To get the Facebook ID of an organization, go to the organization page, right cl
 # Understand the grouping of the operators. As explained in the mathematical prerequisites section, Facebook graph search uses a postfix notation. This means that as soon as an operator is seen, it "gobbles up" a certain number of arguments appearing before it (which varies based on the operator's arity). For instance, a sequence like ''A''/''B''/''C''/union-2/''D''/intersect-3 groups into (''A'' (''B'' ''C'' union-2) ''D'' intersect-3), which means the same thing as ''A'' ∩ (''B'' ∪ ''C'') ∩ ''D''. The special union and intersect operators without a number will gobble up ''all'' the arguments preceding it, so the previous query could also have been written ''A''/''B''/''C''/union-2/''D''/intersect or ''B''/''C''/union/''A''/''D''/intersect.
 
 ===Find the atomic conditions===
+
+Atomic conditions specify simple sets. Some examples are:
+
+* <code>str/KEYWORD/stories-keyword</code> (post contains KEYWORD)
+* <code>FACEBOOKID/stories-by</code> (post by user with ID FACEBOOKID)
+* <code>FACEBOOKID/stories-liked</code> (post reacted to by user with ID FACEBOOKID)
+* <code>YEAR/date/stories</code> (post made during YEAR)
+* <code>FACEBOOKID/stories-commented</code> (post commented on by user with ID FACEBOOKID)
+
 ===Explore existing interfaces===
 Several web application interfaces exist to make crafting graph search queries easier. However, note that none of these are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
 
