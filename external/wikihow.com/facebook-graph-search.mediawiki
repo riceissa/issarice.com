@@ -42,6 +42,9 @@ Several web application interfaces exist to make crafting graph search queries e
 * https://stalkscan.com/
 * https://inteltechniques.com/osint/facebook.html
 
+==Warnings==
+* Facebook occasionally changes the queries that work, so some of the specific details in this tutorial may stop working in the future.
+* In some queries, Facebook will try to show the English equivalent of the query in the search box and page title. In simples cases this English equivalent is usually correct, but in more complicated cases, Facebook's English translation is sometimes badly wrong. In even more complicated cases, Facebook will give up and not show an English translation. In such cases, don't worry! The query is working but the translation is just unreliable.
 
 ==Related wikiHows==
 * [[Use the Facebook Graph Search]]
