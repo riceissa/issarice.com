@@ -41,6 +41,7 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* https://www.americanbar.org/content/dam/aba/administrative/child_law/conf/Social%20Media%20Graph%20Search%20handout.authcheckdam.pdf
 #* https://thebalazs.com/2014/12/30/the-facebook-sourcing-tutorial-part-2/
 #* https://github.com/bardoczi/facebook-graph-search
+#* https://booleanstrings.com/2018/06/25/facebook-graph-search-important-changes/
 
 ===Put together the query===
 # Use the general pattern and atomic conditions to write your query. Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query.
