@@ -52,6 +52,9 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* https://www.facebook.com/search/154163327962392/employees/ever/11309713071/employees/ever/intersect - people who have worked at both the World Health Organization and the Gates Foundation
 #* https://www.facebook.com/search/11309713071/employees/ever/pages-liked/book/pages/intersect/ - books liked by people who have worked at the Gates Foundation
 #* https://www.facebook.com/search/11/sep/2017/date-3/stories/intersect - so this is kind of a hack to "go back in time" of your newsfeed for a particular day
+#* https://www.facebook.com/search/4/stories-commented/2010/date/stories/intersect/intersect - posts from 2010 that are commented on by Mark Zuckerberg (the comment doesn't have to be from 2010)
+#* https://www.facebook.com/search/4/stories-commented/2009/before/stories/intersect - posts from before 2009 that have been commented on by Mark Zuckerberg (the comment doesn't have to be from before 2009)
+#* https://www.facebook.com/search/4/stories-liked/2011/date/stories/intersect - posts from 2011 that have been liked by Mark Zuckerberg
 
 ===Explore existing interfaces===
 # Understand what a web application interface can do for you. Several web application interfaces exist to make crafting graph search queries easier. In a web application interface, you type words or numbers into boxes or select options, then hit "Submit" to get your search results. This means you don't need to know anything about the graph search query syntax or how to write atomic conditions. This makes such interfaces useful for quickly getting started. On the other hand, none of the existing interfaces are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
