@@ -36,12 +36,12 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* <code>FACEBOOKID/stories-commented</code> (post commented on by user with ID <code>FACEBOOKID</code>)
 # Keep in mind some of the atomic conditions for people. Some of the most useful ones are:
 #* <code>FACEBOOKID/employees/ever</code>
-# Know where to find more complete lists of atomic conditions.
-#* http://researchclinic.net/facebook/facebook.html
-#* https://www.americanbar.org/content/dam/aba/administrative/child_law/conf/Social%20Media%20Graph%20Search%20handout.authcheckdam.pdf
-#* https://thebalazs.com/2014/12/30/the-facebook-sourcing-tutorial-part-2/
-#* https://github.com/bardoczi/facebook-graph-search
-#* https://booleanstrings.com/2018/06/25/facebook-graph-search-important-changes/
+# Know where to find more complete lists of atomic conditions. Below are some webpages or documents that give a more complete listing of atomic conditions:
+#* "Facebook Graph Search Operators"<ref>Paul Myers. [http://researchclinic.net/facebook/facebook.html "Facebook Graph Search Operators"]. 2018. Research Clinic. Retrieved October 1, 2018.</ref>
+#* "Facebook Graph search links"<ref>[https://www.americanbar.org/content/dam/aba/administrative/child_law/conf/Social%20Media%20Graph%20Search%20handout.authcheckdam.pdf "Facebook Graph search links"]. Retrieved October 1, 2018.</ref>
+#* "The Facebook #Sourcing Tutorial Part 2."<ref>Balazs Paroczay. [https://thebalazs.com/2014/12/30/the-facebook-sourcing-tutorial-part-2/ "The Facebook #Sourcing Tutorial Part 2"]. December 30, 2014. ''Balazs & the Magic Sourcing World''. Retrieved October 1, 2018.</ref>
+#* "The hidden language of Facebook Graph Search - keywords without explanation".<ref>Ákos Bardóczi. [https://github.com/bardoczi/facebook-graph-search "The hidden language of Facebook Graph Search - keywords without explanation"]. April 2, 2018. ''GitHub''. Retrieved October 1, 2018.</ref>
+#* "Facebook Graph Search Important Changes" (2018).<ref>Irina Shamaeva. [https://booleanstrings.com/2018/06/25/facebook-graph-search-important-changes/ "Facebook Graph Search Important Changes"]. June 25, 2018. ''Boolean Strings''. Retrieved October 1, 2018.</ref>
 
 ===Put together the query===
 # Use the general pattern and atomic conditions to write your query. Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query.
