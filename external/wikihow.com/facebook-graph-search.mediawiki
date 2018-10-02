@@ -36,6 +36,11 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* <code>FACEBOOKID/stories-commented</code> (post commented on by user with ID <code>FACEBOOKID</code>)
 # Keep in mind some of the atomic conditions for people. Some of the most useful ones are:
 #* <code>FACEBOOKID/employees/ever</code>
+# Know where to find more complete lists of atomic conditions.
+#* http://researchclinic.net/facebook/facebook.html
+#* https://www.americanbar.org/content/dam/aba/administrative/child_law/conf/Social%20Media%20Graph%20Search%20handout.authcheckdam.pdf
+#* https://thebalazs.com/2014/12/30/the-facebook-sourcing-tutorial-part-2/
+#* https://github.com/bardoczi/facebook-graph-search
 
 ===Put together the query===
 # Use the general pattern and atomic conditions to write your query. Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query.
@@ -45,13 +50,15 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* https://www.facebook.com/search/4/stories-liked/6/stories-liked/intersect - posts liked by both Mark Zuckerberg and Dustin Moskovitz
 #* https://www.facebook.com/search/154163327962392/employees/ever - people who have worked at the World Health Organization
 #* https://www.facebook.com/search/154163327962392/employees/ever/11309713071/employees/ever/intersect - people who have worked at both the World Health Organization and the Gates Foundation
+#* https://www.facebook.com/search/11309713071/employees/ever/pages-liked/book/pages/intersect/ - books liked by people who have worked at the Gates Foundation
+#* https://www.facebook.com/search/11/sep/2017/date-3/stories/intersect - so this is kind of a hack to "go back in time" of your newsfeed for a particular day
 
 ===Explore existing interfaces===
 # Understand what a web application interface can do for you. Several web application interfaces exist to make crafting graph search queries easier. In a web application interface, you type words or numbers into boxes or select options, then hit "Submit" to get your search results. This means you don't need to know anything about the graph search query syntax or how to write atomic conditions. This makes such interfaces useful for quickly getting started. On the other hand, none of the existing interfaces are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
 # Know some of the more well-known and feature-rich interfaces. Some of the more well-known and feature-rich interfaces are:
 #* Facebook Scanner (stalkscan.com)<ref>[https://stalkscan.com/ Facebook Scanner]. Retrieved October 1, 2018.</ref>
 #* Facebook Search Tool by IntelTechniques.com<ref>[https://inteltechniques.com/osint/facebook.html Facebook Search Tool by IntelTechniques.com]. Retrieved October 1, 2018.</ref>
-#* Facebook Graph Search Generator<ref>Henk van Ess; Tormund Gerhardsen. [http://graph.tips/ Facebook Graph Search Generator]. Retrieved October 1, 2018.</ref>
+#* Facebook Graph Search Generator (graph.tips)<ref>Henk van Ess; Tormund Gerhardsen. [http://graph.tips/ Facebook Graph Search Generator]. Retrieved October 1, 2018.</ref>
 # Consider finding other interfaces. If you don't like any of the interfaces listed above, consider looking for others using search terms like "Facebook graph search tool".
 
 ==Warnings==
