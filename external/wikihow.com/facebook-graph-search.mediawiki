@@ -40,6 +40,14 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 ===Put together the query===
 Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query.
 
+We give some example queries below:
+
+#* https://www.facebook.com/search/str/harvard/stories-keyword/4/stories-by/intersect - posts about "Harvard" that are by Mark Zuckerberg
+#* https://www.facebook.com/search/4/stories-commented/6/stories-commented/intersect - posts that are commented on by both Mark Zuckerberg and Dustin Moskovitz
+#* https://www.facebook.com/search/4/stories-liked/6/stories-liked/intersect - posts liked by both Mark Zuckerberg and Dustin Moskovitz
+#* https://www.facebook.com/search/154163327962392/employees/ever - people who have worked at the World Health Organization
+#* https://www.facebook.com/search/154163327962392/employees/ever/11309713071/employees/ever/intersect - people who have worked at both the World Health Organization and the Gates Foundation
+
 ===Explore existing interfaces===
 # Understand what a web application interface can do for you. Several web application interfaces exist to make crafting graph search queries easier. In a web application interface, you type words or numbers into boxes or select options, then hit "Submit" to get your search results. This means you don't need to know anything about the graph search query syntax or how to write atomic conditions. This makes such interfaces useful for quickly getting started. On the other hand, none of the existing interfaces are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
 # Know some of the more well-known and feature-rich interfaces. Some of the more well-known and feature-rich interfaces are:
