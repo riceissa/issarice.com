@@ -38,10 +38,8 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* <code>FACEBOOKID/employees/ever</code>
 
 ===Put together the query===
-Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query.
-
-We give some example queries below:
-
+# Use the general pattern and atomic conditions to write your query. Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query.
+# Look at some example queries. Here are some example queries that give some idea of what is possible. Using the concepts discussed above, you can craft much more complicated queries.
 #* https://www.facebook.com/search/str/harvard/stories-keyword/4/stories-by/intersect - posts about "Harvard" that are by Mark Zuckerberg
 #* https://www.facebook.com/search/4/stories-commented/6/stories-commented/intersect - posts that are commented on by both Mark Zuckerberg and Dustin Moskovitz
 #* https://www.facebook.com/search/4/stories-liked/6/stories-liked/intersect - posts liked by both Mark Zuckerberg and Dustin Moskovitz
