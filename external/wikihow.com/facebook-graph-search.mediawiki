@@ -28,12 +28,11 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* <code>str/KEYWORD/stories-keyword</code>: post contains <code>KEYWORD</code>; for example <code>str/malaria/stories-keyword</code> finds all posts containing the word "malaria"
 #* <code>str/GROUP%20NAME/stories-keyword</code>: search for posts in <code>GROUP NAME</code>; note that spaces must be entered as a space or as the percent-encoded <code>%20</code> and that this will also find posts that mention the group name; for example <code>str/open%20borders%20action%20group/stories-keyword</code> finds all posts in the Open Borders Action Group
 #* <code>FACEBOOKID/stories-by</code>: post by user with ID <code>FACEBOOKID</code>; for example <code>4/stories-by</code> finds all posts by Mark Zuckerberg (who has the Facebook ID of 4)
-#* <code>FACEBOOKID/stories-liked</code> (post reacted to by user with ID <code>FACEBOOKID</code>)
+#* <code>FACEBOOKID/stories-liked</code>: post liked by user with ID <code>FACEBOOKID</code>; for example <code>4/stories-liked</code> finds all posts liked by Mark Zuckerberg (who has the Facebook ID of 4)
 #* <code>FACEBOOKID/stories-commented</code>: post commented on by user with ID <code>FACEBOOKID</code>; for example <code>4/stories-commented</code> finds all posts commented on by Mark Zuckerberg (who has the Facebook ID of 4)
-#* <code>YYYY/date/stories</code> (post made during the year <code>YYYY</code>)
-#* <code>MON/YYYY/date-2/stories</code>: post made during the month <code>MON</code> of year <code>YYYY</code>, for example <code>sep/2017/date-2/stories</code>
-#* <code>DD/MON/YYYY/date-3/stories</code>: post made during the day <code>DD</code> of month <code>MON</code> of year <code>YYYY</code>, for example <code>05/sep/2017/date-3/stories</code>
-#* <code>FACEBOOKID/stories-commented</code> (post commented on by user with ID <code>FACEBOOKID</code>)
+#* <code>YYYY/date/stories</code>: post made during the year <code>YYYY</code>; for example, <code>2017/date/stories</code> finds all posts made in 2017
+#* <code>MON/YYYY/date-2/stories</code>: post made during the month <code>MON</code> of year <code>YYYY</code>; for example <code>sep/2017/date-2/stories</code> finds all posts made during September 2017
+#* <code>DD/MON/YYYY/date-3/stories</code>: post made during the day <code>DD</code> of month <code>MON</code> of year <code>YYYY</code>; for example <code>05/sep/2017/date-3/stories</code> finds all posts made on September 5, 2017
 # Keep in mind some of the atomic conditions for people. Some of the most useful ones are:
 #* <code>FACEBOOKID/employees/ever</code>
 # Know where to find more complete lists of atomic conditions. Below are some webpages or documents that give a more complete listing of atomic conditions:
