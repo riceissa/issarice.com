@@ -46,18 +46,18 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 # Use the general pattern and atomic conditions to write your query. Now that you know the general syntax of a query and have some examples of useful atomic conditions, you can put everything together into an actual query. Probably the easiest way to do this is to write out the query informally in infix notation, then convert it to postfix notation, and finally replace each informal condition by its corresponding atomic condition and the spaces and parentheses by slashes. Here is an example of this process:
 #* Suppose we want to find all posts by either Mark Zuckerberg or Dustin Moskovitz that were made in 2015. We write this in infix notation as: (by-Mark-Zuckerberg or by-Dustin-Moskovitz) and made-in-2015. Now we convert to postfix as: ((by-Mark-Zuckerberg by-Dustin-Moskovitz union) made-in-2015 intersect). Finally, we replace the informal conditions by the corresponding atomic conditions and the spaces and parentheses by slashes: <code>4/stories-by/6/stories-by/union/2015/date/stories/intersect</code>.
 # Look at some example queries. Here are some example queries that give some idea of what is possible. Using the concepts discussed above, you can craft much more complicated queries.
-#* https://www.facebook.com/search/str/harvard/stories-keyword/4/stories-by/intersect - posts about "Harvard" that are by Mark Zuckerberg
-#* https://www.facebook.com/search/4/stories-commented/6/stories-commented/intersect - posts that are commented on by both Mark Zuckerberg and Dustin Moskovitz
-#* https://www.facebook.com/search/4/stories-liked/6/stories-liked/intersect - posts liked by both Mark Zuckerberg and Dustin Moskovitz
-#* https://www.facebook.com/search/154163327962392/employees/ever - people who have worked at the World Health Organization
-#* https://www.facebook.com/search/154163327962392/employees/ever/11309713071/employees/ever/intersect - people who have worked at both the World Health Organization and the Gates Foundation
-#* https://www.facebook.com/search/11309713071/employees/ever/pages-liked/book/pages/intersect/ - books liked by people who have worked at the Gates Foundation
-#* https://www.facebook.com/search/11/sep/2017/date-3/stories - so this is kind of a hack to "go back in time" of your newsfeed for a particular day
-#* https://www.facebook.com/search/4/stories-commented/2010/date/stories/intersect/intersect - posts from 2010 that are commented on by Mark Zuckerberg (the comment doesn't have to be from 2010)
-#* https://www.facebook.com/search/4/stories-commented/2009/before/stories/intersect - posts from before 2009 that have been commented on by Mark Zuckerberg (the comment doesn't have to be from before 2009)
-#* https://www.facebook.com/search/4/stories-liked/2011/date/stories/intersect - posts from 2011 that have been liked by Mark Zuckerberg
-#* https://www.facebook.com/search/4/stories-tagged/str/cupcake/stories-keyword/2011/date/stories/intersect - posts from 2011 that are about cupcakes and where Mark Zuckerberg is tagged
-#* https://www.facebook.com/search/4/stories-by/2011/date/stories/intersect - Mark Zuckerberg's posts from 2011
+#* https://www.facebook.com/search/str/harvard/stories-keyword/4/stories-by/intersect – posts about "Harvard" that are by Mark Zuckerberg
+#* https://www.facebook.com/search/4/stories-commented/6/stories-commented/intersect – posts that are commented on by both Mark Zuckerberg and Dustin Moskovitz
+#* https://www.facebook.com/search/4/stories-liked/6/stories-liked/intersect – posts liked by both Mark Zuckerberg and Dustin Moskovitz
+#* https://www.facebook.com/search/154163327962392/employees/ever – people who have worked at the World Health Organization
+#* https://www.facebook.com/search/154163327962392/employees/ever/11309713071/employees/ever/intersect – people who have worked at both the World Health Organization and the Gates Foundation
+#* https://www.facebook.com/search/11309713071/employees/ever/pages-liked/book/pages/intersect/ – books liked by people who have worked at the Gates Foundation
+#* https://www.facebook.com/search/11/sep/2017/date-3/stories – so this is kind of a hack to "go back in time" of your newsfeed for a particular day
+#* https://www.facebook.com/search/4/stories-commented/2010/date/stories/intersect/intersect – posts from 2010 that are commented on by Mark Zuckerberg (the comment doesn't have to be from 2010)
+#* https://www.facebook.com/search/4/stories-commented/2009/before/stories/intersect – posts from before 2009 that have been commented on by Mark Zuckerberg (the comment doesn't have to be from before 2009)
+#* https://www.facebook.com/search/4/stories-liked/2011/date/stories/intersect – posts from 2011 that have been liked by Mark Zuckerberg
+#* https://www.facebook.com/search/4/stories-tagged/str/cupcake/stories-keyword/2011/date/stories/intersect – posts from 2011 that are about cupcakes and where Mark Zuckerberg is tagged
+#* https://www.facebook.com/search/4/stories-by/2011/date/stories/intersect – Mark Zuckerberg's posts from 2011
 
 ===Explore existing interfaces===
 # Understand what a web application interface can do for you. Several web application interfaces exist to make crafting graph search queries easier. In a web application interface, you type words or numbers into boxes or select options, then hit "Submit" to get your search results. This means you don't need to know anything about the graph search query syntax or how to write atomic conditions. This makes such interfaces useful for quickly getting started. On the other hand, none of the existing interfaces are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
