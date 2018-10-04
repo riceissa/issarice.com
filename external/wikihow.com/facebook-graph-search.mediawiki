@@ -6,7 +6,7 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 # Know what the mathematical prerequisites are. The main mathematical prerequisites for developing fluency with graph search are [[wikipedia:Boolean_algebra|Boolean algebra]], [[wikipedia:Naive_set_theory|naive set theory]], [[wikipedia:Reverse_Polish_notation|reverse Polish notation]], and [[wikipedia:Arity|operator arity]].
 #* It is possible to work with graph search even without an understanding of these topics. For instance, you can use some of the existing interfaces listed in the "Explore existing interfaces" section below, modify example searches, or stick to very simple queries. Thus, this section can be skipped on a first read. Nonetheless, having a solid understanding of these topics will ensure you aren't making any mistakes in writing queries, and will allow you to craft tricky queries.
 # Understand Boolean algebra. [[wikipedia:Boolean_algebra|Boolean algebra]] is an abstract way of formalizing logical notions like "and", "or", and "not". Many search engines incorporate Boolean algebra. For instance, Google has an advanced search page<ref>[https://www.google.com/advanced_search "Google Advanced Search"]. Google. Retrieved September 30, 2018.</ref> where one can find a box to search all of the given words (Boolean "and"), a box to search any of the given words (Boolean "or"), and a box for searching none of the given words (Boolean "not").
-#* Facebook graph search incorporates ''parts'' of Boolean algebra. In particular, it has a family of ''intersect operators'' (corresponding to a Boolean "and") and a family of ''union operators'' (corresponding to a Boolean "or"). However, it is lacking a notion of negation, so there is no operator corresponding to the Boolean "not". Concretely, this means you cannot search for things like "all posts not written by Mark Zuckerberg".
+#* Facebook graph search incorporates ''parts'' of Boolean algebra. In particular, it has a family of ''intersect operators'' (corresponding to a Boolean "and") and a family of ''union operators'' (corresponding to a Boolean "or"). However, it is lacking a notion of negation, so there is no operator corresponding to the Boolean "not". Concretely, this means you cannot search for things like "all posts not written by Mark Zuckerberg".<ref>There are two exceptions: the non-friends keyword allows you to find people who are not the friends of someone, and the non-groups keyword allows you to find groups that a person does not belong to.</ref>
 # Understand naive set theory. [[wikipedia:Naive_set_theory|Naive set theory]] is an instance of a Boolean algebra, where the Boolean "and" is called [[wikipedia:Intersection_(set_theory)|''intersection'']], the Boolean "or" is called [[wikipedia:Union_(set_theory)|''union'']], and the Boolean "not" is called [[wikipedia:Complement_(set_theory)|''set complement'']].
 #* The key point is this: in Facebook graph search, the operands will all be ''conditions that specify sets''. For instance "posts liked by Dustin Moskovitz" specifies the collection (set) of all posts on Facebook that have been "liked" by Dustin Moskovitz. Then, using the union and intersect operators (remember, you have part of a Boolean algebra), you can form new sets like "posts written by Mark Zuckerberg that were liked by Dustin Moskovitz", i.e. the ''intersection'' of "posts written by Mark Zuckerberg" and "posts that were liked by Dustin Moskovitz".
 #* One thing to be careful about is that the English word "and" can sometimes mean "union", for instance when one says "the set of all cats and dogs" (this is the union of "the set of cats" and "the set of dogs", rather than the intersection). There are many similar subtleties in mathematical logic; for more information see [[wikipedia:Timothy_Gowers|Tim Gowers]]'s blog post on logical connectives<ref>Tim Gowers. [https://gowers.wordpress.com/2011/09/25/basic-logic-connectives-and-and-or/ "Basic logic — connectives — AND and OR"]. ''Gowers's Weblog''. September 25, 2011. Retrieved September 30, 2018.</ref> as well as [[wikipedia:Terence_Tao|Terence Tao]]'s lecture notes on mathematical logic<ref>Terence Tao. [http://www.math.ucla.edu/~tao/resource/general/131ah.1.03w/logic.pdf "Supplemental handout - The basics of mathematical logic"]. Retrieved September 30, 2018.</ref> and set theory.<ref>Terence Tao. [http://www.math.ucla.edu/~tao/resource/general/131ah.1.03w/sets.pdf "Supplemental handout - Naive set theory"]. Retrieved September 30, 2018.</ref>
@@ -73,6 +73,26 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* https://www.facebook.com/search/4/stories-liked/2011/date/stories/intersect – posts from 2011 that have been liked by Mark Zuckerberg
 #* https://www.facebook.com/search/4/stories-tagged/str/cupcake/stories-keyword/2011/date/stories/intersect – posts from 2011 that are about cupcakes and where Mark Zuckerberg is tagged
 #* https://www.facebook.com/search/4/stories-by/2011/date/stories/intersect – Mark Zuckerberg's posts from 2011
+
+===Understanding the Functions View of Graph Search===
+
+# There is a more sophisticated view of graph search than the view given in the above sections. In this new view, there aren't just sets, but also ''functions'' that map between different sets. Functions allow you to transform a set of objects of one type into a set of objects of another type.
+# Learn the type signatures of common functions.
+#* stories-liked: Person → power(Post)
+#* stories-by: Person → power(Post)
+#* stories-commented: Person → power(Post)
+#* stories-tagged: Person → power(Post)
+#* stories: Date → power(Post)
+#* stories-keyword: Keyword → power(Post)
+#* pages-liked: Person → power(Page)
+#* friends: Person → power(Person)
+#* employees: Page → power(Person)
+#* employees/ever: Page → power(Person)
+#* likers: Page → power(Person)
+#* groups: Person → power(Group)
+#* stories-in: Group → power(Post)
+#* non-friends: Person → power(Person)
+#* non-groups: Person → power(Group)
 
 ===Exploring Existing Interfaces===
 # Understand what a web application interface can do for you. Several web application interfaces exist to make building graph search queries easier. In a web application interface, you type words or numbers into boxes or select options, then hit "Submit" (or similar) to get your search results. This means you don't need to know anything about the graph search query syntax or how to write atomic conditions. This makes such interfaces useful for quickly getting started. On the other hand, none of the existing interfaces are very advanced, in the sense of being able to craft arbitrary queries with arbitrary conditions.
