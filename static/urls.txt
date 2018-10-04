@@ -36,7 +36,7 @@ https://srconstantin.wordpress.com/feed/
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
 http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Ben Hoffman"
 http://slatestarcodex.com/feed/
-https://www.reddit.com/r/ControlProblem/.rss
+https://www.reddit.com/r/ControlProblem/.rss "~r/ControlProblem"
 https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
@@ -72,3 +72,4 @@ http://mojix.org/rss20.xml
 https://bookuctivity.wordpress.com/feed/
 http://chriswarbo.net/blog.atom "~chriswarbo.net"
 http://supermemopedia.com/index.php?title=Incremental_reading_strategies&feed=atom&action=history
+http://mediangroup.org/feed/atom.xml
