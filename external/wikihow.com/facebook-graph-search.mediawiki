@@ -78,7 +78,7 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 
 # There is a more sophisticated view of graph search than the view given in the above sections. In this new view, there aren't just sets, but also ''functions'' that map between different sets. Functions allow you to transform a set of objects of one type into a set of objects of another type.The outputs of functions will be sets, on which you can use union and intersect operators, just as before.
 # Understand the general pattern of a function. A function ''f'': ''A'' → ''B'' takes an object of type ''A'' and outputs an object of type ''B''. In the case of graph search functions, ''B'' will be of the form power(''C'') for some type ''C'', meaning that each output will itself be a set of objects of type ''C''.<ref>If you are familiar with functional programming languages such as Haskell, sets are lists, ''f'': ''A'' → ''B'' is written as <code>f: A -> B</code>, and ''f'': ''A'' → power(''C'') is written as <code>f: A -> [C]</code>.</ref>
-#* In addition, each function ''f'': ''A'' → power(''C'') induces a function ''f''′ : power(''A'') → power(''C'') defined by ''f''′(''E'') = ∪<sub>''e'' ∈ ''E''</sub> f(e) for each ''E'' ⊂ ''A''.
+#* In addition, each function ''f'': ''A'' → power(''C'') induces a function ''F'' : power(''A'') → power(''C'') defined by ''F''(''E'') = ⋃<sub>''e'' ∈ ''E''</sub>  ''f''(''e'') for each ''E'' ⊂ ''A''. In graph search, ''f'' and ''F'' are denoted the same, which might sound confusing, but in practice it is not confusing. For example, stories-liked: Person → power(Post) returns the posts liked by a person, so if you see <code>4/stories-liked</code> you know it is posts liked by a single person (in this case, that person happens to be Mark Zuckerberg), but if you see <code>4/friends/stories-liked</code>, then the object appearing before stories-liked is a set of people (namely, the friends of Mark Zuckerberg), so you know it is the power set version of the stories-liked function.
 # Learn the type signatures of common functions.
 #* stories-liked: Person → power(Post)
 #* stories-by: Person → power(Post)
@@ -95,7 +95,7 @@ This guide explores how to use Facebook's graph search syntax to find posts, com
 #* stories-in: Group → power(Post)
 #* non-friends: Person → power(Person)
 #* non-groups: Person → power(Group)
-#* pages: {book, musician} → power(Page)
+#* pages: {book, musician, …} → power(Page)
 #* males: power(Person)
 #* users-interested: {males, females, both} → power(Person)
 #* political-views: Person → power(Page)
