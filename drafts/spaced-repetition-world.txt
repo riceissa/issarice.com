@@ -1,0 +1,39 @@
+I've been wondering some lately about what the world would look like
+if the competent use of spaced repetition software was as commonplace
+as something mundane like high school algebra. For the purposes of
+this thought experiment, I'm not increasing the general sanity of
+people or civilization (so e.g. people won't magically start
+memorizing important things). They would just have "virtuoso skill"
+(as Michael Nielsen would say) at using spaced repetition software.
+
+Some ideas:
+
+* Reputations have the potential to be more solid and precise. Someone
+  who made a thoughtful comment on a blog post could rely on it being
+  remembered far into the future. Someone who flouted a social norm
+  wouldn't just be remembered as "weird" but would actually have the
+  precise behavior documented and remembered. Michael Nielsen gives
+  the example of memorizing specific reasons he doesn't want to
+  collaborate with certain people.
+
+* I want it to be the case that people can hold more ideas in their
+  head at once, and for there to be more "serendipitous" discoveries.
+  But I'm not actually confident this will be the case, seeing that
+  people don't even have basic traits of competence (like searching a
+  forum before asking a question).
+
+* For social scientists: given access to people's SRS decks, it would
+  be possible to tell what really matters to people, for the long
+  term.
+
+Things that might prima facie seem to improve but where I don't expect
+improvements:
+
+* Compared to before the arrival of smartphones, something like the
+  ability of remember facts that can be looked up quickly, or
+  remembering phone numbers, addresses, driving directions, isn't as
+  important.
+
+* Remembering the physical location of objects. (e.g. where are the
+  car keys?). I think this sort of spacial information of things that
+  change frequently are hard to describe and put into SRS.
