@@ -1,0 +1,11 @@
+Consider the following argument for what CFAR is doing:
+
+1. Humans currently fall far short in rationality than what can potentially be achieved (https://www.greaterwrong.com/posts/Nu3wa6npK4Ry66vFp/a-sense-that-more-is-possible)
+
+2. Several of the rudiments of teaching rationality are known
+
+3. These rationality techniques are teachable in an intense 4-day workshop (plus a small number of Skype sessions and interactions with other alumni of the workshops, and whatever else CFAR offers)
+
+4. Once these rudimentary rationality techniques are mastered, people are in fact much more rational in a way we care about.
+
+(I'm only considering here the "teach people rationality" aspect of CFAR. CFAR is probably also functioning as a "get people to care more about important cause areas" and "be a place that attracts smart people" organization.)
