@@ -5,6 +5,8 @@ While the application of [[Functional decision theory|functional]]/[[Updateless 
 {| class="sortable wikitable"
 ! Person !! Work !! Opinion
 |-
+| [[Wei Dai]] || [https://www.greaterwrong.com/posts/4MYYr8YmN2fonASCi/you-re-in-newcomb-s-box/comment/fYsK79tprvAkHQiTH comment on LW] || "I don’t think UDT is applicable to most human decisions (or rather, it probably tells you to do the same things as standard decision theory), including things like voting or contributing to charity, or deciding whether to have children, because I think logical correlations between ordinary humans are probably pretty low. (That’s just an intuition though since I don’t know how to do the calculations.)"
+|-
 | [[Andrew Critch]] || "Deserving Trust / Grokking Newcomb's Problem",<ref>Andrew Critch. [http://acritch.com/deserving-trust/ "Deserving Trust / Grokking Newcomb's Problem"]. February 2, 2017.</ref> "Deserving Trust, II: It’s not about reputation",<ref>Andrew Critch. [http://acritch.com/deserving-trust-2/ "Deserving Trust, II: It’s not about reputation". May 20, 2017.]</ref> "What we're thinking about as we grow - ethics, oversight, and getting things done",<ref>Andrew Critch. [http://existence.org/growth "What we're thinking about as we grow - ethics, oversight, and getting things done"]. October 19, 2017.</ref> [http://lesswrong.com/lw/1zw/newcombs_problem_happened_to_me/] ||
 |-
 | Zvi Mowshowitz || "How I Lost 100 Pounds Using TDT"<ref>Zvi Mowshowitz. [http://lesswrong.com/lw/4sh/how_i_lost_100_pounds_using_tdt/ "How I Lost 100 Pounds Using TDT"]. ''LessWrong''. March 14, 2011.</ref> || Argues that reasoning like a TDT agent helped him lose weight.
