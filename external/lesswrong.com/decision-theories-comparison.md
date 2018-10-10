@@ -2,9 +2,9 @@
 % Issa Rice
 % 2018-07-25
 
-TODO: fix straight quotes/curly quotes
+TODO: fix straight quotes/curly quotes (done at one point, but do this again before publishing)
 
-TODO: for the box-arrow, probably `\Box\kern-7mu\rightarrow` is better than what I'm doing right now.
+TODO: for the box-arrow, probably `\Box\kern-7mu\rightarrow` is better than what I’m doing right now.
 
 # Introduction
 
@@ -22,14 +22,14 @@ have.
 
 There are some other comparisons of decision theories (see the “Other comparions” section),
 but they either (1)
-don't focus on logical-counterfactual decision theories; or (2) are outdated
+don’t focus on logical-counterfactual decision theories; or (2) are outdated
 (written before the new functional/logical decision theory terms came about).
 
 More viscerally, after reading through a bunch of papers and posts about these
 decision theories, and feeling like I understood the basic ideas, I still
 remained highly confused about basic things like “How is UDT different from
 FDT?”, “Why was TDT deprecated?”, and “If TDT performs worse than FDT, then
-what's one decision problem where they give different outputs?”
+what’s one decision problem where they give different outputs?”
 This post hopes to clarify these and other questions by emphasizing:
 
 * somewhat pedantic notation,
@@ -42,15 +42,15 @@ None of the decision theory material in this post is novel.
 This post is intended for people who are similarly confused about the
 differences between TDT, UDT, FDT, and LDT. In terms of reader background assumed,
 it would be good to know the statements to some standard decision theory
-problems (Newcomb's problem, smoking lesion, Parfit's hitchhiker, transparent
-box Newcomb's problem, counterfactual mugging) and the “correct” answers to
+problems (Newcomb’s problem, smoking lesion, Parfit’s hitchhiker, transparent
+box Newcomb’s problem, counterfactual mugging) and the “correct” answers to
 them, and having enough background in math to understand the expected utility
 formulas.
 
-If you don't have the background, I would recommend reading
+If you don’t have the background, I would recommend reading
 chapters 5 and 6 of
-Gary Drescher's [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf) (explains well the idea of subjunctive means--end relations),
-the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (explains well how FDT's action selection variant works, and how FDT differs from CDT and EDT),
+Gary Drescher’s [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf) (explains well the idea of subjunctive means--end relations),
+the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (explains well how FDT’s action selection variant works, and how FDT differs from CDT and EDT),
 [“Cheating Death in Damascus”](https://intelligence.org/files/DeathInDamascus.pdf), and
 [“Toward Idealized Decision Theory”](https://arxiv.org/pdf/1507.01986.pdf) (explains the difference between policy selection and logical counterfactuals well), and understanding
 what Wei Dai calls “decision theoretic thinking” (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf) and [this comment](https://www.lesswrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver#Hrtu69eAh86KFNgBC)).
@@ -119,16 +119,16 @@ One exception to the above is UDT2, which seems to iterate over *algorithms*.
 In some decision problems, the agent makes an observation, and has the choice
 of updating on this observation before acting. Two examples of this are: in
 counterfactual mugging, where the agent makes the observation that the coin has
-come up tails; and in the transparent box Newcomb's problem, where the agent
+come up tails; and in the transparent box Newcomb’s problem, where the agent
 sees whether the big box is full or empty.
 
 If the decision algorithm updates on the observation, it is *updateful* (or
-“not updateless”). If it doesn't update on the observation, it is
+“not updateless”). If it doesn’t update on the observation, it is
 *updateless*.
 
-This idea is similar to how in Rawls's “[veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)”, you must pick your
+This idea is similar to how in Rawls’s “[veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)”, you must pick your
 moral principles, societal policies, etc., before you find out who
-you are in the world or as if you don't know who you are in the world.
+you are in the world or as if you don’t know who you are in the world.
 
 How can you tell if a decision theory is
 updateless? In its expected utility formula, if it conditions
@@ -213,7 +213,7 @@ This section elaborates on the comparison above by giving an explicit expected v
 
 ## UDT1 and FDT (iterate over actions)
 
-I will describe UDT1 and FDT's action variant together, because I think they
+I will describe UDT1 and FDT’s action variant together, because I think they
 give the same decisions. The main differences between the two seem to be (1)
 the way they are formalized, where FDT uses graphical models and UDT1 uses some
 kind of non-graphical mathematical intuition module (or something); and (2) the
@@ -232,7 +232,7 @@ $$\begin{align}\mathrm{FDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in \mathcal A
 
 (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
 
-(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
+(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
 
 also see https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb
 
@@ -244,12 +244,12 @@ Here $M$ is the mathematical intuition that gives ...
 
 In our own notation, this might look like TODO: give expression
 
-I'm not sure if this is right. But the important point is that UDT1:
+I’m not sure if this is right. But the important point is that UDT1:
 
 * Does action selection due to the $a\in\mathcal A$ or $Y\in\mathbf Y$
 * Uses logical counterfactuals, either via FDT-like notation or via the mathematical intuition
 * Does not condition on the observation, because there is no
-  $\mathrm{O\small BS}=x$ (the McAllister paper doesn't even mention observations)
+  $\mathrm{O\small BS}=x$ (the McAllister paper doesn’t even mention observations)
 
 The above three explain the values for UDT1 in the comparison table.
 
@@ -261,7 +261,7 @@ also see https://casparoesterheld.files.wordpress.com/2017/08/updateless_decisio
 
 (see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
 
-(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
+(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
 
 also see https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb
 
@@ -273,12 +273,12 @@ On the right hand side, the large expression on the left (the part inside and in
 
 [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7):
 
-> In the authors' preferred formalization of FDT, agents actually iterate over
+> In the authors’ preferred formalization of FDT, agents actually iterate over
 > *policies* (mappings from observations to actions) rather than actions. This
 > makes a difference in certain multi-agent dilemmas, but will not make a
 > difference in this paper.
 
-Again using Tyrrell McAllister's notation, UDT1.1 looks like:
+Again using Tyrrell McAllister’s notation, UDT1.1 looks like:
 
 $$\mathrm{UDT}_{1.1}(\mathbf X, \mathbf Y, \mathbf E, M, \mathbf I) = \operatorname*{arg\,max}_{f\in \mathbf I} \sum_{E\in\mathbf E} M(f,E)\cdot U(E)$$
 
@@ -299,7 +299,7 @@ My understanding of TDT is mainly from
 I am aware of the [TDT paper](https://intelligence.org/files/TDT.pdf) and skimmed it a while back,
 but did not revisit it in the course of writing this post.
 
-[Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP's failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11
+[Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP’s failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11
 
 $$\mathrm{TDT}(P,x) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{O\small BS}=x, \mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a))$$
 
@@ -321,7 +321,7 @@ comment](http://lesswrong.com/lw/jhj/functional_side_effects/adhy) by Wei Dai
 and [this
 post](https://www.lesswrong.com/posts/wXxPmc9W6kPb6i7vj/notes-on-logical-priors-from-the-miri-workshop)
 by Vladimir Slepnev, it seems to iterate over algorithms rather than actions or
-policies, and I am assuming it didn't abandon updatelessness and logical counterfactuals.
+policies, and I am assuming it didn’t abandon updatelessness and logical counterfactuals.
 
 The following search queries might have more information:
 
@@ -357,7 +357,7 @@ $$\begin{align}\mathrm{EDT}(P,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \
 If two decision theories are actually different, there should be some decision problem where they return different answers.
 
 I think the FDT paper does a great job of distinguishing the logical-counterfactual decision theories from EDT and CDT.
-However, it doesn't distinguish between different logical-counterfactual decision theories.
+However, it doesn’t distinguish between different logical-counterfactual decision theories.
 
 The following is a table that shows the disagreements between decision theories.
 For each pair of decision theories specified by a row and column, the decision problem named in the cell is one where the decision theories return different answers.
@@ -365,10 +365,10 @@ The diagonal is blank because the decision theories are the same. The lower left
 
 | |UDT1.1/FDT-policy|UDT1/FDT-action|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|UDT1.1/FDT-policy|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (TDT refuses, UDT1.1 pays)|[Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb's problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
-|UDT1/FDT-action|--|--|counterfactual mugging? (TDT refuses, UDT1 pays?)|Parfit's hitchhiker (EDT refuses, UDT1 pays)|Newcomb's problem (CDT two-boxes, UDT1 one-boxes)|
-|TDT|--|--|--|Parfit's hitchhiker (EDT refuses, TDT pays)|Newcomb's problem (CDT two-boxes, TDT one-boxes)|
-|EDT|--|--|--|--|Newcomb's problem (CDT two-boxes, EDT one-boxes)|
+|UDT1.1/FDT-policy|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (TDT refuses, UDT1.1 pays)|[Parfit’s hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb’s problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
+|UDT1/FDT-action|--|--|counterfactual mugging? (TDT refuses, UDT1 pays?)|Parfit’s hitchhiker (EDT refuses, UDT1 pays)|Newcomb’s problem (CDT two-boxes, UDT1 one-boxes)|
+|TDT|--|--|--|Parfit’s hitchhiker (EDT refuses, TDT pays)|Newcomb’s problem (CDT two-boxes, TDT one-boxes)|
+|EDT|--|--|--|--|Newcomb’s problem (CDT two-boxes, EDT one-boxes)|
 |CDT|--|--|--|--|--|
 
 
@@ -378,7 +378,7 @@ curious benefactor/counterfactual mugging
 
 ## Distinguishing UDT1 from UDT1.1
 
-the number assignment game in Wei Dai's UDT1.1 post.
+the number assignment game in Wei Dai’s UDT1.1 post.
 
 ## Distinguishing TDT from UDT1
 
@@ -435,14 +435,14 @@ unspecified.
 ## What are all the different meanings of “updateless” used in the wild?
 
 I think i need to break down the idea of “updatelessness” further. My own understanding
-is that it's just whether or not you condition on the sense date inside the probability
+is that it’s just whether or not you condition on the sense date inside the probability
 part of the expected utility formula. So under this interpretation, all versions of
-TDT is not updateless. But Caspar uses “updateless” for anything that doesn't need
-precommitments to win Parfit's hitchhiker, making TDT updateless.
+TDT is not updateless. But Caspar uses “updateless” for anything that doesn’t need
+precommitments to win Parfit’s hitchhiker, making TDT updateless.
 
-Plus, if FDT is updateless, then Rob's comment
-doesn't make sense; what are these philosophical issues around updatelessness that FDT
-doesn't need to accept?
+Plus, if FDT is updateless, then Rob’s comment
+doesn’t make sense; what are these philosophical issues around updatelessness that FDT
+doesn’t need to accept?
 
 Also by the previous subsection, “updateless” might sometimes be used to mean
 “does policy selection”. If this is the case, then some versions of FDT are
@@ -452,7 +452,7 @@ https://www.lesswrong.com/posts/pneKTZG9KqnSe2RdQ/two-types-of-updatelessness ab
 
 https://agentfoundations.org/item?id=1711 apparently there is a parameter $f$ here that determines the level of updatelessness.
 
-“Lately there’s been a bit more doubt about updatelessness (in full generality instead of the partial version attained by policy selection) as being an achievable desiderata.” https://agentfoundations.org/item?id=1797 So this also seems to mean that policy selection doesn't necessarily imply updatelessness.
+“Lately there’s been a bit more doubt about updatelessness (in full generality instead of the partial version attained by policy selection) as being an achievable desiderata.” https://agentfoundations.org/item?id=1797 So this also seems to mean that policy selection doesn’t necessarily imply updatelessness.
 
 “An updateless agent is one that does not update on its observations, but instead chooses what action it wants itself to output upon being input those observations.” https://agentfoundations.org/item?id=1689 The post distinguishes between empirical updatelessness and logical updatelessness.
 
@@ -460,16 +460,16 @@ page 3 of https://github.com/tsvibt/public-pdfs/blob/master/decision-theory/nota
 
 ## Quoting/dequoting
 
-* I'm not totally clear on all the intricacies of quoting/dequoting/quining/recursively referring to your decision algorithm.
+* I’m not totally clear on all the intricacies of quoting/dequoting/quining/recursively referring to your decision algorithm.
 
 ## Other decision theories
 
-Here are some other decision theories that I've encountered, but for which I
-don't know how how to fill in the values in the outermost
+Here are some other decision theories that I’ve encountered, but for which I
+don’t know how how to fill in the values in the outermost
 iteration/updateless/type of counterfactual table.
 
 * EDT with tickle defense
-* Drescher's in _Good and Real_
+* Drescher’s in _Good and Real_
   “despite being motivated by similar intuitions in Newcomblike cases, it is unclear whether or not the similarity between Drescher-style subjunctive dependence and FDT-style subjunctive dependence is merely verbal.” https://philpapers.org/archive/BARWDT-3.pdf
 * Policy-based CDT (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)
 
@@ -480,7 +480,7 @@ Here are some existing comparisons between decision theories that I found
 useful, along with reasons why I felt the current post was needed.
 
 * [“Decision-theoretic problems and Theories; An (Incomplete) comparative list”](https://www.lesswrong.com/posts/cWEhuXQBxRwxmhER5/decision-theoretic-problems-and-theories-an-incomplete) by somervta.
-  This list is useful and modern but doesn't include the different versions of UDT and FDT.
+  This list is useful and modern but doesn’t include the different versions of UDT and FDT.
 * [“A comprehensive list of decision
   theories”](https://casparoesterheld.com/a-comprehensive-list-of-decision-theories/)
   by Caspar Oesterheld and/or Johannes Treutlein. I think my motivation is
@@ -489,9 +489,9 @@ useful, along with reasons why I felt the current post was needed.
   those tables are chosen in a way so as to make the differences apparent.
 * [“Problem Class Dominance in Predictive
   Dilemmas”](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
-  by Daniel Hintze. This paper is from 2014 so doesn't include the FDT/LDT
-  terminology, and also doesn't include the various versions of UDT.
-* [“Timeline of decision theory”](https://timelines.issarice.com/wiki/Timeline_of_decision_theory). This is an incomplete timeline I've been working on sporadically. It gives a chronological ordering of some decision theories and decision problems.
+  by Daniel Hintze. This paper is from 2014 so doesn’t include the FDT/LDT
+  terminology, and also doesn’t include the various versions of UDT.
+* [“Timeline of decision theory”](https://timelines.issarice.com/wiki/Timeline_of_decision_theory). This is an incomplete timeline I’ve been working on sporadically. It gives a chronological ordering of some decision theories and decision problems.
 
 # Meta information on this post
 
