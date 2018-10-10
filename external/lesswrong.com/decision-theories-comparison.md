@@ -106,7 +106,7 @@ between these decision theories.
 
 ## Outermost iteration
 
-All of the decision theories in this post iterate through some set of “options”
+All of the decision theories in this post iterate through some set of “options” (intentionally vague)
 at the outermost layer of execution to find the best “option”. However, the
 nature of these “options” differs among the various theories.
 Most decision theories iterate through either *actions* or *policies*.
@@ -120,7 +120,7 @@ action to take), we must *call* the policy on the actual observation.
 
 From the expected utility formula of the decision theory,
 you can tell action vs policy selection by seeing what variable comes beneath
-the $\operatorname{arg\,max}$ operator; if it is $a\in\mathcal A$ then it is iterating over actions, and if it is $\pi \in \Pi$, then it is iterating over policies.
+the $\operatorname{arg\,max}$ operator; if it is $a\in\mathcal A$ (or similar) then it is iterating over actions, and if it is $\pi \in \Pi$ (or similar), then it is iterating over policies.
 
 One exception to the above is UDT2, which seems to iterate over *algorithms*.
 
@@ -132,7 +132,7 @@ counterfactual mugging, where the agent makes the observation that the coin has
 come up tails; and in the transparent box Newcomb’s problem, where the agent
 sees whether the big box is full or empty.
 
-If the decision algorithm updates on the observation, it is *updateful* (or
+If the decision algorithm updates on the observation, it is *updateful* (a.k.a.
 “not updateless”). If it doesn’t update on the observation, it is
 *updateless*.
 
@@ -147,8 +147,8 @@ the probability factor looks like
 $P(\ldots\mid \ldots, \mathrm{O\small BS} = x)$,
 where $x$ is the observation.
 If a decision theory is updateless, the conditioning on
-“$\mathrm{O\small BS} = x$” should be absent.
-Note that updatelessness only makes a difference in decision problems that
+“$\mathrm{O\small BS} = x$” is absent.
+Updatelessness only makes a difference in decision problems that
 have observations.
 
 on uncertainty about where you are:
@@ -158,6 +158,10 @@ I think updatelessness is the same as being [uncertain about where your decision
 https://www.lesswrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers#BrWSWrwaategHEkvh -- when stated like this, it sounds more like logical counterfactuals...
 
 this explanation also emphasizes this: https://www.lesswrong.com/posts/zztyZ4SKy7suZBpbk/another-attempt-to-explain-udt
+
+There seem to be different meanings of "updateless". See the section below,
+“What are all the different meanings of ‘updateless’ used in the wild?”, for
+more information on this.
 
 ## Type of counterfactual
 
@@ -198,6 +202,7 @@ I have seen the logical counterfactual written in many ways:
 * emphasis on graphical models
 * reflective consistency ???
 * dynamic consistency??? https://intelligence.org/files/TDT.pdf
+* a lot of recent developments like plugging in logical inductors into the decision theory.
 
 # Comparison table along the given dimensions
 
@@ -215,7 +220,7 @@ Given the comparison dimensions above, the decision theories can be summarized a
 |Causal decision theory (CDT)|action|no|causal|
 |Evidential decision theory (EDT, “naive EDT”)|action|no|conditional|
 
-$$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}}, \color{green}{\text{counterfactual}})$$
+$$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}}, \color{green}{\text{counterfactual}})$$
 
 # Explanations of each decision theory
 
