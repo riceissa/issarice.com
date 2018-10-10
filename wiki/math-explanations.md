@@ -2,6 +2,7 @@
 title: Math explanations
 author: Issa Rice
 created: 2017-12-25
+date: 2018-10-10
 status: notes
 ---
 
