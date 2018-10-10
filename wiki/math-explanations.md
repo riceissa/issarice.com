@@ -2,6 +2,7 @@
 title: Math explanations
 author: Issa Rice
 created: 2017-12-25
+status: notes
 ---
 
 I've been thinking more about math explanations again (something I used to think a lot about when I was first learning abstract math) because I'm trying to get a good understanding of machine learning. In particular I'm thinking about what makes explanations good or bad. This is an [ignorant thinking](https://meteuphoric.wordpress.com/2011/08/27/in-defence-of-ignorant-thinking/) page for now, so don't expect me to know anything about the topic.
