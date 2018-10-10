@@ -2,9 +2,7 @@
 % Issa Rice
 % 2018-07-25
 
-TODO: fix straight quotes/curly quotes (done at one point, but do this again before publishing)
-
-TODO: for the box-arrow, probably `\Box\kern-7mu\rightarrow` is better than what I’m doing right now.
+TODO: fix straight quotes/curly quotes (done at one point, but do this again before publishing), dashes, and bare URLs
 
 # Introduction
 
@@ -188,7 +186,7 @@ I have seen the logical counterfactual written in many ways:
 
 * $P(\ldots \mid\ldots, \mathtt{do}(\mathrm{\small DT}(\ldots)=\ldots))$ e.g. in the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf), p. 14
 * $P(\ldots \mid\ldots, \mathtt{true}(\mathrm{\small DT}(\ldots)=\ldots))$ e.g. in the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf), p. 14
-* $P(\ulcorner \mathrm{\small DT}(\ldots)=\ldots\urcorner \mathbin{\Box\!\!\!\to} \ldots \mid\ldots)$ e.g. in [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf), p. 4
+* $P(\ulcorner \mathrm{\small DT}(\ldots)=\ldots\urcorner \mathbin{\Box\kern-7mu\rightarrow} \ldots \mid\ldots)$ e.g. in [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf), p. 4
 * $P(\ulcorner \mathrm{\small DT}(\ldots)=\ldots\urcorner \triangleright \ldots \mid\ldots)$ e.g. on [Arbital](https://arbital.com/p/logical_dt/?l=5d6)
 
 ## Other dimensions that I ignore
@@ -226,7 +224,7 @@ $$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}}
 
 Or sometimes:
 
-$$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\color{green}{\text{counterfactual}} \mathrel{\Box\kern-7mu\rightarrow} \mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}})$$
+$$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\color{green}{\text{counterfactual}} \mathbin{\Box\kern-7mu\rightarrow} \mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}})$$
 
 # Explanations of each decision theory
 
@@ -305,7 +303,7 @@ $$\mathrm{UDT}_{1.1}(\mathbf X, \mathbf Y, \mathbf E, M, \mathbf I) = \operatorn
 
 Hintze writes UDT as follows:
 
-$$\operatorname*{arg\,max}_{f} \sum_{j=1}^n \mathcal U(o_j) \cdot P(\ulcorner \mathrm{UDT} := f : s\mapsto a \urcorner \mathbin{\Box\!\!\!\to} o_j)$$
+$$\operatorname*{arg\,max}_{f} \sum_{j=1}^n \mathcal U(o_j) \cdot P(\ulcorner \mathrm{UDT} := f : s\mapsto a \urcorner \mathbin{\Box\kern-7mu\rightarrow} o_j)$$
 
 Again what is important here is that UDT1.1:
 
