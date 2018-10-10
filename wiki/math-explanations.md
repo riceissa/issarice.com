@@ -40,9 +40,9 @@ In my mind some things that make explanations good are:
 - Given two concepts that could be mistaken for each other, there are
   four possibilities with four different ways to help the reader: $X
   \iff Y$ (prove that all $X$ are $Y$ and that all $Y$ are $X$); $X
-  \implies Y$ and $Y \not\implies X$ (prove that all $X$ are $Y$, and
+  \implies Y$ and $Y \mathrel{{\not}\!\!\!{\implies}} X$ (prove that all $X$ are $Y$, and
   give an example of something that is $Y$ but not $X$; $Y \implies X$
-  (similar to previous); and $X\not\implies Y$ and $Y\not\implies X$
+  (similar to previous); and $X\mathrel{{\not}\!\!\!{\implies}} Y$ and $Y\mathrel{{\not}\!\!\!{\implies}} X$
   (give an example of something that is $X$ but not $Y$, and
   separately an example of something that is $Y$ but not $X$).
   For the last of these, I like the example given by Terence Tao in
