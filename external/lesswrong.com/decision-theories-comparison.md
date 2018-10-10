@@ -220,7 +220,13 @@ Given the comparison dimensions above, the decision theories can be summarized a
 |Causal decision theory (CDT)|action|no|causal|
 |Evidential decision theory (EDT, “naive EDT”)|action|no|conditional|
 
+The general “shape” of the expected utility formulas will be:
+
 $$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}}, \color{green}{\text{counterfactual}})$$
+
+Or sometimes:
+
+$$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\color{green}{\text{counterfactual}} \mathrel{\Box\kern-7mu\rightarrow} \mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}})$$
 
 # Explanations of each decision theory
 
