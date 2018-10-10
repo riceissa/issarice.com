@@ -51,6 +51,22 @@ In my mind some things that make explanations good are:
   distinct but not disjoint, and $\emptyset$ and $\emptyset$ are
   disjoint but not distinct.
 
+- There is a kind of paternalism trade-off in explanations when deciding e.g.
+  whether to ask the reader to prove a theorem before reading the proof in the
+  book. Some authors will (1) just assume that the reader has enough "math
+  culture" in them to know that they should try to prove the theorem before
+  reading the proof; other authors will (2) gently prod the reader to prove
+  the theorem before reading on (usually in the book's preface); still others
+  will (3) just not have any sort of opinion on this, or say the reader ought
+  to know best what to do. In terms of paternalism, I would say (2) is most
+  paternalistic, followed by (1), and then (3) is least paternalistic.
+
+  My current feeling is that books aimed at beginners (undergraduate level)
+  and self-studiers should probably lean toward being paternalistic. For
+  self-studiers, it is difficult sometimes to pick up on "math culture"
+  without reading many different books or reading up on discussion threads (on
+  MathOverflow, Reddit, math blogs, etc.).
+
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
 Personally I find a lot of tutorial-based explanations difficult to follow because I can't keep a lot of things in my head at once, unless I'm the one generating the thoughts (for instance, when I'm programming I can keep many variables fresh in my mind, but when I'm reading someone else's code I find it difficult to do the same). I wish more [variable/term tables](https://machinelearning.subwiki.org/wiki/Summary_table_of_probability_terms#Table) were given in math explanations so that if one forgets the context one can periodically look it up again without scrolling all over the place.
