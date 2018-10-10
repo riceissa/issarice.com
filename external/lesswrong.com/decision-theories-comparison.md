@@ -32,12 +32,14 @@ FDT?”, “Why was TDT deprecated?”, and “If TDT performs worse than FDT, t
 what’s one decision problem where they give different outputs?”
 This post hopes to clarify these and other questions by emphasizing:
 
-* somewhat pedantic notation,
+* all the variations in notation and how to parse them,
 * tabular presentation,
 * explicit expected utility formulas, and
 * my own uncertainties.
 
 None of the decision theory material in this post is novel.
+
+## Audience
 
 This post is intended for people who are similarly confused about the
 differences between TDT, UDT, FDT, and LDT. In terms of reader background assumed,
@@ -53,7 +55,10 @@ Gary Drescher’s [*Good and Real*](https://www.gwern.net/docs/statistics/decisi
 the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (explains well how FDT’s action selection variant works, and how FDT differs from CDT and EDT),
 [“Cheating Death in Damascus”](https://intelligence.org/files/DeathInDamascus.pdf), and
 [“Toward Idealized Decision Theory”](https://arxiv.org/pdf/1507.01986.pdf) (explains the difference between policy selection and logical counterfactuals well), and understanding
-what Wei Dai calls “decision theoretic thinking” (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf) and [this comment](https://www.lesswrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver#Hrtu69eAh86KFNgBC)).
+what Wei Dai calls “decision theoretic thinking” (see comments:
+[1](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd),
+[2](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf),
+[3](https://www.lesswrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver#Hrtu69eAh86KFNgBC)).
 I think a lot of (especially old) content on decision theory is confusingly
 written or unfriendly to beginners, and would recommend skipping around to find
 explanations that “click”.
@@ -66,6 +71,11 @@ people who seem similarly confused:
 * https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory
 
 ## Notation
+
+TODO: I want to emphasize the differences in all the different notations, so my
+current (2018-10-10) thinking is that I can't just define a single notation and
+use it throughout the post. What I want is to show two notations and explain
+how to parse both of them and see that they are indeed equal.
 
 I mostly use notation taken from the [FDT
 paper](https://arxiv.org/pdf/1710.05060.pdf) because I find it clearest. I use
@@ -491,13 +501,18 @@ useful, along with reasons why I felt the current post was needed.
   Dilemmas”](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
   by Daniel Hintze. This paper is from 2014 so doesn’t include the FDT/LDT
   terminology, and also doesn’t include the various versions of UDT.
-* [“Timeline of decision theory”](https://timelines.issarice.com/wiki/Timeline_of_decision_theory). This is an incomplete timeline I’ve been working on sporadically. It gives a chronological ordering of some decision theories and decision problems.
+* [“Timeline of decision theory”](https://timelines.issarice.com/wiki/Timeline_of_decision_theory).
+  This is an incomplete timeline I’ve been working on sporadically. It gives a
+  chronological ordering of some decision theories and decision problems with a
+  focus on logical-counterfactual decision theories, but doesn't really compare
+  them.
 
 # Meta information on this post
 
 ## Version history
 
-* 2018-07-23 to ??: Initial work on this post.
+* 2018-07-23 to 2018-08-10: Initial work on this post.
+* 2018-08-11 to 2018-10-09: Post sat dormant.
 * ??: Initial version published.
 
 ## License
