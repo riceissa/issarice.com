@@ -20,16 +20,16 @@ have.
 
 ## Value-added
 
-There are some other comparisons of decision theories (see the "Other comparions" section),
+There are some other comparisons of decision theories (see the “Other comparions” section),
 but they either (1)
 don't focus on logical-counterfactual decision theories; or (2) are outdated
 (written before the new functional/logical decision theory terms came about).
 
 More viscerally, after reading through a bunch of papers and posts about these
 decision theories, and feeling like I understood the basic ideas, I still
-remained highly confused about basic things like "How is UDT different from
-FDT?", "Why was TDT deprecated?", and "If TDT performs worse than FDT, then
-what's one decision problem where they give different outputs?"
+remained highly confused about basic things like “How is UDT different from
+FDT?”, “Why was TDT deprecated?”, and “If TDT performs worse than FDT, then
+what's one decision problem where they give different outputs?”
 This post hopes to clarify these and other questions by emphasizing:
 
 * somewhat pedantic notation,
@@ -43,7 +43,7 @@ This post is intended for people who are similarly confused about the
 differences between TDT, UDT, FDT, and LDT. In terms of reader background assumed,
 it would be good to know the statements to some standard decision theory
 problems (Newcomb's problem, smoking lesion, Parfit's hitchhiker, transparent
-box Newcomb's problem, counterfactual mugging) and the "correct" answers to
+box Newcomb's problem, counterfactual mugging) and the “correct” answers to
 them, and having enough background in math to understand the expected utility
 formulas.
 
@@ -51,12 +51,12 @@ If you don't have the background, I would recommend reading
 chapters 5 and 6 of
 Gary Drescher's [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf) (explains well the idea of subjunctive means--end relations),
 the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (explains well how FDT's action selection variant works, and how FDT differs from CDT and EDT),
-["Cheating Death in Damascus"](https://intelligence.org/files/DeathInDamascus.pdf), and
-["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf) (explains the difference between policy selection and logical counterfactuals well), and understanding
-what Wei Dai calls "decision theoretic thinking" (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf) and [this comment](https://www.lesswrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver#Hrtu69eAh86KFNgBC)).
+[“Cheating Death in Damascus”](https://intelligence.org/files/DeathInDamascus.pdf), and
+[“Toward Idealized Decision Theory”](https://arxiv.org/pdf/1507.01986.pdf) (explains the difference between policy selection and logical counterfactuals well), and understanding
+what Wei Dai calls “decision theoretic thinking” (see [this comment](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in#FMvBDD7fNQSd3B3qd) and [this comment](https://www.lesswrong.com/posts/gkAecqbuPw4iggiub/common-mistakes-people-make-when-thinking-about-decision#uXrbGTefqvek9kkzf) and [this comment](https://www.lesswrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver#Hrtu69eAh86KFNgBC)).
 I think a lot of (especially old) content on decision theory is confusingly
 written or unfriendly to beginners, and would recommend skipping around to find
-explanations that "click".
+explanations that “click”.
 
 TODO maybe also recommend https://www.lesswrong.com/posts/af9MjBqF2hgu3EN6r/decision-theories-a-less-wrong-primer
 
@@ -96,14 +96,14 @@ between these decision theories.
 
 ## Outermost iteration
 
-All of the decision theories in this post iterate through some set of "options"
-at the outermost layer of execution to find the best "option". However, the
-nature of these "options" differs among the various theories.
+All of the decision theories in this post iterate through some set of “options”
+at the outermost layer of execution to find the best “option”. However, the
+nature of these “options” differs among the various theories.
 Most decision theories iterate through either *actions* or *policies*.
 When a decision theory iterates through actions (to find the best action),
-it is doing "action selection", and the decision theory outputs a single action.
+it is doing “action selection”, and the decision theory outputs a single action.
 When a decision theory iterates through policies (to find the best policy),
-it is doing "policy selection", and outputs a single *policy*, which is an
+it is doing “policy selection”, and outputs a single *policy*, which is an
 observation-to-action mapping. To get an action out of a decision theory
 that does policy selection (because what we really care about is knowing which
 action to take), we must *call* the policy on the actual observation.
@@ -123,10 +123,10 @@ come up tails; and in the transparent box Newcomb's problem, where the agent
 sees whether the big box is full or empty.
 
 If the decision algorithm updates on the observation, it is *updateful* (or
-"not updateless"). If it doesn't update on the observation, it is
+“not updateless”). If it doesn't update on the observation, it is
 *updateless*.
 
-This idea is similar to how in Rawls's "[veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)", you must pick your
+This idea is similar to how in Rawls's “[veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)”, you must pick your
 moral principles, societal policies, etc., before you find out who
 you are in the world or as if you don't know who you are in the world.
 
@@ -143,7 +143,7 @@ have observations.
 
 on uncertainty about where you are:
 
-I think updatelessness is the same as being [uncertain about where your decision algorithm is](http://acritch.com/deserving-trust/#grokking) because you are "ignoring" your observation by not conditioning on it.
+I think updatelessness is the same as being [uncertain about where your decision algorithm is](http://acritch.com/deserving-trust/#grokking) because you are “ignoring” your observation by not conditioning on it.
 
 https://www.lesswrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers#BrWSWrwaategHEkvh -- when stated like this, it sounds more like logical counterfactuals...
 
@@ -152,8 +152,8 @@ this explanation also emphasizes this: https://www.lesswrong.com/posts/zztyZ4SKy
 ## Type of counterfactual
 
 In the course of reasoning about a decision problem, the agent
-can construct counterfactuals or hypotheticals like "if I do *this*,
-then *that* happens". There are several different kinds of counterfactuals,
+can construct counterfactuals or hypotheticals like “if I do *this*,
+then *that* happens”. There are several different kinds of counterfactuals,
 and decision theories are divided among them.
 
 The three types of counterfactuals that will concern us are:
@@ -203,7 +203,7 @@ Given the comparison dimensions above, the decision theories can be summarized a
 |Logical decision theory (LDT)|unspecified|unspecified|logical|
 |Timeless decision theory (TDT)|action|no|logical|
 |Causal decision theory (CDT)|action|no|causal|
-|Evidential decision theory (EDT, "naive EDT")|action|no|conditional|
+|Evidential decision theory (EDT, “naive EDT”)|action|no|conditional|
 
 $$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \text{iteration}}} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \color{red}{\text{updatelessness}}, \color{green}{\text{counterfactual}})$$
 
@@ -217,7 +217,7 @@ I will describe UDT1 and FDT's action variant together, because I think they
 give the same decisions. The main differences between the two seem to be (1)
 the way they are formalized, where FDT uses graphical models and UDT1 uses some
 kind of non-graphical mathematical intuition module (or something); and (2) the
-naming, where UDT1 emphasizes the "updateless" aspect and FDT emphasizes the
+naming, where UDT1 emphasizes the “updateless” aspect and FDT emphasizes the
 logical counterfactual aspect.
 
 [UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)
@@ -312,7 +312,7 @@ $\mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a)$.
 
 this page says TDT is updateful https://arbital.com/p/updateless_dt/
 
-https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/ describes TDT as "a theory by MIRI senior researcher Eliezer Yudkowsky that made the mistake of conditioning on observations".
+https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/ describes TDT as “a theory by MIRI senior researcher Eliezer Yudkowsky that made the mistake of conditioning on observations”.
 
 ## UDT2
 
@@ -325,9 +325,9 @@ policies, and I am assuming it didn't abandon updatelessness and logical counter
 
 The following search queries might have more information:
 
-* ["UDT2"](https://www.greaterwrong.com/search?q=%22UDT2%22)
-* [site:agentfoundations.org "UDT2"](https://www.google.com/search?q=site%3Aagentfoundations.org%20%22UDT2%22)
-* [site:lesswrong.com "UDT2"](https://www.google.com/search?q=site%3Alesswrong.com%20%22UDT2%22)
+* [“UDT2”](https://www.greaterwrong.com/search?q=%22UDT2%22)
+* [site:agentfoundations.org “UDT2”](https://www.google.com/search?q=site%3Aagentfoundations.org%20%22UDT2%22)
+* [site:lesswrong.com “UDT2”](https://www.google.com/search?q=site%3Alesswrong.com%20%22UDT2%22)
 
 ## LDT
 
@@ -337,12 +337,12 @@ unspecified. So my understanding is that UDT1, UDT1.1, UDT2, FDT, and TDT are
 all logical decision theories.
 See [this Arbital page](https://arbital.com/p/logical_dt/?l=5gc), which says:
 
-> "Logical decision theories" are really a family of recently proposed decision
+> “Logical decision theories” are really a family of recently proposed decision
 > theories, none of which stands out as being clearly ahead of the others in
 > all regards, but which are allegedly all better than causal decision theory.
 
-The page also calls TDT a logical decision theory (listed under "non-general
-but useful logical decision theories").
+The page also calls TDT a logical decision theory (listed under “non-general
+but useful logical decision theories”).
 
 ## CDT
 
@@ -365,7 +365,7 @@ The diagonal is blank because the decision theories are the same. The lower left
 
 | |UDT1.1/FDT-policy|UDT1/FDT-action|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|UDT1.1/FDT-policy|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output "A", the UDT1.1 copies output "A" and "B")|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (TDT refuses, UDT1.1 pays)|[Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb's problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
+|UDT1.1/FDT-policy|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (TDT refuses, UDT1.1 pays)|[Parfit's hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb's problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
 |UDT1/FDT-action|--|--|counterfactual mugging? (TDT refuses, UDT1 pays?)|Parfit's hitchhiker (EDT refuses, UDT1 pays)|Newcomb's problem (CDT two-boxes, UDT1 one-boxes)|
 |TDT|--|--|--|Parfit's hitchhiker (EDT refuses, TDT pays)|Newcomb's problem (CDT two-boxes, TDT one-boxes)|
 |EDT|--|--|--|--|Newcomb's problem (CDT two-boxes, EDT one-boxes)|
@@ -414,49 +414,49 @@ and:
 
 from https://arbital.com/p/logical_dt/?l=5gc
 
-From ["Toward Idealized Decision Theory"](https://arxiv.org/pdf/1507.01986.pdf) (p. 8):
+From [“Toward Idealized Decision Theory”](https://arxiv.org/pdf/1507.01986.pdf) (p. 8):
 
 > A decision theory that identifies the best *policy* in a given scenario (and
-> prescribes acting accordingly) better captures the notion of "the best
-> available action" than a decision theory which considers actions alone.
-> Variants of decision theory using policy selection are "updateless" (as
+> prescribes acting accordingly) better captures the notion of “the best
+> available action” than a decision theory which considers actions alone.
+> Variants of decision theory using policy selection are “updateless” (as
 > agents following the prescriptions of policy selection pick a policy before
 > they update on their observations), and this is the first of two ideas \[the
 > other being logical counterfactuals\] behind the *updateless decision theory*
 > (UDT) of Dai ([2009](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)).
 
 This leads me to think policy selection implies updatelessness, or policy selection and updateless are somehow lumped together, or that there
-is a meaning of the term "updateless" that *means* "does policy selection".
+is a meaning of the term “updateless” that *means* “does policy selection”.
 See also the next question in this section.
 
 also talk about policy-based CDT, which seems to allow leaving updatelessness
 unspecified.
 
-## What are all the different meanings of "updateless" used in the wild?
+## What are all the different meanings of “updateless” used in the wild?
 
-I think i need to break down the idea of "updatelessness" further. My own understanding
+I think i need to break down the idea of “updatelessness” further. My own understanding
 is that it's just whether or not you condition on the sense date inside the probability
 part of the expected utility formula. So under this interpretation, all versions of
-TDT is not updateless. But Caspar uses "updateless" for anything that doesn't need
+TDT is not updateless. But Caspar uses “updateless” for anything that doesn't need
 precommitments to win Parfit's hitchhiker, making TDT updateless.
 
 Plus, if FDT is updateless, then Rob's comment
 doesn't make sense; what are these philosophical issues around updatelessness that FDT
 doesn't need to accept?
 
-Also by the previous subsection, "updateless" might sometimes be used to mean
-"does policy selection". If this is the case, then some versions of FDT are
-"updateless" while others are not.
+Also by the previous subsection, “updateless” might sometimes be used to mean
+“does policy selection”. If this is the case, then some versions of FDT are
+“updateless” while others are not.
 
-https://www.lesswrong.com/posts/pneKTZG9KqnSe2RdQ/two-types-of-updatelessness abram demski distinguishes between "all-upside updatelessness" and "mixed-upside updatelessness". Post also talks about policy selection as distinct from updatelessness.
+https://www.lesswrong.com/posts/pneKTZG9KqnSe2RdQ/two-types-of-updatelessness abram demski distinguishes between “all-upside updatelessness” and “mixed-upside updatelessness”. Post also talks about policy selection as distinct from updatelessness.
 
 https://agentfoundations.org/item?id=1711 apparently there is a parameter $f$ here that determines the level of updatelessness.
 
-"Lately there’s been a bit more doubt about updatelessness (in full generality instead of the partial version attained by policy selection) as being an achievable desiderata." https://agentfoundations.org/item?id=1797 So this also seems to mean that policy selection doesn't necessarily imply updatelessness.
+“Lately there’s been a bit more doubt about updatelessness (in full generality instead of the partial version attained by policy selection) as being an achievable desiderata.” https://agentfoundations.org/item?id=1797 So this also seems to mean that policy selection doesn't necessarily imply updatelessness.
 
-"An updateless agent is one that does not update on its observations, but instead chooses what action it wants itself to output upon being input those observations." https://agentfoundations.org/item?id=1689 The post distinguishes between empirical updatelessness and logical updatelessness.
+“An updateless agent is one that does not update on its observations, but instead chooses what action it wants itself to output upon being input those observations.” https://agentfoundations.org/item?id=1689 The post distinguishes between empirical updatelessness and logical updatelessness.
 
-page 3 of https://github.com/tsvibt/public-pdfs/blob/master/decision-theory/notation/main.pdf talks about being "updateless with respect to $o$" for some observation $o$.
+page 3 of https://github.com/tsvibt/public-pdfs/blob/master/decision-theory/notation/main.pdf talks about being “updateless with respect to $o$” for some observation $o$.
 
 ## Quoting/dequoting
 
@@ -470,7 +470,7 @@ iteration/updateless/type of counterfactual table.
 
 * EDT with tickle defense
 * Drescher's in _Good and Real_
-  "despite being motivated by similar intuitions in Newcomblike cases, it is unclear whether or not the similarity between Drescher-style subjunctive dependence and FDT-style subjunctive dependence is merely verbal." https://philpapers.org/archive/BARWDT-3.pdf
+  “despite being motivated by similar intuitions in Newcomblike cases, it is unclear whether or not the similarity between Drescher-style subjunctive dependence and FDT-style subjunctive dependence is merely verbal.” https://philpapers.org/archive/BARWDT-3.pdf
 * Policy-based CDT (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)
 
 
