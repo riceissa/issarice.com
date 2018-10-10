@@ -1,6 +1,6 @@
 % Comparison of decision theories
 % Issa Rice
-% 2018-07-25
+% 2018-10-10
 
 TODO: fix straight quotes/curly quotes (done at one point, but do this again before publishing), dashes, and bare URLs
 
@@ -522,6 +522,7 @@ useful, along with reasons why I felt the current post was needed.
 
 * 2018-07-23 to 2018-08-10: Initial work on this post.
 * 2018-08-11 to 2018-10-09: Post sat dormant.
+* 2018-10-10: copyediting.
 * ??: Initial version published.
 
 ## License
