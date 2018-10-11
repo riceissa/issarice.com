@@ -69,6 +69,7 @@ http://gmachine1729.wordpress.com/feed/
 https://blog.ought.com/feed
 http://status.liftigniter.com/history.atom
 http://mojix.org/rss20.xml
+https://eshapard.github.io/feed.xml
 https://bookuctivity.wordpress.com/feed/
 http://chriswarbo.net/blog.atom "~chriswarbo.net"
 http://supermemopedia.com/index.php?title=Incremental_reading_strategies&feed=atom&action=history
