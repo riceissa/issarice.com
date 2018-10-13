@@ -154,6 +154,19 @@ tendencies in people with a single cause area focus:
     which cause area to switch into. See e.g. ["AI timelines and cause
     prioritization"](https://causeprioritization.org/AI_timelines_and_cause_prioritization).
 
+-   Eliezer [writes](https://www.lesswrong.com/posts/HnPEpu5eQWkbyAJCT/the-simple-math-of-everything):
+
+    > I remember when I finally picked up and started reading through my copy
+    > of the _Feynman Lectures on Physics_, even though I couldn't think of any
+    > realistic excuse for how this was going to help my AI work, because I
+    > just got fed up with not knowing physics.  And -- you can guess how this
+    > story ends -- it gave me a new way of looking at the world, which all my
+    > earlier reading in popular physics (including Feynman's QED) hadn't done.
+    > Did that help inspire my AI research?  Hell yes.  (Though it's a good
+    > thing I studied neuroscience, evolutionary psychology, evolutionary
+    > biology, Bayes, and physics _in that order_ -- physics alone would have
+    > been _terrible_ inspiration for AI research.)
+
 Could this sort of generalist tendency be bad? In other words, why might it
 make sense to *not* become a generalist? I think the main arguments against
 would be things like division of labor and economy of scale. Also, things like
