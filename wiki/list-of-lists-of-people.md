@@ -15,6 +15,7 @@ date: 2018-09-30
 * Michael Nielsen's [tomorrow
   list](https://twitter.com/michael_nielsen/lists/tomorrow/members)
 * The preface of Gary Drescher's _Good and Real_
+* Acknowledgments of Gary Drescher's _Made-Up Minds_
 * The acknowledgments of Nick Bostrom's
   [_Superintelligence_](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 * <https://www.quora.com/profile/Alex-K-Chen/> (in profile description, scroll
