@@ -16,6 +16,7 @@ date: 2018-09-30
   list](https://twitter.com/michael_nielsen/lists/tomorrow/members)
 * The preface of Gary Drescher's _Good and Real_
 * Acknowledgments of Gary Drescher's _Made-Up Minds_
+* The ["Contributors" listed on the original _Overcoming Bias_](https://web.archive.org/web/20061207103140/http://overcomingbias.com/)
 * The acknowledgments of Nick Bostrom's
   [_Superintelligence_](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 * <https://www.quora.com/profile/Alex-K-Chen/> (in profile description, scroll
