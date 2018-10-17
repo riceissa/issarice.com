@@ -8,7 +8,17 @@ date: 2018-04-09
 # belief:
 ---
 
-This page lists the Japanese translation of AI safety terms, as given in the Japanese translation of Nick Bostrom's _Superintelligence_. Page numbers in the notes column are all from the hardcover edition of the Japanese translation.
+This page lists the Japanese translation of AI safety terms, as given
+in the Japanese translation of Nick Bostrom's _Superintelligence_.
+Page numbers in the notes column are all from the hardcover edition of
+the Japanese translation.
+
+My main hope for this page is that in a few years it will be easier to
+find online discussions of AI safety in Japanese (if such things
+exist), by Googling some of the terms on this page. The book title may
+be sufficient, but it's likely to miss discussions that just "dive in"
+without mentioning the book, and also the book title alone may turn up
+a lot of useless results (like those trying to sell the book).
 
 |English|Japanese|Notes|
 |-------|--------|----|
