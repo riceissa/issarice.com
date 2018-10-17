@@ -39,10 +39,18 @@ discussions that mention some term.
 |Self-preservation|自己保存||
 |The control problem|コントロール問題||
 |Boxing method|閉じ込めメソッド|p276|
-|Coherent extrapolated volition|整合性のある外挿的意志|p444|
+|Coherent extrapolated volition|整合性のある外挿的意志|p444. [Wikipedia](https://ja.wikipedia.org/wiki/%E8%B6%85%E7%9F%A5%E8%83%BD) also translates this as 一貫推定意志.|
 |Oracle|オラクル、託宣|p310|
 |Genie|ジーニー|p316|
 |Sovereign|ソブリン|p316|
 |Tool-AIs|ツールタイプのAI|p322|
 |Multipolar scenario|多極シナリオ|p337|
 |[Superorganism](https://intelligence.org/files/WBE-Superorgs.pdf)|超個体、スーパーオーガニズム|p377|
+|Pascalian wager|パスカルの賭け|p470|
+|Pascalian mugging|パスカルの強奪|p470|
+|Timeless decision theory|タイムレス決定論|p470|
+|Updateless decision theory|非更新型決定論|p470|
+|Differential technological development|技術開発の差別的進展|p485|
+|Fast takeoff|ファストな離陸|p508|
+|Slow takeoff|||
+|Hardware overhang|ハードウェアの突出的進歩|p508|
