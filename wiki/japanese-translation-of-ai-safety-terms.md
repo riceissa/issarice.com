@@ -23,7 +23,7 @@ Having the separate terms also makes it possible to find the subset of
 discussions that mention some term.
 
 |English|Japanese|Notes|
-|-------|--------|----|
+|-------|--------|-----------------|
 |Whole brain emulation|全頭脳模倣型知能（全脳エミュレーション）|p75|
 |Mind uploading|精神アップロード|p75. See also [精神転送](https://ja.wikipedia.org/wiki/%E7%B2%BE%E7%A5%9E%E8%BB%A2%E9%80%81).|
 |Instrumental convergence|道具的収斂|
@@ -39,3 +39,10 @@ discussions that mention some term.
 |Self-preservation|自己保存||
 |The control problem|コントロール問題||
 |Boxing method|閉じ込めメソッド|p276|
+|Coherent extrapolated volition|整合性のある外挿的意志|p444|
+|Oracle|オラクル、託宣|p310|
+|Genie|ジーニー|p316|
+|Sovereign|ソブリン|p316|
+|Tool-AIs|ツールタイプのAI|p322|
+|Multipolar scenario|多極シナリオ|p337|
+|[Superorganism](https://intelligence.org/files/WBE-Superorgs.pdf)|超個体、スーパーオーガニズム|p377|
