@@ -722,6 +722,8 @@ can learn a lot about the most exciting things that are happening.
       > understanding of how important things like free will, choice, and
       > meaning actually work.
 
+      See also [SIAI Core Reading](https://web.archive.org/web/20111201125142/http://singinst.org:80/reading/corereading/).
+
     - **Brian Tomasik** (a lot of his philosophy writings are similar in
       content to those of Yudkowsky, Drescher, and Daniel Dennett, but
       Tomasik's writings might be the clearest)
