@@ -320,6 +320,11 @@ The Pillows:
 * Etsuko Yakushimaru: _Radio Onsen Eutopia_
 * Sōtaisei Riron: _Hi-Fi Anatomia_
 
+# October 2018
+
+* I've been listening a lot to _Rubber Soul_ (The Beatles) lately. This time
+  around, I am really liking "Girl".
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
