@@ -1,6 +1,6 @@
 In mathematics, one talks about statements being "stronger" than others, "more general" than others, a method being "more powerful" than others, etc. This page tries to point out some of the subtleties of this way of speaking.
 
-==Negation==
+==Interaction of negation and strength==
 
 Negating a strong statement produces a weak statement, and negating a weak statement produces a strong statement. If a statement has strong and weak components, then the flip occurs at each stage. For example, in <math display="inline">\forall x W(x)</math> with <math display="inline">W(x)</math> a weak statement, negating it produces <math display="inline">\exists x \neg W(x)</math>, where the strong <math display="inline">\forall x</math> has become the weak <math display="inline">\exists x</math>, and the weak <math display="inline">W(x)</math> has become a strong <math display="inline">\neg W(x)</math>. See Gowers's posts for more discussion on this.
 
@@ -17,6 +17,21 @@ A puzzle: why do we say P is stronger than Q if P is a subset of Q, but we also 
 * Let's say we have <math display="inline">P(x) \wedge P(y) \wedge P(z)</math>. Then we can deduce <math display="inline">P(y)</math>. So we can say <math display="inline">(P(x) \wedge P(y) \wedge P(z)) \implies P(y)</math>. Let's visualize this by drawing each of <math display="inline">P(x), P(y), P(z)</math> as points. Then if we know <math display="inline">P(x) \wedge P(y) \wedge P(z)</math>, the set of statements we know is <math display="inline">A := \{P(x), P(y), P(z)\}</math>. The set of statements we are trying to prove is <math display="inline">B := \{P(y)\}</math>. But now notice something strange: <math display="inline">A</math> is stronger than <math display="inline">B</math>, but we have <math display="inline">B \subsetneq A</math>. A question might be: how do we visualize <math display="inline">P(x) \vee P(y) \vee P(z)</math> in this scheme? My first thought was "Maybe we need three copies of the diagram, so that we have <math display="inline">(P(x) \wedge P(y) \wedge P(z)) \implies P(x)</math>, <math display="inline">(P(x) \wedge P(y) \wedge P(z)) \implies P(y)</math>, and <math display="inline">(P(x) \wedge P(y) \wedge P(z)) \implies P(z)</math>". But maybe a better way to think of this is that each set such as <math display="inline">B</math> above is a ''microcosm''. Once you're in <math display="inline">B</math>, it's not as small as you thought! You're actually in the set <math display="inline">\{P(y), P(y) \vee P(x), P(y) \vee P(z), P(y) \vee P(x) \vee P(z)\}</math>. And once you're in this microcosm/"kingdom", you can navigate to wherever you please. This explains why a strong statement is bigger (in this visualization): when we start out with more statements, our "kingdom" is bigger (we get more combinations of OR statements for free). So we can navigate to many other smaller sets of sentences (villages, towns, whatever).
 * The above vs joint distribution. Symbolically, the contrast between <math display="inline">\Pr(x,y,z)</math> (the joint distribution specifies an elementary event, which is small, whereas a marginal distribution specifies a "lumped together" event, which is large) and <math display="inline">P(x),P(y),P(z)</math> (the more statements we know, the larger the set of statements we know).
 * What do I mean by "navigate to"? Basically I mean <math display="inline">\vdash</math> from mathematical logic. If <math display="inline">A</math> and <math display="inline">B</math> are sets of sentences, then "if we have <math display="inline">A</math>, we can navigate to <math display="inline">B</math>" means <math display="inline">A \vdash B</math>.
+* Maybe a better notation would be <math>P\subseteq Q \iff \forall x(P(x)\implies Q(x)) \iff \forall x \{\varphi : Q(x) \vdash \varphi\} \subseteq \{\varphi : P(x) \vdash \varphi\} \implies \{\varphi : Q \vdash \varphi\} \subseteq \{\varphi : P \vdash \varphi\}</math>
+* The identity <math>\left(\bigcap_{\alpha \in I} A_\alpha\right) \cap \left(\bigcap_{\alpha\in J} A_\alpha\right) = \bigcap_{\alpha\in I\cup J} A_\alpha</math> (for nonempty <math>I,J</math>) also seems like part of this, where the appearance of a "union" actually makes the statement stronger.
+* Nate's comment: "the way I think of it is that there are fewer ways to write a fn with a more general type (for the same reasons there’s less you can say about that is true about all apples than about any one particular apple), so if your function is in the general type and you write it in the general type then the typechecker verifies that you didn’t accidentally depend on any specifics." [https://www.facebook.com/satvik.beri/posts/641556838954?comment_id=641557093444&reply_comment_id=641575107344&comment_tracking=%7B%22tn%22%3A%22R%22%7D]
+* This is essentially [[wikipedia:Covariance and contravariance (computer_science)|contravariance]]:
+** I think <math>P \subseteq Q</math> iff for all sets <math>A</math>, we have <math>Q \subseteq A \implies P \subseteq A</math>. Also, "the worlds where <math>Q\subseteq A</math>" is a subset of "the worlds where <math>P\subseteq A</math>" iff <math>P\subseteq Q</math>. Similarly, in subtyping, <math>Q\to A</math> is a subtype of <math>P\to A</math> iff <math>P</math> is a subtype of <math>Q</math>. Notice that all of these have the same "form" as the <math>Q \vdash \varphi</math> stuff from above.
+
+==Proving a stronger statement==
+
+* Charles Chapman Pugh: "It may seem paradoxical at first, but a specific math problem can be harder to solve than some abstract generalization of it." (''Real Mathematical Analysis'', p. 51.)
+
+==Strength in a more informal sense==
+
+* https://gowers.wordpress.com/2008/12/28/how-can-one-equivalent-statement-be-stronger-than-another/
+
+In this sense, two logically equivalent statements can have a different strength, i.e. strength is not measured in the logical power of the statement.
 
 ==References==
 
@@ -24,6 +39,5 @@ A puzzle: why do we say P is stronger than Q if P is a subset of Q, but we also 
 
 ==External links==
 
-* https://gowers.wordpress.com/2008/12/28/how-can-one-equivalent-statement-be-stronger-than-another/ (haven't read this yet)
 * https://gowers.wordpress.com/2011/09/26/basic-logic-connectives-not/ (search "strong")
 * https://gowers.wordpress.com/2011/10/02/basic-logic-relationships-between-statements-negation/ (search "strong")
