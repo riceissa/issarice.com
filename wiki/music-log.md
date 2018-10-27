@@ -324,6 +324,10 @@ The Pillows:
 
 * I've been listening a lot to _Rubber Soul_ (The Beatles) lately. This time
   around, I am really liking "Girl".
+* Kinoko Teikoku (きのこ帝国): I just discovered this band in my YouTube
+  recommendations. Still too early to say if I will continue listening to them,
+  but I am hooked on their general sound. Sort of a mix between Fishmans and
+  Sunny Day Service, but worse than both. Still, I like it.
 
 # History
 
