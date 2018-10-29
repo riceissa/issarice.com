@@ -167,6 +167,14 @@ tendencies in people with a single cause area focus:
     > biology, Bayes, and physics _in that order_ -- physics alone would have
     > been _terrible_ inspiration for AI research.)
 
+-   [Brian Tomasik](https://foundational-research.org/education-matters-for-altruism/ "Education Matters for Altruism. October 30, 2017."):
+
+    > If you're trying to advance the state of the art in one
+    > particular domain, it suffices to dig very deep into that field
+    > and probe it as much as possible. But if you're trying to do the
+    > most good in a global sense, you need a global perspective,
+    > which requires learning a little bit of everything.
+
 Could this sort of generalist tendency be bad? In other words, why might it
 make sense to *not* become a generalist? I think the main arguments against
 would be things like division of labor and economy of scale. Also, things like

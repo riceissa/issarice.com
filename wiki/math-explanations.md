@@ -83,6 +83,23 @@ In my mind some things that make explanations good are:
 
 - Explaining the mental images/mental pictures that the author has.
 - Anticipating common misconceptions and errors.
+- When something introduced at an "introductory level" is slightly
+  inaccurate or is a simplification, this should be mentioned (to
+  avoid the learner memorizing definitions that will be superseded).
+
+  Example: Tadelis's _Game Theory: An Introduction_ slowly introduces
+  ideas like IESDS and rationalizability---first in the context of
+  static games of complete information without mixed strategies, then
+  with mixed strategies ("IESDS and Rationalizability Revisited").
+
+  [Example](https://en.wikipedia.org/wiki/Extensive-form_game#Finite_extensive-form_games):
+  "Some authors, particularly in introductory textbooks, initially
+  define the extensive-form game as being just a game tree with
+  payoffs (no imperfect or incomplete information), and add the other
+  elements in subsequent chapters as refinements."
+
+  Thing that might look like an example that I don't think is an
+  example: teaching classical physics before relativity.
 
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
