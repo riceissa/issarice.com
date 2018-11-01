@@ -41,15 +41,9 @@ others can benefit from my thoughts and critique them.
 For completed tasks, see the [work]() page.
 
 I spent some time adding to Vipul Naik's Learning Subwiki. You can see
-[my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=9).
+[my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=10).
 
-I started on an analysis for pageviews of wikiHow articles. (No public output
-of this yet.)
-
-On the last day of the month, I began a wikiHow article about
-[Facebook's graph search](https://github.com/riceissa/issarice.com/blob/master/external/wikihow.com/facebook-graph-search.mediawiki).
-
-I spent some time writing some [pages](https://machinelearning.subwiki.org/w/index.php?limit=120&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2018&month=9)
+I spent some time writing some [pages](https://machinelearning.subwiki.org/w/index.php?limit=40&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2018&month=10)
 on Vipul Naik's Machine Learning Subwiki, although the pages are mostly in my
 userspace and are not related to machine learning. (The wiki was just a
 convenient place to store the writings for now.)
