@@ -1,11 +1,15 @@
 ---
 title: Contact
 author: Issa Rice
+date: 2018-11-01
 ---
 
 The best way to contact [me](about) is via email at [riceissa@gmail.com][email].
 
 If you prefer, you can friend me on [Facebook]() and message me there.
+
+If you would like to ask me a question that I can answer publicly, you can use
+my [Tumblr "Ask me anything" form](https://riceissa.tumblr.com/ask).
 
 You can also [send me anonymous feedback][feedback] (an idea I got from [Luke
 Muehlhauser][l_feedb] and [Gwern][g_feedb]).
@@ -21,10 +25,10 @@ point.
 
 See the page on [account names]() for account names I use on various websites.
 You can try to contact me through those sites (if they offer a messaging
-feature) but I can't guarantee I will check them often.
+feature) but other than Gmail/Facebook I can't guarantee I will check them often.
 
 You can stalk me online (e.g. by following me on Quora or Facebook or by
-reading what I have on this website).
+reading what I have on this website or my contributions to other sites).
 I also don't mind if you ask questions about me on Quora, if you want to
 passively contact me that way, though I don't control what Quora allows.
 
