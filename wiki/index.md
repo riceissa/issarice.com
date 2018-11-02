@@ -36,7 +36,7 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: September 2018 {#summary}
+# Summary of what I worked on: October 2018 {#summary}
 
 For completed tasks, see the [work]() page.
 
