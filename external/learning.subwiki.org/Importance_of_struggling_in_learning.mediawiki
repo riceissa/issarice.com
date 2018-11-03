@@ -1,0 +1,23 @@
+One axis along which [[explainer]]s seem to differ is their degree of belief in the '''importance of struggling in learning'''. Roughly speaking, the "two sides" are:
+
+* "Don't needlessly struggle" view: a good explanation should be ''easy'' to process, and be as intuitive as possible. [[Aim low]] [http://lesswrong.com/lw/kh/explainers_shoot_high_aim_low/].
+* "Struggling is important/essential for understanding" view: A good explanation should be effortful for the [[learner]] to process. It should e.g. present misconceptions and make the learner "do the work".
+
+The truth might be some sort of mixture. To optimize for struggle would be to e.g. put the [[learner]] in a psychologically stressful state, with little support, to deliberately confuse them, etc., which seems unhelpful. On the other hand, it isn't clear what a totally intuitive explanation would look like. There might even be a "valley of bad intuitiveness", where a small amount of intuitiveness is bad.
+
+For learners, there is a temptation to [[Learning from multiple sources|search for the "clear explanations"]]. And to some extent this makes sense because some explanations really are awful. But is there a danger in finding and learning from explanations that make a subject "too easy"/deceptively easy?
+
+From the "How to use" of ''Thinking Physics'' by Lewis Carroll Epstein: "Why torture yourself thinking? Why job? Why do push-ups? [&hellip;] you can't really appreciate the solution until you first appreciate the problem." From "This book": "Let this book, then, be your guide to mental push-ups. Think carefully about the questions and their answers ''before'' you read the answers offered by the author. '''You will find many answers don't turn out as you first expect. Does this mean you have no sense for physics? Not at all. Most questions were deliberately chosen to illustrate those aspects of physics which seem contrary to casual surmise. Revising ideas, even in the privacy of your own mind, is not painless work.'''"
+
+Adversarial framing:
+
+* "Don't needlessly struggle" view: Some [[learner]]s may invoke this view as a way to slack off or have an excuse for not understanding something. e.g. a student may say "this explanation is confusing, and I shouldn't have to needlessly struggle" and then give up trying to understand the topic.
+* "Struggling is important/essential for understanding" view: Some [[explainer]]s may take this view to cover up their bad explanations. e.g. a teacher may say "being confused is important for learning" to cover up their bad teaching, or to have an excuse for not improving as a teacher.
+
+==External links==
+
+* [https://www.youtube.com/watch?v=eVtCO84MDj8 Video that argues for the importance of struggling in learning physics]
+* [https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/ Abstraction, intuition, and the “monad tutorial fallacy”]: "What I term the “monad tutorial fallacy,” then, consists in failing to recognize the critical role that struggling through fundamental details plays in the building of intuition. This, I suspect, is also one of the things that separates good teachers from poor ones. If you ever find yourself frustrated and astounded that someone else does not grasp a concept as easily and intuitively as you do, even after you clearly explain your intuition to them (“look, it’s really quite simple,” you say…) then you are suffering from the monad tutorial fallacy."
+* [http://wirehead-wannabe.tumblr.com/post/166830719366/the-secret-tedious-math-behind-famous-ppls this post] also discusses something similar (struggling with low-level ideas is important for building up to high-level ones)
+* https://en.wikipedia.org/wiki/Desirable_difficulty
+* [https://wiki.lesswrong.com/wiki/Meditation Meditation] page on LessWrong Wiki: "Noting your prior reaction to the meditation-prompt is particularly important because conclusions about rationality often sound obvious in retrospect, making it hard for people to visualize the diff between "what I thought before" and "what I thought afterward". Explicitly knowing this difference is important to learning and memory formation."

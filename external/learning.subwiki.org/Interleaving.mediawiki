@@ -1,0 +1,15 @@
+https://academicaffairs.arizona.edu/Interleaving
+
+https://www.greaterwrong.com/posts/w5F4w8tNZc6LcBKRP/on-learning-difficult-things/comment/RTETv87wfbu7Hn6hS
+
+https://www.scientificamerican.com/article/the-interleaving-effect-mixing-it-up-boosts-learning/
+
+this might be related to "random practice" (contrasted with "blocked practice")
+
+this might also be called "varied practice" https://en.wikipedia.org/wiki/Varied_practice
+
+"By contrast, in random practice, motor learners work on a number of different skills in combination with each other, randomly working trials and patterns of one and then the next and the next, with each trial interleaved on the previous one." [https://psychologywod.com/2013/08/18/blocked-practice-vs-random-practice-shake-things-up-in-your-training-and-in-your-life/]
+
+"blocked practice" and "random practice" seem to be used a lot in a sports/motor skills context, whereas I've seen "interleaving" in other contexts.
+
+A possible difference between interleaving and random practice is that the latter enforces randomness, whereas the former might make the pattern of review predictable (or is intended to be general so as to include enforced randomness as a special case).

@@ -1,0 +1,12 @@
+This page lists learning techniques for reducing cognitive load.
+
+* [[Worked-example effect]]
+* [[Spaced repetition]] (kind of, especially when used in a specific way; see [http://augmentingcognition.com/ltm.html] for some ideas)
+* Related to the previous point, but spending a lot of time with the "basic conceptual building blocks" for an idea before moving on to the idea itself, i.e. making sure you understand the prerequisites well.
+* In math, various ways of justifying steps differ in terms of cognitive load:
+** Having a string of equalities like A=B=C=D and saying "where the first equality follows from ..., the second follows from ..."
+** A format like:
+::: A = B (justification 1)
+:::: = C (justification 2)
+:::: = D (justification 3)
+** Tabular proofs with a justification column

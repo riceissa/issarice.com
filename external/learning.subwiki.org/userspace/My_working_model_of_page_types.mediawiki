@@ -1,0 +1,93 @@
+What do I mean by a working model? Setting the context:
+
+* If a subject wiki was a SQL database, what would be the tables and what would be columns in each table?
+* If a subject wiki was an object-oriented program, what would be the classes, and what fields would those classes have?
+
+==Learning technique==
+
+===Sections===
+
+* Goal/sales pitch: How does this technique improve learning, retention, or [[illusion of transparency|transparency]]? What problem encountered in learning does this technique address? Why would one expect this technique to work at all? What is the proposed mechanism (at a kind of Mickey Mouse cognitive algorithm level)?
+* Examples: examples of this technique in use
+* User: Does the [[learner]] or [[explainer]] use this technique?
+* Requirements/generality
+** Conditions: Under what learning conditions can this be applied?
+** Material: What kinds of material are required? Does any software exist to make this technique particularly easy to implement?
+** Interactions with other techniques
+* Implementation/training
+** Scope for improvement
+** Variations on the technique
+* Evidence and assessment: studies, data, anecdotes, opinion pieces, and advantages/disadvantages
+* See also
+* References
+* External links
+
+===Examples===
+
+* [[Incremental reading]]
+
+==Learning method/strategy/philosophy==
+
+===Sections===
+===Examples===
+
+* [[Project-based learning]]
+* [[Moore method]]
+
+==Learning measure==
+
+===Sections===
+
+===Examples===
+
+* [[Cued recall]]
+* [[Multiple-choice test]] (is this a learning measure or a learning technique? probably both!)
+
+==Document/website/product/software==
+
+===Sections===
+
+* History
+* Purpose
+* See also
+* References
+
+===Examples===
+
+* [[Anki]]
+* [[Tricki]]
+* [[SuperMemo]]
+
+==Phenomenon==
+
+===Sections===
+
+* History
+* See also
+* References
+* External links
+
+===Examples===
+
+* [[Forgetting curve]]
+* [[Illusion of transparency]]
+* [[Double illusion of transparency]]
+* [[Pygmalion effect]]
+* [[Dumbing down]]
+* [[Grade inflation]]
+
+==Ontology==
+
+I'm not sure how to describe this type of page. But they seem to get at the basic ontology/background assumptions/concepts used when talking about learning. They aren't phenomena because I conceptualize phenomena as like laws you discover in the world. If a phenomenon is like a graph describing some effect, then the ontology is the axes of the graph.
+
+===Section===
+===Examples===
+
+* [[Retention]]
+* [[Fade-out]]
+* [[Learner]]
+* [[Explainer]]
+* [[Metacognition]]
+* [[Temporal pacing]]
+* [[Interactivity]]
+* [[Transfer of learning]]

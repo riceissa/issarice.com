@@ -1,0 +1,25 @@
+(There might already be a standard term for this that I don't know about.)
+
+By '''scope for improvement''' of a skill or learning technique, I mean something like the difference between "how much a person highly skilled in this technique (i.e. a virtuoso user) gets out of it" versus "how much a novice at this technique gets out of it".
+
+It's sort of related to terms like "high variance" and "heavy-tailed".
+
+Thinking in terms of scope for improvement encourages looking at techniques in terms of "What can I get out of this if I master this technique?" rather than "How much did the average participant in this study gain out of this technique?".
+
+There is a distinction between interpersonal skill level differences (how good is the best person at the technique compared to you) and intrapersonal differences (how much can you improve if you practice). The differences are related because interpersonal differences provide evidence for potential intrapersonal differences. Strictly speaking, scope for improvement (in the sense I am thinking about) is only about the intrapersonal difference, or rather the interpersonal average of intrapersonal differences.
+
+==Relation to idea inoculation==
+
+Scope for improvement seems related to [[idea inoculation]] and [[inferential distance]]. If the scope for improvement of a technique is not made clear on initial exposure to the technique (e.g. due to a large inferential distance between the [[Explainer|person explaining the technique]] and the [[Learner|person reading about the technique]], or the person explaining the technique not being an expert), then this person can develop a resistance to further attempts to explain the technique (due to idea inoculation).<ref>Duncan A. Sabien. [https://medium.com/@ThingMaker/idea-inoculation-inferential-distance-848836a07a5b "Idea Inoculation + Inferential Distance"]. July 27, 2018. ''Medium''. Retrieved October 12, 2018.</ref><ref>Kaj Sotala. [https://news.ycombinator.com/item?id=10911653 Comment on "The Happiness Code: Cold, hard rationality"]. January 15, 2016. ''Hacker News''. Retrieved October 12, 2018.</ref><ref>Duncan Sabien. [https://www.greaterwrong.com/posts/pjGGqmtqf8vChJ9BR/unofficial-canon-on-applied-rationality/comment/rtmmvSjyDw8EMXRW8 Comment on "Unofficial Canon on Applied Rationality"]. February 15, 2016. ''LessWrong''. Retrieved October 12, 2018.</ref>
+
+==Examples==
+
+* [[Spaced repetition]] seems like a [[learning technique]] with large scope for improvement. My impression is that most people use it for things like learning foreign language vocabulary and other "isolated facts" they want to memorize, and conclude that there is little scope for improvement. What they don't do is look at the "masters of spaced repetition" and try to cultivate the skill of using a spaced repetition program for understanding. [[Michael Nielsen]]: "I'm particularly grateful to Andy Matuschak for many thoughtful and enjoyable conversations, and especially for pointing out how unusual is the view that Anki can be a virtuoso skill for understanding, not just a means of remembering facts."<ref>Michael A. Nielsen. [http://augmentingcognition.com/ltm.html "Augmenting Long-term Memory"]. July 2018. Retrieved October 12, 2018.</ref>
+* Probably many mundane skills like the skill of counting has limited scope for improvement. Most people can't learn to count many times faster or many times more accurately or to very large numbers. (At that point, they would probably want to make use of a counting device that just supports an increment operation.)
+* Probably a learning technique like highlighting/underlining also has limited scope for improvement.
+
+==See also==
+
+==References==
+
+<references/>

@@ -1,0 +1,29 @@
+a.k.a. "X-based learning" for multiple values of X.
+
+{| class="sortable wikitable"
+|-
+! Strategy !! Description !! Context in which strategy is applicable !! Pros !! Cons
+|-
+| Project-based learning ||
+|-
+| Inquiry-based learning/Moore method ||
+|-
+| Drill-based learning (?) ||
+|-
+| Problem-based learning ||
+|-
+| Learning by teaching ||
+|}
+
+project-based learning vs drilling: [https://www.greaterwrong.com/posts/hWkdiMbqLpzjYvxqD/learning-strategies-and-the-pokemon-league-parable] and comments like [https://www.greaterwrong.com/posts/hWkdiMbqLpzjYvxqD/learning-strategies-and-the-pokemon-league-parable/comment/voitFXB9Z29Fb4LFL], [https://www.greaterwrong.com/posts/uSaJoL64DYg2WunJJ/turning-up-the-heat-insights-from-tao-s-analysis-ii#section-24]
+
+thoughts on drilling vs being driven by curiosity: [https://www.greaterwrong.com/posts/g73GpnTZz2nzu3AQY/why-don-t-we-treat-geniuses-like-professional-athletes/comment/fNo7tb3ZTwbf5BYFu]
+
+IBL: some links at [https://whatisresearch.wordpress.com/2010/05/29/miscellanea/]
+
+Learning by teaching: [https://en.wikipedia.org/wiki/Learning_by_teaching]
+
+==See also==
+
+* [[List of learning techniques]] covers more granular techniques for learning concepts
+* [[List of learning measures]]

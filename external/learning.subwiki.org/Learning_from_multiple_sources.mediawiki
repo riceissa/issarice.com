@@ -1,0 +1,28 @@
+'''Learning from multiple sources''' refers to using multiple source materials while learning a subject. For instance, a student may attend lecture and later watch a YouTube video that explains the same concept at home.
+
+==Examples==
+
+* An autodidact reads from multiple textbooks
+* A student reads a textbook and a blog post explaining the same concept
+* A student encounters a concept in the classroom, then later asks their tutor to explain the same concept
+* A college student attends lecture and later watches a YouTube video that explains the same concept
+
+==Discussion==
+
+In math, learning from multiple sources can give attention to certain contingencies in the subject (e.g. notation, specific constructions, specific encodings of structures) which may have seemed like necessities. This can make the concepts themselves more robust.
+
+Since in general two people will learn the same subject from different sources, being familiar with other notation/terminology will help with communication.
+
+Different sources place emphasis on different parts, and overlap may not be exact (see e.g. [[Discursiveness (explanations)|discursiveness]]), so one may in general learn new things by trying multiple sources.
+
+Some sources will suit one's background knowledge and thinking styles more than others. Finding sources that one "clicks with" will make learning easier.
+
+[[Importance of struggling in learning]] discusses one possible downside to finding explanations that are "too easy".
+
+==Applicability==
+
+For subjects that have been around for a long time and are learned by many people, there will be many different explanations available (e.g. many books on calculus).
+
+For less popular subjects, there will sometimes be one or two dominant/obvious choices.
+
+For new or obscure topics, there may only be a single explanation (e.g. the original paper announcing the discovery).

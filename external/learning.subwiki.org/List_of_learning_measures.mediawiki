@@ -1,0 +1,37 @@
+This page is a list of learning measures (i.e. measures/metrics for testing what was learned).
+
+{| class="sortable wikitable"
+|-
+! Measure name !! Type !! Notes
+|-
+| [[Cued recall]] || Associative memory ||
+|-
+| Fill-in-the-blank test
+|-
+| (Associative?) [[Matching]] || Associative memory ||
+|-
+| Multiple-choice test (factual, comprehension) ||
+|-
+| [[Fact recognition]] || ? ||
+|-
+| [[Free recall test]] || Generative? ||
+|-
+| [[Concept-relatedness rating task]] || Comprehension/application ||
+|-
+| [[Problem-solving test]] || Comprehension/application ||
+|-
+| Diagram-drawing task
+|-
+| Inference tasks (based on information that is only implied in a text) ||
+|-
+| Sentence-completion test (similar to fill in the blank?) ||
+|}
+
+http://www.indiana.edu/~pcl/rgoldsto/courses/dunloskyimprovinglearning.pdf
+
+Each learning measure also has a "delay" parameter that tests the length of [[retention]] of what was learned.
+
+==See also==
+
+* [[List of learning strategies]]
+* [[List of learning techniques]]

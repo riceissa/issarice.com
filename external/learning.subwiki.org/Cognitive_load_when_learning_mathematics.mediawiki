@@ -1,0 +1,9 @@
+This page lists some math-specific stuff relating to cognitive load.
+
+Some things that increase strain on working memory:
+
+* If a proof has steps <math>P_1, P_2, P_3, \ldots, P_n</math> the proof is much easier to follow when the justifications for a step <math>P_j</math> are close to <math>P_j</math>. When much earlier stages of the proof are required to understand the current step, the reader has to go back to remember what was done early on. If <math>J(j)</math> is the set of justification numbers used on step <math>P_j</math> (e.g. maybe <math>J(5) = \{1,3\}</math>), then the quantity of interest is something like <math>\max_{j\in \{1,\ldots,n\}}(j - \min J(j))</math>, which is the most number of steps the proof stretches backwards (or maybe it's the average of this quantity, or the average length of "stretching back"). Kind of related to space requirements for an algorithm and things like [[wikipedia:peephole optimization|peephole optimization]].
+* Level of nesting: nested sums, nested products, nested quantifiers, nested loops, combinations of nesting. Ideas like common knowledge involve "indefinite nesting".
+* Number of variables in use. As a special case, the number of indices in use.
+* The number of new definitions/ideas introduced before getting to the "point" of the discussion.
+* Numerical references, like "Lemma 5.8.9" and "Equation (63)". This is similar to the justifications one for proofs, but it also involves going outside the proof to look up statements.

@@ -1,0 +1,81 @@
+This page lists and classifies [[learning technique|learning and teaching techniques]].
+
+{| class="sortable wikitable"
+|-
+! Technique !! Goal !! Used by !! Requirements !! Notes
+|-
+| [[Board technique]] || Better classroom presentation || [[Explainer]] || Classroom ||
+|-
+| [[Breaking the plane]] || Better classroom presentation || [[Explainer]] || Classroom ||
+|-
+| [[Classroom speech technique]] || Better classroom presentation || [[Explainer]] || Classroom ||
+|-
+| [[In-class desk work]] || || [[Explainer]] || Classroom ||
+|-
+| [[Polling]] || Reducing [[illusion of transparency]] || [[Explainer]] || Classroom ||
+|-
+| [[Cold calling]] || Reducing [[illusion of transparency]] || [[Explainer]] || Classroom ||
+|-
+| [[Define then discuss]] || || [[Explainer]] ||
+|-
+| [[Examples first]] || || [[Explainer]] ||
+|-
+| [[Problems first]]/[[meditation]]s || || [[Explainer]] ||
+|-
+| [[Group calling]] || || [[Explainer]] || Classroom ||
+|-
+| [[Multiple-choice question]] || || [[Explainer]] ||
+|-
+| [[Questions or comments?]] || || [[Explainer]] || Classroom ||
+|-
+| Cramming || Passing a test (knowing subject well in a high-stakes situation) || [[Learner]] ||
+|-
+| [[Spaced repetition]]/distributed practice || Long-term retention || [[Explainer]], [[learner]] || Spaced repetition software, or some sort of mechanism as in the [[Leitner system]] ||
+|-
+| Blocked practice || || [[Explainer]], [[learner]] ||
+|-
+| [[Interleaving]] || || [[Explainer]], [[learner]] ||
+|-
+| Active recall || Retention (short-term or long-term) || [[Explainer]], [[learner]] || Flashcards, interactive software, or some other device that reveals answers after a response || Used by explainer in e.g. cold calling, but used by learner in e.g. flashcards
+|-
+| Passive recall || Retention (short-term or long-term) || [[Explainer]], [[learner]] || Notes or book that one is reviewing ||
+|-
+| [[Worked-example effect|Use of worked examples]] || Reduction of cognitive load || [[Explainer]] ||
+|-
+| [[Error-spotting exercise]] || || [[Explainer]] ||
+|-
+| Note-taking || Retention/distillation || [[Learner]] ||
+|-
+| Explaining in one's own words || || [[Learner]] ||
+|-
+| [[Learning from multiple sources]] || Finding better explanations, communication, learning contingencies, learning in more breadth and depth || [[Learner]] || Multiple sources; see [[Learning from multiple sources#Applicability|Learning from multiple sources § Applicability]] ||
+|-
+| Guessing what comes next/proving theorems yourself || || [[Learner]] ||
+|-
+| Presenting a common misconception || || [[Explainer]] ||
+|-
+| Building a subject from first-principles || || [[Explainer]] ||
+|-
+| [[Elaborative interrogation]] ||
+|-
+| [[Self-explanation]] ||
+|-
+| [[Summarization]] ||
+|-
+| [[Highlighting]]/[[underlining]] ||
+|-
+| [[Keyword mnemonic]] ||
+|-
+| [[Mental imagery]] (e.g. [[keyword mnemonic]]) ||
+|-
+| [[Imagery for text]] ||
+|-
+| [[Rereading]] ||
+|-
+| [[Incremental reading]] ||
+|}
+
+==See also==
+
+* [[List of learning strategies]] covers broader strategies to learn entire subjects
+* [[List of learning measures]]

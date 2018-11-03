@@ -1,0 +1,47 @@
+'''Incremental reading''' is a technique for reading articles and learning/retaining information.
+
+Incremental reading seems to combine several techniques into a package:
+
+* It uses the regular spaced repetition suite of techniques ([[spaced repetition]], [[active recall]], especially [[cloze deletion]]s)
+* It mixes learning of new material with review of old material (in particular, one encounters completely new material during incremental reading, unlike a regular spaced repetition flashcard program where each card must be created individually). In other words, the [[temporal pacing]] controls both the pacing of new material and of the review.
+* Probably some sort of [[interleaving]] where learning/review of different subjects are combined in a single session.
+* Possibly some sort of prioritization process that controls the temporal pacing between subjects.
+
+==Goal/sales pitch==
+
+
+* How does this technique improve learning, retention, or [[illusion of transparency|transparency]]?
+* Why would one expect this technique to work at all?
+
+==User==
+
+This technique is used by the [[learner]].
+
+==Requirements/genericity==
+
+* Under what learning conditions can this be applied? For what kind of students?
+* What kinds of material are required?
+
+Some sort of spaced repetition software
+
+==Training==
+
+===Scope for improvement===
+
+Basically: how big is the difference between the gains a novice can expect, versus the gains a master of this technique can expect?
+
+==Software==
+
+[[SuperMemo]] seems to have the most complete implementation of incremental reading, but there is a plugin for [[Anki]] that implements some of the features of incremental reading.
+
+==Evidence==
+
+* studies, data, anecdotes, opinion pieces
+
+==External links==
+
+* [https://www.supermemo.com/help/read.htm SuperMemo help page for incremental reading]
+* [https://supermemo.guru/wiki/Michael_Nielsen_re-discovers_incremental_reading_with_Anki "Michael Nielsen re-discovers incremental reading with Anki"] by [[Piotr Wozniak]]
+* [https://www.supermemo.com/help/faq/read.htm Incremental reading FAQ]
+* [[wikipedia:Incremental reading|Incremental reading]] (Wikipedia)
+* http://supermemo.guru/wiki/Minimum_definition_of_incremental_reading

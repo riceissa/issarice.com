@@ -1,0 +1,17 @@
+In the context of explanations, '''discursiveness''' refers to the extent to which an explanation references subjects outside the main topic at hand. Discursiveness takes two parameters: the explanation and the topic. Fixing the explanation and varying the topic parameter, the same explanation can be seen as more or less discursive under different topics. This terminology is nonstandard (it's unclear what the standard terminology is, if there is any).
+
+==Trade-offs==
+
+From the perspective of the [[explainer]], the trade-off is between getting to the point as swiftly as possible so as to cover the topic at hand (less discursive) versus covering more "external" details: nearby subjects, historical background, and analogies (more discursive).
+
+The choice depends partly on the audience: someone completely new to the topic may have their working memory overloaded simply from the topic at hand and will find the "extraneous" details distracting, while someone with familiarity of the topic or aiming for a more advanced understanding will want to connect it to related subjects.
+
+==Examples==
+
+* Both ''Gödel, Escher, Bach'' and ''Computability and Logic'' discuss ideas like computability, recursion, first-order logic, and Gödel's incompleteness theorems. However, the former goes into digressions about art and music, history, fictional stories, and so on, while the latter is a straightforward tutorial through the math. In the terminology of this page, the former book is more discursive (where the topic is computability and logic).
+* In decision theory, both [https://intelligence.org/files/TDT.pdf "Timeless Decision Theory"] and [https://arxiv.org/abs/1710.05060 "Functional Decision Theory: A New Theory of Instrumental Rationality"] describe a new logical decision theory. However, the former paper goes into discussions about free will, reductionism, and other more philosophical topics (section 13), while the latter paper is a straightforward description of the decision theory. In the terminology of this page, the former paper is more discursive (where the topic is "timeless decision theory" for the first paper and "functional decision theory" for the second paper).
+* Various books entitled "X for mathematicians", "X for economists", etc., are meant for professionals in those subjects trying to learn X. Such books may go into digressions/examples familiar to those in the area.
+
+==See also==
+
+* [[Subtle point]]

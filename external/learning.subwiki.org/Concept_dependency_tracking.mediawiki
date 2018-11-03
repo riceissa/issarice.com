@@ -1,0 +1,53 @@
+'''Concept dependency tracking''' (there might be a more standard term) refers to the tracking of conceptual dependencies (e.g. using a dependency DAG) when learning a subject.
+
+When trying to learn a concept, there might be several conceptual dependencies (i.e. other concepts you must learn first before learning the desired concept). The nature and structure of dependencies can be simple or elaborate depending on what one is trying to learn:
+
+* If one tries to do a "deep dive" into a subject by first picking some advanced concept (e.g. "I want to learn about Godel's incompleteness theorems") there might be multiple specific (propositional logic, first-order logic, computability) and general dependencies ("mathematical sophistication") that have some complicated structure.
+* If one is following a textbook linearly or has already covered the surrounding material, then the marginal concept won't typically have elaborate dependencies.
+
+"Every time you encounter a concept you don’t recognize, you need to go back and learn it first. Pretty soon you’re deep in dependency hell, switching between twenty tabs, trying to juggle all the prerequisites of prerequisites, wondering if any of this will actually help you towards your original goal." [https://metacademy.org/about]
+
+The paper "Retain: Building a Concept Recommendation System that Leverages Spaced Repetition to Improve Retention in Educational Settings" by Shilpa Subrahmanyam also talks about this.
+
+Several books have a graph near the beginning of the book describing the order in which chapters may be read.
+
+I think most [[learner]]s don't really pay attention to conceptual dependency tracking (they can just follow along in class/read the chosen-by-teachers sections in the textbook). But tracking conceptual dependencies is important for:
+
+* [[Explainer]]s who want to produce clear explanations.
+* Autodidacts who get to "shop around" for multiple explanations. Different books might cover topics in a different order, so one might try reading up a topic in a different book only to find that this book assumes some other knowledge one does not have. Or the proof in the second book might circularly assume the result because it started from a different place.
+* Generalists who jump from subject to subject, becoming a complete novice frequently.
+
+==Types of dependencies==
+
+There are different "strengths" of dependencies. For example not understanding high school algebra makes it very difficult to understand calculus, so this might be a "hard" dependency. On the other hand, knowing the construction of the real number system helps to make one's understanding of real analysis solid, but is often considered nonessential during a first pass with the subject, so this might be more of a "soft" dependency.
+
+Some subjects have feedback loops, where subject X helps shed light on subject Y, and conversely, subject Y cements one's understanding of subject X. For this kind of dependency, a DAG is insufficient. (see data structures section)
+
+==Data structures==
+
+* DAGs seem like the natural way to represent dependencies
+* [https://www.drmaciver.com/2016/05/how-to-read-a-mathematics-textbook/] uses a "current list" to track the current concept plus its dependencies.
+
+==Related ideas==
+
+In software engineering, the idea of dependencies is used frequently, e.g.
+
+* Package managers for programming languages and Linux distributions
+* https://en.wikipedia.org/wiki/Dependency_hell - the direct analog of this is probably less problematic in mathematics/the conceptual realm because there aren't "version numbers" on concepts and it is easy to shuffle around ideas. Terry Tao: "I think the basic reason for this is that in the purely theoretical world of mathematics, there is basically a zero cost in taking an argument that partially solves a problem, and then combining it with other ideas to make a complete solution; but in the real world, it can be difficult, costly, or socially unacceptable to reuse or recycle anything that is (or is perceived to be) even a partial failure."<ref>[https://plus.google.com/u/0/+TerenceTao27/posts/Xdm8eiPLWZp "One of the secrets to mathematical problem solving is that one needs to place a high value on partial progress, as being a crucial stepping stone to fully solving the problem."] (Post on Google+). July 22, 2012. Retrieved November 2, 2018.</ref>
+* https://en.wikipedia.org/wiki/Coupling_(computer_programming)
+* Tracing up and down layers of abstraction in object-oriented programming, [[wikipedia:Call graph|tracing function calls]]
+
+==Interactions with other ideas==
+
+A concept dependency system can interact with other kinds of "tracking" to obtain a more complete "learning scheduling system":
+
+* Spaced repetition
+* A comprehension score (see Subrahmanyam paper)
+* Priority of the subject (e.g. "learning math is more important than learning physics", or "learning linear algebra is more important than learning abstract algebra")
+* Current excitedness/curiosity about a subject
+
+==See also==
+
+==References==
+
+<references/>
