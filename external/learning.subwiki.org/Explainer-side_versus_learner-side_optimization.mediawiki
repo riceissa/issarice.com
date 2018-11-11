@@ -1,0 +1,14 @@
+Consider two kinds of meaning of the phrase "optimizing learning":
+
+* You are an [[explainer]] and you want to construct some sort of idealized box, such that if you shove in [[learner]]s into this box, they come out the other end having mastered (good retention, good transfer of learning, etc.) the learning material.
+* You are a [[learner]] born into a world with horrible explanations. How do you fend for yourself in this cruel world, by seeking the good explanations, customizing your studying style to match your learning style, and integrating the best research on learning into your study habits?
+
+The former is called '''explainer-side optimization''' and the latter is called '''learner-side optimization''' (until I find better/more standard terminology).
+
+In an altruistic sense, what matters for content creation is the explainer-side optimization or doing explainer-side optimization to help ''other people'' do their own learner-side optimization.
+
+Common ground between both explainer-side and learner-side optimization: knowing the various "effects" that have been discovered ([[spacing effect]], [[testing effect]], etc.) is useful for both (e.g. the explainer can integrate spacing into the learning material by referring to earlier parts from later parts in a space-y way, and the learner can use [[spaced repetition software]]). It's the same knowledge underlying both, but the application is different.
+
+==External links==
+
+* [https://wiki.lesswrong.com/wiki/A_sense_that_more_is_possible A sense that more is possible]

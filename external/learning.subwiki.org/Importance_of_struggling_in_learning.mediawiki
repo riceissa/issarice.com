@@ -1,4 +1,4 @@
-One axis along which [[explainer]]s seem to differ is their degree of belief in the '''importance of struggling in learning'''. Roughly speaking, the "two sides" are:
+One axis along which [[explainer]]s (and also [[learner]]s) seem to differ is their degree of belief in the '''importance of struggling in learning'''. Roughly speaking, the "two sides" are:
 
 * "Don't needlessly struggle" view: a good explanation should be ''easy'' to process, and be as intuitive as possible. [[Aim low]] [http://lesswrong.com/lw/kh/explainers_shoot_high_aim_low/].
 * "Struggling is important/essential for understanding" view: A good explanation should be effortful for the [[learner]] to process. It should e.g. present misconceptions and make the learner "do the work".
@@ -14,6 +14,14 @@ Adversarial framing:
 * "Don't needlessly struggle" view: Some [[learner]]s may invoke this view as a way to slack off or have an excuse for not understanding something. e.g. a student may say "this explanation is confusing, and I shouldn't have to needlessly struggle" and then give up trying to understand the topic.
 * "Struggling is important/essential for understanding" view: Some [[explainer]]s may take this view to cover up their bad explanations. e.g. a teacher may say "being confused is important for learning" to cover up their bad teaching, or to have an excuse for not improving as a teacher.
 
+One question I have is this: what percentage of the "good kind" of struggling is related to [[List of terms related to generation|trying to generate the answers yourself]] (vs some other kinds of struggling, like being plain confused, or confused about ambiguous phrasing, or whatever)? In other words, obviously generation results in struggling (you actually have to do work, not just passively consume!), but what can we say about the converse? Can we characterize "the good kind of struggling" as a certain type of generation?
+
+==See also==
+
+* [[List of terms related to generation]]
+* [[Summary table of methods of recall]]
+* [[wikipedia:Errorless learning|Errorless learning]]
+
 ==External links==
 
 * [https://www.youtube.com/watch?v=eVtCO84MDj8 Video that argues for the importance of struggling in learning physics]
@@ -21,3 +29,4 @@ Adversarial framing:
 * [http://wirehead-wannabe.tumblr.com/post/166830719366/the-secret-tedious-math-behind-famous-ppls this post] also discusses something similar (struggling with low-level ideas is important for building up to high-level ones)
 * https://en.wikipedia.org/wiki/Desirable_difficulty
 * [https://wiki.lesswrong.com/wiki/Meditation Meditation] page on LessWrong Wiki: "Noting your prior reaction to the meditation-prompt is particularly important because conclusions about rationality often sound obvious in retrospect, making it hard for people to visualize the diff between "what I thought before" and "what I thought afterward". Explicitly knowing this difference is important to learning and memory formation."
+* Brown et al.'s ''Make It Stick'' has a section called "Undesirable Difficulties" that contrasts desirable vs undesirable difficulties.

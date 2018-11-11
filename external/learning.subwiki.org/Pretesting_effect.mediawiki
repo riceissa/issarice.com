@@ -1,0 +1,14 @@
+The '''pretesting effect''' is a phenomenon where even failing to produce the correct answer or testing before learning a material improves test scores relative to regular studying (what is regular studying?).
+
+What could be some mechanisms of this effect?
+
+* Attention direction: The [[learner]] might just be cued to pay attention to specific things later on as they go through the learning material. (called [[mathemagenic behavior]]s or "learning-generating" behaviors) "For example, Rothkopf and Bisbicos (1967) found that asking participants questions in which the answers were numbers led to better retention of all numerical information in the text, possibly because participants were able to direct their attention to the type of information that was important to learn given the test they would take." (p. 244)<ref>Richland; Kornell; Kao. "The Pretesting Effect: Do Unsuccessful Retrieval Attempts Enhance Learning?"</ref>
+* Effects of testing itself: ???
+
+==See also==
+
+* [[List of terms related to generation]]
+
+==References==
+
+<references/>

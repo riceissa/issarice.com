@@ -1,0 +1,24 @@
+{| class="sortable wikitable"
+|-
+! Method name !! Description !! Examples
+|-
+| [[Passive recall]] || A form of recall where one reads over the material to be remembered (without being asked to produce the material). ||
+|-
+| [[Active recall]] ([[quiz and recall]]) || A form of recall where one is shown some question and is asked to produce the answer to the question. || A flash card with a front side (containing the question) and the back side containing the answer.
+|-
+| [[Cloze deletion]] || Active recall, but where the thing to recall is some blanked phrase in a sentence. ||
+|-
+| Recursive recall || Recall of the entire structure of some topic, starting with the topic name, and recursing down to the finest details, with each "edge" in the structure being an instance of active recall. ||
+|-
+| Active recall of both question and answer ||  This method can be seen as recursive recall with a depth of two (in the first layer, you go from the topic to the list of questions, and in the second layer, you go from each question to the response for that question). ||
+|-
+| [[Feynman technique]] || A form of recursive recall, but with extra stipulations (e.g. using a blank piece of paper and writing things down on it, and the explanation needing to be easy to understand) ||
+|-
+| Algorithmic/variable/random recall (is there a term for this?) || A form of active recall in which the question and answer are algorithmically varied (to prevent rote memorization). This is related to property-based testing in software engineering (e.g. [[wikipedia:QuickCheck|QuickCheck]]): in the learning context, the [[learner]] is the "software" being tested. || For learning addition, the software might randomly pick two integers and ask for the sum (this is the question), and the answer would be the sum. Another example would be if the substance of the question were the same, but the wording is varied. Some software like [[wikipedia:WebAssign|WebAssign]] and on Khan Academy do this sort of thing.
+|}
+
+==See also==
+
+* [[List of learning techniques]]
+* [[List of terms related to generation]]
+* [[Importance of struggling in learning]]

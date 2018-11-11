@@ -1,0 +1,24 @@
+{| class="sortable wikitable"
+! Term !! Description !! Antonym
+|-
+| Generation || The act of the [[learner]] generating an answer themselves rather than reading an answer. This is the overarching term that can be used whether the learner knew the material beforehand or not (whereas [[recall]] is used when the learner knew the material at some point beforehand but could have forgotten it). See [[generation effect]]. || Recognition/discrimination
+|-
+| [[Active recall]]/[[quiz and recall]] || || [[Passive recall]]
+|-
+| [[Testing effect]] || A phenomenon where retrieval practice enhances [[retention]] (compared to what?). This effect justifies active recall as a study method. ||
+|-
+| [[Pretesting effect]] || A phenomenon where even failing to produce the correct answer or testing before learning a material improves test scores relative to regular studying (what is regular studying?).<ref>[http://learninglab.uchicago.edu/Pre-Testing.html "The Pre-Testing Effect"]. ''The University of Chicago Learning Lab''. Retrieved November 6, 2018.</ref> This effect justifies generation, especially generation before learning a topic ([[meditation]], [[inquiry-based learning]], etc.). || [[Errorless learning]]
+|-
+| [[Generation effect]] || There is at least one paper (by Slamecka and Graf) that uses this term. But is it different from the pretesting effect? ||
+|-
+| [[Meditation]] || A term used by [[Eliezer Yudkowsky]] to describe an exercise for the reader that the reader is encouraged to complete ''before'' reading on. || There isn't really an antonym for this (because there are many alternatives to passive reading), but meditations are intended to be contrasted with normal (passive) reading
+|}
+
+==See also==
+
+* [[Summary table of methods of recall]]
+* [[Importance of struggling in learning]]
+
+==References==
+
+<references/>

@@ -1,4 +1,4 @@
-a.k.a. "X-based learning" for multiple values of X.
+a.k.a. "X-based learning" for multiple values of X. (Tentatively) A strategy is a broader method or philosophy about learning, and could be some carefully selected [[Learning technique|techniques]] plus some kind of philosophy or like "here's how you should go about learning".
 
 {| class="sortable wikitable"
 |-
@@ -13,6 +13,8 @@ a.k.a. "X-based learning" for multiple values of X.
 | Problem-based learning ||
 |-
 | Learning by teaching ||
+|-
+| [[Direct instruction]] ||
 |}
 
 project-based learning vs drilling: [https://www.greaterwrong.com/posts/hWkdiMbqLpzjYvxqD/learning-strategies-and-the-pokemon-league-parable] and comments like [https://www.greaterwrong.com/posts/hWkdiMbqLpzjYvxqD/learning-strategies-and-the-pokemon-league-parable/comment/voitFXB9Z29Fb4LFL], [https://www.greaterwrong.com/posts/uSaJoL64DYg2WunJJ/turning-up-the-heat-insights-from-tao-s-analysis-ii#section-24]

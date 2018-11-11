@@ -1,0 +1,18 @@
+The '''Feynman technique''' is a [[learning technique]] designed to deeply understand a topic and for reducing the [[illusion of explanatory depth]].
+
+==History==
+
+TODO: add relevant Feynman quotes/anecdotes here.
+
+* "I first got the idea from this method from the Nobel prize winning physicist, Richard Feynman. In his autobiography, he describes himself struggling with a hard research paper. His solution was to go meticulously through the supporting material until he understood everything that was required to understand the hard idea."<ref>http://calnewport.com/blog/2012/10/26/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/</ref>
+* "“[He] opened a fresh notebook. On the title page he wrote: NOTEBOOK OF THINGS I DON’T KNOW ABOUT. For the first but not last time he reorganized his knowledge. He worked for weeks at disassembling each branch of physics, oiling the parts, and putting them back together, looking all the while for the raw edges and inconsistencies. He tried to find the essential kernels of each subject.”"<ref>http://calnewport.com/blog/2015/11/25/the-feynman-notebook-method/</ref>
+
+The technique (in its modern form) seems to have been created/popularized by [[Scott Young]] around August 2011.
+
+==See also==
+
+* [[Self-explanation]]
+
+==References==
+
+<references/>

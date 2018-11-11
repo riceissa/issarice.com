@@ -1,0 +1,18 @@
+An '''illusion of understanding''' or '''illusion of knowing''' is a form of poor [[metacognition]] in which one thinks one knows something that one does not in fact know. An illusion of understanding can happen in both [[explainer]]s and [[learner]]s.
+
+{| class="sortable wikitable"
+|-
+! Name !! Description !! Whom does this illusion afflict? !! Example
+|-
+| [[Illusion of transparency]]/curse of knowledge || || [[Explainer]] ||
+|-
+| [[Double illusion of transparency]] || || [[Explainer]] and [[learner]] simultaneously ||
+|-
+| [[Illusion of explanatory depth]] || || [[Learner]] ||
+|-
+| Illusions of the outsourced mind [https://www.coursera.org/lecture/intellectual-humility-science/illusions-of-the-outsourced-mind-74bDf] || || ||
+|-
+| [[wikipedia:Illusory superiority|Illusory superiority]] || || [[Explainer]] and [[learner]] (not necessarily simultaneously) ||
+|-
+| [[wikipedia:Impostor syndrome|Impostor syndrome]] || || [[Explainer]] and [[learner]] (not necessarily simultaneously) ||
+|}

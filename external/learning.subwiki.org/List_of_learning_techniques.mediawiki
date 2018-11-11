@@ -36,9 +36,11 @@ This page lists and classifies [[learning technique|learning and teaching techni
 |-
 | [[Interleaving]] || || [[Explainer]], [[learner]] ||
 |-
-| Active recall || Retention (short-term or long-term) || [[Explainer]], [[learner]] || Flashcards, interactive software, or some other device that reveals answers after a response || Used by explainer in e.g. cold calling, but used by learner in e.g. flashcards
+| Active recall || Retention (short-term or long-term), reducing illusion of understanding || [[Explainer]], [[learner]] || Flashcards, interactive software, or some other device that reveals answers after a response || Used by explainer in e.g. cold calling, but used by learner in e.g. flashcards
 |-
 | Passive recall || Retention (short-term or long-term) || [[Explainer]], [[learner]] || Notes or book that one is reviewing ||
+|-
+| [[Quiz and recall]] || Retention (short-term or long-term), reducing illusion of understanding
 |-
 | [[Worked-example effect|Use of worked examples]] || Reduction of cognitive load || [[Explainer]] ||
 |-
@@ -58,7 +60,7 @@ This page lists and classifies [[learning technique|learning and teaching techni
 |-
 | [[Elaborative interrogation]] ||
 |-
-| [[Self-explanation]] ||
+| [[Self-explanation]] || Reducing illusion of understanding ||
 |-
 | [[Summarization]] ||
 |-
@@ -79,3 +81,4 @@ This page lists and classifies [[learning technique|learning and teaching techni
 
 * [[List of learning strategies]] covers broader strategies to learn entire subjects
 * [[List of learning measures]]
+* [[Summary table of methods of recall]]

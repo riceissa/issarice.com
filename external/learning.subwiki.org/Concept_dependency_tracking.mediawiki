@@ -23,6 +23,8 @@ There are different "strengths" of dependencies. For example not understanding h
 
 Some subjects have feedback loops, where subject X helps shed light on subject Y, and conversely, subject Y cements one's understanding of subject X. For this kind of dependency, a DAG is insufficient. (see data structures section)
 
+When is a dependency graph cyclic or acyclic? Circular dependencies are kind of weird in the sense that if we increase the resolution of concept space, it seems like we can always get the graph to a point where it's no longer circular. Superficially, we might say <math>X</math> and <math>Y</math> depend on each other, but actually, if you break them down, <math>X</math> has parts <math>X'</math> and <math>X''</math>, and (1) <math>Y</math> depends on <math>X'</math> and (2) <math>X''</math> depends on <math>Y</math>, so at this finer resolution, the dependency has no cycle (the graph looks like <math>X' \rightarrow Y \rightarrow X''</math>), but if you look at the original graph with nodes <math>Y</math> and <math>X=\{X', X''\}</math>, then it looks like there's a cycle. Is there a counterexample to this?
+
 ==Data structures==
 
 * DAGs seem like the natural way to represent dependencies

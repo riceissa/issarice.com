@@ -1,0 +1,18 @@
+Some learning-related concepts that have been invented/discussed by '''Eliezer Yudkowsky''':
+
+* Guessing the [[teacher's password]]
+* [[Meditation]]
+* [[Aim low]] in explanations
+* The [[explanatory dialogue]] (examples: [https://arbital.com/p/solomonoff_induction/?l=1hh Solomonoff induction], [https://intelligence.org/2017/11/25/security-mindset-ordinary-paranoia/ security mindset], [https://intelligence.org/2017/11/26/security-mindset-and-the-logistic-success-curve/ logistic success curve])
+
+==See also==
+
+==References==
+
+<references/>
+
+==External links==
+
+* https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password
+* https://www.lesswrong.com/posts/2TPph4EGZ6trEbtku/explainers-shoot-high-aim-low
+* https://wiki.lesswrong.com/wiki/Meditation
