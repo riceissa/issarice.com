@@ -17,6 +17,8 @@ https://www.greaterwrong.com/users/academian?format=rss
 https://www.greaterwrong.com/users/abramdemski?format=rss
 https://www.greaterwrong.com/users/scott-garrabrant?format=rss
 https://www.greaterwrong.com/users/jessica-liu-taylor?format=rss
+https://lw2.issarice.com/users/jsalvati?format=rss
+https://lw2.issarice.com/users/jsalvatier?format=rss
 http://effective-altruism.com/user/RobBensinger/.rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=robbensinger&format=rss
 http://effective-altruism.com/.rss
