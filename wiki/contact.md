@@ -9,8 +9,9 @@ The best way to contact [me](about) is via email at [riceissa@gmail.com][email].
 If you prefer, you can friend me on [Facebook]() and message me there.
 
 If you would like to ask me a question that I can answer publicly, you can use
+my ["ask me anything" repository on GitHub](https://github.com/riceissa/ama) or
 my [Tumblr "Ask me anything" form](https://riceissa.tumblr.com/ask). I will be
-notified by email (via Tumblr) but will respond publicly (if I choose to
+notified by email (via GitHub or Tumblr, respectively) but will respond publicly (if I choose to
 respond).
 
 You can also [send me anonymous feedback][feedback] (an idea I got from [Luke
