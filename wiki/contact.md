@@ -13,6 +13,8 @@ my ["ask me anything" repository on GitHub](https://github.com/riceissa/ama) or
 my [Tumblr "Ask me anything" form](https://riceissa.tumblr.com/ask). I will be
 notified by email (via GitHub or Tumblr, respectively) but will respond publicly (if I choose to
 respond).
+Content is not shared between the GitHub repo and Tumblr, so e.g. a question
+posted on GitHub will not show up on Tumblr.
 
 You can also [send me anonymous feedback][feedback] (an idea I got from [Luke
 Muehlhauser][l_feedb] and [Gwern][g_feedb]).
