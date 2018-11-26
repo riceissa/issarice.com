@@ -1,0 +1,90 @@
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Year !! Month and date !! Topics !! Details
+|-
+| || || calculus || IB math (calculus)
+|-
+| || || || IB math HL (random topics)
+|-
+| 2014 || {{dts|September}} || proof-based calculus || math 134<ref>{{cite web |url=https://issarice.com/math-134 |author=Issa Rice |date=December 9, 2014 |title=MATH 134 |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| || || proof-based calculus, differential equations || math 135<ref>{{cite web |url=https://issarice.com/math-135 |author=Issa Rice |date=March 29, 2015 |title=MATH 135 |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| || || multivariable calculus, linear algebra? || math 136<ref>{{cite web |url=https://issarice.com/math-136 |author=Issa Rice |date=June 11, 2015 |title=MATH 136 |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| || || real analysis/point-set topology || math 334<ref>{{cite web |url=https://issarice.com/math-334 |date=October 11, 2015 |title=MATH 334 |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| 2015 || autumn || mathematical modeling || AMATH 383<ref>{{cite web |url=https://issarice.com/amath-383 |author=Issa Rice |date=October 11, 2015 |title=AMATH 383 |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| || || real analysis || math 335<ref>{{cite web |url=https://issarice.com/math-335 |date=February 21, 2016 |title=MATH 335 |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| 2016 || {{dts|April}} || complex analysis || math 336<ref>{{cite web |url=https://issarice.com/math-336 |date=April 13, 2016 |title=MATH 336 |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| 2016-2017 || || || long hiatus
+|-
+| 2017 || {{dts|October 19}}{{snd}}{{dts|December 8}} || Machine learning || I complete Andrew Ng's Coursera course.<ref>{{cite web |url=https://issarice.com/machine-learning-study-log#andrew-ngs-coursera-course |author=Issa Rice |date=December 27, 2017 |title=Machine learning study log |publisher=Issa Rice |accessdate=November 25, 2018}}</ref>
+|-
+| 2018 || {{dts|April}} || Computability, logic || First pass through Boolos/Burgess/Jeffrey's ''Computability and Logic''.
+|-
+| 2018 || {{dts|May 2}} || || Judgment day #1.
+|-
+| 2018 || {{dts|May}} || Linear algebra || Axler's ''Linear Algebra Done Right''.
+|-
+| 2018 || {{dts|June}} || Causal inference ||
+|-
+| 2018 || {{dts|June 26}} || ||  I become increasingly frustrated about forgetting the math that I've been learning, and I install Anki. However, at first I don't really use it for math; see below.
+|-
+| 2018 || {{dts|July 4}} || || Michael Nielsen's article about spaced repetition is published,<ref>http://augmentingcognition.com/ltm.html</ref> (I think I first heard about it via email, as I am subscribed to his projects mailing list)
+|-
+| 2018 || {{dts|July 8}} || || I begin to incorporate spaced repetition into my math study routine.
+|-
+| 2018 || {{dts|July}} || PCA, multivariable calculus (differentiation, chain rule) ||
+|-
+| 2018 || {{dts|August 2}}-3 (any other days?) || Logical induction || I spend some time reading "Logical Induction" again, taking notes in Anki, and starting [https://machinelearning.subwiki.org/wiki/User:IssaRice/Logical_induction_notation "Logical induction notation"].
+|-
+| 2018 || {{dts|August}} || game theory, information aggregation in markets, belief propagation ||
+|-
+| 2018 || {{dts|August 24}} (?) - {{dts|August 27}} || Aumann's agreement theorem || I spend some time reading and learning about [[wikipedia:Aumann's agreement theorem]], and begin work on [https://machinelearning.subwiki.org/wiki/User:IssaRice/Aumann%27s_agreement_theorem "Aumann's agreement theorem"] page.
+|-
+| 2018 || {{dts|September}} || belief propagation, game theory, computability, real analysis ||
+|-
+| 2018 || {{dts|September 27}} (?){{snd}}?? || real analysis || using Tao's ''Analysis I'': chapter 2 around September 27; chapter 3 around October 4; in chapter 5 on October 18; in chapter 6 on November 5
+|-
+| 2018 || {{dts|October}} || real analysis, linear algebra ||
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:Issa|Issa Rice]].
+
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* FIXME
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+* Use posts from [https://issarice.wordpress.com/ my updates blog] to add new events.
+
+==See also==
+
+==External links==
+
+* [https://machinelearning.subwiki.org/wiki/Special:PrefixIndex/User:IssaRice/ Userspace pages on Machine Learning Subwiki]
+
+==References==
+
+{{Reflist|30em}}
