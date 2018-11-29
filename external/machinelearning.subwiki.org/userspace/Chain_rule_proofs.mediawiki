@@ -1,0 +1,157 @@
+==Using Newton's approximation==
+
+===Main idea===
+
+The main idea of using Newton's approximation to prove the chain rule is that since f is differentiable at <math>x_0</math> we have the approximation <math>f(x) \approx f(x_0) + f'(x_0)(x-x_0)</math> when <math>x</math> is near <math>x_0</math>. Similarly since g is differentiable at <math>f(x_0)</math> we have the approximation <math>g(y) \approx g(f(x_0)) + g'(f(x_0))(y - f(x_0))</math> when <math>y</math> is near <math>f(x_0)</math>. Since f is differentiable at <math>x_0</math>, it is continuous there also, so we know that <math>f(x)</math> is near <math>f(x_0)</math> whenever <math>x</math> is near <math>x_0</math>. This allows us to substitute <math>f(x)</math> into <math>y</math> whenever <math>x</math> is near <math>x_0</math>. So we get
+
+<math display="block">\begin{align}g(f(x)) &\approx g(f(x_0)) + g'(f(x_0))(f(x) - f(x_0)) \\ &\approx g(f(x_0)) + g'(f(x_0))(f'(x_0)(x-x_0))\end{align}</math>
+
+Thus we get <math>g\circ f(x) \approx g\circ f(x_0) + g'(f(x_0))f'(x_0)(x-x_0)</math>, which is what the chain rule says.
+
+===Proof===
+
+We want to show <math>g\circ f</math> is differentiable at <math>x_0</math> with derivative <math>L:=g'(f(x_0))f'(x_0)</math>. By Newton's approximation, this is equivalent to showing that for every <math>\epsilon > 0</math> there exists <math>\delta > 0</math> such that
+
+<math display="block">|g\circ f(x) - (g\circ f(x_0) + L(x-x_0))| \leq \epsilon|x-x_0|</math>
+
+whenever <math>|x-x_0|\leq \delta</math>. So let <math>\epsilon > 0</math>.
+
+Now we do some algebraic manipulation. Write
+
+<math display="block">g(y) = g(y_0) + g'(y_0)(y - y_0) + E_g(y,y_0)</math>
+
+where <math>E_g(y,y_0) := g(y) - (g(y_0) + g'(y_0)(y - y_0))</math>. This holds for every <math>y \in Y</math>. Since <math>f(x) \in Y</math> we thus have
+
+<math display="block">g(f(x)) = g(f(x_0)) + g'(f(x_0))(f(x) - f(x_0)) + E_g(f(x),f(x_0))</math>
+
+Similarly write
+
+<math display="block">f(x) = f(x_0) + f'(x_0)(x - x_0) + E_f(x,x_0)</math>
+
+where <math>E_f(x,x_0) := f(x) - (f(x_0) + f'(x_0)(x - x_0))</math>.
+
+Substituting the expression for <math>f(x)</math> in the expression for <math>g(f(x))</math> we get
+
+<math display="block">\begin{align}g(f(x)) &= g(f(x_0)) + g'(f(x_0))(f'(x_0)(x - x_0) + E_f(x,x_0)) + E_g(f(x),f(x_0)) \\ &= g(f(x_0)) + g'(f(x_0))f'(x_0)(x - x_0) + g'(f(x_0))E_f(x,x_0) + E_g(f(x),f(x_0))\end{align}</math>
+
+we can rewrite this as <math>g\circ f(x) - (g\circ f(x_0) + L(x-x_0)) = g'(f(x_0))E_f(x,x_0) + E_g(f(x),f(x_0))</math>
+
+Thus our goal now is to show <math>|g'(f(x_0))E_f(x,x_0) + E_g(f(x),f(x_0))| \leq \epsilon|x-x_0|</math>.
+
+But by the triangle inequality it suffices to show <math>|g'(f(x_0))E_f(x,x_0)| + |E_g(f(x),f(x_0))| \leq \epsilon|x-x_0|</math>.
+
+<math>|g'(f(x_0))E_f(x,x_0)| \leq |g'(f(x_0))|\epsilon_1|x-x_0|</math> where we are free to choose <math>\epsilon_1</math>.
+
+To get the bound for <math>|E_g(f(x),f(x_0))|</math> (using Newton's approximation), we need to make sure <math>|f(x)-f(x_0)|</math> is small. But by continuity of <math>f</math> at <math>x_0</math> we can do this.
+
+<math display="block">\begin{align}|E_g(f(x),f(x_0))| &\leq \epsilon_2 |f(x) - f(x_0)| \\ &= \epsilon_2 |f'(x_0)(x - x_0) + E_f(x,x_0)| \\ &\leq \epsilon_2|f'(x_0)||x-x_0| + \epsilon_2\epsilon_3|x-x_0| \\ &= (\epsilon_2|f'(x_0)| + \epsilon_2\epsilon_3)|x-x_0|\end{align}</math>
+
+where again we are free to choose <math>\epsilon_2, \epsilon_3</math>.
+
+TODO: can we do this same proof but without using the error term notation?
+
+TODO: somehow Folland does this without explicitly using continuity of f; i need to understand if he's using it implicitly somehow or he's actually proving it when bounding <math>|\mathbf h|</math> using <math>|u|</math>
+
+===old proof===
+
+Since <math>g</math> is differentiable at <math>y_0</math>, we know <math>g'(y_0)</math> is a real number, and we can write
+
+<math display="block">g(y) = g(y_0) + g'(y_0)(y - y_0) + [g(y) - (g(y_0) + g'(y_0)(y-y_0))]</math>
+
+(there is no magic: the terms just cancel out)
+
+If we define <math>E_g(y,y_0) := g(y) - (g(y_0) + g'(y_0)(y-y_0))</math> we can write
+
+<math display="block">g(y) = g(y_0) + g'(f(x_0))(y - y_0) + E_g(y,y_0)</math>
+
+Newton's approximation says that <math>|E_g(y,y_0)| \leq \epsilon|y-y_0|</math> as long as <math>|y-y_0|\leq \delta</math>.
+
+Since <math>f</math> is differentiable at <math>x_0</math>, we know that it must be continuous at <math>x_0</math>. This means we can keep <math>|f(x)-y_0|\leq \delta</math> as long as we keep <math>|x-x_0|\leq \delta'</math>.
+
+Since <math>f(x) \in Y</math> and <math>|f(x)-y_0|\leq \delta</math>, this means we can substitute <math>y = f(x)</math> and get
+
+<math display="block">g(f(x)) = g(y_0) + g'(f(x_0))(f(x) - y_0) + E_g(f(x),y_0)</math>
+
+Now we use the differentiability of <math>f</math>. We can write
+
+<math display="block">f(x) = f(x_0) + f'(x_0)(x - x_0) + [f(x) - (f(x_0) + f'(x_0)(x-x_0))]</math>
+
+Again, we can define <math>E_f(x,x_0) := f(x) - (f(x_0) + f'(x_0)(x-x_0))</math> and write this as
+
+<math display="block">f(x) = f(x_0) + f'(x_0)(x - x_0) + E_f(x,x_0)</math>
+
+Now we can substitute this into the expression for <math>g(f(x))</math> to get
+
+<math display="block">g(f(x)) = g(y_0) + g'(f(x_0))(f'(x_0)(x - x_0) + E_f(x,x_0)) + E_g(f(x),f(x_0))</math>
+
+where we have canceled out two terms using <math>f(x_0) = y_0</math>.
+
+Thus we have
+
+<math display="block">g(f(x)) = g(y_0) + g'(f(x_0))f'(x_0)(x - x_0) + [g'(f(x_0))E_f(x,x_0) + E_g(f(x), f(x_0))]</math>
+
+We can write this as
+
+<math display="block">(g\circ f)(x) - ((g\circ f)(x_0) + L(x - x_0)) = [g'(f(x_0))E_f(x,x_0) + E_g(f(x), f(x_0))]</math>
+
+where <math>L := g'(f(x_0))f'(x_0)</math>. Now the left hand side looks like the expression in Newton's approximation. This means to show <math>g\circ f</math> is differentiable at <math>x_0</math>, we just need to show that <math>|g'(f(x_0))E_f(x,x_0) + E_g(f(x), f(x_0))| \leq \epsilon|x - x_0|</math>.
+
+The stuff in square brackets is our "error term" for <math>g\circ f</math>. Now we just need to make sure it is small, even after dividing by <math>|x-x_0|</math>.
+
+But f is differentiable at <math>x_0</math>, so by Newton's approximation,
+
+<math display="block">|g'(f(x_0))E_f(x,x_0)| \leq |g'(f(x_0))| \epsilon_1 |x-x_0|</math>
+
+we also have
+
+<math display="block">|E_g(f(x), f(x_0))| \leq \epsilon_2 |f(x)-f(x_0)| = \epsilon_2 |f'(x_0)(x-x_0) + E_f(x,x_0)|</math>
+
+We can bound this from above using the triangle inequality:
+
+<math display="block">\begin{align}|E_g(f(x), f(x_0))| &\leq \epsilon_2 |f'(x_0)(x-x_0)| + \epsilon_2 |E_f(x,x_0)| \\ &\leq \epsilon_2 |f'(x_0)| |x-x_0| + \epsilon_2 \epsilon_1 |x-x_0|\end{align}</math>
+
+Now we can just choose <math>\epsilon_1, \epsilon_2</math> small enough.
+
+==Limits of sequences==
+
+===Main idea===
+
+Let <math>(x_n)_{n=1}^\infty</math> be a sequence taking values in <math>X \setminus \{x_0\}</math> that converges to <math>x_0</math>. Then we want to write
+
+<math display="block">\frac{g(f(x_n)) - g(f(x_0))}{x_n - x_0} = \frac{g(f(x_n)) - g(f(x_0))}{f(x_n) - f(x_0)} \cdot \frac{f(x_n) - f(x_0)}{x_n - x_0}</math>
+
+Now use the limit laws to conclude that the limit is <math>g'(f(x_0))\cdot f'(x_0)</math>. The problem is that <math>f(x_n) - f(x_0)</math> can be zero even when <math>x_n \ne x_0</math>.
+
+===Proof===
+
+Let <math>(x_n)_{n=1}^\infty</math> be a sequence taking values in <math>X \setminus \{x_0\}</math> that converges to <math>x_0</math>.
+
+Define a function <math>\phi : Y \to \mathbf R</math> by
+
+<math display="block">\phi(y) := \begin{cases}\frac{g(y) - g(f(x_0))}{y - f(x_0)} & \text{if }y \ne f(x_0) \\ g'(f(x_0)) & \text{if } y = f(x_0)\end{cases}</math>
+
+The idea is that we want to say <math>\frac{g(f(x_n)) - g(f(x_0))}{f(x_n) - f(x_0)}</math> is going to <math>g'(f(x_0))</math>, so we just define it at the undefined points to already be at that limit.
+
+Now we have
+
+<math display="block">\frac{g(f(x_n)) - g(f(x_0))}{x_n - x_0} = \phi(f(x_n)) \cdot \frac{f(x_n) - f(x_0)}{x_n - x_0}</math>
+
+for all <math>x_n</math>. (Why? Consider the cases <math>f(x_n) = f(x_0)</math> and <math>f(x_n) \ne f(x_0)</math> separately.)
+
+Differentiability of <math>g</math> at <math>f(x_0)</math> says that if <math>(y_n)_{n=1}^\infty</math> is a sequence taking values in <math>Y \setminus \{y_0\}</math> that converges to <math>f(x_0)</math>, then <math>\frac{g(y_n) - g(f(x_0))}{y_n - f(x_0)} \to g'(f(x_0))</math> as <math>n \to \infty</math>. What if <math>(y_n)_{n=1}^\infty</math> is instead a sequence taking values in <math>Y</math>? Then we can say <math>\phi(y_n) \to g'(f(x_0))</math> as <math>n\to\infty</math>. To show this, let <math>\epsilon > 0</math>.
+
+Now we can find <math>N \geq 1</math> such that for all <math>n \geq N</math>, if <math>y_n \ne f(x_0)</math>, then <math>|\phi(y_n) - g'(f(x_0))| = \left\vert\frac{g(y_n) - g(f(x_0))}{y_n - f(x_0)} - g'(f(x_0))\right\vert \leq \epsilon</math>.
+
+But this means if <math>n \geq N</math>, then we have two cases: either <math>y_n \in Y</math> and <math>y_n \ne f(x_0)</math>, in which case <math>|\phi(y_n) - g'(f(x_0))| \leq \epsilon</math> as above, or else <math>y_n = f(x_0)</math>, in which case <math>\phi(y_n) = g'(f(x_0))</math> so <math>|\phi(y) - g'(f(x_0))| = 0 \leq \epsilon</math>.
+
+Differentiability of <math>f</math> at <math>x_0</math> implies continuity of <math>f</math> at <math>x_0</math>, so this means that <math>f(x_n) \to f(x_0)</math> as <math>n \to \infty</math>. Since <math>f(x_n) \in Y</math> for each <math>n \geq 1</math>, we can use <math>(f(x_n))_{n=1}^\infty</math> as our sequence in <math>Y</math> to conclude that as <math>n \to \infty</math> we have <math>\phi(f(x_n)) \to g'(f(x_0))</math>.
+
+Now by the limit laws
+
+<math display="block">\begin{align}\lim_{n \to \infty} \frac{g(f(x_n)) - g(f(x_0))}{x_n - x_0} &= \left(\lim_{n \to \infty}\phi(f(x_n))\right) \left(\lim_{n \to \infty} \frac{f(x_n) - f(x_0)}{x_n - x_0}\right) \\ &= g'(f(x_0)) f'(x_0)\end{align}</math>
+
+Since the sequence <math>(x_n)_{n=1}^\infty</math> was arbitrary, we can conclude that <math>\lim_{x\to x_0;\, x \in X\setminus\{x_0\}} \frac{g(f(x)) - g(f(x_0))}{x - x_0} = g'(f(x_0)) f'(x_0)</math>.
+
+<math>\frac{g(f(x_n)) - g(f(x_0))}{f(x_n) - f(x_0)} \to g'(f(x_0))</math>
+
+TODO: Tao says that division by zero occurs when <math>f'(x_0) = 0</math>, which seems strange to me.
