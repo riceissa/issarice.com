@@ -290,3 +290,16 @@ using SRS? e.g. consider someone who reads a lot of news articles. If
 they start using SRS for math and japanese vocabulary and lesswrong
 articles, will they forget more news articles at a faster rate than if
 they hadn't used SRS at all?
+
+# in praise of orphan cards
+
+something interesting that happens now with anki:
+now that I've been using it for several months, I encounter cards that
+ask for _details_ of some idea that I've totally failed to memorize.
+
+To give an example from today, the question was something like "in
+logical induction, what is the type of a valuation feature?" And I was
+like "uhh, what's a valuation feature again?" Like, I have
+totally failed to internalize that idea. So then, asking what the type
+of it isn't even useful! Well, it _is_ useful because i couldn't
+answer it, so it gave me a cue to look back at it.
