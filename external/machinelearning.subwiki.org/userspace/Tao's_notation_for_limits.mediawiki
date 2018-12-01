@@ -1,0 +1,30 @@
+Tao's notation for a limit is <math>\lim_{x\to x_0;\, x\in E} f(x)</math>.
+
+Can we write this in a more standard way? basically, if we give one additional definition, we have the very appealing formula <math>\lim_{x\to x_0;\, x\in E} f(x) = \lim_{x\to x_0} f|_E(x)</math>.
+
+The additional definition is this: if <math>f : X \to \mathbf R</math>, then we define <math>\lim_{x\to x_0} f(x) := \lim_{x\to x_0;\, x \in X} f(x)</math>. In other words, by default we assume that the limit is taken over the entire domain of the function.
+
+Now, given <math>f : X \to \mathbf R</math> and some <math>E \subseteq X</math>, we have <math>f|_E : E \to \mathbf R</math>. Thus, <math>\lim_{x\to x_0} f|_E(x) = \lim_{x\to x_0;\, x \in E} f|_E(x)</math>.
+
+By exercise 9.4.6, <math>\lim_{x \to x_0;\, x\in E} f(x) = \lim_{x\to x_0;\, x\in E} f|_E(x)</math>
+
+Combining these two equalities, we have <math>\lim_{x \to x_0;\, x\in E} f(x) = \lim_{x\to x_0} f|_E(x)</math> as promised.
+
+Rather than thinking of this as a result per se, I think it's better to think of this as ''alternative notations''. Why might one prefer one notation over the other? I think the strength of Tao's notation is that it works for anonymous functions/expressions. To be able to use the function restriction notation <math>f|_E</math>, we must have named our function beforehand. To give an example, we can write something like <math>\lim_{x\to 0;\, x\in (0,\infty)} |x|/x = 1</math>, but this is difficult to write in the other notation; we would have to say something like, "Let <math>f:\mathbf R\setminus \{0\} \to \mathbf R</math> be defined by <math>f(x) := |x|/x</math>. Then we have <math>\lim_{x\to 0} f|_{(0,\infty)}(x) = 1</math>."
+
+An amusing fact/potential advantage of the function restriction notation is that one can write it in a ''point-free notation''. Namely, we can write <math>\lim_{x_0} f|_E</math>. Actually, even with Tao's notation we could have written <math>\lim_{x_0;\, E} f</math>.
+
+I think usually one would write the above like <math>\lim_{x\to 0+} |x|/x = 1</math>. So then one gets to keep anonymous functions, but at the expense of adding more complexity to the notation (one now needs to assign meaning to "<math>0+</math>").
+
+One should compare this to the function notation (<math>f'</math>) vs Leibniz notation (<math>\frac{d}{dx} f(x)</math>) for derivatives.
+
+{| class="sortable wikitable"
+|-
+! Notation !! Symbols !! Strengths !! Weaknesses
+|-
+| Tao's notation || <math>\lim_{x\to x_0;\, x\in E} f(x)</math> || Works with anonymous functions. || Somewhat verbose: the "<math>x\in E</math>" part must be written out each time.
+|-
+| Function restriction notation || <math>\lim_{x\to x_0} f|_E(x)</math> || Consistent with the standard notation. || Doesn't work with anonymous functions.
+|-
+| Standard notation || <math>\lim_{x\to x_0} f(x)</math> || Works with anonymous functions. || Set used in the limit does not appear in the notation, so one must assume some default set (such as the entire domain of the function) or introduce new notation for e.g. one-sided limits as e.g. <math>\lim_{x\to x_0+} f(x)</math> and <math>\lim_{x\to x_0-} f(x)</math>.
+|}
