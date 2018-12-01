@@ -323,3 +323,11 @@ denseness of reals. and now, i don't remember the exact statement
 archimedean?). and i don't even have anything about this in anki, so
 if i don't take action from randomly remembering this topic, i won't
 be nagged about it.
+
+# catching mistakes later on
+
+i sometimes catch mistakes in anki cards only after a while
+e.g. today i found that that in tao's definition of well-ordered set,
+he calls it min(Y), even though the minimal element should depend on
+the subset of Y, so should be called min(Z) or something (not all
+subsets of N have 0 as the minimal element, even though min(N) = 0).
