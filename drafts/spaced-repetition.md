@@ -257,3 +257,19 @@ phrases to cloze delete! i just sort of go by intuition, asking myself
 "is this part the 'essence'? is this the stuff i want to be quizzed
 on?" it is sort of just sub-verbal, gut instinct. so it is hard on
 that level.
+
+# high priority deck for material that gets processed on the day it is added
+
+I have a "high priority" anki deck.
+
+the problem i was having was that i kept adding more and more cloze
+deletions for interesting material i was reading (that wasn't
+necessarily important at the level of learning more about AI
+alignment), which made my "is:new" cards pile up to around 280, which
+would have taken me about two weeks to go through, so that cards i
+added would only be seen two weeks later.
+
+now that i have "everything" vs "high priority", i can keep adding
+cloze deletions and other random material i like into "everything",
+while keeping "high priority" for the math i'm learning and AI
+alignment material.
