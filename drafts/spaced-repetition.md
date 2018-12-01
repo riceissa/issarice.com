@@ -331,3 +331,17 @@ e.g. today i found that that in tao's definition of well-ordered set,
 he calls it min(Y), even though the minimal element should depend on
 the subset of Y, so should be called min(Z) or something (not all
 subsets of N have 0 as the minimal element, even though min(N) = 0).
+
+# big vs small cards
+
+over time, i've come to make my math anki cards much bigger than a
+simple query, where i actually have to write things down on paper most
+of the time. i think with super simple queries, you're not testing
+whether you can actually produce the whole definition. same with cloze
+deletions. it feels like you have little fragments in memory that are
+only there because of the context provided. you have no guarantee that
+you can actually write the whole thing down on command. maybe it's
+best to have _both_ kinds, where you start out with the easy
+fragments, and after you've mastered that, you're given the "full
+load" to memorize. but that seems tricky/time consuming to me, so i'm
+just going with the full load at the start.
