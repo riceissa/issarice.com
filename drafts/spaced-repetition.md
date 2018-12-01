@@ -282,3 +282,11 @@ come first. that way, i won't have any non-cloze cards hanging out in
 the back, being blocked by all the clozes i have. i can keep doing
 this periodically so that it will usually be the case that i only have
 a huge backlog of cloze deletions (and of nothing else).
+
+# effects on non-SRS memories of using SRS?
+
+does spaced repetition "force out" more memories that are not tracked
+using SRS? e.g. consider someone who reads a lot of news articles. If
+they start using SRS for math and japanese vocabulary and lesswrong
+articles, will they forget more news articles at a faster rate than if
+they hadn't used SRS at all?
