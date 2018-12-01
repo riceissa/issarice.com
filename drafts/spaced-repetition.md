@@ -194,3 +194,13 @@ the best. like it makes sure i actually know the whole thing.
 
 so my main takeaway i guess is that if review seems tedious, just skip
 the cards that make you struggle!
+
+# overfitting in anki
+
+i can tell when i am relying on the fact that a card is already in
+anki. like, my brain goes "oh yea that one" and gives the answer. but
+if i had seen the same "prompt" outside of anki, i would have to first
+make sure it /is/ the same prompt; i can't just go "oh yeah i know
+this", i have to make sure it really is like what i entered in anki.
+so this is a bit concerning. like, can i really apply what i've
+memorized in real life?
