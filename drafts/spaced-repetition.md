@@ -40,3 +40,19 @@ review interval crosses the limit.
 another thing i haven't seen discussed is how old people have worse
 memories. so an SRS should probably start _decreasing_ the
 interval as the user gets older.
+
+# shifting interests over time
+
+one danger with anki is that
+the stuff i need to remember now has changed a lot compared to what i
+was using anki for back in 2013 and 2014. This is possibly one reason
+why i stopped using anki. (back then, i hadn't figured out how to use
+it for math, other than memorizing integrals or trig identities or whatever.)
+i memorized a lot of
+things for classes, like literary techniques and spanish vocab. but
+these things have become unimportant to me.
+
+this also means that, if i want to keep using anki, i should liberally
+delete (or suspend) cards from my deck if i no longer need them. the goal is to
+keep using anki, and keeping bad cards makes that harder (because i'm
+less excited).
