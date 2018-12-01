@@ -115,3 +115,27 @@ thing, and never make the card?
 
 it's like, i want to retain this partial understanding too! but _do_ i
 want to retain this partial understanding?
+
+# flexibility of key-value pairs (or: against "anki can't be used for complex structures")
+
+i think people like to complain that anki is just key-value pairs, but
+consider the following:
+
+1. a deck with just (key1, value1), (key2, value2), ... where the different
+   pairs have nothing to do with each other.
+2. a deck with key-value pairs, where one key might talk about another
+   key, or a key might talk about the value of another key. In other
+   words, the key-value pairs have a greater structure about them.
+
+examples of (2) might be:
+
+- overlapping cloze deletions to memorize a list
+- a linked list, where key\_j asks "what is
+  key\_{j+1}
+- a tree, where some cards ask for _two_ things, left and right.
+
+My point is that using just key-value pairs, you can build way more
+complicated structures. if you look at just the front/back sides of
+anki cards _in isolation_ you will only see a dictionary. But if you
+look at a deck more holistically, you can start to see greater
+structure (in the decks that are made well).
