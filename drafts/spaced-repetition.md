@@ -86,6 +86,20 @@ to be done automatically... i don't want to have to put in all this
 effort to making my own cards, checking LaTeX formatting etc. etc. The
 cards really should just be "created at the speed of thought".
 
+the real kind of anki repetions i want
+are very dynamic, where e.g. i'm asked to prove the chain rule, and if
+i get stuck, it maybe asks a more basic question that's related. or it
+drills down into a specific part of the proof. or it digs into where
+exactly i'm confused, and makes more basic "cards" out of those. and
+these resulting "cards" might not even be about things i know well
+(i.e. it violates the "understand before you remember" rule from the
+20 rules).
+
+in short, it would be like having a conversation with somebody who
+knew a lot of math and could explain things well. and this person
+would be equipped with the review scheduling for the things i'm trying
+to learn.
+
 # forgetting surrounding parts
 
 one worry i have with anki
