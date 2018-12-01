@@ -1,6 +1,9 @@
 This might sound loony, but I think that viewed in a certain sense,
 UDT is the formalization of the veil of ignorance/"God is
 watching me"/karma intuition that many people have.
+What do I mean by this? Maybe something like "A person making
+decisions under the assumption that God is watching them acts more
+like a UDT agent than like a CDT agent."
 
 Gary Drescher talks about the veil of ignorance a bit in his book _Good and Real_;
 see also
