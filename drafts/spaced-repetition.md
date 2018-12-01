@@ -309,3 +309,17 @@ connect up to any other interest you have, so they feel isolated. but
 in my experience, orphan cards (when you _realize_ that a card is an
 orphan) are a signal to you that you _can_ add more cards surrounding
 it, to strengthen that topic.
+
+for some results in analysis, i haven't bothered to even put in
+fragments. for these, it is extremely easy to just forget _everything_
+about it. on the other hand, if i enter an "orphan" card about this
+topic, it will basically nag me to come and enter in more related
+cards! So i think this is a sense in which orphan cards are good.
+
+specific example: i didn't enter in many cards about things like
+denseness of reals. and now, i don't remember the exact statement
+(does it work for any interval?), i don't remember the proof
+(something something use the version for rationals or use
+archimedean?). and i don't even have anything about this in anki, so
+if i don't take action from randomly remembering this topic, i won't
+be nagged about it.
