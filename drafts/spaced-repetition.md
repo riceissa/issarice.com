@@ -204,3 +204,15 @@ make sure it /is/ the same prompt; i can't just go "oh yeah i know
 this", i have to make sure it really is like what i entered in anki.
 so this is a bit concerning. like, can i really apply what i've
 memorized in real life?
+
+# confirmation bias
+
+For storing ideas/quotes, i wonder if i am biased toward storing sentences in anki that i agree with,
+so then i end up in a nasty process where i am remembering only
+sentences i agree with. i should say that i _do_ store sentences i
+find only "interesting" without necessarily agreeing or disagreeing
+with it. sort of like, i just want to keep this sentence in my mind to
+play with, so that i may discover its truth or falsefood as i gain more experience.
+but i don't think i've entered anything i actively disagree with. and
+i'm not sure i should, but it seems like that could combat some sort
+of confirmation bias problem.
