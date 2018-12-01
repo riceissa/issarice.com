@@ -216,3 +216,12 @@ play with, so that i may discover its truth or falsefood as i gain more experien
 but i don't think i've entered anything i actively disagree with. and
 i'm not sure i should, but it seems like that could combat some sort
 of confirmation bias problem.
+
+# reframing getting a card wrong
+
+is it really a bad thing to get a card wrong in anki?
+normally one thinks "i got this card wrong, oops, i am forgetting".
+
+but it seems to me that another way to think about this is "wow, nice,
+anki saved me again. without it, i definitely would have forgotten
+this fact forever. but thankfully, i am forced to return to it."
