@@ -1,4 +1,4 @@
-some notes on spaced repetition.
+some notes/musings/tips on spaced repetition.
 
 # brief timeline of my usage
 
