@@ -273,3 +273,12 @@ now that i have "everything" vs "high priority", i can keep adding
 cloze deletions and other random material i like into "everything",
 while keeping "high priority" for the math i'm learning and AI
 alignment material.
+
+# repositioning non-cloze cards periodically so they get processed sooner
+
+since most of my is:new cards in anki are clozes, i decided to move
+all the non-cloze cards to the beginning of the new card pile, so they
+come first. that way, i won't have any non-cloze cards hanging out in
+the back, being blocked by all the clozes i have. i can keep doing
+this periodically so that it will usually be the case that i only have
+a huge backlog of cloze deletions (and of nothing else).
