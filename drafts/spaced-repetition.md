@@ -324,13 +324,40 @@ archimedean?). and i don't even have anything about this in anki, so
 if i don't take action from randomly remembering this topic, i won't
 be nagged about it.
 
-# catching mistakes later on
+# catching mistakes later on/spaced repetition feedback is spaced
 
 i sometimes catch mistakes in anki cards only after a while
 e.g. today i found that that in tao's definition of well-ordered set,
 he calls it min(Y), even though the minimal element should depend on
 the subset of Y, so should be called min(Z) or something (not all
 subsets of N have 0 as the minimal element, even though min(N) = 0).
+actually, it was only when i wrote the _intended_ definition _myself_ and compared
+it to Tao's that i realized mine was right!
+
+people praise fast feedback loops, but one thing to realize with
+spaced repetition software like anki is that the feedback is spaced in
+a way. you can't tell if you're memorizing things well until it's like
+5 months after you've added the card. or take my series test cards; i
+didn't realize the subtleties of requiring the sequence to be
+nonincreasing or nonnegative for different tests until a couple weeks
+after i'd added the cards -- before now, everything would sort of have
+been in my "fresh" mind. it's only after i've forgotten the context
+sufficiently that i can appreciate these subtle hypotheses in the
+theorem statements -- and only because i've added these as cards!
+makes you wonder, what subtleties am i missing by not adding something
+to anki and seeing _in what manner_ i forget the details.
+
+i've caught mistakes in my cards only some
+time _after_ i first added them (see example above). it's like it takes some longer amount
+of time (like a couple weeks) for the context to be sufficiently lost
+that you actually need to process the whole thing as a new thing again, and when that
+happens it's like you "bust the cache".
+
+on the other hand, some feedback _is_ immediate. if your card is too
+big for example, you will notice on that same day, or a couple days
+later.
+
+I'm not sure if there is a way to speed up the feedback you get.
 
 # big vs small cards
 
