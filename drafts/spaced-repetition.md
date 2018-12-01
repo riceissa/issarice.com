@@ -100,3 +100,18 @@ parts of the subject (i.e. the parts that haven't been ankified).
 
 Feynman says that one can ["triangulate"](https://www.quora.com/Do-grad-school-students-remember-everything-they-were-taught-in-college-all-the-time/answer/Mark-Eichenlaub)
 as one gains expertise, to fill in the missing parts.
+
+# whether to retain partial understanding
+
+sometimes, i'm only somewhat sure of a mathematical fact, and i don't
+want to make a card for it and commit it to memory until i figure out
+better whether it is true or not.
+
+e.g. with aumann agreement, there are lots of things i figured out,
+but also where i'm not certain my interpretation is correct. so
+i don't want to start making lots of cards _yet_. but what if i never
+figure it out? what if now i get bored of this and move on to another
+thing, and never make the card?
+
+it's like, i want to retain this partial understanding too! but _do_ i
+want to retain this partial understanding?
