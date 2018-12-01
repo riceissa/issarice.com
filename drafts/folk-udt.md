@@ -35,7 +35,7 @@ while bad intent and bad deeds contribute to bad karma and future suffering."
 But how does mere intent cause future outcomes? Through simulations of you in the minds
 of predictors!
 
-I am not suggesting that karma/"God is watching" me are useful concepts to work with,
+I am not suggesting that karma/"God is watching me" are useful concepts to work with,
 once one already has UDT. But I do think the connection is interesting.
 Actually, before UDT, one might have rightly used some sort of Chesterton's fence-type
 argument in favor of these intuitions (instead of just using something like CDT).
