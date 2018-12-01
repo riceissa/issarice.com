@@ -85,3 +85,18 @@ maybe the more important point is that i'd like this anki stuff
 to be done automatically... i don't want to have to put in all this
 effort to making my own cards, checking LaTeX formatting etc. etc. The
 cards really should just be "created at the speed of thought".
+
+# forgetting surrounding parts
+
+one worry i have with anki
+is that i will remember the specific question-answer pairs for a long
+time, but that as time goes on, i will remember _only_ those, and will
+forget the general subject. so i might remember the intuition behind
+newton's approximation, but i won't know how to apply it or won't
+remember that it's useful in proving the chain rule. it's hard to
+detect the things i forget. and right now, if a subject is still fresh
+in my mind, it's not obvious to me that i will forget these "filler"
+parts of the subject (i.e. the parts that haven't been ankified).
+
+Feynman says that one can ["triangulate"](https://www.quora.com/Do-grad-school-students-remember-everything-they-were-taught-in-college-all-the-time/answer/Mark-Eichenlaub)
+as one gains expertise, to fill in the missing parts.
