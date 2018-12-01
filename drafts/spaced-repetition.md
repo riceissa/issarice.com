@@ -56,3 +56,25 @@ this also means that, if i want to keep using anki, i should liberally
 delete (or suspend) cards from my deck if i no longer need them. the goal is to
 keep using anki, and keeping bad cards makes that harder (because i'm
 less excited).
+
+# spaced repetition for problems
+
+something i want
+is this sort of problem solving review system, like anki. but instead
+of these basic flash cards, i'm presented with a problem to solve. the
+problem could be new, or it could be one i've seen before, or it could
+be a variation on one i've seen before. and the idea is to keep me
+sharp so i don't forget how to solve problems i've learned how to
+solve.
+
+maybe this sort of thing is possible using a separate anki deck with
+custom spacing parameters. i think it would be annoying if i was asked
+to solve the same problem 1 day later or 4 days later or whatever (at
+the initial stages). so maybe the deck would be customized so that
+even in the beginning ("learning stages" of the card) i would only be
+shown the same problem after a week or more.
+
+maybe the more important point is that i'd like this anki stuff
+to be done automatically... i don't want to have to put in all this
+effort to making my own cards, checking LaTeX formatting etc. etc. The
+cards really should just be "created at the speed of thought".
