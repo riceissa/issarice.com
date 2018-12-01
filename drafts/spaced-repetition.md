@@ -172,3 +172,25 @@ i'm not sure how this compares to anki. i guess the anki algorithm is
 more efficient and you only test small things each time. but on the
 other hand, entering things into anki takes more time than just
 flipping back in a book.
+
+# burying cards to speed up review (technique for avoiding accumulation of reviews)
+
+one day i got busy reading things and so procrastinated on doing my anki
+reviews. finally it was nearing 1am and i'm like "ugh, well maybe i
+can just do the ones that don't require a pencil and paper, and just
+bury the cards that require paper". i did that, and ended up spending
+only 14 mins on reviews, and reviewed 94 cards. the reviews felt
+really easy too! i guess maybe the ones that require writing are just
+much harder or something. or maybe the transition from screen to paper
+to screen is somehow bad on my attention? it's pretty weird how easy
+the review felt.
+
+On the other hand, i really don't know how to convert the pencil-paper cards to
+_not_ use paper. for example, i just don't trust myself to write kanji
+"in my head" and be able to check with the answer. same with
+complicated definitions (e.g. nested quantifiers). for these cases, i
+think my current system (where i test the whole definition at once) is
+the best. like it makes sure i actually know the whole thing.
+
+so my main takeaway i guess is that if review seems tedious, just skip
+the cards that make you struggle!
