@@ -153,3 +153,22 @@ complicated structures. if you look at just the front/back sides of
 anki cards _in isolation_ you will only see a dictionary. But if you
 look at a deck more holistically, you can start to see greater
 structure (in the decks that are made well).
+
+# manual spacing for math
+
+here's another spacing idea for learning math:
+work for five days through a book, and then on the sixth day (say) you
+go back to review the things you studied on the first day and try to
+do the problems there (especially the hard ones). And on the seventh
+day, you do that for what you studied the second day, and so on. So
+after a while, each day you learn new things plus review what you did
+five days ago. And then, maybe you also review what you did fourteen
+days ago as well (after the fourteenth day). The idea is that you keep
+adding reviews from days reaching back more into the past, but that
+the review should take less time each round, so your total study time
+shouldn't keep increasing.
+
+i'm not sure how this compares to anki. i guess the anki algorithm is
+more efficient and you only test small things each time. but on the
+other hand, entering things into anki takes more time than just
+flipping back in a book.
