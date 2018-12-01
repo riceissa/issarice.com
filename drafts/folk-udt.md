@@ -4,7 +4,8 @@ watching me" intuition that many people have. (Gary Drescher
 talks about the middle one a bit in his book _Good and Real_.)
 
 For "God is watching me", see some of Joe Henrich's papers, e.g.
-<https://www.nature.com/articles/nature16980>:
+["Moralistic gods, supernatural punishment and the expansion of
+human sociality"](https://www.nature.com/articles/nature16980):
 
 > Here we focus on one key hypothesis: cognitive representations of gods as
 > increasingly knowledgeable and punitive, and who sanction violators of
