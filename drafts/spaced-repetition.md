@@ -303,3 +303,9 @@ like "uhh, what's a valuation feature again?" Like, I have
 totally failed to internalize that idea. So then, asking what the type
 of it isn't even useful! Well, it _is_ useful because i couldn't
 answer it, so it gave me a cue to look back at it.
+
+michael nielsen likes to hate on orphan cards because they don't
+connect up to any other interest you have, so they feel isolated. but
+in my experience, orphan cards (when you _realize_ that a card is an
+orphan) are a signal to you that you _can_ add more cards surrounding
+it, to strengthen that topic.
