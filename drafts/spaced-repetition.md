@@ -14,6 +14,13 @@ paper, and can return to it again when i get excited. so it allows for
 "parallel reading", which is something i like to do but i wasn't so
 good at before (due to forgetting things).
 
+# learning things to use later
+
+with spaced repetition it becomes possible to learn things just because
+they seem interesting. without some sort of review mechanism, there is
+the danger that one learns it "just because" but then forgets it soon
+because it's not used for anything.
+
 # creating front and back side separately
 
 as i'm reading something and come up with questions, those
