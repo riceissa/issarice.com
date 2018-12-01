@@ -22,3 +22,8 @@ divine control reduce earthly punishment"](https://coevolution.fas.harvard.edu/f
 See also Carl's post
 <http://lesswrong.com/lw/hqs/why_do_theists_undergrads_and_less_wrongers_favor/>
 
+For karma, "Good intent and good deeds contribute to good karma and future happiness,
+while bad intent and bad deeds contribute to bad karma and future suffering."
+(from [Wikipedia](https://en.wikipedia.org/wiki/Karma))
+But how does mere intent cause future outcomes? Through simulations of you in the minds
+of predictors!
