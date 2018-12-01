@@ -243,3 +243,17 @@ this, and since it had been a while, i realized i didn't even know
 what x was! This sort of thing is hard to anticipate. So i wrote (on paper) a
 question asking what x was, and looked it up in the book, and added
 the same question as a new anki note.
+
+# difficulty of using anki at the conscious vs subconscious levels
+
+i feel like learning to use anki is hard at the conscious level as
+well as the unconscious. in the former, you have to learn the
+software, memorize the basic ontology and the "20 rules" for making
+good flash cards, etc. it's a lot of conscious knowledge to accumulate
+and incorporate. but also at the unconscious (or maybe sub-verbal
+conscious) level, it is hard, because you must develop a good
+aesthetic. i don't know the exact algorithm i use for picking which
+phrases to cloze delete! i just sort of go by intuition, asking myself
+"is this part the 'essence'? is this the stuff i want to be quizzed
+on?" it is sort of just sub-verbal, gut instinct. so it is hard on
+that level.
