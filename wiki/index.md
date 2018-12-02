@@ -80,6 +80,11 @@ Here are some activity feeds that track what I've been working on:
   revision](all-pages)
 - [Recent changes on the Cause Prioritization
   Wiki](https://causeprioritization.org/_activity)
+- My recent [comments](https://www.greaterwrong.com/users/riceissa?show=comments)
+  and [posts](https://www.greaterwrong.com/users/riceissa?show=posts) on LessWrong
+- My recent [comments](https://ea.greaterwrong.com/users/riceissa?show=comments)
+  and [posts](https://ea.greaterwrong.com/users/riceissa?show=posts) on the
+  Effective Altruism Forum
 - [Contributions to LessWrong
   Wiki](https://wiki.lesswrong.com/wiki/Special:Contributions/Riceissa)
 - [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)
