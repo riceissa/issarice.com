@@ -55,12 +55,14 @@ I spent most of the month learning about things related to AI alignment. I
 started a new [blog](https://issarice.wordpress.com/) to track updates on this
 front.
 
-For previously monthly updates, see the [archive of my monthly updates]().
+For previous monthly updates, see the [archive of my monthly updates]().
 
 # Activity feeds
 
 Here are some activity feeds that track what I've been working on:
 
+- My [daily updates blog](https://issarice.wordpress.com/), which tracks my
+  learning related to AI safety
 - My GitHub [contribution activity](https://github.com/riceissa), including my
   [commits to this website's
   repository](https://github.com/riceissa/issarice.com/commits/master)
