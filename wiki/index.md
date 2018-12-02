@@ -36,20 +36,26 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
-# Summary of what I worked on: October 2018 {#summary}
+# Summary of what I worked on: November 2018 {#summary}
 
 For completed tasks, see the [work]() page.
 
 I spent some time adding to Vipul Naik's Learning Subwiki. You can see
-[my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=10).
+[my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=11).
 
-I spent some time writing some [pages](https://machinelearning.subwiki.org/w/index.php?limit=40&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2018&month=10)
-on Vipul Naik's Machine Learning Subwiki, although the pages are mostly in my
-userspace and are not related to machine learning. (The wiki was just a
-convenient place to store the writings for now.)
+I learned about the GraphQL API (used on the new LessWrong 2.0 and EA Forum),
+and wrote a simple reader for both [LessWrong 2.0](https://lw2.issarice.com/)
+and [EA Forum](https://eaforum.issarice.com/). The source code is available on
+[GitHub](https://github.com/riceissa/ea-forum-reader). I am also writing a
+[tutorial](https://github.com/riceissa/ea-forum-reader/blob/master/tutorial.md)
+because I found the learning process pretty painful and want to help other
+people use the API.
 
-I spent most of the month learning about things related to AI alignment.
-(I am still wondering how best to make progress on this more visible.)
+I spent most of the month learning about things related to AI alignment. I
+started a new [blog](https://issarice.wordpress.com/) to track updates on this
+front.
+
+For previously monthly updates, see the [archive of my monthly updates]().
 
 # Activity feeds
 
