@@ -372,3 +372,11 @@ best to have _both_ kinds, where you start out with the easy
 fragments, and after you've mastered that, you're given the "full
 load" to memorize. but that seems tricky/time consuming to me, so i'm
 just going with the full load at the start.
+
+# experiments I should try
+
+- entering in cards for some definitions/theorems in a single card,
+  and for some as multiple cards, and seeing which are more fun to
+  review/result in remembering things better.
+- mixing in reviews during the day rather than doing all reviews at
+  night.
