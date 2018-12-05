@@ -1,0 +1,32 @@
+Understanding a definition in mathematics is a pretty complicated and laborious process. The following table summarizes some of the things one might do when trying to understand a new definition.
+
+{| class="sortable wikitable"
+|-
+! Step !! Condition !! Description !! Purpose !! Example
+|-
+| Type-checking and parsing ||
+|-
+| Checking assumptions of objects introduced || || Remove or alter each assumption of the objects that have been introduced in the definition to see why they are necessary.
+|-
+| Come up with examples || || Come up with some examples of objects that fit the definition. Emphasize edge cases. || Examples help to train your intuition of what the object "looks like". || For monotone increasing functions, an edge case would be the constant function.
+|-
+| Come up with counterexamples ||
+|-
+| Writing out a wrong version of the definition || || || || See [https://gowers.wordpress.com/2011/09/30/basic-logic-quantifiers/ this post] by Tim Gowers (search "wrong versions" on the page).
+|-
+| Understand the kind of definition || || Generally a definition will do one of the following things: (1) it will construct a brand new type of object (e.g. definition of a ''function''); (2) it will take an existing type of object and create a predicate to describe some subclass of that type of object (e.g. take the integers and create the predicate ''even''); (3) it will define an operation on some class of objects (e.g. take integers and define the operation of ''addition'').
+|-
+| Check that it is well-defined || If the definition defines an operation ||
+|-
+| Check consistency with existing definition || If the definition supersedes an older definition or it clobbers up a previously defined notation || || || Addition on reals after addition on rationals have been defined.<br/><br/>For any function <math>f:X\to Y</math> and <math>U\subset Y</math>, the inverse image <math>f^{-1}(U)</math> is defined. On the other hand, if a function <math>f : X\to Y</math> is a bijection, then <math>f^{-1} : Y \to X</math> is a function, so its forward image <math>f^{-1}(U)</math> is defined given any <math>U\subset Y</math>. We must check that these two are the same set (or else have some way to disambiguate which one we mean).
+|-
+| Disambiguate similar-seeming concepts || || || The idea is that sometimes, two different definitions "step on" the same intuitive concept that someone has. || (Example from Tao) "Disjoint" and "distinct" are both terms that apply to two sets. They even sound similar. Are they the same concept? Does one imply the other? It turns out, the answer is "no" to both: <math>\{1,2\}</math> and <math>\{2,3\}</math> are distinct but not disjoint, and <math>\emptyset</math> and <math>\emptyset</math> are disjoint but not distinct.<br/><br/>Partition of a set vs partition of an interval.
+|}
+
+==See also==
+
+* [[Understanding theorems]]
+
+==External links==
+
+* https://www.maa.org/node/121566 lists some other steps for both theorems and definitions

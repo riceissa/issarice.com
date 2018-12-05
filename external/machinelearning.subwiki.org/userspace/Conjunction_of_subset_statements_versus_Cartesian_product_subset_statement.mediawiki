@@ -1,0 +1,41 @@
+This is an exercise from Tao's ''Analysis I'' (exercise 3.5.6) and from Munkres's ''Topology'' (exercise 1.1.2(k)–(l)). It is an exercise that makes apparent some of the subtleties of the basic logic used in math.
+
+The exercise is to consider the sets <math>A,B,C,D</math> and the two statements:
+
+# <math>A \subseteq C</math> and <math>B \subseteq D</math>; and
+# <math>A\times B \subseteq C\times D</math>;
+
+and to ask whether one implies the other (or whether the two statements are equivalent).
+
+==Relationship between the statements==
+
+In general, (1) implies (2). In other words, if <math>A \subseteq C</math> and <math>B \subseteq D</math>, then <math>A\times B \subseteq C\times D</math>.
+
+If <math>A</math> and <math>B</math> are nonempty sets, then (1) and (2) are logically equivalent. In other words, <math>A \subseteq C</math> and <math>B \subseteq D</math> if and only if <math>A\times B \subseteq C\times D</math>.
+
+If <math>A</math> and <math>B</math> are both empty, then (1) and (2) are logically equivalent; in fact, they are both true.
+
+==Each statement written out in first-order logic==
+
+# <math>\forall x (x \in A \implies x \in C) \wedge \forall y (y \in B \implies y \in D)</math>
+# <math>\forall x \forall y ((x \in A \wedge y \in B) \implies (x \in C \wedge y \in D))</math>
+
+==Erroneous general proof==
+
+Here is an erroneous general proof that (2) implies (1).
+
+'''Exercise'''. Identify the error in the proof.
+
+{{collapsible solution|blah}}
+
+==Counterexample==
+
+Here is a counterexample that shows that in general, (2) does not imply (1). Let <math>A := \{1\}</math>, <math>B := \emptyset</math>, <math>C := \emptyset</math>, and <math>D := \{1\}</math>. Then
+
+<math display="block">A\times B = \{1\}\times \emptyset =\emptyset \subseteq \emptyset = \emptyset \times \{1\} = C \times D</math>
+
+but 
+
+<math display="block">A = \{1\} \not\subseteq \emptyset = C</math>
+
+Thus (2) is true but (1) is false.

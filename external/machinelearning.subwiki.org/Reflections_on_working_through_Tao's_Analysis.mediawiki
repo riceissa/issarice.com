@@ -1,0 +1,36 @@
+Some thoughts I've had while working through Tao's ''Analysis I'' (and probably soon ''Analysis II'').
+
+* Notational pedantry: I like how Tao almost always introduces variables by explicitly naming their type. Even after having used <math>X</math> to denote a subset of the reals throughout a chapter, he still begins each definition (that uses some subset of the reals) with "Let <math>X</math> be a subset of the real line" (or similar). I had seen some other mathematicians like Tim Gowers say [https://gowers.wordpress.com/2011/10/07/basic-logic-tips-for-handling-variables/ "''Always introduce your variables to the reader before going on to talk about them''"], but in my experience most writers don't actually follow through on this. Vipul complains about the usual mathematical practice [https://whatisresearch.wordpress.com/2006/06/29/the-eighty-page-paper-begins/ here].
+:Similarly, I like how Tao generalizes notation like that of limits to <math>\lim_{x\to x_0;\, x\in E} f(x)</math>, where the "<math>x\in E</math>" allows us to pass in a separate set <math>E</math>. This allows us to define e.g. left and right limits separately.
+:Similarly, he never writes <math>(a_n)</math>, which many people do (and which leaves the bound variable <math>n</math> looking like a free variable).
+* Definition, example, theorem, proof: I had previously thought that I didn't like this style of writing mathematical texts, but somehow I like it in this text, so that tells me I need to introspect on this practice more, to see what specifically I like/don't like about it.
+* At each theorem, check necessity of hypotheses. Two ways of doing this: (1) remove each hypothesis individually to see that the theorem doesn't hold by coming up with counterexamples; (2) in the proof of the theorem, point out where each hypothesis is being used.
+* At each definition, give both positive and negative examples. (I wish there was more of an emphasis on giving "edge cases" though.)
+* Using "iff" instead of "if" in definitions.
+* If a definition that introduces other variables, check the assumptions about those variables. example: why does <math>x_0</math> need to both be in <math>X</math> and be a limit point of <math>X</math>. (see remark 9.3.11 for another example)
+* For each definition of an operation, check that it is well-defined.
+* For each "superseding" definition, check consistency with old definition. examples: addition defined on reals, after we have defined addition on rationals. Infinite/arbitrary cartesian product, after we have defined finite cartesian product.
+* For each definition that "clobbers up" a notation, check consistency with old definition (See inverse image for functions).
+* Definitions: Disambiguate similar-seeming concepts: example of distinct vs disjoint set. strictly monotone vs monotone (one implies the other, but the converse doesn't hold).
+* "(Why?)": this feels similar to a [https://docs.python.org/3/library/exceptions.html#NotImplementedError "not implemented"] error in programming. it's also like the usual practice of breaking things off to lemmas, to make a proof more modular.
+* rolling up concepts to make them more processable: epsilon-close, epsilon-adherent, continually epsilon-close, etc. see gowers blog post as well, where he does this for the definition of limit of a sequence.
+* psychologically speaking, I prefer "''Proof''. See Exercise n.m.p." to a textbook just ''mentioning'' a result in passing and using it, or just jumping in and using it without proof. I think I like seeing the formal statement of the result. Also, i think many books just don't even mention the proposition in the text -- they just put the whole thing in the exercises. but i like having at least the proposition in the main text, with a pointer to the exercise.
+
+Some things I sort of didn't like:
+
+* when defining the integers, rationals, and reals, he uses the equality symbol rather than the equivalence symbol, which makes checking that operations are well-defined a bit confusing; see post by gowers on gunctions.
+* hints too close to the exercise statement.
+* excessive use of numbers to refer to past results. this was actually good for exercise hints but not good for other things.
+* I sort of find amusing that the errata for the text is so long. Is this a fact about mathematics in general? about analysis in particular? about Tao (e.g. perhaps the way he writes in LaTeX)? But none of the errors seem very "serious" (in the sense that they can be patched up quickly/locally); this seems like an instance of the phenomenon discussed in https://www.gwern.net/The-Existential-Risk-of-Mathematical-Error
+* i wish there was a solutions manual for the text.
+* for definitions that he states using his idiosyncratic terminology, i wish he gave the equivalent (more standard) way of phrasing it as well. (he does this for a while, but gives up for e.g. definition 9.9.2)
+* there are no pictures in the text. in fact, at several points during the text, Tao remarks how wonderful it is that we can do everything analytically without relying on geometry. The best we get is the piston analogy for sup/limsup.
+* i wish he gave more intuition/ways why a result is obvious: two examples i can think of are (1) his proof of the Cauchy condensation test, where the result is obvious if you write out the series, whereas Tao dives straight into a proof; and (2) when he proves proposition 4.3.7(h) just using algebra, whereas it's obvious if you draw a picture.
+* i wish he did more of the gowers thing of writing out wrong definitions and seeing why they are wrong. see also vipul's pages on error-spotting exercises.
+
+==External links==
+
+I've written about this sort of thing in some other places and I should consolidate/organize these all at some point.
+
+* https://issarice.com/math-explanations
+* https://issarice.com/difficulty-of-math
