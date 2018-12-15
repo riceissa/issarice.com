@@ -307,6 +307,24 @@ the [The Consequentialism FAQ](https://web.archive.org/web/20141231113651/http:/
 
 # Depression
 
+As of late 2018, my basic take on depression:
+
+- While I was depressed, depression sometimes seemed like a pretty interesting
+  mental state to be in.  However, now that I have been not depressed for a
+  long time, looking back, I see that depression was not an interesting mental
+  state after all.  That is to say, you should try to escape the depressed
+  state as soon as possible!
+- Despite being a "materialist" (in the consciousness sense), I think I didn't
+  take materialism seriously enough, and in my day-to-day life, I was still
+  implicitly acting like a dualist.  Specifically, I wasn't acting as if things
+  like sleep, a good diet, being hydrated, and exercise were important.
+- In my case, I think my depression was primarily due to being stuck in school
+  and not taking care of myself (see previous bullet point).
+
+---
+
+old version:
+
 High school can be a source of depression, since it is essentially
 [child abuse].  Depression can in turn cause other problems.  I'm not
 really an expert on the topic, but you can read my page on
