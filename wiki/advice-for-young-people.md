@@ -512,28 +512,17 @@ Some books I have enjoyed:
 
 # Extracurriculars
 
-It's very difficult to completely ignore the mainstream approach, to
-extracurriculars, especially if one lacks imaginative or creative approaches
-(I think this leads many people to think that doing sports, practicing an
-instrument, becoming a club leader, etc., are the best use of one's
-extracurricular time, or even *necessary* to ensure success in college
-applications, etc.)
+My basic 2018 stance on extracurriculars:
 
-If one wants to attend an elite college (and there are quite a few
-good reasons for doing so), then following this path may be a good
-idea (though still, it's always important to distinguish oneself).
-
-That said, basically most of the extracurriculars people do in high school are
-essentially useless in terms of building long-term skills and value.
-
-It might sound nice to be "the best at something", but really, is all the work
-really worth it? A top contest math student might well [spend 1000 to 2000
-hours](https://www.quora.com/How-much-time-does-the-average-USAMO-qualifier-spend-preparing-specifically-for-math-contests)
-preparing for contests, but is all the work really worth it in the end? It's
-always instructive to ask yourself: is there something I can do that is both
-fulfilling *and* important for the world (actually produces value)? Examples
-might include: doing research (especially online content creation, e.g. adding
-to [Wikipedia]()) and programming (especially writing free software).
+- I think almost all extracurricular activities, especially the common ones
+  (sports, practicing an instrument, becoming a club leader), are intrinsically
+  (i.e., ignoring signaling benefits) useless in the long run.
+- If you feel like you are being left behind by your peers by not doing
+  respectable extracurriculars, then try as much as possible to ignore this
+  social aspect of your environment.  Ignoring one's social environment is a
+  useful skill to learn.
+- If one wants to attend an elite college, then doing respectable
+  extracurriculars may be worth the cost.
 
 See also "[Chinese loses math face-off to U.S.](http://www.cnn.com/2015/08/05/china/us-defeat-china-math-olympiad/)":
 
