@@ -696,20 +696,8 @@ several aspects to this:
 - Hardware.  I don't actually know much about computer hardware, and my current
   impression is that I haven't lost out on much by not knowing.
 
-# Other ideas---expanding your imagination
+# People
 
-Alex K. Chen often talks about the important of [expanding your
-imagination of what's possible][expand].  Here I'll provide some of my
-thoughts on how best to do that, in particular by giving examples of
-things that have expanded my imagination.  In general, the best way to
-do this is to just *read a lot* of things from a *very diverse set of
-places*, and to interact with a lot of people as well.  It really helps
-if you have a lot of friends who are into the newest things, because you
-can learn a lot about the most exciting things that are happening.
-
-[expand]: https://www.quora.com/What-is-the-best-advice-you-can-give-to-someone-attending-their-first-year-at-a-university/answer/Alex-K-Chen
-
-- Cognito Mentoring in general
 - Here's a list of people you should look into (and read as much of what
   they say as you can stand); bolding indicates people I particularly
   recommend:
@@ -757,6 +745,21 @@ can learn a lot about the most exciting things that are happening.
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
     - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
+
+# Other ideas---expanding your imagination
+
+Alex K. Chen often talks about the important of [expanding your
+imagination of what's possible][expand].  Here I'll provide some of my
+thoughts on how best to do that, in particular by giving examples of
+things that have expanded my imagination.  In general, the best way to
+do this is to just *read a lot* of things from a *very diverse set of
+places*, and to interact with a lot of people as well.  It really helps
+if you have a lot of friends who are into the newest things, because you
+can learn a lot about the most exciting things that are happening.
+
+[expand]: https://www.quora.com/What-is-the-best-advice-you-can-give-to-someone-attending-their-first-year-at-a-university/answer/Alex-K-Chen
+
+- Cognito Mentoring in general
 
 - Eschewing the mainstream: how to ignore implicit (and explicit) social
   pressures?  How to ignore for example pressure to complete homework
