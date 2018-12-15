@@ -486,9 +486,9 @@ One useful skill to have is identifying useful content online (something that
 is not taught in schools).  Here are some places to check out:
 
 - [My guide on reddit](http://info.cognitomentoring.org/wiki/Using_reddit)
-- Quora/LW/EA/SSC
-- More given in "Other ideas—expanding your imagination" section
-- For maximum transparency, I've released [my Atom/RSS subscriptions](https://issarice.com/urls.txt) (with some confidential URLs removed) publicly.
+- For maximum transparency, I've released [my Atom/RSS
+  subscriptions](https://issarice.com/urls.txt) (with some confidential URLs
+  removed) publicly.
 
 # Books
 
