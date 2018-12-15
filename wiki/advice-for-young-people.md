@@ -693,6 +693,8 @@ several aspects to this:
   the future if I do work that is more intensive on this front.
 - Familiarity with many websites/the internet.
 - Unix tools/command line.
+- Hardware.  I don't actually know much about computer hardware, and my current
+  impression is that I haven't lost out on much by not knowing.
 
 # Other ideas---expanding your imagination
 
