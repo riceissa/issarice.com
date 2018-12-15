@@ -22,7 +22,7 @@ introductory paragraph for [Cognito Mentoring]():
 While the [Cognito Mentoring info wiki][CM_wiki] provides excellent
 general advice, here I hope to give more specialized advice; in
 particular, this page is tailored toward my past self, and documents
-advice that I wish I had gotten while I was in high school.  Therefore
+advice/"cheat codes"/"redpills" that I wish I had gotten while I was in high school.  Therefore
 this page is unlikely to suit most people (since the target audience is
 my past self, and I tend to be unusual by most standards).  Another way
 to describe this page is to say it is a list of all the things that have
