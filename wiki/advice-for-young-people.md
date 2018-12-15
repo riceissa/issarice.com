@@ -30,7 +30,11 @@ profoundly influenced and inspired me up to this point.  Yet another
 description of this page: it's my attempt to counter the farce that is
 present-day "liberal arts education" (which aims to help people develop
 "critical thinking"); I want to give my own version of a **true liberal
-arts education**. As such, you should expect it to take several years to actually absorb most of the content on this page, if you actually take advantage of the opportunities (by exploring all the sites I link to, reaching out to people, going out and actually doing things that are suggested, and so on).
+arts education**. As such, you should expect it to take several years to
+actually absorb most of the content on this page, if you actually take
+advantage of the opportunities (by exploring all the sites I link to, reaching
+out to people, going out and actually doing things that are suggested, and so
+on).
 
 [CM_wiki]: http://info.cognitomentoring.org/wiki/Main_Page
 
