@@ -476,43 +476,23 @@ is not taught in schools).  Here are some places to check out:
 
 # Books
 
-Books are declining in relative importance because of the internet and
-its plethora of blogs.  Books also tend to be old, and, more
-detrimentally, have a slow feedback loop (i.e. on a website, errors can
-be corrected quickly, whereas with books it may take years---and the
-corrections only appear on the new editions).  Nevertheless, some books
-are very much worth reading.
+As of late 2018, my basic view on books is that books are pretty useful, and
+there are some great books out there, but books tend to be overrated by
+intellectualist types (but, strangely, underrated among the people I interact
+with most).  I think one ought not weight books more heavily owing to their
+length; treat them kind of like blog posts.  To read a book, don't read it
+cover to cover; rather, skim it and try to find something interesting in it. If
+there is nothing interesting in the book, just toss it.  Unless a book is
+really good, if you are reading it cover to cover, you are doing it wrong.
 
-Start with [Cognito Mentoring's recommendations][cm books].
-
-[cm books]: http://info.cognitomentoring.org/wiki/Core_reading_recommendations
-
-Some other books to look into (I haven't read some of these):
+Some books I have enjoyed:
 
 - Dawkins's *Selfish Gene*
-- Douglas Hofstadter's *Gödel, Escher, Bach*[^ey]
 - Bryan Caplan's *[Selfish Reasons to Have More Kids](http://deletionpedia.org/en/Selfish_Reasons_to_Have_More_Kids)*
     - See also [an overview](http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/) on [LessWrong]()
-- Judith Harris Rich's *The Nurture Assumption* and *No Two Alike*
-- *The App Generation* by Howard Gardner and Katie Davis
-- *Uncharted: Big Data as a Lens on Human Culture* by Erez Aiden and Jean-Baptiste Michel
-- *Hatching Twitter: a true story of money, power, friendship, and betrayal* by Nick Bilton
-- *[The PayPal Wars](!w)* by Eric M. Jackson
-- *[The Facebook Effect](!am)* by David Kirkpatrick
-- Vipul also suggested that I read [Charles Murray's](https://en.wikipedia.org/wiki/Charles_Murray_%28political_scientist%29) works.
-- You can see more of Vipul's (old) books [here](https://thinkingbeyondcompetition.wordpress.com/books/)<!--(https://archive.is/hUuVo)-->. (The sidebar has even more than on just the page alone.)
-
-
-[^ey]: I personally don't like this book very much, but it is highly
-regarded among scientists and mathematicians.  Eliezer Yudkowsky, for
-one, seems to [like the book a lot][ey geb]: " 'Gödel, Escher, Bach' by
-Douglas R. Hofstadter is the most awesome book that I have ever read.
-If there is one book that emphasizes the tragedy of Death, it is this
-book, because it's terrible that so many people have died without
-reading it." (Emphasis removed, since it was over the whole quote.)
-
-[ey geb]: http://lesswrong.com/lw/4d/youre_calling_who_a_cult_leader/
-
+- Gary Drescher's _Good and Real_
+- Daniel Dennett's _Consciousness Explained_
+- Michael Huemer's _The Problem of Political Authority_
 
 # Extracurriculars
 
