@@ -834,15 +834,6 @@ opportunity cost of college.
   > undervalued. This is where the myth of self sufficiency breaks
   > down.
 
-- some unresolved problems:
-    - getting paid to do work
-    - romance\ ...; I've been doing some work on this [on the CP
-      Wiki][rom], though it's not specifically about getting into
-      relationships, but more about gauging its importance as a cause,
-      and taking a look at possible future developments in this domain.
-
-        [rom]: http://causeprioritization.org/Romance
-
 - [Trashing Teens](https://www.psychologytoday.com/articles/200703/trashing-teens)
 - [How does one discover their natural talent? How did you discover yours?](https://www.quora.com/How-does-one-discover-their-natural-talent-How-did-you-discover-yours)
 - maybe learning about a lot of econ concepts is a really good idea for young people:
