@@ -468,19 +468,17 @@ is by producing great content.
 
 # Thinking about careers
 
-Just some links for now:
+My basic stance on careers as of late 2018:
 
-- [80,000 Hours](https://80000hours.org/)
-- [Cognito Mentoring](http://cognitomentoring.org/)
-- "[Advice for Students on Earning to Give][earning to give]" gives a good
-  overview of concrete steps to take in high school and college, with an
-  EA-bent (specifically from the view that earning to give is
-  advisable).
-- See also "[Conference Call on Altruistic Career Choice][holden career]"
-  with Holden Karnofsky of GiveWell.
-
-[earning to give]: http://reducing-suffering.org/advice-students-earning-give/
-[holden career]: http://www.givewell.org/altruistic-career-choice
+- If you share my values, then I think not working at a crushing day job is
+  important.  Many people complain that they hate their job/complain about
+  "bullshit jobs", but then they keep working at such a job.  It seems to me
+  that these people either (1) actually secretly like their jobs or buy into
+  the protestant work ethic so are on some level fine with wasting their lives
+  away, or (2) have competing interests, like earning enough money to buy
+  things or impress actual/potential mates.  In the case of (1), I can't really
+  help you (you don't share my values). But in the case of (2), I think you
+  ought to introspect more and see if these things are really worth it.
 
 # Finding content online
 
@@ -930,6 +928,7 @@ Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking
     > for the sake of the “fulfillment” that they get from pursuing the goal.
 
 - ["The Bipolar Lisp Programmer"](http://marktarver.com/bipolar.html)
+- talk about: music, art, wasting time on internet, literature
 
 [acad]: https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars
 [drawbacks]: http://briantomasik.com/drawbacks-formal-education/
