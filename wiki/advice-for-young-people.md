@@ -41,7 +41,16 @@ on).
 Feel free to [connect with me](contact) if you have questions
 or just want to talk to me.
 
-# Dealing with high school
+# School
+
+My thoughts on school as of late 2018:
+
+- I really wish I had tried harder to escape school much earlier. By junior
+  high, it was obvious that I hated school and that escaping was better.
+  Why didn't I actually quit school? \[insert long list of excuses\]
+  Don't make the same mistake!
+  If quitting school seems *impossible*, then, well, [*shut up and do the
+  impossible*](http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/)!
 
 [Marcus Geduld](https://www.quora.com/What-should-I-do-to-get-over-my-fear-of-public-failure/answer/Marcus-Geduld):
 
