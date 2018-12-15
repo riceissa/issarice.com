@@ -678,6 +678,22 @@ See also "[Self-Help: The Obvious Remedy for Academic Malemployment](http://econ
 > deal](http://econlog.econlib.org/archives/2005/10/is_the_econ_phd.html),
 > even at lower-ranked schools.  Then leave them alone.
 
+# Computer skills
+
+I've found it pretty useful to know how to use computers well. There are
+several aspects to this:
+
+- Programming.  I've found this useful for automating tasks, building websites,
+  making money (through contract work), and being able to read/understand
+  software that others write.
+- Algorithms and data structures.  Beyond basic programming skills, I haven't
+  found knowledge of algorithms/data structures to be too useful.  Occasionally
+  something may come up where having this knowledge is useful, but the vast
+  majority of the time, basic programming skills suffice.  This might change in
+  the future if I do work that is more intensive on this front.
+- Familiarity with many websites/the internet.
+- Unix tools/command line.
+
 # Other ideas---expanding your imagination
 
 Alex K. Chen often talks about the important of [expanding your
@@ -845,7 +861,6 @@ opportunity cost of college.
     - make-work bias
     - ideas from *thinking, fast and slow*
     - LessWrong jargon (to some extent)
-- LEARN UNIX TOOLS WELL
 - some math concepts (like countability) *might* be useful as well
 - [P\(HONY\)](http://dmouth.com/writing/2014/8/22/phony)
 - [Those Whom The Gods Love Grow Young: Some Notes on Wilde, Greece & Youth](http://dmouth.com/writing/2014/4/12/those-whom-the-gods-love-grow-young-some-notes-on-wilde-greece-youth)
