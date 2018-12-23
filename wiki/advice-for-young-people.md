@@ -696,6 +696,12 @@ several aspects to this:
 - Hardware.  I don't actually know much about computer hardware, and my current
   impression is that I haven't lost out on much by not knowing.
 
+# Mathematics
+
+- beware tunnel vision
+- at the same time, knowing a lot of math can be useful
+- once you go woke, it can be hard to go all in on math, so it might be good to do this while young
+
 # People
 
 - Here's a list of people you should look into (and read as much of what
@@ -745,6 +751,21 @@ several aspects to this:
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
     - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
+
+# Extreme worldviews
+
+as carl says blah blah understand basic points of multiple worldviews.
+with mainstream worldviews, you are likely to have exposure anyway.
+with more extreme worldviews, you're not likely to come across some of them.
+the goal is not to _adopt_ these worldviews, nor is the goal to just laugh them away. the goal is to (1) consider the arguments at the object level and see if they make sense, and to steal any insights they might contain; (2) at the meta level, ponder why some clearly intelligent people can write such clearly insane things.
+
+with that out of the way, here are some specific suggestions:
+
+- moldbug
+- PUA
+- ted kaczynski
+- Bruce Charlton (medical hypotheses papers)
+- accelerationists?
 
 # Other ideas---expanding your imagination
 
