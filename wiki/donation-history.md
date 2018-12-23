@@ -30,6 +30,6 @@ In addition, Vipul Naik offered me $500 to donate to a charity of my choice
 I decided not to donate in 2017 (both with my own money and Vipul's offer,
 which I deferred to a later time) due to a combination of (1) uncertainty about
 my understanding of the world; and (2) continuing to build a financial buffer
-(which is a smaller priority now that I've crossed the $30k threshold).
+(which is a smaller priority now that I've crossed the [$30k threshold](https://www.quora.com/What-is-a-good-amount-of-financial-buffer-to-have-for-a-single-male/answer/Vipul-Naik)).
 
 [cw]: https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice "“Contract work by Issa Rice for Vipul Naik”."
