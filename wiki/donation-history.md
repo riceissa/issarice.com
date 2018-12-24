@@ -82,4 +82,9 @@ I decided to not donate any of my own money as I am now reducing my contract
 work hours in order to do something about AI safety (so I might actually need
 to use some of my savings for something).
 
+Besides the donations listed above, Vipul also gave another donation on the
+same day (that he chose himself); you can read about that donation in the [post
+he wrote about his 2018
+donations](https://vipulnaik.com/blog/my-2018-donations/).
+
 [cw]: https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice "“Contract work by Issa Rice for Vipul Naik”."
