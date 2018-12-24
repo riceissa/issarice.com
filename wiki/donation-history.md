@@ -1,7 +1,7 @@
 ---
 title: Donation history
 author: Issa Rice
-date: 2018-01-03
+date: 2018-12-23
 ---
 
 My donation history begins in 2015 because that is the year during which I first started working/earning money that could be considered "my own".
