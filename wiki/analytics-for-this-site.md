@@ -24,6 +24,13 @@ with monthly granularity.
 [![Overview for data from July 1, 2015 to October 31,
 2016](analytics-2015-07-01-to-2016-10-31.png)](analytics-2015-07-01-to-2016-10-31.png)
 
+# Live data
+
+As of late 2018, you can see pageview counts for this website at monthly
+granularity on [Vipul Naik's analytics
+portal](https://analytics.vipulnaik.com/). This website is listed as "Issa Rice".
+The data is via Google Analytics and excludes identified spam traffic.
+
 # Exports
 
 * [Analytics All traffic excluding spam Audience Overview, 20140901--20161231](https://issarice.com/Analytics_All_traffic_excluding_spam_Audience_Overview_20140901-20161231.csv)
