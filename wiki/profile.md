@@ -64,6 +64,7 @@ often poorly produced.
 ## IQ
 
 I took the test at <http://www.iqtest.dk/> on 2018-02-06 and got a score of 112.
+For context on this number, see [this explanation](https://www.gwern.net/Links#iq) by gwern.
 
 ## Myers–Briggs Type Indicator
 
