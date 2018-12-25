@@ -50,6 +50,13 @@ current form, here are my thoughts on the above points:
     currently, I have an [About]() page, a page for my online [account
     names](), and so forth.
 
+December 2018 update:
+
+* I mostly agree with my November 2016 self.
+* One way I would phrase the feeling is by saying that a personal site
+  shouldn't become "too big", and in slogan form, "if a personal site is too
+  big, that means there aren't enough [Subwikis](https://subwiki.org/)".
+
 This site is my attempt to realize [gwern]’s idea of [Long
 Content]()---i.e. the goal is to incrementally update the pages so as to
 produce useful, lasting content.[^cy] It is also an [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts. In particular, I strive to make
