@@ -36,6 +36,28 @@ others can benefit from my thoughts and critique them.
     - [Charities calculation](charities-calculation) (some data collection on the
       number of charities tracked under various criteria)
 
+# Subdomains
+
+The following sites are not related to my personal website but are available
+via my personal domain name, `issarice.com`.  I list them here in case you
+wanted to navigate to one of them instead or you were curious about what
+subdomains existed.
+
+- [lw2](https://lw2.issarice.com/): a LessWrong 2.0 reader I built
+- [eaforum](https://eaforum.issarice.com/): an Effective Altruism Forum reader I built
+- [timelines](https://timelines.issarice.com/): Timelines Wiki, a wiki hosting timelines
+  on various topics
+- [files](https://files.issarice.com/): place for hosting random files
+- [exp](https://exp.issarice.com/): place for hosting experimental stuff that I
+  don't care about being available for the long-term
+- [aiwatch](https://aiwatch.issarice.com/): AI Watch, a website for tracking the AI
+  safety field
+- [orgwatch](https://orgwatch.issarice.com/): Org Watch, a website for tracking various
+  organizations
+- [beliefs](https://beliefs.issarice.com/): an experimental site for tracking beliefs
+  over time
+- [contentcreation](https://contentcreation.issarice.com/): Content Creation Wiki
+
 # Summary of what I worked on: November 2018 {#summary}
 
 For completed tasks, see the [work]() page.
