@@ -58,13 +58,20 @@ $(OUTDIR)/atom.xml: $(MD_PAGES) generator/atom.sh | $(OUTDIR)
 $(OUTDIR):
 	mkdir -p $(OUTDIR)
 
+# The one-liner with mjpage below is horrible but the idea is simple. If the
+# page coming out of Pandoc has either \( or \[ in it, then there is a
+# possibility that there is math on that page (because these are used as
+# opening delimiters for MathJax); so run mjpage on that page to process the
+# math. Otherwise, there is no chance for math to be on the page, so just copy
+# whatever we got from Pandoc to the final destination.
+
 $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 	pandoc $(PANDOC_FLAGS) --toc --toc-depth=4 --mathjax \
 		--lua-filter generator/url_filter.lua \
 		-M sourcefilename:"$<" \
 		-M lastmodified:$(shell git log -1 --format="%ad" --date=format:"%Y-%m-%d" -- "$<" | tr -d '\n') \
 		-o "$@.tempmjpage.html" "$<"
-	mjpage --output CommonHTML < "$@.tempmjpage.html" > "$@"
+	if (grep -q -F '\(' "$@.tempmjpage.html" || grep -q -F '\[' "$@.tempmjpage.html"); then (echo "Has math so running mjpage..."; mjpage --output CommonHTML < "$@.tempmjpage.html" > "$@"); else (echo "No math so just copying page"; cp "$@.tempmjpage.html" "$@"); fi
 	rm "$@.tempmjpage.html"
 
 $(OUTDIR)/%: images/% | $(OUTDIR)
