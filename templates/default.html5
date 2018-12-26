@@ -43,9 +43,6 @@ $endfor$
 $css$
   $endif$
 </style>
-$if(math)$
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full" type="text/javascript"></script>
-$endif$
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->

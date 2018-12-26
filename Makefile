@@ -63,7 +63,9 @@ $(OUTDIR)/%: wiki/%.md templates/default.html5 | $(OUTDIR)
 		--lua-filter generator/url_filter.lua \
 		-M sourcefilename:"$<" \
 		-M lastmodified:$(shell git log -1 --format="%ad" --date=format:"%Y-%m-%d" -- "$<" | tr -d '\n') \
-		-o "$@" "$<"
+		-o "$@.tempmjpage.html" "$<"
+	mjpage --output CommonHTML < "$@.tempmjpage.html" > "$@"
+	rm "$@.tempmjpage.html"
 
 $(OUTDIR)/%: images/% | $(OUTDIR)
 	cp "$<" "$@"
