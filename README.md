@@ -36,6 +36,7 @@ The following are the requirements to build the site:
 - Bash (for some of the shell scripts in `generator/`)
 - Some common command-line utilities like cat, sed, and so on (used in the
   shell scripts)
+- mathjax-node-page (trying this out as a replacement for client-side MathJax rendering)
 
 I have only ever tried building the site on Debian-based GNU/Linux systems, but since most of the site is just Markdown files it shouldn't be *too* hard to make the site build on other systems.
 
