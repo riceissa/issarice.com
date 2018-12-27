@@ -101,6 +101,43 @@ In my mind some things that make explanations good are:
   Thing that might look like an example that I don't think is an
   example: teaching classical physics before relativity.
 
+- Using lots of pictures (Pugh's analysis book emphasizes this). I
+  find many verbal/formula-based explanations much harder to follow
+  (it's often easier to just write down the formula myself).
+
+- Giving full solutions to exercises. How should we distinguish
+  "examples"/"theorems" from "exercises"? Normally we tend to think of
+  "examples"/"theorems" as the proofs that some with solutions, and
+  "exercises" as the proofs that the reader must fill in. But I think
+  a better way to do this is for examples/theorems to be the ones that
+  the reader can't be expected to give (examples that emphasize a
+  certain point, a theorem that uses a particular new trick), and
+  exercises to be everything else. I like the way Terence Tao leaves
+  many things to exercises in his _Analysis I_.
+
+  For solutions, I think it's additionally important to present
+  _multiple_ solutions for each problem. At least one of the AoPS
+  books (_Intermediate Counting & Probability_) does this to some
+  extent, which I like. It's pretty annoying to work hard on an
+  exercise, and think that I have got it, only to find the solution in
+  the book does it some different way (which is a learning opportunity
+  to be sure, but also means I can't really check my solution).
+
+- Making the reader do a lot of work: Leary & Kristiansen's logic book
+  uses a phrase that goes something like "the unique readability
+  theorem is one of those results that's important to know and good to
+  prove oneself, but boring to read". Actually I think many results
+  are like this, at least in the weaker sense that they are
+  interesting to read but more interesting if you prove it yourself.
+
+  Also see generation/testing/pre-testing effect.
+
+- Presenting multiple organizations of a material: the only way to do
+  this right now is to just look at multiple books. But I think a good
+  textbook should take the initiative and present multiple ways of
+  doing things (both at the low level of multiple proofs of a theorem
+  and at the high level of multiple ways of organizing the subject).
+
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
 Personally I find a lot of tutorial-based explanations difficult to follow because I can't keep a lot of things in my head at once, unless I'm the one generating the thoughts (for instance, when I'm programming I can keep many variables fresh in my mind, but when I'm reading someone else's code I find it difficult to do the same). I wish more [variable/term tables](https://machinelearning.subwiki.org/wiki/Summary_table_of_probability_terms#Table) were given in math explanations so that if one forgets the context one can periodically look it up again without scrolling all over the place.
@@ -118,3 +155,7 @@ My [math 334]() page talks about the confusing notation of the chain rule too.
 [This guide to backpropagation](http://www.cl.cam.ac.uk/archive/mjcg/plans/Backpropagation.pdf) by [Michael J. C. Gordon](!w) is interesting, especially since he spends a lot of time reviewing basic calculus results and understands functional programming (likes functions more than expressions, and defines types!). Unfortunately I find some *other* notational issues, like the difficulty of distinguishing between multiplication and function application (the latter is a space like in Haskell, but it's sort of hard to tell between an explicit space and the kerning).
 
 Since in my experience most exposition is horrible, I am a big fan of shopping around to find the really good books. Not sure I've really succeeded in doing this for ML though.
+
+# External links
+
+- [Reflections on working through Tao's Analysis](https://machinelearning.subwiki.org/wiki/User:IssaRice/Reflections_on_working_through_Tao's_Analysis)
