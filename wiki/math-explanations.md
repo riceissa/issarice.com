@@ -138,6 +138,13 @@ In my mind some things that make explanations good are:
   doing things (both at the low level of multiple proofs of a theorem
   and at the high level of multiple ways of organizing the subject).
 
+- I think when people try to explain mathematics, by default they ask
+  something like "how do I talk about this subject so as to cover all
+  the main points?" But I think the important question is more like
+  "how can I create a transformation such that, if I apply this
+  transformation to other minds, they become competent in the
+  subject?"
+
 Tutorial vs reference style: some explanations are written in tutorial style, where there's a lot of context throughout the whole document, and you should just start at the beginning and walk through the document. There are also more reference style documents that depend on less immediate context. Some supposedly tutorial style writing can start to feel like reference style writing when they list a lot of theorems/proofs without much motivation.
 
 Personally I find a lot of tutorial-based explanations difficult to follow because I can't keep a lot of things in my head at once, unless I'm the one generating the thoughts (for instance, when I'm programming I can keep many variables fresh in my mind, but when I'm reading someone else's code I find it difficult to do the same). I wish more [variable/term tables](https://machinelearning.subwiki.org/wiki/Summary_table_of_probability_terms#Table) were given in math explanations so that if one forgets the context one can periodically look it up again without scrolling all over the place.
