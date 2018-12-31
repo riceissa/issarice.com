@@ -132,6 +132,25 @@
             <li>INCORRECT. This is what a full instruction looks like, but only the symbol and one of the states are used; the other state and the action are the <em>outputs</em> of the transition function.</li>
         </ul>
     </ol>
+    <li>Which of the following is an incorrect explanation of why there is a countable number of Turing-computable functions?</li>
+    <ol>
+        <li>We can encode each Turing machine by a list of quadruples (in-state, scanned symbol, output action, out-state)</li>
+        <ul>
+            <li>INCORRECT. This is the most direct way to show that there are a countable number of Turing-computable functions.</li>
+        </ul>
+        <li>Turing machines are basically computer programs, whose source code can be written as finite strings of a finite alphabet; therefore, there are a countable number of them</li>
+        <ul>
+            <li>PARTIALLY. This explanation works, but it sort of appeals to the Church–Turing thesis.</li>
+        </ul>
+        <li>Turing-computable functions are equivalent to partial recursive functions, and there are a countable number of partial recursive functions.</li>
+        <ul>
+            <li>PARTIALLY. While this is not wrong, the equivalence of Turing computability and recursiveness is sort of a more advanced fact (also, does the proof the equivalence use countability anywhere?).</li>
+        </ul>
+        <li>A Turing machine comes with an infinitely long tape which is countable. At any stage during the computation, only finitely many squares on the tape have a symbol written on them. Therefore, there are a countable number of Turing machines.</li>
+        <ul>
+            <li>CORRECT. This explains why the <em>configuration</em> of a stage of computation is finite, but doesn't explain why there are countably many Turing machines.</li>
+        </ul>
+    </ol>
 </ol>
 <p>&nbsp;</p>
 <h2><span style="font-weight: bold;">Score: <span id="score">&nbsp;</span></span></h2>
