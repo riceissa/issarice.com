@@ -3,33 +3,52 @@
 <p style="text-align: right;"><span style="font-size: 75%;"><span id="answerkey">(Key: <span class="correct">correct</span>, <span class="incorrect">incorrect</span>, <span class="partially">partially correct</span>.)</span></span></p>
 <p>&nbsp;</p>
 <ol id="questions">
-    <li>Question 1 </li>
+    <li>Let <em>S</em> be a one-place semirecursive relation on <b>N</b>, and define a partial function <em>f</em>: <b>N</b>&nbsp;→&nbsp;<b>N</b> as follows: if <em>S</em>(<em>n</em>) then <em>f</em>(<em>n</em>)&nbsp;=&nbsp;1, and if not <em>S</em>(<em>n</em>) then <em>f</em>(<em>n</em>)&nbps;=&nbsp;0. What is the strongest statement we can make about <em>f</em>?</li>
     <ol>
-        <li>Answer 1 </li>
+        <li><em>f</em> is well-defined</li>
         <ul>
-            <li>INCORRECT. If you want you can include a helpful comment.</li>
+            <li>PARTIALLY. Indeed <em>f</em> is well-defined, but we can say something stronger.</li>
         </ul>
-        <li>Answer 2 </li>
+        <li><em>f</em> is total</li>
         <ul>
-            <li>PARTIALLY. This is a partially correct answer</li>
+            <li>CORRECT. <em>f</em> is total because exactly one of <em>S</em>(<em>n</em>) or $\neg S(n)$ holds for each $n \in \mathbb N$ (law of excluded middle).</li>
         </ul>
-        <li>Answer 3. (Assumed incorrect since it has no mark.)</li>
-        <li>Answer 4. </li>
+        <li>$f$ is recursive and total (<em>f</em> is a computable total function)</li>
         <ul>
-            <li>CORRECT.</li>
+            <li>INCORRECT. <em>S</em> is only semirecursive, so both <em>S</em> and ¬<em>S</em> may end up in an infinite loop.</li>
         </ul>
-        <li>Answer 5.</li>
     </ol>
-    <li>Question 2 </li>
+    <li>Let <em>S</em> be a subset of the natural numbers. Which of the following is <em>not</em> equivalent to saying that <em>S</em> is recursively enumerable?</li>
     <ol>
-        <li>Answer 1</li>
-        <li>Answer 2 </li>
+        <li><em>S</em> is the domain of a computable partial function</li>
+        <li><em>S</em> can be enumerated in a computable manner as $a_0, a_1, a_2, \ldots$ in increasing order</li>
         <ul>
-            <li>CORRECT.</li>
+            <li>CORRECT. This is equivalent to saying <em>S</em> is recursive, and there exist recursively enumerable sets that are not recursive.</li>
         </ul>
-        <li>Answer 3</li>
-        <li>Answer 4</li>
-        <li>Answer 5</li>
+        <li>$S$ is the range of a computable partial function</li>
+        <li>There exists a two-place relation $R$ on $\mathbb N^2$ such that $x \in S$ iff $\exists t\ R(x,t)$</li>
+        <li>$S$ is empty or the range of a primitive recursive function</li>
+    </ol>
+    <li>Let $f : \mathbb N \to \mathbb N$ be a partial function. Which of the following is <em>not</em> equivalent to saying that $f$ is computable?</li>
+    <ol>
+        <li>$f$ is computable by a Turing machine</li>
+        <li>$f$ is definable from the basic functions (zero, successor, identity) using the processes of composition, primitive recursion, and minimization</li>
+        <li>$f$ is computable by a register machine (abacus machine)</li>
+        <li>$f$ is computable by a program that uses basic operations (clearing, increment, copy) and a bounded loop</li>
+        <ul>
+            <li>CORRECT. This is equivalent to saying $f$ is primitive recursive, and there exist recursive functions that are not primitive recursive.</li>
+        </ul>
+    </ol>
+    <li>What is the strongest statement we can make about the set of all real numbers?</li>
+    <ol>
+        <li>It is enumerable</li>
+        <li>It is recursively enumerable</li>
+        <li>It is recursive</li>
+        <li>It is primitive recursive</li>
+        <li>We cannot say any of the other options</li>
+        <ul>
+            <li>CORRECT. The weakest statement is enumerability, but $\mathbb R$ is uncountable so it cannot be enumerated.</li>
+        </ul>
     </ol>
 </ol>
 <p>&nbsp;</p>
