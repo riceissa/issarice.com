@@ -115,7 +115,21 @@
         <li>Bounded existential quantification</li>
         <li>Existential quantification (not necessarily bounded)</li>
         <ul>
-            <li>INCORRECT. A semirecursive relation already can be written in the form ∃t&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>. Intuitively, adding on more existential quantifiers at the beginning doesn't change the "kind" of relation. More carefully, if we have <i>S</i>(<i>x</i>,&nbsp;<i>y</i>) iff ∃t&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>y</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>, then we can write the relation ∃y S(x,y) as ∃M ∃y&lt;M ∃t&lt;M R(x,y,t), where ∃y&lt;M ∃t&lt;M R(x,y,t) is recursive (as it only uses bounded quantification).</li>
+            <li>INCORRECT. A semirecursive relation already can be written in the form ∃t&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>. Intuitively, adding on more existential quantifiers at the beginning doesn't change the "kind" of relation. More carefully, if we have <i>S</i>(<i>x</i>,&nbsp;<i>y</i>) iff ∃t&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>y</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>, then we can write the relation ∃y S(x,y) as ∃M ∃y&lt;M ∃t&lt;M R(x,y,t), where ∃y&lt;M ∃t&lt;M R(x,y,t) is recursive (as it only uses bounded quantification). In other words, we can combine the two unbounded existential quantifiers into a single unbounded "upper bound" and use bounded existential quantifiers for the rest.</li>
+        </ul>
+    </ol>
+    <li>What information does a single instruction in a Turing machine use? (Alternatively, what are the inputs to the transition function of a Turing machine?)</li>
+    <ol>
+        <li>A symbol</li>
+        <li>A symbol and a state</li>
+        <li>A symbol and an action</li>
+        <ul>
+            <li>CORRECT.</li>
+        </ul>
+        <li>A symbol, a state, and an action</li>
+        <li>A symbol, two states, and an action</li>
+        <ul>
+            <li>INCORRECT. This is what a full instruction looks like, but only the symbol and one of the states are used; the other state and the action are the <em>outputs</em> of the transition function.</li>
         </ul>
     </ol>
 </ol>
