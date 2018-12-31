@@ -118,7 +118,7 @@
         <li>Bounded existential quantification</li>
         <li>Existential quantification (not necessarily bounded)</li>
         <ul>
-            <li>INCORRECT. A semirecursive relation already can be written in the form ∃t&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>. Intuitively, adding on more existential quantifiers at the beginning doesn't change the "kind" of relation. More carefully, if we have <i>S</i>(<i>x</i>,&nbsp;<i>y</i>) iff ∃t&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>y</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>, then we can write the relation ∃y S(x,y) as ∃M ∃y&lt;M ∃t&lt;M R(x,y,t), where ∃y&lt;M ∃t&lt;M R(x,y,t) is recursive (as it only uses bounded quantification). In other words, we can combine the two unbounded existential quantifiers into a single unbounded "upper bound" and use bounded existential quantifiers for the rest.</li>
+            <li>INCORRECT. A semirecursive relation already can be written in the form ∃t&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>. Intuitively, adding on more existential quantifiers at the beginning doesn't change the "kind" of relation. More carefully, if we have <i>S</i>(<i>x</i>,&nbsp;<i>y</i>) iff ∃<i>t</i>&nbsp;<i>R</i>(<i>x</i>,&nbsp;<i>y</i>,&nbsp;<i>t</i>) for some recursive relation <i>R</i>, then we can write the relation ∃y S(x,y) as ∃M ∃y&lt;M ∃<i>t</i>&lt;<i>M</i> <i>R</i>(<i>x</i>, <i>y</i>, <i>t</i>), where ∃<i>y</i>&lt;<i>M</i> ∃<i>t</i>&lt;<i>M</i> <i>R</i>(<i>x</i>, <i>y</i>, <i>t</i>) is recursive (as it only uses bounded quantification). In other words, we can combine the two unbounded existential quantifiers into a single unbounded "upper bound" and use bounded existential quantifiers for the rest.</li>
         </ul>
     </ol>
     <li>What information does a single instruction in a Turing machine use? (Alternatively, what are the inputs to the transition function of a Turing machine?)</li>
@@ -162,9 +162,9 @@
         <ul>
             <li>CORRECT.</li>
         </ul>
-        <li>Nothing; we cannot in general conclude anything about G</li>
+        <li>Nothing; we cannot in general conclude anything about <i>G</i></li>
     </ol>
-    <li>Let f: <b>N</b> → <b>N</b> be a partial function. Suppose the graph relation <i>G</i> of <i>f</i>, defined by <i>G</i>(<i>x</i>,<i>y</i>) iff <i>f</i>(<i>x</i>) = <i>y</i>, is a semirecursive relation. What can we say about f?</li>
+    <li>Let f: <b>N</b> → <b>N</b> be a partial function. Suppose the graph relation <i>G</i> of <i>f</i>, defined by <i>G</i>(<i>x</i>, <i>y</i>) iff <i>f</i>(<i>x</i>) = <i>y</i>, is a semirecursive relation. What can we say about f?</li>
     <ol>
         <li><i>f</i> is primitive recursive</li>
         <li><i>f</i> is partial recursive</li>
