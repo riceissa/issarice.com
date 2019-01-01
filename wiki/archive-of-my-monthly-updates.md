@@ -496,3 +496,15 @@ people use the API.
 I spent most of the month learning about things related to AI alignment. I
 started a new [blog](https://issarice.wordpress.com/) to track updates on this
 front.
+
+# December 2018
+
+For completed tasks, see the [work]() page.
+
+I spent some time adding to Vipul Naik's Learning Subwiki. You can see
+[my contributions for the month](https://learning.subwiki.org/w/index.php?limit=70&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=12).
+
+I spent most of the month learning about things related to AI alignment. See my
+[daily updates blog](https://issarice.wordpress.com/) for updates on this front.
+
+For previous monthly updates, see the [archive of my monthly updates]().
