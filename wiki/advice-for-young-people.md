@@ -751,6 +751,15 @@ several aspects to this:
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
     - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
+    - Terence Tao. I can't appreciate his mathematical research, but I am a fan
+      of his undergraduate-level course material (e.g., his real analysis
+      books, linear algebra notes, and multiple-choice quizzes)
+    - Tim Gowers. Similar to Tao. I can't appreciate his mathematical research,
+      but I am a fan of his math education web pages (on his academic website)
+      and his mathematical pedagogy blog posts.
+    - John Stillwell. I haven't spent too much time looking into Stillwell, but
+      he seems pretty unusual for writing so many books that combine multiple
+      fields and the history of math.
 
 # Extreme worldviews
 
