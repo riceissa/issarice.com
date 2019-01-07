@@ -13,11 +13,11 @@ locally or be served elsewhere with:
 
     rsync -r --delete _site/ destination_directory/
 
-Note that in the interest of [Cool URIs][cool], the compiled files have no file
+In the interest of [Cool URIs][cool], the compiled files have no file
 extensions (which would usually be `.html`).  Therefore locally opening the files
 in your browser may not work as expected.
 
-Note also that since the Markdown files in this repository use Pandoc's
+Since the Markdown files in this repository use Pandoc's
 Markdown, they do not render correctly on GitHub.
 Any MediaWiki files in this repository will render incorrectly on GitHub as
 well, because they use special templates that are only available on some
