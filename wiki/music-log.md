@@ -329,6 +329,10 @@ The Pillows:
   but I am hooked on their general sound. Sort of a mix between Fishmans and
   Sunny Day Service, but worse than both. Still, I like it.
 
+# January 2019
+
+* Sōtaisei Riron: _Chiffonism_
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
