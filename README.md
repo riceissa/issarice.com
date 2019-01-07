@@ -29,7 +29,9 @@ The following are the requirements to build the site:
 
 - Pandoc ≥2.0
 - GNU Make
-- GNU Parallel (for `generator/all_pages_table.sh`)
+- GNU Parallel (for `generator/all_pages_table.sh`); this is not strictly
+  necessary (one can edit the script to replace Parallel with bare shell
+  commands) but makes compilation faster
 - MySQL/MariaDB (for `work.py`)
 - Python 3 (for `generator/account_names.py` and `generator/work.py`)
   - `mysql.connector` library (for `generator/work.py`)
