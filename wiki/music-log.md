@@ -332,6 +332,7 @@ The Pillows:
 # January 2019
 
 * Sōtaisei Riron: _Chiffonism_
+* Deerhoof: _The Magic_ (HT Alex Sanchez)
 
 # History
 
