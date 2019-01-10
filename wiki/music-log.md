@@ -332,7 +332,8 @@ The Pillows:
 # January 2019
 
 * Sōtaisei Riron: _Chiffonism_
-* Deerhoof: _The Magic_ (HT Alex Sanchez)
+* Deerhoof: _The Magic_ (HT Alex Sanchez); my favorite track so far is
+  "Life is Suffering"
 
 # History
 
