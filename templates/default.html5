@@ -31,7 +31,10 @@ $if(bigtable)$
   <script src="jquery.tablesorter.js"></script>
 $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
-  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+    code{white-space: pre;}
+    .mjx-chtml {font-size: 120% ! important}
+  </style>
 $if(quotes)$
   <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
 $endif$
