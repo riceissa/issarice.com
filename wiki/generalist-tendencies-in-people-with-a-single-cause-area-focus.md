@@ -108,6 +108,19 @@ tendencies in people with a single cause area focus:
     See also how diverse the [problems that motivated Wei Dai to develop
     UDT](http://lesswrong.com/lw/cs9/list_of_problems_that_motivated_udt/) are.
 
+    Tooby and Cosmides in "The Psychological Foundations of Culture":
+
+    > Disciplines such as astronomy, chemistry, physics, geology, and biology
+    > have developed a robust combination of logical coherence, causal
+    > description, explanatory power, and testability, and have become examples
+    > of how reliable and deeply satisfying human knowledge can become. Their
+    > extraordinary florescence throughout this century has resulted in far
+    > more than just individual progress within each field. These disciplines
+    > are becoming integrated into an increasingly seamless system of
+    > interconnected knowledge and remain nominally separated more out of
+    > educational convenience and institutional inertia than because of any
+    > genuine ruptures in the underlying unity of the achieved knowledge.
+
 -   The role of popularization/getting help from experts in many fields.
     It isn't because of Eliezer's decision theory work that he is now
     well-known; rather, it is his popularization work (though the
