@@ -334,6 +334,10 @@ The Pillows:
 * Sōtaisei Riron: _Chiffonism_
 * Deerhoof: _The Magic_ (HT Alex Sanchez); my favorite track so far is
   "Life is Suffering"
+* For some reason, I am enjoying Radiohead's _Hail to the Thief_ a lot
+  this month. Previously, I thought it was one of Radiohead's worst
+  albums (along with _Amnesiac_, although with _Amnesiac_ I was able
+  to eventually enjoy it more).
 
 # History
 
