@@ -23,6 +23,7 @@ https://exp.issarice.com/ea-forum-reader/users.php?id=robbensinger&format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=Lila&format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
+https://eaforum.issarice.com/users/beth-1?format=rss
 http://reflectivedisequilibrium.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
 https://intelligence.org/blog/feed/
