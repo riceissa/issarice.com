@@ -45,7 +45,10 @@ In my mind some things that make explanations good are:
   other than an application of some trick. If explaining the point of the
   exercise spoils the exercise, it can be explained in some place other than
   immediately near the exercise.
-- Sticking to standard terminology. While there are some imperfections in the standard terminology, it is often too confusing to switch between different terminology, so my preference is that explainers stick to the standard ones, or use defensive/fool-proof terminology/notation. To give an example, Boolos, Burgess, and Jeffrey's _Computability and Logic_ uses "function" to mean "total or partial function", and "total function" to mean "function". This sort of thing is confusing because now there are two "claims" on the meaning of "function". (This actually becomes sort of a problem in the book because when introducing characteristic functions, the book does not clarify that these must be total.) A defensive writing style would avoid the word "function" and use "total or partial function" and "total function". Similarly in set theory, $\subset$ sometimes means "subset" and sometimes means "proper subset". A defensive style of writing would avoid this and use $\subseteq$ and $\subsetneq$.
+- Sticking to standard terminology. While there are some imperfections in the standard terminology, it is often too confusing to switch between different terminology, so my preference is that explainers stick to the standard ones, or use defensive/fool-proof terminology/notation. Another option is to explain all the variations in terminology so that readers are not confused when they go read other books (Peter Smith's Gödel book does a great job of this), or to have some resource that all readers can use to find out the variations in terminology (I wish Wikipedia could be such a resource, but it's often very incomplete, even on common undergraduate topics).
+
+  To give an example, Boolos, Burgess, and Jeffrey's _Computability and Logic_ uses "function" to mean "total or partial function", and "total function" to mean "function". This sort of thing is confusing because now there are two "claims" on the meaning of "function". (This actually becomes sort of a problem in the book because when introducing characteristic functions, the book does not clarify that these must be total.) A defensive writing style would avoid the word "function" and use "total or partial function" and "total function". Similarly in set theory, $\subset$ sometimes means "subset" and sometimes means "proper subset". A defensive style of writing would avoid this and use $\subseteq$ and $\subsetneq$.
+
 - Given two concepts that could be mistaken for each other, there are
   four possibilities with four different ways to help the reader: $X
   \iff Y$ (prove that all $X$ are $Y$ and that all $Y$ are $X$); $X
@@ -59,6 +62,11 @@ In my mind some things that make explanations good are:
   entirely different concepts: $\{1,2,3\}$ and $\{2,3,4\}$ are
   distinct but not disjoint, and $\emptyset$ and $\emptyset$ are
   disjoint but not distinct.
+
+  Another example from logic: complete set of formulas vs maximal
+  consistent set of formulas. These seem to be equivalent in the
+  standard formal systems we work with, but are there systems in which
+  they are different? Is one necessarily stronger than the other?
 
 - There is a kind of paternalism trade-off in explanations when deciding e.g.
   whether to ask the reader to prove a theorem before reading the proof in the
@@ -87,6 +95,9 @@ In my mind some things that make explanations good are:
     closer to (1)).
   - _Computability and Logic_ does some of (2), where they say "we'll show all
     the examples first, then the proofs later, so the reader can do them".
+  - I like how in Goldrei's logic book, he mixes in exercises
+    throughout the text, and often includes answers. I guess this is
+    an instance of (2).
 
 - Explaining the mental images/mental pictures that the author has.
 - Anticipating common misconceptions and errors.
@@ -144,6 +155,7 @@ In my mind some things that make explanations good are:
   textbook should take the initiative and present multiple ways of
   doing things (both at the low level of multiple proofs of a theorem
   and at the high level of multiple ways of organizing the subject).
+  See also reverse mathematics and John Stillwell's books.
 
 - I think when people try to explain mathematics, by default they ask
   something like "how do I talk about this subject so as to cover all
@@ -156,7 +168,13 @@ Tutorial vs reference style: some explanations are written in tutorial style, wh
 
 Personally I find a lot of tutorial-based explanations difficult to follow because I can't keep a lot of things in my head at once, unless I'm the one generating the thoughts (for instance, when I'm programming I can keep many variables fresh in my mind, but when I'm reading someone else's code I find it difficult to do the same). I wish more [variable/term tables](https://machinelearning.subwiki.org/wiki/Summary_table_of_probability_terms#Table) were given in math explanations so that if one forgets the context one can periodically look it up again without scrolling all over the place.
 
-Being clear about ontology helps, I think, and helps to avoid confusing exposition. Something I don't like is when $\frac{dy}{dx}$ is treated both as a function and as a variable. In my world, variables cannot change once you assign them once. It doesn't make sense to talk about "let $x=3$ and see what happens as $x$ increases", because everything is static. If you want to talk about changes, you define a *static* lookup table, i.e. a function. And a function is not some machine that computes outputs from inputs; it is just a graph.
+Actually though, I suspect it's not the tutorial format that is the
+problem, but rather the tutorial-writer's too-high expectations of the
+tutorial-reader. If the writer took the effort to break things down
+more and to have e.g. Anki cards available to help the reader, then I
+think a tutorial format would still be the best way to learn.
+
+Being clear about ontology helps, I think, and helps to avoid confusing exposition. Something I don't like is when $\frac{dy}{dx}$ is treated both as a function and as a variable. In my world, variables cannot change once you assign them a value. It doesn't make sense to talk about "let $x=3$ and see what happens as $x$ increases", because everything is static. If you want to talk about changes, you define a *static* lookup table, i.e. a function. And a function is not some machine that computes outputs from inputs; it is just a graph. Of course, once you learn the subject, you can freely go between various mental images (including ones that would be confusing to a beginner).
 
 Maybe it makes sense for some people to think of variables as changing, but the fact remains that you *can* formalize this in logic without any moving parts.
 
