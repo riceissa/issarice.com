@@ -16,6 +16,7 @@ When I feel a page is "good enough", I will probably place a link to it on the f
 
 There are also various other Atom/RSS feeds of my online activity:
 
+* [Daily updates blog (mainly about AI safety)](https://issarice.wordpress.com/feed/)
 * [Machine Learning Subwiki](https://machinelearning.subwiki.org/w/api.php?action=feedcontributions&user=IssaRice&feedformat=atom)
 * [Learning Subwiki](https://learning.subwiki.org/w/api.php?action=feedcontributions&user=Issa+Rice&feedformat=atom)
 * [Devec Subwiki](https://devec.subwiki.org/w/api.php?action=feedcontributions&user=Issa+Rice&feedformat=atom)
