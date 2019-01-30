@@ -28,6 +28,13 @@ In my mind some things that make explanations good are:
   says "Here’s what might have happened if I had struggled on with the
   sentence I was in the middle of writing").
 
+  I think it might be difficult to make this interesting, because
+  there are so many wrong paths that one could go down.  What seems like
+  a "natural" wrong path to go down for one person might seem absurd to
+  another person (who has a different background or personality).  It seems
+  bad if these "going down wrong paths" in texts started to seem just tedious
+  to go through (even the correct paths can seem tedious at times!).
+
 - For exercises, I think it's important to explain somewhere what the exercise
   is intended to teach. Textbooks often warn that not doing the exercises will
   mean not actually learning the material (or similar). If this is truly the
