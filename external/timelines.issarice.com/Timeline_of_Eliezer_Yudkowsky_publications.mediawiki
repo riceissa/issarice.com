@@ -1,0 +1,98 @@
+This is a '''timeline of Eliezer Yudkowsky publications'''.
+
+==Big picture==
+
+{| class="wikitable"
+! Time period !! Development summary !! More details
+|-
+|}
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Date !! Format !! Venue !! Title !! Summary
+|-
+| 2013-09-30 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10151910706014228] || anecdote about resting
+|-
+| 2014-11-14 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10152866345834228] || commentary on "Grubergate"
+|-
+| 2017-08-11 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155654175799228] || costs of regulation
+|-
+| 2017-08-22 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155685385544228] ||
+|-
+| 2017-09-02 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155717921624228] || description of the ML living library position at MIRI
+|-
+| 2017-09-20 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155769880704228] || on starting a "Prediction markets on a spread of AI capabilities over a spread of times"
+|-
+| 2017-09-30 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155797877654228] || modesty, genius
+|-
+| 2017-10-02 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155802449109228] || commentary on Catalonia situation
+|-
+| 2017-10-04 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155809018814228] || commentary on news referencing the simulation hypothesis
+|-
+| 2017-10-09 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155822552989228] || cryptocurrency, measuring "volume of business trade"
+|-
+| 2017-10-16 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155839899599228] || on the non-transitivity of legality of exchanging sexual and non-sexual favors and money
+|-
+| 2017-10-19 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155848910529228] || commentary on AlphaGo Zero
+|-
+| 2017-11-27 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155958584764228] || Bitcoin and shortselling startup equity
+|-
+| 2017-11-28 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155961594824228] || cryptocurrency
+|-
+| 2017-12-03 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155975618869228 "Thing #17,242 that I didn't get around to saying explicitly in #InadequateEquilibria"] || note about ''Inadequate Equilibria''
+|-
+| 2017-12-08 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155987534429228] || note about ''Inadequate Equilibria''
+|-
+| 2017-12-09 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10155992246384228] || commentary on Alpha Zero
+|-
+| 2017-12-13 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156002956074228] || terminology bleg about AI alignment
+|-
+| 2018-01-24 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156117992914228 "Local Validity as a Key to Sanity and Civilization"] ||
+|-
+| 2018-02-03 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156147605134228] || a reply to Scott Alexander's LessWrong crypto autopsy
+|-
+| 2018-02-07 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156159061989228] || on bargains in human relationships
+|-
+| 2018-02-08 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156161113669228 "Meta-Honesty: Firming up honesty around its edge-cases"] ||
+|-
+| 2018-04-01 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156312251724228] ||
+|-
+| 2018-05-28 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156448871894228] || Toolbox thinking vs Law thinking
+|-
+| 2018-06-07 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156473896814228] || "the idea of a lack-of-common-knowledge equilibrium of a room full of people all doing things they hate" with a quote of a {{W|Richard Feynman}} anecdote
+|-
+| 2018-07-23 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156589442739228] || musing about children born via meeting through Sneer Club
+|-
+| 2018-08-08 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156635398364228] || on the distinction between internalized world models vs expert opinion
+|-
+| 2018-08-17 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10156660507564228] || on the tendency of depressed people to ruminate over the past
+|-
+| 2019-01-23 || || Facebook || [https://www.facebook.com/yudkowsky/posts/10157082793324228] ||
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:FIXME|FIXME]].
+
+{{funding info}} is available.
+
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* FIXME
+
+===What the timeline is still missing===
+
+===Timeline update strategy===
+
+==See also==
+
+==External links==
+
+==References==
+
+{{Reflist|30em}}
