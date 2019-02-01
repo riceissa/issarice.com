@@ -508,3 +508,19 @@ I spent most of the month learning about things related to AI alignment. See my
 [daily updates blog](https://issarice.wordpress.com/) for updates on this front.
 
 For previous monthly updates, see the [archive of my monthly updates]().
+
+# January 2019
+
+For completed tasks, see the [work]() page.
+
+I spent some time adding to Vipul Naik's Learning Subwiki. You can see
+[my contributions for the month](https://learning.subwiki.org/w/index.php?limit=60&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2019&month=01).
+
+I did some work on the Donations List Website. Some relevant GitHub repos are
+[conservativetransparency.org processing](https://github.com/riceissa/conservativetransparency),
+[Surdna Foundation](https://github.com/riceissa/surdna-foundation),
+[Haas, Jr. Fund](https://github.com/riceissa/haasjr-fund),
+and [Andrew W. Mellon Foundation](https://github.com/riceissa/mellon-foundation).
+
+I spent most of the month learning about things related to AI alignment. See my
+[daily updates blog](https://issarice.wordpress.com/) for updates on this front.
