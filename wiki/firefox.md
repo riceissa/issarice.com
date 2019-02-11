@@ -2,74 +2,49 @@
 title: Firefox
 author: Issa Rice
 created: 2015-08-18
-date: 2017-12-05
+date: 2019-02-10
 ---
 
-As of March 2017, Firefox is the main web browser I use.
+As of February 2019, Firefox is the main web browser I use.
 I find it slower than Google Chrome (which I use for
-[Facebook](facebook), Gmail, and /g/), but find its address bar and some
-plugins more useful.
+[Facebook](facebook), Messenger, Gmail, and YouTube),
+but find its address bar more useful.
 
 # Extensions
 
+- Citewebgen (this is a rough draft addon I made for myself, to avoid
+  the [bookmarklet blocking](https://github.com/riceissa/citewebgen#caveats) on some sites)
 - Decentraleyes
-- HTTPS Everywhere
-- NoScript
-- Privacy Badger
+- Make Medium Readable Again
 - uBlock Origin
+- uMatrix
 - Web Developer (for viewing the generated HTML source)
-- Zotero Connector
+- Zotero Connector (I don't actually use this nowadays...)
 
 Due to the Firefox 57 upgrade, several of the plugins I used to use were marked as "Legacy" and are not usable.
 In particular, NoScript was at first unavailable, then available under
 the new extensions system in a new form. I didn't like the new
 interface so I switched to uMatrix.
 
-# Bookmarklets
-
-Here are the bookmarklets I use:
-
--   "IA" (Internet Archive)
-
-    ```
-    javascript:void(window.open('https://web.archive.org/save/'+location.href))
-    ```
-
--   archive.is
-
-    ```
-    javascript:void(open('https://archive.is/?run=1&url='+encodeURIComponent(document.location)))
-    ```
-
--   "DOM" (dump the DOM in a new tab)
-
-    ```
-    javascript:(function(){var%20a=document.createElement("p");var%20b=document.createTextNode(document.documentElement.innerHTML.toString());a.appendChild(b);var%20c=window.open();c.document.body.appendChild(a)})();
-    ```
-
--   [Citewebgen](https://github.com/riceissa/citewebgen/)
-
--   "Cite md" (the [Markdown version](https://github.com/riceissa/citewebgen/blob/master/markdown-part.js) of Citewebgen)
-
--   "Cite mdfn", the Markdown footnote version of Citewebgen
-
 # Keyword search
 
 I have several custom keyword searches on Firefox. Following DuckDuckGo's idea
-of "bang expressions", I prefix each keyword with `!`.
+of "bang expressions", I prefix each keyword with `!` (even though I don't use DuckDuckGo).
 
-- `!g`: google search
-- `!w`: English Wikipedia
-- `!yt`: YouTube (actually sound doesn't work on Firefox now ever since they
-  dropped ALSA support, so I don't use this much now)
+- `!g`: google search, `https://www.google.com/search?q=%s`
+- `!w`: English Wikipedia, `https://en.wikipedia.org/w/index.php?search=%s&title=Special%3ASearch`
 - `!d`: The Free Dictionary
-- `!ia`: Internet Archive
-- `!ias`: save with internet archive
-- `!gooj`: yahoo jisho (japanese dictionary)
+- `!ia`: Internet Archive, `https://web.archive.org/web/*/%S`
+- `!ias`: save with internet archive, `https://web.archive.org/save/%S`
+- `!gooj`: goo jisho (Japanese dictionary), `https://dictionary.goo.ne.jp/freewordsearcher.html?MT=%s&mode=0&kind=all`
 
-Note that for the internet archive keyword searches, use `%S` rather than `%s`
+Note that for the Internet Archive keyword searches, use `%S` rather than `%s`
 for the search string placeholder. The latter URL-encodes the search string
 while the former doesn't.
+
+I used to use bookmarklets, but have since switched to using an addon
+(for citation generation) and keyword searches (for accessing
+websites).
 
 # Settings
 
