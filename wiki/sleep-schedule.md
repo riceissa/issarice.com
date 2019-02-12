@@ -7,6 +7,11 @@ date: 2017-10-16
 This page is about my sleep schedule, i.e. the times of day during which I
 sleep.
 
+As of February 2019, I go to sleep around midnight or 1 AM and wake up
+around 9 AM or 10 AM. I don't use an alarm clock. I still use both
+caffeine and melatonin to adjust my alertness/sleepiness. I don't nap
+except when I go through caffeine withdrawal during caffeine resets.
+
 As of October 2017, I've been going to sleep between 10 PM and 1 AM and waking
 up between 7 AM and 9 AM. I have been roughly keeping this schedule for several
 months, although I don't have a record of when exactly it began.
@@ -23,4 +28,4 @@ where I wanted to experiment with polyphasic sleep), but as of October 2017 I
 rarely nap, and all my sleep is in one continuous block at night.
 
 I somewhat regularly take melatonin to make me sleepy at night. I bought a
-bottle of 3 mg melatonin a couple of years ago, and each night I nibble off perhaps 1/8 to 1/4 of a pill.
+bottle of 3 mg melatonin a couple of years ago, and each night I nibble off perhaps 1/16 to 1/8 of a pill.
