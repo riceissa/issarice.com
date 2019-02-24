@@ -16,3 +16,5 @@ However, even after spending some time reading and thinking about this, I feel l
 I can understand why causal inference is intellectually interesting, and I think if I spent a lot more time studying it, I could probably come up with good ways to apply it.
 
 Maybe one way to phrase my question is to ask where on a spectrum of applicability (for mathematical subjects) causal inference lies, where the "most applicable" end is occupied by subjects like arithmetic, high school algebra, and calculus, and the "least applicable" end is occupied by a bunch of highly obscure topics in pure math. Should I expect to be able to use causal inference in everyday situations? Or is this unrealistic because of the complexity of such situations? If causal inference does happen to be applicable to everyday situations, my follow-up question becomes how to actually apply it (and maybe the answer is just "read Pearl's book").
+
+I'm also interested in hearing useful general insights from causal inference (e.g. how Abram Demski [says](https://www.lesswrong.com/posts/tp4rEtQqRshPavZsr/learn-bayes-nets) belief propagation is useful for understanding cognitive biases.
