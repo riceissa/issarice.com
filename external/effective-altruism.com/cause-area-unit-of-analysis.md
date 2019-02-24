@@ -16,7 +16,7 @@ Some thoughts/intuitions that contribute to this feeling:
 
 - I should mention that there are several meanings of "cause area", as explained by [Owen Cotton-Barratt back in 2014](http://www.fhi.ox.ac.uk/on-causes/).
 - A cause area can try to seem big by lumping together more and more things in the world. Do we compare "animal welfare improvement" against "agent foundations research", or against "technical AI safety work", or against "technical, strategy, or policy work in AI safety", or against "applied mathematics related to futuristic technology"?
-- More generally, if we take some basic unit of action like "1 person-year of work" then we can classify these units of work into cause areas. But then we can imagine defining some arbitrary "cause area" that just picks out the most high-value actions can declares it "the most important cause".
+- More generally, if we take some basic unit of action like "1 person-year of work" then we can form sets of actions and call those sets "cause areas" (these sets don't necessarily form a partition, i.e. there might be actions contained in multiple causes and actions not contained in any cause). But then we can imagine defining some arbitrary "cause area" that just picks out the most high-value actions can declares it "the most important cause".
 - I can imagine some sort of motte-and-bailey argument taking place where the opponent of a cause area picks some ineffective actions within the cause area while a supporter picks effective actions, so they disagree regrading the overall effectiveness of the cause area despite agreeing about the effectiveness of specific actions.
 
 I am curious to hear people's thoughts on this.
