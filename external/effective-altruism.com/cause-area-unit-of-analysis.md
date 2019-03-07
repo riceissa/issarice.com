@@ -22,4 +22,4 @@ Some thoughts/intuitions that contribute to this feeling:
 - There is a loose analogy to other situations where reductionism has been useful.
 - In practice, Open Philanthropy Project (which is apparently doing cause prioritization) has fixed a list of cause areas, and is prioritizing among much more specific opportunities within those cause areas.
 
-I am curious to hear people's thoughts on this. I would also appreciate pointers to existing discussion (I feel like I've been paying attention, but it seems plausible to me that I've missed some).
+I am curious to hear people's thoughts on this. I would also appreciate pointers to existing discussions (I feel like I've been paying attention, but it seems plausible to me that I've missed some).
