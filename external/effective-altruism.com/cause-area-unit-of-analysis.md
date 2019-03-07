@@ -20,5 +20,6 @@ Some thoughts/intuitions that contribute to this feeling:
 - I can imagine some sort of motte-and-bailey argument taking place where the opponent of a cause area picks some ineffective actions within the cause area while a supporter picks effective actions, so they disagree regrading the overall effectiveness of the cause area despite agreeing about the effectiveness of specific actions.
 - One way looking at cause areas might be useful is from an evaluator's perspective of "what skills/domain expertise do I need to be able to evaluate specific programs/research topics?" If skillsets tend to "unlock" a bunch of potential programs at once, then there might be a natural-seeming boundary around these programs, which might correspond to our intuitive notion of cause area.
 - There is a loose analogy to other situations where reductionism has been useful.
+- In practice, Open Philanthropy Project (which is apparently doing cause prioritization) has fixed a list of cause areas, and is prioritizing among much more specific opportunities within those cause areas.
 
 I am curious to hear people's thoughts on this. I would also appreciate pointers to existing discussion (I feel like I've been paying attention, but it seems plausible to me that I've missed some).
