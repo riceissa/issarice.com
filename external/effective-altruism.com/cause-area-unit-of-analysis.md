@@ -7,7 +7,7 @@ Some of the outputs of that investigation are:
 - A [list of existing classifications of philanthropy](https://causeprioritization.org/List_of_classifications_of_philanthropy)
 - A [directed acyclic graph of existing cause areas](https://causeprioritization.org/dagitty-model.svg) (where $A \to B$ means "$A$ has $B$ as a sub-cause" or "if I am claiming that I work on $B$, then I can also claim that I am working on $A$")
 - A [list of potential properties with which to classify existing cause areas](https://causeprioritization.org/Cause_area_classification)
-- A [table of "form of altruism" vs "beneficiary group"](https://docs.google.com/document/d/1l22FA-QVcER1mANhs2id_fp5Sc-RlQc4etHizMoEtDw/edit) ("form of altruism" and "beneficiary group" are two of the "potential properties" in the previous list, so this table crosses these two properties)
+- A [table of "form of altruism" vs "beneficiary group"](https://docs.google.com/document/d/1l22FA-QVcER1mANhs2id_fp5Sc-RlQc4etHizMoEtDw/edit) ("form of altruism" and "beneficiary group" are two of the "potential properties" in the previous list, so this table crosses these two properties, resulting in a two-dimensional grid)
 - A [generic linkdump and rambling on taxonomies](https://issarice.com/taxonomies)
 
 I came away from the above investigation feeling pretty confused about the nature of cause areas. Given just a description of reality, it didn't seem obvious to me to carve things out into "cause areas" and to take "cause area" as the basic unit of analysis/prioritization.
