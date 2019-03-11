@@ -1,5 +1,7 @@
 # Writing action-value function in terms of state-value function for a Markov decision process
 
+Asked at https://math.stackexchange.com/questions/3143290/writing-action-value-function-in-terms-of-state-value-function-for-a-markov-deci
+
 I am working through [Sutton and Barto's text on reinforcement learning (2nd edition)](http://incompleteideas.net/book/the-book-2nd.html), and am stuck on exercise 3.13 (p. 58). The exercise is to write $q_\pi$ in terms of $v_\pi$ and $p(s',r\mid s,a)$, where $q_\pi$ is the action-value function defined by $$q_\pi(s,a) := \mathbb E_\pi [G_t \mid S_t=s, A_t=a];$$ $v_\pi$ is the state-value function defined by $$v_\pi(s) := \mathbb E_\pi[G_t \mid S_t=s];$$ and $G_t$ is the discounted return $$G_t := \sum_{k=0}^\infty \gamma^k R_{t+k+1}.$$
 
 My attempt so far is to write $G_t = R_{t+1} + \gamma G_{t+1}$ so that $$q_\pi(s,a) = \mathbb E_\pi[R_{t+1} \mid S_t=s,A_t=a] + \gamma \mathbb E_\pi[G_{t+1} \mid S_t=s,A_t=a].$$
