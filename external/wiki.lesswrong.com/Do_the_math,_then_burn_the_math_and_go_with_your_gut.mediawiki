@@ -4,7 +4,7 @@
 
 July 2008, <ref>Eliezer Yudkowsky. [https://www.lesswrong.com/posts/AJ9dX59QXokZb35fk/when-not-to-use-probabilities "When (Not) To Use Probabilities"]. July 23, 2008.</ref>
 
-In October 2011, LessWrong user bentarm gave an outline of the procedure, which was endorsed by Yudkowsky.<ref>bentarm. [https://www.greaterwrong.com/posts/Jx4gGbPi7GuydwvzB/amanda-knox-post-mortem/comment/aFe8RxLnH3JWtNJcD "bentarm comments on Amanda Knox: post mortem"]. October 21, 2011. ''LessWrong''.</ref>
+In October 2011, LessWrong user bentarm gave an outline of the procedure in a comment, which was endorsed by Yudkowsky. The comment claims that Yudkowsky described the procedure in summer 2011.<ref>bentarm. [https://www.greaterwrong.com/posts/Jx4gGbPi7GuydwvzB/amanda-knox-post-mortem/comment/aFe8RxLnH3JWtNJcD "bentarm comments on Amanda Knox: post mortem"]. October 21, 2011. ''LessWrong''.</ref>
 
 In December 2016, [[Anna Salamon]] described the procedure parenthetically at the end of a blog post. Salamon described the procedure as follows: "Eliezer once described what I take to be the a similar ritual for avoiding bucket errors, as follows: When deciding which apartment to rent (he said), one should first do out the math, and estimate the number of dollars each would cost, the number of minutes of commute time times the rate at which one values one's time, and so on.  But at the end of the day, if the math says the wrong thing, one should do the right thing anyway."<ref>[https://www.lesswrong.com/posts/EEv9JeuY5xfuDDSgF/flinching-away-from-truth-is-often-about-protecting-the]</ref>
 
@@ -13,6 +13,8 @@ In May 2018, [[Julia Galef]] asked about this<ref>https://www.facebook.com/julia
 ==Basic procedure==
 
 ==See also==
+
+* [[CFAR Exercise Prize]]
 
 ==References==
 
