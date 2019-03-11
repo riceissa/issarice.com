@@ -68,7 +68,7 @@ For context on this number, see [this explanation](https://www.gwern.net/Links#i
 
 ## Myers–Briggs Type Indicator
 
-I seem to consistently test out as INPT, though I'm only heavily biased in the "I" part of the personality type and the "NPT" part is more intermediate.
+I seem to consistently test out as INTP, though I'm only heavily biased in the "I" part of the personality type and the "NTP" part is more intermediate.
 (TODO: find actual test results.)
 
 The MBTI is often mocked as “unscientific”, but I think
