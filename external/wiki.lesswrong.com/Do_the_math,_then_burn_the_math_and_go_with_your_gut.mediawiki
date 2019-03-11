@@ -1,14 +1,12 @@
-"'''Do the math, then burn the math and go with your gut'''"<ref>[https://www.greaterwrong.com/posts/yeADMcScw8EW9yxpH/a-sketch-of-good-communication/comment/puSysxsCG2i98XHMW]</ref> is a procedure for decision-making that has been described by [[Eliezer Yudkowsky]].
+"'''Do the math, then burn the math and go with your gut'''"<ref>Qiaochu Yuan. [https://www.greaterwrong.com/posts/yeADMcScw8EW9yxpH/a-sketch-of-good-communication/comment/puSysxsCG2i98XHMW "Qiaochu_Yuan comments on A Sketch of Good Communication"]. March 31, 2018. LessWrong.</ref> is a procedure for decision-making that has been described by [[Eliezer Yudkowsky]].
 
 ==History==
 
 July 2008, <ref>Eliezer Yudkowsky. [https://www.lesswrong.com/posts/AJ9dX59QXokZb35fk/when-not-to-use-probabilities "When (Not) To Use Probabilities"]. July 23, 2008.</ref>
 
-In October 2011, LessWrong user bentarm gave an outline of the procedure in a comment, which was endorsed by Yudkowsky. The comment claims that Yudkowsky described the procedure in summer 2011.<ref>bentarm. [https://www.greaterwrong.com/posts/Jx4gGbPi7GuydwvzB/amanda-knox-post-mortem/comment/aFe8RxLnH3JWtNJcD "bentarm comments on Amanda Knox: post mortem"]. October 21, 2011. ''LessWrong''.</ref>
+In October 2011, LessWrong user bentarm gave an outline of the procedure in a comment in the context of the Amanda Knox case. This description was endorsed by Yudkowsky in a follow-up comment. bentarm's comment claims that Yudkowsky described the procedure during summer of 2011.<ref>bentarm. [https://www.greaterwrong.com/posts/Jx4gGbPi7GuydwvzB/amanda-knox-post-mortem/comment/aFe8RxLnH3JWtNJcD "bentarm comments on Amanda Knox: post mortem"]. October 21, 2011. ''LessWrong''.</ref>
 
 In December 2016, [[Anna Salamon]] described the procedure parenthetically at the end of a blog post. Salamon described the procedure as follows: "Eliezer once described what I take to be the a similar ritual for avoiding bucket errors, as follows: When deciding which apartment to rent (he said), one should first do out the math, and estimate the number of dollars each would cost, the number of minutes of commute time times the rate at which one values one's time, and so on.  But at the end of the day, if the math says the wrong thing, one should do the right thing anyway."<ref>[https://www.lesswrong.com/posts/EEv9JeuY5xfuDDSgF/flinching-away-from-truth-is-often-about-protecting-the]</ref>
-
-In May 2018, [[Julia Galef]] asked about this<ref>https://www.facebook.com/julia.galef/posts/10103884948339182</ref>
 
 ==Basic procedure==
 
@@ -21,3 +19,5 @@ In May 2018, [[Julia Galef]] asked about this<ref>https://www.facebook.com/julia
 <references/>
 
 ==External links==
+
+* [https://www.facebook.com/julia.galef/posts/10103884948339182 A Facebook post by Julia Galef from May 2018 inquiring about this procedure]
