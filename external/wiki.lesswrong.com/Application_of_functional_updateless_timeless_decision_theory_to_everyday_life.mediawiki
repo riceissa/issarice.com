@@ -34,6 +34,8 @@ While the application of [[Functional decision theory|functional]]/[[Updateless 
 
 [http://lesswrong.com/lw/faq/does_my_vote_matter/7rgp?context=1] applications to voting
 
+https://www.greaterwrong.com/posts/PqMT9zGrNsGJNfiFR/alignment-research-field-guide#section-1 uses some logical decision theory-like reasoning.
+
 ==See also==
 
 ==References==
