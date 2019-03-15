@@ -7,14 +7,13 @@ TODO: fix straight quotes/curly quotes (done at one point, but do this again bef
 # Introduction
 
 This post is a comparison of various existing decision theories, with a focus
-on decision theories that use logical counterfactuals. The post compares the
+on decision theories that use logical counterfactuals (a.k.a. the kinds of decision theories most discussed on LessWrong). The post compares the
 decision theories along outermost iteration (action vs policy vs algorithm),
 updatelessness (updateless or updateful), and type of counterfactual used
 (causal, conditional, logical). It then explains the decision theories in more
 detail, in particular giving an expected utility formula for each. The post then gives
 examples of specific existing decision problems where the decision theories
-give different answers. The post concludes with some remaining questions that I
-have.
+give different answers.
 
 ## Value-added
 
@@ -23,23 +22,19 @@ but they either (1)
 don’t focus on logical-counterfactual decision theories; or (2) are outdated
 (written before the new functional/logical decision theory terms came about).
 
-More viscerally, after reading through a bunch of papers and posts about these
+To give a more personal motivation, after reading through a bunch of papers and posts about these
 decision theories, and feeling like I understood the basic ideas, I still
 remained highly confused about basic things like “How is UDT different from
 FDT?”, “Why was TDT deprecated?”, and “If TDT performs worse than FDT, then
 what’s one decision problem where they give different outputs?”
-This post hopes to clarify these and other questions by emphasizing:
+This post hopes to clarify these and other questions.
 
-* all the variations in notation and how to parse them,
-* tabular presentation,
-* explicit expected utility formulas, and
-* my own uncertainties.
-
-None of the decision theory material in this post is novel.
+None of the decision theory material in this post is novel. I am still learning
+the basics myself, and I would appreciate any corrections (even about subtle/nitpicky stuff).
 
 ## Audience
 
-This post is intended for people who are similarly confused about the
+This post is intended for people who are [similarly](https://www.greaterwrong.com/posts/xJRPWBfJQcbWaoCLp/making-equilibrium-cdt-into-fdt-in-one-easy-step/comment/n7auEbvrH5DoC6Tvt) [confused](https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory) about the
 differences between TDT, UDT, FDT, and LDT. In terms of reader background assumed,
 it would be good to know the statements to some standard decision theory
 problems (Newcomb’s problem, smoking lesion, Parfit’s hitchhiker, transparent
@@ -62,39 +57,6 @@ written or unfriendly to beginners, and would recommend skipping around to find
 explanations that “click”.
 
 TODO maybe also recommend https://www.lesswrong.com/posts/af9MjBqF2hgu3EN6r/decision-theories-a-less-wrong-primer
-
-people who seem similarly confused:
-
-* https://www.greaterwrong.com/posts/xJRPWBfJQcbWaoCLp/making-equilibrium-cdt-into-fdt-in-one-easy-step/comment/n7auEbvrH5DoC6Tvt
-* https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory
-
-## Notation
-
-TODO: I want to emphasize the differences in all the different notations, so my
-current (2018-10-10) thinking is that I can't just define a single notation and
-use it throughout the post. What I want is to show two notations and explain
-how to parse both of them and see that they are indeed equal.
-
-I mostly use notation taken from the [FDT
-paper](https://arxiv.org/pdf/1710.05060.pdf) because I find it clearest. I use
-some of the other notational variants to highlight correspondences.
-
-Throughout this post, let:
-
-* $\mathcal A$ be a set of actions
-* $\mathcal O$ be a set of outcomes
-* $\mathcal X$ be a set of observations
-* $\mathcal U\colon \mathcal O \to \mathbb R$ be a real-valued utility function
-* $\Pi$ be a set of policies, where each policy $\pi\colon \mathcal X \to \mathcal A$
-  maps observations to actions
-* $\Omega$ be some underlying sample space
-* $\mathrm{O\small UTCOME} \colon \Omega \to \mathcal O$ be an outcome-valued random variable
-* $\mathrm{A\small CT} \colon \Omega \to \mathcal A$ be an action-valued random variable
-* $\mathrm{O\small BS} \colon \Omega \to \mathcal X$ be an observation-valued random variable
-
-The expected value is denoted by $\mathbb E$.
-
-P? also how decision theory variables are denoted.
 
 # Comparison dimensions
 
