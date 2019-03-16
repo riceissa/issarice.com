@@ -46,7 +46,7 @@ formulas.
 
 If you don’t have the background, I would recommend reading
 chapters 5 and 6 of
-Gary Drescher’s [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf) (explains well the idea of subjunctive means--end relations),
+Gary Drescher’s [*Good and Real*](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf) (explains well the idea of subjunctive means–end relations),
 the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (explains well how FDT’s action selection variant works, and how FDT differs from CDT and EDT),
 [“Cheating Death in Damascus”](https://intelligence.org/files/DeathInDamascus.pdf), and
 [“Toward Idealized Decision Theory”](https://arxiv.org/pdf/1507.01986.pdf) (explains the difference between policy selection and logical counterfactuals well), and understanding
@@ -343,11 +343,11 @@ The diagonal is blank because the decision theories are the same. The lower left
 
 | |UDT1.1/FDT-policy|UDT1/FDT-action|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|**UDT1.1/FDT-policy**|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (a.k.a. curious benefactor) (TDT refuses, UDT1.1 pays)|[Parfit’s hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb’s problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
-|**UDT1/FDT-action**|--|--|Counterfactual mugging (a.k.a. curious benefactor) (TDT refuses, UDT1 pays)|Parfit’s hitchhiker (EDT refuses, UDT1 pays)|Newcomb’s problem (CDT two-boxes, UDT1 one-boxes)|
-|**TDT**|--|--|--|Parfit’s hitchhiker (EDT refuses, TDT pays)|Newcomb’s problem (CDT two-boxes, TDT one-boxes)|
-|**EDT**|--|--|--|--|Newcomb’s problem (CDT two-boxes, EDT one-boxes)|
-|**CDT**|--|--|--|--|--|
+|**UDT1.1/FDT-policy**|–|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (a.k.a. curious benefactor) (TDT refuses, UDT1.1 pays)|[Parfit’s hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb’s problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
+|**UDT1/FDT-action**|–|–|Counterfactual mugging (a.k.a. curious benefactor) (TDT refuses, UDT1 pays)|Parfit’s hitchhiker (EDT refuses, UDT1 pays)|Newcomb’s problem (CDT two-boxes, UDT1 one-boxes)|
+|**TDT**|–|–|–|Parfit’s hitchhiker (EDT refuses, TDT pays)|Newcomb’s problem (CDT two-boxes, TDT one-boxes)|
+|**EDT**|–|–|–|–|Newcomb’s problem (CDT two-boxes, EDT one-boxes)|
+|**CDT**|–|–|–|–|–|
 
 # Other comparisons
 
