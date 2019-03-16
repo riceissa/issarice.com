@@ -17,7 +17,7 @@ give different answers.
 
 ## Value-added
 
-There are some other comparisons of decision theories (see the “Other comparions” section),
+There are some other comparisons of decision theories (see the “Other comparisons” section),
 but they either (1)
 don’t focus on logical-counterfactual decision theories; or (2) are outdated
 (written before the new functional/logical decision theory terminology came about).
@@ -286,7 +286,7 @@ The following search queries might have more information:
 
 ## LDT
 
-LDT seems to be an umbrella decision theory that only requires the use of
+LDT (logical decision theory) seems to be an umbrella decision theory that only requires the use of
 logical counterfactuals, leaving the iteration type and updatelessness
 unspecified. So my understanding is that UDT1, UDT1.1, UDT2, FDT, and TDT are
 all logical decision theories.
