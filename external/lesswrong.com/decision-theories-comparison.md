@@ -274,8 +274,6 @@ My understanding of TDT is mainly from
 I am aware of the [TDT paper](https://intelligence.org/files/TDT.pdf) and skimmed it a while back,
 but did not revisit it in the course of writing this post.
 
-[Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP’s failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11
-
 Using notation from Hintze (p. 11) the expected utility formula for TDT can be written as follows:
 
 $$\mathrm{TDT}(s) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{i=1}^n U(O_i) P(\ulcorner \mathrm{TDT}(s) := a\urcorner \mathbin{\Box\kern-7mu\rightarrow} O_i \mid s)$$
@@ -285,7 +283,7 @@ Here, $s$ is a string of sense data, $\mathcal A$ is the set of actions, $U$ is 
 The things to note are:
 
 * The outermost iteration is over actions, so TDT does action selection.
-* We condition on the sense data $s$, so TDT is updateful.
+* We condition on the sense data $s$, so TDT is updateful. Quotes about TDT's updatefulness: [this post](https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/) describes TDT as "a theory by MIRI senior researcher Eliezer Yudkowsky that made the mistake of conditioning on observations". The [Updateless decision theories](https://arbital.com/p/updateless_dt/) page on Arbital calls TDT updateful. [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf) (p. 11): "TDP’s failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million."
 * We use corner quotes and the boxed arrow to denote a logical counterfactual.
 
 If I were to rewrite the above using notation from the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf), it would look like:
@@ -298,10 +296,6 @@ $P(\ldots \mid \mathrm{O\small BS}=x, \ldots)$, i.e. it conditions on
 $\mathrm{O\small BS}=x$.
 It uses logical counterfactuals because of the
 $\mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a)$.
-
-this page says TDT is updateful https://arbital.com/p/updateless_dt/
-
-https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/ describes TDT as “a theory by MIRI senior researcher Eliezer Yudkowsky that made the mistake of conditioning on observations”.
 
 ## UDT2
 
