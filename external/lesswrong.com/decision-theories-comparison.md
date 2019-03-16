@@ -34,7 +34,7 @@ the basics myself, and I would appreciate any corrections (even about subtle/nit
 
 ## Audience
 
-This post is intended for people who are [similarly](https://www.greaterwrong.com/posts/xJRPWBfJQcbWaoCLp/making-equilibrium-cdt-into-fdt-in-one-easy-step/comment/n7auEbvrH5DoC6Tvt) [confused](https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory) about the
+This post is intended for [people](https://intelligence.org/2017/10/22/fdt/#comment-3581536881) [who](https://www.greaterwrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory/comment/zz7GRTsvG8gD8EDxH) [are](https://www.greaterwrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent/comment/i2xAQFjo2odYW2uXz) [similarly](https://www.greaterwrong.com/posts/xJRPWBfJQcbWaoCLp/making-equilibrium-cdt-into-fdt-in-one-easy-step/comment/n7auEbvrH5DoC6Tvt) [confused](https://www.lesswrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory) [about](http://nostalgebraist.tumblr.com/post/168759631049/the-new-decision-theory-paper-exists-because-the) the
 differences between TDT, UDT, FDT, and LDT. In terms of reader background assumed,
 it would be good to know the statements to some standard decision theory
 problems (Newcomb’s problem, smoking lesion, Parfit’s hitchhiker, transparent
