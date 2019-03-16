@@ -2,8 +2,6 @@
 % Issa Rice
 % 2019-03-16
 
-TODO: fix straight quotes/curly quotes (done at one point, but do this again before publishing), dashes, and bare URLs
-
 # Introduction
 
 ## Summary
