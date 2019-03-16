@@ -56,8 +56,6 @@ I think a lot of (especially old) content on decision theory is confusingly
 written or unfriendly to beginners, and would recommend skipping around to find
 explanations that “click”.
 
-TODO maybe also recommend https://www.lesswrong.com/posts/af9MjBqF2hgu3EN6r/decision-theories-a-less-wrong-primer
-
 # Comparison dimensions
 
 My main motivation is to try to distinguish between TDT, UDT, and FDT, so I
@@ -278,6 +276,20 @@ but did not revisit it in the course of writing this post.
 
 [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf "“TDP’s failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million.”") p. 11
 
+Using notation from Hintze (p. 11) the expected utility formula for TDT can be written as follows:
+
+$$\mathrm{TDT}(s) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{i=1}^n U(O_i) P(\ulcorner \mathrm{TDT}(s) := a\urcorner \mathbin{\Box\kern-7mu\rightarrow} O_i \mid s)$$
+
+Here, $s$ is a string of sense data, $\mathcal A$ is the set of actions, $U$ is the utility function, $O_j$ are outcomes, the corner quotes and boxed arrow $\mathbin{\Box\kern-7mu\rightarrow}$ denote a logical counterfactual ("if the TDT algorithm were to output $a$ given input $s$").
+
+The things to note are:
+
+* The outermost iteration is over actions, so TDT does action selection.
+* We condition on the sense data $s$, so TDT is updateful.
+* We use corner quotes and the boxed arrow to denote a logical counterfactual.
+
+If I were to rewrite the above using notation from the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf), it would look like:
+
 $$\mathrm{TDT}(P,x) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{O\small BS}=x, \mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a))$$
 
 TDT performs action selection as can be seen from the “$\operatorname*{arg\,max}_{a\in\mathcal A}$”.
@@ -323,11 +335,27 @@ but useful logical decision theories”).
 
 ## CDT
 
+Using notation from the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 13), we can write the expected utility formula for CDT as follows:
+
 $$\begin{align}\mathrm{CDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathtt{do}(\mathrm{A\small CT}=a), \mathrm{O\small BS} = x) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathtt{do}(\mathrm{A\small CT}=a), \mathrm{O\small BS} = x)\end{align}$$
+
+Things to note:
+
+* The outermost iteration is $\operatorname*{arg\,max}_{a \in\mathcal A}$ so CDT does action selection.
+* We condition on $\mathrm{O\small BS} = x$ so CDT is updateful.
+* The presence of $\mathtt{do}(\mathrm{A\small CT}=a)$ means we use causal counterfactuals.
 
 ## EDT
 
+Using notation from the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 12), we can write the expected utility formula for EDT as follows:
+
 $$\begin{align}\mathrm{EDT}(P,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathrm{O\small BS} = x, \mathrm{A\small CT}=a) \\ &= \operatorname*{arg\,max}_{a \in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{O\small BS} = x, \mathrm{A\small CT}=a)\end{align}$$
+
+Things to note:
+
+* The outermost iteration is $\operatorname*{arg\,max}_{a \in\mathcal A}$ so EDT does action selection.
+* We condition on $\mathrm{O\small BS} = x$ so EDT is updateful.
+* We condition on $\mathrm{A\small CT}=a$ so EDT uses conditional probability as its counterfactual.
 
 # Comparison on specific decision problems
 
