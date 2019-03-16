@@ -234,42 +234,29 @@ The above three explain the values for UDT1 in the comparison table.
 
 UDT1.1 is a decision theory introduced by Wei Dai's post ["Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)"](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/).
 
-[Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
+In [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf) (p. 4, 12) UDT is written as follows:
 
-also see https://casparoesterheld.files.wordpress.com/2017/08/updateless_decision_theory-1.pdf
+$$\mathrm{UDT}(s) = \operatorname*{arg\,max}_{f} \sum_{i=1}^n U(O_i) \cdot P(\ulcorner \mathrm{UDT} := f : s\mapsto a \urcorner \mathbin{\Box\kern-7mu\rightarrow} O_i)$$
 
-(see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
+Here $f$ iterates over functions that map sense data ($s$) to actions ($a$), $U$ is the utility function, and $O_1,\ldots,O_n$ are outcomes.
 
-(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
+Using [Tyrrell McAllister’s notation](https://casparoesterheld.files.wordpress.com/2017/08/updateless_decision_theory-1.pdf), UDT1.1 looks like:
 
-also see https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb
+$$\mathrm{UDT}_{1.1}(\mathbf X, \mathbf Y, \mathbf E, M, \mathbf I) = \operatorname*{arg\,max}_{f\in \mathbf I} \sum_{E\in\mathbf E} M(f,E) U(E)$$
 
-In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions).
+In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions). Using notation from the FDT paper plus a trick I saw on [this Arbital page](https://arbital.com/p/logical_dt/?l=5d6) we can write UDT1.1 as:
 
 $$(\mathrm{UDT}_{1.1}(P,x))(x) = \left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)(x)$$
 
 On the right hand side, the large expression on the left (the part inside and including the $\operatorname{arg\,max}$) returns a policy, so to get the action we call the policy on the observation $x$.
 
-[FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7):
-
-> In the authors’ preferred formalization of FDT, agents actually iterate over
-> *policies* (mappings from observations to actions) rather than actions. This
-> makes a difference in certain multi-agent dilemmas, but will not make a
-> difference in this paper.
-
-Again using Tyrrell McAllister’s notation, UDT1.1 looks like:
-
-$$\mathrm{UDT}_{1.1}(\mathbf X, \mathbf Y, \mathbf E, M, \mathbf I) = \operatorname*{arg\,max}_{f\in \mathbf I} \sum_{E\in\mathbf E} M(f,E)\cdot U(E)$$
-
-Hintze writes UDT as follows:
-
-$$\operatorname*{arg\,max}_{f} \sum_{j=1}^n \mathcal U(o_j) \cdot P(\ulcorner \mathrm{UDT} := f : s\mapsto a \urcorner \mathbin{\Box\kern-7mu\rightarrow} o_j)$$
-
 Again what is important here is that UDT1.1:
 
-* Does action selection because the outermost iteration is over policies
-* Uses logical counterfactuals
-* Does not condition on the observation
+* Does policy selection because the outermost iteration is over policies ("$\operatorname*{arg\,max}_{f}$" or "$\operatorname*{arg\,max}_{\pi\in \Pi}$" depending on the notation). Quotes about policy selection: [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7) says "In the authors’ preferred formalization of FDT, agents actually iterate over *policies* (mappings from observations to actions) rather than actions. This makes a difference in certain multi-agent dilemmas, but will not make a difference in this paper." See also comments by Vladimir Slepnev ([1](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ), [2](https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb)).
+* Uses logical counterfactuals (denoted by corner quotes and boxed arrow, the $\mathtt{true}$ operator, or the mathematical intuition $M$)
+* Is updateless because it does not condition on the observation (note the absence of conditioning of the form $\mathrm{O\small BS} = x$)
+
+(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
 
 ## TDT
 
