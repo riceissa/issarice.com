@@ -6,6 +6,8 @@ TODO: fix straight quotes/curly quotes (done at one point, but do this again bef
 
 # Introduction
 
+## Summary
+
 This post is a comparison of various existing decision theories, with a focus
 on decision theories that use logical counterfactuals (a.k.a. the kinds of decision theories most discussed on LessWrong). The post compares the
 decision theories along outermost iteration (action vs policy vs algorithm),
@@ -230,7 +232,9 @@ The above three explain the values for UDT1 in the comparison table.
 
 ## UDT1.1 and FDT (iterate over policies)
 
-[UDT1.1](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/), [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
+UDT1.1 is a decision theory introduced by Wei Dai's post ["Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)"](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/).
+
+[Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf)
 
 also see https://casparoesterheld.files.wordpress.com/2017/08/updateless_decision_theory-1.pdf
 
@@ -344,6 +348,11 @@ Things to note:
 * We condition on $\mathrm{O\small BS} = x$ so EDT is updateful.
 * We condition on $\mathrm{A\small CT}=a$ so EDT uses conditional probability as its counterfactual.
 
+There are various versions of EDT (e.g. versions that smoke on the smoking
+lesion problem). The EDT in this post is the "naive" version. I don't
+understand the more sophisticated versions of EDT, but the keyword for learning
+more about them seems to be the [tickle defense](https://github.com/riceissa/project-ideas/issues/47).
+
 # Comparison on specific decision problems
 
 If two decision theories are actually different, there should be some decision problem where they return different answers.
@@ -393,7 +402,7 @@ useful, along with reasons why I felt the current post was needed.
 * 2018-07-23 to 2018-08-10: Initial work on this post.
 * 2018-08-11 to 2018-10-09: Post sat dormant.
 * 2018-10-10: copyediting.
-* 2019-03-15: more work after spending some more time on decision theory (especially refreshing my memory of things)
+* 2019-03-15 to 2019-03-16: more work after spending some more time on decision theory (especially refreshing my memory of things)
 * ??: Initial version published.
 
 ## License
