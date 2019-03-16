@@ -1,6 +1,6 @@
 % Comparison of decision theories
 % Issa Rice
-% 2018-10-10
+% 2019-03-16
 
 TODO: fix straight quotes/curly quotes (done at one point, but do this again before publishing), dashes, and bare URLs
 
@@ -236,19 +236,17 @@ Using [Tyrrell McAllister’s notation](https://casparoesterheld.files.wordpress
 
 $$\mathrm{UDT}_{1.1}(\mathbf X, \mathbf Y, \mathbf E, M, \mathbf I) = \operatorname*{arg\,max}_{f\in \mathbf I} \sum_{E\in\mathbf E} M(f,E) U(E)$$
 
-In UDT1.1, instead of iterating over actions to find the best one, we iterate over *policies* (mappings from observations to actions). Using notation from the FDT paper plus a trick I saw on [this Arbital page](https://arbital.com/p/logical_dt/?l=5d6) we can write UDT1.1 as:
+Using notation from the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) plus a trick I saw on [this Arbital page](https://arbital.com/p/logical_dt/?l=5d6) we can write the policy selection variant of FDT as:
 
-$$(\mathrm{UDT}_{1.1}(P,x))(x) = \left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small UDT}_{1.1}(\underline P, \underline x) = \pi))\right)(x)$$
+$$(\mathrm{FDT}(P,x))(x) = \left(\operatorname*{arg\,max}_{\pi\in \Pi} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid \mathtt{true}(\mathrm{\small FDT}(\underline P, \underline x) = \pi))\right)(x)$$
 
-On the right hand side, the large expression on the left (the part inside and including the $\operatorname{arg\,max}$) returns a policy, so to get the action we call the policy on the observation $x$.
+On the right hand side, the large expression (the part inside and including the $\operatorname{arg\,max}$) returns a policy, so to get the action we call the policy on the observation $x$.
 
-Again what is important here is that UDT1.1:
+The important things to note are that UDT1.1 and the policy selection variant of FDT:
 
-* Does policy selection because the outermost iteration is over policies ("$\operatorname*{arg\,max}_{f}$" or "$\operatorname*{arg\,max}_{\pi\in \Pi}$" depending on the notation). Quotes about policy selection: [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7) says "In the authors’ preferred formalization of FDT, agents actually iterate over *policies* (mappings from observations to actions) rather than actions. This makes a difference in certain multi-agent dilemmas, but will not make a difference in this paper." See also comments by Vladimir Slepnev ([1](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ), [2](https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb)).
-* Uses logical counterfactuals (denoted by corner quotes and boxed arrow, the $\mathtt{true}$ operator, or the mathematical intuition $M$)
-* Is updateless because it does not condition on the observation (note the absence of conditioning of the form $\mathrm{O\small BS} = x$)
-
-(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
+* Do policy selection because the outermost iteration is over policies ("$\operatorname*{arg\,max}_{f}$" or "$\operatorname*{arg\,max}_{\pi\in \Pi}$" depending on the notation). Quotes about policy selection: The [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 11, footnote 7) says "In the authors’ preferred formalization of FDT, agents actually iterate over *policies* (mappings from observations to actions) rather than actions. This makes a difference in certain multi-agent dilemmas, but will not make a difference in this paper." See also comments by Vladimir Slepnev ([1](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ), [2](https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb)).
+* Use logical counterfactuals (denoted by corner quotes and boxed arrow, the mathematical intuition $M$, or the $\mathtt{true}$ operator).
+* Are updateless because they don't condition on the observation (note the absence of conditioning of the form $\mathrm{O\small BS} = x$).
 
 ## TDT
 
