@@ -148,7 +148,7 @@ I have seen the logical counterfactual written in many ways:
 There are many more dimensions along which decision theories differ, but I
 don't understand these and they seem less relevant for comparing among the main
 logical-counterfactual decision theories, so I will just list them here but
-won't go into them later on in the post:
+won't go into them much later on in the post:
 
 * Reflective consistency (in particular [dynamic consistency](https://intelligence.org/files/TDT.pdf)): I think this is about whether an agent
   would use precommitment mechanisms or self-modify to use a
@@ -158,7 +158,7 @@ won't go into them later on in the post:
   is a higher-level property that follows from the above three.
 * Emphasis on graphical models: FDT is formalized using graphical models (of the kind you can read about in Judea Pearl's book _Causality_) while UDT doesn't.
 * Recent developments like using logical inductors.
-* Uncertainty about where your decision algorithm is -- I think this is some combination of the three that I'm already covering. For previous discussions, see [this section](http://acritch.com/deserving-trust/#grokking) of Andrew Critch's post, [this comment](https://www.greaterwrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers/comment/BrWSWrwaategHEkvh) by Wei Dai, and [this post](https://www.lesswrong.com/posts/zztyZ4SKy7suZBpbk/another-attempt-to-explain-udt) by Vladimir Slepnev.
+* Uncertainty about where your decision algorithm is: I think this is some combination of the three that I'm already covering. For previous discussions, see [this section](http://acritch.com/deserving-trust/#grokking) of Andrew Critch's post, [this comment](https://www.greaterwrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers/comment/BrWSWrwaategHEkvh) by Wei Dai, and [this post](https://www.lesswrong.com/posts/zztyZ4SKy7suZBpbk/another-attempt-to-explain-udt) by Vladimir Slepnev.
 * Different versions of UDT (e.g. proof-based, modal).
 
 # Comparison table along the given dimensions
@@ -187,16 +187,16 @@ $$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}}
 
 # Explanations of each decision theory
 
-This section elaborates on the comparison above by giving an explicit expected value formula for each decision theory and explaining why each cell in the table takes that particular value.
+This section elaborates on the comparison above by giving an expected value formula for each decision theory and explaining why each cell in the table takes that particular value.
 
 ## UDT1 and FDT (iterate over actions)
 
 I will describe UDT1 and FDT’s action variant together, because I think they
-give the same decisions. The main differences between the two seem to be (1)
-the way they are formalized, where FDT uses graphical models and UDT1 uses some
-kind of non-graphical "mathematical intuition module"; and (2) the
-naming, where UDT1 emphasizes the “updateless” aspect and FDT emphasizes the
-logical counterfactual aspect.
+give the same decisions (if there's a decision problem where they differ, I would like to know about it). The main differences between the two seem to be:
+
+1. The way they are formalized, where FDT uses graphical models and UDT1 uses some kind of non-graphical "mathematical intuition module"
+2. The naming, where UDT1 emphasizes the “updateless” aspect and FDT emphasizes the logical counterfactual aspect
+3. Some sort of additional assumptions that UDT has that FDT doesn't. Rob Bensinger [says](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp) "accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept" and also [says](https://intelligence.org/2017/10/22/fdt/#comment-3581691194) UDT "built in some debatable assumptions (over and above what's needed to show why TDT, CDT, and EDT don't work)". I'm not entirely sure what these additional assumptions are, 
 
 In the [original UDT post](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/), the expected utility formula is written like this:
 $$Y^* = \operatorname*{arg\,max}_{Y} \sum P_Y(\langle E_1,E_2,E_3,\ldots\rangle) U(\langle E_1,E_2,E_3,\ldots\rangle)$$
@@ -213,12 +213,6 @@ To explain the UDT1 row in the comparison table, note that:
 From the FDT paper:
 
 $$\begin{align}\mathrm{FDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathtt{do}(\mathrm{\small FDT}(\underline P,\underline G,\underline x)=a)) \\ &= \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j\mid \mathtt{do}(\mathrm{\small FDT}(\underline P, \underline G, \underline x) = a))\end{align}$$
-
-(see [comment](https://www.greaterwrong.com/posts/2THFt7BChfCgwYDeA/let-s-discuss-functional-decision-theory/comment/6xLQAfYu4rJTN3MWJ))
-
-(see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
-
-also see https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb
 
 I’m not sure if this is right. But the important point is that UDT1:
 
