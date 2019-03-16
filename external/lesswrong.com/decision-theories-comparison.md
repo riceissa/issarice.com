@@ -78,9 +78,15 @@ observation-to-action mapping. To get an action out of a decision theory
 that does policy selection (because what we really care about is knowing which
 action to take), we must *call* the policy on the actual observation.
 
+Using the notation of the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf),
+an action has type $\mathcal A$ while a policy has type $\mathcal X \to \mathcal A$,
+where $\mathcal X$ is the set of observations.
+So given a policy $\pi : \mathcal X \to \mathcal A$ and observation $x \in \mathcal X$,
+we get the action by calling $\pi$ on $x$, i.e. $\pi(x) \in \mathcal A$.
+
 From the expected utility formula of the decision theory,
 you can tell action vs policy selection by seeing what variable comes beneath
-the $\operatorname{arg\,max}$ operator; if it is $a\in\mathcal A$ (or similar) then it is iterating over actions, and if it is $\pi \in \Pi$ (or similar), then it is iterating over policies.
+the $\operatorname{arg\,max}$ operator (the $\operatorname{arg\,max}$ operator is what does the outermost iteration); if it is $a\in\mathcal A$ (or similar) then it is iterating over actions, and if it is $\pi \in \Pi$ (or similar), then it is iterating over policies.
 
 One exception to the above is UDT2, which seems to iterate over *algorithms*.
 
@@ -111,14 +117,6 @@ If a decision theory is updateless, the conditioning on
 Updatelessness only makes a difference in decision problems that
 have observations.
 
-on uncertainty about where you are:
-
-I think updatelessness is the same as being [uncertain about where your decision algorithm is](http://acritch.com/deserving-trust/#grokking) because you are “ignoring” your observation by not conditioning on it.
-
-https://www.lesswrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers#BrWSWrwaategHEkvh -- when stated like this, it sounds more like logical counterfactuals...
-
-this explanation also emphasizes this: https://www.lesswrong.com/posts/zztyZ4SKy7suZBpbk/another-attempt-to-explain-udt
-
 There seem to be different meanings of "updateless". See the section below,
 “What are all the different meanings of ‘updateless’ used in the wild?”, for
 more information on this.
@@ -130,20 +128,14 @@ can construct counterfactuals or hypotheticals like “if I do *this*,
 then *that* happens”. There are several different kinds of counterfactuals,
 and decision theories are divided among them.
 
-The three types of counterfactuals that will concern us are:
-
-* Causal.
-* Conditional/evidential.
-* Logical.
-
+The three types of counterfactuals that will concern us are: causal, conditional/evidential, and logical/subjunctive.
 The distinctions between these are explained clearly in the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf)
-so I recommend reading that.
+so I recommend reading that (and I won't explain them here).
 
 In the expected utility formula, if the probability factor
 looks like
-$P(\ldots\mid\ldots, \mathrm{A \small CT}=a)$ then it is evidential;
-if it looks like $P(\ldots \mid \ldots, \mathtt{do}(\mathrm{A\small CT}=a))$ then it is causal;
-
+$P(\ldots\mid\ldots, \mathrm{A \small CT}=a)$ then it is evidential, and
+if it looks like $P(\ldots \mid \ldots, \mathtt{do}(\mathrm{A\small CT}=a))$ then it is causal.
 I have seen the logical counterfactual written in many ways:
 
 * $P(\ldots \mid\ldots, \mathtt{do}(\mathrm{\small DT}(\ldots)=\ldots))$ e.g. in the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf), p. 14
@@ -153,16 +145,22 @@ I have seen the logical counterfactual written in many ways:
 
 ## Other dimensions that I ignore
 
+There are many more dimensions along which decision theories differ, but I
+don't understand these and they seem less relevant for comparing among the main
+logical-counterfactual decision theories, so I will just list them here but
+won't go into them later on in the post:
+
 * reflectively consistent: I think this is about whether an agent
   would use precommitment mechanisms or self-modify to use a
   different decision theory.  Can this be seen immediately from
   the expected utility formula? If not, it might be unlike the
   other three above. My current guess is that reflective consistency
   is a higher-level property that follows from the above three.
-* emphasis on graphical models
-* reflective consistency ???
+* emphasis on graphical models: FDT uses graphical models while UDT doesn't
 * dynamic consistency??? https://intelligence.org/files/TDT.pdf
 * a lot of recent developments like plugging in logical inductors into the decision theory.
+* Uncertainty about where your decision algorithm is -- i think this is some combination of the three that I'm already covering
+* proof-based vs modal vs whatever other versions of UDT
 
 # Comparison table along the given dimensions
 
@@ -197,15 +195,21 @@ This section elaborates on the comparison above by giving an explicit expected v
 I will describe UDT1 and FDT’s action variant together, because I think they
 give the same decisions. The main differences between the two seem to be (1)
 the way they are formalized, where FDT uses graphical models and UDT1 uses some
-kind of non-graphical mathematical intuition module (or something); and (2) the
+kind of non-graphical "mathematical intuition module"; and (2) the
 naming, where UDT1 emphasizes the “updateless” aspect and FDT emphasizes the
 logical counterfactual aspect.
 
-[UDT1](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/)
+In the [original UDT post](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/), the expected utility formula is written like this:
+$$Y^* = \operatorname*{arg\,max}_{Y} \sum P_Y(\langle E_1,E_2,E_3,\ldots\rangle) U(\langle E_1,E_2,E_3,\ldots\rangle)$$
+Here $Y$ is an "output string" (which is basically an action). The sum is taken over all possible vectors of the execution histories.
+I prefer [Tyrrell McAllister's notation](https://casparoesterheld.files.wordpress.com/2017/08/updateless_decision_theory-1.pdf):
+$$\operatorname*{arg\,max}_{Y\in \mathbf Y} \sum_{E\in\mathbf E} M(X,Y,E) U(E)$$
 
-also see https://casparoesterheld.files.wordpress.com/2017/08/updateless_decision_theory-1.pdf
+To explain the UDT1 row in the comparison table, note that:
 
-$$\mathrm{UDT}_1(P,x) = \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j \mid )$$
+* The outermost iteration is $\operatorname*{arg\,max}_{Y\in \mathbf Y}$ (over output strings, a.k.a. actions), so it is doing action selection.
+* We don't update on the observation. This isn't really clear from the notation, since $M(X,Y,E)$ still depends on the input string $X$.
+* The counterfactual is logical because $P_Y$ and $M$ use the "mathematical intuition module".
 
 From the FDT paper:
 
@@ -216,14 +220,6 @@ $$\begin{align}\mathrm{FDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in \mathcal A
 (see [comment](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp "“accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept”"))
 
 also see https://www.lesswrong.com/posts/cAMhvPgMQJzhrpNdN/publication-of-anthropic-decision-theory#nW4bPcheDJ4ZAHCNb
-
-Tyrrell McAllister writes UDT1 like this:
-
-$$\operatorname*{arg\,max}_{Y\in \mathbf Y} \sum_{E\in\mathbf E} M(X,Y,E)\cdot U(E)$$
-
-Here $M$ is the mathematical intuition that gives ...
-
-In our own notation, this might look like TODO: give expression
 
 I’m not sure if this is right. But the important point is that UDT1:
 
@@ -337,7 +333,7 @@ $$\begin{align}\mathrm{EDT}(P,x) &= \operatorname*{arg\,max}_{a \in\mathcal A} \
 
 If two decision theories are actually different, there should be some decision problem where they return different answers.
 
-I think the FDT paper does a great job of distinguishing the logical-counterfactual decision theories from EDT and CDT.
+The FDT paper does a great job of distinguishing the logical-counterfactual decision theories from EDT and CDT.
 However, it doesn’t distinguish between different logical-counterfactual decision theories.
 
 The following is a table that shows the disagreements between decision theories.
@@ -346,8 +342,8 @@ The diagonal is blank because the decision theories are the same. The lower left
 
 | |UDT1.1/FDT-policy|UDT1/FDT-action|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|**UDT1.1/FDT-policy**|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (TDT refuses, UDT1.1 pays)|[Parfit’s hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb’s problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
-|**UDT1/FDT-action**|--|--|counterfactual mugging? (TDT refuses, UDT1 pays?)|Parfit’s hitchhiker (EDT refuses, UDT1 pays)|Newcomb’s problem (CDT two-boxes, UDT1 one-boxes)|
+|**UDT1.1/FDT-policy**|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging)/Curious benefactor (TDT refuses, UDT1.1 pays)|[Parfit’s hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb’s problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
+|**UDT1/FDT-action**|--|--|Counterfactual mugging/Curious benefactor (TDT refuses, UDT1 pays)|Parfit’s hitchhiker (EDT refuses, UDT1 pays)|Newcomb’s problem (CDT two-boxes, UDT1 one-boxes)|
 |**TDT**|--|--|--|Parfit’s hitchhiker (EDT refuses, TDT pays)|Newcomb’s problem (CDT two-boxes, TDT one-boxes)|
 |**EDT**|--|--|--|--|Newcomb’s problem (CDT two-boxes, EDT one-boxes)|
 |**CDT**|--|--|--|--|--|
