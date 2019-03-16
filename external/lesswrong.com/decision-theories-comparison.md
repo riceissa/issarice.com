@@ -117,9 +117,9 @@ If a decision theory is updateless, the conditioning on
 Updatelessness only makes a difference in decision problems that
 have observations.
 
-There seem to be different meanings of "updateless". See the section below,
-“What are all the different meanings of ‘updateless’ used in the wild?”, for
-more information on this.
+There seem to be different meanings of "updateless" in use. In this post I will
+use the above meaning. (I will try to post a question soon about these
+different meanings.)
 
 ## Type of counterfactual
 
