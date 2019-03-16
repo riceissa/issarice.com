@@ -348,20 +348,6 @@ The diagonal is blank because the decision theories are the same. The lower left
 |**EDT**|--|--|--|--|Newcomb’s problem (CDT two-boxes, EDT one-boxes)|
 |**CDT**|--|--|--|--|--|
 
-# Remaining questions
-
-## Other decision theories
-
-Here are some other decision theories that I’ve encountered, but for which I
-don’t know how how to fill in the values in the outermost
-iteration/updateless/type of counterfactual table.
-
-* EDT with tickle defense
-* Drescher’s in _Good and Real_
-  “despite being motivated by similar intuitions in Newcomblike cases, it is unclear whether or not the similarity between Drescher-style subjunctive dependence and FDT-style subjunctive dependence is merely verbal.” https://philpapers.org/archive/BARWDT-3.pdf
-* Policy-based CDT (see [Barnett](https://philpapers.org/archive/BARWDT-3.pdf) pp. 58-59)
-
-
 # Other comparisons
 
 Here are some existing comparisons between decision theories that I found
@@ -392,6 +378,7 @@ useful, along with reasons why I felt the current post was needed.
 * 2018-07-23 to 2018-08-10: Initial work on this post.
 * 2018-08-11 to 2018-10-09: Post sat dormant.
 * 2018-10-10: copyediting.
+* 2019-03-15: more work after spending some more time on decision theory (especially refreshing my memory of things)
 * ??: Initial version published.
 
 ## License
