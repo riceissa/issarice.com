@@ -40,7 +40,7 @@ This post is intended for [people](https://intelligence.org/2017/10/22/fdt/#comm
 differences between TDT, UDT, FDT, and LDT. In terms of reader background assumed,
 it would be good to know the statements to some standard decision theory
 problems (Newcomb’s problem, smoking lesion, Parfit’s hitchhiker, transparent
-box Newcomb’s problem, counterfactual mugging) and the “correct” answers to
+box Newcomb’s problem, counterfactual mugging (a.k.a. [curious benefactor](https://philpapers.org/archive/BARWDT-3.pdf); see page 56, footnote 89)) and the “correct” answers to
 them, and having enough background in math to understand the expected utility
 formulas.
 
@@ -94,7 +94,7 @@ One exception to the above is UDT2, which seems to iterate over *algorithms*.
 
 In some decision problems, the agent makes an observation, and has the choice
 of updating on this observation before acting. Two examples of this are: in
-counterfactual mugging, where the agent makes the observation that the coin has
+counterfactual mugging (a.k.a. curious benefactor), where the agent makes the observation that the coin has
 come up tails; and in the transparent box Newcomb’s problem, where the agent
 sees whether the big box is full or empty.
 
@@ -187,16 +187,22 @@ $$\operatorname*{arg\,max}_{\color{blue}{\text{outermost}\\ \ \text{iteration}}}
 
 # Explanations of each decision theory
 
-This section elaborates on the comparison above by giving an expected value formula for each decision theory and explaining why each cell in the table takes that particular value.
+This section elaborates on the comparison above by giving an expected value
+formula for each decision theory and explaining why each cell in the table
+takes that particular value. I won't define the notation very clearly, since I
+am mostly collecting the various notations that have been used (so that you can
+look at the linked source for the details). My goals are to explain how to fill
+in the table above and to show how all the existing variants in notation are
+saying the same thing.
 
 ## UDT1 and FDT (iterate over actions)
 
 I will describe UDT1 and FDT’s action variant together, because I think they
 give the same decisions (if there's a decision problem where they differ, I would like to know about it). The main differences between the two seem to be:
 
-1. The way they are formalized, where FDT uses graphical models and UDT1 uses some kind of non-graphical "mathematical intuition module"
-2. The naming, where UDT1 emphasizes the “updateless” aspect and FDT emphasizes the logical counterfactual aspect
-3. Some sort of additional assumptions that UDT has that FDT doesn't. Rob Bensinger [says](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp) "accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept" and also [says](https://intelligence.org/2017/10/22/fdt/#comment-3581691194) UDT "built in some debatable assumptions (over and above what's needed to show why TDT, CDT, and EDT don't work)". I'm not entirely sure what these additional assumptions are, 
+1. The way they are formalized, where FDT uses graphical models and UDT1 uses some kind of non-graphical "mathematical intuition module".
+2. The naming, where UDT1 emphasizes the “updateless” aspect and FDT emphasizes the logical counterfactual aspect.
+3. Some sort of additional assumptions that UDT has that FDT doesn't. Rob Bensinger [says](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp) "accepting FDT doesn't necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept" and also [says](https://intelligence.org/2017/10/22/fdt/#comment-3581691194) UDT "built in some debatable assumptions (over and above what's needed to show why TDT, CDT, and EDT don't work)". I'm not sure what these additional assumptions are, but my guess is it has to do with viewing the world as a program, Tegmark's level IV multiverse, and things like that (I would be interested in hearing more about the exact assumptions).
 
 In the [original UDT post](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/), the expected utility formula is written like this:
 $$Y^* = \operatorname*{arg\,max}_{Y} \sum P_Y(\langle E_1,E_2,E_3,\ldots\rangle) U(\langle E_1,E_2,E_3,\ldots\rangle)$$
@@ -207,21 +213,14 @@ $$\operatorname*{arg\,max}_{Y\in \mathbf Y} \sum_{E\in\mathbf E} M(X,Y,E) U(E)$$
 To explain the UDT1 row in the comparison table, note that:
 
 * The outermost iteration is $\operatorname*{arg\,max}_{Y\in \mathbf Y}$ (over output strings, a.k.a. actions), so it is doing action selection.
-* We don't update on the observation. This isn't really clear from the notation, since $M(X,Y,E)$ still depends on the input string $X$.
+* We don't update on the observation. This isn't really clear from the notation, since $M(X,Y,E)$ still depends on the input string $X$. However, the [original post](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/) clarifies this, saying "Bayesian updating is not done explicitly in this decision theory".
 * The counterfactual is logical because $P_Y$ and $M$ use the "mathematical intuition module".
 
-From the FDT paper:
+In the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf) (p. 14), the action selection variant of FDT is written as follows:
 
 $$\begin{align}\mathrm{FDT}(P,G,x) &= \operatorname*{arg\,max}_{a \in \mathcal A} \mathbb E(\mathcal U(\mathrm{O\small UTCOME}) \mid \mathtt{do}(\mathrm{\small FDT}(\underline P,\underline G,\underline x)=a)) \\ &= \operatorname*{arg\,max}_{a\in \mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME}=o_j\mid \mathtt{do}(\mathrm{\small FDT}(\underline P, \underline G, \underline x) = a))\end{align}$$
 
-I’m not sure if this is right. But the important point is that UDT1:
-
-* Does action selection due to the $a\in\mathcal A$ or $Y\in\mathbf Y$
-* Uses logical counterfactuals, either via FDT-like notation or via the mathematical intuition
-* Does not condition on the observation, because there is no
-  $\mathrm{O\small BS}=x$ (the McAllister paper doesn’t even mention observations)
-
-The above three explain the values for UDT1 in the comparison table.
+Again, note that we are doing action selection ("$\operatorname*{arg\,max}_{a \in \mathcal A}$"), using logical counterfactuals ("$\mathtt{do}(\mathrm{\small FDT}(\underline P, \underline G, \underline x) = a)$"), and being updateless (absence of "$\mathrm{O\small BS} = x$").
 
 ## UDT1.1 and FDT (iterate over policies)
 
@@ -346,8 +345,8 @@ The diagonal is blank because the decision theories are the same. The lower left
 
 | |UDT1.1/FDT-policy|UDT1/FDT-action|TDT|EDT|CDT|
 |:---:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|**UDT1.1/FDT-policy**|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging)/Curious benefactor (TDT refuses, UDT1.1 pays)|[Parfit’s hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb’s problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
-|**UDT1/FDT-action**|--|--|Counterfactual mugging/Curious benefactor (TDT refuses, UDT1 pays)|Parfit’s hitchhiker (EDT refuses, UDT1 pays)|Newcomb’s problem (CDT two-boxes, UDT1 one-boxes)|
+|**UDT1.1/FDT-policy**|--|Number assignment problem described in the [UDT1.1 post](https://www.lesswrong.com/posts/g8xh9R7RaNitKtkaa/explicit-optimization-of-global-strategy-fixing-a-bug-in) (both UDT1 copies output “A”, the UDT1.1 copies output “A” and “B”)|[Counterfactual mugging](https://wiki.lesswrong.com/wiki/Counterfactual_mugging) (a.k.a. curious benefactor) (TDT refuses, UDT1.1 pays)|[Parfit’s hitchhiker](https://wiki.lesswrong.com/wiki/Parfit%27s_hitchhiker) (EDT refuses, UDT1.1 pays)|[Newcomb’s problem](https://wiki.lesswrong.com/wiki/Newcomb%27s_problem) (CDT two-boxes, UDT1.1 one-boxes)|
+|**UDT1/FDT-action**|--|--|Counterfactual mugging (a.k.a. curious benefactor) (TDT refuses, UDT1 pays)|Parfit’s hitchhiker (EDT refuses, UDT1 pays)|Newcomb’s problem (CDT two-boxes, UDT1 one-boxes)|
 |**TDT**|--|--|--|Parfit’s hitchhiker (EDT refuses, TDT pays)|Newcomb’s problem (CDT two-boxes, TDT one-boxes)|
 |**EDT**|--|--|--|--|Newcomb’s problem (CDT two-boxes, EDT one-boxes)|
 |**CDT**|--|--|--|--|--|
