@@ -1,7 +1,3 @@
-% Comparison of decision theories
-% Issa Rice
-% 2019-03-16
-
 # Introduction
 
 ## Summary
@@ -23,7 +19,7 @@ don’t focus on logical-counterfactual decision theories; or (2) are outdated
 (written before the new functional/logical decision theory terminology came about).
 
 To give a more personal motivation, after reading through a bunch of papers and posts about these
-decision theories, and feeling like I understood the basic ideas, I still
+decision theories, and feeling like I understood the basic ideas, I
 remained highly confused about basic things like “How is UDT different from
 FDT?”, “Why was TDT deprecated?”, and “If TDT performs worse than FDT, then
 what’s one decision problem where they give different outputs?”
@@ -154,7 +150,7 @@ won’t go into them much later on in the post:
   the expected utility formula? If not, it might be unlike the
   other three above. My current guess is that reflective consistency
   is a higher-level property that follows from the above three.
-* Emphasis on graphical models: FDT is formalized using graphical models (of the kind you can read about in Judea Pearl’s book _Causality_) while UDT doesn’t.
+* Emphasis on graphical models: FDT is formalized using graphical models (of the kind you can read about in Judea Pearl’s book _Causality_) while UDT isn’t.
 * Recent developments like using logical inductors.
 * Uncertainty about where your decision algorithm is: I think this is some combination of the three that I’m already covering. For previous discussions, see [this section](http://acritch.com/deserving-trust/#grokking) of Andrew Critch’s post, [this comment](https://www.greaterwrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers/comment/BrWSWrwaategHEkvh) by Wei Dai, and [this post](https://www.lesswrong.com/posts/zztyZ4SKy7suZBpbk/another-attempt-to-explain-udt) by Vladimir Slepnev.
 * Different versions of UDT (e.g. proof-based, modal).
@@ -189,7 +185,7 @@ This section elaborates on the comparison above by giving an expected value
 formula for each decision theory and explaining why each cell in the table
 takes that particular value. I won’t define the notation very clearly, since I
 am mostly collecting the various notations that have been used (so that you can
-look at the linked source for the details). My goals are to explain how to fill
+look at the linked sources for the details). My goals are to explain how to fill
 in the table above and to show how all the existing variants in notation are
 saying the same thing.
 
@@ -200,7 +196,7 @@ give the same decisions (if there’s a decision problem where they differ, I wo
 
 1. The way they are formalized, where FDT uses graphical models and UDT1 uses some kind of non-graphical “mathematical intuition module”.
 2. The naming, where UDT1 emphasizes the “updateless” aspect and FDT emphasizes the logical counterfactual aspect.
-3. Some sort of additional assumptions that UDT has that FDT doesn’t. Rob Bensinger [says](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp) “accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept” and also [says](https://intelligence.org/2017/10/22/fdt/#comment-3581691194) UDT “built in some debatable assumptions (over and above what’s needed to show why TDT, CDT, and EDT don’t work)”. I’m not sure what these additional assumptions are, but my guess is it has to do with viewing the world as a program, Tegmark’s level IV multiverse, and things like that (I would be interested in hearing more about the exact assumptions).
+3. Some additional assumptions that UDT has that FDT doesn’t. Rob Bensinger [says](https://www.lesswrong.com/posts/9BYo6Q9qBMXWLjqPS/miri-decisions-are-for-making-bad-outcomes-inconsistent#JJBt6eitzzrWPukSp) “accepting FDT doesn’t necessarily require a commitment to some of the philosophical ideas associated with updatelessness and logical prior probability that MIRI, Wei Dai, or other FDT proponents happen to accept” and also [says](https://intelligence.org/2017/10/22/fdt/#comment-3581691194) UDT “built in some debatable assumptions (over and above what’s needed to show why TDT, CDT, and EDT don’t work)”. I’m not sure what these additional assumptions are, but my guess is it has to do with viewing the world as a program, Tegmark’s level IV multiverse, and things like that (I would be interested in hearing more about the exact assumptions).
 
 In the [original UDT post](http://lesswrong.com/lw/15m/towards_a_new_decision_theory/), the expected utility formula is written like this:
 $$Y^* = \operatorname*{arg\,max}_{Y} \sum P_Y(\langle E_1,E_2,E_3,\ldots\rangle) U(\langle E_1,E_2,E_3,\ldots\rangle)$$
@@ -224,7 +220,7 @@ Again, note that we are doing action selection (“$\operatorname*{arg\,max}_{a 
 
 UDT1.1 is a decision theory introduced by Wei Dai’s post [“Explicit Optimization of Global Strategy (Fixing a Bug in UDT1)”](http://lesswrong.com/lw/1s5/explicit_optimization_of_global_strategy_fixing_a/).
 
-In [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf) (p. 4, 12) UDT is written as follows:
+In [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf) (p. 4, 12) UDT1.1 is written as follows:
 
 $$\mathrm{UDT}(s) = \operatorname*{arg\,max}_{f} \sum_{i=1}^n U(O_i) \cdot P(\ulcorner \mathrm{UDT} := f : s\mapsto a \urcorner \mathbin{\Box\kern-7mu\rightarrow} O_i)$$
 
