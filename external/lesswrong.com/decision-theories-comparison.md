@@ -259,17 +259,17 @@ Using notation from [Hintze](https://intelligence.org/wp-content/uploads/2014/10
 
 $$\mathrm{TDT}(s) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{i=1}^n U(O_i) P(\ulcorner \mathrm{TDT}(s) := a\urcorner \mathbin{\Box\kern-7mu\rightarrow} O_i \mid s)$$
 
-Here, $s$ is a string of sense data, $\mathcal A$ is the set of actions, $U$ is the utility function, $O_1,\ldots,O_n$ are outcomes, the corner quotes and boxed arrow $\mathbin{\Box\kern-7mu\rightarrow}$ denote a logical counterfactual ("if the TDT algorithm were to output $a$ given input $s$").
-
-The things to note are:
-
-* The outermost iteration is over actions (“$\operatorname*{arg\,max}_{a\in\mathcal A}$”), so TDT does action selection.
-* We condition on the sense data $s$, so TDT is updateful. Quotes about TDT's updatefulness: [this post](https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/) describes TDT as "a theory by MIRI senior researcher Eliezer Yudkowsky that made the mistake of conditioning on observations". The [Updateless decision theories](https://arbital.com/p/updateless_dt/) page on Arbital calls TDT "updateful". [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf) (p. 11): "TDP’s failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million."
-* We use corner quotes and the boxed arrow to denote a logical counterfactual.
+Here, $s$ is a string of sense data (a.k.a. observation), $\mathcal A$ is the set of actions, $U$ is the utility function, $O_1,\ldots,O_n$ are outcomes, the corner quotes and boxed arrow $\mathbin{\Box\kern-7mu\rightarrow}$ denote a logical counterfactual ("if the TDT algorithm were to output $a$ given input $s$").
 
 If I were to rewrite the above using notation from the [FDT paper](https://arxiv.org/pdf/1710.05060.pdf), it would look like:
 
 $$\mathrm{TDT}(P,x) = \operatorname*{arg\,max}_{a\in\mathcal A} \sum_{j=1}^N \mathcal U(o_j)\cdot P(\mathrm{O\small UTCOME} = o_j \mid \mathrm{O\small BS}=x, \mathtt{true}(\mathrm{\small TDT}(\underline P, \underline x) = a))$$
+
+The things to note are:
+
+* The outermost iteration is over actions (“$\operatorname*{arg\,max}_{a\in\mathcal A}$”), so TDT does action selection.
+* We condition on the sense data $s$ or observation $\mathrm{O\small BS}=x$, so TDT is updateful. Quotes about TDT's updatefulness: [this post](https://intelligence.org/2017/03/18/new-paper-cheating-death-in-damascus/) describes TDT as "a theory by MIRI senior researcher Eliezer Yudkowsky that made the mistake of conditioning on observations". The [Updateless decision theories](https://arbital.com/p/updateless_dt/) page on Arbital calls TDT "updateful". [Hintze](https://intelligence.org/wp-content/uploads/2014/10/Hintze-Problem-Class-Dominance-In-Predictive-Dilemmas.pdf) (p. 11): "TDP’s failure on the Curious Benefactor is straightforward. Upon seeing the coinflip has come up tails, it updates on the sensory data and realizes that it is in the causal branch where there is no possibility of getting a million."
+* We use corner quotes and the boxed arrow, or the $\mathtt{true}$ operator, to denote a logical counterfactual.
 
 ## UDT2
 
@@ -371,20 +371,3 @@ useful, along with reasons why I felt the current post was needed.
   chronological ordering of some decision theories and decision problems with a
   focus on logical-counterfactual decision theories, but doesn't really compare
   them.
-
-# Meta information on this post
-
-## Version history
-
-* 2018-07-23 to 2018-08-10: Initial work on this post.
-* 2018-08-11 to 2018-10-09: Post sat dormant.
-* 2018-10-10: copyediting.
-* 2019-03-15 to 2019-03-16: more work after spending some more time on decision theory (especially refreshing my memory of things)
-* ??: Initial version published.
-
-## License
-
-To the extent possible under law, Issa Rice has waived all copyright and
-related or neighboring rights to the content in this post. This work is
-published from: United States. See the [CC0 1.0 Universal Public Domain
-Dedication](https://creativecommons.org/publicdomain/zero/1.0/) for more information.
