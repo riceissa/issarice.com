@@ -9,7 +9,7 @@ TODO: fix straight quotes/curly quotes (done at one point, but do this again bef
 ## Summary
 
 This post is a comparison of various existing decision theories, with a focus
-on decision theories that use logical counterfactuals (a.k.a. the kinds of decision theories most discussed on LessWrong). The post compares the
+on decision theories that use logical counterfactuals (a.k.a. the kind of decision theories most discussed on LessWrong). The post compares the
 decision theories along outermost iteration (action vs policy vs algorithm),
 updatelessness (updateless or updateful), and type of counterfactual used
 (causal, conditional, logical). It then explains the decision theories in more
@@ -22,7 +22,7 @@ give different answers.
 There are some other comparisons of decision theories (see the “Other comparions” section),
 but they either (1)
 don’t focus on logical-counterfactual decision theories; or (2) are outdated
-(written before the new functional/logical decision theory terms came about).
+(written before the new functional/logical decision theory terminology came about).
 
 To give a more personal motivation, after reading through a bunch of papers and posts about these
 decision theories, and feeling like I understood the basic ideas, I still
@@ -68,7 +68,7 @@ between these decision theories.
 
 All of the decision theories in this post iterate through some set of “options” (intentionally vague)
 at the outermost layer of execution to find the best “option”. However, the
-nature of these “options” differs among the various theories.
+nature (type) of these “options” differs among the various theories.
 Most decision theories iterate through either *actions* or *policies*.
 When a decision theory iterates through actions (to find the best action),
 it is doing “action selection”, and the decision theory outputs a single action.
@@ -111,14 +111,14 @@ updateless? In its expected utility formula, if it conditions
 on the observation, it is updateful. In this case
 the probability factor looks like
 $P(\ldots\mid \ldots, \mathrm{O\small BS} = x)$,
-where $x$ is the observation.
+where $x$ is the observation (sometimes the observation is called "sense data" and is denoted by $s$).
 If a decision theory is updateless, the conditioning on
 “$\mathrm{O\small BS} = x$” is absent.
 Updatelessness only makes a difference in decision problems that
 have observations.
 
 There seem to be different meanings of "updateless" in use. In this post I will
-use the above meaning. (I will try to post a question soon about these
+use the above meaning. (I will try to post a question on LessWrong soon about these
 different meanings.)
 
 ## Type of counterfactual
@@ -150,17 +150,16 @@ don't understand these and they seem less relevant for comparing among the main
 logical-counterfactual decision theories, so I will just list them here but
 won't go into them later on in the post:
 
-* reflectively consistent: I think this is about whether an agent
+* Reflective consistency (in particular [dynamic consistency](https://intelligence.org/files/TDT.pdf)): I think this is about whether an agent
   would use precommitment mechanisms or self-modify to use a
   different decision theory.  Can this be seen immediately from
   the expected utility formula? If not, it might be unlike the
   other three above. My current guess is that reflective consistency
   is a higher-level property that follows from the above three.
-* emphasis on graphical models: FDT uses graphical models while UDT doesn't
-* dynamic consistency??? https://intelligence.org/files/TDT.pdf
-* a lot of recent developments like plugging in logical inductors into the decision theory.
-* Uncertainty about where your decision algorithm is -- i think this is some combination of the three that I'm already covering
-* proof-based vs modal vs whatever other versions of UDT
+* Emphasis on graphical models: FDT is formalized using graphical models (of the kind you can read about in Judea Pearl's book _Causality_) while UDT doesn't.
+* Recent developments like using logical inductors.
+* Uncertainty about where your decision algorithm is -- I think this is some combination of the three that I'm already covering. For previous discussions, see [this section](http://acritch.com/deserving-trust/#grokking) of Andrew Critch's post, [this comment](https://www.greaterwrong.com/posts/Qyix5Z5YPSGYxf7GG/less-wrong-q-and-a-with-eliezer-yudkowsky-video-answers/comment/BrWSWrwaategHEkvh) by Wei Dai, and [this post](https://www.lesswrong.com/posts/zztyZ4SKy7suZBpbk/another-attempt-to-explain-udt) by Vladimir Slepnev.
+* Different versions of UDT (e.g. proof-based, modal).
 
 # Comparison table along the given dimensions
 
