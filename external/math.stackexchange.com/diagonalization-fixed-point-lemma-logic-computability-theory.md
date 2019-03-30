@@ -1,0 +1,15 @@
+# Diagonalization/fixed point lemma in logic vs computability theory
+
+Posted at https://math.stackexchange.com/questions/3167898/diagonalization-fixed-point-lemma-in-logic-vs-computability-theory
+
+The fixed point/recursion theorem in computability theory and the diagonalization lemma in logic are really similar and the standard proofs of these theorems can be mapped in a one-to-one way (I tried to show this on [this page](https://machinelearning.subwiki.org/wiki/User:IssaRice/Computability_and_logic/Diagonalization_lemma#Comparison_table) and think I mostly succeeded). However, my gripe with the standard proofs is that they are too magical and don't reveal how they are discovered (see [here](https://machinelearning.subwiki.org/wiki/User:IssaRice/Computability_and_logic/Diagonalization_lemma#Quotes) for similar complaints).
+
+Looking around, I've found two proofs that reveal better how one might actually discover these theorems. The problem is that these discovery methods seem to only work for one of the theorems and not the other, which really bugs me. Since the two theorems are so similar and their standard proofs are essentially the same, I have the sense that a "more intuitive" proof ought to also work for both theorems rather than just one at a time.
+
+Here are the two proofs that seem more intuitive to me:
+
+* In [this answer](https://mathoverflow.net/a/31374) on MathOverflow, Linda Brown Westrick motivates the proof of the diagonalization lemma by first showing that there is no formula $D$ with the property that for all formulas $\varphi$, we have $D(\ulcorner \varphi \urcorner) \iff \varphi(\ulcorner \varphi \urcorner)$. This works in logic, but when we try to replicate the proof with partial recursive functions, the obvious candidate $d$ defined by $d(x) := \varphi_x(x)$ turns out to exist and we can't diagonalize out of the class, thanks to having undefined values.
+
+* In ["Diagonalization and the recursion theorem"](https://projecteuclid.org/euclid.ndjfl/1093890812), James C. Owings, Jr. gives a proof of the recursion theorem in computability theory (see the first two pages of the paper). Taking inspiration, one might construct a matrix with entries $A_j(\ulcorner A_k\urcorner)$ ($j$th row, $k$th column), where $A_n$ is the $n$th formula. If the given formula is $F$ (for which we want to find a fixed point $A \iff F(\ulcorner A\urcorner)$) then we might try to define the mapping $\alpha$ by $\alpha(A_j(\ulcorner A_k\urcorner)) := F(\ulcorner A_j(\ulcorner A_k\urcorner) \urcorner)$. There are now some problems: (1) the images of the rows of the matrix under $\alpha$ aren't in the same form as the original rows, because the corner quotes "eat up" the whole input rather than being composed like in the partial recursive function setting, where $\varphi_{f(h(n))}$ can be written as $\varphi_{(f\circ h)(n)}$; (2) the method given in the Owings paper finds an exact fixed point, whereas in logic we only need a fixed point up to logical equivalence.
+
+Is there some way to get one of the above proofs to work in the setting of the other theorem?
