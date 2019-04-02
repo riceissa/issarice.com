@@ -53,6 +53,17 @@ insert into individual_tasks(task_venue, task_type, task_receptacle, task_recept
     ,('Wikiquote','Wiki page creation','Holden Karnofsky','https://en.wikiquote.org/wiki/Holden_Karnofsky','2018-04-06',0.00,'Philanthropy','Prose','After writing the Wikiquote page for Wei Dai, I was in the mood to write another similar page, so I picked Holden Karnofsky (who I knew had some good quotes).')
     ,('Cause Prioritization Wiki','Wiki page creation','List of classifications of philanthropy','https://causeprioritization.org/List_of_classifications_of_philanthropy','2018-04-27',0.00,'Philanthropy','Table','In the process of thinking about how to better classify cause areas on the wiki, I discovered several existing classifications of philanthropy, so I decided to make a list with some notes on each.')
     ,('LessWrong Wiki','Wiki page creation','Escher painting mind','https://wiki.lesswrong.com/wiki/Escher_painting_mind','2018-10-04',0.00,'Rationality','Prose','I noticed this term being used in several of Eliezer Yudkowsky’s writings, and became frustrated that there was no location that collected all of these.')
+    ,(
+        'LessWrong', /* task_venue */
+        'Blog post or article', /* task_type */
+        'Comparison of decision theories (with a focus on logical-counterfactual decision theories)', /* task_receptacle */
+        'https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical', /* task_receptacle_url */
+        '2019-03-16', /* completion_date */
+        0.00, /* payment */
+        'Decision theory', /* topic */
+        'Prose', /* format */
+        'A blog post comparing decision theories like UDT, FDT, and TDT, which are frequently discussed on LessWrong.' /* notes */
+    )
 ;
 
 insert into individual_tasks(task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, language) values
