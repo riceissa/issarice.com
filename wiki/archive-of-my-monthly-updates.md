@@ -524,3 +524,30 @@ and [Andrew W. Mellon Foundation](https://github.com/riceissa/mellon-foundation)
 
 I spent most of the month learning about things related to AI alignment. See my
 [daily updates blog](https://issarice.wordpress.com/) for updates on this front.
+
+# February and March 2019
+
+In case you were wondering, I got lazy at the end of February and didn't update
+this section, so I am bundling together February and March.
+
+For completed tasks, see the [work]() page.
+
+I've been working towards an explanation of Solomonoff induction; see
+[Solomonoff induction](https://machinelearning.subwiki.org/wiki/Solomonoff_induction) and
+[Variants of Solomonoff induction](https://machinelearning.subwiki.org/wiki/Variants_of_Solomonoff_induction)
+for a work-in-progress.
+
+I spent some time adding to Vipul Naik's Learning Subwiki. You can see
+[my contributions for February](https://learning.subwiki.org/w/index.php?limit=100&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2019&month=02) (I didn't make any edits there during March).
+
+For my edits to my userspace on the Machine Learning Subwiki, see
+[February](https://machinelearning.subwiki.org/w/index.php?limit=215&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=2&associated=1&tagfilter=&year=2019&month=02) and
+[March](https://machinelearning.subwiki.org/w/index.php?limit=40&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=2&associated=1&tagfilter=&year=2019&month=03).
+
+I spent most of February and March learning about things related to AI alignment. See my
+[daily updates blog](https://issarice.wordpress.com/) for updates about most of February.
+I decided to stop blogging there because preparing the updates turned out to be
+annoying and without clear benefits.  If there is demand for this sort of
+updates I would be open to re-starting the blog.
+I'm also hoping to transition into being more output-oriented in AI alignment, with my
+[recent decision theory post](https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical) marking the start of this.
