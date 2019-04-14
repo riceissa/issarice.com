@@ -1,0 +1,97 @@
+{{Attribute English Wikipedia|original-exists=no|title=User:Riceissa/Timeline of effective altruism}}
+
+This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]] movement'''.
+
+==Big picture==
+
+==Full timeline==
+
+{| class="sortable wikitable"
+! Date !! Event type !! Event !! Cause area
+|-
+| {{dts|1971}} || || [[wikipedia:Peter Singer|Peter Singer]] writes his essay "[[wikipedia:Famine, Affluence, and Morality|Famine, Affluence, and Morality]]". It would be published the following year in ''[[wikipedia:Philosophy and Public Affairs|Philosophy and Public Affairs]]''.  It argues that affluent persons are [[wikipedia:morality|morally]] obligated to donate far more resources to [[wikipedia:humanitarian aid|humanitarian]] causes than is considered normal in [[wikipedia:Western culture|Western culture]]s.  The essay was inspired by the [[wikipedia:starvation|starvation]] of [[wikipedia:Bangladesh Liberation War|Bangladesh Liberation War]] [[wikipedia:refugee|refugee]]s, and uses their situation as an example, although Singer's argument is general in scope and not limited to the example of Bangladesh. The essay is anthologized widely as an example of Western ethical thinking.<ref>{{cite book|last=Cottingham|first=John|title=Western philosophy: an anthology|year=1996|publisher=Wiley-Blackwell|isbn=978-0-631-18627-4|pages=461ff|url=https://books.google.com/books?id=imkTo_sNrKcC&pg=PT473}}</ref><ref>{{cite book|last=Shafer-Landau|first=Russ|title=Ethical theory: an anthology|year=2007|publisher=Wiley-Blackwell|isbn=978-1-4051-3320-3|pages=523ff|url=https://books.google.com/books?id=By9nCkAvS6EC&pg=PT523}}</ref><ref>{{cite book|last=Pojman|first=Louis P.|title=Moral philosophy: a reader|year=2003|publisher=Hackett|isbn=978-0-87220-661-8|pages=344ff|url=https://books.google.com/books?id=ILa7WmdUXIMC&pg=PA344}}</ref><ref>{{cite book|last=Wellman|first=Carl|title=Rights and Duties: Welfare rights and duties of charity|year=2002|publisher=Taylor & Francis|isbn=978-0-415-93987-4|pages=227ff|url=https://books.google.com/books?id=OHHZF5kyURUC&pg=PA227}}</ref><ref>{{cite book|last=Chadwick|first=Ruth F.|title=Applied ethics: critical concepts in philosophy. Politics|year=2002|publisher=Taylor & Francis|isbn=978-0-415-20837-6|pages=272ff|url=https://books.google.com/books?id=yk5miXMJH-cC&pg=PA272|author2=Doris Schroeder}}</ref>
+|-
+| {{dts|1996}} || || In the 1996 book ''[[wikipedia:Living High and Letting Die|Living High and Letting Die]]'', the philosopher [[wikipedia:Peter Unger|Peter Unger]] wrote that it was morally praiseworthy and perhaps even morally required for people in academia who could earn substantially greater salaries in the business world to leave academia, earn the greater salaries, and donate most of the extra money to charity.<ref name="Unger">{{cite book|last1=Unger|first1=Peter|title=Living High and Letting Die|date=1996|publisher=Oxford University Press|location=Oxford|isbn=0198026811}}<!--|accessdate=20 April 2016--></ref>
+|-
+| {{dts|2000}} || || The [[wikipedia:Machine Intelligence Research Institute|Machine Intelligence Research Institute]] is founded. At the time it is called the "Singularity Institute for Artificial Intelligence".<ref name=transparency>{{cite web|url = https://intelligence.org/transparency/|title = Transparency and Financials|publisher = Machine Intelligence Research Institute|accessdate = February 19, 2017}}</ref> || Artificial intelligence
+|-
+| {{dts|2002}} || Formation || The [[wikipedia:Schistosomiasis Control Initiative|Schistosomiasis Control Initiative]] (SCI) is founded in 2002. SCI would become a [[wikipedia:GiveWell|GiveWell]] top charity.<ref>[http://www3.imperial.ac.uk/schisto/aboutus "About us" on SCI website]</ref> || Global health
+|-
+| {{dts|2004|8}} || Formation || The [[wikipedia:Against Malaria Foundation|Against Malaria Foundation]] (AMF) is founded. AMF would become a [[wikipedia:GiveWell|GiveWell]] top charity.<ref name=history>{{cite web|url = https://www.againstmalaria.com/History.aspx|title = History|publisher = Against Malaria Foundation|accessdate = February 19, 2017}}</ref> || Global health
+|-
+| {{dts|2005}} || Formation || [[wikipedia:Future of Humanity Institute|Future of Humanity Institute]] is founded by [[wikipedia:Nick Bostrom|Nick Bostrom]].<ref name=newyorker>{{cite journal|journal=[[wikipedia:The New Yorker|The New Yorker]]|first=Raffi|last=Khatchadourian|title=The Doomsday Invention|url=http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom|pages=64–79|date=23 November 2015|volume=XCI|number=37|issn=0028-792X|publisher=Condé Nast}}</ref>
+|-
+| {{Dts|2007}} || Formation || GiveWell is founded by two former [[wikipedia:Bridgewater Associates|Bridgewater Associates]] investment analysts, [[wikipedia:Holden Karnofsky|Holden Karnofsky]] and Elie Hassenfeld.<ref name=AboutGivewell>{{cite web |url=http://www.givewell.org/about |title=About |publisher=GiveWell |date= |accessdate=2011-09-13}}</ref><ref name=illingworth>Patricia Illingworth, Thomas Pogge, Leif Wenar. ''Giving Well: The Ethics of Philanthropy'', Oxford University Press US, 2011. [https://books.google.com/books?id=-GpuK9OsvN0C&pg=PA124 Pg. 124]</ref><ref>[[wikipedia:Peter Singer|Peter Singer]]. ''The Life You Can Save: Acting Now To End World Poverty'', Random House, 2009. Ch. 6, [https://books.google.com/books?id=gGn4cdxEgvEC&pg=PA81 Pg. 81-104]</ref> || Global health
+|-
+| {{Dts|2007}} (late) || Controversy || In late 2007, GiveWell's founders promoted the organization on several internet blogs and forums, including [[wikipedia:MetaFilter|MetaFilter]], using [[wikipedia:astroturfing|astroturfing]].<ref name="nytimes1">{{cite news |title=Founder of a Nonprofit Is Punished by Its Board for Engaging in an Internet Ruse  |author= Stephanie Strom |url= https://www.nytimes.com/2008/01/08/us/08givewell.html|newspaper=[[wikipedia:The New York Times|The New York Times]] |date=8 January 2008 |accessdate=13 September 2011}}</ref> || Global health
+|-
+| {{Dts|2010|12|24}} || Publication || Scott Alexander publishes "Efficient Charity: Do Unto Others{{nbsp}}&hellip;" on [[wikipedia:LessWrong|LessWrong]].<ref>{{cite web |url=http://lesswrong.com/lw/3gj/efficient_charity_do_unto_others/ |title=Efficient Charity: Do Unto Others... |first=Scott |last=Alexander |publisher=[[wikipedia:LessWrong|LessWrong]] |accessdate=February 26, 2017 |date=December 24, 2010}}</ref>
+|-
+| {{Dts|2011}} || Formation || The [[wikipedia:Open Philanthropy Project|Open Philanthropy Project]] begins as GiveWell Labs.
+|-
+| {{dts|2011|10}} || Formation || [[wikipedia:80,000 Hours|80,000 Hours]] is founded.<ref name="80k-history">{{cite web | url = http://80000hours.org/our-mission-and-history | title = Our Mission and History | accessdate = 2012-10-25 | publisher = 80,000 Hours}}</ref>
+|-
+| {{dts|2011}} (late) || || According to William MacAskill, the name "effective altruism" was settled upon in late 2011 when the "Centre for Effective Altruism" (CEA) was chosen as the name for an umbrella organisation that would cover both Giving What We Can and 80,000 Hours.<ref name=history-of-term>{{cite web|url=http://www.effective-altruism.com/ea/5w/the_history_of_the_term_effective_altruism/|title =  The history of the term 'effective altruism'|last = MacAskill|first = William|date = March 11, 2014|accessdate = April 11, 2015|publisher = The Effective Altruism Forum}}</ref> This was a largely internal name, but those who had followed a similar approach increasingly converged upon the name.<ref name=history-of-term/>
+|-
+| {{dts|2012}} || Formation || Animal Charity Evaluators is founded. || Animal welfare
+|-
+| {{Dts|2012|6}} || || GiveWell announces a close partnership with [[wikipedia:Good Ventures|Good Ventures]], the philanthropic foundation tasked with giving away [[wikipedia:Facebook|Facebook]] co-founder [[wikipedia:Dustin Moskovitz|Dustin Moskovitz]]'s wealth. Good Ventures has been one of GiveWell's main funders since then as well as a major donor to GiveWell-recommended charities.<ref name=goodventures-partnership>{{cite web|url=http://blog.givewell.org/2012/06/28/givewell-and-good-ventures/|title = GiveWell and Good Ventures|author = Holden|date = 2012-06-28}}</ref>
+|-
+| {{Dts|2013|6|30}} to {{Dts|2013|7|6}} || Conference || The Effective Altruism Summit 2013 takes place.<ref>{{cite web |url=https://web.archive.org/web/20130802184339/http://www.effectivealtruismsummit.com |title=Effective Altruism Summit 2013 - June 30 to July 6, San Francisco |accessdate=February 26, 2017}}</ref>
+|-
+| {{dts|2014|3}} || Formation || The [[wikipedia:Future of Life Institute|Future of Life Institute]] is founded.
+|-
+| {{Dts|2014|8|2}} || Conference || The Effective Altruism Summit 2014 begins on this day, continuing onto the following day. Speakers would include [[wikipedia:Peter Thiel|Peter Thiel]].<ref>{{cite web |url=http://www.effectivealtruismsummit.com/ |title=Effective Altruism Summit 2014 - August 2-3, San Francisco |accessdate=February 26, 2017}}</ref>
+|-
+| {{dts|2014}} || Publication || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published. || Artificial intelligence
+|-
+| {{Dts|2015}} || Conference || [[wikipedia:Effective Altruism Global|Effective Altruism Global]] 2015 takes place.
+|-
+| {{dts|2015}} || Publication || Peter Singer publishes ''[[wikipedia:The Most Good You Can Do|The Most Good You Can Do]]'', a book on effective altruism.<ref name=kristof>{{cite web|url=http://www.nytimes.com/2015/04/05/opinion/sunday/nicholas-kristof-the-trader-who-donates-half-his-pay.html|title = The Trader Who Donates Half His Pay|last = Kristof|first = Nicholas|authorlink = Nicholas Kristof|date = April 4, 2015|accessdate = April 11, 2015|publisher = ''[[wikipedia:New York Times|New York Times]]''}}</ref>
+|-
+| {{Dts|2016|8}} || Conference || [[wikipedia:Effective Altruism Global|Effective Altruism Global]] 2016 takes place.
+|-
+| {{dts|2016}} (late, or early 2017) || || EA Ventures closes down.
+|}
+
+==Meta information on the timeline==
+
+===How the timeline was built===
+
+The initial version of the timeline was written by [[User:Issa|Issa Rice]] (and probably also some editors on Wikipedia, who wrote the parts Issa quoted from other Wikipedia articles; unfortunately the version on Wikipedia was deleted so it's hard to check where the quotes came from).
+<!-- {{funding info}} is available. -->
+
+===Feedback and comments===
+
+Feedback for the timeline can be provided at the following places:
+
+* https://github.com/riceissa/project-ideas/issues/53
+
+===What the timeline is still missing===
+
+* TODO incorporate from [http://wiki.effectivealtruismhub.com/index.php?title=Special%3AAllPages here]
+* TODO do all GiveWell top charities
+* TODO more links from [[wikipedia:effective altruism|effective altruism]]
+* TODO more links from Bostrom's page
+* TODO felicifia see e.g. [https://www.facebook.com/groups/eahangout/permalink/1648289805257937/]. It looks like there were several versions of the site: felicifia.org, [https://web.archive.org/web/20070901222628/http://www.felicifia.com/showDiary.do?diaryId=89 felicifia.com], and a [https://web.archive.org/web/20070821002318/http://felicifia.blogspot.com:80/2006/09/new-users-start-here.html blogger blog]
+* Good Done Right conference: [https://www.fhi.ox.ac.uk/ea-conference/], [http://blog.practicalethics.ox.ac.uk/2014/04/call-for-registration-good-done-right-a-conference-on-effective-altruism/], [https://www.centreforeffectivealtruism.org/history/]
+* around March--June 2018: talk about operations bottlenecks in EA orgs
+* Controversies:
+** EA Global serving meat in one of the years
+** Gleb Tsipursky
+** gender diversity post on EA forum
+* https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really
+* Toby Ord's book on existential risk
+
+Also see discussion page.
+
+===Timeline update strategy===
+
+==See also==
+
+* [[wikipedia:Timeline of nonprofit evaluation|Timeline of nonprofit evaluation]]
+* [[wikipedia:Priority-setting in global health|Priority-setting in global health]]
+
+==References==
+
+{{Reflist|30em}}
