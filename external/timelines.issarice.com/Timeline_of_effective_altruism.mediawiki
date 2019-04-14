@@ -49,9 +49,17 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2015}} || Publication || Peter Singer publishes ''[[wikipedia:The Most Good You Can Do|The Most Good You Can Do]]'', a book on effective altruism.<ref name=kristof>{{cite web|url=http://www.nytimes.com/2015/04/05/opinion/sunday/nicholas-kristof-the-trader-who-donates-half-his-pay.html|title = The Trader Who Donates Half His Pay|last = Kristof|first = Nicholas|authorlink = Nicholas Kristof|date = April 4, 2015|accessdate = April 11, 2015|publisher = ''[[wikipedia:New York Times|New York Times]]''}}</ref>
 |-
+| {{dts|2015|7|28}} || Publication || {{W|William MacAskill}}'s book ''{{W|Doing Good Better}}'' is published.
+|-
 | {{Dts|2016|8}} || Conference || [[wikipedia:Effective Altruism Global|Effective Altruism Global]] 2016 takes place.
 |-
 | {{dts|2016}} (late, or early 2017) || || EA Ventures closes down.
+|-
+| {{dts|2017|7|2}} || || The Centre for Effective Altruism takes over primary responsibility of the Effective Altruism Forum. Previously, the forum was run by volunteers.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/bwoqzGiz9NNgowsGt/changes-to-the-ea-forum |title=Changes to the EA Forum |publisher=EA Forum |author=Julia Wise |accessdate=April 14, 2019}}</ref>
+|-
+| {{dts|2018|10|17}} || || The open beta of the new Effective Altruism Forum is announced (on the old Effective Altruism Forum).<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/qeAEB4cKmbLxYcaHj/open-beta-of-the-new-ea-forum-now-available |author=Julia Wise |title=Open beta of the new EA Forum now available |publisher=EA Forum |accessdate=April 14, 2019}}</ref>
+|-
+| {{dts|2018|10}} (between 21st and 28th) || || The Effective Altruism Forum begins redirecting to the new forum, i.e. http://effective-altruism.com/ begins redirecting to https://forum.effectivealtruism.org <ref>{{cite web |url=https://web.archive.org/web/20180701000000*/http://effective-altruism.com/ |title=Wayback Machine effective-altruism.com |publisher=Wayback Machine}}</ref><ref>{{cite web |url=https://forum.effectivealtruism.org/posts/azp95f9kctPubF5gz/forum-moving-to-open-beta-this-week |title=Forum moving to open beta this week |publisher=EA Forum |author=Julia Wise |date=October 15, 2018 |accessdate=April 14, 2019}}</ref>
 |}
 
 ==Meta information on the timeline==
