@@ -21,6 +21,10 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2005}} || Formation || [[wikipedia:Future of Humanity Institute|Future of Humanity Institute]] is founded by [[wikipedia:Nick Bostrom|Nick Bostrom]].<ref name=newyorker>{{cite journal|journal=[[wikipedia:The New Yorker|The New Yorker]]|first=Raffi|last=Khatchadourian|title=The Doomsday Invention|url=http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom|pages=64–79|date=23 November 2015|volume=XCI|number=37|issn=0028-792X|publisher=Condé Nast}}</ref>
 |-
+| {{dts|2006|6}} || Publication || Brian Tomasik's collection of essays on utilitarianism is first posted to his website at utilitarian-essays.com.
+|-
+| {{dts|2006|12}} || Community || [[wikipedia:Seth Baum|Seth Baum]] starts a utilitarian community blog Felicifia.com.<ref>{{cite web |title=Felificia Blog Post List |url=http://utilitarianism.wikia.com/wiki/Felificia_Blog_Post_List |website=Utilitarianism Wiki |archiveurl=https://web.archive.org/web/20180716035556/http://utilitarianism.wikia.com/wiki/Felificia_Blog_Post_List |archivedate=2018-07-16 |deadurl=no |language=en}}</ref> He had previously had a personal blog under the same name.
+|-
 | {{Dts|2007}} || Formation || GiveWell is founded by two former [[wikipedia:Bridgewater Associates|Bridgewater Associates]] investment analysts, [[wikipedia:Holden Karnofsky|Holden Karnofsky]] and Elie Hassenfeld.<ref name=AboutGivewell>{{cite web |url=http://www.givewell.org/about |title=About |publisher=GiveWell |date= |accessdate=2011-09-13}}</ref><ref name=illingworth>Patricia Illingworth, Thomas Pogge, Leif Wenar. ''Giving Well: The Ethics of Philanthropy'', Oxford University Press US, 2011. [https://books.google.com/books?id=-GpuK9OsvN0C&pg=PA124 Pg. 124]</ref><ref>[[wikipedia:Peter Singer|Peter Singer]]. ''The Life You Can Save: Acting Now To End World Poverty'', Random House, 2009. Ch. 6, [https://books.google.com/books?id=gGn4cdxEgvEC&pg=PA81 Pg. 81-104]</ref> || Global health
 |-
 | {{Dts|2007}} (late) || Controversy || GiveWell's founders promote the organization on several internet blogs and forums, including [[wikipedia:MetaFilter|MetaFilter]], using [[wikipedia:astroturfing|astroturfing]].<ref name="nytimes1">{{cite news |title=Founder of a Nonprofit Is Punished by Its Board for Engaging in an Internet Ruse  |author= Stephanie Strom |url= https://www.nytimes.com/2008/01/08/us/08givewell.html|newspaper=[[wikipedia:The New York Times|The New York Times]] |date=8 January 2008 |accessdate=13 September 2011}}</ref> || Global health
@@ -36,6 +40,10 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 | {{dts|2012}} || Formation || Animal Charity Evaluators is founded. || Animal welfare
 |-
 | {{Dts|2012|6}} || || GiveWell announces a close partnership with [[wikipedia:Good Ventures|Good Ventures]], the philanthropic foundation tasked with giving away [[wikipedia:Facebook|Facebook]] co-founder [[wikipedia:Dustin Moskovitz|Dustin Moskovitz]]'s wealth. Good Ventures has been one of GiveWell's main funders since then as well as a major donor to GiveWell-recommended charities.<ref name=goodventures-partnership>{{cite web|url=http://blog.givewell.org/2012/06/28/givewell-and-good-ventures/|title = GiveWell and Good Ventures|author = Holden|date = 2012-06-28}}</ref>
+|-
+| {{dts|2012|11|27}} || || The first post on Paul Christiano's effective altruism blog, ''Rational Altruist'', is published.<ref>{{cite web |url=https://rationalaltruist.com/2012/11/27/cost-of-carbon-emissions/ |title=Cost of carbon emissions |date=February 24, 2013 |publisher=Rational Altruist |accessdate=April 14, 2019}}</ref>
+|-
+| 2013 || || Project || [[wikipedia:Sentience Politics|Sentience Politics]], an "anti-speciesist political think-tank", is founded as a subdivision of the Effective Altruism Foundation.<ref>{{cite web |title=About Our Organization |url=https://sentience-politics.org/about/ |website=Sentience Politics |archiveurl=https://web.archive.org/web/20180617041413/https://sentience-politics.org/about/ |archivedate=2018-06-17 |deadurl=no |quote=Sentience Politics was founded as a project of the Effective Altruism Foundation (EAF) in 2013.}}</ref>
 |-
 | {{Dts|2013|6|30}} to {{Dts|2013|7|6}} || Conference || The Effective Altruism Summit 2013 takes place.<ref>{{cite web |url=https://web.archive.org/web/20130802184339/http://www.effectivealtruismsummit.com |title=Effective Altruism Summit 2013 - June 30 to July 6, San Francisco |accessdate=February 26, 2017}}</ref>
 |-
@@ -54,6 +62,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 | {{Dts|2016|8|5}}{{snd}}{{dts|2016|8|7}} || Conference || EA Global: San Francisco 2016 takes place.<ref>{{cite web |url=https://www.eaglobal.org/events/ea-global-2016/ |title=EA Global: San Francisco 2016 - EA Global |publisher=EA Global |accessdate=April 14, 2019}}</ref>
 |-
 | {{dts|2016}} (late, or early 2017) || || EA Ventures closes down.
+|-
+| {{dts|2017|6}} || Project || Wild-Animal Suffering Research is split off from Sentience Politics as a separate organization under the Effective Altruism Foundation. Sentience Politics shifts gears to focus exclusively on political campaigns in Switzerland, and gains independence from EAF.<ref>{{cite web|title=Update on the future of Sentience Politics|url=https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/|archiveurl=https://web.archive.org/web/20180622150519/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/<!--https://archive.is/EsjUs-->|archivedate=2018-06-22|deadurl=no|website=Effective Altruism Foundation|date=2 June 2017}}</ref><ref>{{cite web|title=Introducing the Wild-Animal Suffering Research Project|url=https://was-research.org/blog/introducing-wild-animal-suffering-research-project/|archiveurl=https://web.archive.org/web/20180622125314/https://was-research.org/blog/introducing-wild-animal-suffering-research-project/<!--https://archive.is/CSH6o-->|archivedate=2018-06-22|deadurl=no|website=Wild-Animal Suffering Research|date=20 July 2017}}</ref>
 |-
 | {{dts|2017|7|2}} || || The Centre for Effective Altruism takes over primary responsibility of the Effective Altruism Forum. Previously, the forum was run by volunteers.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/bwoqzGiz9NNgowsGt/changes-to-the-ea-forum |title=Changes to the EA Forum |publisher=EA Forum |author=Julia Wise |accessdate=April 14, 2019}}</ref>
 |-
@@ -76,7 +86,7 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 
 The initial version of the timeline was written by [[User:Issa|Issa Rice]] (and probably also some editors on Wikipedia, who wrote the parts Issa quoted from other Wikipedia articles; unfortunately the version on Wikipedia was deleted so it's hard to check where the quotes came from).
 
-At least one row is taken from [[Timeline of wild animal suffering]].
+Several rows are taken from [[Timeline of wild animal suffering]].
 
 <!-- {{funding info}} is available. -->
 
