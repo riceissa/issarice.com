@@ -65,6 +65,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2018|10}} (between 21st and 28th) || || The Effective Altruism Forum begins redirecting to the new forum, i.e. http://effective-altruism.com/ begins redirecting to https://forum.effectivealtruism.org <ref>{{cite web |url=https://web.archive.org/web/20180701000000*/http://effective-altruism.com/ |title=Wayback Machine effective-altruism.com |publisher=Wayback Machine}}</ref><ref>{{cite web |url=https://forum.effectivealtruism.org/posts/azp95f9kctPubF5gz/forum-moving-to-open-beta-this-week |title=Forum moving to open beta this week |publisher=EA Forum |author=Julia Wise |date=October 15, 2018 |accessdate=April 14, 2019}}</ref>
 |-
+| {{dts|2019|1|25}} || Project || Wild-Animal Suffering Research and Utility Farm merge to form the Wild Animal Initiative.<ref>{{cite web|url = https://www.wildanimalinitiative.org/blog/announcing-wai|title = Announcing WIld Animal Initiative|date = January 25, 2019|accessdate = March 29, 2019}} Cross-posted to https://was-research.org/blog/announcing-wild-animal-initiative/ on the Wild-Animal Suffering Research blog and to https://forum.effectivealtruism.org/posts/jzikTHMSpckYg9ZPp/announcing-wild-animal-initiative on the Effective Altruism Forum. See also the associated discussion on Reddit at https://www.reddit.com/r/EffectiveAltruism/comments/ajr27e/announcing_wild_animal_initiative_wildanimal/</ref>
+|-
 | {{dts|2019|6|21}}{{snd}}{{dts|2019|6|23}} || || EA Global: San Francisco 2019 is scheduled to take place.<ref>{{cite web |url=https://www.eaglobal.org/events/sf2019/ |title=EA Global: San Francisco 2019 - EA Global |publisher=EA Global |accessdate=April 14, 2019}}</ref>
 |}
 
@@ -73,6 +75,9 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 ===How the timeline was built===
 
 The initial version of the timeline was written by [[User:Issa|Issa Rice]] (and probably also some editors on Wikipedia, who wrote the parts Issa quoted from other Wikipedia articles; unfortunately the version on Wikipedia was deleted so it's hard to check where the quotes came from).
+
+At least one row is taken from [[Timeline of wild animal suffering]].
+
 <!-- {{funding info}} is available. -->
 
 ===Feedback and comments===
