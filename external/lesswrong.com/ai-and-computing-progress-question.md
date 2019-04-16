@@ -2,7 +2,7 @@
 
 I have been noticing that an increasing number of organizations and researchers are looking into historical computing hardware prices, progress in AI systems, the relationship between hardware and AI progress, and related topics.
 
-To list of these research efforts/outputs that I am aware of:
+To list the research efforts/outputs that I am aware of:
 
 - [Open Philanthropy Project](https://www.openphilanthropy.org/blog/new-staff-operations-programs-and-research#Kathleen_Finlinson_Research_Analyst): "One of my first projects was a study of how hardware advances have fed into artificial intelligence progress in the past decades. As a first step, I gathered historical data on computing hardware prices. This alone turned out to be much more difficult and complicated than anyone expected - which is one of the great lessons of research! Once the hardware data was roughly in place, I could compare it with historical AI progress. This requires estimating the level of “intelligence” of various AI systems, which is a qualitative and somewhat speculative task. My ongoing projects aim to put such estimates on a more empirical and quantitative footing."
 - AI Impacts: ["Effect of marginal hardware on artificial general intelligence"](https://aiimpacts.org/effect-of-marginal-hardware-on-artificial-general-intelligence/), ["Progress in general purpose factoring"](https://aiimpacts.org/progress-in-general-purpose-factoring/), ["Trends in algorithmic progress"](https://aiimpacts.org/trends-in-algorithmic-progress/)
