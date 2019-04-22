@@ -49,7 +49,9 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2014|3}} || Formation || The [[wikipedia:Future of Life Institute|Future of Life Institute]] is founded.
 |-
-| {{Dts|2014|8|2}} || Conference || The Effective Altruism Summit 2014 begins on this day, continuing onto the following day. Speakers would include [[wikipedia:Peter Thiel|Peter Thiel]].<ref>{{cite web |url=http://www.effectivealtruismsummit.com/ |title=Effective Altruism Summit 2014 - August 2-3, San Francisco |accessdate=February 26, 2017}}</ref>
+| {{dts|2014|7|27}}{{snd}}{{dts|2014|8|1}} || Conference || The Effective Altruism Retreat takes place. The Retreat precedes the Summit, and is intended to "[provide] a more intimate setting for attendees to discuss, to learn, and to form lasting connections with each other and with the community" in contrast to the conference-style Summit.<ref name="ea-summit-2014-lw" />
+|-
+| {{Dts|2014|8|2}}{{snd}}{{dts|2014|8|3}} || Conference || The Effective Altruism Summit 2014 begins on this day, continuing onto the following day. Speakers would include [[wikipedia:Peter Thiel|Peter Thiel]].<ref>{{cite web |url=http://www.effectivealtruismsummit.com/ |title=Effective Altruism Summit 2014 - August 2-3, San Francisco |accessdate=February 26, 2017}}</ref><ref name="ea-summit-2014-lw">{{cite web |url=https://www.lesswrong.com/posts/Q9j8RYyTyZzzhiq2L/effective-altruism-summit-2014 |title=Effective Altruism Summit 2014 |author=Ben_LandauTaylor |publisher=LessWrong 2.0 |accessdate=April 22, 2019 |publisher=LessWrong}}</ref>
 |-
 | {{dts|2014}} || Publication || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published. || Artificial intelligence
 |-
