@@ -17,6 +17,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2002}} || Formation || The [[wikipedia:Schistosomiasis Control Initiative|Schistosomiasis Control Initiative]] (SCI) is founded in 2002. SCI would become a [[wikipedia:GiveWell|GiveWell]] top charity.<ref>[http://www3.imperial.ac.uk/schisto/aboutus "About us" on SCI website]</ref> || Global health
 |-
+| {{dts|2003}} || Publication || Philosopher {{W|Nick Bostrom}}'s paper "Astronomical Waste: The Opportunity Cost of Delayed Technological Development" is published in ''{{W|Utilitas}}''.<ref>{{cite web |url=https://nickbostrom.com/astronomical/waste.html |title=Astronomical Waste: The Opportunity Cost of Delayed Technological Development |accessdate=April 23, 2019 |first=Nick |last=Bostrom}}</ref> The argument would become influential in the effective altruism movement.
+|-
 | {{dts|2004|8}} || Formation || The [[wikipedia:Against Malaria Foundation|Against Malaria Foundation]] (AMF) is founded. AMF would become a [[wikipedia:GiveWell|GiveWell]] top charity.<ref name=history>{{cite web|url = https://www.againstmalaria.com/History.aspx|title = History|publisher = Against Malaria Foundation|accessdate = February 19, 2017}}</ref> || Global health
 |-
 | {{dts|2005}} || Formation || [[wikipedia:Future of Humanity Institute|Future of Humanity Institute]] is founded by [[wikipedia:Nick Bostrom|Nick Bostrom]].<ref name=newyorker>{{cite journal|journal=[[wikipedia:The New Yorker|The New Yorker]]|first=Raffi|last=Khatchadourian|title=The Doomsday Invention|url=http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom|pages=64–79|date=23 November 2015|volume=XCI|number=37|issn=0028-792X|publisher=Condé Nast}}</ref>
@@ -45,6 +47,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | 2013 || || Project || [[wikipedia:Sentience Politics|Sentience Politics]], an "anti-speciesist political think-tank", is founded as a subdivision of the Effective Altruism Foundation.<ref>{{cite web |title=About Our Organization |url=https://sentience-politics.org/about/ |website=Sentience Politics |archiveurl=https://web.archive.org/web/20180617041413/https://sentience-politics.org/about/ |archivedate=2018-06-17 |deadurl=no |quote=Sentience Politics was founded as a project of the Effective Altruism Foundation (EAF) in 2013.}}</ref>
 |-
+| {{dts|2013|5}} || Publication || Nick Beckstead's PhD thesis, "On the Overwhelming Importance of Shaping the Far Future", is submitted.<ref>{{cite web |url=http://www.nickbeckstead.com/research |title=Research |author=Nick Beckstead |accessdate=April 23, 2019}}</ref>
+|-
 | {{Dts|2013|6|30}} to {{Dts|2013|7|6}} || Conference || The Effective Altruism Summit 2013 takes place.<ref>{{cite web |url=https://web.archive.org/web/20130802184339/http://www.effectivealtruismsummit.com |title=Effective Altruism Summit 2013 - June 30 to July 6, San Francisco |accessdate=February 26, 2017}}</ref>
 |-
 | {{dts|2014|3}} || Formation || The [[wikipedia:Future of Life Institute|Future of Life Institute]] is founded.
@@ -56,6 +60,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 | {{dts|2014|7|27}}{{snd}}{{dts|2014|8|1}} || Conference || The Effective Altruism Retreat takes place. The Retreat precedes the Summit, and is intended to "[provide] a more intimate setting for attendees to discuss, to learn, and to form lasting connections with each other and with the community" in contrast to the conference-style Summit.<ref name="ea-summit-2014-lw" />
 |-
 | {{Dts|2014|8|2}}{{snd}}{{dts|2014|8|3}} || Conference || The Effective Altruism Summit 2014 begins on this day, continuing onto the following day. Speakers would include [[wikipedia:Peter Thiel|Peter Thiel]].<ref>{{cite web |url=http://www.effectivealtruismsummit.com/ |title=Effective Altruism Summit 2014 - August 2-3, San Francisco |accessdate=February 26, 2017}}</ref><ref name="ea-summit-2014-lw">{{cite web |url=https://www.lesswrong.com/posts/Q9j8RYyTyZzzhiq2L/effective-altruism-summit-2014 |title=Effective Altruism Summit 2014 |author=Ben_LandauTaylor |publisher=LessWrong 2.0 |accessdate=April 22, 2019 |publisher=LessWrong}}</ref>
+|-
+| {{dts|2014|9|10}} || || The Effective Altruism Forum launches.<ref>{{cite web |url=http://effective-altruism.com/ea/7b/welcome_to_the_effective_altruism_forum/ |archiveurl=https://web.archive.org/web/20150130082844/effective-altruism.com/ea/7b/welcome_to_the_effective_altruism_forum/ |archivedate=January 30, 2015 |author=Ryan Carey |date=September 10, 2014 |publisher=Effective Altruism Forum |deadlink=yes}}</ref>
 |-
 | {{dts|2014}} || Publication || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published. || Artificial intelligence
 |-
