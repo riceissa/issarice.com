@@ -121,6 +121,8 @@ tendencies in people with a single cause area focus:
     > educational convenience and institutional inertia than because of any
     > genuine ruptures in the underlying unity of the achieved knowledge.
 
+    Apparently this idea has been named ["Intertwingularity"](https://en.wikipedia.org/wiki/Intertwingularity).
+
 -   The role of popularization/getting help from experts in many fields.
     It isn't because of Eliezer's decision theory work that he is now
     well-known; rather, it is his popularization work (though the
