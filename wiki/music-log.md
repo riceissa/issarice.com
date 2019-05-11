@@ -339,6 +339,10 @@ The Pillows:
   albums (along with _Amnesiac_, although with _Amnesiac_ I was able
   to eventually enjoy it more).
 
+# May 2019
+
+* Houseki no Kuni (Land of the Lustrous) OST
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
