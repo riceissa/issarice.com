@@ -63,6 +63,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2014|9|10}} || || The Effective Altruism Forum launches, with the forum software based on that of LessWrong (which was itself based on Reddit).<ref>{{cite web |url=http://effective-altruism.com/ea/7b/welcome_to_the_effective_altruism_forum/ |archiveurl=https://web.archive.org/web/20150130082844/effective-altruism.com/ea/7b/welcome_to_the_effective_altruism_forum/ |archivedate=January 30, 2015 |author=Ryan Carey |date=September 10, 2014 |publisher=Effective Altruism Forum |deadlink=yes}}</ref>
 |-
+| {{dts|2014|10|3}} || || EA Profiles and the EA Donation Registry launch on the Effective Altruism Hub.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/5kFwcwDawAHZx6Tqd/introducing-ea-profiles |title=Introducing EA Profiles |author=Tom Ash |publisher=EA Forum |accessdate=April 24, 2019}}</ref><ref>{{cite web |url=https://forum.effectivealtruism.org/posts/ktsPJuhvTvgG3nkKn/introducing-an-ea-donation-registry |title=Introducing an EA Donation Registry |author=Tom Ash |publisher=EA Forum |accessdate=April 24, 2019}}</ref>
+|-
 | {{dts|2014}} || Publication || [[wikipedia:Nick Bostrom|Nick Bostrom]]'s book ''[[wikipedia:Superintelligence: Paths, Dangers, Strategies|Superintelligence: Paths, Dangers, Strategies]]'' is published. || Artificial intelligence
 |-
 | {{Dts|2015}} || Conference || [[wikipedia:Effective Altruism Global|Effective Altruism Global]] 2015 takes place.
