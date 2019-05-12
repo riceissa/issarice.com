@@ -83,6 +83,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2016}} (late, or early 2017) || || EA Ventures closes down.
 |-
+| {{dts|2016|10|24}} || || The blog post "Concerns with Intentional Insights" is published. The blog post raises concerns about astroturfing and other dubious practices used by Intentional Insights, an effective altruism-aligned organization led by Gleb Tsipursky.<ref>{{cite web |url=http://effective-altruism.com/ea/12z/concerns_with_intentional_insights/ |title=Concerns with Intentional Insights |date=October 24, 2016 |publisher=EA Forum}}</ref>
+|-
 | {{dts|2017|6}} || Project || Wild-Animal Suffering Research is split off from Sentience Politics as a separate organization under the Effective Altruism Foundation. Sentience Politics shifts gears to focus exclusively on political campaigns in Switzerland, and gains independence from EAF.<ref>{{cite web|title=Update on the future of Sentience Politics|url=https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/|archiveurl=https://web.archive.org/web/20180622150519/https://ea-foundation.org/blog/update-on-the-future-of-sentience-politics/<!--https://archive.is/EsjUs-->|archivedate=2018-06-22|deadurl=no|website=Effective Altruism Foundation|date=2 June 2017}}</ref><ref>{{cite web|title=Introducing the Wild-Animal Suffering Research Project|url=https://was-research.org/blog/introducing-wild-animal-suffering-research-project/|archiveurl=https://web.archive.org/web/20180622125314/https://was-research.org/blog/introducing-wild-animal-suffering-research-project/<!--https://archive.is/CSH6o-->|archivedate=2018-06-22|deadurl=no|website=Wild-Animal Suffering Research|date=20 July 2017}}</ref>
 |-
 | {{dts|2017|7|2}} || || The Centre for Effective Altruism takes over primary responsibility of the Effective Altruism Forum. Previously, the forum was run by volunteers.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/bwoqzGiz9NNgowsGt/changes-to-the-ea-forum |title=Changes to the EA Forum |publisher=EA Forum |author=Julia Wise |accessdate=April 14, 2019}}</ref>
@@ -129,7 +131,6 @@ Feedback for the timeline can be provided at the following places:
 * around March--June 2018: talk about operations bottlenecks in EA orgs
 * Controversies:
 ** EA Global serving meat in one of the years
-** Gleb Tsipursky
 ** gender diversity post on EA forum
 * https://forum.effectivealtruism.org/posts/jmbP9rwXncfa32seH/after-one-year-of-applying-for-ea-jobs-it-is-really-really
 * Toby Ord's book on existential risk
