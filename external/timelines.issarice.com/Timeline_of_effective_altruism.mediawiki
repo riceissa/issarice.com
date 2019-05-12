@@ -55,6 +55,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2014|5|2}} || Survey || The 2014 survey of effective altruists is announced. This is the first such annual survey.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/Mn4fDHSdRWsDDJkqc/2014-survey-of-effective-altruists |author=Tom Ash |title=2014 survey of effective altruists |publisher=EA Forum |accessdate=April 22, 2019}}</ref>
 |-
+| {{dts|2014|7}}{{snd}}{{dts|2014|8}} || || The {{W|Ice Bucket Challenge}} goes viral on social media. {{W|William MacAskill}} writes a commentary critical of the challenge.<ref>{{cite web |url=https://qz.com/249649/the-cold-hard-truth-about-the-ice-bucket-challenge/ |title=The cold, hard truth about the ice bucket challenge |publisher=Quartz |author=William MacAskill |accessdate=May 12, 2019}}</ref><ref>{{cite web |url=https://forum.effectivealtruism.org/posts/E3t6adWgDXm3pNoYh/assessing-ea-outreach-s-media-coverage-in-2014 |title=Assessing EA Outreach's media coverage in 2014 |publisher=EA Forum |author=William MacAskill |accessdate=May 12, 2019}}</ref>
+|-
 | {{dts|2014|7|7}}{{snd}}{{dts|2014|7|9}} || Conference || The Good Done Right conference takes place.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/kNJNziSDZbeWE4nXs/good-done-right-a-conference-on-effective-altruism |title=Good Done Right: a conference on effective altruism - EA Forum |accessdate=April 22, 2019}}</ref>
 |-
 | {{dts|2014|7|27}}{{snd}}{{dts|2014|8|1}} || Conference || The Effective Altruism Retreat takes place. The Retreat precedes the Summit, and is intended to "[provide] a more intimate setting for attendees to discuss, to learn, and to form lasting connections with each other and with the community" in contrast to the conference-style Summit.<ref name="ea-summit-2014-lw" />
@@ -70,6 +72,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 | {{Dts|2015}} || Conference || [[wikipedia:Effective Altruism Global|Effective Altruism Global]] 2015 takes place.
 |-
 | {{dts|2015}} || Publication || Peter Singer publishes ''[[wikipedia:The Most Good You Can Do|The Most Good You Can Do]]'', a book on effective altruism.<ref name=kristof>{{cite web|url=http://www.nytimes.com/2015/04/05/opinion/sunday/nicholas-kristof-the-trader-who-donates-half-his-pay.html|title = The Trader Who Donates Half His Pay|last = Kristof|first = Nicholas|authorlink = Nicholas Kristof|date = April 4, 2015|accessdate = April 11, 2015|publisher = ''[[wikipedia:New York Times|New York Times]]''}}</ref>
+|-
+| {{dts|2015|2|27}} || || Effective Altruism Ventures launches. EA Ventures provides funding an expertise/guidance to effective altruist projects.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/TFDTKfemMnGbKp3YG/announcing-effective-altruism-ventures |title=Announcing Effective Altruism Ventures |author=Kerry Vaughan |publisher=EA Forum |accessdate=May 12, 2019}}</ref><ref>{{cite web |url=http://www.eaventures.org/ |archiveurl=https://web.archive.org/web/20150916110420/http://www.eaventures.org/ |archivedate=September 16, 2015 |title=Effective Altruism Ventures |deadurl=yes}}</ref>
 |-
 | {{dts|2015|7|28}} || Publication || {{W|William MacAskill}}'s book ''{{W|Doing Good Better}}'' is published.
 |-
