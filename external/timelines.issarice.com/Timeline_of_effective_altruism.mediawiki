@@ -93,6 +93,8 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2017|8|11}}{{snd}}{{dts|2017|8|13}} || || EA Global San Francisco 2017 takes place.<ref>{{cite web |url=https://sf.eaglobal.org/2017 |title=EA Global San Francisco 2017 - Bizzabo |accessdate=April 14, 2019}}</ref>
 |-
+| {{dts|2017}} (late) || || The Global Priorities Institute (GPI) launches. GPI does academic research on cause prioritization.<ref>{{cite web |url=https://causeprioritization.org/Global_Priorities_Institute |title=Global Priorities Institute - Cause Prioritization Wiki |accessdate=May 12, 2019}}</ref>
+|-
 | {{dts|2018|5|2}} || || The second edition of the Effective Altruism Handbook is released.<ref>{{cite web |url=https://forum.effectivealtruism.org/posts/MQWAsdm8MSzYNkD9X/announcing-the-effective-altruism-handbook-2nd-edition |title=Announcing the Effective Altruism Handbook, 2nd edition |publisher=EA Forum |author=Max Dalton |accessdate=May 12, 2019}}</ref>
 |-
 | {{dts|2018|6|8}}{{snd}}{{dts|2018|6|10}} || || EA Global: San Francisco 2018 takes place.<ref>{{cite web |url=https://www.eaglobal.org/events/ea-global-2018-san-francisco/ |title=EA Global: San Francisco 2018 - EA Global |publisher=EA Global |accessdate=April 14, 2019}}</ref>
