@@ -35,9 +35,15 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{Dts|2011}} || Formation || The [[wikipedia:Open Philanthropy Project|Open Philanthropy Project]] begins as GiveWell Labs.
 |-
+| {{dts|2011|2}} || Formation || Giving What We Can soft-launches.<ref name=history-of-term/>
+|-
+| {{dts|2011|8}} || || The leaders of Giving What We Can and 80,000 Hours decide to incorporate as a charity under an umbrella organization.<ref name=history-of-term/>
+|-
 | {{dts|2011|10}} || Formation || [[wikipedia:80,000 Hours|80,000 Hours]] is founded.<ref name="80k-history">{{cite web | url = http://80000hours.org/our-mission-and-history | title = Our Mission and History | accessdate = 2012-10-25 | publisher = 80,000 Hours}}</ref>
 |-
-| {{dts|2011}} (late) || || According to William MacAskill, the name "effective altruism" is settled upon around this time when the "Centre for Effective Altruism" (CEA) is chosen as the name for an umbrella organisation that would cover both Giving What We Can and 80,000 Hours.<ref name=history-of-term>{{cite web|url=http://www.effective-altruism.com/ea/5w/the_history_of_the_term_effective_altruism/|title =  The history of the term 'effective altruism'|last = MacAskill|first = William|date = March 11, 2014|accessdate = April 11, 2015|publisher = The Effective Altruism Forum}}</ref> This was a largely internal name, but those who had followed a similar approach increasingly converged upon the name.<ref name=history-of-term/>
+| {{dts|2011|11}} || || The directors of Giving What We Can and 80,000 Hours decide to aggregate views about what to call the effective altruism movement, and to decide on the name by vote. Those who voted include William MacAskill, Toby Ord, and Nick Beckstead, as well as others who were associated with the movement.<ref name=history-of-term/>
+|-
+| {{dts|2011|12|5}} || || Voting takes place regarding what to name the umbrella organization for Giving What We Can and 80,000 Hours. The name "Centre for Effective Altruism" wins. The term "effective altruism" was not planned to catch on for the name of the movement (although in the end it did).<ref name=history-of-term>{{cite web|url=http://www.effective-altruism.com/ea/5w/the_history_of_the_term_effective_altruism/ |title=The history of the term 'effective altruism' |last = MacAskill | first = William |date = March 11, 2014 |accessdate = April 11, 2015 |publisher = The Effective Altruism Forum}}</ref>
 |-
 | {{dts|2012}} || Formation || Animal Charity Evaluators is founded. || Animal welfare
 |-
@@ -45,7 +51,7 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2012|11|27}} || || The first post on Paul Christiano's effective altruism blog, ''Rational Altruist'', is published.<ref>{{cite web |url=https://rationalaltruist.com/2012/11/27/cost-of-carbon-emissions/ |title=Cost of carbon emissions |date=February 24, 2013 |publisher=Rational Altruist |accessdate=April 14, 2019}}</ref>
 |-
-| 2013 || || Project || [[wikipedia:Sentience Politics|Sentience Politics]], an "anti-speciesist political think-tank", is founded as a subdivision of the Effective Altruism Foundation.<ref>{{cite web |title=About Our Organization |url=https://sentience-politics.org/about/ |website=Sentience Politics |archiveurl=https://web.archive.org/web/20180617041413/https://sentience-politics.org/about/ |archivedate=2018-06-17 |deadurl=no |quote=Sentience Politics was founded as a project of the Effective Altruism Foundation (EAF) in 2013.}}</ref>
+| 2013 || Project || [[wikipedia:Sentience Politics|Sentience Politics]], an "anti-speciesist political think-tank", is founded as a subdivision of the Effective Altruism Foundation.<ref>{{cite web |title=About Our Organization |url=https://sentience-politics.org/about/ |website=Sentience Politics |archiveurl=https://web.archive.org/web/20180617041413/https://sentience-politics.org/about/ |archivedate=2018-06-17 |deadurl=no |quote=Sentience Politics was founded as a project of the Effective Altruism Foundation (EAF) in 2013.}}</ref>
 |-
 | {{dts|2013|5}} || Publication || Nick Beckstead's PhD thesis, "On the Overwhelming Importance of Shaping the Far Future", is submitted.<ref>{{cite web |url=http://www.nickbeckstead.com/research |title=Research |author=Nick Beckstead |accessdate=April 23, 2019}}</ref>
 |-
