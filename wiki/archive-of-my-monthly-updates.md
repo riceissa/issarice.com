@@ -551,3 +551,26 @@ annoying and without clear benefits.  If there is demand for this sort of
 updates I would be open to re-starting the blog.
 I'm also hoping to transition into being more output-oriented in AI alignment, with my
 [recent decision theory post](https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical) marking the start of this.
+
+# April and May 2019
+
+I was busy with travel and didn't feel like updating this section at the end of
+April, so I am bundling together April and May.
+
+For completed tasks, see the [work]() page.
+
+I've been working towards an explanation of Solomonoff induction; see
+[Solomonoff induction](https://machinelearning.subwiki.org/wiki/Solomonoff_induction),
+[Abstracting sensory data in Solomonoff induction](https://machinelearning.subwiki.org/wiki/Abstracting_sensory_data_in_Solomonoff_induction),
+[Proportion of valid programs view of Solomonoff induction](https://machinelearning.subwiki.org/wiki/Proportion_of_valid_programs_view_of_Solomonoff_induction), and
+[Equivalence of random coinflips view and minimal programs view](https://machinelearning.subwiki.org/wiki/Equivalence_of_random_coinflips_view_and_minimal_programs_view)
+for a work-in-progress.
+
+For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?title=Special:Contributions&offset=20190601000000&limit=160&contribs=user&target=IssaRice&namespace=&tagfilter=).
+
+I started working on a [timeline of effective altruism](https://timelines.issarice.com/wiki/Timeline_of_effective_altruism).
+
+I also started working on a portfolio page, which should provide an alternative
+to my [work]() page.
+
+For previous monthly updates, see the [archive of my monthly updates]().

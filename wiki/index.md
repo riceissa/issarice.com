@@ -58,32 +58,26 @@ subdomains existed.
   over time
 - [contentcreation](https://contentcreation.issarice.com/): Content Creation Wiki
 
-# Summary of what I worked on: February and March 2019 {#summary}
+# Summary of what I worked on: April and May 2019 {#summary}
 
-In case you were wondering, I got lazy at the end of February and didn't update
-this section, so I am bundling together February and March.
+I was busy with travel and didn't feel like updating this section at the end of
+April, so I am bundling together April and May.
 
 For completed tasks, see the [work]() page.
 
 I've been working towards an explanation of Solomonoff induction; see
-[Solomonoff induction](https://machinelearning.subwiki.org/wiki/Solomonoff_induction) and
-[Variants of Solomonoff induction](https://machinelearning.subwiki.org/wiki/Variants_of_Solomonoff_induction)
+[Solomonoff induction](https://machinelearning.subwiki.org/wiki/Solomonoff_induction),
+[Abstracting sensory data in Solomonoff induction](https://machinelearning.subwiki.org/wiki/Abstracting_sensory_data_in_Solomonoff_induction),
+[Proportion of valid programs view of Solomonoff induction](https://machinelearning.subwiki.org/wiki/Proportion_of_valid_programs_view_of_Solomonoff_induction), and
+[Equivalence of random coinflips view and minimal programs view](https://machinelearning.subwiki.org/wiki/Equivalence_of_random_coinflips_view_and_minimal_programs_view)
 for a work-in-progress.
 
-I spent some time adding to Vipul Naik's Learning Subwiki. You can see
-[my contributions for February](https://learning.subwiki.org/w/index.php?limit=100&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2019&month=02) (I didn't make any edits there during March).
+For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?title=Special:Contributions&offset=20190601000000&limit=160&contribs=user&target=IssaRice&namespace=&tagfilter=).
 
-For my edits to my userspace on the Machine Learning Subwiki, see
-[February](https://machinelearning.subwiki.org/w/index.php?limit=215&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=2&associated=1&tagfilter=&year=2019&month=02) and
-[March](https://machinelearning.subwiki.org/w/index.php?limit=40&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=2&associated=1&tagfilter=&year=2019&month=03).
+I started working on a [timeline of effective altruism](https://timelines.issarice.com/wiki/Timeline_of_effective_altruism).
 
-I spent most of February and March learning about things related to AI alignment. See my
-[daily updates blog](https://issarice.wordpress.com/) for updates about most of February.
-I decided to stop blogging there because preparing the updates turned out to be
-annoying and without clear benefits.  If there is demand for this sort of
-updates I would be open to re-starting the blog.
-I'm also hoping to transition into being more output-oriented in AI alignment, with my
-[recent decision theory post](https://www.lesswrong.com/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical) marking the start of this.
+I also started working on a portfolio page, which should provide an alternative
+to my [work]() page.
 
 For previous monthly updates, see the [archive of my monthly updates]().
 
