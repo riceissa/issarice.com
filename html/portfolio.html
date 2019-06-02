@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #fdf6e3;
+    }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+      grid-row-gap: 50px;
+      grid-column-gap: 5px;
+    }
+    .grid-item {
+      background-color: #eee8d5;
+      border: 1px solid #555;
+      border-radius: 25px;
+      padding: 5px;
+    }
+  </style>
+  <title>Portfolio of Issa Rice</title>
+</head>
+<body>
+  <h1>Portfolio of Issa Rice</h1>
+
+<p>This page showcases the work I have done. This page is organized into two sections:</p>
+<ul>
+  <li><a href="#projects">Projects</a>&nbsp;&ndash; this section lists some of the biggest projects I've worked on over the past few years</li>
+  <li><a href="#interests-focus-areas">Interests/focus areas</a>&nbsp;&ndash; this section groups my work by "interests" or "focus areas"; it re-lists my major projects and also includes my smaller work</li>
+</ul>
+
+<h2 id="projects">Projects</h2>
+
+<p>This section lists some of the major project I have worked on.</p>
+
+<div class="grid-container">
+  <div class="grid-item">
+    <h3><a href="https://aiwatch.issarice.com/">AI Watch</a></h3>
+    <p>AI Watch is a website to track the technical agendas, people,
+    organizations, products, and other aspects of AI safety/alignment.</p>
+    <p>I decided to create AI Watch for several reasons: (1) I kept hearing people say things like "depending on how your count, there are only around 60 AI safety researchers in the world" without an accompanying list of such people&nbsp;&ndash; if there were so few researchers, it shouldn't be difficult to make such a list! (2) I was trying to decide if I should work on AI safety, and one input to my decision was to get a fine-grained understanding of the landscape of the field&nbsp;&ndash; all the people working in it, the organizations, the number of people trying to enter the field, and so forth. (3) based on things like the annual AI safety review, I thought there was demand for tracking the state of the field.</p>
+    <figure>
+      <a href="https://aiwatch.issarice.com/?organization=Machine+Intelligence+Research+Institute#full-history-of-additions-and-subtractions"><img src="./aiwatch.png" height="180px"/></a>
+      <figcaption>One of the features of AI Watch: a table with the full history of people entering and leaving an organization (in this case MIRI)</figcaption>
+    </figure>
+  </div>
+  <div class="grid-item">
+    <h3><a href="https://donations.vipulnaik.com/">Donations List Website (DLW)</a></h3>
+    <p>A website created by <a href="https://vipulnaik.com/">Vipul Naik</a> to track foundation giving as well as
+    personal donations (mostly by people associated with the effective altruism
+    movement). I don't host the website, but I've done a lot of development
+    work on the site, including <a
+    href="https://github.com/topics/donations-list-website">scraping and
+    processing grants data</a> and adding new features to the site. I am also the author of the <a href="https://forum.effectivealtruism.org/posts/A7NWTjnWZPmjyLdtT/donations-list-website-tutorial-and-request-for-feedback">tutorial</a> for the site, which explains the basic features.</p>
+    <p>Do you remember the bad old days when effective altruists would post their donation decisions and amounts on their personal blogs or on Effective Altruism Forum, and there was no central repository of this information?</p>
+    <figure>
+      <img src="dlw.png" height="200px"/>
+      <figcaption>DLW possesses a Vipudlian aesthetic</figcaption>
+    </figure>
+  </div>
+  <div class="grid-item">
+    <h3>Org Watch</h3>
+    <p>A generalization of AI Watch to organizations outside of AI safety. Even though Org Watch uses the same database and website code as AI Watch, it has different motivations (observe that none of the motivations I listed for AI Watch carry over to a generalization of it outside of AI safety).</p>
+  </div>
+  <div class="grid-item">
+    <h3><a href="https://causeprioritization.org/">Cause Prioritization Wiki</a></h3>
+    <p>A wiki that I started which collects information about cause prioritization. I started this project as a college freshman, with guidance from <a href="https://vipulnaik.com/">Vipul Naik</a>.</p>
+    <figure>
+      <a href="https://causeprioritization.org/dagitty-model.svg"><img src="cause-area-dag.png" height="300px"/></a>
+    </figure>
+  </div>
+  <div class="grid-item">
+    <h3><a href="https://timelines.issarice.com/">Timelines Wiki</a></h3>
+    <p>A wiki I host that serves timelines on various topics (EA and rationality, global health, tech startups, etc.). Note that I've only written a small fraction of the timelines on the site.<p>
+    <p>Why focus on timelines? I think writing a timeline is a good first step
+    in trying to understand a topic, because you don't need to read things
+    chronologically (but the output will still be chronological). So you can go
+    in confused about a topic and slowly get to build a good history of it,
+    piece by piece. It's a way of doing "due diligence" on a topic. I think
+    many people try to understand a topic without even doing anything
+    comparable to writing a timeline, i.e. they just dive in and they don't even
+    know the basic events that have happened for that topic, which leaves them
+    confused.</p>
+    <p>I have also found timelines useful for answering questions. For example,
+    I <a href="https://www.lesswrong.com/posts/b6AB7LhSG5krtKEje/was-cfar-always-intended-to-be-a-distinct-organization-from#cYyXLADw8XB8zsRsk">answered</a>
+    a question about the history of the Center for Applied Rationality (CFAR) by
+    using the timeline of it that I had already written, plus some internet
+    searches.</p>
+    <figure>
+      <img src="timeline-miri.png" height="185px"/>
+      <figcaption>What a typical timeline looks like.</figcaption>
+    </figure>
+    <p>Some of the timelines I've written (note that others may have contributed to the timeline):</p>
+    <ul>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Against_Malaria_Foundation">Timeline of Against Malaria Foundation</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications">Timeline of Carl Shulman publications</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Bitcoin">Timeline of Bitcoin</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute">Timeline of Machine Intelligence Research Institute</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Center_for_Applied_Rationality">Timeline of Center for Applied Rationality</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_AI_safety">Timeline of AI safety</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_libertarianism_in_the_United_States">Timeline of libertarianism in the United States</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Niskanen_Center">Timeline of Niskanen Center</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Ludwig_von_Mises_Institute">Timeline of Ludwig von Mises Institute</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Cato_Institute">Timeline of Cato Institute</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Berkeley_Existential_Risk_Initiative">Timeline of Berkeley Existential Risk Initiative</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Wei_Dai_publications">Timeline of Wei Dai publications</a></li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3><a href="https://machinelearning.subwiki.org/wiki/User:IssaRice">Math notes</a></h3>
+    <p>As I learn math, I sometimes write up notes about what I'm learning. I am especially interested in writing pages about a style of exposition (involving tabular presentation, emphasizing mental representations, saying things in multiple ways) that I feel is neglected in current math textbooks.</p>
+  </div>
+  <div class="grid-item">
+    <h3><a href="https://learning.subwiki.org/">Learning Subwiki</a></h3>
+    <p>A wiki hosted by <a href="https://vipulnaik.com/">Vipul Naik</a> about learning and teaching. Most of my work on the wiki has been about autodidacticism&nbsp;&ndash; learning techniques and strategies to use when self-studying. Some of the pages I've written (these are pretty incomplete):</p>
+    <ul>
+      <li><a href="https://learning.subwiki.org/wiki/List_of_learning_techniques">List of learning techniques</a></li>
+      <li><a href="https://learning.subwiki.org/wiki/Importance_of_struggling_in_learning">Importance of struggling in learning</a></li>
+      <li><a href="https://learning.subwiki.org/wiki/Summary_table_of_methods_of_recall">Summary table of methods of recall</a></li>
+      <li><a href="https://learning.subwiki.org/wiki/Feynman_technique">Feynman technique</a></li>
+      <li><a href="https://learning.subwiki.org/wiki/List_of_terms_related_to_generation">List of terms related to generation</a></li>
+      <li><a href="https://learning.subwiki.org/wiki/Pretesting_effect">Pretesting effect</a></li>
+      <li><a href="https://learning.subwiki.org/wiki/List_of_illusions_of_understanding">List of illusions of understanding</a></li>
+    </ul>
+  </div>
+</div>
+
+<h2 id="interests-focus-areas">Interests/focus areas</h2>
+
+<p>This section lists some areas where I have done substantial work in. Some of
+the projects from the previous section are also listed here.</p>
+
+<div class="grid-container">
+  <div class="grid-item">
+    <h3>AI safety and alignment</h3>
+    <p>This is my current main interest and my best current answer to the question of “What's the most important thing to work on?”</p>
+    <ul>
+      <li><a href="https://aiwatch.issarice.com/">AI Watch</a></li>
+      <li><a href="https://www.alignmentforum.org/posts/QPhY8Nb7gtT5wvoPH/comparison-of-decision-theories-with-a-focus-on-logical">Comparison of decision theories (with a focus on logical-counterfactual decision theories)</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute">Timeline of MIRI</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Future_of_Humanity_Institute">Timeline of FHI</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_AI_safety">Timeline of AI safety</a></li>
+      <li><a href="https://causeprioritization.org/_category/AI_safety">Collection of people's views on AI safety</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_decision_theory">Timeline of decision theory</a></li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Effective altruism and rationality community meta</h3>
+    <ul>
+      <li><a href="https://www.lesswrong.com/posts/SWNn53RryQgTzT7NQ/lesswrong-analytics-february-2009-to-january-2017">LessWrong analytics (February 2009 to January 2017)</a></li>
+      <li><a href="https://lw2.issarice.com/">LessWrong 2.0 Reader</a> and <a href="https://eaforum.issarice.com/">EA Forum reader</a>&nbsp;&ndash; a fast and JavaScript-free way to browse LessWrong 2.0 and the Effective Altruism Forum</li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications">Timeline of Carl Shulman publications</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Wei_Dai_publications">Timeline of Wei Dai publications</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Center_for_Applied_Rationality">Timeline of Center for Applied Rationality</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_the_rationality_community">Timeline of the rationality community</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_effective_altruism">Timeline of effective altruism</a></li>
+      <li>Articles on LessWrong Wiki:
+        <ul>
+          <li><a href="https://wiki.lesswrong.com/wiki/Do_the_math%2C_then_burn_the_math_and_go_with_your_gut">Do the math, then burn the math and go with your gut</a></li>
+          <li><a href="https://wiki.lesswrong.com/wiki/Escher_painting_mind">Escher painting mind</a></li>
+          <li><a href="https://wiki.lesswrong.com/wiki/Optimization_daemons">Optimization daemons</a></li>
+          <li><a href="https://wiki.lesswrong.com/wiki/San_Francisco_Bay_Area_as_a_rationalist_and_effective_altruist_hub">San Francisco Bay Area as a rationalist and effective altruist hub</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Internet usage</h3>
+    <p>As someone who spends a lot of time on the internet, I'm interested in the questions “How can I get more value out of the internet?” (using the internet effectively) and “How can I create more value on the internet?” (content creation).</p>
+    <ul>
+      <li><a href="https://info.cognitomentoring.org/wiki/Using_Reddit">Using Reddit</a></li>
+      <li><a href="https://contentcreation.issarice.com/">Content Creation Wiki</a></li>
+      <li><a href="https://www.wikihow.com/Write-Facebook-Graph-Search-Queries">How to Write Facebook Graph Search Queries</a></li>
+      <li><a href="https://www.wikihow.com/Navigate-to-Web-Pages-Efficiently-Without-Using-Navigation-Menus">How to Navigate to Web Pages Efficiently Without Using Navigation Menus</a></li>
+    </ul>
+    <h4>Web analytics</h4>
+    <ul>
+      <li><a href="https://analytics.vipulnaik.com/">Analytics table for Vipul Naik's projects</a></li>
+      <li><a href="https://timelines.issarice.com/wiki/Timeline_of_Wikimedia_analytics">Timeline of Wikimedia analytics</a> (<a href="https://meta.wikimedia.org/wiki/Research:Timeline_of_Wikimedia_analytics">original</a>), written with <a href="https://vipulnaik.com/">Vipul Naik</a></li>
+      <li>A <a href="https://www.lesswrong.com/posts/SWNn53RryQgTzT7NQ/lesswrong-analytics-february-2009-to-january-2017">blog post about LessWrong analytics</a></li>
+      <li>I wrote the script that generates the <a href="https://github.com/riceissa/timelines-wiki-main-page-table">summary table</a> on the front page of Timelines Wiki (which includes some pageviews data)</li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Digital preservation</h3>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Timeline_of_digital_preservation">Timeline of digital preservation</a></li>
+      <li><a href="https://www.wikihow.com/Archive-Websites-on-Unix-Like-Systems">How to Archive Websites on Unix Like Systems</a></li>
+      <li><a href="https://issarice.com/digital-preservation">Notes on digital preservation</a></li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Learning</h3>
+    <p>I am interested in optimizing my learning (at the moment, this means
+    figuring out how to self-study math better). Even though I enjoy learning, I hate
+    school (even though I do well in school) and prefer to learn "at my own pace" (for more, see my <a href="https://issarice.com/university-of-washington">UW course reviews</a>, and my Quora reviews of <a href="https://www.quora.com/What-is-your-review-of-Inglemoor-High-School/answer/Issa-Rice">high school</a> and <a href="https://www.quora.com/What-is-your-review-of-Northshore-Junior-High-School/answer/Issa-Rice">junior high</a>).</p>
+    <ul>
+      <li><a href="https://learning.subwiki.org/">Learning Subwiki</a></li>
+      <li><a href="https://www.lesswrong.com/posts/DEYZE2236j4QX9oEu/flashcards-for-ai-safety#fJcWn5HfsZuMM9ed4">LessWrong comment about using Anki for AI safety</a></li>
+      <li><a href="https://issarice.com/math-explanations">Musings on math explanations</a></li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Transparency and public discourse</h3>
+    <ul>
+      <li><a href="https://issarice.com/list-of-discussions-about-the-public-discourse-of-givewell-and-open-philanthropy-project">List of discussions about the public discourse of GiveWell and Open Philanthropy Project</a></li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Computing</h3>
+    <p>Occasionally I have written how-to guides and such for software I've used.</p>
+    <ul>
+      <li><a href="https://github.com/riceissa/nginx-mediawiki">Guide to using nginx with MediaWiki on Ubuntu</li>
+      <li><a href="https://issarice.com/bash-shortcuts">Bash shortcuts</a></li>
+    </ul>
+    <p>I also have written some pieces of software. You can find all of this at my <a href="https://github.com/riceissa">GitHub profile</a> (the vast majority are data processing, web scraping, website code). Some notable ones are:</p>
+    <ul>
+      <li><a href="https://github.com/riceissa/citewebgen">Citewebgen</a>, a bookmarklet to generate citation information for web pages</li>
+    </ul>
+    <p>I've written some plugins and documentation pages for <a href="https://issarice.com/vim">Vim</a>, the text editor.</p>
+    <ul>
+      <li><a href="https://github.com/riceissa/vim-pasteurize">pasteurize.vim</a>&nbsp;&ndash; a plugin for Common User Access cut, copy, and paste</li>
+      <li><a href="https://github.com/riceissa/vim-dualist">dualist.vim</a>&nbsp;&ndash; a plugin to make list mode non-annoying</li>
+      <li><a href="https://github.com/riceissa/vim-mediawiki">mediawiki.vim</a>&nbsp;&ndash; unobtrusive syntax highlighting and minimal autocompletions for MediaWiki files</li>
+      <li><a href="https://vim.fandom.com/wiki/Working_with_long_lines">Working with long lines</a>&nbsp;&ndash; strategies for handling long lines in Vim</li>
+      <li><a href="https://vim.fandom.com/wiki/Unused_keys">Unused keys</a>&nbsp;&ndash; an index of unused keys in Vim, as an aid to deciding which keys can be mapped</li>
+      <li><a href="https://vim.fandom.com/wiki/Linting">Linting</a>&nbsp;&ndash; a tutorial for working with linting systems</li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Global health and poverty</h3>
+    <p>Some of my work for <a href="https://vipulnaik.com/">Vipul Naik</a> has involved learning about global health and poverty, and I've written several Wikipedia pages about topics in global health. This is not an active interest these days.</p>
+    <p>I have to admit I found working on global health somewhat emotionally challenging because I was never a "true believer" of it. I had always thought existential risk reduction to be a more important way to improve the world, so working on global health and poverty felt quite demotivating at times (but the general nature of doing research and writing was still enjoyable). Why did I work on it if I didn't believe in it? It was a combination of (1) wanting to get research experience, (2) wanting to work with Vipul, and (3) wanting to build up a savings buffer.</p>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Global_Burden_of_Disease_Study">Global Burden of Disease Study</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Timeline_of_global_health">Timeline of global health</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Hiroshi_Nakajima">Hiroshi Nakajima</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Priority-setting_in_global_health">Priority-setting in global health</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Child_survival_revolution">Child survival revolution</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Participatory_poverty_assessment">Participatory poverty assessment</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Voices_of_the_Poor">Voices of the Poor</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/3_by_5_Initiative">3 by 5 Initiative</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/The_State_of_the_World%27s_Children"><em>The State of the World's Children</em></a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Innovative_Vector_Control_Consortium">Innovative Vector Control Consortium</a></li>
+    </ul>
+  </div>
+  <div class="grid-item">
+    <h3>Other interests</h3>
+    <p>I'm also interested in many other things that are kind of broad/vague and where I
+    haven't done any concrete work in. Examples: understanding people and how
+    they make decisions (sales and signaling, how people make life decisions,
+    how people make and maintain friends), finding smart people and
+    communities, philosophy (metaethics, what to value, consciousness),
+    evolutionary psychology, coordination and group decision making.</p>
+    <p>You can find some of my project ideas in my <a href="https://github.com/riceissa/project-ideas">project ideas repository</a>.</p>
+  </div>
+</div>
+</body>
+</html>
