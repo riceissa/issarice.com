@@ -9,7 +9,7 @@ SERVER_DEST = carbon:/var/www/issarice.com/public_html
 PANDOC_FLAGS = -f markdown+smart -t html5 --base-header-level=2 --template=templates/default.html5 --include-in-header css/solarized_light.css -M today:$(shell date -Idate | tr -d '\n')
 
 .PHONY: pages
-pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work $(OUTDIR)/account-names
+pages: $(HTML_PAGES) $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work $(OUTDIR)/account-names $(OUTDIR)/portfolio
 
 .PHONY: fullsite
 fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/all-pages $(OUTDIR)/sitemap.xml pages
@@ -54,6 +54,9 @@ $(OUTDIR)/sitemap.xml: $(MD_PAGES) generator/sitemap.sh | $(OUTDIR)
 
 $(OUTDIR)/atom.xml: $(MD_PAGES) generator/atom.sh | $(OUTDIR)
 	./generator/atom.sh > "$@"
+
+$(OUTDIR)/portfolio: html/portfolio.html | $(OUTDIR)
+	cp html/portfolio.html "$@"
 
 $(OUTDIR):
 	mkdir -p $(OUTDIR)
