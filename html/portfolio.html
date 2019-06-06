@@ -1,10 +1,251 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      background-color: #fdf6e3;
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Issa Rice">
+  <meta property="og:title" content="Portfolio of Issa Rice" />
+  <meta property="og:site_name" content="Issa Rice" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="article" />
+  <meta property="article:author" content="https://www.facebook.com/riceissa" />
+  <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+  <title>Portfolio of Issa Rice</title>
+<style type="text/css">
+/*
+
+This stylesheet uses colors from Solarized, whose license is reproduced below.
+
+Copyright (c) 2011 Ethan Schoonover
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+*/
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
+}
+
+div.sourceLine { display:inline-block; }
+
+main, footer {
+    line-height: 1.4;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+nav#site_navigation {
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 80%;
+    /* See http://stackoverflow.com/a/324553 ; this ensures that the
+     navigation links (left side) and search bar (right side) play
+     nicely */
+    overflow: hidden;
+}
+
+footer { font-size: 80%; }
+
+dl.page-metadata { font-size: 80%; }
+
+h1 {
+    font-size: 120%;
+    text-transform: uppercase;
+}
+h2 { border-bottom: 1px solid #93a1a1; }
+h2, h3, h4, h5, h6 { font-size: 110%; }
+h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
+
+a { text-decoration: none; }
+a:link { color: #424FAE; }
+a:visited { color: #53744F; }
+a:hover, a:active { text-decoration: underline; }
+a.anchorjs-link:hover, a.anchorjs-link:active { text-decoration: none; }
+
+blockquote {
+    border-left: 4px solid #93a1a1;
+    color: #586e75;
+    margin: 0px;
+    padding-left: 16px;
+}
+
+code {
+    background-color: #f6f6f6;
+    padding-left: 4px;
+    padding-right: 4px;
+    word-wrap: normal;
+}
+
+pre code {
+    display: block;
+    line-height: 1.2;
+    max-height: 400px;
+    overflow: auto;
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    border-bottom: 2px solid #586e75;
+    border-collapse: collapse;
+    border-top: 2px solid #586e75;
+    margin: 0px auto; /* center table */
+}
+
+table th {
+    font-weight: normal;
+    padding: 0px 10px;
+    vertical-align: bottom;
+}
+
+table td {
+    padding: 0px 10px;
+    vertical-align: top;
+
+    /* Hyphenate inside table cells;
+     * from https://justmarkup.com/log/2015/07/dealing-with-long-words-in-css/
+     */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
+table tbody tr { border-bottom: 1px dotted #ccc; }
+table thead th { border-bottom: 1px solid #586e75; }
+table tfoot th { border-top: 1px solid #586e75; }
+
+/* For pages containing at least one large table. Don't center the text so that
+ * the table doesn't look awkward. */
+body.bigtable main, body.bigtable footer {
+    max-width: none;
+    margin: 0px 40px;
+}
+body.bigtable p, body.bigtable dl, body.bigtable pre, body.bigtable h2 {
+    max-width: 35rem;
+}
+/* Due to the padding applied to list markers, these protrude unless they are a
+ * bit shorter than the other tags. */
+body.bigtable ul, body.bigtable ol {
+    max-width: 31rem;
+}
+body.bigtable footer hr {
+    margin: 0;
+    max-width: 35rem;
+}
+@media screen and (max-width: 600px) {
+    body.bigtable main, body.bigtable footer {
+        margin: 0px 20px;
     }
+}
+
+body.wide main, body.wide footer {
+    max-width: none;
+}
+
+body.light {
+    background-color: #fdf6e3;
+    color: #333;
+}
+body.light code { background-color: #eee8d5;}
+body.light a:link { color: #268bd2; }
+body.light a:visited { color: #2aa198; }
+
+body.dark {
+    background-color: #002b36;
+    color: #93a1a1;
+}
+body.dark code { background-color: #073642;}
+body.dark a:link { color: #268bd2; }
+body.dark a:visited { color: #859900; }
+
+body.sans { font-family: Lato, Helvetica, sans-serif; }
+body.sans h1, body.sans h2, body.sans h3, body.sans h4, body.sans h5, body.sans h6 { font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif; }
+
+body.wikitable table {
+    background-color: #f9f9f9;
+    border-collapse: collapse;
+    border-bottom: none;
+    border-top: none;
+}
+
+body.wikitable table th {
+    background-color: #f2f2f2;
+    border: 1px solid #aaaaaa;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+body.wikitable table td {
+    border: 1px solid #aaaaaa;
+    padding: 5px 10px;
+}
+
+body.dark.wikitable table { background-color: #073642; }
+body.dark.wikitable table th { background-color: #1C454F; }
+
+/*
+Colors for source code listings. See
+https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
+and
+http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
+for details.
+*/
+
+.sourceCode span.kw { color: #859900; } /* Keyword */
+.sourceCode span.dt { color: #b58900; } /* Data type */
+.sourceCode span.dv { color: #2aa198; } /* Decimal value */
+.sourceCode span.bn { color: #2aa198; } /* Number in a base other than ten ("base n") */
+.sourceCode span.fl { color: #2aa198; } /* Float */
+.sourceCode span.ch { color: #859900; } /* Character */
+.sourceCode span.st { color: #2aa198; } /* String */
+.sourceCode span.co { color: #93a1a1; font-style: italic; } /* Comment */
+.sourceCode span.ot { color: #cb4b16; } /* Other (Pandoc may have gotten rid of this in later versions) */
+.sourceCode span.al { color: #dc322f; } /* Alert */
+.sourceCode span.fu { color: #268bd2; } /* Function */
+.sourceCode span.er { color: #dc322f; font-weight: bold; } /* Error */
+.sourceCode span.wa { color: #cb4b16; font-weight: italic; } /* Warning */
+.sourceCode span.cn { color: #b58900; } /* Constant */
+.sourceCode span.sc { color: #b58900; } /* Special character */
+.sourceCode span.vs { } /* Verbatim string */
+.sourceCode span.ss { } /* Special string */
+.sourceCode span.im { color: #cb4b16; } /* Import statement */
+.sourceCode span.va { } /* Variable */
+.sourceCode span.cf { color: #859900; } /* Control-flow */
+.sourceCode span.op { color: #859900; } /* Operator */
+.sourceCode span.bu { color: #268bd2; } /* Built-in function(?) */
+.sourceCode span.ex { } /* Extension */
+.sourceCode span.pp { } /* Preprocessor */
+.sourceCode span.at { } /* Attribute */
+.sourceCode span.do { } /* Documentation */
+.sourceCode span.an { } /* Annotation */
+.sourceCode span.cv { } /* Comment variable -- variables that appear in comments? */
+.sourceCode span.in { } /* Information */
+.sourceCode span.re { color: #b58900; } /* Region markers (Pandoc may have gotten rid of this in later versions) */
+</style>
+  <style type="text/css">
     .grid-container {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
@@ -12,16 +253,72 @@
       grid-column-gap: 5px;
     }
     .grid-item {
-      background-color: #eee8d5;
+      background-color: #f6f6f6;
       border: 1px solid #555;
       border-radius: 25px;
       padding: 5px;
     }
+    body.light.grid-item {
+      background-color: #eee8d5;
+    }
+    body.dark.grid-item {
+      background-color: #073642;
+    }
   </style>
-  <title>Portfolio of Issa Rice</title>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="anchor.min.js"></script>
+  <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-54798318-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+  <script src="change-theme.js"></script>
 </head>
 <body>
-  <h1>Portfolio of Issa Rice</h1>
+
+<script>
+  set_theme_from_cookies();
+</script>
+
+<nav id="site_navigation">
+    <div style="float:left;">
+    <a href="./index">Home</a>
+    | <a href="./about">About</a>
+    | <a href="./all-pages">Newest changes</a>
+        | <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/wiki/index.md">View source</a>
+    | <a href="https://github.com/riceissa/issarice.com/commits/master/wiki/index.md">View history</a>
+        <span id="changeThemeMenu" style="display: none;">| Change
+    {<a href="#" onclick="change_theme_text_width()">text width</a>,
+     <a href="#" onclick="change_theme_color()">color</a>,
+     <a href="#" onclick="change_theme_font_family()">font</a>,
+     <a href="#" onclick="change_theme_table()" title="Changes the styling of tables (booktabs or wikitable); change is only visible on pages that have at least one table">table</a>}</span>
+  </div>
+  <div style="float:right;">
+        <form name="google-search" action="https://google.com/search" method="get">
+      <fieldset style="border:0;">
+        <input type="hidden" name="sitesearch" value="https://issarice.com" />
+        <input name="q" type="text" />
+        <input type="hidden" name="q" value="-site:timelines.issarice.com" />
+        <input type="hidden" name="q" value="-site:lw2.issarice.com" />
+        <input type="hidden" name="q" value="-site:eaforum.issarice.com" />
+        <input type="hidden" name="q" value="-site:aiwatch.issarice.com" />
+        <input type="hidden" name="q" value="-site:orgwatch.issarice.com" />
+        <input type="hidden" name="q" value="-site:beliefs.issarice.com" />
+        <input type="submit" name="btnG" value="Search site" />
+      </fieldset>
+    </form>
+  </div>
+</nav>
+
+<main>
+<h1>Portfolio of Issa Rice</h1>
 
 <p>This page showcases the work I have done. This page is organized into two sections:</p>
 <ul>
@@ -61,6 +358,10 @@
   <div class="grid-item">
     <h3><a href="https://orgwatch.issarice.com/">Org Watch</a></h3>
     <p>A generalization of AI Watch to organizations outside of AI safety. Even though Org Watch uses the same database and website code as AI Watch, it has different motivations (observe that none of the motivations I listed for AI Watch carry over to a generalization of it outside of AI safety).</p>
+    <figure>
+      <a href="https://orgwatch.issarice.com/?organization=Open+Philanthropy+Project#organization-documents"><img src="orgwatch-org-docs.png" height="200px"/></a>
+      <figcaption>Organization documents track information about experience working at or applying for an organization, as well as hiring information. Organization documents are one of the features that were added to deal with the more organizational focus of Org Watch.</figcaption>
+    </figure>
   </div>
   <div class="grid-item">
     <h3><a href="https://causeprioritization.org/">Cause Prioritization Wiki</a></h3>
@@ -255,5 +556,29 @@ the projects from the previous section are also listed here.</p>
     <p>You can find some of my project ideas in my <a href="https://github.com/riceissa/project-ideas">project ideas repository</a>.</p>
   </div>
 </div>
+</main>
+
+<footer>
+<hr />
+<p>
+  <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="./cc_public_domain.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law, Issa Rice has waived all copyright and
+  related or neighboring rights to the content on this page. This work is
+  published from: United States.
+  See the
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0
+    1.0 Universal Public Domain Dedication</a>
+  for more information.
+</p>
+</footer>
+
+<script>
+  document.getElementById('changeThemeMenu').style.display='inline';
+  anchors.add();
+</script>
+
 </body>
 </html>
