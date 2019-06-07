@@ -264,6 +264,12 @@ for details.
     body.dark .grid-item {
       background-color: #073642;
     }
+
+    @media (max-width: 500px) {
+      .grid-container {
+        grid-template-columns: repeat(auto-fit, 1fr);
+      }
+    }
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
