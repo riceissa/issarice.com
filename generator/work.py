@@ -156,7 +156,8 @@ print("""</dl>
        and rewrite all the notes for the contract work columns, so
        you will just have to live with it.</p>
     <p><a href="https://github.com/riceissa/issarice.com/blob/master/generator/work.py">Source code</a> for the script that prints this page is available.</p>
-    <p>Hovering over the Payment column will show a tooltip giving the payer.</p>""")
+    <p>Hovering over the Payment column will show a tooltip giving the payer.</p>
+    <p>If you prefer a less overwhelming experience, you might want to check out my <a href="https://issarice.com/portfolio">portfolio page</a> instead.</p>""")
 print("<p>Showing {} tasks sorted by completion date. With JavaScript enabled, it is possible to sort by each column (unless the window is too narrow, in which case the table collapses into a “definition list” format for easier viewing).</p>".format(count))
 print("""<table>
   <thead>
