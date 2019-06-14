@@ -164,4 +164,8 @@ Talking about senior hiring, they list some general principles:
 
 <https://www.facebook.com/satvik.beri/posts/610742700734>
 
+<https://www.openphilanthropy.org/blog/reflections-our-2018-generalist-research-analyst-recruiting>
+
+Something I find unfortunate is that most people require an overwhelming amount of evidence before recognizing someone's greatness. The more time one has to think and the more one interacts with someone (or just reads their content), the easier it is to tell their greatness. But it seems like someone people have the skill/ability to recognize greatness given a very small amount of evidence. The rest of humanity requires such an overwhelming amount of evidence of greatness that it becomes impossible to ignore it (and such evidence often only becomes available once the person in question has died). (See Eliezer Yudkowsky's posts about Solomonoff induction and the difference between science and rationality for related ideas. "I sometimes say that the goal of science is to amass such an enormous mountain of evidence that not even scientists can ignore it" ([source](https://www.lesswrong.com/posts/WijMw9WkcafmCFgj4/do-scientists-already-know-this-stuff)).)
+
 [handbook_wisdom]: https://books.google.com/books?id=s5h2AwAAQBAJ&lpg=PA310&ots=aB_D0kMGsT&dq=IQ%20gap%20leader-follower%20relationship&pg=PA310#v=onepage&q=IQ%20gap%20leader-follower%20relationship&f=false "Eric H. Kessler and James R. Bailey. Handbook of Organizational and Managerial Wisdom. Sage Publications, Inc. 2007."
