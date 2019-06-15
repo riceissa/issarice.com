@@ -53,9 +53,13 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | 2013 || Project || [[wikipedia:Sentience Politics|Sentience Politics]], an "anti-speciesist political think-tank", is founded as a subdivision of the Effective Altruism Foundation.<ref>{{cite web |title=About Our Organization |url=https://sentience-politics.org/about/ |website=Sentience Politics |archiveurl=https://web.archive.org/web/20180617041413/https://sentience-politics.org/about/ |archivedate=2018-06-17 |deadurl=no |quote=Sentience Politics was founded as a project of the Effective Altruism Foundation (EAF) in 2013.}}</ref>
 |-
+| {{dts|2013|4|18}} || || The <code>effective-altruism.com</code> domain name is registered.<ref>{{cite web |url=https://whois.icann.org/en/lookup?name=effective-altruism.com |title=Showing results for: effective-altruism.com |publisher=ICANN WHOIS |accessdate=June 15, 2019 |quote=Creation Date: 2013-04-18T19:13:28Z}}</ref>
+|-
 | {{dts|2013|5}} || Publication || Nick Beckstead's PhD thesis, "On the Overwhelming Importance of Shaping the Far Future", is submitted.<ref>{{cite web |url=http://www.nickbeckstead.com/research |title=Research |author=Nick Beckstead |accessdate=April 23, 2019}}</ref>
 |-
 | {{dts|2013|5|20}} || || {{W|Peter Singer}}'s [[wikipedia:TED (conference)|TED talk]], entitled "The why and how of effective altruism", is published.<ref>{{cite web |url=https://www.youtube.com/watch?v=Diuv3XZQXyc |title=Peter Singer: The why and how of effective altruism |publisher=YouTube |accessdate=June 14, 2019}}</ref>
+|-
+| {{dts|2013|6|25}} || || The Effective Altruism Blog launches around this time. The blog is "an invite-only blog that [has] a handful of posts",<ref name="vipul-analytics-post" /> and is hosted at <code>www.effective-altruism.com</code> (the location the Effective Altruism Forum would later take).<ref>{{cite web |url=http://www.effective-altruism.com/ |archiveurl=https://web.archive.org/web/20130625033236/http://www.effective-altruism.com/ |archivedate=June 25, 2013 |deadurl=yes |title=Effective Altruism {{!}} Doing the most good}}</ref><ref>{{cite web |url=http://www.effective-altruism.com/ |archiveurl=https://web.archive.org/web/20131231232437/http://www.effective-altruism.com/ |archivedate=December 31, 2013 |title=The Effective Altruism Blog}}</ref>
 |-
 | {{Dts|2013|6|30}} to {{Dts|2013|7|6}} || Conference || The Effective Altruism Summit 2013 takes place.<ref>{{cite web |url=https://web.archive.org/web/20130802184339/http://www.effectivealtruismsummit.com |title=Effective Altruism Summit 2013 - June 30 to July 6, San Francisco |accessdate=February 26, 2017}}</ref>
 |-
