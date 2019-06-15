@@ -157,8 +157,6 @@ Feedback for the timeline can be provided at the following places:
 * Tabs i had open:
 ** https://eaforum.issarice.com/posts.php?id=PoYi6fynNfHScf7qB
 ** https://eaforum.issarice.com/posts.php?id=gNHFRWyo58cTQ8pe8
-** https://forum.effectivealtruism.org/posts/QXpWsT7iHMsmbvq3X/effective-altruism-forum-web-traffic-from-google-analytics
-** http://bostonreview.net/blog/hauke-hillebrandt-giving-what-we-can-effective-altruism-impact
 ** https://eaforum.issarice.com/?view=old&offset=50&before=2016-12-31&after=2016-01-01
 
 Also see discussion page.
