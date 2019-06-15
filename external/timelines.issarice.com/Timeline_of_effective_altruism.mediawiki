@@ -43,11 +43,15 @@ This is a '''timeline of the [[wikipedia:effective altruism|effective altruism]]
 |-
 | {{dts|2011|11}} || || The directors of Giving What We Can and 80,000 Hours decide to aggregate views about what to call the effective altruism movement, and to decide on the name by vote. Those who voted include William MacAskill, Toby Ord, and Nick Beckstead, as well as others who were associated with the movement.<ref name=history-of-term/>
 |-
+| {{dts|2011|11|27}} || || The r/smartgiving subreddit is created. This is the original subreddit about effective altruism before r/EffectiveAltruism is created (?).<ref>{{cite web |url=https://www.reddit.com/r/smartgiving/about/moderators |title=moderators - r/smartgiving |accessdate=June 15, 2019 |quote=a community for 7 years [Sun Nov 27 16:20:59 2011 UTC]}}</ref>
+|-
 | {{dts|2011|12|5}} || || Voting takes place regarding what to name the umbrella organization for Giving What We Can and 80,000 Hours. The name "Centre for Effective Altruism" wins. The term "effective altruism" was not planned to catch on for the name of the movement (although in the end it did).<ref name=history-of-term>{{cite web|url=http://www.effective-altruism.com/ea/5w/the_history_of_the_term_effective_altruism/ |title=The history of the term 'effective altruism' |last = MacAskill | first = William |date = March 11, 2014 |accessdate = April 11, 2015 |publisher = The Effective Altruism Forum}}</ref>
 |-
 | {{dts|2012}} || Formation || Animal Charity Evaluators is founded. || Animal welfare
 |-
 | {{Dts|2012|6}} || || GiveWell announces a close partnership with [[wikipedia:Good Ventures|Good Ventures]], the philanthropic foundation tasked with giving away [[wikipedia:Facebook|Facebook]] co-founder [[wikipedia:Dustin Moskovitz|Dustin Moskovitz]]'s wealth. Good Ventures has been one of GiveWell's main funders since then as well as a major donor to GiveWell-recommended charities.<ref name=goodventures-partnership>{{cite web|url=http://blog.givewell.org/2012/06/28/givewell-and-good-ventures/|title = GiveWell and Good Ventures|author = Holden|date = 2012-06-28}}</ref>
+|-
+| {{Dts|2012|9|17}} || || The r/EffectiveAltruism subreddit is created.<ref>{{cite web |url=https://www.reddit.com/r/EffectiveAltruism/about/moderators |title=moderators - r/EffectiveAltruism |accessdate=June 15, 2019 |quote=a community for 6 years [Mon Sep 17 19:00:22 2012 UTC]}}</ref>
 |-
 | {{dts|2012|11|27}} || || The first post on Paul Christiano's effective altruism blog, ''Rational Altruist'', is published.<ref>{{cite web |url=https://rationalaltruist.com/2012/11/27/cost-of-carbon-emissions/ |title=Cost of carbon emissions |date=February 24, 2013 |publisher=Rational Altruist |accessdate=April 14, 2019}}</ref>
 |-
