@@ -574,3 +574,13 @@ I also started working on a portfolio page, which should provide an alternative
 to my [work]() page.
 
 For previous monthly updates, see the [archive of my monthly updates]().
+
+# June 2019
+
+For completed tasks, see the [work]() page.
+
+For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=140&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=6).
+
+An initial version of my [portfolio page](https://issarice.com/portfolio) is now available.
+
+For previous monthly updates, see the [archive of my monthly updates]().

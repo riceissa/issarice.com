@@ -58,26 +58,13 @@ subdomains existed.
   over time
 - [contentcreation](https://contentcreation.issarice.com/): Content Creation Wiki
 
-# Summary of what I worked on: April and May 2019 {#summary}
-
-I was busy with travel and didn't feel like updating this section at the end of
-April, so I am bundling together April and May.
+# Summary of what I worked on: June 2019 {#summary}
 
 For completed tasks, see the [work]() page.
 
-I've been working towards an explanation of Solomonoff induction; see
-[Solomonoff induction](https://machinelearning.subwiki.org/wiki/Solomonoff_induction),
-[Abstracting sensory data in Solomonoff induction](https://machinelearning.subwiki.org/wiki/Abstracting_sensory_data_in_Solomonoff_induction),
-[Proportion of valid programs view of Solomonoff induction](https://machinelearning.subwiki.org/wiki/Proportion_of_valid_programs_view_of_Solomonoff_induction), and
-[Equivalence of random coinflips view and minimal programs view](https://machinelearning.subwiki.org/wiki/Equivalence_of_random_coinflips_view_and_minimal_programs_view)
-for a work-in-progress.
+For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=140&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=6).
 
-For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?title=Special:Contributions&offset=20190601000000&limit=160&contribs=user&target=IssaRice&namespace=&tagfilter=).
-
-I started working on a [timeline of effective altruism](https://timelines.issarice.com/wiki/Timeline_of_effective_altruism).
-
-I also started working on a portfolio page, which should provide an alternative
-to my [work]() page.
+An initial version of my [portfolio page](https://issarice.com/portfolio) is now available.
 
 For previous monthly updates, see the [archive of my monthly updates]().
 
