@@ -733,6 +733,7 @@ several aspects to this:
     - **Brian Tomasik** (a lot of his philosophy writings are similar in
       content to those of Yudkowsky, Drescher, and Daniel Dennett, but
       Tomasik's writings might be the clearest)
+    - Abram Demski
     - Jessica Taylor
     - [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)
     - Paul Graham
