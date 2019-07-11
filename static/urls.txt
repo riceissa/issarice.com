@@ -66,6 +66,10 @@ http://feeds.pinboard.in/rss/u:mnielsen/t:memory/ "~mnielsen Pinboard - memory"
 http://feeds.pinboard.in/rss/u:mnielsen/t:ahc/ "~mnielsen Pinboard - ahc"
 http://feeds.pinboard.in/rss/u:mnielsen/t:anki/ "~mnielsen Pinboard - anki"
 https://twitrss.me/twitter_user_to_rss/?user=michael_nielsen
+https://twitrss.me/twitter_user_to_rss/?user=andy_matuschak
+https://twitrss.me/twitter_user_to_rss/?user=jessi_cata
+https://twitrss.me/twitter_user_to_rss/?user=ESYudkowsky
+https://twitrss.me/twitter_user_to_rss/?user=HiFromMichaelV
 https://medium.com/feed/@nayafia
 http://gmachine1729.wordpress.com/feed/
 https://blog.ought.com/feed
