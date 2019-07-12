@@ -3,7 +3,6 @@ https://www.econlib.org/author/bcaplan/feed/
 https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
 https://groups.google.com/forum/feed/newly-published-givewell-materials/msgs/rss_v2_0.xml
 http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
-https://groups.google.com/a/openphilanthropy.org/forum/feed/newly.published/topics/rss.xml
 https://www.greaterwrong.com/users/carlshulman?format=rss
 https://www.greaterwrong.com/users/wei_dai?format=rss
 https://www.greaterwrong.com/users/jonahsinick?format=rss
@@ -25,7 +24,7 @@ https://lw2.issarice.com/users/orthonormal?format=rss
 https://lw2.issarice.com/users/jsalvati?format=rss
 https://lw2.issarice.com/users/jsalvatier?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=robbensinger&format=rss
-https://exp.issarice.com/ea-forum-reader/users.php?id=Lila&format=rss
+https://ea.greaterwrong.com/users/Lila?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
 https://eaforum.issarice.com/users/beth-1?format=rss
