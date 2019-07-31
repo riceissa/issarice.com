@@ -84,3 +84,4 @@ http://mediangroup.org/feed/atom.xml
 https://jaydaigle.net/feed.xml
 https://github.com/colah/colah.github.io/commits/master.atom
 https://www.reddit.com/user/adventuringraw/.rss
+https://rationalistramble.wordpress.com/feed
