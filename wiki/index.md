@@ -20,7 +20,7 @@ others can benefit from my thoughts and critique them.
 - [Contact me](contact): the best way to contact me is via email at
   [riceissa@gmail.com](mailto:riceissa@gmail.com)
 - [Account names I use on various websites](account-names)
-- [List of things I have worked on](work)
+- [Portfolio of my work](portfolio); [more complete list of things I have worked on](work)
 - [Software I use](software)
 - My pages related to the [University of Washington](university-of-washington)
 - [Notes on computing](computing) (Unix-like operating systems, programming, etc.)
@@ -58,13 +58,15 @@ subdomains existed.
   over time
 - [contentcreation](https://contentcreation.issarice.com/): Content Creation Wiki
 
-# Summary of what I worked on: June 2019 {#summary}
+# Summary of what I worked on: July 2019 {#summary}
 
 For completed tasks, see the [work]() page.
 
-For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=140&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=6).
+For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=160&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=7).
 
-An initial version of my [portfolio page](https://issarice.com/portfolio) is now available.
+I spent most of this month learning more mathematics.
+
+I also spent some time (~30 hours) this month doing contract work for the [BERI/FHI collaboration](http://existence.org/collaborations/).
 
 For previous monthly updates, see the [archive of my monthly updates]().
 

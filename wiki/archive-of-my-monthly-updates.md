@@ -573,8 +573,6 @@ I started working on a [timeline of effective altruism](https://timelines.issari
 I also started working on a portfolio page, which should provide an alternative
 to my [work]() page.
 
-For previous monthly updates, see the [archive of my monthly updates]().
-
 # June 2019
 
 For completed tasks, see the [work]() page.
@@ -583,4 +581,12 @@ For my edits to the Machine Learning Subwiki, see [here](https://machinelearning
 
 An initial version of my [portfolio page](https://issarice.com/portfolio) is now available.
 
-For previous monthly updates, see the [archive of my monthly updates]().
+# July 2019
+
+For completed tasks, see the [work]() page.
+
+For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=160&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=7).
+
+I spent most of this month learning more mathematics.
+
+I also spent some time (~30 hours) this month doing contract work for the [BERI/FHI collaboration](http://existence.org/collaborations/).
