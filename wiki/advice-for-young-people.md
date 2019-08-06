@@ -723,6 +723,8 @@ Briefly, here are some principles to learning effectively (which I hope to expan
 - in the beginning, write out the gory details of proofs.
 - some weird ego/self-esteem issues: learning to be okay with being confused/stuck, learning to be ok with not solving a problem instantly, being ok with being a beginner.
 - many explanations suck, but sometimes the solution isn't to go find a different explanation. many math textbooks are written in a way that assumes you will be putting in a lot of work, but they don't explicitly tell you this. often things get mysteriously easier when you play around with concrete examples.
+- "learn a bunch of things well in the next year" is easier than "learn this one thing well in the next month"
+- i had the mistaken impression when i was younger that i was a "quick learner" or that i was already "good at learning" because i was able to get good grades in school. it was only when i was learning things which were actually hard and actually required thinking that i realized i wasn't retaining as much of it as i thought i should.
 
 Here is a brief description of how i learn math (as of August 2019):
 
