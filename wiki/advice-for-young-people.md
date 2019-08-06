@@ -704,6 +704,36 @@ several aspects to this:
 - at the same time, knowing a lot of math can be useful
 - once you go woke, it can be hard to go all in on math, so it might be good to do this while young
 
+# Learning how to learn
+
+One of the things I most wish I could go back and tell my younger self is the importance of learning how to learn new things (in particular, hard technical subjects). The problem is that this topic tends to be dominated by fluffy books and articles, and thus tends to have a very low signal-to-noise ratio. I think I rightly judged much of this material as fluff, but what I did _not_ do was ask myself "huh, everything here sucks, so can I invent something better?" (I guess this is another lesson I would like to impart to my younger self, which is that many things suck in the world and [it's often possible to do better](https://equilibriabook.com/).)
+
+Briefly, here are some principles to learning effectively (which I hope to expand on at some point):
+
+- it's easier to learn a new thing than learn a specific new thing; this is the [de re vs de dicto distinction](https://en.wikipedia.org/wiki/De_dicto_and_de_re). "it's easier to learn something (de dicto) than to learn something (de re)". (see also [this post](https://www.greaterwrong.com/posts/9EyzaH3jzH3PyQtM5/the-costs-of-reliability).)
+- spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into anki is _not_ an effective way to learn. there are many pitfalls here.
+- trust your sense of boredom, but also learn to cultivate it. if you're getting bored of something, there's usually a good reason for it (e.g. material is too easy or too difficult), and you can switch to learning something else. (there are similar lessons here, e.g. in mathematics you should trust your sense of aesthetics, but also learn to develop it in response to new mathematics)
+- putting math problems into anki works well for remembering math, but there are many subtleties involved, in order to make sure you stick with it.
+- just reading is not enough (by a lot) for learning new math. you have to do some combination of doing the exercises in the book, coming up with your own exercises, asking questions, checking assumptions for theorems, [a bunch of stuff for definitions](https://learning.subwiki.org/wiki/Understanding_mathematical_definitions), cross-reading multiple books+wikipedia (some books use nonstandard notation or definitions and don't tell you).
+- making concepts intuitive vs passably being able to work with them (see satvik beri's answer on quora)
+- learn what it feels like when material is: too easy, too hard, just right.
+- learn to tell the difference between pointless pedantry (e.g. insisting that functions are sets) and useful pedantry (e.g. checking edge cases like those involving the empty set)
+- there is something like an "optimal order" for learning undergraduate math. i'm not entirely sure what this order is, but i have some idea of the pieces (e.g. metric spaces before general topology)
+- some books have polarizing reviews (e.g. baby rudin is "the best book on analysis" or it is "way too terse"). this is a hint that the book has an "optimal background" for it, and you should think about what this background might be.
+- in the beginning, write out the gory details of proofs.
+- some weird ego/self-esteem issues: learning to be okay with being confused/stuck, learning to be ok with not solving a problem instantly, being ok with being a beginner.
+- many explanations suck, but sometimes the solution isn't to go find a different explanation. many math textbooks are written in a way that assumes you will be putting in a lot of work, but they don't explicitly tell you this. often things get mysteriously easier when you play around with concrete examples.
+
+Here is a brief description of how i learn math (as of August 2019):
+
+1. i ask myself what seems most interesting to learn (usually i am working through some books or i have a specific thing i want to learn)
+2. i read for a bit. anytime i come across something interesting/new, i add it to anki. (this part needs a lot of explanation)
+3. if i come across a part of a book that requires some sort of verification, i do that, using pencil and a notebook.
+4. i work out some exercises or make up my own. after i finish an exercise, if it was not a too tedious one, i write it up and add it to anki (in a separate problems deck). writing this up sometimes catches subtle errors i had in my original reasoning. while i do this, i might also search up solutions to see if there is a better way to do it. This deck is designed so that i see this problem only about a month later, which is a good test to see if i've successfully internalized the material.
+5. if i encounter something i don't understand, i write a question down, in a notebook or text file or maybe math SE. sometimes, i will be able to answer this question in a few months, after i've learned more things. but other times, it's something that seems difficult to answer, so i don't get a quick answer.
+6. if i come up with a better explanation of something, or a better systematization, i will write it up. these days, i put these on the [ML subwiki userspace](https://machinelearning.subwiki.org/wiki/User:IssaRice).
+7. in the evening, i go through my daily anki reviews (including the problems deck).
+
 # People
 
 - Here's a list of people you should look into (and read as much of what
