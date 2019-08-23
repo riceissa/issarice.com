@@ -14,6 +14,11 @@ paper, and can return to it again when i get excited. so it allows for
 "parallel reading", which is something i like to do but i wasn't so
 good at before (due to forgetting things).
 
+note: supermemo's incremental reading feature is supposed to be able to
+automate a lot of the work for doing this, but i haven't had luck trying to
+work with supermemo (the interface is clunky, it randomly freezes/resets the
+scroll position when i make an extract, and so forth).
+
 # learning things to use later
 
 with spaced repetition it becomes possible to learn things just because
