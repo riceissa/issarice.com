@@ -35,18 +35,25 @@ the problem is that i need to write down or remember the questions i
 have. so it's a two-stage process, whereas with making cards for
 definitions, i can just do it as i read the textbook.
 
+i often write down questions while doing reviews, e.g. i am reviewing
+something, and i think of a similar case or the reverse implication or wonder
+why some assumption in a theorem is necessary, or something like that. Since i
+always review with a paper and pencil, i just write down my question on the
+piece of paper and then circle it (to indicate that i shouldn't throw away the
+paper).
+
 # upper bound on interval
 
 something i haven't seen discussed by spaced repetition advocates
 is how there might be a "limit" to how long you can remember
 something. if spaced repetition unboundedly keeps increasing the
 interval of review, you might forget things anyway, even with SRS. the
-limit might be 10 years, say. so if once review interval goes past 10
+limit might be 10 years, say. so once the review interval goes past 10
 years, you just forget it after 10 years. Anki has a deck setting
 to adjust this value.
 
 of course, if this biological limit is more like 60 years, then it's
-not a problem, because i will likely be dead before my memories'
+not a problem, because (ignoring certain technological advances) i will likely be dead before my memories'
 review interval crosses the limit.
 
 another thing i haven't seen discussed is how old people have worse
@@ -91,7 +98,7 @@ to be done automatically... i don't want to have to put in all this
 effort to making my own cards, checking LaTeX formatting etc. etc. The
 cards really should just be "created at the speed of thought".
 
-the real kind of anki repetions i want
+the real kind of anki repetitions i want
 are very dynamic, where e.g. i'm asked to prove the chain rule, and if
 i get stuck, it maybe asks a more basic question that's related. or it
 drills down into a specific part of the proof. or it digs into where
@@ -158,6 +165,18 @@ complicated structures. if you look at just the front/back sides of
 anki cards _in isolation_ you will only see a dictionary. But if you
 look at a deck more holistically, you can start to see greater
 structure (in the decks that are made well).
+
+note: I'm less optimistic about this point now. It has the flavor of a
+mathematical theorem, and is true in theory but might not be true in practice.
+(the closest thing i can think of is the proof that
+[feed-forward neural networks are universal](http://neuralnetworksanddeeplearning.com/chap4.html);
+the theorem is cool, and gives you some idea of why neural networks can do cool
+things, but the actual way the proof builds up an arbitrary function using step
+functions has basically nothing to do with how neural networks function in
+practice (?))  Similarly, with key-value pairs, i feel like the way you build
+up deep understanding is via building good "integration cards" (e.g. cards
+where you prove theorems, which take much longer to answer than a typical card)
+or by coming back to add more cards about a topic in the future.
 
 # manual spacing for math
 
