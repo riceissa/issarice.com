@@ -40,7 +40,7 @@ posts:
         人種や民族、国境や言語を軽々と飛び超え、世界を駆け巡り、
         日本が世界に誇る日本人アーティスト名として広く知られるようになった。 
 - Now I admit that i don't browse japanese sites very often, but this is
-  the first instnace ive seen of someone complaining about url
+  the first instance ive seen of someone complaining about url
   shorteners in japanese: <http://mojix.org/2012/09/13/tanshuku-url>. i
   actually haven't even seen much discussion of this even in *english*,
   so i was really surprised.
