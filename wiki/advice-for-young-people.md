@@ -740,11 +740,14 @@ Here is a brief description of how i learn math (as of August 2019):
 
 - Here's a list of people you should look into (and read as much of what
   they say as you can stand); bolding indicates people I particularly
-  recommend:
+  recommend.  I don't endorse everything these people say (in fact, I couldn't,
+  since these people often disagree with each other).
 
     - **Eliezer Yudkowsky**
-    - **Wei Dai**
-    - **Carl Shulman**
+    - **[Wei Dai]()**
+    - **Carl Shulman**: Carl often writes in a cryptic manner, so you might
+      need to stare really hard at his writings to understand what he is
+      saying.
     - Paul Christiano
 
     - Gary Drescher (*Good and Real*)
@@ -762,6 +765,11 @@ Here is a brief description of how i learn math (as of August 2019):
 
       See also [SIAI Core Reading](https://web.archive.org/web/20111201125142/http://singinst.org:80/reading/corereading/).
 
+      Unfortunately Drescher seems to be one of those people who get mindhacked
+      by contemporary politics and haven't been able to escape (just check out
+      his Facebook wall to see what I mean).  He also doesn't seem to have any
+      output since 2006.
+
     - **Brian Tomasik** (a lot of his philosophy writings are similar in
       content to those of Yudkowsky, Drescher, and Daniel Dennett, but
       Tomasik's writings might be the clearest)
@@ -777,10 +785,10 @@ Here is a brief description of how i learn math (as of August 2019):
         TODO: link to eliezer saying people are better one meta level down in
         ethics.
         TODO: link to hanson and cowen on this.
-    - Michael Huemer (mostly _The Problem of Political Authority_)
+    - Michael Huemer (mostly _The Problem of Political Authority_; I am significantly less enthusiastic about Huemer's other output)
     - Nick Bostrom
     - Robin Hanson (I think _The Elephant in the Brain_ is probably the best
-      introduction. I also like his old papers.)
+      introduction to his type of thinking. I also like his old papers.)
     - Michael Nielsen
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
@@ -790,8 +798,8 @@ Here is a brief description of how i learn math (as of August 2019):
       of his undergraduate-level course material (e.g., his real analysis
       books, linear algebra notes, and multiple-choice quizzes)
     - Tim Gowers. Similar to Tao. I can't appreciate his mathematical research,
-      but I am a fan of his math education web pages (on his academic website)
-      and his mathematical pedagogy blog posts.
+      but I am a fan of his [math education web pages](https://www.dpmms.cam.ac.uk/~wtg10/mathsindex.html) (on his academic website)
+      and his mathematical pedagogy blog posts (see e.g. the [Cambridge teaching](https://gowers.wordpress.com/category/cambridge-teaching/) category on his blog).
     - John Stillwell. I haven't spent too much time looking into Stillwell, but
       he seems pretty unusual for writing so many books that combine multiple
       fields and the history of math.
