@@ -190,6 +190,23 @@ tendencies in people with a single cause area focus:
     > most good in a global sense, you need a global perspective,
     > which requires learning a little bit of everything.
 
+-   From [this interview](http://commonsenseatheism.com/?p=12147):
+
+    > ELIEZER: To put it in a nutshell, my best and worst mistake was thinking
+    > that intelligence was a big, complicated kluge with no simple principles
+    > behind it. The reason that it’s my best mistake, as mistakes go, is that
+    > this belief that there were no simple answers caused me to go out and
+    > study neuroscience, cognitive psychology, and various A.I. machine
+    > learning stuff, and this whole big grab bag of information that was
+    > actually very useful to know.
+
+    > As mistakes go, this mistake motivated me to go out and learn a whole lot
+    > of different things. Which is certainly a very good sort of mistake to
+    > make if you view it from that perspective. But for other and even more
+    > complicated reasons that we may or may not end up getting into later in
+    > this particular interview, I later realized that A.I. work was going to
+    > have to meet a higher standard of precision than I’d been visualizing.
+
 Could this sort of generalist tendency be bad? In other words, why might it
 make sense to *not* become a generalist? I think the main arguments against
 would be things like division of labor and economy of scale. Also, things like
