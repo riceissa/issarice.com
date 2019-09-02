@@ -207,6 +207,8 @@ tendencies in people with a single cause area focus:
     > this particular interview, I later realized that A.I. work was going to
     > have to meet a higher standard of precision than I’d been visualizing.
 
+    Eliezer writes more about this in [this post](https://www.lesswrong.com/posts/BA7dRRrzMLyvfJr9J/my-best-and-worst-mistake).
+
 Could this sort of generalist tendency be bad? In other words, why might it
 make sense to *not* become a generalist? I think the main arguments against
 would be things like division of labor and economy of scale. Also, things like
