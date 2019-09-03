@@ -83,3 +83,4 @@ https://www.reddit.com/user/adventuringraw/.rss
 https://rationalistramble.wordpress.com/feed
 https://github.com/pedromvilar.atom
 https://brianhamrick.com/blog/feed.xml
+http://www.stafforini.com/blog/feed/
