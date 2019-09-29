@@ -789,7 +789,14 @@ Here is a brief description of how i learn math (as of August 2019):
     - Nick Bostrom
     - Robin Hanson (I think _The Elephant in the Brain_ is probably the best
       introduction to his type of thinking. I also like his old papers.)
-    - Michael Nielsen
+    - Michael Nielsen. My basic take: his worldviews are kinda "bluepill" (in a
+      way that I won't clearly define, but to contrast with someone like
+      Eliezer/Hanson, who I claim are more "redpill").  Nielsen nevertheless
+      seems incredibly competent (regularly publishes non-bullshit work), and
+      has a track record of being "ahead of the trend" in the sense of catching
+      onto interesting things before many others do (open science; skillful use
+      of spaced repetition; if I understand correctly, he introduced neural
+      networks to _Chris Olah_).
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
