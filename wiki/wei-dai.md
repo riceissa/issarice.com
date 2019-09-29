@@ -25,6 +25,15 @@ Overall I'm still pretty confused about this.
 
 **February 2019 update:** My impression is that since I wrote this page (in January 2018), Wei has been making a lot more comments on LessWrong (after September 2017, he hardly made any comments until the end of February 2018, when he began making comments again). During 2018, LessWrong 2.0 also [left beta](https://www.greaterwrong.com/posts/Nws6ivJigxLm3gGEY/leaving-beta-voting-on-moving-to-lesswrong-com "Matthew Graves (Vaniver). “Leaving beta: Voting on moving to LessWrong.com”. March 11, 2018."). My feeling is that Wei's comments have been getting a lot of upvotes and that people are paying attention to him. I'm therefore tempted to conclude that the reason was "He doesn't seem to do a lot of self-promotion" (namely, self-promotion in the form of leaving public comments). If this really is the case, it's depressing to me that this sort of continual reminder is necessary in order for people to figure out who is "smart".
 
+**September 2019 update:** Re-reading this page, I realized that I was talking
+about the effective altruism community, not LessWrong. It seems like the
+effective altruism community still hasn't really "discovered" Wei Dai.
+To give two recent examples, see [this answer](https://eaforum.issarice.com/posts/tf3Hous3oc9hNS6eL/is-there-a-good-place-to-find-the-what-we-know-so-far-of-the#HBY5f4fC3gjNoK7FS) by Pablo Stafforini, which mentions Scott Alexander, Nick Beckstead, Nick Bostrom, Paul Christiano, Katja Grace, Robin Hanson, Eliezer Yudkowsky, Holden Karnofsky, Carl Shulman, and Brian Tomasik (all of whom I think are good inclusions) _but not Wei Dai_.
+The second example is the [GPI research agenda](https://globalprioritiesinstitute.org/wp-content/uploads/gpi-research-agenda.pdf).
+Looking at the cited literature, I see Eliezer Yudkowsky, Carl Shulman, Nick
+Beckstead, Holden Karnofsky, Katja Grace, Paul Christiano, Robin Hanson, Brian
+Tomasik, Toby Ord, etc., but again, no Wei Dai.
+
 # External links
 
 - [List of discussions between Paul Christiano and Wei Dai](https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai)
