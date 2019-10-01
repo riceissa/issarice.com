@@ -28,11 +28,14 @@ Overall I'm still pretty confused about this.
 **September 2019 update:** Re-reading this page, I realized that I was talking
 about the effective altruism community, not LessWrong. It seems like the
 effective altruism community still hasn't really "discovered" Wei Dai.
-To give two recent examples, see [this answer](https://eaforum.issarice.com/posts/tf3Hous3oc9hNS6eL/is-there-a-good-place-to-find-the-what-we-know-so-far-of-the#HBY5f4fC3gjNoK7FS) by Pablo Stafforini, which mentions Scott Alexander, Nick Beckstead, Nick Bostrom, Paul Christiano, Katja Grace, Robin Hanson, Eliezer Yudkowsky, Holden Karnofsky, Carl Shulman, and Brian Tomasik (all of whom I think are good inclusions) _but not Wei Dai_.
+To give three recent examples, see [this answer](https://eaforum.issarice.com/posts/tf3Hous3oc9hNS6eL/is-there-a-good-place-to-find-the-what-we-know-so-far-of-the#HBY5f4fC3gjNoK7FS) by Pablo Stafforini, which mentions Scott Alexander, Nick Beckstead, Nick Bostrom, Paul Christiano, Katja Grace, Robin Hanson, Eliezer Yudkowsky, Holden Karnofsky, Carl Shulman, and Brian Tomasik (all of whom I think are good inclusions) _but not Wei Dai_.
 The second example is the [GPI research agenda](https://globalprioritiesinstitute.org/wp-content/uploads/gpi-research-agenda.pdf).
 Looking at the cited literature, I see Eliezer Yudkowsky, Carl Shulman, Nick
 Beckstead, Holden Karnofsky, Katja Grace, Paul Christiano, Robin Hanson, Brian
 Tomasik, Toby Ord, etc., but again, no Wei Dai.
+The third example is the [EA sequences](https://docs.google.com/document/d/10WLYNqPZtjgWPexYUKHlbaX73yLCZnGb1AwOVVAUoqQ/edit) (viewed on 2019-10-01)
+document compiled by Richard Ngo (with help from others?).
+I can find Eliezer, Carl, Nick Bostrom, Nick Beckstead, Paul, Toby Ord, Holden, Brian Tomasik, Robin Hanson, etc. (interestingly, no Katja). Again, no Wei.
 
 # External links
 
