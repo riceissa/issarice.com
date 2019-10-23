@@ -112,6 +112,9 @@ knew a lot of math and could explain things well. and this person
 would be equipped with the review scheduling for the things i'm trying
 to learn.
 
+ETA: https://firecode.io does something kind of like this, but is
+restricted to programming questions.
+
 # forgetting surrounding parts
 
 one worry i have with anki
