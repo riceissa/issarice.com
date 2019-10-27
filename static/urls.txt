@@ -30,6 +30,7 @@ https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
 https://eaforum.issarice.com/users/beth-1?format=rss
 https://eaforum.issarice.com/users/william_macaskill?format=rss
+https://eaforum.issarice.com/users/paul_christiano?format=rss
 http://reflectivedisequilibrium.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
 https://intelligence.org/blog/feed/
