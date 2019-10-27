@@ -8,6 +8,8 @@ This is a '''timeline of command-line interfaces'''.
 * TODO add things like term mode, eshell, etc. for emacs
 * TODO add when terminal emulator added to neovim
 * TODO add ipython/jupyter console (as a "new generation" command-line interface, supporting multi-line input, graphics, syntax highlighting, etc., it is very interesting)
+* TODO include stuff from https://www.wezm.net/technical/2019/10/useful-command-line-tools/
+* TODO include stuff from https://boyter.org/posts/my-list-of-useful-command-line-tools/
 -->
 
 {| class="sortable wikitable"
