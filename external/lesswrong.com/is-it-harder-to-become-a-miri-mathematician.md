@@ -30,4 +30,4 @@ I've brainstormed some potential differences between 2013 and 2019. Note that I'
 
 I am interested in thoughts on the specific questions I've raised as well as any other thoughts people have on MIRI hiring practices in 2013 vs 2019.
 
-*Thanks to Matthew Barnett for feedback on this question.*
+*Thanks to Matthew Barnett and Louis Francini for feedback on this question.*
