@@ -28,6 +28,6 @@ I've brainstormed some potential differences between 2013 and 2019. Note that I'
 - Bigger research team at MIRI. Maybe the "basic research positions" at MIRI have been filled, so MIRI can be more picky about the expertise new hires have, or their level of capability. Another idea is that MIRI research is not very parallelizable, so the value of the marginal hire goes down quickly as a function of number of researchers.
 - Funding. MIRI seems to have way more funding now, so this doesn't explain the lack of hires.
 
-I am interested in thoughts on the specific questions I've raised as well as any other thoughts people have on MIRI hiring practices in 2013 vs 2019.
+I am interested in thoughts on the specific questions I've raised, thoughts on which of the reasons brainstormed above are most likely, and any other thoughts people have on MIRI hiring practices in 2013 vs 2019.
 
 *Thanks to Matthew Barnett and Louis Francini for feedback on this question.*
