@@ -24,3 +24,5 @@ I've brainstormed some potential differences between 2013 and 2019:
 - Emergence of MIRI's [new research directions](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section1). This might mean MIRI is more focused on hiring engineers.
 - Lack of MIRI workshops (I've heard the growing size of MIRI's research team as a reason for this).
 - Emergence of programs like MSFP, AIRCS, and [retraining project](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-ai-safety-retraining-program). MSFP in particular seems to serve similar recruiting functions as workshops, but I'm not clear on the differences from a hiring viewpoint.
+
+I am interested in thoughts on the specific questions I've raised as well as any other thoughts people have on MIRI hiring practices in 2013 vs 2019.
