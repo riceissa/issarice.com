@@ -15,16 +15,19 @@ One way I've been thinking about these changes is to consider the same person at
 
 I am wondering what the corresponding trajectory would look like for a Nate Soares who discovered LessWrong in 2019. (This version of Nate would be six years younger. Also discovering LessWrong later means a lower quality person in expectation, even adjusting for age, so we can imagine something magically prevented him from discovering it.) Would he have been hired? If so, how long would it have taken him? If not, what would have happened to him?
 
-I've brainstormed some potential differences between 2013 and 2019:
+I've brainstormed some potential differences between 2013 and 2019. Note that I'm not saying these are the only reasons or that I think any particular reason listed is likely (I'm asking this question because I'm not sure what's actually the case).
 
 - Takeoff of the field in general
   - Now there are more AI safety organizations, who could be competing for new talent. In other words, a 2019 version of Nate could be hired by OpenAI instead of MIRI.
   - More people interested in entering the field. I think this would mean more hires, so doesn't explain the lack of hires.
+  - Position of MIRI relative to the AI safety field. In 2013 MIRI represented the AI safety field as a whole, but in 2019 MIRI represents a particular view within AI safety. There are now more filters for a potential hire, where they must not only agree with AI safety as a cause area, but also with MIRI's specific positions within that cause area.
 - Less openness at MIRI (e.g. nondisclosed-by-default policy, fewer MIRI people who are active on public forums). A 2019 version of Nate would have a harder time learning about and contributing to the cutting edge of MIRI research.
 - Emergence of MIRI's [new research directions](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section1). This might mean MIRI is more focused on hiring engineers, so a 2019 version of Nate might have become an engineer at MIRI instead of a mathematician.
 - Lack of MIRI workshops (I've heard the growing size of MIRI's research team as a reason for this, i.e. workshops are less necessary because there are more people already at MIRI to bounce ideas off of). A 2019 version of Nate wouldn't be able to attend a workshop, unlike the 2013 version.
-- Emergence of programs like MSFP, AIRCS, and [retraining project](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-ai-safety-retraining-program). MSFP in particular seems to serve similar recruiting functions as workshops, but I'm not clear on the differences from a hiring viewpoint.
+- Emergence of programs like MSFP, internships, AIRCS, and [retraining project](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/machine-intelligence-research-institute-ai-safety-retraining-program). MSFP in particular seems to serve similar recruiting functions as workshops, but I'm not clear on the differences from a hiring viewpoint.
 - Bigger research team at MIRI. Maybe the "basic research positions" at MIRI have been filled, so MIRI can be more picky about the expertise new hires have, or their level of capability.
 - Funding. MIRI seems to have way more funding now, so this doesn't explain the lack of hires.
 
 I am interested in thoughts on the specific questions I've raised as well as any other thoughts people have on MIRI hiring practices in 2013 vs 2019.
+
+*Thanks to Matthew Barnett for feedback on this question.*
