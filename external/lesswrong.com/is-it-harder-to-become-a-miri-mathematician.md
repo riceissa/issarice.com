@@ -4,7 +4,7 @@ Below, I make the distinction between "MIRI mathematician" and "MIRI engineer". 
 
 As far as I can tell, MIRI has not made any new mathematician hires since mid-2017; see [this table](https://aiwatch.issarice.com/?organization=Machine+Intelligence+Research+Institute#full-history-of-additions-and-subtractions) which I made, and [this blog post](https://intelligence.org/2017/07/04/updates-to-the-research-team-and-a-major-donation/) which I believe is the last hiring update for mathematicians.
 
-Assuming there are no secret hires, the lack of hires can be for two broad reasons:
+Assuming there are no unannounced hires, the lack of hires can be for two broad reasons:
 
 - A change in the demand: less need for new people, more selective about who to hire, etc.
 - A change in the supply: fewer people to pick from, drop in quality of people that come into contact, etc.
