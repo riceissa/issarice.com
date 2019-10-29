@@ -1,6 +1,6 @@
 Is it harder to become a MIRI mathematician in 2019 compared to in 2013?
 
-Below, I make the distinction between "MIRI mathematician" and "MIRI engineer". (In my mind I tend to think of these as "researchers" and "engineers", respectively, but I think MIRI calls both of these classes of people "researchers" these days so I want to avoid using "researcher".) From the current [team page](https://intelligence.org/team/), I would classify Nate, Eliezer, Benya, Scott, Sam, Abram, and Tsvi as "MIRI mathematician", and Jesse, Nick, Buck, Ben, James, and Edward as "MIRI engineer".
+Below, I make the distinction between "MIRI mathematician" and "MIRI engineer". (In my mind I tend to think of these as "researchers" and "engineers", respectively, but I think MIRI calls both of these classes of people "researchers" these days so I want to avoid using "researcher".) Basically I count anyone who has published a paper or post in agent foundations as a mathematician, and everyone else as an engineer. From the current [team page](https://intelligence.org/team/), I would classify Nate, Eliezer, Benya, Scott, Sam, Abram, and Tsvi as "MIRI mathematician", and Jesse, Nick, Buck, Ben, James, and Edward as "MIRI engineer". I don't actually know if this is a reasonable classification given that MIRI's recent work isn't public.
 
 As far as I can tell, MIRI has not made any new mathematician hires since mid-2017; see [this table](https://aiwatch.issarice.com/?organization=Machine+Intelligence+Research+Institute#full-history-of-additions-and-subtractions) which I made, and [this blog post](https://intelligence.org/2017/07/04/updates-to-the-research-team-and-a-major-donation/) which I believe is the last hiring update for mathematicians.
 
@@ -17,7 +17,7 @@ I am wondering what the corresponding trajectory would look like for a Nate Soar
 
 I've brainstormed some potential differences between 2013 and 2019. Note that I'm not saying these are the only reasons or that I think any particular reason listed is likely (I'm asking this question because I'm not sure what's actually the case).
 
-- Takeoff of the field in general
+- Takeoff of the field in general (see [Timeline of AI safety](https://timelines.issarice.com/wiki/Timeline_of_AI_safety), [Timeline of OpenAI](https://timelines.issarice.com/wiki/Timeline_of_OpenAI), and [Timeline of Center for Human-Compatible AI](https://timelines.issarice.com/wiki/Timeline_of_Center_for_Human-Compatible_AI) for some relevant dates)
   - Now there are more AI safety organizations, who could be competing for new talent. In other words, a 2019 version of Nate could be hired by OpenAI instead of MIRI.
   - More people interested in entering the field. I think this would mean more hires, so doesn't explain the lack of hires.
   - Position of MIRI relative to the AI safety field. In 2013 MIRI represented the AI safety field as a whole, but in 2019 MIRI represents a particular view within AI safety. There are now more filters for a potential hire, where they must not only agree with AI safety as a cause area, but also with MIRI's specific positions within that cause area.
@@ -30,4 +30,4 @@ I've brainstormed some potential differences between 2013 and 2019. Note that I'
 
 I am interested in thoughts on the specific questions I've raised, thoughts on which of the reasons brainstormed above are most likely, and any other thoughts people have on MIRI hiring practices in 2013 vs 2019.
 
-*Thanks to Matthew Barnett and Louis Francini for feedback on this question.*
+*Thanks to Matthew Barnett, Louis Francini, and Vipul Naik for feedback on this question.*
