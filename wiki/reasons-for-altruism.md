@@ -22,6 +22,7 @@ It occurs to me that there are many reasons (including many weird reasons) for a
 - You don't know how to be selfish or you think selfishness is incoherent.
   - From Stuart Armstrong's [ADT paper](https://www.fhi.ox.ac.uk/wp-content/uploads/Anthropic_Decision_Theory_Tech_Report.pdf): "In the author’s view, the confusion illustrated by this section shows that selfishness is not a stable concept: those agents capable of changing their definitions of selfishness will be motivated to do so."
   - Paul Christiano, in a [post](https://www.lesswrong.com/posts/QmWNbCRMgRBcMK6RK/the-absolute-self-selection-assumption) about UDASSA: "I don't understand continuity of experience or identity, so I am simply not going to try to be selfish (I don't know how)."
+  - [Ozzie Gooen](https://www.greaterwrong.com/posts/MTpCeShqRmu4nkgon/critique-my-model-the-ev-of-agi-to-selfish-individuals "“Critique my Model: The EV of AGI to Selfish Individuals”. April 8, 2018. LessWrong."): "I personally find selfishness to be somewhat philosophically incoherent, so it’s difficult to say what exactly the maximum number of QALYS per year could hypothetically be experienced by one selfish person."
 
 I'll also list some reasons why people may appear to behave altruistically
 (i.e. will sometimes take actions which help others), even if they don't
@@ -30,9 +31,9 @@ terminally care about these people who are helped:
 - Reducing x-risk is useful if you want to figure out your actual terminal
   values and you believe figuring this out is very difficult (e.g. it requires
   billions of years of reflection).
-- Conscious or subconscious desire to appear altruistic, for the purpose of
-  gaining status.
-- Unreflective evolved adaptations that happens to help others (e.g. kin
+- Conscious or subconscious desire to appear altruistic, for instrumental
+  reasons (like gaining status).
+- Unreflective evolved adaptations that happen to help others (e.g. kin
   altruism, reciprocal altruism).
 - Decision theoretic "categorial imperative"-type ideas, as suggested by Gary Drescher (in _Good and Real_) and others; see [this page](https://github.com/riceissa/issarice.com/blob/master/external/wiki.lesswrong.com/Application_of_functional_updateless_timeless_decision_theory_to_everyday_life.mediawiki) for more people who argue for the relevance of logical decision theories to everyday life. For example, using UDT-like reasoning in Newcomb-like situations or prisoner's dilemma with a copy can produce behavior that helps others.
 - You want there to exist more smart/interesting/compassionate/good/whatever people for
