@@ -778,6 +778,7 @@ Here is a brief description of how i learn math (as of August 2019):
     - [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)
     - Grognor (George Koleszarik)
     - Anatoly Karlin
+    - Devin Helton/Devin Finbarr
     - Paul Graham
     - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
     - **Bryan Caplan**: see my page on [EconLog]()
