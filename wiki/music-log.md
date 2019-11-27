@@ -343,6 +343,10 @@ The Pillows:
 
 * Houseki no Kuni (Land of the Lustrous) OST
 
+# November 2019
+
+* Serial Experiments Lain OST -- I had listened to this several times back when I watched the anime (I forget when), but it didn't make much of an impression back then (to the point where I didn't even record it on this page). I decided to revisit it and find it more interesting now.
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
