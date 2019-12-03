@@ -590,3 +590,10 @@ For my edits to the Machine Learning Subwiki, see [here](https://machinelearning
 I spent most of this month learning more mathematics.
 
 I also spent some time (~30 hours) this month doing contract work for the [BERI/FHI collaboration](http://existence.org/collaborations/).
+
+# August--November 2019
+
+For completed tasks, see the [work]() page.
+
+The past few months I've been spending a lot of time just thinking about AI
+safety, life in general, what I should work on, etc.

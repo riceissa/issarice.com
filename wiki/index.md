@@ -58,15 +58,12 @@ subdomains existed.
   over time
 - [contentcreation](https://contentcreation.issarice.com/): Content Creation Wiki
 
-# Summary of what I worked on: July 2019 {#summary}
+# Summary of what I worked on: August--November 2019 {#summary}
 
 For completed tasks, see the [work]() page.
 
-For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=160&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=7).
-
-I spent most of this month learning more mathematics.
-
-I also spent some time (~30 hours) this month doing contract work for the [BERI/FHI collaboration](http://existence.org/collaborations/).
+The past few months I've been spending a lot of time just thinking about AI
+safety, life in general, what I should work on, etc.
 
 For previous monthly updates, see the [archive of my monthly updates]().
 
