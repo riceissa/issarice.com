@@ -64,6 +64,72 @@ insert into individual_tasks(task_venue, task_type, task_receptacle, task_recept
         'Prose', /* format */
         'A blog post comparing decision theories like UDT, FDT, and TDT, which are frequently discussed on LessWrong.' /* notes */
     )
+    ,(
+        'LessWrong', /* task_venue */
+        'Blog post or article', /* task_type */
+        'Degree of duplication and coordination in projects that examine computing prices, AI progress, and related topics?', /* task_receptacle */
+        'https://www.greaterwrong.com/posts/9YwNXt7ANyMqTu6Ky/degree-of-duplication-and-coordination-in-projects-that', /* task_receptacle_url */
+        '2019-04-23', /* completion_date */
+        0.00, /* payment */
+        'AI safety', /* topic */
+        'Prose', /* format */
+        '' /* notes */
+    )
+    ,(
+        'LessWrong', /* task_venue */
+        'Blog post or article', /* task_type */
+        'Inversion of theorems into definitions when generalizing', /* task_receptacle */
+        'https://www.greaterwrong.com/posts/rs2focaRymwvkW2jS/inversion-of-theorems-into-definitions-when-generalizing', /* task_receptacle_url */
+        '2019-08-04', /* completion_date */
+        0.00, /* payment */
+        'Mathematics', /* topic */
+        'Prose', /* format */
+        '' /* notes */
+    )
+    ,(
+        'LessWrong', /* task_venue */
+        'Blog post or article', /* task_type */
+        'What are the differences between all the iterative/​recursive approaches to AI alignment?', /* task_receptacle */
+        'https://www.greaterwrong.com/posts/cYduioQNeHALQAMre/what-are-the-differences-between-all-the-iterative-recursive', /* task_receptacle_url */
+        '2019-09-20', /* completion_date */
+        0.00, /* payment */
+        'AI safety/iterated amplification', /* topic */
+        'Prose', /* format */
+        '' /* notes */
+    )
+    ,(
+        'LessWrong', /* task_venue */
+        'Blog post or article', /* task_type */
+        'Deliberation as a method to find the “actual preferences” of humans', /* task_receptacle */
+        'https://www.greaterwrong.com/posts/ebdf8GZxt3L9grwwN/deliberation-as-a-method-to-find-the-actual-preferences-of', /* task_receptacle_url */
+        '2019-10-22', /* completion_date */
+        0.00, /* payment */
+        'AI safety', /* topic */
+        'Prose', /* format */
+        '' /* notes */
+    )
+    ,(
+        'LessWrong', /* task_venue */
+        'Blog post or article', /* task_type */
+        'Is it harder to become a MIRI mathematician in 2019 compared to in 2013?', /* task_receptacle */
+        'https://www.greaterwrong.com/posts/5syG88rmW5iD9kTM5/is-it-harder-to-become-a-miri-mathematician-in-2019-compared', /* task_receptacle_url */
+        '2019-10-28', /* completion_date */
+        0.00, /* payment */
+        'AI safety', /* topic */
+        'Prose', /* format */
+        '' /* notes */
+    )
+    ,(
+        'Effective Altruism Forum', /* task_venue */
+        'Blog post or article', /* task_type */
+        'Funding chains in the x-risk/AI safety ecosystem', /* task_receptacle */
+        'https://eaforum.issarice.com/posts/hbSvxj7KuS7k4Ty6N/funding-chains-in-the-x-risk-ai-safety-ecosystem', /* task_receptacle_url */
+        '2019-09-09', /* completion_date */
+        0.00, /* payment */
+        'AI safety', /* topic */
+        'Prose', /* format */
+        '' /* notes */
+    )
 ;
 
 insert into individual_tasks(task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, language) values
