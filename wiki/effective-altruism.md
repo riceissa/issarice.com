@@ -95,6 +95,39 @@ cannot generate interesting ideas but where at least they could
 follow tricky arguments started to seem remarkable rather than
 disappointing.
 
+During **2019**, my feelings about effective altruism (and the rationality
+community) again became more negative. I can't say my beliefs are so different
+from those of the previous couple of years, but my emotions and internal
+monologue are pretty different. One aspect of this is that there were more
+updates I made where my opinion of someone went down than where they went up.
+There were many people who seemed kind of smart but where I didn't have enough
+evidence to definitely say whether or not they are smart. This year, I feel
+like I got that necessary additional evidence to rule out many of these
+"potentially smart people". I don't want to give away who these people were, so
+I don't want to give many details, but at a high level here are some things I
+observed: making an obviously false statement; making a decision that I think
+is reasonable, but where I think the reasoning is not that good; praising or
+endorsing blog posts that I think aren't that novel or interesting; claiming a
+higher level of understanding of a topic than I think they are demonstrating;
+giving the impression that they know something other people don't, where in
+fact there wasn't anything.
+
+I also met many people involved in EA/rationality (in Europe), and updated
+towards thinking that the vast majority of these people don't really do
+anything interesting with their lives. Prior to meeting people, there was some
+plausible deniability: the fact that I hadn't come across these people online
+could have meant that they are privately working on interesting projects,
+building up an accurate world model, etc. But generally speaking, I came away
+pretty disappointed. There was one notable exception to this. (Usual
+disclaimers about small and potentially biased sample size, people not
+revealing all of their accomplishments, etc., apply. I'm always happy to update
+my views if I come across contrary evidence.)
+
+My internal monologue started to frequently have thoughts like "people are
+bad", "we are so screwed", "the world is going to end", "we are all going to
+die", "I hate everything", etc. (Again, it's not like my opinions here have
+changed this year, but the pattern of thoughts has definitely changed.)
+
 Overall, I'm not comfortable considering myself part of the "EA
 movement". However, I'm happy to consider myself an "effective
 altruist" in the sense of "someone who spends a lot of time trying to
