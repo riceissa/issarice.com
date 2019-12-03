@@ -130,6 +130,17 @@ insert into individual_tasks(task_venue, task_type, task_receptacle, task_recept
         'Prose', /* format */
         '' /* notes */
     )
+    ,(
+        'LessWrong Wiki', /* task_venue */
+        'Wiki page creation', /* task_type */
+        'Do the math, then burn the math and go with your gut', /* task_receptacle */
+        'https://wiki.lesswrong.com/wiki/Do_the_math%2C_then_burn_the_math_and_go_with_your_gut', /* task_receptacle_url */
+        '2019-05-15', /* completion_date */
+        0.00, /* payment */
+        'Rationality', /* topic */
+        'Prose', /* format */
+        '' /* notes */
+    )
 ;
 
 insert into individual_tasks(task_venue, task_type, task_receptacle, task_receptacle_url, completion_date, payment, topic, format, notes, language) values
