@@ -1,7 +1,6 @@
 https://issarice.com/atom.xml
 https://www.econlib.org/author/bcaplan/feed/
 https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
-https://groups.google.com/forum/feed/newly-published-givewell-materials/msgs/rss_v2_0.xml
 http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
 https://www.greaterwrong.com/users/carlshulman?format=rss
 https://www.greaterwrong.com/users/wei_dai?format=rss
@@ -46,7 +45,6 @@ https://srconstantin.wordpress.com/feed/
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
 http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Ben Hoffman"
 http://slatestarcodex.com/feed/
-https://www.reddit.com/r/ControlProblem/.rss "~r/ControlProblem"
 https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
@@ -55,7 +53,6 @@ https://distill.pub/rss.xml
 https://arcsecond.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
-https://www.cser.ac.uk/news/feed/ "~CSER"
 https://feeds.feedburner.com/LukeMuehlhauser?format=xml
 https://feeds.feedburner.com/80000HoursPodcast?format=xml
 http://yudkowsky.tumblr.com/rss
@@ -69,7 +66,6 @@ http://feeds.pinboard.in/rss/u:mnielsen/t:memory/ "~mnielsen Pinboard - memory"
 http://feeds.pinboard.in/rss/u:mnielsen/t:ahc/ "~mnielsen Pinboard - ahc"
 http://feeds.pinboard.in/rss/u:mnielsen/t:anki/ "~mnielsen Pinboard - anki"
 https://medium.com/feed/@nayafia
-http://gmachine1729.wordpress.com/feed/
 https://blog.ought.com/feed
 http://status.liftigniter.com/history.atom
 http://mojix.org/rss20.xml
