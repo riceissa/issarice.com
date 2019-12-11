@@ -527,6 +527,11 @@ generic, high-level strategy:
   remember that insights become distilled and enter the "water supply" over
   time, so if they were one of the first people to start saying the now-cliche,
   you might actually want to _upgrade_ your opinion of them).
+- in general, you won't be able to rank people who are significantly above you
+  -- they will all just seem super smart. see [hiring and judging character]()
+  for more on this. but as you get smarter yourself, you can _come back_ to
+  people who seemed super smart and see if now you can tell which ones are
+  _really_ smart vs merely seemed-smart-to-my-younger-self.
 
 (see the [People section](#people) for my specific recommendations, so you can
 judge whether you think i know what i'm talking about)
