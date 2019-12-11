@@ -501,6 +501,36 @@ is not taught in schools).  Here are some places to check out:
   subscriptions](https://issarice.com/urls.txt) (with some confidential URLs
   removed) publicly.
 
+# Identifying good people
+
+generic, high-level strategy:
+
+- learning everything / having the right opinions about everything by just
+  sticking to the object level is impossible -- there's just not enough time.
+  At some point, you will need to rely on other people to identify interesting
+  topics, or promote to your attention the correct views, etc.
+- as with ideas, it's sometimes useful to become super excited about someone,
+  and obsessively read everything they've written.
+- when you see that an interesting person says something you disagree with,
+  this is an opportunity for you to decide if you know better than they do, or
+  if they know better (you can turn the latter situation into the former by
+  doing additional research on the topic).
+- randomly fact-check things using google/wikipedia/generic sources to score
+  someone.
+- as you become more knowledgeable about the world, things that used to seem to
+  you like novel ideas/facts will eventually become "things everyone
+  knows"/cliches/uninsightful.  This is an opportunity for you to _go back_
+  to people whom you've admired, to see if you need to
+  [tone down](https://www.greaterwrong.com/posts/tSgcorrgBnrCH8nL3/don-t-revere-the-bearer-of-good-info)
+  your admiration for them. if you find that they actually just repeat cliches
+  that to your past self seemed insightful, you can downgrade them (but
+  remember that insights become distilled and enter the "water supply" over
+  time, so if they were one of the first people to start saying the now-cliche,
+  you might actually want to _upgrade_ your opinion of them).
+
+(see the [People section](#people) for my specific recommendations, so you can
+judge whether you think i know what i'm talking about)
+
 # Books
 
 As of late 2018, my basic view on books is that books are pretty useful, and
@@ -520,6 +550,7 @@ Some books I have enjoyed:
 - Gary Drescher's _Good and Real_
 - Daniel Dennett's _Consciousness Explained_
 - Michael Huemer's _The Problem of Political Authority_
+- Eliezer Yudkowsky's _Sequences_ (note: the published book version cuts out comments and some of the posts. I think <https://www.readthesequences.com/> is a good start, especially if you wouldn't bother reading any of it otherwise, but eventually you may want to use GW/LW to read all the comments and omitted posts)
 
 # Extracurriculars
 
@@ -527,13 +558,14 @@ My basic 2018 stance on extracurriculars:
 
 - I think almost all extracurricular activities, especially the common ones
   (sports, practicing an instrument, becoming a club leader), are intrinsically
-  (i.e., ignoring signaling benefits) useless in the long run.
+  (i.e., ignoring signaling benefits) useless in the long run.  The case
+  becomes even stronger once you consider opportunity costs.
 - If you feel like you are being left behind by your peers by not doing
   respectable extracurriculars, then try as much as possible to ignore this
   social aspect of your environment.  Ignoring one's social environment is a
   useful skill to learn.
 - If one wants to attend an elite college, then doing respectable
-  extracurriculars may be worth the cost.
+  extracurriculars may be worth the cost.  I'm not an expert on this subject.
 
 See also "[Chinese loses math face-off to U.S.](http://www.cnn.com/2015/08/05/china/us-defeat-china-math-olympiad/)":
 
