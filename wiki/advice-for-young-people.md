@@ -725,6 +725,7 @@ Briefly, here are some principles to learning effectively (which I hope to expan
 - many explanations suck, but sometimes the solution isn't to go find a different explanation. many math textbooks are written in a way that assumes you will be putting in a lot of work, but they don't explicitly tell you this. often things get mysteriously easier when you play around with concrete examples.
 - "learn a bunch of things well in the next year" is easier than "learn this one thing well in the next month"
 - i had the mistaken impression when i was younger that i was a "quick learner" or that i was already "good at learning" because i was able to get good grades in school. it was only when i was learning things which were actually hard and actually required thinking that i realized i wasn't retaining as much of it as i thought i should.
+  - high school math (in the US at least) is a joke. many topics have a very short "window" -- you don't need to retain things for very long at a time, so you can just cram/learn the algorithms by rote. you might not realize how much you don't actually know, because the problems in the book only ask you to execute some very specific algorithm.
 
 Here is a brief description of how i learn math (as of August 2019):
 
