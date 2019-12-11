@@ -711,7 +711,7 @@ One of the things I most wish I could go back and tell my younger self is the im
 Briefly, here are some principles to learning effectively (which I hope to expand on at some point):
 
 - it's easier to learn a new thing than learn a specific new thing; this is the [de re vs de dicto distinction](https://en.wikipedia.org/wiki/De_dicto_and_de_re). "it's easier to learn something (de dicto) than to learn something (de re)". (see also [this post](https://www.greaterwrong.com/posts/9EyzaH3jzH3PyQtM5/the-costs-of-reliability).)
-- spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into anki is _not_ an effective way to learn. there are many pitfalls here.
+- spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into [Anki]() is _not_ an effective way to learn. there are many pitfalls here.
 - trust your sense of boredom, but also learn to cultivate it. if you're getting bored of something, there's usually a good reason for it (e.g. material is too easy or too difficult), and you can switch to learning something else. (there are similar lessons here, e.g. in mathematics you should trust your sense of aesthetics, but also learn to develop it in response to new mathematics)
 - putting math problems into anki works well for remembering math, but there are many subtleties involved, in order to make sure you stick with it.
 - just reading is not enough (by a lot) for learning new math. you have to do some combination of doing the exercises in the book, coming up with your own exercises, asking questions, checking assumptions for theorems, [a bunch of stuff for definitions](https://learning.subwiki.org/wiki/Understanding_mathematical_definitions), cross-reading multiple books+wikipedia (some books use nonstandard notation or definitions and don't tell you).
@@ -785,7 +785,7 @@ Here is a brief description of how i learn math (as of August 2019):
     - Grognor (George Koleszarik)
     - Anatoly Karlin
     - Devin Helton/Devin Finbarr
-    - Paul Graham
+    - Paul Graham (mostly his earlier essays)
     - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
     - **Bryan Caplan**: see my page on [EconLog]()
       - Note that I consider Caplan's views on many philosophy topics to be
