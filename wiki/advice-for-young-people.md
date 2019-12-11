@@ -6,9 +6,9 @@ status: draft
 belief: emotional
 ---
 
-**Warning:** i'm making a bunch of changes to this page as of 2019, so right
+**Warning:** i'm making a bunch of changes to this page as of 2018--2019, so right
 now it's a weird mix of things i believed in 2014--2015 plus things i currently
-believe (in 2019).
+believe (in 2018--2019).
 
 # What this page is about
 
