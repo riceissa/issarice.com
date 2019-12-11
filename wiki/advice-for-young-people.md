@@ -743,9 +743,15 @@ Here is a brief description of how i learn math (as of August 2019):
   recommend.  I don't endorse everything these people say (in fact, I couldn't,
   since these people often disagree with each other).
 
-    - **Eliezer Yudkowsky**
-    - **[Wei Dai]()**
-    - **Carl Shulman**: Carl often writes in a cryptic manner, so you might
+    - **Eliezer Yudkowsky**: Probably one of the sanest/smartest people ever to exist.
+      Eliezer is good at opining on many topics, so after you've made up your
+      mind on something, look for what Eliezer has said about it.
+      However be aware that like many people who become semi-famous, his
+      followers/most vocal fans are substantially worse than he is, and many of
+      the people who recommend the _Sequences_ don't "get it".
+    - **[Wei Dai]()**: Probably one of the sanest/smartest people ever to exist.
+    - **Carl Shulman**: Probably one of the sanest/smartest people ever to exist.
+      Carl often writes in a cryptic manner, so you might
       need to stare really hard at his writings to understand what he is
       saying.
     - Paul Christiano
