@@ -532,6 +532,7 @@ generic, high-level strategy:
   for more on this. but as you get smarter yourself, you can _come back_ to
   people who seemed super smart and see if now you can tell which ones are
   _really_ smart vs merely seemed-smart-to-my-younger-self.
+- gell-mann amnesia
 
 (see the [People section](#people) for my specific recommendations, so you can
 judge whether you think i know what i'm talking about)
