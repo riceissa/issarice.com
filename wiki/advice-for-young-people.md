@@ -799,7 +799,9 @@ Here is a brief description of how i learn math (as of August 2019):
       has a track record of being "ahead of the trend" in the sense of catching
       onto interesting things before many others do (open science; skillful use
       of spaced repetition; if I understand correctly, he introduced neural
-      networks to _Chris Olah_).
+      networks to _Chris Olah_; maybe Pearl's causality).  I'm not sure to
+      what extent his "being ahead" is a result of his own initiative vs simply
+      being plugged into the right networks of people.
     - Nick Beckstead; in particular, read his PhD thesis, "On the
       Overwhelming Importance of Shaping the Far Future", which you can
       find [here](http://www.nickbeckstead.com/research)
