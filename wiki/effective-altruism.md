@@ -136,6 +136,7 @@ with people who do consider themselves part of the movement.
 
 # See also
 
+- [Reasons for altruism]()
 - I have a collection of [Effective altruism links]() that might interest people.
 - [Effective altruism and Asperger syndrome]()
 
