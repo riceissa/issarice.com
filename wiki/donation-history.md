@@ -1,7 +1,7 @@
 ---
 title: Donation history
 author: Issa Rice
-date: 2018-12-23
+date: 2019-12-23
 ---
 
 My donation history begins in 2015 because that is the year during which I first started working/earning money that could be considered "my own".
@@ -19,7 +19,9 @@ I did not donate in 2016 because I am still building a financial buffer.
 
 # 2017
 
-I earned around $34,000. This amount includes the $9,360 deferred payment from
+I earned around $34,000 [ETA: this ended up being more like $37,000 due to
+tasks from 2017 being added to Vipul's Contract Work website in January--March
+2018]. This amount includes the $9,360 deferred payment from
 last year. My main source of income was [contract work][cw] for Vipul Naik. I also
 did some contract work for Peter Hurford (recorded on Vipul Naik's contract
 work site) and sold leftover bitcoin that I had (worth around $250).
@@ -87,5 +89,33 @@ Besides the donations listed above, Vipul also gave another donation on the
 same day (that he chose himself); you can read about that donation in the [post
 he wrote about his 2018
 donations](https://vipulnaik.com/blog/my-2018-donations/).
+
+# 2019
+
+I earned around $4,000 (this amount does not include what I earned in December,
+so it might be slightly larger by the end of the year). Like the previous
+years, my main source of income was [contract work][cw] for Vipul Naik. I also
+did some contract work for BERI. (There were also some smaller sources of
+income, but I won't bother to list them all.)
+
+I decided not to donate in 2019. This is mainly for two reasons:
+
+- Personal finances: I worked very little this year, so my income is small. My
+  future income is also uncertain at this point, so I might need to use my
+  savings in the future.
+- Low value of small marginal donations to targets I am most interested in
+  funding: I am currently most excited about funding independent AI safety
+  researchers and small projects (in AI safety and some other areas). My best
+  guess is that funding these individuals or projects to a point where there
+  are significant counterfactual differences requires at least around $50,000
+  (amount calculated based on paying one researcher who doesn't require a lot
+  of money for one year). As far as I know, there isn't a simple way to
+  coordinate with other people interested in funding independent researchers,
+  so I can't just say something like "I pledge to give $1,000 to person X if
+  enough other people also pledge to do the same" and have all the logistics
+  taken care of. The best alternatives to do this sort of coordination to fund
+  independent researchers at the moment seem to be EA Funds's Long-Term Future
+  Fund and the EA Hotel; I think these are decent options but I prefer having
+  more control over what gets funded.
 
 [cw]: https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice "“Contract work by Issa Rice for Vipul Naik”."
