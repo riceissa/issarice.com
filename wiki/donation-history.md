@@ -45,7 +45,8 @@ to a charity of my choice.
 I decided to take up Vipul's offer this year, using both last year's and this
 year's amount (so a total of $1,000). I chose the following allocation:
 
-- $500 to Machine Intelligence Research Institute. This was mostly intended as
+- $500 to Machine Intelligence Research Institute (with an additional $500 from
+  REG's Double Up Drive). This was mostly intended as
   a [retrospective
   donation](https://causeprioritization.org/Analogs_in_the_non-profit_world_of_for-profit_ideas),
   as thanks for producing useful content and ideas, and for doing work that I
