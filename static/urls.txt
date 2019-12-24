@@ -32,6 +32,7 @@ https://eaforum.issarice.com/users/william_macaskill?format=rss
 https://eaforum.issarice.com/users/paul_christiano?format=rss
 https://eaforum.issarice.com/users/annasalamon?format=rss
 http://reflectivedisequilibrium.blogspot.com/feeds/posts/default
+http://hagiograffiti.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
 https://intelligence.org/blog/feed/
 http://aiimpacts.org/feed/
