@@ -209,6 +209,16 @@ tendencies in people with a single cause area focus:
 
     Eliezer writes more about this in [this post](https://www.lesswrong.com/posts/BA7dRRrzMLyvfJr9J/my-best-and-worst-mistake).
 
+-   Anna Salamon describes the 50/50 rule in a [comment](https://lw2.issarice.com/posts/96N8BT9tJvybLbn5z/we-run-the-center-for-applied-rationality-ama#ggCv4GJgrvya7c65d):
+    "The 50/50 rule is a proposed heuristic claiming that about half of all
+    progress on difficult projects will come from
+    already-known-to-be-project-relevant subtasks [...]. The other half of
+    progress on difficult projects (according to this heuristic) will come from
+    taking an interest in the rest of the world, including parts not yet known
+    to be related to the problem at hand". (However, see the note at the top of
+    that comment, which says she might change her mind about this if she were
+    to actually write a blog post about it.)
+
 Could this sort of generalist tendency be bad? In other words, why might it
 make sense to *not* become a generalist? I think the main arguments against
 would be things like division of labor and economy of scale. Also, things like
