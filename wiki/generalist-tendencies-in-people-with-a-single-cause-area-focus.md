@@ -219,6 +219,12 @@ tendencies in people with a single cause area focus:
     that comment, which says she might change her mind about this if she were
     to actually write a blog post about it.)
 
+-   <https://www.greaterwrong.com/posts/XvN2QQpKTuEzgkZHY/being-the-pareto-best-in-the-world>
+    gives an argument for specializing in multiple directions and being
+    generalist so as to claim more problems that only you can solve.
+
+-   Possibly related, a [comment](https://www.greaterwrong.com/posts/t6Fe2PsEwb3HhcBEr/the-litany-against-gurus/comment/DYdFGjLf76SfdoSrY) about people specializing in modes of cognition.
+
 Could this sort of generalist tendency be bad? In other words, why might it
 make sense to *not* become a generalist? I think the main arguments against
 would be things like division of labor and economy of scale. Also, things like
