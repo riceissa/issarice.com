@@ -100,22 +100,24 @@ income, but I won't bother to list them all.)
 
 I decided not to donate in 2019. This is mainly for two reasons:
 
-- Personal finances: I worked very little this year, so my income is small. My
-  future income is also uncertain at this point, so I might need to use my
-  savings in the future.
-- Low value of small marginal donations to targets I am most interested in
-  funding: I am currently most excited about funding independent AI safety
-  researchers and small projects (in AI safety and some other areas). My best
-  guess is that funding these individuals or projects to a point where there
-  are significant counterfactual differences requires at least around $50,000
-  (amount calculated based on paying one researcher who doesn't require a lot
-  of money for one year). As far as I know, there isn't a simple way to
-  coordinate with other people interested in funding independent researchers,
-  so I can't just say something like "I pledge to give $1,000 to person X if
-  enough other people also pledge to do the same" and have all the logistics
-  taken care of. The best alternatives to do this sort of coordination to fund
-  independent researchers at the moment seem to be EA Funds's Long-Term Future
-  Fund and the EA Hotel; I think these are decent options but I prefer having
-  more control over what gets funded.
+Personal finances
+:    I worked very little this year, so my income is small. My
+     future income is also uncertain at this point, so I might need to use my
+     savings in the future.
+
+Low value of small marginal donations to targets I am most interested in funding
+:    I am currently most excited about funding independent AI safety
+     researchers and small projects (in AI safety and some other areas). My best
+     guess is that funding these individuals or projects to a point where there
+     are significant counterfactual differences requires at least around $50,000
+     (amount calculated based on paying one researcher who doesn't require a lot
+     of money for one year). As far as I know, there isn't a simple way to
+     coordinate with other people interested in funding independent researchers,
+     so I can't just say something like "I pledge to give $1,000 to person X if
+     enough other people also pledge to do the same" and have all the logistics
+     taken care of. The best alternatives to do this sort of coordination to fund
+     independent researchers at the moment seem to be EA Funds's Long-Term Future
+     Fund and the EA Hotel; I think these are decent options but I prefer having
+     more control over what gets funded.
 
 [cw]: https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice "“Contract work by Issa Rice for Vipul Naik”."
