@@ -125,7 +125,8 @@ my views if I come across contrary evidence.)
 
 My internal monologue started to frequently have thoughts like "people are
 bad", "we are so screwed", "the world is going to end", "we are all going to
-die", "I hate everything", etc. (Again, it's not like my opinions here have
+die", "I hate everything", "Grognor was right about everything", etc.
+(Again, it's not like my opinions here have
 changed this year, but the pattern of thoughts has definitely changed.)
 
 Overall, I'm not comfortable considering myself part of the "EA
