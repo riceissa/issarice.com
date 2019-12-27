@@ -39,6 +39,8 @@ terminally care about these people who are helped:
 - You want there to exist more smart/interesting/compassionate/good/whatever people for
   instrumental or aesthetic reasons.
 
+I think one reason to pay attention to the variety of possible reasons for altruistic/cooperative behavior is that when you learn something new about the world, you can decide whether that changes how you should act, and the way you change how you act can depend on the kind of altruism you have. For example, if you find out a way in which being selfish is coherent (when you previously thought it was incoherent), that can give you a reason to act more selfishly if the incoherence was one of the main reasons you were being altruistic, whereas if you just cared about the well-being of others you wouldn't really change how you act.
+
 [^bottleneck]: [“Wei\_Dai comments on Max Tegmark on our place in history: ‘We’re Not Insignificant After All’ ”](http://lesswrong.com/lw/1li/max_tegmark_on_our_place_in_history_were_not/1eer). LessWrong. Retrieved March 7, 2018.
 
     > What strikes me about our current situation is not only are we at an extremely influential point in the history of the universe, but how few people realize this. It ought to give the few people in the know enormous power (relative to just about anyone else who has existed or will exist) to affect the future, but, even among those who do realize that we're at a bottleneck, few try to shape the future in any substantial way, to nudge it one way or another. Instead, they just go about their "normal" lives, and continue to spend their money on the standard status symbols and consumer goods.
