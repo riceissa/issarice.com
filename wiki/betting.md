@@ -43,6 +43,7 @@ Other thoughts:
     overall track-record that matter.
     I think the case is similar to the one to [avoid the news][news].
     Tyler Cowen is quoted to be making the same point [here][shows].
+
   * I think it's interesting that many rationalists are against news, but end
     up betting on news-worthy topics (but are these just the ones more likely
     to show up in my Facebook feed?).
@@ -50,6 +51,19 @@ Other thoughts:
     events, and don't know why I should expend so much effort just to prove
     that I am well-calibrated or whatever.
     A lot of interesting topics aren't even on the betting table.
+
+    [Bryan Caplan](https://www.econlib.org/i-win-my-eu-bet/):
+    "What’s the most important thing I learned from this
+    twelve-year bet?  This: While my commitment to betting has great cognitive
+    benefits, it also has great emotional costs.  During the last two years, I
+    have spent far too much time wondering if I could salvage my perfect
+    betting record, and far too much time checking electionbettingodds.com.
+    This bet interfered with my inner harmony, my commitment to detachment from
+    this corrupt society.  From now on, I’ll remember these costs before I
+    bet."
+    (This can also be a separate point about the under-acknowledged emotional
+    costs of betting.)
+
   * I think even worse than self-selecting which bets to take is to announce
     some bet one is willing to make in an effort to lure people into taking on
     bets.
