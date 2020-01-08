@@ -347,6 +347,13 @@ The Pillows:
 
 * Serial Experiments Lain OST -- I had listened to this several times back when I watched the anime (I forget when), but it didn't make much of an impression back then (to the point where I didn't even record it on this page). I decided to revisit it and find it more interesting now.
 
+# January 2020
+
+* Gentle Giant (HT Alex Sanchez) -- I had heard of this band's name, but had never listened to them before (or if I did, I forgot about it).
+  * _The Power and the Glory_
+  * _Octopus_
+  * _Free Hand_
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
