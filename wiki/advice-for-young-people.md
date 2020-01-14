@@ -838,6 +838,10 @@ Here is a brief description of how i learn math (as of August 2019):
         ethics.
         TODO: link to hanson and cowen on this.
     - Michael Huemer (mostly _The Problem of Political Authority_; I am significantly less enthusiastic about Huemer's other output)
+    - David D. Friedman: I haven't read too much by him, so I'm not sure how I
+      would rank his general worldviews or reasoning ability, but I have seen
+      enough interesting things by him that I think looking into him is a good
+      idea (and hope to undertake this task myself soon!).
     - Nick Bostrom
     - Robin Hanson (I think _The Elephant in the Brain_ is probably the best
       introduction to his type of thinking. I also like his old papers.)
