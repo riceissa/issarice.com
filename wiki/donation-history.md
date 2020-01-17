@@ -92,8 +92,7 @@ donations](https://vipulnaik.com/blog/my-2018-donations/).
 
 # 2019
 
-I earned around $4,000 (this amount does not include what I earned in December,
-so it might be slightly larger by the end of the year). Like the previous
+I earned around $5,000. Like the previous
 years, my main source of income was [contract work][cw] for Vipul Naik. I also
 did some contract work for BERI. (There were also some smaller sources of
 income, but I won't bother to list them all.)
