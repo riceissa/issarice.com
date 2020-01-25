@@ -225,6 +225,8 @@ tendencies in people with a single cause area focus:
 
 -   Possibly related, a [comment](https://www.greaterwrong.com/posts/t6Fe2PsEwb3HhcBEr/the-litany-against-gurus/comment/DYdFGjLf76SfdoSrY) about people specializing in modes of cognition.
 
+-   <https://www.greaterwrong.com/posts/XcDSmXecYiubPjxAj/eric-drexler-on-learning-about-everything>
+
 Could this sort of generalist tendency be bad? In other words, why might it
 make sense to *not* become a generalist? I think the main arguments against
 would be things like division of labor and economy of scale. Also, things like
