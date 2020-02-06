@@ -48,7 +48,7 @@ exist.
 # Great tier
 
 - Paul Christiano
-- Abram Demski
+- **Abram Demski**
 
 - Gary Drescher (*Good and Real*)
 
@@ -80,7 +80,7 @@ exist.
     TODO: link to eliezer saying people are better one meta level down in
     ethics.
     TODO: link to hanson and cowen on this.
-- **Brian Tomasik** (a lot of his philosophy writings are similar in
+- Brian Tomasik (a lot of his philosophy writings are similar in
   content to those of Yudkowsky, Drescher, and Daniel Dennett, but
   Tomasik's writings might be the clearest)
 - [Manuel Moertelmaier](http://hagiograffiti.blogspot.com/)
