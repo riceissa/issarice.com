@@ -166,3 +166,4 @@ to list and I'm sure you can find them without my help).
 # See also
 
 - [Vipul Naik's people page](https://vipulnaik.com/people/)
+- [My RSS/atom subscriptions](https://issarice.com/urls.txt)
