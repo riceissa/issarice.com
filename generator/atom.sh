@@ -32,7 +32,7 @@ grep -m 1 -e '^date: ' wiki/* | \
         echo "    <id>tag:issarice.com,$date:/$base</id>"
         echo "    <updated>$date""T00:00:00$(date +'%:z')</updated>"
         echo '    <content type="html"><![CDATA['
-        pandoc -f markdown+smart -t html5 --toc --toc-depth=4 --base-header-level=2 --lua-filter generator/url_filter.lua $filename
+        pandoc -f markdown+smart -t html5 --toc --toc-depth=4 --shift-heading-level-by=1 --lua-filter generator/url_filter.lua $filename
         echo "    ]]></content>"
         echo "  </entry>"
 
