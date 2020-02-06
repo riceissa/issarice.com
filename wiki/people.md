@@ -144,3 +144,7 @@ I'll be deliberately vague about the reasons for listing a person below.
 - Chris Olah
 - [Mark Lippmann](https://meditationstuff.wordpress.com/)
 - [Robert Heaton](https://robertheaton.com/)
+
+# See also
+
+- [Vipul Naik's people page](https://vipulnaik.com/people/)
