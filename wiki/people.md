@@ -93,6 +93,8 @@ exist.
   introduction to his type of thinking. I also like his old papers.)
 - Katja Grace
 - Anna Salamon
+- Oliver Habryka
+- Buck Shlegeris
 - Anatoly Karlin
 - Devin Helton/Devin Finbarr
 - [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)
@@ -126,10 +128,13 @@ exist.
 
 The following is a list of people I pay attention to, for one of the following reasons:
 
-1. I think they say many interesting things, but I have some strong misgivings
-   about parts of their worldviews or sanity.
-2. I haven't evaluated/vetted them in as much detail as I would like (possibly
-   because they just don't have enough online content for me to consume).
+- I think they say many interesting things, but I have some strong misgivings
+  about parts of their worldviews or sanity.
+- I don't place much weight on their worldviews/they don't have very definite
+  worldviews that are publicly accessible, but I'm generally a fan of their
+  work.
+- I haven't evaluated/vetted them in as much detail as I would like, possibly
+  because they just don't have enough online content for me to consume ("trial mode").
 
 I'll be deliberately vague about the reasons for listing a person below.
 
