@@ -33,7 +33,7 @@ people often disagree with each other).
 The people in this list are my guesses for the sanest/smartest people ever to
 exist.
 
-- **Eliezer Yudkowsky**:
+- **Eliezer Yudkowsky** (focus on 2006--2013, plus _Inadequate Equilibria_):
   Eliezer is good at opining on many topics, so after you've made up your
   mind on something, look for what Eliezer has said about it.
   However be aware that like many people who become semi-famous, his
