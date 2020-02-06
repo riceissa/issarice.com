@@ -124,7 +124,7 @@ exist.
   what extent his "being ahead" is a result of his own initiative vs simply
   being plugged into the right networks of people.
 
-# Interesting tier/trial mode
+# Interesting tier
 
 The following is a list of people I pay attention to, for one of the following reasons:
 
