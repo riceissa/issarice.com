@@ -21,3 +21,4 @@ date: 2018-09-30
   [_Superintelligence_](https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies)
 * <https://www.quora.com/profile/Alex-K-Chen/> (in profile description, scroll
   down to "People who I find highly interesting")
+* my own <https://issarice.com/people>
