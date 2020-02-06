@@ -162,6 +162,19 @@ to list and I'm sure you can find them without my help).
 - Nick Hay
 - Satvik Beri
 - Vladimir Nesov (I really need to read more things he has written)
+- Ted Kaczynski
+
+# Old tier
+
+The following people I find interesting, although because they are so much
+older than the rest of the people on this page I find it difficult to compare
+them with the others (i.e. they grew up and lived in such a different world
+that they have glaring holes in them even though they did really well for their
+time).
+
+- Richard Feynman
+- Charles Darwin
+- Bertrand Russell
 
 # See also
 
