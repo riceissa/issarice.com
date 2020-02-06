@@ -163,6 +163,7 @@ to list and I'm sure you can find them without my help).
 - Satvik Beri
 - Vladimir Nesov (I really need to read more things he has written)
 - Ted Kaczynski
+- Geoffrey Miller
 
 # Old tier
 
