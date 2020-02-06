@@ -83,6 +83,7 @@ exist.
 - **Brian Tomasik** (a lot of his philosophy writings are similar in
   content to those of Yudkowsky, Drescher, and Daniel Dennett, but
   Tomasik's writings might be the clearest)
+- [Manuel Moertelmaier](http://hagiograffiti.blogspot.com/)
 
 # Good tier
 
@@ -95,6 +96,7 @@ exist.
 - Anna Salamon
 - Oliver Habryka
 - Buck Shlegeris
+- Andrew Critch
 - Anatoly Karlin
 - Devin Helton/Devin Finbarr
 - [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)
@@ -136,7 +138,10 @@ The following is a list of people I pay attention to, for one of the following r
 - I haven't evaluated/vetted them in as much detail as I would like, possibly
   because they just don't have enough online content for me to consume ("trial mode").
 
-I'll be deliberately vague about the reasons for listing a person below.
+I'll be deliberately vague about the reasons for listing a person below. I have
+also left out many cookie cutter rationalists and effective altruists (they
+might be smarter than some of the people in this list, but they are too boring
+to list and I'm sure you can find them without my help).
 
 - [Jeff Hays](http://factsanddetails.com/)
 - Zack M. Davis
@@ -150,6 +155,13 @@ I'll be deliberately vague about the reasons for listing a person below.
 - [Mark Lippmann](https://meditationstuff.wordpress.com/)
 - [Robert Heaton](https://robertheaton.com/)
 - Terry A. Davis
+- Caspar Oesterheld
+- Matthew Gentzel
+- Michael Vassar
+- Mencius Moldbug
+- Nick Hay
+- Satvik Beri
+- Vladimir Nesov (I really need to read more things he has written)
 
 # See also
 
