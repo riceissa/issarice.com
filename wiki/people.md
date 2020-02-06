@@ -71,7 +71,7 @@ exist.
   output since 2006, aside from one paper about the meta-problem of consciousness.
 
 - Grognor (George Koleszarik). This guy saw the truth. Unfortunately he died before he could produce much.
-- Jessica Taylor
+- Jessica Taylor (focus on 2015--2017 stuff)
 - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
 - **Bryan Caplan**: see my page on [EconLog]()
   - Note that I consider Caplan's views on many philosophy topics to be
@@ -88,7 +88,7 @@ exist.
 # Good tier
 
 - gwern
-- Scott Alexander <https://www.quora.com/What-are-the-best-essays-on-the-Internet-e-g-Paul-Grahams-blog-Slate-Star-Codex/answer/Issa-Rice>
+- Scott Alexander (focus on pre-SSC stuff) <https://www.quora.com/What-are-the-best-essays-on-the-Internet-e-g-Paul-Grahams-blog-Slate-Star-Codex/answer/Issa-Rice>
 - Nick Bostrom
 - Robin Hanson (I think _The Elephant in the Brain_ is probably the best
   introduction to his type of thinking. I also like his old papers.)
@@ -100,12 +100,10 @@ exist.
 - Anatoly Karlin
 - Devin Helton/Devin Finbarr
 - [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)
-- Paul Graham (mostly his earlier essays)
 - Michael Huemer (mostly _The Problem of Political Authority_; I am significantly less enthusiastic about Huemer's other output)
 - Nick Beckstead; in particular, read his PhD thesis, "On the
   Overwhelming Importance of Shaping the Far Future", which you can
   find [here](http://www.nickbeckstead.com/research)
-- Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
 - Terence Tao. I can't appreciate his mathematical research, but I am a fan
   of his undergraduate-level course material (e.g., his real analysis
   books, linear algebra notes, and multiple-choice quizzes)
@@ -143,6 +141,8 @@ also left out many cookie cutter rationalists and effective altruists (they
 might be smarter than some of the people in this list, but they are too boring
 to list and I'm sure you can find them without my help).
 
+- Paul Graham (mostly his earlier essays): his essays were important to me as a teenage, but lately I feel like I've moved on to better things
+- Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
 - [Jeff Hays](http://factsanddetails.com/)
 - Zack M. Davis
 - Piotr Wozniak
