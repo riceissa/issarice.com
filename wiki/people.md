@@ -8,10 +8,10 @@ date: 2020-02-05
 # belief:
 ---
 
-I dislike the vast majority of people, but I have a strange obsession with a certain subset of people. When someone seems interesting, I tend to stalk them online, read as much of what they've written as possible, [write private biographies about them so I don't forget details](https://contractwork.vipulnaik.com/venue.php?venue=People+repo), make [websites](https://orgwatch.issarice.com/) [cataloging](https://aiwatch.issarice.com/) them, rank them according to how smart/interesting/intense I think they are (that's this page), classify them according to certain attributes, and so on. I (very occasionally) get paid for this obsession.
+I dislike the vast majority of people, but I have a strange obsession with a certain subset of people. When someone seems interesting, I tend to stalk them online, read as much of what they've written as possible, [write private biographies about them so I don't forget details](https://contractwork.vipulnaik.com/venue.php?venue=People+repo), make [websites](https://orgwatch.issarice.com/) [cataloging](https://aiwatch.issarice.com/) them, write [timelines](https://timelines.issarice.com/wiki/Timeline_of_Wei_Dai_publications) [about](https://timelines.issarice.com/wiki/Timeline_of_Carl_Shulman_publications) [them](https://timelines.issarice.com/wiki/Timeline_of_TempleOS), rank them according to how smart/interesting/intense I think they are (that's this page), classify them according to certain attributes, and so on. I (very occasionally) get paid for this obsession.
 
 This page lists the people I have found over the years to be especially smart/interesting/intense.
-When listing people on this page, what I care most about are:
+When listing people on this page, what I care about most are:
 
 - ability to understand the world (a.k.a. worldview-building ability)
 - ability to generate interesting ideas
@@ -23,7 +23,7 @@ When listing people on this page, what I care most about are:
 If you happen to find _me_ interesting or in any way trust my judgment, feel
 free to use this page to identify people you should look into.
 
-bolding indicates people I particularly recommend.
+Bolding indicates people I particularly recommend.
 
 I don't endorse everything these people say (in fact, I couldn't, since these
 people often disagree with each other).
@@ -68,9 +68,9 @@ exist.
   Unfortunately Drescher seems to be one of those people who get mindhacked
   by contemporary politics and haven't been able to escape (just check out
   his Facebook wall to see what I mean).  He also doesn't seem to have any
-  output since 2006.
+  output since 2006, aside from one paper about the meta-problem of consciousness.
 
-- Grognor (George Koleszarik)
+- Grognor (George Koleszarik). This guy saw the truth. Unfortunately he died before he could produce much.
 - Jessica Taylor
 - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
 - **Bryan Caplan**: see my page on [EconLog]()
@@ -113,7 +113,7 @@ exist.
   fields and the history of math.
 - Michael Nielsen. My basic take: his worldviews are kinda "bluepill" (in a
   way that I won't clearly define, but to contrast with someone like
-  Eliezer/Hanson, who I claim are more "redpill").  Nielsen nevertheless
+  Eliezer/Hanson, who I claim are more "redpill", and with Wei/Grognor, who I claim are "blackpill").  Nielsen nevertheless
   seems incredibly competent (regularly publishes non-bullshit work), and
   has a track record of being "ahead of the trend" in the sense of catching
   onto interesting things before many others do (open science; skillful use
@@ -144,6 +144,7 @@ I'll be deliberately vague about the reasons for listing a person below.
 - Chris Olah
 - [Mark Lippmann](https://meditationstuff.wordpress.com/)
 - [Robert Heaton](https://robertheaton.com/)
+- Terry A. Davis
 
 # See also
 
