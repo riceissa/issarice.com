@@ -180,4 +180,5 @@ time).
 # See also
 
 - [List of lists of people]()
+- [Hiring and judging character]()
 - [My RSS/atom subscriptions](https://issarice.com/urls.txt)
