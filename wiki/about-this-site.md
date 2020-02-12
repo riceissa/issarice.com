@@ -186,6 +186,10 @@ things I'm writing"---but don't want to keep repeating that all the time
 (so I just tag these pages with "*Status: notes; belief: possible*" or
 something).
 
+2020 update: I've mostly abandoned the idea of using these belief and
+status tags, because they are too annoying to use, and I think they
+are also annoying to consume (as a reader).
+
 [external]: https://github.com/riceissa/issarice.com/tree/master/external
 [gh_site]: https://riceissa.github.io/
 [gwern]: http://gwern.net

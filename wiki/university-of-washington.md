@@ -5,8 +5,8 @@ created: 2014-12-29
 date: 2016-03-30
 ---
 
-I began attending the University of Washington (UW) starting in autumn 2014; I plan to graduate sometime in 2017.
-I am majoring in computer science.
+I began attending the University of Washington (UW) starting in autumn 2014. I originally planned to graduate sometime in 2017, but instead ended up dropping out/going on indefinite leave starting in spring 2016.
+I was a computer science and math major.
 
 # Course reviews
 
