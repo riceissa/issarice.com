@@ -70,7 +70,7 @@ exist.
   his Facebook wall to see what I mean).  He also doesn't seem to have any
   output since 2006, aside from one paper about the meta-problem of consciousness.
 
-- Grognor (George Koleszarik). This guy saw the truth. Unfortunately he died before he could produce much.
+- Grognor (George Koleszarik). This guy saw the truth. Unfortunately he died before he could produce much ([relevant tweet](https://twitter.com/Grognor/status/524323978832117760)).
 - Jessica Taylor (focus on 2015--2017 stuff)
 - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
 - **Bryan Caplan**: see my page on [EconLog]()
