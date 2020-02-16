@@ -165,6 +165,7 @@ to list and I'm sure you can find them without my help).
 - Ted Kaczynski
 - Geoffrey Miller
 - Steve Hsu
+- Kevin Simler
 
 # Old tier
 
