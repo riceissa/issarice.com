@@ -75,7 +75,7 @@ http://mojix.org/rss20.xml
 https://eshapard.github.io/feed.xml
 https://bookuctivity.wordpress.com/feed/
 https://masterhowtolearn.wordpress.com/feed/
-http://chriswarbo.net/blog.atom "~chriswarbo.net"
+http://chriswarbo.net/blog.rss "~chriswarbo.net"
 http://supermemopedia.com/index.php?title=Incremental_reading_strategies&feed=atom&action=history
 http://mediangroup.org/feed/atom.xml
 https://jaydaigle.net/feed.xml
