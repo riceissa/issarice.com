@@ -51,6 +51,7 @@ http://slatestarcodex.com/feed/
 https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
+https://gist.github.com/bshlgrs.atom
 https://ai-alignment.com/feed
 https://distill.pub/rss.xml
 https://arcsecond.wordpress.com/feed/
