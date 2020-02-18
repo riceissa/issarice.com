@@ -152,7 +152,7 @@ to list and I'm sure you can find them without my help).
   idea (and hope to undertake this task myself soon!).
 - Alex K. Chen
 - Chris Olah
-- [Mark Lippmann](https://meditationstuff.wordpress.com/)
+- [Mark Lippmann](https://meditationstuff.wordpress.com/). I do not meditate. This is the only meditation blog I enjoy reading.
 - [Robert Heaton](https://robertheaton.com/)
 - Terry A. Davis
 - Caspar Oesterheld
@@ -166,6 +166,7 @@ to list and I'm sure you can find them without my help).
 - Geoffrey Miller
 - Steve Hsu
 - Kevin Simler
+- [Uriel](http://uriel.cat-v.org/)
 
 # Old tier
 
