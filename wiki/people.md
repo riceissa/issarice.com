@@ -167,6 +167,7 @@ to list and I'm sure you can find them without my help).
 - Steve Hsu
 - Kevin Simler
 - [Uriel](http://uriel.cat-v.org/)
+- Matt vs. Japan
 
 # Old tier
 
