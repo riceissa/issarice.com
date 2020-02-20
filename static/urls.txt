@@ -33,6 +33,7 @@ https://eaforum.issarice.com/users/william_macaskill?format=rss
 https://eaforum.issarice.com/users/paul_christiano?format=rss
 https://eaforum.issarice.com/users/annasalamon?format=rss
 https://eaforum.issarice.com/users/clairezabel?format=rss
+https://ea.greaterwrong.com/users/galton?format=rss
 https://ea.greaterwrong.com/users/neel-nanda?format=rss
 https://www.greaterwrong.com/users/neel-nanda?format=rss
 https://ea.greaterwrong.com/users/buck?format=rss
