@@ -354,6 +354,13 @@ The Pillows:
   * _Octopus_
   * _Free Hand_
 
+# February 2020
+
+* Sean Lennon: _Friendly Fire_ -- this album is surprisingly good (on priors, I
+  just expected Sean Lennon to not be very good, so had avoided him; it's only
+  thanks to YouTube's recommendation feature that I even listened to this in
+  the first place)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
