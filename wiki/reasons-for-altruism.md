@@ -26,7 +26,7 @@ It occurs to me that there are many reasons (including many weird reasons) for a
 
 I'll also list some reasons why people may appear to behave altruistically
 (i.e. will sometimes take actions which help others), even if they don't
-terminally care about these people who are helped:
+terminally care about these people who are helped:[^real_altruism]
 
 - Reducing x-risk is useful if you want to figure out your actual terminal
   values and you believe figuring this out is very difficult (e.g. it requires
@@ -44,3 +44,5 @@ I think one reason to pay attention to the variety of possible reasons for altru
 [^bottleneck]: [“Wei\_Dai comments on Max Tegmark on our place in history: ‘We’re Not Insignificant After All’ ”](http://lesswrong.com/lw/1li/max_tegmark_on_our_place_in_history_were_not/1eer). LessWrong. Retrieved March 7, 2018.
 
     > What strikes me about our current situation is not only are we at an extremely influential point in the history of the universe, but how few people realize this. It ought to give the few people in the know enormous power (relative to just about anyone else who has existed or will exist) to affect the future, but, even among those who do realize that we're at a bottleneck, few try to shape the future in any substantial way, to nudge it one way or another. Instead, they just go about their "normal" lives, and continue to spend their money on the standard status symbols and consumer goods.
+
+[^real_altruism]: It's not entirely clear to me whether there is a fundamental difference between "caring about someone intrinsically/as a terminal value" vs "caring about someone instrumentally/for cooperation" (I think there are operationalizations one can choose that would make them different, e.g. you could observe whether someone continues to behave altruistically if it became obvious that the other side couldn't pay back). Looking at the causal history, it seems like the former arose because the latter happened to work well, and it seems like "baking in" the values as terminal values was a particularly effective implementation of getting the cooperation to work (or something like that).
