@@ -557,7 +557,7 @@ generic, high-level strategy:
 - when you see that an interesting person says something you disagree with,
   this is an opportunity for you to decide if you know better than they do, or
   if they know better (you can turn the latter situation into the former by
-  doing additional research on the topic).
+  doing additional research on the topic). see also eliezer's [rhythm of disagreement](https://www.greaterwrong.com/posts/tKa9Lebyebf6a7P2o/the-rhythm-of-disagreement).
 - randomly fact-check things using google/wikipedia/generic sources to score
   someone.
 - as you become more knowledgeable about the world, things that used to seem to
@@ -576,6 +576,14 @@ generic, high-level strategy:
   people who seemed super smart and see if now you can tell which ones are
   _really_ smart vs merely seemed-smart-to-my-younger-self.
 - gell-mann amnesia
+- you can use recommendations to generate ideas for smart people, but
+  you will generally need to put in the work to verify that the
+  recommended people are good. e.g. if smart person A says that B and
+  C are smart, you usually can't trust A to be correct about this.
+  (it's really weird! i know a bunch of smart people who give lots of
+  false positives about who else is smart. smartness is sadly not
+  transitive.) you have to go through B and C's stuff yourself to
+  judge for yourself.
 
 (see my [People page](people) for my specific recommendations, so you can
 judge whether you think i know what i'm talking about)
@@ -821,6 +829,16 @@ Here is a brief description of how i learn math (as of August 2019):
 5. if i encounter something i don't understand, i write a question down, in a notebook or text file or maybe math SE. sometimes, i will be able to answer this question in a few months, after i've learned more things. but other times, it's something that seems difficult to answer, so i don't get a quick answer. (I haven't tried this, but it might be good to find a [tutor](https://www.greaterwrong.com/posts/tmWMuY5HCSNXXZ9oq/buck-s-shortform/comment/dcR3jmeZBc3EdDbrh) in the subject and ask them all your questions. One problem for me is that many of the things i want to learn don't have tutors listed on wyzant.)
 6. if i come up with a better explanation of something, or a better systematization, i will write it up. these days, i put these on the [ML subwiki userspace](https://machinelearning.subwiki.org/wiki/User:IssaRice).
 7. in the evening, i go through my daily anki reviews (including the problems deck).
+
+some additions since then (as of february 2020):
+
+- sometimes adding stuff to anki is exhausting. if this is the case,
+  it might be better to write a wiki page. that way, you will still be
+  able to have a record/a way to load up your understanding when you
+  come back to the topic later, but you won't need to constantly be
+  nagged by anki into recalling the stuff. this is especially good for
+  things that you're not sure you understand 100%.
+- focus on simple examples that you can fit in your head all at once.
 
 # People
 
