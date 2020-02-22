@@ -407,6 +407,38 @@ Cognito Mentoring info wiki.
 
 [dealing iso]: http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation
 
+# Love
+
+2020 update: I've given up on this for the next year.
+
+see <https://predictionbook.com/predictions/181602> for updates.
+
+# Loneliness
+
+[eliezer](https://www.greaterwrong.com/posts/YduZEfz8usGbJXN4x/transcription-of-eliezer-s-january-2010-video-q-and-a):
+
+> I often feel isolated to some degree, but the fact of isolation is a
+> bit different from the emotional reaction of loneliness. I suspect
+> and put some probability to the suspicion that I’ve actually just
+> been isolated for so long that I don’t have a state of social
+> fulfillment to contrast it to, whereby I could feel lonely, or as it
+> were, lonelier, or that I’m too isolated relative to my baseline or
+> something like that. There’s also the degree to which I,
+> personality-wise, don’t hold with trying to save the world in an Emo
+> fashion...? And as I improve my understanding of the world more and
+> more, I actually would not say that I felt any more isolated as I’ve
+> come to understand the world better.
+
+i disagree with the last sentence. i think my loneliness has gotten
+much worse as i've learned about the world. as i become more sane,
+everyone else looks more and more insane. eventually it can seem like
+the only way to make more friends is to actually _create_ more smart
+people in the world, rather than just _finding_ them!
+
+# Death
+
+was grognor right? i still don't know!
+
 # Effective altruism
 
 see also my [effective altruism]() page.
@@ -777,13 +809,15 @@ I've found it pretty useful to know how to use computers well. There are
 several aspects to this:
 
 - Programming.  I've found this useful for automating tasks, building websites,
-  making money (through contract work), and being able to read/understand
+  making money (through contract work), coding up small toy models to better understand a problem, and being able to read/understand
   software that others write.
 - Algorithms and data structures.  Beyond basic programming skills, I haven't
   found knowledge of algorithms/data structures to be too useful.  Occasionally
   something may come up where having this knowledge is useful, but the vast
   majority of the time, basic programming skills suffice.  This might change in
   the future if I do work that is more intensive on this front.
+  I think a big reason for this is that in high level programming languages,
+  the abstractions are usually good.
 - Familiarity with many websites/the internet.
 - Unix tools/command line.  I've found this useful.  There are some things you
   can and maybe should skip or only learn the minimal amount of (bash
@@ -791,11 +825,16 @@ several aspects to this:
 - Hardware.  I don't actually know much about computer hardware, and my current
   impression is that I haven't lost out on much by not knowing.
 
+you can usually pick this up as you go, by e.g. reading online
+tutorials, experimenting on your own, and occasionally working through
+in a more systematic fashion (e.g. textbooks).
+
 # Mathematics
 
 - beware tunnel vision
 - at the same time, knowing a lot of math can be useful
 - once you go woke, it can be hard to go all in on math, so it might be good to do this while young
+- usefulness of math depends on the subfield. e.g. i think statistics/probability and linear algebra are probably the most generally useful ones, and there are some things like complex analysis that i haven't learned (and i haven't had to learn so far).
 
 # Learning how to learn
 
@@ -1049,6 +1088,7 @@ Also "[Striking user interfaces](http://cognitivemedium.com/striking_ui/striking
 
 - ["The Bipolar Lisp Programmer"](http://marktarver.com/bipolar.html)
 - talk about: music, art, wasting time on internet, literature
+- [common human stuff](https://meditationstuff.wordpress.com/2020/02/16/common-human-stuff-content-warning-draft/)
 
 [acad]: https://www.quora.com/Reviews-of-University-of-Washington-Academy-for-Young-Scholars
 [drawbacks]: http://briantomasik.com/drawbacks-formal-education/
