@@ -477,6 +477,38 @@ appropriate peers in real life.  This is why it's important to expand
 your search online, and one of the ways to get people's attention online
 is by producing great content.
 
+2020 update: i think when you are younger, you should focus more on
+producing "obvious" or reference works. writing timelines or wikipedia
+articles is a good start. or helping a more senior person's research
+(e.g. by digging). the reason for this is that when you're young, your
+ideas will basically all be bad. this is probably field-dependent,
+e.g. in math or more technical subjects you could probably do good
+work even when you don't understand the world very well. but for
+philosophy, EA-like worldview building, and stuff like
+politics/opinions your opinions will just be bad. you could still keep
+a blog/diary but i wouldn't suggest putting in a huge number of hours
+(e.g. researching something in politics and writing it up as a blog
+post seems like a bad idea).
+
+as you get older, you will hopefully "go woke" in some sense. i'm not
+really sure how to explain what this is like or how you would know
+that e.g. you're "going woke" instead of going crazy. one sort of
+litmus test of sorts is to try reading a bunch of [Wei Dai]() blog
+posts. if you don't bounce off, if you instead have thoughts like "wtf
+this guy is so amazing" then you _might_ be on the right track :). i
+think it's easy to have "wtf gwern is amazing" thoughts at like age
+15--17, but for wei, it might be more like 20--25 (depending on how
+much info you consume in your teens).
+
+once you go woke, you can start to do basically anything. like, if
+you're hanson/caplan-pilled on politics, weipilled on philosophy, and
+carl/eliezer-pilled on various other aspects of the world, then you
+can actually start to think non-dumb thoughts about many topics. so at
+this point, you can trust yourself to write about
+politics/society/love/whatever, and it won't be predictably-obviously
+bad. (it might still be bad, but it will probably be bad in
+non-obvious/interesting ways.)
+
 # Thinking about careers
 
 My basic stance on careers as of late 2018:
@@ -534,7 +566,7 @@ generic, high-level strategy:
   _really_ smart vs merely seemed-smart-to-my-younger-self.
 - gell-mann amnesia
 
-(see the [People section](#people) for my specific recommendations, so you can
+(see my [People page](people) for my specific recommendations, so you can
 judge whether you think i know what i'm talking about)
 
 # Books
@@ -556,7 +588,7 @@ Some books I have enjoyed:
 - Gary Drescher's _Good and Real_
 - Daniel Dennett's _Consciousness Explained_
 - Michael Huemer's _The Problem of Political Authority_
-- Eliezer Yudkowsky's _Sequences_ (note: the published book version cuts out comments and some of the posts. I think <https://www.readthesequences.com/> is a good start, especially if you wouldn't bother reading any of it otherwise, but eventually you may want to use GW/LW to read all the comments and omitted posts)
+- Eliezer Yudkowsky's _Sequences_ (note: the published book version cuts out comments and some of the posts. I think <https://www.readthesequences.com/> is a good start, especially if you wouldn't bother reading any of it otherwise, but eventually you may want to use GW/LW to read all the comments and omitted posts) and _Inadequate Equilibria_
 
 # Extracurriculars
 
