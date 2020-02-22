@@ -6,9 +6,9 @@ status: draft
 belief: emotional
 ---
 
-**Warning:** i'm making a bunch of changes to this page as of 2018--2019, so right
+**Warning:** i'm making a bunch of changes to this page as of 2018--2020, so right
 now it's a weird mix of things i believed in 2014--2015 plus things i currently
-believe (in 2018--2019).
+believe (in 2018--2020).
 
 # What this page is about
 
@@ -409,6 +409,8 @@ Cognito Mentoring info wiki.
 
 # Effective altruism
 
+see also my [effective altruism]() page.
+
 From "[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)":
 
 > Because gifted children are able to consider the possibilities of how
@@ -522,6 +524,15 @@ My basic stance on careers as of late 2018:
   things or impress actual/potential mates.  In the case of (1), I can't really
   help you (you don't share my values). But in the case of (2), I think you
   ought to introspect more and see if these things are really worth it.
+
+2020: the hardest thing about careers is how to make enough money to
+support a wife and kids (if that's what you want). all of this is
+assuming AI timelines are like 40+ years away. living a minimal single
+existence is easy just by doing freelance work/working a programming
+(or other high-paying) job for a small number of years. (i'm still not
+entirely sure why grognor couldn't do this.) but once you get to
+wife+kids, everything is much harder, and i still haven't figured this
+one out. check back in a few more years! :')
 
 # Finding content online
 
