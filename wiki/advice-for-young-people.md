@@ -435,6 +435,14 @@ everyone else looks more and more insane. eventually it can seem like
 the only way to make more friends is to actually _create_ more smart
 people in the world, rather than just _finding_ them!
 
+see also:
+
+<http://grognor.blogspot.com/2016/12/originally-published-october-3-2014.html>
+
+"tfw your epistemic peers are scattered about, unreachable, and slowly disappearing before you, leaving you stranded, alone, wretched" <https://twitter.com/Grognor/status/678963892609921024>
+
+"I have moved from epistemic loneliness to abject epistemic despair. why are so many things I see clearly so incommunicable" "because if they were communicable, others would have done so and it'd be part of the memeplex already. or they're illusory. yes I know." <https://twitter.com/Grognor/status/748374798573707266>
+
 # Death
 
 was grognor right? i still don't know!
