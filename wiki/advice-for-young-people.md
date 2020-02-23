@@ -443,6 +443,8 @@ see also:
 
 "I have moved from epistemic loneliness to abject epistemic despair. why are so many things I see clearly so incommunicable" "because if they were communicable, others would have done so and it'd be part of the memeplex already. or they're illusory. yes I know." <https://twitter.com/Grognor/status/748374798573707266>
 
+"stop wantonly excluding me from your secret clubs" <https://twitter.com/Grognor/status/858766382955200519>
+
 # Death
 
 was grognor right? i still don't know!
