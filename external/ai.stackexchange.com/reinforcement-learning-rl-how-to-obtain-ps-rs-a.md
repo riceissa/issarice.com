@@ -6,7 +6,7 @@ I think the key part is where the book says:
 
 This means that the reward set is actually $\mathcal R = \{0, 1, -3\}$ (we assume that in each timestep, the robot can only collect one can).
 
-Now using $$r(s,a,s') = \sum_r r \frac{p(s',r\mid s,a)}{p(s'\mid s,a)} \tag{3.6}$$ and $$p(s'\mid s,a) = \sum_r p(s',r\mid s,a)\tag{3.4}$$ it seems possible to solve for all the probabilities. I'll do an example for $(s,a,s') = (\mathtt{high}, \mathtt{search}, \mathtt{high})$ and leave the rest to you.
+Now using $$r(s,a,s') = \sum_r r \frac{p(s',r\mid s,a)}{p(s'\mid s,a)} \tag{3.6}$$ and $$p(s'\mid s,a) = \sum_r p(s',r\mid s,a)\tag{3.4}$$ it seems possible to solve for all the probabilities. I'll do an example for $(s,a,s') = (\mathtt{high}, \mathtt{search}, \mathtt{high})$ and leave the rest to you (I haven't actually done the rest, since this does seem rather tedious).
 
 Equation 3.6 gives $$r_\mathtt{search} = 0\cdot \frac{p(s', 0 \mid s,a)}{\alpha} + 1\cdot \frac{p(s', 1 \mid s,a)}{\alpha} -3\cdot \frac{p(s', -3 \mid s,a)}{\alpha}$$ Since $p(s', -3 \mid s,a) = 0$ (it's impossible for the robot to have to be rescued, since we started in the "high" state), we get $p(s', 1 \mid s,a) = \alpha r_\mathtt{search}$.
 
