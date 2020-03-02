@@ -1,6 +1,6 @@
 # What does Solomonoff induction say about brain duplication/consciousness?
 
-Back in 2012, in a [thread](https://www.greaterwrong.com/posts/PXoWk554FZ4Gpfvah/causal-reference/comment/5K9ewNasTGWmkfQdM) on LW, Carl Shulman wrote a couple of comments connecting Solomonoff induction to brain duplication, epiphenomenalism, David Chalmers's "psychophysical laws", and other ideas in consciousness.
+Back in 2012, in a [thread](https://www.greaterwrong.com/posts/PXoWk554FZ4Gpfvah/causal-reference/comment/5K9ewNasTGWmkfQdM) on LW, Carl Shulman wrote a couple of comments connecting Solomonoff induction to brain duplication, epiphenomenalism, functionalism, David Chalmers's "psychophysical laws", and other ideas in consciousness.
 
 The [first comment](https://www.greaterwrong.com/posts/PXoWk554FZ4Gpfvah/causal-reference/comment/pFbkDEFnTS8exmmKu) says:
 
