@@ -12,7 +12,7 @@ The [second comment](https://www.greaterwrong.com/posts/PXoWk554FZ4Gpfvah/causal
 
 > The code simulating a physical universe doesn't need to make any reference to which brain or camera in the simulation is being "read off" to provide the sensory input stream. The additional code takes the simulation, which is a complete picture of the world according to the laws of physics as they are seen by the creatures in the simulation, and outputs a sensory stream. This function is directly analogous to what dualist/epiphenomenalist philosopher of mind David Chalmers calls "psychophysical laws."
 
-Carl's comments pose the questions you can ask/highlight the connection, but they don't answer those questions. I would be interested in references to other places discussing this idea, or answers to some of these questions.
+Carl's comments pose the questions you can ask/highlight the connection, but they don't answer those questions. I would be interested in references to other places discussing this idea, or answers to these questions.
 
 Here are some of my own confused thoughts (I'm still trying to learn algorithmic information theory, so I would appreciate hearing any corrections):
 
