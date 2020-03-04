@@ -36,3 +36,31 @@ So the only problem left is the expression $\mathbb E_\pi[G_{t+1} \mid S_t=s,A_t
 Is this reasoning valid?
 
 My other confusion is that, supposing $\mathbb E_\pi[G_{t+1} \mid S_t=s,A_t=a,S_{t+1}=s'] = \mathbb E_\pi[G_{t+1} \mid S_{t+1}=s']$,  it seems like we could also say that $\mathbb E_\pi[R_t\mid S_{t-1}=s,A_{t-1}=a,S_t=s'] = \mathbb E_\pi[R_t \mid S_t=s']$. But if that's the case, I'm confused about why Sutton and Barto derive an expression for $r(s,a,s'):=\mathbb E_\pi[R_t\mid S_{t-1}=s,A_{t-1}=a,S_t=s']$ rather than one for $r(s')$ (which can be defined to equal $\mathbb E_\pi[R_t\mid S_t=s']$). In other words my question is something like "if the $s$ and $a$ in $r(s,a,s')$ don't matter, why include them in the notation?"
+
+=====
+
+> Is this reasoning valid?
+
+I think this is correct.
+
+> My other confusion is that, supposing $\mathbb E_\pi[G_{t+1} \mid S_t=s,A_t=a,S_{t+1}=s'] = \mathbb E_\pi[G_{t+1} \mid S_{t+1}=s']$,  it seems like we could also say that $\mathbb E_\pi[R_t\mid S_{t-1}=s,A_{t-1}=a,S_t=s'] = \mathbb E_\pi[R_t \mid S_t=s']$.
+
+I think my confusion was that I was forgetting that $G_{t+1}$ actually starts at $R_{t+2}$, i.e. $G_{t+1} = R_{t+2} + \gamma R_{t+3} + \cdots$.  So I think we could say $\mathbb E_\pi[R_{t+2} \mid S_t=s,A_t=a,S_{t+1}=s'] = \mathbb E_\pi[R_{t+2} \mid S_{t+1}=s']$, which, shifting the time index down by one, is the same as $\mathbb E_\pi[R_{t+1} \mid S_{t-1}=s,A_{t-1}=a,S_t=s'] = \mathbb E_\pi[R_{t+1} \mid S_t=s']$. But we _can't_ say $\mathbb E_\pi[R_t\mid S_{t-1}=s,A_{t-1}=a,S_t=s'] = \mathbb E_\pi[R_t \mid S_t=s']$ which is why Sutton and Barto want to derive the expression for $r(s,a,s')$.
+
+If I was doing the exercise today, I would do it like this:
+
+$q_\pi(s,a) := \mathbb E_\pi[G_t \mid S_t=s, A_t=a]$ becomes:
+
+* $\sum_g g \Pr(G_t = g\mid S_t=s, A_t=a)$ (definition of expectation)
+* $\sum_g g \sum_{s'} \Pr(G_t=g, S_{t+1}=s' \mid S_t=s, A_t=a)$ (law of total probability)
+* $\sum_{s'} \sum_g g  \Pr(G_t=g, S_{t+1}=s' \mid S_t=s, A_t=a)$ (reorder sums)
+* $\sum_{s'} \sum_g g  \Pr(S_{t+1}=s'\mid S_t=s, A_t=a) \Pr(G_t=g \mid S_t=s, A_t=a, S_{t+1}=s')$ (definition of conditional probability)
+* $\sum_{s'} \Pr(S_{t+1}=s'\mid S_t=s, A_t=a) \sum_g g  \Pr(G_t=g \mid S_t=s, A_t=a, S_{t+1}=s')$ (factor)
+* $\sum_{s'} \Pr(S_{t+1}=s'\mid S_t=s, A_t=a) \mathbb E_\pi[G_t \mid S_t=s, A_t=a, S_{t+1}=s']$ (definition of expectation)
+* $\sum_{s'} \Pr(S_{t+1}=s'\mid S_t=s, A_t=a) \mathbb E_\pi[R_{t+1} + \gamma G_{t+1} \mid S_t=s, A_t=a, S_{t+1}=s']$ (definition of return)
+* $\sum_{s'} \Pr(S_{t+1}=s'\mid S_t=s, A_t=a) (\mathbb E_\pi[R_{t+1}\mid S_t=s, A_t=a, S_{t+1}=s'] + \gamma\mathbb E_\pi[ G_{t+1} \mid S_t=s, A_t=a, S_{t+1}=s'])$
+    * (linearity of expectation)
+* $\sum_{s'} p(s'\mid s,a) (r(s,a,s') + \gamma\mathbb E_\pi[ G_{t+1} \mid S_t=s, A_t=a, S_{t+1}=s'])$ (equations 3.4 and 3.6 in the book)
+* $\sum_{s'} p(s'\mid s,a) (r(s,a,s') + \gamma v_\pi(s'))$ (using reasoning given in the question)
+
+This is probably the "simplest" form of $q_\pi$ which uses $v_\pi$, but the exercise actually says to use "the four-argument $p$", so we can expand $\sum_{s'} p(s'\mid s,a) (r(s,a,s') + \gamma v_\pi(s'))$ to $$\sum_{s'} \left(\sum_r p(s',r\mid s,a)\right) \left(\sum_r r \frac{p(s',r\mid s,a)}{\sum_{r'} p(s',r'\mid s,a)} + \gamma v_\pi(s')\right)$$ which can be simplified to $$\sum_{s',r} p(s',r\mid s,a) (r + \gamma v_\pi(s'))$$
