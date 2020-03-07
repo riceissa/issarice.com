@@ -168,6 +168,7 @@ to list and I'm sure you can find them without my help).
 - Kevin Simler
 - [Uriel](http://uriel.cat-v.org/)
 - Matt vs. Japan
+- [Andy Matuschak](https://notes.andymatuschak.org/) (he has other work, but I think his working notes are the most interesting)
 
 # Old tier
 
