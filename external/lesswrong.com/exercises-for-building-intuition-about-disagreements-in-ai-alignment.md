@@ -24,5 +24,5 @@ If you believe one just needs to be born with one set of intuitions rather than 
 
 Some ideas I am aware of:
 
-- Reading discussions between Eliezer and Paul: I've already done a lot of this; it just feels like now I am no longer making much progress.
+- Reading discussions between Eliezer/Paul/other people: I've already done a lot of this; it just feels like now I am no longer making much progress.
 - Learn more theoretical computer science to learn the Search For Solutions And Fundamental Obstructions intuition, as mentioned in [this post](http://johnsalvatier.org/blog/2017/the-i-already-get-it-slide).
