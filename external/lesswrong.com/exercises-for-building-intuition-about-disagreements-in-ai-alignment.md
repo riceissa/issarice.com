@@ -1,6 +1,6 @@
 # What are some exercises for building/generating intuitions about key disagreements in AI alignment?
 
-I am interested in having my own opinions about more of the [key disagreements](https://www.lesswrong.com/posts/mJ5oNYnkYrd4sD5uE/clarifying-some-key-hypotheses-in-ai-alignment) within the AI alignment field, such as whether there is a basin of attraction for corrigibility, whether there is [a theory of rationality that is sufficiently precise to build hierarchies of abstraction](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR), and to what extent there will be a [competence gap](https://agentfoundations.org/item?id=64).
+I am interested in having my own opinion about more of the [key disagreements](https://www.lesswrong.com/posts/mJ5oNYnkYrd4sD5uE/clarifying-some-key-hypotheses-in-ai-alignment) within the AI alignment field, such as whether there is a basin of attraction for corrigibility, whether there is [a theory of rationality that is sufficiently precise to build hierarchies of abstraction](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR), and to what extent there will be a [competence gap](https://agentfoundations.org/item?id=64).
 
 In ["Is That Your True Rejection?"](https://www.lesswrong.com/posts/TGux5Fhcd7GmTfNGC/is-that-your-true-rejection), Eliezer Yudkowsky wrote:
 
@@ -18,7 +18,7 @@ In ["Is That Your True Rejection?"](https://www.lesswrong.com/posts/TGux5Fhcd7Gm
 
 I am assuming that something like this is happening in the key disagreements in AI alignment. The last three bullet points are somewhat uncharitable to proponents of a particular view, and also seem less likely to me. Summarizing the first six bullet points, I want to say something like: some combination of "innate intuitions" and "life experiences" led e.g. Eliezer and Paul Christiano to arrive at different opinions. I want to go through a useful subset of the "life experiences" part, so that I can share some of the same intuitions.
 
-To that end, my question is something like: What fields should I learn? What textbooks/textbook chapters/papers/articles should I read? What historical examples (from history of AI/ML or from the world at large) should I be aware of? (The more specific the resource, the better.) What intuitions should I expect to build by going through this resource?
+To that end, my question is something like: What fields should I learn? What textbooks/textbook chapters/papers/articles should I read? What historical examples (from history of AI/ML or from the world at large) should I spend time thinking about? (The more specific the resource, the better.) What intuitions should I expect to build by going through this resource? In the question title I am using the word "exercise" pretty broadly.
 
 If you believe one just needs to be born with one set of intuitions rather than another, and that there are no resources I can consume to refine my intuitions, then my question is instead more like: How can I better introspect so as to find out which side I am on :)?
 
