@@ -40,3 +40,6 @@ improvements:
 
 Andy Matuschak writes about a related idea and calls it "spaced everything":
 https://notes.andymatuschak.org/Spaced_everything
+
+See also gwern's idea of spaced review of notes and other media:
+https://www.gwern.net/Statistical-notes#program-for-non-spaced-repetition-review-of-past-written-materials-for-serendipity-rediscovery-archive-revisiter
