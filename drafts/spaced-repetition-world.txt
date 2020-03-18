@@ -37,3 +37,6 @@ improvements:
 * Remembering the physical location of objects. (e.g. where are the
   car keys?). I think this sort of spacial information of things that
   change frequently are hard to describe and put into SRS.
+
+Andy Matuschak writes about a related idea and calls it "spaced everything":
+https://notes.andymatuschak.org/Spaced_everything
