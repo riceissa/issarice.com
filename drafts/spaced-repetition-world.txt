@@ -26,6 +26,27 @@ Some ideas:
   be possible to tell what really matters to people, for the long
   term.
 
+* I think software like to-do lists can make use of softer deadlines,
+  which act like a snooze button on an alarm clock. Right now when
+  setting up social meetings, a meeting can still fall through if one
+  side suddenly gets busy, and once that happens the meeting may never
+  happen again (because the scheduling is brittle).
+
+* Currently websites like Hacker News, reddit, and LessWrong act like
+  news feeds where the latest content is at the top, and after a few
+  days that content gets replaced on the front page by even newer
+  content. While there are some manual efforts at reminding people of
+  "timeless content" (like best-of lists, FAQs/subreddit wikis, the
+  LessWrong annual review, other forms of curation, people linking to
+  old posts in discussion, old-timers/regulars linking to identical
+  previous discussions), it seems like there aren't many automated
+  ways to remind people of existing discussion. The only thing I can
+  think of is the related questions that show up when you go to ask a
+  question on Stack Exchange and Quora, and Facebook's "On This Day"
+  feature. If websites took spaced repetition seriously, there could
+  be a way to non-intrusively remind people of posts they've read or
+  liked in the past.
+
 Things that might prima facie seem to improve but where I don't expect
 improvements:
 
@@ -37,6 +58,14 @@ improvements:
 * Remembering the physical location of objects. (e.g. where are the
   car keys?). I think this sort of spacial information of things that
   change frequently are hard to describe and put into SRS.
+
+A reverse point of comparison might be: how would the world look if we
+didn't have robust ways to schedule things to happen at a specific
+time? In other words, the world suddenly lost the ability to use
+calendar software, alarm clocks, timers, etc. Spaced repetition
+provides a much more "squishy" kind of scheduling (I sort of think of
+the analogy of spaced repetition to date-based scheduling as machine
+learning to regular programming).
 
 Andy Matuschak writes about a related idea and calls it "spaced everything":
 https://notes.andymatuschak.org/Spaced_everything
