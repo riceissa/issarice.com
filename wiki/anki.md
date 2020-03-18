@@ -14,3 +14,4 @@ Here are some Anki-related things I have written:
 * [Resetting ease factor for a deck in Anki](https://gist.github.com/riceissa/9616621772754a94e4254e1590a44afd)
 * [An implementation of the Anki scheduling algorithm](https://gist.github.com/riceissa/1ead1b9881ffbb48793565ce69d7dbdd)
 * [Comment thread on LessWrong](https://www.greaterwrong.com/posts/xDWGELFkyKdBpySAf/an1lam-s-short-form-feed/comment/6Qt29YZAtRiE9zWhe)
+* [Imagining a world where spaced repetition is commonplace](https://raw.githubusercontent.com/riceissa/issarice.com/master/drafts/spaced-repetition-world.txt)
