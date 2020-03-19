@@ -4,6 +4,8 @@ https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
 http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
 https://www.greaterwrong.com/users/carlshulman?format=rss
 https://www.greaterwrong.com/users/wei_dai?format=rss
+https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
+https://disqus.com/wei_dai/latest.rss
 https://www.greaterwrong.com/users/jonahsinick?format=rss
 https://www.greaterwrong.com/users/vipulnaik?format=rss
 https://www.greaterwrong.com/users/eliezer_yudkowsky?format=rss
@@ -28,7 +30,6 @@ https://exp.issarice.com/ea-forum-reader/users.php?id=robbensinger&format=rss
 https://ea.greaterwrong.com/users/Lila?format=rss
 https://ea.greaterwrong.com/users/adamshimi?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
-https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
 https://eaforum.issarice.com/users/beth-1?format=rss
 https://eaforum.issarice.com/users/william_macaskill?format=rss
 https://eaforum.issarice.com/users/paul_christiano?format=rss
