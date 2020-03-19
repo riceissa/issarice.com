@@ -9,6 +9,7 @@ https://disqus.com/wei_dai/latest.rss
 https://www.greaterwrong.com/users/jonahsinick?format=rss
 https://www.greaterwrong.com/users/vipulnaik?format=rss
 https://www.greaterwrong.com/users/eliezer_yudkowsky?format=rss
+https://disqus.com/eliezeryudkowsky/latest.rss
 https://www.greaterwrong.com/users/annasalamon?format=rss
 https://www.greaterwrong.com/users/sarahconstantin?format=rss
 https://www.greaterwrong.com/users/valentine?show=posts&format=rss
