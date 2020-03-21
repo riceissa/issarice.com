@@ -53,6 +53,7 @@ http://acritch.com/blog/feed/
 http://www.bayesianinvestor.com/blog/index.php/category/books/feed/
 https://www.centreforeffectivealtruism.org/blog.xml
 https://srconstantin.wordpress.com/feed/
+https://srconstantin.github.io/feed.xml
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
 http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Ben Hoffman"
 http://slatestarcodex.com/feed/
