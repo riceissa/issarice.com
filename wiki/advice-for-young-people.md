@@ -413,6 +413,8 @@ Cognito Mentoring info wiki.
 
 see <https://predictionbook.com/predictions/181602> for updates.
 
+<https://www.greaterwrong.com/posts/rhZge5qmZKwJ8BMDM/open-and-welcome-thread-march-2020/comment/9kYHBu5kLC8GBiXmA>
+
 # Loneliness
 
 [eliezer](https://www.greaterwrong.com/posts/YduZEfz8usGbJXN4x/transcription-of-eliezer-s-january-2010-video-q-and-a):
