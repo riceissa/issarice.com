@@ -64,7 +64,7 @@ Section 1.4 of *[Ethical Intuitionism](https://en.wikipedia.org/wiki/Ethical_Int
 >                          Nihilism
 > ```
 
-(By the way, Wei Dai also has a [classification of metaethical views](http://lesswrong.com/lw/khf/six_plausible_metaethical_alternatives/), which is a list rather than a tree.)
+(By the way, Wei Dai also has a [classification of metaethical views](http://lesswrong.com/lw/khf/six_plausible_metaethical_alternatives/), which is a list rather than a tree. Tommy Crow also has a somewhat different [taxonomy](https://www.lesswrong.com/posts/jJsdXwvpKHPcHoCEs/categorization-of-meta-ethical-theories-a-flowchart).)
 
 I think the hard thing about taxonomies is that they're a mess to deal with in terms of markup. Timelines are linear so they are easy to enter using a text editor (or just about any software tool).
 
