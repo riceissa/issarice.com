@@ -361,6 +361,10 @@ The Pillows:
   thanks to YouTube's recommendation feature that I even listened to this in
   the first place)
 
+# March 2020
+
+* "Valor Lakefront" (Pokemon Diamond and Pearl) -- I got hooked on this song for a few days, listening to the extended/looped version of it on YouTube. I slightly prefer the nighttime version.
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
