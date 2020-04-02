@@ -58,15 +58,6 @@ subdomains existed.
   over time
 - [contentcreation](https://contentcreation.issarice.com/): Content Creation Wiki
 
-# Summary of what I worked on: August--November 2019 {#summary}
-
-For completed tasks, see the [work]() page.
-
-The past few months I've been spending a lot of time just thinking about AI
-safety, life in general, what I should work on, etc.
-
-For previous monthly updates, see the [archive of my monthly updates]().
-
 # Activity feeds
 
 Here are some activity feeds that track what I've been working on:
@@ -81,6 +72,7 @@ Here are some activity feeds that track what I've been working on:
 - My [contributions to the Machine Learning Subwiki](https://machinelearning.subwiki.org/wiki/Special:Contributions/IssaRice) ([page creations](https://machinelearning.subwiki.org/w/index.php?limit=50&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&newOnly=1))
 - My [contributions to the Learning Subwiki](https://learning.subwiki.org/wiki/Special:Contributions/Issa_Rice) ([page creations](https://learning.subwiki.org/w/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&newOnly=1))
 - My [contributions to Devec, the Development Economics Subwiki](https://devec.subwiki.org/wiki/Special:Contributions/Issa_Rice) ([page creations](https://devec.subwiki.org/w/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&newOnly=1)).
+- My [contributions to the Issawiki](https://wiki.issarice.com/wiki/Special:Contributions/Issa) ([page creations](https://wiki.issarice.com/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Issa&namespace=&tagfilter=&newOnly=1))
 - My [public GitHub Gists](https://gist.github.com/riceissa)
 - [Summary of my contract work for Vipul
   Naik](https://github.com/vipulnaik/contractwork/blob/master/contributor-lists/issa-list.mediawiki)
@@ -99,5 +91,6 @@ Here are some activity feeds that track what I've been working on:
   Wiki](https://wiki.lesswrong.com/wiki/Special:Contributions/Riceissa)
 - [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)
   (I occasionally ask questions on Quora while I work)
+- The [Tao Analysis Solutions](https://taoanalysis.wordpress.com/latest-posts/) blog, where I write solutions to Tao's _Analysis I_
 
 [email]: mailto:riceissa@gmail.com
