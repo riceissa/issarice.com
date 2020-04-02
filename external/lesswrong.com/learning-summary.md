@@ -19,8 +19,8 @@ Since mid-2018, I've continuously used Anki, playing around with it to see how t
 I want to list some of the main inputs to my thinking, so people can judge me on how I process evidence. Of course, even if you think I processed the evidence correctly, you might still think I sought out evidence in a biased way (and so disagree with my conclusions). I'm not aware of a way to convince people that I sought out evidence in a good way.
 
 - Work by Michael Nielsen and Andy Matuschak, including [Quantum Country](https://quantum.country/) (all four essays plus reviews), ["Augmenting Long-term Memory"](http://augmentingcognition.com/ltm.html), ["Using spaced repetition systems to see through a piece of mathematics"](http://cognitivemedium.com/srs-mathematics), ["Reinventing explanation"](http://michaelnielsen.org/reinventing_explanation/index.html), [Andy's working notes](https://notes.andymatuschak.org/), ["How can we develop transformative tools for thought?"](https://numinous.productions/ttft/), ["Toward an exploratory medium for mathematics"](http://cognitivemedium.com/emm/emm.html), and ["Magic Paper"](http://cognitivemedium.com/magic_paper/index.html): I think Michael and Andy have done the most to influence my views on learning, particularly by promoting to my attention the idea that Anki usage has a lot of [scope for improvement](https://learning.subwiki.org/wiki/Scope_for_improvement).
-- gwern's [spaced repetition page](https://www.gwern.net/Spaced-repetition)
-- The [Anki subreddit](https://www.reddit.com/r/Anki/): pretty low quality on average, but in some threads people share tips on how to make cards, and some of those things are somewhat useful.
+- gwern's [spaced repetition page](https://www.gwern.net/Spaced-repetition): I read this a long time ago, so I don't actually remember what I thought.
+- The [Anki subreddit](https://www.reddit.com/r/Anki/): very low quality on average, but in some threads people share tips on how to make cards, and some of those things are somewhat useful.
 - Dunlosky 2013 paper
 - Richard Reitz, especially his [learning omega](https://docs.google.com/document/d/1Qu21SMy0DgQzYQBt1jCi416xeK6A-8eg84WA-kqamSM/edit) Google Doc.
 - Lots of questions on Math Stack Exchange and Reddit about how to study math
@@ -38,15 +38,17 @@ This means I have *not* used the following as inputs:
 
 - Educational psychology papers reporting on specific experiments: I've trusted other people to do this work for me, including Michael Nielsen, gwern, and the Dunlosky paper. For spaced repetition in particular, I've also found through my own experience that it basically works. I have not searched for, but also have not found, any disagreements with these results (on the order of "all of these papers are fraudulent and you shouldn't trust any of this"). I *have* briefly looked through a bunch of papers in order to figure out if they can teach me more about specific techniques to level up my Anki usage, but have mostly come away disappointed.
 
-## Basic view
+## Summary of my views
 
 Here are my basic conclusions, in the form of stylized facts:
 
 - There are a small core of learning techniques that have been found to basically work. These are: spaced repetition, interleaving, active recall, generation.
 - I'm pretty uncertain about higher level learning strategies
-- 
+-
 
 ## How important is any of this, really?
+
+Currently I think the biggest problems are scale and concept dependency tracking.
 
 ## Next steps
 
