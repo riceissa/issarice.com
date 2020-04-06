@@ -15,6 +15,7 @@ but find its address bar more useful.
 - Citewebgen (this is a rough draft addon I made for myself, to avoid
   the [bookmarklet blocking](https://github.com/riceissa/citewebgen#caveats) on some sites)
 - Decentraleyes
+- Don't track me Google (this removes link conversion on google search result pages, so that right-clicking on a search result will give the actual URL, rather than google's obfuscated URL)
 - Make Medium Readable Again
 - uBlock Origin
 - uMatrix
