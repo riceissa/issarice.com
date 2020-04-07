@@ -64,6 +64,7 @@ https://gist.github.com/bshlgrs.atom
 https://ai-alignment.com/feed
 https://distill.pub/rss.xml
 https://arcsecond.wordpress.com/feed/
+https://usamo.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
 https://feeds.feedburner.com/LukeMuehlhauser?format=xml
