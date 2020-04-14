@@ -28,7 +28,7 @@ I want to list some of the main inputs to my thinking, so people can judge me on
 - Cal Newport's _How to Become a Straight-A Student_
 - Barbara Oakley's _A Mind For Numbers_
 - Brown et al's _Make It Stick_
-- Hans Freudenthal's writings about math education: I tried to understand what he was saying/what his main point is, but I never figured it out.
+- Hans Freudenthal's writings about math education: I tried to understand what he was saying/what his main point is, but I never figured it out. https://www.quora.com/What-is-a-summary-of-Hans-Freudenthals-work-on-mathematical-education
 - ["Making Things Hard on Yourself, But in a Good Way: Creating Desirable Difficulties to Enhance Learning"](https://teaching.yale-nus.edu.sg/wp-content/uploads/sites/25/2016/02/Making-Things-Hard-on-Yourself-but-in-a-Good-Way-2011.pdf)
 - Piotr Wozniak, especially his [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) wiki.
 - The [Master How To Learn](https://www.masterhowtolearn.com/) website.
