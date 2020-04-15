@@ -66,6 +66,8 @@ also in most of the studies i'm seeing they're still comparing spacing vs no spa
 https://youtu.be/7_DA-hbuafU?t=197
 anna says here that academic research is good but slow so it comes up with a single technique over some long period of time (the comparison to CFAR is that CFAR tries to do things more quickly and by mixing techniques)
 
+TODO: copy quotes from the papers i looked at into a separate page.
+
 ## How important is any of this, really?
 
 Currently I think the biggest problems are scale and concept dependency tracking.
