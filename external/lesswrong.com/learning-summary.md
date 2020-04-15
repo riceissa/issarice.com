@@ -46,6 +46,26 @@ Here are my basic conclusions, in the form of stylized facts:
 - I'm pretty uncertain about higher level learning strategies
 -
 
+i think i'm less optimistic about optimizing learning these days than back when i started learning subwiki stuff
+back then it felt like there were all these low-hanging fruit that nobody was making use of (e.g. spaced repetition, feynman technique, interleaving)
+i think these things do give a boost to learning, but there's still something really hard about learning, and i think it might be a "fundamental" difficulty (either the act of learning is just really hard/takes time, or it can be made easy but only in not-easily-scalable ways like 1-on-1 tutoring)
+i think there are "learning boosts" on the order of spaced repetition that are still undiscovered, but discovering these will take time (e.g. lots of messing around to find what works). i am sort of naturally doing this just by experimenting with anki
+i think there is some sort of deep connection between learning things and debating things, and that the difficulty of reconciling views even among smart people (e.g. eliezer vs paul) says something about the fundamental difficulties of learning
+
+I get the feeling that i've already exhausted the low-hanging fruit of the "education literature"
+i think testing, interleaving, and spacing are the main effects
+my feeling is that like a typical spacing study just uses it for simple vocab memorization and similar, instead of, like, teaching a whole course on real analysis using spaced repetition and seeing what works
+
+I think there must be something preventing these psychology researchers from doing more interesting experiments
+like maybe it's hard to keep subjects around for several years
+or they can't be too selective about the subjects they use, so e.g. they can't filter to people who have some good level of math ability
+or they don't want to/can't make the subjects do elaborate preparatory work (e.g. making them learn Anki well)
+so then, instead of refining the learning technique (e.g. figuring out the "parameters" I talked about), they just "spread out" their studies by doing the same thing over and over again but using different materials (paintings, nonsense syllables, foreign vocabulary, math word problems, physics problems, etc. etc.)
+also in most of the studies i'm seeing they're still comparing spacing vs no spacing, rather than like spacing A vs spacing B vs spacing C
+
+https://youtu.be/7_DA-hbuafU?t=197
+anna says here that academic research is good but slow so it comes up with a single technique over some long period of time (the comparison to CFAR is that CFAR tries to do things more quickly and by mixing techniques)
+
 ## How important is any of this, really?
 
 Currently I think the biggest problems are scale and concept dependency tracking.
