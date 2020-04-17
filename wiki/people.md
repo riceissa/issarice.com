@@ -171,6 +171,7 @@ to list and I'm sure you can find them without my help).
 - [Andy Matuschak](https://notes.andymatuschak.org/) (he has other work, but I think his working notes are the most interesting)
 - Kevin Buzzard
 - Duncan Sabien
+- [Ray Woodcock](https://raywoodcockbio.wordpress.com/)
 
 # Old tier
 
