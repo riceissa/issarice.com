@@ -172,6 +172,7 @@ to list and I'm sure you can find them without my help).
 - Kevin Buzzard
 - Duncan Sabien
 - [Ray Woodcock](https://raywoodcockbio.wordpress.com/)
+- Jonathan Blow
 
 # Old tier
 
