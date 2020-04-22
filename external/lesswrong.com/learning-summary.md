@@ -44,7 +44,7 @@ Here are my basic conclusions, in the form of stylized facts:
 
 - There are a small core of learning techniques that have been found to basically work. These are: spaced repetition, interleaving, active recall, generation.
 - I'm pretty uncertain about higher level learning strategies
--
+- in addition, there are several "illusions" of understanding that I think are insightful and good to be familiar with: illusion of transparency, double illusion of transparency, illusion of understanding.
 
 i think i'm less optimistic about optimizing learning these days than back when i started learning subwiki stuff
 back then it felt like there were all these low-hanging fruit that nobody was making use of (e.g. spaced repetition, feynman technique, interleaving)
