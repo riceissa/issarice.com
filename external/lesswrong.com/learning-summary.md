@@ -14,6 +14,10 @@ Around mid-2018, I began ramping up my self-study of math as part of my entry in
 
 Since mid-2018, I've continuously used Anki, playing around with it to see how to get the most out of it. I've also read a bunch of things related to learning in general.
 
+specifically, with spaced repetition software, i've had the following experience: i used it for a while  a few years ago and thought it was pretty cool, but then i stopped using it. Then around a year ago when michael nielsen's SRS essay came out, i realized that i hadn't really understood SRS very well and that i hadn't been using it anywhere near as well as e.g. nielsen was using it. Since then, i feel like i've gotten much better at using it and have gotten a lot out of it (and also i've kept using it)
+
+In other words, there's the distinction between "the tool failing the user" and "the user failing the tool" and it can be pretty hard to tell which one it is
+
 ## Inputs to my thinking
 
 I want to list some of the main inputs to my thinking, so people can judge me on how I process evidence. Of course, even if you think I processed the evidence correctly, you might still think I sought out evidence in a biased way (and so disagree with my conclusions). I'm not aware of a way to convince people that I sought out evidence in a good way.
