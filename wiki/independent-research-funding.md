@@ -103,3 +103,4 @@ Other links to check out:
   The top few seem to earn on the order of $30,000 per month from about 10,000 patrons, so generally $2--$5 per patron-month.
   [Looking around](https://www.patreon.com/explore) on Patreon seems to confirm this.
 * [Eevee](https://eev.ee/dev/) is one particularly transparent creator doing a mix of writing, programming, game development, and drawing
+* Indie video game development
