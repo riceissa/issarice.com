@@ -9,6 +9,21 @@ date: 2016-11-13
 
 # Self-introduction
 
+<!--
+At some point i ought to rewrite this section. here are some ideas i guess.
+
+I've thought about various ways to introduce myself. some people call themselves artists, or creators, or they want to have the greatest impact on the world, or they want to be remembered, or ...
+I can definitely feel some aspect of each of those identities in myself.
+But when I really ask myself, "am I an artist?" or something, it doesn't quite fit.
+because I _like_ the aesthetic of gondola too, of just observing the world.
+sometimes i like pain, and thinking about how horrifying the world is.
+i don't want to be boring, but i also like canonical things, plain things, simple things. i like non-arbitrary non-artificial things.
+So a big part of "what it's like to be me" is in noticing all these contradictions, and trying to manage this mess. it's exhausting and exciting at the same time.
+
+What even is the point of a self-introduction? I sort of want to transmit this "what it's like"-ness of being me. but also the more straightforward purpose is for other people to judge me, to make an impression on other people, to tell other people "what it's like to be around me".
+-->
+
+
 By day I am a freelance researcher. Since 2016 I have been regularly
 working with [Vipul Naik](https://vipulnaik.com/), doing a mix of writing, programming, data collection, and other miscellaneous work. For the work I have
 done for Vipul, see his [contract work portal page about me](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice).
