@@ -41,6 +41,13 @@ terminally care about these people who are helped:[^real_altruism]
 
 I think one reason to pay attention to the variety of possible reasons for altruistic/cooperative behavior is that when you learn something new about the world, you can decide whether that changes how you should act, and the way you change how you act can depend on the kind of altruism you have. For example, if you find out a way in which being selfish is coherent (when you previously thought it was incoherent), that can give you a reason to act more selfishly if the incoherence was one of the main reasons you were being altruistic, whereas if you just cared about the well-being of others you wouldn't really change how you act.
 
+More quotes (to be added to the right place later):
+
+Abram Demski <https://www.greaterwrong.com/posts/h9qQQA3g8dwq6RRTo/counterfactual-mugging-why-should-you-pay/answer/iFcnSYrvsp7Xn2WrN>:
+
+- "One way of appealing to human moral intuition (which I think is not vacuous) is to say, what if you know that someone is willing to risk great harm to save your life _because they trust you the same_, and you find yourself in a situation where you can sacrifice your own hand to prevent a fatal injury from happening to them? _It’s a good deal_; it could have been your life on the line."
+- "Reciprocal altruism and true altruism are kind of hard to distinguish in human psychology, but I said “it’s a good deal” to point at the reciprocal-altruism intuition. The point being that acts of reciprocal altruism can be a good deal w/o having considered them ahead of time. It’s perfectly possible to reason “it’s a good deal to lose my hand in this situation, because I’m trading it for getting my life saved in a different situation; one which hasn’t come about, but could have.”"
+
 [^bottleneck]: [“Wei\_Dai comments on Max Tegmark on our place in history: ‘We’re Not Insignificant After All’ ”](http://lesswrong.com/lw/1li/max_tegmark_on_our_place_in_history_were_not/1eer). LessWrong. Retrieved March 7, 2018.
 
     > What strikes me about our current situation is not only are we at an extremely influential point in the history of the universe, but how few people realize this. It ought to give the few people in the know enormous power (relative to just about anyone else who has existed or will exist) to affect the future, but, even among those who do realize that we're at a bottleneck, few try to shape the future in any substantial way, to nudge it one way or another. Instead, they just go about their "normal" lives, and continue to spend their money on the standard status symbols and consumer goods.
