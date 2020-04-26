@@ -504,9 +504,9 @@ benefits may outweigh the costs):
     sometimes the characters are not shown; rather, partial bytes like
     `<e6><9c>` are shown (but the substitution itself seems to work fine).
 
--   2020-04-25: Neovim sets `background=dark` for some reason, even though I don't set this in my vimrc.
+-   2020-04-25 (NVIM v0.3.8): Neovim sets `background=dark` for some reason, even though I don't set this in my vimrc.
 
--   2020-04-25: the following steps produce _two_ status lines for the window on top. This looks like a bug?
+-   2020-04-25 (NVIM v0.3.8): the following steps produce _two_ status lines for the window on top. This looks like a bug?
 
     ````
     :h color
