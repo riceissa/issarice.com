@@ -504,6 +504,20 @@ benefits may outweigh the costs):
     sometimes the characters are not shown; rather, partial bytes like
     `<e6><9c>` are shown (but the substitution itself seems to work fine).
 
+-   2020-04-25: Neovim sets `background=dark` for some reason, even though I don't set this in my vimrc.
+
+-   2020-04-25: the following steps produce _two_ status lines for the window on top. This looks like a bug?
+
+    ````
+    :h color
+    <C-W><C-W> (switch to the bottom window)
+    :echo &back<TAB> (then hit enter to select "background")
+    <space> (to get rid of the "Press ENTER or type command to continue" prompt)
+    <C-W><C-W> (to switch back to the top window)
+    ````
+
+    At this point, there are two status lines for the top window. Also, the first line of the top window repeats twice. Pressing CTRL-L gets rid of this.
+
 # Some intuitions
 
 I began using Vim at the latest in the summer of 2011.
