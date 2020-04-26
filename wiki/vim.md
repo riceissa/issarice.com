@@ -509,6 +509,7 @@ benefits may outweigh the costs):
 -   2020-04-25 (NVIM v0.3.8): the following steps produce _two_ status lines for the window on top. This looks like a bug?
 
     ````
+    (open new instance of nvim)
     :h color
     <C-W><C-W> (switch to the bottom window)
     :echo &back<TAB> (then hit enter to select "background")
