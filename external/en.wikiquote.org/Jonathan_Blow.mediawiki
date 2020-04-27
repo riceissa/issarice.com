@@ -29,14 +29,6 @@
 * Video games are in a weird spot now. I feel like we’ve been living through this time of anti-intellectualism across the culture—for the past few decades at least, but in video games especially. I mean crazy anti-intellectual. Part of that is because so much of the intellectualism we’ve had in video games is actually really pretentious and dumb. I feel like we’ve seen a lot of people just trying to be the person who says smart things about games, instead of doing the work to understand gaming well and discover things and then explore what those discoveries entail. And I think people have rightly reacted negatively to that sort of behavior. It doesn’t mean there aren’t people doing that work and genuinely figuring out what games can be and pushing them forward. I just hope that eventually we can get to a stage where that work’s more broadly celebrated as part of the medium, say in the way that film does.
 ** In an [https://time.com/4355763/the-witness-jonathan-blow-interview/ interview] with ''[[wikipedia:Time (magazine)|Time]]'', 2016
 
-==Quotes about Blow==
-
-* I’m probably asking for trouble by doing this, because Blow’s known for skewering theorists who’ve gone looking to excavate ideas from his other game, ''Braid''. (A game he’s said he had specific ideas about while crafting, but that no one’s yet pieced together fully.)
-** https://time.com/4195842/the-witness-meaning/
-
-* There is no help within The Witness for those struggling to meet its challenges; as he did with Braid, Blow declined to include a hint system in the new game. If he has sacrificed approachability, he has remained true to his personality: logical, stubborn, unsuffering of fools. <br> Written profiles of Blow tend to have a certain reverence of tone. In part, that’s down to the scarcity of people like him—game designers whose artistic ingenuity is matched by a thoughtfulness in words. But it’s also because he is something of an iconoclast. Blow has been an outspoken critic of other game designers, once referring to the mindless yet irresistible quests of World of Warcraft as “unethical.” Following Braid’s release, he publically chastised those reviewers who had incorrectly guessed at the game’s deeper meaning, saying that they had “obviously overlooked many prominent things.”
-** https://www.newyorker.com/tech/elements/the-prickly-genius-of-jonathan-blow
-
 * I'm not really in the indie scene, that's the thing. I'm off by myself. I don't hang out with game developers, either indie or AAA, except for -- there's a small number of people who I consider my pure circle and most of them don't live near me so I have to go fly to visit them. And if I add up the number of people total, it's certainly under ten people that I know of that I can talk to seriously about game design, it's probably about six people in the world. So those are the people I talk to about game design, and the rest of the industry is just doing its thing. And that includes the indie thing. I don't know.
 ** In an [https://youtu.be/tRHnHlV96Jg?t=2272 interview] with Brian Moriarty, in response to the question "What's your take on the current indie scene? Healthy? Sick?", April 2016
 
@@ -56,6 +48,14 @@
 ** https://www.youtube.com/watch?v=HTumujaqEe8 ends around 23:15
 
 ** jonathan blow has a lecture he gave at rice university that goes into ethics of game design, exploiting human psychology
+
+==Quotes about Blow==
+
+* I’m probably asking for trouble by doing this, because Blow’s known for skewering theorists who’ve gone looking to excavate ideas from his other game, ''Braid''. (A game he’s said he had specific ideas about while crafting, but that no one’s yet pieced together fully.)
+** https://time.com/4195842/the-witness-meaning/
+
+* There is no help within The Witness for those struggling to meet its challenges; as he did with Braid, Blow declined to include a hint system in the new game. If he has sacrificed approachability, he has remained true to his personality: logical, stubborn, unsuffering of fools. <br> Written profiles of Blow tend to have a certain reverence of tone. In part, that’s down to the scarcity of people like him—game designers whose artistic ingenuity is matched by a thoughtfulness in words. But it’s also because he is something of an iconoclast. Blow has been an outspoken critic of other game designers, once referring to the mindless yet irresistible quests of World of Warcraft as “unethical.” Following Braid’s release, he publically chastised those reviewers who had incorrectly guessed at the game’s deeper meaning, saying that they had “obviously overlooked many prominent things.”
+** https://www.newyorker.com/tech/elements/the-prickly-genius-of-jonathan-blow
 
 ==See also==
 
