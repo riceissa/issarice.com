@@ -14,4 +14,4 @@ So in the above view, the answer to (2) is that the limitation is the number of 
 
 But the above view seems to conflict with what's in the [IDA post](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616) and the [IDA paper](https://arxiv.org/abs/1810.08575). In both of those, the amplified system is described as a human doing the decompositions. Also, the main benefit of amplification is described not as the ability to provide more demonstrations, but rather to provide demonstrations for more difficult tasks. Under this alternative view, the answers to questions (1), (2), (3) aren't clear to me.
 
-
+*Thanks to Vipul Naik for reading through this question and giving feedback.*
