@@ -4,9 +4,9 @@ When I first started learning about IDA, I thought that agents trained using IDA
 
 But IDA is aiming to eventually be super-human in almost every way (because it's aiming to be competitive with unaligned AGI), so that raises some new questions:
 
-1. If IDA isn't going to be super-human after the first stage, then at what stage does IDA become super-human in almost every way?
-2. What exactly is the limitation that prevents the first stage of IDA from being super-human in almost every way?
-3. When IDA eventually _does_ become super-human in almost every way, how is the limitation from (2) avoided?
+1. If IDA isn't going to be human-level after the first stage, then at what stage does IDA become at-least-human-level in almost every way?
+2. What exactly is the limitation that prevents the first stage of IDA from being human-level in almost every way?
+3. When IDA eventually _does_ become human-level in almost every way, how is the limitation from (2) avoided?
 
 That brings me to [Evans et al.](https://owainevans.github.io/pdfs/evans_ida_projects.pdf), which contains a description of IDA in section 0. The way IDA is set up in this paper leads me to believe that the answer to (2) above is that the human overseer cannot provide a sufficient number of demonstrations for the most difficult tasks. For example, maybe the human can provide enough demonstrations for the agent to learn to answer very simple questions (tasks in $T_0$ in the paper) but it's too time-consuming for the human to answer enough complicated questions (say, in $T_{100}$). My understanding is that IDA gets around this by having an amplified system that is itself automated (i.e. does not involve humans in a major way, so cannot be bottlenecked on the slowness of humans); this allows the amplified system to provide a sufficient number of demonstrations for the distillation step to work.
 
