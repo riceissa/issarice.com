@@ -38,7 +38,7 @@ exist.
   mind on something, look for what Eliezer has said about it.
   However be aware that like many people who become semi-famous, his
   followers/most vocal fans are substantially worse than he is, and many of
-  the people who recommend the _Sequences_ don't "get it".
+  the people who recommend the _Sequences_ don't "get it" (I also want to mention that the earlier sequences are pretty basic and not that interesting, and it's the later sequences that are really interesting).
 - **[Wei Dai]()**
 - **Carl Shulman**:
   Carl often writes in a cryptic manner, so you might
