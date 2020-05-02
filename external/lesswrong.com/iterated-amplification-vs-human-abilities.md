@@ -1,6 +1,6 @@
 # How does iterated amplification exceed human abilities?
 
-Initially I thought that agents trained using IDA would be human-level after the first stage, i.e. that Distill(H) would be human-level. As I've [written about before](https://www.lesswrong.com/posts/FdfzFcRvqLf4k5eoQ/list-of-resolved-confusions-about-ida?commentId=bdcWwPhaZxiy7rxLb), Paul later clarified this, so my new understanding is that after the first stage, the distilled agent will be super-human in some respects and infra-human in others, but wouldn't be "basically human" in any sense.
+When I first started learning about IDA, I thought that agents trained using IDA would be human-level after the first stage, i.e. that Distill(H) would be human-level. As I've [written about before](https://www.lesswrong.com/posts/FdfzFcRvqLf4k5eoQ/list-of-resolved-confusions-about-ida?commentId=bdcWwPhaZxiy7rxLb), Paul later clarified this, so my new understanding is that after the first stage, the distilled agent will be super-human in some respects and infra-human in others, but wouldn't be "basically human" in any sense.
 
 But IDA is aiming to eventually be super-human in almost every way, so that raises two new questions:
 
