@@ -1,7 +1,5 @@
 # How does iterated amplification exceed human abilities?
 
-I have a confusion about when exactly an AI trained using IDA achieves super-human performance in almost every task. I'm not sure how to phrase my confusion as a single question; it's more like "Given what I know, I can think of interpretations A, B, C. If A, then X doesn't make sense; if B, then Y doesn't make sense; and if C, then Z doesn't make sense. So overall none of these make sense; what's going on?"
-
 Initially I thought that agents trained using IDA would be human-level after the first stage, i.e. that Distill(H) would be human-level. As I've [written about before](https://www.lesswrong.com/posts/FdfzFcRvqLf4k5eoQ/list-of-resolved-confusions-about-ida?commentId=bdcWwPhaZxiy7rxLb), Paul later clarified this, so my new understanding is that after the first stage, the distilled agent will be super-human in some respects and infra-human in others, but wouldn't be "basically human" in any sense.
 
 But IDA is aiming to eventually be super-human in almost every way, so that raises two new questions:
