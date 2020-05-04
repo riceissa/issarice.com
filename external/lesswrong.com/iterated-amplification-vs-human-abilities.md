@@ -15,3 +15,14 @@ So in the above view, the answer to (2) is that the limitation is the number of 
 But the above view seems to conflict with what's in the [IDA post](https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616) and the [IDA paper](https://arxiv.org/abs/1810.08575). In both of those, the amplified system is described as a human doing the decompositions (so it will be slow, or else one would need to argue that the slowness of humans decomposing tasks doesn't meaningfully restrict the number of demonstrations). Also, the main benefit of amplification is described not as the ability to provide more demonstrations, but rather to provide demonstrations for more difficult tasks. Under this alternative view, the answers to questions (1), (2), (3) aren't clear to me.
 
 *Thanks to Vipul Naik for reading through this question and giving feedback.*
+
+
+-----
+
+comment reply to rohin:
+
+> The addition of the distillation step is an extra confounder, but we hope that it doesn't distort anything too much -- its purpose is to improve speed without affecting anything else (though in practice it will reduce capabilities somewhat).
+
+I think this is the crux of my confusion, so I would appreciate if you could elaborate on this. (Everything else in your answer makes sense to me.) In [Evans et al.](https://owainevans.github.io/pdfs/evans_ida_projects.pdf#page=3), during the distillation step, the the model $M$ learns to solve the difficult tasks directly, using example solutions from the amplification step. But if $M$ can do that, then why can't it also learn directly from examples provided by the human?
+
+To use your analogy, I have no doubt that a team of $2^{13}$ Rohins or a single Rohin thinking for $2^{13}$ days can answer any question that I can (given a single day). But with distillation you're saying there's a robot that can learn to answer any question I can by first observing the team of $2^{13}$ Rohins for long enough. If the robot can do that, why can't the robot also learn to do the same thing by observing _me_ for long enough?
