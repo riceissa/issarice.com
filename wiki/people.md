@@ -172,7 +172,7 @@ to list and I'm sure you can find them without my help).
 - Kevin Buzzard
 - Duncan Sabien
 - [Ray Woodcock](https://raywoodcockbio.wordpress.com/)
-- Jonathan Blow
+- Jonathan Blow. See the [Wikiquote page](https://en.wikiquote.org/wiki/Jonathan_Blow) I wrote for him.
 - Tim Pope
 
 # Old tier
