@@ -173,6 +173,7 @@ to list and I'm sure you can find them without my help).
 - Duncan Sabien
 - [Ray Woodcock](https://raywoodcockbio.wordpress.com/)
 - Jonathan Blow
+- Tim Pope
 
 # Old tier
 
