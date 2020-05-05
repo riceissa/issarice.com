@@ -603,9 +603,13 @@ generic, high-level strategy:
 - learning everything / having the right opinions about everything by just
   sticking to the object level is impossible -- there's just not enough time.
   At some point, you will need to rely on other people to identify interesting
-  topics, or promote to your attention the correct views, etc.
+  topics, or promote to your attention the correct views, etc. In a
+  post-singularity utopia you will have enough time to derive
+  everything from first principles, but we are not there yet.
 - as with ideas, it's sometimes useful to become super excited about someone,
-  and obsessively read everything they've written.
+  and obsessively read everything they've written. *It's ok to let
+  yourself get super excited about someone to the point of obsession*.
+  Just realize that you will probably change your opinions later.
 - when you see that an interesting person says something you disagree with,
   this is an opportunity for you to decide if you know better than they do, or
   if they know better (you can turn the latter situation into the former by
@@ -621,13 +625,16 @@ generic, high-level strategy:
   that to your past self seemed insightful, you can downgrade them (but
   remember that insights become distilled and enter the "water supply" over
   time, so if they were one of the first people to start saying the now-cliche,
-  you might actually want to _upgrade_ your opinion of them).
+  you might actually want to _upgrade_ your opinion of them. *Someone* had to
+  invent an idea for the first time, and that person is probably quite a bit
+  smarter than the people who are parroting that idea).
 - in general, you won't be able to rank people who are significantly above you
   -- they will all just seem super smart. see [hiring and judging character]()
   for more on this. but as you get smarter yourself, you can _come back_ to
   people who seemed super smart and see if now you can tell which ones are
-  _really_ smart vs merely seemed-smart-to-my-younger-self.
-- gell-mann amnesia
+  _really_ smart vs merely seemed-smart-to-my-younger-self. spaced repetition
+  is a thing, you don't need to judge someone all at once.
+- read about gell-mann amnesia
 - you can use recommendations to generate ideas for smart people, but
   you will generally need to put in the work to verify that the
   recommended people are good. e.g. if smart person A says that B and
@@ -636,6 +643,7 @@ generic, high-level strategy:
   false positives about who else is smart. smartness is sadly not
   transitive.) you have to go through B and C's stuff yourself to
   judge for yourself.
+- maybe more at <https://wiki.issarice.com/wiki/People_watching> eventually.
 
 (see my [People page](people) for my specific recommendations, so you can
 judge whether you think i know what i'm talking about)
@@ -687,7 +695,7 @@ See also "[Chinese loses math face-off to U.S.](http://www.cnn.com/2015/08/05/ch
 > dreams!"
 
 
-# Doing something important
+# Doing hard things, doing something important
 
 Richard Hamming's famous talk, "[You and Your Research]" is *very*
 inspirational.  There is a [video of the talk](https://www.youtube.com/watch?v=a1zDuOPkMSw), though I think
