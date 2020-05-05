@@ -407,13 +407,19 @@ Cognito Mentoring info wiki.
 
 [dealing iso]: http://info.cognitomentoring.org/wiki/Dealing_with_intellectual_isolation
 
+# Anxiety
+
+i'm still figuring this one out.
+
 # Love
 
-2020 update: I've given up on this for the next year.
+2020 update: I've *definitely* given up on this for the next year.
 
 see <https://predictionbook.com/predictions/181602> for updates.
 
 <https://www.greaterwrong.com/posts/rhZge5qmZKwJ8BMDM/open-and-welcome-thread-march-2020/comment/9kYHBu5kLC8GBiXmA>
+
+JONATHAN BLOW
 
 # Loneliness
 
@@ -446,6 +452,8 @@ see also:
 "I have moved from epistemic loneliness to abject epistemic despair. why are so many things I see clearly so incommunicable" "because if they were communicable, others would have done so and it'd be part of the memeplex already. or they're illusory. yes I know." <https://twitter.com/Grognor/status/748374798573707266>
 
 "stop wantonly excluding me from your secret clubs" <https://twitter.com/Grognor/status/858766382955200519>
+
+also check out jonathan blow. search "small number" on <https://en.wikiquote.org/wiki/Jonathan_Blow>
 
 # Death
 
