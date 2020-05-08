@@ -29,7 +29,7 @@ interface so I switched to uMatrix.
 
 # Keyword search
 
-I have several custom keyword searches on Firefox. Following DuckDuckGo's idea
+I have several [custom keyword searches](https://www-archive.mozilla.org/docs/end-user/keywords.html "'How Cool are Custom Keywords?' by Asa Dotzler") on Firefox. Following DuckDuckGo's idea
 of "bang expressions", I prefix each keyword with `!` (even though I don't use DuckDuckGo).
 
 - `!g`: google search, `https://www.google.com/search?q=%s`
