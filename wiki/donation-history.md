@@ -120,3 +120,11 @@ Low value of small marginal donations to targets I am most interested in funding
      more control over what gets funded.
 
 [cw]: https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice "“Contract work by Issa Rice for Vipul Naik”."
+
+<!--
+
+# 2020
+
+- andy matuschak patreon
+
+-->
