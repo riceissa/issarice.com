@@ -53,3 +53,11 @@ Abram Demski <https://www.greaterwrong.com/posts/h9qQQA3g8dwq6RRTo/counterfactua
     > What strikes me about our current situation is not only are we at an extremely influential point in the history of the universe, but how few people realize this. It ought to give the few people in the know enormous power (relative to just about anyone else who has existed or will exist) to affect the future, but, even among those who do realize that we're at a bottleneck, few try to shape the future in any substantial way, to nudge it one way or another. Instead, they just go about their "normal" lives, and continue to spend their money on the standard status symbols and consumer goods.
 
 [^real_altruism]: It's not entirely clear to me whether there is a fundamental difference between "caring about someone intrinsically/as a terminal value" vs "caring about someone instrumentally/for cooperation" (I think there are operationalizations one can choose that would make them different, e.g. you could observe whether someone continues to behave altruistically if it became obvious that the other side couldn't pay back). Looking at the causal history, it seems like the former arose because the latter happened to work well, and it seems like "baking in" the values as terminal values was a particularly effective implementation of getting the cooperation to work (or something like that).
+
+
+When most people say "I am selfish", they mean something like "the
+things that happen to this physical instantiation of this algorithm,
+over the next 50 years or so". That worked well in the ancestral
+environment, but under no principled understanding of the world and
+how identity works does that make sense. So I think selfish people
+have a lot of work to do, if they don't want to suck at being selfish.
