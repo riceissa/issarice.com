@@ -23,3 +23,6 @@ Some thoughts/intuitions that contribute to this feeling:
 - In practice, Open Philanthropy Project (which is apparently doing cause prioritization) has fixed a list of cause areas, and is prioritizing among much more specific opportunities within those cause areas.
 
 I am curious to hear people's thoughts on this. I would also appreciate pointers to existing discussions (I feel like I've been paying attention, but it seems plausible to me that I've missed some).
+
+
+you might think AI safety is super valuable, but if you have more refined opinions about ai safety, then you might think some agendas are useless and some are really useful/worth trying. a naive analysis cannot distinguish effectiveness within a cause area, so puts a uniform score over the whole cause area, whereas a more sophisticated analysis puts precise scores over each action within a cause area.
