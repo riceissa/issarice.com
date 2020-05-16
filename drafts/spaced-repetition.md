@@ -237,21 +237,7 @@ this fact forever. but thankfully, i am forced to return to it."
 
 # flagging things to fix during review
 
-one thing i do while doing my daily reviews: if i come across some
-incongruity or question while reviewing a card, i write down the
-question on the paper in front of me (i always have a scratch paper in
-front of me for e.g. writing kanji or expressions for math) and then i
-circle it (to distinguish it from scratch work).
-
-then, after finishing my daily reviews, i go back to each question and
-i make new cards about them.
-
-e.g. today i was reviewing the definition of C\_f(x) in algorithmic
-complexity (Li and Vitanyi), and i only had a couple of cards about
-this, and since it had been a while, i realized i didn't even know
-what x was! This sort of thing is hard to anticipate. So i wrote (on paper) a
-question asking what x was, and looked it up in the book, and added
-the same question as a new anki note.
+This has moved to https://wiki.issarice.com/wiki/Flag_things_to_fix_during_review
 
 # difficulty of using anki at the conscious vs subconscious levels
 
