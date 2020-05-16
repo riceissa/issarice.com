@@ -332,19 +332,6 @@ subsets of N have 0 as the minimal element, even though min(N) = 0).
 actually, it was only when i wrote the _intended_ definition _myself_ and compared
 it to Tao's that i realized mine was right!
 
-people praise fast feedback loops, but one thing to realize with
-spaced repetition software like anki is that the feedback is spaced in
-a way. you can't tell if you're memorizing things well until it's like
-5 months after you've added the card. or take my series test cards; i
-didn't realize the subtleties of requiring the sequence to be
-nonincreasing or nonnegative for different tests until a couple weeks
-after i'd added the cards -- before now, everything would sort of have
-been in my "fresh" mind. it's only after i've forgotten the context
-sufficiently that i can appreciate these subtle hypotheses in the
-theorem statements -- and only because i've added these as cards!
-makes you wonder, what subtleties am i missing by not adding something
-to anki and seeing _in what manner_ i forget the details.
-
 i've caught mistakes in my cards only some
 time _after_ i first added them (see example above). it's like it takes some longer amount
 of time (like a couple weeks) for the context to be sufficiently lost
@@ -356,6 +343,8 @@ big for example, you will notice on that same day, or a couple days
 later.
 
 I'm not sure if there is a way to speed up the feedback you get.
+
+part of this has moved to https://wiki.issarice.com/wiki/Spaced_repetition_experiments_take_months_to_complete
 
 # big vs small cards
 
