@@ -338,12 +338,6 @@ of time (like a couple weeks) for the context to be sufficiently lost
 that you actually need to process the whole thing as a new thing again, and when that
 happens it's like you "bust the cache".
 
-on the other hand, some feedback _is_ immediate. if your card is too
-big for example, you will notice on that same day, or a couple days
-later.
-
-I'm not sure if there is a way to speed up the feedback you get.
-
 part of this has moved to https://wiki.issarice.com/wiki/Spaced_repetition_experiments_take_months_to_complete
 
 # big vs small cards
