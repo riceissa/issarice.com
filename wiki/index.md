@@ -92,6 +92,6 @@ Here are some activity feeds that track what I've been working on:
   Wiki](https://wiki.lesswrong.com/wiki/Special:Contributions/Riceissa)
 - [Recent Quora questions](https://www.quora.com/profile/Issa-Rice/questions)
   (I occasionally ask questions on Quora while I work)
-- The [Tao Analysis Solutions](https://taoanalysis.wordpress.com/latest-posts/) blog, where I write solutions to Tao's _Analysis I_
+- The [Tao Analysis Solutions](https://taoanalysis.wordpress.com/latest-posts/) blog, where I write solutions to Terence Tao's _Analysis I_
 
 [email]: mailto:riceissa@gmail.com
