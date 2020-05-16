@@ -278,6 +278,9 @@ the back, being blocked by all the clozes i have. i can keep doing
 this periodically so that it will usually be the case that i only have
 a huge backlog of cloze deletions (and of nothing else).
 
+update: i've since moved away from cloze deletion in general, so this isn't
+really a problem now.
+
 # effects on non-SRS memories of using SRS?
 
 does spaced repetition "force out" more memories that are not tracked
