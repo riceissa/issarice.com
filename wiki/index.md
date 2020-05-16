@@ -43,6 +43,7 @@ via my personal domain name, `issarice.com`.  I list them here in case you
 wanted to navigate to one of them instead or you were curious about what
 subdomains existed.
 
+- [wiki](https://wiki.issarice.com/): the Issawiki, an experimental wiki where I take notes, write wiki articles, and write about other random stuff
 - [lw2](https://lw2.issarice.com/): a LessWrong 2.0 reader I built
 - [eaforum](https://eaforum.issarice.com/): an Effective Altruism Forum reader I built
 - [timelines](https://timelines.issarice.com/): Timelines Wiki, a wiki hosting timelines
