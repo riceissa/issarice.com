@@ -2,17 +2,25 @@
 
 For the past two or so years, one of my side interests has been to figure out how effective learning works (especially with regard to highly technical and confusing subjects such as math and AI safety), both as an autodidact myself and as someone who wants to produce clear written explanations. This post is a summary of my current take on this area.
 
-The key takeaways are:
-
-- a
-
 ## Summary of my views
 
-Here are my basic conclusions, in the form of stylized facts:
+Here are my basic conclusions:
+
+### Small number of core techniques
 
 - There are a small core of learning techniques that have been found to basically work. These are: spaced repetition, interleaving, active recall, generation.
+
+### High level learning strategies are trickier
+
 - I'm pretty uncertain about higher level learning strategies
+
+e.g. moore method, project-based learning vs drilling vs other things.
+
+### Illusions of understanding are insightful
+
 - in addition, there are several "illusions" of understanding that I think are insightful and good to be familiar with: illusion of transparency, double illusion of transparency, illusion of understanding.
+
+### Educational psychology literature does not provide any guidance beyond telling me things like spaced repetition exists
 
 i think i'm less optimistic about optimizing learning these days than back when i started learning subwiki stuff
 back then it felt like there were all these low-hanging fruit that nobody was making use of (e.g. spaced repetition, feynman technique, interleaving)
@@ -85,6 +93,7 @@ I think the way to make progress isn't to read more of the literature. The liter
 
 Given this, my plans are something like:
 
-- Keep an eye on Michael Nielsen and Andy Matuschak
+- Keep an eye on Michael Nielsen and Andy Matuschak (actually, apparently just Andy now)
 - Occasionally check r/Anki and some learning blogs, to see if someone has come up with something new
 - Continue playing with Anki
+- for math in particular, I'm currently organizing my thoughts at https://wiki.issarice.com/wiki/Spaced_proof_review
