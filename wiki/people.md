@@ -144,36 +144,36 @@ to list and I'm sure you can find them without my help).
 - Paul Graham (mostly his earlier essays): his essays were important to me as a teenager, but lately I feel like I've moved on to better things
 - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
 - [Jeff Hays](http://factsanddetails.com/)
-- Zack M. Davis
-- Piotr Wozniak
+- Zack M. Davis: via rationality community.
+- Piotr Wozniak: via spaced repetition/[Anki]() stuff (which in turn is from LW/gwern).
 - David D. Friedman: I haven't read too much by him, so I'm not sure how I
   would rank his general worldviews or reasoning ability, but I have seen
   enough interesting things by him that I think looking into him is a good
   idea (and hope to undertake this task myself soon!).
-- Alex K. Chen
+- Alex K. Chen: via Vipul Naik.
 - Chris Olah
 - [Mark Lippmann](https://meditationstuff.wordpress.com/). I do not meditate. This is the only meditation blog I enjoy reading.
 - [Robert Heaton](https://robertheaton.com/)
-- Terry A. Davis
-- Caspar Oesterheld
-- Matthew Gentzel
-- Michael Vassar
+- Terry A. Davis: via 4chan's board /g/. His image kept being spammed back in 2016--2017, and finally I decided to click on one of the TempleOS threads.
+- Caspar Oesterheld: via rationality community.
+- Matthew Gentzel: via rationality community.
+- Michael Vassar: via rationality community.
 - Mencius Moldbug
 - Nick Hay -- I enjoyed his "Universal Semimeasures: An Introduction" (I didn't read all of it, but I liked the parts that I did read).
-- Satvik Beri
+- Satvik Beri: via rationality community.
 - Vladimir Nesov (I really need to read more things he has written)
 - Ted Kaczynski
-- Geoffrey Miller
+- Geoffrey Miller: via rationality community. I started reading his book _The Mating Mind_ after Peter McCluskey [listed it](http://www.bayesianinvestor.com/books.html) as one of his favorite books.
 - Steve Hsu
-- Kevin Simler
+- Kevin Simler: via rationality community.
 - [Uriel](http://uriel.cat-v.org/)
 - Matt vs. Japan -- I first found Matt vs. Japan when somebody (probably on r/Anki) linked to one of his spaced repetition videos. The video had a good explanation of Anki's settings, and I felt for the first time that I had actually understood all of the options in Anki's deck options menu. So naturally I was like "who _is_ this guy?" and proceeded to watch many more of his videos. I don't have much experience with optimizing language learning as a teen/adult (I only minimally engaged with Spanish during high school, enough to get good grades but not enough to actually learn it), so I can't speak from personal experience regarding Matt's language learning methods. What I _can_ say, as a native Japanese speaker, is that Matt's Japanese is very good; I can detect some odd [pitch](https://en.wikipedia.org/wiki/Japanese_pitch_accent)/pronunciation differences in some words, but if I didn't know he was a foreign speaker, I might just round it off to a different regional dialect. (In other words, he does not sound like a Tokyo-native speaker, but he sounds Japanese enough that I might not guess that he's a foreigner?) He seems to have _some_ exposure to LW/SCC (he has linked to both on his Mass Immersion Approach website), but it seems like a pretty minimal exposure. So the fact that he has done all of the things he has online, without really being a rationalist, is a sign of his competence (as in, it's not too surprising to see someone do these things once they are really exposed to EA/rationalist memes, but if they are doing it without much exposure, that means they are inventing things on their own to some extent, which makes it more impressive). Overall, would I say he is smart? Not really; he speaks about a fairly narrow set of things online (language learning, spaced repetition systems, Japanese culture) so there just isn't enough to say one way or the other about his smartness in most other things, and my default expectation is that he isn't so special in that regard (controlling for IQ, competence, etc.)
 - [Andy Matuschak](https://notes.andymatuschak.org/) (he has other work, but I think his working notes are the most interesting) -- I found Andy after Michael Nielsen kept mentioning him on Twitter and in his works. Later, Andy started collaborating with Michael, and also Andy started publishing more of his work online. I think his working notes website best showcases his original thinking, and is also unambiguously Andy's work (with the joint work with Nielsen, it's hard to tell who's actually doing what parts).
-- Kevin Buzzard
-- Duncan Sabien
+- Kevin Buzzard: in the past I had looked through the list of [Senior Wranglers](https://en.wikipedia.org/wiki/Senior_Wrangler), so his name was somewhat familiar. I also saw him on MathOverflow. At some point I found the Xena Project, and became interested via his blog posts there.
+- Duncan Sabien: via rationality community in general.
 - [Ray Woodcock](https://raywoodcockbio.wordpress.com/): Vipul Naik once linked to one of Woodcock's blog posts (about cost of living in various countries, or something like that). From there, I started poking around on his various websites.
 - Jonathan Blow. See the [Wikiquote page](https://en.wikiquote.org/wiki/Jonathan_Blow) I wrote for him. I found Jonathan Blow one night when I was reading about video games. I was feeling bored, and looking for interesting games to play (for instance, I was searching for the best GBA games of all time and things like that). None of the games I found seemed interesting. I then searched Michael Nielsen's Twitter (because I remembered him talking about video games) and found [this tweet](https://twitter.com/michael_nielsen/status/1066051207985192960) about beautiful video games. I looked through the spreadsheet, watching YouTube videos and reading the Wikipedia pages for the top games that were listed there (both _Braid_ and _The Witness_ are listed, but of course I didn't realize the significance of this at the time). Eventually I made it to [this let's play of _The Witness_](https://www.youtube.com/watch?v=kk_Kd1yJPx4&list=PL5dr1EHvfwpNYbS_yqCZg30lEnpiEF6O2) and started reading about _The Witness_ and about Blow. I eventually realized that Alex K. Chen had talked about Blow in the past (his name did sound somewhat familiar). I read [this article](https://www.theatlantic.com/magazine/archive/2012/05/the-most-dangerous-gamer/308928/) and from there started digging hard.
-- Tim Pope
+- Tim Pope: I found Pope via [Vim](), which I had been using as my main text editor.
 
 # Old tier
 
