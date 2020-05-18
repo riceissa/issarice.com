@@ -859,7 +859,8 @@ some additions since then (as of february 2020):
   able to have a record/a way to load up your understanding when you
   come back to the topic later, but you won't need to constantly be
   nagged by anki into recalling the stuff. this is especially good for
-  things that you're not sure you understand 100%.
+  things that you're not sure you understand 100%, or stuff where aren't
+  sure if you really want to retain it long-term.
 - focus on simple examples that you can fit in your head all at once.
 
 # People
