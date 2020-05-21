@@ -174,6 +174,9 @@ to list and I'm sure you can find them without my help).
 - [Ray Woodcock](https://raywoodcockbio.wordpress.com/): Vipul Naik once linked to one of Woodcock's blog posts (about cost of living in various countries, or something like that). From there, I started poking around on his various websites.
 - Jonathan Blow. See the [Wikiquote page](https://en.wikiquote.org/wiki/Jonathan_Blow) I wrote for him. I found Jonathan Blow one night when I was reading about video games. I was feeling bored, and looking for interesting games to play (for instance, I was searching for the best GBA games of all time and things like that). None of the games I found seemed interesting. I then searched Michael Nielsen's Twitter (because I remembered him talking about video games) and found [this tweet](https://twitter.com/michael_nielsen/status/1066051207985192960) about beautiful video games. I looked through the spreadsheet, watching YouTube videos and reading the Wikipedia pages for the top games that were listed there (both _Braid_ and _The Witness_ are listed, but of course I didn't realize the significance of this at the time). Eventually I made it to [this let's play of _The Witness_](https://www.youtube.com/watch?v=kk_Kd1yJPx4&list=PL5dr1EHvfwpNYbS_yqCZg30lEnpiEF6O2) and started reading about _The Witness_ and about Blow. I eventually realized that Alex K. Chen had talked about Blow in the past (his name did sound somewhat familiar). I read [this article](https://www.theatlantic.com/magazine/archive/2012/05/the-most-dangerous-gamer/308928/) and from there started digging hard.
 - Tim Pope: I found Pope via [Vim](), which I had been using as my main text editor.
+- Sarah Constantin
+- [Ran Prieur](http://ranprieur.com/) (only his dumpster diving and frugality stuff)
+- [Eevee](https://eev.ee/)
 
 # Old tier
 
