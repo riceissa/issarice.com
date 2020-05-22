@@ -177,6 +177,7 @@ to list and I'm sure you can find them without my help).
 - Sarah Constantin
 - [Ran Prieur](http://ranprieur.com/) (only his dumpster diving and frugality stuff)
 - [Eevee](https://eev.ee/)
+- [Evan Chen](https://web.evanchen.cc/)
 
 # Old tier
 
