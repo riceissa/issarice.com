@@ -75,7 +75,7 @@ exist.
 - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
 - **Bryan Caplan**: see my page on [EconLog]()
   - Note that I consider Caplan's views on many philosophy topics to be
-    wrong. Examples: dualism of the mind, intuitionist ethics, free will.
+    wrong (not wrong in an interesting way, but just plain wrong in a really dumb way). Examples: dualism of the mind, intuitionist ethics, free will.
     I think his posts about applied ethics are good.
     TODO: link to eliezer saying people are better one meta level down in
     ethics.
