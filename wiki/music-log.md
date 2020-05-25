@@ -365,6 +365,10 @@ The Pillows:
 
 * "Valor Lakefront" (Pokemon Diamond and Pearl) -- I got hooked on this song for a few days, listening to the extended/looped version of it on YouTube. I slightly prefer the nighttime version.
 
+# May 2020
+
+* "TICK TACK" (_Mind Game_ OST) -- I actually watched _Mind Game_ a few years ago, but never go into the OST then (most of the tracks are difficult to listen to). I found this track via ["Best Of Masaaki Yuasa Anime OST - Chill Mix To Study/Relax To"](https://www.youtube.com/watch?v=tonYj30Qh4o) while searching around for Tatami Galaxy tracks.
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
