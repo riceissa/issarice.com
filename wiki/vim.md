@@ -519,6 +519,8 @@ benefits may outweigh the costs):
 
     At this point, there are two status lines for the top window. Also, the first line of the top window repeats twice. Pressing CTRL-L gets rid of this.
 
+-   2020-05-29 (NVIM v0.4.3): in urxvt under tmux, if I open neovim and then close it, the cursor in bash starts blinking.
+
 # Some intuitions
 
 I began using Vim at the latest in the summer of 2011.
