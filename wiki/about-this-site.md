@@ -106,6 +106,16 @@ repository often---so my site is the result of many incremental updates[^aaron].
 
 Inspired by [Vipul Naik](http://vipulnaik.com), I am also experimenting with the [tree structure](./using-a-tree-structure-for-websites) of this site. In particular, I think many of gwern's pages are too long, so I like to siphon off content to new pages once a section on a page matures enough, etc.
 
+
+old stuff I said:
+This site stores biographical information
+about me, but it is also a personal wiki or [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html)
+of sorts; anything that doesn't belong elsewhere ends up on here, and as a
+result the content on here can be of admittedly low-quality: unfinished,
+written in multiple voices over the span of years, wrong, or otherwise unsuitable for public
+consumption. Embarrassing as it is, I like to "think and work in the open" so
+others can benefit from my thoughts and critique them.
+
 July 2017 update:
 Over time I've come to think that almost all of my best work is done outside of
 this site, and that this site has essentially become a trash bin of half-baked
@@ -116,6 +126,8 @@ of text under issarice.com, while my better work sits on other sites? There
 are now 230 or so pages; must I go through each one labeling them "obsolete"?
 How do I reconcile this sense of embarrassment at my past self with the value I
 see in Long Content?
+
+June 2020 update:
 
 # History
 
