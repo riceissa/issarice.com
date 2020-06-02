@@ -128,6 +128,12 @@ How do I reconcile this sense of embarrassment at my past self with the value I
 see in Long Content?
 
 June 2020 update:
+I've since further shifted away from using this website for anything real.
+I think it's good for storing biographical info, and for things like my [portfolio]() page, and for linking out to all my other online presence (so people don't have to go around looking for everything on their own).
+But editing a static site is kind of annoying/has lots of friction/has slower feedback loop compared to editing a MediaWiki wiki.
+In particular, I've been having a lot more fun editing the [Issawiki](https://wiki.issarice.com/) compared to editing this site.
+Going forward, I'd like to convert this site into a minimal biographical site.
+I don't have the time to do that now though.
 
 # History
 
