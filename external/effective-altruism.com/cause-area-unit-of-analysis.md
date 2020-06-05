@@ -30,3 +30,6 @@ you might think AI safety is super valuable, but if you have more refined opinio
 
 there is buck's idea that the reason "cause area" is a useful unit is that _within_ this boundary, what matters most is your comparative advantage, but outside this boundary what matters isn't your comparative advantage.
 https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA
+
+
+see paper notebook from 2019-02-23 for my original thinking.
