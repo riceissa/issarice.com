@@ -26,3 +26,7 @@ I am curious to hear people's thoughts on this. I would also appreciate pointers
 
 
 you might think AI safety is super valuable, but if you have more refined opinions about ai safety, then you might think some agendas are useless and some are really useful/worth trying. a naive analysis cannot distinguish effectiveness within a cause area, so puts a uniform score over the whole cause area, whereas a more sophisticated analysis puts precise scores over each action within a cause area.
+
+
+there is buck's idea that the reason "cause area" is a useful unit is that _within_ this boundary, what matters most is your comparative advantage, but outside this boundary what matters isn't your comparative advantage.
+https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA
