@@ -22,3 +22,7 @@ For fictional work, such a procedure is more difficult to implement as it is
 the story or entertainment value that matters, which can be judged by the
 consumer regardless of whether a version of the work is "incorrect". ("If it's
 entertaining, who cares if it's fake?")
+
+John Wentworth has a similar idea for improving the academic peer review process:
+https://www.lesswrong.com/posts/Cy8p6NMJ9kELYpR8Z/what-are-some-civilizational-sanity-interventions?commentId=6L6ZRshadaJoMgDe7
+In both cases, the idea is to flood some space with low quality but hard-to-distinguish-from-the-real-thing objects so that people pause to try to distinguish the real thing from the fake things.
