@@ -178,4 +178,9 @@ If people can be tricked by confidence/credentials/social status given to a pers
 I think many "great minds" are great in somewhat unique ways, which makes it pretty hard to detect their greatness (if one is using some sort of similarity metric to judge how great someone is).
 Here's like a worst-case scenario in terms of judging someone: the person is great in a really important but difficult-to-detect way, they don't like to accumulate credentials, they haven't been detected by other people (so there's no social status floating around), they don't signal confidence, and they aren't similar to other great people who have been discovered so far. The chance of a random person being like this is very low, but I do wonder how many people like this we miss out on because our judgment mechanisms aren't good enough (i.e. have too many false negatives).
 
+Eliezer once left a comment on one of Scott Sumner's posts about how he
+(Eliezer) was able to identify Sumner as a "correct contrarian", despite at
+first not having much subject knowledge. It was something about the rhythm of
+the debate and the kinds of rhetoric Sumner used.
+
 [handbook_wisdom]: https://books.google.com/books?id=s5h2AwAAQBAJ&lpg=PA310&ots=aB_D0kMGsT&dq=IQ%20gap%20leader-follower%20relationship&pg=PA310#v=onepage&q=IQ%20gap%20leader-follower%20relationship&f=false "Eric H. Kessler and James R. Bailey. Handbook of Organizational and Managerial Wisdom. Sage Publications, Inc. 2007."
