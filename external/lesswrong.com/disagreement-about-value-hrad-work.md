@@ -35,6 +35,24 @@ rejected by (1)
 
 ### Case for HRAD
 
+HRAD work can produce precise theories *of building agents from the ground up*, but not precise theories about how to predict ML systems or anything like that.
+so the case is that doing the former will help with the latter in broad strokes, even if not ?
+
+### Why I think we might be in this world
+
+This seems to be what Abram is saying in https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz
+
+It also seems to match what Rohin is saying in https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6 and https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR
+
+### The crux
+
+rejected by (4), or by rejecting the existence of the precise theory using (3).
+i think daniel dewey might be here..., and rejects it via 4, not 3.
+
+## World 3
+
+### Case for HRAD
+
 HRAD work can produce precise theories of predicting ML systems, which can scale 2+ levels. This theory can then be used to detect/fix problems and ensure the safety of AGI systems.
 
 ### Why I think we might be in this world
@@ -49,19 +67,6 @@ Daniel Dewey might also expect to be in this world?
 
 rejected by (3)
 
-## World 3
-
-### Case for HRAD
-
-HRAD work can produce precise theories *of building agents from the ground up*, but not precise theories about how to predict ML systems or anything like that.
-so the case is that doing the former will help with the latter in broad strokes, even if not ?
-
-### Why I think we might be in this world
-
-### The crux
-
-rejected by (4), or by rejecting the existence of the precise theory using (3).
-i think daniel dewey might be here..., and rejects it via 4, not 3.
 
 
 ## Moving forward
