@@ -20,11 +20,15 @@ this is like deconfusion maximalism: the whole point is to become less confused,
 
 ### Why I think we might be in this world
 
+The main reason I think we might be in this world is that people at MIRI frequently seem to be saying something like it.
+
 "Techniques you can actually adapt in a safe AI, come the day, will probably have very simple cores — the sort of core concept that takes up three paragraphs, where any reviewer who didn’t spend five years struggling on the problem themselves will think, “Oh I could have thought of that.” Someday there may be a book full of clever and difficult things to say about the simple core — contrast the simplicity of the core concept of causal models, versus the complexity of proving all the clever things Judea Pearl had to say about causal models. But the planetary benefit is mainly from posing understandable problems crisply enough so that people can see they are open, and then from the simpler abstract properties of a found solution — complicated aspects will not carry over to real AIs later." https://intelligence.org/files/OpenPhil2016Supplement.pdf#page=13
 
 e.g. "We’re working on decision theory because there’s a cluster of confusing issues here (e.g., counterfactuals, updatelessness, coordination) that represent a lot of holes or anomalies in our current best understanding of what high-quality reasoning is and how it works." and phrases like "developing an understanding of roughly what counterfactuals are and how they work" and "very roughly how/why it works" https://www.greaterwrong.com/posts/uKbxi2EJ3KBNRDGpL/comment-on-decision-theory -- this post then doesn't really specify whether or not the final output is expected to be precise. (The analogy with probability theory and rockets gestures at precise theories, but the post doesn't come out and say it.)
 
 "I don't think there's a true rationality out there in the world, or a true decision theory out there in the world, or even a true notion of intelligence out there in the world. I work on agent foundations because there's *still something I'm confused about* even after that, and furthermore, AI safety work seems fairly hopeless while still so radically confused about the-phenomena-which-we-use-intelligence-and-rationality-and-agency-and-decision-theory-to-describe." https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=XEbNPAyvjpTcGufLm
+
+"The main case for HRAD problems is that we expect them to help in a gestalt way with many different known failure modes (and, plausibly, unknown ones). E.g., 'developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems'." https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design?commentId=D3PDv7kqJuByt8TRr
 
 ### The crux
 
