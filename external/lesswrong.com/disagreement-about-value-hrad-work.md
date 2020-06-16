@@ -7,9 +7,8 @@ each world is like a positive case for doing HRAD work, and the objection to it 
 terms to clarify:
 
 - precise vs imprecise theory
-- "2+ levels"
-- building agents from the ground up
-- predicting what ML systems do
+- "2+ levels" -- levels of abstraction vs levels of indirection
+- building agents from the ground up vs predicting what ML systems do
 
 ## World 1
 
@@ -36,7 +35,7 @@ rejected by (1)
 ### Case for HRAD
 
 HRAD work can produce precise theories *of building agents from the ground up*, but not precise theories about how to predict ML systems or anything like that.
-so the case is that doing the former will help with the latter in broad strokes, even if not ?
+so the case is that doing the former will help with the latter in broad strokes, even if we don't have a way to make precise predictions.
 
 ### Why I think we might be in this world
 
@@ -46,8 +45,11 @@ It also seems to match what Rohin is saying in https://www.lesswrong.com/posts/s
 
 ### The crux
 
-rejected by (4), or by rejecting the existence of the precise theory using (3).
-i think daniel dewey might be here..., and rejects it via 4, not 3.
+There seem to be two possible rejections here:
+
+- rejecting the existence of the precise theory using (3).
+- via (4), which is what i think daniel dewey is doing
+
 
 ## World 3
 
