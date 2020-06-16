@@ -1,9 +1,72 @@
-# Locating the crux in the "realism about rationality" debate
+# Plausible cases for HRAD work, and locating the crux in the "realism about rationality" debate
+
+each world is like a positive case for doing HRAD work, and the objection to it in that case
+
+## Clarifying some terms
+
+terms to clarify:
+
+- precise vs imprecise theory
+- "2+ levels"
+- building agents from the ground up
+- predicting what ML systems do
 
 ## World 1
 
+### Case for HRAD
+
+relatively-imprecise theories of agents as final product is OK (this is like what eliezer seems to be saying in some places)
+
+this is like deconfusion maximalism: the whole point is to become less confused, and it doesn't matter too much whether the final theory is precise or imprecise.
+
+### Why I think we might be in this world
+
+e.g. "We’re working on decision theory because there’s a cluster of confusing issues here (e.g., counterfactuals, updatelessness, coordination) that represent a lot of holes or anomalies in our current best understanding of what high-quality reasoning is and how it works." and phrases like "developing an understanding of roughly what counterfactuals are and how they work" and "very roughly how/why it works" https://www.greaterwrong.com/posts/uKbxi2EJ3KBNRDGpL/comment-on-decision-theory -- this post then doesn't really specify whether or not the final output is expected to be precise. (The analogy with probability theory and rockets gestures at precise theories, but the post doesn't come out and say it.)
+
+"I don't think there's a true rationality out there in the world, or a true decision theory out there in the world, or even a true notion of intelligence out there in the world. I work on agent foundations because there's *still something I'm confused about* even after that, and furthermore, AI safety work seems fairly hopeless while still so radically confused about the-phenomena-which-we-use-intelligence-and-rationality-and-agency-and-decision-theory-to-describe." https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=XEbNPAyvjpTcGufLm
+
+### The crux
+
+rejected by (1)
 
 ## World 2
+
+### Case for HRAD
+
+HRAD work can produce precise theories of predicting ML systems, which can scale 2+ levels. This theory can then be used to detect/fix problems and ensure the safety of AGI systems.
+
+### Why I think we might be in this world
+
+### The crux
+
+rejected by (3)
+
+## World 3
+
+### Case for HRAD
+
+HRAD work can produce precise theories *of building agents from the ground up*, but not precise theories about how to predict ML systems or anything like that.
+so the case is that doing the former will help with the latter in broad strokes, even if not ?
+
+### Why I think we might be in this world
+
+### The crux
+
+rejected by (4), or by rejecting the existence of the precise theory using (3).
+i think daniel dewey might be here..., and rejects it via 4, not 3.
+
+## World 4
+
+### Case for HRAD
+
+low standards/success criteria world
+
+### Why I think we might be in this world
+
+### The crux
+
+
+
 
 
 rohin's three-step argument: ok, let's see if it applies to shannon's work in chess.
