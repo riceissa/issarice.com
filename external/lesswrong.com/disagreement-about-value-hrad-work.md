@@ -1,6 +1,6 @@
 # Plausible cases for HRAD work, and locating the crux in the "realism about rationality" debate
 
-each world is like a positive case for doing HRAD work, and the objection to it in that case
+This post is my attempt to summarize and distill all of the major public debates about MIRI's [highly reliable agent designs](https://intelligence.org/files/TechnicalAgenda.pdf) (HRAD) work (which includes work on decision theory), including the discussions in [Realism about rationality](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality) and Daniel Dewey's [My current thoughts on MIRI's "highly reliable agent design" work](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design). Part of the difficulty with discussing HRAD work is that it's not even clear what the disagreement is about, so my summary takes the form of multiple possible "worlds" we might be in. Each world consists of a positive case for doing HRAD work, along with the potential objections to it for that case.
 
 ## Clarifying some terms
 
@@ -88,7 +88,7 @@ rohin's three-step argument: ok, let's see if it applies to shannon's work in ch
 
 # Is the disagreement about the value of HRAD work about success criteria or about ability to achieve agreed-upon aims?
 
-I've been thinking about the debate about the value of MIRI's [highly reliable agent designs](https://intelligence.org/files/TechnicalAgenda.pdf) work (which includes work on decision theory), for example the discussions in [Realism about rationality](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality) and Daniel Dewey's [My current thoughts on MIRI's "highly reliable agent design" work](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design).
+
 
 Something I feel confused about is the extent to which the disagreement is about success criteria vs MIRI's ability to achieve agreed-upon aims. That's a very abstract way of phrasing it, so I want to be more concrete about what I mean.
 
