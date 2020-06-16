@@ -1,22 +1,28 @@
 # Plausible cases for HRAD work, and locating the crux in the "realism about rationality" debate
 
-This post is my attempt to summarize and distill all of the major public debates about MIRI's [highly reliable agent designs](https://intelligence.org/files/TechnicalAgenda.pdf) (HRAD) work (which includes work on decision theory), including the discussions in [Realism about rationality](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality) and Daniel Dewey's [My current thoughts on MIRI's "highly reliable agent design" work](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design). Part of the difficulty with discussing HRAD work is that it's not even clear what the disagreement is about, so my summary takes the form of multiple possible "worlds" we might be in. Each world consists of a positive case for doing HRAD work, along with the potential objections to it for that case.
+This post is my attempt to summarize and distill all of the major public debates about MIRI's [highly reliable agent designs](https://intelligence.org/files/TechnicalAgenda.pdf) (HRAD) work (which includes work on decision theory), including the discussions in [Realism about rationality](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality) and Daniel Dewey's [My current thoughts on MIRI's "highly reliable agent design" work](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design). Part of the difficulty with discussing HRAD work is that it's not even clear what the disagreement is about, so my summary takes the form of multiple possible "worlds" we might be in; each world consists of a positive case for doing HRAD work, along with the potential objections to that case.
 
 ## Clarifying some terms
 
-terms to clarify:
+Before describing the various worlds, I want to present some distinctions that have come up in discussions about HRAD.
 
-- precise vs imprecise theory
-- "2+ levels" -- levels of abstraction vs levels of indirection
-- building agents from the ground up vs predicting what ML systems do
+### Precise vs imprecise theory
+
+### Levels of abstraction vs levels of indirection
+
+- "2+ levels"
+
+### Building agents from the ground up vs predicting what ML systems will do
+
+
 
 ## World 1
 
 ### Case for HRAD
 
-relatively-imprecise theories of agents as final product is OK (this is like what eliezer seems to be saying in some places)
+The goal of HRAD research is to generally become less confused about things like counterfactual reasoning and logical uncertainty. Becoming less confused about these things will help AGI builders avoid, detect, and fix safety issues; predict or explain safety issues; and help us be satisfied that the AGI is doing what we want.
 
-this is like deconfusion maximalism: the whole point is to become less confused, and it doesn't matter too much whether the final theory is precise or imprecise.
+For this case, it is not important for the final product of HRAD to be a precise theory. Even if the final theory of embedded agency is imprecise, or even if there *is no* "final say" on the topic, if we are merely much less confused than we are now, that is still good enough to help us ensure AI systems are aligned.
 
 ### Why I think we might be in this world
 
@@ -29,6 +35,12 @@ e.g. "We’re working on decision theory because there’s a cluster of confusin
 "I don't think there's a true rationality out there in the world, or a true decision theory out there in the world, or even a true notion of intelligence out there in the world. I work on agent foundations because there's *still something I'm confused about* even after that, and furthermore, AI safety work seems fairly hopeless while still so radically confused about the-phenomena-which-we-use-intelligence-and-rationality-and-agency-and-decision-theory-to-describe." https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=XEbNPAyvjpTcGufLm
 
 "The main case for HRAD problems is that we expect them to help in a gestalt way with many different known failure modes (and, plausibly, unknown ones). E.g., 'developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems'." https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design?commentId=D3PDv7kqJuByt8TRr
+
+In the [deconfusion](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section2) section of MIRI's 2018 update, some of the examples of deconfusion are not precise/mathematical in nature (e.g. see the paragraph starting with "In 1998, conversations about AI risk and technological singularity scenarios often went in circles in a funny sort of way" and the list after "Among the bits of conceptual progress that MIRI contributed to are"). There are more mathematical examples in the post, but the fact that there are also non-mathematical examples suggests that having a precise theory of rationality is not important to this case for HRAD work.
+
+There's also the quote "As AI researchers explore the space of optimizers, what will it take to ensure that the first highly capable optimizers that researchers find are optimizers they know how to aim at chosen tasks? I’m not sure, because I’m still in some sense confused about the question. I can tell you vaguely how the problem relates to convergent instrumental incentives, and I can observe various reasons why we shouldn’t expect the strategy “train a large cognitive system to optimize for X” to actually result in a system that internally optimizes for X, but there are still wide swaths of the question where I can’t say much without saying nonsense."
+
+are there examples here from wei dai? -- does wei require a precise theory or not?
 
 ### The crux
 
