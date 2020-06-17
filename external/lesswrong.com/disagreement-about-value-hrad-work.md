@@ -88,7 +88,7 @@ This theory can then be used to help AGI builders avoid, detect, and fix safety 
 
 I mostly don't think we're in this world, but some critics might think we are?
 
-e.g. Abram says in https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz "I can see how Ricraz would read statements of the first type as suggesting very strong claims of the second type."
+e.g. Abram says in https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz "I can see how Ricraz would read statements of the first type [i.e. having precise understanding of rationality] as suggesting very strong claims of the second type [i.e. being able to understand the behavior of agents in general]."
 
 Daniel Dewey might also expect to be in this world?
 
@@ -105,11 +105,3 @@ I think it would be great to get HRAD proponents/opponents to be like "we're def
 if i missed any additional worlds, or if i described one of the worlds incorrectly, i'd like to hear about that.
 
 If it becomes clear which world we are in, then the next step is to drill down on the crux.
-
-
-
-rohin's three-step argument: ok, let's see if it applies to shannon's work in chess.
-1. this is a general statement
-2. doesn't apply to chess?
-3. so is shannon's theory imprecise? i would guess it's precise. so this might be the disanalogy with what miri is attempting.
-
