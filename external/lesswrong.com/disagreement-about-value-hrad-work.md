@@ -77,7 +77,6 @@ There seem to be two possible rejections of this case:
 - We can reject the existence of the precise theory of rationality. This is what Rohin does in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) and [this comment](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6) where he says "MIRI's theories will always be the relatively-imprecise theories that can't scale to '2+ levels above'."
 - We can argue that even a precise theory of rationality is insufficient for helping to align AI systems. i think daniel dewey is doing this.
 
-
 ## World 3
 
 ### Case for HRAD
@@ -96,9 +95,7 @@ Daniel Dewey might also expect to be in this world?
 
 ### The crux
 
-rejected by (3)
-
-
+rejected by Rohin https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6 "MIRI’s theories will always be the relatively-imprecise theories that can’t scale to “2+ levels above”." This is the same rejection as in world 2.
 
 ## Moving forward
 
