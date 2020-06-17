@@ -12,7 +12,9 @@ Before describing the various worlds, I want to present some distinctions that h
 
 - "2+ levels"
 
-### Building agents from the ground up vs predicting what ML systems will do
+### Building agents from the ground up vs understanding the behavior of rational agents and predicting what they will do
+
+This distinction comes from Abram Demski's [comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz).
 
 
 
@@ -38,14 +40,17 @@ are there examples here from wei dai? -- does wei require a precise theory or no
 
 ### The crux
 
-rejected by (1)
+One way to reject this case for HRAD work is by saying that imprecise theories of rationality are insufficient for helping to align AI systems. This is what Rohin does in [this comment](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6) where he says imprecise theories cannot build things "2+ levels above".
+
+There is a separate potential rejection, which is to say that either HRAD work will never result in precise theories or that even a precise theory is insufficient for helping to align AI systems. However, these move the crux to a place where they apply to more restricted worlds where the goal of HRAD work is specifically to come up with a precise theory, so these will be covered in the other worlds below.
 
 ## World 2
 
 ### Case for HRAD
 
-HRAD work can produce precise theories *of building agents from the ground up*, but not precise theories about how to predict ML systems or anything like that.
-so the case is that doing the former will help with the latter in broad strokes, even if we don't have a way to make precise predictions.
+The goal of HRAD research is to come up with a theory of rationality that is so precise that it allows one to build an agent from the ground up. Deconfusion is still important, as with world 1, but in this case we don't merely want any kind of deconfusion, but specifically deconfusion which is accompanied by a precise theory of rationality.
+
+For this case, HRAD research isn't intended to produce a precise theory about how to predict ML systems, or to be able to make precise predictions about what ML systems will do. Instead, the idea is that the precise theory of rationality will help AGI builders avoid, detect, and fix safety issues; predict or explain safety issues; and help us be satisfied that the AGI is doing what we want. In other words, instead of directly using a precise theory about understanding/predicting rational agents in general, we use the precise theory about rationality to help us *roughly* predict what rational agents will do in general (including ML systems).
 
 ### Why I think we might be in this world
 
