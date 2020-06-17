@@ -7,6 +7,13 @@ date: 2018-11-01
 The best way to contact [me](about) is via email at [riceissa@gmail.com][email].
 
 If you prefer, you can friend me on [Facebook]() and message me there.
+My acceptance algorithm for Facebook friend requests looks something like this:
+if 50+ mutual friends, then accept;
+if 1+ mutual friends and when I look at this person's Facebook wall it actually has content that looks like it was written by a human, and this person seems like a real human, then accept;
+if I've met this person in real life or otherwise recognize their online activity from elsewhere, then accept;
+if the account looks like obvious spam, then reject;
+else ignore the request for now to see if I can make a better decision later.
+In particular, if we have few mutual friends and your Facebook wall is empty or has only link posts for random internet articles, I am unlikely to accept your friend request.
 
 If you would like to ask me a question that I can answer publicly, you can use
 my ["ask me anything" repository on GitHub](https://github.com/riceissa/ama) or
