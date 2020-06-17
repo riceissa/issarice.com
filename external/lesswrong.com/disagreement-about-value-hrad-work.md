@@ -54,16 +54,18 @@ For this case, HRAD research isn't intended to produce a precise theory about ho
 
 ### Why I think we might be in this world
 
-This seems to be what Abram is saying in https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz
+This seems to be what Abram is saying in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz) (see especially the part after "I guess there's a tricky interpretational issue here").
 
-It also seems to match what Rohin is saying in https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6 and https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR
+It also seems to match what Rohin is saying in [these](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6) and [two](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) comments.
+
+The examples MIRI people sometimes give for precedents of HRAD-ish work, like the work done by [Turing, Shannon](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design?commentId=Z6TbXivpjxWyc8NYM), [Maxwell](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section2), are precise mathematical theories.
 
 ### The crux
 
 There seem to be two possible rejections here:
 
-- rejecting the existence of the precise theory using (3).
-- via (4), which is what i think daniel dewey is doing
+- We can reject the existence of the precise theory of rationality.
+- We can argue that even a precise theory of rationality is insufficient for helping to align AI systems. i think daniel dewey is doing this.
 
 
 ## World 3
