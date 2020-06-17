@@ -12,23 +12,23 @@ Before describing the various worlds, I want to present some distinctions that h
 
 ### Levels of abstraction vs levels of indirection
 
-- "2+ levels"
+See https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR for levels of abstraction.
 
-the MIRI -> ML -> AGI thing seems like levels of indirection, not abstraction.
+Later on, in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/aNHTM9iwfrCeAcHtn) Rohin gave a somewhat different "levels" idea, which I've decided to call "levels of indirection". This is the MIRI → ML → AGI sequence.
 
 ### Precise vs imprecise theory
 
-a precise theory is one which can scale 2+ levels of abstraction.
+A precise theory is one which can scale to 2+ levels of abstraction/indirection.
 
-an imprecise theory is one which can scale at most 1 level of abstraction.
+An imprecise theory is one which can scale at most 1 level of abstraction/indirection.
+
+More intuitively, a precise theory is more mathy/rigorous like pure math and physics, and an imprecise theory is less mathy and exact, like economics or psychology.
 
 ### Building agents from the ground up vs understanding the behavior of rational agents and predicting what they will do
 
 This distinction comes from Abram Demski's [comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz). However, I'm not confident I've understood this distinction in the way that Abram intended it, so what I describe below may be a slightly different distinction.
 
-so i think a precise theory of rationality would allow us to build an AGI in a satisfying way, whereas understanding the behavior one means being handed an arbitrary agent implemented in some way (e.g. via blackbox ML) and then being able to predict how it will act
-
-
+So I think a precise theory of rationality would allow us to build an AGI in a satisfying way, whereas understanding the behavior one means being handed an arbitrary agent implemented in some way (e.g. via blackbox ML) and then being able to predict how it will act. So it's like the difference between "there exists x such that P(x)" and "for all x, P(x)", where P(x) is something like "we can understand and predict how x will act in a satisfying way".
 
 ## World 1
 
