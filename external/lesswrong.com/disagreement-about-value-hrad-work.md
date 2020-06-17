@@ -24,7 +24,7 @@ This distinction comes from Abram Demski's [comment](https://www.greaterwrong.co
 
 ### Case for HRAD
 
-The goal of HRAD research is to generally become less confused about things like counterfactual reasoning and logical uncertainty. Becoming less confused about these things will help AGI builders avoid, detect, and fix safety issues; predict or explain safety issues; and help us be satisfied that the AGI is doing what we want.
+The goal of HRAD research is to generally become less confused about things like counterfactual reasoning and logical uncertainty. Becoming less confused about these things will: help AGI builders avoid, detect, and fix safety issues; help AGI builders predict or explain safety issues; help to conceptually clarify the AI alignment problem; and help us be satisfied that the AGI is doing what we want.
 
 For this case, it is not important for the final product of HRAD to be a precise theory. Even if the final theory of embedded agency is imprecise, or even if there *is no* "final say" on the topic, if we are merely much less confused than we are now, that is still good enough to help us ensure AI systems are aligned.
 
@@ -37,8 +37,6 @@ The main reason I think we might be in this world is that people at MIRI frequen
 - [Abram Demski](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=XEbNPAyvjpTcGufLm): "I don't think there's a true rationality out there in the world, or a true decision theory out there in the world, or even a true notion of intelligence out there in the world. I work on agent foundations because there's *still something I'm confused about* even after that, and furthermore, AI safety work seems fairly hopeless while still so radically confused about the-phenomena-which-we-use-intelligence-and-rationality-and-agency-and-decision-theory-to-describe."
 - [Nate Soares](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design?commentId=D3PDv7kqJuByt8TRr): "The main case for HRAD problems is that we expect them to help in a gestalt way with many different known failure modes (and, plausibly, unknown ones). E.g., 'developing a basic understanding of counterfactual reasoning improves our ability to understand the first AGI systems in a general way, and if we understand AGI better it's likelier we can build systems to address deception, edge instantiation, goal instability, and a number of other problems'."
 - In the [deconfusion](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section2) section of MIRI's 2018 update, some of the examples of deconfusion are not precise/mathematical in nature (e.g. see the paragraph starting with "In 1998, conversations about AI risk and technological singularity scenarios often went in circles in a funny sort of way" and the list after "Among the bits of conceptual progress that MIRI contributed to are"). There are more mathematical examples in the post, but the fact that there are also non-mathematical examples suggests that having a precise theory of rationality is not important to the case for HRAD work. There's also the quote "As AI researchers explore the space of optimizers, what will it take to ensure that the first highly capable optimizers that researchers find are optimizers they know how to aim at chosen tasks? I’m not sure, because I’m still in some sense confused about the question."
-
-are there examples here from wei dai? -- does wei require a precise theory or not?
 
 ### The crux
 
@@ -64,9 +62,9 @@ The examples MIRI people sometimes give for precedents of HRAD-ish work, like th
 
 ### The crux
 
-There seem to be two possible rejections here:
+There seem to be two possible rejections of this case:
 
-- We can reject the existence of the precise theory of rationality.
+- We can reject the existence of the precise theory of rationality. This is what Rohin does in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) and [this comment](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality?commentId=iSubbXvKW7uM6rus6) where he says "MIRI's theories will always be the relatively-imprecise theories that can't scale to '2+ levels above'."
 - We can argue that even a precise theory of rationality is insufficient for helping to align AI systems. i think daniel dewey is doing this.
 
 
@@ -103,17 +101,3 @@ rohin's three-step argument: ok, let's see if it applies to shannon's work in ch
 2. doesn't apply to chess?
 3. so is shannon's theory imprecise? i would guess it's precise. so this might be the disanalogy with what miri is attempting.
 
-# Is the disagreement about the value of HRAD work about success criteria or about ability to achieve agreed-upon aims?
-
-
-
-1. "Disagreement is about success criteria" framing: MIRI has one set of success criteria for HRAD work, which is something like "conceptually clarifies the alignment problem; does a thing analogous to the work of Shannon, Turing, Pearl; helps people avoid mistakes analogous to the use of null-terminated strings in C" (let's call these criteria A). Skeptics of HRAD work have another set of criteria for success, which is something like "axiomatically blah blah" (let's call these criteria B). Skeptics agree that criteria A are achievable, but believe that achieving criteria A is insufficient for actually being useful for aligning an AGI. Instead, to be helpful for aligning an AGI, HRAD work must achieve criteria B, and either MIRI isn't even working toward criteria B or else HRAD work won't accomplish criteria B, so HRAD work won't be useful for aligning an AGI.
-2. "Disagreement is about MIRI's ability to achieve agreed-upon aims" framing: Both MIRI and skeptics agree on what counts as success for HRAD work, i.e. there is some single success criterion that both sides agree on, which is some mixture of the criteria I listed above. The disagreement is instead about whether MIRI can achieve those goals.
-
-
-you need to achieve this more difficult thing B; only doing A is insufficient. -- disagreement about success criteria
-
-vs
-
-both sides agree that X is the success criteria.
-but then skeptics are like "well i don't think you can do X"
