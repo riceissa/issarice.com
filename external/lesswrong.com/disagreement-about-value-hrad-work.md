@@ -28,6 +28,8 @@ This distinction comes from Abram Demski's [comment](https://www.greaterwrong.co
 
 so i think a precise theory of rationality would allow us to build an AGI in a satisfying way, whereas understanding the behavior one means being handed an arbitrary agent implemented in some way (e.g. via blackbox ML) and then being able to predict how it will act
 
+i'm not confident i've understood this distinction in the way that abram intended it.
+
 ## World 1
 
 ### Case for HRAD
