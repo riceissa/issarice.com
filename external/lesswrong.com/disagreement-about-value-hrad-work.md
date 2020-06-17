@@ -2,6 +2,8 @@
 
 This post is my attempt to summarize and distill all of the major public debates about MIRI's [highly reliable agent designs](https://intelligence.org/files/TechnicalAgenda.pdf) (HRAD) work (which includes work on decision theory), including the discussions in [Realism about rationality](https://www.lesswrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality) and Daniel Dewey's [My current thoughts on MIRI's "highly reliable agent design" work](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design). Part of the difficulty with discussing HRAD work is that it's not even clear what the disagreement is about, so my summary takes the form of multiple possible "worlds" we might be in; each world consists of a positive case for doing HRAD work, along with the potential objections to that case.
 
+In this post, the pro-HRAD stance is something like "HRAD work is the most important kind of technical research in AI alignment; it is the overwhelming priority and we're pretty much screwed if we under-invest in this kind of research" and the anti-HARD stance is something like "HRAD work seems significantly less promising than other technical AI alignment agendas, such as the approaches to directly align machine learning systems (e.g. iterated amplification)". There is a much [weaker pro-HRAD stance](https://www.greaterwrong.com/posts/JSjagTDGdz2y6nNE3/on-the-purposes-of-decision-theory-research/comment/GBZt6scwpAseroYjR), which is something like "HRAD work is interesting and doing more of it adds value, but it's not necessarily the most important kind of technical AI alignment research to be working on"; this post is not about this stance.
+
 ## Clarifying some terms
 
 Before describing the various worlds, I want to present some distinctions that have come up in discussions about HRAD.
@@ -91,6 +93,8 @@ rejected by (3)
 ## Moving forward
 
 I think it would be great to get HRAD proponents to be like "we're definitely in world X, and not any of the other worlds" or even be like "actually, the case for HRAD really is disjunctive, so both of the cases in worlds X and Y apply".
+
+If it becomes clear which world we are in, then the next step is to drill down on the crux.
 
 
 
