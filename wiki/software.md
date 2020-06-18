@@ -4,16 +4,15 @@ author: Issa Rice
 date: 2020-01-15
 ---
 
-This page lists software I use or have used.
+This page lists software I use or have used. I don't include web apps or plugins.
 This page is a placeholder for now.
 
 - [tmux]()
-- [Firefox]() for the vast majority of daily browsing; I also use Google Chrome
-  for Facebook and Gmail, and occasionally for some other JavaScript-heavy sites
-  that I don't want to view with Firefox.
-  For most JavaScript-heavy web apps, often the easiest way to use them is to
+- Google Chrome and [Firefox]() for web browsing. These days I do most of my browsing in Chrome, because it's faster especially on JavaScript-heavy sites.
+  (For most JavaScript-heavy web apps, often the easiest way to use them is to
   run them under an incognito Chrome window, rather than manually enabling a
-  bunch of domains on NoScript or uMatrix.
+  bunch of domains on NoScript or uMatrix.)
+  I still use Firefox and like Firefox's handling of browsing history better (Chrome seems to have a short memory, and many things don't show up when I type it in the address bar).
 - [Vim]() with various plugins for most text editing.
 - [Git]()
 - Anki for spaced repetition
@@ -23,7 +22,7 @@ This page is a placeholder for now.
   additionally has `-localhost -dump` that is suitable for producing plain text
   dumps of webpages.
 - [Exuberant Ctags]()
-- [Music On Console]()
+- [Music On Console]() (MOC) for music
 - [Newsbeuter]() (actually called Newsboat now)
 - Ubuntu on laptop, and Ubuntu and Debian on server
 - MATE as a desktop environment
@@ -39,7 +38,7 @@ This page is a placeholder for now.
 - rxvt-unicode a.k.a. urxvt
   No strong preference for the most part, except that I dislike it when the
   terminal emulator intercepts Alt key mappings, like `Alt`-`f`.
-- PDF.js or Atril for most PDF files.
+- PDF.js or Atril or the Chrome PDF viewer for most PDF files.
   For short PDFs, PDF.js suffices, but for longer PDFs I usually download a
   copy and read them on Atril.
 - Still looking for a good epub reader.
@@ -51,10 +50,13 @@ This page is a placeholder for now.
 - [rsync](rsync)
 - I often use `less` (e.g. instead of `tail -f` I use `less +F`)
 - fzf, mostly for recalling commands in bash with CTRL-R.
-- [Emacs](emacs) org mode
+- [Emacs](emacs) org mode, and Emacs in general for prose (Emacs handles long lines better than Vim, and when text isn't line-based like in code I find navigation more intuitive in Emacs)
 - Zim Wiki for a local private wiki
 - Python3 as a desktop calculator
 - ag
+- I use FBReader as an ebook reader on Linux. I used to use Calibre but it broke after one Ubuntu update and I couldn't figure out how to fix it and gave up.
+- Telegram desktop app -- I tried signing up via the web app but it didn't work so I installed the desktop app. Now that I have an account though, I could probably get away with using the web app.
+- Redshift
 
 Programs in trial mode:
 
