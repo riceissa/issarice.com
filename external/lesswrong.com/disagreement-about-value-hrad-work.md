@@ -12,23 +12,27 @@ Before describing the various worlds, I want to present some distinctions that h
 
 ### Levels of abstraction vs levels of indirection
 
-See https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR for levels of abstraction.
+The idea of levels of abstraction was introduced in the context of HRAD work by Rohin Shah, and is described in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) (start from "When groups of humans try to build complicated stuff"). For more background, see [these](https://en.wikipedia.org/wiki/Abstraction_%28computer_science%29#Levels_of_abstraction) [articles](https://en.wikipedia.org/wiki/Leaky_abstraction) on Wikipedia.
 
-Later on, in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/aNHTM9iwfrCeAcHtn) Rohin gave a somewhat different "levels" idea, which I've decided to call "levels of indirection". This is the MIRI → ML → AGI sequence.
+Later on, in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/aNHTM9iwfrCeAcHtn) Rohin gave a somewhat different "levels" idea, which I've decided to call "levels of indirection". The relevant levels of indirection is the sequence HRAD → machine learning → AGI. Even though levels of indirection are different from levels of abstraction, the idea is that the same principle applies, where the more levels there are, the harder it becomes for a theory to apply to the final level.
 
 ### Precise vs imprecise theory
 
 A precise theory is one which can scale to 2+ levels of abstraction/indirection.
 
-An imprecise theory is one which can scale at most 1 level of abstraction/indirection.
+An imprecise theory is one which can scale to at most 1 level of abstraction/indirection.
 
-More intuitively, a precise theory is more mathy/rigorous like pure math and physics, and an imprecise theory is less mathy and exact, like economics or psychology.
+More intuitively, a precise theory is more mathy, rigorous, and exact like pure math and physics, and an imprecise theory is less mathy, like economics and psychology.
 
-### Building agents from the ground up vs understanding the behavior of rational agents and predicting what they will do
+### Building agents from the ground up vs understanding the behavior of rational agents and predicting roughly what they will do
 
 This distinction comes from Abram Demski's [comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz). However, I'm not confident I've understood this distinction in the way that Abram intended it, so what I describe below may be a slightly different distinction.
 
-So I think a precise theory of rationality would allow us to build an AGI in a satisfying way, whereas understanding the behavior one means being handed an arbitrary agent implemented in some way (e.g. via blackbox ML) and then being able to predict how it will act. So it's like the difference between "there exists x such that P(x)" and "for all x, P(x)", where P(x) is something like "we can understand and predict how x will act in a satisfying way".
+Building agents from the ground up means having a precise theory of rationality that allows us to build an AGI in a satisfying way, e.g. where someone with [security mindset](https://www.greaterwrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia) can be confident that it is aligned. Importantly, we allow the AGI to be built using whatever way is safest or most theoretically satisfying, rather than requiring that the AGI be built using whatever methods are mainstream, like current machine learning methods.
+
+Understanding the behavior of rational agents and predicting roughly what they will do means being handed an arbitrary agent implemented in some way (e.g. via blackbox ML) and then being able to predict how it will act.
+
+I think of the difference between these two as the difference between existential and universal quantification: "there exists x such that P(x)" and "for all x we have P(x)", where P(x) is something like "we can understand and predict how x will act in a satisfying way". The former only says that we can build some AGI using the precise theory that we understand well, whereas the latter says we have to deal with whatever kind of AGI that ends up being developed using methods we might not understand well.
 
 ## World 1
 
