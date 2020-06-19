@@ -190,6 +190,7 @@ to list and I'm sure you can find them without my help).
 - [Ran Prieur](http://ranprieur.com/) (only his dumpster diving and frugality stuff)
 - [Eevee](https://eev.ee/)
 - [Evan Chen](https://web.evanchen.cc/)
+- [Jiwoon Hwang](http://jiwoonhwang.org/)
 
 # Old tier
 
