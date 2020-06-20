@@ -28,17 +28,11 @@ More intuitively, a precise theory is more mathy, rigorous, and exact like pure 
 
 This distinction comes from Abram Demski's [comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz). However, I'm not confident I've understood this distinction in the way that Abram intended it, so what I describe below may be a slightly different distinction.
 
-Building agents from the ground up means having a precise theory of rationality that allows us to build an AGI in a satisfying way, e.g. where someone with [security mindset](https://www.greaterwrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia) can be confident that it is aligned. Importantly, we allow the AGI to be built using whatever way is safest or most theoretically satisfying, rather than requiring that the AGI be built using whatever methods are mainstream, like current machine learning methods.
+Building agents from the ground up means having a precise theory of rationality that allows us to build an AGI in a satisfying way, e.g. where someone with [security mindset](https://www.greaterwrong.com/posts/8gqrbnW758qjHFTrH/security-mindset-and-ordinary-paranoia) can be confident that it is aligned. Importantly, we allow the AGI to be built using whatever way is safest or most theoretically satisfying, rather than requiring that the AGI be built using whatever methods are mainstream (e.g. current machine learning methods).
 
-Understanding the behavior of rational agents and predicting roughly what they will do means being handed an arbitrary agent implemented in some way (e.g. via blackbox ML) and then being able to predict how it will act.
+Understanding the behavior of rational agents and predicting roughly what they will do means being handed an arbitrary agent implemented in some way (e.g. via blackbox ML) and then being able to predict roughly how it will act.
 
 I think of the difference between these two as the difference between existential and universal quantification: "there exists x such that P(x)" and "for all x we have P(x)", where P(x) is something like "we can understand and predict how x will act in a satisfying way". The former only says that we can build some AGI using the precise theory that we understand well, whereas the latter says we have to deal with whatever kind of AGI that ends up being developed using methods we might not understand well.
-
-## World 0
-
-### Case for HRAD
-
-maybe the case for HRAD doesn't matter, because the disagreement is mostly about how relatively promising *other* agendas are instead?
 
 ## World 1
 
@@ -65,6 +59,7 @@ One way to reject this case for HRAD work is by saying that imprecise theories o
 There is a separate potential rejection, which is to say that either HRAD work will never result in precise theories or that even a precise theory is insufficient for helping to align AI systems. However, these move the crux to a place where they apply to more restricted worlds where the goal of HRAD work is specifically to come up with a precise theory, so these will be covered in the other worlds below.
 
 There is a third rejection, which is to argue that other approaches are more promising for gaining clarity on alignment.
+maybe the case for HRAD doesn't matter, because the disagreement is mostly about how relatively promising *other* agendas are instead?
 
 ## World 2
 
