@@ -6,8 +6,6 @@ I will talk about "being in a world" throughout this post. What I mean by this i
 
 In this post, the pro-HRAD stance is something like "HRAD work is the most important kind of technical research in AI alignment; it is the overwhelming priority and we're pretty much screwed if we under-invest in this kind of research" and the anti-HRAD stance is something like "HRAD work seems significantly less promising than other technical AI alignment agendas, such as the approaches to directly align machine learning systems (e.g. iterated amplification)". There is a much [weaker pro-HRAD stance](https://www.greaterwrong.com/posts/JSjagTDGdz2y6nNE3/on-the-purposes-of-decision-theory-research/comment/GBZt6scwpAseroYjR), which is something like "HRAD work is interesting and doing more of it adds value, but it's not necessarily the most important kind of technical AI alignment research to be working on"; this post is not about this weaker stance.
 
-TODO: use full name for first appearance of each person's name, except for daniel dewey since there are multiple daniels in ai safety
-
 ## Clarifying some terms
 
 Before describing the various worlds, I want to present some distinctions that have come up in discussions about HRAD, which will be relevant when distinguishing between the worlds.
