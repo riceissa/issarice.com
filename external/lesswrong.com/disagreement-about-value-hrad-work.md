@@ -36,6 +36,12 @@ Understanding the behavior of rational agents and predicting roughly what they w
 
 I think of the difference between these two as the difference between existential and universal quantification: "there exists x such that P(x)" and "for all x we have P(x)", where P(x) is something like "we can understand and predict how x will act in a satisfying way". The former only says that we can build some AGI using the precise theory that we understand well, whereas the latter says we have to deal with whatever kind of AGI that ends up being developed using methods we might not understand well.
 
+## World 0
+
+### Case for HRAD
+
+maybe the case for HRAD doesn't matter, because the disagreement is mostly about how relatively promising *other* agendas are instead?
+
 ## World 1
 
 ### Case for HRAD
