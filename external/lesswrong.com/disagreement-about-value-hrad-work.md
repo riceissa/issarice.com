@@ -111,15 +111,9 @@ Daniel Dewey might also expect to be in this world?
 
 rejected by Rohin https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6 "MIRI’s theories will always be the relatively-imprecise theories that can’t scale to “2+ levels above”." This is the same rejection as in world 2.
 
-## Moving forward
+## Conclusion, and moving forward
 
-I think it would be great to get HRAD proponents/opponents to be like "we're definitely in world X, and not any of the other worlds" or even be like "actually, the case for HRAD really is disjunctive, so both of the cases in worlds X and Y apply".
-
-If I missed any additional possible worlds, or if I described one of the worlds incorrectly, I am interested in hearing about it.
-
-If it becomes clear which world we are in, then the next step is to drill down on the crux.
-
-pro-HRAD means:
+To summarize the above, combining all of possible worlds, the pro-HRAD stance becomes:
 
 ```
 (ML safety agenda not promising) and (
@@ -130,7 +124,7 @@ pro-HRAD means:
 )
 ```
 
-anti-HRAD is the negation of the above:
+and the anti-HRAD stance is the negation of the above:
 
 ```
 (ML safety agenda promising) or (
@@ -143,5 +137,10 @@ anti-HRAD is the negation of the above:
 
 TODO: try to set up a double crux?
 
+I think it would be great to get HRAD proponents/opponents to be like "we're definitely in world X, and not any of the other worlds" or even be like "actually, the case for HRAD really is disjunctive, so both of the cases in worlds X and Y apply".
+
+If I missed any additional possible worlds, or if I described one of the worlds incorrectly, I am interested in hearing about it.
+
+If it becomes clear which world we are in, then the next step is to drill down on the crux.
 
 *Thanks to Ben Cottier, Rohin Shah, and Joe Bernstein for feedback on this post.*
