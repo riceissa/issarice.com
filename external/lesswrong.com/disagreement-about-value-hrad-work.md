@@ -40,7 +40,7 @@ I think of the difference between these two as the difference between existentia
 
 The goal of HRAD research is to generally become less confused about things like counterfactual reasoning and logical uncertainty. Becoming less confused about these things will: help AGI builders avoid, detect, and fix safety issues; help AGI builders predict or explain safety issues; help to conceptually clarify the AI alignment problem; and help us be satisfied that the AGI is doing what we want. Moreover, unless we become less confused about these things, we are likely to screw up alignment because we won't deeply understand how our AI systems are reasoning. There are other ways to gain clarity on alignment, such as by working on iterated amplification, but these approaches [don't decompose cognitive work enough](https://www.greaterwrong.com/posts/wkF5rHDFKEWyJJLj2/link-book-review-reframing-superintelligence-ssc/comment/4zkpL3DZXaCMuR4Mn).
 
-For this case, it is not important for the final product of HRAD to be a precise theory. Even if the final theory of embedded agency is imprecise, or even if there *is no* "final say" on the topic, if we are merely much less confused than we are now, that is still good enough to help us ensure AI systems are aligned.
+For this case, it is not important for the final product of HRAD to be a precise theory. Even if the final theory of embedded agency is imprecise, or even if *there is no* "final say" on the topic, if we are merely much less confused than we are now, that is still good enough to help us ensure AI systems are aligned.
 
 ### Why I think we might be in this world
 
