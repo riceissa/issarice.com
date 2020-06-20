@@ -141,7 +141,7 @@ also left out many cookie cutter rationalists and effective altruists (they
 might be smarter than some of the people in this list, but they are too boring
 to list and I'm sure you can find them without my help).
 
-- Paul Graham (mostly his earlier essays): his essays were important to me as a teenager, but lately I feel like I've moved on to better things
+- Paul Graham (mostly his earlier essays): his essays were important to me as a teenager, but lately I feel like I've moved on to better things. (It's possible that his new essays just aren't that good; I'm [not the only one](https://news.ycombinator.com/item?id=23578464) who has noticed this.)
 - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
 - [Jeff Hays](http://factsanddetails.com/)
 - Zack M. Davis: via rationality community.
