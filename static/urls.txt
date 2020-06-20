@@ -11,6 +11,7 @@ https://www.greaterwrong.com/users/vipulnaik?format=rss
 https://www.greaterwrong.com/users/eliezer_yudkowsky?format=rss
 https://disqus.com/eliezeryudkowsky/latest.rss
 https://www.greaterwrong.com/users/annasalamon?format=rss
+https://ea.greaterwrong.com/users/annasalamon?format=rss
 https://www.greaterwrong.com/users/sarahconstantin?format=rss
 https://www.greaterwrong.com/users/valentine?show=posts&format=rss
 https://www.greaterwrong.com/users/paulfchristiano?format=rss
