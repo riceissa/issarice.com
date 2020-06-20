@@ -88,7 +88,7 @@ The examples MIRI people sometimes give for precedents of HRAD-ish work, like th
 
 There seem to be two possible rejections of this case:
 
-- We can reject the existence of the precise theory of rationality. This is what Rohin does in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) and [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6) where he says "MIRI's theories will always be the relatively-imprecise theories that can't scale to '2+ levels above'."
+- We can reject the existence of the precise theory of rationality. This is what Rohin does in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) and [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6) where he says "MIRI's theories will always be the relatively-imprecise theories that can't scale to '2+ levels above'." Paul might be doing a similar thing; see "There are reasons to expect the details of reasoning well to be “messy”" in [this post](https://agentfoundations.org/item?id=1129).
 - We can argue that even a precise theory of rationality is insufficient for helping to align AI systems. i think daniel dewey is doing this.
 
 ## World 3
@@ -118,6 +118,30 @@ I think it would be great to get HRAD proponents/opponents to be like "we're def
 If I missed any additional possible worlds, or if I described one of the worlds incorrectly, I am interested in hearing about it.
 
 If it becomes clear which world we are in, then the next step is to drill down on the crux.
+
+pro-HRAD means:
+
+```
+(ML safety agenda not promising) and (
+  (even an imprecise theory of rationality helps to align AGI) or
+  ((a precise theory of rationality can be found) and
+   (a precise theory of rationality can be used to help align AGI)) or
+  (a precise theory to predict behavior of arbitrary agent can be found)
+)
+```
+
+anti-HRAD is the negation of the above:
+
+```
+(ML safety agenda promising) or (
+  (an imprecise theory of rationality cannot be used to help align AGI) and
+  ((a precise theory of rationality cannot be found) or
+   (even a precise theory of rationality cannot be used to help align AGI)) and
+  (a precise theory to predict behavior of arbitrary agent cannot be found)
+)
+```
+
+TODO: try to set up a double crux?
 
 
 *Thanks to Ben Cottier, Rohin Shah, and Joe Bernstein for feedback on this post.*
