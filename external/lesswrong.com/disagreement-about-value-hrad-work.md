@@ -76,14 +76,14 @@ This seems to be what Abram is saying in [this comment](https://www.greaterwrong
 
 It also seems to match what Rohin is saying in [these](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6) [two](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) comments.
 
-The examples MIRI people sometimes give for precedents of HRAD-ish work, like the work done by [Turing](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design?commentId=Z6TbXivpjxWyc8NYM), [Shannon](https://intelligence.org/2015/07/27/miris-approach/), and [Maxwell](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section2), are precise mathematical theories.
+The examples MIRI people sometimes give for precedents of HRAD-ish work, like the work done by [Turing](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design?commentId=Z6TbXivpjxWyc8NYM), [Shannon](https://intelligence.org/2015/07/27/miris-approach/), and [Maxwell](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section2) are precise mathematical theories.
 
 ### The crux
 
 There seem to be two possible rejections of this case:
 
-- We can reject the existence of the precise theory of rationality. This is what Rohin does in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) and [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6) where he says "MIRI's theories will always be the relatively-imprecise theories that can't scale to '2+ levels above'." Paul might be doing a similar thing; see "There are reasons to expect the details of reasoning well to be “messy”" in [this post](https://agentfoundations.org/item?id=1129).
-- We can argue that even a precise theory of rationality is insufficient for helping to align AI systems. i think daniel dewey is doing this.
+- We can reject the existence of the precise theory of rationality. This is what Rohin does in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) and [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6) where he says "MIRI's theories will always be the relatively-imprecise theories that can't scale to '2+ levels above'." Paul Christiano seems to also do this, as summarized by Jessica Taylor in [this post](https://agentfoundations.org/item?id=1129): intuition 18 is "There are reasons to expect the details of reasoning well to be 'messy'."
+- We can argue that even a precise theory of rationality is insufficient for helping to align AI systems. This seems to be what Daniel Dewey is doing in [this post](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design) when he says things like "AIXI and Solomonoff induction are particularly strong examples of work that is very close to HRAD, but don't seem to have been applicable to real AI systems."
 
 ## World 3
 
