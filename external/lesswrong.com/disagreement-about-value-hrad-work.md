@@ -97,11 +97,11 @@ As with world 1 and 2, unless we become less confused, we are likely to screw up
 
 ### Why I think we might be in this world
 
-I mostly don't think we're in this world, but some critics might think we are?
+I mostly don't think we're in this world, but some critics might think we are.
 
-e.g. Abram says in https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz "I can see how Ricraz would read statements of the first type [i.e. having precise understanding of rationality] as suggesting very strong claims of the second type [i.e. being able to understand the behavior of agents in general]."
+For example Abram says in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz): "I can see how Ricraz would read statements of the first type [i.e. having precise understanding of rationality] as suggesting very strong claims of the second type [i.e. being able to understand the behavior of agents in general]."
 
-Daniel Dewey might also expect to be in this world?
+Daniel Dewey might also expect to be in this world; it's hard for me to tell based on [his post about HRAD](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design).
 
 ### The crux
 
