@@ -105,7 +105,7 @@ Daniel Dewey might also expect to be in this world; it's hard for me to tell bas
 
 ### The crux
 
-rejected by Rohin https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6 "MIRI’s theories will always be the relatively-imprecise theories that can’t scale to “2+ levels above”." This is the same rejection as in world 2.
+The crux in this world is basically the same as the first rejection for world 2: we can reject the existence of a precise theory for understanding the behavior of arbitrary rational agents.
 
 ## Conclusion, and moving forward
 
