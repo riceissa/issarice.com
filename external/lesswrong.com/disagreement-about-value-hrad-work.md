@@ -58,8 +58,7 @@ One way to reject this case for HRAD work is by saying that imprecise theories o
 
 There is a separate potential rejection, which is to say that either HRAD work will never result in precise theories or that even a precise theory is insufficient for helping to align AI systems. However, these move the crux to a place where they apply to more restricted worlds where the goal of HRAD work is specifically to come up with a precise theory, so these will be covered in the other worlds below.
 
-There is a third rejection, which is to argue that other approaches are more promising for gaining clarity on alignment.
-maybe the case for HRAD doesn't matter, because the disagreement is mostly about how relatively promising *other* agendas are instead?
+There is a third rejection, which is to argue that other approaches (such as iterated amplification) are more promising for gaining clarity on alignment. In this case, the main disagreement may instead be about other agendas rather than about HRAD.
 
 ## World 2
 
