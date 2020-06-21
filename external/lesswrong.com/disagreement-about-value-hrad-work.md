@@ -133,10 +133,10 @@ and the anti-HRAD stance is the negation of the above:
 
 How does this fit under the [Double](https://www.greaterwrong.com/posts/faaoyve5ryY8E5M4r/eli-s-shortform-feed/comment/HpFfoqZXAbBZcsPKF) [Crux](https://www.greaterwrong.com/posts/faaoyve5ryY8E5M4r/eli-s-shortform-feed/comment/D2v9JH7DX9s7GXHWF) framework? The current "overall crux" is a messy proposition consisting of multiple conjunctions and disjunctions, and fully resolving the disagreement can in the worst case require assigning truth values to all five parts: the statement "A and (B or (C and D) or E)", with disagreements resolved in the order A=True, B=False, C=True, D=False can still be true or false depending on the value of E. From an efficiency perspective, if some of the conjunctions/disjunctions don't matter, we want to get rid of them in order to simplify the structure of the overall crux (this corresponds to identifying which "world" we are in, using the terminology of this post), and we also might want to pick an ordering of which parts to resolve first (for example, with A=True and B=True, we already know the overall proposition is true).
 
-I think it would be great to get HRAD proponents/opponents to be like "we're definitely in world X, and not any of the other worlds" or even be like "actually, the case for HRAD really is disjunctive, so both of the cases in worlds X and Y apply".
+So some steps for moving the discussion forward:
 
-If I missed any additional possible worlds, or if I described one of the worlds incorrectly, I am interested in hearing about it.
-
-If it becomes clear which world we are in, then the next step is to drill down on the crux.
+* I think it would be great to get HRAD proponents/opponents to be like "we're definitely in world X, and not any of the other worlds" or even be like "actually, the case for HRAD really is disjunctive, so both of the cases in worlds X and Y apply".
+* If I missed any additional possible worlds, or if I described one of the worlds incorrectly, I am interested in hearing about it.
+* If it becomes clear which world we are in, then the next step is to drill down on the crux.
 
 *Thanks to Ben Cottier, Rohin Shah, and Joe Bernstein for feedback on this post.*
