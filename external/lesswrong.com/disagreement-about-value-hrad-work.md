@@ -68,7 +68,7 @@ The goal of HRAD research is to come up with a theory of rationality that is so 
 
 For this case, HRAD research isn't intended to produce a precise theory about how to predict ML systems, or to be able to make precise predictions about what ML systems will do. Instead, the idea is that the precise theory of rationality will help AGI builders avoid, detect, and fix safety issues; predict or explain safety issues; help to conceptually clarify the AI alignment problem; and help us be satisfied that the AGI is doing what we want. In other words, instead of directly using a precise theory about understanding/predicting rational agents in general, we use the precise theory about rationality to help us *roughly* predict what rational agents will do in general (including ML systems).
 
-As with world 1, unless we become less confused about these things, we are likely to screw up alignment because we won't deeply understand how our AI systems are reasoning. There are other ways to gain clarity on alignment, such as by working on iterated amplification, but these approaches [don't decompose cognitive work enough](https://www.greaterwrong.com/posts/wkF5rHDFKEWyJJLj2/link-book-review-reframing-superintelligence-ssc/comment/4zkpL3DZXaCMuR4Mn).
+As with world 1, unless we become less confused, we are likely to screw up alignment because we won't deeply understand how our AI systems are reasoning. There are other ways to gain clarity on alignment, such as by working on iterated amplification, but these approaches [don't decompose cognitive work enough](https://www.greaterwrong.com/posts/wkF5rHDFKEWyJJLj2/link-book-review-reframing-superintelligence-ssc/comment/4zkpL3DZXaCMuR4Mn).
 
 ### Why I think we might be in this world
 
