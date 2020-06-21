@@ -74,7 +74,7 @@ As with world 1, unless we become less confused, we are likely to screw up align
 
 This seems to be what Abram is saying in [this comment](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/3f6fadtcv8FsgwKsz) (see especially the part after "I guess there's a tricky interpretational issue here").
 
-It also seems to match what Rohin is saying in [these](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6) and [two](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) comments.
+It also seems to match what Rohin is saying in [these](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/iSubbXvKW7uM6rus6) [two](https://www.greaterwrong.com/posts/suxvE2ddnYMPJN9HD/realism-about-rationality/comment/YMNwHcPNPd4pDK7MR) comments.
 
 The examples MIRI people sometimes give for precedents of HRAD-ish work, like the work done by [Turing](https://forum.effectivealtruism.org/posts/SEL9PW8jozrvLnkb4/my-current-thoughts-on-miri-s-highly-reliable-agent-design?commentId=Z6TbXivpjxWyc8NYM), [Shannon](https://intelligence.org/2015/07/27/miris-approach/), and [Maxwell](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section2), are precise mathematical theories.
 
