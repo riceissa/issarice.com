@@ -93,7 +93,7 @@ The goal of HRAD research is to directly come up with a precise theory for under
 
 This theory can then be used to help AGI builders avoid, detect, and fix safety issues; predict or explain safety issues; help to conceptually clarify the AI alignment problem; and help us be satisfied that the AGI is doing what we want.
 
-As with world 1 and 2, unless we become less confused about these things, we are likely to screw up alignment because we won't deeply understand how our AI systems are reasoning. There are other ways to gain clarity on alignment, such as by working on iterated amplification, but these approaches [don't decompose cognitive work enough](https://www.greaterwrong.com/posts/wkF5rHDFKEWyJJLj2/link-book-review-reframing-superintelligence-ssc/comment/4zkpL3DZXaCMuR4Mn).
+As with world 1 and 2, unless we become less confused, we are likely to screw up alignment because we won't deeply understand how our AI systems are reasoning. There are other ways to gain clarity on alignment, such as by working on iterated amplification, but these approaches [don't decompose cognitive work enough](https://www.greaterwrong.com/posts/wkF5rHDFKEWyJJLj2/link-book-review-reframing-superintelligence-ssc/comment/4zkpL3DZXaCMuR4Mn).
 
 ### Why I think we might be in this world
 
