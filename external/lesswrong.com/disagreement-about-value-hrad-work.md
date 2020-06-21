@@ -137,6 +137,6 @@ So some steps for moving the discussion forward:
 
 * I think it would be great to get HRAD proponents/opponents to be like "we're definitely in world X, and not any of the other worlds" or even be like "actually, the case for HRAD really is disjunctive, so both of the cases in worlds X and Y apply".
 * If I missed any additional possible worlds, or if I described one of the worlds incorrectly, I am interested in hearing about it.
-* If it becomes clear which world we are in, then the next step is to drill down on the crux.
+* If it becomes clear which world we are in, then the next step is to drill down on the crux(es) in that world.
 
 *Thanks to Ben Cottier, Rohin Shah, and Joe Bernstein for feedback on this post.*
