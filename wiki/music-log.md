@@ -369,6 +369,11 @@ The Pillows:
 
 * "TICK TACK" (_Mind Game_ OST) -- I actually watched _Mind Game_ a few years ago, but never go into the OST then (most of the tracks are difficult to listen to). I found this track via ["Best Of Masaaki Yuasa Anime OST - Chill Mix To Study/Relax To"](https://www.youtube.com/watch?v=tonYj30Qh4o) while searching around for Tatami Galaxy tracks.
 
+# June 2020
+
+* Weezer: Blue Album -- I had heard this many years ago but recently remembered it and decided to listen to it again. It was interesting to listen to it around three times, but I quickly got bored of it.
+* Theme from _Eternal Sunshine of the Spotless Mind_
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
