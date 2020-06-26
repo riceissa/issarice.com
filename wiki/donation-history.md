@@ -126,5 +126,6 @@ Low value of small marginal donations to targets I am most interested in funding
 # 2020
 
 - andy matuschak patreon
+- miri
 
 -->
