@@ -373,6 +373,7 @@ The Pillows:
 
 * Weezer: Blue Album -- I had heard this many years ago but recently remembered it and decided to listen to it again. It was interesting to listen to it around three times, but I quickly got bored of it.
 * Theme from _Eternal Sunshine of the Spotless Mind_
+* "Someone Else's Forward Motion (Posing As Your Own)" from _Synecdoche, New York_ OST
 
 # History
 
