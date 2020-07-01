@@ -99,7 +99,7 @@ exist.
 - Andrew Critch
 - Anatoly Karlin
 - Devin Helton/Devin Finbarr
-- [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html)
+- [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html). Integrate his aesthetics but discard his beliefs.
 - Michael Huemer (mostly _The Problem of Political Authority_; I am significantly less enthusiastic about Huemer's other output)
 - Nick Beckstead; in particular, read his PhD thesis, "On the
   Overwhelming Importance of Shaping the Far Future", which you can
