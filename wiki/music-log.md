@@ -375,6 +375,10 @@ The Pillows:
 * Theme from _Eternal Sunshine of the Spotless Mind_
 * "Someone Else's Forward Motion (Posing As Your Own)" from _Synecdoche, New York_ OST
 
+# July 2020
+
+* The Shins: _Oh, Inverted World_ (HT _Garden State_ -- I only watched clips of the movie)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
