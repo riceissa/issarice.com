@@ -66,6 +66,9 @@ often poorly produced.
 I took the test at <http://www.iqtest.dk/> on 2018-02-06 and got a score of 112.
 For context on this number, see [this explanation](https://www.gwern.net/Links#iq) by gwern.
 
+I took the test at <https://www.mensa.lu/en/mensa/online-iq-test/online-iq-test.html>
+on 2020-07-12 and got a score of 28/33.
+
 ## Myers–Briggs Type Indicator
 
 I seem to consistently test out as INTP, though I'm only heavily biased in the "I" part of the personality type and the "NTP" part is more intermediate.
