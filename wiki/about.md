@@ -21,6 +21,8 @@ i don't want to be boring, but i also like canonical things, plain things, simpl
 So a big part of "what it's like to be me" is in noticing all these contradictions, and trying to manage this mess. it's exhausting and exciting at the same time.
 
 What even is the point of a self-introduction? I sort of want to transmit this "what it's like"-ness of being me. but also the more straightforward purpose is for other people to judge me, to make an impression on other people, to tell other people "what it's like to be around me".
+
+in terms of world views... talk about my big picture beliefs.
 -->
 
 
