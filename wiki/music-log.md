@@ -34,6 +34,8 @@ Some others:
 (I plan to make a table like the following to better keep track of my music.
 For me, music often allows me to experience the *qualia* of certain periods of my life, so it's important that the time periods when I listened to the music are listed alongside it.)
 
+Hozier: _Hozier_ (not sure when I started listening to this album, but I repeatedly come back to it)
+
 -------------------------------------------------------------------------------
 Time period      Music
 ---------------- --------------------------------------------------------------
