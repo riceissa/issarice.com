@@ -64,7 +64,7 @@ often poorly produced.
 ## IQ
 
 I took the test at <http://www.iqtest.dk/> on 2018-02-06 and got a score of 112.
-For context on this number, see [this explanation](https://www.gwern.net/Links#iq) by gwern.
+For context on this number, see [this explanation](http://web.archive.org/web/20170808022516/https://www.gwern.net/Links#iq) by gwern.
 
 I took the test at <https://www.mensa.lu/en/mensa/online-iq-test/online-iq-test.html>
 on 2020-07-12 and got a score of 28/33.
