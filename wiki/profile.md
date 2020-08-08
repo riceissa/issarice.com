@@ -117,6 +117,10 @@ My result was as follows:
 > Your total: 78 \
 > Your class: Cyborg
 
+The description for Cyborg is "You are a sorry amalgam of robot and regular
+human. You linger in two worlds at once, an outsider to both the normies and
+the robots. As a result, you may be on your own with your feels."
+
 # Morals
 
 [to be added]
