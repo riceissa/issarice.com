@@ -114,7 +114,7 @@ This was originally for [a Quora answer](https://www.quora.com/What-are-the-Dung
 On 2020-08-07 I took [The Robot Test](https://arfer.net/games/robot-test).
 My result was as follows:
 
-> Your total: 78
+> Your total: 78 \
 > Your class: Cyborg
 
 # Morals
