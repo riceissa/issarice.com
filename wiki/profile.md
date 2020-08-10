@@ -121,6 +121,15 @@ The description for Cyborg is "You are a sorry amalgam of robot and regular
 human. You linger in two worlds at once, an outsider to both the normies and
 the robots. As a result, you may be on your own with your feels."
 
+## Schizotypy Personality Scale
+
+On 2020-08-09 I took [this test](https://www.insideprison.com/article_assessments_Schizotypal_Personality_Scale.asp) about Schizotypy Personality Scale (STA). My result is as follows:
+
+> Your score on the Schizotypy Personality Scale (STA) (NPI) is: 11
+>
+> Scores of 11 usually indicate no evidence of schizotypy. At least 90% of
+> test-takers score in this range or lower.
+
 # Morals
 
 [to be added]
