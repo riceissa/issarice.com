@@ -565,17 +565,21 @@ non-obvious/interesting ways.)
 
 # Thinking about careers
 
-My basic stance on careers as of late 2018:
+My basic stance on careers as of late 2018 [updated August 2020]:
 
 - If you share my values, then I think not working at a crushing day job is
   important.  Many people complain that they hate their job/complain about
   "bullshit jobs", but then they keep working at such a job.  It seems to me
-  that these people either (1) actually secretly like their jobs or buy into
+  that these people (1) actually secretly like their jobs or buy into
   the protestant work ethic so are on some level fine with wasting their lives
-  away, or (2) have competing interests, like earning enough money to buy
-  things or impress actual/potential mates.  In the case of (1), I can't really
-  help you (you don't share my values). But in the case of (2), I think you
+  away, (2) have competing interests, like earning enough money to buy
+  things or impress actual/potential mates, or (3) are working at a day job
+  temporarily as a way to build up a financial buffer or practice being
+  functional.  In the case of (1), I can't really
+  help you (you don't share my values). In the case of (2), I think you
   ought to introspect more and see if these things are really worth it.
+  In the case of (3), I think this is fine, and you should keep doing this
+  until you feel ready to quit/move onto the next stage of your life.
 
 2020: the hardest thing about careers is how to make enough money to
 support a wife and kids (if that's what you want). all of this is
