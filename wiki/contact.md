@@ -44,6 +44,12 @@ reading what I have on this website or my contributions to other sites).
 I also don't mind if you ask questions about me on Quora, if you want to
 passively contact me that way, though I don't control what Quora allows.
 
+I don't think having high standards and being very accessible/welcoming of
+newcomers and inexperienced people are incompatible.
+(See Duncan Sabien and Jonathan Blow -- and maybe Terence Tao as well -- as
+examples of people who embody both.)
+I strive to have both properties.
+
 [email]: mailto:riceissa@gmail.com
 [feedback]: https://docs.google.com/forms/d/1AbwmuMIyzB5X7P4ysL71vGD4WnMxsCKsAZULLc0X7V0/viewform?usp=send_form
 [g_feedb]: http://www.gwern.net/About#anonymous-feedback
