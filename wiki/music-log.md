@@ -381,6 +381,10 @@ The Pillows:
 
 * The Shins: _Oh, Inverted World_ (HT _Garden State_ -- I only watched clips of the movie)
 
+# August 2020
+
+* Tarkine Funk: ["Incessantly"](https://www.youtube.com/watch?v=znz9XXZGU74) (HT Satira)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
