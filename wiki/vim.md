@@ -521,6 +521,15 @@ benefits may outweigh the costs):
 
 -   2020-05-29 (NVIM v0.4.3): in urxvt under tmux, if I open neovim and then close it, the cursor in bash starts blinking. (the cursor in urxvt is normally just a box that never blinks.)
 
+-   2020-08-24: I think the popup screen when running `:FZF` looks slightly nicer in vim than on neovim.
+
+
+On the other hand, here are some things I like better in Neovim/where vim has bugs:
+
+- Fugitive's `:Gpush` command makes the cmdheight go up randomly until I clear the screen with CTRL-L. In general, Gpush leaves screen artefacts and hides the cursor and does annoying things.
+- opening/closing vim is slower, and got much slower recently for some reason. In Neovim startup/closing time is very fast.
+
+
 # Some intuitions
 
 I began using Vim at the latest in the summer of 2011.
