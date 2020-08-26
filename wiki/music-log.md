@@ -384,6 +384,7 @@ The Pillows:
 # August 2020
 
 * Tarkine Funk: ["Incessantly"](https://www.youtube.com/watch?v=znz9XXZGU74) (HT Satira)
+* Smuff Tha Quiz: ["Dawn"](https://www.youtube.com/watch?v=I6OQpqDDZVI) (HT Satira)
 * This month I've been listening to _Revolver_ again a lot, and am especially enjoying "And Your Bird Can Sing" for the first time (it has always seemed to me like one of those low quality Lennon songs, but I like it now for some reason).
 
 # History
