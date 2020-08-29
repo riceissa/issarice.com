@@ -107,6 +107,8 @@ December 22 and converted them to MP3.
 "頼りない天使", "バックビートにのっかって", and also their later albums:
 *空中キャンプ*, *宇宙 日本 世田谷*, *ORANGE*.
 
+Also discovered Allah-Las, especially the album _Allah-Las_.
+
 # February 2015
 
 * Taylor Swift ("Shake It Off", "22", "Our Song")
