@@ -389,6 +389,10 @@ The Pillows:
 * Smuff Tha Quiz: ["Dawn"](https://www.youtube.com/watch?v=I6OQpqDDZVI) (HT Satira)
 * This month I've been listening to _Revolver_ again a lot, and am especially enjoying "And Your Bird Can Sing" for the first time (it has always seemed to me like one of those low quality Lennon songs, but I like it now for some reason).
 
+# September 2020
+
+* Jon Brion: "He Needs Me" (_Punch-Drunk Love_ OST)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
