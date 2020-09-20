@@ -55,6 +55,7 @@ This page is a placeholder for now.
 - Foliate as ebook reader. I used to use FBReader/Calibre but both of them broke after an Ubuntu upgrade.
 - Telegram desktop app -- I tried signing up via the web app but it didn't work so I installed the desktop app. Now that I have an account though, I could probably get away with using the web app.
 - Redshift
+- Tux Paint to make drawings for my [Tao Analysis Solutions](https://taoanalysis.wordpress.com/) blog
 
 Programs in trial mode:
 
