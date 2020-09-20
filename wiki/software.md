@@ -13,7 +13,7 @@ This page is a placeholder for now.
   run them under an incognito Chrome window, rather than manually enabling a
   bunch of domains on NoScript or uMatrix.)
   I still use Firefox and like Firefox's handling of browsing history better (Chrome seems to have a short memory, and many things don't show up when I type it in the address bar).
-- [Vim]() with various plugins for most text editing.
+- [Vim]() (mostly Neovim since about July or August 2020) with various plugins for most text editing.
 - [Git]()
 - Anki for spaced repetition
 - [ELinks](), Links, or Lynx for lightweight browsing depending on what I want.
@@ -41,8 +41,6 @@ This page is a placeholder for now.
 - PDF.js or Atril or the Chrome PDF viewer for most PDF files.
   For short PDFs, PDF.js suffices, but for longer PDFs I usually download a
   copy and read them on Atril.
-- Still looking for a good epub reader.
-  I currently use FBReader but find the scrolling mechanism annoying.
 - `youtube-dl`
 - GNU userland, mainly because that's what comes with Debian and Ubuntu and
   is what I'm most used to.
@@ -54,7 +52,7 @@ This page is a placeholder for now.
 - Zim Wiki for a local private wiki
 - Python3 as a desktop calculator
 - ag
-- I use FBReader as an ebook reader on Linux. I used to use Calibre but it broke after one Ubuntu update and I couldn't figure out how to fix it and gave up.
+- Foliate as ebook reader. I used to use FBReader/Calibre but both of them broke after an Ubuntu upgrade.
 - Telegram desktop app -- I tried signing up via the web app but it didn't work so I installed the desktop app. Now that I have an account though, I could probably get away with using the web app.
 - Redshift
 
