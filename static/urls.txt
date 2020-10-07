@@ -68,7 +68,6 @@ https://feeds.feedburner.com/stevelosh?format=xml
 https://feeds.feedburner.com/LukeMuehlhauser?format=xml
 https://feeds.feedburner.com/80000HoursPodcast?format=xml
 http://yudkowsky.tumblr.com/rss
-http://www.yudkowsky.net/feeds/essays.atom
 https://longtermrisk.org/feed/
 https://casparoesterheld.com/feed/
 http://www.simonknutsson.com/feed/
