@@ -24,6 +24,7 @@ https://www.greaterwrong.com/users/richard_reitz?format=rss
 https://www.greaterwrong.com/users/daozaich?format=rss
 https://www.greaterwrong.com/users/lukeprog?format=rss
 https://www.greaterwrong.com/users/sdm?format=rss
+https://www.greaterwrong.com/users/sawyer?format=rss
 https://lw2.issarice.com/users/orthonormal?format=rss
 https://lw2.issarice.com/users/jsalvati?format=rss
 https://lw2.issarice.com/users/jsalvatier?format=rss
