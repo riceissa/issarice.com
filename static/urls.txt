@@ -1,4 +1,5 @@
 https://issarice.com/atom.xml
+https://clearerthinkingpodcast.com/rss.xml
 https://www.econlib.org/author/bcaplan/feed/
 https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
 http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
