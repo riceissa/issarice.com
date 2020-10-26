@@ -15,7 +15,7 @@ I wonder what the reasons are for this. Some ideas I can think of are:
 * He doesn't seem to do a lot of self-promotion.
 * He seems like a "quiet nerd" based on [this post](http://lesswrong.com/lw/66y/what_do_bad_clothes_signal_about_you/) about fashion. But isn't this true for many other people popular in EA?
 * His anti-academia bent. He doesn't really write papers. (Even though he has an [impressive list](https://timelines.issarice.com/wiki/Timeline_of_Wei_Dai_publications) of online output.)
-* He does not comment on Facebook very much.
+* He does not comment on Facebook very much. (Edit: this is now changing...)
 * Maybe it's not so surprising that people aren't so enthusiastic about any particular person. There are probably other people who are like this that even I am not paying attention to.
 * I'm wrong about one of my assumptions (that Wei's writings are relevant, or that EAs aren't paying attention).
 
