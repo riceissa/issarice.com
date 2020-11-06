@@ -108,3 +108,4 @@ https://xenaproject.wordpress.com/feed/
 https://hnrss.org/threads?id=jblow
 http://grognor.blogspot.com/feeds/comments/default
 https://ea.greaterwrong.com/users/rajlego?format=rss
+https://stephenmalina.com/index.xml
