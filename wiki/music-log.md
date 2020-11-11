@@ -393,6 +393,10 @@ The Pillows:
 
 * Jon Brion: "He Needs Me" (_Punch-Drunk Love_ OST)
 
+# November 2020
+
+* 港が見える丘 (I like the version sung by 平野愛子 best)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
