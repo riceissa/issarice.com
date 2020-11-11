@@ -123,6 +123,10 @@ exist.
   networks to _Chris Olah_; maybe Pearl's causality).  I'm not sure to
   what extent his "being ahead" is a result of his own initiative vs simply
   being plugged into the right networks of people.
+- David D. Friedman: I haven't read too much by him, so I'm not sure how I
+  would rank his general worldviews or reasoning ability (also his writings are
+  concentrated in economics/libertarianism/social sciences), but he has lots of
+  good ideas.
 
 # Interesting tier
 
@@ -146,10 +150,6 @@ to list and I'm sure you can find them without my help).
 - [Jeff Hays](http://factsanddetails.com/)
 - Zack M. Davis: via rationality community.
 - Piotr Wozniak: via spaced repetition/[Anki]() stuff (which in turn is from LW/gwern).
-- David D. Friedman: I haven't read too much by him, so I'm not sure how I
-  would rank his general worldviews or reasoning ability, but I have seen
-  enough interesting things by him that I think looking into him is a good
-  idea (and hope to undertake this task myself soon!).
 - Alex K. Chen: via Vipul Naik.
 - Chris Olah
 - [Mark Lippmann](https://meditationstuff.wordpress.com/). I do not meditate. This is the only meditation blog I enjoy reading.
