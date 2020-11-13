@@ -3,7 +3,6 @@ title: Project ideas
 author: Issa Rice
 created: 2017-11-20
 date: 2018-03-05
-bigtable: no
 # documentkind:
 # status:
 # belief:

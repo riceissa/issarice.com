@@ -34,11 +34,23 @@ div.sourceLine { display:inline-block; }
 
 main, footer {
     line-height: 1.4;
-    margin: auto;
-    max-width: 35rem;
     text-align: left;
-    width: 93%;
     word-wrap: break-word;
+
+    /* Full bleed layout modified from https://joshwcomeau.com/css/full-bleed/ */
+    display: grid;
+    grid-template-columns:
+      1fr
+      min(35rem, 100%)
+      1fr;
+}
+
+main > *, footer > * {
+    grid-column: 2;
+}
+.full-bleed {
+    width: 100%;
+    grid-column: 1 / 4;
 }
 
 nav#site_navigation {

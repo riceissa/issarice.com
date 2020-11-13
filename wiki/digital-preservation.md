@@ -3,7 +3,6 @@ title: Digital preservation
 author: Issa Rice
 created: 2015-01-01
 date: 2016-11-03
-bigtable: true
 ---
 
 For now, this will be somewhat of a  backup of my [Quora blog on the topic](https://www.quora.com/Issa-Rice/Data-Archiving), which is now not being maintained.
@@ -62,6 +61,9 @@ Raw
     browser represents the page as a DOM(?); effects of client-side scripting
     are not present(?).
 
+
+::: full-bleed
+
 |Strategy|Type|Browser support|Completeness|Appearance|Speed|Coverage of external resources|Automated?|Pages that require authentication?|
 |:-------|:---|:--------------|:-----------|:---------|:----|:-----------------------------|:---------|:---------------------------------|
 |wget/curl|External|Works for all browsers because downloads happen outside of the browser|Difficulty downloading sites that require JavaScript|Possibly bad|Fast, but requires downloading content twice (because it runs outside of the browser)|Yes|Yes, it's pretty easy to set up a pipeline to export browser history and automatically fetch the URLs|Yes, if cookies are exported|
@@ -75,6 +77,8 @@ Raw
 |[WarcProxy][warcproxy]|Raw?|Works via HTTP proxy, so supports any browser|[Apparently good][wp_comp]|[Apparently good][wp_comp]|
 |[Squid][squid]|Raw|
 |Browser cache|Raw?|Each browser maintains its own cache|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser|Depends on implementation by browser| |Yes, since the browser controls it|
+
+:::
 
 # Source HTML vs generated HTML
 
