@@ -53,6 +53,11 @@ main > *, footer > * {
     grid-column: 1 / 4;
 }
 
+/* For some reason switching to full-bleed in https://github.com/riceissa/issarice.com/commit/ca0798004bedc17cc9b099acfc54d7c1ffcbf356 has made the whitespace between paragraphs very large, so here's a hack to fix that */
+p, h2 {
+    margin-bottom: 0em;
+}
+
 nav#site_navigation {
     font-family: Lato, Helvetica, sans-serif;
     font-size: 80%;
