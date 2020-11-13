@@ -12,7 +12,6 @@ cat << EOF
 ---
 title: All pages
 created: 2017-11-11
-bigtable: true
 ---
 
 This is a list of all pages on this site ordered by the "last substantive
@@ -20,6 +19,8 @@ revision" date. The "last modified" date comes from version control
 ([Git](git)) and takes into account even insubstantial edits.
 
 # Table
+
+::: full-bleed
 
 |Title|Last substantive revision|Last modified|Created|Belief|Completion status|
 |------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
@@ -45,6 +46,8 @@ git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
     sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]*\)\t\([^\t]*\)\t\([^\t]*\)/|[\3](\4)|\1|\2|\5|\6|\7|/p'
 
 cat <<EOF
+
+:::
 
 # See also
 
