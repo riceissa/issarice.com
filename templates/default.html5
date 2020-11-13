@@ -181,11 +181,9 @@ $endif$
 
 <script>
   document.getElementById('changeThemeMenu').style.display='inline';
-$if(bigtable)$
   $$(function(){
     $$("table").tablesorter();
   });
-$endif$
   anchors.add();
 </script>
 </body>
