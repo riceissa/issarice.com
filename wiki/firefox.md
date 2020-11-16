@@ -17,6 +17,10 @@ but find its address bar more useful.
 - Decentraleyes
 - Don't track me Google (this removes link conversion on google search result pages, so that right-clicking on a search result will give the actual URL, rather than google's obfuscated URL)
 - Make Medium Readable Again
+- Nitter Redirect
+- Save To The Wayback Machine
+- SingleFile
+- uBlacklist: custom domain blacklist for Google search results
 - uBlock Origin
 - uMatrix
 - Web Developer (for viewing the generated HTML source)
