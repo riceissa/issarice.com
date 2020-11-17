@@ -15,3 +15,9 @@ I have been interested in Haskell for a long time but have not managed to really
 In late 2017, I read a [Quora answer by Tikhon Jelvis](https://www.quora.com/What-is-your-review-of-Learn-You-a-Haskell-2011-book/answer/Tikhon-Jelvis) that mentioned *Haskell Programming from first principles* by Christopher Allen and Julie Moronuki. This is a book that did not exist when I first became interested in Haskell, so I was curious to see what it was like. After working through the first few chapters, I was impressed with the authors' attention to pedagogy. Looking around, I found Christopher Allen's post ["Functional Education"](http://bitemyapp.com/posts/2014-12-31-functional-education.html "“bitemyapp - Functional Education”. Retrieved December 26, 2017."), which criticizes a lot of existing Haskell tutorials including the two that I had tried. Seeing the rejection of the tutorials that I had found lacking felt validating (here is somebody who had invested a lot of time thinking hard about teaching Haskell, and he agreed with my thoughts on other Haskell learning material! I wasn't just stupid or "mathematically immature" after all!), and I was further motivated to give Haskell another chance.
 
 As of late December 2017, I am about half way through *Haskell Programming*, working on it in part of my after-work hours. It may be too early to say, but I am quite impressed with this book. It makes me think thoughts like "why can't *every* subject have materials this clear?"
+
+
+In November 2020 I started regularly solving problems on
+[Codewars](https://www.codewars.com/users/riceissa). I find the combination of
+easy problems + answer checking + ability to see better solutions by others to
+be pretty addicting, but time will tell whether I continue with it.
