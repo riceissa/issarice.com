@@ -17,6 +17,7 @@ When listing people on this page, what I care about most are:
 - ability to generate interesting ideas
 - ability to reach the right conclusions ([sanity, not intelligence](https://www.greaterwrong.com/posts/GfHdNfqxe3cSCfpHL/the-absent-minded-driver/comment/mxGKrM6nYGGPs4nhG), though intelligence definitely helps) in complicated and confusing debates
 - intensity of personality: whether they seem to actually project a distinct personality, whether I can in good conscience call them a _playable character_
+- formidability/hardcoreness: Not sure how to describe this, but being good at whatever it is that you decide to focus on, and really caring about it enough to do better than others and develop your own way of doing things and looking at things
 - ability to identify and not-generate bullshit
 - general alignment/orientation toward the [important things in life](http://lesswrong.com/lw/khf/six_plausible_metaethical_alternatives/)
 
