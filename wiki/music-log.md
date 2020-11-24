@@ -396,6 +396,7 @@ The Pillows:
 # November 2020
 
 * 港が見える丘 (I like the version sung by 平野愛子 best)
+* Rinocerose: "Machine Pour Les Oreilles"
 
 # History
 
