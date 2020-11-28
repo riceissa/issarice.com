@@ -179,7 +179,9 @@ to list and I'm sure you can find them without my help).
   I don't think Jonathan Blow is too smart or anything---he is definitely below elite EAs in terms of worldview accuracy, for instance. But I think Blow has certain admirable qualities that rationalists and EAs seem to almost uniformly lack. If I had to name what those things are, it would be something like:
   the ability to keep your eyes on what matters the most,
   finishing difficult projects no matter what,
-  intelligent warmth and care toward beginners (e.g. the mere fact that he livestreams so often and engages with people in the Twitch chat!),
+  intelligent warmth and care toward beginners (what do I mean by this?
+    (a) I think many people who are labeled "nice" or "friendly" go about it in a kind of dumb way, where they repeat platitudes/white lies/avoid making important criticisms, etc. Blow does not do any of this.
+    (b) he is receptive to questions from beginners, e.g. the mere fact that he livestreams so often and engages with people in the Twitch chat!),
   some sort of reflective self-appreciating-ness or self-respect (not in the lame "you have to love yourself" sense, but actually becoming someone worth loving and just letting the self-appreciation happen),
   having balls/having "skin in the game" (e.g. dropping out of university despite *not* yet having incredible-and-legible success, using all of the money earned from *Braid* to make *The Witness*),
   not being a cuck,
