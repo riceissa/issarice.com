@@ -33,4 +33,6 @@ https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-
 I'm not sure I agree with this. Even within the boundary of a cause area like AI safety, it seems worth spending a lot of time to carefully choose which technical agenda to work on, for example (one shouldn't just say "i have a comparative advantage at machine learning" and decide to work on ML safety)
 Buck makes the point again in https://eaforum.issarice.com/posts/tM8nfmxJshRwxchpz/if-causes-differ-astronomically-in-cost-effectiveness-then#jioBt537xap332wjg
 
+it seems like what actually matters is producing a list of individual tasks ranked by how effective they are. keeping track of cause areas seems mostly useful only to be able to collaborate with others (i.e. others in your same cause area will e.g. be able to give better object level feedback)
+
 see paper notebook from 2019-02-23 for my original thinking.
