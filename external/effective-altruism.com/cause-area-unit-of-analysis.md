@@ -31,5 +31,6 @@ you might think AI safety is super valuable, but if you have more refined opinio
 there is buck's idea that the reason "cause area" is a useful unit is that _within_ this boundary, what matters most is your comparative advantage, but outside this boundary what matters isn't your comparative advantage.
 https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA
 I'm not sure I agree with this. Even within the boundary of a cause area like AI safety, it seems worth spending a lot of time to carefully choose which technical agenda to work on, for example (one shouldn't just say "i have a comparative advantage at machine learning" and decide to work on ML safety)
+Buck makes the point again in https://eaforum.issarice.com/posts/tM8nfmxJshRwxchpz/if-causes-differ-astronomically-in-cost-effectiveness-then#jioBt537xap332wjg
 
 see paper notebook from 2019-02-23 for my original thinking.
