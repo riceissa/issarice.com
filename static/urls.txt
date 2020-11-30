@@ -25,6 +25,7 @@ https://www.greaterwrong.com/users/scott-garrabrant?format=rss
 https://www.greaterwrong.com/users/jessica-liu-taylor?format=rss
 https://www.greaterwrong.com/users/lanrian?format=rss
 https://ea.greaterwrong.com/users/lanrian?format=rss
+https://ea.greaterwrong.com/users/lukas_finnveden?format=rss
 https://www.greaterwrong.com/users/richard_reitz?format=rss
 https://www.greaterwrong.com/users/daozaich?format=rss
 https://www.greaterwrong.com/users/lukeprog?format=rss
