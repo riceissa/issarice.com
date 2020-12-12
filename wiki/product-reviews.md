@@ -26,14 +26,17 @@ product.
 wish more people would write this kind of page: product reviews and
 ratings on purchasing sites like Amazon and on discussion sites like
 Reddit seem unreliable because as soon as it becomes common for people
-to do research on these sites, product sellers will try to game them by
-inserting fake reviews or paying people to write favorable reviews.
+to do research on these sites, product sellers will try to game them
+by inserting fake reviews or paying people to write favorable reviews.
 Review sites using affiliate links also seem sketchy to me (it seems
 like any purchase is a good one, so there isn't much incentive to get
-people to buy the right things, and there is also an incentive to get people to buy _more_ things in general). Decentralized product reviews on
-small personal websites seem much harder to game, and I get to look at
-the reviewer's general personality and writing along with the product
-reviews.
+people to buy the right things, and there is also an incentive to get
+people to buy _more_ things in general). Even something like Facebook
+can be a problem (if product companies can pay to have the newsfeed
+algorithm show positive reviews of itself and negative reviews of
+competitors). Decentralized product reviews on small personal websites
+seem much harder to game, and I get to look at the reviewer's general
+personality and writing along with the product reviews.
 
 # Linode (web hosting)
 
