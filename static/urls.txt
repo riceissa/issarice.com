@@ -1,4 +1,5 @@
 https://issarice.com/atom.xml
+https://eastmanreference.com/rss
 https://clearerthinkingpodcast.com/rss.xml
 https://worldspiritsockpuppet.com/feed.xml
 https://www.econlib.org/author/bcaplan/feed/
