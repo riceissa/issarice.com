@@ -85,6 +85,14 @@ GitHub). Also the keyboard I bought for the tablet was pretty crappy
 and unpleasant to type on. After a few quarters of this setup, I gave
 up and just bought a laptop (the X220; see below).
 
+The tablet itself works well, except that it keeps getting slower and
+slower as apps get updated (and of course apps like Messenger force
+you to update in order to continue using them at all, so there is no
+choice to stick with the old version).
+
+As of December 2020, I still use this tablet for video calls, since my
+X220 does not have a camera.
+
 # Lenovo ThinkPad X220
 
 Purchased on eBay in 2015.
