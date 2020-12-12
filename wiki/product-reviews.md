@@ -27,9 +27,10 @@ Purchased via Amazon in January 2020: <https://www.amazon.com/gp/product/B007B5S
 
 I knew for a long time that my X220 could be upgraded to 16GB of RAM,
 but I was too lazy to actually do the research to find the compatible
-RAM and buy it and look up how to insert it. Well, I finally got fed
-up with the 4GB RAM after five years or so of use, and bought these
-sticks.
+RAM and buy it and look up how to insert it (partly because I was
+wondering if I should just get a new laptop instead of going through
+with the memory upgrade). Well, I finally got fed up with the 4GB RAM
+after five years or so of use, and bought these sticks.
 
 I am very happy with this purchase. Insertion into the X220 was very
 simple (I just watched a couple of tutorials on YouTube), and the RAM
