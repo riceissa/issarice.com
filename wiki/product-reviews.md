@@ -8,6 +8,10 @@ date: 2020-12-12
 This is an incomplete list of products I have bought along with what I
 thought of the purchase.
 
+I don't use affiliate links, am not getting paid in any way to write
+these reviews, am not affiliated with any of the brands or product
+sellers, etc. These reviews are just my opinion as a consumer.
+
 # Lenovo ThinkPad X220
 
 Purchased on eBay in 2015.
