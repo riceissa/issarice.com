@@ -45,6 +45,9 @@ Started using around November 2014.
 I use Linode for [hosting this website](colophon) (and some other
 websites as well).
 
+If I recall correctly, I chose Linode because [Vipul
+Naik](https://vipulnaik.com/) uses it for his websites.
+
 I've been happy with Linode; it does everything I need.
 
 Sometime around 2018 or so, Linode switched the dashboard to a "modern
@@ -56,13 +59,38 @@ of a problem.
 
 Started using around November 2014.
 
+If I recall correctly, I asked my father for recommendations, and he
+asked some coworkers, one of whom suggested Hover.
+
 It does everything I need (which isn't much, since I just manage a
 handful of websites) and does it without causing me any pain, so I am
 happy with it.
 
+# Nexus 7 tablet (2013 version)
+
+Purchased in late 2014 or early 2015, I believe at some store like
+Best Buy.
+
+I bought this tablet for college; my plan was to have a desktop
+computer in my dorm room and to carry around the tablet with me. The
+hope was that the tablet would be able to do everything I wanted to do
+in lectures while being lighter to carry than a laptop, and that I
+could do more "real work" on the desktop in my room. This turned out
+to be not such a good idea. For some CS courses, having a real
+programming environment was pretty important, so the tablet was
+inadequate for lectures. I also frequently went home on the weekends,
+so not being able to carry the desktop computer home was also annoying
+(I had a separate computer at home and would sync coursework using
+GitHub). Also the keyboard I bought for the tablet was pretty crappy
+and unpleasant to type on. After a few quarters of this setup, I gave
+up and just bought a laptop (the X220; see below).
+
 # Lenovo ThinkPad X220
 
 Purchased on eBay in 2015.
+
+I didn't do much research for this laptop. I remember asking some
+friends for recommendations, and two of them suggested the X220.
 
 This laptop is still working fine after five years of use. Overall I
 am happy with it, though I wish I had done more research when buying
