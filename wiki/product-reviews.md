@@ -13,7 +13,7 @@ these reviews, am not affiliated with any of the brands or product
 sellers, etc. These reviews are just my opinion as a consumer.
 
 I don't use any ratings for the reviews below, for three reasons: (1)
-in many cases have not used any other products in the same reference
+in many cases I have not used any other products in the same reference
 class, so I have nothing else to use for comparison; (2) I often have
 idiosyncratic preferences so I don't want my rating to feel like a
 universal judgment on the product as a whole; (3) sometimes when I buy
@@ -34,6 +34,28 @@ people to buy the right things, and there is also an incentive to get people to 
 small personal websites seem much harder to game, and I get to look at
 the reviewer's general personality and writing along with the product
 reviews.
+
+# Linode (web hosting)
+
+Started using around November 2014.
+
+I use Linode for [hosting this website](colophon) (and some other
+websites as well).
+
+I've been happy with Linode; it does everything I need.
+
+Sometime around 2018 or so, Linode switched the dashboard to a "modern
+web design" one full of JavaScript. I would have preferred to stick
+with the old dashboard, but since I rarely sign in it's not too much
+of a problem.
+
+# Hover (domain names)
+
+Started using around November 2014.
+
+It does everything I need (which isn't much, since I just manage a
+handful of websites) and does it without causing me any pain, so I am
+happy with it.
 
 # Lenovo ThinkPad X220
 
