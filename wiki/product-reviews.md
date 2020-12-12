@@ -16,7 +16,7 @@ sellers, etc. These reviews are just my opinion as a consumer.
 wish more people would write this kind of page: product reviews and
 ratings on purchasing sites like Amazon and on discussion sites like
 Reddit seem unreliable because as soon as it becomes common for people
-to do research on these sites, product sellers will try to game it by
+to do research on these sites, product sellers will try to game them by
 inserting fake reviews or paying people to write favorable reviews.
 Review sites using affiliate links also seem sketchy to me (it seems
 like any purchase is a good one, so there isn't much incentive to get
