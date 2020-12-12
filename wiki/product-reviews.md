@@ -20,7 +20,7 @@ to do research on these sites, product sellers will try to game them by
 inserting fake reviews or paying people to write favorable reviews.
 Review sites using affiliate links also seem sketchy to me (it seems
 like any purchase is a good one, so there isn't much incentive to get
-people to buy the right things). Decentralized product reviews on
+people to buy the right things, and there is also an incentive to get people to buy _more_ things in general). Decentralized product reviews on
 small personal websites seem much harder to game, and I get to look at
 the reviewer's general personality and writing along with the product
 reviews.
