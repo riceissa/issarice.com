@@ -12,6 +12,16 @@ I don't use affiliate links, am not getting paid in any way to write
 these reviews, am not affiliated with any of the brands or product
 sellers, etc. These reviews are just my opinion as a consumer.
 
+I don't use any ratings for the reviews below, for three reasons: (1)
+in many cases have not used any other products in the same reference
+class, so I have nothing else to use for comparison; (2) I often have
+idiosyncratic preferences so I don't want my rating to feel like a
+universal judgment on the product as a whole; (3) sometimes when I buy
+something I don't like, it's mostly my fault because I didn't do
+enough research and bought something that I should have known I
+wouldn't like, and it feels unfair to frame this as a rating of the
+product.
+
 (Haven't thought about this much, so I could be totally wrong, but) I
 wish more people would write this kind of page: product reviews and
 ratings on purchasing sites like Amazon and on discussion sites like
