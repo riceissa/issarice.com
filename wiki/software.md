@@ -13,7 +13,7 @@ This page is a placeholder for now.
   run them under an incognito Chrome window, rather than manually enabling a
   bunch of domains on NoScript or uMatrix.)
   I still use Firefox and like Firefox's handling of browsing history better (Chrome seems to have a short memory, and many things don't show up when I type it in the address bar).
-- [Vim]() (mostly Neovim since about July or August 2020) with various plugins for most text editing.
+- [Vim]() (mostly Neovim since about July or August 2020) with [various plugins](https://github.com/riceissa/dotfiles/blob/master/.vimrc#L8-L41) for most text editing.
 - [Git]()
 - Anki for spaced repetition
 - [ELinks](), Links, or Lynx for lightweight browsing depending on what I want.
@@ -25,7 +25,7 @@ This page is a placeholder for now.
 - [Music On Console]() (MOC) for music
 - [Newsbeuter]() (actually called Newsboat now)
 - Ubuntu on laptop, and Ubuntu and Debian on server
-- MATE as a desktop environment
+- MATE as a desktop environment (MATE color selection tool is surprisingly useful)
 - KeePassX
 - Bash for my shell
 - Pandoc
@@ -56,6 +56,7 @@ This page is a placeholder for now.
 - Telegram desktop app -- I tried signing up via the web app but it didn't work so I installed the desktop app. Now that I have an account though, I could probably get away with using the web app.
 - Redshift
 - Tux Paint to make drawings for my [Tao Analysis Solutions](https://taoanalysis.wordpress.com/) blog
+- Emacs+mozc for Japanese input
 
 Programs in trial mode:
 
