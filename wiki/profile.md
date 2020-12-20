@@ -32,6 +32,19 @@ Taken on 2018-02-05; [test link](https://openpsychometrics.org/tests/DASS/).
 I think the results here are unusually low because I've managed to block off
 most of my stressors.
 
+On 2020-12-19, I took the test at [this link](https://www.psytoolkit.org/survey-library/depression-anxiety-stress-dass.html) (the other test from 2018 didn't exist anymore).
+My result is as follows:
+
+> Your score on the DASS scale is as follows:
+>
+> Depression: 12.0
+>
+> Anxiety: 10.0
+>
+> Stress: 8.0
+>
+> Note: Scores on each scale can run from 0 to 56.
+
 ## Nerdy Personality Attributes Scale
 
 Taken on 2018-02-06; [test link](https://openpsychometrics.org/tests/NPAS/).
