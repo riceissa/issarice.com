@@ -130,6 +130,18 @@ On 2020-08-09 I took [this test](https://www.insideprison.com/article_assessment
 > Scores of 11 usually indicate no evidence of schizotypy. At least 90% of
 > test-takers score in this range or lower.
 
+## Wisconsin Card Sorting Test
+
+On 2020-12-19, I took [this test](https://www.psytoolkit.org/experiment-library/experiment_wcst.html), which is an implementation of the [Wisconsin Card Sorting Test](https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test).
+My result is as follows:
+
+> Feedback on your WCST performance \
+> (Note: There were in total 60 trials)
+>
+> Error count: 8 (13%) \
+> Perseveration error count: 6 (10%) \
+> Non-perseveration error count: 2 (3%)
+
 # Morals
 
 [to be added]

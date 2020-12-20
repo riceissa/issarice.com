@@ -66,6 +66,7 @@ Programs in trial mode:
 
 - [Colophon]()
 - [Account names](account-names), for SaaS
+- [Firefox]() for my Firefox plugins
 
 # External links
 
