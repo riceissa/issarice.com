@@ -37,11 +37,11 @@ My result is as follows:
 
 > Your score on the DASS scale is as follows:
 >
-> Depression: 12.0
+> Depression: 12.0 [Mild]
 >
-> Anxiety: 10.0
+> Anxiety: 10.0 [Moderate]
 >
-> Stress: 8.0
+> Stress: 8.0 [Normal]
 >
 > Note: Scores on each scale can run from 0 to 56.
 
