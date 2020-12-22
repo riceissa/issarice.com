@@ -398,6 +398,10 @@ The Pillows:
 * 港が見える丘 (I like the version sung by 平野愛子 best)
 * Rinocerose: "Machine Pour Les Oreilles"
 
+# December 2020
+
+* "Lullaby Set" from the _Braid_ soundtrack
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
