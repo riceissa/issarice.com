@@ -61,6 +61,9 @@ This page is a placeholder for now.
 Programs in trial mode:
 
 - arbtt
+- ripgrep
+- broot
+- fdfind
 
 # See also
 
