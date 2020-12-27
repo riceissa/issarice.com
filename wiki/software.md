@@ -64,6 +64,7 @@ Programs in trial mode:
 - ripgrep
 - broot
 - fdfind
+- kitty (terminal emulator)
 
 # See also
 
