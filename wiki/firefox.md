@@ -18,8 +18,10 @@ but find its address bar more useful.
 - Don't track me Google (this removes link conversion on google search result pages, so that right-clicking on a search result will give the actual URL, rather than google's obfuscated URL)
 - Make Medium Readable Again
 - Nitter Redirect
+- Read Aloud: A Text to Speech Voice Reader
 - Save To The Wayback Machine
 - SingleFile
+- Tampermonkey
 - uBlacklist: custom domain blacklist for Google search results
 - uBlock Origin
 - uMatrix
