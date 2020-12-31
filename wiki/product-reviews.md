@@ -108,6 +108,25 @@ am happy with it, though I wish I had done more research when buying
 it; mine came without a camera, which is finally turning out to be a
 big problem in the COVID era.
 
+# Sennheiser MB 660 headphones
+
+I got these as a gift and started using them because my old Sony
+headphones were falling apart (the cover on the right earmuff had torn
+at the seams so that the yellow sponge underneath was showing). I
+therefore did not do any research prior to getting these, and can't
+say whether the quality is worth the price since I did not pay for
+this product.
+
+I am satisfied with this product. Compared to my old headphones, my
+entire ear fits under the earmuff (rather than pressing against my
+ear) so my ears don't get sore from wearing them for long periods of
+time. I still prefer listening to things with speakers, but it's often
+not possible to that (e.g. during video calls or in noisy
+environments).
+
+I've never used the active noise canceling or bluetooth features of
+these headphones, so I can't comment on how well these work.
+
 # Crucial 16GB Kit (8GBx2) DDR3/DDR3L 1600 MT/S (PC3-12800) Unbuffered SODIMM 204-Pin Memory - CT2KIT102464BF160B
 
 Purchased via Amazon in January 2020: <https://www.amazon.com/gp/product/B007B5S52C/>
