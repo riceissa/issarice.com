@@ -121,7 +121,7 @@ I am satisfied with this product. Compared to my old headphones, my
 entire ear fits under the earmuff (rather than pressing against my
 ear) so my ears don't get sore from wearing them for long periods of
 time. I still prefer listening to things with speakers, but it's often
-not possible to that (e.g. during video calls or in noisy
+not possible to do that (e.g. during video calls or in noisy
 environments).
 
 I've never used the active noise canceling or bluetooth features of
