@@ -108,6 +108,16 @@ am happy with it, though I wish I had done more research when buying
 it; mine came without a camera, which is finally turning out to be a
 big problem in the COVID era.
 
+# Sony MDR-XB450 (white) headphones
+
+I got these as a hand-me-down from someone after they got new
+headphones. They worked fine for my use case (listening to music
+occasionally when I couldn't use speakers), but I found them
+uncomfortable to wear for long periods since the earmuff are not large
+enough to cover my entire ear, so that they would press against them.
+After a year or two of use, the right earmuff tore at the seams,
+showing the yellow sponge underneath.
+
 # Sennheiser MB 660 headphones
 
 I got these as a gift and started using them because my old Sony
