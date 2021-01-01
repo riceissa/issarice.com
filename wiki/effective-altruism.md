@@ -49,16 +49,16 @@ including infrastructure and economic growth.
 My thoughts on the EA movement have gone through several revisions over
 the years.
 
-Initially, probably during **2011--2013**, EA was merely a curiosity and I
+<span id="2011-2013"></span>Initially, probably during **2011--2013**, EA was merely a curiosity and I
 was either a person who had only heard about it or at most a "lurker".
 (I was more interested in LessWrong/rationality than helping the world
 specifically.)
 
-The next phase, during **2014--2015**, is when I became most excited
+<span id="2014-2015"></span>The next phase, during **2014--2015**, is when I became most excited
 about EA, attending meetups and consuming a lot of the "standard"
 texts and learning the standard arguments in the movement.
 
-The next phase, during **2016** or so, is when my view of EA became
+<span id="2016"></span>The next phase, during **2016** or so, is when my view of EA became
 more refined and somewhat negative. I started to think that while the
 movement had a lot of interesting people associated with it, the
 _most_ interesting/smart people tended to be on the _periphery of EA_
@@ -80,7 +80,7 @@ economics](http://econlog.econlib.org/archives/2012/08/the_subtle_valu.html)
 (and [EA might not even be as new as I used to
 think](is-effective-altruism-new)).
 
-Then, during **2017--2018**, I somewhat revised my previous thinking
+<span id="2017-2018"></span>Then, during **2017--2018**, I somewhat revised my previous thinking
 (or rather, how I felt about what I already believed). Looking outside
 of my filter bubble, I reflected more on how people outside the
 EA/rationality sphere often could not even parse basic arguments, and
@@ -95,7 +95,7 @@ cannot generate interesting ideas but where at least they could
 follow tricky arguments started to seem remarkable rather than
 disappointing.
 
-During **2019**, my feelings about effective altruism (and the rationality
+<span id="2019"></span>During **2019**, my feelings about effective altruism (and the rationality
 community) again became more negative. I can't say my beliefs are so different
 from those of the previous couple of years, but my emotions and internal
 monologue are pretty different. One aspect of this is that there were more
@@ -135,7 +135,7 @@ altruist" in the sense of "someone who spends a lot of time trying to
 figure out how to best help the world" and to interact and collaborate
 with people who do consider themselves part of the movement.
 
-**2020**: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<span id="2020"></span>**2020**: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 # See also
 
