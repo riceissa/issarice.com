@@ -89,7 +89,7 @@ In sqlite3:
   file?"](http://superuser.com/a/602274); the sqlite3 commands are from this
   answer.
 * [Google Chrome §
-  History](http://forensicswiki.org/wiki/Google_Chrome#History) on
+  History](https://forensicswiki.xyz/page/Google_Chrome#History) on
   ForensicsWiki.
 
 [epoch]: https://en.wikipedia.org/wiki/Epoch_(reference_date)
