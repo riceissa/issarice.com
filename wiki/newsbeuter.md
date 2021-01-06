@@ -4,7 +4,7 @@ author: Issa Rice
 date: 2016-10-26
 ---
 
-I use [Newsbeuter][official] to read RSS and Atom feeds.
+I use [Newsbeuter](https://web.archive.org/web/20161013081017/http://newsbeuter.org/) (now called [Newsboat](https://newsboat.org/)) to read RSS and Atom feeds.
 On a server, I have a cronjob that runs `newsbeuter -x reload`.
 This is useful for archiving some sites that I don't regularly want to read.
 On my local machine, I have a [smaller list of
@@ -28,5 +28,4 @@ Doing step (4) before step (6) is important. Otherwise, in the time between when
 * [Software]() for more about the software I use
 * [Feed]() for this site's feed and feeds for my other online activity
 
-[official]: http://newsbeuter.org/ "Newsbeuter: The Mutt of RSS Feed Readers"
 [config]: https://github.com/riceissa/dotfiles/blob/master/.newsbeuter/config
