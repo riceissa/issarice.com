@@ -47,100 +47,100 @@ Note from 2017-11-19: It seems that shortly after I created this page, GitHub
 took away the punch card graphs from repositories, so the links below to punch
 cards will not work.
 
-[Neovim](https://github.com/neovim/neovim/graphs/punch-card)
+[Neovim](https://github.com/neovim/neovim/graphs/punch-card) (link no longer works)
 (~9,000 commits):
 
 [![](punch-card-neovim-neovim.png)](punch-card-neovim-neovim.png)
 
-[Vim](https://github.com/vim/vim/graphs/punch-card)
+[Vim](https://github.com/vim/vim/graphs/punch-card) (link no longer works)
 (~7,000 commits; only Bram Moolenaar seems to have commit privileges, so this provides a
 contrast with the Neovim graph):
 
 [![](punch-card-vim-vim.png)](punch-card-vim-vim.png)
 
-[mod_pagespeed](https://github.com/pagespeed/mod_pagespeed/graphs/punch-card)
+[mod_pagespeed](https://github.com/pagespeed/mod_pagespeed/graphs/punch-card) (link no longer works)
 (~5,000 commits):
 
 [![](punch-card-pagespeed-mod_pagespeed.png)](punch-card-pagespeed-mod_pagespeed.png)
 
-[Linux kernel](https://github.com/torvalds/linux/graphs/punch-card)
+[Linux kernel](https://github.com/torvalds/linux/graphs/punch-card) (link no longer works)
 (~678,000 commits):
 
 [![](punch-card-torvalds-linux.png)](punch-card-torvalds-linux.png)
 
-[Git](https://github.com/git/git/graphs/punch-card)
+[Git](https://github.com/git/git/graphs/punch-card) (link no longer works)
 (~47,000 commits):
 
 [![](punch-card-git-git.png)](punch-card-git-git.png)
 
-[Bootstrap](https://github.com/twbs/bootstrap/graphs/punch-card)
+[Bootstrap](https://github.com/twbs/bootstrap/graphs/punch-card) (link no longer works)
 (~16,000 commits):
 
 [![](punch-card-twbs-bootstrap.png)](punch-card-twbs-bootstrap.png)
 
-[React](https://github.com/facebook/react/graphs/punch-card)
+[React](https://github.com/facebook/react/graphs/punch-card) (link no longer works)
 (~9,000 commits):
 
 [![](punch-card-facebook-react.png)](punch-card-facebook-react.png)
 
-[Redis](https://github.com/antirez/redis/graphs/punch-card)
+[Redis](https://github.com/antirez/redis/graphs/punch-card) (link no longer works)
 (~6,000 commits; Salvatore Sanfilippo's commits [dominate the repository by far](https://github.com/antirez/redis/graphs/contributors),
 and he [works on Redis as his day job][antirez], so a clear 9am--6pm "box" appears on
 weekdays):
 
 [![](punch-card-antirez-redis.png)](punch-card-antirez-redis.png)
 
-[Lua](https://github.com/lua/lua/graphs/punch-card)
+[Lua](https://github.com/lua/lua/graphs/punch-card) (link no longer works)
 (~5,000 commits):
 
 [![](punch-card-lua-lua.png)](punch-card-lua-lua.png)
 
-[Go](https://github.com/golang/go/graphs/punch-card)
+[Go](https://github.com/golang/go/graphs/punch-card) (link no longer works)
 (~33,000 commits):
 
 [![](punch-card-golang-go.png)](punch-card-golang-go.png)
 
-[Tim Pope dotfiles](https://github.com/tpope/tpope/graphs/punch-card)
+[Tim Pope dotfiles](https://github.com/tpope/tpope/graphs/punch-card) (link no longer works)
 (~900 commits):
 
 [![](punch-card-tpope-tpope.png)](punch-card-tpope-tpope.png)
 
-[Justin M. Keyes dotfiles](https://github.com/justinmk/config/graphs/punch-card)
+[Justin M. Keyes dotfiles](https://github.com/justinmk/config/graphs/punch-card) (link no longer works)
 (~900 commits):
 
 [![](punch-card-justinmk-config.png)](punch-card-justinmk-config.png)
 
-[Drew Neil dotfiles](https://github.com/nelstrom/dotfiles/graphs/punch-card)
+[Drew Neil dotfiles](https://github.com/nelstrom/dotfiles/graphs/punch-card) (link no longer works)
 (~500 commits):
 
 [![](punch-card-nelstrom-dotfiles.png)](punch-card-nelstrom-dotfiles.png)
 
-[gwern.net](https://github.com/gwern/gwern.net/graphs/punch-card)
+[gwern.net](https://github.com/gwern/gwern.net/graphs/punch-card) (link no longer works)
 (~11,000 commits):
 
 [![](punch-card-gwern-gwern-net.png)](punch-card-gwern-gwern-net.png)
 
-[Eevee's website](https://github.com/eevee/eev.ee/graphs/punch-card)
+[Eevee's website](https://github.com/eevee/eev.ee/graphs/punch-card) (link no longer works)
 (~400 commits):
 
 [![](punch-card-eevee-eev-ee.png)](punch-card-eevee-eev-ee.png)
 
-[vimtex](https://github.com/lervag/vimtex/graphs/punch-card)
+[vimtex](https://github.com/lervag/vimtex/graphs/punch-card) (link no longer works)
 (~1,700 commits):
 
 [![](punch-card-lervag-vimtex.png)](punch-card-lervag-vimtex.png)
 
-[Vipul Naik's contract work repo](https://github.com/vipulnaik/contractwork/graphs/punch-card)
+[Vipul Naik's contract work repo](https://github.com/vipulnaik/contractwork/graphs/punch-card) (link no longer works)
 (~1,000 commits):
 
 [![](punch-card-vipulnaik-contractwork.png)](punch-card-vipulnaik-contractwork.png)
 
-[Vipul Naik's working drafts](https://github.com/vipulnaik/working-drafts/graphs/punch-card)
+[Vipul Naik's working drafts](https://github.com/vipulnaik/working-drafts/graphs/punch-card) (link no longer works)
 (~1,000 commits):
 
 [![](punch-card-vipulnaik-working-drafts.png)](punch-card-vipulnaik-working-drafts.png)
 
-[Vipul Naik's donations site](https://github.com/vipulnaik/donations/graphs/punch-card)
+[Vipul Naik's donations site](https://github.com/vipulnaik/donations/graphs/punch-card) (link no longer works)
 (~300 commits):
 
 [![](punch-card-vipulnaik-donations.png)](punch-card-vipulnaik-donations.png)
