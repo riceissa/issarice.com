@@ -489,7 +489,7 @@ I learned about the GraphQL API (used on the new LessWrong 2.0 and EA Forum),
 and wrote a simple reader for both [LessWrong 2.0](https://lw2.issarice.com/)
 and [EA Forum](https://eaforum.issarice.com/). The source code is available on
 [GitHub](https://github.com/riceissa/ea-forum-reader). I am also writing a
-[tutorial](https://github.com/riceissa/ea-forum-reader/blob/master/tutorial.md)
+[tutorial](https://github.com/riceissa/ea-forum-reader/tree/master/tutorial)
 because I found the learning process pretty painful and want to help other
 people use the API.
 
