@@ -1,7 +1,7 @@
 ---
 title: Donation history
 author: Issa Rice
-date: 2019-12-23
+date: 2021-01-06
 ---
 
 My donation history begins in 2015 because that is the year during which I first started working/earning money that could be considered "my own".
@@ -19,9 +19,9 @@ I did not donate in 2016 because I am still building a financial buffer.
 
 # 2017
 
-I earned around $34,000 [ETA: this ended up being more like $37,000 due to
+I earned around \$34,000 [ETA: this ended up being more like \$37,000 due to
 tasks from 2017 being added to Vipul's Contract Work website in January--March
-2018]. This amount includes the $9,360 deferred payment from
+2018]. This amount includes the \$9,360 deferred payment from
 last year. My main source of income was [contract work][cw] for Vipul Naik. I also
 did some contract work for Peter Hurford (recorded on Vipul Naik's contract
 work site) and sold leftover bitcoin that I had (worth around $250).
@@ -47,7 +47,7 @@ to a charity of my choice.
 I decided to take up Vipul's offer this year, using both last year's and this
 year's amount (so a total of $1,000). I chose the following allocation:
 
-- $500 to Machine Intelligence Research Institute (with an additional $500 from
+- \$500 to Machine Intelligence Research Institute (with an additional $500 from
   REG's Double Up Drive). This was mostly intended as
   a [retrospective
   donation](https://causeprioritization.org/Analogs_in_the_non-profit_world_of_for-profit_ideas),
@@ -57,7 +57,7 @@ year's amount (so a total of $1,000). I chose the following allocation:
   policy](https://www.lesswrong.com/posts/a72owS5hz3acBK5xc/2018-ai-alignment-literature-review-and-charity-comparison)
   and also think that its "room for more funding" may not be as great as in the
   past (the latter is sort of hard to assess due to the former).
-- $500 to the [$500k block donor
+- \$500 to the [$500k block donor
   lottery](https://app.effectivealtruism.org/lotteries/63715163508813), hosted
   by Centre for Effective Altruism. After watching the donor lottery for the
   first two years, I felt comfortable about giving to it. The donor lottery
@@ -108,7 +108,7 @@ Low value of small marginal donations to targets I am most interested in funding
 :    I am currently most excited about funding independent AI safety
      researchers and small projects (in AI safety and some other areas). My best
      guess is that funding these individuals or projects to a point where there
-     are significant counterfactual differences requires at least around $50,000
+     are significant counterfactual differences requires at least around \$50,000
      (amount calculated based on paying one researcher who doesn't require a lot
      of money for one year). As far as I know, there isn't a simple way to
      coordinate with other people interested in funding independent researchers,
@@ -121,11 +121,9 @@ Low value of small marginal donations to targets I am most interested in funding
 
 [cw]: https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice "“Contract work by Issa Rice for Vipul Naik”."
 
-<!--
-
 # 2020
 
-- andy matuschak patreon
-- miri
+- I started giving $5 per month to Andy Matuschak's Patreon account (\$35 total over the course of the year, as I started partway through the year). While I do think this work is valuable, I started giving mostly for selfish reasons of wanting to see more of Andy's output, so I don't consider this a donation calculated to maximize impact on the world.
+- I gave \$10 total to MIRI as bounty payment (i.e. someone completed a bounty I put out, and this person requested I donate to MIRI rather than paying them).
 
--->
+Otherwise I did not donate, for basically the same reasons as 2019 (though the details have changed slightly).
