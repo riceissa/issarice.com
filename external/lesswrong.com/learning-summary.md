@@ -42,6 +42,8 @@ also in most of the studies i'm seeing they're still comparing spacing vs no spa
 https://youtu.be/7_DA-hbuafU?t=197
 anna says here that academic research is good but slow so it comes up with a single technique over some long period of time (the comparison to CFAR is that CFAR tries to do things more quickly and by mixing techniques)
 
+from a comment on [this video](https://www.youtube.com/watch?v=-TIDDKswpLM): "I was in total agreement with Andy's sentiments here. Most research papers barely move beyond memorisation of Ebbinghaus-esque nonsense syllables. The goal of this is of course understandable - to control for the confounding interference of prior knowledge and meaning, similar to how Ebbinghaus chose nonsense syllables over poem stanzas. But this insistence on scientific rigour eliminates any relation the research could have to the most interesting applications of spaced repetition: in creative domains where there MUST be rich interactions between new material and prior knowledge."
+
 TODO: copy quotes from the papers i looked at into a separate page.
 
 
