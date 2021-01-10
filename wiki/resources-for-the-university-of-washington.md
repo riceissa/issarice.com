@@ -313,7 +313,7 @@ By now Quora might be the best source for information, although I'm not really k
 
 - [The GradCafe Forums](http://forum.thegradcafe.com/)
 
-- [Jean Yang’s page](http://jeanyang.com/) (see “Considering Graduate School?” near the bottom of the page.) See also [this article](https://medium.com/p/c6162458ef83) by her about MIT.
+- [Jean Yang’s page](https://web.archive.org/web/20150202155119/http://jeanyang.com/) (see “Considering Graduate School?” near the bottom of the page.) See also [this article](https://medium.com/p/c6162458ef83) by her about MIT.
 
 - Brian Tomasik advises that [in general, one should not get a PhD](http://reducing-suffering.org/advice-students-earning-give/#In_general_Don8217t_get_a_PhD).
 He discusses computer science especially (with links to more blog posts).
