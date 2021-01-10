@@ -521,8 +521,6 @@ benefits may outweigh the costs):
 
 -   2020-05-29 (NVIM v0.4.3): in urxvt under tmux, if I open neovim and then close it, the cursor in bash starts blinking. (the cursor in urxvt is normally just a box that never blinks.)
 
--   2020-08-24: I think the popup screen when running `:FZF` looks slightly nicer in vim than on neovim.
-
 
 On the other hand, here are some things I like better in Neovim/where vim has bugs:
 
