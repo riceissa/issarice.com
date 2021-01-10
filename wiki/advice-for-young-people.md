@@ -1007,7 +1007,7 @@ opportunity cost of college.
     - ideas from *thinking, fast and slow*
     - LessWrong jargon (to some extent)
 - some math concepts (like countability) *might* be useful as well
-- [P\(HONY\)](http://dmouth.com/writing/2014/8/22/phony)
+- [P\(HONY\)](https://web.archive.org/web/20140830001350/http://dmouth.com/writing/2014/8/22/phony)
 - [Those Whom The Gods Love Grow Young: Some Notes on Wilde, Greece & Youth](http://dmouth.com/writing/2014/4/12/those-whom-the-gods-love-grow-young-some-notes-on-wilde-greece-youth)
 
 - Another thing (HT Alex again): documenting everything can be really important.
