@@ -93,6 +93,12 @@ exist.
 - Nick Bostrom
 - Robin Hanson (I think _The Elephant in the Brain_ is probably the best
   introduction to his type of thinking. I also like his old papers.)
+  _Overcoming Bias_ has some really excellent posts and introduce important concepts like
+  [automatic norms](https://www.overcomingbias.com/2017/12/10-implications-of-automatic-norms.html) and the
+  [dream time](https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html),
+  but I think the average post is not that great or useful to read.
+  I'm still trying to figure out how to find all the best OB posts (without
+  having to read all of them).
 - Katja Grace
 - Anna Salamon
 - Oliver Habryka
