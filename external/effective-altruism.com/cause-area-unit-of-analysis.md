@@ -38,3 +38,5 @@ it seems like what actually matters is producing a list of individual tasks rank
 another idea: when doing EV calculations, actions in the same cause area divide up the same "pie" whereas actions in different cause areas have different "pies" to divide up.
 
 see paper notebook from 2019-02-23 for my original thinking.
+
+also related: https://worldspiritsockpuppet.com/2021/01/17/group-scale.html
