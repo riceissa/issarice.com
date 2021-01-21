@@ -99,12 +99,14 @@ $css$
       <fieldset style="border:0;">
         <input type="hidden" name="sitesearch" value="https://issarice.com" />
         <input name="q" type="text" />
-        <input type="hidden" name="q" value="-site:timelines.issarice.com" />
+        <input type="hidden" name="q" value="-site:wiki.issarice.com" />
         <input type="hidden" name="q" value="-site:lw2.issarice.com" />
         <input type="hidden" name="q" value="-site:eaforum.issarice.com" />
+        <input type="hidden" name="q" value="-site:timelines.issarice.com" />
         <input type="hidden" name="q" value="-site:aiwatch.issarice.com" />
         <input type="hidden" name="q" value="-site:orgwatch.issarice.com" />
         <input type="hidden" name="q" value="-site:beliefs.issarice.com" />
+        <input type="hidden" name="q" value="-site:contentcreation.issarice.com" />
         <input type="submit" name="btnG" value="Search site" />
       </fieldset>
     </form>
