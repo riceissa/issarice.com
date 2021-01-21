@@ -32,6 +32,7 @@ there is buck's idea that the reason "cause area" is a useful unit is that _with
 https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA
 I'm not sure I agree with this. Even within the boundary of a cause area like AI safety, it seems worth spending a lot of time to carefully choose which technical agenda to work on, for example (one shouldn't just say "i have a comparative advantage at machine learning" and decide to work on ML safety)
 Buck makes the point again in https://eaforum.issarice.com/posts/tM8nfmxJshRwxchpz/if-causes-differ-astronomically-in-cost-effectiveness-then#jioBt537xap332wjg
+Basically another way to state my feeling is something like: "cause areas" aren't just decorations. People are actually using the concept of "cause area" to do further thinking (like in Buck's case). If the idea of a cause area is not a reliable one, then all of this further thinking is done on a shaky foundation, which seems worrying.
 
 it seems like what actually matters is producing a list of individual tasks ranked by how effective they are. keeping track of cause areas seems mostly useful only to be able to collaborate with others (i.e. others in your same cause area will e.g. be able to give better object level feedback)
 
