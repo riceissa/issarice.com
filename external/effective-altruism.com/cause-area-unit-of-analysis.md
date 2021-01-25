@@ -29,24 +29,25 @@ Why does any of this matter? Here are a couple of reasons that come to mind:
 
 - Practically, projects like Cause Prioritization Wiki, Donations List Website, and [other efforts](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates) to categorize cause areas require some organization system that makes sense.
 - From a more philosophical or emotional perspective, I feel dissatisfied with my current understanding.
-- In terms of public discourse, people are actually using the concept of "cause area" to do further thinking. If the idea of a cause area is not a reliable one, then all of this further thinking is done on a shaky foundation, which seems worrying. One example is Buck Shlegeris's [idea](https://forum.effectivealtruism.org/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA) that within a cause area what matters is comperative advantage, but . Katja's [post](https://worldspiritsockpuppet.com/2021/01/17/group-scale.html) seems to be doing a similar kind of thing.
+- In terms of public discourse, people are actually using the concept of "cause area" to do further thinking. If the idea of a cause area is not a reliable one, then all of this further thinking is done on a shaky foundation, which seems worrying. I feel like [these](https://forum.effectivealtruism.org/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models?commentId=QmNp4GfviyfjLwHEA) [two](https://forum.effectivealtruism.org/posts/tM8nfmxJshRwxchpz/if-causes-differ-astronomically-in-cost-effectiveness-then?commentId=jioBt537xap332wjg) comments by Buck Shlegeris and [this post](https://worldspiritsockpuppet.com/2021/01/17/group-scale.html) by Katja Grace are possibly doing this thing, or giving less careful thinkers the idea that this is a sound move.
 
-there is buck's idea that the reason "cause area" is a useful unit is that _within_ this boundary, what matters most is your comparative advantage, but outside this boundary what matters isn't your comparative advantage.
-https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA
-I'm not sure I agree with this. Even within the boundary of a cause area like AI safety, it seems worth spending a lot of time to carefully choose which technical agenda to work on, for example (one shouldn't just say "i have a comparative advantage at machine learning" and decide to work on ML safety)
-Buck makes the point again in https://eaforum.issarice.com/posts/tM8nfmxJshRwxchpz/if-causes-differ-astronomically-in-cost-effectiveness-then#jioBt537xap332wjg
-Basically another way to state my feeling is something like: "cause areas" aren't just decorations. 
-
+<!--
+RE buck's points in his comments:
+I'm not sure I agree with this. Even within the boundary of a cause area like AI safety,
+it seems worth spending a lot of time to carefully choose which technical agenda to work on,
+for example (one shouldn't just say "i have a comparative advantage at machine learning"
+and decide to work on ML safety)
+-->
 
 I am curious to hear people's thoughts on this. I would also appreciate pointers to existing discussions (I feel like I've been paying attention, but it seems plausible to me that I've missed some).
 
 <!--
-
 another idea: when doing EV calculations, actions in the same cause area divide up the
 same "pie" whereas actions in different cause areas have different "pies" to divide up.
+-->
 
+<!--
 see paper notebook from 2019-02-23 for my original thinking.
-
 -->
 
 *Thanks to Vipul Naik for funding part of my work on this post, and for funding my work on cause areas that led to this post. Thanks also to Edo Arad for pushing me to finish this post.*
