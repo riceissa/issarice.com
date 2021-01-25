@@ -1,6 +1,6 @@
 # Why "cause area" as the unit of analysis?
 
-Back in April 2018, I spent some time trying to understand the hierarchy/structure/classification of cause areas. I did this at the suggestion of [Vipul Naik](https://forum.effectivealtruism.org/users/vipulnaik), who wanted to (1) categorize cause areas treated on the [Cause Prioritization Wiki](https://causeprioritization.org/) so that there was more structure to it than that of a jumble of 100+ cause areas, and (2) make the analysis of cause areas more systematic.
+Back in April 2018, I spent some time trying to understand the hierarchy/structure/classification of cause areas. I did this at the suggestion of [Vipul Naik](https://forum.effectivealtruism.org/users/vipulnaik), who wanted to (1) categorize cause areas treated on the [Cause Prioritization Wiki](https://causeprioritization.org/) so that there was more structure to it than that of a jumble of 100+ cause areas, and (2) make the analysis of cause areas more systematic. (I believe he was also interested in this because the [Donations List Website](https://forum.effectivealtruism.org/posts/A7NWTjnWZPmjyLdtT/donations-list-website-tutorial-and-request-for-feedback) that he created also needed a better ontology of cause areas.)
 
 Some of the outputs of that investigation are:
 
