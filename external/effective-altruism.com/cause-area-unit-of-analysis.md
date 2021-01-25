@@ -21,18 +21,22 @@ Some thoughts/intuitions that contribute to this feeling are:
 - One way looking at cause areas might be useful is from an evaluator's perspective of "what skills/domain expertise do I need to be able to evaluate specific programs/research topics?" If skillsets tend to "unlock" a bunch of potential programs at once, then there might be a natural-seeming boundary around these programs, which might correspond to our intuitive notion of cause area. But this seems to depend on the order in which various skills are acquired. To take an extreme case, if someone had a lot of domain-specific expertise in many domains but lacked some general skill (like generalist research skills, knowledge of statistics, programming experience) then by learning the general skill they suddenly "unlock" a whole bunch of "cause areas" at once.
 - I think reductionism and "[dissolving the question](https://www.lesswrong.com/posts/Mc6QcrsbH5NRXbCRX/dissolving-the-question)" type moves have been useful in many situations, and I have a vague intuition that the notion of cause area can be reduced in some way.
 - In practice, Open Philanthropy Project (which is apparently doing cause prioritization) has fixed a list of cause areas, and is prioritizing among much more specific opportunities within those cause areas. (I'm actually less sure about this as of 2021, since Open Phil seems to have made at least one recent [hire](https://www.openphilanthropy.org/about/team/otis-reid) specifically for cause prioritization.)
+- I've noticed that as I learn more about a cause area, I get more opinionated about activities within it. So for example before one learned much about AI safety, one might think AI safety is super valuable, but as one learned more one would have more refined opinions about AI safety, thinking that some agendas are useless (or even actively harmful) and some are really useful/worth trying. A naive analysis cannot distinguish effectiveness within a cause area, and instead puts a uniform score over the whole cause area, whereas a more sophisticated analysis puts precise scores over each action within a cause area. So it feels like "cause prioritization" is just a first step, and by the end it might not even matter what cause areas are.
+
+Why does any of this matter? Here are a couple of reasons that come to mind:
+
+- Practically, projects like Cause Prioritization Wiki, Donations List Website, and [other efforts](https://forum.effectivealtruism.org/posts/SCqRu6shoa8ySvRAa/big-list-of-cause-candidates) to categorize cause areas require some organization system that makes sense.
+- From a more philosophical or emotional perspective, I feel dissatisfied with my current understanding.
+- In terms of public discourse, people are actually using the concept of "cause area" to do further thinking. If the idea of a cause area is not a reliable one, then all of this further thinking is done on a shaky foundation, which seems worrying. One example is Buck Shlegeris's [idea](https://forum.effectivealtruism.org/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA) that within a cause area what matters is comperative advantage, but 
 
 I am curious to hear people's thoughts on this. I would also appreciate pointers to existing discussions (I feel like I've been paying attention, but it seems plausible to me that I've missed some).
-
-
-you might think AI safety is super valuable, but if you have more refined opinions about ai safety, then you might think some agendas are useless and some are really useful/worth trying. a naive analysis cannot distinguish effectiveness within a cause area, so puts a uniform score over the whole cause area, whereas a more sophisticated analysis puts precise scores over each action within a cause area.
 
 
 there is buck's idea that the reason "cause area" is a useful unit is that _within_ this boundary, what matters most is your comparative advantage, but outside this boundary what matters isn't your comparative advantage.
 https://eaforum.issarice.com/posts/53JxkvQ7RKAJ4nHc4/some-thoughts-on-deference-and-inside-view-models#QmNp4GfviyfjLwHEA
 I'm not sure I agree with this. Even within the boundary of a cause area like AI safety, it seems worth spending a lot of time to carefully choose which technical agenda to work on, for example (one shouldn't just say "i have a comparative advantage at machine learning" and decide to work on ML safety)
 Buck makes the point again in https://eaforum.issarice.com/posts/tM8nfmxJshRwxchpz/if-causes-differ-astronomically-in-cost-effectiveness-then#jioBt537xap332wjg
-Basically another way to state my feeling is something like: "cause areas" aren't just decorations. People are actually using the concept of "cause area" to do further thinking (like in Buck's case). If the idea of a cause area is not a reliable one, then all of this further thinking is done on a shaky foundation, which seems worrying.
+Basically another way to state my feeling is something like: "cause areas" aren't just decorations. 
 
 it seems like what actually matters is producing a list of individual tasks ranked by how effective they are. keeping track of cause areas seems mostly useful only to be able to collaborate with others (i.e. others in your same cause area will e.g. be able to give better object level feedback)
 
