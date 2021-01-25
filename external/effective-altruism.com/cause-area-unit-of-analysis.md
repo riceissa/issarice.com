@@ -41,3 +41,5 @@ another idea: when doing EV calculations, actions in the same cause area divide 
 see paper notebook from 2019-02-23 for my original thinking.
 
 also related: https://worldspiritsockpuppet.com/2021/01/17/group-scale.html
+
+*Thanks to Vipul Naik for funding part of my work on this post, and for funding my work on cause areas that led to this post. Thanks also to Edo Arad for pushing me to finish this post.*
