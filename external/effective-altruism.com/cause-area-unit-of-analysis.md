@@ -10,7 +10,7 @@ Some of the outputs of that investigation are:
 - A [table of "form of altruism" vs "beneficiary group"](https://docs.google.com/document/d/1l22FA-QVcER1mANhs2id_fp5Sc-RlQc4etHizMoEtDw/edit) ("form of altruism" and "beneficiary group" are two of the "potential properties" in the previous list, so this table crosses these two properties, resulting in a two-dimensional grid)
 - A [generic linkdump and rambling on taxonomies](https://issarice.com/taxonomies)
 
-I came away from the above investigation feeling pretty confused about the nature of cause areas. Given just a description of reality, it didn't seem obvious to me to carve things out into "cause areas" and to take "cause area" as the basic unit of analysis/prioritization.
+I came away from the above investigation feeling pretty confused about the nature of cause areas. Given just a description of reality, it didn't seem obvious to me to carve things out into "cause areas" and to take "cause area" as the basic unit of analysis/prioritization (which is what _cause_ prioritization is all about).
 
 Some thoughts/intuitions that contribute to this feeling:
 
