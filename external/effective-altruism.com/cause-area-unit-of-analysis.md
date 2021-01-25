@@ -23,6 +23,7 @@ Some thoughts/intuitions that contribute to this feeling are:
 - In practice, Open Philanthropy Project (which is apparently doing cause prioritization) has fixed a list of cause areas, and is prioritizing among much more specific opportunities within those cause areas. (I'm actually less sure about this as of 2021, since Open Phil seems to have made at least one recent [hire](https://www.openphilanthropy.org/about/team/otis-reid) specifically for cause prioritization.)
 - I've noticed that as I learn more about a cause area, I get more opinionated about activities within it. So for example before one learned much about AI safety, one might think AI safety is super valuable, but as one learned more one would have more refined opinions about AI safety, thinking that some agendas are useless (or even actively harmful) and some are really useful/worth trying. A naive analysis cannot distinguish effectiveness within a cause area, and instead puts a uniform score over the whole cause area, whereas a more sophisticated analysis puts precise scores over each action within a cause area. So it feels like "cause prioritization" is just a first step, and by the end it might not even matter what cause areas are.
 - In [this 80,000 Hours podcast episode](https://80000hours.org/podcast/episodes/toby-ord-the-precipice-existential-risk-future-humanity/#risk-factors-011053) Toby Ord talks about the idea of risk factors, as distinguished from risks. This seems to further complicate the situation.
+- Some recent Katja Grace posts that are relevant and that make me even more confused: [Are the consequences of groups usually highly contingent on their details?](https://worldspiritsockpuppet.com/2021/01/17/group-scale.html) and [Infinite possibilities](https://worldspiritsockpuppet.com/2020/12/28/infinite-possibilities.html).
 
 Why does any of this matter? Here are a couple of reasons that come to mind:
 
@@ -43,12 +44,11 @@ it seems like what actually matters is producing a list of individual tasks rank
 
 <!--
 
-another idea: when doing EV calculations, actions in the same cause area divide up the same "pie" whereas actions in different cause areas have different "pies" to divide up.
+another idea: when doing EV calculations, actions in the same cause area divide up the
+same "pie" whereas actions in different cause areas have different "pies" to divide up.
 
 see paper notebook from 2019-02-23 for my original thinking.
 
 -->
-
-also related: https://worldspiritsockpuppet.com/2021/01/17/group-scale.html
 
 *Thanks to Vipul Naik for funding part of my work on this post, and for funding my work on cause areas that led to this post. Thanks also to Edo Arad for pushing me to finish this post.*
