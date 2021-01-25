@@ -12,7 +12,7 @@ Some of the outputs of that investigation are:
 
 I came away from the above investigation feeling pretty confused about the nature of cause areas. Given just a description of reality, it didn't seem obvious to me to carve things out into "cause areas" and to take "cause area" as the basic unit of analysis/prioritization (which is what _cause_ prioritization is all about).
 
-Some thoughts/intuitions that contribute to this feeling:
+Some thoughts/intuitions that contribute to this feeling are:
 
 - As [explained](http://www.fhi.ox.ac.uk/on-causes/) by Owen Cotton-Barratt back in 2014, there are at least two meanings of "cause area". My impression is that since then, effective altruists have not really distinguished between these different meanings, which suggests to me that some combination of the following things are happening: (1) the distinction isn't too important in practice; (2) people are using "cause area" as a shorthand for something like "the established cause areas in effective altruism, plus some extra hard-to-specify stuff"; (3) people are confused about what a "cause area" even is, but lack the metacognitive abilities to notice this.
 - A cause area can try to "seem" big or small by lumping together more and more things in the world (or alternatively excluding more things from itself). Do we compare "animal welfare improvement" against "agent foundations research", or against "technical AI safety work", or against "technical, strategy, or policy work in AI safety", or against "existential risk reduction", or against "applied mathematics related to futuristic technology"?
