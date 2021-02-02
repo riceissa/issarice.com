@@ -64,7 +64,7 @@ Programs in trial mode:
 - ripgrep
 - broot
 - fdfind
-- kitty (terminal emulator)
+- kitty (terminal emulator) -- the only annoying things so far are that when I resize the window, some gaps appear, and when I try to attach to a tmux session via ssh it fails (there's some way to fix it by copying terminfo files, but it seemed complicated so I haven't tried it yet).
 - Flameshot
 
 # See also
