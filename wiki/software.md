@@ -66,7 +66,6 @@ Programs in trial mode:
 - fdfind
 - kitty (terminal emulator)
 - Flameshot
-- fish shell
 
 # See also
 
