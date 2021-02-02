@@ -27,7 +27,7 @@ This page is a placeholder for now.
 - Ubuntu on laptop, and Ubuntu and Debian on server
 - MATE as a desktop environment (MATE color selection tool is surprisingly useful)
 - KeePassX
-- Bash for my shell
+- Bash for my shell (I've tried both zsh and fish but found them more annoying than useful. I think bash+fzf is sufficient to make the command line really pleasant to use)
 - Pandoc
 - I use a modified version of Solarized Light as a colorscheme in my terminal.
   By default, Solarized has various shades of gray in its 16-color palette,
