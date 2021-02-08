@@ -402,6 +402,13 @@ The Pillows:
 
 * "Lullaby Set" from the _Braid_ soundtrack
 
+# February 2021
+
+* Sara Bareilles:
+  * "Love Song" -- I'd known about this song for a long time, but I'm only now
+    getting around to really enjoying it.
+  * "Bottle It Up"
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
