@@ -4,15 +4,20 @@ author: Issa Rice
 date: 2020-01-15
 ---
 
-This page lists software I use or have used. I don't include web apps or plugins.
-This page is a placeholder for now.
+This page lists software that I currently use.
 
 - [tmux]()
-- Google Chrome and [Firefox]() for web browsing. These days I do most of my browsing in Chrome, because it's faster especially on JavaScript-heavy sites.
+- [Google Chrome](chrome) and [Firefox]() for web browsing. These days I try to
+  do most of my browsing in Firefox, because it does a better job of remembering
+  pages I have visited in the past, which is important for me.
+  (Chrome seems to have a short memory, and many things don't show up when I
+  type it in the address bar).
+  But Chrome is faster (especially on JavaScript-heavy sites), so I use it for
+  sites like Gmail and Facebook, and then I'm often lazy so end up following
+  links from within Chrome instead of copying the URL and visiting in Firefox.
   (For most JavaScript-heavy web apps, often the easiest way to use them is to
   run them under an incognito Chrome window, rather than manually enabling a
   bunch of domains on NoScript or uMatrix.)
-  I still use Firefox and like Firefox's handling of browsing history better (Chrome seems to have a short memory, and many things don't show up when I type it in the address bar).
 - [Vim]() (mostly Neovim since about July or August 2020) with [various plugins](https://github.com/riceissa/dotfiles/blob/master/.vimrc#L8-L41) for most text editing.
 - [Git]()
 - Anki for spaced repetition
@@ -56,6 +61,16 @@ This page is a placeholder for now.
 - Tux Paint to make drawings for my [Tao Analysis Solutions](https://taoanalysis.wordpress.com/) blog
 - Emacs+mozc for Japanese and Russian input
 - Flameshot
+- spaced inbox (written myself)
+- urlwatch
+- Steven Black's [hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) file
+
+Web apps (I'm ignoring social media and passive content consumption services like YouTube):
+
+- Gmail
+- Roam
+- Duolingo
+- WordPress
 
 Programs in trial mode:
 
