@@ -35,9 +35,7 @@ This page is a placeholder for now.
   colors with the equivalents from Tango.
   You can see the [resulting values][colors].
 - IPython (now called Jupyter Qt console)
-- rxvt-unicode a.k.a. urxvt
-  No strong preference for the most part, except that I dislike it when the
-  terminal emulator intercepts Alt key mappings, like `Alt`-`f`.
+- kitty (terminal emulator) -- the only annoying things so far are that when I resize the window, some gaps appear, and when I try to attach to a tmux session via ssh it fails (there's some way to fix it by copying terminfo files, but it seemed complicated so I haven't tried it yet).
 - PDF.js or Atril or the Chrome PDF viewer for most PDF files.
   For short PDFs, PDF.js suffices, but for longer PDFs I usually download a
   copy and read them on Atril.
@@ -57,6 +55,7 @@ This page is a placeholder for now.
 - Redshift
 - Tux Paint to make drawings for my [Tao Analysis Solutions](https://taoanalysis.wordpress.com/) blog
 - Emacs+mozc for Japanese input
+- Flameshot
 
 Programs in trial mode:
 
@@ -64,8 +63,6 @@ Programs in trial mode:
 - ripgrep
 - broot
 - fdfind
-- kitty (terminal emulator) -- the only annoying things so far are that when I resize the window, some gaps appear, and when I try to attach to a tmux session via ssh it fails (there's some way to fix it by copying terminfo files, but it seemed complicated so I haven't tried it yet).
-- Flameshot
 
 # See also
 
