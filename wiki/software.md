@@ -65,9 +65,9 @@ This page lists software that I currently use.
 - urlwatch
 - Steven Black's [hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) file
 
-Web apps (I'm ignoring social media and passive content consumption services like YouTube):
+Web apps (I'm ignoring social media, passive content consumption services like YouTube, and video conferencing apps):
 
-- Gmail
+- Gmail, Google Calendar, Google Forms
 - Roam
 - Duolingo
 - WordPress
