@@ -25,7 +25,7 @@ This page is a placeholder for now.
 - [Music On Console]() (MOC) for music
 - [Newsbeuter]() (actually called Newsboat now)
 - Ubuntu on laptop, and Ubuntu and Debian on server
-- MATE as a desktop environment (MATE color selection tool is surprisingly useful)
+- KDE Plasma as a desktop environment (I used to use MATE but tried KDE on a whim and found that it has fewer annoying bugs)
 - KeePassX
 - Bash for my shell (I've tried both zsh and fish but found them more annoying than useful. I think bash+fzf is sufficient to make the command line really pleasant to use)
 - Pandoc
