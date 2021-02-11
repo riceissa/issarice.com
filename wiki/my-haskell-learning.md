@@ -21,3 +21,6 @@ In November 2020 I started regularly solving problems on
 [Codewars](https://www.codewars.com/users/riceissa). I find the combination of
 easy problems + answer checking + ability to see better solutions by others to
 be pretty addicting, but time will tell whether I continue with it.
+
+In February 2021 I signed up for Exercism and started going through the Haskell track.
+I've found that mentor feedback makes me much more motivated to solve problems.
