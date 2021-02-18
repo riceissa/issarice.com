@@ -24,3 +24,4 @@ be pretty addicting, but time will tell whether I continue with it.
 
 In February 2021 I signed up for Exercism and started going through the Haskell track.
 I've found that mentor feedback makes me much more motivated to solve problems.
+I finished the ten core exercises during the month.
