@@ -829,7 +829,28 @@ One of the things I most wish I could go back and tell my younger self is the im
 
 Briefly, here are some principles to learning effectively (which I hope to expand on at some point):
 
-- it's easier to learn a new thing than learn a specific new thing; this is the [de re vs de dicto distinction](https://en.wikipedia.org/wiki/De_dicto_and_de_re). "it's easier to learn something (de dicto) than to learn something (de re)". (see also [this post](https://www.greaterwrong.com/posts/9EyzaH3jzH3PyQtM5/the-costs-of-reliability).)
+- it's easier to learn a new thing than learn a specific new thing; this is the
+  [de re vs de dicto distinction](https://en.wikipedia.org/wiki/De_dicto_and_de_re).
+  "it's easier to learn something (de dicto) than to learn something (de re)". (see also
+  [this post](https://www.greaterwrong.com/posts/9EyzaH3jzH3PyQtM5/the-costs-of-reliability).)
+
+  elaboration on this, copied from [here](https://github.com/riceissa/ama/issues/1):
+
+  What I meant is that I could have a mindset like "I'm going to learn linear
+  algebra this month, and will spend all my learning time on linear algebra"
+  ("learn a specific new thing", de re) or I could have a mindset like "I'm
+  going to learn some unspecified new thing each day, whatever it may be,
+  depending on what I feel curious about on each day" ("learn a new thing", de
+  dicto). I've found the latter to be much more enjoyable/easy for me.
+
+  The connection with the de re vs de dicto terminology is that if I just say
+  "Bob is going to learn something new today", it isn't immediately clear
+  whether Bob has a specific thing in mind, just like in the [Wikipedia
+  article](https://en.wikipedia.org/wiki/De_dicto_and_de_re) sentences like
+  "Peter believes someone is out to get him" or "Jana wants to marry the
+  tallest man in Fulsom County" don't make it clear whether Peter or Jana has a
+  specific someone in mind.
+
 - spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into [Anki]() is _not_ an effective way to learn. there are many pitfalls here.
 - trust your sense of boredom, but also learn to cultivate it. if you're getting bored of something, there's usually a good reason for it (e.g. material is too easy or too difficult), and you can switch to learning something else. (there are similar lessons here, e.g. in mathematics you should trust your sense of aesthetics, but also learn to develop it in response to new mathematics)
 - putting math problems into anki works well for remembering math, but there are many subtleties involved, in order to make sure you stick with it.
