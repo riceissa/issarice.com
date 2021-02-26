@@ -408,6 +408,7 @@ The Pillows:
   * "Love Song" -- I'd known about this song for a long time, but I'm only now
     getting around to really enjoying it.
   * "Bottle It Up"
+* _Braid_ soundtrack
 
 # History
 
