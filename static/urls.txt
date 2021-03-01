@@ -1,4 +1,6 @@
 https://issarice.com/atom.xml
+https://www.greaterwrong.com/tag/spaced-repetition?format=rss
+https://www.greaterwrong.com/tag/family-planning?format=rss
 https://satvikberi.com/feed
 https://ericneyman.wordpress.com/feed/
 https://us4.campaign-archive.com/feed?u=412bdf6ca38cdf29c3374de56&id=06c013e05f
