@@ -64,6 +64,7 @@ This page lists software that I currently use.
 - spaced inbox (written myself)
 - urlwatch
 - Steven Black's [hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) file
+- Xournal, for signing some contracts (Xournal allows one to draw over the PDF and then export the result as PDF)
 
 Web apps (I'm ignoring social media, passive content consumption services like YouTube, and video conferencing apps):
 
