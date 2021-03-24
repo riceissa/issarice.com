@@ -410,6 +410,10 @@ The Pillows:
   * "Bottle It Up"
 * _Braid_ soundtrack
 
+# March 2021
+
+* _Your Name_ soundtrack (especially "Dream Lantern" and "Itomori High School")
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
