@@ -108,6 +108,11 @@ am happy with it, though I wish I had done more research when buying
 it; mine came without a camera, which is finally turning out to be a
 big problem in the COVID era.
 
+In March 2021 part of the frame (bottom right of the screen near the right
+hinge) started cracking and small pieces of the black plastic frame came off.
+The laptop itself still functions fine, but I am afraid now that if I keep
+opening and closing the lid it will eventually break.
+
 # Sony MDR-XB450 (white) headphones
 
 I got these as a hand-me-down from someone after they got new
