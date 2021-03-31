@@ -147,3 +147,4 @@ I actually keep finding more and more articles from the Econlog archive that I l
 - [The Unsung](http://econlog.econlib.org/archives/2012/03/the_unsung.html)
 - [I'm Too Busy Fighting Tyranny to Feed My Family](http://econlog.econlib.org/archives/2014/01/im_too_busy_end.html)
 - [The Most I'll Admit](http://econlog.econlib.org/archives/2017/01/the_most_ill_ad.html) has the quote "My ability to discern human nobility is markedly worse than I thought in 2015. I've probably always been this bad, but 2016 helped me see my limitations clearly."
+- [Markets: Rich/Nice vs. Poor/Mean](https://www.econlib.org/archives/2010/06/markets_for_ric.html) -- I keep coming back to this post from time to time
