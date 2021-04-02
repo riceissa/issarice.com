@@ -413,6 +413,7 @@ The Pillows:
 # March 2021
 
 * _Your Name_ soundtrack (especially "Dream Lantern" and "Itomori High School")
+* Weezer's Blue Album again (this time I liked "Say It Ain't So")
 
 # History
 
