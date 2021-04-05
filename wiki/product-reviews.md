@@ -177,4 +177,6 @@ any pain when using it. The scroll wheel is also kind of too heavy for
 me. After a month or so of using it, the mouse's scroll wheel started
 to not register some scrolls; it would occasionally "skip" a scroll.
 
+The mouse also leaves black markings on my mouse pad.
+
 Overall I wish I had done more research to find a better mouse.
