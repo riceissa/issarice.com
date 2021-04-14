@@ -176,7 +176,16 @@ period though, my hand/wrist got used to it and I no longer experience
 any pain when using it. The scroll wheel is also kind of too heavy for
 me. After a month or so of using it, the mouse's scroll wheel started
 to not register some scrolls; it would occasionally "skip" a scroll.
+After a few more months, the scroll skipping problem became worse,
+and I would also get "double scrolls", where moving the mouse wheel
+by one notch would scroll the screen twice.
 
 The mouse also leaves black markings on my mouse pad.
 
 Overall I wish I had done more research to find a better mouse.
+
+# Samsung Galaxy S4 battery
+
+# HDMI to VGA adaptor
+
+# ThinkPad X1 Yoga gen 3
