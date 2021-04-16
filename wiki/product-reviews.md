@@ -186,6 +186,20 @@ Overall I wish I had done more research to find a better mouse.
 
 # Samsung Galaxy S4 battery
 
+Product link: [New OEM Samsung Galaxy S4 ACTIVE i9295 i545 B600BU 2600mAh Original S4 Battery](https://www.ebay.com/itm/New-OEM-Samsung-Galaxy-S4-ACTIVE-i9295-i545-B600BU-2600mAh-Original-S4-Battery/391273800895)
+
+Purchased via eBay in April 2021.
+
+To copy from my eBay review:
+
+> Battery charge does not last long
+>
+> The battery works as expected, but the charge only lasts about a day if I
+> leave the phone connected to WiFi, which is about the same as the 8 year old
+> battery that came with the phone (which used to hold charge for much longer).
+> It's not entirely useless, but the "New OEM" part of the product description
+> seems misleading.
+
 # HDMI to VGA adaptor
 
 # ThinkPad X1 Yoga gen 3
