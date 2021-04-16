@@ -190,6 +190,13 @@ Product link: [New OEM Samsung Galaxy S4 ACTIVE i9295 i545 B600BU 2600mAh Origin
 
 Purchased via eBay in April 2021.
 
+Since the battery was so cheap, I thought it would be worth trying even though
+I was somewhat skeptical of the product quality. The seller had 99.4% positive
+feedback and I couldn't find anything too bad about buying batteries on eBay
+online, so I went through with the purchase. It did turn out that the battery
+was low quality, but having two low quality batteries seems better than having
+just one...
+
 To copy from my eBay review:
 
 > Battery charge does not last long
@@ -201,5 +208,9 @@ To copy from my eBay review:
 > seems misleading.
 
 # HDMI to VGA adaptor
+
+Product link: [1080P HDMI Male to VGA Female Video Cable Cord Converter Adapter For PC Monitor](https://www.ebay.com/itm/1080P-HDMI-Male-to-VGA-Female-Video-Cable-Cord-Converter-Adapter-For-PC-Monitor/265064369692)
+
+Purchased from eBay in April 2021.
 
 # ThinkPad X1 Yoga gen 3
