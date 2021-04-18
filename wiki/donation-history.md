@@ -115,7 +115,7 @@ Low value of small marginal donations to targets I am most interested in funding
      so I can't just say something like "I pledge to give $1,000 to person X if
      enough other people also pledge to do the same" and have all the logistics
      taken care of. The best alternatives to do this sort of coordination to fund
-     independent researchers at the moment seem to be EA Funds's Long-Term Future
+     independent researchers at the moment seem to be EA Funds' Long-Term Future
      Fund and the EA Hotel; I think these are decent options but I prefer having
      more control over what gets funded.
 
