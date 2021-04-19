@@ -1,0 +1,200 @@
+/*
+
+This stylesheet uses colors from Solarized, whose license is reproduced below.
+
+Copyright (c) 2011 Ethan Schoonover
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+*/
+
+body {
+    background-color: #a0a0a0;
+    color: #333;
+    font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
+}
+
+div.sourceLine { display:inline-block; }
+
+main, footer {
+    background-color: #fdf6e3;
+    max-width: 41rem;
+    margin: auto;
+    padding: 50px;
+    border-radius: 9px;
+    line-height: 1.4;
+    text-align: left;
+    word-wrap: break-word;
+    margin: auto;
+    font-size: 18px;
+}
+
+nav#site_navigation {
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 80%;
+    /* See http://stackoverflow.com/a/324553 ; this ensures that the
+     navigation links (left side) and search bar (right side) play
+     nicely */
+    overflow: hidden;
+}
+
+footer { font-size: 80%; }
+
+div.page-nav { font-size: 80%; }
+dl.page-metadata { font-size: 80%; }
+
+h1 {
+    font-size: 120%;
+    text-transform: uppercase;
+}
+h2 { border-bottom: 1px solid #93a1a1; }
+h2, h3, h4, h5, h6 { font-size: 110%; }
+h1, h2, h3, h4, h5, h6 { font-family: Lato, Helvetica, sans-serif; }
+
+a { text-decoration: none; }
+a:link { color: #3855d1; }
+a:visited { color: #698255; }
+a:hover, a:active { text-decoration: underline; }
+a.anchorjs-link:hover, a.anchorjs-link:active { text-decoration: none; }
+
+blockquote {
+    border-left: 4px solid #93a1a1;
+    margin: 0px;
+    padding-left: 16px;
+}
+
+code {
+    font-family: "Ubuntu Mono", Consolas, monospace;
+    background-color: #eee8d5;
+    padding-left: 4px;
+    padding-right: 4px;
+    word-wrap: normal;
+}
+
+pre code {
+    display: block;
+    line-height: 1.2;
+    max-height: 400px;
+    overflow: auto;
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    border-bottom: 2px solid #586e75;
+    border-collapse: collapse;
+    border-top: 2px solid #586e75;
+    margin: 0px auto; /* center table */
+}
+
+table th {
+    font-weight: normal;
+    padding: 0px 10px;
+    vertical-align: bottom;
+}
+
+table td {
+    padding: 0px 10px;
+    vertical-align: top;
+
+    /* Hyphenate inside table cells;
+     * from https://justmarkup.com/log/2015/07/dealing-with-long-words-in-css/
+     */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
+table tbody tr { border-bottom: 1px dotted #ccc; }
+table thead th { border-bottom: 1px solid #586e75; }
+table tfoot th { border-top: 1px solid #586e75; }
+
+/* For pages containing at least one large table. Don't center the text so that
+ * the table doesn't look awkward. */
+body.bigtable main, body.bigtable footer {
+    max-width: none;
+    margin: 0px 40px;
+}
+body.bigtable p, body.bigtable dl, body.bigtable pre, body.bigtable h2 {
+    max-width: 35rem;
+}
+/* Due to the padding applied to list markers, these protrude unless they are a
+ * bit shorter than the other tags. */
+body.bigtable ul, body.bigtable ol {
+    max-width: 31rem;
+}
+body.bigtable footer hr {
+    margin: 0;
+    max-width: 35rem;
+}
+@media screen and (max-width: 600px) {
+    body.bigtable main, body.bigtable footer {
+        margin: 0px 20px;
+    }
+}
+
+body.wide main, body.wide footer {
+    max-width: none;
+}
+
+/*
+Colors for source code listings. See
+https://github.com/altercation/ethanschoonover.com/blob/master/resources/css/style.css
+and
+http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
+for details.
+*/
+
+.sourceCode span.kw { color: #859900; } /* Keyword */
+.sourceCode span.dt { color: #b58900; } /* Data type */
+.sourceCode span.dv { color: #2aa198; } /* Decimal value */
+.sourceCode span.bn { color: #2aa198; } /* Number in a base other than ten ("base n") */
+.sourceCode span.fl { color: #2aa198; } /* Float */
+.sourceCode span.ch { color: #859900; } /* Character */
+.sourceCode span.st { color: #2aa198; } /* String */
+.sourceCode span.co { color: #93a1a1; font-style: italic; } /* Comment */
+.sourceCode span.ot { color: #cb4b16; } /* Other (Pandoc may have gotten rid of this in later versions) */
+.sourceCode span.al { color: #dc322f; } /* Alert */
+.sourceCode span.fu { color: #268bd2; } /* Function */
+.sourceCode span.er { color: #dc322f; font-weight: bold; } /* Error */
+.sourceCode span.wa { color: #cb4b16; font-weight: italic; } /* Warning */
+.sourceCode span.cn { color: #b58900; } /* Constant */
+.sourceCode span.sc { color: #b58900; } /* Special character */
+.sourceCode span.vs { } /* Verbatim string */
+.sourceCode span.ss { } /* Special string */
+.sourceCode span.im { color: #cb4b16; } /* Import statement */
+.sourceCode span.va { } /* Variable */
+.sourceCode span.cf { color: #859900; } /* Control-flow */
+.sourceCode span.op { color: #859900; } /* Operator */
+.sourceCode span.bu { color: #268bd2; } /* Built-in function(?) */
+.sourceCode span.ex { } /* Extension */
+.sourceCode span.pp { } /* Preprocessor */
+.sourceCode span.at { } /* Attribute */
+.sourceCode span.do { } /* Documentation */
+.sourceCode span.an { } /* Annotation */
+.sourceCode span.cv { } /* Comment variable -- variables that appear in comments? */
+.sourceCode span.in { } /* Information */
+.sourceCode span.re { color: #b58900; } /* Region markers (Pandoc may have gotten rid of this in later versions) */
