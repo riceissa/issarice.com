@@ -28,6 +28,7 @@ $endif$
   <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
   <link rel="me" href="https://github.com/riceissa" />
   <link rel="me" href="https://twitter.com/riceissa" />
+  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="theme.default.css">
   <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
