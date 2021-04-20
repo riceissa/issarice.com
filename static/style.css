@@ -40,19 +40,19 @@ div.sourceLine { display:inline-block; }
 main, footer {
     line-height: 1.4;
     background-color: #fdf6e3;
-    padding: 50px;
     margin: auto;
     max-width: 41rem;
     text-align: left;
     word-wrap: break-word;
 }
 
-/* top-left top-right bottom-right bottom-left */
 main {
-    border-radius: 9px 9px 0px 0px;
+    border-radius: 9px 9px 0px 0px; /* top-left top-right bottom-right bottom-left */
+    padding: 50px 50px 25px 50px; /* top right bottom left */
 }
 footer {
-    border-radius: 0px 0px 9px 9px;
+    border-radius: 0px 0px 9px 9px; /* top-left top-right bottom-right bottom-left */
+    padding: 25px 50px 50px 50px; /* top right bottom left */
 }
 
 nav#site_navigation {
