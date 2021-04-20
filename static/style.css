@@ -37,11 +37,18 @@ main, footer {
     max-width: 41rem;
     margin: auto;
     padding: 50px;
-    border-radius: 9px;
     line-height: 1.4;
     text-align: left;
     word-wrap: break-word;
     font-size: 18px;
+}
+
+/* top-left top-right bottom-right bottom-left */
+main {
+    border-radius: 9px 9px 0px 0px;
+}
+footer {
+    border-radius: 0px 0px 9px 9px;
 }
 
 nav#site_navigation {
