@@ -69,15 +69,13 @@ $endif$
     <a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./all-pages">Newest changes</a>
-    $if(sourcefilename)$
-    | <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/$sourcefilename$">View source</a>
-    | <a href="https://github.com/riceissa/issarice.com/commits/master/$sourcefilename$">View history</a>
-    $endif$
+    <!--
     <span id="changeThemeMenu" style="display: none;">| Change
     {<a href="#" onclick="change_theme_text_width()">text width</a>,
      <a href="#" onclick="change_theme_color()">color</a>,
      <a href="#" onclick="change_theme_font_family()">font</a>,
      <a href="#" onclick="change_theme_table()" title="Changes the styling of tables (booktabs or wikitable); change is only visible on pages that have at least one table">table</a>}</span>
+    -->
   </div>
   <div style="float:right;">
     $if(show-pandoc-template-comments)$
@@ -112,6 +110,13 @@ $if(title)$
 <h1 class="title">$title$</h1>
 $if(subtitle)$
 <p class="subtitle">$subtitle$</p>
+$endif$
+
+$if(sourcefilename)$
+<div style="font-size: 80%;">
+<a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/$sourcefilename$">View source</a>
+  | <a href="https://github.com/riceissa/issarice.com/commits/master/$sourcefilename$">View history</a>
+</div>
 $endif$
 
 <dl class="page-metadata">
