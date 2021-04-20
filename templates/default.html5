@@ -146,7 +146,7 @@ $endif$
 $if(toc)$
 <nav id="$idprefix$TOC" role="doc-toc">
 $if(toc-title)$
-<h2 id="$idprefix$toc-title">$toc-title$</h2>
+<h2 id="$idprefix$TOCheading">$toc-title$</h2>
 $endif$
 $table-of-contents$
 </nav>
