@@ -58,14 +58,15 @@ footer {
 nav#site_navigation {
     font-family: Lato, Helvetica, sans-serif;
     font-size: 80%;
+    color: #ddd;
     /* See http://stackoverflow.com/a/324553 ; this ensures that the
      navigation links (left side) and search bar (right side) play
      nicely */
     overflow: hidden;
 }
 
-nav#site_navigation a:link { color: #bdd1f2; }
-nav#site_navigation a:visited { color: #bdf2c0; }
+nav#site_navigation a:link { color: #fff; }
+nav#site_navigation a:visited { color: #fff; }
 
 footer { font-size: 80%; }
 
