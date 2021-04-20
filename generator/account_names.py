@@ -24,9 +24,11 @@ print("""<meta property="og:title" content="Account names" />
   <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>""")
 
-with open("css/solarized_light.css", "r") as f:
+with open("static/style.css", "r") as f:
+    print('<style type="text/css">')
     for line in f:
         print(line, end='')
+    print('</style>')
 
 with open("css/responsive_table.css", "r") as f:
     for line in f:
