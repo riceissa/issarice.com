@@ -12,6 +12,7 @@ cat << EOF
 ---
 title: All pages
 created: 2017-11-11
+bigtable: true
 ---
 
 This is a list of all pages on this site ordered by the "last substantive

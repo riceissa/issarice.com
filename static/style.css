@@ -139,16 +139,16 @@ body.bigtable main, body.bigtable footer {
     margin: 0px 40px;
 }
 body.bigtable p, body.bigtable dl, body.bigtable pre, body.bigtable h2 {
-    max-width: 35rem;
+    max-width: 41rem;
 }
 /* Due to the padding applied to list markers, these protrude unless they are a
  * bit shorter than the other tags. */
 body.bigtable ul, body.bigtable ol {
-    max-width: 31rem;
+    max-width: 37rem;
 }
 body.bigtable footer hr {
     margin: 0;
-    max-width: 35rem;
+    max-width: 41rem;
 }
 @media screen and (max-width: 600px) {
     body.bigtable main, body.bigtable footer {

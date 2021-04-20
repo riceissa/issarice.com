@@ -53,7 +53,7 @@ $endif$
   </script>
   <script src="change-theme.js"></script>
 </head>
-<body>
+<body$if(bigtable)$ class="bigtable"$endif$>
 <script>
   set_theme_from_cookies();
 </script>
