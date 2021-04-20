@@ -108,6 +108,11 @@ am happy with it, though I wish I had done more research when buying
 it; mine came without a camera, which is finally turning out to be a
 big problem in the COVID era.
 
+In March 2021 part of the frame (bottom right of the screen near the right
+hinge) started cracking and small pieces of the black plastic frame came off.
+The laptop itself still functions fine, but I am afraid now that if I keep
+opening and closing the lid it will eventually break.
+
 # Sony MDR-XB450 (white) headphones
 
 I got these as a hand-me-down from someone after they got new
@@ -171,5 +176,41 @@ period though, my hand/wrist got used to it and I no longer experience
 any pain when using it. The scroll wheel is also kind of too heavy for
 me. After a month or so of using it, the mouse's scroll wheel started
 to not register some scrolls; it would occasionally "skip" a scroll.
+After a few more months, the scroll skipping problem became worse,
+and I would also get "double scrolls", where moving the mouse wheel
+by one notch would scroll the screen twice.
+
+The mouse also leaves black markings on my mouse pad.
 
 Overall I wish I had done more research to find a better mouse.
+
+# Samsung Galaxy S4 battery
+
+Product link: [New OEM Samsung Galaxy S4 ACTIVE i9295 i545 B600BU 2600mAh Original S4 Battery](https://www.ebay.com/itm/New-OEM-Samsung-Galaxy-S4-ACTIVE-i9295-i545-B600BU-2600mAh-Original-S4-Battery/391273800895)
+
+Purchased via eBay in April 2021.
+
+Since the battery was so cheap, I thought it would be worth trying even though
+I was somewhat skeptical of the product quality. The seller had 99.4% positive
+feedback and I couldn't find anything too bad about buying batteries on eBay
+online, so I went through with the purchase. It did turn out that the battery
+was low quality, but having two low quality batteries seems better than having
+just one...
+
+To copy from my eBay review:
+
+> Battery charge does not last long
+>
+> The battery works as expected, but the charge only lasts about a day if I
+> leave the phone connected to WiFi, which is about the same as the 8 year old
+> battery that came with the phone (which used to hold charge for much longer).
+> It's not entirely useless, but the "New OEM" part of the product description
+> seems misleading.
+
+# HDMI to VGA adaptor
+
+Product link: [1080P HDMI Male to VGA Female Video Cable Cord Converter Adapter For PC Monitor](https://www.ebay.com/itm/1080P-HDMI-Male-to-VGA-Female-Video-Cable-Cord-Converter-Adapter-For-PC-Monitor/265064369692)
+
+Purchased from eBay in April 2021.
+
+# ThinkPad X1 Yoga gen 3

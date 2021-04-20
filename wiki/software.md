@@ -59,11 +59,12 @@ This page lists software that I currently use.
 - Telegram desktop app -- I tried signing up via the web app but it didn't work so I installed the desktop app. Now that I have an account though, I could probably get away with using the web app.
 - Redshift
 - Tux Paint to make drawings for my [Tao Analysis Solutions](https://taoanalysis.wordpress.com/) blog
-- Emacs+mozc for Japanese and Russian input
+- Emacs+mozc for Japanese and Russian input (I should use something like ibus but they require restarting the computer and they also stop working after upgrades and such. Since I don't use Japanese/Russian input much, doing everything via Emacs has been acceptable to me so far.)
 - Flameshot
 - spaced inbox (written myself)
 - urlwatch
 - Steven Black's [hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) file
+- Xournal, for signing some contracts (Xournal allows one to draw over the PDF and then export the result as PDF)
 
 Web apps (I'm ignoring social media, passive content consumption services like YouTube, and video conferencing apps):
 

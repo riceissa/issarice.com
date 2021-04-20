@@ -410,6 +410,15 @@ The Pillows:
   * "Bottle It Up"
 * _Braid_ soundtrack
 
+# March 2021
+
+* _Your Name_ soundtrack (especially "Dream Lantern" and "Itomori High School")
+* Weezer's Blue Album again (this time I liked "Say It Ain't So")
+
+# April 2021
+
+* "March Of The Swivelheads" from Ferris Bueller's Day Off
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
