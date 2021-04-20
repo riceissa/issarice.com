@@ -53,6 +53,9 @@ nav#site_navigation {
     overflow: hidden;
 }
 
+nav#site_navigation a:link { color: #bdd1f2; }
+nav#site_navigation a:visited { color: #bdf2c0; }
+
 footer { font-size: 80%; }
 
 div.page-nav { font-size: 80%; }
