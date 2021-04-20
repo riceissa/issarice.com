@@ -11,7 +11,7 @@ Most pages are written using [Vim](http://www.vim.org/) using the [Pandoc markdo
 The markdown files are then converted to HTML using Pandoc and a Makefile.
 
 The [style sheet for this
-site](https://github.com/riceissa/issarice.com/blob/master/css/solarized_light.css) is
+site](https://github.com/riceissa/issarice.com/blob/master/static/style.css) is
 influenced by aspects of various other sites, including
 [gitit](https://web.archive.org/web/20150330005917/http://gitit.johnmacfarlane.net:80/),
 [Gwern’s site](http://www.gwern.net/About#tools), GitHub’s (old) documentation

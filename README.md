@@ -94,9 +94,6 @@ The file `default.html5` inherits from the [Pandoc template][pd_html5] (dual
 licensed GPL v2 or higher or BSD 3-clause); the BSD 3-clause license is
 reproduced below.
 
-For `css/`, `solarized_light.css`, is MIT licensed because it uses
-Solarized colors. The other files are CC0.
-
 All the files in `images/` except `identification-photo.jpg` are CC0.
 For the exception, I don't remember if the photographer has allowed me to
 license it freely.
