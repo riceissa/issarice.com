@@ -24,6 +24,11 @@ THE SOFTWARE.
 
 */
 
+html { font-size: 18px; }
+
+@media screen and (max-width: 650px) {
+    html { font-size: 16px; }
+}
 body {
     background-color: #a0a0a0;
     color: #333;
@@ -33,14 +38,13 @@ body {
 div.sourceLine { display:inline-block; }
 
 main, footer {
-    background-color: #fdf6e3;
-    max-width: 41rem;
-    margin: auto;
-    padding: 50px;
     line-height: 1.4;
+    background-color: #fdf6e3;
+    padding: 50px;
+    margin: auto;
+    max-width: 41rem;
     text-align: left;
     word-wrap: break-word;
-    font-size: 18px;
 }
 
 /* top-left top-right bottom-right bottom-left */
@@ -119,7 +123,7 @@ table {
 table th {
     font-weight: normal;
     padding: 0px 10px;
-    vertical-align: bottom;
+    vertical-align: bottom; /* Maybe this should be "top" instead */
 }
 
 table td {
