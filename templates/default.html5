@@ -51,11 +51,11 @@ $endif$
     ga('send', 'pageview');
 
   </script>
-  <script src="change-theme.js"></script>
+  <!-- <script src="change-theme.js"></script> -->
 </head>
 <body$if(bigtable)$ class="bigtable"$endif$>
 <script>
-  set_theme_from_cookies();
+  // set_theme_from_cookies();
 </script>
 <nav id="site_navigation">
   $if(show-pandoc-template-comments)$
@@ -182,7 +182,7 @@ $endif$
 </footer>
 
 <script>
-  document.getElementById('changeThemeMenu').style.display='inline';
+  // document.getElementById('changeThemeMenu').style.display='inline';
   $$(function(){
     $$("table").tablesorter();
   });
