@@ -3,12 +3,11 @@ title: List of discussions about the public discourse of GiveWell and Open Phila
 author: Issa Rice
 created: 2017-10-20
 date: 2017-10-20
+bigtable: true
 ---
 
 This page lists discussions about public discourse as it relates to GiveWell
 and Open Philanthropy Project.
-
-::: full-bleed
 
 |Author|Date|Title|Notes|
 |--------|---------|---------------------------------------|-----------------------------------|
@@ -32,8 +31,6 @@ and Open Philanthropy Project.
 |Vipul Naik|2017-11-10|[Post about grant to MIRI and its signaling implications](https://www.facebook.com/vipulnaik.r/posts/10213581410585529)||
 |Luke Muehlhauser|2017-12-12|["Reasoning Transparency"](https://www.openphilanthropy.org/reasoning-transparency)|Discusses what Open Phil means by "reasoning transparency" and how to write documents that are more transparent in this way.|
 |Vipul Naik|2018-02-10|[The continued "evolving" approach to transparency, from the Open Philanthropy Project](https://www.facebook.com/vipulnaik.r/posts/10214342560333797)||
-
-:::
 
 # See also
 

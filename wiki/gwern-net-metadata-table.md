@@ -3,13 +3,12 @@ title: Gwern.net metadata table
 author: Issa Rice
 created: 2017-10-22
 date: 2017-10-22
+bigtable: true
 ---
 
 This page attempts to gather some crude statistics of [gwern.net](https://www.gwern.net)'s metadata.
 
 # Table
-
-::: full-bleed
 
 |Title|Created|Modified|Importance|Status|Confidence|
 |----------------------------|----------|----------|----:|----|-----|
@@ -292,8 +291,6 @@ This page attempts to gather some crude statistics of [gwern.net](https://www.gw
 |[Isomorphisms](https://gwern.net/Isomorphisms)|25 Apr 2009|08 Mar 2017|3|finished|possible|
 |[Komm Susser Tod](https://gwern.net/komm-susser-tod)|05 Nov 2010|08 Mar 2017|0|draft|likely|
 |[Catnip immunity and alternatives](https://gwern.net/Catnip)|7 Nov 2015|06 Aug 2017|6|in progress|likely|
-
-:::
 
 # Source
 

@@ -21,8 +21,6 @@ revision" date. The "last modified" date comes from version control
 
 # Table
 
-::: full-bleed
-
 |Title|Last substantive revision|Last modified|Created|Belief|Completion status|
 |------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
 EOF
@@ -47,8 +45,6 @@ git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
     sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]*\)\t\([^\t]*\)\t\([^\t]*\)/|[\3](\4)|\1|\2|\5|\6|\7|/p'
 
 cat <<EOF
-
-:::
 
 # See also
 

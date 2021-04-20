@@ -6,6 +6,7 @@ date: 2017-11-26
 # documentkind:
 # status:
 # belief:
+bigtable: true
 ---
 
 This page tracks the growth of the number of questions on Quora. We use the number of pages in the sitemap to estimate the number of questions. This metric will be inaccurate if the sitemap only covers some portion of questions and this portion changes over time.
@@ -13,8 +14,6 @@ This page tracks the growth of the number of questions on Quora. We use the numb
 # Table
 
 In the table below, I include the number of questions by Alex K. Chen (AKC) because as far as I know, he has asked the most questions on the site. I include the number of questions I have asked because I am curious about tracking my own activity (not because I consider my question-asking particularly notable).
-
-::: full-bleed
 
 Table: Quora questions growth and number of questions by Alex K. Chen (AKC) and Issa Rice
 
@@ -31,8 +30,6 @@ Table: Quora questions growth and number of questions by Alex K. Chen (AKC) and 
 |2015-07-17|20,145|200|4,029,000|||
 |2017-10-08|70,704|200|14,140,800|~52,000|0.37|3,875|
 |2017-11-26|66,058|200|13,211,600|52,384|0.40|3,880|
-
-:::
 
 # History
 
