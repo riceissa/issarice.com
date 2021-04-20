@@ -155,6 +155,7 @@ $if(toc-title)$
 $endif$
 $table-of-contents$
 </nav>
+<hr />
 $endif$
 $body$
 </main>
