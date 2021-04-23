@@ -38,7 +38,10 @@ The following are the requirements to build the site:
 - Bash (for some of the shell scripts in `generator/`)
 - Some common command-line utilities like cat, sed, and so on (used in the
   shell scripts)
-- mathjax-node-page (trying this out as a replacement for client-side MathJax rendering)
+- mathjax-node-page (trying this out as a replacement for client-side MathJax rendering);
+  to install this, do `sudo npm install -g mathjax-node-page`. However note that mjpage
+  seems to be [deprecated](https://github.com/pkra/mathjax-node-page/issues/87) now
+  but I don't actually know how to replicate its functionality with plain MathJax.
 
 I have only ever tried building the site on Debian-based GNU/Linux systems, but since most of the site is just Markdown files it shouldn't be *too* hard to make the site build on other systems.
 
