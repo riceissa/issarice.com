@@ -213,4 +213,14 @@ Product link: [1080P HDMI Male to VGA Female Video Cable Cord Converter Adapter 
 
 Purchased from eBay in April 2021.
 
+The item was barely functional. When I plug it in, an image does display on the external monitor
+but the image quality is extremely bad. I've tested the setup using two other HDMI to VGA adapters
+and everything works, so the problem seems to be with the eBay adapter.
+
+[Here](https://imgur.com/a/2ewbRlv) are some photos comparing the different adapters.
+The ones labeled "ebay" are the ones I purchased. Notice how the text is much more
+crisp on the other two adapters.
+
+I was able to get a full refund for the product.
+
 # ThinkPad X1 Yoga gen 3
