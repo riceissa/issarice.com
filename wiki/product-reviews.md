@@ -219,8 +219,48 @@ and everything works, so the problem seems to be with the eBay adapter.
 
 [Here](https://imgur.com/a/2ewbRlv) are some photos comparing the different adapters.
 The ones labeled "ebay" are the ones I purchased. Notice how the text is much more
-crisp on the other two adapters.
+crisp on the other two adapters.  The resolution on the eBay adapter was also off,
+and I could not get it to be in the correct resolution even after trying all of the
+options in the Windows display settings. The other two adapters were automatically
+in the right resolution, so again I think something is wrong with this eBay adapter.
 
 I was able to get a full refund for the product.
 
 # ThinkPad X1 Yoga gen 3
+
+(will write more later, since this was a big purchase)
+
+some thoughts for now:
+
+- keyboard is not as bad as i was expecting, but of course the X220 keyboard is much better.
+- the touch pad makes a clicking sound when i lift my fingers, which is annoying but tolerable.
+- there is no way to turn off the keyboard backlight -- no setting in the BIOS, nothing
+  in Lenovo Vantage. it keeps coming on after i wake up the computer from sleep or unlock the screen.
+  I must use function+Spacebar three time to toggle it to the "off" state every time. Pretty annoying.
+- I like the switch to turn off the webcam.
+- the case was unexpectedly silver rather than the usual thinkpad black, but i don't care much about
+  the color either way. (the color was not listed on the product listing; everything else was
+  as described on the product listing)
+- the lights on the keyboard (e.g. for caps lock and mute) are too bright and white, which annoys me.
+  i prefer the duller red/yellow colors on the X220.
+- touchscreen works well.
+- having the HDMI port on the right side is annoying for me, as it blocks my mousepad from being there.
+  i wish the left side of the laptop was more "full" in terms of ports, to leave the right side bare.
+- thinkpad trackpoint is somewhat harder to use than on the X220. this might be a software problem.
+- laptop is quiet; i don't hear anything unless i am on a video call or playing a game or something
+  (but in those cases I am usually using headphones or there is music playing so the fan noise doesn't
+  bother me).
+- the laptop has a bigger screen, but it is still small enough that it fits in the laptop case i got
+  for the X220.
+- there is a "pop" noise when i first start playing audio after a break. this is pretty annoying (especially
+  in instant messaging, where audio is not continuously playing). i think i've mostly learned to "tune
+  it out" though.
+- i have not used the yoga or tablet features (though i've used the touchscreen a bit), so can't comment
+  on those.
+- the pen is a bit hard to take out and i am worried i might break something sometimes.
+- things like screen quality and battery life and speakers are so good compared to the X220 that i can't really have
+  an opinion of them (since any new laptop would be a huge improvement, i can't say the X1 yoga is
+  actually "good" in any sense).
+- i miss having the disk usage light.
+- palm rest does not heat up when using the laptop, which is good (the hottest part of the laptop is in the
+  top right part of the keyboard, near the heating vent).
