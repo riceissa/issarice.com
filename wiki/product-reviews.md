@@ -240,7 +240,10 @@ some thoughts for now:
 - I like the switch to turn off the webcam.
 - the case was unexpectedly silver rather than the usual thinkpad black, but i don't care much about
   the color either way. (the color was not listed on the product listing; everything else was
-  as described on the product listing)
+  as described on the product listing). actually, the silver body + black chiclet keyboard combination
+  causes me to have the [Hermann grid illusion](https://en.wikipedia.org/wiki/Grid_illusion#Hermann_grid_illusion)
+  which is a bit annoying, but since I don't look down at the keyboard most of the time it isn't
+  such a big problem.
 - the lights on the keyboard (e.g. for caps lock and mute) are too bright and white, which annoys me.
   i prefer the duller red/yellow colors on the X220.
 - touchscreen works well.
