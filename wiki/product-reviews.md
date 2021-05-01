@@ -243,7 +243,11 @@ some thoughts for now:
   as described on the product listing). actually, the silver body + black chiclet keyboard combination
   causes me to have the [Hermann grid illusion](https://en.wikipedia.org/wiki/Grid_illusion#Hermann_grid_illusion)
   which is a bit annoying, but since I don't look down at the keyboard most of the time it isn't
-  such a big problem.
+  such a big problem. it's actually the lower part of the keyboard, since in the bottom two rows,
+  the keys make a plus sign grid, whereas the upper rows are standard qwerty layout so they are
+  staggered. if the left ctrl key had been made smaller or something like that, then the keys
+  in the bottom row would also stagger against the row above it, which would prevent the optical
+  illusion.
 - the lights on the keyboard (e.g. for caps lock and mute) are too bright and white, which annoys me.
   i prefer the duller red/yellow colors on the X220.
 - touchscreen works well.
