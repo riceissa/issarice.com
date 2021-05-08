@@ -271,3 +271,7 @@ some thoughts for now:
 - i miss having the disk usage light.
 - palm rest does not heat up when using the laptop, which is good (the hottest part of the laptop is in the
   top right part of the keyboard, near the heating vent).
+- the left mouse click button on the track pad (not the one at the bottom that's integrated with the
+  trackpad, but the one above the trackpad that's meant to be used with the trackpoint) sometimes
+  does not work. or rather, it's more like it takes a stronger/more firm click in order for it to
+  work and sometimes my clicks are not strong enough.
