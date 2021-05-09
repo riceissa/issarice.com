@@ -275,3 +275,6 @@ some thoughts for now:
   trackpad, but the one above the trackpad that's meant to be used with the trackpoint) sometimes
   does not work. or rather, it's more like it takes a stronger/more firm click in order for it to
   work and sometimes my clicks are not strong enough.
+- i did notice there was a small surface scratch on the back side of the laptop when i first opened
+  it out of the box. i'm hoping this is
+  all that was wrong with the laptop, and is what caused the previous owner to return it.
