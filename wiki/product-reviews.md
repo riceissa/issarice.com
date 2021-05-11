@@ -248,6 +248,7 @@ some thoughts for now:
   staggered. if the left ctrl key had been made smaller or something like that, then the keys
   in the bottom row would also stagger against the row above it, which would prevent the optical
   illusion.
+  x1 yoga: the keyboard makes me have that optical illusion where i see dots where the silver lines cross. i think if the body was black i wouldn't be having this illusion, so in that aspect it's a bit annoying.
 - the lights on the keyboard (e.g. for caps lock and mute) are too bright and white, which annoys me.
   i prefer the duller red/yellow colors on the X220.
   i think the lights on the keyboard are too bright/noticeable. i prefer the yellow or red lights on the x220.
