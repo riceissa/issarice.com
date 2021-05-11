@@ -250,6 +250,7 @@ some thoughts for now:
   illusion.
 - the lights on the keyboard (e.g. for caps lock and mute) are too bright and white, which annoys me.
   i prefer the duller red/yellow colors on the X220.
+  i think the lights on the keyboard are too bright/noticeable. i prefer the yellow or red lights on the x220.
 - touchscreen works well.
 - having the HDMI port on the right side is annoying for me, as it blocks my mousepad from being there.
   i wish the left side of the laptop was more "full" in terms of ports, to leave the right side bare.
