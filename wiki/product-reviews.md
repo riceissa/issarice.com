@@ -259,6 +259,11 @@ some thoughts for now:
 - touchscreen works well.
 - having the HDMI port on the right side is annoying for me, as it blocks my mousepad from being there.
   i wish the left side of the laptop was more "full" in terms of ports, to leave the right side bare.
+- sometimes, if i unplug and plug back in the HDMI port too much, eventually the external monitor
+  stops working. I then have to restart the computer for the monitor to start working again.
+- the X220 only has a VGA port, and the x1 yoga only has an HDMI port, so i had to get an
+  adapter in order to get dual screen working. this turned out to be somewhat annoying, since
+  the display quality depends a lot on the exact adapter used.
 - thinkpad trackpoint is somewhat harder to use than on the X220. this might be a software problem.
 - laptop is quiet; i don't hear anything unless i am on a video call or playing a game or something
   (but in those cases I am usually using headphones or there is music playing so the fan noise doesn't
