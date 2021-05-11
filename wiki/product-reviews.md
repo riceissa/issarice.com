@@ -230,12 +230,20 @@ I was able to get a full refund for the product.
 
 (will write more later, since this was a big purchase)
 
+purchased in April 2021 from the Lenovo Outlet (US).
+
 this is where i made the purchase:
 https://web.archive.org/web/20210404193235/https://www.lenovo.com/us/en/outletus/laptops/thinkpad/thinkpad-2-in-1-laptops/ThinkPad-X1-Yoga-3rd-Gen/p/20LFX01700
 NOTE: the "Tech Specs" at the top are inaccurate. The actual specs are below in the "Models" section.
 
+I'm not including any Windows vs Linux thoughts here, though I was definitely getting
+a shock from switching away from Linux as my main OS after 10+ years.
+
 some thoughts for now:
 
+- it’s very noticeably faster than my x220; i can browse any website i want with firefox.
+  the only times i need chrome are for some sites (e.g. Messenger group calls) that
+  require it specifically.
 - keyboard is not as bad as i was expecting, but of course the X220 keyboard is much better.
 - the touch pad makes a clicking sound when i lift my fingers, which is annoying but tolerable.
 - there is no way to turn off the keyboard backlight -- no setting in the BIOS, nothing
@@ -268,6 +276,7 @@ some thoughts for now:
 - laptop is quiet; i don't hear anything unless i am on a video call or playing a game or something
   (but in those cases I am usually using headphones or there is music playing so the fan noise doesn't
   bother me).
+  In contrast, with the x220 i can definitely hear a quiet hum even when the fan is not going.
 - the laptop has a bigger screen, but it is still small enough that it fits in the laptop case i got
   for the X220.
 - there is a "pop" noise when i first start playing audio after a break. this is pretty annoying (especially
@@ -289,3 +298,9 @@ some thoughts for now:
 - i did notice there was a small surface scratch on the back side of the laptop when i first opened
   it out of the box. i'm hoping this is
   all that was wrong with the laptop, and is what caused the previous owner to return it.
+- fan exhaust is located in the back of the laptop so i don’t feel it at all.
+- i like having the camera and the camera shutter. (my X220 did not have a camera)
+- i like having so many choices for how to interact with the machine (keyboard, nub, touchpad, touchscreen, mouse)
+- when i use the touchpad, there is a slight click sound even when i don’t click
+- i think the screen shakes more than the x220 when i jiggle my legs. this is only a problem because of my habit of jiggling legs.
+- the printscreen key feels useless, and i prefer having the context menu button instead like the x220.
