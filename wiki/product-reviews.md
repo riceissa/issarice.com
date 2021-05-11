@@ -230,6 +230,10 @@ I was able to get a full refund for the product.
 
 (will write more later, since this was a big purchase)
 
+this is where i made the purchase:
+https://web.archive.org/web/20210404193235/https://www.lenovo.com/us/en/outletus/laptops/thinkpad/thinkpad-2-in-1-laptops/ThinkPad-X1-Yoga-3rd-Gen/p/20LFX01700
+NOTE: the "Tech Specs" at the top are inaccurate. The actual specs are below in the "Models" section.
+
 some thoughts for now:
 
 - keyboard is not as bad as i was expecting, but of course the X220 keyboard is much better.
