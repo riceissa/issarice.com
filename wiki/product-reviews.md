@@ -239,6 +239,36 @@ NOTE: the "Tech Specs" at the top are inaccurate. The actual specs are below in 
 I'm not including any Windows vs Linux thoughts here, though I was definitely getting
 a shock from switching away from Linux as my main OS after 10+ years.
 
+how did i make the choice of which laptop to buy and where?
+i wanted a high quality/durable laptop. from my reading, it seemed like laptops can be
+divided roughly into "consumer grade" and "business grade" laptops, with the latter
+being of much higher build quality. so i decided to focus my attention on business
+laptops. thinkpads are the most well-known among these, and i had good experiences
+with my previous X220, so i decided to focus most of my search on getting a thinkpad.
+my other requirement was that i wanted to play some windows-only video games and
+other windows-only software like supermemo, so i was looking at getting a windows laptop.
+One option for getting a cheapt thinkpad is to buy a used one on eBay. However, I did
+not want to deal with pirated versions of windows or malware installed by the seller, so
+if the laptop was a used one, i would have had to buy a legitimate copy of windows, which
+is $140--$200 depending on the version. thus, i could get a $400 thinkpad plus spend $140
+on a copy of windows 10 for a total of $540 or so.
+
+could i do better?
+doing more research, i found that lenovo has an official new and refurbished products
+store called the Outlet, which sells somewhat older versions of products for far
+cheaper. if i was quick to find a good deal, this meant I could get a better
+and almost-new laptop for $600--$900, depending on the model and specs.
+this would also come with a new copy of windows (i tried looking at whether it was
+possible for the previous owner to do something to the laptop like install
+malware on it, but could not find any information, and thought this was unlikely
+enough that i didn't worry about it).
+
+after doing some more reading, i concluded the lenovo outlet option seemed like the
+best combination of cheap + high build quality. so my research shifted to finding
+a good deal on the outlet. after some looking, i was able to find the x1 yoga gen 3
+for $615. after consulting some typical prices for the model (e.g. you can find
+some price charts on /g/), i concluded this was a good enough deal, so bought it.
+
 some thoughts for now:
 
 - it’s very noticeably faster than my x220; i can browse any website i want with firefox.
