@@ -304,3 +304,6 @@ some thoughts for now:
 - when i use the touchpad, there is a slight click sound even when i don’t click
 - i think the screen shakes more than the x220 when i jiggle my legs. this is only a problem because of my habit of jiggling legs.
 - the printscreen key feels useless, and i prefer having the context menu button instead like the x220.
+- i've noticed that the 'U' key requires the key to be pressed more fully than on other keys. this is
+  somewhat annoying since it's a pretty common letter and is not on the home row so i don't naturally
+  press it very hard when typing.
