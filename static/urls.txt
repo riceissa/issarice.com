@@ -1,4 +1,5 @@
 https://issarice.com/atom.xml
+https://hnrss.org/threads?id=kevinbuzzard
 https://www.incrium.com/blog-feed.xml
 https://www.greaterwrong.com/tag/spaced-repetition?format=rss
 https://www.greaterwrong.com/tag/family-planning?format=rss
