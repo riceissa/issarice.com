@@ -421,7 +421,7 @@ The Pillows:
 
 # May 2021
 
-* Soundtrack for _Her_
+* Soundtrack for _Her_ (I had actually listened to some of the songs earlier but apparently didn't record that here)
 * Soundtrack for _Moon_ (2009)
 
 # History
