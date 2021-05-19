@@ -155,6 +155,12 @@ My result is as follows:
 > Perseveration error count: 6 (10%) \
 > Non-perseveration error count: 2 (3%)
 
+## Highly Sensitive Person test
+
+On 2021-05-18 I took [this test](https://hsperson.com/test/highly-sensitive-test/), after seeing it linked by Brian Tomasik.
+It is an implementation of Elaine N. Aron's (1996) highly sensitive person test.
+I scored 19.
+
 # Morals
 
 [to be added]
