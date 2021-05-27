@@ -2,7 +2,7 @@
 title: Colophon
 author: Issa Rice
 created: 2015-08-31
-date: 2015-08-31
+date: 2021-05-27
 ---
 
 Here are the tools used to build and run this site.
