@@ -302,6 +302,10 @@ some thoughts for now:
 - the X220 only has a VGA port, and the x1 yoga only has an HDMI port, so i had to get an
   adapter in order to get dual screen working. this turned out to be somewhat annoying, since
   the display quality depends a lot on the exact adapter used.
+- Dual screen support is kind of crappy: if I plug in and out the HDMI port
+  enough times, the computer will eventually give up on dual screen and will
+  just stick to the main laptop screen.  Rebooting fixes the problem, so this
+  is probably a software problem.
 - thinkpad trackpoint is somewhat harder to use than on the X220. this might be a software problem.
 - laptop is quiet; i don't hear anything unless i am on a video call or playing a game or something
   (but in those cases I am usually using headphones or there is music playing so the fan noise doesn't
@@ -337,3 +341,11 @@ some thoughts for now:
 - i've noticed that the 'U' key requires the key to be pressed more fully than on other keys. this is
   somewhat annoying since it's a pretty common letter and is not on the home row so i don't naturally
   press it very hard when typing.
+- not sure if this is a software or hardware problem, but there is no stereo mode
+  in the Windows sound settings. This makes it harder to "stream" my audio during
+  e.g. video calls or when I'm trying to record something (some software like
+  OBS Studio are smart enough to be able to record both the desktop audio
+  and the microphone, but even Audacity can't do both at once).
+- The outer rim around the screen is in a glossy black, which reveals
+  fingerprints and other smudges. This is not too big of a problem because most
+  of the time I am focusing on the screen rather than the outer rim.
