@@ -131,11 +131,13 @@ print("""<title>Work</title>
     <nav id="site_navigation"><a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./all-pages">Newest changes</a>
+    <!--
     <span id="changeThemeMenu" style="display: none;">| Change
     {<a href="#" onclick="change_theme_text_width()">text width</a>,
      <a href="#" onclick="change_theme_color()">color</a>,
      <a href="#" onclick="change_theme_font_family()">font</a>,
      <a href="#" onclick="change_theme_table()">table</a>}</span>
+    -->
     </nav>
     <main>
     <header>
