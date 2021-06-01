@@ -122,11 +122,11 @@ with open("css/responsive_table.css", "r") as f:
         print(line, end='')
 
 print("""<title>Work</title>
-  <script src="change-theme.js"></script>
+  <!-- <script src="change-theme.js"></script> -->
 </head>
 <body class="bigtable">
 <script>
-  set_theme_from_cookies();
+  // set_theme_from_cookies();
 </script>
     <nav id="site_navigation"><a href="./index">Home</a>
     | <a href="./about">About</a>
@@ -211,7 +211,7 @@ print("""  </tbody>
   </p>
 </footer>
 <script>
-  document.getElementById('changeThemeMenu').style.display='inline';
+  // document.getElementById('changeThemeMenu').style.display='inline';
   $(function(){
     $("table").tablesorter();
   });
