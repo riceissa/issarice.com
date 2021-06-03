@@ -32,7 +32,7 @@ $endif$
   <link rel="stylesheet" href="theme.default.css">
   <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
-  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$ - Issa Rice</title>
   <style type="text/css">
     code{white-space: pre;}
     .mjx-chtml {font-size: 120% ! important}
