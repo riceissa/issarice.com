@@ -31,7 +31,10 @@ by inserting fake reviews or paying people to write favorable reviews.
 Review sites using affiliate links also seem sketchy to me (it seems
 like any purchase is a good one, so there isn't much incentive to get
 people to buy the right things, and there is also an incentive to get
-people to buy _more_ things in general). Even something like Facebook
+people to buy _more_ things in general, whereas it may be more useful
+to be told something like "instead of buying this class of products,
+you can actually make this thing yourself or substitute using some
+other item that you already have"). Even something like Facebook
 can be a problem (if product companies can pay to have the newsfeed
 algorithm show positive reviews of itself and negative reviews of
 competitors). Decentralized product reviews on small personal websites
