@@ -424,6 +424,10 @@ The Pillows:
 * Soundtrack for _Her_ (I had actually listened to some of the songs earlier but apparently didn't record that here)
 * Soundtrack for _Moon_ (2009)
 
+# July 2021
+
+* Gorillaz: "Clint Eastwood"
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
