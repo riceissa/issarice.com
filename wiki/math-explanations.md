@@ -35,6 +35,10 @@ In my mind some things that make explanations good are:
   bad if these "going down wrong paths" in texts started to seem just tedious
   to go through (even the correct paths can seem tedious at times!).
 
+  Another example is Michael Nielsen's bitcoin blog post, where he iteratively
+  builds up the ideas of bitcoin by considering naive approaches to a digital
+  currency, then fixing the problems in them.
+
 - For exercises, I think it's important to explain somewhere what the exercise
   is intended to teach. Textbooks often warn that not doing the exercises will
   mean not actually learning the material (or similar). If this is truly the
