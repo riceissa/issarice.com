@@ -161,6 +161,35 @@ On 2021-05-18 I took [this test](https://hsperson.com/test/highly-sensitive-test
 It is an implementation of Elaine N. Aron's (1996) highly sensitive person test.
 I scored 19.
 
+## Levenson Self-Report Psychopathy Scale
+
+On 2021-07-27 I look the Levenson Self-Report Psychopathy Scale at
+<https://openpsychometrics.org/tests/LSRP.php>.
+
+My scores were as follows:
+
+> You have completed the Levenson Self-Report Psychopathy Scale.
+>
+> The LSRP measures two scales.
+>
+> Scores range from 1 (low) to 5 (high).
+>
+> Your score from primary psychopathy has been calculated as 1.9. Primary
+> psychopathy is the affective aspects of psychopathy; a lack of empathy for
+> other people and tolerance for antisocial orientations.
+>
+> Your score from secondary psychopathy has been calculated as 3. Secondary
+> psychopathy is the antisocial aspects of psychopathy; rule breaking and a
+> lack of effort towards socially rewarded behavior.
+>
+> [...]
+>
+> You score for primary psychopathy was higher than 41.76% of people who have
+> taken this test.
+>
+> You score for secondary psychopathy was higher than 71.45% of people who have
+> taken this test.
+
 # Morals
 
 [to be added]
