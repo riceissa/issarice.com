@@ -319,7 +319,7 @@ Some thoughts after having used the laptop for a couple of months:
   enough times, the computer will eventually give up on dual screen and will
   just stick to the main laptop screen.  Rebooting fixes the problem, so this
   is probably a software problem.
-- thinkpad trackpoint is somewhat harder to use than on the X220. this might be a software problem.
+- thinkpad trackpoint is significantly harder to use than on the X220, to the point that I rarely use the track point and instead use the trackpad when I don't have access to a mouse (which is the opposite of what I did with the X220, where I even disabled the trackpad because it was so bad). this might be a software problem.
 - laptop is quiet; i don't hear anything unless i am on a video call or playing a game or something
   (but in those cases I am usually using headphones or there is music playing so the fan noise doesn't
   bother me).
