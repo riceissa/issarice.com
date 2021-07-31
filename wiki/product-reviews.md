@@ -331,6 +331,7 @@ Some thoughts after having used the laptop for a couple of months:
   it out" though.
 - i have not used the yoga or tablet features (though i've used the touchscreen a bit), so can't comment
   on those.
+  update(2021-07-31): i finally used the yoga/tablet feature once. it was ok, but my headphone cable slipped into the space between the screen and body, and as i rotated the screen it kind of "crunched" the cable, not to the point of breaking the cable, but at least leaving a visible mark. oops. at least this means the hinges are sturdy, right?
 - the pen is a bit hard to take out and i am worried i might break something sometimes.
 - things like screen quality and battery life and speakers are so good compared to the X220 that i can't really have
   an opinion of them (since any new laptop would be a huge improvement, i can't say the X1 yoga is
