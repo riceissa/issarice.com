@@ -427,6 +427,7 @@ The Pillows:
 # July 2021
 
 * Gorillaz: "Clint Eastwood"
+* _Tekkonkinkreet_ OST
 
 # History
 
