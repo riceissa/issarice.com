@@ -84,7 +84,7 @@ July 1
 
     - ["How to Write a Letter of Explanation to the IRS"](http://www.successtaxrelief.com/blog/taxes/how-to-write-a-letter-of-explanation-to-the-irs/)
     - ["How To Write a Letter of Explanation to the IRS"](http://www.slideshare.net/SuccessTaxRelief/how-to-write-a-letter-of-explanation-to-the-irs) (slideshow version)
-    - ["Sample IRS Penalty Abatement Request Letter"](http://www.taxdebthelp.com/tax-settlement/penalty-abatement/letter)
+    - ["Sample IRS Penalty Abatement Request Letter"](https://taxcure.com/tax-settlement/penalty-abatement/letter) ([original version at the time I saw the page](http://web.archive.org/web/20161013015109/http://www.taxdebthelp.com/tax-settlement/penalty-abatement/letter))
     - ["Letter to the IRS"](https://www.rocketlawyer.com/document/response-to-irs-notice.rl)
 
 July 1
