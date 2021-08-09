@@ -12,26 +12,13 @@ but find its address bar more useful.
 
 # Extensions
 
-- Citewebgen (this is a rough draft addon I made for myself, to avoid
-  the [bookmarklet blocking](https://github.com/riceissa/citewebgen#caveats) on some sites)
-- Decentraleyes
-- Don't track me Google (this removes link conversion on google search result pages, so that right-clicking on a search result will give the actual URL, rather than google's obfuscated URL)
-- Make Medium Readable Again
-- Nitter Redirect
-- Read Aloud: A Text to Speech Voice Reader
-- Save To The Wayback Machine
-- SingleFile
-- Tampermonkey
-- uBlacklist: custom domain blacklist for Google search results
-- uBlock Origin
-- uMatrix
-- Web Developer (for viewing the generated HTML source)
-- Zotero Connector (I don't actually use this nowadays...)
+Starting in 2021, I decided to reduce the number of extensions I use after
+learning more about how little auditing goes on for browser extensions and
+case-studies like The Great Suspender (where the original author sold it to
+some sketchy people who then put in spyware, or something like that).
 
-Due to the Firefox 57 upgrade, several of the plugins I used to use were marked as "Legacy" and are not usable.
-In particular, NoScript was at first unavailable, then available under
-the new extensions system in a new form. I didn't like the new
-interface so I switched to uMatrix.
+- uBlock Origin
+- F.B Purity
 
 # Keyword search
 
