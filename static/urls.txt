@@ -18,6 +18,7 @@ https://disqus.com/wei_dai/latest.rss
 https://www.greaterwrong.com/users/jonahsinick?format=rss
 https://www.greaterwrong.com/users/vipulnaik?format=rss
 https://www.greaterwrong.com/users/eliezer_yudkowsky?format=rss
+https://eaforum.issarice.com/users/eliezeryudkowsky?format=rss
 https://disqus.com/eliezeryudkowsky/latest.rss
 https://www.greaterwrong.com/users/annasalamon?format=rss
 https://ea.greaterwrong.com/users/annasalamon?format=rss
