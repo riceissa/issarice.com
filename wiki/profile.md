@@ -20,6 +20,10 @@ I took the same test again on 2021-08-18. My results:
 
 [![Big Five round 2](big-five-2021-08-18.png)](big-five-2021-08-18.png)
 
+I took the Big Five Personality Test [here](https://www.truity.com/test/big-five-personality-test) on 2021-08-18. My results:
+
+[![Big Five Truity](truity-big-five-2021-08-18.png)](truity-big-five-2021-08-18.png)
+
 ## Autism spectrum quotient
 
 Taken on 2018-02-05; [test link](https://psychology-tools.com/autism-spectrum-quotient/).
