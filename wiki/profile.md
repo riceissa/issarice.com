@@ -14,7 +14,11 @@ On this page I'll present my results for various personality/morality tests, sor
 
 Taken on 2018-02-06; [test link](http://www.outofservice.com/bigfive/).
 
-[![Big Five](big-five-2018-02-06.png)](big-five-2018-02-06.png)
+[![Big Five round 1](big-five-2018-02-06.png)](big-five-2018-02-06.png)
+
+I took the same test again on 2021-08-18. My results:
+
+[![Big Five round 2](big-five-2021-08-18.png)](big-five-2021-08-18.png)
 
 ## Autism spectrum quotient
 
