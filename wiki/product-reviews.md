@@ -347,7 +347,7 @@ Some thoughts after having used the laptop for a couple of months:
   it out of the box. i'm hoping this is
   all that was wrong with the laptop, and is what caused the previous owner to return it.
 - fan exhaust is located in the back of the laptop so i don’t feel it at all.
-- i like having the camera and the camera shutter. (my X220 did not have a camera)
+- i like having the camera and the camera shutter. (my X220 did not have a camera). however, on two occasions so far when i've opened the camera shield, the camera had a very strong and weird yellow tint.
 - i like having so many choices for how to interact with the machine (keyboard, nub, touchpad, touchscreen, mouse)
 - when i use the touchpad, there is a slight click sound even when i don’t click
 - i think the screen shakes more than the x220 when i jiggle my legs. this is only a problem because of my habit of jiggling legs.
