@@ -1,4 +1,5 @@
 https://issarice.com/atom.xml
+https://anchor.fm/s/636b4820/podcast/rss
 https://www.cold-takes.com/rss/
 https://hnrss.org/threads?id=kevinbuzzard
 https://www.incrium.com/blog-feed.xml
