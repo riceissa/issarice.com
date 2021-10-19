@@ -1,5 +1,7 @@
 # Does the following proof work for (a special case of) the deduction theorem?
 
+Posted at https://math.stackexchange.com/questions/4281589/does-the-following-proof-work-for-a-special-case-of-the-deduction-theorem
+
 I am interested in showing that $\{P\} \vdash Q$ if and only if $\vdash P \to Q$. This is a limited version of the deduction theorem where the "background" set of assumptions $\Delta$ happens to be empty.
 
 The typical proof of the forward/"only if" direction is by induction. However, I am wondering if a proof like the following could also work. A few notes about my "proof system" before I give the attempted proof. My real interest in the deduction theorem is to try to better understand the material implication. So I don't want to "bake in" a meaning for "$\to$" by giving axioms that are suggestive. This leads to:
