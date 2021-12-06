@@ -1,4 +1,5 @@
 https://issarice.com/atom.xml
+https://frame.work/blog.rss
 https://mothminds.substack.com/feed
 https://lorienpsych.com/feed/
 https://anchor.fm/s/636b4820/podcast/rss
