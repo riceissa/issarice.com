@@ -1,4 +1,5 @@
 https://issarice.com/atom.xml
+http://feeds.feedburner.com/succeedsociallyupdates
 https://frame.work/blog.rss
 https://mothminds.substack.com/feed
 https://lorienpsych.com/feed/
