@@ -130,6 +130,40 @@ This was originally for [a Quora answer](https://www.quora.com/What-are-the-Dung
 > Evil ---- X (1)
 > ```
 
+I took the same test on 2021-12-13. I got Chaotic Neutral again. My scores were:
+
+> **Detailed Results:**
+>
+> ```
+> Alignment:
+> Lawful Good ----- XXXXXXXXXXXXXXXXXX (18)
+> Neutral Good ---- XXXXXXXXXXXXXXXX (16)
+> Chaotic Good ---- XXXXXXXXXXXXXXXXXXXX (20)
+> Lawful Neutral -- XXXXXXXXXXXXXXXXXXXXXXX (23)
+> True Neutral ---- XXXXXXXXXXXXXXXXXXXXX (21)
+> Chaotic Neutral - XXXXXXXXXXXXXXXXXXXXXXXXX (25)
+> Lawful Evil ----- XXXXXXXXXX (10)
+> Neutral Evil ---- XXXXXXXX (8)
+> Chaotic Evil ---- XXXXXXXXXXXX (12)
+> 
+> Law & Chaos:
+> Law ----- XXXXXXXX (8)
+> Neutral - XXXXXX (6)
+> Chaos --- XXXXXXXXXX (10)
+> 
+> Good & Evil:
+> Good ---- XXXXXXXXXX (10)
+> Neutral - XXXXXXXXXXXXXXX (15)
+> Evil ---- XX (2)
+> ```
+
+I didn't like most of the test questions when I retook the test (I don't
+remember what I thought when I originally took it). Some questions talk about
+"community" and "home town", and I wasn't sure which group of people I was
+supposed to be thinking about. For the questions that talk about crime, my
+answer would vary greatly on which kind of crime. For some questions, all of
+the options seemed off to me, so I reluctantly picked one of them.
+
 ## The Robot Test
 
 On 2020-08-07 I took [The Robot Test](https://arfer.net/games/robot-test).
