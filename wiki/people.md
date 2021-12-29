@@ -198,6 +198,7 @@ to list and I'm sure you can find them without my help).
 - [Eevee](https://eev.ee/)
 - [Evan Chen](https://web.evanchen.cc/)
 - [Jiwoon Hwang](http://jiwoonhwang.org/)
+- Qiaochu Yuan
 
 # Old tier
 
