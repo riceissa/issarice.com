@@ -147,6 +147,8 @@ these headphones, so I can't comment on how well these work.
 
 # MealSquares
 
+Tried in November 2017.
+
 See [here](mealsquares).
 
 # Crucial 16GB Kit (8GBx2) DDR3/DDR3L 1600 MT/S (PC3-12800) Unbuffered SODIMM 204-Pin Memory - CT2KIT102464BF160B
