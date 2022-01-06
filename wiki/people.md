@@ -197,7 +197,7 @@ to list and I'm sure you can find them without my help).
 - [Ran Prieur](http://ranprieur.com/) (only his dumpster diving and frugality stuff)
 - [Eevee](https://eev.ee/)
 - [Evan Chen](https://web.evanchen.cc/)
-- [Jiwoon Hwang](http://jiwoonhwang.org/)
+- [Jiwoon Hwang](https://web.archive.org/web/20191214095838/http://jiwoonhwang.org/): a lot of weird/"out there" ideas about how to improve the world. I wish more effective altruists were not afraid to think wacky thoughts like this.
 - Qiaochu Yuan: I love [his Twitter](https://twitter.com/QiaochuYuan/). A lot of great threads about emotional stuff, romance, money, life purpose, meditation/therapy, feelings about math, weird physical stuff, loneliness, etc. One of the few people who go into woo territory in a way that doesn't annoy me. If you bounce off his Twitter, maybe try [this podcast episode](https://www.youtube.com/watch?v=qdO2nbnbRoA "Materialism and Metatherapy with Qiaochu Yuan - Reach Truth Podcast; Dec 8, 2021") (it's pretty great and covers a lot of stuff in an accessible way).
 
 # Old tier
