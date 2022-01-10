@@ -37,6 +37,10 @@ The third example is the [EA sequences](https://docs.google.com/document/d/10WLY
 document compiled by Richard Ngo (with help from others?).
 I can find Eliezer, Carl, Nick Bostrom, Nick Beckstead, Paul, Toby Ord, Holden, Brian Tomasik, Robin Hanson, etc. (interestingly, no Katja). Again, no Wei.
 
+**January 2022 update:** Although people take him seriously on LW, and he seems to be well-known among AI safety people specifically, it still seems like his views (about e.g. human safety problems and the importance of metaphilosophy) are "fringe", in the sense that people don't take his views seriously enough to change their plans/research agendas based on them.
+
+In other news, Pablo Stafforini has informed me that his [list](https://eaforum.issarice.com/posts/tf3Hous3oc9hNS6eL/is-there-a-good-place-to-find-the-what-we-know-so-far-of-the#HBY5f4fC3gjNoK7FS) now includes writings from Wei Dai!
+
 # External links
 
 - [List of discussions between Paul Christiano and Wei Dai](https://causeprioritization.org/List_of_discussions_between_Paul_Christiano_and_Wei_Dai)
