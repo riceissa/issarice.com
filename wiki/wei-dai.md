@@ -13,6 +13,7 @@ I wonder what the reasons are for this. Some ideas I can think of are:
 * He often emphasizes uncertainty, so EAs might think there isn't much "actionable" insights in his writings. But EAs themselves [often seem uncertain](https://www.facebook.com/vipulnaik.r/posts/10213221225461126), so I don't think this really explains anything.
 * Although Wei writes about philosophical problems, he doesn't write so much about empirical issues in global poverty and health.
 * He doesn't seem to do a lot of self-promotion.
+  * Many of his insights are only in comments scattered around LW/EA Forum, rather than easily-citable posts. (HT Pablo Stafforini)
 * He seems like a "quiet nerd" based on [this post](http://lesswrong.com/lw/66y/what_do_bad_clothes_signal_about_you/) about fashion. But isn't this true for many other people popular in EA?
 * His anti-academia bent. He doesn't really write papers. (Even though he has an [impressive list](https://timelines.issarice.com/wiki/Timeline_of_Wei_Dai_publications) of online output.)
 * He does not comment on Facebook very much. (Edit: this is now changing...)
