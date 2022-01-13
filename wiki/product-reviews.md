@@ -298,6 +298,7 @@ Some thoughts after having used the laptop for a couple of months:
 - there is no way to turn off the keyboard backlight -- no setting in the BIOS, nothing
   in Lenovo Vantage. it keeps coming on after i wake up the computer from sleep or unlock the screen.
   I must use function+Spacebar three time to toggle it to the "off" state every time. Pretty annoying.
+  2022-01-13: i finally discovered where the sensor for this is, when the backlight is set to "auto" mode. it's a little left of the camera. if you look closely, you will see a round spot, a diameter of like 7mm maybe. if i put my finger over it, the backlight comes on, and if i remove my finger (with some light shining directly at it) the backlight will turn off. if the backlight is annoying, one idea is to make sure to sit in a place where there is some minimal amount of light shining on that sensor.
 - I like the switch to turn off the webcam.
 - the case was unexpectedly silver rather than the usual thinkpad black, but i don't care much about
   the color either way. (the color was not listed on the product listing; everything else was
