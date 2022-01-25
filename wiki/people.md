@@ -26,6 +26,8 @@ free to use this page to identify people you should look into.
 
 Bolding indicates people I particularly recommend.
 
+The people within a single tier do not appear in any particular order.
+
 I don't endorse everything these people say (in fact, I couldn't, since these
 people often disagree with each other).
 
