@@ -371,3 +371,5 @@ Some thoughts after having used the laptop for a couple of months:
   fingerprints and other smudges. This is not too big of a problem because most
   of the time I am focusing on the screen rather than the outer rim.
 - January 2022: the backspace key started making a very loud clacking sound almost every time it is pressed. there's a way to avoid the sound by pressing the key in a very particular location, but it's not the natural location for my fingers. i can't tell if it's some hardware problem with the key itself, or if some food particle or such went under there (i am guessing it's the former). the key works when pressed.
+
+  Update: the problem went away after like two days. (i tried tilting the laptop and pressing the key in different spots/ways, but idk if that did anything, or if the problem just went away on its own.)
