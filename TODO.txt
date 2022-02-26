@@ -119,6 +119,8 @@ NEW:
   We could then add to this blacklist e.g. single alpha characters a..z, which we can use for further things.
   Like 'c' could stand for "content", so we could then just have issarice.com/c/wiki/en/pagename1, for instance. Then still the most obvious place to go (which is issarice.com/pagename1) will work, while the more "logical" placement will also work.
 
+- maybe add backlinks (like in roam or obsidian)
+
 OLD:
 
 - import remaining pages from github pages site. & add more notes files.
