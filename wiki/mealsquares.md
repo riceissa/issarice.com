@@ -17,3 +17,5 @@ To give context, Ethan Bashkansky offered me MealSquares that he had recently or
 What was most surprising to me was that the MealSquare, despite its size, cannot be eaten so quickly. Eating a whole MealSquare took me about 15 minutes, although I am a slow eater.
 
 Overall I was impressed with MealSquares and might order some myself at some point.
+
+In March 2022, I ordered a sample pack of 10 MealSquares.
