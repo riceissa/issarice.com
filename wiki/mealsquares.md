@@ -19,3 +19,12 @@ What was most surprising to me was that the MealSquare, despite its size, cannot
 Overall I was impressed with MealSquares and might order some myself at some point.
 
 In March 2022, I ordered a sample pack of 10 MealSquares.
+
+I've noticed that at least in the batch I received, the chocolate chips are
+mostly at the bottom, so microwaving right side up results in a lot of the
+chocolate melting onto the plate (and then drying on the plate, which makes it
+hard to scrape off to eat). So I have been microwaving and eating it upside
+down, and this works well.
+
+Multiple people online say MealSquares are dry, but I haven't really felt this
+myself. I do sip water while eating it, but not any more than for other foods.
