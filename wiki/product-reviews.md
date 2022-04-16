@@ -374,4 +374,4 @@ Some thoughts after having used the laptop for a couple of months:
 
   Update: the problem went away after like two days. (i tried tilting the laptop and pressing the key in different spots/ways, but idk if that did anything, or if the problem just went away on its own.)
 
-  Update (2022-03-08): problem returned after moving the laptop around, this time also affecting the Enter key a bit. The problem hasn't gone away as of 2022-03-17. the problem seems to have finally gone away on 2022-04-16.
+  Update (2022-03-08): problem returned after moving the laptop around, this time also affecting the Enter key a bit. The problem hasn't gone away as of 2022-03-17. the problem seems to have finally gone away on 2022-04-15. Actually never mind, the problem seems to be back on 2022-04-16.
