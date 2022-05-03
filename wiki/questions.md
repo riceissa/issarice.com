@@ -92,7 +92,7 @@ See also [my answer](https://www.quora.com/What-are-some-good-questions-that-cou
 - Why does the mobile GitHub app not support editing of files, and will this feature come in the future?
 - What are some things you can learn by observing sliverfish/ladybugs/spiders?
 - Bestiality: what is it like to have intercourse with/rape/be raped by/engage in sodomy with/have group sex with X? (where X is an animal species)
-- Why does my Quora view count drop significantly if I don't post any questions for that interval? (i.e. the questions seem to be poorly distributed, or Quora isn't really producing "[long content]()")
+- Why does my Quora view count drop significantly if I don't post any questions for that interval? (i.e. the questions seem to be poorly distributed, or Quora isn't really producing "[[long content]]")
 - Which tech company has the best offices to sleep in?
 - Which universities have the best libraries to sleep in?
 - How important is the UW Daily relative to other student news papers?

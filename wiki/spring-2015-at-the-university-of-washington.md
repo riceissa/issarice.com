@@ -10,10 +10,10 @@ status: notes
 
 Here are the courses I took for autumn 2014 at UW:
 
-- [ATM S 559]()
-- [MATH 136]()
-- [ENGL 478]()
-- [PHYS 121]()
+- [[ATM S 559]]
+- [[MATH 136]]
+- [[ENGL 478]]
+- [[PHYS 121]]
 
 # Review
 

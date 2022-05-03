@@ -186,7 +186,7 @@ On page 21 of [these notes](http://cs229.stanford.edu/section/cs229-linalg.pdf) 
 
 It seems like a lot of people complain about poor notation but then they just get used to it. Whereas I have something like a gag reflex to confusing notation and have difficulty understanding explanations until they use good notation.
 
-My [math 334]() page talks about the confusing notation of the chain rule too.
+My [[math 334]] page talks about the confusing notation of the chain rule too.
 
 [This guide to backpropagation](http://www.cl.cam.ac.uk/archive/mjcg/plans/Backpropagation.pdf) by [Michael J. C. Gordon](!w) is interesting, especially since he spends a lot of time reviewing basic calculus results and understands functional programming (likes functions more than expressions, and defines types!). Unfortunately I find some *other* notational issues, like the difficulty of distinguishing between multiplication and function application (the latter is a space like in Haskell, but it's sort of hard to tell between an explicit space and the kerning).
 

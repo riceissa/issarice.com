@@ -62,6 +62,6 @@ Then running `git diff --color 3cc00f112bf~1 3cc00f112bf` in the [CP Wiki repo](
 
 # See also
 
-* [Software]() for more about the software I use
+* [[Software]] for more about the software I use
 
 [gitconfig]: https://github.com/riceissa/dotfiles/blob/master/.gitconfig

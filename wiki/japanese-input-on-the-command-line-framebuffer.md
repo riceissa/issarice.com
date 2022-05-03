@@ -7,7 +7,7 @@ tags: japan, linux
 # Upshot
 
 - `uim-fep` seems to be the best option, on Bash.
-- Using [Emacs]() is quite possibly the best way overall, even if you’re a hardcore [Vim]() user (like me)
+- Using [[Emacs]] is quite possibly the best way overall, even if you’re a hardcore [[Vim]] user (like me)
 
 ## Things to add (it has been a while...):
 

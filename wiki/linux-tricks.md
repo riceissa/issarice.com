@@ -258,7 +258,7 @@ keysym Caps_Lock = Escape
 
 # Configure Mutt
 
-Moved to [Mutt]().
+Moved to [[Mutt]].
 
 # Other commandline notes
 

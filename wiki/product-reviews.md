@@ -41,7 +41,7 @@ competitors). Decentralized product reviews on small personal websites
 seem much harder to game, and I get to look at the reviewer's general
 personality and writing along with the product reviews.
 
-Feel free to [contact]() me if you have suggestions on ways to make
+Feel free to [[contact]] me if you have suggestions on ways to make
 this page more useful for you.
 
 # Linode (web hosting)

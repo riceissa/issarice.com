@@ -6,8 +6,8 @@ date: 2020-01-15
 
 This page lists software that I currently use.
 
-- [tmux]()
-- [Google Chrome](chrome) and [Firefox]() for web browsing. These days I try to
+- [[tmux]]
+- [Google Chrome](chrome) and [[[Firefox]]for web browsing. These days I try to
   do most of my browsing in Firefox, because it does a better job of remembering
   pages I have visited in the past, which is important for me.
   (Chrome seems to have a short memory, and many things don't show up when I
@@ -18,17 +18,17 @@ This page lists software that I currently use.
   (For most JavaScript-heavy web apps, often the easiest way to use them is to
   run them under an incognito Chrome window, rather than manually enabling a
   bunch of domains on NoScript or uMatrix.)
-- [Vim]() (mostly Neovim since about July or August 2020) with [various plugins](https://github.com/riceissa/dotfiles/blob/master/.vimrc#L8-L41) for most text editing.
-- [Git]()
+- [[Vim]] (mostly Neovim since about July or August 2020) with [various plugins](https://github.com/riceissa/dotfiles/blob/master/.vimrc#L8-L41) for most text editing.
+- [[Git]]
 - Anki for spaced repetition
-- [ELinks](), Links, or Lynx for lightweight browsing depending on what I want.
+- [[ELinks]], Links, or Lynx for lightweight browsing depending on what I want.
   ELinks has tabbed browsing which I find easy to use, but Links can show
   images with the `-g` flag. Lynx seems to do correct checking for SSL certificates and
   additionally has `-localhost -dump` that is suitable for producing plain text
   dumps of webpages.
-- [Exuberant Ctags]()
-- [Music On Console]() (MOC) for music
-- [Newsbeuter]() (actually called Newsboat now)
+- [[Exuberant Ctags]]
+- [[Music On Console]] (MOC) for music
+- [[Newsbeuter]] (actually called Newsboat now)
 - Ubuntu on laptop, and Ubuntu and Debian on server
 - KDE Plasma as a desktop environment (I used to use MATE but tried KDE on a whim and found that it has fewer annoying bugs)
 - KeePassX
@@ -82,9 +82,9 @@ Programs in trial mode:
 
 # See also
 
-- [Colophon]()
-- [Account names](account-names), for SaaS
-- [Firefox]() for my Firefox plugins
+- [[Colophon]]
+- [[Account names]], for SaaS
+- [[Firefox]] for my Firefox plugins
 
 # External links
 

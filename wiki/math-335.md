@@ -5,7 +5,7 @@ belief: emotional
 ---
 
 This is my course review for MATH 335, Advanced Calculus.
-This is the second quarter of the MATH 33X sequence, which started with [MATH 334]().
+This is the second quarter of the MATH 33X sequence, which started with [[MATH 334]].
 I took the course in Winter 2016 with James Morrow and teaching-assistant Will Dana.
 
 # Notes
@@ -83,7 +83,7 @@ From 7th week:
   decent grades at the same time." (Although UW is nowhere as intense as
   Caltech is.)
 
-- This is something I've been feeling since I came to UW, but more and more I feel it is simply *impossible* to learn everything that is part of a course such as this one (and even in my other two courses, [CSE 332]() and [CSE 351]()) if one hasn't seen the material previously. This of course assumes that one is spending a reasonable amount of time on the courses (though perhaps less than what if officially expected---which is I think 3 hours per credit?).
+- This is something I've been feeling since I came to UW, but more and more I feel it is simply *impossible* to learn everything that is part of a course such as this one (and even in my other two courses, [[CSE 332]] and [[CSE 351]]) if one hasn't seen the material previously. This of course assumes that one is spending a reasonable amount of time on the courses (though perhaps less than what if officially expected---which is I think 3 hours per credit?).
 
 - The trend continues in which I become even more disillusioned with UW and academics. It feels incredible to me how everyone else can wake up, attend class each day, dutifully complete homework each week, etc. I suppose it's easier for people who believe more in the human capital narrative of education, but even then, it seems so incredibly exhausting to do this each year. It's difficult for me to explain this precisely, and sometimes I feel that one either intuitively understands the mundaneness, repetitiveness, and stressfulness of being at UW or else one is completely incapable of understanding it[^qs]. Indeed, I think UW is no better than being in high school[^highschool]. I am reminded of days in high school when I would search online for reasons others had come up with against school, because it seemed *so obvious and intuitive* to me that I shouldn't be at school, yet difficult to verbalize why exactly that was.
 
@@ -143,7 +143,7 @@ procrastinate?](https://www.quora.com/Why-do-so-many-Caltech-students-procrastin
     However, my experience differs from Raman's in various ways. (1) I
     am not attending Caltech, so my coursework is (presumably) not even
     close to the intensity of a typical Caltech course load. (2) The
-    problems in MATH 334/335 (and even [CSE 332]()) do require some
+    problems in MATH 334/335 (and even [[CSE 332]]) do require some
     amount of creativity, but they are mostly pretty straightforward.
     There are few problems that are "really easy lay-ups in the homework
     to buoy your spirits" (to quote Raman in his answer), which is

@@ -10,11 +10,11 @@ On this page I describe my personal involvement with and thoughts on EA.
 # Personal involvement
 
 I've been involved with the effective altruism community for some time.
-I first heard about EA through [LessWrong]() (I think it was a post about GiveWell), probably in 2011 or 2012.
+I first heard about EA through [[LessWrong]] (I think it was a post about GiveWell), probably in 2011 or 2012.
 I remember reading [Holden Karnofsky's critique of the Singularity Institute](http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/) (now [MIRI](https://timelines.issarice.com/wiki/Timeline_of_Machine_Intelligence_Research_Institute)) right when it came out (May 2012), and I remember it reaching the status of "most upvoted LW post ever".
 Although I was [intellectually in agreement with effective altruism](https://www.quora.com/As-someone-who-is-intellectually-in-agreement-with-effective-altruism-but-hasnt-started-earning-money-of-my-own-how-can-I-best-contribute-to-the-Effective-Altruism-Forum), I didn't actually do anything about it, thinking that working hard in school would be a form of altruism (i.e. that in the long term, working hard in school and having more opportunities would allow me to best contribute to the world).
 
-In January 2014, I contacted [Cognito Mentoring]() for the first time.
+In January 2014, I contacted [[Cognito Mentoring]] for the first time.
 Although I myself didn't seem to ask directly about EA (looking back at our correspondence), a friend contacted them regarding effective career choice, and this roused my interested in effective altruism as well.
 
 In [July 2014, I attended a Seattle Effective Altruists meetup](https://www.facebook.com/events/266352430227314/); although I didn't contribute much to the discussion, my interest in EA increased.
@@ -26,7 +26,7 @@ The topic of the meetup was also "Donating vs. Working directly for impact",
 which was a topic of particular interest to me going into college.
 
 Following my first meetup was a period of several months where I frequently attended Seattle EA meetups.
-I also became more involved in online discussions of EA, and eventually in November 2014 started the [Cause Prioritization Wiki](http://causeprioritization.org/) as a place to store my research on [cause prioritization]().
+I also became more involved in online discussions of EA, and eventually in November 2014 started the [Cause Prioritization Wiki](http://causeprioritization.org/) as a place to store my research on [[cause prioritization]].
 Also around this time, I tried to start an [effective altruism group at the University of Washington](https://www.facebook.com/groups/EffectiveAltruismUW).
 The group didn't get much traction, and as of August 2016, it had only had one
 meetup in November 2014.
@@ -141,9 +141,9 @@ with people who do consider themselves part of the movement.
 
 # See also
 
-- [Reasons for altruism]()
-- I have a collection of [Effective altruism links]() that might interest people.
-- [Effective altruism and Asperger syndrome]()
+- [[Reasons for altruism]]
+- I have a collection of [[Effective altruism links]] that might interest people.
+- [[Effective altruism and Asperger syndrome]]
 
 # External links
 

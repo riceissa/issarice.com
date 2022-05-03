@@ -7,7 +7,7 @@ status: notes
 ---
 
 Note
-:    This page is part of my series on [Content creation: the organization and dissemination of knowledge]().
+:    This page is part of my series on [[Content creation: the organization and dissemination of knowledge]].
 
 A website may be thought of as having a rooted [tree structure](http://en.wikipedia.org/wiki/Tree_%28graph_theory%29); we look at this concept more closely here.
 
@@ -24,8 +24,8 @@ To understand the two questions better, consider the following pages that might 
 - How to use the `proof` environment  in LaTeX (called "proof" below)
 - How to configure the `thmtools` package on LaTeX ("thmtools")
 - A list of math symbols in LaTeX ("symbols")
-- How to use [Vim]() with LaTeX ("Vim")
-- How to use [Emacs]() with LaTeX ("Emacs")
+- How to use [[Vim]] with LaTeX ("Vim")
+- How to use [[Emacs]] with LaTeX ("Emacs")
 - How to typeset a Japanese LaTeX document ("Japanese")
 - How to typeset a Spanish LaTeX document ("Spanish")
 - How to mix languages in LaTeX ("mix")
@@ -72,9 +72,9 @@ Some points:
 See [Trees, TreeViews, and UI](http://blog.codinghorror.com/trees-treeviews-and-ui/) for more on this.
 If a page has many levels of sections (e.g. chapter, section, subsection, subsubsection, etc.), it becomes very difficult to process where in that tree one is.
 - Besides search, the primary way in which content is now discovered is through sharing on social media.
-I think it's good practice to make one's content [linkable](linkability), which means that each page should be a [good entry point]() and be easy to process.
+I think it's good practice to make one's content [linkable](linkability), which means that each page should be a [[good entry point]] and be easy to process.
 
-See also [a comment by Viliam_Bur](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/ax6q) on [LessWrong](), talking about the [Cognito Mentoring wiki](http://info.cognitomentoring.org/wiki/Main_Page):
+See also [a comment by Viliam_Bur](http://lesswrong.com/lw/k8q/moving_on_from_cognito_mentoring/ax6q) on [[LessWrong]], talking about the [Cognito Mentoring wiki](http://info.cognitomentoring.org/wiki/Main_Page):
 
 
 > Seems to me that your current wiki structure uses too much

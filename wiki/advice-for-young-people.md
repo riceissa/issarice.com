@@ -13,7 +13,7 @@ believe (in 2018--2020).
 # What this page is about
 
 In high school it is common to feel the frustration described in the
-introductory paragraph for [Cognito Mentoring]():
+introductory paragraph for [[Cognito Mentoring]]:
 
 > You love learning. You spend a lot of time reading fiction or learning
 > about science or solving math problems or all of the above. School
@@ -81,7 +81,7 @@ Some other points:
   Market"](http://www.daveshellenberger.com/free-the-education-market) by
   David Shellenberger
 
-- Looking at the resources on [Cognito Mentoring]() is a good idea.
+- Looking at the resources on [[Cognito Mentoring]] is a good idea.
 
 - In general, however, it's probably best to [stay mainstream until you
   have demonstrated success doing unusual stuff][mainstream].
@@ -96,8 +96,7 @@ Some other points:
 ## Paul Graham
 
 Entrepreneur Paul Graham writes good essays on various topics, including
-high school.  Even [Vipul Naik](http://vipulnaik.com) of [Cognito
-Mentoring]() [highly respects Paul Graham][ob_graham]:
+high school.  Even [Vipul Naik](http://vipulnaik.com) of [[Cognito Mentoring]] [highly respects Paul Graham][ob_graham]:
 
 [ob_graham]: http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/
 
@@ -259,7 +258,7 @@ intelligent people who cannot stand LW.
 
 - find more high school-related posts.
 
-Main page: [LessWrong]().
+Main page: [[LessWrong]].
 
 ## gwern
 
@@ -345,7 +344,7 @@ old version:
 High school can be a source of depression, since it is essentially
 [child abuse].  Depression can in turn cause other problems.  I'm not
 really an expert on the topic, but you can read my page on
-[Depression]().
+[[Depression]].
 
 [child abuse]: https://www.quora.com/Do-most-intelligent-people-have-trouble-with-the-public-school-system/answer/Marcus-Geduld
 
@@ -461,7 +460,7 @@ was grognor right? i still don't know!
 
 # Effective altruism
 
-see also my [effective altruism]() page.
+see also my [[effective altruism]] page.
 
 From "[Existential depression in gifted individuals](http://www.davidsongifted.org/db/Articles_id_10269.aspx)":
 
@@ -547,7 +546,7 @@ post seems like a bad idea).
 as you get older, you will hopefully "go woke" in some sense. i'm not
 really sure how to explain what this is like or how you would know
 that e.g. you're "going woke" instead of going crazy. one sort of
-litmus test of sorts is to try reading a bunch of [Wei Dai]() blog
+litmus test of sorts is to try reading a bunch of [[Wei Dai]] blog
 posts. if you don't bounce off, if you instead have thoughts like "wtf
 this guy is so amazing" then you _might_ be on the right track :). i
 think it's easy to have "wtf gwern is amazing" thoughts at like age
@@ -622,7 +621,7 @@ Some books I have enjoyed:
 
 - Dawkins's *Selfish Gene*
 - Bryan Caplan's *[Selfish Reasons to Have More Kids](http://deletionpedia.org/en/Selfish_Reasons_to_Have_More_Kids)*
-    - See also [an overview](http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/) on [LessWrong]()
+    - See also [an overview](http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/) on [[LessWrong]]
 - Gary Drescher's _Good and Real_
 - Daniel Dennett's _Consciousness Explained_
 - Michael Huemer's _The Problem of Political Authority_
@@ -851,7 +850,7 @@ Briefly, here are some principles to learning effectively (which I hope to expan
   tallest man in Fulsom County" don't make it clear whether Peter or Jana has a
   specific someone in mind.
 
-- spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into [Anki]() is _not_ an effective way to learn. there are many pitfalls here.
+- spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into [[Anki]] is _not_ an effective way to learn. there are many pitfalls here.
 - trust your sense of boredom, but also learn to cultivate it. if you're getting bored of something, there's usually a good reason for it (e.g. material is too easy or too difficult), and you can switch to learning something else. (there are similar lessons here, e.g. in mathematics you should trust your sense of aesthetics, but also learn to develop it in response to new mathematics)
 - putting math problems into anki works well for remembering math, but there are many subtleties involved, in order to make sure you stick with it.
 - just reading is not enough (by a lot) for learning new math. you have to do some combination of doing the exercises in the book, coming up with your own exercises, asking questions, checking assumptions for theorems, [a bunch of stuff for definitions](https://learning.subwiki.org/wiki/Understanding_mathematical_definitions), cross-reading multiple books+wikipedia (some books use nonstandard notation or definitions and don't tell you).
@@ -890,7 +889,7 @@ some additions since then (as of february 2020):
 
 # People
 
-*I've moved this section to [People]().*
+*I've moved this section to [[People]].*
 
 # Extreme worldviews
 

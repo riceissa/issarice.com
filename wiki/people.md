@@ -42,7 +42,7 @@ exist.
   However be aware that like many people who become semi-famous, his
   followers/most vocal fans are substantially worse than he is, and many of
   the people who recommend the _Sequences_ don't "get it" (I also want to mention that the earlier sequences are pretty basic and not that interesting, and it's the later sequences that are really interesting).
-- **[Wei Dai]()**
+- **[[Wei Dai]]**
 - **Carl Shulman**:
   Carl often writes in a cryptic manner, so you might
   need to stare really hard at his writings to understand what he is
@@ -76,7 +76,7 @@ exist.
 - Grognor (George Koleszarik). This guy saw the truth. Unfortunately he died before he could produce much ([relevant tweet](https://twitter.com/Grognor/status/524323978832117760)).
 - Jessica Taylor (focus on 2015--2017 stuff)
 - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
-- **Bryan Caplan**: see my page on [EconLog]()
+- **Bryan Caplan**: see my page on [[EconLog]]
   - Note that I consider Caplan's views on many philosophy topics to be
     wrong (not wrong in an interesting way, but just plain wrong in a really dumb way). Examples: dualism of the mind, intuitionist ethics, free will.
     I think his posts about applied ethics are good.
@@ -158,7 +158,7 @@ to list and I'm sure you can find them without my help).
 - Bret Victor; see essays like "[Learnable Programming](http://worrydream.com/LearnableProgramming/)" and "[Magic Ink](http://worrydream.com/MagicInk/)".
 - [Jeff Hays](http://factsanddetails.com/)
 - Zack M. Davis: via rationality community.
-- Piotr Wozniak: via spaced repetition/[Anki]() stuff (which in turn is from LW/gwern).
+- Piotr Wozniak: via spaced repetition/[[Anki]] stuff (which in turn is from LW/gwern).
 - Alex K. Chen: via Vipul Naik.
 - Chris Olah
 - [Mark Lippmann](https://meditationstuff.wordpress.com/). I do not meditate. This is the only meditation blog I enjoy reading.
@@ -194,7 +194,7 @@ to list and I'm sure you can find them without my help).
   working in public,
   and the ability to be alone (not even a girlfriend) and deal with all of the difficulties of that (e.g. see [this video](https://www.youtube.com/watch?v=i7kh8pNRWOo "Techniques for dealing with lack of motivation, malaise, depression - Oct 5, 2017")).
 
-- Tim Pope: I found Pope via [Vim](), which I had been using as my main text editor.
+- Tim Pope: I found Pope via [[Vim]], which I had been using as my main text editor.
 - Sarah Constantin
 - [Ran Prieur](http://ranprieur.com/) (only his dumpster diving and frugality stuff)
 - [Eevee](https://eev.ee/)
@@ -216,6 +216,6 @@ time).
 
 # See also
 
-- [List of lists of people]()
-- [Hiring and judging character]()
+- [[List of lists of people]]
+- [[Hiring and judging character]]
 - [My RSS/atom subscriptions](https://issarice.com/urls.txt)

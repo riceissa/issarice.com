@@ -7,5 +7,5 @@ language: English
 status: notes
 ---
 
-See [Bash aliases]() and [Bash shortcuts]().
+See [[Bash aliases]] and [[Bash shortcuts]].
 Also [riceissa/dotfiles](https://github.com/riceissa/dotfiles/).

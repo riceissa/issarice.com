@@ -18,7 +18,7 @@ This section considers how open one's content should be.
 One definitely shouldn't “fetishize openness”, and ought to always consider to whom what you write will be useful (since if it's useful to no one, then one shouldn't bother publishing it).
 Then again, it's sometimes hard to anticipate who will respond positively to what you write, which is one argument for greater openness.
 
-See [Content availability]() for more.
+See [[Content availability]] for more.
 
 # Choosing a medium (or media)
 
@@ -59,7 +59,7 @@ Christopher J. Su [says](https://www.quora.com/How-should-one-balance-the-potent
 ## Blogs
 
 A variety of arguments have been put forth both for and against blogs.
-See [Arguments for and against blogs]() for more.
+See [[Arguments for and against blogs]] for more.
 
 ## Static sites
 
@@ -182,7 +182,7 @@ Paul Graham's [essays](http://paulgraham.com/essay.html) would probably fit unde
 
 # The tree structure of a website
 
-I have a separate page on [Using a tree structure for websites]().
+I have a separate page on [[Using a tree structure for websites]].
 
 
 ## Content length
@@ -224,7 +224,7 @@ See [The value of content creation](./the-value-of-content-creation) for more.
     > important, there should be no *forced sequencing* of the entries
     > as in a textbook, where future entries depend on earlier ones.
 
-- See [Having ideas that are lying around]().
+- See [[Having ideas that are lying around]].
 
 - Granularity/modularity
 
@@ -274,38 +274,38 @@ Does this mean blogs are superior to e.g. static sites?
 Here is a (possibly partial) list of pages related to content creation on this site.
 Note that some of them have already been linked to on this page.
 
-- [Anonymity]()
-- [Arguments for and against blogs]()
-- [Canonical naming]()
-- [Comments]()
-- [Content availability]()
-- [Content licensing]()
-- [Egoism of personal websites]()
-- [Good content]()
-- [Good entry point]()
-- [Having a personal website]()
-- [Having “ideas that are lying around”]()
-- [Jargon]()
-- [Linkability]()
-- [Linking effectively]()
-- [Long Content]()
-- [Not a dictionary]()
-- [Open Borders: The Case]()
-- [Overlinking]()
-- [Perfectionism]()
-- [Personal thoughts on licensing]()
-- [Quora]()
-- [Requirements for a website]()
-- [Single source publishing]()
-- [Tabular presentation]()
-- [Tag ontology]()
-- [The value of content creation]()
-- [Thoughts on using Reddit effectively]()
-- [Using a tree structure for websites]()
-- [Wikipedia]()
-- [mojix]()
-- [“He said, she said”]()
-- [wikiHow]()
+- [[Anonymity]]
+- [[Arguments for and against blogs]]
+- [[Canonical naming]]
+- [[Comments]]
+- [[Content availability]]
+- [[Content licensing]]
+- [[Egoism of personal websites]]
+- [[Good content]]
+- [[Good entry point]]
+- [[Having a personal website]]
+- [[Having “ideas that are lying around”]]
+- [[Jargon]]
+- [[Linkability]]
+- [[Linking effectively]]
+- [[Long Content]]
+- [[Not a dictionary]]
+- [[Open Borders: The Case]]
+- [[Overlinking]]
+- [[Perfectionism]]
+- [[Personal thoughts on licensing]]
+- [[Quora]]
+- [[Requirements for a website]]
+- [[Single source publishing]]
+- [[Tabular presentation]]
+- [[Tag ontology]]
+- [[The value of content creation]]
+- [[Thoughts on using Reddit effectively]]
+- [[Using a tree structure for websites]]
+- [[Wikipedia]]
+- [[mojix]]
+- [[“He said, she said”]]
+- [[wikiHow]]
 
 # External links
 

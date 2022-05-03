@@ -9,7 +9,7 @@ belief: possible
 
 This is my course review for math 136 at University of Washington.
 I took the course in spring 2015 with [Ebru Bekyel].  This class is a
-continuation of [math 134]() and [math 135](), which I took the previous
+continuation of [[math 134]] and [[math 135]], which I took the previous
 two quarters at UW.  You can look at the [course webpage] ([archived] as
 of the end of the quarter) for some of the course content.
 

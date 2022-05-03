@@ -41,7 +41,7 @@ RateMyProfessors.com](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=121753
 >  never really helped.
 
 I'm actually sympathetic to this view.  Even though I covered
-differential equations in [MATH 135](), the class was not just about
+differential equations in [[MATH 135]], the class was not just about
 differential equations; as a result, I only spent a few weeks on
 material that others would have spent the entire quarter (or multiple
 quarters) on[^diffeq].  From observing a few of the other students in

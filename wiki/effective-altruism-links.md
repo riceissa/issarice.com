@@ -5,7 +5,7 @@ created: 2015-01-02
 date: 2015-07-07
 ---
 
-Although I haven't spent too much time investigating all resources on [effective altruism]() (EA), it seems that right now, discussions are occurring in disparate places, and that coordination between these places is lacking.
+Although I haven't spent too much time investigating all resources on [[effective altruism]] (EA), it seems that right now, discussions are occurring in disparate places, and that coordination between these places is lacking.
 It is difficult, for instance, to find all EA discussions that have taken place on giving now or later, or to find all discussions on going into finance.
 The goal of this page is to *slowly* compile all discussions that have taken place about EA on particular topics.
 I have also recently started the [Cause Prioritization Wiki](http://causeprioritization.org), which also focuses on information-gathering, but the wiki has the goal of comparing different causes, not just amassing EA discussions of them.
@@ -80,7 +80,7 @@ You can find my original public announcement about doing cause prioritization re
 
 # Digital preservation
 
-See [Digital preservation]() and the [digital preservation article on the CP wiki](http://causeprioritization.org/Digital%20preservation).
+See [[Digital preservation]] and the [digital preservation article on the CP wiki](http://causeprioritization.org/Digital%20preservation).
 (I'm still not entirely sure how I should try to split content between the two.
 I suppose the latter will only contain information about how important it is to do this, how much cost is involved in large-scale efforts, etc., i.e. more "impersonal" stuff, while the former will be more of a "do it yourself" type page.)
 

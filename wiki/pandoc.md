@@ -13,7 +13,7 @@ With some creativity, one can use Pandoc to do accomplish some neat tasks.
 
 # Installing
 
-See my page on [installing Haskell]() for more information.
+See my page on [[installing Haskell]] for more information.
 
 # Going from markdown to HTML
 

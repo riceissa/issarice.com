@@ -19,7 +19,7 @@ quarterly reviews, which in turn point to my course reviews:
 The overall emotional tone for me for the first year was extremely negative.
 No doubt this is partly due to some ongoing personal problems, but two possibly more significant factors were the general disappointment of the university experience and stress from coursework.
 My first year was spent essentially completing prerequisites for admission to the computer science major, and as such I did not learn much academically (e.g. introductory programming, mechanics, and proof-based single-variable calculus were all topics I had explored previously).
-That isn't to say I didn't learn anything academically: I still learned a fair amount in math courses I took in the latter two quarters, namely differential equations in [MATH 135]() and rigorous linear algebra in [MATH 136](); I also knew close to nothing about climate modelling so everything in [ATM S 559]() was new.
+That isn't to say I didn't learn anything academically: I still learned a fair amount in math courses I took in the latter two quarters, namely differential equations in [[MATH 135]] and rigorous linear algebra in [[MATH 136]]; I also knew close to nothing about climate modelling so everything in [[ATM S 559]] was new.
 
 As for disappointment with the university experience, this was mostly due to college being essentially identical to high school.
 I still found homework tedious and unrewarding, and myself unable to connect with all but a few people^[I have mostly given up on making friends in real life.

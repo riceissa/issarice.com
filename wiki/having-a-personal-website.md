@@ -59,7 +59,7 @@ Having, say, one website about cooking (written by various people) and a separat
 # Compromise?
 
 One thing to note is that, even given the disadvantages of having one's own website, one can still have a website but primarily post in places other than one's own website, for instance in Facebook groups or on topic-specific websites.
-For instance, I post all of my research relevant to [cause prioritization]() on the [Cause Prioritization Wiki](http://causeprioritization.org/).
+For instance, I post all of my research relevant to [[cause prioritization]] on the [Cause Prioritization Wiki](http://causeprioritization.org/).
 
 In addition, there is often information that cannot fit in other places.
 For instance, where does one put information about the account names one uses on various sites, or one's contact information?
@@ -68,9 +68,9 @@ Or if one wanted to write monthly or quarterly updates on the progress one makes
 
 # Notes on having mine
 
-- I expect to fairly often rename pages when I'm starting out, since I want pages to use [canonical naming]() but sometimes I'm careless or don't know what the standard name of a topic is.
+- I expect to fairly often rename pages when I'm starting out, since I want pages to use [[canonical naming]] but sometimes I'm careless or don't know what the standard name of a topic is.
 Fixing is cheap, though.
-For instance, I recently changed the page "Openness and availability of content" to the much simpler "[Content availability]()".
+For instance, I recently changed the page "Openness and availability of content" to the much simpler "[[Content availability]]".
 After the obvious `git mv` and changing of the title in the file itself, I had to look for all the references I made to that page throughout.
 This is achieved by:
 
@@ -80,7 +80,7 @@ This is achieved by:
 
     The periods are helpful because they catch both the hyphenated links (explicit) or the spaces (used for implicit internal linking).
 
-    Note that in [Vim]() it's also possible to do `:vim /openness.and.avail/ wiki/*` instead, and then cycle through the matches with `:cn`.
+    Note that in [[Vim]] it's also possible to do `:vim /openness.and.avail/ wiki/*` instead, and then cycle through the matches with `:cn`.
 
 - What are the "essential" parts of a personal website?
 In terms of topics, it seems that the following are good to have: a short biography, links to one's work, and contact information.
@@ -109,7 +109,7 @@ Indeed, a CV could take care of all three in a sense.
     It could also aid people trying to scrape the site for whatever use, but considering that I already publish the source files for everything on GitHub, that would probably be easier to deal with than scraping the HTML and then parsing it.
 
     Redirection
-    :   This may just be characteristic of how I write, or perhaps indicative of how much I care about long-term content, but I like to aim for [canonical naming]() of pages, which means that pages (especially older ones) are renamed, so implementing redirection is very important.
+    :   This may just be characteristic of how I write, or perhaps indicative of how much I care about long-term content, but I like to aim for [[canonical naming]] of pages, which means that pages (especially older ones) are renamed, so implementing redirection is very important.
     I often get frustrated when links to pages on personal websites don't work just because the page had moved.
     One question is whether it is better to implement this at the server level or the HTML level.
     I currently use an HTML redirection, which has the advantage of working even on a local machine (for the moment, this is mostly useful for myself when I use the local version as my personal wiki, since the public version on [issarice.com](http://issarice.com) becomes out-of-date over the course of one month---the usual time interval with which I deploy this site).

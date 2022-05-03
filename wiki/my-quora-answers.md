@@ -6,7 +6,7 @@ date: 2017-11-30
 
 # Introduction
 
-My main contributions to [Quora]() are through my questions, but I don't think my answers are especially bad, so here they are.
+My main contributions to [[Quora]] are through my questions, but I don't think my answers are especially bad, so here they are.
 
 Starting in November 2017, I have begun storing my answers as separate text
 files in a [directory on my website repository](https://github.com/riceissa/issarice.com/tree/master/external/quora.com).
@@ -104,7 +104,7 @@ I have done this a few times (say, between 2 and 10 times). Given that I’ve kn
 
 [Mirror](https://www.quora.com/Are-there-URLs-one-cannot-send-over-Facebook-messenger-due-to-its-broken-URL-parsing/answer/Issa-Rice)
 
-This answer has moved to [URL parsing]().
+This answer has moved to [[URL parsing]].
 
 # What is epistemic soundness?
 
@@ -823,7 +823,7 @@ greater extent than has been possible for him so far.
 
 [Mirror](https://www.quora.com/Ive-completed-my-freshman-year-of-university-with-a-4-0-GPA-yet-I-feel-something-is-missing-How-do-I-make-college-the-most-fulfilling-enlightening-experience-possible/answer/Issa-Rice)
 
-*This answer is quoted in full at [Some thoughts on college education]().*
+*This answer is quoted in full at [[Some thoughts on college education]].*
 
 # Is it secure for me to log into my Internet accounts on the KCLS library computers?
 
@@ -938,7 +938,7 @@ See also this quote from *[The 7 Habits of Highly Effective People](!w)*, which 
 
 [Mirror](https://www.quora.com/One-year-on-how-has-Cognito-Mentoring-benefited-you/answer/Issa-Rice)
 
-[This answer is mostly a quote from my [Cognito Mentoring]() page, so it's easier just to look at that.
+[This answer is mostly a quote from my [[Cognito Mentoring]] page, so it's easier just to look at that.
 If you're curious about how the page was when I quoted it in the answer, have a look at [the exact commit](https://raw.githubusercontent.com/riceissa/issarice.com/9ff14ea008aa49cba8db6e2459cdf9150fcd2a0c/pages/cognito-mentoring.md).]
 
 # Are the Vipul Naik-related questions on Quora cultish?
@@ -1214,7 +1214,7 @@ effort to attempt to start a group).
 
 [Mirror](https://www.quora.com/How-has-the-way-Vipul-Naik-uses-Facebook-changed-the-way-you-think-about-social-media/answer/Issa-Rice)
 
-Please see [Facebook](), where this answer has been incorporated.
+Please see [[Facebook]], where this answer has been incorporated.
 
 # How can I implement cool URIs with Hakyll?
 
@@ -1233,7 +1233,7 @@ Note that if you're hosting on something like GitHub pages, then this is not pos
 
 [Mirror](https://www.quora.com/What-music-does-Issa-Rice-listen-to/answer/Issa-Rice)
 
-See [Music I like to listen to]().
+See [[Music I like to listen to]].
 
 # Does Issa Rice watch anime?
 
@@ -1282,7 +1282,7 @@ As for how often this actually happens, I'd guess maybe once or twice a day.
 
 [Mirror](https://www.quora.com/What-are-the-Dungeons-Dragons-alignment-types-of-prominent-Quora-users/answer/Issa-Rice)
 
-See my [profile]() page.
+See my [[profile]] page.
 
 # How does your Quora all time views/upvotes ratio compare to your questions/answers (public) ratio?
 
@@ -1308,7 +1308,7 @@ enter a Markdown document and observe the differing HTML outputs.
 
 [Mirror](https://www.quora.com/How-can-I-write-messages-in-Gmail-using-Markdown/answer/Issa-Rice)
 
-See my page on [Pandoc]().
+See my page on [[Pandoc]].
 
 # Why does only the first item of a list show up when using pandoc and YAML headers?
 
@@ -1330,7 +1330,7 @@ header](http://stackoverflow.com/questions/25559469/listing-tags-using-pandoc-an
 
 [Mirror](https://www.quora.com/Is-there-a-service-or-program-that-lets-you-copy-text-from-a-website-directly-into-Markdown-retaining-all-formatting/answer/Issa-Rice)
 
-See my page on [Pandoc]().
+See my page on [[Pandoc]].
 
 # Are there translations websites of Quora content?
 
@@ -2098,7 +2098,7 @@ added, so the latter date should be pretty precise.)
 
 # How should I properly pronounce your name?
 
-See [Name]().
+See [[Name]].
 
 # Does anyone want a Seattle Quora Meetup for April 2014?
 

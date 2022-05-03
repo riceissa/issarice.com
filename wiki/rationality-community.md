@@ -6,14 +6,14 @@ date: 2017-10-17
 ---
 
 The rationality community or rationalist community is a community that was once
-centered around the group blog [LessWrong](); the community still exists but is
+centered around the group blog [[LessWrong]]; the community still exists but is
 much more spread out across multiple websites (known as the "rationalist
 diaspora").
 This page describes my involvement with the rationality community.
 
 # Personal involvement
 
-I discovered [LessWrong]() in 2010 or 2011; the first record I have of
+I discovered [[LessWrong]] in 2010 or 2011; the first record I have of
 mentioning LessWrong dates to October 2011. I remember discovering it twice:
 the first was when Vaniver on the xkcd forums linked to the site, and the
 second was when I was searching for textbooks and found [Luke Muehlhauser's
@@ -32,10 +32,10 @@ being shy and traveling to Seattle being cumbersome (as I was located on the
 
 I created my account on LessWrong in July 2012.
 
-On January 1, 2014, I emailed [Cognito Mentoring]() after seeing its post on
+On January 1, 2014, I emailed [[Cognito Mentoring]] after seeing its post on
 LessWrong.
 
-Since late 2014, I've become more involved with the [effective altruism]()
+Since late 2014, I've become more involved with the [[effective altruism]]
 community rather than spending time on LessWrong specifically.
 
 I have neither attended a Center for Applied Rationality workshop nor read

@@ -7,7 +7,7 @@ status: notes
 belief: possible
 ---
 
-I'm a big fan of **long-term thinking**; after all, I'm very interested in anti-aging, [long content](), [durable link]()s, and so on.
+I'm a big fan of **long-term thinking**; after all, I'm very interested in anti-aging, [[long content]], [[durable link]]s, and so on.
 I think Peter Thiel nailed it with these quotes:
 
 > People always say they want to live every day as though it will be their

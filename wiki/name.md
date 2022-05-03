@@ -39,11 +39,11 @@ Islam](https://en.wikipedia.org/wiki/Jesus_in_Islam)).
 
 # See also
 
-- [About]()
-- [Contact]()
-- [Account names]()
+- [[About]]
+- [[Contact]]
+- [[Account names]]
 
 # External links
 
-- This page originally started as an answer to a question on [Quora]().
+- This page originally started as an answer to a question on [[Quora]].
   You can see the [original answer on Quora](https://www.quora.com/How-should-I-properly-pronounce-your-name/answer/Issa-Rice).

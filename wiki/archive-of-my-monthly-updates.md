@@ -265,8 +265,8 @@ work on incremental donor similarity computation and some other minor changes.
 You can see [my commits](https://github.com/vipulnaik/donations/commits?author=riceissa).
 
 I started work on a series of wiki pages about specific individuals, mostly
-those involved in the [effective altruism]() movement and the
-[rationality community](). This work is not public, but a subset of the work
+those involved in the [[effective altruism]] movement and the
+[[rationality community]]. This work is not public, but a subset of the work
 may eventually be made public, and the work is intended to help with public
 writeups in the future. This work is funded by Vipul Naik.
 
@@ -277,8 +277,8 @@ I also started a [comparison of machine learning textbooks](https://machinelearn
 For completed tasks, see the [work page](work).
 
 I continued work on a series of wiki pages about specific individuals, mostly
-those involved in the [effective altruism]() movement and the
-[rationality community](). This work is not public, but a subset of the work
+those involved in the [[effective altruism]] movement and the
+[[rationality community]]. This work is not public, but a subset of the work
 may eventually be made public, and the work is intended to help with public
 writeups in the future. This work is funded by Vipul Naik.
 
@@ -341,8 +341,8 @@ You can see the relevant [issue](https://github.com/vipulnaik/donations/issues/4
 I also did some work on a [Timeline of OpenAI](https://timelines.issarice.com/wiki/Timeline_of_OpenAI).
 
 I continued work on a series of wiki pages about specific individuals, mostly
-those involved in the [effective altruism]() movement and the
-[rationality community](). This work is not public, but a subset of the work
+those involved in the [[effective altruism]] movement and the
+[[rationality community]]. This work is not public, but a subset of the work
 may eventually be made public, and the work is intended to help with public
 writeups in the future. This work is funded by Vipul Naik.
 
@@ -364,18 +364,18 @@ On Wikipedia Views, I helped to get the [new monthly clickstream data
 incorporated](https://github.com/vipulnaik/wikipediaviews/issues/21).
 
 In the interest of making conversations public, I wrote up my notes on
-[taxonomies](). These notes started out as a Facebook Messenger chat group in
+[[taxonomies]]. These notes started out as a Facebook Messenger chat group in
 June 2017 where I sent links and ideas related to taxonomies.
 
 I continued to do some work on a series of wiki pages about specific
-individuals, mostly those involved in the [effective altruism]() movement and
-the [rationality community](). This work is not public, but a subset of the
+individuals, mostly those involved in the [[effective altruism]] movement and
+the [[rationality community]]. This work is not public, but a subset of the
 work may eventually be made public, and the work is intended to help with
 public writeups in the future. This work is funded by Vipul Naik.
 
 # May 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 This month I spent a lot of time learning math so only spent about 64 hours on
 contract work.
@@ -401,7 +401,7 @@ I did some work on [Timeline of Google Brain](https://timelines.issarice.com/wik
 
 # June 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 This month I spent a lot of time doing miscellaneous thinking and learning math
 so only spent about 77 hours on contract work.
@@ -414,7 +414,7 @@ that generates the main page table on [Timelines Wiki](https://timelines.issaric
 
 # July 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 This month I spent a lot of time working on the [Computing Data Project](https://github.com/riceissa/computing-data-project/). It's not ready for public use yet.
 
@@ -426,7 +426,7 @@ I did some work on Vipul's Donations List Website, mostly adding data and workin
 
 # August 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I spent most of my work time on Vipul Naik's [Donations List Website](https://donations.vipulnaik.com/).
 
@@ -444,7 +444,7 @@ I spent most of the month learning about things related to AI alignment.
 
 # September 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I spent some time adding to Vipul Naik's Learning Subwiki. You can see
 [my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=9).
@@ -465,7 +465,7 @@ I spent most of the month learning about things related to AI alignment.
 
 # October 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I spent some time adding to Vipul Naik's Learning Subwiki. You can see
 [my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=10).
@@ -480,7 +480,7 @@ I spent most of the month learning about things related to AI alignment.
 
 # November 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I spent some time adding to Vipul Naik's Learning Subwiki. You can see
 [my contributions for the month](https://learning.subwiki.org/w/index.php?limit=150&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=11).
@@ -499,7 +499,7 @@ front.
 
 # December 2018
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I spent some time adding to Vipul Naik's Learning Subwiki. You can see
 [my contributions for the month](https://learning.subwiki.org/w/index.php?limit=70&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2018&month=12).
@@ -507,11 +507,11 @@ I spent some time adding to Vipul Naik's Learning Subwiki. You can see
 I spent most of the month learning about things related to AI alignment. See my
 [daily updates blog](https://issarice.wordpress.com/) for updates on this front.
 
-For previous monthly updates, see the [archive of my monthly updates]().
+For previous monthly updates, see the [[archive of my monthly updates]].
 
 # January 2019
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I spent some time adding to Vipul Naik's Learning Subwiki. You can see
 [my contributions for the month](https://learning.subwiki.org/w/index.php?limit=60&title=Special%3AContributions&contribs=user&target=Issa+Rice&namespace=&tagfilter=&year=2019&month=01).
@@ -530,7 +530,7 @@ I spent most of the month learning about things related to AI alignment. See my
 In case you were wondering, I got lazy at the end of February and didn't update
 this section, so I am bundling together February and March.
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I've been working towards an explanation of Solomonoff induction; see
 [Solomonoff induction](https://machinelearning.subwiki.org/wiki/Solomonoff_induction) and
@@ -557,7 +557,7 @@ I'm also hoping to transition into being more output-oriented in AI alignment, w
 I was busy with travel and didn't feel like updating this section at the end of
 April, so I am bundling together April and May.
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 I've been working towards an explanation of Solomonoff induction; see
 [Solomonoff induction](https://machinelearning.subwiki.org/wiki/Solomonoff_induction),
@@ -571,11 +571,11 @@ For my edits to the Machine Learning Subwiki, see [here](https://machinelearning
 I started working on a [timeline of effective altruism](https://timelines.issarice.com/wiki/Timeline_of_effective_altruism).
 
 I also started working on a portfolio page, which should provide an alternative
-to my [work]() page.
+to my [[work]] page.
 
 # June 2019
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=140&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=6).
 
@@ -583,7 +583,7 @@ An initial version of my [portfolio page](https://issarice.com/portfolio) is now
 
 # July 2019
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 For my edits to the Machine Learning Subwiki, see [here](https://machinelearning.subwiki.org/w/index.php?limit=160&title=Special%3AContributions&contribs=user&target=IssaRice&namespace=&tagfilter=&year=2019&month=7).
 
@@ -593,7 +593,7 @@ I also spent some time (~30 hours) this month doing contract work for the [BERI/
 
 # August--November 2019
 
-For completed tasks, see the [work]() page.
+For completed tasks, see the [[work]] page.
 
 The past few months I've been spending a lot of time just thinking about AI
 safety, life in general, what I should work on, etc.

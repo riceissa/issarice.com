@@ -7,8 +7,8 @@ status: draft
 ---
 
 This is my course review for CSE 390 at the University of Washington.
-I took the course in autumn 2014 with [Stuart Reges](http://homes.cs.washington.edu/~reges/) (as part of [CSE 142]()), and in winter 2015 with Adam Blank (as part of [CSE 143]()).
-Below I will talk about my experience from autumn 2014; for my experience from winter 2015, see [CSE 390 (for CSE 143)]().
+I took the course in autumn 2014 with [Stuart Reges](http://homes.cs.washington.edu/~reges/) (as part of [[CSE 142]]), and in winter 2015 with Adam Blank (as part of [[CSE 143]]).
+Below I will talk about my experience from autumn 2014; for my experience from winter 2015, see [[CSE 390 (for CSE 143)]].
 
 CSE 390 was by far the most enjoyable course of the quarter.
 The university doesn't seem to have strict guidelines for how professors conduct the course, so I suspect the course differs significantly depending on the professor with whom one takes the course.
@@ -21,7 +21,7 @@ He said to the effect that during his years at Stanford, what he remembered most
 
 # The book
 
-Barrat's book was a bit basic for me, since I had already been reading [LessWrong]() for several years prior to the course.
+Barrat's book was a bit basic for me, since I had already been reading [[LessWrong]] for several years prior to the course.
 The content seemed a bit repetitive, and often the arguments seemed to be based solely on Barrat's opinion (which seemed dubious, since he is apparently a documentary maker, and not an expert in AI).
 Reges, as well as the class, seemed to find the content repetitive as well.
 Although Reges did say that superintelligence is something we have to be concerned about, I got the impression that the class was unconvinced by the idea of a superintelligence.

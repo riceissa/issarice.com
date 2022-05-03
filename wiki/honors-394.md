@@ -21,7 +21,7 @@ The assigned books were (in the order that we read them):
 - *The Death and Life of the Great American School System* by Diane Ravitch
 - *Building a Better Teacher* by Elizabeth Green
 
-I didn't think the in-class discussions were all that useful or high-quality (which is about as much as I expected), especially compared to the quality of discussions I regularly encounter on [Facebook](), [Quora](), and [LessWrong]() (even with those places you have to find the good discussions though).
+I didn't think the in-class discussions were all that useful or high-quality (which is about as much as I expected), especially compared to the quality of discussions I regularly encounter on [[Facebook]], [[Quora]], and [[LessWrong]] (even with those places you have to find the good discussions though).
 
 I think the greatest benefit I got from the course was the ability to spend some time researching unschooling as part of the final project (which ended up also being useful for my [Cause Prioritization Wiki](http://causeprioritization.org))[^ironically].
 

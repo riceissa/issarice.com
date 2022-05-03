@@ -27,7 +27,7 @@ It occurs to me that there are many reasons (including many weird reasons) for a
   > mutation load and congenital defects and infections and development noise
   > and shared environment and media consumption
 
-  My life has had some good moments in it, but the vast majority of it is pretty mediocre and a lot of it is pretty terrible. Given that there are so few interesting [people]() in this world, and the fact that my life doesn't seem so bad (if you look at it from the outside), I'm inclined to think most people's lives are even more worthless than this. It's impolitic to go around asking people "So what makes you think your life is so valuable?", but that's how I feel about it.
+  My life has had some good moments in it, but the vast majority of it is pretty mediocre and a lot of it is pretty terrible. Given that there are so few interesting [[people]] in this world, and the fact that my life doesn't seem so bad (if you look at it from the outside), I'm inclined to think most people's lives are even more worthless than this. It's impolitic to go around asking people "So what makes you think your life is so valuable?", but that's how I feel about it.
 
   When I consume an emotionally moving story, I can sometimes catch glimpses of how mechanical my emotional response is. I am just responding in a pretty predictable way to a few simple story-telling tricks. See also [Spoiler test of depth](https://wiki.issarice.com/wiki/Spoiler_test_of_depth).
 

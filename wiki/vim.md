@@ -7,7 +7,7 @@ date: 2016-08-27
 
 For most text editing and programming tasks, I use Vim. I started using it
 around 2011 as my first "serious" text editor, and although I sometimes use and
-have experimented with others (e.g. [Emacs]()), I haven't really felt a desire
+have experimented with others (e.g. [[Emacs]]), I haven't really felt a desire
 to switch.
 
 This page documents some of my musings from using Vim; most of it has probably already been said elsewhere.
@@ -557,7 +557,7 @@ these I've only been able to articulate in the past year or so.
 
 # See also
 
-* [Software]() for more about the software I use
+* [[Software]] for more about the software I use
 
 [hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276

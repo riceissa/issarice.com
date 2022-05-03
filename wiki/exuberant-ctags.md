@@ -12,4 +12,4 @@ This is page is a placeholder for now.
 
 # See also
 
-* [Software]() for more about the software I use
+* [[Software]] for more about the software I use

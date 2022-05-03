@@ -72,7 +72,7 @@ Other examples:
 
 # See also
 
-  * [Dating style]()
+  * [[Dating style]]
 
 # External links
 

@@ -11,8 +11,8 @@ This is my (Issa Rice's) UW honors portfolio index.
 
 # Quarters
 
-- [Autumn 2014 at the University of Washington]()
-- [Winter 2015 at the University of Washington]()
+- [[Autumn 2014 at the University of Washington]]
+- [[Winter 2015 at the University of Washington]]
 
 # Portfolio statement
 

@@ -123,6 +123,6 @@ Thanks to Vipul Naik for the following links.
 - [Are you experiencing long waits calling the IRS?](http://www.accountingweb.com/community-voice/blogs/william-brighenti/are-you-experiencing-long-waits-calling-the-irs)
 
 [^tax_2015]: Tax year 2015 was the first year for which I filed a return, because I had made money doing content creation work under Vipul Naik.
-For more, see my page about [Wikipedia]().
+For more, see my page about [[Wikipedia]].
 
 [^sevq]: In other words, dealing with the IRS is more like asking a question on Stack Exchange than asking a question on Quora.

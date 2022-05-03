@@ -15,7 +15,7 @@ Quora][my qs].
 
 [my qs]: https://www.quora.com/Issa-Rice/questions
 
-I also have about 80 answers on the site as of August 2015, some of which are archived on this site at [My Quora answers]().
+I also have about 80 answers on the site as of August 2015, some of which are archived on this site at [[My Quora answers]].
 
 I think Quora has the potential to produce long-lasting content, but [similarly to Vipul Naik, I am uncertain of the social value of contributing](http://vipulnaik.com/quora/)[^vipul].
 

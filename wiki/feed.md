@@ -6,7 +6,7 @@ date: 2018-09-21
 ---
 
 *This page is about the Atom and RSS feeds for this website.
-If you're looking for specific social media feeds, head over to my pages on [Facebook]() or [Quora](); see also my [contact]() page, where you'll find a list of my various social media accounts.*
+If you're looking for specific social media feeds, head over to my pages on [[Facebook]] or [[Quora]]; see also my [[contact]] page, where you'll find a list of my various social media accounts.*
 
 I have an [Atom feed](atom.xml) and an [RSS feed](rss.xml) for this website where you can get updates (this is probably the best way to get updates, since it includes only the more important changes).
 
@@ -31,4 +31,4 @@ There are also various other Atom/RSS feeds of my online activity:
 * [LessWrong Wiki](https://wiki.lesswrong.com/api.php?action=feedcontributions&user=Riceissa&feedformat=atom)
 * [wikiHow](https://www.wikihow.com/api.php?action=feedcontributions&user=Issa-Rice&feedformat=atom)
 
-For feeds that _I_ follow, see [urls.txt](https://issarice.com/urls.txt) (it is in [Newsbeuter]() format).
+For feeds that _I_ follow, see [urls.txt](https://issarice.com/urls.txt) (it is in [[Newsbeuter]] format).

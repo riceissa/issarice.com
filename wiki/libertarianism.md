@@ -50,5 +50,5 @@ inaction/unproductive debate, so take an assumption and see where it leads.
 
 # See also
 
-- [Effective altruism]()
-- [Rationality community]()
+- [[Effective altruism]]
+- [[Rationality community]]

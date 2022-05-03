@@ -71,12 +71,12 @@ I don't imagine this site will ever grow to become something like the size of Wi
 # On this site
 
 I have tried to make pages good entry points on here.
-One specific "technique" here is that I try to add meta-notes in italics at the top for navigation, e.g. see my [About]() page:
+One specific "technique" here is that I try to add meta-notes in italics at the top for navigation, e.g. see my [[About]] page:
 
 > *This page is about myself (Issa Rice); for information about this
-> website, see [About this site]().*
+> website, see [[About this site]].*
 
 Another technique: the first paragraph of a page is usually a Wikipedia-style introduction, with bolded keyword and general introduction to the topic.
 This allows readers to quickly tell if the page they're reading is something they want to be reading (sort of like how abstracts function in academic papers).
 
-I also try to avoid [jargon]().
+I also try to avoid [[jargon]].

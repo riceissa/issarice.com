@@ -105,7 +105,7 @@ December 2007:
 
 # See also
 
-* [Account names]() for the account names I use on other sites
+* [[Account names]] for the account names I use on other sites
 
 # External links
 

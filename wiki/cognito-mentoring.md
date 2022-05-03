@@ -51,20 +51,20 @@ In addition to the things listed above, I can attribute various other positive c
 At the end of my first year at University of Washington, I applied to the computer science major and was admitted.
 I expect this to make somewhat of a difference in the long run (regarding financial stability, mostly).
 
-- The review only mentions the information I gained from [Quora]().
+- The review only mentions the information I gained from [[Quora]].
 However, since the time when I wrote the review, I have become a contributor to Quora as well, writing [over 80 answers](https://www.quora.com/Issa-Rice/answers) and asking [more than 3000 questions](https://www.quora.com/Issa-Rice/questions) (as of July 2015).
 If I hadn't been shown the utility of Quora by CM, these contributions would either not have happened, or would have happened at a later point in time.
 
 - My decision to join Facebook was motivated by CM.
 I have since been rather active on the site, [posting links to various articles](https://www.facebook.com/riceissa) and contributing to groups like the [Effective Altruists Facebook group](https://www.facebook.com/groups/effective.altruists/).
 
-- My continued and increased interest in the [effective altruism]() (EA) movement has been helped by Cognito Mentoring.
+- My continued and increased interest in the [[effective altruism]] (EA) movement has been helped by Cognito Mentoring.
 See for instance [their wiki page on EA](http://info.cognitomentoring.org/wiki/Effective_altruism).
 (To be sure, CM wasn't the only influence here; I also became involved with the [Seattle Effective Altruists](https://www.facebook.com/groups/SeattleEffectiveAltruists/) starting in July 2014, which has also helped to increase my interest in EA.)
 
-    In particular, my decision to work on [cause prioritization]() was precipitated by discussions with [Vipul Naik](http://vipulnaik.com/) of Cognito Mentoring.
+    In particular, my decision to work on [[cause prioritization]] was precipitated by discussions with [Vipul Naik](http://vipulnaik.com/) of Cognito Mentoring.
 
-- My decision to purchase domain names and get hosting for this site was catalyzed by [Creating your personal website](http://info.cognitomentoring.org/wiki/Creating_your_personal_website) on the CM info wiki (though I already had [a website made with GitHub pages](https://riceissa.github.io/) prior to that, and was already interested in online [content creation]()).
+- My decision to purchase domain names and get hosting for this site was catalyzed by [Creating your personal website](http://info.cognitomentoring.org/wiki/Creating_your_personal_website) on the CM info wiki (though I already had [a website made with GitHub pages](https://riceissa.github.io/) prior to that, and was already interested in online [[content creation]]).
 
 - I've also made [minor contributions to the CM info wiki](http://info.cognitomentoring.org/wiki/Special:Contributions/Riceissa).
 

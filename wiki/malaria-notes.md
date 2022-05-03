@@ -139,7 +139,7 @@ clear on the different use cases of DDT:
 > to the concerns, are vastly different from the impacts of DDT used in health
 > control.
 
-More on the DDT debate at [claims about DDT]().
+More on the DDT debate at [[claims about DDT]].
 
 Goldsmith (*Battling Malaria on the Front Lines*) mentions climate change and
 land use as two reasons for reemergence of malaria (and not just any two

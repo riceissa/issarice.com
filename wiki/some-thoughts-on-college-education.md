@@ -10,9 +10,8 @@ tags: uw, education, school, advice
 I wrote this answer on Quora today in response to the question "I've completed my freshman year of university with a 4.0 GPA, yet I feel something is missing. How do I make college the most fulfilling, enlightening experience possible?"
 You can read the answer on Quora [here](https://www.quora.com/Ive-completed-my-freshman-year-of-university-with-a-4-0-GPA-yet-I-feel-something-is-missing-How-do-I-make-college-the-most-fulfilling-enlightening-experience-possible/answer/Issa-Rice).
 Although I don't mention it in my answer, the strategy outlined in my
-answer is essentially one I am taking now at the [University of
-Washington]().
-File this under one of my [advice for young people]().
+answer is essentially one I am taking now at the [[University of Washington]].
+File this under one of my [[advice for young people]].
 
 > It's hard to give advice given so little information, but
 > I'll take a shot. Unless you're at a prestigious

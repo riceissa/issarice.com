@@ -8,7 +8,7 @@ date: 2016-11-13
 I use Google Analytics to track traffic to this site.
 In the interest of transparency, I release some summary data here.
 
-Note that I use the [Firefox]() plugin NoScript to disable JavaScript from
+Note that I use the [[Firefox]] plugin NoScript to disable JavaScript from
 google-analytics.com, so this shouldn't count my own views of the site (for the
 most part).
 

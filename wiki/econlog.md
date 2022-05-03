@@ -21,7 +21,7 @@ what's said in the posts below.
 
 # Family and natalism
 
-- obviously his book, *[selfish reasons to have more kids]()*.
+- obviously his book, *[[selfish reasons to have more kids]]*.
 - [The Weird Reason to Have More Kids](http://econlog.econlib.org/archives/2010/12/the_weird_reaso.html)
 - [An Economist's Guide to Happier Parenting][guide]
 

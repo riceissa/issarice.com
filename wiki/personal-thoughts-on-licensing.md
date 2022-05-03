@@ -15,7 +15,7 @@ For software, I've essentially used the [BSD 2-clause license](https://en.wikipe
 
 If I was a content producer or programmer back when free content/free software was still a nonexistent or nascent movement, it might have made more sense to produce things under more restrictive licenses (such that all derivative works have to be licensed freely), since people may have been more motivated to take free content/software and improve it to sell it.
 However, as it is, these movements are fairly well-established: I use GNU/Linux as my primary operating system everywhere, and essentially have no need for proprietary software.
-In addition, many sites like [LessWrong]() and the Effective Altruism Forum encourage people to publish posts under CC-BY, there are many famous books like [SICP](https://mitpress.mit.edu/sicp/) that are Creative Commons-licensed, and so on.
+In addition, many sites like [[LessWrong]] and the Effective Altruism Forum encourage people to publish posts under CC-BY, there are many famous books like [SICP](https://mitpress.mit.edu/sicp/) that are Creative Commons-licensed, and so on.
 In other words, I don't see any danger that people will stop contributing free content/software; the movement can only get bigger as more people join!
 I think there are many benefits to be had when more people adopt an [abundance mindset](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People#Abundance_mentality), which is *partially* achieved with GPL (i.e. you are no longer in competition with most people; you are only curbing potential competition with people who want to make proprietary software) but *fully* achieved with an attribution-only license or the public domain.
 
@@ -28,4 +28,4 @@ For creative works like fictional writing, there might be an even better case to
 
 # See also
 
-- [Content licensing]()
+- [[Content licensing]]

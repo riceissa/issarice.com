@@ -77,7 +77,7 @@ On trait selection:
 # See also
 
 - [Here](http://lesswrong.com/lw/col/review_selfish_reasons_to_have_more_kids/)
-  is a good overview of the main points of the book ([LessWrong]()).
+  is a good overview of the main points of the book ([[LessWrong]]).
 - [Wikipedia
   page](http://deletionpedia.org/en/Selfish_Reasons_to_Have_More_Kids),
   mostly by Vipul.

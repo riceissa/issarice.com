@@ -141,7 +141,7 @@ At each time $t$, the survival ratio is 'the number of employees at time $t$' di
 
 # Commentary
 
-Note that during the [June 2016 GiveWell board meeting](), Elie said
+Note that during the [[June 2016 GiveWell board meeting]], Elie said
 there are 15 full-time staff for Open Phil and 15 for GiveWell, with 8 shared
 operation staff. In other words, the table and plot don't distinguish between
 GiveWell and Open Philanthropy Project employees (as it is difficult to do so
@@ -171,7 +171,7 @@ Also from my board meeting page:
 
 # See also
 
-- [GiveWell executive compensation]()
+- [[GiveWell executive compensation]]
 
 # External links
 

@@ -12,7 +12,7 @@ Some sites that I think have good information are:
 - Gwern's site
 - Econlog
 - Slate Star Codex
-- [LessWrong]()
+- [[LessWrong]]
 - The effective altruism forum
 - Quora
 - Facebook discussions

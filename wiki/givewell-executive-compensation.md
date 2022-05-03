@@ -34,7 +34,7 @@ was not made publicly available.
 
 # See also
 
-- [GiveWell staff growth]()
+- [[GiveWell staff growth]]
 
 [june2016]: http://files.givewell.org/files/ClearFund/Meeting_2016_06_14/Attachment_F_Executive_compensation.pdf "Attachment F, Executive compensation review."
 [june2016 meeting]: http://www.givewell.org/about/official-records/board-meeting-33 "“Clear Fund Board Meeting - June 14, 2016”. GiveWell."

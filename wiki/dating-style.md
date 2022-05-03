@@ -20,4 +20,4 @@ Of course, there are things like [git blame](https://git-scm.com/docs/git-blame)
 
 # See also
 
-* [Versioning prose]()
+* [[Versioning prose]]

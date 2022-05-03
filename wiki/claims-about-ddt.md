@@ -49,7 +49,7 @@ TODO: check for conjunction fallacy fallacy (unpacking fallacy) later.
 
 # See also
 
-* [Malaria notes]()
+* [[Malaria notes]]
 
 # References
 

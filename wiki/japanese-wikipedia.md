@@ -5,7 +5,7 @@ date: 2016-07-21
 ---
 
 This page is part of my effort to better understand Japanese online communities.
-See also my page on [2channel]().
+See also my page on [[2channel]].
 
 I don't necessarily agree with the quotes below. I'm just taking notes and found
 them interesting.

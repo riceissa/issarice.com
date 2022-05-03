@@ -8,8 +8,8 @@ tags: uw course review, uw
 
 This quarter I took 13 credits:
 
-- [MATH 335]()
-- [CSE 332]()
-- [CSE 351]()
+- [[MATH 335]]
+- [[CSE 332]]
+- [[CSE 351]]
 
 I took notes for each course as the quarter went on.

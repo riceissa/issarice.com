@@ -178,7 +178,7 @@ if a writer were to log *all* of their thoughts\ ...
 
 # See also
 
-- I also use [status]() notices on this site.
+- I also use [[status]] notices on this site.
 
 # External links
 

@@ -5,7 +5,7 @@ created: 2014-09-14
 date: 2016-11-13
 ---
 
-*This page is about this site; for information about myself, see [About]().*
+*This page is about this site; for information about myself, see [[about]].*
 
 # Philosophy
 
@@ -39,7 +39,7 @@ current form, here are my thoughts on the above points:
   * The site has survived so far, despite going through several changes in the
     static site generator that is used, the style of Markdown, and the
     organization of pages.
-    I still have the full version-controlled history thanks to [Git]().
+    I still have the full version-controlled history thanks to [[Git]].
     Since I am religious about mirroring content I write on external sites to
     the `external` directory, even if a site for which I write goes down, I can
     ensure that at least my own contributions are here for the long-term.
@@ -47,8 +47,7 @@ current form, here are my thoughts on the above points:
     personal identity.
     The domain name of this site did change from riceissa.com to the current
     issarice.com, and I've reorganized biographical pages a few times, but
-    currently, I have an [About]() page, a page for my online [account
-    names](), and so forth.
+    currently, I have an [[about]] page, a page for my online [[account names]], and so forth.
 
 December 2018 update:
 
@@ -57,8 +56,7 @@ December 2018 update:
   shouldn't become "too big", and in slogan form, "if a personal site is too
   big, that means there aren't enough [Subwikis](https://subwiki.org/)".
 
-This site is my attempt to realize [gwern]’s idea of [Long
-Content]()---i.e. the goal is to incrementally update the pages so as to
+This site is my attempt to realize [gwern]’s idea of [[long content]]---i.e. the goal is to incrementally update the pages so as to
 produce useful, lasting content.[^cy] It is also an [open notebook](http://wcm1.web.rice.edu/open-notebook-history.html) of sorts. In particular, I strive to make
 all the source files used to produce this site human-readable (by
 writing pages in [Pandoc] markdown and storing them in [plain text](http://wcm1.web.rice.edu/my-academic-book-in-plain-text.html)), version-controlled (with [git](!w Git_\(software\))), and
@@ -87,7 +85,7 @@ repository often---so my site is the result of many incremental updates[^aaron].
 
     While I think there's merit in what Swartz says, here are a few things I'll say to counter it:
 
-    - I use [belief]() and [status]() tags to explicitly signal how "complete" or "ready" I think my pages are for the public.
+    - I use [[belief]] and [[status]] tags to explicitly signal how "complete" or "ready" I think my pages are for the public.
     - I only deploy the site once every several commits, so a lot of the most "rough" edits tend to be fixed during the time between deployments (so most of the public won't see them anyway---and if they ever want to see those "rough" edits, they can always dig around in the [Git repository](https://github.com/riceissa/issarice.com)).
 
 
@@ -129,7 +127,7 @@ see in Long Content?
 
 June 2020 update:
 I've since further shifted away from using this website for anything real.
-I think it's good for storing biographical info, and for things like my [portfolio]() page, and for linking out to all my other online presence (so people don't have to go around looking for everything on their own).
+I think it's good for storing biographical info, and for things like my [[portfolio]] page, and for linking out to all my other online presence (so people don't have to go around looking for everything on their own).
 But editing a static site is kind of annoying/has lots of friction/has slower feedback loop compared to editing a MediaWiki wiki.
 In particular, I've been having a lot more fun editing the [Issawiki](https://wiki.issarice.com/) compared to editing this site.
 Going forward, I'd like to convert this site into a minimal biographical site, moving all other content to whichever other site/wiki is most relevant, and taking care to set up redirection so no links break (I'm not planning to _delete_ any content).
@@ -180,7 +178,7 @@ In late October 2016, I added HTTPS support.
 # Colophon
 
 I use Pandoc and a Makefile to produce this site, which is then hosted via Linode.
-For details, see [Colophon]().
+For details, see [[colophon]].
 
 # Getting updates
 
@@ -193,7 +191,7 @@ revision][mod].
 
 # Belief and status tags
 
-I use [status]() and [belief]() markers on this site, both of which
+I use [[status]] and [[belief]] markers on this site, both of which
 are ideas I got from gwern's site. These are both meant to tell the
 reader how the author regards the content on a page. I find that it's
 mostly useful in cases where I want to say "I've only briefly thought

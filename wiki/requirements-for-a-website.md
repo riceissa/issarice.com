@@ -6,7 +6,7 @@ date: 2015-01-01
 ---
 
 What makes a good website, especially one that lasts a long time?
-gwern has some ideas, namely his twin ideas of [Long Site](http://www.gwern.net/About#long-site) and [Long Content]().
+gwern has some ideas, namely his twin ideas of [Long Site](http://www.gwern.net/About#long-site) and [[Long Content]].
 gwern quotes Julian Assange, but it is worth doing so here as well[^assange]:
 
 [^assange]: From "[Self destructing paper](http://web.archive.org/web/20071020051936/http://iq.org/#Selfdestructingpaper)".
@@ -42,7 +42,7 @@ Here are some general principles to keep in mind (copied from gwern's list under
 - Use free software
 - Avoid external dependencies
     - So no URL shorteners, as quoted in the footnotes on gwern's site
-    - What about the DuckDuckGo style links, like [this](!g)?---hmm, this would be fairly simple to fix though, even if DDG went down.---plus, links themselves are an external dependency; trusting DDG is better than trusting any old website. In the end, what will lead to more [durable link]()s?
+    - What about the DuckDuckGo style links, like [this](!g)?---hmm, this would be fairly simple to fix though, even if DDG went down.---plus, links themselves are an external dependency; trusting DDG is better than trusting any old website. In the end, what will lead to more [[durable link]]s?
     - using awesome-slugify?
 - staticness (are there any good reasons for this? gwern doesn't provide any)
 

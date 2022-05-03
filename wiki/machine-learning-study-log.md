@@ -8,7 +8,7 @@ date: 2017-12-27
 # belief:
 ---
 
-This is a study log of my progress in machine learning. I am trying to understand machine learning to get a better sense of AI safety (I think I understand the philosophical/strategic perspective well, having followed the output of the [rationality community]() since around 2010/2011, but I don't know much about ML itself or other technical details of AI development).
+This is a study log of my progress in machine learning. I am trying to understand machine learning to get a better sense of AI safety (I think I understand the philosophical/strategic perspective well, having followed the output of the [[rationality community]] since around 2010/2011, but I don't know much about ML itself or other technical details of AI development).
 
 In parallel with learning ML, I am also reading more high level discussions about AI safety, but I won't cover that on this page. (Not sure where I'll cover it atm)
 

@@ -49,7 +49,7 @@ you more candid responses.
 
 # Licensing
 
-See [Content licensing]().
+See [[Content licensing]].
 
 # See also
 

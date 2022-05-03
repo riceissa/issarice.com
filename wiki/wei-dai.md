@@ -5,7 +5,7 @@ date: 2018-01-17
 status: draft
 ---
 
-Something I find unfortunate is the apparent lack of enthusiasm for Wei Dai and his online content in the [effective altruism]() community. His [posts](http://lesswrong.com/user/Wei_Dai/submitted/) and [comments](http://lesswrong.com/user/Wei_Dai/comments/) on LessWrong seem to me to be clear, important, and relevant to effective altruism. And yet I rarely see his content referenced in the community (especially when compared to people like Nick Bostrom, Carl Shulman, and Eliezer Yudkowsky).
+Something I find unfortunate is the apparent lack of enthusiasm for Wei Dai and his online content in the [[effective altruism]] community. His [posts](http://lesswrong.com/user/Wei_Dai/submitted/) and [comments](http://lesswrong.com/user/Wei_Dai/comments/) on LessWrong seem to me to be clear, important, and relevant to effective altruism. And yet I rarely see his content referenced in the community (especially when compared to people like Nick Bostrom, Carl Shulman, and Eliezer Yudkowsky).
 
 I wonder what the reasons are for this. Some ideas I can think of are:
 

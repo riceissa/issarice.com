@@ -11,7 +11,7 @@ belief: emotional
 
 # First year
 
-Over the course of my first year at [University of Washington](), my computer setup changed a few times, so I thought I'd talk about them here (since it might help others decide on how to approach their own college computer setup).
+Over the course of my first year at [[University of Washington]], my computer setup changed a few times, so I thought I'd talk about them here (since it might help others decide on how to approach their own college computer setup).
 
 Before college, I didn't have a fast laptop computer; my main machine actually was an Acer laptop but its screen was broken so in order to use it I had to connect it to an external monitor! I didn't want to take this machine to my dorm room because I knew it would be a pain to setup, and also I still wanted a computer to use at home.
 
@@ -35,7 +35,7 @@ This setup, where I would take the tablet and phone around during the day and th
 Part of why I didn't change earlier was that most classes continued to not really require a laptop; we never programmed in class or anything and all I needed was a browser, which the tablet adequately supplied.
 Even when studying with my friend, a lot of the time we'd just be reading and doing problems on paper, so being able to program wasn't *that* important.
 
-In spring quarter though, I finally got a Thinkpad x220^[Two friends independently suggested I get this machine!], which was great timing because having an actual mobile machine to program on was important for [ATM S 559]().
+In spring quarter though, I finally got a Thinkpad x220^[Two friends independently suggested I get this machine!], which was great timing because having an actual mobile machine to program on was important for [[ATM S 559]].
 
 # Second year at UW
 

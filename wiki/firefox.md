@@ -48,4 +48,4 @@ In `about:config`:
 
 # See also
 
-* [Software]() for more about the software I use
+* [[Software]] for more about the software I use

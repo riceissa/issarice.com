@@ -41,8 +41,8 @@ One can also find posts like "[Don't Be Afraid of Asking Personally Important Qu
 LW also has [offline meetups](http://lesswrong.com/meetups/) all over the world.
 I myself haven't been to one (the one in Seattle turned into an effective altruism meetup group), but I've been many effective altruism meetups (hosted by the same people who originally did the LW meetups), and my experience has been largely positive.
 
-[Cognito Mentoring]() was also [originally announced on LessWrong](http://lesswrong.com/lw/jee/cognito_mentoring_an_advising_service_for/) (among other places).
-As described in my page on [Cognito Mentoring](), my experience with the mentoring service has been positive.
+[[Cognito Mentoring]] was also [originally announced on LessWrong](http://lesswrong.com/lw/jee/cognito_mentoring_an_advising_service_for/) (among other places).
+As described in my page on [[Cognito Mentoring]], my experience with the mentoring service has been positive.
 
 # STEM in general
 

@@ -11,10 +11,10 @@ belief: possible
 
 Here is a list of courses I took for this quarter:
 
-- [Math 135]()
-- [CSE 143]()
-- [CSE 390 (for CSE 143)]()
-- [Honors 394]()
+- [[Math 135]]
+- [[CSE 143]]
+- [[CSE 390 (for CSE 143)]]
+- [[Honors 394]]
 
 # Review
 
