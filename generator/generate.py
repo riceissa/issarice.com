@@ -27,9 +27,14 @@ def slugify(s):
 os.makedirs("_site", exist_ok=True)
 
 for filename in os.listdir("wiki"):
-    if filename.endswith(".md") and filename.startswith("Q"):
+    if filename.endswith(".md") and filename.startswith("about"):
         print("Processing", filename, file=sys.stderr)
         fileroot = filename[:-len(".md")]
+        # TODO: probably switch to using --filter instead of pipes.
+        # actually, maybe this isn't possible since --filter
+        # doesn't seem to allow sending flags/arguments to the
+        # executable (it just tries to run the whole string as
+        # the executable).
         p = subprocess.run(["pandoc", "-f", "markdown+smart", "-t", "json", "wiki/" + filename], check=True, capture_output=True)
         p2 = subprocess.run(["/home/issa/projects/pandoc-wikilinks-filter/wikilinks.py", "--base-url", "https://issarice.com/"], input=p.stdout, check=True, capture_output=True)
         p3 = subprocess.run(["pandoc", "-f", "json", "-t", "html", "-o", "_site/" + slugify(fileroot)], input=p2.stdout)
