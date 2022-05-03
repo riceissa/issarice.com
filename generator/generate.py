@@ -4,6 +4,13 @@ import os
 import subprocess
 import sys
 
+'''
+Obsidian wikilinks require filenames to be named exactly as it appears
+in the wikilink, which means I have to deal with filenames containing
+spaces. Unfortunately, GNU Make does not work with filenames that
+contain spaces, so I can no longer use Make to do the site generation.
+'''
+
 # eventually, add argparse so that i can compile a single markdown file at a time
 
 def slugify(s):
