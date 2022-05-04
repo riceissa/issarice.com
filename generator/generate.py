@@ -136,7 +136,7 @@ if args.filepaths:
         process_filepath(filepath)
 else:
     for filename in os.listdir("wiki"):
-        if filename.endswith(".md") and filename.startswith("betting"):
+        if filename.endswith(".md"):
             filepath = "wiki/" + filename
             print("Processing", filepath, file=sys.stderr)
             process_filepath(filepath)
