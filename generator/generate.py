@@ -63,7 +63,12 @@ for filename in os.listdir("wiki"):
             sys.exit()
 
         try:
-            p_last_mod = subprocess.run(["git", "log", "-1", '--format=%ad', '--date=format:%Y-%m-%d', "--", filepath], check=True, capture_output=True)
+            p_last_mod = subprocess.run([
+                "git", "log", "-1",
+                '--format=%ad',
+                '--date=format:%Y-%m-%d',
+                "--", filepath
+            ], check=True, capture_output=True)
             last_mod = p_last_mod.stdout.decode("utf-8").strip()
         except subprocess.CalledProcessError as e:
             print("Error running git log command:",
