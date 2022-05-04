@@ -29,7 +29,7 @@ def slugify(s):
 os.makedirs("_site", exist_ok=True)
 
 for filename in os.listdir("wiki"):
-    if filename.endswith(".md") and filename.startswith("about"):
+    if filename.endswith(".md") and filename.startswith("betting"):
         print("Processing", filename, file=sys.stderr)
         filepath = "wiki/" + filename
         fileroot = filename[:-len(".md")]
@@ -81,6 +81,8 @@ for filename in os.listdir("wiki"):
 
         print(subprocess.list2cmdline(p_last_mod.args))
         print(last_mod)
+        final_dest = "_site/" + slugify(fileroot)
+        temp_dest = final_dest + ".tempmjpage.html"
         try:
             p3 = subprocess.run([
                 "pandoc", "-f", "json", "-t", "html5",
@@ -94,7 +96,7 @@ for filename in os.listdir("wiki"):
                 "--lua-filter", "generator/url_filter.lua",
                 "-M", "sourcefilename:" + shlex.quote(filepath),
                 "-M", "lastmodified:" + last_mod,
-                "-o", "_site/" + slugify(fileroot)
+                "-o", temp_dest
             ], input=p2.stdout)
             # print(subprocess.list2cmdline(p3.args))
         except subprocess.CalledProcessError as e:
@@ -102,3 +104,22 @@ for filename in os.listdir("wiki"):
                   "error code:", e.returncode,
                   "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
             sys.exit()
+
+        possibly_has_math = False
+        with open(temp_dest, "r") as f:
+            for line in f:
+                if "\\(" in line or "\\[" in line:
+                    possibly_has_math = True
+        if possibly_has_math:
+            print("This page may contain math; running mjpage...", file=sys.stderr)
+            try:
+                # p_cat = subprocess.run(["cat", temp_dest], check=True, capture_output=True)
+                with open(temp_dest, "r") as f1, open(final_dest, "w") as f2:
+                    p_mjpage = subprocess.run([
+                        "mjpage", "--output", "CommonHTML"
+                    ], stdin=f1, stdout=f2)
+            except subprocess.CalledProcessError as e:
+                print("Error running mjpage:",
+                      "error code:", e.returncode,
+                      "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+                sys.exit()
