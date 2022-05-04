@@ -56,7 +56,7 @@ for filename in os.listdir("wiki"):
 
         try:
             # https://github.com/riceissa/pandoc-wikilinks-filter/blob/main/wikilinks.py
-            p2 = subprocess.run(["wikilinks.py", "--base-url", "/"],
+            p2 = subprocess.run(["wikilinks.py"],
                                 input=p.stdout, check=True,
                                 capture_output=True)
         except subprocess.CalledProcessError as e:
