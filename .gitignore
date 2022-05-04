@@ -7,3 +7,4 @@ site.*
 .sass-cache
 tags
 .ctags
+wiki/.obsidian
