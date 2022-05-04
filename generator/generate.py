@@ -38,6 +38,11 @@ for filename in os.listdir("wiki"):
         # doesn't seem to allow sending flags/arguments to the
         # executable (it just tries to run the whole string as
         # the executable).
+        # -implicit_header_references is necessary when using wikilinks: if the
+        # about page has a section called "Contact" as well as a wiklink
+        # [[contact]], then the Pandoc Markdown reader will interpret that as a
+        # link to the contact section, and you will end up with
+        # "[[contact](#contact)]" instead of "[contact](contact)".
         p = subprocess.run(["pandoc", "-f", "markdown+smart-implicit_header_references", "-t", "json", filepath], check=True, capture_output=True)
         p2 = subprocess.run(["/home/issa/projects/pandoc-wikilinks-filter/wikilinks.py", "--base-url", "https://issarice.com/"], input=p.stdout, check=True, capture_output=True)
         today = "today:" + datetime.date.today().strftime("%Y-%m-%d")
