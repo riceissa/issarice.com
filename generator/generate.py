@@ -118,8 +118,11 @@ for filename in os.listdir("wiki"):
                     p_mjpage = subprocess.run([
                         "mjpage", "--output", "CommonHTML"
                     ], stdin=f1, stdout=f2)
+                os.remove(temp_dest)
             except subprocess.CalledProcessError as e:
                 print("Error running mjpage:",
                       "error code:", e.returncode,
                       "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
                 sys.exit()
+        else:
+            os.rename(temp_dest, final_dest)
