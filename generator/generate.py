@@ -43,9 +43,11 @@ for filename in os.listdir("wiki"):
         # [[contact]], then the Pandoc Markdown reader will interpret that as a
         # link to the contact section, and you will end up with
         # "[[contact](#contact)]" instead of "[contact](contact)".
-        p = subprocess.run(["pandoc", "-f", "markdown+smart-implicit_header_references", "-t", "json", filepath], check=True, capture_output=True)
+        p = subprocess.run([
+            "pandoc", "-f", "markdown+smart-implicit_header_references",
+            "-t", "json", filepath
+        ], check=True, capture_output=True)
         p2 = subprocess.run(["/home/issa/projects/pandoc-wikilinks-filter/wikilinks.py", "--base-url", "https://issarice.com/"], input=p.stdout, check=True, capture_output=True)
-        today = "today:" + datetime.date.today().strftime("%Y-%m-%d")
         try:
             p_last_mod = subprocess.run(["git", "log", "-1", '--format=%ad', '--date=format:%Y-%m-%d', "--", filepath], check=True, capture_output=True)
             last_mod = p_last_mod.stdout.decode("utf-8").strip()
@@ -55,4 +57,18 @@ for filename in os.listdir("wiki"):
             sys.exit()
         print(subprocess.list2cmdline(p_last_mod.args))
         print(last_mod)
-        p3 = subprocess.run(["pandoc", "-f", "json", "-t", "html5", "--shift-heading-level-by", "1", "--template", "templates/default.html5", "-M", "toc-title:Contents", "-M", today, "-M", "lang:en", "--toc", "--toc-depth", "4", "--mathjax", "--lua-filter", "generator/url_filter.lua", "-M", "sourcefilename:" + shlex.quote(filepath), "-M", "lastmodified:" + last_mod, "-o", "_site/" + slugify(fileroot)], input=p2.stdout)
+        p3 = subprocess.run([
+            "pandoc", "-f", "json", "-t", "html5",
+            "--shift-heading-level-by", "1",
+            "--template", "templates/default.html5",
+            "-M", "toc-title:Contents",
+            "-M", "today:" + datetime.date.today().strftime("%Y-%m-%d"),
+            "-M", "lang:en",
+            "--toc", "--toc-depth", "4",
+            "--mathjax",
+            "--lua-filter", "generator/url_filter.lua",
+            "-M", "sourcefilename:" + shlex.quote(filepath),
+            "-M", "lastmodified:" + last_mod,
+            "-o", "_site/" + slugify(fileroot)
+        ], input=p2.stdout)
+        # print(subprocess.list2cmdline(p3.args))
