@@ -52,6 +52,7 @@ for filename in os.listdir("wiki"):
             print("Error running pandoc (markdown to json):",
                   "error code:", e.returncode,
                   "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+            sys.exit()
 
         try:
             p2 = subprocess.run(["/home/issa/projects/pandoc-wikilinks-filter/wikilinks.py", "--base-url", "https://issarice.com/"], input=p.stdout, check=True, capture_output=True)
@@ -59,6 +60,7 @@ for filename in os.listdir("wiki"):
             print("Error running wikilinks.py:",
                   "error code:", e.returncode,
                   "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+            sys.exit()
 
         try:
             p_last_mod = subprocess.run(["git", "log", "-1", '--format=%ad', '--date=format:%Y-%m-%d', "--", filepath], check=True, capture_output=True)
@@ -68,6 +70,7 @@ for filename in os.listdir("wiki"):
                   "error code:", e.returncode,
                   "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
             sys.exit()
+
         print(subprocess.list2cmdline(p_last_mod.args))
         print(last_mod)
         try:
@@ -90,3 +93,4 @@ for filename in os.listdir("wiki"):
             print("Error running pandoc (json to html5):",
                   "error code:", e.returncode,
                   "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+            sys.exit()
