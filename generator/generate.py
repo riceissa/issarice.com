@@ -55,7 +55,10 @@ for filename in os.listdir("wiki"):
             sys.exit()
 
         try:
-            p2 = subprocess.run(["/home/issa/projects/pandoc-wikilinks-filter/wikilinks.py", "--base-url", "https://issarice.com/"], input=p.stdout, check=True, capture_output=True)
+            # https://github.com/riceissa/pandoc-wikilinks-filter/blob/main/wikilinks.py
+            p2 = subprocess.run(["wikilinks.py", "--base-url", "/"],
+                                input=p.stdout, check=True,
+                                capture_output=True)
         except subprocess.CalledProcessError as e:
             print("Error running wikilinks.py:",
                   "error code:", e.returncode,
