@@ -55,4 +55,4 @@ for filename in os.listdir("wiki"):
             sys.exit()
         print(subprocess.list2cmdline(p_last_mod.args))
         print(last_mod)
-        p3 = subprocess.run(["pandoc", "-f", "json", "-t", "html5", "--shift-heading-level-by", "1", "--template", "templates/default.html5", "-M", "toc-title:Contents", "-M", today, "-M", "lang:en", "--toc", "--toc-depth", "4", "--mathjax", "--lua-filter", "generator/url_filter.lua", "-M", "sourcefilename:" + shlex.quote(filename), "-M", "lastmodified:" + last_mod, "-o", "_site/" + slugify(fileroot)], input=p2.stdout)
+        p3 = subprocess.run(["pandoc", "-f", "json", "-t", "html5", "--shift-heading-level-by", "1", "--template", "templates/default.html5", "-M", "toc-title:Contents", "-M", today, "-M", "lang:en", "--toc", "--toc-depth", "4", "--mathjax", "--lua-filter", "generator/url_filter.lua", "-M", "sourcefilename:" + shlex.quote(filepath), "-M", "lastmodified:" + last_mod, "-o", "_site/" + slugify(fileroot)], input=p2.stdout)
