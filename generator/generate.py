@@ -79,8 +79,7 @@ for filename in os.listdir("wiki"):
                   "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
             sys.exit()
 
-        print(subprocess.list2cmdline(p_last_mod.args))
-        print(last_mod)
+        # print(subprocess.list2cmdline(p_last_mod.args))
         final_dest = "_site/" + slugify(fileroot)
         temp_dest = final_dest + ".tempmjpage.html"
         try:
@@ -97,7 +96,7 @@ for filename in os.listdir("wiki"):
                 "-M", "sourcefilename:" + shlex.quote(filepath),
                 "-M", "lastmodified:" + last_mod,
                 "-o", temp_dest
-            ], input=p2.stdout)
+            ], input=p2.stdout, check=True)
             # print(subprocess.list2cmdline(p3.args))
         except subprocess.CalledProcessError as e:
             print("Error running pandoc (json to html5):",
@@ -111,13 +110,13 @@ for filename in os.listdir("wiki"):
                 if "\\(" in line or "\\[" in line:
                     possibly_has_math = True
         if possibly_has_math:
-            print("This page may contain math; running mjpage...", file=sys.stderr)
+            print("This page may contain math, so running mjpage...", file=sys.stderr, end='')
             try:
-                # p_cat = subprocess.run(["cat", temp_dest], check=True, capture_output=True)
                 with open(temp_dest, "r") as f1, open(final_dest, "w") as f2:
                     p_mjpage = subprocess.run([
                         "mjpage", "--output", "CommonHTML"
-                    ], stdin=f1, stdout=f2)
+                    ], stdin=f1, stdout=f2, check=True)
+                print('done.', file=sys.stderr)
                 os.remove(temp_dest)
             except subprocess.CalledProcessError as e:
                 print("Error running mjpage:",
@@ -125,4 +124,5 @@ for filename in os.listdir("wiki"):
                       "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
                 sys.exit()
         else:
+            print("No math so just renaming page.", file=sys.stderr)
             os.rename(temp_dest, final_dest)
