@@ -92,6 +92,7 @@ def process_filepath(filepath):
             "--toc", "--toc-depth", "4",
             "--mathjax",
             "--lua-filter", "generator/url_filter.lua",
+            # TODO: make sure this gives correct filepath
             "-M", "sourcefilename:" + shlex.quote(filepath),
             "-M", "lastmodified:" + last_mod,
             "-o", temp_dest
