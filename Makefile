@@ -17,7 +17,10 @@ wiki_pages:
 	./generator/generate.py
 
 .PHONY: fullsite
-fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/all-pages $(OUTDIR)/sitemap.xml pages
+fullsite: meta_pages pages
+
+.PHONY: meta_pages
+meta_pages: $(OUTDIR)/atom.xml $(OUTDIR)/all-pages $(OUTDIR)/sitemap.xml
 
 .PHONY: sync
 sync:
