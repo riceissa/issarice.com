@@ -7,11 +7,14 @@ SERVER_DEST = carbon:/var/www/issarice.com/public_html
 PANDOC_FLAGS = -f markdown+smart -t html5 --shift-heading-level-by=1 --template=templates/default.html5 -M toc-title:"Contents" -M today:$(shell date -Idate | tr -d '\n') -M lang:"en"
 
 .PHONY: pages
-pages: wiki_pages $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work $(OUTDIR)/account-names $(OUTDIR)/portfolio
+pages: wiki_pages non_wiki_pages
+
+.PHONY: non_wiki_pages
+non_wiki_pages: $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work $(OUTDIR)/account-names $(OUTDIR)/portfolio
 
 .PHONY: wiki_pages
 wiki_pages:
-	generator/generate.py
+	./generator/generate.py
 
 .PHONY: fullsite
 fullsite: $(OUTDIR)/atom.xml $(OUTDIR)/all-pages $(OUTDIR)/sitemap.xml pages
