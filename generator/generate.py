@@ -129,6 +129,7 @@ def process_filepath(filepath):
 
 parser = argparse.ArgumentParser()
 parser.add_argument("filepaths", nargs="*")
+parser.add_argument("--force-regenerate-all", action="store_true")
 args = parser.parse_args()
 
 if args.filepaths:
@@ -138,6 +139,11 @@ if args.filepaths:
 else:
     for filename in os.listdir("wiki"):
         if filename.endswith(".md"):
+            fileroot = filename[:-len(".md")]
+            final_dest = "_site/" + slugify(fileroot)
             filepath = "wiki/" + filename
-            print("Processing", filepath, file=sys.stderr)
-            process_filepath(filepath)
+            if (args.force_regenerate_all or
+                (not os.path.isfile(final_dest)) or
+                os.path.getmtime(filepath) > os.path.getmtime(final_dest)):
+                print("Processing", filepath, file=sys.stderr)
+                process_filepath(filepath)
