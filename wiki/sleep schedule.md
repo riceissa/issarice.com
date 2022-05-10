@@ -1,7 +1,7 @@
 ---
 title: Sleep schedule
 author: Issa Rice
-date: 2017-10-16
+date: 2022-05-03
 ---
 
 This page is about my sleep schedule, i.e. the times of day during which I
@@ -30,4 +30,4 @@ rarely nap, and all my sleep is in one continuous block at night.
 I somewhat regularly take melatonin to make me sleepy at night. I bought a
 bottle of 3 mg melatonin a couple of years ago, and each night I nibble off perhaps 1/16 to 1/8 of a pill.
 
-As of May 2022: I have been going to sleep around 12:30 AM to 1:30 AM and waking up around 9 AM to 11:30 AM. I have not been taking any melatonin recently. However, I sometimes take magnesium glycinate at night. I have also been wearing a sleep mask since around November 2021.
+As of May 2022: I have been going to sleep around 12:30 AM to 1:30 AM and waking up around 9 AM to 11:30 AM. I don't use an alarm block to wake up. I have not been taking any melatonin recently. However, I sometimes take magnesium glycinate at night. I have also been wearing a sleep mask since around November 2021.

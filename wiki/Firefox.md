@@ -17,6 +17,7 @@ learning more about how little auditing goes on for browser extensions and
 case-studies like The Great Suspender (where the original author sold it to
 some sketchy people who then put in spyware, or something like that).
 
+- ClearURLs
 - uBlock Origin
 - F.B Purity
 
