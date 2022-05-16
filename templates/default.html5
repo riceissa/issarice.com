@@ -51,6 +51,8 @@ $endif$
     ga('send', 'pageview');
 
   </script>
+  <script data-goatcounter="https://issarice.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
   <!-- <script src="change-theme.js"></script> -->
 </head>
 <body$if(bigtable)$ class="bigtable"$endif$>
