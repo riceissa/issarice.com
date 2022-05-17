@@ -61,7 +61,7 @@ $(OUTDIR)/sitemap.xml: generator/sitemap.sh | $(OUTDIR)
 	./generator/sitemap.sh
 
 $(OUTDIR)/atom.xml: generator/atom.sh | $(OUTDIR)
-	./generator/atom.sh > "$@"
+	./generator/feed.py > "$@"
 
 $(OUTDIR)/portfolio: html/portfolio.html | $(OUTDIR)
 	cp html/portfolio.html "$@"
