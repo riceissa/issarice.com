@@ -1,0 +1,16 @@
+rss {
+    display: block;
+    font-family: Helvetica, sans-serif;
+}
+
+link {
+    display: block;
+}
+
+item {
+    display: block;
+}
+
+docs {
+    display: block;
+}
