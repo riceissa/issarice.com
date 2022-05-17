@@ -5,7 +5,7 @@ created: 2016-12-15
 date: 2016-12-15
 ---
 
-For my music player, I use Music On Console (MOC).
+For my music player, I use Music On Console (MOC). (May 2022: This is old. Ever since I switched to Windows in April 2021, I've just been using YouTube and VLC for music, not even a dedicated music player.)
 
 To avoid keeping system-specific paths in the configuration file, one can pass
 certain options when invoking the program:
@@ -20,4 +20,4 @@ GitHub](https://github.com/riceissa/dotfiles/tree/master/.moc).
 
 # See also
 
-* [[Software]] for more about the software I use
+* [[software I use]] for more about the software I use

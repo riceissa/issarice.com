@@ -557,7 +557,7 @@ these I've only been able to articulate in the past year or so.
 
 # See also
 
-* [[Software]] for more about the software I use
+* [[software I use]] for more about the software I use
 
 [hn]: https://news.ycombinator.com/formatdoc
 [incl]: https://en.wikipedia.org/w/index.php?title=Fiduciary&action=edit&oldid=731216276

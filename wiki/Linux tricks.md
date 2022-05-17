@@ -36,6 +36,8 @@ Or equivalently:
 
     $ wget -nd -nH -r -np -A txt ⟨URL⟩
 
+I've written a longer article on how to use wget at [[archiving websites on Unix-like systems]].
+
 # Disable Bluetooth
 
 To disable Bluetooth, use [`rfkill`](https://web.archive.org/web/20170407083428/http://www.linuxwireless.org:80/en/users/Documentation/rfkill/).
@@ -416,3 +418,5 @@ Things that don't work for me:
 Things that I haven't tried:
 
 - Using `ulimit` to limit the memory per process
+
+May 2022: For a while, I used [thrash-protect](https://github.com/tobixen/thrash-protect), which worked sometimes but not usually? Eventually I just upgraded the RAM on my machine.

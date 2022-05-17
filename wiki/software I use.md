@@ -1,5 +1,5 @@
 ---
-title: Software
+title: Software I use
 author: Issa Rice
 date: 2020-01-15
 ---
@@ -7,7 +7,7 @@ date: 2020-01-15
 This page lists software that I currently use.
 
 - [[tmux]]
-- [Google Chrome](chrome) and [[[Firefox]]for web browsing. These days I try to
+- [[chrome|Google Chrome]] and [[Firefox]] for web browsing. These days I try to
   do most of my browsing in Firefox, because it does a better job of remembering
   pages I have visited in the past, which is important for me.
   (Chrome seems to have a short memory, and many things don't show up when I
@@ -17,7 +17,7 @@ This page lists software that I currently use.
   links from within Chrome instead of copying the URL and visiting in Firefox.
   (For most JavaScript-heavy web apps, often the easiest way to use them is to
   run them under an incognito Chrome window, rather than manually enabling a
-  bunch of domains on NoScript or uMatrix.)
+  bunch of domains on NoScript or uMatrix.) (Update: Since April 2021 when I bought a new computer, I've just been using Firefox since Firefox is now fast enough even for the JavaScript-heavy web apps, at least for now...)
 - [[Vim]] (mostly Neovim since about July or August 2020) with [various plugins](https://github.com/riceissa/dotfiles/blob/master/.vimrc#L8-L41) for most text editing.
 - [[Git]]
 - Anki for spaced repetition

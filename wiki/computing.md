@@ -41,7 +41,7 @@ Below are some pages on computing that I've written for this site:
 - [[Setting up Jekyll on GitHub]]
 - [[Setting up a website]]
 - [[Single source publishing]]
-- [[Software]], which lists software I use, including [[Firefox]] and [[Vim]]
+- [[software I use]], which lists software I use, including [[Firefox]] and [[Vim]]
 - [[Useful shell commands]]
 - [[Using Hakyll with GitHub Pages]]
 - [[Zip in Python]]

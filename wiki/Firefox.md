@@ -2,11 +2,11 @@
 title: Firefox
 author: Issa Rice
 created: 2015-08-18
-date: 2019-02-10
+date: 2022-05-10
 ---
 
-As of February 2019, Firefox is the main web browser I use.
-I find it slower than Google Chrome (which I use for
+As of May 2022, Firefox is the main web browser I use.
+I find it slower than [[Chrome|Google Chrome]] (which I use for
 [Facebook](facebook), Messenger, Gmail, and YouTube),
 but find its address bar more useful.
 
@@ -49,4 +49,4 @@ In `about:config`:
 
 # See also
 
-* [[Software]] for more about the software I use
+* [[software I use]] for more about the software I use

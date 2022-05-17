@@ -21,6 +21,7 @@ things to talk about eventually:
     > Then $\displaystyle \frac{\partial f}{\partial x} = (2x,0)$,
     > whereas $\displaystyle \frac{d}{dx}f(x,x) = (2x,2x)$.
 
+  May 2022: I discussed this example more recently [here](https://calculus.subwiki.org/wiki/Notational_confusion_of_multivariable_derivatives).
 - transfer pdf notes
 
 - what do we make of statements like "when $x=3$..."?

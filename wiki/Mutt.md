@@ -16,4 +16,4 @@ Note that on Ubuntu the version of Mutt is actually
 
 # See also
 
-* [[Software]] for more about the software I use
+* [[software I use]] for more about the software I use

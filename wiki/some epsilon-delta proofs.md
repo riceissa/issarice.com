@@ -2,6 +2,8 @@
 title: Some epsilon-delta proofs
 ---
 
+Update (May 2022): Like a lot of things in math, the main idea here now seems obvious but it was not at all obvious to me when I was first learning it. I'd probably write the page/proof very differently now, but I'm just leaving this up as a piece of history.
+
 From Salas's *Calculus*, 10th edition, page 104: Chapter 2 review exercise 45.
 Below, the important thing to keep in mind is that we want to use the "piecewise function idea": that if a function can be thought of as a piecewise function, we first want to restrict it to where it is essentially nonpiecewise, and then show that the limit exists there.
 

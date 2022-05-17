@@ -25,7 +25,7 @@ Doing step (4) before step (6) is important. Otherwise, in the time between when
 
 # See also
 
-* [[Software]] for more about the software I use
+* [[software I use]] for more about the software I use
 * [[Feed]] for this site's feed and feeds for my other online activity
 
 [config]: https://github.com/riceissa/dotfiles/blob/master/.newsbeuter/config

@@ -8,14 +8,14 @@ date: 2017-10-31
 
 # On this site
 
-- [About me](about), [about this site](about-this-site)
-- [Contact me](contact): the best way to contact me is via email at
+- [[about|About me]], [[about this site]]
+- [[contact|Contact me]]: the best way to contact me is via email at
   [riceissa@gmail.com](mailto:riceissa@gmail.com)
 - [Account names I use on various websites](account-names)
 - [Portfolio of my work](portfolio); [more complete list of things I have worked on](work)
-- [Software I use](software)
-- My pages related to the [University of Washington](university-of-washington)
-- Information about my involvement with the [effective altruism](effective-altruism) movement
+- [[Software I use]]
+- My pages related to the [[University of Washington]]
+- Information about my involvement with the [[effective altruism]] movement
 
 # Subdomains
 

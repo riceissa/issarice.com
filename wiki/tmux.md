@@ -20,7 +20,7 @@ runs every minute to keep Vim and Mutt in memory.
 
 # See also
 
-* [[Software]] for more about the software I use
+* [[software I use]] for more about the software I use
 
 [conf]: https://github.com/riceissa/dotfiles/blob/master/.tmux.conf
 [keep]: https://github.com/riceissa/dotfiles/blob/master/.local/bin/keep_vim_mutt.sh

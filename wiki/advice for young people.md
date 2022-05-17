@@ -589,6 +589,17 @@ entirely sure why grognor couldn't do this.) but once you get to
 wife+kids, everything is much harder, and i still haven't figured this
 one out. check back in a few more years! :')
 
+From June 2021:
+
+I think cucking is fine if it's for:
+- short-term for building up some financial buffer
+- immigration status, if the country you work in is meaningfully better than your original country for your goals
+- practice for being functional
+- people who actually don't have ambition and just want a decent life without planning too much
+- people for whom the money/status is actually a terminal goal
+
+everything else is kind of meh or actively repulsive to me
+
 # Finding content online
 
 One useful skill to have is identifying useful content online (something that
