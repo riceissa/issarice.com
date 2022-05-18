@@ -23,10 +23,18 @@
           body {
             margin: auto;
             max-width: 41rem;
+            text-align: left;
+            word-wrap: break-word;
           }
           div.entry-box {
             border: 1px solid black;
             margin-bottom: 25px;
+            padding-left: 10px;
+            padding-right: 10px;
+          }
+          img {
+              max-width: 100%;
+              height: auto;
           }
         </style>
       </head>
@@ -35,6 +43,7 @@
          <xsl:text disable-output-escaping="yes" >&amp;amp;</xsl:text>
        </div>
         <h1>Atom feed for issarice.com</h1>
+        <p>This file is mainly meant to be used by an RSS feed reader/aggregator. Just use the URL of this page, <code>https://issarice.com/atom.xml</code>, for the subscription URL.</p>
         <p>Hello, world! <xsl:value-of select="atom:feed/atom:author/atom:name"/>blah</p>
         <xsl:apply-templates select="atom:feed/atom:entry"/>
       </body>
