@@ -17,7 +17,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <xsl:element name="script">
           <xsl:attribute name="type">text/javascript</xsl:attribute>
-          <xsl:attribute name="src">https://feedburner.google.com/fb/feed-styles/bf30.js</xsl:attribute>
+          <xsl:attribute name="src">https://issarice/bf30.js</xsl:attribute>
         </xsl:element>
         <style type="text/css">
           body {
