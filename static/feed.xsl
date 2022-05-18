@@ -44,6 +44,7 @@
        </div>
         <h1>Atom feed for issarice.com</h1>
         <p>This file is mainly meant to be used by an RSS feed reader/aggregator. Just use the URL of this page, <code>https://issarice.com/atom.xml</code>, for the subscription URL.</p>
+        <p>This Atom feed is updated whenever the “substantive revision date” on a page is updated, which happens whenever I believe that a page has had enough changes to qualify as a new version. If you would like to see more incremental changes, check out the <a href="https://github.com/riceissa/riceissa.com/commits/master.atom">Atom feed for this website’s GitHub repository</a>. For more information about my activity feeds, check out the <a href="https://issarice.com/feed">feed</a> page on my website.</p>
         <p>Hello, world! <xsl:value-of select="atom:feed/atom:author/atom:name"/>blah</p>
         <xsl:apply-templates select="atom:feed/atom:entry"/>
       </body>
