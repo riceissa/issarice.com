@@ -45,12 +45,6 @@
     <div class="entry-box">
       <h2><a href="{atom:link/@href}"><xsl:value-of select="atom:title"/></a></h2>
       <div name="decodeable">
-        <!-- <xsl:choose> -->
-        <!--   <xsl:when test="atom:content[@type='html']"> -->
-        <!--     <xsl:attribute name="name">decodeable</xsl:attribute> -->
-        <!--     <xsl:value-of select="atom:content" disable-output-escaping="yes"/> -->
-        <!--   </xsl:when> -->
-        <!-- </xsl:choose> -->
         <xsl:value-of select="atom:content" disable-output-escaping="yes"/>
       </div>
     </div>
