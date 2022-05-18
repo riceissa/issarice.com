@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet
+  exclude-result-prefixes="atom xhtml"
+  version="1.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+>
+  <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
+  <xsl:variable name="godecoding">go_decoding();</xsl:variable>
+  <xsl:variable name="title" select="/atom:feed/atom:title"/>
+
+  <xsl:template match="/">
+    <html>
+      <head>
+        <title><xsl:value-of select="atom:feed/atom:title"/> Feed</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+        <xsl:element name="script">
+          <xsl:attribute name="type">text/javascript</xsl:attribute>
+          <xsl:attribute name="src">https://feedburner.google.com/fb/feed-styles/bf30.js</xsl:attribute>
+        </xsl:element>
+        <style type="text/css">
+          body {
+            margin: auto;
+            max-width: 41rem;
+          }
+          div.entry-box {
+            border: 1px solid black;
+            margin-bottom: 25px;
+          }
+        </style>
+      </head>
+      <body id="browserfriendly" onload="go_decoding()">
+       <div id="cometestme" style="display:none;">
+         <xsl:text disable-output-escaping="yes" >&amp;amp;</xsl:text>
+       </div>
+        <h1>Atom feed for issarice.com</h1>
+        <p>Hello, world! <xsl:value-of select="atom:feed/atom:author/atom:name"/>blah</p>
+        <xsl:apply-templates select="atom:feed/atom:entry"/>
+      </body>
+    </html>
+  </xsl:template>
+
+  <xsl:template match="atom:entry">
+    <div class="entry-box">
+      <h2><a href="{atom:link/@href}"><xsl:value-of select="atom:title"/></a></h2>
+      <div name="decodeable">
+        <!-- <xsl:choose> -->
+        <!--   <xsl:when test="atom:content[@type='html']"> -->
+        <!--     <xsl:attribute name="name">decodeable</xsl:attribute> -->
+        <!--     <xsl:value-of select="atom:content" disable-output-escaping="yes"/> -->
+        <!--   </xsl:when> -->
+        <!-- </xsl:choose> -->
+        <xsl:value-of select="atom:content" disable-output-escaping="yes"/>
+      </div>
+    </div>
+  </xsl:template>
+</xsl:stylesheet>
