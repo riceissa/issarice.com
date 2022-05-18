@@ -21,8 +21,7 @@ def slugify(s):
 
 
 
-print("""
-<?xml version="1.0" encoding="utf-8"?>
+print("""<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">issarice.com</title>
   <updated>{}</updated>
