@@ -118,6 +118,7 @@ $if(sourcefilename)$
 <div style="font-size: 80%;">
 <a href="https://raw.githubusercontent.com/riceissa/issarice.com/master/$sourcefilename$">View source</a>
   | <a href="https://github.com/riceissa/issarice.com/commits/master/$sourcefilename$">View history</a>
+  | <a href="https://github.com/riceissa/issarice.com/commits/master/$sourcefilename$.atom">Atom feed for this file</a>
 </div>
 $endif$
 
