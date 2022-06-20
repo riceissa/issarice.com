@@ -19,6 +19,7 @@ https://eastmanreference.com/rss
 https://clearerthinkingpodcast.com/rss.xml
 https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
 http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
+https://www.openphilanthropy.org/content-type/blog-posts/feed/ "~New Open Phil Blog"
 https://www.greaterwrong.com/users/carlshulman?format=rss
 https://www.greaterwrong.com/users/wei_dai?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
