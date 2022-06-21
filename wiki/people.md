@@ -71,9 +71,9 @@ exist.
   Unfortunately Drescher seems to be one of those people who get mindhacked
   by contemporary politics and haven't been able to escape (just check out
   his Facebook wall to see what I mean).  He also doesn't seem to have any
-  output since 2006, aside from one paper about the meta-problem of consciousness.
+  output since 2006, aside from one paper about the meta-problem of consciousness. :(
 
-- Grognor (George Koleszarik). This guy saw the truth. Unfortunately he died before he could produce much ([relevant tweet](https://twitter.com/Grognor/status/524323978832117760)).
+- Grognor (George Koleszarik). This guy saw the truth. Unfortunately he died before he could produce much ([relevant tweet](https://twitter.com/Grognor/status/524323978832117760)). If you want to like Grognor but he is too dark/pessimistic for you, try Qiaochu Yuan.
 - Jessica Taylor (focus on 2015--2017 stuff)
 - **Vipul Naik** (disclosure: I do a lot of [contract work](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice) for Vipul)
 - **Bryan Caplan**: see my page on [[EconLog]]
@@ -200,7 +200,7 @@ to list and I'm sure you can find them without my help).
 - [Eevee](https://eev.ee/)
 - [Evan Chen](https://web.evanchen.cc/)
 - [Jiwoon Hwang](https://web.archive.org/web/20191214095838/http://jiwoonhwang.org/): a lot of weird/"out there" ideas about how to improve the world. I wish more effective altruists were not afraid to think wacky thoughts like this.
-- Qiaochu Yuan: I love [his Twitter](https://twitter.com/QiaochuYuan/). A lot of great threads about emotional stuff, romance, money, life purpose, meditation/therapy, feelings about math, weird physical stuff, loneliness, etc. One of the few people who go into woo territory in a way that doesn't annoy me. If you bounce off his Twitter, maybe try [this podcast episode](https://www.youtube.com/watch?v=qdO2nbnbRoA "Materialism and Metatherapy with Qiaochu Yuan - Reach Truth Podcast; Dec 8, 2021") (it's pretty great and covers a lot of stuff in an accessible way).
+- Qiaochu Yuan: I love [his Twitter](https://twitter.com/QiaochuYuan/). A lot of great threads about emotional stuff, romance, money, life purpose, meditation/therapy, feelings about math, weird physical stuff, loneliness, etc. One of the few people who go into woo territory in a way that (largely) doesn't annoy me. If you bounce off his Twitter, maybe try [this podcast episode](https://www.youtube.com/watch?v=qdO2nbnbRoA "Materialism and Metatherapy with Qiaochu Yuan - Reach Truth Podcast; Dec 8, 2021") (it's pretty great and covers a lot of stuff in an accessible way). If you kinda like Qiaochu but he is too wholesome/"light side" for you, try Grognor.
 
 # Old tier
 

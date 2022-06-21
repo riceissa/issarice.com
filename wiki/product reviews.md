@@ -244,7 +244,7 @@ up.)
 Purchased in April 2021 from the Lenovo Outlet (US).
 
 This is where i made the purchase:
-https://web.archive.org/web/20210404193235/https://www.lenovo.com/us/en/outletus/laptops/thinkpad/thinkpad-2-in-1-laptops/ThinkPad-X1-Yoga-3rd-Gen/p/20LFX01700
+[ThinkPad X1 Yoga Gen 3 (14\") Laptop](https://web.archive.org/web/20210404193235/https://www.lenovo.com/us/en/outletus/laptops/thinkpad/thinkpad-2-in-1-laptops/ThinkPad-X1-Yoga-3rd-Gen/p/20LFX01700)
 NOTE: the "Tech Specs" at the top are inaccurate. The actual specs are below in the "Models" section.
 
 I'm not including any Windows vs Linux thoughts here, though I was definitely getting
@@ -257,7 +257,7 @@ being of much higher build quality. so i decided to focus my attention on busine
 laptops. thinkpads are the most well-known among these (in particular, this means
 there is the most amount of online discussion and data about them),
 and i had good experiences
-with my previous X220, so i decided to focus most of my search on getting a thinkpad.
+with my previous X220, so i decided to focus most of my search on getting a thinkpad (though i did briefly look at things like dell XPS).
 my other requirement was that i wanted to play some windows-only video games and
 other windows-only software like supermemo, so i was looking at getting a windows laptop.
 One option for getting a cheap thinkpad is to buy a used one on eBay. However, I did
