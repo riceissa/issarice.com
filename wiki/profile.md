@@ -232,6 +232,16 @@ My scores were as follows:
 > You score for secondary psychopathy was higher than 71.45% of people who have
 > taken this test.
 
+## Aspie Quiz
+
+On 2022-06-17 I took the [Aspie Quiz](https://rdos.net/eng/Aspie-quiz.php). My results are as follows:
+
+> Your broader autism cluster (Aspie) score: 106 of 200 \
+> Your neurotypical (non-autistic) score: 124 of 200 \
+> You have both broader autism cluster and neurotypical traits
+
+![[Pasted image 20220623145815.png]]
+
 # Morals
 
 [to be added]
