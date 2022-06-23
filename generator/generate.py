@@ -6,6 +6,7 @@ import sys
 import datetime
 import shlex
 import argparse
+import shutil
 
 '''
 Obsidian wikilinks require filenames to be named exactly as it appears
@@ -147,3 +148,7 @@ else:
                 os.path.getmtime(filepath) > os.path.getmtime(final_dest)):
                 print("Processing", filepath, file=sys.stderr)
                 process_filepath(filepath)
+        else:
+            # just copy the file if it's not markdown
+            filepath = "wiki/" + filename
+            shutil.copyfile(filepath, "_site/" + filename)
