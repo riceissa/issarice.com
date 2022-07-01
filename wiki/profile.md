@@ -240,6 +240,8 @@ On 2022-06-17 I took the [Aspie Quiz](https://rdos.net/eng/Aspie-quiz.php). My r
 > Your neurotypical (non-autistic) score: 124 of 200 \
 > You have both broader autism cluster and neurotypical traits
 
+![](Pasted%20image%2020220623145815.png)
+
 ![[Pasted image 20220623145815.png]]
 
 # Morals

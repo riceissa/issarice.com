@@ -20,6 +20,10 @@ Overall I was impressed with MealSquares and might order some myself at some poi
 
 In March 2022, I ordered a sample pack of 10 MealSquares.
 
+In April 2022, I ordered a box of 30 MealSquares.
+
+In June 2022, I ordered another box of 30 MealSquares.
+
 I've noticed that at least in the batch I received, the chocolate chips are
 mostly at the bottom, so microwaving right side up results in a lot of the
 chocolate melting onto the plate (and then drying on the plate, which makes it
@@ -28,3 +32,7 @@ down, and this works well.
 
 Multiple people online say MealSquares are dry, but I haven't really felt this
 myself. I do sip water while eating it, but not any more than for other foods.
+
+I like to microwave them for 42 seconds (from frozen).
+
+At first I was placing them haphazardly into the freezer, in little cracks I could find. However, this was inconvenient as I couldn't tell how many more MealSquares I had left or if I had finished them all. I have now started to just freeze the entire USPS cardboard box, with a little hole cut out so that I can pull them out, as in a dispenser.
