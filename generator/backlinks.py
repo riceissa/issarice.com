@@ -6,6 +6,17 @@ import shutil
 import json
 import sys
 
+def slugify(s):
+    '''
+    "Slugify" the string s as follows: keep only the characters that are
+    alphabetic or numerical, and group them together; all other characters are
+    replaced by "-" and squeezed together.
+    '''
+    s = s.lower()
+    s = "".join(c if (c.isalpha() or c.isdigit()) else "-" for c in s)
+    s = "-".join(filter(bool, s.split("-")))
+    return s
+
 print("Generating link graph...", file=sys.stderr)
 # if os.path.isfile("link-graph.json"):
 #     os.remove("link-graph.json")
