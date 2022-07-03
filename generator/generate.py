@@ -5,6 +5,7 @@ import subprocess
 import sys
 import datetime
 import shlex
+import shutil
 import argparse
 import shutil
 import json
@@ -97,6 +98,7 @@ def process_filepath(filepath):
             # TODO: make sure this gives correct filepath
             "-M", "sourcefilename:" + shlex.quote(filepath),
             "-M", "lastmodified:" + last_mod,
+            "--include-after-body", "backlink_fragments/" + fileroot + ".html",
             "-o", temp_dest
         ], input=p2.stdout, check=True)
         # print(subprocess.list2cmdline(p3.args))
@@ -162,7 +164,7 @@ if args.regenerate_link_graph:
             try:
                 # https://github.com/riceissa/pandoc-wikilinks-filter/blob/main/wikilinks.py
                 postfix = "" if i == len(directory) - 1 else ","
-                p2 = subprocess.run(["wikilinks.py", "--save-links", "link-graph.json", "--filename", slugify(fileroot), "--save-links-prefix", "    ", "--save-links-postfix", postfix],
+                p2 = subprocess.run(["wikilinks.py", "--save-links", "link-graph.json", "--filename", fileroot, "--save-links-prefix", "    ", "--save-links-postfix", postfix],
                                     input=p.stdout, check=True,
                                     capture_output=True)
             except subprocess.CalledProcessError as e:
@@ -184,6 +186,17 @@ if args.regenerate_link_graph:
                 else:
                     backlinks[y] = []
         json.dump(backlinks, b, indent=4)
+
+    shutil.rmtree("backlink_fragments")
+    os.makedirs("backlink_fragments", exist_ok=True)
+    for x in backlinks:
+        with open("backlink_fragments/" + x + ".html", "w") as f:
+            f.write("<h2>Backlinks</h2>\n")
+            f.write("<ul>\n")
+            for y in backlinks[x]:
+                f.write(f'<li><a href="{slugify(y)}">{y}</a></li>\n')
+            f.write("</ul>\n")
+
 
 if args.filepaths:
     for filepath in args.filepaths:

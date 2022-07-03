@@ -161,6 +161,9 @@ $table-of-contents$
 <hr />
 $endif$
 $body$
+$for(include-after)$
+$include-after$
+$endfor$
 </main>
 
 <footer>
