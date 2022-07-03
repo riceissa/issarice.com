@@ -8,3 +8,5 @@ site.*
 tags
 .ctags
 wiki/.obsidian
+link-graph.json
+backlinks.json
