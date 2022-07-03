@@ -9,6 +9,7 @@ import shutil
 import argparse
 import shutil
 import json
+import urllib.parse
 
 '''
 Obsidian wikilinks require filenames to be named exactly as it appears
@@ -96,7 +97,8 @@ def process_filepath(filepath):
             "--mathjax",
             "--lua-filter", "generator/url_filter.lua",
             # TODO: make sure this gives correct filepath
-            "-M", "sourcefilename:" + shlex.quote(filepath),
+            # "-M", "sourcefilename:" + shlex.quote(filepath),
+            "-M", "sourcefilename:" + urllib.parse.quote(filepath),
             "-M", "lastmodified:" + last_mod,
         ]
         if os.path.isfile("backlink_fragments/" + fileroot + ".html"):
