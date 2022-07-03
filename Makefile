@@ -13,8 +13,12 @@ pages: wiki_pages non_wiki_pages
 non_wiki_pages: $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work $(OUTDIR)/account-names $(OUTDIR)/portfolio
 
 .PHONY: wiki_pages
-wiki_pages:
+wiki_pages: backlinks
 	./generator/generate.py
+
+.PHONY: backlinks
+backlinks:
+	./generator/backlinks.py
 
 .PHONY: fullsite
 fullsite: meta_pages pages

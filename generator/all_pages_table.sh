@@ -33,13 +33,15 @@ git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
     parallel --tag git log -1 --format="%ai" -- | while read line; do
         lastmodified=`echo "$line" | sed -n 's/[^\t]\+\t\([^ ]\+\) .*/\1/p'`
         filename=`echo "$line" | sed -n 's/\([^\t]\+\)\t.*/\1/p'`
-        base=$(basename $filename .md)
-        title=`sed -n '2{p;q}' $filename | cut -c 8- | tr -d '"'`
-        date=`grep -m 1 -e '^date: ' $filename | sed -n 's/^date: \(.*\)/\1/p'`
-        created=`grep -m 1 -e '^created: ' $filename | sed -n 's/^created: \(.*\)/\1/p'`
-        belief=`grep -m 1 -e '^belief: ' $filename | sed -n 's/^belief: \(.*\)/\1/p'`
-        compstatus=`grep -m 1 -e '^status: ' $filename | sed -n 's/^status: \(.*\)/\1/p'`
-        echo -e "$date\t$lastmodified\t$title\t$base\t$created\t$belief\t$compstatus"
+        base=$(basename "$filename" .md)
+        # title=`sed -n '2{p;q}' $filename | cut -c 8- | tr -d '"'`
+        title="$base"
+        slug=`echo "$base" | slug`
+        date=`grep -m 1 -e '^date: ' "$filename" | sed -n 's/^date: \(.*\)/\1/p'`
+        created=`grep -m 1 -e '^created: ' "$filename" | sed -n 's/^created: \(.*\)/\1/p'`
+        belief=`grep -m 1 -e '^belief: ' "$filename" | sed -n 's/^belief: \(.*\)/\1/p'`
+        compstatus=`grep -m 1 -e '^status: ' "$filename" | sed -n 's/^status: \(.*\)/\1/p'`
+        echo -e "$date\t$lastmodified\t$title\t$slug\t$created\t$belief\t$compstatus"
     done
 } | sort -r | \
     sed -n 's/\([^\t]*\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]\+\)\t\([^\t]*\)\t\([^\t]*\)\t\([^\t]*\)/|[\3](\4)|\1|\2|\5|\6|\7|/p'
