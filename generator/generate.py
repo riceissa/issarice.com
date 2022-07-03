@@ -85,7 +85,7 @@ def process_filepath(filepath):
     final_dest = "_site/" + slugify(fileroot)
     temp_dest = final_dest + ".tempmjpage.html"
     try:
-        p3 = subprocess.run([
+        pandoc_args = [
             "pandoc", "-f", "json", "-t", "html5",
             "--shift-heading-level-by", "1",
             "--template", "templates/default.html5",
@@ -98,9 +98,13 @@ def process_filepath(filepath):
             # TODO: make sure this gives correct filepath
             "-M", "sourcefilename:" + shlex.quote(filepath),
             "-M", "lastmodified:" + last_mod,
-            "--include-after-body", "backlink_fragments/" + fileroot + ".html",
-            "-o", temp_dest
-        ], input=p2.stdout, check=True)
+        ]
+        if os.path.isfile("backlink_fragments/" + fileroot + ".html"):
+            pandoc_args.extend([
+                "--include-after-body", "backlink_fragments/" + fileroot + ".html",
+            ])
+        pandoc_args.extend(["-o", temp_dest])
+        p3 = subprocess.run(pandoc_args, input=p2.stdout, check=True)
         # print(subprocess.list2cmdline(p3.args))
     except subprocess.CalledProcessError as e:
         print("Error running pandoc (json to html5):",
