@@ -54,6 +54,7 @@ for i, filename in enumerate(directory):
 with open("link-graph.json", "a") as lg:
     lg.write("}\n")
 
+# TODO: might need to think about capitalization (esp of first letter of page)
 with open("link-graph.json", "r") as lg, open("backlinks.json", "w") as b:
     link_graph = json.load(lg)
     backlinks = {}
