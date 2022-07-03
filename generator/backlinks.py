@@ -43,9 +43,12 @@ for i, filename in enumerate(directory):
         try:
             # https://github.com/riceissa/pandoc-wikilinks-filter/blob/main/wikilinks.py
             postfix = "" if i == len(directory) - 1 else ","
-            p2 = subprocess.run(["wikilinks.py", "--save-links", "link-graph.json", "--filename", fileroot, "--save-links-prefix", "    ", "--save-links-postfix", postfix],
+            p2 = subprocess.run(["wikilinks.py", "--save-links"],
                                 input=p.stdout, check=True,
                                 capture_output=True)
+            with open("link-graph.json", "a") as lg:
+                escaped_fileroot = fileroot.replace('"', '\\"')
+                lg.write(f'    "{escaped_fileroot}": {p2.stdout.decode("utf-8").strip()}{postfix}\n')
         except subprocess.CalledProcessError as e:
             print("Error running wikilinks.py:",
                   "error code:", e.returncode,
