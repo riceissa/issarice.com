@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+import subprocess
+import os
+import shutil
+import json
+import sys
+
 print("Generating link graph...", file=sys.stderr)
 # if os.path.isfile("link-graph.json"):
 #     os.remove("link-graph.json")
