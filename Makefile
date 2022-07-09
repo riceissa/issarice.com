@@ -6,6 +6,10 @@ STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
 SERVER_DEST = carbon:/var/www/issarice.com/public_html
 PANDOC_FLAGS = -f markdown+smart -t html5 --shift-heading-level-by=1 --template=templates/default.html5 -M toc-title:"Contents" -M today:$(shell date -Idate | tr -d '\n') -M lang:"en"
 
+.PHONY: quick
+quick:
+	./generator/generate.py
+
 .PHONY: pages
 pages: wiki_pages non_wiki_pages
 
