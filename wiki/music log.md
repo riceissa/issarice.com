@@ -433,6 +433,13 @@ The Pillows:
 
 * "Change" by Big Thief; HT [Carolina Garza](https://www.youtube.com/watch?v=5EC6hfZCvPc)
 
+# July 2022
+
+- Some tracks from _Civilization V_:
+	- ["Asia - To Discover"](https://www.youtube.com/watch?v=sy5273xeNes)
+	- ["Asia - Sunset Journey"](https://www.youtube.com/watch?v=Vk-wg3e9QRE)
+	- ["Asia - Holy Water Vessel"](https://www.youtube.com/watch?v=z8WWfzFFWTw)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
