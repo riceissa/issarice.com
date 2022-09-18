@@ -440,6 +440,11 @@ The Pillows:
 	- ["Asia - Sunset Journey"](https://www.youtube.com/watch?v=Vk-wg3e9QRE)
 	- ["Asia - Holy Water Vessel"](https://www.youtube.com/watch?v=z8WWfzFFWTw)
 
+# August 2022
+
+- Morcheeba: _Big Calm_ (I like the earlier songs on this album a lot more than the later songs)
+- "After Hours" by Velvet Underground (I have definitely heard this song before, but I don't remember how I first found it; I recently rediscovered it in the trailer for _The Science of Sleep_ and realized I quite enjoyed it)
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"

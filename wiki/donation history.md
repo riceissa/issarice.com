@@ -123,7 +123,17 @@ Low value of small marginal donations to targets I am most interested in funding
 
 # 2020
 
+I earned around $10,000.
+
 - I started giving $5 per month to Andy Matuschak's Patreon account (\$35 total over the course of the year, as I started partway through the year). While I do think this work is valuable, I started giving mostly for selfish reasons of wanting to see more of Andy's output, so I don't consider this a donation calculated to maximize impact on the world.
 - I gave \$10 total to MIRI as bounty payment (i.e. someone completed a bounty I put out, and this person requested I donate to MIRI rather than paying them).
 
 Otherwise I did not donate, for basically the same reasons as 2019 (though the details have changed slightly).
+
+# 2021
+
+I earned around $15,000 (or more precisely, I received around $15,000 during the year, which is my income for tax purposes, but not all of that amount has been "earned").
+
+- I continued giving $5 per month to Andy Matuschak's Patreon account.
+
+Otherwise I did not donate, for basically the same reasons as in 2019.
