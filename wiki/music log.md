@@ -445,6 +445,14 @@ The Pillows:
 - Morcheeba: _Big Calm_ (I like the earlier songs on this album a lot more than the later songs)
 - "After Hours" by Velvet Underground (I have definitely heard this song before, but I don't remember how I first found it; I recently rediscovered it in the trailer for _The Science of Sleep_ and realized I quite enjoyed it)
 
+# December 2022
+
+- From _Garden State_ soundtrack:
+	- "In The Waiting Line" by Zero 7
+	- "One Of These Things First" by Nick Drake
+- High School Musical songs, in particular "What I've Been Looking For"
+- *Bastion* Original Soundtrack: "Setting Sail, Coming Home (End Theme)"
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
