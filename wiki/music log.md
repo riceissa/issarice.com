@@ -453,6 +453,10 @@ The Pillows:
 - High School Musical songs, in particular "What I've Been Looking For"
 - *Bastion* Original Soundtrack: "Setting Sail, Coming Home (End Theme)"
 
+# February 2023
+
+- "Everlasting Love" from We Love Katamari Soundtrack; there is also an "atom remix" version that I also like
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"

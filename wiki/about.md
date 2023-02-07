@@ -2,7 +2,7 @@
 title: About
 author: Issa Rice
 created: 2014-09-13
-date: 2016-11-13
+date: 2023-02-07
 ---
 
 *I have two About pages. This page is about myself (Issa Rice); for information about this website, see [[about this site]]. See also [[colophon]].*
@@ -26,10 +26,21 @@ What even is the point of a self-introduction? I sort of want to transmit this "
 in terms of world views... talk about my big picture beliefs.
 -->
 
+(Writing this in early 2023; I have not been doing a good job of updating this section in the last several years.)
 
-By day I am a freelance researcher. Since 2016 I have been regularly
-working with [Vipul Naik](https://vipulnaik.com/), doing a mix of writing, programming, data collection, and other miscellaneous work. For the work I have
-done for Vipul, see his [contract work portal page about me](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice).
+Self-introductions on a website are tricky because different people want to know different things about me. Rather than try to cater to every audience, I will try to say things that will be of interest to the kind of people I want to interact with, in ways that will appeal to such people?
+
+As of 2023, I basically do not earn money. I live on a mix of savings from money I earned in the past, and the goodwill of my parents. I say "basically do not earn money" because I still do a tiny bit of contract work for [Vipul Naik](https://vipulnaik.com/) each month. I used to do a lot more work for Vipul, and this was my main "job". I did a mix of writing, programming, data collection, and other miscellaneous work. For the work I have done for Vipul, see his [contract work portal page about me](https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice).
+
+What do I do with my time instead?  Since 2019, I have been [dealing with a mysterious chronic illness](https://www.greaterwrong.com/posts/DJk86FE29ad4vr5e9/riceissa-s-shortform/comment/NbjHFrBokqbbSvJZZ).  As of 2022, the majority of my time has been spent on managing the symptoms of this illness, doing health research to understand what is happening to me and what interventions to try, going to doctors and talking to other health providers, and dealing with medical bureaucracy.
+
+In the few moments of relief that I have, I still like to think about the world.  I think the world is going to end, probably quite soon, from [unaligned artificial intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence).  I believe this is the biggest problem in the world right now, and I can maybe do something about it, at least once my health is in order.  Everything else feels like a distraction, but also, like, having such a totalizing narrative seems harmful, and I haven't figured out how to resolve this tension.  Lately I have also been thinking that telling people about AI existential risk is maybe a terrible idea.
+
+I find myself anhedonic, anxious, and lonely to some extent pretty much all of the time (no doubt partly due to my illness!).  I am also pretty jaded and cynical about things in general, even though I want to not be this way.  I therefore like to learn about things in the general vicinity of therapy/meditation/self-help.  I have found coherence therapy really interesting, even though I haven't been able to get it to work for me.  (In fact, very few things have worked for me in this realm.)
+
+I also think a lot about other humans.  I want to figure out how to have better conversations (both in the sense of how I, personally, can act better, and how to create spaces/structures that encourage better conversations) and not feel like I am always fighting against the world.
+
+For reasons that are not totally clear to me, I keep thinking about [how to explain things better](https://www.lesswrong.com/posts/J3Edt2CLcXPHQYSXo/exposition-as-science-some-ideas-for-how-to-make-progress), in particular how to explain math better.  As part of this interest I have also thought a bunch about [spaced repetition](https://wiki.issarice.com/wiki/Category:Spaced_repetition) and [learning](https://wiki.issarice.com/wiki/Category:Learning).
 
 In my free time I do a mix of writing and programming as well. You can
 see my [[work]] page or [[portfolio]] page for a list of things I have
