@@ -1,3 +1,10 @@
+---
+title: Quantum Country - quantum teleportation 2023 reread
+author: Issa Rice
+created: 2023-02-07
+date: 2023-02-08
+---
+
 **(still drafting this page!!!)**
 
 # Background
