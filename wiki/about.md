@@ -26,7 +26,7 @@ What even is the point of a self-introduction? I sort of want to transmit this "
 in terms of world views... talk about my big picture beliefs.
 -->
 
-(Writing this in early 2023; I have not been doing a good job of updating this section in the last several years.)
+(Writing this in early 2023; I have not been doing a good job of updating this section in the last several years. **As of February 2023 I am still in the process of rewriting this section.**)
 
 Self-introductions on a website are tricky because different people want to know different things about me. Rather than try to cater to every audience, I will try to say things that will be of interest to the kind of people I want to interact with, in ways that will appeal to such people?
 
