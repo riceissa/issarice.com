@@ -5,8 +5,6 @@ created: 2023-02-07
 date: 2023-02-08
 ---
 
-**(still drafting this page!!!)**
-
 # Background
 
 In a [comment thread](https://www.patreon.com/posts/towards-impact-76438674) on his Patreon, [Andy Matuschak](https://andymatuschak.org/) encouraged me to reread the [quantum teleportation](https://quantum.country/teleportation) essay on Quantum Country. Patreon does not allow formatting or math in its comment threads, and since the topic may be of broader interest, I am publishing reflections on my reread here.
@@ -47,7 +45,7 @@ I did have a pretty easy time answering the prompts on this reread (although the
 
 > Would you understand pieces you hadn't understood before?
 
-I think I definitely did clarify where exactly my confusion is, but I think writing this page, and taking notes while I read (which I did not do the first time around), helped quite a bit more than just the rereading itself.
+I think I definitely did clarify where exactly my confusion is, but I think writing this page, and taking notes while I read (see next section), which I did not do the first time around, helped quite a bit more than just the rereading itself.
 
 # Rough notes I took while rereading
 
