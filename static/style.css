@@ -33,6 +33,11 @@ body {
     background-color: #a0a0a0;
     color: #333;
     font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
+
+    /* This prevents there being a thin gray border on the sides on narrow
+     * screens. */
+    margin-left: 0;
+    margin-right: 0;
 }
 
 div.sourceLine { display:inline-block; }
@@ -63,6 +68,11 @@ nav#site_navigation {
      navigation links (left side) and search bar (right side) play
      nicely */
     overflow: hidden;
+
+    /* Setting margin-left and margin-right to be 0 on body removes the space
+     * that the nav bar had. Adding some padding will prevent the navbar being
+     * all the way to the left of the window. */
+    padding-left: 8px;
 }
 
 nav#site_navigation a:link { color: #fff; }
