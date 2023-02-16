@@ -2,7 +2,7 @@
 title: Product reviews
 author: Issa Rice
 created: 2020-12-12
-date: 2020-12-12
+date: 2023-02-15
 ---
 
 This is an incomplete list of products I have bought along with what I
@@ -63,6 +63,8 @@ web design" one full of JavaScript. I would have preferred to stick
 with the old dashboard, but since I rarely sign in it's not too much
 of a problem.
 
+As of 2022 or so I've been planning to switch to Oracle Cloud as Oracle offers a free VPS (so I wouldn't have to pay $11/month to host several lightweight websites), but it is such a pain that I've been delaying the switch (I'm also kind of uncertain whether Oracle will offer the free VPS in the long term, and I don't want to switch and then have to switch back).
+
 # Hover (domain names)
 
 Started using around November 2014.
@@ -92,6 +94,7 @@ so not being able to carry the desktop computer home was also annoying
 GitHub). Also the keyboard I bought for the tablet was pretty crappy
 and unpleasant to type on. After a few quarters of this setup, I gave
 up and just bought a laptop (the X220; see below).
+(I think I wrote about this more at [[college computer setup]].)
 
 The tablet itself works well, except that it keeps getting slower and
 slower as apps get updated (and of course apps like Messenger force
@@ -99,7 +102,7 @@ you to update in order to continue using them at all, so there is no
 choice to stick with the old version).
 
 As of December 2020, I still use this tablet for video calls, since my
-X220 does not have a camera.
+X220 does not have a camera. (Update: with the arrival of my ThinkPad X1 Yoga (see below) I have basically stopped using this tablet.)
 
 # Lenovo ThinkPad X220
 
@@ -458,3 +461,19 @@ This shape of adapter is much better than the "docking/slotting" types in my opi
 # Protein bars
 
 I feel pretty confused about what protein bars are good (in the sense of being safe to consume over long periods of time). These days I tend to eat both Costco's brand of protein bars (chocolate chip cookie dough + chocolate brownie) and Probar meal on-the-go (peanut butter chocolate chip). Neither of these bars causes problems for me after I eat them (in the past, some bars I have tried like Zone Perfect bars have caused hunger attacks shortly after consuming them). They are also tasty enough and filling. The probar ones are a bit too sweet.
+
+# Microsoft Comfort Mouse 3000
+
+This is some crappy default mouse that Microsoft made at one point, but I love it. After I stopped using the Microsoft Pro Intellimouse (see above) I switched to this mouse. Some things I like about this mouse:
+
+- It is light and is the right size for my hands, so does not cause my wrists to hurt.
+- The scroll wheel has notches but it's not too heavy so I can scroll quickly if needed.
+- The sensor works on my shiny mousepad (many mice fail to work on my shiny mousepad)
+- The sensor position is centered with respect to the body of the mouse so I can prevent the mouse sensor from being detected simply by tilting the mouse towards me instead of lifting it.
+- The rear of the mouse is round so it is easy to tilt it.
+
+Some things I don't like about it are:
+
+- It does not have well-defined left and right click buttons, so I very occasionally click both buttons at once.
+- One of the pad things underneath keeps coming off once every few months. So far I've been able to clean it and stick it back every time, but at some point it may come off for good? I wish they had more securely attached the pads.
+- Also because Microsoft seems to have stopped making this mouse model, it's now sold for $130 on Amazon which is ridiculous. I have seen it sold used at a second hand/thrift store for like $4 once (but the USB part was damaged so it didn't actually work, and one of the pads underneath was missing).  I hope to find more soon so that I can stock up on this mouse (as I've learned over the years, there is actually quite a bit of variance in how good a mouse is for e.g. not causing hand pain, and my preferences seem kind of unusual so I can't just read online reviews and buy one that other people like).
