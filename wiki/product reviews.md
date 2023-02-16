@@ -423,4 +423,38 @@ They do have a kind of unpleasant off-gassing smell. Several months after instal
 
 I do also want to note though that contrary to what the Wirecutter article claims, the Marjun curtains are considered merely "room-darkening" by IKEA, rather than "blackout". There are other curtains, such as the Majgull, that *are* considered "blackout". I did email the author of the Wirecutter article about why they made no mention of this or attempt to compare the various IKEA curtains, but received no response.
 
-If I was buying curtains today, I'm ... not sure what I would do.
+If I was buying curtains today, I'm ... not sure what I would do.  I may actually go to a physical store and smell a bunch of the curtains (if such a thing is even possible), since that turned out to be the main problem with the ones I bought.
+
+# Sun Zero SN47074 Bronn Wrap Around Window Curtain Rod, 66-120", Matte Black
+
+Amazon link: https://www.amazon.com/gp/product/B07DSGHB44
+
+Since my room did not come with curtains, I had to buy a curtain rod to attach the curtains reviewed in the previous section. This rod works fine. It is kind of rough though so a bit hard to drag the curtains on. They curve at the ends so it's possible to wrap the curtains around them, to create an even darker room. The rod twists on the sides and shrinks so the curtains can be detached without unmounting the whole thing, so it is good if you want to wash your curtains frequently.
+
+# Coway Airmega AP-1512HH(W) air filter
+
+Amazon link: https://www.amazon.com/gp/product/B01728NLRG
+
+I ... don't actually notice a difference in my general health (e.g. allergies, breathing problem) after having bought this air filter. I bought this mostly as a sort of "well, I have a bunch of health problems that can plausibly be improved by breathing in cleaner air" thinking. It is quiet enough and I have no particular reason to doubt the theory, so I keep it on 24/7.
+
+I keep the ionizer turned off, as I have read that the ozone produced by such devices can irritate some sensitive people (and I am probably such a sensitive person).
+
+When I leave the filter on on the auto setting, I do notice it detecting bad air (e.g. if someone in the house fries food) and increasing its speed as a result.
+
+# Microwave cover
+
+Amazon link: https://www.amazon.com/gp/product/B088K15NTZ
+
+Most microwave covers are pretty short and only work well for flat plates. However, I like to eat out of slanted bowls most of the time. The problem with using a short microwave cover on a slanted bowl is that the top of the cover touches your food, which I find a little gross ... gross enough that I would prefer making the microwave messy with splattered food. It took quite a bit of searching but I finally found this microwave cover and I am satisfied with it.
+
+# FIDECO SATA/IDE to USB 3.0 Adapter
+
+Amazon link: https://www.amazon.com/gp/product/B077N2KK27
+
+This adapter was able to read all the SATA drives I tested it on as well as one of my two IDE drives (but the second IDE drive wouldn't show up for some reason, and I am trying to debug this).
+
+This shape of adapter is much better than the "docking/slotting" types in my opinion, because sometimes hard drives will have things like screws or other metal pieces attached to them that are potentially difficult to remove, and so at least a few drives I have had have failed to slot into the dock-style adapters. By minimizing the contact area, smaller adapters like this FIDECO one work on these trickier drives.
+
+# Protein bars
+
+I feel pretty confused about what protein bars are good (in the sense of being safe to consume over long periods of time). These days I tend to eat both Costco's brand of protein bars (chocolate chip cookie dough + chocolate brownie) and Probar meal on-the-go (peanut butter chocolate chip). Neither of these bars causes problems for me after I eat them (in the past, some bars I have tried like Zone Perfect bars have caused hunger attacks shortly after consuming them). They are also tasty enough and filling. The probar ones are a bit too sweet.
