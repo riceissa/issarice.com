@@ -41,6 +41,8 @@ competitors). Decentralized product reviews on small personal websites
 seem much harder to game, and I get to look at the reviewer's general
 personality and writing along with the product reviews.
 
+In recent years in the [[effective altruism]] community there has been a trend of people writing product recommendation blog posts (see [here](https://arjunpanickssery.substack.com/p/stuff-i-recommend-you-use) for a recent example that links out to a bunch of other ones). While these posts are similar to what I'm doing here, I kinda don't like how these posts are framed as "here's some things you *should* buy".  In general I don't want to be buying more and more things. I also like giving a more representative sample of things I've bought, instead of selecting for the things I am most glad I bought (I feel like I learn just as much from mistakes people think they've made in buying something as successes).
+
 Feel free to [[contact]] me if you have suggestions on ways to make
 this page more useful for you.
 
@@ -147,7 +149,7 @@ these headphones, so I can't comment on how well these work.
 
 # MealSquares
 
-Tried in November 2017.
+Tried in November 2017. I started ordering them myself in 2022 and quite like them.
 
 See [here](mealsquares).
 
@@ -379,3 +381,46 @@ Some thoughts after having used the laptop for a couple of months:
   Update (2022-03-08): problem returned after moving the laptop around, this time also affecting the Enter key a bit. The problem hasn't gone away as of 2022-03-17. the problem seems to have finally gone away on 2022-04-15. Actually never mind, the problem seems to be back on 2022-04-16.
 
   Update (2022-08-13): a few months ago probably i ended up removing the key caps from the backspace key and the U key. the U key just seems to have a more stubborn "pin" (idk the technical term), so cleaning under the key cap and placing it back didn't fix anything. the backspace key is better now, though i cracked it in the middle in the process of trying to get it out.
+
+  Update (2023-02-11): I think a recent Lenovo Vantage auto-update finally fixed the keyboard backlight problem; now when i lock my screen and unlock it, the backlight setting does not reset. (not sure what happens after rebooting yet). however.... after nearly two years of training my muscle memory to reflexively turn off the keyboard backlight every time i unlock my screen, it will probably take a while before i unlearn this habit.
+
+# Xiaomi Redmi 10
+
+See [here](https://www.gsmarena.com/xiaomi_redmi_10-11060.php) for product info.
+
+I bought this phone in 2021. This is my current smartphone as of 2023.
+
+It is alright and does what I need. A few comments:
+
+- I did not buy a case for this phone. Combined with the fact that the back side of this phone is *very smooth* (such that if it's on even a slight incline, the vibrations of the phone will cause the phone to just slide off the surface), the phone has dropped from a desk surface on two occasions, causing the phone screen to crack twice.
+- There's a very annoying "feature" that prevents you from using the touch screen sometimes (it keeps saying "don't cover the earphone area"), but this can be turned off (it took me a long time to get around to looking this up, but it's a very quick thing in the settings that can be changed).
+- The camera is ok but I definitely notice that people with better phones like iPhones take way better pictures.
+- There was an OS upgrade in early 2023 or so that noticeably slowed down all the UI. I.. sadly don't see a way to avoid this without creating security problems or putting in a lot of work to reinstall some alternative OS.
+
+# Kimberly-Clark N95 Pouch Respirator (53358), Made in U.S.A, Universal Size, 50 Respirators/Bag
+
+Amazon link: https://www.amazon.com/gp/product/B08NVDFB3R
+
+I bought these after seeing Wei Dai's post [here](https://www.lesswrong.com/posts/kdkFnRnZv4ut5qGhR/usa-n95-masks-are-available-on-amazon). They are comfortable and work well in my experience (I have only gotten sick once since using these masks, and it was via someone I interact with regularly unmasked rather than from strangers in areas where I wear the mask).
+
+See [here](https://www.greaterwrong.com/posts/KeK8ncmn7A3jqgztd/duckbill-masks-are-great/comment/x4LBrfQC8xW8qsTgZ) for some more thoughts I wrote on this mask.
+
+# l-theanine (multiple products)
+
+I once bought a big powder thing from Nootropic Depot. My reasoning was that with a powder I would be able to use a scale to measure out arbitrary amount, allowing me to see what dose works well for me.  It turned out this was a pretty bad idea: when I am feeling anxious, I do not have the capacity to use fine-grained motor skills to measure out a powder, and also taking a white powder in general while feeling anxious tends to make me even more anxious (even when I know it's safe). I ended up getting Jarrow's 100mg theanine gummies later on and this turned out to be much better.
+
+Overall though, at the 100--200mg range, l-theanine doesn't seem to do very much for me (decreases anxiety a little bit, but then it makes me sleepy rather than further reducing anxiety) and I am too scared to increase the dosage.
+
+# IKEA MARJUN curtains
+
+IKEA link: https://www.ikea.com/us/en/p/marjun-room-darkening-curtains-1-pair-gray-70298422/
+
+I bought these after seeing them recommended by the Wirecutter in [this article](https://www.nytimes.com/wirecutter/reviews/best-blackout-curtains/).
+
+They work well enough. My room stays very noticeably darker now than before I installed the curtains (before this, I just had blinds).
+
+They do have a kind of unpleasant off-gassing smell. Several months after installing the curtains, this smell became bad enough that it started to make me feel nauseous. However I was able to wash the curtains in a laundry machine and this seems to have gotten rid of the smell for now.
+
+I do also want to note though that contrary to what the Wirecutter article claims, the Marjun curtains are considered merely "room-darkening" by IKEA, rather than "blackout". There are other curtains, such as the Majgull, that *are* considered "blackout". I did email the author of the Wirecutter article about why they made no mention of this or attempt to compare the various IKEA curtains, but received no response.
+
+If I was buying curtains today, I'm ... not sure what I would do.
