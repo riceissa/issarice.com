@@ -22,7 +22,7 @@ but some of them include
 pages, and [Butterick's book on typography](http://practicaltypography.com/).
 
 Some of the colors come from Ethan Schoonover's
-[Solarized](http://ethanschoonover.com/solarized).
+[Solarized](http://ethanschoonover.com/solarized). See [[some thoughts on website design]] for more.
 
 All of the source files necessary to build this site are hosted on GitHub.
 You can [visit the repository](https://github.com/riceissa/issarice.com) on GitHub.
