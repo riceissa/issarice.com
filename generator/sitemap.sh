@@ -8,7 +8,7 @@ EOF
 
 # Download the slug command from https://github.com/riceissa/dotfiles/blob/master/.local/bin/slug
 
-for file in wiki/*
+for file in wiki/*md
     do cat <<EOF  >> _site/sitemap.xml
 <url>
   <loc>https://issarice.com/$(basename "$file" .md | slug)</loc>
