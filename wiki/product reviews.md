@@ -301,7 +301,7 @@ Some thoughts after having used the laptop for a couple of months:
 - keyboard is not as bad as i was expecting, but of course the X220 keyboard is much better.
 - the touch pad makes a clicking sound when i lift my fingers, which is annoying but tolerable.
 - there is no way to turn off the keyboard backlight -- no setting in the BIOS, nothing
-  in Lenovo Vantage. it keeps coming on after i wake up the computer from sleep or unlock the screen.
+  in Lenovo Vantage. it keeps coming on after i wake up the computer from sleep or unlock the screen. (update in 2023: this was finally fixed; see below)
   I must use function+Spacebar three time to toggle it to the "off" state every time. Pretty annoying.
   2022-01-13: i finally discovered where the sensor for this is, when the backlight is set to "auto" mode. it's a little left of the camera. if you look closely, you will see a round spot, a diameter of like 7mm maybe. if i put my finger over it, the backlight comes on, and if i remove my finger (with some light shining directly at it) the backlight will turn off. if the backlight is annoying, one idea is to make sure to sit in a place where there is some minimal amount of light shining on that sensor.
 - I like the switch to turn off the webcam.
@@ -385,7 +385,7 @@ Some thoughts after having used the laptop for a couple of months:
 
   Update (2022-08-13): a few months ago probably i ended up removing the key caps from the backspace key and the U key. the U key just seems to have a more stubborn "pin" (idk the technical term), so cleaning under the key cap and placing it back didn't fix anything. the backspace key is better now, though i cracked it in the middle in the process of trying to get it out.
 
-  Update (2023-02-11): I think a recent Lenovo Vantage auto-update finally fixed the keyboard backlight problem; now when i lock my screen and unlock it, the backlight setting does not reset. (not sure what happens after rebooting yet). however.... after nearly two years of training my muscle memory to reflexively turn off the keyboard backlight every time i unlock my screen, it will probably take a while before i unlearn this habit.
+  Update (2023-02-11): I think a recent Lenovo Vantage auto-update finally fixed the keyboard backlight problem; now when i lock my screen and unlock it, the backlight setting does not reset. (it still comes back on after rebooting the computer, but I do this infrequently enough that it won't be a problem for me). however.... after nearly two years of training my muscle memory to reflexively turn off the keyboard backlight every time i unlock my screen, it will probably take a while before i unlearn this habit.
 
 # Xiaomi Redmi 10
 
