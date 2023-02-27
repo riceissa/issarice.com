@@ -366,7 +366,7 @@ Some thoughts after having used the laptop for a couple of months:
 - the printscreen key feels useless, and i prefer having the context menu button instead like the x220.
 - i've noticed that the 'U' key requires the key to be pressed more fully than on other keys. this is
   somewhat annoying since it's a pretty common letter and is not on the home row so i don't naturally
-  press it very hard when typing.
+  press it very hard when typing. Update (2023-02-22): When bending the laptop into tablet mode today (the second time ever that I have done this), I noticed that all the keys went in except for this 'U' key. Not sure what's up with it. When I pressed it while inside a text box, it did not type the U character, so it seems to be successfully deactivated; it's just that the key won't go back in.
 - not sure if this is a software or hardware problem, but there is no stereo mode
   in the Windows sound settings. This makes it harder to "stream" my audio during
   e.g. video calls or when I'm trying to record something (some software like
@@ -386,6 +386,12 @@ Some thoughts after having used the laptop for a couple of months:
   Update (2022-08-13): a few months ago probably i ended up removing the key caps from the backspace key and the U key. the U key just seems to have a more stubborn "pin" (idk the technical term), so cleaning under the key cap and placing it back didn't fix anything. the backspace key is better now, though i cracked it in the middle in the process of trying to get it out.
 
   Update (2023-02-11): I think a recent Lenovo Vantage auto-update finally fixed the keyboard backlight problem; now when i lock my screen and unlock it, the backlight setting does not reset. (it still comes back on after rebooting the computer, but I do this infrequently enough that it won't be a problem for me). however.... after nearly two years of training my muscle memory to reflexively turn off the keyboard backlight every time i unlock my screen, it will probably take a while before i unlearn this habit.
+
+  Update (2023-02-17): the problem came back after another windows update.
+
+  Update (2023-02-20): i think another lenovo vantage update fixed this again.
+- very occasionally, the screen suddenly turns black and stays that way, sometimes for a few minutes, other times for possibly forever until I give up and forcibly shut the laptop off. If a video or something is playing then I can continue to hear sound, so it's not like the whole computer is frozen. I suspect it's just the visual display that's gotten messed up somehow. I can hear the fan going sometimes, so it may be some sort of system update (that automatically ran without me doing anything), which Lenovo Vantage sometimes does.  Anyway, this is very annoying when it happens and I am glad I have not been doing anything time-critical or super important at the times when this has happened so far. (it's maybe happened five times in two years.)
+- Early 2023: The "1" key has become kind of hard to press and makes a "crack" sort of noise maybe 95% of the time I press it. pretty annoying, as it's a pretty common key. I haven't tried removing the key yet to see if there's anything underneath. This sort of thing never happened on my X220 keyboard and so I am pretty disappointed.
 
 # Xiaomi Redmi 10
 
