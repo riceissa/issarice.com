@@ -1,3 +1,10 @@
+---
+title: Some thoughts on website design
+author: Issa Rice
+created: 2023-02-17
+date: 2023-02-17
+---
+
 some recurring thoughts i've had about web design:
 
 - most websites that have text centered in the middle also leave the sides white. this tends to hurt my eyes because there is too much light. on this website i've been careful to make the sides a specific shade of gray that is not so light that it hurts my eyes with brightness but not so dark that if i later look at a light thing it hurts my eyes (dark mode tends to hurt my eyes in this way so i don't like it). similarly, a white background tends to hurt my eyes a little, so i like the solarized light color for the main body background.
