@@ -29,7 +29,7 @@ EOF
 # so that is the process we want to parallelize with GNU parallel.
 
 {
-git ls-tree -r --name-only HEAD | grep -e '^wiki/' | \
+git ls-tree -r --name-only HEAD | grep -e '^wiki/.*md' | \
     parallel --tag git log -1 --format="%ai" -- | while read line; do
         lastmodified=`echo "$line" | sed -n 's/[^\t]\+\t\([^ ]\+\) .*/\1/p'`
         filename=`echo "$line" | sed -n 's/\([^\t]\+\)\t.*/\1/p'`
