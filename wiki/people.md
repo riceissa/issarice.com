@@ -105,7 +105,7 @@ exist.
 - Anna Salamon
 - Oliver Habryka
 - Buck Shlegeris
-- Andrew Critch
+- Andrew Critch (at least, until like 2018 or so. As of March 2023, I am not quite sure wtf is going on with him, but I don't really like it. He seems to have been replaced by a different, way more ... diplomatic/academic sort of person.)
 - Anatoly Karlin
 - Devin Helton/Devin Finbarr
 - [Aaron Swartz](http://www.slate.com/articles/technology/technology/2013/02/aaron_swartz_he_wanted_to_save_the_world_why_couldn_t_he_save_himself.3.html). Integrate his aesthetics but discard his beliefs.
