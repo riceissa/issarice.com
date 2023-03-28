@@ -1,5 +1,5 @@
 ---
-title: how to wake up at a reasonable hour
+title: How to wake up at a reasonable hour
 author: Issa Rice
 created: 2023-03-28
 date: 2023-03-28
@@ -24,5 +24,5 @@ With that out of the way, here's the basic plan:
 	- shut down computer
 	- brush teeth
 2. Keep going about your life as usual, not changing your schedule at all. Just get used to the idea of "do things when alarm rings" instead of "do things because it's a certain time on the clock". I recommend maybe a week or more at this stage. (I had already been doing this step for my medications for a long time, so when I used this method for my sleep schedule, I basically skipped this step.)
-3. Now, shift back the alarms each day by 10 minutes each day. Every time you shift back by a full hour, I recommend staying there for maybe a week just to make sure there is not even any minimal jet lag. (I think the sensitivity of shifting back varies a lot by person. I think I'm generally a lot more sensitive to jet lag than most people, so that's why I'm recommending stopping and staying after each hour moved back.)
+3. Now, shift back the alarms by 10 minutes each day. Every time you shift back by a full hour, I recommend staying there for maybe a week just to make sure there is not even any minimal jet lag. (I think the sensitivity of shifting back varies a lot by person. I think I'm generally a lot more sensitive to jet lag than most people, so that's why I'm recommending stopping and staying after each hour moved back.)
 4. Keep going until you reach your desired wake up and/or sleep time.
