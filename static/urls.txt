@@ -16,8 +16,6 @@ https://satvikberi.com/feed
 https://ericneyman.wordpress.com/feed/
 https://us4.campaign-archive.com/feed?u=412bdf6ca38cdf29c3374de56&id=06c013e05f
 https://eastmanreference.com/rss
-https://clearerthinkingpodcast.com/rss.xml
-https://feeds.feedburner.com/TheGivewellBlog?format=xml "~The GiveWell Blog"
 http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
 https://www.openphilanthropy.org/content-type/blog-posts/feed/ "~New Open Phil Blog"
 https://disqus.com/CarlShulman/latest.rss
@@ -42,18 +40,12 @@ https://ea.greaterwrong.com/users/lukas_finnveden?format=rss
 https://www.greaterwrong.com/users/richard_reitz?format=rss
 https://www.greaterwrong.com/users/daozaich?format=rss
 https://www.greaterwrong.com/users/lukeprog?format=rss
-https://www.greaterwrong.com/users/sawyer?format=rss
-https://ea.greaterwrong.com/users/sawyer?format=rss
 https://www.greaterwrong.com/users/edward-kmett?format=rss
-https://www.greaterwrong.com/users/adamgleave?format=rss
-https://ea.greaterwrong.com/users/adamgleave?format=rss
 https://www.greaterwrong.com/users/jsalvatier?format=rss
-https://exp.issarice.com/ea-forum-reader/users.php?id=robbensinger&format=rss
 https://ea.greaterwrong.com/users/Lila?format=rss
 https://ea.greaterwrong.com/users/adamshimi?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
 https://eaforum.issarice.com/users/beth-1?format=rss
-https://eaforum.issarice.com/users/william_macaskill?format=rss
 https://eaforum.issarice.com/users/clairezabel?format=rss
 https://ea.greaterwrong.com/users/galton?format=rss
 https://ea.greaterwrong.com/users/buck?format=rss
@@ -62,7 +54,6 @@ http://reflectivedisequilibrium.blogspot.com/feeds/posts/default
 http://hagiograffiti.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
 https://intelligence.org/blog/feed/
-http://aiimpacts.org/feed/
 http://rationality.org/feed.xml
 http://existence.org/feed.xml
 http://blog.acritch.com/atom.xml
@@ -74,7 +65,6 @@ https://srconstantin.github.io/feed.xml
 http://benjaminrosshoffman.com/feed/ "~Compass Rose - Ben Hoffman"
 http://modelingtheworld.benjaminrosshoffman.com/feed "~Ben Models the World - Ben Hoffman"
 http://slatestarcodex.com/feed/
-https://astralcodexten.substack.com/feed
 https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
@@ -85,8 +75,6 @@ https://arcsecond.wordpress.com/feed/
 https://usamo.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
-https://feeds.feedburner.com/LukeMuehlhauser?format=xml
-https://feeds.feedburner.com/80000HoursPodcast?format=xml
 http://yudkowsky.tumblr.com/rss
 https://longtermrisk.org/feed/
 https://casparoesterheld.com/feed/
