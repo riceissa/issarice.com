@@ -76,7 +76,6 @@ https://usamo.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
 http://yudkowsky.tumblr.com/rss
-https://longtermrisk.org/feed/
 https://casparoesterheld.com/feed/
 http://www.simonknutsson.com/feed/
 https://howielempel.com/blog/feed/
