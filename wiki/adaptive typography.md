@@ -1,11 +1,15 @@
 ---
-title: List of cognitive processes that happen as one interacts with a text
+title: Adaptive typography
 author: Issa Rice
 created: 2023-04-12
 date: 2023-04-12
 ---
 
+(this page used to be called "List of cognitive processes that happen as one interacts with a text".)
+
 (Motivation: when people read things, they're not just linearly processing the words and then storing each word in their head. They might be jumping around in the text to find the "interesting" parts or might be searching for something specific. This makes typography tricky: you can't just say "this is a book. so we use the typography of a book"; as the reader's mental activity changes, the "best" typography also changes. And that's just for a single reader! If we consider all the possible readers who might get value from a text, that's a lot of different purposes and mental activities going on. So. The goal here is to list out a bunch of mental activities and then see how design/typography decisions can improve the experience of each activity.)
+
+"responsive typography" is a pre-existing term, but for some reason it's only used to point to the concept of a page layout changing to match the size of the screen, essentially just the idea of "make sure you can read the page on both a laptop and a smartphone". this is like.. such a limited conception of what the term could mean! i'm just going to call my own thing "adaptive typography" for now so there is no confusion: i want typography that changes as the reader's mental state changes.  i am actually against responsive typography since i don't really want people to be reading my works on a smartphone. so you could say i am interested here in adaptive anti-responsive typography :D
 
 Things you do when "reading" something. Or: distinct cognitive processes that happen as you interact with a text.
 
