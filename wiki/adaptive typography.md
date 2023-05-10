@@ -5,6 +5,8 @@ created: 2023-04-12
 date: 2023-04-12
 ---
 
+**tl;dr:** Typographers focus almost exclusively on designing texts that are meant to be read linearly (and typography guidelines follow this as well, telling writers to limit line length, use a certain font size, etc.). But if you look at the actual stuff happening in the reader's mind as they interact with a book or webpage, linear reading is only one of many possible ways of interacting with a text. In particular, searching for things, flipping around, cross-referencing, and other "movement" tasks are quite common. For such movement tasks, the standard typographic advice seems like a poor choice. So the idea of _adaptive_ typography is to alter the typography of a page as the reader is reading to fit the current task. (This is to be distinguished from "responsive typography": adaptive typography is adapting to the reader's *mental state*, while responsive typography is responding to the reader's *device*.) I don't have a great idea for how to implement adaptive typography in practice, but one naïve idea is to have a button at the corner of the page that can toggle between "absorbing/linear mode" and "movement mode" (and possibly other modes).
+
 (this page used to be called "List of cognitive processes that happen as one interacts with a text".)
 
 (Motivation: when people read things, they're not just linearly processing the words and then storing each word in their head. They might be jumping around in the text to find the "interesting" parts or might be searching for something specific. This makes typography tricky: you can't just say "this is a book. so we use the typography of a book"; as the reader's mental activity changes, the "best" typography also changes. And that's just for a single reader! If we consider all the possible readers who might get value from a text, that's a lot of different purposes and mental activities going on. So. The goal here is to list out a bunch of mental activities and then see how design/typography decisions can improve the experience of each activity.)
@@ -49,3 +51,7 @@ For each thing below, I want to figure out how it maps onto design decisions. Ho
 	- if the "new pieces" are predictable, then having a special section addressed to experts or something would be one option. if it's clearly just an exposition piece and there's no new ideas, that's also something worth being explicit about.
 
 i think the two big "modes" are "**absorbing**" (linear reading, engaging with the *local* words) and "**moving**" (includes e.g. scanning and searching; interacting with the *global* structure).
+
+# External links
+
+- [here](https://www.greaterwrong.com/posts/X4nYiTLGxAkR2KLAP/open-and-welcome-thread-december-2019/comment/89tQRcqPkRKrPFJ3S) is a discussion i started on LessWrong back in 2019.
