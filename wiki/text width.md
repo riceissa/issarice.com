@@ -22,3 +22,7 @@ clicking on "text width" will toggle between an almost-full window width and a
 more compact width. Note that this requires JavaScript to be enabled for
 `issarice.com`. Persistence is achieved through cookies, which are only ever
 used for setting the theme. You can [see the source code of the script](https://github.com/riceissa/issarice.com/blob/master/static/change-theme.js).
+
+# See also
+
+- [[adaptive typography]], which expands this idea further
