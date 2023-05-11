@@ -105,8 +105,8 @@ $endif$
       </fieldset>
     </form>
   </div>
-  <div style="position: fixed; float: right;">
-    Current mode: <a id="change-reader-mode-toggle" href="#" onclick="change_reader_mode()">movement</a>
+  <div style="position: fixed; float: right; right: 0; top: 0; color: black;">
+    Current mode: <a id="change-reader-mode-toggle" href="#" onclick="change_reader_mode()" style="color: black;">movement</a>
   </div>
 </nav>
 
