@@ -67,15 +67,17 @@ function change_theme_table() {
 // click through to a new page, you are by definition in "movement mode" rather
 // than "absorption mode".
 function change_reader_mode() {
-  var currentScroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
-  if (document.body.classList.contains("absorption")) {
-    document.body.classList.remove("absorption");
+  // var currentScroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
+  if (document.getElementById("change-reader-mode-toggle").classList.contains("absorption")) {
+    document.getElementById("change-reader-mode-toggle").classList.remove("absorption");
     document.getElementById("change-reader-mode-toggle").textContent = "movement";
+    document.body.style.fontSize = "21px";
   } else {
-    document.body.classList.add("absorption");
+    document.getElementById("change-reader-mode-toggle").classList.add("absorption");
     document.getElementById("change-reader-mode-toggle").textContent = "absorption";
+    document.body.style.fontSize = "14px";
   }
-  window.scrollTo(0, currentScroll);
+  // window.scrollTo(0, currentScroll);
 }
 
 function set_theme_from_cookies() {
