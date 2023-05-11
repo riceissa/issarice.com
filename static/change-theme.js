@@ -67,6 +67,7 @@ function change_theme_table() {
 // click through to a new page, you are by definition in "movement mode" rather
 // than "absorption mode".
 function change_reader_mode() {
+  var currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
   if (document.body.classList.contains("absorption")) {
     document.body.classList.remove("absorption");
     document.getElementById("change-reader-mode-toggle").textContent = "movement";
@@ -74,6 +75,7 @@ function change_reader_mode() {
     document.body.classList.add("absorption");
     document.getElementById("change-reader-mode-toggle").textContent = "absorption";
   }
+  window.scrollTo(0, currentScroll);
 }
 
 function set_theme_from_cookies() {
