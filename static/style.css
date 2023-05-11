@@ -188,6 +188,7 @@ body.wide main, body.wide footer {
     max-width: none;
 }
 
+/*
 body.absorption {
     font-size: 21px;
     font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
@@ -197,6 +198,7 @@ body.absorption main {
     line-height: 1.45;
     max-width: 41rem;
 }
+*/
 
 /*
 Colors for source code listings. See
