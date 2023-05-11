@@ -71,11 +71,11 @@ function change_reader_mode() {
   if (document.getElementById("change-reader-mode-toggle").classList.contains("absorption")) {
     document.getElementById("change-reader-mode-toggle").classList.remove("absorption");
     document.getElementById("change-reader-mode-toggle").textContent = "movement";
-    document.body.style.fontSize = "21px";
+    document.main.style.fontSize = "21px";
   } else {
     document.getElementById("change-reader-mode-toggle").classList.add("absorption");
     document.getElementById("change-reader-mode-toggle").textContent = "absorption";
-    document.body.style.fontSize = "14px";
+    document.main.style.fontSize = "14px";
   }
   // window.scrollTo(0, currentScroll);
 }
