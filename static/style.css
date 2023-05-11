@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 */
 
-html { font-size: 18px; }
+html { font-size: 14px; }
 
 @media screen and (max-width: 650px) {
     html { font-size: 16px; }
@@ -32,7 +32,7 @@ html { font-size: 18px; }
 body {
     background-color: #a0a0a0;
     color: #333;
-    font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
+    font-family: Verdana, sans-serif;
 
     /* This prevents there being a thin gray border on the sides on narrow
      * screens. */
@@ -43,10 +43,10 @@ body {
 div.sourceLine { display:inline-block; }
 
 main, footer {
-    line-height: 1.4;
+    line-height: 1.2;
     background-color: #fdf6e3;
     margin: auto;
-    max-width: 41rem;
+    /* max-width: 41rem; */
     text-align: left;
     word-wrap: break-word;
 }
@@ -186,6 +186,16 @@ body.bigtable footer hr {
 
 body.wide main, body.wide footer {
     max-width: none;
+}
+
+body.absorption {
+    font-size: 21px;
+    font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
+}
+
+body.absorption main {
+    line-height: 1.45;
+    max-width: 41rem;
 }
 
 /*

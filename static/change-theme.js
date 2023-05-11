@@ -63,6 +63,19 @@ function change_theme_table() {
   }
 }
 
+// This one should not save the current setting in a cookie, because if you
+// click through to a new page, you are by definition in "movement mode" rather
+// than "absorption mode".
+function change_reader_mode() {
+  if (document.body.classList.contains("absorption")) {
+    document.body.classList.remove("absorption");
+    document.getElementById("change-reader-mode-toggle").textContent = "movement";
+  } else {
+    document.body.classList.add("absorption");
+    document.getElementById("change-reader-mode-toggle").textContent = "absorption";
+  }
+}
+
 function set_theme_from_cookies() {
   if (change_theme_read_cookie("textWidthCookie")) {
     document.body.classList.add("wide");
