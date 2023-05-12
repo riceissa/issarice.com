@@ -188,7 +188,7 @@ body.wide main, body.wide footer {
     max-width: none;
 }
 
-/*
+
 body.absorption {
     font-size: 21px;
     font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
@@ -198,7 +198,15 @@ body.absorption main {
     line-height: 1.45;
     max-width: 41rem;
 }
-*/
+
+/* From https://stackoverflow.com/a/11787147/3422337 */
+.unselectable {
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
 
 /*
 Colors for source code listings. See

@@ -67,17 +67,36 @@ function change_theme_table() {
 // click through to a new page, you are by definition in "movement mode" rather
 // than "absorption mode".
 function change_reader_mode() {
-  // var currentScroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop;
-  if (document.getElementById("change-reader-mode-toggle").classList.contains("absorption")) {
-    document.getElementById("change-reader-mode-toggle").classList.remove("absorption");
-    document.getElementById("change-reader-mode-toggle").textContent = "movement";
-    document.main.style.fontSize = "21px";
+  console.log("TEST!");
+  if (window.getSelection().toString() != "") {
+    var closestZeroElem = window.getSelection().anchorNode.parentNode;
+    console.log("HELLO!");
   } else {
-    document.getElementById("change-reader-mode-toggle").classList.add("absorption");
-    document.getElementById("change-reader-mode-toggle").textContent = "absorption";
-    document.main.style.fontSize = "14px";
+    var mainElem = document.querySelector('main');
+    var childElems = mainElem.querySelectorAll('*');
+    var closestZero = Infinity;
+    var closestZeroElem = null;
+    for (var i = 0; i < childElems.length; i++) {
+      var rect = childElems[i].getBoundingClientRect();
+
+      if (Math.abs(rect.top) < Math.abs(closestZero)) {
+        closestZeroElem = childElems[i];
+        closestZero = rect.top;
+      }
+    }
+    // console.log(closestZeroElem);
+    // console.log(closestZero);
   }
-  // window.scrollTo(0, currentScroll);
+
+  if (document.body.classList.contains("absorption")) {
+    document.body.classList.remove("absorption");
+    document.getElementById("change-reader-mode-toggle").textContent = "movement";
+  } else {
+    document.body.classList.add("absorption");
+    document.getElementById("change-reader-mode-toggle").textContent = "absorption";
+  }
+
+  closestZeroElem.scrollIntoView();
 }
 
 function set_theme_from_cookies() {
