@@ -67,12 +67,11 @@ function change_theme_table() {
 // click through to a new page, you are by definition in "movement mode" rather
 // than "absorption mode".
 function change_reader_mode() {
-  console.log("TEST!");
   if (window.getSelection().toString() != "") {
     var closestZeroElem = window.getSelection().anchorNode.parentNode;
-    console.log("HELLO!");
   } else {
     var mainElem = document.querySelector('main');
+    // var mainElem = document.body;
     var childElems = mainElem.querySelectorAll('*');
     var closestZero = Infinity;
     var closestZeroElem = null;

@@ -105,7 +105,7 @@ $endif$
       </fieldset>
     </form>
   </div>
-  <div style="position: fixed; float: right; right: 0; top: 0; color: black; background-color: #eee8d5;">
+  <div style="position: fixed; float: right; right: 0; bottom: 0; color: black; background-color: #eee8d5;">
     Current mode: <span id="change-reader-mode-toggle" style="color: black; cursor: pointer; text-decoration: underline;" onclick="change_reader_mode()" class="unselectable">movement</a>
   </div>
 </nav>

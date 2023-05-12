@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 */
 
-html { font-size: 14px; }
+html { font-size: 18px; }
 
 @media screen and (max-width: 650px) {
     html { font-size: 16px; }
@@ -43,6 +43,7 @@ body {
 div.sourceLine { display:inline-block; }
 
 main, footer {
+    font-size: 14px;
     line-height: 1.2;
     background-color: #fdf6e3;
     margin: auto;
@@ -189,12 +190,9 @@ body.wide main, body.wide footer {
 }
 
 
-body.absorption {
+body.absorption main {
     font-size: 21px;
     font-family: Charter, "Bitstream Charter", "PT Serif", Palatino, "Noto Serif", Georgia, serif;
-}
-
-body.absorption main {
     line-height: 1.45;
     max-width: 41rem;
 }
