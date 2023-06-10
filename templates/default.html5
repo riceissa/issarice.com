@@ -54,7 +54,7 @@ $endif$
   </script>
   <script data-goatcounter="https://issarice.goatcounter.com/count"
             async src="//gc.zgo.at/count.js"></script>
-  <!-- <script src="change-theme.js"></script> -->
+  <script src="change-theme.js"></script>
 </head>
 <body$if(bigtable)$ class="bigtable"$endif$>
 <script>
@@ -104,6 +104,9 @@ $endif$
         <input type="submit" name="btnG" value="Search site" />
       </fieldset>
     </form>
+  </div>
+  <div style="position: fixed; float: right; right: 0; bottom: 0; color: black; background-color: #eee8d5;">
+    Current mode: <span id="change-reader-mode-toggle" style="color: black; cursor: pointer; text-decoration: underline;" onclick="change_reader_mode()" class="unselectable">movement</span>
   </div>
 </nav>
 
