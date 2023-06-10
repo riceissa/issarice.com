@@ -52,6 +52,14 @@ For each thing below, I want to figure out how it maps onto design decisions. Ho
 
 i think the two big "modes" are "**absorbing**" (linear reading, engaging with the *local* words) and "**moving**" (includes e.g. scanning and searching; interacting with the *global* structure).
 
+possibly another framing: instead of "adaptive typography", it can be "modal reader", like how vim is a "modal text editor". the reader goes between different modes as they interact with the text, just as a programmer goes between e.g. edit, visual, normal modes as they write code.
+
+reading goes through several stages:
+
+- figuring out whether this is what you want to read -- e.g. reading the abstract, quickly scrolling to see the section names, reading the TOC, etc
+- committed: if you didn't bounce at the first step, you have committed. there's _something_ in here that you want to absorb. but at this stage you might still not be sure exactly where the info you want is located. so you still want some sort of intra-page navigation features
+- you've found your spot. now you just want to read linearly.
+
 # External links
 
 - [here](https://www.greaterwrong.com/posts/X4nYiTLGxAkR2KLAP/open-and-welcome-thread-december-2019/comment/89tQRcqPkRKrPFJ3S) is a discussion i started on LessWrong back in 2019.

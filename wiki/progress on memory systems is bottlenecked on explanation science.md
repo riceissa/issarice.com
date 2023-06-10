@@ -22,3 +22,9 @@ Ok, so Anki doesn't work well when the *learner* has *good* understanding of the
 My tentative conclusion from all of the above: understanding of material is the bottleneck to being able to write *and be receptive enough to make productive use of* the best cards. Another way of saying it: if you wrote a perfectly good explanation, the reader could easily write the cards themselves. Most expositions just don't have enough *there* to Ankify in the first place, which is why you have to do the iterated Ankification thing that Michael Nielsen loves to talk about: in part, that Ankification technique is a *symptom of the disease of poor exposition*.
 
 So how to make progress on producing better exposition? I wrote up some ideas a while ago [here](https://www.lesswrong.com/posts/J3Edt2CLcXPHQYSXo/exposition-as-science-some-ideas-for-how-to-make-progress).
+
+# See also
+
+- [[Anki]]
+- [[Quantum Country - quantum teleportation 2023 reread]]
+- [[math explanations]]
