@@ -89,27 +89,31 @@ function change_reader_mode() {
 
   if (document.body.classList.contains("absorption")) {
     var toc = document.querySelector('#TOC');
-    var mainElem = document.querySelector('main');
-    mainElem.before(toc);
-    toc.style.position = 'fixed';
-    toc.style.top = 0;
-    toc.style.width = "150px";
-    toc.style.backgroundColor = "#eee8d5";
-    mainElem.style.marginLeft = "150px";
+    if (toc) {
+      var mainElem = document.querySelector('main');
+      mainElem.before(toc);
+      toc.style.position = 'fixed';
+      toc.style.top = 0;
+      toc.style.width = "150px";
+      toc.style.backgroundColor = "#eee8d5";
+      mainElem.style.marginLeft = "150px";
+    }
 
     document.body.classList.remove("absorption");
     document.getElementById("change-reader-mode-toggle").textContent = "movement";
   } else {
     var toc = document.querySelector('#TOC');
-    var mainElem = document.querySelector('main');
-    toc.style.position = "";
-    toc.style.top = "";
-    toc.style.width = "";
-    toc.style.backgroundColor = "#fdf6e3";
-    mainElem.style.marginLeft = "";
+    if (toc) {
+      var mainElem = document.querySelector('main');
+      toc.style.position = "";
+      toc.style.top = "";
+      toc.style.width = "";
+      toc.style.backgroundColor = "#fdf6e3";
+      mainElem.style.marginLeft = "";
 
-    var titleBlock = document.querySelector('#title-block-header');
-    titleBlock.after(toc);
+      var titleBlock = document.querySelector('#title-block-header');
+      titleBlock.after(toc);
+    }
 
 
     document.body.classList.add("absorption");
