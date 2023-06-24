@@ -6,6 +6,8 @@ status: notes
 belief: possible
 ---
 
+**NOTE: I have a newer and better explanation of the material implication: <https://riceissa.github.io/material-conditional/>**
+
 This document outlines some of the common explanations surrounding the
 material implication connective in propositional logic.  The connective
 is most commondly represented using an arrow such as $\to$ or
