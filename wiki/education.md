@@ -5,7 +5,7 @@ date: 2016-04-29
 
 Here are some pages related to education on this site:
 
-- [[Advice for young people]]
+- [[things I wish I knew when I was younger]]
 - [[My UW essays]]
 - [[University of Washington]]
 - [[Some thoughts on college education]]
