@@ -18,13 +18,13 @@ Also relevant is my current [bounty list](https://github.com/vipulnaik/contractw
 As of March 2017, I have 5,919 edits on the English Wikipedia.
 More detailed statistics are available using [X!'s tools](https://tools.wmflabs.org/xtools-ec/?user=Riceissa&project=en.wikipedia.org).
 
-On March 20, 2017, I was indefinitely blocked from editing the English
+From March 20, 2017 to June 29, 2023 (aside from a brief period on May 1, 2017), I was blocked from editing the English
 Wikipedia as a "Promotion /
 advertising-only account".
 More information is available on the [corresponding Administrators'
 noticeboard/Incidents thread](https://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/IncidentArchive948#Riceissa).
 This block was one of the results of a series of attacks on [Vipul Naik's paid
-content creation project](https://contractwork.vipulnaik.com/).
+content creation project](https://contractwork.vipulnaik.com/). See [here](https://en.wikipedia.org/wiki/User_talk:Riceissa#Unblock_request) for the unblock request and the following discussion.
 
 # Contributions
 

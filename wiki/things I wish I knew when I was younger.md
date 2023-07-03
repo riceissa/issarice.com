@@ -1,10 +1,12 @@
 ---
-title: Advice for young people
+title: Things I wish I knew when I was younger
 author: Issa Rice
 date: 2015-05-02
 status: draft
 belief: emotional
 ---
+
+*This page used to be called "Advice for young people". I've renamed it to make it clearer that it's not really intended to be useful to most people.*
 
 **Warning:** i'm making a bunch of changes to this page as of 2018--2020, so right
 now it's a weird mix of things i believed in 2014--2015 plus things i currently
@@ -44,6 +46,12 @@ on).
 
 Feel free to [connect with me](contact) if you have questions
 or just want to talk to me.
+
+# Health
+
+- Be extremely cautious about international travel, even to supposedly developed countries. The viral illness that I believe is responsible for 4+ years of weird chronic illness I got in the UK. Nowadays in the post-COVID world, such things are more well-known and mask wearing is normalized, but back then it wasn't a thing I really thought about.
+- Use even more extreme caution when getting sick from a cold or something. I was somewhat cavalier about it because in all my life up to that point I would fully recover from colds, I was traveling and trying to get value out of my travels, etc. But looking back, it's possible that not trying harder to just rest and recover may have contributed to the chronic illness, but this is still super speculative.
+- Health "annoyances" in younger years may cascade into huge debilitating illnesses in later years. Looking back, I had things like shortness of breath and mild chronic constipation that I thought were fine to have/livable and indeed back then they were, but perhaps not treating them at the time is what led to my chronic illness (although I did go to primary care multiple times for these problems!). However, iatrogenic risks are a thing and a healthy person has bigger opportunity costs so spending time on boring health research is potentially a huge cost without clear benefit... I can't be confident about the calculation here so it's hard for me to say what I would have exactly advised to a younger version of myself.
 
 # School
 
@@ -457,6 +465,10 @@ also check out jonathan blow. search "small number" on <https://en.wikiquote.org
 # Death
 
 was grognor right? i still don't know!
+
+(still working through this)
+
+- One thing I regret is not signing up for cryonics really early on in life. Maybe 2016 or 2017 was the correct year to do it (otherwise I would probably have to use my parents' money to pay the premium, which may have been hard to argue for). By 2019 I was already experiencing my symptoms. Sometimes one has just 2--3 years to sign up for cryonics, and if you miss that window you're screwed for life.
 
 # Effective altruism
 
