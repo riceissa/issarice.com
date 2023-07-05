@@ -1,5 +1,5 @@
 ---
-title: Things I wish I knew when I was younger
+title: Things I wish I knew earlier
 author: Issa Rice
 date: 2015-05-02
 status: draft
