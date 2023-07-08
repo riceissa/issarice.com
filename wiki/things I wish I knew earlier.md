@@ -52,6 +52,15 @@ or just want to talk to me.
 - Be extremely cautious about international travel, even to supposedly developed countries. The viral illness that I believe is responsible for 4+ years of weird chronic illness I got in the UK. Nowadays in the post-COVID world, such things are more well-known and mask wearing is normalized, but back then it wasn't a thing I really thought about.
 - Use even more extreme caution when getting sick from a cold or something. I was somewhat cavalier about it because in all my life up to that point I would fully recover from colds, I was traveling and trying to get value out of my travels, etc. But looking back, it's possible that not trying harder to just rest and recover may have contributed to the chronic illness, but this is still super speculative.
 - Health "annoyances" in younger years may cascade into huge debilitating illnesses in later years. Looking back, I had things like shortness of breath and mild chronic constipation that I thought were fine to have/livable and indeed back then they were, but perhaps not treating them at the time is what led to my chronic illness (although I did go to primary care multiple times for these problems!). However, iatrogenic risks are a thing and a healthy person has bigger opportunity costs so spending time on boring health research is potentially a huge cost without clear benefit... I can't be confident about the calculation here so it's hard for me to say what I would have exactly advised to a younger version of myself.
+- Probably don't become vegetarian/vegan until you know more about health/nutrition/biology than even I do in 2023. In particular, I don't think "vegetarians don't get enough vitamin B12 so just supplement that" is sufficient knowledge to become a vegetarian. I think reducetarianism might still be okay, but I don't know how much meat of which kinds is sufficient.
+- See also [[intuitive nutrition case studies]]
+- Exercise seems important and I maybe wish I had spent more time on it (though it's not clear it would have made any difference to me).
+
+# Risks
+
+One of the interesting things about being chronically ill is that "minor" stressors affect me a lot more than they do for healthy people.
+
+Maybe one framing is the [accident triangle](https://en.wikipedia.org/wiki/Accident_triangle): being chronically ill bumps me down so that a lower level accident affects me as much as a higher level accident. Or in other words, it lets me viscerally feel/observe lower level incidents in a way that normal healthy people are unable to observe them. Examples: summer heat, certain foods, bright lights, etc. This suggests that to be "safe", even healthy people can emulate chronically ill people in certain ways (resting more, avoiding even mild heat, etc). However, there's things like eustress/"desirable difficulties" (from education psychology) that point to the opposite conclusion. Overall, I still feel very confused here.
 
 # School
 
