@@ -851,8 +851,8 @@ in a more systematic fashion (e.g. textbooks).
 
 - beware tunnel vision
 - at the same time, knowing a lot of math can be useful
-- once you go woke, it can be hard to go all in on math, so it might be good to do this while young
-- usefulness of math depends on the subfield. e.g. i think statistics/probability and linear algebra are probably the most generally useful ones, and there are some things like complex analysis that i haven't learned (and i haven't had to learn so far).
+- once you go woke, it can be hard to go all in on math, so it might be good to do this while young (and if you invest in [[Anki]], you'll be able to keep all this knowledge indefinitely into the future with little maintenance cost)
+- usefulness of math depends on the subfield. e.g. i think statistics/probability and linear algebra are probably the most generally useful ones, and there are some things like complex analysis and number theory that i haven't learned (and i haven't had to learn so far).
 
 # Learning how to learn
 
@@ -871,7 +871,7 @@ Briefly, here are some principles to learning effectively (which I hope to expan
   algebra this month, and will spend all my learning time on linear algebra"
   ("learn a specific new thing", de re) or I could have a mindset like "I'm
   going to learn some unspecified new thing each day, whatever it may be,
-  depending on what I feel curious about on each day" ("learn a new thing", de
+  depending on what I feel curious about on each day" ("learn a non-specific new thing", de
   dicto). I've found the latter to be much more enjoyable/easy for me.
 
   The connection with the de re vs de dicto terminology is that if I just say
@@ -882,17 +882,17 @@ Briefly, here are some principles to learning effectively (which I hope to expan
   tallest man in Fulsom County" don't make it clear whether Peter or Jana has a
   specific someone in mind.
 
-- spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into [[Anki]] is _not_ an effective way to learn. there are many pitfalls here.
+- spaced repetition works, but it's not magic, so you have to learn how to use it well. in particular, throwing cards at random into [[Anki]] is _not_ an effective way to learn. there are many pitfalls here. the best introduction as of 2023 is still [this one by Michael Nielsen](http://augmentingcognition.com/ltm.html).
 - trust your sense of boredom, but also learn to cultivate it. if you're getting bored of something, there's usually a good reason for it (e.g. material is too easy or too difficult), and you can switch to learning something else. (there are similar lessons here, e.g. in mathematics you should trust your sense of aesthetics, but also learn to develop it in response to new mathematics)
-- putting math problems into anki works well for remembering math, but there are many subtleties involved, in order to make sure you stick with it.
-- just reading is not enough (by a lot) for learning new math. you have to do some combination of doing the exercises in the book, coming up with your own exercises, asking questions, checking assumptions for theorems, [a bunch of stuff for definitions](https://learning.subwiki.org/wiki/Understanding_mathematical_definitions), cross-reading multiple books+wikipedia (some books use nonstandard notation or definitions and don't tell you).
-- making concepts intuitive vs passably being able to work with them (see satvik beri's answer on quora)
+- putting math problems into anki works well for remembering math, but there are many subtleties involved, in order to make sure you stick with it. I explored some of these subtleties [here](https://wiki.issarice.com/wiki/Category:Spaced_repetition) but it's not organized very well yet.
+- just reading is not enough (by a lot) for learning new math. you have to do some combination of doing the exercises in the book, coming up with your own exercises, asking questions, checking assumptions for theorems, [a bunch of stuff for definitions](https://learning.subwiki.org/wiki/Understanding_mathematical_definitions), cross-reading multiple books+wikipedia (some books use nonstandard notation or definitions and don't tell you, so part of what you have to do is to learn the underlying concepts of which the written-down definitions are only one possible manifestation).
+- making concepts intuitive vs passably being able to work with them (see satvik beri's [answer](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly/answer/Satvik-Beri) on quora)
 - learn what it feels like when material is: too easy, too hard, just right.
 - learn to tell the difference between pointless pedantry (e.g. insisting that functions are sets) and useful pedantry (e.g. checking edge cases like those involving the empty set)
-- there is something like an "optimal order" for learning undergraduate math. i'm not entirely sure what this order is, but i have some idea of the pieces (e.g. metric spaces before general topology)
+- there is something like an "optimal order" for learning undergraduate math. i'm not entirely sure what this order is, but i have some idea of the pieces (e.g. metric spaces before general topology). see also [this page](https://machinelearning.subwiki.org/wiki/User:IssaRice/Subfield_of_math_that_is_best_for_introducing_proofs), though that page only considered the first step (which subfield should you start with?) and not the whole sequence you should follow.
 - some books have polarizing reviews (e.g. baby rudin is "the best book on analysis" or it is "way too terse"). this is a hint that the book has an "optimal background" for it, and you should think about what this background might be.
-- in the beginning, write out the gory details of proofs.
-- some weird ego/self-esteem issues: learning to be okay with being confused/stuck, learning to be ok with not solving a problem instantly, being ok with being a beginner.
+- in the beginning, write out the gory details of proofs. maybe complete the [natural numbers game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/), which will make sure you're not cheating by leaving out any details -- a computer checks your work!
+- some weird ego/self-esteem issues: learning to be okay with being confused/stuck, learning to be ok with not solving a problem instantly, being ok with being a beginner. real learning is not like high school where as long as you're relatively sharp, everything makes sense instantly. in real learning, most of the time you are stuck.
 - many explanations suck, but sometimes the solution isn't to go find a different explanation. many math textbooks are written in a way that assumes you will be putting in a lot of work, but they don't explicitly tell you this. often things get mysteriously easier when you play around with concrete examples.
 - "learn a bunch of things well in the next year" is easier than "learn this one thing well in the next month"
 - i had the mistaken impression when i was younger that i was a "quick learner" or that i was already "good at learning" because i was able to get good grades in school. it was only when i was learning things which were actually hard and actually required thinking that i realized i wasn't retaining as much of it as i thought i should.
@@ -904,7 +904,7 @@ Here is a brief description of how i learn math (as of August 2019):
 2. i read for a bit. anytime i come across something interesting/new, i add it to anki. (this part needs a lot of explanation)
 3. if i come across a part of a book that requires some sort of verification, i do that, using pencil and a notebook.
 4. i work out some exercises or make up my own. after i finish an exercise, if it was not a too tedious one, i write it up and add it to anki (in a separate problems deck). writing this up sometimes catches subtle errors i had in my original reasoning. while i do this, i might also search up solutions to see if there is a better way to do it. This deck is designed so that i see this problem only about a month later, which is a good test to see if i've successfully internalized the material. for writing up proofs in anki, it's better to err on the side of being pedantic/meticulous, because in a few months you may have forgotten subtle things which cause small errors in your proof (which would be hard to notice if your proof writeup is hand-wavy).
-5. if i encounter something i don't understand, i write a question down, in a notebook or text file or maybe math SE. sometimes, i will be able to answer this question in a few months, after i've learned more things. but other times, it's something that seems difficult to answer, so i don't get a quick answer. (I haven't tried this, but it might be good to find a [tutor](https://www.greaterwrong.com/posts/tmWMuY5HCSNXXZ9oq/buck-s-shortform/comment/dcR3jmeZBc3EdDbrh) in the subject and ask them all your questions. One problem for me is that many of the things i want to learn don't have tutors listed on wyzant.)
+5. if i encounter something i don't understand, i write a question down, in a notebook or text file or maybe math SE (really it should be written in a [spaced inbox](https://github.com/riceissa/spaced-inbox) but i didn't have this back then). sometimes, i will be able to answer this question in a few months, after i've learned more things. but other times, it's something that seems difficult to answer, so i don't get a quick answer. (I haven't tried this, but it might be good to find a [tutor](https://www.greaterwrong.com/posts/tmWMuY5HCSNXXZ9oq/buck-s-shortform/comment/dcR3jmeZBc3EdDbrh) in the subject and ask them all your questions. One problem for me is that many of the things i want to learn don't have tutors listed on wyzant.)
 6. if i come up with a better explanation of something, or a better systematization, i will write it up. these days, i put these on the [ML subwiki userspace](https://machinelearning.subwiki.org/wiki/User:IssaRice).
 7. in the evening, i go through my daily anki reviews (including the problems deck).
 

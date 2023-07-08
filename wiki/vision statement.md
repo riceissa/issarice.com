@@ -16,3 +16,7 @@ i feel like i _do_ a lot of things in the world in a way that makes complete sen
 WARNING TO SELF: this document will probably not work. just look at all of those foundations where a rich dude left a bunch of money and told people to do things, and then those foundations ended up doing totally different things after a hundred years. but let's try; maybe by having past examples of failures, or just more thoughtfulness (how hard did these dudes try, anyway?), i can do a little bit better.
 
 (watch this space)
+
+# See also
+
+- [[things I wish I knew earlier]]
