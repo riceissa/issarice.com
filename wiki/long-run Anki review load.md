@@ -90,6 +90,8 @@ Of course, the behavior in the limit might not concern us if we only expect to l
 |49|56|
 |50|56|
 
+We can compare this to other hobbies. A tennis player might not enjoy the thought that as they keep playing tennis throughout the years, they will have to spend more and more time on it each day (unboundedly!). But they would probably find it a bargain that on an average day of their 20th year playing tennis, they will only have to spend 47% ($50/34 -1$) more effort on it as they spend on an average day near the end of one year of practice.
+
 # Appendix: simulation
 
 Here's some Python code that will simulate reviews:
