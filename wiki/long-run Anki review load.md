@@ -23,7 +23,7 @@ So we want $\frac{a^{k+1} - a}{a-1} \leq D$. For simplicity, we can just assume 
 
 The actual number of cards due on day $D$ is $c(k+1)$, so finally we obtain $$c\log_a((a-1)D + a)$$ for the number of cards due.
 
-For some reason, prior to going through the math above, I had the mistaken impression that because of spaced repetition's exponential spacing rule, no matter how long I kept using Anki I'd have roughly the same amount of reviews each day. But you can see this is wrong: the review load is logarithmic in the number of days, so the review load grows without bound!
+For some reason, prior to going through the math above, I had the mistaken impression that because of spaced repetition's exponential spacing rule, no matter how long I kept using Anki I'd have roughly the same amount of reviews each day. But you can see this is wrong: the review load is logarithmic in the number of days, so the review load grows without bound! This means that (in [asymptotic terms](https://en.wikipedia.org/wiki/Big_O_notation)) a spaced repetition practitioner will at first have quite an easy time keeping up on cards, but if they keep adding roughly the same amount of cards on average every day, then over time their daily practice will become more and more (unboundedly!) onerous.
 
 So in the limit of indefinite lifespan, we have a few possibilities:
 
@@ -90,7 +90,7 @@ Of course, the behavior in the limit might not concern us if we only expect to l
 |49|56|
 |50|56|
 
-We can compare this to other hobbies. A tennis player might not enjoy the thought that as they keep playing tennis throughout the years, they will have to spend more and more time on it each day (unboundedly!). But they would probably find it a bargain that on an average day of their 20th year playing tennis, they will only have to spend 47% ($50/34 -1$) more effort on it as they spend on an average day near the end of one year of practice.
+We can compare this to other hobbies. A tennis player might not enjoy the thought that as they keep playing tennis throughout the years, they will have to spend more and more time on it each day (unboundedly!). But they would probably find it a bargain that on an average day of their 20th year playing tennis, they will only have to spend 47% ($50/34 -1$) more effort on it as they spend on an average day near the end of one year of practice. (One imagines that at the end of the first year they are still a new hobby player, casually playing, while after 20 years they are significantly more invested in the game and player a lot more as a result.)
 
 # Appendix: simulation
 
