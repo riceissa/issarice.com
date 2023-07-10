@@ -97,6 +97,8 @@ a:link { color: #3855d1; }
 a:visited { color: #698255; }
 a:hover, a:active { text-decoration: underline; }
 a.anchorjs-link:hover, a.anchorjs-link:active { text-decoration: none; }
+a#reader-mode-help:link { color: #3855d1;; }
+a#reader-mode-help:visited { color: #698255; }
 
 blockquote {
     border-left: 4px solid #93a1a1;
