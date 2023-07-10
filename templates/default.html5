@@ -30,6 +30,9 @@ $endif$
   <link rel="me" href="https://twitter.com/riceissa" />
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="theme.default.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
   <link rel="alternate" type="application/atom+xml" href="https://issarice.com/atom.xml" />
   <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>
