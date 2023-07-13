@@ -81,6 +81,13 @@ print("""</dl>
 <p>Regarding “forecasting” as a subject area versus “prediction” as a service type, at the moment they seem identical, but e.g. if a wiki about forecasting emerged, it would have a “forecasting” subject area but a “wiki” service type.</p>
 <p>The “sphere” column says something about my motivation for caring about the service or how I came to know about the service in the first place. For instance, the Machine Learning Subwiki has “Vipul Naik” as its sphere rather than “Technology” because my account creation on that wiki was a direct result of being in contact with Vipul Naik rather than my general interest in technology.</p>
 <p>The “EA/R” sphere refers to the <a href="effective-altruism">effective altruism</a> and <a href="rationality-community">rationality communities</a>.</p>
+<p>Noting some accounts I have seen out in the wild that I do not own:</p>
+<ul>
+<li>I never owned the account issarice on twitter. This was some other person with apparnelty the same name as me, who had their twitter account suspended for some reason.</li>
+<li>I am not issarice or issa.rice on Facebook. I think this is the same person who owned the twitter account.</li>
+<li>I do not have a Twitch account. In particular, both RiceIssa and issarice on Twitch are not me.</li>
+<li>I am not issarice on GitHub. I don’t know the person who owns this account or why they chose this username.</li>
+</ul>
 <p>With JavaScript enabled, it is possible to sort the table by each column.</p>
 <p>You can also view the table below as a spreadsheet <a href="https://docs.google.com/spreadsheets/d/1ST7L8RT7TBwYlF1Vrl5oHUOB0Ng37_ERc9J387y63A8/edit?usp=sharing">here</a>.</p>
 <p>If you like tables like these, you might enjoy looking at the <a href="https://contractwork.vipulnaik.com/worker.php?worker=Issa+Rice">contract work I’ve done for Vipul Naik</a>.</p>
