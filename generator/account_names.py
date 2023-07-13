@@ -83,7 +83,7 @@ print("""</dl>
 <p>The “EA/R” sphere refers to the <a href="effective-altruism">effective altruism</a> and <a href="rationality-community">rationality communities</a>.</p>
 <p>Noting some accounts I have seen out in the wild that I do not own:</p>
 <ul>
-<li>I never owned the account issarice on twitter. This was some other person with apparnelty the same name as me, who had their twitter account suspended for some reason.</li>
+<li>I never owned the account issarice on twitter. This was some other person with apparently the same name as me, who had their twitter account suspended for some reason.</li>
 <li>I am not issarice or issa.rice on Facebook. I think this is the same person who owned the twitter account.</li>
 <li>I do not have a Twitch account. In particular, both RiceIssa and issarice on Twitch are not me.</li>
 <li>I am not issarice on GitHub. I don’t know the person who owns this account or why they chose this username.</li>
