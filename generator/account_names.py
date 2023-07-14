@@ -21,6 +21,18 @@ print("""<meta property="og:title" content="Account names" />
   <meta property="og:locale" content="en_US" />
   <meta property="article:author" content="https://www.facebook.com/riceissa" />
   <link rel="stylesheet" href="theme.default.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2G3J40KHN4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2G3J40KHN4');
+  </script>
+  <script data-goatcounter="https://issarice.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
   <script src="jquery-latest.min.js"></script>
   <script src="jquery.tablesorter.js"></script>""")
 
