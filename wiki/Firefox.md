@@ -21,6 +21,8 @@ some sketchy people who then put in spyware, or something like that).
 - uBlock Origin
 - F.B Purity
 
+(Above list is up-to-date as of 2023-07-26.)
+
 # Keyword search
 
 I have several [custom keyword searches](https://www-archive.mozilla.org/docs/end-user/keywords.html "'How Cool are Custom Keywords?' by Asa Dotzler") on Firefox. Following DuckDuckGo's idea
