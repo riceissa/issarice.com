@@ -67,7 +67,7 @@ with open("link-graph.json", "r") as lg, open("backlinks.json", "w") as b:
                 if x not in backlinks[y]:
                     backlinks[y].append(x)
             else:
-                backlinks[y] = []
+                backlinks[y] = [x]
     json.dump(backlinks, b, indent=4)
 
 shutil.rmtree("backlink_fragments")
