@@ -485,3 +485,15 @@ Some things I don't like about it are:
 - It does not have well-defined left and right click buttons, so I very occasionally click both buttons at once.
 - One of the pad things underneath keeps coming off once every few months. So far I've been able to clean it and stick it back every time, but at some point it may come off for good? I wish they had more securely attached the pads.
 - Also because Microsoft seems to have stopped making this mouse model, it's now sold for $130 on Amazon which is ridiculous. I have seen it sold used at a second hand/thrift store for like $4 once (but the USB part was damaged so it didn't actually work, and one of the pads underneath was missing).  I hope to find more soon so that I can stock up on this mouse (as I've learned over the years, there is actually quite a bit of variance in how good a mouse is for e.g. not causing hand pain, and my preferences seem kind of unusual so I can't just read online reviews and buy one that other people like).
+
+# Wahl beard trimmer Model 5537N
+
+Amazon link: https://www.amazon.com/gp/product/B000KG87WW ($16.50 including tax at the time of my purchase in 2023; the Amazon link says Model 5537-420 but the one I got says 5537N)
+
+One of the things that's hard with my [[chronic illness]] is standing in one place for more than a few minutes. This makes certain everyday activities like showering quite difficult. For a few reasons\*, I like to shave while showering but because I am showering + shaving at the same time, this means I have to stay standing for quite a while, which has made showering pretty difficult in recent times.
+
+This beard trimmer allows me to decouple showering and shaving, and in fact allows me to shave while seated. It makes shaving so easy that I can do it more often, which makes the average length of my facial hair over time shorter, even though it cuts the hair longer than actual shaving.
+
+The product comes with a matching nose hair trimmer, but I don't really get long nose hairs (at least as of now), so I have not used it.
+
+\*: When I shave at the sink, the water drips down to my clothes/down my neck, which I don't like. Also, somehow the hot steamy air created from the shower helps to soften my skin or moisten it, which helps the razors be less likely to injure my face while shaving (I don't fully understand why it works this way, but this has been my experience based on trying it both in the shower and at the sink). I suppose I could invest in shaving cream or something to make the shaving at the sink work more smoothly, but this would not solve the "water drips down my neck" problem.
