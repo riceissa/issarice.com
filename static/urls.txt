@@ -55,7 +55,6 @@ http://hagiograffiti.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
 https://intelligence.org/blog/feed/
 http://rationality.org/feed.xml
-http://existence.org/feed.xml
 http://blog.acritch.com/atom.xml
 http://acritch.com/blog/feed/
 http://www.bayesianinvestor.com/blog/index.php/category/books/feed/
