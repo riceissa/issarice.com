@@ -22,11 +22,13 @@ https://disqus.com/CarlShulman/latest.rss
 https://www.greaterwrong.com/users/carlshulman?format=rss
 https://www.greaterwrong.com/users/wei_dai?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
+https://ea.greaterwrong.com/users/wei_dai?format=rss
 https://disqus.com/wei_dai/latest.rss
 https://www.greaterwrong.com/users/jonahsinick?format=rss
 https://www.greaterwrong.com/users/vipulnaik?format=rss
 https://www.greaterwrong.com/users/eliezer_yudkowsky?format=rss
 https://eaforum.issarice.com/users/eliezeryudkowsky?format=rss
+https://ea.greaterwrong.com/users/eliezeryudkowsky?format=rss
 https://disqus.com/eliezeryudkowsky/latest.rss
 https://www.greaterwrong.com/users/annasalamon?format=rss
 https://ea.greaterwrong.com/users/annasalamon?format=rss
@@ -45,8 +47,11 @@ https://www.greaterwrong.com/users/jsalvatier?format=rss
 https://ea.greaterwrong.com/users/Lila?format=rss
 https://ea.greaterwrong.com/users/adamshimi?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
+https://ea.greaterwrong.com/users/carl_shulman?format=rss
 https://eaforum.issarice.com/users/beth-1?format=rss
+https://ea.greaterwrong.com/users/beth-1?format=rss
 https://eaforum.issarice.com/users/clairezabel?format=rss
+https://ea.greaterwrong.com/users/clairezabel?format=rss
 https://ea.greaterwrong.com/users/galton?format=rss
 https://ea.greaterwrong.com/users/buck?format=rss
 https://www.greaterwrong.com/users/buck?format=rss
