@@ -47,7 +47,7 @@ https://www.greaterwrong.com/users/jsalvatier?format=rss
 https://ea.greaterwrong.com/users/Lila?format=rss
 https://ea.greaterwrong.com/users/adamshimi?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
-https://ea.greaterwrong.com/users/carl_shulman?format=rss
+https://ea.greaterwrong.com/users/carlshulman?format=rss
 https://eaforum.issarice.com/users/beth-1?format=rss
 https://ea.greaterwrong.com/users/beth-1?format=rss
 https://eaforum.issarice.com/users/clairezabel?format=rss
