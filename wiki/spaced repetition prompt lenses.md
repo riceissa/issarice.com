@@ -25,3 +25,6 @@ Here's what I've come up with so far:
 - draw it: what does a derivative look like?
 - metaphors/analogies: immune book has a lot of this, e.g. macrophage as raging rhino.
 - computations and algorithm execution: e.g. compute gcd(5,0).
+
+# See also
+- [[Anki prompt-writing links]]

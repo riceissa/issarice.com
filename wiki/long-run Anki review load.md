@@ -5,6 +5,8 @@ created: 2023-07-09
 date: 2023-07-09
 ---
 
+(I like to think of the calculations done on this page as the "**curse of spaced repetition**": if you keep adding a constant number of cards per day to Anki, your review load will grow (logarithmically) over time, meaning as the years go by you will have more and more work to do every day just to keep up with your existing knowledge.)
+
 Let's say you add $c$ cards to Anki per day. To simplify calculations for now, let's say the ease factor is an integer, which we'll call $a$, and you never get cards wrong, so each card is reviewed on the day it is created, then $a$ days later; after that, $a^2$ days later; after that, $a^3$ days later, and so on. What does the long-run review load look like? In other words how many cards will be due on day $D$ for some large $D$?
 
 On day $D$, there will be:
@@ -132,3 +134,7 @@ if __name__ == "__main__":
     for year in range(50):
         print(f"year {year}: {final_load[365*year]}")
 ```
+
+# External links
+
+- After I wrote all of the above, I came across [this reddit post](https://www.reddit.com/r/Anki/comments/pmovkn/longtime_anki_and_diminishing_returns_or_the/) that provides some empirical demonstration
