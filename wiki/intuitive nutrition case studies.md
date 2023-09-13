@@ -5,7 +5,7 @@ created: 2023-06-09
 date: 2023-06-09
 ---
 
-For what I mean by "intuitive nutrition", see [this fairly introductory post](https://meditationstuff.wordpress.com/2020/05/10/intuition-based-nutrition/). On this page, I try to collect case studies of people eating in this way and the ways in which it's helped (or harmed!) them.
+For what I mean by "intuitive nutrition", see [this fairly introductory post](https://meditationstuff.wordpress.com/2020/05/10/intuition-based-nutrition/) (see also [here](https://meditationbook.page/#nutrition)). On this page, I try to collect case studies of people eating in this way and the ways in which it's helped (or harmed!) them.
 
 - Elizabeth Van Nostrand's [thread](https://twitter.com/acesounderglass/status/1504591434707468316) about [[MealSquares]] and V8
 - Qiaochu Yuan on electrolytes, see [here](https://twitter.com/QiaochuYuan/status/1506108907470483458) for instance but he's talked about this in a bunch of places.

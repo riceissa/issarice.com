@@ -1,3 +1,12 @@
+---
+title: Anki prompt-writing links
+author: Issa Rice
+created: 2023-08-13
+date: 2023-08-23
+---
+
+**NOTE:** I've now created <https://www.reddit.com/r/FlashcardCrafting/> which has many more links.
+
 Some resources I've found useful for [[Anki]] prompt-writing:
 
 - http://super-memory.com/articles/20rules.htm
