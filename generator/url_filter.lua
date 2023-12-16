@@ -27,18 +27,14 @@ end
 -- Slugify the string x. Unicode support isn't too good at the moment and must
 -- be hard-coded into the map.
 function slug(x)
-  map = {["ó"] = "ó"}
   local x = x:lower()
+  local blacklist = "- !@#$%^&*()_=+,<>.?/'\"[]{}\\|`~:;‘’“”§"
   local ret = ""
   -- Loop over utf-8 characters rather than bytes; see
   -- https://stackoverflow.com/a/13238257/3422337
-  for c in x:gmatch("[%z\1-\127\194-\244][\128-\191]*") do
-    if c:match("%w") then
-      ret = ret .. c
-    elseif map[c] ~= nil then
-      -- I no longer remember why we have to use this map instead of just
-      -- appending c onto ret
-      ret = ret .. map[c]
+  for _, c in utf8.codes(x) do
+    if not blacklist:find(utf8.char(c)) then
+      ret = ret .. utf8.char(c)
     elseif not(#ret == 0 or string.sub(ret, -1) == "-") then
       ret = ret .. "-"
     end
