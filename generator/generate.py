@@ -46,27 +46,27 @@ def process_filepath(filepath):
     # [[contact]], then the Pandoc Markdown reader will interpret that as a
     # link to the contact section, and you will end up with
     # "[[contact](#contact)]" instead of "[contact](contact)".
-    try:
-        p = subprocess.run([
-            "pandoc", "-f", "markdown+smart-implicit_header_references",
-            "-t", "json", filepath
-        ], check=True, capture_output=True)
-    except subprocess.CalledProcessError as e:
-        print("Error running pandoc (markdown to json):",
-              "error code:", e.returncode,
-              "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
-        sys.exit()
+    # try:
+    #     p = subprocess.run([
+    #         "pandoc", "-f", "markdown+smart-implicit_header_references",
+    #         "-t", "json", filepath
+    #     ], check=True, capture_output=True)
+    # except subprocess.CalledProcessError as e:
+    #     print("Error running pandoc (markdown to json):",
+    #           "error code:", e.returncode,
+    #           "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+    #     sys.exit()
 
-    try:
-        # https://github.com/riceissa/pandoc-wikilinks-filter/blob/main/wikilinks.py
-        p2 = subprocess.run(["wikilinks.py"],
-                            input=p.stdout, check=True,
-                            capture_output=True)
-    except subprocess.CalledProcessError as e:
-        print("Error running wikilinks.py:",
-              "error code:", e.returncode,
-              "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
-        sys.exit()
+    # try:
+    #     # https://github.com/riceissa/pandoc-wikilinks-filter/blob/main/wikilinks.py
+    #     p2 = subprocess.run(["wikilinks.py"],
+    #                         input=p.stdout, check=True,
+    #                         capture_output=True)
+    # except subprocess.CalledProcessError as e:
+    #     print("Error running wikilinks.py:",
+    #           "error code:", e.returncode,
+    #           "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+    #     sys.exit()
 
     try:
         p_last_mod = subprocess.run([
@@ -87,7 +87,7 @@ def process_filepath(filepath):
     temp_dest = final_dest + ".tempmjpage.html"
     try:
         pandoc_args = [
-            "pandoc", "-f", "json", "-t", "html5",
+            "pandoc", "-f", "markdown+smart+wikilinks_title_after_pipe-implicit_header_references", "-t", "html5",
             "--shift-heading-level-by", "1",
             "--template", "templates/default.html5",
             "-M", "toc-title:Contents",
@@ -106,7 +106,8 @@ def process_filepath(filepath):
                 "--include-after-body", "backlink_fragments/" + fileroot + ".html",
             ])
         pandoc_args.extend(["-o", temp_dest])
-        p3 = subprocess.run(pandoc_args, input=p2.stdout, check=True)
+        pandoc_args.extend([filepath])
+        p3 = subprocess.run(pandoc_args, check=True)
         # print(subprocess.list2cmdline(p3.args))
     except subprocess.CalledProcessError as e:
         print("Error running pandoc (json to html5):",

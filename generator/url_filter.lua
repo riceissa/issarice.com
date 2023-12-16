@@ -36,6 +36,8 @@ function slug(x)
     if c:match("%w") then
       ret = ret .. c
     elseif map[c] ~= nil then
+      -- I no longer remember why we have to use this map instead of just
+      -- appending c onto ret
       ret = ret .. map[c]
     elseif not(#ret == 0 or string.sub(ret, -1) == "-") then
       ret = ret .. "-"
@@ -64,6 +66,8 @@ function Link(elem)
       pandoc.utils.stringify(elem.content):gsub(" ", "+")
   elseif elem.target == "" then
     target = slug(pandoc.utils.stringify(elem.content))
+  elseif elem.title == "wikilink" then
+    target = slug(pandoc.utils.stringify(elem.target))
   end
   return pandoc.Link(elem.content, target, elem.title, elem.attr)
 end
