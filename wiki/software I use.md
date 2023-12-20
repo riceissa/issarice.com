@@ -20,7 +20,7 @@ This page lists software that I currently use.
   bunch of domains on NoScript or uMatrix.) (Update: Since April 2021 when I bought a new computer, I've just been using Firefox since Firefox is now fast enough even for the JavaScript-heavy web apps, at least for now...)
 - [[Vim]] (mostly Neovim since about July or August 2020) with [various plugins](https://github.com/riceissa/dotfiles/blob/master/.vimrc#L8-L41) for most text editing.
 - [[Git]]
-- Anki for spaced repetition
+- [[Anki]] for spaced repetition
 - [[ELinks]], Links, or Lynx for lightweight browsing depending on what I want.
   ELinks has tabbed browsing which I find easy to use, but Links can show
   images with the `-g` flag. Lynx seems to do correct checking for SSL certificates and
@@ -65,6 +65,9 @@ This page lists software that I currently use.
 - urlwatch
 - Steven Black's [hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-porn/hosts) file
 - Xournal, for signing some contracts (Xournal allows one to draw over the PDF and then export the result as PDF)
+- Sumatra PDF -- seems like a pretty great PDF/DJVU/ebook reader. I really like that it provides tabs, which most PDF readers don't.
+- Obsidian -- for editing this website. I use [this filter](https://github.com/riceissa/pandoc-wikilinks-filter) that I wrote which makes the same Markdown files that work on Obsidian also be compilable using Pandoc. Actually it looks like at some point (probably after I wrote my own filter) Pandoc implemented [alternative wikilink syntaxes](https://pandoc.org/MANUAL.html#extension-wikilinks_title_after_pipe) so I should probably just use that instead.
+- SuperMemo
 
 Web apps (I'm ignoring social media, passive content consumption services like YouTube, and video conferencing apps):
 
