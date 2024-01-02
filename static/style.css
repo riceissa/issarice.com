@@ -221,3 +221,40 @@ for details.
 .sourceCode span.al { color: #dc322f; } /* Alert */
 .sourceCode span.er { color: #dc322f; font-weight: bold; } /* Error */
 .sourceCode span.wa { color: #cb4b16; font-weight: italic; } /* Warning */
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #a0a0a0;
+        color: #93a1a1;
+    }
+    main, footer {
+        background-color: #073642;
+    }
+    nav#TOC {
+        background-color: #073642;
+    }
+    nav#site_navigation {
+        color: #ddd;
+    }
+    nav#site_navigation a:link { color: #fff; }
+    nav#site_navigation a:visited { color: #fff; }
+    h2 { border-bottom: 1px solid #93a1a1; }
+    a:link { color: #b58900; }
+    a:visited { color: #6c71c4; }
+    a#reader-mode-help:link { color: #3855d1 !important; }
+    a#reader-mode-help:visited { color: #698255 !important; }
+    blockquote {
+        border-left: 4px solid #93a1a1;
+    }
+    code {
+        background-color: #002b36;
+    }
+    table {
+        background-color: #073642;
+        border-bottom: 2px solid #586e75;
+        border-top: 2px solid #586e75;
+    }
+    table tbody tr { border-bottom: 1px dotted #ccc; }
+    table thead th { border-bottom: 1px solid #586e75; }
+    table tfoot th { border-top: 1px solid #586e75; }
+}
