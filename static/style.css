@@ -216,33 +216,8 @@ http://claireyu.org/posts/2013-12-24-hakyll-syntax-highlighting.html
 for details.
 */
 
-.sourceCode span.kw { color: #859900; } /* Keyword */
-.sourceCode span.dt { color: #b58900; } /* Data type */
-.sourceCode span.dv { color: #2aa198; } /* Decimal value */
-.sourceCode span.bn { color: #2aa198; } /* Number in a base other than ten ("base n") */
-.sourceCode span.fl { color: #2aa198; } /* Float */
-.sourceCode span.ch { color: #859900; } /* Character */
-.sourceCode span.st { color: #2aa198; } /* String */
-.sourceCode span.co { color: #93a1a1; font-style: italic; } /* Comment */
-.sourceCode span.ot { color: #cb4b16; } /* Other (Pandoc may have gotten rid of this in later versions) */
+.sourceCode span.st { color: #dc322f; } /* String */
+.sourceCode span.co { color: #268bd2; } /* Comment */
 .sourceCode span.al { color: #dc322f; } /* Alert */
-.sourceCode span.fu { color: #268bd2; } /* Function */
 .sourceCode span.er { color: #dc322f; font-weight: bold; } /* Error */
 .sourceCode span.wa { color: #cb4b16; font-weight: italic; } /* Warning */
-.sourceCode span.cn { color: #b58900; } /* Constant */
-.sourceCode span.sc { color: #b58900; } /* Special character */
-.sourceCode span.vs { } /* Verbatim string */
-.sourceCode span.ss { } /* Special string */
-.sourceCode span.im { color: #cb4b16; } /* Import statement */
-.sourceCode span.va { } /* Variable */
-.sourceCode span.cf { color: #859900; } /* Control-flow */
-.sourceCode span.op { color: #859900; } /* Operator */
-.sourceCode span.bu { color: #268bd2; } /* Built-in function(?) */
-.sourceCode span.ex { } /* Extension */
-.sourceCode span.pp { } /* Preprocessor */
-.sourceCode span.at { } /* Attribute */
-.sourceCode span.do { } /* Documentation */
-.sourceCode span.an { } /* Annotation */
-.sourceCode span.cv { } /* Comment variable -- variables that appear in comments? */
-.sourceCode span.in { } /* Information */
-.sourceCode span.re { color: #b58900; } /* Region markers (Pandoc may have gotten rid of this in later versions) */
