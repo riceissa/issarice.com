@@ -2,12 +2,9 @@ http://www.usrsb.in/rss.xml
 https://ftxfuturefund.org/category/blog/feed/
 https://www.greaterwrong.com/tag/distillation-and-pedagogy?sort=new&format=rss
 https://issarice.com/atom.xml
-http://feeds.feedburner.com/succeedsociallyupdates
-https://frame.work/blog.rss
 https://mothminds.substack.com/feed
 https://lorienpsych.com/feed/
 https://anchor.fm/s/636b4820/podcast/rss
-https://www.cold-takes.com/rss/
 https://hnrss.org/threads?id=kevinbuzzard
 https://www.incrium.com/blog-feed.xml
 https://www.greaterwrong.com/tag/spaced-repetition?format=rss
@@ -16,7 +13,6 @@ https://satvikberi.com/feed
 https://ericneyman.wordpress.com/feed/
 https://us4.campaign-archive.com/feed?u=412bdf6ca38cdf29c3374de56&id=06c013e05f
 https://eastmanreference.com/rss
-http://www.openphilanthropy.org/blog/rss "~Open Phil Blog"
 https://www.openphilanthropy.org/content-type/blog-posts/feed/ "~New Open Phil Blog"
 https://disqus.com/CarlShulman/latest.rss
 https://www.greaterwrong.com/users/carlshulman?format=rss
@@ -38,7 +34,6 @@ https://www.greaterwrong.com/users/academian?format=rss
 https://ea.greaterwrong.com/users/abramdemski?format=rss
 https://www.greaterwrong.com/users/scott-garrabrant?format=rss
 https://www.greaterwrong.com/users/jessica-liu-taylor?format=rss
-https://ea.greaterwrong.com/users/lukas_finnveden?format=rss
 https://www.greaterwrong.com/users/richard_reitz?format=rss
 https://www.greaterwrong.com/users/daozaich?format=rss
 https://www.greaterwrong.com/users/lukeprog?format=rss
@@ -48,8 +43,6 @@ https://ea.greaterwrong.com/users/Lila?format=rss
 https://ea.greaterwrong.com/users/adamshimi?format=rss
 https://exp.issarice.com/ea-forum-reader/users.php?id=carl_shulman&format=rss
 https://ea.greaterwrong.com/users/carlshulman?format=rss
-https://eaforum.issarice.com/users/beth-1?format=rss
-https://ea.greaterwrong.com/users/beth-1?format=rss
 https://eaforum.issarice.com/users/clairezabel?format=rss
 https://ea.greaterwrong.com/users/clairezabel?format=rss
 https://ea.greaterwrong.com/users/galton?format=rss
@@ -73,13 +66,11 @@ https://kevinw.github.io/atom.xml
 http://mdickens.me/feed.xml
 http://shlegeris.com/feed.xml "~Buck Shlegeris"
 https://gist.github.com/bshlgrs.atom
-https://ai-alignment.com/feed
 https://distill.pub/rss.xml
 https://arcsecond.wordpress.com/feed/
 https://usamo.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
-http://yudkowsky.tumblr.com/rss
 https://casparoesterheld.com/feed/
 http://www.simonknutsson.com/feed/
 https://howielempel.com/blog/feed/
@@ -102,7 +93,6 @@ https://rationalistramble.wordpress.com/feed
 https://github.com/pedromvilar.atom
 https://brianhamrick.com/blog/feed.xml
 http://www.stafforini.com/blog/feed/
-http://gregorygundersen.com/feed.xml
 https://www.alexirpan.com/feed.xml
 https://github.com/amakelov/amakelov.github.io/commits/master.atom
 https://xenaproject.wordpress.com/feed/
