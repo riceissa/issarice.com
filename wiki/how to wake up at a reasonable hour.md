@@ -4,6 +4,8 @@ author: Issa Rice
 created: 2023-03-28
 date: 2023-10-01
 ---
+**NOTE: this page is wrong. it describes a method that kinda sorta worked for me but was swimming against the current so i kept failing nonetheless. fixing my lighting effortlessly fixed my sleep schedule in 1--3 days depending on which parts you look at. i hope to write about the new method soon.**
+
 
 My [[sleep schedule]] has often been quite bad. Here's a method I've been using in March 2023 that has been working quite well for me.
 
@@ -40,4 +42,5 @@ Some notes:
 - 2023-08-17 update: The way to get around ignoring alarms is to set them back to ring right around when you naturally do the thing, and then stay there for a few days so you start associating doing the thing with the ringing of the alarm. Then dial back the alarms gradually. However, I keep stopping around 10:30am and don't want to shift back earlier and I think this is due to meal time coordination: 7pm-ish is when my family has dinner, and if I wake up at 10:30am that is roughly when I get hungry for dinner. If I wake up at 9:30am, I'd want dinner at 6pm and there won't be food. This sort of dependence is hard to resolve.
 - 2023-10-01 update: I kept failing to sleep on time again because of hunger attacks. Eventually I realized the problem was that I would typically eat the highest-calorie-easy-to-chew-and-swallow parts of my dinner first, and then was *very* slowly eating the low calorie/difficult to chew and swallow parts of my dinner right up until the point when I should go to sleep, which meant that I was again often hungry when I should be brushing my teeth, even though I'd been eating the whole time. So what I've done now is to set an alarm that says "stop eating dinner, just pack it in the fridge or toss it, and instead start eating a probar". This seems to be working pretty well so far, although on one night I still had minor hunger attack symptoms despite eating the probar.
 - 2023-11-21: it's been working pretty well. I've been waking up at or before 10am now for several days, after sliding back to like 11:30am or so back in end of October. (Daylight savings ending also helped out.)
-- 2023-11-24: i don't know how to explain this well yet, but there's a thing you have to do where you try to detect "strain" in when you do things. if an alarm feels "too off" you need to adjust the spacings between the alarms so that you can more effortlessly do things. 
+- 2023-11-24: i don't know how to explain this well yet, but there's a thing you have to do where you try to detect "strain" in when you do things. if an alarm feels "too off" you need to adjust the spacings between the alarms so that you can more effortlessly do things.
+- 2023-12-19: I have been failing again. seems like there's a kind of arms race where i keep having hunger attacks, weird night time awakenings, etc., that all push back my wakeup time. so i keep having to work really hard to wake up earlier and earlier, only to be pushed back to my "old" wakeup time again (this morning i woke up around 11:30...).

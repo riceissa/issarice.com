@@ -136,7 +136,7 @@ Press `Ctrl`-`g` to break out of the search.
 Reverse search the history non-incrementally.
 
 
-The following commands are useful if you want to execute similar commands from your history.
+The following commands are useful if you want to execute similar commands from your history. In retrospect, most of these were a terrible idea and you should just install fzf. I don't even think they are useful in scripting.
 
 - `!!`: An alias for the previous command. (Useful for `sudo !!`, for example.)
 - `!string`: Execute the most recent command in the history beginning with 'string'.
