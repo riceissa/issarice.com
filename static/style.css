@@ -199,6 +199,11 @@ body.absorption main {
     max-width: 41rem;
 }
 
+body.absorption footer {
+    max-width: 41rem;
+}
+
+
 /* From https://stackoverflow.com/a/11787147/3422337 */
 .unselectable {
     -khtml-user-select: none;
