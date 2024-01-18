@@ -123,6 +123,12 @@ function change_reader_mode() {
   closestZeroElem.scrollIntoView();
 }
 
+document.addEventListener('keydown', function(event) {
+  if (event.key === 't') {
+    change_reader_mode();
+  }
+});
+
 function set_theme_from_cookies() {
   if (change_theme_read_cookie("textWidthCookie")) {
     document.body.classList.add("wide");
