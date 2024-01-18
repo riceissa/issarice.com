@@ -33,7 +33,11 @@ function slug(x)
   -- Loop over utf-8 characters rather than bytes; see
   -- https://stackoverflow.com/a/13238257/3422337
   for _, c in utf8.codes(x) do
-    if not blacklist:find(utf8.char(c)) then
+    -- The true says to do a plain text search rather than a pattern search,
+    -- and the 1 is to specify the search starting from the beginning of the
+    -- string (which is needed apparently in order to be able to pass the third
+    -- parameter to the function).
+    if not blacklist:find(utf8.char(c), 1, true) then
       ret = ret .. utf8.char(c)
     elseif not(#ret == 0 or string.sub(ret, -1) == "-") then
       ret = ret .. "-"
