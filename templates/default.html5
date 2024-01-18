@@ -108,7 +108,7 @@ $endif$
     </form>
   </div>
   <div style="position: fixed; float: right; right: 0; bottom: 0; color: black; background-color: #eee8d5;">
-    Current mode (<a id="reader-mode-help" href="https://issarice.com/adaptive-typography">?</a>): <span id="change-reader-mode-toggle" style="color: black; cursor: pointer; text-decoration: underline;" onclick="change_reader_mode()" class="unselectable">movement</span>
+    Current mode (<a id="reader-mode-help" href="https://issarice.com/adaptive-typography" title="Click for more explanation. Click the word “movement” or “absorption” to toggle the mode. You can also press t on your keyboawrd to toggle the mode. Highlight text on the page before selecting the mode to save your reading spot.">?</a>): <span id="change-reader-mode-toggle" style="color: black; cursor: pointer; text-decoration: underline;" onclick="change_reader_mode()" class="unselectable">movement</span>
   </div>
 </nav>
 

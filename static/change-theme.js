@@ -124,7 +124,7 @@ function change_reader_mode() {
 }
 
 document.addEventListener('keydown', function(event) {
-  if (event.key === 't') {
+  if (event.key === 't' && event.target.tagName !== 'INPUT' && event.target.tagName !== 'TEXTAREA') {
     change_reader_mode();
   }
 });
