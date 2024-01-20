@@ -95,7 +95,7 @@ function change_reader_mode() {
       toc.style.position = 'fixed';
       toc.style.top = 0;
       toc.style.width = "150px";
-      toc.style.backgroundColor = "#eee8d5";
+      // toc.style.backgroundColor = "#eee8d5";
       mainElem.style.marginLeft = "150px";
     }
 
