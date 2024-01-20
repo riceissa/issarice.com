@@ -12,6 +12,7 @@ the measurement also needs to be done at home/relatively quickly/at least once a
 - heart rate/HRV
 - Control Pause, kind of
 - O2 saturation
+- pCO2 -- end-tidal CO2
 - one foot balance seconds
 - ambient temperature at which distress is reported -- still pretty subjective
 - scores on games like chess or 2048?

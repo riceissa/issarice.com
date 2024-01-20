@@ -4,18 +4,18 @@ author: Issa Rice
 date: 2018-11-01
 ---
 
-The best way to contact [me](about) is via email at [riceissa@gmail.com][email].
+The best way to contact [[about|me]] is via email at [riceissa@gmail.com][email].
 
 If you prefer, you can friend me on [[Facebook]] and message me there.
 My acceptance algorithm for Facebook friend requests looks something like this:
 if 50+ mutual friends, then accept;
 if 1+ mutual friends and when I look at this person's Facebook wall it actually has content that looks like it was written by a human, and this person seems like a real human, then accept;
-if I've met this person in real life or otherwise recognize their online activity from elsewhere, then accept;
+if I've met this person in real life or they message me/email me simultaneously with the request or I otherwise recognize their online activity from elsewhere, then accept;
 if the account looks like obvious spam, then reject;
 else ignore the request for now to see if I can make a better decision later.
 In particular, if we have few mutual friends and your Facebook wall is empty or has only link posts for random internet articles, I am unlikely to accept your friend request. (Note from 2022-10-21: I have been kind of bad about responding to friend requests lately, as I haven't been using Facebook as regularly. If you really want me to accept your request, you can email me.)
 
-You can also message me on Discord (my username is `Issa Rice#8512`) or [Telegram](https://t.me/issarice).
+You can also message me on Discord (my username is `issarice`) or [Telegram](https://t.me/issarice).
 
 If you would like to ask me a question that I can answer publicly, you can use
 my ["ask me anything" repository on GitHub](https://github.com/riceissa/ama) or
@@ -39,7 +39,8 @@ point.
 
 See the page on [[account names]] for account names I use on various websites.
 You can try to contact me through those sites (if they offer a messaging
-feature) but other than Gmail/Facebook Messenger I can't guarantee I will check them often.
+feature) but other than email/Facebook Messenger/Discord/Telegram I can't guarantee I will check them regularly.
+In some cases (such as Quora) I have disabled message requests on a platform as they were used almost entirely for spam.
 
 You can stalk me online (e.g. by following me on Quora or Facebook or by
 reading what I have on this website or my contributions to other sites).

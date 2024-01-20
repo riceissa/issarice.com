@@ -56,7 +56,7 @@ For each thing below, I want to figure out how it maps onto design decisions. Ho
 - you know most of the content, but you want to see if there's anything new in here that you have not seen already.
 	- if the "new pieces" are predictable, then having a special section addressed to experts or something would be one option. if it's clearly just an exposition piece and there's no new ideas, that's also something worth being explicit about.
 
-i think the two big "modes" are "**absorbing**" (linear reading, engaging with the *local* words) and "**moving**" (includes e.g. scanning and searching; interacting with the *global* structure).
+i think the two big "modes" are "**absorbing**" (linear reading, engaging with the *local content*) and "**moving**" (includes e.g. scanning and searching; interacting with the *global structure*).
 
 possibly another framing: instead of "adaptive typography", it can be "modal reader", like how vim is a "modal text editor". the reader goes between different modes as they interact with the text, just as a programmer goes between e.g. edit, visual, normal modes as they write code.
 
