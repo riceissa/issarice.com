@@ -18,4 +18,4 @@ Over the course of the last few years, I've encountered and adopted a few differ
 
 # See also
 
-- [[sequence of cumulative constraints of breathing practices]]
+- [[sequence of cumulative constraints of breathing practice]]
