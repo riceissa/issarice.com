@@ -108,7 +108,7 @@ function change_reader_mode() {
       toc.style.position = "";
       toc.style.top = "";
       toc.style.width = "";
-      toc.style.backgroundColor = "#fdf6e3";
+      // toc.style.backgroundColor = "#fdf6e3";
       mainElem.style.marginLeft = "";
 
       var titleBlock = document.querySelector('#title-block-header');
