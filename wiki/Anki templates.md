@@ -30,7 +30,7 @@ Back:
 
 {{Back}}
 <br/><br/>
-<div style="text-align: left; font-size: 18px; color: #444444;">
+<div class="notes">
 {{Notes}}
 </div>
 ```
@@ -44,6 +44,22 @@ Styling:
  text-align: center;
  color: black;
  background-color: white;
+}
+
+.notes {
+ text-align: left;
+ font-size: 18px;
+ color: #444444;
+}
+
+.nightMode .notes {
+ color: #888888;
+}
+
+code {
+ color: #c7254e;
+ background-color: #f9f2f4;
+ font-family: Consolas, monospace;
 }
 ```
 
