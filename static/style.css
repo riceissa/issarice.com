@@ -231,6 +231,21 @@ for details.
 .sourceCode span.er { color: #dc322f; font-weight: bold; } /* Error */
 .sourceCode span.wa { color: #cb4b16; font-weight: italic; } /* Warning */
 
+div#theme-picker-menu {
+    position: fixed;
+    float: right;
+    right: 0;
+    bottom: 0;
+    color: black;
+    background-color: #eee8d5;
+}
+
+span#change-reader-mode-toggle {
+    color: black;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #303742;
@@ -266,4 +281,14 @@ for details.
     table tbody tr { border-bottom: 1px dotted #ccc; }
     table thead th { border-bottom: 1px solid #586e75; }
     table tfoot th { border-top: 1px solid #586e75; }
+    div#theme-picker-menu {
+        background-color: #303742;
+        color: #ffffff;
+    }
+    a#reader-mode-help {
+        color: #ffffff;
+    }
+    span#change-reader-mode-toggle {
+        color: #ffffff;
+    }
 }
