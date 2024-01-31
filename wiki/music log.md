@@ -457,6 +457,14 @@ The Pillows:
 
 - "Everlasting Love" from We Love Katamari Soundtrack; there is also an "atom remix" version that I also like
 
+# January 2024
+
+- _Sound of Music_ songs, including:
+	- "My Favorite Things"
+	- "Maria"
+	- "Edelweiss"
+	- "Sixteen Going on Seventeen"
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
