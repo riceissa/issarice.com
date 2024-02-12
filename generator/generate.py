@@ -96,6 +96,7 @@ def process_filepath(filepath):
             "--toc", "--toc-depth", "4",
             "--mathjax",
             "--lua-filter", "generator/url_filter.lua",
+            "--lua-filter", "generator/blockquote_sig.lua",
             # TODO: make sure this gives correct filepath
             # "-M", "sourcefilename:" + shlex.quote(filepath),
             "-M", "sourcefilename:" + urllib.parse.quote(filepath),
