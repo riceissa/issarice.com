@@ -51,7 +51,7 @@ function BlockQuote(elem)
             return elem
         end
         -- Otherwise, this blockquote did not contain a final line beginning with
-        -- "---", so it's not an attribution-style quote, so just return the
+        -- an m-dash, so it's not an attribution-style quote, so just return the
         -- original blockquote.
         return elem
     end
