@@ -1,4 +1,8 @@
--- Return the nth utf8 codepoint
+-- Return the nth utf8 codepoint.
+-- I have no idea why, but Lua's utf8 library does not allow you to just
+-- index into the string and grab the nth utf8 character. Instead, all you get
+-- is a way to loop over the utf8 characters in the string. So we are
+-- implementing a way to index into the string.
 function nth_codepoint(n, str)
     local i = 1
     for _, c in utf8.codes(str) do
@@ -31,9 +35,6 @@ end
 function BlockQuote(elem)
     local xs = elem.content
     local last_block = xs[#xs]
-    -- I have no idea why, but Lua's utf8 library does not allow you to just
-    -- index into the string and grab the first utf8 character. Instead, you
-    -- need to loop over it.
     if last_block.t == "Para" and last_block.content[1].t == "Str" then
         local str_text = last_block.content[1].text
         if nth_codepoint(1, str_text) == 8212 then
