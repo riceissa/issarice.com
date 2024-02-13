@@ -131,6 +131,10 @@ img {
     height: auto;
 }
 
+div.blockquote-source {
+    text-align: right;
+}
+
 table {
     background-color: #fdf6e3;
     border-bottom: 2px solid #586e75;
