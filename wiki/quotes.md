@@ -4,7 +4,9 @@ author: Issa Rice
 created: 2024-02-12
 date: 2024-02-12
 ---
-> In a useful conversation [...] there is a double coincidence of wants. You have to be interested in what I have to say; I have to be interested in what you have to say. This is an important reason why people with conventional interests *seem* more socially intelligent. Even if they don't check whether their audience cares, it probably does.
+This page keeps track of some quotes I've especially liked over the years (not all of the quotes speak to me currently, but I won't remove any of them). It started out as the "favorite quotes" section on my [[Facebook]] profile, but I moved it to my website because I'm afraid Facebook will get rid of that section at some point (as it did with religion and political affiliation).
+
+> In a useful conversation \[...] there is a double coincidence of wants. You have to be interested in what I have to say; I have to be interested in what you have to say. This is an important reason why people with conventional interests *seem* more socially intelligent. Even if they don't check whether their audience cares, it probably does.
 >
 > ---[Bryan Caplan](http://econlog.econlib.org/archives/2009/06/how_i_raised_my.html)
 
@@ -21,7 +23,7 @@ date: 2024-02-12
 > 
 > ---[gwern](https://twitter.com/gwern/status/727643389542473728)
 
-> \[T]he world seems full of pseudo-output.  Lots of military, health, and education spending don't pass muster.  Neither does a lot of finance.  Or legal services.  In fact, it's arguably easier to name the main categories of "output" that aren't fake. [...] Entertainment.  People may be misled by entertainment that falsely purports to be factual.  But they're not mistaken about how entertained they are.
+> \[T]he world seems full of pseudo-output.  Lots of military, health, and education spending don't pass muster.  Neither does a lot of finance.  Or legal services.  In fact, it's arguably easier to name the main categories of "output" that aren't fake. \[...] Entertainment.  People may be misled by entertainment that falsely purports to be factual.  But they're not mistaken about how entertained they are.
 >
 > ---[Bryan Caplan](http://econlog.econlib.org/archives/2012/03/the_unsung.html)
 
@@ -31,7 +33,7 @@ date: 2024-02-12
 
 > 人間の真実なんて、その程度のものさ。だからこそ、より深い真実を知りたくなるんだね。
 > 
-> ---[加持](http://wikiwiki.jp/eva-shingeki/?%A5%BB%A5%EA%A5%D5%CA%DD%B4%C9%B8%CB%2F%BA%C7%BD%AA%CF%C3) ; HT Ethan
+> ---[加持](http://wikiwiki.jp/eva-shingeki/?%A5%BB%A5%EA%A5%D5%CA%DD%B4%C9%B8%CB%2F%BA%C7%BD%AA%CF%C3); HT Ethan
 
 > I had ambitious plans for a *much* longer post, but I don't feel like writing this one anymore, so I'm going to truncate it here and publish it. The main upshot was probably going to be something about how Wei Dai continues to be and have been the single best contemporary thinker.
 > 
@@ -48,3 +50,9 @@ date: 2024-02-12
 > Most people will put up with virtually *anything* if they don’t see any choice.
 > 
 > ---Lawrence Afrin, _Never Bet Against Occam_
+
+
+# External links
+
+- [Jonathan Blow quotes on Wikiquote](https://en.wikiquote.org/wiki/Jonathan_Blow) (most of this page was written by me)
+- [Wei Dai quotes on Wikiquote](https://en.wikiquote.org/wiki/Wei_Dai) (most of this page was written by me)
