@@ -5,6 +5,8 @@ created: 2024-03-02
 date: 2024-03-02
 ---
 
+(originally written on 2023-12-27)
+
 i think the thing that's weird about scheme is that in most languages, many expressions (in particular, lists) evaluate to themselves. e.g. in both python and haskell, `[1,2,3]` evaluates to `[1,2,3]`, i.e., itself! but in scheme, `(1 2 3)` does not evaluate to itself... because it tries to call the function `1` on the arguments `2` and `3`, which errors because `1` is not a function. so to get the evaluated list `(1 2 3)`, you need to write `'(1 2 3)`. but importantly, `'(1 2 3)` does not evaluate to itself either; it evaluates to the list `(1 2 3)`. otoh, some things like `2` still evaluate to themselves.
 
 this "lists don't just evaluate to themselves" is what makes lisps very hard to work with, i think. and ultimately this comes from the abuse of notation -- using `(a b c)` for both function calls and for data (or as paul graham says "\[...] one of the most distinctive features of Lisp: code and data are made out of the same data structures"). that's why lisp needs the `'` (or `quote`) to distinguish between data and programs, because the programs look just like the data!
