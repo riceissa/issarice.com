@@ -2,10 +2,7 @@
 title: My Haskell learning
 author: Issa Rice
 created: 2017-12-25
-date: 2017-12-25
-# documentkind:
-# status:
-# belief:
+date: 2024-03-01
 ---
 
 This page documents my Haskell learning.
@@ -16,7 +13,6 @@ In late 2017, I read a [Quora answer by Tikhon Jelvis](https://www.quora.com/Wha
 
 As of late December 2017, I am about half way through *Haskell Programming*, working on it in part of my after-work hours. It may be too early to say, but I am quite impressed with this book. It makes me think thoughts like "why can't *every* subject have materials this clear?"
 
-
 In November 2020 I started regularly solving problems on
 [Codewars](https://www.codewars.com/users/riceissa). I find the combination of
 easy problems + answer checking + ability to see better solutions by others to
@@ -25,3 +21,19 @@ be pretty addicting, but time will tell whether I continue with it.
 In February 2021 I signed up for Exercism and started going through the Haskell track.
 I've found that mentor feedback makes me much more motivated to solve problems.
 I finished the ten core exercises during the month.
+
+(Somewhere around here I should mention [HaskellRank](https://www.youtube.com/playlist?list=PLguYJK7ydFE4aS8fq4D6DqjF6qsysxTnx), which is a series of live-coding videos where someone solves Leetcode-like problems using Haskell. This got me to see how one thinks about Haskell in real time.)
+
+In December 2023 I got some old Anki cards about the Y combinator due on Anki. This got me interested about the Y combinator again, and for whatever reason, from there my interest spread to Haskell (I think part of it is that I don't like Lisp's syntax and the tutorial I was following used Scheme and so I was mentally translating all of the Scheme into Haskell, and another part of it is that the tutorial I was following was written by Mike Vanier who has some Haskell evangelism on his blog). I tried continuing with _Haskell Programming_, but found it quite hard to progress (I was around the Applicatives chapter), so I decided to switch to Will Kurt's _Get Programming with Haskell_. This turned out to be a good choice. Will Kurt's book is a lot more elementary, but it also gets to the point really quickly so (given my chronically-ill attention span and energy levels) it was a great help. _Haskell Programming_ is a lot more thorough in its treatment of topics, and covers many more things, but if I just want to finally make Haskell "break through" then it's a bit too much. Anyway, with Will Kurt's book I just did chapters 27--33 (Functor, Applicative, Monad) because I basically still knew all the basics about Haskell's syntax and types and all that. I felt like I finally _stably_ understood monads for probably the first time (I think I temporarily understood them in 2021, as some of the Exercism exercises required working with monads, but then completely forgot again in the span of the next ~3 years). From there I got stuck trying to set up my Haskell environment again (which was the next chapter) because my computer is kinda low on disk space and stack for some reason decides to download like 10GB of data. So I kinda gave up on following the book after that point. But I remembered and went to Codewars again, and after a few days got a problem about parsing chemical formulas. I tried naively approaching this, but at a certain point it was clear to me that there was a better way to do this, so I started looking around about parsing, and found [this Computerphile video](https://www.youtube.com/watch?v=dDtZLm7HIJs) about parsing in Haskell. This really hooked me on Haskell, especially how small the parsing library was. I *had* to understand it. I then watched [this video](https://www.youtube.com/watch?v=N9RUqGYuGfw) from Tsoding and then following Graham Hutton's book's chapter on monadic parsing (it's only in the second edition of the book). I finished working on the chemical formulas parser. Somewhere along the way, I also figured out that ghcup + `cabal install` really does work and doesn't seem to use so much disk space, so I removed the Ubuntu repo's version of ghc and went with ghcup's version.
+
+I think the main lesson from all of this is that if you really want to learn something, there is a way but it might involve hopping around different resources to see what works. There's also no rush -- it took me 10 or 11 years to finally get to the point where I can maybe write useful Haskell programs. Thanks to [[Anki]] I was able to "save up" some of my knowledge over the span of years and not have to relearn everything. I think I could have gone a lot faster but I just didn't have a pressing need to learn Haskell, so it just became this cool technical thing that could expand my mind.
+
+## Writing parsers in Haskell
+
+Parser combinators are seriously cool. I followed the steps below:
+
+1. Try to solve the [molecule to atoms](https://www.codewars.com/kata/52f831fa9d332c6591000511/train/haskell) problem on Codewars. If you don't already know about parser combinators, you should find this problem insanely difficult. I didn't manage to solve it initially (until step (3) below), because this problem just seemed to not be fit for Haskell.
+2. Watch [this video](https://www.youtube.com/watch?v=dDtZLm7HIJs). This video won't tell you how to write a parsing library, but it will show you how to use one and will get you excited.
+3. Work through the "Monadic parsing" chapter in the 2nd edition of Graham Hutton's _Programming in Haskell_. This will actually get you to write a simple but useful parser library in Haskell.
+4. Using your new library, solve the molecule to atoms problem again. You've now written a whole parsing library *and* solved a neat problem, and all of it should only be like 130 lines of code (`cloc` says my `Parsing.hs` file is 124 lines of code, 11 lines of comments, and 36 blank lines).
+5. Watch [this Tsoding video](https://www.youtube.com/watch?v=N9RUqGYuGfw) on JSON parsing. It's essentially the same approach as Graham Hutton's parsing library, but in my opinion Tsoding is better at writing more readable Haskell code, at least to my beginner eyes. Also parsing JSON is a more "real world" task than parsing molecular formulas. It's also really cool to see him writing the whole library from scratch in front of you, and it will teach you about holes, debugging Haskell code, the run- convention in newtypes, etc.
