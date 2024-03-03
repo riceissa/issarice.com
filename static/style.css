@@ -111,7 +111,8 @@ blockquote {
 }
 
 code {
-    font-family: "Ubuntu Mono", Consolas, monospace;
+    font-family: Consolas, monospace;
+    font-size: 15px;
     background-color: #eee8d5;
     padding-left: 4px;
     padding-right: 4px;
