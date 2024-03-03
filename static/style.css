@@ -212,6 +212,10 @@ body.absorption footer {
     max-width: 41rem;
 }
 
+body.absorption code {
+    font-size: 18px;
+}
+
 
 /* From https://stackoverflow.com/a/11787147/3422337 */
 .unselectable {
