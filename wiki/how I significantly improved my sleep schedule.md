@@ -1,0 +1,59 @@
+---
+title: How I significantly improved my sleep schedule
+author: Issa Rice
+created: 2024-03-04
+date: 2024-03-13
+---
+
+In late December 2023, I finally figured out a system for maintaining decent circadian rhythm. The system has been working reliably for 2.5 months now. Previously, I had been going to sleep anywhere from 1am to 3am and waking up around 10:30am to 11am. Now, I go to sleep anywhere from 11pm to midnight, and wake up anywhere from 8am to 9am. (This is in winter at northern USA latitude.)
+
+On this page, I will first critique the sleep advice I see people (even so-called "experts") giving. I want to explain why listening to such people did *not* help me at all. In the second part, I will explain what I did differently, i.e., what my current sleep system is. In the third part, mostly for people who are especially curious about such things (which includes myself), I will outline how I discovered my current system.
+
+## What is wrong with common sleep advice
+
+I think a lot of standard sleep advice is saying directionally correct things, but three problems I see are:
+
+1. Sometimes there's a correct thing and a nearby wrong thing. I found this out with Windows's native "night light" feature vs f.lux (the latter was significantly better). People don't emphasize the correct thing, and instead just mention the general class of things that contains both correct and wrong things. If you're trying to help people, you should be as specific as possible, and be especially mindful of counteracting nearby misunderstandings.
+2. People mention pretty extreme interventions without mentioning that easier ones work really well. For example, Piotr Wozniak (the creator of supermemo) says [here]( https://supermemo.guru/wiki/Curing_DSPS_and_insomnia):
+
+   > in your last 2-3 waking hours, you need to avoid light, electricity, excitement, stress, intense sports, TV, computers, social interaction, e-mailing, web surfing, etc. \[...] Remember, the protected zone is not a time for lying in bed! Unproductive time in bed will add to your stress, and if you fall asleep early, you can mess up your sleep on that night and actually delay the phase! Obviously there is a very limited range of activities you can do in the protected zone. I leave it up to your imagination. Perhaps moderate exercise in dim light. Or sex? Or walking and thinking?
+ 
+   Doing nothing essentially for 2--3 hours every single evening is a huge waste of time. In the old days people would just gather around the camp fire or something and talk, but this sort of thing is hard to do in the modern age (you can't unilaterally implement this). It turns out that for me at least, the much less costly option of just using f.lux + lamplight is enough to basically solve my sleep problem.
+3. Standard sleep advice also just mentions *so many things*. It is overwhelming to listen to and know where to even start. I think a short list of the most important things is key to getting people to actually follow the advice.
+
+## My method
+
+So here's the basic method (the three that I've marked with \*\*\* are personally what finally fixed my sleep, but they might not be sufficient on their own if you don't already do some of the other things I listed at the bottom under #7):
+
+1. \*\*\* (Assuming you use your computer at all after sunset) Install the latest version of f.lux (v4.130) and set it to have accurate-for-you location and with a wake-up time of 7:30am. For colors, I used the default colors for a while but eventually I made the "Sunset" color to an even-redder 2200K (while keeping the "Daytime" and "Bedtime" colors the same as the defaults). Very important note: **your OS's native "night light" mode is probably not good enough, or has very bad defaults**. For years I just used Windows 10's "night light" mode and it did nothing for me. Installing f.lux was crucial to correcting my circadian rhythm. (Also, I never really use my phone, but if you do use your phone a lot after sunset, then I would do something similar there as well, but I don't know what's best there unfortunately.)
+2. \*\*\* At 8pm, change your OS's preferred color mode to dark mode. On Windows I use [this program](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) to automatically do this for me, but you can also do this manually. Change all of your programs (e.g. browser) to use the "system/OS theme" so that they all use dark mode when the OS uses dark mode. For your browser, install [Dark Reader](https://github.com/darkreader/darkreader) to automatically change websites to be in dark mode (even those that don't have dark mode). You can configure Dark Reader to use the OS's theme as well, so you only have one master switch to toggle the dark/light theme. Ideally **your screen should look as black as possible, and the little bits of non-black should be as red as possible**. (In the morning, you can switch your OS back to light mode, and I actually recommend this since in the daytime you want to have as much light as possible.) If you have a laptop screen, you can also probably change your screen brightness to adapt to the ambient lighting (similarly to how smartphones can do this). For instance, on Windows 10 you can do into the Display settings under "brightness and color" and check the box that says "Change brightness automatically when lighting changes". This is convenient because as your room gets darker in the evening, your laptop screen will also automatically adjust and get darker. If you don't have a setting, you can try to manually adjust the brightness in the evening, though this might be somewhat annoying to do twice a day (depending on how easily accessible the setting is).
+3. \*\*\* At 8pm, turn off any ceiling lights in the room you spend your time in. You can either be in the dark, or use a lamp with an amber bulb (but the lamp should be eye-level or lower relative to your head, which [apparently](https://youtu.be/5YV_iKnzDRg?t=1082) tricks your brain into thinking it is campfire instead of sunlight). I prefer having a bit of light, so I use a lamp with an amber bulb, positioned to the right and back relative to my head (which is where a setting sun would be located relative to how my room is oriented, but I'm not sure if getting super precise about lamp positioning is necessary). [Here](https://www.amazon.com/gp/product/B08P5M8KHY) is the exact bulb that I have, but it probably doesn't matter much which bulb you get as long as it's ~1800K or lower. (Initially I used a yellowish bulb instead of an amber bulb, and even that was enough for me.)
+4. After 8pm, if you leave your room, wear blue-blocking glasses. This one only matters if you spend a significant amount of time outside of your room after 8pm. I actually don't need the blue-blocking glasses since I only leave my room to go to the bathroom or brush my teeth at night, but I prefer wearing them anyway because once I acclimatize to the amber lighting, it hurts my eyes to go out into white lighting in the rest of the house.
+5. Make sure your room is dark at night but lets in some light in the morning. I personally have approximately zero light in my room (I've taped up most of the things that produce light), and have blackout curtains but I only half-close the curtains, so that sunlight comes in in the morning. (One of those fancy alarm clocks that simulate the sunrise might also work, but I don't have one.) I used to close my blackout curtains fully, but this prevented light from getting into my room in the morning, so I overslept and woke up with headaches.
+6. (Optional, but preferred) Within 1 hour of waking up, spend 10 minutes walking outside. It's apparently important to be in direct line of sight to the sky, so being in a car or looking out your window doesn't count. (Apparently regular eye glasses are okay but I don't wear mine often so I can't speak from personal experience.) At first I was religious about doing this but I've relaxed it now and only do it sometimes (especially after one incident where I had a tachycardia/POTS attack while walking, probably because I was dehydrated in the morning and my blood pressure was too low), and not doing it doesn't seem to have hurt my sleep schedule too much.
+7. Other stuff that I do that might or might not matter, that I was already doing before I fixed my sleep, so aren't sufficient on their own, but mentioning for completeness:
+    - I used to take 0.3mg melatonin right before getting into bed.[^melatonin_timing] (I've stopped doing this now and it hasn't affected my sleep.) This would help me fall asleep faster.
+    - I don't consume any caffeine or alcohol. If you do consume caffeine, I think the standard advice is to not consume more than a few hundred milligrams each day and to finish consuming it all before noon or so. But if you are particularly sensitive or notice it affecting your sleep, then obviously cut down or consume even earlier.
+    - I don't take any other stimulants or stimulating things.
+    - I avoid exercise after sunset. This was based on one experience where I had some insomnia after exercising very late in the day.
+    - My room is quiet at night.
+    - I generally don't take naps during the day. (The general advice I've heard is that short naps of 10 minutes or so are fine. I've occasionally taken naps of various lengths when I've been super tired in the day, but this usually only happens when I got poor sleep the night before.)
+    - I have a consistent sleep schedule across weekdays and weekends.
+    - I have a consistent sleep routine at night.
+    - I sometimes drink chamomile tea at night if I'm feeling a bit anxious, but I think I'm unusually sensitive to chamomile so it works really well for me but might be useless for you. (Also chamomile stops working if I drink it too many days in a row.)
+    - I avoid exposing myself to stimulating or stressful or engrossing content at night. Chatting with friends at night or reading random blog posts seems to be okay; playing an engaging video game or watching a thriller film is not. This one probably depends a lot on your personality and what you find stimulating/stressful/engrossing.
+
+With the above, I start to feel sleepy around 11pm or so, actually go to bed around midnight, and then naturally wake up around 8-9am (i.e., within 1 hour of sunrise in my local area). I have a backup alarm clock in case I sleep too long but have only once in 2.5 months needed to use it. For me, doing the \*\*\* parts produced a strong effect on the very first day (I became sleepy hours before my old bedtime of 2am or so), but the effects build up even more over the course of a few days. If doing the \*\*\* parts doesn't work for you, then you might need to work down the list adding on each thing. The other option is to change the "8pm" above to an earlier time, i.e., switching to dark mode and using the amber light starting earlier in the day, maybe even as early as sunset. This last thing is currently what I am working on; I move my amber/.
+
+(If you try all of the above for 7 days and your sleep is still crap, I want to hear from you. Please [[contact]] me and I will try my best to help you debug your sleep.)
+
+## How I figured stuff out
+
+(TODO: not written yet)
+
+## See also
+
+Previously: [[how to wake up at a reasonable hour]].
+
+
+[^melatonin_timing]: I wanted to take it earlier, but due to weird hunger issues that I have it was stressful to be sleepy but also hungry and have to stay up to eat. It was better to eat as much as I could and be confident I wouldn't wake up hungry, and *then* take the melatonin to fall asleep once I was in bed.

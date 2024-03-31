@@ -1,11 +1,13 @@
 ---
-title: '"What is the point of Lisp?"'
+title: What is the point of Lisp?
 author: Issa Rice
 created: 2024-03-02
 date: 2024-03-02
 ---
 
 (originally written on 2023-12-27)
+
+i hate lisp, especially lisp-2, but even lisp-1, because my brain doesn't want to understand `quote`. what follows is some introspection i did to understand `quote` better; by the end i had a deeper appreciation of what the point of lisp was, and some thoughts on how to improve it.
 
 i think the thing that's weird about scheme is that in most languages, many expressions (in particular, lists) evaluate to themselves. e.g. in both python and haskell, `[1,2,3]` evaluates to `[1,2,3]`, i.e., itself! but in scheme, `(1 2 3)` does not evaluate to itself... because it tries to call the function `1` on the arguments `2` and `3`, which errors because `1` is not a function. so to get the evaluated list `(1 2 3)`, you need to write `'(1 2 3)`. but importantly, `'(1 2 3)` does not evaluate to itself either; it evaluates to the list `(1 2 3)`. otoh, some things like `2` still evaluate to themselves.
 
