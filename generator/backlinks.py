@@ -70,7 +70,8 @@ with open("link-graph.json", "r") as lg, open("backlinks.json", "w") as b:
                 backlinks[y] = [x]
     json.dump(backlinks, b, indent=4)
 
-shutil.rmtree("backlink_fragments")
+if os.path.isdir("backlink_fragments"):
+    shutil.rmtree("backlink_fragments")
 os.makedirs("backlink_fragments", exist_ok=True)
 for x in backlinks:
     with open("backlink_fragments/" + x + ".html", "w") as f:
