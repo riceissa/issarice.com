@@ -129,16 +129,31 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
+// body class : blank (light) or "dark" (dark)
+// local storage: blank, "auto", "light", or "dark"
+// color argument: "auto", "light", or "dark"
+
 function change_theme_set_color(color) {
   const site_specific_preferred_color = localStorage.getItem("color");
+  const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  var current_site_setting = "auto";
   if (site_specific_preferred_color) {
-    if (site_specific_preferred_color !== color) {
-      document.body.classList.remove(site_specific_preferred_color);
+    current_site_setting = site_specific_preferred_color;
+  }
+
+  if (color === "auto") {
+    if (os_prefers_dark) {
+      document.body.classList.remove("light");
+      document.body.classList.add("dark");
+      localStorage.setItem("color", "auto");
+    }
+  } else {
+    // color is "light" or "dark"
+    if (color !== current_site_setting) {
+      document.body.classList.remove(current_site_setting);
       document.body.classList.add(color);
       localStorage.setItem("color", color);
     }
-  } else {
-    localStorage.setItem("color", color);
   }
 }
 
