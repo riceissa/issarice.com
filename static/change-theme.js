@@ -130,45 +130,54 @@ document.addEventListener('keydown', function(event) {
 });
 
 // body class : blank (light) or "dark" (dark)
-// local storage: blank, "auto", "light", or "dark"
+// local storage: blank (meaning auto), "auto", "light", or "dark"
+// current_site_setting: "auto", "light", or "dark"
 // color argument: "auto", "light", or "dark"
 
-function change_theme_set_color(color) {
-  const site_specific_preferred_color = localStorage.getItem("color");
+function force_body_classlist(color) {
   const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  var current_site_setting = "auto";
-  if (site_specific_preferred_color) {
-    current_site_setting = site_specific_preferred_color;
-  }
-
-  if (color === "auto") {
-    if (os_prefers_dark) {
-      document.body.classList.remove("light");
+  if (color === "dark")
+    if (!document.body.classList.contains("dark")) {
       document.body.classList.add("dark");
-      localStorage.setItem("color", "auto");
+    }
+  } else if (color === "light") {
+    if (document.body.classList.contains("dark")) {
+      document.body.classList.remove("dark");
     }
   } else {
-    // color is "light" or "dark"
-    if (color !== current_site_setting) {
-      document.body.classList.remove(current_site_setting);
-      document.body.classList.add(color);
-      localStorage.setItem("color", color);
+    // color === "auto"
+    if (os_prefers_dark) {
+      if (!document.body.classList.contains("dark")) {
+        document.body.classList.add("dark");
+      }
+    } else {
+      if (document.body.classList.contains("dark")) {
+        document.body.classList.remove("dark");
+      }
     }
   }
 }
 
+function change_theme_set_color(color) {
+  force_body_classlist(color);
+  localStorage.setItem("color", color);
+}
+
 function set_theme_from_local_storage() {
   const site_specific_preferred_color = localStorage.getItem("color");
+  var current_site_setting = "auto";
+  if (site_specific_preferred_color) {
+    current_site_setting = site_specific_preferred_color;
+  }
   const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  if ((site_specific_preferred_color === "light") || (site_specific_preferred_color === "dark")) {
-    // If the user has specifically chosen issarice.com to be a specific color,
+  if (current_site_setting === "dark") {
+    // If the user has specifically chosen issarice.com to be in dark mode,
     // then honor that over the OS/browser-level preference.
-    document.body.classList.add(site_specific_preferred_color);
-  } else {
-    // Otherwise, default to the OS/browser-level preference.
-    if (os_prefers_dark) {
-      document.body.classList.add("dark");
-    }
+    document.body.classList.add("dark");
+  } else if ((current_site_setting === "auto") && os_prefers_dark) {
+    // If the user has not set any specific setting for issarice.com, or has
+    // set it to auto-mode, then use dark mode if the OS/browser wants it.
+    document.body.classList.add("dark");
   }
 }
 
