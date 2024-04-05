@@ -74,10 +74,11 @@ $endif$
     <a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./all-pages">Newest changes</a>
-    | Set color scheme to:
+    | <span id="changeThemeMenu" style="display: none;">Set color scheme to:
          <span style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
          <span style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
          <span style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+      </span>
     <!--
     <span id="changeThemeMenu" style="display: none;">| Change
     {<a href="#" onclick="change_theme_text_width()">text width</a>,
@@ -112,7 +113,7 @@ $endif$
     </form>
   </div>
   <div id="theme-picker-menu">
-    Current mode (<a id="reader-mode-help" href="https://issarice.com/adaptive-typography" title="Click for more explanation. Click the word “movement” or “absorption” to toggle the mode. You can also press t on your keyboawrd to toggle the mode. Highlight text on the page before selecting the mode to save your reading spot.">?</a>): <span id="change-reader-mode-toggle" onclick="change_reader_mode()" class="unselectable">movement</span>
+    Current mode (<a id="reader-mode-help" href="https://issarice.com/adaptive-typography" title="Click for more explanation. Click the word “movement” or “absorption” to toggle the mode. You can also press t on your keyboawrd to toggle the mode. Highlight text on the page before selecting the mode to save your reading spot.">?</a>): <span id="change-reader-mode-toggle" onclick="change_theme.change_reader_mode()" class="unselectable">movement</span>
   </div>
 </nav>
 
@@ -198,7 +199,7 @@ $endif$
 </footer>
 
 <script>
-  // document.getElementById('changeThemeMenu').style.display='inline';
+  document.getElementById('changeThemeMenu').style.display='inline';
   change_theme.set_theme_from_local_storage();
   $$(function(){
     $$("table").tablesorter();
