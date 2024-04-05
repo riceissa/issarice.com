@@ -131,7 +131,6 @@ document.addEventListener('keydown', function(event) {
 
 // body class : blank (light) or "dark" (dark)
 // local storage: blank (meaning auto), "auto", "light", or "dark"
-// current_site_setting: "auto", "light", or "dark"
 // color argument: "auto", "light", or "dark"
 
 function force_body_classlist(color) {
@@ -158,23 +157,22 @@ function force_body_classlist(color) {
   }
 }
 
+// This function runs every time the menu buttons (auto/light/dark) are
+// clicked.
 function change_theme_set_color(color) {
   force_body_classlist(color);
   localStorage.setItem("color", color);
 }
 
+// This function runs once on each page load.
 function set_theme_from_local_storage() {
-  const site_specific_preferred_color = localStorage.getItem("color");
-  var current_site_setting = "auto";
-  if (site_specific_preferred_color) {
-    current_site_setting = site_specific_preferred_color;
-  }
+  const site_specific_preferred_color = localStorage.getItem("color") || "auto";
   const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  if (current_site_setting === "dark") {
+  if (site_specific_preferred_color === "dark") {
     // If the user has specifically chosen issarice.com to be in dark mode,
     // then honor that over the OS/browser-level preference.
     document.body.classList.add("dark");
-  } else if ((current_site_setting === "auto") && os_prefers_dark) {
+  } else if ((site_specific_preferred_color === "auto") && os_prefers_dark) {
     // If the user has not set any specific setting for issarice.com, or has
     // set it to auto-mode, then use dark mode if the OS/browser wants it.
     document.body.classList.add("dark");
