@@ -259,43 +259,43 @@ body.dark {
     background-color: #303742;
     color: #93a1a1;
 }
-main.dark, footer.dark {
+body.dark main, body.dark footer {
     background-color: #073642;
 }
-nav.dark#TOC {
+body.dark nav#TOC {
     background-color: #073642;
 }
-nav.dark#site_navigation {
+body.dark nav#site_navigation {
     color: #ddd;
 }
-nav.dark#site_navigation a:link { color: #fff; }
-nav.dark#site_navigation a:visited { color: #fff; }
-h2.dark { border-bottom: 1px solid #93a1a1; }
-a.dark:link { color: #b58900; }
-a.dark:visited { color: #6c71c4; }
-a.dark#reader-mode-help:link { color: #3855d1 !important; }
-a.dark#reader-mode-help:visited { color: #698255 !important; }
-blockquote.dark {
+body.dark nav#site_navigation a:link { color: #fff; }
+body.dark nav#site_navigation a:visited { color: #fff; }
+body.dark h2 { border-bottom: 1px solid #93a1a1; }
+body.dark a:link { color: #b58900; }
+body.dark a:visited { color: #6c71c4; }
+body.dark a#reader-mode-help:link { color: #3855d1 !important; }
+body.dark a#reader-mode-help:visited { color: #698255 !important; }
+body.dark blockquote {
     border-left: 4px solid #93a1a1;
 }
-code.dark {
+body.dark code {
     background-color: #002b36;
 }
-table.dark {
+body.dark table {
     background-color: #073642;
     border-bottom: 2px solid #586e75;
     border-top: 2px solid #586e75;
 }
-table.dark tbody tr { border-bottom: 1px dotted #ccc; }
-table.dark thead th { border-bottom: 1px solid #586e75; }
-table.dark tfoot th { border-top: 1px solid #586e75; }
-div.dark#theme-picker-menu {
+body.dark table tbody tr { border-bottom: 1px dotted #ccc; }
+body.dark table thead th { border-bottom: 1px solid #586e75; }
+body.dark table tfoot th { border-top: 1px solid #586e75; }
+body.dark div#theme-picker-menu {
     background-color: #303742;
     color: #ffffff;
 }
-a.dark#reader-mode-help {
+body.dark a#reader-mode-help {
     color: #ffffff;
 }
-span.dark#change-reader-mode-toggle {
+body.dark span#change-reader-mode-toggle {
     color: #ffffff;
 }
