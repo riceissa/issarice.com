@@ -53,11 +53,25 @@
         localStorage.setItem("color", color);
     };
 
-    // This function runs once on each page load.
+    // This function runs once on each page load, and whenever the OS/browser
+    // preference changes.
     change_theme.set_theme_from_local_storage = function set_theme_from_local_storage() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
         set_body_classlist_color(site_specific_preferred_color);
     };
+
+    // Whenever the OS/browser preference changes, try resetting the color
+    // scheme. This might happen for example when someone has their OS color
+    // scheme set to the movement of the sun, so that e.g. at sunset the OS
+    // theme gets changed to dark mode.  Because our CSS is implemented using
+    // checks for body.dark (rather than the media query in the CSS directly),
+    // without the following event listener, the browser won't know to update
+    // the color scheme, so if the user has auto mode set on this particular
+    // website then the color scheme would only get updated whenever the user
+    // either clicks the "auto" button again or reloads the page.
+    const dark_mode_preference = window.matchMedia("(prefers-color-scheme: dark)");
+    dark_mode_preference.addEventListener("change", e => change_theme.set_theme_from_local_storage())
+
 
     // This one should not save the current setting in a cookie, because if you
     // click through to a new page, you are by definition in "movement mode" rather
