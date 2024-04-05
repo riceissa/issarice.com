@@ -24,7 +24,7 @@
         }
     }
 
-    function force_body_classlist_color(color) {
+    function set_body_classlist_color(color) {
         const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
         if (color === "dark") {
             add_dark();
@@ -43,14 +43,14 @@
     // This function runs every time the menu buttons (auto/light/dark) are
     // clicked.
     change_theme.set_color = function set_color(color) {
-        force_body_classlist_color(color);
+        set_body_classlist_color(color);
         localStorage.setItem("color", color);
     };
 
     // This function runs once on each page load.
     change_theme.set_theme_from_local_storage = function set_theme_from_local_storage() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
-        force_body_classlist_color(site_specific_preferred_color);
+        set_body_classlist_color(site_specific_preferred_color);
         /*
         const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
         if (site_specific_preferred_color === "dark") {
