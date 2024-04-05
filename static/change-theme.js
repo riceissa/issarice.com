@@ -8,30 +8,34 @@
 // allow you to redefine undefined so we don't need to keep that as an argument
 // either.)
 (function(change_theme) {
-    // body class : blank (light) or "dark" (dark)
+    // body classlist: blank (light) or "dark" (dark)
     // local storage: blank (meaning auto), "auto", "light", or "dark"
     // color argument: "auto", "light", or "dark"
 
-    function force_body_classlist(color) {
+    function add_dark() {
+        if (!document.body.classList.contains("dark")) {
+            document.body.classList.add("dark");
+        }
+    }
+
+    function remove_dark() {
+        if (document.body.classList.contains("dark")) {
+            document.body.classList.remove("dark");
+        }
+    }
+
+    function force_body_classlist_color(color) {
         const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
         if (color === "dark") {
-            if (!document.body.classList.contains("dark")) {
-                document.body.classList.add("dark");
-            }
+            add_dark();
         } else if (color === "light") {
-            if (document.body.classList.contains("dark")) {
-                document.body.classList.remove("dark");
-            }
+            remove_dark();
         } else {
             // color === "auto"
             if (os_prefers_dark) {
-                if (!document.body.classList.contains("dark")) {
-                    document.body.classList.add("dark");
-                }
+                add_dark();
             } else {
-                if (document.body.classList.contains("dark")) {
-                    document.body.classList.remove("dark");
-                }
+                remove_dark();
             }
         }
     }
@@ -39,7 +43,7 @@
     // This function runs every time the menu buttons (auto/light/dark) are
     // clicked.
     change_theme.set_color = function set_color(color) {
-        force_body_classlist(color);
+        force_body_classlist_color(color);
         localStorage.setItem("color", color);
     };
 
@@ -48,14 +52,18 @@
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
         const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
         if (site_specific_preferred_color === "dark") {
-            // If the user has specifically chosen issarice.com to be in dark mode,
-            // then honor that over the OS/browser-level preference.
+            // If the user has specifically chosen this particular website to
+            // be in dark mode, then honor that over the OS/browser-level
+            // preference.
             document.body.classList.add("dark");
         } else if ((site_specific_preferred_color === "auto") && os_prefers_dark) {
-            // If the user has not set any specific setting for issarice.com, or has
-            // set it to auto-mode, then use dark mode if the OS/browser wants it.
+            // If the user has not set any specific setting for this particular
+            // website, or has set it to auto-mode, then use dark mode if the
+            // OS/browser wants it.
             document.body.classList.add("dark");
         }
+        // Otherwise, default to light mode by not adding anything to
+        // document.body.classList.
     };
 
     // This one should not save the current setting in a cookie, because if you
