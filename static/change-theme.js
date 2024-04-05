@@ -1,5 +1,57 @@
 // License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
 
+(function(change_theme) {
+    // body class : blank (light) or "dark" (dark)
+    // local storage: blank (meaning auto), "auto", "light", or "dark"
+    // color argument: "auto", "light", or "dark"
+
+    change_theme.force_body_classlist = function force_body_classlist(color) {
+        const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        if (color === "dark") {
+            if (!document.body.classList.contains("dark")) {
+                document.body.classList.add("dark");
+            }
+        } else if (color === "light") {
+            if (document.body.classList.contains("dark")) {
+                document.body.classList.remove("dark");
+            }
+        } else {
+            // color === "auto"
+            if (os_prefers_dark) {
+                if (!document.body.classList.contains("dark")) {
+                    document.body.classList.add("dark");
+                }
+            } else {
+                if (document.body.classList.contains("dark")) {
+                    document.body.classList.remove("dark");
+                }
+            }
+        }
+    };
+
+    // This function runs every time the menu buttons (auto/light/dark) are
+    // clicked.
+    change_theme.set_color = function set_color(color) {
+        change_theme.force_body_classlist(color);
+        localStorage.setItem("color", color);
+    }
+
+    // This function runs once on each page load.
+    function set_theme_from_local_storage() {
+        const site_specific_preferred_color = localStorage.getItem("color") || "auto";
+        const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        if (site_specific_preferred_color === "dark") {
+            // If the user has specifically chosen issarice.com to be in dark mode,
+            // then honor that over the OS/browser-level preference.
+            document.body.classList.add("dark");
+        } else if ((site_specific_preferred_color === "auto") && os_prefers_dark) {
+            // If the user has not set any specific setting for issarice.com, or has
+            // set it to auto-mode, then use dark mode if the OS/browser wants it.
+            document.body.classList.add("dark");
+        }
+    }
+}(window.change_theme = window.change_theme || {}));
+
 function change_theme_read_cookie(name) {
   var cookies = document.cookie.split(';');
   for (var i = 0; i < cookies.length; i++) {
@@ -129,55 +181,6 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
-// body class : blank (light) or "dark" (dark)
-// local storage: blank (meaning auto), "auto", "light", or "dark"
-// color argument: "auto", "light", or "dark"
-
-function force_body_classlist(color) {
-  const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  if (color === "dark") {
-    if (!document.body.classList.contains("dark")) {
-      document.body.classList.add("dark");
-    }
-  } else if (color === "light") {
-    if (document.body.classList.contains("dark")) {
-      document.body.classList.remove("dark");
-    }
-  } else {
-    // color === "auto"
-    if (os_prefers_dark) {
-      if (!document.body.classList.contains("dark")) {
-        document.body.classList.add("dark");
-      }
-    } else {
-      if (document.body.classList.contains("dark")) {
-        document.body.classList.remove("dark");
-      }
-    }
-  }
-}
-
-// This function runs every time the menu buttons (auto/light/dark) are
-// clicked.
-function change_theme_set_color(color) {
-  force_body_classlist(color);
-  localStorage.setItem("color", color);
-}
-
-// This function runs once on each page load.
-function set_theme_from_local_storage() {
-  const site_specific_preferred_color = localStorage.getItem("color") || "auto";
-  const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  if (site_specific_preferred_color === "dark") {
-    // If the user has specifically chosen issarice.com to be in dark mode,
-    // then honor that over the OS/browser-level preference.
-    document.body.classList.add("dark");
-  } else if ((site_specific_preferred_color === "auto") && os_prefers_dark) {
-    // If the user has not set any specific setting for issarice.com, or has
-    // set it to auto-mode, then use dark mode if the OS/browser wants it.
-    document.body.classList.add("dark");
-  }
-}
 
 function set_theme_from_cookies() {
   if (change_theme_read_cookie("textWidthCookie")) {
