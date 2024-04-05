@@ -120,7 +120,7 @@
 
     document.addEventListener('keydown', function(event) {
         if (event.key === 't' && event.target.tagName !== 'INPUT' && event.target.tagName !== 'TEXTAREA') {
-            change_reader_mode();
+            change_theme.change_reader_mode();
         }
     });
 }(window.change_theme = window.change_theme || {}));
