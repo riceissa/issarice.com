@@ -74,6 +74,10 @@ $endif$
     <a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./all-pages">Newest changes</a>
+    | Set colorscheme to:
+         <a href="#" onclick="change_theme_set_color('auto')">auto</a>,
+         <a href="#" onclick="change_theme_set_color('light')">light</a>,
+         <a href="#" onclick="change_theme_set_color('dark')">dark</a>
     <!--
     <span id="changeThemeMenu" style="display: none;">| Change
     {<a href="#" onclick="change_theme_text_width()">text width</a>,
@@ -195,6 +199,7 @@ $endif$
 
 <script>
   // document.getElementById('changeThemeMenu').style.display='inline';
+  set_theme_from_local_storage();
   $$(function(){
     $$("table").tablesorter();
   });

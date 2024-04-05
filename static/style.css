@@ -255,49 +255,47 @@ span#change-reader-mode-toggle {
     text-decoration: underline;
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #303742;
-        color: #93a1a1;
-    }
-    main, footer {
-        background-color: #073642;
-    }
-    nav#TOC {
-        background-color: #073642;
-    }
-    nav#site_navigation {
-        color: #ddd;
-    }
-    nav#site_navigation a:link { color: #fff; }
-    nav#site_navigation a:visited { color: #fff; }
-    h2 { border-bottom: 1px solid #93a1a1; }
-    a:link { color: #b58900; }
-    a:visited { color: #6c71c4; }
-    a#reader-mode-help:link { color: #3855d1 !important; }
-    a#reader-mode-help:visited { color: #698255 !important; }
-    blockquote {
-        border-left: 4px solid #93a1a1;
-    }
-    code {
-        background-color: #002b36;
-    }
-    table {
-        background-color: #073642;
-        border-bottom: 2px solid #586e75;
-        border-top: 2px solid #586e75;
-    }
-    table tbody tr { border-bottom: 1px dotted #ccc; }
-    table thead th { border-bottom: 1px solid #586e75; }
-    table tfoot th { border-top: 1px solid #586e75; }
-    div#theme-picker-menu {
-        background-color: #303742;
-        color: #ffffff;
-    }
-    a#reader-mode-help {
-        color: #ffffff;
-    }
-    span#change-reader-mode-toggle {
-        color: #ffffff;
-    }
+body.dark {
+    background-color: #303742;
+    color: #93a1a1;
+}
+main.dark, footer.dark {
+    background-color: #073642;
+}
+nav.dark#TOC {
+    background-color: #073642;
+}
+nav.dark#site_navigation {
+    color: #ddd;
+}
+nav.dark#site_navigation a:link { color: #fff; }
+nav.dark#site_navigation a:visited { color: #fff; }
+h2.dark { border-bottom: 1px solid #93a1a1; }
+a.dark:link { color: #b58900; }
+a.dark:visited { color: #6c71c4; }
+a.dark#reader-mode-help:link { color: #3855d1 !important; }
+a.dark#reader-mode-help:visited { color: #698255 !important; }
+blockquote.dark {
+    border-left: 4px solid #93a1a1;
+}
+code.dark {
+    background-color: #002b36;
+}
+table.dark {
+    background-color: #073642;
+    border-bottom: 2px solid #586e75;
+    border-top: 2px solid #586e75;
+}
+table.dark tbody tr { border-bottom: 1px dotted #ccc; }
+table.dark thead th { border-bottom: 1px solid #586e75; }
+table.dark tfoot th { border-top: 1px solid #586e75; }
+div.dark#theme-picker-menu {
+    background-color: #303742;
+    color: #ffffff;
+}
+a.dark#reader-mode-help {
+    color: #ffffff;
+}
+span.dark#change-reader-mode-toggle {
+    color: #ffffff;
 }

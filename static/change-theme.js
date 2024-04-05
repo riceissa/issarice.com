@@ -129,6 +129,34 @@ document.addEventListener('keydown', function(event) {
   }
 });
 
+function change_theme_set_color(color) {
+  const site_specific_preferred_color = localStorage.getItem("color");
+  if (site_specific_preferred_color) {
+    if (site_specific_preferred_color !== color) {
+      document.body.classList.remove(site_specific_preferred_color);
+      document.body.classList.add(color);
+      localStorage.setItem("color", color);
+    }
+  } else {
+    localStorage.setItem("color", color);
+  }
+}
+
+function set_theme_from_local_storage() {
+  const site_specific_preferred_color = localStorage.getItem("color");
+  const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  if ((site_specific_preferred_color === "light") || (site_specific_preferred_color === "dark")) {
+    // If the user has specifically chosen issarice.com to be a specific color,
+    // then honor that over the OS/browser-level preference.
+    document.body.classList.add(site_specific_preferred_color);
+  } else {
+    // Otherwise, default to the OS/browser-level preference.
+    if (os_prefers_dark) {
+      document.body.classList.add("dark");
+    }
+  }
+}
+
 function set_theme_from_cookies() {
   if (change_theme_read_cookie("textWidthCookie")) {
     document.body.classList.add("wide");
