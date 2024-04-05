@@ -199,7 +199,7 @@ $endif$
 
 <script>
   // document.getElementById('changeThemeMenu').style.display='inline';
-  set_theme_from_local_storage();
+  change_theme.set_theme_from_local_storage();
   $$(function(){
     $$("table").tablesorter();
   });

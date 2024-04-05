@@ -1,11 +1,18 @@
 // License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
 
+// We use a self-executing anonymous function to create a separate namespace
+// called change_theme. This way any functions we define here won't affect
+// other scripts. See https://stackoverflow.com/a/5947280/3422337 . (The
+// version here is a bit different because we aren't using jQuery so we don't
+// have to pass that as an argument, and modern versions of JavaScript don't
+// allow you to redefine undefined so we don't need to keep that as an argument
+// either.)
 (function(change_theme) {
     // body class : blank (light) or "dark" (dark)
     // local storage: blank (meaning auto), "auto", "light", or "dark"
     // color argument: "auto", "light", or "dark"
 
-    change_theme.force_body_classlist = function force_body_classlist(color) {
+    force_body_classlist = function force_body_classlist(color) {
         const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
         if (color === "dark") {
             if (!document.body.classList.contains("dark")) {
@@ -32,12 +39,12 @@
     // This function runs every time the menu buttons (auto/light/dark) are
     // clicked.
     change_theme.set_color = function set_color(color) {
-        change_theme.force_body_classlist(color);
+        force_body_classlist(color);
         localStorage.setItem("color", color);
     }
 
     // This function runs once on each page load.
-    function set_theme_from_local_storage() {
+    change_theme.set_theme_from_local_storage = function set_theme_from_local_storage() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
         const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
         if (site_specific_preferred_color === "dark") {
