@@ -50,6 +50,8 @@
     // This function runs once on each page load.
     change_theme.set_theme_from_local_storage = function set_theme_from_local_storage() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
+        force_body_classlist_color(site_specific_preferred_color);
+        /*
         const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
         if (site_specific_preferred_color === "dark") {
             // If the user has specifically chosen this particular website to
@@ -64,6 +66,7 @@
         }
         // Otherwise, default to light mode by not adding anything to
         // document.body.classList.
+        */
     };
 
     // This one should not save the current setting in a cookie, because if you
