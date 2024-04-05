@@ -74,10 +74,10 @@ $endif$
     <a href="./index">Home</a>
     | <a href="./about">About</a>
     | <a href="./all-pages">Newest changes</a>
-    | Set colorscheme to:
-         <a href="#" onclick="change_theme_set_color('auto')">auto</a>,
-         <a href="#" onclick="change_theme_set_color('light')">light</a>,
-         <a href="#" onclick="change_theme_set_color('dark')">dark</a>
+    | Set color scheme to:
+         <span style="cursor: pointer;" class="unselectable" onclick="change_theme_set_color('auto')">auto</span>,
+         <span style="cursor: pointer;" class="unselectable" onclick="change_theme_set_color('light')">light</span>,
+         <span style="cursor: pointer;" class="unselectable" onclick="change_theme_set_color('dark')">dark</span>
     <!--
     <span id="changeThemeMenu" style="display: none;">| Change
     {<a href="#" onclick="change_theme_text_width()">text width</a>,
