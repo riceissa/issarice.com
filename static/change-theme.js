@@ -136,7 +136,7 @@ document.addEventListener('keydown', function(event) {
 
 function force_body_classlist(color) {
   const os_prefers_dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  if (color === "dark")
+  if (color === "dark") {
     if (!document.body.classList.contains("dark")) {
       document.body.classList.add("dark");
     }
