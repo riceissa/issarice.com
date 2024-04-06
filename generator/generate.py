@@ -20,17 +20,10 @@ does not work with filenames that contain spaces, so I can no longer use Make
 to do the site generation.
 '''
 
-# eventually, add argparse so that i can compile a single markdown file at a time
-
 def main():
     # TODO: I'm thinking now that this script shouldn't take any arguments. It
     # should be pretty obvious which files need to be regenerated, so just
     # regenerate those. So argparse stuff can all be deleted.
-    parser = argparse.ArgumentParser()
-    parser.add_argument("filepaths", nargs="*")
-    # this one is not needed because you can just do make clean && make
-    parser.add_argument("--force-regenerate-all", action="store_true")
-    args = parser.parse_args()
 
     os.makedirs("_site", exist_ok=True)
 
