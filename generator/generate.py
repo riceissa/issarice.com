@@ -36,6 +36,15 @@ class File:
     def is_markdown(self):
         return self.filepath.endswith(".md")
 
+    def destination(self):
+        if self.filepath.startswith("wiki/"):
+            if self.is_markdown():
+                return File("_site/" + slugify(self.fileroot()))
+            else:
+                return File("_site/" + self.filename())
+        else:
+            raise ValueError(f"This file ({self.filepath}) is not in the wiki/ directory, so it doesn't have a destination!")
+
     def __repr__(self):
         return f"File(filepath={self.filepath})"
 
@@ -52,14 +61,14 @@ def main():
     for filename in os.listdir("wiki"):
         file = File("wiki/" + filename)
         if file.is_markdown():
-            final_dest = File("_site/" + slugify(file.fileroot()))
+            final_dest = file.destination()
             if (not os.path.isfile(final_dest.filepath) or
                     os.path.getmtime(file.filepath) > os.path.getmtime(final_dest.filepath)):
                 print(f"Processing {file.filepath}...", file=sys.stderr)
                 content_changed.append(file)
         else:
             # Just copy the file if it's not markdown
-            final_dest = File("_site/" + file.filename())
+            final_dest = file.destination()
             if (not os.path.isfile(final_dest.filepath) or
                     os.path.getmtime(file.filepath) > os.path.getmtime(final_dest.filepath)):
                 print(f"Copying {file.filepath} to {final_dest.filepath}...", file=sys.stderr)
