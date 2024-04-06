@@ -155,6 +155,12 @@ def main():
     if not content_changed:
         print("Nothing to do because no files have changed.", file=sys.stderr)
 
+    # TODO: old comment from the old shell script, generator/all_pages_table.sh.
+    # All the "git log" commands for each file are the bottleneck of computation,
+    # so that is the process we want to parallelize with GNU parallel.
+    # UPDATE: actually it looks like the slow part is reading each file and reading
+    # the metadata off of it.
+
     # Now we update all-pages.json to reflect the lastest metadata of the
     # pages, and then regenerate that page.
     all_pages = {}
@@ -168,6 +174,12 @@ def main():
     generate_all_pages_page(all_pages)
 
 def read_metadata(file):
+    # TODO: this is a hack
+    # All the .startswith() calls make me uncomfortable since they depend on
+    # certain bytes being in the right place (although my source files currently
+    # adhere to this restriction).  However, I still prefer this to the old
+    # solution of bringing in dependencies like PyYaml, parsing the whole header,
+    # and then generating date-dependent pages using that.
     result = {}
     print(f"Opening {file.filepath} to read metadata...", file=sys.stderr)
     with open(file.filepath, "r") as f:
@@ -178,6 +190,9 @@ def read_metadata(file):
             if line.strip() == "---" or line.strip() == "...":
                 break
             # print(f"Seeing line: {line}", file=sys.stderr)
+            # TODO: some titles have quotes surrounding them because YAML
+            # requires escaping. Maybe it really just need a library to parse
+            # YAML...
             if line.startswith("title: "):
                 result["title"] = line[len("title: "):].strip()
             if line.startswith("author: "):
