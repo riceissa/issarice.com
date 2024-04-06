@@ -18,10 +18,12 @@ case-studies like The Great Suspender (where the original author sold it to
 some sketchy people who then put in spyware, or something like that).
 
 - ClearURLs
+- Dark Reader
 - uBlock Origin
 - F.B Purity
+- Video DownloadHelper (usually disabled, but I enable it whenever I want to use it)
 
-(Above list is up-to-date as of 2023-07-26.)
+(Above list is up-to-date as of 2024-03-30.)
 
 # Keyword search
 
