@@ -150,6 +150,7 @@ def outgoing_wikilinks(file):
         sys.exit()
 
 def construct_backlinks_graph(link_graph):
+    # TODO: might need to think about capitalization (esp of first letter of page)
     backlinks = {}
     for x in link_graph:
         for y in link_graph[x]:
