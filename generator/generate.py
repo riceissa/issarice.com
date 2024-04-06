@@ -57,22 +57,23 @@ class File:
 def main():
     os.makedirs("_site", exist_ok=True)
 
+    # First, we scan the wiki/ directory to look for new files and files that
+    # have changed. If it's a markdown file, we keep track of it in
+    # content_changed in order to process later. If it's any other file, we
+    # just need to copy it to its destination.
     content_changed = []
     for filename in os.listdir("wiki"):
         file = File("wiki/" + filename)
-        if file.is_markdown():
-            final_dest = file.destination()
-            if (not os.path.isfile(final_dest.filepath) or
-                    os.path.getmtime(file.filepath) > os.path.getmtime(final_dest.filepath)):
+        destination = file.destination()
+        if (not os.path.isfile(destination.filepath) or
+                os.path.getmtime(file.filepath) > os.path.getmtime(destination.filepath)):
+            if file.is_markdown():
                 print(f"Processing {file.filepath}...", file=sys.stderr)
                 content_changed.append(file)
-        else:
-            # Just copy the file if it's not markdown
-            final_dest = file.destination()
-            if (not os.path.isfile(final_dest.filepath) or
-                    os.path.getmtime(file.filepath) > os.path.getmtime(final_dest.filepath)):
-                print(f"Copying {file.filepath} to {final_dest.filepath}...", file=sys.stderr)
-                shutil.copyfile(file.filepath, final_dest.filepath)
+            else:
+                # Just copy the file if it's not markdown.
+                print(f"Copying {file.filepath} to {destination.filepath}...", file=sys.stderr)
+                shutil.copyfile(file.filepath, destination.filepath)
 
     # These are the files that we need to regenerate, not because their content
     # changed, but because other files changed such that the backlinks section
