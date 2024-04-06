@@ -63,7 +63,7 @@ def main():
             # TODO: right now we copy these every single time, but it should be
             # checked whether the destination timestamp is old/whether the file
             # exists, and only copy if needed.
-            final_dest = File("_site/" + f.filename())
+            final_dest = File("_site/" + file.filename())
             print(f"Copying {file.filepath} to {final_dest.filepath}...", file=sys.stderr)
             shutil.copyfile(file.filepath, final_dest.filepath)
 
@@ -74,47 +74,44 @@ def main():
 
     link_graph = {}
     if os.path.isfile("link-graph.json"):
-        with open("link-graph.json", "r") as lg:
-            link_graph = json.load(lg)
-            for file in content_changed:
-                print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
-                outgoing = outgoing_wikilinks(file)
-                # For each file that changed, compare the existing link graph
-                # to the set of current links we've detected in the file. Any
-                # differences (in either direction) mean that backlinks need to
-                # be updated. Also, if the file doesn't even exist in the link
-                # graph, then all the pages it links to must be updated.
-                if file in link_graph:
-                    for linked_to in outgoing.symmetric_difference(set(link_graph[file])):
-                        backlinks_changed.append(linked_to)
-                else:
-                    for linked_to in outgoing:
-                        backlinks_changed.append(linked_to)
-                # Once we're done comparing against the old link graph, make
-                # sure to update the link graph to the current links.
-                link_graph[file] = list(outgoing)
-                print("done.", file=sys.stderr)
+        link_graph = read_from_file(File("link-graph.json"))
+        for file in content_changed:
+            print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
+            outgoing = outgoing_wikilinks(file)
+            # For each file that changed, compare the existing link graph
+            # to the set of current links we've detected in the file. Any
+            # differences (in either direction) mean that backlinks need to
+            # be updated. Also, if the file doesn't even exist in the link
+            # graph, then all the pages it links to must be updated.
+            if file in link_graph:
+                for linked_to in outgoing.symmetric_difference(set(link_graph[file])):
+                    backlinks_changed.append(linked_to)
+            else:
+                for linked_to in outgoing:
+                    backlinks_changed.append(linked_to)
+            # Once we're done comparing against the old link graph, make
+            # sure to update the link graph to the current links.
+            link_graph[file] = list(outgoing)
+            print("done.", file=sys.stderr)
     else:
         for file in content_changed:
             print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
             outgoing = outgoing_wikilinks(file)
-            print(f"DEBUG: {file.filepath}, {outgoing}", file=sys.stderr)
+            print(f"\nDEBUG: {file.filepath}, {outgoing}", file=sys.stderr)
             for linked_to in outgoing:
                 backlinks_changed.append(linked_to)
             link_graph[file] = list(outgoing)
             print(f"\nDEBUG: link_graph: {link_graph}", file=sys.stderr)
             print("done.", file=sys.stderr)
 
-    with open("link-graph.json", "w") as lg:
-        print("Saving new link graph...", end="", file=sys.stderr)
-        json.dump(link_graph, lg, indent=4)
-        print("done.", file=sys.stderr)
+    print("Saving new link graph...", end="", file=sys.stderr)
+    write_link_graph(link_graph, File("link-graph.json"))
+    print("done.", file=sys.stderr)
 
     backlinks = construct_backlinks_graph(link_graph)
-    with open("backlinks.json", "w") as b:
-        print("Saving new backlinks graph...", end="", file=sys.stderr)
-        json.dump(backlinks, b, indent=4)
-        print("done.", file=sys.stderr)
+    print("Saving new backlinks graph...", end="", file=sys.stderr)
+    write_link_graph(backlinks, File("backlinks.json"))
+    print("done.", file=sys.stderr)
 
     for file in backlinks_changed:
         print(f"Generating new backlink fragment for {file.filepath}...", end="", file=sys.stderr)
@@ -135,7 +132,8 @@ def outgoing_wikilinks(file):
             "-t", "native", "-o", "/dev/null", "--lua-filter", "generator/print_wikilinks.lua", file.filepath
         ], check=True, capture_output=True)
         output = p.stdout.decode("utf-8")
-        return set(output.strip().split("\n"))
+        links = output.strip().split("\n")
+        return set([File("wiki/" + x + ".md") for x in links])
     except subprocess.CalledProcessError as e:
         print("Error running pandoc inside outgoing_wikilinks:",
               "error code:", e.returncode,
@@ -161,6 +159,24 @@ def generate_backlink_fragment(file, backlinks):
         for y in backlinks[file]:
             f.write(f'<li><a href="{slugify(y.filename())}">{y.filename()}</a></li>\n')
         f.write("</ul>\n")
+
+def write_link_graph(link_graph, write_to_file):
+    # A link_graph is a dict from File to [File].
+    d = {}
+    for key in link_graph:
+        d[key.filepath] = [x.filepath for x in link_graph[key]]
+    with open(write_to_file.filepath, "w") as f:
+        print(f"Saving new link graph to {write_to_file.filepath}...", end="", file=sys.stderr)
+        json.dump(d, f, indent=4)
+        print("done.", file=sys.stderr)
+
+def load_link_graph(read_from_file):
+    link_graph = {}
+    with open (read_from_file.filepath, "r") as f:
+        d = json.load(f)
+        for key in d:
+            link_graph[File(key)] = [File(x) for x in d[key]]
+        return link_graph
 
 def slugify(s):
     '''
@@ -238,12 +254,12 @@ def process_filepath(file):
             "--lua-filter", "generator/blockquote_sig.lua",
             # TODO: make sure this gives correct filepath
             # "-M", "sourcefilename:" + shlex.quote(filepath),
-            "-M", "sourcefilename:" + urllib.parse.quote(filepath),
+            "-M", "sourcefilename:" + urllib.parse.quote(file.filepath),
             "-M", "lastmodified:" + last_mod,
         ]
-        if os.path.isfile("backlink_fragments/" + file.fileroot + ".html"):
+        if os.path.isfile("backlink_fragments/" + file.fileroot() + ".html"):
             pandoc_args.extend([
-                "--include-after-body", "backlink_fragments/" + file.fileroot + ".html",
+                "--include-after-body", "backlink_fragments/" + file.fileroot() + ".html",
             ])
         pandoc_args.extend(["-o", temp_dest.filepath])
         pandoc_args.extend([file.filepath])
@@ -256,7 +272,7 @@ def process_filepath(file):
         sys.exit()
 
     possibly_has_math = False
-    with open(temp_dest, "r") as f:
+    with open(temp_dest.filepath, "r") as f:
         for line in f:
             if "\\(" in line or "\\[" in line:
                 possibly_has_math = True
