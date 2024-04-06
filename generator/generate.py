@@ -60,12 +60,11 @@ def main():
                 content_changed.append(file)
         else:
             # Just copy the file if it's not markdown
-            # TODO: right now we copy these every single time, but it should be
-            # checked whether the destination timestamp is old/whether the file
-            # exists, and only copy if needed.
             final_dest = File("_site/" + file.filename())
-            print(f"Copying {file.filepath} to {final_dest.filepath}...", file=sys.stderr)
-            shutil.copyfile(file.filepath, final_dest.filepath)
+            if (not os.path.isfile(final_dest.filepath) or
+                    os.path.getmtime(file.filepath) > os.path.getmtime(final_dest.filepath)):
+                print(f"Copying {file.filepath} to {final_dest.filepath}...", file=sys.stderr)
+                shutil.copyfile(file.filepath, final_dest.filepath)
 
     # These are the files that we need to regenerate, not because their content
     # changed, but because other files changed such that the backlinks section
