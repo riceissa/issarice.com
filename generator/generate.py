@@ -72,6 +72,7 @@ def main():
     backlinks_changed = []
 
     link_graph = {}
+    link_graph_has_changed = False
     if os.path.isfile("link-graph.json"):
         link_graph = load_link_graph(File("link-graph.json"))
         for file in content_changed:
@@ -92,6 +93,7 @@ def main():
             # sure to update the link graph to the current links.
             assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
             link_graph[file] = list(outgoing)
+            link_graph_has_changed = True
             print("done.", file=sys.stderr)
     else:
         for file in content_changed:
@@ -102,16 +104,18 @@ def main():
                 backlinks_changed.append(linked_to)
             assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
             link_graph[file] = list(outgoing)
+            link_graph_has_changed = True
             print("done.", file=sys.stderr)
 
-    print("Saving new link graph...", end="", file=sys.stderr)
-    write_link_graph(link_graph, File("link-graph.json"))
-    print("done.", file=sys.stderr)
+    if link_graph_has_changed:
+        print("Saving new link graph...", end="", file=sys.stderr)
+        write_link_graph(link_graph, File("link-graph.json"))
+        print("done.", file=sys.stderr)
 
-    backlinks = construct_backlinks_graph(link_graph)
-    print("Saving new backlinks graph...", end="", file=sys.stderr)
-    write_link_graph(backlinks, File("backlinks.json"))
-    print("done.", file=sys.stderr)
+        backlinks = construct_backlinks_graph(link_graph)
+        print("Saving new backlinks graph...", end="", file=sys.stderr)
+        write_link_graph(backlinks, File("backlinks.json"))
+        print("done.", file=sys.stderr)
 
     for file in backlinks_changed:
         print(f"Generating new backlink fragment for {file.filepath}...", end="", file=sys.stderr)
@@ -124,6 +128,9 @@ def main():
         process_filepath(file)
     for file in backlinks_changed:
         process_filepath(file)
+
+    if not content_changed and not backlinks_changed:
+        print("Nothing to do (no files have change).", file=sys.stderr)
 
 def outgoing_wikilinks(file):
     try:
