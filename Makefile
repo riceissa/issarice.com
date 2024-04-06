@@ -24,7 +24,7 @@ wiki_pages:
 fullsite: meta_pages pages
 
 .PHONY: meta_pages
-meta_pages: $(OUTDIR)/atom.xml $(OUTDIR)/all-pages $(OUTDIR)/sitemap.xml
+meta_pages: $(OUTDIR)/atom.xml $(OUTDIR)/sitemap.xml
 
 .PHONY: sync
 sync:
@@ -55,11 +55,6 @@ deploy_archive:
 	$(eval hash := $(shell git rev-parse --verify HEAD))
 	rsync -r $(OUTDIR)/ \
 		$(SERVER_DEST)/_archive/$(shell date -Idate)-$(hash)
-
-$(OUTDIR)/all-pages: generator/all_pages_table.sh | $(OUTDIR)
-	./generator/all_pages_table.sh | \
-		pandoc $(PANDOC_FLAGS) \
-		--toc -o "$@"
 
 $(OUTDIR)/sitemap.xml: generator/sitemap.sh | $(OUTDIR)
 	./generator/sitemap.sh
