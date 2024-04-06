@@ -209,19 +209,34 @@ def write_all_pages(all_pages, write_to_file):
 
 def generate_all_pages_page(all_pages):
     pages = sorted(all_pages.keys(), key=lambda x: all_pages[x].get("date", "2000-01-01"), reverse=True)
-    with open("_site/all-pages", "w") as f:
-        f.write(ALL_PAGES_BEFORE)
-        for page in pages:
-            title = all_pages[page].get('title')
-            url = slugify(page.fileroot())
-            last_substantive_revision = all_pages[page].get('date') or ""
-            last_modified = last_modified_in_git(page)
-            created = all_pages[page].get('created') or ""
-            belief = all_pages[page].get('belief') or ""
-            status = all_pages[page].get('status') or ""
-            f.write(f"[{title}]({url})|{last_substantive_revision}|{last_modified}|{created}|{belief}|{status}|\n")
-            # f.write(str(all_pages[page]) + "\n")
-        f.write(ALL_PAGES_AFTER)
+    source = ALL_PAGES_BEFORE
+    for page in pages:
+        title = all_pages[page].get('title')
+        url = slugify(page.fileroot())
+        last_substantive_revision = all_pages[page].get('date') or ""
+        last_modified = last_modified_in_git(page)
+        created = all_pages[page].get('created') or ""
+        belief = all_pages[page].get('belief') or ""
+        status = all_pages[page].get('status') or ""
+        source += f"[{title}]({url})|{last_substantive_revision}|{last_modified}|{created}|{belief}|{status}|\n"
+        # f.write(str(all_pages[page]) + "\n")
+    source += ALL_PAGES_AFTER
+
+    try:
+        p = subprocess.run([
+            "pandoc", "-f", "markdown+smart", "-t", "html",
+            "--shift-heading-level-by", "1",
+            "--template", "templates/default.html5",
+            "--toc", "-M", "toc-title:Contents",
+            "-M", "today:" + datetime.date.today().strftime("%Y-%m-%d"),
+            "-M", "lang:en", "-o", "_site/all-pages"
+        ], input=source.encode('utf-8'), check=True)
+    except subprocess.CalledProcessError as e:
+        print("Error while trying to find last modification date inside last_modified_in_git:",
+              "error code:", e.returncode,
+              "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+        sys.exit()
+
 
 def last_modified_in_git(file):
     try:
