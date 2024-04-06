@@ -12,13 +12,46 @@ import json
 import urllib.parse
 
 '''
-Obsidian wikilinks require filenames to be named exactly as it appears
-in the wikilink, which means I have to deal with filenames containing
-spaces. Unfortunately, GNU Make does not work with filenames that
-contain spaces, so I can no longer use Make to do the site generation.
+I didn't want to write my own static site generator, but... Obsidian wikilinks
+require files to be named exactly as they appear in the wikilink (minus the .md
+extension), which means I have to deal with filenames containing spaces (and
+potentially other special characters like apostrophe). Unfortunately, GNU Make
+does not work with filenames that contain spaces, so I can no longer use Make
+to do the site generation.
 '''
 
 # eventually, add argparse so that i can compile a single markdown file at a time
+
+def main():
+    # TODO: I'm thinking now that this script shouldn't take any arguments. It
+    # should be pretty obvious which files need to be regenerated, so just
+    # regenerate those. So argparse stuff can all be deleted.
+    parser = argparse.ArgumentParser()
+    parser.add_argument("filepaths", nargs="*")
+    parser.add_argument("--force-regenerate-all", action="store_true")
+    args = parser.parse_args()
+
+    os.makedirs("_site", exist_ok=True)
+
+    for filename in os.listdir("wiki"):
+        if filename.endswith(".md"):
+            fileroot = filename[:-len(".md")]
+            final_dest = "_site/" + slugify(fileroot)
+            filepath = "wiki/" + filename
+            if (args.force_regenerate_all or
+                (not os.path.isfile(final_dest)) or
+                os.path.getmtime(filepath) > os.path.getmtime(final_dest)):
+                print("Processing", filepath, file=sys.stderr)
+                process_filepath(filepath)
+        else:
+            # Just copy the file if it's not markdown
+            # TODO: right now we copy these every single time, but it should be
+            # checked whether the destination timestamp is old/whether the file
+            # exists, and only copy if needed.
+            filepath = "wiki/" + filename
+            dest = "_site/" + filename
+            print(f"Copying {filepath} to {dest}...", file=sys.stderr)
+            shutil.copyfile(filepath, dest)
 
 def slugify(s):
     '''
@@ -31,7 +64,6 @@ def slugify(s):
     s = "-".join(filter(bool, s.split("-")))
     return s
 
-os.makedirs("_site", exist_ok=True)
 
 def process_filepath(filepath):
     filename = filepath.split('/')[-1]
@@ -71,7 +103,7 @@ def process_filepath(filepath):
     try:
         p_last_mod = subprocess.run([
             "git", "log", "-1",
-            '--format=%ad',
+            '--format=%ad',  # TODO: i think i can just use %as or %cs
             '--date=format:%Y-%m-%d',
             "--", filepath
         ], check=True, capture_output=True)
@@ -139,27 +171,5 @@ def process_filepath(filepath):
         print("No math so just renaming page.", file=sys.stderr)
         os.rename(temp_dest, final_dest)
 
-parser = argparse.ArgumentParser()
-parser.add_argument("filepaths", nargs="*")
-parser.add_argument("--force-regenerate-all", action="store_true")
-args = parser.parse_args()
-
-if args.filepaths:
-    for filepath in args.filepaths:
-        print("Processing", filepath, file=sys.stderr)
-        process_filepath(filepath)
-else:
-    for filename in os.listdir("wiki"):
-        if filename.endswith(".md"):
-            fileroot = filename[:-len(".md")]
-            final_dest = "_site/" + slugify(fileroot)
-            filepath = "wiki/" + filename
-            if (args.force_regenerate_all or
-                (not os.path.isfile(final_dest)) or
-                os.path.getmtime(filepath) > os.path.getmtime(final_dest)):
-                print("Processing", filepath, file=sys.stderr)
-                process_filepath(filepath)
-        else:
-            # just copy the file if it's not markdown
-            filepath = "wiki/" + filename
-            shutil.copyfile(filepath, "_site/" + filename)
+if __name__ == "__main__":
+    main()
