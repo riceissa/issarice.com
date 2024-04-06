@@ -133,6 +133,59 @@ def main():
     if not content_changed:
         print("Nothing to do because no files have changed.", file=sys.stderr)
 
+    # Now we update all-pages.json to reflect the lastest metadata of the
+    # pages, and then regenerate that page.
+    all_pages = {}
+    if os.path.isfile("all-pages.json"):
+        all_pages = load_all_pages(File("all-pages.json"))
+    for file in content_changed:
+        metadata = read_metadata(file)
+        all_pages[file] = metadata
+    generate_all_pages_page(all_pages)
+
+def read_metadata(file):
+    result = {}
+    with open(file.filepath, "r") as f:
+        first_line = next(f).strip()
+        if first_line != "---":
+            return result
+        for line in f:
+            if line.strip() == "---" or line.strip() == "...":
+                break
+            print(f"Seeing line: {line}", file=sys.stderr)
+            if line.startswith("title: "):
+                result["title"] = line[len("title: "):].strip()
+            if line.startswith("author: "):
+                result["author"] = line[len("author: "):].strip()
+            if line.startswith("created: "):
+                result["created"] = line[len("created: "):].strip()
+            if line.startswith("date: "):
+                result["date"] = line[len("date: "):].strip()
+            if line.startswith("belief: "):
+                result["belief"] = line[len("belief: "):].strip()
+            if line.startswith("status: "):
+                result["status"] = line[len("status: "):].strip()
+    return result
+
+def load_all_pages(read_from_file):
+    all_pages = {}
+    with open(read_from_file.filepath, "r") as f:
+        d = json.load(f)
+        for key in d:
+            all_pages[File(key)] = d[key]
+    return all_pages
+
+def write_all_pages(all_pages, write_to_file):
+    d = {}
+    for key in all_pages:
+        d[key.filepath] = all_pages[key]
+    with open(write_to_file.filepath, "w") as f:
+        json.dump(d, f, indent=4)
+
+def generate_all_pages_page(all_pages):
+    ## TODO: FIX
+    pass
+
 def outgoing_wikilinks(file):
     try:
         # -implicit_header_references is necessary when using wikilinks: if the
