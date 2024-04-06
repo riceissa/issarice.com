@@ -23,6 +23,27 @@ enough to figure out which files need to be regenerated, and just do the right
 thing.
 '''
 
+ALL_PAGES_BEFORE = """---
+title: All pages
+created: 2017-11-11
+bigtable: true
+---
+
+This is a list of all pages on this site ordered by the "last substantive
+revision" date. The "last modified" date comes from version control
+([Git](git)) and takes into account even insubstantial edits.
+
+# Table
+
+|Title|Last substantive revision|Last modified|Created|Belief|Completion status|
+|------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
+"""
+
+ALL_PAGES_AFTER = """# See also
+
+- [Gwern.net metadata table](gwern-net-metadata-table)
+"""
+
 class File:
     def __init__(self, filepath):
         self.filepath = filepath
@@ -141,6 +162,7 @@ def main():
     for file in content_changed:
         metadata = read_metadata(file)
         all_pages[file] = metadata
+    write_all_pages(all_pages, File("all-pages.json"))
     generate_all_pages_page(all_pages)
 
 def read_metadata(file):
@@ -152,7 +174,7 @@ def read_metadata(file):
         for line in f:
             if line.strip() == "---" or line.strip() == "...":
                 break
-            print(f"Seeing line: {line}", file=sys.stderr)
+            # print(f"Seeing line: {line}", file=sys.stderr)
             if line.startswith("title: "):
                 result["title"] = line[len("title: "):].strip()
             if line.startswith("author: "):
@@ -183,8 +205,34 @@ def write_all_pages(all_pages, write_to_file):
         json.dump(d, f, indent=4)
 
 def generate_all_pages_page(all_pages):
-    ## TODO: FIX
-    pass
+    pages = sorted(all_pages.keys(), key=lambda x: all_pages[x].get("date", "2000-01-01"), reverse=True)
+    with open("_site/all-pages", "w") as f:
+        f.write(ALL_PAGES_BEFORE)
+        for page in pages:
+            title = all_pages[page].get('title')
+            url = slugify(page.filename())
+            last_substantive_revision = all_pages[page].get('date')
+            last_modified = last_modified_in_git(page)
+            created = all_pages[page].get('created')
+            belief = all_pages[page].get('belief')
+            status = all_pages[page].get('status')
+            f.write(f"[{title}]({url})|{last_substantive_revision}|{last_modified}|{created}|{belief}|{status}|\n")
+            # f.write(str(all_pages[page]) + "\n")
+        f.write(ALL_PAGES_AFTER)
+
+def last_modified_in_git(file):
+    try:
+        p = subprocess.run([
+            "git", "log", "-1", "--format=%as", file.filepath
+        ], check=True, capture_output=True)
+        output = p.stdout.decode("utf-8").strip()
+        return output
+    except subprocess.CalledProcessError as e:
+        print("Error while trying to find last modification date inside last_modified_in_git:",
+              "error code:", e.returncode,
+              "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+        sys.exit()
+
 
 def outgoing_wikilinks(file):
     try:
