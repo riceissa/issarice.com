@@ -62,13 +62,20 @@
         set_visual_feedback_color(color);
     };
 
-    // This function runs once on each page load, and whenever the OS/browser
-    // preference changes.
+    // This function runs once on each page load.
     change_theme.set_theme_from_local_storage = function set_theme_from_local_storage() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
         set_body_classlist_color(site_specific_preferred_color);
         set_visual_feedback_color(site_specific_preferred_color);
     };
+
+    // This function runs whenever the OS/browser preference changes.
+    change_theme.set_theme_when_os_preference_changes = function set_theme_when_os_preference_changes() {
+        const site_specific_preferred_color = localStorage.getItem("color") || "auto";
+        if (site_specific_preferred_color === "auto") {
+            set_body_classlist_color(site_specific_preferred_color);
+        }
+    }
 
     // Whenever the OS/browser preference changes, try resetting the color
     // scheme. This might happen for example when someone has their OS color
@@ -80,7 +87,7 @@
     // website then the color scheme would only get updated whenever the user
     // either clicks the "auto" button again or reloads the page.
     const dark_mode_preference = window.matchMedia("(prefers-color-scheme: dark)");
-    dark_mode_preference.addEventListener("change", e => change_theme.set_theme_from_local_storage())
+    dark_mode_preference.addEventListener("change", e => change_theme.set_theme_when_os_preference_changes())
 
 
     // This one should not save the current setting in a cookie, because if you
