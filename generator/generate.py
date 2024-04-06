@@ -20,6 +20,22 @@ does not work with filenames that contain spaces, so I can no longer use Make
 to do the site generation.
 '''
 
+class File:
+    def __init__(self, filepath):
+        self.filepath = filepath
+
+    def filename(self):
+        return self.filepath.split("/")[-1]
+
+    def fileroot(self):
+        return ".".join(self.filename().split(".")[:-1])
+
+    def __repr__(self):
+        return f"File(filepath={self.filepath})"
+
+    def __hash__(self):
+        return hash(self.filepath)
+
 def main():
     # TODO: I'm thinking now that this script shouldn't take any arguments. It
     # should be pretty obvious which files need to be regenerated, so just
@@ -57,6 +73,7 @@ def main():
         with open("link-graph.json", "r") as lg:
             link_graph = json.load(lg)
             for filepath in content_changed:
+                print(f"Updating links for {filepath}...", end="", file=sys.stderr)
                 outgoing = outgoing_wikilinks(filepath)
                 fileroot = filename[:-len(".md")]
                 # For each file that changed, compare the existing link graph
@@ -73,22 +90,34 @@ def main():
                 # Once we're done comparing against the old link graph, make
                 # sure to update the link graph to the current links.
                 link_graph[fileroot] = list(outgoing)
+                print("done.", file=sys.stderr)
     else:
         for filepath in content_changed:
+            print(f"Updating links for {filepath}...", end="", file=sys.stderr)
             outgoing = outgoing_wikilinks(filepath)
+            print(f"DEBUG: {filepath}, {outgoing}", file=sys.stderr)
             for linked_to_root in outgoing:
                 backlinks_changed.append(linked_to_root)
+            fileroot = filepath[:-len(".md")]
             link_graph[fileroot] = list(outgoing)
+            print(f"\nDEBUG: link_graph: {link_graph}", file=sys.stderr)
+            print("done.", file=sys.stderr)
 
     with open("link-graph.json", "w") as lg:
+        print("Saving new link graph...", end="", file=sys.stderr)
         json.dump(link_graph, lg, indent=4)
+        print("done.", file=sys.stderr)
 
+    backlinks = construct_backlinks_graph(link_graph)
     with open("backlinks.json", "w") as b:
-        backlinks = construct_backlinks_graph(link_graph)
+        print("Saving new backlinks graph...", end="", file=sys.stderr)
         json.dump(backlinks, b, indent=4)
+        print("done.", file=sys.stderr)
 
     for fileroot in backlinks_changed:
-        generate_backlink_fragment(fileroot)
+        print(f"Generating new backlink fragment for {fileroot}...", end="", file=sys.stderr)
+        generate_backlink_fragment(fileroot, backlinks)
+        print("done.", file=sys.stderr)
 
     # Now that the backlinks graph has been regenerated, we can finally
     # generate the page HTMLs.
