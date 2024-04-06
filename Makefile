@@ -92,3 +92,5 @@ $(OUTDIR)/account-names: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorte
 .PHONY: clean
 clean:
 	rm -rf $(OUTDIR)
+	rm -rf backlink_fragments
+	rm -f link-graph.json backlinks.json
