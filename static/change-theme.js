@@ -46,11 +46,20 @@
         }
     }
 
+    function set_visual_feedback_color(color) {
+        var options_list = ["auto", "light", "dark"];
+        var el = document.getElementById(color + "-menu-option");
+        el.style.textDecoration = "underline";
+        options_list = options_list.filter(x => x !== color);
+        options_list.forEach((c) => document.getElementById(c + "-menu-option").style.textDecoration = "none");
+    }
+
     // This function runs every time the menu buttons (auto/light/dark) are
     // clicked.
     change_theme.set_color = function set_color(color) {
         set_body_classlist_color(color);
         localStorage.setItem("color", color);
+        set_visual_feedback_color(color);
     };
 
     // This function runs once on each page load, and whenever the OS/browser
@@ -58,6 +67,7 @@
     change_theme.set_theme_from_local_storage = function set_theme_from_local_storage() {
         const site_specific_preferred_color = localStorage.getItem("color") || "auto";
         set_body_classlist_color(site_specific_preferred_color);
+        set_visual_feedback_color(site_specific_preferred_color);
     };
 
     // Whenever the OS/browser preference changes, try resetting the color

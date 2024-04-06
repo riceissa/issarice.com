@@ -75,9 +75,9 @@ $endif$
     | <a href="./about">About</a>
     | <a href="./all-pages">Newest changes</a>
     | <span id="changeThemeMenu" style="display: none;">Set color scheme to:
-         <span style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
-         <span style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
-         <span style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
+         <span id="auto-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('auto')">auto</span>,
+         <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
+         <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
       </span>
     <!--
     <span id="changeThemeMenu" style="display: none;">| Change
