@@ -6,7 +6,6 @@ import sys
 import datetime
 import shlex
 import shutil
-import argparse
 import shutil
 import json
 import urllib.parse
@@ -18,6 +17,10 @@ extension), which means I have to deal with filenames containing spaces (and
 potentially other special characters like apostrophe). Unfortunately, GNU Make
 does not work with filenames that contain spaces, so I can no longer use Make
 to do the site generation.
+
+This script takes no arguments because the idea is that it should be smart
+enough to figure out which files need to be regenerated, and just do the right
+thing.
 '''
 
 class File:
@@ -43,10 +46,6 @@ class File:
         return self.filepath == other.filepath
 
 def main():
-    # TODO: I'm thinking now that this script shouldn't take any arguments. It
-    # should be pretty obvious which files need to be regenerated, so just
-    # regenerate those. So argparse stuff can all be deleted.
-
     os.makedirs("_site", exist_ok=True)
 
     content_changed = []
