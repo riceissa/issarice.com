@@ -135,6 +135,11 @@ def main():
 
 def outgoing_wikilinks(file):
     try:
+        # -implicit_header_references is necessary when using wikilinks: if the
+        # about page has a section called "Contact" as well as a wiklink
+        # [[contact]], then the Pandoc Markdown reader will interpret that as a
+        # link to the contact section, and you will end up with
+        # "[[contact](#contact)]" instead of "[contact](contact)".
         p = subprocess.run([
             "pandoc", "-f", "markdown+smart-implicit_header_references+wikilinks_title_after_pipe",
             "-t", "native", "-o", "/dev/null", "--lua-filter", "generator/print_wikilinks.lua", file.filepath
@@ -202,37 +207,6 @@ def slugify(s):
 
 
 def process_filepath(file):
-    # TODO: probably switch to using --filter instead of pipes.
-    # actually, maybe this isn't possible since --filter
-    # doesn't seem to allow sending flags/arguments to the
-    # executable (it just tries to run the whole string as
-    # the executable).
-    # -implicit_header_references is necessary when using wikilinks: if the
-    # about page has a section called "Contact" as well as a wiklink
-    # [[contact]], then the Pandoc Markdown reader will interpret that as a
-    # link to the contact section, and you will end up with
-    # "[[contact](#contact)]" instead of "[contact](contact)".
-    # try:
-    #     p = subprocess.run([
-    #         "pandoc", "-f", "markdown+smart-implicit_header_references",
-    #         "-t", "json", filepath
-    #     ], check=True, capture_output=True)
-    # except subprocess.CalledProcessError as e:
-    #     print("Error running pandoc (markdown to json):",
-    #           "error code:", e.returncode,
-    #           "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
-    #     sys.exit()
-
-    # try:
-    #     # https://github.com/riceissa/pandoc-wikilinks-filter/blob/main/wikilinks.py
-    #     p2 = subprocess.run(["wikilinks.py"],
-    #                         input=p.stdout, check=True,
-    #                         capture_output=True)
-    # except subprocess.CalledProcessError as e:
-    #     print("Error running wikilinks.py:",
-    #           "error code:", e.returncode,
-    #           "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
-    #     sys.exit()
 
     if not os.path.isfile(file.filepath):
         print(f"The file {file.filepath} does not exit; skipping.")
