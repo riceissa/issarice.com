@@ -209,7 +209,7 @@ def slugify(s):
 def process_filepath(file):
 
     if not os.path.isfile(file.filepath):
-        print(f"The file {file.filepath} does not exit; skipping.")
+        print(f"The file {file.filepath} does not exist; skipping.")
         return None
 
     try:
