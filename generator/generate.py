@@ -28,21 +28,22 @@ def main():
     # regenerate those. So argparse stuff can all be deleted.
     parser = argparse.ArgumentParser()
     parser.add_argument("filepaths", nargs="*")
+    # this one is not needed because you can just do make clean && make
     parser.add_argument("--force-regenerate-all", action="store_true")
     args = parser.parse_args()
 
     os.makedirs("_site", exist_ok=True)
 
+    content_changed = []
     for filename in os.listdir("wiki"):
         if filename.endswith(".md"):
             fileroot = filename[:-len(".md")]
             final_dest = "_site/" + slugify(fileroot)
             filepath = "wiki/" + filename
-            if (args.force_regenerate_all or
-                (not os.path.isfile(final_dest)) or
-                os.path.getmtime(filepath) > os.path.getmtime(final_dest)):
-                print("Processing", filepath, file=sys.stderr)
-                process_filepath(filepath)
+            if (not os.path.isfile(final_dest) or
+                    os.path.getmtime(filepath) > os.path.getmtime(final_dest)):
+                print(f"Processing {filepath}...", file=sys.stderr)
+                content_changed.append(filepath)
         else:
             # Just copy the file if it's not markdown
             # TODO: right now we copy these every single time, but it should be
@@ -52,6 +53,91 @@ def main():
             dest = "_site/" + filename
             print(f"Copying {filepath} to {dest}...", file=sys.stderr)
             shutil.copyfile(filepath, dest)
+
+    # These are the files that we need to regenerate, not because their content
+    # changed, but because other files changed such that the backlinks section
+    # now needs to be updated.
+    backlinks_changed = []
+
+    link_graph = {}
+    if os.path.isfile("link-graph.json"):
+        with open("link-graph.json", "r") as lg:
+            link_graph = json.load(lg)
+            for filepath in content_changed:
+                outgoing = outgoing_wikilinks(filepath)
+                fileroot = filename[:-len(".md")]
+                # For each file that changed, compare the existing link graph
+                # to the set of current links we've detected in the file. Any
+                # differences (in either direction) mean that backlinks need to
+                # be updated. Also, if the file doesn't even exist in the link
+                # graph, then all the pages it links to must be updated.
+                if fileroot in link_graph:
+                    for linked_to_root in outgoing.symmetric_difference(set(link_graph[fileroot])):
+                        backlinks_changed.append(linked_to_root)
+                else:
+                    for linked_to_root in outgoing:
+                        backlinks_changed.append(linked_to_root)
+                # Once we're done comparing against the old link graph, make
+                # sure to update the link graph to the current links.
+                link_graph[fileroot] = list(outgoing)
+    else:
+        for filepath in content_changed:
+            outgoing = outgoing_wikilinks(filepath)
+            for linked_to_root in outgoing:
+                backlinks_changed.append(linked_to_root)
+            link_graph[fileroot] = list(outgoing)
+
+    with open("link-graph.json", "w") as lg:
+        json.dump(link_graph, lg, indent=4)
+
+    with open("backlinks.json", "w") as b:
+        backlinks = construct_backlinks_graph(link_graph)
+        json.dump(backlinks, b, indent=4)
+
+    for fileroot in backlinks_changed:
+        generate_backlink_fragment(fileroot)
+
+    # Now that the backlinks graph has been regenerated, we can finally
+    # generate the page HTMLs.
+    for filepath in content_changed:
+        process_filepath(filepath)
+    for fileroot in backlinks_changed:
+        filepath = fileroot + ".md"
+        process_filepath(filepath)
+
+def outgoing_wikilinks(filepath):
+    try:
+        p = subprocess.run([
+            "pandoc", "-f", "markdown+smart-implicit_header_references+wikilinks_title_after_pipe",
+            "-t", "native", "-o", "/dev/null", "--lua-filter", "generator/print_wikilinks.lua", filepath
+        ], check=True, capture_output=True)
+        output = p.stdout.decode("utf-8")
+        return set(output.strip().split("\n"))
+    except subprocess.CalledProcessError as e:
+        print("Error running pandoc inside outgoing_wikilinks:",
+              "error code:", e.returncode,
+              "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
+        sys.exit()
+
+def construct_backlinks_graph(link_graph):
+    backlinks = {}
+    for x in link_graph:
+        for y in link_graph[x]:
+            if y in backlinks:
+                if x not in backlinks[y]:
+                    backlinks[y].append(x)
+            else:
+                backlinks[y] = [x]
+    return backlinks
+
+def generate_backlink_fragment(fileroot, backlinks):
+    os.makedirs("backlink_fragments", exist_ok=True)
+    with open("backlink_fragments/" + fileroot + ".html", "w") as f:
+        f.write("<h2>Backlinks</h2>\n")
+        f.write("<ul>\n")
+        for y in backlinks[fileroot]:
+            f.write(f'<li><a href="{slugify(y)}">{y}</a></li>\n')
+        f.write("</ul>\n")
 
 def slugify(s):
     '''
