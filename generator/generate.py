@@ -131,8 +131,10 @@ def outgoing_wikilinks(file):
             "pandoc", "-f", "markdown+smart-implicit_header_references+wikilinks_title_after_pipe",
             "-t", "native", "-o", "/dev/null", "--lua-filter", "generator/print_wikilinks.lua", file.filepath
         ], check=True, capture_output=True)
-        output = p.stdout.decode("utf-8")
-        links = output.strip().split("\n")
+        output = p.stdout.decode("utf-8").strip()
+        if not output:
+            return set()
+        links = output.split("\n")
         return set([File("wiki/" + x + ".md") for x in links])
     except subprocess.CalledProcessError as e:
         print("Error running pandoc inside outgoing_wikilinks:",
