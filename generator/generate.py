@@ -162,11 +162,13 @@ def main():
     for file in content_changed:
         metadata = read_metadata(file)
         all_pages[file] = metadata
+    # TODO: only do some of this stuff if it's needed
     write_all_pages(all_pages, File("all-pages.json"))
     generate_all_pages_page(all_pages)
 
 def read_metadata(file):
     result = {}
+    print(f"Opening {file.filepath} to read metadata...", file=sys.stderr)
     with open(file.filepath, "r") as f:
         first_line = next(f).strip()
         if first_line != "---":
@@ -367,7 +369,7 @@ def process_filepath(file):
             if "\\(" in line or "\\[" in line:
                 possibly_has_math = True
     if possibly_has_math:
-        print("This page may contain math, so running mjpage...", file=sys.stderr, end='')
+        print(f"This page ({file.filepath}) may contain math, so running mjpage...", file=sys.stderr, end='')
         try:
             with open(temp_dest.filepath, "r") as f1, open(final_dest.filepath, "w") as f2:
                 p_mjpage = subprocess.run([
@@ -381,7 +383,7 @@ def process_filepath(file):
                   "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
             sys.exit()
     else:
-        print("No math so just renaming page.", file=sys.stderr)
+        print(f"No math in {file.filepath} so just renaming page.", file=sys.stderr)
         os.rename(temp_dest.filepath, final_dest.filepath)
 
 if __name__ == "__main__":
