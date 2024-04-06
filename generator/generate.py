@@ -130,7 +130,7 @@ def main():
         process_filepath(file)
 
     if not content_changed and not backlinks_changed:
-        print("Nothing to do (no files have change).", file=sys.stderr)
+        print("Nothing to do because no files have changed.", file=sys.stderr)
 
 def outgoing_wikilinks(file):
     try:
