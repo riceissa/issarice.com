@@ -39,7 +39,8 @@ revision" date. The "last modified" date comes from version control
 |------------------------------------------------|--------------|--------------|--------------|--------------|--------------|
 """
 
-ALL_PAGES_AFTER = """# See also
+ALL_PAGES_AFTER = """
+# See also
 
 - [Gwern.net metadata table](gwern-net-metadata-table)
 """
@@ -212,12 +213,12 @@ def generate_all_pages_page(all_pages):
         f.write(ALL_PAGES_BEFORE)
         for page in pages:
             title = all_pages[page].get('title')
-            url = slugify(page.filename())
-            last_substantive_revision = all_pages[page].get('date')
+            url = slugify(page.fileroot())
+            last_substantive_revision = all_pages[page].get('date') or ""
             last_modified = last_modified_in_git(page)
-            created = all_pages[page].get('created')
-            belief = all_pages[page].get('belief')
-            status = all_pages[page].get('status')
+            created = all_pages[page].get('created') or ""
+            belief = all_pages[page].get('belief') or ""
+            status = all_pages[page].get('status') or ""
             f.write(f"[{title}]({url})|{last_substantive_revision}|{last_modified}|{created}|{belief}|{status}|\n")
             # f.write(str(all_pages[page]) + "\n")
         f.write(ALL_PAGES_AFTER)
