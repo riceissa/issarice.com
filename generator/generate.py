@@ -30,11 +30,17 @@ class File:
     def fileroot(self):
         return ".".join(self.filename().split(".")[:-1])
 
+    def is_markdown(self):
+        return self.filepath.endswith(".md")
+
     def __repr__(self):
         return f"File(filepath={self.filepath})"
 
     def __hash__(self):
         return hash(self.filepath)
+
+    def __eq__(self, other):
+        return self.filepath == other.filepath
 
 def main():
     # TODO: I'm thinking now that this script shouldn't take any arguments. It
@@ -45,23 +51,21 @@ def main():
 
     content_changed = []
     for filename in os.listdir("wiki"):
-        if filename.endswith(".md"):
-            fileroot = filename[:-len(".md")]
-            final_dest = "_site/" + slugify(fileroot)
-            filepath = "wiki/" + filename
-            if (not os.path.isfile(final_dest) or
-                    os.path.getmtime(filepath) > os.path.getmtime(final_dest)):
-                print(f"Processing {filepath}...", file=sys.stderr)
-                content_changed.append(filepath)
+        f = File("wiki/" + filename)
+        if f.is_markdown():
+            final_dest = File("_site/" + slugify(f.fileroot()))
+            if (not os.path.isfile(final_dest.filepath) or
+                    os.path.getmtime(f.filepath) > os.path.getmtime(final_dest.filepath)):
+                print(f"Processing {f.filepath}...", file=sys.stderr)
+                content_changed.append(f)
         else:
             # Just copy the file if it's not markdown
             # TODO: right now we copy these every single time, but it should be
             # checked whether the destination timestamp is old/whether the file
             # exists, and only copy if needed.
-            filepath = "wiki/" + filename
-            dest = "_site/" + filename
-            print(f"Copying {filepath} to {dest}...", file=sys.stderr)
-            shutil.copyfile(filepath, dest)
+            final_dest = File("_site/" + f.filename())
+            print(f"Copying {f.filepath} to {final_dest.filepath}...", file=sys.stderr)
+            shutil.copyfile(f.filepath, final_dest.filepath)
 
     # These are the files that we need to regenerate, not because their content
     # changed, but because other files changed such that the backlinks section
@@ -72,34 +76,32 @@ def main():
     if os.path.isfile("link-graph.json"):
         with open("link-graph.json", "r") as lg:
             link_graph = json.load(lg)
-            for filepath in content_changed:
-                print(f"Updating links for {filepath}...", end="", file=sys.stderr)
-                outgoing = outgoing_wikilinks(filepath)
-                fileroot = filename[:-len(".md")]
+            for f in content_changed:
+                print(f"Updating links for {f.filepath}...", end="", file=sys.stderr)
+                outgoing = outgoing_wikilinks(f)
                 # For each file that changed, compare the existing link graph
                 # to the set of current links we've detected in the file. Any
                 # differences (in either direction) mean that backlinks need to
                 # be updated. Also, if the file doesn't even exist in the link
                 # graph, then all the pages it links to must be updated.
-                if fileroot in link_graph:
-                    for linked_to_root in outgoing.symmetric_difference(set(link_graph[fileroot])):
-                        backlinks_changed.append(linked_to_root)
+                if f in link_graph:
+                    for linked_to in outgoing.symmetric_difference(set(link_graph[f])):
+                        backlinks_changed.append(linked_to)
                 else:
-                    for linked_to_root in outgoing:
-                        backlinks_changed.append(linked_to_root)
+                    for linked_to in outgoing:
+                        backlinks_changed.append(linked_to)
                 # Once we're done comparing against the old link graph, make
                 # sure to update the link graph to the current links.
-                link_graph[fileroot] = list(outgoing)
+                link_graph[f] = list(outgoing)
                 print("done.", file=sys.stderr)
     else:
-        for filepath in content_changed:
-            print(f"Updating links for {filepath}...", end="", file=sys.stderr)
-            outgoing = outgoing_wikilinks(filepath)
-            print(f"DEBUG: {filepath}, {outgoing}", file=sys.stderr)
-            for linked_to_root in outgoing:
-                backlinks_changed.append(linked_to_root)
-            fileroot = filepath[:-len(".md")]
-            link_graph[fileroot] = list(outgoing)
+        for f in content_changed:
+            print(f"Updating links for {f.filepath}...", end="", file=sys.stderr)
+            outgoing = outgoing_wikilinks(f)
+            print(f"DEBUG: {f.filepath}, {outgoing}", file=sys.stderr)
+            for linked_to in outgoing:
+                backlinks_changed.append(linked_to)
+            link_graph[f] = list(outgoing)
             print(f"\nDEBUG: link_graph: {link_graph}", file=sys.stderr)
             print("done.", file=sys.stderr)
 
@@ -114,24 +116,23 @@ def main():
         json.dump(backlinks, b, indent=4)
         print("done.", file=sys.stderr)
 
-    for fileroot in backlinks_changed:
-        print(f"Generating new backlink fragment for {fileroot}...", end="", file=sys.stderr)
-        generate_backlink_fragment(fileroot, backlinks)
+    for f in backlinks_changed:
+        print(f"Generating new backlink fragment for {f.filepath}...", end="", file=sys.stderr)
+        generate_backlink_fragment(f, backlinks)
         print("done.", file=sys.stderr)
 
     # Now that the backlinks graph has been regenerated, we can finally
     # generate the page HTMLs.
-    for filepath in content_changed:
-        process_filepath(filepath)
-    for fileroot in backlinks_changed:
-        filepath = fileroot + ".md"
-        process_filepath(filepath)
+    for f in content_changed:
+        process_filepath(f)
+    for f in backlinks_changed:
+        process_filepath(f)
 
-def outgoing_wikilinks(filepath):
+def outgoing_wikilinks(f):
     try:
         p = subprocess.run([
             "pandoc", "-f", "markdown+smart-implicit_header_references+wikilinks_title_after_pipe",
-            "-t", "native", "-o", "/dev/null", "--lua-filter", "generator/print_wikilinks.lua", filepath
+            "-t", "native", "-o", "/dev/null", "--lua-filter", "generator/print_wikilinks.lua", f.filepath
         ], check=True, capture_output=True)
         output = p.stdout.decode("utf-8")
         return set(output.strip().split("\n"))
@@ -152,13 +153,13 @@ def construct_backlinks_graph(link_graph):
                 backlinks[y] = [x]
     return backlinks
 
-def generate_backlink_fragment(fileroot, backlinks):
+def generate_backlink_fragment(f, backlinks):
     os.makedirs("backlink_fragments", exist_ok=True)
-    with open("backlink_fragments/" + fileroot + ".html", "w") as f:
+    with open("backlink_fragments/" + f.fileroot() + ".html", "w") as f:
         f.write("<h2>Backlinks</h2>\n")
         f.write("<ul>\n")
-        for y in backlinks[fileroot]:
-            f.write(f'<li><a href="{slugify(y)}">{y}</a></li>\n')
+        for y in backlinks[f]:
+            f.write(f'<li><a href="{slugify(y.filename())}">{y.filename()}</a></li>\n')
         f.write("</ul>\n")
 
 def slugify(s):
@@ -173,9 +174,7 @@ def slugify(s):
     return s
 
 
-def process_filepath(filepath):
-    filename = filepath.split('/')[-1]
-    fileroot = filename[:-len(".md")]
+def process_filepath(f):
     # TODO: probably switch to using --filter instead of pipes.
     # actually, maybe this isn't possible since --filter
     # doesn't seem to allow sending flags/arguments to the
@@ -213,7 +212,7 @@ def process_filepath(filepath):
             "git", "log", "-1",
             '--format=%ad',  # TODO: i think i can just use %as or %cs
             '--date=format:%Y-%m-%d',
-            "--", filepath
+            "--", f.filepath
         ], check=True, capture_output=True)
         last_mod = p_last_mod.stdout.decode("utf-8").strip()
     except subprocess.CalledProcessError as e:
@@ -223,8 +222,8 @@ def process_filepath(filepath):
         sys.exit()
 
     # print(subprocess.list2cmdline(p_last_mod.args))
-    final_dest = "_site/" + slugify(fileroot)
-    temp_dest = final_dest + ".tempmjpage.html"
+    final_dest = File("_site/" + slugify(f.fileroot()))
+    temp_dest = File(final_dest.filepath + ".tempmjpage.html")
     try:
         pandoc_args = [
             "pandoc", "-f", "markdown+smart+wikilinks_title_after_pipe-implicit_header_references", "-t", "html5",
