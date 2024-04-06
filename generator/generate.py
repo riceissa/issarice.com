@@ -74,7 +74,7 @@ def main():
 
     link_graph = {}
     if os.path.isfile("link-graph.json"):
-        link_graph = read_from_file(File("link-graph.json"))
+        link_graph = load_link_graph(File("link-graph.json"))
         for file in content_changed:
             print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
             outgoing = outgoing_wikilinks(file)
