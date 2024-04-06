@@ -75,46 +75,36 @@ def main():
                 print(f"Copying {file.filepath} to {destination.filepath}...", file=sys.stderr)
                 shutil.copyfile(file.filepath, destination.filepath)
 
-    # These are the files that we need to regenerate, not because their content
-    # changed, but because other files changed such that the backlinks section
-    # now needs to be updated.
+    # Besides the markdown files whose content changed, we also need to
+    # regenerate markdown files whose backlinks have changed. In other words,
+    # these are the files for which other files changed such that the backlinks
+    # section now needs to be updated.
     backlinks_changed = []
 
     link_graph = {}
     link_graph_has_changed = False
     if os.path.isfile("link-graph.json"):
         link_graph = load_link_graph(File("link-graph.json"))
-        for file in content_changed:
-            print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
-            outgoing = outgoing_wikilinks(file)
-            # For each file that changed, compare the existing link graph
-            # to the set of current links we've detected in the file. Any
-            # differences (in either direction) mean that backlinks need to
-            # be updated. Also, if the file doesn't even exist in the link
-            # graph, then all the pages it links to must be updated.
-            if file in link_graph:
-                for linked_to in outgoing.symmetric_difference(set(link_graph[file])):
-                    backlinks_changed.append(linked_to)
-            else:
-                for linked_to in outgoing:
-                    backlinks_changed.append(linked_to)
-            # Once we're done comparing against the old link graph, make
-            # sure to update the link graph to the current links.
-            assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
-            link_graph[file] = list(outgoing)
-            link_graph_has_changed = True
-            print("done.", file=sys.stderr)
-    else:
-        for file in content_changed:
-            print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
-            outgoing = outgoing_wikilinks(file)
-            print(f"\nDEBUG: {file.filepath}, {outgoing}", file=sys.stderr)
+    for file in content_changed:
+        print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
+        outgoing = outgoing_wikilinks(file)
+        # For each file that changed, compare the existing link graph
+        # to the set of current links we've detected in the file. Any
+        # differences (in either direction) mean that backlinks need to
+        # be updated. Also, if the file doesn't even exist in the link
+        # graph, then all the pages it links to must be updated.
+        if file in link_graph:
+            for linked_to in outgoing.symmetric_difference(set(link_graph[file])):
+                backlinks_changed.append(linked_to)
+        else:
             for linked_to in outgoing:
                 backlinks_changed.append(linked_to)
-            assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
-            link_graph[file] = list(outgoing)
-            link_graph_has_changed = True
-            print("done.", file=sys.stderr)
+        # Once we're done comparing against the old link graph, make
+        # sure to update the link graph to the current links.
+        assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
+        link_graph[file] = list(outgoing)
+        link_graph_has_changed = True
+        print("done.", file=sys.stderr)
 
     if link_graph_has_changed:
         print("Saving new link graph...", end="", file=sys.stderr)
