@@ -88,6 +88,7 @@ def main():
     for file in content_changed:
         print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
         outgoing = outgoing_wikilinks(file)
+
         # For each file that changed, compare the existing link graph
         # to the set of current links we've detected in the file. Any
         # differences (in either direction) mean that backlinks need to
@@ -99,6 +100,7 @@ def main():
         else:
             for linked_to in outgoing:
                 backlinks_changed.append(linked_to)
+
         # Once we're done comparing against the old link graph, make
         # sure to update the link graph to the current links.
         assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
@@ -116,10 +118,10 @@ def main():
         write_link_graph(backlinks, File("backlinks.json"))
         print("done.", file=sys.stderr)
 
-    for file in backlinks_changed:
-        print(f"Generating new backlink fragment for {file.filepath}...", end="", file=sys.stderr)
-        generate_backlink_fragment(file, backlinks)
-        print("done.", file=sys.stderr)
+        for file in backlinks_changed:
+            print(f"Generating new backlink fragment for {file.filepath}...", end="", file=sys.stderr)
+            generate_backlink_fragment(file, backlinks)
+            print("done.", file=sys.stderr)
 
     # Now that the backlinks graph has been regenerated, we can finally
     # generate the page HTMLs.
