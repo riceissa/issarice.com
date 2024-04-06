@@ -91,6 +91,7 @@ def main():
                     backlinks_changed.append(linked_to)
             # Once we're done comparing against the old link graph, make
             # sure to update the link graph to the current links.
+            assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
             link_graph[file] = list(outgoing)
             print("done.", file=sys.stderr)
     else:
@@ -100,8 +101,8 @@ def main():
             print(f"\nDEBUG: {file.filepath}, {outgoing}", file=sys.stderr)
             for linked_to in outgoing:
                 backlinks_changed.append(linked_to)
+            assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
             link_graph[file] = list(outgoing)
-            print(f"\nDEBUG: link_graph: {link_graph}", file=sys.stderr)
             print("done.", file=sys.stderr)
 
     print("Saving new link graph...", end="", file=sys.stderr)
@@ -224,6 +225,10 @@ def process_filepath(file):
     #           "error code:", e.returncode,
     #           "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
     #     sys.exit()
+
+    if not os.path.isfile(file.filepath):
+        print(f"The file {file.filepath} does not exit; skipping.")
+        return None
 
     try:
         p_last_mod = subprocess.run([
