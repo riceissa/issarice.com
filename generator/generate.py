@@ -163,15 +163,17 @@ def main():
 
     # Now we update all-pages.json to reflect the lastest metadata of the
     # pages, and then regenerate that page.
-    all_pages = {}
-    if os.path.isfile("all-pages.json"):
-        all_pages = load_all_pages(File("all-pages.json"))
-    for file in content_changed:
-        metadata = read_metadata(file)
-        all_pages[file] = metadata
-    # TODO: only do some of this stuff if it's needed
-    write_all_pages(all_pages, File("all-pages.json"))
-    generate_all_pages_page(all_pages)
+    if content_changed:
+        print("Generating new all-pages file...", end="", file=sys.stderr)
+        all_pages = {}
+        if os.path.isfile("all-pages.json"):
+            all_pages = load_all_pages(File("all-pages.json"))
+        for file in content_changed:
+            metadata = read_metadata(file)
+            all_pages[file] = metadata
+        write_all_pages(all_pages, File("all-pages.json"))
+        generate_all_pages_page(all_pages)
+        print("done.", file=sys.stderr)
 
 def read_metadata(file):
     # TODO: this is a hack
