@@ -192,11 +192,14 @@ def read_metadata(file):
             if line.strip() == "---" or line.strip() == "...":
                 break
             # print(f"Seeing line: {line}", file=sys.stderr)
-            # TODO: some titles have quotes surrounding them because YAML
-            # requires escaping. Maybe it really just need a library to parse
-            # YAML...
             if line.startswith("title: "):
-                result["title"] = line[len("title: "):].strip()
+                title_part = line[len("title: "):].strip()
+                # TODO: some titles have quotes surrounding them because YAML
+                # requires escaping. Maybe it really just need a library to parse
+                # YAML...
+                if title_part[0] == '"' or title_part[0] == '"':
+                    title_part = title_part[1:-1]
+                result["title"] = title_part
             if line.startswith("author: "):
                 result["author"] = line[len("author: "):].strip()
             if line.startswith("created: "):
