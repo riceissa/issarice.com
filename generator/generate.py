@@ -354,21 +354,8 @@ def process_filepath(file: File) -> None:
         print(f"The file {file.filepath} does not exist; skipping.")
         return None
 
-    try:
-        p_last_mod = subprocess.run([
-            "git", "log", "-1",
-            '--format=%ad',  # TODO: i think i can just use %as or %cs
-            '--date=format:%Y-%m-%d',
-            "--", file.filepath
-        ], check=True, capture_output=True)
-        last_mod = p_last_mod.stdout.decode("utf-8").strip()
-    except subprocess.CalledProcessError as e:
-        print("Error running git log command:",
-              "error code:", e.returncode,
-              "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
-        sys.exit()
+    last_mod = last_modified_in_git(file)
 
-    # print(subprocess.list2cmdline(p_last_mod.args))
     final_dest = File("_site/" + slugify(file.fileroot()))
     temp_dest = File(final_dest.filepath + ".tempmjpage.html")
     try:
