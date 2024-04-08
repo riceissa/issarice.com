@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from __future__ import annotations
 import os
 import subprocess
 import sys
@@ -9,7 +10,6 @@ import shutil
 import shutil
 import json
 import urllib.parse
-from __future__ import annotations
 
 '''
 I didn't want to write my own static site generator, but... Obsidian wikilinks
