@@ -46,19 +46,19 @@ ALL_PAGES_AFTER = """
 """
 
 class File:
-    def __init__(self, filepath):
+    def __init__(self, filepath: str):
         self.filepath = filepath
 
-    def filename(self):
+    def filename(self) -> str:
         return self.filepath.split("/")[-1]
 
-    def fileroot(self):
+    def fileroot(self) -> str:
         return ".".join(self.filename().split(".")[:-1])
 
-    def is_markdown(self):
+    def is_markdown(self) -> bool:
         return self.filepath.endswith(".md")
 
-    def destination(self):
+    def destination(self) -> File:
         if self.filepath.startswith("wiki/"):
             if self.is_markdown():
                 return File("_site/" + slugify(self.fileroot()))
@@ -67,26 +67,27 @@ class File:
         else:
             raise ValueError(f"This file ({self.filepath}) is not in the wiki/ directory, so it doesn't have a destination!")
 
-    def __repr__(self):
+    def __repr__(self) -> str:
         return f"File(filepath={self.filepath})"
 
-    def __hash__(self):
+    def __hash__(self) -> int:
         return hash(self.filepath)
 
-    def __eq__(self, other):
+    def __eq__(self, other) -> bool:
         return self.filepath == other.filepath
 
-def main():
+def main() -> None:
     os.makedirs("_site", exist_ok=True)
 
     # First, we scan the wiki/ directory to look for new files and files that
     # have changed. If it's a markdown file, we keep track of it in
     # content_changed in order to process later. If it's any other file, we
     # just need to copy it to its destination.
-    content_changed = []
+    content_changed: list[File] = []
+    filename: str
     for filename in os.listdir("wiki"):
-        file = File("wiki/" + filename)
-        destination = file.destination()
+        file: File = File("wiki/" + filename)
+        destination: File = file.destination()
         if (not os.path.isfile(destination.filepath) or
                 os.path.getmtime(file.filepath) > os.path.getmtime(destination.filepath)):
             if file.is_markdown():
@@ -101,9 +102,9 @@ def main():
     # regenerate markdown files whose backlinks have changed. In other words,
     # these are the files for which other files changed such that the backlinks
     # section now needs to be updated.
-    backlinks_changed = []
+    backlinks_changed: list[File] = []
 
-    link_graph = {}
+    link_graph: dict[File, list[File]] = {}
     link_graph_has_changed = False
     if os.path.isfile("link-graph.json"):
         link_graph = load_link_graph(File("link-graph.json"))
@@ -175,14 +176,14 @@ def main():
         generate_all_pages_page(all_pages)
         print("done.", file=sys.stderr)
 
-def read_metadata(file):
+def read_metadata(file: File) -> dict[str, str]:
     # TODO: this is a hack
     # All the .startswith() calls make me uncomfortable since they depend on
     # certain bytes being in the right place (although my source files currently
     # adhere to this restriction).  However, I still prefer this to the old
     # solution of bringing in dependencies like PyYaml, parsing the whole header,
     # and then generating date-dependent pages using that.
-    result = {}
+    result: dict[str, str] = {}
     print(f"Opening {file.filepath} to read metadata...", file=sys.stderr)
     with open(file.filepath, "r") as f:
         first_line = next(f).strip()
@@ -212,7 +213,7 @@ def read_metadata(file):
                 result["status"] = line[len("status: "):].strip()
     return result
 
-def load_all_pages(read_from_file):
+def load_all_pages(read_from_file: File) -> dict[File, dict[str, str]]:
     all_pages = {}
     with open(read_from_file.filepath, "r") as f:
         d = json.load(f)
@@ -220,14 +221,14 @@ def load_all_pages(read_from_file):
             all_pages[File(key)] = d[key]
     return all_pages
 
-def write_all_pages(all_pages, write_to_file):
+def write_all_pages(all_pages: dict[File, dict[str, str]], write_to_file: File) -> None:
     d = {}
     for key in all_pages:
         d[key.filepath] = all_pages[key]
     with open(write_to_file.filepath, "w") as f:
         json.dump(d, f, indent=4)
 
-def generate_all_pages_page(all_pages):
+def generate_all_pages_page(all_pages: dict[File, dict[str, str]]) -> None:
     pages = sorted(all_pages.keys(), key=lambda x: all_pages[x].get("date", "2000-01-01"), reverse=True)
     source = ALL_PAGES_BEFORE
     for page in pages:
@@ -258,7 +259,7 @@ def generate_all_pages_page(all_pages):
         sys.exit()
 
 
-def last_modified_in_git(file):
+def last_modified_in_git(file: File) -> str:
     try:
         p = subprocess.run([
             "git", "log", "-1", "--format=%as", file.filepath
@@ -272,7 +273,7 @@ def last_modified_in_git(file):
         sys.exit()
 
 
-def outgoing_wikilinks(file):
+def outgoing_wikilinks(file: File) -> set[File]:
     try:
         # -implicit_header_references is necessary when using wikilinks: if the
         # about page has a section called "Contact" as well as a wiklink
@@ -294,10 +295,12 @@ def outgoing_wikilinks(file):
               "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
         sys.exit()
 
-def construct_backlinks_graph(link_graph):
+def construct_backlinks_graph(link_graph: dict[File, list[File]]) -> dict[File, list[File]]:
     # TODO: might need to think about capitalization (esp of first letter of page)
-    backlinks = {}
+    backlinks: dict[File, list[File]] = {}
+    x : File
     for x in link_graph:
+        y: File
         for y in link_graph[x]:
             if y in backlinks:
                 if x not in backlinks[y]:
@@ -306,7 +309,7 @@ def construct_backlinks_graph(link_graph):
                 backlinks[y] = [x]
     return backlinks
 
-def generate_backlink_fragment(file, backlinks):
+def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) -> None:
     os.makedirs("backlink_fragments", exist_ok=True)
     with open("backlink_fragments/" + file.fileroot() + ".html", "w") as f:
         f.write("<h2>Backlinks</h2>\n")
@@ -315,8 +318,7 @@ def generate_backlink_fragment(file, backlinks):
             f.write(f'<li><a href="{slugify(y.filename())}">{y.filename()}</a></li>\n')
         f.write("</ul>\n")
 
-def write_link_graph(link_graph, write_to_file):
-    # A link_graph is a dict from File to [File].
+def write_link_graph(link_graph: dict[File, list[File]], write_to_file: File) -> None:
     d = {}
     for key in link_graph:
         d[key.filepath] = [x.filepath for x in link_graph[key]]
@@ -325,7 +327,7 @@ def write_link_graph(link_graph, write_to_file):
         json.dump(d, f, indent=4)
         print("done.", file=sys.stderr)
 
-def load_link_graph(read_from_file):
+def load_link_graph(read_from_file: File) -> dict[File, list[File]]:
     link_graph = {}
     with open (read_from_file.filepath, "r") as f:
         d = json.load(f)
@@ -333,7 +335,7 @@ def load_link_graph(read_from_file):
             link_graph[File(key)] = [File(x) for x in d[key]]
         return link_graph
 
-def slugify(s):
+def slugify(s: str) -> str:
     '''
     "Slugify" the string s as follows: keep only the characters that are
     alphabetic or numerical, and group them together; all other characters are
@@ -345,7 +347,7 @@ def slugify(s):
     return s
 
 
-def process_filepath(file):
+def process_filepath(file: File) -> None:
 
     if not os.path.isfile(file.filepath):
         print(f"The file {file.filepath} does not exist; skipping.")
