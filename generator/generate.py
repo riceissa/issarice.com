@@ -9,6 +9,7 @@ import shutil
 import shutil
 import json
 import urllib.parse
+from __future__ import annotations
 
 '''
 I didn't want to write my own static site generator, but... Obsidian wikilinks
@@ -186,7 +187,7 @@ def read_metadata(file: File) -> dict[str, str]:
     result: dict[str, str] = {}
     print(f"Opening {file.filepath} to read metadata...", file=sys.stderr)
     with open(file.filepath, "r") as f:
-        first_line = next(f).strip()
+        first_line: str = next(f).strip()
         if first_line != "---":
             return result
         for line in f:
@@ -214,15 +215,15 @@ def read_metadata(file: File) -> dict[str, str]:
     return result
 
 def load_all_pages(read_from_file: File) -> dict[File, dict[str, str]]:
-    all_pages = {}
+    all_pages: dict[File, dict[str, str]] = {}
     with open(read_from_file.filepath, "r") as f:
-        d = json.load(f)
+        d: dict[str, dict[str, str]] = json.load(f)
         for key in d:
             all_pages[File(key)] = d[key]
     return all_pages
 
 def write_all_pages(all_pages: dict[File, dict[str, str]], write_to_file: File) -> None:
-    d = {}
+    d: dict[str, dict[str, str]] = {}
     for key in all_pages:
         d[key.filepath] = all_pages[key]
     with open(write_to_file.filepath, "w") as f:
@@ -328,7 +329,7 @@ def write_link_graph(link_graph: dict[File, list[File]], write_to_file: File) ->
         print("done.", file=sys.stderr)
 
 def load_link_graph(read_from_file: File) -> dict[File, list[File]]:
-    link_graph = {}
+    link_graph: dict[File, list[File]] = {}
     with open (read_from_file.filepath, "r") as f:
         d = json.load(f)
         for key in d:
