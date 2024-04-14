@@ -5,8 +5,7 @@ import os
 import subprocess
 import sys
 import datetime
-import shlex
-import shutil
+# import shlex
 import shutil
 import json
 import urllib.parse
@@ -46,6 +45,7 @@ ALL_PAGES_AFTER = """
 - [Gwern.net metadata table](gwern-net-metadata-table)
 """
 
+
 class File:
     def __init__(self, filepath: str):
         self.filepath = filepath
@@ -66,7 +66,9 @@ class File:
             else:
                 return File("_site/" + self.filename())
         else:
-            raise ValueError(f"This file ({self.filepath}) is not in the wiki/ directory, so it doesn't have a destination!")
+            raise ValueError(f"This file ({self.filepath}) is not in the "
+                             "wiki/ directory, so it doesn't have a "
+                             "destination!")
 
     def __repr__(self) -> str:
         return f"File(filepath={self.filepath})"
@@ -76,6 +78,7 @@ class File:
 
     def __eq__(self, other) -> bool:
         return self.filepath == other.filepath
+
 
 def main() -> None:
     os.makedirs("_site", exist_ok=True)
@@ -90,13 +93,14 @@ def main() -> None:
         file: File = File("wiki/" + filename)
         destination: File = file.destination()
         if (not os.path.isfile(destination.filepath) or
-                os.path.getmtime(file.filepath) > os.path.getmtime(destination.filepath)):
+              os.path.getmtime(file.filepath) > os.path.getmtime(destination.filepath)):
             if file.is_markdown():
                 print(f"Processing {file.filepath}...", file=sys.stderr)
                 content_changed.append(file)
             else:
                 # Just copy the file if it's not markdown.
-                print(f"Copying {file.filepath} to {destination.filepath}...", file=sys.stderr)
+                print(f"Copying {file.filepath} to {destination.filepath}...",
+                      file=sys.stderr)
                 shutil.copyfile(file.filepath, destination.filepath)
 
     # Besides the markdown files whose content changed, we also need to
@@ -110,7 +114,8 @@ def main() -> None:
     if os.path.isfile("link-graph.json"):
         link_graph = load_link_graph(File("link-graph.json"))
     for file in content_changed:
-        print(f"Updating links for {file.filepath}...", end="", file=sys.stderr)
+        print(f"Updating links for {file.filepath}...", end="",
+              file=sys.stderr)
         outgoing = outgoing_wikilinks(file)
 
         # For each file that changed, compare the existing link graph
@@ -177,6 +182,7 @@ def main() -> None:
         generate_all_pages_page(all_pages)
         print("done.", file=sys.stderr)
 
+
 def read_metadata(file: File) -> dict[str, str]:
     # TODO: this is a hack
     # All the .startswith() calls make me uncomfortable since they depend on
@@ -214,6 +220,7 @@ def read_metadata(file: File) -> dict[str, str]:
                 result["status"] = line[len("status: "):].strip()
     return result
 
+
 def load_all_pages(read_from_file: File) -> dict[File, dict[str, str]]:
     all_pages: dict[File, dict[str, str]] = {}
     with open(read_from_file.filepath, "r") as f:
@@ -222,12 +229,14 @@ def load_all_pages(read_from_file: File) -> dict[File, dict[str, str]]:
             all_pages[File(key)] = d[key]
     return all_pages
 
+
 def write_all_pages(all_pages: dict[File, dict[str, str]], write_to_file: File) -> None:
     d: dict[str, dict[str, str]] = {}
     for key in all_pages:
         d[key.filepath] = all_pages[key]
     with open(write_to_file.filepath, "w") as f:
         json.dump(d, f, indent=4)
+
 
 def generate_all_pages_page(all_pages: dict[File, dict[str, str]]) -> None:
     pages = sorted(all_pages.keys(), key=lambda x: all_pages[x].get("date", "2000-01-01"), reverse=True)
@@ -296,10 +305,11 @@ def outgoing_wikilinks(file: File) -> set[File]:
               "error message:", e.stderr.decode("utf-8"), file=sys.stderr)
         sys.exit()
 
+
 def construct_backlinks_graph(link_graph: dict[File, list[File]]) -> dict[File, list[File]]:
     # TODO: might need to think about capitalization (esp of first letter of page)
     backlinks: dict[File, list[File]] = {}
-    x : File
+    x: File
     for x in link_graph:
         y: File
         for y in link_graph[x]:
@@ -310,6 +320,7 @@ def construct_backlinks_graph(link_graph: dict[File, list[File]]) -> dict[File, 
                 backlinks[y] = [x]
     return backlinks
 
+
 def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) -> None:
     os.makedirs("backlink_fragments", exist_ok=True)
     with open("backlink_fragments/" + file.fileroot() + ".html", "w") as f:
@@ -318,6 +329,7 @@ def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) ->
         for y in backlinks[file]:
             f.write(f'<li><a href="{slugify(y.filename())}">{y.filename()}</a></li>\n')
         f.write("</ul>\n")
+
 
 def write_link_graph(link_graph: dict[File, list[File]], write_to_file: File) -> None:
     d = {}
@@ -330,7 +342,7 @@ def write_link_graph(link_graph: dict[File, list[File]], write_to_file: File) ->
 
 def load_link_graph(read_from_file: File) -> dict[File, list[File]]:
     link_graph: dict[File, list[File]] = {}
-    with open (read_from_file.filepath, "r") as f:
+    with open(read_from_file.filepath, "r") as f:
         d = json.load(f)
         for key in d:
             link_graph[File(key)] = [File(x) for x in d[key]]
@@ -360,7 +372,9 @@ def process_filepath(file: File) -> None:
     temp_dest = File(final_dest.filepath + ".tempmjpage.html")
     try:
         pandoc_args = [
-            "pandoc", "-f", "markdown+smart+wikilinks_title_after_pipe-implicit_header_references", "-t", "html5",
+            "pandoc", "-f",
+            "markdown+smart+wikilinks_title_after_pipe-implicit_header_references",
+            "-t", "html5",
             "--shift-heading-level-by", "1",
             "--template", "templates/default.html5",
             "-M", "toc-title:Contents",
@@ -411,6 +425,7 @@ def process_filepath(file: File) -> None:
     else:
         print(f"No math in {file.filepath} so just renaming page.", file=sys.stderr)
         os.rename(temp_dest.filepath, final_dest.filepath)
+
 
 if __name__ == "__main__":
     main()
