@@ -103,9 +103,6 @@ def main() -> None:
                       file=sys.stderr)
                 shutil.copyfile(file.filepath, destination.filepath)
 
-
-
-
     link_graph: dict[File, list[File]] = {}
     if os.path.isfile("link-graph.json"):
         link_graph = load_link_graph(File("link-graph.json"))
@@ -122,8 +119,6 @@ def main() -> None:
     # Once we're done comparing against the old link graph, make
     # sure to update the link graph to the current links.
     (link_graph, link_graph_has_changed) = new_linkgraph(link_graph, outgoing_map, content_changed)
-
-
 
     if link_graph_has_changed:
         print("Saving new link graph...", end="", file=sys.stderr)
