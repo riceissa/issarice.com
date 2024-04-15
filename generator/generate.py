@@ -103,39 +103,27 @@ def main() -> None:
                       file=sys.stderr)
                 shutil.copyfile(file.filepath, destination.filepath)
 
-    # Besides the markdown files whose content changed, we also need to
-    # regenerate markdown files whose backlinks have changed. In other words,
-    # these are the files for which other files changed such that the backlinks
-    # section now needs to be updated.
-    backlinks_changed: list[File] = []
+
+
 
     link_graph: dict[File, list[File]] = {}
-    link_graph_has_changed = False
     if os.path.isfile("link-graph.json"):
         link_graph = load_link_graph(File("link-graph.json"))
+    outgoing_map: dict[File, set[File]] = {}
     for file in content_changed:
-        print(f"Updating links for {file.filepath}...", end="",
-              file=sys.stderr)
-        outgoing = outgoing_wikilinks(file)
+        outgoing_map[file] = outgoing_wikilinks(file)
 
-        # For each file that changed, compare the existing link graph
-        # to the set of current links we've detected in the file. Any
-        # differences (in either direction) mean that backlinks need to
-        # be updated. Also, if the file doesn't even exist in the link
-        # graph, then all the pages it links to must be updated.
-        if file in link_graph:
-            for linked_to in outgoing.symmetric_difference(set(link_graph[file])):
-                backlinks_changed.append(linked_to)
-        else:
-            for linked_to in outgoing:
-                backlinks_changed.append(linked_to)
+    # Besides the markdown files whose content changed, we also need to
+    # regenerate the HTML for markdown files whose backlinks have changed. In other words,
+    # these are the files for which other files changed such that the backlinks
+    # section now needs to be updated. This must be done using the old link_graph.
+    backlinks_changed: list[File] = find_backlinks_changed(content_changed, link_graph, outgoing_map)
 
-        # Once we're done comparing against the old link graph, make
-        # sure to update the link graph to the current links.
-        assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
-        link_graph[file] = list(outgoing)
-        link_graph_has_changed = True
-        print("done.", file=sys.stderr)
+    # Once we're done comparing against the old link graph, make
+    # sure to update the link graph to the current links.
+    (link_graph, link_graph_has_changed) = new_linkgraph(link_graph, outgoing_map, content_changed)
+
+
 
     if link_graph_has_changed:
         print("Saving new link graph...", end="", file=sys.stderr)
@@ -182,6 +170,36 @@ def main() -> None:
         generate_all_pages_page(all_pages)
         print("done.", file=sys.stderr)
 
+
+def new_linkgraph(link_graph: dict[File, list[File]], outgoing_map: dict[File, set[File]], content_changed: list[File]) -> tuple[dict[File, list[File]], bool]:
+    link_graph_has_changed = False
+    for file in content_changed:
+        print(f"Updating links for {file.filepath}...", end="",
+              file=sys.stderr)
+        outgoing = outgoing_map[file]
+        assert all(x.filepath != "wiki/.md" for x in outgoing), f"DEBUG: {outgoing}"
+        link_graph[file] = list(outgoing)
+        link_graph_has_changed = True
+        print("done.", file=sys.stderr)
+
+    return (link_graph, link_graph_has_changed)
+
+def find_backlinks_changed(content_changed: list[File], link_graph: dict[File, list[File]], outgoing_map: dict[File, set[File]]) -> list[File]:
+    result: list[File] = []
+    for file in content_changed:
+        outgoing = outgoing_map[file]
+        # For each file that changed, compare the existing link graph
+        # to the set of current links we've detected in the file. Any
+        # differences (in either direction) mean that backlinks need to
+        # be updated. Also, if the file doesn't even exist in the link
+        # graph, then all the pages it links to must be updated.
+        if file in link_graph:
+            for linked_to in outgoing.symmetric_difference(set(link_graph[file])):
+                result.append(linked_to)
+        else:
+            for linked_to in outgoing:
+                result.append(linked_to)
+    return result
 
 def read_metadata(file: File) -> dict[str, str]:
     # TODO: this is a hack
@@ -284,6 +302,7 @@ def last_modified_in_git(file: File) -> str:
 
 
 def outgoing_wikilinks(file: File) -> set[File]:
+    """Find the outgoing wikilinks in the given Markdown file."""
     try:
         # -implicit_header_references is necessary when using wikilinks: if the
         # about page has a section called "Contact" as well as a wiklink
