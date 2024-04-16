@@ -18,24 +18,13 @@ https://eastmanreference.com/rss
 https://www.openphilanthropy.org/content-type/blog-posts/feed/ "~New Open Phil Blog"
 https://disqus.com/CarlShulman/latest.rss
 https://www.greaterwrong.com/users/carlshulman?format=rss
-https://www.greaterwrong.com/users/wei_dai?format=rss
-https://exp.issarice.com/ea-forum-reader/users.php?id=wei_dai&format=rss
-https://ea.greaterwrong.com/users/wei_dai?format=rss
 https://disqus.com/wei_dai/latest.rss
 https://www.greaterwrong.com/users/jonahsinick?format=rss
 https://www.greaterwrong.com/users/vipulnaik?format=rss
-https://www.greaterwrong.com/users/eliezer_yudkowsky?format=rss
-https://eaforum.issarice.com/users/eliezeryudkowsky?format=rss
-https://ea.greaterwrong.com/users/eliezeryudkowsky?format=rss
 https://disqus.com/eliezeryudkowsky/latest.rss
-https://www.greaterwrong.com/users/annasalamon?format=rss
-https://ea.greaterwrong.com/users/annasalamon?format=rss
 https://www.greaterwrong.com/users/sarahconstantin?format=rss
-https://www.greaterwrong.com/users/valentine?show=posts&format=rss
 https://www.greaterwrong.com/users/academian?format=rss
 https://ea.greaterwrong.com/users/abramdemski?format=rss
-https://www.greaterwrong.com/users/scott-garrabrant?format=rss
-https://www.greaterwrong.com/users/jessica-liu-taylor?format=rss
 https://www.greaterwrong.com/users/richard_reitz?format=rss
 https://www.greaterwrong.com/users/daozaich?format=rss
 https://www.greaterwrong.com/users/lukeprog?format=rss
@@ -48,8 +37,6 @@ https://ea.greaterwrong.com/users/carlshulman?format=rss
 https://eaforum.issarice.com/users/clairezabel?format=rss
 https://ea.greaterwrong.com/users/clairezabel?format=rss
 https://ea.greaterwrong.com/users/galton?format=rss
-https://ea.greaterwrong.com/users/buck?format=rss
-https://www.greaterwrong.com/users/buck?format=rss
 http://reflectivedisequilibrium.blogspot.com/feeds/posts/default
 http://hagiograffiti.blogspot.com/feeds/posts/default
 https://vipulnaik.com/blog/feed/
@@ -73,8 +60,6 @@ https://arcsecond.wordpress.com/feed/
 https://usamo.wordpress.com/feed/
 http://prog21.dadgum.com/atom.xml
 https://feeds.feedburner.com/stevelosh?format=xml
-https://casparoesterheld.com/feed/
-http://www.simonknutsson.com/feed/
 https://howielempel.com/blog/feed/
 http://feeds.pinboard.in/rss/u:mnielsen/t:ahi/ "~mnielsen Pinboard - ahi"
 http://feeds.pinboard.in/rss/u:mnielsen/t:memory/ "~mnielsen Pinboard - memory"
