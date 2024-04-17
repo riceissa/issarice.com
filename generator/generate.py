@@ -63,8 +63,17 @@ class File:
         return os.path.getmtime(self.filepath)
 
     def contents_have_changed(self) -> bool:
+        """If the destination exists and is staler than the source file, return
+        True. Otherwise return False."""
         dest: File = self.destination()
-        return not os.path.isfile(dest.filepath) or self.mtime() > dest.mtime()
+        if self.destination_exists():
+            return self.mtime() > dest.mtime()
+        else:
+            return False
+
+    def destination_exists(self) -> bool:
+        dest: File = self.destination()
+        return os.path.isfile(dest.filepath)
 
     def destination(self) -> File:
         if self.filepath.startswith("wiki/"):
@@ -98,7 +107,7 @@ def main() -> None:
     filename: str
     for filename in os.listdir("wiki"):
         file: File = File("wiki/" + filename)
-        if file.contents_have_changed():
+        if not file.destination_exists() or file.contents_have_changed():
             if file.is_markdown():
                 print(f"Processing {file.filepath}...", file=sys.stderr)
                 content_changed.append(file)
