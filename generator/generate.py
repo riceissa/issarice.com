@@ -59,6 +59,13 @@ class File:
     def is_markdown(self) -> bool:
         return self.filepath.endswith(".md")
 
+    def mtime(self) -> float:
+        return os.path.getmtime(self.filepath)
+
+    def contents_have_changed(self) -> bool:
+        dest: File = self.destination()
+        return not os.path.isfile(dest.filepath) or self.mtime() > dest.mtime()
+
     def destination(self) -> File:
         if self.filepath.startswith("wiki/"):
             if self.is_markdown():
@@ -91,14 +98,13 @@ def main() -> None:
     filename: str
     for filename in os.listdir("wiki"):
         file: File = File("wiki/" + filename)
-        destination: File = file.destination()
-        if (not os.path.isfile(destination.filepath) or
-              os.path.getmtime(file.filepath) > os.path.getmtime(destination.filepath)):
+        if file.contents_have_changed():
             if file.is_markdown():
                 print(f"Processing {file.filepath}...", file=sys.stderr)
                 content_changed.append(file)
             else:
                 # Just copy the file if it's not markdown.
+                destination: File = file.destination()
                 print(f"Copying {file.filepath} to {destination.filepath}...",
                       file=sys.stderr)
                 shutil.copyfile(file.filepath, destination.filepath)
