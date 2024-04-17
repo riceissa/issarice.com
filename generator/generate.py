@@ -75,6 +75,16 @@ class File:
         dest: File = self.destination()
         return os.path.isfile(dest.filepath)
 
+    def copy_to_destination(self) -> None:
+        if self.is_markdown():
+            raise ValueError("Cannot just copy markdown files!"
+                             " Markdown files must be regenerated.")
+        else:
+            destination: File = self.destination()
+            print(f"Copying {self.filepath} to {destination.filepath}...",
+                  file=sys.stderr)
+            shutil.copyfile(self.filepath, destination.filepath)
+
     def destination(self) -> File:
         if self.filepath.startswith("wiki/"):
             if self.is_markdown():
@@ -113,10 +123,7 @@ def main() -> None:
                 content_changed.append(file)
             else:
                 # Just copy the file if it's not markdown.
-                destination: File = file.destination()
-                print(f"Copying {file.filepath} to {destination.filepath}...",
-                      file=sys.stderr)
-                shutil.copyfile(file.filepath, destination.filepath)
+                file.copy_to_destination()
 
     link_graph: dict[File, list[File]] = {}
     if os.path.isfile("link-graph.json"):
