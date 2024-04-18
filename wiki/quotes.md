@@ -51,7 +51,9 @@ This page keeps track of some quotes I've especially liked over the years (not a
 > 
 > ---Lawrence Afrin, _Never Bet Against Occam_
 
-
+> what i thought was passion was actually just the physical ability to work longer.
+>
+> ---[user lugalanda2 on Reddit](https://www.reddit.com/r/covidlonghaulers/comments/1bt37ty/just_somebody_that_i_used_to_know/kxkkz9z/)
 # External links
 
 - [Jonathan Blow quotes on Wikiquote](https://en.wikiquote.org/wiki/Jonathan_Blow) (most of this page was written by me)
