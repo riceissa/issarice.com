@@ -136,9 +136,10 @@ def main() -> None:
         outgoing_map[file] = outgoing_wikilinks(file)
 
     # Besides the markdown files whose content changed, we also need to
-    # regenerate the HTML for markdown files whose backlinks have changed. In other words,
-    # these are the files for which other files changed such that the backlinks
-    # section now needs to be updated. This must be done using the old link_graph.
+    # regenerate the HTML for markdown files whose backlinks have changed. In
+    # other words, these are the files for which other files changed such that
+    # the backlinks section now needs to be updated. This must be done using
+    # the old link_graph.
     backlinks_changed: list[File] = find_backlinks_changed(content_changed, link_graph, outgoing_map)
 
     # Once we're done comparing against the old link graph, make
