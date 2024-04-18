@@ -130,9 +130,7 @@ def main() -> None:
             # Just copy the file if it's not markdown.
             file.copy_to_destination()
 
-    link_graph: dict[File, list[File]] = {}
-    if os.path.isfile("link-graph.json"):
-        link_graph = load_link_graph(File("link-graph.json"))
+    link_graph: dict[File, list[File]] = load_link_graph(File("link-graph.json"))
     outgoing_map: dict[File, set[File]] = {}
     for file in content_changed:
         outgoing_map[file] = outgoing_wikilinks(file)
@@ -382,12 +380,15 @@ def write_link_graph(link_graph: dict[File, list[File]], write_to_file: File) ->
         print("done.", file=sys.stderr)
 
 def load_link_graph(read_from_file: File) -> dict[File, list[File]]:
+    """Load a link graph from disk. If the file doesn't exist, then just return
+    an empty graph."""
     link_graph: dict[File, list[File]] = {}
-    with open(read_from_file.filepath, "r") as f:
-        d = json.load(f)
-        for key in d:
-            link_graph[File(key)] = [File(x) for x in d[key]]
-        return link_graph
+    if os.path.isfile(read_from_file.filepath):
+        with open(read_from_file.filepath, "r") as f:
+            d = json.load(f)
+            for key in d:
+                link_graph[File(key)] = [File(x) for x in d[key]]
+    return link_graph
 
 def slugify(s: str) -> str:
     '''
