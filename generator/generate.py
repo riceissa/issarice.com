@@ -149,19 +149,13 @@ def main() -> None:
             outgoing_map, content_changed)
 
     if link_graph_has_changed:
-        print("Saving new link graph...", end="", file=sys.stderr)
         write_link_graph(link_graph, File("link-graph.json"))
-        print("done.", file=sys.stderr)
 
         backlinks = construct_backlinks_graph(link_graph)
-        print("Saving new backlinks graph...", end="", file=sys.stderr)
         write_link_graph(backlinks, File("backlinks.json"))
-        print("done.", file=sys.stderr)
 
         for file in backlinks_changed:
-            print(f"Generating new backlink fragment for {file.filepath}...", end="", file=sys.stderr)
             generate_backlink_fragment(file, backlinks)
-            print("done.", file=sys.stderr)
 
     # Now that the backlinks graph has been regenerated, we can finally
     # generate the page HTMLs.
@@ -364,6 +358,12 @@ def construct_backlinks_graph(link_graph: dict[File, list[File]]) -> dict[File, 
 
 
 def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) -> None:
+    """A backlink fragment is the fragment of HTML that is included at the
+    bottom of the HTML page showing the backlinks. This function generates the
+    backlink fragment for a file and saves it on disk."""
+
+    print(f"Generating new backlink fragment for {file.filepath}...",
+          end="", file=sys.stderr)
     os.makedirs("backlink_fragments", exist_ok=True)
     with open("backlink_fragments/" + file.fileroot() + ".html", "w") as f:
         f.write("<h2>Backlinks</h2>\n")
@@ -371,9 +371,11 @@ def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) ->
         for y in backlinks[file]:
             f.write(f'<li><a href="{slugify(y.filename())}">{y.filename()}</a></li>\n')
         f.write("</ul>\n")
+    print("done.", file=sys.stderr)
 
 
 def write_link_graph(link_graph: dict[File, list[File]], write_to_file: File) -> None:
+    print("Saving new link graph...", end="", file=sys.stderr)
     d = {}
     for key in link_graph:
         d[key.filepath] = [x.filepath for x in link_graph[key]]
@@ -381,6 +383,7 @@ def write_link_graph(link_graph: dict[File, list[File]], write_to_file: File) ->
         print(f"Saving new link graph to {write_to_file.filepath}...", end="", file=sys.stderr)
         json.dump(d, f, indent=4)
         print("done.", file=sys.stderr)
+    print("done.", file=sys.stderr)
 
 def load_link_graph(read_from_file: File) -> dict[File, list[File]]:
     """Load a link graph from disk. If the file doesn't exist, then just return
