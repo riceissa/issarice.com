@@ -362,6 +362,16 @@ def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) ->
     bottom of the HTML page showing the backlinks. This function generates the
     backlink fragment for a file and saves it on disk."""
 
+    # This can happen if a wikilink used to exist pointing to a non-existent
+    # page, and then later that wikilink is removed. In that case, the
+    # find_backlinks_changed function won't know that the wikilink was to a
+    # non-existent page, and will just assume that page existed and its
+    # backlink fragment must now be updated.  In cases like this, where we try
+    # to generate a backlink fragment for a page that is no longer in the
+    # backlinks graph, just skip it and do nothing.
+    if file not in backlinks:
+        return None
+
     print(f"Generating new backlink fragment for {file.filepath}...",
           end="", file=sys.stderr)
     os.makedirs("backlink_fragments", exist_ok=True)
