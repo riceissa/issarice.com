@@ -75,6 +75,13 @@ class File:
         dest: File = self.destination()
         return os.path.isfile(dest.filepath)
 
+    def directly_needs_to_be_regenerated(self) -> bool:
+        """The destination doesn't exist (so it's a new file) or its contents
+        have changed, so it *directly* needs to be regenerated. This is in
+        contract to *indirectly* needing to be regenerated (because backlinks
+        have changed)."""
+        return not self.destination_exists() or self.contents_have_changed()
+
     def copy_to_destination(self) -> None:
         if self.is_markdown():
             raise ValueError("Cannot just copy markdown files!"
@@ -109,21 +116,19 @@ class File:
 def main() -> None:
     os.makedirs("_site", exist_ok=True)
 
+    files: list[File] = [File("wiki/" + filename) for filename in os.listdir("wiki")]
+
     # First, we scan the wiki/ directory to look for new files and files that
     # have changed. If it's a markdown file, we keep track of it in
     # content_changed in order to process later. If it's any other file, we
     # just need to copy it to its destination.
-    content_changed: list[File] = []
-    filename: str
-    for filename in os.listdir("wiki"):
-        file: File = File("wiki/" + filename)
-        if not file.destination_exists() or file.contents_have_changed():
-            if file.is_markdown():
-                print(f"Processing {file.filepath}...", file=sys.stderr)
-                content_changed.append(file)
-            else:
-                # Just copy the file if it's not markdown.
-                file.copy_to_destination()
+    content_changed: list[File] = [file for file in files
+            if file.is_markdown() and file.directly_needs_to_be_regenerated()]
+
+    for file in files:
+        if not file.is_markdown() and file.directly_needs_to_be_regenerated():
+            # Just copy the file if it's not markdown.
+            file.copy_to_destination()
 
     link_graph: dict[File, list[File]] = {}
     if os.path.isfile("link-graph.json"):
