@@ -140,11 +140,13 @@ def main() -> None:
     # other words, these are the files for which other files changed such that
     # the backlinks section now needs to be updated. This must be done using
     # the old link_graph.
-    backlinks_changed: list[File] = find_backlinks_changed(content_changed, link_graph, outgoing_map)
+    backlinks_changed: list[File] = find_backlinks_changed(content_changed,
+            link_graph, outgoing_map)
 
     # Once we're done comparing against the old link graph, make
     # sure to update the link graph to the current links.
-    (link_graph, link_graph_has_changed) = new_linkgraph(link_graph, outgoing_map, content_changed)
+    (link_graph, link_graph_has_changed) = new_linkgraph(link_graph,
+            outgoing_map, content_changed)
 
     if link_graph_has_changed:
         print("Saving new link graph...", end="", file=sys.stderr)
