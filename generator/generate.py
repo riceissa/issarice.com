@@ -385,7 +385,7 @@ def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) ->
         f.write("<h2>Backlinks</h2>\n")
         f.write("<ul>\n")
         for y in backlinks[file]:
-            f.write(f'<li><a href="{slugify(y.filename())}">{y.filename()}</a></li>\n')
+            f.write(f'<li><a href="{slugify(y.fileroot())}">{y.fileroot()}</a></li>\n')
         f.write("</ul>\n")
     print("done.", file=sys.stderr)
 
