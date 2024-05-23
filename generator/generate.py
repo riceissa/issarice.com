@@ -201,7 +201,13 @@ def new_linkgraph(link_graph: dict[File, list[File]], outgoing_map: dict[File, s
 
     return (link_graph, link_graph_has_changed)
 
-def find_backlinks_changed(content_changed: list[File], link_graph: dict[File, list[File]], outgoing_map: dict[File, set[File]]) -> list[File]:
+def find_backlinks_changed(
+        content_changed: list[File],
+        link_graph: dict[File, list[File]],
+        outgoing_map: dict[File, set[File]]) -> list[File]:
+    """Return the list of files whose backlinks have changed. It may return
+    files that don't exist (if some other actually-existing file links to it).
+    (TODO: possibly fix this so it only returns actually-existing files.)"""
     result: list[File] = []
     for file in content_changed:
         outgoing = outgoing_map[file]
@@ -379,7 +385,7 @@ def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) ->
         f.write("<h2>Backlinks</h2>\n")
         f.write("<ul>\n")
         for y in backlinks[file]:
-            f.write(f'<li><a href="{slugify(y.filename())}">{y.filename()}</a></li>\n')
+            f.write(f'<li><a href="{slugify(y.fileroot())}">{y.fileroot()}</a></li>\n')
         f.write("</ul>\n")
     print("done.", file=sys.stderr)
 
