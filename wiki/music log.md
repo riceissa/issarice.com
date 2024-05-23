@@ -465,6 +465,12 @@ The Pillows:
 	- "Edelweiss"
 	- "Sixteen Going on Seventeen"
 
+# May 2024
+
+- *Death Note* OST:
+	- "Shunjun"
+
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
