@@ -8,7 +8,7 @@ date: 2024-05-22
 There are quite a number of labels people use for the name of their chronic illness. On this page, I discuss some of the ones I encounter the most as well as some of my own. Why do I care about labels? For a few reasons:
 
 1. For better or worse, labels are used as a rallying cry to try to get governmental (and other) organizations to conduct research on the illnesses. I may still benefit from research done for a label that doesn't apply to me, but it seems less likely because the people doing that research would be fundamentally confused about what sort of disease they are even studying.
-2. Labels are used to exclude people (see example below of a Facebook group that rejected my request to join because my post-viral illness wasn't from COVID). If some conditions are "more similar than different", then using labels that exclude some people will unfairly prevent people from accessing resources such as care/support, money, knowledge, etc.
+2. Labels are used to exclude people (see example below of a Facebook group that rejected my request to join because my post-viral illness wasn't from COVID; I also probably can't get any disability income in the US because I have no formal diagnosis despite having seen about a dozen doctors). If some conditions are "more similar than different", then using labels that exclude some people will unfairly prevent those people from accessing resources such as care/support, money, knowledge, etc.
 3. Labels are handy for quickly communicating to others what I am dealing with. It's sadly not possible to have nuanced communication all the time, so having a quick-but-accurate label allows me to communicate the most important information quickly.
 
 And now, here's the list of labels:
