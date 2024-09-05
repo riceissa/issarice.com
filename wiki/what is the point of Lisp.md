@@ -9,7 +9,7 @@ date: 2024-03-02
 
 i hate lisp, especially lisp-2, but even lisp-1, because my brain doesn't want to understand `quote`. what follows is some introspection i did to understand `quote` better; by the end i had a deeper appreciation of what the point of lisp was, and some thoughts on how to improve it.
 
-i think the thing that's weird about scheme is that in most languages, many expressions (in particular, lists) evaluate to themselves. e.g. in both python and haskell, `[1,2,3]` evaluates to `[1,2,3]`, i.e., itself! but in scheme, `(1 2 3)` does not evaluate to itself... because it tries to call the function `1` on the arguments `2` and `3`, which errors because `1` is not a function. so to get the evaluated list `(1 2 3)`, you need to write `'(1 2 3)`. but importantly, `'(1 2 3)` does not evaluate to itself either; it evaluates to the list `(1 2 3)`. otoh, some things like `2` still evaluate to themselves.
+i think the thing that's weird about scheme is that in most languages, many expressions (in particular, lists) evaluate to themselves. e.g. in both python and haskell, `[1,2,3]` evaluates to `[1,2,3]`, i.e., itself! but in scheme, `(1 2 3)` does not evaluate to itself... because it tries to call the function `1` on the arguments `2` and `3`, which errors because `1` is not a function. so to get the evaluated list `(1 2 3)`, you need to write `'(1 2 3)`. but importantly, `'(1 2 3)` does not evaluate to itself either; it evaluates to the list `(1 2 3)`. otoh, some things like the integer `2` still evaluate to themselves.
 
 this "lists don't just evaluate to themselves" is what makes lisps very hard to work with, i think. and ultimately this comes from the abuse of notation -- using `(a b c)` for both function calls and for data (or as paul graham says "\[...] one of the most distinctive features of Lisp: code and data are made out of the same data structures"). that's why lisp needs the `'` (or `quote`) to distinguish between data and programs, because the programs look just like the data!
 
@@ -34,3 +34,9 @@ you know, i think the best of both worlds might have been using `[...]` for list
 you wouldn't easily be able to write an interpreter in this language unless support for strings is added -- because there's no way to pass around function calls without evaluating them. but in python you would just as easily write one, i think.
 
 2024-01-10: also, there'd be currying so `(f x y z)` would be the same thing as `(((f x) y) z)`. haskell does make this much nicer by not requiring the parentheses. but that makes parsing much harder.
+
+2024-08-27: you can't implement a while loop using a for loop in python because `while_loop(condition, statements)` cannot be done; you can't pass a bunch of statements into a function. in lisp, you can quote it and pass it in! that's the difference.
+
+2024-08-31: so lisp is more like a meta programming language. a simple language that you can use to make your own programming language. the only drawback is that you have to stick with ugly parentheses, so you can't change the overarching syntax of the language. but you can implement all the nice programming constructs that you would want, like list comprehension, different loops, etc.
+
+2024-09-04: is there a useful example of such a thing? one example might be handling nested try-catch statements (although this whole style of error handling is debatable...). i think i've had situations where i wish i could pass groups of statements into a function, and couldn't, in python.
