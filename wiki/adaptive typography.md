@@ -66,6 +66,8 @@ reading goes through several stages:
 - committed: if you didn't bounce at the first step, you have committed. there's _something_ in here that you want to absorb. but at this stage you might still not be sure exactly where the info you want is located. so you still want some sort of intra-page navigation features
 - you've found your spot. now you just want to read linearly.
 
+another thought i had about all of this: i think that this sort of mode switching is more helpful at the level of an entire website rather than just a single paper or webpage. with a single page you're more likely to just want to sit down and absorb it. with a website, you want to navigate around to find the thing you're looking for.
+
 # External links
 
 - [here](https://www.greaterwrong.com/posts/X4nYiTLGxAkR2KLAP/open-and-welcome-thread-december-2019/comment/89tQRcqPkRKrPFJ3S) is a discussion i started on LessWrong back in 2019.

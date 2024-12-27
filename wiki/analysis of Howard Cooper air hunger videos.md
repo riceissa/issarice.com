@@ -64,6 +64,10 @@ sequence/flow of the video:
 - need to gradually increase CO~2~ levels.
 - anxiety cycle -- being hyperfixated on breathing. anxiety causes you to overbreathe, and you maintain your air hunger, and the air hunger makes you more worried about breathing. so there's a vicious cycle. so need to treat both breathing and anxiety.
 
+See also my comment on this video:
+
+> The bicarbonate buffer system (which is what this video covers) explains why low CO2 levels can be maintained in those with chronic hyperventilation, but it doesn't explain why people with low CO2 have more sensitivity to the same amount of buildup/increase in CO2 (relative to their baseline). In other words, this video doesn't explain why people with air hunger have lower Control Pauses. I am guessing the sensitivity to CO2 buildup has to do with with details of how chemoreceptors work and how their sensitivity changes, but I haven't been able to find anything about this. Do you happen to know a good reference for this?
+
 # See also
 
 - [[perspectives on focusing on the breath]]

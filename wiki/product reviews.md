@@ -397,6 +397,8 @@ Some thoughts after having used the laptop for a couple of months:
 
 Update (2023-12-28): I am appreciating the "yoga-ness" of this laptop more and more as time goes on. For example, it's possible to invert it so that it's like a laptop, but the screen pointing in the opposite direction. With this posture, the laptop can act as an "external monitor" -- I can bring my own external keyboard, and use the laptop as a monitor (set on top of some books, for example). This allows me to separate "keyboard" from "monitor". Whereas with a normal laptop one would have to *also* bring an external monitor to do something like this, with the Yoga it's possible to just keep using the laptop's screen (or else have the rest of the laptop body be in your way, or have the screen be too far). I remember one time I used a similar configuration to watch some videos from my bed.
 
+Update (2024-10-09): The "ASDF" row of the keyboard has been getting stuck almost every time I close the laptop lid and reopen it. So far it unsticks itself within a few seconds but I am worried eventually it will get permanently stuck. Sometimes it even leads to keypresses while in the stuck state. I believe in future models of this laptop they stopped making the keys retract, and I think this was a wise decision by Lenovo.
+
 # Xiaomi Redmi 10
 
 See [here](https://www.gsmarena.com/xiaomi_redmi_10-11060.php) for product info.
