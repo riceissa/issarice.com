@@ -399,6 +399,8 @@ Update (2023-12-28): I am appreciating the "yoga-ness" of this laptop more and m
 
 Update (2024-10-09): The "ASDF" row of the keyboard has been getting stuck almost every time I close the laptop lid and reopen it. So far it unsticks itself within a few seconds but I am worried eventually it will get permanently stuck. Sometimes it even leads to keypresses while in the stuck state. I believe in future models of this laptop they stopped making the keys retract, and I think this was a wise decision by Lenovo.
 
+Update (2025-01-10): In the last month or so, I've been noticing that the "E" key on the keyboard is not as responsive as it once was. I need to press it with a lot of force for it to register, so often I notice typos where a word is missing one or more of the Es in it. Since E is one of the most common letters in English, this is quite annoying.
+
 # Xiaomi Redmi 10
 
 See [here](https://www.gsmarena.com/xiaomi_redmi_10-11060.php) for product info.
