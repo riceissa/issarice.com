@@ -33,7 +33,7 @@ print("""<?xml version="1.0" encoding="utf-8"?>
   <link href="https://issarice.com/atom.xml" rel="self" type="application/atom+xml" />
   <link rel="alternate" type="application/rss+xml" hreflang="en" href="http://issarice.com/rss.xml" />
   <generator uri="https://github.com/riceissa/issarice.com/blob/master/generator/feed.py">atom.sh</generator>
-""".format(datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S") + "+00:00"))
+""".format(datetime.datetime.now(datetime.UTC).strftime("%Y-%m-%dT%H:%M:%S") + "+00:00"))
 
 pages = []
 
@@ -80,10 +80,11 @@ pages = sorted(pages, key=lambda x: x['date'], reverse=True)[:30]
 for page in pages:
     try:
         p = subprocess.run([
-            "pandoc", "-f", "markdown+smart-implicit_header_references", "-t", "html5",
+            "pandoc", "-f",
+            "markdown+smart-implicit_header_references+wikilinks_title_after_pipe",
+            "-t", "html5",
             "--toc", "--toc-depth", "4", "--shift-heading-level-by", "1",
             "--lua-filter", "generator/url_filter.lua",
-            "--filter", "generator/wikilinks.sh",
             page['filepath'],
         ], check=True, capture_output=True)
     except subprocess.CalledProcessError as e:
