@@ -34,7 +34,7 @@ This page lists software that I currently use.
 	- Pandoc
 	- [[Exuberant Ctags]]
 	- yt-dlp
-	- [[Newsbeuter]] (actually called Newsboat now)
+	- [[Newsboat]] (actually called Newsboat now)
 	- [[Vim]] (mostly Neovim since about July or August 2020) with [various plugins](https://github.com/riceissa/dotfiles/blob/master/.vimrc#L8-L42) for most text editing.
 	- [[Git]]
 	- Bash for my shell (I've tried both zsh and fish but found them more annoying than useful. For example, zsh's Ctrl-w only deletes back to punctuation rather than to whitespace. I think bash+fzf is sufficient to make the command line really pleasant to use)

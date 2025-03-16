@@ -5,14 +5,11 @@ created: 2015-01-14
 date: 2018-09-21
 ---
 
-*This page is about the Atom and RSS feeds for this website.
-If you're looking for specific social media feeds, head over to my pages on [[Facebook]] or [[Quora]]; see also my [[contact]] page, where you'll find a list of my various social media accounts.*
+*This page is about the Atom and RSS feeds for this website. If you're looking for specific social media feeds, see my pages on [[Facebook]] or [[Quora]]; see also my [[contact]] page, where you'll find a list of my various social media accounts.*
 
-I have an [Atom feed](atom.xml) and an [RSS feed](rss.xml) for this website where you can get updates (this is probably the best way to get updates, since it includes only the more important changes).
+I have an [Atom feed](atom.xml) (which is a better version of RSS in my understanding, and should work with almost all RSS readers) for this website where you can get updates (this is probably the best way to get updates, since it includes only the more important changes).
 
-However, since the site's source code is hosted on GitHub, one can also use [GitHub's atom feed for the master branch](https://github.com/riceissa/riceissa.com/commits/master.atom), which includes all updates to pages---even very incremental ones.
-
-When I feel a page is "good enough", I will probably place a link to it on the front page, along with a possible status update on Facebook.
+However, since the site's source code is hosted on GitHub, one can also use [GitHub's atom feed for the master branch](https://github.com/riceissa/riceissa.com/commits/master.atom), which includes all updates to pages -- even very incremental ones.
 
 There are also various other Atom/RSS feeds of my online activity:
 
@@ -31,4 +28,4 @@ There are also various other Atom/RSS feeds of my online activity:
 * [LessWrong Wiki](https://wiki.lesswrong.com/api.php?action=feedcontributions&user=Riceissa&feedformat=atom)
 * [wikiHow](https://www.wikihow.com/api.php?action=feedcontributions&user=Issa-Rice&feedformat=atom)
 
-For feeds that _I_ follow, see [urls.txt](https://issarice.com/urls.txt) (it is in [[Newsbeuter]] format).
+For feeds that _I_ follow, see [urls.txt](https://issarice.com/urls.txt) (it is in [[Newsboat]] format).

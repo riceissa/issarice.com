@@ -4,9 +4,7 @@ author: Issa Rice
 date: 2016-10-26
 ---
 
-I use [Newsbeuter](https://web.archive.org/web/20161013081017/http://newsbeuter.org/) (now called [Newsboat](https://newsboat.org/)) to read RSS and Atom feeds.
-On a server, I have a cronjob that runs `newsbeuter -x reload`.
-This is useful for archiving some sites that I don't regularly want to read.
+I use [Newsboat](https://newsboat.org/) (formerly called [Newsbeuter](https://web.archive.org/web/20161013081017/http://newsbeuter.org/)) to read RSS and Atom feeds.
 On my local machine, I have a [smaller list of
 URLs](https://issarice.com/urls.txt) that I regularly check.
 
