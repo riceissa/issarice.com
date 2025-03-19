@@ -401,6 +401,8 @@ Update (2024-10-09): The "ASDF" row of the keyboard has been getting stuck almos
 
 Update (2025-01-10): In the last month or so, I've been noticing that the "E" key on the keyboard is not as responsive as it once was. I need to press it with a lot of force for it to register, so often I notice typos where a word is missing one or more of the Es in it. Since E is one of the most common letters in English, this is quite annoying.
 
+Update (2025-03-18): On 2025-03-17 I noticed that the left click on my touchpad (not the dedicated button above the touchpad, but the button that is part of the touchpad itself, on the bottom right corner) has stopped clicking. The right click still works fine. I'm not sure how this happened since I rarely use the touchpad.
+
 # Xiaomi Redmi 10
 
 See [here](https://www.gsmarena.com/xiaomi_redmi_10-11060.php) for product info.
