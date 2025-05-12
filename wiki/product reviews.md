@@ -403,6 +403,8 @@ Update (2025-01-10): In the last month or so, I've been noticing that the "E" ke
 
 Update (2025-03-18): On 2025-03-17 I noticed that the left click on my touchpad (not the dedicated button above the touchpad, but the button that is part of the touchpad itself, on the bottom right corner) has stopped clicking. The right click still works fine. I'm not sure how this happened since I rarely use the touchpad.
 
+Update (2025-05-12): the thing that was going on with the "E" key is still ongoing, and now the same thing has started happning with th "R" key as well. I think both problems happn more often whn the laptop lid has just ben opned; I suspct the retractable keyboard is the cause of the issue (making th keys retract into the laptop every time the lid is closed or flipped into yoga mode means that the keys can get "stuck" in that position or otherwise just have a lot more mechanical action done to them than mere typing). (NOTE: I stated trying to fix the typos in this paragraph, but I decided to leave in the ones with the missing Es and Rs due to the keyboard, just to show how annoying this problem is.)
+
 # Xiaomi Redmi 10
 
 See [here](https://www.gsmarena.com/xiaomi_redmi_10-11060.php) for product info.
