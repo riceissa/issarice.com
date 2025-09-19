@@ -470,6 +470,13 @@ The Pillows:
 - *Death Note* OST:
 	- "Shunjun"
 
+# September 2025
+
+I thought my brain couldn't do new music anymore, but apparently it still can
+(or maybe I'm getting healthier).
+
+- The Submarines: _Honeysuckle Weeks_, especially "You, Me and the Bourgeoisie",
+  "Swimming Pool", "1940", and "The Wake Up Song".
 
 # History
 
