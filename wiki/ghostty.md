@@ -99,6 +99,9 @@ under Fedora 42 running a Gnome desktop environment:
   change `mouse-scroll-multiplier = 0.25` in the settings but then it skips
   every other scroll, and I can set it to 0.5 instead, but then it's still
   feels like it's scrolling more than in Gnome terminal.
+- When I start typing in the terminal and the mouse cursor is on the terminal,
+  I expect the cursor to disappear, but in Ghostty the cursor just sits there
+  without being hidden.
 
 Looking at this list, I have the thought that the thing that's important in a
 GUI application is not that it's the fastest or that it has the most features,
