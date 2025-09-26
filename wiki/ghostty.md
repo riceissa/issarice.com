@@ -99,3 +99,13 @@ under Fedora 42 running a Gnome desktop environment:
   change `mouse-scroll-multiplier = 0.25` in the settings but then it skips
   every other scroll, and I can set it to 0.5 instead, but then it's still
   feels like it's scrolling more than in Gnome terminal.
+
+Looking at this list, I have the thought that the thing that's important in a
+GUI application is not that it's the fastest or that it has the most features,
+but more that it doesn't have a bunch of little annoyances. I can get used to
+little annoyances, but if I have already gotten used to the little annoyances
+of one application (Gnome terminal, in this case), then I am not going to
+switch to another application (Ghostty) unless it is better in some way and
+either has the _same_ little annoyances or fixes some of those annoyances. But
+if the new application has _different_ little annoyances, then that's a
+problem.
