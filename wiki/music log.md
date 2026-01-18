@@ -478,6 +478,10 @@ I thought my brain couldn't do new music anymore, but apparently it still can
 - The Submarines: _Honeysuckle Weeks_, especially "You, Me and the Bourgeoisie",
   "Swimming Pool", "1940", and "The Wake Up Song".
 
+# January 2026
+
+- Arctic Monkeys: "A Certain Romance". To a lesser extent, "I Bet You Look Good on the Dancefloor", "Fake Tales of San Francisco", "Fluorescent Adolescent".
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
