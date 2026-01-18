@@ -480,7 +480,7 @@ I thought my brain couldn't do new music anymore, but apparently it still can
 
 # January 2026
 
-- Arctic Monkeys: "A Certain Romance". To a lesser extent, "I Bet You Look Good on the Dancefloor", "Fake Tales of San Francisco", "Fluorescent Adolescent".
+- Arctic Monkeys: "A Certain Romance", "That's Where You're Wrong". To a lesser extent, "I Bet You Look Good on the Dancefloor", "Fake Tales of San Francisco", "Fluorescent Adolescent".
 
 # History
 
