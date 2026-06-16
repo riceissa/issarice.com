@@ -480,7 +480,24 @@ I thought my brain couldn't do new music anymore, but apparently it still can
 
 # January 2026
 
-- Arctic Monkeys: "A Certain Romance", "That's Where You're Wrong". To a lesser extent, "I Bet You Look Good on the Dancefloor", "Fake Tales of San Francisco", "Fluorescent Adolescent".
+- Arctic Monkeys: started with a few songs like "A Certain Romance", "That's Where You're Wrong", "Teddy Picker", "I Bet You Look Good on the Dancefloor", "Fake Tales of San Francisco", "Fluorescent Adolescent".
+
+# February 2026 to May 2026
+
+- Got more and more into Arctic Monkeys. My favorite songs from each album/era as of June 2026 are:
+    - _Whatever People Say I Am, That's What I'm Not_: "A Certain Romance", "Despair in the Departure Lounge" (it's a B-side), "From the Ritz to the Rubble", "Perhaps Vampires Is a Bit Strong But...", "Fake Tales of San Francisco", "The View from the Afternoon"
+    - _Favorite Worst Nightmare_: "This House Is a Circus", "Teddy Picker", "Only Ones Who Know", "505", "Too Much to Ask" (it's a B-side)
+    - _Humbug_: "Crying Lightning", "Secret Door", "Cornerstone", "Dance Little Liar"
+    - _Suck It and See_: "Reckless Serenade", "That's Where You're Wrong"
+    - _AM_: "Knee Socks"
+    - _Tranquility Base Hotel and Casino_: "Batphone", "Anyways" (it's a B-side)
+    - _The Car_: "Body Paint", "Big Ideas"
+- The Strokes (_Is This It_ and _Room On Fire_)
+- Pacifica (_Freak Scene_, _In Your Face_)
+
+# June 2026
+
+- Alexandra Savior: _Belladonna of Sadness_; "Cupid" and "’Til You're Mine" initially hooked me, and from there I was able to enjoy most of the other tracks.
 
 # History
 
