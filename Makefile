@@ -14,7 +14,7 @@ quick:
 pages: wiki_pages non_wiki_pages
 
 .PHONY: non_wiki_pages
-non_wiki_pages: $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work $(OUTDIR)/account-names $(OUTDIR)/portfolio
+non_wiki_pages: $(IMAGES_DEST) $(STATIC_DEST) $(OUTDIR)/work.html $(OUTDIR)/account-names.html $(OUTDIR)/portfolio.html
 
 .PHONY: wiki_pages
 wiki_pages:
@@ -62,7 +62,7 @@ $(OUTDIR)/sitemap.xml: generator/sitemap.sh | $(OUTDIR)
 $(OUTDIR)/atom.xml: generator/atom.sh | $(OUTDIR)
 	./generator/feed.py > "$@"
 
-$(OUTDIR)/portfolio: html/portfolio.html | $(OUTDIR)
+$(OUTDIR)/portfolio.html: html/portfolio.html | $(OUTDIR)
 	cp html/portfolio.html "$@"
 
 $(OUTDIR):
@@ -74,10 +74,10 @@ $(OUTDIR)/%: images/% | $(OUTDIR)
 $(OUTDIR)/%: static/% | $(OUTDIR)
 	cp "$<" "$@"
 
-$(OUTDIR)/work: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/work.py | $(OUTDIR)
+$(OUTDIR)/work.html: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/work.py | $(OUTDIR)
 	./generator/work.py > "$@"
 
-$(OUTDIR)/account-names: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/account_names.py data/online-presence.csv | $(OUTDIR)
+$(OUTDIR)/account-names.html: $(OUTDIR)/theme.default.css $(OUTDIR)/jquery.tablesorter.js $(OUTDIR)/jquery-latest.min.js generator/account_names.py data/online-presence.csv | $(OUTDIR)
 	./generator/account_names.py > "$@"
 
 .PHONY: clean

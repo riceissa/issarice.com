@@ -95,7 +95,7 @@ class File:
     def destination(self) -> File:
         if self.filepath.startswith("wiki/"):
             if self.is_markdown():
-                return File("_site/" + slugify(self.fileroot()))
+                return File("_site/" + slugify(self.fileroot()) + ".html")
             else:
                 return File("_site/" + self.filename())
         else:
@@ -284,7 +284,7 @@ def generate_all_pages_page(all_pages: dict[File, dict[str, str]]) -> None:
     source = ALL_PAGES_BEFORE
     for page in pages:
         title = all_pages[page].get('title')
-        url = slugify(page.fileroot())
+        url = slugify(page.fileroot()) + ".html"
         last_substantive_revision = all_pages[page].get('date') or ""
         last_modified = last_modified_in_git(page)
         created = all_pages[page].get('created') or ""
@@ -301,7 +301,7 @@ def generate_all_pages_page(all_pages: dict[File, dict[str, str]]) -> None:
             "--template", "templates/default.html5",
             "--toc", "-M", "toc-title:Contents",
             "-M", "today:" + datetime.date.today().strftime("%Y-%m-%d"),
-            "-M", "lang:en", "-o", "_site/all-pages"
+            "-M", "lang:en", "-o", "_site/all-pages.html"
         ], input=source.encode('utf-8'), check=True)
     except subprocess.CalledProcessError as e:
         print("Error while trying to find last modification date inside last_modified_in_git:",
@@ -385,7 +385,7 @@ def generate_backlink_fragment(file: File, backlinks: dict[File, list[File]]) ->
         f.write("<h2>Backlinks</h2>\n")
         f.write("<ul>\n")
         for y in backlinks[file]:
-            f.write(f'<li><a href="{slugify(y.fileroot())}">{y.fileroot()}</a></li>\n')
+            f.write(f'<li><a href="{slugify(y.fileroot()) + ".html"}">{y.fileroot()}</a></li>\n')
         f.write("</ul>\n")
     print("done.", file=sys.stderr)
 
@@ -432,7 +432,7 @@ def process_filepath(file: File) -> None:
 
     last_mod = last_modified_in_git(file)
 
-    final_dest = File("_site/" + slugify(file.fileroot()))
+    final_dest = File("_site/" + slugify(file.fileroot()) + ".html")
     temp_dest = File(final_dest.filepath + ".tempmjpage.html")
     try:
         pandoc_args = [

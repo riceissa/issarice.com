@@ -50,7 +50,8 @@ def task_receptacle_formatted(task_receptacle, task_receptacle_url):
     else:
         return task_receptacle
 
-cnx = mysql.connector.connect(user='issa', database='contractwork')
+cnx = mysql.connector.connect(user='issa', database='contractwork',
+                              unix_socket='/var/lib/mysql/mysql.sock')
 cursor = cnx.cursor()
 
 # cursor.rowcount is supposed to give the number of rows but it seems to just
