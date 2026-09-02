@@ -68,6 +68,11 @@ function Link(elem)
     target = slug(pandoc.utils.stringify(elem.content))
   elseif elem.title == "wikilink" then
     target = slug(pandoc.utils.stringify(elem.target))
+  -- I swear just the above elem.title check was working before. Did Pandoc
+  -- change the native representation of wikilinks? The following seems
+  -- to be required now.
+  elseif elem.attr.classes:find("wikilink") then
+    target = slug(pandoc.utils.stringify(elem.target))
   end
   return pandoc.Link(elem.content, target, elem.title, elem.attr)
 end
