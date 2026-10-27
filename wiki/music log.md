@@ -499,6 +499,10 @@ I thought my brain couldn't do new music anymore, but apparently it still can
 
 - Alexandra Savior: _Belladonna of Sadness_; "Cupid" and "’Til You're Mine" initially hooked me, and from there I was able to enjoy most of the other tracks.
 
+# October 2026
+
+- No Buses: "Girl"
+
 # History
 
 This was originally written as an answer to the Quora question "[What music does Issa Rice listen to?](!q)"
