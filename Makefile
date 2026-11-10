@@ -3,7 +3,6 @@ IMAGES = $(wildcard images/*)
 IMAGES_DEST = $(patsubst images/%,$(OUTDIR)/%,$(IMAGES))
 STATIC_FILES = $(wildcard static/*)
 STATIC_DEST = $(patsubst static/%,$(OUTDIR)/%,$(STATIC_FILES))
-SERVER_DEST = carbon:/var/www/issarice.com/public_html
 PANDOC_FLAGS = -f markdown+smart -t html5 --shift-heading-level-by=1 --template=templates/default.html5 -M toc-title:"Contents" -M today:$(shell date -Idate | tr -d '\n') -M lang:"en"
 
 .PHONY: quick
@@ -28,7 +27,7 @@ meta_pages: $(OUTDIR)/atom.xml $(OUTDIR)/sitemap.xml
 
 .PHONY: sync
 sync:
-	rsync --delete --exclude=_archive/ -r $(OUTDIR)/ $(SERVER_DEST)
+	wrangler deploy
 
 .PHONY: push
 push:
@@ -47,14 +46,6 @@ fast_deploy:
 	$(MAKE) pages
 	$(MAKE) sync
 	$(MAKE) push
-
-.PHONY: deploy_archive
-deploy_archive:
-	$(MAKE) clean
-	$(MAKE) deploy
-	$(eval hash := $(shell git rev-parse --verify HEAD))
-	rsync -r $(OUTDIR)/ \
-		$(SERVER_DEST)/_archive/$(shell date -Idate)-$(hash)
 
 $(OUTDIR)/sitemap.xml: generator/sitemap.sh | $(OUTDIR)
 	./generator/sitemap.sh
